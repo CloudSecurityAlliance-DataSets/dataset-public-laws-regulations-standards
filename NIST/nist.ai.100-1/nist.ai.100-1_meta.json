@@ -1,0 +1,416 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Executive Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                616.717041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Part 1: Foundational Information",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                616.717041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Framing Risk",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                696.7449951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Understanding and Addressing Risks, Impacts, and Harms",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                596.6270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Challenges for AI Risk Management",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                479.5589904785156,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk Measurement ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                423.83599853515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk Tolerance",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                721.1309814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk Prioritization",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                297.5989990234375,
+                0.0
+            ]
+        },
+        {
+            "title": "Organizational Integration and Management of Risk",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                395.0889892578125,
+                0.0
+            ]
+        },
+        {
+            "title": "Audience",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                594.9660034179688,
+                0.0
+            ]
+        },
+        {
+            "title": "AI Risks and Trustworthiness",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                721.1309814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Valid and Reliable",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                296.6029968261719,
+                0.0
+            ]
+        },
+        {
+            "title": "Safe",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                340.4599914550781,
+                0.0
+            ]
+        },
+        {
+            "title": "Secure and Resilient",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                592.1829833984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Accountable and Transparent",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                327.177001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Explainable and Interpretable",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                359.0569763183594,
+                0.0
+            ]
+        },
+        {
+            "title": "Privacy-Enhanced",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                577.737060546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Fair \u2013 with Harmful Bias Managed",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                290.4110107421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Effectiveness of the AI RMF",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                721.1309814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Part 2: Core and Profiles",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                721.1309814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "AI RMF Core",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                696.3099975585938,
+                0.0
+            ]
+        },
+        {
+            "title": "Govern",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                379.1269836425781,
+                0.0
+            ]
+        },
+        {
+            "title": "Map",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                286.66900634765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Measure",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                588.905029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Manage",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                381.89898681640625,
+                0.0
+            ]
+        },
+        {
+            "title": "AI RMF Profiles",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                451.4750061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A: Descriptions of AI Actor Tasks from Figures 2 and 3",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                451.4750061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix B: How AI Risks Differ from Traditional Software Risks",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                451.4750061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix C: AI Risk Management and Human-AI Interaction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                451.4750061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix D: Attributes of the AI RMF",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                721.1309814453125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 48,
+    "ocr_stats": {
+        "ocr_pages": 3,
+        "ocr_failed": 0,
+        "ocr_success": 3,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 88,
+        "code": 0,
+        "table": 13,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
