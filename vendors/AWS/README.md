@@ -9,7 +9,7 @@ then move all the markdown files to a filename with the full path:
 ```
 find . -type f -name "*.md" | while read filepath; do
   newpath=$(echo "$filepath" | sed 's|^\./||' | sed 's/\//-/g')
-  mv "$filepath" "$newpath"
+  cp "$filepath" "$newpath"
 done
 ```
 
