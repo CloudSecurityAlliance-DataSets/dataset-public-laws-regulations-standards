@@ -51,8 +51,12 @@ done
 
 cd ..
 
+cd gcp-docs-secur
+
 # then smash them all together ("pip3 install files-to-prompt"):
 
-files-to-prompt ./gcp-docs-secur > gcp-security-docs-all.md
+../create-file-blocks-for-chatbot.sh
 
 #and upload them to the chatbot.
+
+cd ..
