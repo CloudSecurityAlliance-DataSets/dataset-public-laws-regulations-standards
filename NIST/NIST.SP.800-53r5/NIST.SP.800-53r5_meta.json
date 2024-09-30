@@ -1,0 +1,4680 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "NIST SP 800-53 Rev. 5, Security and Privacy Controls for Information Systems and Organizations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -83.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Abstract",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                533.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Keywords",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                320.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Errata",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -83.0,
+                757.0,
+                0.0
+            ]
+        },
+        {
+            "title": "INTRODUCTION",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1   PURPOSE AND APPLICABILITY",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                468.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2   TARGET AUDIENCE",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                574.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3   ORGANIZATIONAL RESPONSIBILITIES",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                256.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.4   RELATIONSHIP TO OTHER PUBLICATIONS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                614.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5   REVISIONS AND EXTENSIONS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                391.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.6   PUBLICATION ORGANIZATION",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                169.0,
+                0.0
+            ]
+        },
+        {
+            "title": "THE FUNDAMENTALS",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1   REQUIREMENTS AND CONTROLS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                536.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2   CONTROL STRUCTURE AND ORGANIZATION",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                587.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3   CONTROL IMPLEMENTATION APPROACHES",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                166.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.4   SECURITY AND PRIVACY CONTROLS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                521.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.5   TRUSTWORTHINESS AND ASSURANCE",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                508.0,
+                0.0
+            ]
+        },
+        {
+            "title": "THE CONTROLS",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 20,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1   ACCESS CONTROL",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 25,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-2 ACCOUNT MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-3 ACCESS ENFORCEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                500.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-4 INFORMATION FLOW ENFORCEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                350.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-5 SEPARATION OF DUTIES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                611.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-6 LEAST PRIVILEGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                336.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-7 UNSUCCESSFUL LOGON ATTEMPTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                650.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-8 SYSTEM USE NOTIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                371.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-9 PREVIOUS LOGON NOTIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                513.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-10 CONCURRENT SESSION CONTROL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                564.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-11 DEVICE LOCK",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                374.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-12 SESSION TERMINATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 69,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                626.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-13 SUPERVISION AND REVIEW \u2014 ACCESS CONTROL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-14 PERMITTED ACTIONS WITHOUT IDENTIFICATION OR AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                676.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-15 AUTOMATED MARKING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                281.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-16 SECURITY AND PRIVACY ATTRIBUTES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                238.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-17 REMOTE ACCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 74,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                487.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-18 WIRELESS ACCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                436.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-19 ACCESS CONTROL FOR MOBILE DEVICES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                337.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-20 USE OF EXTERNAL SYSTEMS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 79,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                598.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-21 INFORMATION SHARING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 81,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                521.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-22 PUBLICLY ACCESSIBLE CONTENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-23 DATA MINING PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                342.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-24 ACCESS CONTROL DECISIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 83,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                550.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC-25 REFERENCE MONITOR",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 84,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                614.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2   AWARENESS AND TRAINING",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 85,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 85,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                664.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-2 LITERACY TRAINING AND AWARENESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 86,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-3 ROLE-BASED TRAINING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 88,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                533.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-4 TRAINING RECORDS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 90,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                650.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-5 CONTACTS WITH SECURITY GROUPS AND ASSOCIATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 90,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                461.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AT-6 TRAINING FEEDBACK",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 90,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                417.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.3   AUDIT AND ACCOUNTABILITY",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 16,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                665.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-2 EVENT LOGGING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 92,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-3 CONTENT OF AUDIT RECORDS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                539.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-4 AUDIT LOG STORAGE CAPACITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 94,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                547.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-5 RESPONSE TO AUDIT LOGGING PROCESS FAILURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 94,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                196.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-6 AUDIT RECORD REVIEW, ANALYSIS, AND REPORTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 96,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                512.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-7 AUDIT RECORD REDUCTION AND REPORT GENERATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 98,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                183.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-8 TIME STAMPS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 99,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                383.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-9 PROTECTION OF AUDIT INFORMATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-10 NON-REPUDIATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-11 AUDIT RECORD RETENTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                462.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-12 AUDIT RECORD GENERATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                122.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-13 MONITORING FOR INFORMATION DISCLOSURE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 105,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                556.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-14 SESSION AUDIT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 106,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                547.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-15 ALTERNATE AUDIT LOGGING CAPABILITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 107,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AU-16 CROSS-ORGANIZATIONAL AUDIT LOGGING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 107,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                634.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4   ASSESSMENT, AUTHORIZATION, AND MONITORING",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 109,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 109,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                665.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-3 INFORMATION EXCHANGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                166.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-4 SECURITY CERTIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 114,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                313.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-5 PLAN OF ACTION AND MILESTONES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 114,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                269.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-6 AUTHORIZATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 115,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                539.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-8 PENETRATION TESTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CA-9 INTERNAL SYSTEM CONNECTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 120,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                414.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5   CONFIGURATION MANAGEMENT",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 14,
+            "page_index": 122,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 122,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                665.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-2 BASELINE CONFIGURATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 123,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-3 CONFIGURATION CHANGE CONTROL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                205.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-4 IMPACT ANALYSES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 127,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                509.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-5 ACCESS RESTRICTIONS FOR CHANGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 128,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                611.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-6 CONFIGURATION SETTINGS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 129,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                443.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-7 LEAST FUNCTIONALITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 130,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                204.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-8 SYSTEM COMPONENT INVENTORY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                197.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-9 CONFIGURATION MANAGEMENT PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 136,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                322.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-10 SOFTWARE USAGE RESTRICTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 137,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                283.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-11 USER-INSTALLED SOFTWARE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                478.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-12 INFORMATION LOCATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                611.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-13 DATA ACTION MAPPING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                155.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CM-14 SIGNED COMPONENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                531.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.6   CONTINGENCY PLANNING",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 13,
+            "page_index": 141,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-2 CONTINGENCY PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 142,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-3 CONTINGENCY TRAINING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 144,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                200.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-4 CONTINGENCY PLAN TESTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                169.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-5 CONTINGENCY PLAN UPDATE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                451.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-6 ALTERNATE STORAGE SITE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                407.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-7 ALTERNATE PROCESSING SITE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 148,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                374.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-8 TELECOMMUNICATIONS SERVICES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 150,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                650.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-9 SYSTEM BACKUP",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 151,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                214.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-10 SYSTEM RECOVERY AND RECONSTITUTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-11 ALTERNATE COMMUNICATIONS PROTOCOLS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                696.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-12 SAFE MODE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                518.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CP-13 ALTERNATIVE SECURITY MECHANISMS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                304.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.7   IDENTIFICATION AND AUTHENTICATION",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 12,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-2 IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 158,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-3 DEVICE IDENTIFICATION AND AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                491.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-4 IDENTIFIER MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 162,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                422.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-5 AUTHENTICATOR MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 164,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                524.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-6 AUTHENTICATION FEEDBACK",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 169,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                522.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-7 CRYPTOGRAPHIC MODULE AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 169,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                296.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-8 IDENTIFICATION AND AUTHENTICATION (NON-ORGANIZATIONAL USERS)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 169,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                130.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-9 SERVICE IDENTIFICATION AND AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                333.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-10 ADAPTIVE AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-11 RE-AUTHENTICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                386.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IA-12 IDENTITY PROOFING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                221.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.8   INCIDENT RESPONSE",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 175,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 175,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-2 INCIDENT RESPONSE TRAINING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 176,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-3 INCIDENT RESPONSE TESTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 177,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                565.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-4 INCIDENT HANDLING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 178,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                626.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-6 INCIDENT REPORTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 183,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-7 INCIDENT RESPONSE ASSISTANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 184,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-8 INCIDENT RESPONSE PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 184,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                262.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IR-9 INFORMATION SPILLAGE RESPONSE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 185,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                135.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.9   MAINTENANCE",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 188,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-2 CONTROLLED MAINTENANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-3 MAINTENANCE TOOLS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                123.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-4 NONLOCAL MAINTENANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 191,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                452.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-5 MAINTENANCE PERSONNEL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 193,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                524.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-6 TIMELY MAINTENANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 195,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                611.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MA-7 FIELD MAINTENANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 196,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                582.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.10   MEDIA PROTECTION",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 197,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 197,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-2 MEDIA ACCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-3 MEDIA MARKING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                424.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-4 MEDIA STORAGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                125.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-5 MEDIA TRANSPORT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 199,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                285.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-6 MEDIA SANITIZATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                314.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-7 MEDIA USE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 202,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                293.0,
+                0.0
+            ]
+        },
+        {
+            "title": "MP-8 MEDIA DOWNGRADING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 203,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                395.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.11   PHYSICAL AND ENVIRONMENTAL PROTECTION",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 23,
+            "page_index": 205,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 205,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-2 PHYSICAL ACCESS AUTHORIZATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 206,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-3 PHYSICAL ACCESS CONTROL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 207,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-4 ACCESS CONTROL FOR TRANSMISSION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                553.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-5 ACCESS CONTROL FOR OUTPUT DEVICES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                351.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-6 MONITORING PHYSICAL ACCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                643.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-7 VISITOR CONTROL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                355.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-8 VISITOR ACCESS RECORDS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                312.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-9 POWER EQUIPMENT AND CABLING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 212,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                438.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-10 EMERGENCY SHUTOFF",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 213,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-11 EMERGENCY POWER",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 213,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                465.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-12 EMERGENCY LIGHTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 214,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                608.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-13 FIRE PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 214,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                341.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-14 ENVIRONMENTAL CONTROLS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                312.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-15 WATER DAMAGE PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 216,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                472.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-16 DELIVERY AND REMOVAL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 216,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                205.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-17 ALTERNATE WORK SITE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-18 LOCATION OF SYSTEM COMPONENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                378.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-19 INFORMATION LEAKAGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                148.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-20 ASSET MONITORING AND TRACKING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                527.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-21 ELECTROMAGNETIC PULSE PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                350.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-22 COMPONENT MARKING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                148.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PE-23 FACILITY LOCATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 219,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                482.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.12   PLANNING",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 11,
+            "page_index": 220,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 220,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-2 SYSTEM SECURITY AND PRIVACY PLANS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-3 SYSTEM SECURITY PLAN UPDATE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                140.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-4 RULES OF BEHAVIOR",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 223,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-5 PRIVACY IMPACT ASSESSMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-6 SECURITY-RELATED ACTIVITY PLANNING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                676.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-7 CONCEPT OF OPERATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                633.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-8 SECURITY AND PRIVACY ARCHITECTURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                382.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-9 CENTRAL MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 226,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                426.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-10 Baseline Selection",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PL-11 Baseline Tailoring",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                312.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.13   PROGRAM MANAGEMENT",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 30,
+            "page_index": 229,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-1 INFORMATION SECURITY PROGRAM PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 229,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                377.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-2 INFORMATION SECURITY PROGRAM LEADERSHIP ROLE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 230,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                324.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-3 INFORMATION SECURITY AND PRIVACY RESOURCES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 230,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                134.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-4 PLAN OF ACTION AND MILESTONES PROCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 231,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                489.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-5 SYSTEM INVENTORY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 232,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-6 MEASURES OF PERFORMANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 232,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                404.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-7 ENTERPRISE ARCHITECTURE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 232,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                227.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-8 CRITICAL INFRASTRUCTURE PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 233,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                405.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-9 RISK MANAGEMENT STRATEGY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 233,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                240.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-10 AUTHORIZATION PROCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                470.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-11 MISSION AND BUSINESS PROCESS DEFINITION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                189.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-12 INSIDER THREAT PROGRAM",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                403.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-13 SECURITY AND PRIVACY WORKFORCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 236,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                605.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-14 TESTING, TRAINING, AND MONITORING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 236,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                354.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-15 SECURITY AND PRIVACY GROUPS AND ASSOCIATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-16 THREAT AWARENESS PROGRAM",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                372.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-17 PROTECTING CONTROLLED UNCLASSIFIED INFORMATION ON EXTERNAL SYSTEMS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 238,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                650.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-18 PRIVACY PROGRAM PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 238,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                412.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-19 PRIVACY PROGRAM LEADERSHIP ROLE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 239,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                342.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-20 DISSEMINATION OF PRIVACY PROGRAM INFORMATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 239,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                153.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-21 ACCOUNTING OF DISCLOSURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                273.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-22 PERSONALLY IDENTIFIABLE INFORMATION QUALITY MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 241,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                464.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-23 DATA GOVERNANCE BODY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 242,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                562.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-24 DATA INTEGRITY BOARD",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 242,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                275.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-26 COMPLAINT MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                365.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-27 PRIVACY REPORTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-28 RISK FRAMING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                354.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-29 RISK MANAGEMENT PROGRAM LEADERSHIP ROLES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 245,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                629.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-30 SUPPLY CHAIN RISK MANAGEMENT STRATEGY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 245,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                427.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PM-32 PURPOSING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                665.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.14   PERSONNEL SECURITY",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-2 POSITION RISK DESIGNATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-3 PERSONNEL SCREENING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                378.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-4 PERSONNEL TERMINATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 250,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                303.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-5 PERSONNEL TRANSFER",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 251,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                301.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-6 ACCESS AGREEMENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 252,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                605.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-7 EXTERNAL PERSONNEL SECURITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 253,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                623.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-8 PERSONNEL SANCTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 253,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                244.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-9 POSITION DESCRIPTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 254,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.15   PERSONALLY IDENTIFIABLE INFORMATION PROCESSING AND TRANSPARENCY",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 255,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PS-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -83.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-2 AUTHORITY TO PROCESS PERSONALLY IDENTIFIABLE INFORMATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 256,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-3 PERSONALLY IDENTIFIABLE INFORMATION PROCESSING PURPOSES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 257,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                561.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-4 CONSENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 258,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                450.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-5 PRIVACY NOTICE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 259,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                337.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-6 SYSTEM OF RECORDS NOTICE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 261,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-7 SPECIFIC CATEGORIES OF PERSONALLY IDENTIFIABLE INFORMATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 262,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                626.0,
+                0.0
+            ]
+        },
+        {
+            "title": "PT-8 COMPUTER MATCHING REQUIREMENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 263,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.16   RISK ASSESSMENT",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 10,
+            "page_index": 264,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 264,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-2 SECURITY CATEGORIZATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 265,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-3 RISK ASSESSMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 266,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                638.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-4 RISK ASSESSMENT UPDATE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                638.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-5 VULNERABILITY MONITORING AND SCANNING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                594.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-6 TECHNICAL SURVEILLANCE COUNTERMEASURES SURVEY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 271,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                327.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-7 RISK RESPONSE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 272,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-8 PRIVACY IMPACT ASSESSMENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 272,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                494.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-9 CRITICALITY ANALYSIS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                568.0,
+                0.0
+            ]
+        },
+        {
+            "title": "RA-10 THREAT HUNTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                110.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.17   SYSTEM AND SERVICES ACQUISITION",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 23,
+            "page_index": 275,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 275,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                659.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-2 ALLOCATION OF RESOURCES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 276,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-3 SYSTEM DEVELOPMENT LIFE CYCLE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 276,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                488.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-4 ACQUISITION PROCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 278,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-5 SYSTEM DOCUMENTATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 282,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-6 SOFTWARE USAGE RESTRICTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 283,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                627.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-7 USER-INSTALLED SOFTWARE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 283,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-8 SECURITY AND PRIVACY ENGINEERING PRINCIPLES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 283,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                539.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-9 EXTERNAL SYSTEM SERVICES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 297,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                665.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-10 DEVELOPER CONFIGURATION MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 299,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                211.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-11 DEVELOPER TESTING AND EVALUATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 302,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                601.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-12 SUPPLY CHAIN PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 306,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-13 TRUSTWORTHINESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 306,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                125.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-14 CRITICALITY ANALYSIS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 307,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-15 DEVELOPMENT PROCESS, STANDARDS, AND TOOLS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 307,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                624.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-16 DEVELOPER-PROVIDED TRAINING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 310,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                498.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-17 DEVELOPER SECURITY AND PRIVACY ARCHITECTURE AND DESIGN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 310,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                272.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-18 TAMPER RESISTANCE AND DETECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 314,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                166.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-19 COMPONENT AUTHENTICITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 315,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                679.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-20 CUSTOMIZED DEVELOPMENT OF CRITICAL COMPONENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 315,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                479.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-21 DEVELOPER SCREENING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 315,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                240.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-22 UNSUPPORTED SYSTEM COMPONENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 316,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                497.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SA-23 SPECIALIZATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 317,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.18   SYSTEM AND COMMUNICATIONS PROTECTION",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 51,
+            "page_index": 318,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 318,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-2 SEPARATION OF SYSTEM AND USER FUNCTIONALITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 319,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-3 SECURITY FUNCTION ISOLATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 319,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                217.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-4 INFORMATION IN SHARED SYSTEM RESOURCES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                524.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-5 DENIAL-OF-SERVICE PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 322,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-6 RESOURCE AVAILABILITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 323,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                565.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-7  BOUNDARY PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 323,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                399.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-8 TRANSMISSION CONFIDENTIALITY AND INTEGRITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 330,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                223.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-9 TRANSMISSION CONFIDENTIALITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                399.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-10 NETWORK DISCONNECT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                355.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-11 TRUSTED PATH",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                166.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-12 CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                299.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-13  CRYPTOGRAPHIC PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 334,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                153.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-14 PUBLIC ACCESS PROTECTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 335,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                314.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-15 COLLABORATIVE COMPUTING DEVICES AND APPLICATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 335,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                270.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-16 TRANSMISSION OF SECURITY AND PRIVACY ATTRIBUTES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 336,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                282.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-17 PUBLIC KEY INFRASTRUCTURE CERTIFICATES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 337,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                379.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-18 MOBILE CODE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 337,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                140.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-19 VOICE OVER INTERNET PROTOCOL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 339,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                638.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-20 SECURE NAME/ADDRESS RESOLUTION SERVICE (AUTHORITATIVE SOURCE)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 339,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                594.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-21 SECURE NAME/ADDRESS RESOLUTION SERVICE (RECURSIVE OR CACHING RESOLVER)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 339,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                157.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-22 ARCHITECTURE AND PROVISIONING FOR NAME/ADDRESS RESOLUTION SERVICE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 340,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                532.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-23 SESSION AUTHENTICITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 340,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                281.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-24 FAIL IN KNOWN STATE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 341,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                368.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-25 THIN NODES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 341,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                142.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-26 DECOYS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                617.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-27 PLATFORM-INDEPENDENT APPLICATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                392.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-28 PROTECTION OF INFORMATION AT REST",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                191.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-29 HETEROGENEITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 343,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                177.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-30 CONCEALMENT AND MISDIRECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                454.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-31 COVERT CHANNEL ANALYSIS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 345,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                138.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-32 SYSTEM PARTITIONING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 346,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                227.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-33 TRANSMISSION PREPARATION INTEGRITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                588.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-34 NON-MODIFIABLE EXECUTABLE PROGRAMS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                544.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-35 EXTERNAL MALICIOUS CODE IDENTIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 348,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                679.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-36 DISTRIBUTED PROCESSING AND STORAGE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 348,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                490.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-37 OUT-OF-BAND CHANNELS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 349,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                626.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-38 OPERATIONS SECURITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 349,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                214.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-39 PROCESS ISOLATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 350,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                568.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-40 WIRELESS LINK PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 350,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                163.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-41 PORT AND I/O DEVICE ACCESS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 352,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                614.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-42 SENSOR CAPABILITY AND DATA",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 352,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                424.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-43 USAGE RESTRICTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 353,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                149.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-44 DETONATION CHAMBERS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                574.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-45  SYSTEM TIME SYNCHRONIZATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                339.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-46 CROSS DOMAIN POLICY ENFORCEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 355,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                494.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-47 ALTERNATE COMMUNICATIONS PATHS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 355,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                304.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-48  SENSOR RELOCATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 356,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-49  HARDWARE-ENFORCED SEPARATION AND POLICY ENFORCEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 356,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                368.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-50  SOFTWARE-ENFORCED SEPARATION AND POLICY ENFORCEMENT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 356,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                202.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SC-51 HARDWARE-BASED PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 357,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.19   SYSTEM AND INFORMATION INTEGRITY",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 23,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-2 FLAW REMEDIATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 359,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-3 MALICIOUS CODE PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 360,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                309.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-4 SYSTEM MONITORING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 362,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                111.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-5 SECURITY ALERTS, ADVISORIES, AND DIRECTIVES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 369,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                334.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-6 SECURITY AND PRIVACY FUNCTION VERIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 370,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                475.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-7 SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 371,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                536.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-8 SPAM PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 374,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                129.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-9 INFORMATION INPUT RESTRICTIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 375,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                306.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-10  INFORMATION INPUT VALIDATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 375,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                262.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-11 ERROR HANDLING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 377,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                385.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-12 INFORMATION MANAGEMENT AND RETENTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 377,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                134.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-13 PREDICTABLE FAILURE PREVENTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 379,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                678.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-14 NON-PERSISTENCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                481.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-15 INFORMATION OUTPUT FILTERING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 381,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                355.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-16 MEMORY PROTECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 381,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                166.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-17 FAIL-SAFE PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 382,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                629.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-18 PERSONALLY IDENTIFIABLE INFORMATION QUALITY OPERATIONS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 382,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                451.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-19 DE-IDENTIFICATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 384,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                471.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-20 TAINTING",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 386,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                232.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-21 INFORMATION REFRESH",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                580.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-22 INFORMATION DIVERSITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                403.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SI-23 INFORMATION FRAGMENTATION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                115.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.20   SUPPLY CHAIN RISK MANAGEMENT",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 12,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-1 POLICY AND PROCEDURES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                667.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-2 SUPPLY CHAIN RISK MANAGEMENT PLAN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 390,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-3 SUPPLY CHAIN CONTROLS AND PROCESSES",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                440.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-4 PROVENANCE",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 392,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                257.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-5 ACQUISITION STRATEGIES, TOOLS, AND METHODS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 394,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                243.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-6 SUPPLIER ASSESSMENTS AND REVIEWS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 395,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                147.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-7 SUPPLY CHAIN OPERATIONS SECURITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 396,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                271.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-8 NOTIFICATION AGREEMENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 397,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                620.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-9 TAMPER RESISTANCE AND DETECTION",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 397,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                381.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-10 INSPECTION OF SYSTEMS OR COMPONENTS",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 398,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                696.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-11 COMPONENT AUTHENTICITY",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 398,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                512.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SR-12 COMPONENT DISPOSAL",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 399,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                696.0,
+                0.0
+            ]
+        },
+        {
+            "title": "REFERENCES",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 400,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "GLOSSARY",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 420,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ACRONYMS",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 450,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CONTROL SUMMARIES",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 454,
+            "view_mode": "XYZ",
+            "view_pos": [
+                88.0,
+                700.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 492,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 1467,
+        "code": 0,
+        "table": 104,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

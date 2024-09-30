@@ -1,0 +1,182 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "NIST Technical Note (TN) 2111, An Empirical Study on Flow-based Botnet Attacks Prediction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                29.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1. Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2. Methodology",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                402.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1. Measurement",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                380.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2. Labeling",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                340.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3. Prediction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                587.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3. Experimental Evaluation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                406.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1. Dataset",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                383.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.  Results and Analysis",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                332.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4. Related Work",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                193.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5. Conclusion and Future Direction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                402.0,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 18,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 0,
+        "ocr_success": 2,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 26,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 2,
+            "unsuccessful_ocr": 0,
+            "equations": 2
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

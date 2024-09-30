@@ -1,0 +1,3768 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13-covers.pdf",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13a",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 2,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13-covers.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13a.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13b",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 132,
+            "page_index": 6,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13-covers.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13b.pdf",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 130,
+            "page_index": 7,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "1 Summary",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                679.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1 Challenge",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                391.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1.1 Easing User Authentication Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1.2 Improving Authentication Assurance",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                383.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1.3 Federating Identities and User Account Management",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                203.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2 Solution",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                557.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3 Benefits",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                428.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2 How to Use This Guide",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1 Typographic Conventions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Approach",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Audience",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                572.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Scope",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                192.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.3 Assumptions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4 Business Case",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                477.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5 Risk Assessment",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                201.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5.1 PSFR Risks",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                520.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5.2 Mobile Ecosystem Threats",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5.3 Authentication and Federation Threats",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                306.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.6 Systems Engineering",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.7 Technologies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                460.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Architecture",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                274.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 General Architectural Considerations",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                498.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1.1 SSO with OAuth 2.0, IETF RFC 8252, and AppAuth Open-Source Libraries",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1.2 Identity Federation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                288.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1.3 FIDO and Authenticator Types",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 High-Level Architecture",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                497.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Detailed Architecture Flow",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                432.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1 SAML and U2F Authentication Flow",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                337.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2 OpenID Connect and UAF Authentication Flow",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4 Single Sign-On with the OAuth Authorization Flow",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                644.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5 Application Developer Perspective of the Build",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6 Identity Provider Perspective of the Build",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                403.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7 Token and Session Management",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                646.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Security Characteristic Analysis",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 20,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                232.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1 Assumptions and Limitations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2 Threat Analysis",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                452.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2.1 Mobile Ecosystem Threat Analysis",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                387.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2.2 Authentication and Federation Threat Analysis",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                272.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.3 Scenarios and Findings",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                265.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.1 Identity Proofing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                585.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.2 Mobile Device Security",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                462.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3 Mobile Application Security",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                200.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.4 Enterprise Mobility Management ",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                644.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5 FIDO Enrollment Process",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.1 SSO with OAuth 2.0, IETF RFC 8252, and AppAuth Open-Source Libraries",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                592.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.1.1 Attributes and Authorization",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                357.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.2 Federation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                462.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3 Authenticator Types",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                250.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.1 UAF Protocol",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                328.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.2 U2F Protocol ",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.3 FIDO 2",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                482.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.4 FIDO Key Registration",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                280.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.5 FIDO Authenticator Attestation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 69,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                391.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.3.6 FIDO Deployment Considerations",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                563.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Word Bookmarks",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 75,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "m9wlvrsog8r6",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                354.0,
+                0.0
+            ]
+        },
+        {
+            "title": "kix.z776zdrdnkmz",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                309.0,
+                0.0
+            ]
+        },
+        {
+            "title": "o0ec7olx08ec",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                355.0,
+                0.0
+            ]
+        },
+        {
+            "title": "kix.5frm2sjfwj6w",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                500.0,
+                0.0
+            ]
+        },
+        {
+            "title": "oyekmlz02rqb",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                500.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6xu7xof8r9dr",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                256.0,
+                0.0
+            ]
+        },
+        {
+            "title": "kix.andhlixp1vzp",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                127.0,
+                0.0
+            ]
+        },
+        {
+            "title": "a4taxps11iac",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                414.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AppendixA",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                178.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "8v6tzkpujo8k",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                545.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AppB",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                588.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B4",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                647.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AppC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AppendixC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C2",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                465.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C3",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                253.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6skicn2hkl19",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ew2qjivmdu4f",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "raf166lgyw1w",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "xykvtikkcwal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ykgqe8cjibtq",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "nijhdri049t8",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "19cs2biobr7b",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "11uq6kyojcua",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "533ib3r7ay8s",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "x21zvm9farqf",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "yk7d1nnhzn5",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "osw76nwarilh",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5gbwqdry30bg",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ton6vlrcl174",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "muecbg3f4vwl",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4sm4fhghtpg",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ymv0of2jodtc",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "phnh3nkkx9qv",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "l6nmzvfaxqgo",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "609qhlnvrogh",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "pbry3epp8ha3",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "tcqrj4sx8czc",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference2",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                597.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference3",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                543.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference4",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                488.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference5",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                434.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference6",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                394.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference7",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                339.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference8",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                285.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference9",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                245.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference10",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                191.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference11",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                151.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference12",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                683.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference13",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                614.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference14",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                559.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference15",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference16",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                479.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference17",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                439.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference18",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                399.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference19",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                359.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference20",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                319.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference21",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                294.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference22",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                254.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference23",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                199.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference24",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                683.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference25",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                628.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference26",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                588.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference27",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                548.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference28",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                494.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference29",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                454.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference30",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                414.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference31",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                374.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference32",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                319.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference33",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                265.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference34",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                210.0,
+                0.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13c",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 152,
+            "page_index": 78,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13-covers.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 78,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "psfr-mobile-sso-nist-sp1800-13c.pdf",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 150,
+            "page_index": 79,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "1 Introduction",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                681.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1 Practice Guide Structure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                393.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2 Build Overview",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                181.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2.1 Usage Scenarios",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 92,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2.2 Architectural Overview",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2.3 General Infrastructure Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 95,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                549.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3 Typographic Conventions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 95,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                309.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2 How to Install and Configure the Mobile Device",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 32,
+            "page_index": 96,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                408.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1 Platform and System Requirements",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 96,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                325.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1.1 Supporting SSO on Android Devices",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 97,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                362.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1.2 Supporting SSO on iOS Devices",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 98,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                607.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1.3 Supporting FIDO U2F on Android Devices",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1.4 Supporting FIDO U2F on iOS Devices",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                502.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1.5 Supporting FIDO UAF",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                263.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2 How to Install and Configure the Mobile Applications",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 101,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                240.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.1 How to Install and Configure SSO-Enabled Applications",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 101,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                175.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.1.1 Configuring the PSX Cockpit Application",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                536.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.1.2 Configuring the PSX Mapping Application",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 108,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.1.3 Configuring the PSX Messenger Application",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 110,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.2 How to Install and Configure a FIDO U2F Authenticator",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.2.1 Installing Google Authenticator",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                585.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.2.2 Registering the Token",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                502.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.2.3 Authenticating with the Token",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 113,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                189.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.3 How to Install and Configure a FIDO UAF Client",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 114,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                248.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.3.1 Installing Passport on Android",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 115,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                499.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.3.2 Installing Passport on iOS",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 115,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                350.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.3.3 Enrolling the Device",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 115,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                230.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3 How Application Developers Must Integrate AppAuth for SSO",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 123,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                201.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1 AppAuth Integration for Android",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                607.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1.1 Adding the Library Dependency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                565.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1.2 Adding Activities to the Manifest",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                416.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1.3 Creating Activities to Handle Authorization Responses",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 125,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                601.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1.4 Executing the OAuth 2 Authorization Flow",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 127,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                178.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.1.5 Fetching and Using the Access Token",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 129,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                428.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2 AppAuth Integration for iOS",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 130,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                501.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2.1 Adding the Library Dependency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 130,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                445.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2.2 Registering a Custom URL Scheme",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                646.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2.3 Handling Authorization Responses",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 134,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                322.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2.4 Executing the OAuth 2 Authorization Flow",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 135,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3.2.5 Fetching and Using the Access Token",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 137,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                532.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3 How to Install and Configure the OAuth 2 AS",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 29,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                644.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Platform and System Requirements",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                609.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.1 Software Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                492.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.2 Hardware Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                329.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.3 Network Requirements",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                174.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.3.1 Software Configuration",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                585.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.3.2 Hardware Configuration",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                459.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1.3.3 Network Configuration",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                352.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 How to Install the OAuth 2 AS",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                236.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.1 Java Installation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                171.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.2 Java Post Installation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                534.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.3 PingFederate Installation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                208.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.4 Certificate Installation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 142,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                451.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.3 How to Configure the OAuth 2 AS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 142,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                269.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4 How to Configure the OAuth 2 AS for Authentication",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 15,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                219.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.1 How to Configure Direct Authentication",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 156,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.1.1 Configure Adapter Instance",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 156,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                600.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.1.2 Create Policy Contract",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 160,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                250.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.1.3 Create Policy Contract Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 162,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.1.4 Create Access Token Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 163,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                437.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.2 How to Configure SAML Authentication",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 165,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                621.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.2.1 Create IdP Connection",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 165,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                536.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.2.2 Create Policy Contract",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.2.3 Create Policy Contract Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                365.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.3 How to Configure OIDC Authentication",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                372.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.3.1 Create IdP Connection",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                192.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.3.2 Create the Policy Contract Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 179,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                368.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.4 How to Configure the Authentication Policy",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 179,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                290.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.4.1 Install the Domain Selector Plugin",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 179,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                263.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4.4.2 Define the Authentication Policy",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 182,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                425.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4 How to Install and Configure the Identity Providers",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 16,
+            "page_index": 185,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                369.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 How to Configure the User Store",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 185,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                271.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 How to Install and Configure the SAML Identity Provider",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                423.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1 Configuring Authentication to the IdP",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 191,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                436.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1.1 Configure the Password Validator",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 191,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                380.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1.2 Configure the HTML Form Adapter",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 195,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                288.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1.3 Configure the FIDO U2F Adapter",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                222.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1.4 Configure the Authentication Policies",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                212.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.2 Configure the SP Connection",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 201,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                242.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 How to Install and Configure the OIDC Identity Provider",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 208,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1 Configuring Authentication to the OIDC IdP",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                545.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1.1 Configure the FIDO UAF Plugin",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                460.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1.2 Configure an Access Token Management Instance",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                370.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1.3 Configure an IdP Adapter Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 212,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                236.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1.4 Configure an Access Token Mapping",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 213,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                401.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1.5 Configure an OIDC Policy",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.0,
+                353.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2 Configuring the OIDC Client Connection",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5 How to Install and Configure the FIDO UAF Authentication\u00a0Server",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 223,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1 Platform and System Requirements",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                586.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.1 Hardware Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                521.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.2 Software Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                373.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2 How to Install and Configure the FIDO UAF Authentication Server",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 225,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.3 How to Install and Configure the FIDO UAF Gateway Server",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 226,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                532.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.4 How to Install and Configure the FIDO UAF Adapter for the OAuth 2 AS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 226,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                336.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6 How to Install and Configure the FIDO U2F Authentication\u00a0Server",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                524.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1 Platform and System Requirements",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                375.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1.1 Software Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                324.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1.2 Hardware Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 228,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                387.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1.3 Network Requirements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 228,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                329.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.2 How to Install and Configure the FIDO U2F Authentication Server",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 229,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.3 How to Install and Configure the FIDO U2F Adapter for the IdP",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 233,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                576.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.3.1 FIDO U2F Registration in Production",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                402.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7 Functional Tests",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                93.0,
+                301.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.1 Testing FIDO Authenticators",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                203.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.2 Testing FIDO Servers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                591.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.3 Testing IdPs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                484.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.4 Testing the AS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 241,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                421.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.5 Testing the Application",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                100.0,
+                333.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Word Bookmarks",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 41,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "y0o10otv8ky0",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                297.0,
+                0.0
+            ]
+        },
+        {
+            "title": "a3y5daooj8sp",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 97,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                387.0,
+                0.0
+            ]
+        },
+        {
+            "title": "biucskmiurvf",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 143,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                231.0,
+                0.0
+            ]
+        },
+        {
+            "title": "9rtppv8rsmia",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 146,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "e2hbm24xfl1i",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                326.0,
+                0.0
+            ]
+        },
+        {
+            "title": "dzh6nzlpgqbm",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                307.0,
+                0.0
+            ]
+        },
+        {
+            "title": "bbvl2ke9zqab",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 190,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                201.0,
+                0.0
+            ]
+        },
+        {
+            "title": "gz0q1en3hia8",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 208,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                238.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1buvvhr6zdny",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                357.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ctor00pcz98n",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                336.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                654.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference2",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                617.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference3",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                580.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference4",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                529.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference5",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                492.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference6",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                455.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference7",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                403.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference8",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                352.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference9",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                315.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference10",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                278.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference11",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                241.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference12",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                204.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference13",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                167.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference14",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference15",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                647.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference16",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                581.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference17",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                544.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference18",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                507.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference19",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                470.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference20",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                433.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference21",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                382.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference22",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                345.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference23",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                293.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference24",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                242.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference25",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                205.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference26",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 248,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                153.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference27",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                684.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference28",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                662.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference29",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                639.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference30",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                617.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reference31",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                594.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 250,
+    "ocr_stats": {
+        "ocr_pages": 48,
+        "ocr_failed": 0,
+        "ocr_success": 48,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 386,
+        "code": 0,
+        "table": 47,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
