@@ -1,0 +1,100 @@
+﻿ID,Title,Information on the General Conditions of the Cloud service,"Supplementary Information -
+Notes on the General Conditions"
+BC-01,Information on jurisdiction and locations,"In the system description and the contractual agreements (e.g. service description), the Cloud Service Provider clearly provides comprehensible and transparent information on: 
+
+• Its jurisdiction; and 
+
+• System component locations, including its subcontractors, where the cloud customer's data is processed, stored and backed up.
+
+The scope of information is based on the requirements of subject matter experts of the cloud customers who define information security requirements, implement them or check their effectiveness and assess the suitability of the cloud service from a legal and regulatory perspective (e.g. IT, compliance, internal audit).","If the processing, backup and storage of customer data takes place in different locations, this is to be described comprehensibly and transparently in the system description."
+BC-02,Information on availability and incident handling during regular operation,"In contractual agreements (e.g. service description), the Cloud Service Provider provides comprehensible, binding and transparent information on: 
+
+• Availability of the cloud service; 
+
+• Categorisation and Prioritisation of incidents; 
+
+• Response times for disruptions of regular operation according to the categorisation (time elapsed between the reporting and the resolution of the disruption by the Cloud Service Provider); 
+
+• Recovery time (time elapsed until the incident has been resolved); and 
+
+• Legal consequences of non-compliance. 
+
+The details are based on definitions that allow subject matter experts of the cloud customers to assess the Cloud service against their business requirements. 
+
+The system description describes where this information can be found. 
+
+If information on availability and remediation of disruptions represent average values that are not binding in individual cases, this is highlighted separately.","In addition to the reference in the system description where this information can be found, the information itself may also be an optional part of the report, e.g. in a section ""Other information provided by the legal representatives of the Cloud Service Provider"". The auditor does not provide an opinion on the information."
+BC-03,Information on recovery parameters in emergency operation,"The Cloud Service Provider provides subject matter experts of the Cloud customers with comprehensible and transparent information on the following recovery parameters of the cloud service, if required: 
+
+• Maximum tolerable downtime / Recovery Time Objective (RTO) 
+
+• Maximum allowable data loss / Recovery Point Objective (RPO) 
+
+• Recovery time to start emergency operation 
+
+• Recovery level (capacity related to regular operation) 
+
+• Restore time until normal operation 
+
+The information enables Cloud customers to evaluate the Cloud service as part of their own business impact analysis.","In addition to the reference in the system description where this information can be found, the information itself may also be an optional part of the report, e.g. in a section ""Other information provided by the legal representatives of the Cloud Service Provider"". The auditor does not provide an opinion on the information."
+BC-04,Information on the availability of the data centre,"The Cloud provider provides subject matter experts of Cloud customers with comprehensible and transparent information on the availability of the data centres used to provide the Cloud service (including data centres operated by subcontractors), as needed. The information shows availability and downtime over one year according to industry standard classification schemes. The information enables Cloud customers to assess the Cloud service as part of their business impact analysis.","The Uptime Institute's Tier classification system is a classification customary in the industry. It defines the following levels (Tiers) for availability and downtime in relation to one year: 
+
+• Tier I: 99.671 %; up to 28.8 hours cumulative downtime per year 
+
+• Tier II: 99.741 %; up to 22.7 hours cumulative downtime per year 
+
+• Tier III: 99.982 %; up to 1.6 hours cumulative downtime per year 
+
+• Tier IV: 99.995 %; up to 25 minutes cumulative downtime per year 
+
+If there are requirements towards high availability of a data centre, the BSI HV benchmark, which provides the following availability classes (AC), is suitable: 
+
+• AC 0: without availability requirements (~95%); up to 438 hours cumulative downtime per year 
+
+• AC 1: normal availability (99%); up to 88 hours cumulative downtime per year 
+
+• AC 2: high availability (99.9%); up to 9 hours cumulative downtime per year 
+
+• AC 3: very high availability (99.99%); up to 53 minutes cumulative downtime per year 
+
+• AC 4: highest availability (99.999%); up to 6 minutes cumulative downtime per year 
+
+• AC 5: Disaster-tolerant 
+
+This information may be an optional part of the report, e.g. in a section ""Other information provided by the legal representatives of the Cloud provider"". The practitioner themselves do not provide an opinion on the information."
+BC-05,Information on how investigation enquiries from government authorities are handled,"In the system description, the Cloud Service Provider provides comprehensible and transparent information on how investigation enquiries by government agencies for access to or disclosure of cloud customer data are handled. The information includes the following aspects: 
+
+• Procedures to verify the legal basis of such enquiries; 
+
+• Procedures for informing and involving the affected cloud customers upon receipt of such enquiries; 
+
+• the ability of the affected Cloud customers to object; and 
+
+• whether the Cloud Service Provider has the ability to decrypt encrypted data of the cloud customers in case of such requests and how this ability for access or disclosure is used. 
+
+The scope of the information corresponds to the needs of the subject matter experts of the Cloud customers who define specifications on information security, implement these or validate their implementation and assess the suitability of the cloud service from a legal and regulatory point of view (e.g. IT, compliance, internal audit).","The legal foundation on which these governmental services are based (e.g. law enforcement agencies, intelligence services) vary from region to region. In particular, the applicable jurisdiction at the locations where data of cloud customers is processed, stored, backed up and stored must be considered. 
+
+In Germany, such powers are governed by the laws of the German Federal Criminal Police Office (or the laws of the respective state offices), various procedural codes for courts and the laws for intelligence services (BNDG, BVerfSchG, respective laws on the constitutional protection offices of the federal states, MADG) and the G10 Act. 
+
+In other countries, other laws are relevant, and the cloud customer may only occasionally be aware of them from the media, e.g. the CLOUD Act (""Clarifying Lawful Overseas Use of Data Act"") from the United States of America or the Cyber Security Law of the People's Republic of China. In conjunction with the other information on the cloud service, the cloud customer should be able to use this information to carry out a risk assessment assessing if and how these are relevant."
+BC-06,Information on certifications or attestations,"In the system description, the Cloud Service Provider provides comprehensible and transparent information on existing and valid certifications or attestations by independent third parties relating to the following aspects of the cloud service: 
+
+• compliance of the management systems for information security, business continuity and quality with applicable international standards; 
+
+• compliance with the European General Data Protection Regulation (GDPR); 
+
+• the suitability and effectiveness of the internal control system in relation to the applicable criteria; and 
+
+• certifications or attestations according to industry-specific requirements of cloud customers. 
+
+To the extent applicable for the certification or attestation, the following information are provided: 
+
+• date of issuance;
+
+• issuing organisation; and
+
+• date or period of validity or coverage. 
+
+The scope of the information corresponds to the needs of the subject matter experts of the Cloud customers who define specifications on information security, implement these or validate their implementation and assess the suitability of the cloud service from a legal and regulatory point of view (e.g. IT, compliance, internal audit).","Transparency can be additionally increased by disclosing SLAs based on ISO/IEC 19086 or comparable standards.
+
+Fulfilment of the General Condition does not require the Cloud Service Provider to hold a certification or attestation for all listed aspects."
