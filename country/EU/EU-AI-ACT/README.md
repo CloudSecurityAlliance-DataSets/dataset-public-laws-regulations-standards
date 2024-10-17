@@ -2,6 +2,12 @@
 
 renamed to eu_ai_act.html
 
+## Splitting:
+
+* Chapter
+* Section (Optional, some Articles belong directly in a Chapter)
+* Article (Name, text)
+
 ## Notes:
 
 Splitting it up the eli-subdivision is the "smallest" division that makes sense:
