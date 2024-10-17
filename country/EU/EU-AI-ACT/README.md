@@ -8,6 +8,22 @@ renamed to eu_ai_act.html
 * Section (Optional, some Articles belong directly in a Chapter)
 * Article (Name, text)
 
+## Removed Chapters for mapping
+
+eu_ai_act-articles-for-mappings.md
+
+### CHAPTER XI - DELEGATION OF POWER AND COMMITTEE PROCEDURE
+
+Administravia
+
+### CHAPTER XII - PENALTIES
+
+Not applicable to mappings
+
+### CHAPTER XIII - FINAL PROVISIONS
+
+Removed, it lists amendments and enforcement timelines, not applicable to mapping.
+
 ## Notes:
 
 Splitting it up the eli-subdivision is the "smallest" division that makes sense:
