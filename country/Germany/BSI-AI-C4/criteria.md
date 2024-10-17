@@ -1,4 +1,4 @@
-# 6.2 Security & Robustness Objective
+# Security & Robustness
 
 1. Risks caused by malicious attacks to the AI system are assessed. 
 
@@ -6,7 +6,7 @@
 
 3. The effectiveness of defense measures is evaluated.
 
-## SR-01 Continuous Assessment Of Security Threats And Countermeasures Criterion
+## SR-01 Continuous Assessment Of Security Threats And Countermeasures
 
 Procedures are implemented by the AI service provider to continuously monitor and assess new threats related to the AI model(s) within the scope of the AI service. In line with PC-01 the principles of the Risk Management Policy (C5-OIS-06 and C5-OIS-07) must apply. Results are consolidated in threat scenarios. A documented description of a threat scenario contains at least:
 - Details of the model architecture or machine learning algorithm that are vulnerable and concrete attack vectors against such threats;
@@ -15,7 +15,7 @@ Procedures are implemented by the AI service provider to continuously monitor an
 
 The threat scenarios must incorporate actual security incidents according to RE-05. Identified threat scenarios are followed up in the risk exposure assessment in SR-02 and SR03.
 
-About the Criterion 
+About the Criterion
 
 The AI service provider should continuously (at least quarterly) investigate state-of-the-art research and methodologies in order to stay up to date to new threat scenarios and attacks. Relevant threats for this criterion are in particular those that can lead to:
 - leakage or corruption of data or AI models;
@@ -26,7 +26,7 @@ Threats related to AI model(s) include for instance adversarial examples, poison
 
 Release logs or similar sources of information for software packages implementing adversarial examples, data poisoning attacks and privacy methods should be carefully investigated with regards to the feasibility and applicability.
 
-## SR-02 Risk Exposure Assessment Criterion
+## SR-02 Risk Exposure Assessment
 
 A risk exposure assessment is carried out by formulating a threat model that specifies the conditions under which the AI model(s) in scope of the AI service can be attacked. In line with PC-01 the principles of the Risk Management Policy (C5-OIS-06 and C5-OIS-07) and Managing Vulnerabilities, Malfunctions and Errors (C5-OPS-19) must apply. The threat model includes at least following points:
 - Threat scenarios derived from SR-01; 
@@ -38,8 +38,6 @@ Based on estimated impact and probability of occurrence, threat models are prior
 
 The results of the risk exposure assessment are documented in accordance with PC-02.
 
-
-
 About The Criterion
 
 Based on the mitigation decisions, subject matter experts implement concrete attacks and test the AI service against specific weaknesses as specified in SR-04 and SR-05, if applicable. The prioritization of the risks identified should be conducted according to a risk matrix taking into account the probability of occurrence and the impact of the threat. 
@@ -50,7 +48,7 @@ Adversary's knowledge about the AI service can be white box, grey box or black b
 
 Adversarial capabilities include perturbation domains, bounds of the adversary and computational resources. 
 
-## SR-03 Regular Risk Exposure Assessment Criterion
+## SR-03 Regular Risk Exposure Assessment
 
 The Risk Exposure Assessment is re-evaluated at regular intervals (at least annually) or in case of events such as:
 - Changes to the AI system that affect the operating principles;
@@ -63,12 +61,12 @@ Changes, which affect the operating principles of the AI system include:
 - extending the applicability of the service for larger user groups;
 - retraining according to PF-07.
 
-## SR-04 Testing Learning Pipeline Robustness Criterion
+## SR-04 Testing Learning Pipeline Robustness
 
 Based on the mitigation decisions for specific threat models for the learning pipeline of the AI 
 model(s) within the scope of the AI service (e.g. based on data poisoning or data tampering through backdoors) derived from the risk exposure assessment in SR-02 and SR-03, the AI model(s) within the scope of the AI service are tested by simulating attacks. These tests take into account the integrity of the relevant data sets and their impact on the AI model(s) within the scope of the AI service. Threat models, attack vectors and identified vulnerabilities are followed up as specified in SR-06. Subject matter experts perform a sensitivity analysis to estimate the impact of data contributed by users on future changes to the AI service in order to measure the risks associated with the inclusion of user data into the learning pipeline. Data access management according to DM-02 is taken into consideration.
 
-About the Criterion 
+About the Criterion
 
 Known state-of-the-art vulnerabilities of the learning pipeline include following types of data poisoning attacks:
 - Logic corruption; 
@@ -77,7 +75,7 @@ Known state-of-the-art vulnerabilities of the learning pipeline include followin
 
 Note: In contrast to DM-02 this criterion focuses on protection of data integrity against external threats, while DM-02 aims to protect the data used for development and operation.
 
-## SR-05 Testing Of Model Robustness Criterion
+## SR-05 Testing Of Model Robustness
 
 Based on the mitigation decisions for concrete threat models for the AI model(s) within the scope of the AI service (e.g. based on adversarial attacks or privacy attacks) derived from the risk exposure assessment in SR-02 and SR-03, the AI model(s) are tested by implementing attacks to exploit identified vulnerabilities. 
 
@@ -85,7 +83,7 @@ Specifications of the implementation and configuration of the tested attacks are
 
 The attacks tested are documented including the observed system behavior of the AI service. Threat models, attack vectors and identified vulnerabilities are followed up as specified in SR-06.
 
-About the Criterion 
+About the Criterion
 
 Depending on the threat model, testing of the AI model(s) within the scope of the AI service can include following types of adversarial attacks: 
 - White box attacks;
@@ -97,9 +95,9 @@ Depending on the threat model, testing of the AI model(s) within the scope of th
 
 Furthermore, basic sanity checks should be performed (e.g. iterative attacks perform better than single-step attacks and use sufficient iterations to converge, considering computational time and respective results after convergence).
 
-## SR-06 
+## SR-06 Implementation of Countermeasures
 
-Implementation of Countermeasures Criterion Countermeasures to protect the AI model(s) within the scope of the AI service and its learning pipeline against threats are implemented by the AI service provider based on the susceptibility to attacks investigated in SR-04 and SR-05 as well as in line with PC-01, following the principles of Handling Vulnerabilities and Malfunctions and Errors (C5-OPS18 and C5-OPS-20). The countermeasures are tested adequately for effectiveness regarding identified threat models as specified in SR-02 and SR-03. 
+Countermeasures to protect the AI model(s) within the scope of the AI service and its learning pipeline against threats are implemented by the AI service provider based on the susceptibility to attacks investigated in SR-04 and SR-05 as well as in line with PC-01, following the principles of Handling Vulnerabilities and Malfunctions and Errors (C5-OPS18 and C5-OPS-20). The countermeasures are tested adequately for effectiveness regarding identified threat models as specified in SR-02 and SR-03. 
 
 This includes prioritization and implementation of adequate proactive and reactive measures for both learning pipeline and model robustness depending on their feasibility and criticality.
 
@@ -109,7 +107,7 @@ The countermeasures are documented according to PC-02.
 
 The suitability of implemented countermeasures as well as residual risks must be formally accepted by the risk owner. In case the risk owner does not accept the remaining level of risk, SR-07 must be considered. Depending on the results of the sensitivity analysis performed in SR-04,the AI service provider must implement measures in order to limit the impact of data that users can contribute such that the functionality of the AI service stays intact while attack capabilities are reduced.
 
-About the Criterion 
+About the Criterion
 
 The AI service provider should implement state-of-the-art countermeasures in order to be robust against new kinds of attacks. Following examples of countermeasures can be considered: 
 
@@ -125,7 +123,7 @@ Adversarial Defenses:
     - Robust deep architectures (distillation);
     - Defenses based on generative adversarial networks (GAN).
 
-About the Criterion 
+About the Criterion
 
 Examples of alternative countermeasures are filters, cropping-rescaling or compression and decompression.
 
@@ -139,11 +137,11 @@ Privacy Measures:
 
 Countermeasures to privacy attacks should be considered. An example could be the use of privacy preserving machine learning techniques (e.g. differential privacy, federated learning).
 
-## SR-07 Residual Risk Mitigation Criterion
+## SR-07 Residual Risk Mitigation
 
 In case countermeasures derived from the tests performed in SR-04 and SR-05 do not lead to a residual risk level formally accepted by the risk owner or in case no concrete implementations are available at all, countermeasures not necessarily linked to a specific threat scenario must be implemented and tested. The implemented countermeasures must be tested adequately by subject matter experts not involved in their design and implementation. The countermeasures are to be documented according to PC-02. 
 
-# 6.3 Performance & Functionality Objective
+# Performance & Functionality
 
 1. The performance requirements to evaluate the AI service are appropriate given the characteristics and specifications of the target application. 
 
@@ -151,7 +149,7 @@ In case countermeasures derived from the tests performed in SR-04 and SR-05 do n
 
 3. Established procedures and recognized methodologies are applied for training and validation of the AI model(s) within the scope of the AI service to ensure correct functioning of the AI service. 
 
-## PF-01 Definition Of Performance Requirements Criterion
+## PF-01 Definition Of Performance Requirements
 
 Performance requirements for the AI service are defined and included in the system description according to BC-03. The defined performance requirements include at least the following aspects:
 - Performance metrics: Performance metrics to measure the quality of the AI service must respect the established rules of technology. Target values for those metrics are set in a way that the AI service fulfills the intended purpose as outlined in the system description. The metrics used to assess the accuracy of the AI service can differ based on the respective target application.
@@ -159,7 +157,7 @@ Performance requirements for the AI service are defined and included in the syst
 
 Changes to performance requirements are also documented in the system description according to BC-03.
 
-About the Criterion 
+About the Criterion
 
 The AI service provider selects adequate performance metrics to measure the quality of the AI service. The following metrics may be used and are open for further extension: 
 - Scoring: ROC curve, AUC curve, Gini coefficient;
@@ -172,11 +170,11 @@ It can be appropriate to use sampling methods (e.g. stratified sampling) to obta
 
 Note that in order to measure the performance of the AI service it is necessary to measure the performance of the AI model(s) within the scope of the service.
 
-## PF-02 Monitoring Of Performance Criterion
+## PF-02 Monitoring Of Performance
 
 The AI service provider assigns personnel to continuously compute and monitor the performance metric(s) defined in PF-01. In scheduled intervals (at least quarterly) reports on the performance of the service are communicated to the responsible management of the AI service provider.
 
-About the Criterion 
+About the Criterion
 
 To provide an overview of the performance of the service, dashboards should be implemented to aggregate relevant information. 
 
@@ -186,13 +184,13 @@ The dashboards should cover the defined performance metrics of the AI service as
 
 If the target values for the performance requirements defined in PF-01 and the description of the performance measurement procedures are incorporated in contractual agreements, identified material deviations to these contractual obligations are made transparent to users. In case of deviations responsible personnel of the AI service provider request retraining of the AI model(s) within the scope of the AI service in line with PF-07.
 
-## PF-04 Model Selection And Suitability Criterion
+## PF-04 Model Selection And Suitability
 
 Different algorithms and model approaches are considered taking into account established rules of technology, the amount of available data, the task at hand and the performance requirements in PF-01. The documentation addresses at least the following aspects:
 - Model concept: The suitability of the conceptual model to perform the intended task is described. 
 - Model boundaries: Limits of the conceptual model and operational boundaries are identified and their impact on the AI service is assessed.
 
-About the Criterion 
+About the Criterion
 
 Objectives, impact and purpose of the AI service are defined in the system description according to BC-03.
 
@@ -204,7 +202,7 @@ The templates may include the following points:
 
 - Model boundaries: The AI model has to be able to cover all cases required for the target application, e.g. an AI model trained to recognize German text, cannot be applied to English text without adjustments.
 
-## PF-05 Model Training And Validation Criterion
+## PF-05 Model Training And Validation
 
 The model(s) selected under consideration of their suitability according to PF-04 are trained, tested and validated with designated data according to DQ-06 taking into account feature selection and feature engineering.
 
@@ -220,7 +218,7 @@ Especially, trade-offs between performance, bias mitigation according to BI-03 a
 
 The final model specifications and achieved performance are documented according to PC02.
 
-About the Criterion 
+About the Criterion
 
 Depending on the model and the intended purpose, feature engineering and data cleansing/transformation (e.g. one-hot-encoding or stratified sampling) are carried out to transform the data to a form usable by the model. 
 
@@ -234,14 +232,14 @@ Evaluating and addressing underfitting:
 - A bad performance on both training and test set can be an indication for underfitting or for not including appropriate features. 
 - To overcome underfitting, one can add more complexity to the model e.g. increase the number of free parameters or chose a different model concept.
 
-## PF-06 Business Testing Criterion
+## PF-06 Business Testing
 
 Tests are implemented by the AI service provider and performed by subject matter experts to ensure that the AI model(s) within the scope of the AI service meet the requirements of the business process or respective target application scenario in accordance with PC-01, following the principles of Testing Changes (C5-DEV06).
 
 The tests are performed on a regular basis in accordance with training frequency, before golive of the AI service and after major changes 
 (e.g. retraining). Test methodology and results are documented according to PC-02. The go-live is approved based on test results by authorized personnel.
 
-About the Criterion 
+About the Criterion
 
 To test the model, subject matter experts can work with a carefully chosen "golden" dataset which should cover (all) the possible cases the system might encounter in production extensively. This dataset can be derived from real data or be sampled to meet a special composition of features reassembling cases.
 
@@ -249,7 +247,7 @@ When multiple AI models are chained together, correlation between errors of the 
 
 In addition, it can be useful to compare the AI services output/ decision with the decision made by subject matter experts. 
 
-## PF-07 Continuous Improvement Of Model Performance Criterion
+## PF-07 Continuous Improvement Of Model Performance
 
 If necessary, continuous improvement of the model performance is achieved through retraining the AI model(s) within the scope of the AI service and adjusting the conceptual model. Model retraining is either carried out at regular intervals (defined by the AI service provider), when the AI service is subject to model/concept drift or upon demand of responsible personnel assigned in PF-02 (Monitoring of Performance). 
 
@@ -257,13 +255,11 @@ Retraining a model follows the same principles as outlined in PF-05 and must alw
 
 If retraining a model does not lead to a mitigation of the issue that triggered the retraining process, subject matter experts reconsider the model concept according to PF-04 and the risk exposure assessment according to SR-02 and SR-03. The adjustments and model changes are documented. 
 
-
-
 About The Criterion
 
 Concept drift: conceptual changes such as changes in products, exposures, activities, clients, user groups, frequency of requests or quality of input data can lead to a diminished performance of the service. Subject matter experts should verify that any extension of the model beyond its original scope is valid and retrain the model if necessary.
 
-## PF-08 Additional Considerations When Using Automated Machine Learning Criterion
+## PF-08 Additional Considerations When Using Automated Machine Learning
 
 If parts of the development process are subject to Automated Machine Learning (Automated ML), the following aspects are considered:
 - Evaluation of the degree to which automated ML is applicable and how it provides suitable and adequate functionality to satisfy the services as set out in the system description;
@@ -287,11 +283,11 @@ The results in the report should be made plausible by applying domain knowledge 
 
 In case of automated decision making, procedures and measures are in place that allow users of the AI service to update or modify the decisions made by the AI service as specified in BC-03.
 
-About the Criterion 
+About the Criterion
 
 If there are no specifications on the extent to which users are able to correct or object to the results or decisions made by the AI service, this criterion might not be applicable.
 
-## PF-10 Regular Service Review Criterion
+## PF-10 Regular Service Review
 
 Mechanisms for the review of the AI service are set up in accordance with the principles of Managing and Handling Vulnerabilities, Errors and Logs (C5-OPS-20 and C5-PSS-04). These mechanisms are executed by subject matter experts at regular intervals (at least quarterly). The review includes at least the following aspects:
 - User feedback: Review of user/customer feedback about service output, impact and complaints;
@@ -309,7 +305,7 @@ User feedback provides additional information on the performance and functionali
 model(s) within the scope of the AI service, which can lead to new measures to improve the quality of the AI service. In the context of this criterion, failure reports shall address the operation of AI model(s) within the scope of the AI 
 service. 
 
-# 6.4 Reliability Objective
+# Reliability
 
 1. Defined performance thresholds are achieved by providing sufficient resources for the operation of the AI service. 
 
@@ -319,18 +315,18 @@ service.
 
 4. Service components are recovered in reasonable time, by establishing backup plans, if needed. 
 
-## RE-01 Resource Planning For Development Criterion
+## RE-01 Resource Planning For Development
 
 The planning of capacities and resources (technical and human) for the development and further improvement of the AI service is in line with PC-01 and follows the principles from Capacity Management - Planning (C5-OPS-01). 
 
 The procedure must be documented according to PC-02.
 
-About the Criterion 
+About the Criterion
 
 This criterion extends and builds on C5-OPS-01 as follows:
 In addition to resource planning for the operation of the AI service required by C5-OPS-01, this criterion covers resources for development, validation, testing and further improvement according to PF-07.
 
-## RE-02 Logging Of Model Requests Criterion
+## RE-02 Logging Of Model Requests
 
 The logging of requests should allow the backtracking of incidents and failures of the AI service to specific AI model(s).
 
@@ -340,49 +336,49 @@ Log files are kept for intervals that are appropriate for the application (for a
 
 Policies and instructions with technical and organizational safeguards for the logging process are documented and provided to authorized personnel if required. The policies and instructions are documented according to PC-02. In addition, the AI service provider outlines the information contained in the logs and their storage periods in the system description according to BC-04.
 
-## RE-03 Monitoring Of Model Requests Criterion
+## RE-03 Monitoring Of Model Requests
 
 The AI service provider performs continuous checks (at least monthly) for irregularities within user requests in order to detect malicious requests against the AI model(s) in scope of the AI Service according to RE-05. 
 
-About the Criterion 
+About the Criterion
 
 In addition to security monitoring issues addressed in C5-OPS-13, irregularities can arise from different sources, e.g. an unusual large number of requests or similar requests in terms of content which should be limited. 
 
 The monitoring of AI models should also consider model theft and data poisoning scenarios according to SR-01. 
 
-## RE-04 Corrective Measures To The Output Criterion
+## RE-04 Corrective Measures To The Output
 
 If the AI service allows for human intervention or correction of the AI service output, only authorized subjects are allowed to correct the output based on their rights and responsibilities. A corresponding role and rights concept is in place in accordance with the Policy for User Accounts and Access Rights (C5-IDM-01). 
 
-About the Criterion 
+About the Criterion
 
 For the purpose of retraining a model, suggestions made by the users of the AI service are collected and assessed through established procedures.
 
-## RE-05 Handling Of Ai Specific Security Incidents Criterion
+## RE-05 Handling Of Ai Specific Security Incidents
 
 Identified security incidents related to the AI model(s) within the scope of the AI service are addressed by the AI service provider in accordance with the Policy for Security Incident Management (C5-SIM-01). The processes and detected inconsistencies are documented according to PC-02.
 
-About the Criterion 
+About the Criterion
 
 The identified incidents are consolidated into new threat scenarios according to SR-01. The effectiveness of the countermeasures implemented according to SR-05 should be assessed taking into account the security incidents and further improved.
 
-## RE-06 Backup And Disaster Recovery Criterion
+## RE-06 Backup And Disaster Recovery
 
 Policies and instructions with technical and organizational safeguards are documented and provided according to PC-02 by the AI service provider to avoid loss of relevant data and AI model(s). In line with PC-01 the principles for Data Protection and Recovery (C5-OPS-06)must apply. They provide reliable procedures for backup management (e.g. snapshots) and recovery of models (e.g. roll-back mechanisms). Access to the backups is limited to authorized subjects. 
 
 The recovery procedures are tested at least annually. Actions required by the user must be outlined in the system description according to BC-04.
 
-About the Criterion 
+About the Criterion
 
 Versioning, tracking and storing of datasets and AI models for development and in production should be done according to a predefined structure (type, manner and frequency) along the learning pipeline.
 
-# 6.5 Data Quality Objective
+# Data Quality
 
 1. Data used for the training and operation of the AI service fulfills quality requirements.
 
 2. Establish transparency, which regulations and laws the service provider meets regarding the use of data for the AI service.
 
-## DQ-01 Data Quality Requirements For Development Criterion
+## DQ-01 Data Quality Requirements For Development
 
 Data quality requirements for development are defined to ensure a proper functioning of the AI service according to PF-01. The following aspects apply to data exploration as well as training, validation and testing data:
 - Accessibility 
@@ -393,8 +389,6 @@ Data quality requirements for development are defined to ensure a proper functio
 - Structural integrity The specifications of the data quality requirements are documented according to PC-02. 
 
 For external data sources, reports on the suitability and quality of the data must be provided and compliance with applicable legal and regulatory requirements and international standards according to BC-01 must be ensured.
-
-
 
 About The Criterion
 
@@ -410,7 +404,7 @@ This depends highly on the feature itself. Special care should be taken when dro
 
 External data sources include data acquired from third parties as well as openly available data.
 
-## DQ-02 Data Quality Requirements For Operation Criterion
+## DQ-02 Data Quality Requirements For Operation
 
 Data quality requirements for operation are defined to ensure a proper functioning of the AI service according to PF-01. The following aspects apply to data required for productive use of the AI service:
 - Origin; 
@@ -421,21 +415,21 @@ The specifications of the data quality requirements must be documented according
 
 For data sources acquired by the AI service provider, reports on the suitability and quality of the data must be provided and must be mapped to the data quality requirements defined above.
 
-About the Criterion 
+About the Criterion
 
 Data quality requirements for development and operation may differ significantly depending on the type (e.g. streaming data vs. static data), number and origin (e.g. internal vs. external).
 
-## DQ-03 Data Quality Assessment Criterion
+## DQ-03 Data Quality Assessment
 
 The quality of gathered data is continuously assessed according to DQ-01 or DQ-02 respectively. Corrective measures are in place to ensure stable data quality. The steps undertaken during data assessment are documented and outlined in the system description according to BC-05.
 
 These systematic data checks are carried out at regular intervals (at least quarterly) and detected inconsistencies are documented and followed up in a timely manner which is defined by the AI service provider.
 
-About the Criterion 
+About the Criterion
 
 Handling of inconsistencies should be addressed immediately at best but not later than 14 days after detecting the issue. 
 
-## DQ-04 Data Selection Criterion
+## DQ-04 Data Selection
 
 The AI service provider assesses data selected for training purposes as well as for the operation of the AI service based on defined assessment requirements. The assessment requirements are designed according to the criticality of the target application as well as the frequency of the learning process and include at least the following aspects:
 - Correctness: Information contained in the data is true (does not refer to faulty data in the sense of poor data quality);
@@ -445,7 +439,7 @@ The AI service provider assesses data selected for training purposes as well as 
 
 The assessment requirements and results of the selection process are documented according to PC-02.
 
-## DQ-05 Data Annotation Criterion
+## DQ-05 Data Annotation
 
 Requirements to ensure annotation accuracy and quality are defined in line with DQ-01 and documented. At least following points are considered: 
 - Domain knowledge of the personnel assigned;
@@ -458,17 +452,17 @@ DQ-06 Preparation of Training, Validation and Test Data Criterion Training, vali
 
 Additionally, it is ensured that training, validation and test data have the same shape as the data used for operation and fulfill the data quality requirements described in DQ-01.
 
-About the Criterion 
+About the Criterion
 
 In case that only insufficient validation data can be used (e.g. unsplit data set is too small to train the desired model), techniques such as cross validation are applied to validate the model.
 
-# 6.6 Data Management Objective
+# Data Management
 
 1. Data acquisition for the training and operation of the AI service is done in a structured manner.
 
 2. A viable data management framework for the data sources relevant for development and operation of the AI service is in place.
 
-## DM-01 Data Management Framework Criterion
+## DM-01 Data Management Framework
 
 A framework is in place to provide guidance for acquisition, distribution, storage and processing of data required for development, operation and further improvement of the AI model(s) in scope of the AI service. This includes the assignment of tasks, responsibilities as well as rights and roles for data handling along the learning pipeline. The following aspects are addressed:
 - Granting and changing (provisioning) of access authorizations based on the least-privilege principle and need-to know principle;
@@ -480,11 +474,11 @@ Data access applies to all relevant data (including data stored on premise) used
 
 The concept of data ownership is documented according to PC-02.
 
-About the Criterion 
+About the Criterion
 
 Access to data should be withdrawn immediately at best but not later than 14 days after performing the required task.
 
-## DM-02 Data Access Management Criterion
+## DM-02 Data Access Management
 
 The AI service provider protects the data used for development, operation and further improvement. In line with PC-01 the principles for identity and access management (C5-IDM-01, C5-IDM-02, C5-IDM-04 and C5- IDM-05) must apply and regulatory and legal requirements specified in with BC-01 must be considered. The implemented safeguards are outlined in the system description according to BC-05.
 
@@ -493,7 +487,7 @@ This includes at least the following aspects:
 - Training and validation data sets are secured to prevent unauthorized subjects from compromising the datasets 
 (for instance by frequent data quality checks).
 
-## DM-03 Traceability Of The Data Source Criterion
+## DM-03 Traceability Of The Data Source
 
 Data sources used by the AI service are documented to ensure traceability of data. The documentation includes all internal and external data sources used and specifies the purpose of their use. Data sources that contain user data and that are used by the AI service are outlined in the system description according to BC-05.
 
@@ -501,13 +495,11 @@ An AI service that includes user feedback for training purposes highlights feedb
 
 In case synthetic methods are used for artificial data creation, the process is documented and made transparent to relevant users.
 
-
-
 About The Criterion
 
 Data factsheets and templates for datasets should provide a structured way for the required documentation.
 
-## DM-04 Credibility Of Data Sources Criterion
+## DM-04 Credibility Of Data Sources
 
 The data sources selected for the development of the AI service are assessed in terms of their credibility and usability by the AI service provider in accordance with the principles of the Risk Assessment for Service Providers and Suppliers (C5-SSO-02) for external data sources. 
 
@@ -522,19 +514,19 @@ Identified issues are followed up in a timely manner which is defined by the AI 
 
 External data sources are described according to BC-05. 
 
-About the Criterion 
+About the Criterion
 
 To protect the credibility of data adequately, data should be stored in encrypted form whenever possible.
 
 For additional information about compliance checks see C5-COM-01 (Identification of applicable legal, regulatory, self-imposed or contractual requirements).
 
-# 6.7 Explainability Objective
+# Explainability
 
 1. Decisions of the AI service are made explainable, if necessary. 
 
 2. Appropriate techniques are used to provide explainability for decisions made by the AI service, if necessary.
 
-## EX-01 Assessment Of The Required Degree Of Explainability Criterion
+## EX-01 Assessment Of The Required Degree Of Explainability
 
 Based on the criticality of the AI service, an assessment for the need for explainability is carried out by persons with relevant domain knowledge, taking into account: 
 - Purpose; 
@@ -548,7 +540,7 @@ The results are documented in line with PC-02 and must consider the following as
 
 The identified need of explainability to be provided by the AI service is outlined in the system description according to BC-06. 
 
-About the Criterion 
+About the Criterion
 
 A need for explainability may for example arise during the debugging process of an AI model within the AI service.
 
@@ -560,7 +552,7 @@ In case the required degree of explainability derived in EX-01 cannot be provide
 
 The technical limitations of used methods and shortcomings regarding the identified needs for explainability are outlined in the system description according to BC-06.
 
-About the Criterion 
+About the Criterion
 
 Examples for explainability techniques can be divided into three categories that should be considered:
 - Pre-Training: PCA, SOM (self-organizing maps), Clustering;
@@ -571,7 +563,7 @@ Examples for explainability techniques can be divided into three categories that
     - Statistical Insights into features (Feature importance, PDP, ICE);
     - Surrogates.
 
-# 6.8 Bias
+#  Bias
 
 The topic of bias in AI applications is often linked to moral or ethical questions like the fair treatment of individuals or groups. The BSI does not make any statements regarding ethical questions. From a security perspective, it is crucial that the AI service provider itself and the cloud customers understand the functionality and possible limitations of the AI service to a sufficiently high degree, which depends on the application. However, in order to understand the functionality of the system it is important to analyze which features determine the outcome of the system and whether there are features which have an unwanted strong effect on the outcome (i.e. bias). This objective demands that the provider thoroughly assesses the impact of bias on the functionality and security of the AI service and that corresponding threats or limitations are communicated transparently to cloud customers. Moreover, critical risks need to be mitigated. It is up to the customers to read the audit report and draw their own conclusions whether possible limitations of the functionality are acceptable for their application and whether the AI service provider considers all forms of bias relevant for the customers intended use of the cloud service. However, the outcome of an audit does not make any statements on the moral or ethical suitability of the service towards individuals for a certain application.
 
@@ -579,14 +571,14 @@ Objective 1. Unwanted bias within the AI service is identified.
 
 2. Critical risks regarding existing bias are identified and mitigated.
 
-## BI-01 Conceptual Assessment Of Bias Criterion
+## BI-01 Conceptual Assessment Of Bias
 
 Based on the specific characteristics of the AI 
 service and required functionalities, a conceptual assessment is carried out by subject matter experts to evaluate the possibility of bias within the AI service and possible implications regarding the functionality, e.g. threats or limitations. Different types of bias and their origins are considered. Implications are rated and prioritized according to their criticality.
 
 Depending on the criticality, identified implications are followed up according to BI-02 in a timely manner. The results of the assessment are documented in line with PC-02. Identified possibilities for bias and implications affecting the functionality of the system in a critical way are outlined in the system description according to BC-06.
 
-About the Criterion 
+About the Criterion
 
 The following types of bias should be considered:
 - Direct bias 
@@ -596,7 +588,7 @@ The following types of bias should be considered:
 - Explainable bias
 - Unexplainable bias
 
-## BI-02 Assessing The Level Of Bias Criterion
+## BI-02 Assessing The Level Of Bias
 
 Based on the implications identified through the conceptual assessment of bias (BI-01) and the rated criticality, the data and AI model(s) within the scope of the AI service are evaluated through appropriate measures to investigate the level of bias existent in the AI service. 
 
@@ -616,7 +608,7 @@ The following fairness metrics may be included in the assessment:
 - Demographic Parity;
 - Fairness through awareness/unawareness.
 
-## BI-03 Mitigation Of Detected Bias Criterion
+## BI-03 Mitigation Of Detected Bias
 
 If the applied metrics express a critical level of bias, i.e. if the defined tolerance levels from BI02 are exceeded, measures are taken to mitigate the bias. Several mitigation methods are tested on their benefit, depending on the machine learning task and their applicability to the specific domain.
 
@@ -638,7 +630,7 @@ The following mitigation methods may be used and are open for further extension:
     - Calibrated equalized odds post-processing;
     - Reject option classification.
 
-## BI-04 Continuous Bias Assessment Criterion
+## BI-04 Continuous Bias Assessment
 
 As new data is collected and the AI model(s) within the scope of the AI service are adjusted, the bias assessment and measurement are repeated regularly according to BI-01 and BI-02.
 
