@@ -1,0 +1,210 @@
+{
+  "AI / LLM Asset Categories": [
+    {
+      "name": "Data",
+      "affected": "yes or no",
+      "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset.",
+      "Data Asset Sub-Categories": [
+        {
+          "name": "Genaral Purpose Data (used for training, benchmarking, testing, and validation)",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Data used for fine-tune training",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Data used for Retrieval-Augmented Generation (RAG)",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Data cards (that define the metadata of the data in use)",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Input data",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "User session data",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Model output data",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Model parameters (weights)",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Model hyperparameters",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Log data from LLM systems",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        }
+      ]
+    },
+    {
+      "name": "LLM/GenAI Ops",
+      "affected": "yes or no",
+      "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset.",
+      "LLM/GenAI Ops Sub-Categories": [
+        {
+          "name": "Cloud environment",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Hybrid and multi-cloud infrastructure",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Security of the deployment environment",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Continuous monitoring",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Storage",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        }
+      ]
+    },
+    {
+      "name": "Model",
+      "affected": "yes or no",
+      "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset.",
+      "Model Sub-Categories": [
+        {
+          "name": "Foundation Model",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Fine-Tuned Model",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Open Source vs. Closed Source Models",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Domain-Specific Models",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Model cards",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        }
+      ]
+    },
+    {
+      "name": "Orchestrated Services",
+      "affected": "yes or no",
+      "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset.",
+      "Orchestrated Services Sub-Categories": [
+        {
+          "name": "Caching Services",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Security Gateways (LLM Gateways)",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Deployment Services",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Monitoring Services",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Optimization Services",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Plug-ins for Security",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Plug-ins for Customization and Integration",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "LLM/GenAI General Agents",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        }
+      ]
+    },
+    {
+      "name": "AI Applications",
+      "affected": "yes or no",
+      "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset.",
+      "AI Applications Sub-Categories": [
+        {
+          "name": "User Interfaces",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Application-specific Models",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Integration Tools",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Decision Support Systems",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Content Generation Tools",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        },
+        {
+          "name": "Accessibility Tools",
+          "affected": "yes or no",
+          "justification": "Detailed justification goes here, referencing the provided definition and specific aspects of the asset and how it affects this sub-asset."
+        }
+      ]
+    }
+  ]
+}
+

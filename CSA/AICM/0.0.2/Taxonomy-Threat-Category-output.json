@@ -1,0 +1,38 @@
+{
+    "Model manipulation": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Data poisoning": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Sensitive data disclosure": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Model theft": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Model/Service Failure/Malfunctioning": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Insecure supply chain": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Insecure apps/plugins": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Denial of Service (DoS)": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    },
+    "Loss of governance/compliance": {
+        "Affected by AICM Control": "TRUE OR FALSE",
+        "Justification": "Justification for picking if the control affects this component"
+    }
+}

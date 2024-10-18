@@ -1,0 +1,11 @@
+{
+    "Cloud-Specific": {
+        "description": "This control is cloud security specific and does not apply to AI security"
+    },
+    "Cloud & AI Related": {
+        "description": "This control applies to both the cloud security and AI Security"
+    },
+    "AI-Specific": {
+        "description": "This control is AI security specific and does not apply to cloud security}"
+    }
+}

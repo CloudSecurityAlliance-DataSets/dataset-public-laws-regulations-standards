@@ -1,0 +1,20 @@
+{
+    "Phys": {
+        "description": "Physical components of the system, including hardware, sensors, and devices."
+    },
+    "Network": {
+        "description": "Network components, including routers, switches, and firewalls."
+    },
+    "Compute": {
+        "description": "Compute components, including servers, processors, and memory."
+    },
+    "Storage": {
+        "description": "Storage components, including disks, tapes, and storage area networks."
+    },
+    "App": {
+        "description": "Application components, including software, services, and applications."
+    },
+    "Data": {
+        "description": "Data components, including databases, data lakes, and data warehouses."
+    }
+}

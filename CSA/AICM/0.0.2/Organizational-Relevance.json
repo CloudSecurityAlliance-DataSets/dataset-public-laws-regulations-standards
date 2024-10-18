@@ -1,0 +1,29 @@
+{
+    "Cybersecurity": {
+        "description": "UNKNOWN"
+    },
+    "Internal Audit": {
+        "description": "UNKNOWN"
+    },
+    "Architecture Team": {
+        "description": "UNKNOWN"
+    },
+    "SW Development": {
+        "description": "UNKNOWN"
+    },
+    "Operations": {
+        "description": "UNKNOWN"
+    },
+    "Legal/Privacy": {
+        "description": "UNKNOWN"
+    },
+    "GRC Team": {
+        "description": "UNKNOWN"
+    },
+    "Supply Chain Management": {
+        "description": "UNKNOWN"
+    },
+    "HR": {
+        "description": "UNKNOWN"
+    }
+}

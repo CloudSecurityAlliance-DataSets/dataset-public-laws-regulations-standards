@@ -1,0 +1,63 @@
+{
+  "AI / LLM Asset Categories": [
+    {
+      "name": "Data",
+      "Data Asset Sub-Categories": [
+        {"name": "Genaral Purpose Data (used for training, benchmarking, testing, and validation)"},
+        {"name": "Data used for fine-tune training"},
+        {"name": "Data used for Retrieval-Augmented Generation (RAG)"},
+        {"name": "Data cards (that define the metadata of the data in use)"},
+        {"name": "Input data"},
+        {"name": "User session data"},
+        {"name": "Model output data"},
+        {"name": "Model parameters (weights)"},
+        {"name": "Model hyperparameters"},
+        {"name": "Log data from LLM systems"}
+      ]
+    },
+    {
+      "name": "LLM/GenAI Ops",
+      "LLM/GenAI Ops Sub-Categories": [
+        {"name": "Cloud environment"},
+        {"name": "Hybrid and multi-cloud infrastructure"},
+        {"name": "Security of the deployment environment"},
+        {"name": "Continuous monitoring"},
+        {"name": "Storage"}
+      ]
+    },
+    {
+      "name": "Model",
+      "Model Sub-Categories": [
+        {"name": "Foundation Model"},
+        {"name": "Fine-Tuned Model"},
+        {"name": "Open Source vs. Closed Source Models"},
+        {"name": "Domain-Specific Models"},
+        {"name": "Model cards"}
+      ]
+    },
+    {
+      "name": "Orchestrated Services",
+      "Orchestrated Services Sub-Categories": [
+        {"name": "Caching Services"},
+        {"name": "Security Gateways (LLM Gateways)"},
+        {"name": "Deployment Services"},
+        {"name": "Monitoring Services"},
+        {"name": "Optimization Services"},
+        {"name": "Plug-ins for Security"},
+        {"name": "Plug-ins for Customization and Integration"},
+        {"name": "LLM/GenAI General Agents"}
+      ]
+    },
+    {
+      "name": "AI Applications",
+      "AI Applications Sub-Categories": [
+        {"name": "User Interfaces"},
+        {"name": "Application-specific Models"},
+        {"name": "Integration Tools"},
+        {"name": "Decision Support Systems"},
+        {"name": "Content Generation Tools"},
+        {"name": "Accessibility Tools"}
+      ]
+    }
+  ]
+}
