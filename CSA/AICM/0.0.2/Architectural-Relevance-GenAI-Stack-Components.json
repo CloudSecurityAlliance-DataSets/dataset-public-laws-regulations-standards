@@ -1,20 +1,47 @@
 {
-    "Phys": {
-        "description": "Physical components of the system, including hardware, sensors, and devices."
-    },
-    "Network": {
-        "description": "Network components, including routers, switches, and firewalls."
-    },
-    "Compute": {
-        "description": "Compute components, including servers, processors, and memory."
-    },
-    "Storage": {
-        "description": "Storage components, including disks, tapes, and storage area networks."
-    },
-    "App": {
-        "description": "Application components, including software, services, and applications."
-    },
-    "Data": {
-        "description": "Data components, including databases, data lakes, and data warehouses."
-    }
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Architectural Relevance - GenAI Stack Components",
+    "id": "CSA-AICM-AR",  // Updated short ID for the overall dataset without trailing number
+    "sections": [
+        {
+            "name": "Physical",
+            "display_name": "Phys",
+            "description": "Physical components of the system, including hardware, sensors, and devices.",
+            "id": "CSA-AICM-AR-Phys"
+        },
+        {
+            "name": "Network",
+            "display_name": "Network",
+            "description": "Network components, including routers, switches, and firewalls.",
+            "id": "CSA-AICM-AR-Net"
+        },
+        {
+            "name": "Compute",
+            "display_name": "Compute",
+            "description": "Compute components, including servers, processors, and memory.",
+            "id": "CSA-AICM-AR-Comp"
+        },
+        {
+            "name": "Storage",
+            "display_name": "Storage",
+            "description": "Storage components, including disks, tapes, and storage area networks.",
+            "id": "CSA-AICM-AR-Store"
+        },
+        {
+            "name": "Application",
+            "display_name": "App",
+            "description": "Application components, including software, services, and applications.",
+            "id": "CSA-AICM-AR-App"
+        },
+        {
+            "name": "Data",
+            "display_name": "Data",
+            "description": "Data components, including databases, data lakes, and data warehouses.",
+            "id": "CSA-AICM-AR-Data"
+        }
+    ]
 }

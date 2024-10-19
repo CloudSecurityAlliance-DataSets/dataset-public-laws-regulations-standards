@@ -1,29 +1,65 @@
 {
-    "Cybersecurity": {
-        "description": "UNKNOWN"
-    },
-    "Internal Audit": {
-        "description": "UNKNOWN"
-    },
-    "Architecture Team": {
-        "description": "UNKNOWN"
-    },
-    "SW Development": {
-        "description": "UNKNOWN"
-    },
-    "Operations": {
-        "description": "UNKNOWN"
-    },
-    "Legal/Privacy": {
-        "description": "UNKNOWN"
-    },
-    "GRC Team": {
-        "description": "UNKNOWN"
-    },
-    "Supply Chain Management": {
-        "description": "UNKNOWN"
-    },
-    "HR": {
-        "description": "UNKNOWN"
-    }
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Organizational Relevance",
+    "id": "CSA-AICM-OR",  // Updated short ID for the overall dataset
+    "sections": [
+        {
+            "name": "Cybersecurity",
+            "display_name": "Cybersecurity",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-Cybersecurity"
+        },
+        {
+            "name": "Internal Audit",
+            "display_name": "Internal Audit",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-InternalAudit"
+        },
+        {
+            "name": "Architecture Team",
+            "display_name": "Architecture Team",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-ArchTeam"
+        },
+        {
+            "name": "SW Development",
+            "display_name": "SW Dev",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-SWDev"
+        },
+        {
+            "name": "Operations",
+            "display_name": "Operations",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-Operations"
+        },
+        {
+            "name": "Legal/Privacy",
+            "display_name": "Legal/Privacy",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-LegalPrivacy"
+        },
+        {
+            "name": "GRC Team",
+            "display_name": "GRC Team",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-GRCTeam"
+        },
+        {
+            "name": "Supply Chain Management",
+            "display_name": "Supply Chain",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-SupplyChain"
+        },
+        {
+            "name": "HR",
+            "display_name": "HR",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-HR"
+        }
+    ]
 }
