@@ -7,3 +7,7 @@ https://docs.google.com/document/d/1l8GT_PoabROqoqJOkNF-O52nEkPpiR20ZAHTaNW0e1s/
 ## AICM v0.0.2
 
 https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/edit?gid=1423750858#gid=1423750858
+
+## TODO
+
+[] The output format files and schemas
