@@ -1,0 +1,65 @@
+{
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix - Threat Categories",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Threat Categories",
+    "id": "CSA-AICM-TC",
+    "threat_categories": [
+        {
+            "name": "Model manipulation",
+            "display_name": "Model Manipulation",
+            "id": "CSA-AICM-TC-ModelManipulation",
+            "description": "This category involves attempts to evade detection or manipulate the LLM model to produce inaccurate or misleading results. It encompasses techniques such as prompt injection (adversarial inputs), which aim to exploit vulnerabilities in the model's understanding and decision-making processes."
+        },
+        {
+            "name": "Data poisoning",
+            "display_name": "Data Poisoning",
+            "id": "CSA-AICM-TC-DataPoisoning",
+            "description": "Data poisoning refers to the manipulation of training data used to train an LLM model. This manipulation can be malicious, with attackers intentionally injecting false or misleading data points, or unintentional, where errors or biases in the original dataset are included.  In either case, data poisoning can lead to a tainted model that learns incorrect patterns, produces biased predictions, and becomes untrustworthy."
+        },
+        {
+            "name": "Sensitive data disclosure",
+            "display_name": "Sensitive Data Disclosure",
+            "id": "CSA-AICM-TC-SensitiveDataDisclosure",
+            "description": "This category encompasses threats related to the unauthorized access, exposure, or leakage of sensitive information processed or stored by the LLM service. Sensitive data may include personal information, proprietary data, or confidential documents, the exposure of which could lead to privacy violations or security breaches."
+        },
+        {
+            "name": "Model theft",
+            "display_name": "Model Theft",
+            "id": "CSA-AICM-TC-ModelTheft",
+            "description": "Model stealing (distillation) involves unauthorized access to or replication of the LLM model by malicious actors. Attackers may attempt to reverse-engineer the model architecture or extract proprietary algorithms and parameters, leading to intellectual property theft or the creation of unauthorized replicas."
+        },
+        {
+            "name": "Model/Service Failure/Malfunctioning",
+            "display_name": "Model/Service Failure/Malfunctioning",
+            "id": "CSA-AICM-TC-ModelServiceFailure",
+            "description": "This category covers various types of failures or malfunctions within the LLM service, including software bugs, hardware failures, or operational errors. Such incidents can disrupt service availability, degrade performance, or compromise the accuracy and reliability of the LLM model's outputs."
+        },
+        {
+            "name": "Insecure supply chain",
+            "display_name": "Insecure Supply Chain",
+            "id": "CSA-AICM-TC-InsecureSupplyChain",
+            "description": "Insecure supply chain refers to vulnerabilities introduced through third-party components, dependencies, or services integrated into the LLM ecosystem. Weaknesses in the supply chain, such as compromised software libraries or hardware components, can be exploited to compromise the overall security and trustworthiness of the LLM service."
+        },
+        {
+            "name": "Insecure apps/plugins",
+            "display_name": "Insecure Apps/Plugins",
+            "id": "CSA-AICM-TC-InsecureAppsPlugins",
+            "description": "This category pertains to vulnerabilities introduced by third-party applications, plugins, functional calls, or extensions that interact with the LLM service. Insecure or maliciously designed apps/plugins may introduce security loopholes, elevate privilege levels, or facilitate unauthorized access to sensitive resources."
+        },
+        {
+            "name": "Denial of Service (DoS)",
+            "display_name": "Denial of Service (DoS)",
+            "id": "CSA-AICM-TC-DoS",
+            "description": "Denial of Service attacks aim to disrupt the availability or functionality of the LLM service by overwhelming it with a high volume of requests or malicious traffic. DoS attacks can render the service inaccessible to legitimate users, causing downtime, service degradation, or loss of trust."
+        },
+        {
+            "name": "Loss of governance/compliance",
+            "display_name": "Loss of Governance/Compliance",
+            "id": "CSA-AICM-TC-GovernanceCompliance",
+            "description": "This category involves the risk of non-compliance with regulatory requirements, industry standards, or internal governance policies governing the operation and use of the LLM service. Failure to adhere to governance and compliance standards can result in legal liabilities, financial penalties, or reputational damage."
+        }
+    ]
+}
