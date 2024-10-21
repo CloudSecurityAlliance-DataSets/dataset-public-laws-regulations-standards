@@ -5,7 +5,7 @@
     "data_source_description": "AI Control Matrix",
     "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
     "section_title": "Lifecycle Relevance",
-    "id": "CSA-AICM-LR", // Updated short ID for the overall dataset
+    "id": "CSA-AICM-LR",
     "lifecycle_stages": [
         {
             "name": "Preparation",
