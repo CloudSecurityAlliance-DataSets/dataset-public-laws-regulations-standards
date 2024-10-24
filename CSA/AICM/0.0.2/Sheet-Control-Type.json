@@ -1,0 +1,40 @@
+{
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Control Type",
+    "id": "CSA-AICM-CT",
+    "sections": [
+        {
+            "name": "Control Type",
+            "display_name": "Control Type",
+            "description": "Is this control AI specific, Cloud specific, or applicable to AI and Cloud",
+            "id": "CSA-AICM-CT",
+            "selection_required": true,
+            "selection_type": "single",
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "AI-Specific",
+                    "display_name": "AI-Specific",
+                    "description": "This control is AI security specific and does not apply to cloud security",
+                    "id": "CSA-AICM-CT-AISpecific"
+                },
+                {
+                    "name": "Cloud-Specific",
+                    "display_name": "Cloud-Specific",
+                    "description": "This control is cloud security specific and does not apply to AI security",
+                    "id": "CSA-AICM-CT-CloudSpecific"
+                },
+                {
+                    "name": "Cloud & AI Related",
+                    "display_name": "Cloud & AI Related",
+                    "description": "This control applies to both the cloud security and AI Security",
+                    "id": "CSA-AICM-CT-CloudAIRelated"
+                }
+            ]
+        }
+    ]
+}

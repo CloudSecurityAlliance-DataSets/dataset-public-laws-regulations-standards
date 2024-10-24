@@ -1,0 +1,203 @@
+{
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Lifecycle Relevance",
+    "id": "CSA-AICM-LR",
+    "sections": [
+        {
+            "name": "Preparation",
+            "display_name": "Preparation",
+            "description": "This phase involves tasks necessary to set up the resources and data for LLM development.",
+            "id": "CSA-AICM-LR-Preparation",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Data collection",
+                    "display_name": "Data collection",
+                    "description": "Focus on identifying diverse, high-quality data sources and ensuring they align with the LLM’s purpose.",
+                    "id": "CSA-AICM-LR-Preparation-DataCollection"
+                },
+                {
+                    "name": "Data curation",
+                    "display_name": "Data curation",
+                    "description": "Enhancing data quality through cleaning, categorization, and transformation.",
+                    "id": "CSA-AICM-LR-Preparation-DataCuration"
+                },
+                {
+                    "name": "Data storage",
+                    "display_name": "Data storage",
+                    "description": "Ensure accessible and secure data storage solutions with strong security measures.",
+                    "id": "CSA-AICM-LR-Preparation-DataStorage"
+                },
+                {
+                    "name": "Resource provisioning",
+                    "display_name": "Resource provisioning",
+                    "description": "Select appropriate compute and cloud resources optimized for LLM development.",
+                    "id": "CSA-AICM-LR-Preparation-ResourceProvisioning"
+                },
+                {
+                    "name": "Team and expertise",
+                    "display_name": "Team and expertise",
+                    "description": "Ensure a skilled team of data scientists, engineers, linguists, and ethicists.",
+                    "id": "CSA-AICM-LR-Preparation-TeamExpertise"
+                }
+            ]
+        },
+        {
+            "name": "Development",
+            "display_name": "Development",
+            "description": "The process of designing and training the LLM.",
+            "id": "CSA-AICM-LR-Development",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Design",
+                    "display_name": "Design",
+                    "description": "Choose model architecture, hyperparameters, and evaluation metrics.",
+                    "id": "CSA-AICM-LR-Development-Design"
+                },
+                {
+                    "name": "Training",
+                    "display_name": "Training",
+                    "description": "Iteratively train the model using curated data and monitor its performance.",
+                    "id": "CSA-AICM-LR-Development-Training"
+                },
+                {
+                    "name": "Guardrails",
+                    "display_name": "Guardrails",
+                    "description": "Implement safety mechanisms to prevent harmful content generation.",
+                    "id": "CSA-AICM-LR-Development-Guardrails"
+                }
+            ]
+        },
+        {
+            "name": "Evaluation/Validation",
+            "display_name": "Evaluation/Validation",
+            "description": "Assess and test the model’s performance.",
+            "id": "CSA-AICM-LR-EvaluationValidation",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Evaluation",
+                    "display_name": "Evaluation",
+                    "description": "Use metrics and benchmarks to assess the model’s performance and fairness.",
+                    "id": "CSA-AICM-LR-EvaluationValidation-Evaluation"
+                },
+                {
+                    "name": "Validation/Red Teaming",
+                    "display_name": "Validation/Red Teaming",
+                    "description": "Test the model in real-world scenarios to evaluate its generalization capabilities.",
+                    "id": "CSA-AICM-LR-EvaluationValidation-ValidationRedTeaming"
+                },
+                {
+                    "name": "Re-evaluation",
+                    "display_name": "Re-evaluation",
+                    "description": "Monitor the model’s performance post-deployment and retrain if necessary.",
+                    "id": "CSA-AICM-LR-EvaluationValidation-Reevaluation"
+                }
+            ]
+        },
+        {
+            "name": "Deployment",
+            "display_name": "Deployment",
+            "description": "Managing the operational deployment of the model.",
+            "id": "CSA-AICM-LR-Deployment",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Orchestration",
+                    "display_name": "Orchestration",
+                    "description": "Package the LLM for deployment and ensure it can scale efficiently.",
+                    "id": "CSA-AICM-LR-Deployment-Orchestration"
+                },
+                {
+                    "name": "AI Services supply chain",
+                    "display_name": "AI Services supply chain",
+                    "description": "Ensure secure interaction between the LLM and external components.",
+                    "id": "CSA-AICM-LR-Deployment-AIServicesSupplyChain"
+                },
+                {
+                    "name": "AI applications",
+                    "display_name": "AI applications",
+                    "description": "Develop APIs and integrate retrieval-augmented generation techniques.",
+                    "id": "CSA-AICM-LR-Deployment-AIApplications"
+                }
+            ]
+        },
+        {
+            "name": "Delivery",
+            "display_name": "Delivery",
+            "description": "Managing the operational aspects of the deployed model.",
+            "id": "CSA-AICM-LR-Delivery",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Operations",
+                    "display_name": "Operations",
+                    "description": "Track the LLM’s performance and handle incidents.",
+                    "id": "CSA-AICM-LR-Delivery-Operations"
+                },
+                {
+                    "name": "Maintenance",
+                    "display_name": "Maintenance",
+                    "description": "Address bugs, apply security updates, and retrain as needed.",
+                    "id": "CSA-AICM-LR-Delivery-Maintenance"
+                },
+                {
+                    "name": "Continuous monitoring",
+                    "display_name": "Continuous monitoring",
+                    "description": "Ongoing scrutiny of the LLM’s performance and security.",
+                    "id": "CSA-AICM-LR-Delivery-ContinuousMonitoring"
+                },
+                {
+                    "name": "Continuous improvement",
+                    "display_name": "Continuous improvement",
+                    "description": "Regularly evaluate and improve the model’s performance.",
+                    "id": "CSA-AICM-LR-Delivery-ContinuousImprovement"
+                }
+            ]
+        },
+        {
+            "name": "Service Retirement",
+            "display_name": "Service Retirement",
+            "description": "Phasing out the LLM’s operational lifecycle.",
+            "id": "CSA-AICM-LR-ServiceRetirement",
+            "selection_type": "multiple",
+            "selection_required": false,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Archiving",
+                    "display_name": "Archiving",
+                    "description": "Preserve the LLM model and its associated documentation for future use.",
+                    "id": "CSA-AICM-LR-ServiceRetirement-Archiving"
+                },
+                {
+                    "name": "Data deletion",
+                    "display_name": "Data deletion",
+                    "description": "Ensure secure deletion of sensitive data in compliance with regulations.",
+                    "id": "CSA-AICM-LR-ServiceRetirement-DataDeletion"
+                },
+                {
+                    "name": "Model disposal",
+                    "display_name": "Model disposal",
+                    "description": "Assess whether the LLM or its components can be reused or securely disposed of.",
+                    "id": "CSA-AICM-LR-ServiceRetirement-ModelDisposal"
+                }
+            ]
+        }
+    ]
+}

@@ -5,43 +5,145 @@
     "data_source_description": "AI Control Matrix",
     "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
     "section_title": "Architectural Relevance - GenAI Stack Components",
-    "id": "CSA-AICM-AR",  // Updated short ID for the overall dataset without trailing number
+    "id": "CSA-AICM-AR",
     "sections": [
         {
             "name": "Physical",
             "display_name": "Phys",
             "description": "Physical components of the system, including hardware, sensors, and devices.",
-            "id": "CSA-AICM-AR-Phys"
+            "id": "CSA-AICM-AR-Phys",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects physical components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect physical components"
+                }
+            ]
         },
         {
             "name": "Network",
             "display_name": "Network",
             "description": "Network components, including routers, switches, and firewalls.",
-            "id": "CSA-AICM-AR-Net"
+            "id": "CSA-AICM-AR-Net",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects network components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect network components"
+                }
+            ]
         },
         {
             "name": "Compute",
             "display_name": "Compute",
             "description": "Compute components, including servers, processors, and memory.",
-            "id": "CSA-AICM-AR-Comp"
+            "id": "CSA-AICM-AR-Comp",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects compute components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect compute components"
+                }
+            ]
         },
         {
             "name": "Storage",
             "display_name": "Storage",
             "description": "Storage components, including disks, tapes, and storage area networks.",
-            "id": "CSA-AICM-AR-Store"
+            "id": "CSA-AICM-AR-Store",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects storage components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect storage components"
+                }
+            ]
         },
         {
             "name": "Application",
             "display_name": "App",
             "description": "Application components, including software, services, and applications.",
-            "id": "CSA-AICM-AR-App"
+            "id": "CSA-AICM-AR-App",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects application components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect application components"
+                }
+            ]
         },
         {
             "name": "Data",
             "display_name": "Data",
             "description": "Data components, including databases, data lakes, and data warehouses.",
-            "id": "CSA-AICM-AR-Data"
+            "id": "CSA-AICM-AR-Data",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "true",
+                    "display_name": "true",
+                    "id": "true",
+                    "description": "true - this control affects data components"
+                },
+                {
+                    "name": "false",
+                    "display_name": "false",
+                    "id": "false",
+                    "description": "false - this control does not affect data components"
+                }
+            ]
         }
     ]
 }

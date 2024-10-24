@@ -11,25 +11,284 @@
             "name": "Generative AI Operations, Processing Infra",
             "display_name": "Gen AI OPS/Processing Infra",
             "description": "Large Language Model (LLM) Services rely on two key components: Data Assets and the LLM-Ops Environment. Data Assets include training data, model inputs/outputs, parameters, and logs. The LLM-Ops Environment covers cloud infrastructure for training, inference, and applications, along with access control and monitoring systems. These elements form the backbone of LLM development, deployment, and maintenance, enabling the creation and operation of sophisticated AI language services.",
-            "id": "CSA-AICM-CAO-GenAIOpsInfra"
+            "id": "CSA-AICM-CAO-GenAIOpsInfra",
+            "selection_required": true,
+            "selection_type": "single",
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Owned by the Cloud Service Provider (CSP)",
+                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "id": "CSA-AICM-CO-CSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Model Provider (MP)",
+                    "display_name": "Owned by the Model Provider (MP)",
+                    "id": "CSA-AICM-CO-MP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "id": "CSA-AICM-CO-OSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Application Provider (AP)",
+                    "display_name": "Owned by the Application Provider (AP)",
+                    "id": "CSA-AICM-CO-AP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Customer (AIC)",
+                    "display_name": "Owned by the Customer (AIC)",
+                    "id": "CSA-AICM-CO-AIC",
+                    "description": ""
+                },
+                {
+                    "name": "Shared across the supply chain",
+                    "display_name": "Shared across the supply chain",
+                    "id": "CSA-AICM-CO-SupplyChain",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "id": "CSA-AICM-CO-SharedCSPMP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "id": "CSA-AICM-CO-SharedMPOSP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "id": "CSA-AICM-CO-SharedOSPAP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "id": "CSA-AICM-CO-SharedAPAIC",
+                    "description": ""
+                }
+            ]
         },
         {
             "name": "AI Model",
             "display_name": "MODEL",
             "description": "In Machine Learning, the Model refers to the trained system at the core of AI applications. There are three key model assets: Foundation Model: Large, pre-trained language models that provide a broad understanding of language, serving as a base for further specialization. Fine-Tuned Model: Derived from the Foundation Model, these are adapted for specific tasks or domains using supervised learning and task-specific data. Open Source vs. Closed Source Models: This distinction relates to the accessibility of a model's code, weights, and artifacts. Open source models are publicly available, while closed source models maintain proprietary status. These model assets are crucial in GenAI development, influencing capabilities, performance, and deployment flexibility across various applications and domains.",
-            "id": "CSA-AICM-CAO-Model"
+            "id": "CSA-AICM-CAO-Model",
+            "selection_required": true,
+            "selection_type": "single",
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Owned by the Cloud Service Provider (CSP)",
+                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "id": "CSA-AICM-CO-CSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Model Provider (MP)",
+                    "display_name": "Owned by the Model Provider (MP)",
+                    "id": "CSA-AICM-CO-MP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "id": "CSA-AICM-CO-OSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Application Provider (AP)",
+                    "display_name": "Owned by the Application Provider (AP)",
+                    "id": "CSA-AICM-CO-AP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Customer (AIC)",
+                    "display_name": "Owned by the Customer (AIC)",
+                    "id": "CSA-AICM-CO-AIC",
+                    "description": ""
+                },
+                {
+                    "name": "Shared across the supply chain",
+                    "display_name": "Shared across the supply chain",
+                    "id": "CSA-AICM-CO-SupplyChain",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "id": "CSA-AICM-CO-SharedCSPMP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "id": "CSA-AICM-CO-SharedMPOSP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "id": "CSA-AICM-CO-SharedOSPAP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "id": "CSA-AICM-CO-SharedAPAIC",
+                    "description": ""
+                }
+            ]
         },
         {
             "name": "Orchestrated Services",
             "display_name": "Orchestrated Services",
             "description": "Orchestrated Services Assets are crucial components that enable efficient and secure operation of Large Language Models (LLMs). These assets include: Caching Services: Improve performance by storing frequently accessed data. Security Gateways: Enhance security through access control and threat prevention. Deployment Services: Streamline LLM deployment across various environments. Monitoring Services: Oversee LLM performance, health, and usage. Optimization Services: Enhance LLM efficiency and resource utilization. Security Plug-ins: Bolster LLM security through additional features. Customization and Integration Plug-ins: Enable tailoring of LLM functionalities and system integration. LLM General Agents: Intelligent components that augment LLM capabilities. These assets collectively contribute to the flexibility, security, and effectiveness of LLM deployments in diverse operational contexts.",
-            "id": "CSA-AICM-CAO-OrchServices"
+            "id": "CSA-AICM-CAO-OrchServices""selection_required": true,
+            "selection_type": "single",
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Owned by the Cloud Service Provider (CSP)",
+                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "id": "CSA-AICM-CO-CSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Model Provider (MP)",
+                    "display_name": "Owned by the Model Provider (MP)",
+                    "id": "CSA-AICM-CO-MP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "id": "CSA-AICM-CO-OSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Application Provider (AP)",
+                    "display_name": "Owned by the Application Provider (AP)",
+                    "id": "CSA-AICM-CO-AP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Customer (AIC)",
+                    "display_name": "Owned by the Customer (AIC)",
+                    "id": "CSA-AICM-CO-AIC",
+                    "description": ""
+                },
+                {
+                    "name": "Shared across the supply chain",
+                    "display_name": "Shared across the supply chain",
+                    "id": "CSA-AICM-CO-SupplyChain",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "id": "CSA-AICM-CO-SharedCSPMP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "id": "CSA-AICM-CO-SharedMPOSP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "id": "CSA-AICM-CO-SharedOSPAP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "id": "CSA-AICM-CO-SharedAPAIC",
+                    "description": ""
+                }
+            ]
         },
         {
             "name": "Generative AI Applications",
             "display_name": "GenAI Apps",
             "description": "Generative AI applications, powered by Large Language Models (LLMs), have become ubiquitous in our daily lives and business operations. These applications offer diverse capabilities such as content generation, question answering, and language translation, serving as the interface between users and LLM technology. As downstream applications of LLMs, they significantly impact how users interact with AI systems and have substantial economic implications. Given their importance, generative AI applications are a crucial focus in AI control frameworks. These frameworks must prioritize governance and oversight, including guidelines for development, testing, and deployment. They should ensure compliance with regulations, promote transparency and accountability, and facilitate continuous monitoring and evaluation. By placing generative AI applications at the forefront of AI control frameworks, organizations can address potential risks while harnessing their transformative potential to drive innovation and improve lives.",
-            "id": "CSA-AICM-CAO-GenAIApps"
+            "id": "CSA-AICM-CAO-GenAIApps",
+            "selection_required": true,
+            "selection_type": "single",
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "name": "Owned by the Cloud Service Provider (CSP)",
+                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "id": "CSA-AICM-CO-CSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Model Provider (MP)",
+                    "display_name": "Owned by the Model Provider (MP)",
+                    "id": "CSA-AICM-CO-MP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "id": "CSA-AICM-CO-OSP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Application Provider (AP)",
+                    "display_name": "Owned by the Application Provider (AP)",
+                    "id": "CSA-AICM-CO-AP",
+                    "description": ""
+                },
+                {
+                    "name": "Owned by the Customer (AIC)",
+                    "display_name": "Owned by the Customer (AIC)",
+                    "id": "CSA-AICM-CO-AIC",
+                    "description": ""
+                },
+                {
+                    "name": "Shared across the supply chain",
+                    "display_name": "Shared across the supply chain",
+                    "id": "CSA-AICM-CO-SupplyChain",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "id": "CSA-AICM-CO-SharedCSPMP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "id": "CSA-AICM-CO-SharedMPOSP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "id": "CSA-AICM-CO-SharedOSPAP",
+                    "description": ""
+                },
+                {
+                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "id": "CSA-AICM-CO-SharedAPAIC",
+                    "description": ""
+                }
+            ]
         }
     ]
 }

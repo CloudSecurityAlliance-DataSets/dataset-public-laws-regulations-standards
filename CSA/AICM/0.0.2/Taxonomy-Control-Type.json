@@ -5,25 +5,25 @@
     "data_source_description": "AI Control Matrix",
     "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
     "section_title": "Control Type",
-    "id": "CSA-AICM-CT",
+    "id": "CSA-AICM-TAXONOMY-CT",
     "sections": [
         {
             "name": "Cloud-Specific",
             "display_name": "Cloud-Specific",
             "description": "This control is cloud security specific and does not apply to AI security",
-            "id": "CSA-AICM-CT-CloudSpecific"
+            "id": "CSA-AICM-TAXONOMY-CT-CloudSpecific"
         },
         {
             "name": "Cloud & AI Related",
             "display_name": "Cloud & AI Related",
             "description": "This control applies to both the cloud security and AI Security",
-            "id": "CSA-AICM-CT-CloudAIRelated"
+            "id": "CSA-AICM-TAXONOMY-CT-CloudAIRelated"
         },
         {
             "name": "AI-Specific",
             "display_name": "AI-Specific",
             "description": "This control is AI security specific and does not apply to cloud security",
-            "id": "CSA-AICM-CT-AISpecific"
+            "id": "CSA-AICM-TAXONOMY-CT-AISpecific"
         }
     ]
 }
