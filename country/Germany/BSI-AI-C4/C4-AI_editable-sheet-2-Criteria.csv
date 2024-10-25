@@ -2,41 +2,41 @@ Area,ID,Title,Basic Criteria,Supplementary Information - About the Criteria
 Preliminary Criteria,PC-01,General Cloud Computing Compliance,"The AI service provider demonstrates compliance of the AI service with general cloud computing compliance criteria, as set out in the Cloud Computing Compliance Criteria Catalogue (C5).
 The service is compliant according to the C5.
 This is shown in a report that covers at least the following aspects:
-• Scope: The subject of the C5 report specifically covers the AI service;
-• Coverage Period: The C5 report (or multiple reports) covers the full audit period of the attestation according to the AI Cloud Service Compliance Criteria Catalogue. Alternatively, a bridge letter is provided for the gap;
-• Report Type: The C5 report is of at least the same type (Type 1 or Type 2) as the attestation according to the AIC4;
-• Qualified Service Auditor: The C5 report is issued by a qualified auditor;
-• Opinion: The C5 opinion for the AI service in scope of attestation according to the AIC4 is unqualified;
-• Timing: The C5 report is made available prior to the issue date of the AI Cloud Service Compliance Criteria attestation report.","In case the C5 opinion for the AI service in scope of attestation according to the AI Cloud Service Compliance Criteria Catalogue is qualified, the independent auditor should make this transparent in the report and evaluate the impact on the opinion for his engagement according to the AIC4."
+- Scope: The subject of the C5 report specifically covers the AI service;
+- Coverage Period: The C5 report (or multiple reports) covers the full audit period of the attestation according to the AI Cloud Service Compliance Criteria Catalogue. Alternatively, a bridge letter is provided for the gap;
+- Report Type: The C5 report is of at least the same type (Type 1 or Type 2) as the attestation according to the AIC4;
+- Qualified Service Auditor: The C5 report is issued by a qualified auditor;
+- Opinion: The C5 opinion for the AI service in scope of attestation according to the AIC4 is unqualified;
+- Timing: The C5 report is made available prior to the issue date of the AI Cloud Service Compliance Criteria attestation report.","In case the C5 opinion for the AI service in scope of attestation according to the AI Cloud Service Compliance Criteria Catalogue is qualified, the independent auditor should make this transparent in the report and evaluate the impact on the opinion for his engagement according to the AIC4."
 Preliminary Criteria,PC-02,Standard for Documentation of the AI Service Provider,"Policies and instructions covering system robustness, development, deployment, operation and maintenance of the AI service as well
 as relevant subsystems are documented.
 At least following requirements are fulfilled:
-• Structure: Documentation follows a clear structure in which the information is divided into sections in a coherent manner;
-• Access: The document is accessible for all relevant parties;
-• Coverage: The document covers all relevant points of the topic;
-• Roles and Responsibilities: Authorities and competencies for managing the matter to be documented are defined;
-• Accurate: Information contained in the documentation is correct;
-• Versioning: The edit history of the documents is tracked;
-• Components: Qualitative and quantitative elements are used where applicable to aggregate the relevant information;
-• Review: The documentation is reviewed and updated on a regular basis (at least annually).","This criterion is closely related to the criterion for Documentation, Communication and Provision of Policies and Instructions (C5-SP-01). For clarity reasons, this criterion is replicated and slightly modified to meet the AIspecific needs.
+- Structure: Documentation follows a clear structure in which the information is divided into sections in a coherent manner;
+- Access: The document is accessible for all relevant parties;
+- Coverage: The document covers all relevant points of the topic;
+- Roles and Responsibilities: Authorities and competencies for managing the matter to be documented are defined;
+- Accurate: Information contained in the documentation is correct;
+- Versioning: The edit history of the documents is tracked;
+- Components: Qualitative and quantitative elements are used where applicable to aggregate the relevant information;
+- Review: The documentation is reviewed and updated on a regular basis (at least annually).","This criterion is closely related to the criterion for Documentation, Communication and Provision of Policies and Instructions (C5-SP-01). For clarity reasons, this criterion is replicated and slightly modified to meet the AIspecific needs.
 Policies and instructions are required for the following criteria in which the content is specified in more detail:
-• Results of the risk exposure assessment (SR-02)
-• Implemented countermeasures (SR06, SR-07)
-• Model selection process and decisive factors (PF-05)
-• Final model specifications and achieved performance (PF-05)
-• Test methodology and results of business testing (PF-06)
-• Issues identified during performance reviews (PF-10)
-• Resource planning procedure (RE-01)
-• Policies and instructions for the logging process (RE-02)
-• Processes and detected inconsistencies related to AI specific security incidents (RE-05)
-• Policies and instructions related to backup and disaster recovery (RE-06)
-• Specifications of the data quality requirements for development and operation (DQ-01, DQ-02)
-• Assessment requirements and results of the data selection process (DQ-04)
-• Concept of data ownership (DM-01)
-• Streams of user feedback included for training purposes (DM-03)
-• Assessment of the credibility of data sources (DM-04)
-• Results of the assessment of the required degree of explainability (EX01)
-• Results of the bias assessment (BI-01)"
+- Results of the risk exposure assessment (SR-02)
+- Implemented countermeasures (SR06, SR-07)
+- Model selection process and decisive factors (PF-05)
+- Final model specifications and achieved performance (PF-05)
+- Test methodology and results of business testing (PF-06)
+- Issues identified during performance reviews (PF-10)
+- Resource planning procedure (RE-01)
+- Policies and instructions for the logging process (RE-02)
+- Processes and detected inconsistencies related to AI specific security incidents (RE-05)
+- Policies and instructions related to backup and disaster recovery (RE-06)
+- Specifications of the data quality requirements for development and operation (DQ-01, DQ-02)
+- Assessment requirements and results of the data selection process (DQ-04)
+- Concept of data ownership (DM-01)
+- Streams of user feedback included for training purposes (DM-03)
+- Assessment of the credibility of data sources (DM-04)
+- Results of the assessment of the required degree of explainability (EX01)
+- Results of the bias assessment (BI-01)"
 Security & Robustness,SR-01,Continuous Assessment Of Security Threats And Countermeasures,"Procedures are implemented by the AI service provider to continuously monitor and assess new threats related to the AI model(s) within the scope of the AI service. In line with PC-01 the principles of the Risk Management Policy (C5-OIS-06 and C5-OIS-07) must apply. Results are consolidated in threat scenarios. A documented description of a threat scenario contains at least:
 - Details of the model architecture or machine learning algorithm that are vulnerable and concrete attack vectors against such threats;
 - Characteristics of the data the attack vector operates on or with, such as structure or type;
