@@ -8,8 +8,8 @@
     "id": "CSA-AICM-LR",
     "lifecycle_stages": [
         {
-            "value": "Preparation",
-            "display_value": "Preparation",
+            "name": "Preparation",
+            "display_name": "Preparation",
             "id": "CSA-AICM-LR-Preparation",
             "lifecycle_components": [
                 {
@@ -40,8 +40,8 @@
             ]
         },
         {
-            "value": "Development",
-            "display_value": "Development",
+            "name": "Development",
+            "display_name": "Development",
             "id": "CSA-AICM-LR-Development",
             "lifecycle_components": [
                 {
@@ -62,8 +62,8 @@
             ]
         },
         {
-            "value": "Evaluation/Validation",
-            "display_value": "Evaluation/Validation",
+            "name": "Evaluation/Validation",
+            "display_name": "Evaluation/Validation",
             "id": "CSA-AICM-LR-EvaluationValidation",
             "lifecycle_components": [
                 {
@@ -84,8 +84,8 @@
             ]
         },
         {
-            "value": "Deployment",
-            "display_value": "Deployment",
+            "name": "Deployment",
+            "display_name": "Deployment",
             "id": "CSA-AICM-LR-Deployment",
             "lifecycle_components": [
                 {
@@ -106,8 +106,8 @@
             ]
         },
         {
-            "value": "Delivery",
-            "display_value": "Delivery",
+            "name": "Delivery",
+            "display_name": "Delivery",
             "id": "CSA-AICM-LR-Delivery",
             "lifecycle_components": [
                 {
@@ -133,8 +133,8 @@
             ]
         },
         {
-            "value": "Service Retirement",
-            "display_value": "Service Retirement",
+            "name": "Service Retirement",
+            "display_name": "Service Retirement",
             "id": "CSA-AICM-LR-ServiceRetirement",
             "lifecycle_components": [
                 {

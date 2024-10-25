@@ -8,8 +8,8 @@
   "id": "CSA-AICM-AC",
   "asset_categories": [
       {
-          "value": "Data",
-          "display_value": "Data",
+          "name": "Data",
+          "display_name": "Data",
           "id": "CSA-AICM-AC-Data",
           "asset_subcategories": [
               {
@@ -65,8 +65,8 @@
           ]
       },
       {
-          "value": "LLM/GenAI Ops",
-          "display_value": "LLM/GenAI Ops",
+          "name": "LLM/GenAI Ops",
+          "display_name": "LLM/GenAI Ops",
           "id": "CSA-AICM-AC-LLMGenAIOps",
           "asset_subcategories": [
               {
@@ -97,8 +97,8 @@
           ]
       },
       {
-          "value": "Model",
-          "display_value": "Model",
+          "name": "Model",
+          "display_name": "Model",
           "id": "CSA-AICM-AC-Model",
           "asset_subcategories": [
               {
@@ -129,8 +129,8 @@
           ]
       },
       {
-          "value": "Orchestrated Services",
-          "display_value": "Orchestrated Services",
+          "name": "Orchestrated Services",
+          "display_name": "Orchestrated Services",
           "id": "CSA-AICM-AC-OrchestratedServices",
           "asset_subcategories": [
               {
@@ -176,8 +176,8 @@
           ]
       },
       {
-          "value": "AI Applications",
-          "display_value": "AI Applications",
+          "name": "AI Applications",
+          "display_name": "AI Applications",
           "id": "CSA-AICM-AC-AIApplications",
           "asset_subcategories": [
               {
