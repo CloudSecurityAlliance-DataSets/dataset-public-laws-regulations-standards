@@ -17,32 +17,32 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Data collection",
-                    "display_name": "Data collection",
+                    "value": "Data collection",
+                    "display_value": "Data collection",
                     "description": "Focus on identifying diverse, high-quality data sources and ensuring they align with the LLM’s purpose.",
                     "id": "CSA-AICM-LR-Preparation-DataCollection"
                 },
                 {
-                    "name": "Data curation",
-                    "display_name": "Data curation",
+                    "value": "Data curation",
+                    "display_value": "Data curation",
                     "description": "Enhancing data quality through cleaning, categorization, and transformation.",
                     "id": "CSA-AICM-LR-Preparation-DataCuration"
                 },
                 {
-                    "name": "Data storage",
-                    "display_name": "Data storage",
+                    "value": "Data storage",
+                    "display_value": "Data storage",
                     "description": "Ensure accessible and secure data storage solutions with strong security measures.",
                     "id": "CSA-AICM-LR-Preparation-DataStorage"
                 },
                 {
-                    "name": "Resource provisioning",
-                    "display_name": "Resource provisioning",
+                    "value": "Resource provisioning",
+                    "display_value": "Resource provisioning",
                     "description": "Select appropriate compute and cloud resources optimized for LLM development.",
                     "id": "CSA-AICM-LR-Preparation-ResourceProvisioning"
                 },
                 {
-                    "name": "Team and expertise",
-                    "display_name": "Team and expertise",
+                    "value": "Team and expertise",
+                    "display_value": "Team and expertise",
                     "description": "Ensure a skilled team of data scientists, engineers, linguists, and ethicists.",
                     "id": "CSA-AICM-LR-Preparation-TeamExpertise"
                 }
@@ -58,20 +58,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Design",
-                    "display_name": "Design",
+                    "value": "Design",
+                    "display_value": "Design",
                     "description": "Choose model architecture, hyperparameters, and evaluation metrics.",
                     "id": "CSA-AICM-LR-Development-Design"
                 },
                 {
-                    "name": "Training",
-                    "display_name": "Training",
+                    "value": "Training",
+                    "display_value": "Training",
                     "description": "Iteratively train the model using curated data and monitor its performance.",
                     "id": "CSA-AICM-LR-Development-Training"
                 },
                 {
-                    "name": "Guardrails",
-                    "display_name": "Guardrails",
+                    "value": "Guardrails",
+                    "display_value": "Guardrails",
                     "description": "Implement safety mechanisms to prevent harmful content generation.",
                     "id": "CSA-AICM-LR-Development-Guardrails"
                 }
@@ -87,20 +87,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Evaluation",
-                    "display_name": "Evaluation",
+                    "value": "Evaluation",
+                    "display_value": "Evaluation",
                     "description": "Use metrics and benchmarks to assess the model’s performance and fairness.",
                     "id": "CSA-AICM-LR-EvaluationValidation-Evaluation"
                 },
                 {
-                    "name": "Validation/Red Teaming",
-                    "display_name": "Validation/Red Teaming",
+                    "value": "Validation/Red Teaming",
+                    "display_value": "Validation/Red Teaming",
                     "description": "Test the model in real-world scenarios to evaluate its generalization capabilities.",
                     "id": "CSA-AICM-LR-EvaluationValidation-ValidationRedTeaming"
                 },
                 {
-                    "name": "Re-evaluation",
-                    "display_name": "Re-evaluation",
+                    "value": "Re-evaluation",
+                    "display_value": "Re-evaluation",
                     "description": "Monitor the model’s performance post-deployment and retrain if necessary.",
                     "id": "CSA-AICM-LR-EvaluationValidation-Reevaluation"
                 }
@@ -116,20 +116,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Orchestration",
-                    "display_name": "Orchestration",
+                    "value": "Orchestration",
+                    "display_value": "Orchestration",
                     "description": "Package the LLM for deployment and ensure it can scale efficiently.",
                     "id": "CSA-AICM-LR-Deployment-Orchestration"
                 },
                 {
-                    "name": "AI Services supply chain",
-                    "display_name": "AI Services supply chain",
+                    "value": "AI Services supply chain",
+                    "display_value": "AI Services supply chain",
                     "description": "Ensure secure interaction between the LLM and external components.",
                     "id": "CSA-AICM-LR-Deployment-AIServicesSupplyChain"
                 },
                 {
-                    "name": "AI applications",
-                    "display_name": "AI applications",
+                    "value": "AI applications",
+                    "display_value": "AI applications",
                     "description": "Develop APIs and integrate retrieval-augmented generation techniques.",
                     "id": "CSA-AICM-LR-Deployment-AIApplications"
                 }
@@ -145,26 +145,26 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Operations",
-                    "display_name": "Operations",
+                    "value": "Operations",
+                    "display_value": "Operations",
                     "description": "Track the LLM’s performance and handle incidents.",
                     "id": "CSA-AICM-LR-Delivery-Operations"
                 },
                 {
-                    "name": "Maintenance",
-                    "display_name": "Maintenance",
+                    "value": "Maintenance",
+                    "display_value": "Maintenance",
                     "description": "Address bugs, apply security updates, and retrain as needed.",
                     "id": "CSA-AICM-LR-Delivery-Maintenance"
                 },
                 {
-                    "name": "Continuous monitoring",
-                    "display_name": "Continuous monitoring",
+                    "value": "Continuous monitoring",
+                    "display_value": "Continuous monitoring",
                     "description": "Ongoing scrutiny of the LLM’s performance and security.",
                     "id": "CSA-AICM-LR-Delivery-ContinuousMonitoring"
                 },
                 {
-                    "name": "Continuous improvement",
-                    "display_name": "Continuous improvement",
+                    "value": "Continuous improvement",
+                    "display_value": "Continuous improvement",
                     "description": "Regularly evaluate and improve the model’s performance.",
                     "id": "CSA-AICM-LR-Delivery-ContinuousImprovement"
                 }
@@ -180,20 +180,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Archiving",
-                    "display_name": "Archiving",
+                    "value": "Archiving",
+                    "display_value": "Archiving",
                     "description": "Preserve the LLM model and its associated documentation for future use.",
                     "id": "CSA-AICM-LR-ServiceRetirement-Archiving"
                 },
                 {
-                    "name": "Data deletion",
-                    "display_name": "Data deletion",
+                    "value": "Data deletion",
+                    "display_value": "Data deletion",
                     "description": "Ensure secure deletion of sensitive data in compliance with regulations.",
                     "id": "CSA-AICM-LR-ServiceRetirement-DataDeletion"
                 },
                 {
-                    "name": "Model disposal",
-                    "display_name": "Model disposal",
+                    "value": "Model disposal",
+                    "display_value": "Model disposal",
                     "description": "Assess whether the LLM or its components can be reused or securely disposed of.",
                     "id": "CSA-AICM-LR-ServiceRetirement-ModelDisposal"
                 }

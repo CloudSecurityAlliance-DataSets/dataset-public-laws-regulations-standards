@@ -17,62 +17,62 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Owned by the Cloud Service Provider (CSP)",
-                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "value": "Owned by the Cloud Service Provider (CSP)",
+                    "display_value": "Owned by the Cloud Service Provider (CSP)",
                     "id": "CSA-AICM-CO-CSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Model Provider (MP)",
-                    "display_name": "Owned by the Model Provider (MP)",
+                    "value": "Owned by the Model Provider (MP)",
+                    "display_value": "Owned by the Model Provider (MP)",
                     "id": "CSA-AICM-CO-MP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Orchestrated Service Provider (OSP)",
-                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "value": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_value": "Owned by the Orchestrated Service Provider (OSP)",
                     "id": "CSA-AICM-CO-OSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Application Provider (AP)",
-                    "display_name": "Owned by the Application Provider (AP)",
+                    "value": "Owned by the Application Provider (AP)",
+                    "display_value": "Owned by the Application Provider (AP)",
                     "id": "CSA-AICM-CO-AP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Customer (AIC)",
-                    "display_name": "Owned by the Customer (AIC)",
+                    "value": "Owned by the Customer (AIC)",
+                    "display_value": "Owned by the Customer (AIC)",
                     "id": "CSA-AICM-CO-AIC",
                     "description": ""
                 },
                 {
-                    "name": "Shared across the supply chain",
-                    "display_name": "Shared across the supply chain",
+                    "value": "Shared across the supply chain",
+                    "display_value": "Shared across the supply chain",
                     "id": "CSA-AICM-CO-SupplyChain",
                     "description": ""
                 },
                 {
-                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
-                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
                     "id": "CSA-AICM-CO-SharedCSPMP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
-                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
                     "id": "CSA-AICM-CO-SharedMPOSP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
-                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
                     "id": "CSA-AICM-CO-SharedOSPAP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
-                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
                     "id": "CSA-AICM-CO-SharedAPAIC",
                     "description": ""
                 }
@@ -88,62 +88,62 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Owned by the Cloud Service Provider (CSP)",
-                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "value": "Owned by the Cloud Service Provider (CSP)",
+                    "display_value": "Owned by the Cloud Service Provider (CSP)",
                     "id": "CSA-AICM-CO-CSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Model Provider (MP)",
-                    "display_name": "Owned by the Model Provider (MP)",
+                    "value": "Owned by the Model Provider (MP)",
+                    "display_value": "Owned by the Model Provider (MP)",
                     "id": "CSA-AICM-CO-MP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Orchestrated Service Provider (OSP)",
-                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "value": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_value": "Owned by the Orchestrated Service Provider (OSP)",
                     "id": "CSA-AICM-CO-OSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Application Provider (AP)",
-                    "display_name": "Owned by the Application Provider (AP)",
+                    "value": "Owned by the Application Provider (AP)",
+                    "display_value": "Owned by the Application Provider (AP)",
                     "id": "CSA-AICM-CO-AP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Customer (AIC)",
-                    "display_name": "Owned by the Customer (AIC)",
+                    "value": "Owned by the Customer (AIC)",
+                    "display_value": "Owned by the Customer (AIC)",
                     "id": "CSA-AICM-CO-AIC",
                     "description": ""
                 },
                 {
-                    "name": "Shared across the supply chain",
-                    "display_name": "Shared across the supply chain",
+                    "value": "Shared across the supply chain",
+                    "display_value": "Shared across the supply chain",
                     "id": "CSA-AICM-CO-SupplyChain",
                     "description": ""
                 },
                 {
-                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
-                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
                     "id": "CSA-AICM-CO-SharedCSPMP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
-                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
                     "id": "CSA-AICM-CO-SharedMPOSP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
-                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
                     "id": "CSA-AICM-CO-SharedOSPAP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
-                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
                     "id": "CSA-AICM-CO-SharedAPAIC",
                     "description": ""
                 }
@@ -158,62 +158,62 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Owned by the Cloud Service Provider (CSP)",
-                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "value": "Owned by the Cloud Service Provider (CSP)",
+                    "display_value": "Owned by the Cloud Service Provider (CSP)",
                     "id": "CSA-AICM-CO-CSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Model Provider (MP)",
-                    "display_name": "Owned by the Model Provider (MP)",
+                    "value": "Owned by the Model Provider (MP)",
+                    "display_value": "Owned by the Model Provider (MP)",
                     "id": "CSA-AICM-CO-MP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Orchestrated Service Provider (OSP)",
-                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "value": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_value": "Owned by the Orchestrated Service Provider (OSP)",
                     "id": "CSA-AICM-CO-OSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Application Provider (AP)",
-                    "display_name": "Owned by the Application Provider (AP)",
+                    "value": "Owned by the Application Provider (AP)",
+                    "display_value": "Owned by the Application Provider (AP)",
                     "id": "CSA-AICM-CO-AP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Customer (AIC)",
-                    "display_name": "Owned by the Customer (AIC)",
+                    "value": "Owned by the Customer (AIC)",
+                    "display_value": "Owned by the Customer (AIC)",
                     "id": "CSA-AICM-CO-AIC",
                     "description": ""
                 },
                 {
-                    "name": "Shared across the supply chain",
-                    "display_name": "Shared across the supply chain",
+                    "value": "Shared across the supply chain",
+                    "display_value": "Shared across the supply chain",
                     "id": "CSA-AICM-CO-SupplyChain",
                     "description": ""
                 },
                 {
-                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
-                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
                     "id": "CSA-AICM-CO-SharedCSPMP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
-                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
                     "id": "CSA-AICM-CO-SharedMPOSP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
-                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
                     "id": "CSA-AICM-CO-SharedOSPAP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
-                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
                     "id": "CSA-AICM-CO-SharedAPAIC",
                     "description": ""
                 }
@@ -229,62 +229,62 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "Owned by the Cloud Service Provider (CSP)",
-                    "display_name": "Owned by the Cloud Service Provider (CSP)",
+                    "value": "Owned by the Cloud Service Provider (CSP)",
+                    "display_value": "Owned by the Cloud Service Provider (CSP)",
                     "id": "CSA-AICM-CO-CSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Model Provider (MP)",
-                    "display_name": "Owned by the Model Provider (MP)",
+                    "value": "Owned by the Model Provider (MP)",
+                    "display_value": "Owned by the Model Provider (MP)",
                     "id": "CSA-AICM-CO-MP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Orchestrated Service Provider (OSP)",
-                    "display_name": "Owned by the Orchestrated Service Provider (OSP)",
+                    "value": "Owned by the Orchestrated Service Provider (OSP)",
+                    "display_value": "Owned by the Orchestrated Service Provider (OSP)",
                     "id": "CSA-AICM-CO-OSP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Application Provider (AP)",
-                    "display_name": "Owned by the Application Provider (AP)",
+                    "value": "Owned by the Application Provider (AP)",
+                    "display_value": "Owned by the Application Provider (AP)",
                     "id": "CSA-AICM-CO-AP",
                     "description": ""
                 },
                 {
-                    "name": "Owned by the Customer (AIC)",
-                    "display_name": "Owned by the Customer (AIC)",
+                    "value": "Owned by the Customer (AIC)",
+                    "display_value": "Owned by the Customer (AIC)",
                     "id": "CSA-AICM-CO-AIC",
                     "description": ""
                 },
                 {
-                    "name": "Shared across the supply chain",
-                    "display_name": "Shared across the supply chain",
+                    "value": "Shared across the supply chain",
+                    "display_value": "Shared across the supply chain",
                     "id": "CSA-AICM-CO-SupplyChain",
                     "description": ""
                 },
                 {
-                    "name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
-                    "display_name": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
+                    "display_value": "Shared Cloud Service Provider-Model Provider (Shared CSP-MP)",
                     "id": "CSA-AICM-CO-SharedCSPMP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
-                    "display_name": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
+                    "display_value": "Shared Model Provider-Orchestrated Service Provider (Shared MP-OSP)",
                     "id": "CSA-AICM-CO-SharedMPOSP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
-                    "display_name": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
+                    "display_value": "Shared Orchestrated Service Provider-Application Provider (Shared OSP-AP)",
                     "id": "CSA-AICM-CO-SharedOSPAP",
                     "description": ""
                 },
                 {
-                    "name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
-                    "display_name": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
+                    "display_value": "Shared Application Provider-AI Customer (Shared AP-AIC)",
                     "id": "CSA-AICM-CO-SharedAPAIC",
                     "description": ""
                 }

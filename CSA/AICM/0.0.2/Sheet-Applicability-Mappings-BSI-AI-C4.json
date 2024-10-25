@@ -17,8 +17,8 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "NAME OF ITEM",
-                    "display_name": "DISPLAY NAME OF ITEM",
+                    "value": "NAME OF ITEM",
+                    "display_value": "DISPLAY NAME OF ITEM",
                     "id": "ID OF ITEM",
                     "description": "DESCRIPTION OF ITEM"
                 }
@@ -34,20 +34,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "No Gap",
-                    "display_name": "No Gap",
+                    "value": "No Gap",
+                    "display_value": "No Gap",
                     "id": "SA-AICM-SAM-BSI-AI-C4-GL-NG",
                     "description": "There is no gap in coverage ********************"
                 },
                 {
-                    "name": "Partial Gap",
-                    "display_name": "Partial Gap",
+                    "value": "Partial Gap",
+                    "display_value": "Partial Gap",
                     "id": "SA-AICM-SAM-BSI-AI-C4-GL-PG",
                     "description": "There is a partial gap in coverage ********************"
                 },
                 {
-                    "name": "Full Gap",
-                    "display_name": "Full Gap",
+                    "value": "Full Gap",
+                    "display_value": "Full Gap",
                     "id": "SA-AICM-SAM-BSI-AI-C4-GL-FG",
                     "description": "There is a full gap in coverage, there is nothing like this, etc. ********************"
                 }
@@ -63,8 +63,8 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "",
-                    "display_name": "",
+                    "value": "",
+                    "display_value": "",
                     "id": "SA-AICM-SAM-BSI-AI-C4-GL-AD-XXX",
                     "description": ""
                 }

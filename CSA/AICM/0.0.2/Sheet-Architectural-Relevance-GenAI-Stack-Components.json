@@ -17,14 +17,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects physical components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect physical components"
                 }
@@ -40,14 +40,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects network components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect network components"
                 }
@@ -63,14 +63,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects compute components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect compute components"
                 }
@@ -86,14 +86,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects storage components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect storage components"
                 }
@@ -109,14 +109,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects application components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect application components"
                 }
@@ -132,14 +132,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects data components"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control does not affect data components"
                 }

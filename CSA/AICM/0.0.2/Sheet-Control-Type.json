@@ -17,20 +17,20 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "AI-Specific",
-                    "display_name": "AI-Specific",
+                    "value": "AI-Specific",
+                    "display_value": "AI-Specific",
                     "description": "This control is AI security specific and does not apply to cloud security",
                     "id": "CSA-AICM-CT-AISpecific"
                 },
                 {
-                    "name": "Cloud-Specific",
-                    "display_name": "Cloud-Specific",
+                    "value": "Cloud-Specific",
+                    "display_value": "Cloud-Specific",
                     "description": "This control is cloud security specific and does not apply to AI security",
                     "id": "CSA-AICM-CT-CloudSpecific"
                 },
                 {
-                    "name": "Cloud & AI Related",
-                    "display_name": "Cloud & AI Related",
+                    "value": "Cloud & AI Related",
+                    "display_value": "Cloud & AI Related",
                     "description": "This control applies to both the cloud security and AI Security",
                     "id": "CSA-AICM-CT-CloudAIRelated"
                 }

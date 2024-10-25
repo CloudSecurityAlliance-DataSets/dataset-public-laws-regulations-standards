@@ -17,14 +17,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to model manipulation"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to model manipulation"
                 }
@@ -40,14 +40,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to data poisoning"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to data poisoning"
                 }
@@ -63,14 +63,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to sensitive data disclosure"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to sensitive data disclosure"
                 }
@@ -86,14 +86,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to model theft"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to model theft"
                 }
@@ -109,14 +109,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to model/Service Failure/Malfunctioning"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to model/Service Failure/Malfunctioning"
                 }
@@ -132,14 +132,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to insecure supply chain"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to insecure supply chain"
                 }
@@ -155,14 +155,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to insecure apps/plugins"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to insecure apps/plugins"
                 }
@@ -178,14 +178,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to Denial of Service (DoS)"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to Denial of Service (DoS)"
                 }
@@ -201,14 +201,14 @@
             "selected_options": [],
             "selection_options": [
                 {
-                    "name": "true",
-                    "display_name": "true",
+                    "value": "true",
+                    "display_value": "true",
                     "id": "true",
                     "description": "true - this control affects threats related to loss of governance/compliance"
                 },
                 {
-                    "name": "false",
-                    "display_name": "false",
+                    "value": "false",
+                    "display_value": "false",
                     "id": "false",
                     "description": "false - this control affects threats related to loss of governance/compliance"
                 }
