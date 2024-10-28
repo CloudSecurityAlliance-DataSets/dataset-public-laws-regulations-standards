@@ -1,9 +1,8 @@
-﻿AICM Controls,,,,,,Control Ownership by Service Delivery Model,,,AICM Implementation Guidelines,,AICM Auditing  Guidelines
-Control Domain,Control Title,Control ID,Control Specification,Matches,Control ID,IaaS,PaaS,SaaS,CSP,CSC,Auditing Guidelines
+﻿AICM Controls - Control Domain,AICM Controls - Control Title,AICM Controls - Control ID,AICM Controls - Control Specification,Control Ownership by Service Delivery Model - PaaS,Control Ownership by Service Delivery Model - SaaS,AICM Implementation Guidelines - Cloud Service Provider,AICM Implementation Guidelines - Cloud Service Consumer,Auditing Guidelines
 Audit & Assurance,Audit and Assurance Policy and Procedures,A&A-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 audit and assurance policies and procedures and standards. Review and update
 the policies and procedures at least annually.
-",TRUE,A&A-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The Cloud Service Provider (CSP) and Cloud Service Customer (CSC) are both responsible for the implementation of this control, however each party needs to independently develop policies and procedures in order to meet their own business needs, audit, assurance, and compliance requirements. 
 The CSP’s assertion for conducting an audit of its cloud stack does not extend to the CSC’s use of the cloud and its compliance requirements to standards and regulatory scope. The CSP’s attestation should also consider subservice organizations that it relies upon to provide key services, e.g., infrastructure hosting.
 
@@ -47,7 +46,7 @@ The policies provided for the CSP apply.
 "
 Audit & Assurance,Independent Assessments,A&A-02,"Conduct independent audit and assurance assessments according to
 relevant standards at least annually.
-",TRUE,A&A-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
 The CSP and the CSC are both responsible for the implementation of this control, however each party needs to implement it independently in accordance with their own regulatory and contractual obligations. The CSP’s independent audit and assurance assessments may be utilized to gauge the security posture of its own cloud services’ infrastructure.
 
 Implementation Guidelines.
@@ -82,7 +81,7 @@ The CSC’s choice of the cloud service model (e.g., IaaS) and contractual agree
 "
 Audit & Assurance,Risk Based Planning Assessment,A&A-03,"Perform independent audit and assurance assessments according to
 risk-based plans and policies.
-",TRUE,A&A-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
 The CSP and the CSC are both responsible for the implementation of this control, however each party needs to implement it independently in accordance with their own risk-based plans and policies, regulatory and contractual obligations. The CSP’s independent audit and assurance assessments may be utilized to gauge the security posture of its own cloud services’ infrastructure. However, the CSC should also perform independent assessments of the CSP to demonstrate compliance with its own (CSC’s) requirements. Both CSP and CSC are responsible for reviewing the impact of changing risks on audit and assurance assessments.
 
 Implementation Guidelines.
@@ -118,7 +117,7 @@ Regularly update and reassess audit and assurance activities within scope and cr
 "
 Audit & Assurance,Requirements Compliance,A&A-04,"Verify compliance with all relevant standards, regulations, legal/contractual,
 and statutory requirements applicable to the audit.
-",TRUE,A&A-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
 The CSP and the CSC are both responsible for the implementation of this control, however each party needs to implement it independently in accordance with their own cloud security, regulatory and contractual requirements. 
 
 Implementation Guidelines.
@@ -152,7 +151,7 @@ The implementation guidelines provided for the CSP apply.
 Audit & Assurance,Audit Management Process,A&A-05,"Define and implement an Audit Management process to support audit
 planning, risk analysis, security control assessment, conclusion, remediation
 schedules, report generation, and review of past reports and supporting evidence.
-",TRUE,A&A-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
 The CSP and the CSC are both responsible for the implementation of an audit management process, however each party needs to implement it independently in accordance with their own unique legislative, regulatory and contractual obligations.
 
 Implementation Guidelines.
@@ -186,7 +185,7 @@ The implementation guidelines provided for the CSP apply.
 Audit & Assurance,Remediation,A&A-06,"Establish, document, approve, communicate, apply, evaluate and maintain
 a risk-based corrective action plan to remediate audit findings, review and
 report remediation status to relevant stakeholders.
-",TRUE,A&A-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale. 
 The CSP and the CSC are both responsible for the implementation of a risk-based corrective action plan to remediate audit findings, however each party needs to implement it independently in accordance with their own unique legislative, regulatory and contractual obligations.
 
 Implementation Guidelines.
@@ -225,7 +224,7 @@ policies and procedures for application security to provide guidance to the
 appropriate planning, delivery and support of the organization's application
 security capabilities. Review and update the policies and procedures at least
 annually.
-",TRUE,AIS-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC should independently establish their own policies and procedures for guiding the development and implementation of application security capabilities based on the cloud service model in effect within the organizations.
 
 Implementation Guidelines.
@@ -268,7 +267,7 @@ The policies provided for the CSP apply.
 "
 Application & Interface Security,Application Security Baseline Requirements,AIS-02,"Establish, document and maintain baseline requirements for securing
 different applications.
-",TRUE,AIS-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC are independently responsible for establishing, documenting, and maintaining baseline requirements to secure the various cloud applications that are either produced or consumed.
 
 Implementation Guidelines.
@@ -305,7 +304,7 @@ Additionally, the IaaS and PaaS CSC should create the baseline requirements for 
 "
 Application & Interface Security,Application Security Metrics,AIS-03,"Define and implement technical and operational metrics in alignment
 with business objectives, security requirements, and compliance obligations.
-",TRUE,AIS-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation is a shared and independent responsibility for the CSP and the CSC since both need to define and implement metrics for the cloud applications they manage and according to their own unique business objectives, security requirements, and compliance obligations.
 
 Implementation Guidelines.
@@ -407,7 +406,7 @@ The implementation guidelines provided for the CSP apply.
 Application & Interface Security,Secure Application Design and Development,AIS-04,"Define and implement a SDLC process for application design, development,
 deployment, and operation in accordance with security requirements defined by
 the organization.
-",TRUE,AIS-04,Shared (Independent),Shared (Independent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Independent),CSP-Owned,"Control Ownership Rationale.
 This control’s implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC are responsible for independently defining and implementing a Secure Software Development Lifecycle (SSDLC) process for secure application design, development, deployment, and operation in accordance with system security requirements defined by each cloud party.
 For deployments within the SaaS model, this control resides with the CSP, since SaaS CSPs typically offer ready-to-use applications and services, while the SaaS CSC consumes the service and is not responsible for implementing a SSDLC for application development.
 
@@ -453,7 +452,7 @@ Application & Interface Security,Automated Application Security Testing,AIS-05,"
 new information systems, upgrades and new versions, which provides application
 security assurance and maintains compliance while enabling organizational speed
 of delivery goals. Automate when applicable and possible.
-",TRUE,AIS-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. Both parties and each independently are responsible for implementing a robust testing strategy which includes acceptance criteria of new information systems, upgrades and new versions.
 
 Implementation Guidelines.
@@ -499,7 +498,7 @@ Automation of security testing should be implemented to reduce risks and errors 
 "
 Application & Interface Security,Automated Secure Application Deployment,AIS-06,"Establish and implement strategies and capabilities for secure, standardized,
 and compliant application deployment. Automate where possible.
-",TRUE,AIS-06,Shared (Independent),Shared (Independent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Independent),CSP-Owned,"Control Ownership Rationale.
 The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. The CSP should independently establish and implement strategies for secure application deployment. 
 
 Implementation Guidelines.
@@ -542,7 +541,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Application & Interface Security,Application Vulnerability Remediation,AIS-07,"Define and implement a process to remediate application security
 vulnerabilities, automating remediation when possible.
-",TRUE,AIS-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. The CSP is responsible for defining and implementing a process to remediate application security vulnerabilities and automating remediation when possible.
 
 Implementation Guidelines.
@@ -600,13 +599,13 @@ iii. Monitor network traffic and application usage to detect any unauthorized or
 2. Evaluate whether roles and responsibilities, including escalation paths for application security incident response and remediation, are defined and effective.
 3. Determine if the organization leverages automation when possible and if this automation increases remediation efficiency.
 "
-Application & Interface Security,Input Validation,AIS-08,"Validate input data for accuracy, completeness, and consistency before using it for training models. Identify and remove outliers that deviate significantly from expected patterns. Pay special attention to user input if allowed for training to prevent manipulation. Validate user input against patterns for prompt injection and jailbreaking wherever possible.",FALSE,,,,,,,
-Application & Interface Security,Output Validation,AIS-09,"Validate and sanitize output against patterns of adversarial attacks, in accordance with established guardrails and known insecure output patterns such as those covered in OWASP LLM Top 10. Validate output format and accuracy. If allowing intervention in the output, establish a role for this access. Only allow changes by authorized subjects with this role.",FALSE,,,,,,,
-Application & Interface Security,API Security Technical Measures Control,AIS-10,"Implement and apply technical security measures and procedures to help protect APIs, including authorization flaws, API key management, regular security testing of APIs, and other unique risks to the API's supporting business software. Review and update these technical measures for any improvements at least annually.",FALSE,,,,,,,
+Application & Interface Security,Input Validation,AIS-08,"Validate input data for accuracy, completeness, and consistency before using it for training models. Identify and remove outliers that deviate significantly from expected patterns. Pay special attention to user input if allowed for training to prevent manipulation. Validate user input against patterns for prompt injection and jailbreaking wherever possible.",,,,,
+Application & Interface Security,Output Validation,AIS-09,"Validate and sanitize output against patterns of adversarial attacks, in accordance with established guardrails and known insecure output patterns such as those covered in OWASP LLM Top 10. Validate output format and accuracy. If allowing intervention in the output, establish a role for this access. Only allow changes by authorized subjects with this role.",,,,,
+Application & Interface Security,API Security Technical Measures Control,AIS-10,"Implement and apply technical security measures and procedures to help protect APIs, including authorization flaws, API key management, regular security testing of APIs, and other unique risks to the API's supporting business software. Review and update these technical measures for any improvements at least annually.",,,,,
 Business Continuity Management and Operational Resilience,Business Continuity Management Policy and Procedures,BCR-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 business continuity management and operational resilience policies and procedures.
 Review and update the policies and procedures at least annually.
-",TRUE,BCR-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both the CSC and the CSP, however it is expected that the control is implemented independently by each party. Each party is expected to have different business continuity management and operational resilience requirements that they should achieve respectively to their geographical location, contractual, and regulatory ecosystem. 
 
 Implementation Guidelines.
@@ -681,7 +680,7 @@ The policies provided for the CSP apply.
 Business Continuity Management and Operational Resilience,Risk Assessment and Impact Analysis,BCR-02,"Determine the impact of business disruptions and risks to establish
 criteria for developing business continuity and operational resilience strategies
 and capabilities.
-",TRUE,BCR-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP and CSC are both responsible for the implementation of this control, however each party needs to independently assess the impact of disruptions in their infrastructure and services. More specifically, each party should conduct their own Business Impact Analysis (BIA), define parameters such as Recovery Time Objective (RTO) and Recovery Point Objective (RPO), and perform an independent risk assessment.
 
 Implementation Guidelines.
@@ -726,7 +725,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Business Continuity Management and Operational Resilience,Business Continuity Strategy,BCR-03,"Establish strategies to reduce the impact of, withstand, and recover
 from business disruptions within risk appetite.
-",TRUE,BCR-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP should identify and select business continuity strategies based on the outputs from the BIA and risk assessment. The business continuity strategies should consist of one or more solutions.
 
 The CSP is responsible for providing resilient cloud infrastructure and services to the CSC according to its service agreement (including SLOs), and the CSC may depend on certain services and resilience capabilities offered by the CSP for parts of the CSC’s strategy, including information provided by the CSP. The CSP, however, is not responsible for developing, planning, documenting, adopting, or otherwise establishing the CSC’s BC strategies.
@@ -789,7 +788,7 @@ Business continuity and operational resilience strategies should include (but no
 Business Continuity Management and Operational Resilience,Business Continuity Planning,BCR-04,"Establish, document, approve, communicate, apply, evaluate and maintain
 a business continuity plan based on the results of the operational resilience
 strategies and capabilities.
-",TRUE,BCR-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is Shared for all cloud service models and both CSP and CSC. The CSP and CSC should both independently develop and implement their own business continuity plans in order to meet their own business needs, contractual and regulatory requirements.
 
 Implementation Guidelines.
@@ -865,7 +864,7 @@ The implementation guidelines provided for the CSP apply.
 Business Continuity Management and Operational Resilience,Documentation,BCR-05,"Develop, identify, and acquire documentation that is relevant to
 support the business continuity and operational resilience programs. Make the
 documentation available to authorized stakeholders and review periodically.
-",TRUE,BCR-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s ownership and implementation responsibility is “Shared (Independent)” for the CSP and the CSC. The CSP is responsible for providing resilient cloud infrastructure and services to the CSC according to its service agreement, and the CSC may depend on the services and resilience capabilities offered by the CSP;  for documentation, the CSP is responsible only for developing, identifying, and acquiring documentation related to the business continuity and resilience of its own systems and services, not those of the CSC.
 The CSP should share relevant documentation and information with the CSC.
 
@@ -918,7 +917,7 @@ Additional guidelines for developing documentation in support of business contin
 "
 Business Continuity Management and Operational Resilience,Business Continuity Exercises,BCR-06,"Exercise and test business continuity and operational resilience
 plans at least annually or upon significant changes.
-",TRUE,BCR-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is Shared (Independent) between the CSP and CSC. The CSP's ownership of this control relates to exercise and testing BCPs for CSP-controlled resources offered to CSCs.
 
 A full scale exercise or testing is recommended if both parties are involved in any end-to-end Business continuity and operational resilience plans testing. If not then CSP should provide test evidence to their CSC.
@@ -970,7 +969,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Business Continuity Management and Operational Resilience,Communication,BCR-07,"Establish communication with stakeholders and participants in the
 course of business continuity and resilience procedures.
-",TRUE,BCR-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is shared between the CSP and the CSC, in an independent manner. It is fully and independently the responsibility of the CSP to establish communication with its own stakeholders and participants in the course of its business continuity and resilience procedures and in all elements of the CSP’s own BC plan and program. The CSP’s ownership of this control relates to developing and establishing communication plans for the CSP’s organizational units and those for its other stakeholders, including its customer stakeholders, the CSCs.  The CSP does not have responsibility to communicate directly to the CSC’s stakeholders and participants.
 
 Implementation Guidelines.
@@ -1019,7 +1018,7 @@ The implementation guidelines provided for the CSP apply.
 Business Continuity Management and Operational Resilience,Backup,BCR-08,"Periodically backup data stored in the cloud. Ensure the confidentiality,
 integrity and availability of the backup, and verify data restoration from backup
 for resiliency.
-",TRUE,BCR-08,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control’s implementation is a shared responsibility between the CSP and the CSC, and it pertains to a “Dependent” relationship since the CSP is responsible for providing the backup capabilities to the CSC for the latter to properly configure them according to its own security policy and business requirements. More specifically, the CSP offers backup and restore services, and is responsible for the infrastructure that supports these services. The CSC, on the other hand, is responsible for correctly leveraging these services to secure their data (e.g., select data to backup, enable encryption and verify data restoration functionality).
 
 Implementation Guidelines.
@@ -1063,7 +1062,7 @@ The implementation guidelines provided for the CSP apply.
 Business Continuity Management and Operational Resilience,Disaster Response Plan,BCR-09,"Establish, document, approve, communicate, apply, evaluate and maintain
 a disaster response plan to recover from natural and man-made disasters. Update
 the plan at least annually or upon significant changes.
-",TRUE,BCR-09,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The responsibility of this control is “Shared (Dependent)” between the CSP and the CSC, because the CSP should develop and implement Disaster Recovery Plans (DRP) for themselves, and plans relevant to their customers as well.
 
 The CSP's ownership of this control relates to the DRP for developing and managing disaster recovery to CSP-controlled resources. 
@@ -1129,7 +1128,7 @@ The following guidelines apply towards the establishment, documentation, approva
 "
 Business Continuity Management and Operational Resilience,Response Plan Exercise,BCR-10,"Exercise the disaster response plan annually or upon significant
 changes, including if possible local emergency authorities.
-",TRUE,BCR-10,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The ownership is “Shared (Dependent)” because, although aspects of many activities, such as creating plans, can be done independently, disaster recovery and its associated testing implicates the restoration of CSP services and the testing of such recovery and therefore the exercise of the response plan can and often does require the CSC’s dependence on the CSP, especially when testing certain CSP-provided resilience capabilities (e.g., intra-region or inter-region failovers, etc.).
 The CSP is responsible for their own tests of DR on their infrastructure and services.
 Exercises and tests help management validate continuity and resilience of technology components, including systems, networks, applications, and data, that support critical business functions. The type or combination of methods should be determined by the entity’s size, complexity, and nature of its business. Comprehensive testing of all critical functions and applications allows the CSP to identify potential problems; therefore, the CSP should use one of the more thorough testing methods discussed in this section to verify the BCP’s viability. Exercises may include performing duties in a simulated environment (i.e., functional), be discussion-based (i.e., tabletop), or be full-scale or limited-scale.
@@ -1175,7 +1174,7 @@ g. Assessing other CSP-CSC SLA-defined parameters through testing
 Business Continuity Management and Operational Resilience,Equipment Redundancy,BCR-11,"Supplement business-critical equipment with redundant equipment independently
 located at a reasonable minimum distance in accordance with applicable industry
 standards.
-",TRUE,BCR-11,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The implementation responsibility for this control is exclusively owned by the CSP, because the CSP is the owner of the business-critical equipment, and responsible for supplementing it with redundancy measures and placing it at an appropriate location of acceptable risk. The CSP is responsible for providing the CSC with redundant equipment and information about the control implementation. 
 
 Implementation Guidelines.
@@ -1221,7 +1220,7 @@ policies and procedures for managing the risks associated with applying changes
 to organization assets, including application, systems, infrastructure, configuration,
 etc., regardless of whether the assets are managed internally or externally
 (i.e., outsourced). Review and update the policies and procedures at least annually.
-",TRUE,CCC-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, each should implement this control independently from one another. The change management policy and procedures should be managed and baselined independently by each party, the CSP and CSC within their respective corporate business needs, requirements and in alignment with industry standards.
 
 Implementation Guidelines.
@@ -1274,7 +1273,7 @@ The policies provided for the CSP apply.
 "
 Change Control and Configuration Management,Quality Testing,CCC-02,"Follow a defined quality change control, approval and testing process
 with established baselines, testing, and release standards.
-",TRUE,CCC-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another. All quality change control processes and applied changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1306,7 +1305,7 @@ Change Control and Configuration Management,Change Management Technology,CCC-03,
 assets, including application, systems, infrastructure, configuration, etc.,
 regardless of whether the assets are managed internally or externally (i.e.,
 outsourced).
-",TRUE,CCC-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another.  All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1345,7 +1344,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Change Control and Configuration Management,Unauthorized Change Protection,CCC-04,"Restrict the unauthorized addition, removal, update, and management
 of organization assets.
-",TRUE,CCC-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another.  All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1375,7 +1374,7 @@ The implementation guidelines provided for the CSP apply.
 Change Control and Configuration Management,Change Agreements,CCC-05,"Include provisions limiting changes directly impacting CSCs owned
 environments/tenants to explicitly authorized requests within service level
 agreements between CSPs and CSCs.
-",TRUE,CCC-05,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another.  All configuration changes to systems utilized should be managed appropriately within the agreement between the CSP and CSC. For the CSP to implement this control and include its provisions in SLAs (i.e., limiting changes impacting the CSCs’ systems), there is a role for the CSC to play, namely to discuss, refine, and approve such provisions.
 
 Implementation Guidelines.
@@ -1449,7 +1448,7 @@ Best practices for the implementation of this control as provided for the CSP ap
 "
 Change Control and Configuration Management,Change Management Baseline,CCC-06,"Establish change management baselines for all relevant authorized
 changes on organization assets.
-",TRUE,CCC-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another. All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1483,7 +1482,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Change Control and Configuration Management,Detection of Baseline Deviation,CCC-07,"Implement detection measures with proactive notification in case
 of changes deviating from the established baseline.
-",TRUE,CCC-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another. All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1512,7 +1511,7 @@ In addition, the CSC is expected to baseline assets connecting to the contracted
 Change Control and Configuration Management,Exception Management,CCC-08,"'Implement a procedure for the management of exceptions, including
 emergencies, in the change and configuration process. Align the procedure with
 the requirements of GRC-04: Policy Exception Process.'
-",TRUE,CCC-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another. All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1540,7 +1539,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Change Control and Configuration Management,Change Restoration,CCC-09,"Define and implement a process to proactively roll back changes to
 a previous known good state in case of errors or security concerns.
-",TRUE,CCC-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control's implementation responsibility is shared for both CSP and CSC, however, both should implement this control independently from one another.  All configuration changes to systems should be independently baselined, tested, and approved according to their corporate policies and in line with industry standards.
 
 Implementation Guidelines.
@@ -1578,7 +1577,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Encryption and Key Management Policy and Procedures,CEK-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for Cryptography, Encryption and Key Management. Review
 and update the policies and procedures at least annually.
-",TRUE,CEK-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” responsibility between the CSP and the CSC as the creation of a Cryptography, Encryption and Key Management policy by each party is essential for effective security. The CSP should offer cryptography services, and in such a case it is responsible for the infrastructure that supports these services. The CSC, on the other hand, is responsible for correctly using these services to secure their data, for instance, choosing when and what data to encrypt, and managing access to encryption keys.
 
 Implementation Guidelines.
@@ -1628,7 +1627,7 @@ The policies provided for the CSP apply.
 "
 "Cryptography, Encryption & Key Management",CEK Roles and Responsibilities,CEK-02,"Define and implement cryptographic, encryption and key management
 roles and responsibilities.
-",TRUE,CEK-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” responsibility between the CSP and CSC, because the CSP is responsible for defining and implementing roles and responsibilities for cryptographic operations and key management inside their organization. In order to correspond with the CSC's individual security demands, the CSP is expected to provide configurable options related to these duties. However, the CSP has no control over how the CSC manages the options presented, making the role 'independent'. Depending on the tools and features provided, the CSP might influence the CSC's roles and responsibilities, in particular with service models such as SaaS.
 
 Implementation Guidelines.
@@ -1685,7 +1684,7 @@ b. conduct regular audits and reviews to ensure compliance and check the effecti
 "
 "Cryptography, Encryption & Key Management",Data Encryption,CEK-03,"Provide cryptographic protection to data at-rest and in-transit,
 using cryptographic libraries certified to approved standards.
-",TRUE,CEK-03,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 In the context of the service delivery models, IaaS, PaaS, and SaaS, the CSP has the primary responsibility of managing and providing cryptographic protection for data at rest and in transit, using certified cryptographic libraries, but the control's implementation is also dependent on the CSC, making it a shared but dependent responsibility. 
 
 Implementation Guidelines.
@@ -1736,7 +1735,7 @@ c. if the CSP allows for CSC-managed keys, ensure to implement secure key manage
 "Cryptography, Encryption & Key Management",Encryption Algorithm,CEK-04,"Use encryption algorithms that are appropriate for data protection,
 considering the classification of data, associated risks, and usability of the
 encryption technology.
-",TRUE,CEK-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The control ownership for the encryption algorithm is “Shared (Independent”). The CSP is primarily responsible for determining and implementing the appropriate encryption algorithms in their infrastructure to ensure robust data protection. The CSP has the expertise and access to infrastructure to carry out this task, but it is the CSC’s responsibility to opt for the CSP’s encryption service and implement it as per business requirement, best practices and acceptable industry standard. 
 
 Implementation Guidelines.
@@ -1768,7 +1767,7 @@ e. Make use of any support offered by the CSP in understanding and using the enc
 changes from internal and external sources, for review, approval, implementation
 and communication of cryptographic, encryption and key management technology
 changes.
-",TRUE,CEK-05,Shared (Independent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 In an IaaS model, the CSP facilitates the platform for encryption and key management. The CSP oversees and independently manages changes to the cloud infrastructure, including the underlying hardware and network infrastructure. This independent handling of change management results in “Shared (Independent)” control ownership.
 
 In the PaaS model, the CSP provides the platform where the cryptographic processes occur and where cryptographic material is exposed. While it handles changes related to the platform, the change management process involves an interaction with the CSC’s application layer, creating a level of dependency. As a result, the control ownership falls under the “Shared Dependent”) category.
@@ -1813,7 +1812,7 @@ c. have a procedure in place to review and implement changes to settings as nece
 "Cryptography, Encryption & Key Management",Encryption Change Cost Benefit Analysis,CEK-06,"Manage and adopt changes to cryptography-, encryption-, and key management-related
 systems (including policies and procedures) that fully account for downstream
 effects of proposed changes, including residual risk, cost, and benefits analysis.
-",TRUE,CEK-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both the CSP and CSC have an independent shared responsibility for this control, because both are responsible for managing and adopting changes to cryptography and key management-related systems. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -1840,7 +1839,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Encryption Risk Management,CEK-07,"Establish and maintain an encryption and key management risk program
 that includes provisions for risk assessment, risk treatment, risk context,
 monitoring, and feedback.
-",TRUE,CEK-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility  for this control, in which the encryption and key management are maintained through the enterprise risk program. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -1868,7 +1867,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Cryptography, Encryption & Key Management",CSC Key Management Capability,CEK-08,"CSPs must provide the capability for CSCs to manage their own data
 encryption keys.
-",TRUE,CEK-08,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 Both CSP and CSC have a dependent shared responsibility  for this control, in which the CSP provides the capability for the CSC to manage their own data encryption keys. 
 
 Implementation Guidelines.
@@ -1905,7 +1904,7 @@ f. optionally, the CSC should supply CSC-generated master encryption keys using 
 with a frequency that is proportional to the risk exposure of the system with
 audit occurring preferably continuously but at least annually and after any
 security event(s).
-",TRUE,CEK-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both the CSP and CSC have an independent shared responsibility for this control, because CSP and CSC should ensure that they perform audits of encryption and key management systems, policies, and processes.
 
 Implementation Guidelines.
@@ -1931,7 +1930,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Key Generation,CEK-10,"Generate Cryptographic keys using industry accepted cryptographic
 libraries specifying the algorithm strength and the random number generator
 used.
-",TRUE,CEK-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both the CSP and CSC have an independent shared responsibility  for this control, because both the CSP and CSC should generate cryptographic keys using industry accepted cryptographic libraries.
 
 Implementation Guidelines.
@@ -1953,7 +1952,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Cryptography, Encryption & Key Management",Key Purpose,CEK-11,"Manage cryptographic secret and private keys that are provisioned
 for a unique purpose.
-",TRUE,CEK-11,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility  for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -1987,7 +1986,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Key Rotation,CEK-12,"Rotate cryptographic keys in accordance with the calculated cryptoperiod,
 which includes provisions for considering the risk of information disclosure
 and legal and regulatory requirements.
-",TRUE,CEK-12,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2021,7 +2020,7 @@ The implementation guidelines provided for the CSP apply.
 measures to revoke and remove cryptographic keys prior to the end of its established
 cryptoperiod, when a key is compromised, or an entity is no longer part of the
 organization, which include provisions for legal and regulatory requirements.
-",TRUE,CEK-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client.  The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2048,7 +2047,7 @@ The implementation guidelines provided for the CSP apply.
 measures to destroy keys stored outside a secure environment and revoke keys
 stored in Hardware Security Modules (HSMs) when they are no longer needed, which
 include provisions for legal and regulatory requirements.
-",TRUE,CEK-14,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both the CSP and CSC have an independent shared responsibility  for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2085,7 +2084,7 @@ h. all relevant transitions/activity should be recorded (logged) in the CMKS or 
 measures to create keys in a pre-activated state when they have been generated
 but not authorized for use, which include provisions for legal and regulatory
 requirements.
-",TRUE,CEK-15,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2112,7 +2111,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Key Suspension,CEK-16,"Define, implement and evaluate processes, procedures and technical
 measures to monitor, review and approve key transitions from any state to/from
 suspension, which include provisions for legal and regulatory requirements.
-",TRUE,CEK-16,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2135,7 +2134,7 @@ The implementation guidelines provided for the CSP apply.
 "Cryptography, Encryption & Key Management",Key Deactivation,CEK-17,"Define, implement and evaluate processes, procedures and technical
 measures to deactivate keys at the time of their expiration date, which include
 provisions for legal and regulatory requirements.
-",TRUE,CEK-17,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2159,7 +2158,7 @@ Applicable to all service models: For Client Managed Keys
 "Cryptography, Encryption & Key Management",Key Archival,CEK-18,"Define, implement and evaluate processes, procedures and technical
 measures to manage archived keys in a secure repository requiring least privilege
 access, which include provisions for legal and regulatory requirements.
-",TRUE,CEK-18,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC have an independent shared responsibility for this control, depending on the scope of the resource and key ownership model available or selected by the client. The CSP owns this control for Platform Managed Keys.
 
 Implementation Guidelines.
@@ -2185,7 +2184,7 @@ Applicable to all service models: For Client Managed Keys
 measures to use compromised keys to encrypt information only in controlled circumstance,
 and thereafter exclusively for decrypting data and never for encrypting data,
 which include provisions for legal and regulatory requirements.
-",TRUE,CEK-19,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a shared responsibility between the CSP and the CSC. This control falls under the “Dependent” category as the execution by both parties is essential for effective security. The CSP offers encryption and key management services, and is responsible for the infrastructure that supports these services. The CSC, on the other hand, is responsible for correctly using these services to secure their data, for instance, choosing when and what data to encrypt, and managing access to encryption keys.
 
 Implementation Guidelines.
@@ -2249,7 +2248,7 @@ measures to assess the risk to operational continuity versus the risk of the
 keying material and the information it protects being exposed if control of
 the keying material is lost, which include provisions for legal and regulatory
 requirements.
-",TRUE,CEK-20,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a shared responsibility between the CSP and the CSC. This control falls under the “Dependent” category as the execution by both parties is essential for effective security. The CSP offers encryption and key management services, and is responsible for the infrastructure that supports these services. The CSC, on the other hand, is responsible for correctly using these services to secure their data, for instance, choosing when and what data to encrypt, and for managing access to encryption keys.
 
 Implementation Guidelines.
@@ -2295,7 +2294,7 @@ The implementation guidelines provided for the CSP apply.
 measures in order for the key management system to track and report all cryptographic
 materials and changes in status, which include provisions for legal and regulatory
 requirements.
-",TRUE,CEK-21,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a shared responsibility between the CSP and the CSC. This control falls under the “Dependent” category as the execution by both parties is essential for effective security. The CSP offers encryption and key management services, and is responsible for the infrastructure that supports these services. The CSC, on the other hand, is responsible for correctly using these services to secure their data, for instance, choosing when and what data to encrypt, and managing access to encryption keys.
 
 Implementation Guidelines.
@@ -2348,7 +2347,7 @@ policies and procedures for the secure disposal of equipment used outside the
 organization's premises. If the equipment is not physically destroyed a data
 destruction procedure that renders recovery of information impossible must be
 applied. Review and update the policies and procedures at least annually.
-",TRUE,DCS-01,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the control of ensuring that client data is effectively removed from the provider environment when clients delete, leave, or egress from a cloud platform, due to their direct access to the infrastructure and data, contractual obligations, expertise, and resources.
 
 Implementation Guidelines.
@@ -2384,7 +2383,7 @@ policies and procedures for the relocation or transfer of hardware, software,
 or data/information to an offsite or alternate location. The relocation or transfer
 request requires the written or cryptographically verifiable authorization.
 Review and update the policies and procedures at least annually.
-",TRUE,DCS-02,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns this control as it operates the datacenters and infrastructure that host customer cloud services and data. This control is critical for ensuring the secure relocation or transfer of hardware, software, or data/information to a different datacenter, which may be necessary for a variety of reasons such as disaster recovery, business continuity, or expansion.
 
 The CSP is responsible for ensuring effective business continuity and disaster recovery plans are in place to restore services in a timely manner in the event of an outage. This includes pre-approving and preparing alternate storage sites that can take over in an emergency and restoring customer environments and data.
@@ -2427,7 +2426,7 @@ Datacenter Security,Secure Area Policy and Procedures,DCS-03,"Establish, documen
 policies and procedures for maintaining a safe and secure working environment
 in offices, rooms, and facilities. Review and update the policies and procedures
 at least annually.
-",TRUE,DCS-03,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the control as it is responsible for providing and maintaining the physical infrastructure for the cloud services it offers. This includes the datacenters, offices, rooms, and facilities where the hardware, software, and data are stored and processed. 
 
 Implementation Guidelines.
@@ -2466,7 +2465,7 @@ Not applicable for the CSC.
 Datacenter Security,Secure Media Transportation Policy and Procedures,DCS-04,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for the secure transportation of physical media. Review
 and update the policies and procedures at least annually.
-",TRUE,DCS-04,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 This control implementation is owned exclusively by the CSP because it is responsible for ensuring the security and integrity of data throughout its lifecycle, including during the transportation of physical media. Establishing and maintaining policies and procedures for securely transporting physical media enables CSPs to maintain a secure environment and protect sensitive information.
 
 Implementation Guidelines.
@@ -2505,7 +2504,7 @@ Not applicable for the CSC.
 "
 Datacenter Security,Assets Classification,DCS-05,"Classify and document the physical, and logical assets (e.g., applications)
 based on the organizational business risk.
-",TRUE,DCS-05,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between the CSP and CSC, and it is a dependent responsibility, since in order for the CSP to properly classify the physical and logical assets of the cloud infrastructure it manages, the CSC needs to communicate to the CSP the sensitivity levels of the data that has deployed in the cloud. Physical and logical assets then should inherit the sensitivity level of the data they handle, hence allowing for the CSP to classify them.
 
 The CSP is responsible for:
@@ -2544,7 +2543,7 @@ d. Change Management and Communication: Open communication channels should be ma
 "
 Datacenter Security,Assets Cataloguing and Tracking,DCS-06,"Catalogue and track all relevant physical and logical assets located
 at all of the CSP's sites within a secured system.
-",TRUE,DCS-06,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 Both CSP and CSC have a shared responsibility to catalog and track their owned cloud assets. The responsibility of this control implementation is ""Shared Dependent"" since the CSP should enable the CSC to access the catalog of CSP assets that are used to compute and store CSC data. The CSC should be empowered to retrieve the list of assets. It should be within the support of the CSP to assign descriptive metadata (tags) to assets for efficient and timely tracking, cost analysis, access control decisions, and alerting (by automation where applicable).
 
 Implementation Guidelines.
@@ -2606,7 +2605,7 @@ Datacenter Security,Controlled Access Points,DCS-07,"Implement physical security
 and information systems. Establish physical security perimeters between the
 administrative and business areas and the data storage and processing facilities
 areas.
-",TRUE,DCS-07,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP fully owns the responsibility for implementing physical perimeter security controls to safeguard personnel, data, and systems at the datacenter, administrative, and business areas associated with the cloud services offered to the CSC. 
 
 Implementation Guidelines.
@@ -2640,7 +2639,7 @@ Not applicable for the CSC.
 3. Determine if there are appropriate physical security barriers and if monitoring exists between areas.
 "
 Datacenter Security,Equipment Identification,DCS-08,"Use equipment identification as a method for connection authentication.
-",TRUE,DCS-08,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The implementation responsibility for this control is exclusively owned by the CSP, and using location-aware technologies, where applicable, to validate connection authentication integrity based on known equipment locations.
 
 Implementation Guidelines.
@@ -2682,7 +2681,7 @@ Datacenter Security,Secure Area Authorization,DCS-09,"Allow only authorized pers
 ingress and egress points restricted, documented, and monitored by physical
 access control mechanisms. Retain access control records on a periodic basis
 as deemed appropriate by the organization.
-",TRUE,DCS-09,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility for implementing controls that allow only authorized personnel physical access to secure areas at data centers. The ultimate ownership of this control rests with the IaaS provider as the entity that owns and operates the datacenter infrastructure.
 
 Implementation Guidelines.
@@ -2720,7 +2719,7 @@ Not applicable for the CSC.
 Datacenter Security,Surveillance System,DCS-10,"Implement, maintain, and operate datacenter surveillance systems
 at the external perimeter and at all the ingress and egress points to detect
 unauthorized ingress and egress attempts.
-",TRUE,DCS-10,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility to implement, maintain, and operate datacenter surveillance systems at the external perimeter and at all the ingress and egress points. The ownership of this control rests with the IaaS provider as it is the entity that owns and operates the datacenter infrastructure.
 
 Implementation Guidelines.
@@ -2748,7 +2747,7 @@ Not applicable for the CSC.
 "
 Datacenter Security,Unauthorized Access Response Training,DCS-11,"Train datacenter personnel to respond to unauthorized ingress or
 egress attempts.
-",TRUE,DCS-11,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility to train datacenter personnel to respond to unauthorized ingress or egress attempts. The ultimate ownership of this control rests with the IaaS provider as the owner and operator of the datacenter infrastructure.
 
 Implementation Guidelines.
@@ -2786,7 +2785,7 @@ Datacenter Security,Cabling Security,DCS-12,"Define, implement and evaluate proc
 measures that ensure a risk-based protection of power and telecommunication
 cables from a threat of interception, interference or damage at all facilities,
 offices and rooms.
-",TRUE,DCS-12,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility to implement this control in order to ensure risk-based protection of power and telecommunication cables from a threat of interception, interference, or damage at all facilities, offices and rooms.
 
 Implementation Guidelines.
@@ -2818,7 +2817,7 @@ Not applicable for the CSC.
 Datacenter Security,Environmental Systems,DCS-13,"Implement and maintain data center environmental control systems
 that monitor, maintain and test for continual effectiveness the temperature
 and humidity conditions within accepted industry standards.
-",TRUE,DCS-13,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility to implement and maintain the datacenter environmental control systems that monitor, maintain, and test for continuous effectiveness of the temperature and humidity conditions within accepted industry standards.
 
 Implementation Guidelines.
@@ -2872,7 +2871,7 @@ Not applicable for the CSC.
 "
 Datacenter Security,Secure Utilities,DCS-14,"Secure, monitor, maintain, and test utilities services for continual
 effectiveness at planned intervals.
-",TRUE,DCS-14,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility to secure, monitor, maintain, and test utilities services for continual effectiveness at planned intervals.
 
 Implementation Guidelines.
@@ -2932,7 +2931,7 @@ Not applicable for the CSC.
 "
 Datacenter Security,Equipment Location,DCS-15,"Keep business-critical equipment away from locations subject to high
 probability for environmental risk events.
-",TRUE,DCS-15,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The CSP owns the responsibility for keeping business-critical equipment away from locations subject to high probability for environmental risk events.
 
 Implementation Guidelines.
@@ -2973,7 +2972,7 @@ policies and procedures for the classification, protection and handling of data
 throughout its lifecycle, and according to all applicable laws and regulations,
 standards, and risk level. Review and update the policies and procedures at
 least annually.
-",TRUE,DSP-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared and independent for the CSP and CSC, since both CSP and CSC need to independently establish policies and procedures for data lifecycle management as part of their organization's overarching data governance framework.
 
 Implementation Guidelines.
@@ -3058,7 +3057,7 @@ The policies provided for the CSP apply.
 "
 Data Security and Privacy Lifecycle Management,Secure Disposal,DSP-02,"Apply industry accepted methods for the secure disposal of data from
 storage media such that data is not recoverable by any forensic means.
-",TRUE,DSP-02,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The implementation responsibility for DSP-02 is Shared and both CSP and CSC need to implement it. This is due to the fact that either CSP or CSC may, depending on their unique requirements (e.g., regulation, end of life of storage media) may be required to securely dispose of data from storage media. 
 
 This control is also Dependent since the CSP is expected to have the technological capability that supports industry accepted methods of deleting data in a way that is not retrievable when requested by the CSC, or when a storage device is at the end of its lifetime and needs to be decommissioned. 
@@ -3104,7 +3103,7 @@ Note: Active storage systems are production servers, while backup storage system
 "
 Data Security and Privacy Lifecycle Management,Data Inventory,DSP-03,"Create and maintain a data inventory, at least for any sensitive
 data and personal data.
-",TRUE,DSP-03,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control ownership and implementation responsibility is defined as “Shared (Dependent)” because both parties are responsible for performing and maintaining a data inventory. The CSP needs to maintain an inventory for the CSC’s customer data (where applicable and possible) and cloud derived data, while the CSC needs to maintain an inventory, at least, for sensitive and/or personal data.
 
 The control is Dependent since the CSC will depend on the technical capabilities available of the CSP to perform a critical data inventory activity, known as data discovery. Also, the CSP may require access to the CSC’s sensitive or personal data in the event of responding to a legal request, including for e-discovery.
@@ -3133,7 +3132,7 @@ The implementation guidelines provided for the CSP apply.
 5. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended.
 "
 Data Security and Privacy Lifecycle Management,Data Classification,DSP-04,"Classify data according to its type and sensitivity level.
-",TRUE,DSP-04,Shared (Independent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The control ownership rationale for IaaS is “Shared (Independent)” since:
 • The CSC has more control on IaaS, they can install any tool they wish to perform data classification and hence it is their sole responsibility for data managed on the infrastructure
 • The CSP is required to classify data (e.g., cloud derived data) generated by the IaaS infrastructure. 
@@ -3180,7 +3179,7 @@ Additionally, the CSC should consider the data classification and labeling techn
 Data Security and Privacy Lifecycle Management,Data Flow Documentation,DSP-05,"Create data flow documentation to identify what data is processed,
 stored or transmitted where. Review data flow documentation at defined intervals,
 at least annually, and after any change.
-",TRUE,DSP-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The control ownership is defined as “Shared (Independent).” Shared, because both the CSP and CSC require knowing what data is processed, stored and transmitted, and where. Independent, because the documentation can be created without dependency of the CSP on the CSC and vice-versa.
 
 Implementation Guidelines.
@@ -3224,7 +3223,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Data Security and Privacy Lifecycle Management,Data Ownership and Stewardship,DSP-06,"Document ownership and stewardship of all relevant documented personal
 and sensitive data. Perform review at least annually.
-",TRUE,DSP-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The control ownership is defined as “Shared (Independent).” Shared, because both the CSP and CSC should document their respective data ownership, stewardship, and custodianship responsibilities. Independent, because the CSP and CSC can do this without dependency on each other. 
 
 Implementation Guidelines.
@@ -3252,7 +3251,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Data Security and Privacy Lifecycle Management,Data Protection by Design and Default,DSP-07,"Develop systems, products, and business practices based upon a principle
 of security by design and industry best practices.
-",TRUE,DSP-07,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The control ownership is defined as “Shared (Dependent)”. Shared because the CSP and CSC should complete security/privacy by design activities for the products and services that they wish to implement (e.g., the CSP conducts the activity for a product or service it is going to offer, while the CSC does the same in order to offer the product or service to its own set of stakeholders - customers, business partners, employees, third parties, or the general public). 
 
 Dependent, because both parties rely on each other for “baking in” security and privacy. The CSP, for instance, depends on the CSC's feedback as input to improving an existing product or service, so it can improve it in a later version. The CSC depends on the CSP because security and privacy by design requires security architects to propose options, with benefits, drawbacks, and costs to senior management. As such, dependency on the CSP becomes vital as the CSC may not have complete knowledge of the array of products available (e.g., either on the CSP marketplace or natively), or how to implement it in a secure manner to suit the CSC's cloud and/or hybrid ecosystem. 
@@ -3307,7 +3306,7 @@ iii. product security (e.g., product should be free or malware or backdoors)
 Data Security and Privacy Lifecycle Management,Data Privacy by Design and Default,DSP-08,"Develop systems, products, and business practices based upon a principle
 of privacy by design and industry best practices. Ensure that systems' privacy
 settings are configured by default, according to all applicable laws and regulations.
-",TRUE,DSP-08,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The control ownership is defined as “Shared (Dependent).” Shared, because the CSP and CSC should complete privacy by design and default activities for the products and services that they wish to implement (e.g., the CSP will conduct the activity for a product or service it is going to offer the CSC, while the CSC will do the same in order to offer the product or service to its own set of stakeholders - customers, business partners, employees, third parties or the general public).
 
 Dependent, because both parties rely on each other for baking in privacy (sometimes via security control guidance specific in DSP-07). The CSP, for instance, depends on the CSC’s feedback as input to improve an existing product or service, so it can be improved in a later version. The CSC depends on the CSP because privacy by design and default requires security architects to propose options, with benefits, drawbacks, and costs to senior management stakeholders. As such, dependency on CSPs becomes vital as the CSC may not have complete knowledge of the array of products available (e.g., either on the CSP’s marketplace or natively), or how the implementation can be made in a secure manner to suit the CSC's cloud and/or hybrid ecosystem. 
@@ -3359,7 +3358,7 @@ Data Security and Privacy Lifecycle Management,Data Protection Impact Assessment
 origin, nature, particularity and severity of the risks upon the processing
 of personal data, according to any applicable laws, regulations and industry
 best practices.
-",TRUE,DSP-09,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The control ownership is defined as “Shared (Dependent).” Shared, because the CSC typically acts as data controller, and in most instances owns the data that it puts in the CSP’s cloud. As a Data Controller, they are obliged, depending on certain conditions (e.g., data processing activities that could potentially result in high risk to the rights and freedoms of individuals) to carry out a Data Protection Impact Assessment (DPIA). The CSP performs a DPIA because personal data may be sent to the cloud from the CSC. 
 
 Dependent, because the CSC may need to assess the tools and technologies available from the CSP that can be used as measures (e.g., safeguards, security mechanisms) to mitigate risk, which is one of the stages of the DPIA before recording outcomes and providing sign offs. The CSP on the other hand is dependent on the CSC, because it takes the CSC's DPIA as input, in order to understand how the CSC processes personal data. The CSP incorporates this into its security and privacy by design and default approaches by incorporating features into products and tools that they can offer other CSCs in the future so that they can meet the commitments of their DPIAs.
@@ -3398,7 +3397,7 @@ Data Security and Privacy Lifecycle Management,Sensitive Data Transfer,DSP-10,"D
 measures that ensure any transfer of personal or sensitive data is protected
 from unauthorized access and only processed within scope as permitted by the
 respective laws and regulations.
-",TRUE,DSP-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because both should define processes, procedures, and technical measures (strong encryption or similar techniques) for data transfer – consider data transfer within the organization and externally – to prevent unauthorized access by eavesdropping or data transfer interception.
 
 Implementation Guidelines.
@@ -3459,7 +3458,7 @@ h. immediately forward to the relevant controller any notice provided by CSP und
 Data Security and Privacy Lifecycle Management,"Personal Data Access, Reversal, Rectification and Deletion",DSP-11,"Define and implement, processes, procedures and technical measures
 to enable data subjects to request access to, modification, or deletion of their
 personal data, according to any applicable laws and regulations.
-",TRUE,DSP-11,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because they should each define processes, procedures, and technical measures for data subjects to be able to access, view, rectify, or delete their personal data in the system, or by logging a request with the CSP. The CSP should respond to such requests in alignment with relevant data protection laws.
 
 Implementation Guidelines.
@@ -3498,7 +3497,7 @@ Note: Depending on the type of data subject, there are different mechanisms for 
 Data Security and Privacy Lifecycle Management,Limitation of Purpose in Personal Data Processing,DSP-12,"Define, implement and evaluate processes, procedures and technical
 measures to ensure that personal data is processed according to any applicable
 laws and regulations and for the purposes declared to the data subject.
-",TRUE,DSP-12,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because they each should define processes, procedures, and technical measures to ensure the following:
 a. the data subject is made aware of the nature and purpose of information collection
 b. the information is relevant and limited to processing requirements
@@ -3541,7 +3540,7 @@ d. design, develop, test, implement, operate, and maintain administrative and te
 Data Security and Privacy Lifecycle Management,Personal Data Sub-processing,DSP-13,"Define, implement and evaluate processes, procedures and technical
 measures for the transfer and sub-processing of personal data within the service
 supply chain, according to any applicable laws and regulations.
-",TRUE,DSP-13,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because both should define processes, procedures, and technical measures for the transfer and sub-processing of personal data within the service supply chain, according to any applicable laws and regulations.
 
 Implementation Guidelines.
@@ -3576,7 +3575,7 @@ e. design, develop, test, implement, operate, and maintain administrative and te
 Data Security and Privacy Lifecycle Management,Disclosure of Data Sub-processors,DSP-14,"Define, implement and evaluate processes, procedures and technical
 measures to disclose the details of any personal or sensitive data access by
 sub-processors to the data owner prior to initiation of that processing.
-",TRUE,DSP-14,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a Shared (Independent) control for both the CSP and CSC because both should define processes, procedures, and technical measures for defining, implementing, and evaluating disclosure of the details of any personal or sensitive data accessed by sub-processors to the data owner prior to initiating that processing.
 
 Implementation Guidelines.
@@ -3611,7 +3610,7 @@ Note: A real-life case will be rare.  Should it not be possible to follow a real
 "
 Data Security and Privacy Lifecycle Management,Limitation of Production Data Use,DSP-15,"Obtain authorization from data owners, and manage associated risk
 before replicating or using production data in non-production environments.
-",TRUE,DSP-15,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because both should perform due diligence before replicating or using production data in non-production environments (and periodically thereafter, commensurate with the risk level of the third-party relationship).
 
 Implementation Guidelines.
@@ -3659,7 +3658,7 @@ j. specify in contract and establish procedures which require that production da
 "
 Data Security and Privacy Lifecycle Management,Data Retention and Deletion,DSP-16,"Data retention, archiving and deletion is managed in accordance with
 business requirements, applicable laws and regulations.
-",TRUE,DSP-16,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC because both should ensure data retention, archiving, and deletion is managed in accordance with business requirements, and applicable laws and regulations (and periodically thereafter, commensurate with the risk level of the third-party relationship).
 
 Implementation Guidelines.
@@ -3697,7 +3696,7 @@ f. the CSC should retain control and ownership of its data, and is responsible f
 "
 Data Security and Privacy Lifecycle Management,Sensitive Data Protection,DSP-17,"Define and implement, processes, procedures and technical measures
 to protect sensitive data throughout its lifecycle.
-",TRUE,DSP-17,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 This is a CSP-owned control because customer data security is a top priority, and several different mechanisms should be in place to ensure sensitive data is protected throughout its lifecycle. 
 
 Implementation Guidelines.
@@ -3742,7 +3741,7 @@ Authorities according to applicable laws and regulations. The CSP must give
 special attention to the notification procedure to interested CSCs, unless otherwise
 prohibited, such as a prohibition under criminal law to preserve confidentiality
 of a law enforcement investigation.
-",TRUE,DSP-18,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 This is a CSP-owned control because the CSC’s privacy is top priority. The CSP should have a policy that prohibits the disclosure of the CSC’s data unless it is required to do so to comply with the law, or with a valid and binding order of a governmental or regulatory body. The CSP should notify the CSC before disclosing CSC content to law enforcement authorities so that they can seek protection from disclosure.
 
 Implementation Guidelines.
@@ -3767,7 +3766,7 @@ The CSC is responsible for designing, developing, testing, implementing, operati
 Data Security and Privacy Lifecycle Management,Data Location,DSP-19,"Define and implement, processes, procedures and technical measures
 to specify and document the physical locations of data, including any locations
 in which data is processed or backed up.
-",TRUE,DSP-19,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This is a “Shared (Dependent)” control for both the CSP and CSC because the CSP will ensure where data is stored, processed, and backed up in accordance with input from the CSC (and periodically thereafter, commensurate with the risk level of the third-party relationship). In cases of shared tenancy, the CSC should be allowed to request the physical location of customer data. 
 
 Implementation Guidelines.
@@ -3803,16 +3802,16 @@ d. enable logging features for incident management processes
 7. Confirm that the data storage process meets the organization's requirements as detailed in policy and procedures.
 "
 Data Security and Privacy Lifecycle Management,Data Provenance and Transparency,DSP-20,"Define, implement and evaluate processes, procedures and technical
-measures to: 1) Document and trace data sources, and 2) Make the data source available according to legal and regulatory requirements,",FALSE,,,,,,,
+measures to: 1) Document and trace data sources, and 2) Make the data source available according to legal and regulatory requirements,",,,,,
 Data Security and Privacy Lifecycle Management,Data Poisoning Prevention & Detection,DSP-21,"Define, implement and evaluate processes, procedures and technical
-measures to: 1) establish a baseline to capture what data is 'fit for purpose', 2) determine and monitor the variations from the expected outcomes.",FALSE,,,,,,,
+measures to: 1) establish a baseline to capture what data is 'fit for purpose', 2) determine and monitor the variations from the expected outcomes.",,,,,
 Data Security and Privacy Lifecycle Management,Privacy Enhancing Technologies,DSP-22,"Based on risk and privacy impact analysis and business use cases, adopt Privacy Enhancing Technologies such as differential privacy, federated learning, etc.
-",FALSE,,,,,,,
+",,,,,
 "Governance, Risk and Compliance",Governance Program Policy and Procedures,GRC-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for an information governance program, which is sponsored
 by the leadership of the organization. Review and update the policies and procedures
 at least annually.
-",TRUE,GRC-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control applies to all service models (IaaS, PaaS, SaaS) because the implementation of a Governance, Risk and Compliance (GRC) program takes place at an organizational level, irrespective of cloud service model.
 Establishing a program for good information and technology governance, risk management, and compliance is important for all organizations, whether operating in a service consumer or service provider role. 
 
@@ -3872,7 +3871,7 @@ The implementation guidelines provided for the CSP apply.
 Risk Management (ERM) program that includes policies and procedures for identification,
 evaluation, ownership, treatment, and acceptance of cloud security and privacy
 risks.
-",TRUE,GRC-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is typically shared between the CSP and CSC and expected to be independently implemented by each party, since the establishment of such a program is fully internal and unique to each organization and each needs to have its own respective ERM program established to cover its operations, products, and services. 
 The CSP and the CSC each independently establish their own respective policies and procedures for identification, evaluation, ownership, treatment, and acceptance of risks, including those pertaining to cloud security and privacy risks. Risk management for an organization is ultimately owned by that organization's leadership.
 
@@ -3906,7 +3905,7 @@ When using the CSP, the CSC accepts some responsibility for certain risks, and i
 "
 "Governance, Risk and Compliance",Organizational Policy Reviews,GRC-03,"Review all relevant organizational policies and associated procedures
 at least annually or when a substantial change occurs within the organization.
-",TRUE,GRC-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control applies to all service models (IaaS, PaaS, or SaaS) because periodical reviews of policies and procedures as with all Governance And Risk Compliance (GRC) topics, should be implemented at the Organizational level, to ensure they are still up to date, relevant and valid for the Organization, independent of the type of cloud service model.
 The ownership of this control is Shared (Independent) because both the CSP and the CSC each separately need to perform periodic reviews of their organization's policies and procedures, and each organization is fully responsible for performing the reviews of its own organizational policy while having no responsibilities for the review of another organization's policies. Because the need for review of an organization's policies is an organizational-level function covering all operations, products, and services of the enterprise, the Shared (Independent) ownership of this control applies irrespective of the types of cloud services provided or consumed.
 
@@ -3930,7 +3929,7 @@ Also, for certain cloud-related policies and standards that have in scope specif
 "
 "Governance, Risk and Compliance",Policy Exception Process,GRC-04,"Establish and follow an approved exception process as mandated by
 the governance program whenever a deviation from an established policy occurs.
-",TRUE,GRC-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control applies to all service models (IaaS, PaaS, or SaaS), because following GRC-01, both should have their own security policies. Any exception to those policies will be also independent of a cloud service model. 
 
 Managing exceptions to organizational policies, standards, procedures, and other directives is an important aspect of an organization's risk management. The CSP and the CSC each independently establish their own policies and procedures for their respective organizations as well as independently manage risk for their respective organizations, and the associated process for managing exceptions to such policies is similarly and accordingly a Shared (Independent) function.
@@ -3953,7 +3952,7 @@ Applicable to all service models:
 "
 "Governance, Risk and Compliance",Information Security Program,GRC-05,"Develop and implement an Information Security Program, which includes
 programs for all the relevant domains of the CCM.
-",TRUE,GRC-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is shared between the CSP and the CSC, in an independent manner. It is fully and independently the responsibility of each the CSP and the CSC to establish their own separate respective information security programs. It is neither the CSP’s responsibility to develop or implement the CSC’s information security program nor is it the CSC’s responsibility to develop or implement the CSP’s information security program.
 
 The CSP’s ownership of this control relates to developing and implementing one or more information security programs covering the CSP’s own internal organizational units and associated assets and processes as well as covering the services offered to its CSCs and associated assets and processes. The CSP does not have responsibility to develop or implement information security programs for the CSC.
@@ -3987,7 +3986,7 @@ When the CSC uses a cloud environment, the CSP is a key part for its information
 "
 "Governance, Risk and Compliance",Governance Responsibility Model,GRC-06,"Define and document roles and responsibilities for planning, implementing,
 operating, assessing, and improving governance programs.
-",TRUE,GRC-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is independent of IaaS, PaaS, SaaS since Governance And Risk Compliance (GRC) is applicable for all cloud service models. Both The CSP and CSC should define and implement their own roles, responsibilities, and management commitment within their respective organizations.
 
 Implementation Guidelines.
@@ -4007,7 +4006,7 @@ The CSC, as part of its governance duties, should formalize a clear Responsible,
 "
 "Governance, Risk and Compliance",Information System Regulatory Mapping,GRC-07,"Identify and document all relevant standards, regulations, legal/contractual,
 and statutory requirements, which are applicable to your organization.
-",TRUE,GRC-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is independent of the service model (IaaS, PaaS, SaaS) or on-premise architecture since GRC is applicable to all. The CSP and CSC should each independently analyze and include into their Information Security Programs all relevant standards-related, regulatory, legal/contractual, and/or statutory security controls applicable, and how these controls serve the business needs and use cases.
 
 Implementation Guidelines.
@@ -4039,7 +4038,7 @@ The CSP should then seek to get external verification through certifications, au
 "
 "Governance, Risk and Compliance",Special Interest Groups,GRC-08,"Establish and maintain contact with cloud-related special interest
 groups and other relevant entities in line with business context.
-",TRUE,GRC-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is independent of the service model (IaaS, PaaS, SaaS) since GRC applies to all. Each organization should independently identify and develop close contact with the relevant groups and/or of security professionals that will provide advice and additional security and governance information that could enhance the security posture of its services (e.g., using IoC, threat reports, early vulnerability/flaw discoveries).
 
 Implementation Guidelines.
@@ -4068,16 +4067,16 @@ The CSC may consider exploring and testing potential flaws in their cloud enviro
 on the acceptable use of AI services offered by the organization.
 
 
-Approved: Define, document and enforce policies and procedures on the acceptable use of AI services offered by the organization. Ensure effectiveness by continuous risk assessments, reviews and human oversight.",FALSE,,,,,,,
-"Governance, Risk and Compliance",AI Service Bill of Material (BOM),GRC-10,"Define, implement, enforce, and evaluate a process for establishing, documenting, approving, communicating, applying, evaluating, and maintaining a Bill of Material for the entire service supply chain, including the Model, the Orchestrated services and the AI Applications.",FALSE,,,,,,,
-"Governance, Risk and Compliance",AI Impact Assessment,GRC-11,"Establish, document, and communicate to all stakeholders the assessment of the impact of AI in its use and planned use.",FALSE,,,,,,,
+Approved: Define, document and enforce policies and procedures on the acceptable use of AI services offered by the organization. Ensure effectiveness by continuous risk assessments, reviews and human oversight.",,,,,
+"Governance, Risk and Compliance",AI Service Bill of Material (BOM),GRC-10,"Define, implement, enforce, and evaluate a process for establishing, documenting, approving, communicating, applying, evaluating, and maintaining a Bill of Material for the entire service supply chain, including the Model, the Orchestrated services and the AI Applications.",,,,,
+"Governance, Risk and Compliance",AI Impact Assessment,GRC-11,"Establish, document, and communicate to all stakeholders the assessment of the impact of AI in its use and planned use.",,,,,
 Human Resources,Background Screening Policy and Procedures,HRS-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for background verification of all new employees (including
 but not limited to remote employees, contractors, and third parties) according
 to local laws, regulations, ethics, and contractual constraints and proportional
 to the data classification to be accessed, the business requirements, and acceptable
 risk. Review and update the policies and procedures at least annually.
-",TRUE,HRS-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is independent of the service model (IaaS, PaaS, SaaS) since GRC is applicable to all. It is shared and should be implemented by each party, CSC and the CSP, however independently from one another. Both entities may have different screening policies and processes that they should fill respective of their countries, contractual and regulatory requirements.
 
 Implementation Guidelines.
@@ -4131,7 +4130,7 @@ Human Resources,Acceptable Use of Technology Policy and Procedures,HRS-02,"Estab
 policies and procedures for defining allowances and conditions for the acceptable
 use of organizationally-owned or managed assets. Review and update the policies
 and procedures at least annually.
-",TRUE,HRS-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different Acceptable Use policies requirements for technology standards and requirements within their policies and processes that they should fill respective of their countries , contractual or regulatory requirements.
 
 Implementation Guidelines.
@@ -4177,7 +4176,7 @@ Human Resources,Clean Desk Policy and Procedures,HRS-03,"Establish, document, ap
 policies and procedures that require unattended workspaces to not have openly
 visible confidential data. Review and update the policies and procedures at
 least annually.
-",TRUE,HRS-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different clean desk standards or requirements that need to be outlined in their policies and processes that they should fulfill respective of their countries , contractual or regulatory requirements.
 
 Implementation Guidelines.
@@ -4227,7 +4226,7 @@ Human Resources,Remote and Home Working Policy and Procedures,HRS-04,"Establish,
 policies and procedures to protect information accessed, processed or stored
 at remote sites and locations. Review and update the policies and procedures
 at least annually.
-",TRUE,HRS-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different Remote and Home Working policies and Procedures which will link to the individual organizations standards and requirements within their policies and processes that they should achieve for their respective countries , contractual or regulatory requirements.
 
 Implementation Guidelines.
@@ -4269,7 +4268,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Human Resources,Asset returns,HRS-05,"Establish and document procedures for the return of organization-owned
 assets by terminated employees.
-",TRUE,HRS-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for the return of organization-owned assets as per their policies and procedures which link to their respective standards and requirements.
 
 Implementation Guidelines.
@@ -4305,7 +4304,7 @@ The CSC should also make efforts through technical procedures or policy (such as
 "
 Human Resources,Employment Termination,HRS-06,"Establish, document, and communicate to all personnel the procedures
 outlining the roles and responsibilities concerning changes in employment.
-",TRUE,HRS-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for the return of organization-owned assets as per their policies and procedures which link to their respective standards and requirements.
 
 Implementation Guidelines.
@@ -4336,7 +4335,7 @@ In addition, the CSC may need to inform their CSP of significant changes or, whe
 "
 Human Resources,Employment Agreement Process,HRS-07,"Employees sign the employee agreement prior to being granted access
 to organizational information systems, resources and assets.
-",TRUE,HRS-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for employees when signing or agreeing to any access agreements. Those may be NDAs, AUPs, or contracts.
 
 Implementation Guidelines.
@@ -4365,7 +4364,7 @@ Terms and conditions should be reviewed and updated in line with internal polici
 Human Resources,Employment Agreement Content,HRS-08,"The organization includes within the employment agreements provisions
 and/or terms for adherence to established information governance and security
 policies.
-",TRUE,HRS-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are to be implemented independently by each party. Both parties should ensure employment agreements that include terms for adherence to established information governance and security policies, but such agreements are dependent on applicable laws and regulatory requirements.
 
 Implementation Guidelines.
@@ -4382,7 +4381,7 @@ The CSC should communicate relevant code of conduct, information governance, and
 "
 Human Resources,Personnel Roles and Responsibilities,HRS-09,"Document and communicate roles and responsibilities of employees,
 as they relate to information assets and security.
-",TRUE,HRS-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should document and communicate the roles and responsibilities of employees, as they relate to information assets,  privacy, and security.       
 
 Implementation Guidelines.
@@ -4405,7 +4404,7 @@ All employees, contractors, and contingent staff should receive role-based secur
 Human Resources,Non-Disclosure Agreements,HRS-10,"Identify, document, and review, at planned intervals, requirements
 for non-disclosure/confidentiality agreements reflecting the organization's
 needs for the protection of data and operational details.
-",TRUE,HRS-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should identify, document, and review, at planned intervals, requirements for non-disclosure/confidentiality agreements reflecting the organization's needs for the protection of data and operational details.      
 
 Implementation Guidelines.
@@ -4434,7 +4433,7 @@ The implementation guidelines provided for the CSP apply.
 Human Resources,Security Awareness Training,HRS-11,"Establish, document, approve, communicate, apply, evaluate and maintain
 a security awareness training program for all employees of the organization
 and provide regular training updates.
-",TRUE,HRS-11,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should establish, document, approve, communicate, apply, evaluate and maintain a security awareness training program for all employees of the organization and provide regular training updates.
 
 Implementation Guidelines.
@@ -4454,7 +4453,7 @@ Human Resources,Personal and Sensitive Data Awareness and Training,HRS-12,"Provi
 personal data with appropriate security awareness training and regular updates
 in organizational procedures, processes, and policies relating to their professional
 function relative to the organization.
-",TRUE,HRS-12,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should provide internal and external personnel with access to sensitive organizational and personal data with appropriate security awareness training and regular updates in organizational procedures, processes, and policies relating to their professional function relative to the organization.
 
 Implementation Guidelines.
@@ -4478,7 +4477,7 @@ The implementation guidelines provided for the CSP apply.
 Human Resources,Compliance User Responsibility,HRS-13,"Make employees aware of their roles and responsibilities for maintaining
 awareness and compliance with established policies and procedures and applicable
 legal, statutory, or regulatory compliance obligations.
-",TRUE,HRS-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should make employees aware of their roles and responsibilities for maintaining awareness and compliance with established policies and procedures, regulations, and legal frameworks.
 
 Implementation Guidelines.
@@ -4497,13 +4496,13 @@ The implementation guidelines provided for the CSP apply.
 2. Verify, by Interviews or otherwise, that employees are aware of their roles and responsibilities with respect to such obligations.
 "
 Human Resources,AI Competency Training,HRS-14,"Define the required competency for any individual contributing to the conception, design, development, deployment, and operation of AI services. Establish, document, approve, communicate, apply, evaluate and maintain policies and procedures defining the AI training program for all relevant personnel of the organization
-and provide regular training updates.",FALSE,,,,,,,
+and provide regular training updates.",,,,,
 Human Resources,AI Acceptable Use,HRS-15,"Establish, document, and communicate to all personnel the policies and procedures
-on the acceptable use of AI technologies within the organization.",FALSE,,,,,,,
+on the acceptable use of AI technologies within the organization.",,,,,
 Identity & Access Management,Identity and Access Management Policy and Procedures,IAM-01,"Establish, document, approve, communicate, implement, apply, evaluate
 and maintain policies and procedures for identity and access management. Review
 and update the policies and procedures at least annually.
-",TRUE,IAM-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP's ownership of this control relates to the policies and procedures for managing identities (i.e., users, systems/processes, services and other security principals) and access to CSP-controlled resources within its organizational units, infrastructure, and assets relevant to the cloud services offered to the CSC.  
 
 Implementation Guidelines.
@@ -4565,7 +4564,7 @@ Policies should include (but not limited to) provisions on the following: The po
 Identity & Access Management,Strong Password Policy and Procedures,IAM-02,"Establish, document, approve, communicate, implement, apply, evaluate
 and maintain strong password policies and procedures. Review and update the
 policies and procedures at least annually.
-",TRUE,IAM-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 CSP's ownership of the control is concerned with password policies and procedures for authentication to CSP-controlled resources within the CSP's organizational units, infrastructure, and assets relevant to the cloud services offered to CSCs.
 
 Implementation Guidelines.
@@ -4615,7 +4614,7 @@ Policies should include (but not limited to) provisions on the following: The po
 "
 Identity & Access Management,Identity Inventory,IAM-03,"Manage, store, and review the information of system identities, and
 level of access.
-",TRUE,IAM-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP owns the control with respect to the system identities accessing resources under the CSP's control in the cloud environment. The scope of such resources is dependent on the type of cloud service model the CSP offers as detailed below. 
 
 Implementation Guidelines.
@@ -4660,7 +4659,7 @@ The same implementation guidelines as for the CSP apply.
 "
 Identity & Access Management,Separation of Duties,IAM-04,"Employ the separation of duties principle when implementing information
 system access.
-",TRUE,IAM-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP owns the control with respect to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4706,7 +4705,7 @@ Implementation best practices for CSPs to effectively employ SoD include: The sa
 "
 Identity & Access Management,Least Privilege,IAM-05,"Employ the least privilege principle when implementing information
 system access.
-",TRUE,IAM-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including the CSP’s internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4746,10 +4745,10 @@ The same implementation guidelines as for the CSP apply to effectively employ th
 ","1.Examine the policy to determine the least privilege required for each role or user.
 2.Evaluate the effectiveness of the implementation and review of policy.
 "
-Identity & Access Management,Need to Know,IAM-17,"Apply the rule of ""need to know"" when regulating access to resources",FALSE,,,,,,,
+Identity & Access Management,Need to Know,IAM-17,"Apply the rule of ""need to know"" when regulating access to resources",,,,,
 Identity & Access Management,User Access Provisioning,IAM-06,"Define and implement a user access provisioning process which authorizes,
 records, and communicates access changes to data and assets.
-",TRUE,IAM-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP responsibility for this control relates to user access provisioning to the data and assets controlled and managed by the CSP in the cloud service environment.
 
 Implementation Guidelines.
@@ -4783,7 +4782,7 @@ The implementation guidelines provided for the CSP apply.
 Identity & Access Management,User Access Changes and Revocation,IAM-07,"De-provision or respectively modify access of movers / leavers or
 system identity changes in a timely manner in order to effectively adopt and
 communicate identity and access management policies.
-",TRUE,IAM-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are both independently responsible for managing the processes and procedures related to access deprovisioning for personnel (employees and contractors) resulting from periodic review, transfer or termination in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4824,7 +4823,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Identity & Access Management,User Access Review,IAM-08,"Review and revalidate user access for least privilege and separation
 of duties with a frequency that is commensurate with organizational risk tolerance.
-",TRUE,IAM-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are individually responsible for managing the processes and procedures related to periodic review of access by supervisors for personnel (employees and contractors) in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4858,7 +4857,7 @@ Identity & Access Management,Segregation of Privileged Access Roles,IAM-09,"Defi
 measures for the segregation of privileged access roles such that administrative
 access to data, encryption and key management capabilities and logging capabilities
 are distinct and separated.
-",TRUE,IAM-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are both responsible, but also independently manage their respective processes and procedures to maintain SoD between the privileged roles that have administrative access to data or encryption keys, and the roles that have access to logging capabilities (such as logging configuration and log files in storage) that captures the access to the data or the keys. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4893,7 +4892,7 @@ The implementation guidelines provided for the CSP apply.
 Identity & Access Management,Management of Privileged Access Roles,IAM-10,"Define and implement an access process to ensure privileged access
 roles and rights are granted for a time limited period, and implement procedures
 to prevent the culmination of segregated privileged access.
-",TRUE,IAM-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is “Shared (Independent)” since CSP and CSC are both responsible for managing their respective processes and procedures for managing privileged access in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -4940,7 +4939,7 @@ The implementation guidelines provided for the CSP apply.
 Identity & Access Management,CSCs Approval for Agreed Privileged Access Roles,IAM-11,"Define, implement and evaluate processes and procedures for customers
 to participate, where applicable, in the granting of access for agreed, high
 risk (as defined by the organizational risk assessment) privileged access roles.
-",TRUE,IAM-11,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Dependent)” since the CSP and CSC are both responsible for determining the high risk data and granting privileged access to CSP users. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5011,7 +5010,7 @@ measures to ensure the logging infrastructure is read-only for all with write
 access, including privileged access roles, and that the ability to disable it
 is controlled through a procedure that ensures the segregation of duties and
 break glass procedures.
-",TRUE,IAM-12,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are both independently responsible for managing the logging infrastructure in their respective environments, and the processes and procedures for providing user access to the logs (inclusive of privileged access). The CSP owns the control in relation to the entities whose access to the cloud environment that the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5054,7 +5053,7 @@ The implementation guidelines provided for the CSP apply.
 Identity & Access Management,Uniquely Identifiable Users,IAM-13,"Define, implement and evaluate processes, procedures and technical
 measures that ensure users are identifiable through unique IDs or which can
 associate individuals to the usage of user IDs.
-",TRUE,IAM-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are individually responsible for managing the processes and procedures that generate and allocate unique identifiers to users in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5095,7 +5094,7 @@ measures for authenticating access to systems, application and data assets,
 including multifactor authentication for at least privileged user and sensitive
 data access. Adopt digital certificates or alternatives which achieve an equivalent
 level of security for system identities.
-",TRUE,IAM-14,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are both responsible, but also independently managing their respective processes and procedures to authenticate the non-console administrative access and remote access. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5142,7 +5141,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Identity & Access Management,Passwords Management,IAM-15,"Define, implement and evaluate processes, procedures and technical
 measures for the secure management of passwords.
-",TRUE,IAM-15,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since the CSP and CSC are both responsible, but also independently managing the processes and procedures to securely manage the user's passwords in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5189,7 +5188,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Identity & Access Management,Authorization Mechanisms,IAM-16,"Define, implement and evaluate processes, procedures and technical
 measures to verify access to data and system functions is authorized.
-",TRUE,IAM-16,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s implementation responsibility is “Shared (Independent)” since CSP and CSC are both responsible, but also independently manage the processes and procedures to ensure formal approvals are obtained for access granted to users in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
 
 Implementation Guidelines.
@@ -5227,7 +5226,7 @@ b. Information processing interoperability
 c. Application development portability
 d. Information/Data exchange, usage, portability, integrity, and persistence
 Review and update the policies and procedures at least annually.
-",TRUE,IPY-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP is responsible for policy, standards, guidelines and procedures, and transparency in communicating information related to interoperability and portability of data and associated metadata and code. 
 
 Implementation Guidelines.
@@ -5346,7 +5345,7 @@ l. understand who maintains access to data encryption keys, and retain control o
 "
 Interoperability & Portability,Application Interface Availability,IPY-02,"Provide application interface(s) to CSCs so that they programmatically
 retrieve their data to enable interoperability and portability.
-",TRUE,IPY-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP is responsible for providing the CSC with secure APIs that utilize universally recognized and standardized guidelines and protocols that are tested for security, availability, and usability. The CSP should make documentation available to the CSC.
 
 Implementation Guidelines.
@@ -5385,7 +5384,7 @@ j.factor in data transfer costs when considering interoperability, portability, 
 "
 Interoperability & Portability,Secure Interoperability and Portability Management,IPY-03,"Implement cryptographically secure and standardized network protocols
 for the management, import and export of data.
-",TRUE,IPY-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP is responsible for encrypting communications using industry-standard protocols and encryption algorithms. The CSP should make design and configuration documentation available to the CSC.
 
 Implementation Guidelines.
@@ -5422,7 +5421,7 @@ a. Data format
 b. Length of time the data will be stored
 c. Scope of the data retained and made available to the CSCs
 d. Data deletion policy
-",TRUE,IPY-04,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The CSP should provide information relating to data lifecycle management, including but not limited to, data formats, data retention, data archival, and data deletion during the service agreement, and when the CSC exits the Cloud service. The CSP will provide information to assist the CSC in data and metadata recovery, along with how and when the CSP will delete the CSC’s data. Control implementation responsibility is determined to be both” Shared” and “Dependent” since In context of service level agreements both parties need to determine and agree on provisions with regards to data portability upon contract termination.
 
 Implementation Guidelines.
@@ -5448,7 +5447,7 @@ The CSC should review supplier documentation and independent audit reports provi
 Infrastructure & Virtualization Security,Infrastructure and Virtualization Security Policy and Procedures,IVS-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for infrastructure and virtualization security. Review
 and update the policies and procedures at least annually.
-",TRUE,IVS-01,Shared (Dependent),CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The responsibility for this control differs depending upon chosen cloud architecture. For IaaS this is a “Shared (Dependent)” responsibility. While the CSP provides tooling to support the VM lifecycle and policies and procedures around the infrastructure, and policies and procedures around the VMs, the governance and enforcement of such belong to the CSC. For PaaS and SaaS, the CSC is abstracted from the VM layer by consuming either a platform or an application, and all policies and procedures are a CSP-owned responsibility.
 
 Implementation Guidelines.
@@ -5508,7 +5507,7 @@ Policies should include (but not limited to) provisions on the following: The po
 Infrastructure & Virtualization Security,Capacity and Resource Planning,IVS-02,"Plan and monitor the availability, quality, and adequate capacity
 of resources in order to deliver the required system performance as determined
 by the business.
-",TRUE,IVS-02,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The responsibility for this control is the same across all cloud architectures, and is a CSP-owned responsibility. While a CSC may demand a particular service or resource capacity, it is the responsibility of the CSP to ensure that the required system performance is delivered according to these requirements. This applies equally whether the service being delivered is IaaS, PaaS, or SaaS.
 
 Implementation Guidelines.
@@ -5555,7 +5554,7 @@ Infrastructure & Virtualization Security,Network Security,IVS-03,"Monitor, encry
 to only authenticated and authorized connections, as justified by the business.
 Review these configurations at least annually, and support them by a documented
 justification of all allowed services, protocols, ports, and compensating controls.
-",TRUE,IVS-03,Shared (Dependent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 The responsibility for this control differs depending upon the chosen service. For IaaS and PaaS, this is a “Shared (Dependent control)” – while the CSP will be responsible for communications security at the infrastructure, platform, and orchestration level, the CSC is responsible for communications security above the provisioned infrastructure/platform, or when connecting different environments together. For SaaS offerings, this is a CSP-owned control. Communications security should be a standard component of the software application provided, providing a safe environment for the CSC to interact with the SaaS offering. 
 
 Implementation Guidelines.
@@ -5627,7 +5626,7 @@ The container-specific implementation guidelines provided for the CSP apply.
 Infrastructure & Virtualization Security,OS Hardening and Base Controls,IVS-04,"Harden host and guest OS, hypervisor or infrastructure control plane
 according to their respective best practices, and supported by technical controls,
 as part of a security baseline.
-",TRUE,IVS-04,Shared (Independent),CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 This control’s implementation responsibility varies between the CSP and CSC across the three cloud service models. With regards to IaaS, there is a Shared and independent implementation responsibility between CSP and CSC for the Host and Guest OS hardening, since the CSP is responsible for the Host's hardening (OS and/or Hypervisor), and the CSC is responsible for the Guest VM and OS hardening. For PaaS and SaaS the implementation responsibility shifts to the CSP only, since the hardening of OS, hypervisor and underlying infrastructure are not part of CSC’s cloud stack and therefore the CSC has no control over their secure implementation. 
 
 Implementation Guidelines.
@@ -5722,7 +5721,7 @@ The container-specific implementation guidelines provided for the CSP apply.
 5. Determine if the security baseline contains information about the hardening done.
 "
 Infrastructure & Virtualization Security,Production and Non-Production Environments,IVS-05,"Separate production and non-production environments.
-",TRUE,IVS-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both CSP and CSC are responsible for the implementation of this control but doing so independently from one another. It is a standard best practice to separate production and non-production environments  to ensure a stable production environment that is not influenced by changes in the non-production environment, and to ensure that test data never enters into a production environment (and equally that no production data enters the non-production environment). This applies equally for both CSP and CSC whether the service being delivered is IaaS, PaaS, or SaaS.
 
 Implementation Guidelines.
@@ -5766,7 +5765,7 @@ The implementation guidelines provided for the CSP apply.
 Infrastructure & Virtualization Security,Segmentation and Segregation,IVS-06,"Design, develop, deploy and configure applications and infrastructures
 such that CSP and CSC (tenant) user access and intra-tenant access is appropriately
 segmented and segregated, monitored and restricted from other tenants.
-",TRUE,IVS-06,Shared (Dependent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 This is a “Shared (Dependent)” control for both IaaS and PaaS CSPs and CSCs. For the SaaS cloud service delivery model, it is a CSP-owned control.
 
 Implementation Guidelines.
@@ -5816,7 +5815,7 @@ The implementation guidelines provided for the CSP apply.
 Infrastructure & Virtualization Security,Migration to Cloud Environments,IVS-07,"Use secure and encrypted communication channels when migrating servers,
 services, applications, or data to cloud environments. Such channels must include
 only up-to-date and approved protocols.
-",TRUE,IVS-07,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control is a “Shared (Dependent)” control irrespective of the service model. It should be implemented/operated by both the CSP and CSC.
 
 The CSP and CSC should use secure and encrypted communication channels including up-to-date and approved protocols (e.g., FIPS), when migrating servers, services, applications, or data both within and outside its boundary.
@@ -5854,7 +5853,7 @@ The implementation guidelines provided for the CSP apply.
 3. Examine the records of migrations.
 "
 Infrastructure & Virtualization Security,Network Architecture Documentation,IVS-08,"Identify and document high-risk environments.
-",TRUE,IVS-08,Shared (Dependent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 This is a “Shared (Dependent)” control for both IaaS and PaaS CSsP and CSCs.  The CSC is responsible for identifying and documenting high-risk environments within CSC-managed workloads but depends on the CSP to provide the technical capabilities for isolation and segregation between CSCs.  
 
 The SaaS CSP is responsible for identifying and documenting high-risk environments within the SaaS application. Data flow diagrams should clearly define boundaries and data flows between zones having different data classification, trust levels, or compliance and regulatory requirements which clearly identify high-risk environments. 
@@ -5913,7 +5912,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Infrastructure & Virtualization Security,Network Defense,IVS-09,"Define, implement and evaluate processes, procedures and defense-in-depth
 techniques for protection, detection, and timely response to network-based attacks.
-",TRUE,IVS-09,Shared (Dependent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 This is a Shared (Dependent) control for both the IaaS and PaaS CSP and the CSC.  For the SaaS solution, it is CSP-owned.
 In an IaaS service, the CSC shares responsibility with the CSP to deploy, manage, secure, and configure the networking solutions. Most networking security controls in a PaaS solution are provided by the CSP. In a SaaS service, network security controls are managed and secured for the CSC as part of a software core offering because the network infrastructure is abstracted.
 
@@ -5995,7 +5994,7 @@ The implementation guidelines provided for the CSP apply.
 Logging and Monitoring,Logging and Monitoring Policy and Procedures,LOG-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for logging and monitoring. Review and update the policies
 and procedures at least annually.
-",TRUE,LOG-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both the CSC and the CSP, however it is expected that the control is implemented independently by each party. Each party is expected to have different logging and monitoring policy requirements and procedures defined and adopted within their ecosystem that they should achieve respectively to their geographical location, contractual, and regulatory requirements.
 
 Implementation Guidelines.
@@ -6045,7 +6044,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Logging and Monitoring,Audit Logs Protection,LOG-02,"Define, implement and evaluate processes, procedures and technical
 measures to ensure the security and retention of audit logs.
-",TRUE,LOG-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both the CSC and the CSP, however it is expected that the control is implemented independently by each party. Both parties may have different processes, procedures and technical control measures required by contractual, regulatory, or legal factors for the protection and retention of audit logs.
 
 Implementation Guidelines.
@@ -6087,7 +6086,7 @@ Also, where the CSC uses the CSP to provide storage of log data or other such se
 Logging and Monitoring,Security Monitoring and Alerting,LOG-03,"Identify and monitor security-related events within applications
 and the underlying infrastructure. Define and implement a system to generate
 alerts to responsible stakeholders based on such events and corresponding metrics.
-",TRUE,LOG-03,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control’s implementation responsibility is shared between the CSP and CSC, however with a dependency between the two parties due to the CSP needing to provide access, forwarding, or the ability for the CSC to deploy its own logging and monitoring requirements for infrastructure and applications, where it may be required. Effective communication and collaboration between the CSP and CSC enables both parties to monitor and promptly detect, analyze, and respond to security-related events in the cloud environment.
 
 Implementation Guidelines.
@@ -6152,7 +6151,7 @@ SaaS Provider: The CSC should conduct its own additional monitoring of infrastru
 "
 Logging and Monitoring,Audit Logs Access and Accountability,LOG-04,"Restrict audit logs access to authorized personnel and maintain records
 that provide unique access accountability.
-",TRUE,LOG-04,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 This control’s implementation responsibility is shared between the CSP and CSC, however with a dependency between the two parties due to the CSP needing to provide such logging functionality to the CSC and capabilities that allow for the access restriction of logs and accountability of access.
 
 In instances where the CSC does not require their own ability and has shifted obligations for these to the CSP for all deployment models, the CSP would become the owner of the control but would require the CSC guidance on who may be authorized to access logs.
@@ -6209,7 +6208,7 @@ g. Internal Audits:  Audit logs should become accessible by the CSC for investig
 Logging and Monitoring,Audit Logs Monitoring and Response,LOG-05,"Monitor security audit logs to detect activity outside of typical
 or expected patterns. Establish and follow a defined process to review and take
 appropriate and timely actions on detected anomalies.
-",TRUE,LOG-05,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The CSP is responsible for defining a baseline of expected activity within the cloud infrastructure and access to cloud resources, and for analyzing the audit logs for any other activity that deviates from the baseline. The CSP also establishes a process to investigate the deviations by generating alerts and taking appropriate actions. The implementation responsibility for this control is owned by both CSP and CSC, and in a dependent manner, as the CSP should engage the CSC if the investigation or remediation action requires the involvement of the CSC’s personnel.
 
 Implementation Guidelines.
@@ -6256,7 +6255,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Logging and Monitoring,Clock Synchronization,LOG-06,"Use a reliable time source across all relevant information processing
 systems.
-",TRUE,LOG-06,Shared (Independent),Shared (Independent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Independent),CSP-Owned,"Control Ownership Rationale.
 The CSP should be responsible for synchronizing the system clocks across the cloud infrastructure and systems to ensure that the sequence of events can be properly reconstructed across the systems. 
 
 Implementation Guidelines.
@@ -6303,7 +6302,7 @@ g. Communication with CSP: Open communication with the CSP should be maintained 
 Logging and Monitoring,Logging Scope,LOG-07,"Establish, document and implement which information meta/data system
 events should be logged. Review and update the scope at least annually or whenever
 there is a change in the threat environment.
-",TRUE,LOG-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption. This control is shared between the CSC and the CSP. The control implementations however are Independent from each other. Both entities may have different logging and monitoring standards to capture events within their ecosystem with respect to their countries and contractual or regulatory requirements.
 
 Implementation Guidelines.
@@ -6382,7 +6381,7 @@ The implementation guidelines provided for the CSP apply.
 3. Examine scope for evidence of review at least annually.
 "
 Logging and Monitoring,Log Records,LOG-08,"Generate audit records containing relevant security information.
-",TRUE,LOG-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture. This control is shared between both the CSP and the CSC. The control implementations however are Independent of each other. The audit log of security events with relevant metadata should be maintained to support investigations or responding to regulatory tasks.
 
 Implementation Guidelines.
@@ -6412,7 +6411,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Logging and Monitoring,Log Protection,LOG-09,"The information system protects audit records from unauthorized access,
 modification, and deletion.
-",TRUE,LOG-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSP and the CSC. The controls however are implemented Independently from each other. The audit logs should be protected from unauthorized access and unauthorized changes to be permissible as authentic evidence for investigations or legal proceedings, and should be backed up regularly to ensure there is no loss of auditing and logging information.
 
 Implementation Guidelines.
@@ -6463,7 +6462,7 @@ f. Collaboration with CSP: Collaborate with the CSP to understand the security c
 Logging and Monitoring,Encryption Monitoring and Reporting,LOG-10,"Establish and maintain a monitoring and internal reporting capability
 over the operations of cryptographic, encryption and key management policies,
 processes, procedures, and controls.
-",TRUE,LOG-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP and CSC are responsible for independently implementing an internal monitoring and reporting process over cryptographic operations. Although the CSP is responsible for implementing the encryption protocol, it is the responsibility of the CSC to monitor and test proper use of cryptographic operations on their portion of their shared cloud infrastructure (refer to the CEK domain for more details on policies, processes, and controls for cryptography).
 
 Implementation Guidelines.
@@ -6501,7 +6500,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Logging and Monitoring,Transaction/Activity Logging,LOG-11,"Log and monitor key lifecycle management events to enable auditing
 and reporting on usage of cryptographic keys.
-",TRUE,LOG-11,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared by both the CSP and the CSP, independently by each. Encryption techniques as per the organization policies and procedures should be used to preserve the confidentiality and integrity of sensitive data. The use of encryption keys should be monitored and reported.
 
 Implementation Guidelines.
@@ -6540,7 +6539,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Logging and Monitoring,Access Control Logs,LOG-12,"Monitor and log physical access using an auditable access control
 system.
-",TRUE,LOG-12,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 The implementation responsibility for this control belongs exclusively to the CSP, since the CSP is the party managing the security of the physical infrastructure. It is therefore responsible for monitoring and logging physical access to it.
 
 Implementation Guidelines.
@@ -6584,7 +6583,7 @@ Not applicable to the CSC.
 Logging and Monitoring,Failures and Anomalies Reporting,LOG-13,"Define, implement and evaluate processes, procedures and technical
 measures for the reporting of anomalies and failures of the monitoring system
 and provide immediate notification to the accountable party.
-",TRUE,LOG-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The determination for this control objective remains the same regardless of the cloud architecture adopted. The control is implemented independently by the CSP and the CSC. The performance of logging process execution should be monitored to ensure the logs and backups are captured and maintained as per policy. Any logging-related failures should be identified and remediated using alternative recovery steps. 
 
 Implementation Guidelines.
@@ -6628,35 +6627,35 @@ The implementation guidelines provided for the CSP apply.
 2. Examine the process for identifying accountable parties.
 "
 Logging and Monitoring,Input Monitoring,LOG-14,"Log and monitor all input events (content and metadata) to enable auditing
-and reporting on the usage of AI models.",FALSE,,,,,,,
+and reporting on the usage of AI models.",,,,,
 Logging and Monitoring,Output Monitoring,LOG-15,"Log and monitor all output events (content and metadata) to enable auditing
-and reporting on usage of AI models.",FALSE,,,,,,,
+and reporting on usage of AI models.",,,,,
 Model Security,Training Pipeline Code Security,MDS-01,"Define, implement and evaluate processes, procedures and technical
-measures that ensure the security of the Training Pipeline Code following application security best practices (e.g OWASP Top 10...etc)",FALSE,,,,,,,
+measures that ensure the security of the Training Pipeline Code following application security best practices (e.g OWASP Top 10...etc)",,,,,
 Model Security,Model Vulnerability Scanning,MDS-02,"Define, implement, and evaluate processes, procedures, and technical
-measures for the periodic performance of vulnerability scanning at each step of the service lifecycle and at each hand over point.",FALSE,,,,,,,
-Model Security,Model Documentation / Model Card,MDS-03,"Define, implement, enforce, and evaluate a process for establishing, documenting, approving, communicating, applying, evaluating, and maintaining Model Cards.",FALSE,,,,,,,
-Model Security,Model Documentation / Model Card Requirements,MDS-04,"Ensure that the Model Card follows a standardized template that includes at a minimum: 1) a Description of the model purpose, 2) Example Input, 3) Example Output, 4) Ownership, 5) Source (URL/name if model is 3rd party), 6) Creation date, 7) Evaluation Data, 8) Version, 9) Change Log, 10) Training data Schema",FALSE,,,,,,,
+measures for the periodic performance of vulnerability scanning at each step of the service lifecycle and at each hand over point.",,,,,
+Model Security,Model Documentation / Model Card,MDS-03,"Define, implement, enforce, and evaluate a process for establishing, documenting, approving, communicating, applying, evaluating, and maintaining Model Cards.",,,,,
+Model Security,Model Documentation / Model Card Requirements,MDS-04,"Ensure that the Model Card follows a standardized template that includes at a minimum: 1) a Description of the model purpose, 2) Example Input, 3) Example Output, 4) Ownership, 5) Source (URL/name if model is 3rd party), 6) Creation date, 7) Evaluation Data, 8) Version, 9) Change Log, 10) Training data Schema",,,,,
 Model Security,Model Documentation / Model Card Requirements,MDS-05,"Define, implement, and evaluate processes, procedures, and technical
-measures for the periodic validation of the Model Card with the purpose of ensuring the consistency of the Model Card with the Model implementation",FALSE,,,,,,,
-Model Security,Adversarial Attack Analysis,MDS-06,"Define, implement, and evaluate processes and technical measures to regularly assess adversarial threats specific to each AI model. Prioritize potential attack vectors based on model architecture, data sources, and deployment environments",FALSE,,,,,,,
+measures for the periodic validation of the Model Card with the purpose of ensuring the consistency of the Model Card with the Model implementation",,,,,
+Model Security,Adversarial Attack Analysis,MDS-06,"Define, implement, and evaluate processes and technical measures to regularly assess adversarial threats specific to each AI model. Prioritize potential attack vectors based on model architecture, data sources, and deployment environments",,,,,
 Model Security,Robustness against Adversarial Attack / Model Hardening,MDS-07,"Define, implement, and evaluate processes, procedures, and technical
-measures for Model Hardening to mitigate relevant adversarial attacks as identified in the Threat Analysis and Adversarial Threat Analysis (see control MDS-06)",FALSE,,,,,,,
-Model Security,Integrity Checks,MDS-08,"Regularly calculate and compare checksums using cryptographic hashes of model checkpoints to detect unauthorized modifications (e.g. Model version pinning). Apply at least annually based on the level of risk, or after any change of hands.",FALSE,,,,,,,
+measures for Model Hardening to mitigate relevant adversarial attacks as identified in the Threat Analysis and Adversarial Threat Analysis (see control MDS-06)",,,,,
+Model Security,Integrity Checks,MDS-08,"Regularly calculate and compare checksums using cryptographic hashes of model checkpoints to detect unauthorized modifications (e.g. Model version pinning). Apply at least annually based on the level of risk, or after any change of hands.",,,,,
 Model Security,Model Signing/Ownership Verification,MDS-09,"Sign models cryptographically and verify signatures to ensure model provenance and ownership, any time the model changes hands or is loaded from storage.
-",FALSE,,,,,,,
-Model Security,Model Continuous Monitoring,MDS-10,"Define, implement, and evaluate processes, procedures, and technical measures for continuous monitoring of model performance metrics over time to identify sudden shifts or unexpected changes in predictions that could degrade model decision-making.",FALSE,,,,,,,
+",,,,,
+Model Security,Model Continuous Monitoring,MDS-10,"Define, implement, and evaluate processes, procedures, and technical measures for continuous monitoring of model performance metrics over time to identify sudden shifts or unexpected changes in predictions that could degrade model decision-making.",,,,,
 Model Security,Model Failure,MDS-11,"Redundancy in AI systems (multiple models or backups)
 Implement redundancy in AI systems by deploying multiple models, apps, agents, RAG pipelines, etc or maintaining backups to ensure continued operation in case of failures in individual models.
 
 Failure in a model among of a Mixture of experts, differing order of responses from MoE, degradation of quality of answers. Consider both quorom and quality.
 Failover mechanisms for automatic recovery from failures
-Design and implement failover mechanisms that can automatically switch to backup models or perform other recovery actions in case of failures.",FALSE,,,,,,,
-Model Security,Open weight model,MDS-12,"Periodically review risk factors associated with the use of open weight models. Establish a process to evaluate open weight models, and to monitor and mitigate vulnerabilities through methods such as changing system prompts, adding application guardrails, or fine tuning.",FALSE,,,,,,,
+Design and implement failover mechanisms that can automatically switch to backup models or perform other recovery actions in case of failures.",,,,,
+Model Security,Open weight model,MDS-12,"Periodically review risk factors associated with the use of open weight models. Establish a process to evaluate open weight models, and to monitor and mitigate vulnerabilities through methods such as changing system prompts, adding application guardrails, or fine tuning.",,,,,
 "Security Incident Management, E-Discovery, & Cloud Forensics",Security Incident Management Policy and Procedures,SEF-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for Security Incident Management, E-Discovery, and Cloud
 Forensics. Review and update the policies and procedures at least annually.
-",TRUE,SEF-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently establish their own policies and procedures for Security Incident Management. 
 
 Implementation Guidelines.
@@ -6720,7 +6719,7 @@ The implementation guidelines provided for the CSP apply.
 "Security Incident Management, E-Discovery, & Cloud Forensics",Service Management Policy and Procedures,SEF-02,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for the timely management of security incidents. Review
 and update the policies and procedures at least annually.
-",TRUE,SEF-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control’s ownership is ""Shared (Independent)"" as the CSP and CSC independently establish their own policies and procedures for Security Incident Management. The policies and procedures should clearly define roles and responsibilities and any shared responsibilities with the use of KSSRIs or KSCSRIs throughout all phases of the Security Incident Management process, including chain of custody for forensic evidence and legal obligations between the CSP and CSC.
 
 Implementation Guidelines.
@@ -6758,7 +6757,7 @@ The implementation guidelines provided for the CSP apply.
 a security incident response plan, which includes but is not limited to: relevant
 internal departments, impacted CSCs, and other business critical relationships
 (such as supply-chain) that may be impacted.'
-",TRUE,SEF-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Incident Response Plans control ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently establish their own security IR plan and own the responsibility. The IR plans should clearly define roles and responsibilities and any shared responsibilities with the use of KSSRIs or KSCSRIs where possible.
 
 Implementation Guidelines.
@@ -6810,7 +6809,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Security Incident Management, E-Discovery, & Cloud Forensics",Incident Response Testing,SEF-04,"Test and update as necessary incident response plans at planned intervals
 or upon significant organizational or environmental changes for effectiveness.
-",TRUE,SEF-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The control’s ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently test and update their individual organization’s IR plan.
 
 Implementation Guidelines.
@@ -6842,7 +6841,7 @@ The implementation guidelines provided for the CSP apply.
 2. Verify if the organization has reviewed and acted upon the results of its exercising and testing to implement changes and improvements.
 "
 "Security Incident Management, E-Discovery, & Cloud Forensics",Incident Response Metrics,SEF-05,"Establish and monitor information security incident metrics.
-",TRUE,SEF-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a shared responsibility between the CSP and the CSC to ensure that appropriate security incident metrics are established and monitored.  
 
 Implementation Guidelines.
@@ -6892,7 +6891,7 @@ In addition, the CSC should define, implement, and monitor security incident met
 "
 "Security Incident Management, E-Discovery, & Cloud Forensics",Event Triage Processes,SEF-06,"Define, implement and evaluate processes, procedures and technical
 measures supporting business processes to triage security-related events.
-",TRUE,SEF-06,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The implementation responsibility between the CSP and the CSC is typically both shared and dependent, as collaboration is necessary for effective triage of a security event. Triage is used for identifying, evaluating, prioritizing and responding to security events (and potential incidents) that impact both parties. The CSP can provide valuable insights into potential sources or root causes of the security event, while the CSC can contribute information specific to their data, configuration, applications, and user activity. This joint effort helps to identify the event’s scope and potential impact, leading to a more targeted and efficient response. 
 
 For example, a security incident occurring in the platform layer for an IaaS infrastructure should be driven jointly by the CSC and the CSP to determine if it originated in the CSC’s environment or the CSP’s environment.
@@ -6938,7 +6937,7 @@ v. Guidance and assistance from the CSP's security team is encouraged in definin
 for security breach notifications. Report security breaches and assumed security
 breaches including any relevant supply chain breaches, as per applicable SLAs,
 laws and regulations.
-",TRUE,SEF-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is “Shared (Independent)” since both CSP and CSC are responsible for ensuring that security breach notifications are disclosed according to the local legal and regulatory requirements as stated in the services agreement. The controls however are Independent from one another. Both entities may require different processes, procedures, and technical controls.
 
 Implementation Guidelines.
@@ -6967,7 +6966,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Security Incident Management, E-Discovery, & Cloud Forensics",Points of Contact Maintenance,SEF-08,"Maintain points of contact for applicable regulation authorities,
 national and local law enforcement, and other legal jurisdictional authorities.
-",TRUE,SEF-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is “Shared (Independent)” since both the CSP and CSC are responsible for the maintenance and documentation of points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities. 
 
 Implementation Guidelines.
@@ -6995,12 +6994,12 @@ The implementation guidelines provided for the CSP apply.
 2. Verify if the organization has updated the list of  points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities.
 3. Examine when the last updates were done and if there is a schedule for reviewing and updating these contacts.
 "
-"Security Incident Management, E-Discovery, & Cloud Forensics",Control on Incident Response,SEF-09,Define and implement procedures for response to any detected security incidents.,FALSE,,,,,,,
+"Security Incident Management, E-Discovery, & Cloud Forensics",Control on Incident Response,SEF-09,Define and implement procedures for response to any detected security incidents.,,,,,
 "Supply Chain Management, Transparency, and Accountability",SSRM Policy and Procedures,STA-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for the application of the Shared Security Responsibility
 Model (SSRM) within the organization. Review and update the policies and procedures
 at least annually.
-",TRUE,STA-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSC and CSP should independently establish and maintain their own SSRM shared but independent policies and procedures.
 
 Implementation Guidelines.
@@ -7051,7 +7050,7 @@ Also, there may be variances in the specific procedures needed for different clo
 "
 "Supply Chain Management, Transparency, and Accountability",SSRM Supply Chain,STA-02,"Apply, document, implement and manage the SSRM throughout the supply
 chain for the cloud service offering.
-",TRUE,STA-02,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The ownership of this control is “Shared (Dependent).”  While the initial version of the SSRM is developed by the CSP for its product offering, the finalization, implementation, and management of the SSRM should be performed collaboratively.
 
 Implementation Guidelines.
@@ -7090,7 +7089,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Supply Chain Management, Transparency, and Accountability",SSRM Guidance,STA-03,"Provide SSRM Guidance to the CSC detailing information about the
 SSRM applicability throughout the supply chain.
-",TRUE,STA-03,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 Implementation responsibility for CCM control STA-03 lies solely with the CSP.
 
 Implementation Guidelines.
@@ -7116,7 +7115,7 @@ Not applicable for the CSC.
 "
 "Supply Chain Management, Transparency, and Accountability",SSRM Control Ownership,STA-04,"Delineate the shared ownership and applicability of all CSA CCM controls
 according to the SSRM for the cloud service offering.
-",TRUE,STA-04,CSP-Owned,CSP-Owned,CSP-Owned,"Control Ownership Rationale.
+",CSP-Owned,CSP-Owned,"Control Ownership Rationale.
 Implementation responsibility for CCM control STA-04 lies solely with the CSP.
 
 Implementation Guidelines.
@@ -7154,7 +7153,7 @@ Not applicable for the CSC.
 "
 "Supply Chain Management, Transparency, and Accountability",SSRM Documentation Review,STA-05,"Review and validate SSRM documentation for all cloud services offerings
 the organization uses.
-",TRUE,STA-05,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The CSP and CSC should jointly review the SSRM documentation and finalize responsibilities for the cloud service offering.
 
 Implementation Guidelines.
@@ -7181,7 +7180,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Supply Chain Management, Transparency, and Accountability",SSRM Control Implementation,STA-06,"Implement, operate, and audit or assess the portions of the SSRM
 which the organization is responsible for.
-",TRUE,STA-06,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The implementation and ongoing operation of the SSRM is a shared activity between the CSC and CSP.  
 
 Implementation Guidelines.
@@ -7214,7 +7213,7 @@ The implementation guidelines provided for the CSP apply.
 4. Examine measure(s) that evaluate(s) the organization's compliance with the third-party management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level.
 "
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Inventory,STA-07,"Develop and maintain an inventory of all supply chain relationships.
-",TRUE,STA-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is independently implemented by the CSP and CSC.  Each party's supply chain inventory and inventory management practices are independent of the other.
 
 Implementation Guidelines.
@@ -7254,7 +7253,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Risk Management,STA-08,"CSPs periodically review risk factors associated with all organizations
 within their supply chain.
-",TRUE,STA-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control is independently implemented by the CSP and CSC.  Each party's review of its own supply chain risks is independent of the other.
 
 Implementation Guidelines.
@@ -7302,7 +7301,7 @@ The implementation guidelines provided for the CSP apply.
 • Service termination
 • Interoperability and portability requirements
 • Data privacy
-",TRUE,STA-09,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The CSC and CSP should jointly negotiate and execute a contractual agreement that addresses the security provisions for the cloud service offering.
 
 Implementation Guidelines.
@@ -7340,7 +7339,7 @@ The implementation guidelines provided for the CSP apply.
 2. Examine the policy related to the review of third-party services to determine if the organization incorporates compliance by third parties.
 "
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Agreement Review,STA-10,"Review supply chain agreements between CSPs and CSCs at least annually.
-",TRUE,STA-10,Shared (Dependent),Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
+",Shared (Dependent),Shared (Dependent),"Control Ownership Rationale.
 The annual review of the contractual agreement is a shared activity between the CSP and CSC.  
 
 Implementation Guidelines.
@@ -7365,7 +7364,7 @@ The implementation guidelines provided for the CSP apply.
 "Supply Chain Management, Transparency, and Accountability",Internal Compliance Testing,STA-11,"Define and implement a process for conducting internal assessments
 to confirm conformance and effectiveness of standards, policies, procedures,
 and service level agreement activities at least annually.
-",TRUE,STA-11,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Both the CSP and CSC should perform independent internal assessments of their control implementations.
 
 Implementation Guidelines.
@@ -7393,7 +7392,7 @@ The implementation guidelines provided for the CSP apply.
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Service Agreement Compliance,STA-12,"Implement policies requiring all CSPs throughout the supply chain
 to comply with information security, confidentiality, access control, privacy,
 audit, personnel policy and service level requirements and standards.
-",TRUE,STA-12,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The CSP and CSC should independently implement policies and contract provisions to require that all organizations in their supply chain implement adequate security program controls related to the cloud service offering.
 
 Implementation Guidelines.
@@ -7414,7 +7413,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Governance Review,STA-13,"Periodically review the organization's supply chain partners' IT
 governance policies and procedures.
-",TRUE,STA-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control should be independently implemented by both the CSC and CSP.  Each party's review of the IT governance policies and procedures of their suppliers is independent of each other.
 
 Implementation Guidelines.
@@ -7446,7 +7445,7 @@ The implementation guidelines provided for the CSP apply.
 "
 "Supply Chain Management, Transparency, and Accountability",Supply Chain Data Security Assessment,STA-14,"Define and implement a process for conducting security assessments
 periodically for all organizations within the supply chain.
-",TRUE,STA-14,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This control should be independently implemented by both the CSP and CSC.  Each party's review of the security programs of their suppliers is independent of each other.
 
 Implementation Guidelines.
@@ -7487,12 +7486,12 @@ The implementation guidelines provided for the CSP apply.
 3. Determine if procedures exist for identification of risks related to external parties
 4. Evaluate evidence of the conduct of assessments of organizations within the supply chain, periodically as required by the policy.
 "
-"Supply Chain Management, Transparency, and Accountability",Security Boundaries,STA-15,"Establish security boundaries for testing and staging environments (or the three attack surfaces of ""user input"", ""training data"", and ""AI model"") based on the risk level of AI systems, for AI applications that mirrors the standards for production applications to prevent them from compromising the entire system. The security boundary is the need-to-know of the role of the LLM agent and the associated risk level of the AI system. This security boundary should follow the LLM agent wherever it goes.",FALSE,,,,,,,
+"Supply Chain Management, Transparency, and Accountability",Security Boundaries,STA-15,"Establish security boundaries for testing and staging environments (or the three attack surfaces of ""user input"", ""training data"", and ""AI model"") based on the risk level of AI systems, for AI applications that mirrors the standards for production applications to prevent them from compromising the entire system. The security boundary is the need-to-know of the role of the LLM agent and the associated risk level of the AI system. This security boundary should follow the LLM agent wherever it goes.",,,,,
 Threat & Vulnerability Management,Threat and Vulnerability Management Policy and Procedures,TVM-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures to identify, report and prioritize the remediation of
 vulnerabilities, in order to protect systems against vulnerability exploitation.
 Review and update the policies and procedures at least annually.
-",TRUE,TVM-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is “Shared” and both parties CSP and CSC are independently responsible for implementing policies and procedures to identify, report and prioritize the remediation of vulnerabilities, according to their own business needs and compliance requirements, and irrespectively of the cloud service delivery models (IaaS/PaaS/SaaS).
 
 The CSP may provide the CSC with reasonable and sufficient capabilities and tools to identify vulnerabilities and protect their workloads (including but not limited to: virtual machines, serverless, databases, networks, containers, and web applications).
@@ -7541,7 +7540,7 @@ In addition, while the SaaS customer is not responsible for identifying infrastr
 Threat & Vulnerability Management,Malware Protection Policy and Procedures,TVM-02,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures to protect against malware on managed assets. Review
 and update the policies and procedures at least annually.
-",TRUE,TVM-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 Malware protection policies and procedures should be implemented and integrated across all computing infrastructure, including compute, network devices, endpoints, and secure access gateways. Therefore, the implementation responsibility of this control pertains to both CSP and CSC, irrespective of the three cloud service delivery models (IaaS/PaaS/SaaS) and it should be independently implemented by each party.
 
 Implementation Guidelines.
@@ -7586,7 +7585,7 @@ The implementation guidelines provided for the CSP apply.
 Threat & Vulnerability Management,Vulnerability Remediation Schedule,TVM-03,"Define, implement and evaluate processes, procedures and technical
 measures to enable both scheduled and emergency responses to vulnerability identifications,
 based on the identified risk.
-",TRUE,TVM-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is “Shared” and both parties CSP and CSC are independently responsible for implementing a vulnerability remediation schedule according to their own business needs and compliance requirements, and irrespectively of the cloud service delivery models (IaaS/PaaS/SaaS).
 
 Implementation Guidelines.
@@ -7677,7 +7676,7 @@ The implementation guidelines provided for the CSP apply.
 Threat & Vulnerability Management,Detection Updates,TVM-04,"Define, implement and evaluate processes, procedures and technical
 measures to update detection tools, threat signatures, and indicators of compromise
 on a weekly, or more frequent basis.
-",TRUE,TVM-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a Shared (Independent) control for IaaS, PaaS, and SaaS and should be implemented and operated both by the CSP and the CSC. The types of activities, events, or states for which detection tools, signatures, and indicators of compromise are defined, implemented, and evaluated will vary across each instance of IaaS, PaaS, and SaaS. The CSP and the CSC are independently responsible for determining which such detection specifications are necessary for their respective requirements and to ensure these are adequately defined, implemented, and operated.
 For SaaS implementations, CSPs will typically be responsible for this control; however, there are specific use cases where the CSC and CSP have a shared responsibility in this area.
 
@@ -7718,7 +7717,7 @@ The CSC is, for example, often particularly responsible for defining, implementi
 Threat & Vulnerability Management,External Library Vulnerabilities,TVM-05,"Define, implement and evaluate processes, procedures and technical
 measures to identify updates for applications which use third party or open
 source libraries according to the organization's vulnerability management policy.
-",TRUE,TVM-05,Shared (Independent),Shared (Independent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Independent),CSP-Owned,"Control Ownership Rationale.
 This is a “Shared (Independent)” control for IaaS and PaaS, as in both the IaaS and PaaS service models, external libraries and the capabilities and responsibilities for the management of external libraries, including their associated vulnerabilities, can exist in both the CSP- and CSC-controlled layers. For IaaS and PaaS, this control specification therefore should be implemented by each the CSP and the CSC.
 
 For SaaS, external libraries and the capabilities and responsibilities for the management of external libraries, including their associated vulnerabilities, exist exclusively in the CSP layer, and the CSP is solely responsible for the implementation and operation of this control.
@@ -7757,7 +7756,7 @@ Not applicable. The CSP is solely responsible for the implementation and operati
 Threat & Vulnerability Management,Penetration Testing,TVM-06,"Define, implement and evaluate processes, procedures and technical
 measures for the periodic performance of penetration testing by independent
 third parties.
-",TRUE,TVM-06,Shared (Dependent),Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
+",Shared (Dependent),CSP-Owned,"Control Ownership Rationale.
 This is a “Shared (Dependent)” control for IaaS and PaaS, as in both the IaaS and PaaS service models, systems, resources, and technologies can exist under the control of either the CSP or CSC where the systems, resources, and technologies are potentially subject to misconfiguration, inadequate design or implementation, or inadequate control against which the performance of such a simulated attack is desirable to determine whether the vulnerability is genuine. For IaaS and PaaS, this control specification should be implemented by each the CSP and the CSC.
 For SaaS, the systems, the resources, and technologies for which a penetration test is valuable exist exclusively in the CSP layer, and the CSP is solely responsible for the implementation and operation of this control.
 There can be vulnerabilities within a SaaS application configuration that can be exploited as part of a penetration test and which are the responsibility of the CSC to manage and remediate; however, those are not pen testing responsibilities addressed through this control but are vulnerability management controls addressed through a number of other TVM family controls.
@@ -7816,7 +7815,7 @@ Not applicable. The CSP is solely responsible for the implementation and operati
 Threat & Vulnerability Management,Vulnerability Identification,TVM-07,"Define, implement and evaluate processes, procedures and technical
 measures for the detection of vulnerabilities on organizationally managed assets
 at least monthly.
-",TRUE,TVM-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for IaaS, PaaS, and SaaS as in the three service models, assets and resources can exist under the control of either the CSP or CSC, where the respective systems and technologies are potentially subject to vulnerabilities that should be detected and managed. For IaaS and PaaS, potential vulnerabilities of the assets and resources often include both software flaws, misconfigurations, and control gaps and can exist for assets and resources under the control of the CSP as well as those under the control of the CSC. 
 For SaaS, potential vulnerabilities of the assets and resources generally include software flaws only for the CSP’s area of control, and misconfiguration and control gap vulnerabilities in both the CSP’s and the CSC’s areas of control.
 
@@ -7911,7 +7910,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Threat & Vulnerability Management,Vulnerability Prioritization,TVM-08,"Use a risk-based model for effective prioritization of vulnerability
 remediation using an industry recognized framework.
-",TRUE,TVM-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both parties CSP and CSC, and both are independently responsible for implementing a risk-based model for vulnerability prioritization according to their own business needs and compliance requirements, and irrespectively of the cloud service delivery models (IaaS/PaaS/SaaS). Each party, CSP and CSC is responsible for the remediation of vulnerabilities identified within the assets they own and securely manage.
 
 Implementation Guidelines.
@@ -7964,7 +7963,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Threat & Vulnerability Management,Vulnerability Management Reporting,TVM-09,"Define and implement a process for tracking and reporting vulnerability
 identification and remediation activities that includes stakeholder notification.
-",TRUE,TVM-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both parties CSP and CSC, and both are independently responsible for implementing a vulnerabilities tracking and reporting process, according to their own business needs and compliance requirements, and irrespectively of the cloud service delivery models (IaaS/PaaS/SaaS). The CSP and CSC are responsible for tracking and reporting vulnerability identifications within the assets they own and securely manage.
 
 Implementation Guidelines.
@@ -8004,7 +8003,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Threat & Vulnerability Management,Vulnerability Management Metrics,TVM-10,"Establish, monitor and report metrics for vulnerability identification
 and remediation at defined intervals.
-",TRUE,TVM-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 The implementation responsibility for this control is shared between both CSP and CSC, and both are independently responsible for establishing, monitor and report metrics on vulnerabilities identification and remediation, according to their own business needs and compliance requirements, and irrespectively of the cloud service delivery models (IaaS/PaaS/SaaS). The CSP and CSC should each have established a defined frequency of collecting metrics for vulnerability identification, remediation, and reporting within the assets they own and securely manage. This activity can be part of an existing and overarching policy and standard such as TVM, Vulnerability Scanning, and Patch Management policies.
 
 Implementation Guidelines.
@@ -8059,14 +8058,14 @@ The implementation guidelines provided for the CSP apply.
 3. Determine if reports are sent at the defined intervals.
 "
 Threat & Vulnerability Management,Guardrails,TVM-11,"Define, implement and evaluate processes, procedures and technical
-measures to apply guardrails to the AI system",FALSE,,,,,,,
+measures to apply guardrails to the AI system",,,,,
 Threat & Vulnerability Management,Human supervision (legal mandated / high-risk use cases),TVM-12,"Define, implement and evaluate processes, procedures and technical
-measures to apply human supervision (and control) of the AI system",FALSE,,,,,,,
-Threat & Vulnerability Management,Model Threat Analysis,TVM-13,Define and implement a process for Model Threat Analysis. Use the CSA GenAI Risk Scenarios for reference,FALSE,,,,,,,
+measures to apply human supervision (and control) of the AI system",,,,,
+Threat & Vulnerability Management,Model Threat Analysis,TVM-13,Define and implement a process for Model Threat Analysis. Use the CSA GenAI Risk Scenarios for reference,,,,,
 Universal Endpoint Management,Endpoint Devices Policy and Procedures,UEM-01,"Establish, document, approve, communicate, apply, evaluate and maintain
 policies and procedures for all endpoints. Review and update the policies and
 procedures at least annually.
-",TRUE,UEM-01,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since all endpoint devices utilized to access cloud services should be managed within corporate policy and in line with industry standards.
 
 Implementation Guidelines.
@@ -8111,7 +8110,7 @@ The implementation guidelines provided for the CSP apply.
 Universal Endpoint Management,Application and Service Approval,UEM-02,"Define, document, apply and evaluate a list of approved services,
 applications and sources of applications (stores) acceptable for use by endpoints
 when accessing or storing organization-managed data.
-",TRUE,UEM-02,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since the they should both should maintain an approved list of applications that can be installed on all endpoint devices utilized to access cloud services based on operating systems (OS)/platforms, such as but not limited to: Linux, Windows, MacOS, Android, and iOS. This is not a service delivery model (IaaS, PaaS, or SaaS) specific.
 
 Implementation Guidelines.
@@ -8134,7 +8133,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Compatibility,UEM-03,"Define and implement a process for the validation of the endpoint
 device's compatibility with operating systems and applications.
-",TRUE,UEM-03,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since they should both have documented processes and procedures in place to ensure endpoint device compatibility with operating systems and applications.
 
 Implementation Guidelines.
@@ -8156,7 +8155,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Endpoint Inventory,UEM-04,"Maintain an inventory of all endpoints used to store and access company
 data.
-",TRUE,UEM-04,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since they should both maintain an accurate and up-to-date centralized inventory of all endpoints used to store and access organizational data.
 
 Implementation Guidelines.
@@ -8181,7 +8180,7 @@ The implementation guidelines provided for the CSP apply.
 Universal Endpoint Management,Endpoint Management,UEM-05,"Define, implement and evaluate processes, procedures and technical
 measures to enforce policies and controls for all endpoints permitted to access
 systems and/or store, transmit, or process organizational data.
-",TRUE,UEM-05,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since they should each implement measures to enforce their respective policies and controls across all endpoints uniformly, ideally with a centralized configuration management tool.
 
 Implementation Guidelines.
@@ -8203,7 +8202,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Automatic Lock Screen,UEM-06,"Configure all relevant interactive-use endpoints to require an automatic
 lock screen.
-",TRUE,UEM-06,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since each should configure their respective interactive-use endpoints to require an automatic lock screen.
 
 Implementation Guidelines.
@@ -8221,7 +8220,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Operating Systems,UEM-07,"Manage changes to endpoint operating systems, patch levels, and/or
 applications through the company's change management processes.
-",TRUE,UEM-07,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since they should each manage their changes inclusive of patching to endpoint operating systems and applications through their respective change management processes.
 
 Implementation Guidelines.
@@ -8246,7 +8245,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Storage Encryption,UEM-08,"Protect information from unauthorized disclosure on managed endpoint
 devices with storage encryption.
-",TRUE,UEM-08,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control. Its implementation is not service delivery model specific (IaaS, PaaS, or SaaS).  Both the CSP and CSC are responsible for enforcing storage encryption on their respective endpoint devices.
 
 Implementation Guidelines.
@@ -8269,7 +8268,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Anti-Malware Detection and Prevention,UEM-09,"Configure managed endpoints with anti-malware detection and prevention
 technology and services.
-",TRUE,UEM-09,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since both should implement endpoint security on processes and technology, including anti-malware software to mitigate the risk of exploitation by malicious actors.
 
 Implementation Guidelines.
@@ -8293,7 +8292,7 @@ The implementation guidelines provided for the CSP apply.
 2. Determine if such controls are in place and evaluated as effective.
 "
 Universal Endpoint Management,Software Firewall,UEM-10,"Configure managed endpoints with properly configured software firewalls.
-",TRUE,UEM-10,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since they should each maintain properly configured firewalls on their respective endpoints. The endpoint firewalls should inspect traffic, apply rules, and perform behavioral monitoring.
 
 Implementation Guidelines.
@@ -8318,7 +8317,7 @@ The implementation guidelines provided for the CSP apply.
 "
 Universal Endpoint Management,Data Loss Prevention,UEM-11,"Configure managed endpoints with Data Loss Prevention (DLP) technologies
 and rules in accordance with a risk assessment.
-",TRUE,UEM-11,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since they should each prevent data leakage by implementing an effective data leakage prevention (DLP) program that covers all endpoints and ensures that appropriate rules are defined and implemented, with monitoring, alerting, and response process in place.
 
 Implementation Guidelines.
@@ -8341,7 +8340,7 @@ The implementation guidelines provided for the CSP apply.
 4. Determine if such controls are in place and evaluated as effective.
 "
 Universal Endpoint Management,Remote Locate,UEM-12,"Enable remote geo-location capabilities for all managed mobile endpoints.
-",TRUE,UEM-12,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since both the CSP and CSC should be able to remotely manage the endpoint device if it is lost or stolen.
 
 Implementation Guidelines.
@@ -8366,7 +8365,7 @@ The implementation guidelines provided for the CSP apply.
 Universal Endpoint Management,Remote Wipe,UEM-13,"Define, implement and evaluate processes, procedures and technical
 measures to enable the deletion of company data remotely on managed endpoint
 devices.
-",TRUE,UEM-13,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC, since they each need to remotely manage a mobile device if it is lost or stolen.
 
 Implementation Guidelines.
@@ -8395,7 +8394,7 @@ The implementation guidelines provided for the CSP apply.
 Universal Endpoint Management,Third-Party Endpoint Security Posture,UEM-14,"Define, implement and evaluate processes, procedures and technical
 and/or contractual measures to maintain proper security of third-party endpoints
 with access to organizational assets.
-",TRUE,UEM-14,Shared (Independent),Shared (Independent),Shared (Independent),"Control Ownership Rationale.
+",Shared (Independent),Shared (Independent),"Control Ownership Rationale.
 This is a “Shared (Independent)” control for both the CSP and CSC since they each should perform due diligence before granting third-party access to the organizational data or establishing connectivity (and periodically thereafter, commensurate with the risk level of the third-party relationship).
 
 Implementation Guidelines.
