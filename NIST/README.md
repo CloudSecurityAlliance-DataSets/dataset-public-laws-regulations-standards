@@ -29,6 +29,12 @@ marker_single nist.ai.100-1.pdf ./
 
 ## NIST.AI.600-1.pdf
 
+Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
+
+aka
+
+AI RMF / AI RMF GenAI Profile
+
 https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
 
 ```
