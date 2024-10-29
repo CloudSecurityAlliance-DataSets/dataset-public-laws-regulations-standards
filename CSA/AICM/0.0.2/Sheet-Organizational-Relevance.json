@@ -26,7 +26,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational cybersecurity team and/or capability"
+                    "description": "false - this control is NOT related to the organizational cybersecurity team and/or capability"
                 }
             ]
         },
@@ -49,7 +49,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Internal Audit team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Internal Audit team and/or capability"
                 }
             ]
         },
@@ -72,7 +72,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Architecture team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Architecture team and/or capability"
                 }
             ]
         },
@@ -95,7 +95,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Software Development team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Software Development team and/or capability"
                 }
             ]
         },
@@ -118,7 +118,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Operations team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Operations team and/or capability"
                 }
             ]
         },
@@ -141,7 +141,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Legal/Privacy team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Legal/Privacy team and/or capability"
                 }
             ]
         },
@@ -164,7 +164,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Governance, Risk, and Compliance (GRC) team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Governance, Risk, and Compliance (GRC) team and/or capability"
                 }
             ]
         },
@@ -187,7 +187,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational supply chain management team and/or capability"
+                    "description": "false - this control is NOT related to the organizational supply chain management team and/or capability"
                 }
             ]
         },
@@ -210,7 +210,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control is related to the organizational Human Resources team and/or capability"
+                    "description": "false - this control is NOT related to the organizational Human Resources team and/or capability"
                 }
             ]
         }

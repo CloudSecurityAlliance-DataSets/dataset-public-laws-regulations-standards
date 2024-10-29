@@ -26,7 +26,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to model manipulation"
+                    "description": "false - this control does NOT affect threats related to model manipulation"
                 }
             ]
         },
@@ -49,7 +49,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to data poisoning"
+                    "description": "false - this control does NOT affect threats related to data poisoning"
                 }
             ]
         },
@@ -72,7 +72,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to sensitive data disclosure"
+                    "description": "false - this control does NOT affect threats related to sensitive data disclosure"
                 }
             ]
         },
@@ -95,7 +95,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to model theft"
+                    "description": "false - this control does NOT affect threats related to model theft"
                 }
             ]
         },
@@ -118,7 +118,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to model/Service Failure/Malfunctioning"
+                    "description": "false - this control does NOT affect threats related to model/Service Failure/Malfunctioning"
                 }
             ]
         },
@@ -141,7 +141,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to insecure supply chain"
+                    "description": "false - this control does NOT affect threats related to insecure supply chain"
                 }
             ]
         },
@@ -164,7 +164,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to insecure apps/plugins"
+                    "description": "false - this control does NOT affect threats related to insecure apps/plugins"
                 }
             ]
         },
@@ -187,7 +187,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to Denial of Service (DoS)"
+                    "description": "false - this control does NOT affect threats related to Denial of Service (DoS)"
                 }
             ]
         },
@@ -210,7 +210,7 @@
                     "value": "false",
                     "display_value": "false",
                     "id": "false",
-                    "description": "false - this control affects threats related to loss of governance/compliance"
+                    "description": "false - this control does NOT affect threats related to loss of governance/compliance"
                 }
             ]
         }
