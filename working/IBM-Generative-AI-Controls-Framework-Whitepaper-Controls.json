@@ -1,1 +1,394 @@
-../vendors/IBM/IBM-Generative-AI-Controls-Framework-Whitepaper-Controls.json
+[
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Governance Program",
+        "Control ID": "Gov 1.1",
+        "Control Name": "Policies, Processes, & Procedures Established",
+        "Control Requirements": "Establish an internal AI governance structure, policies and mechanism to direct, monitor and control AI systems development and deployment."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Governance Program",
+        "Control ID": "Gov 1.2",
+        "Control Name": "AI Roles & Responsibilities Structure",
+        "Control Requirements": "Senior management assigns authority and holds people accountable for adhering to an organization's AI policies, processes and objectives."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Governance Program",
+        "Control ID": "Gov 1.3",
+        "Control Name": "AI Program Effectiveness and Risk Monitored",
+        "Control Requirements": "Ongoing monitoring and periodic review of the risk management process and its outcomes are planned including determining the frequency of periodic review."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Governance Program",
+        "Control ID": "Gov 1.4",
+        "Control Name": "AI Training Program",
+        "Control Requirements": "The organization’s personnel and partners receive AI risk management training to enable them to perform their duties and responsibilities consistent with related policies, procedures, and agreements."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Risk Management",
+        "Control ID": "Gov 2.1",
+        "Control Name": "Risk Management Processes",
+        "Control Requirements": "Risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk priorities."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Risk Management",
+        "Control ID": "Gov 2.2",
+        "Control Name": "Risk Assessment and Tolerances",
+        "Control Requirements": "Senior management identifies the AI system needs and uses the collected information to establish risk thresholds, provide resources to ensure that staff are familiar with AI policies and procedures."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Risk Management",
+        "Control ID": "Gov 2.3",
+        "Control Name": "Gen AI Program Inventory",
+        "Control Requirements": "Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Regulatory Compliance",
+        "Control ID": "Gov 3.1",
+        "Control Name": "Ongoing Compliance & Regulatory Watch",
+        "Control Requirements": "Legal and regulatory requirements involving AI are understood, managed, and documented."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "AI Regulatory Compliance",
+        "Control ID": "Gov 3.2",
+        "Control Name": "Report Identified Incidents",
+        "Control Requirements": "Document and report incidents and related information on incident control actions with designated authorities."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Category": "Supply Chain Security",
+        "Control ID": "Gov 4.1",
+        "Control Name": "Supplier Risk Management",
+        "Control Requirements": "AI risks and benefits from third-party resources are regularly monitored, and risk controls are applied and documented."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Safety",
+        "Control ID": "App 1.1",
+        "Control Name": "Document AI System Capabilities, Limitations, and Acceptable Usages",
+        "Control Requirements": "Document and report AI systems capabilities, limitations, acceptable and unacceptable usage. Include technical documentation and instructions for usage of AI models, as applicable."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Safety",
+        "Control ID": "App 1.2",
+        "Control Name": "Document Trustworthy AI Efforts",
+        "Control Requirements": "Document and report AI systems capabilities, limitations, acceptable and unacceptable usage. Include technical documentation and instructions for usage of AI models, as applicable. Document and report evaluations conducted for safety, security, bias, explainability of AI applications"
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Lifecycle",
+        "Control ID": "App 2.1",
+        "Control Name": "App Lifecycle Completeness",
+        "Control Requirements": "Define and deploy secure development practices for generative AI applications, throughout the AI lifecycle, for cybersecurity, physical security, and insider threats."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Lifecycle",
+        "Control ID": "App 2.2",
+        "Control Name": "App Code Maintainability",
+        "Control Requirements": "Mechanisms are established to enable AI stakeholders to regularly incorporate adjudicated feedback from relevant AI actors into AI Application design and implementation."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Compliance",
+        "Control ID": "App 3.1",
+        "Control Name": "AI App Posture Management & Compliance",
+        "Control Requirements": "Implement monitoring and logging mechanisms to track AI application performance, usage, and compliance with relevant regulations and ethical guidelines."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Compliance",
+        "Control ID": "App 3.2",
+        "Control Name": "Conduct Trustworthy AI System Testing",
+        "Control Requirements": "Deploy testing measures, including testing, throughout the AI application life cycle."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "App Interaction Safety & Security",
+        "Control ID": "App 4.1",
+        "Control Name": "Input manipulation & prompt injection Protection",
+        "Control Requirements": "Detect and block adversarial inputs or atypical queries to AI applications that deviate from known benign behavior, exhibit behavior patterns observed in previous attacks (e.g. similar to SQL Injection attacks in Web Apps, prompt injection attacks can exploit AI app capabilities)."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "App Interaction Safety & Security",
+        "Control ID": "App 4.2",
+        "Control Name": "Prevent inference attacks / Minimize Query Response",
+        "Control Requirements": "Regulate the amount and fidelity of potentially sensitive information in, prompts and API queries to limit the amount of information an attacker can learn."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "App Interaction Safety & Security",
+        "Control ID": "App 4.3",
+        "Control Name": "Denial of gen AI service Prevention / Restrict Excessive Queries",
+        "Control Requirements": "Detect and block adversarial inputs or atypical queries that deviate from known benign behavior, exhibit behavior patterns observed in previous attacks."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "App Interaction Safety & Security",
+        "Control ID": "App 4.4",
+        "Control Name": "Prevent Toxic Results",
+        "Control Requirements": "Detect and block outputs with hateful, abusive, or toxic content; hallucinations; malicious outputs (i.e. generating harmful code); sensitive model or data information leakage."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Protection",
+        "Control ID": "App 5.1",
+        "Control Name": "AI App Access Controls",
+        "Control Requirements": "Establish access controls AI applications through UI (including chat interface), and APIs which in turn leverage AI systems and data as backend systems."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Protection",
+        "Control ID": "App 5.2",
+        "Control Name": "Assess Security of AI Application",
+        "Control Requirements": "Identify security measures to protect against data breaches, and malicious attacks (security & risk assessments, attack surface assessments, threat assessments, etc.)."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Threat Management & Resilience",
+        "Control ID": "App 6.1",
+        "Control Name": "AI App Security Testing",
+        "Control Requirements": "Deploy testing measures, including red teaming for adversarial testing, throughout the AI Application life cycle."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Threat Management & Resilience",
+        "Control ID": "App 6.2",
+        "Control Name": "AI App Vulnerability Mitigation",
+        "Control Requirements": "Identify and mitigate vulnerabilities, incidents and patterns of misuse, including third party vulnerabilities."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Threat Management & Resilience",
+        "Control ID": "App 6.3",
+        "Control Name": "AI App Threat Detection & Response",
+        "Control Requirements": "Implement comprehensive monitoring and logging mechanisms to track AI application performance, usage, and compliance with relevant regulations and ethical guidelines."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Category": "AI App Threat Management & Resilience",
+        "Control ID": "App 6.4",
+        "Control Name": "Establish Resilient Gen AI Applications & Systems",
+        "Control Requirements": "Design and implement AI applications and systems with robustness, ensuring they can withstand various types of failures, attacks, and unexpected inputs."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Explainability",
+        "Control ID": "Mod 1.1",
+        "Control Name": "Document Model Capabilities, Limitations, and Usages",
+        "Control Requirements": "Document and report model capabilities, limitations, acceptable and unacceptable usage. Include technical documentation and instructions for usage of AI models, as applicable."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Explainability",
+        "Control ID": "Mod 1.2",
+        "Control Name": "Bias Detection and Evaluation",
+        "Control Requirements": "Implement algorithms and tools designed to detect and evaluate potential biases in the training data, algorithms, or outputs of the AI system."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Explainability",
+        "Control ID": "Mod 1.3",
+        "Control Name": "Diversity in Training Data",
+        "Control Requirements": "Ensure that the training data used for the AI system is diverse, representative, and free from discriminatory patterns."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Lifecycle",
+        "Control ID": "Mod 2.1",
+        "Control Name": "Model Lifecycle Completeness",
+        "Control Requirements": "Define and deploy secure development practices for generative AI models, throughout the AI lifecycle, for cybersecurity, physical security and insider threats."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Lifecycle",
+        "Control ID": "Mod 2.2",
+        "Control Name": "Model Lifecycle Documented",
+        "Control Requirements": "Document AI model details including model type (e.g., convolutional neural network, reinforcement learning, decision tree, random forest, etc.) data features, training algorithms, proposed uses, decision thresholds, training data, evaluation data, and ethical considerations."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Lifecycle",
+        "Control ID": "Mod 2.3",
+        "Control Name": "Model Code Maintainability",
+        "Control Requirements": "Mechanisms are established to enable AI actors to regularly incorporate adjudicated feedback from relevant sources into system design and implementation."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Lifecycle",
+        "Control ID": "Mod 2.4",
+        "Control Name": "Assess Model Security",
+        "Control Requirements": "Identify security measures to protect against unauthorized access, data breaches, and malicious attacks (security & risk assessments, attack surface assessments, threat assessments, etc.) to AI models."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Compliance",
+        "Control ID": "Mod 3.1",
+        "Control Name": "Model Drift Tracking",
+        "Control Requirements": "Regularly monitor AI Model performance and trustworthiness to enhance ability to detect and respond to drift.  Processes and mechanisms for regular monitoring model functionality and behavior - as well as impacts and alignment with the values and norms within the specific context of use."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Compliance",
+        "Control ID": "Mod 3.2",
+        "Control Name": "Model Posture Management & Compliance",
+        "Control Requirements": "Implement monitoring and logging mechanisms to track AI models’ secure configurations, performance, usage, and compliance with relevant regulations and ethical guidelines."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Compliance",
+        "Control ID": "Mod 3.3",
+        "Control Name": "Model Monitoring and Tracking",
+        "Control Requirements": "Regularly track the AI model(s) to ensure that they do not lead to inaccurate / harmful results."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "Prompt Safety & Security",
+        "Control ID": "Mod 4.1",
+        "Control Name": "Input manipulation & prompt injection Protection",
+        "Control Requirements": "Detect and block adversarial inputs, prompts, or atypical queries that deviate from known benign behavior, exhibit behavior patterns observed in previous attacks."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "Prompt Safety & Security",
+        "Control ID": "Mod 4.2",
+        "Control Name": "Prevent inference attacks / Minimize Query Response",
+        "Control Requirements": "Regulate the amount and fidelity of potentially sensitive information in, prompts and API queries to limit the amount of information an attacker can learn."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "Prompt Safety & Security",
+        "Control ID": "Mod 4.3",
+        "Control Name": "Prevent Toxic Results",
+        "Control Requirements": "Prevent models from responding with hateful, abusive, or toxic content; hallucinations; malicious outputs (i.e. generating harmful code); sensitive model or data information leakage."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI Model Access",
+        "Control ID": "Mod 5.1",
+        "Control Name": "Model Access Controls",
+        "Control Requirements": "Establish access controls around models that are exposed for enterprise usage, including for AI applications; secure internal model registries and limit internal access to production models. Such access controls should include contextual policies that factor in who, what, when, and from where."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI System and Model Threat Detection",
+        "Control ID": "Mod 6.1",
+        "Control Name": "Model Security Testing",
+        "Control Requirements": "Deploy testing measures, including red teaming for adversarial testing, throughout the AI lifecycle."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI System and Model Threat Detection",
+        "Control ID": "Mod 6.2",
+        "Control Name": "Model Vulnerability Mitigation",
+        "Control Requirements": "Identify and mitigate vulnerabilities, incidents and patterns of misuse, including third party vulnerabilities."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Category": "AI System and Model Threat Detection",
+        "Control ID": "Mod 6.3",
+        "Control Name": "Establish Resilient AI Models",
+        "Control Requirements": "Design and implement AI models with robustness, ensuring they can withstand various types of failures, attacks, and unexpected inputs."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.1",
+        "Control Name": "Data Source Determination",
+        "Control Requirements": "Document assumptions made and techniques used in data selection, curation, preparation and analysis, including: identification of constructs and development of indices – especially those operationalizing concepts that are inherently unobservable (e.g. “hireability,” “criminality.” “lendability”)"
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.2",
+        "Control Name": "Implement Data Classification Schema",
+        "Control Requirements": "Implement robust data classification mechanisms to accurately categorize and label data according to its sensitivity, ensuring appropriate handling and protection based on the classification."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.3",
+        "Control Name": "Data Bias Mitigation / Transparency Enablement",
+        "Control Requirements": "Map adherence to policies that address data and construct validity, fairness, bias, and explainability for AI systems and verify documentation, oversight, and processes."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.4",
+        "Control Name": "Data Transformation",
+        "Control Requirements": "Enforce data transformation activities risk mitigation identified in risk assessment."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.5",
+        "Control Name": "Data Labeling / Attribution",
+        "Control Requirements": "Develop and deploy mechanism to authenticate and label AI generated content for users’ awareness."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Classification and Lineage",
+        "Control ID": "Dat 1.6",
+        "Control Name": "Data Usage Permission / Data Owner Consent",
+        "Control Requirements": "Ensure legal right to leverage data for training, inference, and usage"
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Quality & Integrity",
+        "Control ID": "Dat 2.1",
+        "Control Name": "Sanitize Input Data",
+        "Control Requirements": "Implement safeguards for protecting input data to train AI systems, including protection of personal data and intellectual property."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Quality & Integrity",
+        "Control ID": "Dat 2.2",
+        "Control Name": "Verify Data Integrity",
+        "Control Requirements": "Verify that all machine learning data artifacts and files have not been modified by unauthorized individuals."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Compliance",
+        "Control ID": "Dat 3.1",
+        "Control Name": "Data residency and location",
+        "Control Requirements": "Ensure enterprise requirements based on risk and compliance around data residency and location are met. Based on data residency and sovereignty requirements, there is increased need to restrict where data is stored."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Privacy & Confidentiality",
+        "Control ID": "Dat 4.1",
+        "Control Name": "Privacy Protections",
+        "Control Requirements": "Implement safeguards for protecting input data, including protection of personal data and intellectual property."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Privacy & Confidentiality",
+        "Control ID": "Dat 4.2",
+        "Control Name": "Sensitive Data Security /Data Confidentiality",
+        "Control Requirements": "Develop and implement data confidentiality mechanisms to ensure that data architecture has factored in security practices, so that AI systems or data layers do not divulge sensitive or confidential information to unauthorized access. Also protect contextual data that is used with AI systems in inferencing and other use cases."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Access Controls",
+        "Control ID": "Dat 5.1",
+        "Control Name": "Detect & respond to unauthorized and malicious access",
+        "Control Requirements": "Monitor data activity and access. Detect malicious and/or unauthorized access."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Category": "Data Activity and Posture Monitoring",
+        "Control ID": "Dat 6.1",
+        "Control Name": "Detect & respond to unauthorized and malicious access",
+        "Control Requirements": "Monitor data activity and access. Detect malicious and/or unauthorized access and respond."
+    }
+]
