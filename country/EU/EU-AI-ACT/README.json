@@ -1,6 +1,8 @@
 {
   "metaData": {
-    "name": "Artificial Intelligence Act (EU AI Act)",
+    "name": "Artificial Intelligence Act",
+    "acronym": "EU AI Act",
+    "owner": "EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION",
     "itemType": "Acts and Regulations",
     "locality": "European Union",
     "description": "The EU Artificial Intelligence Act (EU AI Act) is a comprehensive regulatory framework aimed at governing the use of artificial intelligence systems within the European Union. It establishes requirements based on the level of risk posed by different AI applications, classifying them into categories such as unacceptable risk, high risk, and minimal risk. The act seeks to ensure that AI systems are used safely and transparently, protecting fundamental rights and promoting trustworthy AI development and deployment across the EU.",

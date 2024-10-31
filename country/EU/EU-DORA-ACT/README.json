@@ -1,6 +1,8 @@
 {
   "metaData": {
-    "name": "Digital Operational Resilience Act (DORA)",
+    "name": "Digital Operational Resilience Act",
+    "acronym": "DORA",
+    "owner": "EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION",
     "itemType": "Acts and Regulations",
     "locality": "European Union",
     "description": "The EU Digital Operational Resilience Act (DORA) aims to strengthen the cybersecurity and operational resilience of financial institutions within the European Union. It establishes a unified regulatory framework requiring financial entities to ensure they can withstand, respond to, and recover from all types of information and communication technology (ICT) disruptions and threats. DORA mandates comprehensive risk management practices, continuous monitoring, and incident reporting, ensuring financial stability and consumer protection across the EU.",

@@ -1,0 +1,38 @@
+{
+  "metaData": {
+    "name": "General Data Protection Regulation",
+    "acronym": "GDPR",
+    "owner": "EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION",
+    "itemType": "Acts and Regulations",
+    "locality": "European Union",
+    "description": "The EU General Data Protection Regulation (GDPR) is a comprehensive privacy and data protection law designed to enhance individuals' control over their personal data and to simplify the regulatory environment for international business by unifying data protection within the EU. The regulation establishes requirements for data processing, data subject rights, data breach notifications, and strict penalties for non-compliance. It aims to protect personal data privacy while enabling free movement of data within the EU.",
+    "relationToCloudSecurity": "The General Data Protection Regulation (GDPR) emphasizes the protection and privacy of personal data, which is critical in cloud environments. Cloud service providers must implement robust security measures to ensure data confidentiality, integrity, and availability. The regulation outlines strict requirements for data processing, including data encryption, data access controls, and data transfer limitations. Additionally, cloud providers must ensure compliance through contractual agreements and accountability measures, making data protection a key component of cloud security strategies.",
+    "relationToAISecurity": "The General Data Protection Regulation (GDPR) intersects with AI security by emphasizing the lawful, fair, and transparent processing of personal data used in AI systems. The regulation mandates data minimization, purpose limitation, and accountability, requiring organizations to assess and mitigate risks associated with AI-driven data processing. Additionally, GDPR provides for data subject rights, such as the right to explanation and the right to be informed of automated decision-making processes, impacting the design and deployment of AI models that handle personal data."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation",
+    "source": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+    "csaLocation": "https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/country/EU/EU-GDPR-ACT"
+  },
+  "conversionProcess": [
+    "html2md",
+    "cleanup",
+    "conversion to CSV",
+    "cleanup"
+  ],
+  "fileFormatNotes": "Typical EU regulation, Chapter, Section, Article",
+  "fileDataRemovalNotes": [
+    {
+      "name": "recitals",
+      "notes": "Recitals provide context and are not typically included in control mappings."
+    }
+  ],
+  "files": {
+    "downloadedFile": "eu-gdpr-act.html",
+    "markdownFileFull": "eu-gdpr-act.md",
+    "markdownFileProcessed": "eu-gdpr-act-processed.md",
+    "csvFile": "eu-gdpr-act.csv",
+    "jsonFile": "eu-gdpr-act.json"
+  }
+}
