@@ -53,7 +53,7 @@ def process_markdown_with_escaping_quotes_and_dashes(input_file, output_file):
             if chapter_match:
                 if current_article:
                     # Append the last article data
-                    article_text = clean_quotes_and_dashes("\n".join(current_article_content).replace('"', '""'))
+                    article_text = clean_quotes_and_dashes("\n".join(current_article_content))
                     data.append([current_chapter, current_chapter_name, current_section, current_section_name,
                                  current_article, current_article_name, article_text])
                 
@@ -74,7 +74,7 @@ def process_markdown_with_escaping_quotes_and_dashes(input_file, output_file):
             if section_match:
                 if current_article:
                     # Append the last article data
-                    article_text = clean_quotes_and_dashes("\n".join(current_article_content).replace('"', '""'))
+                    article_text = clean_quotes_and_dashes("\n".join(current_article_content))
                     data.append([current_chapter, current_chapter_name, current_section, current_section_name,
                                  current_article, current_article_name, article_text])
                 
@@ -93,7 +93,7 @@ def process_markdown_with_escaping_quotes_and_dashes(input_file, output_file):
             if article_match:
                 if current_article:
                     # Append the last article data
-                    article_text = clean_quotes_and_dashes("\n".join(current_article_content).replace('"', '""'))
+                    article_text = clean_quotes_and_dashes("\n".join(current_article_content))
                     data.append([current_chapter, current_chapter_name, current_section, current_section_name,
                                  current_article, current_article_name, article_text])
                     current_article_content = []
@@ -111,13 +111,13 @@ def process_markdown_with_escaping_quotes_and_dashes(input_file, output_file):
 
     # Add the last article to the data
     if current_article:
-        article_text = clean_quotes_and_dashes("\n".join(current_article_content).replace('"', '""'))
+        article_text = clean_quotes_and_dashes("\n".join(current_article_content))
         data.append([current_chapter, current_chapter_name, current_section, current_section_name,
                      current_article, current_article_name, article_text])
 
-    # Write data to CSV
+    # Write data to CSV with all cells properly quoted
     with open(output_file, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
+        writer = csv.writer(file, quoting=csv.QUOTE_ALL)
         writer.writerow(['CHAPTER', 'CHAPTER_NAME', 'SECTION', 'SECTION_NAME', 'ARTICLE', 'ARTICLE_NAME', 'ARTICLE_CONTENT'])
         writer.writerows(data)
 
@@ -130,4 +130,3 @@ if __name__ == "__main__":
 
     process_markdown_with_escaping_quotes_and_dashes(args.input, args.output)
 
-    

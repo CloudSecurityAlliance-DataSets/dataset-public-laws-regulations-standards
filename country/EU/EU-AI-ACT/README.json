@@ -1,0 +1,44 @@
+{
+  "metaData": {
+    "name": "Artificial Intelligence Act (EU AI Act)",
+    "itemType": "Acts and Regulations",
+    "locality": "European Union",
+    "description": "The EU Artificial Intelligence Act (EU AI Act) is a comprehensive regulatory framework aimed at governing the use of artificial intelligence systems within the European Union. It establishes requirements based on the level of risk posed by different AI applications, classifying them into categories such as unacceptable risk, high risk, and minimal risk. The act seeks to ensure that AI systems are used safely and transparently, protecting fundamental rights and promoting trustworthy AI development and deployment across the EU.",
+    "relationToCloudSecurity": "The EU AI Act impacts cloud security by mandating that cloud-based AI services meet stringent security and transparency standards, particularly for high-risk AI applications. Cloud providers hosting AI solutions must ensure robust security measures, including data protection, access control, and risk assessment, to comply with the act’s requirements. This also includes measures to prevent unauthorized access and ensure the integrity and reliability of AI systems deployed in cloud environments.",
+    "relationToAISecurity": "The EU AI Act emphasizes the security of AI systems, particularly those categorized as high risk. It outlines requirements for managing vulnerabilities, implementing robust security controls, and ensuring the resilience of AI technologies against attacks and unauthorized manipulation. Organizations must adhere to risk management and continuous monitoring practices, and they are required to keep records of AI system performance and compliance."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act",
+    "source": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689",
+    "csaLocation": "https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/country/EU/EU-AI-ACT"
+  },
+  "conversionProcess": [
+    "html2md",
+    "cleanup",
+    "conversion to CSV",
+    "cleanup"
+  ],
+  "fileFormatNotes": "Typical EU act, Chapter, Section, Article",
+  "fileDataRemovalNotes": [
+    {
+      "name": "chapterXI",
+      "notes": "CHAPTER XI - DELEGATION OF POWER AND COMMITTEE PROCEDURE: Administravia"
+    },
+    {
+      "name": "chapterXII",
+      "notes": "CHAPTER XII - PENALTIES: Not applicable to mappings"
+    },
+    {
+      "name": "chapterXIII",
+      "notes": "CHAPTER XIII - FINAL PROVISIONS: Removed, it lists amendments and enforcement timelines, not applicable to mapping"
+    }
+  ],
+  "files": {
+    "downloadedFile": "eu-ai-act.html",
+    "markdownFileFull": "eu-ai-act-full.md",
+    "markdownFileProcessed": "eu-ai-act-processed.md",
+    "csvFile": "eu-ai-act.csv",
+    "jsonFile": "eu-ai-act.json"
+  }
+}
