@@ -1,0 +1,33 @@
+{
+  "metaData": {
+    "name": "Name of the document goes here",
+    "itemType": "Category of the item, e.g., Acts and Regulations",
+    "locality": "Jurisdiction or region applicable, e.g., European Union",
+    "description": "A brief summary of the document, outlining its purpose and key provisions",
+    "relationToCloudSecurity": "Explanation of how the document addresses or impacts cloud security, if applicable",
+    "relationToAISecurity": "Explanation of how the document addresses or impacts AI security, if applicable"
+  },
+  "links": {
+    "wikipedia": "URL to the Wikipedia page for the document, if available",
+    "source": "Official source URL for the document, e.g., a legal or governmental website",
+    "textUsed": "URL to the HTML or text version of the document used for data extraction",
+    "csaLocation": "Link to where the document is hosted or referenced in the Cloud Security Alliance's resources"
+  },
+  "conversionProcess": [
+    "Steps used to convert the document, e.g., html2md, cleanup, conversion to CSV"
+  ],
+  "fileFormatNotes": "Notes on the document's format, e.g., typical EU act structure with chapters and articles",
+  "fileDataRemovalNotes": [
+    {
+      "name": "Identifier for the removed section, e.g., chapterX",
+      "notes": "Reason for removal and description of the section, e.g., not applicable to mappings"
+    }
+  ],
+  "files": {
+    "downloadedFile": "Filename of the original downloaded document, e.g., document.html",
+    "markdownFileFull": "Filename of the full markdown version, e.g., document-full.md",
+    "markdownFileProcessed": "Filename of the processed markdown version, e.g., document-processed.md",
+    "csvFile": "Filename of the CSV version, e.g., document.csv",
+    "jsonFile": "Filename of the JSON version, e.g., document.json"
+  }
+}
