@@ -5,46 +5,45 @@ This is a public repository of public laws, regulations, standards and so on tha
 ## Categories and types of data:
 
 ### Acts and Regulations
-- **EU AI Act**: Regulation governing AI use and governance in the EU.
-- **EU DORA (Digital Operational Resilience Act)**: Focuses on cybersecurity and operational resilience in financial institutions.
-- **California Privacy Rights Act (CPRA)**: Includes provisions relevant to automated decision-making and AI.
-- **U.S. Algorithmic Accountability Act**: Proposed legislation for impact assessments of AI systems.
+- EU AI Act: Regulation governing AI use and governance in the EU.
+- EU DORA (Digital Operational Resilience Act): Focuses on cybersecurity and operational resilience in financial institutions.
+- EU GDPR Act: General Data Protection Regulation (GDPR).
 
 ### International Standards
-- **ISO/IEC 42001**: Specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within organizations.
-- **IEEE 7001-2021**: Standard for Transparency of Autonomous Systems, providing guidelines to ensure transparency in AI operations.
-- **OECD AI Principles**: International recommendations focusing on the responsible development of AI, including security and trustworthiness.
-- **NIST AI Risk Management Framework (RMF)**: Framework for managing risks associated with AI systems, promoting trustworthy and responsible development and use.
+- NIST AI Risk Management Framework (RMF): Framework for managing risks associated with AI systems, promoting trustworthy and responsible development and use.
+- ISO/IEC 42001: Specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within organizations.
+- IEEE 7001-2021: Standard for Transparency of Autonomous Systems, providing guidelines to ensure transparency in AI operations.
+- OECD AI Principles: International recommendations focusing on the responsible development of AI, including security and trustworthiness.
 
 ### Industry-Specific Security Controls
-- **IBM Generative AI Security Controls**: Best practices for securing generative AI systems.
-- **Microsoft AI Security Guidelines**: Security principles for AI solutions.
-- **Google Responsible AI Practices**: Emphasizes security, fairness, and transparency in AI development.
-- **OpenAI Safety Guidelines**: Practices for secure and aligned AI model deployment.
+- IBM Generative AI Security Controls: Best practices for securing generative AI systems.
+- Microsoft AI Security Guidelines: Security principles for AI solutions.
+- Google Responsible AI Practices: Emphasizes security, fairness, and transparency in AI development.
+- OpenAI Safety Guidelines: Practices for secure and aligned AI model deployment.
 
 ### Control Frameworks and Matrices
-- **AI Controls Matrix (CSA)**: Security and compliance framework for AI systems.
-- **MITRE ATLAS**: Framework categorizing adversarial threats to AI.
-- **AI Incident Database**: Collection of AI-related security and ethical incidents.
-- **High-Level Expert Group on AI (European Commission)**: Guidelines including risk mitigation strategies.
+- AI Controls Matrix (CSA): Security and compliance framework for AI systems.
+- MITRE ATLAS: Framework categorizing adversarial threats to AI.
+- AI Incident Database: Collection of AI-related security and ethical incidents.
+- High-Level Expert Group on AI (European Commission): Guidelines including risk mitigation strategies.
 
 ### Research and Academic Studies
-- **arXiv.org Papers**: Preprints on adversarial AI, robustness, and alignment research.
-- **AI Alignment Research Papers**: Studies on ensuring AI systems align with human values.
-- **OpenAI Safety Papers**: Research on secure and responsible AI development.
-- **Journal of AI and Ethics**: Academic articles exploring AI ethics and security.
+- arXiv.org Papers: Preprints on adversarial AI, robustness, and alignment research.
+- AI Alignment Research Papers: Studies on ensuring AI systems align with human values.
+- OpenAI Safety Papers: Research on secure and responsible AI development.
+- Journal of AI and Ethics: Academic articles exploring AI ethics and security.
 
 ### News and Current Affairs
-- **AI Security Incidents**: Reports on real-world AI security breaches.
-- **Industry News Analysis**: Coverage of trends and challenges in AI security.
-- **TechCrunch Articles on AI**: Updates on AI security initiatives from major tech companies.
-- **The New York Times**: Articles on government and industry AI security developments.
+- AI Security Incidents: Reports on real-world AI security breaches.
+- Industry News Analysis: Coverage of trends and challenges in AI security.
+- TechCrunch Articles on AI: Updates on AI security initiatives from major tech companies.
+- The New York Times: Articles on government and industry AI security developments.
 
 ### Policy Proposals and Government Guidance
-- **White House Memos on AI**: Proposals outlining national AI security strategies.
-- **U.S. National AI Initiative**: Government-wide strategic plan for AI governance.
-- **Draft Guidelines from the European Commission**: Preliminary AI regulatory guidance.
-- **Federal Trade Commission (FTC) Guidance on AI**: Recommendations for secure and fair AI practices.
+- White House Memos on AI: Proposals outlining national AI security strategies.
+- U.S. National AI Initiative: Government-wide strategic plan for AI governance.
+- Draft Guidelines from the European Commission: Preliminary AI regulatory guidance.
+- Federal Trade Commission (FTC) Guidance on AI: Recommendations for secure and fair AI practices.
 
 ## Layout of the data
 
