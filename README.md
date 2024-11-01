@@ -11,12 +11,14 @@ This is a public repository of public laws, regulations, standards and so on tha
 
 ### International Standards
 - NIST AI Risk Management Framework (RMF): Framework for managing risks associated with AI systems, promoting trustworthy and responsible development and use.
+
 - ISO/IEC 42001: Specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within organizations.
 - IEEE 7001-2021: Standard for Transparency of Autonomous Systems, providing guidelines to ensure transparency in AI operations.
 - OECD AI Principles: International recommendations focusing on the responsible development of AI, including security and trustworthiness.
 
 ### Industry-Specific Security Controls
 - IBM Generative AI Security Controls: Best practices for securing generative AI systems.
+
 - Microsoft AI Security Guidelines: Security principles for AI solutions.
 - Google Responsible AI Practices: Emphasizes security, fairness, and transparency in AI development.
 - OpenAI Safety Guidelines: Practices for secure and aligned AI model deployment.
@@ -24,14 +26,10 @@ This is a public repository of public laws, regulations, standards and so on tha
 ### Control Frameworks and Matrices
 - AI Controls Matrix (CSA): Security and compliance framework for AI systems.
 - MITRE ATLAS: Framework categorizing adversarial threats to AI.
-- AI Incident Database: Collection of AI-related security and ethical incidents.
-- High-Level Expert Group on AI (European Commission): Guidelines including risk mitigation strategies.
 
 ### Research and Academic Studies
 - arXiv.org Papers: Preprints on adversarial AI, robustness, and alignment research.
-- AI Alignment Research Papers: Studies on ensuring AI systems align with human values.
 - OpenAI Safety Papers: Research on secure and responsible AI development.
-- Journal of AI and Ethics: Academic articles exploring AI ethics and security.
 
 ### News and Current Affairs
 - AI Security Incidents: Reports on real-world AI security breaches.
@@ -42,8 +40,6 @@ This is a public repository of public laws, regulations, standards and so on tha
 ### Policy Proposals and Government Guidance
 - White House Memos on AI: Proposals outlining national AI security strategies.
 - U.S. National AI Initiative: Government-wide strategic plan for AI governance.
-- Draft Guidelines from the European Commission: Preliminary AI regulatory guidance.
-- Federal Trade Commission (FTC) Guidance on AI: Recommendations for secure and fair AI practices.
 
 ## Layout of the data
 
