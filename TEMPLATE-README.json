@@ -1,6 +1,8 @@
 {
   "metaData": {
     "name": "Name of the document goes here",
+    "acronym": "Acronym or abbreviation for the document, if applicable",
+    "owner": "Name of the organization or entity that owns the document, e.g., European Union",
     "itemType": "Category of the item, e.g., Acts and Regulations",
     "locality": "Jurisdiction or region applicable, e.g., European Union",
     "description": "A brief summary of the document, outlining its purpose and key provisions",
