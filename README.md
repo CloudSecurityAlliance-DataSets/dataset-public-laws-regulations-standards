@@ -1,6 +1,6 @@
 # AI Security Resources Categorized
 
-This is a public repository of public laws, regulations, standards and so on that are related to cloud and AI security. Please note that many items will be mentioned in this repo but the actual data is not present due to licensing issues (e.g. the ISO standards). 
+This is a public repository of public laws, regulations, standards and so on that are related to cloud and AI security. Please note that many items will be mentioned in this repo but the actual data is not present due to licensing issues (e.g. the ISO standards and IEEE documents). 
 
 ## Categories and types of data:
 
@@ -10,7 +10,7 @@ This is a public repository of public laws, regulations, standards and so on tha
 - EU GDPR Act: General Data Protection Regulation (GDPR).
 
 ### International Standards
-- NIST AI Risk Management Framework (RMF): Framework for managing risks associated with AI systems, promoting trustworthy and responsible development and use.
+- NIST AI Risk Management Framework (RMF) AI-600: Framework for managing risks associated with AI systems, promoting trustworthy and responsible development and use.
 
 - ISO/IEC 42001: Specifies requirements for establishing, implementing, maintaining, and continually improving an AI management system within organizations.
 - IEEE 7001-2021: Standard for Transparency of Autonomous Systems, providing guidelines to ensure transparency in AI operations.
