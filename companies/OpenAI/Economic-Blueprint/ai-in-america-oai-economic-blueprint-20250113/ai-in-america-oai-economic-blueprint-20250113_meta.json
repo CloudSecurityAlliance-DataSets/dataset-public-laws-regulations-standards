@@ -1,0 +1,777 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AI in America\nOpenAI's Economic Blueprint",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.15625,
+          601.34765625
+        ],
+        [
+          347.8813171386719,
+          601.34765625
+        ],
+        [
+          347.8813171386719,
+          667.86328125
+        ],
+        [
+          62.15625,
+          667.86328125
+        ]
+      ]
+    },
+    {
+      "title": "Foreword",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.894775390625,
+          75.16845703125
+        ],
+        [
+          172.94369506835938,
+          75.16845703125
+        ],
+        [
+          172.94369506835938,
+          101.900390625
+        ],
+        [
+          61.894775390625,
+          101.900390625
+        ]
+      ]
+    },
+    {
+      "title": "Chris Lehane",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.455078125,
+          423.84375
+        ],
+        [
+          137.6103515625,
+          423.84375
+        ],
+        [
+          137.6103515625,
+          437.765625
+        ],
+        [
+          62.455078125,
+          437.765625
+        ]
+      ]
+    },
+    {
+      "title": "Where We Stand",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.38037109375,
+          73.7666015625
+        ],
+        [
+          254.782470703125,
+          73.7666015625
+        ],
+        [
+          254.782470703125,
+          102.09375
+        ],
+        [
+          62.38037109375,
+          102.09375
+        ]
+      ]
+    },
+    {
+      "title": "Competitiveness and Security",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.0,
+          189.9755859375
+        ],
+        [
+          400.8310546875,
+          189.9755859375
+        ],
+        [
+          400.8310546875,
+          218.109375
+        ],
+        [
+          63.0,
+          218.109375
+        ]
+      ]
+    },
+    {
+      "title": "Solutions:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.75390625,
+          94.11767578125
+        ],
+        [
+          124.3125,
+          94.11767578125
+        ],
+        [
+          124.3125,
+          107.7978515625
+        ],
+        [
+          62.75390625,
+          107.7978515625
+        ]
+      ]
+    },
+    {
+      "title": "Rules of the Road",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.3056640625,
+          190.458984375
+        ],
+        [
+          264.01422119140625,
+          190.458984375
+        ],
+        [
+          264.01422119140625,
+          217.916015625
+        ],
+        [
+          62.3056640625,
+          217.916015625
+        ]
+      ]
+    },
+    {
+      "title": "Solutions:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.791259765625,
+          230.87109375
+        ],
+        [
+          125.208984375,
+          230.87109375
+        ],
+        [
+          125.208984375,
+          244.9208984375
+        ],
+        [
+          62.791259765625,
+          244.9208984375
+        ]
+      ]
+    },
+    {
+      "title": "On preferences:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          62.865966796875,
+          101.900390625
+        ],
+        [
+          146.8740234375,
+          101.900390625
+        ],
+        [
+          146.8740234375,
+          116.015625
+        ],
+        [
+          62.865966796875,
+          116.015625
+        ]
+      ]
+    },
+    {
+      "title": "Infrastructure as Destiny",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.52978515625,
+          190.65234375
+        ],
+        [
+          339.5654296875,
+          190.65234375
+        ],
+        [
+          339.5654296875,
+          218.49609375
+        ],
+        [
+          62.52978515625,
+          218.49609375
+        ]
+      ]
+    },
+    {
+      "title": "Solutions:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.67919921875,
+          94.0693359375
+        ],
+        [
+          123.4320068359375,
+          94.0693359375
+        ],
+        [
+          123.4320068359375,
+          107.9912109375
+        ],
+        [
+          62.67919921875,
+          107.9912109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          603
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          616
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          503
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          281
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          469
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          501
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          686
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          332
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          605
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          519
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          609
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          758
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ai-in-america-oai-economic-blueprint-20250113"
+}
