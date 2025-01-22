@@ -1,0 +1,30 @@
+[
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Interoperability and Portability Policy and Procedures",
+        "Control ID": "IPY-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for interoperability and portability including\n requirements for:\n a. Communications between application interfaces\n b. Information processing interoperability\n c. Application development portability\n d. Information/Data exchange, usage, portability, integrity, and persistence\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine the inventory of documentation that establishes the requirements and communication of this control.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Application Interface Availability",
+        "Control ID": "IPY-02",
+        "Control Specification": "Provide application interface(s) to CSCs so that they programmatically\n retrieve their data to enable interoperability and portability.",
+        "Auditing Guidelines": "1. Examine the list of Application Programming Interfaces (API) available to Cloud Service Consumers.\n 2. Determine if such list and usable documentation is made available to Cloud Service Consumers."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Secure Interoperability and Portability Management",
+        "Control ID": "IPY-03",
+        "Control Specification": "Implement cryptographically secure and standardized network protocols\n for the management, import and export of data.",
+        "Auditing Guidelines": "1. Examine the policy for the secure transmission of requests and data.\n 2. Inspect the requirements, with respect to any security domains defined.\n 3. Examine the policy that specifies protocols for transmission, with respect to standardization."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Data Portability Contractual Obligations",
+        "Control ID": "IPY-04",
+        "Control Specification": "Agreements must include provisions specifying CSCs access to data\n upon contract termination and will include:\n a. Data format\n b. Length of time the data will be stored\n c. Scope of the data retained and made available to the CSCs\n d. Data deletion policy",
+        "Auditing Guidelines": "1. Examine the standard form of contract for offboarding the Cloud Service Consumers.\n 2. Determine if non-standard clauses allow the Cloud Service Consumers to waive such rights.\n 3. Determine if there are requests for data in unsupported formats.\n 4. Examine the policy regarding deletion of resources no longer in the control of a client, and determine if such policy corresponds to the contractual data retention."
+    }
+]

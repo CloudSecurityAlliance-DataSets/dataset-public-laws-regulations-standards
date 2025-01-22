@@ -1,0 +1,93 @@
+[
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Background Screening Policy and Procedures",
+        "Control ID": "HRS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for background verification of all new employees (including\n but not limited to remote employees, contractors, and third parties) according\n to local laws, regulations, ethics, and contractual constraints and proportional\n to the data classification to be accessed, the business requirements, and acceptable\n risk. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine the process for selection of local laws, regulations, ethics, and contractual constraints, and for review of its output.\n 3. Verify that the background verification required is mapped to the risks and data classification.\n 4. Examine the policy and procedures for evidence of review at least annually.\n 5. Examine Human Resources tickets upon hire which trigger background review and final confirmation from third party conducting background reviews showing it has been completed and how exceptions or failed checks have been addressed."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Acceptable Use of Technology Policy and Procedures",
+        "Control ID": "HRS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for defining allowances and conditions for the acceptable\n use of organizationally-owned or managed assets. Review and update the policies\n and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of organizationally-owned or managed assets exists, and is implemented.\n 3. Verify, via Interviews or otherwise, that the policy is communicated to users.\n 4. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Clean Desk Policy and Procedures",
+        "Control ID": "HRS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures that require unattended workspaces to not have openly\n visible confidential data. Review and update the policies and procedures at\n least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that secure and unsecure work areas are defined and demarcated.\n 3. Verify that confidential data is classified appropriately, and that the classification is available at point-of-use.\n 4. Verify, via Interviews or otherwise, that the policy is communicated to users.\n 5. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Remote and Home Working Policy and Procedures",
+        "Control ID": "HRS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures to protect information accessed, processed or stored\n at remote sites and locations. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify, via Interviews or otherwise, that remote sites and locations, especially those not under the control of the organization, are defined and demarcated.\n 3. Verify, via Interviews or otherwise, that the policy and procedures are communicated to users.\n 4. Examine policy and procedures for evidence of review or at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Asset returns",
+        "Control ID": "HRS-05",
+        "Control Specification": "Establish and document procedures for the return of organization-owned\n assets by terminated employees.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of organizationally-owned assets exists, and is implemented.\n 3. Verify that a definition of terminated employees exists, and is implemented.\n 4. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Termination",
+        "Control ID": "HRS-06",
+        "Control Specification": "Establish, document, and communicate to all personnel the procedures\n outlining the roles and responsibilities concerning changes in employment.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that organization charts are maintained and available as appropriate.\n 3. Verify that a definition of terminated employees exists, and is implemented.\n 4. Examine policy and procedures for notification of stakeholders upon changes in employment, or of roles, and the appropriate activities are triggered, i.e. access changes, asset return, etc."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Process",
+        "Control ID": "HRS-07",
+        "Control Specification": "Employees sign the employee agreement prior to being granted access\n to organizational information systems, resources and assets.",
+        "Auditing Guidelines": "1. Verify that the organization has defined formats and templates of employment agreements.\n 2. Verify, if more than one Agreement is used, that they are mapped to appropriate roles and job descriptions.\n 3. Examine the policy and procedures that mandate the signing of such Agreement before access is granted."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Content",
+        "Control ID": "HRS-08",
+        "Control Specification": "The organization includes within the employment agreements provisions\n and/or terms for adherence to established information governance and security\n policies.",
+        "Auditing Guidelines": "1. Verify that the organization has defined formats and templates of Employment Agreements.\n 2. Verify that the Agreements include references to the organization's Information Security Management System (ISMS), and that they mandate compliance."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personnel Roles and Responsibilities",
+        "Control ID": "HRS-09",
+        "Control Specification": "Document and communicate roles and responsibilities of employees,\n as they relate to information assets and security.",
+        "Auditing Guidelines": "1. Verify that organization charts are maintained and available as appropriate.\n 2. Verify that the Role or Job Descriptions refer to the appropriate ISMS requirements.\n 3. Verify, by Interviews or otherwise, that employees and stakeholders are aware of the roles or job descriptions, and that these are reviewed."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Non-Disclosure Agreements",
+        "Control ID": "HRS-10",
+        "Control Specification": "Identify, document, and review, at planned intervals, requirements\n for non-disclosure/confidentiality agreements reflecting the organization's\n needs for the protection of data and operational details.",
+        "Auditing Guidelines": "1. Examine if the organization has identified its requirements for non-disclosure and confidentiality.\n 2. Determine the planned interval for review.\n 3. Verify that the requirements are reviewed at such planned intervals."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Security Awareness Training",
+        "Control ID": "HRS-11",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a security awareness training program for all employees of the organization\n and provide regular training updates.",
+        "Auditing Guidelines": "1. Examine the security awareness training program for adequacy, currency, communication, and effectiveness.\n 2. Verify, by Interviews or otherwise, that the training program has been implemented.\n 3. Verify that the scope of the training program extends to all employees.\n 4. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personal and Sensitive Data Awareness and Training",
+        "Control ID": "HRS-12",
+        "Control Specification": "Provide all employees with access to sensitive organizational and\n personal data with appropriate security awareness training and regular updates\n in organizational procedures, processes, and policies relating to their professional\n function relative to the organization.",
+        "Auditing Guidelines": "1. Examine the security awareness training program for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of sensitive organizational and personal data exists, and is implemented.\n 3. Verify, by Interviews or otherwise, that the training program has been implemented.\n 4. Verify that the scope of the training program extends to all employees with access to such data.\n 5. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Compliance User Responsibility",
+        "Control ID": "HRS-13",
+        "Control Specification": "Make employees aware of their roles and responsibilities for maintaining\n awareness and compliance with established policies and procedures and applicable\n legal, statutory, or regulatory compliance obligations.",
+        "Auditing Guidelines": "1. Examine the process for selection of applicable legal, statutory, or regulatory compliance obligations, and for review of its output.\n 2. Verify, by Interviews or otherwise, that employees are aware of their roles and responsibilities with respect to such obligations."
+    }
+]

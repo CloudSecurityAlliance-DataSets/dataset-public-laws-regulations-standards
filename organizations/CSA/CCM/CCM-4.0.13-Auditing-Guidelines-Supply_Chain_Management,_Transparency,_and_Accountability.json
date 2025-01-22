@@ -1,0 +1,100 @@
+[
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Policy and Procedures",
+        "Control ID": "STA-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the application of the Shared Security Responsibility\n Model (SSRM) within the organization. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, currency, and effectiveness.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Supply Chain",
+        "Control ID": "STA-02",
+        "Control Specification": "Apply, document, implement and manage the SSRM throughout the supply\n chain for the cloud service offering.",
+        "Auditing Guidelines": "1. Examine the policy for provisions related to service delivery.\n 2. Evaluate the process for communication of requirements and service levels to vendors and other third-parties.\n 3. Determine if a review of effectiveness is in place, especially with respect to contractual requirements."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Guidance",
+        "Control ID": "STA-03",
+        "Control Specification": "Provide SSRM Guidance to the CSC detailing information about the\n SSRM applicability throughout the supply chain.",
+        "Auditing Guidelines": "1. Examine whether SSRM guidance documentation has been approved by management and communicated to CSCs.\n 2. Examine the process for review of SSRM Guidance if required.\n \n  (Note: This control applies to an Organization that is in the role of a CSP)."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Ownership",
+        "Control ID": "STA-04",
+        "Control Specification": "Delineate the shared ownership and applicability of all CSA CCM controls\n according to the SSRM for the cloud service offering.",
+        "Auditing Guidelines": "1. Examine the policy for assessing, demarcating, and documenting the interfaces at the edges of the organization’s responsibility.\n 2. Determine if the delineation has been done, and is current.\n 3. Examine the process for communicating the security responsibility boundaries to third-parties."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Documentation Review",
+        "Control ID": "STA-05",
+        "Control Specification": "Review and validate SSRM documentation for all cloud services offerings\n the organization uses.",
+        "Auditing Guidelines": "1. Examine the policy for assessing, demarcating, and documenting the interfaces at the edges of the Organization’s responsibility.\n 2. Examine the process for validating the boundaries for cloud services used.\n 3. Examine the process for validating the seamlessness of controls for cloud services used.\n \n  (Note: This control applies to an Organization that is in the role of a CSC)."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Implementation",
+        "Control ID": "STA-06",
+        "Control Specification": "Implement, operate, and audit or assess the portions of the SSRM\n which the organization is responsible for.",
+        "Auditing Guidelines": "1. Examine the policy related to addressing security in third-party agreements and determine if organizations employ formal contracts.\n 2. Determine if written procedures exist for addressing security in third-party agreements and whether or not the procedure(s) address(es) each element of the policy/control requirement(s) stipulated in the policy level.\n 3. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), and/or relevant stakeholders, as needed, for addressing security in third-party agreements and determine if the policy/control requirements stipulated in the policy level have been implemented.\n 4. Examine measure(s) that evaluate(s) the organization's compliance with the third-party management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Inventory",
+        "Control ID": "STA-07",
+        "Control Specification": "Develop and maintain an inventory of all supply chain relationships.",
+        "Auditing Guidelines": "1. Determine if there is an inventory maintained of all supply chain relationships.\n 2. Establish ownership for maintaining this inventory.\n 3. Examine the inventory's records to establish whether CSP/CSC relationships are maintained in this inventory.\n 4. Determine whether this inventory is subject to review."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Risk Management",
+        "Control ID": "STA-08",
+        "Control Specification": "CSPs periodically review risk factors associated with all organizations\n within their supply chain.",
+        "Auditing Guidelines": "1. Examine the policy related to identification of risks related to external parties and determine if the organization conducts due diligence of the external party.\n 2. Determine if the policy/control requirements stipulated in the policy level have been implemented.\n 3. Determine the periodicity of review of risk factors."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Primary Service and Contractual Agreement",
+        "Control ID": "STA-09",
+        "Control Specification": "Service agreements between CSPs and CSCs (tenants) must incorporate at least the following mutually-agreed upon provisions and/or terms:\n • Scope, characteristics and location of business relationship and services offered\n • Information security requirements (including SSRM)\n • Change management process\n • Logging and monitoring capability\n • Incident management and communication procedures\n • Right to audit and third party assessment\n • Service termination\n • Interoperability and portability requirements\n • Data privacy",
+        "Auditing Guidelines": "1. Examine the policy for inclusion of the Control in third party agreements.\n 2. Examine the policy related to the review of third-party services to determine if the organization incorporates compliance by third parties."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Agreement Review",
+        "Control ID": "STA-10",
+        "Control Specification": "Review supply chain agreements between CSPs and CSCs at least annually.",
+        "Auditing Guidelines": "1. Determine if a documented review schedule of CSP-CSC supply chain agreements exists on an annual basis and is operating.\n 2. Examine the organization's implementation of its third-party management policy."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Internal Compliance Testing",
+        "Control ID": "STA-11",
+        "Control Specification": "Define and implement a process for conducting internal assessments\n to confirm conformance and effectiveness of standards, policies, procedures,\n and service level agreement activities at least annually.",
+        "Auditing Guidelines": "1. Examine the process for determining the standards and policy that service level agreements must conform to.\n 2. Examine the process to determine contractual, legal, and technical requirements applicable to service level agreements.\n 3. Determine if internal assessments are defined, planned, and executed, at least annually."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Service Agreement Compliance",
+        "Control ID": "STA-12",
+        "Control Specification": "Implement policies requiring all CSPs throughout the supply chain\n to comply with information security, confidentiality, access control, privacy,\n audit, personnel policy and service level requirements and standards.",
+        "Auditing Guidelines": "1. Examine the policy for incorporation of requirements into contractual documents throughout the CSP’s supply chain.\n 2. Determine if requirements have been incorporated in contracts.\n 3. Evaluate if the right to audit is protected, where required."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Governance Review",
+        "Control ID": "STA-13",
+        "Control Specification": "Periodically review the organization's supply chain partners' IT\n governance policies and procedures.",
+        "Auditing Guidelines": "1. Examine the policy for review of supply chain partners governance of IT.\n 2. Determine if the right to review is incorporated contractually.\n 3. Evaluate whether such a review cycle is operating within the organization."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Data Security Assessment",
+        "Control ID": "STA-14",
+        "Control Specification": "Define and implement a process for conducting security assessments\n periodically for all organizations within the supply chain.",
+        "Auditing Guidelines": "1. Examine the policy related to the security assessments of the supply chain.\n 2. Examine the policy related to identification of risks related to external parties.\n 3. Determine if procedures exist for identification of risks related to external parties\n 4. Evaluate evidence of the conduct of assessments of organizations within the supply chain, periodically as required by the policy."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit and Assurance Policy and Procedures",
+        "Control ID": "A&A-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n audit and assurance policies and procedures and standards. Review and update\n the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures to confirm content adequacy in terms of purpose, authority and accountability, responsibilities, planning, communication, reporting, and follow-up.\n 2. Examine audit charter and determine if independence, impartiality, and objectivity are guaranteed.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Independent Assessments",
+        "Control ID": "A&A-02",
+        "Control Specification": "Conduct independent audit and assurance assessments according to\n relevant standards at least annually.",
+        "Auditing Guidelines": "1. Examine the process to determine standards and regulations applicable to the organization's systems and environments.\n 2. Determine if the organization maintains and reviews a list of such standards and regulations.\n 3. Determine if senior management exercises oversight over the independence of the assessment process.\n 4. Determine if the audit plan is informed by previous assessments, and is scheduled on an annual basis."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Risk Based Planning Assessment",
+        "Control ID": "A&A-03",
+        "Control Specification": "Perform independent audit and assurance assessments according to\n risk-based plans and policies.",
+        "Auditing Guidelines": "1. Examine the process for determining the risks applicable to the organization's systems and environments.\n 2. Determine if a list of such risks is maintained and reviewed.\n 3. Determine if senior management exercises oversight over the applicable risks.\n 4. Determine if the audit plan is risk-based, and is scheduled on an annual basis."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Requirements Compliance",
+        "Control ID": "A&A-04",
+        "Control Specification": "Verify compliance with all relevant standards, regulations, legal/contractual,\n and statutory requirements applicable to the audit.",
+        "Auditing Guidelines": "1. Examine the process for determining the standards and regulations applicable to the organization's systems and environments.\n 2. Examine the process to determine contractual, legal, and technical requirements applicable to the organization's systems and environments.\n 3. Determine if the organization maintains and reviews a list of relevant standards, regulations, legal/contractual, and statutory requirements. \n 4. Determine if senior management exercises oversight over this control specification. \n 5. Determine if the audit plan is informed by the list of the organization's requirements."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit Management Process",
+        "Control ID": "A&A-05",
+        "Control Specification": "Define and implement an Audit Management process to support audit\n planning, risk analysis, security control assessment, conclusion, remediation\n schedules, report generation, and review of past reports and supporting evidence.",
+        "Auditing Guidelines": "1. Examine policy related to the establishment and conduct of audits.\n 2. Determine if audit programs are established and aligned to the requirements of the organization, including the audit charter.\n 3. Determine if the organization upholds the independence of the audit program.\n 4. Determine if the conduct of audits is defined, approved at the appropriate level, and reviewed for effectiveness."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Remediation",
+        "Control ID": "A&A-06",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a risk-based corrective action plan to remediate audit findings, review and\n report remediation status to relevant stakeholders.",
+        "Auditing Guidelines": "1. Examine if the outputs of audits are defined by the policy.\n 2. Determine if the audit findings are reviewed and if appropriate reports are made available to users and senior management.\n 3. Determine if the identification of risks from audit findings, or changes to them, are made available to users.\n 4. Determine if corrective actions proposed are planned to align with the organization's risk profile.\n 5. Determine if a process exists to track changes in risk rating and is used to update risk registers, particularly with regard to residual risk.\n 6. Examine a sample of proposed corrective actions and determine if they were followed-up in a manner consistent with the organization's policy.\n 7. Examine audit programs to determine if they are subject to continuous improvement through feedback, review and revisions.\n 8. Examine if a process exists to review the audit program in light of current and past audits."
+    }
+]

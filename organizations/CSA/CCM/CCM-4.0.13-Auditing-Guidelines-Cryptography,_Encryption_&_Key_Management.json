@@ -1,0 +1,149 @@
+[
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Policy and Procedures",
+        "Control ID": "CEK-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for Cryptography, Encryption and Key Management. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Review cryptography, encryption, and key management policy and procedures and confirm that these have been approved by appropriate management.\n 2. Confirm that the policy and procedures are reviewed at least annually."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CEK Roles and Responsibilities",
+        "Control ID": "CEK-02",
+        "Control Specification": "Define and implement cryptographic, encryption and key management\n roles and responsibilities.",
+        "Auditing Guidelines": "1. Obtain cryptographic, encryption policy, and key management procedures.\n 2. Verify, by interviews or otherwise, that employees and stakeholders are aware of their roles and responsibilities, and obtain supporting documentation evidencing that the responsibilities are being managed in-line with policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Data Encryption",
+        "Control ID": "CEK-03",
+        "Control Specification": "Provide cryptographic protection to data at-rest and in-transit,\n using cryptographic libraries certified to approved standards.",
+        "Auditing Guidelines": "1. Identify data flows within the organization that are in-transit.\n 2. Identify data storages within the organization that are at-rest.\n 3. Confirm that the identified data flows and data storages have been protected by an appropriate cryptographic algorithm aligned to cryptography, encryption, and key management policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Algorithm",
+        "Control ID": "CEK-04",
+        "Control Specification": "Use encryption algorithms that are appropriate for data protection,\n considering the classification of data, associated risks, and usability of the\n encryption technology.",
+        "Auditing Guidelines": "1. Identify the encryption algorithms in use.\n 2. Confirm that identified encryption algorithms have been reviewed and approved by appropriate management.\n 3. Confirm that the encryption algorithm approval process includes assessment of the appropriateness of the algorithm for the data it is protecting, any associated risks, and the algorithm's usability."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Management",
+        "Control ID": "CEK-05",
+        "Control Specification": "Establish a standard change management procedure, to accommodate\n changes from internal and external sources, for review, approval, implementation\n and communication of cryptographic, encryption and key management technology\n changes.",
+        "Auditing Guidelines": "1. Examine policy and procedures and obtain evidence that these include the change management process.\n 2. Obtain representative samples of recent changes relating to cryptographic, encryption, and key management technology.\n 3. Confirm that sample changes have followed the organization change management procedures, including approval by appropriate individuals, communication of changes to relevant stakeholders, and assessment of the success of implementing changes with any required remediation actions being tracked."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Cost Benefit Analysis",
+        "Control ID": "CEK-06",
+        "Control Specification": "Manage and adopt changes to cryptography-, encryption-, and key management-related\n systems (including policies and procedures) that fully account for downstream\n effects of proposed changes, including residual risk, cost, and benefits analysis.",
+        "Auditing Guidelines": "1. Obtain a copy of the change management policy and procedures. Confirm that these documents include assessment of impact on downstream effects, including residual risk, cost, and benefit analysis.\n 2. Examine recent changes made to cryptography-, encryption-, and key management-related systems (including policy and procedures), and confirm that these changes include an account of downstream effects of proposed changes, including residual risk, cost, and benefits analysis.\n 3. Confirm that the changes have been reviewed and approved by appropriate management."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Risk Management",
+        "Control ID": "CEK-07",
+        "Control Specification": "Establish and maintain an encryption and key management risk program\n that includes provisions for risk assessment, risk treatment, risk context,\n monitoring, and feedback.",
+        "Auditing Guidelines": "1. Identify and confirm the existence of the organization's risk assessment process and obtain the risk register.\n 2. Confirm that the risk register includes as part of a regular process or control review encryption and key management.\n 3. Obtain evidence that demonstrates that a risk assessment is performed of the encryption and key management program and process."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CSC Key Management Capability",
+        "Control ID": "CEK-08",
+        "Control Specification": "CSPs must provide the capability for CSCs to manage their own data\n encryption keys.",
+        "Auditing Guidelines": "1. Identity CSC's data key encryption policy and standards.\n 2. Review the implementation of the CSP key broker and key management services (KMS) and the cloud hardware security modules (HSMs).\n 3. Confirm that the configuration enables appropriate management of the key, e.g., customer-managed master key, CSP-managed master key, and CSP-owned master key.\n 4. Confirm that HSM meets internal compliance standards, e.g., FIPS 140-2."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Audit",
+        "Control ID": "CEK-09",
+        "Control Specification": "Audit encryption and key management systems, policies, and processes\n with a frequency that is proportional to the risk exposure of the system with\n audit occurring preferably continuously but at least annually and after any\n security event(s).",
+        "Auditing Guidelines": "1. Examine the master audit plan to confirm that audits of encryption and key management systems, policy and processes are included in the plan.\n 2. Review previously completed audits and confirm that audits of encryption and key management systems, policy and processes have been completed and that any issues raised have been included in issue logs and tracked appropriately."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Generation",
+        "Control ID": "CEK-10",
+        "Control Specification": "Generate Cryptographic keys using industry accepted cryptographic\n libraries specifying the algorithm strength and the random number generator\n used.",
+        "Auditing Guidelines": "1. Confirm that the organization has an approved process for the generation of cryptographic keys.\n 2. Identify the keys being used.\n 3. Observe the generation of an encryption key in a production-like sandbox or as a test tenant in production and confirm the keys have been generated according to the appropriate procedure and technical specifications."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Purpose",
+        "Control ID": "CEK-11",
+        "Control Specification": "Manage cryptographic secret and private keys that are provisioned\n for a unique purpose.",
+        "Auditing Guidelines": "1. Obtain copies of the policy and procedures detailing the management of secret and private cryptographic keys.\n 2. Identify cryptographic secret and private keys that have been provisioned for a unique purpose.\n 3. Ascertain that these keys are being managed in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Rotation",
+        "Control ID": "CEK-12",
+        "Control Specification": "Rotate cryptographic keys in accordance with the calculated cryptoperiod,\n which includes provisions for considering the risk of information disclosure\n and legal and regulatory requirements.",
+        "Auditing Guidelines": "Consider the symmetric vs. asymmetric key rotation capabilities of CSPs and an appropriate rotation process adopted.\n 1. Confirm that policy and procedures include a requirement for regular key rotation.\n 2. Identify keys used within the organization. Confirm that these keys are part of the rotation process.\n 3. Review the key rotation process to confirm logging and monitoring of key rotation, tracking of date, time, encryption algorithm used, and authorization process used."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Revocation",
+        "Control ID": "CEK-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to revoke and remove cryptographic keys prior to the end of its established\n cryptoperiod, when a key is compromised, or an entity is no longer part of the\n organization, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Examine the organization procedures and confirm the existence of a key revocation process.\n 2. Identify a population of keys and confirm that they are captured within the key revocation process.\n 3. Confirm that a list of entities no longer part of the organization is maintained."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Destruction",
+        "Control ID": "CEK-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to destroy keys stored outside a secure environment and revoke keys\n stored in Hardware Security Modules (HSMs) when they are no longer needed, which\n include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of key destruction processes and procedures.\n 2. Review the access permissions for the destruction and restoration of keys and confirm that only appropriate individuals have access to these capabilities.\n 3. Review keys that have been destroyed and ascertain the appropriate process and procedure have been followed.\n 4. Establish documented criteria that determine when it is appropriate for a cryptographic key to be stored outside a secure environment."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Activation",
+        "Control ID": "CEK-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to create keys in a pre-activated state when they have been generated\n but not authorized for use, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to generate keys.\n 2. Confirm that the access and permissions around the key creation process is restricted to appropriate individuals.\n 3. Identify the key management server and the key storage database.\n 4. Review the key attributes and confirm that these are appropriate for the key, e.g., activation data, instance, deletion ability, rollover, etc.\n 5. Confirm the key activation process, e.g., manual, on creation, at a future time.\n 6. Review the pre-activated keys."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Suspension",
+        "Control ID": "CEK-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to monitor, review and approve key transitions from any state to/from\n suspension, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to manage the transition state of keys.\n 2. Review the access and permissions regarding the transition state of keys and confirm that these are restricted to appropriate individuals.\n 3. Verify that it is possible to modify a key state and suspend/disable keys when required."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Deactivation",
+        "Control ID": "CEK-17",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to deactivate keys at the time of their expiration date, which include\n provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to deactivate keys.\n 2. Review the access and permissions around the key deactivation process and confirm this is restricted to appropriate individuals.\n 3. Review key deactivation process and configurations. Confirm that they are in line with internal and external requirements. \n 4. Confirm the key deactivation process e.g. manual, on expiration, at a defined future time."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Archival",
+        "Control ID": "CEK-18",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to manage archived keys in a secure repository requiring least privilege\n access, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of a documented and valid process for key archival.\n 2. Verify that the key archival process implements least privilege throughout the key archival cycle.\n 3. Establish whether the storage medium is secure, as per internal and external requirements."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Compromise",
+        "Control ID": "CEK-19",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to use compromised keys to encrypt information only in controlled circumstance,\n and thereafter exclusively for decrypting data and never for encrypting data,\n which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined processes, procedures and technical measures for secure handling of compromised keys.\n 2. Review if the process for secure usage of compromised keys fulfills the organization and external business / operational continuity requirements.\n 3. Evaluate the significance of technical and organizational measures defined and implemented for usage of compromised keys in a secure environment."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Recovery",
+        "Control ID": "CEK-20",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to assess the risk to operational continuity versus the risk of the\n keying material and the information it protects being exposed if control of\n the keying material is lost, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined processes and procedures for handling the operational risk of compromised keys.\n 2. Determine if the key recovery process fulfills the organization and external business / operational continuity requirements.\n 3. Evaluate the significance of technical and organizational measures as per the key management lifecycle."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Inventory Management",
+        "Control ID": "CEK-21",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures in order for the key management system to track and report all cryptographic\n materials and changes in status, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined the key management processes.\n 2. Review the processes for key lifecycle management (creation, rotation, storage, disposal) with respect to organization and external (regulatory) requirements.\n 3. Evaluate if the processes and procedures for change management of key management systems provide an overall traceability of lifecycle steps."
+    }
+]

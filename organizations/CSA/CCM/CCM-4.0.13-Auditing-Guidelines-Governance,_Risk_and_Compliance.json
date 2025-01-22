@@ -1,0 +1,58 @@
+[
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Program Policy and Procedures",
+        "Control ID": "GRC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for an information governance program, which is sponsored\n by the leadership of the organization. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to information governance programs to determine whether the organization has developed a comprehensive strategy for information governance.\n 2. Examine policies and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Risk Management Program",
+        "Control ID": "GRC-02",
+        "Control Specification": "Establish a formal, documented, and leadership-sponsored Enterprise\n Risk Management (ERM) program that includes policies and procedures for identification,\n evaluation, ownership, treatment, and acceptance of cloud security and privacy\n risks.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine whether the organization has developed a comprehensive strategy to manage risk to organizational operations and assets, and individuals.\n 2. Review ERM documentation, processes, and supporting evidence to confirm if the ERM program includes provisions for cloud security and privacy risk. \n 3. Examine measure(s) that evaluate(s) the organization's compliance with the risk management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level. \n 4. Obtain and examine supporting evidence to determine if the office or individual responsible reviews the information and, if issues were identified, if they were investigated and remediated appropriately."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Organizational Policy Reviews",
+        "Control ID": "GRC-03",
+        "Control Specification": "Review all relevant organizational policies and associated procedures\n at least annually or when a substantial change occurs within the organization.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine if the organization reviews these documents at least annually or when a substantial change occurs within the organization.\n 2. Confirm that Policy reviews have taken place in compliance with the organization's review requirements and that any exceptions identified are investigated and remediated."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Policy Exception Process",
+        "Control ID": "GRC-04",
+        "Control Specification": "Establish and follow an approved exception process as mandated by\n the governance program whenever a deviation from an established policy occurs.",
+        "Auditing Guidelines": "1.Examine the policy and/or procedures to determine if the policy exception process has been established.\n 2.Identify and confirm that exceptions to policies are tracked, authorised, and evidenced.\n 3.Confirm a review of policy exceptions takes place on a periodic basis by appropriate management."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information Security Program",
+        "Control ID": "GRC-05",
+        "Control Specification": "Develop and implement an Information Security Program, which includes\n programs for all the relevant domains of the CCM.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Information Security Program to determine whether the organization has developed and implemented a comprehensive strategy to manage Information Security across the organization.\n 2. Review the details of the information security program and establish if this covers the CCMv4 relevant domains.\n 3. Confirm that identified gaps/issues are being tracked, monitored, and remediated with appropriate escalation where required."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Responsibility Model",
+        "Control ID": "GRC-06",
+        "Control Specification": "Define and document roles and responsibilities for planning, implementing,\n operating, assessing, and improving governance programs.",
+        "Auditing Guidelines": "1. Confirm the organization has established a governance framework which details roles, responsibilities, and accountability.\n 2. Evidence that governance meetings are reported and documented appropriately.\n 3. Confirm that individuals/groups responsible for governance are tracking and monitoring progress against the governance program."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information System Regulatory Mapping",
+        "Control ID": "GRC-07",
+        "Control Specification": "Identify and document all relevant standards, regulations, legal/contractual,\n and statutory requirements, which are applicable to your organization.",
+        "Auditing Guidelines": "1. Confirm that policy and procedures include provisions to identify and document all relevant standards, regulations, legal/contractual, and statutory requirements.\n 2. Establish that the organization maintains an inventory of CCM controls and relevant regulatory information is mapped across to the CCM inventory. \n 3. Identify and examine any metrics and supporting evidence to provide assurance that the information system regulatory mapping is reviewed on a periodic basis, and that any gaps in the mapping are appropriately actioned."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Special Interest Groups",
+        "Control ID": "GRC-08",
+        "Control Specification": "Establish and maintain contact with cloud-related special interest\n groups and other relevant entities in line with business context.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to contact with cloud-related special interest groups to determine if membership is required and actively maintained.\n 2. Identify relevant individuals responsible for contacting cloud-related special interest groups and determine if the policy requirements stipulated in the policy level have been implemented."
+    }
+]

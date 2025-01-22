@@ -1,0 +1,79 @@
+[
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Management Policy and Procedures",
+        "Control ID": "BCR-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n business continuity management and operational resilience policies and procedures.\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to business continuity and resilience.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Risk Assessment and Impact Analysis",
+        "Control ID": "BCR-02",
+        "Control Specification": "Determine the impact of business disruptions and risks to establish\n criteria for developing business continuity and operational resilience strategies\n and capabilities.",
+        "Auditing Guidelines": "1. Examine the policy to determine business impact and the criteria for developing business continuity.\n 2. Evaluate the process to review and approve the policy."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Strategy",
+        "Control ID": "BCR-03",
+        "Control Specification": "Establish strategies to reduce the impact of, withstand, and recover\n from business disruptions within risk appetite.",
+        "Auditing Guidelines": "1. Determine if the organization has established a risk appetite.\n 2. Determine if the organization has established strategies to reduce impact of business disruptions, within the organization’s risk appetite."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Planning",
+        "Control ID": "BCR-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a business continuity plan based on the results of the operational resilience\n strategies and capabilities.",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery, and support of the organization's application security capabilities.\n 2. Evaluate if the organization’s operational resilience strategies and capabilities are used as an input for the policy and implementation.\n 3. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Documentation",
+        "Control ID": "BCR-05",
+        "Control Specification": "Develop, identify, and acquire documentation that is relevant to\n support the business continuity and operational resilience programs. Make the\n documentation available to authorized stakeholders and review periodically.",
+        "Auditing Guidelines": "1. Examine the process for determining the documentation required to support business continuity and operational resilience.\n 2. Examine the process for developing or acquiring such documentation and maintaining its currency.\n 3. Evaluate the process and implementation of identifying stakeholders and making documentation available.\n 4. Examine the policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Exercises",
+        "Control ID": "BCR-06",
+        "Control Specification": "Exercise and test business continuity and operational resilience\n plans at least annually or upon significant changes.",
+        "Auditing Guidelines": "1. Examine the plans for business continuity and operational resilience tests, with reference to their intended outputs.\n 2. Examine the schedules of such tests and their periodicity.\n 3. Evaluate if the plans are tested upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Communication",
+        "Control ID": "BCR-07",
+        "Control Specification": "Establish communication with stakeholders and participants in the\n course of business continuity and resilience procedures.",
+        "Auditing Guidelines": "1. Examine the policy for determining stakeholders and participants.\n 2. Determine if the organization has identified stakeholders and participants.\n 3. Examine the procedures for communication with identified stakeholders and participants."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Backup",
+        "Control ID": "BCR-08",
+        "Control Specification": "Periodically backup data stored in the cloud. Ensure the confidentiality,\n integrity and availability of the backup, and verify data restoration from backup\n for resiliency.",
+        "Auditing Guidelines": "1. Examine the policy for identifying data for which a backup is required.\n 2. Examine the requirements for the security of such backups.\n 3. Evaluate the effectiveness of the backup and restore."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Disaster Response Plan",
+        "Control ID": "BCR-09",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a disaster response plan to recover from natural and man-made disasters. Update\n the plan at least annually or upon significant changes.",
+        "Auditing Guidelines": "1. Examine the policy and procedures for adequacy, approval, communication, and effectiveness as applicable to a disaster response plan.\n 2. Examine the policy and procedures for evidence of review, upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Response Plan Exercise",
+        "Control ID": "BCR-10",
+        "Control Specification": "Exercise the disaster response plan annually or upon significant\n changes, including if possible local emergency authorities.",
+        "Auditing Guidelines": "1. Examine the policy for planning and scheduling disaster response exercises, and involving local emergency authorities, if possible.\n 2. Evaluate if plans are tested upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Equipment Redundancy",
+        "Control ID": "BCR-11",
+        "Control Specification": "Supplement business-critical equipment with redundant equipment independently\n located at a reasonable minimum distance in accordance with applicable industry\n standards.",
+        "Auditing Guidelines": "1. Examine the process to identify business-critical equipment and any redundant equipment.\n 2. Examine the process to identify applicable industry standards.\n 3. Evaluate if the redundant business-critical equipment is independently located at a reasonable distance."
+    }
+]

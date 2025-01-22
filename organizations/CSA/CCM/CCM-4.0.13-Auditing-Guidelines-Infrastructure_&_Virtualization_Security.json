@@ -1,0 +1,65 @@
+[
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Infrastructure and Virtualization Security Policy and Procedures",
+        "Control ID": "IVS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for infrastructure and virtualization security. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Interview the team to determine if policy and procedures have been documented.\n 2. Evaluate the documented policy to determine if it has been approved and communicated to the relevant internal and external teams.\n 3. Determine if the policy has been applied to the infrastructure and virtualization security operations and if relevant procedures have been drafted.\n 4. Determine if the procedures are periodically evaluated and if they are maintained, up to date, and relevant.\n 5. Determine if policy and procedures are reviewed and updated on an annual basis. Policy may contain segregation of environments and roles, change management requirements and continuous exercising."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Capacity and Resource Planning",
+        "Control ID": "IVS-02",
+        "Control Specification": "Plan and monitor the availability, quality, and adequate capacity\n of resources in order to deliver the required system performance as determined\n by the business.",
+        "Auditing Guidelines": "1. Determine if the business requirements for system performance are available.\n 2. Determine if evidence exists that points to planning and monitoring of the availability, quality and capacity of resources.\n 3. Determine if evidence exists that establishes that the plan is appropriate and adequate to meet the expectations of the business requirements established in the first guideline."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Security",
+        "Control ID": "IVS-03",
+        "Control Specification": "Monitor, encrypt and restrict communications between environments\n to only authenticated and authorized connections, as justified by the business.\n Review these configurations at least annually, and support them by a documented\n justification of all allowed services, protocols, ports, and compensating controls.",
+        "Auditing Guidelines": "1. Examine the policy for communication between environments.\n 2. Examine the criteria for business justification of communication, and reviews.\n 3. Determine if the inventory of allowed communication has been reviewed, at least annually.\n 4. Evaluate the effectiveness of the monitoring and encryption of such communication.\n 5. Evaluate the details of business justification, and its review."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "OS Hardening and Base Controls",
+        "Control ID": "IVS-04",
+        "Control Specification": "Harden host and guest OS, hypervisor or infrastructure control plane\n according to their respective best practices, and supported by technical controls,\n as part of a security baseline.",
+        "Auditing Guidelines": "1. Determine if the host and the guest OS has been hardened as per best practices.\n 2. Determine if the hypervisor or infrastructure control planes are hardened as per best practices.\n 3. Determine if appropriate technical controls exist that ensure that the hardening is done.\n 4. Determine if a security baseline has been set up.\n 5. Determine if the security baseline contains information about the hardening done."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Production and Non-Production Environments",
+        "Control ID": "IVS-05",
+        "Control Specification": "Separate production and non-production environments.",
+        "Auditing Guidelines": "1. Verify if production and non-production environments are appropriately segregated.\n 2. Verify if the segregation is reviewed and managed during change management.\n 3. Verify the classification of data contained in each environment."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Segmentation and Segregation",
+        "Control ID": "IVS-06",
+        "Control Specification": "Design, develop, deploy and configure applications and infrastructures\n such that CSP and CSC (tenant) user access and intra-tenant access is appropriately\n segmented and segregated, monitored and restricted from other tenants.",
+        "Auditing Guidelines": "1. Review evidence to verify that the design and development of applications and infrastructure ensure appropriate best practices such as hardening, segmentation, and segregation is incorporated and the shared responsibility model between the CSP and CSC is maintained.\n 2. Review evidence to verify that the deployment and configuration of applications and infrastructure follow appropriate hardening, segmentation, and segregation is incorporated and the shared responsibility model between the CSP and CSC is maintained.\n 3. Review evidence to determine that segmentation and segregation is monitored.\n 4. Review evidence to determine that the tenants are isolated from each other."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Migration to Cloud Environments",
+        "Control ID": "IVS-07",
+        "Control Specification": "Use secure and encrypted communication channels when migrating servers,\n services, applications, or data to cloud environments. Such channels must include\n only up-to-date and approved protocols.",
+        "Auditing Guidelines": "1. Examine the list of environments that will be the target of migrations.\n 2. Examine the criteria for maintaining a list of approved protocols.\n 3. Examine the records of migrations."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Architecture Documentation",
+        "Control ID": "IVS-08",
+        "Control Specification": "Identify and document high-risk environments.",
+        "Auditing Guidelines": "1. Examine the criteria for identifying high-risk environments.\n 2. Examine the inventory of high-risk environments, and periodicity of review."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Defense",
+        "Control ID": "IVS-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and defense-in-depth\n techniques for protection, detection, and timely response to network-based attacks.",
+        "Auditing Guidelines": "1. Interview the team to evaluate if they have defined processes and procedures for protection, detection and timely response to address network based attacks.\n 2. Review evidence to establish that the defined processes and procedures have been implemented.\n 3. Review evidence to establish that the processes and procedures are evaluated and validated periodically.\n 4. Review evidence to establish that the processes and procedures are based upon a defense-in-depth.\n 5. Review evidence to support the effective activation of incident response plans when necessary including the associated communication protocols."
+    }
+]
