@@ -1,0 +1,79 @@
+[
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Management Policy and Procedures",
+        "Control ID": "BCR-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\nbusiness continuity management and operational resilience policies and procedures.\nReview and update the policies and procedures at least annually, or when significant changes occur that could impact risk exposure.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Risk Assessment and Impact Analysis",
+        "Control ID": "BCR-02",
+        "Control Specification": "Determine the impact of business disruptions and risks to establish\ncriteria for developing business continuity and operational resilience strategies\nand capabilities.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Strategy",
+        "Control ID": "BCR-03",
+        "Control Specification": "Establish strategies to reduce the impact of, withstand, and recover\nfrom business disruptions within risk appetite.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Planning",
+        "Control ID": "BCR-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\na business continuity plan based on the results of the operational resilience\nstrategies and capabilities.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Documentation",
+        "Control ID": "BCR-05",
+        "Control Specification": "Develop, identify, and acquire documentation that is relevant to\nsupport the business continuity and operational resilience programs. Make the\ndocumentation available to authorized stakeholders and review periodically.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Exercises",
+        "Control ID": "BCR-06",
+        "Control Specification": "Exercise and test business continuity and operational resilience\nplans at least annually or upon significant changes.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Communication",
+        "Control ID": "BCR-07",
+        "Control Specification": "Establish communication with stakeholders and participants in the\ncourse of business continuity and resilience procedures.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Backup",
+        "Control ID": "BCR-08",
+        "Control Specification": "Periodically backup data stored in the cloud. Ensure the confidentiality,\nintegrity and availability of the backup, and verify data restoration from backup\nfor resiliency.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Disaster Response Plan",
+        "Control ID": "BCR-09",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\na disaster response plan to recover from natural and man-made disasters. Update\nthe plan at least annually or upon significant changes.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Response Plan Exercise",
+        "Control ID": "BCR-10",
+        "Control Specification": "Exercise the disaster response plan annually or upon significant\nchanges, including, if possible, local emergency authorities.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Equipment Redundancy",
+        "Control ID": "BCR-11",
+        "Control Specification": "Supplement business-critical equipment with redundant equipment independently\nlocated at a reasonable minimum distance in accordance with applicable industry\nstandards.\n",
+        "Control Type": "Cloud & AI Related"
+    }
+]

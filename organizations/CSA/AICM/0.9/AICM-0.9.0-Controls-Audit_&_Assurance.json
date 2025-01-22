@@ -1,0 +1,44 @@
+[
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit and Assurance Policy and Procedures",
+        "Control ID": "A&A-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\naudit and assurance policies and procedures and standards. Review and update\nthe policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Independent Assessments",
+        "Control ID": "A&A-02",
+        "Control Specification": "Conduct independent audit and assurance assessments according to\nrelevant standards at least annually.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Risk Based Planning Assessment",
+        "Control ID": "A&A-03",
+        "Control Specification": "Perform independent audit and assurance assessments according to\nrisk-based plans and policies.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Requirements Compliance",
+        "Control ID": "A&A-04",
+        "Control Specification": "Verify compliance with all relevant standards, regulations, legal/contractual,\nand statutory requirements applicable to the audit.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit Management Process",
+        "Control ID": "A&A-05",
+        "Control Specification": "Define and implement an Audit Management process to support audit planning, risk analysis, security control assessment, conclusion, remediation\nschedules, report generation, and review of past reports and supporting evidence.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Remediation",
+        "Control ID": "A&A-06",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\na risk-based corrective action plan to remediate audit findings, review and\nreport remediation status to relevant stakeholders.\n",
+        "Control Type": "Cloud & AI Related"
+    }
+]

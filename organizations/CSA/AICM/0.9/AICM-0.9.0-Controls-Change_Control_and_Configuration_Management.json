@@ -1,0 +1,65 @@
+[
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Policy and Procedures",
+        "Control ID": "CCC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for managing the risks associated with applying changes\nto organization assets, including application, systems, infrastructure, configuration,  AI/ML artifacts,\netc., regardless of whether the assets are managed internally or externally\n(i.e., outsourced). Review and update the policies and procedures at least annually, or upon significant changes.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Quality Testing",
+        "Control ID": "CCC-02",
+        "Control Specification": "Follow a defined quality change control, approval and testing process\nwith established baselines, testing, and release standards.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Technology",
+        "Control ID": "CCC-03",
+        "Control Specification": "Implement and enforce a procedure to manage the risks associated with applying changes to organization\nassets, including application, systems, infrastructure, configuration, AI/ML artifacts, etc.,\nregardless of whether the assets are managed internally or externally (i.e.,\noutsourced).",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Unauthorized Change Protection",
+        "Control ID": "CCC-04",
+        "Control Specification": "Restrict the unauthorized addition, removal, update, and management\nof organization assets.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Agreements",
+        "Control ID": "CCC-05",
+        "Control Specification": "Include provisions limiting changes directly impacting CSCs owned\nenvironments/tenants to explicitly authorized requests within service level\nagreements between CSPs and CSCs.",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Baseline",
+        "Control ID": "CCC-06",
+        "Control Specification": "Establish change management baselines for all relevant authorized\nchanges on organization assets.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Detection of Baseline Deviation",
+        "Control ID": "CCC-07",
+        "Control Specification": "Implement detection measures with proactive notification in case\nof changes deviating from the established baseline.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Exception Management",
+        "Control ID": "CCC-08",
+        "Control Specification": "Implement a procedure for the management of exceptions, including\nemergencies, in the change and configuration process. Align the procedure with\nthe requirements of GRC-04: Policy Exception Process.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Restoration",
+        "Control ID": "CCC-09",
+        "Control Specification": "Define and implement a process to proactively roll back changes to\na previous known good state in case of errors or security concerns.",
+        "Control Type": "Cloud & AI Related"
+    }
+]

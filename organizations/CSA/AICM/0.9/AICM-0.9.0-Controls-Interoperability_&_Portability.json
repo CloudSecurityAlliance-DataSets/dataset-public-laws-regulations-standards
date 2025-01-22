@@ -1,0 +1,30 @@
+[
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Interoperability and Portability Policy and Procedures",
+        "Control ID": "IPY-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for interoperability and portability including\nrequirements for:\na. Communications between application interfaces\nb. Information processing interoperability\nc. Application development portability\nd. Information/Data exchange, usage, portability, integrity, and persistence\nReview and update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Application Interface Availability",
+        "Control ID": "IPY-02",
+        "Control Specification": "Provide application interface(s) to CSCs so that they programmatically\nretrieve their data to enable interoperability and portability.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Secure Interoperability and Portability Management",
+        "Control ID": "IPY-03",
+        "Control Specification": "Implement cryptographically secure and standardized network protocols\nfor the management, import and export of data.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Data Portability Contractual Obligations",
+        "Control ID": "IPY-04",
+        "Control Specification": "Agreements must include provisions specifying CSCs access to data\nupon contract termination and will include:\na. Data format\nb. Length of time the data will be stored\nc. Scope of the data retained and made available to the CSCs\nd. Data deletion policy\n",
+        "Control Type": "Cloud-Specific"
+    }
+]

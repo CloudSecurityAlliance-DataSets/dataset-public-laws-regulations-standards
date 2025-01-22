@@ -1,0 +1,114 @@
+[
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application and Interface Security Policy and Procedures",
+        "Control ID": "AIS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and \nmaintain policies and procedures for application security to \nprovide guidance to the appropriate planning, delivery and \nsupport of the organization's application security capabilities. \nReview and update the policies and procedures at least annually \nor after significant system changes occur that could impact risk exposure.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Baseline Requirements",
+        "Control ID": "AIS-02",
+        "Control Specification": "Establish, document and maintain baseline requirements for \nsecuring different applications.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Metrics",
+        "Control ID": "AIS-03",
+        "Control Specification": "Define and implement technical and operational metrics in alignment\nwith business objectives, security requirements, and compliance obligations.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Secure Application Design and Development",
+        "Control ID": "AIS-04",
+        "Control Specification": "Define and implement a software development lifecycle (SDLC) process for application design, development,\ndeployment, and operation in accordance with security requirements defined by\nthe organization.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Application Security Testing",
+        "Control ID": "AIS-05",
+        "Control Specification": "Implement a testing strategy, including criteria for acceptance of\nnew information systems, upgrades and new versions, which provides application\nsecurity assurance and maintains compliance while enabling organizational speed\nof delivery goals. Automate when applicable and possible.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Secure Application Deployment",
+        "Control ID": "AIS-06",
+        "Control Specification": "Establish and implement strategies and capabilities for secure, standardized,\nand compliant application deployment. Automate where possible.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Vulnerability Remediation",
+        "Control ID": "AIS-07",
+        "Control Specification": "Define and implement a process to remediate application security\nvulnerabilities, automating remediation when possible.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Input Validation",
+        "Control ID": "AIS-08",
+        "Control Specification": "Validate input data for accuracy, completeness, and consistency before using it for training models. Identify and remove outliers that deviate significantly from expected patterns. Pay special attention to user input if allowed for training to prevent manipulation. Validate user input against adversarial patterns, failure patterns and unwanted behaviour, according to relevant first and third party standards.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Output Validation",
+        "Control ID": "AIS-09",
+        "Control Specification": "Validate output format, syntax, semantic, safety checks, consistency and accuracy. Validate and sanitize output against patterns of adversarial attacks, in accordance with established guardrails and known insecure output patterns such as those covered in OWASP AI and LLM Top 10. This includes output directly from the model and output from the caching systems integrated with AI applications.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "API Security Technical Measures",
+        "Control ID": "AIS-10",
+        "Control Specification": "Implement technical security measures and processes to help protect APIs, including authorization flaws, API key management, regular security testing of APIs, and other unique threats to the API's supporting business software. Review and update these technical measures for any improvements at least annually.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Code Review, Version Control, and Static Code Analysis",
+        "Control ID": "AIS-11",
+        "Control Specification": "Implement model development practices, such as version control, code review & static code analysis, aligning with the SDLC process established in AIS-04.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Agent Tool Access Restriction",
+        "Control ID": "AIS-12",
+        "Control Specification": "Restrict access in agent-based solutions to only the tools and plugins strictly necessary for the activity or use case at hand, ensuring resource segregation and adherence to the principle of least privilege.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Tool/Plugin Input Parameter Validation",
+        "Control ID": "AIS-13",
+        "Control Specification": "Perform preliminary validation of input parameters provided to tools and plugins used by agents before execution, including type checks, format checks, range checks, and sanitization of input against malicious sequences (e.g., SQL Injection Strings).",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "AI Sandboxing",
+        "Control ID": "AIS-14",
+        "Control Specification": "Implement sandboxing techniques to execute tools and \nplugins in isolated environments to prevent unintended \ninteractions with critical systems or data and limit the \npossibility of lateral movement.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "AI Cache Protection",
+        "Control ID": "AIS-15",
+        "Control Specification": "Implement security measures to protect cache systems in \nLLMs, including encryption of data, application of strict \naccess controls, and mechanisms to avoid the retention of \nsensitive information in fast memory, mitigating the risk of \nunauthorized access or data poisoning.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Input Spotlighting",
+        "Control ID": "AIS-16",
+        "Control Specification": "Implement mechanisms enabling the model to clearly distinguish user-provided input instructions from data and system instructions (e.g., system prompts) using input formatting techniques (e.g., border strings, data marking) and standard templates to limit ambiguity or incorrect prioritization of instructions.",
+        "Control Type": "AI-Specific"
+    }
+]

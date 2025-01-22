@@ -1,0 +1,128 @@
+[
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity and Access Management Policy and Procedures",
+        "Control ID": "IAM-01",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\nand maintain policies and procedures for identity and access management. Review\nand update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Password Policy and Procedures",
+        "Control ID": "IAM-02",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\nand maintain strong password policies and procedures. Review and update the\npolicies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity Inventory",
+        "Control ID": "IAM-03",
+        "Control Specification": "Manage, store, and review the information of system identities, and\nlevel of access.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Separation of Duties",
+        "Control ID": "IAM-04",
+        "Control Specification": "Employ the separation of duties principle when implementing information\nsystem access.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Least Privilege",
+        "Control ID": "IAM-05",
+        "Control Specification": "Employ the least privilege principle when implementing information\nsystem access.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Provisioning",
+        "Control ID": "IAM-06",
+        "Control Specification": "Define and implement a user access provisioning process which authorizes,\nrecords, and communicates access changes to data and assets.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Changes and Revocation",
+        "Control ID": "IAM-07",
+        "Control Specification": "De-provision or respectively modify access of movers / leavers or\nsystem identity changes in a timely manner in order to effectively adopt and\ncommunicate identity and access management policies.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Review",
+        "Control ID": "IAM-08",
+        "Control Specification": "Review and revalidate user access for least privilege and separation\nof duties with a frequency that is commensurate with organizational risk tolerance.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Segregation of Privileged Access Roles",
+        "Control ID": "IAM-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures for the segregation of privileged access roles such that administrative\naccess to data, encryption and key management capabilities and logging capabilities\nare distinct and separated.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Management of Privileged Access Roles",
+        "Control ID": "IAM-10",
+        "Control Specification": "Define and implement an access process to ensure privileged access\nroles and rights are granted for a time limited period, and implement procedures\nto prevent the culmination of segregated privileged access.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "CSCs Approval for Agreed Privileged Access Roles",
+        "Control ID": "IAM-11",
+        "Control Specification": "Define, implement and evaluate processes and procedures for customers\nto participate, where applicable, in the granting of access for agreed, high\nrisk (as defined by the organizational risk assessment) privileged access roles.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Safeguard Logs Integrity",
+        "Control ID": "IAM-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to ensure the logging infrastructure is read-only for all with write\naccess, including privileged access roles, and that the ability to disable it\nis controlled through a procedure that ensures the segregation of duties and\nbreak glass procedures.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Uniquely Identifiable Users",
+        "Control ID": "IAM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures that ensure users are identifiable through unique IDs or which can\nassociate individuals to the usage of user IDs.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Authentication",
+        "Control ID": "IAM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures for authenticating access to systems, application and data assets,\nincluding multifactor authentication for at least privileged user and sensitive\ndata access. Adopt digital certificates or alternatives which achieve an equivalent\nlevel of security for system identities.",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Passwords Management",
+        "Control ID": "IAM-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures for the secure management of passwords.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Authorization Mechanisms",
+        "Control ID": "IAM-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to verify access to data and system functions is authorized.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Knowledge Access Control - Need to Know",
+        "Control ID": "IAM-17",
+        "Control Specification": "Define policy and procedure for \"need to know\" access within the organization and in the context of the AI system to be applied when regulating access to resources.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Intervention Control - Need special authorization",
+        "Control ID": "IAM-18",
+        "Control Specification": "If allowing model output manipulation before returning to end user, establish a role for this access. Only allow changes by authorized subjects with this role.",
+        "Control Type": "Cloud & AI Related"
+    }
+]

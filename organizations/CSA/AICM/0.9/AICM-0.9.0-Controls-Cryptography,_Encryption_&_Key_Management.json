@@ -1,0 +1,149 @@
+[
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Policy and Procedures",
+        "Control ID": "CEK-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for Cryptography, Encryption and Key Management. \nReview and update the policies and procedures at least annually.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CEK Roles and Responsibilities",
+        "Control ID": "CEK-02",
+        "Control Specification": "Define and implement cryptographic, encryption and key management\nroles and responsibilities.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Data Encryption",
+        "Control ID": "CEK-03",
+        "Control Specification": "Provide cryptographic protection to data at-rest and in-transit,\nusing cryptographic libraries certified to approved standards.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Algorithm",
+        "Control ID": "CEK-04",
+        "Control Specification": "Use encryption algorithms that are appropriate for data protection,\nconsidering the classification of data, associated risks, and usability of the\nencryption technology.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Management",
+        "Control ID": "CEK-05",
+        "Control Specification": "Establish a standard change management procedure, to accommodate\nchanges from internal and external sources, for review, approval, implementation\nand communication of cryptographic, encryption and key management technology\nchanges.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Cost Benefit Analysis",
+        "Control ID": "CEK-06",
+        "Control Specification": "Manage and adopt changes to cryptography-, encryption-, and key management-related\nsystems (including policies and procedures) that fully account for downstream\neffects of proposed changes, including residual risk, cost, and benefits analysis.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Risk Management",
+        "Control ID": "CEK-07",
+        "Control Specification": "Establish and maintain an encryption and key management risk program\nthat includes provisions for risk assessment, risk treatment, risk context,\nmonitoring, and feedback.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CSC Key Management Capability",
+        "Control ID": "CEK-08",
+        "Control Specification": "CSPs must provide the capability for CSCs to manage their own data\nencryption keys.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Audit",
+        "Control ID": "CEK-09",
+        "Control Specification": "Audit encryption and key management systems, policies, and processes\nwith a frequency that is proportional to the risk exposure of the system with\naudit occurring preferably continuously but at least annually and after any\nsecurity event(s).",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Generation",
+        "Control ID": "CEK-10",
+        "Control Specification": "Generate Cryptographic keys using industry accepted cryptographic\nlibraries specifying the algorithm strength and the random number generator\nused.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Purpose",
+        "Control ID": "CEK-11",
+        "Control Specification": "Manage cryptographic secret and private keys that are provisioned\nfor a unique purpose.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Rotation",
+        "Control ID": "CEK-12",
+        "Control Specification": "Rotate cryptographic keys in accordance with the calculated cryptoperiod,\nwhich includes provisions for considering the risk of information disclosure\nand legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Revocation",
+        "Control ID": "CEK-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to revoke and remove cryptographic keys prior to the end of its established\ncryptoperiod, when a key is compromised, or an entity is no longer part of the\norganization, which include provisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Destruction",
+        "Control ID": "CEK-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to destroy keys stored outside a secure environment and revoke keys\nstored in Hardware Security Modules (HSMs) when they are no longer needed, which\ninclude provisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Activation",
+        "Control ID": "CEK-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to create keys in a pre-activated state when they have been generated\nbut not authorized for use, which include provisions for legal and regulatory\nrequirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Suspension",
+        "Control ID": "CEK-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to monitor, review and approve key transitions from any state to/from\nsuspension, which include provisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Deactivation",
+        "Control ID": "CEK-17",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to deactivate keys at the time of their expiration date, which include\nprovisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Archival",
+        "Control ID": "CEK-18",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to manage archived keys in a secure repository requiring least privilege\naccess, which include provisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Compromise",
+        "Control ID": "CEK-19",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to use compromised keys to encrypt information only in controlled circumstance,\nand thereafter exclusively for decrypting data and never for encrypting data,\nwhich include provisions for legal and regulatory requirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Recovery",
+        "Control ID": "CEK-20",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to assess the risk to operational continuity versus the risk of the\nkeying material and the information it protects being exposed if control of\nthe keying material is lost, which include provisions for legal and regulatory\nrequirements.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Inventory Management",
+        "Control ID": "CEK-21",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures in order for the key management system to track and report all cryptographic\nmaterials and changes in status, which include provisions for legal and regulatory\nrequirements.\n",
+        "Control Type": "Cloud & AI Related"
+    }
+]
