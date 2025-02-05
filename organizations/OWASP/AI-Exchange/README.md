@@ -1,0 +1,21 @@
+# OWASP AI Exchange
+
+
+## URLs
+
+```
+https://owaspai.org/docs/ai_security_overview/
+https://owaspai.org/docs/1_general_controls/
+https://owaspai.org/docs/2_threats_through_use/
+https://owaspai.org/docs/3_development_time_threats/
+https://owaspai.org/docs/4_runtime_application_security_threats/
+https://owaspai.org/docs/5_testing/
+https://owaspai.org/docs/ai_security_references/
+```
+
+## Get the URLs:
+
+```
+cat urls.txt | while read url; do curl -s "$url" -o "$(basename "$url").html"; done
+```
+
