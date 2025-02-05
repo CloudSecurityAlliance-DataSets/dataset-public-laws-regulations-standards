@@ -1,0 +1,548 @@
+{
+  "table_of_contents": [
+    {
+      "title": "In Their Own Words:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          165.12001037597656,
+          181.6611328125
+        ],
+        [
+          440.47265625,
+          181.6611328125
+        ],
+        [
+          440.47265625,
+          216.02142333984375
+        ],
+        [
+          165.12001037597656,
+          216.02142333984375
+        ]
+      ]
+    },
+    {
+      "title": "Translations from Chinese source \ndocuments",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          111.462890625,
+          257.5546875
+        ],
+        [
+          506.7142639160156,
+          257.5546875
+        ],
+        [
+          506.7142639160156,
+          314.70166015625
+        ],
+        [
+          111.462890625,
+          314.70166015625
+        ]
+      ]
+    },
+    {
+      "title": "Interim Measures for the Management of \nGenerative Artificial Intelligence Servicesi",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.876953125,
+          355.39453125
+        ],
+        [
+          508.306640625,
+          355.39453125
+        ],
+        [
+          508.306640625,
+          406.44140625
+        ],
+        [
+          107.876953125,
+          406.44140625
+        ]
+      ]
+    },
+    {
+      "title": "In Their Own Words",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          229.201171875,
+          422.296875
+        ],
+        [
+          385.189453125,
+          422.296875
+        ],
+        [
+          385.189453125,
+          443.1796875
+        ],
+        [
+          229.201171875,
+          443.1796875
+        ]
+      ]
+    },
+    {
+      "title": "Interim Measures for the Management of \nGenerative Artificial Intelligence Servicesii\nJuly 13, 2023",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.84803771972656,
+          73.283203125
+        ],
+        [
+          509.80078125,
+          73.283203125
+        ],
+        [
+          509.80078125,
+          143.54248046875
+        ],
+        [
+          105.84803771972656,
+          143.54248046875
+        ]
+      ]
+    },
+    {
+      "title": "Interim Measures for the Management of Generative Artificial Intelligence Services",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          91.56002807617188,
+          135.6416015625
+        ],
+        [
+          523.4376220703125,
+          135.6416015625
+        ],
+        [
+          523.4376220703125,
+          149.9501953125
+        ],
+        [
+          91.56002807617188,
+          149.9501953125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1 General Provisions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          229.798828125,
+          166.9658203125
+        ],
+        [
+          383.396484375,
+          166.9658203125
+        ],
+        [
+          383.396484375,
+          181.2744140625
+        ],
+        [
+          229.798828125,
+          181.2744140625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2 Technology Development and Governance",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          171.826171875,
+          463.67578125
+        ],
+        [
+          442.0799560546875,
+          463.67578125
+        ],
+        [
+          442.0799560546875,
+          478.37109375
+        ],
+        [
+          171.826171875,
+          478.37109375
+        ]
+      ]
+    },
+    {
+      "title": "Section 3 Service Standards",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          232.9365234375,
+          596.3203125
+        ],
+        [
+          377.419921875,
+          596.3203125
+        ],
+        [
+          377.419921875,
+          609.6839447021484
+        ],
+        [
+          232.9365234375,
+          609.6839447021484
+        ]
+      ]
+    },
+    {
+      "title": "Section 4 Supervision, Inspection and Legal Responsibilities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          152.760009765625,
+          72.31640625
+        ],
+        [
+          460.1953125,
+          72.31640625
+        ],
+        [
+          460.1953125,
+          86.625
+        ],
+        [
+          152.760009765625,
+          86.625
+        ]
+      ]
+    },
+    {
+      "title": "Section 5 Supplementary Provisions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          212.6162109375,
+          230.484375
+        ],
+        [
+          401.15997314453125,
+          230.484375
+        ],
+        [
+          401.15997314453125,
+          244.64398193359375
+        ],
+        [
+          212.6162109375,
+          244.64398193359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/2023-08-07 ITOW Interim Measures for the Management of Generative Artificial Intelligence Services"
+}
