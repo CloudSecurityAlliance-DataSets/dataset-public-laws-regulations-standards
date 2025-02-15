@@ -1,0 +1,2 @@
+https://www.pcisecuritystandards.org/document_library/
+https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf
