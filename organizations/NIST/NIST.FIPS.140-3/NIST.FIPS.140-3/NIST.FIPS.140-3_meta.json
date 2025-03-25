@@ -1,0 +1,821 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FIPS PUB 140-3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.2001953125,
+          72.509765625
+        ],
+        [
+          221.32730102539062,
+          72.509765625
+        ],
+        [
+          221.32730102539062,
+          92.4342041015625
+        ],
+        [
+          89.2001953125,
+          92.4342041015625
+        ]
+      ]
+    },
+    {
+      "title": "FEDERAL INFORMATION PROCESSING STANDARDS \nPUBLICATION\n(Supersedes FIPS PUB 140-2)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.0,
+          114.1787109375
+        ],
+        [
+          452.42578125,
+          114.1787109375
+        ],
+        [
+          452.42578125,
+          163.52020263671875
+        ],
+        [
+          90.0,
+          163.52020263671875
+        ]
+      ]
+    },
+    {
+      "title": "SECURITY REQUIREMENTS FOR CRYPTOGRAPHIC \nMODULES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.6484375,
+          186.3984375
+        ],
+        [
+          491.7898254394531,
+          186.3984375
+        ],
+        [
+          491.7898254394531,
+          223.42462158203125
+        ],
+        [
+          89.6484375,
+          223.42462158203125
+        ]
+      ]
+    },
+    {
+      "title": "CATEGORY: INFORMATION SECURITY SUBCATEGORY: CRYPTOGRAPHY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.4990234375,
+          277.083984375
+        ],
+        [
+          507.41015625,
+          277.083984375
+        ],
+        [
+          507.41015625,
+          292.2308654785156
+        ],
+        [
+          89.4990234375,
+          292.2308654785156
+        ]
+      ]
+    },
+    {
+      "title": "FOREWORD",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          270.0,
+          95.66455078125
+        ],
+        [
+          344.8800048828125,
+          95.66455078125
+        ],
+        [
+          344.8800048828125,
+          109.0439453125
+        ],
+        [
+          270.0,
+          109.0439453125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          283.4384765625,
+          73.08984375
+        ],
+        [
+          330.205078125,
+          73.08984375
+        ],
+        [
+          330.205078125,
+          86.00396728515625
+        ],
+        [
+          283.4384765625,
+          86.00396728515625
+        ]
+      ]
+    },
+    {
+      "title": "Federal Information \nProcessing Standards Publication 140-3",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          204.47999572753906,
+          72.31640625
+        ],
+        [
+          409.9921875,
+          72.31640625
+        ],
+        [
+          409.9921875,
+          99.803955078125
+        ],
+        [
+          204.47999572753906,
+          99.803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Announcing the Standard for",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.396484375,
+          141.0556640625
+        ],
+        [
+          383.396484375,
+          141.0556640625
+        ],
+        [
+          383.396484375,
+          155.0040283203125
+        ],
+        [
+          230.396484375,
+          155.0040283203125
+        ]
+      ]
+    },
+    {
+      "title": "SECURITY REQUIREMENTS FOR CRYPTOGRAPHIC MODULES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          91.5908203125,
+          168.609375
+        ],
+        [
+          523.546875,
+          168.609375
+        ],
+        [
+          523.546875,
+          185.00738525390625
+        ],
+        [
+          91.5908203125,
+          185.00738525390625
+        ]
+      ]
+    },
+    {
+      "title": "Security Requirements for Cryptographic Modules",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          113.5546875,
+          94.98779296875
+        ],
+        [
+          502.01080322265625,
+          94.98779296875
+        ],
+        [
+          502.01080322265625,
+          114.7105712890625
+        ],
+        [
+          113.5546875,
+          114.7105712890625
+        ]
+      ]
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          255.36000061035156,
+          150.8203125
+        ],
+        [
+          357.099609375,
+          150.8203125
+        ],
+        [
+          357.099609375,
+          166.11083984375
+        ],
+        [
+          255.36000061035156,
+          166.11083984375
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.307861328125,
+          79.22900390625
+        ],
+        [
+          202.904296875,
+          79.22900390625
+        ],
+        [
+          202.904296875,
+          94.4708251953125
+        ],
+        [
+          71.307861328125,
+          94.4708251953125
+        ]
+      ]
+    },
+    {
+      "title": "2. DOCUMENT BASIS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.307861328125,
+          522.45703125
+        ],
+        [
+          219.9375,
+          522.45703125
+        ],
+        [
+          219.9375,
+          537.15234375
+        ],
+        [
+          71.307861328125,
+          537.15234375
+        ]
+      ]
+    },
+    {
+      "title": "3. APPLICABLE STANDARDS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.34521484375,
+          71.30126953125
+        ],
+        [
+          264.76171875,
+          71.30126953125
+        ],
+        [
+          264.76171875,
+          86.4307861328125
+        ],
+        [
+          71.34521484375,
+          86.4307861328125
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Normative References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.5693359375,
+          91.1689453125
+        ],
+        [
+          227.70703125,
+          91.1689453125
+        ],
+        [
+          227.70703125,
+          105.01873779296875
+        ],
+        [
+          71.5693359375,
+          105.01873779296875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 International standards",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.71875,
+          187.2685546875
+        ],
+        [
+          231.890625,
+          187.2685546875
+        ],
+        [
+          231.890625,
+          200.89874267578125
+        ],
+        [
+          71.71875,
+          200.89874267578125
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Documents Modifying ISO/IEC 19790:2012(E)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.5693359375,
+          338.572265625
+        ],
+        [
+          345.4453125,
+          338.572265625
+        ],
+        [
+          345.4453125,
+          352.494140625
+        ],
+        [
+          71.5693359375,
+          352.494140625
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Documents Modifying ISO/IEC 24759:2017(E)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.04638671875,
+          71.97802734375
+        ],
+        [
+          343.951171875,
+          71.97802734375
+        ],
+        [
+          343.951171875,
+          85.21875
+        ],
+        [
+          71.04638671875,
+          85.21875
+        ]
+      ]
+    },
+    {
+      "title": "Table 1: NIST SPs that Modify ISO/IEC Standards",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          188.26171875,
+          440.47265625
+        ],
+        [
+          422.841796875,
+          440.47265625
+        ],
+        [
+          422.841796875,
+          452.9751892089844
+        ],
+        [
+          188.26171875,
+          452.9751892089844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/NIST.FIPS.140-3"
+}
