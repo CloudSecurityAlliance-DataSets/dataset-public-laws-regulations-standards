@@ -1,0 +1,381 @@
+Col_1,Controlled Unclassified Information (CUI)
+,FR Package ID#
+,CSP Name - CSO Name (System Abbreviation)
+,MM/DD/YYYY
+,(select)
+,"SSP (vx.x MM/DD/YY), SAP (vx.x MM/DD/YY), SAR (vx.x MM/DD/YY) and POA&M (MM/DD/YY)"
+,Low
+,
+,Section A: Executive Summary
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Concern = Action may be required. OK = No action required. N/A = Not applicable for this package. 
+,Section B: Documents Provided Check
+,OK/Concern
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,(select)
+,Other Comments:
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+"
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+"
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+"
+,
+,Section C: Overall SSP Checks
+,Comments
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"Agency Action: Be prepared to advise, during the FedRAMP Review Meeting, whether customer responsibilities and the CRM are satisfactory to you."
+,"
+
+"
+,"
+
+"
+,
+,"An acceptable boundary diagram is a clearly marked boundary (e.g., a labeled box or line around the components included). The diagram must be legible and readable.
+The diagram should:
+• Include a clearly defined authorization boundary,
+• Include system interconnections used to operate and support the intended mission/business functions,
+• Depict every tool, service, or component that is mentioned in the SSP narrative, and controls,
+• Identify those depicted tools, services, or components as either external or internal to the boundary, 
+• Identify all interconnected systems, and whether they are FedRAMP Authorized (or not),
+• Depict how CSP and customer/agency access the service (e.g., authentication used to access service),
+• Depict all major software/virtual components (or groups of) within the boundary,
+• Be validated against the inventory,
+• Show alternate processing site, and
+• Show pulling of updates from external services (such as OS and antivirus updates).
+
+Supporting text should describe all internal components."
+,"An acceptable boundary diagram is a clearly marked boundary (e.g., a labeled box or line around the components included). The diagram must be legible and readable.
+The diagram should:
+• Include a clearly defined authorization boundary,
+• Include system interconnections used to operate and support the intended mission/business functions,
+• Depict every tool, service, or component that is mentioned in the SSP narrative, and controls,
+• Identify those depicted tools, services, or components as either external or internal to the boundary, 
+• Identify all interconnected systems, and whether they are FedRAMP Authorized (or not),
+• Depict how CSP and customer/agency access the service (e.g., authentication used to access service),
+• Depict all major software/virtual components (or groups of) within the boundary,
+• Be validated against the inventory,
+• Show alternate processing site, and
+• Show pulling of updates from external services (such as OS and antivirus updates).
+
+Supporting text should describe all internal components."
+,"An acceptable boundary diagram is a clearly marked boundary (e.g., a labeled box or line around the components included). The diagram must be legible and readable.
+The diagram should:
+• Include a clearly defined authorization boundary,
+• Include system interconnections used to operate and support the intended mission/business functions,
+• Depict every tool, service, or component that is mentioned in the SSP narrative, and controls,
+• Identify those depicted tools, services, or components as either external or internal to the boundary, 
+• Identify all interconnected systems, and whether they are FedRAMP Authorized (or not),
+• Depict how CSP and customer/agency access the service (e.g., authentication used to access service),
+• Depict all major software/virtual components (or groups of) within the boundary,
+• Be validated against the inventory,
+• Show alternate processing site, and
+• Show pulling of updates from external services (such as OS and antivirus updates).
+
+Supporting text should describe all internal components."
+,"
+
+"
+,"
+
+"
+,"The data flow diagrams should be consistent with the authorization boundary and should: 
+• Clearly identify anywhere federal data is to be processed, stored, or transmitted,
+• Clearly delineate how data comes into and out of the system boundary, 
+• Clearly identify data flows for privileged, non-privileged and customers' access with MFA details, and
+• Depict how all ports, protocols, and services of all inbound and outbound traffic are represented and managed.
+• For each data flow, clearly depict protective mechanisms (encryption type and FIPS 140-2 validation or use of other alternative implementations such as physical protection via protective distribution systems [PDS]), where applicable.
+
+Note: If any data flows are not protected by encryption, the CSP should be prepared to provide the FedRAMP PMO clarifying details so that a risk decision can be made related to FedRAMP authorization: 
+• Identify the data flow(s) and stores that is/are not encrypted,
+• Describe the impacted data (government data, government metadata, CSP data, etc.),
+• Sensitivity of the impacted data (Low vs Moderate),
+• Mitigations in place,
+• Remediation plan, where appropriate,
+• Projected date of remediation, where appropriate."
+,"The data flow diagrams should be consistent with the authorization boundary and should: 
+• Clearly identify anywhere federal data is to be processed, stored, or transmitted,
+• Clearly delineate how data comes into and out of the system boundary, 
+• Clearly identify data flows for privileged, non-privileged and customers' access with MFA details, and
+• Depict how all ports, protocols, and services of all inbound and outbound traffic are represented and managed.
+• For each data flow, clearly depict protective mechanisms (encryption type and FIPS 140-2 validation or use of other alternative implementations such as physical protection via protective distribution systems [PDS]), where applicable.
+
+Note: If any data flows are not protected by encryption, the CSP should be prepared to provide the FedRAMP PMO clarifying details so that a risk decision can be made related to FedRAMP authorization: 
+• Identify the data flow(s) and stores that is/are not encrypted,
+• Describe the impacted data (government data, government metadata, CSP data, etc.),
+• Sensitivity of the impacted data (Low vs Moderate),
+• Mitigations in place,
+• Remediation plan, where appropriate,
+• Projected date of remediation, where appropriate."
+,"
+
+"
+,Other Comments:
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,
+,Section D: Low SSP Control Checks
+,Comments
+,"
+
+"
+,"
+
+"
+,
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"A sampling of these controls will be analyzed for CSOs that do not inherit infrastructure controls (i.e., they are not on a FedRAMP Authorized IaaS or PaaS)."
+,"
+
+"
+,"Consistently address the external services as follows:
+1. Table 8-3. Leveraged Authorizations - should contain all FedRAMP Authorized CSOs
+2. Tables 11-1. System Interconnections and 13-3. CA-3 Authorized Connections, and SAR Section 6. Risks Known For Interconnected Systems - should catalog all external services
+3. SA-9 External Information System Services - should address all external services where federal information is processed or stored
+4. Supporting narrative -  
+  a) Provide a brief description of how each is used in support of the CSO
+  b) Describe the data shared with each external service - particularly those lacking FedRAMP authorization
+5. ABD - 
+  a) Show how each external service interacts with users and the CSO boundary
+  b) Depict the FedRAMP authorization status for each external service
+6. DFD - show the encryption status and authentication mechanism for all connections from the ABD
+7. All of the above should address external services at the CSP/CSO level
+8. When the external service is FedRAMP Authorized, use the name from the FedRAMP Marketplace
+9. When leveraging CSOs where FedRAMP authorization is conducted at the internal service level:
+  a) This is typical for FedRAMP Authorized IaaS/PaaS CSOs
+  b) Depict on the ABD all the internal leveraged services in use
+  c) Indicate the FedRAMP authorization status for each
+10. Have all external services been appropriately documented in the SAR? 
+  a) It is expected that the 3PAO accurately reflect the risks due to external service interconnections to the system. At minimum, there should be a correlation to the SSP. "
+,"Consistently address the external services as follows:
+1. Table 8-3. Leveraged Authorizations - should contain all FedRAMP Authorized CSOs
+2. Tables 11-1. System Interconnections and 13-3. CA-3 Authorized Connections, and SAR Section 6. Risks Known For Interconnected Systems - should catalog all external services
+3. SA-9 External Information System Services - should address all external services where federal information is processed or stored
+4. Supporting narrative -  
+  a) Provide a brief description of how each is used in support of the CSO
+  b) Describe the data shared with each external service - particularly those lacking FedRAMP authorization
+5. ABD - 
+  a) Show how each external service interacts with users and the CSO boundary
+  b) Depict the FedRAMP authorization status for each external service
+6. DFD - show the encryption status and authentication mechanism for all connections from the ABD
+7. All of the above should address external services at the CSP/CSO level
+8. When the external service is FedRAMP Authorized, use the name from the FedRAMP Marketplace
+9. When leveraging CSOs where FedRAMP authorization is conducted at the internal service level:
+  a) This is typical for FedRAMP Authorized IaaS/PaaS CSOs
+  b) Depict on the ABD all the internal leveraged services in use
+  c) Indicate the FedRAMP authorization status for each
+10. Have all external services been appropriately documented in the SAR? 
+  a) It is expected that the 3PAO accurately reflect the risks due to external service interconnections to the system. At minimum, there should be a correlation to the SSP. "
+,
+,"
+
+"
+,"For SC-20, describe how DNS requests from outside the boundary to the CSP’s authoritative servers receive DNSSEC compliant responses
+                        
+For SC-21, describe how DNS requests from inside the boundary for destinations outside the boundary receive DNSSEC compliant responses"
+,Other Comments:
+,"The Cryptographic Modules table (https://www.fedramp.gov/assets/resources/templates/SSP-Appendix-Q-Cryptographic-Modules-Table.docx) can be used to describe the full encryption story, and the 3PAO can leverage the completed table for validation of encryption implementation."
+,"The Cryptographic Modules table (https://www.fedramp.gov/assets/resources/templates/SSP-Appendix-Q-Cryptographic-Modules-Table.docx) can be used to describe the full encryption story, and the 3PAO can leverage the completed table for validation of encryption implementation."
+,"The Cryptographic Modules table (https://www.fedramp.gov/assets/resources/templates/SSP-Appendix-Q-Cryptographic-Modules-Table.docx) can be used to describe the full encryption story, and the 3PAO can leverage the completed table for validation of encryption implementation."
+,
+,Section E:  SAP Checks 
+,Comments
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,Other Comments:
+,
+,
+,
+,
+,Section F:  SAR Checks 
+,Comments
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"Penetration Testing: ~
+Vulnerability Scanning: ~
+Controls Testing: ~
+
+Agency Action: Consider the age of testing from when you received the SAR from the CSP/3PAO, and determine acceptability.
+
+Note: 
+Penetration test results should be no older than 180 days when provided to an agency.
+Scans should be no older than 120 days when provided to an agency.
+Controls testing should no older than 120 days when provided to an agency."
+,Other Comments:
+,"Findings: 
+High: #
+Mod: #
+Low: #
+Risks downgraded (by level) due to mitigating factors: #
+ORs: #"
+,"Findings: 
+High: #
+Mod: #
+Low: #
+Risks downgraded (by level) due to mitigating factors: #
+ORs: #"
+,"Findings: 
+High: #
+Mod: #
+Low: #
+Risks downgraded (by level) due to mitigating factors: #
+ORs: #"
+,
+,Section G:  POA&M Checks
+,Comments
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"
+
+"
+,"# of ORs not in the SAR: 
+
+Agency Action: Be prepared to advise, in the FedRAMP Review Meeting, whether all POA&M-listed ORs, that are not included in the SAR, have been risk accepted by the authorizing agency."
+,"
+
+"
+,Other Comments:
+,"ORs: #
+VDs: #
+FPs: #
+"
+,"ORs: #
+VDs: #
+FPs: #
+"
+,"ORs: #
+VDs: #
+FPs: #
+"
+,FedRAMP PMO Low Review Report v5.3

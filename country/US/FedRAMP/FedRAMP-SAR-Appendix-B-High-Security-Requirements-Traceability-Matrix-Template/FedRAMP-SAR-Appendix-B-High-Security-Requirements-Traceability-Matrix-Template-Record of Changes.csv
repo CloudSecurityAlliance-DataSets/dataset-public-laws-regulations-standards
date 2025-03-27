@@ -1,0 +1,5 @@
+Col_1,Col_2,Col_3,Col_4,Col_5
+,Record of Changes for Template,Record of Changes for Template,Record of Changes for Template,Record of Changes for Template
+,Date,Description,Version,Author
+,2023-06-30 00:00:00,Updated to reflect FedRAMP Rev. 5 baselines.,2,FedRAMP PMO
+,2024-11-08 00:00:00,Changed template to align with SAR; Changed the document title from SAP Appendix A to SAR Appendix B; removed references to PMO and the JAB.,3,FedRAMP PMO
