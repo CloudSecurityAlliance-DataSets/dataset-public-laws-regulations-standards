@@ -1,0 +1,2523 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FedRAMP Continuous\nMonitoring Strategy Guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          82.5,
+          179.25
+        ],
+        [
+          530.25,
+          179.25
+        ],
+        [
+          530.25,
+          272.830078125
+        ],
+        [
+          82.5,
+          272.830078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.0634765625,
+          17.06396484375
+        ],
+        [
+          147.62109375,
+          17.06396484375
+        ],
+        [
+          147.62109375,
+          68.1591796875
+        ],
+        [
+          73.0634765625,
+          68.1591796875
+        ]
+      ]
+    },
+    {
+      "title": "EXECUTIVE SUMMARY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.75,
+          81.0
+        ],
+        [
+          203.3525390625,
+          81.0
+        ],
+        [
+          203.3525390625,
+          97.11474609375
+        ],
+        [
+          69.75,
+          97.11474609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.0634765625,
+          16.314697265625
+        ],
+        [
+          146.126953125,
+          16.314697265625
+        ],
+        [
+          146.126953125,
+          67.7724609375
+        ],
+        [
+          73.0634765625,
+          67.7724609375
+        ]
+      ]
+    },
+    {
+      "title": "REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          81.5009765625
+        ],
+        [
+          184.078125,
+          81.5009765625
+        ],
+        [
+          184.078125,
+          97.1630859375
+        ],
+        [
+          69.75,
+          97.1630859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          72.4658203125,
+          16.5322265625
+        ],
+        [
+          146.42578125,
+          16.5322265625
+        ],
+        [
+          146.42578125,
+          68.20751953125
+        ],
+        [
+          72.4658203125,
+          68.20751953125
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THIS DOCUMENT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          81.25927734375
+        ],
+        [
+          216.75,
+          81.25927734375
+        ],
+        [
+          216.75,
+          97.11474609375
+        ],
+        [
+          69.75,
+          97.11474609375
+        ]
+      ]
+    },
+    {
+      "title": "WHO SHOULD USE THIS DOCUMENT?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          307.828125
+        ],
+        [
+          290.759765625,
+          307.828125
+        ],
+        [
+          290.759765625,
+          323.296875
+        ],
+        [
+          69.75,
+          323.296875
+        ]
+      ]
+    },
+    {
+      "title": "HOW THIS DOCUMENT IS ORGANIZED",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          475.27734375
+        ],
+        [
+          293.25,
+          475.27734375
+        ],
+        [
+          293.25,
+          490.74609375
+        ],
+        [
+          69.75,
+          490.74609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          73.0634765625,
+          17.571533203125
+        ],
+        [
+          146.126953125,
+          17.571533203125
+        ],
+        [
+          146.126953125,
+          66.4189453125
+        ],
+        [
+          73.0634765625,
+          66.4189453125
+        ]
+      ]
+    },
+    {
+      "title": "HOW TO CONTACT US",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.75,
+          80.25
+        ],
+        [
+          202.60546875,
+          80.25
+        ],
+        [
+          202.60546875,
+          97.259765625
+        ],
+        [
+          69.75,
+          97.259765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.830810546875,
+          18.17578125
+        ],
+        [
+          148.21875,
+          18.17578125
+        ],
+        [
+          148.21875,
+          68.01416015625
+        ],
+        [
+          71.830810546875,
+          68.01416015625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF CONTENTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.75,
+          80.96923828125
+        ],
+        [
+          195.2841796875,
+          80.96923828125
+        ],
+        [
+          195.2841796875,
+          97.40478515625
+        ],
+        [
+          69.75,
+          97.40478515625
+        ]
+      ]
+    },
+    {
+      "title": "LIST OF FIGURES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.75,
+          516.65625
+        ],
+        [
+          167.25,
+          516.65625
+        ],
+        [
+          167.25,
+          531.3515625
+        ],
+        [
+          69.75,
+          531.3515625
+        ]
+      ]
+    },
+    {
+      "title": "LIST OF TABLES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.75,
+          597.48046875
+        ],
+        [
+          161.3671875,
+          597.48046875
+        ],
+        [
+          161.3671875,
+          612.17578125
+        ],
+        [
+          69.75,
+          612.17578125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.34521484375,
+          28.012939453125
+        ],
+        [
+          142.01806640625,
+          28.012939453125
+        ],
+        [
+          142.01806640625,
+          79.9541015625
+        ],
+        [
+          71.34521484375,
+          79.9541015625
+        ]
+      ]
+    },
+    {
+      "title": "OVERVIEW\n1.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          104.994140625
+        ],
+        [
+          164.2060546875,
+          104.994140625
+        ],
+        [
+          164.2060546875,
+          121.04296875
+        ],
+        [
+          70.5,
+          121.04296875
+        ]
+      ]
+    },
+    {
+      "title": "1.1.\nPURPOSE OF THIS DOCUMENT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          458.6484375
+        ],
+        [
+          285.380859375,
+          458.6484375
+        ],
+        [
+          285.380859375,
+          474.1171875
+        ],
+        [
+          70.5,
+          474.1171875
+        ]
+      ]
+    },
+    {
+      "title": "CONTINUOUS MONITORING PROCESS\n1.2.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          545.2734375
+        ],
+        [
+          329.30859375,
+          545.2734375
+        ],
+        [
+          329.30859375,
+          560.7421875
+        ],
+        [
+          70.5,
+          560.7421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          72.4658203125,
+          27.191162109375
+        ],
+        [
+          142.0927734375,
+          27.191162109375
+        ],
+        [
+          142.0927734375,
+          79.6640625
+        ],
+        [
+          72.4658203125,
+          79.6640625
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1. NIST Special Publication 800-137 Continuous Monitoring Process",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          152.25,
+          409.921875
+        ],
+        [
+          460.1953125,
+          409.921875
+        ],
+        [
+          460.1953125,
+          423.84375
+        ],
+        [
+          152.25,
+          423.84375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.79345703125,
+          27.142822265625
+        ],
+        [
+          142.01806640625,
+          27.142822265625
+        ],
+        [
+          142.01806640625,
+          79.857421875
+        ],
+        [
+          71.79345703125,
+          79.857421875
+        ]
+      ]
+    },
+    {
+      "title": "CONTINUOUS MONITORING ROLES & RESPONSIBILITIES\n2.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5,
+          98.37158203125
+        ],
+        [
+          424.5,
+          98.37158203125
+        ],
+        [
+          424.5,
+          115.1455078125
+        ],
+        [
+          70.5,
+          115.1455078125
+        ]
+      ]
+    },
+    {
+      "title": "2.1. \nAGENCY AUTHORIZING OFFICIAL (AO)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5,
+          134.0947265625
+        ],
+        [
+          328.7109375,
+          134.0947265625
+        ],
+        [
+          328.7109375,
+          149.7568359375
+        ],
+        [
+          70.5,
+          149.7568359375
+        ]
+      ]
+    },
+    {
+      "title": "2.2.\nFEDRAMP JOINT AUTHORIZATION BOARD (JAB)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5,
+          321.556640625
+        ],
+        [
+          386.68359375,
+          321.556640625
+        ],
+        [
+          386.68359375,
+          337.025390625
+        ],
+        [
+          70.5,
+          337.025390625
+        ]
+      ]
+    },
+    {
+      "title": "2.3.\nFEDRAMP PROGRAM MANAGEMENT OFFICE (PMO)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5,
+          464.8359375
+        ],
+        [
+          412.3828125,
+          464.8359375
+        ],
+        [
+          412.3828125,
+          479.53125
+        ],
+        [
+          70.5,
+          479.53125
+        ]
+      ]
+    },
+    {
+      "title": "DEPARTMENT OF HOMELAND SECURITY (DHS)\n2.4.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5,
+          623.390625
+        ],
+        [
+          380.109375,
+          623.390625
+        ],
+        [
+          380.109375,
+          638.0859375
+        ],
+        [
+          70.5,
+          638.0859375
+        ]
+      ]
+    },
+    {
+      "title": "2.5.\nTHIRD PARTY ASSESSMENT ORGANIZATION (3PAO)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5,
+          227.970703125
+        ],
+        [
+          408.796875,
+          227.970703125
+        ],
+        [
+          408.796875,
+          242.666015625
+        ],
+        [
+          70.5,
+          242.666015625
+        ]
+      ]
+    },
+    {
+      "title": "CONTINUOUS MONITORING PROCESS AREAS\n3.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5,
+          566.9296875
+        ],
+        [
+          362.25,
+          566.9296875
+        ],
+        [
+          362.25,
+          582.3984375
+        ],
+        [
+          70.5,
+          582.3984375
+        ]
+      ]
+    },
+    {
+      "title": "OPERATIONAL VISIBILITY\n3.1.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5,
+          602.89453125
+        ],
+        [
+          255.19921875,
+          602.89453125
+        ],
+        [
+          255.19921875,
+          616.81640625
+        ],
+        [
+          70.5,
+          616.81640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          73.13818359375,
+          27.7470703125
+        ],
+        [
+          142.61572265625,
+          27.7470703125
+        ],
+        [
+          142.61572265625,
+          78.1171875
+        ],
+        [
+          73.13818359375,
+          78.1171875
+        ]
+      ]
+    },
+    {
+      "title": "Table 1. Control Selection Criteria",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          233.68359375,
+          251.560546875
+        ],
+        [
+          377.419921875,
+          251.560546875
+        ],
+        [
+          377.419921875,
+          263.548828125
+        ],
+        [
+          233.68359375,
+          263.548828125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          72.4658203125,
+          27.916259765625
+        ],
+        [
+          143.138671875,
+          27.916259765625
+        ],
+        [
+          143.138671875,
+          79.27734375
+        ],
+        [
+          72.4658203125,
+          79.27734375
+        ]
+      ]
+    },
+    {
+      "title": "CHANGE CONTROL\n3.2.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.5,
+          99.75
+        ],
+        [
+          218.443359375,
+          99.75
+        ],
+        [
+          218.443359375,
+          114.85546875
+        ],
+        [
+          70.5,
+          114.85546875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          72.428466796875,
+          28.012939453125
+        ],
+        [
+          143.736328125,
+          28.012939453125
+        ],
+        [
+          143.736328125,
+          79.5673828125
+        ],
+        [
+          72.428466796875,
+          79.5673828125
+        ]
+      ]
+    },
+    {
+      "title": "INCIDENT RESPONSE\n3.3.",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.5,
+          99.8701171875
+        ],
+        [
+          229.798828125,
+          99.8701171875
+        ],
+        [
+          229.798828125,
+          114.7587890625
+        ],
+        [
+          70.5,
+          114.7587890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          72.129638671875,
+          28.061279296875
+        ],
+        [
+          140.748046875,
+          28.061279296875
+        ],
+        [
+          140.748046875,
+          79.7607421875
+        ],
+        [
+          72.129638671875,
+          79.7607421875
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A   FEDRAMP ACRONYMS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.75,
+          99.0
+        ],
+        [
+          284.25,
+          99.0
+        ],
+        [
+          284.25,
+          115.2421875
+        ],
+        [
+          69.75,
+          115.2421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          72.017578125,
+          27.722900390625
+        ],
+        [
+          140.8974609375,
+          27.722900390625
+        ],
+        [
+          140.8974609375,
+          79.857421875
+        ],
+        [
+          72.017578125,
+          79.857421875
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX B CONTROL FREQUENCIES",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.5,
+          99.193359375
+        ],
+        [
+          294.0,
+          99.193359375
+        ],
+        [
+          294.0,
+          115.2421875
+        ],
+        [
+          70.5,
+          115.2421875
+        ]
+      ]
+    },
+    {
+      "title": "Table 2. Summary of Continuous Monitoring Activities & Deliverables",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          252.0,
+          90.6943359375
+        ],
+        [
+          542.1796875,
+          90.6943359375
+        ],
+        [
+          542.1796875,
+          101.6015625
+        ],
+        [
+          252.0,
+          101.6015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          77.150390625,
+          22.8043212890625
+        ],
+        [
+          140.37890625,
+          22.8043212890625
+        ],
+        [
+          140.37890625,
+          66.41455078125
+        ],
+        [
+          77.150390625,
+          66.41455078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          77.6337890625,
+          24.0743408203125
+        ],
+        [
+          141.6357421875,
+          24.0743408203125
+        ],
+        [
+          141.6357421875,
+          66.33984375
+        ],
+        [
+          77.6337890625,
+          66.33984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          77.2470703125,
+          23.6634521484375
+        ],
+        [
+          141.0556640625,
+          23.6634521484375
+        ],
+        [
+          141.0556640625,
+          66.041015625
+        ],
+        [
+          77.2470703125,
+          66.041015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          77.6337890625,
+          23.9996337890625
+        ],
+        [
+          142.0224609375,
+          23.9996337890625
+        ],
+        [
+          142.0224609375,
+          66.1904296875
+        ],
+        [
+          77.6337890625,
+          66.1904296875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          77.34375,
+          23.7755126953125
+        ],
+        [
+          141.732421875,
+          23.7755126953125
+        ],
+        [
+          141.732421875,
+          66.11572265625
+        ],
+        [
+          77.34375,
+          66.11572265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          77.537109375,
+          23.1591796875
+        ],
+        [
+          141.345703125,
+          23.1591796875
+        ],
+        [
+          141.345703125,
+          66.26513671875
+        ],
+        [
+          77.537109375,
+          66.26513671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          77.2470703125,
+          23.570068359375
+        ],
+        [
+          141.6357421875,
+          23.570068359375
+        ],
+        [
+          141.6357421875,
+          66.451904296875
+        ],
+        [
+          77.2470703125,
+          66.451904296875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          78.0205078125,
+          24.4478759765625
+        ],
+        [
+          142.0224609375,
+          24.4478759765625
+        ],
+        [
+          142.0224609375,
+          65.7421875
+        ],
+        [
+          78.0205078125,
+          65.7421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          77.8271484375,
+          23.607421875
+        ],
+        [
+          141.8291015625,
+          23.607421875
+        ],
+        [
+          141.8291015625,
+          66.41455078125
+        ],
+        [
+          77.8271484375,
+          66.41455078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          77.48876953125,
+          23.6260986328125
+        ],
+        [
+          140.958984375,
+          23.6260986328125
+        ],
+        [
+          140.958984375,
+          66.26513671875
+        ],
+        [
+          77.48876953125,
+          66.26513671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          78.0205078125,
+          24.4105224609375
+        ],
+        [
+          143.3759765625,
+          24.4105224609375
+        ],
+        [
+          143.3759765625,
+          65.443359375
+        ],
+        [
+          78.0205078125,
+          65.443359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          72.09228515625,
+          19.215087890625
+        ],
+        [
+          144.70751953125,
+          19.215087890625
+        ],
+        [
+          144.70751953125,
+          72.509765625
+        ],
+        [
+          72.09228515625,
+          72.509765625
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX C    MONTHLY REPORTING SUMMARY",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          69.75,
+          93.19921875
+        ],
+        [
+          353.21484375,
+          93.19921875
+        ],
+        [
+          353.21484375,
+          108.861328125
+        ],
+        [
+          69.75,
+          108.861328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          72.017578125,
+          19.408447265625
+        ],
+        [
+          143.736328125,
+          19.408447265625
+        ],
+        [
+          143.736328125,
+          71.6396484375
+        ],
+        [
+          72.017578125,
+          71.6396484375
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX D   JAB P-ATO CONTINUOUS MONITORING ANALYSIS",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          69.75,
+          93.005859375
+        ],
+        [
+          442.86328125,
+          93.005859375
+        ],
+        [
+          442.86328125,
+          108.66796875
+        ],
+        [
+          69.75,
+          108.66796875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          72.353759765625,
+          21.3541259765625
+        ],
+        [
+          147.322265625,
+          21.3541259765625
+        ],
+        [
+          147.322265625,
+          70.52783203125
+        ],
+        [
+          72.353759765625,
+          70.52783203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          73.58642578125,
+          20.302734375
+        ],
+        [
+          146.20166015625,
+          20.302734375
+        ],
+        [
+          146.20166015625,
+          70.576171875
+        ],
+        [
+          73.58642578125,
+          70.576171875
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2. FedRAMP Continuous Monitoring Report Example",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          178.998046875,
+          92.232421875
+        ],
+        [
+          429.1171875,
+          92.232421875
+        ],
+        [
+          429.1171875,
+          104.220703125
+        ],
+        [
+          178.998046875,
+          104.220703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "TableCell",
+          53
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TableOfContents",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          96
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          79
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          21
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          177
+        ],
+        [
+          "Span",
+          177
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CSP_Continuous_Monitoring_Strategy_Guide"
+}

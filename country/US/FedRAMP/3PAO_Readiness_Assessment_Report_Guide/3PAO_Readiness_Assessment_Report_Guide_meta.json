@@ -1,0 +1,1807 @@
+{
+  "table_of_contents": [
+    {
+      "title": "3PAO Readiness\nAssessment Report\nGuide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.39453125,
+          273.75
+        ],
+        [
+          507.75,
+          273.75
+        ],
+        [
+          507.75,
+          421.91015625
+        ],
+        [
+          103.39453125,
+          421.91015625
+        ]
+      ]
+    },
+    {
+      "title": "DOCUMENT REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          116.25
+        ],
+        [
+          429.71484375,
+          116.25
+        ],
+        [
+          429.71484375,
+          142.119140625
+        ],
+        [
+          71.25,
+          142.119140625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF CONTENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          165.0
+        ],
+        [
+          313.171875,
+          165.0
+        ],
+        [
+          313.171875,
+          191.9091796875
+        ],
+        [
+          69.75,
+          191.9091796875
+        ]
+      ]
+    },
+    {
+      "title": "Purpose",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          117.94921875
+        ],
+        [
+          164.8037109375,
+          117.94921875
+        ],
+        [
+          164.8037109375,
+          141.5390625
+        ],
+        [
+          71.25,
+          141.5390625
+        ]
+      ]
+    },
+    {
+      "title": "Intent of a Readiness Assessment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          271.283203125
+        ],
+        [
+          444.05859375,
+          271.283203125
+        ],
+        [
+          444.05859375,
+          295.646484375
+        ],
+        [
+          70.5,
+          295.646484375
+        ]
+      ]
+    },
+    {
+      "title": "RAR Audience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          152.6572265625
+        ],
+        [
+          232.6376953125,
+          152.6572265625
+        ],
+        [
+          232.6376953125,
+          179.1474609375
+        ],
+        [
+          70.5,
+          179.1474609375
+        ]
+      ]
+    },
+    {
+      "title": "Required Discussions with CSP Clients",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          365.25
+        ],
+        [
+          498.744140625,
+          365.25
+        ],
+        [
+          498.744140625,
+          391.552734375
+        ],
+        [
+          70.5,
+          391.552734375
+        ]
+      ]
+    },
+    {
+      "title": "Not all CSOs will pass the Readiness Assessment Review",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.75,
+          402.9609375
+        ],
+        [
+          518.765625,
+          402.9609375
+        ],
+        [
+          518.765625,
+          422.296875
+        ],
+        [
+          69.75,
+          422.296875
+        ]
+      ]
+    },
+    {
+      "title": "3PAOs Must Maintain Independence and Impartiality\nWhen Working with CSPs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.75,
+          221.396484375
+        ],
+        [
+          496.0546875,
+          221.396484375
+        ],
+        [
+          496.0546875,
+          263.935546875
+        ],
+        [
+          69.75,
+          263.935546875
+        ]
+      ]
+    },
+    {
+      "title": "Benefits of Becoming FedRAMP Ready",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          115.5
+        ],
+        [
+          385.48828125,
+          115.5
+        ],
+        [
+          385.48828125,
+          134.384765625
+        ],
+        [
+          70.5,
+          134.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Expiration of FedRAMP Ready Designation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          338.765625
+        ],
+        [
+          409.5,
+          338.765625
+        ],
+        [
+          409.5,
+          358.1015625
+        ],
+        [
+          70.5,
+          358.1015625
+        ]
+      ]
+    },
+    {
+      "title": "Preparing a FedRAMP RAR",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5,
+          628.03125
+        ],
+        [
+          370.845703125,
+          628.03125
+        ],
+        [
+          370.845703125,
+          654.328125
+        ],
+        [
+          70.5,
+          654.328125
+        ]
+      ]
+    },
+    {
+      "title": "Steps to Adequately Develop a RAR and FedRAMP's\nEvaluation Methodoloqy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.75,
+          493.83984375
+        ],
+        [
+          486.193359375,
+          493.83984375
+        ],
+        [
+          486.193359375,
+          537.92578125
+        ],
+        [
+          69.75,
+          537.92578125
+        ]
+      ]
+    },
+    {
+      "title": "1. Validate the Authorization Boundary Diagram",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.5,
+          550.30078125
+        ],
+        [
+          322.435546875,
+          550.30078125
+        ],
+        [
+          322.435546875,
+          562.67578125
+        ],
+        [
+          70.5,
+          562.67578125
+        ]
+      ]
+    },
+    {
+      "title": "TIP",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          108.0263671875,
+          133.5146484375
+        ],
+        [
+          129.0,
+          133.5146484375
+        ],
+        [
+          129.0,
+          145.5029296875
+        ],
+        [
+          108.0263671875,
+          145.5029296875
+        ]
+      ]
+    },
+    {
+      "title": "2. Identify All Data Flows and Stores Within and Throughout the Authorization Boundary",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5,
+          349.20703125
+        ],
+        [
+          539.0859375,
+          349.20703125
+        ],
+        [
+          539.0859375,
+          361.1953125
+        ],
+        [
+          70.5,
+          361.1953125
+        ]
+      ]
+    },
+    {
+      "title": "3. Determine Leveraged FedRAMP Authorizations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5,
+          461.7421875
+        ],
+        [
+          331.998046875,
+          461.7421875
+        ],
+        [
+          331.998046875,
+          474.1171875
+        ],
+        [
+          70.5,
+          474.1171875
+        ]
+      ]
+    },
+    {
+      "title": "4. Determine External and Corporate Systems and Services",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          70.5,
+          224.490234375
+        ],
+        [
+          383.09765625,
+          224.490234375
+        ],
+        [
+          383.09765625,
+          236.478515625
+        ],
+        [
+          70.5,
+          236.478515625
+        ]
+      ]
+    },
+    {
+      "title": "5. Diagram Narrative Descriptions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.5,
+          223.91015625
+        ],
+        [
+          249.22265625,
+          223.91015625
+        ],
+        [
+          249.22265625,
+          235.51171875
+        ],
+        [
+          70.5,
+          235.51171875
+        ]
+      ]
+    },
+    {
+      "title": "6. Application Programming Interfaces (APIs)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.5,
+          438.5390625
+        ],
+        [
+          309.0,
+          438.5390625
+        ],
+        [
+          309.0,
+          450.140625
+        ],
+        [
+          70.5,
+          450.140625
+        ]
+      ]
+    },
+    {
+      "title": "NOTE",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          94.4296875,
+          510.46875
+        ],
+        [
+          141.0,
+          510.46875
+        ],
+        [
+          141.0,
+          538.3125
+        ],
+        [
+          94.4296875,
+          538.3125
+        ]
+      ]
+    },
+    {
+      "title": "7. Assess and Describe the Strength of the Physical and/or Logical Separation Measures\nwithin the System",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.5,
+          624.1640625
+        ],
+        [
+          531.9140625,
+          624.1640625
+        ],
+        [
+          531.9140625,
+          651.234375
+        ],
+        [
+          70.5,
+          651.234375
+        ]
+      ]
+    },
+    {
+      "title": "TIP",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          85.166015625,
+          287.33203125
+        ],
+        [
+          129.0,
+          287.33203125
+        ],
+        [
+          129.0,
+          305.89453125
+        ],
+        [
+          85.166015625,
+          305.89453125
+        ]
+      ]
+    },
+    {
+      "title": "8. Ensure Federal Mandates Are Met",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.5,
+          434.671875
+        ],
+        [
+          261.17578125,
+          434.671875
+        ],
+        [
+          261.17578125,
+          447.046875
+        ],
+        [
+          70.5,
+          447.046875
+        ]
+      ]
+    },
+    {
+      "title": "TIP",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          108.6240234375,
+          267.22265625
+        ],
+        [
+          134.3232421875,
+          267.22265625
+        ],
+        [
+          134.3232421875,
+          281.14453125
+        ],
+        [
+          108.6240234375,
+          281.14453125
+        ]
+      ]
+    },
+    {
+      "title": "9. Ensure DNSSEC is In Place",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.5,
+          406.44140625
+        ],
+        [
+          223.0751953125,
+          406.44140625
+        ],
+        [
+          223.0751953125,
+          418.81640625
+        ],
+        [
+          70.5,
+          418.81640625
+        ]
+      ]
+    },
+    {
+      "title": "Authoritative Server",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.5,
+          555.71484375
+        ],
+        [
+          164.654296875,
+          555.71484375
+        ],
+        [
+          164.654296875,
+          567.31640625
+        ],
+        [
+          70.5,
+          567.31640625
+        ]
+      ]
+    },
+    {
+      "title": "Recursive Server",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.5,
+          637.69921875
+        ],
+        [
+          148.6669921875,
+          637.69921875
+        ],
+        [
+          148.6669921875,
+          649.30078125
+        ],
+        [
+          70.5,
+          649.30078125
+        ]
+      ]
+    },
+    {
+      "title": "10. Verify FIPS 140-validated encryption within and throughout the System Boundary",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.5,
+          220.4296875
+        ],
+        [
+          519.064453125,
+          220.4296875
+        ],
+        [
+          519.064453125,
+          232.8046875
+        ],
+        [
+          70.5,
+          232.8046875
+        ]
+      ]
+    },
+    {
+      "title": "TIP",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          101.52685546875,
+          512.015625
+        ],
+        [
+          129.0,
+          512.015625
+        ],
+        [
+          129.0,
+          529.03125
+        ],
+        [
+          101.52685546875,
+          529.03125
+        ]
+      ]
+    },
+    {
+      "title": "11. Assess Security Capabilities Sections",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          70.5,
+          200.126953125
+        ],
+        [
+          279.703125,
+          200.126953125
+        ],
+        [
+          279.703125,
+          212.115234375
+        ],
+        [
+          70.5,
+          212.115234375
+        ]
+      ]
+    },
+    {
+      "title": "12. Complete Each Security Control Capability Statement To Include the 3PAO\nTest Methodology",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          70.5,
+          326.77734375
+        ],
+        [
+          479.3203125,
+          326.77734375
+        ],
+        [
+          479.3203125,
+          353.84765625
+        ],
+        [
+          70.5,
+          353.84765625
+        ]
+      ]
+    },
+    {
+      "title": "NOTE",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          104.06689453125,
+          127.23046875
+        ],
+        [
+          143.51220703125,
+          127.23046875
+        ],
+        [
+          143.51220703125,
+          146.953125
+        ],
+        [
+          104.06689453125,
+          146.953125
+        ]
+      ]
+    },
+    {
+      "title": "Submission Instructions",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          70.5,
+          349.400390625
+        ],
+        [
+          338.572265625,
+          349.400390625
+        ],
+        [
+          338.572265625,
+          374.537109375
+        ],
+        [
+          70.5,
+          374.537109375
+        ]
+      ]
+    },
+    {
+      "title": "FAQs",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.5,
+          116.1123046875
+        ],
+        [
+          132.8291015625,
+          116.1123046875
+        ],
+        [
+          132.8291015625,
+          142.6025390625
+        ],
+        [
+          70.5,
+          142.6025390625
+        ]
+      ]
+    },
+    {
+      "title": "To begin the approval process, is the vendor supposed to email FedRAMP with their\nintentions of submitting a Readiness Assessment Report (RAR)?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.5,
+          153.6240234375
+        ],
+        [
+          513.984375,
+          153.6240234375
+        ],
+        [
+          513.984375,
+          179.1474609375
+        ],
+        [
+          70.5,
+          179.1474609375
+        ]
+      ]
+    },
+    {
+      "title": "Does a FedRAMP CSO environment need to be in production prior to beginning the\nFedRAMP Ready assessment?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.5,
+          331.998046875
+        ],
+        [
+          510.99609375,
+          331.998046875
+        ],
+        [
+          510.99609375,
+          359.068359375
+        ],
+        [
+          70.5,
+          359.068359375
+        ]
+      ]
+    },
+    {
+      "title": "Is it true that once a SAR is done, a RAR cannot be done?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.5,
+          537.5390625
+        ],
+        [
+          369.94921875,
+          537.5390625
+        ],
+        [
+          369.94921875,
+          549.9140625
+        ],
+        [
+          70.5,
+          549.9140625
+        ]
+      ]
+    },
+    {
+      "title": "Do FedRAMP RARs resulting in FedRAMP Ready designation expire?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.5,
+          629.578125
+        ],
+        [
+          430.5,
+          629.578125
+        ],
+        [
+          430.5,
+          641.1796875
+        ],
+        [
+          70.5,
+          641.1796875
+        ]
+      ]
+    },
+    {
+      "title": "Is the process for submitting a High RAR any different than a Moderate RAR?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          70.5,
+          259.681640625
+        ],
+        [
+          477.228515625,
+          259.681640625
+        ],
+        [
+          477.228515625,
+          272.443359375
+        ],
+        [
+          70.5,
+          272.443359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/3PAO_Readiness_Assessment_Report_Guide"
+}

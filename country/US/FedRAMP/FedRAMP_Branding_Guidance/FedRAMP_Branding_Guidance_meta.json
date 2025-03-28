@@ -1,0 +1,1403 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Program Overview",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.25,
+          131.25
+        ],
+        [
+          484.3125,
+          131.25
+        ],
+        [
+          484.3125,
+          175.5615234375
+        ],
+        [
+          104.25,
+          175.5615234375
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          61.969482421875
+        ],
+        [
+          231.0,
+          61.969482421875
+        ],
+        [
+          231.0,
+          100.5556640625
+        ],
+        [
+          40.5,
+          100.5556640625
+        ]
+      ]
+    },
+    {
+      "title": "DOCUMENT REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          574.5,
+          240.0
+        ],
+        [
+          775.5,
+          240.0
+        ],
+        [
+          775.5,
+          253.107421875
+        ],
+        [
+          574.5,
+          253.107421875
+        ]
+      ]
+    },
+    {
+      "title": "1.0\nThe\nFedRAMP\nBrand",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.25,
+          55.58203125
+        ],
+        [
+          246.5859375,
+          55.58203125
+        ],
+        [
+          246.5859375,
+          227.8564453125
+        ],
+        [
+          35.25,
+          227.8564453125
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP\u00ae",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          438.75,
+          56.55322265625
+        ],
+        [
+          549.28125,
+          56.55322265625
+        ],
+        [
+          549.28125,
+          79.3388671875
+        ],
+        [
+          438.75,
+          79.3388671875
+        ]
+      ]
+    },
+    {
+      "title": "BRAND STANDARDS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          619.5,
+          53.602294921875
+        ],
+        [
+          752.25,
+          53.602294921875
+        ],
+        [
+          752.25,
+          68.394287109375
+        ],
+        [
+          619.5,
+          68.394287109375
+        ]
+      ]
+    },
+    {
+      "title": "2.0",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.25,
+          53.86376953125
+        ],
+        [
+          81.2724609375,
+          53.86376953125
+        ],
+        [
+          81.2724609375,
+          82.55126953125
+        ],
+        [
+          38.25,
+          82.55126953125
+        ]
+      ]
+    },
+    {
+      "title": "Logo\nApplication",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.75,
+          87.556640625
+        ],
+        [
+          270.2109375,
+          87.556640625
+        ],
+        [
+          270.2109375,
+          180.3427734375
+        ],
+        [
+          36.75,
+          180.3427734375
+        ]
+      ]
+    },
+    {
+      "title": "CLEAR SPACE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          409.9921875,
+          54.0
+        ],
+        [
+          502.5,
+          54.0
+        ],
+        [
+          502.5,
+          69.328125
+        ],
+        [
+          409.9921875,
+          69.328125
+        ]
+      ]
+    },
+    {
+      "title": "ALTERNATIVE LOGOS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          703.5,
+          54.0
+        ],
+        [
+          843.0,
+          54.0
+        ],
+        [
+          843.0,
+          68.244873046875
+        ],
+        [
+          703.5,
+          68.244873046875
+        ]
+      ]
+    },
+    {
+      "title": "Inverse",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          713.671875,
+          103.76806640625
+        ],
+        [
+          758.25,
+          103.76806640625
+        ],
+        [
+          758.25,
+          114.75
+        ],
+        [
+          713.671875,
+          114.75
+        ]
+      ]
+    },
+    {
+      "title": "One Color",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          711.703125,
+          252.0
+        ],
+        [
+          772.5,
+          252.0
+        ],
+        [
+          772.5,
+          263.267578125
+        ],
+        [
+          711.703125,
+          263.267578125
+        ]
+      ]
+    },
+    {
+      "title": "Stamp",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          715.5,
+          373.5
+        ],
+        [
+          753.75,
+          373.5
+        ],
+        [
+          753.75,
+          384.591796875
+        ],
+        [
+          715.5,
+          384.591796875
+        ]
+      ]
+    },
+    {
+      "title": "3.0",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          37.5,
+          51.32373046875
+        ],
+        [
+          95.7919921875,
+          51.32373046875
+        ],
+        [
+          95.7919921875,
+          86.28662109375
+        ],
+        [
+          37.5,
+          86.28662109375
+        ]
+      ]
+    },
+    {
+      "title": "Incorrect \nLogo Usage",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.75,
+          85.9130859375
+        ],
+        [
+          282.0,
+          85.9130859375
+        ],
+        [
+          282.0,
+          185.2734375
+        ],
+        [
+          36.75,
+          185.2734375
+        ]
+      ]
+    },
+    {
+      "title": "DON'T:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.5,
+          229.5
+        ],
+        [
+          82.564453125,
+          229.5
+        ],
+        [
+          82.564453125,
+          243.24609375
+        ],
+        [
+          40.5,
+          243.24609375
+        ]
+      ]
+    },
+    {
+      "title": "4.0\nColor\nPalette",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.25,
+          55.021728515625
+        ],
+        [
+          184.5,
+          55.021728515625
+        ],
+        [
+          184.5,
+          182.8828125
+        ],
+        [
+          38.25,
+          182.8828125
+        ]
+      ]
+    },
+    {
+      "title": "5.0\n508 \nCompliance",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.0,
+          53.490234375
+        ],
+        [
+          285.75,
+          53.490234375
+        ],
+        [
+          285.75,
+          185.7216796875
+        ],
+        [
+          36.0,
+          185.7216796875
+        ]
+      ]
+    },
+    {
+      "title": "Color Contrast",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          40.5,
+          311.37890625
+        ],
+        [
+          135.10546875,
+          311.37890625
+        ],
+        [
+          135.10546875,
+          325.72265625
+        ],
+        [
+          40.5,
+          325.72265625
+        ]
+      ]
+    },
+    {
+      "title": "6.0\nThe GSA\nStar Mark",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.25,
+          54.722900390625
+        ],
+        [
+          237.0,
+          54.722900390625
+        ],
+        [
+          237.0,
+          183.9287109375
+        ],
+        [
+          35.25,
+          183.9287109375
+        ]
+      ]
+    },
+    {
+      "title": "GSA STAR MARK REQUIREMENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          411.0,
+          53.9384765625
+        ],
+        [
+          624.75,
+          53.9384765625
+        ],
+        [
+          624.75,
+          68.20751953125
+        ],
+        [
+          411.0,
+          68.20751953125
+        ]
+      ]
+    },
+    {
+      "title": "APPLYING THE GSA STAR MARK TO FEDRAMP MARKETING MATERIALS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          409.5,
+          316.7578125
+        ],
+        [
+          861.0,
+          316.7578125
+        ],
+        [
+          861.0,
+          330.50390625
+        ],
+        [
+          409.5,
+          330.50390625
+        ]
+      ]
+    },
+    {
+      "title": "7.0\nFonts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.0,
+          57.59912109375
+        ],
+        [
+          157.623046875,
+          57.59912109375
+        ],
+        [
+          157.623046875,
+          133.65087890625
+        ],
+        [
+          39.0,
+          133.65087890625
+        ]
+      ]
+    },
+    {
+      "title": "Montserrat (For headings & call out text)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          482.25,
+          68.25
+        ],
+        [
+          882.75,
+          68.25
+        ],
+        [
+          882.75,
+          101.25
+        ],
+        [
+          482.25,
+          101.25
+        ]
+      ]
+    },
+    {
+      "title": "MUll (For body and table text)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          483.0,
+          290.6103515625
+        ],
+        [
+          721.5,
+          290.6103515625
+        ],
+        [
+          721.5,
+          319.5
+        ],
+        [
+          483.0,
+          319.5
+        ]
+      ]
+    },
+    {
+      "title": "8.0",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.0,
+          56.0302734375
+        ],
+        [
+          78.75,
+          56.0302734375
+        ],
+        [
+          78.75,
+          77.994140625
+        ],
+        [
+          39.0,
+          77.994140625
+        ]
+      ]
+    },
+    {
+      "title": "Guidance for\n3PAOs and\nCSPS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          36.75,
+          82.9248046875
+        ],
+        [
+          284.9765625,
+          82.9248046875
+        ],
+        [
+          284.9765625,
+          214.4091796875
+        ],
+        [
+          36.75,
+          214.4091796875
+        ]
+      ]
+    },
+    {
+      "title": "FOR THIRD PARTY ASSESSMENT ORGANIZATIONS (3PAOS)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          468.80859375,
+          53.56494140625
+        ],
+        [
+          839.25,
+          53.56494140625
+        ],
+        [
+          839.25,
+          68.5810546875
+        ],
+        [
+          468.80859375,
+          68.5810546875
+        ]
+      ]
+    },
+    {
+      "title": "FOR CLOUD SERVICE PROVIDERS (CSPs)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          470.25,
+          331.1015625
+        ],
+        [
+          729.0,
+          331.1015625
+        ],
+        [
+          729.0,
+          346.04296875
+        ],
+        [
+          470.25,
+          346.04296875
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP Authorized CSPs",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          470.25,
+          428.818359375
+        ],
+        [
+          619.6640625,
+          428.818359375
+        ],
+        [
+          619.6640625,
+          442.564453125
+        ],
+        [
+          470.25,
+          442.564453125
+        ]
+      ]
+    },
+    {
+      "title": "9.0",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          39.0,
+          55.95556640625
+        ],
+        [
+          77.51953125,
+          55.95556640625
+        ],
+        [
+          77.51953125,
+          78.591796875
+        ],
+        [
+          39.0,
+          78.591796875
+        ]
+      ]
+    },
+    {
+      "title": "FEDRAMP NAME TRADEMARK",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          411.0,
+          54.087890625
+        ],
+        [
+          606.0,
+          54.087890625
+        ],
+        [
+          606.0,
+          67.01220703125
+        ],
+        [
+          411.0,
+          67.01220703125
+        ]
+      ]
+    },
+    {
+      "title": "REQUIREMENTS FOR APPROVAL",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          411.0,
+          150.1611328125
+        ],
+        [
+          620.25,
+          150.1611328125
+        ],
+        [
+          620.25,
+          164.5048828125
+        ],
+        [
+          411.0,
+          164.5048828125
+        ]
+      ]
+    },
+    {
+      "title": "LOGO AND NAME VIOLATIONS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          409.25390625,
+          287.6220703125
+        ],
+        [
+          607.5,
+          287.6220703125
+        ],
+        [
+          607.5,
+          301.3681640625
+        ],
+        [
+          409.25390625,
+          301.3681640625
+        ]
+      ]
+    },
+    {
+      "title": "Questions about using the FedRAMP Logo?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          410.484375,
+          504.421875
+        ],
+        [
+          689.25,
+          504.421875
+        ],
+        [
+          689.25,
+          518.765625
+        ],
+        [
+          410.484375,
+          518.765625
+        ]
+      ]
+    },
+    {
+      "title": "10.0",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          38.25,
+          56.366455078125
+        ],
+        [
+          87.0,
+          56.366455078125
+        ],
+        [
+          87.0,
+          78.4423828125
+        ],
+        [
+          38.25,
+          78.4423828125
+        ]
+      ]
+    },
+    {
+      "title": "MISSION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          411.0,
+          124.68603515625
+        ],
+        [
+          469.5,
+          124.68603515625
+        ],
+        [
+          469.5,
+          139.32861328125
+        ],
+        [
+          411.0,
+          139.32861328125
+        ]
+      ]
+    },
+    {
+      "title": "BENEFITS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          411.22265625,
+          219.33984375
+        ],
+        [
+          477.0,
+          219.33984375
+        ],
+        [
+          477.0,
+          234.28125
+        ],
+        [
+          411.22265625,
+          234.28125
+        ]
+      ]
+    },
+    {
+      "title": "GOALS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          411.0,
+          359.490234375
+        ],
+        [
+          461.42578125,
+          359.490234375
+        ],
+        [
+          461.42578125,
+          374.431640625
+        ],
+        [
+          411.0,
+          374.431640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          55
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FedRAMP_Branding_Guidance"
+}

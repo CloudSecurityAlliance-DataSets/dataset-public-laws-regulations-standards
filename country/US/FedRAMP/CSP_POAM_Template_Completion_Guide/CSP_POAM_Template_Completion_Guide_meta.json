@@ -1,0 +1,1176 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FedRAMP Plan of Actions\nand Milestones (POA&M)\nTemplate Completion\nGuide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.1884765625,
+          141.0
+        ],
+        [
+          521.25,
+          141.0
+        ],
+        [
+          521.25,
+          342.052734375
+        ],
+        [
+          92.1884765625,
+          342.052734375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.18408203125,
+          16.314697265625
+        ],
+        [
+          145.60400390625,
+          16.314697265625
+        ],
+        [
+          145.60400390625,
+          69.029296875
+        ],
+        [
+          74.18408203125,
+          69.029296875
+        ]
+      ]
+    },
+    {
+      "title": "DOCUMENT REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          98.61328125
+        ],
+        [
+          256.5,
+          98.61328125
+        ],
+        [
+          256.5,
+          114.46875
+        ],
+        [
+          71.25,
+          114.46875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.73583984375,
+          16.9189453125
+        ],
+        [
+          143.66162109375,
+          16.9189453125
+        ],
+        [
+          143.66162109375,
+          71.49462890625
+        ],
+        [
+          73.73583984375,
+          71.49462890625
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THIS DOCUMENT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.19580078125,
+          98.37158203125
+        ],
+        [
+          218.25,
+          98.37158203125
+        ],
+        [
+          218.25,
+          114.1787109375
+        ],
+        [
+          71.19580078125,
+          114.1787109375
+        ]
+      ]
+    },
+    {
+      "title": "WHO SHOULD USE THIS DOCUMENT?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          352.107421875
+        ],
+        [
+          291.65625,
+          352.107421875
+        ],
+        [
+          291.65625,
+          367.962890625
+        ],
+        [
+          69.75,
+          367.962890625
+        ]
+      ]
+    },
+    {
+      "title": "HOW TO CONTACT US",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          428.09765625
+        ],
+        [
+          201.8583984375,
+          428.09765625
+        ],
+        [
+          201.8583984375,
+          443.56640625
+        ],
+        [
+          69.75,
+          443.56640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          73.810546875,
+          17.764892578125
+        ],
+        [
+          144.931640625,
+          17.764892578125
+        ],
+        [
+          144.931640625,
+          70.962890625
+        ],
+        [
+          73.810546875,
+          70.962890625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF CONTENTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          98.56494140625
+        ],
+        [
+          194.25,
+          98.56494140625
+        ],
+        [
+          194.25,
+          114.275390625
+        ],
+        [
+          69.75,
+          114.275390625
+        ]
+      ]
+    },
+    {
+      "title": "LIST OF TABLES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          376.083984375
+        ],
+        [
+          162.861328125,
+          376.083984375
+        ],
+        [
+          162.861328125,
+          391.166015625
+        ],
+        [
+          70.5,
+          391.166015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          74.109375,
+          21.31787109375
+        ],
+        [
+          144.6328125,
+          21.31787109375
+        ],
+        [
+          144.6328125,
+          73.86328125
+        ],
+        [
+          74.109375,
+          73.86328125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION\n1.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.25,
+          102.1904296875
+        ],
+        [
+          192.5947265625,
+          102.1904296875
+        ],
+        [
+          192.5947265625,
+          118.6259765625
+        ],
+        [
+          71.25,
+          118.6259765625
+        ]
+      ]
+    },
+    {
+      "title": "POA&M PURPOSE\n1.1.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.25,
+          346.5
+        ],
+        [
+          214.5,
+          346.5
+        ],
+        [
+          214.5,
+          361.58203125
+        ],
+        [
+          71.25,
+          361.58203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.005859375,
+          23.662353515625
+        ],
+        [
+          145.6787109375,
+          23.662353515625
+        ],
+        [
+          145.6787109375,
+          71.54296875
+        ],
+        [
+          75.005859375,
+          71.54296875
+        ]
+      ]
+    },
+    {
+      "title": "1.2. SCOPE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.25,
+          98.95166015625
+        ],
+        [
+          148.59228515625,
+          98.95166015625
+        ],
+        [
+          148.59228515625,
+          113.6953125
+        ],
+        [
+          71.25,
+          113.6953125
+        ]
+      ]
+    },
+    {
+      "title": "2.\nPOA&M TEMPLATE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          203.80078125
+        ],
+        [
+          213.5126953125,
+          203.80078125
+        ],
+        [
+          213.5126953125,
+          218.8828125
+        ],
+        [
+          70.5,
+          218.8828125
+        ]
+      ]
+    },
+    {
+      "title": "2.1.\nWORKSHEET 1: OPEN POA&M ITEMS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          313.822265625
+        ],
+        [
+          324.228515625,
+          313.822265625
+        ],
+        [
+          324.228515625,
+          328.130859375
+        ],
+        [
+          70.5,
+          328.130859375
+        ]
+      ]
+    },
+    {
+      "title": "Table 1. POA&M Items Header Information Description",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          190.65234375,
+          416.49609375
+        ],
+        [
+          422.25,
+          416.49609375
+        ],
+        [
+          422.25,
+          429.64453125
+        ],
+        [
+          190.65234375,
+          429.64453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          73.73583984375,
+          22.4417724609375
+        ],
+        [
+          145.45458984375,
+          22.4417724609375
+        ],
+        [
+          145.45458984375,
+          71.54296875
+        ],
+        [
+          73.73583984375,
+          71.54296875
+        ]
+      ]
+    },
+    {
+      "title": "Table 2. POA&M Items Column Information Description",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          190.951171875,
+          174.796875
+        ],
+        [
+          422.25,
+          174.796875
+        ],
+        [
+          422.25,
+          186.591796875
+        ],
+        [
+          190.951171875,
+          186.591796875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.014404296875,
+          20.568603515625
+        ],
+        [
+          145.9775390625,
+          20.568603515625
+        ],
+        [
+          145.9775390625,
+          72.509765625
+        ],
+        [
+          76.014404296875,
+          72.509765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          76.6494140625,
+          20.9794921875
+        ],
+        [
+          145.529296875,
+          20.9794921875
+        ],
+        [
+          145.529296875,
+          73.13818359375
+        ],
+        [
+          76.6494140625,
+          73.13818359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.9482421875,
+          20.761962890625
+        ],
+        [
+          145.828125,
+          20.761962890625
+        ],
+        [
+          145.828125,
+          72.509765625
+        ],
+        [
+          76.9482421875,
+          72.509765625
+        ]
+      ]
+    },
+    {
+      "title": "WORKSHEET 2: CLOSED POA&M ITEMS\n2.2.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.25,
+          361.001953125
+        ],
+        [
+          336.48046875,
+          361.001953125
+        ],
+        [
+          336.48046875,
+          376.470703125
+        ],
+        [
+          71.25,
+          376.470703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          74.63232421875,
+          21.9462890625
+        ],
+        [
+          144.40869140625,
+          21.9462890625
+        ],
+        [
+          144.40869140625,
+          73.04150390625
+        ],
+        [
+          74.63232421875,
+          73.04150390625
+        ]
+      ]
+    },
+    {
+      "title": "INTEGRATED INVENTORY WORKBOOK\n2.3.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          70.5,
+          98.61328125
+        ],
+        [
+          332.25,
+          98.61328125
+        ],
+        [
+          332.25,
+          114.46875
+        ],
+        [
+          70.5,
+          114.46875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          73.9599609375,
+          20.955322265625
+        ],
+        [
+          144.931640625,
+          20.955322265625
+        ],
+        [
+          144.931640625,
+          73.86328125
+        ],
+        [
+          73.9599609375,
+          73.86328125
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL REQUIREMENTS\n3.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.25,
+          98.75830078125
+        ],
+        [
+          252.75,
+          98.75830078125
+        ],
+        [
+          252.75,
+          114.3720703125
+        ],
+        [
+          71.25,
+          114.3720703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          74.146728515625,
+          22.67138671875
+        ],
+        [
+          142.83984375,
+          22.67138671875
+        ],
+        [
+          142.83984375,
+          72.84814453125
+        ],
+        [
+          74.146728515625,
+          72.84814453125
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A:  FEDRAMP ACRONYMS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          69.75,
+          98.25
+        ],
+        [
+          285.0,
+          98.25
+        ],
+        [
+          285.0,
+          114.08203125
+        ],
+        [
+          69.75,
+          114.08203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          96
+        ],
+        [
+          "TableCell",
+          75
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          21
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          55
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CSP_POAM_Template_Completion_Guide"
+}
