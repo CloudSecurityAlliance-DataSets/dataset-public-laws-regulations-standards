@@ -120,11 +120,26 @@ def main():
         # One row per question, with control info repeated
     df_final = pd.merge(df_caiq, df_controls, on=join_keys, how='left')
 
-        # Sort for consistent ordering
+            # Sort for consistent ordering
     df_controls = df_controls.sort_values(by=[join_keys[0], join_keys[2]])
     df_final = df_final.sort_values(by=[join_keys[0], 'CAIQ_Question ID'])
 
-    # Write out two CSVs: CCM-only and CAIQ merged
+        # Normalize Unicode punctuation to ASCII hyphens and quotes
+    mapping = str.maketrans({
+        '–': '-',  # en dash
+        '—': '-',  # em dash
+        '―': '-',  # horizontal bar
+        '‘': "'",  # left single quotation mark
+        '’': "'",  # right single quotation mark
+        '“': '"',  # left double quotation mark
+        '”': '"',  # right double quotation mark
+        '„': '"',  # double low-9 quotation mark
+    })
+    # Apply normalization across all string cells without using deprecated applymap
+    df_controls = df_controls.apply(lambda col: col.map(lambda x: x.translate(mapping) if isinstance(x, str) else x))
+    df_final = df_final.apply(lambda col: col.map(lambda x: x.translate(mapping) if isinstance(x, str) else x))
+
+    # Write out two CSVs: CCM-only and CAIQ merged: CCM-only and CAIQ merged
     stem = inp.stem
     ccm_out = inp.with_name(f"{stem}_ccm_normalized.csv")
     caiq_out = inp.with_name(f"{stem}_caiq_normalized.csv")
