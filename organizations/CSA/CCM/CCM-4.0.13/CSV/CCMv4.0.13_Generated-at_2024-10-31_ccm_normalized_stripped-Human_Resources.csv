@@ -1,0 +1,426 @@
+Control Domain,Control Title,Control ID,CCM_Control Specification,Implementation Guidelines_CCM Implementation Guidelines v2.0 CSP,Implementation Guidelines_CSC,Auditing Guidelines_Auditing Guidelines
+Human Resources,Background Screening Policy and Procedures,HRS-01,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for background verification of all new employees (including
+but not limited to remote employees, contractors, and third parties) according
+to local laws, regulations, ethics, and contractual constraints and proportional
+to the data classification to be accessed, the business requirements, and acceptable
+risk. Review and update the policies and procedures at least annually.
+","Control Ownership Rationale.
+This control's implementation responsibility is independent of the service model (IaaS, PaaS, SaaS) since GRC is applicable to all. It is shared and should be implemented by each party, CSC and the CSP, however independently from one another. Both entities may have different screening policies and processes that they should fill respective of their countries, contractual and regulatory requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for implementing internal measures to ensure that permanent and temporary staff, outsourced consultants and any other third-party service providers have been appropriately screened and vetted in relation to the level, amount and frequency of access to systems or sites required by their role. The screening processes should be established and precede any activity in granting access to systems. 
+
+Screening processes should be conducted by authorized and specialized departments to compartmentalize any and all personal data/sensitive information gathered during the screening processes. The CSP should make reasonable arrangements to assure the CSC of staff trust level. Where appropriate, it should conduct client-specific screening to their requirements for staff with access to the CSC's systems such as government or law enforcement agencies. In situations where screening is delayed, for example, the inability to contact references or verification checks taking a long time, should implement mitigating controls for the interim, such as:
+a. Delaying start date or onboarding
+b. Not issuing access or credentials
+c. Allowing access but limiting or restricting permissions
+
+Where circumstances cause complications, or screening has detected previous issues such as criminal records or information that causes concern, processes should be in place to escalate matters or to terminate offers of employment.
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: the scope and objectives of background verification, including the types of positions, roles, and access levels of employees, contractors, and third parties that require background checks. The verification process should be tailored to the level of access to sensitive data and the nature of responsibilities
+b. Compliance with Local Laws and Regulations: Ensure compliance with local, regional, and international laws and regulations regarding background checks and data privacy
+i. obtain necessary consents, ensuring data privacy, and complying with record retention requirements.
+ii. Consider specific regulations related to the handling of personal information in different jurisdictions
+c. Ethics and Contractual Constraints: ethical considerations and contractual obligations with customers and partners. It should ensure that background checks are conducted in a fair and unbiased manner, minimizing any potential for discrimination or invasion of privacy
+d. Risk Assessment for Background Verification: The extent of background verification should be proportionate to the data classification to be accessed, the business requirements, and the acceptable risk level. More sensitive roles or access to highly confidential data may warrant more rigorous background checks.
+e. Verification Checks: Outline the specific verification checks to be conducted.
+i. Identity Verification: Confirming the individual's identity through valid government-issued documents.
+ii. Education Verification: Verifying educational credentials and qualifications as claimed (e.g., claimed degrees and certifications)
+iii. Employment History Verification: Verifying previous employment history and job responsibilities (e.g., positions held, duration, and reasons for leaving.
+iv. Reference Checks: Conduct professional reference checks to assess the candidate's skills, work habits, and reliability.
+v. Criminal Background Checks: Conduct criminal background checks in accordance with local laws and regulations and define the criteria for disqualification based on the nature of offenses
+f. Third-Party Background Check Services: If using third-party background check providers, the policy should establish strict guidelines for selecting reputable and secure service providers
+i. Include background verification requirements in contracts with third-party vendors and contractors
+ii. Specify the level of scrutiny based on the services provided and access granted
+iii. Require contractors and third parties to undergo security awareness training to align with the organization's security policies
+g. Disclosure and Authorization: outline the process for obtaining necessary consents and authorizations from individuals for conducting background checks. It should also clarify the purpose of the checks and how the information will be used and protected.
+h. Record Retention: specify requirements for the duration for retaining background check records, ensuring compliance with data privacy regulations and contractual obligations (also regarding storage and disposal of personal information). Maintain audit trails of the background verification process for accountability and compliance purposes
+i. Incident Response: An incident response protocol in case any adverse or unexpected findings are revealed during the background verification process
+j. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+k. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+l. Maintenance and Reviews: Policies and procedures for background verification checks should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Examine the process for selection of local laws, regulations, ethics, and contractual constraints, and for review of its output.
+3. Verify that the background verification required is mapped to the risks and data classification.
+4. Examine the policy and procedures for evidence of review at least annually.
+5. Examine Human Resources tickets upon hire which trigger background review and final confirmation from third party conducting background reviews showing it has been completed and how exceptions or failed checks have been addressed.
+"
+Human Resources,Acceptable Use of Technology Policy and Procedures,HRS-02,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for defining allowances and conditions for the acceptable
+use of organizationally-owned or managed assets. Review and update the policies
+and procedures at least annually.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different Acceptable Use policies requirements for technology standards and requirements within their policies and processes that they should fill respective of their countries , contractual or regulatory requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP has a responsibility to ensure its staff utilize the organization's technology appropriately to protect its systems and its clients' information. These policies should be provided to personnel and included in annual security training. 
+
+The policies should encompass all elements of using technology including but not limited to: Social Media usage, Sending & receiving Email, browsing and using the Internet, sending & forwarding content, electronic communications & Instant messaging, Videos, application usage, software security and configuration changes.
+
+These policies should act as general Do's and Don'ts for an organization's IT systems. Outlining how to use organizational assets such as authorisation and protecting assets. It should also stipulate if your organization allows personal use of those devices.
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: The scope of assets covered, including cloud resources, devices, software, and data should be defined
+i. The purpose should be stated as to protect the organization's assets, data, and reputation by ensuring that cloud services are used in a responsible and ethical manner
+ii. definitions of key terms, such as ""acceptable use,"" ""unauthorized use,"" and ""confidential information should be provided
+b. Prohibited Uses: Outline prohibited uses of organizationally-owned or managed cloud assets including company-owned devices, personal devices, and cloud-based services and applications. Examples of prohibited uses may include:
+i. Using assets for personal or non-work-related activities
+ii. Installing unauthorized software or applications
+iii. Accessing or sharing illegal or inappropriate content
+iv. Engaging in activities that could damage or compromise the security of the assets
+c. Acceptable Uses: The policy should provide guidelines for acceptable uses of organizationally-owned or managed assets. Examples of acceptable uses may include:
+i. Using assets for work-related activities
+ii. Installing approved software applications
+iii. Accessing and sharing work-related information
+iv. Using assets in a responsible and ethical manner
+d. Compliance with Laws and Regulations: The policy should emphasize the need to comply with all applicable laws and regulations regarding the use of organizationally-owned or managed assets
+e. Consequences of Violation: The policy should outline the consequences of violating the policy, including disciplinary action, up to and including termination of employment
+f. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+g. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+h. Maintenance and Reviews: Policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Verify that a definition of organizationally-owned or managed assets exists, and is implemented.
+3. Verify, via Interviews or otherwise, that the policy is communicated to users.
+4. Examine policy and procedures for evidence of review at least annually.
+"
+Human Resources,Clean Desk Policy and Procedures,HRS-03,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures that require unattended workspaces to not have openly
+visible confidential data. Review and update the policies and procedures at
+least annually.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different clean desk standards or requirements that need to be outlined in their policies and processes that they should fulfill respective of their countries , contractual or regulatory requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP bears the responsibility for fostering a security culture within its organization, safeguarding itself and its clients from both accidental and malicious activities.
+
+A clear desk policy is a fundamental component of information security, ensuring the physical protection of sensitive data from theft. This policy mandates the secure storage of assets in designated furniture, safes, and lockers, effectively shielding sensitive information from unauthorized access. Additionally, it safeguards against overlooking, shoulder surfing, and potential malicious activity by enforcing screen locks, thereby reducing the risk of session capturing, particularly in virtualized environments.
+
+To further enhance security, whiteboards, writable walls, and other writable surfaces, along with notebooks, post-it notes, and similar materials, should be cleared, securely shredded, or wiped clean when not in use. Mobile devices and desktops may be equipped with physical cable locks to prevent theft, while servers and sensitive equipment should be stored within secured racks or cages.
+
+When sending documents to printers, then these documents should be retrieved promptly to prevent unauthorized access to sensitive information.
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: This policy applies to all workspaces, including physical workstations, laptops, mobile devices, and cloud-based workspaces in order to protect data confidentiality and prevent unauthorized access to sensitive information for all employees, contractors, and third parties that leave their workspaces unattended
+b. Screen Locking Mechanism:
+i. Require all devices to have an automatic screen locking mechanism that activates after a defined period of inactivity (e.g., not exceeding five minutes)
+ii. Require strong passwords, PIN, or biometric authentication to unlock screens (refer to IAM-02)
+iii. Implement two-factor authentication (2FA) for all users to further enhance screen lock security
+c. Automatic Logout:
+i. Implement an automatic session logout feature after a specified period of inactivity to ensure that users are not inadvertently leaving their sessions open
+ii. automatically lock remote desktop sessions when not in use, and require secure authentication for re-entry
+d. Privacy Screens: Encourage or require the use of privacy screens on devices to limit the visibility of screens to individuals in close proximity
+e. Clear Desk Policy: employees should maintain a clean workspace, ensuring that confidential information is not openly visible when they are away from their desks. Document covers or lockable storage cabinets for sensitive documents are advised
+i. confidential documents, printouts, or notes should be not left in plain sight
+ii. confidential documents should be shred or securely disposed of when no longer needed (refer to DSP-02)
+f. Secure Physical Devices:
+i. Lock workstations, laptops, and mobile devices when left unattended, even for short periods
+ii. Use strong passwords and enable multi-factor authentication (MFA) for all devices
+iii. Avoid storing confidential data on removable media, such as USB drives, unless encrypted
+g. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+h. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+i. Maintenance and Reviews: Workspace policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Verify that secure and unsecure work areas are defined and demarcated.
+3. Verify that confidential data is classified appropriately, and that the classification is available at point-of-use.
+4. Verify, via Interviews or otherwise, that the policy is communicated to users.
+5. Examine policy and procedures for evidence of review at least annually.
+"
+Human Resources,Remote and Home Working Policy and Procedures,HRS-04,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures to protect information accessed, processed or stored
+at remote sites and locations. Review and update the policies and procedures
+at least annually.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption, fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different Remote and Home Working policies and Procedures which will link to the individual organizations standards and requirements within their policies and processes that they should achieve for their respective countries , contractual or regulatory requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+Remote and Home working policy should be deployed by the CSP where it permits those activities for its personnel. Remote working increases the risk and threat profile of a cloud organization as these boundaries of protection may become weakened or assets may be compromised through various means. The CSP has a responsibility to protect its core systems and its CSC's data. The policy should be defined and deployed to provide its personnel the appropriate security requirements, controls and procedures to follow while they work remotely.
+
+Personnel should be trained and informed of risks when working remotely, as the shift to a decentralized work environment introduces various cybersecurity threats that individuals must be vigilant against. 
+
+One prevalent risk is the increased susceptibility to phishing attacks. Additionally, the use of unsecured Wi-Fi networks in home environments poses a potential threat, as it opens avenues for unauthorized access and data interception. Remote workers should also be cautious about the security of their devices, as the loss or theft of laptops or mobile devices can lead to unauthorized access to corporate data. Furthermore, the reliance on personal devices and unsecured applications for work tasks may expose organizations to data breaches and compromise the confidentiality of sensitive information. 
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: This policy applies to all employees, contractors, and third-party vendors who access, process, or store information accessed, processed or stored at remote sites and locations in the context of cloud computing and cloud security. Objective of policy is to ensure that remote employees are aware of and comply with the organization's cloud security policies and procedures
+b. Secure Network Connections: Require the use of a VPN for secure and encrypted communication, with strong encryption protocols and authentication mechanisms, between remote devices and the corporate network
+c. Remote Working MFA Access: Require the use of MFA for accessing corporate systems and cloud services. The use of MFA on all devices and applications to add an extra layer of security should be encouraged
+d. Endpoints Protection: Require the deployment of endpoint protection software to detect and prevent malware and other security threats
+i. Implement Mobile Device Management (MDM) or Endpoint Management solutions for remote device configuration, monitoring, and security enforcement (e.g., anti-malware, device encryption, secure email, etc.) (refer to UEM domain)
+ii. Educate remote workers about the risks of using public Wi-Fi and recommend the use of a VPN when connecting to public networks
+iii. Provide guidelines for securing home Wi-Fi networks, including the use of strong encryption (WPA3) and changing default credentials
+e. Secure Remote Desktop Solutions: Where applicable, require the use secure remote desktop solutions with strong encryption and authentication
+f. Secure File Transfer: Discourage the use of personal email accounts or insecure file-sharing services for work-related tasks
+g. Regular Software Updates: Enable automatic updates whenever possible and educate users on the importance of keeping software up to date
+h. Remote Data Backups: Require regular backups of critical data stored on remote devices and test data restoration procedures periodically to ensure data can be recovered in case of loss or a security incident
+i. Secure File Transfer: Discourage the use of personal email accounts or insecure file-sharing services for work-related tasks.
+j. Secure Printing: Educate remote workers with secure printing practices, such as immediately retrieving printed documents with sensitive data
+k. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+l. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+m. Maintenance and Reviews: Remote working policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.     
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Verify, via Interviews or otherwise, that remote sites and locations, especially those not under the control of the organization, are defined and demarcated.
+3. Verify, via Interviews or otherwise, that the policy and procedures are communicated to users.
+4. Examine policy and procedures for evidence of review or at least annually.
+"
+Human Resources,Asset returns,HRS-05,"Establish and document procedures for the return of organization-owned
+assets by terminated employees.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for the return of organization-owned assets as per their policies and procedures which link to their respective standards and requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for ensuring it has established and documented procedures for the return of corporate-owned assets including organization-owned data for employees who have been or are to be terminated. By inference this would require the CSP to have defined asset tracking or management procedures in place. Where immediate return is not possible the ability to remotely wipe or lock devices should be deployed.
+
+Return of organizational devices should include:
+a. user endpoint devices (laptops, mobiles and tablets)
+b. portable storage devices (USB, removable hard drives etc)
+c. specialized equipment 
+d. authentication hardware (FIDO keys, mechanical keys, tokens, smartcards) for IT systems, physical sites and physical archives
+e. physical copies of information (e.g., handwritten, printed)
+
+The CSP should also make efforts through technical procedures or policy (such as through NDAs) to prevent and deter the unauthorized copying, replication or transfer of information by any person(s) under their notice period for termination.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The CSC is responsible for ensuring it has established and documented procedures for the return of corporate-owned assets including organization-owned data for employees who have been or are to be terminated. By inference this would require the CSC to have defined asset tracking or management procedures in place. Where immediate return is not possible the ability to remotely wipe or lock devices should be deployed.
+
+Return of organizational devices should include:
+a. user endpoint devices (laptops, mobiles and tablets)
+b. portable storage devices (USB, removable hard drives etc)
+c. specialized equipment 
+d. authentication hardware (FIDO keys, mechanical keys, tokens, smartcards) for IT systems, physical sites and physical archives
+e. physical copies of information (e.g., handwritten, printed)
+
+The CSC should also make efforts through technical procedures or policy (such as through NDAs) to prevent and deter the unauthorized copying, replication or transfer of information by any person(s) under their notice period for termination.
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Verify that a definition of organizationally-owned assets exists, and is implemented.
+3. Verify that a definition of terminated employees exists, and is implemented.
+4. Examine policy and procedures for evidence of review at least annually.
+"
+Human Resources,Employment Termination,HRS-06,"Establish, document, and communicate to all personnel the procedures
+outlining the roles and responsibilities concerning changes in employment.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for the return of organization-owned assets as per their policies and procedures which link to their respective standards and requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for establishing and communicating a termination of employment policy or procedure that makes its people aware of the responsibilities and duties that will apply valid post termination. Post Employment Obligations may be presented to a terminating employee in the form of a refreshed NDA, a non-compete, or other form of legal document. These may also apply to a change in employment status.
+
+The policies or documents should include requirements to maintain the confidentiality of organizational information such as trade secrets, intellectual property, client data, or any other information that may be valuable to the organization. The responsibilities should link to those details in the employment terms and conditions. 
+
+External personnel should also be subject to the same process for termination or changes when contracts or jobs are terminated or in the event of a role, team or department change is instigated.
+
+The CSP should take caution on any restrictions or additional provisions it has made to specific CSCs with respect to their requirements or contractual agreements.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC is responsible for establishing and communicating a termination of employment policy or procedure that makes its people aware of the responsibilities and duties that will apply valid post termination. Post Employment Obligations may be presented to a terminating employee in the form of a refreshed NDA, a non-compete, or other form of legal document. These may also apply to a change in employment status.
+
+The policies or documents should include requirements to maintain the confidentiality of organizational information such as trade secrets, intellectual property, client data, or any other information that may be valuable to the organization. The responsibilities should link to those details in the employment terms and conditions. 
+
+External personnel should also be subject to the same process for termination or changes when contracts or jobs are terminated or in the event of a role, team or department change is instigated.
+
+In addition, the CSC may need to inform their CSP of significant changes or, where applicable, if persons of significant control over the cloud environment are being terminated. The CSP may need to disable or restrict the person's access.
+","1. Examine policy for adequacy, currency, communication, and effectiveness.
+2. Verify that organization charts are maintained and available as appropriate.
+3. Verify that a definition of terminated employees exists, and is implemented.
+4. Examine policy and procedures for notification of stakeholders upon changes in employment, or of roles, and the appropriate activities are triggered, i.e. access changes, asset return, etc.
+"
+Human Resources,Employment Agreement Process,HRS-07,"Employees sign the employee agreement prior to being granted access
+to organizational information systems, resources and assets.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are Independent from one another. Both entities may have different requirements for employees when signing or agreeing to any access agreements. Those may be NDAs, AUPs, or contracts.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for establishing and communicating procedures for employees to sign agreements prior to being granted access to organizational assets, information systems, or resources, including physical sites without escort. The agreements may include terms and conditions of employment, roles and responsibilities, or security standards. 
+
+When outlining agreements there should be provisions for preventing access without signed agreements, revoking access for breaches of agreements, and disciplinary procedures.
+
+Terms and conditions should be reviewed and updated in line with internal policies and requirements, regulations, or laws change. Changes should be communicated to staff so they can agree to any new terms.
+
+The CSP may be required contractually to also make staff aware of CSC agreements that may need to be signed.   
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC is responsible for establishing and communicating procedures for employees to sign agreements prior to being granted access to organizational assets, information systems, or resources, including physical sites without escort. The agreements may include terms and conditions of employment, roles and responsibilities, or security standards. 
+
+When outlining agreements there should be provisions for preventing access without signed agreements, revoking access for breaches of agreements, and disciplinary procedures.
+
+Terms and conditions should be reviewed and updated in line with internal policies and requirements, regulations, or laws change. Changes should be communicated to staff so they can agree to any new terms.
+","1. Verify that the organization has defined formats and templates of employment agreements.
+2. Verify, if more than one Agreement is used, that they are mapped to appropriate roles and job descriptions.
+3. Examine the policy and procedures that mandate the signing of such Agreement before access is granted.
+"
+Human Resources,Employment Agreement Content,HRS-08,"The organization includes within the employment agreements provisions
+and/or terms for adherence to established information governance and security
+policies.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are to be implemented independently by each party. Both parties should ensure employment agreements that include terms for adherence to established information governance and security policies, but such agreements are dependent on applicable laws and regulatory requirements.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should communicate relevant code of conduct, information governance, and security and privacy policies to employees and contractors upon hire. All employees and contractors should complete relevant training upon hire and annually thereafter. Employees and contractors should sign an acknowledgment of the established policies. Any changes to policies should be communicated to employees and contractors and require a signature of acknowledgment. Employment and service contracts should include confidentiality clauses. The CSP should communicate the consequences of not adhering to the policies and take appropriate and proportionate action if an employee is in breach of an agreement. 
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC should communicate relevant code of conduct, information governance, and security and privacy policies to employees and contractors upon hire. All employees and contractors should complete relevant training upon hire and annually thereafter. Employees and contractors should sign an acknowledgment of the established policies. Any changes to policies should be communicated to employees and contractors and require a signature of acknowledgment. Employment and service contracts should include confidentiality clauses. The CSC should communicate the consequences of not adhering to the policies and take appropriate and proportionate action if an employee is in breach of an agreement. 
+","1. Verify that the organization has defined formats and templates of Employment Agreements.
+2. Verify that the Agreements include references to the organization's Information Security Management System (ISMS), and that they mandate compliance.
+"
+Human Resources,Personnel Roles and Responsibilities,HRS-09,"Document and communicate roles and responsibilities of employees,
+as they relate to information assets and security.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should document and communicate the roles and responsibilities of employees, as they relate to information assets,  privacy, and security.       
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should identify, define, document, and communicate information-asset protection guidance and responsibilities.These should be reviewed and updated annually.
+
+All employees, contractors, and contingent staff should receive role-based security training commensurate with their access, duties, and responsibilities at the start of their service agreement before granting them access to corporate facilities, resources, and assets and annually thereafter. Changes to relevant policies should be communicated to employees, contractors, and contingent staff.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC should identify, define, document, and communicate information asset protection guidance and responsibilities.These should be reviewed and updated annually.
+
+All employees, contractors, and contingent staff should receive role-based security training commensurate with their access, duties, and responsibilities at the start of their service agreement before granting them access to corporate facilities, resources, and assets and annually thereafter. Changes to relevant policies should be communicated to employees, contractors, and contingent staff.
+","1. Verify that organization charts are maintained and available as appropriate.
+2. Verify that the Role or Job Descriptions refer to the appropriate ISMS requirements.
+3. Verify, by Interviews or otherwise, that employees and stakeholders are aware of the roles or job descriptions, and that these are reviewed.
+"
+Human Resources,Non-Disclosure Agreements,HRS-10,"Identify, document, and review, at planned intervals, requirements
+for non-disclosure/confidentiality agreements reflecting the organization's
+needs for the protection of data and operational details.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should identify, document, and review, at planned intervals, requirements for non-disclosure/confidentiality agreements reflecting the organization's needs for the protection of data and operational details.      
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should maintain an NDA/Confidentiality Agreement template and ensure appropriateness and currency through periodic review. Agreement terms should be based on the organization's information security requirements.   
+                             
+The type of information covered should define permissible access and information handling protocols. The agreement should include, but not be limited to:
+a. what information is protected
+b. the length of the agreement
+c. interested parties to the agreement
+d. the responsibilities of each party in the agreement
+e. terms for the destruction of data once the agreement has ended
+f. expected actions if a breach of agreement terms occurs
+g. the CSP should require that the NDA/confidentiality agreement be put in place before it shares confidential information with third parties
+
+Conditions of employment, encompassing employees, and contractors should be required to sign the confidentiality or non-disclosure agreement before gaining access to the CSP information assets.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine if the organization has identified its requirements for non-disclosure and confidentiality.
+2. Determine the planned interval for review.
+3. Verify that the requirements are reviewed at such planned intervals.
+"
+Human Resources,Security Awareness Training,HRS-11,"Establish, document, approve, communicate, apply, evaluate and maintain
+a security awareness training program for all employees of the organization
+and provide regular training updates.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should establish, document, approve, communicate, apply, evaluate and maintain a security awareness training program for all employees of the organization and provide regular training updates.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should establish and maintain a robust ongoing integrated security and privacy training program which may include, but not be limited to, interactive training modules, intranet content, online webinars, videos, email communications, posters, checklists and tip cards, etc. Security and privacy awareness training should be provided to all employees and contractors upon onboarding and annually thereafter to educate personnel about their responsibilities and the necessary means for securing corporate assets. A training attendance registry is to be maintained. Roles and responsibilities of organizational members should be considered and training should be tailored accordingly. Targeted training should be provided for developers on secure coding. The Security awareness training program should be reviewed at least annually and updated as needed.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine the security awareness training program for adequacy, currency, communication, and effectiveness.
+2. Verify, by Interviews or otherwise, that the training program has been implemented.
+3. Verify that the scope of the training program extends to all employees.
+4. Examine policy and procedures for evidence of review.
+"
+Human Resources,Personal and Sensitive Data Awareness and Training,HRS-12,"Provide all employees with access to sensitive organizational and
+personal data with appropriate security awareness training and regular updates
+in organizational procedures, processes, and policies relating to their professional
+function relative to the organization.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should provide internal and external personnel with access to sensitive organizational and personal data with appropriate security awareness training and regular updates in organizational procedures, processes, and policies relating to their professional function relative to the organization.
+
+Implementation Guidelines.
+Applicable to all service models:
+Security awareness training should educate personnel on their responsibilities and the necessary means for securing personal and sensitive data. Training should include the various regulatory and legal requirements that impact personal and sensitive data handling. Furthermore, training should occur regularly to incorporate changes in organizational procedures, processes, and policies.
+
+The training should be provided to all employees and contractors upon onboarding and annually thereafter. A training attendance registry is to be maintained.
+
+All persons with systems access should acknowledge the information security and privacy policy.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine the security awareness training program for adequacy, currency, communication, and  effectiveness.
+2. Verify that a definition of sensitive organizational and personal data exists, and is implemented.
+3. Verify, by Interviews or otherwise, that the training program has been implemented.
+4. Verify that the scope of the training program extends to all employees with access to such data.
+5. Examine policy and procedures for evidence of review.
+"
+Human Resources,Compliance User Responsibility,HRS-13,"Make employees aware of their roles and responsibilities for maintaining
+awareness and compliance with established policies and procedures and applicable
+legal, statutory, or regulatory compliance obligations.
+","Control Ownership Rationale.
+The determination for this control objective remains the same regardless of the cloud architecture adoption; fundamentally this control is shared between both the CSC and the CSP. The controls however are independent from one another. Both entities should make employees aware of their roles and responsibilities for maintaining awareness and compliance with established policies and procedures, regulations, and legal frameworks.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should maintain a training and awareness program that regularly reminds personnel of their responsibilities. These responsibilities include maintaining awareness and compliance with established policies and procedures, regulations, and legal frameworks.
+
+The training and awareness program may include several awareness-raising activities via appropriate physical or virtual channels, such as campaigns, booklets, posters, newsletters, websites, information sessions, briefings, e-learning modules, and emails.
+
+All employees, contractors, and interns are responsible for maintaining awareness and complying with security and privacy policies, procedures, and standards relevant to their area of responsibility. 
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine the process for selection of applicable legal, statutory, or regulatory compliance obligations, and for review of its output.
+2. Verify, by Interviews or otherwise, that employees are aware of their roles and responsibilities with respect to such obligations.
+"
