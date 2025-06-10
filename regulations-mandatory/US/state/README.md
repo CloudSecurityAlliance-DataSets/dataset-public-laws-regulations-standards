@@ -12,6 +12,12 @@ States that have enacted comprehensive consumer privacy laws:
 - **[Colorado](./Colorado/)** - CPA (Colorado Privacy Act)
 - **[Connecticut](./Connecticut/)** - CTDPA (Connecticut Data Privacy Act)
 - **[Utah](./Utah/)** - UCPA (Utah Consumer Privacy Act)
+- **[Montana](./Montana/)** - MCDPA (Montana Consumer Data Privacy Act)
+- **[Oregon](./Oregon/)** - OCPA (Oregon Consumer Privacy Act)
+- **[Delaware](./Delaware/)** - DPDPA (Delaware Personal Data Privacy Act)
+- **[Iowa](./Iowa/)** - ICDPA (Iowa Consumer Data Protection Act)
+- **[Indiana](./Indiana/)** - INCDPA (Indiana Consumer Data Protection Act)
+- **[Tennessee](./Tennessee/)** - TIPA (Tennessee Information Protection Act)
 
 ### Biometric Privacy Laws
 States with specific biometric data protection laws:
@@ -136,9 +142,15 @@ State laws vary in enforcement mechanisms:
 - **Colorado CPA**: Effective July 1, 2023
 - **Connecticut CTDPA**: Effective July 1, 2023
 - **Utah UCPA**: Effective December 31, 2023
+- **Montana MCDPA**: Effective October 1, 2024
+- **Oregon OCPA**: Effective July 1, 2024
 
 ### Upcoming Effective Dates
-- Various state laws have staggered implementation dates
+- **Delaware DPDPA**: Effective January 1, 2025
+- **Iowa ICDPA**: Effective January 1, 2025
+- **Tennessee TIPA**: Effective July 1, 2025
+- **Indiana INCDPA**: Effective January 1, 2026
+- Various other state laws have staggered implementation dates
 - New legislation continues to be enacted and amended
 
 ### Pending Legislation
