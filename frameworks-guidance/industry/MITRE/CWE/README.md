@@ -20,6 +20,22 @@ CWE is a community-developed list of common software and hardware security weakn
 - **CWE List**: https://cwe.mitre.org/data/index.html
 - **Research Resources**: https://cwe.mitre.org/about/resources.html
 
+### Official Documentation
+- **Schema Documentation**: Describes CWE data structure elements and development guidance
+- **CVE → CWE Mapping & Navigation Guidance**: Mapping criteria and search tips
+- **CWE Compatibility Requirements**: Guidelines for information product compatibility with Coverage Claims Representation (CCR)
+
+### Technical Papers
+- **"The Evolution of the CWE Development and Research Views"**: Methodologies for constructing CWE views
+- **"CWE Mapping Analysis"**: Examines effectiveness of CWE mappings to third-party weakness descriptions  
+- **"Structured CWE Descriptions"**: Semi-formal descriptions using vulnerability theory terminology
+
+### Additional Resources
+- **Introductory Brochures**: Overview materials for new users
+- **Vulnerability Trend Analyses**: Statistical analysis of weakness patterns
+- **Presentations and Podcasts**: Educational materials and conference presentations
+- **Historical Archive**: Legacy documents and earlier versions
+
 ## Data Sources
 
 - **CWE Database**: https://cwe.mitre.org/data/downloads.html
