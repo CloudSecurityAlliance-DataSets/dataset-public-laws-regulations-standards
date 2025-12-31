@@ -17,6 +17,87 @@ The key finding is that AI security concerns cluster around two distinct pattern
 1. **Attacks ON AI systems** - targeting models, training data, and inference
 2. **Attacks VIA AI systems** - using AI as an attack vector to execute traditional vulnerabilities
 
+---
+
+## MITRE's Official AI/ML Tagged CWEs
+
+MITRE has explicitly tagged 17 CWEs as applicable to AI/ML systems in the CWE database. This section examines those official tags and how they align with our broader analysis.
+
+### The 17 MITRE AI/ML Tagged CWEs
+
+| CWE | Name | Our V1 | Our V2 | Our Assessment |
+|-----|------|--------|--------|----------------|
+| **CWE-1427** | Improper Neutralization of Input Used for LLM Prompting | 4 | 3 | ✅ Core AI weakness - Prompt Injection |
+| **CWE-1426** | Improper Validation of Generative AI Output | 2 | 4 | ✅ Core AI weakness - Output Validation |
+| **CWE-1434** | Insecure Setting of Generative AI/ML Model Inference Parameters | 4 | 1 | ✅ Core AI weakness - Inference Security |
+| **CWE-1039** | Inadequate Detection of Adversarial Input Perturbations | 4 | 0 | ✅ Core AI weakness - Adversarial ML |
+| **CWE-502** | Deserialization of Untrusted Data | 4 | 1 | ✅ Critical for model loading (pickle attacks) |
+| **CWE-77** | Command Injection | 2 | 4 | ✅ Primary AI agent attack vector |
+| **CWE-78** | OS Command Injection | 2 | 4 | ✅ Primary AI agent attack vector |
+| **CWE-918** | Server-Side Request Forgery (SSRF) | 2 | 4 | ✅ Primary AI agent attack vector |
+| **CWE-22** | Path Traversal | 3 | 3 | ✅ AI file access concerns |
+| **CWE-23** | Relative Path Traversal | 2 | 3 | ✅ AI file access variant |
+| **CWE-36** | Absolute Path Traversal | 2 | 3 | ✅ AI file access variant |
+| **CWE-79** | Cross-site Scripting (XSS) | 1 | 3 | ✅ AI-generated web content |
+| **CWE-94** | Code Injection | 2 | 3 | ✅ AI-generated code execution |
+| **CWE-95** | Eval Injection | 2 | 3 | ✅ AI-generated code execution |
+| **CWE-862** | Missing Authorization | 3 | 2 | ✅ AI action authorization |
+| **CWE-116** | Improper Encoding or Escaping of Output | 2 | 0 | ⚠️ Generic, less AI-specific |
+| **CWE-1336** | Template Engine Injection | 2 | 0 | ⚠️ Generic, less AI-specific |
+
+### Analysis of MITRE's Tagging
+
+**What MITRE Got Right:**
+
+1. **Core AI-Specific CWEs (4 entries):** CWE-1427 (Prompt Injection), CWE-1426 (Output Validation), CWE-1434 (Inference Parameters), and CWE-1039 (Adversarial Inputs) are purpose-built for AI security. These represent novel attack surfaces that didn't exist before AI systems.
+
+2. **Supply Chain Recognition:** Including CWE-502 (Deserialization) shows awareness of the pickle attack vector for malicious model loading—a critical AI supply chain concern.
+
+3. **AI Agent Attack Vectors:** The inclusion of CWE-77, CWE-78 (Command Injection) and CWE-918 (SSRF) demonstrates understanding that AI agents with tool access create new exploitation paths for traditional vulnerabilities.
+
+4. **File Operation Risks:** Path traversal CWEs (22, 23, 36) recognize that AI systems with file access can be manipulated to access unauthorized paths.
+
+**Gaps in MITRE's Tagging:**
+
+1. **Incomplete Injection Coverage:** While MITRE tagged XSS (CWE-79) and SQL Injection is conspicuously absent, yet AI-generated SQL queries are a significant attack vector.
+
+2. **Missing CSRF:** CWE-352 (Cross-Site Request Forgery) is not tagged, but AI-generated forms without CSRF protection are a real concern.
+
+3. **Limited Path Traversal:** Only 3 of 20+ path traversal variants are tagged. While the parent CWE-22 covers the concept, the inconsistent tagging of variants is confusing.
+
+4. **No Information Disclosure:** CWE-200 and related information exposure CWEs aren't tagged, despite AI systems being prone to leaking training data and system information.
+
+**Our Extended Analysis Found:**
+
+- **198 CWEs** with meaningful AI relevance (vs. MITRE's 17)
+- **56 CWEs** with high AI relevance (Score ≥ 3)
+- Most additions are injection variants (View 2) and infrastructure concerns (View 1)
+
+### Why the Gap?
+
+MITRE's tagging appears focused on:
+1. **Novel AI-specific weaknesses** (prompt injection, adversarial inputs)
+2. **The most critical traditional weaknesses** when applied to AI
+
+Our analysis extends this by systematically evaluating ALL CWEs through the AI security lens, capturing:
+- The full family of injection attacks relevant to AI-generated output
+- Infrastructure weaknesses affecting AI system deployment
+- Indirect/supply chain concerns
+
+### Recommendations for MITRE
+
+Based on our analysis, we suggest MITRE consider tagging these additional high-relevance CWEs:
+
+| CWE | Name | Rationale |
+|-----|------|-----------|
+| CWE-89 | SQL Injection | AI-generated queries are a primary attack vector |
+| CWE-352 | CSRF | AI-generated forms need CSRF protection |
+| CWE-200 | Information Exposure | AI systems leak sensitive data |
+| CWE-434 | Unrestricted File Upload | AI file handling concerns |
+| CWE-829 | Untrusted Functionality Inclusion | AI supply chain (model dependencies) |
+
+---
+
 ## The Two-View Classification Model
 
 ### Why Two Views?
