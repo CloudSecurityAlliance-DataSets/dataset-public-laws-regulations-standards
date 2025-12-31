@@ -29,7 +29,7 @@ Before classifying CWEs, it's important to understand the AI ecosystem's attack 
 | **Supporting Infrastructure** | Servers, APIs, databases hosting AI | Well covered - traditional software security |
 | **AI System Core** | Model, prompts, inference pipeline | Poorly covered - only ~4 AI-specific CWEs exist |
 | **AI-Controlled/Generated Systems** | Code, configs, actions AI produces | CWEs apply to OUTPUT - AI is the novel vector |
-| **AI Knowledge/Supply Chain** | Training data, web search, integrations | Partially covered - trust boundary dependent |
+| **AI Knowledge/Supply Chain** | Training data, model files, web search, integrations | Partially covered - includes model metadata risks |
 
 ### Why This Context Matters for Scoring
 
@@ -52,7 +52,7 @@ After analysis, we determined that AI relevance to CWEs falls into two distinct 
 - Training attacks (data poisoning, backdoors)
 - Inference attacks (adversarial inputs, prompt injection)
 - Infrastructure attacks (model loading, API security)
-- Supply chain attacks (malicious models, compromised dependencies)
+- Supply chain attacks (malicious models, compromised dependencies, model metadata)
 
 **Examples**:
 | CWE | Name | View 1 Score | Reasoning |
@@ -60,6 +60,7 @@ After analysis, we determined that AI relevance to CWEs falls into two distinct 
 | 1427 | Prompt Injection | 4 | Canonical attack on LLMs |
 | 1039 | Adversarial Input Perturbations | 4 | Attacks ML recognition systems |
 | 502 | Deserialization | 4 | Malicious model loading (pickle attacks) |
+| 1336 | Template Engine Injection | 3 | Model metadata contains templates (CVE-2024-34359) |
 | 22 | Path Traversal | 3 | Access to model files, training data |
 
 ### View 2: Attacks VIA AI
@@ -164,7 +165,9 @@ For View 2:
 | 1427 | Prompt Injection | 4 | 3 | Direct | Canonical attack ON AI, enables VIA attacks |
 | 1426 | GenAI Output Validation | 2 | 4 | Direct | The defense against View 2 attacks |
 | 1039 | Adversarial Inputs | 4 | 0 | N/A | Pure View 1 attack on ML models |
-| 502 | Deserialization | 4 | 1 | Indirect | Model supply chain attacks |
+| 502 | Deserialization | 4 | 1 | Indirect | Model supply chain attacks (pickle) |
+| 1336 | Template Engine Injection | 3 | 0 | Indirect | Model metadata supply chain (CVE-2024-34359) |
+| 116 | Output Encoding | 2 | 0 | N/A | **Defensive CWE** - mitigation for View 2 attacks |
 | 78 | Command Injection | 2 | 4 | Direct | AI agent executes - immediate RCE |
 | 918 | SSRF | 2 | 4 | Direct | AI agent makes requests - immediate |
 | 79 | XSS | 1 | 3 | Direct | AI generates malicious HTML/JS |
@@ -248,6 +251,50 @@ This clarified that View 2 should focus on "AI output IS the weapon" cases.
 
 A 1-5 scale where 1 means "slightly applicable" creates ambiguity. Starting at 0 makes it clear that 0 = "this view does not apply" while 1+ indicates some level of applicability.
 
+## Defensive CWEs
+
+Some CWEs represent **mitigations** rather than attack vectors. These are "defensive CWEs" - they describe weaknesses in defensive mechanisms. In the AI context:
+
+| CWE | Name | Defends Against | Notes |
+|-----|------|-----------------|-------|
+| 116 | Improper Encoding or Escaping of Output | View 2 attacks | Foundation of OWASP LLM02 (Insecure Output Handling) |
+| 1426 | Improper Validation of Generative AI Output | View 2 attacks | Canonical defense against AI-generated attacks |
+| 838 | Inappropriate Encoding for Output Context | View 2 attacks | Context-specific output encoding |
+
+**Scoring Defensive CWEs**:
+- View 1: Score based on whether attackers target the defensive mechanism itself
+- View 2: Score 0 (these are defenses, not attacks AI produces)
+- Exception: CWE-1426 gets V2=4 because it IS the View 2 problem description
+
+**Why This Matters**:
+MITRE tags some defensive CWEs as AI-relevant (e.g., CWE-116) because they represent the mitigation for AI-specific attack patterns. When evaluating MITRE's tags, check whether the CWE describes an attack or a defense.
+
+## CVE-Based Validation
+
+Rule-based classification (keyword matching, category analysis) can miss real-world AI relevance. **CVE-based validation** uses actual security incidents to identify CWEs that affect AI systems in practice.
+
+### Case Study: CVE-2024-34359 ("Llama Drama")
+
+**Discovery**: CWE-1336 (Template Engine Injection) initially seemed generic - why would MITRE tag it as AI-relevant?
+
+**The CVE**: In llama-cpp-python, the GGUF model file format stores Jinja2 templates for chat formatting. When loading a model, these templates are executed without sandboxing. A malicious model file could contain templates that execute arbitrary Python code.
+
+**Impact**:
+- ~6,000 HuggingFace models affected
+- CVSS 9.8 (Critical)
+- Model file = executable code vector
+
+**Lesson**: Model files aren't just weights - they contain metadata (chat templates, tokenizer configs) that may be executed. This reveals an attack surface that pure analysis would miss.
+
+### Integrating CVE Validation
+
+When classifying CWEs:
+1. **Check for AI-related CVEs** mentioning the CWE
+2. **Search for ML framework CVEs** (PyTorch, TensorFlow, llama-cpp-python, etc.)
+3. **Look for model supply chain CVEs** affecting model loading/execution
+
+This explains why some "generic" CWEs score higher than expected - they have demonstrated real-world AI impact.
+
 ## Exclusions
 
 Certain categories of CWEs are explicitly scored as not AI-relevant (V1=0, V2=0):
@@ -294,7 +341,14 @@ These might appear in AI-generated code but are not security attacks.
 - OWASP Top 10 for LLM Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - Model Context Protocol: https://modelcontextprotocol.io/
 
+### Key CVEs Referenced
+- CVE-2024-34359 ("Llama Drama"): Template injection in llama-cpp-python via model metadata
+  - Demonstrates model files as executable code vector
+  - ~6,000 HuggingFace models affected
+  - CWE-1336 assignment reveals non-obvious AI relevance
+
 ---
 
 *Document created: December 2024*
+*Updated: December 2024 - Added Defensive CWEs, CVE-Based Validation sections*
 *Methodology developed through iterative analysis of CWE data and AI security considerations*

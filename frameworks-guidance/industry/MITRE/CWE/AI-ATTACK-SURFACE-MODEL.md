@@ -217,6 +217,27 @@ Systems that AI creates, configures, or manages.
 
 Sources of information and capabilities that AI relies on.
 
+#### Model Files as Attack Vectors
+
+**Critical insight**: Model files aren't just weights - they contain executable metadata.
+
+| Model Format | Executable Content | Risk Level |
+|--------------|-------------------|------------|
+| **Pickle (.pkl, .pt)** | Arbitrary Python code | Critical - well known |
+| **GGUF** | Jinja2 chat templates | Critical - CVE-2024-34359 |
+| **SafeTensors** | None (by design) | Low - safe alternative |
+| **ONNX** | Custom operators possible | Medium |
+
+**Case Study: CVE-2024-34359 ("Llama Drama")**
+
+The GGUF format used by llama.cpp stores chat templates as Jinja2 code in model metadata. When loading a model, llama-cpp-python executed these templates without sandboxing, allowing arbitrary code execution.
+
+- **Impact**: ~6,000 HuggingFace models potentially affected
+- **CVSS**: 9.8 (Critical)
+- **CWE**: CWE-1336 (Template Engine Injection)
+
+**Implication for CWE Classification**: This demonstrates that "generic" CWEs like template injection have specific AI attack surfaces. Model files from untrusted sources (HuggingFace, community repos) are attack vectors.
+
 | Scope | Controller | Trust Level | Examples |
 |-------|------------|-------------|----------|
 | Foundation-managed | AI Provider | Highest | Training data, built-in web search, built-in code execution |
@@ -276,7 +297,15 @@ When evaluating a CWE for AI relevance, consider:
 - Anthropic Claude Documentation: https://docs.anthropic.com/
 - Model Context Protocol: https://modelcontextprotocol.io/
 
+### Key CVEs
+
+- **CVE-2024-34359** ("Llama Drama"): Template injection in llama-cpp-python
+  - CVSS 9.8, ~6,000 HuggingFace models affected
+  - Demonstrates model file metadata as executable attack surface
+  - CWE-1336 (Template Engine Injection)
+
 ---
 
 *Document created: December 2024*
+*Updated: December 2024 - Added model metadata attack surface*
 *Part of the CWE AI Relevance Classification Project*
