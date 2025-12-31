@@ -42,8 +42,42 @@ MITRE has explicitly tagged 17 CWEs as applicable to AI/ML systems in the CWE da
 | **CWE-94** | Code Injection | 2 | 3 | ✅ AI-generated code execution |
 | **CWE-95** | Eval Injection | 2 | 3 | ✅ AI-generated code execution |
 | **CWE-862** | Missing Authorization | 3 | 2 | ✅ AI action authorization |
-| **CWE-116** | Improper Encoding or Escaping of Output | 2 | 0 | ⚠️ Generic, less AI-specific |
-| **CWE-1336** | Template Engine Injection | 2 | 0 | ⚠️ Generic, less AI-specific |
+| **CWE-116** | Improper Encoding or Escaping of Output | 2 | 0 | 🔍 See analysis below |
+| **CWE-1336** | Template Engine Injection | 2 | 0 | 🔍 See analysis below |
+
+### Deep Dive: CWE-116 and CWE-1336
+
+We initially flagged these two CWEs as "generic, less AI-specific" but further research revealed MITRE's insight was deeper than we first recognized.
+
+#### CWE-1336: Template Engine Injection — The "Llama Drama" Vulnerability
+
+**Why MITRE Tagged It:** CWE-1336's observed examples include [CVE-2024-34359](https://github.com/abetlen/llama-cpp-python/security/advisories/GHSA-56xg-wfcc-g829), a critical vulnerability in **llama-cpp-python** (CVSS 9.7):
+
+- **The Attack:** LLM model files (.gguf format) contain chat template metadata processed by Jinja2
+- **The Flaw:** llama-cpp-python processed these templates *without sandboxing*
+- **The Impact:** A malicious model file could execute arbitrary code when loaded
+- **The Scale:** Over 6,000 AI models on HuggingFace were potentially weaponizable
+
+This is a **supply chain attack on AI systems**—you download a model from HuggingFace, and it runs code on your machine. The template engine becomes the attack vector for model poisoning.
+
+**Our Revised Assessment:** CWE-1336 deserves higher View 1 scoring for AI supply chain attacks. The template engine processes model metadata, making it a direct attack ON AI infrastructure.
+
+#### CWE-116: Improper Encoding or Escaping of Output — The Foundation of LLM Output Security
+
+**Why MITRE Tagged It:** CWE-116 is the parent weakness underlying [OWASP LLM02: Insecure Output Handling](https://genai.owasp.org/llmrisk2023-24/llm02-insecure-output-handling/):
+
+- **The Problem:** LLM output is used in downstream systems (web pages, databases, shells)
+- **The Defense:** Output encoding strips special characters before the output reaches interpreters
+- **Without It:** AI-generated XSS, SQL injection, and command injection all become possible
+
+CWE-116 represents the *defensive mechanism* that prevents View 2 attacks. While we scored it V2=0 (AI doesn't "produce" encoding failures), it's actually the mitigation layer between AI output and injection vulnerabilities.
+
+**What We Learned:**
+1. MITRE's tagging captures both offensive (attacks using AI) and defensive (protections for AI output) perspectives
+2. Template engines are an underappreciated attack surface in AI model loading
+3. The CVE evidence (CVE-2024-34359) demonstrates real-world AI relevance we missed in rule-based classification
+
+**Recommendation:** Security teams should audit template engine usage in AI pipelines, especially when processing model metadata, chat templates, or prompt templates from external sources.
 
 ### Analysis of MITRE's Tagging
 
