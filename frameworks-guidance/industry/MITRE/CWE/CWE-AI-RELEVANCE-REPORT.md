@@ -9,9 +9,9 @@
 We analyzed all 944 CWEs in MITRE's Research Concepts view (CWE-1000) to determine their relevance to AI and machine learning security. Our analysis identified:
 
 - **8 CWEs** with the highest AI relevance (Score 4)
-- **48 CWEs** with high AI relevance (Score 3)
-- **198 CWEs total** with meaningful AI relevance (Score ≥ 2)
-- **746 CWEs** that can be safely deprioritized for AI security work
+- **49 CWEs** with high AI relevance (Score 3)
+- **199 CWEs total** with meaningful AI relevance (Score ≥ 2)
+- **745 CWEs** that can be safely deprioritized for AI security work
 
 The key finding is that AI security concerns cluster around two distinct patterns:
 1. **Attacks ON AI systems** - targeting models, training data, and inference
@@ -42,8 +42,8 @@ MITRE has explicitly tagged 17 CWEs as applicable to AI/ML systems in the CWE da
 | **CWE-94** | Code Injection | 2 | 3 | ✅ AI-generated code execution |
 | **CWE-95** | Eval Injection | 2 | 3 | ✅ AI-generated code execution |
 | **CWE-862** | Missing Authorization | 3 | 2 | ✅ AI action authorization |
-| **CWE-116** | Improper Encoding or Escaping of Output | 2 | 0 | 🔍 See analysis below |
-| **CWE-1336** | Template Engine Injection | 2 | 0 | 🔍 See analysis below |
+| **CWE-116** | Improper Encoding or Escaping of Output | 2 | 0 | ✅ Defensive CWE - OWASP LLM02 foundation |
+| **CWE-1336** | Template Engine Injection | 3 | 0 | ✅ CVE-2024-34359 supply chain attack |
 
 ### Deep Dive: CWE-116 and CWE-1336
 
@@ -60,7 +60,7 @@ We initially flagged these two CWEs as "generic, less AI-specific" but further r
 
 This is a **supply chain attack on AI systems**—you download a model from HuggingFace, and it runs code on your machine. The template engine becomes the attack vector for model poisoning.
 
-**Our Revised Assessment:** CWE-1336 deserves higher View 1 scoring for AI supply chain attacks. The template engine processes model metadata, making it a direct attack ON AI infrastructure.
+**Our Revised Assessment:** CWE-1336 now scores View 1 = 3 (Highly Applicable) for AI supply chain attacks. The template engine processes model metadata, making it a direct attack ON AI infrastructure.
 
 #### CWE-116: Improper Encoding or Escaping of Output — The Foundation of LLM Output Security
 
@@ -103,8 +103,8 @@ CWE-116 represents the *defensive mechanism* that prevents View 2 attacks. While
 
 **Our Extended Analysis Found:**
 
-- **198 CWEs** with meaningful AI relevance (vs. MITRE's 17)
-- **56 CWEs** with high AI relevance (Score ≥ 3)
+- **199 CWEs** with meaningful AI relevance (vs. MITRE's 17)
+- **57 CWEs** with high AI relevance (Score ≥ 3)
 - Most additions are injection variants (View 2) and infrastructure concerns (View 1)
 
 ### Why the Gap?
@@ -198,7 +198,7 @@ These 8 CWEs represent the most important weaknesses for AI security:
 
 ## Highly Relevant CWEs (Score 3)
 
-These 48 CWEs have significant AI relevance and should be prioritized in AI security assessments:
+These 49 CWEs have significant AI relevance and should be prioritized in AI security assessments:
 
 ### Path Traversal Family (20 CWEs)
 CWE-22 and its variants (CWE-23 through CWE-40) score V1=2-3, V2=3. AI agents with file system access can be tricked into reading/writing sensitive paths. Both infrastructure concern (V1) and direct attack vector (V2).
@@ -216,6 +216,7 @@ CWE-22 and its variants (CWE-23 through CWE-40) score V1=2-3, V2=3. AI agents wi
 ### Other High-Priority CWEs
 | CWE | Name | Relevance |
 |-----|------|-----------|
+| CWE-1336 | Template Engine Injection | Model files contain executable templates (CVE-2024-34359) |
 | CWE-200 | Information Exposure | AI may leak sensitive training data or system information |
 | CWE-862 | Missing Authorization | AI systems must enforce authorization on AI-initiated actions |
 | CWE-434 | Unrestricted File Upload | AI accepting/generating file uploads without validation |
@@ -237,7 +238,7 @@ These 140+ CWEs have indirect AI relevance, typically as infrastructure concerns
 
 ## CWEs Safe to Deprioritize for AI Security (Score 0-1)
 
-**746 CWEs** (79% of total) have minimal AI relevance. Here's why:
+**745 CWEs** (79% of total) have minimal AI relevance. Here's why:
 
 ### Memory Safety Issues (43 CWEs)
 Buffer overflows, use-after-free, etc. require compiled code. AI-generated memory bugs need compilation and deployment before exploitation—the AI output is not immediately dangerous.
@@ -328,7 +329,7 @@ Direct attacks score higher because exploitation is immediate.
 
 ### 4. MITRE's AI Tagging is Incomplete but Accurate
 
-MITRE has tagged 17 CWEs as AI/ML relevant. All 17 received non-zero scores in our analysis, confirming their relevance. However, our analysis identified 198 CWEs with meaningful AI relevance—suggesting MITRE's tagging captures only the most obvious cases.
+MITRE has tagged 17 CWEs as AI/ML relevant. All 17 received non-zero scores in our analysis, confirming their relevance. However, our analysis identified 199 CWEs with meaningful AI relevance—suggesting MITRE's tagging captures only the most obvious cases.
 
 ### 5. AI Agents Change the Game
 
@@ -369,10 +370,10 @@ CWE-1426 (Improper Validation of Generative AI Output) is the defensive linchpin
 **View 1 (Attacks ON AI):**
 | Score | Count | Percentage |
 |-------|-------|------------|
-| 0 | 762 | 80.7% |
+| 0 | 761 | 80.6% |
 | 1 | 4 | 0.4% |
 | 2 | 171 | 18.1% |
-| 3 | 3 | 0.3% |
+| 3 | 4 | 0.4% |
 | 4 | 4 | 0.4% |
 
 **View 2 (Attacks VIA AI):**
@@ -388,12 +389,12 @@ CWE-1426 (Improper Validation of Generative AI Output) is the defensive linchpin
 
 | Category | Count |
 |----------|-------|
-| Not Applicable | 746 |
+| Not Applicable | 745 |
 | Infrastructure | 119 |
-| Output Validation | 47 |
+| Output Validation | 49 |
 | Agent/Autonomous Systems | 25 |
-| General | 3 |
-| Supply Chain | 1 |
+| Supply Chain | 2 |
+| General | 1 |
 | Model Security | 1 |
 | Prompt Injection | 1 |
 | Inference Security | 1 |
