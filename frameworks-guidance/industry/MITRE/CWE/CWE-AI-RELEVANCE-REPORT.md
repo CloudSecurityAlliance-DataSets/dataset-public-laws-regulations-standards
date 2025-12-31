@@ -400,11 +400,57 @@ CWE-1426 (Improper Validation of Generative AI Output) is the defensive linchpin
 
 ---
 
+## Addendum: Lessons from MITRE's Tagging
+
+After completing our initial analysis, we revisited CWE-116 and CWE-1336—two MITRE-tagged CWEs we had flagged as "generic, less AI-specific." Deeper research revealed we were wrong, and MITRE's insight was more sophisticated than we initially recognized.
+
+### The Key Discovery: CVE-2024-34359 ("Llama Drama")
+
+A critical vulnerability (CVSS 9.7) in [llama-cpp-python](https://github.com/abetlen/llama-cpp-python/security/advisories/GHSA-56xg-wfcc-g829) demonstrated why CWE-1336 (Template Engine Injection) matters for AI:
+
+- LLM model files (.gguf) contain chat templates in their metadata
+- These templates are processed by Jinja2 when loading the model
+- Without sandboxing, malicious templates execute arbitrary code
+- **6,000+ models on HuggingFace** were potentially weaponizable
+
+This is a **supply chain attack on AI infrastructure**—download a model, get owned.
+
+### What This Teaches Us
+
+| Lesson | Implication |
+|--------|-------------|
+| **CVE evidence reveals AI relevance** | Rule-based classification misses real-world attack patterns |
+| **Template engines are AI attack surface** | Model metadata, chat templates, and prompt templates need sandboxing |
+| **MITRE tags defensive CWEs too** | CWE-116 (output encoding) is the *mitigation* for View 2 attacks |
+| **Supply chain extends beyond pickle** | CWE-502 (deserialization) isn't the only model loading risk |
+
+### Recommendations Based on This Analysis
+
+1. **Audit template engine usage** in AI pipelines—especially when processing external model files
+2. **Sandbox all template processing** that handles model metadata or chat templates
+3. **Don't dismiss "generic" CWEs**—their AI relevance may be through non-obvious attack chains
+4. **Track CVEs in AI libraries**—they reveal attack patterns faster than theoretical analysis
+
+### Limitations of This Report
+
+This analysis used rule-based classification, which has inherent blind spots:
+
+- **Novel attack patterns** require CVE evidence we may not have seen
+- **Defensive CWEs** (mitigations rather than attacks) may be underscored
+- **Supply chain complexity** means attack chains span multiple CWEs
+- **Rapidly evolving field**—new AI attack surfaces emerge faster than CWE entries
+
+We recommend treating this report as a starting point, not a complete mapping. Security teams should supplement with CVE monitoring, threat intelligence, and hands-on AI security testing.
+
+---
+
 ## References
 
 - [CWE Official Site](https://cwe.mitre.org/)
 - [MITRE ATLAS](https://atlas.mitre.org/) - Adversarial Threat Landscape for AI Systems
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [OWASP LLM02: Insecure Output Handling](https://genai.owasp.org/llmrisk2023-24/llm02-insecure-output-handling/)
+- [CVE-2024-34359: Llama Drama](https://checkmarx.com/blog/llama-drama-critical-vulnerability-cve-2024-34359-threatening-your-software-supply-chain/) - Template injection in llama-cpp-python
 - [CWE-AI-METHODOLOGY.md](CWE-AI-METHODOLOGY.md) - Full methodology documentation
 - [AI-ATTACK-SURFACE-MODEL.md](AI-ATTACK-SURFACE-MODEL.md) - Detailed attack surface analysis
 
