@@ -1,0 +1,44 @@
+# CWE AI Analysis - Development Dependencies
+# ============================================
+# Install with: pip install -r requirements.txt -r requirements-dev.txt
+# Or: pip install -e ".[dev]"
+
+# Testing
+# -------
+
+# pytest: Testing framework
+# Why: Industry standard, good assertion introspection, fixture support.
+pytest>=7.0.0
+
+# pytest-cov: Coverage reporting
+# Why: Ensures we have adequate test coverage, identifies untested code paths.
+pytest-cov>=4.0.0
+
+
+# Code Quality
+# ------------
+
+# black: Code formatter
+# Why: Opinionated formatting eliminates style debates, ensures consistent code.
+black>=23.0.0
+
+# isort: Import sorting
+# Why: Consistent import organization, integrates with black.
+isort>=5.12.0
+
+# mypy: Static type checker
+# Why: Catches type errors before runtime, validates our type hints are correct.
+mypy>=1.0.0
+
+# ruff: Fast linter
+# Why: Extremely fast, replaces multiple linters (flake8, pylint, etc.),
+# good defaults for modern Python.
+ruff>=0.1.0
+
+
+# Type Stubs
+# ----------
+# These provide type information for libraries that don't include their own.
+
+pandas-stubs>=2.0.0
+types-tqdm>=4.65.0
