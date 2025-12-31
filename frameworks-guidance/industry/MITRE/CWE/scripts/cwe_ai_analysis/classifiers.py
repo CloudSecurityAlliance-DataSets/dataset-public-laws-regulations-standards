@@ -218,6 +218,65 @@ KNOWN_CLASSIFICATIONS: dict[int, dict] = {
         ),
     },
 
+    # Supply Chain - Model Metadata Attacks (CVE-based validation)
+    # These classifications are informed by real-world CVEs affecting AI systems
+    1336: {
+        "view1_score": ViewScore.HIGHLY_APPLICABLE,
+        "view1_reasoning": (
+            "Model files contain executable metadata (e.g., Jinja2 chat templates in GGUF). "
+            "CVE-2024-34359 demonstrated critical RCE via template injection in llama-cpp-python, "
+            "affecting ~6,000 HuggingFace models. Model metadata is an attack surface."
+        ),
+        "view2_score": ViewScore.NOT_APPLICABLE,
+        "view2_reasoning": (
+            "Template injection is an attack ON AI model loading infrastructure, "
+            "not something AI would produce."
+        ),
+        "ai_category": AICategory.SUPPLY_CHAIN,
+        "ai_impact": (
+            "Remote code execution when loading malicious model files from untrusted "
+            "sources (HuggingFace, model registries). CVSS 9.8 in CVE-2024-34359."
+        ),
+    },
+
+    # Defensive CWEs - These represent mitigations, not attacks
+    # MITRE tags them as AI-relevant because they're the defense against AI-specific attacks
+    116: {
+        "view1_score": ViewScore.MODERATELY_APPLICABLE,
+        "view1_reasoning": (
+            "Defensive CWE - proper output encoding mitigates View 2 attacks where AI "
+            "generates injection payloads. MITRE AI-tagged. Foundation of OWASP LLM02 "
+            "(Insecure Output Handling)."
+        ),
+        "view2_score": ViewScore.NOT_APPLICABLE,
+        "view2_reasoning": (
+            "This is a defense against AI-generated attacks, not an attack AI produces. "
+            "Proper encoding PREVENTS View 2 attacks."
+        ),
+        "ai_category": AICategory.OUTPUT_VALIDATION,
+        "ai_impact": (
+            "When absent: AI-generated injection attacks succeed. "
+            "When present: Mitigates XSS, command injection, etc. in AI outputs."
+        ),
+    },
+    838: {
+        "view1_score": ViewScore.MODERATELY_APPLICABLE,
+        "view1_reasoning": (
+            "Defensive CWE - context-appropriate output encoding. Related to CWE-116 "
+            "but more specific about encoding for output context."
+        ),
+        "view2_score": ViewScore.NOT_APPLICABLE,
+        "view2_reasoning": (
+            "This is a defense mechanism, not an attack. Proper encoding prevents "
+            "AI-generated payloads from being interpreted as code."
+        ),
+        "ai_category": AICategory.OUTPUT_VALIDATION,
+        "ai_impact": (
+            "Prevents AI-generated content from being misinterpreted in different "
+            "output contexts (HTML, SQL, shell, etc.)."
+        ),
+    },
+
     # High View 1 - Attacks ON AI Infrastructure
     502: {
         "view1_score": ViewScore.PRIMARY_EXAMPLE,
@@ -610,6 +669,27 @@ def _classify_by_rules(entry: CWEEntry) -> CWEClassification:
         )
         ai_category = AICategory.SUPPLY_CHAIN
         ai_impact = "Code execution via malicious model files."
+
+    # Rule: Template engine injection (high View 1 for AI supply chain)
+    # CVE-2024-34359 demonstrated model files contain executable templates
+    template_patterns = [
+        r"template.*injection",
+        r"template.*engine",
+        r"server.side.*template",
+        r"ssti\b",
+        r"jinja",
+        r"handlebars",
+        r"mustache",
+    ]
+    if any(re.search(p, text) for p in template_patterns):
+        view1_score = max(view1_score, ViewScore.HIGHLY_APPLICABLE)
+        view1_reasoning = (
+            "Template engines are an AI supply chain risk. Model files (GGUF, etc.) "
+            "may contain templates that execute during loading. CVE-2024-34359 "
+            "demonstrated RCE via Jinja2 templates in model metadata."
+        )
+        ai_category = AICategory.SUPPLY_CHAIN
+        ai_impact = "Code execution via templates in model files or AI infrastructure."
 
     # Rule: Authentication/Authorization (moderate both views)
     auth_patterns = [

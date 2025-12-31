@@ -1,13 +1,13 @@
 # CWE AI Relevance Analysis Report
 
-*Generated: 2025-12-30 19:18:48*
+*Generated: 2025-12-30 20:04:49*
 
 ## Summary
 
 - **Total CWEs Analyzed**: 944
 - **MITRE AI/ML Tagged**: 17
-- **AI Relevant (score >= 2)**: 198
-- **Highly AI Relevant (score >= 3)**: 56
+- **AI Relevant (score >= 2)**: 199
+- **Highly AI Relevant (score >= 3)**: 57
 
 ## Score Distribution
 
@@ -15,10 +15,10 @@
 
 | Score | Count | Percentage |
 |-------|-------|------------|
-| 0 | 762 | 80.7% |
+| 0 | 761 | 80.6% |
 | 1 | 4 | 0.4% |
 | 2 | 171 | 18.1% |
-| 3 | 3 | 0.3% |
+| 3 | 4 | 0.4% |
 | 4 | 4 | 0.4% |
 
 ### View 2: Attacks VIA AI
@@ -35,15 +35,15 @@
 
 | Category | Count |
 |----------|-------|
-| Not Applicable | 746 |
+| Not Applicable | 745 |
 | Infrastructure | 119 |
-| Output Validation | 47 |
+| Output Validation | 49 |
 | Agent/Autonomous Systems | 25 |
-| General | 3 |
-| Supply Chain | 1 |
+| Supply Chain | 2 |
 | Model Security | 1 |
 | Prompt Injection | 1 |
 | Inference Security | 1 |
+| General | 1 |
 
 ## Top 10 CWEs: Attacks ON AI (View 1)
 
@@ -56,6 +56,7 @@
 | CWE-22 | Improper Limitation of a Pathname to a R | 3 | Path traversal can access model files, training data, configuration. Tagged by MITRE as AI/ML applic... |
 | CWE-200 | Exposure of Sensitive Information to an  | 3 | Information exposure can leak model architecture, training data, prompts, or inference details. |
 | CWE-862 | Missing Authorization | 3 | Missing authorization in AI systems can allow unauthorized model access, training data access, or in... |
+| CWE-1336 | Improper Neutralization of Special Eleme | 3 | Model files contain executable metadata (e.g., Jinja2 chat templates in GGUF). CVE-2024-34359 demons... |
 
 ## Top 10 CWEs: Attacks VIA AI (View 2)
 
