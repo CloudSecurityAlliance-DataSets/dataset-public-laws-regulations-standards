@@ -1,8 +1,13 @@
 # CWE AI Relevance Analysis Report
 
-**Analysis Date:** December 2024
+**Analysis Date:** December 2025
 **Total CWEs Analyzed:** 944
 **Methodology:** Two-View Model for AI Security Classification
+
+## File location
+
+* ~/GitHub/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/frameworks-guidance/industry/MITRE/CWE/CWE-AI-RELEVANCE-REPORT.md
+* https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/frameworks-guidance/industry/MITRE/CWE/CWE-AI-RELEVANCE-REPORT.md
 
 ## Executive Summary
 
