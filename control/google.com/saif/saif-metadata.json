@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/google.com/saif",
+  "name": "Secure AI Framework",
+  "acronym": "SAIF",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "saif",
+  "owner": "Google LLC",
+  "type": "Framework",
+  "description": "Google's Secure AI Framework — conceptual framework for securing AI systems by extending existing security best practices to AI-specific threats. Defines six core elements: expand strong security foundations, automate defenses, harmonize controls, adapt controls, contextualize AI risks, and apply AI to security.",
+  "relationToCloudSecurity": "Cloud-AI security guidance applicable across cloud platforms.",
+  "relationToAISecurity": "Direct AI-security framework; companion to SAIF Risk Map and SAIF Risk Assessment.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Publication",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published framework. Verify specific license terms at the source URL before redistribution."
+  },
+  "links": {
+    "source": "https://safety.google/cybersecurity-advancements/saif",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

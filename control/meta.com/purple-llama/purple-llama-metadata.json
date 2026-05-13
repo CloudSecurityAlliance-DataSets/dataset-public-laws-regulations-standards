@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/meta.com/purple-llama",
+  "name": "Purple Llama Project",
+  "acronym": "Purple Llama",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "purple-llama",
+  "owner": "Meta Platforms",
+  "type": "Framework",
+  "description": "Meta's Purple Llama Project — open-source tools for evaluating and improving LLM safety and security. 'Purple' = Red (offense) + Blue (defense). Components include Llama Guard, CyberSecEval, and Code Shield.",
+  "relationToCloudSecurity": "Open-source LLM-safety toolkit.",
+  "relationToAISecurity": "Direct AI-safety toolkit. Llama Guard is a content-moderation classifier; CyberSecEval is a benchmark.",
+  "license": {
+    "spdx": "MIT",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://opensource.org/licenses/MIT",
+    "notes": "MIT-licensed open-source benchmark/tool."
+  },
+  "links": {
+    "source": "https://github.com/meta-llama/PurpleLlama",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

@@ -1,0 +1,53 @@
+{
+  "secid": "secid:control/openai.com/model-spec",
+  "name": "OpenAI Model Spec",
+  "acronym": "Model Spec",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "model-spec",
+  "owner": "OpenAI",
+  "type": "Framework",
+  "description": "OpenAI's Model Spec — defines how OpenAI models should behave across different situations. Specifies objectives, rules, and default behaviors at multiple levels (platform, developer, user). First published 2024-05-08.",
+  "relationToCloudSecurity": "Vendor-specific to OpenAI's hosted models.",
+  "relationToAISecurity": "Direct AI-safety / model-behavior governance document. Sets the policy layer above the model.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Publication",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published framework. Verify specific license terms at the source URL before redistribution."
+  },
+  "links": {
+    "source": "https://openai.com/index/the-model-spec",
+    "csaLocation": "",
+    "spec_text": "https://cdn.openai.com/spec/model-spec-2024-05-08.html"
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}
