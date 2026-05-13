@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/nist.gov/privacy-framework",
+  "name": "NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management",
+  "acronym": "NIST Privacy Framework",
+  "alternate_names": [
+    "Privacy Framework",
+    "PF"
+  ],
+  "version": "",
+  "publication_id": "NIST.PRIVACY-FRAMEWORK",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST Privacy Framework v1.0 (2020) — voluntary framework parallel to NIST CSF, focused on privacy risk management. Currently being revised to align with CSF 2.0.",
+  "relationToCloudSecurity": "General cybersecurity guidance applicable to cloud-environment design and operations.",
+  "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://www.nist.gov/privacy-framework",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "v1.0 published 2020-01-16. v1.1 in development to align with CSF 2.0."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}

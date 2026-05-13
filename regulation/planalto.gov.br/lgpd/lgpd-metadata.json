@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/planalto.gov.br/lgpd",
+  "name": "Lei Geral de Proteção de Dados",
+  "acronym": "LGPD",
+  "alternate_names": [
+    "Law 13.709/2018",
+    "Brazilian GDPR"
+  ],
+  "version": "",
+  "publication_id": "lgpd",
+  "owner": "Government of Brazil",
+  "type": "Regulation",
+  "description": "Brazil's Lei Geral de Proteção de Dados (Law 13.709/2018) — Brazilian general data protection law modeled on GDPR. Enforced by the National Data Protection Authority (ANPD).",
+  "relationToCloudSecurity": "Cloud providers processing personal data of Brazilian residents must comply.",
+  "relationToAISecurity": "AI systems processing Brazilian personal data subject to LGPD.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Government publication. Verify per-jurisdiction reuse terms."
+  },
+  "links": {
+    "source": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Effective 2020-09-18."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract."
+}
