@@ -74,6 +74,76 @@ These data-repo entries need corresponding namespace entries in [SecID](https://
 - [ ] `enx.com` — for ENX ISA v6 (TISAX)
 - [ ] `aiuc.com` — for AIUC-1 (need to verify the actual publisher's domain first)
 
+## Source PDF acquisition (2026-05-13 sweep)
+
+84 source PDFs auto-downloaded from canonical publishers and placed in their stub directories (gitignored). Marker extraction is the next step — feed each through `pdf_to_md_via_gpu.sh` to produce markdown/JSON.
+
+**Acquired (84):**
+- NIST: 800-12, 39, 40, 46, 52, 53a, 57 (pt1/2/3), 66, 77, 82, 83, 84, 86, 92, 94, 100, 111, 115, 122, 124, 125, 126, 128, 131a, 145, 146, 150, 153, 160-v1, 160-v2, 167, 171, 172, 177, 181, 184, 188, 190, 201, 204, 207, 209, 210, 213, 213a, 216, 218, 219, 221, 223, 224, 227 (53 SP), FIPS 180/186/197/198/201/202/203/204/205 (9), AI 100-4, Privacy Framework, IR 7621/8062/8228/8259/8276/8286/8374/8425/8454 (9), CSWP 30/32/33 (3) = 76
+- CPE (NIST IR 7695 spec)
+- HIPAA, GLBA, FISMA, CFAA (US federal laws via govinfo.gov PLAW + USCODE)
+- Colorado AI Act (CO leg)
+- OpenAI Preparedness Framework
+
+**Still need acquisition (skipped — vendor landing pages, no direct PDF link in metadata):**
+
+Vendor cloud frameworks (HTML-only published — would need manual download or marker on HTML):
+- [ ] AWS: Well-Architected, Security Best Practices, Security Hub Standards
+- [ ] Microsoft: Azure Security Benchmark (MCSB), Secure Score
+- [ ] Google: SAIF, Frontier Safety, Cloud Architecture Framework, Cloud Security Best Practices
+- [ ] OpenAI: Model Spec, Red Teaming Network, System Cards (Preparedness already acquired)
+- [ ] Meta: Purple Llama, CyberSecEval
+- [ ] IBM: AI Controls Framework
+- [ ] Equifax: Controls Framework
+
+AI safety benchmarks (mostly GitHub READMEs):
+- [ ] HarmBench, WMDP, JailbreakBench, TrustLLM, DecodingTrust, RealToxicityPrompts, ARC Evals, METR Task Standard / Evaluations, MLCommons (AI Safety / Croissant / MLPerf), Concordia Frontier AI RMF
+
+National AI frameworks:
+- [ ] Singapore: AI Verify, Model AI Governance Framework
+- [ ] China: TC260 AI Safety Governance Framework
+
+Industry frameworks (members/paid):
+- [ ] COBIT (ISACA — login required)
+- [ ] ITIL (AXELOS — paid)
+- [ ] SWIFT CSP (SWIFT customer login)
+- [ ] PCI: PCI PIN, PA-DSS (retired), Secure Software Standard (PCI SSC click-through)
+
+National privacy laws (varied: many use HTML legislation portals):
+- [ ] Brazil LGPD (planalto.gov.br — HTML)
+- [ ] Japan APPI (ppc.go.jp — HTML)
+- [ ] India DPDP (meity.gov.in — HTML)
+- [ ] Singapore PDPA (pdpc.gov.sg — HTML)
+- [ ] Korea PIPA (pipc.go.kr — HTML)
+- [ ] Canada PIPEDA (laws-lois.justice.gc.ca — needs direct URL)
+- [ ] Australia Privacy Act 1988 (oaic.gov.au — HTML, federalregister text)
+- [ ] UK GDPR, DPA 2018, NIS Regs (legislation.gov.uk — HTML)
+- [ ] California CalOPPA (leginfo — HTML)
+- [ ] NY: NYDFS 500, SHIELD Act, NYBCL (varied sources)
+
+EU regulations (WAF-blocked from automated curl — EUR-Lex anti-bot):
+- [ ] NIS2, DSA, DMA, Data Act, CRA, ePrivacy — all returned EUR-Lex CloudFront WAF challenge. May work from a browser; use a session cookie or manual download.
+
+CISA programs (JSON feeds rather than PDFs):
+- [ ] KEV (JSON feed at cisa.gov/known-exploited-vulnerabilities.json)
+- [ ] CPGs, SCuBA (HTML / mixed)
+
+Reference docs (HTML-only or registered):
+- [ ] CIS OVAL (HTML site)
+- [ ] OASIS STIX/TAXII (HTML specs)
+- [ ] MITRE ATT&CK, ATLAS, CAPEC, MAEC (HTML / STIX JSON, not PDF)
+
+NIST stragglers:
+- [ ] 800-222 (Web App Pen Testing — IPD; URL pattern may have moved)
+
+BSI:
+- [ ] IT-Grundschutz (BSI portal, requires navigation)
+
+Next steps:
+- Feed the 84 acquired PDFs through `pdf_to_md_via_gpu.sh` for marker extraction
+- For HTML-only docs, can use `convert-HTML-to-Markdown.py` after fetching pages with a real browser (Playwright)
+- For EUR-Lex WAF-blocked items, manual download via browser is fastest
+
 ## Content gaps (publicly-redistributable docs in SecID registry but not in repo)
 
 Gap analysis 2026-05: SecID registry lists these publicly-available standards/regulations that aren't here yet. Excludes ISO/IEEE/ISF-SOGP/HITRUST (licensed; private repo or stubs only).
