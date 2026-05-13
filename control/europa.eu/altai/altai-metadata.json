@@ -1,0 +1,53 @@
+{
+  "secid": "secid:control/europa.eu/altai",
+  "name": "Assessment List for Trustworthy AI",
+  "acronym": "ALTAI",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "altai",
+  "owner": "European Commission High-Level Expert Group on AI",
+  "type": "Framework",
+  "description": "Practical self-assessment tool for operationalizing the EU's Ethics Guidelines for Trustworthy AI. Organized around seven key requirements: human agency and oversight; technical robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental wellbeing; accountability.",
+  "relationToCloudSecurity": "EU-AI-specific self-assessment.",
+  "relationToAISecurity": "Direct AI ethics self-assessment companion to the Ethics Guidelines.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://commission.europa.eu/legal-notice_en",
+    "notes": "EU-published guidance. Reuse permitted under European Commission legal notice; attribution expected."
+  },
+  "links": {
+    "source": "https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment",
+    "csaLocation": "",
+    "online_tool": "https://altai.insight-centre.org"
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

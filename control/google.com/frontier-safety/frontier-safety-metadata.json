@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/google.com/frontier-safety",
+  "name": "Frontier Safety Framework",
+  "acronym": "FSF",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "frontier-safety",
+  "owner": "Google DeepMind",
+  "type": "Framework",
+  "description": "Google DeepMind's Frontier Safety Framework — defines Critical Capability Levels (CCLs) and safety protocols for advanced AI systems. Companion to similar frameworks from OpenAI (Preparedness) and Anthropic (Responsible Scaling Policy).",
+  "relationToCloudSecurity": "Frontier-AI-specific; not cloud-platform-general.",
+  "relationToAISecurity": "Direct AI-safety governance framework. Defines capability thresholds at which additional safety measures are required.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Publication",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published framework. Verify specific license terms at the source URL before redistribution."
+  },
+  "links": {
+    "source": "https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

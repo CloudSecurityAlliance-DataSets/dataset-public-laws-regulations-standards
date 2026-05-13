@@ -103,48 +103,48 @@ Gap analysis 2026-05: SecID registry lists these publicly-available standards/re
 - [ ] **Washington My Health My Data Act** (`wa.gov`)
 - [ ] **Florida biometric privacy provisions** (`florida.gov`)
 
-### Vendor cloud / AI control frameworks (standards, freely available)
+### ~~Vendor cloud / AI control frameworks~~ (stubs done — content TODO)
 
-**AWS** (`control/amazon.com` — no dir):
-- [ ] AWS Well-Architected Framework
-- [ ] AWS Security Best Practices
-- [ ] AWS Security Hub Standards
+All stubs created with full metadata + READMEs. Source content acquisition + structured extraction is the next step per doc.
 
-**Microsoft** (`control/microsoft.com` — no dir):
-- [ ] Microsoft Cloud Security Benchmark (MCSB)
-- [ ] Microsoft Secure Score
+**AWS** (`control/amazon.com`):
+- [x] AWS Well-Architected Framework, Security Best Practices, Security Hub Standards (3 stubs)
 
-**Google** (`control/google.com` — no dir):
-- [ ] Google Secure AI Framework (SAIF)
-- [ ] Google Frontier Safety Framework
-- [ ] Google Cloud Architecture Framework
-- [ ] Google Cloud Security Best Practices
+**Microsoft** (`control/microsoft.com`):
+- [x] Microsoft Cloud Security Benchmark (MCSB), Secure Score (2 stubs)
 
-**OpenAI / Meta / IBM** (control-type, no dirs):
-- [ ] OpenAI Model Spec, Preparedness Framework, Red Teaming Network, System Cards
-- [ ] Meta Purple Llama Project, CyberSecEval Benchmark
-- [ ] IBM Generative AI Controls Framework
+**Google** (`control/google.com`):
+- [x] SAIF, Frontier Safety Framework, Cloud Architecture Framework, Cloud Security Best Practices (4 stubs)
 
-### National government AI frameworks (gov-published)
+**OpenAI / Meta / IBM / Equifax**:
+- [x] OpenAI Model Spec, Preparedness, Red Teaming Network, System Cards (4 stubs)
+- [x] Meta Purple Llama, CyberSecEval (2 stubs)
+- [x] IBM Generative AI Controls Framework (1 stub)
+- [x] Equifax Controls Framework (1 stub)
 
-- [ ] Singapore: AI Verify, Model AI Governance Framework (`control/imda.gov.sg`)
-- [ ] China: AI Safety Governance Framework (`control/tc260.org.cn`)
-- [ ] EU control-type entries: ALTAI, Ethics Guidelines for Trustworthy AI
+### ~~National government AI frameworks~~ (stubs done — content TODO)
 
-### AI safety benchmarks (academic/open-source)
+- [x] Singapore: AI Verify, Model AI Governance Framework (`control/imda.gov.sg`) — 2 stubs
+- [x] China: AI Safety Governance Framework (`control/tc260.org.cn`) — 1 stub
+- [x] EU control-type: ALTAI, Ethics Guidelines for Trustworthy AI (`control/europa.eu`) — 2 stubs
 
-Lower priority for a "laws/regs/standards" repo but registered:
-- [ ] safe.ai: HarmBench, WMDP
+### ~~AI safety benchmarks~~ (most stubs done — content TODO)
+
+Stubs created for non-path-namespace registry entries:
+- [x] safe.ai: HarmBench, WMDP (2 stubs)
+- [x] allenai.org: DecodingTrust, RealToxicityPrompts (2 stubs)
+- [x] alignment.org: ARC Evals (1 stub)
+- [x] trustllmbenchmark.github.io: TrustLLM (1 stub)
+- [x] jailbreakbench.github.io: JailbreakBench (1 stub)
+- [x] metr.org: METR Task Standard, METR frontier model evaluations (2 stubs)
+- [x] mlcommons.org: MLCommons AI Safety, Croissant, MLPerf (3 stubs)
+- [x] concordia-ai.com: Frontier AI Risk Management Framework (1 stub)
+
+**Deferred** — `github.com/<subnamespace>` registry entries use path-namespaces that the current `audit_secid_alignment.py` doesn't handle (it derives leaf-only namespace files, not nested sub-paths). Need to extend the audit script before adding these:
 - [ ] github.com/llm-attacks: AdvBench
 - [ ] github.com/nyu-mll: BBQ, WinoBias, StereoSet, CrowS-Pairs
 - [ ] github.com/thu-coai: SafetyBench
-- [ ] allenai.org: DecodingTrust, RealToxicityPrompts
-- [ ] alignment.org: ARC Evals
-- [ ] trustllmbenchmark.github.io: TrustLLM
-- [ ] jailbreakbench.github.io: JailbreakBench
-- [ ] metr.org: METR Task Standard, METR frontier model evaluations
-- [ ] mlcommons.org: MLCommons AI Safety, Croissant, MLPerf
-- [ ] concordia-ai.com: Frontier AI Risk Management Framework
+- [ ] **Tooling:** extend `audit_secid_alignment.py` to walk into sub-namespace directories (registry/control/com/github/*.json) for path-namespace lookups
 
 ### Filing reconciliations
 

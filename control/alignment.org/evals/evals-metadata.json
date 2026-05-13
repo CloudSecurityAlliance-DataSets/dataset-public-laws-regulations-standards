@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/alignment.org/evals",
+  "name": "ARC Evals",
+  "acronym": "ARC Evals",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "evals",
+  "owner": "Alignment Research Center (ARC)",
+  "type": "Benchmark",
+  "description": "Dangerous capability evaluations for frontier AI models — autonomous replication, deceptive alignment, and self-improvement capabilities. METR (formerly ARC Evals) now operates the program.",
+  "relationToCloudSecurity": "Pre-deployment safety evaluation for frontier models.",
+  "relationToAISecurity": "Direct AI-safety dangerous-capability evaluation program.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Publication",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published framework. Verify specific license terms at the source URL before redistribution."
+  },
+  "links": {
+    "source": "https://evals.alignment.org",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "ARC Evals spun out as METR in 2023; new work is at metr.org."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/imda.gov.sg/model-governance",
+  "name": "Singapore Model AI Governance Framework",
+  "acronym": "Model AI Gov",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "model-governance",
+  "owner": "Infocomm Media Development Authority (IMDA), Singapore",
+  "type": "Framework",
+  "description": "Singapore's Model AI Governance Framework — voluntary AI governance framework published by IMDA and PDPC. Second edition (2020) and Generative AI Model AI Governance Framework (2024) cover the domain.",
+  "relationToCloudSecurity": "Singapore-specific guidance; AI deployed in any environment including cloud.",
+  "relationToAISecurity": "Direct AI governance framework, internationally referenced.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Publication",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Singapore government publication. Reuse generally permitted; verify at IMDA / AI Verify Foundation source."
+  },
+  "links": {
+    "source": "https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

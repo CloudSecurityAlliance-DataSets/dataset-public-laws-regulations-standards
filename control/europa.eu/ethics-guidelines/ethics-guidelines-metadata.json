@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/europa.eu/ethics-guidelines",
+  "name": "Ethics Guidelines for Trustworthy AI",
+  "acronym": "EU Ethics Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ethics-guidelines",
+  "owner": "European Commission High-Level Expert Group on AI",
+  "type": "Framework",
+  "description": "Ethics Guidelines for Trustworthy AI — defines what makes AI systems trustworthy: lawful (complying with laws), ethical (respecting ethical principles), and robust (technically and socially robust). Predates and informed the EU AI Act.",
+  "relationToCloudSecurity": "EU-AI-specific.",
+  "relationToAISecurity": "Foundational AI-ethics framework from the EU; companion to ALTAI for operationalization.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://commission.europa.eu/legal-notice_en",
+    "notes": "EU-published guidance. Reuse permitted under European Commission legal notice; attribution expected."
+  },
+  "links": {
+    "source": "https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

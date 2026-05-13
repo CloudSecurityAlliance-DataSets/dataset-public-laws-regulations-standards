@@ -1,0 +1,53 @@
+{
+  "secid": "secid:control/safe.ai/harmbench",
+  "name": "HarmBench",
+  "acronym": "HarmBench",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "harmbench",
+  "owner": "Center for AI Safety (safe.ai)",
+  "type": "Benchmark",
+  "description": "Standardized benchmark for automated red teaming of LLMs. Evaluates jailbreak resistance across multiple attack methods and harmful behavior categories.",
+  "relationToCloudSecurity": "Pre-deployment evaluation for cloud-hosted LLM services.",
+  "relationToAISecurity": "Direct AI-safety benchmark for adversarial robustness.",
+  "license": {
+    "spdx": "MIT",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://opensource.org/licenses/MIT",
+    "notes": "MIT-licensed open-source benchmark/tool."
+  },
+  "links": {
+    "source": "https://www.harmbench.org",
+    "csaLocation": "",
+    "github": "https://github.com/centerforaisafety/HarmBench"
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+}

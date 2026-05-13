@@ -16,19 +16,19 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 201
+**Total documents indexed:** 236
 
 | State | Count |
 |---|---|
 | structured | 47 |
 | extracted | 70 |
-| metadata-only | 74 |
+| metadata-only | 109 |
 | readme-only | 4 |
 | empty | 6 |
 
 | Type | Count |
 |---|---|
-| control | 118 |
+| control | 153 |
 | regulation | 47 |
 | weakness | 2 |
 | ttp | 5 |
@@ -41,6 +41,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 |---|---|---|---|---|
 | `control/aicpa.org/tsc/2017/` | structured | 11 (+2 imgs) | `MXJCSPI` | `secid:control/aicpa.org/tsc@2017` |
 | `control/aiuc.com/aiuc-1/` | structured | 5 | `M··CSP·` | `secid:control/aiuc.com/aiuc-1` |
+| `control/alignment.org/evals/` | metadata-only | 2 | `M······` | `secid:control/alignment.org/evals` |
+| `control/allenai.org/decodingtrust/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/decodingtrust` |
+| `control/allenai.org/realtoxicityprompts/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/realtoxicityprompts` |
+| `control/amazon.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-best-practices` |
+| `control/amazon.com/security-hub-standards/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-hub-standards` |
+| `control/amazon.com/well-architected/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/well-architected` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/0.9.0/` | structured | 21 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.9.0` |
@@ -51,7 +57,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.0.3/` | structured | 2 | `M··C···` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.0.3` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
+| `control/concordia-ai.com/frontier-ai-rmf/` | metadata-only | 2 | `M······` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
 | `control/enx.com/isa/6/` | structured | 5 | `M··CSP·` | `secid:control/enx.com/isa@6` |
+| `control/equifax.com/controls-framework/` | metadata-only | 2 | `M······` | `secid:control/equifax.com/controls-framework` |
+| `control/europa.eu/altai/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/altai` |
+| `control/europa.eu/ethics-guidelines/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/ethics-guidelines` |
 | `control/fedramp.gov/3pao-obligations-and-performance-standards/` | extracted | 21 (+18 imgs) | `MX····I` | `secid:control/fedramp.gov/3pao-obligations-and-performance-standards` |
 | `control/fedramp.gov/3pao-readiness-assessment-report-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:control/fedramp.gov/3pao-readiness-assessment-report-guide` |
 | `control/fedramp.gov/agency-authorization-playbook/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:control/fedramp.gov/agency-authorization-playbook` |
@@ -108,7 +118,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/fedramp.gov/ssp-appendix-q-cryptographic-modules-table/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-q-cryptographic-modules-table` |
 | `control/fedramp.gov/threat-based-risk-profiling-methodology/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:control/fedramp.gov/threat-based-risk-profiling-methodology` |
 | `control/fedramp.gov/vulnerability-scanning-requirements-for-containers/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/fedramp.gov/vulnerability-scanning-requirements-for-containers` |
+| `control/google.com/cloud-architecture-framework/` | metadata-only | 2 | `M······` | `secid:control/google.com/cloud-architecture-framework` |
+| `control/google.com/frontier-safety/` | metadata-only | 2 | `M······` | `secid:control/google.com/frontier-safety` |
+| `control/google.com/saif/` | metadata-only | 2 | `M······` | `secid:control/google.com/saif` |
+| `control/google.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/google.com/security-best-practices` |
 | `control/hitrustalliance.net/csf/v11.3.0/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
+| `control/ibm.com/ai-controls-framework/` | metadata-only | 2 | `M······` | `secid:control/ibm.com/ai-controls-framework` |
 | `control/ieee.org/12207/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/12207` |
 | `control/ieee.org/1471/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/1471` |
 | `control/ieee.org/15288/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/15288` |
@@ -131,6 +146,18 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/ieee.org/802.11/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/802.11` |
 | `control/ieee.org/802.1x/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/802.1x` |
 | `control/ieee.org/tr-24027/` | metadata-only | 2 | `M······` | `secid:control/ieee.org/tr-24027` |
+| `control/imda.gov.sg/ai-verify/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/ai-verify` |
+| `control/imda.gov.sg/model-governance/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/model-governance` |
+| `control/jailbreakbench.github.io/benchmark/` | metadata-only | 2 | `M······` | `secid:control/jailbreakbench.github.io/benchmark` |
+| `control/meta.com/cyberseceval/` | metadata-only | 2 | `M······` | `secid:control/meta.com/cyberseceval` |
+| `control/meta.com/purple-llama/` | metadata-only | 2 | `M······` | `secid:control/meta.com/purple-llama` |
+| `control/metr.org/evaluations/` | metadata-only | 2 | `M······` | `secid:control/metr.org/evaluations` |
+| `control/metr.org/task-standard/` | metadata-only | 2 | `M······` | `secid:control/metr.org/task-standard` |
+| `control/microsoft.com/azure-security-benchmark/` | metadata-only | 2 | `M······` | `secid:control/microsoft.com/azure-security-benchmark` |
+| `control/microsoft.com/secure-score/` | metadata-only | 2 | `M······` | `secid:control/microsoft.com/secure-score` |
+| `control/mlcommons.org/ai-safety/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/ai-safety` |
+| `control/mlcommons.org/croissant/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/croissant` |
+| `control/mlcommons.org/mlperf/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/mlperf` |
 | `control/nist.gov/1800-13/` | extracted | 172 (+169 imgs) | `MX····I` | `secid:control/nist.gov/1800-13` |
 | `control/nist.gov/1800-26/` | extracted | 748 (+745 imgs) | `MX····I` | `secid:control/nist.gov/1800-26` |
 | `control/nist.gov/800-137/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-137` |
@@ -153,10 +180,18 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-140/3/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@3` |
 | `control/nist.gov/fips-199/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-200` |
+| `control/openai.com/model-spec/` | metadata-only | 2 | `M······` | `secid:control/openai.com/model-spec` |
+| `control/openai.com/preparedness/` | metadata-only | 2 | `M······` | `secid:control/openai.com/preparedness` |
+| `control/openai.com/red-teaming/` | metadata-only | 2 | `M······` | `secid:control/openai.com/red-teaming` |
+| `control/openai.com/system-cards/` | metadata-only | 2 | `M······` | `secid:control/openai.com/system-cards` |
 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0/` | extracted | 342 (+339 imgs) | `MX····I` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
+| `control/safe.ai/harmbench/` | metadata-only | 2 | `M······` | `secid:control/safe.ai/harmbench` |
+| `control/safe.ai/wmdp/` | metadata-only | 2 | `M······` | `secid:control/safe.ai/wmdp` |
 | `control/securityforum.org/sogp/2022/` | metadata-only | 1 | `M······` | `secid:control/securityforum.org/sogp@2022` |
+| `control/tc260.org.cn/ai-safety-governance/` | metadata-only | 2 | `M······` | `secid:control/tc260.org.cn/ai-safety-governance` |
+| `control/trustllmbenchmark.github.io/benchmark/` | metadata-only | 2 | `M······` | `secid:control/trustllmbenchmark.github.io/benchmark` |
 
 ## regulation/
 
