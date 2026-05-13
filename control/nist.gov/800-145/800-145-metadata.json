@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/nist.gov/800-145",
+  "name": "The NIST Definition of Cloud Computing",
+  "acronym": "SP 800-145",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "NIST.800-145",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST SP 800-145 (2011) defines cloud computing canonically: five essential characteristics (on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service), three service models (SaaS, PaaS, IaaS), and four deployment models (private, community, public, hybrid). The most-cited NIST cloud publication.",
+  "relationToCloudSecurity": "Foundational definitional document for cloud computing. Referenced in essentially every cloud-security framework including CCM, FedRAMP, and ISO 27017.",
+  "relationToAISecurity": "Defines the deployment context within which AI systems operate; AI services map cleanly onto SaaS/PaaS/IaaS layers.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/145/final",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Published 2011-09-28. Definitional document; not revised since."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}

@@ -16,19 +16,19 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 236
+**Total documents indexed:** 260
 
 | State | Count |
 |---|---|
 | structured | 47 |
 | extracted | 70 |
-| metadata-only | 109 |
+| metadata-only | 133 |
 | readme-only | 4 |
 | empty | 6 |
 
 | Type | Count |
 |---|---|
-| control | 153 |
+| control | 177 |
 | regulation | 47 |
 | weakness | 2 |
 | ttp | 5 |
@@ -160,8 +160,23 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mlcommons.org/mlperf/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/mlperf` |
 | `control/nist.gov/1800-13/` | extracted | 172 (+169 imgs) | `MX····I` | `secid:control/nist.gov/1800-13` |
 | `control/nist.gov/1800-26/` | extracted | 748 (+745 imgs) | `MX····I` | `secid:control/nist.gov/1800-26` |
+| `control/nist.gov/800-115/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-115` |
 | `control/nist.gov/800-137/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-137` |
+| `control/nist.gov/800-145/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-145` |
+| `control/nist.gov/800-146/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-146` |
+| `control/nist.gov/800-150/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-150` |
+| `control/nist.gov/800-160-v1/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-160-v1` |
+| `control/nist.gov/800-160-v2/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-160-v2` |
 | `control/nist.gov/800-161/r1/` | extracted | 22 (+19 imgs) | `MX····I` | `secid:control/nist.gov/800-161@r1` |
+| `control/nist.gov/800-171/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-171` |
+| `control/nist.gov/800-172/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-172` |
+| `control/nist.gov/800-184/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-184` |
+| `control/nist.gov/800-190/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-190` |
+| `control/nist.gov/800-201/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-201` |
+| `control/nist.gov/800-204/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-204` |
+| `control/nist.gov/800-207/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-207` |
+| `control/nist.gov/800-210/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-210` |
+| `control/nist.gov/800-218/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-218` |
 | `control/nist.gov/800-218a/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-218a` |
 | `control/nist.gov/800-226/ipd/` | extracted | 37 (+34 imgs) | `MX····I` | `secid:control/nist.gov/800-226@ipd` |
 | `control/nist.gov/800-30/r1/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-30@r1` |
@@ -171,15 +186,24 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-53b/r5/` | structured | 7 (+2 imgs) | `MX·C··I` | `secid:control/nist.gov/800-53b@r5` |
 | `control/nist.gov/800-61/r2/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-61@r2` |
 | `control/nist.gov/800-63/3/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-63@3` |
+| `control/nist.gov/800-66/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-66` |
+| `control/nist.gov/800-82/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-82` |
 | `control/nist.gov/800-88/r1/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-88@r1` |
+| `control/nist.gov/800-92/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-92` |
+| `control/nist.gov/ai-100-4/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/ai-100-4` |
 | `control/nist.gov/ai-600-1/1.0/` | structured | 10 (+3 imgs) | `MXJC··I` | `secid:control/nist.gov/ai-600-1@1.0` |
 | `control/nist.gov/ai-rmf/1.0/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:control/nist.gov/ai-rmf@1.0` |
 | `control/nist.gov/csf/1.1/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@1.1` |
 | `control/nist.gov/csf/2.0/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@2.0` |
 | `control/nist.gov/fips-140/2/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@2` |
 | `control/nist.gov/fips-140/3/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@3` |
+| `control/nist.gov/fips-197/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/fips-197` |
 | `control/nist.gov/fips-199/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-200` |
+| `control/nist.gov/fips-202/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/fips-202` |
+| `control/nist.gov/fips-203/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/fips-203` |
+| `control/nist.gov/fips-204/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/fips-204` |
+| `control/nist.gov/fips-205/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/fips-205` |
 | `control/openai.com/model-spec/` | metadata-only | 2 | `M······` | `secid:control/openai.com/model-spec` |
 | `control/openai.com/preparedness/` | metadata-only | 2 | `M······` | `secid:control/openai.com/preparedness` |
 | `control/openai.com/red-teaming/` | metadata-only | 2 | `M······` | `secid:control/openai.com/red-teaming` |
