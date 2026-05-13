@@ -1,0 +1,54 @@
+{
+  "secid": "secid:control/nist.gov/800-82",
+  "name": "Guide to Operational Technology Security",
+  "acronym": "SP 800-82",
+  "alternate_names": [],
+  "version": "r3",
+  "publication_id": "NIST.800-82",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST SP 800-82 Rev 3 (2023) provides security guidance for Operational Technology (OT) — encompassing ICS, SCADA, distributed control systems, and other industrial environments. Renamed from 'ICS Security Guide' to broaden scope.",
+  "relationToCloudSecurity": "OT-cloud convergence: increasingly relevant to cloud-hosted ICS/OT monitoring.",
+  "relationToAISecurity": "AI in OT environments (predictive maintenance, anomaly detection) inherits 800-82 guidance.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/82/r3/final",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Rev 3 published 2023-09-28. Renamed scope (was ICS-specific in Rev 2)."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "current_revision": "r3"
+  },
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}

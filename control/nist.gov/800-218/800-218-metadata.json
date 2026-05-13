@@ -1,0 +1,56 @@
+{
+  "secid": "secid:control/nist.gov/800-218",
+  "name": "Secure Software Development Framework",
+  "acronym": "SSDF",
+  "alternate_names": [
+    "SSDF 1.1"
+  ],
+  "version": "1.1",
+  "publication_id": "NIST.800-218",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST SP 800-218 (2022) defines the Secure Software Development Framework — a set of fundamental, sound, and secure software development practices. Companion 800-218A extends it to AI/ML model development (already in repo).",
+  "relationToCloudSecurity": "Software supply-chain security framework; relevant to cloud-native development pipelines.",
+  "relationToAISecurity": "AI-specific overlay at SP 800-218A. The base SSDF applies to AI tooling and supporting infrastructure.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Version 1.1 published 2022-02-04. Required for federal software acquisitions per EO 14028 and OMB M-22-18."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "current_revision": "1.1"
+  },
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}
