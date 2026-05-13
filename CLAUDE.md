@@ -149,12 +149,53 @@ This repository contains documentation and data files — no build, lint, or tes
 
 ### PDF → markdown
 
-Two paths:
+Two extraction paths. Both are driven from `tools-resources/utils/`. Output for publicly-redistributable docs lands in this repo; for licensed/restricted PDFs (IEEE, members-only frameworks) point `--output-dir` at a sibling path in [`dataset-private-laws-regulations-standards`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards) (its [`PROCESSING.md`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards/blob/main/PROCESSING.md) has the cross-repo invocation).
 
-- **Local (small docs):** `tools-resources/utils/pdf_to_md.sh` runs `marker_single` via an isolated venv at `~/.venvs/marker/`.
-- **GPU (long docs):** `tools-resources/utils/pdf_to_md_via_gpu.sh path/to.pdf` uploads the PDF + canonical `marker-convert.sh` to the `markersinglehost` SSH alias, runs marker in a detached tmux session, polls the log until `STATUS: DONE`, and scp's results back. Flags: `--formats markdown,json,html`, `--force-ocr`, `--output-dir`, `--keep-remote`. The wrapper deploys `marker-convert.sh` on every run, so edits to the canonical copy in this repo propagate to the GPU box without manual sync.
+#### Local Mac (small docs, <~50 pages)
 
-Default for clean text-layer PDFs: skip `--force_ocr`. PCI DSS v4.0.1 measurement showed 17x speedup and strictly better output without OCR forcing.
+```bash
+tools-resources/utils/pdf_to_md.sh /path/to/source.pdf [output_dir]
+```
+
+Uses the isolated marker venv at `~/.venvs/marker/`. CPU-bound; fine for small documents.
+
+#### GPU box (larger docs, OCR work, anything where speed matters)
+
+```bash
+tools-resources/utils/pdf_to_md_via_gpu.sh \
+    --output-dir control/example.org/spec/version \
+    /path/to/source.pdf
+```
+
+What it does:
+1. scp's the canonical `marker-convert.sh` to the GPU box (keeps versions in sync — no drift)
+2. scp's the PDF to `~/marker-work/` on the GPU box
+3. Launches a detached tmux session running marker
+4. Polls the remote log every 30s until `STATUS: DONE` or `STATUS: FAILED`
+5. scp's the output directory back to `--output-dir`
+6. Cleans up remote files (unless `--keep-remote`)
+
+Flags: `--output-dir`, `--formats markdown,json,html` (default `markdown` single-pass), `--force-ocr` (opt-in), `--remote-host` (default `markersinglehost`), `--remote-dir` (default `~/marker-work`), `--poll-interval` (default 30s), `--timeout` (default 7200s), `--keep-remote`, `--help`.
+
+**GPU box details:**
+- SSH alias: `markersinglehost` → `192.168.1.232` (WSL2 Ubuntu on a Windows machine)
+- GPU: NVIDIA RTX 3060
+- Remote marker venv: `~/marker-env/`
+- Remote worker: `~/marker-convert.sh` (overwritten on each wrapper run from the canonical copy in this repo)
+
+#### When to use `--force-ocr`
+
+Default is **OFF**. Clean text-layer PDFs come out faster and cleaner without it — PCI DSS v4.0.1 measurement showed 17× speedup and strictly better output without OCR forcing. Only flip on `--force-ocr` for scans or PDFs that show garbled text in marker output.
+
+#### After extraction: name files to match SecID
+
+Marker outputs `<input-basename>.md`. The SecID convention requires `<name>-<version>.md` matching the directory path. Rename marker's output before committing — e.g., if your input was `PCI-DSS-v4_0_1.pdf` landing in `control/pcisecuritystandards.org/pci-dss/v4.0.1/`, rename `PCI-DSS-v4_0_1.md` → `pci-dss-v4.0.1.md` (and the companion `_meta.json`). The `_page_*.jpeg` images keep their marker-assigned names.
+
+#### Common pitfalls
+
+- **Encrypted PDFs.** Marker can't read password-protected PDFs. Decrypt first: `qpdf --password='PASSWORD' --decrypt encrypted.pdf decrypted.pdf`.
+- **Filename mismatch.** Always rename marker outputs to match the SecID-derived filename prefix before committing.
+- **Forgetting metadata.** A directory without `<name>-<version>-metadata.json` won't be SecID-resolvable and won't show up correctly in INDEX.md. Author metadata before commit; verify with `python3 tools-resources/utils/audit_secid_alignment.py`.
 
 ### Marker JSON → structured CSV/JSON
 
