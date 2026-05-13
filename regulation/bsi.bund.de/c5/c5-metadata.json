@@ -1,0 +1,30 @@
+{
+  "secid": "secid:regulation/bsi.bund.de/c5",
+  "name": "Regulation: C5",
+  "version": "",
+  "owner": "Germany Federal Office for Information Security (BSI)",
+  "type": "Regulation",
+  "description": "Regulation: C5",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Government regulation; license terms vary by jurisdiction. Generally permitted for reference and citation; consult the specific issuer's terms before redistribution at scale."
+  },
+  "links": {
+    "source": "https://www.bsi.bund.de/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+}

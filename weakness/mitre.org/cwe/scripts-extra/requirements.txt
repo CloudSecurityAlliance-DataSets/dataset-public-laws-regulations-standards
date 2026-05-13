@@ -1,0 +1,47 @@
+# CWE AI Analysis - Dependencies
+# ================================
+# Install with: pip install -r requirements.txt
+# Or install the package: pip install -e .
+
+# Core Dependencies
+# -----------------
+
+# Pydantic: Data validation and settings management
+# Why: Provides automatic validation, serialization to JSON/dict, and clear
+# schema documentation. If CWE data is malformed, we get clear errors rather
+# than silent failures downstream.
+pydantic>=2.0.0
+
+# Typer: Modern CLI framework built on Click
+# Why: Automatic help generation from type hints, cleaner code than argparse,
+# good error messages. Makes the CLI self-documenting.
+typer>=0.9.0
+
+# tqdm: Progress bars
+# Why: Processing 900+ CWE entries takes time. Progress bars provide user
+# feedback and estimated completion time, essential for long-running operations.
+tqdm>=4.65.0
+
+# Pandas: Data manipulation
+# Why: Efficient CSV reading/writing, powerful filtering and transformation.
+# The CWE data comes in CSV format and pandas handles edge cases (quoting,
+# encoding, etc.) better than the standard csv module.
+pandas>=2.0.0
+
+# python-dotenv: Environment configuration
+# Why: Allows configuration via .env files. Users can set data paths,
+# output directories, and other settings without modifying code.
+python-dotenv>=1.0.0
+
+# Rich: Terminal formatting
+# Why: Beautiful CLI output including tables, colored text, and progress
+# displays. Makes the tool more user-friendly and output more readable.
+rich>=13.0.0
+
+
+# Development Dependencies
+# ------------------------
+# Install with: pip install -r requirements.txt -r requirements-dev.txt
+# Or: pip install -e ".[dev]"
+
+# See requirements-dev.txt for development dependencies

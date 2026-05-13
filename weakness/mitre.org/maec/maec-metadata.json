@@ -1,0 +1,53 @@
+{
+  "secid": "secid:weakness/mitre.org/maec",
+  "name": "Malware Attribute Enumeration and Characterization",
+  "acronym": "MAEC",
+  "alternate_names": ["MITRE MAEC"],
+  "version": "",
+  "publication_id": "MAEC",
+  "owner": "MITRE Corporation",
+  "type": "Taxonomy",
+  "description": "MAEC was a MITRE-led community effort to standardize the encoding and communication of high-fidelity information about malware (behaviors, capabilities, artifacts, relationships). The MAEC schema (XML, later JSON) supported automated malware analysis sharing. The project went inactive after MITRE shifted focus to ATT&CK and STIX/TAXII (which absorbed most malware-characterization use cases). Last formal MAEC release was 5.0 (2017); the effort is effectively superseded by ATT&CK Software entries and STIX malware extensions.",
+  "relationToCloudSecurity": "MAEC is no longer actively maintained. For current malware-characterization work — including cloud-targeting malware — use MITRE ATT&CK's Software catalog and STIX 2.1 malware objects.",
+  "relationToAISecurity": "MAEC does not address AI/ML-targeting malware. ATT&CK and ATLAS provide AI-relevant adversary technique coverage.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-MAEC-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://maecproject.github.io/",
+    "notes": "MAEC was distributed under MITRE's community-friendly terms. The project repository is archived; use ATT&CK or STIX for current work."
+  },
+  "links": {
+    "source": "https://maecproject.github.io/",
+    "github": "https://github.com/MAECProject",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2011",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "MITRE ATT&CK Software catalog and STIX 2.1 malware extensions",
+    "retiredFromActiveUse": "2018 (approximate, last official release 5.0 was 2017)",
+    "notes": "Retained in the registry for historical reference and to resolve older citations. New malware-characterization work should use ATT&CK + STIX 2.1."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub. No structured extraction is planned because the underlying project is inactive."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README only — placeholder for namespace coverage",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Inactive MITRE project. Listed for namespace completeness; redirect any active work to MITRE ATT&CK."
+}

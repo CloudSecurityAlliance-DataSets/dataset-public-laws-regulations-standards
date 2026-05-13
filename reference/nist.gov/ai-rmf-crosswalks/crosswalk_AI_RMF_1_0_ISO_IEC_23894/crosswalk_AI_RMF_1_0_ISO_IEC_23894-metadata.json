@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/nist.gov/ai-rmf-crosswalks/crosswalk_AI_RMF_1_0_ISO_IEC_23894",
+  "name": "AI RMF 1.0 ↔ ISO/IEC 23894 Crosswalk",
+  "acronym": "AI RMF — ISO 23894 Crosswalk",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "AI-RMF-1.0-ISO-IEC-23894-Crosswalk",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Mapping",
+  "description": "NIST-published crosswalk mapping AI RMF 1.0 elements to ISO/IEC 23894 (AI risk management guidance). Enables organizations using either framework to identify equivalent practices in the other.",
+  "relationToCloudSecurity": "Useful for cloud-AI implementers needing to satisfy ISO requirements while operating under AI RMF or vice versa.",
+  "relationToAISecurity": "Direct mapping between two major AI risk management frameworks.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted from source PDF via the marker pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {},
+  "notes": "Bidirectional crosswalk between AI RMF and ISO/IEC 23894."
+}

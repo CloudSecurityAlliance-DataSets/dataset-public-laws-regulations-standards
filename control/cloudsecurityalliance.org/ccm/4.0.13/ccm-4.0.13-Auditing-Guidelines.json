@@ -1,0 +1,1381 @@
+[
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit and Assurance Policy and Procedures",
+        "Control ID": "A&A-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n audit and assurance policies and procedures and standards. Review and update\n the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures to confirm content adequacy in terms of purpose, authority and accountability, responsibilities, planning, communication, reporting, and follow-up.\n 2. Examine audit charter and determine if independence, impartiality, and objectivity are guaranteed.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Independent Assessments",
+        "Control ID": "A&A-02",
+        "Control Specification": "Conduct independent audit and assurance assessments according to\n relevant standards at least annually.",
+        "Auditing Guidelines": "1. Examine the process to determine standards and regulations applicable to the organization's systems and environments.\n 2. Determine if the organization maintains and reviews a list of such standards and regulations.\n 3. Determine if senior management exercises oversight over the independence of the assessment process.\n 4. Determine if the audit plan is informed by previous assessments, and is scheduled on an annual basis."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Risk Based Planning Assessment",
+        "Control ID": "A&A-03",
+        "Control Specification": "Perform independent audit and assurance assessments according to\n risk-based plans and policies.",
+        "Auditing Guidelines": "1. Examine the process for determining the risks applicable to the organization's systems and environments.\n 2. Determine if a list of such risks is maintained and reviewed.\n 3. Determine if senior management exercises oversight over the applicable risks.\n 4. Determine if the audit plan is risk-based, and is scheduled on an annual basis."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Requirements Compliance",
+        "Control ID": "A&A-04",
+        "Control Specification": "Verify compliance with all relevant standards, regulations, legal/contractual,\n and statutory requirements applicable to the audit.",
+        "Auditing Guidelines": "1. Examine the process for determining the standards and regulations applicable to the organization's systems and environments.\n 2. Examine the process to determine contractual, legal, and technical requirements applicable to the organization's systems and environments.\n 3. Determine if the organization maintains and reviews a list of relevant standards, regulations, legal/contractual, and statutory requirements. \n 4. Determine if senior management exercises oversight over this control specification. \n 5. Determine if the audit plan is informed by the list of the organization's requirements."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Audit Management Process",
+        "Control ID": "A&A-05",
+        "Control Specification": "Define and implement an Audit Management process to support audit\n planning, risk analysis, security control assessment, conclusion, remediation\n schedules, report generation, and review of past reports and supporting evidence.",
+        "Auditing Guidelines": "1. Examine policy related to the establishment and conduct of audits.\n 2. Determine if audit programs are established and aligned to the requirements of the organization, including the audit charter.\n 3. Determine if the organization upholds the independence of the audit program.\n 4. Determine if the conduct of audits is defined, approved at the appropriate level, and reviewed for effectiveness."
+    },
+    {
+        "Control Domain": "Audit & Assurance",
+        "Control Title": "Remediation",
+        "Control ID": "A&A-06",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a risk-based corrective action plan to remediate audit findings, review and\n report remediation status to relevant stakeholders.",
+        "Auditing Guidelines": "1. Examine if the outputs of audits are defined by the policy.\n 2. Determine if the audit findings are reviewed and if appropriate reports are made available to users and senior management.\n 3. Determine if the identification of risks from audit findings, or changes to them, are made available to users.\n 4. Determine if corrective actions proposed are planned to align with the organization's risk profile.\n 5. Determine if a process exists to track changes in risk rating and is used to update risk registers, particularly with regard to residual risk.\n 6. Examine a sample of proposed corrective actions and determine if they were followed-up in a manner consistent with the organization's policy.\n 7. Examine audit programs to determine if they are subject to continuous improvement through feedback, review and revisions.\n 8. Examine if a process exists to review the audit program in light of current and past audits."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application and Interface Security Policy and Procedures",
+        "Control ID": "AIS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for application security to provide guidance to the\n appropriate planning, delivery and support of the organization's application\n security capabilities. Review and update the policies and procedures at least\n annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to planning, delivery, and support of the organization's application security capabilities.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Baseline Requirements",
+        "Control ID": "AIS-02",
+        "Control Specification": "Establish, document and maintain baseline requirements for securing\n different applications.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy and effectiveness.\n 2. Determine if security baseline requirements of respective applications are clearly defined.\n 3. Examine the process to determine the baseline for an application."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Metrics",
+        "Control ID": "AIS-03",
+        "Control Specification": "Define and implement technical and operational metrics in alignment\n with business objectives, security requirements, and compliance obligations.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of operational metrics, security, and compliance requirements."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Secure Application Design and Development",
+        "Control ID": "AIS-04",
+        "Control Specification": "Define and implement a SDLC process for application design, development,\n deployment, and operation in accordance with security requirements defined by\n the organization.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of SDLC (Software Development Lifecycle), security, and compliance requirements.\n 2. Examine the state of implementation of the SDLC process.\n 3. Verify that the SDLC implementation is in accordance with requirements."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Application Security Testing",
+        "Control ID": "AIS-05",
+        "Control Specification": "Implement a testing strategy, including criteria for acceptance of\n new information systems, upgrades and new versions, which provides application\n security assurance and maintains compliance while enabling organizational speed\n of delivery goals. Automate when applicable and possible.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of testing strategies, automation of security testing, and change management.\n 2. Determine security assurance and acceptance criteria for the new information system(s).\n 3. Determine if the software release process is automated where applicable."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Secure Application Deployment",
+        "Control ID": "AIS-06",
+        "Control Specification": "Establish and implement strategies and capabilities for secure, standardized,\n and compliant application deployment. Automate where possible.",
+        "Auditing Guidelines": "1. Examine policy and procedures for implementation of application deployment. \n 2. Determine if segregation of duties (role and responsibilities) is clearly defined among security and application teams.\n 3. Determine if Identification and integration process is defined and verified for application deployment processes. \n 4. Evaluate the extent of automation deployed, and criteria used."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Vulnerability Remediation",
+        "Control ID": "AIS-07",
+        "Control Specification": "Define and implement a process to remediate application security\n vulnerabilities, automating remediation when possible.",
+        "Auditing Guidelines": "1. Examine the policy and procedures to remediate application security vulnerabilities and automating remediation.\n 2. Evaluate whether roles and responsibilities, including escalation paths for application security incident response and remediation, are defined and effective.\n 3. Determine if the organization leverages automation when possible and if this automation increases remediation efficiency."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Management Policy and Procedures",
+        "Control ID": "BCR-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n business continuity management and operational resilience policies and procedures.\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to business continuity and resilience.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Risk Assessment and Impact Analysis",
+        "Control ID": "BCR-02",
+        "Control Specification": "Determine the impact of business disruptions and risks to establish\n criteria for developing business continuity and operational resilience strategies\n and capabilities.",
+        "Auditing Guidelines": "1. Examine the policy to determine business impact and the criteria for developing business continuity.\n 2. Evaluate the process to review and approve the policy."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Strategy",
+        "Control ID": "BCR-03",
+        "Control Specification": "Establish strategies to reduce the impact of, withstand, and recover\n from business disruptions within risk appetite.",
+        "Auditing Guidelines": "1. Determine if the organization has established a risk appetite.\n 2. Determine if the organization has established strategies to reduce impact of business disruptions, within the organization’s risk appetite."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Planning",
+        "Control ID": "BCR-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a business continuity plan based on the results of the operational resilience\n strategies and capabilities.",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery, and support of the organization's application security capabilities.\n 2. Evaluate if the organization’s operational resilience strategies and capabilities are used as an input for the policy and implementation.\n 3. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Documentation",
+        "Control ID": "BCR-05",
+        "Control Specification": "Develop, identify, and acquire documentation that is relevant to\n support the business continuity and operational resilience programs. Make the\n documentation available to authorized stakeholders and review periodically.",
+        "Auditing Guidelines": "1. Examine the process for determining the documentation required to support business continuity and operational resilience.\n 2. Examine the process for developing or acquiring such documentation and maintaining its currency.\n 3. Evaluate the process and implementation of identifying stakeholders and making documentation available.\n 4. Examine the policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Business Continuity Exercises",
+        "Control ID": "BCR-06",
+        "Control Specification": "Exercise and test business continuity and operational resilience\n plans at least annually or upon significant changes.",
+        "Auditing Guidelines": "1. Examine the plans for business continuity and operational resilience tests, with reference to their intended outputs.\n 2. Examine the schedules of such tests and their periodicity.\n 3. Evaluate if the plans are tested upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Communication",
+        "Control ID": "BCR-07",
+        "Control Specification": "Establish communication with stakeholders and participants in the\n course of business continuity and resilience procedures.",
+        "Auditing Guidelines": "1. Examine the policy for determining stakeholders and participants.\n 2. Determine if the organization has identified stakeholders and participants.\n 3. Examine the procedures for communication with identified stakeholders and participants."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Backup",
+        "Control ID": "BCR-08",
+        "Control Specification": "Periodically backup data stored in the cloud. Ensure the confidentiality,\n integrity and availability of the backup, and verify data restoration from backup\n for resiliency.",
+        "Auditing Guidelines": "1. Examine the policy for identifying data for which a backup is required.\n 2. Examine the requirements for the security of such backups.\n 3. Evaluate the effectiveness of the backup and restore."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Disaster Response Plan",
+        "Control ID": "BCR-09",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a disaster response plan to recover from natural and man-made disasters. Update\n the plan at least annually or upon significant changes.",
+        "Auditing Guidelines": "1. Examine the policy and procedures for adequacy, approval, communication, and effectiveness as applicable to a disaster response plan.\n 2. Examine the policy and procedures for evidence of review, upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Response Plan Exercise",
+        "Control ID": "BCR-10",
+        "Control Specification": "Exercise the disaster response plan annually or upon significant\n changes, including if possible local emergency authorities.",
+        "Auditing Guidelines": "1. Examine the policy for planning and scheduling disaster response exercises, and involving local emergency authorities, if possible.\n 2. Evaluate if plans are tested upon significant changes, or at least annually."
+    },
+    {
+        "Control Domain": "Business Continuity Management and Operational Resilience",
+        "Control Title": "Equipment Redundancy",
+        "Control ID": "BCR-11",
+        "Control Specification": "Supplement business-critical equipment with redundant equipment independently\n located at a reasonable minimum distance in accordance with applicable industry\n standards.",
+        "Auditing Guidelines": "1. Examine the process to identify business-critical equipment and any redundant equipment.\n 2. Examine the process to identify applicable industry standards.\n 3. Evaluate if the redundant business-critical equipment is independently located at a reasonable distance."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Policy and Procedures",
+        "Control ID": "CCC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for managing the risks associated with applying changes\n to organization assets, including application, systems, infrastructure, configuration,\n etc., regardless of whether the assets are managed internally or externally\n (i.e., outsourced). Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures to determine if they cover necessary parts of change management, including scope, documentation, testing, approval, and emergency changes.\n 2. Examine a sample record of changes to information assets, including systems, networks, and network services to determine if compliance is met with the organization's change management policy and procedures.\n 3. Examine if the policy and procedures are reviewed and updated at least annually."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Quality Testing",
+        "Control ID": "CCC-02",
+        "Control Specification": "Follow a defined quality change control, approval and testing process\n with established baselines, testing, and release standards.",
+        "Auditing Guidelines": "1. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), relevant stakeholders, for change management and determine if the policy control requirements provided in the policy have been implemented.\n 2. Examine measures that evaluate(s) the organization's compliance with the change and configuration management policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Technology",
+        "Control ID": "CCC-03",
+        "Control Specification": "Manage the risks associated with applying changes to organization\n assets, including application, systems, infrastructure, configuration, etc.,\n regardless of whether the assets are managed internally or externally (i.e.,\n outsourced).",
+        "Auditing Guidelines": "1. Examine policy related to the change management of assets.\n 2. Examine the policy for the identification of risks arising from these changes being applied.\n 3. Determine if assets are classified based on their management responsibility, and if these have specific risk profiles."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Unauthorized Change Protection",
+        "Control ID": "CCC-04",
+        "Control Specification": "Restrict the unauthorized addition, removal, update, and management\n of organization assets.",
+        "Auditing Guidelines": "1. Examine the policy relating to the authorisation of changes in assets.\n 2. Examine the implementation of such policy, technical controls, and their effectiveness."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Agreements",
+        "Control ID": "CCC-05",
+        "Control Specification": "Include provisions limiting changes directly impacting CSCs owned\n environments/tenants to explicitly authorized requests within service level\n agreements between CSPs and CSCs.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to change management to determine whether provisions are included for limiting changes directly impacting CSCs owned environments/tenants to explicitly authorized requests within service level agreements between CSPs and CSCs.\n 2. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), and/or relevant stakeholders, as needed, for change agreements and determine if the policy control requirements stipulated in the policy have been implemented.\n 3. Examine measures that evaluate the organization's change agreement policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Baseline",
+        "Control ID": "CCC-06",
+        "Control Specification": "Establish change management baselines for all relevant authorized\n changes on organization assets.",
+        "Auditing Guidelines": "1. Examine policy and/or standards related to change management to determine if changes are formally controlled, documented and enforced to minimize the corruption of information systems.\n 2. Determine if the introduction of new systems and major changes to existing systems are formally documented, specified, tested, quality controlled, and the implementation managed."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Detection of Baseline Deviation",
+        "Control ID": "CCC-07",
+        "Control Specification": "Implement detection measures with proactive notification in case\n of changes deviating from the established baseline.",
+        "Auditing Guidelines": "1. Examine measures that evaluate the organization's compliance with the change management policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Exception Management",
+        "Control ID": "CCC-08",
+        "Control Specification": "Implement a procedure for the management of exceptions, including\n emergencies, in the change and configuration process. Align the procedure with\n the requirements of GRC-04: Policy Exception Process.'",
+        "Auditing Guidelines": "1. Verify that the organization establishes and documents mandatory configuration settings for information technology products employed within the information system, as determined by adoption of the latest suitable security configuration baselines.\n 2. Confirm that the process identifies, documents, and approves exceptions from the mandatory established configuration settings for individual components based on explicit operational requirements.\n 3. Determine that the organization monitors and controls changes to the configuration settings in accordance with organizational policy and procedures."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Restoration",
+        "Control ID": "CCC-09",
+        "Control Specification": "Define and implement a process to proactively roll back changes to\n a previous known good state in case of errors or security concerns.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to change management and determine if roll back procedures are defined and implemented, including procedures and responsibilities for aborting and recovering from unsuccessful changes and unforeseen events.\n 2. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s) and/or relevant stakeholders, as needed to ensure that roll back procedures are defined and implemented and determine if the policy control requirements stipulated in the policy have been implemented. Select a sample of changes and examine the change management record to confirm that the change was assessed and included appropriate fallback procedures in the event of a failed change.\n 3. Examine measure(s) that evaluate(s) the organization's compliance with the change management policy and determine if these measures are implemented according to policy control requirements.\n 4. Obtain and examine supporting documentation maintained as evidence of these metrics, measures, tests, or audits to determine if the office or individual responsible reviews the information and, if issues were identified, they were investigated and corrected."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Policy and Procedures",
+        "Control ID": "CEK-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for Cryptography, Encryption and Key Management. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Review cryptography, encryption, and key management policy and procedures and confirm that these have been approved by appropriate management.\n 2. Confirm that the policy and procedures are reviewed at least annually."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CEK Roles and Responsibilities",
+        "Control ID": "CEK-02",
+        "Control Specification": "Define and implement cryptographic, encryption and key management\n roles and responsibilities.",
+        "Auditing Guidelines": "1. Obtain cryptographic, encryption policy, and key management procedures.\n 2. Verify, by interviews or otherwise, that employees and stakeholders are aware of their roles and responsibilities, and obtain supporting documentation evidencing that the responsibilities are being managed in-line with policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Data Encryption",
+        "Control ID": "CEK-03",
+        "Control Specification": "Provide cryptographic protection to data at-rest and in-transit,\n using cryptographic libraries certified to approved standards.",
+        "Auditing Guidelines": "1. Identify data flows within the organization that are in-transit.\n 2. Identify data storages within the organization that are at-rest.\n 3. Confirm that the identified data flows and data storages have been protected by an appropriate cryptographic algorithm aligned to cryptography, encryption, and key management policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Algorithm",
+        "Control ID": "CEK-04",
+        "Control Specification": "Use encryption algorithms that are appropriate for data protection,\n considering the classification of data, associated risks, and usability of the\n encryption technology.",
+        "Auditing Guidelines": "1. Identify the encryption algorithms in use.\n 2. Confirm that identified encryption algorithms have been reviewed and approved by appropriate management.\n 3. Confirm that the encryption algorithm approval process includes assessment of the appropriateness of the algorithm for the data it is protecting, any associated risks, and the algorithm's usability."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Management",
+        "Control ID": "CEK-05",
+        "Control Specification": "Establish a standard change management procedure, to accommodate\n changes from internal and external sources, for review, approval, implementation\n and communication of cryptographic, encryption and key management technology\n changes.",
+        "Auditing Guidelines": "1. Examine policy and procedures and obtain evidence that these include the change management process.\n 2. Obtain representative samples of recent changes relating to cryptographic, encryption, and key management technology.\n 3. Confirm that sample changes have followed the organization change management procedures, including approval by appropriate individuals, communication of changes to relevant stakeholders, and assessment of the success of implementing changes with any required remediation actions being tracked."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Change Cost Benefit Analysis",
+        "Control ID": "CEK-06",
+        "Control Specification": "Manage and adopt changes to cryptography-, encryption-, and key management-related\n systems (including policies and procedures) that fully account for downstream\n effects of proposed changes, including residual risk, cost, and benefits analysis.",
+        "Auditing Guidelines": "1. Obtain a copy of the change management policy and procedures. Confirm that these documents include assessment of impact on downstream effects, including residual risk, cost, and benefit analysis.\n 2. Examine recent changes made to cryptography-, encryption-, and key management-related systems (including policy and procedures), and confirm that these changes include an account of downstream effects of proposed changes, including residual risk, cost, and benefits analysis.\n 3. Confirm that the changes have been reviewed and approved by appropriate management."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption Risk Management",
+        "Control ID": "CEK-07",
+        "Control Specification": "Establish and maintain an encryption and key management risk program\n that includes provisions for risk assessment, risk treatment, risk context,\n monitoring, and feedback.",
+        "Auditing Guidelines": "1. Identify and confirm the existence of the organization's risk assessment process and obtain the risk register.\n 2. Confirm that the risk register includes as part of a regular process or control review encryption and key management.\n 3. Obtain evidence that demonstrates that a risk assessment is performed of the encryption and key management program and process."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "CSC Key Management Capability",
+        "Control ID": "CEK-08",
+        "Control Specification": "CSPs must provide the capability for CSCs to manage their own data\n encryption keys.",
+        "Auditing Guidelines": "1. Identity CSC's data key encryption policy and standards.\n 2. Review the implementation of the CSP key broker and key management services (KMS) and the cloud hardware security modules (HSMs).\n 3. Confirm that the configuration enables appropriate management of the key, e.g., customer-managed master key, CSP-managed master key, and CSP-owned master key.\n 4. Confirm that HSM meets internal compliance standards, e.g., FIPS 140-2."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Encryption and Key Management Audit",
+        "Control ID": "CEK-09",
+        "Control Specification": "Audit encryption and key management systems, policies, and processes\n with a frequency that is proportional to the risk exposure of the system with\n audit occurring preferably continuously but at least annually and after any\n security event(s).",
+        "Auditing Guidelines": "1. Examine the master audit plan to confirm that audits of encryption and key management systems, policy and processes are included in the plan.\n 2. Review previously completed audits and confirm that audits of encryption and key management systems, policy and processes have been completed and that any issues raised have been included in issue logs and tracked appropriately."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Generation",
+        "Control ID": "CEK-10",
+        "Control Specification": "Generate Cryptographic keys using industry accepted cryptographic\n libraries specifying the algorithm strength and the random number generator\n used.",
+        "Auditing Guidelines": "1. Confirm that the organization has an approved process for the generation of cryptographic keys.\n 2. Identify the keys being used.\n 3. Observe the generation of an encryption key in a production-like sandbox or as a test tenant in production and confirm the keys have been generated according to the appropriate procedure and technical specifications."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Purpose",
+        "Control ID": "CEK-11",
+        "Control Specification": "Manage cryptographic secret and private keys that are provisioned\n for a unique purpose.",
+        "Auditing Guidelines": "1. Obtain copies of the policy and procedures detailing the management of secret and private cryptographic keys.\n 2. Identify cryptographic secret and private keys that have been provisioned for a unique purpose.\n 3. Ascertain that these keys are being managed in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Rotation",
+        "Control ID": "CEK-12",
+        "Control Specification": "Rotate cryptographic keys in accordance with the calculated cryptoperiod,\n which includes provisions for considering the risk of information disclosure\n and legal and regulatory requirements.",
+        "Auditing Guidelines": "Consider the symmetric vs. asymmetric key rotation capabilities of CSPs and an appropriate rotation process adopted.\n 1. Confirm that policy and procedures include a requirement for regular key rotation.\n 2. Identify keys used within the organization. Confirm that these keys are part of the rotation process.\n 3. Review the key rotation process to confirm logging and monitoring of key rotation, tracking of date, time, encryption algorithm used, and authorization process used."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Revocation",
+        "Control ID": "CEK-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to revoke and remove cryptographic keys prior to the end of its established\n cryptoperiod, when a key is compromised, or an entity is no longer part of the\n organization, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Examine the organization procedures and confirm the existence of a key revocation process.\n 2. Identify a population of keys and confirm that they are captured within the key revocation process.\n 3. Confirm that a list of entities no longer part of the organization is maintained."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Destruction",
+        "Control ID": "CEK-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to destroy keys stored outside a secure environment and revoke keys\n stored in Hardware Security Modules (HSMs) when they are no longer needed, which\n include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of key destruction processes and procedures.\n 2. Review the access permissions for the destruction and restoration of keys and confirm that only appropriate individuals have access to these capabilities.\n 3. Review keys that have been destroyed and ascertain the appropriate process and procedure have been followed.\n 4. Establish documented criteria that determine when it is appropriate for a cryptographic key to be stored outside a secure environment."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Activation",
+        "Control ID": "CEK-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to create keys in a pre-activated state when they have been generated\n but not authorized for use, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to generate keys.\n 2. Confirm that the access and permissions around the key creation process is restricted to appropriate individuals.\n 3. Identify the key management server and the key storage database.\n 4. Review the key attributes and confirm that these are appropriate for the key, e.g., activation data, instance, deletion ability, rollover, etc.\n 5. Confirm the key activation process, e.g., manual, on creation, at a future time.\n 6. Review the pre-activated keys."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Suspension",
+        "Control ID": "CEK-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to monitor, review and approve key transitions from any state to/from\n suspension, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to manage the transition state of keys.\n 2. Review the access and permissions regarding the transition state of keys and confirm that these are restricted to appropriate individuals.\n 3. Verify that it is possible to modify a key state and suspend/disable keys when required."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Deactivation",
+        "Control ID": "CEK-17",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to deactivate keys at the time of their expiration date, which include\n provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of processes and procedures to deactivate keys.\n 2. Review the access and permissions around the key deactivation process and confirm this is restricted to appropriate individuals.\n 3. Review key deactivation process and configurations. Confirm that they are in line with internal and external requirements. \n 4. Confirm the key deactivation process e.g. manual, on expiration, at a defined future time."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Archival",
+        "Control ID": "CEK-18",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to manage archived keys in a secure repository requiring least privilege\n access, which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Confirm the existence of a documented and valid process for key archival.\n 2. Verify that the key archival process implements least privilege throughout the key archival cycle.\n 3. Establish whether the storage medium is secure, as per internal and external requirements."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Compromise",
+        "Control ID": "CEK-19",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to use compromised keys to encrypt information only in controlled circumstance,\n and thereafter exclusively for decrypting data and never for encrypting data,\n which include provisions for legal and regulatory requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined processes, procedures and technical measures for secure handling of compromised keys.\n 2. Review if the process for secure usage of compromised keys fulfills the organization and external business / operational continuity requirements.\n 3. Evaluate the significance of technical and organizational measures defined and implemented for usage of compromised keys in a secure environment."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Recovery",
+        "Control ID": "CEK-20",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to assess the risk to operational continuity versus the risk of the\n keying material and the information it protects being exposed if control of\n the keying material is lost, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined processes and procedures for handling the operational risk of compromised keys.\n 2. Determine if the key recovery process fulfills the organization and external business / operational continuity requirements.\n 3. Evaluate the significance of technical and organizational measures as per the key management lifecycle."
+    },
+    {
+        "Control Domain": "Cryptography, Encryption & Key Management",
+        "Control Title": "Key Inventory Management",
+        "Control ID": "CEK-21",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures in order for the key management system to track and report all cryptographic\n materials and changes in status, which include provisions for legal and regulatory\n requirements.",
+        "Auditing Guidelines": "1. Examine if the organization has defined the key management processes.\n 2. Review the processes for key lifecycle management (creation, rotation, storage, disposal) with respect to organization and external (regulatory) requirements.\n 3. Evaluate if the processes and procedures for change management of key management systems provide an overall traceability of lifecycle steps."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Equipment Disposal Policy and Procedures",
+        "Control ID": "DCS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the secure disposal of equipment used outside the\n organization's premises. If the equipment is not physically destroyed a data\n destruction procedure that renders recovery of information impossible must be\n applied. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to data destruction.\n 2. Determine if the policy has been approved, communicated, and reviewed.\n 3. Determine if a policy exists that addresses the secure destruction of data and for conditions when equipment is reused as opposed to when equipment is destroyed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Transfer Authorization Policy and Procedures",
+        "Control ID": "DCS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the relocation or transfer of hardware, software,\n or data/information to an offsite or alternate location. The relocation or transfer\n request requires the written or cryptographically verifiable authorization.\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to relocation, transfer or retirement of assets.\n 2. Determine if policy has been approved, communicated, and reviewed.\n 3. Determine if the policy requires recorded authorisation of movements."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Policy and Procedures",
+        "Control ID": "DCS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for maintaining a safe and secure working environment\n in offices, rooms, and facilities. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to physical areas under the organization's control.\n 2. Determine if policy has been approved, communicated, and reviewed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Media Transportation Policy and Procedures",
+        "Control ID": "DCS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the secure transportation of physical media. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures for secure transportation of physical media.\n 2. Determine if policy has been approved, communicated, and reviewed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Classification",
+        "Control ID": "DCS-05",
+        "Control Specification": "Classify and document the physical, and logical assets (e.g., applications)\n based on the organizational business risk.",
+        "Auditing Guidelines": "1. Examine the policy relating to defining the organization's business risk.\n 2. Confirm that the physical and logical assets are being classified in accordance with defined policy and procedures. \n 3. Review the asset Inventory to determine if assets are catalogued and tagged according to the organization's business risk classification criteria."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Cataloguing and Tracking",
+        "Control ID": "DCS-06",
+        "Control Specification": "Catalogue and track all relevant physical and logical assets located\n at all of the CSP's sites within a secured system.",
+        "Auditing Guidelines": "1. Examine the policy relating to defining asset location and disposition.\n 2. Examine the asset registers and determine if they are stored and accessed securely."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Controlled Access Points",
+        "Control ID": "DCS-07",
+        "Control Specification": "Implement physical security perimeters to safeguard personnel, data,\n and information systems. Establish physical security perimeters between the\n administrative and business areas and the data storage and processing facilities\n areas.",
+        "Auditing Guidelines": "1. Examine the policy relating to physical security perimeters.\n 2. Examine the lists of types of areas in the organization, and the classification of each.\n 3. Determine if there are appropriate physical security barriers and if monitoring exists between areas."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Identification",
+        "Control ID": "DCS-08",
+        "Control Specification": "Use equipment identification as a method for connection authentication.",
+        "Auditing Guidelines": "1. Examine the policy relating to equipment classification and identification.\n 2. Determine if appropriate methods are implemented. \n 3. Confirm the existence of a process or procedure to track and maintain a list of appropriate equipment permitted for authorised connections."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Authorization",
+        "Control ID": "DCS-09",
+        "Control Specification": "Allow only authorized personnel access to secure areas, with all\n ingress and egress points restricted, documented, and monitored by physical\n access control mechanisms. Retain access control records on a periodic basis\n as deemed appropriate by the organization.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to access to secure areas.\n 2. Determine if the policy includes ingress and egress points to service and delivery areas.\n 3. Determine if procedures include activities and actions against unauthorized personnel in the premises. \n 4. Confirm that existence, review, and retention of Access logs for secure areas are aligned with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Surveillance System",
+        "Control ID": "DCS-10",
+        "Control Specification": "Implement, maintain, and operate datacenter surveillance systems\n at the external perimeter and at all the ingress and egress points to detect\n unauthorized ingress and egress attempts.",
+        "Auditing Guidelines": "1. Examine the policy relating to data center surveillance.\n 2. Determine if the policy includes ingress, egress and external perimeter to detect unauthorized access.\n 3. Determine if procedures include activities and actions against unauthorized personnel in the premises.\n 4. Review and determine if items identified in surveillance system logs for the premises have been actioned in accordance with policy and procedures.\n 5. Determine if logs are maintained and reviewed appropriately."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Unauthorized Access Response Training",
+        "Control ID": "DCS-11",
+        "Control Specification": "Train datacenter personnel to respond to unauthorized ingress or\n egress attempts.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to activities and actions to perform in case of unauthorized access.\n 2. Examine the policy and procedures related to datacenter’s personnel training.\n 3. Determine if the training content is appropriate and approved by the organization.\n 4. Ascertain that appropriate datacenter personnel have completed all relevant training through review of training plans and records. Confirm that these have been completed in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Cabling Security",
+        "Control ID": "DCS-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures that ensure a risk-based protection of power and telecommunication\n cables from a threat of interception, interference or damage at all facilities,\n offices and rooms.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to cabling Infrastructure.\n 2. Determine if risk registers are maintained for cabling (For plant and ancillary equipment)."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Environmental Systems",
+        "Control ID": "DCS-13",
+        "Control Specification": "Implement and maintain data center environmental control systems\n that monitor, maintain and test for continual effectiveness the temperature\n and humidity conditions within accepted industry standards.",
+        "Auditing Guidelines": "1. Confirm the existence of policy and procedures relating to environmental control in the datacenter.\n 2. Verify that the environment control systems are documented and operational in accordance with policy and procedures.\n 3. Determine if testing for operational control effectiveness is conducted at regular intervals.\n 4. Determine if environment system logs (e.g., temperature and humidity) are generated and if related monitoring controls are maintained.\n 5. Confirm that the system logs are reviewed on a periodic basis and items are disposed of in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Utilities",
+        "Control ID": "DCS-14",
+        "Control Specification": "Secure, monitor, maintain, and test utilities services for continual\n effectiveness at planned intervals.",
+        "Auditing Guidelines": "1. Confirm the existence of the policy and procedures relating to utilities services.\n 2. Confirm that the control effectiveness of utilities services is conducted at periodic intervals.\n 3. Determine if utility services logs are maintained and reviewed periodically.\n 4. Determine if testing of the utilities services is included in the CSP contract with the customer."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Location",
+        "Control ID": "DCS-15",
+        "Control Specification": "Keep business-critical equipment away from locations subject to high\n probability for environmental risk events.",
+        "Auditing Guidelines": "1. Examine the policy relating to environmental risk.\n 2. Determine if locations are assessed and classified for probability of environmental risk.\n 3. Determine if business-critical equipment is identified."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Security and Privacy Policy and Procedures",
+        "Control ID": "DSP-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the classification, protection and handling of data\n throughout its lifecycle, and according to all applicable laws and regulations,\n standards, and risk level. Review and update the policies and procedures at\n least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to data privacy. Determine if a framework exists to ensure that the organization monitors the regulatory and legislative environment for changes applicable to the organization. Confirm whether the organization has documented the roles and responsibilities that support the management of its policy.\n 2. Determine whether policy and procedure content is sufficient to direct the compliant and lawful management of personal data and to address non-compliance.\n 3. Confirm whether policy addresses the requirement that the organization's data is used only for authorized purposes and in compliance with legislation and regulation.\n 4. Examine if the policy and procedures are reviewed on an appropriate basis.\n 5. Examine the measure(s) that evaluate(s) compliance with the organization's data privacy and security policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated.\n 6. Examine documentation to determine if the function responsible for data privacy compliance reviews the information to determine whether the organization is compliant with current legislation and regulation.\n 7. Confirm that the procedure exists for follow-up on deviation to current legislation and regulations and is up to date."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Secure Disposal",
+        "Control ID": "DSP-02",
+        "Control Specification": "Apply industry accepted methods for the secure disposal of data from\n storage media such that data is not recoverable by any forensic means.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements related to the secure disposal of data from storage media. Establish that this process and key controls comply with the organization's data privacy and security policy. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Select a sample of disposal requests and assess whether they have followed the process through to completion. Confirm that all evidence was formally documented and recorded.\n 3. Examine measure(s) that evaluate(s) this process and determine if the measure(s) address(es) implementation of the process/control requirement(s) as stipulated. Reviews, tests, or audits should be completed periodically by the organization to measure the effectiveness of the implemented controls and to verify that non-compliance and opportunities for improvement are identified, evaluated for risk, reported, and corrected in a timely manner.\n 4. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Inventory",
+        "Control ID": "DSP-03",
+        "Control Specification": "Create and maintain a data inventory, at least for any sensitive\n data and personal data.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements for the population and management of its data inventory. Establish that this process and key controls comply with the organization's data privacy and security policy. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Select a sample of entries to ensure they have been recorded correctly on the inventory. The sample must include a proportion of sensitive and personal data entries.\n 3. Assess whether management of the data inventory meets the organization's expectations.\n 4. Examine measure(s) that evaluate(s) this process and determine if the measure(s) address(es) implementation of the process/control requirement(s) as stipulated. Reviews, tests, or audits should be completed periodically by the organization to measure the effectiveness of the implemented controls and to verify that non-compliance and opportunities for improvement are identified, evaluated for risk, reported, and corrected in a timely manner.\n 5. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Classification",
+        "Control ID": "DSP-04",
+        "Control Specification": "Classify data according to its type and sensitivity level.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements for classifying data. Establish that this process and key controls comply with the organization's data privacy and security policy. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Establish if the organization's data classification matrix is aligned with the organization's data classification requirements.\n 3. Select a sample of data to confirm that each item has been classified appropriately.\n 4. Examine measure(s) that evaluate(s) this process and determine if the measure(s) address(es) implementation of the process/control requirement(s) as stipulated. Reviews, tests, or audits should be completed periodically by the organization to measure the effectiveness of the implemented controls and to verify that non-compliance and opportunities for improvement are identified, evaluated for risk, reported, and corrected in a timely manner.\n 5. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Flow Documentation",
+        "Control ID": "DSP-05",
+        "Control Specification": "Create data flow documentation to identify what data is processed,\n stored or transmitted where. Review data flow documentation at defined intervals,\n at least annually, and after any change.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements for recording data flows and that a review is carried out at least annually. Establish that this process and key controls comply with the organization's data privacy and security policy. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Select a sample of documents to check that they have been completed to the correct specifications and reviewed. \n 3. Review if data flow documentation includes assessment for accuracy, completeness, timeliness, and sustainability of data (flow).\n 4. Examine measure(s) that evaluate(s) this process and determine if the measure(s) address(es) implementation of the process/control requirement(s) as stipulated. Reviews, tests, or audits should be completed periodically by the organization to measure the effectiveness of the implemented controls and to verify that non-compliance and opportunities for improvement are identified, evaluated for risk, reported, and corrected in a timely manner.\n 5. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Ownership and Stewardship",
+        "Control ID": "DSP-06",
+        "Control Specification": "Document ownership and stewardship of all relevant documented personal\n and sensitive data. Perform review at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's data owner process and roles and responsibilities documentation. Establish that this process and key controls comply with the organization's data privacy and security policy. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Establish that the organization maintains a source(s) of record of data owners and the records for which they are responsible. Establish that this must include personal data and sensitive data.\n 3. In the absence of a documented procedure, interview control owner(s) responsible for key staff involved in/with, and/or other relevant stakeholders impacted by the process/control requirement(s) and determine if the requirement(s) is/are understood. Evidence may be provided by observing individuals, systems and/or processes associated with data management to determine if the process requirements are generally understood and implemented consistently.\n 4. Select a range of entries to establish the information recorded is correct.\n 5. Assess whether oversight of the data ownership process meets the organization's expectations.\n 6. Examine if the documentation is reviewed on an annual basis.\n 7. Examine measure(s) that evaluate(s) this process and determine if the measure(s) address(es) implementation of the process/control requirement(s) as stipulated. Reviews, tests, or audits should be completed periodically by the organization to measure the effectiveness of the implemented controls and to verify that non-compliance and opportunities for improvement are identified, evaluated for risk, reported, and corrected in a timely manner.\n 8. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and corrected. Determine if the individual or office is able to correct issues without the need to routinely escalate the issues to the next level of management. Examine related records to determine if the individual or office conducted any follow-ups on the deviations to verify they were corrected as intended."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Protection by Design and Default",
+        "Control ID": "DSP-07",
+        "Control Specification": "Develop systems, products, and business practices based upon a principle\n of security by design and industry best practices.",
+        "Auditing Guidelines": "1. Examine whether the organization's policy, standards, and procedures create a framework which fosters a culture and expectation of “security through design.” Determine whether this content addresses the directive of the organization's culture and whether practices reflect security through design.\n 2. Examine whether the organization's governance framework, documents, controls, and metrics satisfy the organization and if its sub-processors comply with this requirement. Establish whether the organization has documented the roles and responsibilities involved.\n 3. Review the organization's data breaches log, the security incidents log, and project change failure records for examples where this requirement was not followed correctly. Further, confirm that action plans were identified and carried out.\n 4. Examine the measures that evaluate this organizational requirement and determine if the measures address implementation of process and control requirements as stipulated. \n 5. Obtain and examine supporting documentation maintained as evidence of these metrics to determine if the office or individual responsible reviews the information and if identified issues were investigated and remediated appropriately."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Privacy by Design and Default",
+        "Control ID": "DSP-08",
+        "Control Specification": "Develop systems, products, and business practices based upon a principle\n of privacy by design and industry best practices. Ensure that systems' privacy\n settings are configured by default, according to all applicable laws and regulations.",
+        "Auditing Guidelines": "1. Examine whether the organization's policy, standards, processes, and controls create a framework that fosters a culture and expectation of “data privacy through design.” Determine whether this content addresses the directive of the organization's culture and if practices reflect data privacy through design.\n 2. Examine whether the organization's governance framework, documents, controls, and metrics satisfy the organization and whether its sub-processors comply with this requirement. Establish whether the organization has documented the roles and responsibilities involved.\n 3. Review the organization's data breaches log, the security incidents log, and project change failure records for examples where this requirement was not followed correctly. Further, confirm that action plans were identified and carried out appropriately."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Protection Impact Assessment",
+        "Control ID": "DSP-09",
+        "Control Specification": "Conduct a Data Protection Impact Assessment (DPIA) to evaluate the\n origin, nature, particularity and severity of the risks upon the processing\n of personal data, according to any applicable laws, regulations and industry\n best practices.",
+        "Auditing Guidelines": "1. Examine procedures related to DPIA risk assessment and determine if once a requirement has been established, the organization identifies and grades the associated risks and reports and prioritizes the remediation of risks and non-compliance activities. Examine whether the DPIA process and templates align to the organization's risk methodology and taxonomy.\n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a sample of DPIAs and examine evidence to confirm that each assessment was performed to identify associated risks. Further, confirm that any action plans were identified and carried out appropriately. Confirm that all relevant evidence was formally documented."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Sensitive Data Transfer",
+        "Control ID": "DSP-10",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures that ensure any transfer of personal or sensitive data is protected\n from unauthorized access and only processed within scope as permitted by the\n respective laws and regulations.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements for the secure and lawful transfer of personal data and sensitive data. Establish that this process and key controls comply with the organization's data privacy and security policy. \n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a range of personal data transfers and a range of sensitive data transfers to confirm that each transfer adhered to the organization's policy, procedures, and controls. Confirm that all relevant evidence was formally documented."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Personal Data Access, Reversal, Rectification and Deletion",
+        "Control ID": "DSP-11",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\n to enable data subjects to request access to, modification, or deletion of their\n personal data, according to any applicable laws and regulations.",
+        "Auditing Guidelines": "1. Examine whether the organization's policy and procedures related to data privacy addresses the requirement that authorized users must be able to access, modify, or delete personal data. Establish whether the organization has processes in place to manage and respond to data access requests from data subjects. Establish whether the organization has documented the roles and responsibilities for this process.\n 2. Select a range of data changes to confirm that only authorized users are able to successfully access, modify and delete personal data. Select a sample of data access requests to establish that these were completed correctly following the organization's processes. Confirm that all relevant evidence was formally documented."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Limitation of Purpose in Personal Data Processing",
+        "Control ID": "DSP-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to ensure that personal data is processed according to any applicable\n laws and regulations and for the purposes declared to the data subject.",
+        "Auditing Guidelines": "1. Examine whether the organization's policy and procedures related to data privacy address the requirement that data the organization is responsible for is processed lawfully and used only for the purposes stated to data subjects.\n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Review the organization's data breaches and confirm that action plans were identified and carried out appropriately. Confirm that all supporting evidence was formally documented. \n 4. Review the organization's processes that inform data subjects why the organization requests this data and what it will be used for. Confirm that any organization documentation (including web page content) is subject to formal periodic review for relevance and compliance to legislation and regulation."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Personal Data Sub-processing",
+        "Control ID": "DSP-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the transfer and sub-processing of personal data within the service\n supply chain, according to any applicable laws and regulations.",
+        "Auditing Guidelines": "1. Examine the organization's contractual terms, procedures, roles and responsibility documents and technical requirements for the transfer of personal data and sensitive data to sub-processors and how sub-processors are to treat this data.\n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a sample of data transfers to sub-processors to establish that the controls and reporting the sub-processor are in place and ensure that these comply with the organization's data privacy and security policy.\n 4. Examine the organization's contractual requirements for sub-processor compliance, reporting and non-compliance sanctions, and the organization's right to audit. Establish sub-processors' processes, controls and metrics to comply with those of the organization."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Disclosure of Data Sub-processors",
+        "Control ID": "DSP-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to disclose the details of any personal or sensitive data access by\n sub-processors to the data owner prior to initiation of that processing.",
+        "Auditing Guidelines": "1. Examine the organization's contractual requirements and procedures whereby sub-processors will disclose all occasions when personal or sensitive data was accessible by sub-processors prior to initiation of that processing.\n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a sample of data transfers to sub-processors to establish that the controls and reporting the sub-processor are in place and ensure that these comply with the organization's data privacy and security policy.\n \n Note: A real-life case will be rare. Should it not be possible to follow a real-life case, a theoretical case should be tested to establish that systems, processes, and controls are operating as designed and as agreed with the sub-processor."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Limitation of Production Data Use",
+        "Control ID": "DSP-15",
+        "Control Specification": "Obtain authorization from data owners, and manage associated risk\n before replicating or using production data in non-production environments.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements related to the use of production data in non-production environments or requests to replicate production data for use in non-production environments.\n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a sample of requests and assess whether such requests have followed the approval and secure deployment processes through to completion. Confirm that all relevant evidence was formally documented and recorded. \n 4. Review the organization's data breaches for examples in which this requirement was not followed correctly. Further, confirm that any appropriate action plans were identified and carried out."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Retention and Deletion",
+        "Control ID": "DSP-16",
+        "Control Specification": "Data retention, archiving and deletion is managed in accordance with\n business requirements, applicable laws and regulations.",
+        "Auditing Guidelines": "1. Examine the organization's procedures, technical requirements and other documentation for the retention, archiving and deletion of data. \n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Establish that the organization maintains a source(s) of record of data types, owners, and retention periods. Select a range of entries to establish that the information recorded is correct.\n 4. Establish how the organization determines that its retention records are accurate and complete. Establish that the organization has documented its understanding of the extent of its remit in terms of its role as a supplier and the extent of its own supplier's obligations to this requirement.\n 5. Confirm that the data retention process meets the organization's requirements as detailed in policy and procedures."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Sensitive Data Protection",
+        "Control ID": "DSP-17",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\n to protect sensitive data throughout it's lifecycle.",
+        "Auditing Guidelines": "1. Examine whether the organization's policy and procedures related to data privacy address the requirement to manage and protect sensitive data throughout its lifecycle. \n 2. Establish whether the organization has documented the roles and responsibilities for this process.\n 3. Select a sample of sensitive data types to establish the systems, processes, and controls operating to manage sensitive data throughout its lifecycle. Select a sample to establish the examples following the organization's processes.\n 4. Review the organization's data breaches for examples for which this requirement was not followed correctly. Further, confirm that any relevant action plans were identified and carried out. Confirm that all relevant evidence was formally documented."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Disclosure Notification",
+        "Control ID": "DSP-18",
+        "Control Specification": "The CSP must have in place, and describe to CSCs the procedure to\n manage and respond to requests for disclosure of Personal Data by Law Enforcement\n Authorities according to applicable laws and regulations. The CSP must give\n special attention to the notification procedure to interested CSCs, unless otherwise\n prohibited, such as a prohibition under criminal law to preserve confidentiality\n of a law enforcement investigation.",
+        "Auditing Guidelines": "1. Examine the organization's procedures and technical requirements related to personal data requests from law enforcement authorities. \n 2. Establish that processes and controls comply with the organization's data privacy and security policy. \n 3. Establish whether the organization has documented the roles and responsibilities for this process.\n 4. Select a sample of requests and assess whether such requests have followed the approvals and secure communication processes through to completion. Confirm that all evidence was formally documented. \n 5. Review the organization's data breaches for examples for which this requirement was not followed correctly. Further, confirm that relevant action plans were identified and carried out."
+    },
+    {
+        "Control Domain": "Data Security and Privacy Lifecycle Management",
+        "Control Title": "Data Location",
+        "Control ID": "DSP-19",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\n to specify and document the physical locations of data, including any locations\n in which data is processed or backed up.",
+        "Auditing Guidelines": "1. Examine the organization's procedures, technical requirements, and other documentation to direct, manage and review the records of the organization's data physical storage locations. \n 2. Establish whether the organization has documented the roles and responsibilities for this process. \n 3. Confirm that the organization’s policy and procedures include details of guidelines for the storage and processing of data within the designated countries/regions/zones/jurisdictions.\n 4. Establish that the organization maintains a source(s) of record of its physical data storage locations and is able to trace data lineage. Select a range of entries to establish that the information is recorded appropriately.\n 5. Confirm that the data storage records are accurate and complete as detailed in policy and procedures.\n 6. Establish that the organization has documented its understanding of the extent of its remit in terms of its role as a supplier and the extent of its own supplier's obligations to this requirement.\n 7. Confirm that the data storage process meets the organization's requirements as detailed in policy and procedures."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Program Policy and Procedures",
+        "Control ID": "GRC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for an information governance program, which is sponsored\n by the leadership of the organization. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to information governance programs to determine whether the organization has developed a comprehensive strategy for information governance.\n 2. Examine policies and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Risk Management Program",
+        "Control ID": "GRC-02",
+        "Control Specification": "Establish a formal, documented, and leadership-sponsored Enterprise\n Risk Management (ERM) program that includes policies and procedures for identification,\n evaluation, ownership, treatment, and acceptance of cloud security and privacy\n risks.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine whether the organization has developed a comprehensive strategy to manage risk to organizational operations and assets, and individuals.\n 2. Review ERM documentation, processes, and supporting evidence to confirm if the ERM program includes provisions for cloud security and privacy risk. \n 3. Examine measure(s) that evaluate(s) the organization's compliance with the risk management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level. \n 4. Obtain and examine supporting evidence to determine if the office or individual responsible reviews the information and, if issues were identified, if they were investigated and remediated appropriately."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Organizational Policy Reviews",
+        "Control ID": "GRC-03",
+        "Control Specification": "Review all relevant organizational policies and associated procedures\n at least annually or when a substantial change occurs within the organization.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine if the organization reviews these documents at least annually or when a substantial change occurs within the organization.\n 2. Confirm that Policy reviews have taken place in compliance with the organization's review requirements and that any exceptions identified are investigated and remediated."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Policy Exception Process",
+        "Control ID": "GRC-04",
+        "Control Specification": "Establish and follow an approved exception process as mandated by\n the governance program whenever a deviation from an established policy occurs.",
+        "Auditing Guidelines": "1.Examine the policy and/or procedures to determine if the policy exception process has been established.\n 2.Identify and confirm that exceptions to policies are tracked, authorised, and evidenced.\n 3.Confirm a review of policy exceptions takes place on a periodic basis by appropriate management."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information Security Program",
+        "Control ID": "GRC-05",
+        "Control Specification": "Develop and implement an Information Security Program, which includes\n programs for all the relevant domains of the CCM.",
+        "Auditing Guidelines": "1. Examine the policy and/or procedures related to the Information Security Program to determine whether the organization has developed and implemented a comprehensive strategy to manage Information Security across the organization.\n 2. Review the details of the information security program and establish if this covers the CCMv4 relevant domains.\n 3. Confirm that identified gaps/issues are being tracked, monitored, and remediated with appropriate escalation where required."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Responsibility Model",
+        "Control ID": "GRC-06",
+        "Control Specification": "Define and document roles and responsibilities for planning, implementing,\n operating, assessing, and improving governance programs.",
+        "Auditing Guidelines": "1. Confirm the organization has established a governance framework which details roles, responsibilities, and accountability.\n 2. Evidence that governance meetings are reported and documented appropriately.\n 3. Confirm that individuals/groups responsible for governance are tracking and monitoring progress against the governance program."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information System Regulatory Mapping",
+        "Control ID": "GRC-07",
+        "Control Specification": "Identify and document all relevant standards, regulations, legal/contractual,\n and statutory requirements, which are applicable to your organization.",
+        "Auditing Guidelines": "1. Confirm that policy and procedures include provisions to identify and document all relevant standards, regulations, legal/contractual, and statutory requirements.\n 2. Establish that the organization maintains an inventory of CCM controls and relevant regulatory information is mapped across to the CCM inventory. \n 3. Identify and examine any metrics and supporting evidence to provide assurance that the information system regulatory mapping is reviewed on a periodic basis, and that any gaps in the mapping are appropriately actioned."
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Special Interest Groups",
+        "Control ID": "GRC-08",
+        "Control Specification": "Establish and maintain contact with cloud-related special interest\n groups and other relevant entities in line with business context.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to contact with cloud-related special interest groups to determine if membership is required and actively maintained.\n 2. Identify relevant individuals responsible for contacting cloud-related special interest groups and determine if the policy requirements stipulated in the policy level have been implemented."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Background Screening Policy and Procedures",
+        "Control ID": "HRS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for background verification of all new employees (including\n but not limited to remote employees, contractors, and third parties) according\n to local laws, regulations, ethics, and contractual constraints and proportional\n to the data classification to be accessed, the business requirements, and acceptable\n risk. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine the process for selection of local laws, regulations, ethics, and contractual constraints, and for review of its output.\n 3. Verify that the background verification required is mapped to the risks and data classification.\n 4. Examine the policy and procedures for evidence of review at least annually.\n 5. Examine Human Resources tickets upon hire which trigger background review and final confirmation from third party conducting background reviews showing it has been completed and how exceptions or failed checks have been addressed."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Acceptable Use of Technology Policy and Procedures",
+        "Control ID": "HRS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for defining allowances and conditions for the acceptable\n use of organizationally-owned or managed assets. Review and update the policies\n and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of organizationally-owned or managed assets exists, and is implemented.\n 3. Verify, via Interviews or otherwise, that the policy is communicated to users.\n 4. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Clean Desk Policy and Procedures",
+        "Control ID": "HRS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures that require unattended workspaces to not have openly\n visible confidential data. Review and update the policies and procedures at\n least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that secure and unsecure work areas are defined and demarcated.\n 3. Verify that confidential data is classified appropriately, and that the classification is available at point-of-use.\n 4. Verify, via Interviews or otherwise, that the policy is communicated to users.\n 5. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Remote and Home Working Policy and Procedures",
+        "Control ID": "HRS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures to protect information accessed, processed or stored\n at remote sites and locations. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify, via Interviews or otherwise, that remote sites and locations, especially those not under the control of the organization, are defined and demarcated.\n 3. Verify, via Interviews or otherwise, that the policy and procedures are communicated to users.\n 4. Examine policy and procedures for evidence of review or at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Asset returns",
+        "Control ID": "HRS-05",
+        "Control Specification": "Establish and document procedures for the return of organization-owned\n assets by terminated employees.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of organizationally-owned assets exists, and is implemented.\n 3. Verify that a definition of terminated employees exists, and is implemented.\n 4. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Termination",
+        "Control ID": "HRS-06",
+        "Control Specification": "Establish, document, and communicate to all personnel the procedures\n outlining the roles and responsibilities concerning changes in employment.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Verify that organization charts are maintained and available as appropriate.\n 3. Verify that a definition of terminated employees exists, and is implemented.\n 4. Examine policy and procedures for notification of stakeholders upon changes in employment, or of roles, and the appropriate activities are triggered, i.e. access changes, asset return, etc."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Process",
+        "Control ID": "HRS-07",
+        "Control Specification": "Employees sign the employee agreement prior to being granted access\n to organizational information systems, resources and assets.",
+        "Auditing Guidelines": "1. Verify that the organization has defined formats and templates of employment agreements.\n 2. Verify, if more than one Agreement is used, that they are mapped to appropriate roles and job descriptions.\n 3. Examine the policy and procedures that mandate the signing of such Agreement before access is granted."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Content",
+        "Control ID": "HRS-08",
+        "Control Specification": "The organization includes within the employment agreements provisions\n and/or terms for adherence to established information governance and security\n policies.",
+        "Auditing Guidelines": "1. Verify that the organization has defined formats and templates of Employment Agreements.\n 2. Verify that the Agreements include references to the organization's Information Security Management System (ISMS), and that they mandate compliance."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personnel Roles and Responsibilities",
+        "Control ID": "HRS-09",
+        "Control Specification": "Document and communicate roles and responsibilities of employees,\n as they relate to information assets and security.",
+        "Auditing Guidelines": "1. Verify that organization charts are maintained and available as appropriate.\n 2. Verify that the Role or Job Descriptions refer to the appropriate ISMS requirements.\n 3. Verify, by Interviews or otherwise, that employees and stakeholders are aware of the roles or job descriptions, and that these are reviewed."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Non-Disclosure Agreements",
+        "Control ID": "HRS-10",
+        "Control Specification": "Identify, document, and review, at planned intervals, requirements\n for non-disclosure/confidentiality agreements reflecting the organization's\n needs for the protection of data and operational details.",
+        "Auditing Guidelines": "1. Examine if the organization has identified its requirements for non-disclosure and confidentiality.\n 2. Determine the planned interval for review.\n 3. Verify that the requirements are reviewed at such planned intervals."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Security Awareness Training",
+        "Control ID": "HRS-11",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a security awareness training program for all employees of the organization\n and provide regular training updates.",
+        "Auditing Guidelines": "1. Examine the security awareness training program for adequacy, currency, communication, and effectiveness.\n 2. Verify, by Interviews or otherwise, that the training program has been implemented.\n 3. Verify that the scope of the training program extends to all employees.\n 4. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personal and Sensitive Data Awareness and Training",
+        "Control ID": "HRS-12",
+        "Control Specification": "Provide all employees with access to sensitive organizational and\n personal data with appropriate security awareness training and regular updates\n in organizational procedures, processes, and policies relating to their professional\n function relative to the organization.",
+        "Auditing Guidelines": "1. Examine the security awareness training program for adequacy, currency, communication, and effectiveness.\n 2. Verify that a definition of sensitive organizational and personal data exists, and is implemented.\n 3. Verify, by Interviews or otherwise, that the training program has been implemented.\n 4. Verify that the scope of the training program extends to all employees with access to such data.\n 5. Examine policy and procedures for evidence of review."
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Compliance User Responsibility",
+        "Control ID": "HRS-13",
+        "Control Specification": "Make employees aware of their roles and responsibilities for maintaining\n awareness and compliance with established policies and procedures and applicable\n legal, statutory, or regulatory compliance obligations.",
+        "Auditing Guidelines": "1. Examine the process for selection of applicable legal, statutory, or regulatory compliance obligations, and for review of its output.\n 2. Verify, by Interviews or otherwise, that employees are aware of their roles and responsibilities with respect to such obligations."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity and Access Management Policy and Procedures",
+        "Control ID": "IAM-01",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\n and maintain policies and procedures for identity and access management. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to identity and access management to determine if policy and/or procedure content:\n  a. addresses the provisioning, modification and deprovisioning of logical access.\n  b. establishes password complexity and management requirements.\n  c. addresses authorization concept following separation of duties and least privilege.\n  d. addresses privileged access management and access reviews.\n  e. includes roles and responsibilities for provisioning, modifying and deprovisioning of logical access.\n  f. understands the delineation of identity and access management control responsibility in relation to the shared responsibility model.\n 2. Determine if the policy is clearly communicated and available to stakeholders.\n 3. Examine if policy and procedures are reviewed and updated at least annually."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Password Policy and Procedures",
+        "Control ID": "IAM-02",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\n and maintain strong password policies and procedures. Review and update the\n policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to passwords to determine if minimum password complexity requirements are defined.\n 2. Determine if the organization enforces minimum password complexity requirements as defined in policy.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity Inventory",
+        "Control ID": "IAM-03",
+        "Control Specification": "Manage, store, and review the information of system identities, and\n level of access.",
+        "Auditing Guidelines": "1. Determine if the organization has defined acceptable storage methods and locations of system identities.\n 2. Evaluate if the organization is consistently utilizing approved methods and locations to store system identities.\n 3. Evaluate if access to stored identities is managed following established processes."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Separation of Duties",
+        "Control ID": "IAM-04",
+        "Control Specification": "Employ the separation of duties principle when implementing information\n system access.",
+        "Auditing Guidelines": "1. Determine if divisions of responsibility and separation of duties are defined and documented.\n 2. Determine if information system access authorizations are established to support separation of duties."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Least Privilege",
+        "Control ID": "IAM-05",
+        "Control Specification": "Employ the least privilege principle when implementing information\n system access.",
+        "Auditing Guidelines": "1.Examine the policy to determine the least privilege required for each role or user.\n 2.Evaluate the effectiveness of the implementation and review of policy."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Provisioning",
+        "Control ID": "IAM-06",
+        "Control Specification": "Define and implement a user access provisioning process which authorizes,\n records, and communicates access changes to data and assets.",
+        "Auditing Guidelines": "1. Determine if personnel required to approve system access requests are identified and documented.\n 2. Evaluate if access requests are documented and approved by required personnel prior to access provisioning."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Changes and Revocation",
+        "Control ID": "IAM-07",
+        "Control Specification": "De-provision or respectively modify access of movers / leavers or\n system identity changes in a timely manner in order to effectively adopt and\n communicate identity and access management policies.",
+        "Auditing Guidelines": "1. Determine if a process is established for removing logical access when users leave the organization or when access is no longer appropriate.\n 2. Determine if a timeframe for access removal and access modification is defined.\n 3. Verify that a process is established for removing existing system access and assigning appropriate access or for modifying existing access after internal transfer or change of job functions.\n 4. Determine if established processes for access removal and modification, within the defined time frame, are followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Review",
+        "Control ID": "IAM-08",
+        "Control Specification": "Review and revalidate user access for least privilege and separation\n of duties with a frequency that is commensurate with organizational risk tolerance.",
+        "Auditing Guidelines": "1. Determine if the required frequency for review of accounts is established.\n 2. Determine if accounts are reviewed for compliance, including the level of access and conflicting access, following the principle of least privilege and consideration of separation of duties.\n 3. Determine if accounts are reviewed at the organization-defined frequency."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Segregation of Privileged Access Roles",
+        "Control ID": "IAM-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the segregation of privileged access roles such that administrative\n access to data, encryption and key management capabilities and logging capabilities\n are distinct and separated.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for the separation of privileged access are defined and include requirements for separation of administrative access to data, encryption, key management and logging capabilities.\n 2. Evaluate if established processes, procedures and technical measures for the separation of privileged access are implemented and followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Management of Privileged Access Roles",
+        "Control ID": "IAM-10",
+        "Control Specification": "Define and implement an access process to ensure privileged access\n roles and rights are granted for a time limited period, and implement procedures\n to prevent the culmination of segregated privileged access.",
+        "Auditing Guidelines": "1. Determine if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is defined.\n 2. Determine if procedures address the prevention of culmination of segregated privileged access.\n 3. Evaluate if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is implemented and consistently followed in practice.\n 4. Evaluate if procedures that address the prevention of culmination of segregated privileged access is implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "CSCs Approval for Agreed Privileged Access Roles",
+        "Control ID": "IAM-11",
+        "Control Specification": "Define, implement and evaluate processes and procedures for customers\n to participate, where applicable, in the granting of access for agreed, high\n risk (as defined by the organizational risk assessment) privileged access roles.",
+        "Auditing Guidelines": "1. Determine if processes and procedures for customers to participate, where applicable, in the granting of access for agreed, high risk (as defined by the organizational risk assessment) privileged access roles are defined, implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Safeguard Logs Integrity",
+        "Control ID": "IAM-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to ensure the logging infrastructure is read-only for all with write\n access, including privileged access roles, and that the ability to disable it\n is controlled through a procedure that ensures the segregation of duties and\n break glass procedures.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures are defined for log management.\n 2. Determine if processes, procedures and technical measures for log management include the following two requirements:\n  a. the logging infrastructure is read-only for all with write access, including privileged access roles.\n  b. the ability to disable and/or modify logs is controlled following separation of duties and established break glass procedures.\n 3. Evaluate if the processes, procedures and technical measures for log management are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Uniquely Identifiable Users",
+        "Control ID": "IAM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures that ensure users are identifiable through unique IDs or which can\n associate individuals to the usage of user IDs.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures are defined and require that users are identifiable through unique IDs or by association of individuals to the usage of user IDs.\n 2. Determine if the established processes, procedures and technical measures are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Authentication",
+        "Control ID": "IAM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for authenticating access to systems, application and data assets,\n including multifactor authentication for at least privileged user and sensitive\n data access. Adopt digital certificates or alternatives which achieve an equivalent\n level of security for system identities.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are defined and maintained.\n 2. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data include organization-defined requirements for specific use cases of multifactor authentication, digital certificates and/or alternative security measures.\n 3. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Passwords Management",
+        "Control ID": "IAM-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the secure management of passwords.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for the secure management of passwords are defined.\n 2. Determine if processes, procedures and technical measures for the secure management of passwords are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Authorization Mechanisms",
+        "Control ID": "IAM-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to verify access to data and system functions is authorized.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are defined.\n 2. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Interoperability and Portability Policy and Procedures",
+        "Control ID": "IPY-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for interoperability and portability including\n requirements for:\n a. Communications between application interfaces\n b. Information processing interoperability\n c. Application development portability\n d. Information/Data exchange, usage, portability, integrity, and persistence\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine the inventory of documentation that establishes the requirements and communication of this control.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Application Interface Availability",
+        "Control ID": "IPY-02",
+        "Control Specification": "Provide application interface(s) to CSCs so that they programmatically\n retrieve their data to enable interoperability and portability.",
+        "Auditing Guidelines": "1. Examine the list of Application Programming Interfaces (API) available to Cloud Service Consumers.\n 2. Determine if such list and usable documentation is made available to Cloud Service Consumers."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Secure Interoperability and Portability Management",
+        "Control ID": "IPY-03",
+        "Control Specification": "Implement cryptographically secure and standardized network protocols\n for the management, import and export of data.",
+        "Auditing Guidelines": "1. Examine the policy for the secure transmission of requests and data.\n 2. Inspect the requirements, with respect to any security domains defined.\n 3. Examine the policy that specifies protocols for transmission, with respect to standardization."
+    },
+    {
+        "Control Domain": "Interoperability & Portability",
+        "Control Title": "Data Portability Contractual Obligations",
+        "Control ID": "IPY-04",
+        "Control Specification": "Agreements must include provisions specifying CSCs access to data\n upon contract termination and will include:\n a. Data format\n b. Length of time the data will be stored\n c. Scope of the data retained and made available to the CSCs\n d. Data deletion policy",
+        "Auditing Guidelines": "1. Examine the standard form of contract for offboarding the Cloud Service Consumers.\n 2. Determine if non-standard clauses allow the Cloud Service Consumers to waive such rights.\n 3. Determine if there are requests for data in unsupported formats.\n 4. Examine the policy regarding deletion of resources no longer in the control of a client, and determine if such policy corresponds to the contractual data retention."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Infrastructure and Virtualization Security Policy and Procedures",
+        "Control ID": "IVS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for infrastructure and virtualization security. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Interview the team to determine if policy and procedures have been documented.\n 2. Evaluate the documented policy to determine if it has been approved and communicated to the relevant internal and external teams.\n 3. Determine if the policy has been applied to the infrastructure and virtualization security operations and if relevant procedures have been drafted.\n 4. Determine if the procedures are periodically evaluated and if they are maintained, up to date, and relevant.\n 5. Determine if policy and procedures are reviewed and updated on an annual basis. Policy may contain segregation of environments and roles, change management requirements and continuous exercising."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Capacity and Resource Planning",
+        "Control ID": "IVS-02",
+        "Control Specification": "Plan and monitor the availability, quality, and adequate capacity\n of resources in order to deliver the required system performance as determined\n by the business.",
+        "Auditing Guidelines": "1. Determine if the business requirements for system performance are available.\n 2. Determine if evidence exists that points to planning and monitoring of the availability, quality and capacity of resources.\n 3. Determine if evidence exists that establishes that the plan is appropriate and adequate to meet the expectations of the business requirements established in the first guideline."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Security",
+        "Control ID": "IVS-03",
+        "Control Specification": "Monitor, encrypt and restrict communications between environments\n to only authenticated and authorized connections, as justified by the business.\n Review these configurations at least annually, and support them by a documented\n justification of all allowed services, protocols, ports, and compensating controls.",
+        "Auditing Guidelines": "1. Examine the policy for communication between environments.\n 2. Examine the criteria for business justification of communication, and reviews.\n 3. Determine if the inventory of allowed communication has been reviewed, at least annually.\n 4. Evaluate the effectiveness of the monitoring and encryption of such communication.\n 5. Evaluate the details of business justification, and its review."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "OS Hardening and Base Controls",
+        "Control ID": "IVS-04",
+        "Control Specification": "Harden host and guest OS, hypervisor or infrastructure control plane\n according to their respective best practices, and supported by technical controls,\n as part of a security baseline.",
+        "Auditing Guidelines": "1. Determine if the host and the guest OS has been hardened as per best practices.\n 2. Determine if the hypervisor or infrastructure control planes are hardened as per best practices.\n 3. Determine if appropriate technical controls exist that ensure that the hardening is done.\n 4. Determine if a security baseline has been set up.\n 5. Determine if the security baseline contains information about the hardening done."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Production and Non-Production Environments",
+        "Control ID": "IVS-05",
+        "Control Specification": "Separate production and non-production environments.",
+        "Auditing Guidelines": "1. Verify if production and non-production environments are appropriately segregated.\n 2. Verify if the segregation is reviewed and managed during change management.\n 3. Verify the classification of data contained in each environment."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Segmentation and Segregation",
+        "Control ID": "IVS-06",
+        "Control Specification": "Design, develop, deploy and configure applications and infrastructures\n such that CSP and CSC (tenant) user access and intra-tenant access is appropriately\n segmented and segregated, monitored and restricted from other tenants.",
+        "Auditing Guidelines": "1. Review evidence to verify that the design and development of applications and infrastructure ensure appropriate best practices such as hardening, segmentation, and segregation is incorporated and the shared responsibility model between the CSP and CSC is maintained.\n 2. Review evidence to verify that the deployment and configuration of applications and infrastructure follow appropriate hardening, segmentation, and segregation is incorporated and the shared responsibility model between the CSP and CSC is maintained.\n 3. Review evidence to determine that segmentation and segregation is monitored.\n 4. Review evidence to determine that the tenants are isolated from each other."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Migration to Cloud Environments",
+        "Control ID": "IVS-07",
+        "Control Specification": "Use secure and encrypted communication channels when migrating servers,\n services, applications, or data to cloud environments. Such channels must include\n only up-to-date and approved protocols.",
+        "Auditing Guidelines": "1. Examine the list of environments that will be the target of migrations.\n 2. Examine the criteria for maintaining a list of approved protocols.\n 3. Examine the records of migrations."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Architecture Documentation",
+        "Control ID": "IVS-08",
+        "Control Specification": "Identify and document high-risk environments.",
+        "Auditing Guidelines": "1. Examine the criteria for identifying high-risk environments.\n 2. Examine the inventory of high-risk environments, and periodicity of review."
+    },
+    {
+        "Control Domain": "Infrastructure & Virtualization Security",
+        "Control Title": "Network Defense",
+        "Control ID": "IVS-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and defense-in-depth\n techniques for protection, detection, and timely response to network-based attacks.",
+        "Auditing Guidelines": "1. Interview the team to evaluate if they have defined processes and procedures for protection, detection and timely response to address network based attacks.\n 2. Review evidence to establish that the defined processes and procedures have been implemented.\n 3. Review evidence to establish that the processes and procedures are evaluated and validated periodically.\n 4. Review evidence to establish that the processes and procedures are based upon a defense-in-depth.\n 5. Review evidence to support the effective activation of incident response plans when necessary including the associated communication protocols."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging and Monitoring Policy and Procedures",
+        "Control ID": "LOG-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for logging and monitoring. Review and update the policies\n and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's logging and monitoring requirements.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Protection",
+        "Control ID": "LOG-02",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to ensure the security and retention of audit logs.",
+        "Auditing Guidelines": "1. Examine the organization’s log retention requirements.\n 2. Evaluate the policy and technical measures with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Security Monitoring and Alerting",
+        "Control ID": "LOG-03",
+        "Control Specification": "Identify and monitor security-related events within applications\n and the underlying infrastructure. Define and implement a system to generate\n alerts to responsible stakeholders based on such events and corresponding metrics.",
+        "Auditing Guidelines": "1. Examine policy related to the security monitoring and alerting, and determine if security-related events within applications and the underlying infrastructure are identified.\n 2. Examine processes related to identifying responsible stakeholders for the purpose of alerting.\n 3. Evaluate the implementation with respect to effectiveness, and conduct a review of metrics."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Access and Accountability",
+        "Control ID": "LOG-04",
+        "Control Specification": "Restrict audit logs access to authorized personnel and maintain records\n that provide unique access accountability.",
+        "Auditing Guidelines": "1. Examine policy related to the protection of log information.\n 2. Determine if the control requirements stipulated in the policy have been implemented.\n 3. Examine policy related to the maintenance of access records."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Monitoring and Response",
+        "Control ID": "LOG-05",
+        "Control Specification": "Monitor security audit logs to detect activity outside of typical\n or expected patterns. Establish and follow a defined process to review and take\n appropriate and timely actions on detected anomalies.",
+        "Auditing Guidelines": "1. Examine policy for the monitoring of audit logs.\n 2. Determine if policy and patterns have been established for anomalous activities.\n 3. Examine policy for the review of, and timely action on anomalies."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Clock Synchronization",
+        "Control ID": "LOG-06",
+        "Control Specification": "Use a reliable time source across all relevant information processing\n systems.",
+        "Auditing Guidelines": "1. Examine policy that establishes the time scale and epoch, or traceability, of time across systems.\n 2. Evaluate the process that ensures synchronization of time on relevant systems."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging Scope",
+        "Control ID": "LOG-07",
+        "Control Specification": "Establish, document and implement which information meta/data system\n events should be logged. Review and update the scope at least annually or whenever\n there is a change in the threat environment.",
+        "Auditing Guidelines": "1. Examine policy for the identification of loggable events, applications, or systems. \n 2. Examine the outputs of such identification, with respect to review and approval.\n 3. Examine scope for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Records",
+        "Control ID": "LOG-08",
+        "Control Specification": "Generate audit records containing relevant security information.",
+        "Auditing Guidelines": "1. Examine policy related to audit logging and determine if it includes requirements to generate audit records containing relevant security information.\n 2. Examine audit records and determine if they adequately reflect the policy."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Protection",
+        "Control ID": "LOG-09",
+        "Control Specification": "The information system protects audit records from unauthorized access,\n modification, and deletion.",
+        "Auditing Guidelines": "1. Examine policy for the protection of audit records.\n 2. Evaluate the use of technical measures in the protection of audit records."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Encryption Monitoring and Reporting",
+        "Control ID": "LOG-10",
+        "Control Specification": "Establish and maintain a monitoring and internal reporting capability\n over the operations of cryptographic, encryption and key management policies,\n processes, procedures, and controls.",
+        "Auditing Guidelines": "1. Examine policy related to the monitoring and reporting of operations of cryptographic policy.\n 2. Examine the process to identify such a policy.\n 3. Evaluate the effectiveness of such reporting capability."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Transaction/Activity Logging",
+        "Control ID": "LOG-11",
+        "Control Specification": "Log and monitor key lifecycle management events to enable auditing\n and reporting on usage of cryptographic keys.",
+        "Auditing Guidelines": "1. Examine policy for logging and monitoring usage of cryptographic key usage lifecycle events.\n 2. Examine the process to identify such events.\n 3. Evaluate the review of these logs."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Access Control Logs",
+        "Control ID": "LOG-12",
+        "Control Specification": "Monitor and log physical access using an auditable access control\n system.",
+        "Auditing Guidelines": "1. Examine policy for logging and monitoring physical access.\n 2. Examine the process to identify such events.\n 3. Evaluate the review of these logs."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Failures and Anomalies Reporting",
+        "Control ID": "LOG-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the reporting of anomalies and failures of the monitoring system\n and provide immediate notification to the accountable party.",
+        "Auditing Guidelines": "1. Examine the policy for reporting of anomalies and failures of the monitoring system.\n 2. Examine the process for identifying accountable parties."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Incident Management Policy and Procedures",
+        "Control ID": "SEF-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for Security Incident Management, E-Discovery, and Cloud\n Forensics. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, E-Discovery and Cloud Forensics.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Service Management Policy and Procedures",
+        "Control ID": "SEF-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the timely management of security incidents. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, with respect to timely management.\n 2. Examine the policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Plans",
+        "Control ID": "SEF-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a security incident response plan, which includes but is not limited to: relevant\n internal departments, impacted CSCs, and other business critical relationships\n (such as supply-chain) that may be impacted.'",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, with respect to timely management.\n 2. Examine the processes to identify impacted stakeholders.\n 3. Determine if this plan meets stakeholder requirements."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Testing",
+        "Control ID": "SEF-04",
+        "Control Specification": "Test and update as necessary incident response plans at planned intervals\n or upon significant organizational or environmental changes for effectiveness.",
+        "Auditing Guidelines": "1. Verify if there is a calendar of exercises available, if exercises are performed at planned intervals and when there are significant changes within the organization or the context in which it operates.\n 2. Verify if the organization has reviewed and acted upon the results of its exercising and testing to implement changes and improvements."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Metrics",
+        "Control ID": "SEF-05",
+        "Control Specification": "Establish and monitor information security incident metrics.",
+        "Auditing Guidelines": "1. Verify that metrics have been established to measure information security incidents.\n 2. Verify that metrics together demonstrate the efficacy, effectiveness and success of the information security incident response plan to address incidents as they happen.\n 3. Verify that the metrics are measured and reported to stakeholders."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Event Triage Processes",
+        "Control ID": "SEF-06",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures supporting business processes to triage security-related events.",
+        "Auditing Guidelines": "1. Verify if operational processes that help the organization to prepare for, identify, detect, protect, respond to and recover from information security incidents in a step-by-step manner exist.\n 2. Verify if tools that support these organizational procedures to triage security related events complement the ability of the teams to detect, review, monitor and quickly decide upon the context and the possible impact of the incident as it happens and over time."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Breach Notification",
+        "Control ID": "SEF-07",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\n for security breach notifications. Report security breaches and assumed security\n breaches including any relevant supply chain breaches, as per applicable SLAs,\n laws and regulations.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Breach Notification management.\n 2. Verify if there is a formal program that documents the breach notification requirements for all regulatory or contractual domains that the organization asserts adherence to.\n 3. Verify if there is a periodic awareness program to ensure all those associated with information security incident response are aware of the procedures involved for their roles, responsibilities and authorities.\n 4. Determine if the organization has established breach notification Time Objectives for information security breaches that meet the minimum expectation of the applicable regulation and verify if those time objectives are reflected in all internal and external service level expectations."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Points of Contact Maintenance",
+        "Control ID": "SEF-08",
+        "Control Specification": "Maintain points of contact for applicable regulation authorities,\n national and local law enforcement, and other legal jurisdictional authorities.",
+        "Auditing Guidelines": "1. Examine the process used to determine applicable points of contact, and the procedure for reviewing the list/documentation that contains them.\n 2. Verify if the organization has updated the list of points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities.\n 3. Examine when the last updates were done and if there is a schedule for reviewing and updating these contacts."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Policy and Procedures",
+        "Control ID": "STA-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the application of the Shared Security Responsibility\n Model (SSRM) within the organization. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, currency, and effectiveness.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Supply Chain",
+        "Control ID": "STA-02",
+        "Control Specification": "Apply, document, implement and manage the SSRM throughout the supply\n chain for the cloud service offering.",
+        "Auditing Guidelines": "1. Examine the policy for provisions related to service delivery.\n 2. Evaluate the process for communication of requirements and service levels to vendors and other third-parties.\n 3. Determine if a review of effectiveness is in place, especially with respect to contractual requirements."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Guidance",
+        "Control ID": "STA-03",
+        "Control Specification": "Provide SSRM Guidance to the CSC detailing information about the\n SSRM applicability throughout the supply chain.",
+        "Auditing Guidelines": "1. Examine whether SSRM guidance documentation has been approved by management and communicated to CSCs.\n 2. Examine the process for review of SSRM Guidance if required.\n \n  (Note: This control applies to an Organization that is in the role of a CSP)."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Ownership",
+        "Control ID": "STA-04",
+        "Control Specification": "Delineate the shared ownership and applicability of all CSA CCM controls\n according to the SSRM for the cloud service offering.",
+        "Auditing Guidelines": "1. Examine the policy for assessing, demarcating, and documenting the interfaces at the edges of the organization’s responsibility.\n 2. Determine if the delineation has been done, and is current.\n 3. Examine the process for communicating the security responsibility boundaries to third-parties."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Documentation Review",
+        "Control ID": "STA-05",
+        "Control Specification": "Review and validate SSRM documentation for all cloud services offerings\n the organization uses.",
+        "Auditing Guidelines": "1. Examine the policy for assessing, demarcating, and documenting the interfaces at the edges of the Organization’s responsibility.\n 2. Examine the process for validating the boundaries for cloud services used.\n 3. Examine the process for validating the seamlessness of controls for cloud services used.\n \n  (Note: This control applies to an Organization that is in the role of a CSC)."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Implementation",
+        "Control ID": "STA-06",
+        "Control Specification": "Implement, operate, and audit or assess the portions of the SSRM\n which the organization is responsible for.",
+        "Auditing Guidelines": "1. Examine the policy related to addressing security in third-party agreements and determine if organizations employ formal contracts.\n 2. Determine if written procedures exist for addressing security in third-party agreements and whether or not the procedure(s) address(es) each element of the policy/control requirement(s) stipulated in the policy level.\n 3. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), and/or relevant stakeholders, as needed, for addressing security in third-party agreements and determine if the policy/control requirements stipulated in the policy level have been implemented.\n 4. Examine measure(s) that evaluate(s) the organization's compliance with the third-party management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Inventory",
+        "Control ID": "STA-07",
+        "Control Specification": "Develop and maintain an inventory of all supply chain relationships.",
+        "Auditing Guidelines": "1. Determine if there is an inventory maintained of all supply chain relationships.\n 2. Establish ownership for maintaining this inventory.\n 3. Examine the inventory's records to establish whether CSP/CSC relationships are maintained in this inventory.\n 4. Determine whether this inventory is subject to review."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Risk Management",
+        "Control ID": "STA-08",
+        "Control Specification": "CSPs periodically review risk factors associated with all organizations\n within their supply chain.",
+        "Auditing Guidelines": "1. Examine the policy related to identification of risks related to external parties and determine if the organization conducts due diligence of the external party.\n 2. Determine if the policy/control requirements stipulated in the policy level have been implemented.\n 3. Determine the periodicity of review of risk factors."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Primary Service and Contractual Agreement",
+        "Control ID": "STA-09",
+        "Control Specification": "Service agreements between CSPs and CSCs (tenants) must incorporate at least the following mutually-agreed upon provisions and/or terms:\n • Scope, characteristics and location of business relationship and services offered\n • Information security requirements (including SSRM)\n • Change management process\n • Logging and monitoring capability\n • Incident management and communication procedures\n • Right to audit and third party assessment\n • Service termination\n • Interoperability and portability requirements\n • Data privacy",
+        "Auditing Guidelines": "1. Examine the policy for inclusion of the Control in third party agreements.\n 2. Examine the policy related to the review of third-party services to determine if the organization incorporates compliance by third parties."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Agreement Review",
+        "Control ID": "STA-10",
+        "Control Specification": "Review supply chain agreements between CSPs and CSCs at least annually.",
+        "Auditing Guidelines": "1. Determine if a documented review schedule of CSP-CSC supply chain agreements exists on an annual basis and is operating.\n 2. Examine the organization's implementation of its third-party management policy."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Internal Compliance Testing",
+        "Control ID": "STA-11",
+        "Control Specification": "Define and implement a process for conducting internal assessments\n to confirm conformance and effectiveness of standards, policies, procedures,\n and service level agreement activities at least annually.",
+        "Auditing Guidelines": "1. Examine the process for determining the standards and policy that service level agreements must conform to.\n 2. Examine the process to determine contractual, legal, and technical requirements applicable to service level agreements.\n 3. Determine if internal assessments are defined, planned, and executed, at least annually."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Service Agreement Compliance",
+        "Control ID": "STA-12",
+        "Control Specification": "Implement policies requiring all CSPs throughout the supply chain\n to comply with information security, confidentiality, access control, privacy,\n audit, personnel policy and service level requirements and standards.",
+        "Auditing Guidelines": "1. Examine the policy for incorporation of requirements into contractual documents throughout the CSP’s supply chain.\n 2. Determine if requirements have been incorporated in contracts.\n 3. Evaluate if the right to audit is protected, where required."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Governance Review",
+        "Control ID": "STA-13",
+        "Control Specification": "Periodically review the organization's supply chain partners' IT\n governance policies and procedures.",
+        "Auditing Guidelines": "1. Examine the policy for review of supply chain partners governance of IT.\n 2. Determine if the right to review is incorporated contractually.\n 3. Evaluate whether such a review cycle is operating within the organization."
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Data Security Assessment",
+        "Control ID": "STA-14",
+        "Control Specification": "Define and implement a process for conducting security assessments\n periodically for all organizations within the supply chain.",
+        "Auditing Guidelines": "1. Examine the policy related to the security assessments of the supply chain.\n 2. Examine the policy related to identification of risks related to external parties.\n 3. Determine if procedures exist for identification of risks related to external parties\n 4. Evaluate evidence of the conduct of assessments of organizations within the supply chain, periodically as required by the policy."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Threat and Vulnerability Management Policy and Procedures",
+        "Control ID": "TVM-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures to identify, report and prioritize the remediation of\n vulnerabilities, in order to protect systems against vulnerability exploitation.\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness. \n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Malware Protection Policy and Procedures",
+        "Control ID": "TVM-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures to protect against malware on managed assets. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness. \n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Vulnerability Remediation Schedule",
+        "Control ID": "TVM-03",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to enable both scheduled and emergency responses to vulnerability identifications,\n based on the identified risk.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, and effectiveness. \n 2. Determine if technical measures are evaluated for effectiveness."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Detection Updates",
+        "Control ID": "TVM-04",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to update detection tools, threat signatures, and indicators of compromise\n on a weekly, or more frequent basis.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, and effectiveness. \n 2. Determine if technical measures are evaluated for effectiveness.\n 3. Determine if updates and reviews of indicators are conducted at least weekly."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "External Library Vulnerabilities",
+        "Control ID": "TVM-05",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to identify updates for applications which use third party or open\n source libraries according to the organization's vulnerability management policy.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, and effectiveness. \n 2. Determine if a process exists to identify third-party libraries, and to evaluate their impact on the organization’s vulnerability management."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Penetration Testing",
+        "Control ID": "TVM-06",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the periodic performance of penetration testing by independent\n third parties.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, and effectiveness. \n 2. Determine if the process for defining frequency of penetration testing is defined.\n 3. Determine if the process for selection of independent third parties is defined, and evaluated."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Vulnerability Identification",
+        "Control ID": "TVM-07",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the detection of vulnerabilities on organizationally managed assets\n at least monthly.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, and effectiveness. \n 2. Determine if vulnerability detection is undertaken as required, and at least monthly."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Vulnerability Prioritization",
+        "Control ID": "TVM-08",
+        "Control Specification": "Use a risk-based model for effective prioritization of vulnerability\n remediation using an industry recognized framework.",
+        "Auditing Guidelines": "1. Examine policy and procedures related to prioritization of vulnerabilities detected. \n 2. Determine if an industry recognized or widely used framework is implemented.\n 3. Examine how the output of risk assessment of the vulnerabilities is used to inform prioritization of remediation.\n 4. Determine if the process is evaluated for effectiveness."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Vulnerability Management Reporting",
+        "Control ID": "TVM-09",
+        "Control Specification": "Define and implement a process for tracking and reporting vulnerability\n identification and remediation activities that includes stakeholder notification.",
+        "Auditing Guidelines": "1. Examine policy and procedures related to tracking and reporting of vulnerabilities. \n 2. Examine the process to identify stakeholders.\n 3. Determine if the process is implemented."
+    },
+    {
+        "Control Domain": "Threat & Vulnerability Management",
+        "Control Title": "Vulnerability Management Metrics",
+        "Control ID": "TVM-10",
+        "Control Specification": "Establish, monitor and report metrics for vulnerability identification\n and remediation at defined intervals.",
+        "Auditing Guidelines": "1. Verify that metrics have been established to measure vulnerabilities.\n 2. Examine the process for reporting metrics, including identification of recipients.\n 3. Determine if reports are sent at the defined intervals."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Devices Policy and Procedures",
+        "Control ID": "UEM-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for all endpoints. Review and update the policies and\n procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine policy and procedures for evidence of review, at least annually."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Application and Service Approval",
+        "Control ID": "UEM-02",
+        "Control Specification": "Define, document, apply and evaluate a list of approved services,\n applications and sources of applications (stores) acceptable for use by endpoints\n when accessing or storing organization-managed data.",
+        "Auditing Guidelines": "1. Determine if a list of approved services, applications and sources of applications (stores) acceptable for use by endpoints when accessing or storing organization-managed data have been identified and documented.\n 2. Determine if the identified and documented list of approved services, applications and sources of applications (stores) acceptable for use by endpoints when accessing or storing organization-managed data have been enforced.\n 3. Examine how endpoints are monitored for unauthorized services and the process to remove or terminate use of non-sanctioned resources."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Compatibility",
+        "Control ID": "UEM-03",
+        "Control Specification": "Define and implement a process for the validation of the endpoint\n device's compatibility with operating systems and applications.",
+        "Auditing Guidelines": "1. Examine the process for endpoint compatibility validation.\n 2. Determine if the process produces a published compatibility matrix."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Inventory",
+        "Control ID": "UEM-04",
+        "Control Specification": "Maintain an inventory of all endpoints used to store and access company\n data.",
+        "Auditing Guidelines": "1. Examine the asset register, with reference to endpoints.\n 2. Determine if endpoints that store and access company data are tagged and included in the asset inventory."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Management",
+        "Control ID": "UEM-05",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to enforce policies and controls for all endpoints permitted to access\n systems and/or store, transmit, or process organizational data.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the extent and applicability of the processes, procedures, and technical measures over applicable endpoints, as identified.\n 3. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Automatic Lock Screen",
+        "Control ID": "UEM-06",
+        "Control Specification": "Configure all relevant interactive-use endpoints to require an automatic\n lock screen.",
+        "Auditing Guidelines": "1. Determine the organization's definition of interactive-use endpoints.\n 2. Examine the processes and technical measures in place to enforce automatic lock screens."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Operating Systems",
+        "Control ID": "UEM-07",
+        "Control Specification": "Manage changes to endpoint operating systems, patch levels, and/or\n applications through the company's change management processes.",
+        "Auditing Guidelines": "1. Examine the organization's change management policy for controls related to changes on endpoints.\n 2. Determine if such controls are in place for making changes to production and infrastructure systems and if the controls are evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Storage Encryption",
+        "Control ID": "UEM-08",
+        "Control Specification": "Protect information from unauthorized disclosure on managed endpoint\n devices with storage encryption.",
+        "Auditing Guidelines": "1. Examine the organization's asset disposal policy for end-of-life security requirements.\n 2. Examine the organization's policy on encryption or otherwise protection of data at rest on endpoints.\n 3. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Anti-Malware Detection and Prevention",
+        "Control ID": "UEM-09",
+        "Control Specification": "Configure managed endpoints with anti-malware detection and prevention\n technology and services.",
+        "Auditing Guidelines": "1. Examine the organization's anti-malware policy.\n 2. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Software Firewall",
+        "Control ID": "UEM-10",
+        "Control Specification": "Configure managed endpoints with properly configured software firewalls.",
+        "Auditing Guidelines": "1. Examine the organization's software firewall and other endpoint network protection policy.\n 2. Examine the policy on configuration of such controls.\n 3. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Data Loss Prevention",
+        "Control ID": "UEM-11",
+        "Control Specification": "Configure managed endpoints with Data Loss Prevention (DLP) technologies\n and rules in accordance with a risk assessment.",
+        "Auditing Guidelines": "1. Examine the organization's data loss policy.\n 2. Examine the policies on configuration of such controls.\n 3. Determine if such controls are driven by risk assessments.\n 4. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Locate",
+        "Control ID": "UEM-12",
+        "Control Specification": "Enable remote geo-location capabilities for all managed mobile endpoints.",
+        "Auditing Guidelines": "1. Examine the organization's remote geo-location for managed mobile endpoints policy.\n 2. Determine if such controls are in place."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Wipe",
+        "Control ID": "UEM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to enable the deletion of company data remotely on managed endpoint\n devices.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the extent and applicability of the processes, procedures, and technical measures over managed endpoints, as identified.\n 3. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Third-Party Endpoint Security Posture",
+        "Control ID": "UEM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n and/or contractual measures to maintain proper security of third-party endpoints\n with access to organizational assets.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the organization's definition of third-party endpoints.\n 3. Determine the extent and applicability of the processes, procedures, and technical measures over third-party endpoints.\n 4. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    }
+]

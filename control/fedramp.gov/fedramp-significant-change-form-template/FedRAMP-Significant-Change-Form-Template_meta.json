@@ -1,0 +1,703 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PLEASE REMOVE THE INSTRUCTIONS BEFORE SUBMITTING FORM.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.919921875,
+          102.1904296875
+        ],
+        [
+          463.5,
+          102.1904296875
+        ],
+        [
+          463.5,
+          116.3056640625
+        ],
+        [
+          147.919921875,
+          116.3056640625
+        ]
+      ]
+    },
+    {
+      "title": "WHO SHOULD USE THIS FORM?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          225.75,
+          149.3701171875
+        ],
+        [
+          385.5,
+          149.3701171875
+        ],
+        [
+          385.5,
+          162.3251953125
+        ],
+        [
+          225.75,
+          162.3251953125
+        ]
+      ]
+    },
+    {
+      "title": "ABOUT THIS FORM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.25,
+          221.203125
+        ],
+        [
+          356.501953125,
+          221.203125
+        ],
+        [
+          356.501953125,
+          234.3515625
+        ],
+        [
+          257.25,
+          234.3515625
+        ]
+      ]
+    },
+    {
+      "title": "FORM AND ATTACHMENT INSTRUCTIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.6171875,
+          326.197265625
+        ],
+        [
+          412.98046875,
+          326.197265625
+        ],
+        [
+          412.98046875,
+          338.958984375
+        ],
+        [
+          199.6171875,
+          338.958984375
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP ACRONYMS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          249.75,
+          504.66796875
+        ],
+        [
+          363.673828125,
+          504.66796875
+        ],
+        [
+          363.673828125,
+          517.04296875
+        ],
+        [
+          249.75,
+          517.04296875
+        ]
+      ]
+    },
+    {
+      "title": "HOW TO CONTACT US",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          248.02734375,
+          618.36328125
+        ],
+        [
+          365.16796875,
+          618.36328125
+        ],
+        [
+          365.16796875,
+          630.73828125
+        ],
+        [
+          248.02734375,
+          630.73828125
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP Significant Change Request Form",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          204.8466796875,
+          60.47314453125
+        ],
+        [
+          481.11328125,
+          60.47314453125
+        ],
+        [
+          481.11328125,
+          79.42236328125
+        ],
+        [
+          204.8466796875,
+          79.42236328125
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP Significant Change Request Form",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          206.25,
+          59.94140625
+        ],
+        [
+          483.205078125,
+          59.94140625
+        ],
+        [
+          483.205078125,
+          79.470703125
+        ],
+        [
+          206.25,
+          79.470703125
+        ]
+      ]
+    },
+    {
+      "title": "FedRAMP Significant Change Request Form",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          206.19140625,
+          60.6181640625
+        ],
+        [
+          483.50390625,
+          60.6181640625
+        ],
+        [
+          483.50390625,
+          79.083984375
+        ],
+        [
+          206.19140625,
+          79.083984375
+        ]
+      ]
+    },
+    {
+      "title": "Table A-1 \u2013 New controls required when changing from Moderate to High",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          151.8046875,
+          215.40234375
+        ],
+        [
+          459.0,
+          215.40234375
+        ],
+        [
+          459.0,
+          227.390625
+        ],
+        [
+          151.8046875,
+          227.390625
+        ]
+      ]
+    },
+    {
+      "title": "Table A-2 \u2013 Controls with different FedRAMP parameters when changing from Moderate to High",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          105.0,
+          256.201171875
+        ],
+        [
+          509.203125,
+          256.201171875
+        ],
+        [
+          509.203125,
+          268.189453125
+        ],
+        [
+          105.0,
+          268.189453125
+        ]
+      ]
+    },
+    {
+      "title": "Additional Guidance",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          39.75,
+          647.3671875
+        ],
+        [
+          131.26025390625,
+          647.3671875
+        ],
+        [
+          131.26025390625,
+          660.515625
+        ],
+        [
+          39.75,
+          660.515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          93
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Form",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          93
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          117
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          117
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          83
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          87
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "TableCell",
+          87
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          113
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          98
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          91
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FedRAMP-Significant-Change-Form-Template"
+}

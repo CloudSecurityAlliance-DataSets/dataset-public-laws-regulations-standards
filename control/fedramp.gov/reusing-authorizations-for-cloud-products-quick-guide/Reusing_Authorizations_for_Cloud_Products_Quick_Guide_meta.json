@@ -1,0 +1,142 @@
+{
+  "table_of_contents": [
+    {
+      "title": "visit the fedramp marketplace\nSTEP 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          242.47265625
+        ],
+        [
+          282.69140625,
+          242.47265625
+        ],
+        [
+          282.69140625,
+          254.07421875
+        ],
+        [
+          54.0,
+          254.07421875
+        ]
+      ]
+    },
+    {
+      "title": "STEP 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.33544921875,
+          538.3125
+        ],
+        [
+          82.70068359375,
+          538.3125
+        ],
+        [
+          82.70068359375,
+          549.140625
+        ],
+        [
+          48.33544921875,
+          549.140625
+        ]
+      ]
+    },
+    {
+      "title": "CONDUCT PACKAGE REVIEW AND\nRISK ANALYSIS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.29736328125,
+          533.25
+        ],
+        [
+          274.025390625,
+          533.25
+        ],
+        [
+          274.025390625,
+          555.75
+        ],
+        [
+          96.29736328125,
+          555.75
+        ]
+      ]
+    },
+    {
+      "title": "PERFORM CONTINUOUS\nMONITORING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          376.5234375,
+          566.25
+        ],
+        [
+          506.25,
+          566.25
+        ],
+        [
+          506.25,
+          588.5859375
+        ],
+        [
+          376.5234375,
+          588.5859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Reusing_Authorizations_for_Cloud_Products_Quick_Guide"
+}

@@ -1,0 +1,56 @@
+{
+  "secid": "secid:ttp/mitre.org/atlas",
+  "name": "Adversarial Threat Landscape for Artificial-Intelligence Systems",
+  "acronym": "ATLAS",
+  "alternate_names": ["MITRE ATLAS"],
+  "version": "",
+  "publication_id": "ATLAS",
+  "owner": "MITRE Corporation (Center for AI Security collaboration)",
+  "type": "Framework",
+  "description": "MITRE ATLAS is the AI-specific counterpart to ATT&CK: a globally-accessible, ATT&CK-style matrix of adversary tactics and techniques targeting machine learning systems. ATLAS covers techniques such as ML Model Reconnaissance, Resource Development (adversarial ML capabilities), Initial Access (against ML systems), ML Attack Staging, Model Evasion, Inference, Exfiltration, and Impact. Built on observations of real-world attacks plus academic adversarial ML research. The framework is companion to MITRE ATT&CK — many ATLAS techniques reference ATT&CK techniques where relevant, and the case studies section documents real incidents (model evasion attacks on commercial AI services, adversarial-example exploitation of ML classifiers, training-data poisoning, etc.).",
+  "relationToCloudSecurity": "ATLAS overlaps with cloud security where AI/ML systems are hosted in cloud environments: model APIs (Azure OpenAI, AWS Bedrock, Vertex AI), MLOps pipelines, and training infrastructure are all in scope. ATLAS techniques inform threat models for cloud-hosted AI services.",
+  "relationToAISecurity": "ATLAS is THE leading framework for adversarial ML threat modeling. Direct counterpart to CSA AICM (which catalogs controls); ATLAS catalogs threats. Used together: ATLAS for what adversaries do, AICM/AI RMF for what to do about it.",
+  "license": {
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://github.com/mitre-atlas/atlas-data/blob/main/LICENSE",
+    "notes": "The atlas-data GitHub repository is published under Apache-2.0. Both the data (YAML) and any derived structured forms are freely redistributable; preserve MITRE attribution and the Apache-2.0 LICENSE."
+  },
+  "links": {
+    "source": "https://atlas.mitre.org/",
+    "github": "https://github.com/mitre-atlas/atlas-data",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "ATLAS is actively maintained on a release cadence visible in the atlas-data GitHub repo. Pin to a specific tag for reproducibility."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub pointing at upstream mitre-atlas/atlas-data. tools-resources/utils/process-ATLAS-json.py exists for structured processing when needed."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README pointer to upstream atlas-data repo",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "tactics_count_approx": 14,
+    "covers": "AI/ML adversarial techniques across the ML lifecycle"
+  },
+  "notes": "Use ATLAS for adversarial ML threat modeling; pair with CSA AICM for controls. Versioned releases live in the GitHub repo's tag history."
+}

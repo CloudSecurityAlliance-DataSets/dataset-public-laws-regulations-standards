@@ -1,0 +1,61 @@
+{
+  "secid": "secid:control/nist.gov/csf@2.0",
+  "name": "Cybersecurity Framework",
+  "acronym": "NIST CSF",
+  "alternate_names": ["CSF", "NIST CSF 2.0", "Framework for Improving Critical Infrastructure Cybersecurity"],
+  "version": "2.0",
+  "publication_id": "NIST.CSWP.29",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Framework",
+  "description": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks. It expands the original CSF's five Functions (Identify, Protect, Detect, Respond, Recover) with a sixth, Govern, and reorganizes Categories and Subcategories to reflect current cybersecurity practices. CSF 2.0 was published as NIST CSWP 29 on February 26, 2024.",
+  "relationToCloudSecurity": "CSF 2.0 is widely used by cloud service providers and customers to structure cloud security programs. Its outcomes-based Subcategories map to cloud-specific control sets including CSA CCM v4.0 (mappings included in the NIST Reference Tool), and its Govern Function aligns with the shared-responsibility governance work required for cloud deployments.",
+  "relationToAISecurity": "CSF 2.0 does not specifically address AI risks; AI-specific cybersecurity guidance is in NIST AI RMF (NIST.AI.100-1) and NIST AI 600-1. CSF 2.0 controls remain applicable to the conventional IT and security infrastructure that supports AI systems.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the public domain in the United States per Section 105 of the US Copyright Act. Attribution to NIST is appreciated but not required."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework",
+    "source": "https://www.nist.gov/cyberframework",
+    "textUsed": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+    "coreData": "https://csrc.nist.gov/extensions/nudp/services/json/csf/download?olirids=all",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-02-26",
+    "active": true,
+    "supersedes": "NIST CSF 1.1 (April 2018)",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "v2.0 is the current active CSF. Adds the Govern Function (a sixth alongside Identify/Protect/Detect/Respond/Recover) and reorganizes Categories and Subcategories. The CSF 2.0 Core retains 79 CSF 1.1 entries marked [Withdrawn: ...] as a crosswalk for organizations migrating from 1.1."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "openpyxl + custom Python (extract_csf.py)",
+    "tool_version": "openpyxl 3.x",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted from the official NIST CSF 2.0 Reference Tool spreadsheet (downloaded as XLSX from the NUDP services endpoint, despite the 'json' path segment in the URL). The XLSX is the authoritative source for the Core with Implementation Examples and Informative References. The CSWP.29 white paper PDF is retained alongside for narrative reference but is not the basis for the structured extraction. Marker-based PDF extraction was not performed because the structured Core spreadsheet is more reliable."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction from NIST Reference Tool XLSX",
+      "tool": "openpyxl + extract_csf.py"
+    }
+  ],
+  "scope": {
+    "functions": 6,
+    "categories": 22,
+    "subcategories_active": 106,
+    "subcategories_withdrawn_csf_1_1": 79,
+    "subcategories_total": 185
+  },
+  "notes": "The 79 [Withdrawn:] entries in csf-2.0.csv/json are intentionally retained as a CSF 1.1 → 2.0 crosswalk. Filter on Status='Active' to get the canonical 106 CSF 2.0 Subcategories. See extract_csf.py for the parser."
+}

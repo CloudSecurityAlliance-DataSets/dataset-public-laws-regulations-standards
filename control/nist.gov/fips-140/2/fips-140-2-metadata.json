@@ -1,0 +1,44 @@
+{
+  "secid": "secid:control/nist.gov/fips-140@2",
+  "name": "Security Requirements for Cryptographic Modules",
+  "acronym": "",
+  "version": "2",
+  "publication_id": "NIST.FIPS.140-2",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "Security Requirements for Cryptographic Modules. NIST publication NIST.FIPS.140-2.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the public domain in the United States per Section 105 of the US Copyright Act."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://csrc.nist.gov/publications",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "unknown",
+    "extraction_host": "local (pre-reorg)",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+  },
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+}

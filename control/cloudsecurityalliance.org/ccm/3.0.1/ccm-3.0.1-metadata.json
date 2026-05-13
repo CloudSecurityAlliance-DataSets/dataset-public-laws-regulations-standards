@@ -1,0 +1,58 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/ccm@3.0.1",
+  "name": "Cloud Controls Matrix",
+  "acronym": "CCM",
+  "alternate_names": ["CSA CCM", "CCM v3"],
+  "version": "3.0.1",
+  "publication_id": "CSA_CCM_v3.0.1-09-16-2014",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "Cloud Controls Matrix v3.0.1 (September 2014) is the third major revision of CSA's cloud-security control framework. v3.0.1 contains 133 controls organized into 16 domains. Each control specifies its architectural relevance (physical, network, compute, storage, application, data), service delivery model applicability (SaaS, PaaS, IaaS), and supplier relationship (cloud service provider, cloud consumer). v3.0.1 includes extensive mappings to other frameworks: AICPA TSC, BITS Shared Assessments, BSI Germany, COBIT 5, COPPA, CSA Enterprise Architecture, ENISA IAF, FedRAMP, FERPA, GAPP, HIPAA/HITECH, HITRUST CSF, ISO/IEC 27001:2013, ITAR, Jericho Forum, Mexico Federal Law, NERC CIP, NIST SP 800-53r3, NZISM, ODCA UM PA R2.0, PCI DSS v3.0, and SSAE 16. v3.0.1 was superseded by CCM v4.0 in 2021 which restructured to 17 domains and 197 controls.",
+  "relationToCloudSecurity": "CCM v3.0.1 was the dominant cloud security control framework from 2014 to 2021. Many existing CSA STAR Registry self-assessments and audit reports reference v3.0.1 control IDs. The framework mappings make v3.0.1 a useful pivot point for translating between cloud-security frameworks of that era.",
+  "relationToAISecurity": "CCM v3.0.1 predates the modern AI security landscape. AI-specific cloud controls are now covered by CSA AICM (AI Controls Matrix). For AI workloads using cloud infrastructure, CCM v3.0.1 (or v4.x for new work) remains applicable to the underlying cloud platform; AICM adds AI-specific overlays.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CCM",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "notes": "CCM is published by CSA for industry use. Free download from CSA's artifacts portal (account registration required). Derivatives and structured extractions like this one are permitted with attribution to CSA. The source XLSX is committed here for full reproducibility because CCM is CSA-owned and CSA's redistribution policy permits it."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cloud_Controls_Matrix",
+    "source": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v3-0-1",
+    "csaLocation": "Originally extracted in dataset-private-CSA-content/data/CSA-website-artifacts/content/cloud-controls-matrix-v3-0-1-july-2014/"
+  },
+  "lifecycle": {
+    "published": "2014-09-16",
+    "active": false,
+    "supersedes": "CCM v3.0 (July 2014)",
+    "supersededBy": "CCM v4.0 (2021), now v4.0.13 and v4.1",
+    "retiredFromActiveUse": "2021",
+    "notes": "v3.0.1 was a minor maintenance update to v3.0 (clarifications). It remained the current CCM from 2014 until CCM v4.0 was released in 2021. Many older STAR Registry entries, vendor compliance documents, and third-party crosswalks still reference v3.0.1 control IDs."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "Custom Python parser (in dataset-private-CSA-content)",
+    "tool_version": "unknown",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "The structured JSON (133 controls keyed by control_id) was previously extracted in dataset-private-CSA-content by an internal CSA pipeline. Copied here as the canonical form. The build_csv.py script in this directory generates the flat tabular CSV from the JSON by flattening nested objects (architectural_relevance, service_delivery_model, supplier_relationship, framework_mappings) into dotted-key columns. The markdown extraction also came from the same internal pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Promoted from dataset-private-CSA-content (CSA-published, publicly redistributable)",
+      "tool": "Custom Python parser"
+    }
+  ],
+  "scope": {
+    "total_controls": 133,
+    "domains": 16,
+    "framework_mappings": 23
+  },
+  "notes": "Promoted from dataset-private-CSA-content. CCM is CSA-published with permitted redistribution; v3.0.1 belongs in the public repo alongside the newer v4.0.13 and v4.1 already here. The 23 framework mappings make v3.0.1 a useful crosswalk anchor — each control specifies how it relates to AICPA TSC, BITS Shared Assessments, COBIT, FedRAMP, HIPAA, HITRUST, ISO 27001:2013, NIST SP 800-53r3, PCI DSS v3.0, and more."
+}

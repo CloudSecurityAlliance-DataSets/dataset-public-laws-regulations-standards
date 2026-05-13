@@ -1,0 +1,169 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Executive Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Interviews with leaders responsible for C-SCRMP0F",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Summary of Findings",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                181.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Organizational Approach to Supply Chain Risk and Cybersecurity",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Supplier Management",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Measuring Supplier Risk",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Quality Management and Continuous Improvement",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Incident Response and Recovery",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Lessons Learned and Improvement Opportunities",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Future Study, Research, and Guidance",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                733.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 25,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 48,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

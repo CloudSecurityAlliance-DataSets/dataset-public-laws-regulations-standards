@@ -1,0 +1,55 @@
+{
+  "secid": "secid:ttp/mitre.org/d3fend",
+  "name": "Detection, Denial, and Disruption Framework Empowering Network Defense",
+  "acronym": "D3FEND",
+  "alternate_names": ["MITRE D3FEND"],
+  "version": "",
+  "publication_id": "D3FEND",
+  "owner": "MITRE Corporation (with NSA sponsorship)",
+  "type": "Framework",
+  "description": "D3FEND is the defensive counterpart to MITRE ATT&CK: an ontology of cybersecurity countermeasure techniques (defensive capabilities) organized by tactic (Harden, Detect, Isolate, Deceive, Evict). Each D3FEND technique is mapped to the ATT&CK techniques it counters, enabling defenders to reason about defensive coverage gaps in terms of offensive techniques. D3FEND is more formal/ontological than ATT&CK — it uses RDF/OWL representations and includes Digital Artifacts and a model of the relationships between defensive techniques and the artifacts they operate on.",
+  "relationToCloudSecurity": "D3FEND techniques apply to cloud defense: cloud-native controls (network policy enforcement, identity-bound credentials, runtime sensors) can be classified by D3FEND tactic, and gap analysis against the cloud platform's ATT&CK coverage maps cleanly through D3FEND.",
+  "relationToAISecurity": "D3FEND does not yet have AI-specific defensive techniques. For AI defense, refer to controls in CSA AICM, NIST AI RMF, and the academic literature on adversarial ML defenses.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-D3FEND-Public-Release",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://d3fend.mitre.org/about/",
+    "notes": "D3FEND content is released under MITRE Public Release with NSA sponsorship. The dataset (graph, CSV exports) is freely usable with attribution. Confirm specific license terms on the upstream page for redistribution."
+  },
+  "links": {
+    "source": "https://d3fend.mitre.org/",
+    "downloads": "https://d3fend.mitre.org/resources/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-06-22",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "D3FEND is on an irregular release cadence; the latest version date is shown on d3fend.mitre.org. The local d3fend.csv is a snapshot."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Local d3fend.csv is a direct download of the MITRE-published CSV export. No transformation applied."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct upstream CSV download",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "tactics": ["Model", "Harden", "Detect", "Isolate", "Deceive", "Evict", "Restore"]
+  },
+  "notes": "D3FEND complements ATT&CK for purple-team and defensive-coverage analysis. The OWL/RDF representation is the authoritative form; CSV is a convenience export."
+}

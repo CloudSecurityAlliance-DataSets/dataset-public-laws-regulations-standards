@@ -1,0 +1,38 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,,,,
+,Domain / Subdomain,,Proportion of risks in AI risk database,Proportion of documents in AI risk database
+,1,Discrimination & Toxicity,0.14,0.7
+,1.1,Unfair discrimination and misrepresentation,0.05,0.63
+,1.2,Exposure to toxic content,0.08,0.33
+,1.3,Unequal performance across groups,0.01,0.17
+,2,Privacy & Security,0.12,0.68
+,2.1,"Compromise of privacy by obtaining, leaking or correctly inferring sensitive information",0.05,0.59
+,2.2,AI system security vulnerabilities and attacks,0.07,0.37
+,3,Misinformation,0.04,0.46
+,3.1,False or misleading information,0.03,0.37
+,3.2,Pollution of information ecosystem and loss of consensus reality,0.01,0.16
+,4,Malicious actors & Misuse,0.16,0.71
+,4.1,"Disinformation, surveillance, and influence at scale",0.06,0.51
+,4.2,"Cyberattacks, weapon development or use, and mass harm",0.05,0.57
+,4.3,"Fraud, scams, and targeted manipulation",0.05,0.4
+,5,Human-Computer Interaction,0.07,0.49
+,5.1,Overreliance and unsafe use,0.04,0.32
+,5.2,Loss of human agency and autonomy,0.03,0.33
+,6,Socioeconomic & Environmental,0.19,0.76
+,6.1,Power centralization and unfair distribution of benefits,0.04,0.41
+,6.2,Increased inequality and decline in employment quality,0.03,0.41
+,6.3,Economic and cultural devaluation of human effort,0.02,0.35
+,6.4,Competitive dynamics,0.01,0.19
+,6.5,Governance failure,0.04,0.3
+,6.6,Environmental harm,0.04,0.38
+,7,"AI system safety, failures, & limitations",0.25,0.75
+,7.1,AI pursuing its own goals in conflict with human goals or values,0.07,0.48
+,7.2,AI possessing dangerous capabilities,0.04,0.25
+,7.3,Lack of capability or robustness,0.08,0.56
+,7.4,Lack of transparency or interpretability,0.03,0.33
+,7.5,AI welfare and rights,<1%,0.03
+,7.6,Multi-agent risks ,0.03,0.03
+,,,,
+,,,,
+,📧 Email: pslat[at]mit.edu,,,

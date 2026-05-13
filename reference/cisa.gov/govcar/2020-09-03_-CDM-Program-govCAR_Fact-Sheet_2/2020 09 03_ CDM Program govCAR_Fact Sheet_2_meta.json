@@ -1,0 +1,156 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "The Cybersecurity and Infrastructure Security Agency (CISA) leads the national effort to defend critical infrastructure against the threats of today, while working with partners across all levels of government and in the private sector to secure again...",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                685.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Methodology overview",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                598.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                459.0,
+                0.0
+            ]
+        },
+        {
+            "title": "threat framework",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                338.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The .govCAR methodology relies on two core operational understandings: threats and architecture. First, .govCAR starts with the Cybersecurity Threat Framework (CTF). The threat framework is broken down into three levels of detail: stages, objectives, ...",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                307.0,
+                0.0
+            ]
+        },
+        {
+            "title": "At each level, the CTF becomes more specific.  The stages outline the adversary lifecycle, progressing through pre-event, get-in, stay-in, and act. Each stage is associated with several objectives that include a more detailed characterization of the t...",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                223.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Each objective is associated with several threat actions, which are the actual moves an adversary takes to achieve an objective. A heat map can be created to represent the prevalence (how often the action has been seen) and maneuverability (related to...",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                116.0,
+                0.0
+            ]
+        },
+        {
+            "title": "architectural capabilities",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                727.0,
+                0.0
+            ]
+        },
+        {
+            "title": "analysis",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                477.0,
+                0.0
+            ]
+        },
+        {
+            "title": "contact",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                52.0,
+                338.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 2,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

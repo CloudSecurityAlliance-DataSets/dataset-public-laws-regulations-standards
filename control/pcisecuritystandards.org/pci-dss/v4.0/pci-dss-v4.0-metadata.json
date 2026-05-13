@@ -1,0 +1,51 @@
+{
+  "secid": "secid:control/pcisecuritystandards.org/pci-dss@4.0",
+  "name": "Payment Card Industry Data Security Standard",
+  "acronym": "PCI DSS",
+  "version": "4.0",
+  "owner": "PCI Security Standards Council, LLC",
+  "type": "Standard",
+  "description": "PCI DSS v4.0 (March 2022) was a major revision from v3.2.1, introducing the Customized Approach as an alternative to the Defined Approach, plus expanded targeted risk analysis and continuous evolution requirements. Comprises 12 top-level Requirements organized into 6 goals. Requirement IDs are identical between v4.0 and the current v4.0.1 release.",
+  "relationToCloudSecurity": "PCI DSS applies to any cloud environment that stores, processes, or transmits cardholder data; it is one of the primary frameworks cloud providers map to for payment-handling tenancies. Multiple CSA CCM controls map directly to PCI DSS requirements (cryptography, access control, logging, vulnerability management).",
+  "relationToAISecurity": "PCI DSS does not specifically address AI; AI systems handling cardholder data are still subject to PCI DSS requirements regardless of the implementation technology.",
+  "license": {
+    "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
+    "redistribution": "permitted_for_study_purposes",
+    "derivatives": "modification_prohibited_per_section_III_1_2",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+    "notes": "PCI SSC License Agreement grants free Read and Copy License for study purposes. Implementation License (Section II) adds patent non-assertion covenant. Modification of the standard text is prohibited (Section III.1.2). Derived works such as structured extractions for analysis/mapping are permitted under fair-use study purposes."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
+    "source": "https://www.pcisecuritystandards.org/document_library/",
+    "textUsed": "https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-03",
+    "active": false,
+    "supersededBy": "PCI DSS v4.0.1 (June 2024)",
+    "retiredFromActiveUse": "2024-12-31",
+    "notes": "PCI DSS v4.0 was retired on 2024-12-31 when v4.0.1 became the active standard. v4.0.1 contains errata corrections only; requirement IDs are identical between v4.0 and v4.0.1, so mappings built against either version are interchangeable at the requirement-ID level. For structured CSV/JSON of PCI DSS requirements, see the sibling PCI-DSS-v4.0.1/ folder. PCI SSC no longer hosts the v4.0 PDF for direct download since 2024-12."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker (legacy)",
+    "tool_version": "unknown (pre-2025)",
+    "force_ocr": null,
+    "notes": "Legacy markdown extraction predating the current pipeline. Extracted tables are fragmented due to marker's older handling of the 3-column page layout used by PCI DSS for each requirement block. This is a known extraction artifact, not data loss. Re-extraction is blocked because PCI SSC removed v4.0 from public download in 2024-12; we kept the original markdown as a historical snapshot."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "legacy",
+      "reason": "Original extraction predates dated-timestamp convention",
+      "tool": "marker"
+    }
+  ],
+  "scope": {
+    "top_level_requirements": 12,
+    "goals": 6
+  }
+}

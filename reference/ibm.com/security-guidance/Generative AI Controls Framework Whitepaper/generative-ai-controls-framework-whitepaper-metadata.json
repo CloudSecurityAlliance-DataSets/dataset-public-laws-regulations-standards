@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/ibm.com/security-guidance/generative-ai-controls-framework-whitepaper",
+  "name": "Generative AI Controls Framework Whitepaper",
+  "acronym": "IBM GenAI Controls",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "IBM-GenAI-Controls-Framework-Whitepaper",
+  "owner": "International Business Machines Corporation (IBM)",
+  "type": "Whitepaper",
+  "description": "IBM whitepaper on a controls framework for Generative AI systems. Covers risk identification, control objectives, and implementation considerations for enterprise deployments of generative AI.",
+  "relationToCloudSecurity": "Many enterprise GenAI deployments are cloud-hosted; the framework addresses both AI-layer and underlying cloud-layer concerns.",
+  "relationToAISecurity": "Directly addresses GenAI security. Vendor perspective on controls; complements CSA AICM, NIST AI RMF, and ISO/IEC 42001.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Guidance",
+    "redistribution": "see_source",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published guidance document. Distribution terms per vendor's terms of use."
+  },
+  "links": {
+    "source": "https://www.ibm.com/security",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted from source PDF via the marker pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {},
+  "notes": "Vendor perspective on GenAI controls."
+}

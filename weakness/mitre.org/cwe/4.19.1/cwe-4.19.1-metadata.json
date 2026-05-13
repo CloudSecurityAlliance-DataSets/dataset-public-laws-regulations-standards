@@ -1,0 +1,57 @@
+{
+  "secid": "secid:weakness/mitre.org/cwe@4.19.1",
+  "name": "Common Weakness Enumeration",
+  "acronym": "CWE",
+  "alternate_names": ["MITRE CWE", "CWE List"],
+  "version": "4.19.1",
+  "publication_id": "CWE-4.19.1",
+  "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
+  "type": "Taxonomy",
+  "description": "CWE is a community-developed list of common software and hardware weakness types. Each CWE entry describes a class of weakness (e.g., CWE-79 Cross-Site Scripting, CWE-89 SQL Injection) with consequences, examples, mitigations, and relationships to other entries. CVE entries cite their underlying weakness type via CWE IDs. CWE is organized into views — most-used are CWE-1000 (Research Concepts, the parent taxonomy), CWE-699 (Software Development), and CWE-1194 (Hardware Design). Version 4.19.1 is a maintenance update to the 4.x branch.",
+  "relationToCloudSecurity": "CWE underpins CVE classification: every CVE typically maps to one or more CWE IDs identifying the underlying weakness pattern. Cloud workload protection and code analysis tools commonly classify findings by CWE. The CWE Top 25 Most Dangerous Weaknesses is widely referenced in cloud-security guidance and procurement checklists.",
+  "relationToAISecurity": "CWE 4.x has begun adding AI-relevant weaknesses (e.g., CWE-1039 Inadequate Detection or Handling of Adversarial Input Perturbations in Automated Recognition Mechanism, CWE-1426 Improper Validation of Generative AI Output). MITRE ATLAS and CSA AICM provide more AI-specific coverage; CWE captures AI weaknesses at the software-engineering layer.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-CWE-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://cwe.mitre.org/about/termsofuse.html",
+    "notes": "MITRE CWE Terms of Use permit free use, redistribution, and derivative works with attribution to MITRE. A copy of the upstream LICENSE.txt is committed alongside the data for provenance."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_Weakness_Enumeration",
+    "source": "https://cwe.mitre.org/",
+    "textUsed": "https://cwe.mitre.org/data/downloads.html",
+    "downloadXml": "https://cwe.mitre.org/data/xml/cwec_latest.xml.zip",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025",
+    "active": true,
+    "supersedes": "CWE 4.19 and earlier 4.x maintenance versions",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "CWE is on a roughly quarterly release cadence; 4.x has been the active major version since 2018. Version-specific extractions are kept here for mapping reproducibility."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "custom Python (process-CWE-JSON.py family) over MITRE-published CSV/XML",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "CWE is distributed in machine-readable forms by MITRE — no PDF extraction needed. The 1000 (Research Concepts), 699 (Software Development), and 1194 (Hardware Design) view CSVs are committed alongside their derived JSON form."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download of MITRE-published view CSVs",
+      "tool": "manual + process-CWE-JSON.py"
+    }
+  ],
+  "scope": {
+    "views_included": ["CWE-1000 (Research Concepts)", "CWE-699 (Software Development)", "CWE-1194 (Hardware Design)"]
+  },
+  "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions."
+}

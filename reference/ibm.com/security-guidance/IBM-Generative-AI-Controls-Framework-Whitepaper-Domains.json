@@ -1,0 +1,140 @@
+[
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Domain description": "The foundation of a trustworthy AI program. Ensuring that the organization has the proper management of its AI program in order to ensure security, effective risk management and compliance with relevant laws and regulations governing AI development and deployment.",
+        "Category": "AI Governance Program",
+        "Definition": "The oversight mechanisms that address risks like bias, privacy infringement and misuse while fostering innovation and trust."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Domain description": "The foundation of a trustworthy AI program. Ensuring that the organization has the proper management of its AI program in order to ensure security, effective risk management and compliance with relevant laws and regulations governing AI development and deployment.",
+        "Category": "AI Risk Management",
+        "Definition": "Program driving responsible uses and practices by prompting organizations and their internal teams to think more critically about context and potential or unexpected negative and\npositive impacts."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Domain description": "The foundation of a trustworthy AI program. Ensuring that the organization has the proper management of its AI program in order to ensure security, effective risk management and compliance with relevant laws and regulations governing AI development and deployment.",
+        "Category": "AI Regulatory Compliance",
+        "Definition": "Ensuring an organization stays current with the regulatory landscape (regulatory watch) and adheres to legal requirements, rules, and standards governing the\ndevelopment, deployment, monitoring, and use of AI."
+    },
+    {
+        "Domain": "AI Governance, Risk, & Compliance",
+        "Domain description": "The foundation of a trustworthy AI program. Ensuring that the organization has the proper management of its AI program in order to ensure security, effective risk management and compliance with relevant laws and regulations governing AI development and deployment.",
+        "Category": "Supply Chain Security",
+        "Definition": "Addressing risks related to data sourcing, model development, deployment, and ongoing maintenance that leverage third-\nparty libraries, APIs, and pre-trained models."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "AI App Safety",
+        "Definition": "Practices to ensure the safe and reliable operation of AI systems. It encompasses strategies to prevent unintended consequences, errors, and harm caused by AI applications."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "AI App Lifecycle",
+        "Definition": "Controls to ensure stages involved in the development, deployment, and maintenance of AI systems drive trustworthy\nAI"
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "AI App Compliance",
+        "Definition": "Adherence of AI applications to established guidelines, regulations, and standards."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "App Interaction Safety & Security",
+        "Definition": "Mechanisms to ensure that interactions between AI systems and their users, other systems, and the environment occur in a safe and secure manner."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "AI App Protection",
+        "Definition": "Techniques to safeguard AI applications from various risks, vulnerabilities, and threats. These protective measures aim to ensure the robustness, security, and reliability of AI systems\nthroughout their lifecycle."
+    },
+    {
+        "Domain": "AI App Controls & Management",
+        "Domain description": "Controls that “secure the usage” of AI through the application stack. Adhering to ethical standards and guidelines to ensure that AI systems respect human values and rights.",
+        "Category": "AI App Threat Management & Resilience",
+        "Definition": "Identifying, assessing, and mitigating potential risks and vulnerabilities that could impact the security, functionality, or reliability of an AI application and ensuring its ability to adapt, recover, and continue functioning effectively even in the face\nof unexpected events, failures, or disruptions."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "AI Model Explainability",
+        "Definition": "Understanding and interpreting the decisions made by\nmachine learning models. It provides visibility on how the model arrives at its predictions or results."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "AI Model Lifecycle",
+        "Definition": "Implementing the various stages involved in creating, deploying, and maintaining AI models."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "AI Model Compliance",
+        "Definition": "Adherence of AI models to established guidelines, regulations, and standards."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "Prompt Safety & Security",
+        "Definition": "Controls that ensure the input prompts provided to AI models are safe, non-malicious, and aligned with the intended behavior of the model and protect the model from unauthorized access, tampering, or attacks. Equally checking that response prompts are safe and secure in terms of content\nit may inadvertently reveal (i.e. PII)."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "AI Model Access",
+        "Definition": "Restricting access to gen AI models, model parameters, training data, and APIs to prevent potential misuse and attack vectors."
+    },
+    {
+        "Domain": "AI Model Controls & Management",
+        "Domain description": "Controls that “secure the model” layer as well as securing the usage of models. Implementing best practices for model training, validation, and evaluation to enhance\nperformance and reliability.",
+        "Category": "AI Model Threat Detection",
+        "Definition": "Identifying and mitigating potential risks or vulnerabilities that\ncould compromise the integrity, security, or performance of the AI models and the interaction with those models."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Classification and Lineage",
+        "Definition": "Provide a common foundation for assessing data leveraged by AI systems; including data classifications, assigning predefined labels to each characteristic and historical context of the data"
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Quality & Integrity",
+        "Definition": "Maintaining the reliability, accuracy, and consistency of data\nused by AI systems; ensuring that the data remains unaltered and is trustworthy."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Compliance",
+        "Definition": "Adherence of the data used in AI systems to established guidelines, regulations, and standards including data residency\nand sovereignty."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Privacy & Confidentiality",
+        "Definition": "Safeguarding sensitive information, ensuring it is handled appropriately and remains private & accessible only to authorized systems & users"
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Access Controls",
+        "Definition": "Restricting access to data leveraged by AI systems to prevent potential misuse and attack vectors."
+    },
+    {
+        "Domain": "AI Data Controls & Management",
+        "Domain description": "Controls that “secure the data” layer.  Establishing clear guidelines for data collection, storage, and usage to ensure data quality and mitigate bias",
+        "Category": "Data Activity and Posture Monitoring",
+        "Definition": "Tracking the usage and performance of data leveraged by AI\nsystems to enable detecting and responding to misuse or malicious activity"
+    },
+    {
+        "Domain": "Infrastructure Security Controls",
+        "Domain description": "Implementing robust IT and cybersecurity measures to protect AI systems from cyber threats and unauthorized access. These are controls that organizations already need to enable across their technology landscape to meet security and privacy requirements but implemented for AI systems.  Note: This whitepaper does not include infrastructure or cloud\nspecific controls",
+        "Category": "Infrastructure Security Controls",
+        "Definition": "Organizations typically leverage industry frameworks (i.e. NIST 800-53, ISO 27xxx) or custom frameworks (i.e. IBM Cloud Framework for Financial Services) to protect their entire\ntechnology and hybrid cloud stack."
+    }
+]

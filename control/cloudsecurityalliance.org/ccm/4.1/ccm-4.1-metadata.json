@@ -1,0 +1,59 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/ccm@4.1",
+  "name": "Cloud Controls Matrix",
+  "acronym": "CCM",
+  "alternate_names": [
+    "CSA CCM v4.1",
+    "CCM v4.1.0"
+  ],
+  "version": "4.1",
+  "publication_id": "CCM-4.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "CCM v4.1 — current major release. 207 controls across 17 domains (expanded from v4.0's 197). Cross-framework mappings being re-pinned upstream as of 2026.",
+  "relationToCloudSecurity": "Current flagship cloud-security controls framework. Used in current STAR Registry attestations and downstream CSA mapping work.",
+  "relationToAISecurity": "Cloud-platform controls foundation; AI-specific controls in AICM.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "CCM 4.0.x",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Current major version."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "CCM v4.1 parsed JSON. Cross-framework mappings PENDING upstream re-pin."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download + parse",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "controls": 207,
+    "domains": 17,
+    "mappings_status": "pending_upstream"
+  },
+  "notes": "Current CCM. Pending upstream cross-framework re-mapping."
+}

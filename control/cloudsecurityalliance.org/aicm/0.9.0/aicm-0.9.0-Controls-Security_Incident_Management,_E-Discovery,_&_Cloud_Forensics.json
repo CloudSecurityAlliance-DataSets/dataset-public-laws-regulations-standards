@@ -1,0 +1,65 @@
+[
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Incident Management Policy and Procedures",
+        "Control ID": "SEF-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for Security Incident Management, E-Discovery, and Cloud\nForensics. Review and update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Service Management Policy and Procedures",
+        "Control ID": "SEF-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for the timely management of security incidents. Review\nand update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Plans",
+        "Control ID": "SEF-03",
+        "Control Specification": "'Establish, document, approve, communicate, apply, evaluate and maintain\na security incident response plan, which includes but is not limited to: relevant\ninternal departments, impacted CSCs, and other business critical relationships\n(such as supply-chain) that may be impacted.'\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Testing",
+        "Control ID": "SEF-04",
+        "Control Specification": "Test and update as necessary incident response plans at planned intervals\nor upon significant organizational or environmental changes for effectiveness.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Metrics",
+        "Control ID": "SEF-05",
+        "Control Specification": "Establish and monitor information security incident metrics.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Event Triage Processes",
+        "Control ID": "SEF-06",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures supporting business processes to triage security-related events.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Breach Notification",
+        "Control ID": "SEF-07",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\nfor security breach notifications. Report security breaches and assumed security\nbreaches including any relevant supply chain breaches, as per applicable SLAs,\nlaws and regulations.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Points of Contact Maintenance",
+        "Control ID": "SEF-08",
+        "Control Specification": "Maintain points of contact for applicable regulation authorities,\nnational and local law enforcement, and other legal jurisdictional authorities.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response",
+        "Control ID": "SEF-09",
+        "Control Specification": "Define incident categories and severity levels for AI systems, and determine response procedures for each, including automated response where applicable.",
+        "Control Type": "Cloud & AI Related"
+    }
+]

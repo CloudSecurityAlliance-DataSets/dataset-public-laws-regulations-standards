@@ -1,0 +1,30 @@
+{
+  "secid": "secid:regulation/europa.eu/gdpr",
+  "name": "General Data Protection Regulation (Regulation (EU) 2016/679)",
+  "version": "",
+  "owner": "European Union (via European Commission)",
+  "type": "Regulation",
+  "description": "General Data Protection Regulation (Regulation (EU) 2016/679)",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
+    "notes": "EU legislation published on EUR-Lex is reusable per the EUR-Lex reuse policy. Attribution to the European Union is required."
+  },
+  "links": {
+    "source": "https://eur-lex.europa.eu/eli/reg/2016/679",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+}

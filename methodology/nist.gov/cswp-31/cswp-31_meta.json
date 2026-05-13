@@ -1,0 +1,260 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Executive Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1. Introduction",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1. Background",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                326.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2. CAIS Validation and Verification Process \u2014 5 phases",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1. Phase 1: Assess CAIS Risk Level",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                524.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2. Phase 2: System Evaluation to Find Proxy Equivalents",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                185.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.1. Physical Operational Environment",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                464.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.2. Application Purpose",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                350.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.3. Operational Characteristics",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                546.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.4. AI/ML Development Algorithms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                268.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.5. AI/ML Development Techniques",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                619.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.5.1. Flexibility of the Proposed Taxonomy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                523.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2.6. CAIS and Proxy Taxonomy Template",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                386.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3. Phase 3: CAIS/Proxy Similarity Testing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                577.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.4. Phase 4: Misuse Cases for Further Testing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                698.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.5. Phase 5: Proxy Misuse Case Testing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                526.0,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A. Glossary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                719.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 16,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 30,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

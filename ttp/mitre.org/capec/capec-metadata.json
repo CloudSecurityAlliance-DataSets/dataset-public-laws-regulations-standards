@@ -1,0 +1,54 @@
+{
+  "secid": "secid:ttp/mitre.org/capec",
+  "name": "Common Attack Pattern Enumeration and Classification",
+  "acronym": "CAPEC",
+  "alternate_names": ["MITRE CAPEC"],
+  "version": "",
+  "publication_id": "CAPEC",
+  "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
+  "type": "Taxonomy",
+  "description": "CAPEC is a community-developed list of common attack patterns — abstractions of techniques attackers use to exploit weaknesses (CWEs). Each CAPEC entry describes prerequisites, typical severity, attack flow, mitigations, and references to CWEs and CVE examples. Where CWE answers \"what is the weakness?\", CAPEC answers \"how is the weakness attacked?\". CAPEC is organized into views including Mechanisms of Attack and Domains of Attack.",
+  "relationToCloudSecurity": "CAPEC patterns inform threat modeling and security testing for cloud applications. Patterns like CAPEC-21 (Exploitation of Trusted Identifiers), CAPEC-115 (Authentication Bypass), and the Injection/Probabilistic Techniques meta-patterns map directly to cloud-API-surface concerns. Tools that perform automated threat modeling often pivot through CAPEC.",
+  "relationToAISecurity": "Historic CAPEC has limited direct AI coverage; AI-specific attack patterns are better served by MITRE ATLAS. Underlying CAPEC patterns (input validation, authentication, injection) still apply to AI service surfaces.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-CAPEC-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://capec.mitre.org/about/termsofuse.html",
+    "notes": "CAPEC is governed by MITRE Terms of Use (free use with attribution). The XML schema and full content are downloadable from the MITRE CAPEC site."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_Attack_Pattern_Enumeration_and_Classification",
+    "source": "https://capec.mitre.org/",
+    "downloads": "https://capec.mitre.org/data/downloads.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2007",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "CAPEC is actively maintained though release cadence is slower than CWE/ATT&CK. Often consumed alongside CWE (each CWE entry links to relevant CAPEC patterns)."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub pointing at MITRE CAPEC downloads. No local structured extraction yet."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README pointer to upstream MITRE CAPEC",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side."
+}

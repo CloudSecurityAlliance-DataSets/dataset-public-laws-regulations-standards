@@ -1,0 +1,44 @@
+{
+  "secid": "secid:reference/nist.gov/csrc-glossary",
+  "name": "NIST Computer Security Resource Center (CSRC) Glossary — consolidated terminology from NIST cybersecurity publications",
+  "acronym": "",
+  "version": "",
+  "publication_id": "",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Reference",
+  "description": "NIST Computer Security Resource Center (CSRC) Glossary — consolidated terminology from NIST cybersecurity publications",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the public domain in the United States per Section 105 of the US Copyright Act."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://csrc.nist.gov/glossary",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "unknown",
+    "extraction_host": "local (pre-reorg)",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only entry; markdown extraction pending."
+  },
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+}

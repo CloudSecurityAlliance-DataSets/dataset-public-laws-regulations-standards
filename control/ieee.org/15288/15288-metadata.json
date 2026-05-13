@@ -1,0 +1,30 @@
+{
+  "secid": "secid:control/ieee.org/15288",
+  "name": "IEEE 15288",
+  "version": "",
+  "owner": "IEEE (Institute of Electrical and Electronics Engineers)",
+  "type": "Standard",
+  "description": "IEEE 15288 — info-only stub. Purchase the standard from IEEE Xplore.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-IEEE-Copyright",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": false,
+    "license_text_url": "https://standards.ieee.org/copyright/",
+    "notes": "IEEE standards are copyrighted by IEEE and not redistributable. This directory is an info-only stub — purchase the standard from IEEE at the source URL below."
+  },
+  "links": {
+    "source": "https://standards.ieee.org/standard/15288.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+}

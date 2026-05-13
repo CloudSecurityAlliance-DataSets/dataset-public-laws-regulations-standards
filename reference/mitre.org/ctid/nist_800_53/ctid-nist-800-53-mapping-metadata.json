@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/mitre.org/ctid/nist-800-53-mapping",
+  "name": "CTID ATT&CK ↔ NIST SP 800-53 r5 Mapping",
+  "acronym": "CTID 800-53 Mapping",
+  "alternate_names": [
+    "NIST 800-53 ATT&CK Mappings"
+  ],
+  "version": "rev5_attack-14.1-enterprise",
+  "publication_id": "ctid-nist-800-53r5-attack-14.1-enterprise",
+  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "type": "Mapping",
+  "description": "Mapping between NIST SP 800-53 Rev 5 controls and MITRE ATT&CK 14.1 Enterprise techniques. Bidirectional: maps controls to techniques they mitigate, and techniques to controls that counter them.",
+  "relationToCloudSecurity": "Useful for federal agencies and FedRAMP consumers translating between 800-53 controls and ATT&CK techniques.",
+  "relationToAISecurity": "General-security mapping.",
+  "license": {
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://github.com/center-for-threat-informed-defense/mappings-explorer/blob/main/LICENSE",
+    "notes": "Apache-2.0."
+  },
+  "links": {
+    "source": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Snapshot."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Direct download of upstream-published data; no transformation applied."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "attack_version": "14.1",
+    "framework": "NIST SP 800-53 r5"
+  },
+  "notes": "Bidirectional 800-53 ↔ ATT&CK mapping."
+}

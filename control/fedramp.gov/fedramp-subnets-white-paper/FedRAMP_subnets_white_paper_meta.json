@@ -1,0 +1,499 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Subnets",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.7998046875,
+          316.5
+        ],
+        [
+          393.0,
+          316.5
+        ],
+        [
+          393.0,
+          363.0
+        ],
+        [
+          216.7998046875,
+          363.0
+        ]
+      ]
+    },
+    {
+      "title": "What They Are and Why They Matter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          130.5,
+          400.25390625
+        ],
+        [
+          477.75,
+          400.25390625
+        ],
+        [
+          477.75,
+          423.45703125
+        ],
+        [
+          130.5,
+          423.45703125
+        ]
+      ]
+    },
+    {
+      "title": "What is a subnet?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5,
+          124.5234375
+        ],
+        [
+          271.3359375,
+          124.5234375
+        ],
+        [
+          271.3359375,
+          149.66015625
+        ],
+        [
+          70.5,
+          149.66015625
+        ]
+      ]
+    },
+    {
+      "title": "Where are subnets required?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5,
+          250.20703125
+        ],
+        [
+          393.2578125,
+          250.20703125
+        ],
+        [
+          393.2578125,
+          274.5703125
+        ],
+        [
+          70.5,
+          274.5703125
+        ]
+      ]
+    },
+    {
+      "title": "What does SC-7 compliant subnetting\nlook like?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5,
+          124.8134765625
+        ],
+        [
+          496.65234375,
+          124.8134765625
+        ],
+        [
+          496.65234375,
+          178.5
+        ],
+        [
+          70.5,
+          178.5
+        ]
+      ]
+    },
+    {
+      "title": "What is \"publicly accessible?\"",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5,
+          547.5
+        ],
+        [
+          395.6484375,
+          547.5
+        ],
+        [
+          395.6484375,
+          572.34375
+        ],
+        [
+          70.5,
+          572.34375
+        ]
+      ]
+    },
+    {
+      "title": "What should CSPs be doing?\nWhat should Agencies and 3PAOs\nbe looking for?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          417.26953125
+        ],
+        [
+          450.333984375,
+          417.26953125
+        ],
+        [
+          450.333984375,
+          506.98828125
+        ],
+        [
+          70.5,
+          506.98828125
+        ]
+      ]
+    },
+    {
+      "title": "Management of subnet issues",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          275.537109375
+        ],
+        [
+          406.107421875,
+          275.537109375
+        ],
+        [
+          406.107421875,
+          300.287109375
+        ],
+        [
+          70.5,
+          300.287109375
+        ]
+      ]
+    },
+    {
+      "title": "What does the future look like for SC-7?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          170.2529296875
+        ],
+        [
+          511.59375,
+          170.2529296875
+        ],
+        [
+          511.59375,
+          196.5498046875
+        ],
+        [
+          70.5,
+          196.5498046875
+        ]
+      ]
+    },
+    {
+      "title": "Keep in mind that until this future arrives, we will be looking for subnets as described above.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          571.18359375
+        ],
+        [
+          491.2734375,
+          571.18359375
+        ],
+        [
+          491.2734375,
+          582.78515625
+        ],
+        [
+          70.5,
+          582.78515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FedRAMP_subnets_white_paper"
+}

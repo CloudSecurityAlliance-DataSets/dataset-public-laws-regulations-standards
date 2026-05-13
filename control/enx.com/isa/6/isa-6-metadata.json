@@ -1,0 +1,60 @@
+{
+  "secid": "secid:control/enx.com/isa@6",
+  "name": "Information Security Assessment",
+  "acronym": "ISA",
+  "alternate_names": ["ENX ISA", "TISAX ISA", "VDA ISA"],
+  "version": "6",
+  "publication_id": "ENX-ISA-v6",
+  "owner": "ENX Association",
+  "type": "Standard",
+  "description": "The ENX Information Security Assessment (ISA) is the assessment catalog used in TISAX (Trusted Information Security Assessment eXchange), the automotive industry's information security assessment and exchange mechanism. Version 6 organizes 80 controls into three subsets: Information Security (46 controls, sections 1-7), Prototype Protection (22 controls, section 8), and Data Protection (12 controls, section 9). Each control specifies a Control Question, an Objective, and Requirements at four levels: must, should, additional for high protection, and additional for very high protection. Controls map to ISO/IEC 27001:2013, ISO/IEC 27001:2022, ISA/IEC 62443, NIST CSF, NIST SP 800-53, and BSI standards.",
+  "relationToCloudSecurity": "TISAX is the de facto information security assessment framework for the European automotive supply chain. Cloud service providers serving automotive customers commonly seek TISAX labels through ISA assessment. The ISA catalog cross-references to ISO/IEC 27001 controls, making it a useful bridge between general infosec frameworks and automotive-industry requirements.",
+  "relationToAISecurity": "ISA v6 does not have explicit AI-specific controls. AI systems handling automotive data remain subject to the catalog's general information security, prototype protection, and data protection requirements.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "ENX ISA v6 is published under Creative Commons Attribution 4.0 International (CC BY 4.0). The XLSX itself includes a 'License' tab confirming the terms. Attribution: ENX Association / VDA (Verband der Automobilindustrie)."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/TISAX",
+    "source": "https://portal.enx.com/en-US/TISAX/downloads/",
+    "textUsed": "https://portal.enx.com/isa6-en.xlsx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-11",
+    "active": true,
+    "supersedes": "ISA v5",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "ISA v6 is the current version. v6 introduced refinements to the prototype protection and data protection sections, and updated mappings to ISO/IEC 27001:2022."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "openpyxl + custom Python (extract_isa.py)",
+    "tool_version": "openpyxl 3.x",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted from the official ENX-published XLSX (downloaded directly from portal.enx.com/isa6-en.xlsx — no authentication required). The XLSX is designed as an assessment form: each control has many columns including assessment-result fields that we leave blank (we only extract the published catalog content, not assessment results). Each control's text content spans approximately 18 columns of the 90-column source row."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction from ENX ISA v6 XLSX",
+      "tool": "openpyxl + extract_isa.py"
+    }
+  ],
+  "scope": {
+    "total_controls": 80,
+    "information_security_controls": 46,
+    "prototype_protection_controls": 22,
+    "data_protection_controls": 12,
+    "maturity_levels": 6
+  },
+  "notes": "SecID namespace entry for enx.com does not yet exist in the SecID registry — to be added. Using enx.com as the namespace per ENX Association's primary domain."
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Background Screening Policy and Procedures",
+        "Control ID": "HRS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for background verification of all new employees (including\nbut not limited to remote employees, contractors, and third parties) according\nto local laws, regulations, ethics, and contractual constraints and proportional\nto the data classification to be accessed, the business requirements, and acceptable\nrisk. Review and update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Acceptable Use of Technology Policy and Procedures",
+        "Control ID": "HRS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for defining allowances and conditions for the acceptable\nuse of organizationally-owned or managed assets. Review and update the policies\nand procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Clean Desk Policy and Procedures",
+        "Control ID": "HRS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures that require unattended workspaces to not have openly\nvisible confidential data. Review and update the policies and procedures at\nleast annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Remote and Home Working Policy and Procedures",
+        "Control ID": "HRS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures to protect information accessed, processed or stored\nat remote sites and locations. Review and update the policies and procedures\nat least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Asset returns",
+        "Control ID": "HRS-05",
+        "Control Specification": "Establish and document procedures for the return of organization-owned\nassets by terminated employees.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Termination",
+        "Control ID": "HRS-06",
+        "Control Specification": "Establish, document, and communicate to all personnel the procedures\noutlining the roles and responsibilities concerning changes in employment.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Process",
+        "Control ID": "HRS-07",
+        "Control Specification": "Employees sign the employee agreement prior to being granted access\nto organizational information systems, resources and assets.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Employment Agreement Content",
+        "Control ID": "HRS-08",
+        "Control Specification": "The organization includes within the employment agreements provisions\nand/or terms for adherence to established information governance and security\npolicies.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personnel Roles and Responsibilities",
+        "Control ID": "HRS-09",
+        "Control Specification": "Document and communicate roles and responsibilities of employees,\nas they relate to information assets and security.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Non-Disclosure Agreements",
+        "Control ID": "HRS-10",
+        "Control Specification": "Identify, document, and review, at planned intervals, requirements\nfor non-disclosure/confidentiality agreements reflecting the organization's\nneeds for the protection of data and operational details.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Security Awareness Training",
+        "Control ID": "HRS-11",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\na security awareness training program for all employees of the organization\nand provide regular training updates.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Personal and Sensitive Data Awareness and Training",
+        "Control ID": "HRS-12",
+        "Control Specification": "Provide all employees with access to sensitive organizational and\npersonal data with appropriate security awareness training and regular updates\nin organizational procedures, processes, and policies relating to their professional\nfunction relative to the organization.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "Compliance User Responsibility",
+        "Control ID": "HRS-13",
+        "Control Specification": "Make employees aware of their roles and responsibilities for maintaining\nawareness and compliance with established policies and procedures and applicable\nlegal, statutory, or regulatory compliance obligations.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "AI Competency Training",
+        "Control ID": "HRS-14",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain policies and procedures defining the AI training program for all relevant personnel of the organization based on their roles and provide regular training updates.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Human Resources",
+        "Control Title": "AI Acceptable Use",
+        "Control ID": "HRS-15",
+        "Control Specification": "Establish, document, and communicate to all personnel the policies and procedures\non the acceptable use of AI technologies within the organization.",
+        "Control Type": "AI-Specific"
+    }
+]

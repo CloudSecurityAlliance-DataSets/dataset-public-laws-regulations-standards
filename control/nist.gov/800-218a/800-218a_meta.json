@@ -1,0 +1,143 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1. Introduction",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1. Purpose",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                386.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2. Scope",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3. Sources of Expertise",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                538.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.4. Document Structure",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                145.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2. Using the SSDF Community Profile",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3. SSDF Community Profile for AI Model Development",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A. Glossary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                70.0,
+                720.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 30,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 76,
+        "code": 0,
+        "table": 13,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

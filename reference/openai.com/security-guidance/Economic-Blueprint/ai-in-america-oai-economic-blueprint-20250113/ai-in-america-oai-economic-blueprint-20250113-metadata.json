@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/openai.com/security-guidance/economic-blueprint/ai-in-america-oai-economic-blueprint-20250113",
+  "name": "AI in America: OpenAI's Economic Blueprint",
+  "acronym": "OAI Economic Blueprint",
+  "alternate_names": [
+    "AI in America Economic Blueprint"
+  ],
+  "version": "2025-01-13",
+  "publication_id": "OAI-Economic-Blueprint-20250113",
+  "owner": "OpenAI",
+  "type": "Whitepaper",
+  "description": "OpenAI's January 2025 economic blueprint document outlining policy positions and proposed frameworks for US AI development, deployment, and economic impact. Covers compute infrastructure, workforce, regulation, and competitive positioning.",
+  "relationToCloudSecurity": "AI infrastructure is overwhelmingly cloud-hosted; policy positions on AI development have cloud-platform implications.",
+  "relationToAISecurity": "Policy-oriented rather than technical-security-oriented. Useful context for AI governance discussions.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Guidance",
+    "redistribution": "see_source",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "https://openai.com/policies/terms-of-use",
+    "notes": "OpenAI publications subject to OpenAI Terms of Use. Excerpts and citations generally permitted."
+  },
+  "links": {
+    "source": "https://openai.com",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-13",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Position paper; not a control framework."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted from source PDF via the marker pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {},
+  "notes": "Policy document from a major AI vendor."
+}

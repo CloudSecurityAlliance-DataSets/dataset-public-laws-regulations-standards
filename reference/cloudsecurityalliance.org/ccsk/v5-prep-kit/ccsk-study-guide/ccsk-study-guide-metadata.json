@@ -1,0 +1,59 @@
+{
+  "secid": "secid:reference/cloudsecurityalliance.org/ccsk@v5-prep-kit/ccsk-study-guide",
+  "name": "Certificate of Cloud Security Knowledge — v5 Study Guide",
+  "acronym": "CCSK Study Guide",
+  "alternate_names": [
+    "CCSK v5 Study Guide",
+    "CCSK Prep Kit"
+  ],
+  "version": "v5-prep-kit",
+  "publication_id": "CCSK-v5-Prep-Kit-Study-Guide",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Guidance",
+  "description": "Study guide for the Certificate of Cloud Security Knowledge (CCSK) v5 exam. Covers the CSA Security Guidance for Critical Areas of Focus in Cloud Computing v5 and ENISA Cloud Computing Risk Assessment. Used by candidates preparing for the CCSK exam and as a cloud security overview reference.",
+  "relationToCloudSecurity": "Foundational cloud security curriculum — covers shared responsibility, cloud architectures, IAM, encryption, incident response, governance.",
+  "relationToAISecurity": "v5 includes expanded coverage of AI/ML workload security topics.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/education/ccsk",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "CCSK v4 Study Guide",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Marker-extracted from CSA-published PDF prep kit."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {},
+  "notes": "Foundational cloud-security reference. Use the underlying CSA Security Guidance v5 for normative content."
+}

@@ -1,0 +1,37 @@
+{
+  "metaData": {
+    "name": "Generative AI Controls Framework Safe, Secure, and Compliant AI Adoption Approach Whitepaper",
+    "acronym": "",
+    "owner": "IBM",
+    "itemType": "Whitepaper",
+    "locality": "",
+    "description": "This whitepaper outlines IBM's Generative AI Controls Framework, designed to guide organizations in safely, securely, and compliantly adopting generative AI technologies.",
+    "relationToCloudSecurity": "",
+    "relationToAISecurity": ""
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://community.ibm.com/community/user/fscc/viewdocument/generative-ai-controls-framework-sa?CommunityKey=911102bb-642f-450c-a1ea-0187c94429ba&tab=librarydocuments",
+    "textUsed": "https://community.ibm.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=2edd937b-8f5a-c822-2d98-88a9916232b0&forceDialog=0",
+    "csaLocation": ""
+  },
+  "conversionProcess": [
+    "Downloaded the document from the IBM community site",
+    "Converted HTML to Markdown",
+    "Performed basic cleanup of the Markdown file"
+  ],
+  "fileFormatNotes": "",
+  "fileDataRemovalNotes": [
+    {
+      "name": "",
+      "notes": ""
+    }
+  ],
+  "files": {
+    "downloadedFile": "",
+    "markdownFileFull": "",
+    "markdownFileProcessed": "",
+    "csvFile": "",
+    "jsonFile": "IBM-Generative-AI-Controls-Framework-Whitepaper-Controls.json"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/mitre.org/ctid/m365-mapping",
+  "name": "CTID ATT&CK → Microsoft 365 Security Capabilities Mapping",
+  "acronym": "CTID M365 Mapping",
+  "alternate_names": [
+    "M365 ATT&CK Mappings"
+  ],
+  "version": "12.11.2023_attack-14.1-enterprise",
+  "publication_id": "ctid-m365-attack-14.1-enterprise",
+  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "type": "Mapping",
+  "description": "Mapping of MITRE ATT&CK 14.1 Enterprise techniques to Microsoft 365 security service capabilities. Unusually granular per-capability files (Defender for Endpoint, Identity Protection, etc.) that enable licensing-tier (E3 vs E5) coverage analysis. Snapshot 2023-12-11.",
+  "relationToCloudSecurity": "Canonical reference for M365 platform threat-informed defense; commonly cited in CASB/SSE evaluations.",
+  "relationToAISecurity": "General-security mapping.",
+  "license": {
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://github.com/center-for-threat-informed-defense/mappings-explorer/blob/main/LICENSE",
+    "notes": "Apache-2.0."
+  },
+  "links": {
+    "source": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-12-11",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Snapshot. Largest CTID mapping set due to per-capability granularity."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "35+ per-capability JSON files in this directory."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "attack_version": "14.1",
+    "platform": "Microsoft 365",
+    "per_capability_files": true
+  },
+  "notes": "Most granular CTID mapping set."
+}

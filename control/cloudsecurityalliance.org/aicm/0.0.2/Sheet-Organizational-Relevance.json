@@ -1,0 +1,218 @@
+{
+    "data_source_name": "AICM",
+    "data_source_version": "0.0.2",
+    "data_source_origin": "Cloud Security Alliance",
+    "data_source_description": "AI Control Matrix",
+    "data_source_url": "https://docs.google.com/spreadsheets/d/1oR570DXujS8ITvzF2PGIFy1PkGu4VqUjyPyt14mMUmg/",
+    "section_title": "Organizational Relevance",
+    "id": "CSA-AICM-OR",
+    "sections": [
+        {
+            "name": "Cybersecurity",
+            "display_name": "Cybersecurity",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-Cybersecurity",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational cybersecurity team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational cybersecurity team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "Internal Audit",
+            "display_name": "Internal Audit",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-InternalAudit",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Internal Audit team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Internal Audit team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "Architecture team and/or capability",
+            "display_name": "Architecture team and/or capability",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-Archteam and/or capability",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Architecture team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Architecture team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "SW Development",
+            "display_name": "SW Dev",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-SWDev",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Software Development team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Software Development team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "Operations",
+            "display_name": "Operations",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-Operations",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Operations team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Operations team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "Legal/Privacy",
+            "display_name": "Legal/Privacy",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-LegalPrivacy",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Legal/Privacy team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Legal/Privacy team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "GRC team and/or capability",
+            "display_name": "GRC team and/or capability",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-GRCteam and/or capability",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Governance, Risk, and Compliance (GRC) team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Governance, Risk, and Compliance (GRC) team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "Supply Chain Management",
+            "display_name": "Supply Chain",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-SupplyChain",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational supply chain management team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational supply chain management team and/or capability"
+                }
+            ]
+        },
+        {
+            "name": "HR",
+            "display_name": "HR",
+            "description": "UNKNOWN",
+            "id": "CSA-AICM-OR-HR",
+            "selection_type": "single",
+            "selection_required": true,
+            "selected_options": [],
+            "selection_options": [
+                {
+                    "value": "true",
+                    "display_value": "true",
+                    "id": "true",
+                    "description": "true - this control is related to the organizational Human Resources team and/or capability"
+                },
+                {
+                    "value": "false",
+                    "display_value": "false",
+                    "id": "false",
+                    "description": "false - this control is NOT related to the organizational Human Resources team and/or capability"
+                }
+            ]
+        }
+    ]
+}

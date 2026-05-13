@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DRAFT for comment January 26, 2023",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.1796875,
+          30.2607421875
+        ],
+        [
+          294.0349426269531,
+          30.2607421875
+        ],
+        [
+          294.0349426269531,
+          45.97119140625
+        ],
+        [
+          56.1796875,
+          45.97119140625
+        ]
+      ]
+    },
+    {
+      "title": "Crosswalk",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.8349609375,
+          63.9052734375
+        ],
+        [
+          113.38990020751953,
+          63.9052734375
+        ],
+        [
+          113.38990020751953,
+          77.537109375
+        ],
+        [
+          54.8349609375,
+          77.537109375
+        ]
+      ]
+    },
+    {
+      "title": "AI RMF (1.0) and ISO/IEC FDIS 23894 Information technology - Artificial intelligence \nGuidance on risk management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.4326171875,
+          79.1806640625
+        ],
+        [
+          506.99951171875,
+          79.1806640625
+        ],
+        [
+          506.99951171875,
+          107.701171875
+        ],
+        [
+          55.4326171875,
+          107.701171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          94.728515625,
+          163.775390625
+        ],
+        [
+          208.1337890625,
+          163.775390625
+        ],
+        [
+          208.1337890625,
+          176.34375
+        ],
+        [
+          94.728515625,
+          176.34375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/crosswalk_AI_RMF_1_0_ISO_IEC_23894"
+}

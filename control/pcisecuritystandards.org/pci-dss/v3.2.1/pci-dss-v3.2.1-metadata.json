@@ -1,0 +1,69 @@
+{
+  "secid": "secid:control/pcisecuritystandards.org/pci-dss@3.2.1",
+  "name": "Payment Card Industry Data Security Standard",
+  "acronym": "PCI DSS",
+  "alternate_names": ["PCI-DSS"],
+  "version": "3.2.1",
+  "publication_id": "PCI-DSS-v3.2.1",
+  "owner": "PCI Security Standards Council, LLC",
+  "type": "Standard",
+  "description": "PCI DSS v3.2.1 (May 2018) was a minor revision of v3.2 that updated SSL/early-TLS deprecation dates and migration timing. It comprises 12 top-level Requirements organized into 6 goals (Build and Maintain a Secure Network, Protect Cardholder Data, Maintain a Vulnerability Management Program, Implement Strong Access Control Measures, Regularly Monitor and Test Networks, Maintain an Information Security Policy) plus appendices A1 (Shared Hosting Providers), A2 (SSL/TLS migration), and A3 (Designated Entities Supplemental Validation). v3.2.1 uses the older 3-column requirement table format (Requirements / Testing Procedures / Guidance) — v4.0 later restructured this as Defined Approach Requirements / Defined Approach Testing Procedures / Purpose, plus added the Customized Approach.",
+  "relationToCloudSecurity": "PCI DSS v3.2.1 was the active standard for cardholder data protection from May 2018 through Q1 2024 (when v4.0 became required). Cloud service providers serving payment-card-handling tenants commonly mapped their controls to v3.2.1 requirements. v3.2.1 requirement IDs are extensively referenced in compliance documentation pre-dating v4.0.",
+  "relationToAISecurity": "PCI DSS v3.2.1 does not address AI; AI systems handling cardholder data were still subject to its requirements.",
+  "license": {
+    "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
+    "redistribution": "permitted_for_study_purposes",
+    "derivatives": "modification_prohibited_per_section_III_1_2",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+    "notes": "PCI SSC License Agreement applies (same as for v4.0/v4.0.1). Free Read and Copy License for study purposes; modification prohibited."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
+    "source": "https://www.pcisecuritystandards.org/document_library/",
+    "textUsed": "https://www.commerce.uwo.ca/pdf/PCI_DSS_v3-2-1.pdf",
+    "textUsedNotes": "PCI SSC retired v3.2.1 from public download. The authentic PDF (Author=PCI SSC in metadata, 139 pages) is hosted by University of Western Ontario at the URL above. PCI SSC's own legacy URL https://www.pcisecuritystandards.org/pdfs/PCI-DSS-3.2.1-Release.pdf serves only the 1-page press release, not the full standard.",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-05-17",
+    "active": false,
+    "supersedes": "PCI DSS v3.2 (April 2016)",
+    "supersededBy": "PCI DSS v4.0 (March 2022) and subsequently v4.0.1 (June 2024)",
+    "retiredFromActiveUse": "2024-03-31",
+    "notes": "v3.2.1 was retired by PCI SSC on 2024-03-31 (the cutover date when v4.0 became required). The standard remains widely referenced in compliance documentation. Requirement numbering reorganized substantially in v4.0 — mappings against v3.2.1 IDs do not transfer directly to v4.0 IDs."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted in ~8 minutes total on the GPU box without --force_ocr (PCI DSS v3.2.1 has a clean text layer, same as v4.0.1). The parser walks marker's Table block tree to emit one row per requirement. v3.2.1 tables differ from v4.0.1: 3-column 'PCI DSS Requirements / Testing Procedures / Guidance' (no Defined/Customized Approach distinction), and each Table block contains many requirements as separate rows."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction from UWO-mirrored PDF (PCI SSC removed v3.2.1 from direct download in 2024)",
+      "tool": "marker_single",
+      "force_ocr": false
+    }
+  ],
+  "scope": {
+    "top_level_requirements": 12,
+    "goals": 6,
+    "appendices": ["A1", "A2", "A3"],
+    "extracted_requirements": 277,
+    "extracted_appendix_a1": 4,
+    "extracted_appendix_a2": 3,
+    "extracted_appendix_a3": 20,
+    "extraction_notes": "A3.1.3 and A3.2.2.1 are present in the PCI SSC source PDF but not captured as separate rows: marker rendered those table-continuations without the leading 'A3 Requirements' header column, so the parser cannot anchor a requirement ID. The testing-procedure text for both still appears under the preceding requirement."
+  },
+  "notes": "v3.2.1 is retired (superseded by v4.0/v4.0.1). Useful for mapping work that pre-dates the v4.0 cutover and for understanding the evolution of PCI DSS requirement numbering."
+}

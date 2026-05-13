@@ -1,0 +1,52 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Taxonomy",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                23.0,
+                690.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Suggested Additional Sources",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                23.0,
+                407.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 18,
+    "ocr_stats": {
+        "ocr_pages": 18,
+        "ocr_failed": 0,
+        "ocr_success": 18,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 14,
+        "code": 0,
+        "table": 14,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

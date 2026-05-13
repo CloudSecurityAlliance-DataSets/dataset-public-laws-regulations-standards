@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/fedramp.gov",
+  "name": "Federal Risk and Authorization Management Program",
+  "acronym": "FedRAMP",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "FedRAMP",
+  "owner": "Federal Risk and Authorization Management Program Office (US GSA)",
+  "type": "Program",
+  "description": "FedRAMP is a US government-wide compliance program providing a standardized approach to security authorization for cloud services used by federal agencies. Built on NIST SP 800-53 with FedRAMP-specific baselines (Low, Moderate, High, Li-SaaS). This directory contains the FedRAMP document library — guidance, templates, policies, and reference documents. Each subdirectory is an individual FedRAMP document with its own metadata file.",
+  "relationToCloudSecurity": "Foundational US federal cloud-security authorization program. Every cloud service provider serving US federal customers operates within this framework.",
+  "relationToAISecurity": "FedRAMP covers cloud services generally; AI services hosted on FedRAMP-authorized cloud platforms inherit base authorization but may need additional review per agency.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.fedramp.gov/",
+    "notes": "FedRAMP-published documents are works of the US government and generally in the public domain."
+  },
+  "links": {
+    "source": "https://www.fedramp.gov",
+    "documentLibrary": "https://www.fedramp.gov/documents-templates/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2011",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Continuously updated program. Documents revised on rolling cadence."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Top-level directory. Each FedRAMP document is a subdirectory with its own *-metadata.json. files.txt enumerates the contents; marketplace-*.csv is a snapshot of the FedRAMP Marketplace (authorized cloud services)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Document library mirror + Marketplace snapshot",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "documents": "see individual subdirectories"
+  },
+  "notes": "FedRAMP namespace overview. Individual documents have per-directory metadata."
+}

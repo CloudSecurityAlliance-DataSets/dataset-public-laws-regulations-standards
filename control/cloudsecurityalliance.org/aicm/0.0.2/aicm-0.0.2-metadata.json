@@ -1,0 +1,54 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm@0.0.2",
+  "name": "AI Controls Matrix",
+  "acronym": "AICM",
+  "alternate_names": [
+    "CSA AICM"
+  ],
+  "version": "0.0.2",
+  "publication_id": "AICM-0.0.2",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "Early-draft snapshot of CSA's AI Controls Matrix. AICM evolved through 0.0.x/0.9.x drafts into the 1.0 release. v0.0.2 reflects the early control taxonomy as the AICM working group was still iterating on domain structure.",
+  "relationToCloudSecurity": "Pre-release draft; CSA AICM 1.0 is the stable controls-mapping target for cloud-AI workloads.",
+  "relationToAISecurity": "Early-stage draft. Use 1.0.3 for current AI control assessments.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/ai-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "AICM 0.9.0, then 1.0",
+    "retiredFromActiveUse": "2024",
+    "notes": "Early draft retained for diff/history."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Early-draft control set, structured into per-domain CSV/JSON."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Historical draft",
+      "tool": "manual"
+    }
+  ],
+  "scope": {},
+  "notes": "Historical draft of AICM. Use 1.0.3 for current work."
+}

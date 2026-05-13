@@ -1,0 +1,28 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+,,,,,
+,Category,Level,Description,Proportion of risks in AI risk database,
+,Entity,Human,The risk is caused by a decision or action made by humans,0.39,
+,Entity,AI,The risk is caused by a decision or action made by an AI system,0.41,
+,Entity,Other,The risk is caused by some other reason or is ambiguous,0.2,
+,Intent,Intentional,The risk occurs due to an expected outcome from pursuing a goal,0.34,
+,Intent,Unintentional,The risk occurs due to an unexpected outcome from pursuing a goal,0.35,
+,Intent,Other,The risk is presented as occurring without clearly specifying the intentionality,0.31,
+,Timing,Pre-deployment,The risk occurs before the AI is deployed,0.13,
+,Timing,Post-deployment,The risk occurs after the AI model has been trained and deployed,0.62,
+,Timing,Other,The risk is presented without a clearly specified time of occurrence,0.25,
+,,,,,
+,Timing,Entity,Intentional,Unintentional,Other
+,Pre-deployment,Human,0.02,0.04,0.01
+,Pre-deployment,AI,0.01,0.02,0.01
+,Pre-deployment,Other,-,0.01,0.01
+,Post-deployment,Human,0.18,0.05,0.03
+,Post-deployment,AI,0.05,0.15,0.09
+,Post-deployment,Other,0.02,0.02,0.04
+,Other,Human,0.03,0.02,0.02
+,Other,AI,0.03,0.04,0.02
+,Other,Other,0,0.02,0.07
+,,,,,
+,,,,,
+,"In Table 2, values <1% are not shown",,,,
+,📧 Email: pslat[at]mit.edu,,,,
