@@ -1,0 +1,65 @@
+{
+  "secid": "secid:regulation/govinfo.gov/cfaa",
+  "name": "Computer Fraud and Abuse Act",
+  "acronym": "CFAA",
+  "alternate_names": [
+    "18 U.S.C. §1030"
+  ],
+  "version": "",
+  "publication_id": "18-USC-1030",
+  "owner": "US Department of Justice (enforcement)",
+  "type": "Regulation",
+  "description": "US federal computer crime statute codified at 18 U.S.C. §1030. Criminalizes a range of unauthorized access offenses: accessing computers without authorization, exceeding authorized access, computer fraud, damaging protected computers, trafficking in passwords, threatening to damage computers, etc. Originally enacted 1986; amended significantly by USA PATRIOT Act 2001, Identity Theft Enforcement Act 2008, Cyber Intelligence Sharing and Protection Act 2015, and others.",
+  "relationToCloudSecurity": "CFAA applies to unauthorized access into cloud-hosted systems. Security researchers, penetration testers, and red teams must operate under explicit authorization to avoid CFAA exposure. 2021 Supreme Court ruling (Van Buren v. United States) narrowed 'exceeds authorized access' interpretation.",
+  "relationToAISecurity": "Adversarial AI / model-evasion research that involves accessing production AI systems without authorization can implicate CFAA. Recent DOJ guidance (2022) clarifies good-faith security research safe harbor.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "US federal statutes are public-domain government works (17 USC §105) and may be freely redistributed."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act",
+    "source": "https://www.law.cornell.edu/uscode/text/18/1030",
+    "regulation_text": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1986-10-16",
+    "active": true,
+    "supersedes": "Comprehensive Crime Control Act 1984 §2102",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Continuously amended. Current text at 18 USC §1030."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "offenses": [
+      "unauthorized access",
+      "exceeds authorized access",
+      "computer fraud",
+      "damage to protected computer",
+      "password trafficking",
+      "extortion-related threats"
+    ]
+  },
+  "notes": "Foundational US computer crime statute. Acquire 18 USC §1030 from uscode.house.gov for structured extraction."
+}

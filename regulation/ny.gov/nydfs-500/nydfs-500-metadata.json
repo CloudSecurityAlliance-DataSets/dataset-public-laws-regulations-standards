@@ -1,0 +1,60 @@
+{
+  "secid": "secid:regulation/ny.gov/nydfs-500",
+  "name": "NYDFS Cybersecurity Regulation",
+  "acronym": "NYDFS 500",
+  "alternate_names": [
+    "23 NYCRR 500",
+    "Part 500"
+  ],
+  "version": "",
+  "publication_id": "23-NYCRR-500",
+  "owner": "New York State Department of Financial Services (NYDFS)",
+  "type": "Regulation",
+  "description": "New York State cybersecurity regulation (23 NYCRR Part 500) applicable to covered entities licensed or authorized to operate under NY Banking Law, Insurance Law, or Financial Services Law. Establishes minimum cybersecurity program requirements including risk assessment, written cybersecurity policy, CISO designation, access controls, MFA, encryption, incident response, third-party service provider security, vulnerability management, and annual certification. Original effective date 2017-03-01; amended November 2023 (effective 2023-11-01) with expanded requirements for Class A companies, governance, and incident reporting.",
+  "relationToCloudSecurity": "Covered entities using cloud services must include cloud providers in their Third Party Service Provider Security Policy (§500.11). NY's first-in-nation comprehensive cyber regulation for financial services; widely emulated by other state regulators and federal banking agencies.",
+  "relationToAISecurity": "Recent NYDFS guidance (October 2024) on cybersecurity risks arising from AI explicitly extends Part 500 to AI/ML systems used by covered entities.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "US state statutes are public-domain government works and may be freely redistributed."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_Codes,_Rules_and_Regulations",
+    "source": "https://www.dfs.ny.gov/industry_guidance/cyber",
+    "regulation_text": "https://www.dfs.ny.gov/system/files/documents/2023/11/rf_fs_23NYCRR500_amend2_text_20231101.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-03-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Amendment 2 effective 2023-11-01. Phased implementation through 2025-11-01."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "covered_entities": "NY Banking Law / Insurance Law / Financial Services Law licensees",
+    "key_sections": "500.2-500.23"
+  },
+  "notes": "First-in-nation comprehensive financial-services cyber regulation. Acquire DFS-published PDF for structured extraction."
+}

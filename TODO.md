@@ -74,6 +74,85 @@ These data-repo entries need corresponding namespace entries in [SecID](https://
 - [ ] `enx.com` — for ENX ISA v6 (TISAX)
 - [ ] `aiuc.com` — for AIUC-1 (need to verify the actual publisher's domain first)
 
+## Content gaps (publicly-redistributable docs in SecID registry but not in repo)
+
+Gap analysis 2026-05: SecID registry lists these publicly-available standards/regulations that aren't here yet. Excludes ISO/IEEE/ISF-SOGP/HITRUST (licensed; private repo or stubs only).
+
+### ⭐ Highest-impact (laws and regulations)
+
+**US federal laws** (`regulation/govinfo.gov` — namespace exists, zero docs):
+- [ ] **HIPAA** — Health Insurance Portability and Accountability Act
+- [ ] **FISMA** — Federal Information Security Management Act
+- [ ] **GLBA** — Gramm-Leach-Bliley Act
+- [ ] **CFAA** — Computer Fraud and Abuse Act
+
+**EU** (`regulation/europa.eu` — namespace covered, doc missing):
+- [ ] **NIS2** — Network and Information Security Directive 2
+
+**New York** (`regulation/ny.gov` — only LL144 in repo):
+- [ ] **NYDFS Cybersecurity Regulation (23 NYCRR 500)** — heavily referenced in financial services
+- [ ] **SHIELD Act** — Stop Hacks and Improve Electronic Data Security Act
+- [ ] **NYBCL** — New York Biometric Collection Law
+
+**State laws** (registered namespaces, docs missing):
+- [ ] **CalOPPA** — California Online Privacy Protection Act
+- [ ] **Colorado AI Act** — first US state AI law of consequence (`colorado.gov` has CPA but not the AI Act)
+- [ ] **Massachusetts AI bills** (`mass.gov`)
+- [ ] **Maryland facial recognition statutes** (`maryland.gov`)
+- [ ] **Nevada SB 220/260 privacy amendments** (`nv.gov`)
+- [ ] **Washington My Health My Data Act** (`wa.gov`)
+- [ ] **Florida biometric privacy provisions** (`florida.gov`)
+
+### Vendor cloud / AI control frameworks (standards, freely available)
+
+**AWS** (`control/amazon.com` — no dir):
+- [ ] AWS Well-Architected Framework
+- [ ] AWS Security Best Practices
+- [ ] AWS Security Hub Standards
+
+**Microsoft** (`control/microsoft.com` — no dir):
+- [ ] Microsoft Cloud Security Benchmark (MCSB)
+- [ ] Microsoft Secure Score
+
+**Google** (`control/google.com` — no dir):
+- [ ] Google Secure AI Framework (SAIF)
+- [ ] Google Frontier Safety Framework
+- [ ] Google Cloud Architecture Framework
+- [ ] Google Cloud Security Best Practices
+
+**OpenAI / Meta / IBM** (control-type, no dirs):
+- [ ] OpenAI Model Spec, Preparedness Framework, Red Teaming Network, System Cards
+- [ ] Meta Purple Llama Project, CyberSecEval Benchmark
+- [ ] IBM Generative AI Controls Framework
+
+### National government AI frameworks (gov-published)
+
+- [ ] Singapore: AI Verify, Model AI Governance Framework (`control/imda.gov.sg`)
+- [ ] China: AI Safety Governance Framework (`control/tc260.org.cn`)
+- [ ] EU control-type entries: ALTAI, Ethics Guidelines for Trustworthy AI
+
+### AI safety benchmarks (academic/open-source)
+
+Lower priority for a "laws/regs/standards" repo but registered:
+- [ ] safe.ai: HarmBench, WMDP
+- [ ] github.com/llm-attacks: AdvBench
+- [ ] github.com/nyu-mll: BBQ, WinoBias, StereoSet, CrowS-Pairs
+- [ ] github.com/thu-coai: SafetyBench
+- [ ] allenai.org: DecodingTrust, RealToxicityPrompts
+- [ ] alignment.org: ARC Evals
+- [ ] trustllmbenchmark.github.io: TrustLLM
+- [ ] jailbreakbench.github.io: JailbreakBench
+- [ ] metr.org: METR Task Standard, METR frontier model evaluations
+- [ ] mlcommons.org: MLCommons AI Safety, Croissant, MLPerf
+- [ ] concordia-ai.com: Frontier AI Risk Management Framework
+
+### Filing reconciliations
+
+- [x] ~~**AIDA**~~ — consolidated under `parl.ca` (Parliament of Canada is legal publisher); `canada.ca/aida` deprecated with redirect_to.
+- [ ] **D3FEND** — registry has under `control/mitre.org`; repo has under `ttp/mitre.org/d3fend/`. Resolve to one type.
+- [ ] **OWASP AI Exchange** — registry has under both `reference/owasp.org` and `control/org/owasp.json` (as "AI Exchange Controls"). Repo has the reference. Decide on canonical type and possibly add the controls view.
+- [ ] **HITRUST** — registry has both `control/net/hitrustalliance.json` (added recently) and `control/org/hitrust.json` (older). Reconcile to one.
+
 ## Plugin
 
 - [ ] **`process-laws-regulations-standards` plugin** in CINO-Plugins — skills for `dataset-ingest`, `dataset-extract`, `dataset-parse`, `dataset-sync`, `dataset-status`. Design discussed previously; will scaffold against the now-stable repo layout.

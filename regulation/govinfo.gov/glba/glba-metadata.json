@@ -1,0 +1,64 @@
+{
+  "secid": "secid:regulation/govinfo.gov/glba",
+  "name": "Gramm-Leach-Bliley Act",
+  "acronym": "GLBA",
+  "alternate_names": [
+    "Financial Services Modernization Act of 1999",
+    "Pub. L. 106-102"
+  ],
+  "version": "",
+  "publication_id": "Pub.L.106-102",
+  "owner": "US Federal Trade Commission (Safeguards Rule); SEC; banking regulators",
+  "type": "Regulation",
+  "description": "US federal law (Pub. L. 106-102, 1999) governing financial institutions' handling of customer information. Three rules: (1) Financial Privacy Rule (15 USC §§6801-6809) requires notice of information-sharing practices and opt-out rights; (2) Safeguards Rule (16 CFR Part 314) requires written information security programs; (3) Pretexting Provisions criminalize obtaining customer financial information under false pretenses.",
+  "relationToCloudSecurity": "Financial institutions using cloud services must include cloud providers in their GLBA Safeguards Rule scope. FTC's 2021 amendments to the Safeguards Rule explicitly require security risk assessments covering third-party service providers.",
+  "relationToAISecurity": "AI systems used by financial institutions for customer-data processing fall under Safeguards Rule. Banking regulator guidance (OCC, FDIC, Fed) increasingly addresses AI-specific risks within the GLBA framework.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "US federal statutes are public-domain government works (17 USC §105) and may be freely redistributed."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act",
+    "source": "https://www.ftc.gov/legal-library/browse/statutes/gramm-leach-bliley-act",
+    "safeguards_rule": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1999-11-12",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Safeguards Rule materially updated by FTC in 2021 (effective 2023) — added written program requirements, encryption, MFA, and incident response obligations."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "covered_entities": "US financial institutions",
+    "rules": [
+      "Financial Privacy Rule",
+      "Safeguards Rule (16 CFR 314)",
+      "Pretexting Provisions"
+    ]
+  },
+  "notes": "Foundational US financial-services privacy/security law. Acquire 16 CFR Part 314 from eCFR for structured extraction."
+}

@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/europa.eu/nis2",
+  "name": "Network and Information Security Directive 2",
+  "acronym": "NIS2",
+  "alternate_names": [
+    "Directive (EU) 2022/2555"
+  ],
+  "version": "",
+  "publication_id": "Directive-EU-2022-2555",
+  "owner": "European Union (ENISA implementation oversight)",
+  "type": "Regulation",
+  "description": "EU directive (Directive (EU) 2022/2555) establishing a high common level of cybersecurity across the EU. Replaces and significantly expands the original NIS Directive (2016/1148). Covers essential and important entities across 18 sectors including energy, transport, banking, financial market infrastructure, health, drinking water, wastewater, digital infrastructure, ICT service management, public administration, space, postal services, waste management, chemicals, food, manufacturing of certain critical products, digital providers, and research. Requires risk management measures, incident reporting (24-hour early warning, 72-hour notification, 1-month final report), and supply chain security. Member states had until 17 October 2024 to transpose into national law.",
+  "relationToCloudSecurity": "Cloud computing service providers are explicitly covered as 'digital infrastructure' essential entities. NIS2 substantially increases cybersecurity obligations for EU cloud providers and EU-serving cloud customers in covered sectors.",
+  "relationToAISecurity": "NIS2 doesn't specifically address AI but applies to AI systems operated by covered entities. AI systems in critical sectors must meet NIS2 security risk management requirements.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
+    "notes": "EU legislation published in Official Journal of the EU. Reuse permitted under EUR-Lex terms; attribution expected."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/NIS_2",
+    "source": "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive",
+    "regulation_text": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+    "enisa_guidance": "https://www.enisa.europa.eu/topics/nis-directive",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-12-14",
+    "active": true,
+    "supersedes": "NIS Directive (EU) 2016/1148",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Transposition deadline 2024-10-17. National implementations vary."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "sectors_covered": 18,
+    "essential_entities": "energy, transport, banking, FMI, health, water/wastewater, digital infrastructure, ICT mgmt, public admin, space",
+    "important_entities": "postal, waste, chemicals, food, manufacturing, digital providers, research"
+  },
+  "notes": "Major EU cybersecurity directive. Acquire from EUR-Lex (2022/2555) for structured extraction."
+}

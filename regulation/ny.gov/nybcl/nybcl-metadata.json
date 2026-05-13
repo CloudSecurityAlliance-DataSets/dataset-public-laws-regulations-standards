@@ -1,0 +1,56 @@
+{
+  "secid": "secid:regulation/ny.gov/nybcl",
+  "name": "New York Biometric Collection Law",
+  "acronym": "NYBCL",
+  "alternate_names": [
+    "NY Labor Law §201-a"
+  ],
+  "version": "",
+  "publication_id": "NY-LL-201-a",
+  "owner": "New York State Department of Labor",
+  "type": "Regulation",
+  "description": "New York State law restricting employer collection of biometric data. Codified at NY Labor Law §201-a. Prohibits employers from requiring fingerprinting except for specific exempted occupations. Companion to NYC Local Law 144 (automated employment decision tools) for the New York employment privacy landscape.",
+  "relationToCloudSecurity": "Cloud-based HR / time-and-attendance / access-control systems that collect employee biometrics in NY must comply with the §201-a restrictions.",
+  "relationToAISecurity": "Biometric AI systems (face recognition for time tracking, fingerprint authentication) used by NY employers fall under §201-a scope.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "US state statutes are public-domain government works and may be freely redistributed."
+  },
+  "links": {
+    "source": "https://www.nysenate.gov/legislation/laws/LAB/201-A",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "statute": "NY Labor Law §201-a"
+  },
+  "notes": "Companion to LL144 for NY employment-privacy landscape. Acquire NY Senate text."
+}

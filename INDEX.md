@@ -16,20 +16,20 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 191
+**Total documents indexed:** 201
 
 | State | Count |
 |---|---|
 | structured | 47 |
 | extracted | 70 |
-| metadata-only | 64 |
+| metadata-only | 74 |
 | readme-only | 4 |
 | empty | 6 |
 
 | Type | Count |
 |---|---|
 | control | 118 |
-| regulation | 37 |
+| regulation | 47 |
 | weakness | 2 |
 | ttp | 5 |
 | methodology | 3 |
@@ -164,12 +164,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 |---|---|---|---|---|
 | `regulation/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:regulation/bsi.bund.de/ai-c4` |
 | `regulation/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:regulation/bsi.bund.de/c5` |
+| `regulation/ca.gov/caloppa/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/caloppa` |
 | `regulation/ca.gov/ccpa-cpra/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/ccpa-cpra` |
 | `regulation/ca.gov/physicians-make-decisions-act/` | metadata-only | 3 | `M······` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
 | `regulation/ca.gov/sb-1001-bot-disclosure/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | extracted | 5 | `MXJ····` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | metadata-only | 4 | `M······` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
-| `regulation/canada.ca/aida/` | metadata-only | 3 | `M······` | `secid:regulation/canada.ca/aida` |
+| `regulation/colorado.gov/ai-act/` | metadata-only | 2 | `M······` | `secid:regulation/colorado.gov/ai-act` |
 | `regulation/colorado.gov/cpa-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/colorado.gov/cpa-privacy-act` |
 | `regulation/congress.gov/chips-act/` | metadata-only | 2 | `M······` | `secid:regulation/congress.gov/chips-act` |
 | `regulation/ct.gov/ctdpa/` | metadata-only | 2 | `M······` | `secid:regulation/ct.gov/ctdpa` |
@@ -178,8 +179,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/ai-act/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
 | `regulation/europa.eu/dora/` | structured | 7 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
 | `regulation/europa.eu/gdpr/` | structured | 7 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
+| `regulation/europa.eu/nis2/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
+| `regulation/govinfo.gov/cfaa/` | metadata-only | 2 | `M······` | `secid:regulation/govinfo.gov/cfaa` |
+| `regulation/govinfo.gov/fisma/` | metadata-only | 2 | `M······` | `secid:regulation/govinfo.gov/fisma` |
+| `regulation/govinfo.gov/glba/` | metadata-only | 2 | `M······` | `secid:regulation/govinfo.gov/glba` |
+| `regulation/govinfo.gov/hipaa/` | metadata-only | 2 | `M······` | `secid:regulation/govinfo.gov/hipaa` |
 | `regulation/illinois.gov/bipa/` | metadata-only | 2 | `M······` | `secid:regulation/illinois.gov/bipa` |
 | `regulation/in.gov/incdpa/` | metadata-only | 2 | `M······` | `secid:regulation/in.gov/incdpa` |
 | `regulation/industry.gov.au/ai-action-plan/` | metadata-only | 2 | `M······` | `secid:regulation/industry.gov.au/ai-action-plan` |
@@ -190,8 +196,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/mt.gov/mcdpa/` | metadata-only | 2 | `M······` | `secid:regulation/mt.gov/mcdpa` |
 | `regulation/nv.gov/privacy-amendments/` | metadata-only | 2 | `M······` | `secid:regulation/nv.gov/privacy-amendments` |
 | `regulation/ny.gov/local-law-144-ai-hiring/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
+| `regulation/ny.gov/nybcl/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nybcl` |
+| `regulation/ny.gov/nydfs-500/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nydfs-500` |
+| `regulation/ny.gov/shield-act/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/shield-act` |
 | `regulation/oregon.gov/ocpa/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/ocpa` |
 | `regulation/oregon.gov/oregon-consumer-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/oregon-consumer-privacy-act` |
+| `regulation/parl.ca/aida/` | metadata-only | 3 | `M······` | `secid:regulation/parl.ca/aida` |
 | `regulation/texas.gov/cubi-biometric-privacy/` | metadata-only | 2 | `M······` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
 | `regulation/tn.gov/tipa/` | metadata-only | 2 | `M······` | `secid:regulation/tn.gov/tipa` |
 | `regulation/utah.gov/ucpa/` | metadata-only | 2 | `M······` | `secid:regulation/utah.gov/ucpa` |
