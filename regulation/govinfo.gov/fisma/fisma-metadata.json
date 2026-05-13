@@ -1,0 +1,64 @@
+{
+  "secid": "secid:regulation/govinfo.gov/fisma",
+  "name": "Federal Information Security Modernization Act",
+  "acronym": "FISMA",
+  "alternate_names": [
+    "FISMA 2014",
+    "FISMA 2002"
+  ],
+  "version": "",
+  "publication_id": "Pub.L.113-283",
+  "owner": "US Office of Management and Budget / CISA",
+  "type": "Regulation",
+  "description": "US federal statute requiring agencies to develop, document, and implement programs to secure federal information and information systems. Original FISMA (2002, Pub. L. 107-347 Title III) was amended by the Federal Information Security Modernization Act of 2014 (Pub. L. 113-283), which clarified responsibilities of OMB, DHS (now CISA), and agency heads.",
+  "relationToCloudSecurity": "FISMA is the basis for FedRAMP — cloud service providers serving federal agencies operate under FedRAMP authorization, which is FISMA-compliant by construction. Mandates use of NIST standards (SP 800-53, FIPS 199/200) for federal systems.",
+  "relationToAISecurity": "AI systems operated by or for US federal agencies fall under FISMA scope. OMB Memo M-24-10 (March 2024) provides AI-specific implementation guidance overlaying the FISMA framework.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "US federal statutes are public-domain government works (17 USC §105) and may be freely redistributed."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002",
+    "source": "https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act",
+    "regulation_text": "https://www.govinfo.gov/content/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-12-18",
+    "active": true,
+    "supersedes": "FISMA 2002 (Pub. L. 107-347)",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "FISMA 2014 (Pub. L. 113-283) is current. Annual agency reports to OMB and Congress."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "applies_to": "US federal agencies and their information systems",
+    "key_documents_referenced": [
+      "NIST SP 800-53",
+      "FIPS 199",
+      "FIPS 200"
+    ]
+  },
+  "notes": "Foundational US federal-agency information security statute. Acquire PLAW-113publ283 text for structured extraction."
+}
