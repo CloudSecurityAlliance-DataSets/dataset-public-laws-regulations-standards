@@ -1,0 +1,93 @@
+[
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging and Monitoring Policy and Procedures",
+        "Control ID": "LOG-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for logging and monitoring. Review and update the policies\n and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's logging and monitoring requirements.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Protection",
+        "Control ID": "LOG-02",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to ensure the security and retention of audit logs.",
+        "Auditing Guidelines": "1. Examine the organization’s log retention requirements.\n 2. Evaluate the policy and technical measures with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Security Monitoring and Alerting",
+        "Control ID": "LOG-03",
+        "Control Specification": "Identify and monitor security-related events within applications\n and the underlying infrastructure. Define and implement a system to generate\n alerts to responsible stakeholders based on such events and corresponding metrics.",
+        "Auditing Guidelines": "1. Examine policy related to the security monitoring and alerting, and determine if security-related events within applications and the underlying infrastructure are identified.\n 2. Examine processes related to identifying responsible stakeholders for the purpose of alerting.\n 3. Evaluate the implementation with respect to effectiveness, and conduct a review of metrics."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Access and Accountability",
+        "Control ID": "LOG-04",
+        "Control Specification": "Restrict audit logs access to authorized personnel and maintain records\n that provide unique access accountability.",
+        "Auditing Guidelines": "1. Examine policy related to the protection of log information.\n 2. Determine if the control requirements stipulated in the policy have been implemented.\n 3. Examine policy related to the maintenance of access records."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Monitoring and Response",
+        "Control ID": "LOG-05",
+        "Control Specification": "Monitor security audit logs to detect activity outside of typical\n or expected patterns. Establish and follow a defined process to review and take\n appropriate and timely actions on detected anomalies.",
+        "Auditing Guidelines": "1. Examine policy for the monitoring of audit logs.\n 2. Determine if policy and patterns have been established for anomalous activities.\n 3. Examine policy for the review of, and timely action on anomalies."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Clock Synchronization",
+        "Control ID": "LOG-06",
+        "Control Specification": "Use a reliable time source across all relevant information processing\n systems.",
+        "Auditing Guidelines": "1. Examine policy that establishes the time scale and epoch, or traceability, of time across systems.\n 2. Evaluate the process that ensures synchronization of time on relevant systems."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging Scope",
+        "Control ID": "LOG-07",
+        "Control Specification": "Establish, document and implement which information meta/data system\n events should be logged. Review and update the scope at least annually or whenever\n there is a change in the threat environment.",
+        "Auditing Guidelines": "1. Examine policy for the identification of loggable events, applications, or systems. \n 2. Examine the outputs of such identification, with respect to review and approval.\n 3. Examine scope for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Records",
+        "Control ID": "LOG-08",
+        "Control Specification": "Generate audit records containing relevant security information.",
+        "Auditing Guidelines": "1. Examine policy related to audit logging and determine if it includes requirements to generate audit records containing relevant security information.\n 2. Examine audit records and determine if they adequately reflect the policy."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Protection",
+        "Control ID": "LOG-09",
+        "Control Specification": "The information system protects audit records from unauthorized access,\n modification, and deletion.",
+        "Auditing Guidelines": "1. Examine policy for the protection of audit records.\n 2. Evaluate the use of technical measures in the protection of audit records."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Encryption Monitoring and Reporting",
+        "Control ID": "LOG-10",
+        "Control Specification": "Establish and maintain a monitoring and internal reporting capability\n over the operations of cryptographic, encryption and key management policies,\n processes, procedures, and controls.",
+        "Auditing Guidelines": "1. Examine policy related to the monitoring and reporting of operations of cryptographic policy.\n 2. Examine the process to identify such a policy.\n 3. Evaluate the effectiveness of such reporting capability."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Transaction/Activity Logging",
+        "Control ID": "LOG-11",
+        "Control Specification": "Log and monitor key lifecycle management events to enable auditing\n and reporting on usage of cryptographic keys.",
+        "Auditing Guidelines": "1. Examine policy for logging and monitoring usage of cryptographic key usage lifecycle events.\n 2. Examine the process to identify such events.\n 3. Evaluate the review of these logs."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Access Control Logs",
+        "Control ID": "LOG-12",
+        "Control Specification": "Monitor and log physical access using an auditable access control\n system.",
+        "Auditing Guidelines": "1. Examine policy for logging and monitoring physical access.\n 2. Examine the process to identify such events.\n 3. Evaluate the review of these logs."
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Failures and Anomalies Reporting",
+        "Control ID": "LOG-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the reporting of anomalies and failures of the monitoring system\n and provide immediate notification to the accountable party.",
+        "Auditing Guidelines": "1. Examine the policy for reporting of anomalies and failures of the monitoring system.\n 2. Examine the process for identifying accountable parties."
+    }
+]

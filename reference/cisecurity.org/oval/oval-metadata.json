@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/cisecurity.org/oval",
+  "previous_secid": "secid:reference/mitre.org/oval",
+  "name": "Open Vulnerability and Assessment Language",
+  "acronym": "OVAL",
+  "alternate_names": ["MITRE OVAL", "CIS OVAL"],
+  "version": "",
+  "publication_id": "OVAL",
+  "owner": "Center for Internet Security (CIS) — originally MITRE, transferred to CIS in 2017",
+  "type": "Standard",
+  "description": "OVAL is an international, open standard for the structured assessment and reporting of machine state — used to describe how to check for the presence of vulnerabilities, configuration issues, patches, and inventoried software on a system. OVAL definitions are XML documents that name a test (e.g., \"is patch X applied?\") and describe how to evaluate it across supported platforms. OVAL was originally a MITRE project (with US-CERT/DHS sponsorship); maintenance transferred to CIS Center for Internet Security in 2017. The OVAL Repository and the OVAL Language specification continue at CIS.",
+  "relationToCloudSecurity": "OVAL definitions underpin vulnerability scanning and configuration assessment for OS-level (Linux, Windows) cloud instances. Cloud workload protection platforms and CIS Benchmarks frequently consume OVAL.",
+  "relationToAISecurity": "OVAL does not address AI/ML systems specifically. Applies to the underlying compute platform.",
+  "license": {
+    "spdx": "LicenseRef-CIS-OVAL",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://oval.cisecurity.org/",
+    "notes": "OVAL is a community standard; CIS maintains it under terms permitting community use and contribution. Specific license details should be verified at cisecurity.org for any redistribution."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Open_Vulnerability_and_Assessment_Language",
+    "source": "https://oval.cisecurity.org/",
+    "mitreLegacy": "https://oval.mitre.org/",
+    "github": "https://github.com/CISecurity/OVAL",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2002",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Filed under cisecurity.org per the DNS-canonical rule — CIS is the publishing organization since 2017. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/oval -> secid:reference/cisecurity.org/oval."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub. OVAL definitions are consumed directly from CIS by tools that use them."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README pointer to CIS",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Reference entry only. OVAL is foundational to OS-level vulnerability scanning."
+}

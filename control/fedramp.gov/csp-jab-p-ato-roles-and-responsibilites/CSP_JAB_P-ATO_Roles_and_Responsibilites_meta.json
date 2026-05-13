@@ -1,0 +1,119 @@
+{
+  "table_of_contents": [
+    {
+      "title": "@FedRAMP | CSP & ROLES AND RESPONSIBILITIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.25,
+          37.07666015625
+        ],
+        [
+          572.853515625,
+          37.07666015625
+        ],
+        [
+          572.853515625,
+          67.62744140625
+        ],
+        [
+          38.25,
+          67.62744140625
+        ]
+      ]
+    },
+    {
+      "title": "FEDRAMP IS COMMITTED TO:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          133.27734375,
+          666.0
+        ],
+        [
+          240.2578125,
+          666.0
+        ],
+        [
+          240.2578125,
+          680.625
+        ],
+        [
+          133.27734375,
+          680.625
+        ]
+      ]
+    },
+    {
+      "title": "ELEMENTS OF CSP SUCCESS:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          348.75,
+          666.0
+        ],
+        [
+          450.0,
+          666.0
+        ],
+        [
+          450.0,
+          678.3046875
+        ],
+        [
+          348.75,
+          678.3046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          102
+        ],
+        [
+          "Span",
+          102
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CSP_JAB_P-ATO_Roles_and_Responsibilites"
+}

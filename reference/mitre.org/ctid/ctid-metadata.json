@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/mitre.org/ctid",
+  "name": "Center for Threat-Informed Defense Mappings Explorer",
+  "acronym": "CTID Mappings",
+  "alternate_names": ["CTID", "Mappings Explorer", "Center for Threat-Informed Defense"],
+  "version": "",
+  "publication_id": "CTID-mappings-explorer",
+  "owner": "Center for Threat-Informed Defense (operated by MITRE Engenuity, a non-profit subsidiary of MITRE)",
+  "type": "Mapping",
+  "description": "The Center for Threat-Informed Defense (CTID) publishes cross-framework mappings between MITRE ATT&CK techniques and common security control frameworks. This directory mirrors the mappings-explorer dataset: ATT&CK mappings to AWS, Azure, GCP, Microsoft 365, NIST SP 800-53 r5, VERIS, and CVE. Each mapping file is a JSON manifest that links ATT&CK technique IDs to the framework's control IDs / asset names / vendor capabilities. Used by security architects to answer \"which controls cover technique X?\" and \"what's our coverage gap against ATT&CK?\"",
+  "relationToCloudSecurity": "CTID's cloud-platform mappings (AWS, Azure, GCP, M365) are the canonical reference for translating between ATT&CK technique IDs and cloud-platform security service capabilities. Essential for cloud-platform threat-informed defense assessments and gap analyses.",
+  "relationToAISecurity": "CTID has published some AI-relevant mappings (notably ATLAS technique mappings and AI-specific scenarios) but the primary AI surface is MITRE ATLAS itself. The mappings here are general-security oriented; check the CTID GitHub org for newer AI-specific work.",
+  "license": {
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://github.com/center-for-threat-informed-defense/mappings-explorer/blob/main/LICENSE",
+    "notes": "The mappings-explorer repository (and most CTID projects) are published under Apache-2.0. Both the data (JSON) and any derived structured forms are freely redistributable; preserve CTID and MITRE Engenuity attribution and the Apache-2.0 LICENSE."
+  },
+  "links": {
+    "source": "https://center-for-threat-informed-defense.github.io/mappings-explorer/",
+    "github": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
+    "orgGithub": "https://github.com/center-for-threat-informed-defense",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019 (CTID founded); mappings-explorer 2022+",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "CTID releases mappings continuously; the snapshot here is dated by filename (e.g., aws-09.21.2021_attack-9.0-enterprise_json.json embeds the ATT&CK version). Re-pull from upstream for current data."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Files are direct JSON downloads from the mappings-explorer repository. Filename convention encodes the source (aws/azure/gcp/m365/nist_800_53/veris/cve), the snapshot date, and the ATT&CK version mapped against."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct JSON downloads from CTID mappings-explorer",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "mapping_subdirectories": ["AWS", "azure", "gcp", "m365", "nist_800_53", "veris", "cve"]
+  },
+  "notes": "Most cited datasets for ATT&CK-to-cloud-platform crosswalks. M365 directory contains per-capability mapping files (40+) that are unusually granular — useful for licensing-tier coverage analysis (E3 vs E5)."
+}

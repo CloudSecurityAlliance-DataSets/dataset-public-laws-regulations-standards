@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Policy and Procedures",
+        "Control ID": "STA-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for the application of the Shared Security Responsibility\nModel (SSRM) within the organization. Review and update the policies and procedures\nat least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Supply Chain",
+        "Control ID": "STA-02",
+        "Control Specification": "Apply, document, implement and manage the SSRM throughout the supply\nchain for the cloud service offering.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Guidance",
+        "Control ID": "STA-03",
+        "Control Specification": "Provide SSRM Guidance to the CSC detailing information about the\nSSRM applicability throughout the supply chain.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Ownership",
+        "Control ID": "STA-04",
+        "Control Specification": "Delineate the shared ownership and applicability of all CSA CCM controls\naccording to the SSRM for the cloud service offering.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Documentation Review",
+        "Control ID": "STA-05",
+        "Control Specification": "Review and validate SSRM documentation for all cloud services offerings\nthe organization uses.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "SSRM Control Implementation",
+        "Control ID": "STA-06",
+        "Control Specification": "Implement, operate, and audit or assess the portions of the SSRM\nwhich the organization is responsible for.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Inventory",
+        "Control ID": "STA-07",
+        "Control Specification": "Develop and maintain an inventory of all supply chain relationships.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Risk Management",
+        "Control ID": "STA-08",
+        "Control Specification": "CSPs periodically review risk factors associated with all organizations\nwithin their supply chain.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Primary Service and Contractual Agreement",
+        "Control ID": "STA-09",
+        "Control Specification": "Service agreements between CSPs and CSCs (tenants) must incorporate at least the following mutually-agreed upon provisions and/or terms:\n• Scope, characteristics and location of business relationship and services offered\n• Information security requirements (including SSRM)\n• Change management process\n• Logging and monitoring capability\n• Incident management and communication procedures\n• Right to audit and third party assessment\n• Service termination\n• Interoperability and portability requirements\n• Data privacy\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Agreement Review",
+        "Control ID": "STA-10",
+        "Control Specification": "Review supply chain agreements between CSPs and CSCs at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Internal Compliance Testing",
+        "Control ID": "STA-11",
+        "Control Specification": "Define and implement a process for conducting internal assessments\nto confirm conformance and effectiveness of standards, policies, procedures,\nand service level agreement activities at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Service Agreement Compliance",
+        "Control ID": "STA-12",
+        "Control Specification": "Implement policies requiring all CSPs throughout the supply chain\nto comply with information security, confidentiality, access control, privacy,\naudit, personnel policy and service level requirements and standards.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Governance Review",
+        "Control ID": "STA-13",
+        "Control Specification": "Periodically review the organization's supply chain partners' IT\ngovernance policies and procedures.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Supply Chain Data Security Assessment",
+        "Control ID": "STA-14",
+        "Control Specification": "Define and implement a process for conducting security assessments\nperiodically for all organizations within the supply chain.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Supply Chain Management, Transparency, and Accountability",
+        "Control Title": "Security Boundaries",
+        "Control ID": "STA-15",
+        "Control Specification": "Establish security boundaries for both pre-production and production environments within the AI lifecycle (or the three attack surfaces of \"user input\", \"training data\", and \"AI model\") based on the risk level, that mirrors the standards for production applications to prevent them from compromising security principles. The security boundary is the need-to-know of the role of the LLM agent (as defined in IAM-17) and the associated risk level of the AI system. This security boundary should follow the LLM agent across environments.",
+        "Control Type": "AI-Specific"
+    }
+]

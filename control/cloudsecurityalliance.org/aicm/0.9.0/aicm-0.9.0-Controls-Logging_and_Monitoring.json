@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging and Monitoring Policy and Procedures",
+        "Control ID": "LOG-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for logging and monitoring. Review and update the policies\nand procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Protection",
+        "Control ID": "LOG-02",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to ensure the security and retention of audit logs.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Security Monitoring and Alerting",
+        "Control ID": "LOG-03",
+        "Control Specification": "Identify and monitor security-related events within applications\nand the underlying infrastructure. Define and implement a system to generate\nalerts to responsible stakeholders based on such events and corresponding metrics.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Access and Accountability",
+        "Control ID": "LOG-04",
+        "Control Specification": "Restrict audit logs access to authorized personnel and maintain records\nthat provide unique access accountability.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Audit Logs Monitoring and Response",
+        "Control ID": "LOG-05",
+        "Control Specification": "Monitor security audit logs to detect activity outside of typical\nor expected patterns. Establish and follow a defined process to review and take\nappropriate and timely actions on detected anomalies.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Clock Synchronization",
+        "Control ID": "LOG-06",
+        "Control Specification": "Use a reliable time source across all relevant information processing\nsystems.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Logging Scope",
+        "Control ID": "LOG-07",
+        "Control Specification": "Establish, document and implement which information meta/data system\nevents should be logged. Review and update the scope at least annually or whenever\nthere is a change in the threat environment.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Records",
+        "Control ID": "LOG-08",
+        "Control Specification": "Generate audit records containing relevant security information.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Log Protection",
+        "Control ID": "LOG-09",
+        "Control Specification": "The information system protects audit records from unauthorized access,\nmodification, and deletion.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Encryption Monitoring and Reporting",
+        "Control ID": "LOG-10",
+        "Control Specification": "Establish and maintain a monitoring and internal reporting capability\nover the operations of cryptographic, encryption and key management policies,\nprocesses, procedures, and controls.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Transaction/Activity Logging",
+        "Control ID": "LOG-11",
+        "Control Specification": "Log and monitor key lifecycle management events to enable auditing\nand reporting on usage of cryptographic keys.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Access Control Logs",
+        "Control ID": "LOG-12",
+        "Control Specification": "Monitor and log physical access using an auditable access control\nsystem.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Failures and Anomalies Reporting",
+        "Control ID": "LOG-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures for the reporting of anomalies and failures of the monitoring system\nand provide immediate notification to the accountable party.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Input Monitoring",
+        "Control ID": "LOG-14",
+        "Control Specification": "Log and monitor all input events (content and metadata) to enable auditing and reporting on the usage of AI models.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Logging and Monitoring",
+        "Control Title": "Output Monitoring",
+        "Control ID": "LOG-15",
+        "Control Specification": "Log and monitor all output events (content and metadata) to enable auditing and reporting on usage of AI models.",
+        "Control Type": "AI-Specific"
+    }
+]

@@ -1,0 +1,10 @@
+*.pdf
+*.xlsx
+*.zip
+*.gz
+*.xz
+.DS_Store
+.claude
+.gemini
+.codex
+

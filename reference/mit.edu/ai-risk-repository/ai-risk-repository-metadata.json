@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/mit.edu/ai-risk-repository",
+  "name": "MIT AI Risk Repository",
+  "acronym": "MIT AI Risk Repository",
+  "alternate_names": [
+    "AI Risk Repository"
+  ],
+  "version": "",
+  "publication_id": "MIT-AI-Risk-Repository",
+  "owner": "MIT FutureTech / MIT CSAIL",
+  "type": "Database",
+  "description": "Living database of AI risks compiled from a comprehensive literature review. Organizes ~700+ identified risks across multiple taxonomies (causal, domain, etc.). Used by researchers, policymakers, and practitioners as a reference catalog of documented AI risks.",
+  "relationToCloudSecurity": "AI risks identified often have cloud-hosting implications when AI is deployed in cloud environments.",
+  "relationToAISecurity": "One of the most comprehensive public catalogs of AI risks. Useful for risk assessments and policy work.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "MIT AI Risk Repository is released under CC BY 4.0 per the project site."
+  },
+  "links": {
+    "source": "https://airisk.mit.edu",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Continuously updated."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Direct CSV download from airisk.mit.edu. Multiple CSV files map to different taxonomies/views of the underlying risk database."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "risks_count_approx": 700
+  },
+  "notes": "Reference catalog of AI risks. Snapshot dated by download time."
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Transparency in Frontier Artificial Intelligence Act",
+  "acronym": "SB-53",
+  "identifier": "SB-53",
+  "bill_id": "202520260SB53",
+  "version": "Introduced 2025-01-08",
+  "date": "2025-01-08",
+  "issuer": "California State Legislature",
+  "author": "Senator Scott Wiener",
+  "legislative_session": "2025-2026",
+  "type": "regulation",
+  "status": "Introduced (not yet enacted)",
+  "geographic_scope": ["California", "United States"],
+  "industry_scope": ["artificial intelligence", "technology", "software development"],
+  "compliance_status": "mandatory (if enacted)",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53",
+  "license_required": false,
+  "last_updated": "2025-01-08",
+  "tags": [
+    "ai",
+    "artificial intelligence",
+    "frontier ai",
+    "transparency",
+    "catastrophic risk",
+    "whistleblower protection",
+    "safety",
+    "regulation",
+    "california",
+    "state law"
+  ],
+  "relation_to_cloud_security": "Requires transparency and safety measures for large-scale AI models that may be deployed on cloud infrastructure. Impacts cloud providers hosting frontier AI systems.",
+  "relation_to_ai_security": "Directly regulates AI safety, transparency, and risk management for frontier AI models. Establishes requirements for reporting catastrophic risks, publishing safety frameworks, and protecting whistleblowers who report AI safety concerns.",
+  "description": "California Senate Bill 53 establishes the Transparency in Frontier Artificial Intelligence Act, requiring developers of frontier AI models to publish safety frameworks, report potential catastrophic risks, establish internal whistleblower mechanisms, and protect employees who report safety concerns. The bill also creates the CalCompute consortium to advance AI research and computing infrastructure in California.",
+  "key_provisions": [
+    "Definitions of 'frontier model' and 'catastrophic risk'",
+    "Requirements for AI developers to publish frontier AI frameworks",
+    "Mandatory reporting of potential catastrophic risks to the state",
+    "Establishment of internal whistleblower reporting mechanisms",
+    "Legal protections for employees reporting AI safety concerns",
+    "Creation of CalCompute consortium for AI research",
+    "Amendments to Business and Professions Code, Government Code, and Labor Code"
+  ],
+  "applies_to": [
+    "Large AI developers",
+    "Developers of frontier AI models",
+    "Companies creating AI systems with catastrophic risk potential"
+  ],
+  "effective_date": "TBD (pending legislative process)",
+  "notes": "This bill is in the introduced stage and has not been enacted into law. Content and provisions may change through the legislative process."
+}

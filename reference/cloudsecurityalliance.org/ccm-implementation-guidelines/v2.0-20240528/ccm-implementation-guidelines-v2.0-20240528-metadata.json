@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/cloudsecurityalliance.org/ccm-implementation-guidelines@v2.0-20240528",
+  "name": "CCM Implementation Guidelines",
+  "acronym": "CCM Impl Guidelines",
+  "alternate_names": [],
+  "version": "v2.0-20240528",
+  "publication_id": "CCM-Implementation-Guidelines-v2.0-2024-05-28",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Guidance",
+  "description": "Implementation guidance for CSA CCM controls — explains how to operationalize each CCM control, with implementation examples, references, and validation criteria. Companion document to the CCM controls catalog itself. v2.0 published 2024-05-28.",
+  "relationToCloudSecurity": "Practical guidance for CSPs implementing CCM controls. Often the difference between 'check the box' and 'actually implement the control'.",
+  "relationToAISecurity": "CCM covers general cloud security; for AI-specific implementation guidance see AICM and its companion docs.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-05-28",
+    "active": true,
+    "supersedes": "CCM Implementation Guidelines v1.x",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted from source PDF via the marker pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {},
+  "notes": "Companion document to CCM. Use alongside CCM v4.x for implementation."
+}

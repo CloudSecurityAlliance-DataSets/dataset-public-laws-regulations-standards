@@ -1,0 +1,59 @@
+{
+  "secid": "secid:ttp/mitre.org/attack",
+  "name": "MITRE ATT&CK",
+  "acronym": "ATT&CK",
+  "alternate_names": ["MITRE ATT&CK Framework", "ATTACK"],
+  "version": "16.1",
+  "publication_id": "ATTACK-v16.1",
+  "owner": "MITRE Corporation (with US Government funding)",
+  "type": "Framework",
+  "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. It is organized as matrices (Enterprise, Mobile, ICS) of Tactics (the why — e.g., Initial Access, Execution, Persistence) crossed with Techniques (the how — e.g., Phishing, Command and Scripting Interpreter). Each Technique has sub-techniques, mitigations, detections, references to known threat groups, and software used. ATT&CK is the de facto common language for adversary behavior in threat intelligence, detection engineering, and red/purple-team work. The Enterprise matrix covers Windows, macOS, Linux, Containers, Cloud (AWS/Azure/GCP/SaaS/IaaS/Office 365), and Network platforms.",
+  "relationToCloudSecurity": "ATT&CK Enterprise includes dedicated Cloud platform coverage (IaaS/SaaS/Office 365/Azure AD/Google Workspace) with cloud-specific techniques and sub-techniques. Cloud security tools commonly map detections and alerts to ATT&CK technique IDs. ATT&CK is the substrate that CSA's threat-modeling work, MITRE D3FEND, and the Center for Threat-Informed Defense build on.",
+  "relationToAISecurity": "ATT&CK addresses traditional adversary behavior; AI-specific adversary techniques (model evasion, training-data poisoning, prompt injection, etc.) are covered by MITRE ATLAS, which uses an ATT&CK-style structure but is a separate matrix.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-ATTACK-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://attack.mitre.org/resources/legal-and-branding/terms-of-use/",
+    "notes": "ATT&CK content is governed by the MITRE ATT&CK Terms of Use (free use with attribution). The mitre/cti GitHub repository (STIX 2.0 export of the dataset) is published under Apache-2.0 for code; data attribution requirement is preserved separately."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitre_ATT%26CK",
+    "source": "https://attack.mitre.org/",
+    "github": "https://github.com/mitre/cti",
+    "stixData": "https://github.com/mitre-attack/attack-stix-data",
+    "releases": "https://github.com/mitre/cti/releases",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "ATT&CK is on a roughly twice-yearly release cadence. v16.1 (referenced in README) is the version of cti-repo content currently mirrored here."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub pointing at the upstream mitre/cti repository for STIX 2.0 bundles. No local structured extraction yet — ATT&CK content is consumed directly from upstream by downstream tools that need it."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README pointer to upstream cti repo",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "matrices": ["Enterprise", "Mobile", "ICS"],
+    "enterprise_platforms": ["Windows", "macOS", "Linux", "Containers", "Cloud (IaaS/SaaS/Office365/Azure AD/Google Workspace)", "Network"]
+  },
+  "notes": "ATT&CK is the most-cited adversary behavior framework in the industry. Downstream consumers should pin to specific ATT&CK versions for reproducibility — technique IDs are stable but coverage grows release-over-release."
+}

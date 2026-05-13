@@ -1,0 +1,51 @@
+[
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application and Interface Security Policy and Procedures",
+        "Control ID": "AIS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for application security to provide guidance to the\n appropriate planning, delivery and support of the organization's application\n security capabilities. Review and update the policies and procedures at least\n annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to planning, delivery, and support of the organization's application security capabilities.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Baseline Requirements",
+        "Control ID": "AIS-02",
+        "Control Specification": "Establish, document and maintain baseline requirements for securing\n different applications.",
+        "Auditing Guidelines": "1. Examine policy and procedures for adequacy and effectiveness.\n 2. Determine if security baseline requirements of respective applications are clearly defined.\n 3. Examine the process to determine the baseline for an application."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Security Metrics",
+        "Control ID": "AIS-03",
+        "Control Specification": "Define and implement technical and operational metrics in alignment\n with business objectives, security requirements, and compliance obligations.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of operational metrics, security, and compliance requirements."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Secure Application Design and Development",
+        "Control ID": "AIS-04",
+        "Control Specification": "Define and implement a SDLC process for application design, development,\n deployment, and operation in accordance with security requirements defined by\n the organization.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of SDLC (Software Development Lifecycle), security, and compliance requirements.\n 2. Examine the state of implementation of the SDLC process.\n 3. Verify that the SDLC implementation is in accordance with requirements."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Application Security Testing",
+        "Control ID": "AIS-05",
+        "Control Specification": "Implement a testing strategy, including criteria for acceptance of\n new information systems, upgrades and new versions, which provides application\n security assurance and maintains compliance while enabling organizational speed\n of delivery goals. Automate when applicable and possible.",
+        "Auditing Guidelines": "1. Examine policy and procedures for definition of testing strategies, automation of security testing, and change management.\n 2. Determine security assurance and acceptance criteria for the new information system(s).\n 3. Determine if the software release process is automated where applicable."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Automated Secure Application Deployment",
+        "Control ID": "AIS-06",
+        "Control Specification": "Establish and implement strategies and capabilities for secure, standardized,\n and compliant application deployment. Automate where possible.",
+        "Auditing Guidelines": "1. Examine policy and procedures for implementation of application deployment. \n 2. Determine if segregation of duties (role and responsibilities) is clearly defined among security and application teams.\n 3. Determine if Identification and integration process is defined and verified for application deployment processes. \n 4. Evaluate the extent of automation deployed, and criteria used."
+    },
+    {
+        "Control Domain": "Application & Interface Security",
+        "Control Title": "Application Vulnerability Remediation",
+        "Control ID": "AIS-07",
+        "Control Specification": "Define and implement a process to remediate application security\n vulnerabilities, automating remediation when possible.",
+        "Auditing Guidelines": "1. Examine the policy and procedures to remediate application security vulnerabilities and automating remediation.\n 2. Evaluate whether roles and responsibilities, including escalation paths for application security incident response and remediation, are defined and effective.\n 3. Determine if the organization leverages automation when possible and if this automation increases remediation efficiency."
+    }
+]

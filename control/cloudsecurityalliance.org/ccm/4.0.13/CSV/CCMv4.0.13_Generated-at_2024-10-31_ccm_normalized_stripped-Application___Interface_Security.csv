@@ -1,0 +1,381 @@
+Control Domain,Control Title,Control ID,CCM_Control Specification,Implementation Guidelines_CCM Implementation Guidelines v2.0 CSP,Implementation Guidelines_CSC,Auditing Guidelines_Auditing Guidelines
+Application & Interface Security,Application and Interface Security Policy and Procedures,AIS-01,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for application security to provide guidance to the
+appropriate planning, delivery and support of the organization's application
+security capabilities. Review and update the policies and procedures at least
+annually.
+","Control Ownership Rationale.
+This control's implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC should independently establish their own policies and procedures for guiding the development and implementation of application security capabilities based on the cloud service model in effect within the organizations.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should establish policies and procedures for guiding the secure development and implementation of cloud applications and application interfaces. The policies should align with the CSP's purpose and strategy with top management's commitment to continuous improvement.
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: The cloud organization should define the scope and objectives of the AIS policies and procedures
+i. The scope of the policy and procedures, including::
+• The cloud environments and within those the applications and Interfaces (APIs) that should be covered
+• The applicability of the policies and procedures to third-party vendors involved in the development and deployment of cloud-based applications
+• Address cross-functional aspects, incorporating requirements from various teams, such as development, security, operations, and legal
+ii. The objectives of the policy and procedures, including:
+• The protection of sensitive and personal data, preventing unauthorized access, and maintaining applications' availability
+• The alignment of the policies and procedures with the organization's overall security strategy and compliance requirements
+• The expected outcomes of implementing and adhering to the policies and procedures (e.g., reduced vulnerability risk, improved security posture)
+b. Application Security Baseline Requirements: Requirements for establishing, documenting, implementing and assessing a centralized security baseline that outlines the minimum security requirements for all cloud-based applications and APIs. This baseline should be based on industry standards (e.g., OWASP), best practices, and the organization's specific risk tolerance
+c. Application Security Metrics: Metrics to track the effectiveness of application security controls and processes that should be regularly reviewed and reported onto to identify trends and areas for improvement
+d. Secure Application Development: Requirements to define and establish a SSDLC governance framework that incorporates security practices throughout the entire development process (i.e., threat modeling, secure design and coding guidelines, security testing and code reviews, remediation, and secure coding training)
+e. Automated Application Security Testing: Requirements for the application security testing tools (automated if possible) integration into the SSDLC to identify vulnerabilities early in the development process
+f. Automated Secure Application Deployment: Requirements for deployment pipelines (automated if possible) to ensure that applications are deployed securely and consistently (e.g., code review, vulnerability scanning, and security configuration management)
+g. In-house or 3rd Party Supplier Application Development: Security requirements for third-party vendors that develop or deploy cloud-based applications for the organization that should be aligned with the organization's security baseline and should cover all phases of the SSDLC
+i. A risk assessment of each third-party vendor before engaging them to evaluate the vendor's security practices, experience, and reputation
+ii. A contractual obligation for the third-party vendor should be established to comply with the organization's security requirements
+h. Application Vulnerability Remediation: Vulnerability management requirements to identify, prioritize, and remediate vulnerabilities in cloud-based applications (with automated tools if possible). Requirements should include clear timelines for remediation and escalation procedures for high-risk vulnerabilities
+i. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the AIS policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+j. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders, including developers, operations teams, and CSCs
+k. Maintenance and Reviews: Application security policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks  
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+
+Policies should include (but not limited to) provisions on the following:
+The policies provided for the CSP apply.
+","1. Examine policy and procedures for adequacy, approval, communication, and effectiveness as applicable to planning, delivery, and support of the organization's application security capabilities.
+2. Examine policy and procedures for evidence of review at least annually.
+"
+Application & Interface Security,Application Security Baseline Requirements,AIS-02,"Establish, document and maintain baseline requirements for securing
+different applications.
+","Control Ownership Rationale.
+This control's implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC are independently responsible for establishing, documenting, and maintaining baseline requirements to secure the various cloud applications that are either produced or consumed.
+
+Implementation Guidelines.
+Applicable to all service models:
+The baseline requirements should include, but not be limited to:
+a. Applications Categorization:
+i. A risk-based approach should be used to identify, classify and categorize all relevant cloud applications and APIs based on the sensitivity, criticality, and the type of data they handle, and regulatory requirements
+ii. Specific security requirements should be established for each application type (e.g., configuration, access control, encryption, vulnerability management, and incident response)
+b. Baseline Requirements Documentation:
+i. A security baseline document should be created for each application type in a security requirements specification (SRS)
+ii. Include details on each security requirement with respect to specific security controls, configurations, and procedures that should be implemented
+c. Baseline Requirements Implementation:
+i. Cloud infrastructure features and third-party security tools should be used to implement the documented security requirements by their corresponding security controls
+ii. Security control implementations and configuration should be implemented using infrastructure as code (IaC) tools
+iii. Security controls should be integrated into the SSDLC to ensure security is embedded across all lifecycle phases in adherence to the established baseline requirements
+d. Baseline Review and Updates:
+i. The security baseline requirements should be regularly reviewed and updated to reflect changes in applications technology, evolving threats, industry standards, possible findings from the continuous monitoring and assessment process, and the organization's risk profile
+ii. Lessons learned from security incidents and audits should be incorporated into the security baseline
+iii. Baseline requirements should be reviewed and approved by management on a periodic basis and/or upon significant changes
+e. Compliance to Baseline Requirements:
+i. Risk assessments should be conducted to evaluate cloud applications security and configurations alignment with the baseline
+ii. Baseline requirements should be extended to third-party applications via thorough security assessments ensuring they meet the established baseline requirements before integration into the cloud environment
+iii. Automated tools should be used to detect and remediate security violations
+f. Continuous Monitoring and Evaluation: Automated tools, manual reviews, and regular penetration testing for continuous security monitoring, vulnerability assessments, and compliance checks should be employed to ensure ongoing adherence to baseline requirements 
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+Additionally, the IaaS and PaaS CSC should create the baseline requirements for securing the provided cloud services and applications. However, the SaaS CSC should consider adopting the security baseline requirements provided by the CSP and third parties that are managing the underlying infrastructure and platforms. The CSC should ensure that approved configurations are in place for their application stack.
+","1. Examine policy and procedures for adequacy and effectiveness.
+2. Determine if security baseline requirements of respective applications are clearly defined.
+3. Examine the process to determine the baseline for an application.
+"
+Application & Interface Security,Application Security Metrics,AIS-03,"Define and implement technical and operational metrics in alignment
+with business objectives, security requirements, and compliance obligations.
+","Control Ownership Rationale.
+This control's implementation is a shared and independent responsibility for the CSP and the CSC since both need to define and implement metrics for the cloud applications they manage and according to their own unique business objectives, security requirements, and compliance obligations.
+
+Implementation Guidelines.
+Applicable to all service models:
+By implementing technical and operational metrics for cloud applications, CSPs can optimize performance, enhance cost efficiency, maintain security, and elevate customer trust.
+
+To effectively define and develop cloud application security metrics, the CSP should follow a structured approach that aligns with business objectives, security requirements, and compliance obligations.
+
+The metrics should be documented to include descriptions and efficient and effective ways of gathering underlying data.
+a. Purpose and Scope Determination:
+i. The purpose of the metrics should be determined (e.g., to measure security posture, compliance adherence, or risk mitigation effectiveness)
+ii. The specific cloud applications or environments to be covered by the metrics should be identified
+b. Key Security Domains:
+i. Security metrics should be categorized into relevant domains (e.g., vulnerability management, access control, data protection, and incident response)
+ii. Metrics should be prioritized based on their importance to the organization's security posture and business goals
+c. Measurable Parameters:
+i. For each security domain, specific measurable parameters should be identified that accurately reflect the security posture
+ii. Should ensure the selected parameters are quantifiable, consistent, and aligned with industry standards
+d. Thresholds and Benchmarks:
+i. Acceptable thresholds for each metric should be defined, representing acceptable levels of security performance
+ii. Metric performance should be compared against industry benchmarks or internal targets to assess security posture
+e. Data Collection and Aggregation:
+i. A mechanism for collecting raw data from relevant sources should be established, such as security tools, logs, and cloud provider APIs
+ii. Collected data should be aggregated into meaningful metrics for analysis and reporting
+f. Data Analysis and Visualization:
+i. Data visualization tools should be utilized to present metrics in clear and understandable dashboards and reports
+ii. Trends and patterns in metric data should be analyzed to identify potential security issues or areas for improvement
+g. Integration with Existing Processes:
+i. Consider integrating security metrics into existing security reporting and risk management processes
+ii. Metrics should be used to inform decision-making and prioritize security investments
+h. Continuous Monitoring and Evaluation:
+i. Metrics performance should be regularly monitored and their effectiveness evaluated in measuring the cloud applications security posture
+ii. Metrics should be refined and adapted as security requirements and business objectives evolve
+iii. Various reports targeted toward different audiences should be generated from the metrics (e.g., KPIs, and KRIs) to track, quantify, and provide visibility into the effectiveness of the application security posture.  
+i. SMART framework for metrics: A SMART framework can be adopted. SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound.
+i. Specific: The metric should have a clear and well-defined definition that leaves no room for ambiguity. It should be specific enough to focus on a particular aspect of performance or effectiveness
+ii. Measurable: The metric should be quantifiable and expressed in a unit of measurement that allows for tracking and comparison. It should be possible to collect and analyze data to assess the metric's value
+iii. Achievable: The metric should be realistic and attainable within the organization's capabilities and resources. Setting overly ambitious targets can lead to discouragement and frustration
+iv. Relevant: The metric should align with the organization's goals and objectives. It should provide meaningful information that directly contributes to achieving strategic goals
+v. Time-bound: The metric should have a defined timeframe for measurement and evaluation. This allows for tracking progress and identifying trends over time
+
+Tools and toolchains should be employed for automating the measurements collection, generating the reports, and decision-making processes for error reduction and efficiency.
+
+Trends and comparison analysis should be incorporated for continuous improvement and service maturity. The CSP should use the measurement results to improve its SSDLC processes. The entire process should be reviewed on a predetermined schedule or as required by the organization.
+
+Use Case Example:
+The metric of ""Percentage of vulnerabilities remediated within a specified timeframe"" is taken as an example to see how it applies to the technical measures provided in this control. This metric falls under the Vulnerability Management domain and measures the effectiveness of vulnerability remediation efforts.
+a. Purpose and Scope Determination:
+i. Objective: To measure the organization's ability to timely remediate vulnerabilities and reduce the window of exposure to potential attacks
+ii. Scope: All cloud applications and infrastructure components
+b. Key Security Domains: Unpatched vulnerabilities can be exploited by attackers to gain unauthorized access or compromise systems
+c. Measurable Parameters: The metric ""Percentage of vulnerabilities remediated within a specified timeframe"" directly quantifies the organization's vulnerability remediation performance
+d. Thresholds and Benchmarks:
+i. Set a target threshold for vulnerability remediation, such as remediating 90% of critical vulnerabilities within 7 days and 70% of high-severity vulnerabilities within 14 days
+ii. Compare metric performance against industry benchmarks or internal targets to assess vulnerability remediation effectiveness
+e. Data Collection and Aggregation:
+i. Utilize vulnerability scanning tools to identify vulnerabilities across cloud applications and infrastructure components
+ii. Integrate vulnerability scan results with a central vulnerability management platform to track remediation progress
+f. Data Analysis and Visualization:
+i. Generate reports and dashboards that track the percentage of vulnerabilities remediated within the specified timeframe
+ii. Visualize trends in vulnerability remediation performance over time to identify areas for improvement
+g. Integration with Existing Processes:
+i. Incorporate vulnerability remediation metric into the organization's security risk management framework
+ii. Use metric data to inform resource allocation and prioritization for vulnerability remediation efforts
+h. Continuous Monitoring and Improvement:
+i. Regularly monitor vulnerability remediation performance against established thresholds and benchmarks
+ii. Evaluate the effectiveness of vulnerability management processes and make adjustments as needed
+
+Example Summary:
+A CSP has set a target of remediating 95% of critical vulnerabilities within 7 days. Over the past month, the average percentage of critical vulnerabilities remediated within 7 days has been 88%. This indicates that the organization is not meeting its target and may need to improve its vulnerability remediation processes.
+
+Other examples of technical metrics include:
+a. Vulnerability Management:
+i. count or percentage of vulnerabilities by weakness
+ii. count of critical and high-severity vulnerabilities
+iii. count or percentage of vulnerabilities by detection source (e.g., design review, code review, SAST, DAST, penetration test, VDP, bug bounty)
+iv. Percentage of vulnerabilities remediated within a specified timeframe
+v. count or percentage of vulnerabilities by environment detected (pre-production vs. production)
+vi. count exceeding remediation service level objectives (SLOs)
+vii. count or percentage of applications using automated security testing by test type (SAST, DAST, SCA)
+viii. count or percentage of applications with completed penetration testing in the last ""n"" months
+ix. count or percentage of development teams or individuals who have completed application security training in the last ""n"" months
+b. Access Control:
+i. Percentage of users with least privilege access
+ii. Number of unauthorized access attempts
+c. Data Protection:
+i. Percentage of data encrypted at rest and in transit
+ii. Number of data loss incidents
+d. Incident Response:
+i. Mean time to detect (MTTD) and mean time to respond (MTTR) to security incidents
+ii. Number of incidents successfully contained and remediated
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine policy and procedures for definition of operational metrics, security, and compliance requirements.
+"
+Application & Interface Security,Secure Application Design and Development,AIS-04,"Define and implement a SDLC process for application design, development,
+deployment, and operation in accordance with security requirements defined by
+the organization.
+","Control Ownership Rationale.
+This control's implementation responsibility is not impacted by the type of cloud service offerings (IaaS, PaaS, SaaS). Both the CSP and CSC are responsible for independently defining and implementing a Secure Software Development Lifecycle (SSDLC) process for secure application design, development, deployment, and operation in accordance with system security requirements defined by each cloud party.
+For deployments within the SaaS model, this control resides with the CSP, since SaaS CSPs typically offer ready-to-use applications and services, while the SaaS CSC consumes the service and is not responsible for implementing a SSDLC for application development.
+
+Implementation Guidelines.
+Applicable to all service models:
+CSPs should leverage an SSDLC process to ensure that applications and APIs are securely designed, developed, deployed, and operated in their cloud environments. Integration of security best practices throughout the entire development lifecycle, can help CSPs to effectively protect their applications from vulnerabilities and cyberattacks.
+
+Defining security requirements should be the first step in the SSDLC process to ensure that security is integrated throughout all phases of development. Security requirements should derive from security objectives and/or organizational goals and regulatory requirements. Industry standards should be applied at project inception and every stage of the SSDLC process. To successfully promote SSDLC security, roles and expectations should be clearly defined, published and communicated to relevant stakeholders.
+
+The following best practices should be followed when implementing an SSDLC:
+a. SSDLC Governance: A security governance framework should be implemented that is tailored to the SSDLC and that defines roles, responsibilities, and accountability for security throughout the SSDLC
+i. The CSP's SSDLC processes, at a minimum, should meet the regulatory and CSC's business requirements
+ii. The CSP should provide information to CSCs about the SSDLC to the extent compatible with their disclosure policies
+b. DevSecOps: A DevSecOps approach should be defined and implemented that integrates security practices into all stages of the SSDLC, from planning and design to development, testing, deployment, and operation, rather than being an afterthought
+c. Threat Modeling: Threat modeling should be incorporated into the early stages of the SSDLC to identify potential security risks and design mitigation strategies to help developers anticipate and proactively address security issues, reducing the likelihood of vulnerabilities being introduced later in the development cycle
+d. Secure Coding Practices: 
+i. Comprehensive security design requirements should be defined that specify the security measures and controls to be implemented throughout the application's architecture
+ii. Industry standard (OWASP, etc) secure coding guidelines should be incorporated in the SSDLC
+iii. Secure coding guidelines should be followed and implemented respectively (e.g., proper implementation and configuration of security headers, input validation, information output handling, error handling, and proper use of cryptographic libraries)
+e. Open Source Components Secure Use: Secure practices for managing open-source components should be employed, including thorough vulnerability scanning, dependency management, and continuous monitoring for known vulnerabilities. Use trusted open-source repositories and ensure proper attribution and licensing compliance
+f. Vulnerability Management: Continuously scan for and remediate vulnerabilities in code, infrastructure, and third-party components (refer to TVM domain)
+g. Security Testing: Regular security audits, static, dynamic application security testing, and penetration testing should be conducted to identify and address potential security weaknesses (refer to AIS-05 and TVM-06)
+h. Secure Deployment and Configuration Management:
+i. Secure deployment and configuration management practices should be implemented to ensure that cloud-based applications are deployed and configured in a secure manner
+ii. Automated tools should be used to enforce consistent configurations and monitor for deviations from security policies
+i. EoL Process: When an application reaches its end-of-life, a CSP should at minimum:
+i. Notify CSCs of the EoL date and provide clear instructions on how to migrate to alternative services
+ii. Discontinue providing technical support and updates for the application and archive the application's source code and documentation
+iii. Ensure that all application associated data is properly deleted or transferred to the CSC's designated location
+iv. Review and assess potential security vulnerabilities during the decommissioning process
+
+The CSPs should be transparent about their security practices and provide CSCs with the necessary tools and support to meet their security requirements. The CSCs should actively engage with CSPs to ensure that their security requirements are implemented and maintained throughout the SSDLC.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP apply.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine policy and procedures for definition of SDLC (Software Development Lifecycle), security, and compliance requirements.
+2. Examine the state of implementation of the SDLC process.
+3. Verify that the SDLC implementation is in accordance with requirements.
+"
+Application & Interface Security,Automated Application Security Testing,AIS-05,"Implement a testing strategy, including criteria for acceptance of
+new information systems, upgrades and new versions, which provides application
+security assurance and maintains compliance while enabling organizational speed
+of delivery goals. Automate when applicable and possible.
+","Control Ownership Rationale.
+The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. Both parties and each independently are responsible for implementing a robust testing strategy which includes acceptance criteria of new information systems, upgrades and new versions.
+
+Implementation Guidelines.
+Applicable to all service models:
+As early as the development phase of the SSDLC, the CSP should incorporate security testing to facilitate the identification of security flaws by developers, enabling timely remediation and minimizing the risk of vulnerabilities being introduced into production. 
+
+The following best practices should be followed for implementing an applications security testing strategy:
+a. SSDLC and Testing Management: The development team should follow the SSDLC with security best practices to create code that is secure by design, as well as use static and dynamic analysis tools to identify security loopholes present in the code
+b. Continuous CI/CD Testing: Continuous testing should be built into CI/CD pipelines: 
+i. Understand that CI/CD is just not delivering the code, rather also an opportunity to adopt a ""shift-left"" approach with continuous testing
+ii. Pre-commit and post-commit hooks should be implemented and used
+iii. A vulnerability scanner should be used to identify any third-party library issues
+iv. An automated scanner should be used to identify hardcoded / default secrets, including access keys, secret key, credentials, private keys, etc.
+c. Static Application Security Testing (SAST): SAST should be used to analyze the application's source code, bytecode, or binary code to detect issues early in the development lifecycle and identify security vulnerabilities, coding errors, and potential weaknesses that could be exploited by attackers (e.g., data/control flow, taint analysis)
+d. Dynamic Application Security Testing (DAST): DAST should be used to test the application in its running state to identify security vulnerabilities by sending requests and analyzing the responses (e.g., fuzz testing, session hijacking, injection testing)
+e. Interactive Application Security Testing (IAST): IAST should be used to combine elements of both SAST and DAST, identify security issues without the need for source code access, and provide real-time feedback on security vulnerabilities during the application's runtime
+f. Penetration Testing: Penetration tests should be performed to simulate real-world cyberattacks to identify potential vulnerabilities and assess the effectiveness of the security measures in place
+g. Input Validation: Input validation test cases should be used to identify injection attacks (e.g., SQL injection, Command Injection, Cross-site scripting (XSS), Cross-Site Request Forgery (CSRF). This includes checking the type, format, length, and range of input data to ensure that it adheres to predefined criteria and does not contain any malicious or unauthorized content
+h. Information Output Handling: Information output filtering test cases should be used to identify information exfiltration attacks (e.g., cleartext output of passwords)
+i. Industry Best Practices: Security test cases should be employed according to OWASP Top 10. Consider also aligning test cases with various compliance standards (e.g., ISO/IEC 27001, AICPA TSC) depending on organizational strategy and requirements
+j. Continuous Monitoring: Continuous monitoring should be required once an application is deployed to test for a crash, DoS, DDoS, unauthenticated scans, etc.
+k. Applications Testing Automation: 
+i. The test team should leverage automation to expedite the testing completion process and for efficacy in reducing errors and surfacing security gaps
+ii. Automated tools should test applications for both known and unknown vulnerabilities
+iii. Criteria should be developed for assessing the automation required by an application, as not all systems will benefit equally
+
+At minimum, the above multiple test types and integration points are needed to provide the appropriate level of assurance throughout a SSDLC.
+","Control Ownership Rationale.
+In the IaaS and PaaS models, the CSC owns the application stack and should make sure of its secure testing and deployment in the cloud (see CSP guidelines).  In the SaaS model, the CSC responsibility arises from the fact that SaaS CSPs typically offer ready-to-use applications and services, while the CSC remains accountable for configuring and customizing these services to meet their specific needs and requirements. Consequently, the CSC should ensure that the criteria for upgrades, modifications, or acceptance of new systems and versions align with their organizational security standards, compliance requirements, and application-specific needs. By implementing a rigorous testing strategy, the SaaS CSC can verify the compatibility, appropriate security, and proper functionality of the upgrades or new systems before their integration into the organization's workflow.
+
+Implementation Guidelines.
+For the IaaS and PaaS CSC, as part of a comprehensive testing strategy, the same guidelines as for the CSP apply, and additionally ensure the proper configuration, upgrades, and secure integration of new systems and new versions of systems and applications. 
+
+In particular with respect to the SaaS CSC, the following implementation guidelines apply:
+a. Configuration of Applications: The SaaS customer should configure the application settings and permissions according to their specific business requirements, ensuring that access controls, user privileges, and data encryption are appropriately set up to mitigate security risks and maintain data privacy
+b. Application Upgrades: Prior to implementing any application upgrades, the SaaS customer should conduct thorough testing, including functional, compatibility, and security testing, to ensure that the upgrades do not disrupt the existing workflows or compromise the application's security posture. This also involves maintaining a rollback plan in case any issues arise during the upgrade process
+c. Secure Integration of New Systems: The SaaS customer should evaluate the compatibility of the new systems with the existing infrastructure and conduct comprehensive integration testing to ensure that data integrity, security protocols, and application functionalities are maintained throughout the integration process. Secure authentication mechanisms, data encryption, and access controls should be implemented to mitigate potential security vulnerabilities during the integration of new version systems
+
+Automation of security testing should be implemented to reduce risks and errors and enable the scaling of security practices to meet organizational demands. Multiple test types and integration points will likely be needed to provide the appropriate level of assurance throughout a SSDLC. Criteria should be developed for assessing the automation required by an application, as not all systems will benefit equally.
+","1. Examine policy and procedures for definition of testing strategies, automation of security testing, and change management.
+2. Determine security assurance and acceptance criteria for the new information system(s).
+3. Determine if the software release process is automated where applicable.
+"
+Application & Interface Security,Automated Secure Application Deployment,AIS-06,"Establish and implement strategies and capabilities for secure, standardized,
+and compliant application deployment. Automate where possible.
+","Control Ownership Rationale.
+The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. The CSP should independently establish and implement strategies for secure application deployment. 
+
+Implementation Guidelines.
+Applicable to all service models:
+The following best practices should be followed for implementing an applications secure deployment strategy:
+a. Standardized Deployment Process: Standardized deployment processes should be implemented to ensure consistent and secure application deployments. This includes:
+i. Security requirements definition based on application deployment needs and industry standards to ensure applications are protected from unauthorized access, data breaches, and other cybersecurity threats
+ii. Automated deployment pipelines CI/CD should be established to automate the deployment process, minimizing manual intervention and errors
+iii. Standardized deployment templates should be developed that encapsulate best practices and configurations for common application scenarios
+iv. Automated or manual rollback procedures should be implemented in case of deployment failures or security issues. Regularly test rollback procedures to ensure their effectiveness
+b. Automation Requirements: Automation should be prioritized wherever possible to streamline deployment processes, enhance security, and improve overall efficiency. This includes:
+i. Infrastructure as code (IaC) tools should be used to automate the provisioning and configuration of the cloud infrastructure
+ii. Automated testing should be implemented to validate that applications are deployed correctly and securely in the cloud environment (e.g., testing for functional correctness, security configuration)
+iii. Automated patch management systems implementation to ensure that cloud resources and applications are up-to-date with the latest security patches
+iv. Automated Security Orchestration and Response (SOAR) platforms utilization to automate security response tasks (e.g., threat detection, investigation, and remediation)
+c. Deployment and Automation Technologies:
+i. A curated list of approved deployment and automation technologies should be maintained that have been rigorously vetted for security and compatibility with the organization's infrastructure and applications
+ii. Regularly review and update this list to ensure it reflects the latest advancements in secure deployment technologies and best practices
+d. Integration with Existing Processes:
+i. Secure application deployment practices should be identified and seamlessly integrated with existing application deployment processes to minimize disruption and ensure a cohesive deployment workflow
+ii. Secure application deployment procedures should be adapted and aligned with the specific deployment tools, methodologies, and automation frameworks already in use
+e. Secure Application Deployment Customization:
+i. Secure application deployment strategies should be customized to address the unique requirements of various deployment environments (e.g., different operating systems, network configurations, and cloud platforms)
+ii. Security measures should be tailored to the specific vulnerabilities and risks associated with each deployment environment
+f. Application Deployment Monitoring:
+i. Logging and monitoring mechanisms should be established to track secure application deployment activities, identify anomalies, and detect potential security breaches
+ii. Real-time monitoring should be implemented to promptly alert security personnel of any suspicious or unauthorized activities during the deployment process
+g. Deployment Performance Metrics:
+i. Quantitative metrics should be developed and utilized to assess the success of secure application deployments, including deployment time, error rates, and security compliance levels
+ii. Metrics should be continuously monitored and evaluated to identify areas for improvement to optimize the secure application deployment process
+","Control Ownership Rationale.
+In the IaaS and PaaS models, the CSC owns the application and its secure deployment in the cloud.  In the SaaS model, the CSC consumes the application from the CSP and hence it is not responsible for the secure deployment of applications.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine policy and procedures for implementation of application deployment. 
+2. Determine if segregation of duties (role and responsibilities) is clearly defined among security and application teams.
+3. Determine if Identification and integration process is defined and verified for application deployment processes. 
+4. Evaluate the extent of automation deployed, and criteria used.
+"
+Application & Interface Security,Application Vulnerability Remediation,AIS-07,"Define and implement a process to remediate application security
+vulnerabilities, automating remediation when possible.
+","Control Ownership Rationale.
+The implementation responsibility of this control is a shared responsibility between the CSP and CSC, however doing so independently from one another. The CSP is responsible for defining and implementing a process to remediate application security vulnerabilities and automating remediation when possible.
+
+Implementation Guidelines.
+Applicable to all service models:
+Application security vulnerabilities are a serious threat to cloud-based applications. These vulnerabilities can be exploited by attackers to gain unauthorized access to applications, steal sensitive data, and disrupt operations. CSPs play a critical role in helping CSCs remediate application security vulnerabilities.
+
+The following best practices should be followed for implementing a vulnerability remediation process:
+a. Vulnerability Remediation Scope: A process for defining the scope of a vulnerability remediation should be established (e.g., IaaS CSPs may only be responsible for remediating vulnerabilities in the underlying infrastructure, while PaaS CSPs may also be responsible for remediating vulnerabilities in the platform software)
+b. Remediation Plan: A remediation plan for each vulnerability should be developed and include the steps that need to be taken to remediate the vulnerability, the estimated time to remediate the vulnerability, and the resources that will be required
+i. The plan should include processes and procedures for vulnerabilities remediation in coordination with development teams, the CSC, and for implementing security patches in a timely manner
+c. Remediation Prioritization and Risk Assessment:
+i. The severity and potential impact of identified vulnerabilities should be assessed based on factors such as exploitability, target scope, and potential consequences
+ii. Vulnerability assessment tools should be utilized to provide risk scores
+iii. Vulnerabilities remediation should be prioritized based on their risk scores, considering factors such as business criticality, asset value, regulatory compliance requirements, and industry standard vulnerability scoring systems such as CVSS if applicable
+iv. Threat intelligence feeds should be incorporated into the prioritization process to identify vulnerabilities actively exploited by attackers
+d. Track and Measure Progress: Progress on remediation efforts should be tracked and the effectiveness of the vulnerability remediation process measured
+e. Patch Management Automation: Application of patches should be automated to reduce the time and effort required to remediate vulnerabilities and improve the overall security posture of cloud-based applications (refer to TVM domain)
+f. Remediation Automation:
+i. Configuration management tools should be utilized to automatically correct misconfigured security settings and enforce secure configurations across different environments using secure by default principles
+ii. Automated code refactoring tools should be employed to address insecure coding practices and enforce secure coding guidelines within applications
+iii. Automated dependency management tools should be utilized to update and replace vulnerable open-source components with patched or updated versions
+iv. Automated remediation hooks should be implemented within the CI/CD pipeline to automatically remediate identified vulnerabilities before and after deployment
+g. Remediation Logging: Comprehensive logging of remediation activities should be established to track the remediation process and identify potential issues
+h. Post-Remediation Verification: Post-remediation verification steps should be implemented to ensure that vulnerabilities have been effectively addressed and that no new vulnerabilities have been introduced
+i. Continuous Remediation Monitoring: The effectiveness of the vulnerability remediation process should be continuously monitored and improvements made as needed
+j. Notification and Reporting: Notification and reporting mechanisms should be established to inform relevant stakeholders of any vulnerabilities detected and remediation actions taken
+i. Communicate with CSCs any identified vulnerabilities and the plan to remediate them. Communication should be timely and transparent in accordance with agreed SLAs
+
+Vulnerabilities should be identified and remediated as early as possible in the SSDLC and automated processes are ideal for such a task.
+
+Vulnerability Scanning and Remediation Examples:
+To ensure that only secure and hardened container images are used in the application development process, integrate a vulnerability scanner into the CI/CD pipeline specifically for ""image"" scanning. This will guarantee that only secure ""images"" (also known as golden images) are incorporated into the application software builds.
+
+Automated scanning tools are an effective solution for identifying and remediating such issues. For instance, cloud agent-based tools can be deployed on each active VM instance to continuously scan for third-party security vulnerabilities, with the frequency of scans determined by the organization's security strategy (daily, weekly, etc.).
+","Control Ownership Rationale.
+Widespread vulnerabilities may require action by both the CSP and CSC, however the CSC is responsible for remediating vulnerabilities in their cloud environment.  
+
+In the SaaS model, the CSC is responsible for identifying vulnerabilities related to any application-level misconfigurations (e.g., API configuration settings, access control settings) that are within the control of the CSC. Therefore, while the SaaS customer is not responsible for identifying infrastructure and insecure code related vulnerabilities on the SaaS application it consumes, it may have to coordinate with the CSP to identify, understand, and manage any vulnerabilities related to the application stack the CSC owns and controls, including the applications vulnerabilities remediation and response scheduling.
+
+Implementation Guidelines.
+The implementation guidelines as provided for the CSP apply to IaaS, PaaS CSC.
+
+In addition, as it pertains to the SaaS CSC, misconfigurations can be considered a vulnerability, as they can inadvertently expose the application to security risks and potential breaches.
+SaaS CSC implementation guidelines for application security vulnerabilities remediation include:
+a. Configuration Management: Ensuring that the application's configuration settings are appropriately set up to align with the organization's security requirements and best practices. This involves properly configuring access controls, user permissions, and encryption settings (including the use of strong encryption protocols and properly managed encryption keys)
+b. Default Security Configurations: Customize and strengthen default security configurations to align with organizational security policies. To remediate such vulnerabilities: 
+i. Regularly review and update default security settings to address emerging security threats
+ii. Conduct regular security assessments to identify any weaknesses in default security settings
+c. Access Control Management: Implementing robust access controls and authentication mechanisms to regulate user access and privileges within the SaaS application. This includes managing user roles, permissions, and identity verification to prevent unauthorized access and unauthorized activities within the application
+d. Unmanaged Shadow IT and Unsanctioned Applications: Usage of unsanctioned or unmanaged applications by employees within the SaaS CSC organization can introduce security risks and vulnerabilities that may not be adequately addressed or monitored by the SaaS CSP. To remediate such vulnerabilities:
+i. Implement strict policies to prevent the use of unsanctioned applications and shadow IT
+ii. Provide clear guidelines and recommendations to personnel for approved applications and IT resources
+iii. Monitor network traffic and application usage to detect any unauthorized or unmanaged applications
+","1. Examine the policy and procedures to remediate application security vulnerabilities and automating remediation.
+2. Evaluate whether roles and responsibilities, including escalation paths for application security incident response and remediation, are defined and effective.
+3. Determine if the organization leverages automation when possible and if this automation increases remediation efficiency.
+"

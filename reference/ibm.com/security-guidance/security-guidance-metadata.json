@@ -1,0 +1,52 @@
+{
+  "secid": "secid:reference/ibm.com/security-guidance",
+  "name": "IBM Security Guidance",
+  "acronym": "IBM SG",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "IBM-Security-Guidance",
+  "owner": "International Business Machines Corporation (IBM)",
+  "type": "Guidance",
+  "description": "Collection of IBM-published security guidance and whitepapers. Spans many security topics including emerging areas (Generative AI controls, zero trust, hybrid cloud security).",
+  "relationToCloudSecurity": "IBM Cloud and IBM's hybrid-cloud focus are reflected in much of the guidance content.",
+  "relationToAISecurity": "Includes the Generative AI Controls Framework Whitepaper (subdirectory). IBM is a significant publisher of AI security guidance.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Guidance",
+    "redistribution": "see_source",
+    "derivatives": "see_source",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Vendor-published guidance document. Distribution terms per vendor's terms of use."
+  },
+  "links": {
+    "source": "https://www.ibm.com/security",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Rolling publication."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Direct collection. Subdirectories contain individual whitepapers with their own metadata."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Collection of IBM guidance",
+      "tool": "manual"
+    }
+  ],
+  "scope": {},
+  "notes": "Parent collection — see subdirectories for individual whitepapers."
+}

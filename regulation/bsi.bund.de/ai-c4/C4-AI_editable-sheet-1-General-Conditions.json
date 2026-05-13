@@ -1,0 +1,37 @@
+[
+    {
+        "ID": "BC-01",
+        "Title": "System Description Information On The General Conditions Of The Ai Service",
+        "Information on the General Conditions of the Cloud service": "In the system description, the AI service providersets out precise and comprehensible specifications regarding the AI service. Goals, design and application of the AI service are documented. Policies and guidelines for the provision of the AI service are outlined. \n\nThe system description covers at least the following general aspects:\n- System specifications for the compatibility of AI model(s) within the scope of the AI service and how it is integrated into general IT systems;\n- Regulatory and legal requirements as well as international standards applied for the AI service itself or related data;\n- Description of the infrastructure, network and system components used for development and operation of the AI \nservice as well as measures taken to ensure the integrity of the latter;\n- Complementary responsibilities of the user and subservices."
+    },
+    {
+        "ID": "BC-02",
+        "Title": "Security & Robustness",
+        "Information on the General Conditions of the Cloud service": "Information on the General Conditions of the AI service As part of the system description (BC-01), the AI \nservice provider states comprehensive information allowing a (potential) AI service user to understand the suitability of robustness and security measures for the specific AI service. \n\nThe information provided covers at least the following aspects:\n- Procedure for the measurement and quantification of robustness;\n- Level of robustness the AI service provider guarantees and why it is sufficient for the service at hand;\n- Limits of the robustness of the AI \nmodel(s) within the scope of the AI service."
+    },
+    {
+        "ID": "BC-03",
+        "Title": "Performance & Functionality",
+        "Information on the General Conditions of the Cloud service": "Information on the General Conditions of the AI service As part of the system description (BC-01), the AI \nService provider presents comprehensive information allowing a (potential) AI service user to understand and evaluate the suitability of the performance and functionality for intended use. \n\nThe information provided includes at least the following aspects:\n- Definition of objectives, impact and purpose of the AI service;\n- Procedures and measures implemented to develop and operate the AI \nmodel(s) within the scope of the AI service;\n- Performance measures used to evaluate the AI model(s) within the scope of the AI service;\n- Selection of the implemented AI \nmethod (algorithms and data processing mechanisms) and an explanation why it is suited for the target application. Outline of the limitations and assumptions of the model;\n- Training frequency of the AI model(s) \nwithin the scope of the AI service. Information whether it is a continuous learning system or whether there are defined learning cycles;\n- Functionalities of the AI model(s) \nwithin the scope of the AI service. This includes a description of the task to be solved and inputs and outputs;\n- Degree and potential impacts of automated decision making;\n- The extent to which users are able to correct or object to the results or decisions made by the AI service;\n- Details on significant changes made during the audit period to procedures, controls and measures concerning the AI service. This includes changes made to the AI model(s) within the scope of the AI service itself (e.g. retraining, model change)."
+    },
+    {
+        "ID": "BC-04",
+        "Title": "Reliability",
+        "Information on the General Conditions of the Cloud service": "Information on the General Conditions of the AI service As part of the system description (BC-01), the AI \nservice provider presents comprehensive information allowing a (potential) AI service user to understand and evaluate the reliability of the AI service, taking the provisioning of resources and incident handling into account. The information provided contains at least the following aspects: \n- Logging carried out during operation. \n\nThis includes an overview of the content kept in logs as well as storage periods and usage;\n- Handling of significant incidents and conditions that lead to exceptions to regular operations. This includes a definition of such incidents and conditions as well as implemented safeguards and disaster recovery management;\n- Location, duration and responsibilities for storing and processing involved data and models."
+    },
+    {
+        "ID": "BC-05",
+        "Title": "Data Quality & Data Management",
+        "Information on the General Conditions of the Cloud service": "Information on the General Conditions of the AI service As part of the system description (BC-01), the AI \nservice provider states comprehensive information allowing a (potential) AI service user to understand and evaluate the suitability of the data quality and data management for the AI service.\n\nThis information provided covers the following aspects: \n- Description of data sources used for training and operation of the AI service;\n- Roles and responsibilities assigned to business functions of the AI service provider regarding access and use of data; \n- Description of the data selection;\n- Description of the performed data preand post-processing steps."
+    },
+    {
+        "ID": "BC-06",
+        "Title": "Explainability And Bias",
+        "Information on the General Conditions of the Cloud service": "Information on the General Conditions of the AI service As part of the system description (BC-01), the AI \nService provider states comprehensive information allowing a (potential) AI service user to understand the degree of explainability and potential sources of bias for the AI service.\n\nThis information covers the following aspects:\n- Explainability of the AI model(s) within the scope of the AI service. This includes a description of the level of explainability and, if present, the parts of the AI model(s) that are not explainable;\n- Technical limitations of used methods and shortcomings regarding the identified needs for explainability;\n- Possible effects of bias that may impact the functionality of the service in a critical way are outlined;\n- Metrics and tolerance intervals for assessing bias are outlined;\n- Critical bias currently not mitigated are outlined."
+    },
+    {
+        "ID": "",
+        "Title": "",
+        "Information on the General Conditions of the Cloud service": ""
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity and Access Management Policy and Procedures",
+        "Control ID": "IAM-01",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\n and maintain policies and procedures for identity and access management. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to identity and access management to determine if policy and/or procedure content:\n  a. addresses the provisioning, modification and deprovisioning of logical access.\n  b. establishes password complexity and management requirements.\n  c. addresses authorization concept following separation of duties and least privilege.\n  d. addresses privileged access management and access reviews.\n  e. includes roles and responsibilities for provisioning, modifying and deprovisioning of logical access.\n  f. understands the delineation of identity and access management control responsibility in relation to the shared responsibility model.\n 2. Determine if the policy is clearly communicated and available to stakeholders.\n 3. Examine if policy and procedures are reviewed and updated at least annually."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Password Policy and Procedures",
+        "Control ID": "IAM-02",
+        "Control Specification": "Establish, document, approve, communicate, implement, apply, evaluate\n and maintain strong password policies and procedures. Review and update the\n policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to passwords to determine if minimum password complexity requirements are defined.\n 2. Determine if the organization enforces minimum password complexity requirements as defined in policy.\n 3. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Identity Inventory",
+        "Control ID": "IAM-03",
+        "Control Specification": "Manage, store, and review the information of system identities, and\n level of access.",
+        "Auditing Guidelines": "1. Determine if the organization has defined acceptable storage methods and locations of system identities.\n 2. Evaluate if the organization is consistently utilizing approved methods and locations to store system identities.\n 3. Evaluate if access to stored identities is managed following established processes."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Separation of Duties",
+        "Control ID": "IAM-04",
+        "Control Specification": "Employ the separation of duties principle when implementing information\n system access.",
+        "Auditing Guidelines": "1. Determine if divisions of responsibility and separation of duties are defined and documented.\n 2. Determine if information system access authorizations are established to support separation of duties."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Least Privilege",
+        "Control ID": "IAM-05",
+        "Control Specification": "Employ the least privilege principle when implementing information\n system access.",
+        "Auditing Guidelines": "1.Examine the policy to determine the least privilege required for each role or user.\n 2.Evaluate the effectiveness of the implementation and review of policy."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Provisioning",
+        "Control ID": "IAM-06",
+        "Control Specification": "Define and implement a user access provisioning process which authorizes,\n records, and communicates access changes to data and assets.",
+        "Auditing Guidelines": "1. Determine if personnel required to approve system access requests are identified and documented.\n 2. Evaluate if access requests are documented and approved by required personnel prior to access provisioning."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Changes and Revocation",
+        "Control ID": "IAM-07",
+        "Control Specification": "De-provision or respectively modify access of movers / leavers or\n system identity changes in a timely manner in order to effectively adopt and\n communicate identity and access management policies.",
+        "Auditing Guidelines": "1. Determine if a process is established for removing logical access when users leave the organization or when access is no longer appropriate.\n 2. Determine if a timeframe for access removal and access modification is defined.\n 3. Verify that a process is established for removing existing system access and assigning appropriate access or for modifying existing access after internal transfer or change of job functions.\n 4. Determine if established processes for access removal and modification, within the defined time frame, are followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "User Access Review",
+        "Control ID": "IAM-08",
+        "Control Specification": "Review and revalidate user access for least privilege and separation\n of duties with a frequency that is commensurate with organizational risk tolerance.",
+        "Auditing Guidelines": "1. Determine if the required frequency for review of accounts is established.\n 2. Determine if accounts are reviewed for compliance, including the level of access and conflicting access, following the principle of least privilege and consideration of separation of duties.\n 3. Determine if accounts are reviewed at the organization-defined frequency."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Segregation of Privileged Access Roles",
+        "Control ID": "IAM-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the segregation of privileged access roles such that administrative\n access to data, encryption and key management capabilities and logging capabilities\n are distinct and separated.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for the separation of privileged access are defined and include requirements for separation of administrative access to data, encryption, key management and logging capabilities.\n 2. Evaluate if established processes, procedures and technical measures for the separation of privileged access are implemented and followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Management of Privileged Access Roles",
+        "Control ID": "IAM-10",
+        "Control Specification": "Define and implement an access process to ensure privileged access\n roles and rights are granted for a time limited period, and implement procedures\n to prevent the culmination of segregated privileged access.",
+        "Auditing Guidelines": "1. Determine if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is defined.\n 2. Determine if procedures address the prevention of culmination of segregated privileged access.\n 3. Evaluate if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is implemented and consistently followed in practice.\n 4. Evaluate if procedures that address the prevention of culmination of segregated privileged access is implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "CSCs Approval for Agreed Privileged Access Roles",
+        "Control ID": "IAM-11",
+        "Control Specification": "Define, implement and evaluate processes and procedures for customers\n to participate, where applicable, in the granting of access for agreed, high\n risk (as defined by the organizational risk assessment) privileged access roles.",
+        "Auditing Guidelines": "1. Determine if processes and procedures for customers to participate, where applicable, in the granting of access for agreed, high risk (as defined by the organizational risk assessment) privileged access roles are defined, implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Safeguard Logs Integrity",
+        "Control ID": "IAM-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to ensure the logging infrastructure is read-only for all with write\n access, including privileged access roles, and that the ability to disable it\n is controlled through a procedure that ensures the segregation of duties and\n break glass procedures.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures are defined for log management.\n 2. Determine if processes, procedures and technical measures for log management include the following two requirements:\n  a. the logging infrastructure is read-only for all with write access, including privileged access roles.\n  b. the ability to disable and/or modify logs is controlled following separation of duties and established break glass procedures.\n 3. Evaluate if the processes, procedures and technical measures for log management are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Uniquely Identifiable Users",
+        "Control ID": "IAM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures that ensure users are identifiable through unique IDs or which can\n associate individuals to the usage of user IDs.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures are defined and require that users are identifiable through unique IDs or by association of individuals to the usage of user IDs.\n 2. Determine if the established processes, procedures and technical measures are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Strong Authentication",
+        "Control ID": "IAM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for authenticating access to systems, application and data assets,\n including multifactor authentication for at least privileged user and sensitive\n data access. Adopt digital certificates or alternatives which achieve an equivalent\n level of security for system identities.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are defined and maintained.\n 2. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data include organization-defined requirements for specific use cases of multifactor authentication, digital certificates and/or alternative security measures.\n 3. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Passwords Management",
+        "Control ID": "IAM-15",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures for the secure management of passwords.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures for the secure management of passwords are defined.\n 2. Determine if processes, procedures and technical measures for the secure management of passwords are implemented and consistently followed in practice."
+    },
+    {
+        "Control Domain": "Identity & Access Management",
+        "Control Title": "Authorization Mechanisms",
+        "Control ID": "IAM-16",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to verify access to data and system functions is authorized.",
+        "Auditing Guidelines": "1. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are defined.\n 2. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are implemented and consistently followed in practice."
+    }
+]

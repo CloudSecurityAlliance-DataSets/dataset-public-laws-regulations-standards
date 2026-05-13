@@ -1,0 +1,418 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FedRAMP\u00ae General\nDocument\nAcceptance Criteria",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.25,
+          263.25
+        ],
+        [
+          505.5,
+          263.25
+        ],
+        [
+          505.5,
+          416.49609375
+        ],
+        [
+          101.25,
+          416.49609375
+        ]
+      ]
+    },
+    {
+      "title": "DOCUMENT REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          147.919921875
+        ],
+        [
+          428.51953125,
+          147.919921875
+        ],
+        [
+          428.51953125,
+          174.0234375
+        ],
+        [
+          71.25,
+          174.0234375
+        ]
+      ]
+    },
+    {
+      "title": "How to contact us",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5,
+          532.8984375
+        ],
+        [
+          178.2509765625,
+          532.8984375
+        ],
+        [
+          178.2509765625,
+          545.2734375
+        ],
+        [
+          70.5,
+          545.2734375
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF CONTENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          122.6865234375
+        ],
+        [
+          313.76953125,
+          122.6865234375
+        ],
+        [
+          313.76953125,
+          150.9169921875
+        ],
+        [
+          69.75,
+          150.9169921875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          155.5576171875
+        ],
+        [
+          246.75,
+          155.5576171875
+        ],
+        [
+          246.75,
+          182.2412109375
+        ],
+        [
+          69.75,
+          182.2412109375
+        ]
+      ]
+    },
+    {
+      "title": "2.\nDocument Review Criteria",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.75,
+          384.01171875
+        ],
+        [
+          403.41796875,
+          384.01171875
+        ],
+        [
+          403.41796875,
+          411.08203125
+        ],
+        [
+          69.75,
+          411.08203125
+        ]
+      ]
+    },
+    {
+      "title": "Table 1 \u2013 Document Review Criteria",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          214.857421875,
+          522.0703125
+        ],
+        [
+          395.25,
+          522.0703125
+        ],
+        [
+          395.25,
+          535.9921875
+        ],
+        [
+          214.857421875,
+          535.9921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "TableCell",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FedRAMP_General_Document_Acceptance_Criteria"
+}

@@ -1,0 +1,546 @@
+[
+  {
+    "criterion_id": "CC1.1",
+    "category": "Common Criteria",
+    "section": "CONTROL ENVIRONMENT",
+    "criterion_text": "COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC1.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 2: The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Establishes Oversight Responsibilities — The board of directors identifies and ac cepts its oversight responsibilities in relation to established requirements and expec tations.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC1.3",
+    "category": "Common Criteria",
+    "section": "CONTROL ENVIRONMENT",
+    "criterion_text": "COSO Principle 3: Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "CC1.4",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain com petent individuals in alignment with objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Establishes Policies and Practices — Policies and practices reflect expectations of competence necessary to support the achievement of objectives.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC1.5",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 5: The entity holds individuals accountable for their internal control responsi bilities in the pursuit of objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC2.1",
+    "category": "Common Criteria",
+    "section": "INFORMATION AND COMMUNICATION",
+    "criterion_text": "COSO Principle 13: The entity obtains or generates and uses relevant, quality information to support the functioning of internal control.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC2.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 14: The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Communicates Internal Control Information — A process is in place to communi cate required information to enable all personnel to understand and carry out their internal control responsibilities.\n• Communicates With the Board of Directors — Communication exists between man agement and the board of directors so that both have information needed to fulfill their roles with respect to the entity's objectives.\n• Provides Separate Communication Lines — Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.\n• Selects Relevant Method of Communication — The method of communication con siders the timing, audience, and nature of the information.\nAdditional points of focus when using the trust services criteria:\n• Communicates Responsibilities — Entity personnel with responsibility for design ing, developing, implementing, operating, maintaining, or monitoring system con trols receive communications about their responsibilities, including changes in their responsibilities, and have the information necessary to carry out those responsibili ties.\n• Communicates Information on Reporting Failures, Incidents, Concerns, and Other Matters — Entity personnel are provided with information on how to report systems failures, incidents, concerns, and other complaints.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC2.3",
+    "category": "Common Criteria",
+    "section": "COMMUNICATION AND INFORMATION",
+    "criterion_text": "COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "CC3.1",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "RISK ASSESSMENT COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identifica tion and assessment of risks relating to objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC3.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 7: The entity identifies risks to the achievement of its objectives across the en tity and analyzes risks as a basis for determining how the risks should be managed.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Includes Entity, Subsidiary, Division, Operating Unit, and Functional Levels — The entity identifies and assesses risk at the entity, subsidiary, division, operating unit, and functional levels relevant to the achievement of objectives.\n• Analyzes Internal and External Factors — Risk identification considers both internal and external factors and their impact on the achievement of objectives.\n• Involves Appropriate Levels of Management — The entity puts into place effective risk assessment mechanisms that involve appropriate levels of management.\n• Estimates Significance of Risks Identified — Identified risks are analyzed through a process that includes estimating the potential significance of the risk.\n• Determines How to Respond to Risks — Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.\nAdditional points of focus when using the trust services criteria:\nIdentifies Threats to Objectives —The entity identifies threats to the achievement of • its objectives from intentional (including malicious) and unintentional acts and en vironmental events.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC3.3",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achieve ment of objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Considers Various Types of Fraud — The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.\n• Assesses Incentives and Pressures — The assessment of fraud risks considers incen tives and pressures.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC3.4",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Assesses Changes in the External Environment — The risk identification process considers changes to the regulatory, economic, and physical environment in which the entity operates.\n• Assesses Changes in the Business Model — The entity considers the potential im pacts of new business lines, dramatically altered compositions of existing business lines, acquired or divested business operations on the system of internal control, rapid growth, changing reliance on foreign geographies, and new technologies.\n• Assesses Changes in Leadership — The entity considers changes in management and respective attitudes and philosophies on the system of internal control.\nAdditional point of focus when using the trust services criteria:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC4.1",
+    "category": "Common Criteria",
+    "section": "MONITORING ACTIVITIES",
+    "criterion_text": "COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evalua",
+    "points_of_focus": "tions to ascertain whether the components of internal control are present and functioning.\nThe following points of focus highlight important characteristics relating to this criterion:\nPoints of focus specified in the COSO framework:\n• Considers a Mix of Ongoing and Separate Evaluations — Management includes a balance of ongoing and separate evaluations.\n• Considers Rate of Change — Management considers the rate of change in business and business processes when selecting and developing ongoing and separate evalua tions.\n• Establishes Baseline Understanding — The design and current state of an internal control system are used to establish a baseline for ongoing and separate evaluations.\n• Uses Knowledgeable Personnel — Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.\n•",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC4.2",
+    "category": "Common Criteria",
+    "section": "CONTROL ACTIVITIES",
+    "criterion_text": "COSO Principle 17: The entity evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior man agement and the board of directors, as appropriate.",
+    "points_of_focus": "The following points of focus, specified in the COSO framework, highlight important character istics relating to this criterion:\n• Assesses Results — Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.\n• Communicates Deficiencies — Deficiencies are communicated to parties responsi ble for taking corrective action and to senior management and the board of direc tors, as appropriate.\n• Monitors Corrective Action — Management tracks whether deficiencies are reme died on a timely basis.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC5.1",
+    "category": "Common Criteria",
+    "section": "CONTROL ACTIVITIES",
+    "criterion_text": "COSO Principle 10: The entity selects and develops control activities that contribute to the miti gation of risks to the achievement of objectives to acceptable levels.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC5.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 11: The entity also selects and develops general control activities over technol ogy to support the achievement of objectives.",
+    "points_of_focus": "The following points of focus, specified in the COSO framework, highlight important character istics relating to this criterion:\n• Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls — Management understands and determines the de pendency and linkage between business processes, automated control activities, and technology general controls.\n• Establishes Relevant Technology Infrastructure Control Activities — Management selects and develops control activities over the technology infrastructure, which are",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC5.3",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "points_of_focus": "The following points of focus, specified in the COSO framework, highlight important character istics relating to this criterion:\n• Establishes Policies and Procedures to Support Deployment of Management's Di rectives — Management establishes control activities that are built into business processes and employees' day-to-day activities through policies establishing what is expected and relevant procedures specifying actions.\n• Establishes Responsibility and Accountability for Executing Policies and Proce dures — Management establishes responsibility and accountability for control activ ities with management (or other designated personnel) of the business unit or func tion in which the relevant risks reside.\n• Performs in a Timely Manner — Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.\n• Takes Corrective Action — Responsible personnel investigate and act on matters identified as a result of executing control activities.\n• Performs Using Competent Personnel — Competent personnel with sufficient au thority perform control activities with diligence and continuing focus.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.1",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity implements logical access security software, infrastructure, and architectures over pro tected information assets to protect them from security events to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus when using the trust services criteria for all engagements:\n• Identifies and Manages the Inventory of Information Assets — The entity identifies, inventories, classifies, and manages information assets (for example, infrastructure, software, and data).\nAssesses New Architectures — The entity identifies new system architectures and • assesses their security prior to implementation into the system environment.\n• Restricts Logical Access — The entity restricts logical access to information assets, including infrastructure (for example, server, storage, network elements, APIs, and endpoint devices), software, and data (at rest, during processing, or in transmis sion) through the use of access control software, rule sets, and standard configura tion hardening processes.\n• Identifies and Authenticates Users — The entity identifies and authenticates per sons, infrastructure, and software prior to accessing information assets, whether locally or remotely. The entity uses more complex or advanced user authentication techniques such as multifactor authentication when such protections are deemed appropriate based on its risk mitigation strategy.\n• Considers Network Segmentation — The entity uses network segmentation, zero trust architectures, and other techniques to isolate unrelated portions of the entity's information technology from each other based on the entity's risk mitigation strat egy.\n• Manages Points of Access — Points of access by outside entities and the types of data that flow through the points of access are identified, inventoried, and managed.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "Prior to issuing system credentials and granting system access, the entity registers and authorizes new internal and external users whose access is administered by the entity. For those users whose access is administered by the entity, user system credentials are removed when user access is no longer authorized.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\n• Creates Access Credentials to Protected Information Assets —The entity creates credentials for accessing protected information assets based on an authorization from the system's asset owner or authorized custodian. Authorization is required for the creation of all types of credentials of individuals (for example, employees, con tractors, vendors, and business partner personnel), systems, and software.\n• Reviews Validity of Access Credentials — The entity reviews access credentials on a periodic basis for validity (for example, employees, contractors, vendors, and busi ness partner personnel) and inappropriate system or service accounts.\n• Prevents the Use of Credentials When No Longer Valid — Processes are in place to disable, destroy, or otherwise prevent the use of access credentials when no longer valid.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.3",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity authorizes, modifies, or removes access to data, software, functions, and other protected information assets based on roles, responsibilities, or the system design and changes, giving consid eration to the concepts of least privilege and segregation of duties, to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\n• Creates or Modifies Access to Protected Information Assets — Processes are in place to create or modify access to protected information assets based on authoriza tion from the asset's owner.\n• Removes Access to Protected Information Assets — Processes are in place to re move access to protected information assets when no longer required.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.4",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity restricts physical access to facilities and protected information assets (for example, data center facilities, backup media storage, and other sensitive locations) to authorized personnel to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\n• Creates or Modifies Physical Access — Processes are in place to create or modify physical access by employees, contractors, vendors, and business partner personnel to facilities such as data centers, office spaces, and work areas, based on appropri ate authorization.\n• Removes Physical Access — Processes are in place to remove physical access to facilities and protected information assets when an employee, contractor, vendor, or business partner no longer requires access.\nRecovers Physical Devices — Processes are in place to recover entity devices (for • example, badges, laptops, and mobile devices) when an employee, contractor, ven dor, or business partner no longer requires access.\n• Reviews Physical Access — Processes are in place to periodically review physical access to help ensure consistency with job responsibilities.\nThe entity discontinues logical and physical protections over physical assets only after the ability to",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.5",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "read or recover data and software from those assets has been diminished and is no longer required to meet the entity's objectives.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.6",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity implements logical access security measures to protect against threats from sources out side its system boundaries.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\n• Restricts Access — The types of activities that can occur through a communication\nchannel (for example, FTP site, router port) are restricted.\n• Protects Identification and Authentication Credentials — Identification and authen tication credentials are protected during transmission outside its system bounda ries.\n• Requires Additional Authentication or Credentials — Additional authentication in formation or credentials are required when accessing the system from outside its boundaries.\n• Implements Boundary Protection Systems — Boundary protection systems (for ex ample, firewalls, demilitarized zones, intrusion detection or prevention systems, and endpoint detection and response systems) are configured, implemented, and main tained to protect external access points.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.7",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity restricts the transmission, movement, and removal of information to authorized internal and external users and processes, and protects it during transmission, movement, or removal to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC6.8",
+    "category": "Common Criteria",
+    "section": "LOGICAL AND PHYSICAL ACCESS CONTROLS",
+    "criterion_text": "The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity's objectives.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "CC7.1",
+    "category": "Common Criteria",
+    "section": "SYSTEM OPERATIONS",
+    "criterion_text": "To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "CC7.2",
+    "category": "Common Criteria",
+    "section": "SYSTEM OPERATIONS",
+    "criterion_text": "The entity monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the entity's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "CC7.3",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity evaluates security events to determine whether they could or have resulted in a failure of the entity to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus when using the trust services criteria for all engagements:\n• Responds to Security Incidents — Procedures are in place for responding to secu rity incidents and evaluating the effectiveness of those policies and procedures on a periodic basis.\n• Communicates and Reviews Detected Security Events — Detected security events are communicated to and reviewed by the individuals responsible for the manage ment of the security program, and actions are taken, if necessary.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC7.4",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity responds to identified security incidents by executing a defined incident-response pro gram to understand, contain, remediate, and communicate security incidents, as appropriate.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus when using the trust services criteria for all engagements:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC7.5",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity identifies, develops, and implements activities to recover from identified security inci dents.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\n• Restores the Affected Environment — The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, modifying access controls, and changing configurations, as needed.\n• Communicates Information About the Incident — Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security incidents are made to management and others as appropriate (inter nal and external).\n• Determines Root Cause of the Incident — The root cause of the incident is deter mined.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC8.1",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus when using the trust services criteria for all engagements:\n• Manages Changes Throughout the System Life Cycle — A process for managing system changes throughout the life cycle of the system and its components (infra structure, data, software, and manual and automated procedures) is used to support the achievement of entity objectives.\n• Authorizes Changes — A process is in place to authorize system and architecture changes prior to design, development, or acquisition and configuration.\n• Designs and Develops Changes — A process is in place to design and develop sys tem changes in a secure manner to support the achievement of entity objectives.\n• Documents Changes — A process is in place to document system changes to support ongoing maintenance of the system and to support internal and external users in performing their responsibilities.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC9.1",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "CC9.2",
+    "category": "Common Criteria",
+    "section": "",
+    "criterion_text": "The entity assesses and manages risks associated with vendors and business partners.",
+    "points_of_focus": "The following points of focus highlight important characteristics relating to this criterion:\nPoints of focus when using the trust services criteria for all engagements:\n• Establishes Requirements for Vendor and Business Partner Engagements — The entity establishes specific requirements for vendor and business partner engage ments that include (1) scope of services and product specifications, (2) roles and responsibilities, (3) compliance requirements, and (4) service levels.\nIdentifies Vulnerabilities — The entity evaluates vulnerabilities arising from vendor • and business partner relationships, including third-party access to the entity's IT systems and connections with third-party networks.\n• Assesses Vendor and Business Partner Risks — The entity inventories, tiers, and as sesses, on a periodic basis, threats arising from relationships with vendors and business partners (and those entities' vendors and business partners) and the vul nerability of the entity's objectives to those threats. Examples of threats arising from relationships with vendors and business partners include those arising from their (1) financial failure, (2) security vulnerabilities, (3) operational disruption, and (4) failure to meet business or regulatory requirements.\n• Assigns Responsibility and Accountability for Managing Vendors and Business Partners — The entity assigns responsibility and accountability for the management of risks and changes to services associated with vendors and business partners.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "A1.1",
+    "category": "Availability",
+    "section": "ADDITIONAL CRITERIA FOR AVAILABILITY",
+    "criterion_text": "The entity maintains, monitors, and evaluates current processing capacity and use of system com ponents (infrastructure, data, and software) to manage capacity demand and to enable the imple mentation of additional capacity to help meet its objectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for availability, highlight important characteristics relating to this criterion:\n• Measures Current Usage — The use of the system components is measured to estab lish a baseline for capacity management and to use when monitoring and evaluating the risk of impaired availability due to capacity constraints.\n• Forecasts Capacity — The expected average and peak use of system components is forecasted and compared to system capacity and associated tolerances. Forecasting considers system resilience and capacity in the event of the failure of system compo nents that constrain capacity.\n• Makes Changes Based on Forecasts — The system change management process is initiated when forecasted usage exceeds capacity tolerances.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "A1.2",
+    "category": "Availability",
+    "section": "ADDITIONAL CRITERIA FOR AVAILABILITY",
+    "criterion_text": "The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data backup processes, and recovery infrastruc ture to meet its objectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services availa bility criteria, highlight important characteristics relating to this criterion:\n• Identifies Environmental Threats — As part of the risk assessment process, manage ment identifies environmental threats that could impair the availability of the sys tem, including threats resulting from adverse weather, failure of environmental con trol systems, electrical discharge, fire, and water.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "A1.3",
+    "category": "Availability",
+    "section": "ADDITIONAL CRITERIA FOR CONFIDENTIALITY",
+    "criterion_text": "The entity tests recovery plan procedures supporting system recovery to meet its objectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for availability, highlight important characteristics relating to this criterion:\n• Implements Business Continuity Plan Testing — Business continuity plan testing is performed on a periodic basis to test the entity's ability to respond to, recover from, and resume operations through significant disruptions. Testing includes (1) devel opment of testing scenarios based on threat likelihood and magnitude; (2) consider ation of system components from across the entity and vendors that can impair availability; (3) scenarios that consider the potential for the lack of availability of key personnel or vendors; and (4) revision of continuity plans and systems based on test results.\n• Tests Integrity and Completeness of Backup Data — The integrity and completeness of backup information is tested on a periodic basis.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "C1.1",
+    "category": "Confidentiality",
+    "section": "ADDITIONAL CRITERIA FOR CONFIDENTIALITY",
+    "criterion_text": "The entity identifies and maintains confidential information to meet the entity's objectives related to confidentiality.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for confidentiality, highlight important characteristics relating to this criterion:\n• Defines and Identifies Confidential information — Procedures are in place to de\nRetains Confidential Information — Confidential information is retained for no • longer than necessary to fulfill the identified purpose, unless a law or regulation specifically requires otherwise.\nfine, identify, and designate confidential information when it is received or created. • Protects Confidential Information From Destruction — Policies and procedures are in place to protect confidential information from erasure or destruction during the specified retention period of the information.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "C1.2",
+    "category": "Confidentiality",
+    "section": "ADDITIONAL CRITERIA FOR CONFIDENTIALITY",
+    "criterion_text": "The entity disposes of confidential information to meet the entity's objectives related to confidentiality.",
+    "points_of_focus": "",
+    "extraction_source": "manual_patch"
+  },
+  {
+    "criterion_id": "PI1.1",
+    "category": "Processing Integrity",
+    "section": "ADDITIONAL CRITERIA FOR PROCESSING INTEGRITY (OVER THE PROVISION OF SERVICES OR THE PRODUCTION, MANUFACTURING, OR DISTRIBUTION OF GOODS)",
+    "criterion_text": "The entity obtains or generates, uses, and communicates relevant, quality information regarding the objectives related to processing, including definitions of data processed and product and service specifications, to support the use of products and services.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for processing integrity, highlight important characteristics relating to this criterion:\n• Identifies Functional and Nonfunctional Requirements and Information Specifica\ntions — The entity identifies and communicates functional and nonfunctional re support the use of products and services.\nquirements related to system processing and information specifications required to • Defines Data Necessary to Support a Product or Service — When data is provided as part of a service or product or as part of a reporting obligation related to a product or service:\n1.\n2. The definition of the data includes the following information:\na. The population of events or instances included in the set of data\nThe definition and purpose of the data is available to the users of the data. b. The nature of each element (for example, field) of the set of data (that is, the event or instance to which the data element relates, for example, transaction price of a sale of XYZ Corporation stock for the last trade in that stock on a given day)\nc. The sources of the data within the set\nd. The units of measurement of data elements (for example, fields) e. The accuracy, correctness, or precision of measurement",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "PI1.2",
+    "category": "Processing Integrity",
+    "section": "",
+    "criterion_text": "The entity implements policies and procedures over system inputs, including controls over com pleteness and accuracy, to result in products, services, and reporting to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for processing integrity, highlight important characteristics relating to this criterion:\n• Defines Characteristics of Processing Inputs — The characteristics of processing inputs that are necessary to meet requirements are defined.\n• Evaluates Processing Inputs — Processing inputs are evaluated for compliance with defined input requirements.\n• Creates and Maintains Records of System Inputs — Records of system input activi ties are created and maintained completely and accurately in a timely manner.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "PI1.3",
+    "category": "Processing Integrity",
+    "section": "",
+    "criterion_text": "The entity implements policies and procedures over system processing to result in products, ser vices, and reporting to meet the entity's objectives.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "PI1.4",
+    "category": "Processing Integrity",
+    "section": "",
+    "criterion_text": "The entity implements policies and procedures to make available or deliver output completely, accu rately, and timely in accordance with specifications to meet the entity's objectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for processing integrity, highlight important characteristics relating to this criterion:\n• Protects Output — Output is protected when stored or delivered, or both, to prevent theft, destruction, corruption, or deterioration that would prevent output from meet ing specifications.\n• Distributes Output Only to Intended Parties — Output is distributed or made avail able only to intended parties.\n• Distributes Output Completely and Accurately — Procedures are in place to pro vide for the completeness, accuracy, and timeliness of distributed output.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "PI1.5",
+    "category": "Processing Integrity",
+    "section": "",
+    "criterion_text": "The entity implements policies and procedures to store inputs, items in processing, and outputs completely, accurately, and timely in accordance with system specifications to meet the entity's ob jectives.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for processing integrity, highlight important characteristics relating to this criterion:\n• Protects Stored Items — Stored items are protected to prevent theft, corruption, de struction, or deterioration that would prevent output from meeting specifications.\n• Archives and Protects System Records — System records are archived, and archives are protected against theft, corruption, destruction, or deterioration that would pre vent them from being used.\n• Stores Data Completely and Accurately — Procedures are in place to provide for the complete, accurate, and timely storage of data.\n• Creates and Maintains Records of System Storage Activities — Records of system storage activities are created and maintained completely and accurately in a timely manner.\nADDITIONAL CRITERIA FOR PRIVACY fn 21",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P1.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity provides notice to data subjects about its privacy practices to meet the entity's objectives related to privacy. The notice is updated and communicated to data subjects in a timely manner for changes to the entity's privacy practices, including changes in the use of personal information, to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Communicates to Data Subjects [C] — Notice is provided to data subjects regard ing the following:\n— Purpose for collecting personal information\n— Choice and consent\n— Types of personal information collected\n— Methods of collection (for example, use of cookies or other tracking tech niques)\n— Use, retention, and disposal\n— Access\n— Disclosure to third parties\n— Security for privacy\n— Quality, including data subjects' responsibilities for quality\nIf personal information is collected from sources other than the individual, such\n— Monitoring and enforcement sources are described in the privacy notice. • Provides Notice to Data Subjects [C] — Notice is provided to data subjects (1) at or before the time personal information is collected or as soon as practical thereafter,",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P2.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Choice and Consent",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P2.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity communicates choices available regarding the collection, use, retention, disclosure, and disposal of personal information to the data subjects and the consequences, if any, of each choice. Explicit consent for the collection, use, retention, disclosure, and disposal of personal information is obtained from data subjects or other authorized persons, if required. Such consent is obtained only for the intended purpose of the information to meet the entity's objectives related to privacy. The entity's basis for determining implicit consent for the collection, use, retention, disclosure, and disposal of personal information is documented.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Communicates to Data Subjects [C] — Data subjects are informed (a) about the choices available to them with respect to the collection, use, and disclosure of per sonal information and (b) that implicit or explicit consent is required to collect, use, and disclose personal information, unless a law or regulation specifically requires or allows otherwise.\n• Communicates Consequences of Denying or Withdrawing Consent [C] — When personal information is collected, data subjects are informed of the consequences of",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P3.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Collection",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P3.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Personal information is collected consistent with the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Limits the Collection of Personal Information [P][C] — The collection of personal information is limited to that necessary to support the achievement of the entity's objectives.\n• Collects Information by Fair and Lawful Means [P][C] — Methods of collecting personal information are reviewed by management before they are implemented to confirm that personal information is obtained (a) fairly, without intimidation or de ception, and (b) lawfully, adhering to all relevant rules of law, whether derived from statute or common law, relating to the collection of personal information.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P3.2",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "For information requiring explicit consent, the entity communicates the need for such consent as well as the consequences of a failure to provide consent for the request for personal information and obtains the consent prior to the collection of the information to meet the entity's objectives re lated to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\nInforms Data Subjects of Consequences of Failure to Provide Consent [C] — Data • subjects are informed of the consequences of failing to provide the entity with ex plicit consent.\n• Documents Explicit Consent to Retain Information [C] — Documentation of explicit consent for the collection, use, or disclosure of sensitive personal information is re tained to support the achievement of entity objectives related to privacy.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P4.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Use, Retention, and Disposal",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P4.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity limits the use of personal information to the purposes identified in the entity's objectives related to privacy.",
+    "points_of_focus": "The following point of focus, which applies only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Uses Personal Information for Intended Purposes [P][C] — Personal information is used only for the intended purposes for which it was collected and only when im plicit or explicit consent has been obtained, unless a law or regulation specifically requires otherwise.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P4.2",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity retains personal information consistent with the entity's objectives related to privacy.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P4.3",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity securely disposes of personal information to meet the entity's objectives related to pri vacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite\nria for privacy, highlight important characteristics relating to this criterion:\n• Captures, Identifies, and Flags Requests for Deletion [P][C] — Requests for dele tion of personal information are captured and information related to the requests is identified and flagged for destruction to support the achievement of the entity's ob jectives related to privacy.\n• Disposes of, Destroys, and Redacts Personal Information [P][C] — Personal infor mation no longer retained is anonymized, disposed of, or destroyed in a manner that prevents loss, theft, misuse, or unauthorized access.\n• Destroys Personal Information [P][C] — Policies and procedures are implemented to erase or otherwise destroy personal information that has been identified for de struction.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P5.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Access",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P5.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity grants identified and authenticated data subjects the ability to access their stored per sonal information for review and, upon request, provides physical or electronic copies of that infor mation to data subjects to meet the entity's objectives related to privacy. If access is denied, data subjects are informed of the denial and reason for such denial, as required, to meet the entity's ob jectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P5.2",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity corrects, amends, or appends personal information based on information provided by data subjects and communicates such information to third parties, as committed or required, to meet the entity's objectives related to privacy. If a request for correction is denied, data subjects are informed of the denial and reason for such denial to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\nResponds to Data Controller Requests [P] — The entity has a process to respond to • data controllers' update requests, including updates to personal information and denial of requests, in accordance with service agreements to support the achieve ment of the entity's objectives related to privacy.\n• Communicates Denial of Access Requests [P][C] — Data subjects are informed, in writing, of the reason a request for access to their personal information was denied, the source of the entity's legal right to deny such access, if applicable, and the",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Disclosure and Notification",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity discloses personal information to third parties with the explicit consent of data subjects and such consent is obtained prior to disclosure to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Communicates Privacy Policies to Third Parties [P][C] — Privacy policies or other specific instructions or requirements for handling personal information are commu nicated to third parties to whom personal information is disclosed.\n• Discloses Personal Information Only When Appropriate [P][C] — Personal infor mation is disclosed to third parties only for the purposes for which it was collected or created and only when implicit or explicit consent has been obtained from the data subject, unless a law or regulation specifically requires otherwise.\n• Discloses Personal Information Only to Appropriate Third Parties [P][C] — Per sonal information is disclosed only to third parties who have agreements with the entity to protect personal information in a manner consistent with the relevant as pects of the entity's privacy notice or other specific instructions or requirements.\n• Discloses Information to Third Parties for New Purposes and Uses [P][C] — Per sonal information is disclosed to third parties for new purposes or uses only with the prior implicit or explicit consent of data subjects.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.2",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity creates and retains a complete, accurate, and timely record of authorized disclosures of personal information to meet the entity's objectives related to privacy.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.3",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity creates and retains a complete, accurate, and timely record of detected or reported unau thorized disclosures (including breaches) of personal information to meet the entity's objectives re lated to privacy.",
+    "points_of_focus": "The following point of focus, which applies only to an engagement using the trust services crite ria for privacy, highlights important characteristics relating to this criterion:\n• Creates and Retains Record of Detected or Reported Unauthorized Disclosures [P] [C] — The entity creates and maintains a record of detected or reported unauthor ized disclosures of personal information that is complete, accurate, and timely.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.4",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity obtains privacy commitments from vendors and other third parties who have access to personal information to meet the entity's objectives related to privacy. The entity assesses those par ties' compliance on a periodic and as-needed basis and takes corrective action, if necessary.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Evaluates Third-Party Compliance With Privacy Commitments [P][C] — The en tity has procedures in place to evaluate whether third parties have effective controls to meet the terms of the agreement, instructions, or requirements.\n• Remediates Misuse of Personal Information by a Third Party [P][C] — The entity takes remedial action in response to misuse of personal information by a third party to whom the entity has transferred such information.\nObtains Commitments to Report Unauthorized Disclosures [P][C] — A process ex • ists for obtaining commitments from vendors and other third parties to report to the entity actual or suspected unauthorized disclosures of personal information.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.5",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity obtains commitments from vendors and other third parties with access to personal infor mation to notify the entity in the event of actual or suspected unauthorized disclosures of personal information. Such notifications are reported to appropriate personnel and acted on in accordance with established incident-response procedures to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Remediates Misuse of Personal Information by a Third Party [P][C] — The entity takes remedial action in response to misuse of personal information by a third party to whom the entity has transferred such information.\n• Reports Actual or Suspected Unauthorized Disclosures [P][C] — A process exists for obtaining commitments from vendors and other third parties to report to the en tity actual or suspected unauthorized disclosures of personal information.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.6",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity provides notification of breaches and incidents to affected data subjects, regulators, and others to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\nIdentifies Reporting Requirements [P][C] — The entity has a process for determin • used, the timeline, and the identification of recipients of such notifications.\n• Provides Notice of Breaches and Incidents [P][C] — The entity has a process for others to support the achievement of the entity's objectives related to privacy.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P6.7",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "ing whether notification of a privacy breach is required, including the method to be providing notice of breaches and incidents to affected data subjects, regulators, and The entity provides data subjects with an accounting of the personal information held and disclo sure of the data subjects' personal information, upon the data subjects' request, to meet the entity's objectives related to privacy.",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P7.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Quality",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P7.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity collects and maintains accurate, up-to-date, complete, and relevant personal information to meet the entity's objectives related to privacy.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:\n• Ensures Accuracy and Completeness of Personal Information [P][C] — Personal information is accurate and complete for the purposes for which it is to be used.\n• Ensures Relevance of Personal Information [P][C] — Personal information is rele vant to the purposes for which it is to be used.",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P8.0",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "Privacy Criteria Related to Monitoring and Enforcement",
+    "points_of_focus": "",
+    "extraction_source": "marker"
+  },
+  {
+    "criterion_id": "P8.1",
+    "category": "Privacy",
+    "section": "",
+    "criterion_text": "The entity implements a process for receiving, addressing, resolving, and communicating the reso lution of inquiries, complaints, and disputes from data subjects and others and periodically moni tors compliance to meet the entity's objectives related to privacy. Corrections and other necessary actions related to identified deficiencies are made or taken in a timely manner.",
+    "points_of_focus": "The following points of focus, which apply only to an engagement using the trust services crite ria for privacy, highlight important characteristics relating to this criterion:",
+    "extraction_source": "marker"
+  }
+]

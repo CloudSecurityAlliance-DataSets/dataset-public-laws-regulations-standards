@@ -1,0 +1,343 @@
+Control Domain,Control Title,Control ID,CCM_Control Specification,Implementation Guidelines_CCM Implementation Guidelines v2.0 CSP,Implementation Guidelines_CSC,Auditing Guidelines_Auditing Guidelines
+"Security Incident Management, E-Discovery, & Cloud Forensics",Security Incident Management Policy and Procedures,SEF-01,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for Security Incident Management, E-Discovery, and Cloud
+Forensics. Review and update the policies and procedures at least annually.
+","Control Ownership Rationale.
+This control's ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently establish their own policies and procedures for Security Incident Management. 
+
+Implementation Guidelines.
+Applicable to all service models:
+The Security Incident Management, E-Discovery, and Cloud Forensics Policies and Procedures should be established and documented with clearly-defined roles and responsibilities, and for each cloud service model (IaaS, PaaS, and SaaS). Shared responsibilities should become identified with the use of Key Shared Security Responsibility Indicators (KSSRI) or Key Shared Cloud Security Responsibility Indicator (KSCSRI) where possible.
+
+Policies, procedures, and supporting systems should incorporate provisions concerning the chain of custody for forensic evidence, so that such evidence becomes legally admissible.
+
+The CSP is responsible for establishing and following company policies, resource management, regulatory and insurance requirements set forth with regards to managing incidents or performing eDiscovery and forensics-based investigations. The CSP is not responsible for maintaining knowledge of, or carrying out forensics investigations on behalf of the CSC. Nevertheless, the CSP should collaborate with the CSC during the forensic-based investigations, specifically in cases where incidents could have originated from the CSP and third-party vendors in the supply chain.
+
+The policies and procedures should include the phases of the IR life cycle and indicate when the CSP should engage the CSC for security incidents that affect the CSC, as well as the frequency at which the CSP is expected to provide updates during incidents.
+
+The CSP should communicate the Security Incident Management, E-Discovery, and Cloud Forensics Policies within the organization and may publish or share the IR policy for the CSC's awareness.
+
+Policies should require establishing a core, qualified, and standing IR team that has the capability to assess, respond, learn, and communicate appropriately.
+
+Policies should include (but not limited to) provisions on the following:
+a. Incident Handling Process: Time-stamped recording of activities in the IR process is necessary for metrics, SLA's, service recovery, and availability
+b. Detection:
+i. the location of the activity resulting in an incident: SaaS (e.g., api, GUI, user, data), PaaS (e.g., api, GUI, user, application, data), IaaS (e.g., api, GUI, user, application, solution stack, VM, data), or at the hypervisor, OS, compute and storage, network, or facility, and the event source logs, including which party (either the CSP or CSC) is responsible for the activity (success and/or failure) logs, as well as the availability of the logs that will be used for detection and other security incident management phases
+ii. implementation of advanced detection tools (behavioral and rule-based) with automated alerting should be used by both the CSP and CSC to provide early detection and indication of potential incidents, as well as mechanisms for end user and third-party detection of incidents to be self-reported via ticket, email, telephoning help desk, or other available channels
+c. Analysis: 
+i. policy and process should follow an attack vector taxonomy process which may include referencing the Mitre ATT&CK IaaS, PaaS, and SaaS tactics and techniques. 
+ii. incident scope, type, impact (functional and informational), and severity should be defined, including the data classification (e.g., personal data, Top Secret, Secret, Confidential, Health) involved in the incident
+iii. major incidents related to data breach, DDoS, malware, Data Leakage (DL), exploit types, local vs. remote, internal vs. external, perimeter, management plane incidents, and expected IR steps and consequences should be understood and demonstrated where the CSC's cloud environment is affected
+iv. reference to consulted Incident classification and categorization techniques from organization-approved sources (e.g., US-CERT Federal Incident Notification Guidelines or FedRAMP Incident Communications Procedures). The CSC can obtain CSP support via the CSP's Customer Incident Response Team (CIRT)
+d. Containment: 
+i. the most common containment techniques (e.g., network, filtering, routing, firewall and port rule changes to deny traffic, traffic filtering or isolation) are usually the responsibility of the CSP and can be automated with capable SIEM/SOAR, logic apps, and workbooks, unless it is a CSP-provided security group firewall which would be the CSC's responsibility
+ii. the CSP should contain the security incident by reducing or removing the attacker's ability to continue to exploit the functionality. 
+iii. the CSP should ensure that forensic evidence is not compromised and that a read-only backup or creating a snapshot should be taken (e.g., cloud block-storage snapshot)
+iv. The CSP should follow guidelines on managing the chain of custody for forensic evidence collected from affected systems, devices, cloud services, applications, and personnel. These policies, procedures, and supporting systems should result in legally admissible evidence
+e. Eradication: 
+i. the responsibility for addressing the root cause and returning the environment to a safe state needs to be defined between the CSP and CSC, or indicate where it is shared (e.g., removing malware could be the responsibility of both the CSP and the CSC)
+ii. the responsibility for closing exposures, removing or resetting credentials, performing key rotation/revocation, stopping an instance, moving to a secure resource, restricting privilege access, ensuring least privilege, need to know and need to use principles should be updated accordingly
+f. Recovery:
+i. restoring from backups, depending on the backup strategy if within the same CSP or another CSP, should be indicated in the policy and follow BCP or DR plans to maintain prioritized sequential restoration and recovery of resources
+ii. Both the CSP and CSC will need to meet the changing needs of the scalable environment with adaptable RTO/RPO capabilities when resources delivering the services have expanded dynamically as with auto scaling groups, increased storage, and increased data consumption. 
+iii. responsibilities for rebuilding systems and allocation of resources to achieve recovery, and for ensuring the security of the recovered environment will need to be defined between the CSP and CSC
+g. Post-Mortem: Recommend configuration changes to the environment to prevent or mitigate future incidents where the CSP and CSC agree, include lessons learned, and KPIs defined and implemented for IR processes and training
+h. Response Time Agreement: 
+i. Agree on severity and response time for security incidents between the CSP and CSC where shared responsibility is agreed
+ii. Organization-approved industry standards should be consulted
+i. Communication Path with CSC: define the following prior to security incidents in the policies and procedures:
+j. Reporting path: which security incident types should be reported to the CSC
+k. Escalation path:  the escalation path with the CSC prior to a security incident
+l. Notification path: automate where possible, via a security incident management tool, or an alerting service via email. An out-of-band notification path may need to be defined. The IR policy and procedures should include notification requirements and timelines as per regulatory and legal requirements, especially ""Breach Notification"" requirements. Reference the Federal Incident Notification Guidelines where applicable
+m. IR Plan Testing: Test the IR plan periodically, either through paper walk through/table top exercise or simulation with the participation of both the CSP and CSC as well as other relevant parties
+n. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+o. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+p. Maintenance and Reviews: Security Incident Management, E-Discovery, and Cloud Forensics policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's Security Incident Management, E-Discovery and Cloud Forensics.
+2. Examine policy and procedures for evidence of review at least annually.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Service Management Policy and Procedures,SEF-02,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for the timely management of security incidents. Review
+and update the policies and procedures at least annually.
+","Control Ownership Rationale.
+This control's ownership is ""Shared (Independent)"" as the CSP and CSC independently establish their own policies and procedures for Security Incident Management. The policies and procedures should clearly define roles and responsibilities and any shared responsibilities with the use of KSSRIs or KSCSRIs throughout all phases of the Security Incident Management process, including chain of custody for forensic evidence and legal obligations between the CSP and CSC.
+
+Implementation Guidelines.
+Applicable to all service models:
+Policies should include (but not limited to) provisions on the following: 
+a. CSP-CSC Collaboration: Address personnel designated to report incidents between the CSP and CSC, the timeframes established, and agreed-upon impact and severity rating applicable to the CSC and CSP for incident management practices. This ensures that an incident categorized by the CSP or CSC does not negate or dictate the appropriate response to contain and eradicate the incident, or cause variations in the understanding of the appropriate response from either party (e.g., a personal data breach requires shorter response time than a DDoS attack), the frequency to provide reports throughout the incident lifecycle, and how the incident should be reported
+b. Roles and Responsibilities: Clear roles and responsibilities of the personnel in the entire incident and event management lifecycle should be defined
+c. Proactive Measures: aim to reduce IR time by including preventative measures following a defense-in-depth strategy, least privilege, need-to-know, need-to-use, and zero trust models where possible, as some defense mechanisms will be available from the CSP as part of the service or at a cost to the CSC
+d. IR Automation SOAR: address automation with a Security Orchestration and Automation Response (SOAR) solution to reduce the time to alert, contain, remediate, and eradicate the incident automatically, (e.g., when a malware attack is detected, quarantine the impacted systems, then either clean them automatically, reimage them, or perform other activities as programmed in the SOAR). The CSP will need to define what automated responses can be provided to the CSC where SOAR technology is used
+e. IR Containment: define roles between the CSC and CSP for containment strategy. Also, predetermined criteria informing how to contain the incident should be defined in the procedures to ensure timely and cost effective containment and management. Use of KSCSRIs may assist with ensuring CSP and CSC have awareness of their containment responsibilities
+f. Evidence Cloud Storage: consider the use of either a separate cloud account or of another CSP for storage of evidence. The CSP will need to inform the CSC how to accomplish this
+g. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+h. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+i. Maintenance and Reviews: Policies and procedures for the management of security incidents should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+
+Other policy and procedural considerations for timely management of security incidents for both CSP and CSC should include agreements on:
+a. IR Alerting: alerting procedures should be defined and implemented within a defined time frame based on event, severity, impact, and threat intelligence
+b. IR Time: response time depending on incident severity (e.g., number of minutes/hours per severity level) as per contractual agreement or SLA
+c. investigation of the time and date (including time zone) of each occurrence of evidence handling, the shared responsibility to produce (through secure auditing, logging, and monitoring), collect, safely store (with encryption and integrity), and transfer information or evidence related to the incident. Use of KSCSRIs may be used to assist with identifying when responsibility changes between the CSP and CSC and vice versa if another CSP will be used to store the evidence
+d. RTO Metrics: recovery time frame based on RTO and SLAs. Use of KSCSRIs may assist with meeting these required time frames 
+e. IR Records: chronological record of all activities during the incident lifecycle with indicators to notify, report, and communicate as per agreed time frames between the CSP and CSC
+
+The CSP should communicate the Security Incident Management, E-Discovery, & Cloud Forensics, Service Management Policy and Procedures within the organization and may publish or share the Incident Response Policy with the CSC for awareness.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's Security Incident Management, with respect to timely management.
+2. Examine the policy and procedures for evidence of review at least annually.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Incident Response Plans,SEF-03,"'Establish, document, approve, communicate, apply, evaluate and maintain
+a security incident response plan, which includes but is not limited to: relevant
+internal departments, impacted CSCs, and other business critical relationships
+(such as supply-chain) that may be impacted.'
+","Control Ownership Rationale.
+Incident Response Plans control ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently establish their own security IR plan and own the responsibility. The IR plans should clearly define roles and responsibilities and any shared responsibilities with the use of KSSRIs or KSCSRIs where possible.
+
+Implementation Guidelines.
+Applicable to all service models:
+The IR plan relates back to the SEF-01 implementation guidelines to ensure that corresponding policy and procedure requirements are incorporated for all phases of the IR life cycle.
+
+The IR plan should provide a methodology that enables efficient management of security incidents for the organization's cloud products and services (SaaS, PaaS, IaaS) and clearly defines the relied-upon CSP's services to achieve a coordinated response. Once the IR plan is established and documented the plan needs to be approved and communicated.
+
+The IR plan should include the following provisions:
+a. Scope: The IR plan should apply to both internal dependencies (such as IT, operations, support, and legal) and external dependencies (suppliers, vendors, partners, customers, and other third parties). The cloud services, systems, applications, users, and data that are in scope and monitored for events and incidents. Ensure the scope network and infrastructure is monitored by the CSP
+b. Incident Response Team and Stakeholders: The stakeholders include customers, law enforcement who receive information about incidents and/or can be involved in incident management
+c. Incident Tracking and Classification: Define the issue and tracking system used for recording the incident. Classify incidents by severity and urgency (e.g., High, Medium, Low, Major vs Minor), using threat intelligence, attack vector taxonomy Mitre ATT&CK for PaaS, IaaS, and SaaS tactics and techniques, and data classification for any data involved, the scope, and the impact of the incident.
+d. Response Type and Expected Response Timeframes: The plan should indicate when a manual vs. automated response is required by the CSP or CSC, the time frames to respond by (e.g., mean time to acknowledge aka MTTA), by when the CSP or CSC is required to report an incident, who is responsible for containment of the incident, and the average expected mean time to containment (MTTC). The response may invoke subsequent IR plans such as an encryption key compromise-recovery plan for restoring cryptographic security services
+e. Evidence Gathering and Handling: Steps to collect and maintain the integrity of the evidence should be provided, when and where to make copies, when to use exact replicas for analysis, the CSP's or CSC's responsibilities around logs, other collected evidence, storing in restricted read-only repositories, using a separate account or another CSP, hashing procedures, and chain of custody for ensuring admissibility in legal proceedings
+f. Incident Lifecycle Phases and Procedures: Procedures for preparation, detection and analysis, eradication and recovery, post-mortem with continuous analysis at each phase to determine effectiveness, the CSC's preventative measures such as IDS/IPS, and provide specificity around incidents with shared responsibilities.
+g. Roles and Responsibilities: Common shared security responsibilities between the CSP and CSC in relation to incident response:
+i. Client and endpoint incidents - (SaaS) shared CSC and CSP
+ii. Identity and access incidents - (PaaS, SaaS) shared CSC and CSP
+iii. Application Incidents - (PaaS) shared CSC and CSP
+iv. Network incidents - (IaaS) shared CSC and CSP
+v. Host incidents - (IaaS) shared CSC and CSP
+Common non-shared responsibilities:
+vi. Data classification and accountability incident - CSC
+vii. Client and endpoint incidents (IaaS, PaaS) - CSC
+viii. Identity and access incidents (IaaS) - CSC
+ix. Application incidents (IaaS) - CSC
+x. Application incidents (SaaS) - CSP
+xi. Network incidents (PaaS, SaaS) - CSP
+xii. Host incidents (PaaS, SaaS) - CSP
+xiii. Infrastructure incidents (IaaS, PaaS, SaaS) - CSP
+h. Notification and Reporting: List of personnel at the CSP and CSC, third-party personnel, and distribution lists for notification. Use internal and external websites or portals where incidents and service outage information can be published and updated regularly to advise on the status of incidents that affect major services. US-CERT (required for US federal agencies and systems operated on behalf of the federal government) serves as the federal incident response center
+i. Business Impact Assessment Information: The CSP and CSC should have BIA information for each asset, system, application, and associated classified data, with owners identified and the relevant internal departments, upstream/downstream interdependencies, services (IaaS, PaaS, SaaS), and other business-critical relationships (such as supply chain) that may be impacted
+j. Reference Information: Information on how to determine the applicable RPO, RTO, and MTD of a particular system or set of systems for restore from backup recovery procedures to restore affected services, logs, and data as per agreements between the CSC and CSP to maintain business continuity. Outline the criteria required to select the appropriate eradication and recovery choice, e.g., restore, rebuild, replace, redirect or remove.
+k. Schedule: A schedule to review, test, evaluate, and maintain and approve the plan. Define the frequency or schedule to conduct the review, test coordination, and approve the plan. 
+l. Plan Testing: Conduct a paper walk through/table top exercise or simulation where feasible with the participation of both the CSP and CSC as defined in the schedule. Evaluate and maintain/update the plan accordingly:
+i. after testing the plan and with lessons learned obtained
+ii. after incidents that resulted in changes to the response methodology, e.g., new attack vectors, containment strategies, false positives, false negatives, or caused a deviation from the response plan, and exposures detected from penetration testing.
+iii. Timing: When services (IaaS, PaaS, SaaS), critical assets, applications, and classified data are either added or removed
+iv. Plan Reapproval: The plan should be reapproved after all necessary changes are made
+v. Change Control: The IR plan should maintain a document control section indicating when the plan was tested and the changes to the plan content with each iteration
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's Security Incident Management, with respect to timely management.
+2. Examine the processes to identify  impacted stakeholders.
+3. Determine if this plan meets stakeholder requirements.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Incident Response Testing,SEF-04,"Test and update as necessary incident response plans at planned intervals
+or upon significant organizational or environmental changes for effectiveness.
+","Control Ownership Rationale.
+The control's ownership is ""Shared (Independent)"" as both the CSP and CSC need to independently test and update their individual organization's IR plan.
+
+Implementation Guidelines.
+Applicable to all service models:
+Incident Response plans should be tested periodically either through paper walk through/table top exercise or simulation where feasible with the participation of both CSP and CSC to verify the IRP's effectiveness using various event scenarios.
+
+The CSP should: 
+a. validate and update all contact information and IR team members
+b. validate and update the scope of the IR plan, both internal dependencies (such as IT, operations, support, and legal) and external (suppliers, vendors, partners, customers, and other third parties). The cloud services, systems, applications, users and data that are in scope and monitored for events and incidents. Ensure the scoped network and infrastructure is monitored by the CSP
+c. define the scope for the IR test (e.g., an environment for the IR plan testing should include the following options, but not be limited to: a duplicate test/simulation environment, an alternate non production environment, and a third party CSP cloud service/account)
+d. decide which area in the threat landscape to test the IR plan with e.g., the tactics techniques procedures (initial access, execution, persistence, privilege escalation, defense evasion, credential access, discovery, lateral movement). Follow an attack vector taxonomy process using the Mitre ATT&CK  for IaaS, PaaS, SaaS tactics and techniques to simulate events and activities that would result in an incident
+e. schedule the IR plan test - arrange meetings with participants, the CSP, and the CSC as defined in the plan
+f. conduct the paper walk through or simulation following the IR plan and all phases of the incident. Maintain a chronological log of the testing activities for metrics and indicators of successfully completing all timed activities and steps outlined in the plan
+g. coordinated test, review, and update manual processes and automated incident management features, detection, alerting, playbooks, logic apps, rules, containment, eradication and recovery strategies
+h. reconcile the organization's BC and DR plans with the IR plan, and address discrepancies
+i. document and communicate the IR plan test results, with resulting action items that address areas that failed during the test, deviated from the response methodology, containment strategies, false positives, false negatives, or could not be executed
+j. update the plan to address discrepancies and failures, and obtain reapproval of the plan
+
+The CSP and CSC should also test, update, and improve IR plans after:
+a. significant organizational changes
+b. external supply chain disruptions and natural disasters
+c. security attacks, particularly those resulting in security breaches
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Verify if there is a calendar of exercises available, if exercises are performed at planned intervals and when there are significant changes within the organization or the context in which it operates.
+2. Verify if the organization has reviewed and acted upon the results of its exercising and testing to implement changes and improvements.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Incident Response Metrics,SEF-05,"Establish and monitor information security incident metrics.
+","Control Ownership Rationale.
+This is a shared responsibility between the CSP and the CSC to ensure that appropriate security incident metrics are established and monitored.  
+
+Implementation Guidelines.
+Applicable to all service models:
+Security metrics need to be established, monitored and analyzed to detect weaknesses in operational processes or technical controls to support effective incident management.
+
+The CSP should define, implement and monitor security incident metrics related to:
+a. all supporting infrastructure - virtual elastic compute, server operating systems, storage, and networking
+b. middleware, development tools, BI services, and database management systems
+c. applications configured as contractually agreed with the CSC
+
+Implementation best practices for establishing and monitoring security incident metrics include (but not limited to):
+a. Detection Metrics: 
+i. Time to Identify (TTI) metric measures the average time to identify an incident
+ii. False positives metric tracks the percentage of alerts that weren't actual incidents 
+b. Response Metrics:
+i. Time to Contain (TTC) metric measures the average time to isolate and prevent further damage
+ii. Mean Time to Respond (MTTR) metric tracks the average time to respond and fully resolve an incident
+c. Recovery Metrics:
+i. Data Recovery Time (DRT) measures the average time to restore affected systems and data (e.g., downtime due to incident)
+ii. Downtime Cost metric tracks the financial impact of service disruptions due to incidents
+d. Quantify Security Events: 
+i. Number of security alerts metric that tracks the volume of alerts generated by security tools
+ii. Incident volume metric monitors the volume of the events monitored and the ratio of those events to incidents
+e. Business Impact:
+i. Downtime metric tracks the duration of service disruptions due to security incidents
+ii. Data Loss metric measures the volume of data compromised during an incident
+f. Incident Metrics in SLAs: Outline security incident metrics baselines and goals within SLAs to ensure transparency and accountability towards CSCs
+g. Metrics Prioritization: Focus should be on metrics for business continuity and CSC impact (e.g., MTTR for critical systems)
+h. Monitoring Incident Metrics: 
+i. SIEM solutions should be leveraged to collect, analyze, and visualize security data and provide real-time insights into potential incidents
+ii. SIEM solutions should be configured to trigger automated alerts for suspicious activities based on predefined thresholds for chosen metrics
+i. Incident Metrics Review: 
+i. Security incident metrics should be regularly reviewed to identify areas for improvement and updated based on lessons learned from incidents and evolving threats
+i. Metrics should be compared against industry standards and other CSPs (when possible) to identify areas for improvement
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+
+In addition, the CSC should define, implement, and monitor security incident metrics related to staff access to applications as contractually agreed with the CSP.
+","1. Verify that metrics have been established to measure information security incidents.
+2. Verify that metrics together demonstrate the efficacy, effectiveness and success of the information security incident response plan to address incidents as they happen.
+3. Verify that the metrics are measured and reported to stakeholders.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Event Triage Processes,SEF-06,"Define, implement and evaluate processes, procedures and technical
+measures supporting business processes to triage security-related events.
+","Control Ownership Rationale.
+The implementation responsibility between the CSP and the CSC is typically both shared and dependent, as collaboration is necessary for effective triage of a security event. Triage is used for identifying, evaluating, prioritizing and responding to security events (and potential incidents) that impact both parties. The CSP can provide valuable insights into potential sources or root causes of the security event, while the CSC can contribute information specific to their data, configuration, applications, and user activity. This joint effort helps to identify the event's scope and potential impact, leading to a more targeted and efficient response. 
+
+For example, a security incident occurring in the platform layer for an IaaS infrastructure should be driven jointly by the CSC and the CSP to determine if it originated in the CSC's environment or the CSP's environment.
+This may involve containment measures implemented by the CSP, such as isolating affected resources, while the CSC can take steps like user account suspension or data recovery, depending on the specific event.
+
+Implementation Guidelines.
+Applicable to all service models:
+A fully documented and annually reviewed and approved triage management process should be in operation to ensure that all security events are investigated and evaluated in a timely manner.
+
+The CSP should perform a triage process for all supporting infrastructure - virtual elastic compute, server operating systems, storage, and networking - but also middleware, development tools, BI services, database management systems, and applications configured for use by the CSC. The CSP should have visibility into the triage process to ensure the security incident management process is followed as contractually agreed.
+
+Implementation best practices for security events triaging include (but not limited to):
+a. Stakeholders Collaboration: 
+i. Roles and responsibilities should be established for internal security teams, CSC support, and any external partners involved in incident response, as per contractual agreements
+ii. A communication plan should be established for notifying relevant stakeholders, including internal teams, impacted CSCs, and regulatory bodies (if necessary)
+b. Events Classification Scheme: A standardized method for classifying security events based on severity, potential impact, and urgency should be defined, to support events prioritization. A multi-tiered approach can be considered:
+i. Tier 1.Low-risk events might involve automated containment and basic investigation (e.g., suspicious login attempts)
+ii. Tier 2.Medium-risk events require deeper investigation and potential CSC notification (e.g., potential malware infection)
+iii. Tier 3.High-risk events necessitate immediate action, full investigation, and potential regulatory reporting (e.g., confirmed data breach)
+c. Standardized Playbook: A documented playbook outlining steps for each tier, should be developed, including:
+i. Procedures for an initial assessment and gathering initial details about the event, including source, timeframe, and potential indicators of compromise (IOCs)
+ii. Measures should be implemented for containment and to prevent further damage (e.g., isolating compromised systems or limiting user access)
+iii. A thorough investigation should be conducted to determine the root cause, scope of the incident, and potential data loss (e.g., log analysis, threat intelligence feeds, and security tools)
+iv. Actions should be implemented to eradicate the threat, recover affected systems, and prevent future occurrences
+","Control Ownership Rationale.
+The CSC responsibilities include promptly reporting any suspicious activity to the CSP and collaborating with the CSP to evaluate, prioritize and respond to security events (and potential incidents), as per contractual agreement.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+
+In addition, the CSC should adhere to the following best practice:
+a. Incident Collaboration as per CSP Contractual Agreements: 
+i. Contractual agreements with the CSP should clearly define the responsibilities and response timelines in case of a security incident
+ii. The communication protocols outlined in the contractual agreement with the CSP for reporting security incidents to the CSP should be well understood
+iii. A communication channel should be established with the CSP to share relevant information regarding security incidents promptly
+iv. The CSC should have visibility into the CSP triage process to ensure the security incident management process is followed as contractually agreed
+v. Guidance and assistance from the CSP's security team is encouraged in defining and implementing CSC's triage process
+","1. Verify if operational processes that help the organization to prepare for, identify, detect, protect, respond to and recover from information security incidents in a step-by-step manner exist.
+2. Verify if tools that support these organizational procedures to triage security related events complement the ability of the teams to detect, review, monitor and quickly decide upon the context and the possible impact of the incident as it happens and over time.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Security Breach Notification,SEF-07,"Define and implement, processes, procedures and technical measures
+for security breach notifications. Report security breaches and assumed security
+breaches including any relevant supply chain breaches, as per applicable SLAs,
+laws and regulations.
+","Control Ownership Rationale.
+This is ""Shared (Independent)"" since both CSP and CSC are responsible for ensuring that security breach notifications are disclosed according to the local legal and regulatory requirements as stated in the services agreement. The controls however are Independent from one another. Both entities may require different processes, procedures, and technical controls.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should implement a process and procedures to report security breaches and assumed security breaches for all supporting infrastructure - virtual elastic compute, server operating systems, storage, and networking - and also middleware, development tools, BI services, database management systems, and applications configured as contractually agreed for use by the CSC.
+
+Implementation best practices for security breach notifications include (but not limited to):
+a. Breach Notification Plan: 
+i. What constitutes a security breach, and the types of incidents requiring notification (unauthorized access attempts, data exfiltration) should be defined 
+ii. Breach information should be included in breach notifications and specify the nature of the breach, affected data types, potential risks, and mitigation steps taken
+iii. Procedures for notifying relevant parties should be defined including impacted CSCs, regulatory bodies, and internal stakeholders, as per SLAs and relevant regulations
+iv. Timeframes for notifying impacted parties based on the severity of the breach and relevant regulations should be defined (e.g., 72 hours as mandated by some data breach laws)
+b. Supply Chain Breach Notification:
+i. Vendor contracts should include provisions requiring notification of security incidents impacting the CSPs' services
+ii. Breach notification procedures should adhere to data protection regulations
+c. Breach Notification Channels: Appropriate communication channels for notifying affected parties about security breaches should be established
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization's Security Breach Notification management.
+2. Verify if there is a formal program that documents the breach notification requirements for all regulatory or contractual domains that the organization asserts adherence to.
+3. Verify if there is a periodic awareness program to ensure all those associated with information security incident response are aware of the procedures involved for their roles, responsibilities and authorities.
+4. Determine if the organization has established breach notification Time Objectives for information security breaches that meet the minimum expectation of the applicable regulation and verify if those time objectives are reflected in all internal and external service level expectations.
+"
+"Security Incident Management, E-Discovery, & Cloud Forensics",Points of Contact Maintenance,SEF-08,"Maintain points of contact for applicable regulation authorities,
+national and local law enforcement, and other legal jurisdictional authorities.
+","Control Ownership Rationale.
+This control is ""Shared (Independent)"" since both the CSP and CSC are responsible for the maintenance and documentation of points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities. 
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should document and maintain security incident contact information with relevant authorities and implement a communication process, and assign responsibilities to the communications team (personnel authorized to send notifications) and external regulatory entities, to prepare them for investigations requiring engagement with law enforcement.
+
+Implementation best practices for maintaining points of contact include (but not limited to):
+a. Authorities Identification:
+i. The relevant regulatory bodies should be searched for and identified in each region where the CSP operates (e.g., financial regulators, data protection authorities).
+ii. Points of contact should be established within national and local law enforcement agencies in operational regions
+iii. Legal jurisdictions should be identified where CSC data might be stored or processed due to international operations.
+b. Centralized Contact Repository:
+i. A secure repository should be developed containing contact information for all identified authorities (e.g., names, titles, phone numbers, email addresses, jurisdiction areas, and preferred communication methods)
+ii. The repository should be updated at least annually and upon any changes in personnel or contact information within the included authorities
+c. Communication Channels:
+i. Communication protocols for each authority type should be established (e.g., secure email for regulatory bodies, dedicated hotlines for law enforcement)
+ii. A process should be implemented for verifying the legitimacy of any communication received from claiming authorities
+d. Legal Counsel: Legal counsel should be considered to ensure proper procedures and data sharing protocols are followed when interacting with authorities
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply.
+","1. Examine the process used to determine applicable points of contact, and the procedure for reviewing the list/documentation that contains them.
+2. Verify if the organization has updated the list of  points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities.
+3. Examine when the last updates were done and if there is a schedule for reviewing and updating these contacts.
+"

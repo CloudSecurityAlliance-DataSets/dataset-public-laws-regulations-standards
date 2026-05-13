@@ -1,0 +1,65 @@
+[
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Infrastructure and Virtualization Security Policy and Procedures",
+        "Control ID": "I&S-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for infrastructure and virtualization security. Review\nand update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Capacity and Resource Planning",
+        "Control ID": "I&S-02",
+        "Control Specification": "Plan and monitor the availability, quality, and adequate capacity\nof resources in order to deliver the required system performance as determined\nby the business.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Network Security",
+        "Control ID": "I&S-03",
+        "Control Specification": "Monitor, encrypt and restrict communications between environments\nto only authenticated and authorized connections, as justified by the business.\nReview these configurations at least annually, and support them by a documented\njustification of all allowed services, protocols, ports, and compensating controls.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "OS Hardening and Base Controls",
+        "Control ID": "I&S-04",
+        "Control Specification": "Harden host and guest OS, hypervisor or infrastructure control plane\naccording to their respective best practices, and supported by technical controls,\nas part of a security baseline.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Production and Non-Production Environments",
+        "Control ID": "I&S-05",
+        "Control Specification": "Separate production and non-production environments.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Segmentation and Segregation",
+        "Control ID": "I&S-06",
+        "Control Specification": "Design, develop, deploy and configure applications and infrastructures such \nthat CSP and CSC (tenant) user access and intra-tenant access is appropriately\nsegmented and segregated, monitored and restricted from other tenants.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Migration to Cloud Environments",
+        "Control ID": "I&S-07",
+        "Control Specification": "Use secure and encrypted communication channels when migrating servers,\nservices, applications, or data to cloud environments. Such channels must include\nonly up-to-date and approved protocols.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Network Architecture Documentation",
+        "Control ID": "I&S-08",
+        "Control Specification": "Identify and document high-risk environments.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Infrastructure Security",
+        "Control Title": "Network Defense",
+        "Control ID": "I&S-09",
+        "Control Specification": "Define, implement and evaluate processes, procedures and defense-in-depth\ntechniques for protection, detection, and timely response to network-based attacks.\n",
+        "Control Type": "Cloud & AI Related"
+    }
+]

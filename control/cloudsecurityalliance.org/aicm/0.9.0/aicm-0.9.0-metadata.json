@@ -1,0 +1,54 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm@0.9.0",
+  "name": "AI Controls Matrix",
+  "acronym": "AICM",
+  "alternate_names": [
+    "CSA AICM"
+  ],
+  "version": "0.9.0",
+  "publication_id": "AICM-0.9.0",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "Pre-release candidate of CSA's AI Controls Matrix (0.9.x branch). Final iteration before 1.0 — domains and control IDs near-finalized, working-group review pass.",
+  "relationToCloudSecurity": "Near-final draft of CSA AICM. Stable controls catalog finalized in 1.0.",
+  "relationToAISecurity": "Near-final draft. Use 1.0.3 for current work; 0.9.0 retained for diff history and pre-release citations.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/ai-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": false,
+    "supersedes": "AICM 0.0.x drafts",
+    "supersededBy": "AICM 1.0",
+    "retiredFromActiveUse": "2024",
+    "notes": "Pre-release; superseded by 1.0."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Direct download of upstream-published data; no transformation applied."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Pre-release snapshot",
+      "tool": "manual"
+    }
+  ],
+  "scope": {},
+  "notes": "Pre-release of AICM. Superseded by 1.0/1.0.3."
+}

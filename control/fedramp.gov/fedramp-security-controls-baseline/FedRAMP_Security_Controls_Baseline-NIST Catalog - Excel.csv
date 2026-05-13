@@ -1,0 +1,1191 @@
+"NIST SP 800-53, Revision 5 Security and Privacy Controls for Information Systems and Organizations"
+Related Controls
+"IA-1, PM-9, PM-24, PS-8, SI-12 ."
+"AC-3, AC-5, AC-6, AC-17, AC-18, AC-20, AC-24, AU-2, AU-12, CM-5, IA-2, IA-4, IA-5, IA-8, MA-3, MA-5, PE-2, PL-4, PS-2, PS-4, PS-5, PS-7, PT-2, PT-3, SC-7, SC-12, SC-13, SC-37."
+None.
+None.
+None.
+"AU-2, AU-6."
+AC-11.
+AC-16.
+None.
+AC-16.
+None.
+""
+None.
+"AU-6, AU-7, CA-7, IR-8, SI-4."
+"AU-6, SI-4."
+"AC-2, AC-4, AC-5, AC-6, AC-16, AC-17, AC-18, AC-19, AC-20, AC-21, AC-22, AC-24, AC-25, AT-2, AT-3, AU-9, CA-9, CM-5, CM-11, IA-2, IA-5, IA-6, IA-7, IA-11, MA-3, MA-4, MA-5, MP-4, PM-2, PS-3, PT-2, PT-3, SA-17, SC-2, SC-3, SC-4, SC-12, SC-13, SC-28, SC-31, SC-34, SI-4, SI-8."
+""
+"CP-9, MP-6."
+SC-7.
+None.
+"CM-6, SC-39."
+""
+None.
+None.
+"CA-3, PT-7, PT-8, SA-9, SC-16."
+"AU-2, AU-6, AU-10, AU-12, AU-14."
+"CM-8, CM-12, CM-13, PM-5."
+CM-7.
+None.
+"IA-8, PM-22, PM-20, PM-21, PT-6."
+"SC-2, SC-3, AC-4."
+"AC-3, AC-6, AC-16, AC-17, AC-19, AC-21, AU-10, CA-3, CA-9, CM-7, PL-9, PM-24, SA-17, SC-4, SC-7, SC-16, SC-31."
+None.
+SC-39.
+SI-4.
+SI-4.
+None.
+"AC-16, SI-7."
+None.
+None.
+None.
+None.
+None.
+None.
+None.
+None.
+SI-3.
+""
+"IA-2, IA-3, IA-9."
+""
+None.
+None.
+SC-32.
+None.
+None.
+None.
+MP-6.
+"AU-2, AU-3, AU-12."
+None.
+None.
+None.
+None.
+None.
+None.
+"AC-2, AC-3, AC-6, AU-9, CM-5, CM-11, CP-9, IA-2, IA-4, IA-5, IA-12, MA-3, MA-5, PS-2, SA-8, SA-17."
+"AC-2, AC-3, AC-5, AC-16, CM-5, CM-11, PL-2, PM-12, SA-8, SA-15, SA-17, SC-38."
+"AC-17, AC-18, AC-19, AU-9, PE-2."
+"AC-17, AC-18, AC-19, PL-4."
+"AC-17, AC-18, AC-19."
+"AC-4, SC-2, SC-3, SC-30, SC-32, SC-39."
+"IA-2, MA-3, MA-4."
+"AC-18, AC-19, IA-2, IA-8."
+CA-7.
+None.
+"AU-2, AU-3, AU-12."
+None.
+"AC-2, AC-9, AU-2, AU-6, IA-5."
+""
+"AC-19, MP-5, MP-6."
+IA-3.
+IA-3.
+"AC-14, PL-4, SI-4."
+"AC-7, PL-4."
+None.
+None.
+None.
+None.
+SC-23.
+"AC-2, AC-7, IA-11, PL-4."
+None.
+"MA-4, SC-10, SC-23."
+None.
+None.
+None.
+""
+"AC-8, IA-2, PL-2."
+""
+""
+"AC-3, AC-4, AC-6, AC-21, AC-25, AU-2, AU-10, MP-3, PE-22, PT-2, PT-3, PT-4, SC-11, SC-16, SI-12, SI-18."
+None.
+None.
+None.
+None.
+None.
+None.
+None.
+"SC-12, SC-13."
+None.
+None.
+"AC-2, AC-3, AC-4, AC-18, AC-19, AC-20, CA-3, CM-10, IA-2, IA-3, IA-8, MA-4, PE-17, PL-2, PL-4, SC-10, SC-12, SC-13, SI-4."
+"AU-2, AU-6, AU-12, AU-14."
+"SC-8, SC-12, SC-13."
+SC-7.
+"AC-6, SC-12, SC-13."
+""
+"AT-2, AT-3, PS-6."
+""
+""
+None.
+"SC-12, SC-13, SC-23."
+"AC-2, AC-3, AC-17, AC-19, CA-9, CM-7, IA-2, IA-3, IA-8, PL-4, SC-40, SC-43, SI-4."
+"SC-8, SC-12, SC-13."
+""
+None.
+"SC-7, SC-15."
+PE-19.
+"AC-3, AC-4, AC-7, AC-11, AC-17, AC-18, AC-20, CA-9, CM-2, CM-6, IA-2, IA-3, MP-2, MP-4, MP-5, MP-7, PL-4, SC-7, SC-34, SC-43, SI-3, SI-4."
+""
+""
+""
+"CM-8, IR-4."
+"SC-12, SC-13, SC-28."
+"AC-2, AC-3, AC-17, AC-19, CA-3, PL-2, PL-4, SA-9, SC-7."
+CA-2.
+"MP-7, SC-41."
+None.
+None.
+"MP-7, PL-4, PS-6, SC-41."
+"AC-3, AC-4, AC-16, PT-2, PT-7, RA-3, SC-15."
+None.
+None.
+"AC-3, AT-2, AT-3, AU-13."
+"PM-12, PT-2."
+"AC-2, AC-3."
+AU-10.
+None.
+"AC-3, AC-16, SA-8, SA-17, SC-3, SC-11, SC-39, SI-13."
+"PM-9, PS-8, SI-12."
+"AC-3, AC-17, AC-22, AT-3, AT-4, CP-3, IA-4, IR-2, IR-7, IR-9, PL-4, PM-13, PM-21, PS-7, PT-2, SA-8, SA-16."
+"CA-2, CA-7, CP-4, IR-3."
+PM-12.
+None.
+None.
+None.
+RA-3.
+"AC-3, AC-17, AC-22, AT-2, AT-4, CP-3, IR-2, IR-4, IR-7, IR-9, PL-4, PM-13, PM-23, PS-7, PS-9, SA-3, SA-8, SA-11, SA-16, SR-5, SR-6, SR-11."
+"PE-1, PE-11, PE-13, PE-14, PE-15."
+"PE-2, PE-3, PE-4."
+None.
+""
+"PT-2, PT-3, PT-5, PT-6."
+"AT-2, AT-3, CP-3, IR-2, PM-14, SI-12."
+""
+None.
+"PM-9, PS-8, SI-12."
+"AC-2, AC-3, AC-6, AC-7, AC-8, AC-16, AC-17, AU-3, AU-4, AU-5, AU-6, AU-7, AU-11, AU-12, CM-3, CM-5, CM-6, CM-13, IA-3, MA-4, MP-4, PE-3, PM-21, PT-2, PT-7, RA-8, SA-8, SC-7, SC-18, SI-3, SI-4, SI-7, SI-10, SI-11."
+""
+""
+""
+""
+"AU-2, AU-8, AU-12, AU-14, MA-4, PL-9, SA-8, SI-7, SI-11."
+None.
+""
+RA-3.
+"AU-2, AU-5, AU-6, AU-7, AU-9, AU-11, AU-12, AU-14, SI-4."
+None.
+"AU-2, AU-4, AU-7, AU-9, AU-11, AU-12, AU-14, SI-4, SI-12."
+None.
+None.
+None.
+AU-15.
+AU-9.
+"AC-2, AC-3, AC-5, AC-6, AC-7, AC-17, AU-7, AU-16, CA-2, CA-7, CM-2, CM-5, CM-6, CM-10, CM-11, IA-2, IA-3, IA-5, IA-8, IR-5, MA-4, MP-4, PE-3, PE-6, RA-5, SA-8, SC-7, SI-3, SI-4, SI-7."
+PM-7.
+""
+"AU-12, IR-4."
+"AU-2, AU-12."
+"AU-12, IR-4."
+None.
+None.
+"AU-3, AU-9, AU-11, AU-12."
+PM-12.
+""
+"AC-2, AU-2, AU-3, AU-4, AU-5, AU-6, AU-12, AU-16, CM-5, IA-5, IR-4, PM-12, SI-4."
+None.
+""
+"AU-3, AU-12, AU-14, SC-45."
+""
+""
+"AC-3, AC-6, AU-6, AU-11, AU-14, AU-15, MP-2, MP-4, PE-2, PE-3, PE-6, SA-8, SC-8, SI-4."
+"AU-4, AU-5."
+"AU-4, AU-5."
+"AU-10, SC-12, SC-13."
+AC-5.
+AC-3.
+None.
+"AU-4, AU-5, AU-11, SC-29."
+"AU-9, PM-12, SA-8, SC-8, SC-12, SC-13, SC-16, SC-17, SC-23."
+"AC-4, AC-16."
+"AC-3, AC-4, AC-16."
+"AC-4, AC-16."
+"AC-4, AC-16."
+""
+"AU-2, AU-4, AU-5, AU-6, AU-9, AU-14, MP-6, RA-5, SI-12."
+None.
+"AC-6, AC-17, AU-2, AU-3, AU-4, AU-5, AU-6, AU-7, AU-14, CM-5, MA-4, MP-4, PM-12, SA-8, SC-18, SI-3, SI-4, SI-7, SI-10."
+"AU-8, SC-45."
+None.
+AC-3.
+None.
+"AC-22, PE-3, PM-12, RA-5, SC-7, SI-20."
+None.
+None.
+None.
+"AC-3, AC-8, AU-2, AU-3, AU-4, AU-5, AU-8, AU-9, AU-11, AU-12."
+None.
+""
+AC-17.
+""
+"AU-3, AU-6, AU-7, CA-3, PT-7."
+"IA-2, IA-4, IA-5, IA-8."
+"IR-4, SI-4."
+None.
+"PM-9, PS-8, SI-12."
+"AC-20, CA-5, CA-6, CA-7, PM-9, RA-5, RA-10, SA-11, SC-38, SI-3, SI-12, SR-2, SR-3."
+None.
+"PE-3, SI-2."
+SA-4.
+"AC-4, AC-20, AU-16, CA-6, IA-3, IR-4, PL-2, PT-7, RA-3, SA-9, SC-7, SI-12."
+""
+""
+""
+""
+""
+"AC-2, AC-3, AC-4."
+SC-7.
+""
+"CA-2, CA-7, PM-4, PM-9, RA-7, SI-2, SI-12."
+None.
+"CA-2, CA-3, CA-7, PM-9, PM-10, RA-3, SA-10, SI-12."
+AC-6.
+AC-6.
+"AC-2, AC-6, AC-17, AT-4, AU-6, AU-13, CA-2, CA-5, CA-6, CM-3, CM-4, CM-6, CM-11, IA-5, IR-5, MA-2, MA-3, MA-4, PE-3, PE-6, PE-14, PE-16, PE-20, PL-2, PM-4, PM-6, PM-9, PM-10, PM-12, PM-14, PM-23, PM-28, PM-31, PS-7, PT-7, RA-3, RA-5, RA-7, RA-10, SA-8, SA-9, SA-11, SC-5, SC-7, SC-18, SC-38, SC-43, SI-3, SI-4, SI-12, SR-6."
+None.
+""
+None.
+None.
+None.
+None.
+"RA-5, RA-10, SA-11, SR-5, SR-6."
+CA-2.
+None.
+"CA-2, PE-3."
+"AC-3, AC-4, AC-18, AC-19, CM-2, IA-3, SC-7, SI-12."
+CM-6.
+"PM-9, PS-8, SA-8, SI-12."
+"AC-19, AU-6, CA-9, CM-1, CM-3, CM-5, CM-6, CM-8, CM-9, CP-9, CP-10, CP-12, MA-2, PL-8, PM-5, SA-8, SA-10, SA-15, SC-18."
+""
+"CM-7, IA-3, RA-5."
+None.
+""
+""
+"CM-4, SC-3, SC-7."
+"MP-4, MP-5."
+"CA-7, CM-2, CM-4, CM-5, CM-6, CM-9, CM-11, IA-3, MA-2, PE-16, PT-6, RA-8, SA-8, SA-10, SC-28, SC-34, SC-37, SI-2, SI-3, SI-4, SI-7, SI-10, SR-11."
+None.
+None.
+None.
+None.
+None.
+SC-12.
+"AU-6, AU-7, CM-3."
+None.
+"CA-7, CM-3, CM-8, CM-9, MA-2, RA-3, RA-5, RA-8, SA-5, SA-8, SA-10, SI-2."
+"SA-11, SC-7."
+"SA-11, SC-3, SI-6."
+"AC-3, AC-5, AC-6, CM-9, PE-3, SC-28, SC-34, SC-37, SI-2, SI-10."
+"AU-2, AU-6, AU-7, AU-12, CM-6, CM-11, SI-12."
+""
+""
+"AC-2, AC-5, CM-3."
+AC-2.
+AC-2.
+""
+"AC-3, AC-19, AU-2, AU-6, CA-9, CM-2, CM-3, CM-5, CM-7, CM-11, CP-7, CP-9, CP-10, IA-3, IA-5, PL-8, PL-9, RA-5, SA-4, SA-5, SA-8, SA-9, SC-18, SC-28, SC-43, SI-2, SI-4, SI-6."
+CA-7.
+"IR-4, IR-6, SI-7."
+""
+""
+"AC-3, AC-4, CM-2, CM-5, CM-6, CM-11, RA-5, SA-4, SA-5, SA-8, SA-9, SA-15, SC-2, SC-3, SC-7, SC-37, SI-4."
+AC-18.
+"CM-8, PL-4, PL-9, PM-5, PS-6."
+None.
+"CM-6, CM-8, CM-10, PL-9, PM-5."
+"CM-2, CM-6, CM-8, CM-10, PL-9, PM-5, SA-10, SC-34, SI-7."
+"CM-11, SC-44."
+"CM-10, SC-44."
+"SA-5, SA-22."
+None.
+"CM-2, CM-7, CM-9, CM-10, CM-11, CM-13, CP-2, CP-9, MA-2, MA-6, PE-20, PL-9, PM-5, SA-4, SA-5, SI-2, SR-4."
+PM-16.
+None.
+"AC-19, CA-7, RA-5, SC-3, SC-39, SC-44, SI-3, SI-4, SI-7."
+AC-3.
+""
+None.
+None.
+None.
+None.
+"CM-2, CM-3, CM-4, CM-5, CM-8, PL-2, RA-8, SA-10, SI-12."
+None.
+"AC-17, AU-6, CM-7, CM-8, PM-30, SC-7."
+SI-7.
+"AC-3, AU-6, CM-2, CM-3, CM-5, CM-6, CM-7, CM-8, PL-4, SI-4, SI-7."
+""
+"AC-5, AC-6."
+None.
+"AC-2, AC-3, AC-4, AC-6, AC-23, CM-8, PM-5, RA-2, SA-4, SA-8, SA-17, SC-4, SC-16, SC-28, SI-4, SI-7."
+None.
+"AC-3, CM-4, CM-12, PM-5, PM-27, PT-2, PT-3, RA-3, RA-8."
+"CM-7, SC-12, SC-13, SI-7."
+"PM-9, PS-8, SI-12."
+"CP-3, CP-4, CP-6, CP-7, CP-8, CP-9, CP-10, CP-11, CP-13, IR-4, IR-6, IR-8, IR-9, MA-6, MP-2, MP-4, MP-5, PL-2, PM-8, PM-11, SA-15, SA-20, SC-7, SC-23, SI-12."
+None.
+"PE-11, PE-12, PE-13, PE-14, PE-18, SC-5."
+None.
+""
+None.
+None.
+SA-9.
+"CM-8, RA-9."
+"AT-2, AT-3, AT-4, CP-2, CP-4, CP-8, IR-2, IR-4, IR-9."
+None.
+None.
+"AT-3, CP-2, CP-3, CP-8, CP-9, IR-3, IR-4, PL-2, PM-14, SR-2."
+"IR-8, PM-8."
+CP-7.
+None.
+"CP-10, SC-24."
+None.
+""
+"CP-2, CP-7, CP-8, CP-9, CP-10, MP-4, MP-5, PE-3, SC-36, SI-13."
+RA-3.
+None.
+RA-3.
+"CP-2, CP-6, CP-8, CP-9, CP-10, MA-6, PE-3, PE-11, PE-12, PE-17, SC-36, SI-13."
+RA-3.
+RA-3.
+None.
+"CM-2, CM-6, CP-4."
+""
+None.
+"CP-2, CP-6, CP-7, CP-11, SC-7."
+None.
+None.
+None.
+"CP-3, CP-4."
+CP-3.
+"CP-2, CP-6, CP-10, MP-4, MP-5, SC-8, SC-12, SC-13, SI-4, SI-13."
+CP-4.
+CP-4.
+"CM-2, CM-6, CM-8."
+""
+"CP-7, MP-3, MP-4, MP-5."
+CP-7.
+"AC-3, AC-5, MP-2."
+"SC-12, SC-13, SC-28."
+"CP-2, CP-4, CP-6, CP-7, CP-9, IR-4, SA-8, SC-24, SI-13."
+""
+None.
+""
+"CM-2, CM-6."
+""
+"AC-3, AC-6, MP-2, MP-4, PE-3, PE-6."
+"CP-2, CP-8, CP-13."
+"CM-2, SA-8, SC-24, SI-13, SI-17."
+"CP-2, CP-11, SI-13."
+"AC-1, PM-9, PS-8, SI-12."
+"AC-2, AC-3, AC-4, AC-14, AC-17, AC-18, AU-1, AU-6, IA-4, IA-5, IA-8, MA-4, MA-5, PE-2, PL-4, SA-4, SA-8."
+"AC-5, AC-6."
+AC-5.
+""
+""
+None.
+AC-6.
+""
+None.
+""
+None.
+""
+None.
+"IA-10, IA-11, SC-37."
+"AC-17, AC-18, AC-19, AU-6, CA-3, CA-9, IA-4, IA-5, IA-9, IA-11, SI-4."
+"SC-8, SC-12, SC-13."
+""
+AU-2.
+"CM-2, CM-3, CM-6."
+"AC-5, IA-2, IA-3, IA-5, IA-8, IA-9, IA-12, MA-4, PE-2, PE-3, PE-4, PL-4, PM-12, PS-3, PS-4, PS-5, SC-37."
+"AT-2, PT-7."
+""
+""
+None.
+AC-16.
+"AU-16, IA-2, IA-5."
+""
+IA-5.
+None.
+"AC-3, AC-6, CM-6, IA-2, IA-4, IA-7, IA-8, IA-9, MA-4, PE-2, PL-4, SC-12, SC-13."
+IA-6.
+"IA-3, SC-17."
+""
+""
+None.
+RA-2.
+None.
+PS-6.
+"AU-7, AU-16."
+"AU-16, IA-5."
+""
+AC-7.
+None.
+None.
+None.
+IA-12.
+AC-7.
+None.
+AC-3.
+"AC-3, IA-5, SA-4, SC-12, SC-13."
+"AC-2, AC-6, AC-14, AC-17, AC-18, AU-6, IA-2, IA-4, IA-5, IA-10, IA-11, MA-4, RA-3, SA-4, SC-8."
+PE-3.
+None.
+""
+None.
+None.
+None.
+"IA-3, IA-4, IA-5, SC-8."
+""
+""
+"IA-2, IA-8."
+"AC-3, AC-11, IA-2, IA-3, IA-4, IA-8."
+"AC-5, IA-1, IA-2, IA-3, IA-4, IA-5, IA-6, IA-8."
+None.
+None.
+None.
+None.
+IA-12.
+"IA-3, IA-4, IA-5, IA-8."
+"PM-9, PS-8, SI-12."
+"AT-2, AT-3, AT-4, CP-3, IR-3, IR-4, IR-8, IR-9."
+None.
+None.
+None.
+"CP-3, CP-4, IR-2, IR-4, IR-8, PM-14."
+None.
+None.
+None.
+"AC-19, AU-6, AU-7, CM-6, CP-2, CP-3, CP-4, IR-2, IR-3, IR-5, IR-6, IR-8, PE-6, PL-2, PM-12, SA-8, SC-5, SC-7, SI-3, SI-4, SI-7."
+None.
+"AC-2, AC-4, CM-2."
+None.
+None.
+None.
+None.
+None.
+"AU-16, PM-16."
+None.
+"CA-3, MA-2, SA-9, SR-8."
+AT-3.
+None.
+None.
+None.
+None.
+"AU-6, AU-7, IR-4, IR-6, IR-8, PE-6, PM-5, SC-5, SC-7, SI-3, SI-4, SI-7."
+None.
+"CM-6, CP-2, IR-4, IR-5, IR-8, IR-9."
+IR-7.
+None.
+SR-8.
+"AT-2, AT-3, IR-4, IR-6, IR-8, PM-22, PM-26, SA-9, SI-18."
+None.
+None.
+"AC-2, CP-2, CP-4, IR-4, IR-7, IR-9, PE-6, PL-2, SA-15, SI-12, SR-8."
+"PT-1, PT-2, PT-3, PT-4, PT-5, PT-7."
+"CP-2, IR-6, PM-26, PM-27, PT-2, PT-3, PT-7, RA-7."
+""
+"AT-2, AT-3, CP-3, IR-2."
+None.
+None.
+""
+"PM-9, PS-8, SI-12."
+"CM-2, CM-3, CM-4, CM-5, CM-8, MA-4, MP-6, PE-16, SI-2, SR-3, SR-4, SR-11."
+""
+MA-3.
+"MA-2, PE-16."
+SI-7.
+SI-3.
+MP-6.
+"AC-3, AC-5, AC-6."
+"AC-3, AC-6."
+"AC-3, AC-6."
+"AC-2, AC-3, AC-6, AC-17, AU-2, AU-3, IA-2, IA-4, IA-5, IA-8, MA-2, MA-5, PL-2, SC-7, SC-10."
+"AU-6, AU-12."
+""
+"MP-6, SI-3, SI-7."
+None.
+None.
+"SC-8, SC-12, SC-13."
+AC-12.
+"AC-2, AC-3, AC-5, AC-6, IA-2, IA-8, MA-4, MP-2, PE-2, PE-3, PS-7, RA-3."
+"MP-6, PL-2."
+PS-3.
+PS-3.
+PS-3.
+None.
+"CM-8, CP-2, CP-7, RA-7, SA-15, SI-13, SR-2, SR-3, SR-4."
+None.
+None.
+None.
+"MA-2, MA-4, MA-5."
+"PM-9, PS-8, SI-12."
+"AC-19, AU-9, CP-2, CP-9, CP-10, MA-5, MP-4, MP-6, PE-2, PE-3, SC-12, SC-13, SC-34, SI-12."
+""
+""
+"AC-16, CP-9, MP-5, PE-22, SI-12."
+"AC-19, CP-2, CP-6, CP-9, CP-10, MP-2, MP-7, PE-3, PL-2, SC-12, SC-13, SC-28, SC-34, SI-12."
+""
+"AC-3, AU-2, AU-6, AU-9, AU-12, PE-3."
+"AC-7, AC-19, CP-2, CP-9, MP-3, MP-4, PE-16, PL-2, SC-12, SC-13, SC-28, SC-34."
+""
+""
+None.
+""
+"AC-3, AC-7, AU-11, MA-2, MA-3, MA-4, MA-5, PM-22, SI-12, SI-18, SI-19, SR-11."
+None.
+None.
+None.
+""
+""
+""
+"AC-3, MP-2."
+None.
+"AC-19, AC-20, PL-4, PM-12, SC-34, SC-41."
+""
+MP-6.
+None.
+None.
+None.
+None.
+None.
+"AT-3, PM-9, PS-8, SI-12."
+"AT-3, AU-9, IA-4, MA-5, MP-2, PE-3, PE-4, PE-5, PE-8, PM-12, PS-3, PS-4, PS-5, PS-6."
+"AC-2, AC-3, AC-6."
+"IA-2, IA-4, IA-5."
+"PS-2, PS-6."
+"AT-3, AU-2, AU-6, AU-9, AU-13, CP-10, IA-3, IA-8, MA-5, MP-2, MP-4, PE-2, PE-4, PE-5, PE-8, PS-2, PS-3, PS-6, PS-7, RA-3, SC-28, SI-4, SR-3."
+None.
+"AC-4, SC-7."
+"CP-6, CP-7, PE-6."
+None.
+"SA-16, SR-9, SR-11."
+""
+None.
+None.
+"AT-3, IA-4, MP-2, MP-4, PE-2, PE-3, PE-5, PE-9, SC-7, SC-8."
+"PE-2, PE-3, PE-4, PE-18."
+""
+None.
+""
+"AU-2, AU-6, AU-9, AU-12, CA-7, CP-10, IR-4, IR-8."
+None.
+SI-4.
+None.
+None.
+""
+"PE-2, PE-3, PE-6."
+None.
+""
+"RA-3, SA-8."
+PE-4.
+None.
+None.
+PE-15.
+""
+"AT-3, CP-2, CP-7."
+None.
+None.
+"CP-2, CP-7."
+None.
+AT-3.
+None.
+None.
+""
+None.
+"AT-3, CP-2."
+None.
+None.
+"AT-3, PE-10."
+None.
+"CM-3, CM-8, MA-2, MA-3, MP-5, PE-20, SR-2, SR-3, SR-4, SR-6."
+"AC-17, AC-18, CP-7."
+"CP-2, PE-5, PE-19, PE-20, RA-3."
+""
+"AC-18, PE-18, PE-20."
+None.
+"CM-8, PE-16, PM-8."
+"PE-18, PE-19."
+"AC-3, AC-4, AC-16, MP-3."
+"CP-2, PE-18, PE-19, PM-8, PM-9, RA-3."
+"PM-9, PS-8, SI-12."
+"AC-2, AC-6, AC-14, AC-17, AC-20, CA-2, CA-3, CA-7, CM-9, CM-13, CP-2, CP-4, IR-4, IR-8, MA-4, MA-5, MP-4, MP-5, PL-7, PL-8, PL-10, PL-11, PM-1, PM-7, PM-8, PM-9, PM-10, PM-11, RA-3, RA-8, RA-9, SA-5, SA-17, SA-22, SI-12, SR-2, SR-4."
+""
+""
+""
+""
+"AC-2, AC-6, AC-8, AC-9, AC-17, AC-18, AC-19, AC-20, AT-2, AT-3, CM-11, IA-2, IA-4, IA-5, MP-7, PS-6, PS-8, SA-5, SI-12."
+"AC-22, AU-13."
+""
+""
+"PL-2, SA-2, SI-12."
+"CM-2, CM-6, PL-2, PL-7, PL-9, PM-5, PM-7, RA-9, SA-3, SA-5, SA-8, SA-17, SC-7."
+"SC-2, SC-3, SC-29, SC-36."
+"SC-29, SR-3."
+"PL-8, PM-9."
+"PL-2, PL-11, RA-2, RA-3, SA-8."
+"PL-10, RA-2, RA-3, RA-9, SA-8."
+"PL-2, PM-18, PM-30, RA-9, SI-12, SR-2."
+None.
+"PM-4, SA-2."
+"CA-5, CA-7, PM-3, RA-7, SI-12."
+None.
+"AC-3, CM-8, CM-12, CM-13, PL-8, PM-22, PT-3, PT-5, SI-12, SI-18."
+"CA-7, PM-9."
+"AU-6, PL-2, PL-8, PM-11, RA-2, SA-3, SA-8, SA-17."
+SA-8.
+"CP-2, CP-4, PE-18, PL-2, PM-9, PM-11, PM-18, RA-3, SI-12."
+"AC-1, AU-1, AT-1, CA-1, CA-2, CA-5, CA-6, CA-7, CM-1, CP-1, IA-1, IR-1, MA-1, MP-1, PE-1, PL-1, PL-2, PM-2, PM-8, PM-18, PM-28, PM-30, PS-1, PT-1, PT-2, PT-3, RA-1, RA-3, RA-9, SA-1, SA-4, SC-1, SC-38, SI-1, SI-12, SR-1, SR-2."
+"CA-6, CA-7, PL-2."
+"CP-2, PL-2, PM-7, PM-8, RA-2, RA-3, RA-9, SA-2."
+"AC-6, AT-2, AU-6, AU-7, AU-10, AU-12, AU-13, CA-7, IA-4, IR-4, MP-7, PE-2, PM-16, PS-3, PS-4, PS-5, PS-7, PS-8, SC-7, SC-38, SI-4, PM-14."
+"AT-2, AT-3."
+"AT-2, AT-3, CA-7, CP-4, IR-3, PM-12, SI-4."
+"SA-11, SI-5."
+"IR-4, PM-12."
+None.
+"CA-6, PM-10."
+"PM-8, PM-9, PM-19."
+"PM-18, PM-20, PM-23, PM-24, PM-27."
+"AC-3, PM-19, PT-5, PT-6, PT-7, RA-8."
+None.
+"AC-3, AU-2, PT-2."
+"PM-23, SI-18."
+"AT-2, AT-3, PM-19, PM-22, PM-24, PT-7, SI-4, SI-19."
+"AC-4, PM-19, PM-23, PT-2, PT-8."
+"PM-23, PT-3, SA-3, SA-8, SI-12."
+"IR-7, IR-9, PM-22, SI-18."
+"IR-9, PM-19."
+"CA-7, PM-9, RA-3, RA-7."
+"PM-2, PM-19."
+"CM-10, PM-9, SR-1, SR-2, SR-3, SR-4, SR-5, SR-6, SR-7, SR-8, SR-9, SR-11."
+"RA-3, SR-6."
+"AC-2, AC-6, AC-17, AT-4, AU-6, AU-13, CA-2, CA-5, CA-6, CA-7, CM-3, CM-4, CM-6, CM-11, IA-5, IR-5, MA-2, MA-3, MA-4, PE-3, PE-6, PE-14, PE-16, PE-20, PL-2, PM-4, PM-6, PM-9, PM-10, PM-12, PM-14, PM-23, PM-28, PS-7, PT-7, RA-3, RA-5, RA-7, SA-9, SA-11, SC-5, SC-7, SC-18, SC-38, SC-43, SI-3, SI-4, SI-12, SR-2, SR-4."
+"CA-7, PL-2, RA-3, RA-9."
+"PM-9, PS-8, SI-12."
+"AC-5, AT-3, PE-2, PE-3, PL-2, PS-3, PS-6, SA-5, SA-21, SI-12."
+"AC-2, IA-4, MA-5, PE-2, PM-12, PS-2, PS-6, PS-7, SA-21."
+"AC-3, AC-4."
+"AC-3, AC-4."
+None.
+None.
+"AC-2, IA-4, PE-2, PM-12, PS-6, PS-7."
+None.
+None.
+"AC-2, IA-4, PE-2, PM-12, PS-4, PS-7."
+"AC-17, PE-2, PL-4, PS-2, PS-3, PS-6, PS-7, PS-8, SA-21, SI-12."
+""
+None.
+PS-4.
+"AT-2, AT-3, MA-5, PE-3, PS-2, PS-3, PS-4, PS-5, PS-6, SA-5, SA-9, SA-21."
+"PL-4, PM-12, PS-6, PT-1."
+None.
+None.
+"AC-2, AC-3, CM-13, IR-9, PM-9, PM-24, PT-1, PT-3, PT-5, PT-6, RA-3, RA-8, SI-12, SI-18."
+"AC-16, CA-6, CM-12, PM-5, PM-22, PT-4, SC-16, SC-43, SI-10, SI-15, SI-19."
+"CA-6, CM-12, PM-5, PM-22, PT-4, SC-16, SC-43, SI-10, SI-15, SI-19."
+"AC-2, AC-3, AT-3, CM-13, IR-9, PM-9, PM-25, PT-2, PT-5, PT-6, PT-7, RA-8, SC-43, SI-12, SI-18."
+"CA-6, CM-12, PM-5, PM-22, SC-16, SC-43, SI-10, SI-15, SI-19."
+"CA-6, CM-12, PM-5, PM-22, SC-16, SC-43, SI-10, SI-15, SI-19."
+"AC-16, PT-2, PT-5."
+PT-2.
+PT-2.
+PT-2.
+"PM-20, PM-22, PT-2, PT-3, PT-4, PT-7, RA-3, SC-42, SI-18."
+PM-21.
+PT-6.
+"AC-3, PM-20, PT-2, PT-3, PT-5."
+None.
+None.
+"IR-9, PT-2, PT-3, RA-3."
+IA-4.
+None.
+PM-24.
+"PM-9, PS-8, SI-12."
+"CM-8, MP-4, PL-2, PL-10, PL-11, PM-7, RA-3, RA-5, RA-7, RA-8, SA-8, SC-7, SC-38, SI-12."
+None.
+"CA-3, CA-6, CM-4, CM-13, CP-6, CP-7, IA-8, MA-5, PE-3, PE-8, PE-18, PL-2, PL-10, PL-11, PM-8, PM-9, PM-28, PT-2, PT-7, RA-2, RA-5, RA-7, SA-8, SA-9, SC-38, SI-12."
+"RA-2, RA-9, PM-17, PM-30, SR-2."
+None.
+AT-2.
+None.
+""
+"CA-2, CA-7, CA-8, CM-2, CM-4, CM-6, CM-8, RA-2, RA-3, SA-11, SA-15, SC-38, SI-2, SI-3, SI-4, SI-7, SR-11."
+""
+SI-5.
+None.
+"AU-13, SC-26."
+None.
+None.
+""
+"AU-6, AU-11."
+""
+None.
+None.
+None.
+"CA-5, IR-9, PM-4, PM-28, RA-2, RA-3, SR-2."
+"CM-4, CM-9, CM-13, PT-2, PT-3, PT-5, RA-1, RA-2, RA-3, RA-7."
+"CP-2, PL-2, PL-8, PL-11, PM-1, PM-11, RA-2, SA-8, SA-15, SA-20, SR-5."
+"CA-2, CA-7, CA-8, RA-3, RA-5, RA-6, SI-4."
+"PM-9, PS-8, SA-8, SI-12."
+"PL-7, PM-3, PM-11, SA-9, SR-3, SR-5."
+"AT-3, PL-8, PM-7, SA-4, SA-5, SA-8, SA-11, SA-15, SA-17, SA-22, SR-3, SR-4, SR-5, SR-9."
+"CM-2, CM-4, RA-3, RA-9, SA-4."
+"PM-25, RA-3."
+MA-6.
+"CM-6, CM-8, PS-7, SA-3, SA-5, SA-8, SA-11, SA-15, SA-16, SA-17, SA-21, SR-3, SR-5."
+None.
+None.
+None.
+""
+None.
+"SC-8, SC-12, SC-13."
+"IA-7, SC-12, SC-13."
+CA-7.
+"CM-7, SA-9."
+"IA-2, IA-8, PM-9."
+PT-6.
+None.
+"CM-4, CM-6, CM-7, CM-8, PL-2, PL-4, PL-8, PS-2, SA-3, SA-4, SA-8, SA-9, SA-10, SA-11, SA-15, SA-16, SA-17, SI-12, SR-3."
+""
+""
+""
+""
+""
+""
+""
+"PL-8, PM-7, RA-2, RA-3, RA-9, SA-3, SA-4, SA-15, SA-17, SA-20, SC-2, SC-3, SC-32, SC-39, SR-2, SR-3, SR-4, SR-5."
+None.
+None.
+"SC-2, SC-3."
+None.
+AC-25.
+SC-31.
+None.
+CM-3.
+None.
+None.
+None.
+None.
+None.
+"AC-6, CM-7."
+AC-5.
+None.
+None.
+"SC-8, SC-12, SC-13."
+AC-25.
+None.
+CA-7.
+"AC-6, AU-2, AU-3, AU-6, AU-9, AU-10, AU-12, IA-2, IR-4."
+"CM-2, CM-6, SA-4."
+"CP-10, CP-12, SC-7, SC-8, SC-24, SI-13."
+RA-3.
+"SC-12, SC-13, SI-2, SI-7."
+None.
+None.
+"CM-1, SA-1, SA-10, SA-11, SA-15, SA-17, SC-1, SI-1."
+None.
+"CM-3, CM-4."
+"AT-2, AT-3, SA-5."
+"PE-8, PM-25, SC-42, SI-12."
+"AC-20, CA-3, CP-2, IR-4, IR-7, PL-10, PL-11, PS-7, SA-2, SA-4, SR-3, SR-5."
+"CA-6, RA-3, RA-8."
+"CM-6, CM-7."
+SR-2.
+None.
+"SA-5, SR-4."
+"SC-12, SC-13, SI-4."
+SI-7.
+"SA-5, SR-4."
+"CM-2, CM-3, CM-4, CM-7, CM-9, SA-4, SA-5, SA-8, SA-15, SI-2, SR-3, SR-4, SR-5, SR-6."
+"SI-7, SR-11."
+None.
+SI-7.
+None.
+None.
+None.
+None.
+"CA-2, CA-7, CM-4, SA-3, SA-4, SA-5, SA-8, SA-15, SA-17, SI-2, SR-5, SR-6, SR-7."
+None.
+"PM-15, RA-3, RA-5."
+"AT-3, RA-5."
+None.
+"CA-8, PM-14, PM-25, PT-2, SA-3, SI-2, SI-6."
+SA-15.
+SA-15.
+None.
+None.
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"MA-6, SA-3, SA-4, SA-8, SA-10, SA-11, SR-3, SR-4, SR-5, SR-6, SR-9."
+None.
+SA-11.
+RA-9.
+""
+"AC-6, CM-7, RA-3, SA-11."
+None.
+"RA-5, SA-11."
+None.
+""
+IR-8.
+CM-2.
+"PM-25, SA-3, SA-8."
+"AT-2, AT-3, PE-3, SA-4, SA-5."
+"PL-2, PL-8, PM-7, SA-3, SA-4, SA-8, SC-7."
+"AC-3, AC-4, AC-25."
+"AC-25, SA-5."
+"AC-3, AC-4, AC-25, SA-4, SA-5."
+"AC-3, AC-4, AC-25, SA-4, SA-5."
+"AC-25, SA-8, SC-3."
+"SA-5, SA-11."
+"AC-5, AC-6, SA-8."
+None.
+None.
+""
+""
+""
+""
+""
+""
+""
+""
+"CP-2, RA-9, SA-8."
+"PS-2, PS-3, PS-6, PS-7, SA-4, SR-6."
+""
+"PL-2, SA-3."
+""
+"RA-9, SA-8."
+"PM-9, PS-8, SA-8, SI-12."
+"AC-6, SA-4, SA-8, SC-3, SC-7, SC-22, SC-32, SC-39."
+AC-3.
+None.
+"AC-3, AC-6, AC-25, CM-2, CM-4, SA-4, SA-5, SA-8, SA-15, SA-17, SC-2, SC-7, SC-32, SC-39, SI-16."
+None.
+None.
+None.
+None.
+None.
+"AC-3, AC-4, SA-8."
+""
+None.
+"CP-2, IR-4, SC-6, SC-7, SC-40."
+None.
+None.
+"CA-7, SI-4."
+SC-5.
+"AC-4, AC-17, AC-18, AC-19, AC-20, AU-13, CA-3, CM-2, CM-4, CM-7, CM-10, CP-8, CP-10, IR-4, MA-4, PE-3, PL-8, PM-12, SA-8, SA-17, SC-5, SC-26, SC-32, SC-35, SC-43."
+""
+""
+None.
+"AC-3, SC-8, SC-20, SC-21, SC-22."
+None.
+""
+None.
+AC-3.
+"AU-2, AU-6, SC-5, SC-38, SC-44, SI-3, SI-4."
+"AC-2, CA-8, SI-3."
+AC-3.
+None.
+"SC-2, SC-3."
+"PE-4, PE-19."
+"AC-2, AC-3, AU-2, SI-4."
+None.
+SC-4.
+"CP-2, CP-12, SC-24."
+None.
+None.
+CA-9.
+None.
+None.
+"PT-2, SI-15."
+None.
+None.
+None.
+None.
+None.
+"AC-17, AC-18, AU-10, IA-3, IA-8, IA-9, MA-4, PE-4, SA-4, SA-8, SC-7, SC-16, SC-20, SC-23, SC-28."
+"SC-12, SC-13."
+None.
+"SC-12, SC-13."
+"SC-12, SC-13."
+None.
+""
+"AC-17, SC-23."
+"AC-16, AC-25, SC-12, SC-23."
+None.
+"AC-17, AU-9, AU-10, CM-3, IA-3, IA-7, SA-4, SA-8, SA-9, SC-8, SC-11, SC-12, SC-13, SC-17, SC-20, SC-37, SC-40, SI-3, SI-7."
+None.
+None.
+None.
+""
+""
+None.
+"AC-2, AC-3, AC-7, AC-17, AC-18, AC-19, AU-9, AU-10, CM-11, CP-9, IA-3, IA-5, IA-7, MA-4, MP-2, MP-4, MP-5, SA-4, SA-8, SA-9, SC-8, SC-12, SC-20, SC-23, SC-28, SC-40, SI-3, SI-7."
+""
+""
+""
+""
+""
+"AC-21, SC-42."
+None.
+""
+None.
+None.
+"AC-3, AC-4, AC-16."
+"AU-10, SC-8."
+"SI-3, SI-4, SI-7."
+"AC-16, SC-12, SC-13."
+"AU-10, IA-5, SC-12."
+"AU-2, AU-12, CM-2, CM-6, SI-3."
+None.
+None.
+None.
+None.
+"SC-44, SI-7."
+""
+"AU-10, SC-8, SC-12, SC-13, SC-21, SC-22."
+""
+None.
+"SC-20, SC-22."
+""
+"SC-2, SC-20, SC-21, SC-24."
+"AU-10, SC-8, SC-10, SC-11."
+None.
+""
+"AC-10, SC-12, SC-13."
+""
+"SC-12, SC-13."
+"CP-2, CP-4, CP-10, CP-12, SA-8, SC-7, SC-22, SI-13."
+"SC-30, SC-44."
+"RA-5, SC-7, SC-30, SC-35, SC-44, SI-3, SI-4."
+""
+SC-29.
+"AC-3, AC-4, AC-6, AC-19, CA-7, CM-3, CM-5, CM-6, CP-9, MP-4, MP-5, PE-3, SC-8, SC-12, SC-13, SC-34, SI-3, SI-7, SI-16."
+"AC-19, SC-12, SC-13."
+None.
+"SC-12, SC-13."
+"AU-9, PL-8, SC-27, SC-30, SR-3."
+None.
+"AC-6, SC-25, SC-26, SC-29, SC-44, SI-14."
+""
+None.
+None.
+None.
+None.
+"AC-3, AC-4, SA-8, SI-11."
+None.
+None.
+None.
+"AC-4, AC-6, SA-8, SC-2, SC-3, SC-7, SC-36."
+None.
+""
+"AC-3, SI-7, SI-14."
+"AC-19, MP-7."
+"CM-3, CM-5, CM-9, MP-2, MP-4, MP-5, SC-28, SI-3."
+""
+"SC-7, SC-26, SC-44, SI-3, SI-4."
+"CP-6, CP-7, PL-8, SC-32."
+SI-4.
+CP-9.
+"AC-2, CM-3, CM-5, CM-7, IA-2, IA-4, IA-5, MA-4, SC-12, SI-3, SI-4, SI-7."
+None.
+"CA-2, CA-7, PL-1, PM-9, PM-12, RA-2, RA-3, RA-5, SC-7, SR-3, SR-7."
+"AC-3, AC-4, AC-6, AC-25, SA-8, SC-2, SC-3, SI-16."
+None.
+None.
+"AC-18, SC-5."
+"PE-21, SC-12, SC-13."
+"SC-12, SC-13."
+"SC-12, SC-13, SI-4."
+"SC-12, SC-13."
+"AC-20, MP-7."
+SC-15.
+None.
+PT-2.
+""
+"PT-1, PT-4, PT-5."
+"SA-8, SI-12."
+"AC-18, AC-19, CM-6, SC-7, SC-18."
+"SC-7, SC-18, SC-25, SC-26, SC-30, SC-35, SC-39, SI-3, SI-7."
+"AC-3, AU-8, IA-2, IA-8."
+None.
+None.
+"AC-4, SC-7."
+"CP-2, CP-8."
+"AU-2, SC-7, SI-4."
+None.
+"AC-4, SA-8, SC-50."
+"AC-3, AC-4, SA-8, SC-2, SC-3, SC-49."
+None.
+"PM-9, PS-8, SA-8, SI-12."
+"CA-5, CM-3, CM-4, CM-5, CM-6, CM-8, MA-2, RA-5, SA-8, SA-10, SA-11, SI-3, SI-5, SI-7, SI-11."
+""
+"CA-7, SI-4."
+None.
+None.
+None.
+None.
+"AC-4, AC-19, CM-3, CM-8, IR-4, MA-3, MA-4, PL-9, RA-5, SC-7, SC-23, SC-26, SC-28, SC-44, SI-2, SI-4, SI-7, SI-8, SI-15."
+""
+""
+""
+CM-5.
+""
+"CA-2, CA-7, RA-5."
+""
+"AU-2, AU-6, AU-12."
+""
+None.
+"AC-2, AC-3, AC-4, AC-8, AC-17, AU-2, AU-6, AU-7, AU-9, AU-12, AU-13, AU-14, CA-7, CM-3, CM-6, CM-8, CM-11, IA-10, IR-4, MA-3, MA-4, PL-9, PM-12, RA-5, RA-10, SC-5, SC-7, SC-18, SC-26, SC-31, SC-35, SC-36, SC-37, SC-43, SI-3, SI-6, SI-7, SR-9, SR-10."
+None.
+"PM-23, PM-25."
+"PM-23, PM-25."
+None.
+"AU-4, AU-5, PE-6."
+""
+None.
+""
+None.
+None.
+None.
+None.
+None.
+"AC-18, IA-3."
+AC-18.
+AU-6.
+"AU-16, PE-6, SR-2, SR-4, SR-6."
+None.
+None.
+AC-18.
+AC-18.
+CM-7.
+"AC-18, AC-19."
+AC-18.
+None.
+"PM-15, RA-5, SI-2."
+None.
+"CA-7, CM-4, CM-6, SI-7."
+""
+SI-2.
+"SI-4, SR-4, SR-5."
+"AC-4, CM-3, CM-7, CM-8, MA-3, MA-4, RA-5, SA-8, SA-9, SA-10, SC-8, SC-12, SC-13, SC-28, SC-37, SI-3, SR-3, SR-4, SR-5, SR-6, SR-9, SR-10, SR-11."
+None.
+None.
+"AU-3, SI-2, SI-8."
+""
+None.
+"SC-12, SC-13."
+"AU-2, AU-6, IR-4, IR-5, SI-4."
+"AU-2, AU-6, AU-12."
+SI-6.
+SI-6.
+""
+CM-11.
+""
+""
+"CM-5, SC-12, SC-13."
+None.
+SI-16.
+"PL-9, SC-5, SC-7, SC-38, SI-3, SI-4."
+""
+None.
+None.
+""
+None.
+"AC-3, AU-2, AU-12."
+None.
+None.
+None.
+"AC-3, AC-6."
+"AC-3, AC-6."
+"AU-2, AU-3, SC-31, SI-2, SI-15."
+"AC-16, AU-5, AU-11, CA-2, CA-3, CA-5, CA-6, CA-7, CA-9, CM-5, CM-9, CP-2, IR-8, MP-2, MP-3, MP-4, MP-6, PL-2, PL-4, PM-4, PM-8, PM-9, PS-2, PS-6, PT-2, PT-3, RA-2, RA-3, SA-5, SA-8, SR-2."
+PM-25.
+"PM-22, PM-25, SI-19."
+None.
+"CP-2, CP-10, CP-13, MA-2, MA-6, SA-8, SC-6."
+None.
+""
+None.
+None.
+"CP-6, CP-7, CP-9."
+"SC-30, SC-34, SI-21."
+None.
+None.
+SC-10.
+"SI-3, SI-4, SI-11."
+"AC-25, SC-3, SI-7."
+"CP-12, CP-13, SC-24, SI-13."
+"PM-22, PM-24, PT-2, SI-4."
+"PM-18, RA-8."
+"AC-3, AC-16, SC-16."
+None.
+None.
+None.
+"MP-6, PM-22, PM-23, PM-24, RA-2, SI-12."
+None.
+None.
+None.
+"SC-12, SC-13."
+None.
+"SC-12, SC-13."
+None.
+None.
+AU-13.
+SI-14.
+None.
+None.
+"PM-9, PM-30, PS-8, SI-12."
+"CA-2, CP-4, IR-4, MA-2, MA-6, PE-16, PL-2, PM-9, PM-30, RA-3, RA-7, SA-8, SI-4."
+None.
+"CA-2, MA-2, MA-6, PE-3, PE-16, PL-8, PM-30, SA-2, SA-3, SA-4, SA-5, SA-8, SA-9, SA-10, SA-15, SC-7, SC-29, SC-30, SC-38, SI-7, SR-6, SR-9, SR-11."
+None.
+None.
+"SR-5, SR-8."
+"CM-8, MA-2, MA-6, RA-9, SA-3, SA-8, SI-4."
+"IA-2, IA-8, PE-16."
+"IA-2, IA-8, PE-16, PL-2."
+"AT-3, SR-9, SR-10, SR-11."
+RA-3.
+"AT-3, SA-2, SA-3, SA-4, SA-5, SA-8, SA-9, SA-10, SA-15, SR-6, SR-9, SR-10, SR-11."
+RA-9.
+"CA-8, RA-5, SA-11, SI-7."
+"SR-3, SR-5."
+"CA-8, SI-4."
+SC-38.
+"IR-4, IR-6, IR-8."
+"PE-3, PM-30, SA-15, SI-4, SI-7, SR-3, SR-4, SR-5, SR-10, SR-11."
+SA-3.
+"AT-3, PM-30, SI-4, SI-7, SR-3, SR-4, SR-5, SR-9, SR-11."
+"PE-3, SA-4, SI-7, SR-9, SR-10."
+AT-3.
+"CM-3, MA-2, MA-4, SA-10."
+RA-5.
+MP-6.

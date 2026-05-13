@@ -1,0 +1,2565 @@
+{
+  "table_of_contents": [
+    {
+      "title": "LP:WHITE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          485.89453125,
+          22.888916015625
+        ],
+        [
+          549.75,
+          22.888916015625
+        ],
+        [
+          549.75,
+          36.665771484375
+        ],
+        [
+          485.89453125,
+          36.665771484375
+        ]
+      ]
+    },
+    {
+      "title": "Common Vulnerability Scoring System version 3.1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.75,
+          253.107421875
+        ],
+        [
+          488.28515625,
+          253.107421875
+        ],
+        [
+          488.28515625,
+          272.443359375
+        ],
+        [
+          123.75,
+          272.443359375
+        ]
+      ]
+    },
+    {
+      "title": "Specification Document",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          217.5,
+          286.365234375
+        ],
+        [
+          395.05078125,
+          286.365234375
+        ],
+        [
+          395.05078125,
+          306.087890625
+        ],
+        [
+          217.5,
+          306.087890625
+        ]
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          267.75,
+          320.396484375
+        ],
+        [
+          345.744140625,
+          320.396484375
+        ],
+        [
+          345.744140625,
+          339.345703125
+        ],
+        [
+          267.75,
+          339.345703125
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.25,
+          686.0390625
+        ],
+        [
+          135.0703125,
+          686.0390625
+        ],
+        [
+          135.0703125,
+          706.1484375
+        ],
+        [
+          62.25,
+          706.1484375
+        ]
+      ]
+    },
+    {
+      "title": "TLP:WHITE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          486.4921875,
+          22.5263671875
+        ],
+        [
+          550.5,
+          22.5263671875
+        ],
+        [
+          550.5,
+          36.8349609375
+        ],
+        [
+          486.4921875,
+          36.8349609375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.0,
+          611.40234375
+        ],
+        [
+          176.607421875,
+          611.40234375
+        ],
+        [
+          176.607421875,
+          629.96484375
+        ],
+        [
+          63.0,
+          629.96484375
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Metrics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.0,
+          333.544921875
+        ],
+        [
+          135.59326171875,
+          333.544921875
+        ],
+        [
+          135.59326171875,
+          348.240234375
+        ],
+        [
+          63.0,
+          348.240234375
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1: CVSS Metric Groups",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          225.31640625,
+          636.5390625
+        ],
+        [
+          385.5,
+          636.5390625
+        ],
+        [
+          385.5,
+          649.6875
+        ],
+        [
+          225.31640625,
+          649.6875
+        ]
+      ]
+    },
+    {
+      "title": "1.2. Scoring",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.25,
+          365.25
+        ],
+        [
+          137.08740234375,
+          365.25
+        ],
+        [
+          137.08740234375,
+          380.53125
+        ],
+        [
+          62.25,
+          380.53125
+        ]
+      ]
+    },
+    {
+      "title": "Figure 2: CVSS Metrics and Equations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          204.8466796875,
+          619.5234375
+        ],
+        [
+          408.19921875,
+          619.5234375
+        ],
+        [
+          408.19921875,
+          633.4453125
+        ],
+        [
+          204.8466796875,
+          633.4453125
+        ]
+      ]
+    },
+    {
+      "title": "2. Base Metrics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.25,
+          346.5
+        ],
+        [
+          177.3544921875,
+          346.5
+        ],
+        [
+          177.3544921875,
+          363.90234375
+        ],
+        [
+          62.25,
+          363.90234375
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Exploitability Metrics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.25,
+          383.23828125
+        ],
+        [
+          219.638671875,
+          383.23828125
+        ],
+        [
+          219.638671875,
+          397.93359375
+        ],
+        [
+          62.25,
+          397.93359375
+        ]
+      ]
+    },
+    {
+      "title": "2.1.1. Attack Vector (AV)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          62.25,
+          619.91015625
+        ],
+        [
+          187.962890625,
+          619.91015625
+        ],
+        [
+          187.962890625,
+          633.83203125
+        ],
+        [
+          62.25,
+          633.83203125
+        ]
+      ]
+    },
+    {
+      "title": "Table 1: Attack Vector",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          245.935546875,
+          64.8720703125
+        ],
+        [
+          365.765625,
+          64.8720703125
+        ],
+        [
+          365.765625,
+          78.1171875
+        ],
+        [
+          245.935546875,
+          78.1171875
+        ]
+      ]
+    },
+    {
+      "title": "2.1.2. Attack Complexity (AC)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          62.25,
+          597.48046875
+        ],
+        [
+          212.765625,
+          597.48046875
+        ],
+        [
+          212.765625,
+          611.40234375
+        ],
+        [
+          62.25,
+          611.40234375
+        ]
+      ]
+    },
+    {
+      "title": "Table 2: Attack Complexity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          235.177734375,
+          125.3935546875
+        ],
+        [
+          378.615234375,
+          125.3935546875
+        ],
+        [
+          378.615234375,
+          138.9287109375
+        ],
+        [
+          235.177734375,
+          138.9287109375
+        ]
+      ]
+    },
+    {
+      "title": "2.1.3. Privileges Required (PR)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.25,
+          518.203125
+        ],
+        [
+          223.224609375,
+          518.203125
+        ],
+        [
+          223.224609375,
+          531.3515625
+        ],
+        [
+          62.25,
+          531.3515625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          485.296875,
+          22.86474609375
+        ],
+        [
+          549.84375,
+          22.86474609375
+        ],
+        [
+          549.84375,
+          36.8349609375
+        ],
+        [
+          485.296875,
+          36.8349609375
+        ]
+      ]
+    },
+    {
+      "title": "Table 3: Privileges Required",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          228.90234375,
+          64.43701171875
+        ],
+        [
+          382.201171875,
+          64.43701171875
+        ],
+        [
+          382.201171875,
+          77.97216796875
+        ],
+        [
+          228.90234375,
+          77.97216796875
+        ]
+      ]
+    },
+    {
+      "title": "2.1.4. User Interaction (UI)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          63.0,
+          342.6328125
+        ],
+        [
+          202.0078125,
+          342.6328125
+        ],
+        [
+          202.0078125,
+          355.78125
+        ],
+        [
+          63.0,
+          355.78125
+        ]
+      ]
+    },
+    {
+      "title": "Table 4: User Interaction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          240.4072265625,
+          438.5390625
+        ],
+        [
+          373.833984375,
+          438.5390625
+        ],
+        [
+          373.833984375,
+          451.6875
+        ],
+        [
+          240.4072265625,
+          451.6875
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Scope (S)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.25,
+          587.42578125
+        ],
+        [
+          146.50048828125,
+          587.42578125
+        ],
+        [
+          146.50048828125,
+          601.34765625
+        ],
+        [
+          62.25,
+          601.34765625
+        ]
+      ]
+    },
+    {
+      "title": "Table 5: Scope",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          262.37109375,
+          222.943359375
+        ],
+        [
+          346.04296875,
+          222.943359375
+        ],
+        [
+          346.04296875,
+          235.705078125
+        ],
+        [
+          262.37109375,
+          235.705078125
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Impact Metrics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          62.25,
+          407.98828125
+        ],
+        [
+          183.0322265625,
+          407.98828125
+        ],
+        [
+          183.0322265625,
+          422.68359375
+        ],
+        [
+          62.25,
+          422.68359375
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1. Confidentiality (C)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.25,
+          65.50048828125
+        ],
+        [
+          189.45703125,
+          65.50048828125
+        ],
+        [
+          189.45703125,
+          78.74560546875
+        ],
+        [
+          62.25,
+          78.74560546875
+        ]
+      ]
+    },
+    {
+      "title": "Table 6: Confidentiality",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          244.5,
+          161.9384765625
+        ],
+        [
+          369.3515625,
+          161.9384765625
+        ],
+        [
+          369.3515625,
+          175.0869140625
+        ],
+        [
+          244.5,
+          175.0869140625
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2. Integrity (I)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.25,
+          376.857421875
+        ],
+        [
+          157.482421875,
+          376.857421875
+        ],
+        [
+          157.482421875,
+          389.619140625
+        ],
+        [
+          62.25,
+          389.619140625
+        ]
+      ]
+    },
+    {
+      "title": "Table 7: Integrity",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          260.4287109375,
+          460.96875
+        ],
+        [
+          352.01953125,
+          460.96875
+        ],
+        [
+          352.01953125,
+          473.34375
+        ],
+        [
+          260.4287109375,
+          473.34375
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3. Availability (A)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          62.25,
+          674.82421875
+        ],
+        [
+          173.4697265625,
+          674.82421875
+        ],
+        [
+          173.4697265625,
+          688.74609375
+        ],
+        [
+          62.25,
+          688.74609375
+        ]
+      ]
+    },
+    {
+      "title": "Table 8: Availability",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          253.40625,
+          164.0654296875
+        ],
+        [
+          357.99609375,
+          164.0654296875
+        ],
+        [
+          357.99609375,
+          177.6005859375
+        ],
+        [
+          253.40625,
+          177.6005859375
+        ]
+      ]
+    },
+    {
+      "title": "3. Temporal Metrics",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          62.25,
+          490.74609375
+        ],
+        [
+          213.5126953125,
+          490.74609375
+        ],
+        [
+          213.5126953125,
+          508.53515625
+        ],
+        [
+          62.25,
+          508.53515625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Exploit Code Maturity (E)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          63.0,
+          563.44921875
+        ],
+        [
+          242.05078125,
+          563.44921875
+        ],
+        [
+          242.05078125,
+          578.91796875
+        ],
+        [
+          63.0,
+          578.91796875
+        ]
+      ]
+    },
+    {
+      "title": "Table 9 : Exploit Code Maturity",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          222.626953125,
+          100.353515625
+        ],
+        [
+          389.07421875,
+          100.353515625
+        ],
+        [
+          389.07421875,
+          113.6953125
+        ],
+        [
+          222.626953125,
+          113.6953125
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Remediation Level (RL)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          61.5,
+          438.92578125
+        ],
+        [
+          232.787109375,
+          438.92578125
+        ],
+        [
+          232.787109375,
+          453.62109375
+        ],
+        [
+          61.5,
+          453.62109375
+        ]
+      ]
+    },
+    {
+      "title": "Table 10: Remediation Level",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          229.6494140625,
+          549.9140625
+        ],
+        [
+          381.90234375,
+          549.9140625
+        ],
+        [
+          381.90234375,
+          563.0625
+        ],
+        [
+          229.6494140625,
+          563.0625
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Report Confidence (RC)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.25,
+          155.07421875
+        ],
+        [
+          231.29296875,
+          155.07421875
+        ],
+        [
+          231.29296875,
+          171.123046875
+        ],
+        [
+          62.25,
+          171.123046875
+        ]
+      ]
+    },
+    {
+      "title": "Table 11: Report Confidence",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          227.408203125,
+          316.72265625
+        ],
+        [
+          383.09765625,
+          316.72265625
+        ],
+        [
+          383.09765625,
+          329.87109375
+        ],
+        [
+          227.408203125,
+          329.87109375
+        ]
+      ]
+    },
+    {
+      "title": "4. Environmental Metrics",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.25,
+          65.548828125
+        ],
+        [
+          253.107421875,
+          65.548828125
+        ],
+        [
+          253.107421875,
+          84.111328125
+        ],
+        [
+          62.25,
+          84.111328125
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Security Requirements (CR, IR, AR)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          63.0,
+          177.310546875
+        ],
+        [
+          299.724609375,
+          177.310546875
+        ],
+        [
+          299.724609375,
+          192.5859375
+        ],
+        [
+          63.0,
+          192.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Table 12: Security Requirements",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          219.638671875,
+          495.0
+        ],
+        [
+          391.763671875,
+          495.0
+        ],
+        [
+          391.763671875,
+          508.1484375
+        ],
+        [
+          219.638671875,
+          508.1484375
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Modified Base Metrics",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          63.0,
+          102.8671875
+        ],
+        [
+          222.92578125,
+          102.8671875
+        ],
+        [
+          222.92578125,
+          117.755859375
+        ],
+        [
+          63.0,
+          117.755859375
+        ]
+      ]
+    },
+    {
+      "title": "Modified Base Metric\nCorresponding Values\nModified Attack Vector (MAV)\nModified Attack Complexity (MAC)\nModified Privileges Required (MPR)\nThe same values as the corresponding Base Metric\nModified User Interaction (MUI)\n(see Base Metrics above), as well as Not Defined\nModified Scope (MS)\n(the default).\nModified Confidentiality (MC)\nModified Integrity (MI)\nModified Availability (MA)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          55.880859375,
+          453.234375
+        ],
+        [
+          543.0,
+          453.234375
+        ],
+        [
+          543.0,
+          665.9296875
+        ],
+        [
+          55.880859375,
+          665.9296875
+        ]
+      ]
+    },
+    {
+      "title": "Table 13: Modified Base Metrics",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          221.25,
+          444.7265625
+        ],
+        [
+          391.46484375,
+          444.7265625
+        ],
+        [
+          391.46484375,
+          458.6484375
+        ],
+        [
+          221.25,
+          458.6484375
+        ]
+      ]
+    },
+    {
+      "title": "5. Qualitative Severity Rating Scale",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          62.82861328125,
+          65.548828125
+        ],
+        [
+          319.74609375,
+          65.548828125
+        ],
+        [
+          319.74609375,
+          85.46484375
+        ],
+        [
+          62.82861328125,
+          85.46484375
+        ]
+      ]
+    },
+    {
+      "title": "Table 14: Qualitative severity rating scale",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          195.8818359375,
+          129.55078125
+        ],
+        [
+          414.17578125,
+          129.55078125
+        ],
+        [
+          414.17578125,
+          143.47265625
+        ],
+        [
+          195.8818359375,
+          143.47265625
+        ]
+      ]
+    },
+    {
+      "title": "6. Vector String",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          62.25,
+          374.150390625
+        ],
+        [
+          180.0439453125,
+          374.150390625
+        ],
+        [
+          180.0439453125,
+          392.326171875
+        ],
+        [
+          62.25,
+          392.326171875
+        ]
+      ]
+    },
+    {
+      "title": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:L/A:N",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          87.0,
+          669.41015625
+        ],
+        [
+          323.33203125,
+          669.41015625
+        ],
+        [
+          323.33203125,
+          682.55859375
+        ],
+        [
+          87.0,
+          682.55859375
+        ]
+      ]
+    },
+    {
+      "title": "7. CVSS v3.1 Equations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          62.25,
+          102.5771484375
+        ],
+        [
+          230.6953125,
+          102.5771484375
+        ],
+        [
+          230.6953125,
+          122.4931640625
+        ],
+        [
+          62.25,
+          122.4931640625
+        ]
+      ]
+    },
+    {
+      "title": "7.1. Base Metrics Equations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          63.0,
+          299.126953125
+        ],
+        [
+          229.798828125,
+          299.126953125
+        ],
+        [
+          229.798828125,
+          314.595703125
+        ],
+        [
+          63.0,
+          314.595703125
+        ]
+      ]
+    },
+    {
+      "title": "7.2. Temporal Metrics Equations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          63.0,
+          553.78125
+        ],
+        [
+          258.3369140625,
+          553.78125
+        ],
+        [
+          258.3369140625,
+          567.703125
+        ],
+        [
+          63.0,
+          567.703125
+        ]
+      ]
+    },
+    {
+      "title": "7.3. Environmental Metrics Equations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          63.75,
+          614.49609375
+        ],
+        [
+          289.564453125,
+          614.49609375
+        ],
+        [
+          289.564453125,
+          629.19140625
+        ],
+        [
+          63.75,
+          629.19140625
+        ]
+      ]
+    },
+    {
+      "title": "WHITE",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          485.595703125,
+          23.082275390625
+        ],
+        [
+          549.75,
+          23.082275390625
+        ],
+        [
+          549.75,
+          36.955810546875
+        ],
+        [
+          485.595703125,
+          36.955810546875
+        ]
+      ]
+    },
+    {
+      "title": "7.4. Metric Values",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          61.5,
+          567.75
+        ],
+        [
+          171.52734375,
+          567.75
+        ],
+        [
+          171.52734375,
+          582.3984375
+        ],
+        [
+          61.5,
+          582.3984375
+        ]
+      ]
+    },
+    {
+      "title": "Table 16: Metric values",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          243.75,
+          628.41796875
+        ],
+        [
+          369.650390625,
+          628.41796875
+        ],
+        [
+          369.650390625,
+          641.56640625
+        ],
+        [
+          243.75,
+          641.56640625
+        ]
+      ]
+    },
+    {
+      "title": "TLP:WHITE",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          483.75,
+          22.5
+        ],
+        [
+          551.25,
+          22.5
+        ],
+        [
+          551.25,
+          38.25
+        ],
+        [
+          483.75,
+          38.25
+        ]
+      ]
+    },
+    {
+      "title": "7.5. A Word on CVSS v3.1 Equations and Scoring",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          63.0,
+          139.9921875
+        ],
+        [
+          350.2265625,
+          139.9921875
+        ],
+        [
+          350.2265625,
+          155.267578125
+        ],
+        [
+          63.0,
+          155.267578125
+        ]
+      ]
+    },
+    {
+      "title": "P:WHITE",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          484.998046875,
+          22.5142822265625
+        ],
+        [
+          549.75,
+          22.5142822265625
+        ],
+        [
+          549.75,
+          36.68994140625
+        ],
+        [
+          484.998046875,
+          36.68994140625
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A - Floating Point Rounding",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          89.525390625
+        ],
+        [
+          339.75,
+          89.525390625
+        ],
+        [
+          339.75,
+          109.248046875
+        ],
+        [
+          62.25,
+          109.248046875
+        ]
+      ]
+    },
+    {
+      "title": "Appendix B - Acknowledgments",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          62.25,
+          89.76708984375
+        ],
+        [
+          298.828125,
+          89.76708984375
+        ],
+        [
+          298.828125,
+          108.861328125
+        ],
+        [
+          62.25,
+          108.861328125
+        ]
+      ]
+    },
+    {
+      "title": "Appendix C - On-Line Resources",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          62.25,
+          66.12890625
+        ],
+        [
+          298.828125,
+          66.12890625
+        ],
+        [
+          298.828125,
+          84.111328125
+        ],
+        [
+          62.25,
+          84.111328125
+        ]
+      ]
+    },
+    {
+      "title": "CVSS main page - https://www.first.org/cvss/",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          63.0,
+          93.97265625
+        ],
+        [
+          287.47265625,
+          93.97265625
+        ],
+        [
+          287.47265625,
+          107.89453125
+        ],
+        [
+          63.0,
+          107.89453125
+        ]
+      ]
+    },
+    {
+      "title": "Specification Document - https://www.first.org/cvss/specification-document",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          63.75,
+          151.8837890625
+        ],
+        [
+          438.08203125,
+          151.8837890625
+        ],
+        [
+          438.08203125,
+          165.0322265625
+        ],
+        [
+          63.75,
+          165.0322265625
+        ]
+      ]
+    },
+    {
+      "title": "Examples Document - https://www.first.org/cvss/examples",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          63.0,
+          281.337890625
+        ],
+        [
+          355.0078125,
+          281.337890625
+        ],
+        [
+          355.0078125,
+          294.486328125
+        ],
+        [
+          63.0,
+          294.486328125
+        ]
+      ]
+    },
+    {
+      "title": "Calculator - https://www.first.org/cvss/calculator/3.1",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          63.0,
+          339.732421875
+        ],
+        [
+          318.849609375,
+          339.732421875
+        ],
+        [
+          318.849609375,
+          352.494140625
+        ],
+        [
+          63.0,
+          352.494140625
+        ]
+      ]
+    },
+    {
+      "title": "JSON and XML Schemas - https://www.first.org/cvss/data-representations",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          63.0,
+          397.93359375
+        ],
+        [
+          430.91015625,
+          397.93359375
+        ],
+        [
+          430.91015625,
+          410.30859375
+        ],
+        [
+          63.0,
+          410.30859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          17
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          29
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          93
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Code",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/cvss-v31-specification_r1"
+}

@@ -1,0 +1,52 @@
+{
+  "secid": "secid:reference/nist.gov/ai-rmf-crosswalks",
+  "name": "NIST AI RMF Crosswalks",
+  "acronym": "AI RMF Crosswalks",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "NIST-AI-RMF-Crosswalks",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Mapping",
+  "description": "NIST-published cross-framework mappings between AI RMF 1.0 and other AI governance frameworks (ISO/IEC 23894, OECD AI Principles + Executive Order on AI + Blueprint for an AI Bill of Rights). This directory is a collection of crosswalk documents, each in its own subdirectory.",
+  "relationToCloudSecurity": "AI RMF crosswalks help cloud-hosted AI implementers translate controls between frameworks.",
+  "relationToAISecurity": "Direct AI-governance bridge between NIST's flagship AI RMF and other major AI frameworks.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Rolling additions as new crosswalks are published."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Collection. See subdirectories for individual crosswalk documents."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "NIST crosswalks collection",
+      "tool": "manual"
+    }
+  ],
+  "scope": {},
+  "notes": "Parent collection. Individual crosswalks have per-directory metadata."
+}

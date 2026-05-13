@@ -1,0 +1,100 @@
+[
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Devices Policy and Procedures",
+        "Control ID": "UEM-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for all endpoints. Review and update the policies and\n procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, currency, communication, and effectiveness.\n 2. Examine policy and procedures for evidence of review, at least annually."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Application and Service Approval",
+        "Control ID": "UEM-02",
+        "Control Specification": "Define, document, apply and evaluate a list of approved services,\n applications and sources of applications (stores) acceptable for use by endpoints\n when accessing or storing organization-managed data.",
+        "Auditing Guidelines": "1. Determine if a list of approved services, applications and sources of applications (stores) acceptable for use by endpoints when accessing or storing organization-managed data have been identified and documented.\n 2. Determine if the identified and documented list of approved services, applications and sources of applications (stores) acceptable for use by endpoints when accessing or storing organization-managed data have been enforced.\n 3. Examine how endpoints are monitored for unauthorized services and the process to remove or terminate use of non-sanctioned resources."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Compatibility",
+        "Control ID": "UEM-03",
+        "Control Specification": "Define and implement a process for the validation of the endpoint\n device's compatibility with operating systems and applications.",
+        "Auditing Guidelines": "1. Examine the process for endpoint compatibility validation.\n 2. Determine if the process produces a published compatibility matrix."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Inventory",
+        "Control ID": "UEM-04",
+        "Control Specification": "Maintain an inventory of all endpoints used to store and access company\n data.",
+        "Auditing Guidelines": "1. Examine the asset register, with reference to endpoints.\n 2. Determine if endpoints that store and access company data are tagged and included in the asset inventory."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Management",
+        "Control ID": "UEM-05",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to enforce policies and controls for all endpoints permitted to access\n systems and/or store, transmit, or process organizational data.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the extent and applicability of the processes, procedures, and technical measures over applicable endpoints, as identified.\n 3. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Automatic Lock Screen",
+        "Control ID": "UEM-06",
+        "Control Specification": "Configure all relevant interactive-use endpoints to require an automatic\n lock screen.",
+        "Auditing Guidelines": "1. Determine the organization's definition of interactive-use endpoints.\n 2. Examine the processes and technical measures in place to enforce automatic lock screens."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Operating Systems",
+        "Control ID": "UEM-07",
+        "Control Specification": "Manage changes to endpoint operating systems, patch levels, and/or\n applications through the company's change management processes.",
+        "Auditing Guidelines": "1. Examine the organization's change management policy for controls related to changes on endpoints.\n 2. Determine if such controls are in place for making changes to production and infrastructure systems and if the controls are evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Storage Encryption",
+        "Control ID": "UEM-08",
+        "Control Specification": "Protect information from unauthorized disclosure on managed endpoint\n devices with storage encryption.",
+        "Auditing Guidelines": "1. Examine the organization's asset disposal policy for end-of-life security requirements.\n 2. Examine the organization's policy on encryption or otherwise protection of data at rest on endpoints.\n 3. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Anti-Malware Detection and Prevention",
+        "Control ID": "UEM-09",
+        "Control Specification": "Configure managed endpoints with anti-malware detection and prevention\n technology and services.",
+        "Auditing Guidelines": "1. Examine the organization's anti-malware policy.\n 2. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Software Firewall",
+        "Control ID": "UEM-10",
+        "Control Specification": "Configure managed endpoints with properly configured software firewalls.",
+        "Auditing Guidelines": "1. Examine the organization's software firewall and other endpoint network protection policy.\n 2. Examine the policy on configuration of such controls.\n 3. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Data Loss Prevention",
+        "Control ID": "UEM-11",
+        "Control Specification": "Configure managed endpoints with Data Loss Prevention (DLP) technologies\n and rules in accordance with a risk assessment.",
+        "Auditing Guidelines": "1. Examine the organization's data loss policy.\n 2. Examine the policies on configuration of such controls.\n 3. Determine if such controls are driven by risk assessments.\n 4. Determine if such controls are in place and evaluated as effective."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Locate",
+        "Control ID": "UEM-12",
+        "Control Specification": "Enable remote geo-location capabilities for all managed mobile endpoints.",
+        "Auditing Guidelines": "1. Examine the organization's remote geo-location for managed mobile endpoints policy.\n 2. Determine if such controls are in place."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Wipe",
+        "Control ID": "UEM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures to enable the deletion of company data remotely on managed endpoint\n devices.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the extent and applicability of the processes, procedures, and technical measures over managed endpoints, as identified.\n 3. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Third-Party Endpoint Security Posture",
+        "Control ID": "UEM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n and/or contractual measures to maintain proper security of third-party endpoints\n with access to organizational assets.",
+        "Auditing Guidelines": "1. Examine procedures for adequacy, currency, communication, and effectiveness.\n 2. Determine the organization's definition of third-party endpoints.\n 3. Determine the extent and applicability of the processes, procedures, and technical measures over third-party endpoints.\n 4. Examine policy and procedures for evidence of review, with respect to effectiveness."
+    }
+]

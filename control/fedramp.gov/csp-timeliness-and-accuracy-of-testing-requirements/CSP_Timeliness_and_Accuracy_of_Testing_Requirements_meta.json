@@ -1,0 +1,656 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CSP Timeliness and\nAccuracy of Testing\nRequirements",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          100.5,
+          293.25
+        ],
+        [
+          508.5,
+          293.25
+        ],
+        [
+          508.5,
+          442.79296875
+        ],
+        [
+          100.5,
+          442.79296875
+        ]
+      ]
+    },
+    {
+      "title": "DOCUMENT REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          145.79296875
+        ],
+        [
+          429.71484375,
+          145.79296875
+        ],
+        [
+          429.71484375,
+          172.669921875
+        ],
+        [
+          71.25,
+          172.669921875
+        ]
+      ]
+    },
+    {
+      "title": "How to Contact Us",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.75,
+          385.5
+        ],
+        [
+          187.06640625,
+          385.5
+        ],
+        [
+          187.06640625,
+          399.09375
+        ],
+        [
+          69.75,
+          399.09375
+        ]
+      ]
+    },
+    {
+      "title": "TABLE OF CONTENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.75,
+          138.5419921875
+        ],
+        [
+          314.3671875,
+          138.5419921875
+        ],
+        [
+          314.3671875,
+          165.8056640625
+        ],
+        [
+          69.75,
+          165.8056640625
+        ]
+      ]
+    },
+    {
+      "title": "1. Purpose",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          122.203125
+        ],
+        [
+          131.3349609375,
+          122.203125
+        ],
+        [
+          131.3349609375,
+          135.3515625
+        ],
+        [
+          70.5,
+          135.3515625
+        ]
+      ]
+    },
+    {
+      "title": "2. Background",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          262.58203125
+        ],
+        [
+          156.7353515625,
+          262.58203125
+        ],
+        [
+          156.7353515625,
+          276.50390625
+        ],
+        [
+          70.5,
+          276.50390625
+        ]
+      ]
+    },
+    {
+      "title": "3. Timeliness and Accuracy of Testing Overview",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          368.349609375
+        ],
+        [
+          347.8359375,
+          368.349609375
+        ],
+        [
+          347.8359375,
+          382.271484375
+        ],
+        [
+          70.5,
+          382.271484375
+        ]
+      ]
+    },
+    {
+      "title": "4. Penetration Testing Requirements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          474.1171875
+        ],
+        [
+          285.978515625,
+          474.1171875
+        ],
+        [
+          285.978515625,
+          488.0390625
+        ],
+        [
+          70.5,
+          488.0390625
+        ]
+      ]
+    },
+    {
+      "title": "Timeliness Requirements:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5,
+          617.9765625
+        ],
+        [
+          187.962890625,
+          617.9765625
+        ],
+        [
+          187.962890625,
+          629.578125
+        ],
+        [
+          70.5,
+          629.578125
+        ]
+      ]
+    },
+    {
+      "title": "Accuracy of Testing Requirements:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          145.3095703125
+        ],
+        [
+          230.6953125,
+          145.3095703125
+        ],
+        [
+          230.6953125,
+          156.7177734375
+        ],
+        [
+          70.5,
+          156.7177734375
+        ]
+      ]
+    },
+    {
+      "title": "5. Vulnerability Scan Requirements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          275.537109375
+        ],
+        [
+          275.9677734375,
+          275.537109375
+        ],
+        [
+          275.9677734375,
+          288.298828125
+        ],
+        [
+          70.5,
+          288.298828125
+        ]
+      ]
+    },
+    {
+      "title": "Timeliness Requirements:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          445.5
+        ],
+        [
+          188.859375,
+          445.5
+        ],
+        [
+          188.859375,
+          457.1015625
+        ],
+        [
+          70.5,
+          457.1015625
+        ]
+      ]
+    },
+    {
+      "title": "Monthly Scanning Requirements during JAB P-ATO Process:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5,
+          547.59375
+        ],
+        [
+          345.146484375,
+          547.59375
+        ],
+        [
+          345.146484375,
+          558.421875
+        ],
+        [
+          70.5,
+          558.421875
+        ]
+      ]
+    },
+    {
+      "title": "6. Security Control Testing Requirements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          215.015625
+        ],
+        [
+          310.78125,
+          215.015625
+        ],
+        [
+          310.78125,
+          228.55078125
+        ],
+        [
+          70.5,
+          228.55078125
+        ]
+      ]
+    },
+    {
+      "title": "Timeliness Requirements:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          318.076171875
+        ],
+        [
+          188.560546875,
+          318.076171875
+        ],
+        [
+          188.560546875,
+          329.291015625
+        ],
+        [
+          70.5,
+          329.291015625
+        ]
+      ]
+    },
+    {
+      "title": "Accuracy of Testing Requirements:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          414.94921875
+        ],
+        [
+          230.25,
+          414.94921875
+        ],
+        [
+          230.25,
+          425.77734375
+        ],
+        [
+          70.5,
+          425.77734375
+        ]
+      ]
+    },
+    {
+      "title": "7. Policy for Treating High Vulnerabilities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5,
+          496.16015625
+        ],
+        [
+          309.884765625,
+          496.16015625
+        ],
+        [
+          309.884765625,
+          508.53515625
+        ],
+        [
+          70.5,
+          508.53515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          29
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CSP_Timeliness_and_Accuracy_of_Testing_Requirements"
+}

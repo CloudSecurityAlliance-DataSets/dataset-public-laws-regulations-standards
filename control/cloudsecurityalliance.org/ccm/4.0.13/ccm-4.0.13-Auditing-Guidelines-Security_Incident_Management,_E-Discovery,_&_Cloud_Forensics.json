@@ -1,0 +1,58 @@
+[
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Incident Management Policy and Procedures",
+        "Control ID": "SEF-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for Security Incident Management, E-Discovery, and Cloud\n Forensics. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, E-Discovery and Cloud Forensics.\n 2. Examine policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Service Management Policy and Procedures",
+        "Control ID": "SEF-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the timely management of security incidents. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, with respect to timely management.\n 2. Examine the policy and procedures for evidence of review at least annually."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Plans",
+        "Control ID": "SEF-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n a security incident response plan, which includes but is not limited to: relevant\n internal departments, impacted CSCs, and other business critical relationships\n (such as supply-chain) that may be impacted.'",
+        "Auditing Guidelines": "1. Examine the policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Incident Management, with respect to timely management.\n 2. Examine the processes to identify impacted stakeholders.\n 3. Determine if this plan meets stakeholder requirements."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Testing",
+        "Control ID": "SEF-04",
+        "Control Specification": "Test and update as necessary incident response plans at planned intervals\n or upon significant organizational or environmental changes for effectiveness.",
+        "Auditing Guidelines": "1. Verify if there is a calendar of exercises available, if exercises are performed at planned intervals and when there are significant changes within the organization or the context in which it operates.\n 2. Verify if the organization has reviewed and acted upon the results of its exercising and testing to implement changes and improvements."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Incident Response Metrics",
+        "Control ID": "SEF-05",
+        "Control Specification": "Establish and monitor information security incident metrics.",
+        "Auditing Guidelines": "1. Verify that metrics have been established to measure information security incidents.\n 2. Verify that metrics together demonstrate the efficacy, effectiveness and success of the information security incident response plan to address incidents as they happen.\n 3. Verify that the metrics are measured and reported to stakeholders."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Event Triage Processes",
+        "Control ID": "SEF-06",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures supporting business processes to triage security-related events.",
+        "Auditing Guidelines": "1. Verify if operational processes that help the organization to prepare for, identify, detect, protect, respond to and recover from information security incidents in a step-by-step manner exist.\n 2. Verify if tools that support these organizational procedures to triage security related events complement the ability of the teams to detect, review, monitor and quickly decide upon the context and the possible impact of the incident as it happens and over time."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Security Breach Notification",
+        "Control ID": "SEF-07",
+        "Control Specification": "Define and implement, processes, procedures and technical measures\n for security breach notifications. Report security breaches and assumed security\n breaches including any relevant supply chain breaches, as per applicable SLAs,\n laws and regulations.",
+        "Auditing Guidelines": "1. Examine policy for adequacy, approval, communication, and effectiveness as applicable to planning, delivery and support of the organization’s Security Breach Notification management.\n 2. Verify if there is a formal program that documents the breach notification requirements for all regulatory or contractual domains that the organization asserts adherence to.\n 3. Verify if there is a periodic awareness program to ensure all those associated with information security incident response are aware of the procedures involved for their roles, responsibilities and authorities.\n 4. Determine if the organization has established breach notification Time Objectives for information security breaches that meet the minimum expectation of the applicable regulation and verify if those time objectives are reflected in all internal and external service level expectations."
+    },
+    {
+        "Control Domain": "Security Incident Management, E-Discovery, & Cloud Forensics",
+        "Control Title": "Points of Contact Maintenance",
+        "Control ID": "SEF-08",
+        "Control Specification": "Maintain points of contact for applicable regulation authorities,\n national and local law enforcement, and other legal jurisdictional authorities.",
+        "Auditing Guidelines": "1. Examine the process used to determine applicable points of contact, and the procedure for reviewing the list/documentation that contains them.\n 2. Verify if the organization has updated the list of points of contact for applicable regulation authorities, national and local law enforcement, and other legal jurisdictional authorities.\n 3. Examine when the last updates were done and if there is a schedule for reviewing and updating these contacts."
+    }
+]

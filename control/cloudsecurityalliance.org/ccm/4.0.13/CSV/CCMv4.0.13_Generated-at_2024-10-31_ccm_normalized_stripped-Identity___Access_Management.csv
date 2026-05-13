@@ -1,0 +1,719 @@
+Control Domain,Control Title,Control ID,CCM_Control Specification,Implementation Guidelines_CCM Implementation Guidelines v2.0 CSP,Implementation Guidelines_CSC,Auditing Guidelines_Auditing Guidelines
+Identity & Access Management,Identity and Access Management Policy and Procedures,IAM-01,"Establish, document, approve, communicate, implement, apply, evaluate
+and maintain policies and procedures for identity and access management. Review
+and update the policies and procedures at least annually.
+","Control Ownership Rationale.
+The CSP's ownership of this control relates to the policies and procedures for managing identities (i.e., users, systems/processes, services and other security principals) and access to CSP-controlled resources within its organizational units, infrastructure, and assets relevant to the cloud services offered to the CSC.  
+
+Implementation Guidelines.
+IaaS Provider: 
+The CSP is responsible for establishing, documenting, implementing, enforcing, reviewing, and maintaining identity and access management policies and procedures for the physical infrastructure (including hosts and network) and the associated management interfaces. 
+
+PaaS Provider: 
+The CSP is responsible for  establishing, documenting, implementing, enforcing, reviewing, and maintaining policies and procedures to manage identities and access to the platform underlying resources, middleware, and APIs for cloud services.
+
+SaaS Provider:
+The CSP is responsible for establishing, documenting, implementing, enforcing, reviewing, and maintaining policies and procedures to manage identities and access to the underlying platform resources, virtual machines, network resources, and associated management plane or administrative interfaces for cloud services.  
+
+For each of the three service models, the CSP should document and communicate to the CSC the identity and access management features and technologies.
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: The scope of the IAM policy should be defined, including the identities, systems and data covered by the policy. The objectives of the IAM policy should be clearly articulated, such as ensuring confidentiality, integrity, and availability of data, as well as complying with relevant regulations
+b. Identity Inventory: Requirements to establish and maintain an inventory of identities within the cloud environment. Identities that are no longer active and required should be disabled or removed
+c. Separation of Duties (SoD): Prevent any identity from having excessive access that could be used to compromise the cloud environment
+d. Principle of Least Privilege (PoLP): Granting identities only the minimum level of access necessary to perform their job functions. Access permissions should be regularly reviewed and updated to ensure that they are still aligned with job roles
+e. Access Provisioning: Outline the process, timeframe and responsibilities for authorizing, recording, and communicating access provisions
+f. Access Changes and Revocation: Outline the process, timeframe, and responsibilities involved in removing access for movers, leavers, or identity changes
+g. Access Review: Procedures to review and revalidate identity access to ensure adherence to the principle of least privilege and separation of duties
+h. Segregation of Privileged Access Roles: Prevent any identity from having excessive privileged access that could be used to compromise the cloud environment. Separate among different identities the privileged access roles, such as administrative, logging, and cryptographic access
+i. Management of Privileged Access Roles: Requirements for the lifecycle management of access privileges (provisioning, usage, monitoring, and revocation) and scheduled regular reviews to ensure alignment of access privileges with evolving business requirements and identities roles
+j. CSCs Approval for Agreed Privileged Access Roles: Formal approval procedures and processes involving CSCs before CSPs granting and modifying privileged access to sensitive data or systems
+k. Safeguard Logs Integrity: Requirements for log files protection from unauthorized modifications or deletion to ensure the integrity of the audit trail. Break-glass procedures should be defined for accessing and modifying log files in emergency situations
+l. Uniquely Identifiable Users: Requirements for the establishment of unique identifiers that are assigned to all identities within the cloud environment. Unique IDs should be used consistently throughout the cloud environment to track and manage access
+m. Strong Authentication and Credentials: Authentication requirements of security measures for accessing systems, applications, and data assets should be defined and established (e.g., authentication frequency and scope, mechanisms, secure credentials, authentication in relation to data sensitivity)
+n. Authorization Mechanisms: Authorization requirements that access privileges granted to different user groups and other identities are based on their roles and responsibilities, data sensitivity and business requirements. The requirements should outline the specific data and system functions that each user group is authorized to access
+o. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the IAM policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+p. Communication: Effective communication of the IAM policy and procedures should be facilitated to all relevant cloud stakeholders
+q. Maintenance and Reviews: IAM policies and procedures policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The CSC's ownership of the control relates to the policies and procedures for managing identities (i.e., users, systems/processes, services and other security principals) and access to resources within its organizational units and assets relevant to the CSP's resources In establishing identity and access control policies and procedures. The CSC also should consider the identity and access management features and technologies supported and made available by the CSP. 
+
+Implementation Guidelines.
+IaaS Customer: 
+The CSC is responsible for establishing, documenting, implementing, enforcing, reviewing, and maintaining identify, authenticate, and access management policies and procedures for the CSC management plane, and virtual hosts, virtual network, applications, and related resources the CSC deploys on the cloud infrastructure, as well as the user endpoints for accessing cloud services.  
+
+PaaS Customer: 
+The CSC is responsible for establishing, documenting, implementing, enforcing, reviewing, and maintaining identity, authentication and access management policies and procedures for applications, directory and administrative services, PCs and mobile devices used by CSC's personnel, contractors and service providers  in accessing cloud services, data and other resources deployed on the platform by the CSC.
+
+SaaS Customer: 
+The CSC is responsible for establishing, documenting, implementing, enforcing, reviewing, and maintaining identity and access management policies and procedures for PCs and mobile devices used by CSC personnel for accessing cloud services, data (including application, customer supplied , user, and configuration data), user, and administrative accounts.  
+
+Policies should include (but not limited to) provisions on the following: The policies provided for the CSP apply.
+","1. Examine policy and/or procedures related to identity and access management to determine if policy and/or procedure content:
+  a. addresses the provisioning, modification and deprovisioning of logical access.
+  b. establishes password complexity and management requirements.
+  c. addresses authorization concept following separation of duties and least privilege.
+  d. addresses privileged access management and access reviews.
+  e. includes roles and responsibilities for provisioning, modifying and deprovisioning of logical access.
+  f. understands the delineation of identity and access management control responsibility in relation to the shared responsibility model.
+2. Determine if the policy is clearly communicated and available to stakeholders.
+3. Examine if policy and procedures are reviewed and updated at least annually.
+"
+Identity & Access Management,Strong Password Policy and Procedures,IAM-02,"Establish, document, approve, communicate, implement, apply, evaluate
+and maintain strong password policies and procedures. Review and update the
+policies and procedures at least annually.
+","Control Ownership Rationale.
+CSP's ownership of the control is concerned with password policies and procedures for authentication to CSP-controlled resources within the CSP's organizational units, infrastructure, and assets relevant to the cloud services offered to CSCs.
+
+Implementation Guidelines.
+IaaS Provider:
+The CSP is responsible for establishing strong password policies for its internal infrastructure resources (including network devices and physical hosts), and CSC authentication to their management plane. 
+
+PaaS Provider: 
+The CSP is responsible for establishing strong password policies for the CSP's internal users and customers authentication to platform underlying resources, middleware, APIs, and customers authentication to the administrative interface (management plane) of cloud services.
+
+SaaS Provider:
+CSP is responsible for establishing strong password policies for the CSP's internal users authentication to application environments (including hosting machines, database, network, middleware and APIs), and customers authentication to administrative accounts of cloud services.
+
+Policies should include (but not limited to) provisions on the following: 
+a. Scope and Objectives: The scope should define which users and accounts the policy applies to, including employees, contractors, and any third-parties with system access. Objectives should include requirements on password strength and limitations on reuse of personal data
+b. Password Complexity, Length, History, Expiration: Password complexity, length, history, and expiration requirements in accordance with industry standards 
+c. Brute-force Attack Prevention: Brute-force attack prevention mechanisms based on rate limiting (e.g., account lockout after a specified number of failed login attempts)
+d. Password Protection: Passwords protection using strong storage and in transit encryption, utilizing secure hashing algorithms with regular updates and salting, and conducting periodic assessments and updates of encryption practices aligned with industry standards
+e. Password Rotation: The definition and enforcement of password rotation requirements for all identities
+f. Password Reset: A secure password reset process to prevent unauthorized access in case of forgotten passwords
+g. Password Recovery: A secure process for password recovery that includes verification steps to prevent unauthorized access
+h. Multi-Factor Authentication (MFA): Encourage or require the use of multi-factor authentication to add an extra layer of security in addition to passwords
+i. Third-Party Integration: Address third-party applications or services integration with your system and ensure adherence to strong password requirements
+j. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the IAM policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+k. Communication: Effective communication of the IAM policy and procedures should be facilitated to all relevant cloud stakeholders
+l. Maintenance and Reviews: Password policies and procedures documentation, review and updates at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks                                                                                                                                                                                                                                                                    
+
+These provisions should be customized based on the CSP's and CSC's specific needs and the nature of the cloud environment.
+","Control Ownership Rationale.
+The CSC's ownership of this control relates to password policies and procedures for authentication to CSC-controlled resources within the CSC's organizational units, infrastructure, and assets relevant to the cloud services provided by the CSP.
+
+Implementation Guidelines.
+IaaS Customer: 
+The CSC is responsible for establishing strong password policies for the CSC's  users authentication, its management plane and resources deployed on the cloud infrastructure, including  virtual hosts, applications, databases, user accounts, and the endpoints used by CSC personnel in accessing cloud services.
+
+PaaS Customer: 
+The CSC is responsible for establishing strong password policies for CSC's internal users and customers authentication to directory and administrative services, user accounts, applications, and the endpoints used by CSC's personnel in accessing cloud services, data and other resources deployed on the platform by CSC.
+
+SaaS Customer: 
+The CSC is responsible for establishing strong password policies for CSC's users (Internal and external) authentication to administrative accounts, user accounts, and endpoints used by CSC personnel in accessing cloud services, application data.
+
+Policies should include (but not limited to) provisions on the following: The policies provided for the CSP apply.      
+","1. Examine policy and/or procedures related to passwords to determine if minimum password complexity requirements are defined.
+2. Determine if the organization enforces minimum password complexity requirements as defined in policy.
+3. Examine policy and procedures for evidence of review at least annually.
+"
+Identity & Access Management,Identity Inventory,IAM-03,"Manage, store, and review the information of system identities, and
+level of access.
+","Control Ownership Rationale.
+The CSP owns the control with respect to the system identities accessing resources under the CSP's control in the cloud environment. The scope of such resources is dependent on the type of cloud service model the CSP offers as detailed below. 
+
+Implementation Guidelines.
+Iaas Provider: 
+The CSP is responsible for maintaining and reviewing the inventory of system identities having access to resources in the cloud environment, including: physical datacenter infrastructure for power, cooling, and networking; hardware for computing, storage, and networking; hypervisors and other virtualization assets. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+PaaS Provider: 
+The CSP is responsible for maintaining and reviewing the inventory of system identities having access to: physical datacenter infrastructure for power, cooling, and networking; hardware for computing, storage, and networking; hypervisors and other virtualization resources; virtual machine images and instances; operating systems, middleware, databases, and management tools. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+SaaS Provider: 
+The CSP is responsible for maintaining and reviewing the inventory of system identities having access to: physical datacenter infrastructure for power, cooling, and networking; hardware for computing, storage, and networking; hypervisors and other virtualization resources; virtual machine images and instances; operating systems, middleware, databases, and management tools; applications and their data storage. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+Applicable to all service models:
+a. Implementation guidelines to establish and maintain an identity inventory include (but are not limited to):
+b. Identity Management System (IDaaS): A centralized IDaaS platform should be implemented that consolidates identities data from various cloud applications and services. The platform should provide visibility into all identities and their access privileges (e.g., Least Privilege, SoDs, ACLs) 
+c. Identity Classification: Identities should be categorized and classified based on their roles, purpose, and sensitivity and in correlation of the resources they access (i.e., assign appropriate access permissions and implement stricter controls for critical identities)
+d. Identity Discovery and Inventory: Automated tools should be utilized to continuously scan the cloud environment and identify all existing identities
+e. Threat Intelligence Integration: Leverage threat intelligence sources to identify and prioritize potential identity-based threats to proactively address emerging risks
+f. Inventory Access: Identity information should be stored in a secure location and access restricted to authorized personnel
+g. System Identity Ownership: Each system and service account should be assigned a designated owner to maintain accountability, facilitate future management, and mitigate security risks associated with unmanaged accounts
+h. Inventory Reviews and Updates: 
+i. The inventory should be up-to-date to ensure accuracy and completeness and reflect the current state of identities and their level of access, identify any discrepancies or anomalies and to ensure access is revoked or changed as necessary
+ii. Reviews should be conducted on a periodic basis or upon changes to identities and their level of access, and according to the CSP's risk assessment and other compliance requirements
+","Control Ownership Rationale.
+The CSC owns the control with respect to the system identities accessing resources under its control in the cloud environment, including on-premise resources interacting with the cloud environment. The scope of such resources will be determined partly by the type of cloud service model. 
+
+Implementation Guidelines.
+Iaas Customer: 
+The CSC is responsible for maintaining and reviewing the inventory of system identities having access to CSC-controlled resources, including: virtual machines, containers, and containers registry operating systems, and applications; virtual networks, firewalls, load balancers; application data and monitoring logs; analytics and management tools; application codes; keys, digital certificates, and secrets vaults; user endpoints. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+Paas Customer: 
+The CSC is responsible for maintaining and reviewing the inventory of system identities having access to: configuration policies and data; application data and monitoring logs; analytics and management tools; application codes; keys, digital certificates, and secrets vaults; user endpoints. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+SaaS Customer: 
+The CSC is responsible for maintaining and reviewing the inventory of system identities having access to: application data and logs; administrative and user accounts; keys, digital certificates and secrets; user endpoints. System identities to be documented should include users, services, applications, roles, and groups having access to each asset and the types of access granted them.
+
+Applicable to all service models:
+The same implementation guidelines as for the CSP apply.
+","1. Determine if the organization has defined acceptable storage methods and locations of system identities.
+2. Evaluate if the organization is consistently utilizing approved methods and locations to store system identities.
+3. Evaluate if access to stored identities is managed following established processes.
+"
+Identity & Access Management,Separation of Duties,IAM-04,"Employ the separation of duties principle when implementing information
+system access.
+","Control Ownership Rationale.
+The CSP owns the control with respect to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+CSPs should implement separation of duties (SoD) for safeguarding cloud environments and preventing unauthorized access, fraud, and errors. Both CSPs and CSCs share the responsibility of implementing SoD principles effectively.
+
+Iaas Provider:  
+The CSP is responsible for ensuring that SoD principle is applied when assigning system access to users for conflicting functions, including  SoD among: cloud administrators who are  responsible for provisioning and deprovisioning cloud infrastructure resources; security administrators who are responsible for developing and implementing security policies and procedures; system and operational support personnel responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues
+
+PaaS Provider: 
+The CSP is responsible for ensuring that the SoD principle is applied when assigning system access to users for conflicting functions, including: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure and platform resources; security administrators responsible for developing and implementing security policies and procedures; and the system and operational support teams responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues.
+
+SaaS Provider: 
+The CSP is responsible for ensuring that the SoD principle is applied when assigning system access to users for conflicting functions, including: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure and platform resources; security administrators responsible for developing and implementing security policies and procedures; developers responsible for developing and deploying applications to the cloud environment; system and operational support teams responsible for monitoring resource and application performance and availability, troubleshooting, and resolving operational issues.
+
+Implementation best practices for CSPs to effectively employ SoD include (but are not limited to):
+a. SoD Role Management and Access:  
+i. A centralized role management system should be implemented to oversee and maintain role permissions
+ii. Roles overlapping in responsibilities should be minimized to enhance SoD
+iii. Roles should be created with specific permissions for different functions within the cloud environment in this way avoiding assigning a single identity with excessive privileges that could enable unauthorized actions (e.g., critical functions, such as authorization, approval, and execution, should be separated among different identities)
+iv. Access levels should be segregated to restrict roles and their access to specific portions of the cloud environment 
+v. For high-risk or critical activities, such as approving transactions or making modifications to sensitive data, a multi-level approval process should be implemented (i.e., multiple individuals from different roles approve an action)
+b. Role Assignment and Provisioning: Tools should be utilized (automated where possible) to assign and manage user roles based on job roles and required access levels
+c. Roles Reviews: Regular reviews should be conducted of role definitions and their permissions to minimize the risk of conflicting duties and to ensure they align with current business needs and maintain adequate separation of duties
+d. Role Changes Monitoring: Monitoring and logging mechanisms should be implemented to track changes to identity roles and permissions
+e. Roles Exception Management: An exception management process should be established for cases where multiple roles must be granted to a single user. This should require approval from senior management and documented justification
+f. Violations Reporting: Reporting procedures should be defined for suspected or confirmed SoD violations
+g. SoD Controls Monitoring: SoD controls should be regularly assessed to ensure their effectiveness and address any gaps or vulnerabilities
+","Control Ownership Rationale.
+The CSC owns the control with respect to the entities whose access to the cloud environment the CSC provisions and maintains, including personnel, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Iaas Customer: 
+The CSC is responsible for ensuring that the SoD principle is applied when assigning system access its environment for incompatible functions, including: cloud service administrators responsible for provisioning cloud service resources (VMs, virtual network, load balancers, databases, application, etc); security administrators responsible for designing and implementing security controls for the management plane, VMs, virtual networks, load balancers, databases, operating systems, and applications; system and operational support personnel responsible for monitoring system availability and performance,  troubleshooting and resolving issues; and other users of the cloud service.
+
+Paas Customer:  
+The CSC is responsible for ensuring that the SoD principle is applied when assigning system access for conflicting functions, including: developers responsible for building and implementing applications and databases; security administrators responsible for designing and implementing security controls for applications and databases; system and operational support personnel responsible for monitoring system availability and performance,  troubleshooting and resolving issues; and other users of the cloud service.
+
+SaaS Customer:
+The CSC is responsible for ensuring that the SoD principle is applied when assigning system access for conflicting functions, including: developers responsible for configuring or customizing applications for use' security administrators responsible for implementing security settings for the application and user accounts; user account administrators responsible for provisioning, managing, and deprovisioning user accounts; support team monitoring system availability and performance, troubleshooting and resolving issues; and other users of the cloud service.
+Implementation best practices for CSPs to effectively employ SoD include: The same implementation guidelines as for the CSP apply. 
+","1. Determine if divisions of responsibility and separation of duties are defined and documented.
+2. Determine if information system access authorizations are established to support separation of duties.
+"
+Identity & Access Management,Least Privilege,IAM-05,"Employ the least privilege principle when implementing information
+system access.
+","Control Ownership Rationale.
+The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including the CSP's internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Iaas Provider:  
+The CSP is responsible for ensuring that the least privilege principle is applied when assigning system access to users, including: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure resources; security administrators  responsible for developing and implementing security policies and procedures; system operators responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues
+
+PaaS Provider:  
+The CSP is responsible for ensuring that the  least privilege principle is applied when assigning system access to users, including: cloud administrators  responsible for provisioning and deprovisioning cloud  infrastructure and platform resources; security administrators  responsible for developing and implementing security policies and procedures; system and operational support teams responsible for monitoring resource performance and availability, troubleshooting and resolving operational issues.
+
+SaaS Provider: 
+The CSP is responsible for ensuring that the least privilege principle is applied when assigning system access to users, including: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure and platform resources; security administrators  responsible for developing and implementing security policies and procedures; developers responsible for developing and deploying applications to the cloud environment; system and operational support teams responsible for monitoring resource and application performance and availability, troubleshooting, and resolving operational issues.
+
+Implementation best practices for CSPs to effectively employ the Principle of Least Privilege (PoLP) include (but are not limited to):
+a. LP Infrastructure: The cloud infrastructure should be designed and configured with PoLP in mind by limiting the privileges of identities to the bare minimum required for their operation
+b. LP Roles and Permissions: Specific actions, data, and resources each role is required to access to perform their duties should be identified in order to determine the appropriate level of access based for each role/identity (RBAC should be utilized to enforce access control permissions)
+c. LP Access of Administrative Accounts: 
+i. Administrative accounts (e.g., root or administrator accounts) should have the most restrictive access that is limited to specific tasks and environments, and ensured that they are only used when absolutely necessary
+ii. MFA should be enforced for all administrative accounts and any other high-risk access points
+d. Sensitive Data Access Limitation: Access to sensitive data should be restricted to the minimum number of identities required to accomplish their job function
+e. Unused Privileges Revocation: Identities access privileges should be proactively reviewed on a regular basis in order to revoke unused or excessive permissions to maintain the PoLP and reduce the attack surface
+f. LP Access Reviews: 
+i. Access privileges should be regularly reviewed and assessed to ensure they align with the current job/function requirements, to identify any unnecessary or excessive access and make adjustments accordingly
+ii. Automated tools should be implemented to monitor and evaluate the effectiveness of PoLP practices and to identify any potential gaps or misconfigurations
+","Control Ownership Rationale.
+The CSC owns the control with respect to the entities whose access to the cloud environment the CSC provisions and maintains, including personnel, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Iaas Customer: 
+The CSC is responsible for ensuring that the least privilege principle is applied when assigning system access to users, including: cloud service administrators  responsible for provisioning cloud service resources (VMs, virtual network, load balancers, databases, application, etc); security administrators responsible for designing and implementing security controls for the management plane, VMs, virtual networks, load balancers, databases, operating systems, and applications; system and operational  support personnel responsible for monitoring system availability and performance,  troubleshooting and resolving issues; and other users of the cloud service.
+
+Paas Customer:  
+The CSC is responsible for ensuring that the least privilege principle is applied when assigning system access to users, including: developers responsible for building and implementing applications and databases; security administrators responsible for designing and implementing security controls for applications and databases; system and operational support personnel responsible for monitoring system availability and performance,  troubleshooting, and resolving issues; and other users of cloud service.
+
+SaaS Customer: 
+The CSC is responsible for ensuring that least privilege principle is applied when assigning system access to users, including: developers responsible for configuring or customizing applications for use; security administrators responsible for implementing security settings for the application and user accounts; user account administrators responsible for provisioning, managing, and deprovisioning user accounts; support teams monitoring system availability and performance,  troubleshooting and resolving issues; and other users of the cloud service.
+The same implementation guidelines as for the CSP apply to effectively employ the Principle of Least Privilege (PoLP).
+","1.Examine the policy to determine the least privilege required for each role or user.
+2.Evaluate the effectiveness of the implementation and review of policy.
+"
+Identity & Access Management,User Access Provisioning,IAM-06,"Define and implement a user access provisioning process which authorizes,
+records, and communicates access changes to data and assets.
+","Control Ownership Rationale.
+The CSP responsibility for this control relates to user access provisioning to the data and assets controlled and managed by the CSP in the cloud service environment.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSPs should ensure that an access provisioning process is in place for the secure and controlled management of users and systems access to data and assets. Implementing this process effectively involves adhering to best practices that govern authorization, record-keeping, and communication of access changes.
+
+Implementation best practices for CSPs to effectively implement a user access provisioning process include (but are not limited to):
+a. IDaaS for Access Provisioning: The IDaaS system (refer to IAM-03) should be leveraged to consolidate identity management and access provisioning across all cloud services and applications
+b. HR Systems Synchronization: The IDaaS system should be integrated with HR systems to automatically provision user accounts based on employee onboarding or role changes
+c. Provisioning Workflow Automation: The provisioning process should be automated using workflow automation tools to reduce errors and ensure timely and consistent changes
+d. Single-Point of Contact (SPOC) for Access Provisioning Management: 
+i. A role hierarchy and delegation structure should be defined to ensure that provisioning actions propagate effectively across related roles
+ii. A centralized SPOC responsible should be designated for receiving and managing provisioning access requests
+e. Access Request and Approval Process: A formal access request and approval process for granting new access or modifying existing permissions should be established to ensure that access changes are reviewed and authorized by senior management based on business needs and risk assessments
+f. Access Provisioning Events Logging: 
+i. All identity related events, including creation, modification, and deletion of accounts, access privileges, failed attempts, and resource utilization should be monitored and recorded
+ii. An accurate and up-to-date record of all access events should be generated and maintained for a specified retention period to facilitate investigations and compliance audits
+g. Access Provisioning Changes Notification: 
+i. Users should be informed of any access changes, such as account creation or updates, through secure channels like email or in-app notifications
+ii. Periodic reporting of all access modification and provisioning actions should be provided to responsible security managers for review
+h. Access Provisioning Audits:  Security audits should be regularly conducted to assess the effectiveness of the identity access provisioning process to identify potential vulnerabilities or misconfigurations
+","Control Ownership Rationale.
+The CSC responsibility for this control relates to user access provisioning to the data and assets controlled and managed by the CSC in the cloud service environment.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if personnel required to approve system access requests are identified and documented.
+2. Evaluate if access requests are documented and approved by required personnel prior to access provisioning.
+"
+Identity & Access Management,User Access Changes and Revocation,IAM-07,"De-provision or respectively modify access of movers / leavers or
+system identity changes in a timely manner in order to effectively adopt and
+communicate identity and access management policies.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both independently responsible for managing the processes and procedures related to access deprovisioning for personnel (employees and contractors) resulting from periodic review, transfer or termination in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+As and when it is determined that the access that was previously granted to a user is not required any more, the CSP is responsible for deprovisioning the users' access. The scope of the control includes all the access and permissions managed by the access management processes.
+
+Implementation best practices for deprovisioning or modifying user access in a timely manner include (but are not limited to):
+a. IDaaS for Access Deprovisioning: The IDaaS system (refer to IAM-03) should be leveraged to consolidate identity management and access deprovisioning across all cloud services and applications
+i. Deprovisioning tools or scripts should be utilized (automated where possible) as part of the IAM process for revoking access rights upon account termination or reassignment
+ii. Access rights should be revoked within all the relevant identities following the termination date
+b. HR Systems Synchronization: The IDaaS system should be integrated with HR systems to automatically de-provision user accounts based on employee termination or role changes
+c. Deprovisioning Workflow Automation: The deprovisioning process should be automated using workflow automation tools to reduce errors and ensure timely and consistent changes
+d. Single-Point of Contact (SPOC) for Access Deprovisioning Management: 
+i. A role hierarchy and delegation structure should be defined to ensure that deprovisioning actions propagate effectively across related roles
+ii. A centralized SPOC responsible should be designated for receiving and managing deprovisioning access requests
+e. Access Deprovisioning Events Logging:  
+i. All identity related events, including modification and deletion of accounts, access privileges, failed attempts, and resource utilization should be monitored and recorded
+ii. An accurate and up-to-date record of all access events should be generated and maintained for a specified retention period to facilitate investigations and compliance audits
+f. Access Deprovisioning Changes Notification:
+i. Users should be informed of access changes, such as deprovisioning and modification of access permissions (e.g., due to periodic access recertification, transfer, account termination), through secure channels like email or in-app notifications
+ii. Periodic reporting of all access modification and deprovisioning actions should be provided to responsible security managers for review
+g. Revocation and Suspension Mechanisms: A process should be implemented for revoking or suspending access rights temporarily, when necessary, to address security breaches or compliance violations
+h. Inactive Identities Deprovision: A process should be implemented (automated if possible) to detect inactive accounts, flag them for review and where necessary deprovision unused or inactive identities
+i. Deprovisioning Incorporation into Crisis Management Plans: Deprovisioning procedures should be integrated into crisis management plans to ensure timely and effective access revocation in the event of incidents or emergencies
+j. Access Deprovisioning Audits:  Security audits should be regularly conducted to assess the effectiveness of the user access deprovisioning process and identify potential vulnerabilities or misconfigurations
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both independently responsible for managing the processes and procedures related to access deprovisioning for personnel (employees and contractors) resulting from periodic review, transfer or termination in their respective environments. The CSC owns the control in relation to the entities whose access to the cloud environment the CSC provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+As and when it is determined that the access that was previously granted to a user is not required anymore, the CSC is responsible for deprovisioning user's access. The scope of the control includes all the access and permissions managed by the 'access management processes'.
+
+The implementation guidelines provided for the CSP apply.
+","1. Determine if a process is established for removing logical access when users leave the organization or when access is no longer appropriate.
+2. Determine if a timeframe for access removal and access modification is defined.
+3. Verify that a process is established for removing existing system access and assigning appropriate access or for modifying existing access after internal transfer or change of job functions.
+4. Determine if established processes for access removal and modification, within the defined time frame, are followed in practice.
+"
+Identity & Access Management,User Access Review,IAM-08,"Review and revalidate user access for least privilege and separation
+of duties with a frequency that is commensurate with organizational risk tolerance.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are individually responsible for managing the processes and procedures related to periodic review of access by supervisors for personnel (employees and contractors) in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for classifying the access type by the risk they pose to their organization and facilitating the review of user's access periodically (frequency determined based on risk level) or when certain specific events occur such as personnel termination or transfer.
+
+To effectively review and validate user access for least privilege and separation of duties, CSPs should implement a comprehensive approach that encompasses implementation best practices, and a risk-based frequency for such reviews:
+a. Access Management and Reviews: 
+i. Access management processes and records should be centralized to facilitate easier identity access review and reduce the risk of inconsistencies across different cloud systems
+ii. Access reviews should be conducted for remediating obsolete, excessive or unnecessary access, to ensure that access rights adhere to roles and responsibilities, least privilege and SoD principles
+iii. Access reviews should be automated, if possible, using automated tools and scripts
+iv. Reviews of high-risk access configurations, such as administrator accounts and access to sensitive data should be prioritized for scheduling
+v. Access reviews should result to a re-approval of the PoLP, SoD or other entitlements that each identity continues to need to fulfill their job responsibilities or denial of any conflicting combinations of entitlements based on the current and future job responsibilities of the user's role
+b. Access Reviews Frequency: The frequency of identity access reviews should be commensurate with the organization's risk tolerance and the sensitivity of the data and systems being protected. For high-risk environments, reviews may be conducted on a daily or weekly basis, while less sensitive systems may be reviewed monthly or quarterly
+c. Access Review Documentation: The results of access reviews should be documented and records maintained for audit purposes
+d. Audit and Logging: Audit and logging capabilities should be implemented to track identity access activities and generate records of who accessed, what resources, and when, facilitating investigations and identifying any suspicious activity
+e. Continuous Monitoring and Evaluation: Continuous monitoring solutions should be implemented to scan for unauthorized or anomalous activities and to detect changes in access patterns, privilege escalation, and other potential security breaches
+f. Access Certification: An access certification process should be implemented that requires users to periodically justify their access privileges to ensure that access is still necessary and relevant for their current roles
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are individually responsible for managing the processes and procedures related to periodic review of access by supervisors for personnel (employees and contractors) in their respective environments. The CSC owns the control in relation to the entities whose access to the cloud environment the CSC provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC is responsible for classifying the access type commensurate with the risk it poses, and facilitating the review of user's access periodically (frequency determined based on risk level) or when certain specific events occur, such as personnel termination or transfer. The scope of the control includes all access and permissions managed by the access management processes.
+The implementation guidelines provided for the CSP apply.
+","1. Determine if the required frequency for review of accounts is established.
+2. Determine if accounts are reviewed for compliance, including the level of access and conflicting access, following the principle of least privilege and consideration of separation of duties.
+3. Determine if accounts are reviewed at the organization-defined frequency.
+"
+Identity & Access Management,Segregation of Privileged Access Roles,IAM-09,"Define, implement and evaluate processes, procedures and technical
+measures for the segregation of privileged access roles such that administrative
+access to data, encryption and key management capabilities and logging capabilities
+are distinct and separated.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently manage their respective processes and procedures to maintain SoD between the privileged roles that have administrative access to data or encryption keys, and the roles that have access to logging capabilities (such as logging configuration and log files in storage) that captures the access to the data or the keys. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for ensuring the SoD between the privileged roles that have administrative access to the data, the keys that are used to encrypt the data, and the logging capabilities that capture the access to the data or the keys. The CSP is also responsible to maintain separation of accounts and access permissions between the production and non-production environments to ensure the personnel with access only to the non-production accounts are not able to access the production environment using non-production accounts.
+
+Implementation best practices for the segregation of privileged access roles include (but are not limited to):
+a. Privileged Access Roles Segregation:
+i. The roles and responsibilities of each privileged identity should be defined ensuring that no single identity holds excessive privileges in order to establish a separation of duties and reduce the risk of misuse
+ii. Privileged roles that, if combined, create conflicting combinations of access should be explicitly identified and labeled in PAM systems
+iii. The roles and permissions that grant access to non-production environments should be separated from the roles and permissions that grant access to production environments
+b. Access Segregation to Different Privileged Areas:
+i. Privileged and administrative functions access should be divided into distinct realms, such as administrative access, encryption/key management, configuration changes, and logging, to prevent a single identity from compromising access to all these areas simultaneously
+ii. Privileged activities should be isolated within a separate environment or virtual machine, where possible
+c. Access Restriction to Sensitive Data and Systems:
+i. Access controls should be implemented to restrict privileged users from accessing sensitive systems and data that are not directly related to their job duties (enforce PoLP for privileged accounts)
+ii. SSH keys with strong key encryption and rotation should be utilized to authenticate privileged access over SSH connections
+d. Privileged Access Segregation Reviews:
+i. Access roles with privileged and administrative capabilities should be reviewed and updated periodically to ensure proper segregation and within reasonable frequencies specified by the CSP's IAM policy
+ii. Automated processes should be implemented to regularly review identities' segregated privilege access permissions
+e. Continuous Monitoring and Evaluation: The effectiveness of privileged access roles segregation and security measures (to data, crypto keys and systems configurations) should be monitored, logged and regularly assessed
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently manage their respective processes and procedures to maintain SoD between the privileged roles that have administrative access to data or encryption keys, and the roles that have access to logging capabilities (such as logging configuration and log files in storage) that captures the access to the data or the keys. The CSC owns the control in relation to the entities whose access to the cloud environment the CSC provisions and maintains, including CSC internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC is responsible for ensuring the SoD between the privileged roles that have administrative access to the data, the keys that are used to encrypt the data, and the logging capabilities that capture the access to the data or the keys. The CSC is also responsible to maintain separation of accounts and access permissions between the production and non-production environments to ensure the personnel with access only to the non-production accounts are not able to access the production environment using non-production accounts.
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures for the separation of privileged access are defined and include requirements for separation of administrative access to data, encryption, key management and logging capabilities.
+2. Evaluate if established processes, procedures and technical measures for the separation of privileged access are implemented and followed in practice.
+"
+Identity & Access Management,Management of Privileged Access Roles,IAM-10,"Define and implement an access process to ensure privileged access
+roles and rights are granted for a time limited period, and implement procedures
+to prevent the culmination of segregated privileged access.
+","Control Ownership Rationale.
+This control is ""Shared (Independent)"" since CSP and CSC are both responsible for managing their respective processes and procedures for managing privileged access in their respective environments. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for ensuring that privileged access and rights are properly approved for a definite time period, and that the user is provided the privileged access for that time period only. The user's access should be removed when the approved time period elapses.
+
+Scope of access includes the privileges of: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure resources; security administrators responsible for developing and implementing security policies and procedures; and system operators who are responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues.
+
+Implementation best practices include (but are not limited to):
+a. Privileged Access Management (PAM):
+i. A lifecycle management process for privileged access, encompassing provisioning, usage, monitoring, and revocation should be established and regularly reviewed to update access privileges and to align with changing business requirements and user roles
+ii. The access and rights considered privileged should be defined and communicated to all relevant parties, including all asset owners
+iii. The roles that can request privileged access should be defined and well documented, including roles and privileges that should not be assigned to the same user
+iv. Access levels for different types of privileged roles should be defined, including escalating authorization for high-risk access
+v. PAM solutions should be leveraged to manage and monitor privileged account access and credentials over privileged accounts, enabling secure storage and rotation of privileged credentials, auditing and logging access activity, and enforcing MFA for privileged sessions
+vi. To ensure the security of critical accounts and sensitive data, all modifications to privileged access should trigger real-time notifications to security managers for review
+b. Privileged Access Request: 
+i. A formal privileged access request process should be established that requires users to justify and obtain approval for accessing privileged accounts
+ii. Privileged access should be granted only after the validation of justification and multiple levels of approvals
+c. Privileged Access Restriction: Privileged access to specific resources and systems, preventing users from traversing beyond their authorized scope should be restricted
+d. Automated Privilege Revocation: Automated processes for revoking privileged access upon termination of employment, role changes, or other relevant events should be implemented
+e. Privileged Access Sessions Duration:
+i. Session management capabilities should be implemented to limit the duration of privileged access sessions and enforce timed out sessions after inactivity periods
+ii. Just-in-Time Access (JIT) should be utilized to grant access only for the specific time period that is needed rather than granting permanent access to minimize the window of opportunity for unauthorized access
+f. Privileged Access Password Management: Strong password management practices for privileged accounts should be implemented including regular password changes and complexity requirements
+g. Access Exception Process:
+i. A process for granting temporary or exceptional access should be established for privileged accounts and only in exceptional circumstances (refer to CCC-08)
+ii. Authorization from senior management should be acquired and justifications for the access request documented
+h. Credential Vaulting and Rotation: A secure credential vault should be used to store and manage privileged access credentials. Credentials should be rotated regularly to minimize the risk of unauthorized access
+i. Privileged Access Escalation Prevention: Mechanisms to prevent privilege escalation, ensuring that users cannot elevate their access beyond their assigned privileges should be implemented (e.g., use RBAC, MAC access control mechanisms)
+j. Privileged Access Roles Reviews: Roles with privileged access and rights should be included in the periodic access review activities performed at reasonable frequencies specified by the identity and access management policy
+k. Continuous Monitoring and Logging: The effectiveness of privileged access roles should be monitored, logged and regularly assessed. PAM solutions, operating systems, and relevant software should be updated to address potential vulnerabilities 
+","Control Ownership Rationale.
+This control is ""Shared (Independent)"" since CSP and CSC are both responsible for managing their respective processes and procedures for managing privileged access in their respective environments. The CSC owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSC internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is defined.
+2. Determine if procedures address the prevention of culmination of segregated privileged access.
+3. Evaluate if an access process, that includes requirements for limiting the time period of privileged access roles and rights, is implemented and consistently followed in practice.
+4. Evaluate if procedures that address the prevention of culmination of segregated privileged access is implemented and consistently followed in practice.
+"
+Identity & Access Management,CSCs Approval for Agreed Privileged Access Roles,IAM-11,"Define, implement and evaluate processes and procedures for customers
+to participate, where applicable, in the granting of access for agreed, high
+risk (as defined by the organizational risk assessment) privileged access roles.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Dependent)"" since the CSP and CSC are both responsible for determining the high risk data and granting privileged access to CSP users. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for identifying the privileged roles that provide access to CSC's data by the CSP users. The CSP is also responsible for ensuring a process exists to obtain approvals from CSC-authorized persons before the CSP user is provided the privileged roles temporarily or on a continuous basis (the CSP user's privileged access is properly approved in its authorized access requisition system). The CSP user's privileged activity should be logged, reported, and monitored for any suspicious activity.
+
+Implementation best practices include (but are not limited to):
+a. Scope and Privileged Roles Definition:
+i. The scope of high-risk data (e.g., personal data, financial data, intellectual property, medical records, etc.) and the types of privileged roles that require CSC approval for CSP access should be defined
+ii. CSC approval processes should be established, including timelines, notifications, and documentation. These requirements should be aligned with the CSC's organizational risk assessment and data classification policies
+b. CSP-CSC Approval Workflow:
+i. For any CSP privileged access request involving high-risk data, an explicit approval should be required from the relevant CSC representative
+ii. The approval should involve multiple authorization levels (e.g., approval from designated CSC representatives, legal or compliance personnel, and senior management) and should be documented and retained securely to maintain accountability and traceability of access decisions, including acceptable reasons or justifications for which privileged access may be requested
+iii. A formal CSC approval workflow process should be established that includes steps and roles for both the CSP and the CSC. Timelines for CSC approval and CSP action should be defined and communicated to relevant parties
+iv. Automated notification systems should be implemented to keep both parties informed of the status of access requests
+c. Access Request Templates:
+i. Standardized access request templates for both the CSP and the CSC to use should be established
+ii. Templates should include all necessary information, such as the purpose of access, the data to be accessed, and the duration of access. 
+iii. Both parties should sign off on the templates before access is granted
+d. Access Control: A secure PAM system should be leveraged to control privileged access to high-risk CSC data and to restrict privileged access to the minimum required for specific tasks (refer to IAM-10)
+e. Audit and Monitoring:
+i. Audit and monitoring capabilities should be implemented to track all access requests, approvals, and activities related to CSC's high-risk data (e.g., logging access attempts, successful access, changes to access permissions, and any suspicious or unauthorized activities)
+ii. The CSP should provide CSCs with access to audit logs for all access to their high risk CSC data, to allow CSCs to track who has accessed their data and when
+iii. Reporting mechanisms should be established to provide transparency to both the CSP and the CSC. For example, actions such as the following should be logged and reported:
+• modifying permissions of other local system accounts
+• creating backdoors such as establishing custom SSH keys 
+• modifying the sudo configuration file on a unix/linux operating system
+iv. Areas for improvement should be identified and necessary adjustments made to ensure that the processes are compliant with the CSC's organizational risk assessment and data protection requirements
+f. Access Level Agreements: 
+i. Service levels for granting CSP access to high-risk CSC data should be defined in alignment to CSP-CSC contractual agreements, including response times for request submissions, approval processes, and access duration. Escalation paths for non-compliance should be established (refer to STA domain)
+ii. Access agreement and rights should be regularly reviewed to ensure that access aligns with the CSC's organizational risk assessment
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Dependent)"" since the CSP and CSC are both responsible for determining the high risk data and granting privileged access to CSP users. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services. The CSC owns the responsibility of participating in determining what is considered privileged access to  their environment and in approving requests for such privileged access to CSP users when there are justified reasons for approval.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC is responsible for ensuring the privileged access requests from the CSP are properly reviewed for valid justification and authorization before approval by CSC-designated personnel.
+
+Contractual Agreements: 
+i. The CSC and the CSP should enter into a formal agreement (SLA) that outlines the specific terms and conditions for granting privileged access to high-risk data
+ii. SLAs should outline the roles, responsibilities, and expectations for both the CSP and the CSC regarding access to high-risk data. These SLAs should include (but not limited to) provisions for:
+iii. The process for requesting, approving, and revoking CSP privileged access to CSC high-risk data
+iv. Requirements for auditing and logging all access to high-risk data, including timestamps, user identities, and activity details
+v. Requirements for prompt notification of data breaches, including the scope of the breach, affected data, and actions taken to mitigate the impact
+vi. The CSC's ownership rights and control over their data, including the right to withdraw access at any time
+vii. Procedures for restoring data in the event of a breach or system failure.
+viii. Compensation for damages suffered by the CSC as a result of a data breach or unauthorized access
+b. High-risk Data Scope: 
+i. Just as the CSP should define the scope of high-risk data, the CSC should also do so to ensure that both parties are on the same page to avoid any misunderstandings or potential access to sensitive data that is not authorized
+ii. Guidelines describing the access that is considered privileged should be defined and communicated to all CSC asset owners
+c. Request Approval Process: 
+i. The CSC should require explicit approval from the relevant representative for any access request involving high-risk data
+ii. The CSC's personnel who are authorized to approve the CSP privileged access requests should be designated
+iii. A formal process should be established for approving requests for privileged access to high-risk data
+iv. Disapproval of privileged access requests should be properly justified and documented
+d. Audit and Monitoring: Continuously monitor and audit access to high-risk data to detect and respond to suspicious or unauthorized activities. This may involve:
+i. Utilizing tools to monitor access activity in real-time, alerting CSC personnel to any anomalies or potential breaches
+ii. Conducting regular audits of access logs and activity records to identify patterns and potential risks
+iii. Having a well-defined incident response plan in place to quickly investigate and remediate security breaches involving high-risk data
+iv. A communication channel between the CSC and the CSP should be established for reporting any concerns or suspicious activity related to CSP access to CSC high-risk data
+e. Reviews and Assessments: Regularly review and assess the need for privileged access to high-risk data, ensuring that access is granted only when absolutely necessary. This may involve:
+i. Conducting regular reviews of access permissions to identify and revoke inactive or unnecessary access.
+ii. Conducting periodic risk assessments to identify and mitigate potential vulnerabilities in access control mechanisms
+","1. Determine if processes and procedures for customers to participate, where applicable, in the granting of access for agreed, high risk (as defined by the organizational risk assessment) privileged access roles are defined, implemented and consistently followed in practice.
+"
+Identity & Access Management,Safeguard Logs Integrity,IAM-12,"Define, implement and evaluate processes, procedures and technical
+measures to ensure the logging infrastructure is read-only for all with write
+access, including privileged access roles, and that the ability to disable it
+is controlled through a procedure that ensures the segregation of duties and
+break glass procedures.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both independently responsible for managing the logging infrastructure in their respective environments, and the processes and procedures for providing user access to the logs (inclusive of privileged access). The CSP owns the control in relation to the entities whose access to the cloud environment that the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for ensuring that the activity logs are stored and maintained preferably at a centralized location. Only read-only access should be provisioned to authorized users to prevent log tampering. If privileged access is provisioned to users, the principle of SoD should be followed, and privileged activity should be recorded and reported separately for management review. The logging system should be integrated with a SIEM solution for real-time monitoring and for sending alerts when necessary. Ability to disable the system should be subject to a ""break glass"" procedure, with the principle of SoD duly observed. 
+
+Scope of access control includes general non-privileged users and all privileged users such as: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure resources; security administrators  responsible for developing and implementing security policies and procedures; and system operators responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues.
+
+Implementation best practices for a CSP to safeguard logs integrity include (but are not limited to):
+a. Read-only Access Restriction: Access to logs should be restricted to read-only access at all times and to authorized identities only according to the principle of least privilege
+b. Immutable Log Storage:  Immutable log storage solutions (e.g., write-once-read-many (WORM) storage) should be leveraged that prevent modification or deletion of logs once they are created to ensure that logs remain tamper-proof and provide an accurate record of system events
+c. Logs Integrity Verification:
+i. Data integrity verification techniques should be employed (e.g., cryptographic hash functions) and verification results monitored to identify any inconsistencies or signs of tampering
+ii. Procedures should be implemented for handling any discrepancies or anomalies detected during data integrity verification
+d. Controlled Read-only Access Disablement:
+i. SoD should be employed for disabling read-only access to logs so that the ability to disable read-only access requires collaboration between different users or teams
+ii. Identities responsible for disabling read-only access should not have the ability to also modify logs, and vice versa
+iii. Access to specific tools or privileged commands that can disable read-only access to logs should be restricted
+iv. A multi-step authorization process for disabling read-only access should be defined and implemented (e.g., approval and justification from multiple users)
+e. Break-glass Procedures:  
+i. Overriding procedures in emergency situations should be documented and implemented ensuring that only authorized personnel with the highest level of security clearance can disable read-only access
+ii. For emergency situations, disabling read-only access on logs should require the approval from at least two authorized individuals
+f. Logs Backup: Regular backups, and secure restoration procedures of logs should be conducted and established to ensure that they are protected in case of data loss or corruption
+g. Audit Logging and Monitoring: 
+i. All access attempts to logs, including read, write, and delete operations should be monitored to provide an audit trail of actions taken on logs, enabling detection of unauthorized modifications
+ii. Log data should be monitored for anomalies, inconsistencies, or suspicious activity that may indicate attempts to tamper with logs
+iii. All actions for disabling and enabling read-only access to logs should be documented, including timestamps, user IDs, and reasons for the action
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both independently responsible for managing the logging infrastructure in their respective environments, and the processes and procedures for providing user access to the logs (inclusive of privileged access). The CSC owns the control in relation to the entities whose access to the cloud environment that the CSC provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures are defined for log management.
+2. Determine if processes, procedures and technical measures for log management include the following two requirements:
+   a. the logging infrastructure is read-only for all with write access, including privileged access roles.
+   b. the ability to disable and/or modify logs is controlled following separation of duties and established break glass procedures.
+3. Evaluate if the processes, procedures and technical measures for log management are implemented and consistently followed in practice.
+"
+Identity & Access Management,Uniquely Identifiable Users,IAM-13,"Define, implement and evaluate processes, procedures and technical
+measures that ensure users are identifiable through unique IDs or which can
+associate individuals to the usage of user IDs.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are individually responsible for managing the processes and procedures that generate and allocate unique identifiers to users in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for ensuring that the users requesting system access are uniquely identifiable and can be directly held responsible for their actions. If the CSP permits the use of shared accounts for privileged access or functions, the system logs should capture the unique ID of the user acting on behalf of the shared account to ensure individual accountability. 
+
+The scope of such shared accounts include the accounts for: cloud administrators responsible for provisioning and deprovisioning cloud infrastructure resources; security administrators  responsible for developing and implementing security policies and procedures; and system operators who are responsible for monitoring resource performance and availability, troubleshooting, and resolving operational issues.
+
+Implementation guidelines to ensure user identification and association with unique IDs include (but are not limited to):
+a. Unique ID Management: 
+i. The collection purpose, usage, and retention of user IDs should be established, documented and aligned with the CSP's privacy and security regulations to provide users with transparent information about how their data is collected, processed, and shared
+ii. Use cases for user identification and the level of sensitivity of the data being associated with user IDs should be defined
+iii. Each user account should have a unique ID before any access is granted. If use of shared accounts is permitted, an up-to-date list of shared accounts and all users that can act on behalf of the shared accounts, including their unique IDs and privileges, should be maintained at all times
+iv. Any use of a shared account should be traceable to a unique user ID that acted on behalf of the account
+v. Automated controls should be implemented to enforce unique identifier requirements
+b. Unique ID Generation: A cryptographically secure algorithm to generate unique IDs for users should be employed to prevent the possibility of collisions or reuse of IDs
+c. Pseudonymous IDs: Instead of directly associating user IDs with personal data, pseudonymization techniques should be employed and implemented
+d. ID Access Control: Access control measures should be implemented to restrict access to user IDs to authorized personnel, systems and processes
+e. ID Encryption: All user IDs should be encrypted at rest and in transit to protect them from unauthorized access and data breaches
+f. ID Mapping and Linking: A secure and auditable mechanism for mapping user IDs to personal information or other sensitive data should be implemented
+g. ID Lifetime Limitations: 
+i. Limits on the lifetime of user IDs should be set to prevent the accumulation of excessive personal data over time
+ii. Collection of more data than is required for the specific purpose should be limited, and that any additional data collected separately should be required with explicit user consent
+h. User Consent and Opt-Out Options: Users should be provided with explicit consent options for the collection, usage, and sharing of their IDs and allowed to opt out of specific ID usage or request their removal from the CSP's databases
+i. Continuous Monitoring and Evaluation:  Monitoring mechanisms should be implemented to track and evaluate user ID usage, access, modification and deletion, and regularly reviewed to detect any anomalies or potential security breaches
+j. Regulatory Changes: Keep abreast of evolving data privacy regulations (e.g., GDPR, CCPA) and adapt the ID management practices accordingly
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are individually responsible for managing the processes and procedures that generate and allocate unique identifiers to users in their respective organizations. The CSC owns the control in relation to the entities whose access to the cloud environment the CSC provisions and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures are defined and require that users are identifiable through unique IDs or by association of individuals to the usage of user IDs.
+2. Determine if the established processes, procedures and technical measures are implemented and consistently followed in practice.
+"
+Identity & Access Management,Strong Authentication,IAM-14,"Define, implement and evaluate processes, procedures and technical
+measures for authenticating access to systems, application and data assets,
+including multifactor authentication for at least privileged user and sensitive
+data access. Adopt digital certificates or alternatives which achieve an equivalent
+level of security for system identities.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently managing their respective processes and procedures to authenticate the non-console administrative access and remote access. The CSP owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSP internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+Processes, procedures and technical measures for authenticating access to systems, applications and sensitive data should be defined and maintained.
+
+The CSP is responsible for ensuring that non-console administrative access and remote access require MFA.
+
+MFA and digital certificate implementation best practices for sensitive data access include (but are not limited to):
+a. Authentication Management: 
+i. A centralized authentication system that can manage identities, authentication credentials, and access control permissions across all cloud services should be implemented
+ii. Users that require privileged access (e.g., administrators and IT staff) should be identified to establish stricter authentication measures
+iii. Specific authentication factors and technical measures should be defined and implemented for each access level, including MFA for privileged identities and sensitive data access
+b. MFA Usage Scope:
+i. Sensitive Data Access:  Strong authentication should be enforced at all user accounts, requiring a combination of something the user: Knows (such as a password); Has (such as a mobile device or token); Is (such as biometrics); MFA for all users should be enabled, including non-privileged users who access sensitive data
+ii. Administrative Access: MFA should be enforced for all administrative access (e.g., access to cloud management consoles, virtual machines, remote access gateways, and other critical cloud infrastructure elements). If MFA cannot be implemented in a particular situation, the risk should be formally registered
+iii. Remote Access: MFA should be enforced for all remote access, whether through VPNs, web applications, or mobile devices
+iv. Third-Party Access: MFA should be enforced for third-party access, such as through APIs or cloud services, to protect against unauthorized access by external entities
+c. Second Factor Authentication: Second factor authentication should be leveraged in addition to passwords to add an extra layer of security by requiring a second factor of:
+i. Time-Based One-Time Passwords (TOTPs) to allow users to generate temporary codes via SMS, email, a smartphone app synchronized with an authentication server
+ii. Hardware tokens or USB keys that generate unique codes for authentication
+d. Passwordless Authentication: Passwordless authentication solutions should be implemented that replace traditional passwords with secure alternatives such as phishing-resistant MFA and FIDO2-compliant security keys or biometrics
+e. Authentication Credentials Protection: All authentication credentials should be transmitted through secure channels (e.g., TLS/HTTPS) and never stored in plaintext but rendered unreadable in storage on all system components using strong cryptography
+f. Authentication Credentials Change Approval: Requests to change or modify authentication credentials (i.e., performing password resets, provisioning new tokens, generating new keys) should be approved only after verification of the user's identity
+g. Continuous User Authentication (CUA): CUA should be leveraged as a method of maintaining user authentication throughout their session, requiring periodic reauthentication to ensure that the user is still authorized and has not been compromised
+h. Single Sign-On (SSO): SSO should be implemented for accessing multiple services and applications with a single login credential to simplify the authentication process for users
+i. Digital Certificates: Digital certificates should be utilized for authentication and authorization purposes, especially for system identities
+j. CRL and OCSP Checks: Certificate Revocation Lists (CRLs) and Online Certificate Status Protocol (OCSP) checks should be implemented to verify the validity and revocation status of digital certificates
+k. Certificate Lifecycle: The lifecycle of digital certificates should be securely managed including issuance, renewal, and revocation
+l. Certificate Storage: Digital certificates should be stored securely, using encryption and access control mechanisms
+m. Authentication Usage Monitoring:
+i. All authentication mechanisms and enabled features should be properly installed, configured, and authentication logs monitored for the desired and expected results
+ii. MFA, credentials, and digital certificate usage patterns should be should be continuously monitored and reviewed to proactively identify potential vulnerabilities or compromises
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently managing their respective processes and procedures to authenticate the non-console administrative access and remote access. The CSC owns the control in relation to the entities whose access to the cloud environment the CSP provisions and maintains, including CSC internal users, external users (vendors and customers), applications, and services.
+
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are defined and maintained.
+2. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data include organization-defined requirements for specific use cases of multifactor authentication, digital certificates and/or alternative security measures.
+3. Determine if processes, procedures and technical measures for authenticating access to systems, applications and sensitive data are implemented and consistently followed in practice.
+"
+Identity & Access Management,Passwords Management,IAM-15,"Define, implement and evaluate processes, procedures and technical
+measures for the secure management of passwords.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since the CSP and CSC are both responsible, but also independently managing the processes and procedures to securely manage the user's passwords in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP is responsible for defining, implementing, and evaluating processes and technical measures for the secure management of authentication credentials (including passwords, PINs, tokens, etc.). All related policies, standards, and procedures should be communicated to all users. Passwords, when used, should be securely managed throughout their usable lifecycle and should follow good password security practices, as mentioned below.
+
+Implementation best practices for secure passwords management include (but are not limited to):
+a. Password Strength Requirements: Password requirements should be enforced according to industry standards to enhance passwords strength and make them more resistant to brute-force attacks
+b. Password Complexity: Password complexity requirements should be implemented
+i. Include a mix of uppercase and lowercase letters
+ii. Use numbers and special characters
+iii. Avoid easily guessable information, such as common words or patterns
+c. Minimum Password Length: Minimum password length should be set to ensure passwords are not too short and easily compromised
+d. Password History: A password history policy should be enforced  and record of previously used passwords should be kept to prevent users from reusing their previous passwords
+e. Password Expiration: A password expiration policy should be enforced and process implemented to encourage frequent password changes
+f. Password Rotation: Users should be encouraged to regularly update their passwords, balanced with the need for strong, unique passwords to avoid predictable patterns
+g. Default Passwords Update: All vendor-supplied default configuration of passwords for identities and accounts should be removed and reset according the organizations password management policy
+h. Passwords Protection: 
+i. Strong password hashing algorithms should be used (e.g., PBKDF2 and bcrypt), and when necessary updated (passwords re-hashing), in accordance with the latest (non-deprecated) industry-standards
+ii. A unique ""salt"" for each password should be generated and combined with the password before hashing to prevent attackers from using precomputed tables (rainbow tables) for attacks
+iii. Secure passwords in storage and in transit (especially during the login process) using strong encryption
+i. Password Persistence: 
+i. Password persistence should be disabled for client-side applications, preventing passwords from being stored locally on user devices
+ii. Saving passwords in web browsers or email applications should be avoided
+j. Account Lockout Mechanisms: Account lockout mechanisms should be implemented that temporarily restrict access after a certain number of failed authentication attempts
+k. Public Display Prevention: Applications should be configured by default to not display passwords in clear text on any screen (i.e., mask screen display of passwords). A ""show password while typing"" option should be made available to select
+l. Password Managers: Users should be provided with access to password managers or integrated password storage capabilities to help them generate and manage strong, unique passwords for different accounts
+m. Automated Password Generation: Passwords/passphrases that are automatically chosen should be generated with a cryptographically secure pseudorandom number generator (CSPRNG)
+n. Password Reset: 
+i. The use of Self-Service Password Reset (SSPR) mechanisms where users can independently reset their passwords
+ii. Upon password reset, users should adhere to the organization's password complexity requirements
+iii. Accurate records of all password reset activities should be maintained (e.g., user involved, date and time of the reset, and the reason for the reset)
+iv. Use MFA or other additional verification steps (e.g., in-person/telephone confirmation) for password resets on highly-privileged accounts (e.g., tenant root/admin)
+o. Password Recovery: Secure mechanisms for password recovery should be implemented (e.g., via email, time-limited recovery links)
+p. Passwords Management Monitoring: Monitoring tools should be leveraged to detect and alert on suspicious activities related to password changes or login attempts
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since the CSP and CSC are both responsible, but also independently managing the processes and procedures to securely manage the user's passwords in their respective organizations. The CSC owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures for the secure management of passwords are defined.
+2. Determine if processes, procedures and technical measures for the secure management of passwords are implemented and consistently followed in practice.
+"
+Identity & Access Management,Authorization Mechanisms,IAM-16,"Define, implement and evaluate processes, procedures and technical
+measures to verify access to data and system functions is authorized.
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently manage the processes and procedures to ensure formal approvals are obtained for access granted to users in their respective organizations. The CSP owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+Verifying access authorization is a fundamental component of effective access control, ensuring that users are granted access based on their legitimate needs and that unauthorized access attempts are promptly identified and prevented.
+
+The CSPs play a critical role in implementing robust technical measures to verify authorization and prevent unauthorized access. Implementation best practices to defining, implementing, and evaluating these measures include (but are not limited to):
+a. Authorization Mechanisms:
+i. Identities should be provided with only the access necessary to perform their job duties according to the PoLP
+ii. Dynamic RBAC, ABAC and Context-aware access control mechanisms should be implemented to assign users specific roles with defined privileges and permissions as part of the access control decision-making process
+iii. Explicit permissions (read, write, execute) should be assigned to users or groups on individual resources (e.g., files, databases, applications)
+iv. A process to verify that access is authorized before granting permissions should be implemented
+b. Authorization Request and Approval:
+i. Senior management should be informed of a new user request to access a resource, and with sufficient justification, review, approve, and document such request
+ii. Ad-hoc access requests without approvals should not be granted, with exceptions in emergency situations (e.g., resolving a security incident or recovering from a major outage) where they should be approved by senior management
+iii. Two levels of approvals should be required for granting privileged entitlements (i.e., approval of the user's manager or supervisor and of the asset owner should be required)
+iv. Detection mechanisms should be implemented to identify and report any access that is granted without formal approvals
+v. A list of persons who are authorized to approve access types and relevant requests should be documented and maintained
+vi. Access rights should be immediately revoked after the business justification for such access ceases to exist
+c. Authorization Monitoring and Reviews: Authorization mechanisms should be regularly reviewed and updated. Reviews should be conducted on records of identities activity, including access requests, successful and failed login attempts, and resource usage to ensure that only authorized identities have access
+","Control Ownership Rationale.
+This control's implementation responsibility is ""Shared (Independent)"" since CSP and CSC are both responsible, but also independently manage the processes and procedures to ensure formal approvals are obtained for access granted to users in their respective organizations. The CCP owns the control in relation to the entities whose access to the cloud environment it provides and maintains, including its internal users, external users (vendors and customers), applications, and services.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+","1. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are defined.
+2. Determine if processes, procedures and technical measures, for verification of access authorization to data and system functions, are implemented and consistently followed in practice.
+"

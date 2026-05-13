@@ -1,0 +1,59 @@
+{
+  "secid": "secid:control/nist.gov/csf@1.1",
+  "name": "Framework for Improving Critical Infrastructure Cybersecurity",
+  "acronym": "NIST CSF",
+  "alternate_names": ["CSF", "NIST CSF 1.1", "Cybersecurity Framework"],
+  "version": "1.1",
+  "publication_id": "NIST.CSWP.04162018",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Framework",
+  "description": "NIST Cybersecurity Framework v1.1 (April 2018) is the second iteration of the CSF, organized into 5 Functions (Identify, Protect, Detect, Respond, Recover), 23 Categories, and 108 Subcategories. v1.1 added a new Subcategory addressing supply chain risk management and revised guidance for cyber-physical and self-assessment activities. Each Subcategory carries Informative References mapping to other frameworks (NIST SP 800-53, ISO/IEC 27001, COBIT, ISA, CIS Critical Security Controls).",
+  "relationToCloudSecurity": "CSF v1.1 is widely referenced in cloud security programs, especially in organizations that adopted the framework before CSF 2.0 was released. Cloud service providers and customers map their security postures to CSF Subcategories for risk communication. The Informative References connect each Subcategory to detailed implementation guidance in NIST SP 800-53 and ISO/IEC 27001.",
+  "relationToAISecurity": "CSF v1.1 does not specifically address AI risks. AI systems handling organizational data remain subject to CSF Subcategories. NIST published the separate AI Risk Management Framework (NIST AI 100-1) to address AI-specific concerns. CSF 2.0 added the Govern Function which improved alignment with broader risk governance including AI.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the public domain in the United States per Section 105 of the US Copyright Act."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework",
+    "source": "https://www.nist.gov/cyberframework/framework-version-11",
+    "textUsed": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf",
+    "coreData": "https://www.nist.gov/system/files/documents/2017/01/10/draft-cybersecurity-framework-v1.1-core.xlsx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-04-16",
+    "active": false,
+    "supersedes": "NIST CSF 1.0 (February 2014)",
+    "supersededBy": "NIST CSF 2.0 (February 2024)",
+    "retiredFromActiveUse": "2024-02-26",
+    "notes": "v1.1 was the active CSF from April 2018 to February 2024. Superseded by CSF 2.0 which added the Govern Function and reorganized Categories and Subcategories. v1.1 remains widely referenced in compliance documentation predating the 2.0 release; many cross-walks and mapping tools still target v1.1 IDs."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "openpyxl + custom Python (extract_csf.py)",
+    "tool_version": "openpyxl 3.x",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted from the official NIST CSF v1.1 Core spreadsheet (named 'draft-cybersecurity-framework-v1.1-core.xlsx' on nist.gov — the 'draft' filename is a historical artifact; this IS the final v1.1 Core). The CSWP.04162018 white paper PDF is retained alongside for narrative reference but is not the basis for the structured extraction."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction from NIST CSF v1.1 Core XLSX",
+      "tool": "openpyxl + extract_csf.py"
+    }
+  ],
+  "scope": {
+    "functions": 5,
+    "categories": 23,
+    "subcategories": 106
+  },
+  "notes": "v1.1 differs from v2.0 by lacking the Govern Function. Subcategory numbering differs between versions — mappings against v1.1 IDs are NOT directly portable to v2.0. See the [Withdrawn:] entries in CSF 2.0 for the 1.1 → 2.0 crosswalk."
+}

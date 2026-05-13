@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/mitre.org/ctid/gcp-mapping",
+  "name": "CTID ATT&CK → GCP Security Services Mapping",
+  "acronym": "CTID GCP Mapping",
+  "alternate_names": [
+    "GCP ATT&CK Mappings"
+  ],
+  "version": "06.28.2022_attack-10.0-enterprise",
+  "publication_id": "ctid-gcp-attack-10.0-enterprise",
+  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "type": "Mapping",
+  "description": "Mapping of MITRE ATT&CK 10.0 Enterprise techniques to Google Cloud Platform security service capabilities. Snapshot 2022-06-28.",
+  "relationToCloudSecurity": "Canonical reference for GCP-platform threat-informed defense.",
+  "relationToAISecurity": "General-security mapping.",
+  "license": {
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://github.com/center-for-threat-informed-defense/mappings-explorer/blob/main/LICENSE",
+    "notes": "Apache-2.0."
+  },
+  "links": {
+    "source": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-06-28",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Snapshot."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Direct download of upstream-published data; no transformation applied."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "attack_version": "10.0",
+    "platform": "GCP"
+  },
+  "notes": "Pinned to ATT&CK 10.0."
+}

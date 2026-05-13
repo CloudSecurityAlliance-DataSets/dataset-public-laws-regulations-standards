@@ -1,0 +1,65 @@
+[
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Policy and Procedures",
+        "Control ID": "CCC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for managing the risks associated with applying changes\n to organization assets, including application, systems, infrastructure, configuration,\n etc., regardless of whether the assets are managed internally or externally\n (i.e., outsourced). Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine policy and procedures to determine if they cover necessary parts of change management, including scope, documentation, testing, approval, and emergency changes.\n 2. Examine a sample record of changes to information assets, including systems, networks, and network services to determine if compliance is met with the organization's change management policy and procedures.\n 3. Examine if the policy and procedures are reviewed and updated at least annually."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Quality Testing",
+        "Control ID": "CCC-02",
+        "Control Specification": "Follow a defined quality change control, approval and testing process\n with established baselines, testing, and release standards.",
+        "Auditing Guidelines": "1. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), relevant stakeholders, for change management and determine if the policy control requirements provided in the policy have been implemented.\n 2. Examine measures that evaluate(s) the organization's compliance with the change and configuration management policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Technology",
+        "Control ID": "CCC-03",
+        "Control Specification": "Manage the risks associated with applying changes to organization\n assets, including application, systems, infrastructure, configuration, etc.,\n regardless of whether the assets are managed internally or externally (i.e.,\n outsourced).",
+        "Auditing Guidelines": "1. Examine policy related to the change management of assets.\n 2. Examine the policy for the identification of risks arising from these changes being applied.\n 3. Determine if assets are classified based on their management responsibility, and if these have specific risk profiles."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Unauthorized Change Protection",
+        "Control ID": "CCC-04",
+        "Control Specification": "Restrict the unauthorized addition, removal, update, and management\n of organization assets.",
+        "Auditing Guidelines": "1. Examine the policy relating to the authorisation of changes in assets.\n 2. Examine the implementation of such policy, technical controls, and their effectiveness."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Agreements",
+        "Control ID": "CCC-05",
+        "Control Specification": "Include provisions limiting changes directly impacting CSCs owned\n environments/tenants to explicitly authorized requests within service level\n agreements between CSPs and CSCs.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to change management to determine whether provisions are included for limiting changes directly impacting CSCs owned environments/tenants to explicitly authorized requests within service level agreements between CSPs and CSCs.\n 2. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s), and/or relevant stakeholders, as needed, for change agreements and determine if the policy control requirements stipulated in the policy have been implemented.\n 3. Examine measures that evaluate the organization's change agreement policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Management Baseline",
+        "Control ID": "CCC-06",
+        "Control Specification": "Establish change management baselines for all relevant authorized\n changes on organization assets.",
+        "Auditing Guidelines": "1. Examine policy and/or standards related to change management to determine if changes are formally controlled, documented and enforced to minimize the corruption of information systems.\n 2. Determine if the introduction of new systems and major changes to existing systems are formally documented, specified, tested, quality controlled, and the implementation managed."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Detection of Baseline Deviation",
+        "Control ID": "CCC-07",
+        "Control Specification": "Implement detection measures with proactive notification in case\n of changes deviating from the established baseline.",
+        "Auditing Guidelines": "1. Examine measures that evaluate the organization's compliance with the change management policy and determine if these measures are implemented according to policy control requirements."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Exception Management",
+        "Control ID": "CCC-08",
+        "Control Specification": "Implement a procedure for the management of exceptions, including\n emergencies, in the change and configuration process. Align the procedure with\n the requirements of GRC-04: Policy Exception Process.'",
+        "Auditing Guidelines": "1. Verify that the organization establishes and documents mandatory configuration settings for information technology products employed within the information system, as determined by adoption of the latest suitable security configuration baselines.\n 2. Confirm that the process identifies, documents, and approves exceptions from the mandatory established configuration settings for individual components based on explicit operational requirements.\n 3. Determine that the organization monitors and controls changes to the configuration settings in accordance with organizational policy and procedures."
+    },
+    {
+        "Control Domain": "Change Control and Configuration Management",
+        "Control Title": "Change Restoration",
+        "Control ID": "CCC-09",
+        "Control Specification": "Define and implement a process to proactively roll back changes to\n a previous known good state in case of errors or security concerns.",
+        "Auditing Guidelines": "1. Examine policy and/or procedures related to change management and determine if roll back procedures are defined and implemented, including procedures and responsibilities for aborting and recovering from unsuccessful changes and unforeseen events.\n 2. Examine relevant documentation, observe relevant processes, and/or interview the control owner(s) and/or relevant stakeholders, as needed to ensure that roll back procedures are defined and implemented and determine if the policy control requirements stipulated in the policy have been implemented. Select a sample of changes and examine the change management record to confirm that the change was assessed and included appropriate fallback procedures in the event of a failed change.\n 3. Examine measure(s) that evaluate(s) the organization's compliance with the change management policy and determine if these measures are implemented according to policy control requirements.\n 4. Obtain and examine supporting documentation maintained as evidence of these metrics, measures, tests, or audits to determine if the office or individual responsible reviews the information and, if issues were identified, they were investigated and corrected."
+    }
+]

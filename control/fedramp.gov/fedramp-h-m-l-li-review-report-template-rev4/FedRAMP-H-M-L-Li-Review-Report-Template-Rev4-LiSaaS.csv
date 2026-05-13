@@ -1,0 +1,114 @@
+Col_1,Controlled Unclassified Information (CUI)
+,FR Package ID#
+,CSP Name - CSO Name (System Abbreviation)
+,MM/DD/YYYY
+,(select)
+,"SSP (vx.x MM/DD/YY), SAP (vx.x MM/DD/YY), SAR (vx.x MM/DD/YY) and POA&M (vx.x MM/DD/YY)"
+,Li-SaaS
+,
+,Section A: Executive Summary
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Concern = Action may be required. OK = No action required. N/A = Not applicable for this package. 
+,Section B: Documents Provided Check
+,Comments
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Other Comments:
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+
+
+"
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+
+
+"
+,"The initial ATO for <AGENCY ABBREVIATION> is dated, as effective starting on <DATE>, is <an ongoing authorization/a 1 year authorization/a 3 year authorization/a 5 year authorization>.
+
+
+
+
+
+
+
+
+"
+,
+,Section C: Overall SSP Checks
+,Comments
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Other Comments:
+,"
+
+
+"
+,"
+
+
+"
+,"
+
+
+"
+,
+,Section D: High SSP Control Checks
+,Comments
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Other Comments:
+,
+,
+,
+,FedRAMP PMO Li-SaaS Review Report v5.3

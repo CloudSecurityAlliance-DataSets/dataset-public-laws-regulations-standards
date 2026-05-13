@@ -1,0 +1,257 @@
+Control Domain,Control Title,Control ID,CCM_Control Specification,Implementation Guidelines_CCM Implementation Guidelines v2.0 CSP,Implementation Guidelines_CSC,Auditing Guidelines_Auditing Guidelines
+"Governance, Risk and Compliance",Governance Program Policy and Procedures,GRC-01,"Establish, document, approve, communicate, apply, evaluate and maintain
+policies and procedures for an information governance program, which is sponsored
+by the leadership of the organization. Review and update the policies and procedures
+at least annually.
+","Control Ownership Rationale.
+This control applies to all service models (IaaS, PaaS, SaaS) because the implementation of a Governance, Risk and Compliance (GRC) program takes place at an organizational level, irrespective of cloud service model.
+Establishing a program for good information and technology governance, risk management, and compliance is important for all organizations, whether operating in a service consumer or service provider role. 
+
+This control's implementation responsibility is ""Shared"" because both the CSP and the CSC each need to have their own respective Governance, Risk, and Compliance (GRC) programs to cover their operations, products, and services, and the establishment of such a program is fully internal and unique to each organization, including the associated policies and procedures. The CSP and the CSC each independently establish their own respective policies and procedures for these functions. Because the GRC program is an organizational-level function, the Shared (Independent) ownership of this control applies irrespective of the types of cloud services provided or consumed.
+
+Implementation Guidelines.
+Applicable to all service models:
+Establishing robust policies and procedures for an information governance program is paramount for CSPs and CSCs in the context of cloud computing and security. 
+
+A well-defined Risk Management Program ensures that potential threats and vulnerabilities associated with cloud services are systematically identified, assessed, and mitigated, reducing the likelihood of security breaches. Organizational policies and procedures contribute to the clarity and consistency of operations, ensuring that all stakeholders, including CSCs, adhere to established standards and regulatory requirements. A policy should be mapped with the organization's governing mission as its focus and should always remain up-to-date with the direction and needs of the organization.
+
+The implementation of an Information Security Program aids CSPs safeguarding sensitive data, as it delineates encryption standards, access controls, and incident response plans, fortifying the overall security posture. These policies collectively form the cornerstone of a resilient information governance framework, instilling confidence in both CSPs and CSC by addressing risks, ensuring compliance, and enhancing overall cloud security.
+
+Both the CSP and CSC should have a robust governance program in place. Top leadership is ultimately responsible for ensuring the program is properly implemented. A core element of governance is that the people tasked with it should have the authority to enforce it.
+
+The CSP and CSC each have their own business needs and requirements for policies and procedures. These should cover the main security objectives of the cloud organization, the rationale for these objectives, approvals, and the review process. Policies should also delineate roles and responsibilities within the cloud organization, stating who should do what, where, when and how. 
+
+Policies should include (but not limited to) provisions on the following:
+a. Scope and Objectives: A comprehensive information governance program should be established to effectively manage and protect the organization's information assets, supporting business objectives, complying with applicable regulations. The scope of the information governance program should be defined, specifying the types of information covered, the organizational units involved, and the geographic locations where the program applies. The scope should include (but not limited to):
+i. all relevant information assets, including data, documents, records, and intellectual property.
+ii. the ownership and custodianship of information assets
+iii. the appropriate lifecycle management for information assets, including creation, storage, access, retention, and disposal
+iv. guidelines for handling sensitive information, such as personal data and protected health information (PHI)
+b. Risk Management Program: A risk management framework that aligns with the organization's overall risk appetite and business objectives should be established. The ERM should:
+i. Identify, assess, and prioritize cloud-related risks, including data security, privacy, compliance, and operational risks
+ii. Implement appropriate risk mitigation strategies, such as data encryption, access controls, and regular security audits
+iii. Continuously monitor and evaluate cloud-related risks and adapt risk mitigation strategies as needed
+c. Organizational Policy Reviews: Organizational policies and procedures should be regularly reviewed and updated to ensure they remain aligned with the organization's evolving business needs and regulatory requirements.
+d. Policy Exception Process: a formal policy exception process should be established that is transparent, accountable, and auditable
+i. criteria for approving policy exceptions should be defined, ensuring that exceptions are granted only in emergencies and/or under well justified circumstance
+ii. senior management approval should be required for all policy exceptions
+iii. all policy exceptions should be documented and tracked, including the rationale for approval and the mitigating measures implemented
+e. Information Security Program: An information security program should be implemented that aligns with industry best practices and relevant regulatory requirements, and includes all relevant domains of the latest up to date version of the Cloud Controls Matrix (CCM)
+f. Governance Responsibility Model: Roles and responsibilities for planning, implementing, operating, assessing, and improving cloud governance programs should be defined.
+i. Establish a governance committee or steering group with representatives from various departments, including IT, legal, compliance, and risk management
+ii. Specific responsibilities should be delegated to individual teams or roles, ensuring that accountability is assigned and documented
+iii. Regular training should be provided to all stakeholders on their governance responsibilities
+g. Information System Regulatory Mapping: all relevant standards, regulations, legal/contractual, and statutory requirements that apply to cloud-based information systems should be identified and documented. A regulatory mapping registry should be maintained that is regularly updated to reflect changes in regulatory requirements.
+h. Special Interest Groups: relationships with relevant cloud-related special interest groups, industry organizations, and government agencies should be established and maintained
+i. Participate in industry forums, conferences, and workshops to stay up-to-date on emerging cloud technologies, trends, and regulatory developments
+ii. Share best practices and insights with other cloud organizations through industry forums and publications
+iii. Collaborate with cloud industry experts to address common cloud-related challenges and develop innovative solutions
+i. Approval: Approval requirements and senior management involvement to ensure alignment with the organization's strategic goals and risk appetite
+i. An approval process should be established for any changes or modifications to the policy and procedures
+ii. A documented record of approvals (including dates, names of approvers, and any relevant comments or discussions) should be maintained
+j. Communication: Effective communication of the policy and procedures should be facilitated to all relevant cloud stakeholders
+k. Maintenance and Reviews: Information governance policies and procedures should be documented, reviewed and updated at least annually to ensure alignment with evolving cloud security landscape and to reflect changes in cloud technology, regulations, and risks
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+The implementation guidelines provided for the CSP apply. 
+","1. Examine the policy and/or procedures related to information governance programs to determine whether the organization has developed a comprehensive strategy for information governance.
+2. Examine policies and procedures for evidence of review at least annually.
+"
+"Governance, Risk and Compliance",Risk Management Program,GRC-02,"Establish a formal, documented, and leadership-sponsored Enterprise
+Risk Management (ERM) program that includes policies and procedures for identification,
+evaluation, ownership, treatment, and acceptance of cloud security and privacy
+risks.
+","Control Ownership Rationale.
+This control's implementation responsibility is typically shared between the CSP and CSC and expected to be independently implemented by each party, since the establishment of such a program is fully internal and unique to each organization and each needs to have its own respective ERM program established to cover its operations, products, and services. 
+The CSP and the CSC each independently establish their own respective policies and procedures for identification, evaluation, ownership, treatment, and acceptance of risks, including those pertaining to cloud security and privacy risks. Risk management for an organization is ultimately owned by that organization's leadership.
+
+An ERM program, as with all Governance and Risk Compliance (GRC) topics, should be implemented at the organizational level and should be independent of the type of cloud service delivery model and irrespective of the types of cloud services provided or consumed. Cloud organizations, whether operating in a cloud service consumption or cloud service provider role, need to appropriately manage risk, and to establish a formal, documented, leadership-sponsored Enterprise Risk Management program.
+
+Implementation Guidelines.
+Applicable to all service models:
+Enterprise Risk Management (ERM) is the overall management of risk for an organization. The service agreement or contract defines important elements such as the scope of services, service levels, responsibilities and obligations, among others, between a CSP and a CSC. While the contract may or may not define roles and responsibilities in detail, and may not address responsibilities for risk management, an entity can never fully outsource its ultimate responsibility and accountability for risk management to an external provider. The purpose of risk management is the creation and protection of value. The risk management process involves the systematic application of policies, procedures, and practices to the activities of communicating and consulting, establishing the context and assessing, treating, monitoring, reviewing, recording, and reporting risk. Risk for the CSP should be calculated using a risk appetite framework that defines the risk capacity or the maximum amount of residual risk it will accept after controls and other measures have been put in place.
+
+The risk management process should be an integral part of management and decision-making and integrated into the structure, operations and processes of the organization. It can be applied at strategic, operational, program, or project levels. There can be many applications of the risk management process within an organization, customized to achieve objectives and to suit the external and internal context in which they are applied. As part of the ERP program, the Information security risk management process should exist. 
+
+The Information security risk management should also include cloud-relevant information security and data privacy risks when applicable to the organization. 
+
+The CSP and CSP should both have information security risk management processes in place. They are advised to align to the STAR Program and other widely known cyber/cloud security frameworks and standards
+
+If the CSP uses the services of other providers,, it should ensure information security levels to the CSC are maintained or exceeded. When the CSP provides services based on a supply chain, the CSP should provide information security objectives to suppliers, and request that each of the suppliers perform risk management activities to achieve the objectives
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The implementation guidelines provided for the CSP apply.
+
+Also, the information security risk management should include cloud-relevant information security and data privacy risk when applicable. 
+
+When using the CSP, the CSC accepts some responsibility for certain risks, and it has the final responsibility of managing those risks (accept, mitigate, transfer). The CSC should define their risk appetite and risk tolerance to be able to manage the risk correctly. The CSC should review the CSP's documentation to be able to hold an effective risk position.
+","1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine whether the organization has developed a comprehensive strategy to manage risk to organizational operations and assets, and individuals.
+2. Review ERM documentation, processes, and supporting evidence to confirm if the ERM program includes provisions for cloud security and privacy risk.  
+3. Examine measure(s) that evaluate(s) the organization's compliance with the risk management policy and determine if the measure(s) address(es) implementation of the policy/control requirement(s) as stipulated in the policy level. 
+4. Obtain and examine supporting evidence to determine if the office or individual responsible reviews the information and, if issues were identified, if they were investigated and remediated appropriately. 
+"
+"Governance, Risk and Compliance",Organizational Policy Reviews,GRC-03,"Review all relevant organizational policies and associated procedures
+at least annually or when a substantial change occurs within the organization.
+","Control Ownership Rationale.
+This control applies to all service models (IaaS, PaaS, or SaaS) because periodical reviews of policies and procedures as with all Governance And Risk Compliance (GRC) topics, should be implemented at the Organizational level, to ensure they are still up to date, relevant and valid for the Organization, independent of the type of cloud service model.
+The ownership of this control is Shared (Independent) because both the CSP and the CSC each separately need to perform periodic reviews of their organization's policies and procedures, and each organization is fully responsible for performing the reviews of its own organizational policy while having no responsibilities for the review of another organization's policies. Because the need for review of an organization's policies is an organizational-level function covering all operations, products, and services of the enterprise, the Shared (Independent) ownership of this control applies irrespective of the types of cloud services provided or consumed.
+
+Implementation Guidelines.
+Applicable to all service models:
+Executive or senior management approval and commitment with the information security policies is necessary to legitimize the need and acts of the information security professionals and ensure that Information security strategy is a key and relevant part of the organization strategy and expectations. 
+
+Senior executive responsible parties (CISO, CSO or equivalent responsible) should be able to simply communicate and gain top management on the information security vision and mission to successfully implement any information security strategy or programs. Top management should understand this information in order to provide the necessary support, budgets and resources needed. Information Security policies are the foundations of security strategies and programs and the way to ensure all organizational staff are aware, onboarded and knowing what they need to do. 
+
+Updating policies, standards and related guidance regularly is important to ensure that the guidance is still relevant to the business needs, no longer in compliance with new laws and regulations, or no longer valid for the environment and technology currently in use. It's recommended to review policies, standards and related guidance at least annually or when a substantial change occurs within the organization (e.g. new technology introduced into the organization, cybersecurity incident, major operational change, changes in legal and regulatory environment, etc.)
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models: 
+The implementation guidelines provided for the CSP apply.
+
+Also, for certain cloud-related policies and standards that have in scope specific cloud environments or solutions, having top management approval and support will facilitate adherence and minimize resistance to change.
+","1. Examine the policy and/or procedures related to the Enterprise Risk Management (ERM) program to determine if the organization reviews these documents at least annually or when a substantial change occurs within the organization.
+2. Confirm that Policy reviews have taken place in compliance with the organization's review requirements and that any exceptions identified are investigated and remediated.
+"
+"Governance, Risk and Compliance",Policy Exception Process,GRC-04,"Establish and follow an approved exception process as mandated by
+the governance program whenever a deviation from an established policy occurs.
+","Control Ownership Rationale.
+This control applies to all service models (IaaS, PaaS, or SaaS), because following GRC-01, both should have their own security policies. Any exception to those policies will be also independent of a cloud service model. 
+
+Managing exceptions to organizational policies, standards, procedures, and other directives is an important aspect of an organization's risk management. The CSP and the CSC each independently establish their own policies and procedures for their respective organizations as well as independently manage risk for their respective organizations, and the associated process for managing exceptions to such policies is similarly and accordingly a Shared (Independent) function.
+
+Because organizational policy management and organizational risk management programs are organizational-level functions, the Shared (Independent) ownership of this control applies irrespective of the types of cloud services provided or consumed.
+
+Implementation Guidelines.
+Applicable to all service models: 
+The implementation guidance provided for the CSP applies.
+
+Also, it is recommended that the CSC keeps close contact and open dialogue with the CSP, to understand if an exception or risk that triggered an exception should be included in the CSP's security roadmap in the future. 
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models: 
+","1.Examine the policy and/or procedures to determine if the policy exception process has been established.
+2.Identify and confirm that exceptions to policies are tracked, authorised, and evidenced.
+3.Confirm a review of policy exceptions takes place on a periodic basis by appropriate management.
+"
+"Governance, Risk and Compliance",Information Security Program,GRC-05,"Develop and implement an Information Security Program, which includes
+programs for all the relevant domains of the CCM.
+","Control Ownership Rationale.
+This control's implementation responsibility is shared between the CSP and the CSC, in an independent manner. It is fully and independently the responsibility of each the CSP and the CSC to establish their own separate respective information security programs. It is neither the CSP's responsibility to develop or implement the CSC's information security program nor is it the CSC's responsibility to develop or implement the CSP's information security program.
+
+The CSP's ownership of this control relates to developing and implementing one or more information security programs covering the CSP's own internal organizational units and associated assets and processes as well as covering the services offered to its CSCs and associated assets and processes. The CSP does not have responsibility to develop or implement information security programs for the CSC.
+
+The Shared (Independent) control ownership applies to all provided service models (IaaS, PaaS, and SaaS) because the CSP's program should address all services offered to its CSCs.
+
+Use of the CCM domains will ensure all relevant cloud security aspects are included within the Information Security Program and provide major alignment to STAR and other widely known cyber/cloud security frameworks and standards.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should have its own security program as recommended by industry best practices, and cover all technology, information, process, and personnel aspects. It should designate roles and responsibilities where appropriate that are aligned within their organization, and document allocation of responsibilities with the CSC and its third-party providers.. 
+
+The CSP should use feedback and reports from the CSC to enhance its Information Security Program. It should try to cover the CSC's needs and specific regulatory and legal requirements (e.g., HIPAA, PCI DSS, GDPR, FedRAMP). It is key that the CSP understands that the CSC still needs assurance that contractual and regulatory obligations are being met. 
+
+The CSP might allow the CSC to perform security assessments of the CSP's infrastructure. The CSP could also publish its official certifications and attestations, clearly defining the scope, its conditions, and specific controls that were evaluated. STAR offers a central repository for providers to publish such documents.
+","Control Ownership Rationale.
+The CSC's ownership of this control relates to developing and implementing an information security program covering the CSC's own internal organizational units, associated cloud- and non-cloud assets, and its other stakeholders.
+
+The Shared (Independent) control ownership applies to all consumed service models (IaaS, PaaS, and SaaS) because the scope of a CSC's program should cover all its assets and processes, including all those that are acquired, implemented, or otherwise associated with services from external provider, regardless of service model.
+
+Use of the CCM domains will ensure all relevant cloud security considerations are included within the Information Security Program, and provide alignment to STAR and other widely known cyber/cloud security frameworks and standards.
+
+Implementation Guidelines.
+Applicable to all service models: 
+The CSC should design their Information Security program taking cloud security and its risk appetite toward the CSP. The purpose of the program is to make certain the organizational data, services, processes, systems, and other cloud-related assets, activities, and operations are safe, ensuring their confidentiality, integrity, and availability in all CSC environments, including cloud. The CSC should have information security responsibility and information security responsibilities, including a detailed RACI matrix, for the cloud program to adhere to and follow the overall company security strategy and security policy. This program should include all business and security requirements, regulations, and laws that directly affect the CSC. It should understand and document agreement on allocation of responsibilities with the CSP. 
+
+When the CSC uses a cloud environment, the CSP is a key part for its information security program and should be part of its ERM.
+","1. Examine the policy and/or procedures related to the Information Security Program to determine whether the organization has developed and implemented a comprehensive strategy to manage Information Security across the organization.
+2. Review the details of the information security program and establish if this covers the CCMv4 relevant domains.
+3. Confirm that identified gaps/issues are being tracked, monitored, and remediated with appropriate escalation where required. 
+"
+"Governance, Risk and Compliance",Governance Responsibility Model,GRC-06,"Define and document roles and responsibilities for planning, implementing,
+operating, assessing, and improving governance programs.
+","Control Ownership Rationale.
+This control is independent of IaaS, PaaS, SaaS since Governance And Risk Compliance (GRC) is applicable for all cloud service models. Both The CSP and CSC should define and implement their own roles, responsibilities, and management commitment within their respective organizations.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP, as part of its governance duties, should formalize a clear RACI model to emphasize that information security is a core responsibility. Individuals should be identified who have the accountability and authority to direct, enable, and oversee cloud service offerings, including associated information security and risk.
+
+Specifically, the CSP should appoint a responsible individual or group to deal with the CSC's security programs related to the infrastructure and applications hosted on its platforms. This person or group should be responsible for addressing all the CSC's security concerns and communicate clearly and transparently with when relevant security information is available and ready to release.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC, as part of its governance duties, should formalize a clear Responsible, Accountable, Consulted, and Informed (RACI) model to emphasize that information security is a core responsibility. Individuals should be identified who have the accountability and authority to direct, enable, and oversee cloud service offerings, including associated information security and risk.
+","1. Confirm the organization has established a governance framework which details roles, responsibilities, and accountability.
+2. Evidence that governance meetings are reported and documented appropriately.
+3. Confirm that individuals/groups responsible for governance are tracking and monitoring progress against the governance program.
+"
+"Governance, Risk and Compliance",Information System Regulatory Mapping,GRC-07,"Identify and document all relevant standards, regulations, legal/contractual,
+and statutory requirements, which are applicable to your organization.
+","Control Ownership Rationale.
+This control is independent of the service model (IaaS, PaaS, SaaS) or on-premise architecture since GRC is applicable to all. The CSP and CSC should each independently analyze and include into their Information Security Programs all relevant standards-related, regulatory, legal/contractual, and/or statutory security controls applicable, and how these controls serve the business needs and use cases.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSP should carefully consider the alignment and adequacy of its control requirements mapping to ensure all contractual requirements are adequately fulfilled. The CSP should make significant effort to identify, review, and document all legal, regulatory, contractual, statutory, or industry standards and their requirements, including any that are relevant to its country of operation or industry service.
+
+The internal control framework that is utilized, and all policies and governance regimes in place within the organization, should make specific references or incorporate the above requirements to maintain a consistent and cohesive approach to the organization's responsibilities. The CCM Control A&A-04 requires verification of the requirements as defined within this control. The CSP should make sure it identifies and documents its specific applicability to the various requirements, including how it complies with them.
+
+The CSP should then seek to get external verification through certifications, audits, assessments, or attestations for demonstrating to the CSC due diligence is done (e.g., gaining PCI DSS certification showing compliance with the payment card industry standard).
+
+The CSP should consider the requirements of the majority of its CSCs, and may wish to implement specific or additional controls to enhance its standing and promote growth in new areas.
+
+In arranging services with its own suppliers, the CSP should carefully consider the alignment and adequacy of the subservice organization/upstream supplier's control requirements mapping (as relevant to the respective service offering contract/service agreement) against the CSP's own, analyzing and identifying the implication of any gaps, so that it can determine whether it can use the service to achieve its objectives, and implement and manage any additional customer-side controls needed to fulfill its own requirements.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+The CSC should make significant effort to identify, review and document all legal, regulatory, contractual, statutory or industry standards and their requirements, including any that are relevant to its country of operation or industry service. 
+
+The CSC should consider its specific requirements when considering its selection of CSP and may wish to review a CSP's controls and control framework and assessments such as their CSA CAIQ or other relevant documentation, to analyze and identify applications so that it can determine whether it can use the service to achieve its objectives, and implement and manage any additional customer-side controls needed to fulfill its own requirements, including Complementary User Entity Controls (CUECs). The CSC should choose a CSP that is compliant or can assist in maintaining compliance to specific requirements..
+
+The internal control framework that is utilized, and all policies and governance regimes in place within the organization, should make specific references or incorporate the above requirements to maintain a consistent and cohesive approach to the organization's responsibilities. The CCM Control A&A-04 requires verification of the requirements as defined within this control. The CSP should make sure it identifies and documents its specific applicability to the various requirements, including how it complies with them.
+
+The CSP should then seek to get external verification through certifications, audits, assessments, or attestations where that can become demonstrable to its clients (e.g., gaining PCI DSS certification showing compliance with the payment card industry standard).
+","1. Confirm that policy and procedures include provisions to identify and document all relevant standards, regulations, legal/contractual, and statutory requirements.
+2. Establish that the organization maintains an inventory of CCM controls and relevant regulatory information is mapped across to the CCM inventory. 
+3. Identify and examine any metrics and supporting evidence to provide assurance that the information system regulatory mapping is reviewed on a periodic basis, and that any gaps in the mapping are appropriately actioned.
+"
+"Governance, Risk and Compliance",Special Interest Groups,GRC-08,"Establish and maintain contact with cloud-related special interest
+groups and other relevant entities in line with business context.
+","Control Ownership Rationale.
+This control is independent of the service model (IaaS, PaaS, SaaS) since GRC applies to all. Each organization should independently identify and develop close contact with the relevant groups and/or of security professionals that will provide advice and additional security and governance information that could enhance the security posture of its services (e.g., using IoC, threat reports, early vulnerability/flaw discoveries).
+
+Implementation Guidelines.
+Applicable to all service models:
+In order to maintain and continually improve its Information Security Program, and gain more knowledge about its infrastructure and underlying interfaces and connections with the CSC, the CSP should maintain contact with relevant stakeholders.
+
+The CSP may consider exploring and testing potential flaws in their cloud environment using, for example, bug bounty programs or security research and expert communities (Note: In case of intrusive security testing involved, users should be careful to operate within all parameters set by the CSP and relevant requirements of law).
+
+Additionally, the CSP should be part of both public and nonpublic security feeds to enhance its information security posture. The CSP should make all customer-relevant information available to the CSC, (e.g. white papers, position papers, and participating in research community forums).
+
+When a SaaS CSP makes use of another CSP (e.g., an IaaS or another SaaS provider), it should also pass along information gleaned from them.
+","Control Ownership Rationale.
+The control ownership rationale provided for the CSP applies.
+
+Implementation Guidelines.
+Applicable to all service models:
+In order to maintain and continually improve its Information Security Program, and gain more knowledge about its infrastructure and underlying interfaces and connections, the CSC should maintain a close relationship with the CSP to get all the latest relevant information as soon as possible.
+
+The CSC should include, but not be limited to, user and research communities, information security professionals and experts in different domains, and authorities that will affect or have influence on their business. 
+
+The CSC may consider exploring and testing potential flaws in their cloud environment using, for example, bug bounty programs or security research and expert communities (Note: In case of intrusive security testing involved, users should be careful to operate within all parameters set by the CSP and relevant requirements of law).
+","1. Examine the organization's policy and procedures related to contact with cloud-related special interest groups to determine if membership is required and actively maintained.
+2. Identify relevant individuals responsible for contacting cloud-related special interest groups and determine if the policy requirements stipulated in the policy level have been implemented. 
+"

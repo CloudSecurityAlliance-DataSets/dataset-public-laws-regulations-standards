@@ -1,0 +1,1107 @@
+{
+  "framework": {
+    "name": "CIS Controls",
+    "version": "8"
+  },
+  "source": "CIS Controls v8 Change Log",
+  "v8_to_v71_mapping": [
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": null,
+      "v8_title": "Inventory and Control of Enterprise Assets+E2:E218",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": "1.1",
+      "v8_title": "Establish and Maintain Detailed Enterprise Asset Inventory",
+      "v71_reference": "1.4 Maintain Detailed Asset Inventory, \n1.5 Maintain Asset Inventory Information, \n15.1 Maintain an Inventory of Authorized Wireless Access Points, \n9.1 Associate Active Ports, Services, and Protocols to Asset Inventory"
+    },
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": "1.2",
+      "v8_title": "Address Unauthorized Assets",
+      "v71_reference": "1.6 Address Unauthorized Assets"
+    },
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": "1.3",
+      "v8_title": "Utilize an Active Discovery Tool",
+      "v71_reference": "1.1 Utilize an Active Discovery Tool"
+    },
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": "1.4",
+      "v8_title": "Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory",
+      "v71_reference": "1.3 Use DHCP Logging to Update Asset Inventory"
+    },
+    {
+      "v8_control_id": "1",
+      "v8_safeguard_id": "1.5",
+      "v8_title": "Use a Passive Asset Discovery Tool",
+      "v71_reference": "1.2 Use a Passive Asset Discovery Tool,\n15.2 Detect Wireless Access Points Connected to the Wired Network"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": null,
+      "v8_title": "Inventory and Control of Software Assets",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.1",
+      "v8_title": "Establish and Maintain a Software Inventory",
+      "v71_reference": "2.1 Maintain Inventory of Authorized Software,\n2.4 Track Software Inventory Information"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.2",
+      "v8_title": "Ensure Authorized Software is Currently Supported",
+      "v71_reference": "2.2 Ensure Software is Supported by Vendor"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.3",
+      "v8_title": "Address Unauthorized Software",
+      "v71_reference": "2.6 Address Unapproved Software, \n13.4 Only Allow Access to Authorized Cloud Storage or Email Providers"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.4",
+      "v8_title": "Utilize Automated Software Inventory Tools",
+      "v71_reference": "2.3 Utilize Software Inventory Tools"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.5",
+      "v8_title": "Allowlist Authorized Software",
+      "v71_reference": "2.7 Utilize Application Whitelisting"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.6",
+      "v8_title": "Allowlist Authorized Libraries",
+      "v71_reference": "2.8 Implement Application Whitelisting of Libraries"
+    },
+    {
+      "v8_control_id": "2",
+      "v8_safeguard_id": "2.7",
+      "v8_title": "Allowlist Authorized Scripts",
+      "v71_reference": "2.9 Implement Application Whitelisting of Scripts,\n4.7 Limit Access to Scripting Tools,\n7.3 Limit Use of Scripting Languages in Web Browsers and Email Clients"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": null,
+      "v8_title": "Data Protection",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.1",
+      "v8_title": "Establish and Maintain a Data Management Process",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.2",
+      "v8_title": "Establish and Maintain a Data Inventory",
+      "v71_reference": "13.1 Maintain an Inventory of Sensitive Information"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.3",
+      "v8_title": "Configure Data Access Control Lists",
+      "v71_reference": "14.6 Protect Information Through Access Control Lists"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.4",
+      "v8_title": "Enforce Data Retention",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.5",
+      "v8_title": "Securely Dispose of Data",
+      "v71_reference": "New, \n13.2 Remove Sensitive Data or Systems Not Regularly Accessed by Organization"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.6",
+      "v8_title": "Encrypt Data on End-User Devices",
+      "v71_reference": "13.6 Encrypt Mobile Device Data"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.7",
+      "v8_title": "Establish and Maintain a Data Classification Scheme",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.8",
+      "v8_title": "Document Data Flows",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.9",
+      "v8_title": "Encrypt Data on Removable Media",
+      "v71_reference": "13.7 Manage USB Devices,\n13.9 Encrypt Data on USB Storage Devices"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.10",
+      "v8_title": "Encrypt Sensitive Data in Transit",
+      "v71_reference": "14.4 Encrypt All Sensitive Information in Transit,\n16.5 Encrypt Transmittal of Username and Authentication Credentials,\n15.7 Leverage the Advanced Encryption Standard (AES) to Encrypt Wireless Data"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.11",
+      "v8_title": "Encrypt Sensitive Data at Rest",
+      "v71_reference": "14.8 Encrypt Sensitive Information at Rest,\n16.4 Encrypt or Hash All Authentication Credentials"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.12",
+      "v8_title": "Segment Data Processing and Storage Based on Sensitivity",
+      "v71_reference": "2.10 Physically or Logically Segregate High Risk Applications,\n14.1 Segment the Network Based on Sensitivity"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.13",
+      "v8_title": "Deploy a Data Loss Prevention Solution",
+      "v71_reference": "14.5 Utilize an Active Discovery Tool to Identify Sensitive Data,\n14.7 Enforce Access Control to Data Through Automated Tools,\n13.3 Monitor and Block Unauthorized Network Traffic"
+    },
+    {
+      "v8_control_id": "3",
+      "v8_safeguard_id": "3.14",
+      "v8_title": "Log Sensitive Data Access",
+      "v71_reference": "14.9 Enforce Detail Logging for Access or Changes to Sensitive Data"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": null,
+      "v8_title": "Secure Configuration of Enterprise Assets and Software",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.1",
+      "v8_title": "Establish and Maintain a Secure Configuration Process",
+      "v71_reference": "5.1 Establish Secure Configurations,\n5.4 Deploy System Configuration Management Tool,\n14.3 Disable workstation-to-workstation communication"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.2",
+      "v8_title": "Establish and Maintain a Secure Configuration Process for Network Infrastructure",
+      "v71_reference": "11.1 Maintain Standard Security Configurations for Network Devices,\n11.3 Use Automated Tools to Verify Standard Device Configurations and Detect Changes"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.3",
+      "v8_title": "Configure Automatic Session Locking on Enterprise Assets",
+      "v71_reference": "16.11 Lock Workstation Sessions After Inactivity"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.4",
+      "v8_title": "Implement and Manage a Firewall on Servers",
+      "v71_reference": "9.2 Ensure Only Approved Ports, Protocols, and Services Are Running,\n9.4 Apply Host-Based Firewalls or Port-Filtering,\n12.4 Deny Communication Over Unauthorized Ports,\n11.2 Document Traffic Configuration Rules"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.5",
+      "v8_title": "Implement and Manage a Firewall on End-User Devices",
+      "v71_reference": "9.2 Ensure Only Approved Ports, Protocols, and Services Are Running,\n9.4 Apply Host-Based Firewalls or Port-Filtering,\n12.4 Deny Communication Over Unauthorized Ports,\n11.2 Document Traffic Configuration Rules"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.6",
+      "v8_title": "Securely Manage Enterprise Assets and Software",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.7",
+      "v8_title": "Manage Default Accounts on Enterprise Assets and Software",
+      "v71_reference": "4.2 Change Default Passwords"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.8",
+      "v8_title": "Uninstall or Disable Unnecessary Services on Enterprise Assets and Software",
+      "v71_reference": "New,\n9.2 Ensure Only Approved Ports, Protocols, and Services Are Running,\n15.6 Disable Peer-to-Peer Wireless Network Capabilities on Wireless Clients,\n15.9 Disable Wireless Peripheral Access of Devices,\n15.4 Disable Wireless Access on Devices if Not Required"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.9",
+      "v8_title": "Configure Trusted DNS Servers on Enterprise Assets",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.10",
+      "v8_title": "Enforce Automatic Device Lockout on Portable End-User Devices",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.11",
+      "v8_title": "Enforce Remote Wipe Capability on Portable End-User Devices",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "4",
+      "v8_safeguard_id": "4.12",
+      "v8_title": "Separate Enterprise Workspaces on Mobile End-User Devices",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": null,
+      "v8_title": "Account Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.1",
+      "v8_title": "Establish and Maintain an Inventory of Accounts",
+      "v71_reference": "4.1 Maintain Inventory of Administrative Accounts,\n16.6 Maintain an Inventory of Accounts"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.2",
+      "v8_title": "Use Unique Passwords",
+      "v71_reference": "4.4 Use Unique Passwords"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.3",
+      "v8_title": "Disable Dormant Accounts",
+      "v71_reference": "16.8 Disable Any Unassociated Accounts,\n16.9 Disable Dormant Accounts,\n16.10 Ensure All Accounts Have An Expiration Date"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.4",
+      "v8_title": "Restrict Administrator Privileges to Dedicated Administrator Accounts",
+      "v71_reference": "4.3 Ensure the Use of Dedicated Administrative Accounts"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.5",
+      "v8_title": "Establish and Maintain an Inventory of Service Accounts",
+      "v71_reference": "New,\n3.3 Protect Dedicated Assessment Accounts,\n20.8 Control and Monitor Accounts Associated With Penetration Testing"
+    },
+    {
+      "v8_control_id": "5",
+      "v8_safeguard_id": "5.6",
+      "v8_title": "Centralize Account Management",
+      "v71_reference": "16.2 Configure Centralized Point of Authentication"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": null,
+      "v8_title": "Access Control Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.1",
+      "v8_title": "Establish an Access Granting Process",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.2",
+      "v8_title": "Establish an Access Revoking Process",
+      "v71_reference": "16.7 Establish Process for Revoking Access"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.3",
+      "v8_title": "Require MFA for Externally-Exposed Applications",
+      "v71_reference": "New,\n16.3 Require Multi-Factor Authentication"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.4",
+      "v8_title": "Require MFA for Remote Network Access",
+      "v71_reference": "12.11 Require All Remote Logins to Use Multi-Factor Authentication"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.5",
+      "v8_title": "Require MFA for Administrative Access",
+      "v71_reference": "4.5 Use Multi-Factor Authentication for All Administrative Access"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.6",
+      "v8_title": "Establish and Maintain an Inventory of Authentication and Authorization Systems",
+      "v71_reference": "16.1 Maintain an Inventory of Authentication Systems"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.7",
+      "v8_title": "Centralize Access Control",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "6",
+      "v8_safeguard_id": "6.8",
+      "v8_title": "Define and Maintain Role-Based Access Control",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": null,
+      "v8_title": "Continuous Vulnerability Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.1",
+      "v8_title": "Establish and Maintain a Vulnerability Management Process",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.2",
+      "v8_title": "Establish and Maintain a Remediation Process",
+      "v71_reference": "New,\n3.7 Utilize a Risk-Rating Process,\n3.6 Compare Back-to-Back Vulnerability Scans"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.3",
+      "v8_title": "Perform Automated Operating System Patch Management",
+      "v71_reference": "3.4 Deploy Automated Operating System Patch Management Tools"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.4",
+      "v8_title": "Perform Automated Application Patch Management",
+      "v71_reference": "3.5 Deploy Automated Software Patch Management Tools,\n11.4 Install the Latest Stable Version of Any Security-Related Updates on All Network Devices"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.5",
+      "v8_title": "Perform Automated Vulnerability Scans of Internal Enterprise Assets",
+      "v71_reference": "3.1 Run Automated Vulnerability Scanning Tools,\n3.2 Perform Authenticated Vulnerability Scanning,\n9.3 Perform Regular Automated Port Scans,\n12.2 Scan for Unauthorized Connections Across Trusted Network Boundaries"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.6",
+      "v8_title": "Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets",
+      "v71_reference": "3.1 Run Automated Vulnerability Scanning Tools,\n9.3 Perform Regular Automated Port Scans,\n12.2 Scan for Unauthorized Connections Across Trusted Network Boundaries"
+    },
+    {
+      "v8_control_id": "7",
+      "v8_safeguard_id": "7.7",
+      "v8_title": "Remediate Detected Vulnerabilities",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": null,
+      "v8_title": "Audit Log Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.1",
+      "v8_title": "Establish and Maintain an Audit Log Management Process",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.2",
+      "v8_title": "Collect Audit Logs",
+      "v71_reference": "6.2 Activate Audit Logging,\n8.6 Centralize Anti-Malware Logging"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.3",
+      "v8_title": "Ensure Adequate Audit Log Storage",
+      "v71_reference": "6.4 Ensure Adequate Storage for Logs"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.4",
+      "v8_title": "Standardize Time Synchronization",
+      "v71_reference": "6.1 Utilize Three Synchronized Time Sources"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.5",
+      "v8_title": "Collect Detailed Audit Logs",
+      "v71_reference": "6.3 Enable Detailed Logging,\n4.8 Log and Alert on Changes to Administrative Group Membership,\n4.9 Log and Alert on Unsuccessful Administrative Account Login,\n16.12 Monitor Attempts to Access Deactivated Accounts"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.6",
+      "v8_title": "Collect DNS Query Audit Logs",
+      "v71_reference": "8.7 Enable DNS Query Logging"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.7",
+      "v8_title": "Collect URL Request Audit Logs",
+      "v71_reference": "7.6 Log All URL Requests"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.8",
+      "v8_title": "Collect Command-Line Audit Logs",
+      "v71_reference": "8.8 Enable Command-Line Audit Logging"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.9",
+      "v8_title": "Centralize Audit Logs",
+      "v71_reference": "6.5 Central Log Management"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.10",
+      "v8_title": "Retain Audit Logs",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.11",
+      "v8_title": "Conduct Audit Log Reviews",
+      "v71_reference": "6.7 Regularly Review Logs"
+    },
+    {
+      "v8_control_id": "8",
+      "v8_safeguard_id": "8.12",
+      "v8_title": "Collect Service Provider Logs",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": null,
+      "v8_title": "Email and Web Browser Protections",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.1",
+      "v8_title": "Ensure Use of Only Fully Supported Browsers and Email Clients",
+      "v71_reference": "7.1 Ensure Use of Only Fully Supported Browsers and Email Clients"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.2",
+      "v8_title": "Use DNS Filtering Services",
+      "v71_reference": "7.7 Use of DNS Filtering Services,\n12.3 Deny Communications With Known Malicious IP Addresses"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.3",
+      "v8_title": "Maintain and Enforce Network-Based URL Filters",
+      "v71_reference": "7.4 Maintain and Enforce Network-Based URL Filters,\n7.5 Subscribe to URL Categorization Service,\n13.4 Only Allow Access to Authorized Cloud Storage or Email Providers"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.4",
+      "v8_title": "Restrict Unnecessary or Unauthorized Browser and Email Client Extensions",
+      "v71_reference": "7.2 Disable Unnecessary or Unauthorized Browser or Email Client Plugins"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.5",
+      "v8_title": "Implement DMARC",
+      "v71_reference": "7.8 Implement DMARC and Enable Receiver-Side Verification"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.6",
+      "v8_title": "Block Unnecessary File Types",
+      "v71_reference": "7.9 Block Unnecessary File Types"
+    },
+    {
+      "v8_control_id": "9",
+      "v8_safeguard_id": "9.7",
+      "v8_title": "Deploy and Maintain Email Server Anti-Malware Protections",
+      "v71_reference": "New,\n7.10 Sandbox All Email Attachments"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": null,
+      "v8_title": "Malware Defenses",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.1",
+      "v8_title": "Deploy and Maintain Anti-Malware Software",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.2",
+      "v8_title": "Configure Automatic Anti-Malware Signature Updates",
+      "v71_reference": "8.2 Ensure Anti-Malware Software and Signatures Are Updated"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.3",
+      "v8_title": "Disable Autorun and Autoplay for Removable Media",
+      "v71_reference": "8.5 Configure Devices to Not Auto-Run Content"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.4",
+      "v8_title": "Configure Automatic Anti-Malware Scanning of Removable Media",
+      "v71_reference": "8.4 Configure Anti-Malware Scanning of Removable Media"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.5",
+      "v8_title": "Enable Anti-Exploitation Features",
+      "v71_reference": "8.3 Enable Operating System Anti-Exploitation Features/ Deploy Anti-Exploit Technologies"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.6",
+      "v8_title": "Centrally Manage Anti-Malware Software",
+      "v71_reference": "8.1 Utilize Centrally Managed Anti-Malware Software"
+    },
+    {
+      "v8_control_id": "10",
+      "v8_safeguard_id": "10.7",
+      "v8_title": "Use Behavior-Based Anti-Malware Software",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": null,
+      "v8_title": "Data Recovery",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": "11.1",
+      "v8_title": "Establish and Maintain a Data Recovery Process",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": "11.2",
+      "v8_title": "Perform Automated Backups",
+      "v71_reference": "10.1 Ensure Regular Automated Backups,\n10.2 Perform Complete System Backups"
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": "11.3",
+      "v8_title": "Protect Recovery Data",
+      "v71_reference": "10.4 Protect Backups"
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": "11.4",
+      "v8_title": "Establish and Maintain an Isolated Instance of Recovery Data",
+      "v71_reference": "10.5 Ensure All Backups Have at Least One Offline Backup Destination"
+    },
+    {
+      "v8_control_id": "11",
+      "v8_safeguard_id": "11.5",
+      "v8_title": "Test Data Recovery",
+      "v71_reference": "10.3 Test Data on Backup Media"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": null,
+      "v8_title": "Network Infrastructure Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.1",
+      "v8_title": "Ensure Network Infrastructure is Up-to-Date",
+      "v71_reference": "11.4 Install the Latest Stable Version of Any Security-Related Updates on All Network Devices"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.2",
+      "v8_title": "Establish and Maintain a Secure Network Architecture",
+      "v71_reference": "New,\n15.10 Create Separate Wireless Network for Personal and Untrusted Devices"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.3",
+      "v8_title": "Securely Manage Network Infrastructure",
+      "v71_reference": "11.5 Manage Network Devices Using Multi-Factor Authentication and Encrypted Sessions"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.4",
+      "v8_title": "Establish and Maintain Architecture Diagram(s)",
+      "v71_reference": "12.1 Maintain an Inventory of Network Boundaries"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.5",
+      "v8_title": "Centralize Network Authentication, Authorization, and Auditing (AAA)",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.6",
+      "v8_title": "Use of Secure Network Management and Communication Protocols",
+      "v71_reference": "New, \n15.8 Use Wireless Authentication Protocols That Require Mutual, Multi-Factor Authentication"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.7",
+      "v8_title": "Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "12",
+      "v8_safeguard_id": "12.8",
+      "v8_title": "Establish and Maintain Dedicated Computing Resources for All Administrative Work",
+      "v71_reference": "4.6 Use Dedicated Workstations For All Administrative Tasks,\n11.6 Use Dedicated Workstations for All Network Administrative Tasks, \n11.7 Manage Network Infrastructure Through a Dedicated Network"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": null,
+      "v8_title": "Network Monitoring and Defense",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.1",
+      "v8_title": "Centralize Security Event Alerting",
+      "v71_reference": "6.6 Deploy SIEM or Log Analytic Tools"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.2",
+      "v8_title": "Deploy a Host-Based Intrusion Detection Solution",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.3",
+      "v8_title": "Deploy a Network Intrusion Detection Solution",
+      "v71_reference": "12.6 Deploy Network-Based IDS Sensors"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.4",
+      "v8_title": "Perform Traffic Filtering Between Network Segments",
+      "v71_reference": "14.2 Enable Firewall Filtering Between VLANs"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.5",
+      "v8_title": "Manage Access Control for Remote Assets",
+      "v71_reference": "12.12 Manage All Devices Remotely Logging Into Internal Network,\n12.2 Scan for Unauthorized Connections Across Trusted Network Boundaries"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.6",
+      "v8_title": "Collect Network Traffic Flow Logs",
+      "v71_reference": "12.8 Deploy NetFlow Collection on Networking Boundary Devices"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.7",
+      "v8_title": "Deploy a Host-Based Intrusion Prevention Solution",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.8",
+      "v8_title": "Deploy a Network Intrusion Prevention Solution",
+      "v71_reference": "12.7 Deploy Network-Based Intrusion Prevention Systems,\n15.3 Use a Wireless Intrusion Detection System"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.9",
+      "v8_title": "Deploy Port-Level Access Control",
+      "v71_reference": "1.7 Deploy Port Level Access Control,\n1.8 Utilize Client Certificates to Authenticate Hardware Assets"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.10",
+      "v8_title": "Perform Application Layer Filtering",
+      "v71_reference": "9.5 Implement Application Firewalls,\n12.9 Deploy Application Layer Filtering Proxy Server,\n18.10 Deploy Web Application Firewalls"
+    },
+    {
+      "v8_control_id": "13",
+      "v8_safeguard_id": "13.11",
+      "v8_title": "Tune Security Event Alerting Thresholds",
+      "v71_reference": "6.8 Regularly Tune SIEM"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": null,
+      "v8_title": "Security Awareness and Skills Training",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.1",
+      "v8_title": "Establish and Maintain a Security Awareness Program",
+      "v71_reference": "17.3 Implement a Security Awareness Program,\n17.4 Update Awareness Content Frequently"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.2",
+      "v8_title": "Train Workforce Members to Recognize Social Engineering Attacks",
+      "v71_reference": "17.6 Train Workforce on Identifying Social Engineering Attacks"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.3",
+      "v8_title": "Train Workforce Members on Authentication Best Practices",
+      "v71_reference": "17.5 Train Workforce on Secure Authentication"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.4",
+      "v8_title": "Train Workforce on Data Handling Best Practices",
+      "v71_reference": "17.7 Train Workforce on Sensitive Data Handling"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.5",
+      "v8_title": "Train Workforce Members on Causes of Unintentional Data Exposure",
+      "v71_reference": "17.8 Train Workforce on Causes of Unintentional Data Exposure"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.6",
+      "v8_title": "Train Workforce Members on Recognizing and Reporting Security Incidents",
+      "v71_reference": "17.9 Train Workforce Members on Identifying and Reporting Incidents"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.7",
+      "v8_title": "Train Workforce on How to Identify and Report if Their Enterprise Assets are Missing Security Updates",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.8",
+      "v8_title": "Train Workforce on the Dangers of Connecting to and Transmitting Enterprise Data Over Insecure Networks",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "14",
+      "v8_safeguard_id": "14.9",
+      "v8_title": "Conduct Role-Specific Security Awareness and Skills Training",
+      "v71_reference": "17.2 Deliver Training to Fill the Skills Gap"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": null,
+      "v8_title": "Service Provider Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.1",
+      "v8_title": "Establish and Maintain an Inventory of Service Providers",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.2",
+      "v8_title": "Establish and Maintain a Service Provider Management Policy",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.3",
+      "v8_title": "Classify Service Providers",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.4",
+      "v8_title": "Ensure Service Provider Contracts Include Security Requirements",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.5",
+      "v8_title": "Assess Service Providers",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.6",
+      "v8_title": "Monitor Service Providers",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "15",
+      "v8_safeguard_id": "15.7",
+      "v8_title": "Securely Decommission Service Providers",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": null,
+      "v8_title": "Application Software Security",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.1",
+      "v8_title": "Establish and Maintain a Secure Application Development Process",
+      "v71_reference": "18.1 Establish Secure Coding Practices"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.2",
+      "v8_title": "Establish and Maintain a Process to Accept and Address Software Vulnerabilities",
+      "v71_reference": "18.8 Establish a Process to Accept and Address Reports of Software Vulnerabilities"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.3",
+      "v8_title": "Perform Root Cause Analysis on Security Vulnerabilities",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.4",
+      "v8_title": "Establish and Manage an Inventory of Third-Party Software Components",
+      "v71_reference": "New,\n18.3 Verify That Acquired Software Is Still Supported"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.5",
+      "v8_title": "Use Up-to-Date and Trusted Third-Party Software Components",
+      "v71_reference": "18.4 Only Use Up-to-Date and Trusted Third-Party Components"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.6",
+      "v8_title": "Establish and Maintain a Severity Rating System and Process for Application Vulnerabilities",
+      "v71_reference": "New,\n3.7 Utilize a Risk-Rating Process"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.7",
+      "v8_title": "Use Standard Hardening Configuration Templates for Application Infrastructure",
+      "v71_reference": "18.11 Use Standard Hardening Configuration Templates for Databases"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.8",
+      "v8_title": "Separate Production and Non-Production Systems",
+      "v71_reference": "18.9 Separate Production and Non-Production Systems"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.9",
+      "v8_title": "Train Developers in Application Security Concepts and Secure Coding",
+      "v71_reference": "18.6 Ensure Software Development Personnel Are Trained in Secure Coding"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.10",
+      "v8_title": "Apply Secure Design Principles in Application Architectures",
+      "v71_reference": "New,\n18.2 Ensure That Explicit Error Checking Is Performed for All In-House Developed Software"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.11",
+      "v8_title": "Leverage Vetted Modules or Services for Application Security Components",
+      "v71_reference": "New,\n18.5 Use only Standardized and Extensively Reviewed Encryption Algorithms"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.12",
+      "v8_title": "Implement Code-Level Security Checks",
+      "v71_reference": "New,\n18.7 Apply Static and Dynamic Code Analysis Tools"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.13",
+      "v8_title": "Conduct Application Penetration Testing",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "16",
+      "v8_safeguard_id": "16.14",
+      "v8_title": "Conduct Threat Modeling",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": null,
+      "v8_title": "Incident Response Management",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.1",
+      "v8_title": "Designate Personnel to Manage Incident Handling",
+      "v71_reference": "19.3 Designate Management Personnel to Support Incident Handling"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.2",
+      "v8_title": "Establish and Maintain Contact Information for Reporting Security Incidents",
+      "v71_reference": "19.5 Maintain Contact Information For Reporting Security Incidents"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.3",
+      "v8_title": "Establish and Maintain an Enterprise Process for Reporting Incidents",
+      "v71_reference": "19.4 Devise Organization-wide Standards For Reporting Incidents,\n19.6 Publish Information Regarding Reporting Computer Anomalies and Incidents"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.4",
+      "v8_title": "Establish and Maintain an Incident Response Process",
+      "v71_reference": "19.1 Document Incident Response Procedures"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.5",
+      "v8_title": "Assign Key Roles and Responsibilities",
+      "v71_reference": "19.2 Assign Job Titles and Duties for Incident Response"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.6",
+      "v8_title": "Define Mechanisms for Communicating During Incident Response",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.7",
+      "v8_title": "Conduct Routine Incident Response Exercises",
+      "v71_reference": "19.7 Conduct Periodic Incident Scenario Sessions for Personnel"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.8",
+      "v8_title": "Conduct Post-Incident Reviews",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "17",
+      "v8_safeguard_id": "17.9",
+      "v8_title": "Establish and Maintain Security Incident Thresholds",
+      "v71_reference": "19.8 Create Incident Scoring and Prioritization Schema"
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": null,
+      "v8_title": "Penetration Testing",
+      "v71_reference": null
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": "18.1",
+      "v8_title": "Establish and Maintain a Penetration Testing Program",
+      "v71_reference": "20.1 Establish a Penetration Testing Program"
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": "18.2",
+      "v8_title": "Perform Periodic External Penetration Tests",
+      "v71_reference": "20.2 Conduct Regular External and Internal Penetration Tests,\n20.3 Perform Periodic Red Team Exercises,\n20.4 Include Tests for Presence of Unprotected System Information and Artifacts"
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": "18.3",
+      "v8_title": "Remediate Penetration Test Findings",
+      "v71_reference": "New,\n3.7 Utilize a Risk-Rating Process"
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": "18.4",
+      "v8_title": "Validate Security Measures",
+      "v71_reference": "New"
+    },
+    {
+      "v8_control_id": "18",
+      "v8_safeguard_id": "18.5",
+      "v8_title": "Perform Periodic Internal Penetration Tests",
+      "v71_reference": "20.2 Conduct Regular External and Internal Penetration Tests,\n20.3 Perform Periodic Red Team Exercises"
+    }
+  ],
+  "v71_deprecated": [
+    {
+      "v71_control_id": "2",
+      "v71_safeguard_id": "2.5",
+      "title": "Integrate Software and Hardware Asset Inventories"
+    },
+    {
+      "v71_control_id": "5",
+      "v71_safeguard_id": "5.2",
+      "title": "Maintain Secure Images"
+    },
+    {
+      "v71_control_id": "5",
+      "v71_safeguard_id": "5.3",
+      "title": "Securely Store Master Images"
+    },
+    {
+      "v71_control_id": "5",
+      "v71_safeguard_id": "5.5",
+      "title": "Implement Automated Configuration Monitoring Systems"
+    },
+    {
+      "v71_control_id": "12",
+      "v71_safeguard_id": "12.5",
+      "title": "Configure Monitoring Systems to Record Network Packets"
+    },
+    {
+      "v71_control_id": "12",
+      "v71_safeguard_id": "12.1",
+      "title": "Decrypt Network Traffic at Proxy"
+    },
+    {
+      "v71_control_id": "13",
+      "v71_safeguard_id": "13.5",
+      "title": "Monitor and Detect Any Unauthorized Use of Encryption"
+    },
+    {
+      "v71_control_id": "13",
+      "v71_safeguard_id": "13.8",
+      "title": "Manage System's External Removable Media's Read/Write Configurations"
+    },
+    {
+      "v71_control_id": "15",
+      "v71_safeguard_id": "15.5",
+      "title": "Limit Wireless Access on Client Devices"
+    },
+    {
+      "v71_control_id": "16",
+      "v71_safeguard_id": "16.13",
+      "title": "Alert on Account Login Behavior Deviation"
+    },
+    {
+      "v71_control_id": "17",
+      "v71_safeguard_id": "17.1",
+      "title": "Perform a Skills Gap Analysis"
+    },
+    {
+      "v71_control_id": "20",
+      "v71_safeguard_id": "20.5",
+      "title": "Create Test Bed for Elements Not Typically Tested in Production"
+    },
+    {
+      "v71_control_id": "20",
+      "v71_safeguard_id": "20.6",
+      "title": "Use Vulnerability Scanning and Penetration Testing Tools in Concert"
+    },
+    {
+      "v71_control_id": "20",
+      "v71_safeguard_id": "20.7",
+      "title": "Ensure Results from Penetration Test are Documented Using Open, Machine-readable Standards"
+    }
+  ]
+}

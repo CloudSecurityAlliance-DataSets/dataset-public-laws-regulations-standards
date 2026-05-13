@@ -1,0 +1,53 @@
+{
+  "secid": "secid:control/aiuc.com/aiuc-1",
+  "name": "AIUC-1 Controls Framework",
+  "acronym": "AIUC-1",
+  "alternate_names": [],
+  "version": "1",
+  "publication_id": "AIUC-1",
+  "owner": "Artificial Intelligence Underwriting Company (AIUC)",
+  "type": "Framework",
+  "description": "AIUC-1 is a controls framework for AI/ML systems published by AIUC, designed to inform AI underwriting and insurance/risk-transfer decisions. Covers technical and governance controls for production AI systems.",
+  "relationToCloudSecurity": "Many AI systems run on cloud infrastructure; AIUC-1 controls overlap with cloud-platform controls (identity, secrets, audit logging) when applied to cloud-hosted AI.",
+  "relationToAISecurity": "AIUC-1 is AI-specific. Companion to other AI control frameworks (CSA AICM, NIST AI RMF, ISO/IEC 42001) but with a distinctive focus on insurability and risk transfer.",
+  "license": {
+    "spdx": "LicenseRef-AIUC-Proprietary",
+    "redistribution": "see_source",
+    "derivatives": "see_source",
+    "publicly_redistributable": false,
+    "license_text_url": "https://aiuc.com",
+    "notes": "AIUC-1 license terms should be verified at aiuc.com before redistribution."
+  },
+  "links": {
+    "source": "https://aiuc.com",
+    "textUsed": "https://aiuc.com/standard",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "AIUC-1 data extracted to CSV/JSON via extract_to_csv.py (in same directory)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction",
+      "tool": "custom Python (extract_to_csv.py)"
+    }
+  ],
+  "scope": {},
+  "notes": "Newer AI-specific controls framework with an insurance underwriting focus."
+}

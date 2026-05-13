@@ -1,0 +1,48 @@
+{
+  "_purpose": "Canonical TSC 2017 (Revised Points of Focus 2022) criterion statements for entries that marker dropped from tsc-2017.json due to page-break layout artifacts. Source: AICPA TSC 2017 (with revised points of focus, 2022). Each record is merged into the parser output ONLY if the criterion_id is missing after marker parsing — the parser never overwrites successfully-extracted text. points_of_focus is intentionally left empty for patched entries; the marker-dropped supporting bullets are not reliably attributable from surrounding orphan rows.",
+  "_extraction_source": "manual_patch",
+  "criteria": [
+    {
+      "criterion_id": "CC1.3",
+      "category": "Common Criteria",
+      "section": "CONTROL ENVIRONMENT",
+      "criterion_text": "COSO Principle 3: Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+      "points_of_focus": ""
+    },
+    {
+      "criterion_id": "CC2.3",
+      "category": "Common Criteria",
+      "section": "COMMUNICATION AND INFORMATION",
+      "criterion_text": "COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+      "points_of_focus": ""
+    },
+    {
+      "criterion_id": "CC6.8",
+      "category": "Common Criteria",
+      "section": "LOGICAL AND PHYSICAL ACCESS CONTROLS",
+      "criterion_text": "The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity's objectives.",
+      "points_of_focus": ""
+    },
+    {
+      "criterion_id": "CC7.1",
+      "category": "Common Criteria",
+      "section": "SYSTEM OPERATIONS",
+      "criterion_text": "To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities.",
+      "points_of_focus": ""
+    },
+    {
+      "criterion_id": "CC7.2",
+      "category": "Common Criteria",
+      "section": "SYSTEM OPERATIONS",
+      "criterion_text": "The entity monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the entity's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.",
+      "points_of_focus": ""
+    },
+    {
+      "criterion_id": "C1.2",
+      "category": "Confidentiality",
+      "section": "ADDITIONAL CRITERIA FOR CONFIDENTIALITY",
+      "criterion_text": "The entity disposes of confidential information to meet the entity's objectives related to confidentiality.",
+      "points_of_focus": ""
+    }
+  ]
+}

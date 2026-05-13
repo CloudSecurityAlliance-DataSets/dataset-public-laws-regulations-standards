@@ -1,0 +1,100 @@
+[
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Training Pipeline Security",
+        "Control ID": "MDS-01",
+        "Control Specification": "Define, implement, and evaluate processes, procedures, and technical measures that ensure the security of the Training Pipeline. This should include the entire codebase used in data preprocessing, model training, and integration components, in addition to datasets and pre-trained models used, following recognized application security best practices (e.g., OWASP Top 10). Regularly review and update these measures to address new security threats and best practices.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Artifact Scanning",
+        "Control ID": "MDS-02",
+        "Control Specification": "Define, implement, and evaluate processes, procedures, and technical measures for the periodic performance of scanning of model artifacts for vulnerabilities and attacks, at each step of the service lifecycle and at each hand over point.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Documentation / Model Card",
+        "Control ID": "MDS-03",
+        "Control Specification": "Define, implement, enforce, and evaluate processes and procedures for documenting, approving, communicating, evaluating, and maintaining model documentation such as Model Cards.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Documentation / Model Card Requirements",
+        "Control ID": "MDS-04",
+        "Control Specification": "Establish minimum characteristics for Model/System Cards and ensure that all Model/System Cards follow this standardized template.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Documentation / Model Card Validation Requirements",
+        "Control ID": "MDS-05",
+        "Control Specification": "Define, implement, and evaluate processes, procedures, and technical measures for the periodic validation of the Model Card with the purpose of ensuring Model Card consistency with the Model implementation ",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Adversarial Attack Analysis",
+        "Control ID": "MDS-06",
+        "Control Specification": "Define, implement, and evaluate processes and technical measures to regularly assess adversarial threats specific to each AI model. Prioritize potential attack vectors based on model architecture, data sources, and deployment environments",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Robustness against Adversarial Attack  / Model Hardening",
+        "Control ID": "MDS-07",
+        "Control Specification": "Define, implement, and evaluate processes, procedures, and technical\nmeasures for Model Hardening to mitigate relevant adversarial attacks as identified in the Threat Analysis and Adversarial Threat Analysis (see control MDS-06)",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Integrity Checks",
+        "Control ID": "MDS-08",
+        "Control Specification": "Regularly calculate and compare checksums using cryptographic hashes of model checkpoints to detect unauthorized modifications (e.g. Model version pinning). Apply at least annually based on the level of risk, or after any change of hands.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Signing/Ownership Verification",
+        "Control ID": "MDS-09",
+        "Control Specification": "Sign models cryptographically and verify signatures to ensure model provenance and ownership, any time the model changes hands or is loaded from storage.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Continuous Monitoring",
+        "Control ID": "MDS-10",
+        "Control Specification": "Define, implement, and evaluate processes, procedures, and technical measures for continuous monitoring of model performance metrics over time to identify sudden shifts or unexpected changes in predictions that could degrade model performance.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Model Failure",
+        "Control ID": "MDS-11",
+        "Control Specification": "Evaluate the need for redundancy in model-serving infrastructure. \nImplement redundancy in AI systems based on this evaluation by deploying multiple models, apps, agents, RAG pipelines, etc, maintaining backups of model serving infrastructure, or implementing a Mixture of Experts architecture.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Open weight model",
+        "Control ID": "MDS-12",
+        "Control Specification": "Establish a process to evaluate risk associated with open weight models. Periodically review these risk factors, and implement a process to monitor and mitigate any determined vulnerabilities.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Secure Model Format",
+        "Control ID": "MDS-13",
+        "Control Specification": "Adopt secure model formats and processes for AI model serialization where applicable.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Model Security",
+        "Control Title": "Server-Side LLM Prompt Construction",
+        "Control ID": "MDS-14",
+        "Control Specification": "Establish a control mechanism to ensure that prompts intended for Large Language Models (LLMs) are constructed server-side, preventing the acceptance of fully-formed prompts directly from users.",
+        "Control Type": "AI-Specific"
+    }
+]

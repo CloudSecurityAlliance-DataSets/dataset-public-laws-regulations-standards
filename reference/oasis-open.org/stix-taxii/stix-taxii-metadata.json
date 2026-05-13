@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/oasis-open.org/stix-taxii",
+  "previous_secid": "secid:reference/mitre.org/stix-taxii",
+  "name": "Structured Threat Information eXpression and Trusted Automated eXchange of Indicator Information",
+  "acronym": "STIX/TAXII",
+  "alternate_names": ["STIX", "TAXII", "STIX 2.1", "OASIS STIX"],
+  "version": "",
+  "publication_id": "STIX-TAXII",
+  "owner": "OASIS Cyber Threat Intelligence Technical Committee — originally MITRE/DHS",
+  "type": "Standard",
+  "description": "STIX is a structured language for representing cyber threat intelligence (threat actors, campaigns, malware, indicators, observed data, courses of action, vulnerabilities). TAXII is the companion protocol for exchanging STIX data between systems (server/client pull, channels, collections). Originally developed by MITRE under DHS sponsorship; transferred to OASIS Cyber Threat Intelligence Technical Committee for standardization. STIX 2.1 is the current OASIS standard; STIX 1.x (MITRE-era XML) is legacy.",
+  "relationToCloudSecurity": "STIX/TAXII underpin cloud-native threat-intelligence platforms and SIEM integrations. Most commercial threat intel feeds, ISAC sharing channels, and platform-native TI (Microsoft Defender TI, AWS Detective, Google Chronicle) speak STIX/TAXII. MITRE ATT&CK ships as STIX 2.0 bundles.",
+  "relationToAISecurity": "STIX has limited AI-specific extensions today; AI-related TI is typically carried in STIX as malware/tool objects with descriptive properties. OASIS CTI TC discusses AI-specific STIX extensions but no normative AI objects yet.",
+  "license": {
+    "spdx": "LicenseRef-OASIS-CTI",
+    "redistribution": "permitted",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.oasis-open.org/policies-guidelines/ipr/",
+    "notes": "STIX/TAXII specifications are OASIS Standards under the OASIS Intellectual Property Rights Policy (Non-Assertion Mode). Implementations and the standards themselves are freely available; attribution to OASIS is expected."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/STIX_Fundamentals",
+    "source": "https://oasis-open.github.io/cti-documentation/",
+    "mitreLegacy": "https://stixproject.github.io/",
+    "stix21Spec": "https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html",
+    "taxii21Spec": "https://docs.oasis-open.org/cti/taxii/v2.1/taxii-v2.1.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013 (STIX 1.0, MITRE)",
+    "active": true,
+    "supersedes": "STIX 1.x (XML, MITRE-era)",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "STIX 2.1 + TAXII 2.1 are the current OASIS Standards. Filed under oasis-open.org per the DNS-canonical rule — OASIS Cyber Threat Intelligence Technical Committee is the publishing organization. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/stix(/taxii) -> secid:reference/oasis-open.org/stix(-taxii)."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (README-only stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "README-only stub. STIX/TAXII specifications are consumed directly from OASIS."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "README pointer to OASIS specifications",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Reference entry. STIX/TAXII are the dominant cyber-threat-intelligence interchange formats."
+}

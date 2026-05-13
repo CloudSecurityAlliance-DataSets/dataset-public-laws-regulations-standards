@@ -1,0 +1,30 @@
+{
+  "secid": "secid:regulation/utah.gov/ucpa",
+  "name": "Utah state legislation: Ucpa",
+  "version": "",
+  "owner": "Utah State Government",
+  "type": "Regulation",
+  "description": "Utah state legislation: Ucpa",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "Unlicense",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. § 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
+  },
+  "links": {
+    "source": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+}

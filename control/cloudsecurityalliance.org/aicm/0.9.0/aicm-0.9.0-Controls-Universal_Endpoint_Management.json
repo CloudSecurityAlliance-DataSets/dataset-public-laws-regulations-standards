@@ -1,0 +1,100 @@
+[
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Devices Policy and Procedures",
+        "Control ID": "UEM-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for all endpoints. Review and update the policies and\nprocedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Application and Service Approval",
+        "Control ID": "UEM-02",
+        "Control Specification": "Define, document, apply and evaluate a list of approved services,\napplications and sources of applications (stores) acceptable for use by endpoints\nwhen accessing or storing organization-managed data.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Compatibility",
+        "Control ID": "UEM-03",
+        "Control Specification": "Define and implement a process for the validation of the endpoint\ndevice's compatibility with operating systems and applications.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Inventory",
+        "Control ID": "UEM-04",
+        "Control Specification": "Maintain an inventory of all endpoints used to store and access company\ndata.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Endpoint Management",
+        "Control ID": "UEM-05",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to enforce policies and controls for all endpoints permitted to access\nsystems and/or store, transmit, or process organizational data.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Automatic Lock Screen",
+        "Control ID": "UEM-06",
+        "Control Specification": "Configure all relevant interactive-use endpoints to require an automatic\nlock screen.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Operating Systems",
+        "Control ID": "UEM-07",
+        "Control Specification": "Manage changes to endpoint operating systems, patch levels, and/or\napplications through the company's change management processes.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Storage Encryption",
+        "Control ID": "UEM-08",
+        "Control Specification": "Protect information from unauthorized disclosure on managed endpoint\ndevices with storage encryption.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Anti-Malware Detection and Prevention",
+        "Control ID": "UEM-09",
+        "Control Specification": "Configure managed endpoints with anti-malware detection and prevention\ntechnology and services.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Software Firewall",
+        "Control ID": "UEM-10",
+        "Control Specification": "Configure managed endpoints with properly configured software firewalls.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Data Loss Prevention",
+        "Control ID": "UEM-11",
+        "Control Specification": "Configure managed endpoints with Data Loss Prevention (DLP) technologies\nand rules in accordance with a risk assessment.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Locate",
+        "Control ID": "UEM-12",
+        "Control Specification": "Enable remote geo-location capabilities for all managed mobile endpoints.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Remote Wipe",
+        "Control ID": "UEM-13",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures to enable the deletion of company data remotely on managed endpoint\ndevices.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Universal Endpoint Management",
+        "Control Title": "Third-Party Endpoint Security Posture",
+        "Control ID": "UEM-14",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nand/or contractual measures to maintain proper security of third-party endpoints\nwith access to organizational assets.\n",
+        "Control Type": "Cloud & AI Related"
+    }
+]

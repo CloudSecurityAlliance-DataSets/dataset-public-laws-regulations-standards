@@ -1,0 +1,492 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AUTHORIZATION BOUNDARY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.28515625,
+          67.2890625
+        ],
+        [
+          506.25,
+          67.2890625
+        ],
+        [
+          506.25,
+          95.90625
+        ],
+        [
+          182.28515625,
+          95.90625
+        ]
+      ]
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.5,
+          321.75
+        ],
+        [
+          246.533203125,
+          321.75
+        ],
+        [
+          246.533203125,
+          344.953125
+        ],
+        [
+          79.5,
+          344.953125
+        ]
+      ]
+    },
+    {
+      "title": "Defining Your Authorization\nBoundary in the Cloud",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.5,
+          409.53515625
+        ],
+        [
+          249.75,
+          409.53515625
+        ],
+        [
+          249.75,
+          432.73828125
+        ],
+        [
+          109.5,
+          432.73828125
+        ]
+      ]
+    },
+    {
+      "title": "Federal Information (Data) in\nthe Cloud",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.22265625,
+          633.83203125
+        ],
+        [
+          259.681640625,
+          633.83203125
+        ],
+        [
+          259.681640625,
+          657.80859375
+        ],
+        [
+          96.22265625,
+          657.80859375
+        ]
+      ]
+    },
+    {
+      "title": "Interconnections in the Cloud",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          108.17578125,
+          55.6875
+        ],
+        [
+          258.0,
+          55.6875
+        ],
+        [
+          258.0,
+          66.90234375
+        ],
+        [
+          108.17578125,
+          66.90234375
+        ]
+      ]
+    },
+    {
+      "title": "Leveraging External Services with a\nFedRAMP Authorization",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          326.91796875,
+          213.46875
+        ],
+        [
+          528.328125,
+          213.46875
+        ],
+        [
+          528.328125,
+          238.9921875
+        ],
+        [
+          326.91796875,
+          238.9921875
+        ]
+      ]
+    },
+    {
+      "title": "JIDING PRINCIPI",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          85.5,
+          644.66015625
+        ],
+        [
+          100.40625,
+          644.66015625
+        ],
+        [
+          100.40625,
+          762.99609375
+        ],
+        [
+          85.5,
+          762.99609375
+        ]
+      ]
+    },
+    {
+      "title": "Define and describe all system data\nflows and interconnections\nhow to get started:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          375.75,
+          660.75
+        ],
+        [
+          400.5,
+          660.75
+        ],
+        [
+          400.5,
+          764.15625
+        ],
+        [
+          375.75,
+          764.15625
+        ]
+      ]
+    },
+    {
+      "title": "following are \"Rules of Thumb\" associated with the system components that are included within an authorization bound\nBOUNDARY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.0,
+          291.0
+        ],
+        [
+          98.53857421875,
+          291.0
+        ],
+        [
+          98.53857421875,
+          578.91796875
+        ],
+        [
+          75.0,
+          578.91796875
+        ]
+      ]
+    },
+    {
+      "title": "Any external service that contains federal informatio\nRULE OF THUMB #2: External services\nmpact the CIA of federal information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          107.25,
+          174.75
+        ],
+        [
+          132.75,
+          174.75
+        ],
+        [
+          132.75,
+          300.09375
+        ],
+        [
+          107.25,
+          300.09375
+        ]
+      ]
+    },
+    {
+      "title": "OUT OF BOUNDARY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          242.6484375,
+          510.75
+        ],
+        [
+          255.0,
+          510.75
+        ],
+        [
+          255.0,
+          579.75
+        ],
+        [
+          242.6484375,
+          579.75
+        ]
+      ]
+    },
+    {
+      "title": "RULE OF THUMB #3: Corporate services that do nov\naffect the CIA of federal information\n\uc694\n\uc774",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          284.25,
+          396.0
+        ],
+        [
+          300.0234375,
+          396.0
+        ],
+        [
+          300.0234375,
+          573.0
+        ],
+        [
+          284.25,
+          573.0
+        ]
+      ]
+    },
+    {
+      "title": "do not process, store, or transmit federal information\nRULE OF THUMB #4: Development environments\nA CSP may utilize \"development environments\" that are used to e\n\u0c4d\u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c3e",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          423.0,
+          394.5
+        ],
+        [
+          447.75,
+          394.5
+        ],
+        [
+          447.75,
+          582.75
+        ],
+        [
+          423.0,
+          582.75
+        ]
+      ]
+    },
+    {
+      "title": "DDITIONAL CONSIDERATIO",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          402.75,
+          185.625
+        ],
+        [
+          415.96875,
+          185.625
+        ],
+        [
+          415.96875,
+          311.30859375
+        ],
+        [
+          402.75,
+          311.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Agency-Specific Security Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          421.048828125,
+          192.75
+        ],
+        [
+          430.611328125,
+          192.75
+        ],
+        [
+          430.611328125,
+          313.435546875
+        ],
+        [
+          421.048828125,
+          313.435546875
+        ]
+      ]
+    },
+    {
+      "title": "Examples of external services that could\nmpact the CIA of the cloud system\necurity posture",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          96.75,
+          36.0
+        ],
+        [
+          118.5,
+          36.0
+        ],
+        [
+          118.5,
+          139.798828125
+        ],
+        [
+          96.75,
+          141.345703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          128
+        ],
+        [
+          "Span",
+          128
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/CSP_A_FedRAMP_Authorization_Boundary_Guidance"
+}

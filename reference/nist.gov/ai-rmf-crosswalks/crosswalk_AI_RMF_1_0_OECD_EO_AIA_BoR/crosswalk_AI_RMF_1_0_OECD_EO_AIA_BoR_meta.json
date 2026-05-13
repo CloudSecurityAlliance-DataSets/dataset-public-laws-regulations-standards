@@ -1,0 +1,131 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Crosswalk",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.72314453125,
+          99.193359375
+        ],
+        [
+          156.4365234375,
+          99.193359375
+        ],
+        [
+          156.4365234375,
+          115.05108642578125
+        ],
+        [
+          89.72314453125,
+          115.05108642578125
+        ]
+      ]
+    },
+    {
+      "title": "An illustration of how NIST AI RMF trustworthiness characteristics\nrelate to the OECD Recommendation on AI, Proposed EU AI Act, Ex-\necutive Order 13960, and Blueprint for an AI Bill of Rights",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.4990234375,
+          116.6923828125
+        ],
+        [
+          524.7421875,
+          116.6923828125
+        ],
+        [
+          524.7421875,
+          169.35321044921875
+        ],
+        [
+          89.4990234375,
+          169.35321044921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/crosswalk_AI_RMF_1_0_OECD_EO_AIA_BoR"
+}

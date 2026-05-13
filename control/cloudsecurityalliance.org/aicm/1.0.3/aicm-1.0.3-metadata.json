@@ -1,0 +1,63 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm@1.0.3",
+  "name": "AI Controls Matrix",
+  "acronym": "AICM",
+  "alternate_names": [
+    "CSA AICM v1.0.3"
+  ],
+  "version": "1.0.3",
+  "publication_id": "AICM-1.0.3",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "CSA AI Controls Matrix v1.0.3 — current AICM release. 243 controls across 18 domains, with cross-framework mappings to AI-specific frameworks (BSI AI C4, EU AI Act, ISO/IEC 42001:2023, NIST AI 600-1). Companion to CCM for general-cloud-security controls; AICM adds AI-specific overlays.",
+  "relationToCloudSecurity": "AICM controls layer on top of cloud-platform controls (covered by CCM). For AI workloads in cloud, both frameworks apply together.",
+  "relationToAISecurity": "AICM is THE current cloud-industry AI controls catalog. Mapped to the four major AI-specific frameworks listed above. Used in CSA STAR Registry self-assessments for AI services.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/ai-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024",
+    "active": true,
+    "supersedes": "AICM 1.0.0–1.0.2",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Current AICM."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed JSON of AICM v1.0.3 with full control set and cross-framework mappings."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Current AICM release",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "controls": 243,
+    "domains": 18,
+    "cross_framework_mappings": [
+      "BSI AI C4",
+      "EU AI Act",
+      "ISO/IEC 42001:2023",
+      "NIST AI 600-1"
+    ]
+  },
+  "notes": "Use this version for current AI control assessments."
+}

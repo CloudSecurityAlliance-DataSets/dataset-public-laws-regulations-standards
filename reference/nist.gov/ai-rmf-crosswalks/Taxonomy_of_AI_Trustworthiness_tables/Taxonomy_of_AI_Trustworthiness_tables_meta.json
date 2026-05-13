@@ -1,0 +1,2952 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UC BERKELEY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          233.94558715820312,
+          43.046630859375
+        ],
+        [
+          380.408203125,
+          43.046630859375
+        ],
+        [
+          380.408203125,
+          55.7928466796875
+        ],
+        [
+          233.94558715820312,
+          55.7928466796875
+        ]
+      ]
+    },
+    {
+      "title": "CENTER FOR LONG-TERM CYBERSECURITY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.32439422607422,
+          69.7928466796875
+        ],
+        [
+          536.994140625,
+          69.7928466796875
+        ],
+        [
+          536.994140625,
+          82.0810546875
+        ],
+        [
+          75.32439422607422,
+          82.0810546875
+        ]
+      ]
+    },
+    {
+      "title": "A Taxonomy of Trustworthiness \nfor Artificial Intelligence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.4921875,
+          533.2362365722656
+        ],
+        [
+          594.4015502929688,
+          533.2362365722656
+        ],
+        [
+          594.4015502929688,
+          631.51171875
+        ],
+        [
+          27.4921875,
+          631.51171875
+        ]
+      ]
+    },
+    {
+      "title": "CLTC WHITE PAPER SERIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          215.4654998779297,
+          225.89678955078125
+        ],
+        [
+          398.0390625,
+          225.89678955078125
+        ],
+        [
+          398.0390625,
+          236.28515625
+        ],
+        [
+          215.4654998779297,
+          236.28515625
+        ]
+      ]
+    },
+    {
+      "title": "A Taxonomy of Trustworthiness \nfor Artificial Intelligence",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.4228515625,
+          299.7852478027344
+        ],
+        [
+          588.1275634765625,
+          299.7852478027344
+        ],
+        [
+          588.1275634765625,
+          398.70703125
+        ],
+        [
+          32.4228515625,
+          398.70703125
+        ]
+      ]
+    },
+    {
+      "title": "CONNECTING PROPERTIES OF TRUSTWORTHINESS WITH",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.25390625,
+          421.91015625
+        ],
+        [
+          475.2263488769531,
+          421.91015625
+        ],
+        [
+          475.2263488769531,
+          434.5677490234375
+        ],
+        [
+          139.25390625,
+          434.5677490234375
+        ]
+      ]
+    },
+    {
+      "title": "RISK MANAGEMENT AND THE AI LIFECYCLE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          178.5498046875,
+          443.56640625
+        ],
+        [
+          433.30078125,
+          443.56640625
+        ],
+        [
+          433.30078125,
+          455.94140625
+        ],
+        [
+          178.5498046875,
+          455.94140625
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          156.5859375,
+          49.7900390625
+        ],
+        [
+          457.47796630859375,
+          49.7900390625
+        ],
+        [
+          457.47796630859375,
+          76.8353271484375
+        ],
+        [
+          156.5859375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          232.9365234375,
+          140.8167724609375
+        ],
+        [
+          378.73638916015625,
+          140.8167724609375
+        ],
+        [
+          378.73638916015625,
+          170.8167724609375
+        ],
+        [
+          232.9365234375,
+          170.8167724609375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          157.6318359375,
+          51.046875
+        ],
+        [
+          457.2724609375,
+          51.046875
+        ],
+        [
+          457.2724609375,
+          76.8353271484375
+        ],
+        [
+          157.6318359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Taxonomy of Trustworthiness for \nArtificial Intelligence",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          114.1532974243164,
+          139.21875
+        ],
+        [
+          504.6872863769531,
+          139.21875
+        ],
+        [
+          504.6872863769531,
+          207.474609375
+        ],
+        [
+          114.1532974243164,
+          207.474609375
+        ]
+      ]
+    },
+    {
+      "title": "AI Lifecycle Stage: Plan and Design",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          97.34326171875,
+          226.6171875
+        ],
+        [
+          281.197265625,
+          226.6171875
+        ],
+        [
+          281.197265625,
+          239.90509033203125
+        ],
+        [
+          97.34326171875,
+          239.90509033203125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          157.18359375,
+          50.80517578125
+        ],
+        [
+          458.40234375,
+          50.80517578125
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          98.83740234375,
+          130.2275390625
+        ],
+        [
+          138.58154296875,
+          130.2275390625
+        ],
+        [
+          138.58154296875,
+          139.6776123046875
+        ],
+        [
+          98.83740234375,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          157.18359375,
+          50.66015625
+        ],
+        [
+          458.40234375,
+          50.66015625
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          98.912109375,
+          130.32421875
+        ],
+        [
+          138.2080078125,
+          130.32421875
+        ],
+        [
+          138.2080078125,
+          139.6776123046875
+        ],
+        [
+          98.912109375,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          157.0341796875,
+          50.853515625
+        ],
+        [
+          457.8046875,
+          50.853515625
+        ],
+        [
+          457.8046875,
+          76.8353271484375
+        ],
+        [
+          157.0341796875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          99.0615234375,
+          130.4208984375
+        ],
+        [
+          138.357421875,
+          130.4208984375
+        ],
+        [
+          138.357421875,
+          139.6776123046875
+        ],
+        [
+          99.0615234375,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          157.18359375,
+          50.466796875
+        ],
+        [
+          458.40234375,
+          50.466796875
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          98.83740234375,
+          130.32421875
+        ],
+        [
+          138.28271484375,
+          130.32421875
+        ],
+        [
+          138.28271484375,
+          139.82159423828125
+        ],
+        [
+          98.83740234375,
+          139.82159423828125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          157.0341796875,
+          50.70849609375
+        ],
+        [
+          457.8046875,
+          50.70849609375
+        ],
+        [
+          457.8046875,
+          76.8353271484375
+        ],
+        [
+          157.0341796875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          99.0,
+          130.130859375
+        ],
+        [
+          138.5068359375,
+          130.130859375
+        ],
+        [
+          138.5068359375,
+          139.82159423828125
+        ],
+        [
+          99.0,
+          139.82159423828125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          157.3330078125,
+          50.853515625
+        ],
+        [
+          458.40234375,
+          50.853515625
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.3330078125,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          99.0615234375,
+          131.0009765625
+        ],
+        [
+          138.357421875,
+          131.0009765625
+        ],
+        [
+          138.357421875,
+          140.39776611328125
+        ],
+        [
+          99.0615234375,
+          140.39776611328125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          157.18359375,
+          50.7568359375
+        ],
+        [
+          458.40234375,
+          50.7568359375
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          98.7626953125,
+          130.904296875
+        ],
+        [
+          138.2080078125,
+          130.904296875
+        ],
+        [
+          138.2080078125,
+          140.39776611328125
+        ],
+        [
+          98.7626953125,
+          140.39776611328125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          157.482421875,
+          50.7568359375
+        ],
+        [
+          458.103515625,
+          50.7568359375
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          157.482421875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          98.98681640625,
+          131.09765625
+        ],
+        [
+          138.43212890625,
+          131.09765625
+        ],
+        [
+          138.43212890625,
+          140.39776611328125
+        ],
+        [
+          98.98681640625,
+          140.39776611328125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          157.482421875,
+          50.70849609375
+        ],
+        [
+          458.103515625,
+          50.70849609375
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          157.482421875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          98.68798828125,
+          130.904296875
+        ],
+        [
+          138.13330078125,
+          130.904296875
+        ],
+        [
+          138.13330078125,
+          140.39776611328125
+        ],
+        [
+          98.68798828125,
+          140.39776611328125
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          156.884765625,
+          50.90185546875
+        ],
+        [
+          458.103515625,
+          50.90185546875
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          98.98681640625,
+          130.6142578125
+        ],
+        [
+          137.68505859375,
+          130.6142578125
+        ],
+        [
+          137.68505859375,
+          139.6776123046875
+        ],
+        [
+          98.98681640625,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          157.18359375,
+          50.99853515625
+        ],
+        [
+          457.8046875,
+          50.99853515625
+        ],
+        [
+          457.8046875,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          99.0615234375,
+          130.517578125
+        ],
+        [
+          137.9091796875,
+          130.517578125
+        ],
+        [
+          137.9091796875,
+          139.6776123046875
+        ],
+        [
+          99.0615234375,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          157.3330078125,
+          50.51513671875
+        ],
+        [
+          458.40234375,
+          50.51513671875
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.3330078125,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          99.13623046875,
+          130.130859375
+        ],
+        [
+          137.53564453125,
+          130.130859375
+        ],
+        [
+          137.53564453125,
+          139.6776123046875
+        ],
+        [
+          99.13623046875,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          157.3330078125,
+          49.5
+        ],
+        [
+          459.0,
+          49.5
+        ],
+        [
+          459.0,
+          76.8353271484375
+        ],
+        [
+          157.3330078125,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: COLLECT AND PROCESS DATA",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          98.53857421875,
+          141.92578125
+        ],
+        [
+          384.29296875,
+          141.92578125
+        ],
+        [
+          384.29296875,
+          154.880859375
+        ],
+        [
+          98.53857421875,
+          154.880859375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          156.884765625,
+          50.5634765625
+        ],
+        [
+          458.103515625,
+          50.5634765625
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          156.884765625,
+          50.70849609375
+        ],
+        [
+          458.103515625,
+          50.70849609375
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          157.18359375,
+          49.5966796875
+        ],
+        [
+          458.40234375,
+          49.5966796875
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: BUILD AND USE MODEL",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          98.68798828125,
+          141.732421875
+        ],
+        [
+          348.732421875,
+          141.732421875
+        ],
+        [
+          348.732421875,
+          154.880859375
+        ],
+        [
+          98.68798828125,
+          154.880859375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          156.5859375,
+          50.466796875
+        ],
+        [
+          458.40234375,
+          50.466796875
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          156.5859375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          99.0,
+          130.2275390625
+        ],
+        [
+          138.58154296875,
+          130.2275390625
+        ],
+        [
+          138.58154296875,
+          139.6776123046875
+        ],
+        [
+          99.0,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          156.884765625,
+          50.61181640625
+        ],
+        [
+          458.103515625,
+          50.61181640625
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          99.0,
+          130.2275390625
+        ],
+        [
+          138.955078125,
+          130.2275390625
+        ],
+        [
+          138.955078125,
+          139.6776123046875
+        ],
+        [
+          99.0,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          157.0341796875,
+          49.5966796875
+        ],
+        [
+          458.40234375,
+          49.5966796875
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.0341796875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: VERIFY AND VALIDATE",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          98.68798828125,
+          142.2158203125
+        ],
+        [
+          344.25,
+          142.2158203125
+        ],
+        [
+          344.25,
+          154.9775390625
+        ],
+        [
+          98.68798828125,
+          154.9775390625
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          157.3330078125,
+          50.66015625
+        ],
+        [
+          458.40234375,
+          50.66015625
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.3330078125,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          99.0,
+          130.0341796875
+        ],
+        [
+          137.4609375,
+          130.0341796875
+        ],
+        [
+          137.4609375,
+          139.6776123046875
+        ],
+        [
+          99.0,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          157.482421875,
+          50.7568359375
+        ],
+        [
+          458.103515625,
+          50.7568359375
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          157.482421875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          157.18359375,
+          49.7900390625
+        ],
+        [
+          458.40234375,
+          49.7900390625
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: DEPLOY AND USE",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          98.53857421875,
+          141.92578125
+        ],
+        [
+          314.96484375,
+          141.92578125
+        ],
+        [
+          314.96484375,
+          154.880859375
+        ],
+        [
+          98.53857421875,
+          154.880859375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          156.884765625,
+          50.853515625
+        ],
+        [
+          458.103515625,
+          50.853515625
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          157.18359375,
+          50.66015625
+        ],
+        [
+          457.8046875,
+          50.66015625
+        ],
+        [
+          457.8046875,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          157.3330078125,
+          49.64501953125
+        ],
+        [
+          459.0,
+          49.64501953125
+        ],
+        [
+          459.0,
+          76.8353271484375
+        ],
+        [
+          157.3330078125,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: OPERATE AND MONITOR",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          98.4638671875,
+          142.119140625
+        ],
+        [
+          356.203125,
+          142.119140625
+        ],
+        [
+          356.203125,
+          155.07421875
+        ],
+        [
+          98.4638671875,
+          155.07421875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          156.884765625,
+          50.61181640625
+        ],
+        [
+          458.103515625,
+          50.61181640625
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          157.482421875,
+          50.5634765625
+        ],
+        [
+          458.103515625,
+          50.5634765625
+        ],
+        [
+          458.103515625,
+          76.8353271484375
+        ],
+        [
+          157.482421875,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          99.0,
+          130.0341796875
+        ],
+        [
+          137.759765625,
+          130.0341796875
+        ],
+        [
+          137.759765625,
+          139.6776123046875
+        ],
+        [
+          99.0,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          157.18359375,
+          50.61181640625
+        ],
+        [
+          458.40234375,
+          50.61181640625
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Continued",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          98.83740234375,
+          130.2275390625
+        ],
+        [
+          137.38623046875,
+          130.2275390625
+        ],
+        [
+          137.38623046875,
+          139.6776123046875
+        ],
+        [
+          98.83740234375,
+          139.6776123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          156.884765625,
+          49.5966796875
+        ],
+        [
+          458.701171875,
+          49.5966796875
+        ],
+        [
+          458.701171875,
+          76.8353271484375
+        ],
+        [
+          156.884765625,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "AI LIFECYCLE STAGE: USE OR IMPACTED BY",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          98.61328125,
+          141.732421875
+        ],
+        [
+          338.2734375,
+          141.732421875
+        ],
+        [
+          338.2734375,
+          154.880859375
+        ],
+        [
+          98.61328125,
+          154.880859375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          157.18359375,
+          50.7568359375
+        ],
+        [
+          458.40234375,
+          50.7568359375
+        ],
+        [
+          458.40234375,
+          76.8353271484375
+        ],
+        [
+          157.18359375,
+          76.8353271484375
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          156.7353515625,
+          49.5
+        ],
+        [
+          457.8046875,
+          49.5
+        ],
+        [
+          457.8046875,
+          76.8603515625
+        ],
+        [
+          156.7353515625,
+          76.8603515625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          199.4677734375,
+          140.185546875
+        ],
+        [
+          414.17578125,
+          140.185546875
+        ],
+        [
+          414.17578125,
+          171.123046875
+        ],
+        [
+          199.4677734375,
+          171.123046875
+        ]
+      ]
+    },
+    {
+      "title": "A T A X O N O M Y O F T R U S T W O R T H I N E S S \nFOR ARTIFICIAL INTELLIGENCE",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          156.4365234375,
+          49.88671875
+        ],
+        [
+          457.2724609375,
+          49.88671875
+        ],
+        [
+          457.2724609375,
+          76.95703125
+        ],
+        [
+          156.4365234375,
+          76.95703125
+        ]
+      ]
+    },
+    {
+      "title": "About the Author",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          201.111328125,
+          140.2822265625
+        ],
+        [
+          412.083984375,
+          140.2822265625
+        ],
+        [
+          412.083984375,
+          170.8167724609375
+        ],
+        [
+          201.111328125,
+          170.8167724609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          20
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Taxonomy_of_AI_Trustworthiness_tables"
+}

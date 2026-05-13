@@ -1,0 +1,18 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Updated: 26 March 2025
+,This page is mobile-friendly.,,
+,,,
+,,,
+,,,
+,Category,Level,Description
+,Entity,AI,The risk is caused by a decision or action made by an AI system 
+,Entity,Human,The risk is caused by a decision or action made by humans 
+,Entity,Other,The risk is caused by some other reason or is ambiguous
+,Intent,Intentional,The risk occurs due to an expected outcome from pursuing a goal
+,Intent,Unintentional,The risk occurs due to an unexpected outcome from pursuing a goal
+,Intent,Other,The risk is presented as occurring without clearly specifying the intentionality
+,Timing,Pre- deployment,The risk occurs before the AI is deployed
+,Timing,Post- deployment,The risk occurs after the AI model has been trained and deployed
+,Timing,Other,The risk is presented without a clearly specified time of occurrence
+,,,
+,,,
+,📧 Email: pslat[at]mit.edu,,

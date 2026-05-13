@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Program Policy and Procedures",
+        "Control ID": "GRC-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for an information governance program, which is sponsored\nby the leadership of the organization and related to AI systems as well. Review and update the policies and procedures\nat least annually.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Risk Management Program",
+        "Control ID": "GRC-02",
+        "Control Specification": "Establish a formal, documented, and leadership-sponsored Enterprise\nRisk Management (ERM) program that includes policies and procedures for identification,\nevaluation, ownership, treatment, and acceptance of cloud security and privacy risks.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Organizational Policy Reviews",
+        "Control ID": "GRC-03",
+        "Control Specification": "Review all relevant organizational policies and associated procedures\nat least annually or when a substantial change occurs within the organization.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Policy Exception Process",
+        "Control ID": "GRC-04",
+        "Control Specification": "Establish and follow an approved exception process as mandated by\nthe governance program whenever a deviation from an established policy occurs.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information Security Program",
+        "Control ID": "GRC-05",
+        "Control Specification": "Develop and implement an Information Security Program, which includes\nprograms for all the relevant domains of the AI-CM.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Governance Responsibility Model",
+        "Control ID": "GRC-06",
+        "Control Specification": "Define and document roles and responsibilities for planning, implementing,\noperating, assessing, and improving governance programs.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Information System Regulatory Mapping",
+        "Control ID": "GRC-07",
+        "Control Specification": "Identify and document all relevant standards, regulations, legal/contractual,\nand statutory requirements, which are applicable to your organization.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Special Interest Groups",
+        "Control ID": "GRC-08",
+        "Control Specification": "Establish and maintain contact with cloud-related special interest\ngroups and other relevant entities in line with business context.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Acceptable Use of the AI Service",
+        "Control ID": "GRC-09",
+        "Control Specification": "\n\nDefine, document and enforce policies and procedures on the acceptable use of AI services offered by the organization. Ensure effectiveness by continuous risk assessments, reviews and human oversight.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "AI Service Bill of Material (BOM)",
+        "Control ID": "GRC-10",
+        "Control Specification": "\nDefine, implement, enforce, and evaluate a process for establishing a Bill of Material for the entire AI service supply chain, including the Model, the Orchestrated services and the (AI) Applications.  ",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "AI Impact Assessment",
+        "Control ID": "GRC-11",
+        "Control Specification": "Establish, document, and communicate to all relevant stakeholders an ongoing AI Impact Assessment process that evaluates the ethical, societal, operational, legal, and security impacts of the AI system throughout its lifecycle.  ",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Bias and Fairness Assessment",
+        "Control ID": "GRC-12",
+        "Control Specification": "Regularly evaluate AI systems, models, datasets & algorithms for bias and fairness to ensure compliance with ethical standards.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Ethics Committee",
+        "Control ID": "GRC-13",
+        "Control Specification": "Establish an ethics committee to review AI applications, ensuring alignment with ethical standards and organizational values. ",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Explainability Requirement",
+        "Control ID": "GRC-14",
+        "Control Specification": "\nEstablish, document, and communicate the degree of explainability needed \nfor the AI Services.",
+        "Control Type": "AI-Specific"
+    },
+    {
+        "Control Domain": "Governance, Risk and Compliance",
+        "Control Title": "Explainability Evaluation",
+        "Control ID": "GRC-15",
+        "Control Specification": "Evaluate, document, and communicate the degree of\nexplainability of the AI Services, including possible limitations \nand exceptions.",
+        "Control Type": "Cloud & AI Related"
+    }
+]

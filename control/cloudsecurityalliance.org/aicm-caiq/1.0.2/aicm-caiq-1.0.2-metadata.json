@@ -1,0 +1,57 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2",
+  "name": "AI Consensus Assessment Initiative Questionnaire",
+  "acronym": "AI-CAIQ",
+  "alternate_names": [
+    "AICM-CAIQ"
+  ],
+  "version": "1.0.2",
+  "publication_id": "AICM-CAIQ-1.0.2",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "AI-specific vendor self-assessment questionnaire derived from AICM. 554 questions structured as one or more yes/no/partial questions per AICM control. AI-CAIQ is to AICM as CAIQ is to CCM — the vendor-attestation form of the controls framework.",
+  "relationToCloudSecurity": "AI service vendors use AI-CAIQ to self-attest controls coverage for STAR Registry entries.",
+  "relationToAISecurity": "Standard mechanism for AI vendors to demonstrate AICM coverage. Companion to AICM v1.0.x.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/ai-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "manual download from upstream",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed JSON of AI-CAIQ v1.0.2."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Current AI-CAIQ release",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "questions": 554,
+    "controls_covered": 243
+  },
+  "notes": "Use alongside AICM v1.0.3 for vendor assessments."
+}

@@ -1,0 +1,64 @@
+{
+  "secid": "secid:control/pcisecuritystandards.org/pci-dss@4.0.1",
+  "name": "Payment Card Industry Data Security Standard",
+  "acronym": "PCI DSS",
+  "version": "4.0.1",
+  "owner": "PCI Security Standards Council, LLC",
+  "type": "Standard",
+  "description": "PCI DSS v4.0.1 (June 2024) is the active payment card industry security standard, a minor revision of v4.0 (March 2022) with errata corrections. Requirement IDs are unchanged from v4.0; the v4.0.1 release contains clarifications only. The standard comprises 12 top-level Requirements organized into 6 goals: Build and Maintain a Secure Network (1-2), Protect Account Data (3-4), Maintain a Vulnerability Management Program (5-6), Implement Strong Access Control Measures (7-9), Regularly Monitor and Test Networks (10-11), and Maintain an Information Security Policy (12). Each requirement is decomposed into sub-requirements (e.g., 1.1.1) with associated Defined Approach Testing Procedures, Customized Approach Objective, Applicability Notes, and guidance (Purpose, Good Practice, Examples, Definitions, Further Information).",
+  "relationToCloudSecurity": "PCI DSS applies to any cloud environment that stores, processes, or transmits cardholder data. Cloud providers and customers both have compliance obligations under PCI DSS v4.0.1, with the boundary defined by the shared responsibility model. Multiple CSA CCM v4 controls map directly to PCI DSS v4.0.1 requirements (cryptography, identity management, access control, logging, vulnerability management). The Customized Approach option introduced in v4.0 (preserved in v4.0.1) is particularly relevant to cloud-native architectures where defined approach controls may not translate directly.",
+  "relationToAISecurity": "PCI DSS does not specifically address AI workloads. AI systems that store, process, or transmit cardholder data remain subject to PCI DSS requirements regardless of the implementation technology. For AI-specific cybersecurity guidance, see CSA AICM, NIST AI RMF (NIST.AI.100-1), and NIST AI 600-1.",
+  "license": {
+    "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
+    "redistribution": "permitted_for_study_purposes",
+    "derivatives": "modification_prohibited_per_section_III_1_2",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+    "notes": "PCI SSC License Agreement grants free Read and Copy License for study purposes. Implementation License (Section II) adds patent non-assertion covenant. Modification of the standard text is prohibited (Section III.1.2). Derived works such as structured extractions for analysis/mapping are permitted under fair-use study purposes."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
+    "source": "https://www.pcisecuritystandards.org/document_library/",
+    "textUsed": "https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0_1.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-06",
+    "active": true,
+    "supersedes": "PCI DSS v4.0 (March 2022)",
+    "supersededBy": null
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-10T10-03-09Z",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Initial extraction at 2026-05-09T22-45-48Z used --force_ocr and produced 6 garbled OCR artifacts plus missed 9 requirement IDs. Re-extracted without --force_ocr at 2026-05-10T10-03-09Z; zero OCR artifacts, 524 unique requirement IDs detected (superset of force_ocr's 515). Runtime dropped from 169 min to 10 min. Force OCR was inappropriate for this clean text-layer PDF."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-09T22-45-48Z",
+      "status": "superseded",
+      "reason": "Force OCR artifacts and 9 missed requirement IDs",
+      "tool": "marker_single",
+      "force_ocr": true
+    },
+    {
+      "s3_timestamp": "2026-05-10T10-03-09Z",
+      "status": "current",
+      "reason": "Clean text-layer extraction; zero OCR artifacts; superset coverage",
+      "tool": "marker_single",
+      "force_ocr": false
+    }
+  ],
+  "scope": {
+    "top_level_requirements": 12,
+    "goals": 6
+  }
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Equipment Disposal Policy and Procedures",
+        "Control ID": "DCS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the secure disposal of equipment used outside the\n organization's premises. If the equipment is not physically destroyed a data\n destruction procedure that renders recovery of information impossible must be\n applied. Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to data destruction.\n 2. Determine if the policy has been approved, communicated, and reviewed.\n 3. Determine if a policy exists that addresses the secure destruction of data and for conditions when equipment is reused as opposed to when equipment is destroyed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Transfer Authorization Policy and Procedures",
+        "Control ID": "DCS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the relocation or transfer of hardware, software,\n or data/information to an offsite or alternate location. The relocation or transfer\n request requires the written or cryptographically verifiable authorization.\n Review and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to relocation, transfer or retirement of assets.\n 2. Determine if policy has been approved, communicated, and reviewed.\n 3. Determine if the policy requires recorded authorisation of movements."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Policy and Procedures",
+        "Control ID": "DCS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for maintaining a safe and secure working environment\n in offices, rooms, and facilities. Review and update the policies and procedures\n at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures related to physical areas under the organization's control.\n 2. Determine if policy has been approved, communicated, and reviewed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Media Transportation Policy and Procedures",
+        "Control ID": "DCS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\n policies and procedures for the secure transportation of physical media. Review\n and update the policies and procedures at least annually.",
+        "Auditing Guidelines": "1. Examine the organization's policy and procedures for secure transportation of physical media.\n 2. Determine if policy has been approved, communicated, and reviewed."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Classification",
+        "Control ID": "DCS-05",
+        "Control Specification": "Classify and document the physical, and logical assets (e.g., applications)\n based on the organizational business risk.",
+        "Auditing Guidelines": "1. Examine the policy relating to defining the organization's business risk.\n 2. Confirm that the physical and logical assets are being classified in accordance with defined policy and procedures. \n 3. Review the asset Inventory to determine if assets are catalogued and tagged according to the organization's business risk classification criteria."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Cataloguing and Tracking",
+        "Control ID": "DCS-06",
+        "Control Specification": "Catalogue and track all relevant physical and logical assets located\n at all of the CSP's sites within a secured system.",
+        "Auditing Guidelines": "1. Examine the policy relating to defining asset location and disposition.\n 2. Examine the asset registers and determine if they are stored and accessed securely."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Controlled Access Points",
+        "Control ID": "DCS-07",
+        "Control Specification": "Implement physical security perimeters to safeguard personnel, data,\n and information systems. Establish physical security perimeters between the\n administrative and business areas and the data storage and processing facilities\n areas.",
+        "Auditing Guidelines": "1. Examine the policy relating to physical security perimeters.\n 2. Examine the lists of types of areas in the organization, and the classification of each.\n 3. Determine if there are appropriate physical security barriers and if monitoring exists between areas."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Identification",
+        "Control ID": "DCS-08",
+        "Control Specification": "Use equipment identification as a method for connection authentication.",
+        "Auditing Guidelines": "1. Examine the policy relating to equipment classification and identification.\n 2. Determine if appropriate methods are implemented. \n 3. Confirm the existence of a process or procedure to track and maintain a list of appropriate equipment permitted for authorised connections."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Authorization",
+        "Control ID": "DCS-09",
+        "Control Specification": "Allow only authorized personnel access to secure areas, with all\n ingress and egress points restricted, documented, and monitored by physical\n access control mechanisms. Retain access control records on a periodic basis\n as deemed appropriate by the organization.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to access to secure areas.\n 2. Determine if the policy includes ingress and egress points to service and delivery areas.\n 3. Determine if procedures include activities and actions against unauthorized personnel in the premises. \n 4. Confirm that existence, review, and retention of Access logs for secure areas are aligned with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Surveillance System",
+        "Control ID": "DCS-10",
+        "Control Specification": "Implement, maintain, and operate datacenter surveillance systems\n at the external perimeter and at all the ingress and egress points to detect\n unauthorized ingress and egress attempts.",
+        "Auditing Guidelines": "1. Examine the policy relating to data center surveillance.\n 2. Determine if the policy includes ingress, egress and external perimeter to detect unauthorized access.\n 3. Determine if procedures include activities and actions against unauthorized personnel in the premises.\n 4. Review and determine if items identified in surveillance system logs for the premises have been actioned in accordance with policy and procedures.\n 5. Determine if logs are maintained and reviewed appropriately."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Unauthorized Access Response Training",
+        "Control ID": "DCS-11",
+        "Control Specification": "Train datacenter personnel to respond to unauthorized ingress or\n egress attempts.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to activities and actions to perform in case of unauthorized access.\n 2. Examine the policy and procedures related to datacenter’s personnel training.\n 3. Determine if the training content is appropriate and approved by the organization.\n 4. Ascertain that appropriate datacenter personnel have completed all relevant training through review of training plans and records. Confirm that these have been completed in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Cabling Security",
+        "Control ID": "DCS-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\n measures that ensure a risk-based protection of power and telecommunication\n cables from a threat of interception, interference or damage at all facilities,\n offices and rooms.",
+        "Auditing Guidelines": "1. Examine the policy and procedures relating to cabling Infrastructure.\n 2. Determine if risk registers are maintained for cabling (For plant and ancillary equipment)."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Environmental Systems",
+        "Control ID": "DCS-13",
+        "Control Specification": "Implement and maintain data center environmental control systems\n that monitor, maintain and test for continual effectiveness the temperature\n and humidity conditions within accepted industry standards.",
+        "Auditing Guidelines": "1. Confirm the existence of policy and procedures relating to environmental control in the datacenter.\n 2. Verify that the environment control systems are documented and operational in accordance with policy and procedures.\n 3. Determine if testing for operational control effectiveness is conducted at regular intervals.\n 4. Determine if environment system logs (e.g., temperature and humidity) are generated and if related monitoring controls are maintained.\n 5. Confirm that the system logs are reviewed on a periodic basis and items are disposed of in accordance with policy and procedures."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Utilities",
+        "Control ID": "DCS-14",
+        "Control Specification": "Secure, monitor, maintain, and test utilities services for continual\n effectiveness at planned intervals.",
+        "Auditing Guidelines": "1. Confirm the existence of the policy and procedures relating to utilities services.\n 2. Confirm that the control effectiveness of utilities services is conducted at periodic intervals.\n 3. Determine if utility services logs are maintained and reviewed periodically.\n 4. Determine if testing of the utilities services is included in the CSP contract with the customer."
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Location",
+        "Control ID": "DCS-15",
+        "Control Specification": "Keep business-critical equipment away from locations subject to high\n probability for environmental risk events.",
+        "Auditing Guidelines": "1. Examine the policy relating to environmental risk.\n 2. Determine if locations are assessed and classified for probability of environmental risk.\n 3. Determine if business-critical equipment is identified."
+    }
+]

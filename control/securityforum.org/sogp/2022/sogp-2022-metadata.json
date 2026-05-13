@@ -1,0 +1,38 @@
+{
+  "secid": "secid:control/securityforum.org/sogp@2022",
+  "name": "Standard of Good Practice for Information Security",
+  "acronym": "SOGP",
+  "alternate_names": [
+    "ISF SOGP",
+    "ISF Standard"
+  ],
+  "version": "2022",
+  "publication_id": "SOGP-2022",
+  "owner": "Information Security Forum (ISF)",
+  "type": "Standard",
+  "description": "The ISF Standard of Good Practice for Information Security 2022 (SOGP) is a comprehensive set of information security controls and good practices, organized by category. SOGP is distributed only to ISF members and is not available for public redistribution. This directory is an info-only stub providing identification, ownership, and contact information.",
+  "relationToCloudSecurity": "SOGP includes guidance on cloud security, similar in scope to ISO/IEC 27017 and CSA CCM but tailored to ISF members' implementation patterns.",
+  "relationToAISecurity": "SOGP 2022 includes coverage of AI and machine learning where relevant to enterprise information security; the exact scope is available only to ISF members.",
+  "license": {
+    "spdx": "LicenseRef-ISF-Members-Only",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_membership",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.securityforum.org/legal/",
+    "notes": "ISF SOGP is distributed exclusively to Information Security Forum members. The standard cannot be redistributed publicly. This directory is an info-only stub. ISF members can access the full content via the ISF Member Portal."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Information_Security_Forum",
+    "source": "https://www.securityforum.org/research/the-standard-of-good-practice-for-information-security-2022/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022",
+    "active": true,
+    "supersedes": "ISF SOGP 2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "SOGP is refreshed periodically (every 1-2 years). v2022 was current at last check; verify against ISF for the latest edition."
+  },
+  "notes": "Info-only stub. The ISF SOGP cannot be redistributed publicly — this entry exists so SecID consumers can identify the standard and find it via ISF membership channels. Auto-generated."
+}

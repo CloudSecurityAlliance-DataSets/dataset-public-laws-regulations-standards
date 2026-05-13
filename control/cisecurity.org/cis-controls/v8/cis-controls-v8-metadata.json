@@ -1,0 +1,58 @@
+{
+  "secid": "secid:control/cisecurity.org/cis-controls@8",
+  "name": "CIS Critical Security Controls",
+  "acronym": "CIS Controls",
+  "alternate_names": ["Critical Security Controls", "CIS CSC", "SANS Top 20 (historical)"],
+  "version": "8",
+  "publication_id": "CIS-Controls-v8",
+  "owner": "Center for Internet Security (CIS)",
+  "type": "Standard",
+  "description": "The CIS Critical Security Controls v8 is a prioritized set of 18 Controls (153 Safeguards) for defending against pervasive cyber attacks. v8 reorganized from v7.1's 20 Controls into 18, consolidated some, and added cloud and mobile-specific safeguards. Safeguards are organized into three Implementation Groups (IG1 ⊂ IG2 ⊂ IG3) representing increasing levels of cybersecurity maturity required to implement them. Each Safeguard specifies its asset type (devices, software, data, network, users), security function (identify, protect, detect, respond, recover), and applicability per Implementation Group.",
+  "relationToCloudSecurity": "CIS Controls v8 added explicit cloud security safeguards in IG2/IG3 (e.g., Control 4 — Secure Configuration of Enterprise Assets and Software — includes safeguards for cloud-native configurations). Maps to CSA CCM, NIST CSF, and ISO 27001 via the published CIS Mappings.",
+  "relationToAISecurity": "CIS Controls v8 does not specifically address AI workloads. AI systems that store, process, or transmit organizational data remain subject to CIS Controls regardless of implementation technology. CIS has not yet published AI-specific control extensions.",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.cisecurity.org/controls/cis-controls-faq",
+    "notes": "CIS Critical Security Controls are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Free for non-commercial and commercial use with attribution. The source XLSX files (CIS_Controls_Version_8.xlsx, CIS_Controls_v8_Change_Log.xlsx) are distributed via CIS WorkBench (free registration required) but the data itself is redistributable. This repo contains the parsed/restructured derivative data, not the source XLSX."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_CIS_Critical_Security_Controls_for_Effective_Cyber_Defense",
+    "source": "https://www.cisecurity.org/controls/v8/",
+    "textUsed": "https://www.cisecurity.org/controls/v8/ (XLSX downloaded from CIS WorkBench, license-restricted source files not committed)",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-05",
+    "active": true,
+    "supersedes": "CIS Controls v7.1",
+    "supersededBy": "CIS Controls v8.1 (June 2024)",
+    "retiredFromActiveUse": null,
+    "notes": "v8 was current 2021-2024. v8.1 (June 2024) is now the active version with minor updates. v8 remains widely referenced in compliance documentation. The included cis-controls-v8-changelog.json maps v8 → v7.1 for organizations migrating from older versions."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "pandas + custom Python (parse_cis.py)",
+    "tool_version": "pandas (any modern version)",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted from the CIS-published XLSX (CIS_Controls_Version_8.xlsx) via parse_cis.py. The XLSX is the authoritative source; the JSON/CSV/MD here are reproducible derivatives. The script reads from $CIS_V8_SRC (defaults to ~/Downloads/). Source XLSX is not committed because the CIS WorkBench distribution mechanism requires per-user registration; the parsed data is the CC-BY redistributable form."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction from CIS WorkBench XLSX, promoted from dataset-private-laws-regulations-standards in 2026-05",
+      "tool": "pandas + parse_cis.py"
+    }
+  ],
+  "scope": {
+    "top_level_controls": 18,
+    "safeguards_total": 153,
+    "implementation_groups": 3
+  },
+  "notes": "Originally extracted in dataset-private-laws-regulations-standards/CIS/CIS-Controls-v8/ pending license verification. CIS publishes CIS Controls under CC-BY 4.0 — derivative data is publicly redistributable with attribution — so this content moves to the public repo. The companion v8.1 should be added when ingested; v8 remains useful for compliance documentation that pre-dates the v8.1 release."
+}

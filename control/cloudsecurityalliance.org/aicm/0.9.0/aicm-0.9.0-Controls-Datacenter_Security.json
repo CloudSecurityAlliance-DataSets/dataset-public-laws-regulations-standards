@@ -1,0 +1,107 @@
+[
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Equipment Disposal Policy and Procedures",
+        "Control ID": "DCS-01",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for the secure disposal of equipment used outside the\norganization's premises. If the equipment is not physically destroyed a data\ndestruction procedure that renders recovery of information impossible must be\napplied. Review and update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Off-Site Transfer Authorization Policy and Procedures",
+        "Control ID": "DCS-02",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for the relocation or transfer of hardware, software,\nor data/information to an offsite or alternate location. The relocation or transfer\nrequest requires the written or cryptographically verifiable authorization.\nReview and update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Policy and Procedures",
+        "Control ID": "DCS-03",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for maintaining a safe and secure working environment\nin offices, rooms, and facilities. Review and update the policies and procedures\nat least annually.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Media Transportation Policy and Procedures",
+        "Control ID": "DCS-04",
+        "Control Specification": "Establish, document, approve, communicate, apply, evaluate and maintain\npolicies and procedures for the secure transportation of physical media. Review\nand update the policies and procedures at least annually.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Classification",
+        "Control ID": "DCS-05",
+        "Control Specification": "Classify and document the physical, and logical assets (e.g., applications)\nbased on the organizational business risk.",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Assets Cataloguing and Tracking",
+        "Control ID": "DCS-06",
+        "Control Specification": "Catalogue and track all relevant physical and logical assets located\nat all of the CSP's sites within a secured system.\n",
+        "Control Type": "Cloud & AI Related"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Controlled Access Points",
+        "Control ID": "DCS-07",
+        "Control Specification": "Implement physical security perimeters to safeguard personnel, data,\nand information systems. Establish physical security perimeters between the\nadministrative and business areas and the data storage and processing facilities\nareas.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Identification",
+        "Control ID": "DCS-08",
+        "Control Specification": "Use equipment identification as a method for connection authentication.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Area Authorization",
+        "Control ID": "DCS-09",
+        "Control Specification": "Allow only authorized personnel access to secure areas, with all\ningress and egress points restricted, documented, and monitored by physical\naccess control mechanisms. Retain access control records on a periodic basis\nas deemed appropriate by the organization.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Surveillance System",
+        "Control ID": "DCS-10",
+        "Control Specification": "Implement, maintain, and operate datacenter surveillance systems\nat the external perimeter and at all the ingress and egress points to detect\nunauthorized ingress and egress attempts.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Unauthorized Access Response Training",
+        "Control ID": "DCS-11",
+        "Control Specification": "Train datacenter personnel to respond to unauthorized ingress or\negress attempts.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Cabling Security",
+        "Control ID": "DCS-12",
+        "Control Specification": "Define, implement and evaluate processes, procedures and technical\nmeasures that ensure a risk-based protection of power and telecommunication\ncables from a threat of interception, interference or damage at all facilities,\noffices and rooms.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Environmental Systems",
+        "Control ID": "DCS-13",
+        "Control Specification": "Implement and maintain data center environmental control systems\nthat monitor, maintain and test for continual effectiveness the temperature\nand humidity conditions within accepted industry standards.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Secure Utilities",
+        "Control ID": "DCS-14",
+        "Control Specification": "Secure, monitor, maintain, and test utilities services for continual\neffectiveness at planned intervals.\n",
+        "Control Type": "Cloud-Specific"
+    },
+    {
+        "Control Domain": "Datacenter Security",
+        "Control Title": "Equipment Location",
+        "Control ID": "DCS-15",
+        "Control Specification": "Keep business-critical equipment away from locations subject to high\nprobability for environmental risk events.\n",
+        "Control Type": "Cloud-Specific"
+    }
+]

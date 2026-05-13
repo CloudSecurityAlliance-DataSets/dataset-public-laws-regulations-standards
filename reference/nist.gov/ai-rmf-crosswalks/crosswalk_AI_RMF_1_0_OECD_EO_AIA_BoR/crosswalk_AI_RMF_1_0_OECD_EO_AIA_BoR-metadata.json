@@ -1,0 +1,62 @@
+{
+  "secid": "secid:reference/nist.gov/ai-rmf-crosswalks/crosswalk_AI_RMF_1_0_OECD_EO_AIA_BoR",
+  "name": "AI RMF 1.0 ↔ OECD / EO / Blueprint AI Bill of Rights Crosswalk",
+  "acronym": "AI RMF — OECD/EO/BoR Crosswalk",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "AI-RMF-1.0-OECD-EO-AIA-BoR-Crosswalk",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Mapping",
+  "description": "NIST-published crosswalk mapping AI RMF 1.0 to: OECD AI Principles, US Executive Orders on AI, and the Blueprint for an AI Bill of Rights. Single document, multiple-framework mapping.",
+  "relationToCloudSecurity": "Helps cloud-hosted AI implementers understand overlap between US-policy frameworks and the AI RMF.",
+  "relationToAISecurity": "Major bridge between AI RMF and US AI policy instruments.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/licensing",
+    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+  },
+  "links": {
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf 1.10.2",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060",
+    "flags": [
+      "--output_format markdown|json",
+      "--highres_image_dpi 288",
+      "--paginate_output"
+    ],
+    "force_ocr": false,
+    "notes": "Extracted from source PDF via the marker pipeline."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single"
+    }
+  ],
+  "scope": {
+    "frameworks_covered": [
+      "OECD AI Principles",
+      "US Executive Orders on AI",
+      "Blueprint for an AI Bill of Rights"
+    ]
+  },
+  "notes": "Three-way crosswalk in a single document."
+}

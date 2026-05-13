@@ -1,0 +1,650 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Preface by the President",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table of Content",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Structure and Content of the Criteria",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Structure",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Content of the AI Cloud Service Compliance Criteria",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                439.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Providing Conformity through independent Audits",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 20,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                293.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Applicable Audit Standards",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                687.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Connection to Other Audits",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                387.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4 Supplementary Requirements of the BSI",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 15,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                176.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.1 Audit Engagement",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2 Criteria to be applied",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                520.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.1 Criteria for Information Security of the AI Service",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                491.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.2 Further Criteria for Transparency and Reporting",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                315.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.3 Subject Matter and Objective of the Audit",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.3.1 Attestation Engagement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                742.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.3.2 Direct Engagement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                408.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.4 Requirements for the System Description and the Written Statement",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                169.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.4.1 System Description",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                140.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.4.2 Written Statement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                673.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.5 Consideration of Subservice Organizations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                465.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.6 Assessing the Fulfillment of Criteria within an Attestation Engagement",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.7 Deviation Handling",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                571.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.8 Reporting",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                736.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.9 Qualification of the Auditor",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                300.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5 Handling of Updates for the AI Cloud Service Compliance Criteria",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                371.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Information on the General Conditions of the AI Service",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Criteria and Supplementary Information",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1 Preliminary Criteria",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                696.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.2 Security & Robustness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.3 Performance & Functionality",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.4 Reliability",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.5 Data Quality",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.6 Data Management",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.7 Explainability",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.8 Bias",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7 Key Concepts & Glossary",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                757.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.1 Adaptation of the C5-Audit Methodology for AI services",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                668.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.2 Glossary",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                292.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Global",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Security & Robustness",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                633.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Performance and Functionality",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                481.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reliability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                188.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Quality",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                651.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Explainability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                450.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Bias",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                277.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Audit-related Terminology",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                771.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 53,
+    "ocr_stats": {
+        "ocr_pages": 3,
+        "ocr_failed": 0,
+        "ocr_success": 3,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 19,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

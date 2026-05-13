@@ -1,0 +1,754 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Audience",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Background",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Trademark Information",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "How to read this document",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Executive Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Predictive AI Taxonomy",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Attack Classification",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                671.3340454101562,
+                0.0
+            ]
+        },
+        {
+            "title": "Stages of Learning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                129.60101318359375,
+                0.0
+            ]
+        },
+        {
+            "title": "Attacker Goals and Objectives",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                605.467041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Attacker Capabilities",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                562.8519897460938,
+                0.0
+            ]
+        },
+        {
+            "title": "Attacker Knowledge",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                605.467041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Modality",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                227.093994140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Evasion Attacks and Mitigations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "White-Box Evasion Attacks",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                554.906005859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Black-Box Evasion Attacks",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                186.53799438476562,
+                0.0
+            ]
+        },
+        {
+            "title": "Transferability of Attacks",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                358.18798828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Mitigations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                677.6959838867188,
+                0.0
+            ]
+        },
+        {
+            "title": "Poisoning Attacks and Mitigations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Availability Poisoning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                272.7140197753906,
+                0.0
+            ]
+        },
+        {
+            "title": "Targeted Poisoning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                367.1100158691406,
+                0.0
+            ]
+        },
+        {
+            "title": "Backdoor Poisoning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                251.5439910888672,
+                0.0
+            ]
+        },
+        {
+            "title": "Model Poisoning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                381.5559997558594,
+                0.0
+            ]
+        },
+        {
+            "title": "Privacy Attacks",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Reconstruction",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                373.8349914550781,
+                0.0
+            ]
+        },
+        {
+            "title": "Membership Inference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                497.12298583984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Model Extraction",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                330.9960021972656,
+                0.0
+            ]
+        },
+        {
+            "title": "Property Inference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                497.12298583984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Mitigations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                190.97900390625,
+                0.0
+            ]
+        },
+        {
+            "title": "Generative AI Taxonomy",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Attack Classification",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                564.7360229492188,
+                0.0
+            ]
+        },
+        {
+            "title": "GenAI Stages of Learning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                190.3679962158203,
+                0.0
+            ]
+        },
+        {
+            "title": "Attacker Goals and Objectives",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                263.8039855957031,
+                0.0
+            ]
+        },
+        {
+            "title": "Attacker Capabilities",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                109.03700256347656,
+                0.0
+            ]
+        },
+        {
+            "title": "AI Supply Chain Attacks and Mitigations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                383.4969787597656,
+                0.0
+            ]
+        },
+        {
+            "title": "Deserialization Vulnerability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                241.0419921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Poisoning Attacks",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                101.74800109863281,
+                0.0
+            ]
+        },
+        {
+            "title": "Mitigations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                499.0760192871094,
+                0.0
+            ]
+        },
+        {
+            "title": "Direct Prompt Injection Attacks and Mitigations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                313.2710266113281,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Extraction",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                100.58599853515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Mitigations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                677.6959838867188,
+                0.0
+            ]
+        },
+        {
+            "title": "Indirect Prompt Injection Attacks and Mitigations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                205.4250030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "Availability Violations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                634.8250122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "Integrity Violations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                140.4189910888672,
+                0.0
+            ]
+        },
+        {
+            "title": "Privacy Compromises",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                381.0579833984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Abuse Violations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                497.12298583984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Mitigations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                258.7669982910156,
+                0.0
+            ]
+        },
+        {
+            "title": "Discussion and Remaining Challenges",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Scale Challenge",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                671.3340454101562,
+                0.0
+            ]
+        },
+        {
+            "title": "Theoretical Limitations on Adversarial Robustness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                306.6340026855469,
+                0.0
+            ]
+        },
+        {
+            "title": "The Open vs. Closed Model Dilemma",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                359.8879699707031,
+                0.0
+            ]
+        },
+        {
+            "title": "Supply chain challenges",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 61,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                612.6900024414062,
+                0.0
+            ]
+        },
+        {
+            "title": "Tradeoffs Between the Attributes of Trustworthy AI",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 61,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                357.10601806640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Multimodal Models: Are They More Robust?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                634.3579711914062,
+                0.0
+            ]
+        },
+        {
+            "title": "Quantized models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                289.677001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix: Glossary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 99,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                692.239013671875,
+                0.0
+            ]
+        }
+    ],
+    "pages": 107,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 197,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

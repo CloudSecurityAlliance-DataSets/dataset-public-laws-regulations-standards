@@ -1,0 +1,144 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cwe-ai-analysis"
+version = "1.0.0"
+description = "Analyze CWE entries for AI security relevance using a two-view classification model"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Cloud Security Alliance", email = "research@cloudsecurityalliance.org"}
+]
+keywords = [
+    "cwe",
+    "security",
+    "ai",
+    "machine-learning",
+    "vulnerability",
+    "mitre",
+    "classification"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Security",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    # Data validation and models - Pydantic provides automatic validation,
+    # serialization, and clear schema documentation. Essential for ensuring
+    # data integrity when processing CWE entries from various sources.
+    "pydantic>=2.0.0",
+
+    # CLI framework - Typer provides a modern CLI experience with automatic
+    # help generation from type hints. Chosen over argparse for better
+    # developer experience and cleaner code.
+    "typer>=0.9.0",
+
+    # Progress bars - Essential for user feedback when processing 900+ CWE
+    # entries. Shows progress and estimated time remaining.
+    "tqdm>=4.65.0",
+
+    # Data processing - Pandas handles CSV reading/writing efficiently and
+    # provides powerful data manipulation capabilities for filtering and
+    # transforming CWE data.
+    "pandas>=2.0.0",
+
+    # Environment configuration - Allows configuration via .env files,
+    # keeping sensitive settings and paths out of code.
+    "python-dotenv>=1.0.0",
+
+    # Rich terminal output - Provides beautiful formatting for CLI output,
+    # including tables, syntax highlighting, and styled text.
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    # Testing framework
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+
+    # Code quality
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "mypy>=1.0.0",
+    "ruff>=0.1.0",
+
+    # Type stubs for dependencies
+    "pandas-stubs>=2.0.0",
+    "types-tqdm>=4.65.0",
+]
+
+[project.scripts]
+# Main CLI entry point - allows running as `cwe-ai` after installation
+cwe-ai = "cwe_ai_analysis.cli:app"
+
+[project.urls]
+Homepage = "https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards"
+Documentation = "https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/frameworks-guidance/industry/MITRE/CWE/scripts"
+Repository = "https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["cwe_ai_analysis*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # Pyflakes
+    "I",   # isort
+    "B",   # flake8-bugbear
+    "C4",  # flake8-comprehensions
+    "UP",  # pyupgrade
+]
+ignore = [
+    "E501",  # line too long (handled by black)
+]
+
+[tool.coverage.run]
+source = ["cwe_ai_analysis"]
+branch = true
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise NotImplementedError",
+    "if TYPE_CHECKING:",
+]

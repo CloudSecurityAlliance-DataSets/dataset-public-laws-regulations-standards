@@ -1,0 +1,37 @@
+{
+  "metaData": {
+    "name": "AI Risk Management Framework",
+    "acronym": "NIST AI RMF",
+    "owner": "NIST",
+    "itemType": "Framework",
+    "locality": "",
+    "description": "The AI Risk Management Framework (NIST AI RMF) provides a set of guidelines for identifying, assessing, and managing risks associated with AI systems to promote trustworthy and responsible AI.",
+    "relationToCloudSecurity": "",
+    "relationToAISecurity": "The framework addresses AI security by providing guidelines for ensuring the security, robustness, and reliability of AI systems, and mitigating risks related to AI technologies."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "textUsed": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "csaLocation": ""
+  },
+  "conversionProcess": [
+    "Downloaded the PDF from the official NIST website",
+    "Converted the PDF to text or Markdown format",
+    "Performed cleanup and structured the data into CSV and JSON formats"
+  ],
+  "fileFormatNotes": "",
+  "fileDataRemovalNotes": [
+    {
+      "name": "",
+      "notes": ""
+    }
+  ],
+  "files": {
+    "downloadedFile": "NIST.AI.600-1.pdf",
+    "markdownFileFull": "",
+    "markdownFileProcessed": "",
+    "csvFile": "",
+    "jsonFile": "NIST.AI.600-1.json"
+  }
+}
