@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/gov.uk/data-protection-act-2018",
+  "name": "Data Protection Act 2018",
+  "acronym": "DPA 2018",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "data-protection-act-2018",
+  "owner": "UK Parliament",
+  "type": "Regulation",
+  "description": "UK Data Protection Act 2018 — implements UK GDPR with UK-specific provisions, including law enforcement and intelligence services processing.",
+  "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
+  "relationToAISecurity": "Applies to AI systems within scope.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "UK Open Government Licence v3.0."
+  },
+  "links": {
+    "source": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Royal Assent 2018-05-23; effective 2018-05-25."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract."
+}

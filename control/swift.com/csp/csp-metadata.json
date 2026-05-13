@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/swift.com/csp",
+  "name": "SWIFT Customer Security Programme (CSCF)",
+  "acronym": "SWIFT CSP",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "csp",
+  "owner": "SWIFT",
+  "type": "Framework",
+  "description": "SWIFT Customer Security Controls Framework — mandatory cybersecurity controls for institutions using the SWIFT financial messaging network. Annual self-attestation required.",
+  "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
+  "relationToAISecurity": "Applies to AI systems within scope.",
+  "license": {
+    "spdx": "LicenseRef-SWIFT",
+    "redistribution": "see_source",
+    "derivatives": "see_source",
+    "publicly_redistributable": false,
+    "license_text_url": "",
+    "notes": "SWIFT publications subject to SWIFT customer terms."
+  },
+  "links": {
+    "source": "https://www.swift.com/myswift/customer-security-programme-csp",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Annual updates; current version published by SWIFT."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract."
+}

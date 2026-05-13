@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/pcisecuritystandards.org/pci-pin",
+  "name": "PCI PIN Security Requirements",
+  "acronym": "PCI PIN",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pci-pin",
+  "owner": "PCI Security Standards Council",
+  "type": "Standard",
+  "description": "PCI PIN Security Requirements — security requirements for the protection of cardholder PIN data. Companion to PCI DSS for organizations handling PINs.",
+  "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
+  "relationToAISecurity": "Applies to AI systems within scope.",
+  "license": {
+    "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
+    "redistribution": "permitted_for_study_purposes",
+    "derivatives": "modification_prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+    "notes": "PCI SSC Read-Copy License; free download with click-through."
+  },
+  "links": {
+    "source": "https://www.pcisecuritystandards.org/document_library/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract."
+}

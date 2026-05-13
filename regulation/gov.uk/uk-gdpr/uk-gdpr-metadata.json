@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/gov.uk/uk-gdpr",
+  "name": "UK General Data Protection Regulation",
+  "acronym": "UK GDPR",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "uk-gdpr",
+  "owner": "UK Government / ICO",
+  "type": "Regulation",
+  "description": "UK General Data Protection Regulation — post-Brexit retained version of the EU GDPR, modified by the UK Data Protection Act 2018 and subsequent UK-specific amendments. Enforced by the Information Commissioner's Office (ICO).",
+  "relationToCloudSecurity": "UK GDPR governs cloud services processing UK personal data.",
+  "relationToAISecurity": "AI systems processing UK personal data must comply with UK GDPR; ICO guidance addresses AI-specific risks.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "UK Open Government Licence v3.0."
+  },
+  "links": {
+    "source": "https://www.legislation.gov.uk/eur/2016/679/contents",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Effective 2021-01-01 (post-Brexit transition). Companion to Data Protection Act 2018."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire source and extract."
+}
