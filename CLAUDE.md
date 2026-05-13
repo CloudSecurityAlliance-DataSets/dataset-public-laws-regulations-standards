@@ -149,17 +149,7 @@ This repository contains documentation and data files — no build, lint, or tes
 
 ### PDF → markdown
 
-Two extraction paths. Both are driven from `tools-resources/utils/`. Output for publicly-redistributable docs lands in this repo; for licensed/restricted PDFs (IEEE, members-only frameworks) point `--output-dir` at a sibling path in [`dataset-private-laws-regulations-standards`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards) (its [`PROCESSING.md`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards/blob/main/PROCESSING.md) has the cross-repo invocation).
-
-#### Local Mac (small docs, <~50 pages)
-
-```bash
-tools-resources/utils/pdf_to_md.sh /path/to/source.pdf [output_dir]
-```
-
-Uses the isolated marker venv at `~/.venvs/marker/`. CPU-bound; fine for small documents.
-
-#### GPU box (larger docs, OCR work, anything where speed matters)
+**Always use the GPU box** (`markersinglehost`). Local CPU extraction via `marker_single` is unusably slow and is not the right tool for this repo's documents. Driven from `tools-resources/utils/pdf_to_md_via_gpu.sh`. Output for publicly-redistributable docs lands in this repo; for licensed/restricted PDFs (IEEE, members-only frameworks) point `--output-dir` at a sibling path in [`dataset-private-laws-regulations-standards`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards) (its [`PROCESSING.md`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards/blob/main/PROCESSING.md) has the cross-repo invocation).
 
 ```bash
 tools-resources/utils/pdf_to_md_via_gpu.sh \
