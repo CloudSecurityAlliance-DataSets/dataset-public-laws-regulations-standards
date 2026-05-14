@@ -2,7 +2,10 @@
   "secid": "secid:weakness/mitre.org/cwe@4.19.1",
   "name": "Common Weakness Enumeration",
   "acronym": "CWE",
-  "alternate_names": ["MITRE CWE", "CWE List"],
+  "alternate_names": [
+    "MITRE CWE",
+    "CWE List"
+  ],
   "version": "4.19.1",
   "publication_id": "CWE-4.19.1",
   "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
@@ -35,12 +38,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "custom Python (process-CWE-JSON.py family) over MITRE-published CSV/XML",
+    "tool": "custom Python (merge_cwe_views.py) over MITRE-published per-view CSVs",
     "tool_version": "n/a",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "CWE is distributed in machine-readable forms by MITRE — no PDF extraction needed. The 1000 (Research Concepts), 699 (Software Development), and 1194 (Hardware Design) view CSVs are committed alongside their derived JSON form."
+    "notes": "MITRE publishes CWE 4.19.1 as per-view CSVs. The 3 views in this repo (1000 Research Concepts, 699 Software Development, 1194 Hardware Design) overlap — a given CWE often appears in multiple views with view-specific relationship data. merge_cwe_views.py unifies them into cwe-4.19.1-all.{csv,json} keyed by cwe_id with a `views` list and `related_weaknesses_by_view` dict. 944 distinct entries (501 in 2+ views)."
   },
   "extraction_history": [
     {
@@ -48,10 +51,32 @@
       "status": "current",
       "reason": "Direct download of MITRE-published view CSVs",
       "tool": "manual + process-CWE-JSON.py"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Unified per-view CSVs into single weakness catalog",
+      "tool": "custom Python"
     }
   ],
   "scope": {
-    "views_included": ["CWE-1000 (Research Concepts)", "CWE-699 (Software Development)", "CWE-1194 (Hardware Design)"]
+    "distinct_cwe_entries": 944,
+    "in_view_1000_research_concepts": 944,
+    "in_view_699_software_development": 399,
+    "in_view_1194_hardware_design": 110,
+    "in_multiple_views": 501,
+    "by_abstraction": {
+      "Base": 523,
+      "Variant": 292,
+      "Class": 112,
+      "Pillar": 10,
+      "Compound": 7
+    },
+    "views_included": [
+      "1000 (Research Concepts)",
+      "699 (Software Development)",
+      "1194 (Hardware Design)"
+    ]
   },
   "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions."
 }
