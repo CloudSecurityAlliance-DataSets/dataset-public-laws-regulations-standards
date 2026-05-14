@@ -239,4 +239,4 @@ When adding a new document:
 3. **Create the directory** and add `[dirname]-metadata.json` per METADATA-SCHEMA.md
 4. **Add content files** following the conventions above
 
-If the standard is licensed/restricted (e.g., IEEE, members-only frameworks) and we can't redistribute, the directory contains only the metadata file with `"license.publicly_redistributable": false`. The actual content stays in S3 private and is served via the future private SecID resolver.
+**Licensed material is not committed to this repo.** Sources whose terms prohibit redistribution — e.g., ISO/IEC standards, IEEE standards, members-only frameworks — must not be added here in any form (no full content, no metadata stub, no README). Identity records for such sources live in the SecID registry (`~/GitHub/CloudSecurityAlliance/SecID/registry/{type}/{tld}/{org}.json`). Full extracted content lives in the companion private repo `dataset-private-laws-regulations-standards`, accessible only to authorized CSA users via the future private SecID resolver.
