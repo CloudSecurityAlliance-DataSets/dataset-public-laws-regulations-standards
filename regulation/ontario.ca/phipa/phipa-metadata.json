@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/ontario.ca/phipa",
+  "name": "Personal Health Information Protection Act, 2004",
+  "acronym": "PHIPA",
+  "alternate_names": ["Ontario PHIPA"],
+  "version": "2004",
+  "publication_id": "phipa",
+  "owner": "Government of Ontario (Information and Privacy Commissioner of Ontario)",
+  "type": "Regulation",
+  "description": "Ontario's health information privacy law (SO 2004 c 3 Sched A). Governs the collection, use, and disclosure of personal health information by health information custodians.",
+  "relationToCloudSecurity": "Applies to cloud-hosted health information systems used by Ontario custodians.",
+  "relationToAISecurity": "Applies to AI systems processing personal health information within PHIPA scope.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario",
+    "notes": "Queen's Printer for Ontario. Crown copyright; reproduction permitted with attribution per Ontario's open-data terms."
+  },
+  "links": {
+    "source": "https://www.ontario.ca/laws/statute/04p03",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2004",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "In force since 2004; multiple amendments since."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "playwright + bs4",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Source HTML fetched via Playwright from https://www.ontario.ca/laws/statute/04p03 (ontario.ca rejects automated curl with HTTP 403). extract_ontario_phipa.py walks the e-Laws p.section / p.headnote / p.subsection structure to produce per-section structured CSV/JSON (110 sections)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Canadian provincial health privacy law acquisition",
+      "tool": "Playwright + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}
