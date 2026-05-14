@@ -1,5 +1,5 @@
 {
-  "secid": "secid:control/nist.gov/800-53a",
+  "secid": "secid:control/nist.gov/800-53a@r5",
   "name": "Assessing Security and Privacy Controls in Information Systems and Organizations",
   "acronym": "SP 800-53A",
   "alternate_names": [],
@@ -32,12 +32,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "tool": "openpyxl + custom Python (extract_800_53a.py)",
+    "tool_version": "openpyxl 3.x",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "notes": "Extracted from the NIST-published XLSX (sp800-53Ar5-assessment-procedures.xlsx) which is the authoritative structured form. Each row is one assessment objective; controls have multiple objectives. Output: 800-53a-r5-assessment-procedures.csv and .json with 5,383 rows across 4,850 distinct controls/enhancements in 20 families."
   },
   "extraction_history": [
     {
@@ -45,10 +45,46 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Switched to NIST-published XLSX as canonical source; marker extraction of the PDF had timed out at 30 min",
+      "tool": "openpyxl + extract_800_53a.py"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Switched to NIST-published XLSX as canonical source (marker extraction of the 480-page PDF had timed out at 30 min)",
+      "tool": "openpyxl + extract_800_53a.py"
     }
   ],
   "scope": {
-    "current_revision": "r5"
+    "assessment_objective_rows": 5383,
+    "distinct_controls_or_enhancements": 4850,
+    "families": 20,
+    "family_codes": [
+      "AC",
+      "AT",
+      "AU",
+      "CA",
+      "CM",
+      "CP",
+      "IA",
+      "IR",
+      "MA",
+      "MP",
+      "PE",
+      "PL",
+      "PM",
+      "PS",
+      "PT",
+      "RA",
+      "SA",
+      "SC",
+      "SI",
+      "SR"
+    ]
   },
   "notes": "Metadata stub; acquire from NIST CSRC and extract."
 }
