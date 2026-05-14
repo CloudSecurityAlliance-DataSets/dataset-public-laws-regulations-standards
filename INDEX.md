@@ -20,9 +20,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | State | Count |
 |---|---|
-| structured | 48 |
+| structured | 53 |
 | extracted | 153 |
-| metadata-only | 106 |
+| metadata-only | 101 |
 | readme-only | 4 |
 | empty | 6 |
 
@@ -264,14 +264,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/delaware.gov/delaware-personal-data-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/delaware-personal-data-privacy-act` |
 | `regulation/delaware.gov/dpdpa/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/dpdpa` |
 | `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
-| `regulation/europa.eu/cra/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/cra` |
-| `regulation/europa.eu/data-act/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/data-act` |
-| `regulation/europa.eu/dma/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/dma` |
+| `regulation/europa.eu/cra/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/cra` |
+| `regulation/europa.eu/data-act/` | structured | 7 | `M··CS··` | `secid:regulation/europa.eu/data-act` |
+| `regulation/europa.eu/dma/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/dma` |
 | `regulation/europa.eu/dora/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
-| `regulation/europa.eu/dsa/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/dsa` |
-| `regulation/europa.eu/eprivacy/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/eprivacy` |
+| `regulation/europa.eu/dsa/` | structured | 7 | `M··CS··` | `secid:regulation/europa.eu/dsa` |
+| `regulation/europa.eu/eprivacy/` | metadata-only | 3 | `M······` | `secid:regulation/europa.eu/eprivacy` |
 | `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
-| `regulation/europa.eu/nis2/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/nis2` |
+| `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
 | `regulation/gov.uk/data-protection-act-2018/` | metadata-only | 2 | `M······` | `secid:regulation/gov.uk/data-protection-act-2018` |

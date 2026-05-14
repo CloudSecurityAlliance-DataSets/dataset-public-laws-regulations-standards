@@ -34,12 +34,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
+    "tool": "Playwright (HTML retrieval, EUR-Lex WAF bypass) + extract_eu_regulation.py (ELI parser)",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "HTML fetched via Playwright (EUR-Lex WAF blocks automated curl) then parsed with the generic regulation/europa.eu/extract_eu_regulation.py using ELI class markup. CELEX 32022R1925. Output: DMA-articles.{csv,json} (54 articles), DMA-recitals.{csv,json} (109 recitals), DMA-annexes.{csv,json} (1 annexes)."
   },
   "extraction_history": [
     {
@@ -47,8 +47,19 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction; HTML fetched via Playwright (EUR-Lex WAF) and parsed via shared ELI extractor",
+      "tool": "Playwright + custom Python"
     }
   ],
-  "scope": {},
+  "scope": {
+    "articles": 54,
+    "recitals": 109,
+    "annexes": 1,
+    "celex": "32022R1925"
+  },
   "notes": "Metadata stub; acquire source and extract."
 }
