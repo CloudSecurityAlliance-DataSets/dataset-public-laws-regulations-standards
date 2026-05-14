@@ -101,10 +101,25 @@ These are free to download for personal use but publishers explicitly retain cop
 
 License terms could not be determined from publisher websites during automated checking. Each needs a manual check (download a sample PDF and read the footer / contact the publisher).
 
+*Standards bodies / industry consortia:*
+
 - [ ] **STET PSD2 API** (`stet.eu`) — Resources page lists downloadable PDFs/YAML/JSON but no license stated; "Legals" page returned 404. Inspect a downloaded spec PDF for license footer or contact STET.
 - [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`) — Policy and permanent-documents URLs returned 404. The spec PDF itself likely carries a license statement; download and inspect, or contact `hello@kantarainitiative.org`.
 - [ ] **OIX Trust Framework methodology** (`openidentityexchange.org`) — Policies page returned 403 (auth-gated). Need a direct PDF inspection or member-list query.
 - [ ] **BIS Indigenous Indian Standards** (`bis.gov.in`) — Their portal at `standardsbis.bsbedge.com` advertises "Indigenous Indian Standards can be downloaded free of cost" but doesn't publish explicit redistribution terms. ISO/IEC adoptions remain subject to ISO terms regardless. Contact BIS or inspect a downloaded indigenous-IS PDF.
+
+*Central-bank-operated payment systems (operating manuals published publicly but redistribution terms typically not stated):*
+
+- [ ] **PIX** (`bcb.gov.br`) — Brazilian Central Bank operates PIX; public operational manuals at `https://www.bcb.gov.br/en/financialstability/pix`. Government publication, copyright typically vests in BCB. Some participant operational manuals are restricted. Brazilian law may permit gov-publication reuse (similar to US federal-government works); confirm.
+- [ ] **PromptPay** (`bot.or.th`) — Bank of Thailand operates PromptPay; operational rules public on bot.or.th. Participant security partly members-only. Same posture as PIX: gov publication, redistribution terms typically not stated.
+- [ ] **CoDi + SPEI** (`banxico.org.mx`) — Banxico operates both. Operational rules public on banxico.org.mx; participant rules partly restricted.
+- [ ] **PESONet + InstaPay** (`bsp.gov.ph`) — Bangko Sentral ng Pilipinas operates both. Members-only participant rules with public framework documents available on bsp.gov.ph.
+
+*India Stack — government-published technical specs:*
+
+- [ ] **Aadhaar Authentication API** (`uidai.gov.in`) — UIDAI publishes API and e-KYC specs publicly at uidai.gov.in. UIDAI / Government of India copyright. AUA/KUA participation contracts (which embed information security audit requirements) are NDA-restricted. The pure API specification likely permits citation/reference but bulk redistribution terms unclear.
+- [ ] **DigiLocker Integration Specifications** (`digilocker.gov.in`) — Free download; Government of India copyright.
+- [ ] **IDRBT publications** (`idrbt.ac.in`) — RBI-affiliated research institute publishes mixed-access materials; cybersecurity framework partially public, deeper operational guidance restricted.
 
 ### Important nuance: derivatives vs. originals under CC BY-ND
 
