@@ -37,12 +37,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
+    "tool": "Playwright (HTML retrieval, EUR-Lex WAF bypass) + extract_eu_regulation.py (ELI parser)",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "notes": "HTML fetched via Playwright (EUR-Lex WAF blocks automated curl) then parsed with the generic regulation/europa.eu/extract_eu_regulation.py using ELI class markup. CELEX 32022L2555. Output: NIS2-articles.{csv,json} (46 articles), NIS2-recitals.{csv,json} (144 recitals), NIS2-annexes.{csv,json} (3 annexes)."
   },
   "extraction_history": [
     {
@@ -50,12 +50,19 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction; HTML fetched via Playwright (EUR-Lex WAF) and parsed via shared ELI extractor",
+      "tool": "Playwright + custom Python"
     }
   ],
   "scope": {
-    "sectors_covered": 18,
-    "essential_entities": "energy, transport, banking, FMI, health, water/wastewater, digital infrastructure, ICT mgmt, public admin, space",
-    "important_entities": "postal, waste, chemicals, food, manufacturing, digital providers, research"
+    "articles": 46,
+    "recitals": 144,
+    "annexes": 3,
+    "celex": "32022L2555"
   },
   "notes": "Major EU cybersecurity directive. Acquire from EUR-Lex (2022/2555) for structured extraction."
 }

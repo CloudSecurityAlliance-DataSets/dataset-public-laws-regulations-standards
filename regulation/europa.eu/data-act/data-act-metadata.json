@@ -34,12 +34,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
+    "tool": "Playwright (HTML retrieval, EUR-Lex WAF bypass) + extract_eu_regulation.py (ELI parser)",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "HTML fetched via Playwright (EUR-Lex WAF blocks automated curl) then parsed with the generic regulation/europa.eu/extract_eu_regulation.py using ELI class markup. CELEX 32023R2854. Output: Data Act-articles.{csv,json} (50 articles), Data Act-recitals.{csv,json} (120 recitals)."
   },
   "extraction_history": [
     {
@@ -47,8 +47,19 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction; HTML fetched via Playwright (EUR-Lex WAF) and parsed via shared ELI extractor",
+      "tool": "Playwright + custom Python"
     }
   ],
-  "scope": {},
+  "scope": {
+    "articles": 50,
+    "recitals": 120,
+    "annexes": 0,
+    "celex": "32023R2854"
+  },
   "notes": "Metadata stub; acquire source and extract."
 }
