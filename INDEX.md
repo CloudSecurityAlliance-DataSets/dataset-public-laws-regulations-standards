@@ -315,7 +315,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
-| `weakness/mitre.org/cwe/4.19.1/` | structured | 8 | `M··CS··` | `secid:weakness/mitre.org/cwe@4.19.1` |
+| `weakness/mitre.org/cwe/4.19.1/` | structured | 11 | `M··CS··` | `secid:weakness/mitre.org/cwe@4.19.1` |
 | `weakness/mitre.org/maec/` | metadata-only | 2 | `M······` | `secid:weakness/mitre.org/maec` |
 
 ## ttp/
