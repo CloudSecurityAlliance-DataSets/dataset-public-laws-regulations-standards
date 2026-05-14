@@ -26,5 +26,22 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "varies",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Source PDF acquired and marker-extracted to markdown. PDF from leg.colorado.gov + marker. Structured per-CRS-section parsing TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Priority-list acquisition (Marker)",
+      "tool": "marker + custom Python"
+    }
+  ]
 }
