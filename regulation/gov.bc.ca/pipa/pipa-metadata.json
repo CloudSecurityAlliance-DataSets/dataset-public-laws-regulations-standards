@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/gov.bc.ca/pipa",
+  "name": "Personal Information Protection Act",
+  "acronym": "PIPA (BC)",
+  "alternate_names": ["BC PIPA"],
+  "version": "",
+  "publication_id": "pipa",
+  "owner": "Government of British Columbia (Queen's Printer)",
+  "type": "Regulation",
+  "description": "British Columbia's private-sector privacy law (SBC 2003 c 63). One of three substantially-similar-to-PIPEDA provincial private-sector privacy acts (along with Alberta PIPA and Quebec's Act respecting the protection of personal information in the private sector).",
+  "relationToCloudSecurity": "Applies to cloud-hosted systems handling personal information of BC residents within scope.",
+  "relationToAISecurity": "Applies to AI systems processing personal information within scope.",
+  "license": {
+    "spdx": "LicenseRef-BCQP",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.bclaws.gov.bc.ca/standards/2014/QP-License_1.0.html",
+    "notes": "Queen's Printer License of British Columbia. Government-of-BC publication; redistribution and derivatives permitted under the QP License."
+  },
+  "links": {
+    "source": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2003-10-23",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Assented to October 23, 2003."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "xml-direct",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Authoritative source is BC Laws consolidated XML at https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01/xml (committed as pipa.xml). extract_bc_pipa.py parses the XML to produce per-section structured CSV/JSON (61 sections across 12 Parts)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Canadian provincial privacy law acquisition",
+      "tool": "BC Laws XML + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

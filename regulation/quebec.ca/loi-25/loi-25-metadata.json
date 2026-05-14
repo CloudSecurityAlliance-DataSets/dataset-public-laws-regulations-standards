@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/quebec.ca/loi-25",
+  "name": "Act respecting the protection of personal information in the private sector",
+  "acronym": "Loi 25",
+  "alternate_names": ["Law 25", "Bill 64", "Quebec Privacy Act", "Act to modernize legislative provisions as regards the protection of personal information"],
+  "version": "",
+  "publication_id": "loi-25",
+  "owner": "Government of Quebec (Éditeur officiel du Québec)",
+  "type": "Regulation",
+  "description": "Quebec's private-sector privacy law (CQLR c P-39.1). Originally enacted 1993; significantly modernized by Law 25 (Bill 64), the Act to modernize legislative provisions as regards the protection of personal information, adopted September 2021 with phased implementation through 2024. One of three substantially-similar-to-PIPEDA provincial private-sector privacy acts (along with Alberta PIPA and BC PIPA).",
+  "relationToCloudSecurity": "Applies to cloud-hosted systems handling personal information of Quebec residents within scope. Law 25 introduced new requirements around cross-border transfers and privacy impact assessments.",
+  "relationToAISecurity": "Applies to AI systems processing personal information within scope. Law 25 introduced specific requirements around automated decision-making.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.legisquebec.gouv.qc.ca/en/avis",
+    "notes": "Éditeur officiel du Québec. Government publication; reproduction terms per LégisQuébec notice."
+  },
+  "links": {
+    "source": "https://www.legisquebec.gouv.qc.ca/en/document/cs/p-39.1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1993; modernized by Law 25 (2021)",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Original act 1993; Law 25 modernization adopted September 2021 with phased provisions effective September 2022, September 2023, and September 2024."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "playwright + bs4",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Source HTML fetched via Playwright from https://www.legisquebec.gouv.qc.ca/en/document/cs/p-39.1 (legisquebec is CloudFront-WAF-protected — automated curl returns 403). extract_quebec_loi25.py walks the div.section[id^=se:] structure to produce per-section structured CSV/JSON (179 sections including amendment-numbered sub-sections)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Canadian provincial privacy law acquisition",
+      "tool": "Playwright + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}
