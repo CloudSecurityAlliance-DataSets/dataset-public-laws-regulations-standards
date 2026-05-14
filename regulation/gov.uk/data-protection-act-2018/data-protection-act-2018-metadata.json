@@ -32,12 +32,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
+    "tool": "lxml + custom Python (extract_uk_legislation.py)",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "Parsed from UK legislation.gov.uk CLML (Crown Legislation Markup Language) XML for ukpga/2018/12. Output: data-protection-act-2018-sections.{csv,json} (259 sections), data-protection-act-2018-schedules.{csv,json} (24 schedules). Section count includes amendments and UK-inserted articles; titles pulled from <Pblock>/<P1group>/<EUChapter> wrapper elements per CLML convention."
   },
   "extraction_history": [
     {
@@ -45,8 +45,18 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Structured extraction from CLML XML at legislation.gov.uk",
+      "tool": "custom Python + lxml"
     }
   ],
-  "scope": {},
+  "scope": {
+    "sections": 259,
+    "schedules": 24,
+    "legislation_uri": "https://www.legislation.gov.uk/ukpga/2018/12"
+  },
   "notes": "Metadata stub; acquire source and extract."
 }
