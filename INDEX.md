@@ -20,9 +20,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | State | Count |
 |---|---|
-| structured | 61 |
-| extracted | 148 |
-| metadata-only | 98 |
+| structured | 64 |
+| extracted | 156 |
+| metadata-only | 87 |
 | readme-only | 4 |
 | empty | 6 |
 
@@ -46,7 +46,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/allenai.org/realtoxicityprompts/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/realtoxicityprompts` |
 | `control/amazon.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-best-practices` |
 | `control/amazon.com/security-hub-standards/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-hub-standards` |
-| `control/amazon.com/well-architected/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/well-architected` |
+| `control/amazon.com/well-architected/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
@@ -251,16 +251,16 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:regulation/bsi.bund.de/c5` |
 | `regulation/bsi.bund.de/it-grundschutz/` | metadata-only | 2 | `M······` | `secid:regulation/bsi.bund.de/it-grundschutz` |
 | `regulation/ca.gov/caloppa/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/caloppa` |
-| `regulation/ca.gov/ccpa-cpra/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/ccpa-cpra` |
+| `regulation/ca.gov/ccpa-cpra/` | structured | 6 | `M··CSP·` | `secid:regulation/ca.gov/ccpa-cpra` |
 | `regulation/ca.gov/physicians-make-decisions-act/` | metadata-only | 3 | `M······` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
 | `regulation/ca.gov/sb-1001-bot-disclosure/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | extracted | 5 | `MXJ····` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | metadata-only | 4 | `M······` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
-| `regulation/canada.ca/pipeda/` | metadata-only | 2 | `M······` | `secid:regulation/canada.ca/pipeda` |
+| `regulation/canada.ca/pipeda/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:regulation/canada.ca/pipeda` |
 | `regulation/colorado.gov/ai-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/ai-act` |
-| `regulation/colorado.gov/cpa-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/colorado.gov/cpa-privacy-act` |
+| `regulation/colorado.gov/cpa-privacy-act/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/colorado.gov/cpa-privacy-act` |
 | `regulation/congress.gov/chips-act/` | metadata-only | 2 | `M······` | `secid:regulation/congress.gov/chips-act` |
-| `regulation/ct.gov/ctdpa/` | metadata-only | 2 | `M······` | `secid:regulation/ct.gov/ctdpa` |
+| `regulation/ct.gov/ctdpa/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/ct.gov/ctdpa` |
 | `regulation/delaware.gov/delaware-personal-data-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/delaware-personal-data-privacy-act` |
 | `regulation/delaware.gov/dpdpa/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/dpdpa` |
 | `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
@@ -288,25 +288,25 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/iowa.gov/iowa-consumer-data-protection-act/` | metadata-only | 2 | `M······` | `secid:regulation/iowa.gov/iowa-consumer-data-protection-act` |
 | `regulation/maryland.gov/facial-recognition-laws/` | metadata-only | 2 | `M······` | `secid:regulation/maryland.gov/facial-recognition-laws` |
 | `regulation/mass.gov/ai-bills/` | metadata-only | 2 | `M······` | `secid:regulation/mass.gov/ai-bills` |
-| `regulation/meity.gov.in/dpdp/` | metadata-only | 2 | `M······` | `secid:regulation/meity.gov.in/dpdp` |
+| `regulation/meity.gov.in/dpdp/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/meity.gov.in/dpdp` |
 | `regulation/mt.gov/mcdpa/` | metadata-only | 2 | `M······` | `secid:regulation/mt.gov/mcdpa` |
 | `regulation/nv.gov/privacy-amendments/` | metadata-only | 2 | `M······` | `secid:regulation/nv.gov/privacy-amendments` |
 | `regulation/ny.gov/local-law-144-ai-hiring/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
 | `regulation/ny.gov/nybcl/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nybcl` |
-| `regulation/ny.gov/nydfs-500/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nydfs-500` |
+| `regulation/ny.gov/nydfs-500/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:regulation/ny.gov/nydfs-500` |
 | `regulation/ny.gov/shield-act/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/shield-act` |
 | `regulation/oaic.gov.au/privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oaic.gov.au/privacy-act` |
 | `regulation/oregon.gov/ocpa/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/ocpa` |
 | `regulation/oregon.gov/oregon-consumer-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/oregon-consumer-privacy-act` |
 | `regulation/parl.ca/aida/` | metadata-only | 3 | `M······` | `secid:regulation/parl.ca/aida` |
-| `regulation/pdpc.gov.sg/pdpa/` | metadata-only | 2 | `M······` | `secid:regulation/pdpc.gov.sg/pdpa` |
+| `regulation/pdpc.gov.sg/pdpa/` | metadata-only | 3 | `M······` | `secid:regulation/pdpc.gov.sg/pdpa` |
 | `regulation/pipc.go.kr/pipa/` | metadata-only | 2 | `M······` | `secid:regulation/pipc.go.kr/pipa` |
-| `regulation/planalto.gov.br/lgpd/` | metadata-only | 2 | `M······` | `secid:regulation/planalto.gov.br/lgpd` |
-| `regulation/ppc.go.jp/appi/` | metadata-only | 2 | `M······` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
+| `regulation/ppc.go.jp/appi/` | extracted | 5 | `MX·····` | `secid:regulation/ppc.go.jp/appi` |
 | `regulation/texas.gov/cubi-biometric-privacy/` | metadata-only | 2 | `M······` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
 | `regulation/tn.gov/tipa/` | metadata-only | 2 | `M······` | `secid:regulation/tn.gov/tipa` |
-| `regulation/utah.gov/ucpa/` | metadata-only | 2 | `M······` | `secid:regulation/utah.gov/ucpa` |
-| `regulation/virginia.gov/vcdpa/` | metadata-only | 2 | `M······` | `secid:regulation/virginia.gov/vcdpa` |
+| `regulation/utah.gov/ucpa/` | extracted | 5 | `MX·····` | `secid:regulation/utah.gov/ucpa` |
+| `regulation/virginia.gov/vcdpa/` | structured | 6 | `M··CSP·` | `secid:regulation/virginia.gov/vcdpa` |
 | `regulation/wa.gov/my-health-my-data-act/` | metadata-only | 2 | `M······` | `secid:regulation/wa.gov/my-health-my-data-act` |
 | `regulation/whitehouse.gov/nsm-ai/` | metadata-only | 3 | `M······` | `secid:regulation/whitehouse.gov/nsm-ai` |
 | `regulation/whitehouse.gov/nsm-ai-framework/` | extracted | 3 | `MX·····` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |

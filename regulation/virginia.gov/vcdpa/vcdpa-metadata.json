@@ -26,5 +26,25 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "varies",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Structured CSV/JSON extracted. HTML from law.lis.virginia.gov + custom parser (extract_vcdpa.py). 11 Virginia Code sections (§§ 59.1-575 through 59.1-585)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Priority-list acquisition (Structured)",
+      "tool": "custom Python parser"
+    }
+  ],
+  "scope": {
+    "sections": 11
+  }
 }
