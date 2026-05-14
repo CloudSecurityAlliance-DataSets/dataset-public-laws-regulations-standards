@@ -263,14 +263,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ct.gov/ctdpa/` | metadata-only | 2 | `M······` | `secid:regulation/ct.gov/ctdpa` |
 | `regulation/delaware.gov/delaware-personal-data-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/delaware-personal-data-privacy-act` |
 | `regulation/delaware.gov/dpdpa/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/dpdpa` |
-| `regulation/europa.eu/ai-act/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
+| `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
 | `regulation/europa.eu/cra/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/cra` |
 | `regulation/europa.eu/data-act/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/data-act` |
 | `regulation/europa.eu/dma/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/dma` |
-| `regulation/europa.eu/dora/` | structured | 7 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
+| `regulation/europa.eu/dora/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
 | `regulation/europa.eu/dsa/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/dsa` |
 | `regulation/europa.eu/eprivacy/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/eprivacy` |
-| `regulation/europa.eu/gdpr/` | structured | 7 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
+| `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
 | `regulation/europa.eu/nis2/` | metadata-only | 2 | `M······` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |

@@ -26,5 +26,28 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "custom Python (extract_eu_regulation.py) over EUR-Lex HTML",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from the EUR-Lex HTML (CELEX 32024R1689) using ELI class markup (oj-ti-art/eli-title/oj-normal). Output: AI Act-articles.{csv,json} (113 articles), AI Act-recitals.{csv,json} (180 recitals), AI Act-annexes.{csv,json} (13 annexes). Replaces incomplete legacy CSV/JSON/YAML extractions that stopped before the final chapters."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Re-extracted from EUR-Lex HTML using ELI class markup; now complete (full article range + recitals + annexes)",
+      "tool": "custom Python"
+    }
+  ],
+  "scope": {
+    "articles": 113,
+    "recitals": 180,
+    "annexes": 13,
+    "celex": "32024R1689"
+  }
 }
