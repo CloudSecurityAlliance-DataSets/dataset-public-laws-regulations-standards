@@ -37,7 +37,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Source HTML acquired (partial). Singapore PDPA HTML acquired via Playwright. SSO uses lazy-loaded pagination — only 4 of ~70 sections in single-page HTML. Full extraction requires per-part navigation; left as TODO."
+    "notes": "Full HTML acquired via Playwright from https://sso.agc.gov.sg/Act/PDPA2012?WholeDoc=1 (the ?WholeDoc=1 query expands SSO's lazy-loaded provisions into a single document). extract_pdpa.py parses the rendered HTML into per-section structured CSV/JSON (86 sections across 13 Parts)."
   },
   "extraction_history": [
     {
