@@ -1,0 +1,649 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The NIST Definition of Cloud \nComputing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.453125,
+          261.03515625
+        ],
+        [
+          500.9097900390625,
+          261.03515625
+        ],
+        [
+          500.9097900390625,
+          334.9458923339844
+        ],
+        [
+          88.453125,
+          334.9458923339844
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations of the National Institute \nof Standards and Technology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.6484375,
+          396.0
+        ],
+        [
+          523.1520385742188,
+          396.0
+        ],
+        [
+          523.1520385742188,
+          449.7534484863281
+        ],
+        [
+          89.6484375,
+          449.7534484863281
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.33984375,
+          91.65234375
+        ],
+        [
+          254.00390625,
+          91.65234375
+        ],
+        [
+          254.00390625,
+          103.25390625
+        ],
+        [
+          66.33984375,
+          103.25390625
+        ]
+      ]
+    },
+    {
+      "title": "NIST Special Publication 800-145 The NIST Definition of Cloud Computing",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.4800033569336,
+          89.33203125
+        ],
+        [
+          554.2584228515625,
+          89.33203125
+        ],
+        [
+          554.2584228515625,
+          106.0269775390625
+        ],
+        [
+          66.4800033569336,
+          106.0269775390625
+        ]
+      ]
+    },
+    {
+      "title": "C O M P U T E R S E C U R I T Y",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          98.5199966430664,
+          282.3964538574219
+        ],
+        [
+          509.203125,
+          282.3964538574219
+        ],
+        [
+          509.203125,
+          303.3964538574219
+        ],
+        [
+          98.5199966430664,
+          303.3964538574219
+        ]
+      ]
+    },
+    {
+      "title": "Reports on Computer Systems Technology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          181.6875,
+          95.51953125
+        ],
+        [
+          429.31195068359375,
+          95.51953125
+        ],
+        [
+          429.31195068359375,
+          108.5968017578125
+        ],
+        [
+          181.6875,
+          108.5968017578125
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          240.85546875,
+          75.796875
+        ],
+        [
+          370.6919860839844,
+          75.796875
+        ],
+        [
+          370.6919860839844,
+          88.9302978515625
+        ],
+        [
+          240.85546875,
+          88.9302978515625
+        ]
+      ]
+    },
+    {
+      "title": "Errata",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          284.484375,
+          230.41033935546875
+        ],
+        [
+          326.1239929199219,
+          230.41033935546875
+        ],
+        [
+          326.1239929199219,
+          242.41033935546875
+        ],
+        [
+          284.484375,
+          242.41033935546875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.0,
+          75.0234375
+        ],
+        [
+          170.77200317382812,
+          75.0234375
+        ],
+        [
+          170.77200317382812,
+          87.83673095703125
+        ],
+        [
+          72.0,
+          87.83673095703125
+        ]
+      ]
+    },
+    {
+      "title": "1.1 Authority",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.822265625,
+          102.09375
+        ],
+        [
+          149.77679443359375,
+          102.09375
+        ],
+        [
+          149.77679443359375,
+          113.8577880859375
+        ],
+        [
+          70.822265625,
+          113.8577880859375
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Purpose and Scope",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.822265625,
+          367.3828125
+        ],
+        [
+          203.6520233154297,
+          367.3828125
+        ],
+        [
+          203.6520233154297,
+          378.7626037597656
+        ],
+        [
+          70.822265625,
+          378.7626037597656
+        ]
+      ]
+    },
+    {
+      "title": "1.3 Audience",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.822265625,
+          465.99609375
+        ],
+        [
+          150.21841430664062,
+          465.99609375
+        ],
+        [
+          150.21841430664062,
+          479.3039245605469
+        ],
+        [
+          70.822265625,
+          479.3039245605469
+        ]
+      ]
+    },
+    {
+      "title": "2. The NIST Definition of Cloud Computing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5234375,
+          75.41015625
+        ],
+        [
+          330.0119323730469,
+          75.41015625
+        ],
+        [
+          330.0119323730469,
+          87.83673095703125
+        ],
+        [
+          70.5234375,
+          87.83673095703125
+        ]
+      ]
+    },
+    {
+      "title": "Essential Characteristics:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          177.50390625
+        ],
+        [
+          192.21461486816406,
+          177.50390625
+        ],
+        [
+          192.21461486816406,
+          189.36822509765625
+        ],
+        [
+          71.12109375,
+          189.36822509765625
+        ]
+      ]
+    },
+    {
+      "title": "Service Models:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.822265625,
+          493.83984375
+        ],
+        [
+          146.96253967285156,
+          493.83984375
+        ],
+        [
+          146.96253967285156,
+          504.9715576171875
+        ],
+        [
+          70.822265625,
+          504.9715576171875
+        ]
+      ]
+    },
+    {
+      "title": "Deployment Models:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.92578125,
+          212.75433349609375
+        ],
+        [
+          169.5062713623047,
+          212.75433349609375
+        ],
+        [
+          169.5062713623047,
+          223.7943115234375
+        ],
+        [
+          69.92578125,
+          223.7943115234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/800-145"
+}

@@ -8,3 +8,5 @@
 .gemini
 .codex
 
+.marker-worker.sh
+marker-convert.log

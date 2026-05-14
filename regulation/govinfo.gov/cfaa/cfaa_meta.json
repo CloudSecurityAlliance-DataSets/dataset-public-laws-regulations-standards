@@ -1,0 +1,576 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Statutory Notes and Related Subsidiaries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          333.4921875,
+          512.40234375
+        ],
+        [
+          495.8128356933594,
+          512.40234375
+        ],
+        [
+          495.8128356933594,
+          520.91015625
+        ],
+        [
+          333.4921875,
+          520.91015625
+        ]
+      ]
+    },
+    {
+      "title": "TRANSFER OF FUNCTIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          369.94921875,
+          524.77734375
+        ],
+        [
+          461.98828125,
+          524.77734375
+        ],
+        [
+          461.98828125,
+          533.28515625
+        ],
+        [
+          369.94921875,
+          533.28515625
+        ]
+      ]
+    },
+    {
+      "title": "REPORT TO CONGRESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          373.53515625,
+          611.40234375
+        ],
+        [
+          455.41241455078125,
+          611.40234375
+        ],
+        [
+          455.41241455078125,
+          619.91015625
+        ],
+        [
+          373.53515625,
+          619.91015625
+        ]
+      ]
+    },
+    {
+      "title": "\u00a7 1030. Fraud and related activity in connection \nwith computers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.9765625,
+          661.5185852050781
+        ],
+        [
+          521.4222412109375,
+          661.5185852050781
+        ],
+        [
+          521.4222412109375,
+          679.078125
+        ],
+        [
+          311.9765625,
+          679.078125
+        ]
+      ]
+    },
+    {
+      "title": "Editorial Notes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          165.251953125,
+          437.31707763671875
+        ],
+        [
+          226.93992614746094,
+          437.31707763671875
+        ],
+        [
+          226.93992614746094,
+          446.66015625
+        ],
+        [
+          165.251953125,
+          446.66015625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES IN TEXT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          157.43894958496094,
+          447.43359375
+        ],
+        [
+          235.7042999267578,
+          447.43359375
+        ],
+        [
+          235.7042999267578,
+          456.59808349609375
+        ],
+        [
+          157.43894958496094,
+          456.59808349609375
+        ]
+      ]
+    },
+    {
+      "title": "AMENDMENTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          388.775390625,
+          140.765625
+        ],
+        [
+          439.7851867675781,
+          140.765625
+        ],
+        [
+          439.7851867675781,
+          148.019287109375
+        ],
+        [
+          388.775390625,
+          148.019287109375
+        ]
+      ]
+    },
+    {
+      "title": "Statutory Notes and Related Subsidiaries",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          334.6875,
+          577.37109375
+        ],
+        [
+          495.8065490722656,
+          577.37109375
+        ],
+        [
+          495.8065490722656,
+          585.87890625
+        ],
+        [
+          334.6875,
+          585.87890625
+        ]
+      ]
+    },
+    {
+      "title": "TRANSFER OF FUNCTIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          369.94921875,
+          639.24609375
+        ],
+        [
+          461.98828125,
+          639.24609375
+        ],
+        [
+          461.98828125,
+          647.75390625
+        ],
+        [
+          369.94921875,
+          647.75390625
+        ]
+      ]
+    },
+    {
+      "title": "REPORTS TO CONGRESS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          153.59765625,
+          92.8125
+        ],
+        [
+          238.46484375,
+          92.8125
+        ],
+        [
+          238.46484375,
+          100.41253662109375
+        ],
+        [
+          153.59765625,
+          100.41253662109375
+        ]
+      ]
+    },
+    {
+      "title": "\u00a7 1031. Major fraud against the United States",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          91.44140625,
+          141.92578125
+        ],
+        [
+          282.76678466796875,
+          141.92578125
+        ],
+        [
+          282.76678466796875,
+          150.0347900390625
+        ],
+        [
+          91.44140625,
+          150.0347900390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          159
+        ],
+        [
+          "Text",
+          38
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          141
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "Text",
+          31
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          162
+        ],
+        [
+          "Text",
+          41
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          157
+        ],
+        [
+          "Text",
+          41
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/cfaa"
+}
