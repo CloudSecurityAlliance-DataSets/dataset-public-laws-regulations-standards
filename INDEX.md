@@ -20,8 +20,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | State | Count |
 |---|---|
-| structured | 60 |
-| extracted | 149 |
+| structured | 61 |
+| extracted | 148 |
 | metadata-only | 98 |
 | readme-only | 4 |
 | empty | 6 |
@@ -257,7 +257,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | extracted | 5 | `MXJ····` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | metadata-only | 4 | `M······` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
 | `regulation/canada.ca/pipeda/` | metadata-only | 2 | `M······` | `secid:regulation/canada.ca/pipeda` |
-| `regulation/colorado.gov/ai-act/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/colorado.gov/ai-act` |
+| `regulation/colorado.gov/ai-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/ai-act` |
 | `regulation/colorado.gov/cpa-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/colorado.gov/cpa-privacy-act` |
 | `regulation/congress.gov/chips-act/` | metadata-only | 2 | `M······` | `secid:regulation/congress.gov/chips-act` |
 | `regulation/ct.gov/ctdpa/` | metadata-only | 2 | `M······` | `secid:regulation/ct.gov/ctdpa` |
