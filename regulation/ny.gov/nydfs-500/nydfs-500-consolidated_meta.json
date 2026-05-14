@@ -1,0 +1,1161 @@
+{
+  "table_of_contents": [
+    {
+      "title": "NEW YORK STATE \nDEPARTMENT OF FINANCIAL SERVICES \n23 NYCRR 500",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          186.6160125732422,
+          73.08984375
+        ],
+        [
+          428.593994140625,
+          73.08984375
+        ],
+        [
+          428.593994140625,
+          113.00146484375
+        ],
+        [
+          186.6160125732422,
+          113.00146484375
+        ]
+      ]
+    },
+    {
+      "title": "CYBERSECURITY REQUIREMENTS FOR FINANCIAL SERVICES COMPANIES*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.0859375,
+          128.390625
+        ],
+        [
+          530.3939819335938,
+          128.390625
+        ],
+        [
+          530.3939819335938,
+          140.6014404296875
+        ],
+        [
+          80.0859375,
+          140.6014404296875
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.0 Introduction.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.560546875,
+          182.91796875
+        ],
+        [
+          177.71600341796875,
+          182.91796875
+        ],
+        [
+          177.71600341796875,
+          195.32147216796875
+        ],
+        [
+          35.560546875,
+          195.32147216796875
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.1 Definitions.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.6640625,
+          542.1814575195312
+        ],
+        [
+          168.40603637695312,
+          542.1814575195312
+        ],
+        [
+          168.40603637695312,
+          554.1814575195312
+        ],
+        [
+          34.6640625,
+          554.1814575195312
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.2 Cybersecurity Program.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.06640625,
+          542.6814727783203
+        ],
+        [
+          234.19297790527344,
+          542.6814727783203
+        ],
+        [
+          234.19297790527344,
+          554.6814727783203
+        ],
+        [
+          34.06640625,
+          554.6814727783203
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.3 Cybersecurity Policy.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.6640625,
+          334.8984375
+        ],
+        [
+          219.541015625,
+          334.8984375
+        ],
+        [
+          219.541015625,
+          347.6315002441406
+        ],
+        [
+          34.6640625,
+          347.6315002441406
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.4 Chief Information Security Officer.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.06640625,
+          211.4014892578125
+        ],
+        [
+          291.49200439453125,
+          211.4014892578125
+        ],
+        [
+          291.49200439453125,
+          223.4014892578125
+        ],
+        [
+          34.06640625,
+          223.4014892578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.5 Penetration Testing and Vulnerability Assessments.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.6640625,
+          680.6814575195312
+        ],
+        [
+          373.8639831542969,
+          680.6814575195312
+        ],
+        [
+          373.8639831542969,
+          692.6814575195312
+        ],
+        [
+          34.6640625,
+          692.6814575195312
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.6 Audit Trail.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.6640625,
+          266.44921875
+        ],
+        [
+          170.74600219726562,
+          266.44921875
+        ],
+        [
+          170.74600219726562,
+          278.63153076171875
+        ],
+        [
+          34.6640625,
+          278.63153076171875
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.7 Access Privileges.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.6640625,
+          473.6514587402344
+        ],
+        [
+          199.3778839111328,
+          473.6514587402344
+        ],
+        [
+          199.3778839111328,
+          485.6514587402344
+        ],
+        [
+          34.6640625,
+          485.6514587402344
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.8 Application Security.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.6640625,
+          556.4814758300781
+        ],
+        [
+          218.09384155273438,
+          556.4814758300781
+        ],
+        [
+          218.09384155273438,
+          568.4814758300781
+        ],
+        [
+          34.6640625,
+          568.4814758300781
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.9 Risk Assessment.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.859375,
+          694.4774627685547
+        ],
+        [
+          197.44398498535156,
+          694.4774627685547
+        ],
+        [
+          197.44398498535156,
+          706.4774780273438
+        ],
+        [
+          35.859375,
+          706.4774780273438
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.10 Cybersecurity Personnel and Intelligence.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.859375,
+          390.5859375
+        ],
+        [
+          329.57598876953125,
+          390.5859375
+        ],
+        [
+          329.57598876953125,
+          402.8514709472656
+        ],
+        [
+          35.859375,
+          402.8514709472656
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.11 Third Party Service Provider Security Policy.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.6640625,
+          653.0814514160156
+        ],
+        [
+          348.5190124511719,
+          653.0814514160156
+        ],
+        [
+          348.5190124511719,
+          665.0814666748047
+        ],
+        [
+          34.6640625,
+          665.0814666748047
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.12 Multi-Factor Authentication.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.6640625,
+          570.0414581298828
+        ],
+        [
+          264.6499938964844,
+          570.0414581298828
+        ],
+        [
+          264.6499938964844,
+          582.0414581298828
+        ],
+        [
+          34.6640625,
+          582.0414581298828
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.13 Limitations on Data Retention.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.06640625,
+          73.08984375
+        ],
+        [
+          274.010009765625,
+          73.08984375
+        ],
+        [
+          274.010009765625,
+          85.4014892578125
+        ],
+        [
+          34.06640625,
+          85.4014892578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.14 Training and Monitoring.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.06640625,
+          183.801513671875
+        ],
+        [
+          247.84500122070312,
+          183.801513671875
+        ],
+        [
+          247.84500122070312,
+          195.801513671875
+        ],
+        [
+          34.06640625,
+          195.801513671875
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.15 Encryption of Nonpublic Information.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.6640625,
+          335.6314392089844
+        ],
+        [
+          308.45001220703125,
+          335.6314392089844
+        ],
+        [
+          308.45001220703125,
+          347.6314392089844
+        ],
+        [
+          34.6640625,
+          347.6314392089844
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.16 Incident Response Plan.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.6640625,
+          570.2814636230469
+        ],
+        [
+          238.489990234375,
+          570.2814636230469
+        ],
+        [
+          238.489990234375,
+          582.2814636230469
+        ],
+        [
+          34.6640625,
+          582.2814636230469
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.17 Notices to Superintendent.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.06640625,
+          280.43145751953125
+        ],
+        [
+          251.08999633789062,
+          280.43145751953125
+        ],
+        [
+          251.08999633789062,
+          292.43145751953125
+        ],
+        [
+          34.06640625,
+          292.43145751953125
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.18 Confidentiality.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.6640625,
+          570.2794494628906
+        ],
+        [
+          192.71200561523438,
+          570.2794494628906
+        ],
+        [
+          192.71200561523438,
+          582.2794494628906
+        ],
+        [
+          34.6640625,
+          582.2794494628906
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.19 Exemptions.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.6640625,
+          653.0794677734375
+        ],
+        [
+          179.06398010253906,
+          653.0794677734375
+        ],
+        [
+          179.06398010253906,
+          665.0794677734375
+        ],
+        [
+          34.6640625,
+          665.0794677734375
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.20 Enforcement.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          34.365234375,
+          611.40234375
+        ],
+        [
+          184.9340362548828,
+          611.40234375
+        ],
+        [
+          184.9340362548828,
+          623.6824645996094
+        ],
+        [
+          34.365234375,
+          623.6824645996094
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.21 Effective Date.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          34.6640625,
+          679.46484375
+        ],
+        [
+          190.56201171875,
+          679.46484375
+        ],
+        [
+          190.56201171875,
+          692.6824645996094
+        ],
+        [
+          34.6640625,
+          692.6824645996094
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.22 Transitional Periods.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.6640625,
+          128.60150146484375
+        ],
+        [
+          223.49400329589844,
+          128.60150146484375
+        ],
+        [
+          223.49400329589844,
+          140.60150146484375
+        ],
+        [
+          34.6640625,
+          140.60150146484375
+        ]
+      ]
+    },
+    {
+      "title": "Section 500.23 Severability.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.365234375,
+          349.4314880371094
+        ],
+        [
+          179.65396118164062,
+          349.4314880371094
+        ],
+        [
+          179.65396118164062,
+          361.4314880371094
+        ],
+        [
+          34.365234375,
+          361.4314880371094
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/nydfs-500-consolidated"
+}
