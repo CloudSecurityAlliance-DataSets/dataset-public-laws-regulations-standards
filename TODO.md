@@ -74,6 +74,15 @@ These data-repo entries need corresponding namespace entries in [SecID](https://
 - [ ] `enx.com` — for ENX ISA v6 (TISAX)
 - [ ] `aiuc.com` — for AIUC-1 (need to verify the actual publisher's domain first)
 
+## Licensable-candidate verification
+
+The following sources are advertised as free-to-download by their publishers but have unclear or restrictive redistribution terms. Each is worth a careful terms-of-use review — if redistribution is permitted under terms compatible with this repo's posture (publicly_redistributable: true), they should be ingested here as full content. If redistribution is not permitted, they stay as SecID-only identity records.
+
+- [ ] **ITU-T Recommendations** (`itu.int`) — Free download at `https://www.itu.int/rec/T-REC/`. ITU retains copyright; their copyright page (`https://www.itu.int/en/Pages/copyright.aspx`) directs reproduction requests to `jur@itu.int`. Notable security recs to consider if licensable: X.805 (security architecture), X.1051 (telecom ISMS), X.509 (cert format), X.1500-series (cybersecurity exchange formats). Current best assessment: same posture as AICPA TSC — free-access ≠ free-redistribute — but a direct ITU response on bulk-ingestion would settle the question.
+- [ ] **BIS Indigenous Indian Standards** (`bis.gov.in`) — Their standards portal at `https://standardsbis.bsbedge.com/` advertises "Indigenous Indian Standards can be downloaded free of cost" but doesn't publish explicit redistribution terms. IS/ISO/IEC adoptions remain subject to ISO terms regardless. Worth checking BIS's terms of use directly to confirm whether indigenous-only IS standards can be redistributed under an open license.
+
+Identity records for both are already in SecID (`registry/control/int/itu.json`, `registry/control/in/gov/bis.json`).
+
 ## Source PDF acquisition (2026-05-13 sweep)
 
 84 source PDFs auto-downloaded from canonical publishers and placed in their stub directories (gitignored). Marker extraction is the next step — feed each through `pdf_to_md_via_gpu.sh` to produce markdown/JSON.
