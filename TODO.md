@@ -74,18 +74,47 @@ These data-repo entries need corresponding namespace entries in [SecID](https://
 - [ ] `enx.com` — for ENX ISA v6 (TISAX)
 - [ ] `aiuc.com` — for AIUC-1 (need to verify the actual publisher's domain first)
 
-## Licensable-candidate verification
+## Licensable-candidate ingestion
 
-The following sources are advertised as free-to-download by their publishers but have unclear or restrictive redistribution terms. Each is worth a careful terms-of-use review — if redistribution is permitted under terms compatible with this repo's posture (publicly_redistributable: true), they should be ingested here as full content. If redistribution is not permitted, they stay as SecID-only identity records.
+License research completed 2026-05-14 for candidates identified during the `dataset-private-laws-regulations-standards` audit rounds. Results below are split into **confirmed-redistributable** (ready to ingest), **free-access-but-restricted** (stay as SecID-only), and **unresolved** (need direct contact or PDF inspection).
 
-- [ ] **ITU-T Recommendations** (`itu.int`) — Free download at `https://www.itu.int/rec/T-REC/`. ITU retains copyright; their copyright page (`https://www.itu.int/en/Pages/copyright.aspx`) directs reproduction requests to `jur@itu.int`. Notable security recs to consider if licensable: X.805 (security architecture), X.1051 (telecom ISMS), X.509 (cert format), X.1500-series (cybersecurity exchange formats). Current best assessment: same posture as AICPA TSC — free-access ≠ free-redistribute — but a direct ITU response on bulk-ingestion would settle the question.
-- [ ] **BIS Indigenous Indian Standards** (`bis.gov.in`) — Their standards portal at `https://standardsbis.bsbedge.com/` advertises "Indigenous Indian Standards can be downloaded free of cost" but doesn't publish explicit redistribution terms. IS/ISO/IEC adoptions remain subject to ISO terms regardless. Worth checking BIS's terms of use directly to confirm whether indigenous-only IS standards can be redistributed under an open license.
-- [ ] **ETSI deliverables** (`etsi.org`) — Many ETSI Standards (EN), Technical Specifications (TS), Technical Reports (TR), and Group Specifications (GS) are free to download from `https://www.etsi.org/standards-search`. ETSI retains copyright. The most-cited security-relevant deliverable is **EN 303 645** (Cyber Security for Consumer IoT — referenced by NIST IR 8425 and many national IoT-cyber regimes). License posture is mixed — verify whether ETSI's IPR Policy permits bulk redistribution of unmodified PDFs / extracted derivatives. Companion private-repo stub at `secid:control/etsi.org/en-303-645`.
-- [ ] **FIX Protocol specifications** (`fixtrading.org`) — The FIX Protocol specification itself is freely available from `https://www.fixtrading.org/standards/`. Implementation guides and recommended practice documents may be members-only. The core protocol spec is a candidate for public-repo ingestion. SecID entry exists at `registry/control/org/fixtrading.json` with a note about the dual-tier license posture.
-- [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`) — Specifically the Consent Receipt Specification (separate from the broader Kantara IAF which has members-only assurance content) is published freely. Used in GDPR/PIPEDA-aligned consent-management work. Worth confirming the license terms and ingesting if open. SecID entry at `registry/control/org/kantarainitiative.json` with `consent-receipt` match_node.
-- [ ] **Auto-ISAC Best Practices (public-summary versions)** (`automotiveisac.com`) — The full Auto-ISAC Automotive Cybersecurity Best Practices Guide series is members-only, but Auto-ISAC publishes shorter public-summary versions on their website. If those summaries are CC-licensed or otherwise redistributable, they're worth ingesting as a thin public companion to the private full content.
+### Confirmed redistributable — ingestion candidates
 
-Identity records for all are already in SecID (`registry/control/int/itu.json`, `registry/control/in/gov/bis.json`, `registry/control/org/etsi.json`, `registry/control/org/fixtrading.json`, `registry/control/org/kantarainitiative.json`, `registry/control/com/automotiveisac.json`).
+These have explicit open licenses verified at the publisher's site. Each is a candidate for full ingestion (PDFs and/or derivatives, subject to per-license modification rules).
+
+- [ ] **UK Open Banking Read/Write API + Security Profile** (`openbanking.org.uk`) — **MIT License**, © Open Banking Limited 2023. Most permissive. Full ingestion (originals + extracted markdown + structured derivatives) all allowed. Companion SecID entry at `registry/control/uk/org/openbanking.json`.
+- [ ] **PolishAPI specification** (`polishapi.org`) — **Creative Commons Attribution 3.0 Poland**. Full ingestion allowed; attribution required. SecID at `registry/control/org/polishapi.json`.
+- [ ] **PQCC Migration Roadmap** (`pqcc.org`) — MITRE public-release language: "Approved for Public Release; Distribution Unlimited" (Case 24-1154). Effectively unrestricted redistribution. SecID at `registry/control/org/pqcc.json`.
+- [ ] **Berlin Group NextGenPSD2 PDFs** (`berlin-group.org`) — **CC BY-ND 4.0 International** for the specification PDFs. Redistribution of unmodified originals permitted with attribution. **Cannot run through marker for markdown extraction** (that's a derivative — prohibited under ND). SecID at `registry/control/org/berlin-group.json`.
+- [ ] **Berlin Group NextGenPSD2 OpenAPI files** (`berlin-group.org`) — Same publisher but separate license: **CC BY 4.0 International** (no ND restriction). Derivatives, transformations, and reformatting all allowed. Worth ingesting these separately from the PDFs.
+- [ ] **FIX Protocol specifications** (`fixtrading.org`) — **CC BY-ND 4.0 International**, © FIX Protocol Ltd. Redistribution of unmodified originals permitted with attribution. **Cannot run through marker for markdown extraction** under ND. SecID at `registry/control/org/fixtrading.json`.
+- [ ] **Auto-ISAC Best Practice Guides (6 guides)** (`automotiveisac.com`) — Publicly downloadable from `/best-practice-guides`; framed as "voluntarily adopted, not required". **No explicit redistribution license** stated, so direct confirmation with Auto-ISAC recommended before bulk-mirroring. Likely permissive given the public-availability stance. SecID at `registry/control/com/automotiveisac.json`.
+
+### Free-access-but-restricted — stay as SecID-only
+
+These are free to download for personal use but publishers explicitly retain copyright and require permission for redistribution. Identity records remain in SecID; content stays out of this repo.
+
+- **ETSI deliverables** (`etsi.org`) — Including EN 303 645 (consumer IoT cyber), ISG QSC quantum-safe series (TS 103 744 etc.), and the broader TC CYBER catalogue. Free download, ETSI copyright retained. SecID at `registry/control/org/etsi.json`. Same posture as AICPA TSC.
+- **ITU-T Recommendations** (`itu.int`) — Free download at `itu.int/rec/T-REC/`. ITU retains copyright; reproduction requests go to `jur@itu.int` per `https://www.itu.int/en/Pages/copyright.aspx`. SecID at `registry/control/int/itu.json`.
+
+### Unresolved — need direct contact or PDF inspection
+
+License terms could not be determined from publisher websites during automated checking. Each needs a manual check (download a sample PDF and read the footer / contact the publisher).
+
+- [ ] **STET PSD2 API** (`stet.eu`) — Resources page lists downloadable PDFs/YAML/JSON but no license stated; "Legals" page returned 404. Inspect a downloaded spec PDF for license footer or contact STET.
+- [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`) — Policy and permanent-documents URLs returned 404. The spec PDF itself likely carries a license statement; download and inspect, or contact `hello@kantarainitiative.org`.
+- [ ] **OIX Trust Framework methodology** (`openidentityexchange.org`) — Policies page returned 403 (auth-gated). Need a direct PDF inspection or member-list query.
+- [ ] **BIS Indigenous Indian Standards** (`bis.gov.in`) — Their portal at `standardsbis.bsbedge.com` advertises "Indigenous Indian Standards can be downloaded free of cost" but doesn't publish explicit redistribution terms. ISO/IEC adoptions remain subject to ISO terms regardless. Contact BIS or inspect a downloaded indigenous-IS PDF.
+
+### Important nuance: derivatives vs. originals under CC BY-ND
+
+Three of the confirmed-redistributable sources are CC BY-ND (NoDerivatives): Berlin Group NextGenPSD2 PDFs and FIX Protocol. The ND clause means we can host the original PDFs but **cannot extract them to markdown** (the standard pipeline produces derivatives). For these, the path is:
+
+- Commit the PDF as the canonical artefact (with attribution metadata)
+- Skip the marker → markdown → controls.json pipeline
+- Note `"derivatives_extracted": false` in the metadata
+
+UK OBIE (MIT), PolishAPI (CC BY 3.0), PQCC (public release), and Berlin Group OpenAPI files (CC BY 4.0) all permit derivatives, so the full extraction pipeline can run.
 
 ## Source PDF acquisition (2026-05-13 sweep)
 
