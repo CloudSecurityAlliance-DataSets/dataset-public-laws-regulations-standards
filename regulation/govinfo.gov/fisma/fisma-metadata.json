@@ -42,7 +42,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "notes": "Parsed from marker-extracted PLAW markdown via extract_us_plaw.py. Found 11 SEC./§ markers."
   },
   "extraction_history": [
     {
@@ -50,15 +50,16 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Basic PLAW section extraction from marker markdown",
+      "tool": "custom Python (extract_us_plaw.py)"
     }
   ],
   "scope": {
-    "applies_to": "US federal agencies and their information systems",
-    "key_documents_referenced": [
-      "NIST SP 800-53",
-      "FIPS 199",
-      "FIPS 200"
-    ]
+    "sections": 11
   },
   "notes": "Foundational US federal-agency information security statute. Acquire PLAW-113publ283 text for structured extraction."
 }

@@ -20,8 +20,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | State | Count |
 |---|---|
-| structured | 56 |
-| extracted | 153 |
+| structured | 60 |
+| extracted | 149 |
 | metadata-only | 98 |
 | readme-only | 4 |
 | empty | 6 |
@@ -277,10 +277,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/gov.uk/data-protection-act-2018/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/data-protection-act-2018` |
 | `regulation/gov.uk/nis-regulations/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/nis-regulations` |
 | `regulation/gov.uk/uk-gdpr/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/uk-gdpr` |
-| `regulation/govinfo.gov/cfaa/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/govinfo.gov/cfaa` |
-| `regulation/govinfo.gov/fisma/` | extracted | 5 | `MX·····` | `secid:regulation/govinfo.gov/fisma` |
-| `regulation/govinfo.gov/glba/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/govinfo.gov/glba` |
-| `regulation/govinfo.gov/hipaa/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/govinfo.gov/hipaa` |
+| `regulation/govinfo.gov/cfaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/cfaa` |
+| `regulation/govinfo.gov/fisma/` | structured | 7 | `MX·CS··` | `secid:regulation/govinfo.gov/fisma` |
+| `regulation/govinfo.gov/glba/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/glba` |
+| `regulation/govinfo.gov/hipaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hipaa` |
 | `regulation/illinois.gov/bipa/` | metadata-only | 2 | `M······` | `secid:regulation/illinois.gov/bipa` |
 | `regulation/in.gov/incdpa/` | metadata-only | 2 | `M······` | `secid:regulation/in.gov/incdpa` |
 | `regulation/industry.gov.au/ai-action-plan/` | metadata-only | 2 | `M······` | `secid:regulation/industry.gov.au/ai-action-plan` |
