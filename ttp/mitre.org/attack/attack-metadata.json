@@ -2,7 +2,10 @@
   "secid": "secid:ttp/mitre.org/attack",
   "name": "MITRE ATT&CK",
   "acronym": "ATT&CK",
-  "alternate_names": ["MITRE ATT&CK Framework", "ATTACK"],
+  "alternate_names": [
+    "MITRE ATT&CK Framework",
+    "ATTACK"
+  ],
   "version": "16.1",
   "publication_id": "ATTACK-v16.1",
   "owner": "MITRE Corporation (with US Government funding)",
@@ -41,7 +44,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "README-only stub pointing at the upstream mitre/cti repository for STIX 2.0 bundles. No local structured extraction yet — ATT&CK content is consumed directly from upstream by downstream tools that need it."
+    "notes": "ATT&CK is published as STIX 2.0/2.1 bundles at https://github.com/mitre-attack/attack-stix-data (Apache-2.0, ~50MB per matrix). This repo references it rather than mirroring — the upstream is authoritative and version-tagged. Consumers should pull from upstream by tag/release. Enterprise/Mobile/ICS matrices each have their own JSON bundles."
   },
   "extraction_history": [
     {
@@ -49,11 +52,36 @@
       "status": "stub",
       "reason": "README pointer to upstream cti repo",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Confirmed reference-only model — STIX bundles are large (~50MB each) and version-tagged in upstream GitHub repo, no value in mirroring",
+      "tool": "n/a"
     }
   ],
   "scope": {
-    "matrices": ["Enterprise", "Mobile", "ICS"],
-    "enterprise_platforms": ["Windows", "macOS", "Linux", "Containers", "Cloud (IaaS/SaaS/Office365/Azure AD/Google Workspace)", "Network"]
+    "matrices": [
+      "Enterprise",
+      "Mobile",
+      "ICS"
+    ],
+    "enterprise_platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Containers",
+      "Cloud (IaaS/SaaS/Office365/Azure AD/Google Workspace)",
+      "Network"
+    ],
+    "external_source": "https://github.com/mitre-attack/attack-stix-data",
+    "matrix_bundles": [
+      "enterprise-attack-N.N.json",
+      "mobile-attack-N.N.json",
+      "ics-attack-N.N.json"
+    ],
+    "bundle_size_typical": "~50MB Enterprise, ~4MB Mobile, ~3MB ICS",
+    "license": "Apache-2.0 (code) + MITRE attribution (data)"
   },
   "notes": "ATT&CK is the most-cited adversary behavior framework in the industry. Downstream consumers should pin to specific ATT&CK versions for reproducibility — technique IDs are stable but coverage grows release-over-release."
 }

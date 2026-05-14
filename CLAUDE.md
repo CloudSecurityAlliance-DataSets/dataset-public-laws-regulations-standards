@@ -107,6 +107,23 @@ When a document doesn't fit any other type, it goes in `reference/`. **Don't for
 
 If a pattern of similar-shaped `reference/` entries emerges, it may become a first-class SecID type later — at which point SecID is updated first, then this repo migrates. Don't preempt that here.
 
+### Don't bulk-mirror data that's already publicly available upstream
+
+If a publisher hosts their authoritative data in a public, version-tagged location (e.g., GitHub repo with releases) and consumers can pull it directly, **do not import the data into this repo**. Keep only the metadata stub describing the source and pointing at upstream. Examples that should stay reference-only:
+
+- **MITRE ATT&CK** — STIX bundles at `github.com/mitre-attack/attack-stix-data` (~50MB per matrix, version-tagged)
+- **MITRE ATLAS** — `dist/ATLAS.yaml` at `github.com/mitre-atlas/atlas-data` (Apache-2.0, release-tagged)
+- **MITRE CTID mappings** — JSON files at `github.com/center-for-threat-informed-defense/mappings-explorer`
+- **CVE Project records** — `github.com/CVEProject/cvelistV5` (huge, hourly-updated)
+- Other GitHub-hosted SecID-registered datasets
+
+Reasons:
+- Upstream is authoritative; mirrors drift.
+- Bulk JSON/YAML inflates this repo for no marginal value over a `git clone` of upstream.
+- Version-pinning via upstream tag is more reliable than committing one snapshot here.
+
+Exception: if structured-extraction from a PDF/XLSX produces the *first* machine-readable form of a doc (e.g., NIST SP 800-53 r5 from the NIST-published XLSX, PCI DSS from marker output of the PDF), commit the derived structured form. The derived data didn't exist publicly before.
+
 ### Namespaces are **DNS domain names of the publishing organization**
 
 The SecID spec ([SPEC.md §1.2](https://github.com/CloudSecurityAlliance/SecID/blob/main/SPEC.md)) requires the namespace to be the publishing org's domain name. In practice this means:

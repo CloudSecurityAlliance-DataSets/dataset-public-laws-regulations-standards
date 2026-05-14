@@ -35,12 +35,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "custom Python (extract_atlas.py) over upstream YAML",
+    "tool": "n/a (external-reference policy)",
     "tool_version": "n/a",
-    "extraction_host": "local",
+    "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Extracted from atlas-data v5.6.0 (single ATLAS.yaml from the mitre-atlas/atlas-data GitHub repo). Output: per-type CSV/JSON for tactics, techniques, mitigations, case-studies, plus combined atlas-all.json. 16 tactics, 170 techniques (89 demonstrated / 64 realized / 17 feasible; 69 sub-techniques), 35 mitigations, 57 case studies."
+    "notes": "ATLAS data is published as a single YAML at https://github.com/mitre-atlas/atlas-data/blob/main/dist/ATLAS.yaml (Apache-2.0). This repo references it rather than mirroring the content — the upstream is authoritative, version-tagged, and trivially fetchable. Consumers should pull from upstream by tag/release. SecID-resolvable identifier here covers discoverability."
   },
   "extraction_history": [
     {
@@ -54,20 +54,20 @@
       "status": "current",
       "reason": "Structured extraction from atlas-data YAML v5.6.0",
       "tool": "custom Python"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Reverted to reference-only model — data is publicly hosted in mitre-atlas/atlas-data on GitHub, no mirroring needed",
+      "tool": "n/a"
     }
   ],
   "scope": {
-    "version": "5.6.0",
-    "tactics": 16,
-    "techniques": 170,
-    "mitigations": 35,
-    "case_studies": 57,
-    "techniques_by_maturity": {
-      "demonstrated": 89,
-      "feasible": 17,
-      "realized": 64
-    },
-    "subtechniques": 69
+    "external_source": "https://github.com/mitre-atlas/atlas-data",
+    "primary_file": "dist/ATLAS.yaml",
+    "release_pattern": "GitHub releases (currently v5.6.0)",
+    "license": "Apache-2.0",
+    "covers": "16 tactics, 170+ techniques, 35+ mitigations, 57+ case studies (counts as of v5.6.0)"
   },
-  "notes": "Use ATLAS for adversarial ML threat modeling; pair with CSA AICM for controls. Versioned releases live in the GitHub repo's tag history."
+  "notes": "Reference entry. ATLAS upstream at mitre-atlas/atlas-data is the canonical source — pin to a release tag for reproducibility."
 }
