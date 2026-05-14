@@ -32,12 +32,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
+    "tool": "lxml + custom Python (extract_uk_legislation.py)",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "Parsed from UK legislation.gov.uk CLML (Crown Legislation Markup Language) XML for uksi/2018/506. Output: nis-regulations-sections.{csv,json} (30 sections), nis-regulations-schedules.{csv,json} (2 schedules). Section count includes amendments and UK-inserted articles; titles pulled from <Pblock>/<P1group>/<EUChapter> wrapper elements per CLML convention."
   },
   "extraction_history": [
     {
@@ -45,8 +45,18 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Structured extraction from CLML XML at legislation.gov.uk",
+      "tool": "custom Python + lxml"
     }
   ],
-  "scope": {},
+  "scope": {
+    "sections": 30,
+    "schedules": 2,
+    "legislation_uri": "https://www.legislation.gov.uk/uksi/2018/506"
+  },
   "notes": "Metadata stub; acquire source and extract."
 }
