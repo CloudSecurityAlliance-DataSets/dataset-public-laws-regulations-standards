@@ -20,9 +20,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | State | Count |
 |---|---|
-| structured | 53 |
+| structured | 56 |
 | extracted | 153 |
-| metadata-only | 101 |
+| metadata-only | 98 |
 | readme-only | 4 |
 | empty | 6 |
 
@@ -274,9 +274,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
-| `regulation/gov.uk/data-protection-act-2018/` | metadata-only | 2 | `M······` | `secid:regulation/gov.uk/data-protection-act-2018` |
-| `regulation/gov.uk/nis-regulations/` | metadata-only | 2 | `M······` | `secid:regulation/gov.uk/nis-regulations` |
-| `regulation/gov.uk/uk-gdpr/` | metadata-only | 2 | `M······` | `secid:regulation/gov.uk/uk-gdpr` |
+| `regulation/gov.uk/data-protection-act-2018/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/data-protection-act-2018` |
+| `regulation/gov.uk/nis-regulations/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/nis-regulations` |
+| `regulation/gov.uk/uk-gdpr/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/uk-gdpr` |
 | `regulation/govinfo.gov/cfaa/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/govinfo.gov/cfaa` |
 | `regulation/govinfo.gov/fisma/` | extracted | 5 | `MX·····` | `secid:regulation/govinfo.gov/fisma` |
 | `regulation/govinfo.gov/glba/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/govinfo.gov/glba` |
