@@ -32,12 +32,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (acquisition-only)",
+    "tool": "xml-direct",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Federal Register NPRM XML acquired (circia-nprm.xml). Structured per-section parsing TODO — the FR XML uses <PRORULE>/<PREAMB>/<SUPLINF>/<SECTION> structure; the statute itself is embedded inside the much larger PL 117-103 (~1000 pages of unrelated appropriations text), so we use the FR NPRM as the practical source instead."
+    "notes": "Authoritative source is the Federal Register NPRM XML at https://www.federalregister.gov/documents/full_text/xml/2024/04/04/2024-06526.xml (committed as circia-nprm.xml). extract_circia.py walks the <SECTION> elements with <SECTNO> / <SUBJECT> to produce per-section structured CSV/JSON (all 20 proposed-rule sections: § 226.1 Definitions through § 226.20 Other procedural measures). The statute itself is embedded in the 1000-page PL 117-103 — we use the FR NPRM as the practical source since it contains the regulatory text in its final-pre-promulgation form."
   },
   "extraction_history": [
     {

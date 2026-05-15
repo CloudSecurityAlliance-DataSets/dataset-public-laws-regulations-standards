@@ -1,0 +1,18 @@
+ISMS.1,Name,CIA,G 0.18,G 0.27,G 0.29
+ISMS.1.A1,Acceptance of Overall Responsibility for Information Security by Top Management,,X,X,
+ISMS.1.A2,Defining Security Objectives and Strategy,,X,,
+ISMS.1.A3,Drawing Up an Information Security Policy,,X,,
+ISMS.1.A4,Appointment of a Chief Information Security Officer,,X,X,
+ISMS.1.A5,Contract Design When Appointing an External Chief Information Security Officer,,X,,
+ISMS.1.A6,Establishment of a Suitable Organisational Structure for Information Security,,X,,
+ISMS.1.A7,Definition of Security Safeguards,,X,,
+ISMS.1.A8,Integration of Employees into the Security Process,,X,,X
+ISMS.1.A9,Integrating Information Security into Organisation-Wide Procedures and Processes,,X,,
+ISMS.1.A10,Drawing Up a Security Concept,,X,,
+ISMS.1.A11,Continuity of Information Security,,X,,X
+ISMS.1.A12,Management Reports on Information Security,,,,X
+ISMS.1.A13,Documentation of the Security Process,,X,,
+ISMS.1.A14,ELIMINATED,,,,
+ISMS.1.A15,Cost-Effective Use of Resources for Information Security,,X,,X
+ISMS.1.A16,Creating Target-Group-Orientated Security Policies,CIA,X,X,
+ISMS.1.A17,Taking Out Insurance,A,X,,

@@ -1,0 +1,18 @@
+INF.11,Name,CIA,G 0.1,G 0.2,G 0.15,G 0.16,G 0.18,G 0.19,G 0.22,G 0.24,G 0.25,G 0.27,G 0.29,G 0.30
+INF.11.A1,Planning and Procurement,,,,,,X,X,,,,,,
+INF.11.A2,"Maintenance, Inspection, and Updates",,,,,,X,X,,,X,,,
+INF.11.A3,Regulations for the Use of Vehicles,,,X,,,X,X,,,X,,,
+INF.11.A4,Creating a Security Policy,,,,,,X,,,,,,,
+INF.11.A5,Creating an Inventory List,,,,,,X,,,,,,,
+INF.11.A6,Establishing Instructions,,,,,,X,,,,,,,
+INF.11.A7,Proper Handling of Vehicles and Sensitive Information,,,,,,X,X,,,,,,
+INF.11.A8,Protection against Weather-Related Influences,,,X,,,,,,,,,,
+INF.11.A9,Ensuring Fuel Supplies,,,,,,X,,,,,,,
+INF.11.A10,Disposal,,,,,,,X,,,,,X,
+INF.11.A11,Replacement Arrangements in the Event of Breakdowns,A,,,,,,,,,,X,,
+INF.11.A12,Anti-Theft System or Security Guards,CA,,,,X,,,,,,,,
+INF.11.A13,Damaging Third-Party Interference,A,,,,,,,,X,,,,
+INF.11.A14,Protection of Sensitive Information from Unauthorised Access and Disclosure,CIA,,,,,,X,X,,,,,
+INF.11.A15,Physical Protection of Interfaces,CIA,,X,X,,,,,,,,,X
+INF.11.A16,Fire Extinguishing System,A,X,,,,,,,,,,,
+INF.11.A17,Network Separation of the In-Vehicle Network with a Special Vehicle Network via Gateways,C,,,,,,X,,,,,,

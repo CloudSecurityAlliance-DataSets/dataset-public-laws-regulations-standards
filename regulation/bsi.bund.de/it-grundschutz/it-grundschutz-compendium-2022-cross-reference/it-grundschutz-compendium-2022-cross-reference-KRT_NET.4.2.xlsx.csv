@@ -1,0 +1,17 @@
+NET.4.2,Name,CIA,G 0.9,G 0.15,G 0.18,G 0.19,G 0.20,G 0.21,G 0.23,G 0.26,G 0.27,G 0.28,G 0.30,G 0.31,G 0.32,G 0.40,G 0.45,G 0.46
+NET.4.2.A1,Planning the Use of VoIP,,X,X,X,,,,,X,X,,,,,,,X
+NET.4.2.A2,ELIMINATED,,,,,,,,,,,,,,,,,
+NET.4.2.A3,Secure Administration and Configuration of VoIP End Devices,,,,,,X,X,,,,X,X,,X,,,
+NET.4.2.A4,Restricting Accessibility via VoIP,,X,,,,,,X,,,,,,X,X,,
+NET.4.2.A5,Secure Configuration of VoIP Middleware,,,,,,,X,,,,,X,X,,,,
+NET.4.2.A6,ELIMINATED,,,,,,,,,,,,,,,,,
+NET.4.2.A7,Drawing up a Security Policy for VoIP,,,X,,X,,,,,,,X,X,X,,X,X
+NET.4.2.A8,Encryption of VoIP,,,X,,X,,,,,,,,,,,,X
+NET.4.2.A9,Selection of Suitable VoIP Components,,X,X,X,,,,,,,,,,X,,,
+NET.4.2.A10,ELIMINATED,,,,,,,,,,,,,,,,,
+NET.4.2.A11,Secure Handling of VoIP End Devices,,,,,X,,,X,,,,X,,,,,
+NET.4.2.A12,Secure Decommissioning of VoIP Components,,X,,,,,,,,X,,,,,X,,
+NET.4.2.A13,Firewall Requirements When Using VoIP,,,X,,,,,,,,,,,,,,X
+NET.4.2.A14,Encryption of Signalling,CI,,X,,,,,,,,,,,,,,X
+NET.4.2.A15,Secure Media Transport Using SRTP,CI,X,,X,X,,,,,,,X,,,X,,
+NET.4.2.A16,Network Separation for Data and VoIP,CIA,X,,X,X,,,,,,,X,,,X,,

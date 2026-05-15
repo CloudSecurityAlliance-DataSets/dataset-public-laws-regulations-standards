@@ -73,9 +73,9 @@ License research complete (PR #15). These have explicit open licenses verified �
 
 ### Acquisition gaps
 
-- [ ] **CIRCIA NPRM** structured parse — XML acquired (PR #21), needs `<PRORULE>`/`<SECTION>` parser
-- [ ] **BSI IT-Grundschutz** — BSI portal requires manual navigation
-- [ ] **NIST SP 800-222** (Web App Pen Testing — IPD) — URL pattern may have moved
+- [x] ~~**CIRCIA NPRM** structured parse~~ — done in PR #23 (20 sections via `extract_circia.py`)
+- [x] ~~**BSI IT-Grundschutz**~~ — Compendium 2022 PDF + cross-reference XLSX acquired; 1,682 requirements across 104 modules / 10 layers consolidated by `extract_it_grundschutz.py` (PR #23). Compendium PDF OOM'd marker on the GPU box; cross-reference XLSX was used as the structured source instead.
+- [x] ~~**NIST SP 800-222**~~ — resolved: number never published. NIST's series jumps from 800-221 to 800-223 (verified via CSRC publication listing). Removed from queue.
 
 ### Filing reconciliations
 
@@ -131,6 +131,7 @@ The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](htt
 
 For reference — major items finished in recent PRs:
 
+- **PR #23** (2026-05-15): One-offs — CIRCIA NPRM structured parse (20 sections); BSI IT-Grundschutz 2022 (1,682 requirements / 104 modules); NIST 800-222 resolved as non-existent.
 - **PR #21** (2026-05-15): NIST 800-82 r3 OT controls; UK PSTI; CA SB-327; COPPA; HAVA; CALEA; UK CMA; EO 14028; CIRCIA acquisition. README scope section.
 - **PR #20** (2026-05-15): China GenAI Interim Measures; NIST 800-172; NIST 800-161 r1; HITRUST CSF v11.3.0
 - **PR #19** (2026-05-14): 5 Canadian provincial laws — Alberta PIPA/HIA, BC PIPA, Ontario PHIPA, Quebec Loi 25

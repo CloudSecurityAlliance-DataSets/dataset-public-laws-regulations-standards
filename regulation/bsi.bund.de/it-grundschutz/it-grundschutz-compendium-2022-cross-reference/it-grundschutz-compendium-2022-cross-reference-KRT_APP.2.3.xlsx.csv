@@ -1,0 +1,14 @@
+APP.2.3,Name,CIA,G 0.11,G 0.15,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.29,G 0.30,G 0.38,G 0.43,G 0.45
+APP.2.3.A1,Planning and Selecting Back Ends and Overlays for OpenLDAP,,,X,,X,X,,X,,,,X,
+APP.2.3.A2,ELIMINATED,,,,,,,,,,,,,
+APP.2.3.A3,Secure Configuration of OpenLDAP,,,X,,,,,,X,X,,,
+APP.2.3.A4,Configuration of the Database Used by OpenLDAP,,X,,X,,,,,X,,,X,X
+APP.2.3.A5,Secure Assignment of Access Rights to OpenLDAP,,,X,X,,,,,X,,,,
+APP.2.3.A6,Secure Authentication for OpenLDAP,,,X,,,,,,X,,,,
+APP.2.3.A7,ELIMINATED,,,,,,,,,,,,,
+APP.2.3.A8,Restrictions on Attributes in OpenLDAP,,,,,,,,,,,,,X
+APP.2.3.A9,Partitioning and Replication in OpenLDAP,,,X,,,,X,,,,,X,
+APP.2.3.A10,Secure Updating of OpenLDAP,,,X,,,,,,,X,,,
+APP.2.3.A11,Restriction of the OpenLDAP Runtime Environment,,,X,,,,,X,,,X,,
+APP.2.3.A12,ELIMINATED,,,,,,,,,,,,,
+APP.2.3.A13,ELIMINATED,,,,,,,,,,,,,

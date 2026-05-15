@@ -1,0 +1,31 @@
+INF.14,Name,CIA,G 0.9,G 0.10,G 0.14,G 0.15,G 0.18,G 0.19,G 0.20,G 0.22,G 0.23,G 0.25,G 0.26,G 0.29,G 0.30,G 0.32,G 0.37,G 0.40,G 0.43,G 0.46
+INF.14.A1,Planning BACS,,,,,,X,,,,,,,,,,,,,
+INF.14.A2,Defining Commissioning and Interface Management for BACS,,,,,,X,,,,,,,,,,,,,
+INF.14.A3,Secure Connection of Building Services and Building Services Systems,,X,X,X,X,X,X,,X,,X,X,,,,,,,X
+INF.14.A4,Consideration of Hazard Detection Systems in BACS,,X,,,,X,X,,,,X,X,X,,,,X,X,
+INF.14.A5,Documentation of BACS,,,,,,X,,,,,,,X,,,,,,
+INF.14.A6,Separation of BACS Networks,,X,,,,,X,,,X,,,,,,,X,X,
+INF.14.A7,Drawing Up a Security Policy for BACS,,,,,,X,,,,,,,,,,,,,
+INF.14.A8,Requirements Specification for BACS,,,,,,X,,,,X,,,,,,,,,
+INF.14.A9,Developing a BACS Concept ,,,,,,X,,,,,,,,,,,,,
+INF.14.A10,Formation of Independent BACS Areas,,X,X,,,X,,,,,X,X,,,,,X,,
+INF.14.A11,Securing Freely Accessible Ports and Access Points in BACS,,,,X,X,,X,,X,X,,,,X,,,X,X,
+INF.14.A12,Use of Secure Transmission Protocols for BACS ,,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A13,Network Segmentation in BACS,,X,,,,,X,,,X,,,,,,,X,X,
+INF.14.A14,Use of BACS-Appropriate Access Protection,,,,,,X,,,,,,,,X,X,,,,
+INF.14.A15,Security of BACS-Specific Networks,,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A16,Securing Wireless Communication in BACS Networks,,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A17,Securing Mobile Communications in BACS Networks,,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A18,Secure Integration of BACS-External Systems,,,,X,X,,X,,X,X,,,,X,,,,X,X
+INF.14.A19,Use of Dedicated Address Ranges for BACS Networks,,X,,,,,,,,,X,X,,,,,,,
+INF.14.A20,Avoiding Broadcast Communication in BACS Networks,,X,,,X,,X,,,,,,,,,,X,,
+INF.14.A21,Displaying Validity of Information in BACS,,,,,,,,X,,,,,,,,,,,
+INF.14.A22,Ensuring Autonomous Functioning of BACS and Building Services Systems,,,,,,X,,,,,X,X,,,,,,,
+INF.14.A23,Use of Physically Robust Components for BACS,,,,,,,,,,,X,X,,,,,,,
+INF.14.A24,Time Synchronisation for BACS,,,,,,X,,,,,X,X,,,,,,,X
+INF.14.A25,Dedicated Monitoring in BACS,,,,,,X,X,,,,,,,,,,,,
+INF.14.A26,Logging in BACS,,,,,,X,X,,,,,,,,,X,,,
+INF.14.A27,Consideration of Interactions Between BACS Components in Contingency Planning,,,,,,X,,,,,X,X,X,,,,,,
+INF.14.A28,Physical Separation of BACS,CI,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A29,Separation of Individual Building Services Systems,CI,,,X,X,,X,,X,X,,,,,,,,X,X
+INF.14.A30,Provision of a Dedicated BACS Time Server for Time Synchronisation,IA,,,,,X,,,,,X,X,,,,,,,X

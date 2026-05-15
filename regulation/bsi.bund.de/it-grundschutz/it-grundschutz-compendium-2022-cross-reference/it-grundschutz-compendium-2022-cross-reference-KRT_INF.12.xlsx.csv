@@ -1,0 +1,18 @@
+INF.12,Name,CIA,G 0.1,G 0.2,G 0.8,G 0.9,G 0.12,G 0.15,G 0.18,G 0.21,G 0.25,G 0.26,G 0.27,G 0.29,G 0.37,G 0.41
+INF.12.A1,Selection of Appropriate Cable Types,,,,X,X,X,,X,,X,X,X,,,
+INF.12.A2,Planning Cable Routing,,X,X,X,X,X,,X,X,X,X,,X,,X
+INF.12.A3,Proper Installation,,X,,X,X,,X,,X,X,X,,X,X,X
+INF.12.A4,EMC-Compliant Power Supply,,,,X,,,,,,,,,,,
+INF.12.A5,Requirements Analysis for Cabling,,X,,X,X,,,,,X,X,,,,X
+INF.12.A6,Cabling Approval,,,X,X,,,,X,X,X,X,X,X,,X
+INF.12.A7,Overvoltage Protection,,,,X,,X,,X,,,,,,,
+INF.12.A8,Removing and Disabling Cables No Longer Required,,,,X,,,,X,,,,,,X,
+INF.12.A9,Fire Prevention in Trays,,,,X,,,X,,X,,,,,,
+INF.12.A10,Documentation and Labelling of Cabling,,,,X,,,X,X,,,,,,X,
+INF.12.A11,Neutral Documentation in Distributors,,,,X,,,X,,,,,,,,
+INF.12.A12,Inspection of Electrical Installations and Existing Connections,,,,X,X,X,,,X,X,X,,,,
+INF.12.A13,Avoidance of Electrical Ignition Sources,,X,,X,,X,,,,,,,,,
+INF.12.A14,A-B Supply,A,,,X,,X,,,,,,,,,
+INF.12.A15,Material Protection of Cabling,IA,,,X,X,,X,,X,X,,,,,X
+INF.12.A16,Use of Cabinet Systems,IA,,,X,,,X,,X,X,,,,,X
+INF.12.A17,Redundancies for IT Cabling,A,X,,X,X,,,,,X,X,X,,,X

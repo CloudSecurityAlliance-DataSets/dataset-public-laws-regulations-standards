@@ -1,0 +1,14 @@
+OPS.1.1.5,Name,CIA,G 0.9,G 0.14,G 0.15,G 0.18,G 0.19,G 0.22,G 0.25,G 0.26,G 0.27,G 0.29,G 0.32,G 0.37,G 0.38,G 0.46
+OPS.1.1.5.A1,Drawing Up a Security Policy for Logging,,,,,X,,,,,,,,,,
+OPS.1.1.5.A2,ELIMINATED,,,,,,,,,,,,,,,
+OPS.1.1.5.A3,Configuring Logging at the System and Network Level,,,,,,,,,,,X,,X,,
+OPS.1.1.5.A4,Time Synchronisation of IT Systems,,,,,,,,,,,,,X,,
+OPS.1.1.5.A5,Complying with Legal Framework Conditions,,,,,,,,,,,X,X,,X,X
+OPS.1.1.5.A6,Basic Structure of a Centralised Logging Infrastructure,,,,,X,,,,X,X,,,X,,
+OPS.1.1.5.A7,ELIMINATED,,,,,,,,,,,,,,,
+OPS.1.1.5.A8,Archiving of Log Data,,,,,,,,,,,X,,,,
+OPS.1.1.5.A9,Providing Log Data for Assessment,,,,,X,,,,,X,X,,,,X
+OPS.1.1.5.A10,Access Protection for Log Data,,,,,,,X,,,,,X,,,
+OPS.1.1.5.A11,Increasing the Scope of Logging,CIA,,,,,,,,,,X,,X,,
+OPS.1.1.5.A12,Encryption of Log Data,CI,,X,X,,X,X,,,,,,,,X
+OPS.1.1.5.A13,Highly Available Logging Infrastructure,A,X,,,,,,X,,X,,,,,

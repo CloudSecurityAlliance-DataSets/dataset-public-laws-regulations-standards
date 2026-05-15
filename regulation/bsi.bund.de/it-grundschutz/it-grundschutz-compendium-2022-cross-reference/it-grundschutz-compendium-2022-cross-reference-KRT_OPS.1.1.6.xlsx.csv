@@ -1,0 +1,17 @@
+OPS.1.1.6,Name,CIA,G 0.14,G 0.18,G 0.19,G 0.25,G 0.26,G 0.27,G 0.28,G 0.32,G 0.38,G 0.41,G 0.45,G 0.46
+OPS.1.1.6.A1,Planning of Software Tests,,,X,,X,X,,,,,,,
+OPS.1.1.6.A2,Performing Functional Software Tests,,,,,X,X,,,,,,,
+OPS.1.1.6.A3,Assessing Test Results,,,,,,X,,,,,,,
+OPS.1.1.6.A4,Software Approval,,,X,,X,X,,,,,,,
+OPS.1.1.6.A5,Performing Software Tests for Non-Functional Requirements,,,,,,,X,X,,,,,
+OPS.1.1.6.A6,Orderly Instruction of Software Testers,,,X,,,,,,,,,,
+OPS.1.1.6.A7,Selecting Software Testers,,X,X,,,,,,,,X,,
+OPS.1.1.6.A8,ELIMINATED,,,,,,,,,,,,,
+OPS.1.1.6.A9,ELIMINATED,,,,,,,,,,,,,
+OPS.1.1.6.A10,Drawing Up an Acceptance Plan,,,X,,,,,,,,,,
+OPS.1.1.6.A11,Using Anonymised or Pseudonymised Test Data,,,,X,,,,,,X,,,
+OPS.1.1.6.A12,Performing Regression Tests,,,X,,X,X,,X,,,,,
+OPS.1.1.6.A13,Separating the Test Environment from the Production Environment,,,X,X,X,X,,,X,X,,X,X
+OPS.1.1.6.A14,Performing Penetration Tests,CIA,,X,,,,,X,,,,,
+OPS.1.1.6.A15 ,Verification of Installation and Related Documentation,,,X,,X,X,,,,,,,
+OPS.1.1.6.A16,Security Vetting of Testers,CIA,X,X,,,,,,,,,,

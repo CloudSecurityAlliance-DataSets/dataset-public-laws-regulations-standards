@@ -1,0 +1,16 @@
+OPS.1.1.4,Name,CIA,G 0.14,G 0.19,G 0.23,G 0.32,G 0.36,G 0.39,G 0.42,G 0.46
+OPS.1.1.4.A1,Creating a Malware Protection Concept,,X,X,X,X,X,X,X,X
+OPS.1.1.4.A2,Using System-Specific Protection Mechanisms,,X,X,X,X,X,X,,X
+OPS.1.1.4.A3,Selection of a Virus Protection Program,,X,X,X,X,X,X,,X
+OPS.1.1.4.A4,ELIMINATED,,,,,,,,,
+OPS.1.1.4.A5,Operation and Configuration of Virus Protection Programs,,X,X,X,X,X,X,X,X
+OPS.1.1.4.A6,Regular Updating of Virus Protection Programs and Signatures,,X,X,X,X,X,X,X,X
+OPS.1.1.4.A7,User Awareness and Obligations,,X,X,X,X,,X,,X
+OPS.1.1.4.A8,ELIMINATED,,,,,,,,,
+OPS.1.1.4.A9,Reporting Malware Infections,,X,X,X,X,X,X,,X
+OPS.1.1.4.A10,Using Special Analysis Environments,CIA,X,X,X,X,X,X,,X
+OPS.1.1.4.A11,Using Several Scan Engines,CIA,X,X,X,X,X,,X,X
+OPS.1.1.4.A12,Using Storage Media Locks,CIA,X,X,X,X,X,X,,X
+OPS.1.1.4.A13,Handling Untrusted Files,CIA,X,X,X,X,X,X,,X
+OPS.1.1.4.A14,Selecting and Using Cyber Security Products to Thwart Targeted Attacks,CIA,X,X,X,X,X,X,,X
+OPS.1.1.4.A15,ELIMINATED,,,,,,,,,

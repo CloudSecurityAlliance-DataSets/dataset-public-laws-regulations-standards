@@ -1,0 +1,23 @@
+CON.8,Name,CIA,G 0.14,G 0.15,G 0.18,G 0.19,G 0.20,G 0.22,G 0.23,G 0.25,G 0.28,G 0.29,G 0.30,G 0.31,G 0.32,G 0.39,G 0.40,G 0.41,G 0.46
+CON.8.A1,Definition of Roles and Responsibilities,,,,X,,,,,,,X,X,X,X,,,,
+CON.8.A2,Selection of a Process Model,,,,X,,,,,,,X,,,,,,,
+CON.8.A3,Selection of a Development Environment,,,,X,,X,,,,,,,,,,,,
+CON.8.A4,ELIMINATED,,,,,,,,,,,,,,,,,,
+CON.8.A5,Secure System Design,,X,X,X,X,X,,X,X,,,,,,,X,X,X
+CON.8.A6,Use of External Libraries from Trusted Sources,,X,X,,,X,X,,,,,X,,,,X,,
+CON.8.A7,Conducting Software Tests During Development,,,,,,,,,,X,X,,,,,,,
+CON.8.A8,"Provision of Patches, Updates, and Changes",,,,,X,,,,,X,X,,,X,,,,
+CON.8.A9,ELIMINATED,,,,,,,,,,,,,,,,,,
+CON.8.A10,Source Code Version Management,,,,,,,,,,,,X,X,,,,,
+CON.8.A11,Drawing Up a Policy for Software Development,,,,,,,,,,,X,,X,,,X,X,X
+CON.8.A12,Detailed Documentation,,,,,,,,,,,X,,,,,,,
+CON.8.A13,ELIMINATED,,,,,,,,,,,,,,,,,,
+CON.8.A14,Training Development Teams on Information Security,,,,,X,X,,,X,,,,,X,,,,
+CON.8.A15,ELIMINATED,,,,,,,,,,,,,,,,,,
+CON.8.A16,Appropriate Control of Software Development,,,X,X,,X,,X,X,,,,X,X,X,X,X,X
+CON.8.A17,Selection of Trusted Development Tools,CI,,X,,X,X,,,X,,,,,,,,,X
+CON.8.A18,Periodic Security Audits of the Development Environment,CIA,,,,X,,X,,,X,X,,,,,,,
+CON.8.A19,Regular Integrity Audits of the Development Environment,I,,,,,,,,,,,,X,,,,,
+CON.8.A20,Checking External Components,,,,,X,,,,,X,,,,,,,,
+CON.8.A21,Threat Modelling,,,,X,,,,,,,,,,,,,,
+CON.8.A22,Secure Software Design,,,,X,,,,,,X,,,,,,,,

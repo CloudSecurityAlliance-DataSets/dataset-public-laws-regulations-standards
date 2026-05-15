@@ -1,0 +1,25 @@
+SYS.4.4,Name,CIA,G 0.2,G 0.4,G 0.8,G 0.9,G 0.14,G 0.16,G 0.18,G 0.19,G 0.20,G 0.21,G 0.23,G 0.24,G 0.25,G 0.26,G 0.28,G 0.29,G 0.30,G 0.38,G 0.39,G 0.40
+SYS.4.4.A1,Criteria for Using IoT Device,,,,,,X,,X,X,X,,X,,,X,X,,,,,
+SYS.4.4.A2,Authentication,,,,,,X,,,X,,X,X,,,,,,X,X,X,X
+SYS.4.4.A3,ELIMINATED,,,,,,,,,,,,,,,,,,,,,
+SYS.4.4.A4,ELIMINATED,,,,,,,,,,,,,,,,,,,,,
+SYS.4.4.A5,Restriction of Network Access,,,,,,X,,,X,X,X,X,,X,X,X,X,X,X,X,X
+SYS.4.4.A6,Integration of IoT Devices into Organisation Security Policies,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+SYS.4.4.A7,Planning the Use of IoT Devices,,X,X,X,X,,X,X,X,,X,X,,,,,,X,X,X,X
+SYS.4.4.A8,Procurement Criteria for IoT Devices,,,,,,X,,X,,X,,X,,,X,X,,,,,
+SYS.4.4.A9,Controlling the Use of IoT Devices,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,
+SYS.4.4.A10,Secure Installation and Configuration of IoT Devices,,,,,,X,,X,X,,X,X,,X,,X,,X,X,X,X
+SYS.4.4.A11,Using Encrypted Data Transmission,,,,,,X,,,,,,X,,,,X,,X,X,X,X
+SYS.4.4.A12,ELIMINATED,,,,,,,,,,,,,,,,,,,,,
+SYS.4.4.A13,Deactivation and Uninstallation of Unnecessary Components,,,,,,X,,,X,,X,X,,,X,X,,X,X,X,X
+SYS.4.4.A14,ELIMINATED,,,,,,,,,,,,,,,,,,,,,
+SYS.4.4.A15,Restrictive Granting of Access Rights,,,,,,X,,,X,,X,X,,,,X,,X,X,X,X
+SYS.4.4.A16,Elimination of Malware on IoT Devices,,,,,,,,,,,,,,,,,,,,X,
+SYS.4.4.A17,Monitoring Network Traffic on IoT Devices,,,,,X,X,,,,,X,X,,X,X,X,,X,,,X
+SYS.4.4.A18,Logging Security-Relevant Events on IoT Devices,,,,,,X,,,X,,X,X,,,,,,X,,,
+SYS.4.4.A19,Protection of Administration Interfaces,,,,,,X,,,X,,X,X,,,,X,,X,X,X,X
+SYS.4.4.A20,Controlled Decommissioning of IoT Devices,,,,,,,,X,X,,,,,,,,,,,,
+SYS.4.4.A21,Operational Environment and Power Supply,I,X,X,X,,,X,X,,,,,X,X,,,X,,,,
+SYS.4.4.A22,System Monitoring,A,,,,,,,,,,X,X,,X,X,,,,,,X
+SYS.4.4.A23,Auditing of IoT Devices,CIA,,,,,X,,X,X,X,X,X,,,X,X,,,,,
+SYS.4.4.A24,Secure Configuration and Usage of an Embedded Web Server,CIA,,,,,X,,,X,,,X,,,,X,,X,,,

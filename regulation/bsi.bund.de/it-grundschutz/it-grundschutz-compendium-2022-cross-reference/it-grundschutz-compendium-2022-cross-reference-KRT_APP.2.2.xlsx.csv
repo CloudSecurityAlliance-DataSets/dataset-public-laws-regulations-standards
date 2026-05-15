@@ -1,0 +1,16 @@
+APP.2.2,Name,CIA,G 0.11,G 0.14,G 0.15,G 0.18,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.28,G 0.29,G 0.30,G 0.31,G 0.32,G 0.36,G 0.37,G 0.38,G 0.39,G 0.40,G 0.42,G 0.43,G 0.45,G 0.46
+APP.2.2.A1,Planning Active Directory,,X,X,X,X,X,X,,X,,X,X,,,,,X,X,,,,X,,,X,X
+APP.2.2.A2,Planning of Active Directory Administration,,X,X,X,X,X,X,X,X,,,,,,X,X,X,X,,X,,,,X,,X
+APP.2.2.A3,Planning of Group Policy in Windows,,,X,X,X,X,X,,X,,,,,,,,X,X,,,,,,X,,X
+APP.2.2.A4,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,,
+APP.2.2.A5,Hardening Active Directory,,,X,X,,X,X,X,X,,,,X,X,X,,X,X,X,X,X,X,,X,X,X
+APP.2.2.A6,Maintaining the Operational Continuity of Active Directory,,,X,X,,X,X,X,X,,,,X,X,X,,X,X,X,X,X,X,,X,X,X
+APP.2.2.A7,Implementation of Secure Administration Methods for Active Directory,,X,X,X,X,X,X,X,X,,,,,,X,X,X,X,,X,,,,X,,X
+APP.2.2.A8,Configuration of Secure Channel in Windows,,,X,X,,X,X,X,X,,,,,,X,,,X,,,,,,X,,X
+APP.2.2.A9,Authentication Protection When Using Active Directory,,,X,X,,X,X,X,X,,,,,,X,,,X,,,,,,X,,X
+APP.2.2.A10,Secure Use of DNS for Active Directory,,,,,,,,,X,,,,,,X,,,,,,,X,X,X,X,X
+APP.2.2.A11,Monitoring Active Directory Infrastructure,,,,,X,,,,X,X,X,X,,,X,X,X,,X,,X,X,X,,,
+APP.2.2.A12,Backups for Domain Controllers,,,,,,,,,,X,,,,,,,,,X,,X,X,,,X,
+APP.2.2.A13,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,,
+APP.2.2.A14,Use of Dedicated Privileged Administration Systems,CIA,,X,X,,X,X,X,X,,,,,,X,X,X,,X,,,,,,,
+APP.2.2.A15,Separation of Administration and Production Environments,CIA,,X,X,,X,X,X,X,,,,,,X,X,X,,X,,,,,,,

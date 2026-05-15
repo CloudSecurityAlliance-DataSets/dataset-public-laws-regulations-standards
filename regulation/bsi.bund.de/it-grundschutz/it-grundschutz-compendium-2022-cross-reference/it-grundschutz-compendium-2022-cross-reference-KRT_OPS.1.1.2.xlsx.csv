@@ -1,0 +1,21 @@
+OPS.1.1.2,Name,CIA,G 0.14,G 0.16,G 0.21,G 0.22,G 0.27,G 0.29,G 0.30,G 0.31,G 0.32,G 0.33,G 0.35,G 0.37,G 0.42
+OPS.1.1.2.A1,ELIMINATED,,,,,,,,,,,,,,
+OPS.1.1.2.A2,Deputising Rules and Contingency Planning,,,,,,,,,,,X,,,
+OPS.1.1.2.A3,Controlled Hiring of IT Administrators,,X,X,X,X,,X,X,,X,,X,,X
+OPS.1.1.2.A4,Termination of IT Administration Duties,,X,,X,X,,,X,,X,,X,X,
+OPS.1.1.2.A5,Verifying Administrative Tasks,,X,,X,X,,,X,,,,,X,
+OPS.1.1.2.A6,Protecting Administrative Tasks,,X,,X,X,,,X,,,,,X,
+OPS.1.1.2.A7,Regulation of IT Administration Tasks,,X,,X,X,,X,X,,X,,,,
+OPS.1.1.2.A8,Administration of Specialised Applications,,,,,,,,X,X,X,,,,
+OPS.1.1.2.A9,Sufficient Resources for the IT Operation Department,,,,,,X,,,X,,X,,,
+OPS.1.1.2.A10,Further Education and Information,,,,,,,,,X,,,,,
+OPS.1.1.2.A11,Documentation of IT Administration Tasks,,,,,X,,,X,,X,,,X,
+OPS.1.1.2.A12,Provisions for Maintenance and Repairs,,X,X,X,X,,X,X,,,,,,X
+OPS.1.1.2.A13,ELIMINATED,,,,,,,,,,,,,,
+OPS.1.1.2.A14,Security Vetting of Administrators,CIA,X,X,X,X,,,X,,X,,,,
+OPS.1.1.2.A15,Division of Administrative Activities,CI,,,X,X,,,,,X,,X,,X
+OPS.1.1.2.A16,Access Restrictions for Administrative Access,CIA,X,,X,X,,,X,,,,,,
+OPS.1.1.2.A17,Dual Control in IT Administration,CI,X,,X,X,X,,X,X,X,X,X,X,X
+OPS.1.1.2.A18,Consistent Logging of Administrative Activities,CI,X,,X,X,,,X,,X,,,X,
+OPS.1.1.2.A19,Consideration of High-Availability Requirements,A,,,,,X,,,,,X,,,
+OPS.1.1.2.A20,Administration and Commissioning of Devices,,X,X,,X,,,,,,,,,

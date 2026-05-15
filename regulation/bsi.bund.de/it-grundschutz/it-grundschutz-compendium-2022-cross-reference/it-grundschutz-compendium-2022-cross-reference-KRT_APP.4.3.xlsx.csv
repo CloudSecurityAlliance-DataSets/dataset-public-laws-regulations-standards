@@ -1,0 +1,26 @@
+APP.4.3,Name,CIA,G 0.14,G 0.15,G 0.18,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.30,G 0.31,G 0.39,G 0.40,G 0.43,G 0.45,G 0.46
+APP.4.3.A1,Creation of a Security Policy for Database Systems,,,,X,,,,,,,X,X,,,,,,
+APP.4.3.A2,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A3,Basic Hardening of Database Management Systems,,X,X,,X,X,X,X,,,,X,,X,,,,X
+APP.4.3.A4,Controlled Creation of New Databases,,X,X,,X,X,X,X,,,,X,,,,,,X
+APP.4.3.A5,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A6,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A7,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A8,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A9,Backing Up a Database System,,,,,,X,X,,,,,,,,,,X,X
+APP.4.3.A10,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A11,Sufficient Hardware Capacity,,,,,,,,,X,X,X,,,,X,,,
+APP.4.3.A12,Uniform Configuration Standard for Database Management Systems,,X,X,,X,X,X,X,,,,X,,X,,,,X
+APP.4.3.A13,Restrictive Utilisation of Database Links,,X,,,,,X,X,,,,X,,,,,,
+APP.4.3.A14,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A15,ELIMINATED,,,,,,,,,,,,,,,,,,
+APP.4.3.A16,Encryption of Database Connections,,,X,,,,,,,,,,,,,X,,
+APP.4.3.A17,Data Transfer or Migration,,,,,,X,X,,,X,,,,,,,,
+APP.4.3.A18,Database Management System Monitoring,,,,,,,,,X,X,X,,,,X,,,
+APP.4.3.A19,Protection Against Malicious Database Scripts,,,,,X,X,X,X,,,,,X,X,,,,X
+APP.4.3.A20,Regular Audits,,,,,X,,X,X,,X,,X,,,,,,X
+APP.4.3.A21,Use of Database Security Tools,CI,,,,X,X,,X,,,,X,,,,,,X
+APP.4.3.A22,Contingency Planning,CIA,,,,,,,,X,,,,,,X,,X,
+APP.4.3.A23,Archiving,IA,,,,,X,X,,,,,,,,,,X,X
+APP.4.3.A24,Data Encryption in Databases,C,X,X,,X,,X,X,,,,,,X,,,,X
+APP.4.3.A25,Security Vetting of Database Systems,CIA,,X,X,X,X,X,X,,X,,X,,X,,,,X

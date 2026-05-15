@@ -1,0 +1,13 @@
+INF.9,Name,CIA,G 0.14,G 0.16,G 0.17,G 0.18,G 0.19,G 0.21,G 0.22,G 0.23,G 0.24,G 0.25,G 0.29,G 0.30,G 0.31,G 0.44,G 0.45,G 0.46
+INF.9.A1,Appropriate Selection and Usage of a Mobile Workplace,,X,X,,X,X,X,X,,,X,,,,,,
+INF.9.A2,Regulations for Mobile Workplaces,,X,X,,X,X,X,X,X,X,X,X,X,X,X,X,
+INF.9.A3,Site and Data Access Protection,,X,X,,,X,X,X,,X,,,X,,X,,X
+INF.9.A4,Working with External IT Systems,,,,,,X,,X,,,,,X,X,,,X
+INF.9.A5,Prompt Reporting of a Loss,,X,,,,X,,,,,,,,,,,
+INF.9.A6,Disposal of Confidential Information,,X,,,X,X,,,,,,,,,,,X
+INF.9.A7,Legal Framework Conditions for Mobile Working,,,,,,,,,,,,X,,,,,
+INF.9.A8,Security Policy for Mobile Workplaces,,X,,,X,X,X,X,X,,,X,X,X,,,X
+INF.9.A9,Encryption of Portable IT Systems and Storage Media,,X,X,X,,X,,X,,,,,,,,,
+INF.9.A10,Use of Anti-Theft Devices,CIA,,X,,,,,,X,,,,X,X,,X,
+INF.9.A11,Prohibiting Use of Insecure Environments,CIA,X,,,,X,,,,,X,X,,,,,
+INF.9.A12,Using a Screen Protector,,X,,,,X,,X,,,,,X,X,,X,X

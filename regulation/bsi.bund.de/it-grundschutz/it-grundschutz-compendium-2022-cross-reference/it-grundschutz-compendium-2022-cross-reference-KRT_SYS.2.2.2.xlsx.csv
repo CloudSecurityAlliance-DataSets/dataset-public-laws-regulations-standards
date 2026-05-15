@@ -1,0 +1,22 @@
+SYS.2.2.2,Name,CIA,G 0.16,G 0.18,G 0.19,G 0.22,G 0.23,G 0.25,G 0.28,G 0.29,G 0.30,G 0.31,G 0.32,G 0.36,G 0.39,G 0.45,G 0.46
+SYS.2.2.2.A1,Selecting a Suitable Windows 8.1 Version,,,,,X,,,X,X,X,X,,,,,
+SYS.2.2.2.A2,Defining a Login Procedure for Windows 8.1,,X,,X,X,X,,,X,X,,X,,,,X
+SYS.2.2.2.A3,Use of Virus Protection Programs with Windows 8.1,,,,X,,,,,X,,,X,,X,X,X
+SYS.2.2.2.A4,Procurement of Windows 8.1,,,X,,,,,,,,,,,,,
+SYS.2.2.2.A5,Local Security Policy for Windows 8.1,,,,X,X,,,,X,X,X,,,X,,X
+SYS.2.2.2.A6,ELIMINATED,,,,,,,,,,,,,,,,
+SYS.2.2.2.A7,Use of Windows User Account Control,,,,,X,,,,,,X,,,,,X
+SYS.2.2.2.A8,No Use of the Homegroup Feature,,,,X,,,,,,X,,,,,X,
+SYS.2.2.2.A9,Data Protection and Data Economy in Windows 8.1 Clients,,,,X,X,,,,,,,X,X,X,,X
+SYS.2.2.2.A10,Integration of Online Accounts into the Operating System,,X,X,X,X,,X,,X,X,X,,,,X,
+SYS.2.2.2.A11,Configuration of Synchronisation Mechanisms in Windows 8.1,,X,X,X,X,,X,,X,X,X,,,,X,
+SYS.2.2.2.A12,Secure Central Authentication of Windows Networks,,,X,X,,,,,,,,,,,,X
+SYS.2.2.2.A13,Connection of Windows 8.1 to the Microsoft Store,,,,X,X,,,,,,,X,X,X,,X
+SYS.2.2.2.A14,Application Control Using Software Restriction Policies and AppLocker,CIA,,,X,X,,,,,,,X,X,X,,X
+SYS.2.2.2.A15,File System Encryption Using EFS,CI,,,X,,,,,,,,,,,,X
+SYS.2.2.2.A16,Use of Windows PowerShell,CIA,,,,X,,,,,X,X,,,,,
+SYS.2.2.2.A17,Secure Use of the Maintenance Centre,CIA,,,,,,,,,,X,,,,,
+SYS.2.2.2.A18,Activation of the Last Access Time Stamp,A,,X,,X,,,,,,,X,,,,
+SYS.2.2.2.A19,Use of Login Information Management,C,X,,,,,,,,,X,,,,,
+SYS.2.2.2.A20,Security During Remote Access Using RDP,CIA,,,X,,,,,,X,X,X,,,,X
+SYS.2.2.2.A21,Use of File and Registry Virtualisation,CI,,,,X,,,,,,X,,,,,X

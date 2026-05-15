@@ -1,0 +1,23 @@
+DER.2.1,Name,CIA,G 0.11,G 0.18,G 0.19,G 0.20,G 0.22,G 0.25,G 0.27,G 0.29,G 0.30,G 0.32,G 0.33,G 0.45,G 0.46
+DER.2.1.A1,Definition of a Security Incident,,,X,X,X,,,,X,,,,,
+DER.2.1.A2,Drawing Up a Policy for Handling Security Incidents,,,X,,,,,X,X,,,,,
+DER.2.1.A3,Specification of Responsibilities and Contact Persons in the Event of Security Incidents,,,X,,,,,X,X,,,X,,
+DER.2.1.A4,Notification of Entities Affected by Security Incidents,,,,X,X,,,,X,,,,,
+DER.2.1.A5,Remedial Action in Connection with Security incidents,,X,X,X,,,X,X,X,,,,,
+DER.2.1.A6,Recovering the Operating Environment After Security Incidents,,X,X,X,,,X,,X,X,X,,X,X
+DER.2.1.A7,Establishment of a Procedure for Handling Security Incidents,,,X,,,,,X,X,,,,,
+DER.2.1.A8,Design of Organisational Structures for Handling Security Incidents,,,X,,,,,X,X,,,X,,
+DER.2.1.A9,Definition of Reporting Paths for Security Incidents,,,X,X,X,X,,X,X,,,X,,
+DER.2.1.A10,Limiting the Effects of Security Incidents,,,X,,,,X,,X,,,,X,X
+DER.2.1.A11,Classification of Security Incidents,,,X,X,,,,,X,,,,,
+DER.2.1.A12,Specification of Where Security Incident Handling Overlaps with Fault Management,,,X,X,,,,X,,,,,,X
+DER.2.1.A13,Integration into Security and Business Continuity Management,,,X,,,,,,,,,,,X
+DER.2.1.A14,Escalation Strategy for Security Incidents,,,X,X,X,X,,,X,,,,,X
+DER.2.1.A15,Training Service Desk Employees,,,X,X,X,,,,X,,,,,
+DER.2.1.A16,Documentation for Remedying Security Incidents,,,X,,,,,,X,,,,,
+DER.2.1.A17,Evaluation of Security Incidents,,,X,X,X,X,,,X,,,,X,X
+DER.2.1.A18,Further Development of Processes Based on Findings from Security Incidents and Industry Developments,,,X,X,X,,,,X,,,,X,X
+DER.2.1.A19,Specifying Priorities for Handling Security Incidents,CIA,,X,,,,X,X,,,,X,X,X
+DER.2.1.A20,Creation of a Dedicated Reporting Office for Security Incidents,CIA,,X,X,X,X,,X,X,,X,,X,X
+DER.2.1.A21,Assembling a Team of Experts for Handling Security Incidents,CIA,,X,X,X,,,X,X,,X,X,X,X
+DER.2.1.A22,Reviewing Management System Efficiency in Handling Security Incidents,CIA,X,X,X,X,X,X,X,X,,,X,X,X

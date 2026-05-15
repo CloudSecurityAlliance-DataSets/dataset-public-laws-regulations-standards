@@ -1,0 +1,16 @@
+CON.3,Name,CIA,G 0.1,G 0.2,G 0.16,G 0.18,G 0.19,G 0.22,G 0.29,G 0.39,G 0.45,G 0.46
+CON.3.A1,Determining the Factors That Influence Backups,,,,,X,,,X,,,
+CON.3.A2,Establishment of Backup Procedures,,,,,X,,,,X,,
+CON.3.A3,ELIMINATED,,,,,,,,,,,
+CON.3.A4,Creating Backup Plans,,,,,X,,,,,,
+CON.3.A5,Regular Backups,,,,,X,X,,,,X,
+CON.3.A6,Developing a Backup Concept,,,,,X,,,,,,
+CON.3.A7,Procuring a Suitable Backup System,,,,,X,,,,,,
+CON.3.A8,ELIMINATED,,,,,,,,,,,
+CON.3.A9,Prerequisites of Online Backups,,,,,X,,,,,,
+CON.3.A10,ELIMINATED,,,,,,,,,,,
+CON.3.A11,ELIMINATED,,,,,,,,,,,
+CON.3.A12,Secure Storage of Backup Media,,X,X,,,,,,,X,X
+CON.3.A13,Using Cryptographic Methods for Backups,CIA,,,,X,X,X,,,,X
+CON.3.A14,Protection of Backups,,,,X,,X,X,,,X,
+CON.3.A15,Regular Backup Testing,,,,,X,,,,,,

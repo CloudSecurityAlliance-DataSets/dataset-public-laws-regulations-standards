@@ -1,0 +1,16 @@
+SYS.3.3,Name,CIA,G 0.14,G 0.15,G 0.16,G 0.17,G 0.19,G 0.22,G 0.23,G 0.25,G 0.27,G 0.29,G 0.31
+SYS.3.3.A1,Security Guidelines and Rules for the Use of Mobile Phones,,X,X,,,X,X,,,X,,X
+SYS.3.3.A2,Blocking Lost Mobile Telephones,,,,,,X,X,X,,,X,
+SYS.3.3.A3,Raising Employee Awareness and Providing Training on the Use of Mobile Telephones,,X,X,X,,X,,,,X,X,X
+SYS.3.3.A4,Decommissioning and Properly Disposing of Mobile Telephones and the Memory Cards Used in Them,,X,X,X,X,X,,,,,X,
+SYS.3.3.A5,Use of the Security Mechanisms of Mobile Telephones,,X,,,,X,X,,,,,
+SYS.3.3.A6,Mobile Telephone Updates,,,,,,,,,,,,X
+SYS.3.3.A7,Acquisition of Mobile Telephones,,,,,,,,,,X,,
+SYS.3.3.A8,Use of the Wireless Interfaces of Mobile Telephones,,X,X,,,,X,X,,,,
+SYS.3.3.A9,Securing the Power Supply for Mobile Telephones,A,,,,,,,,X,X,,
+SYS.3.3.A10,Secure Data Transmission via Mobile Phones,,X,X,,,,X,X,,,,
+SYS.3.3.A11,Precautions for Mobile Telephones,,,,,,,,,X,,,
+SYS.3.3.A12,Setting Up a Mobile Telephone Pool,,,,,,,,,,X,,
+SYS.3.3.A13,Protection Against Mobile Telephone Data Being Used to Create Movement Profiles,C,X,,,,X,,,,,X,
+SYS.3.3.A14,Protection Against Call Number Identification During Use of Mobile Telephones,C,X,,,,X,,,,,X,
+SYS.3.3.A15,Protection Against Eavesdropping on Indoor Conversations Using Mobile Telephones,C,X,X,,,,,,,,,

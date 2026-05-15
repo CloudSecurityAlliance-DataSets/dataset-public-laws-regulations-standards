@@ -1,0 +1,19 @@
+SYS.4.3,Name,CIA,G 0.4,G 0.15,G 0.18,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.24,G 0.25,G 0.26,G 0.28,G 0.29,G 0.30,G 0.31,G 0.37,G 0.39,G 0.46
+SYS.4.3.A1,Rules for Handling Embedded Systems,,,,X,,,,,,,,,,X,,X,,,
+SYS.4.3.A2,Disabling Unused Interfaces and Services of Embedded Systems,,,,,,,,,X,,,,,,X,,,,
+SYS.4.3.A3,Logging Security-Relevant Events in Embedded Systems,,,,,,,X,X,X,,X,X,,,X,,X,,
+SYS.4.3.A4,Creating Procurement Criteria for Embedded Systems,,,,X,,X,,,,,,,,,,,,,
+SYS.4.3.A5,Protecting Embedded Systems Against Damaging Environmental Influences,,X,,,,,,,,,X,,,,,,,,
+SYS.4.3.A6,Preventing Debugging Options for Embedded Systems,,,,,,,,,X,,,,,,X,,,,
+SYS.4.3.A7,Hardware Realisation of the Features of Embedded Systems,,,,,,,X,X,X,X,,,,,,,,,
+SYS.4.3.A8,Using a Secure Operating System for Embedded Systems,,,X,,,X,X,X,X,,,,X,,,,,,X
+SYS.4.3.A9,Use of Cryptographic Processors or Coprocessors in Embedded Systems,,,X,,,,X,X,X,,,,,,,,,,X
+SYS.4.3.A10,Recovery of Embedded Systems,,,,,,,,,,,X,,,,,X,,,
+SYS.4.3.A11,Secure Disposal of Embedded Systems,,,X,,X,,,,,,,,,,,,,,
+SYS.4.3.A12,Selection of a Trustworthy Supplier and Logistics Chain and a Qualified Manufacturer for Embedded Systems,CIA,X,,X,,X,X,X,,,,,,,X,,,,
+SYS.4.3.A13,Use of a Certified Operating System,CIA,,X,,,X,X,X,X,,,,X,,,,,,X
+SYS.4.3.A14,Secured and Authenticated Boot Process for Embedded Systems,CI,,,,,,X,X,,,,,,,X,,,X,
+SYS.4.3.A15,Storage Protection in Embedded Systems,CI,,,,,,X,X,,,,,,,,,,X,
+SYS.4.3.A16,Tamper Protection for Embedded Systems,CI,,,,,,X,X,,X,,,,,,X,,,
+SYS.4.3.A17,Automatic Monitoring of Assembly Functions,IA,,,,,,X,X,,,X,X,,,,,,,X
+SYS.4.3.A18,Resistance of Embedded Systems to Side-Channel Attacks,C,,X,,,,X,,,,,,,,,,,,X

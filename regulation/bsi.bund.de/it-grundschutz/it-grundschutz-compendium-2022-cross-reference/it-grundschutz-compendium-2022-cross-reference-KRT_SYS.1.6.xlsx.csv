@@ -1,0 +1,28 @@
+SYS.1.6,Name,CIA,G 0.14,G 0.18,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.24,G 0.25,G 0.27,G 0.28,G 0.30,G 0.31,G 0.32,G 0.37,G 0.39,G 0.40,G 0.45,G 0.46
+SYS.1.6.A1,Planning Container Use,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X
+SYS.1.6.A2,Container Management Planning,,X,X,X,,X,X,X,X,X,X,X,X,X,X,,,,,X
+SYS.1.6.A3,Secure Use of Containerised IT Systems,,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+SYS.1.6.A4,Planning the Provision and Distribution of Images,,,X,,X,X,X,,,X,X,,X,X,,,X,,,
+SYS.1.6.A5,Separation of Administration and Access Networks for Containers,,X,,X,,,X,X,,X,X,X,X,X,X,,X,,,X
+SYS.1.6.A6,Use of Secure Images,,X,,X,X,X,,X,,X,X,,X,X,X,X,X,X,,X
+SYS.1.6.A7,Persistence of Container Logging Data,,X,,,,,,,,,,,X,,,X,,,X,
+SYS.1.6.A8,Secure Storage of Container Access Data,,X,,X,,,,X,,,,,X,,X,,,,,X
+SYS.1.6.A9,Suitability for Container Operation,,,,X,X,X,,,X,,X,X,X,X,X,,X,X,X,X
+SYS.1.6.A10,Policy for Images and Container Operation,,X,,X,X,X,,X,,X,X,X,X,X,X,X,X,X,X,X
+SYS.1.6.A11,Only One Service per Container,,,,X,,,,,,X,,,,,,,,,,
+SYS.1.6.A12,Distribution of Secure Images,,X,,,X,X,X,,,,,X,X,X,X,X,X,,X,X
+SYS.1.6.A13,Release of Images,,,,,X,X,X,,,X,X,,X,,,X,X,,X,X
+SYS.1.6.A14,Updating Images,,X,X,,X,X,,,,X,X,,,,,X,X,,X,X
+SYS.1.6.A15,Limitation of Resources per Container,,,,,,,,,,,X,X,,,,,X,X,,
+SYS.1.6.A16,Administrative Remote Access to Containers,,X,,X,,X,,X,,X,,X,X,X,X,,X,,,X
+SYS.1.6.A17,Running Containers Without Privileges,,X,,,,,,,,,,X,X,X,X,,X,,,X
+SYS.1.6.A18,Application Services Accounts,,X,,X,,,,X,,,,X,X,X,X,,X,,X,X
+SYS.1.6.A19,Including Data Stores in Containers,,X,,X,,X,X,,,,X,,,,,,X,,X,X
+SYS.1.6.A20,Protection of Configuration Data,,,,,,X,X,,,,,,,,,X,,,,
+SYS.1.6.A21,Extended Security Policies,CIA,X,,X,,,,X,,,X,X,X,X,X,,X,X,,X
+SYS.1.6.A22,Provision for Investigations,CI,,X,,,,,,,,,,,,,X,,,,
+SYS.1.6.A23,Container Immutability,I,,,,,,X,,,,,X,,,,,X,,,X
+SYS.1.6.A24,Host-Based Attack Detection,I,,,,,,X,,,,,X,,,,,X,,,X
+SYS.1.6.A25,High Availability of Containerised Applications,CIA,X,X,X,,X,X,,,,,X,X,X,X,,X,X,,X
+SYS.1.6.A26,Advanced Isolation and Encapsulation of Containers,A,,,,,,,X,X,X,X,,,,,,,X,,
+,,,,,,,,,,,,,,,,,,,,,

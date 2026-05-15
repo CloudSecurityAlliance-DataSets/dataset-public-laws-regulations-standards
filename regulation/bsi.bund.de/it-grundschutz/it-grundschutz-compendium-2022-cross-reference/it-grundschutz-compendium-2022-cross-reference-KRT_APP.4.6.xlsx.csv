@@ -1,0 +1,23 @@
+APP.4.6,Name,CIA,G 0.14,G 0.16,G 0.19,G 0.22,G 0.28,G 0.39,G 0.45,G 0.46
+APP.4.6.A1,Protecting Reports with Authorisation Checks,,X,,X,X,X,,X,X
+APP.4.6.A2,Formally Correct Evaluation of Authorisation Checks,,X,,X,X,X,,X,X
+APP.4.6.A3,Authorisation Check Before Starting a Transaction,,X,,X,,X,,,
+APP.4.6.A4,No Proprietary Authorisation Checks,,X,,X,X,X,,X,X
+APP.4.6.A5,Drawing Up a Policy for ABAP Development,,,,,,X,,,
+APP.4.6.A6,Complete Execution of Authorisation Checks,,,,,,X,,,X
+APP.4.6.A7,Authorisation Check During Input Processing,,,,,,X,,,X
+APP.4.6.A8,Protection Against Unauthorised or Manipulative Access to the File System,,X,X,X,X,X,,X,X
+APP.4.6.A9,Authorisation Check in Remote-Enabled Function Modules,,X,,X,,X,,,
+APP.4.6.A10,Execution of Operating System Commands,,X,X,X,X,X,X,X,X
+APP.4.6.A11,Avoiding Planted Malicious Code,,X,,X,X,X,X,X,X
+APP.4.6.A12,Avoiding Generic Module Execution,,X,,X,X,X,,X,X
+APP.4.6.A13,Avoiding Generic Access to Table Contents,,X,,X,X,X,,X,X
+APP.4.6.A14,Avoiding Native SQL Statements,,X,X,X,X,X,,X,X
+APP.4.6.A15,Avoiding Data Leaks,,X,X,X,,X,,X,
+APP.4.6.A16,No System-Dependent Execution of Functions,,X,X,X,X,,,X,X
+APP.4.6.A17,No Client-Dependent Execution of Functions,,X,X,X,X,,,X,X
+APP.4.6.A18,Avoiding Open SQL Injection Vulnerabilities,,X,X,X,X,X,,X,X
+APP.4.6.A19,Protection Against Cross-Site Scripting,,X,X,X,X,X,X,X,X
+APP.4.6.A20,No Access to Data from Another Client,,,X,X,X,X,,X,X
+APP.4.6.A21,Ban on Hidden ABAP Source Code,,X,X,X,X,,X,X,X
+APP.4.6.A22,Use of ABAP Code Analysis Tools,CIA,,,,,X,,,

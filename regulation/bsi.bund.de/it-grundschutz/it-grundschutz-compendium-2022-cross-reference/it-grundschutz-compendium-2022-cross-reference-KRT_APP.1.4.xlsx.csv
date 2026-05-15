@@ -1,0 +1,17 @@
+APP.1.4,Name,CIA,G 0.9,G 0.14,G 0.15,G 0.16,G 0.17,G 0.18,G 0.19,G 0.20,G 0.21,G 0.23,G 0.25,G 0.26,G 0.28,G 0.31,G 0.32,G 0.36,G 0.38,G 0.39,G 0.42
+APP.1.4.A1,Requirements Analysis for the Use of Apps,,X,X,X,X,X,X,X,,,,X,X,,,,,X,,
+APP.1.4.A2,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A3,Distributing Sensitive Apps,,,X,,,,X,X,X,X,X,,,,,X,,,X,
+APP.1.4.A4,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A5,Minimising and Checking App Authorisations,,,X,X,,,,X,,X,,,,,,X,,X,X,X
+APP.1.4.A6,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A7,Secure Storage of Local App Data,,,X,,X,X,,X,,,,,,,,,,,,
+APP.1.4.A8,Preventing Data Leaks,,,X,X,,,,X,,,,,,,,,,X,,
+APP.1.4.A9,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A10,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A11,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A12,Secure App Removal,,,X,,,,X,X,,,,,,,,,,X,,
+APP.1.4.A13,ELIMINATED,,,,,,,,,,,,,,,,,,,,
+APP.1.4.A14,Support for Additional Authentication Features for Apps,CI,,X,,X,X,X,X,,,X,,,,,X,X,,,
+APP.1.4.A15,Performing Penetration Tests for Apps,CIA,,,,,,,,,X,X,X,X,X,,,,,,
+APP.1.4.A16,Mobile Application Management,CIA,,,,,,X,,,,,,,,X,,,,,

@@ -1,0 +1,19 @@
+DER.1,Name,CIA,G 0.18,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.29,G 0.30,G 0.31,G 0.32,G 0.33,G 0.37,G 0.38,G 0.39,G 0.40,G 0.46
+DER.1.A1,Creation of a Security Policy for the Detection of Security-Relevant Events,,,,,,,,,X,,,,,,,,,
+DER.1.A2,Compliance with Legal Conditions When Analysing Log Data,,,,,,,,,X,,,,,,X,,,
+DER.1.A3,Definition of Reporting Paths for Security-Relevant Events,,,,,,,,,X,,,,X,,,,,
+DER.1.A4,Raising Employee Awareness,,,,,,,,,X,,X,,,,,,,
+DER.1.A5,Use of Detection Features Included in Systems,,,,,,,,,X,,,,,,,X,,
+DER.1.A6,Continuous Monitoring and Analysis of Log Data,,X,,X,,X,X,X,X,,,,,,,,,
+DER.1.A7,Training of Responsible Persons,,,,,,,,X,,X,X,,,,,,,
+DER.1.A8,ELIMINATED,,,,,,,,,,,,,,,,,,
+DER.1.A9,Use of Additional Detection Systems,,,,,,,,,X,,,,,,,X,,
+DER.1.A10,Use of TLS/SSH Proxies,,,,,X,,,,X,X,,,,,,X,,
+DER.1.A11,Use of a Central Logging Infrastructure to Evaluate Security-Relevant Events,,,,,,,,,X,,,,,,,X,,
+DER.1.A12,Evaluation of Information from External Sources,,,,,,,,,X,,,,,,,,,
+DER.1.A13,Regular Audits of Detection Systems,,,,,,,,X,X,,,,,,,X,,
+DER.1.A14,Evaluation of Log Data by Specialised Personnel,CI,,,,,,,X,,,X,,X,,,,,
+DER.1.A15,Central Detection and Real-Time Examination of Event Messages,CIA,,,,,,,,X,,,,,X,,X,,X
+DER.1.A16,Use of Detection Systems in Accordance with Protection Requirements,CIA,X,X,,X,,,,X,,,,,,,,X,X
+DER.1.A17,Automatic Reaction to Security-Relevant Events,CI,,,,,,,,X,,,,,,,,,
+DER.1.A18,Performance of Regular Integrity Checks,CI,,,,,,,,X,,,X,,,,,,X

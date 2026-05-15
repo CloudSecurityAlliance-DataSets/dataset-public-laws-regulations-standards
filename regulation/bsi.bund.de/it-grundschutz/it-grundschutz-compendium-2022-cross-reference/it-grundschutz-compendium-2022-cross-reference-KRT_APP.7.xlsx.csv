@@ -1,0 +1,11 @@
+APP.7,Name,CIA,G 0.18,G 0.19,G 0.22,G 0.27,G 0.28,G 0.29,G 0.45
+APP.7.A1,Including Aspects of Individual Software in Software Deployment Planning,,X,,,X,,,
+APP.7.A2,Defining Security Requirements for the Software Development Process,,X,X,X,,,X,
+APP.7.A3,Specification of Security Functions for System Integration,,X,,,X,,,
+APP.7.A4,Commissioning in Line with Requirements,,X,,,,,,
+APP.7.A5,Appropriate Control of Application Development,,X,,,X,,,
+APP.7.A6,Documentation of Individual Software Requirements,,X,,,,,,
+APP.7.A7,Secure Acquisition of Individual Software,,X,X,,,,,
+APP.7.A8,Early Involvement of the Process Owner in Development-Related Software Tests,,X,,,,X,,
+APP.7.A9,Trusted Storage,A,,,,,,,X
+APP.7.A10,Commissioning Certified Software Development Companies,CIA,X,,,,,,

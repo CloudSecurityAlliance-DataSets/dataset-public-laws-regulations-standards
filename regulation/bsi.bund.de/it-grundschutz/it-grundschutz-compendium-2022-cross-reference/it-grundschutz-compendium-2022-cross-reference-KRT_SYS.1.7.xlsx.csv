@@ -1,0 +1,39 @@
+SYS.1.7,Name,CIA,G 0.14,G 0.18,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.28,G 0.30,G 0.31,G 0.32,G 0.33,G 0.36,G 0.37,G 0.39,G 0.40,G 0.43,G 0.45,G 0.46
+SYS.1.7.A1,Use of Restrictive z/OS IDs,,X,,X,,X,X,X,,,,,X,,X,,X,X,,X,,X,X
+SYS.1.7.A2,Protection of Security-Critical z/OS Utilities,,X,,X,,X,X,X,,,,,X,,X,,X,X,,X,,X,X
+SYS.1.7.A3,Maintenance of Z Systems,,,,,X,X,X,X,X,X,,X,X,,,,,,,X,X,X,X
+SYS.1.7.A4,Training z/OS Operators,,,X,X,,,,,,,,,,X,,,,,,,,X,X
+SYS.1.7.A5,Use and Protection of System-Related z/OS Terminals,,X,,X,,X,X,X,,,,,X,,,,,,,,X,X,X
+SYS.1.7.A6,Use and Protection of the Remote Support Facility,,X,,X,X,X,X,X,,,,,X,,,,X,,,,X,X,X
+SYS.1.7.A7,Restrictive Authorisation in z/OS,,X,,X,,X,X,X,,,,,X,,X,,X,X,,,,X,X
+SYS.1.7.A8,Use of the z/OS Security System RACF,,X,X,X,,X,X,X,,,,,X,,X,,X,X,X,,,X,X
+SYS.1.7.A9,Multi-Client Capability in z/OS,,X,X,X,,X,X,,,,,,X,X,X,,X,X,X,,X,X,X
+SYS.1.7.A10,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,
+SYS.1.7.A11,Protection of Session Data,,X,,X,,,,X,,,,,X,,X,,X,X,,,X,,
+SYS.1.7.A12,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,
+SYS.1.7.A13,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,
+SYS.1.7.A14,Reporting on the Secure Operation of z/OS,,X,X,X,,X,X,,,,,,X,X,X,,X,X,X,X,X,X,X
+SYS.1.7.A15,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,
+SYS.1.7.A16,Monitoring of z/OS Systems,,X,X,X,,X,X,X,X,X,X,,X,X,X,,X,X,X,X,X,X,X
+SYS.1.7.A17,Synchronisation of z/OS Passwords and RACF Commands,,,X,,,,,,X,X,,,,X,,,,,,,,X,
+SYS.1.7.A18,Role Concept for z/OS Systems,,,X,,,,,,,,X,,,X,,X,,,,,,,
+SYS.1.7.A19,Protection of z/OS Transaction Monitors,,X,,X,,X,X,X,,,,,X,,X,,X,X,,,,X,X
+SYS.1.7.A20,Decommissioning z/OS Systems,,,X,X,,,,X,,X,,,X,,,,X,,,,,,
+SYS.1.7.A21,Protection of the Startup Process of z/OS Systems,,,X,,,,,,X,X,,,,X,,X,,,,,,,
+SYS.1.7.A22,Protection of the Operating Functions of z/OS,,X,X,X,,X,X,X,X,X,,,X,X,X,,X,X,,,,X,X
+SYS.1.7.A23,Protection of z/VM,,X,X,X,X,X,X,X,,,,X,X,X,X,,X,X,,X,,X,X
+SYS.1.7.A24,Administration of Storage Media in z/OS Systems,,X,X,X,,X,X,X,,X,X,,X,,X,,X,X,X,,,X,X
+SYS.1.7.A25,Stipulation of z/OS System Capacity,,,X,,,,,,X,X,X,,,X,,,,,,,,X,
+SYS.1.7.A26,Workload Management for z/OS Systems,,,,X,,X,X,X,X,X,X,,X,,X,,X,X,,,,X,X
+SYS.1.7.A27,Character Set Conversion in z/OS Systems,,,X,,,,,,X,X,,X,,X,,,,,,,,X,X
+SYS.1.7.A28,Licence Key Management for z/OS Software,,,X,,,,,,X,X,X,,,,,,,,,,,,
+SYS.1.7.A29,Protection of Unix System Services on z/OS Systems,,X,,X,,X,X,X,X,X,X,,X,,X,,X,X,,,,X,X
+SYS.1.7.A30,Protection of the z/OS Trace Functions,,X,,X,,,,X,,,,,X,,X,,X,X,,,X,,
+SYS.1.7.A31,Contingency Planning for z/OS Systems,,,X,,,,,,X,X,,,,X,,X,,,,X,,X,
+SYS.1.7.A32,Determining Standards for z/OS System Definitions,CIA,,X,,,,,,,,,,,X,,,,,,,,,
+SYS.1.7.A33,Separation of Test and Production Systems in z/OS,CIA,X,,X,X,X,X,X,X,X,,X,X,X,X,,X,X,X,,X,X,X
+SYS.1.7.A34,Batch Job Planning for z/OS Systems,CIA,X,X,X,,X,X,X,X,X,X,,X,,X,,X,X,,,,X,X
+SYS.1.7.A35,Use of RACF Exits,CIA,X,,X,,X,X,X,X,X,,,X,,X,,X,X,,,,X,X
+SYS.1.7.A36,Internal Communication Between Operating Systems,CIA,X,,X,,,X,X,,,X,,X,,,,X,X,X,X,X,,X
+SYS.1.7.A37,Parallel Sysplex in z/OS,CIA,,X,,,,,,X,X,X,,,,,,,,,X,,X,
+SYS.1.7.A38,Use of the VTAM Session Management Exit in z/OS,CIA,X,,X,,,X,X,,,,,X,,,,,,,X,X,X,X

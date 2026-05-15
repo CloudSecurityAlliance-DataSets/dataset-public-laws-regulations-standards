@@ -1,0 +1,10 @@
+INF.6,Name,CIA,G 0.1,G 0.2,G 0.3,G 0.4,G 0.16,G 0.19,G 0.21,G 0.24,G 0.32,G 0.44,G 0.45,G 0.46
+INF.6.A1,Hand-Held Fire Extinguishers,,X,,,,,,,,,X,,
+INF.6.A2,Site Access Regulations and Control,,,,,,X,X,X,X,X,X,,X
+INF.6.A3,Protection Against Dust and Other Contamination,,X,,,X,X,X,X,X,,X,,X
+INF.6.A4,Closed Windows and Locked Doors,,X,,X,X,X,X,X,X,X,,,X
+INF.6.A5,Using Protective Cabinets,,,,,,X,,,,,,,
+INF.6.A6,Avoidance of Water Pipes,,,,X,,,,,,,,X,
+INF.6.A7,Compliance with Climatic Requirements,,,X,,,,,,,,,,
+INF.6.A8,Secure Doors and Windows,,X,,X,,X,X,X,X,X,X,,X
+INF.6.A9,Alarm System,CIA,X,,X,,,,,,,X,,

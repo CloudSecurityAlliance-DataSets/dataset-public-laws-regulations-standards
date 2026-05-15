@@ -1,0 +1,16 @@
+APP.3.3,Name,CIA,G 0.14,G 0.18,G 0.19,G 0.25,G 0.26,G 0.27,G 0.39,G 0.45,G 0.46
+APP.3.3.A1,ELIMINATED,,,,,,,,,,
+APP.3.3.A2,Use of RAID Systems,,,,,X,,,,,X
+APP.3.3.A3,Use of Anti-Virus Programs,,X,,,,,,X,,
+APP.3.3.A4,ELIMINATED,,,,,,,,,,
+APP.3.3.A5,ELIMINATED,,,,,,,,,,
+APP.3.3.A6,Acquiring a File Server and Selecting a Service,,,X,,X,,X,,,
+APP.3.3.A7,Selecting a File System,,,,,X,,X,,X,X
+APP.3.3.A8,Structured Data Storage,,,,,,,,,X,
+APP.3.3.A9,Secure Storage Management,,,,,X,X,X,,X,
+APP.3.3.A10,ELIMINATED,,,,,,,,,,
+APP.3.3.A11,Using Storage Restrictions,,,,,,,X,,,
+APP.3.3.A12,Data Encryption,CIA,X,,X,,,,X,,
+APP.3.3.A13,Replicating Between Locations,A,,,,X,,,,X,
+APP.3.3.A14,Using Error Correction Codes,,,,,,X,,,,X
+APP.3.3.A15,Planning File Servers,,,X,X,,,X,,,

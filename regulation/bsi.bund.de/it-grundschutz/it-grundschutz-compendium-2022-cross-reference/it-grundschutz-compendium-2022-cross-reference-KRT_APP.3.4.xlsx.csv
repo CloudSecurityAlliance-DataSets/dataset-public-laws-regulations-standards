@@ -1,0 +1,16 @@
+APP.3.4,Name,CIA,G 0.15,G 0.18,G 0.19,G 0.20,G 0.23,G 0.27,G 0.28,G 0.30,G 0.31,G 0.32,G 0.45,G 0.46
+APP.3.4.A1,Planning the Use of a Samba Server,,,X,,,,,,,,,,
+APP.3.4.A2,Secure Basic Configuration of a Samba Server,,X,,,,X,X,X,,,X,,
+APP.3.4.A3,Secure Configuration of a Samba Server,,,,,,X,X,,X,,,,
+APP.3.4.A4,Avoiding NTFS File Properties on a Samba Server,,,,,,,,,,,,X,X
+APP.3.4.A5,Secure Configuration of a Samba Server's Access Controls,,,,,,,,,,,X,,X
+APP.3.4.A6,Secure Configuration of Winbind in Samba,,,,,,,,,,,X,,
+APP.3.4.A7,Secure DNS Configuration in Samba,,,X,,,,,,,,,,
+APP.3.4.A8,Secure LDAP Configuration in Samba,,,X,,,,,,,,X,,
+APP.3.4.A9,Secure Configuration of Kerberos in Samba,,,,X,,,,,,,,,
+APP.3.4.A10,Secure Use of External Programs on a Samba Server,,,,X,X,,,X,,,,,
+APP.3.4.A11,ELIMINATED,,,,,,,,,,,,,
+APP.3.4.A12,Training Samba Server Administrators,,,,,,,,,,X,,,
+APP.3.4.A13,Regular Backups of Important Samba Server Components,,,,,,,,,,,,X,
+APP.3.4.A14,ELIMINATED,,,,,,,,,,,,,
+APP.3.4.A15,Encryption of Data Packets in Samba,CI,X,,X,,,,,,,,,X

@@ -1,0 +1,14 @@
+APP.1.2,Name,CIA,G 0.14,G 0.15,G 0.18,G 0.19,G 0.22,G 0.23,G 0.26,G 0.28,G 0.30,G 0.39
+APP.1.2.A1,Use of Basic Security Mechanisms,,,,,,,X,,X,,X
+APP.1.2.A2,Support for Secure Communication Encryption,,X,,,X,X,,,,,
+APP.1.2.A3,Use of Trusted Certificates,,X,,,X,X,,,,X,
+APP.1.2.A4,ELIMINATED,,,,,,,,,,,
+APP.1.2.A5,ELIMINATED,,,,,,,,,,,
+APP.1.2.A6,Password Management in Web Browsers,,,,X,X,,,,,,
+APP.1.2.A7,Data Economy in Web Browsers,,X,,,X,,,,,,
+APP.1.2.A8,ELIMINATED,,,,,,,,,,,
+APP.1.2.A9,Using an Isolated Web Browser Environment,CI,,,,,,X,X,X,,X
+APP.1.2.A10,Using the Private Mode,CI,X,,,X,,,,,,
+APP.1.2.A11,Checking for Malicious Content,C,,,,,,,,X,,X
+APP.1.2.A12,Two-Browser Strategy,A,,,,,,,,X,,
+APP.1.2.A13,Use of DNS over HTTPS,,,X,X,X,X,,,,,

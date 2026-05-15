@@ -1,0 +1,23 @@
+APP.3.6,Name,CIA,G 0.9,G 0.18,G 0.19,G 0.20,G 0.22,G 0.25,G 0.26,G 0.27,G 0.29,G 0.30,G 0.31,G 0.40,G 0.43,G 0.45,G 0.46
+APP.3.6.A1,Planning the Use of DNS,,,X,,,,,,,,,,,,,
+APP.3.6.A2,Deployment of Redundant DNS Servers,,,,,,,X,,,,,,X,,,
+APP.3.6.A3,Use of Separate DNS Servers for Internal and External Requests,,,,,,X,,,,,,,,,,
+APP.3.6.A4,Secure Basic Configuration of a DNS Server,,,,X,,X,,,,,X,X,,X,,X
+APP.3.6.A5,ELIMINATED,,,,,,,,,,,,,,,,
+APP.3.6.A6,Securing Dynamic DNS Updates,,,,,,X,,,,,X,,,,,
+APP.3.6.A7,Monitoring of DNS Servers,,,,,,,X,X,X,,,,,,,
+APP.3.6.A8,Administration of Domain Names,,,,,,,,,,X,,,,,,
+APP.3.6.A9,Creation of a Business Continuity Plan for DNS Servers,,,,,,,X,,,,,,X,,X,
+APP.3.6.A10,Selection of a Suitable DNS Server Product,,,,,X,,,,,X,,,,,,
+APP.3.6.A11,Sufficient Capacity of DNS Servers,,,,,,,X,,X,,,,X,,,
+APP.3.6.A12,ELIMINATED,,,,,,,,,,,,,,,,
+APP.3.6.A13,Limited Visibility of Domain Information,,,,X,,,,,,,,,,,,
+APP.3.6.A14,Location of Name Servers,,,,X,,X,,,,,X,,,,,
+APP.3.6.A15,Analysis of Log Data,,,,,,X,X,,X,,X,,,,,
+APP.3.6.A16,Integrating a DNS Server into a “P-A-P” Structure,,,,X,,X,,,,,X,,,X,,
+APP.3.6.A17,Use of DNSSEC,,,,,,X,,,,,X,,,X,,X
+APP.3.6.A18,Advanced Securing of Zone Transfers,,,,,,X,,,,,X,,,,,X
+APP.3.6.A19,Disposal of DNS Servers,,,,X,,,,,,,,,,,,
+APP.3.6.A20,Feasibility Reviews of Business Continuity Plans,A,,,,,,X,X,X,,,,X,,X,
+APP.3.6.A21,Hidden Master,CIA,,,X,,X,,,,,X,,,,,
+APP.3.6.A22,Connecting DNS Servers via Different Providers,IA,X,,,,,,,,,,,,,,

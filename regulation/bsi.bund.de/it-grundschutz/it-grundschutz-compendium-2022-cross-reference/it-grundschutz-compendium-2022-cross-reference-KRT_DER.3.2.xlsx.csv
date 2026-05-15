@@ -1,0 +1,24 @@
+DER.3.2,Name,CIA,G 0.18,G 0.19,G 0.27,G 0.29,G 0.46
+DER.3.2.A1,Designation of Persons in Charge of the IS Audit,,X,,X,,
+DER.3.2.A2,Creation of an IS Audit Manual,,X,,,,
+DER.3.2.A3,Definition of the Audit Basis,,X,,,,
+DER.3.2.A4,Drawing Up a Plan for the IS Audit,,X,,,X,
+DER.3.2.A5,Selection of an Appropriate IS Audit Team,,X,,X,,
+DER.3.2.A6,Preparation of an IS Audit,,X,,,,
+DER.3.2.A7,Performance of an IS Audit,,X,,,,
+DER.3.2.A8,Storage of IS Audit Reports,,X,,,X,X
+DER.3.2.A9,Integration into the Information Security Process,,X,,,,
+DER.3.2.A10,Communication Coordination,,X,X,,,X
+DER.3.2.A11,Holding an Initial Meeting for an IS Cross-Cutting Audit,,X,,,,
+DER.3.2.A12,Creation of a Gap Analysis Plan,,X,,,,
+DER.3.2.A13,Inspection and Review of Documents,,X,,,,
+DER.3.2.A14,Selection of Target Objects and Requirements to Be Audited,,X,,,X,
+DER.3.2.A15,Selection of Appropriate Audit Techniques,,X,,,,
+DER.3.2.A16,Creating a Procedure for the On-Site Audit,,X,,,,
+DER.3.2.A17,Conducting the On-Site Audit,,X,,,,X
+DER.3.2.A18,Conducting Interviews,,X,,,,
+DER.3.2.A19,Reviewing Risk Treatment Options,,X,,,X,
+DER.3.2.A20,Following Up on the On-Site Audit,,X,,,,
+DER.3.2.A21,Creation of an IS Audit Report,,X,,,X,X
+DER.3.2.A22,Following Up on an IS Audit,,X,,,,
+DER.3.2.A23,ELIMINATED,,,,,,

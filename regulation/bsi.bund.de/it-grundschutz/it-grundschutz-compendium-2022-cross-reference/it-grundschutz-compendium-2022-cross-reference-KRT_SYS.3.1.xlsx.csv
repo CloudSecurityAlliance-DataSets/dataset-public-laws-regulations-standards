@@ -1,0 +1,19 @@
+SYS.3.1,Name,CIA,G 0.4,G 0.14,G 0.16,G 0.17,G 0.18,G 0.19,G 0.22,G 0.31,G 0.39,G 0.45
+SYS.3.1.A1,Rules for Mobile Laptop Use,,X,X,X,X,X,X,X,,X,X
+SYS.3.1.A2,ELIMINATED,,,,,,,,,,,
+SYS.3.1.A3,Use of Personal Firewalls,,,X,,,,X,,,X,
+SYS.3.1.A4,ELIMINATED,,,,,,,,,,,
+SYS.3.1.A5,ELIMINATED,,,,,,,,,,,
+SYS.3.1.A6,Security Guidelines for Laptops,,X,X,X,X,X,X,X,,X,X
+SYS.3.1.A7,Orderly Issue and Return of Laptops,,,X,,,X,X,,X,,
+SYS.3.1.A8,Secure Connection of Laptops to Data Networks,,,X,,,,X,,,X,
+SYS.3.1.A9,Secure Remote Access with Laptops,,,X,,,,X,,,X,
+SYS.3.1.A10,Synchronisation of Stored Data on Laptops,,,,,,,,,,,X
+SYS.3.1.A11,Securing the Power Supply for Laptops,,,,,,,,,,,X
+SYS.3.1.A12,Reporting the Loss of Laptops,,,X,,,,X,,,,
+SYS.3.1.A13,Encryption of Laptops,,,X,,,,X,X,,,
+SYS.3.1.A14,Suitable Storage of Laptops,,X,X,X,X,,X,X,,,
+SYS.3.1.A15,Appropriate Selection of Laptops,,,,,,X,,,,,
+SYS.3.1.A16,Central Administration and Administration of Laptops,CI,,,,,X,,,X,,
+SYS.3.1.A17,Pooled Storage of Laptops,A,X,,,X,,,,,,
+SYS.3.1.A18,Use of Anti-Theft Devices,CIA,,,X,,,,,,,

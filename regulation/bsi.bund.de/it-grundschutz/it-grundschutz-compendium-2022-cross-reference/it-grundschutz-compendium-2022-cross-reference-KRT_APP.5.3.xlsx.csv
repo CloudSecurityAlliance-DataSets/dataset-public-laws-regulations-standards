@@ -1,0 +1,14 @@
+APP.5.3,Name,CIA,G 0.15,G 0.18,G 0.19,G 0.25,G 0.29,G 0.30,G 0.33,G 0.36,G 0.39,G 0.40,G 0.42,G 0.45
+APP.5.3.A1,Secure Configuration of E-Mail Clients,,X,,X,,,X,,,X,,,
+APP.5.3.A2,Secure Operation of E-Mail Servers,,X,X,,,,,,,,X,,
+APP.5.3.A3,Data Backup and Archiving of E-Mails,,,,,,,,,,,,,X
+APP.5.3.A4,Spam and Virus Protection on E-Mail Servers,,,X,,,X,,,,X,,,
+APP.5.3.A5,Establishing Deputising Rules for E-Mail Use,,,,X,,X,,X,,,,,
+APP.5.3.A6,Defining a Security Policy for E-Mail,,,X,,,,,,,,,,
+APP.5.3.A7,User Training on the Security Mechanisms of E-Mail Clients,,,,,,,,,X,X,,X,
+APP.5.3.A8,Training Users to Deal with Spam,,,,X,,,,,,X,,,
+APP.5.3.A9,Extended Security Safeguards on E-Mail Servers,,,,,,,,,X,,,X,
+APP.5.3.A10,End-to-End Encryption,C,,,X,,,,,,,,,
+APP.5.3.A11,Deployment of Redundant E-Mail Servers,A,,,,X,,,,,,,,
+APP.5.3.A12,Monitoring Public Blacklists,A,,,,X,,,,,,,,
+APP.5.3.A13,TLS Reporting,CIA,,X,,,,,,,,,,

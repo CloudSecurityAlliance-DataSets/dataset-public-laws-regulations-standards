@@ -1,0 +1,21 @@
+APP.3.2,Name,CIA,G 0.11,G 0.15,G 0.18,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.29,G 0.30,G 0.31,G 0.39,G 0.40,G 0.46
+APP.3.2.A1,Secure Web Server Configuration,,,,,X,X,X,X,,,,,,,,,X
+APP.3.2.A2,Protection of Web Server Files,,,,,X,X,X,X,,,,,,,,,X
+APP.3.2.A3,Protecting File Uploads and Downloads,,,,,X,,,,,,,,,,X,X,
+APP.3.2.A4,Logging of Events,,,,,,,,,,X,,,X,,,,
+APP.3.2.A5,Authentication,,,X,,,,X,X,,,,,X,,,,
+APP.3.2.A6,ELIMINATED,,,,,,,,,,,,,,,,,
+APP.3.2.A7,Legal Framework Conditions for Websites,,,,,,,,,,,,X,,,,,
+APP.3.2.A8,Planning the Use of a Web Server,,,,X,,,,,,,X,,,X,,,
+APP.3.2.A9,Defining a Web Server Security Policy,,,,X,,,,,,,X,,,X,,,
+APP.3.2.A10,Selecting an Appropriate Web Host,,X,,X,,,,,,,,X,,,,,
+APP.3.2.A11,Encryption via TLS,,,X,,,,,,,,,,,,,,
+APP.3.2.A12,Suitable Handling of Errors and Error Messages,,,,,X,,,,X,X,,,,,,,
+APP.3.2.A13,Access Control for Web Crawlers,,,,,,,,,,,,,X,,,,
+APP.3.2.A14,Integrity Checks and Protection Against Malware,,,,,,,,,,,,,,,X,,X
+APP.3.2.A15,Redundancy,A,,,,,,,,X,,,,,,X,,
+APP.3.2.A16,Penetration Testing and Auditing,,,,,,,X,X,,,,,,,,,
+APP.3.2.A17,ELIMINATED,,,,,,,,,,,,,,,,,
+APP.3.2.A18,Protection Against Denial-of-Service Attacks,A,,,,,,,,X,X,,,,,,X,
+APP.3.2.A19,ELIMINATED,,,,,,,,,,,,,,,,,
+APP.3.2.A20,Appointing Contact Persons,,,,,,,,X,,,X,,,,,,
