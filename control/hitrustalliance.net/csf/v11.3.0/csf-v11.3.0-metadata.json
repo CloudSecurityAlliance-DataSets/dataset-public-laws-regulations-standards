@@ -43,7 +43,7 @@
       "--paginate_output"
     ],
     "force_ocr": false,
-    "notes": "Marker-extracted from HITRUST-published material. Repository holds the extraction artifacts only; full CSF requires a HITRUST license."
+    "notes": "Marker-extracted from HITRUST-published material. extract_hitrust_csf.py parses the marker markdown into 150 Control References across 13 Control Categories (00-13, with 04.0 not having leaf controls in this version). Repository holds the extraction artifacts only; full CSF requires a HITRUST license."
   },
   "extraction_history": [
     {
