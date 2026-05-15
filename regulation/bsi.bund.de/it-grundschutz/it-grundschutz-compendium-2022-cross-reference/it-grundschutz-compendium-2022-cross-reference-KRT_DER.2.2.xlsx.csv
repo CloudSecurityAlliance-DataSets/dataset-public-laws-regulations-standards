@@ -1,0 +1,16 @@
+DER.2.2,Name,CIA,G 0.17,G 0.20,G 0.22,G 0.25,G 0.27,G 0.29,G 0.31,G 0.37,G 0.45,G 0.46
+DER.2.2.A1,Examination of Legal and Regulatory Framework Conditions for Acquisition and Evaluation,,,,,,,X,,,X,
+DER.2.2.A2,Drawing Up a Guide for Initial Measures in Case of an IT Security Incident,,X,X,X,X,,,X,,X,X
+DER.2.2.A3,Pre-Selection of Forensic Service Providers,,,,,,X,,X,,X,
+DER.2.2.A4,Identifying Common Areas Between IT Forensics and Crisis / Business Continuity Management,,,,,X,,,,,X,X
+DER.2.2.A5,Drawing Up a Guide to Securing Evidence in Case of IT Security Incidents,,X,X,X,X,,,X,,X,X
+DER.2.2.A6,Training Personnel on Forensic Securing of Evidence,,,X,,,,,X,,X,X
+DER.2.2.A7,Selecting Tools for Forensics,,,,,,,,X,,X,X
+DER.2.2.A8,Selection and Order of Evidence to Be Secured,,X,,X,,,,X,X,X,X
+DER.2.2.A9,Pre-Selection of Forensically Relevant Data,,X,,X,,,,X,X,X,X
+DER.2.2.A10,Forensic Securing of IT Evidence,,X,,X,,,,X,X,X,X
+DER.2.2.A11,Documentation of Securing Evidence,,X,,X,X,,,X,X,X,X
+DER.2.2.A12,Secure Storage of Original Storage Media and Evidence,,X,,X,,,,,X,X,X
+DER.2.2.A13,Framework Agreements with External Service Providers,CIA,,,,,X,,X,,X,
+DER.2.2.A14,Specifying Standard Procedures for Securing Evidence,CIA,X,,X,X,,,X,X,X,X
+DER.2.2.A15,Conducting Drills on Securing Evidence,CIA,X,,X,X,,,X,X,X,X

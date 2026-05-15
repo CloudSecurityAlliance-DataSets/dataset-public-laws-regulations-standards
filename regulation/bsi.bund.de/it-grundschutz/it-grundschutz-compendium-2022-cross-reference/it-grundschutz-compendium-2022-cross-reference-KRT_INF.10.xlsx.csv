@@ -1,0 +1,11 @@
+INF.10,Name,CIA,G 0.14,G 0.15,G 0.16,G 0.18,G 0.21,G 0.24,G 0.41,G 0.44,G 0.45
+INF.10.A1,"Secure Use of Meeting, Event, and Training Rooms",,,,X,,X,X,,X,
+INF.10.A2,ELIMINATED,,,,,,,,,,
+INF.10.A3,Closed Windows and Doors,,,,,,X,X,X,X,
+INF.10.A4,"Planning Meeting, Event, and Training Rooms",,X,X,,,,,X,,
+INF.10.A5,Exposed Cable,,,,,X,,,,,
+INF.10.A6,Configuring Secure Network Access,,X,X,,,,,X,,
+INF.10.A7,Secure Configuration of Training and Presentation Computers,,X,,,X,X,,X,,X
+INF.10.A8,Creating a Proof of Use for Rooms,,,,,,,,X,X,
+INF.10.A9,Resetting Training and Presentation Computers,CA,X,X,,,,,X,,
+INF.10.A10,Ban on Carrying Mobile Phones,C,X,X,,,,,,,

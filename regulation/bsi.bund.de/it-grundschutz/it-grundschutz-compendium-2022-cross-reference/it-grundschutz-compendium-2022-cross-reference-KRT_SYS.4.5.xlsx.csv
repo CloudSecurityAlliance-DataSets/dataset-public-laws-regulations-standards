@@ -1,0 +1,17 @@
+SYS.4.5,Name,CIA,G 0.2,G 0.4,G 0.14,G 0.16,G 0.17,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.29,G 0.39,G 0.46
+SYS.4.5.A1,Raising Staff Awareness of Secure Handling of Removable Media,,X,X,,X,X,,,X,X,X,X,,
+SYS.4.5.A2,Reporting Losses / Tampering,,,,,X,,,,X,,,,,
+SYS.4.5.A3,ELIMINATED,,,,,,,,,,,,,,
+SYS.4.5.A4,Drawing Up a Policy for the Secure Handling of Removable Media,,,,,,,X,,,X,,,X,
+SYS.4.5.A5,Rules on the Transport of Removable Media,,,,,X,X,X,,,,,,,
+SYS.4.5.A6,Storage Media Management,,X,X,,,X,,,,,,,,
+SYS.4.5.A7,Secure Deletion of Storage Media Before and After Use,,,,,,,X,,,,,,,
+SYS.4.5.A8,ELIMINATED,,,,,,,,,,,,,,
+SYS.4.5.A9,ELIMINATED,,,,,,,,,,,,,,
+SYS.4.5.A10,Encryption of Storage Media,,,,X,,,X,,,,,,,
+SYS.4.5.A11,Protecting Integrity Using Checksums or Digital Signatures,I,,,,,,,,,X,,,,X
+SYS.4.5.A12,Protection Against Malware,,,,,,,,,,,,,X,
+SYS.4.5.A13,Appropriate Labelling of Storage Media for Shipping,,,,,,X,X,,,,,,,
+SYS.4.5.A14,Secure Shipping and Packaging,CIA,X,X,,,X,,,,,,,,
+SYS.4.5.A15,Certified Products,CIA,,,,,,,X,,,,,,
+SYS.4.5.A16,Use of Dedicated Systems for Data Scanning,CI,,,,,,,,,,,,X,

@@ -1,0 +1,21 @@
+IND.2.1,Name,CIA,G 0.2,G 0.4,G 0.8,G 0.9,G 0.10,G 0.12,G 0.14,G 0.15,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.28,G 0.30,G 0.31,G 0.32,G 0.37,G 0.39,G 0.40,G 0.41,G 0.43,G 0.45,G 0.46
+IND.2.1.A1,Restriction of Access to Configuration and Maintenance Interfaces,,,,,,,,X,,X,X,,X,,,X,,X,,,,X,X,X,X
+IND.2.1.A2,Using Secure Transmission Protocols for Configuration and Maintenance,,,,,,,,X,,X,X,,X,,,,,,,X,,X,,,X
+IND.2.1.A3,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A4,"Disabling or Uninstalling Unused Services, Functions, and Interfaces",,,,,,,,X,X,X,X,X,X,,,X,,,,,,X,,,
+IND.2.1.A5,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A6,Network Segmentation,,,,,,,,X,X,,X,X,X,,,X,X,X,,X,X,X,,,
+IND.2.1.A7,Creating Backups,,X,X,X,X,X,X,,,,,,,X,,,,,,X,X,X,,X,
+IND.2.1.A8,Protection Against Malware,,,,,,,,X,,X,X,X,X,X,X,X,,,,X,,,,,
+IND.2.1.A9,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A10,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A11,Maintenance of ICS Components,,,,,,,,X,,X,X,,X,,X,X,X,X,,X,,X,,,
+IND.2.1.A12,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A13,Appropriate Commissioning of ICS Components,,,,,,,X,X,X,,X,,X,X,X,,,,,X,,X,,,
+IND.2.1.A14,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A15,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,
+IND.2.1.A16,Protecting External Interfaces,,,,,,,,X,,X,X,X,X,,,X,,,,X,,X,,X,
+IND.2.1.A17,Use of Secure Protocols for the Transmission of Measurement and Control Data,,,,,,,,X,,X,X,X,,,,X,,,X,X,,X,,,X
+IND.2.1.A18,Communication in the Event of Incidents,A,,,,X,,,,,,,,,,,,,,,,,,,X,
+IND.2.1.A19,Security Tests,CIA,,,X,X,,,X,,,X,,X,,X,X,,,,X,X,X,,,X
+IND.2.1.A20,Trustworthy Code,IA,,,,,,,X,,,X,,X,,X,,,,,X,,,,,

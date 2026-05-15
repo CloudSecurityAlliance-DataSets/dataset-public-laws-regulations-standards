@@ -1,0 +1,13 @@
+SYS.2.4,Name,CIA,G 0.14,G 0.16,G 0.17,G 0.18,G 0.19,G 0.21,G 0.23,G 0.28,G 0.29,G 0.30,G 0.31,G 0.32,G 0.39,G 0.45,G 0.46
+SYS.2.4.A1,Planning the Secure Use of macOS,,,,,X,,,,,X,X,X,,,X,X
+SYS.2.4.A2,Using the Security Functions Integrated into macOS,,X,,,,X,X,X,,,,,,X,,
+SYS.2.4.A3,Use of Suitable User Accounts,,,,,X,,,X,,,X,X,X,,,
+SYS.2.4.A4,Use of Hard Drive Encryption,,X,X,X,,X,,,,,X,,,,,
+SYS.2.4.A5,Disabling Security-Critical Functions in macOS,,X,,,,X,X,X,X,,,,,,,
+SYS.2.4.A6,Using Up-To-Date Mac Hardware,,,,,X,,,,X,,,,,,,
+SYS.2.4.A7,Two-Factor Authentication for Apple IDs,,X,,,X,X,,,,,,,,,,
+SYS.2.4.A8,No iCloud Use for Confidential Data,,X,,,X,X,,,,X,,,,,X,
+SYS.2.4.A9,Using Additional Protection Programs in macOS,,X,,,,X,X,X,,,,,,X,,
+SYS.2.4.A10,Activating the Personal Firewall in macOS,,,,,X,X,,X,,,,,X,X,,
+SYS.2.4.A11,Disposing of Macs,,X,,,X,X,,,,X,,,,,X,
+SYS.2.4.A12,Firmware Password and Boot Protection on Macs,CIA,X,X,X,,X,X,X,,,X,X,,,,X

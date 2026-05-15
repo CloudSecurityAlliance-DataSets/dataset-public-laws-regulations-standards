@@ -1,0 +1,14 @@
+NET.3.3,Name,CIA,G 0.9,G 0.11,G 0.14,G 0.18,G 0.19,G 0.22,G 0.23,G 0.28,G 0.32,G 0.40,G 0.43,G 0.46
+NET.3.3.A1,Planning the Use of VPNs,,,,,X,,,,,X,,,
+NET.3.3.A2,Selection of an Appropriate VPN Service Provider,,,X,,,,,,,,,,
+NET.3.3.A3,Secure Installation of VPN End Devices,,X,,,X,,,,,,,,
+NET.3.3.A4,Secure Configuration of a VPN,,,,X,,X,X,X,,X,,,
+NET.3.3.A5,Blocking Unneeded VPN Accounts,,,,,,,,,X,,,,
+NET.3.3.A6,Analysis of VPN Requirements,,,,,X,,,X,,X,,,
+NET.3.3.A7,Planning the Technical VPN Implementation,,,,X,,X,X,X,,,,X,X
+NET.3.3.A8,Drawing Up a Security Policy for VPN Usage,,,,,X,,,,,,,,
+NET.3.3.A9,Selection of Suitable VPN Products,,X,X,,,,,,,,X,,
+NET.3.3.A10,Secure Operation of a VPN,,,,X,,X,X,,,,,X,X
+NET.3.3.A11,Secure Integration of an External Network,,X,X,,,,,,,,X,,
+NET.3.3.A12,User and Access Management for Remote Access VPNs,,,,,,,,,,X,,,
+NET.3.3.A13,Integration of VPN Components into a Firewall,,,,X,,X,X,,,,,X,X

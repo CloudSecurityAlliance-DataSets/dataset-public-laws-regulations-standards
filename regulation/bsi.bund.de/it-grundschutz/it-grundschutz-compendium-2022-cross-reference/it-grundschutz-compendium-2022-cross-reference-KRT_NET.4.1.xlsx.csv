@@ -1,0 +1,20 @@
+NET.4.1,Name,CIA,G 0.9,G 0.11,G 0.14,G 0.15,G 0.18,G 0.19,G 0.21,G 0.25,G 0.26,G 0.30,G 0.31,G 0.42
+NET.4.1.A1,Requirements Analysis and Planning for Telecommunications Systems,,,X,,,X,,,,,,,
+NET.4.1.A2,Selection of Telecommunications Service Providers,,X,X,,,X,,,,,,,
+NET.4.1.A3,ELIMINATED,,,,,,,,,,,,,
+NET.4.1.A4,ELIMINATED,,,,,,,,,,,,,
+NET.4.1.A5,Logging for Telecommunications Systems,,,,,X,,,,,,,X,
+NET.4.1.A6,Creating a Security Policy for Telecommunications Systems,,,,,,X,X,,,,,X,
+NET.4.1.A7,Suitable Installation of the Telecommunications System,,,,X,X,,X,X,X,,X,,
+NET.4.1.A8,Limitation and Blocking of Unnecessary or Security-Critical Features,,,,X,X,,X,,,,,X,X
+NET.4.1.A9,Training on the Secure Use of Telecommunications Systems,,,,,,,,,,,,X,X
+NET.4.1.A10,Documentation and Revision of the Telecommunications System Configuration,,,,X,,,,,,X,,,
+NET.4.1.A11,Decommissioning Telecommunications Systems and Devices,,,,,,,X,,,,,,
+NET.4.1.A12,Backup of Configuration Files,,,,,,,X,,,,,,
+NET.4.1.A13,Acquisition of Telecommunications Systems,,X,,,,X,,,,,,,
+NET.4.1.A14,Contingency Planning for Telecommunication Systems,,X,,,,,,,,X,,,
+NET.4.1.A15,mergency Calls in the Event of a Telecommunications System Failur,,X,X,,,,,,,,,,
+NET.4.1.A16,Securing End Devices in Openly Accessible Rooms,,,,,,,,X,,,X,,
+NET.4.1.A17,Maintenance of Telecommunications Systems,,,,,X,,X,X,,,X,,
+NET.4.1.A18,Increased Access Protection,CI,,,,,,,X,,,X,,
+NET.4.1.A19,Redundant Connections,A,X,X,,,,,,X,,,,

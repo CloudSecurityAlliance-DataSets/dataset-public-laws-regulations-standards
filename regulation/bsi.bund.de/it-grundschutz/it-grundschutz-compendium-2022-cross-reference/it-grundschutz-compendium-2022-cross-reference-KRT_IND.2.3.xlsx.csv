@@ -1,0 +1,4 @@
+IND.2.3,Name,CIA,G 0.14,G 0.18,G 0.21,G 0.23,G 0.28,G 0.30
+IND.2.3.A1,Installation of Sensors,,X,X,,,,X
+IND.2.3.A2,Calibration of Sensors,,X,,X,,X,X
+IND.2.3.A3,Wireless Communication,I,X,X,X,X,X,X

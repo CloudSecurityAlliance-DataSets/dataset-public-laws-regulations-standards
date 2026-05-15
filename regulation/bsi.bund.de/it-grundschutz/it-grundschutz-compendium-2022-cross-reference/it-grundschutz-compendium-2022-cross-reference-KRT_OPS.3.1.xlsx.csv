@@ -1,0 +1,17 @@
+OPS.3.1,Name,CIA,G 0.9,G 0.14,G 0.17,G 0.18,G 0.19,G 0.22,G 0.25,G 0.30,G 0.33,G 0.38,G 0.41,G 0.45,G 0.46
+OPS.3.1.A1,Drawing Up a Rough Concept for the Outsourcing Service,,,,,X,,,,,,,,,
+OPS.3.1.A2,Contractual Arrangements with Outsourcing Customers,,,,,,,,X,X,X,,,,
+OPS.3.1.A3,Creating a Security Concept for the Outsourcing Project,,,,,,X,,,,,,,X,X
+OPS.3.1.A4,Definition of Possible Communication Partners,,,X,,,X,,,,,,,,X
+OPS.3.1.A5,Provisions for Deploying the Personnel of Outsourcing Service Providers,,,,,,,,,X,X,,,,
+OPS.3.1.A6,Procedures Regarding the Use of Third-Party Personnel,,,,,,,,,X,X,,,,
+OPS.3.1.A7,Creation of a Client Separation Concept by an Outsourcing Service Provider,,,,,,X,,,,,,,,X
+OPS.3.1.A8,Agreements on Connecting to Outsourcing Partner Networks,,X,X,,,,,,,,,,X,
+OPS.3.1.A9,Agreement on the Exchange of Data Between Outsourcing Partners,,,X,X,,X,X,,,,X,,,X
+OPS.3.1.A10,Planning and Maintaining Information Security During Ongoing Outsourcing Operations,,,,,,X,,,,,,,,X
+OPS.3.1.A11,"Site, System, and Data Access Control",,,,,X,X,,,X,,,,,
+OPS.3.1.A12,Change Management,,,,,X,X,,,X,,,,,
+OPS.3.1.A13,Secure Migration in Outsourcing Projects,,,,,,X,,,,,,,X,X
+OPS.3.1.A14,Contingency Planning for Outsourcing,,X,,,,,,X,,X,,,X,
+OPS.3.1.A15,Orderly Termination of an Outsourcing Relationship,,,,,,X,,,,,,,X,X
+OPS.3.1.A16,Security Vetting of Employees,CI,,,,,,,,,,,X,,

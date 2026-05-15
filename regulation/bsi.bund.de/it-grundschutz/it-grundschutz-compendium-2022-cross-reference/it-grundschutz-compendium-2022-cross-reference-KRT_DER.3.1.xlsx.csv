@@ -1,0 +1,29 @@
+DER.3.1,Name,CIA,G 0.18,G 0.19,G 0.27,G 0.29,G 0.46
+DER.3.1.A1,Definition of Responsibilities,,X,,X,,X
+DER.3.1.A2,Preparing an Audit or Revision,,X,,,X,
+DER.3.1.A3,Conducting an Audit,,X,,,,
+DER.3.1.A4,Performing a Revision,,X,,,,
+DER.3.1.A5,Integration into the Information Security Process,,X,X,,,X
+DER.3.1.A6,Definition of an Audit and Revision Basis and a Uniform Evaluation Scheme,,X,,,,
+DER.3.1.A7,Drawing Up an Audit Program,,X,,,X,X
+DER.3.1.A8,Creation of a Revision List,,X,,,X,X
+DER.3.1.A9,Selection of an Appropriate Audit Team or Revision Team,,X,,X,,X
+DER.3.1.A10,Creation of a Audit Plan or Revision Plan,,X,,,,
+DER.3.1.A11,Communication and Behaviour During Audits,,X,X,,,
+DER.3.1.A12,Holding an Initial Meeting,,X,X,,,
+DER.3.1.A13,Inspection and Review of Documents,,X,,,,
+DER.3.1.A14,Selection of Samples,,X,,,X,
+DER.3.1.A15,Selection of Appropriate Audit Techniques,,X,,,,
+DER.3.1.A16,Schedule of the On-Site Audit,,X,,,,
+DER.3.1.A17,Performance of the On-Site Audit,,X,X,,,
+DER.3.1.A18,Conducting Interviews,,X,X,,,
+DER.3.1.A19,Revision of the Risk Treatment Plan,,X,,,X,
+DER.3.1.A20,Holding a Closing Meeting,,X,,,,
+DER.3.1.A21,Analysis of Audits,,X,,,,
+DER.3.1.A22,Creation of an Audit Report,,X,,,X,X
+DER.3.1.A23,Documentation of Revision Results,,X,,,X,X
+DER.3.1.A24,Conclusion of the Audit or Revision,,X,X,,X,X
+DER.3.1.A25,Evaluation of an Audit,,X,,,X,
+DER.3.1.A26,Monitoring and Adapting the Audit Program,,X,,X,X,X
+DER.3.1.A27,Storage and Archiving of Documents on Audits and Revisions,,X,,,,X
+DER.3.1.A28,ELIMINATED,,,,,,

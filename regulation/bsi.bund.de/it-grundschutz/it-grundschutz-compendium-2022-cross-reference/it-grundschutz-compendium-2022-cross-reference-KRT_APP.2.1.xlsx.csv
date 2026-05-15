@@ -1,0 +1,17 @@
+APP.2.1,Name,CIA,G 0.11,G 0.14,G 0.15,G 0.18,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.28,G 0.29,G 0.30,G 0.31,G 0.32,G 0.36,G 0.37,G 0.38,G 0.39,G 0.40,G 0.42,G 0.43,G 0.45,G 0.46
+APP.2.1.A1,Creation of a Security Policy for Directory Services,,,,,X,,,,X,,,,,,X,X,,,,,,,,,,
+APP.2.1.A2,Planning the Use of Directory Services,,X,X,X,X,X,X,,X,,X,X,,,,,X,X,,,,X,,,X,X
+APP.2.1.A3,Setting Up Access Authorisations for Directory Services,,X,X,X,X,X,X,X,X,,,,,,X,X,X,X,,X,,,,X,X,X
+APP.2.1.A4,Secure Installation of Directory Services,,,,,,,,,X,,,,X,,,,,,,,,,,,,
+APP.2.1.A5,Secure Configuration and Configuration Changes in Directory Services,,X,,,X,,,,,X,X,,,,X,X,,,,X,,,,,,
+APP.2.1.A6,Secure Operation of Directory Services,,X,X,X,,X,X,X,X,X,X,,,,X,X,X,X,,,,,,,X,X
+APP.2.1.A7,Drawing Up a Security Concept for the Use of Directory Services,,,,,X,,,,,,,X,,,,,,,,,,,,,,
+APP.2.1.A8,Planning of Partitioning and Replication in the Directory Service,,X,,,X,,,,,X,,X,,,,,,,,,,,,,,X
+APP.2.1.A9,Selection of Suitable Components for Directory Services,,,,,X,,,,,,,X,,,,,,,,,,,,,,
+APP.2.1.A10,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,,,
+APP.2.1.A11,Setting Up Access to Directory Services,,,,,X,,,,,X,,,,X,X,,,,,X,,,,,X,X
+APP.2.1.A12,Monitoring Directory Services,,,,,X,,,,X,X,X,X,,,X,X,X,,X,,X,X,X,,,
+APP.2.1.A13,Protection of Communications with Directory Services,,,X,X,,,,,X,,,,,,X,X,,X,,X,,,,,X,X
+APP.2.1.A14,Orderly Decommissioning of a Directory Service,,,,,X,,,,,X,,,,,,X,,,,,,X,,,X,
+APP.2.1.A15,Migration of Directory Services,,,,,X,,,,,X,,,,,X,X,,,,,,X,,,X,
+APP.2.1.A16,Creation of a Business Continuity Plan for Directory Service Failure,CIA,X,,,X,,,,,,X,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+CON.9,Name,CIA,G 0.14,G 0.18,G 0.19,G 0.22,G 0.25,G 0.29,G 0.45
+CON.9.A1,Definition of Authorised Recipients,,,X,X,,,X,
+CON.9.A2,Regulating the Exchange of Information,,,,X,,,,
+CON.9.A3,Instruction of Personnel on Exchanges of Information,,,,X,,,X,
+CON.9.A4,Agreements on Exchanging Information with External Parties,,,X,X,,,,
+CON.9.A5,Removal of Residual Information Prior to Sharing,,,,X,,,,
+CON.9.A6,Compatibility Checks on Sender and Recipient Systems,,,,,,X,,
+CON.9.A7,Backup Copies of Transferred Data,,,,,,,,X
+CON.9.A8,Encryption and Digital Signatures,,X,,,X,,,
+CON.9.A9,Confidentiality Agreements,C,,,X,,,,

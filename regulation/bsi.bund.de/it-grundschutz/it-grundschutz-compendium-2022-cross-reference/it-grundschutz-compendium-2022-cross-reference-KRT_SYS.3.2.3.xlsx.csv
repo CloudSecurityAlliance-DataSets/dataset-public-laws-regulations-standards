@@ -1,0 +1,28 @@
+SYS.3.2.3,Name,CIA,G 0.9,G 0.11,G 0.14,G 0.16,G 0.19,G 0.21,G 0.22,G 0.23,G 0.25,G 0.26,G 0.27,G 0.28,G 0.29,G 0.30,G 0.32,G 0.35,G 0.36,G 0.37,G 0.38,G 0.39,G 0.41,G 0.42,G 0.46
+SYS.3.2.3.A1,Strategy for Using iOS Devices,,,,X,X,X,X,X,X,X,,,X,X,X,X,,,X,X,,X,,X
+SYS.3.2.3.A2,Planning the Use of Cloud Services,,,X,X,,X,,,,,,,,X,,,,X,,X,,,,X
+SYS.3.2.3.A3,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A4,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A5,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A6,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A7,Preventing Unauthorised Deletion of Configuration Profiles,,,,,,X,X,X,X,,,,,,X,X,X,,X,X,,X,,X
+SYS.3.2.3.A8,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A9,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A10,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A11,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A12,Using Apple IDs,,,,X,X,X,,,,,,,,,,X,X,X,X,,,X,X,X
+SYS.3.2.3.A13,Using the “iOS Restrictions” Configuration Option,,,,X,X,X,X,X,X,,X,,X,X,X,X,,X,X,X,,X,X,X
+SYS.3.2.3.A14,Using the iCloud Infrastructure,,X,X,X,X,X,,,X,,,,,X,,,,,,,,,,
+SYS.3.2.3.A15,Using Continuity Functions,,,X,,,X,,,,,,,,X,,,,,,,,,,X
+SYS.3.2.3.A16,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A17,Using the Device Code History,,,,X,X,X,X,X,X,,,,,,,X,,X,,,,,,X
+SYS.3.2.3.A18,Using the Configuration Option for the Safari Browser,,,,,,,,,,,X,,X,,,,,,,,,,,
+SYS.3.2.3.A19,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A20,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A21,Installation of Apps and Integration of the Apple App Store,,,,X,,X,X,,,X,X,,X,,,X,,,,,X,X,,X
+SYS.3.2.3.A22,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A23,Using Automatic Deletion of Configuration Profiles,CI,,X,,X,,,,,,,X,,,X,,,,,,,,,
+SYS.3.2.3.A24,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,
+SYS.3.2.3.A25,Using the Configuration Option for AirPrint,CI,,,,X,X,,,,,,,,X,,,X,,,,,,,X
+SYS.3.2.3.A26,No Connections to Host Systems,CI,,X,X,X,X,X,X,X,,,,X,X,X,X,X,X,,X,X,X,X,X
+SYS.3.2.3.A27,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,,,

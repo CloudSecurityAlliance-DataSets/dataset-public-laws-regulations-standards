@@ -1,0 +1,31 @@
+INF.2,Name,CIA,G 0.1,G 0.2,G 0.3,G 0.4,G 0.6,G 0.7,G 0.8,G 0.10,G 0.11,G 0.15,G 0.16,G 0.24,G 0.25,G 0.26,G 0.29,G 0.30,G 0.31,G 0.32,G 0.34,G 0.41,G 0.44
+INF.2.A1,Defining Requirements,,,,,,X,X,,,,,,,,,X,,,,,,
+INF.2.A2,Formation of Fire Zones,,X,,,,,,X,X,,,,X,X,,,,,,,,
+INF.2.A3,Use of an Uninterruptible Power Supply,,,,,,,,X,,,,,,,,,,,,,,
+INF.2.A4,Emergency Shutdown of the Power Supply,,X,,,,,,X,,,,,X,,X,,,,,,,
+INF.2.A5,Maintenance of Air Temperature and Humidity,,,X,,,,,,,,,,,,,,,,,,,
+INF.2.A6,Site Access Control,,,,,,,,,,,,X,,,,,X,,X,,,X
+INF.2.A7,Locking and Securing Facilities,,,,,,,,,,,,X,,,,,X,,X,,,X
+INF.2.A8,Use of a Fire Alarm System,,X,,,,,,X,X,,,,X,X,,,,,,,,
+INF.2.A9,Use of an Extinguishing or Fire Prevention System,,X,,,,,,X,X,,,,X,X,,,,,,,,
+INF.2.A10,Inspection and Maintenance of Infrastructure,,X,,,,,,X,X,,,,,X,,,,,,,,
+INF.2.A11,Automatic Monitoring of Infrastructure,,,,,,,,,X,,,,X,,X,,,X,,,,
+INF.2.A12,Data Centre Perimeter Protection,,,,,,,X,,,,,X,,,,,X,,,,X,X
+INF.2.A13,Planning and Installation of Alarm Systems,,X,,X,X,X,X,X,X,,,X,X,X,X,,X,X,,X,X,X
+INF.2.A14,Use of an Emergency Power System,,,,,,,,X,,,,,,,,,,,,,,
+INF.2.A15,Overvoltage Protection Devices,,X,,,,,,,,,,,,X,,,,,,,,
+INF.2.A16,Air Conditioning in Data Centres,,,X,,,,,,,,,,,,,,,,,,,
+INF.2.A17,Use of Early Fire Detection,,X,,,,,,X,X,,,,X,X,,,,,,,,
+INF.2.A18,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,
+INF.2.A19,Functional Testing of Technical Infrastructure,,,,,,,,X,X,,,,,,X,X,,,,,,
+INF.2.A20,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,
+INF.2.A21,Alternate Data Centre,A,,,,,X,X,X,X,X,,,,,,,,,,X,,
+INF.2.A22,Implementation of Dust-Protection Measures,IA,,X,X,,,,,,,,,,,,,,,,,,
+INF.2.A23,Appropriate Design of Data Centre Cabling,A,,,,,,,X,X,,X,,,,X,,X,,,,X,
+INF.2.A24,Use of Video Monitoring Systems,IA,,,,,,,,,,,X,,,,X,X,,,,X,
+INF.2.A25,Redundant Design of Uninterruptible Power Supplies,A,,,,,,,X,,,,,,,,,,,,,,
+INF.2.A26,Redundant Design of Emergency Power Systems,A,,,,,,,X,,,,,,,,,,,,,,
+INF.2.A27,ELIMINATED,,,,,,,,,,,,,,,,,,,,,,
+INF.2.A28,Use of Higher-Level Alarm Systems,IA,X,X,,X,X,X,X,X,,,X,X,X,X,,X,X,,X,X,X
+INF.2.A29,Avoidance and Monitoring of Unnecessary Wiring,,,,X,,,,,,,,,X,X,,,,,,,,
+INF.2.A30,Systems for Extinguishing or Preventing Fires,,X,,,,,,X,X,,,,X,X,,,,,,,,

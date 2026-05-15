@@ -1,0 +1,15 @@
+APP.6,Name,CIA,G 0.18,G 0.19,G 0.20,G 0.22,G 0.25,G 0.27,G 0.28,G 0.29,G 0.31,G 0.39,G 0.45,G 0.46
+APP.6.A1,Planning Software Use,,X,,,,,,,,,,,
+APP.6.A2,Drawing Up a Requirements Catalogue for Software,,X,X,,X,,X,,X,,,,X
+APP.6.A3,Secure Procurement of Software,,,,X,,,,,,,X,,
+APP.6.A4,Regulation of Software Installation and Configuration,,X,,,,,,X,,X,,,
+APP.6.A5,Secure Installation of Software,,,,,,,,,,X,,,
+APP.6.A6,Consideration of Recommended Security Requirements,,X,X,,,,,,,,,,X
+APP.6.A7 ,Selection and Assessment of Potential Software,,X,,,,,,,,,,,
+APP.6.A8,Regulation of the Availability of Installation Files,,X,,,,X,,,,,,X,
+APP.6.A9,Taking Inventory of Software,,X,,,,,,,,,,,
+APP.6.A10,Establishing a Security Policy for Software Use,,X,,,,,,,,X,,,
+APP.6.A11,Using Plug-ins and Extensions,,X,,,,,,X,,,,,
+APP.6.A12,Orderly Decommissioning of Software,,X,,,,,,,,,,,
+APP.6.A13,Uninstallation of Software,,X,,,,,,X,,,,,
+APP.6.A14,Using Certified Software,CIA,X,,,,,,X,,,,,

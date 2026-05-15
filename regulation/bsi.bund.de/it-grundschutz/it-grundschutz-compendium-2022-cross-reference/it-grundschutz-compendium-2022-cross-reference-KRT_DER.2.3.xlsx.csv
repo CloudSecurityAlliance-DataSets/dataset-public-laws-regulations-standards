@@ -1,0 +1,11 @@
+DER.2.3,Name,CIA,G 0.14,G 0.15,G 0.16,G 0.18,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.24,G 0.28,G 0.29,G 0.31,G 0.32,G 0.39,G 0.40,G 0.41,G 0.42,G 0.43,G 0.45,G 0.46
+DER.2.3.A1,Creation of a Management Committee,,X,,,X,,,,,,,,,,,,X,X,X,,X,X
+DER.2.3.A2,Deciding on a Cleaning Strategy,,X,X,X,X,,,X,X,X,X,,,,X,X,,X,,X,X,X
+DER.2.3.A3,Isolation of Affected Network Segments,,X,,,X,,,,X,X,,,,,X,,,,,,X,X
+DER.2.3.A4,Blocking and Changing Access Data and Cryptographic Keys,,X,X,X,X,,,X,X,X,X,,,,X,X,X,X,,X,X,X
+DER.2.3.A5,Closing the Initial Entry Route,,X,X,,X,,,,,X,,X,,,X,,,X,X,,,
+DER.2.3.A6,Returning to Production Operations,,,,,X,X,,,,,,X,X,X,,,,,,,,
+DER.2.3.A7,Targeted System Hardening,,X,X,X,X,,X,X,X,X,X,X,,,X,X,X,X,,X,X,X
+DER.2.3.A8,"Establishing Secure, Independent Communication Channels",,X,X,X,X,,,,X,,,,,,,,,,,X,X,X
+DER.2.3.A9,Hardware Replacement in Affected IT Systems,CIA,X,X,X,X,,,X,X,X,,,,,,X,,X,,X,,X
+DER.2.3.A10,Modifications to Help Thwart a Repeat Attack,CI,X,X,X,X,,,X,X,X,X,X,,,X,X,,X,,X,,X
