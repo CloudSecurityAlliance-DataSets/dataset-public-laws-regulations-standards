@@ -1,0 +1,53 @@
+{
+  "secid": "secid:regulation/gov.uk/computer-misuse-act",
+  "name": "Computer Misuse Act 1990",
+  "acronym": "CMA",
+  "alternate_names": ["UK Computer Misuse Act"],
+  "version": "1990",
+  "publication_id": "cma",
+  "owner": "UK Home Office",
+  "type": "Regulation",
+  "description": "UK statute (c. 18) defining computer-related offences including unauthorised access, unauthorised access with intent to commit further offences, unauthorised acts impairing operation, supply of articles for use in offences, and unauthorised acts causing/creating serious damage. The UK's foundational cybercrime statute. Amended multiple times since 1990, most significantly by the Police and Justice Act 2006, Serious Crime Act 2015.",
+  "relationToCloudSecurity": "Defines the offences applicable to unauthorised access to cloud-hosted systems and data.",
+  "relationToAISecurity": "Applies to unauthorised access/impairment of AI systems and the data they process.",
+  "license": {
+    "spdx": "OGL-3.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "UK legislation published under the Open Government Licence v3.0. Attribution required."
+  },
+  "links": {
+    "source": "https://www.legislation.gov.uk/ukpga/1990/18/contents",
+    "xml": "https://www.legislation.gov.uk/ukpga/1990/18/data.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1990-06-29",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Royal Assent 1990-06-29. Most recent substantive amendments via Serious Crime Act 2015."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "xml-direct",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Authoritative source is legislation.gov.uk CLML XML at https://www.legislation.gov.uk/ukpga/1990/18/data.xml (committed as cma.xml). Parsed via the shared extract_uk_legislation.py CLML parser into 21 per-section structured CSV/JSON entries."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Cybercrime gap-fill",
+      "tool": "CLML XML + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

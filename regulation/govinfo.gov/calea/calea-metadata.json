@@ -1,0 +1,53 @@
+{
+  "secid": "secid:regulation/govinfo.gov/calea",
+  "name": "Communications Assistance for Law Enforcement Act",
+  "acronym": "CALEA",
+  "alternate_names": ["47 USC §§ 1001-1010", "Digital Telephony Act"],
+  "version": "",
+  "publication_id": "calea",
+  "owner": "US Federal Communications Commission",
+  "type": "Regulation",
+  "description": "US federal law (Pub. L. 103-414, 47 USC §§ 1001-1010) requiring telecommunications carriers and equipment manufacturers to design their systems to enable lawfully-authorized electronic surveillance. Lawful-intercept baseline.",
+  "relationToCloudSecurity": "Cloud-hosted communications services within CALEA's scope must be designed for lawful-intercept compliance.",
+  "relationToAISecurity": "Applies to AI-enabled communications systems within scope.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+  },
+  "links": {
+    "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chap9-subchapI.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1994-10-25",
+    "effective": "1995-10-25",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Enacted 1994; FCC implementing rules 47 CFR Part 1 Subpart Z and 47 CFR § 64.2103."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "see _meta.json",
+    "extraction_host": "markersinglehost (GPU)",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Source PDF from govinfo.gov USCODE title 47 chap 9 subchap I, marker-extracted to markdown. Parsed via shared extract_us_plaw.py PLAW parser into 12 per-section CSV/JSON entries (§§ 1001-1010 plus related)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Lawful intercept gap-fill",
+      "tool": "marker + PLAW Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

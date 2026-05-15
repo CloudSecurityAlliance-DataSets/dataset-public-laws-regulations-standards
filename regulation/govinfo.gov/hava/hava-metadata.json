@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/govinfo.gov/hava",
+  "name": "Help America Vote Act of 2002",
+  "acronym": "HAVA",
+  "alternate_names": ["Pub. L. 107-252", "52 USC § 20901 et seq."],
+  "version": "",
+  "publication_id": "hava",
+  "owner": "US Election Assistance Commission",
+  "type": "Regulation",
+  "description": "US federal election-administration law (Pub. L. 107-252) enacted in response to the 2000 election. Establishes the Election Assistance Commission (EAC), provides funding for state election system upgrades, and sets voting-system and voter-registration standards. Election cybersecurity baseline.",
+  "relationToCloudSecurity": "Applies to election systems and voter registration databases that may be cloud-hosted.",
+  "relationToAISecurity": "AI systems used in voter-registration processing or election administration are within scope.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+  },
+  "links": {
+    "source": "https://www.govinfo.gov/content/pkg/PLAW-107publ252/pdf/PLAW-107publ252.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2002-10-29",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Enacted 2002-10-29; codified primarily at 52 USC § 20901 et seq."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "see _meta.json",
+    "extraction_host": "markersinglehost (GPU)",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Source PDF from govinfo.gov PLAW-107publ252, marker-extracted to markdown. Parsed via shared extract_us_plaw.py PLAW parser into per-section structured CSV/JSON across multiple Titles."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Election security gap-fill",
+      "tool": "marker + PLAW Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

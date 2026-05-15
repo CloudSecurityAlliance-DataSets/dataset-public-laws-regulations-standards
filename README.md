@@ -15,6 +15,65 @@ Machine-readable extractions of public-license security knowledge:
 
 Each document is provided as the original markdown extraction plus structured CSV/JSON keyed by the document's atomic units (requirement IDs, control IDs, article numbers, etc.).
 
+## Subject-Matter Scope
+
+We collect public laws, regulations, and standards across the security-and-compliance space. The list below is the working scope — what we're actively gathering, what we already have, and the areas we want to expand. New material that fits these areas is welcome; material that doesn't is generally not.
+
+### Domain verticals
+
+- **Information security (general)** — NIST SP 800-53/CSF, CSA CCM, PCI DSS, ISO/IEC 27001 (private)
+- **Privacy & data protection** — GDPR, US state privacy acts (CCPA/VCDPA/CTDPA/etc.), PIPEDA, LGPD, APPI, DPDP, PDPA, Loi 25, PIPA (AB/BC)
+- **Healthcare** — HIPAA, Alberta HIA, Ontario PHIPA
+- **Finance** — NYDFS Part 500, DORA, GLBA, PCI DSS (also a control framework)
+- **Identity & access** — NIST SP 800-63 series, FIDO standards, IDPro BoK
+- **Critical infrastructure / sectoral cyber**
+  - Energy: NERC CIP (US bulk electric)
+  - Pipelines / transport: TSA Security Directives (where public)
+  - Water: EPA cybersecurity guidance
+  - Telecom: CALEA, FCC cyber rules
+- **OT / industrial control systems** — NIST SP 800-82, IEC 62443 (private), CFATS
+- **Automotive** — UNECE WP.29 R155 / R156, ISO/SAE 21434 (private)
+- **Aviation / maritime** — FAA cybersecurity ACs, IMO MSC.428 (private)
+- **IoT / consumer device security** — California SB-327, UK PSTI, EU CRA, ETSI EN 303 645 (private)
+- **Defense / national security** — CMMC, NIST SP 800-171, NIST SP 800-172, ITAR/EAR
+
+### Cross-cutting topics
+
+- **AI governance & safety** — EU AI Act, Colorado AI Act, China GenAI Interim Measures, NIST AI RMF, ISO/IEC 42001 (private), NYC LL144, vendor frontier-safety frameworks
+- **Supply chain / SBOM / software liability** — NIST SP 800-161 r1, EO 14028, EU CRA
+- **Cybercrime / criminal law** — CFAA, UK Computer Misuse Act, Budapest Convention
+- **Breach notification** — varies by jurisdiction (state-by-state, GDPR Art 33/34)
+- **Incident disclosure & reporting to regulators** — SEC cyber rule, CIRCIA, NIS2 (regulator-facing, distinct from consumer-facing breach notification)
+- **Cross-border data transfer** — GDPR Chapter 5, Schrems II, EU-US DPF, India DPDP cross-border restrictions, China data export rules
+- **Children's / age-appropriate** — COPPA, UK AADC
+- **Biometrics & facial recognition** — Illinois BIPA, Texas CUBI, NY NYBCL, Maryland facial recognition statutes
+- **Election security** — HAVA, state election cyber laws
+- **Cryptography & export controls** — Wassenaar, FIPS 140 series
+- **Lawful intercept / surveillance** — CALEA, UK Investigatory Powers Act
+
+### Government / public-sector lenses
+
+- **Cloud authorizations & schemes** — FedRAMP (US), BSI C5 (DE), IRAP (AU), G-Cloud (UK)
+- **FOIA / public records** — federal FOIA, state freedom-of-information acts
+- **Whistleblower / disclosure protections** — SOX, EU Whistleblower Directive
+
+### Adjacent informative material (`reference/`)
+
+- AI model cards, system cards, vendor safety reports
+- Cross-framework mapping documents (e.g., CCM ↔ 800-53)
+- Research papers (NIST IR/CSWP, MITRE CTID mappings, academic risk repositories)
+- Glossaries (NIST CSRC glossary)
+- Vendor security guidance / white papers
+- CISA fact sheets and program documentation
+
+### What does **not** belong here
+
+- **Licensed/restricted content** (ISO, IEC, IEEE, members-only frameworks) → companion private repo
+- **Bulk-mirror datasets where the publisher already hosts version-tagged authoritative copies** (CVE Project, MITRE ATT&CK STIX, CISA KEV JSON feed) → reference-only stub pointing at upstream
+- **Tooling outputs that aren't published as security guidance** (security product configuration files, vendor product docs)
+
+See [`TODO.md`](TODO.md) for active acquisition queues and [`PROMPT-CLASSIFICATION.md`](PROMPT-CLASSIFICATION.md) for how to classify a new document into one of the SecID types.
+
 ## Architecture
 
 This repository is the **bulk-processed layer** of a three-tier data architecture:

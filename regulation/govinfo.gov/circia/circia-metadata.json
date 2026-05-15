@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/govinfo.gov/circia",
+  "name": "Cyber Incident Reporting for Critical Infrastructure Act of 2022",
+  "acronym": "CIRCIA",
+  "alternate_names": ["Pub. L. 117-103, Div. Y", "6 USC § 681 et seq."],
+  "version": "",
+  "publication_id": "circia",
+  "owner": "Cybersecurity and Infrastructure Security Agency (CISA)",
+  "type": "Regulation",
+  "description": "US federal law (enacted as Division Y of Pub. L. 117-103, the Consolidated Appropriations Act, 2022) requiring critical-infrastructure entities to report covered cyber incidents to CISA within 72 hours and ransomware payments within 24 hours. The implementing rule (Notice of Proposed Rulemaking) was published 2024-04-04 at 6 CFR Part 226.",
+  "relationToCloudSecurity": "Cloud service providers serving covered critical-infrastructure entities, and covered entities operating cloud workloads, are within scope.",
+  "relationToAISecurity": "AI-related incidents on critical-infrastructure systems within scope.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+  },
+  "links": {
+    "source": "https://www.federalregister.gov/documents/2024/04/04/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-03-15",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Statute enacted 2022-03-15 (Pub. L. 117-103). CISA Notice of Proposed Rulemaking 2024-04-04 (Docket CISA-2022-0010, RIN 1670-AA04). Final rule pending; reporting requirements not yet in force pending implementing regs."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (acquisition-only)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Federal Register NPRM XML acquired (circia-nprm.xml). Structured per-section parsing TODO — the FR XML uses <PRORULE>/<PREAMB>/<SUPLINF>/<SECTION> structure; the statute itself is embedded inside the much larger PL 117-103 (~1000 pages of unrelated appropriations text), so we use the FR NPRM as the practical source instead."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Incident reporting gap-fill (acquisition)",
+      "tool": "Federal Register XML"
+    }
+  ],
+  "scope": {},
+  "notes": "Federal Register NPRM (RIN 1670-AA04) is the practical source. PL 117-103 PDF was attempted but the relevant CIRCIA provisions occupy only ~10 pages of a 1,000+ page appropriations act."
+}

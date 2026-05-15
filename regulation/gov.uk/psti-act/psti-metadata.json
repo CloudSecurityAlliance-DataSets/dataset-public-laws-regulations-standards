@@ -1,0 +1,54 @@
+{
+  "secid": "secid:regulation/gov.uk/psti-act",
+  "name": "Product Security and Telecommunications Infrastructure Act 2022",
+  "acronym": "PSTI",
+  "alternate_names": ["UK PSTI Act", "PSTI 2022"],
+  "version": "2022",
+  "publication_id": "psti",
+  "owner": "UK Department for Science, Innovation and Technology",
+  "type": "Regulation",
+  "description": "UK statute (c. 46) regulating the security of consumer connectable products (Part 1) and telecommunications infrastructure deployment (Part 2). Part 1 sets baseline cybersecurity requirements for IoT devices placed on the UK market, with implementing regulations referencing ETSI EN 303 645. In force since 2024-04-29.",
+  "relationToCloudSecurity": "Applies to consumer-connectable products that depend on cloud services. Part 1 security requirements include vulnerability-disclosure policies and minimum support periods.",
+  "relationToAISecurity": "Applies to consumer-connectable products that incorporate AI capabilities.",
+  "license": {
+    "spdx": "OGL-3.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "UK legislation published under the Open Government Licence v3.0 (compatible with CC BY 4.0). Attribution required."
+  },
+  "links": {
+    "source": "https://www.legislation.gov.uk/ukpga/2022/46/contents",
+    "xml": "https://www.legislation.gov.uk/ukpga/2022/46/data.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-12-06",
+    "effective": "2024-04-29",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Royal Assent 2022-12-06; Part 1 security regime in force 2024-04-29 alongside The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023 (SI 2023/1007)."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "xml-direct",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Authoritative source is legislation.gov.uk CLML (Crown Legislation Markup Language) XML at https://www.legislation.gov.uk/ukpga/2022/46/data.xml (committed as psti.xml). Parsed via the shared extract_uk_legislation.py CLML parser into 80 per-section structured CSV/JSON entries plus 1 Schedule."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "IoT device security gap-fill",
+      "tool": "CLML XML + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

@@ -1,0 +1,52 @@
+{
+  "secid": "secid:regulation/whitehouse.gov/eo-14028",
+  "name": "Executive Order 14028: Improving the Nation's Cybersecurity",
+  "acronym": "EO 14028",
+  "alternate_names": ["May 12 2021 Cybersecurity EO"],
+  "version": "",
+  "publication_id": "eo-14028",
+  "owner": "The White House",
+  "type": "Regulation",
+  "description": "Presidential Executive Order issued 2021-05-12. Directs federal agencies to modernize cybersecurity, accelerate Zero Trust adoption, enhance software supply chain security (driving the SBOM and 'critical software' definitions), establish the Cyber Safety Review Board, and standardize incident-response playbooks. Foundational policy document for federal cybersecurity 2021-onward.",
+  "relationToCloudSecurity": "Direct mandate to accelerate federal adoption of secure cloud services (SaaS, IaaS, PaaS), with FedRAMP and CISA implementation directives flowing from it.",
+  "relationToAISecurity": "Indirect: AI/ML systems within federal information systems are within scope, though EO 14028 predates the AI-specific EO 14110.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+  },
+  "links": {
+    "source": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-05-12",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "In force; implementation directives ongoing across OMB, CISA, NIST."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "see _meta.json",
+    "extraction_host": "markersinglehost (GPU)",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Source PDF from govinfo.gov DCPD-202100401, marker-extracted to markdown. extract_eo_14028.py parses the EO's italicized section markers ('*Sec. N*. *Title*.') into per-section structured CSV/JSON (11 sections, including Sec 1 Policy through Sec 11 General Provisions)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Supply chain / EO gap-fill",
+      "tool": "marker + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}
