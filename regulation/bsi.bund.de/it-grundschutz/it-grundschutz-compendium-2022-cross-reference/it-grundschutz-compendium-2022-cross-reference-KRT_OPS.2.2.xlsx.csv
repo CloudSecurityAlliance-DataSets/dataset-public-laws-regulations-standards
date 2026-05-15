@@ -1,0 +1,20 @@
+OPS.2.2,Name,CIA,G 0.9,G 0.11,G 0.14,G 0.15,G 0.18,G 0.19,G 0.25,G 0.26,G 0.29,G 0.30,G0.31,G 0.32,G 0.35,G 0.36,G 0.41,G 0.45
+OPS.2.2.A1,Drawing Up a Strategy for Cloud Usage,,,,,,X,,,,X,,,,,,,
+OPS.2.2.A2,Drawing Up a Security Policy for Cloud Usage,,,,,,X,,,,X,,,,,,,
+OPS.2.2.A3,Service Definition for Cloud Services by the Customer,,,,,,X,,,,,,,,,,,
+OPS.2.2.A4,Definition of Areas of Responsibility and Interfaces,,,,,,X,,,,,,,,,,,
+OPS.2.2.A5,Planning a Secure Migration to a Cloud Service,,,,,,X,,X,X,,,X,,,X,,
+OPS.2.2.A6,Planning the Secure Integration of Cloud Services,,,,,,X,,X,X,,,X,,,,,
+OPS.2.2.A7,Drawing Up a Security Concept for Cloud Usage,,,,,X,,X,X,X,,X,X,X,,,,X
+OPS.2.2.A8,Careful Selection of a Cloud Service Provider,,,X,,,X,,,,X,,,,,,,
+OPS.2.2.A9,Contractual Arrangements with the Cloud Service Provider,,,X,,,X,,,,X,,,,,,,
+OPS.2.2.A10,Secure Migration to a Cloud Service,,,,,,X,X,X,X,,,,,,,,
+OPS.2.2.A11,Drawing Up a Contingency Concept for a Cloud Service,,X,X,,,,,X,X,,,,,,,,X
+OPS.2.2.A12,Maintaining Information Security During Live Cloud Operations,,,,,,X,,,,,,,,,,,
+OPS.2.2.A13,Evidence of Sufficient Information Security for Cloud Usage,,,,,X,X,X,X,X,X,X,X,X,,,,
+OPS.2.2.A14,Orderly Termination of a Cloud Service Relationship,,,,,,X,,,,,,,,,,,
+OPS.2.2.A15,Ensuring the Portability of Cloud Services,A,,X,,,,,,,,,,,,,,X
+OPS.2.2.A16,Implementing In-House Backups,A,,X,,,,,,,,,,,,,,X
+OPS.2.2.A17,Use of Encryption When Using the Cloud,A,,,X,X,,,,,,,,,,,,
+OPS.2.2.A18,Use of Federation Services,CIA,,,,,,,,,,X,,X,,,,
+OPS.2.2.A19,Security Vetting of Employees,CIA,,,X,,,X,,,,,,,X,,X,

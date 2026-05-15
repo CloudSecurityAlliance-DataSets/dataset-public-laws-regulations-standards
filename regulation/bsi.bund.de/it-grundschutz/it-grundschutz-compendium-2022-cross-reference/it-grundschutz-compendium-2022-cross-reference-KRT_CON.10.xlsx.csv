@@ -1,0 +1,19 @@
+CON.10,Name,CIA,G 0.18,G 0.28
+CON.10.A1,Authentication for Web Applications,,,X
+CON.10.A2,Access Control for Web Applications,,,X
+CON.10.A3,Secure Session Management,,,X
+CON.10.A4,Controlled Integration of Content in Web Applications,,,X
+CON.10.A5,Upload Functions,,,X
+CON.10.A6,Protection Against Unauthorised Automated Use of Web Applications,,,X
+CON.10.A7,Protection of Confidential Data,,,X
+CON.10.A8,Comprehensive Input Validation and Output Encoding,,,X
+CON.10.A9,Protection Against SQL Injections,,,X
+CON.10.A10,Restrictive Disclosure of Security-Related Information,,X,X
+CON.10.A11,Software Architecture of a Web Application,,,X
+CON.10.A12,Verification of Essential Changes,,,X
+CON.10.A13,Error Handling,,,X
+CON.10.A14,Secure HTTP Configuration of Web Applications,,,X
+CON.10.A15,Prevention of Cross-Site Request Forgery,,,X
+CON.10.A16,Multi-Factor Authentication,,,X
+CON.10.A17,Preventing Resources from Being Blocked,CIA,,X
+CON.10.A18,Cryptographic Protection of Confidential Data,CIA,,X

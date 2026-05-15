@@ -1,0 +1,27 @@
+INF.5,Name,CIA,G 0.1,G 0.2,G 0.3,G 0.4,G 0.5,G 0.8,G 0.10,G 0.11,G 0.18,G 0.24,G 0.25,G 0.26,G 0.29,G 0.41,G 0.44
+INF.5.A1,Planning the Room Protection,,,,,,,,,,X,,,,,,
+INF.5.A2,Location and Size of the Technical Infrastructure Room,,X,X,X,X,X,,,,,,,,,,
+INF.5.A3,Site Access Regulations and Control,,,,,,,,,,,X,,X,,X,X
+INF.5.A4,Protection Against Intrusion,,,,,,,X,X,,,X,,X,,X,
+INF.5.A5,Avoidance of and Protection Against Electromagnetic Interference Field,,,,,,,,,,,,X,X,,,
+INF.5.A6,Minimising Fire Loads,,X,,,X,,X,X,,,X,X,X,,,
+INF.5.A7,Prevention of Incorrect Use,,X,,X,X,,,,,,X,X,X,,,X
+INF.5.A8,Avoidance of Uncontrolled Electrostatic Discharge,,,,,,,X,,,,,X,,,,
+INF.5.A9,Power Supply,,X,,,,,X,,,,X,X,,,,
+INF.5.A10,Maintenance of Air Temperature and Humidity,,,X,,X,,,,,,X,X,X,,,
+INF.5.A11,Avoidance of Pipes with Hazardous Liquids and Gases,,X,,X,X,,X,X,,,X,X,X,,,
+INF.5.A12,Protection Against Accidental Damage to Supply Lines,,,,X,X,,X,X,,X,,,,,X,
+INF.5.A13,Protection Against Fire and Smoke Damage,,X,,,X,,,,,,X,X,X,X,,
+INF.5.A14,Minimising Fire Hazards from Neighbouring Areas,,X,,,X,,X,X,,,X,X,X,,,
+INF.5.A15,Lightning and Overvoltage Protection,,,,,,X,X,X,,,X,X,X,,,
+INF.5.A16,Use of an Uninterruptible Power Supply,,,,,,,X,X,,,X,X,,,,
+INF.5.A17,Inspection and Maintenance of Infrastructure,,,,,,X,X,X,,,X,X,X,,X,
+INF.5.A18,Location of the Technical Infrastructure Room,CA,X,X,X,X,X,,,,,,,,,,
+INF.5.A19,Redundancy of the Technical Infrastructure Room,A,,,,,,X,X,,,X,X,X,,,
+INF.5.A20,Enhanced Protection Against Intrusion and Sabotage,CIA,,,,,,X,X,,,X,X,,,X,X
+INF.5.A21,ELIMINATED,,,,,,,,,,,,,,,,
+INF.5.A22,Redundant Power Supply Design,A,,,,,,X,X,,,X,X,,,,
+INF.5.A23,Emergency Power Systems,A,,,,,,X,X,X,,X,X,X,,,
+INF.5.A24,Ventilation and Cooling,A,,X,,X,,X,X,X,,X,X,X,,,
+INF.5.A25,Increased Protection Against Fire and Smoke Damage,A,X,,,X,,X,X,,,X,X,X,,,
+INF.5.A26,Monitoring of the Power Supply,A,,,,,,X,X,,,,X,X,,,

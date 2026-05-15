@@ -1,0 +1,18 @@
+SYS.1.3,Name,CIA,G 0.14,G 0.20,G 0.21,G 0.22,G 0.23,G 0.25,G 0.28,G 0.30,G 0.31,G 0.32,G 0.39,G 0.43,G 0.45,G 0.46
+SYS.1.3.A1,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A2,Careful Allocation of IDs,,X,,,X,,,,X,X,X,,,X,X
+SYS.1.3.A3,No Automatic Integration of Removable Drives,,,,X,,X,,,X,,,,,,
+SYS.1.3.A4,Protection from Exploitation of Vulnerabilities in Applications,,,,,X,X,,X,,,,X,,,
+SYS.1.3.A5,Secure Installation of Software Packages,,,X,,,,,X,,,,,,,
+SYS.1.3.A6,Managing Users and Groups,,,,X,,,,,X,X,,,,,
+SYS.1.3.A7,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A8,Encrypted Access via Secure Shell,,X,,,,X,,,,,,,X,,
+SYS.1.3.A9,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A10,Preventing Further Intrusion When Vulnerabilities Are Exploited,,,,,,,X,X,,,,X,,,
+SYS.1.3.A11,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A12,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A13,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A14,Preventing Unauthorised Collection of System and User Information,C,X,,,,,,,X,,,,,,X
+SYS.1.3.A15,ELIMINATED,,,,,,,,,,,,,,,
+SYS.1.3.A16,Additional Prevention of Further Intrusion When Vulnerabilities Are Exploited,CI,X,,,X,,,,,,X,,,X,
+SYS.1.3.A17,Additional Kernel Protection,CI,X,,,X,,,,,,X,,,X,

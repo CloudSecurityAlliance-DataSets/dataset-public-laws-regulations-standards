@@ -1,0 +1,17 @@
+OPS.2.1,Name,CIA,G 0.11,G 0.14,G 0.15,G 0.17,G 0.18,G 0.19,G 0.22,G 0.25,G 0.29,G 0.35,G 0.42
+OPS.2.1.A1,Specification of Security Requirements for Outsourcing Projects,,,,,,X,,,,X,,
+OPS.2.1.A2,Timely Involvement of Employee Representatives,,,,,,,,,,X,,
+OPS.2.1.A3,Selection of a Suitable Outsourcing Service Provider,,X,,,,,,,,,,
+OPS.2.1.A4,Contractual Arrangements with the Outsourcing Service Provider,,,,,,,,,,X,,
+OPS.2.1.A5,Establishing an Outsourcing Strategy,,X,,,,X,,,,X,,
+OPS.2.1.A6,Drawing up a Security Concept for the Outsourcing Project,,,,,X,X,X,X,X,X,,
+OPS.2.1.A7,Definition of Possible Communication Partners,,,X,,,,X,,,,,X
+OPS.2.1.A8,Provisions for Deploying the Personnel of the Outsourcing Service Provider,,,,,,,X,,,X,,
+OPS.2.1.A9,Agreements on Connecting to Outsourcing Partner Networks,,X,,X,,X,,,,,,
+OPS.2.1.A10,Agreement on the Exchange of Data Between the Outsourcing Partners,,,X,X,X,,X,X,,,,
+OPS.2.1.A11,Planning and Continuity of Information Security During Ongoing Outsourcing Operations,,,,,,,X,,,,,
+OPS.2.1.A12,Change Management,,,,,,X,,,,,,
+OPS.2.1.A13,Secure Migration in Outsourcing Projects,,,,,,X,X,,,,,
+OPS.2.1.A14,Contingency Planning for Outsourcing,,X,,,,,,,X,,,
+OPS.2.1.A15,Organised Termination of an Outsourcing Relationship,,X,,,,,,,,,,
+OPS.2.1.A16,Security Vetting of Employees,CIA,,,,,,,,,X,X,

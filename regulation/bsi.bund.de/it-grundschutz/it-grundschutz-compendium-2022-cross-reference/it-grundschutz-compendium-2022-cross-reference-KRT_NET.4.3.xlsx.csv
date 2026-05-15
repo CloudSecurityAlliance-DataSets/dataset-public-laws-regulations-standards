@@ -1,0 +1,16 @@
+NET.4.3,Name,CIA,G 0.2,G 0.4,G 0.8,G 0.14,G 0.16,G 0.18,G 0.19,G 0.22,G 0.27,G 0.31
+NET.4.3.A1,Suitable Siting of a Fax Machine,,X,X,,X,X,X,,,,
+NET.4.3.A2,Information for Employees on Using Fax Machines,,X,,,,,X,,,X,X
+NET.4.3.A3,Secure Operation of a Fax Server,,,,,,,,,,X,X
+NET.4.3.A4,Drawing Up a Security Policy for Fax Use,,,,,X,X,X,X,X,,X
+NET.4.3.A5,ELIMINATED,,,,,,,,,,,
+NET.4.3.A6,Procurement of Suitable Fax Machines and Servers,,,,,X,,X,X,X,,
+NET.4.3.A7,Suitable Labelling of Outgoing Fax Transmissions,,,,,,,X,,,,
+NET.4.3.A8,Appropriate Disposal of Consumable Fax Accessories and Spare Parts,,,,,X,,,X,,,
+NET.4.3.A9,Using Transmission and Reception Logs,,,,,X,,,,,,
+NET.4.3.A10,"Control of Programmable Destination Addresses, Logs, and Distribution Lists",,,,,X,,,X,X,,
+NET.4.3.A11,Preventing Fax Machine Overload,A,,,,X,,,X,X,,X
+NET.4.3.A12,Blocking Specific Recipient and Sender Fax Numbers,CIA,,,X,,,,,,,
+NET.4.3.A13,Designating Authorised Fax Operators,CIA,,,X,X,,,,,,
+NET.4.3.A14,Producing Copies of Incoming Fax Messages,A,,,,,,,,,X,X
+NET.4.3.A15,Announcing and Acknowledging Fax Messages,CIA,,,,,X,,,,,

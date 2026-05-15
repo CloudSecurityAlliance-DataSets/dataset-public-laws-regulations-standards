@@ -1,0 +1,18 @@
+APP.1.1,Name,CIA,G 0.18,G 0.19,G 0.20,G 0.21,G 0.22,G 0.28,G 0.29,G 0.37,G 0.39,G 0.45,G 0.46
+APP.1.1.A1,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A2,Limiting Active Content,,,X,,,X,,,,X,,
+APP.1.1.A3,Secure Opening of Documents from External Sources,,,,,,,,X,,X,,
+APP.1.1.A4,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A5,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A6,Testing New Versions of Office Products,,X,,X,X,,X,,,,X,X
+APP.1.1.A7,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A8,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A9,ELIMINATED,,,,,,,,,,,,
+APP.1.1.A10,Regulations for Software Development by End Users,,X,,,,,X,,,,,
+APP.1.1.A11,Controlled Use of Extensions for Office Products,,,,X,X,,X,X,,X,X,
+APP.1.1.A12,No Cloud Storage,,X,X,,,,,X,,,,X
+APP.1.1.A13,Use of Viewer Features,,,,X,,,X,,,X,,
+APP.1.1.A14,Protection Against Subsequent Changes to Documents,,,X,,,X,,,X,,,X
+APP.1.1.A15,Use of Encryption and Digital Signatures,CI,,X,X,,X,,,X,,,X
+APP.1.1.A16,Checking Document Integrity,I,,,X,,X,,,,X,,X
+APP.1.1.A17,Awareness of Specific Office Properties,,,X,X,,,,,,,,X

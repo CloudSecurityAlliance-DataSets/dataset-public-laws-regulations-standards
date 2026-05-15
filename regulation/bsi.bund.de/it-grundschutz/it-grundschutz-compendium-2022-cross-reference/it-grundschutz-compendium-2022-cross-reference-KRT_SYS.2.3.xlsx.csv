@@ -1,0 +1,21 @@
+SYS.2.3,Name,CIA,G 0.19,G 0.20,G 0.21,G 0.22,G 0.23,G 0.25,G 0.28,G 0.30,G 0.31,G 0.32,G 0.39,G 0.45,G 0.46
+SYS.2.3.A1,Authentication of Administrators and Users,,,,,,,,,X,X,X,,,
+SYS.2.3.A2,Selection of an Appropriate Distribution,,,X,X,,,,X,,,,,,
+SYS.2.3.A3,ELIMINATED,,,,,,,,,,,,,,
+SYS.2.3.A4,Kernel Updates on Unix-Like Systems,,,X,X,,,X,X,,,,X,,
+SYS.2.3.A5,Secure Installation of Software Packages,,,X,X,,,,X,,,,X,,
+SYS.2.3.A6,No Automatic Integration of Removable Drives,,,,X,X,X,X,,,,,,X,
+SYS.2.3.A7,Restrictive Granting of Access Rights for Files and Directories,,X,,X,X,,,,X,X,X,,,
+SYS.2.3.A8,Use of Techniques to Restrict the Rights of Applications,,X,,X,X,,,,X,X,X,,,
+SYS.2.3.A9,Secure Use of Passwords in the Command Line,,,,X,X,X,,,X,X,X,,X,X
+SYS.2.3.A10,ELIMINATED,,,,,,,,,,,,,,
+SYS.2.3.A11,Preventing the Local Hard Drive From Becoming Overloaded,,,,,,,X,,,,,,X,X
+SYS.2.3.A12,Secure Use of Appliances,,X,X,X,X,X,X,X,X,X,X,X,X,X
+SYS.2.3.A13,ELIMINATED,,,,,,,,,,,,,,
+SYS.2.3.A14,Protection Against the Use of Unauthorised Peripheral Devices,CIA,,,X,X,,X,,X,,,,,
+SYS.2.3.A15,Additional Protection Prior to Executing Undesired Files,CI,,,X,X,X,,,,,,,,
+SYS.2.3.A16,ELIMINATED,,,,,,,,,,,,,,
+SYS.2.3.A17,Additional Prevention of Further Intrusion When Vulnerabilities Are Exploited,CI,,,X,,,,,X,X,X,,,
+SYS.2.3.A18,Additional Kernel Protection,CI,,,X,X,X,,,X,X,X,X,X,X
+SYS.2.3.A19,Hard Disk or File Encryption,CI,X,,,X,X,,,,,,,,X
+SYS.2.3.A20,Disabling Critical SysRq Features,CIA,,,,,,X,,,X,X,,,

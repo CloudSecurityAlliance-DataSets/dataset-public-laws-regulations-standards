@@ -1,0 +1,37 @@
+INF.1,Name,CIA,G 0.1,G 0.2,G 0.3,G 0.4,G 0.5,G 0.6,G 0.7,G 0.8,G 0.10,G 0.16,G 0.18,G 0.29,G 0.34,G 0.44
+INF.1.A1,Planning the Building Protection,,X,X,X,X,X,X,X,X,X,,X,X,X,X
+INF.1.A2,Appropriate Segmentation of Circuit,,,,,,,,,X,,,,,,
+INF.1.A3,Compliance with Fire Prevention Regulations,,X,,,X,X,X,,,,,X,X,,
+INF.1.A4,Fire Detection in Buildings,,X,,,,,,,,,,X,X,,
+INF.1.A5,Hand-Held Fire Extinguishers,,X,,,,,,,,,,X,X,,
+INF.1.A6,Closed Windows and Doors,,,,X,,,,X,,,X,,,,X
+INF.1.A7,Site Access Regulations and Control,,,,,,,,X,,,X,,,,X
+INF.1.A8,Smoking Ban,,X,,,X,,,,,,,,,,
+INF.1.A9,Security Concept for Building Use,,,X,,,,,X,,,X,X,,X,X
+INF.1.A10,Compliance with Relevant Standards and Regulations,,,,,,,,,,,,X,X,,
+INF.1.A11,ELIMINATED,,,,,,,,,,,,,,,
+INF.1.A12,Key Management,,X,,X,,,,,,,X,X,,,X
+INF.1.A13,Regulations Governing Access to Distributors,,,,,,,,,X,X,,,,,X
+INF.1.A14,Lightning Protection Devices,,X,,,,X,,,X,X,,X,,,
+INF.1.A15,Plans Detailing the Location of Supply Lines,,,,,,,,,X,X,,,,,
+INF.1.A16,Avoiding References to the Locations of Sensitive Building Areas,,,,,,,,,,,,,,X,
+INF.1.A17,Structural Smoke Protection,,X,,,,,,,,,,X,X,,
+INF.1.A18,On-Site Fire Safety Inspections,,X,,,X,,,,,,,X,X,,
+INF.1.A19,Notification of the Fire Safety Officer,,X,,,,,,,,,,X,,,
+INF.1.A20,Alert Plan and Fire Drills,,X,,,,X,X,,,,,,,X,
+INF.1.A21,ELIMINATED,,,,,,,,,,,,,,,
+INF.1.A22,Secure Doors and Windows,CIA,X,,,,,,X,,,X,,,X,X
+INF.1.A23,Formation of Security Zones,C,,,,,,,X,,,X,,,X,X
+INF.1.A24,Automatic Drainage,A,,,X,,X,,,,,,,,,
+INF.1.A25,Selection of Appropriate Locations,A,,X,X,,X,X,,X,X,,X,,,
+INF.1.A26,Gatekeeper or Security Service,CIA,,,,,,,,,,X,,,,X
+INF.1.A27,Burglary Protection,,,,,,,,,,,X,,,,X
+INF.1.A28,ELIMINATED,,,,,,,,,,,,,,,
+INF.1.A29,ELIMINATED,,,,,,,,,,,,,,,
+INF.1.A30,Selection of an Appropriate Building,CIA,,X,X,,X,X,,X,X,,X,,,X
+INF.1.A31,Moving Out of Buildings,C,,,,,,,,,,X,X,,,X
+INF.1.A32,Firestop Seal Register,A,,,,,,,,,,,X,,,
+INF.1.A33,ELIMINATED,,,,,,,,,,,,,,,
+INF.1.A34,Intruder and Fire Detection System,A,X,,,,,,,,,,,,,
+INF.1.A35,Perimeter Protection,CA,,,,,,,X,,,X,,,,X
+INF.1.A36,Regular Documentation Updates,,X,,,,,,,X,X,,,X,,

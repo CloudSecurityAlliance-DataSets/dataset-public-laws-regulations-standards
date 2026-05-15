@@ -1,0 +1,19 @@
+CON.7,Name,CIA,G 0.14,G 0.15,G 0.16,G 0.17,G 0.18,G 0.19,G 0.20,G 0.29,G 0.30,G 0.31,G 0.35,G 0.36,G 0.39,G 0.42,G 0.45,G 0.46
+CON.7.A1,Information Security Policy for Trips Abroad,,X,,X,X,X,X,,X,X,X,,,,,,
+CON.7.A2,Raising Employee Awareness of Information Security When Travelling Abroad,,X,,,,X,,X,X,,X,,,,X,,
+CON.7.A3,"Identification of Country-Specific Regulations, Travel Conditions, and Environmental Conditions",,,,,X,X,X,,X,X,,,,,,X,X
+CON.7.A4,Use of Privacy Screens,,,,X,,,X,,,X,,,,X,,,
+CON.7.A5,Use of Screen/Code Locking,,,,X,,,X,,X,X,,,,X,,,
+CON.7.A6,Prompt Reporting of a Loss,,,,,,,X,,,X,,,,,,,
+CON.7.A7,Secure Remote Access to an Organisation's Network,,X,X,,,,,X,,X,,,,,,,
+CON.7.A8,Secure Use of Public WLANs,,,X,,,X,X,X,X,,X,,,,,,
+CON.7.A9,Secure Handling of Mobile Storage Media,,,,X,,,X,X,,,,,,,,,
+CON.7.A10,Encryption of Portable IT Systems and Storage Media,,,,,,X,X,,X,,,,X,,,,X
+CON.7.A11,Use of Anti-Theft Devices,,,,X,X,,,,,X,X,,,,,X,
+CON.7.A12,Secure Destruction of Sensitive Materials and Documents,,,,X,,X,X,,X,,X,,,,,,
+CON.7.A13,Transporting Necessary Data and Storage Media,,,,X,X,X,X,,,X,,X,,,,X,X
+CON.7.A14,Cryptographically Secured E-Mail Communication,,X,X,,,,X,X,X,,,,X,,,,X
+CON.7.A15,Emission Security for Portable IT Systems,C,,,,,,,,,X,,,X,,,,
+CON.7.A16,Protecting Integrity Using Checksums or Digital Signatures,I,,,,,,,X,,,X,,,,,X,X
+CON.7.A17,Use of Dedicated Travel Hardware,CIA,X,,,,X,,,,X,,X,,,,X,
+CON.7.A18,Restricted Authorisations on Trips Abroad,CI,,,,,X,,,,,X,,,,,,

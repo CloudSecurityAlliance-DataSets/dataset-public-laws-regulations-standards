@@ -1,0 +1,22 @@
+OPS.1.2.2,Name,CIA,G 0.2,G 0.4,G 0.14,G 0.18,G 0.19,G 0.22,G 0.25,G 0.26,G 0.28,G 0.29,G 0.30,G 0.31,G 0.37,G 0.45,G 0.46
+OPS.1.2.2.A1,Determining Parameters for Electronic Archiving,,,,,X,,,,,,X,,,X,,
+OPS.1.2.2.A2,Drawing up an Archiving Concept,,,,,X,,,,,,,X,,,,
+OPS.1.2.2.A3,Appropriate Installation of Archive Systems and Storage of Archive Media,,X,X,,,,,,,,,,,,,
+OPS.1.2.2.A4,Consistent Indexing of Data During Archiving,,,,,X,,,X,X,,,,,,,
+OPS.1.2.2.A5,Regular Regeneration of Archived Data,,,,,X,,,,,,X,,,,,
+OPS.1.2.2.A6,Protection of the Integrity of the Index Database of Archive Systems,,,,,,,,X,X,X,,,,,,X
+OPS.1.2.2.A7,Regular Backups of System and Archive Data,,,,,,,,,,,,,,,X,X
+OPS.1.2.2.A8,Logging of Archival Access,,,,X,,,X,,,,X,,,,,
+OPS.1.2.2.A9,Selection of Suitable Data Formats for Archiving Documents,,,,,,,,,,,,,,,X,X
+OPS.1.2.2.A10,Drawing Up a Policy for Using Archive Systems,,,,,X,,,,,,X,,X,,,
+OPS.1.2.2.A11,Instruction Regarding the Administration and Operation of the Archive System,,,,,,,,X,X,,,X,X,,,
+OPS.1.2.2.A12,Monitoring of Storage Resources for Archive Media,,,,,,,,X,X,,,,,,X,X
+OPS.1.2.2.A13,Regular Auditing of Archiving Processes,,,,,X,,,,,,X,,,,,
+OPS.1.2.2.A14,Regular Observation of the Market for Archive Systems,,,,,X,,,X,X,X,,,,,,
+OPS.1.2.2.A15,Regular Processing of Cryptographically Secured Data During Archiving,,,,,X,,,X,X,X,,,,,,X
+OPS.1.2.2.A16,Regular Renewal of Technical Archive System Components,,,,,X,,,,,,,,,,,X
+OPS.1.2.2.A17,Selecting a Suitable Archiving System,,,,,,,,X,X,,,,,,,
+OPS.1.2.2.A18,Selecting a Suitable Archiving System,,,,,X,,,,,X,X,,,,,
+OPS.1.2.2.A19,Regular Function and Recovery Tests for Archiving,,,,,X,,,X,X,,,,,,,
+OPS.1.2.2.A20,Appropriate Use of Cryptographic Methods for Archiving,CI,,,,,,,X,X,X,,,,,X,X
+OPS.1.2.2.A21,Transfer of Paper-based Data to Electronic Archives,CI,,,X,,X,,,,,X,,,X,,

@@ -1,0 +1,33 @@
+APP.4.2,Name,CIA,G 0.14,G 0.21,G 0.22,G 0.23,G 0.25,G 0.28,G 0.30,G 0.31,G 0.32,G 0.39,G 0.43,G 0.45,G 0.46
+APP.4.2.A1,Secure Configuration of the SAP ABAP Stack,,X,,,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A2,Secure Configuration of the SAP Java Stack,,X,,,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A3,Network Security,,X,,,,,,,,,,X,,
+APP.4.2.A4,Protection of Standard SAP User IDs,,X,,X,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A5,Configuration and Protection of SAP User Administration,,X,,X,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A6,Creation and Implementation of a User and Access Control Policy,,X,,X,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A7,Protection of SAP Databases,,X,,X,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A8,Protection of the SAP RFC Interface,,X,,X,X,X,X,X,X,X,X,X,X,X
+APP.4.2.A9,Protecting and Monitoring the Message Server,,,,,,X,,,,,,,,
+APP.4.2.A10,ELIMINATED,,,,,,,,,,,,,,
+APP.4.2.A11,Secure Installation of an SAP ERP System,,X,,,X,X,X,X,X,,,,X,X
+APP.4.2.A12,SAP Authorisation Development,,X,,X,,,,,,X,,,,X
+APP.4.2.A13,SAP Password Security,,,,,X,,,,,,,,,
+APP.4.2.A14,Identification of Critical SAP Authorisations,,,,X,,,,X,,X,,,,
+APP.4.2.A15,Secure Configuration of the SAP Router,,X,,,X,,,X,,,,,,
+APP.4.2.A16,Implementation of Security Requirements for the Windows Operating System,,X,,,X,,,X,,,,,,
+APP.4.2.A17,Implementation of Security Requirements for the Unix Operating System,,X,,,X,,,X,,,,,,
+APP.4.2.A18,Disabling Insecure Communications,,X,,,X,,,,,,,,,
+APP.4.2.A19,Definition of Security Policies for Users,,,,,X,,,,,,,,,
+APP.4.2.A20,Secure SAP GUI Settings,,,,,X,,,,,,,,,
+APP.4.2.A21,ELIMINATED,,,,,,,,,,,,,,
+APP.4.2.A22,Protection of the Spool in the SAP ERP System,,X,,X,,,,,,,,,,X
+APP.4.2.A23,Protection of SAP Background Processing,,X,,X,,,,,,,,,,X
+APP.4.2.A24,Activation and Protection of the Internet Communication Framework,,,,,X,,,,,,,,,
+APP.4.2.A25,Secure Configuration of the SAP Web Dispatcher,,,,,X,,,,,,,,,
+APP.4.2.A26,Protection of Customers' Own Code in the SAP ERP System,,X,X,X,X,X,X,X,,,X,X,X,X
+APP.4.2.A27,Auditing the SAP ERP System,,X,,X,X,,,X,X,,,,,
+APP.4.2.A28,Creation of a Contingency Concept,,,,,,X,,,,,,,,
+APP.4.2.A29,Setting Up Emergency Users,,,,,,X,,,,,,,X,X
+APP.4.2.A30,Implementation of Continuous Monitoring of Security Settings,,X,X,X,X,X,X,X,X,X,,X,X,X
+APP.4.2.A31,Configuration of SAP Single Sign-On,,,,,X,,,,,,,,,
+APP.4.2.A32,Real-Time Detection and Alerts for Irregular Processes,CIA,X,X,X,X,X,X,X,X,X,X,X,X,X
