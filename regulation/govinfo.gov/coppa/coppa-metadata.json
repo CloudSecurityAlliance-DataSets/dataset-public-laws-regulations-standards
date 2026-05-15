@@ -1,0 +1,53 @@
+{
+  "secid": "secid:regulation/govinfo.gov/coppa",
+  "name": "Children's Online Privacy Protection Act",
+  "acronym": "COPPA",
+  "alternate_names": ["15 USC §§ 6501-6506"],
+  "version": "",
+  "publication_id": "coppa",
+  "owner": "US Federal Trade Commission",
+  "type": "Regulation",
+  "description": "US federal law (Pub. L. 105-277, Title XIII, codified at 15 USC §§ 6501-6506) regulating online services directed to children under 13, or that knowingly collect information from children under 13. Implementing regulations are at 16 CFR Part 312 (COPPA Rule).",
+  "relationToCloudSecurity": "Applies to cloud-hosted online services within COPPA's scope.",
+  "relationToAISecurity": "Applies to AI systems that collect personal information from children under 13.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+  },
+  "links": {
+    "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chap91.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1998-10-21",
+    "effective": "2000-04-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Enacted as Title XIII of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999. FTC final rule effective 2000-04-21; major amendment to FTC Rule 2013."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "see _meta.json",
+    "extraction_host": "markersinglehost (GPU)",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Source PDF from govinfo.gov USCODE-2023-title15 chap 91, marker-extracted to markdown. Parsed via the shared extract_us_plaw.py PLAW parser into 8 per-section CSV/JSON entries (§§ 6501-6506 plus 6507/6508)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Children's privacy gap-fill",
+      "tool": "marker + PLAW Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}
