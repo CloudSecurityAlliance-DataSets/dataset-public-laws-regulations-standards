@@ -38,7 +38,7 @@
     "extraction_host": "local (pre-reorg)",
     "flags": [],
     "force_ocr": null,
-    "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+    "notes": "Source PDF marker-extracted to markdown. extract_800_161_r1.py parses the C-SCRM-augmented base controls into structured CSV/JSON: 191 controls across 20 SP 800-53 r5 families, each with Supplemental C-SCRM Guidance, Level(s) applicability, and (where present) Control Enhancement(s)."
   },
   "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
 }
