@@ -1,0 +1,53 @@
+{
+  "secid": "secid:regulation/ca.gov/sb-327-iot-security",
+  "name": "California SB-327: Security of Connected Devices",
+  "acronym": "SB-327",
+  "alternate_names": ["CA Civil Code §§ 1798.91.04-1798.91.06", "California IoT Security Law"],
+  "version": "",
+  "publication_id": "sb-327",
+  "owner": "California State Legislature",
+  "type": "Regulation",
+  "description": "California statute (Stats. 2018, Ch. 860) requiring manufacturers of connected (IoT) devices sold in California to equip them with reasonable security features. Codified at California Civil Code Title 1.81.26 §§ 1798.91.04-1798.91.06. First US state IoT security law; first effective 2020-01-01.",
+  "relationToCloudSecurity": "Applies to connected devices that depend on cloud services. Section 1798.91.04(c) provides a safe harbor for devices conforming to a NIST IoT labeling scheme.",
+  "relationToAISecurity": "Applies to AI-capable IoT devices within scope.",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-copyright",
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
+  },
+  "links": {
+    "source": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.26.&part=4.&chapter=",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-09-28",
+    "effective": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Signed 2018-09-28; effective 2020-01-01. Amended 2022 (AB 2392, Stats. 2022 Ch. 785) to add NIST conforming-labeling safe harbor."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "playwright + regex",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Source HTML fetched via Playwright from leginfo.legislature.ca.gov (the page requires JavaScript rendering to populate the code text). extract_sb_327.py parses the three Civil Code sections into structured CSV/JSON."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "IoT device security gap-fill",
+      "tool": "Playwright + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}

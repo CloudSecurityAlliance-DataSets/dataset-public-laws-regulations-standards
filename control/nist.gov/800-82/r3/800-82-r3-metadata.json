@@ -1,0 +1,52 @@
+{
+  "secid": "secid:control/nist.gov/800-82@r3",
+  "name": "Guide to Operational Technology (OT) Security",
+  "acronym": "SP 800-82 r3",
+  "alternate_names": ["NIST SP 800-82 Rev. 3"],
+  "version": "r3",
+  "publication_id": "800-82",
+  "owner": "National Institute of Standards and Technology",
+  "type": "Standard",
+  "description": "NIST Special Publication 800-82 Revision 3 (September 2023). Provides guidance on improving the security of OT systems including industrial control systems (ICS), SCADA, distributed control systems (DCS), programmable logic controllers (PLCs), and building automation systems. Includes an OT-overlay of NIST SP 800-53 r5 controls in Appendix G.",
+  "relationToCloudSecurity": "Addresses cloud-relevant scenarios for OT (hybrid OT/IT, cloud-managed OT, IIoT). Relevant to organizations operating critical infrastructure with cloud touchpoints.",
+  "relationToAISecurity": "AI/ML systems deployed in OT environments are within scope for 800-82's security objectives.",
+  "license": {
+    "spdx": "LicenseRef-NIST-Public-Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series",
+    "notes": "Work of NIST is in the US public domain (17 USC § 105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/82/r3/final",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-09",
+    "active": true,
+    "supersedes": "NIST SP 800-82 r2 (2015)",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Current OT/ICS security guide."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "marker",
+    "tool_version": "see _meta.json",
+    "extraction_host": "markersinglehost (GPU)",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Source PDF from nvlpubs.nist.gov, marker-extracted to markdown. extract_800_82_r3.py parses the OT-overlay base controls from Appendix G into structured CSV/JSON (230 controls across 19 of 20 SP 800-53 r5 families, each with an 'OT Discussion' note specific to operational-technology applicability)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition + structured extraction",
+      "tool": "marker + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
+}
