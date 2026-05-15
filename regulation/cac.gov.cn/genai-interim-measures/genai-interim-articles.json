@@ -1,0 +1,170 @@
+[
+  {
+    "article": 1,
+    "chapter": 1,
+    "chapter_name": "General Provisions",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 2,
+    "chapter": 1,
+    "chapter_name": "General Provisions",
+    "short_title": "",
+    "content": "If the state has other provisions on the use of generative artificial intelligence services for news publishing, film and television production, literary and artistic creation, and other activities, such provisions shall prevail. The provisions of these Measures shall not apply to industry organizations, enterprises, educational and scientific research institutions, public cultural institutions, relevant professional institutions, etc. that develop and apply generative artificial intelligence technologies but do not provide generative artificial intelligence services to the domestic public."
+  },
+  {
+    "article": 3,
+    "chapter": 1,
+    "chapter_name": "General Provisions",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 4,
+    "chapter": 1,
+    "chapter_name": "General Provisions",
+    "short_title": "",
+    "content": "(1) Adhere to the core socialist values ​​and do not generate content prohibited by laws and administrative regulations such as inciting subversion of state power, overthrowing the socialist system, endangering national security and interests, damaging the national image, inciting the secession of the country, undermining national unity and social stability, promoting terrorism, extremism, ethnic hatred, ethnic discrimination, violence, pornography, and false and harmful information; (2) Take effective measures to prevent discrimination based on ethnicity, religion, country, region, gender, age, occupation, health, etc. in the process of algorithm design, training data selection, model generation and optimization, and service provision; (3) Respect intellectual property rights and business ethics, keep business secrets, and do not use advantages such as algorithms, data, and platforms to engage in monopoly and unfair competition; (iv) respect the legitimate rights and interests of others, do not endanger the physical and mental health of others, and do not infringe upon others' portrait rights, reputation rights, honor rights, privacy rights, and personal information rights; (V) Take effective measures based on the characteristics of the service type to enhance the transparency of generative AI services and improve the accuracy and reliability of generated content. Chapter 2 Technological Development and Governance"
+  },
+  {
+    "article": 5,
+    "chapter": 2,
+    "chapter_name": "Technological Development and Governance",
+    "short_title": "",
+    "content": "Support industry organizations, enterprises, educational and research institutions, public cultural institutions, relevant professional institutions, etc. to collaborate in generative artificial intelligence technology innovation, data resource construction, transformation and application, risk prevention, etc."
+  },
+  {
+    "article": 6,
+    "chapter": 2,
+    "chapter_name": "Technological Development and Governance",
+    "short_title": "",
+    "content": "Promote the construction of generative artificial intelligence infrastructure and public training data resource platform. Promote collaborative sharing of computing resources and improve the utilization efficiency of computing resources. Promote the orderly opening of public data in terms of classification and grading, and expand high-quality public training data resources. The use of safe and reliable chips, software, tools, computing power and data resources is encouraged."
+  },
+  {
+    "article": 7,
+    "chapter": 2,
+    "chapter_name": "Technological Development and Governance",
+    "short_title": "",
+    "content": "(1) Using data and underlying models from legitimate sources; (2) Where intellectual property rights are involved, the intellectual property rights enjoyed by others in accordance with law shall not be infringed; (3) Where personal information is involved, the individual's consent must be obtained or other circumstances prescribed by laws and administrative regulations must be met; (4) Take effective measures to improve the quality of training data and enhance the authenticity, accuracy, objectivity and diversity of training data; (V) Other relevant provisions of laws and administrative regulations such as the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China, and the Personal Information Protection Law of the People's Republic of China, and relevant regulatory requirements of relevant competent authorities."
+  },
+  {
+    "article": 8,
+    "chapter": 2,
+    "chapter_name": "Technological Development and Governance",
+    "short_title": "",
+    "content": "Chapter III Service Standards"
+  },
+  {
+    "article": 9,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": "The provider shall enter into a service agreement with the generative AI service user (hereinafter referred to as the user) who registers for its service to clarify the rights and obligations of both parties."
+  },
+  {
+    "article": 10,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 11,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": "Providers shall accept and process individuals' requests to review, copy, correct, supplement, and delete their personal information in a timely manner in accordance with the law."
+  },
+  {
+    "article": 12,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 13,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 14,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": "If a provider finds that a user has used generative AI services to engage in illegal activities, it shall take measures such as warnings, restricting functions, suspending or terminating the provision of services to the user in accordance with the law and the contract, preserve relevant records, and report to the relevant competent authorities."
+  },
+  {
+    "article": 15,
+    "chapter": 3,
+    "chapter_name": "Service Standards",
+    "short_title": "",
+    "content": "Chapter IV Supervision, Inspection and Legal Liability"
+  },
+  {
+    "article": 16,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": "The relevant national authorities will improve scientific regulatory methods that are compatible with innovative development in light of the characteristics of generative artificial intelligence technology and its service applications in relevant industries and fields, and formulate corresponding classification and grading regulatory rules or guidelines."
+  },
+  {
+    "article": 17,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 18,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 19,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": "Relevant institutions and personnel involved in the security assessment and supervision and inspection of generative artificial intelligence services shall keep confidential the state secrets, commercial secrets, personal privacy and personal information they become aware of in the course of performing their duties, and shall not disclose them or illegally provide them to others."
+  },
+  {
+    "article": 20,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": ""
+  },
+  {
+    "article": 21,
+    "chapter": 4,
+    "chapter_name": "Supervision, Inspection and Legal Liability",
+    "short_title": "",
+    "content": "If the act constitutes a violation of public security management, public security management punishment shall be imposed according to law; if it constitutes a crime, criminal liability shall be pursued according to law. Chapter V Supplementary Provisions"
+  },
+  {
+    "article": 22,
+    "chapter": 5,
+    "chapter_name": "Supplementary Provisions",
+    "short_title": "",
+    "content": "(1) Generative AI technology refers to models and related technologies that have the ability to generate content such as text, images, audio, and video. (2) Generative AI service providers refer to organizations or individuals that use generative AI technology to provide generative AI services (including providing generative AI services through the provision of programmable interfaces, etc.). (3) Generative AI service users refer to organizations or individuals that use generative AI services to generate content."
+  },
+  {
+    "article": 23,
+    "chapter": 5,
+    "chapter_name": "Supplementary Provisions",
+    "short_title": "",
+    "content": "Foreign investment in generative AI services must comply with the provisions of relevant laws and administrative regulations on foreign investment."
+  },
+  {
+    "article": 24,
+    "chapter": 5,
+    "chapter_name": "Supplementary Provisions",
+    "short_title": "",
+    "content": ""
+  }
+]

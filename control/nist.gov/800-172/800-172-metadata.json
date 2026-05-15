@@ -37,7 +37,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "notes": "Source PDF from NIST CSRC, marker-extracted to markdown. extract_800_172.py parses the 35 enhanced security requirements (formatted as [3.X.Ne]) into structured CSV/JSON, grouped by 10 of the 14 SP 800-53 families (3.1, 3.2, 3.4, 3.5, 3.6, 3.9, 3.11, 3.12, 3.13, 3.14)."
   },
   "extraction_history": [
     {

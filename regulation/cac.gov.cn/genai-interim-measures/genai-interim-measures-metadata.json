@@ -1,12 +1,14 @@
 {
   "secid": "secid:regulation/cac.gov.cn/genai-interim-measures",
-  "name": "Regulation: Genai Interim Measures",
+  "name": "Interim Measures for the Management of Generative Artificial Intelligence Services",
+  "acronym": "GenAI Interim Measures",
+  "alternate_names": ["China GenAI Interim Measures"],
   "version": "",
   "owner": "Cyberspace Administration of China (CAC)",
   "type": "Regulation",
-  "description": "Regulation: Genai Interim Measures",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "China's Interim Measures for the Management of Generative AI Services, jointly issued by CAC, NDRC, MOST, MIIT, MPS, NRTA, and MoE. Effective 2023-08-15. Establishes obligations for providers of generative AI services in China (training data, content labeling, security assessments, algorithm registration).",
+  "relationToCloudSecurity": "Applies to cloud-hosted generative AI services offered to the public in China.",
+  "relationToAISecurity": "Direct AI safety/governance regulation — first comprehensive Chinese GenAI regulatory framework.",
   "license": {
     "spdx": "LicenseRef-Government-Work",
     "redistribution": "permitted_for_reference",
@@ -16,15 +18,35 @@
     "notes": "Government regulation; license terms vary by jurisdiction. Generally permitted for reference and citation; consult the specific issuer's terms before redistribution at scale."
   },
   "links": {
-    "source": "http://www.cac.gov.cn/",
+    "source": "http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
     "csaLocation": ""
   },
   "lifecycle": {
+    "published": "2023-07-13",
+    "effective": "2023-08-15",
     "active": true,
     "supersedes": "",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Issued jointly by CAC, NDRC, MOST, MIIT, MPS, NRTA, and Ministry of Education. Effective 2023-08-15."
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "regex",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "English translation source HTML at c_1690898327029107.htm plus translation-of-web-page.txt. extract_genai_interim.py parses the English translation into per-article structured CSV/JSON (24 articles across 5 chapters)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Structured per-article extraction",
+      "tool": "regex + custom Python"
+    }
+  ],
+  "scope": {},
+  "notes": ""
 }
