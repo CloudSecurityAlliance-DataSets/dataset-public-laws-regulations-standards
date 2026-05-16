@@ -39,7 +39,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "notes": "Source PDF marker-extracted to markdown. extract_800_218.py parses the SSDF practice/task tables into structured CSV/JSON: 47 tasks across 19 practices in 4 practice groups (Prepare the Organization, Protect the Software, Produce Well-Secured Software, Respond to Vulnerabilities). Each task carries its parent practice context."
   },
   "extraction_history": [
     {
