@@ -13,12 +13,12 @@ Highest-value next candidates (have requirement/control structure suitable for p
 - [x] ~~**NIST AI 100-1** (AI RMF Core)~~ — done in PR #24 (72 subcategories across 4 Functions)
 - [x] ~~**NIST Privacy Framework**~~ — done in PR #24 (100 subcategories across 5 Functions, 18 categories)
 - [x] ~~**NIST SP 800-218** (SSDF)~~ — done in PR #24 (47 tasks across 19 practices in 4 groups)
-- [ ] **NIST SP 800-37 r2** — Risk Management Framework (task-oriented; structured tasks)
-- [ ] **NIST SP 800-63-3 / 63A / 63B / 63C** — Digital Identity Guidelines (requirements with numeric IDs)
-- [ ] **NIST SP 800-66 r2** — HIPAA Security Rule implementation (safeguards table)
-- [ ] **NIST SP 800-160 v1/v2** — Systems Security Engineering / Cyber Resiliency (process-task structure)
-- [ ] **NIST SP 800-207** — Zero Trust Architecture (tenets / deployment models)
-- [ ] **NIST AI 600-1** — Generative AI Profile (50 actions across 12 GAI risks; partial CSV already exists)
+- [x] ~~**NIST SP 800-37 r2**~~ — done in PR #25 (47 tasks across 7 RMF phases)
+- [x] ~~**NIST SP 800-66 r2**~~ — done in PR #25 (22 HIPAA-mapped safeguards)
+- [x] ~~**NIST SP 800-207**~~ — done in PR #25 (52 sections; narrative guide so section-level rather than per-control)
+- [x] ~~**NIST AI 600-1**~~ — done in PR #25 (212 Suggested Actions across 49 AI RMF subcategories)
+- [ ] **NIST SP 800-63-3 / 63A / 63B / 63C** — Digital Identity Guidelines. Only 800-63-3 (umbrella) is in repo; need to acquire 800-63A/B/C separately for full structured coverage.
+- [ ] **NIST SP 800-160 v1/v2** — Systems Security Engineering / Cyber Resiliency (process-task structure; Appendix H of v1 has the SSE tasks)
 
 The remaining ~100 NIST publications are primarily narrative guides (best practices, glossaries, research papers) where per-section parsing is less valuable than the markdown itself.
 
@@ -135,6 +135,7 @@ The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](htt
 
 For reference — major items finished in recent PRs:
 
+- **PR #25** (2026-05-16): NIST round 2 — 800-37 r2 RMF (47 tasks across 7 phases); 800-66 r2 HIPAA (22 safeguards); 800-207 Zero Trust (52 sections); AI 600-1 GenAI Profile (212 actions across 49 subcategories).
 - **PR #24** (2026-05-16): NIST round 1 — 800-171 r3 (95 active + 33 withdrawn); AI RMF Core (72 subcategories); Privacy Framework (100 subcategories); 800-218 SSDF (47 tasks).
 - **PR #23** (2026-05-15): One-offs — CIRCIA NPRM structured parse (20 sections); BSI IT-Grundschutz 2022 (1,682 requirements / 104 modules); NIST 800-222 resolved as non-existent.
 - **PR #21** (2026-05-15): NIST 800-82 r3 OT controls; UK PSTI; CA SB-327; COPPA; HAVA; CALEA; UK CMA; EO 14028; CIRCIA acquisition. README scope section.
