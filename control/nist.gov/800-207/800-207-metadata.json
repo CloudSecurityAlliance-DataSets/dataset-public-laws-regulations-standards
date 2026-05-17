@@ -37,7 +37,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "notes": "Source PDF marker-extracted to markdown. extract_800_207.py walks the numbered-section headings into per-section structured CSV/JSON: 52 sections across 7 chapters (Introduction, Zero Trust Basics, Logical Components, Deployment Scenarios, Threats, Federal Guidance Interactions, Migration). 800-207 is a narrative guide rather than a control framework — section-level extraction supports cross-referencing but is not per-control structured."
   },
   "extraction_history": [
     {

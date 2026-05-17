@@ -1,0 +1,3567 @@
+[
+  {
+    "action_id": "GV-1.1-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.1",
+    "subcategory_text": "Legal and regulatory requirements involving AI are understood, managed, and documented.",
+    "suggested_action": "Align GAI development and use with applicable laws and regulations, including those related to data privacy, copyright and intellectual property law.",
+    "gai_risks": [
+      "Data Privacy",
+      "Harmful Bias and Homogenization",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.2-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.2",
+    "subcategory_text": "The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices.",
+    "suggested_action": "Establish transparency policies and processes for documenting the origin and history of training data and generated data for GAI applications to advance digital content transparency, while balancing the proprietary nature of training approaches.",
+    "gai_risks": [
+      "Data Privacy",
+      "Information Integrity",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.2-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.2",
+    "subcategory_text": "The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices.",
+    "suggested_action": "Establish policies to evaluate risk-relevant capabilities of GAI and robustness of safety measures, both prior to deployment and on an ongoing basis, through internal and external evaluations.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Consider the following factors when updating or deﬁning risk tiers for GAI: Abuses and impacts to information integrity; Dependencies between GAI and other IT or data systems; Harm to fundamental rights or public safety; Presentation of obscene, objectionable, oﬀensive, discriminatory, invalid or untruthful output; Psychological impacts to humans (e.g., anthropomorphization, algorithmic aversion, emotional entanglement); Possibility for malicious use; Whether the system introduces signiﬁcant new security vulnerabilities; Anticipated system impact on some groups compared to others; Unreliable decision making capabilities, validity, adaptability, and variability of GAI system performance over time.",
+    "gai_risks": [
+      "Information Integrity",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Value Chain and Component Integration",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Establish minimum thresholds for performance or assurance criteria and review as part of deployment approval (“go/”no-go”) policies, procedures, and processes, with reviewed processes and approval thresholds reﬂecting measurement of GAI capabilities and risks.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Confabulation",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Establish a test plan and response policy, before developing highly capable models, to periodically evaluate whether the model may misuse CBRN information or capabilities and/or oﬀensive cyber capabilities.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-004",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Obtain input from stakeholder communities to identify unacceptable use, in accordance with activities in the AI RMF Map function.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-005",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Maintain an updated hierarchy of identiﬁed and expected GAI risks connected to contexts of GAI model advancement and use, potentially including specialized risk levels for GAI systems that address issues such as model collapse and algorithmic monoculture.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-006",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Reevaluate organizational risk tolerances to account for unacceptable negative risk (such as where signiﬁcant negative impacts are imminent, severe harms are actually occurring, or large-scale risks could occur); and broad GAI negative risks, including: Immature safety or risk cultures related to AI and GAI design, development and deployment, public information integrity risks, including impacts on democratic processes, unknown long-term performance characteristics of GAI.",
+    "gai_risks": [
+      "Information Integrity",
+      "Dangerous, Violent, or Hateful Content",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.3-007",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.3",
+    "subcategory_text": "Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization’s risk tolerance.",
+    "suggested_action": "Devise a plan to halt development or deployment of a GAI system that poses unacceptable negative risk.",
+    "gai_risks": [
+      "CBRN Information and Capability",
+      "Information Security",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.4-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.4",
+    "subcategory_text": "The risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk priorities.",
+    "suggested_action": "Establish policies and mechanisms to prevent GAI systems from generating CSAM, NCII or content that violates the law.",
+    "gai_risks": [
+      "Obscene, Degrading, and/or Abusive Content",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "AI Deployment",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.4-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.4",
+    "subcategory_text": "The risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk priorities.",
+    "suggested_action": "Establish transparent acceptable use policies for GAI that address illegal use or applications of GAI.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Data Privacy",
+      "Civil Rights violations"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "AI Deployment",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.5-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.5",
+    "subcategory_text": "Ongoing monitoring and periodic review of the risk management process and its outcomes are planned, and organizational roles and responsibilities are clearly deﬁned, including determining the frequency of periodic review.",
+    "suggested_action": "Deﬁne organizational responsibilities for periodic review of content provenance and incident monitoring for GAI systems.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-1.5-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.5",
+    "subcategory_text": "Ongoing monitoring and periodic review of the risk management process and its outcomes are planned, and organizational roles and responsibilities are clearly deﬁned, including determining the frequency of periodic review.",
+    "suggested_action": "Establish organizational policies and procedures for after action reviews of GAI system incident response and incident disclosures, to identify gaps; Update incident response and incident disclosure processes as required.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-1.5-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.5",
+    "subcategory_text": "Ongoing monitoring and periodic review of the risk management process and its outcomes are planned, and organizational roles and responsibilities are clearly deﬁned, including determining the frequency of periodic review.",
+    "suggested_action": "Maintain a document retention policy to keep history for test, evaluation, validation, and veriﬁcation (TEVV), and digital content transparency methods for GAI.",
+    "gai_risks": [
+      "Information Integrity",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-1.6-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.6",
+    "subcategory_text": "Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities.",
+    "suggested_action": "Enumerate organizational GAI systems for incorporation into AI system inventory\nand adjust AI system inventory requirements to account for GAI risks.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.6-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.6",
+    "subcategory_text": "Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities.",
+    "suggested_action": "Deﬁne any inventory exemptions in organizational policies for GAI systems embedded into application software.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.6-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.6",
+    "subcategory_text": "Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities.",
+    "suggested_action": "In addition to general model, governance, and risk information, consider the following items in GAI system inventory entries: Data provenance information (e.g., source, signatures, versioning, watermarks); Known issues reported from internal bug tracking or external information sharing resources (e.g., AI incident database, AVID, CVE, NVD, or OECD AI incident monitor); Human oversight roles and responsibilities; Special rights and considerations for intellectual property, licensed works, or personal, privileged, proprietary or sensitive data; Underlying foundation models, versions of underlying models, and access modes.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human-AI Conﬁguration",
+      "Information Integrity",
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-1.7-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.7",
+    "subcategory_text": "Processes and procedures are in place for decommissioning and phasing out AI systems safely and in a manner that does not increase risks or decrease the organization’s trustworthiness.",
+    "suggested_action": "Protocols are put in place to ensure GAI systems are able to be deactivated when\nnecessary.",
+    "gai_risks": [
+      "Information Security",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-1.7-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 1.7",
+    "subcategory_text": "Processes and procedures are in place for decommissioning and phasing out AI systems safely and in a manner that does not increase risks or decrease the organization’s trustworthiness.",
+    "suggested_action": "Consider the following factors when decommissioning GAI systems: Data retention requirements; Data security, e.g., containment, protocols, Data leakage after decommissioning; Dependencies between upstream, downstream, or other data, internet of things (IOT) or AI systems; Use of open-source data or models; Users’ emotional entanglement with GAI functions.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Security",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-2.1-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 2.1",
+    "subcategory_text": "Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.",
+    "suggested_action": "Establish organizational roles, policies, and procedures for communicating GAI incidents and performance to AI Actors and downstream stakeholders (including those potentially impacted), via community or oﬃcial resources (e.g., AI incident database, AVID, CVE, NVD, or OECD AI incident monitor).",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-2.1-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 2.1",
+    "subcategory_text": "Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.",
+    "suggested_action": "Establish procedures to engage teams for GAI system incident response with diverse composition and responsibilities based on the particular incident type.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-2.1-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 2.1",
+    "subcategory_text": "Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.",
+    "suggested_action": "Establish processes to verify the AI Actors conducting GAI incident response tasks demonstrate and maintain the appropriate skills and training.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-2.1-004",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 2.1",
+    "subcategory_text": "Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.",
+    "suggested_action": "When systems may raise national security risks, involve national security\nprofessionals in mapping, measuring, and managing those risks.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Dangerous, Violent, or Hateful Content",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-2.1-005",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 2.1",
+    "subcategory_text": "Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.",
+    "suggested_action": "Create mechanisms to provide protections for whistleblowers who report, based on reasonable belief, when the organization violates relevant laws or poses a speciﬁc and empirically well-substantiated negative risk to public safety (or has already caused harm).",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-3.2-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 3.2",
+    "subcategory_text": "Policies and procedures are in place to deﬁne and diﬀerentiate roles and responsibilities for human-AI conﬁgurations and oversight of AI systems.",
+    "suggested_action": "Policies are in place to bolster oversight of GAI systems with independent evaluations or assessments of GAI models or systems where the type and robustness of evaluations are proportional to the identiﬁed risks.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Actors: AI Design"
+    ]
+  },
+  {
+    "action_id": "GV-3.2-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 3.2",
+    "subcategory_text": "Policies and procedures are in place to deﬁne and diﬀerentiate roles and responsibilities for human-AI conﬁgurations and oversight of AI systems.",
+    "suggested_action": "Consider adjustment of organizational roles and components across lifecycle stages of large or complex GAI systems, including: Test and evaluation, validation, and red-teaming of GAI systems; GAI content moderation; GAI system development and engineering; Increased accessibility of GAI tools, interfaces, and systems, Incident response and containment.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Security",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Actors: AI Design"
+    ]
+  },
+  {
+    "action_id": "GV-3.2-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 3.2",
+    "subcategory_text": "Policies and procedures are in place to deﬁne and diﬀerentiate roles and responsibilities for human-AI conﬁgurations and oversight of AI systems.",
+    "suggested_action": "Deﬁne acceptable use policies for GAI interfaces, modalities, and human-AI conﬁgurations (i.e., for chatbots and decision-making tasks), including criteria for the kinds of queries GAI applications should refuse to respond to.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Actors: AI Design"
+    ]
+  },
+  {
+    "action_id": "GV-3.2-004",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 3.2",
+    "subcategory_text": "Policies and procedures are in place to deﬁne and diﬀerentiate roles and responsibilities for human-AI conﬁgurations and oversight of AI systems.",
+    "suggested_action": "Establish policies for user feedback mechanisms for GAI systems which include thorough instructions and any mechanisms for recourse.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Actors: AI Design"
+    ]
+  },
+  {
+    "action_id": "GV-3.2-005",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 3.2",
+    "subcategory_text": "Policies and procedures are in place to deﬁne and diﬀerentiate roles and responsibilities for human-AI conﬁgurations and oversight of AI systems.",
+    "suggested_action": "Engage in threat modeling to anticipate potential risks from GAI systems.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Actors: AI Design"
+    ]
+  },
+  {
+    "action_id": "GV-4.1-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.1",
+    "subcategory_text": "Organizational policies and practices are in place to foster a critical thinking and safety-ﬁrst mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts.",
+    "suggested_action": "Establish policies and procedures that address continual improvement processes for GAI risk measurement. Address general risks associated with a lack of explainability and transparency in GAI systems by using ample documentation and techniques such as: application of gradient-based attributions, occlusion/term reduction, counterfactual prompts and prompt engineering, and analysis of embeddings; Assess and update risk measurement approaches at regular cadences.",
+    "gai_risks": [
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.1-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.1",
+    "subcategory_text": "Organizational policies and practices are in place to foster a critical thinking and safety-ﬁrst mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts.",
+    "suggested_action": "Establish policies, procedures, and processes detailing risk measurement in context of use with standardized measurement protocols and structured public feedback exercises such as AI red-teaming or independent external evaluations.",
+    "gai_risks": [
+      "CBRN Information and Capability",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.1-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.1",
+    "subcategory_text": "Organizational policies and practices are in place to foster a critical thinking and safety-ﬁrst mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts.",
+    "suggested_action": "Establish policies, procedures, and processes for oversight functions (e.g., senior leadership, legal, compliance, including internal evaluation) across the GAI lifecycle, from problem formulation and supply chains to system decommission.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.2-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.2",
+    "subcategory_text": "Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about the impacts more broadly.",
+    "suggested_action": "Establish terms of use and terms of service for GAI systems.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Dangerous, Violent, or Hateful Content",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.2-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.2",
+    "subcategory_text": "Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about the impacts more broadly.",
+    "suggested_action": "Include relevant AI Actors in the GAI system risk identiﬁcation process.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.2-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.2",
+    "subcategory_text": "Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about the impacts more broadly.",
+    "suggested_action": "Verify that downstream GAI system impacts (such as the use of third-party plugins) are included in the impact documentation process.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "GV-4.3-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.3",
+    "subcategory_text": "Organizational practices are in place to enable AI testing, identiﬁcation of incidents, and information sharing.",
+    "suggested_action": "Establish organizational practices to identify the minimum set of criteria necessary for GAI system incident reporting such as: System ID (auto-generated most likely), Title, Reporter, System/Source, Data Reported, Date of Incident, Description, Impact(s), Stakeholder(s) Impacted.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-4.3-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 4.3",
+    "subcategory_text": "Organizational practices are in place to enable AI testing, identiﬁcation of incidents, and information sharing.",
+    "suggested_action": "Verify information sharing and feedback mechanisms among individuals and organizations regarding any negative impact from GAI systems.",
+    "gai_risks": [
+      "Information Integrity",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-5.1-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 5.1",
+    "subcategory_text": "Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or deployed the AI system regarding the potential individual and societal impacts related to AI risks.",
+    "suggested_action": "Allocate time and resources for outreach, feedback, and recourse processes in GAI\nsystem development.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-5.1-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 5.1",
+    "subcategory_text": "Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or deployed the AI system regarding the potential individual and societal impacts related to AI risks.",
+    "suggested_action": "Document interactions with GAI systems to users prior to interactive activities, particularly in contexts involving more signiﬁcant risks.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Governance and Oversight"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Categorize diﬀerent types of GAI content with associated third-party rights (e.g., copyright, intellectual property, data privacy).",
+    "gai_risks": [
+      "Data Privacy",
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Conduct joint educational activities and events in collaboration with third parties\nto promote best practices for managing GAI risks.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Develop and validate approaches for measuring the success of content provenance management eﬀorts with third parties (e.g., incidents detected and response times).",
+    "gai_risks": [
+      "Information Integrity",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-004",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Draft and maintain well-deﬁned contracts and service level agreements (SLAs) that specify content ownership, usage rights, quality standards, security requirements, and content provenance expectations for GAI systems.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-005",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Implement a use-cased based supplier risk assessment framework to evaluate and monitor third-party entities’ performance and adherence to content provenance standards and technologies to detect anomalies and unauthorized changes; services acquisition and value chain risk management; and legal compliance.",
+    "gai_risks": [
+      "Data Privacy",
+      "Information Integrity",
+      "Information Security",
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-006",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Include clauses in contracts which allow an organization to evaluate third-party\nGAI processes and standards.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-007",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Inventory all third-party entities with access to organizational content and establish approved GAI technology and service provider lists.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-008",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Maintain records of changes to content made by third parties to promote content\nprovenance, including sources, timestamps, metadata.",
+    "gai_risks": [
+      "Information Integrity",
+      "Value Chain and Component Integration",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-009",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Update and integrate due diligence processes for GAI acquisition and procurement vendor assessments to include intellectual property, data privacy, security, and other risks. For example, update processes to: Address solutions that may rely on embedded GAI technologies; Address ongoing monitoring, assessments, and alerting, dynamic risk assessments, and real-time reporting tools for monitoring third-party GAI risks; Consider policy adjustments across GAI modeling libraries, tools and APIs, ﬁne-tuned models, and embedded tools; Assess GAI vendors, open-source or proprietary GAI tools, or GAI service  providers against incident or vulnerability databases.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human-AI Conﬁguration",
+      "Information Security",
+      "Intellectual Property",
+      "Value Chain and Component Integration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.1-010",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.1",
+    "subcategory_text": "Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Update GAI acceptable use policies to address proprietary and open-source GAI technologies and data, and contractors, consultants, and other third-party personnel.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-001",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Document GAI risks associated with system value chain to identify over-reliance on third-party data and to identify fallbacks.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-002",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Document incidents involving third-party GAI data and systems, including open- data and open-source software.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-003",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Establish incident response plans for third-party GAI technologies: Align incident response plans with impacts enumerated in MAP 5.1; Communicate third-party GAI incident response plans to all relevant AI Actors; Deﬁne ownership of GAI incident response functions; Rehearse third-party GAI incident response plans at a regular cadence; Improve incident response plans based on retrospective learning; Review incident response plans for alignment with relevant breach reporting, data protection, data privacy, or other laws.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human-AI Conﬁguration",
+      "Information Security",
+      "Value Chain and Component Integration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-004",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Establish policies and procedures for continuous monitoring of third-party GAI\nsystems in deployment.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-005",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Establish policies and procedures that address GAI data redundancy, including model weights and other system artifacts.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-006",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Establish policies and procedures to test and manage risks related to rollover and fallback technologies for GAI systems, acknowledging that rollover and fallback may include manual processing.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "GV-6.2-007",
+    "function": "Govern",
+    "subcategory_id": "GOVERN 6.2",
+    "subcategory_text": "Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.",
+    "suggested_action": "Review vendor contracts and avoid arbitrary or capricious termination of critical GAI technologies or vendor services and non-standard terms that may amplify or defer liability in unexpected ways and/or contribute to unauthorized data collection by vendors or third-parties (e.g., secondary data use). Consider: Clear assignment of liability and responsibility for incidents, GAI system changes over time (e.g., ﬁne-tuning, drift, decay); Request: Notiﬁcation and disclosure for serious incidents arising from third-party data and systems; Service Level Agreements (SLAs) in vendor contracts that address incident response, response times, and availability of critical support.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Security",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-1.1-001",
+    "function": "Map",
+    "subcategory_id": "MAP 1.1",
+    "subcategory_text": "Intended purposes, potentially beneﬁcial uses, context speciﬁc laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include: the speciﬁc set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related TEVV and system metrics.",
+    "suggested_action": "When identifying intended purposes, consider factors such as internal vs. external use, narrow vs. broad application scope, ﬁne-tuning, and varieties of data sources (e.g., grounding, retrieval-augmented generation).",
+    "gai_risks": [
+      "Data Privacy",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-1.1-002",
+    "function": "Map",
+    "subcategory_id": "MAP 1.1",
+    "subcategory_text": "Intended purposes, potentially beneﬁcial uses, context speciﬁc laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include: the speciﬁc set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related TEVV and system metrics.",
+    "suggested_action": "Determine and document the expected and acceptable GAI system context of use in collaboration with socio-cultural and other domain experts, by assessing: Assumptions and limitations; Direct value to the organization; Intended operational environment and observed usage patterns; Potential positive and negative impacts to individuals, public safety, groups, communities, organizations, democratic institutions, and the physical environment; Social norms and expectations.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-1.1-003",
+    "function": "Map",
+    "subcategory_id": "MAP 1.1",
+    "subcategory_text": "Intended purposes, potentially beneﬁcial uses, context speciﬁc laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include: the speciﬁc set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related TEVV and system metrics.",
+    "suggested_action": "Document risk measurement plans to address identiﬁed risks. Plans may include, as applicable: Individual and group cognitive biases (e.g., conﬁrmation bias, funding bias, groupthink) for AI Actors involved in the design, implementation, and use of GAI systems; Known past GAI system incidents and failure modes; In-context use and foreseeable misuse, abuse, and oﬀ-label use; Over reliance on quantitative metrics and methodologies without suﬃcient awareness of their limitations in the context(s) of use; Standard measurement and structured human feedback approaches; Anticipated human-AI conﬁgurations.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-1.1-004",
+    "function": "Map",
+    "subcategory_id": "MAP 1.1",
+    "subcategory_text": "Intended purposes, potentially beneﬁcial uses, context speciﬁc laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include: the speciﬁc set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related TEVV and system metrics.",
+    "suggested_action": "Identify and document foreseeable illegal uses or applications of the GAI system that surpass organizational risk tolerances.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Dangerous, Violent, or Hateful Content",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-1.2-001",
+    "function": "Map",
+    "subcategory_id": "MAP 1.2",
+    "subcategory_text": "Interdisciplinary AI Actors, competencies, skills, and capacities for establishing context reﬂect demographic diversity and broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized.",
+    "suggested_action": "Establish and empower interdisciplinary teams that reﬂect a wide range of capabilities, competencies, demographic groups, domain expertise, educational backgrounds, lived experiences, professions, and skills across the enterprise to inform and conduct risk measurement and management functions.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-1.2-002",
+    "function": "Map",
+    "subcategory_id": "MAP 1.2",
+    "subcategory_text": "Interdisciplinary AI Actors, competencies, skills, and capacities for establishing context reﬂect demographic diversity and broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized.",
+    "suggested_action": "Verify that data or benchmarks used in risk measurement, and users, participants, or subjects involved in structured GAI public feedback exercises are representative of diverse in-context user populations.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment"
+    ]
+  },
+  {
+    "action_id": "MP-2.1-001",
+    "function": "Map",
+    "subcategory_id": "MAP 2.1",
+    "subcategory_text": "The speciﬁc tasks and methods used to implement the tasks that the AI system will support are deﬁned (e.g., classiﬁers, generative models, recommenders).",
+    "suggested_action": "Establish known assumptions and practices for determining data origin and content lineage, for documentation and evaluation purposes.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.1-002",
+    "function": "Map",
+    "subcategory_id": "MAP 2.1",
+    "subcategory_text": "The speciﬁc tasks and methods used to implement the tasks that the AI system will support are deﬁned (e.g., classiﬁers, generative models, recommenders).",
+    "suggested_action": "Institute test and evaluation for data and content ﬂows within the GAI system, including but not limited to, original data sources, data transformations, and decision-making criteria.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.2-001",
+    "function": "Map",
+    "subcategory_id": "MAP 2.2",
+    "subcategory_text": "Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides suﬃcient information to assist relevant AI Actors when making decisions and taking subsequent actions.",
+    "suggested_action": "Identify and document how the system relies on upstream data sources, including for content provenance, and if it serves as an upstream dependency for other systems.",
+    "gai_risks": [
+      "Information Integrity",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "End Users"
+    ]
+  },
+  {
+    "action_id": "MP-2.2-002",
+    "function": "Map",
+    "subcategory_id": "MAP 2.2",
+    "subcategory_text": "Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides suﬃcient information to assist relevant AI Actors when making decisions and taking subsequent actions.",
+    "suggested_action": "Observe and analyze how the GAI system interacts with external networks, and identify any potential for negative externalities, particularly where content provenance might be compromised.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "End Users"
+    ]
+  },
+  {
+    "action_id": "MP-2.3-001",
+    "function": "Map",
+    "subcategory_id": "MAP 2.3",
+    "subcategory_text": "Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation",
+    "suggested_action": "Assess the accuracy, quality, reliability, and authenticity of GAI output by comparing it to a set of known ground truth data and by using a variety of evaluation methods (e.g., human oversight and automated evaluation, proven cryptographic techniques, review of content inputs).",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.3-002",
+    "function": "Map",
+    "subcategory_id": "MAP 2.3",
+    "subcategory_text": "Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation",
+    "suggested_action": "Review and document accuracy, representativeness, relevance, suitability of data used at diﬀerent stages of AI life cycle.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.3-003",
+    "function": "Map",
+    "subcategory_id": "MAP 2.3",
+    "subcategory_text": "Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation",
+    "suggested_action": "Deploy and document fact-checking techniques to verify the accuracy and veracity of information generated by GAI systems, especially when the information comes from multiple (or unknown) sources.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.3-004",
+    "function": "Map",
+    "subcategory_id": "MAP 2.3",
+    "subcategory_text": "Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation",
+    "suggested_action": "Develop and implement testing techniques to identify GAI produced content (e.g., synthetic media) that might be indistinguishable from human-generated content.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-2.3-005",
+    "function": "Map",
+    "subcategory_id": "MAP 2.3",
+    "subcategory_text": "Scientiﬁc integrity and TEVV considerations are identiﬁed and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation",
+    "suggested_action": "Implement plans for GAI systems to undergo regular adversarial testing to identify vulnerabilities and potential manipulation or misuse.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-001",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Evaluate whether GAI operators and end-users can accurately understand content lineage and origin.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-002",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Adapt existing training programs to include modules on digital content transparency.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-003",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Develop certiﬁcation programs that test proﬁciency in managing GAI risks and interpreting content provenance, relevant to speciﬁc industry and context.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-004",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Delineate human proﬁciency tests from tests of GAI capabilities.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-005",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Implement systems to continually monitor and track the outcomes of human-GAI conﬁgurations for future reﬁnement and improvements.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-3.4-006",
+    "function": "Map",
+    "subcategory_id": "MAP 3.4",
+    "subcategory_text": "Processes for operator and practitioner proﬁciency with AI system performance and trustworthiness – and relevant technical standards and certiﬁcations – are deﬁned, assessed, and documented.",
+    "suggested_action": "Involve the end-users, practitioners, and operators in GAI system in prototyping and testing activities. Make sure these tests cover various scenarios, such as crisis situations or ethically sensitive contexts.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Design",
+      "AI Development",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-001",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Conduct periodic monitoring of AI-generated content for privacy risks; address any\npossible instances of PII or sensitive data exposure.",
+    "gai_risks": [
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-002",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Implement processes for responding to potential intellectual property infringement\nclaims or other rights.",
+    "gai_risks": [
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-003",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Connect new GAI policies, procedures, and processes to existing model, data, software development, and IT governance and to legal, compliance, and risk management activities.",
+    "gai_risks": [
+      "Information Security",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-004",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Document training data curation policies, to the extent possible and according to\napplicable laws and policies.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Data Privacy",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-005",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Establish policies for collection, retention, and minimum quality of data, in consideration of the following risks: Disclosure of inappropriate CBRN information; Use of Illegal or dangerous content; Oﬀensive cyber capabilities; Training data imbalances that could give rise to harmful biases; Leak of personally identiﬁable information, including facial likenesses of individuals.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Intellectual Property",
+      "Information Security",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-006",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Implement policies and practices deﬁning how third-party intellectual property and\ntraining data will be used, stored, and protected.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-007",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Re-evaluate models that were ﬁne-tuned or enhanced on top of third-party models.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-008",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Re-evaluate risks when adapting GAI models to new domains. Additionally, establish warning systems to determine if a GAI system is being used in a new domain where previous assumptions (relating to context of use or mapped risks such as security, and safety) may no longer hold.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Intellectual Property",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-009",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Leverage approaches to detect the presence of PII or sensitive data in generated output text, image, video, or audio.",
+    "gai_risks": [
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-4.1-010",
+    "function": "Map",
+    "subcategory_id": "MAP 4.1",
+    "subcategory_text": "Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third-party’s intellectual property or other rights.",
+    "suggested_action": "Conduct appropriate diligence on training data use to assess intellectual property, and privacy, risks, including to examine whether use of proprietary or sensitive training data is consistent with applicable laws.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "Governance and Oversight",
+      "Operation and Monitoring",
+      "Procurement",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-001",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Apply TEVV practices for content provenance (e.g., probing a system's synthetic data generation capabilities for potential misuse or vulnerabilities.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-002",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Identify potential content provenance harms of GAI, such as misinformation or disinformation, deepfakes, including NCII, or tampered content. Enumerate and rank risks based on their likelihood and potential impact, and determine how well provenance solutions address speciﬁc risks and/or harms.",
+    "gai_risks": [
+      "Information Integrity",
+      "Dangerous, Violent, or Hateful Content",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-003",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Consider disclosing use of GAI to end users in relevant contexts, while considering the objective of disclosure, the context of use, the likelihood and magnitude of the risk posed, the audience of the disclosure, as well as the frequency of the disclosures.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-004",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Prioritize GAI structured public feedback processes based on risk assessment estimates.",
+    "gai_risks": [
+      "Information Integrity",
+      "CBRN Information or Capabilities",
+      "Dangerous, Violent, or Hateful Content",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-005",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Conduct adversarial role-playing exercises, GAI red-teaming, or chaos testing to identify anomalous or unforeseen failure modes.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.1-006",
+    "function": "Map",
+    "subcategory_id": "MAP 5.1",
+    "subcategory_text": "Likelihood and magnitude of each identiﬁed impact (both potentially beneﬁcial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identiﬁed and documented.",
+    "suggested_action": "Proﬁle threats and negative impacts arising from GAI systems interacting with, manipulating, or generating content, and outlining known and potential vulnerabilities and the likelihood of their occurrence.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "End- Users",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.2-001",
+    "function": "Map",
+    "subcategory_id": "MAP 5.2",
+    "subcategory_text": "Practices and personnel for supporting regular engagement with relevant AI Actors and integrating feedback about positive, negative, and unanticipated impacts are in place and documented.",
+    "suggested_action": "Determine context-based measures to identify if new impacts are present due to the GAI system, including regular engagements with downstream AI Actors to identify and quantify new contexts of unanticipated impacts of GAI systems.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End- Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MP-5.2-002",
+    "function": "Map",
+    "subcategory_id": "MAP 5.2",
+    "subcategory_text": "Practices and personnel for supporting regular engagement with relevant AI Actors and integrating feedback about positive, negative, and unanticipated impacts are in place and documented.",
+    "suggested_action": "Plan regular engagements with AI Actors responsible for inputs to GAI systems, including third-party data and algorithms, to review and evaluate unanticipated impacts.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End- Users",
+      "Human Factors",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Employ methods to trace the origin and modiﬁcations of digital content.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Integrate tools designed to analyze content provenance and detect data anomalies, verify the authenticity of digital signatures, and identify patterns associated with misinformation or manipulation.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Disaggregate evaluation metrics by demographic factors to identify any discrepancies in how content provenance mechanisms work across diverse populations.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Develop a suite of metrics to evaluate structured public feedback exercises informed by representative AI Actors.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Evaluate novel methods and technologies for the measurement of GAI-related risks including in content provenance, oﬀensive cyber, and CBRN, while maintaining the models’ ability to produce valid, reliable, and factually accurate outputs.",
+    "gai_risks": [
+      "Information Integrity",
+      "CBRN Information or Capabilities",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-006",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Implement continuous monitoring of GAI system impacts to identify whether GAI outputs are equitable across various sub-populations. Seek active and direct feedback from aﬀected communities via structured feedback mechanisms or red- teaming to monitor and improve outputs.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-007",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Evaluate the quality and integrity of data used in training and the provenance of AI-generated content, for example by employing techniques like chaos engineering and seeking stakeholder feedback.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-008",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Deﬁne use cases, contexts of use, capabilities, and negative impacts where structured human feedback exercises, e.g., GAI red-teaming, would be most beneﬁcial for GAI risk measurement and management based on the context of use.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.1-009",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.1",
+    "subcategory_text": "Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.",
+    "suggested_action": "Track and document risks or opportunities related to all GAI risks that cannot be measured quantitatively, including explanations as to why some risks cannot be measured (e.g., due to technological limitations, resource constraints, or trustworthy considerations). Include unmeasured risks in marginal risks.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.3-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.3",
+    "subcategory_text": "Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain experts, users, AI Actors external to the team that developed or deployed the AI system, and aﬀected communities are consulted in support of assessments as necessary per organizational risk tolerance.",
+    "suggested_action": "Deﬁne relevant groups of interest (e.g., demographic groups, subject matter experts, experience with GAI technology) within the context of use as part of plans for gathering structured public feedback.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.3-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.3",
+    "subcategory_text": "Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain experts, users, AI Actors external to the team that developed or deployed the AI system, and aﬀected communities are consulted in support of assessments as necessary per organizational risk tolerance.",
+    "suggested_action": "Engage in internal and external evaluations, GAI red-teaming, impact assessments, or other structured human feedback exercises in consultation with representative AI Actors with expertise and familiarity in the context of use, and/or who are representative of the populations associated with the context of use.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-1.3-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 1.3",
+    "subcategory_text": "Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain experts, users, AI Actors external to the team that developed or deployed the AI system, and aﬀected communities are consulted in support of assessments as necessary per organizational risk tolerance.",
+    "suggested_action": "Verify those conducting structured human feedback exercises are not directly involved in system development tasks for the same GAI model.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Development",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.2-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.2",
+    "subcategory_text": "Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population.",
+    "suggested_action": "Assess and manage statistical biases related to GAI content provenance through\ntechniques such as re-sampling, re-weighting, or adversarial training.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Human Factors",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.2-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.2",
+    "subcategory_text": "Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population.",
+    "suggested_action": "Document how content provenance data is tracked and how that data interacts with privacy and security. Consider: Anonymizing data to protect the privacy of human subjects; Leveraging privacy output ﬁlters; Removing any personally identiﬁable information (PII) to prevent potential harm or misuse.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human AI Conﬁguration",
+      "Information Integrity",
+      "Information Security",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Human Factors",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.2-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.2",
+    "subcategory_text": "Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population.",
+    "suggested_action": "Provide human subjects with options to withdraw participation or revoke their\nconsent for present or future use of their data in GAI applications.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Human Factors",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.2-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.2",
+    "subcategory_text": "Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population.",
+    "suggested_action": "Use techniques such as anonymization, diﬀerential privacy or other privacy- enhancing technologies to minimize the risks associated with linking AI-generated content back to individual human subjects.",
+    "gai_risks": [
+      "Data Privacy",
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "Human Factors",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.3-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.3",
+    "subcategory_text": "AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented.",
+    "suggested_action": "Consider baseline model performance on suites of benchmarks when selecting a model for ﬁne tuning or enhancement with retrieval-augmented generation.",
+    "gai_risks": [
+      "Information Security",
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.3-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.3",
+    "subcategory_text": "AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented.",
+    "suggested_action": "Evaluate claims of model capabilities using empirically validated methods.",
+    "gai_risks": [
+      "Confabulation",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.3-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.3",
+    "subcategory_text": "AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented.",
+    "suggested_action": "Share results of pre-deployment testing with relevant GAI Actors, such as those with system release approval authority.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.3-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.3",
+    "subcategory_text": "AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented.",
+    "suggested_action": "Utilize a purpose-built testing environment such as NIST Dioptra to empirically evaluate GAI trustworthy characteristics.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Data Privacy",
+      "Confabulation",
+      "Information Integrity",
+      "Information Security",
+      "Dangerous, Violent, or Hateful Content",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Avoid extrapolating GAI system performance or capabilities from narrow, non- systematic, and anecdotal assessments.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Document the extent to which human domain knowledge is employed to improve GAI system performance, via, e.g., RLHF, ﬁne-tuning, retrieval- augmented generation, content moderation, business rules.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Review and verify sources and citations in GAI system outputs during pre- deployment risk measurement and ongoing monitoring activities.",
+    "gai_risks": [
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Track and document instances of anthropomorphization (e.g., human images, mentions of human feelings, cyborg imagery or motifs) in GAI system interfaces.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Verify GAI system training data and TEVV data provenance, and that ﬁne-tuning or retrieval-augmented generation data is grounded.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.5-006",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.5",
+    "subcategory_text": "The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.",
+    "suggested_action": "Regularly review security and safety guardrails, especially if the GAI system is being operated in novel circumstances. This includes reviewing reasons why the GAI system was initially assessed as being safe to deploy.",
+    "gai_risks": [
+      "Information Security",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "Domain Experts",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Assess adverse impacts, including health and wellbeing impacts for value chain or other AI Actors that are exposed to sexually explicit, oﬀensive, or violent information during GAI training and maintenance.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Value Chain and Component Integration",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Assess existence or levels of harmful bias, intellectual property infringement, data privacy violations, obscenity, extremism, violence, or CBRN information in system training data.",
+    "gai_risks": [
+      "Data Privacy",
+      "Intellectual Property",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Re-evaluate safety features of ﬁne-tuned models when the negative risk exceeds organizational risk tolerance.",
+    "gai_risks": [
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Review GAI system outputs for validity and safety: Review generated code to assess risks that may arise from unreliable downstream decision-making.",
+    "gai_risks": [
+      "Value Chain and Component Integration",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Verify that GAI system architecture can monitor outputs and performance, and handle, recover from, and repair errors when security anomalies, threats and impacts are detected.",
+    "gai_risks": [
+      "Confabulation",
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-006",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Verify that systems properly handle queries that may give rise to inappropriate, malicious, or illegal usage, including facilitating manipulation, extortion, targeted impersonation, cyber-attacks, and weapons creation.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.6-007",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.6",
+    "subcategory_text": "The AI system is evaluated regularly for safety risks – as identiﬁed in the MAP function. The AI system to be  deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reﬂect system reliability and robustness, real-time monitoring, and response times for AI system failures.",
+    "suggested_action": "Regularly evaluate GAI system vulnerabilities to possible circumvention of safety measures.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Apply established security measures to: Assess likelihood and magnitude of vulnerabilities and threats such as backdoors, compromised dependencies, data breaches, eavesdropping, man-in-the-middle attacks, reverse engineering, autonomous agents, model theft or exposure of model weights, AI inference, bypass, extraction, and other baseline security concerns.",
+    "gai_risks": [
+      "Data Privacy",
+      "Information Integrity",
+      "Information Security",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Benchmark GAI system security and resilience related to content provenance against industry standards and best practices. Compare GAI system security features and content provenance methods against industry state-of-the-art.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Conduct user surveys to gather user satisfaction with the AI-generated content and user perceptions of content authenticity. Analyze user feedback to identify concerns and/or current literacy levels related to content provenance and understanding of labels on content.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Identify metrics that reﬂect the eﬀectiveness of security measures, such as data provenance, the number of unauthorized access attempts, inference, bypass, extraction, penetrations, or provenance veriﬁcation.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Measure reliability of content authentication methods, such as watermarking, cryptographic signatures, digital ﬁngerprints, as well as access controls, conformity assessment, and model integrity veriﬁcation, which can help support the eﬀective implementation of content provenance techniques. Evaluate the rate of false positives and false negatives in content provenance, as well as true positives and true negatives for veriﬁcation.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-006",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Measure the rate at which recommendations from security checks and incidents are implemented. Assess how quickly the AI system can adapt and improve based on lessons learned from security incidents and feedback.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-007",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Perform AI red-teaming to assess resilience against: Abuse to facilitate attacks on other systems (e.g., malicious code generation, enhanced phishing content), GAI attacks (e.g., prompt injection), ML attacks (e.g., adversarial examples/prompts, data poisoning, membership inference, model extraction, sponge examples).",
+    "gai_risks": [
+      "Information Security",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-008",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Verify ﬁne-tuning does not compromise safety and security controls.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.7-009",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.7",
+    "subcategory_text": "AI system security and resilience – as identiﬁed in the MAP function – are evaluated and documented.",
+    "suggested_action": "Regularly assess and verify that security measures remain eﬀective and have not\nbeen compromised.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.8-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.8",
+    "subcategory_text": "Risks associated with transparency and accountability – as identiﬁed in the MAP function – are examined and documented.",
+    "suggested_action": "Compile statistics on actual policy violations, take-down requests, and intellectual property infringement for organizational GAI systems: Analyze transparency reports across demographic groups, languages groups.",
+    "gai_risks": [
+      "Intellectual Property",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.8-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.8",
+    "subcategory_text": "Risks associated with transparency and accountability – as identiﬁed in the MAP function – are examined and documented.",
+    "suggested_action": "Document the instructions given to data annotators or AI red-teamers.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.8-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.8",
+    "subcategory_text": "Risks associated with transparency and accountability – as identiﬁed in the MAP function – are examined and documented.",
+    "suggested_action": "Use digital content transparency solutions to enable the documentation of each instance where content is generated, modiﬁed, or shared to provide a tamper- proof history of the content, promote transparency, and enable traceability.\nRobust version control systems can also be applied to track changes across the AI\nlifecycle over time.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.8-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.8",
+    "subcategory_text": "Risks associated with transparency and accountability – as identiﬁed in the MAP function – are examined and documented.",
+    "suggested_action": "Verify adequacy of GAI system user instructions through user testing.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.9-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.9",
+    "subcategory_text": "The AI model is explained, validated, and documented, and AI system output is interpreted within its context – as identiﬁed in the MAP function – to inform responsible use and governance.",
+    "suggested_action": "Apply and document ML explanation results such as: Analysis of embeddings, Counterfactual prompts, Gradient-based attributions, Model compression/surrogate models, Occlusion/term reduction.",
+    "gai_risks": [
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.9-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.9",
+    "subcategory_text": "The AI model is explained, validated, and documented, and AI system output is interpreted within its context – as identiﬁed in the MAP function – to inform responsible use and governance.",
+    "suggested_action": "Document GAI model details including: Proposed use and organizational value; Assumptions and limitations, Data collection methodologies; Data provenance; Data quality; Model architecture (e.g., convolutional neural network, transformers, etc.); Optimization objectives; Training algorithms; RLHF approaches; Fine-tuning or retrieval-augmented generation approaches; Evaluation data; Ethical considerations; Legal and regulatory requirements.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.10-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.10",
+    "subcategory_text": "Privacy risk of the AI system – as identiﬁed in the MAP function – is examined and documented.",
+    "suggested_action": "Conduct AI red-teaming to assess issues such as: Outputting of training data samples, and subsequent reverse engineering, model extraction, and membership inference risks; Revealing biometric, conﬁdential, copyrighted, licensed, patented, personal, proprietary, sensitive, or trade-marked information; Tracking or revealing location information of users or members of training datasets.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.10-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.10",
+    "subcategory_text": "Privacy risk of the AI system – as identiﬁed in the MAP function – is examined and documented.",
+    "suggested_action": "Engage directly with end-users and other stakeholders to understand their expectations and concerns regarding content provenance. Use this feedback to guide the design of provenance data-tracking techniques.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.10-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.10",
+    "subcategory_text": "Privacy risk of the AI system – as identiﬁed in the MAP function – is examined and documented.",
+    "suggested_action": "Verify deduplication of GAI training data samples, particularly regarding synthetic\ndata.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.11-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.11",
+    "subcategory_text": "Fairness and bias – as identiﬁed in the MAP function – are evaluated and results are documented.",
+    "suggested_action": "Apply use-case appropriate benchmarks (e.g., Bias Benchmark Questions, Real Hateful or Harmful Prompts, Winogender Schemas15) to quantify systemic bias, stereotyping, denigration, and hateful content in GAI system outputs; Document assumptions and limitations of benchmarks, including any actual or possible training/test data cross contamination, relative to in-context deployment environment.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.11-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.11",
+    "subcategory_text": "Fairness and bias – as identiﬁed in the MAP function – are evaluated and results are documented.",
+    "suggested_action": "Conduct fairness assessments to measure systemic bias. Measure GAI system performance across demographic groups and subgroups, addressing both quality of service and any allocation of services and resources. Quantify harms using: ﬁeld testing with sub-group populations to determine likelihood of exposure to generated content exhibiting harmful bias, AI red-teaming with counterfactual and low-context (e.g., “leader,” “bad guys”) prompts. For ML pipelines or business processes with categorical or numeric outcomes that rely on GAI, apply general fairness metrics (e.g., demographic parity, equalized odds, equal opportunity, statistical hypothesis tests), to the pipeline or business outcome where appropriate; Custom, context-speciﬁc metrics developed in collaboration with domain experts and aﬀected communities; Measurements of the prevalence of denigration in generated content in deployment (e.g., sub- sampling a fraction of traﬃc and manually annotating denigrating content).",
+    "gai_risks": [
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.11-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.11",
+    "subcategory_text": "Fairness and bias – as identiﬁed in the MAP function – are evaluated and results are documented.",
+    "suggested_action": "Identify the classes of individuals, groups, or environmental ecosystems which might be impacted by GAI systems through direct engagement with potentially impacted communities.",
+    "gai_risks": [
+      "Environmental",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.11-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.11",
+    "subcategory_text": "Fairness and bias – as identiﬁed in the MAP function – are evaluated and results are documented.",
+    "suggested_action": "Review, document, and measure sources of bias in GAI training and TEVV data: Diﬀerences in distributions of outcomes across and within groups, including intersecting groups; Completeness, representativeness, and balance of data sources; demographic group and subgroup coverage in GAI system training data; Forms of latent systemic bias in images, text, audio, embeddings, or other complex or unstructured data; Input data features that may serve as proxies for demographic group membership (i.e., image metadata, language dialect) or otherwise give rise to emergent bias within GAI systems; The extent to which the digital divide may negatively impact representativeness in GAI system training and TEVV data; Filtering of hate speech or content in GAI system training data; Prevalence of GAI-generated data in GAI system training data.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.11-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.11",
+    "subcategory_text": "Fairness and bias – as identiﬁed in the MAP function – are evaluated and results are documented.",
+    "suggested_action": "Assess the proportion of synthetic to non-synthetic training data and verify training data is not overly homogenous or GAI-produced to mitigate concerns of model collapse.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.12-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.12",
+    "subcategory_text": "Environmental impact and sustainability of AI model training and management activities – as identiﬁed in the MAP function – are assessed and documented.",
+    "suggested_action": "Assess safety to physical environments when deploying GAI systems.",
+    "gai_risks": [
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.12-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.12",
+    "subcategory_text": "Environmental impact and sustainability of AI model training and management activities – as identiﬁed in the MAP function – are assessed and documented.",
+    "suggested_action": "Document anticipated environmental impacts of model development, maintenance, and deployment in product design decisions.",
+    "gai_risks": [
+      "Environmental"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.12-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.12",
+    "subcategory_text": "Environmental impact and sustainability of AI model training and management activities – as identiﬁed in the MAP function – are assessed and documented.",
+    "suggested_action": "Measure or estimate environmental impacts (e.g., energy and water consumption) for training, ﬁne tuning, and deploying models: Verify tradeoﬀs between resources used at inference time versus additional resources required at training time.",
+    "gai_risks": [
+      "Environmental"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.12-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.12",
+    "subcategory_text": "Environmental impact and sustainability of AI model training and management activities – as identiﬁed in the MAP function – are assessed and documented.",
+    "suggested_action": "Verify eﬀectiveness of carbon capture or oﬀset programs for GAI training and\napplications, and address green-washing concerns.",
+    "gai_risks": [
+      "Environmental"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-2.13-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 2.13",
+    "subcategory_text": "Eﬀectiveness of the employed TEVV metrics and processes in the MEASURE function are evaluated and documented.",
+    "suggested_action": "Create measurement error models for pre-deployment metrics to demonstrate construct validity for each metric (i.e., does the metric eﬀectively operationalize the desired concept): Measure or estimate, and document, biases or statistical variance in applied metrics or structured human feedback processes; Leverage domain expertise when modeling complex societal constructs such as hateful content.",
+    "gai_risks": [
+      "Confabulation",
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.2-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.2",
+    "subcategory_text": "Risk tracking approaches are considered for settings where AI risks are diﬃcult to assess using currently available measurement techniques or where metrics are not yet available.",
+    "suggested_action": "Establish processes for identifying emergent GAI system risks including\nconsulting with external AI Actors.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Impact Assessment",
+      "Domain Experts",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.3-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.3",
+    "subcategory_text": "Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.",
+    "suggested_action": "Conduct impact assessments on how AI-generated content might aﬀect diﬀerent social, economic, and cultural groups.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.3-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.3",
+    "subcategory_text": "Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.",
+    "suggested_action": "Conduct studies to understand how end users perceive and interact with GAI content and accompanying content provenance within context of use. Assess whether the content aligns with their expectations and how they may act upon the information presented.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.3-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.3",
+    "subcategory_text": "Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.",
+    "suggested_action": "Evaluate potential biases and stereotypes that could emerge from the AI- generated content using appropriate methodologies including computational testing methods as well as evaluating structured feedback input.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.3-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.3",
+    "subcategory_text": "Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.",
+    "suggested_action": "Provide input for training materials about the capabilities and limitations of GAI systems related to digital content transparency for AI Actors, other professionals, and the public about the societal impacts of AI and the role of diverse and inclusive content generation.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-3.3-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 3.3",
+    "subcategory_text": "Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.",
+    "suggested_action": "Record and integrate structured feedback about content provenance from operators, users, and potentially impacted communities through the use of methods such as user research studies, focus groups, or community forums. Actively seek feedback on generated content quality and potential biases. Assess the general awareness among end users and impacted communities about the availability of these feedback channels.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-4.2-001",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 4.2",
+    "subcategory_text": "Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI Actors to validate whether the system is performing consistently as intended. Results are documented.",
+    "suggested_action": "Conduct adversarial testing at a regular cadence to map and measure GAI risks, including tests to address attempts to deceive or manipulate the application of provenance techniques or other misuses. Identify vulnerabilities and understand potential misuse scenarios and unintended outputs.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-4.2-002",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 4.2",
+    "subcategory_text": "Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI Actors to validate whether the system is performing consistently as intended. Results are documented.",
+    "suggested_action": "Evaluate GAI system performance in real-world scenarios to observe its behavior in practical environments and reveal issues that might not surface in controlled and optimized testing environments.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Confabulation",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-4.2-003",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 4.2",
+    "subcategory_text": "Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI Actors to validate whether the system is performing consistently as intended. Results are documented.",
+    "suggested_action": "Implement interpretability and explainability methods to evaluate GAI system decisions and verify alignment with intended purpose.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-4.2-004",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 4.2",
+    "subcategory_text": "Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI Actors to validate whether the system is performing consistently as intended. Results are documented.",
+    "suggested_action": "Monitor and document instances where human operators or other systems override the GAI's decisions. Evaluate these cases to understand if the overrides are linked to issues related to content provenance.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MS-4.2-005",
+    "function": "Measure",
+    "subcategory_id": "MEASURE 4.2",
+    "subcategory_text": "Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI Actors to validate whether the system is performing consistently as intended. Results are documented.",
+    "suggested_action": "Verify and document the incorporation of results of structured public feedback exercises into design, implementation, deployment approval (“go”/“no-go” decisions), monitoring, and decommission decisions.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Domain Experts",
+      "End-Users",
+      "Operation and Monitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MG-1.3-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 1.3",
+    "subcategory_text": "Responses to the AI risks deemed high priority, as identiﬁed by the MAP function, are developed, planned, and documented. Risk response options can include mitigating, transferring, avoiding, or accepting.",
+    "suggested_action": "Document trade-oﬀs, decision processes, and relevant measurement and feedback results for risks that do not surpass organizational risk tolerance, for example, in the context of model release: Consider diﬀerent approaches for model release, for example, leveraging a staged release approach. Consider release approaches in the context of the model and its projected use cases. Mitigate, transfer, or avoid risks that surpass organizational risk tolerances.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-1.3-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 1.3",
+    "subcategory_text": "Responses to the AI risks deemed high priority, as identiﬁed by the MAP function, are developed, planned, and documented. Risk response options can include mitigating, transferring, avoiding, or accepting.",
+    "suggested_action": "Monitor the robustness and eﬀectiveness of risk controls and mitigation plans (e.g., via red-teaming, ﬁeld testing, participatory engagements, performance assessments, user feedback mechanisms).",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Development",
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Compare GAI system outputs against pre-deﬁned organization risk tolerance, guidelines, and principles, and review and test AI-generated content against these guidelines.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Document training data sources to trace the origin and provenance of AI- generated content.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Evaluate feedback loops between GAI system content provenance and human reviewers, and update where needed. Implement real-time monitoring systems to aﬃrm that content provenance protocols remain eﬀective.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-004",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Evaluate GAI content and data for representational biases and employ techniques such as re-sampling, re-ranking, or adversarial training to mitigate biases in the generated content.",
+    "gai_risks": [
+      "Information Security",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-005",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Engage in due diligence to analyze GAI output for harmful content, potential misinformation, and CBRN-related or NCII content.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Obscene, Degrading, and/or Abusive Content",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-006",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Use feedback from internal and external AI Actors, users, individuals, and communities, to assess impact of AI-generated content.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-007",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Use real-time auditing tools where they can be demonstrated to aid in the tracking and validation of the lineage and authenticity of AI-generated data.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-008",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Use structured feedback mechanisms to solicit and capture user input about AI- generated content to detect subtle shifts in quality or alignment with community and societal values.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.2-009",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.2",
+    "subcategory_text": "Mechanisms are in place and applied to sustain the value of deployed AI systems.",
+    "suggested_action": "Consider opportunities to responsibly use synthetic data and other privacy enhancing techniques in GAI development, where appropriate and applicable, match the statistical properties of real-world data without disclosing personally identiﬁable information or contributing to homogenization.",
+    "gai_risks": [
+      "Data Privacy",
+      "Intellectual Property",
+      "Information Integrity",
+      "Confabulation",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Impact Assessment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.3-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.3",
+    "subcategory_text": "Procedures are followed to respond to and recover from a previously unknown risk when it is identiﬁed.",
+    "suggested_action": "Develop and update GAI system incident response and recovery plans and procedures to address the following: Review and maintenance of policies and procedures to account for newly encountered uses; Review and maintenance of policies and procedures for detection of unanticipated uses; Verify response and recovery plans account for the GAI system value chain; Verify response and recovery plans are updated for and include necessary details to communicate with downstream GAI system Actors: Points-of-Contact (POC), Contact information, notiﬁcation format.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.4-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.4",
+    "subcategory_text": "Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.",
+    "suggested_action": "Establish and maintain communication plans to inform AI stakeholders as part of the deactivation or disengagement process of a speciﬁc GAI system (including for open-source models) or context of use, including reasons, workarounds, user access removal, alternative processes, contact information, etc.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.4-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.4",
+    "subcategory_text": "Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.",
+    "suggested_action": "Establish and maintain procedures for escalating GAI system incidents to the organizational risk management authority when speciﬁc criteria for deactivation or disengagement is met for a particular context of use or for the GAI system as a whole.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.4-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.4",
+    "subcategory_text": "Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.",
+    "suggested_action": "Establish and maintain procedures for the remediation of issues which trigger incident response processes for the use of a GAI system, and provide stakeholders timelines associated with the remediation plan.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-2.4-004",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 2.4",
+    "subcategory_text": "Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.",
+    "suggested_action": "Establish and regularly review speciﬁc criteria that warrants the deactivation of GAI systems in accordance with set risk tolerances and appetites.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Governance and Oversight",
+      "Operation and Monitoring"
+    ]
+  },
+  {
+    "action_id": "MG-3.1-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.1",
+    "subcategory_text": "AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and documented.",
+    "suggested_action": "Apply organizational risk tolerances and controls (e.g., acquisition and procurement processes; assessing personnel credentials and qualiﬁcations, performing background checks; ﬁltering GAI input and outputs, grounding, ﬁne tuning, retrieval-augmented generation) to third-party GAI resources: Apply organizational risk tolerance to the utilization of third-party datasets and other GAI resources; Apply organizational risk tolerances to ﬁne-tuned third-party models; Apply organizational risk tolerance to existing third-party models adapted to a new domain; Reassess risk measurements after ﬁne-tuning third- party GAI models.",
+    "gai_risks": [
+      "Value Chain and Component Integration",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.1-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.1",
+    "subcategory_text": "AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and documented.",
+    "suggested_action": "Test GAI system value chain risks (e.g., data poisoning, malware, other software and hardware vulnerabilities; labor practices; data privacy and localization compliance; geopolitical alignment).",
+    "gai_risks": [
+      "Data Privacy",
+      "Information Security",
+      "Value Chain and Component Integration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.1-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.1",
+    "subcategory_text": "AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and documented.",
+    "suggested_action": "Re-assess model risks after ﬁne-tuning or retrieval-augmented generation implementation and for any third-party GAI models deployed for applications and/or use cases that were not evaluated in initial testing.",
+    "gai_risks": [
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.1-004",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.1",
+    "subcategory_text": "AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and documented.",
+    "suggested_action": "Take reasonable measures to review training data for CBRN information, and intellectual property, and where appropriate, remove it. Implement reasonable measures to prevent, ﬂag, or take other action in response to outputs that reproduce particular training data (e.g., plagiarized, trademarked, patented, licensed content or trade secret material).",
+    "gai_risks": [
+      "Intellectual Property",
+      "CBRN Information or Capabilities"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.1-005",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.1",
+    "subcategory_text": "AI risks and beneﬁts from third-party resources are regularly monitored, and risk controls are applied and documented.",
+    "suggested_action": "Review various transparency artifacts (e.g., system cards and model cards) for\nthird-party models.",
+    "gai_risks": [
+      "Information Integrity",
+      "Information Security",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Apply explainable AI (XAI) techniques (e.g., analysis of embeddings, model compression/distillation, gradient-based attributions, occlusion/term reduction, counterfactual prompts, word clouds) as part of ongoing continuous improvement processes to mitigate risks related to unexplainable GAI systems.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Document how pre-trained models have been adapted (e.g., ﬁne-tuned, or retrieval-augmented generation) for the speciﬁc generative task, including any data augmentations, parameter adjustments, or other modiﬁcations. Access to un-tuned (baseline) models supports debugging the relative inﬂuence of the pre- trained weights compared to the ﬁne-tuned model weights or other system updates.",
+    "gai_risks": [
+      "Information Integrity",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Document sources and types of training data and their origins, potential biases present in the data related to the GAI application and its content provenance, architecture, training process of the pre-trained model including information on hyperparameters, training duration, and any ﬁne-tuning or retrieval-augmented generation processes applied.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization",
+      "Intellectual Property"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-004",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Evaluate user reported problematic content and integrate feedback into system updates.",
+    "gai_risks": [
+      "Human-AI Conﬁguration, Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-005",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Implement content ﬁlters to prevent the generation of inappropriate, harmful, false, illegal, or violent content related to the GAI application, including for CSAM and NCII. These ﬁlters can be rule-based or leverage additional machine learning models to ﬂag problematic inputs and outputs.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization",
+      "Dangerous, Violent, or Hateful Content",
+      "Obscene, Degrading, and/or Abusive Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-006",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Implement real-time monitoring processes for analyzing generated content performance and trustworthiness characteristics related to content provenance to identify deviations from the desired standards and trigger alerts for human intervention.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-007",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Leverage feedback and recommendations from organizational boards or committees related to the deployment of GAI applications and content provenance when using third-party pre-trained models.",
+    "gai_risks": [
+      "Information Integrity",
+      "Value Chain and Component Integration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-008",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Use human moderation systems where appropriate to review generated content in accordance with human-AI conﬁguration policies established in the Govern function, aligned with socio-cultural norms in the context of use, and for settings where AI models are demonstrated to perform poorly.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-3.2-009",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 3.2",
+    "subcategory_text": "Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.",
+    "suggested_action": "Use organizational risk tolerance to evaluate acceptable risks and performance metrics and decommission or retrain pre-trained models that perform outside of deﬁned limits.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Operation and Monitoring",
+      "Third-party entities"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Collaborate with external researchers, industry experts, and community representatives to maintain awareness of emerging best practices and technologies in measuring and managing identiﬁed risks.",
+    "gai_risks": [
+      "Information Integrity",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Establish, maintain, and evaluate eﬀectiveness of organizational processes and procedures for post-deployment monitoring of GAI systems, particularly for potential confabulation, CBRN, or cyber risks.",
+    "gai_risks": [
+      "CBRN Information or Capabilities",
+      "Confabulation",
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Evaluate the use of sentiment analysis to gauge user sentiment regarding GAI content performance and impact, and work in collaboration with AI Actors experienced in user research and experience.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-004",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Implement active learning techniques to identify instances where the model fails or produces unexpected outputs.",
+    "gai_risks": [
+      "Confabulation"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-005",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Share transparency reports with internal and external stakeholders that detail steps taken to update the GAI system to enhance transparency and accountability.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-006",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Track dataset modiﬁcations for provenance by monitoring data deletions, rectiﬁcation requests, and other changes that may impact the veriﬁability of content origins.",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.1-007",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.1",
+    "subcategory_text": "Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI Actors, appeal and override, decommissioning, incident response, recovery, and change management.",
+    "suggested_action": "Verify that AI Actors responsible for monitoring reported issues can eﬀectively evaluate GAI system performance including the application of content provenance data tracking techniques, and promptly escalate issues for response.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.2-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.2",
+    "subcategory_text": "Measurable activities for continual improvements are integrated into AI system updates and include regular engagement with interested parties, including relevant AI Actors.",
+    "suggested_action": "Conduct regular monitoring of GAI systems and publish reports detailing the performance, feedback received, and improvements made.",
+    "gai_risks": [
+      "Harmful Bias and Homogenization"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and\nMonitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MG-4.2-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.2",
+    "subcategory_text": "Measurable activities for continual improvements are integrated into AI system updates and include regular engagement with interested parties, including relevant AI Actors.",
+    "suggested_action": "Practice and follow incident response plans for addressing the generation of inappropriate or harmful content and adapt processes based on ﬁndings to prevent future occurrences. Conduct post-mortem analyses of incidents with relevant AI Actors, to understand the root causes and implement preventive measures.",
+    "gai_risks": [
+      "Human-AI Conﬁguration",
+      "Dangerous, Violent, or Hateful Content"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and\nMonitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MG-4.2-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.2",
+    "subcategory_text": "Measurable activities for continual improvements are integrated into AI system updates and include regular engagement with interested parties, including relevant AI Actors.",
+    "suggested_action": "Use visualizations or other methods to represent GAI model behavior to ease\nnon-technical stakeholders understanding of GAI system functionality.",
+    "gai_risks": [
+      "Human-AI Conﬁguration"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "AI Design",
+      "AI Development",
+      "Aﬀected Individuals and Communities",
+      "End-Users",
+      "Operation and\nMonitoring",
+      "TEVV"
+    ]
+  },
+  {
+    "action_id": "MG-4.3-001",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.3",
+    "subcategory_text": "Incidents and errors are communicated to relevant AI Actors, including aﬀected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented.",
+    "suggested_action": "Conduct after-action assessments for GAI system incidents to verify incident response and recovery processes are followed and eﬀective, including to follow procedures for communicating incidents to relevant AI Actors and where applicable, relevant legal and regulatory bodies.",
+    "gai_risks": [
+      "Information Security"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.3-002",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.3",
+    "subcategory_text": "Incidents and errors are communicated to relevant AI Actors, including aﬀected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented.",
+    "suggested_action": "Establish and maintain policies and procedures to record and track GAI system reported errors, near-misses, and negative impacts.",
+    "gai_risks": [
+      "Confabulation",
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "MG-4.3-003",
+    "function": "Manage",
+    "subcategory_id": "MANAGE 4.3",
+    "subcategory_text": "Incidents and errors are communicated to relevant AI Actors, including aﬀected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented.",
+    "suggested_action": "Report GAI incidents in compliance with legal and regulatory requirements (e.g., HIPAA breach reporting, e.g., OCR (2023) or NHTSA (2022) autonomous vehicle crash reporting requirements.",
+    "gai_risks": [
+      "Information Security",
+      "Data Privacy"
+    ],
+    "ai_actor_tasks": [
+      "AI Deployment",
+      "Aﬀected Individuals and Communities",
+      "Domain Experts",
+      "End-Users",
+      "Human Factors",
+      "Operation and\nMonitoring"
+    ]
+  },
+  {
+    "action_id": "GV4.3--001",
+    "function": "",
+    "subcategory_id": "GOVERN 4.3",
+    "subcategory_text": "Organizational practices are in place to enable AI testing, identiﬁcation of incidents, and information sharing.",
+    "suggested_action": "Establish policies for measuring the eﬀectiveness of employed content provenance methodologies (e.g., cryptography, watermarking, steganography, etc.)",
+    "gai_risks": [
+      "Information Integrity"
+    ],
+    "ai_actor_tasks": [
+      "AI Impact Assessment",
+      "Aﬀected Individuals and Communities",
+      "Governance and Oversight"
+    ]
+  }
+]
