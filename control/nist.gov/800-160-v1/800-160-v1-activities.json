@@ -1,0 +1,542 @@
+[
+  {
+    "activity_id": "AQ-1",
+    "process_prefix": "AQ",
+    "title": "PREPARE FOR THE ACQUISITION"
+  },
+  {
+    "activity_id": "AQ-2",
+    "process_prefix": "AQ",
+    "title": "ADVERTISE THE ACQUISITION AND SELECT THE SUPPLIER"
+  },
+  {
+    "activity_id": "AQ-3",
+    "process_prefix": "AQ",
+    "title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "activity_id": "AQ-4",
+    "process_prefix": "AQ",
+    "title": "MONITOR THE AGREEMENTS"
+  },
+  {
+    "activity_id": "AQ-5",
+    "process_prefix": "AQ",
+    "title": "ACCEPT THE PRODUCT OR SERVICE"
+  },
+  {
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "activity_id": "BA-1",
+    "process_prefix": "BA",
+    "title": "PREPARE FOR BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "activity_id": "BA-2",
+    "process_prefix": "BA",
+    "title": "DEFINE THE PROBLEM OR OPPORTUNITY SPACE"
+  },
+  {
+    "activity_id": "BA-3",
+    "process_prefix": "BA",
+    "title": "CHARACTERIZE THE SOLUTION SPACE"
+  },
+  {
+    "activity_id": "BA-4",
+    "process_prefix": "BA",
+    "title": "EVALUATE ALTERNATIVE SOLUTION CLASSES"
+  },
+  {
+    "activity_id": "BA-5",
+    "process_prefix": "BA",
+    "title": "MANAGE THE BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "activity_id": "CM-1",
+    "process_prefix": "CM",
+    "title": "PREPARE FOR CONFIGURATION MANAGEMENT"
+  },
+  {
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "activity_id": "CM-3",
+    "process_prefix": "CM",
+    "title": "PERFORM CONFIGURATION CHANGE MANAGEMENT"
+  },
+  {
+    "activity_id": "CM-4",
+    "process_prefix": "CM",
+    "title": "PERFORM CONFIGURATION STATUS ACCOUNTING"
+  },
+  {
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "activity_id": "DE-3",
+    "process_prefix": "DE",
+    "title": "EVALUTE THE SYSTEM DESIGN"
+  },
+  {
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "activity_id": "DM-1",
+    "process_prefix": "DM",
+    "title": "PREPARE FOR DECISIONS"
+  },
+  {
+    "activity_id": "DM-2",
+    "process_prefix": "DM",
+    "title": "ANALYZE THE DECISION INFORMATION"
+  },
+  {
+    "activity_id": "DM-3",
+    "process_prefix": "DM",
+    "title": "MAKE AND MANAGE DECISIONS"
+  },
+  {
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "title": "PERFORM DISPOSAL"
+  },
+  {
+    "activity_id": "DS-3",
+    "process_prefix": "DS",
+    "title": "FINALIZE THE DISPOSAL"
+  },
+  {
+    "activity_id": "HR-1",
+    "process_prefix": "HR",
+    "title": "IDENTIFY SKILLS"
+  },
+  {
+    "activity_id": "HR-2",
+    "process_prefix": "HR",
+    "title": "DEVELOP SKILLS"
+  },
+  {
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "activity_id": "IF-1",
+    "process_prefix": "IF",
+    "title": "ESTABLISH THE INFRASTRUCTURE"
+  },
+  {
+    "activity_id": "IF-2",
+    "process_prefix": "IF",
+    "title": "MAINTAIN THE INFRASTRUCTURE"
+  },
+  {
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "title": "PERFORM INTEGRATION"
+  },
+  {
+    "activity_id": "IN-3",
+    "process_prefix": "IN",
+    "title": "MANAGE RESULTS OF INTEGRATION"
+  },
+  {
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "activity_id": "IP-2",
+    "process_prefix": "IP",
+    "title": "PERFORM IMPLEMENTATION"
+  },
+  {
+    "activity_id": "IP-3",
+    "process_prefix": "IP",
+    "title": "MANAGE RESULTS OF IMPLEMENTATION"
+  },
+  {
+    "activity_id": "KM-1",
+    "process_prefix": "KM",
+    "title": "PLAN KNOWLEDGE MANAGEMENT"
+  },
+  {
+    "activity_id": "KM-2",
+    "process_prefix": "KM",
+    "title": "SHARE KNOWLEDGE AND SKILLS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "activity_id": "KM-3",
+    "process_prefix": "KM",
+    "title": "SHARE KNOWLEDGE ASSETS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "activity_id": "KM-4",
+    "process_prefix": "KM",
+    "title": "MANAGE KNOWLEDGE, SKILLS, AND KNOWLEDGE ASSETS"
+  },
+  {
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "activity_id": "LM-2",
+    "process_prefix": "LM",
+    "title": "ASSESS THE LIFE CYCLE PROCESS"
+  },
+  {
+    "activity_id": "LM-3",
+    "process_prefix": "LM",
+    "title": "IMPROVE THE PROCESS"
+  },
+  {
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "title": "PERFORM MAINTENANCE"
+  },
+  {
+    "activity_id": "MA-3",
+    "process_prefix": "MA",
+    "title": "PERFORM LOGISTICS SUPPORT"
+  },
+  {
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "title": "PERFORM MEASUREMENT"
+  },
+  {
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "title": "PREPARE FOR OPERATION"
+  },
+  {
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "title": "PERFORM OPERATION"
+  },
+  {
+    "activity_id": "OP-3",
+    "process_prefix": "OP",
+    "title": "MANAGE RESULTS OF OPERATION"
+  },
+  {
+    "activity_id": "OP-4",
+    "process_prefix": "OP",
+    "title": "SUPPORT STAKEHOLDERS"
+  },
+  {
+    "activity_id": "PA-1",
+    "process_prefix": "PA",
+    "title": "PLAN FOR PROJECT ASSESSMENT AND CONTROL"
+  },
+  {
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "title": "ASSESS THE PROJECT"
+  },
+  {
+    "activity_id": "PA-3",
+    "process_prefix": "PA",
+    "title": "CONTROL THE PROJECT"
+  },
+  {
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "title": "DEFINE THE PROJECT"
+  },
+  {
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "activity_id": "PL-3",
+    "process_prefix": "PL",
+    "title": "ACTIVATE THE PROJECT"
+  },
+  {
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "activity_id": "PM-2",
+    "process_prefix": "PM",
+    "title": "EVALUATE THE PORTFOLIO OF PROJECTS"
+  },
+  {
+    "activity_id": "PM-3",
+    "process_prefix": "PM",
+    "title": "TERMINATE PROJECTS"
+  },
+  {
+    "activity_id": "QA-1",
+    "process_prefix": "QA",
+    "title": "PREPARE FOR QUALITY ASSURANCE"
+  },
+  {
+    "activity_id": "QA-2",
+    "process_prefix": "QA",
+    "title": "PERFORM PRODUCT OR SERVICE EVALUATIONS"
+  },
+  {
+    "activity_id": "QA-3",
+    "process_prefix": "QA",
+    "title": "PERFORM PROCESS EVALUATIONS"
+  },
+  {
+    "activity_id": "QA-4",
+    "process_prefix": "QA",
+    "title": "MANAGE QUALITY ASSURANCE RECORDS AND REPORTS"
+  },
+  {
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "activity_id": "QM-1",
+    "process_prefix": "QM",
+    "title": "PLAN QUALITY MANAGEMENT"
+  },
+  {
+    "activity_id": "QM-2",
+    "process_prefix": "QM",
+    "title": "ASSESS QUALITY MANAGEMENT"
+  },
+  {
+    "activity_id": "QM-3",
+    "process_prefix": "QM",
+    "title": "PERFORM QUALITY MANAGEMENT CORRECTIVE AND PREVENTIVE ACTIONS"
+  },
+  {
+    "activity_id": "RM-1",
+    "process_prefix": "RM",
+    "title": "PLAN RISK MANAGEMENT"
+  },
+  {
+    "activity_id": "RM-2",
+    "process_prefix": "RM",
+    "title": "MANAGE THE RISK PROFILE"
+  },
+  {
+    "activity_id": "RM-3",
+    "process_prefix": "RM",
+    "title": "ANALYZE RISK"
+  },
+  {
+    "activity_id": "RM-4",
+    "process_prefix": "RM",
+    "title": "TREAT RISKS THAT EXCEED THEIR RISK THRESHOLD"
+  },
+  {
+    "activity_id": "RM-5",
+    "process_prefix": "RM",
+    "title": "MONITOR RISK"
+  },
+  {
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "activity_id": "SA-2",
+    "process_prefix": "SA",
+    "title": "PERFORM SYSTEM ANALYSIS"
+  },
+  {
+    "activity_id": "SA-3",
+    "process_prefix": "SA",
+    "title": "MANAGE SYSTEM ANALYSIS"
+  },
+  {
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "activity_id": "SN-2",
+    "process_prefix": "SN",
+    "title": "DEVELOP THE OPERATIONAL AND OTHER LIFE CYCLE CONCEPTS"
+  },
+  {
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "activity_id": "SN-4",
+    "process_prefix": "SN",
+    "title": "TRANSFORM STAKEHOLDER NEEDS INTO STAKEHOLDER REQUIREMENTS"
+  },
+  {
+    "activity_id": "SN-5",
+    "process_prefix": "SN",
+    "title": "ANALYZE STAKEHOLDER NEEDS AND REQUIREMENTS"
+  },
+  {
+    "activity_id": "SN-6",
+    "process_prefix": "SN",
+    "title": "MANAGE THE STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "activity_id": "SP-1",
+    "process_prefix": "SP",
+    "title": "PREPARE FOR THE SUPPLY"
+  },
+  {
+    "activity_id": "SP-2",
+    "process_prefix": "SP",
+    "title": "RESPOND TO A REQUEST FOR SUPPLY OF PRODUCTS OR SERVICES"
+  },
+  {
+    "activity_id": "SP-3",
+    "process_prefix": "SP",
+    "title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "activity_id": "SP-4",
+    "process_prefix": "SP",
+    "title": "EXECUTE THE AGREEMENT"
+  },
+  {
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "activity_id": "SR-3",
+    "process_prefix": "SR",
+    "title": "ANALYZE SYSTEM REQUIREMENTS"
+  },
+  {
+    "activity_id": "SR-4",
+    "process_prefix": "SR",
+    "title": "MANAGE THE SYSTEM REQUIREMENTS"
+  },
+  {
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "title": "PERFORM TRANSITION"
+  },
+  {
+    "activity_id": "TR-3",
+    "process_prefix": "TR",
+    "title": "MANAGE RESULTS OF TRANSITION"
+  },
+  {
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "activity_id": "VA-2",
+    "process_prefix": "VA",
+    "title": "PERFORM VALIDATION"
+  },
+  {
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "activity_id": "VE-2",
+    "process_prefix": "VE",
+    "title": "PERFORM VERIFICATION"
+  },
+  {
+    "activity_id": "VE-3",
+    "process_prefix": "VE",
+    "title": "MANAGE RESULTS OF VERIFICATION"
+  }
+]

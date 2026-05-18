@@ -17,8 +17,11 @@ Highest-value next candidates (have requirement/control structure suitable for p
 - [x] ~~**NIST SP 800-66 r2**~~ — done in PR #25 (22 HIPAA-mapped safeguards)
 - [x] ~~**NIST SP 800-207**~~ — done in PR #25 (52 sections; narrative guide so section-level rather than per-control)
 - [x] ~~**NIST AI 600-1**~~ — done in PR #25 (212 Suggested Actions across 49 AI RMF subcategories)
-- [ ] **NIST SP 800-63-3 / 63A / 63B / 63C** — Digital Identity Guidelines. Only 800-63-3 (umbrella) is in repo; need to acquire 800-63A/B/C separately for full structured coverage.
-- [ ] **NIST SP 800-160 v1/v2** — Systems Security Engineering / Cyber Resiliency (process-task structure; Appendix H of v1 has the SSE tasks)
+- [x] ~~**NIST SP 800-63A / 63B / 63C**~~ — done in PR #26 (acquired + section-level parse for each; 60 / 82 / 50 sections respectively across the 3 sub-publications)
+- [x] ~~**NIST SP 800-160 v1** Appendix H~~ — done in PR #26 (108 activities + 474 tasks across 30 ISO/IEC/IEEE 15288 processes)
+- [x] ~~**FIPS 200**~~ — done in PR #26 (4 body sections + 17 minimum-security control families)
+- [ ] **NIST SP 800-160 v2** — Cyber Resiliency (design principles / techniques / approaches — narrative-heavy; lower-value structured parse)
+- [ ] **FIPS 199** — Standards for Security Categorization (mostly narrative; minimal structured value)
 
 The remaining ~100 NIST publications are primarily narrative guides (best practices, glossaries, research papers) where per-section parsing is less valuable than the markdown itself.
 
@@ -135,6 +138,7 @@ The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](htt
 
 For reference — major items finished in recent PRs:
 
+- **PR #26** (2026-05-17): NIST round 3 — 800-160 v1 SSE Appendix H (108 activities + 474 tasks); 800-63A/B/C Digital Identity acquired + parsed (60/82/50 sections); FIPS 200 (4 body sections + 17 minimum-security control families).
 - **PR #25** (2026-05-16): NIST round 2 — 800-37 r2 RMF (47 tasks across 7 phases); 800-66 r2 HIPAA (22 safeguards); 800-207 Zero Trust (52 sections); AI 600-1 GenAI Profile (212 actions across 49 subcategories).
 - **PR #24** (2026-05-16): NIST round 1 — 800-171 r3 (95 active + 33 withdrawn); AI RMF Core (72 subcategories); Privacy Framework (100 subcategories); 800-218 SSDF (47 tasks).
 - **PR #23** (2026-05-15): One-offs — CIRCIA NPRM structured parse (20 sections); BSI IT-Grundschutz 2022 (1,682 requirements / 104 modules); NIST 800-222 resolved as non-existent.
