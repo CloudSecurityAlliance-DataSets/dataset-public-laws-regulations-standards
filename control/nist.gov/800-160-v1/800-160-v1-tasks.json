@@ -1,0 +1,3320 @@
+[
+  {
+    "task_id": "AQ-1.1",
+    "activity_id": "AQ-1",
+    "process_prefix": "AQ",
+    "description": "Define the security aspects of the strategy for how the acquisition will be conducted.",
+    "activity_title": "PREPARE FOR THE ACQUISITION"
+  },
+  {
+    "task_id": "AQ-1.2",
+    "activity_id": "AQ-1",
+    "process_prefix": "AQ",
+    "description": "Prepare a request for a product or service that includes the security requirements.",
+    "activity_title": "PREPARE FOR THE ACQUISITION"
+  },
+  {
+    "task_id": "AQ-2.1",
+    "activity_id": "AQ-2",
+    "process_prefix": "AQ",
+    "description": "Securely communicate the request for the supply of a product or service to potential suppliers.",
+    "activity_title": "ADVERTISE THE ACQUISITION AND SELECT THE SUPPLIER"
+  },
+  {
+    "task_id": "AQ-2.2",
+    "activity_id": "AQ-2",
+    "process_prefix": "AQ",
+    "description": "Select one or more suppliers that meet the security criteria.",
+    "activity_title": "ADVERTISE THE ACQUISITION AND SELECT THE SUPPLIER"
+  },
+  {
+    "task_id": "AQ-3.1",
+    "activity_id": "AQ-3",
+    "process_prefix": "AQ",
+    "description": "Develop and approve an agreement with the supplier that includes security acceptance criteria.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "AQ-3.2",
+    "activity_id": "AQ-3",
+    "process_prefix": "AQ",
+    "description": "Identify necessary security-relevant changes to the agreement.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "AQ-3.3",
+    "activity_id": "AQ-3",
+    "process_prefix": "AQ",
+    "description": "Evaluate the security impact of changes to the agreement.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "AQ-3.4",
+    "activity_id": "AQ-3",
+    "process_prefix": "AQ",
+    "description": "Update the security criteria in the agreement with the supplier, as necessary.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "AQ-4.1",
+    "activity_id": "AQ-4",
+    "process_prefix": "AQ",
+    "description": "Assess the execution of the security aspects of the agreement.",
+    "activity_title": "MONITOR THE AGREEMENTS"
+  },
+  {
+    "task_id": "AQ-4.2",
+    "activity_id": "AQ-4",
+    "process_prefix": "AQ",
+    "description": "Securely provide data needed by the supplier, and resolve issues in a timely manner.",
+    "activity_title": "MONITOR THE AGREEMENTS"
+  },
+  {
+    "task_id": "AQ-5.1",
+    "activity_id": "AQ-5",
+    "process_prefix": "AQ",
+    "description": "Confirm that the delivered product or service complies with the security aspects of the agreement.",
+    "activity_title": "ACCEPT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "AQ-5.2",
+    "activity_id": "AQ-5",
+    "process_prefix": "AQ",
+    "description": "Securely provide payment or other agreed consideration.",
+    "activity_title": "ACCEPT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "AQ-5.3",
+    "activity_id": "AQ-5",
+    "process_prefix": "AQ",
+    "description": "Accept the product or service from the supplier or other party, as directed by the security criteria in the agreement.",
+    "activity_title": "ACCEPT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "AQ-5.4",
+    "activity_id": "AQ-5",
+    "process_prefix": "AQ",
+    "description": "Close the agreement in accordance with agreement security criteria.",
+    "activity_title": "ACCEPT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "AR-1.1",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Define the security aspects of the system architecture definition strategy.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.2",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Identify the set of existing security-relevant architectures or reference architectures that may have direct applicability and are to be used as guiding oversight.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.3",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Establish the security aspects of the architecture description framework(s), viewpoints, and modeling templates to be used throughout the system architecture definition effort.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.4",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Establish security-specific viewpoints and modeling templates to be used throughout the system architecture definition effort.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.5",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Determine the security evaluation objectives and criteria with respect to the concerns of key stakeholders.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.6",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Determine security evaluation methods, and integrate them with evaluation objectives and criteria.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.7",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Collect and review security evaluation-related information.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.8",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Identify the security aspects for enabling systems or services needed to support system architecture definition.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.9",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of system architecture definition.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-1.10",
+    "activity_id": "AR-1",
+    "process_prefix": "AR",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in system architecture definition.",
+    "activity_title": "PREPARE FOR SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-2.1",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Establish the security aspects of architecture objectives and critical success criteria.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.2",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Synthesize potential trustworthy secure solution(s) in the solution space.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.3",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Characterize aspects of trustworthy secure solutions and the trade space.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.4",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Formulate trustworthy secure candidate architecture(s).",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.5",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Capture trustworthy secure architecture concepts and properties.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.6",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Relate the candidate architecture(s) to other architectures and relevant affected entities to help ensure the consistency of trustworthy secure architecture concepts and properties.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.7",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Coordinate the secure use of the candidate architecture(s) by intended users.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.8",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Develop the security aspects of the models and views of the candidate architecture(s).",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-2.9",
+    "activity_id": "AR-2",
+    "process_prefix": "AR",
+    "description": "Coordinate secure use of the architecture by intended users.",
+    "activity_title": "CREATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-3.1",
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "description": "Analyze trustworthy secure architecture concepts and properties, and assess the value of the architecture in meeting stakeholder security protection concerns.",
+    "activity_title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-3.2",
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "description": "Characterize the candidate architecture(s) based on trustworthy secure analysis results.",
+    "activity_title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-3.3",
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "description": "Formulate security-relevant evaluation findings and recommendations.",
+    "activity_title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-3.4",
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "description": "Capture and communicate security-relevant evaluation results.",
+    "activity_title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-3.5",
+    "activity_id": "AR-3",
+    "process_prefix": "AR",
+    "description": "Relate the architecture to the other architectures and relevant affected entities to help ensure consistency in the trustworthy secure system architecture.",
+    "activity_title": "EVALUATE THE SYSTEM ARCHITECTURE CANDIDATE(S)"
+  },
+  {
+    "task_id": "AR-4.1",
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "description": "Obtain agreement on the security aspects of the architecture.",
+    "activity_title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-4.2",
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "description": "Record key security-relevant system architecture decisions and the rationale.",
+    "activity_title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-4.3",
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "description": "Maintain the traceability of the security aspects of the system architecture.",
+    "activity_title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-4.4",
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "AR-4.5",
+    "activity_id": "AR-4",
+    "process_prefix": "AR",
+    "description": "Provide support to organizational architecture governance and architecture management efforts.",
+    "activity_title": "MANAGE THE RESULTS OF SYSTEM ARCHITECTURE DEFINITION"
+  },
+  {
+    "task_id": "BA-1.1",
+    "activity_id": "BA-1",
+    "process_prefix": "BA",
+    "description": "Identify the security aspects for enabling systems or services needed to support business or mission analysis.",
+    "activity_title": "PREPARE FOR BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "task_id": "BA-1.2",
+    "activity_id": "BA-1",
+    "process_prefix": "BA",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of business or mission analysis.",
+    "activity_title": "PREPARE FOR BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "task_id": "BA-1.3",
+    "activity_id": "BA-1",
+    "process_prefix": "BA",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in business or mission analysis.",
+    "activity_title": "PREPARE FOR BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "task_id": "BA-2.1",
+    "activity_id": "BA-2",
+    "process_prefix": "BA",
+    "description": "Analyze the problems or opportunities in the context of the security-relevant trade space factors.",
+    "activity_title": "DEFINE THE PROBLEM OR OPPORTUNITY SPACE"
+  },
+  {
+    "task_id": "BA-2.2",
+    "activity_id": "BA-2",
+    "process_prefix": "BA",
+    "description": "Define the security aspects of the mission, business, or operational problem or opportunity to be addressed by the solution class(es).",
+    "activity_title": "DEFINE THE PROBLEM OR OPPORTUNITY SPACE"
+  },
+  {
+    "task_id": "BA-3.1",
+    "activity_id": "BA-3",
+    "process_prefix": "BA",
+    "description": "Define the security aspects of the preliminary operational concepts and other concepts in life cycle stages.",
+    "activity_title": "CHARACTERIZE THE SOLUTION SPACE"
+  },
+  {
+    "task_id": "BA-3.2",
+    "activity_id": "BA-3",
+    "process_prefix": "BA",
+    "description": "Identify the security aspects of the alternative solution classes.",
+    "activity_title": "CHARACTERIZE THE SOLUTION SPACE"
+  },
+  {
+    "task_id": "BA-4.1",
+    "activity_id": "BA-4",
+    "process_prefix": "BA",
+    "description": "Assess each alternative solution class while considering the identified security aspects.",
+    "activity_title": "EVALUATE ALTERNATIVE SOLUTION CLASSES"
+  },
+  {
+    "task_id": "BA-4.2",
+    "activity_id": "BA-4",
+    "process_prefix": "BA",
+    "description": "Select the preferred alternative solution class (or classes) based on the identified security aspects, trade space factors, and other criteria defined by the organization.",
+    "activity_title": "EVALUATE ALTERNATIVE SOLUTION CLASSES"
+  },
+  {
+    "task_id": "BA-4.3",
+    "activity_id": "BA-4",
+    "process_prefix": "BA",
+    "description": "Provide security-relevant feedback to strategic-level life cycle concepts to reflect the selected solution class(es).",
+    "activity_title": "EVALUATE ALTERNATIVE SOLUTION CLASSES"
+  },
+  {
+    "task_id": "BA-5.1",
+    "activity_id": "BA-5",
+    "process_prefix": "BA",
+    "description": "Maintain traceability of the security aspects of business or mission analysis.",
+    "activity_title": "MANAGE THE BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "task_id": "BA-5.2",
+    "activity_id": "BA-5",
+    "process_prefix": "BA",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE THE BUSINESS OR MISSION ANALYSIS"
+  },
+  {
+    "task_id": "CM-1.1",
+    "activity_id": "CM-1",
+    "process_prefix": "CM",
+    "description": "Define a secure configuration management strategy.",
+    "activity_title": "PREPARE FOR CONFIGURATION MANAGEMENT"
+  },
+  {
+    "task_id": "CM-1.2",
+    "activity_id": "CM-1",
+    "process_prefix": "CM",
+    "description": "Define the secure archive and retrieval approach for configuration items, configuration management artifacts, and data.",
+    "activity_title": "PREPARE FOR CONFIGURATION MANAGEMENT"
+  },
+  {
+    "task_id": "CM-2.1",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Identify the security aspects of system elements and artifacts that need to be under configuration management.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-2.2",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Identify the security aspects of the configuration data to be managed.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-2.3",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Establish the security aspects of identifiers for items under configuration management.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-2.4",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Define the security aspects of baselines throughout the life cycle.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-2.5",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Obtain applicable stakeholder agreement on the security aspects to establish a baseline.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-2.6",
+    "activity_id": "CM-2",
+    "process_prefix": "CM",
+    "description": "Approve and track the security aspects of system or system element releases.",
+    "activity_title": "PERFORM CONFIGURATION IDENTIFICATION"
+  },
+  {
+    "task_id": "CM-3.1",
+    "activity_id": "CM-3",
+    "process_prefix": "CM",
+    "description": "Identify and record the security aspects of requests for change and requests for variance.",
+    "activity_title": "PERFORM CONFIGURATION CHANGE MANAGEMENT"
+  },
+  {
+    "task_id": "CM-3.2",
+    "activity_id": "CM-3",
+    "process_prefix": "CM",
+    "description": "Determine the security aspects of action to coordinate, evaluate, and disposition requests for change or requests for variance.",
+    "activity_title": "PERFORM CONFIGURATION CHANGE MANAGEMENT"
+  },
+  {
+    "task_id": "CM-3.3",
+    "activity_id": "CM-3",
+    "process_prefix": "CM",
+    "description": "Submit requests for security review and approval.",
+    "activity_title": "PERFORM CONFIGURATION CHANGE MANAGEMENT"
+  },
+  {
+    "task_id": "CM-3.4",
+    "activity_id": "CM-3",
+    "process_prefix": "CM",
+    "description": "Track and manage the security aspects of approved changes to the baseline, requests for change, and requests for variance.",
+    "activity_title": "PERFORM CONFIGURATION CHANGE MANAGEMENT"
+  },
+  {
+    "task_id": "CM-4.1",
+    "activity_id": "CM-4",
+    "process_prefix": "CM",
+    "description": "Develop and maintain security-relevant configuration management status information for system elements, baselines, approved changes, and releases.",
+    "activity_title": "PERFORM CONFIGURATION STATUS ACCOUNTING"
+  },
+  {
+    "task_id": "CM-4.2",
+    "activity_id": "CM-4",
+    "process_prefix": "CM",
+    "description": "Capture, store, and report security-relevant configuration management data.",
+    "activity_title": "PERFORM CONFIGURATION STATUS ACCOUNTING"
+  },
+  {
+    "task_id": "CM-5.1",
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "description": "Identify the need for secure configuration and configuration management verification activities and audits.",
+    "activity_title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "task_id": "CM-5.2",
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "description": "Verify that the product or service configuration meets the security-relevant configuration requirements.",
+    "activity_title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "task_id": "CM-5.3",
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "description": "Monitor the secure incorporation of approved configuration changes.",
+    "activity_title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "task_id": "CM-5.4",
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "description": "Perform configuration and configuration management security verification activities and audits to establish the security aspects of product baselines.",
+    "activity_title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "task_id": "CM-5.5",
+    "activity_id": "CM-5",
+    "process_prefix": "CM",
+    "description": "Record the security aspects of the configuration management audit and other configuration evaluation results and disposition action items.",
+    "activity_title": "PERFORM CONFIGURATION EVALUATION"
+  },
+  {
+    "task_id": "DE-1.1",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Establish the trustworthy secure aspects of the design definition strategy.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.2",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Determine the security technologies required for each system element composing the system.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.3",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Identify the security concerns associated with each technology required for each system element.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.4",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Determine the necessary security and trustworthiness categories of system characteristics represented in the design.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.5",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Define the precepts for trustworthy secure evolution of the system design.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.6",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Identify the security aspects for enabling systems or services needed to support design definition.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.7",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of design definition.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-1.8",
+    "activity_id": "DE-1",
+    "process_prefix": "DE",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in design definition.",
+    "activity_title": "PREPARE FOR DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-2.1",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Allocate security requirements to system elements.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.2",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Transform security-relevant architectural entities and relationships into design elements.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.3",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Transform security-relevant architectural characteristics into trustworthy secure design characteristics.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.4",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Define the necessary trustworthy secure design enablers.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.5",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Examine trustworthy secure design alternatives.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.6",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Refine or define the security aspects of interfaces between system elements and with external entities.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.7",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Develop the security aspects of design artifacts.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-2.8",
+    "activity_id": "DE-2",
+    "process_prefix": "DE",
+    "description": "Capture the security aspects of the design.",
+    "activity_title": "CREATE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-3.1",
+    "activity_id": "DE-3",
+    "process_prefix": "DE",
+    "description": "Analyze each system design alternative against criteria developed from expected trustworthy secure design properties and characteristics.",
+    "activity_title": "EVALUTE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-3.2",
+    "activity_id": "DE-3",
+    "process_prefix": "DE",
+    "description": "Assess each system design alternative for how well it meets stakeholder protection needs and the security aspects of the system requirements.",
+    "activity_title": "EVALUTE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-3.3",
+    "activity_id": "DE-3",
+    "process_prefix": "DE",
+    "description": "Combine the security analyses and assessments in the overall evaluation to select a preferred design solution.",
+    "activity_title": "EVALUTE THE SYSTEM DESIGN"
+  },
+  {
+    "task_id": "DE-4.1",
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "description": "Obtain agreement on the security aspects of the design.",
+    "activity_title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-4.2",
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "description": "Map the trustworthy secure design characteristics to the system elements.",
+    "activity_title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-4.3",
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "description": "Record the trustworthy secure design decisions and the rationale.",
+    "activity_title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-4.4",
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "description": "Maintain traceability of the security aspects of the system design.",
+    "activity_title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DE-4.5",
+    "activity_id": "DE-4",
+    "process_prefix": "DE",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE THE RESULTS OF DESIGN DEFINITION"
+  },
+  {
+    "task_id": "DM-1.1",
+    "activity_id": "DM-1",
+    "process_prefix": "DM",
+    "description": "Define the security aspects of the decision management strategy.",
+    "activity_title": "PREPARE FOR DECISIONS"
+  },
+  {
+    "task_id": "DM-1.2",
+    "activity_id": "DM-1",
+    "process_prefix": "DM",
+    "description": "Identify the security aspects of the circumstances and the need for a decision.",
+    "activity_title": "PREPARE FOR DECISIONS"
+  },
+  {
+    "task_id": "DM-1.3",
+    "activity_id": "DM-1",
+    "process_prefix": "DM",
+    "description": "Identify stakeholders with relevant security expertise to support decision-making efforts.",
+    "activity_title": "PREPARE FOR DECISIONS"
+  },
+  {
+    "task_id": "DM-2.1",
+    "activity_id": "DM-2",
+    "process_prefix": "DM",
+    "description": "Select and declare the security aspects of the decision management strategy for each decision.",
+    "activity_title": "ANALYZE THE DECISION INFORMATION"
+  },
+  {
+    "task_id": "DM-2.2",
+    "activity_id": "DM-2",
+    "process_prefix": "DM",
+    "description": "Determine the desired security outcomes and the measurable security attributes of selection criteria.",
+    "activity_title": "ANALYZE THE DECISION INFORMATION"
+  },
+  {
+    "task_id": "DM-2.3",
+    "activity_id": "DM-2",
+    "process_prefix": "DM",
+    "description": "Identify the security aspects of the trade space and alternatives.",
+    "activity_title": "ANALYZE THE DECISION INFORMATION"
+  },
+  {
+    "task_id": "DM-2.4",
+    "activity_id": "DM-2",
+    "process_prefix": "DM",
+    "description": "Evaluate each alternative against the security criteria.",
+    "activity_title": "ANALYZE THE DECISION INFORMATION"
+  },
+  {
+    "task_id": "DM-3.1",
+    "activity_id": "DM-3",
+    "process_prefix": "DM",
+    "description": "Determine the preferred alternative for each security-informed and security-based decision.",
+    "activity_title": "MAKE AND MANAGE DECISIONS"
+  },
+  {
+    "task_id": "DM-3.2",
+    "activity_id": "DM-3",
+    "process_prefix": "DM",
+    "description": "Record the security-informed or security-based resolution, decision rationale, and assumptions.",
+    "activity_title": "MAKE AND MANAGE DECISIONS"
+  },
+  {
+    "task_id": "DM-3.3",
+    "activity_id": "DM-3",
+    "process_prefix": "DM",
+    "description": "Record, track, evaluate, and report the security aspects of security-informed and security-based decisions.",
+    "activity_title": "MAKE AND MANAGE DECISIONS"
+  },
+  {
+    "task_id": "DS-1.1",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Define the security aspects of the disposal strategy.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.2",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Identify the security-relevant constraints and objectives of disposal on the system requirements, architecture and design characteristics, and implementation techniques.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.3",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Identify the security aspects for enabling systems or services needed to support disposal.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.4",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of disposal.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.5",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in disposal.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.6",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Specify security criteria for containment facilities, storage locations, inspection, and storage periods (if the system is to be stored).",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-1.7",
+    "activity_id": "DS-1",
+    "process_prefix": "DS",
+    "description": "Define the security aspects of preventive methods to preclude disposed elements and materials that should not be repurposed, reclaimed, or reused from re-entering the supply chain.",
+    "activity_title": "PREPARE FOR DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.1",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Securely deactivate the system or system element to prepare it for secure removal from operation.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.2",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Securely remove the system, system element, or waste material from use or production for appropriate secure disposition and action.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.3",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Securely withdraw impacted operating staff from the system or system element, and record relevant secure operation knowledge.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.4",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Securely disassemble the system or system element into manageable elements to facilitate its secure removal for reuse, recycling, reconditioning, overhaul, archiving, or destruction.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.5",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Securely handle system elements and their parts that are not intended for reuse in a manner that will help ensure that they do not get back into the supply chain.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-2.6",
+    "activity_id": "DS-2",
+    "process_prefix": "DS",
+    "description": "Conduct secure sanitization and destruction of the system elements and life cycle artifacts.",
+    "activity_title": "PERFORM DISPOSAL"
+  },
+  {
+    "task_id": "DS-3.1",
+    "activity_id": "DS-3",
+    "process_prefix": "DS",
+    "description": "Confirm that no detrimental security factors exist following disposal.",
+    "activity_title": "FINALIZE THE DISPOSAL"
+  },
+  {
+    "task_id": "DS-3.2",
+    "activity_id": "DS-3",
+    "process_prefix": "DS",
+    "description": "Return the environment to its original secure state or to a secure state specified by agreement.",
+    "activity_title": "FINALIZE THE DISPOSAL"
+  },
+  {
+    "task_id": "DS-3.3",
+    "activity_id": "DS-3",
+    "process_prefix": "DS",
+    "description": "Securely archive data and information gathered through the lifetime of the system to permit audits and reviews in the event of long-term hazards to health, safety, security, and the environment and to permit future system creators and users to securely build a knowledge base from past experiences.",
+    "activity_title": "FINALIZE THE DISPOSAL"
+  },
+  {
+    "task_id": "DS-3.4",
+    "activity_id": "DS-3",
+    "process_prefix": "DS",
+    "description": "Provide security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "FINALIZE THE DISPOSAL"
+  },
+  {
+    "task_id": "HR-1.1",
+    "activity_id": "HR-1",
+    "process_prefix": "HR",
+    "description": "Identify the security-relevant skills needed based on current and expected projects.",
+    "activity_title": "IDENTIFY SKILLS"
+  },
+  {
+    "task_id": "HR-1.2",
+    "activity_id": "HR-1",
+    "process_prefix": "HR",
+    "description": "Identify and record the security-relevant skills of personnel.",
+    "activity_title": "IDENTIFY SKILLS"
+  },
+  {
+    "task_id": "HR-2.1",
+    "activity_id": "HR-2",
+    "process_prefix": "HR",
+    "description": "Establish a plan for developing security-relevant skills.",
+    "activity_title": "DEVELOP SKILLS"
+  },
+  {
+    "task_id": "HR-2.2",
+    "activity_id": "HR-2",
+    "process_prefix": "HR",
+    "description": "Obtain security-relevant training, education, or mentoring resources.",
+    "activity_title": "DEVELOP SKILLS"
+  },
+  {
+    "task_id": "HR-2.3",
+    "activity_id": "HR-2",
+    "process_prefix": "HR",
+    "description": "Provide planned security-relevant skills development.",
+    "activity_title": "DEVELOP SKILLS"
+  },
+  {
+    "task_id": "HR-2.4",
+    "activity_id": "HR-2",
+    "process_prefix": "HR",
+    "description": "Maintain records of security-relevant skills development.",
+    "activity_title": "DEVELOP SKILLS"
+  },
+  {
+    "task_id": "HR-3.1",
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "description": "Obtain qualified personnel when security-relevant skill deficits are identified.",
+    "activity_title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "task_id": "HR-3.2",
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "description": "Maintain and manage the pool of security-skilled personnel necessary to staff ongoing projects.",
+    "activity_title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "task_id": "HR-3.3",
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "description": "Make personnel assignments based on security-relevant project and staff development needs.",
+    "activity_title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "task_id": "HR-3.4",
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "description": "Motivate personnel with security-relevant skills (e.g., through career development and reward mechanisms).",
+    "activity_title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "task_id": "HR-3.5",
+    "activity_id": "HR-3",
+    "process_prefix": "HR",
+    "description": "Resolve the security aspects of personnel conflicts across or within projects.",
+    "activity_title": "ACQUIRE AND PROVIDE SKILLS"
+  },
+  {
+    "task_id": "IF-1.1",
+    "activity_id": "IF-1",
+    "process_prefix": "IF",
+    "description": "Define the infrastructure security protection needs.",
+    "activity_title": "ESTABLISH THE INFRASTRUCTURE"
+  },
+  {
+    "task_id": "IF-1.2",
+    "activity_id": "IF-1",
+    "process_prefix": "IF",
+    "description": "Identify, obtain, and provide the infrastructure resources and services that satisfy the security protection needs to securely implement and support projects.",
+    "activity_title": "ESTABLISH THE INFRASTRUCTURE"
+  },
+  {
+    "task_id": "IF-2.1",
+    "activity_id": "IF-2",
+    "process_prefix": "IF",
+    "description": "Evaluate the degree to which delivered infrastructure resources satisfy project protection needs.",
+    "activity_title": "MAINTAIN THE INFRASTRUCTURE"
+  },
+  {
+    "task_id": "IF-2.2",
+    "activity_id": "IF-2",
+    "process_prefix": "IF",
+    "description": "Identify and provide security improvements or changes to infrastructure resources as project requirements change.",
+    "activity_title": "MAINTAIN THE INFRASTRUCTURE"
+  },
+  {
+    "task_id": "IM-1.1",
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "description": "Define the security aspects of the strategy for information management.",
+    "activity_title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-1.2",
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "description": "Define the security aspects of the information items that will be managed.",
+    "activity_title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-1.3",
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "description": "Designate authorities and responsibilities for the security aspects of information management.",
+    "activity_title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-1.4",
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "description": "Define the security aspects of the content, formats, structure, and strengths of protection for information items.",
+    "activity_title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-1.5",
+    "activity_id": "IM-1",
+    "process_prefix": "IM",
+    "description": "Define the security aspects of information maintenance actions.",
+    "activity_title": "PREPARE FOR INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-2.1",
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "description": "Securely obtain, develop, or transform the identified information items.",
+    "activity_title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-2.2",
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "description": "Securely maintain information items and their storage records, and record the security status of information.",
+    "activity_title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-2.3",
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "description": "Securely publish, distribute, or provide access to information and information items to designated stakeholders.",
+    "activity_title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-2.4",
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "description": "Securely archive designated information.",
+    "activity_title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IM-2.5",
+    "activity_id": "IM-2",
+    "process_prefix": "IM",
+    "description": "Securely dispose of unwanted, invalid, or unvalidated information.",
+    "activity_title": "PERFORM INFORMATION MANAGEMENT"
+  },
+  {
+    "task_id": "IN-1.1",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Identify and define checkpoints for the correct secure activation and integrity of the interfaces and the selected system functions as the system elements are synthesized.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-1.2",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Define the security aspects of the integration strategy.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-1.3",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Identify the security-relevant constraints and objectives from integration to be incorporated into the system requirements, architecture, or design.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-1.4",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Identify the security aspects for enabling systems, services, and materials needed to support integration.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-1.5",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Identify and plan for enabling systems, services, and materials needed to support the security aspects of integration.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-1.6",
+    "activity_id": "IN-1",
+    "process_prefix": "IN",
+    "description": "Obtain or acquire access to the security aspects of enabling systems, services, and materials to be used in integration.",
+    "activity_title": "PREPARE FOR INTEGRATION"
+  },
+  {
+    "task_id": "IN-2.1",
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "description": "Check interface availability and conformance of the interfaces in accordance with the security aspects of interface definitions and integration schedules.",
+    "activity_title": "PERFORM INTEGRATION"
+  },
+  {
+    "task_id": "IN-2.2",
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "description": "Perform actions to address any security-relevant conformance or availability issues.",
+    "activity_title": "PERFORM INTEGRATION"
+  },
+  {
+    "task_id": "IN-2.3",
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "description": "Securely combine the implemented system elements in accordance with planned sequences.",
+    "activity_title": "PERFORM INTEGRATION"
+  },
+  {
+    "task_id": "IN-2.4",
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "description": "Securely integrate system element configurations until the complete system is securely synthesized.",
+    "activity_title": "PERFORM INTEGRATION"
+  },
+  {
+    "task_id": "IN-2.5",
+    "activity_id": "IN-2",
+    "process_prefix": "IN",
+    "description": "Check for the expected results of interfaces, interconnections, selected functions, and security characteristics.",
+    "activity_title": "PERFORM INTEGRATION"
+  },
+  {
+    "task_id": "IN-3.1",
+    "activity_id": "IN-3",
+    "process_prefix": "IN",
+    "description": "Record the security aspects of integration results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF INTEGRATION"
+  },
+  {
+    "task_id": "IN-3.2",
+    "activity_id": "IN-3",
+    "process_prefix": "IN",
+    "description": "Maintain traceability of the security aspects of integrated system elements.",
+    "activity_title": "MANAGE RESULTS OF INTEGRATION"
+  },
+  {
+    "task_id": "IN-3.3",
+    "activity_id": "IN-3",
+    "process_prefix": "IN",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF INTEGRATION"
+  },
+  {
+    "task_id": "IP-1.1",
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "description": "Define the trustworthy secure aspects of the implementation strategy.",
+    "activity_title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-1.2",
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "description": "Identify security-relevant constraints and objectives from implementation in the system security requirements, architecture and design characteristics, or implementation techniques.",
+    "activity_title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-1.3",
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "description": "Identify the security aspects for enabling systems, services, and materials needed to support implementation.",
+    "activity_title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-1.4",
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "description": "Identify and plan for enabling systems, services, and materials needed to support the security aspects of implementation.",
+    "activity_title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-1.5",
+    "activity_id": "IP-1",
+    "process_prefix": "IP",
+    "description": "Obtain or acquire access to the security aspects of enabling systems, services, and materials to be used in implementation.",
+    "activity_title": "PREPARE FOR IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-2.1",
+    "activity_id": "IP-2",
+    "process_prefix": "IP",
+    "description": "Realize or adapt system elements in accordance with the security aspects of the implementation strategy and implementation procedures, as well as security-relevant constraints.",
+    "activity_title": "PERFORM IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-2.2",
+    "activity_id": "IP-2",
+    "process_prefix": "IP",
+    "description": "Place the system element in a secure state for future use, as needed.",
+    "activity_title": "PERFORM IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-2.3",
+    "activity_id": "IP-2",
+    "process_prefix": "IP",
+    "description": "Record objective evidence that system elements meet the system security requirements.",
+    "activity_title": "PERFORM IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-3.1",
+    "activity_id": "IP-3",
+    "process_prefix": "IP",
+    "description": "Record the security aspects of implementation results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-3.2",
+    "activity_id": "IP-3",
+    "process_prefix": "IP",
+    "description": "Maintain traceability of the security aspects of implemented system elements.",
+    "activity_title": "MANAGE RESULTS OF IMPLEMENTATION"
+  },
+  {
+    "task_id": "IP-3.3",
+    "activity_id": "IP-3",
+    "process_prefix": "IP",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF IMPLEMENTATION"
+  },
+  {
+    "task_id": "KM-1.1",
+    "activity_id": "KM-1",
+    "process_prefix": "KM",
+    "description": "Define the security aspects of the knowledge management strategy.",
+    "activity_title": "PLAN KNOWLEDGE MANAGEMENT"
+  },
+  {
+    "task_id": "KM-1.2",
+    "activity_id": "KM-1",
+    "process_prefix": "KM",
+    "description": "Identify the security knowledge, skills, and knowledge assets to be managed.",
+    "activity_title": "PLAN KNOWLEDGE MANAGEMENT"
+  },
+  {
+    "task_id": "KM-1.3",
+    "activity_id": "KM-1",
+    "process_prefix": "KM",
+    "description": "Identify projects that can benefit from the application of the security knowledge, skills, and knowledge assets.",
+    "activity_title": "PLAN KNOWLEDGE MANAGEMENT"
+  },
+  {
+    "task_id": "KM-2.1",
+    "activity_id": "KM-2",
+    "process_prefix": "KM",
+    "description": "Establish and maintain a classification for capturing and sharing security knowledge and skills.",
+    "activity_title": "SHARE KNOWLEDGE AND SKILLS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-2.2",
+    "activity_id": "KM-2",
+    "process_prefix": "KM",
+    "description": "Capture or acquire security knowledge and skills.",
+    "activity_title": "SHARE KNOWLEDGE AND SKILLS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-2.3",
+    "activity_id": "KM-2",
+    "process_prefix": "KM",
+    "description": "Make security knowledge and skills accessible across the organization.",
+    "activity_title": "SHARE KNOWLEDGE AND SKILLS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-3.1",
+    "activity_id": "KM-3",
+    "process_prefix": "KM",
+    "description": "Establish a taxonomy to organize security knowledge assets.",
+    "activity_title": "SHARE KNOWLEDGE ASSETS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-3.2",
+    "activity_id": "KM-3",
+    "process_prefix": "KM",
+    "description": "Develop or acquire security knowledge assets.",
+    "activity_title": "SHARE KNOWLEDGE ASSETS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-3.3",
+    "activity_id": "KM-3",
+    "process_prefix": "KM",
+    "description": "Make all knowledge assets securely accessible to the organization.",
+    "activity_title": "SHARE KNOWLEDGE ASSETS THROUGHOUT THE ORGANIZATION"
+  },
+  {
+    "task_id": "KM-4.1",
+    "activity_id": "KM-4",
+    "process_prefix": "KM",
+    "description": "Maintain security knowledge, skills, and knowledge assets.",
+    "activity_title": "MANAGE KNOWLEDGE, SKILLS, AND KNOWLEDGE ASSETS"
+  },
+  {
+    "task_id": "KM-4.2",
+    "activity_id": "KM-4",
+    "process_prefix": "KM",
+    "description": "Monitor and record the use of security knowledge, skills, and knowledge assets.",
+    "activity_title": "MANAGE KNOWLEDGE, SKILLS, AND KNOWLEDGE ASSETS"
+  },
+  {
+    "task_id": "KM-4.3",
+    "activity_id": "KM-4",
+    "process_prefix": "KM",
+    "description": "Periodically reassess the currency of the security aspects of technology and market needs of the security knowledge assets.",
+    "activity_title": "MANAGE KNOWLEDGE, SKILLS, AND KNOWLEDGE ASSETS"
+  },
+  {
+    "task_id": "LM-1.1",
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "description": "Establish policies and procedures for process management and deployment that are consistent with the security aspects of organizational strategies.",
+    "activity_title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "task_id": "LM-1.2",
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "description": "Establish the security aspects of the life cycle processes that implement the requirements of [\\[4\\]](#page-52-3) and are consistent with organizational strategies.",
+    "activity_title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "task_id": "LM-1.3",
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "description": "Define the security roles, responsibilities, accountabilities, and authorities to facilitate implementation of the security aspects of life cycle processes and the strategic management of life cycles.",
+    "activity_title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "task_id": "LM-1.4",
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "description": "Define the security aspects of the criteria that control progression through the life cycle.",
+    "activity_title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "task_id": "LM-1.5",
+    "activity_id": "LM-1",
+    "process_prefix": "LM",
+    "description": "Establish security criteria for the standard life cycle models for the organization, including criteria for outcomes for each stage.",
+    "activity_title": "ESTABLISH THE LIFE CYCLE PROCESSES"
+  },
+  {
+    "task_id": "LM-2.1",
+    "activity_id": "LM-2",
+    "process_prefix": "LM",
+    "description": "Monitor the security aspects of process execution across the organization.",
+    "activity_title": "ASSESS THE LIFE CYCLE PROCESS"
+  },
+  {
+    "task_id": "LM-2.2",
+    "activity_id": "LM-2",
+    "process_prefix": "LM",
+    "description": "Conduct reviews of the security aspects of the life cycle models used by the projects.",
+    "activity_title": "ASSESS THE LIFE CYCLE PROCESS"
+  },
+  {
+    "task_id": "LM-2.3",
+    "activity_id": "LM-2",
+    "process_prefix": "LM",
+    "description": "Identify security-relevant improvement opportunities from assessment results.",
+    "activity_title": "ASSESS THE LIFE CYCLE PROCESS"
+  },
+  {
+    "task_id": "LM-3.1",
+    "activity_id": "LM-3",
+    "process_prefix": "LM",
+    "description": "Prioritize and plan for security-relevant improvement opportunities.",
+    "activity_title": "IMPROVE THE PROCESS"
+  },
+  {
+    "task_id": "LM-3.2",
+    "activity_id": "LM-3",
+    "process_prefix": "LM",
+    "description": "Implement security improvement opportunities, and inform relevant stakeholders.",
+    "activity_title": "IMPROVE THE PROCESS"
+  },
+  {
+    "task_id": "MA-1.1",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Define the security aspects of the maintenance strategy.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.2",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Define the security aspects of the logistics strategy.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.3",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Identify the security-relevant constraints and objectives that result from the security aspects of maintenance and logistics to be incorporated into the system requirements, architecture, and design.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.4",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Identify trade-offs such that the security aspects of the system and associated maintenance and logistics actions result in a solution that is trustworthy, secure, affordable, operable, supportable, and sustainable.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.5",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Identify the security aspects for enabling systems, products, and services needed to support maintenance and logistics.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.6",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Identify and plan for enabling systems, products, and services needed to support the security aspects of maintenance and logistics.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-1.7",
+    "activity_id": "MA-1",
+    "process_prefix": "MA",
+    "description": "Obtain or acquire access to the security aspects of enabling systems, products, and services to be used in maintenance and logistics.",
+    "activity_title": "PREPARE FOR MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-2.1",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Monitor and review stakeholder requirements and incident and problem reports to identify security-relevant corrective, preventive, adaptive, additive, or perfective maintenance needs.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.2",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Record the security aspects of maintenance incidents and problems, and track their secure resolution.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.3",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Analyze the impact of the changes introduced by maintenance actions on the security aspects of the system and system elements.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.4",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Upon encountering faults that cause a system failure, securely restore the system to secure operational status.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.5",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Securely correct anomalies (e.g., defects, errors, and faults), and replace or upgrade system elements.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.6",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Perform preventive maintenance by securely replacing or servicing system elements prior to failure.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-2.7",
+    "activity_id": "MA-2",
+    "process_prefix": "MA",
+    "description": "Securely perform adaptive, additive, or perfective maintenance as required.",
+    "activity_title": "PERFORM MAINTENANCE"
+  },
+  {
+    "task_id": "MA-3.1",
+    "activity_id": "MA-3",
+    "process_prefix": "MA",
+    "description": "Perform the security aspects of acquisition logistics.",
+    "activity_title": "PERFORM LOGISTICS SUPPORT"
+  },
+  {
+    "task_id": "MA-3.2",
+    "activity_id": "MA-3",
+    "process_prefix": "MA",
+    "description": "Perform the security aspects of operational logistics.",
+    "activity_title": "PERFORM LOGISTICS SUPPORT"
+  },
+  {
+    "task_id": "MA-3.3",
+    "activity_id": "MA-3",
+    "process_prefix": "MA",
+    "description": "Implement mechanisms for the secure logistics needed during the life cycle.",
+    "activity_title": "PERFORM LOGISTICS SUPPORT"
+  },
+  {
+    "task_id": "MA-3.4",
+    "activity_id": "MA-3",
+    "process_prefix": "MA",
+    "description": "Confirm that the security aspects of logistics actions are implemented.",
+    "activity_title": "PERFORM LOGISTICS SUPPORT"
+  },
+  {
+    "task_id": "MA-4.1",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Record the security aspects of maintenance and logistics results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-4.2",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Record maintenance and logistics security incidents and problems, and track their secure resolution.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-4.3",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Identify and record the security-relevant trends of incidents, problems, and maintenance and logistics actions.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-4.4",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Maintain traceability of the security aspects of maintenance and logistics.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-4.5",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Provide security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MA-4.6",
+    "activity_id": "MA-4",
+    "process_prefix": "MA",
+    "description": "Monitor customer satisfaction with the security aspects of the system, maintenance, and logistics.",
+    "activity_title": "MANAGE RESULTS OF MAINTENANCE AND LOGISTICS"
+  },
+  {
+    "task_id": "MS-1.1",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Define the security aspects of the measurement strategy.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.2",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Describe the characteristics of the organization that are relevant to security measurement.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.3",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Identify and prioritize security-relevant information needs.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.4",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Select and specify measures that satisfy security-relevant information needs.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.5",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Define procedures for the collection, analysis, access, and reporting of securityrelevant data.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.6",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Define security-relevant criteria for evaluating the information items and the measurement process.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.7",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Identify the security aspects for enabling the systems or services needed to support measurement.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.8",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Identify and plan for enabling the systems or services needed to support the security aspects of measurement.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-1.9",
+    "activity_id": "MS-1",
+    "process_prefix": "MS",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in measurement.",
+    "activity_title": "PREPARE FOR MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.1",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Integrate procedures for the generation, collection, analysis, and reporting of securityrelevant data into the relevant processes.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.2",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Integrate procedures for the secure generation, collection, analysis, and reporting of data into the relevant processes.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.3",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Collect, store, and verify security-relevant data.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.4",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Securely collect, store, and verify data.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.5",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Analyze security-relevant data, and develop security-relevant information items.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "MS-2.6",
+    "activity_id": "MS-2",
+    "process_prefix": "MS",
+    "description": "Record security measurement results, and inform the measurement users.",
+    "activity_title": "PERFORM MEASUREMENT"
+  },
+  {
+    "task_id": "OP-1.1",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Define the security aspects of the operation strategy.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.2",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Identify the constraints and objectives that result from the security aspects of operation to be incorporated into the system requirements, architecture, and design.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.3",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Identify the security aspects for enabling systems and services needed to support operation.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.4",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of operation.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.5",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in operation.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.6",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Identify or define security training and qualification requirements to sustain the workforce needed for secure system operation.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-1.7",
+    "activity_id": "OP-1",
+    "process_prefix": "OP",
+    "description": "Assign the trained and qualified personnel needed for secure system operation.",
+    "activity_title": "PREPARE FOR OPERATION"
+  },
+  {
+    "task_id": "OP-2.1",
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "description": "Securely use the system in its intended operational environment.",
+    "activity_title": "PERFORM OPERATION"
+  },
+  {
+    "task_id": "OP-2.2",
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "description": "Apply materials and other resources as required to securely operate the system and sustain its product and service capabilities.",
+    "activity_title": "PERFORM OPERATION"
+  },
+  {
+    "task_id": "OP-2.3",
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "description": "Monitor system operations for deviations from intended behavior and outcomes.",
+    "activity_title": "PERFORM OPERATION"
+  },
+  {
+    "task_id": "OP-2.4",
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "description": "Use the measures defined in the strategy and analyze them to confirm that system security performance is within acceptable parameters.",
+    "activity_title": "PERFORM OPERATION"
+  },
+  {
+    "task_id": "OP-2.5",
+    "activity_id": "OP-2",
+    "process_prefix": "OP",
+    "description": "Identify and record when system security or service performance is not within acceptable parameters.",
+    "activity_title": "PERFORM OPERATION"
+  },
+  {
+    "task_id": "OP-3.1",
+    "activity_id": "OP-3",
+    "process_prefix": "OP",
+    "description": "Record the results of secure operations and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF OPERATION"
+  },
+  {
+    "task_id": "OP-3.2",
+    "activity_id": "OP-3",
+    "process_prefix": "OP",
+    "description": "Record the security aspects of operational incidents and problems, and track their resolution.",
+    "activity_title": "MANAGE RESULTS OF OPERATION"
+  },
+  {
+    "task_id": "OP-3.3",
+    "activity_id": "OP-3",
+    "process_prefix": "OP",
+    "description": "Maintain traceability of the security aspects of the operation elements.",
+    "activity_title": "MANAGE RESULTS OF OPERATION"
+  },
+  {
+    "task_id": "OP-3.4",
+    "activity_id": "OP-3",
+    "process_prefix": "OP",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF OPERATION"
+  },
+  {
+    "task_id": "OP-4.1",
+    "activity_id": "OP-4",
+    "process_prefix": "OP",
+    "description": "Provide security assistance and consultation to stakeholders as requested.",
+    "activity_title": "SUPPORT STAKEHOLDERS"
+  },
+  {
+    "task_id": "OP-4.2",
+    "activity_id": "OP-4",
+    "process_prefix": "OP",
+    "description": "Record and monitor requests and subsequent actions for security support.",
+    "activity_title": "SUPPORT STAKEHOLDERS"
+  },
+  {
+    "task_id": "OP-4.3",
+    "activity_id": "OP-4",
+    "process_prefix": "OP",
+    "description": "Determine the degree to which the security aspects of delivered products and services satisfy the needs of stakeholders.",
+    "activity_title": "SUPPORT STAKEHOLDERS"
+  },
+  {
+    "task_id": "PA-1.1",
+    "activity_id": "PA-1",
+    "process_prefix": "PA",
+    "description": "Define the security aspects of the project assessment and control strategy.",
+    "activity_title": "PLAN FOR PROJECT ASSESSMENT AND CONTROL"
+  },
+  {
+    "task_id": "PA-2.1",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess the alignment of the security aspects of project objectives and plans with the project context.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.2",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess the security aspects of the management and technical plans against objectives to determine adequacy and feasibility.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.3",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess the security aspects of the project and technical status against appropriate plans to determine actual and projected cost, schedule, and performance variances.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.4",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess the adequacy of the security-relevant roles, responsibilities, accountabilities, and authorities.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.5",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess the security aspects of resource adequacy and availability.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.6",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Assess progress using measured security achievement and the security aspects of milestone completion.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.7",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Conduct required management and technical reviews, audits, and inspections relevant to the security aspects of the project.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.8",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Monitor the security aspects of critical processes and new technologies.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.9",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Make recommendations based on security measurement results and other securityrelevant project information.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.10",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Record and provide security status and security findings from the assessment tasks.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-2.11",
+    "activity_id": "PA-2",
+    "process_prefix": "PA",
+    "description": "Monitor the security aspects of process execution within the project.",
+    "activity_title": "ASSESS THE PROJECT"
+  },
+  {
+    "task_id": "PA-3.1",
+    "activity_id": "PA-3",
+    "process_prefix": "PA",
+    "description": "Initiate the actions needed to address identified security issues.",
+    "activity_title": "CONTROL THE PROJECT"
+  },
+  {
+    "task_id": "PA-3.2",
+    "activity_id": "PA-3",
+    "process_prefix": "PA",
+    "description": "Initiate the necessary security aspects of project replanning.",
+    "activity_title": "CONTROL THE PROJECT"
+  },
+  {
+    "task_id": "PA-3.3",
+    "activity_id": "PA-3",
+    "process_prefix": "PA",
+    "description": "Initiate necessary change actions when there is a contractual change to cost, time, or quality due to the security impact of an acquirer or supplier request.",
+    "activity_title": "CONTROL THE PROJECT"
+  },
+  {
+    "task_id": "PA-3.4",
+    "activity_id": "PA-3",
+    "process_prefix": "PA",
+    "description": "Recommend that the project proceed toward the next milestone or event, if justified, based on the achievement of security-relevant milestones or event criteria.",
+    "activity_title": "CONTROL THE PROJECT"
+  },
+  {
+    "task_id": "PL-1.1",
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "description": "Identify the security aspects of project objectives and constraints.",
+    "activity_title": "DEFINE THE PROJECT"
+  },
+  {
+    "task_id": "PL-1.2",
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "description": "Define the security aspects of the project scope as established in agreements.",
+    "activity_title": "DEFINE THE PROJECT"
+  },
+  {
+    "task_id": "PL-1.3",
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "description": "Define and maintain the security views of the project life cycle model that are comprised of stages using the defined life cycle models of the organization.",
+    "activity_title": "DEFINE THE PROJECT"
+  },
+  {
+    "task_id": "PL-1.4",
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "description": "Establish appropriate security aspects of the work breakdown structure.",
+    "activity_title": "DEFINE THE PROJECT"
+  },
+  {
+    "task_id": "PL-1.5",
+    "activity_id": "PL-1",
+    "process_prefix": "PL",
+    "description": "Define and maintain the security aspects of processes that will be applied to the project.",
+    "activity_title": "DEFINE THE PROJECT"
+  },
+  {
+    "task_id": "PL-2.1",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define and maintain the security aspects of a project schedule based on management and technical objectives, and work estimates.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.2",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define the security aspects of achievement criteria for the life cycle decision gates, delivery dates, and major dependencies on external inputs and outputs.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.3",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define the security aspects of project performance criteria.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.4",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define the security-relevant project costs, and plan the budget.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.5",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define the security-relevant roles, responsibilities, accountabilities, and authorities.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.6",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Define the security aspects of the infrastructure and services required.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.7",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Plan the security aspects of acquiring materials and enabling system services supplied from outside of the project.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-2.8",
+    "activity_id": "PL-2",
+    "process_prefix": "PL",
+    "description": "Generate and communicate a plan for the security aspects of project and technical management and execution, including security reviews that address security considerations.",
+    "activity_title": "PLAN PROJECT AND TECHNICAL MANAGEMENT"
+  },
+  {
+    "task_id": "PL-3.1",
+    "activity_id": "PL-3",
+    "process_prefix": "PL",
+    "description": "Obtain authorization for the security aspects of the project.",
+    "activity_title": "ACTIVATE THE PROJECT"
+  },
+  {
+    "task_id": "PL-3.2",
+    "activity_id": "PL-3",
+    "process_prefix": "PL",
+    "description": "Submit requests and obtain commitments for the necessary resources to perform the security aspects of the project.",
+    "activity_title": "ACTIVATE THE PROJECT"
+  },
+  {
+    "task_id": "PL-3.3",
+    "activity_id": "PL-3",
+    "process_prefix": "PL",
+    "description": "Implement the security aspects of project plans.",
+    "activity_title": "ACTIVATE THE PROJECT"
+  },
+  {
+    "task_id": "PM-1.1",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Identify potential new or modified security capabilities or missions.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.2",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Identify the security aspects of potential new or modified capabilities or missions.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.3",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Prioritize, select, and establish new business opportunities, ventures, or undertakings with consideration for security objectives and concerns.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.4",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Define the security aspects of projects, accountabilities, and authorities.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.5",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Identify the security aspects of the expected goals, objectives, and outcomes of each project.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.6",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Identify and allocate resources for achieving the security aspects of project goals and objectives.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.7",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Identify the security aspects of any multi-project interfaces and dependencies to be managed or supported by each project.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.8",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Specify the security aspects of project reporting requirements, and review milestones that govern the execution of each project.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-1.9",
+    "activity_id": "PM-1",
+    "process_prefix": "PM",
+    "description": "Authorize each project to commence the execution of project plans, including its security aspects.",
+    "activity_title": "DEFINE AND AUTHORIZE PROJECTS"
+  },
+  {
+    "task_id": "PM-2.1",
+    "activity_id": "PM-2",
+    "process_prefix": "PM",
+    "description": "Evaluate the security aspects of projects to confirm ongoing viability.",
+    "activity_title": "EVALUATE THE PORTFOLIO OF PROJECTS"
+  },
+  {
+    "task_id": "PM-2.2",
+    "activity_id": "PM-2",
+    "process_prefix": "PM",
+    "description": "Act to continue projects that are satisfactorily progressing in consideration of project security aspects.",
+    "activity_title": "EVALUATE THE PORTFOLIO OF PROJECTS"
+  },
+  {
+    "task_id": "PM-2.3",
+    "activity_id": "PM-2",
+    "process_prefix": "PM",
+    "description": "Act to redirect projects that can be expected to progress satisfactorily with appropriate security-informed redirection.",
+    "activity_title": "EVALUATE THE PORTFOLIO OF PROJECTS"
+  },
+  {
+    "task_id": "PM-3.1",
+    "activity_id": "PM-3",
+    "process_prefix": "PM",
+    "description": "Where agreements permit, act to cancel or suspend projects whose security-driven disadvantages or security-driven risks to the organization outweigh the benefits of continued investments.",
+    "activity_title": "TERMINATE PROJECTS"
+  },
+  {
+    "task_id": "PM-3.2",
+    "activity_id": "PM-3",
+    "process_prefix": "PM",
+    "description": "After completion of the agreement for the security aspects of products or services, act to close the projects.",
+    "activity_title": "TERMINATE PROJECTS"
+  },
+  {
+    "task_id": "QA-1.1",
+    "activity_id": "QA-1",
+    "process_prefix": "QA",
+    "description": "Define the security aspects of the quality assurance strategy.",
+    "activity_title": "PREPARE FOR QUALITY ASSURANCE"
+  },
+  {
+    "task_id": "QA-1.2",
+    "activity_id": "QA-1",
+    "process_prefix": "QA",
+    "description": "Establish the independence of security quality assurance from other life cycle processes.",
+    "activity_title": "PREPARE FOR QUALITY ASSURANCE"
+  },
+  {
+    "task_id": "QA-2.1",
+    "activity_id": "QA-2",
+    "process_prefix": "QA",
+    "description": "Evaluate products and services for conformance to established security criteria, contracts, standards, and regulations.",
+    "activity_title": "PERFORM PRODUCT OR SERVICE EVALUATIONS"
+  },
+  {
+    "task_id": "QA-2.2",
+    "activity_id": "QA-2",
+    "process_prefix": "QA",
+    "description": "Perform the security aspects of verification and validation on the outputs of the life cycle processes to determine conformance to specified requirements.",
+    "activity_title": "PERFORM PRODUCT OR SERVICE EVALUATIONS"
+  },
+  {
+    "task_id": "QA-3.1",
+    "activity_id": "QA-3",
+    "process_prefix": "QA",
+    "description": "Evaluate project life cycle processes for conformance to established security quality criteria.",
+    "activity_title": "PERFORM PROCESS EVALUATIONS"
+  },
+  {
+    "task_id": "QA-3.2",
+    "activity_id": "QA-3",
+    "process_prefix": "QA",
+    "description": "Evaluate tools and environments that support or automate the process for conformance to established security quality criteria.",
+    "activity_title": "PERFORM PROCESS EVALUATIONS"
+  },
+  {
+    "task_id": "QA-3.3",
+    "activity_id": "QA-3",
+    "process_prefix": "QA",
+    "description": "Evaluate supplier processes for conformance to process security requirements.",
+    "activity_title": "PERFORM PROCESS EVALUATIONS"
+  },
+  {
+    "task_id": "QA-4.1",
+    "activity_id": "QA-4",
+    "process_prefix": "QA",
+    "description": "Create records and reports related to the security aspects of quality assurance activities.",
+    "activity_title": "MANAGE QUALITY ASSURANCE RECORDS AND REPORTS"
+  },
+  {
+    "task_id": "QA-4.2",
+    "activity_id": "QA-4",
+    "process_prefix": "QA",
+    "description": "Securely maintain, store, and distribute records and reports.",
+    "activity_title": "MANAGE QUALITY ASSURANCE RECORDS AND REPORTS"
+  },
+  {
+    "task_id": "QA-4.3",
+    "activity_id": "QA-4",
+    "process_prefix": "QA",
+    "description": "Identify the security aspects of incidents and problems associated with product, service, and process evaluations.",
+    "activity_title": "MANAGE QUALITY ASSURANCE RECORDS AND REPORTS"
+  },
+  {
+    "task_id": "QA-5.1",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Record, analyze, and classify the security aspects of incidents.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.2",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Resolve the security aspects of incidents or elevate the security aspects of incidents to problems.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.3",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Record, analyze, and classify the security aspects of problems.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.4",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Track the security aspects of the prioritization and implementation of problem treatments.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.5",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Note and analyze the security aspects of incidents and problems.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.6",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Inform stakeholders of the status of the security aspects of incidents and problems.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QA-5.7",
+    "activity_id": "QA-5",
+    "process_prefix": "QA",
+    "description": "Track the security aspects of incidents and problems to closure.",
+    "activity_title": "TREAT INCIDENTS AND PROBLEMS"
+  },
+  {
+    "task_id": "QM-1.1",
+    "activity_id": "QM-1",
+    "process_prefix": "QM",
+    "description": "Establish the security aspects of quality management policies, standards, and procedures.",
+    "activity_title": "PLAN QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-1.2",
+    "activity_id": "QM-1",
+    "process_prefix": "QM",
+    "description": "Define responsibilities and authority for the implementation of security quality management.",
+    "activity_title": "PLAN QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-1.3",
+    "activity_id": "QM-1",
+    "process_prefix": "QM",
+    "description": "Define security quality evaluation criteria and methods.",
+    "activity_title": "PLAN QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-1.4",
+    "activity_id": "QM-1",
+    "process_prefix": "QM",
+    "description": "Provide resources, data, and information for security quality management.",
+    "activity_title": "PLAN QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-2.1",
+    "activity_id": "QM-2",
+    "process_prefix": "QM",
+    "description": "Gather and analyze quality assurance evaluation results in accordance with the defined security quality evaluation criteria.",
+    "activity_title": "ASSESS QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-2.2",
+    "activity_id": "QM-2",
+    "process_prefix": "QM",
+    "description": "Assess customer satisfaction.",
+    "activity_title": "ASSESS QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-2.3",
+    "activity_id": "QM-2",
+    "process_prefix": "QM",
+    "description": "Conduct periodic reviews of project quality assurance activities for compliance with the security quality management policies, standards, and procedures.",
+    "activity_title": "ASSESS QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-2.4",
+    "activity_id": "QM-2",
+    "process_prefix": "QM",
+    "description": "Monitor the status of security quality improvements on processes, products, and services.",
+    "activity_title": "ASSESS QUALITY MANAGEMENT"
+  },
+  {
+    "task_id": "QM-3.1",
+    "activity_id": "QM-3",
+    "process_prefix": "QM",
+    "description": "Plan corrective actions when security quality management objectives are not achieved.",
+    "activity_title": "PERFORM QUALITY MANAGEMENT CORRECTIVE AND PREVENTIVE ACTIONS"
+  },
+  {
+    "task_id": "QM-3.2",
+    "activity_id": "QM-3",
+    "process_prefix": "QM",
+    "description": "Plan preventive actions when there is a sufficient risk that security quality management objectives will not be achieved.",
+    "activity_title": "PERFORM QUALITY MANAGEMENT CORRECTIVE AND PREVENTIVE ACTIONS"
+  },
+  {
+    "task_id": "QM-3.3",
+    "activity_id": "QM-3",
+    "process_prefix": "QM",
+    "description": "Monitor the security aspects of corrective and preventive actions to completion, and inform stakeholders.",
+    "activity_title": "PERFORM QUALITY MANAGEMENT CORRECTIVE AND PREVENTIVE ACTIONS"
+  },
+  {
+    "task_id": "RM-1.1",
+    "activity_id": "RM-1",
+    "process_prefix": "RM",
+    "description": "Define the security aspects of the risk management strategy.",
+    "activity_title": "PLAN RISK MANAGEMENT"
+  },
+  {
+    "task_id": "RM-1.2",
+    "activity_id": "RM-1",
+    "process_prefix": "RM",
+    "description": "Define and record the security context of the risk management process.",
+    "activity_title": "PLAN RISK MANAGEMENT"
+  },
+  {
+    "task_id": "RM-2.1",
+    "activity_id": "RM-2",
+    "process_prefix": "RM",
+    "description": "Define and record the security risk thresholds and conditions.",
+    "activity_title": "MANAGE THE RISK PROFILE"
+  },
+  {
+    "task_id": "RM-2.2",
+    "activity_id": "RM-2",
+    "process_prefix": "RM",
+    "description": "Establish and maintain the security aspects of the risk profile.",
+    "activity_title": "MANAGE THE RISK PROFILE"
+  },
+  {
+    "task_id": "RM-2.3",
+    "activity_id": "RM-2",
+    "process_prefix": "RM",
+    "description": "Provide the security aspects of the relevant risk profile to stakeholders.",
+    "activity_title": "MANAGE THE RISK PROFILE"
+  },
+  {
+    "task_id": "RM-3.1",
+    "activity_id": "RM-3",
+    "process_prefix": "RM",
+    "description": "Identify security risks in the categories described in the risk management context.",
+    "activity_title": "ANALYZE RISK"
+  },
+  {
+    "task_id": "RM-3.2",
+    "activity_id": "RM-3",
+    "process_prefix": "RM",
+    "description": "Measure each identified security risk.",
+    "activity_title": "ANALYZE RISK"
+  },
+  {
+    "task_id": "RM-3.3",
+    "activity_id": "RM-3",
+    "process_prefix": "RM",
+    "description": "Evaluate each security risk against its risk thresholds.",
+    "activity_title": "ANALYZE RISK"
+  },
+  {
+    "task_id": "RM-3.4",
+    "activity_id": "RM-3",
+    "process_prefix": "RM",
+    "description": "Define and record recommended treatment strategies and measures for each securityrelevant risk that exceeds its risk threshold.",
+    "activity_title": "ANALYZE RISK"
+  },
+  {
+    "task_id": "RM-4.1",
+    "activity_id": "RM-4",
+    "process_prefix": "RM",
+    "description": "Identify recommended alternatives for security risk treatment.",
+    "activity_title": "TREAT RISKS THAT EXCEED THEIR RISK THRESHOLD"
+  },
+  {
+    "task_id": "RM-4.2",
+    "activity_id": "RM-4",
+    "process_prefix": "RM",
+    "description": "Define measures for determining the effectiveness of security risk treatments.",
+    "activity_title": "TREAT RISKS THAT EXCEED THEIR RISK THRESHOLD"
+  },
+  {
+    "task_id": "RM-4.3",
+    "activity_id": "RM-4",
+    "process_prefix": "RM",
+    "description": "Implement selected security risk treatments.",
+    "activity_title": "TREAT RISKS THAT EXCEED THEIR RISK THRESHOLD"
+  },
+  {
+    "task_id": "RM-4.4",
+    "activity_id": "RM-4",
+    "process_prefix": "RM",
+    "description": "Coordinate management action for selected security risk treatments.",
+    "activity_title": "TREAT RISKS THAT EXCEED THEIR RISK THRESHOLD"
+  },
+  {
+    "task_id": "RM-5.1",
+    "activity_id": "RM-5",
+    "process_prefix": "RM",
+    "description": "Continually monitor all security-relevant risks and the security risk management context.",
+    "activity_title": "MONITOR RISK"
+  },
+  {
+    "task_id": "RM-5.2",
+    "activity_id": "RM-5",
+    "process_prefix": "RM",
+    "description": "Implement and monitor measures to evaluate the effectiveness of security-relevant risk treatments.",
+    "activity_title": "MONITOR RISK"
+  },
+  {
+    "task_id": "RM-5.3",
+    "activity_id": "RM-5",
+    "process_prefix": "RM",
+    "description": "Continually monitor for the emergence of new security-relevant risks and sources of risk throughout the life cycle.",
+    "activity_title": "MONITOR RISK"
+  },
+  {
+    "task_id": "SA-1.1",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Define the security aspects of the system analysis strategy.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.2",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Identify the security aspects of the problem or question that require system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.3",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Identify the security-relevant stakeholders of the system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.4",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Define the scope, objectives, level of fidelity, level of rigor, and level of assurance for the security aspects of system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.5",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Select the methods to address the security aspects of system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.6",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Identify the security aspects for enabling systems or services needed to support system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.7",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.8",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in system analysis.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-1.9",
+    "activity_id": "SA-1",
+    "process_prefix": "SA",
+    "description": "Identify and validate security-relevant assumptions.",
+    "activity_title": "PREPARE FOR SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-2.1",
+    "activity_id": "SA-2",
+    "process_prefix": "SA",
+    "description": "Apply the selected analysis methods to perform the required security-relevant aspects of system analysis.",
+    "activity_title": "PERFORM SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-2.2",
+    "activity_id": "SA-2",
+    "process_prefix": "SA",
+    "description": "Review analysis results for security-relevant quality and validity.",
+    "activity_title": "PERFORM SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-2.3",
+    "activity_id": "SA-2",
+    "process_prefix": "SA",
+    "description": "Establish conclusions and recommendations for the security aspects of the system analysis.",
+    "activity_title": "PERFORM SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-2.4",
+    "activity_id": "SA-2",
+    "process_prefix": "SA",
+    "description": "Record the results of the security aspects of the system analysis.",
+    "activity_title": "PERFORM SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-3.1",
+    "activity_id": "SA-3",
+    "process_prefix": "SA",
+    "description": "Maintain traceability of the security aspects of the system analysis results.",
+    "activity_title": "MANAGE SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SA-3.2",
+    "activity_id": "SA-3",
+    "process_prefix": "SA",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE SYSTEM ANALYSIS"
+  },
+  {
+    "task_id": "SN-1.1",
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "description": "Identify the stakeholders and their security concerns.",
+    "activity_title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-1.2",
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "description": "Define the stakeholder protection needs and requirements definition strategy.",
+    "activity_title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-1.3",
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "description": "Identify the security aspects for enabling systems or services needed to support stakeholder needs and requirements definition.",
+    "activity_title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-1.4",
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of stakeholder needs and requirements definition.",
+    "activity_title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-1.5",
+    "activity_id": "SN-1",
+    "process_prefix": "SN",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in stakeholder needs and requirements definition.",
+    "activity_title": "PREPARE FOR STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-2.1",
+    "activity_id": "SN-2",
+    "process_prefix": "SN",
+    "description": "Define a representative set of scenarios to identify required protection capabilities and security measures that correspond to anticipated operational and other life cycle concepts.",
+    "activity_title": "DEVELOP THE OPERATIONAL AND OTHER LIFE CYCLE CONCEPTS"
+  },
+  {
+    "task_id": "SN-2.2",
+    "activity_id": "SN-2",
+    "process_prefix": "SN",
+    "description": "Characterize the security aspects of the operational environments and the intended users.",
+    "activity_title": "DEVELOP THE OPERATIONAL AND OTHER LIFE CYCLE CONCEPTS"
+  },
+  {
+    "task_id": "SN-2.3",
+    "activity_id": "SN-2",
+    "process_prefix": "SN",
+    "description": "Identify the interactions among entities and the system and security-relevant factors affecting the interactions.",
+    "activity_title": "DEVELOP THE OPERATIONAL AND OTHER LIFE CYCLE CONCEPTS"
+  },
+  {
+    "task_id": "SN-2.4",
+    "activity_id": "SN-2",
+    "process_prefix": "SN",
+    "description": "Identify the security-relevant constraints on a system solution.",
+    "activity_title": "DEVELOP THE OPERATIONAL AND OTHER LIFE CYCLE CONCEPTS"
+  },
+  {
+    "task_id": "SN-3.1",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Define the rules capturing authorized and intended interactions, behaviors, and outcomes.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.2",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Identify stakeholder assets and asset classes.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.3",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Identify loss concerns for each identified asset and each asset class.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.4",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Prioritize assets based on the adverse consequences of asset loss.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.5",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Characterize adversities present in the environment.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.6",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Identify uncertainty associated with each identified adversity.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.7",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Identify stakeholder protection needs.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.8",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Prioritize and down-select the stakeholder protection needs.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-3.9",
+    "activity_id": "SN-3",
+    "process_prefix": "SN",
+    "description": "Record the stakeholder protection needs and rationale.",
+    "activity_title": "DEFINE STAKEHOLDER NEEDS"
+  },
+  {
+    "task_id": "SN-4.1",
+    "activity_id": "SN-4",
+    "process_prefix": "SN",
+    "description": "Identify the security-relevant constraints on a system solution.",
+    "activity_title": "TRANSFORM STAKEHOLDER NEEDS INTO STAKEHOLDER REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-4.2",
+    "activity_id": "SN-4",
+    "process_prefix": "SN",
+    "description": "Define stakeholder requirements in a manner consistent with security aspects and protection needs.",
+    "activity_title": "TRANSFORM STAKEHOLDER NEEDS INTO STAKEHOLDER REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-5.1",
+    "activity_id": "SN-5",
+    "process_prefix": "SN",
+    "description": "Analyze the set of stakeholder requirements with respect to the protection needs.",
+    "activity_title": "ANALYZE STAKEHOLDER NEEDS AND REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-5.2",
+    "activity_id": "SN-5",
+    "process_prefix": "SN",
+    "description": "Define security-relevant performance and assurance measures that enable the assessment of technical achievement and their relative criticality.",
+    "activity_title": "ANALYZE STAKEHOLDER NEEDS AND REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-5.3",
+    "activity_id": "SN-5",
+    "process_prefix": "SN",
+    "description": "Provide feedback to applicable stakeholders from the analyzed requirements to validate that their protection needs and expectations have been adequately captured and expressed.",
+    "activity_title": "ANALYZE STAKEHOLDER NEEDS AND REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-5.4",
+    "activity_id": "SN-5",
+    "process_prefix": "SN",
+    "description": "Resolve stakeholder requirements issues related to protection needs.",
+    "activity_title": "ANALYZE STAKEHOLDER NEEDS AND REQUIREMENTS"
+  },
+  {
+    "task_id": "SN-6.1",
+    "activity_id": "SN-6",
+    "process_prefix": "SN",
+    "description": "Obtain explicit agreement that the stakeholder requirements satisfactorily address protection needs.",
+    "activity_title": "MANAGE THE STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-6.2",
+    "activity_id": "SN-6",
+    "process_prefix": "SN",
+    "description": "Record asset protection data.",
+    "activity_title": "MANAGE THE STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-6.3",
+    "activity_id": "SN-6",
+    "process_prefix": "SN",
+    "description": "Maintain traceability between stakeholder protection needs and stakeholder requirements.",
+    "activity_title": "MANAGE THE STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SN-6.4",
+    "activity_id": "SN-6",
+    "process_prefix": "SN",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE THE STAKEHOLDER NEEDS AND REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SP-1.1",
+    "activity_id": "SP-1",
+    "process_prefix": "SP",
+    "description": "Identify the security aspects of an acquirer's need for a product or service.",
+    "activity_title": "PREPARE FOR THE SUPPLY"
+  },
+  {
+    "task_id": "SP-1.2",
+    "activity_id": "SP-1",
+    "process_prefix": "SP",
+    "description": "Define the security aspects of the supply strategy.",
+    "activity_title": "PREPARE FOR THE SUPPLY"
+  },
+  {
+    "task_id": "SP-2.1",
+    "activity_id": "SP-2",
+    "process_prefix": "SP",
+    "description": "Evaluate a request for a product or service to determine the security-relevant feasibility and how to respond.",
+    "activity_title": "RESPOND TO A REQUEST FOR SUPPLY OF PRODUCTS OR SERVICES"
+  },
+  {
+    "task_id": "SP-2.2",
+    "activity_id": "SP-2",
+    "process_prefix": "SP",
+    "description": "Prepare a response that satisfies the security criteria in the solicitation.",
+    "activity_title": "RESPOND TO A REQUEST FOR SUPPLY OF PRODUCTS OR SERVICES"
+  },
+  {
+    "task_id": "SP-3.1",
+    "activity_id": "SP-3",
+    "process_prefix": "SP",
+    "description": "Negotiate and approve an agreement with the acquirer that includes security acceptance criteria.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "SP-3.2",
+    "activity_id": "SP-3",
+    "process_prefix": "SP",
+    "description": "Identify necessary security-relevant changes to the agreement.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "SP-3.3",
+    "activity_id": "SP-3",
+    "process_prefix": "SP",
+    "description": "Evaluate the security impact of necessary changes to the agreement.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "SP-3.4",
+    "activity_id": "SP-3",
+    "process_prefix": "SP",
+    "description": "Update the security criteria in the agreement with the acquirer, as necessary.",
+    "activity_title": "ESTABLISH AND MAINTAIN AN AGREEMENT"
+  },
+  {
+    "task_id": "SP-4.1",
+    "activity_id": "SP-4",
+    "process_prefix": "SP",
+    "description": "Execute the security aspects of the agreement according to established project plans.",
+    "activity_title": "EXECUTE THE AGREEMENT"
+  },
+  {
+    "task_id": "SP-4.2",
+    "activity_id": "SP-4",
+    "process_prefix": "SP",
+    "description": "Assess the execution of the security aspects of the agreement.",
+    "activity_title": "EXECUTE THE AGREEMENT"
+  },
+  {
+    "task_id": "SP-5.1",
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "description": "Deliver the product or service in accordance with the agreement security criteria.",
+    "activity_title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "SP-5.2",
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "description": "Provide security assistance to the acquirer, per the agreement.",
+    "activity_title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "SP-5.3",
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "description": "Securely accept and acknowledge payment or other agreed consideration.",
+    "activity_title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "SP-5.4",
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "description": "Transfer the product or service to the acquirer or other party as directed by the security requirements in the agreement.",
+    "activity_title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "SP-5.5",
+    "activity_id": "SP-5",
+    "process_prefix": "SP",
+    "description": "Close the agreement in accordance with the agreement security criteria.",
+    "activity_title": "DELIVER AND SUPPORT THE PRODUCT OR SERVICE"
+  },
+  {
+    "task_id": "SR-1.1",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Define the security aspects of the intended behavior and outcomes at the functional boundary of the system.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-1.2",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Define the security domains of the system and their correlation to the functional boundaries of the system.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-1.3",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Define the security aspects of the system requirements definition strategy.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-1.4",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Identify the security aspects for enabling systems or services needed to support system requirements definition.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-1.5",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of system requirements definition.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-1.6",
+    "activity_id": "SR-1",
+    "process_prefix": "SR",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in the system requirements definition.",
+    "activity_title": "PREPARE FOR SYSTEM REQUIREMENTS DEFINITION"
+  },
+  {
+    "task_id": "SR-2.1",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Define each security function that the system is required to perform.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-2.2",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Define the security aspects of each function that the system is required to perform.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-2.3",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Define necessary security-driven implementation constraints.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-2.4",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Define necessary constraints on security implementation.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-2.5",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Define system security requirements and rationale.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-2.6",
+    "activity_id": "SR-2",
+    "process_prefix": "SR",
+    "description": "Apply security metadata to the system security requirements.",
+    "activity_title": "DEFINE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-3.1",
+    "activity_id": "SR-3",
+    "process_prefix": "SR",
+    "description": "Analyze the complete set of system requirements in consideration of security concerns.",
+    "activity_title": "ANALYZE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-3.2",
+    "activity_id": "SR-3",
+    "process_prefix": "SR",
+    "description": "Define security-driven performance and assurance measures that enable the assessment of technical achievement.",
+    "activity_title": "ANALYZE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-3.3",
+    "activity_id": "SR-3",
+    "process_prefix": "SR",
+    "description": "Provide feedback from the analyzed system requirements to applicable stakeholders for security-relevant reviews.",
+    "activity_title": "ANALYZE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-3.4",
+    "activity_id": "SR-3",
+    "process_prefix": "SR",
+    "description": "Resolve system requirements security issues.",
+    "activity_title": "ANALYZE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-4.1",
+    "activity_id": "SR-4",
+    "process_prefix": "SR",
+    "description": "Obtain explicit agreement that system requirements express protection needs.",
+    "activity_title": "MANAGE THE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-4.2",
+    "activity_id": "SR-4",
+    "process_prefix": "SR",
+    "description": "Record key security-relevant system requirement decisions and the rationale.",
+    "activity_title": "MANAGE THE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-4.3",
+    "activity_id": "SR-4",
+    "process_prefix": "SR",
+    "description": "Maintain traceability of system requirements to their security-relevant aspects.",
+    "activity_title": "MANAGE THE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "SR-4.4",
+    "activity_id": "SR-4",
+    "process_prefix": "SR",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE THE SYSTEM REQUIREMENTS"
+  },
+  {
+    "task_id": "TR-1.1",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Define the security aspects of the transition strategy.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.2",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify and define any security-relevant facility or site changes needed.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.3",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify the security-relevant constraints and objectives from the security aspects of transition to be incorporated into the system requirements, architecture, and design.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.4",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify and arrange the security training of operators, users, and other stakeholders necessary to the system utilization and support.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.5",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify the security aspects for enabling systems or services needed to support transition.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.6",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of transition.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.7",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in transition.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-1.8",
+    "activity_id": "TR-1",
+    "process_prefix": "TR",
+    "description": "Identify security aspects, and arrange for the secure shipping and receiving of system elements and enabling systems.",
+    "activity_title": "PREPARE FOR TRANSITION"
+  },
+  {
+    "task_id": "TR-2.1",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Prepare the site of operation in accordance with secure installation requirements.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.2",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Securely deliver the system for installation at the correct location and time.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.3",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Install the system in its operational environment in accordance with the secure installation strategy, and establish secure interconnections to its environment.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.4",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Demonstrate trustworthy secure system installation.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.5",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Provide security training for the operators, users, and other stakeholders necessary for system utilization and support.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.6",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Perform security activation and checkout of the system.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.7",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Demonstrate that the installed system can deliver its required functions in a trustworthy secure manner.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.8",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Demonstrate that the security functions provided by the system and the effects of the security functions are sustainable by enabling systems.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.9",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Review the security trustworthiness of the system for operational readiness.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-2.10",
+    "activity_id": "TR-2",
+    "process_prefix": "TR",
+    "description": "Commission the system for secure operation.",
+    "activity_title": "PERFORM TRANSITION"
+  },
+  {
+    "task_id": "TR-3.1",
+    "activity_id": "TR-3",
+    "process_prefix": "TR",
+    "description": "Record the security aspects of transition results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF TRANSITION"
+  },
+  {
+    "task_id": "TR-3.2",
+    "activity_id": "TR-3",
+    "process_prefix": "TR",
+    "description": "Record the security aspects of operational incidents and problems, and track their resolution.",
+    "activity_title": "MANAGE RESULTS OF TRANSITION"
+  },
+  {
+    "task_id": "TR-3.3",
+    "activity_id": "TR-3",
+    "process_prefix": "TR",
+    "description": "Maintain traceability of the security aspects of transitioned system elements.",
+    "activity_title": "MANAGE RESULTS OF TRANSITION"
+  },
+  {
+    "task_id": "TR-3.4",
+    "activity_id": "TR-3",
+    "process_prefix": "TR",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF TRANSITION"
+  },
+  {
+    "task_id": "VA-1.1",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Identify the security aspects within the validation scope and corresponding security validation actions.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.2",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Identify the constraints that can potentially limit the feasibility of the security validation actions.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.3",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Select appropriate security validation methods and the associated success criteria for each security validation action.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.4",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Develop the security aspects of the validation strategy.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.5",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Identify the security-relevant system constraints that result from the security aspects of the validation strategy to be incorporated in the stakeholder protection needs and the requirements transformed from those needs.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.6",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Identify the security aspects for enabling systems or services needed to support validation.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.7",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Identify and plan for enabling systems or services to support the security aspects of validation.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-1.8",
+    "activity_id": "VA-1",
+    "process_prefix": "VA",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used to support validation.",
+    "activity_title": "PREPARE FOR VALIDATION"
+  },
+  {
+    "task_id": "VA-2.1",
+    "activity_id": "VA-2",
+    "process_prefix": "VA",
+    "description": "Define the security aspects of the validation procedures, each supporting one or a set of validation actions.",
+    "activity_title": "PERFORM VALIDATION"
+  },
+  {
+    "task_id": "VA-2.2",
+    "activity_id": "VA-2",
+    "process_prefix": "VA",
+    "description": "Perform security validation procedures.",
+    "activity_title": "PERFORM VALIDATION"
+  },
+  {
+    "task_id": "VA-3.1",
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "description": "Record the security aspects of validation results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "task_id": "VA-3.2",
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "description": "Record the security characteristics of operational incidents and problems, and track their resolution.",
+    "activity_title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "task_id": "VA-3.3",
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "description": "Obtain agreement that the security validation criteria have been met.",
+    "activity_title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "task_id": "VA-3.4",
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "description": "Maintain traceability of the security aspects of validation.",
+    "activity_title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "task_id": "VA-3.5",
+    "activity_id": "VA-3",
+    "process_prefix": "VA",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF VALIDATION"
+  },
+  {
+    "task_id": "VE-1.1",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Identify the security aspects within the verification scope and corresponding security verification actions.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.2",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Identify the constraints that can potentially limit the feasibility of the security-focused verification actions.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.3",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Select appropriate security verification methods and the associated success criteria for each security verification action.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.4",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Define the security aspects of the verification strategy.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.5",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Identify the security-relevant constraints and objectives that result from the security aspects of the verification strategy to be incorporated into the system requirements, architecture, and design.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.6",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Identify the security aspects for enabling systems or services needed to support verification.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.7",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Identify and plan for enabling systems or services needed to support the security aspects of verification.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-1.8",
+    "activity_id": "VE-1",
+    "process_prefix": "VE",
+    "description": "Obtain or acquire access to the security aspects of enabling systems or services to be used in verification.",
+    "activity_title": "PREPARE FOR VERIFICATION"
+  },
+  {
+    "task_id": "VE-2.1",
+    "activity_id": "VE-2",
+    "process_prefix": "VE",
+    "description": "Define the security aspects of the verification procedures, each supporting one or a set of verification actions.",
+    "activity_title": "PERFORM VERIFICATION"
+  },
+  {
+    "task_id": "VE-2.2",
+    "activity_id": "VE-2",
+    "process_prefix": "VE",
+    "description": "Perform security verification procedures.",
+    "activity_title": "PERFORM VERIFICATION"
+  },
+  {
+    "task_id": "VE-3.1",
+    "activity_id": "VE-3",
+    "process_prefix": "VE",
+    "description": "Record the security aspects of verification results and any anomalies encountered.",
+    "activity_title": "MANAGE RESULTS OF VERIFICATION"
+  },
+  {
+    "task_id": "VE-3.2",
+    "activity_id": "VE-3",
+    "process_prefix": "VE",
+    "description": "Obtain agreement from the approval authority that the system, system element, or artifact meets the specified system security requirements.",
+    "activity_title": "MANAGE RESULTS OF VERIFICATION"
+  },
+  {
+    "task_id": "VE-3.3",
+    "activity_id": "VE-3",
+    "process_prefix": "VE",
+    "description": "Maintain traceability of the security aspects of verification.",
+    "activity_title": "MANAGE RESULTS OF VERIFICATION"
+  },
+  {
+    "task_id": "VE-3.4",
+    "activity_id": "VE-3",
+    "process_prefix": "VE",
+    "description": "Provide the security-relevant artifacts that have been selected for baselines.",
+    "activity_title": "MANAGE RESULTS OF VERIFICATION"
+  }
+]
