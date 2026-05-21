@@ -1,0 +1,9 @@
+term,definition,source_anchor,notes
+CVE id,"Common Vulnerabilities and Exposures id. In order to refer to a vulnerability, an id provided by MITRE is used. This id is unique for each public vulnerability. Website",https://security-team.debian.org/glossary.html#cve-id,
+DLA,A Security Advisory from the Debian Long Term Support team that affects older versions of Debian. Example DLA,https://security-team.debian.org/glossary.html#dla,
+DSA,An official Debian Security Advisory is called a DSA for short. Example DSA,https://security-team.debian.org/glossary.html#dsa,
+DTSA,"An official Debian Security Advisory for the testing suite (historic, no longer in use)",https://security-team.debian.org/glossary.html#dtsa,
+MITRE,"The MITRE Corporation, a US based not-for-profit company, best known for maintaining the CVE id system. Website",https://security-team.debian.org/glossary.html#mitre,
+NFU,Not For Us. This designation is placed on a CVE that does not directly affect Debian. More info on NFU,https://security-team.debian.org/glossary.html#nfu,
+NVD,"National Vulnerability Database, US government CVE repository. Website",https://security-team.debian.org/glossary.html#nvd,
+oss-security,"Open Source Software Security . Community for open source software security research, best known for its equally named mailing list. Website",https://security-team.debian.org/glossary.html#oss-security,

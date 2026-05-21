@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "HackerOne docs"
+    "notes": "HackerOne commercial help center on docs.hackerone.com (Intercom platform); no CC or open license. Reclassified from NOASSERTION after Phase 4c verification."
   },
   "links": {
     "wikipedia": "",
