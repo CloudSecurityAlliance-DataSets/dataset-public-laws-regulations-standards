@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/oecd.org/oecd-ai-glossary",
+  "name": "OECD.AI Glossary of Terms on AI",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "OECD.AI Glossary of Terms on AI",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "NOASSERTION",
+    "redistribution": "unknown",
+    "derivatives": "unknown",
+    "publicly_redistributable": false,
+    "license_text_url": "",
+    "notes": "OECD content; permissive"
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is oecd.ai (sibling domain to oecd.org). Verify namespace."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub created from glossary research sweep",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is oecd.ai (sibling domain to oecd.org). Verify namespace."
+}

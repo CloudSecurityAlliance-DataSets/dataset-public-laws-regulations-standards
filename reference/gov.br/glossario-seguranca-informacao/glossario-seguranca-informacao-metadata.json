@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/gov.br/glossario-seguranca-informacao",
+  "name": "Gloss\u00e1rio de Seguran\u00e7a da Informa\u00e7\u00e3o (GSI/PR Brazil)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "Gloss\u00e1rio de Seguran\u00e7a da Informa\u00e7\u00e3o (GSI/PR Brazil)",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "NOASSERTION",
+    "redistribution": "unknown",
+    "derivatives": "unknown",
+    "publicly_redistributable": false,
+    "license_text_url": "",
+    "notes": "Brazilian govt \u2014 generally public domain"
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/glossario-de-seguranca-da-informacao-1",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub created from glossary research sweep",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+}
