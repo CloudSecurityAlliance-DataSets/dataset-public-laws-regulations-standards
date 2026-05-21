@@ -13,7 +13,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. § 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
+    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
     "source": "https://www.whitehouse.gov/",
@@ -26,5 +26,10 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T15:58:11Z",
+    "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
+    "notes": "Structured US NSM-AI Framework into <dirname>-sections.{csv,json}. 14 headings captured; 4 with Pillar identifiers (I-IV). The sub-section headings beneath each Pillar are present as rows with empty section_id (no numerical anchor in the source). Columns: depth, section_id, section_name, id_kind, parent_id, body. Reusable parser at tools-resources/utils/parse_regulatory_sections.py."
+  }
 }
