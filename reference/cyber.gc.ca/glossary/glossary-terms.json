@@ -1,0 +1,716 @@
+[
+  {
+    "term": "Access control",
+    "definition": "Certifying that only authorized access is given to assets (both physical and electronic). For physical assets, access control may be required for a facility or restricted area (e.g. screening visitors and materials at entry points, escorting visitors). For IT assets, access controls may be required for networks, systems, and information (e.g. restricting users on specific systems, limiting account privileges).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#access-control",
+    "notes": ""
+  },
+  {
+    "term": "Accountable COMSEC material",
+    "definition": "COMSEC material requiring control and accountability within the National COMSEC Material Control System (NCMCS) as directed by its Accounting Legend Code (ALC). Control and accountability is required because transfer or disclosure of this material could be detrimental to Canada's national interest. Also known as ACM.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#accountable-comsec-material",
+    "notes": ""
+  },
+  {
+    "term": "Administrative privileges",
+    "definition": "The permissions that allow a user to perform certain functions on a system or network, such as installing software and changing configuration settings.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#administrative-privileges",
+    "notes": ""
+  },
+  {
+    "term": "Allow list",
+    "definition": "An access control list that identifies who or what is allowed access, in order to provide protection from harm.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#allow-list",
+    "notes": ""
+  },
+  {
+    "term": "Anti-virus software",
+    "definition": "Software that defends against viruses, Trojans, worms, and spyware. Anti-virus software uses a scanner to identify programs that may be malicious. Scanners can detect known viruses, previously unknown viruses, and suspicious files.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#anti-virus-software",
+    "notes": ""
+  },
+  {
+    "term": "Artificial intelligence",
+    "definition": "A subfield of computer science that develops intelligent computer programs to behave in a way that would be considered intelligent if observed in a human (e.g. solve problems, learn from experience, understand language, interpret visual scenes).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#artificial-intelligence",
+    "notes": ""
+  },
+  {
+    "term": "Asymmetric key",
+    "definition": "Two related keys (a public key and a private key) that perform complementary operations, such as encrypt and decrypt or generate signatures.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#asymmetric-key",
+    "notes": ""
+  },
+  {
+    "term": "Authentication",
+    "definition": "A process or measure used to verify a users identity.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#authentication",
+    "notes": ""
+  },
+  {
+    "term": "Authorization",
+    "definition": "Access privileges granted to a user, program, or process.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#authorization",
+    "notes": ""
+  },
+  {
+    "term": "Availability",
+    "definition": "The ability for the right people to access the right information or systems when needed. Availability is applied to information assets, software, and hardware (infrastructure and its components). Implied in its definition is that availability includes the protection of assets from unauthorized access and compromise.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#availability",
+    "notes": ""
+  },
+  {
+    "term": "Backdoor",
+    "definition": "An undocumented, private, or less-detectable way of gaining remote access to a computer, bypassing authentication measures, and obtaining access to plaintext.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#backdoor",
+    "notes": ""
+  },
+  {
+    "term": "Baseline security controls",
+    "definition": "The minimum mandatory protective mechanisms outlined by Treasury Board of Canada Secretariat (TBS) policy instruments to be used in interdepartmental IT security functions and information systems.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#baseline-security-controls",
+    "notes": ""
+  },
+  {
+    "term": "Beaconing",
+    "definition": "A common technique in which a threat actor uses malware to connect infrastructure to another system or network, bypassing firewall restrictions on incoming traffic.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#beaconing",
+    "notes": ""
+  },
+  {
+    "term": "Blockchain",
+    "definition": "A blockchain is a write-only database, dispersed over a network of interconnected computers, that uses cryptography to create a tamper-proof public record of transactions. Because blockchain technology is transparent, secure and decentralized, a central actor cannot alter the public record.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#blockchain",
+    "notes": ""
+  },
+  {
+    "term": "Boundary interface",
+    "definition": "A network-layer interface between two zone interface points (ZIPs).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#boundary-interface",
+    "notes": ""
+  },
+  {
+    "term": "Browser-based exploitation",
+    "definition": "A misuse of legitimate browser components to execute malicious code. Simply visiting a website with hidden malicious code can result in exploitation.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#browser-based-exploitation",
+    "notes": ""
+  },
+  {
+    "term": "Ciphertext",
+    "definition": "A cryptography term for encrypted information.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#ciphertext",
+    "notes": ""
+  },
+  {
+    "term": "Classified information",
+    "definition": "A Government of Canada label for specific types of sensitive data that, if compromised, could cause harm to the national interest (e.g. national defence, relationships with other countries, economic interests).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#classified-information",
+    "notes": ""
+  },
+  {
+    "term": "Clearing",
+    "definition": "Applying logical techniques to sanitize data in all user-addressable storage locations to protect against simple ways of recovering data. This is done by overwriting data with a new value, or if overwriting is not supported, by using a menu option to reset the device to factory settings.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#clearing",
+    "notes": ""
+  },
+  {
+    "term": "Cloud computing",
+    "definition": "The use of remote servers hosted on the Internet. Cloud computing allows users to access a shared pool of computing resources (such as networks, servers, applications, or services) on demand and from anywhere. Users access these resources via a computer network instead of storing and maintaining all resources on their local computer.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cloud-computing",
+    "notes": ""
+  },
+  {
+    "term": "Code injection",
+    "definition": "Introducing malicious code into a computer program by taking advantage of a flaw in the program, or in the way it interprets data input by users.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#code-injection",
+    "notes": ""
+  },
+  {
+    "term": "Compromise",
+    "definition": "The intentional or unintentional disclosure of information, which adversely impacts its confidentiality, integrity, or availability.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#compromise",
+    "notes": ""
+  },
+  {
+    "term": "Compromising emanations",
+    "definition": "Unintentional signals that, if intercepted and analyzed, would disclose the information emanating from any information processing system or equipment.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#compromising-emanations",
+    "notes": ""
+  },
+  {
+    "term": "COMSEC",
+    "definition": "Communications security (COMSEC) is the discipline of preventing unauthorized access to telecommunications information in readable form, while still delivering the information to the intended recipients. COMSEC is comprised of multiple disciplines such as Cryptographic security, EMSEC (Emission security), Transmission security, and Physical security.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#comsec",
+    "notes": ""
+  },
+  {
+    "term": "COMSEC account custodian",
+    "definition": "The person responsible for the receipt, storage, access, distribution, accounting, disposal, and destruction of all COMSEC material charged to the COMSEC account. The custodian is appointed by the organization's COMSEC authority.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#comsec-account-custodian",
+    "notes": ""
+  },
+  {
+    "term": "COMSEC incident",
+    "definition": "An occurrence that threatens, or potentially threatens, the security of classified or protected Government of Canada information as it is being stored, processed, transmitted, or received.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#comsec-incident",
+    "notes": ""
+  },
+  {
+    "term": "COMSEC material",
+    "definition": "An item designed to secure or authenticate telecommunications information (e.g. cryptographic keys, equipment, modules, devices, documents, hardware, firmware, or software that includes or describes cryptographic logic and other items that perform COMSEC functions).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#comsec-material",
+    "notes": ""
+  },
+  {
+    "term": "Confidentiality",
+    "definition": "The ability to protect sensitive information from being accessed by unauthorized people.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#confidentiality",
+    "notes": ""
+  },
+  {
+    "term": "Controlled cryptographic item",
+    "definition": "An unclassified secure telecommunications or information system, or any associated cryptographic component, governed by a set of control requirements in the National COMSEC Material Control System (NCMCS). The type of item is labelled in the NCMCS as a \"controlled cryptographic item\" or \"CCI\".",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#controlled-cryptographic-item",
+    "notes": ""
+  },
+  {
+    "term": "Critical infrastructure",
+    "definition": "Processes, systems, facilities, technologies, networks, assets, and services essential to the health, safety, security, or economic well-being of Canadians and the effective functioning of government. Critical infrastructure can be stand-alone or interconnected and interdependent within and across provinces, territories, and national borders. Disruptions of critical infrastructure could result in catastrophic loss of life, adverse economic effects, and significant harm to public confidence.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#critical-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Cryptographic key",
+    "definition": "A numerical value used in cryptographic processes, such as encryption, decryption, signature generation, and signature verification.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cryptographic-key",
+    "notes": ""
+  },
+  {
+    "term": "Cryptographic material",
+    "definition": "All material, including documents, devices, and equipment, that contains cryptographic information and is essential to encrypting, decrypting, or authenticating communications.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cryptographic-material",
+    "notes": ""
+  },
+  {
+    "term": "Cryptography",
+    "definition": "The study of techniques used to make plain information unreadable, as well as to convert it back to a readable form.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cryptography",
+    "notes": ""
+  },
+  {
+    "term": "Cyber attack",
+    "definition": "The use of electronic means to interrupt, manipulate, destroy, or gain unauthorized access to a computer system, network, or device.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cyber-attack",
+    "notes": ""
+  },
+  {
+    "term": "Cyber incident",
+    "definition": "Any unauthorized attempt, whether successful or not, to gain access to, modify, destroy, delete, or render unavailable any computer network or system resource.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cyber-incident",
+    "notes": ""
+  },
+  {
+    "term": "Cyber security",
+    "definition": "The protection of digital information, as well as the integrity of the infrastructure housing and transmitting digital information. More specifically, cyber security includes the body of technologies, processes, practices and response and mitigation measures designed to protect networks, computers, programs and data from attack, damage or unauthorized access so as to ensure confidentiality, integrity and availability.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cyber-security",
+    "notes": ""
+  },
+  {
+    "term": "Cyber threat",
+    "definition": "A threat actor, using the internet, who takes advantage of a known vulnerability in a product for the purposes of exploiting a network and the information the network carries.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#cyber-threat",
+    "notes": ""
+  },
+  {
+    "term": "DDOS",
+    "definition": "See Distributed denial-of-service attack .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#ddos",
+    "notes": ""
+  },
+  {
+    "term": "Declassify",
+    "definition": "An administrative process to remove classification markings, security designations, and handling conditions when information is no longer considered to be sensitive.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#declassify",
+    "notes": ""
+  },
+  {
+    "term": "Defence-in-depth",
+    "definition": "An IT security concept (also known as the castle approach) in which multiple layers of security are used to protect the integrity of information. These layers can include anti-virus and anti-spyware software, firewalls, hierarchical passwords, intrusion detection, and biometric identification.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#defence-in-depth",
+    "notes": ""
+  },
+  {
+    "term": "Demilitarized zone",
+    "definition": "Also refered to as a perimeter network, the (Demilitarized Zone) DMZ is a less-secure portion of a network, which is located between any two policy-enforcing components of the network (e.g. between the internet and internal networks). An organization uses a DMZ to host its own internet services without risking unauthorized access to its private network.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#demilitarized-zone",
+    "notes": ""
+  },
+  {
+    "term": "Denial-of-Service attack",
+    "definition": "Any activity that makes a service unavailable for use by legitimate users, or that delays system operations and functions.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#denial-of-service-attack",
+    "notes": ""
+  },
+  {
+    "term": "Deny list",
+    "definition": "An access control list used to deny specific items (e.g. applications, email addresses, domain names, IP addresses) known to be harmful.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#deny-list",
+    "notes": ""
+  },
+  {
+    "term": "Departmental security control profile",
+    "definition": "A set of security controls that establishes an organization's minimum mandatory IT security requirements.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#departmental-security-control-profile",
+    "notes": ""
+  },
+  {
+    "term": "Departmental security officer",
+    "definition": "The individual responsible for a department’s or organization’s security program.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#departmental-security-officer",
+    "notes": ""
+  },
+  {
+    "term": "Departmental security requirement",
+    "definition": "Any security requirements prescribed by senior officials of a department that applies generally to its information systems.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#departmental-security-requirement",
+    "notes": ""
+  },
+  {
+    "term": "Detection",
+    "definition": "The monitoring and analyzing of system events in order to identify unauthorized attempts to access system resources.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#detection",
+    "notes": ""
+  },
+  {
+    "term": "Digital signature",
+    "definition": "A cryptologic mechanism used to validate an item's (e.g. document, software) authenticity and integrity.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#digital-signature",
+    "notes": ""
+  },
+  {
+    "term": "Distributed Denial-of-Service attack",
+    "definition": "An attack in which multiple compromised systems are used to attack a single target. The flood of incoming messages to the target system forces it to shut down and denies service to legitimate users.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#distributed-denial-of-service-attack",
+    "notes": ""
+  },
+  {
+    "term": "DMZ",
+    "definition": "See demilitarized zone .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#dmz",
+    "notes": ""
+  },
+  {
+    "term": "DOS",
+    "definition": "See denial-of-service attack .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#dos",
+    "notes": ""
+  },
+  {
+    "term": "Edge interface",
+    "definition": "A network-layer service interface point that attaches an end system, internal boundary system, or zone interface point to a zone internetwork.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#edge-interface",
+    "notes": ""
+  },
+  {
+    "term": "Emission security",
+    "definition": "The measures taken to reduce the risk of unauthorized interception of unintentional emissions from information technology equipment that processes classified data.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#emission-security",
+    "notes": ""
+  },
+  {
+    "term": "EMSEC",
+    "definition": "See emission security .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#emsec",
+    "notes": ""
+  },
+  {
+    "term": "Encryption",
+    "definition": "Converting information from one form to another to hide its content and prevent unauthorized access.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#encryption",
+    "notes": ""
+  },
+  {
+    "term": "End-system",
+    "definition": "A network connected computer that, for a communication, is the end source or destination of a communication.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#end-system",
+    "notes": ""
+  },
+  {
+    "term": "End-to-end encryption",
+    "definition": "A confidentiality service provided by encrypting data at the source end-system, with corresponding decryption occurring only at the destination end-system.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#end-to-end-encryption",
+    "notes": ""
+  },
+  {
+    "term": "End-user systems",
+    "definition": "End systems for human use, such as a desktop with a personal computer (display, keyboard, mouse, and operating system).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#end-user-systems",
+    "notes": ""
+  },
+  {
+    "term": "Equipment emanation",
+    "definition": "An electric field radiation that comes from the equipment as a result of processing or generating information.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#equipment-emanation",
+    "notes": ""
+  },
+  {
+    "term": "Exfiltration",
+    "definition": "The unauthorized removal of data or files from a system by an intruder.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#exfiltration",
+    "notes": ""
+  },
+  {
+    "term": "Firewall",
+    "definition": "A security barrier placed between two networks that controls the amount and kinds of traffic that may pass between the two. This protects local system resources from being accessed from the outside.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#firewall",
+    "notes": ""
+  },
+  {
+    "term": "Gateway",
+    "definition": "An intermediate system that is the interface between two computer networks. A gateway can be a server, firewall, router, or other device that enables data to flow through a network.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#gateway",
+    "notes": ""
+  },
+  {
+    "term": "Guard",
+    "definition": "A gateway that is placed between two networks, computers, or other information systems that operate at different security levels. The guard mediates all information transfers between the two levels so that no sensitive information from the higher security level is disclosed to the lower level. It also protects the integrity of data on the higher level.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#guard",
+    "notes": ""
+  },
+  {
+    "term": "Hacker",
+    "definition": "Someone who uses computers and the internet to access computers and servers without permission.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#hacker",
+    "notes": ""
+  },
+  {
+    "term": "Injury",
+    "definition": "The damage to the national interests and non-national interests that business activities serve resulting from the compromise of IT assets.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#injury",
+    "notes": ""
+  },
+  {
+    "term": "Injury level",
+    "definition": "The severity of an injury, which is defined in five levels: very low, low, medium, high, very high.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#injury-level",
+    "notes": ""
+  },
+  {
+    "term": "Integrity",
+    "definition": "The ability to protect information from being modified or deleted unintentionally or when it’s not supposed to be. Integrity helps determine that information is what it claims to be. Integrity also applies to business processes, software application logic, hardware, and personnel.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#integrity",
+    "notes": ""
+  },
+  {
+    "term": "Intellectual property",
+    "definition": "Legal rights that result from intellectual activity in the industrial, scientific, literary, and artistic fields. Examples of types of intellectual property include an author's copyright, trademark, and patents.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#intellectual-property",
+    "notes": ""
+  },
+  {
+    "term": "Interface",
+    "definition": "A boundary across which two systems communicate. An interface might be a hardware connector used to link to other devices, or it might be a convention used to allow communication between two software systems.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#interface",
+    "notes": ""
+  },
+  {
+    "term": "Internet-of-things",
+    "definition": "The network of everyday web-enabled devices that are capable of connecting and exchanging information between each other.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#internet-of-things",
+    "notes": ""
+  },
+  {
+    "term": "Intrusion detection",
+    "definition": "A security service that monitors and analyzes network or system events to warn of unauthorized access attempts. The findings are provided in real-time (or near real-time).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#intrusion-detection",
+    "notes": ""
+  },
+  {
+    "term": "IT asset",
+    "definition": "The components of an information system, including business applications, data, hardware, and software.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#it-asset",
+    "notes": ""
+  },
+  {
+    "term": "IT threat",
+    "definition": "Any potential event or act (deliberate or accidental) or natural hazard that could compromise IT assets.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#it-threat",
+    "notes": ""
+  },
+  {
+    "term": "Key management",
+    "definition": "The procedures and mechanisms for generating, disseminating, replacing, storing, archiving, and destroying cryptographic keys.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#key-management",
+    "notes": ""
+  },
+  {
+    "term": "Keystroke logger",
+    "definition": "Software or hardware designed to capture a user's keystrokes on a compromised system. The keystrokes are stored or transmitted so that they may be used to collect valued information.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#keystroke-logger",
+    "notes": ""
+  },
+  {
+    "term": "Least privilege",
+    "definition": "The principle of giving an individual only the set of privileges that are essential to performing authorized tasks. This principle limits the damage that can result from the accidental, incorrect, or unauthorized use of an information system.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#least-privilege",
+    "notes": ""
+  },
+  {
+    "term": "Malware",
+    "definition": "Malicious software designed to infiltrate or damage a computer system, without the owner's consent. Common forms of malware include computer viruses, worms, Trojans, spyware, and adware.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#malware",
+    "notes": ""
+  },
+  {
+    "term": "Management security control",
+    "definition": "A security control that focuses on the management of IT security and IT security risks.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#management-security-control",
+    "notes": ""
+  },
+  {
+    "term": "Multi-factor authentication",
+    "definition": "A tactic that can add an additional layer of security to your devices and account. Multi-factor authentication requires additional verification (like a PIN or fingerprint) to access your devices or accounts. Two-factor authentication is a type of multi-factor authentication.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#multi-factor-authentication",
+    "notes": ""
+  },
+  {
+    "term": "Network security zone",
+    "definition": "A networking environment with a well-defined boundary, a Network Security Zone Authority, and a standard level of weakness to network threats. Types of zones are distinguished by security requirements for interfaces, traffic control, data protection, host configuration control, and network configuration control.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#network-security-zone",
+    "notes": ""
+  },
+  {
+    "term": "Node",
+    "definition": "A connection point that can receive, create, store, or send data along distributed network routes. Each network node, whether it's an endpoint for data transmissions or a redistribution point, has either a programmed or engineered capability to recognize, process, and forward transmissions to other network nodes.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#node",
+    "notes": ""
+  },
+  {
+    "term": "Operational security control",
+    "definition": "A security control primarily implemented and executed by people and typically supported by the use of technology (e.g. supporting software).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#operational-security-control",
+    "notes": ""
+  },
+  {
+    "term": "Overwrite",
+    "definition": "To write or copy new data over existing data. The data that was overwritten cannot be retrieved.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#overwrite",
+    "notes": ""
+  },
+  {
+    "term": "Perimeter",
+    "definition": "The boundary between two network security zones through which traffic is routed.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#perimeter",
+    "notes": ""
+  },
+  {
+    "term": "Phishing",
+    "definition": "An attempt by a third party to solicit confidential information from an individual, group, or organization by mimicking or spoofing a specific, usually well-known brand, usually for financial gain. Phishers attempt to trick users into disclosing personal data, such as credit card numbers, online banking credentials, and other sensitive information, which they may then use to commit fraudulent acts.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#phishing",
+    "notes": ""
+  },
+  {
+    "term": "Plaintext",
+    "definition": "Unencrypted information.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#plaintext",
+    "notes": ""
+  },
+  {
+    "term": "Point of presence",
+    "definition": "An access point, location, or facility at which two or more different networks or communication devices connect with each other and the internet. Also referred to as PoP.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#point-of-presence",
+    "notes": ""
+  },
+  {
+    "term": "Quantum computing",
+    "definition": "A quantum computer can process a vast number of calculations simultaneously. Whereas a classical computer works with ones and zeros, a quantum computer will have the advantage of using ones, zeros and “superpositions” of ones and zeros. Certain difficult tasks that have long been thought impossible for classical computers will be achieved quickly and efficiently by a quantum computer.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#quantum-computing",
+    "notes": ""
+  },
+  {
+    "term": "Ransomware",
+    "definition": "A type of malware that denies a user's access to a system or data until a sum of money is paid.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#ransomware",
+    "notes": ""
+  },
+  {
+    "term": "Reconnaissance",
+    "definition": "Activity conducted by a threat actor to obtain information and identify vulnerabilities to facilitate future compromise(s).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#reconnaissance",
+    "notes": ""
+  },
+  {
+    "term": "Redaction",
+    "definition": "A form of data sanitization for selected data-file elements (not to be confused with media sanitization, which addresses all data on media).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#redaction",
+    "notes": ""
+  },
+  {
+    "term": "Remote exploitation",
+    "definition": "Exploitation of a victim machine by sending specially crafted commands from a remote network to a service running on that machine to manipulate it for the purpose of gaining access or information.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#remote-exploitation",
+    "notes": ""
+  },
+  {
+    "term": "Residual risk",
+    "definition": "The likelihood and impact of a threat that remains after security controls are implemented.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#residual-risk",
+    "notes": ""
+  },
+  {
+    "term": "Residual risk assessment",
+    "definition": "An assessment, which is performed at the end of the system development life cycle, to determine the remaining likelihood and impact of a threat.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#residual-risk-assessment",
+    "notes": ""
+  },
+  {
+    "term": "Residual risk level",
+    "definition": "The degree of residual risk (e.g. high, medium, low).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#residual-risk-level",
+    "notes": ""
+  },
+  {
+    "term": "Risk level",
+    "definition": "The degree of risk (e.g. high, medium, low).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#risk-level",
+    "notes": ""
+  },
+  {
+    "term": "Sanitize",
+    "definition": "Sanitization is a process through which data is irreversibly removed from media. The storage media is left in a re-usable condition in accordance with IT security policy, but the data that was previously on it cannot be recovered or accessed.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#sanitize",
+    "notes": ""
+  },
+  {
+    "term": "Secure destruction",
+    "definition": "The destruction of information assets through one or more approved methods, carried out alone or in combination with erasing, to ensure that information cannot be retrieved.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#secure-destruction",
+    "notes": ""
+  },
+  {
+    "term": "Secure erasure",
+    "definition": "A digital sanitization process that uses tools and industry-standard commands (e.g. ATA security erase) to erase all accessible memory locations of a data storage device.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#secure-erasure",
+    "notes": ""
+  },
+  {
+    "term": "Security control",
+    "definition": "A management, operational, or technical high-level security requirement needed for an information system to protect the confidentiality, integrity, and availability of its IT assets. Security controls can be applied by using a variety of security solutions that can include security products, security policies, security practices, and security procedures.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#security-control",
+    "notes": ""
+  },
+  {
+    "term": "Separation of duties",
+    "definition": "A security principle stating that sensitive or critical responsibilities should be shared by multiple entities (e.g. staff or processes), rather than a single entity, to prevent a security breach.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#separation-of-duties",
+    "notes": ""
+  },
+  {
+    "term": "Social engineering",
+    "definition": "The practice of obtaining confidential information by manipulation of legitimate users. A social engineer will commonly use the telephone or internet to trick people into revealing sensitive information. For example, phishing is a type of social engineering.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#social-engineering",
+    "notes": ""
+  },
+  {
+    "term": "Spear phishing",
+    "definition": "The use of spoofed emails to persuade people within an organization to reveal their usernames or passwords. Unlike phishing, which involves mass mailing, spear phishing is small-scale and well targeted.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#spear-phishing",
+    "notes": ""
+  },
+  {
+    "term": "Symmetric key",
+    "definition": "A cryptographic key used to perform the cryptographic operation and its inverse operation (e.g. encrypt and decrypt, create a message authentication code and verify the code).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#symmetric-key",
+    "notes": ""
+  },
+  {
+    "term": "TEMPEST",
+    "definition": "The name for specifications and standards for limiting the strength of electromagnetic emanations from electrical and electronic equipment which lead to reduced vulnerability to eavesdropping. This term originated in the U.S. Department of Defense.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#tempest",
+    "notes": ""
+  },
+  {
+    "term": "Threat and risk assessment",
+    "definition": "A process of identifying system assets and how these assets can be compromised, assessing the level of risk that threats pose to assets, and recommending security measures to mitigate threats.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#threat-and-risk-assessment",
+    "notes": ""
+  },
+  {
+    "term": "Threat event",
+    "definition": "An actual incident in which a threat agent exploits a vulnerability of an IT asset of value.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#threat-event",
+    "notes": ""
+  },
+  {
+    "term": "TRA",
+    "definition": "See threat and risk assessment .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#tra",
+    "notes": ""
+  },
+  {
+    "term": "Trojan",
+    "definition": "A malicious program that is disguised as or embedded within legitimate software.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#trojan",
+    "notes": ""
+  },
+  {
+    "term": "Two-factor authentication",
+    "definition": "A type of multi-factor authentication used to confirm the identity of a user. Authentication is validated by using a combination of two different factors including: something you know (e.g. a password), something you have (e.g. a physical token), or something you are (a biometric).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#two-factor-authentication",
+    "notes": ""
+  },
+  {
+    "term": "Two-step verification",
+    "definition": "A process requiring two different authentication methods, which are applied one after the other, to access a specific device or system. Unlike two-factor authentication, two-step verification can be of the same type (e.g. two passwords, two physical keys, or two biometrics). Also known as Two-step authentication.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#two-step-verification",
+    "notes": ""
+  },
+  {
+    "term": "Unpatched application",
+    "definition": "A supported application that does not have the latest security updates and/or patches installed.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#unpatched-application",
+    "notes": ""
+  },
+  {
+    "term": "Virtual private network",
+    "definition": "A private communications network usually used within a company, or by several different companies or organisations to communicate over a wider network. VPN communications are typically encrypted or encoded to protect the traffic from other users on the public network carrying the VPN.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#virtual-private-network",
+    "notes": ""
+  },
+  {
+    "term": "Virus",
+    "definition": "A computer program that can spread by making copies of itself. Computer viruses spread from one computer to another, usually without the knowledge of the user. Viruses can have harmful effects, ranging from displaying irritating messages to stealing data or giving other users control over the infected computer.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#virus",
+    "notes": ""
+  },
+  {
+    "term": "VPN",
+    "definition": "See virtual private network .",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#vpn",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability",
+    "definition": "A flaw or weakness in the design or implementation of an information system or its environment that could be exploited to adversely affect an organization's assets or operations.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#vulnerability",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability assessment",
+    "definition": "A process to determine existing weaknesses or gaps in an information system's protection efforts.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#vulnerability-assessment",
+    "notes": ""
+  },
+  {
+    "term": "Worm",
+    "definition": "A malicious program that executes independently and self-replicates, usually through network connections, to cause damage (e.g. deleting files, sending documents via email, or taking up bandwidth).",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#worm",
+    "notes": ""
+  },
+  {
+    "term": "Zero day",
+    "definition": "A zero-day vulnerability is a software vulnerability that is not yet known by the vendor, and therefore has not been mitigated. A zero-day exploit is an attack directed at a zero-day vulnerability.",
+    "source_anchor": "https://www.cyber.gc.ca/en/glossary#zero-day",
+    "notes": ""
+  }
+]
