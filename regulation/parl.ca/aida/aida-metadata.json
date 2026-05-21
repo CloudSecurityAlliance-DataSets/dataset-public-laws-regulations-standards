@@ -18,7 +18,8 @@
   "links": {
     "source": "https://www.parl.ca/legisinfo/en/bill/44-1/c-27",
     "csaLocation": "",
-    "source_research_note": "Canada's AI and Data Act (AIDA), part of Bill C-27."
+    "source_research_note": "Canada's AI and Data Act (AIDA), part of Bill C-27.",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -32,5 +33,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the C-27 bill landing page from parl.ca/legisinfo. 355 lines covering AIDA's bill journey. AIDA-specific text needs targeted acquisition from the bill text endpoint."
   }
 }

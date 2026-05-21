@@ -21,7 +21,9 @@
   "links": {
     "source": "https://www.pipc.go.kr/eng/user/lgp/law/personalInfoProtectionLaw.do",
     "csaLocation": "",
-    "source_research_note": "Personal Information Protection Act (PIPA), South Korea \u2014 Personal Information Protection Commission (PIPC)."
+    "source_research_note": "Personal Information Protection Act (PIPA), South Korea \u2014 Personal Information Protection Commission (PIPC).",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 000 from pipc.go.kr \u2014 TLS/network issue or geo-block. Try the English PIPA text mirror at koreanlawtranslation.go.kr."
   },
   "lifecycle": {
     "published": "",

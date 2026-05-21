@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.congress.gov/bill/117th-congress/house-bill/4346/text",
     "csaLocation": "",
-    "source_research_note": "CHIPS and Science Act of 2022 \u2014 Public Law 117-167."
+    "source_research_note": "CHIPS and Science Act of 2022 \u2014 Public Law 117-167.",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 403 from congress.gov bill text endpoint \u2014 bot-blocked. Try govinfo.gov for PL 117-167 PDF."
   },
   "lifecycle": {
     "active": true,

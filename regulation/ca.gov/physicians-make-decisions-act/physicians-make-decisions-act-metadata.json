@@ -18,7 +18,8 @@
   "links": {
     "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1120",
     "csaLocation": "",
-    "source_research_note": "California Physicians Make Decisions Act \u2014 SB-1120 (2024)."
+    "source_research_note": "California Physicians Make Decisions Act \u2014 SB-1120 (2024).",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -31,5 +32,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the SB-1120 bill landing page from leginfo.legislature.ca.gov. 788 lines. The actual bill text is at the 'Text' link on the page \u2014 a follow-up acquisition could pull it from the billTextClient.xhtml endpoint."
   }
 }

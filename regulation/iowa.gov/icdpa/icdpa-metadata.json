@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.legis.iowa.gov/legislation/billTracking/billDetail?ga=89&billName=SF262",
     "csaLocation": "",
-    "source_research_note": "Iowa Consumer Data Protection Act \u2014 SF262 (2023)."
+    "source_research_note": "Iowa Consumer Data Protection Act \u2014 SF262 (2023).",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 404 from legis.iowa.gov for billName=SF262 \u2014 URL convention may have changed. Try iga.in.gov or legiscan.com."
   },
   "lifecycle": {
     "active": true,

@@ -18,7 +18,8 @@
   "links": {
     "source": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
     "csaLocation": "",
-    "source_research_note": "NYC Local Law 144 (2021) \u2014 Automated Employment Decision Tools."
+    "source_research_note": "NYC Local Law 144 (2021) \u2014 Automated Employment Decision Tools.",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -31,5 +32,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired NYC DCA's official Automated Employment Decision Tools page. 106 lines with substantive content describing Local Law 144's bias-audit requirements, posting requirements, and employer obligations."
   }
 }

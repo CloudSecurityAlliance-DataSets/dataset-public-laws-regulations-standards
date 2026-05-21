@@ -18,7 +18,9 @@
   "links": {
     "source": "https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf",
     "csaLocation": "",
-    "source_research_note": "Montana Consumer Data Privacy Act \u2014 SB384 (2023)."
+    "source_research_note": "Montana Consumer Data Privacy Act \u2014 SB384 (2023).",
+    "acquisition_status": "pdf-deferred",
+    "acquisition_blocker": "PDF source leg.mt.gov/bills/2023/billpdf/SB0384.pdf \u2014 needs GPU-box marker run, not in-process curl."
   },
   "lifecycle": {
     "active": true,
