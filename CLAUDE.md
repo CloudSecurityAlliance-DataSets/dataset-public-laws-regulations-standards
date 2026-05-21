@@ -18,6 +18,15 @@ Originals (PDFs, XLSX, etc.) and full extraction history live in S3:
 
 This git repo holds only the **current extraction** of each document; S3 has all extractions ever produced.
 
+S3 layout mirrors the repo's SecID structure exactly: an original PDF at `control/nist.gov/800-53/r5/800-53-r5.pdf` in git lands at `s3://dataset-public-laws-regulations-standards/control/nist.gov/800-53/r5/800-53-r5.pdf` in S3. To populate or refresh the public bucket from local originals (idempotent — only uploads new/changed files):
+
+```bash
+tools-resources/utils/sync_originals_to_s3.sh             # do it
+tools-resources/utils/sync_originals_to_s3.sh --dry-run   # preview first
+```
+
+The script uses the `csa` AWS profile and only touches binary originals (`*.pdf`, `*.xlsx`, `*.docx`, `*.zip`, `*.tar.gz`) under SecID type roots. It does NOT upload markdown extractions or derived CSV/JSON — those live in git. It also skips `tools-resources/PROCESSED-US/` (working-copy DOCX files not at SecID-canonical paths; map and move those by hand when needed).
+
 Companion private repo: [`dataset-private-laws-regulations-standards`](https://github.com/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards) mirrors this same SecID layout for licensed/restricted sources (ISO, IEEE, members-only frameworks). Access is gated; content from those sources must not appear here.
 
 ## Directory Layout Mirrors SecID
