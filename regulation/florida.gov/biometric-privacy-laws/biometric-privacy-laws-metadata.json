@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.flsenate.gov/Laws/Statutes/2024/501.171",
     "csaLocation": "",
-    "source_research_note": "Florida lacks a single biometric privacy law; closest is FCMA \u00a7501.171 (personal-info breach). Multiple proposed bills exist (SB1670, etc.)."
+    "source_research_note": "Florida lacks a single biometric privacy law; closest is FCMA \u00a7501.171 (personal-info breach). Multiple proposed bills exist (SB1670, etc.).",
+    "acquisition_status": "needs-expansion",
+    "acquisition_blocker": "Florida lacks a single named biometric privacy law; the entry is a collection of related bills (SB1670, HB1153, etc.). Recommended: split into per-bill entries before acquisition, OR rename to florida.gov/biometric-privacy-bills/ and treat as a tracking page."
   },
   "lifecycle": {
     "active": true,

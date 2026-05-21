@@ -23,7 +23,9 @@
   "links": {
     "source": "https://www.nysenate.gov/legislation/laws/LAB/201-A",
     "csaLocation": "",
-    "source_research_note": "NY Labor Law \u00a7 201-A (lawful actions outside of employment / off-duty conduct). NB: directory name 'nybcl' is misleading \u2014 this is Labor Law, not Business Corporation Law."
+    "source_research_note": "NY Labor Law \u00a7 201-A (lawful actions outside of employment / off-duty conduct). NB: directory name 'nybcl' is misleading \u2014 this is Labor Law, not Business Corporation Law.",
+    "acquisition_status": "blocked",
+    "acquisition_blocker": "Same Cloudflare block as nysenate.gov in general. Plus: directory name 'nybcl' is misleading \u2014 the URL points at NY Labor Law \u00a7 201-A (off-duty conduct), not Business Corporation Law. Pending rename to ny.gov/labor-law-201-a/ in a follow-up."
   },
   "lifecycle": {
     "published": "",

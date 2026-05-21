@@ -18,7 +18,9 @@
   "links": {
     "source": "https://malegislature.gov/Bills/Search?SearchTerms=artificial+intelligence",
     "csaLocation": "",
-    "source_research_note": "Massachusetts AI legislation \u2014 multiple pending bills (H.83 et al). Tracking page on malegislature.gov."
+    "source_research_note": "Massachusetts AI legislation \u2014 multiple pending bills (H.83 et al). Tracking page on malegislature.gov.",
+    "acquisition_status": "needs-expansion",
+    "acquisition_blocker": "Mass legislature has many pending AI bills (H.83 et al). URL points at a search results page, not a single law. Recommended: split into per-bill entries once bills enact, OR rename to ai-bills-tracker."
   },
   "lifecycle": {
     "active": true,

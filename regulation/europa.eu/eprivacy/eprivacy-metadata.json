@@ -21,7 +21,9 @@
   "links": {
     "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0058",
     "csaLocation": "",
-    "source_research_note": "EU ePrivacy Directive 2002/58/EC. EUR-Lex URL \u2014 direct curl blocked; consider PDF download alternative or gdpr-info.eu."
+    "source_research_note": "EU ePrivacy Directive 2002/58/EC. EUR-Lex URL \u2014 direct curl blocked; consider PDF download alternative or gdpr-info.eu.",
+    "acquisition_status": "blocked",
+    "acquisition_blocker": "EUR-Lex returns HTTP 202 with empty body for both /eli/ and /CELEX/ URLs \u2014 async fetch protection. Alternatives: download the formal PDF via browser, or use gdpr-info.eu's ePrivacy mirror."
   },
   "lifecycle": {
     "published": "",
