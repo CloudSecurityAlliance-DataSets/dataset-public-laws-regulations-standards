@@ -18,7 +18,9 @@
   "links": {
     "source": "https://legis.delaware.gov/BillDetail/140197",
     "csaLocation": "",
-    "source_research_note": "Delaware Personal Data Privacy Act \u2014 HB154 (2024)."
+    "source_research_note": "Delaware Personal Data Privacy Act \u2014 HB154 (2024).",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "URL https://legis.delaware.gov/BillDetail/140197 returned 'Invalid Data Requested' error page. Bill detail ID may be wrong. Try Delaware Code online or a different bill-tracking URL."
   },
   "lifecycle": {
     "active": true,

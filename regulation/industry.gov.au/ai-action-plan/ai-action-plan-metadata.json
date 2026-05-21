@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.industry.gov.au/publications/australias-artificial-intelligence-action-plan",
     "csaLocation": "",
-    "source_research_note": "Australia's AI Action Plan (2021)."
+    "source_research_note": "Australia's AI Action Plan (2021).",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 000 \u2014 connection failure. TLS/network issue. Retry needed with different curl flags or alternative source."
   },
   "lifecycle": {
     "active": true,

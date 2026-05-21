@@ -18,7 +18,8 @@
   "links": {
     "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.503.htm",
     "csaLocation": "",
-    "source_research_note": "Texas Capture or Use of Biometric Identifier (CUBI) \u2014 Tex. Bus. & Com. Code \u00a7 503.001."
+    "source_research_note": "Texas Capture or Use of Biometric Identifier (CUBI) \u2014 Tex. Bus. & Com. Code \u00a7 503.001.",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -31,5 +32,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the Texas Bus. & Com. Code \u00a7 503.001 page from statutes.capitol.texas.gov. 167 lines but light on substantive content \u2014 the page mostly indexes the section. Follow-up: try the printable version at the page's print link."
   }
 }

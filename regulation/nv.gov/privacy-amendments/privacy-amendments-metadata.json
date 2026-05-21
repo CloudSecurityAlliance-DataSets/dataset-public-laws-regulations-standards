@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.leg.state.nv.us/NRS/NRS-603A.html",
     "csaLocation": "",
-    "source_research_note": "Nevada Security and Privacy of Personal Information \u2014 NRS Chapter 603A, includes the 2021/2023 privacy amendments (SB220 et seq.)."
+    "source_research_note": "Nevada Security and Privacy of Personal Information \u2014 NRS Chapter 603A, includes the 2021/2023 privacy amendments (SB220 et seq.).",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 403 from leg.state.nv.us \u2014 bot-blocked. Try alternative aggregator (law.justia.com)."
   },
   "lifecycle": {
     "active": true,

@@ -18,7 +18,9 @@
   "links": {
     "source": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57",
     "csaLocation": "",
-    "source_research_note": "Illinois Biometric Information Privacy Act (BIPA) \u2014 740 ILCS 14."
+    "source_research_note": "Illinois Biometric Information Privacy Act (BIPA) \u2014 740 ILCS 14.",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 000 from ilga.gov \u2014 connection failure. Retry; alternatively use ILCS 740/14 from law.justia.com."
   },
   "lifecycle": {
     "active": true,

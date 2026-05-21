@@ -18,7 +18,8 @@
   "links": {
     "source": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
     "csaLocation": "",
-    "source_research_note": "National Security Memorandum on Advancing US Leadership in AI (Biden, Oct 2024). Trump admin archived; URL points at Biden archive."
+    "source_research_note": "National Security Memorandum on Advancing US Leadership in AI (Biden, Oct 2024). Trump admin archived; URL points at Biden archive.",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -31,5 +32,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the full text of the National Security Memorandum on Advancing US Leadership in AI from the Biden-archive whitehouse.gov subdomain. 1430 lines of markdown including the memo text with 87 substantive paragraph anchors."
   }
 }

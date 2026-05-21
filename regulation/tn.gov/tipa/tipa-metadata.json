@@ -18,7 +18,9 @@
   "links": {
     "source": "https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf",
     "csaLocation": "",
-    "source_research_note": "Tennessee Information Protection Act (TIPA) \u2014 Public Chapter 1140 (2023)."
+    "source_research_note": "Tennessee Information Protection Act (TIPA) \u2014 Public Chapter 1140 (2023).",
+    "acquisition_status": "pdf-deferred",
+    "acquisition_blocker": "PDF source publications.tnsosfiles.com/acts/113/pub/pc1140.pdf \u2014 needs GPU-box marker run, not in-process curl."
   },
   "lifecycle": {
     "active": true,

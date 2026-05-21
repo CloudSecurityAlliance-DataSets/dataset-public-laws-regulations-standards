@@ -18,7 +18,8 @@
   "links": {
     "source": "https://app.leg.wa.gov/rcw/default.aspx?cite=19.373",
     "csaLocation": "",
-    "source_research_note": "Washington My Health My Data Act (2023) \u2014 RCW 19.373."
+    "source_research_note": "Washington My Health My Data Act (2023) \u2014 RCW 19.373.",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -31,5 +32,10 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the RCW 19.373 chapter index page (HTML table linking each section). 225 lines; the index lists every numbered section .010 through .800 with their captions. The per-section statute text would need an additional acquisition pass against the linked subsection URLs."
   }
 }
