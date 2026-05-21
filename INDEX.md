@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 55 | 110 | 41 | — | — | **206** |
+| `control/` | 56 | 109 | 41 | — | — | **206** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 6 | — | — | — | **6** |
 | `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **106** | **133** | **84** | **4** | **6** | **333** |
+| **Total** | **107** | **132** | **84** | **4** | **6** | **333** |
 
 ## control/
 
@@ -228,7 +228,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/openai.com/system-cards/` | metadata-only | 2 | `M······` | `secid:control/openai.com/system-cards` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
-| `control/pcisecuritystandards.org/pci-dss/v4.0/` | extracted | 342 (+339 imgs) | `MX····I` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
+| `control/pcisecuritystandards.org/pci-dss/v4.0/` | structured | 348 (+340 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
 | `control/pcisecuritystandards.org/pci-pin/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-pin` |
 | `control/pcisecuritystandards.org/secure-software-standard/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/secure-software-standard` |
