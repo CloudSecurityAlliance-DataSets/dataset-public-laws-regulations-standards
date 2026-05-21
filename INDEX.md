@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 479
+**Total documents indexed:** 478
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 61 | — | 41 | — | — | **102** |
+| `control/` | 60 | 22 | 19 | — | — | **101** |
 | `regulation/` | 47 | 10 | 16 | — | — | **73** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 33 | 113 | 132 | 4 | 6 | **288** |
-| **Total** | **153** | **123** | **193** | **4** | **6** | **479** |
+| **Total** | **152** | **145** | **171** | **4** | **6** | **478** |
 
 ## control/
 
@@ -34,16 +34,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 |---|---|---|---|---|
 | `control/aicpa.org/tsc/2017/` | structured | 11 (+2 imgs) | `MXJCSPI` | `secid:control/aicpa.org/tsc@2017` |
 | `control/aiuc.com/aiuc-1/` | structured | 5 | `M··CSP·` | `secid:control/aiuc.com/aiuc-1` |
-| `control/alignment.org/evals/` | metadata-only | 2 | `M······` | `secid:control/alignment.org/evals` |
-| `control/allenai.org/decodingtrust/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/decodingtrust` |
-| `control/allenai.org/realtoxicityprompts/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/realtoxicityprompts` |
-| `control/amazon.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-best-practices` |
-| `control/amazon.com/security-hub-standards/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-hub-standards` |
+| `control/alignment.org/evals/` | extracted | 3 | `MX·····` | `secid:control/alignment.org/evals` |
+| `control/allenai.org/decodingtrust/` | extracted | 3 | `MX·····` | `secid:control/allenai.org/decodingtrust` |
+| `control/allenai.org/realtoxicityprompts/` | extracted | 3 | `MX·····` | `secid:control/allenai.org/realtoxicityprompts` |
+| `control/amazon.com/security-best-practices/` | extracted | 3 | `MX·····` | `secid:control/amazon.com/security-best-practices` |
+| `control/amazon.com/security-hub-standards/` | extracted | 3 | `MX·····` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 14 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
-| `control/cloudsecurityalliance.org/aicm/0.9.0/` | structured | 21 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.9.0` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
@@ -51,11 +50,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.0.3/` | structured | 2 | `M··C···` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.0.3` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
-| `control/concordia-ai.com/frontier-ai-rmf/` | metadata-only | 2 | `M······` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
+| `control/concordia-ai.com/frontier-ai-rmf/` | extracted | 3 | `MX·····` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
 | `control/enx.com/isa/6/` | structured | 5 | `M··CSP·` | `secid:control/enx.com/isa@6` |
 | `control/equifax.com/controls-framework/` | metadata-only | 2 | `M······` | `secid:control/equifax.com/controls-framework` |
-| `control/europa.eu/altai/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/altai` |
-| `control/europa.eu/ethics-guidelines/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/ethics-guidelines` |
+| `control/europa.eu/altai/` | extracted | 3 | `MX·····` | `secid:control/europa.eu/altai` |
+| `control/europa.eu/ethics-guidelines/` | extracted | 3 | `MX·····` | `secid:control/europa.eu/ethics-guidelines` |
 | `control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet/` | structured | 9 | `M··C···` | `secid:control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet` |
 | `control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template/` | structured | 4 | `M··C···` | `secid:control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template` |
 | `control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4/` | structured | 6 | `M··C···` | `secid:control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4` |
@@ -75,25 +74,25 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls` |
 | `control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook/` | structured | 13 | `M··C···` | `secid:control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook` |
 | `control/fedramp.gov/ssp-appendix-m-integrated-inventory-workbook-template/` | structured | 4 | `M··C···` | `secid:control/fedramp.gov/ssp-appendix-m-integrated-inventory-workbook-template` |
-| `control/google.com/cloud-architecture-framework/` | metadata-only | 2 | `M······` | `secid:control/google.com/cloud-architecture-framework` |
-| `control/google.com/frontier-safety/` | metadata-only | 2 | `M······` | `secid:control/google.com/frontier-safety` |
-| `control/google.com/saif/` | metadata-only | 2 | `M······` | `secid:control/google.com/saif` |
-| `control/google.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/google.com/security-best-practices` |
+| `control/google.com/cloud-architecture-framework/` | extracted | 3 | `MX·····` | `secid:control/google.com/cloud-architecture-framework` |
+| `control/google.com/frontier-safety/` | extracted | 3 | `MX·····` | `secid:control/google.com/frontier-safety` |
+| `control/google.com/saif/` | extracted | 3 | `MX·····` | `secid:control/google.com/saif` |
+| `control/google.com/security-best-practices/` | extracted | 3 | `MX·····` | `secid:control/google.com/security-best-practices` |
 | `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
-| `control/ibm.com/ai-controls-framework/` | metadata-only | 2 | `M······` | `secid:control/ibm.com/ai-controls-framework` |
-| `control/imda.gov.sg/ai-verify/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/ai-verify` |
+| `control/ibm.com/ai-controls-framework/` | extracted | 3 | `MX·····` | `secid:control/ibm.com/ai-controls-framework` |
+| `control/imda.gov.sg/ai-verify/` | extracted | 3 | `MX·····` | `secid:control/imda.gov.sg/ai-verify` |
 | `control/imda.gov.sg/model-governance/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/model-governance` |
 | `control/isaca.org/cobit/` | metadata-only | 2 | `M······` | `secid:control/isaca.org/cobit` |
-| `control/jailbreakbench.github.io/benchmark/` | metadata-only | 2 | `M······` | `secid:control/jailbreakbench.github.io/benchmark` |
-| `control/meta.com/cyberseceval/` | metadata-only | 2 | `M······` | `secid:control/meta.com/cyberseceval` |
-| `control/meta.com/purple-llama/` | metadata-only | 2 | `M······` | `secid:control/meta.com/purple-llama` |
+| `control/jailbreakbench.github.io/benchmark/` | extracted | 3 | `MX·····` | `secid:control/jailbreakbench.github.io/benchmark` |
+| `control/meta.com/cyberseceval/` | extracted | 3 | `MX·····` | `secid:control/meta.com/cyberseceval` |
+| `control/meta.com/purple-llama/` | extracted | 3 | `MX·····` | `secid:control/meta.com/purple-llama` |
 | `control/metr.org/evaluations/` | metadata-only | 2 | `M······` | `secid:control/metr.org/evaluations` |
 | `control/metr.org/task-standard/` | metadata-only | 2 | `M······` | `secid:control/metr.org/task-standard` |
-| `control/microsoft.com/azure-security-benchmark/` | metadata-only | 2 | `M······` | `secid:control/microsoft.com/azure-security-benchmark` |
-| `control/microsoft.com/secure-score/` | metadata-only | 2 | `M······` | `secid:control/microsoft.com/secure-score` |
+| `control/microsoft.com/azure-security-benchmark/` | extracted | 3 | `MX·····` | `secid:control/microsoft.com/azure-security-benchmark` |
+| `control/microsoft.com/secure-score/` | extracted | 3 | `MX·····` | `secid:control/microsoft.com/secure-score` |
 | `control/mlcommons.org/ai-safety/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/ai-safety` |
-| `control/mlcommons.org/croissant/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/croissant` |
-| `control/mlcommons.org/mlperf/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/mlperf` |
+| `control/mlcommons.org/croissant/` | extracted | 3 | `MX·····` | `secid:control/mlcommons.org/croissant` |
+| `control/mlcommons.org/mlperf/` | extracted | 3 | `MX·····` | `secid:control/mlcommons.org/mlperf` |
 | `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
 | `control/nist.gov/800-161/r1/` | structured | 25 (+19 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-161@r1` |
 | `control/nist.gov/800-171/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-171` |
@@ -132,7 +131,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/safe.ai/wmdp/` | metadata-only | 2 | `M······` | `secid:control/safe.ai/wmdp` |
 | `control/securityforum.org/sogp/2022/` | metadata-only | 1 | `M······` | `secid:control/securityforum.org/sogp@2022` |
 | `control/swift.com/csp/` | metadata-only | 2 | `M······` | `secid:control/swift.com/csp` |
-| `control/tc260.org.cn/ai-safety-governance/` | metadata-only | 2 | `M······` | `secid:control/tc260.org.cn/ai-safety-governance` |
+| `control/tc260.org.cn/ai-safety-governance/` | extracted | 3 | `MX·····` | `secid:control/tc260.org.cn/ai-safety-governance` |
 | `control/trustllmbenchmark.github.io/benchmark/` | metadata-only | 2 | `M······` | `secid:control/trustllmbenchmark.github.io/benchmark` |
 
 ## regulation/
