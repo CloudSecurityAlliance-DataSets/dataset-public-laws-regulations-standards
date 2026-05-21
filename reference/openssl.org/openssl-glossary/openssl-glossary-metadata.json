@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
-    "publicly_redistributable": false,
-    "license_text_url": "",
-    "notes": "OpenSSL docs (Apache-2.0-style)"
+    "spdx": "Apache-2.0",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "notes": "OpenSSL documentation: Apache License 2.0 (Copyright 2020-2023 The OpenSSL Project Authors)."
   },
   "links": {
     "wikipedia": "",
@@ -42,7 +42,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Extracted via per-source script during glossary phase 4b (license recheck pass)."
   },
   "extraction_history": [
     {
@@ -53,7 +53,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "notes": "License reclassified from NOASSERTION to Apache-2.0 after Phase 4b page-by-page verification. Now fully extracted.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"

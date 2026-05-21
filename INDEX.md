@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 482
+**Total documents indexed:** 479
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
 | `control/` | 61 | — | 41 | — | — | **102** |
-| `regulation/` | 47 | — | 29 | — | — | **76** |
+| `regulation/` | 47 | 10 | 16 | — | — | **73** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 28 | 113 | 137 | 4 | 6 | **288** |
-| **Total** | **148** | **113** | **211** | **4** | **6** | **482** |
+| `reference/` | 33 | 113 | 132 | 4 | 6 | **288** |
+| **Total** | **153** | **123** | **193** | **4** | **6** | **479** |
 
 ## control/
 
@@ -144,10 +144,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:regulation/bsi.bund.de/ai-c4` |
 | `regulation/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:regulation/bsi.bund.de/c5` |
 | `regulation/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:regulation/bsi.bund.de/it-grundschutz` |
-| `regulation/ca.gov/caloppa/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/caloppa` |
+| `regulation/ca.gov/caloppa/` | extracted | 4 | `MX·····` | `secid:regulation/ca.gov/caloppa` |
 | `regulation/ca.gov/ccpa-cpra/` | structured | 6 | `M··CSP·` | `secid:regulation/ca.gov/ccpa-cpra` |
-| `regulation/ca.gov/physicians-make-decisions-act/` | metadata-only | 3 | `M······` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
-| `regulation/ca.gov/sb-1001-bot-disclosure/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
+| `regulation/ca.gov/physicians-make-decisions-act/` | extracted | 5 | `MX·····` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
+| `regulation/ca.gov/sb-1001-bot-disclosure/` | extracted | 4 | `MX·····` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
 | `regulation/ca.gov/sb-327-iot-security/` | structured | 5 | `M··CSP·` | `secid:regulation/ca.gov/sb-327-iot-security` |
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | structured | 7 | `MXJCS··` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | structured | 7 | `M··CSP·` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
@@ -156,7 +156,6 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/colorado.gov/cpa-privacy-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/cpa-privacy-act` |
 | `regulation/congress.gov/chips-act/` | metadata-only | 2 | `M······` | `secid:regulation/congress.gov/chips-act` |
 | `regulation/ct.gov/ctdpa/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/ct.gov/ctdpa` |
-| `regulation/delaware.gov/delaware-personal-data-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/delaware-personal-data-privacy-act` |
 | `regulation/delaware.gov/dpdpa/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/dpdpa` |
 | `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
 | `regulation/europa.eu/cra/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/cra` |
@@ -187,33 +186,31 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/in.gov/incdpa/` | metadata-only | 2 | `M······` | `secid:regulation/in.gov/incdpa` |
 | `regulation/industry.gov.au/ai-action-plan/` | metadata-only | 2 | `M······` | `secid:regulation/industry.gov.au/ai-action-plan` |
 | `regulation/iowa.gov/icdpa/` | metadata-only | 2 | `M······` | `secid:regulation/iowa.gov/icdpa` |
-| `regulation/iowa.gov/iowa-consumer-data-protection-act/` | metadata-only | 2 | `M······` | `secid:regulation/iowa.gov/iowa-consumer-data-protection-act` |
 | `regulation/maryland.gov/facial-recognition-laws/` | metadata-only | 2 | `M······` | `secid:regulation/maryland.gov/facial-recognition-laws` |
 | `regulation/mass.gov/ai-bills/` | metadata-only | 2 | `M······` | `secid:regulation/mass.gov/ai-bills` |
 | `regulation/meity.gov.in/dpdp/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/meity.gov.in/dpdp` |
 | `regulation/mt.gov/mcdpa/` | metadata-only | 2 | `M······` | `secid:regulation/mt.gov/mcdpa` |
 | `regulation/nv.gov/privacy-amendments/` | metadata-only | 2 | `M······` | `secid:regulation/nv.gov/privacy-amendments` |
-| `regulation/ny.gov/local-law-144-ai-hiring/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
+| `regulation/ny.gov/local-law-144-ai-hiring/` | extracted | 4 | `MX·····` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
 | `regulation/ny.gov/nybcl/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nybcl` |
 | `regulation/ny.gov/nydfs-500/` | structured | 13 (+2 imgs) | `MX·CSPI` | `secid:regulation/ny.gov/nydfs-500` |
 | `regulation/ny.gov/shield-act/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/shield-act` |
-| `regulation/oaic.gov.au/privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oaic.gov.au/privacy-act` |
+| `regulation/oaic.gov.au/privacy-act/` | extracted | 4 | `MX·····` | `secid:regulation/oaic.gov.au/privacy-act` |
 | `regulation/ontario.ca/phipa/` | structured | 5 | `M··CSP·` | `secid:regulation/ontario.ca/phipa` |
-| `regulation/oregon.gov/ocpa/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/ocpa` |
-| `regulation/oregon.gov/oregon-consumer-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/oregon-consumer-privacy-act` |
-| `regulation/parl.ca/aida/` | metadata-only | 3 | `M······` | `secid:regulation/parl.ca/aida` |
+| `regulation/oregon.gov/ocpa/` | extracted | 4 | `MX·····` | `secid:regulation/oregon.gov/ocpa` |
+| `regulation/parl.ca/aida/` | extracted | 5 | `MX·····` | `secid:regulation/parl.ca/aida` |
 | `regulation/pdpc.gov.sg/pdpa/` | structured | 7 | `M··CSP·` | `secid:regulation/pdpc.gov.sg/pdpa` |
 | `regulation/pipc.go.kr/pipa/` | metadata-only | 2 | `M······` | `secid:regulation/pipc.go.kr/pipa` |
 | `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
 | `regulation/ppc.go.jp/appi/` | structured | 8 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
 | `regulation/quebec.ca/loi-25/` | structured | 5 | `M··CSP·` | `secid:regulation/quebec.ca/loi-25` |
-| `regulation/texas.gov/cubi-biometric-privacy/` | metadata-only | 2 | `M······` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
+| `regulation/texas.gov/cubi-biometric-privacy/` | extracted | 4 | `MX·····` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
 | `regulation/tn.gov/tipa/` | metadata-only | 2 | `M······` | `secid:regulation/tn.gov/tipa` |
 | `regulation/utah.gov/ucpa/` | structured | 8 | `MX·CSP·` | `secid:regulation/utah.gov/ucpa` |
 | `regulation/virginia.gov/vcdpa/` | structured | 6 | `M··CSP·` | `secid:regulation/virginia.gov/vcdpa` |
-| `regulation/wa.gov/my-health-my-data-act/` | metadata-only | 2 | `M······` | `secid:regulation/wa.gov/my-health-my-data-act` |
+| `regulation/wa.gov/my-health-my-data-act/` | extracted | 4 | `MX·····` | `secid:regulation/wa.gov/my-health-my-data-act` |
 | `regulation/whitehouse.gov/eo-14028/` | structured | 8 (+1 imgs) | `MX·CSPI` | `secid:regulation/whitehouse.gov/eo-14028` |
-| `regulation/whitehouse.gov/nsm-ai/` | metadata-only | 3 | `M······` | `secid:regulation/whitehouse.gov/nsm-ai` |
+| `regulation/whitehouse.gov/nsm-ai/` | extracted | 5 | `MX·····` | `secid:regulation/whitehouse.gov/nsm-ai` |
 | `regulation/whitehouse.gov/nsm-ai-framework/` | structured | 5 | `MX·CS··` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |
 
 ## weakness/
@@ -354,9 +351,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/gitlab.com/security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/gitlab.com/security-glossary` |
 | `reference/google.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/google.com/security-guidance/` | empty | 0 | `·······` | — |
-| `reference/google.com/security-operations-glossary/` | metadata-only | 1 | `M······` | `secid:reference/google.com/security-operations-glossary` |
+| `reference/google.com/security-operations-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/google.com/security-operations-glossary` |
 | `reference/gov.bc.ca/infosec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.bc.ca/infosec-glossary` |
-| `reference/gov.br/glossario-seguranca-informacao/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/glossario-seguranca-informacao` |
+| `reference/gov.br/glossario-seguranca-informacao/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.br/glossario-seguranca-informacao` |
 | `reference/gov.uk/ncsc-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
@@ -383,14 +380,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/kubernetes.io/kubernetes-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/kubernetes.io/kubernetes-glossary` |
 | `reference/legifrance.gouv.fr/vocabulaire-cyberdefense/` | structured | 5 | `MX·CSP·` | `secid:reference/legifrance.gouv.fr/vocabulaire-cyberdefense` |
 | `reference/maryland.gov/cybersecurity-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/maryland.gov/cybersecurity-privacy-glossary` |
-| `reference/metacpan.org/cpansec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/metacpan.org/cpansec-glossary` |
+| `reference/metacpan.org/cpansec-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/metacpan.org/cpansec-glossary` |
 | `reference/microsoft.com/msrc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/microsoft.com/msrc-glossary` |
 | `reference/microsoft.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/mit.edu/ai-risk-repository/` | structured | 13 | `M··C···` | `secid:reference/mit.edu/ai-risk-repository` |
 | `reference/mit.edu/infoprotect-definitions/` | metadata-only | 1 | `M······` | `secid:reference/mit.edu/infoprotect-definitions` |
 | `reference/mitre.org/ctid/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/ctid` |
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
-| `reference/mitre.org/cwe-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mitre.org/cwe-glossary` |
+| `reference/mitre.org/cwe-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/mitre.org/cwe-glossary` |
 | `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
 | `reference/mt.gov/mom-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mt.gov/mom-security-glossary` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | metadata-only | 1 | `M······` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
@@ -492,7 +489,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/openai.com/system-cards/` | readme-only | 1 | `·······` | — |
 | `reference/opengroup.org/opaf-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opengroup.org/opaf-glossary` |
 | `reference/openidentityexchange.org/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openidentityexchange.org/identity-glossary` |
-| `reference/openssl.org/openssl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openssl.org/openssl-glossary` |
+| `reference/openssl.org/openssl-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/openssl.org/openssl-glossary` |
 | `reference/opentext.com/appsec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opentext.com/appsec-glossary` |
 | `reference/oracle.com/oci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oracle.com/oci-glossary` |
 | `reference/owasp.org/ai-exchange/` | metadata-only | 10 | `M······` | `secid:reference/owasp.org/ai-exchange` |
