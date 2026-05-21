@@ -56,7 +56,8 @@
   },
   "notes": "Most granular CTID mapping set.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "CTID ATT&CK\u2192M365 mapping. Same upstream pattern."
   }
 }

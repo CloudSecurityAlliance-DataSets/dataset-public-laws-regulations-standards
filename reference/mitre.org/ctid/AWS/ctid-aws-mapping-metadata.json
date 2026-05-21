@@ -55,7 +55,8 @@
   },
   "notes": "Pinned to ATT&CK 9.0; re-pull for newer ATT&CK versions.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "CTID ATT&CK\u2192AWS mapping. Apache-2.0 but upstream is the canonical source at github.com/center-for-threat-informed-defense/mappings-explorer (version-tagged). Stays a stub pointing upstream."
   }
 }
