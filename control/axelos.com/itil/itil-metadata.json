@@ -52,7 +52,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "ITIL is an AXELOS-licensed commercial framework. Same shape as COBIT \u2014 purchase/membership required to access content. Stub-only by design."
   }
 }

@@ -50,7 +50,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "SWIFT Customer Security Programme is restricted to SWIFT customers. The Customer Security Controls Framework (CSCF) is shared via the secure SWIFT portal; not publicly redistributable. Stub-only by design."
   }
 }
