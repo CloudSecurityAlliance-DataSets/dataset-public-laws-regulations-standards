@@ -1,0 +1,86 @@
+[
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "supports",
+    "type_name": "Supports",
+    "definition": "Concept A supports concept B when A can be applied alone or in combination with one or more other concepts to achieve B in whole or in part."
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "is-supported-by",
+    "type_name": "Is supported by",
+    "definition": "Concept A is supported by concept B when B can be applied alone or in combination with one or more other concepts to achieve A in whole or in part."
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "identical",
+    "type_name": "Identical",
+    "definition": "Concept A and concept B are identical. They use exactly the same wording."
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "equivalent",
+    "type_name": "Equivalent",
+    "definition": "Concept A and concept B are equivalent. They have the same meaning but different wording."
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "contrary",
+    "type_name": "Contrary",
+    "definition": "Concept A and concept B each have one or more elements that contradict one or more elements of the other concept."
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "type_id": "no-relationship",
+    "type_name": "No relationship",
+    "definition": "Concept A and concept B are not related or are not sufficiently related to merit another supportive relationship type."
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "type_id": "subset-of",
+    "type_name": "Subset of",
+    "definition": "Concept A is a subset of concept B. Concept B contains everything that concept A does and more."
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "type_id": "intersects-with",
+    "type_name": "Intersects with",
+    "definition": "Concept A and concept B have some overlap, but each includes content that the other does not."
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "type_id": "equal",
+    "type_name": "Equal",
+    "definition": "Concept A and concept B are the same, although not necessarily identical."
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "type_id": "superset-of",
+    "type_name": "Superset of",
+    "definition": "Concept A is a superset of concept B. Concept A contains everything that concept B does and more."
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "type_id": "no-relationship",
+    "type_name": "No relationship",
+    "definition": "Concept A and concept B are unrelated; their content does not overlap."
+  },
+  {
+    "style_id": "structural",
+    "style_name": "Structural Relationship Mapping",
+    "type_id": "parent-child",
+    "type_name": "Parent-child",
+    "definition": "The child concept is part of the parent concept. Does not specify whether the child concept is required or optional to achieve the parent concept."
+  }
+]

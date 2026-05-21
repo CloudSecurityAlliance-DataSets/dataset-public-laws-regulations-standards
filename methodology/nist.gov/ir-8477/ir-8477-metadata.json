@@ -32,13 +32,20 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "marker",
-    "tool_version": "unknown",
-    "extraction_host": "local (pre-reorg)",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+    "s3_timestamp": "2026-05-21T15:54:25Z",
+    "tool": "marker (markdown) + extract_ir_8477.py",
+    "notes": "Structured the IR 8477 mapping methodology into three companion files: ir-8477-mapping-styles.{csv,json} (5 rows \u2014 one per mapping style: crosswalk, supportive, strm, structural, custom \u2014 with the canonical definition pulled from the markdown), ir-8477-relationship-types.{csv,json} (12 rows \u2014 one per (style, type) pair, canonical type definitions), and ir-8477-strm-rationales.{csv,json} (3 rows \u2014 syntactic/semantic/functional rationale dimensions for STRM)."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "tool": "marker",
+      "tool_version": "unknown",
+      "extraction_host": "local (pre-reorg)",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+    }
+  ]
 }

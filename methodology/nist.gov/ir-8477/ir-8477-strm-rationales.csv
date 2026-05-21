@@ -1,0 +1,4 @@
+"style_id","rationale_id","definition"
+"strm","syntactic","How similar is the wording that expresses the two concepts? Word-for-word analysis."
+"strm","semantic","How similar are the meanings of the two concepts? Involves interpretation of language."
+"strm","functional","How similar are the results of executing the two concepts?"
