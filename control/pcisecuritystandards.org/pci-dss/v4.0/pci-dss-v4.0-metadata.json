@@ -27,14 +27,14 @@
     "active": false,
     "supersededBy": "PCI DSS v4.0.1 (June 2024)",
     "retiredFromActiveUse": "2024-12-31",
-    "notes": "PCI DSS v4.0 was retired on 2024-12-31 when v4.0.1 became the active standard. v4.0.1 contains errata corrections only; requirement IDs are identical between v4.0 and v4.0.1, so mappings built against either version are interchangeable at the requirement-ID level. For structured CSV/JSON of PCI DSS requirements, see the sibling PCI-DSS-v4.0.1/ folder. PCI SSC no longer hosts the v4.0 PDF for direct download since 2024-12."
+    "notes": "PCI DSS v4.0 was retired on 2024-12-31 when v4.0.1 became the active standard. v4.0.1 contains errata corrections only; requirement IDs are identical between v4.0 and v4.0.1, so mappings built against either version are interchangeable at the requirement-ID level. Structured CSV/JSON for v4.0 is now in this directory (re-extracted from a local archived copy of the v4.0 PDF, since PCI SSC no longer hosts the v4.0 PDF for direct download)."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "marker (legacy)",
-    "tool_version": "unknown (pre-2025)",
-    "force_ocr": null,
-    "notes": "Legacy markdown extraction predating the current pipeline. Extracted tables are fragmented due to marker's older handling of the 3-column page layout used by PCI DSS for each requirement block. This is a known extraction artifact, not data loss. Re-extraction is blocked because PCI SSC removed v4.0 from public download in 2024-12; we kept the original markdown as a historical snapshot."
+    "s3_timestamp": "2026-05-21T04:20:15Z",
+    "tool": "marker",
+    "tool_version": "single, --formats markdown,json",
+    "force_ocr": false,
+    "notes": "Re-extracted with marker emitting both markdown and JSON block tree. Structured parser (parse_pci_dss.py) walks the JSON Table block tree and emits pci-dss-v4.0-requirements.{csv,json}. Captures 203 main requirements (1-12) plus 23 Appendix A entries (A1/A2/A3). 28 main requirements from v4.0.1's count are missing because marker rendered those pages as prose, not tables; consumers can fall back to the v4.0.1 CSV by requirement_id."
   },
   "extraction_history": [
     {
@@ -42,6 +42,13 @@
       "status": "legacy",
       "reason": "Original extraction predates dated-timestamp convention",
       "tool": "marker"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "marker (legacy)",
+      "tool_version": "unknown (pre-2025)",
+      "force_ocr": null,
+      "notes": "Legacy markdown extraction predating the current pipeline. Extracted tables are fragmented due to marker's older handling of the 3-column page layout used by PCI DSS for each requirement block. This is a known extraction artifact, not data loss. Re-extraction is blocked because PCI SSC removed v4.0 from public download in 2024-12; we kept the original markdown as a historical snapshot."
     }
   ],
   "scope": {
