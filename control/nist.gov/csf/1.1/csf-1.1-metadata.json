@@ -61,7 +61,8 @@
   },
   "notes": "v1.1 differs from v2.0 by lacking the Govern Function. Subcategory numbering differs between versions \u2014 mappings against v1.1 IDs are NOT directly portable to v2.0. See the [Withdrawn:] entries in CSF 2.0 for the 1.1 \u2192 2.0 crosswalk.",
   "desired_end_state": {
-    "state": "dropped",
-    "reason": "withdrawn"
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "NIST CSF v1.1 \u2014 superseded by CSF 2.0 but kept locally for backward-compatible crosswalks (matches PCI v4.0 pattern). NIST-PD, publicly redistributable, already structured locally with extract_csf.py. desired_end_state previously flipped back to dropped multiple times due to heuristic mismatch on lifecycle.active=False + 'superseded' notes; explicit setter to prevent further reverts."
   }
 }

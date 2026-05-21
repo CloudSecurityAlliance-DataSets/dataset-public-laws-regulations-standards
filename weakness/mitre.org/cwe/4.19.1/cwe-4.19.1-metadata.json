@@ -80,7 +80,8 @@
   },
   "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "upstream-only"
+    "state": "structured",
+    "reason": "taxonomy",
+    "notes": "MITRE CWE \u2014 Terms of Use permit redistribution + derivatives. Locally structured CSV/JSON is the intended consumer-facing form per the doc's own notes ('Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions'). desired_end_state previously flipped to upstream-only multiple times due to heuristic notes-substring matching; explicit setter to prevent reverts."
   }
 }
