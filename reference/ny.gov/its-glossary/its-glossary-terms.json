@@ -1,0 +1,2312 @@
+[
+  {
+    "term": "AAL",
+    "definition": "Authenticator Assurance Level",
+    "source_anchor": "https://its.ny.gov/glossary#aal",
+    "notes": ""
+  },
+  {
+    "term": "Access Point",
+    "definition": "A hardware device or a computer's software that acts as a communication hub for users of a wireless device to connect to a wired Local Area Network.",
+    "source_anchor": "https://its.ny.gov/glossary#access-point",
+    "notes": ""
+  },
+  {
+    "term": "Account Archived",
+    "definition": "Accounts that have not been used for x years are off-loaded via long term storage solutions.",
+    "source_anchor": "https://its.ny.gov/glossary#account-archived",
+    "notes": ""
+  },
+  {
+    "term": "Account Disabled",
+    "definition": "Account is in an unusable state and can only be made usable again through an administrative action.",
+    "source_anchor": "https://its.ny.gov/glossary#account-disabled",
+    "notes": ""
+  },
+  {
+    "term": "Account Locked",
+    "definition": "Account is not useable until either an administrator resets a token or the end user resets the token through one of the forgotten password self service functions.",
+    "source_anchor": "https://its.ny.gov/glossary#account-locked",
+    "notes": ""
+  },
+  {
+    "term": "Address of Record",
+    "definition": "The official location where an individual can be found that is on record with a trusted or authoritative entity such as a government agency, the individual’s employer, financial institution, or utility company. The address of record always includes the residential street address of an individual and may also include the mailing address of the individual.",
+    "source_anchor": "https://its.ny.gov/glossary#address-of-record",
+    "notes": ""
+  },
+  {
+    "term": "Advertisement",
+    "definition": "Logo, graphic, text, sound, video, or any other means intended to promote or market a service, facility, or product offered by an entity for a commercial purpose. Advertising includes messages containing qualitative or comparative language, price information or other indications of savings or value, an endorsement, or an inducement to purchase, sell, or use any company, service, facility, or product. Copyright notices and displaying the name, logo, product, or service of a non-government entity whether or not in exchange for money, services, or other special consideration, including reduced cost or no-cost use in the context of open-source development products or services, may also constitute “advertising”; for example, \"Powered by Company X\" or \"Web design by Company X.\" Linking to external sites that provide a particular commercial product or service. An SE should ensure that all links to non-government websites further the SE's mission, functions, and responsibilities.",
+    "source_anchor": "https://its.ny.gov/glossary#advertisement",
+    "notes": ""
+  },
+  {
+    "term": "AER",
+    "definition": "See \"Authorized Employee Representative\"",
+    "source_anchor": "https://its.ny.gov/glossary#aer",
+    "notes": ""
+  },
+  {
+    "term": "Agency",
+    "definition": "A state agency is as defined in Open Meetings Law, Section 103, which states that “'agency' shall mean only a state department, board, bureau, division, council or office and any public corporation the majority of whose members are appointed by the governor,\" and includes any state agency, department, office, board, commission or other instrumentality of the State, but not a public authority.",
+    "source_anchor": "https://its.ny.gov/glossary#agency",
+    "notes": ""
+  },
+  {
+    "term": "Agency Fleet",
+    "definition": "All State Vehicles acquired by, and assigned to, an agency.",
+    "source_anchor": "https://its.ny.gov/glossary#agency-fleet",
+    "notes": ""
+  },
+  {
+    "term": "Algorithm",
+    "definition": "A computerized procedure consisting of a set of steps used to accomplish a determined task.",
+    "source_anchor": "https://its.ny.gov/glossary#algorithm",
+    "notes": ""
+  },
+  {
+    "term": "Alternate Work Site",
+    "definition": "A specific location away from the official work site where the employee is authorized to conduct business.",
+    "source_anchor": "https://its.ny.gov/glossary#alternate-work-site",
+    "notes": ""
+  },
+  {
+    "term": "Aircard/MiFi",
+    "definition": "An Aircard is a type of wireless modem that is used to connect a single device to the internet through cellular data. A MiFi device can be connected to a cellular network and provide internet access for up to ten devices. The use of an Aircard/MiFi requires a data plan.",
+    "source_anchor": "https://its.ny.gov/glossary#aircard-mifi",
+    "notes": ""
+  },
+  {
+    "term": "AP",
+    "definition": "See \"Access Point\"",
+    "source_anchor": "https://its.ny.gov/glossary#ap",
+    "notes": ""
+  },
+  {
+    "term": "API",
+    "definition": "\"See \"Application Programming Interface\"",
+    "source_anchor": "https://its.ny.gov/glossary#api",
+    "notes": ""
+  },
+  {
+    "term": "Application Programming Interface",
+    "definition": "A set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components.",
+    "source_anchor": "https://its.ny.gov/glossary#application-programming-interface",
+    "notes": ""
+  },
+  {
+    "term": "Architecture",
+    "definition": "Architecture is a set of components, their structure and inter-relationships, and the methods, guidelines, and standards governing their application and evolution over time. In the case of NYS and the NYS EA, the components being dealt with are the business, operational and information technology components of the enterprise.",
+    "source_anchor": "https://its.ny.gov/glossary#architecture",
+    "notes": ""
+  },
+  {
+    "term": "Artificial Intelligence",
+    "definition": "A machine-based system, that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action. The definition does not include basic calculations like Excel formulas, basic automation, or pre-recorded response systems.",
+    "source_anchor": "https://its.ny.gov/glossary#artificial-intelligence",
+    "notes": ""
+  },
+  {
+    "term": "Artificial Intelligence System",
+    "definition": "Any technology system, whether developed internally or obtained from a third party, that utilizes an artificial intelligence technology.",
+    "source_anchor": "https://its.ny.gov/glossary#artificial-intelligence-system",
+    "notes": ""
+  },
+  {
+    "term": "ASA",
+    "definition": "Agency Security Administrator",
+    "source_anchor": "https://its.ny.gov/glossary#asa",
+    "notes": ""
+  },
+  {
+    "term": "ASCA",
+    "definition": "Agency Spending Controls Application. A NYS Division of the Budget computer application used by state agencies to request spending approval for planned procurements and other purposes.",
+    "source_anchor": "https://its.ny.gov/glossary#asca",
+    "notes": ""
+  },
+  {
+    "term": "Asset",
+    "definition": "Anything that has value to an organization including, but not limited to, another organization, person, computing device, information technology (IT) system, IT network, IT circuit, software (both an installed instance and a physical instance), virtual computing platform (common in cloud and virtualized computing), and related hardware (e.g., locks, cabinets, keyboards).",
+    "source_anchor": "https://its.ny.gov/glossary#asset",
+    "notes": ""
+  },
+  {
+    "term": "ASU",
+    "definition": "Administrative Services Unit",
+    "source_anchor": "https://its.ny.gov/glossary#asu",
+    "notes": ""
+  },
+  {
+    "term": "Authenticated Scan",
+    "definition": "A credential-based scan that provides sufficient access to allow the vulnerability scan engine to scan the operating system and all applications running on the system.",
+    "source_anchor": "https://its.ny.gov/glossary#authenticated-scan",
+    "notes": ""
+  },
+  {
+    "term": "Authentication",
+    "definition": "The process of establishing confidence in the identity of users or information systems.",
+    "source_anchor": "https://its.ny.gov/glossary#authentication",
+    "notes": ""
+  },
+  {
+    "term": "Authentication Factors",
+    "definition": "Something you know, something you have, and something you are. See “Multi-Factor Authentication” and “Single-Factor Authentication.”",
+    "source_anchor": "https://its.ny.gov/glossary#authentication-factors",
+    "notes": ""
+  },
+  {
+    "term": "Authentication Method",
+    "definition": "The authentication mechanism used at the time of user account login.",
+    "source_anchor": "https://its.ny.gov/glossary#authentication-method",
+    "notes": ""
+  },
+  {
+    "term": "Authentication Protocol",
+    "definition": "A defined sequence of messages between a Claimant and a Verifier that demonstrates that the Claimant has possession and control of a valid token to establish their identity, and optionally, demonstrates to the Claimant that they are communicating with the intended Verifier.",
+    "source_anchor": "https://its.ny.gov/glossary#authentication-protocol",
+    "notes": ""
+  },
+  {
+    "term": "Authenticator",
+    "definition": "Something the claimant possesses and controls (typically a cryptographic module or password) that is used to authenticate the claimant’s identity (e.g., token).",
+    "source_anchor": "https://its.ny.gov/glossary#authenticator",
+    "notes": ""
+  },
+  {
+    "term": "Authorization",
+    "definition": "Access privileges granted to a user, program, or process or the act of granting those privileges.",
+    "source_anchor": "https://its.ny.gov/glossary#authorization",
+    "notes": ""
+  },
+  {
+    "term": "Authoritative Time Service Endpoints",
+    "definition": "Network endpoints maintained by ITS using an industry-accepted protocol for clock synchronization between computer systems.",
+    "source_anchor": "https://its.ny.gov/glossary#authoritative-time-service-endpoints",
+    "notes": ""
+  },
+  {
+    "term": "Authorized Employee Representative",
+    "definition": "An employee authorized by other employees, or the designated representative of an employee organization, who is recognized or certified to represent the employees pursuant to Article 14 of the Civil Service Law.",
+    "source_anchor": "https://its.ny.gov/glossary#authorized-employee-representative",
+    "notes": ""
+  },
+  {
+    "term": "Automated Decision System",
+    "definition": "Any algorithm, including one incorporating machine learning or other artificial intelligence techniques, that uses data-based analytics to make or support decisions, judgments, or conclusions.",
+    "source_anchor": "https://its.ny.gov/glossary#automated-decision-system",
+    "notes": ""
+  },
+  {
+    "term": "Automated Final Decision System",
+    "definition": "An automated decision system that makes final decisions, judgments, or conclusions without human intervention.",
+    "source_anchor": "https://its.ny.gov/glossary#automated-final-decision-system",
+    "notes": ""
+  },
+  {
+    "term": "Automated Support Decision System",
+    "definition": "An automated decision system that provides insights and/or recommendations to inform the final decision, judgment, or conclusion of a human decision maker.",
+    "source_anchor": "https://its.ny.gov/glossary#automated-support-decision-system",
+    "notes": ""
+  },
+  {
+    "term": "Availability",
+    "definition": "The extent to which information is operational, accessible, functional, and usable upon demand by an authorized entity (e.g., a system or user).",
+    "source_anchor": "https://its.ny.gov/glossary#availability",
+    "notes": ""
+  },
+  {
+    "term": "Banner Ad",
+    "definition": "Typically, rectangular advertisement placed on a website above, below, or to the side of the website's main content area.",
+    "source_anchor": "https://its.ny.gov/glossary#banner-ad",
+    "notes": ""
+  },
+  {
+    "term": "Base64",
+    "definition": "A group of similar binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The terms Base64 originates from a specific MIME content transfer encoding. Each Base64 digit represents exactly six (6) bits of data.",
+    "source_anchor": "https://its.ny.gov/glossary#base64",
+    "notes": ""
+  },
+  {
+    "term": "Best Value",
+    "definition": "A method of awarding service and technology contracts that optimizes quality, cost, and efficiency among responsive and responsible bidders.",
+    "source_anchor": "https://its.ny.gov/glossary#best-value",
+    "notes": ""
+  },
+  {
+    "term": "Bitrate",
+    "definition": "In digital multimedia, bitrate is the number of bits used per unit of time to represent a continuous medium such as audio or video after source coding (data compression). In this sense it corresponds to the term digital bandwidth consumption. While often referred to as \"speed,\" bitrate does not measure distance/time but quantity/time.",
+    "source_anchor": "https://its.ny.gov/glossary#bitrate",
+    "notes": ""
+  },
+  {
+    "term": "BPRM",
+    "definition": "Budget Policy and Reporting Manual",
+    "source_anchor": "https://its.ny.gov/glossary#bprm",
+    "notes": ""
+  },
+  {
+    "term": "Breach",
+    "definition": "Acquiring of information by a person without valid authorization or through unauthorized acquisition.",
+    "source_anchor": "https://its.ny.gov/glossary#breach",
+    "notes": ""
+  },
+  {
+    "term": "BSC",
+    "definition": "Business Service Center",
+    "source_anchor": "https://its.ny.gov/glossary#bsc",
+    "notes": ""
+  },
+  {
+    "term": "Bureau Director",
+    "definition": "The head of the bureau within ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#bureau-director",
+    "notes": ""
+  },
+  {
+    "term": "Business Continuity Program",
+    "definition": "The process involved in creating a prevention and recovery system addressing potential threats to a company. The plan ensures that personnel and assets are protected and able to function quickly in the event of an incident.",
+    "source_anchor": "https://its.ny.gov/glossary#business-continuity-program",
+    "notes": ""
+  },
+  {
+    "term": "Business Unit(s)",
+    "definition": "A subdivision of ITS representing a specific business function. For example, Accounts Payable, which has a definite place on the organizational chart, under the domain of an Executive.",
+    "source_anchor": "https://its.ny.gov/glossary#business-unit-s",
+    "notes": ""
+  },
+  {
+    "term": "Business Analysis and Risk Assessment",
+    "definition": "Defined by the ESRA regulation as \"identifying and evaluating various factors relevant to the selection of an electronic signature for use or acceptance in an electronic transaction. Such factors include, but are not limited to, relationships between parties to an electronic transaction, value of the transaction, risk of intrusion, risk of repudiation of an electronic signature, risk of fraud, functionality and convenience, business necessity and the cost of employing a particular electronic signature process.\"",
+    "source_anchor": "https://its.ny.gov/glossary#business-analysis-and-risk-assessment",
+    "notes": ""
+  },
+  {
+    "term": "BYOD",
+    "definition": "Bring Your Own Device",
+    "source_anchor": "https://its.ny.gov/glossary#byod",
+    "notes": ""
+  },
+  {
+    "term": "CCA",
+    "definition": "Credit Card Administrator",
+    "source_anchor": "https://its.ny.gov/glossary#cca",
+    "notes": ""
+  },
+  {
+    "term": "Cell Phone",
+    "definition": "A telephone with access to a cellular radio system so it can be used over a wide area, without a physical connection to a network. A cell phone only allows users to place and receive voice calls and text messages. Requires only a voice plan.",
+    "source_anchor": "https://its.ny.gov/glossary#cell-phone",
+    "notes": ""
+  },
+  {
+    "term": "Centralized Contract",
+    "definition": "Any contract let by the NYS Office of General Services for use by authorized users, including state agencies, for the purpose of commodities or services.",
+    "source_anchor": "https://its.ny.gov/glossary#centralized-contract",
+    "notes": ""
+  },
+  {
+    "term": "CFO",
+    "definition": "Chief Financial Officer",
+    "source_anchor": "https://its.ny.gov/glossary#cfo",
+    "notes": ""
+  },
+  {
+    "term": "Chief Information Officer",
+    "definition": "See \"State Chief Information Officer\"",
+    "source_anchor": "https://its.ny.gov/glossary#chief-information-officer",
+    "notes": ""
+  },
+  {
+    "term": "CI",
+    "definition": "Configuration Item",
+    "source_anchor": "https://its.ny.gov/glossary#ci",
+    "notes": ""
+  },
+  {
+    "term": "CIO",
+    "definition": "See \"State Chief Information Officer\"",
+    "source_anchor": "https://its.ny.gov/glossary#cio",
+    "notes": ""
+  },
+  {
+    "term": "CISO",
+    "definition": "Chief Information Security Office(r)",
+    "source_anchor": "https://its.ny.gov/glossary#ciso",
+    "notes": ""
+  },
+  {
+    "term": "Claimant",
+    "definition": "A party whose identity is to be verified using an authentication protocol.",
+    "source_anchor": "https://its.ny.gov/glossary#claimant",
+    "notes": ""
+  },
+  {
+    "term": "Clear GIF",
+    "definition": "A graphic with a unique identifier, similar to a cookie, used to track the online movements of users. Clear gifs are also known as pixel tags, web beacons, or web bugs.",
+    "source_anchor": "https://its.ny.gov/glossary#clear-gif",
+    "notes": ""
+  },
+  {
+    "term": "Click-through",
+    "definition": "A message on a user's computer screen, requiring that the user respond to a question and, as a result, provide information by clicking on an icon.",
+    "source_anchor": "https://its.ny.gov/glossary#click-through",
+    "notes": ""
+  },
+  {
+    "term": "Closure",
+    "definition": "Closure of a workplace may occur when an extraordinary circumstance has been identified and the space has been deemed uninhabitable or otherwise dangerous by local officials, emergency services personnel, landlords, or other authorized persons. Closure of a workplace is not the same as, but may be used in conjunction with, a directed early departure or direction not to report.",
+    "source_anchor": "https://its.ny.gov/glossary#closure",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Broker",
+    "definition": "An entity that manages the use, performance, and delivery of cloud services, and negotiates relationships between cloud providers and cloud consumers. As cloud computing evolves, the integration of cloud services may be too complex for cloud consumers to manage alone.",
+    "source_anchor": "https://its.ny.gov/glossary#cloud-broker",
+    "notes": ""
+  },
+  {
+    "term": "CND",
+    "definition": "See \"Computer Network Defense\"",
+    "source_anchor": "https://its.ny.gov/glossary#cnd",
+    "notes": ""
+  },
+  {
+    "term": "CoA",
+    "definition": "Chart of Accounts. A standard financial coding structure used for recording and reporting State financial information.",
+    "source_anchor": "https://its.ny.gov/glossary#coa",
+    "notes": ""
+  },
+  {
+    "term": "COELIG",
+    "definition": "NYS Commission on Ethics and Lobbying in Government",
+    "source_anchor": "https://its.ny.gov/glossary#coelig",
+    "notes": ""
+  },
+  {
+    "term": "Collaborative Computing Device",
+    "definition": "Collaborative computing devices may include, but are not limited to, networked white boards, cameras, and microphones that are connected to NYS IT systems for the purposes of conducting government business collaboratively.",
+    "source_anchor": "https://its.ny.gov/glossary#collaborative-computing-device",
+    "notes": ""
+  },
+  {
+    "term": "Computer Network Defense",
+    "definition": "Using defensive measures in order to protect information, information systems, and networks from threats.",
+    "source_anchor": "https://its.ny.gov/glossary#computer-network-defense",
+    "notes": ""
+  },
+  {
+    "term": "Computer Security Event",
+    "definition": "An anomaly that has been reported or noticed in a system or network.",
+    "source_anchor": "https://its.ny.gov/glossary#computer-security-event",
+    "notes": ""
+  },
+  {
+    "term": "Computer Security Incident",
+    "definition": "A violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices. A computer security incident is also defined as any event that adversely affects the confidentiality, integrity, or availability of system and its data.",
+    "source_anchor": "https://its.ny.gov/glossary#computer-security-incident",
+    "notes": ""
+  },
+  {
+    "term": "Computer Vision",
+    "definition": "A field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs - and take actions or make recommendations based on that information.",
+    "source_anchor": "https://its.ny.gov/glossary#computer-vision",
+    "notes": ""
+  },
+  {
+    "term": "Confidentiality",
+    "definition": "The property that information is not made available or disclosed to unauthorized individuals, entities, or processes.",
+    "source_anchor": "https://its.ny.gov/glossary#confidentiality",
+    "notes": ""
+  },
+  {
+    "term": "Consolidated Log Infrastructure",
+    "definition": "The hardware, software, networks, and media used to generate, transmit, store, analyze, and dispose of log data.",
+    "source_anchor": "https://its.ny.gov/glossary#consolidated-log-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Consultant",
+    "definition": "See \"ITS Consultant\"",
+    "source_anchor": "https://its.ny.gov/glossary#consultant",
+    "notes": ""
+  },
+  {
+    "term": "Contiguous United States (CONUS)",
+    "definition": "The 48 contiguous states of the United States and the District of Columbia. This definition specifically excludes the states of AK and HI as they are not part of the contiguous states and are included in the definition of Non-Foreign, Outside the Continental United States (OCONUS) locations.",
+    "source_anchor": "https://its.ny.gov/glossary#contiguous-united-states-conus",
+    "notes": ""
+  },
+  {
+    "term": "Continuity of Operations Plan",
+    "definition": "Clearly defined steps an organization will take during times of disruption to ensure they can continue their operations.",
+    "source_anchor": "https://its.ny.gov/glossary#continuity-of-operations-plan",
+    "notes": ""
+  },
+  {
+    "term": "Contract Award",
+    "definition": "A written determination from ITS to an Offerer indicating that ITS has accepted its bid or offer.",
+    "source_anchor": "https://its.ny.gov/glossary#contract-award",
+    "notes": ""
+  },
+  {
+    "term": "Contractor",
+    "definition": "Refers to any entity that contracts with ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#contractor",
+    "notes": ""
+  },
+  {
+    "term": "Control",
+    "definition": "An action taken to enhance the likelihood that established goals or objectives will be achieved (in the context of this policy, generally an action taken to reduce risk).",
+    "source_anchor": "https://its.ny.gov/glossary#control",
+    "notes": ""
+  },
+  {
+    "term": "Cookie",
+    "definition": "A unique text file stored on a user's computer by an Internet browser. These text files are used as a means of distinguishing among users of a website and as a means of customizing the website according to the user's preferences and interests. A cookie will not include personal information unless the user has volunteered that information.",
+    "source_anchor": "https://its.ny.gov/glossary#cookie",
+    "notes": ""
+  },
+  {
+    "term": "CPE",
+    "definition": "Continuing Professional Education",
+    "source_anchor": "https://its.ny.gov/glossary#cpe",
+    "notes": ""
+  },
+  {
+    "term": "Credential",
+    "definition": "An object that authoritatively binds an identity to a token possessed and controlled by a person or entity.",
+    "source_anchor": "https://its.ny.gov/glossary#credential",
+    "notes": ""
+  },
+  {
+    "term": "Credential Service Provider",
+    "definition": "A trusted entity that issues or registers subscriber authenticators and issues electronic credentials to subscribers.",
+    "source_anchor": "https://its.ny.gov/glossary#credential-service-provider",
+    "notes": ""
+  },
+  {
+    "term": "CRER",
+    "definition": "Contract Reporter Exemption Request",
+    "source_anchor": "https://its.ny.gov/glossary#crer",
+    "notes": ""
+  },
+  {
+    "term": "Critical Incidents",
+    "definition": "Critical incidents include the following: A sudden, unexpected event requiring action due to potential threat to health and safety, the environment, or property. A critical event, which, if not handled in an appropriate manner, may dramatically impact an organization’s profitability, reputation, or ability to operate. A sudden, unplanned, calamitous event causing great damage or loss. Critical incidents can also include an “Emergency” as defined in the New York State Finance Law, Section 163, which means an urgent and unexpected requirement where health and public safety or the conservation of public resources is at risk.",
+    "source_anchor": "https://its.ny.gov/glossary#critical-incidents",
+    "notes": ""
+  },
+  {
+    "term": "Critical Infrastructure",
+    "definition": "Systems and assets, whether physical or virtual, so vital to New York State that the incapacity or destruction of such systems and assets would have a debilitating impact on security, economic security, public health or safety, or any combination of those matters.",
+    "source_anchor": "https://its.ny.gov/glossary#critical-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Criticality",
+    "definition": "The degree to which a State Entity depends on the information or information system for the success of a mission or of a business function.",
+    "source_anchor": "https://its.ny.gov/glossary#criticality",
+    "notes": ""
+  },
+  {
+    "term": "Cryptographic",
+    "definition": "Related to cryptography which is (1) The mathematical science used to secure the confidentiality and authentication of data by replacing it with a transformed version that can be reconverted to reveal the original data only by someone holding the proper cryptographic algorithm and key; (2) A discipline that embodies the principles, means, and methods for transforming data in order to hide its information content, prevent its undetected modification, and/or prevent its unauthorized uses.",
+    "source_anchor": "https://its.ny.gov/glossary#cryptographic",
+    "notes": ""
+  },
+  {
+    "term": "Cryptographic Keys",
+    "definition": "Data used to encrypt or decrypt a message or information.",
+    "source_anchor": "https://its.ny.gov/glossary#cryptographic-keys",
+    "notes": ""
+  },
+  {
+    "term": "CSEA",
+    "definition": "Civil Service Employees Association",
+    "source_anchor": "https://its.ny.gov/glossary#csea",
+    "notes": ""
+  },
+  {
+    "term": "CTO",
+    "definition": "Chief Technology Office(r)",
+    "source_anchor": "https://its.ny.gov/glossary#cto",
+    "notes": ""
+  },
+  {
+    "term": "Current Stable Release",
+    "definition": "The most recent stable-channel release of any given web browser, as published by the software vendor of that web browser. Vendors utilize different release schedules, and as such, versions may increment differently across different web browsers and platforms.",
+    "source_anchor": "https://its.ny.gov/glossary#current-stable-release",
+    "notes": ""
+  },
+  {
+    "term": "Custodian",
+    "definition": "A person or entity who is responsible for a device.",
+    "source_anchor": "https://its.ny.gov/glossary#custodian",
+    "notes": ""
+  },
+  {
+    "term": "Data",
+    "definition": "A subset of information in an electronic format that allows it to be retrieved or transmitted.",
+    "source_anchor": "https://its.ny.gov/glossary#data",
+    "notes": ""
+  },
+  {
+    "term": "Digital Object",
+    "definition": "Any discrete set of digital data that can be individually selected and manipulated. This can include shapes, pictures, string of numbers, or characters that appear on a display screen as well as less tangible software entities.",
+    "source_anchor": "https://its.ny.gov/glossary#digital-object",
+    "notes": ""
+  },
+  {
+    "term": "Digital Signatures",
+    "definition": "Produced by two mathematically linked cryptographic keys, a private key used to sign, and a public key used to validate the signature. A digital signature is created when a person uses their private key to create a unique mark (called a \"signed hash\") on an electronic document. The recipient of the document employs the person’s public key to validate the authenticity of the digital signature and to verify that the document was not altered subsequent to signing. Digital signatures are often used within the context of a Public Key Infrastructure (PKI) in which a trusted third party known as a Certification Authority (CA) binds individuals to private keys.",
+    "source_anchor": "https://its.ny.gov/glossary#digital-signatures",
+    "notes": ""
+  },
+  {
+    "term": "Direct Application Access",
+    "definition": "Accessing an application directly with the application providing its own security (e.g., webmail, https).",
+    "source_anchor": "https://its.ny.gov/glossary#direct-application-access",
+    "notes": ""
+  },
+  {
+    "term": "Directed Early Departure",
+    "definition": "Dismissal situation used in conjunction with an extraordinary circumstance when a workplace has been deemed dangerous or, when a determination has been made by the Office of Employee Relations or State Ops that travel may become unsafe for employees during extreme weather conditions, such as an impending blizzard.",
+    "source_anchor": "https://its.ny.gov/glossary#directed-early-departure",
+    "notes": ""
+  },
+  {
+    "term": "Direction Not to Report",
+    "definition": "Dismissal situation used in conjunction with an extraordinary circumstance when a workplace has been deemed dangerous or, when a determination has been made by the Office of Employee Relations or State Ops that travel may be unsafe for employees during extreme weather conditions, such as a blizzard.",
+    "source_anchor": "https://its.ny.gov/glossary#direction-not-to-report",
+    "notes": ""
+  },
+  {
+    "term": "Disclose",
+    "definition": "Shall have the same meaning as defined in State Technology Law §202. This shall mean to reveal, release, transfer, disseminate, or otherwise communicate information orally, in writing or by electronic or other means, other than to the person who is the subject of such information.",
+    "source_anchor": "https://its.ny.gov/glossary#disclose",
+    "notes": ""
+  },
+  {
+    "term": "Discretionary Purchase",
+    "definition": "Purchases below an established dollar threshold that are authorized by law to be made without a formal competitive process.",
+    "source_anchor": "https://its.ny.gov/glossary#discretionary-purchase",
+    "notes": ""
+  },
+  {
+    "term": "Division Director",
+    "definition": "The head of the division within ITS",
+    "source_anchor": "https://its.ny.gov/glossary#division-director",
+    "notes": ""
+  },
+  {
+    "term": "DLA",
+    "definition": "ITS Division of Legal Affairs",
+    "source_anchor": "https://its.ny.gov/glossary#dla",
+    "notes": ""
+  },
+  {
+    "term": "DNS",
+    "definition": "This refers to all the domains and subdomains within the Internet Domain Name System (DNS).",
+    "source_anchor": "https://its.ny.gov/glossary#dns",
+    "notes": ""
+  },
+  {
+    "term": "DOB",
+    "definition": "Division of the Budget",
+    "source_anchor": "https://its.ny.gov/glossary#dob",
+    "notes": ""
+  },
+  {
+    "term": "DOH",
+    "definition": "Department of Health",
+    "source_anchor": "https://its.ny.gov/glossary#doh",
+    "notes": ""
+  },
+  {
+    "term": "Domain",
+    "definition": "A region of jurisdiction on the World Wide Web (Internet) for naming assignment. The General Services Administration is responsible for registrations in the dot-gov domain, and has delegated this authority to the CIO for all State Entities.",
+    "source_anchor": "https://its.ny.gov/glossary#domain",
+    "notes": ""
+  },
+  {
+    "term": "Domain Name",
+    "definition": "A name assigned to an Internet server, requested from ITS by a State Entity.",
+    "source_anchor": "https://its.ny.gov/glossary#domain-name",
+    "notes": ""
+  },
+  {
+    "term": "Domestic Violence",
+    "definition": "A pattern of coercive behavior, including acts or threatened acts, that is used by a perpetrator to gain power and control over a victim, as defined in New York State Social Service Law § 459-a, including, but not limited to physical, sexual, psychological, economic, and/or emotional abuse; or the threat of any/all of the aforementioned acts.",
+    "source_anchor": "https://its.ny.gov/glossary#domestic-violence",
+    "notes": ""
+  },
+  {
+    "term": "Domestic Violence Agency Liaison (DVAL)",
+    "definition": "A designated employee(s) of ITS who has been trained by the Office for the Prevention of Domestic Violence (OPDV) to assist victimized employees; who ensure ITS compliance with the Gender-Based Violence and the Workplace Policy; and who serves as the primary contact for OPDV.",
+    "source_anchor": "https://its.ny.gov/glossary#domestic-violence-agency-liaison-dval",
+    "notes": ""
+  },
+  {
+    "term": "Driver",
+    "definition": "ITS employees or other persons, expressly authorized by the Chief Information Officer, who operate a State Vehicle.",
+    "source_anchor": "https://its.ny.gov/glossary#driver",
+    "notes": ""
+  },
+  {
+    "term": "e-Authentication",
+    "definition": "Also known as electronic authentication. The process of establishing confidence in user identities electronically presented to an information system.",
+    "source_anchor": "https://its.ny.gov/glossary#e-authentication",
+    "notes": ""
+  },
+  {
+    "term": "EDA",
+    "definition": "Employee Data Administrator",
+    "source_anchor": "https://its.ny.gov/glossary#eda",
+    "notes": ""
+  },
+  {
+    "term": "EES",
+    "definition": "Enterprise eDiscovery Services",
+    "source_anchor": "https://its.ny.gov/glossary#ees",
+    "notes": ""
+  },
+  {
+    "term": "e-Equipment",
+    "definition": "E-equipment is hardware used to input, store, process, transmit, and output information, including, but not limited to, desktops, laptops, mobile devices, servers, telephones, video conferencing equipment, copiers, printers, and data center equipment.",
+    "source_anchor": "https://its.ny.gov/glossary#e-equipment",
+    "notes": ""
+  },
+  {
+    "term": "e-Government",
+    "definition": "The use of computer technology to provide faster, more convenient, and better delivery of government services to customers by reducing paper processes and the need to go to government offices for the service. Customers in e-Government can include citizens, businesses, and other governments. Typically, these services are available over the internet on a government agency’s website or a government portal, like NY.gov ID.",
+    "source_anchor": "https://its.ny.gov/glossary#e-government",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Evidence",
+    "definition": "Electronic evidence as defined by the US DOJ Electronic Crime Scene Investigation is information and data of investigative value that is stored on or transmitted by an electronic device.",
+    "source_anchor": "https://its.ny.gov/glossary#electronic-evidence",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Record",
+    "definition": "Information, evidencing any act, transaction, occurrence, event, or other activity, produced or stored by electronic means and capable of being accurately reproduced in forms perceptible by human sensory capabilities.",
+    "source_anchor": "https://its.ny.gov/glossary#electronic-record",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Signature",
+    "definition": "Shall have the same meaning as defined in State Technology Law §302. This shall mean \"an electronic sound, symbol, or process, attached to or logically associated with an electronic record and executed or adopted by a person with the intent to sign the record.\" This definition conforms to the definition found in the Federal E-Sign Law.",
+    "source_anchor": "https://its.ny.gov/glossary#electronic-signature",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Transaction",
+    "definition": "Shall mean an action or set of actions occurring through the use of electronic technology by or with a governmental entity.",
+    "source_anchor": "https://its.ny.gov/glossary#electronic-transaction",
+    "notes": ""
+  },
+  {
+    "term": "Elements",
+    "definition": "HTML tags",
+    "source_anchor": "https://its.ny.gov/glossary#elements",
+    "notes": ""
+  },
+  {
+    "term": "Emergency",
+    "definition": "A situation that poses an immediate risk to health, life, property, or natural environment.",
+    "source_anchor": "https://its.ny.gov/glossary#emergency",
+    "notes": ""
+  },
+  {
+    "term": "Employee",
+    "definition": "See \"ITS State Employee\"",
+    "source_anchor": "https://its.ny.gov/glossary#employee",
+    "notes": ""
+  },
+  {
+    "term": "Encoder",
+    "definition": "A device used to change a signal (such as a bitstream) or data into a code. The code may serve any of a number of purposes such as compressing information for transmission or storage, encrypting or adding redundancies to the input code, or translating from one code to another. This is usually done by means of a programmed algorithm, especially if any part of the code is digital.",
+    "source_anchor": "https://its.ny.gov/glossary#encoder",
+    "notes": ""
+  },
+  {
+    "term": "Encoding",
+    "definition": "The process of preparing content for sending to viewers. Audio and video are converted to a format that matches the chosen distribution technique and attributes and is also compressed.",
+    "source_anchor": "https://its.ny.gov/glossary#encoding",
+    "notes": ""
+  },
+  {
+    "term": "Encryption",
+    "definition": "A cryptographic operation that is used to enhance security and protect the State’s electronic data (\"data\") by transforming readable information (\"plaintext\") into unintelligible information (\"ciphertext\").",
+    "source_anchor": "https://its.ny.gov/glossary#encryption",
+    "notes": ""
+  },
+  {
+    "term": "Endorsement",
+    "definition": "Statement of approval of a product, service or individual business, person or any other non-governmental entity.",
+    "source_anchor": "https://its.ny.gov/glossary#endorsement",
+    "notes": ""
+  },
+  {
+    "term": "Entropy",
+    "definition": "A measure of the amount of uncertainty that an attacker faces to determine the value of a secret such as a password. Entropy is usually stated in bits. See NIST 800-63 Recommendation for Electronic Authentication.",
+    "source_anchor": "https://its.ny.gov/glossary#entropy",
+    "notes": ""
+  },
+  {
+    "term": "EPR",
+    "definition": "Event Participation Request Form",
+    "source_anchor": "https://its.ny.gov/glossary#epr",
+    "notes": ""
+  },
+  {
+    "term": "e-Record",
+    "definition": "See \"Electronic Record\"",
+    "source_anchor": "https://its.ny.gov/glossary#e-record",
+    "notes": ""
+  },
+  {
+    "term": "ESI",
+    "definition": "Electronically Stored Information",
+    "source_anchor": "https://its.ny.gov/glossary#esi",
+    "notes": ""
+  },
+  {
+    "term": "e-Signature",
+    "definition": "See \"Electronic Signature\"",
+    "source_anchor": "https://its.ny.gov/glossary#e-signature",
+    "notes": ""
+  },
+  {
+    "term": "Essential Employee",
+    "definition": "Essential employees may include, but are not limited to, those who job function is crucial to the effective operation of ITS or who must be physically present to perform their job.",
+    "source_anchor": "https://its.ny.gov/glossary#essential-employee",
+    "notes": ""
+  },
+  {
+    "term": "Ethics Officer",
+    "definition": "Ethics Officer at the Division of Legal Affairs",
+    "source_anchor": "https://its.ny.gov/glossary#ethics-officer",
+    "notes": ""
+  },
+  {
+    "term": "ETL",
+    "definition": "Extract, Transform and Load",
+    "source_anchor": "https://its.ny.gov/glossary#etl",
+    "notes": ""
+  },
+  {
+    "term": "Explicit Indication",
+    "definition": "A signal or alert to user(s) physically present providing notice that a collaborative computing device sensor has been activated.",
+    "source_anchor": "https://its.ny.gov/glossary#explicit-indication",
+    "notes": ""
+  },
+  {
+    "term": "External Engagement",
+    "definition": "Formal presentations, or informal discussions, delivered to non-ITS employees for the purpose of providing information regarding the agency's vision, mission, programs, services, or other ITS-related information, and/or speaking on behalf of ITS as a subject matter expert on a particular topic. This includes discussions with non-New York government entities, including federal, state, and local government organizations.",
+    "source_anchor": "https://its.ny.gov/glossary#external-engagement",
+    "notes": ""
+  },
+  {
+    "term": "Extraordinary Circumstance",
+    "definition": "An event that may pose a health or safety risk, impacting employee's ability to report to, or remain in, the workplace. Such emergency circumstances may include building conditions, such as a fire, power outage or flood, or extreme weather conditions, such as a blizzard.",
+    "source_anchor": "https://its.ny.gov/glossary#extraordinary-circumstance",
+    "notes": ""
+  },
+  {
+    "term": "FDS",
+    "definition": "Annual statements of financial disclosure submitted to the New York State Commission on Ethics and Lobbying in Government (COELIG).",
+    "source_anchor": "https://its.ny.gov/glossary#fds",
+    "notes": ""
+  },
+  {
+    "term": "FTF",
+    "definition": "Finance Transaction Form",
+    "source_anchor": "https://its.ny.gov/glossary#ftf",
+    "notes": ""
+  },
+  {
+    "term": "Fundamental Alteration",
+    "definition": "A change in the fundamental characteristic of the product, not merely a cosmetic or esthetic change.",
+    "source_anchor": "https://its.ny.gov/glossary#fundamental-alteration",
+    "notes": ""
+  },
+  {
+    "term": "Gender-Based Violence",
+    "definition": "Violence or threats that happen because of someone’s sex, gender, sexual orientation, gender identity or expression, or other related characteristics. Gender-based violence is an umbrella term that includes domestic violence, sex-based discrimination, sexual harassment, sexual assault, and sexual violence, and can also include stalking or human trafficking.",
+    "source_anchor": "https://its.ny.gov/glossary#gender-based-violence",
+    "notes": ""
+  },
+  {
+    "term": "Generative AI",
+    "definition": "AI that is capable of generating text, images, or other media, using generative models. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics.",
+    "source_anchor": "https://its.ny.gov/glossary#generative-ai",
+    "notes": ""
+  },
+  {
+    "term": "GFO",
+    "definition": "Guide to Financial Operations",
+    "source_anchor": "https://its.ny.gov/glossary#gfo",
+    "notes": ""
+  },
+  {
+    "term": "GitHub",
+    "definition": "A commercial entity that provides online software hosting with code repositories developers use to collaborate on software development projects in real-time. GitHub provides social networking features to allow developed to follow open-source projects, share code, and learn how code changes are made throughout the development process. GitHub gets its name from the open-source version control system (VCS) known as Git.",
+    "source_anchor": "https://its.ny.gov/glossary#github",
+    "notes": ""
+  },
+  {
+    "term": "Government-to-Government",
+    "definition": "The electronic sharing of data and/or information systems between government agencies, departments, or organizations.",
+    "source_anchor": "https://its.ny.gov/glossary#government-to-government",
+    "notes": ""
+  },
+  {
+    "term": "Guideline (NYS-P09-003)",
+    "definition": "Guidance, best practices, recommendations, or administrative instructions to perform a specific task. A guideline can be a standalone document or make a policy or standard more meaningful and effective. Compliance with a guideline is not compulsory, but strongly suggested.",
+    "source_anchor": "https://its.ny.gov/glossary#guideline-nys-p09-003",
+    "notes": ""
+  },
+  {
+    "term": "Guideline (NYS-S13-001)",
+    "definition": "Non-mandatory suggested course of action.",
+    "source_anchor": "https://its.ny.gov/glossary#guideline-nys-s13-001",
+    "notes": ""
+  },
+  {
+    "term": "Hardware Security Model",
+    "definition": "A physical computing device that safeguards and manages digital keys for strong authentication and provides crypto processing.",
+    "source_anchor": "https://its.ny.gov/glossary#hardware-security-model",
+    "notes": ""
+  },
+  {
+    "term": "Hashing",
+    "definition": "Producing hash values for accessing data or for security. A hash value (or simply hash) is a number generated from a string of text. The hash is substantially smaller than the text itself, and is generated by a formula in such a way that it is extremely unlikely that some other text will produce the same hash value. Hashes play a role in security systems where they are used to ensure that transmitted messages have not been tampered with. The sender generates a hash of the message, encrypts it, and sends it with the message itself. The recipient then decrypts both the message and the hash, produces another hash from the received message, and compares the two hashes. If they are the same, there is a very high probability that the message was transmitted intact.",
+    "source_anchor": "https://its.ny.gov/glossary#hashing",
+    "notes": ""
+  },
+  {
+    "term": "Hazard Assessment",
+    "definition": "A process to identify potential hazards and analyze outcomes if a hazard occurs.",
+    "source_anchor": "https://its.ny.gov/glossary#hazard-assessment",
+    "notes": ""
+  },
+  {
+    "term": "HBITS",
+    "definition": "Hourly-Based Information Technology Services. The suite of OGS centralized contracts providing hourly IT consultant services.",
+    "source_anchor": "https://its.ny.gov/glossary#hbits",
+    "notes": ""
+  },
+  {
+    "term": "Host Agency",
+    "definition": "The name for the ITS partner agency that physically hosts an ITS staff member.",
+    "source_anchor": "https://its.ny.gov/glossary#host-agency",
+    "notes": ""
+  },
+  {
+    "term": "HTTP",
+    "definition": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.",
+    "source_anchor": "https://its.ny.gov/glossary#http",
+    "notes": ""
+  },
+  {
+    "term": "IaaS",
+    "definition": "Infrastructure as a Service",
+    "source_anchor": "https://its.ny.gov/glossary#iaas",
+    "notes": ""
+  },
+  {
+    "term": "IAL",
+    "definition": "See \"Identity Assurance Level\"",
+    "source_anchor": "https://its.ny.gov/glossary#ial",
+    "notes": ""
+  },
+  {
+    "term": "ICT",
+    "definition": "\"Information Communication Technology\"",
+    "source_anchor": "https://its.ny.gov/glossary#ict",
+    "notes": ""
+  },
+  {
+    "term": "Idempotency",
+    "definition": "The property of certain operations in the mathematics and computer science to be applied multiple times without changing the result beyond the initial application.",
+    "source_anchor": "https://its.ny.gov/glossary#idempotency",
+    "notes": ""
+  },
+  {
+    "term": "Identity Assurance Level",
+    "definition": "The degree of confidence in the vetting process used to establish the identity of the individual to whom the credential was issued, and the degree of confidence that the individual who uses the credential is the individual to whom the credential was issued.",
+    "source_anchor": "https://its.ny.gov/glossary#identity-assurance-level",
+    "notes": ""
+  },
+  {
+    "term": "Identity Provider",
+    "definition": "The party that manages the individual’s primary authentication credentials and issues assertions derived from those credentials. This is commonly the Credential Service Provider (CSP) as defined in the ITS Glossary.",
+    "source_anchor": "https://its.ny.gov/glossary#identity-provider",
+    "notes": ""
+  },
+  {
+    "term": "IdP",
+    "definition": "See Identity Provider",
+    "source_anchor": "https://its.ny.gov/glossary#idp",
+    "notes": ""
+  },
+  {
+    "term": "IFB",
+    "definition": "Invitation for Bid",
+    "source_anchor": "https://its.ny.gov/glossary#ifb",
+    "notes": ""
+  },
+  {
+    "term": "IG",
+    "definition": "Inspector General",
+    "source_anchor": "https://its.ny.gov/glossary#ig",
+    "notes": ""
+  },
+  {
+    "term": "Imminent Danger",
+    "definition": "Any dangerous conditions or practices in any place of employment that could reasonably be expected to cause death or serious physical harm immediately or before the imminence of such danger can be eliminated through the enforcement procedures.",
+    "source_anchor": "https://its.ny.gov/glossary#imminent-danger",
+    "notes": ""
+  },
+  {
+    "term": "Impact",
+    "definition": "The magnitude of harm that could be caused by a threat.",
+    "source_anchor": "https://its.ny.gov/glossary#impact",
+    "notes": ""
+  },
+  {
+    "term": "Incident Command System",
+    "definition": "A standardized approach to the command, control, and coordination of emergency response, providing a common hierarchy within which responders from multiple agencies can be effective.",
+    "source_anchor": "https://its.ny.gov/glossary#incident-command-system",
+    "notes": ""
+  },
+  {
+    "term": "Incident Response",
+    "definition": "The manual and automated procedures used to respond to reported network intrusions (real or suspected); network failures and errors; and other undesirable events.",
+    "source_anchor": "https://its.ny.gov/glossary#incident-response",
+    "notes": ""
+  },
+  {
+    "term": "Incident Response Stakeholders",
+    "definition": "IR Stakeholders are any individuals‚ technical or non- technical, directly responding to or overseeing IR activities.",
+    "source_anchor": "https://its.ny.gov/glossary#incident-response-stakeholders",
+    "notes": ""
+  },
+  {
+    "term": "Independently Verified",
+    "definition": "Information provided by a user is verified to a source that is independent of the user (most often a trusted database) which finds that the claimed identity exists and is consistent with the identity and address information provided.",
+    "source_anchor": "https://its.ny.gov/glossary#independently-verified",
+    "notes": ""
+  },
+  {
+    "term": "Individual Account",
+    "definition": "A unique account issued to a single user. The account enables the user to authenticate to systems with a digital identity. After a user (e.g., NYS citizen, resident, employee, or other applicable user type) is authenticated, the user is authorized or denied access to the system based on the permissions that are assigned directly or indirectly to that user.",
+    "source_anchor": "https://its.ny.gov/glossary#individual-account",
+    "notes": ""
+  },
+  {
+    "term": "Information",
+    "definition": "Any communication or representation of knowledge such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual. An instance of an information type.",
+    "source_anchor": "https://its.ny.gov/glossary#information",
+    "notes": ""
+  },
+  {
+    "term": "Information Communication Technology",
+    "definition": "Shall have the same meaning as set forth in 36 C.F.R. Appendix A to Part 1194, information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content.",
+    "source_anchor": "https://its.ny.gov/glossary#information-communication-technology",
+    "notes": ""
+  },
+  {
+    "term": "Information Owner",
+    "definition": "An individual or organizational unit responsible for making classification and control decisions regarding use of information.",
+    "source_anchor": "https://its.ny.gov/glossary#information-owner",
+    "notes": ""
+  },
+  {
+    "term": "Information Security",
+    "definition": "The concepts, techniques and measures used to protect information from accidental or intentional unauthorized access, modification, destruction, disclosure or temporary or permanent loss.",
+    "source_anchor": "https://its.ny.gov/glossary#information-security",
+    "notes": ""
+  },
+  {
+    "term": "Information System",
+    "definition": "A discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.",
+    "source_anchor": "https://its.ny.gov/glossary#information-system",
+    "notes": ""
+  },
+  {
+    "term": "Information Technology",
+    "definition": "Shall have the same meaning as set forth in 40 U.S.C. § 11101(6): (A) any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by a State Entity, if the equipment is used by the State Entity directly or is used by a contractor under a contract with the State Entity that requires the use (1) of that equipment; or (2) of that equipment to a significant extent in the performance of a service or the furnishing of a product; (B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but (C) does not include any equipment acquired by a State contractor incidental to a State contract.",
+    "source_anchor": "https://its.ny.gov/glossary#information-technology",
+    "notes": ""
+  },
+  {
+    "term": "Information Technology Resources",
+    "definition": "Equipment, software or services used to input, store, process, transmit, and output information, including, but not limited to, desktops, laptops, mobile devices, servers, telephones, fax machines, copiers, printers, Internet, email, and social media sites.",
+    "source_anchor": "https://its.ny.gov/glossary#information-technology-resources",
+    "notes": ""
+  },
+  {
+    "term": "Inherent Risk",
+    "definition": "The probability of loss arising out of circumstances or existing in an environment in the absence of any action to control or modify the circumstances.",
+    "source_anchor": "https://its.ny.gov/glossary#inherent-risk",
+    "notes": ""
+  },
+  {
+    "term": "Integrity",
+    "definition": "The property that data has not been altered or destroyed from its intended form or content in an unintentional or an unauthorized manner.",
+    "source_anchor": "https://its.ny.gov/glossary#integrity",
+    "notes": ""
+  },
+  {
+    "term": "Interested Party",
+    "definition": "A participant in the procurement process and those who are a participant in the procurement process and those who participate in the procurement process which has been foreclosed by the actions of ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#interested-party",
+    "notes": ""
+  },
+  {
+    "term": "Internal Control",
+    "definition": "A process, effected by an entity's board of directors, management, and other personnel, designed to provide reasonable assurance regarding the achievement of objectives relating to operations, reporting, and compliance.",
+    "source_anchor": "https://its.ny.gov/glossary#internal-control",
+    "notes": ""
+  },
+  {
+    "term": "Internal Engagement",
+    "definition": "Presentations or meetings with ITS partner agencies to unveil major new services or projects, presenting service offerings to potential new agency clients, or formal presentations with ITS business partners (e.g., vendors) about any major new or changing ITS service or project.",
+    "source_anchor": "https://its.ny.gov/glossary#internal-engagement",
+    "notes": ""
+  },
+  {
+    "term": "Internet",
+    "definition": "Shall have the same meaning as defined in State Technology Law, Section 202. This shall mean a system of linked computer networks, international in scope, that facilitate DATA transmission and exchange.",
+    "source_anchor": "https://its.ny.gov/glossary#internet",
+    "notes": ""
+  },
+  {
+    "term": "Internet Protocol Address",
+    "definition": "A numerical identifier assigned either to a user's Internet service provider or directly to a user's computer.",
+    "source_anchor": "https://its.ny.gov/glossary#internet-protocol-address",
+    "notes": ""
+  },
+  {
+    "term": "Interoperability",
+    "definition": "The ability of computer systems or software to exchange and make use of information.",
+    "source_anchor": "https://its.ny.gov/glossary#interoperability",
+    "notes": ""
+  },
+  {
+    "term": "IP Address",
+    "definition": "See \"Internet Protocol Address\"",
+    "source_anchor": "https://its.ny.gov/glossary#ip-address",
+    "notes": ""
+  },
+  {
+    "term": "ISO",
+    "definition": "Information Security Officer",
+    "source_anchor": "https://its.ny.gov/glossary#iso",
+    "notes": ""
+  },
+  {
+    "term": "ITBM",
+    "definition": "Information Technology Business Management",
+    "source_anchor": "https://its.ny.gov/glossary#itbm",
+    "notes": ""
+  },
+  {
+    "term": "ITS Consultant",
+    "definition": "Refers to any individual who performs services for ITS and/or its customers pursuant to a contract with ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#its-consultant",
+    "notes": ""
+  },
+  {
+    "term": "ITS Employee",
+    "definition": "See \"ITS State Employee\"",
+    "source_anchor": "https://its.ny.gov/glossary#its-employee",
+    "notes": ""
+  },
+  {
+    "term": "ITSM",
+    "definition": "IT Service Management",
+    "source_anchor": "https://its.ny.gov/glossary#itsm",
+    "notes": ""
+  },
+  {
+    "term": "ITS State Employee",
+    "definition": "Any employee, contractor, or consultant who works for ITS in any capacity, regardless of the employee's bargaining unit, employment location, and employment status.",
+    "source_anchor": "https://its.ny.gov/glossary#its-state-employee",
+    "notes": ""
+  },
+  {
+    "term": "ITS Staff Member",
+    "definition": "Any full-time, part-time, seasonal, per diem employee or contractor working for ITS; or an applicant for a full-time, part-time, seasonal, per diem, or contractor position at ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#its-staff-member",
+    "notes": ""
+  },
+  {
+    "term": "JAWS",
+    "definition": "Job Access with Speech",
+    "source_anchor": "https://its.ny.gov/glossary#jaws",
+    "notes": ""
+  },
+  {
+    "term": "JSON",
+    "definition": "JavaScript Object Notation. An open-standard file format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types or any other serializable value.",
+    "source_anchor": "https://its.ny.gov/glossary#json",
+    "notes": ""
+  },
+  {
+    "term": "Knowledge-Based Verification (KBV)",
+    "definition": "Identity verification method based on knowledge of private information associated with the claimed identity. This is often referred to as knowledge-based authentication (KBA) or knowledge-based proofing (KBP).",
+    "source_anchor": "https://its.ny.gov/glossary#knowledge-based-verification-kbv",
+    "notes": ""
+  },
+  {
+    "term": "Large Language Models",
+    "definition": "A large language model, or LLM, is a deep learning algorithm that can recognize, summarize, translate, predict, and generate text and other forms of content based on knowledge gained from massive datasets.",
+    "source_anchor": "https://its.ny.gov/glossary#large-language-models",
+    "notes": ""
+  },
+  {
+    "term": "LATS-NY",
+    "definition": "Leave and Accrual Tracking System - New York",
+    "source_anchor": "https://its.ny.gov/glossary#lats-ny",
+    "notes": ""
+  },
+  {
+    "term": "LDSS",
+    "definition": "Local Department of Social Services",
+    "source_anchor": "https://its.ny.gov/glossary#ldss",
+    "notes": ""
+  },
+  {
+    "term": "Least Functionality",
+    "definition": "Configuring information systems to provide only essential functions and limit component functionality needed to perform their principal tasks and no more.",
+    "source_anchor": "https://its.ny.gov/glossary#least-functionality",
+    "notes": ""
+  },
+  {
+    "term": "Least Privilege",
+    "definition": "Granting users, programs or processes only the access they specifically need to perform their business task and no more.",
+    "source_anchor": "https://its.ny.gov/glossary#least-privilege",
+    "notes": ""
+  },
+  {
+    "term": "M/C",
+    "definition": "Management/Confidential",
+    "source_anchor": "https://its.ny.gov/glossary#m-c",
+    "notes": ""
+  },
+  {
+    "term": "M/WBE",
+    "definition": "Minority or Women-Owned Business Enterprises",
+    "source_anchor": "https://its.ny.gov/glossary#m-wbe",
+    "notes": ""
+  },
+  {
+    "term": "Machine Learning",
+    "definition": "A type of artificial intelligence that gives computers the ability to learn without being programmed by humans.",
+    "source_anchor": "https://its.ny.gov/glossary#machine-learning",
+    "notes": ""
+  },
+  {
+    "term": "MBE",
+    "definition": "Minority-Owned Business Enterprise",
+    "source_anchor": "https://its.ny.gov/glossary#mbe",
+    "notes": ""
+  },
+  {
+    "term": "MiFi",
+    "definition": "See \"Aircard/MiFi\"",
+    "source_anchor": "https://its.ny.gov/glossary#mifi",
+    "notes": ""
+  },
+  {
+    "term": "Mission Essential Function",
+    "definition": "An agency or business unit function that must be continued throughout, or resumed rapidly after, a disruption of normal activities because they enable the organization to provide vital services or allow it to function.",
+    "source_anchor": "https://its.ny.gov/glossary#mission-essential-function",
+    "notes": ""
+  },
+  {
+    "term": "Mobile Device",
+    "definition": "A computing device in a small portable form factor that has at least one network connection interface, non-removable and/or removable storage, and is portable, including but not limited to smartphones, Personal Digital Assistants (PDAs), tablets, laptops, smart watches and wearable devices.",
+    "source_anchor": "https://its.ny.gov/glossary#mobile-device",
+    "notes": ""
+  },
+  {
+    "term": "Multi-Factor Authentication",
+    "definition": "Using more than one of the following verification factors to authenticate to a system: Something you know (e.g., user-ID, password, personal identification number (PIN), or passcode) Something you have (e.g., a one-time password authentication token, ‘smart card’) Something you are (e.g., fingerprint, retina scan)",
+    "source_anchor": "https://its.ny.gov/glossary#multi-factor-authentication",
+    "notes": ""
+  },
+  {
+    "term": "NAS",
+    "definition": "Network Attached Storage",
+    "source_anchor": "https://its.ny.gov/glossary#nas",
+    "notes": ""
+  },
+  {
+    "term": "Natural Language Processing",
+    "definition": "Allows computers to understand the structure and meaning of spoken or written human language, allowing users to interact with the computer using natural sentences.",
+    "source_anchor": "https://its.ny.gov/glossary#natural-language-processing",
+    "notes": ""
+  },
+  {
+    "term": "Network Time Protocol",
+    "definition": "An internet standard protocol that is used to synchronize computer clock times in a network of computers. NTP uses UTC to synchronize computer clock times to a millisecond, and sometimes to a fraction of a millisecond.",
+    "source_anchor": "https://its.ny.gov/glossary#network-time-protocol",
+    "notes": ""
+  },
+  {
+    "term": "NFS",
+    "definition": "Network File System",
+    "source_anchor": "https://its.ny.gov/glossary#nfs",
+    "notes": ""
+  },
+  {
+    "term": "NIST",
+    "definition": "National Institute of Standards and Technology",
+    "source_anchor": "https://its.ny.gov/glossary#nist",
+    "notes": ""
+  },
+  {
+    "term": "Nonce",
+    "definition": "A value used in security protocols that is never repeated with the same key. For example, nonces used as challenges in challenge- response authentication protocols must not be repeated until authentication keys are changed. Otherwise, there is a possibility of a replay attack. Using a nonce as a challenge is a different requirement than a random challenge, because a nonce is not necessarily unpredictable.",
+    "source_anchor": "https://its.ny.gov/glossary#nonce",
+    "notes": ""
+  },
+  {
+    "term": "Non-State Personnel",
+    "definition": "Any individual who is not employed by ITS or another state entity.",
+    "source_anchor": "https://its.ny.gov/glossary#non-state-personnel",
+    "notes": ""
+  },
+  {
+    "term": "NYSCR",
+    "definition": "NYS Contract Reporter. The official publication for NYS procurement activity, including competitive procurement opportunities.",
+    "source_anchor": "https://its.ny.gov/glossary#nyscr",
+    "notes": ""
+  },
+  {
+    "term": "NYSID",
+    "definition": "NYS Industries for the Disabled",
+    "source_anchor": "https://its.ny.gov/glossary#nysid",
+    "notes": ""
+  },
+  {
+    "term": "NYS Private Cloud",
+    "definition": "The NY State Private Cloud is a framework of services that provide New York State entities with secure technology services and solutions.",
+    "source_anchor": "https://its.ny.gov/glossary#nys-private-cloud",
+    "notes": ""
+  },
+  {
+    "term": "NYSPRP",
+    "definition": "NYS Preferred Source Program",
+    "source_anchor": "https://its.ny.gov/glossary#nysprp",
+    "notes": ""
+  },
+  {
+    "term": "OAUTH",
+    "definition": "Open Authorization. An open standard for the token-based authentication and authorization on the internet.",
+    "source_anchor": "https://its.ny.gov/glossary#oauth",
+    "notes": ""
+  },
+  {
+    "term": "OCFS",
+    "definition": "Office of Children and Family Services",
+    "source_anchor": "https://its.ny.gov/glossary#ocfs",
+    "notes": ""
+  },
+  {
+    "term": "Offerer",
+    "definition": "An individual, bidder, or entity who has submitted an offer in response to a solicitation for commodities or services issued by ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#offerer",
+    "notes": ""
+  },
+  {
+    "term": "Official Records",
+    "definition": "Records required to be kept pursuant to Arts and Cultural Affairs Law, Section 57.05, and 8 NYCRR Part 188.",
+    "source_anchor": "https://its.ny.gov/glossary#official-records",
+    "notes": ""
+  },
+  {
+    "term": "Official Work Site",
+    "definition": "The employee's official office. This is also known as the official workstation or the usual and customary work address.",
+    "source_anchor": "https://its.ny.gov/glossary#official-work-site",
+    "notes": ""
+  },
+  {
+    "term": "OGS",
+    "definition": "Office of General Services",
+    "source_anchor": "https://its.ny.gov/glossary#ogs",
+    "notes": ""
+  },
+  {
+    "term": "Online Service",
+    "definition": "A service accessed via the Internet or other networks which provides access to citizens, businesses, business partners, other State Entities, local government entities, and the State workforce.",
+    "source_anchor": "https://its.ny.gov/glossary#online-service",
+    "notes": ""
+  },
+  {
+    "term": "OOB",
+    "definition": "Out-of-Band",
+    "source_anchor": "https://its.ny.gov/glossary#oob",
+    "notes": ""
+  },
+  {
+    "term": "Open Market Purchase",
+    "definition": "A purchase made from a seller that does not have a state or agency contract for the commodity or service being bought.",
+    "source_anchor": "https://its.ny.gov/glossary#open-market-purchase",
+    "notes": ""
+  },
+  {
+    "term": "Open-Source AI Systems",
+    "definition": "AI software that is available for anyone to use, modify, and distribute, and the source code of the software is publicly accessible, and anyone can contribute to its development.",
+    "source_anchor": "https://its.ny.gov/glossary#open-source-ai-systems",
+    "notes": ""
+  },
+  {
+    "term": "Open Standard",
+    "definition": "A standard that is openly accessible and usable by anyone. Typically, anybody can participate in their development due to their inherently open nature.",
+    "source_anchor": "https://its.ny.gov/glossary#open-standard",
+    "notes": ""
+  },
+  {
+    "term": "Order of Protection (OP)",
+    "definition": "An order issued by any court to limit the behavior of someone who harms or threatens to harm another person. Orders of protection may direct the offending party not to injure, threaten, or harass the victim, their family, or any other person(s) listed in the order and may include, but are not limited to ordering him/her/them to stay away from the home, school, business, or place of employment of the victim; vacate a shared residence; abide by any active orders of custody and visitation; and surrender any firearms.",
+    "source_anchor": "https://its.ny.gov/glossary#order-of-protection-op",
+    "notes": ""
+  },
+  {
+    "term": "Orders of Succession",
+    "definition": "Plan that pre-identifies who will step in if personnel in leadership positions are unavailable.",
+    "source_anchor": "https://its.ny.gov/glossary#orders-of-succession",
+    "notes": ""
+  },
+  {
+    "term": "OSC",
+    "definition": "Office of the State Comptroller",
+    "source_anchor": "https://its.ny.gov/glossary#osc",
+    "notes": ""
+  },
+  {
+    "term": "OSS",
+    "definition": "Open Source Software",
+    "source_anchor": "https://its.ny.gov/glossary#oss",
+    "notes": ""
+  },
+  {
+    "term": "OSU",
+    "definition": "Operational Services Unit",
+    "source_anchor": "https://its.ny.gov/glossary#osu",
+    "notes": ""
+  },
+  {
+    "term": "OTDA",
+    "definition": "Office of Temporary and Disability Services",
+    "source_anchor": "https://its.ny.gov/glossary#otda",
+    "notes": ""
+  },
+  {
+    "term": "Overtime",
+    "definition": "All positions allocated or equated to salary grades 22 and below are deemed to be eligible to receive overtime compensation. Employees authorized or required to work more than 40 hours in any week in their regular position or in a title allocated to the same salary grade, shall receive compensation for the hours worked in excess of 40 hours in each week at one and one-half times the hourly rate of pay.",
+    "source_anchor": "https://its.ny.gov/glossary#overtime",
+    "notes": ""
+  },
+  {
+    "term": "PaaS",
+    "definition": "Platform as a Service",
+    "source_anchor": "https://its.ny.gov/glossary#paas",
+    "notes": ""
+  },
+  {
+    "term": "Pagination",
+    "definition": "The process of dividing a document into discrete electronic or printed pages.",
+    "source_anchor": "https://its.ny.gov/glossary#pagination",
+    "notes": ""
+  },
+  {
+    "term": "Password Expiration",
+    "definition": "The frequency in which a user is required to choose a new password (i.e., forced to change the password after x days).",
+    "source_anchor": "https://its.ny.gov/glossary#password-expiration",
+    "notes": ""
+  },
+  {
+    "term": "Patch Management",
+    "definition": "Vulnerabilities that can be addressed by a software or firmware update (patch) and applies to all software used on NYS systems.",
+    "source_anchor": "https://its.ny.gov/glossary#patch-management",
+    "notes": ""
+  },
+  {
+    "term": "PBITS",
+    "definition": "Project-Based Information Technology Services. The suite of OGS centralized contracts that provide deliverable-based IT services.",
+    "source_anchor": "https://its.ny.gov/glossary#pbits",
+    "notes": ""
+  },
+  {
+    "term": "P-Card",
+    "definition": "See \"Procurement Card\"",
+    "source_anchor": "https://its.ny.gov/glossary#p-card",
+    "notes": ""
+  },
+  {
+    "term": "PEF",
+    "definition": "Public Employees Federation",
+    "source_anchor": "https://its.ny.gov/glossary#pef",
+    "notes": ""
+  },
+  {
+    "term": "Penetration Testing",
+    "definition": "Test of the overall strength of an SE’s defenses (technology, processes, people) by simulating the objectives and actions of an attacker.",
+    "source_anchor": "https://its.ny.gov/glossary#penetration-testing",
+    "notes": ""
+  },
+  {
+    "term": "PERB",
+    "definition": "Public Employment Relations Board",
+    "source_anchor": "https://its.ny.gov/glossary#perb",
+    "notes": ""
+  },
+  {
+    "term": "Peripheral",
+    "definition": "A device or component associated with a workplace device, used to input/output data from a workplace device. Examples of peripherals include keyboard, mice, and LCD displays.",
+    "source_anchor": "https://its.ny.gov/glossary#peripheral",
+    "notes": ""
+  },
+  {
+    "term": "Perpetrator. or Abusive Partner, or Person Who Causes Harm",
+    "definition": "A person who commits or threatens to commit coercive or violence acts, which may include, but is not limited to, physical, psychological, sexual, economic, and/or emotional abuse against a victim.",
+    "source_anchor": "https://its.ny.gov/glossary#perpetrator-or-abusive-partner-or-person-who-causes-harm",
+    "notes": ""
+  },
+  {
+    "term": "Persistent Cookie",
+    "definition": "A cookie that remains on the user's computer.",
+    "source_anchor": "https://its.ny.gov/glossary#persistent-cookie",
+    "notes": ""
+  },
+  {
+    "term": "Personal Information",
+    "definition": "Any information concerning a natural person which, because of name, number, symbol, personal mark, or other identifier, can be used to identify that natural person.",
+    "source_anchor": "https://its.ny.gov/glossary#personal-information",
+    "notes": ""
+  },
+  {
+    "term": "Personal, Private or Sensitive Information",
+    "definition": "Any information where unauthorized access, disclosure, modification, destruction, or disruption of access to or use of such information could severely impact the SE, its critical functions, employees, customers, third parties, or New Yorkers. This term shall be deemed to include, but is not limited to: Personal information; Private information; Information that identifies specific structural, operational, or technical information of the State's Critical Infrastructure, such as maps, mechanical or architectural drawings, floor plans, operational plans or procedures, training and security procedures, descriptions of technical processes and technical architecture, plans for disaster recovery and business continuity; Reports, logs, surveys, or audits that contain sensitive information; Security-related information (e.g., vulnerability reports, risk assessments, security logs); and, Other information that is protected from disclosure by law or relates to subjects and areas of concern as determined by SE executive management.",
+    "source_anchor": "https://its.ny.gov/glossary#personal-private-or-sensitive-information",
+    "notes": ""
+  },
+  {
+    "term": "Physical and Environmental Security",
+    "definition": "Measures taken to protect systems and physical infrastructure against threats associated with their physical environment. Physical and environmental security controls include the following broad areas: The facility's general geographic operating location determines the characteristics of natural threats, such as earthquakes and flooding; threats made by people such as burglary, civil disorders, or interception of transmissions and emanations; and damaging nearby activities, including toxic chemical spills, explosions, fires, and electromagnetic interference from emitters, such as radars. Supporting facilities are those services, both technical and human, that underpin the operation of the system. The system's operation usually depends on supporting facilities such as electric power, heating and air conditioning, and telecommunications. The failure or substandard performance of these facilities may interrupt operation of the system and may cause physical damage to system hardware or stored data.",
+    "source_anchor": "https://its.ny.gov/glossary#physical-and-environmental-security",
+    "notes": ""
+  },
+  {
+    "term": "Physical Infrastructure",
+    "definition": "A generic description of any area containing non-end-user IT equipment and subsidiary hardware, including but not limited to: Mainframes; Servers; Communications equipment; Printing facilities; Media libraries; and, Wiring closets.",
+    "source_anchor": "https://its.ny.gov/glossary#physical-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "PO",
+    "definition": "Purchase Order",
+    "source_anchor": "https://its.ny.gov/glossary#po",
+    "notes": ""
+  },
+  {
+    "term": "Policy (1)",
+    "definition": "A prescribed or proscribed course of action or behavior which is to be followed with respect to the acquisition, deployment, implementation or use of information technology resources.",
+    "source_anchor": "https://its.ny.gov/glossary#policy-1",
+    "notes": ""
+  },
+  {
+    "term": "Policy (2)",
+    "definition": "A formal, high-level statement that outlines an organization's general beliefs, values, goals, objectives, and expectations for a specified subject area. Compliance with a policy is required.",
+    "source_anchor": "https://its.ny.gov/glossary#policy-2",
+    "notes": ""
+  },
+  {
+    "term": "Policy maker",
+    "definition": "An ITS employee who holds a policy-making position, as annually determined by ITS and available upon request to the Ethics Officer.",
+    "source_anchor": "https://its.ny.gov/glossary#policy-maker",
+    "notes": ""
+  },
+  {
+    "term": "Pop-Up Ad",
+    "definition": "Type of window that appears on top of (over) the browser window of a website that a user has visited. In contrast to a pop-under ad, which appears behind (in back of) the browser window, a pop-up is more obtrusive as it covers other windows, particularly the window that the user is trying to read. Pop-up ads are used extensively in advertising on the web.",
+    "source_anchor": "https://its.ny.gov/glossary#pop-up-ad",
+    "notes": ""
+  },
+  {
+    "term": "Portable Storage Device",
+    "definition": "A storage device that is capable of being physically transported, including but not limited to USB/flash drives/thumb drives, external hard drives, tapes, CDs, DVDs and cameras.",
+    "source_anchor": "https://its.ny.gov/glossary#portable-storage-device",
+    "notes": ""
+  },
+  {
+    "term": "Portal",
+    "definition": "The classic intranet portal site functions as an informational hub (i.e., topical tree listing of sites combined with a search engine), aggregating links that connect the portal's constituency of visitors to related information sources. Portals are typically positioned as starting points for users. Private sector examples include Google and Yahoo.",
+    "source_anchor": "https://its.ny.gov/glossary#portal",
+    "notes": ""
+  },
+  {
+    "term": "Portals",
+    "definition": "A server that offers access to one or more applications through a single centralized interface that provides authentication (e.g., web-based portal, virtual desktop interface (VDI)).",
+    "source_anchor": "https://its.ny.gov/glossary#portals",
+    "notes": ""
+  },
+  {
+    "term": "PPSI",
+    "definition": "See \"Personal, Private, Sensitive Information\"",
+    "source_anchor": "https://its.ny.gov/glossary#ppsi",
+    "notes": ""
+  },
+  {
+    "term": "PR",
+    "definition": "Purchase Requisition",
+    "source_anchor": "https://its.ny.gov/glossary#pr",
+    "notes": ""
+  },
+  {
+    "term": "Preferred Source",
+    "definition": "An organization providing commodities or services that NYS law has accorded the priority for state agency purchases. For example, to advance special social and economic goals, the NYS Preferred Source Program for People Who are Blind (NYSPSP), the NYS Industries for the Disabled (NYSID) and Corcraft have been designated as preferred sources.",
+    "source_anchor": "https://its.ny.gov/glossary#preferred-source",
+    "notes": ""
+  },
+  {
+    "term": "PRF",
+    "definition": "Procurement Request Form",
+    "source_anchor": "https://its.ny.gov/glossary#prf",
+    "notes": ""
+  },
+  {
+    "term": "Primary Mission Essential Function",
+    "definition": "Any function performed by the organization that meets one or more of the following criteria: A function that is required to be completed by law/ordinance; A function that is required to be completed `by directive/executive order; and/or A function that is required to be completed based on critical health and safety.",
+    "source_anchor": "https://its.ny.gov/glossary#primary-mission-essential-function",
+    "notes": ""
+  },
+  {
+    "term": "Private Information",
+    "definition": "As defined in State Technology Law, shall mean personal information in combination with any one or more of the following data elements, when either the personal information or the data element is not encrypted or encrypted with an encryption key that has also been acquired: (1) social security number; (2) driver's license number or non-driver identification card number; or (3) account number, credit or debit card number, in combination with any required security code, access code, or password which would permit access to an individual's financial account. Private information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records.",
+    "source_anchor": "https://its.ny.gov/glossary#private-information",
+    "notes": ""
+  },
+  {
+    "term": "Private Key",
+    "definition": "A cryptographic key kept secret or known only by the holder. Private keys can be used to create e-signatures or decrypt messages or files. The same private key used to sign should not be used to decrypt.",
+    "source_anchor": "https://its.ny.gov/glossary#private-key",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Account",
+    "definition": "An account which provides increased access and requires additional authorization. Examples include a network, system or security administrator account.",
+    "source_anchor": "https://its.ny.gov/glossary#privileged-account",
+    "notes": ""
+  },
+  {
+    "term": "Procedure",
+    "definition": "A set of administrative instructions for implementation of a policy or standard.",
+    "source_anchor": "https://its.ny.gov/glossary#procedure",
+    "notes": ""
+  },
+  {
+    "term": "Procurement Card",
+    "definition": "A credit card issued to NYS employees for use in purchasing goods and services for official use by a state agency.",
+    "source_anchor": "https://its.ny.gov/glossary#procurement-card",
+    "notes": ""
+  },
+  {
+    "term": "Product(s)",
+    "definition": "Shall include, without limitation, when solicited from a vendor in State government contract, RFP, IFB, or mini-bid, any piece or component of equipment, hardware, firmware, middleware, custom or commercial software, or internal components or subroutines therein which perform any date/time data recognition function, calculation, comparing or sequencing. Where services are being furnished, e.g., consulting, systems integration, code or data conversion or data entry, the term \"Product\" shall include resulting deliverables.",
+    "source_anchor": "https://its.ny.gov/glossary#product-s",
+    "notes": ""
+  },
+  {
+    "term": "Project Sunlight",
+    "definition": "An initiative which authorized the creation of an online database (http://www.projectsunlight.ny.gov/) where the public can access to see the names of individuals and entities interacting with government decision makers, and imposes reporting requirements on certain state employees (\"covered employees\").",
+    "source_anchor": "https://its.ny.gov/glossary#project-sunlight",
+    "notes": ""
+  },
+  {
+    "term": "Proof of Value",
+    "definition": "An ITS Proof-of-Value (POV) is a formal evaluation of an un-procured technology to demonstrate that the technology has practical potential to fill a business need.",
+    "source_anchor": "https://its.ny.gov/glossary#proof-of-value",
+    "notes": ""
+  },
+  {
+    "term": "Proprietary Information",
+    "definition": "Material and information relating to or associated with a company's products, business, or activities, including but not limited to financial information; data or statements; trade secrets; product research and development; existing and future product designs and performance specifications; marketing plans or techniques; schematics; client lists; computer programs; processes; and know-how that has been clearly identified and properly marked by the company as proprietary information, trade secrets, or company confidential information. The information must have been developed by the company and not be available to the government or to the public without restriction from another source.",
+    "source_anchor": "https://its.ny.gov/glossary#proprietary-information",
+    "notes": ""
+  },
+  {
+    "term": "Protest",
+    "definition": "A written challenge by an interested party to a contract award made by ITS.",
+    "source_anchor": "https://its.ny.gov/glossary#protest",
+    "notes": ""
+  },
+  {
+    "term": "PS&T",
+    "definition": "Professional, Scientific and Technical Services Unit",
+    "source_anchor": "https://its.ny.gov/glossary#ps-t",
+    "notes": ""
+  },
+  {
+    "term": "PSG",
+    "definition": "Procurement Services Group",
+    "source_anchor": "https://its.ny.gov/glossary#psg",
+    "notes": ""
+  },
+  {
+    "term": "Public Authority",
+    "definition": "For purposes of this standard, the definition of a public authority is defined in POL, Section 103, as a public authority or public benefit corporation created by or existing under any State law, at least one of whose members is appointed by the Governor (including any subsidiaries of such public authority or public benefit corporation), other than an interstate or international authority or public benefit corporation.",
+    "source_anchor": "https://its.ny.gov/glossary#public-authority",
+    "notes": ""
+  },
+  {
+    "term": "Public Key Infrastructure (PKI)",
+    "definition": "The architecture, organization, techniques, practices, and procedures that collectively support the implementation and operation of a certificate-based asymmetric or public key cryptographic system. The PKI consists of systems that collaborate to provide and implement e-signatures, encryption, and authentication services.",
+    "source_anchor": "https://its.ny.gov/glossary#public-key-infrastructure-pki",
+    "notes": ""
+  },
+  {
+    "term": "RA",
+    "definition": "See \"Registration Authority\"",
+    "source_anchor": "https://its.ny.gov/glossary#ra",
+    "notes": ""
+  },
+  {
+    "term": "Recipient",
+    "definition": "In terms of sexual harassment, it is the person who is the object of the behavior who defines it as sexual harassment. An observer (co-worker, supervisor, or manager) may also find the behavior inappropriate or offensive. This is known as third-party harassment. The recipient or harasser can also be a non-employee. For example, if a visitor or a person who provides services to ITS harasses someone at the workplace, this is sexual harassment, which should be reported. When ITS becomes aware that a non-employee is involved in sexual harassment, the agency will take appropriate action.",
+    "source_anchor": "https://its.ny.gov/glossary#recipient",
+    "notes": ""
+  },
+  {
+    "term": "Recovery Point Objective",
+    "definition": "The measure of how much information is lost as a result of the disaster. This is information that had been updated and/or captured during normal operations but had not been protected through the off-site storage process before the disaster.",
+    "source_anchor": "https://its.ny.gov/glossary#recovery-point-objective",
+    "notes": ""
+  },
+  {
+    "term": "Registration Authority",
+    "definition": "A trusted entity that establishes and vouches for the identity of an applicant to a CSP. The RA may be an integral part of a CSP, or it may be independent of a CSP, but it has a relationship to the CSP(s).",
+    "source_anchor": "https://its.ny.gov/glossary#registration-authority",
+    "notes": ""
+  },
+  {
+    "term": "Re-issuance",
+    "definition": "A new credential is created with a new identity and/or a new token. For example, a password token is re-issued by having the user select a new password.",
+    "source_anchor": "https://its.ny.gov/glossary#re-issuance",
+    "notes": ""
+  },
+  {
+    "term": "Relying Party",
+    "definition": "An entity that relies upon the claimant’s token and credentials or a verifier's assertion of a claimant’s identity, typically to process a transaction or grant access to information or a system.",
+    "source_anchor": "https://its.ny.gov/glossary#relying-party",
+    "notes": ""
+  },
+  {
+    "term": "Remote Access",
+    "definition": "The ability to access non-public computing resources from locations other than the State’s internal network.",
+    "source_anchor": "https://its.ny.gov/glossary#remote-access",
+    "notes": ""
+  },
+  {
+    "term": "Remote System Control",
+    "definition": "Controlling a system remotely from a location other than the State’s internal network.",
+    "source_anchor": "https://its.ny.gov/glossary#remote-system-control",
+    "notes": ""
+  },
+  {
+    "term": "Renewal",
+    "definition": "The usage or validity period of the token and credential is extended without changing the token or re-verifying the user's identity. Examples of tokens that would be renewed or extended include hard tokens, out of band tokens, one-time passwords, and soft tokens.",
+    "source_anchor": "https://its.ny.gov/glossary#renewal",
+    "notes": ""
+  },
+  {
+    "term": "Residual Risk",
+    "definition": "Risk that remains after all mitigation efforts and IT security measures are applied.",
+    "source_anchor": "https://its.ny.gov/glossary#residual-risk",
+    "notes": ""
+  },
+  {
+    "term": "REST",
+    "definition": "Representational State Transfer. REST services are a way of providing interoperability between computer systems on the internet. REST-compliant web services allow requesting systems to access and manipulate textual representations of web resources using a uniform and predefined set of stateless operations.",
+    "source_anchor": "https://its.ny.gov/glossary#rest",
+    "notes": ""
+  },
+  {
+    "term": "Restraining Order",
+    "definition": "See \"Order of Protection\"",
+    "source_anchor": "https://its.ny.gov/glossary#restraining-order",
+    "notes": ""
+  },
+  {
+    "term": "Retaliatory Action",
+    "definition": "The discharge, suspension, demotion, penalization, or discrimination against any employee, or other adverse employment action taken against an employee in the terms and conditions of employment.",
+    "source_anchor": "https://its.ny.gov/glossary#retaliatory-action",
+    "notes": ""
+  },
+  {
+    "term": "RFP",
+    "definition": "Request for Proposal",
+    "source_anchor": "https://its.ny.gov/glossary#rfp",
+    "notes": ""
+  },
+  {
+    "term": "RFQ",
+    "definition": "Request for Quote",
+    "source_anchor": "https://its.ny.gov/glossary#rfq",
+    "notes": ""
+  },
+  {
+    "term": "Risk",
+    "definition": "The possibility of an event occurring that will have an impact on the achievement of objectives. Risk is measured in terms of impact and likelihood.",
+    "source_anchor": "https://its.ny.gov/glossary#risk",
+    "notes": ""
+  },
+  {
+    "term": "Risk Assessment",
+    "definition": "The process of identifying threats to information or information systems, determining the likelihood of occurrence of the threat, and identifying system vulnerabilities that could be exploited by the threat.",
+    "source_anchor": "https://its.ny.gov/glossary#risk-assessment",
+    "notes": ""
+  },
+  {
+    "term": "Risk Management",
+    "definition": "A process that includes taking actions to assess risk and avoid or reduce risk to acceptable levels.",
+    "source_anchor": "https://its.ny.gov/glossary#risk-management",
+    "notes": ""
+  },
+  {
+    "term": "SBE",
+    "definition": "Small Business Enterprises",
+    "source_anchor": "https://its.ny.gov/glossary#sbe",
+    "notes": ""
+  },
+  {
+    "term": "SBOC",
+    "definition": "See \"Standby/On-Call\"",
+    "source_anchor": "https://its.ny.gov/glossary#sboc",
+    "notes": ""
+  },
+  {
+    "term": "SBR",
+    "definition": "State Budget Request",
+    "source_anchor": "https://its.ny.gov/glossary#sbr",
+    "notes": ""
+  },
+  {
+    "term": "SDVOB",
+    "definition": "Service-Disabled Veteran-Owned Business",
+    "source_anchor": "https://its.ny.gov/glossary#sdvob",
+    "notes": ""
+  },
+  {
+    "term": "SE",
+    "definition": "See \"State Entity\"",
+    "source_anchor": "https://its.ny.gov/glossary#se",
+    "notes": ""
+  },
+  {
+    "term": "Secure Coding",
+    "definition": "Coding practices to avoid the occurrence of common coding vulnerabilities and to be resilient to high-risk threats before being deployed in production.",
+    "source_anchor": "https://its.ny.gov/glossary#secure-coding",
+    "notes": ""
+  },
+  {
+    "term": "Secure Sockets Layer (SSL)",
+    "definition": "An older version of the TLS proto.",
+    "source_anchor": "https://its.ny.gov/glossary#secure-sockets-layer-ssl",
+    "notes": ""
+  },
+  {
+    "term": "Security Level",
+    "definition": "The degree of trust that is associated with a user account, based upon Identification method; one of the attributes of a user account.",
+    "source_anchor": "https://its.ny.gov/glossary#security-level",
+    "notes": ""
+  },
+  {
+    "term": "Sensitivity",
+    "definition": "A measure of the importance assigned to information by its owner, for the purpose of denoting its need for protection.",
+    "source_anchor": "https://its.ny.gov/glossary#sensitivity",
+    "notes": ""
+  },
+  {
+    "term": "Serious Physical Harm",
+    "definition": "Physical injury which creates a substantial risk of death, or which causes death or serious and protracted disfigurement, protracted impairment of health, protracted loss or impairment of the function of any bodily organ, or a sexual offense as defined in Article 130 of the Penal Law.",
+    "source_anchor": "https://its.ny.gov/glossary#serious-physical-harm",
+    "notes": ""
+  },
+  {
+    "term": "Service",
+    "definition": "A mechanism to enable access to one or more business capabilities where the access is provided using a prescribed interface and is exercised consistent with constraints and policies as specified by the service description.",
+    "source_anchor": "https://its.ny.gov/glossary#service",
+    "notes": ""
+  },
+  {
+    "term": "Service Consumer",
+    "definition": "An entity that seeks to satisfy a particular need through the use of capabilities offered by means of a service.",
+    "source_anchor": "https://its.ny.gov/glossary#service-consumer",
+    "notes": ""
+  },
+  {
+    "term": "Service Orientated Architecture (SOA)",
+    "definition": "A set of principles and methodologies for designing and developing software in the form of interoperable services. These services are well-defined business functions that are built as software components (i.e., discrete pieces of code and/or data structures) that can be reused for different purposes.",
+    "source_anchor": "https://its.ny.gov/glossary#service-orientated-architecture-soa",
+    "notes": ""
+  },
+  {
+    "term": "Service Set Identifier (SSID)",
+    "definition": "The name assigned to a Wi-Fi (wireless) network. All devices in the network must use this name to communicate over Wi-Fi.",
+    "source_anchor": "https://its.ny.gov/glossary#service-set-identifier-ssid",
+    "notes": ""
+  },
+  {
+    "term": "Session Cookie",
+    "definition": "A cookie that is erased during browser operation or when the browser is closed.",
+    "source_anchor": "https://its.ny.gov/glossary#session-cookie",
+    "notes": ""
+  },
+  {
+    "term": "Set Schedule",
+    "definition": "Approved hours and days worked in a pay period.",
+    "source_anchor": "https://its.ny.gov/glossary#set-schedule",
+    "notes": ""
+  },
+  {
+    "term": "Sexual Harassment",
+    "definition": "Consistent with the New York State Human Rights Law, unwelcome conduct which is either of a sexual nature, or which is directed at an individual because of that individual’s sex when: Such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile, or offensive work environment, even if the reporting individual is not the intended target of the sexual harassment; Such conduct is made either explicitly or implicitly a term or condition of employment; or, Submission to or rejection of such conduct is used as the basis for employment decisions affecting an individual’s employment.",
+    "source_anchor": "https://its.ny.gov/glossary#sexual-harassment",
+    "notes": ""
+  },
+  {
+    "term": "SFS",
+    "definition": "Statewide Financial System",
+    "source_anchor": "https://its.ny.gov/glossary#sfs",
+    "notes": ""
+  },
+  {
+    "term": "Shared Account",
+    "definition": "Any account where more than one person knows the password and/or uses the same authentication token. Use of shared accounts is only allowed when there is a system or business limitation preventing use of individual accounts. These cases must be documented by the information owner and reviewed by the Information Security Officer (ISO)/ designated security representative.",
+    "source_anchor": "https://its.ny.gov/glossary#shared-account",
+    "notes": ""
+  },
+  {
+    "term": "Significant Change",
+    "definition": "Includes but is not limited to: Adding/deleting/modifying features/functionality to existing systems; Substantial redesign of the existing system or environment; or, Other modifications that could substantially affect the system security. Exclusions include, but are not limited to changes to wording, adding links to an outside site, adding a document to a web site, installing vendor supplied security patches to the underlying software or operating system, uploading data to the database.",
+    "source_anchor": "https://its.ny.gov/glossary#significant-change",
+    "notes": ""
+  },
+  {
+    "term": "Single-Factor Authentication",
+    "definition": "Using one of the following to authenticate to a system: Something you know (e.g., user-ID, password, memorized personal identification number (PIN), or passcode) Something you have (e.g., a one-time password authentication token, 'smart card') Something you are (e.g., fingerprint, retina scan)",
+    "source_anchor": "https://its.ny.gov/glossary#single-factor-authentication",
+    "notes": ""
+  },
+  {
+    "term": "Single Source",
+    "definition": "A type of procurement in which two or more vendors can supply the required commodity or service, yet the state NYS agency has decided to award a contract to one vendor.",
+    "source_anchor": "https://its.ny.gov/glossary#single-source",
+    "notes": ""
+  },
+  {
+    "term": "Smart Card",
+    "definition": "A hardware token that incorporates one or more integrated circuit (IC) chips to implement cryptographic functions and possesses some inherent resistance to tampering.",
+    "source_anchor": "https://its.ny.gov/glossary#smart-card",
+    "notes": ""
+  },
+  {
+    "term": "Smartphone",
+    "definition": "A mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded applications. The use of a smartphone requires a data plan.",
+    "source_anchor": "https://its.ny.gov/glossary#smartphone",
+    "notes": ""
+  },
+  {
+    "term": "SME",
+    "definition": "Subject Matter Expert",
+    "source_anchor": "https://its.ny.gov/glossary#sme",
+    "notes": ""
+  },
+  {
+    "term": "SOA",
+    "definition": "See \"Service Oriented Architecture\"",
+    "source_anchor": "https://its.ny.gov/glossary#soa",
+    "notes": ""
+  },
+  {
+    "term": "SOAP",
+    "definition": "Simple Object Access Protocol. A protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to induce extensibility, neutrality, and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.",
+    "source_anchor": "https://its.ny.gov/glossary#soap",
+    "notes": ""
+  },
+  {
+    "term": "Social Media",
+    "definition": "Media that is created to be shared freely across different web publishing platforms.",
+    "source_anchor": "https://its.ny.gov/glossary#social-media",
+    "notes": ""
+  },
+  {
+    "term": "Sole Source",
+    "definition": "A type of procurement in which only one vendor can supply the required commodity or service and where the state agency has awarded a contract to that one vendor.",
+    "source_anchor": "https://its.ny.gov/glossary#sole-source",
+    "notes": ""
+  },
+  {
+    "term": "Sound Mixer",
+    "definition": "A device which takes two or more audio signals, mixes them together and provides one or more output signals.",
+    "source_anchor": "https://its.ny.gov/glossary#sound-mixer",
+    "notes": ""
+  },
+  {
+    "term": "SPID",
+    "definition": "Spend Plan ID number",
+    "source_anchor": "https://its.ny.gov/glossary#spid",
+    "notes": ""
+  },
+  {
+    "term": "Sponsorship",
+    "definition": "Logo, graphic, text, sound, video or any other identifier recognizing an individual business, person or any other non-governmental entity in exchange for donation of services, support, underwriting a project, etc.",
+    "source_anchor": "https://its.ny.gov/glossary#sponsorship",
+    "notes": ""
+  },
+  {
+    "term": "SSID",
+    "definition": "See \"Service Set Identifier\"",
+    "source_anchor": "https://its.ny.gov/glossary#ssid",
+    "notes": ""
+  },
+  {
+    "term": "Standard",
+    "definition": "Sets of rules for implementing policy. Standards make specific mention of technologies, methodologies, implementation procedures and other detail factors.",
+    "source_anchor": "https://its.ny.gov/glossary#standard",
+    "notes": ""
+  },
+  {
+    "term": "Standby/On-Call",
+    "definition": "Employees with certain expertise available for immediate recall to work in support of operating needs. These employees must be prepared to return to duty within a limited period and are considered on standby or on call.",
+    "source_anchor": "https://its.ny.gov/glossary#standby-on-call",
+    "notes": ""
+  },
+  {
+    "term": "State",
+    "definition": "State of New York.",
+    "source_anchor": "https://its.ny.gov/glossary#state",
+    "notes": ""
+  },
+  {
+    "term": "State Chief Information Officer",
+    "definition": "See \"CIO\"",
+    "source_anchor": "https://its.ny.gov/glossary#state-chief-information-officer",
+    "notes": ""
+  },
+  {
+    "term": "State Entity",
+    "definition": "Any entity that falls within the definition of \"State Government\" entities as defined in Executive Order 117 or \"State Agencies\" as defined in Section 101 of the State Technology Law.",
+    "source_anchor": "https://its.ny.gov/glossary#state-entity",
+    "notes": ""
+  },
+  {
+    "term": "State Government Entity",
+    "definition": "See \"State Entity\"",
+    "source_anchor": "https://its.ny.gov/glossary#state-government-entity",
+    "notes": ""
+  },
+  {
+    "term": "State Labor Law, Section 27-b",
+    "definition": "Known as \"The Workplace Violence Protection Act\", a specific section of State Labor Law regarding the duty of public employers to evaluate the risk of workplace assaults and homicides and to develop and implement programs to prevent and minimize workplace violence.",
+    "source_anchor": "https://its.ny.gov/glossary#state-labor-law-section-27-b",
+    "notes": ""
+  },
+  {
+    "term": "State Vehicle",
+    "definition": "A vehicle owned by a State agency or authority or leased or rented by a State agency or authority for official business.",
+    "source_anchor": "https://its.ny.gov/glossary#state-vehicle",
+    "notes": ""
+  },
+  {
+    "term": "Stay-Away Order",
+    "definition": "See \"Order of Protection\"",
+    "source_anchor": "https://its.ny.gov/glossary#stay-away-order",
+    "notes": ""
+  },
+  {
+    "term": "Supervisor",
+    "definition": "An individual responsible for day-to-day management or supervision of a User.",
+    "source_anchor": "https://its.ny.gov/glossary#supervisor",
+    "notes": ""
+  },
+  {
+    "term": "Synchronized Text Captioning",
+    "definition": "Text transcript that is synchronized or coordinated in time with the audio and video track (also referred to as synchronized text captions).",
+    "source_anchor": "https://its.ny.gov/glossary#synchronized-text-captioning",
+    "notes": ""
+  },
+  {
+    "term": "System",
+    "definition": "An interconnected set of information resources under the same direct management control that shares common functionality. A system normally includes hardware, software, applications, and communications.",
+    "source_anchor": "https://its.ny.gov/glossary#system",
+    "notes": ""
+  },
+  {
+    "term": "Tablet",
+    "definition": "A tablet is a wireless touch screen personal computer (PC) that is smaller than a notebook/laptop but larger than a smartphone. Modern tablets are built with wireless Internet or local area network (LAN) connectivity and a variety of software applications, including business applications, and Web browsers. A tablet may be used 1) with a data plan or 2) without a data plan by connecting it to a LAN, tethering it to a smartphone, or connecting it to a Wi-Fi or MiFi device.",
+    "source_anchor": "https://its.ny.gov/glossary#tablet",
+    "notes": ""
+  },
+  {
+    "term": "TAR",
+    "definition": "Tenant Alteration Request",
+    "source_anchor": "https://its.ny.gov/glossary#tar",
+    "notes": ""
+  },
+  {
+    "term": "Target Implementation Environment",
+    "definition": "The deployment environment in which the new or modified system is installed or fielded for use by a defined set of users after system acceptance has been completed. This is often referred to as the \"production\" environment.",
+    "source_anchor": "https://its.ny.gov/glossary#target-implementation-environment",
+    "notes": ""
+  },
+  {
+    "term": "Taxonomy",
+    "definition": "Science of classification according to a predetermined system, with the resulting catalog used to provide a conceptual framework for discussion, analysis, or information retrieval.",
+    "source_anchor": "https://its.ny.gov/glossary#taxonomy",
+    "notes": ""
+  },
+  {
+    "term": "TBM Counsel",
+    "definition": "The TBM Council is a nonprofit professional organization dedicated to advancing the discipline of technology business management (TBM). TBM provides technology leaders with standards and validated best practices to communicate the cost, quality, and value of IT investments to their business partners. In turn, IT is able to drive innovation for their organization. The TBM Council and its community focus on collaboration, standardization, and education to advance TBM and the IT profession.",
+    "source_anchor": "https://its.ny.gov/glossary#tbm-counsel",
+    "notes": ""
+  },
+  {
+    "term": "T-Card",
+    "definition": "Travel Card",
+    "source_anchor": "https://its.ny.gov/glossary#t-card",
+    "notes": ""
+  },
+  {
+    "term": "Telecommuter",
+    "definition": "Employees who have been approved to participate in the Telecommuting Program.",
+    "source_anchor": "https://its.ny.gov/glossary#telecommuter",
+    "notes": ""
+  },
+  {
+    "term": "Telecommuting",
+    "definition": "An alternate work arrangement that allows employees to conduct all or some of their work away from the official work site.",
+    "source_anchor": "https://its.ny.gov/glossary#telecommuting",
+    "notes": ""
+  },
+  {
+    "term": "Telecommuting Application",
+    "definition": "A document completed by the employee requesting to become an approved telecommuter.",
+    "source_anchor": "https://its.ny.gov/glossary#telecommuting-application",
+    "notes": ""
+  },
+  {
+    "term": "Threat",
+    "definition": "A potential circumstance, entity or event capable of exploiting vulnerability and causing harm. Threats can come from natural causes, human actions, or environmental conditions. A threat does not present a risk when there is no vulnerability.",
+    "source_anchor": "https://its.ny.gov/glossary#threat",
+    "notes": ""
+  },
+  {
+    "term": "Token",
+    "definition": "Something that a user possesses and controls (typically a key or password) used to authenticate the user’s identity. A token incorporates one or more of the three factors of authentication: something you know (e.g., user-ID, password, personal identification number (PIN), or passcode); something you have (e.g., a one-time password authentication token, ‘smart card’); or something you are (e.g., fingerprint, retina scan).",
+    "source_anchor": "https://its.ny.gov/glossary#token",
+    "notes": ""
+  },
+  {
+    "term": "TOS",
+    "definition": "\"Terms of Service\"",
+    "source_anchor": "https://its.ny.gov/glossary#tos",
+    "notes": ""
+  },
+  {
+    "term": "Transport Layer Security (TLS)",
+    "definition": "A network protocol provides communications security over the Internet. The protocol allows client/server applications to communicate in a way that is designed to prevent eavesdropping, tampering, or message forgery.",
+    "source_anchor": "https://its.ny.gov/glossary#transport-layer-security-tls",
+    "notes": ""
+  },
+  {
+    "term": "Trusted Party",
+    "definition": "An entity with which the State Entity has established a business relationship through a service level agreement, memorandum of understanding, contract or other comparable mechanism. For purposes of this standard, the trusted party must be evaluated and accepted per the NYS Federation/Partner Process.",
+    "source_anchor": "https://its.ny.gov/glossary#trusted-party",
+    "notes": ""
+  },
+  {
+    "term": "Tunneling",
+    "definition": "A secure communication channel through which information can be transmitted between networks (e.g., Virtual Private Network [VPN])",
+    "source_anchor": "https://its.ny.gov/glossary#tunneling",
+    "notes": ""
+  },
+  {
+    "term": "Undue Burden",
+    "definition": "Significant difficulty or expense. In determining whether an action would result in an undue burden, state government entities must consider all resources available for use in the funding and operation of the service, program, or activity.",
+    "source_anchor": "https://its.ny.gov/glossary#undue-burden",
+    "notes": ""
+  },
+  {
+    "term": "Upsert",
+    "definition": "To insert rows into a database table if they do not already exist or update them if they do.",
+    "source_anchor": "https://its.ny.gov/glossary#upsert",
+    "notes": ""
+  },
+  {
+    "term": "URI",
+    "definition": "Uniform Resource Identifier. A string of characters used to identify a resource. Such identification enables interaction with representations of the resource over a network, typically the web, using specific protocols.",
+    "source_anchor": "https://its.ny.gov/glossary#uri",
+    "notes": ""
+  },
+  {
+    "term": "URL",
+    "definition": "Uniform Resource Locator, colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably.",
+    "source_anchor": "https://its.ny.gov/glossary#url",
+    "notes": ""
+  },
+  {
+    "term": "User",
+    "definition": "Shall have the same meaning as defined in State Technology Law, Section 202. This shall mean any natural person who uses the internet to access a state agency website.",
+    "source_anchor": "https://its.ny.gov/glossary#user",
+    "notes": ""
+  },
+  {
+    "term": "UTC",
+    "definition": "Coordinated Universal Time",
+    "source_anchor": "https://its.ny.gov/glossary#utc",
+    "notes": ""
+  },
+  {
+    "term": "Verifier",
+    "definition": "An entity that verifies the claimant’s identity by verifying the claimant’s possession and control of one or two authenticators using an authentication protocol.",
+    "source_anchor": "https://its.ny.gov/glossary#verifier",
+    "notes": ""
+  },
+  {
+    "term": "Victim of Domestic Violence",
+    "definition": "Any person over the age of sixteen, any married person, or any parent accompanied by his or her minor child or children in situations in which such person or such person’s child is a victim of an act which would constitute a violation of the penal law, including, but not limited to, acts constituting disorderly conduct, harassment, aggravated harassment, sexual misconduct, forcible touching, sexual abuse, stalking, criminal mischief, menacing, reckless endangerment, kidnapping, assault, attempted assault, attempted murder, criminal obstruction of breathing or blood circulation, or strangulation, identity theft, grand larceny, or coercion; and Such act or acts have resulted in actual physical or emotional injury or have created a substantial risk of physical or emotional harm to such person or such person’s child; and Such act or acts are or are alleged to have been committed by a family 0r household member. “Family or household members” mean the following individuals: Persons related by consanguinity or affinity (blood or a person’s relation to blood relatives of their spouse Persons legally married to one another Persons formerly married to one another regardless of whether they still reside in the same household Persons who have a child in common regardless of whether such persons are married or have married or have lived together at any time Unrelated persons who are continually or at regular intervals living in the same household or who in the past continually or at regular intervals lived in the same household Persons who are not related by consanguinity or affinity and who are or have been in an intimate relationship regardless of whether such persons have lived together at any time. Factors that may be considered in determining whether a relationship is an “intimate relationship” include, but are not limited to: the nature or type of relationship, regardless of whether the relationship is sexual in nature; the frequency of interaction between the persons; and the duration of the relationship. Neither a casual acquaintance nor ordinary fraternization between two individuals in business or social contexts shall be deemed to constitute an “intimate relationship” ITS-P08-004, page 16 of 17 Any other category of individuals deemed to be a victim of domestic violence as defined by the Office of Children and Family Services in regulation. “Parent” means a natural or adoptive parent or any individual lawfully charged with a minor child’s care or custody.",
+    "source_anchor": "https://its.ny.gov/glossary#victim-of-domestic-violence",
+    "notes": ""
+  },
+  {
+    "term": "Visitor",
+    "definition": "Includes, but not limited to, family members, friends, children, customers, vendors, and/or professional colleagues who would not otherwise have physical access to the building.",
+    "source_anchor": "https://its.ny.gov/glossary#visitor",
+    "notes": ""
+  },
+  {
+    "term": "Visual Inspection",
+    "definition": "Inspection of valid current photo ID that contains the applicant’s picture and either address of record or nationality (e.g., driver’s license or Passport). Inspection will include comparing picture to applicant and recording ID number, address and date of birth.",
+    "source_anchor": "https://its.ny.gov/glossary#visual-inspection",
+    "notes": ""
+  },
+  {
+    "term": "VRWS",
+    "definition": "Voluntary Reduction in Work Schedule",
+    "source_anchor": "https://its.ny.gov/glossary#vrws",
+    "notes": ""
+  },
+  {
+    "term": "VSMO",
+    "definition": "Vendor Sourcing and Management Organization",
+    "source_anchor": "https://its.ny.gov/glossary#vsmo",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerabilities",
+    "definition": "A weakness that can be accidentally triggered or intentionally exploited.",
+    "source_anchor": "https://its.ny.gov/glossary#vulnerabilities",
+    "notes": ""
+  },
+  {
+    "term": "WBE",
+    "definition": "Women-Owned Business Enterprise",
+    "source_anchor": "https://its.ny.gov/glossary#wbe",
+    "notes": ""
+  },
+  {
+    "term": "WCAG",
+    "definition": "\"Web Content Accessibility Guidelines\"",
+    "source_anchor": "https://its.ny.gov/glossary#wcag",
+    "notes": ""
+  },
+  {
+    "term": "Web Browser",
+    "definition": "A software application for retrieving, presenting, and traversing information resources on the World Wide Web. Although browsers are primarily intended to use the World Wide Web, they can also be used to access information on private networks. Examples of web browsers are Microsoft Edge, Google Chrome, Firefox, and Safari.",
+    "source_anchor": "https://its.ny.gov/glossary#web-browser",
+    "notes": ""
+  },
+  {
+    "term": "Webcast",
+    "definition": "A broadcast produced in one location and transmitted to any PC or video-capable device connected to the internet.",
+    "source_anchor": "https://its.ny.gov/glossary#webcast",
+    "notes": ""
+  },
+  {
+    "term": "WFA",
+    "definition": "Workflow Administrator",
+    "source_anchor": "https://its.ny.gov/glossary#wfa",
+    "notes": ""
+  },
+  {
+    "term": "White Balance",
+    "definition": "A setting in a camera that compensates for the differences in color temperature of the surrounding light. In both analog and digital electronic cameras that use CCD and CMOS sensors to capture the image, the white balance must be adjusted to ensure that all colors in the scene will be represented faithfully. It can be adjusted automatically by the camera, by selecting presets (tungsten, fluorescent, etc.) or by aiming the lens at a totally white surface (the white card) and selecting \"lock white balance.\" Alternatively, a gray card with 18% gray is sometimes used.",
+    "source_anchor": "https://its.ny.gov/glossary#white-balance",
+    "notes": ""
+  },
+  {
+    "term": "Wireless Local Area Network (WLAN)",
+    "definition": "A group of wireless networking nodes within a limited geographic area that serve as an extension to existing wired local area networks, and which are based on the IEEE 802.11 standard and its amendments.",
+    "source_anchor": "https://its.ny.gov/glossary#wireless-local-area-network-wlan",
+    "notes": ""
+  },
+  {
+    "term": "Wireless Technology",
+    "definition": "Technology that permits the transfer of information between separated points without physical connection. Currently wireless technologies use infrared, acoustic, radio frequency, and optical.",
+    "source_anchor": "https://its.ny.gov/glossary#wireless-technology",
+    "notes": ""
+  },
+  {
+    "term": "WLAN",
+    "definition": "See \"Wireless Local Area Network\"",
+    "source_anchor": "https://its.ny.gov/glossary#wlan",
+    "notes": ""
+  },
+  {
+    "term": "Workforce",
+    "definition": "State employees, and other persons, whose conduct, in the performance of work for the state entity, is under the direct control of state entity, whether or not they are paid by the state entity.",
+    "source_anchor": "https://its.ny.gov/glossary#workforce",
+    "notes": ""
+  },
+  {
+    "term": "Workplace",
+    "definition": "Any permanent or temporary location away from an employee's domicile where an employee performs any work-related duty in the course of employment.",
+    "source_anchor": "https://its.ny.gov/glossary#workplace",
+    "notes": ""
+  },
+  {
+    "term": "Workplace Device",
+    "definition": "An IT hardware device, connected to a State or third-party network, used to access applications.",
+    "source_anchor": "https://its.ny.gov/glossary#workplace-device",
+    "notes": ""
+  },
+  {
+    "term": "WPS",
+    "definition": "Workplace Services",
+    "source_anchor": "https://its.ny.gov/glossary#wps",
+    "notes": ""
+  },
+  {
+    "term": "Workplace Violence",
+    "definition": "Any physical assault or acts of aggressive behavior occurring where a public employee performs any work-related duty in the course of their employment, including but not limited to: An attempt of threat, whether verbal or physical, to inflict physical injury upon an employee; Any intentional display of force which would give an employee reason to fear or expect bodily harm; Intentional and wrongful physical contact with a person without their consent that entails some injury, and Stalking an employee with the intent of causing fear of material harm to the physical safety and health of such employee when stalking has arisen through and in the course of employment.",
+    "source_anchor": "https://its.ny.gov/glossary#workplace-violence",
+    "notes": ""
+  },
+  {
+    "term": "XML",
+    "definition": "Extensible Markup Language. A markup language that defines a set of rules for encoding documents in a format that is both human readable and machine readable.",
+    "source_anchor": "https://its.ny.gov/glossary#xml",
+    "notes": ""
+  }
+]

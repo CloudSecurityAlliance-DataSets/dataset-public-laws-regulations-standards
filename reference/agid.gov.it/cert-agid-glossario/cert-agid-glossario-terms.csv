@@ -1,0 +1,242 @@
+"term","definition","source_anchor","notes"
+"0day","Che cos’è?
+Lo 0-day (o zero-day) è una qualsiasi vulnerabilità di sicurezza informatica non pubblicamente nota e definisce anche il programma – detto “exploit” – che sfrutta questa vulnerabilità per eseguire azioni non normalmente permesse nel sistema in questione. Vengono chiamati 0-day proprio perché lo sviluppatore ha “zero giorni” per riparare la falla nel programma prima che qualcuno la possa sfruttare. Nel momento in cui il bug viene risolto, lo 0-day perde la sua importanza perché non può più essere usato contro quel sistema.
+Normalmente si parla di 0-day riferendosi ad essi come attività espressamente dolose compiute da cracker che si adoperano per trovarle proprio con l’intenzione di guadagnarsi un accesso abusivo ad un sistema informatico vulnerabile.
+
+Perché è rilevante?
+Lo zero-day è molto rilevante perché è una vulnerabilità ancora sconosciuta. Di conseguenza può essere molto pericolosa e sfruttata dai cyber criminali per portare avanti le loro azioni indisturbati.
+
+Come mi difendo?
+Dal momento che gli attacchi 0-day sono generalmente sconosciuti al pubblico, è spesso difficile difendersi da essi. Infatti gli attacchi 0-day sono spesso efficaci anche contro i sistemi “sicuri” e possono rimanere ignoti anche dopo che vengono lanciati. Perciò l’unico modo per difendersi è usare il buonsenso e abitudini sicure durante l’uso del computer.
+
+Cos’è tecnicamente?
+Una vulnerabilità 0-day consiste in diversi metodi di attacco. Alcune volte, quando gli utenti visitano siti web non affidabili, codice malevolo sul sito può sfruttare le vulnerabilità dei browser Web. I browser Web sono un obiettivo particolare per i criminali a causa della loro enorme diffusione e utilizzo. I cyber criminali possono anche mandare email con allegati malevoli attraverso SMTP, i quali sfruttano vulnerabilità nell’applicazione che apre l’allegato. Gli exploit che sfruttano tipi di file comuni sono numerosi e frequenti.
+
+Come si rimedia?
+E’ necessario attendere che il fornitore del software rilasci una patch che sia in grado di risolvere le vulnerabilità presenti sul dispositivo. Ovviamente l’utente dovrà ricordarsi di applicare tutti gli aggiornamenti di sicurezza sia sul sistema operativo che sul software installato.","https://cert-agid.gov.it/glossario/0day/",""
+"Botnet","Che cos’è?
+Con il termine Botnet “rete di robot” si indica un insieme di computer o dispositivi che, precedentemente compromessi da parte di un malware, permette a un soggetto terzo di impartire istruzioni da remoto. Una botnet può essere controllata da un malware specializzato, ad esempio un trojan horse quindi controllata da un botmaster che di fatto impartisce comandi ai singoli bot o zombie arrivando a manipolare un gran numero di computer o perfino milioni di dispositivi inclusi quelli IoT. Tra le recenti botnet una delle più estese e note è Mirai
+
+Perché è rilevante?
+Una botnet è generalmente usata per sferrare attacchi informatici su larga scala, può essere comandata a distanza per scopi illegali ed infatti rappresenta una delle principali fonti di reddito illecito su Internet. Le botnet vengono generalmente utilizzate per inviare spam o virus, rubare i dati personali o per lanciare attacchi DDoS. Dal momento che le botnet possono raccogliere in alcuni casi milioni di zombie è facilmente comprensibile come tali attacchi possano essere efficaci e mettere fuori uso per diverso tempo anche siti primari o nodi tecnologici nevralgici
+
+Come mi difendo?
+Per rimuovere un PC da una rete di bot, è di solito necessario rimuovere il software malevolo che controlla il bot. Trattandosi di malware il modo migliore è quello di eseguire una scansione antivirus sul sistema colpito, in modo da individuare e rimuovere il malware della botnet.
+
+Cos’è tecnicamente?
+Una botnet si alimenta ed incrementa la sua dimensione distribuendo malware ed infettando altri computer. I gestori delle botnet infatti mirano ad infettare ed “arruolare” il maggior numero possibile di computer così da aumentare il numero di risorse disponibili per sferrare attacchi coordinati. Bisogna considerare che alcune botnet possono comprendere anche milioni di bot e in questo scenario ogni computer che si libera dal contagio riduce il potenziale della botnet e limita un’eventuale propagazione dell’infezione in rete. Le pratiche sul corretto utilizzo degli strumenti informatici e la consapevolezza dell’utente sono quindi un valido contributo per il contenimento delle botnet.
+
+Come si rimedia?
+Per impedire che il tuo computer diventi un sistema della botnet, occorre fare sempre attenzione ai download di file sospetti. E’ bene evitare di fare clic su collegamenti o allegati inviati da indirizzi mail sconosciuti. Mantenere sempre aggiornati i software presenti e le patch di sicurezza del sistema operativo oltre che utilizzare un antivirus che proteggerà il computer dalle infezione causate da malware e altri attacchi.","https://cert-agid.gov.it/glossario/botnet/",""
+"Data breach","Che cos’è
+Con il termine data breach si intende un incidente di sicurezza in cui dati sensibili, riservati, protetti vengono consultati, copiati, trasmessi, rubati o utilizzati da soggetti non autorizzati. Solitamente il data breach si realizza attraverso una divulgazione di dati riservati o confidenziali all’interno di un ambiente privo di misure di sicurezza (come ad esempio il web) in maniera involontaria o volontaria. Tale divulgazione può avvenire in seguito a:
+- perdita accidentale : data breach causato ad esempio da smarrimento di una chiavetta USB con contenuti riservati;
+- furto :  data breach causato ad esempio da furto di un notebook con all’interno dati confidenziali/riservati;
+- infedeltà aziendale : data breach causato ad esempio da un dipendente/persona interna che avendo autorizzazione ad accedere ai dati ne produce una copia da distribuire in ambiente pubblico;
+- accesso abusivo : data breach causato ad esempio da un accesso non autorizzato ai sistemi informatici con successiva divulgazione delle informazioni acquisite
+Secondo il GDPR , la notifica di eventuali violazioni di dati dovrà avvenire possibilmente senza ingiustificato ritardo e, ove possibile, entro 72 ore , dal momento in cui si è venuto a conoscenza della violazione, a meno che sia improbabile che la violazione dei dati personali presenti un rischio per i diritti e le libertà delle persone fisiche. L’eventuale ritardo dovrà essere motivato.","https://cert-agid.gov.it/glossario/data-breach/",""
+"DDOS-DOS","Che cos’è?
+Il termine Denial of Service nel campo della sicurezza informatica indica un malfunzionamento dovuto ad un attacco informatico che causa la saturazione deliberata delle risorse di un sistema informatico, ad esempio un sito web su un web server, fino a renderlo non più in grado di erogare il servizio.
+Un attacco DOS può essere anche di tipo distribuito ( DDoS – Distributed Denial of Service ). Il DDOS mantiene gli stessi scopi del DOS, ma in questo caso il traffico che colpisce la vittima proviene da molteplici fonti distribuite anche geograficamente. L’attacco DDOS viene portato da più botnet coordinate su più livelli (ad esempio un numero elevatissimo di tentativi di connessioni FTP insieme a tentativi di accesso http). Di conseguenza un attacco distribuito avrà bisogno di un lasso di tempo minore per avere successo.
+
+Perché è rilevante?
+L’attacco DoS può comportare il rallentamento o la mancata erogazione di servizi (anche essenziali) forniti via rete, con conseguenti danni a livello di immagine, economico e sociale.
+
+Come mi difendo?
+- Implementando filtri su pacchetti di dati alterati (cioè spoofed ) all’ingresso dei propri router e firewall. In questo modo, anche se non verrà immediatamente bloccato l’attacco, si potrà individuare il traffico malevolo e applicare in tempi relativamente brevi una contromisura.
+- Utilizzando sistemi di riconoscimento delle intrusioni (IDS).
+- Utilizzando sistemi di prevenzione delle intrusioni (IPS).
+- Utilizzando la tecnica del sinkholing che prevede di “far defluire” tutto il traffico proveniente da uno o più indirizzi IP “malevoli” verso un server “civetta” creati appositamente per ridurre il traffico in eccesso.
+- Sovrastimando le risorse necessarie, in modo da fronteggiare attacchi che puntano a saturare la banda o la capacità di calcolo di un sistema informatico.
+- Adeguando la configurazione del server e dei servizi, ad esempio indicando quante e quali risorse può utilizzare un servizio e come questo può rispondere alle richieste esterne. In caso di attacco, le conseguenze non si ripercuoteranno su tutto il sistema ma solo sul software oggetto dell’attacco.
+
+Cos’è tecnicamente?
+Gli attacchi vengono tipicamente eseguiti inviando molti pacchetti di richieste, di solito ad un server web, FTP o server di posta elettronica saturandone le risorse. Il sistema tende a essere non più disponibile agli utenti e a non erogare il servizio.
+L’attacco avviene in genere utilizzato molti computer compromessi, detti zombie, sui quali precedentemente viene iniettato un codice malevolo per attacchi DoS e che si attiva mediante un comando inviato dall’attaccante. In caso di diffusione su molti pc, si viene a creare una rete detta botnet, che produce inconsapevolmente e nello stesso istante un enorme flusso di dati che  travolgerà come una valanga il sito bersaglio.
+
+Come si rimedia?
+Trattandosi di connessioni apparentemente legittime, è impossibile bloccarle senza interrompere anche il flusso inoffensivo. Però, limitando drasticamente il numero di sessioni aperte simultaneamente, l’impatto dell’attacco si riduce considerevolmente senza limitare il flusso dei pacchetti regolari.","https://cert-agid.gov.it/glossario/ddos-dos/",""
+"Deep-Dark web","Surface web , Deep web e Dark web possono essere definite come tre modalità d’accesso diverse a contenuti online che possono essere sicuri o pericolosi, legali o illegali, morali o immorali.
+Al primo livello  troviamo il “ surface web ” o web in “ chiaro “.  A questa parte del WWW mondiale appartengono tutti i siti e in generale gli indirizzi indicizzati dalla maggior parte dei motori di ricerca.  Le pagine web che compongono il “surface web” che tutti  conosciamo occupano circa 4-5% del totale delle pagine web mondiali .
+Sotto la superfice del “surface web” troviamo il “deep web” conosciuto anche come “Inivisible Web”, ossia quella parte di WWW non indicizzata dai motori di ricerca, ma accessibile tramite i normali browser a patto di conoscerne l’indirizzo.  A questo livello è possibile ad esempio trovare papers accademici e scientifici, documenti legali, cartelle mediche, risorse contenute in database governativi o nei repository di aziende private. Secondo alcune stime il “ deep web” è circa 5/600 volte più grande del “surface web” .
+Al livello più basso troviamo il dark web , quella parte del WWW che utilizza le cosiddette reti darknet , ossia reti che si appoggiano all’Internet pubblico, ma  che sono accessibili solo tramite particolari software (es. TOR ). Il termine “dark” descrive sia le caratteristiche di “non-visibilità” delle informazioni sia il fatto che questo livello della Rete è spesso utilizzato per attività criminali, pornografia, traffici illeciti e transazioni illegali.","https://cert-agid.gov.it/glossario/deep-dark-web/",""
+"Defacing","Che cos’è?
+Con il termine Defacing (in italiano con defacciare) si intende la modifica illecita della home page di un sito web (la sua “faccia”) o la sostituzione di una o più pagine interne. Questo tipo di attacco, viene eseguito all’insaputa di chi gestisce il sito ed è illegale in tutti i paesi del mondo.
+
+Perché è rilevante?
+Un sito che è stato oggetto di un deface vede sostituita la propria pagina principale e/o altre pagine interne con una schermata che indica l’azione compiuta da uno o più cracker. Di conseguenza questo attacco, oltre a comportare potenzialmente l’interruzione di uno o più servizi, può creare danni all’immagine di una società o ente pubblico.
+
+Come mi difendo?
+Mantenendo aggiornato tutto il software presente sul server web. In particolare applicare regolarmente le patch di sicurezza sul sistema operativo e http server.
+
+Cos’è tecnicamente?
+Per ottenere i permessi di accesso in scrittura al sito gli attaccanti sfruttano solitamente le vulnerabilità presenti nel software di gestione del sito oppure nei sistemi operativi sottostanti. Più raramente vengono utilizzate tecniche di ingegneria sociale.
+
+Come si rimedia?
+Si eliminano i contenuti indebitamente inseriti, quindi si applicano le patch di sicurezza e gli aggiornamenti sui sistemi. Particolare attenzione andrà posta all’aggiornamento del CMS ( Contenent management system ) e di tutti i suoi plugin.","https://cert-agid.gov.it/glossario/defacing/",""
+"Exploit","Che cos’è?
+Un exploit (tradotto dall’inglese “sfruttare”) è un termine usato per identificare una tipologia di script, virus, worm o binario in grado di sfruttare una specifica vulnerabilità presente in un software o sistema informatico. Di solito un exploit permette l’esecuzione di codice malevolo con lo scopo di far ottenere all’attaccante l’acquisizione dei privilegi amministrativi. Nella dinamica di un attacco di ingegneria sociale, il termine può riferirsi anche l’inganno o al contesto utilizzato per raggirare la vittima.
+
+Perché è rilevante?
+Gli exploit sfruttano le falle di sicurezza nei software e, nelle condizioni di utilizzo più ricorrenti, un utente non ha modo di sapere se è stato infettato fino a quando è ormai troppo tardi.
+Spesso ad un exploit viene associata la diffusione di malware quindi, sfruttata in prima battuta una vulnerabilità, il codice viene iniettato in modo silente nei sistemi operativi. In particolare le vulnerabilità di tipo 0-day ben si prestano per l’utilizzo di exploit in quanto, essendo note solo ad una minoranza, possono causare numerosi danni prima di essere scoperte e risolte.
+
+Come mi difendo?
+Esistono diverse tecnologia e mezzi di rilevamento capaci di riconoscere ed interrompere l’azione di un exploit ma quelli non specifici e di maggior consumo sono in grado di identificare solo la componente malevola quindi hanno margine di intervento nella fase ultima della catena di attacco. Il modo migliore per ridurre i rischi associati alle funzionalità di exploit è quello di installare tutte le patch software, le release di sicurezza quindi in generale mantenere aggiornato il software installato. Navigare solamente in siti noti, fidati o dotati di certificato SSL (Security Socket Layer) riduce le possibilità di visitare pagine web preposte allo sfruttamento di vulnerabilità del software lato client. Per evitare l’azione di exploit provenienti dalla posta elettronica è consigliato di non aprire allegati provenienti da indirizzi mail sospetti e non scaricare file se consegnati da mittenti sconosciute.
+
+Cos’è tecnicamente?
+Gli exploit possono essere distribuiti attraverso una rete di computer connessi ad Internet, nella pratica comune l’exploit viene inserito come codice in un server con lo scopo di distribuire questo carico malevolo nel modo più rapido possibile. Nello scenario di attacco, per facilitare questa operazione, viene creata una rete di distributori dell’exploit che consentono i download drive-by tramite una pagina Web che dall’aspetto può risultare apparentemente innocua. Gli explioit si suddividono in:
+- Exploit remoto , utilizza una rete di comunicazione per contattare il sistema vittima. In tal caso l’attacco prevede l’utilizzo di un altro computer interno alla stessa rete locale oppure mediante un accesso Internet. Exploit locale è circoscritto ad un sistema vittima specifica ed è necessario avere prima l’accesso al sistema vulnerabile. Questi exploit possono essere utilizzati anche da remoto se l’attaccante ha precedentemente ottenuto l’accesso alla risorsa locale utilizzando un exploit remoto.
+- Exploit lato client , permettono di sfruttare le vulnerabilità nelle applicazioni installate nelle workstation come nel caso di applicazioni da ufficio, lettori PDF, i browser e lettori multimediali. Questo attacco è solitamente asincrono in quanto l’exploit non viene eseguito nel momento in cui entra in contatto con il sistema bersaglio ma l’interazione da parte dell’utente è fondamentale per la corretta esecuzione.
+Gli exploit possono anche essere classificati in base al tipo di tecnica utilizzata per sfruttare la vulnerabilità ad esempio: buffer overflow, Heap Overflow, format string attacks, race condition, double free(), Integer overflow, SQL injection, cross-site scripting, cross-site request forgery, Remote File Inclusion e Local File Inclusion.
+
+Come si rimedia?
+La maggior parte degli exploit è frutto di un errore dello sviluppatore, la rimozione delle falle di sicurezza è di sua competenza quindi anche il rilascio e distribuzione della relativa correzione. Gli exploit sfruttano le falle di sicurezza software e quasi mai un utente non ha modo di sapere se è stato vittima di un exploit. Per tale ragione è importante prevenire eventuali attacchi mantenendo aggiornati i software. Un modo per assicurarsi di non perdere eventuali aggiornamenti consiste nell’utilizzare un programma di gestione delle applicazioni che semplifichi la procedura di aggiornamento dei software o che, in alternativa, possa aggiornarli in modalità automatica minimizzando i tempi di esposizione della falla.","https://cert-agid.gov.it/glossario/exploit/",""
+"MITM","Che cos’è?
+Man in The Middle (MiTM) è una tipologia di attacco informatico in cui l’attaccante si introduce nella comunicazione tra la vittima e il server con il quale quest’ultima sta cercando di dialogare. Lo scopo è quello di carpire o alterare le informazioni trasmesse.
+
+Perché è rilevante?
+Un attacco di tipo MiTM può comportare serie problematiche di sicurezza relativamente all’esfiltrazione di informazioni sensibili come le pagine web navigate, le credenziali di accesso ai sistemi, numeri di conto correnti e carte di credito, fino a compromettere la sicurezza delle transazioni.
+
+Come mi difendo?
+- Utilizzando software che consente di cifrare le comunicazioni tra i due interlocutori (client e server ad esempio).
+- Evitando di connettersi a tutte le linee WI-Fi aperte, in ogni caso è sempre utile navigare le pagine in HTTPS ad esempio utilizzando una apposita estensione come HTTPS Everywhere disponibile per i browser più noti.
+
+Cos’è tecnicamente?
+Sfruttando una falla insita nel sistema o direttamente nel router, un attaccante potrà installare appositi software in grado di intercettare o modificare le comunicazioni compromettendo di fatto la connessione tra client e server. Esistono diverse varianti di questa  tipologia di attacco tra cui Man-in-the-IoT , Man-in-the-Mobile e la più nota Man-in-the browser , una tecnica ampiamente utilizzata dai malware bancari.
+
+Come si rimedia?
+Un attacco bene architettato è difficile da individuare, soprattutto perchè i target più appetibili sono quasi sempre router o server. Si consiglia pertanto di accertarsi che le pagine visitate utilizzino il protocollo https, di non proseguire con la navigazione quando le pagine web visualizzano il messaggio di problemi legati al certificato di sicurezza e naturalmente mantenere aggiornato antivirus e sistema operativo per evitare che potenziali attaccanti possano sfruttare falle già note.","https://cert-agid.gov.it/glossario/mitm/",""
+"OSINT-CLOSINT","Che cos’è?
+Con il termine OSINT , acronimo di Open Source Intelligence ,  si fa riferimento al processo di raccolta d’informazioni attraverso la consultazione di fonti di pubblico dominio definite anche “ fonti aperte “.
+Fare OSINT significa descrivere l’informazione disponibile e aperta al pubblico, attraverso un processo di ricerca, selezione, vaglio e reportizzazione verso uno specifico destinatario al fine di soddisfare una necessità informativa.
+La fase più importante del processo di OSINT è quella di “ vagliare ” le fonti rilevanti ed affidabili partendo da diverse tipologie di fonti di pubblico dominio come:
+- Mezzi di comunicazione, come giornali o riviste;
+- Motori di ricerca, dai più comuni ai meno famosi;
+- Social network;
+- Forum, Blog.
+L’OSINT quindi si distingue dalla banale ricerca d’informazioni perché applica un processo di gestione delle informazioni con lo scopo di creare una specifica conoscenza in un determinato ambito/contesto.
+Con il termine CLOSINT si fa invece riferimento alla Close Source Intelligence ,  cioè al processo di raccolta d’informazioni attraverso consultazione di “ fonti chiuse “, non accessibili al pubblico.","https://cert-agid.gov.it/glossario/osint-closint/",""
+"Phishing","Che cos’è?
+Il phishing è una frode informatica, realizzata attraverso l’invio di e-mail contraffatte, finalizzata all’acquisizione, per scopi illegali, di dati riservati oppure a far compiere alla vittima determinate operazioni/azioni. I malintenzionati che si avvalgono delle tecniche di phishing non utilizzano virus, spyware, malware o altre tipologie di software malevolo, ma si limitano, piuttosto, ad usare tecniche di social engineering, attraverso le quali vengono studiate ed analizzate le abitudini delle persone, cioè delle potenziali vittime, al fine di carpirne potenziali informazioni utili. Il phishing è quindi un tipico attacco di social engineering che sfrutta l’interazione umana e in cui è richiesta la partecipazione attiva della vittima.
+
+Cos’è tecnicamente?
+Chi vuole sferrare un attacco di phishing generalmente ricorre ad una metodologia standard che di solito si articola in diverse fasi.
+La prima di queste, consiste nell’inviare alle potenziali vittime dei messaggi di posta elettronica contenenti delle informazioni il più possibile veritiere, familiari e/o allettanti. Il messaggio fraudolento, per essere il più credibile possible,  simula delle situazioni che in realtà possono verificarsi. A titolo di esempio un tipico messaggio di phishing potrebbe riguardare:
+- la scadenza di una determinata password di un servizio on-line;
+- l’accettazione dei cambiamenti delle condizioni contrattuali;
+- il potenziale rinnovo della carta prepagata o della carta di credito;
+- dei potenziali problemi inerenti accrediti, addebiti o trasferimenti di denaro su determinati conti online;
+- la mancata, incompleta o errata presenza di informazioni, che magari riguardano determinati servizi bancari on-line;
+- la presenza di offerte di lavoro particolarmente allettanti, che magari invitano ad inserire le coordinate bancarie per far sì di esser tra i primi a beneficiarne;
+Una volta quindi catturata l’attenzione dell’ignaro utente, il messaggio fraudolento, contenente un apposito allegato o un semplice collegamento ipertestuale, permetterà di effettuare l’accesso al sito Internet in questione.  Il sito “ fake ” assomiglierà il più possibile a quello “ ufficiale” , con la speranza che il malcapitato utente inserisca username, password e/o altre potenziali informazioni utili.
+Se a questo punto l’utente di turno “ abbocca all’amo ”, il phisher, potrà disporre e utilizzare a suo piacimento i dati ottenuti con tutte le spiacevoli conseguenze del caso.
+
+Perché è rilevante?
+Anche se sono passati più di 20 anni dalla prima campagna di phishing della storia, le mail fraudolente continuano a mietere vittime tra gli utenti più sprovveduti. Possiamo affermare quindi che il phishing è una minaccia attuale.
+
+Come mi difendo?
+La regola principale per difendersi è solo una: nessuno può tutelare le nostre informazioni meglio di noi stessi . Per questo è necessario gestire i propri dati con cura e diffonderli il meno possibile.
+Di seguito si riportano alcuni semplici consigili per difendersi dal phishing:
+- non condividere mai i propri dati sensibili con una terza parte. Le compagnie ufficiali non chiedono mai informazioni del genere via email.
+- non aprire allegati del messaggio  se non si  è sicuri dell’identità del mittente.
+- non cliccare su alcun link presente nel corpo del messaggio se non si  è sicuri dell’identità del mittente.
+- se si ricevono mail che sembrano provenire dalla tua banca che ti chiedono di inserire  dati personali (login e password o numero di carta di credito) verifica sempre la veridicità della mail chiamando telefonicamente la banca.
+- controllare che la connessione sia HTTPS e verificare che all’apertura della pagina, il dominio  sia effettivamente quello “ ufficiale “.
+- installare nel computer un antivirus che protegga anche dal phishing e mantenerlo costantemente aggiornato.
+- fidati dei filtri Antispam del tuo provider di posta. I messaggi che si trovano nella cartella di Spam sono al 90% mail spazzatura o tentativi di phishing.
+- utilizzare password robuste e cambiarle con frequenza.
+- NON utilizzare mai la stessa password per i vari servizi on-line.
+
+Come si rimedia?
+Ci siamo “ cascati “: abbiamo inserito i nostri dati su un sito “ fake “.  Come prima cosa va contattato l’amministratore/gestore del portale “ ufficiale ” del servizio on-line per avvertirlo di quanto accaduto, successivamente va effettuato un cambio password sul portale “ ufficiale ” ricordando di non utilizzare mai la stessa password per i vari servizi on-line.","https://cert-agid.gov.it/glossario/phishing/",""
+"Privilege escalation","Che cos’è?
+In informatica si intende con il termine di  “ privilege escalation ” lo sfruttamento di una vulnerabilità, di un errore di progettazione o di configurazione di un software applicativo e/o sistema operativo al fine di acquisire il controllo delle risorse della macchina normalmente precluse.
+
+Perché è rilevante?
+Un’applicazione e/o utente che dispone di maggiori autorizzazioni di quelle previste o definite dall’amministratore di sistema può, ovviamente, mettere in opera azioni impreviste e non autorizzate.
+
+Cos’è tecnicamente?
+La “ scalata ” verso un livello di autorizzazioni più alto è possibile in caso di progettazione errata e/o mal gestita di funzionalità di sistema: ciò apre una falla di sicurezza nell’applicazione/sistema operativo tramite la quale un utente malintenzionato o un software malevolo può mettere in opera le seguenti tipologie di azioni:
+“ Vertical Privilege Escalation “ : un utente/applicazione accede a funzioni, autorizzazioni e privilegi più alti di quelli assegnatigli.  Si precisa che questo comporta anche la possibilità per l’utente divenuto amministratore di retrocedere i privilegi di altri amministratori al livello di semplice utente. Per esempio nei sistemi operativi Microsoft alcuni servizi sono configurati per essere eseguiti con account utente di tipo Local System . Sfruttando un vulnerabilità come il “ buffer owerflow ” può essere eseguito codice arbitrario con privilegi più elevati di Local System .
+“ Horizontal Privilege Escalation “ : un utente con gli stessi  livelli di autorizzazione di altri utenti, ma con diritti di accesso ad aree differenti rispetto a questi ultimi, guadagna accesso a dette aree.  Per esempio:
+- L’utente A in base al suo account ha accesso ad alcune funzionalità a lui riservate di un servizio on-line.
+- L’utente B in base al suo account ha accesso ad alcune funzionalità a lui riservate di un servizio on-line.
+- La vulnerabilità di “ Horizontal Privilege Escalation “ si manifesta quando l’Utente A è in grado di utilizzare le funzionalità riservate dell’Utente B.
+
+Come mi difendo?
+Per cercare di ridurre il rischio di privilege escalation, i modermi  sistemi operativi e gli utenti possono adottare  strategie di:
+- Data Execution Prevention.
+- Patching.
+- Esecuzione di applicazioni con il livello minimo di privilegi.
+- Criptaggio software e/o della componente firmware.
+- Eseceuzione in “kernel mode” solo di codice firmato digitalmente.
+Il CERT-AGID consiglia di accedere ai sistemi operativi/applicazioni sempre con accunt utente dotati di privilegi minimi e non con account di tipo “ Administrator ” o “ Root ” ed inoltre di aver sempre abilitata la modalita UAC (User Access Control).
+
+Come si rimedia?
+Trattandosi di vulnerabilità presenti in Sistemi Operativi e/o software si consiglia sempre di tener sempre aggiornato il software e/o il firmware dei dispositivi.","https://cert-agid.gov.it/glossario/privilege-escalation/",""
+"Spam","Che cos’è?
+Lo spamming, detto anche fare spam o spammare, è l’invio anche verso indirizzi generici, non verificati o sconosciuti, di messaggi ripetuti ad alta frequenza o a carattere di monotematicità tale da renderli indesiderati (generalmente commerciali o offensivi) ed è noto anche come posta spazzatura (in inglese junk mail). Può essere attuato attraverso qualunque sistema di comunicazione, ma il più usato è Internet, attraverso messaggi di posta elettronica, chat, tag board, forum, Facebook e altri servizi di rete sociale.
+
+Perché è rilevante?
+Il fenomeno dello spam per mezzo e-mail è cresciuto enormemente negli ultimi anni detenendo circa l’85% di tutte le e-mail spedite nel mondo. Secondo SpamLaws vengono spedite circa 14 miliardi di e-mail ogni giorno. Gli spammer ricevono un’email di risposta ogni 12.500.000 messaggi inviati guadagnando circa 7.000$ al giorno.
+
+Come mi difendo?
+Difendersi dallo spam non è facile, per il semplice motivo che in alcuni casi gli spammer utilizzano caselle e-mail compromesse inviando, di fatto, messaggi indesiderati da indirizzi leciti all’insaputa dei mittenti.
+Tuttavia è possibile utilizzare alcuni accorgimenti:
+- non inserire mai in chiaro il proprio indirizzo e-mail all’interno di pagine web consultabili pubblicamente (ad esempio le classiche pagine “contatti” dei siti web). Utilizzare piuttosto un modulo di contatti con Captcha (test fatto di una o più domande e risposte per determinare se l’utente sia un umano o un bot) attivo per l’invio di e-mail;
+- se proprio si è costretti ad inserire un indirizzo e-mail evitare di scriverlo in maniera testuale. Un’artefatto può essere quello di inserire un’indirizzo e-mail come immagine invece che come testo. Ma anche questa soluzione lascia un po’ il tempo che trova poichè, utilizzando sistemi di OCR (riconoscimento  ottico dei caratteri), è comunque possibile convertire l’immagine in testo.
+- utilizzare software per il filtraggio delle e-mail come SpamAssassin .
+
+Cos’è tecnicamente?
+Il principale scopo di chi effettua spamming è pubblicizzare materiale pornografico o illegale come, ad esempio, software pirata e farmaci senza prescrizione medica (Viagra, Levitra, ecc.), ma anche semplici offerte commerciali fino ad arrivare a veri e propri tentativi di truffa che degenerano, alle volte, in azioni di Phishing .
+L’autore di spam invia messaggi identici (o con lievi personalizzazioni) a migliaia di indirizzi e-mail. Tali indirizzi sono talvolta ottenuti in maniera automatica mediante Spambot (programma realizzato appositamente per l’estrazione di indirizzi e-mail dalle pagine web), accesso a database (a seguito dalla compromissione di un dominio) o semplicemente indovinati usando liste di nomi comuni.
+
+Come si rimedia?
+Molti spammer considerano le risposte ai loro messaggi (del tipo “Si prega di non inviare più questo genere di messaggi”, “Non sono interessato”, o qualsiasi altra risposta) come conferma che il messaggio è stato letto e che, quindi, l’indirizzo e-email è attivo e utilizzato dal destinario dello spam.
+In egual modo, alcuni messaggi contengono anche finti link alla rimozione dell’indirizzo dalla lista del mittente che, spesso e volentieri, hanno come effetto quello opposto: cliccando su uno di questi link, infatti, il destinatario del messaggio non fa altro che confermare in maniera ancora più semplice la lettura dell’email e che, quindi, quell’indirizzo e-mail è valido e attivo.
+In caso di ricezione di spam il consiglio è senza dubbio quello di cestinare l’e-mail senza commettere ulteriori azioni all’interno della stessa.","https://cert-agid.gov.it/glossario/spam/",""
+"Spoofing","Che cos’è?
+Lo spoofing è una tipologia di attacco informatico comunemente utilizzata insieme al Social Engineering per falsificare l’identità di un utente, di un dispositivo all’interno di una rete, il mittente di un messaggio di posta elettronica o un certificato.
+
+Perché è rilevante?
+Sfruttando questa tecnica l’attaccante potrà impersonare un host o un utente con lo scopo di sottrarre dati sensibili, commettere reati celando – in parte – la propria identità, o indurre il destinatario della comunicazione a fornire informazioni credendo di cederle all’utente o all’host reale.
+
+Come mi difendo?
+I casi più frequenti di spoofing coinvolgono principalmente la posta elettronica, a tal proposito si consiglia di diffidare da qualsiasi messaggio di posta di natura sospetta e di mettere in pratica il buon senso e particolare discrezione quando si forniscono informazioni sensibili.","https://cert-agid.gov.it/glossario/spoofing/",""
+"SQLi-SQL Injection","Che cos’è?
+Il termine SQLi è l’abbreviazione di SQL Injection e denota una vulnerabilità che permette a terzi di alterare le basi dati utilizzate da un sito web.
+
+Perché è rilevante?
+Le basi dati dei siti web possono contenere informazioni molto sensibili, come ad esempio numeri di carta di credito, password, indirizzi e simili¹. SQL è un insieme di comandi (un linguaggio) per la gestione delle basi di dati ivi compresi cancellazione, modifica ed interrogazione. La possibilità di modificare questi comandi permette a terzi il controllo sulla base dati del sito, solitamente la finalità è il furto delle credenziali di accesso ma scenari più elaborati sono possibli. Se un sito che frequentiamo regolarmente (e quindi in cui abbiamo registrato un nome utente ed una password) è soggetto a SQLi è molto probabile (se non certo) che il nostro nome utente e la nostra password vengano rubate.
+
+Come mi difendo?
+Per l’utilizzatore di un sito web con una vulnerabilità SQLi essa significa quasi sempre un furto di credenziali con conseguente furto di identità (sebbene bersagli più prestigiosi possano andare in contro a strategie di attacco meno evidenti). Non è tradizionalmente ritenuto compito degli utilizzatori accertarsi che non esistano queste vulnerabilità prima di usare un sito web, l’approccio è invece di tipo difensivo: utilizzare password diverse per ogni sito, in modo da limitare i danni in caso di furto di credenziali. Dato la consistente quantià di siti web utilizzati quotidianamente un approccio più pratico è quello di dividere i siti web in base alla sensibilità delle informazioni inserite e alle funzionalità del sito. Ad esempio si potrebbe avere una password diversa per l’home-banking, una per i social e per l’e-mail, una per il lavoro² ed una per tutti i siti spazzatura che siamo costretti ad usare³.
+
+Cos’è tecnicamente?
+Il mancato utilizzo di escape nei comandi SQL generati dinamicamente quando la sintassi del comando è controllabile direttamente o indirettamente dall’esterno. Cercare dentro un sito tramite una barra di ricerca richiede interrogare la base dati con un comando che contiene le parole cercate, un mancato utilizzo di escape permette di cambiare il comando SQL usato dal sito web tramite ricerche con parole particolari.
+
+Come si rimedia?
+Il CERT-AGID si augura che tu stia leggendo questa sezione solo per curiosità. Utilizzare sempre e soltando prepared statement (PS) per eseguire comandi SQL. Nei rari casi in cui i PS non siano sufficientemente espressivi (per esempio per i comandi con nomi di oggetti dinamici) utilizzare sempre e soltando valori in una whitelist.
+¹ I siti web che trattano dati molto sensibili sono comunque chiamati a rispettare politiche di prevenzione multi strato che limitano i danni in caso di furto. ² Questo dipende dai servizi usati a lavoro ed in ogni caso la politica di sicurezza non deve essere inferiore a quella stabilita dal contesto lavorativo.
+³ La classificazione dei siti e le relative implicazioni sono questioni non banali, il CERT-AGID consiglia sempre di usare una password in più che una in meno.","https://cert-agid.gov.it/glossario/sqli-sql-injection/",""
+"XSS","Che cos’è?
+Il termine XSS si legge Cross Site Scripting¹ e denota una vulnerabilità che permette a terzi di alterare le funzionalità di un sito web.
+
+Perché è rilevante?
+Nell’usare un sito web ce ne fidiamo implicitamente, un sito web lecito ha tutti gli interessi (di mercato) ad onorare questa fiducia ma un sito web alterato con funzionalità malevoli può adottare comportamenti scorretti (e lo farà). Alcuni esempi:
+- Quando inseriamo nome utente e password ci aspettiamo che queste siano inviate solo al sito web in questione e gestite correttamente. Un sito web compromesso può inviarle a terzi per ricatti o furti di identità.
+- Quando facciamo un accredito dall’home-banking ci aspettiamo che l’importo e il destinatario siano quelli da noi indicati. Un sito web compromesso può accreditare una somma qualsiasi a terzi in modo invisibile.
+- Ogni sito ha dati sensibili salvati nei nostri computer (per esempio per riconoscere le nostre utenze), i programmi per la navigazione su internet impediscono ad un sito web di leggere i dati sensibili di un altro sito web ma non possono sapere se un sito web è compromesso o meno, dando quindi l’accesso ai dati sensibili alle funzionalità alterate (per esempio per rubarli).
+
+Come mi difendo?
+Sebbene vi siano accortezze in grado di individuare la maggior parte delle frodi che usano attacchi XSS, lo sforzo richiesto all’utente finale per un’adeguato utilizzo di queste ultime non è proporzionale ai benefici avuti in ritorno. Come utilizzatore del sito, contatta il responsabile del sito e pretendi che prenda seriamente la vulnerabilità e chiedi di avere riscontro quando questa è stata sanata. Come responsabile del sito, è tuo compito proteggere i tuoi utilizzatori. Mobilita il tuo parco tecnico (o amplialo) per sanare la situazione.
+
+Cos’è tecnicamente?
+Il mancato utilizzo di escape nell’output generato quando l’output è controllabile direttamente o indirettamente dall’esterno. Cercare un dentro un sito tramite una barra di ricerca rimanda ad una pagina dove prima dei risultati sono ripetute le parole cercate, questo è un esempio di un output direttamente controllato dall’esterno.
+Se un attacante controlla l’output può inserire codice arbitrario nella pagina vulnerabile, violando la fiducia dell’utente nel sito (definizione formale dell’attacco)
+
+Come si rimedia?
+Il CERT-AGID si augura che tu stia leggendo questa sezione solo per curiosità. Utilizzare le corrette funzioni di escape in ogni porzione di output generato dinamicamente², un utilizzo obiquo di queste funzioni è molto semplice da implementare ed elimina il rischio XSS definitivamente.
+¹ La X va intesa come una croce, è utilizzata al posto della C perchè l’acronimo CSS è ampiamente diffuso con significato totalmente differente.
+² “Dinamicamente” ha il significato tecnico di conosciuto solo a runtime .","https://cert-agid.gov.it/glossario/xss/",""
