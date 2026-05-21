@@ -20,7 +20,9 @@
   },
   "links": {
     "source": "https://openai.com/research",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 403 from openai.com. Same OpenAI bot-block. System cards live at openai.com/research; manual download."
   },
   "lifecycle": {
     "published": "",

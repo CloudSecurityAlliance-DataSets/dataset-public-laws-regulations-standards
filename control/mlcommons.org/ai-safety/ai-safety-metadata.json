@@ -21,7 +21,9 @@
   "links": {
     "source": "https://mlcommons.org/working-groups/ai-safety",
     "csaLocation": "",
-    "benchmarks": "https://mlcommons.org/benchmarks/ai-safety"
+    "benchmarks": "https://mlcommons.org/benchmarks/ai-safety",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 401 \u2014 requires auth. Working group page is members-only. Try the public benchmark code at github.com/mlcommons/modelbench."
   },
   "lifecycle": {
     "published": "",

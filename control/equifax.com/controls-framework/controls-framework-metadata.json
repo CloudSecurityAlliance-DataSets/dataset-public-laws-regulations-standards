@@ -20,7 +20,9 @@
   },
   "links": {
     "source": "https://controlsframework.equifax.com/compliance",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 404. Equifax may have removed or restructured the framework page."
   },
   "lifecycle": {
     "published": "",

@@ -20,7 +20,9 @@
   },
   "links": {
     "source": "https://openai.com/index/red-teaming-network",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 403 from openai.com (OpenAI bot-blocks scraping). Manual browser session required."
   },
   "lifecycle": {
     "published": "",

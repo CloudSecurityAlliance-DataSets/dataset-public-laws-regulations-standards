@@ -21,7 +21,9 @@
   "links": {
     "source": "https://trustllmbenchmark.github.io",
     "csaLocation": "",
-    "github": "https://github.com/HowieHwong/TrustLLM"
+    "github": "https://github.com/HowieHwong/TrustLLM",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 404. Try the GitHub Pages source repo or the paper-with-results page."
   },
   "lifecycle": {
     "published": "",

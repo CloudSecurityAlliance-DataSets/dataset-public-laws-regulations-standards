@@ -21,7 +21,9 @@
   "links": {
     "source": "https://openai.com/index/the-model-spec",
     "csaLocation": "",
-    "spec_text": "https://cdn.openai.com/spec/model-spec-2024-05-08.html"
+    "spec_text": "https://cdn.openai.com/spec/model-spec-2024-05-08.html",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 403. Model Spec text is also at github.com/openai/model-spec \u2014 try that instead."
   },
   "lifecycle": {
     "published": "",

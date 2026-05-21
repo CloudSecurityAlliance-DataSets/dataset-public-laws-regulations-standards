@@ -26,6 +26,15 @@
 
 set -euo pipefail
 
+# Ignore SIGPIPE so a closed stdout (e.g. `pdf_to_md_via_gpu.sh ... | head -20`)
+# doesn't kill the wrapper after the initial setup output but before the polling
+# loop can detect remote completion. Without this trap, a single failed printf
+# during polling terminates the wrapper while the remote tmux job keeps running,
+# leaving the marker output stranded on the remote box. The trap turns those
+# writes into harmless no-ops; the polling `|| true` below covers the
+# `set -e` half of the picture.
+trap '' PIPE
+
 OUTPUT_DIR=""
 FORMATS_CSV="markdown"
 FORCE_OCR=0
@@ -83,14 +92,14 @@ fi
 # Extra args forwarded to marker_single (anything after the PDF on the CLI)
 EXTRA_ARGS=("$@")
 
-echo "==> Preparing remote work directory on $REMOTE_HOST"
+echo "==> Preparing remote work directory on $REMOTE_HOST" >&2
 ssh "$REMOTE_HOST" "mkdir -p $REMOTE_DIR"
 
-echo "==> Uploading marker-convert.sh (canonical copy)"
+echo "==> Uploading marker-convert.sh (canonical copy)" >&2
 scp -q "$LOCAL_MARKER_SH" "$REMOTE_HOST:$REMOTE_DIR/marker-convert.sh"
 ssh "$REMOTE_HOST" "chmod +x $REMOTE_DIR/marker-convert.sh"
 
-echo "==> Uploading PDF: $BASENAME"
+echo "==> Uploading PDF: $BASENAME" >&2
 scp -q "$INPUT" "$REMOTE_HOST:$REMOTE_DIR/$BASENAME"
 
 # Build remote command
@@ -104,9 +113,12 @@ for a in "${EXTRA_ARGS[@]:-}"; do
     REMOTE_CMD="$REMOTE_CMD $(printf %q "$a")"
 done
 
-echo "==> Launching marker-convert on remote (detached tmux)"
+echo "==> Launching marker-convert on remote (detached tmux)" >&2
 START_OUTPUT=$(ssh "$REMOTE_HOST" "$REMOTE_CMD")
-echo "$START_OUTPUT"
+# Status banner from marker-convert.sh (SESSION=, LOG=, OUTPUT=). Diagnostic
+# only — parsing below reads from $START_OUTPUT directly, so this echo can
+# safely go to stderr.
+echo "$START_OUTPUT" >&2
 
 REMOTE_SESSION="$(printf '%s\n' "$START_OUTPUT" | sed -n 's/^SESSION=//p' | head -1)"
 REMOTE_LOG="$(printf '%s\n' "$START_OUTPUT" | sed -n 's/^LOG=//p' | head -1)"
@@ -117,20 +129,26 @@ if [ -z "$REMOTE_SESSION" ] || [ -z "$REMOTE_LOG" ] || [ -z "$REMOTE_OUTPUT" ]; 
     exit 1
 fi
 
-echo ""
-echo "==> Polling $REMOTE_LOG every ${POLL_INTERVAL}s (timeout ${TIMEOUT}s)"
+{ echo ""; echo "==> Polling $REMOTE_LOG every ${POLL_INTERVAL}s (timeout ${TIMEOUT}s)"; } >&2 || true
 ELAPSED=0
 FINAL_STATUS=""
 while [ "$ELAPSED" -lt "$TIMEOUT" ]; do
     sleep "$POLL_INTERVAL"
     ELAPSED=$(( ELAPSED + POLL_INTERVAL ))
-    STATUS_LINE="$(ssh "$REMOTE_HOST" "grep -E 'STATUS: (DONE|FAILED)' $REMOTE_LOG 2>/dev/null | tail -1" || true)"
+    # Single-quote the remote paths so the remote shell sees them as literals.
+    # Without this, source filenames containing shell-special characters (e.g.
+    # ISO_IEC_FDIS_27017_(E).pdf — the parens read as subshell on the remote)
+    # cause silent grep/tail failures and the polling never sees STATUS: DONE.
+    STATUS_LINE="$(ssh "$REMOTE_HOST" "grep -E 'STATUS: (DONE|FAILED)' '$REMOTE_LOG' 2>/dev/null | tail -1" || true)"
     if [ -n "$STATUS_LINE" ]; then
         FINAL_STATUS="$STATUS_LINE"
         break
     fi
-    LAST_LINE="$(ssh "$REMOTE_HOST" "tail -1 $REMOTE_LOG 2>/dev/null" || true)"
-    printf '  [%5ds] %s\n' "$ELAPSED" "${LAST_LINE:-(waiting...)}"
+    LAST_LINE="$(ssh "$REMOTE_HOST" "tail -1 '$REMOTE_LOG' 2>/dev/null" || true)"
+    # Progress prints go to stderr so a `... | head -N` on stdout doesn't truncate
+    # the stream and SIGPIPE the wrapper. The `|| true` is belt-and-suspenders
+    # for the set -e half of pipefail in case stderr is also closed.
+    printf '  [%5ds] %s\n' "$ELAPSED" "${LAST_LINE:-(waiting...)}" >&2 || true
 done
 
 if [ -z "$FINAL_STATUS" ]; then
@@ -139,21 +157,21 @@ if [ -z "$FINAL_STATUS" ]; then
     exit 1
 fi
 
-echo ""
-echo "==> Remote $FINAL_STATUS"
+{ echo ""; echo "==> Remote $FINAL_STATUS"; } >&2 || true
 
-echo "==> Copying results back to $OUTPUT_DIR/$STEM"
+echo "==> Copying results back to $OUTPUT_DIR/$STEM" >&2
 rm -rf "$OUTPUT_DIR/$STEM"
-scp -rq "$REMOTE_HOST:$REMOTE_OUTPUT" "$OUTPUT_DIR/"
+# Pass the remote path through `printf %q` so any shell-special chars
+# (parens, spaces, etc.) survive the remote shell that scp invokes.
+scp -rq "$REMOTE_HOST:$(printf %q "$REMOTE_OUTPUT")" "$OUTPUT_DIR/"
 
 if [ "$KEEP_REMOTE" = "0" ]; then
-    echo "==> Cleaning up remote files"
-    ssh "$REMOTE_HOST" "rm -rf $REMOTE_OUTPUT $REMOTE_DIR/$BASENAME"
+    echo "==> Cleaning up remote files" >&2
+    ssh "$REMOTE_HOST" "rm -rf '$REMOTE_OUTPUT' '$REMOTE_DIR/$BASENAME'"
 fi
 
-echo ""
-echo "Done. Local output: $OUTPUT_DIR/$STEM"
-ls -lh "$OUTPUT_DIR/$STEM" | head -20
+{ echo ""; echo "Done. Local output: $OUTPUT_DIR/$STEM"; } >&2 || true
+ls -lh "$OUTPUT_DIR/$STEM" | head -20 >&2 || true
 
 if [[ "$FINAL_STATUS" == *FAILED* ]]; then
     exit 2

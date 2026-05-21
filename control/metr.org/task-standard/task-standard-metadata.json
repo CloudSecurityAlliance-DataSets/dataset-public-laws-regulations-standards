@@ -21,7 +21,9 @@
   "links": {
     "source": "https://metr.org/blog/2024-08-06-task-standard/",
     "csaLocation": "",
-    "github": "https://github.com/METR/task-standard"
+    "github": "https://github.com/METR/task-standard",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 404. METR Task Standard now at github.com/METR/task-standard."
   },
   "lifecycle": {
     "published": "",
