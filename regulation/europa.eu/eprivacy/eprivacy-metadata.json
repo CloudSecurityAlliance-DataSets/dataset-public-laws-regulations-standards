@@ -22,8 +22,8 @@
     "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0058",
     "csaLocation": "",
     "source_research_note": "EU ePrivacy Directive 2002/58/EC. EUR-Lex URL \u2014 direct curl blocked; consider PDF download alternative or gdpr-info.eu.",
-    "acquisition_status": "blocked",
-    "acquisition_blocker": "EUR-Lex returns HTTP 202 with empty body for both /eli/ and /CELEX/ URLs \u2014 async fetch protection. Alternatives: download the formal PDF via browser, or use gdpr-info.eu's ePrivacy mirror."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "EUR-Lex returns HTTP 202 with empty body for both /eli/ and /CELEX/ URLs \u2014 async fetch protection. Alternatives: download the formal PDF via browser, or use gdpr-info.eu's ePrivacy mirror."
   },
   "lifecycle": {
     "published": "",
@@ -34,13 +34,10 @@
     "notes": "Adopted 2002; amended 2009 and proposed ePrivacy Regulation pending."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "HTML acquired via Playwright (regulation/europa.eu/eprivacy/eu-eprivacy-directive.html). The 2002-vintage HTML uses a pre-ELI markup (plain <p> tags, no art_N IDs), so the shared extract_eu_regulation.py parser doesn't apply. A directive-specific parser or marker extraction would be needed for structured form."
+    "s3_timestamp": "2026-05-21T20:58:38Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058",
+    "notes": "Captured via playwright headless browser. EUR-Lex serves content correctly to a real browser session; curl/wget receive HTTP 202 with empty body (async fetch protection). Directive 2002/58/EC concerning the processing of personal data and the protection of privacy in the electronic communications sector."
   },
   "extraction_history": [
     {
@@ -54,6 +51,15 @@
       "status": "current",
       "reason": "HTML acquired but not structured (pre-ELI markup); see extraction notes",
       "tool": "Playwright (HTML only)"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "HTML acquired via Playwright (regulation/europa.eu/eprivacy/eu-eprivacy-directive.html). The 2002-vintage HTML uses a pre-ELI markup (plain <p> tags, no art_N IDs), so the shared extract_eu_regulation.py parser doesn't apply. A directive-specific parser or marker extraction would be needed for structured form."
     }
   ],
   "scope": {},

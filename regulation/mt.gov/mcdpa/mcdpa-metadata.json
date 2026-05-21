@@ -19,8 +19,8 @@
     "source": "https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf",
     "csaLocation": "",
     "source_research_note": "Montana Consumer Data Privacy Act \u2014 SB384 (2023).",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "PDF URL https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf returns HTTP 404 \u2014 Montana legislature migrated from leg.mt.gov to bills.legmt.gov SPA which requires JS to render bill text. No direct PDF endpoint found at the new domain. LegiScan 403s. Needs manual browser navigation through bills.legmt.gov to find the working bill-text PDF link."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "PDF URL https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf returns HTTP 404 \u2014 Montana legislature migrated from leg.mt.gov to bills.legmt.gov SPA which requires JS to render bill text. No direct PDF endpoint found at the new domain. LegiScan 403s. Needs manual browser navigation through bills.legmt.gov to find the working bill-text PDF link."
   },
   "lifecycle": {
     "active": true,
@@ -33,5 +33,11 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T20:58:38Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/",
+    "notes": "Captured via playwright + curl batch. MCA Title 30, Chapter 14, Part 28 \u2014 Consumer Data Privacy Act. The original leg.mt.gov SB0384 PDF URL was 404; the codified law is at mca.legmt.gov. Each of the 18 sections (30-14-2801 through 30-14-2820) was fetched individually and concatenated."
   }
 }

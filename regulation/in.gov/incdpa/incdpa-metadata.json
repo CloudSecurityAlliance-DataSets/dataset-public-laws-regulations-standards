@@ -19,8 +19,8 @@
     "source": "https://iga.in.gov/legislative/2023/bills/senate/5",
     "csaLocation": "",
     "source_research_note": "Indiana Consumer Data Protection Act \u2014 SB5 (2023).",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 200 with only 691 bytes \u2014 page exists but returned minimal content (possibly JS-rendered). Try iga.in.gov direct bill text URL or law.justia.com."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 200 with only 691 bytes \u2014 page exists but returned minimal content (possibly JS-rendered). Try iga.in.gov direct bill text URL or law.justia.com."
   },
   "lifecycle": {
     "active": true,
@@ -33,5 +33,11 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T20:58:38Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://law.justia.com/codes/indiana/title-24/article-15/",
+    "notes": "Captured via playwright through law.justia.com. Indiana Code Title 24, Article 15 \u2014 Consumer Data Protection. The original iga.in.gov bill detail page rendered only 691 bytes (JS-rendered shell)."
   }
 }
