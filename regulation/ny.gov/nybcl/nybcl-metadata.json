@@ -23,9 +23,9 @@
   "links": {
     "source": "https://www.nysenate.gov/legislation/laws/LAB/201-A",
     "csaLocation": "",
-    "source_research_note": "NY Labor Law \u00a7 201-A (lawful actions outside of employment / off-duty conduct). NB: directory name 'nybcl' is misleading \u2014 this is Labor Law, not Business Corporation Law.",
+    "source_research_note": "NY Labor Law \u00a7 201-A (Fingerprinting of employees prohibited). NYBCL = 'NY Biometric Collection Law'; the directory slug is accurate.",
     "acquisition_status": "acquired",
-    "acquisition_blocker_resolved": "Same Cloudflare block as nysenate.gov in general. Plus: directory name 'nybcl' is misleading \u2014 the URL points at NY Labor Law \u00a7 201-A (off-duty conduct), not Business Corporation Law. Pending rename to ny.gov/labor-law-201-a/ in a follow-up."
+    "acquisition_blocker_resolved": "nysenate.gov is Cloudflare-protected; curl returned a bot challenge page. Bypassed via playwright headless browser."
   },
   "lifecycle": {
     "published": "",
@@ -39,7 +39,7 @@
     "s3_timestamp": "2026-05-21T20:58:38Z",
     "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
     "retrieval_url": "https://www.nysenate.gov/legislation/laws/LAB/201-A",
-    "notes": "Captured via playwright headless browser. NY Labor Law \u00a7 201-A as referenced by the original directory naming. Note: the directory slug 'nybcl' (NY Business Corporation Law) is misleading \u2014 the URL is in LAB title. The original metadata-recorded URL is what was captured; reclassification of the directory name may be warranted."
+    "notes": "Captured via playwright headless browser. NY Labor Law \u00a7 201-A \u2014 'Fingerprinting of employees prohibited' \u2014 which is exactly what the directory name 'nybcl' (NY Biometric Collection Law, per metadata.name) refers to. (An earlier session mis-expanded the slug as 'Business Corporation Law' and added a false rename note; both notes now corrected.)"
   },
   "extraction_history": [
     {

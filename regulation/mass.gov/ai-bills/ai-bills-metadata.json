@@ -19,8 +19,9 @@
     "source": "https://malegislature.gov/Bills/Search?SearchTerms=artificial+intelligence",
     "csaLocation": "",
     "source_research_note": "Massachusetts AI legislation \u2014 multiple pending bills (H.83 et al). Tracking page on malegislature.gov.",
-    "acquisition_status": "needs-expansion",
-    "acquisition_blocker": "Mass legislature has many pending AI bills (H.83 et al). URL points at a search results page, not a single law. Recommended: split into per-bill entries once bills enact, OR rename to ai-bills-tracker."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "Mass legislature has many pending AI bills (H.83 et al). URL points at a search results page, not a single law. Recommended: split into per-bill entries once bills enact, OR rename to ai-bills-tracker.",
+    "collection_kind": "tracker"
   },
   "lifecycle": {
     "active": true,
@@ -32,6 +33,13 @@
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "policy-doc"
+    "reason": "policy-doc-collection",
+    "notes": "Multi-tracker: representative content captured; full per-bill split is a future enhancement."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T21:09:04Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://malegislature.gov/Bills/Search?SearchTerms=artificial+intelligence",
+    "notes": "Captured the malegislature.gov bill-search snapshot for 'artificial intelligence'. Massachusetts has many pending AI bills (H.83 et al) but no single enacted comprehensive AI law as of acquisition date. This entry is an intentional tracker/index document, not a single law. When MA enacts a comprehensive AI law, that should become a sibling directory with its own name; this directory remains as the live tracker."
   }
 }
