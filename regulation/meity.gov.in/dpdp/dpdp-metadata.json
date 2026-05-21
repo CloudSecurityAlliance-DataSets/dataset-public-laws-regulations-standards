@@ -7,7 +7,7 @@
   "publication_id": "dpdp",
   "owner": "Ministry of Electronics & IT, India",
   "type": "Regulation",
-  "description": "India's Digital Personal Data Protection Act 2023 — establishes the framework for processing digital personal data. Enforced by the Data Protection Board of India once rules are notified.",
+  "description": "India's Digital Personal Data Protection Act 2023 \u2014 establishes the framework for processing digital personal data. Enforced by the Data Protection Board of India once rules are notified.",
   "relationToCloudSecurity": "Cloud providers processing Indian residents' personal data must comply.",
   "relationToAISecurity": "AI training and inference on Indian personal data covered.",
   "license": {
@@ -54,5 +54,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

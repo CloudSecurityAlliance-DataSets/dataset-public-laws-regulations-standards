@@ -7,7 +7,7 @@
   "publication_id": "ai-verify",
   "owner": "Infocomm Media Development Authority (IMDA), Singapore",
   "type": "Framework",
-  "description": "Singapore's AI Verify — testing framework and open-source toolkit for responsible AI. Provides technical tests and process checks across eleven AI ethics principles.",
+  "description": "Singapore's AI Verify \u2014 testing framework and open-source toolkit for responsible AI. Provides technical tests and process checks across eleven AI ethics principles.",
   "relationToCloudSecurity": "AI-system-specific; deployed in cloud environments.",
   "relationToAISecurity": "Direct AI governance toolkit. AI Verify Foundation operates the open-source toolkit.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

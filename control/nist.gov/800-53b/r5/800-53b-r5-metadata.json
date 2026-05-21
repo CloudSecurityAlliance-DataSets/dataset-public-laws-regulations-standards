@@ -55,5 +55,9 @@
     "in_moderate_baseline": 287,
     "in_high_baseline": 370,
     "in_privacy_baseline": 96
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
   }
 }

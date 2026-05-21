@@ -40,7 +40,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "HTML+text content from owaspai.org. Snapshot — re-pull from upstream for current content."
+    "notes": "HTML+text content from owaspai.org. Snapshot \u2014 re-pull from upstream for current content."
   },
   "extraction_history": [
     {
@@ -51,5 +51,9 @@
     }
   ],
   "scope": {},
-  "notes": "Living resource. Re-pull periodically."
+  "notes": "Living resource. Re-pull periodically.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

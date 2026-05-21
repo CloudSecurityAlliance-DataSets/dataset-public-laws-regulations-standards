@@ -10,7 +10,7 @@
   "publication_id": "CWE-4.19.1",
   "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
   "type": "Taxonomy",
-  "description": "CWE is a community-developed list of common software and hardware weakness types. Each CWE entry describes a class of weakness (e.g., CWE-79 Cross-Site Scripting, CWE-89 SQL Injection) with consequences, examples, mitigations, and relationships to other entries. CVE entries cite their underlying weakness type via CWE IDs. CWE is organized into views — most-used are CWE-1000 (Research Concepts, the parent taxonomy), CWE-699 (Software Development), and CWE-1194 (Hardware Design). Version 4.19.1 is a maintenance update to the 4.x branch.",
+  "description": "CWE is a community-developed list of common software and hardware weakness types. Each CWE entry describes a class of weakness (e.g., CWE-79 Cross-Site Scripting, CWE-89 SQL Injection) with consequences, examples, mitigations, and relationships to other entries. CVE entries cite their underlying weakness type via CWE IDs. CWE is organized into views \u2014 most-used are CWE-1000 (Research Concepts, the parent taxonomy), CWE-699 (Software Development), and CWE-1194 (Hardware Design). Version 4.19.1 is a maintenance update to the 4.x branch.",
   "relationToCloudSecurity": "CWE underpins CVE classification: every CVE typically maps to one or more CWE IDs identifying the underlying weakness pattern. Cloud workload protection and code analysis tools commonly classify findings by CWE. The CWE Top 25 Most Dangerous Weaknesses is widely referenced in cloud-security guidance and procurement checklists.",
   "relationToAISecurity": "CWE 4.x has begun adding AI-relevant weaknesses (e.g., CWE-1039 Inadequate Detection or Handling of Adversarial Input Perturbations in Automated Recognition Mechanism, CWE-1426 Improper Validation of Generative AI Output). MITRE ATLAS and CSA AICM provide more AI-specific coverage; CWE captures AI weaknesses at the software-engineering layer.",
   "license": {
@@ -43,7 +43,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "MITRE publishes CWE 4.19.1 as per-view CSVs. The 3 views in this repo (1000 Research Concepts, 699 Software Development, 1194 Hardware Design) overlap — a given CWE often appears in multiple views with view-specific relationship data. merge_cwe_views.py unifies them into cwe-4.19.1-all.{csv,json} keyed by cwe_id with a `views` list and `related_weaknesses_by_view` dict. 944 distinct entries (501 in 2+ views)."
+    "notes": "MITRE publishes CWE 4.19.1 as per-view CSVs. The 3 views in this repo (1000 Research Concepts, 699 Software Development, 1194 Hardware Design) overlap \u2014 a given CWE often appears in multiple views with view-specific relationship data. merge_cwe_views.py unifies them into cwe-4.19.1-all.{csv,json} keyed by cwe_id with a `views` list and `related_weaknesses_by_view` dict. 944 distinct entries (501 in 2+ views)."
   },
   "extraction_history": [
     {
@@ -78,5 +78,9 @@
       "1194 (Hardware Design)"
     ]
   },
-  "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions."
+  "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. Use the structured CSV/JSON for mapping work; the upstream MITRE site is canonical for definitions.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "upstream-only"
+  }
 }

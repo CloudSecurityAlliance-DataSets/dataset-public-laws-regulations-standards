@@ -69,5 +69,9 @@
       "6-1-1707"
     ]
   },
-  "notes": "First-of-kind US state AI law. Acquire signed bill PDF from leg.colorado.gov for structured extraction."
+  "notes": "First-of-kind US state AI law. Acquire signed bill PDF from leg.colorado.gov for structured extraction.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

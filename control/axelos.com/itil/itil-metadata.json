@@ -9,7 +9,7 @@
   "publication_id": "itil",
   "owner": "AXELOS / PeopleCert",
   "type": "Framework",
-  "description": "ITIL — service management framework. ITIL 4 is the current major version. Widely used for IT service management; intersects security in service operation and information security management.",
+  "description": "ITIL \u2014 service management framework. ITIL 4 is the current major version. Widely used for IT service management; intersects security in service operation and information security management.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -50,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

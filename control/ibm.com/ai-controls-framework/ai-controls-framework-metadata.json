@@ -7,7 +7,7 @@
   "publication_id": "ai-controls-framework",
   "owner": "International Business Machines",
   "type": "Framework",
-  "description": "IBM's framework for governing generative AI — published as a whitepaper from IBM Institute for Business Value. Companion document already in repo at reference/ibm.com/security-guidance/Generative AI Controls Framework Whitepaper/.",
+  "description": "IBM's framework for governing generative AI \u2014 published as a whitepaper from IBM Institute for Business Value. Companion document already in repo at reference/ibm.com/security-guidance/Generative AI Controls Framework Whitepaper/.",
   "relationToCloudSecurity": "Cloud-deployed GenAI services covered by the framework.",
   "relationToAISecurity": "Direct AI-controls governance framework from a major vendor.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

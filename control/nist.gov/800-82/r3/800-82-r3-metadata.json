@@ -2,7 +2,9 @@
   "secid": "secid:control/nist.gov/800-82@r3",
   "name": "Guide to Operational Technology (OT) Security",
   "acronym": "SP 800-82 r3",
-  "alternate_names": ["NIST SP 800-82 Rev. 3"],
+  "alternate_names": [
+    "NIST SP 800-82 Rev. 3"
+  ],
   "version": "r3",
   "publication_id": "800-82",
   "owner": "National Institute of Standards and Technology",
@@ -16,7 +18,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series",
-    "notes": "Work of NIST is in the US public domain (17 USC § 105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7 105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/sp/800/82/r3/final",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

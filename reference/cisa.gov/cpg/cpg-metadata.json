@@ -7,7 +7,7 @@
   "publication_id": "cpg",
   "owner": "Cybersecurity and Infrastructure Security Agency (CISA)",
   "type": "Framework",
-  "description": "CISA Cybersecurity Performance Goals — voluntary cross-sector cybersecurity practices designed to be a baseline for critical infrastructure. Mapped to NIST CSF.",
+  "description": "CISA Cybersecurity Performance Goals \u2014 voluntary cross-sector cybersecurity practices designed to be a baseline for critical infrastructure. Mapped to NIST CSF.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

@@ -2,7 +2,9 @@
   "secid": "secid:regulation/ontario.ca/phipa",
   "name": "Personal Health Information Protection Act, 2004",
   "acronym": "PHIPA",
-  "alternate_names": ["Ontario PHIPA"],
+  "alternate_names": [
+    "Ontario PHIPA"
+  ],
   "version": "2004",
   "publication_id": "phipa",
   "owner": "Government of Ontario (Information and Privacy Commissioner of Ontario)",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

@@ -7,7 +7,7 @@
   "publication_id": "appi",
   "owner": "Personal Information Protection Commission, Japan",
   "type": "Regulation",
-  "description": "Japan's Act on the Protection of Personal Information — Japan's primary data protection statute, last amended 2022. Enforced by the Personal Information Protection Commission (PPC).",
+  "description": "Japan's Act on the Protection of Personal Information \u2014 Japan's primary data protection statute, last amended 2022. Enforced by the Personal Information Protection Commission (PPC).",
   "relationToCloudSecurity": "Cloud services handling Japanese personal data must comply.",
   "relationToAISecurity": "AI systems processing Japanese personal data covered.",
   "license": {
@@ -54,5 +54,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

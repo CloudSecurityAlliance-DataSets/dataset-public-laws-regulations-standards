@@ -9,7 +9,7 @@
   "publication_id": "AICM-CAIQ-1.0.2",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "AI-specific vendor self-assessment questionnaire derived from AICM. 554 questions structured as one or more yes/no/partial questions per AICM control. AI-CAIQ is to AICM as CAIQ is to CCM — the vendor-attestation form of the controls framework.",
+  "description": "AI-specific vendor self-assessment questionnaire derived from AICM. 554 questions structured as one or more yes/no/partial questions per AICM control. AI-CAIQ is to AICM as CAIQ is to CCM \u2014 the vendor-attestation form of the controls framework.",
   "relationToCloudSecurity": "AI service vendors use AI-CAIQ to self-attest controls coverage for STAR Registry entries.",
   "relationToAISecurity": "Standard mechanism for AI vendors to demonstrate AICM coverage. Companion to AICM v1.0.x.",
   "license": {
@@ -53,5 +53,9 @@
     "questions": 554,
     "controls_covered": 243
   },
-  "notes": "Use alongside AICM v1.0.3 for vendor assessments."
+  "notes": "Use alongside AICM v1.0.3 for vendor assessments.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

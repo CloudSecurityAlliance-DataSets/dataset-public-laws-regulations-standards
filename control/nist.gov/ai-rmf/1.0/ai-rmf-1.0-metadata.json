@@ -40,5 +40,9 @@
     "force_ocr": null,
     "notes": "Source PDF (NIST AI 100-1) marker-extracted to markdown. extract_ai_rmf.py walks the AI RMF Core tables to produce per-subcategory structured CSV/JSON (72 subcategories across 4 Functions: 19 Govern, 18 Map, 22 Measure, 13 Manage)."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

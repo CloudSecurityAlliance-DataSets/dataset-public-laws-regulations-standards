@@ -40,5 +40,9 @@
     "force_ocr": null,
     "notes": "Source PDF marker-extracted to markdown. extract_800_161_r1.py parses the C-SCRM-augmented base controls into structured CSV/JSON: 191 controls across 20 SP 800-53 r5 families, each with Supplemental C-SCRM Guidance, Level(s) applicability, and (where present) Control Enhancement(s)."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

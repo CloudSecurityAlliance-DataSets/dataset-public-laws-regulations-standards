@@ -2,7 +2,11 @@
   "secid": "secid:reference/mitre.org/ctid",
   "name": "Center for Threat-Informed Defense Mappings Explorer",
   "acronym": "CTID Mappings",
-  "alternate_names": ["CTID", "Mappings Explorer", "Center for Threat-Informed Defense"],
+  "alternate_names": [
+    "CTID",
+    "Mappings Explorer",
+    "Center for Threat-Informed Defense"
+  ],
   "version": "",
   "publication_id": "CTID-mappings-explorer",
   "owner": "Center for Threat-Informed Defense (operated by MITRE Engenuity, a non-profit subsidiary of MITRE)",
@@ -50,7 +54,19 @@
     }
   ],
   "scope": {
-    "mapping_subdirectories": ["AWS", "azure", "gcp", "m365", "nist_800_53", "veris", "cve"]
+    "mapping_subdirectories": [
+      "AWS",
+      "azure",
+      "gcp",
+      "m365",
+      "nist_800_53",
+      "veris",
+      "cve"
+    ]
   },
-  "notes": "Most cited datasets for ATT&CK-to-cloud-platform crosswalks. M365 directory contains per-capability mapping files (40+) that are unusually granular — useful for licensing-tier coverage analysis (E3 vs E5)."
+  "notes": "Most cited datasets for ATT&CK-to-cloud-platform crosswalks. M365 directory contains per-capability mapping files (40+) that are unusually granular \u2014 useful for licensing-tier coverage analysis (E3 vs E5).",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

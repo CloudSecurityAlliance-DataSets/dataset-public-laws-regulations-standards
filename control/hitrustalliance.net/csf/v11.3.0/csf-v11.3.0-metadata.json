@@ -54,5 +54,9 @@
     }
   ],
   "scope": {},
-  "notes": "Proprietary framework — confirm license terms before redistributing extracted content."
+  "notes": "Proprietary framework \u2014 confirm license terms before redistributing extracted content.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

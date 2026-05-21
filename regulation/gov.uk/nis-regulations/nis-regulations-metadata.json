@@ -7,7 +7,7 @@
   "publication_id": "nis-regulations",
   "owner": "UK Government",
   "type": "Regulation",
-  "description": "UK Network and Information Systems Regulations 2018 — UK implementation of the EU NIS Directive (now superseded by NIS2 in the EU). UK is implementing NIS2-equivalent updates via the Cyber Security and Resilience Bill.",
+  "description": "UK Network and Information Systems Regulations 2018 \u2014 UK implementation of the EU NIS Directive (now superseded by NIS2 in the EU). UK is implementing NIS2-equivalent updates via the Cyber Security and Resilience Bill.",
   "relationToCloudSecurity": "Cloud service providers may qualify as Relevant Digital Service Providers under UK NIS.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -58,5 +58,9 @@
     "schedules": 2,
     "legislation_uri": "https://www.legislation.gov.uk/uksi/2018/506"
   },
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

@@ -7,7 +7,7 @@
   "publication_id": "ethics-guidelines",
   "owner": "European Commission High-Level Expert Group on AI",
   "type": "Framework",
-  "description": "Ethics Guidelines for Trustworthy AI — defines what makes AI systems trustworthy: lawful (complying with laws), ethical (respecting ethical principles), and robust (technically and socially robust). Predates and informed the EU AI Act.",
+  "description": "Ethics Guidelines for Trustworthy AI \u2014 defines what makes AI systems trustworthy: lawful (complying with laws), ethical (respecting ethical principles), and robust (technically and socially robust). Predates and informed the EU AI Act.",
   "relationToCloudSecurity": "EU-AI-specific.",
   "relationToAISecurity": "Foundational AI-ethics framework from the EU; companion to ALTAI for operationalization.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

@@ -7,7 +7,7 @@
   "publication_id": "cyberseceval",
   "owner": "Meta Platforms",
   "type": "Benchmark",
-  "description": "Meta's CyberSecEval Benchmark — evaluation suite for LLM cybersecurity risks. Covers insecure code generation, cyberattack helpfulness, prompt injection, and other dimensions.",
+  "description": "Meta's CyberSecEval Benchmark \u2014 evaluation suite for LLM cybersecurity risks. Covers insecure code generation, cyberattack helpfulness, prompt injection, and other dimensions.",
   "relationToCloudSecurity": "Used to evaluate models intended for deployment in cloud environments.",
   "relationToAISecurity": "Direct AI-safety benchmark targeting cybersecurity-specific risks.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

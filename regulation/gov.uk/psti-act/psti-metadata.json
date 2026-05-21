@@ -2,7 +2,10 @@
   "secid": "secid:regulation/gov.uk/psti-act",
   "name": "Product Security and Telecommunications Infrastructure Act 2022",
   "acronym": "PSTI",
-  "alternate_names": ["UK PSTI Act", "PSTI 2022"],
+  "alternate_names": [
+    "UK PSTI Act",
+    "PSTI 2022"
+  ],
   "version": "2022",
   "publication_id": "psti",
   "owner": "UK Department for Science, Innovation and Technology",
@@ -50,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

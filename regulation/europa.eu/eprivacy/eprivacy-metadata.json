@@ -7,7 +7,7 @@
   "publication_id": "eprivacy",
   "owner": "European Union",
   "type": "Regulation",
-  "description": "EU ePrivacy Directive (Directive 2002/58/EC, as amended) — governs the processing of personal data and protection of privacy in electronic communications, including cookies, traffic data, and direct marketing. Cookie consent rules derive from this directive.",
+  "description": "EU ePrivacy Directive (Directive 2002/58/EC, as amended) \u2014 governs the processing of personal data and protection of privacy in electronic communications, including cookies, traffic data, and direct marketing. Cookie consent rules derive from this directive.",
   "relationToCloudSecurity": "Cloud-hosted analytics, advertising, and tracking technologies subject to ePrivacy consent rules.",
   "relationToAISecurity": "AI systems using cookies/tracking for behavioral inference subject to consent rules.",
   "license": {
@@ -54,5 +54,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

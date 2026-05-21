@@ -7,7 +7,7 @@
   "publication_id": "croissant",
   "owner": "MLCommons",
   "type": "Specification",
-  "description": "Standardized format for describing ML datasets — schema for metadata covering data attributes, provenance, format, and intended use. Supports reproducibility and dataset governance.",
+  "description": "Standardized format for describing ML datasets \u2014 schema for metadata covering data attributes, provenance, format, and intended use. Supports reproducibility and dataset governance.",
   "relationToCloudSecurity": "Used for cloud-hosted dataset publishing and discovery.",
   "relationToAISecurity": "Direct AI-dataset-governance specification.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

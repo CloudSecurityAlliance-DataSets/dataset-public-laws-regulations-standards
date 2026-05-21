@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Also: OWASP Secure Coding Practices Glossary and SCVS Appendix A"
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Also: OWASP Secure Coding Practices Glossary and SCVS Appendix A",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

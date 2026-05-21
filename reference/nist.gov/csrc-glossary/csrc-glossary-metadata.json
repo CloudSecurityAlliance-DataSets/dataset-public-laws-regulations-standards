@@ -43,5 +43,9 @@
   "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
   "subtype": [
     "glossary"
-  ]
+  ],
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

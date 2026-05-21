@@ -9,7 +9,7 @@
   "publication_id": "dma",
   "owner": "European Union",
   "type": "Regulation",
-  "description": "EU Digital Markets Act (Regulation (EU) 2022/1925) — designates gatekeeper platforms and imposes obligations to ensure contestable and fair digital markets. Targets large core platform services (search engines, social networks, messaging, video, advertising, marketplaces, browsers, OS, cloud computing).",
+  "description": "EU Digital Markets Act (Regulation (EU) 2022/1925) \u2014 designates gatekeeper platforms and imposes obligations to ensure contestable and fair digital markets. Targets large core platform services (search engines, social networks, messaging, video, advertising, marketplaces, browsers, OS, cloud computing).",
   "relationToCloudSecurity": "Cloud computing services explicitly named as a Core Platform Service category.",
   "relationToAISecurity": "Indirectly affects AI services where they constitute core platform services for gatekeepers.",
   "license": {
@@ -61,5 +61,9 @@
     "annexes": 1,
     "celex": "32022R1925"
   },
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

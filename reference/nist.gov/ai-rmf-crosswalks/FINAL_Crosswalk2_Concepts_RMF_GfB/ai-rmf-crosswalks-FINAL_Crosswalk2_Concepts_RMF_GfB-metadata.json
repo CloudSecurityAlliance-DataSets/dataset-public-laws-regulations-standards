@@ -1,12 +1,12 @@
 {
   "secid": "secid:reference/nist.gov/ai-rmf-crosswalks@FINAL_Crosswalk2_Concepts_RMF_GfB",
-  "name": "Crosswalk 2 – Concepts  NIST AI Risk Management Framework and Japan AI Guidelines for Business",
+  "name": "Crosswalk 2 \u2013 Concepts  NIST AI Risk Management Framework and Japan AI Guidelines for Business",
   "acronym": "",
   "version": "FINAL_Crosswalk2_Concepts_RMF_GfB",
   "publication_id": "",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Reference",
-  "description": "Crosswalk 2 – Concepts  NIST AI Risk Management Framework and Japan AI Guidelines for Business",
+  "description": "Crosswalk 2 \u2013 Concepts  NIST AI Risk Management Framework and Japan AI Guidelines for Business",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
@@ -40,5 +40,9 @@
     "force_ocr": null,
     "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "secid": "secid:control/nist.gov/800-63a",
-  "name": "Digital Identity Guidelines — Enrollment and Identity Proofing",
+  "name": "Digital Identity Guidelines \u2014 Enrollment and Identity Proofing",
   "acronym": "SP 800-63A",
   "alternate_names": [
     "NIST SP 800-63A-3"
@@ -18,7 +18,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.nist.gov/director/licensing",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf",
@@ -50,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

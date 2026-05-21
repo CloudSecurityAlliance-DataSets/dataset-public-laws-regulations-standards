@@ -7,7 +7,7 @@
   "publication_id": "task-standard",
   "owner": "Model Evaluation and Threat Research (METR)",
   "type": "Framework",
-  "description": "Standardized specification for AI capability evaluations — defines how tasks for evaluating AI systems should be packaged, including environment setup, scoring, and metadata.",
+  "description": "Standardized specification for AI capability evaluations \u2014 defines how tasks for evaluating AI systems should be packaged, including environment setup, scoring, and metadata.",
   "relationToCloudSecurity": "Used in cloud-hosted model evaluation infrastructure.",
   "relationToAISecurity": "Direct AI-safety evaluation infrastructure standard.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

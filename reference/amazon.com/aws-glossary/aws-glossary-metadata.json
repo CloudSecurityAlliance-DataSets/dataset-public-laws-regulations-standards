@@ -2,12 +2,17 @@
   "secid": "secid:reference/amazon.com/aws-glossary",
   "name": "AWS Glossary Reference",
   "acronym": "",
-  "alternate_names": ["AWS Glossary", "AWS Glossary Reference"],
+  "alternate_names": [
+    "AWS Glossary",
+    "AWS Glossary Reference"
+  ],
   "version": "",
   "publication_id": "",
   "owner": "Amazon Web Services, Inc.",
   "type": "Reference",
-  "subtype": ["glossary"],
+  "subtype": [
+    "glossary"
+  ],
   "description": "The central AWS Glossary Reference covering all AWS service terms, security concepts, and cloud computing terminology. Replaces the legacy per-pillar glossaries (e.g., Well-Architected Security Pillar Glossary) which now redirect here.",
   "relationToCloudSecurity": "Comprehensive cloud-service-and-security terminology for AWS; includes definitions used across AWS security documentation and architecture guidance.",
   "relationToAISecurity": "Includes AI/ML service terminology relevant to AI security posture on AWS (SageMaker, Bedrock, Comprehend, etc.).",
@@ -51,6 +56,12 @@
     }
   ],
   "scope": {},
-  "subtype_notes": ["glossary"],
-  "notes": "Created during glossary phase 2 to replace the wellarchitected-security-glossary entry. The Well-Architected Security Pillar Glossary at docs.aws.amazon.com/wellarchitected/latest/security-pillar/glossary.html is now a stub redirecting to this central glossary; its repo entry is kept as a metadata-only deprecation marker."
+  "subtype_notes": [
+    "glossary"
+  ],
+  "notes": "Created during glossary phase 2 to replace the wellarchitected-security-glossary entry. The Well-Architected Security Pillar Glossary at docs.aws.amazon.com/wellarchitected/latest/security-pillar/glossary.html is now a stub redirecting to this central glossary; its repo entry is kept as a metadata-only deprecation marker.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }
