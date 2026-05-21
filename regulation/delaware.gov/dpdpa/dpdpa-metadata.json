@@ -1,10 +1,10 @@
 {
   "secid": "secid:regulation/delaware.gov/dpdpa",
-  "name": "Delaware state legislation: Dpdpa",
+  "name": "Delaware Personal Data Privacy Act",
   "version": "",
   "owner": "Delaware State Government",
   "type": "Regulation",
-  "description": "Delaware state legislation: Dpdpa",
+  "description": "Delaware Personal Data Privacy Act (DPDPA). US state consumer-privacy/data-protection law.",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
@@ -30,5 +30,9 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
-  }
+  },
+  "acronym": "DPDPA",
+  "alternate_names": [
+    "delaware-personal-data-privacy-act"
+  ]
 }

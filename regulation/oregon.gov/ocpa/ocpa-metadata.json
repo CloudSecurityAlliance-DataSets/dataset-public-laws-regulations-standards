@@ -1,10 +1,10 @@
 {
   "secid": "secid:regulation/oregon.gov/ocpa",
-  "name": "Oregon state legislation: Ocpa",
+  "name": "Oregon Consumer Privacy Act",
   "version": "",
   "owner": "Oregon State Government",
   "type": "Regulation",
-  "description": "Oregon state legislation: Ocpa",
+  "description": "Oregon Consumer Privacy Act (OCPA). US state consumer-privacy/data-protection law.",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
@@ -30,5 +30,9 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
-  }
+  },
+  "acronym": "OCPA",
+  "alternate_names": [
+    "oregon-consumer-privacy-act"
+  ]
 }
