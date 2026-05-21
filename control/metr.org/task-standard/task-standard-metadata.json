@@ -22,8 +22,8 @@
     "source": "https://metr.org/blog/2024-08-06-task-standard/",
     "csaLocation": "",
     "github": "https://github.com/METR/task-standard",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 404. METR Task Standard now at github.com/METR/task-standard."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 404. METR Task Standard now at github.com/METR/task-standard."
   },
   "lifecycle": {
     "published": "",
@@ -34,13 +34,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T20:04:20Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://github.com/METR/task-standard (README.md + STANDARD.md)",
+    "notes": "Captured directly from GitHub via curl. Combined README.md (overview) + STANDARD.md (technical specification). The task-standard is a code repo; upstream at github.com/METR/task-standard is the authoritative source for the spec text and the Docker driver / Python package implementations."
   },
   "extraction_history": [
     {
@@ -48,6 +45,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},

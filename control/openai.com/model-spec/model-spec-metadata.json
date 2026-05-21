@@ -22,8 +22,8 @@
     "source": "https://openai.com/index/the-model-spec",
     "csaLocation": "",
     "spec_text": "https://cdn.openai.com/spec/model-spec-2024-05-08.html",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 403. Model Spec text is also at github.com/openai/model-spec \u2014 try that instead."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 403. Model Spec text is also at github.com/openai/model-spec \u2014 try that instead."
   },
   "lifecycle": {
     "published": "",
@@ -34,13 +34,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T20:04:20Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://model-spec.openai.com/2025-12-18.html",
+    "notes": "Captured via playwright headless browser. Full canonical OpenAI Model Spec (2025-12-18 version, 7700+ lines): chain of command, behavioral principles, content policies, dual-newline-separated specifications. Note: Model Spec is dated/versioned; this captures the spec valid as of acquisition."
   },
   "extraction_history": [
     {
@@ -48,6 +45,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},
