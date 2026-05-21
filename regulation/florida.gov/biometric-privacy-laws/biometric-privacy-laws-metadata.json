@@ -19,8 +19,9 @@
     "source": "https://www.flsenate.gov/Laws/Statutes/2024/501.171",
     "csaLocation": "",
     "source_research_note": "Florida lacks a single biometric privacy law; closest is FCMA \u00a7501.171 (personal-info breach). Multiple proposed bills exist (SB1670, etc.).",
-    "acquisition_status": "needs-expansion",
-    "acquisition_blocker": "Florida lacks a single named biometric privacy law; the entry is a collection of related bills (SB1670, HB1153, etc.). Recommended: split into per-bill entries before acquisition, OR rename to florida.gov/biometric-privacy-bills/ and treat as a tracking page."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "Florida lacks a single named biometric privacy law; the entry is a collection of related bills (SB1670, HB1153, etc.). Recommended: split into per-bill entries before acquisition, OR rename to florida.gov/biometric-privacy-bills/ and treat as a tracking page.",
+    "collection_kind": "collection"
   },
   "lifecycle": {
     "active": true,
@@ -32,6 +33,13 @@
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "policy-doc"
+    "reason": "policy-doc-collection",
+    "notes": "Multi-collection: representative content captured; full per-bill split is a future enhancement."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T21:09:04Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://www.flsenate.gov/Laws/Statutes/2024/501.171",
+    "notes": "Captured FL Stat. \u00a7 501.171 (Security of confidential personal information) as the closest enacted Florida statute addressing biometric/personal-information privacy. Florida lacks a single named biometric privacy law; pending bills (SB1670, HB1153, etc.) are tracked elsewhere. This entry serves as a topic anchor for FL biometric/personal-data legislation; if a comprehensive biometric law passes, that should become a sibling directory."
   }
 }
