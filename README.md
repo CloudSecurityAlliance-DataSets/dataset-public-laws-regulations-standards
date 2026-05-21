@@ -28,9 +28,9 @@ Current state of every document tracked in this repo, broken down by SecID type 
 | `regulation/` | 47 | — | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
-| `methodology/` | 2 | 7 | — | — | — | **9** |
-| `reference/` | 27 | 113 | 129 | 4 | 6 | **279** |
-| **Total** | **140** | **120** | **203** | **4** | **6** | **473** |
+| `methodology/` | 9 | — | — | — | — | **9** |
+| `reference/` | 28 | 113 | 137 | 4 | 6 | **288** |
+| **Total** | **148** | **113** | **211** | **4** | **6** | **482** |
 
 See [`INDEX.md`](INDEX.md) for the per-document table including SecID identifiers and extraction-state glyphs.
 <!-- INVENTORY-END -->
