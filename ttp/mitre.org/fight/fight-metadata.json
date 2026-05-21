@@ -54,7 +54,8 @@
   },
   "notes": "Niche but valuable for 5G operators. Often consumed alongside 3GPP security specifications.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "taxonomy"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "MITRE 5G threat framework published at fight.mitre.org as version-tagged authoritative content. Per the no-bulk-mirror rule, this stays a stub pointing at upstream."
   }
 }
