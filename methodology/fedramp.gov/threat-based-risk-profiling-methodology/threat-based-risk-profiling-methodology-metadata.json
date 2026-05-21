@@ -26,5 +26,10 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed."
+  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T16:00:50Z",
+    "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
+    "notes": "Structured FedRAMP threat-based-risk-profiling-methodology into <dirname>-sections.{csv,json} via the generic parse_regulatory_sections.py extractor. 31 headings captured. The doc uses Phase 1/Phase 2/Phase 3 textual anchors and Step 1/Step 2/... in the appendix; the current generic parser pulls them as named headings without ID extraction (the canonical patterns recognize numeric/statute/pillar/chapter shapes). Section names are still searchable via the section_name field for downstream consumers."
+  }
 }

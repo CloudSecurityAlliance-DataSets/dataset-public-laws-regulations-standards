@@ -1,0 +1,56 @@
+{
+  "secid": "secid:reference/amazon.com/aws-glossary",
+  "name": "AWS Glossary Reference",
+  "acronym": "",
+  "alternate_names": ["AWS Glossary", "AWS Glossary Reference"],
+  "version": "",
+  "publication_id": "",
+  "owner": "Amazon Web Services, Inc.",
+  "type": "Reference",
+  "subtype": ["glossary"],
+  "description": "The central AWS Glossary Reference covering all AWS service terms, security concepts, and cloud computing terminology. Replaces the legacy per-pillar glossaries (e.g., Well-Architected Security Pillar Glossary) which now redirect here.",
+  "relationToCloudSecurity": "Comprehensive cloud-service-and-security terminology for AWS; includes definitions used across AWS security documentation and architecture guidance.",
+  "relationToAISecurity": "Includes AI/ML service terminology relevant to AI security posture on AWS (SageMaker, Bedrock, Comprehend, etc.).",
+  "license": {
+    "spdx": "CC-BY-SA-4.0",
+    "redistribution": "permitted_with_share_alike",
+    "derivatives": "permitted_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://docs.aws.amazon.com/license/",
+    "notes": "AWS documentation is generally available under the Amazon Software License for code samples and CC-BY-SA-4.0 for documentation. Verify per page if redistributing."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html",
+    "textUsed": "https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "secid:reference/amazon.com/wellarchitected-security-glossary",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Replaces the AWS Well-Architected Security Pillar Glossary, which now redirects to this central glossary."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "requests + beautifulsoup4",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Extracted from HTML via extract_aws_glossary.py during glossary phase 2."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Phase 2 retargeting of empty wellarchitected stub to the live central AWS Glossary",
+      "tool": "requests + bs4"
+    }
+  ],
+  "scope": {},
+  "subtype_notes": ["glossary"],
+  "notes": "Created during glossary phase 2 to replace the wellarchitected-security-glossary entry. The Well-Architected Security Pillar Glossary at docs.aws.amazon.com/wellarchitected/latest/security-pillar/glossary.html is now a stub redirecting to this central glossary; its repo entry is kept as a metadata-only deprecation marker."
+}

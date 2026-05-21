@@ -1,0 +1,1316 @@
+[
+  {
+    "term": "access control",
+    "definition": "A way of ensuring that only authorised users (or automated systems) can access data or services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: authentication"
+  },
+  {
+    "term": "account freezing",
+    "definition": "Temporarily suspending an account, in response to the detection of unusual/suspicious activity.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: throttling"
+  },
+  {
+    "term": "active cyber defence",
+    "definition": "A set of NCSC services that are designed to reduce high-volume commodity cyber attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: acd; mail check; web check | see also: acd; mail check; web check"
+  },
+  {
+    "term": "administrator",
+    "definition": "A person who manages a computer system, usually with highly privileged access to data and services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: admin"
+  },
+  {
+    "term": "ai",
+    "definition": "Artificial intelligence (AI) describes computer systems which can perform tasks usually requiring human intelligence. This could include visual perception, speech recognition or translation between languages.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: artificial intelligence; machine learning | see also: artificial intelligence; machine learning"
+  },
+  {
+    "term": "allow list",
+    "definition": "A security strategy organisations can use that approves a list of email addresses, IP addresses, domain names or applications, while denying all others, to protect computers and networks from threats.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: whitelist whitelisting and blacklisting is still used across the industry; but the ncsc do not use these terms. read more why in our blog post: /blog-post/terminology-its-not-black-and-white; deny list | see also: whitelist whitelisting and blacklisting is still used across the industry; but the ncsc do not use these terms. read more why in our blog post: /blog-post/terminology-its-not-black-and-white; deny list"
+  },
+  {
+    "term": "android",
+    "definition": "Google's mobile operating system, used by several smartphone and tablet manufacturers.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: operating system"
+  },
+  {
+    "term": "anti-malware",
+    "definition": "Software that is designed to detect, stop and remove malicious software (malware).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: antivirus"
+  },
+  {
+    "term": "antivirus",
+    "definition": "Software that is designed to detect, stop and remove viruses and other kinds of malicious software.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: av; anti-malware | see also: av; anti-malware"
+  },
+  {
+    "term": "application",
+    "definition": "A software program running on a computer. Usually referred to as an 'app' when running on a smartphone or tablet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: app"
+  },
+  {
+    "term": "apt",
+    "definition": "Advanced persistent threat. A nation-state or highly capable criminal actor that gains unauthorised access to a system and remains undetected for a long time.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: advanced persistent threat; hacker | see also: advanced persistent threat; hacker"
+  },
+  {
+    "term": "artificial intelligence",
+    "definition": "Artificial intelligence (AI) describes computer systems which can perform tasks usually requiring human intelligence. This could include visual perception, speech recognition or translation between languages.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: ai; machine intelligence; machine learning | see also: ai; machine intelligence; machine learning"
+  },
+  {
+    "term": "asset management",
+    "definition": "Identifying and recording of an organisation's physical assets, software, data, essential staff and utilities.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: configuration management"
+  },
+  {
+    "term": "attack tree",
+    "definition": "A systematic method for analysing and depicting the different ways a computer system might be attacked.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: hacker"
+  },
+  {
+    "term": "attack vector",
+    "definition": "The method an attacker uses to gain unauthorised access to a computer system or device.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: hacker"
+  },
+  {
+    "term": "attacker",
+    "definition": "Individual or group that conduct cyber attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: threat actor; cyber attack | see also: threat actor; cyber attack"
+  },
+  {
+    "term": "authentication",
+    "definition": "The process of determining if someone (or something) is who (or what) it claims to be.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: credentials; access control"
+  },
+  {
+    "term": "autorun",
+    "definition": "An option in Windows to automatically run programs contained on removable media when inserted into the device.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: removable media"
+  },
+  {
+    "term": "backup",
+    "definition": "A copy of computer data, usually stored in the cloud or on removable media, that can be used to recover from data loss or theft.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "bgp",
+    "definition": "Border Gateway Protocol. A protocol that exchanges routing information across the internet, typically between ISPs or large organisations.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: border gateway protocol; isp | see also: border gateway protocol; isp"
+  },
+  {
+    "term": "biometrics",
+    "definition": "A type of authentication based on biological data that is unique and specific to a person (such as a fingerprint or face ID).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: authentication"
+  },
+  {
+    "term": "bios",
+    "definition": "Basic input-output system. The firmware built into PCs that connect the vital components, now superseded by UEFI.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: basic input-output system; uefi | see also: basic input-output system; uefi"
+  },
+  {
+    "term": "bluetooth",
+    "definition": "A short-range, wireless means of communicating between devices (mobile phones, tablets, computers).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: wifi"
+  },
+  {
+    "term": "botnet",
+    "definition": "A distributed network of infected devices on the internet, used to commit co-ordinated cyber attacks without their owner's knowledge.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ddos"
+  },
+  {
+    "term": "breach",
+    "definition": "An incident in which data, computer systems or networks are accessed or affected without authorisation.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: data breach"
+  },
+  {
+    "term": "browser",
+    "definition": "An application that displays information and accesses services from the web. Edge, Safari, Firefox and Chrome are all browsers.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: web browser; www | see also: web browser; www"
+  },
+  {
+    "term": "brute force attack",
+    "definition": "An attack that uses computing power to automatically enter a large number of guesses for security credentials in an attempt to gain unauthorised access.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: credentials"
+  },
+  {
+    "term": "bulk data",
+    "definition": "Term used to describe large quantities of (often personal) data that needs special protection.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: encryption"
+  },
+  {
+    "term": "byod",
+    "definition": "Bring your own device. When employees use their own device(s) for work purposes, but the employer owns corporate data and resources that may be accessed or stored on it.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: bring your own device"
+  },
+  {
+    "term": "ca",
+    "definition": "Certificate authority. An organisation that issues digital certificates to allow the authentication and secure exchange of data",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: certificate authority"
+  },
+  {
+    "term": "carrier",
+    "definition": "An organisation that offers communication services over land-wire, sea cable, mobile, and/or satellite systems.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: isp | see also: isp"
+  },
+  {
+    "term": "cas",
+    "definition": "Competent authorities. The organisations responsible for enforcing regulation under the NIS Directive.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: competent authorities"
+  },
+  {
+    "term": "certificate",
+    "definition": "A form of digital identity for a computer, user or organisation to allow the authentication and secure exchange of data.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ca"
+  },
+  {
+    "term": "certification",
+    "definition": "A form of digital identity for a computer, user or organisation to allow the authentication and secure exchange of data.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "chatgpt",
+    "definition": "An artificial intelligence language model developed by OpenAI designed to mimic human conversation, based on the input it receives.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ai; large language model; llm; artificial intelligence"
+  },
+  {
+    "term": "cloud",
+    "definition": "An on-demand, massively scalable service, hosted on shared infrastructure, accessible via the internet. Typical services include providing data storage, data processing, and pre-built functionality, such as logging.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "cms",
+    "definition": "Content Management System. Software used to create, manage and publish digital content, usually to the web.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: content management system"
+  },
+  {
+    "term": "configuration management",
+    "definition": "Processes for defining and maintaining the consistency of configurations of software, hardware and other elements of an organisation to ensure reliable performance through its life.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: asset management"
+  },
+  {
+    "term": "credential stuffing",
+    "definition": "A method where attackers use passwords stolen from one web service to try and access accounts on another service, taking advantage of any reuse of username and password combinations.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: credentials; passwords"
+  },
+  {
+    "term": "credentials",
+    "definition": "Information used to verify someone's identity, such as a password, token or certificate, that authenticates use of a service.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passwords"
+  },
+  {
+    "term": "critical national infrastructure (cni)",
+    "definition": "National assets that are essential for the functioning of society, such as those associated with energy supply, water supply, transportation, health and telecommunications.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: cni"
+  },
+  {
+    "term": "cryptography",
+    "definition": "Technologies primarily based on maths and computer science for protecting information so that it is only accessible to authorised recipients.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: encryption"
+  },
+  {
+    "term": "csirt",
+    "definition": "Cyber security incident response team. An expert group that manages the response to a cyber security event or incident.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: computer security incident response team"
+  },
+  {
+    "term": "cyber assessment framework",
+    "definition": "A tool for assessing how well suppliers of essential services are managing cyber security risks under the NIS Directive.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: caf"
+  },
+  {
+    "term": "cyber attack",
+    "definition": "An attempt to damage, disrupt or gain unauthorised access to computer systems, networks or devices.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: hack incident; attacker; cyber threat; hacker; insider threat | see also: hack incident; attacker; cyber threat; hacker; insider threat"
+  },
+  {
+    "term": "cyber essentials",
+    "definition": "A government-backed, industry supported scheme to help organisations protect themselves against common cyber attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: cyber attack"
+  },
+  {
+    "term": "cyber security",
+    "definition": "The protection of devices, services and networks - and the information on them - from unauthorised access, theft or damage.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ncsc"
+  },
+  {
+    "term": "cyber strategy",
+    "definition": "A long-term plan of action with the aim of implementing cyber security.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ncsc"
+  },
+  {
+    "term": "cyber threat",
+    "definition": "The threat of a cyber attack to a user or organisation, and the unauthorised access, theft or damage that could result.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: hacker; cyber attack"
+  },
+  {
+    "term": "cyberfirst",
+    "definition": "Scheme run by the NCSC that encourage children and young adults to consider a career in cyber security.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "data at rest",
+    "definition": "Data in a persistent state such as when stored on hard disks, removable media or backups.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: removable media"
+  },
+  {
+    "term": "data centre",
+    "definition": "A managed facility that houses data storage and computer systems.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "data in transit",
+    "definition": "Data as it is transferred from one location to another, either through a private network or the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: data at rest"
+  },
+  {
+    "term": "ddos",
+    "definition": "Distributed Denial of Service. A type of cyber attack where a computer service is overloaded by requests from multiple computers or locations, so that real users can no longer access the service.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: distributed denial of service; botnet; dos | see also: distributed denial of service; botnet; dos"
+  },
+  {
+    "term": "decryption",
+    "definition": "Making information that has been encrypted readable again.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: cryptography"
+  },
+  {
+    "term": "deny list",
+    "definition": "A security control that organisations can put in place which blocks their users from connecting to or accessing named entities (such as IP addresses or domains) that may be suspicious.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: blacklist whitelisting and blacklisting is still used across the industry; but the ncsc do not use these terms. read more about the decision in the blog post - &#039;terminology: it&#039;s not all black and white&#039;; allow list | see also: blacklist whitelisting and blacklisting is still used across the industry; but the ncsc do not use these terms. read more about the decision in the blog post - &#039;terminology: it&#039;s not all black and white&#039;; allow list"
+  },
+  {
+    "term": "devices",
+    "definition": "Computer-based hardware that physically exists, such as a desktop computer, smartphone or tablet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "dictionary attack",
+    "definition": "A type of brute-force attack where words in a dictionary, phrases or common passwords are used to guess credentials.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: brute force attack"
+  },
+  {
+    "term": "digital footprint",
+    "definition": "The traces of digital information or 'footprint' that a person's online activity leaves behind.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "digital services",
+    "definition": "The provision of services (such as banking or online shopping) via the internet, or an electronic network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "digital signature",
+    "definition": "A technique used to validate the authenticity and integrity of a message, software or digital document.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "dkim",
+    "definition": "DomainKeys Identified Mail. An email authentication method that adds a digital signature to every outgoing message, to verify the origin of the message.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: mail check"
+  },
+  {
+    "term": "dma",
+    "definition": "Direct Memory Access. Allows devices to access main memory outside of the control of the CPU, allowing faster data rates",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "dmarc",
+    "definition": "Domain-based Messaging and Reporting Conformance. An email authentication and reporting protocol that helps to monitor and improve protection from fraudulent email.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: mail check"
+  },
+  {
+    "term": "dmz",
+    "definition": "Demilitarised zone. A controlled segment of an organisation's private network (which typically separates it from the internet), used to host their publicly accessible services such as websites.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: demilitarised zone; firewall | see also: demilitarised zone; firewall"
+  },
+  {
+    "term": "dns",
+    "definition": "Domain Name System. The directory service that translates internet domain names (for example www.bbc.co.uk) to their corresponding IP addresses.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: domain name service; ip address | see also: domain name service; ip address"
+  },
+  {
+    "term": "domain",
+    "definition": "A set of network addresses on the internet, managed by an organisation or person.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "dos",
+    "definition": "Denial of Service. A type of cyber attack where a computer service is overloaded, so that real users can no longer access the service.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: denial of service; ddos | see also: denial of service; ddos"
+  },
+  {
+    "term": "download attack",
+    "definition": "A type of cyber attack where the victim unintentionally installs malware (such as viruses) on to a device, without the owner's knowledge.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: drive-by download; malware | see also: drive-by download; malware"
+  },
+  {
+    "term": "education",
+    "definition": "The NCSC provides cyber security guidance and resources for the education sector to help protect everyone from schools to universities.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: research &amp; academia; research & academia | see also: research &amp; academia; research & academia"
+  },
+  {
+    "term": "encryption",
+    "definition": "Protection of information by making it unreadable by everyone except those with the key to decrypt it.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: cryptography"
+  },
+  {
+    "term": "end user device",
+    "definition": "Term to collectively describe modern smartphones, laptops and tablets that connect to an organisation's network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: eud; mdm | see also: eud; mdm"
+  },
+  {
+    "term": "enterprise",
+    "definition": "Any large business or organisation that uses computer systems, networks and devices.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "equality, diversity and inclusion",
+    "definition": "Equality, Diversity and Inclusion",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "escrow",
+    "definition": "A trusted third party service that holds money, software or other assets pending completion of a transaction.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: asset management"
+  },
+  {
+    "term": "ethernet",
+    "definition": "The networking technology that uses wires (rather than Wi-Fi) to connect devices to networks (including the internet).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: lan"
+  },
+  {
+    "term": "exercising",
+    "definition": "Cyber incident exercising helps organisations to establish how resilient they are to cyber attack, and practice their response in a safe environment.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "exploit",
+    "definition": "Development of tools to take advantage of a vulnerability in a system to gain unauthorised access or produce unwanted effects",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: attacker; vulnerabilities"
+  },
+  {
+    "term": "fido2",
+    "definition": "Fast IDentity Online 2 is a set of standards that enable authentication using cryptographic keys instead of passwords.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: authentication"
+  },
+  {
+    "term": "fingerprint reader",
+    "definition": "A biometric device that scans fingerprints to authenticate users.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: biometrics"
+  },
+  {
+    "term": "firewall",
+    "definition": "Hardware or software used to prevent unauthorised access to or from a network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: network"
+  },
+  {
+    "term": "firmware",
+    "definition": "The software embedded into a device that allows it to function.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: bios; uefi"
+  },
+  {
+    "term": "gateway",
+    "definition": "Networking appliance that allows data to flow between different types of networks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: router"
+  },
+  {
+    "term": "hacker",
+    "definition": "Someone who uses their technology skills to break into computers, systems and networks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: attacker"
+  },
+  {
+    "term": "hashing",
+    "definition": "Converting data into a fixed-length unreadable format that can't easily be reversed. Commonly used to protect passwords.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: cryptography; encryption; salt"
+  },
+  {
+    "term": "honeypot",
+    "definition": "Infrastructure (such as a web server) designed to attract attackers in order to learn how better to defend systems.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: attacker"
+  },
+  {
+    "term": "host",
+    "definition": "A network endpoint. For example, a PC, laptop, smartphone or tablet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "hotspot",
+    "definition": "The physical location within the range of a wifi access point that provides access to the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: wifi"
+  },
+  {
+    "term": "hypervisor",
+    "definition": "Computer software or hardware that can run and manage one or more virtual machines.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "ics",
+    "definition": "Industrial Control System. Systems, often involved with critical national infrastructure, which control and respond to physical feedback.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: industrial control system; critical national infrastructure (cni) | see also: industrial control system; critical national infrastructure (cni)"
+  },
+  {
+    "term": "identity provider",
+    "definition": "An organisation (such as Google, Microsoft and Facebook) that provides online user identification on behalf of third parties.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "incident management",
+    "definition": "Activities to identify, analyse, and determine the response to cyber security incidents, to minimise the immediate and long-term business impact.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: operational security"
+  },
+  {
+    "term": "information assurance",
+    "definition": "Managing the risks to data, networks and information systems",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: ia; risk management | see also: ia; risk management"
+  },
+  {
+    "term": "infrastructure as a service (iaas)",
+    "definition": "A business model where consumers access virtualised hardware and software resources over the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: iaas; platform as a service (paas); software as a service (saas) | see also: iaas; platform as a service (paas); software as a service (saas)"
+  },
+  {
+    "term": "insider threat",
+    "definition": "Deliberate or accidental threat to an organisation's security from someone who has authorised access (such as an employee).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: attacker"
+  },
+  {
+    "term": "internet",
+    "definition": "The global 'network of networks' that provides a vast range of services such as the world wide web, email, social media and streaming services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: www"
+  },
+  {
+    "term": "internet of things",
+    "definition": "Technology describing everyday objects (rather than computers and smartphones) that can connect to the internet. Examples include speakers, televisions and security cameras.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: iot"
+  },
+  {
+    "term": "ip",
+    "definition": "Internet Protocol.  A communications protocol that relays data over network boundaries, and establishes routing across the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: internet protocol; bgp; ip address; router; protocol | see also: internet protocol; bgp; ip address; router; protocol"
+  },
+  {
+    "term": "ip address",
+    "definition": "Internet Protocol address. A number assigned to each device that is sending or receiving data across the internet or a LAN.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ip; router"
+  },
+  {
+    "term": "ipsec",
+    "definition": "Internet Protocol Security. A suite of protocols that secures data sent over an IP network, often used to establish VPNs.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: internet protocol security; vpn | see also: internet protocol security; vpn"
+  },
+  {
+    "term": "isp",
+    "definition": "Internet Service Provider. A company that provides individuals and organisations access to the internet, and other related services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: internet service provider; carrier | see also: internet service provider; carrier"
+  },
+  {
+    "term": "ixp",
+    "definition": "Internet Exchange Point. A location where ISPs exchange data between their networks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: internet exchange point"
+  },
+  {
+    "term": "keylogger",
+    "definition": "Hardware or software used to covertly record each keystroke entered into a computer or device.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: end user device; keystroke"
+  },
+  {
+    "term": "keystroke",
+    "definition": "A single press of a key on a computer.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "kms",
+    "definition": "Key management system. The processes used to generate, store, share, use and destroy cryptographic keys",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "lan",
+    "definition": "Local area network. A collection of computers and devices in the same location (usually a building), connected by ethernet or wifi.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: local area network; wan; wifi | see also: local area network; wan; wifi"
+  },
+  {
+    "term": "large language model",
+    "definition": "Large language models (LLMs) use algorithms trained on a huge amount of data, turning relationships between pieces of data into probabilities to predict sequences of text (or increasingly other content) in response to user prompts.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: llm; ai; artificial intelligence | see also: llm; ai; artificial intelligence"
+  },
+  {
+    "term": "llm",
+    "definition": "Large language models (LLMs) use algorithms trained on a huge amount of data, turning relationships between pieces of data into probabilities to predict sequences of text (or increasingly other content) in response to user prompts.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: large language model; ai; artificial intelligence | see also: large language model; ai; artificial intelligence"
+  },
+  {
+    "term": "logging",
+    "definition": "Generating, capturing, retaining and storing information on security-relevant events or behaviour from computer systems.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: security monitoring | see also: security monitoring"
+  },
+  {
+    "term": "machine learning",
+    "definition": "Machine learning (ML) is a type of AI by which computers find patterns in data or solve problems automatically without having to be explicitly programmed. Most AI in current use is built using ML techniques.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: ml; ai | see also: ml; ai"
+  },
+  {
+    "term": "macro",
+    "definition": "A small program that can automate tasks in applications (such as Microsoft 365) which attackers can exploit to cause harm.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: vulnerabilities"
+  },
+  {
+    "term": "mail check",
+    "definition": "An NCSC service that helps public sector organisations improve the security of their email domains.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: active cyber defence"
+  },
+  {
+    "term": "malvertising",
+    "definition": "Using online advertising as a delivery method for malware.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: malicious advertising; malware | see also: malicious advertising; malware"
+  },
+  {
+    "term": "malware",
+    "definition": "Derived from 'malicious software', malware is any kind of software that can damage computer systems, networks or devices. Includes viruses, ransomware and trojans.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: malicious software; virus | see also: malicious software; virus"
+  },
+  {
+    "term": "mdm",
+    "definition": "Mobile Device Management. Software that simplifies the administration and configuration of smartphones, laptops, tablets and other devices across an organisation.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: mobile device management; devices | see also: mobile device management; devices"
+  },
+  {
+    "term": "metadata",
+    "definition": "Metadata describes the properties of data and communications. Examples include file date and packet size.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "mitigation",
+    "definition": "Actions that organisations and individuals can take to minimise and address risks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "monitoring",
+    "definition": "The analysis of logging information to identify unusual events or patterns of behaviour.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: logging"
+  },
+  {
+    "term": "national protective security authority (npsa)",
+    "definition": "The National Protective Security Authority (NPSA) is the UK’s National Technical Authority for physical and personnel protective security.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: npsa"
+  },
+  {
+    "term": "ncsc",
+    "definition": "The National Cyber Security Centre, the UK national technical authority for cyber security.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: national cyber security centre"
+  },
+  {
+    "term": "ncsc for startups",
+    "definition": "An NCSC initiative where startup organisations work with NCSC experts to address important cyber challenges.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "network",
+    "definition": "Multiple computers and/or devices connected to shared resources and information.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: lan; wan"
+  },
+  {
+    "term": "oauth",
+    "definition": "A protocol that allows a 3rd party (for example, Google or Microsoft) to authorise access to services on a user's behalf.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: authentication"
+  },
+  {
+    "term": "oem",
+    "definition": "Original Equipment Manufacturer. An organisation that makes hardware or software that's used in other products.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: original equipment manufacturer"
+  },
+  {
+    "term": "open source",
+    "definition": "When referring to software, software for which the source code is made freely available for use and modification.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "operating system",
+    "definition": "The basic software running on computers, tablets and smartphones, required to run additional applications and hardware.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: os; platform | see also: os; platform"
+  },
+  {
+    "term": "operational security",
+    "definition": "The day-to-day protection of computer systems from cyber attack. Examples include backup, incident management and patching.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: incident management; patching"
+  },
+  {
+    "term": "operational technology",
+    "definition": "Technology that interfaces with the physical world and includes Industrial Control Systems (ICS), Supervisory Control and Data Acquisition (SCADA) and Distributed Control Systems (DCS)",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: ot"
+  },
+  {
+    "term": "passkeys",
+    "definition": "A more secure alternative to passwords that you don't need to remember as they are created and managed safely on your device(s).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: authentication; passwords"
+  },
+  {
+    "term": "passphrase",
+    "definition": "A sequence of words or other characters longer than a normal password, used to verify the identity of a user, usually to gain access to an account, website or system.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passwords"
+  },
+  {
+    "term": "password manager",
+    "definition": "Software which can generate, store and retrieve passwords.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passwords"
+  },
+  {
+    "term": "password spraying",
+    "definition": "Using a small number of commonly-used passwords in an attempt to access to a large number of accounts.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: brute force attack"
+  },
+  {
+    "term": "passwords",
+    "definition": "A sequence of characters used to verify the identity of a user, usually to gain access to an account, website or system.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passphrase"
+  },
+  {
+    "term": "patching",
+    "definition": "Installing updates to devices or software to improve security and/or enhance functionality.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: vulnerabilities"
+  },
+  {
+    "term": "pattern",
+    "definition": "An architectural pattern for secure system design",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: system design"
+  },
+  {
+    "term": "penetration testing",
+    "definition": "An authorised test of a computer network or system, designed to look for security weaknesses with the end aim of fixing them.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: pen testing; pentest; vulnerabilities | see also: pen testing; pentest; vulnerabilities"
+  },
+  {
+    "term": "pentest",
+    "definition": "Short for 'penetration testing,' an authorised test of a computer network or system, designed to look for security weaknesses with the end aim of fixing them.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: penetration test"
+  },
+  {
+    "term": "people-centred security",
+    "definition": "Cyber security that focuses on the behavioural traits of the people who follow the processes put in place by organisations.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "personal data",
+    "definition": "Information that relates to an identified or identifiable individual, such as a name or number, or information such as an IP address.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "personnel security",
+    "definition": "Protecting organisations from the risks associated with the people it employs.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "pharming",
+    "definition": "A cyber attack where a person is misdirected to a fraudulent website, despite them entering the correct address.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "phishing",
+    "definition": "Scam emails or text messages that contain links to websites which may contain malware, or may trick users into revealing sensitive information (such as passwords) or transferring money.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: smishing; spear-phishing; whaling; malware"
+  },
+  {
+    "term": "physical security",
+    "definition": "Protecting the places where people work, and the locations of systems, services and networks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "plain text",
+    "definition": "In cryptography, plain text refers to text that has not been encrypted (and is therefore easily readable).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: clear text"
+  },
+  {
+    "term": "platform",
+    "definition": "Hardware or software environments on which applications can run. Software examples include Windows, Android and iOS. Hardware examples include PCs and Mac computers.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "platform as a service (paas)",
+    "definition": "A business model that allows developers to create and manage software applications, without having to own or maintain the physical infrastructure on which they run.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: infrastructure as a service (iaas); software as a service (saas)"
+  },
+  {
+    "term": "powershell",
+    "definition": "A powerful command-line tool and scripting language, often used to automate administrative and configuration tasks on Windows computers.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "protocol",
+    "definition": "A set of rules that determine how data is handled, protected and transmitted between devices on a network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "ransomware",
+    "definition": "A type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: malware"
+  },
+  {
+    "term": "ransomware as a service",
+    "definition": "A business model where consumers purchase ransomware services 'off the shelf', without requiring the technical skills to develop the malware.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: raas; ransomware; malware | see also: raas; ransomware; malware"
+  },
+  {
+    "term": "remote working",
+    "definition": "Working away from your business premises.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: home working; teleworking; byod | see also: home working; teleworking; byod"
+  },
+  {
+    "term": "removable media",
+    "definition": "Devices such as USB flash drives, DVDs and memory cards, that can be easily removed from a computer to increase storage capacity (or to transfer data).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "research &amp; academia",
+    "definition": "Research & Academia and education",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: education"
+  },
+  {
+    "term": "rfc",
+    "definition": "Request for Comments. Detailed proposals concerning an aspect of internet technology, many of which become internet standards.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: request for comments"
+  },
+  {
+    "term": "rfid",
+    "definition": "Radio frequency identification. Technology that uses electromagnetic fields to identify, track and share data between tags within objects or worn by people.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: radio frequency identification"
+  },
+  {
+    "term": "risk",
+    "definition": "Possible future outcomes that we can describe in terms of their chances of occurrence, and the impact they would have if realised.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: risk management"
+  },
+  {
+    "term": "risk appetite",
+    "definition": "The level of risk that an organisation is prepared to take in pursuit of its objectives.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: risk; risk management"
+  },
+  {
+    "term": "risk management",
+    "definition": "The means of governing, communicating and making decisions about risk.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: risk; risk appetite; risk owner"
+  },
+  {
+    "term": "risk owner",
+    "definition": "A person who is accountable for risk within an organisation.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: risk management"
+  },
+  {
+    "term": "router",
+    "definition": "A device which sends data from one network to another based on the destination IP address.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: gateway; ip address"
+  },
+  {
+    "term": "rpz",
+    "definition": "Response policy zone. A filtering mechanism that prevents users from visiting harmful internet sites. Also known as a DNS firewall.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: response policy zone; dns | see also: response policy zone; dns"
+  },
+  {
+    "term": "salt",
+    "definition": "Random data that is added to the password hashing process to help protect against dictionary attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: hashing"
+  },
+  {
+    "term": "sanitisation",
+    "definition": "Techniques that ensure data stored on devices is removed so that it can no longer be recovered by unauthorised parties.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "secure by default",
+    "definition": "Technology in which security is embedded from its inception, and is frictionless for the user. Security is treated as a core fundamental rather than a follow-up activity.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "secure design and development",
+    "definition": "Activities relating to the design and development of IT systems and software that are secure by default.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "secure storage",
+    "definition": "Protecting digitally stored information using physical and electronic techniques.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "security architecture",
+    "definition": "The practice of designing the technology, people and processes within computer systems to achieve security goals.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "security monitoring",
+    "definition": "Active analysis by organisations of logging information to look for signs of attacks or unusual behaviour, to help detect events that could be considered an incident and to respond accordingly.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: protective monitoring; logging; soc; siem | see also: protective monitoring; logging; soc; siem"
+  },
+  {
+    "term": "server",
+    "definition": "A software- or hardware-based device that accepts and responds to requests made over a network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "shadow it",
+    "definition": "Refers to the unknown assets that are used within an organisation for business purposes.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: grey it"
+  },
+  {
+    "term": "shoulder surfing",
+    "definition": "Observing information (such as a password) as it is being typed into a screen.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passwords"
+  },
+  {
+    "term": "siem",
+    "definition": "Technology that supports threat detection and security management by collecting, monitoring and analysing security-related data from computer logs and alerts.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: security information and event management; logging | see also: security information and event management; logging"
+  },
+  {
+    "term": "single sign-on",
+    "definition": "Using a single set of credentials (such as the same login and password combination) to access multiple services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: sso; credentials | see also: sso; credentials"
+  },
+  {
+    "term": "smishing",
+    "definition": "Combination of 'SMS' and 'Phishing'. Untargeted text messages sent to large numbers of people, asking for sensitive information, or encouraging them to visit a fake website.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: sms phishing; phishing | see also: sms phishing; phishing"
+  },
+  {
+    "term": "soc",
+    "definition": "Security operations centre. A centralised facility within an organisation, responsible for activities such as security monitoring and incident management.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: security operations centre; incident management; security monitoring | see also: security operations centre; incident management; security monitoring"
+  },
+  {
+    "term": "social engineering",
+    "definition": "A technique an attacker uses to manipulate people into carrying out specific actions, or divulging information.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: phishing; smishing; spear-phishing; whaling"
+  },
+  {
+    "term": "social media",
+    "definition": "Websites and apps, such as Facebook, X and Instragram, that allow people to share and respond to user-generated content (text posts, photos and video).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: digital footprint"
+  },
+  {
+    "term": "sociotechnical security",
+    "definition": "Security that accounts for the interaction of technology with people, processes and organisations.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "software as a service (saas)",
+    "definition": "A business model where customers access centrally hosted software applications over the internet (or network).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: infrastructure as a service (iaas); platform as a service (paas)"
+  },
+  {
+    "term": "spam",
+    "definition": "Unsolicited email sent in bulk, also referred to as junk email.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: junk email"
+  },
+  {
+    "term": "spear-phishing",
+    "definition": "A form of phishing targeting particular individuals, where the email is designed to look like it's from a trusted or known person.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: whaling; phishing | see also: whaling; phishing"
+  },
+  {
+    "term": "spoofing",
+    "definition": "A technique attackers use to appear to make their communications appear from a legitimate source. Email addresses, display names and domains can all be spoofed.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "spyware",
+    "definition": "A type of malware that installs on a device without the user's consent, collecting data and then sendng it to a third party.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: malware"
+  },
+  {
+    "term": "ss7",
+    "definition": "Signalling System 7. An international standard allowing phone networks to exchange the information needed for passing calls and text messages.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: signalling system 7"
+  },
+  {
+    "term": "ssl",
+    "definition": "Secure Sockets Layer. An older method of encrypting data to communicate across the internet. Replaced by TLS.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: secure sockets layer; encryption; tls | see also: secure sockets layer; encryption; tls"
+  },
+  {
+    "term": "supply chain",
+    "definition": "The extended network of trading relationships relied upon to deliver products, systems, and services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "takedown",
+    "definition": "The removal of malware and phishing websites to limit the harm they can cause.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "tethering",
+    "definition": "Connecting to a phone using wifi, to share its internet connection.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: wifi"
+  },
+  {
+    "term": "threat intelligence",
+    "definition": "Information about threats that has been aggregated, analysed and enriched to provide the useful context for decision-making processes.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "throttling",
+    "definition": "Forcing a time delay between successive login attempts in order to defend against brute force attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: brute force attack"
+  },
+  {
+    "term": "tls",
+    "definition": "Transport Layer Security. A cryptographic protocol that provides secure communications across computer networks, such as the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: transport layer security; encryption | see also: transport layer security; encryption"
+  },
+  {
+    "term": "token",
+    "definition": "A physical device or digital data, typically used with a password, to provide a user with access to a computer or network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: passwords"
+  },
+  {
+    "term": "translation monitoring",
+    "definition": "A branch of security monitoring designed to protect online systems and services.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: security monitoring"
+  },
+  {
+    "term": "trojan",
+    "definition": "A type of malware, disguised as legitimate software, that is used to gain unauthorised access to a victim's computer.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: virus"
+  },
+  {
+    "term": "typosquatting",
+    "definition": "A technique used by threat actors where they set up a website or software with a misspelling of something legitimate. This can trick a user who accidentally misspells a service into entering information into the malicious website or downloading malware.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: typosquatting; attacker; hacker; cyber attack | see also: typosquatting; attacker; hacker; cyber attack"
+  },
+  {
+    "term": "uefi",
+    "definition": "Unified Extensible Firmware Interface. A replacement for the BIOS (Basic Input-Output System) firmware that connects a PC's vital components.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: unified extensible firmware interface; bios; firmware | see also: unified extensible firmware interface; bios; firmware"
+  },
+  {
+    "term": "uk gdpr",
+    "definition": "UK GDPR is the General Data Protection legislation in the UK that gives citizens more control over their personal data.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: general data protection regulation"
+  },
+  {
+    "term": "video conferencing",
+    "definition": "A live audio and video conversation between two or more people, conducted using phone, tablet, laptop or desktop computer.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "virtual machine",
+    "definition": "A virtual environment within a physical computer that behaves like a separate computer. It allows the user to run programs and test apps in isolation.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "virtualisation",
+    "definition": "The process of creating a virtual machine.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "virus",
+    "definition": "A type of malware that is designed to infect legitimate software programs and replicates across networks when those programs are activated.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "virus signature",
+    "definition": "Files containing data unique to particular pieces of malware, including viruses, that security software downloads in order to aid detection.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "vpn",
+    "definition": "Virtual Private Network. A set of cryptographic technologies used to encrypt data as it travels over a network between two fixed endpoints.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": ""
+  },
+  {
+    "term": "vulnerabilities",
+    "definition": "A weakness, or flaw, in software, a system or process. An attacker exploits these to (for example) gain unauthorised access to a computer system.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: exploit"
+  },
+  {
+    "term": "w3c",
+    "definition": "The World Wide Web Consortium (W3C) is an international organisation that develops standards for the World Wide Web.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: world wide web consortium; www | see also: world wide web consortium; www"
+  },
+  {
+    "term": "wan",
+    "definition": "Wide area network. A network spread over a large area, typically a collection of Local Area Networks (LANs) and other networks connected together",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: wide area network; lan | see also: wide area network; lan"
+  },
+  {
+    "term": "wannacry",
+    "definition": "The name of a ransomware variant that in 2017 infected over 300,000 computers globally causing multiple cyber attacks.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: ransomware"
+  },
+  {
+    "term": "wap",
+    "definition": "Wireless access point. A device which provides wireless access to a network.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: wireless access points; network | see also: wireless access points; network"
+  },
+  {
+    "term": "watering hole",
+    "definition": "A type of cyber attack where an attacker identifies a website frequented by a particular group of users, and then compromises that website with malware to infect the computers of its visitors.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: watering hole attack; download attack | see also: watering hole attack; download attack"
+  },
+  {
+    "term": "web check",
+    "definition": "An NCSC service that helps owners of public sector websites to find and fix common vulnerabilities.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: active cyber defence"
+  },
+  {
+    "term": "whaling",
+    "definition": "Highly targeted phishing attacks (that look like legitimate emails) aimed at senior executives.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: phishing; spear-phishing"
+  },
+  {
+    "term": "wifi",
+    "definition": "Wireless network technology used to connect devices to the internet (or LAN).",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: lan"
+  },
+  {
+    "term": "wiper",
+    "definition": "A destructive type of malware that destroys the data on the computers and networks it infects.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: malware; virus"
+  },
+  {
+    "term": "worm",
+    "definition": "A type of malware, similar to a virus, which self-replicates across networks without the need for a user to open an infected program.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: malware; virus"
+  },
+  {
+    "term": "www",
+    "definition": "The World Wide Web (or Web) is an interconnected system of public webpages accessed through the internet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: world wide web; internet; browser | see also: world wide web; internet; browser"
+  },
+  {
+    "term": "zero-day",
+    "definition": "Recently discovered vulnerability that hackers can explot, where a fix or patch isn't publicly available yet.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: exploit; hacker; vulnerabilities"
+  },
+  {
+    "term": "2-step verification",
+    "definition": "2-step verification. The use of two different methods (such as a password and an SMS code) to verify a user's identity.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: 2sv; multi-factor authentication (mfa); two-factor authentication (2fa); authentication; passwords | see also: 2sv; multi-factor authentication (mfa); two-factor authentication (2fa); authentication; passwords"
+  },
+  {
+    "term": "2sv",
+    "definition": "2-step verification. The use of two different methods (such as a password and an SMS code) to verify a user's identity.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "also known as: 2 step verification; two factor authentication; multi-factor authentication; 2-step verification; authentication | see also: 2 step verification; two factor authentication; multi-factor authentication; 2-step verification; authentication"
+  },
+  {
+    "term": "5g",
+    "definition": "5G is the fifth generation of wireless technology being rolled out in the UK, used to deliver the mobile internet without connecting to a cable or wifi. 5G is faster than the previous 3G and 4G generations, with reduced latency (the time between instructing a wireless device to perform an action and that action being completed) and greater capacity, allowing more devices in one area to be connected at the same time.",
+    "source_anchor": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+    "notes": "see also: tethering"
+  }
+]
