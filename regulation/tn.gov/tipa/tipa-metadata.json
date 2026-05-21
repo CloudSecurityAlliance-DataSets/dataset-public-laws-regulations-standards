@@ -19,8 +19,8 @@
     "source": "https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf",
     "csaLocation": "",
     "source_research_note": "Tennessee Information Protection Act (TIPA) \u2014 Public Chapter 1140 (2023).",
-    "acquisition_status": "pdf-deferred",
-    "acquisition_blocker": "PDF source publications.tnsosfiles.com/acts/113/pub/pc1140.pdf \u2014 needs GPU-box marker run, not in-process curl."
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "PDF URL https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf returns HTTP 403 from both my IP and the GPU box (publications.tnsosfiles.com explicitly bot-blocks curl; XML response body suggests a WAF). LegiScan also 403s. No archived snapshot on Wayback. Needs manual browser download \u2014 open URL in browser, save as PDF to control/.../tipa.pdf, then run tools-resources/utils/pdf_to_md_via_gpu.sh."
   },
   "lifecycle": {
     "active": true,

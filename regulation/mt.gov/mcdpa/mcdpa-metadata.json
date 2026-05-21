@@ -19,8 +19,8 @@
     "source": "https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf",
     "csaLocation": "",
     "source_research_note": "Montana Consumer Data Privacy Act \u2014 SB384 (2023).",
-    "acquisition_status": "pdf-deferred",
-    "acquisition_blocker": "PDF source leg.mt.gov/bills/2023/billpdf/SB0384.pdf \u2014 needs GPU-box marker run, not in-process curl."
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "PDF URL https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf returns HTTP 404 \u2014 Montana legislature migrated from leg.mt.gov to bills.legmt.gov SPA which requires JS to render bill text. No direct PDF endpoint found at the new domain. LegiScan 403s. Needs manual browser navigation through bills.legmt.gov to find the working bill-text PDF link."
   },
   "lifecycle": {
     "active": true,

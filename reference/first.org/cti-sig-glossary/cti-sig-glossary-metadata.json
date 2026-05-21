@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "FIRST org \u2014 generally open"
+    "notes": "Forum of Incident Response and Security Teams, Inc. All Rights Reserved (page footer). License reclassified from NOASSERTION after Phase 4b verifier confirmed all-rights-reserved."
   },
   "links": {
     "wikipedia": "",
