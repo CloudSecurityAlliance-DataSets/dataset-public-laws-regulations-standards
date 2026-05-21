@@ -1,0 +1,662 @@
+[
+  {
+    "control_id": "AC-2",
+    "control_name": "Account Management",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Define and document the types of accounts allowed and specifically prohibited for use within the system;\n\n    b. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    c. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    d. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        1. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        2. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        3. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    e. [Excluded from FedRAMP Tailored for LI-SaaS]\n\nf. Create, enable, modify, disable, and remove accounts in accordance with [Assignment: organization-defined policy, procedures, prerequisites, and criteria];\n\n    g. Monitor the use of accounts;\n\nh. Notify account managers and [Assignment: organization-defined personnel or roles] within:\n\n1. [Assignment: organization-defined time period] when accounts are no longer required;\n\n**AC-2 (h) (1) Additional FedRAMP Requirements and Guidance: **[twenty-four (24) hours]\n\n2. [Assignment: organization-defined time period] when users are terminated or transferred; and\n\n**AC-2 (h) (2) Additional FedRAMP Requirements and Guidance: **[eight (8) hours]\n\n3. [Assignment: organization-defined time period] when system usage or need-to-know changes for an individual;\n\n**AC-2 (h) (3) Additional FedRAMP Requirements and Guidance: **[eight (8) hours]\n\n    i. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        1. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        2. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n        3. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    j. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    k. [Excluded from FedRAMP Tailored for LI-SaaS]\n\n    l. [Excluded from FedRAMP Tailored for LI-SaaS]",
+    "fedramp_assignments": "twenty-four (24) hours\neight (8) hours\neight (8) hours"
+  },
+  {
+    "control_id": "AC-3",
+    "control_name": "Access Enforcement",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "AC-7",
+    "control_name": "Unsuccessful Logon Attempts",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Enforce a limit of [Assignment: organization-defined number] consecutive invalid log-on attempts by a user during a [Assignment: organization-defined time period]; and\n\nb. Automatically [Assignment: lock the account or node for an [Assignment: organization-defined time period]; lock the account or node until released by an administrator; delay next logon prompt per [Assignment: organization-defined delay algorithm]; notify system administrator; take other [Assignment: organization-defined action]] when the maximum number of unsuccessful attempts is exceeded.\n\n**AC-7 (a and b) Requirement: In alignment with NIST SP 800-63B**",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "AC-17",
+    "control_name": "Remote Access",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Establish and document usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and\n\nb. Authorize each type of remote access to the system prior to allowing such connections.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "AC-22",
+    "control_name": "Publicly Accessible Content",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Designate individuals authorized to make information publicly accessible;\n\nb. Train authorized individuals to ensure that publicly accessible information does not contain nonpublic information;\n\nc. Review the proposed content of information prior to posting onto the publicly accessible system to ensure that nonpublic information is not included; and\n\nd. Review the content on the publicly accessible system for nonpublic information [Assignment: organization-defined frequency] and remove such information, if discovered.\n\n<a id=\"_heading=h.3rdcrjn\"></a>**AC-22 (d) Additional FedRAMP Requirements and Guidance: **[at least quarterly]",
+    "fedramp_assignments": "at least quarterly"
+  },
+  {
+    "control_id": "AU-3",
+    "control_name": "Content of Audit Records",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Ensure that audit records contain information that establishes the following:\n\n    a. What type of event occurred;\n\n    b. When the event occurred;\n\n    c. Where the event occurred;\n\n    d. Source of the event;\n\n    e. Outcome of the event; and\n\nf. Identity of any individuals, subjects, or objects/entities associated with the event.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "AU-5",
+    "control_name": "Response to Audit Logging Process Failures",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Alert [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined personnel or roles] in the event of an audit logging process failure; and [Assignment: organization-defined time period]\n\nb. Take the following additional actions: [Assignment: organization-defined additional actions].\n\n**AU-5 (b) Additional FedRAMP Requirements and Guidance: **[overwrite oldest record]",
+    "fedramp_assignments": "overwrite oldest record"
+  },
+  {
+    "control_id": "AU-6",
+    "control_name": "Audit Record Review, Analysis, and Reporting",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Review and analyze system audit records [Assignment: organization-defined frequency] for indications of [Assignment: organization-defined frequency] and the potential impact of the inappropriate or unusual activity; [Assignment: organization-defined inappropriate or unusual activity]\n\n**AU-6 (a)-1 Additional FedRAMP Requirements and Guidance: **[at least weekly]\n\n__AU-6 (a)-1 Additional FedRAMP Requirements and Guidance: __Coordination between service provider and consumer shall be documented and accepted by the JAB/AO. In multi-tenant environments, capability and means for providing review, analysis, and reporting to consumer for data pertaining to consumer shall be documented.\n\nb. Report findings to [Assignment: organization-defined personnel or roles]; and\n\nc. Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.",
+    "fedramp_assignments": "at least weekly"
+  },
+  {
+    "control_id": "CA-2",
+    "control_name": "Control Assessments",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Select the appropriate assessor or assessment team for the type of assessment to be conducted;\n\nb. Develop a control assessment plan that describes the scope of the assessment including:\n\n1. Controls and control enhancements under assessment;\n\n2. Assessment procedures to be used to determine control effectiveness; and\n\n3. Assessment environment, assessment team, and assessment roles and responsibilities;\n\nc. Ensure the control assessment plan is reviewed and approved by the authorizing official or designated representative prior to conducting the assessment;\n\nd. Assess the controls in the system and its environment of operation [Assignment: organization-defined frequency] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security and privacy\n\n**CA-2 (d) Additional FedRAMP Requirements and Guidance: **[at least annually]\n\ne. Produce a control assessment report that document the results of the assessment; and\n\nf. Provide the results of the control assessment to [Assignment: organization-defined individuals or roles].\n\n**CA-2 (f) Additional FedRAMP Requirements and Guidance: **[individuals or roles to include FedRAMP PMO]\n\n__CA-2 Additional FedRAMP Requirements and Guidance: __Reference FedRAMP Annual Assessment Guidance.",
+    "fedramp_assignments": "at least annually\nindividuals or roles to include FedRAMP PMO"
+  },
+  {
+    "control_id": "CA-3",
+    "control_name": "Information Exchange (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Approve and manage the exchange of information between the system and other systems using [Assignment: interconnection security agreements; information exchange security agreements; memoranda of understanding or agreement; service level agreements; user agreements; nondisclosure agreements];\n\nb. Document, as part of each exchange agreement, the interface characteristics, security and privacy requirements, controls, and responsibilities for each system, and the impact level of the information communicated; and\n\nc. Review and update the agreements [Assignment: organization-defined frequency].\n\n**CA-3 (c) Additional FedRAMP Requirements and Guidance: **[at least annually and on input from JAB/AO]",
+    "fedramp_assignments": "at least annually and on input from JAB/AO"
+  },
+  {
+    "control_id": "CA-6",
+    "control_name": "Authorization",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Assign a senior official as the authorizing official for the system;\n\nb. Assign a senior official as the authorizing official for common controls available for inheritance by organizational systems;\n\nc. Ensure that the authorizing official for the system, before commencing operations:\n\n        1. Accepts the use of common controls inherited by the system; and\n\n        2. Authorizes the system to operate;\n\nd. Ensure that the authorizing official for common controls authorizes the use of those controls for inheritance by organizational systems;\n\ne. Update the authorizations [Assignment: organization-defined frequency].\n\n**CA-6 (e) Additional FedRAMP Requirements and Guidance: **[in accordance with OMB A-130 requirements or when a significant change occurs]\n\n__CA-6 (e) Additional FedRAMP Requirements and Guidance: __Significant change is defined in NIST Special Publication 800-37 Revision 2, Appendix F and according to FedRAMP Significant Change Policies and Procedures. The service provider describes the types of changes to the information system or the environment of operations that would impact the risk posture. The types of changes are approved and accepted by the JAB/AO.",
+    "fedramp_assignments": "in accordance with OMB A-130 requirements or when a significant change occurs"
+  },
+  {
+    "control_id": "CA-7",
+    "control_name": "Continuous Monitoring",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Develop a system-level continuous monitoring strategy and implement continuous monitoring in accordance with the organization-level continuous monitoring strategy that includes:\n\na. Establishing the following system-level metrics to be monitored: [Assignment: organization-defined system-level metrics];\n\nb. Establishing [Assignment: organization-defined frequencies] for monitoring and [Assignment: organization-defined frequencies] for assessment of control effectiveness;\n\nc. Ongoing control assessments in accordance with the continuous monitoring strategy;\n\nd. Ongoing monitoring of system and organization-defined metrics in accordance with the continuous monitoring strategy;\n\ne. Correlation and analysis of information generated by control assessments and monitoring;\n\nf. Response actions to address results of the analysis of control assessment and monitoring information; and\n\ng. Reporting the security and privacy status of the system to [Assignment: organization-defined personnel or roles] [Assignment: organization-defined frequency].\n\n**CA-7 (g)-1 Additional FedRAMP Requirements and Guidance: **[to include JAB/AO]\n\n__CA-7 Additional FedRAMP Requirements and Guidance: __Operating System, Database, Web Application, Container, and Service Configuration Scans: at least monthly. All scans performed by Independent Assessor: at least annually.\n\n**CA-7 Requirement:** CSOs with more than one agency ATO must implement a collaborative Continuous Monitoring (ConMon) approach described in the FedRAMP Guide for Multi-Agency Continuous Monitoring. This requirement applies to CSOs authorized via the Agency path as each agency customer is responsible for performing ConMon oversight. It does not apply to CSOs authorized via the JAB path because the JAB performs ConMon oversight.\n\n**CA-7 Guidance:** FedRAMP does not provide a template for the Continuous Monitoring Plan. CSPs should reference the FedRAMP Continuous Monitoring Strategy Guide when developing the Continuous Monitoring Plan.",
+    "fedramp_assignments": "to include JAB/AO"
+  },
+  {
+    "control_id": "CA-7(4)",
+    "control_name": "Risk Monitoring",
+    "is_enhancement": "true",
+    "parent_control_id": "CA-7",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Ensure risk monitoring is an integral part of the continuous monitoring strategy that includes the following:\n\n    (a)   Effectiveness monitoring;\n\n    (b)   Compliance monitoring; and\n\n    (c)   Change monitoring.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "CA-8",
+    "control_name": "Penetration Testing",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Conduct penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined systems or system components].\n\n**CA-8-1 Additional FedRAMP Requirements and Guidance: **[at least annually]\n\n__CA-8 Additional FedRAMP Requirements and Guidance: __Scope can be limited to public facing applications in alignment with M-22-09. Reference the FedRAMP Penetration Test Guidance.",
+    "fedramp_assignments": "at least annually"
+  },
+  {
+    "control_id": "CA-9",
+    "control_name": "Internal System Connections (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Authorize internal connections of [Assignment: organization-defined system components or classes of components] to the system;\n\nb. Document, for each internal connection, the interface characteristics, security and privacy requirements, and the nature of the information communicated;\n\nc. Terminate internal system connections after [Assignment: organization-defined conditions]; and\n\nd. Review [Assignment: organization-defined frequency] the continued need for each internal connection.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "CM-4",
+    "control_name": "Impact Analysis",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Analyze changes to the system to determine potential security and privacy impacts prior to change implementation.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "CM-5",
+    "control_name": "Access Restrictions for Change",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Define, document, approve, and enforce physical and logical access restrictions associated with changes to the system.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "CM-6",
+    "control_name": "Configuration Settings",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Establish and document configuration settings for components employed within the system that reflect the most restrictive mode consistent with operational requirements using [Assignment: organization-defined common secure configurations];\n\nb. Implement the configuration settings;\n\nc. Identify, document, and approve any deviations from established configuration settings for [Assignment: organization-defined system components] based on [Assignment: organization-defined operational requirements]; and\n\nd. Monitor and control changes to the configuration settings in accordance with organizational policies and procedures.\n\n__CM-6 (a)-1 Additional FedRAMP Requirements and Guidance: __The service provider shall use the DoD STIGs or Center for Internet Security guidelines to establish configuration settings;\n\n__CM-6 (a)-2 Additional FedRAMP Requirements and Guidance: __The service provider shall ensure that checklists for configuration settings are Security Content Automation Protocol (SCAP) validated or SCAP compatible (if validated checklists are not available).\n\n**CM-6 Additional FedRAMP Requirements and Guidance: ** Compliance checks are used to evaluate configuration settings and provide general insight into the overall effectiveness of configuration management activities. CSPs and 3PAOs typically combine compliance check findings into a single CM-6 finding, which is acceptable. However, for initial assessments, annual assessments, and significant change requests, FedRAMP requires a clear understanding, on a per-control basis, where risks exist. Therefore, 3PAOs must also analyze compliance check findings as part of the controls assessment. Where a direct mapping exists, the 3PAO must document additional findings per control in the corresponding SAR Risk Exposure Table (RET), which are then documented in the CSP’s Plan of Action and Milestones (POA&M). This will likely result in the details of individual control findings overlapping with those in the combined CM-6 finding, which is acceptable.\n\nDuring monthly continuous monitoring, new findings from CSP compliance checks may be combined into a single CM-6 POA&M item. CSPs are not required to map the findings to specific controls because controls are only assessed during initial assessments, annual assessments, and significant change requests.",
+    "fedramp_assignments": "Compliance checks are used to evaluate configuration settings and provide general insight into the overall effectiveness of configuration management activities. CSPs and 3PAOs typically combine compliance check findings into a single CM-6 finding, which is acceptable. However, for initial assessments, annual assessments, and significant change requests, FedRAMP requires a clear understanding, on a per-control basis, where risks exist. Therefore, 3PAOs must also analyze compliance check findings as part of the controls assessment. Where a direct mapping exists, the 3PAO must document additional findings per control in the corresponding SAR Risk Exposure Table (RET), which are then documented in the CSP’s Plan of Action and Milestones (POA&M). This will likely result in the details of individual control findings overlapping with those in the combined CM-6 finding, which is acceptable."
+  },
+  {
+    "control_id": "CM-8",
+    "control_name": "System Component Inventory",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Develop and document an inventory of system components that:\n\n1. Accurately reflects the system;\n\n2. Includes all components within the system;\n\n3. Does not include duplicate accounting of components or components assigned to any other system;\n\n4. Is at the level of granularity deemed necessary for tracking and reporting; and\n\n5. Includes the following information to achieve system component accountability: [Assignment: organization-defined information deemed necessary to achieve effective system component accountability]; and\n\nb. Review and update the system component inventory [Assignment: organization-defined frequency].\n\n**CM-8 (b) Additional FedRAMP Requirements and Guidance: **[at least monthly]\n\n__CM-8 Additional FedRAMP Requirements and Guidance: __must be provided at least monthly or when there is a change.",
+    "fedramp_assignments": "at least monthly"
+  },
+  {
+    "control_id": "CP-9",
+    "control_name": "System Backup",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Conduct backups of user-level information contained in [Assignment: organization-defined system components]; [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]\n\n**CP-9 (a)-2 Additional FedRAMP Requirements and Guidance: **[daily incremental; weekly full]\n\n__CP-9 (a) Additional FedRAMP Requirements and Guidance: __The service provider maintains at least three backup copies of user-level information (at least one of which is available online) or provides an equivalent alternative.\n\nb. Conduct backups of system-level information contained in the system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];\n\n**CP-9 (b) Additional FedRAMP Requirements and Guidance: **[daily incremental; weekly full]\n\n__CP-9 (b) Additional FedRAMP Requirements and Guidance: __The service provider maintains at least three backup copies of system-level information (at least one of which is available online) or provides an equivalent alternative.\n\nc. Conduct backups of system documentation, including security- and privacy-related documentation [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]; and\n\n**CP-9 (c) Additional FedRAMP Requirements and Guidance: **[daily incremental; weekly full]\n\n**CP-9 (c) Additional FedRAMP Requirements and Guidance**: The service provider maintains at least three backup copies of information system documentation including security information (at least one of which is available online) or provides an equivalent alternative.\n\nd. Protect the confidentiality, integrity, and availability of backup information.\n\n__CP-9 Requirement: __The service provider shall determine what elements of the cloud environment require the Information System Backup control. The service provider shall determine how Information System Backup is going to be verified and appropriate periodicity of the check.",
+    "fedramp_assignments": "daily incremental; weekly full\ndaily incremental; weekly full\ndaily incremental; weekly full\n: The service provider maintains at least three backup copies of information system documentation including security information (at least one of which is available online) or provides an equivalent alternative."
+  },
+  {
+    "control_id": "IA-2(1)",
+    "control_name": "Multi-factor Authentication to Privileged Accounts",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-2",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement multi-factor authentication for access to privileged accounts.\n\n- **IA-2 (1)** **Additional FedRAMP Requirements and Guidance:** According to SP 800-63-3, SP 800-63A (IAL), SP 800-63B (AAL), and SP 800-63C (FAL).\n- **IA-2 (1)** **Additional FedRAMP Requirements and Guidance:** Multi-factor authentication must be phishing-resistant.\n- **IA-2 (1)** **Additional FedRAMP Requirements and Guidance:** Multi-factor authentication to subsequent components in the same user domain is not required.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-2(2)",
+    "control_name": "Multi-factor Authentication to Non-privileged Accounts",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-2",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement multi-factor authentication for access to non-privileged accounts.\n\n- **IA-2 (2)** **Additional FedRAMP Requirements and Guidance:** According to SP 800-63-3, SP 800-63A (IAL), SP 800-63B (AAL), and SP 800-63C (FAL).\n- **IA-2 (2)** **Additional FedRAMP Requirements and Guidance:** Multi-factor authentication must be phishing-resistant.\n- **IA-2 (2)** **Additional FedRAMP Requirements and Guidance:** Multi-factor authentication to subsequent components in the same user domain is not required.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-2(8)",
+    "control_name": "Access to Accounts — Replay Resistant",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-2",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement replay-resistant authentication mechanisms for access to [Assignment: privileged accounts; non-privileged accounts].",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-2(12)",
+    "control_name": "Acceptance of PIV Credentials",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-2",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Accept and electronically verify Personal Identity Verification-compliant credentials.\n\n- **IA-2 (12)** __Additional FedRAMP Requirements and Guidance: __Include Common Access Card (CAC), i.e., the DoD technical implementation of PIV/FIPS 201/HSPD-12.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-6",
+    "control_name": "Authentication Feedback",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Obscure feedback of authentication information during the authentication process to protect the information from possible exploitation and use by unauthorized individuals.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-7",
+    "control_name": "Cryptographic Module Authentication",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement mechanisms for authentication to a cryptographic module that meet the requirements of applicable laws, executive orders, directives, policies, regulations, standards, and guidelines for such authentication.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-8(1)",
+    "control_name": "Acceptance of PIV Credentials from Other Agencies (Conditional)",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-8",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Accept and electronically verify Personal Identity Verification-compliant credentials from other federal agencies.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IA-8(2)",
+    "control_name": "Acceptance of External Authenticators (Conditional)",
+    "is_enhancement": "true",
+    "parent_control_id": "IA-8",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "(a) Accept only external authenticators that are NIST-compliant; and\n\n(b) Document and maintain a list of accepted external authenticators.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IR-4",
+    "control_name": "Incident Handling",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Implement an incident handling capability for incidents that is consistent with the incident response plan and includes preparation, detection and analysis, containment, eradication, and recovery;\n\nb. Coordinate incident handling activities with contingency planning activities;\n\nc. Incorporate lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implement the resulting changes accordingly; and\n\nd. Ensure the rigor, intensity, scope, and results of incident handling activities are comparable and predictable across the organization.\n\n- IR-4 **Additional FedRAMP Requirements and Guidance:** The FISMA definition of “incident” shall be used: “An occurrence that actually or imminently jeopardizes, without lawful authority, the confidentiality, integrity, or availability of information or an information system; or constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies.”\n- IR-4 **Additional FedRAMP Requirements and Guidance:** The service provider ensures that individuals conducting incident handling meet personnel security requirements commensurate with the criticality/sensitivity of the information being processed, stored, and transmitted by the information system.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "IR-6",
+    "control_name": "Incident Reporting",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Require personnel to report suspected incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and\n\n**IR-6 (a) Additional FedRAMP Requirements and Guidance: **[US-CERT incident reporting timelines as specified in NIST Special Publication 800-61 (as amended)]\n\nb. Report incident information to [Assignment: organization-defined authorities].\n\n**IR-6** **Additional FedRAMP Requirements and Guidance:** Reports security incident information according to FedRAMP Incident Communications Procedure.",
+    "fedramp_assignments": "US-CERT incident reporting timelines as specified in NIST Special Publication 800-61 (as amended)"
+  },
+  {
+    "control_id": "MA-2",
+    "control_name": "Controlled Maintenance (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Schedule, document, and review records of maintenance, repair, and replacement on system components in accordance with manufacturer or vendor specifications and/or organizational requirements;\n\nb. Approve and monitor all maintenance activities, whether performed on site or remotely and whether the system or system components are serviced on site or removed to another location;\n\nc. Require that [Assignment: organization-defined personnel or roles] explicitly approve the removal of the system or system components from organizational facilities for off-site maintenance, repair, or replacement;\n\nd. Sanitize equipment to remove the following information from associated media prior to removal from organizational facilities for off-site maintenance, repair, or replacement: [Assignment: organization-defined information];\n\ne. Check all potentially impacted controls to verify that the controls are still functioning properly following maintenance, repair, or replacement actions; and\n\nf. Include the following information in organizational maintenance records: [Assignment: organization-defined information].",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "MA-5",
+    "control_name": "Maintenance Personnel (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Establish a process for maintenance personnel authorization and maintain a list of authorized maintenance organizations or personnel;\n\nb. Verify that non-escorted personnel performing maintenance on the system possess the required access authorizations; and\n\nc. Designate organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "MP-2",
+    "control_name": "Media Access (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Restrict access to [Assignment: organization-defined types of digital and/or non-digital media] to [Assignment: organization-defined personnel or roles].",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "MP-6",
+    "control_name": "Media Sanitization (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Sanitize [Assignment: organization-defined system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures]; and\n\n**MP-6 (a)-2 Additional FedRAMP Requirements and Guidance: **[techniques and procedures IAW NIST SP 800-88 Section 4: Reuse and Disposal of Storage Media and Hardware]\n\nb. Employ sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.",
+    "fedramp_assignments": "techniques and procedures IAW NIST SP 800-88 Section 4: Reuse and Disposal of Storage Media and Hardware"
+  },
+  {
+    "control_id": "MP-7",
+    "control_name": "Media Use (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. [Assignment: Restrict; Prohibit] the use of [Assignment: Restrict; Prohibit] on [Assignment: Restrict; Prohibit] using [Assignment: organization-defined types of system media]; and\n\nb. Prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "PE-2",
+    "control_name": "Physical Access Authorizations (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;\n\nb. Issue authorization credentials for facility access;\n\nc. Review the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and\n\n**PE-2 (c) Additional FedRAMP Requirements and Guidance: **[at least annually]\n\nd. Remove individuals from the facility access list when access is no longer required.",
+    "fedramp_assignments": "at least annually"
+  },
+  {
+    "control_id": "PE-3",
+    "control_name": "Physical Access Control (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Enforce physical access authorizations at [Assignment: organization-defined entry and exit points to the facility where the system resides] by:\n\n1. Verifying individual access authorizations before granting access to the facility; and\n\n2. Controlling ingress and egress to the facility using [Assignment: guards];\n\n**PE-3 (a)-2 Additional FedRAMP Requirements and Guidance: **[CSP defined physical access control systems/devices AND guards]\n\nb. Maintain physical access audit logs for [Assignment: organization-defined entry or exit points];\n\nc. Control access to areas within the facility designated as publicly accessible by implementing the following controls: [Assignment: organization-defined physical access controls];\n\nd. Escort visitors and control visitor activity [Assignment: organization-defined circumstances requiring visitor escorts and control of visitor activity];\n\n**PE-3 (d) Additional FedRAMP Requirements and Guidance: **[in all circumstances within restricted access area where the information system resides]\n\ne. Secure keys, combinations, and other physical access devices;\n\nf. Inventory [Assignment: organization-defined physical access devices] every [Assignment: organization-defined frequency]; and\n\n**PE-3 (f)-2 Additional FedRAMP Requirements and Guidance: **[at least annually]\n\ng. Change combinations and keys [Assignment: organization-defined frequency] and/or when keys are lost, combinations are compromised, or when individuals possessing the keys or combinations are transferred or terminated.\n\n**PE-3 (g) Additional FedRAMP Requirements and Guidance: **[at least annually]",
+    "fedramp_assignments": "CSP defined physical access control systems/devices AND guards\nin all circumstances within restricted access area where the information system resides\nat least annually\nat least annually"
+  },
+  {
+    "control_id": "PE-6",
+    "control_name": "Monitoring Physical Access (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Monitor physical access to the facility where the system resides to detect and respond to physical security incidents;\n\nb. Review physical access logs [Assignment: organization-defined frequency] and upon occurrence of [Assignment: organization-defined events or potential indications of events]; and\n\n**PE-6 (b) Additional FedRAMP Requirements and Guidance: **[at least monthly]\n\nc. Coordinate results of reviews and investigations with the organizational incident response capability.",
+    "fedramp_assignments": "at least monthly"
+  },
+  {
+    "control_id": "PE-8",
+    "control_name": "Visitor Access Records (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Maintain visitor access records to the facility where the system resides for [Assignment: organization-defined time period];\n\n**PE-8 (a) Additional FedRAMP Requirements and Guidance: **[for a minimum of one (1) year]\n\nb. Review visitor access records [Assignment: organization-defined frequency]; and\n\n**PE-8 (b) Additional FedRAMP Requirements and Guidance: **[at least monthly]\n\nc. Report anomalies in visitor access records to [Assignment: organization-defined personnel].",
+    "fedramp_assignments": "for a minimum of one (1) year\nat least monthly"
+  },
+  {
+    "control_id": "PE-12",
+    "control_name": "Emergency Lighting (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Employ and maintain automatic emergency lighting for the system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "PE-13",
+    "control_name": "Fire Protection (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Employ and maintain fire detection and suppression systems that are supported by an independent energy source.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "PE-14",
+    "control_name": "Environmental Controls (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Maintain [Assignment: temperature; humidity; pressure; radiation] levels within the facility where the system resides at [Assignment: organization-defined acceptable levels]; and\n\n**PE-14 (a) Additional FedRAMP Requirements and Guidance: **[consistent with American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) document entitled Thermal Guidelines for Data Processing Environments]\n\n**PE-14 (a)** **Additional FedRAMP Requirements and Guidance:** The service provider measures temperature at server inlets and humidity levels by dew point.\n\nb. Monitor environmental control levels [Assignment: organization-defined frequency].\n\n**PE-14 (b) Additional FedRAMP Requirements and Guidance: **[continuously]",
+    "fedramp_assignments": "consistent with American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) document entitled Thermal Guidelines for Data Processing Environments\ncontinuously"
+  },
+  {
+    "control_id": "PE-15",
+    "control_name": "Water Damage Protection (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "PE-16",
+    "control_name": "Delivery and Removal (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Authorize and control [Assignment: organization-defined types of system components] entering and exiting the facility; and\n\n**PE-16 (a) Additional FedRAMP Requirements and Guidance: **[all information system components]\n\nb. Maintain records of the system components.",
+    "fedramp_assignments": "all information system components"
+  },
+  {
+    "control_id": "PL-2",
+    "control_name": "System Security and Privacy Plans",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Develop security and privacy plans for the system that:\n\n1. Are consistent with the organization’s enterprise architecture;\n\n2. Explicitly define the constituent system components;\n\n3. Describe the operational context of the system in terms of mission and business processes;\n\n4. Identify the individuals that fulfill system roles and responsibilities;\n\n5. Identify the information types processed, stored, and transmitted by the system;\n\n6. Provide the security categorization of the system, including supporting rationale;\n\n7. Describe any specific threats to the system that are of concern to the organization;\n\n8. Provide the results of a privacy risk assessment for systems processing personally identifiable information;\n\n9. Describe the operational environment for the system and any dependencies on or connections to other systems or system components;\n\n10. Provide an overview of the security and privacy requirements for the system;\n\n11. Identify any relevant control baselines or overlays, if applicable;\n\n12. Describe the controls in place or planned for meeting the security and privacy requirements, including a rationale for any tailoring decisions;\n\n13. Include risk determinations for security and privacy architecture and design decisions;\n\n14. Include security- and privacy-related activities affecting the system that require planning and coordination with [Assignment: organization-defined individuals or groups]; and\n\n15. Are reviewed and approved by the authorizing official or designated representative prior to plan implementation.\n\nb. Distribute copies of the plans and communicate subsequent changes to the plans to [Assignment: organization-defined personnel or roles];\n\nc. Review the plans [Assignment: organization-defined frequency];\n\n**PL-2 (c) Additional FedRAMP Requirements and Guidance: **[at least annually]\n\nd. Update the plans to address changes to the system and environment of operation or problems identified during plan implementation or control assessments; and\n\ne. Protect the plans from unauthorized disclosure and modification.",
+    "fedramp_assignments": "at least annually"
+  },
+  {
+    "control_id": "PL-8",
+    "control_name": "Security and Privacy Architectures",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Develop security and privacy architectures for the system that:\n\n1. Describe the requirements and approach to be taken for protecting the confidentiality, integrity, and availability of organizational information;\n\n2. Describe the requirements and approach to be taken for processing personally identifiable information to minimize privacy risk to individuals;\n\n3. Describe how the architectures are integrated into and support the enterprise architecture; and\n\n4. Describe any assumptions about, and dependencies on, external systems and services;\n\nb. Review and update the architectures [Assignment: organization-defined frequency] to reflect changes in the enterprise architecture; and\n\n**PL-8 (b) Additional FedRAMP Requirements and Guidance: **[at least annually and when a significant change occurs]\n\n__PL-8 (b) Additional FedRAMP Requirements and Guidance: __Significant change is defined in NIST Special Publication 800-37 Revision 2, Appendix F.\n\nc. Reflect planned architecture changes in security and privacy plans, Concept of Operations (CONOPS), criticality analysis, organizational procedures, and procurements and acquisitions.",
+    "fedramp_assignments": "at least annually and when a significant change occurs"
+  },
+  {
+    "control_id": "PS-3",
+    "control_name": "Personnel Screening",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Screen individuals prior to authorizing access to the system; and\n\nb. Rescreen individuals in accordance with [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of rescreening].\n\n**PS-3 (b) Additional FedRAMP Requirements and Guidance: **[for national security clearances; a reinvestigation is required during the fifth (5th) year for top secret security clearance, the tenth (10th) year for secret security clearance, and fifteenth (15th) year for confidential security clearance.\n\nFor moderate risk law enforcement and high impact public trust level, a reinvestigation is required during the fifth (5th) year. There is no reinvestigation for other moderate risk positions or any low-risk positions]",
+    "fedramp_assignments": "[for national security clearances; a reinvestigation is required during the fifth (5th) year for top secret security clearance, the tenth (10th) year for secret security clearance, and fifteenth (15th) year for confidential security clearance."
+  },
+  {
+    "control_id": "RA-2",
+    "control_name": "Security Categorization",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Categorize the system and information it processes, stores, and transmits;\n\nb. Document the security categorization results, including supporting rationale, in the security plan for the system; and\n\nc. Verify that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "RA-3",
+    "control_name": "Risk Assessment",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Conduct a risk assessment, including:\n\n1. Identifying threats to and vulnerabilities in the system;\n\n2. Determining the likelihood and magnitude of harm from unauthorized access, use, disclosure, disruption, modification, or destruction of the system, the information it processes, stores, or transmits, and any related information; and\n\n3. Determining the likelihood and impact of adverse effects on individuals arising from the processing of personally identifiable information;\n\nb. Integrate risk assessment results and risk management decisions from the organization and mission or business process perspectives with system-level risk assessments;\n\nc. Document risk assessment results in [Assignment: security and privacy plans; risk assessment report];\n\n**RA-3 (c) Additional FedRAMP Requirements and Guidance: **[security assessment report]\n\nd. Review risk assessment results [Assignment: organization-defined frequency];\n\n**RA-3 (d) Additional FedRAMP Requirements and Guidance: **[at least every three (3) years and when a significant change occurs]\n\ne. Disseminate risk assessment results to [Assignment: organization-defined personnel or roles]; and\n\n**RA-3 (e) Additional FedRAMP Requirements and Guidance: Include all Authorizing Officials; for JAB authorizations to include FedRAMP.**\n\nf. Update the risk assessment [Assignment: organization-defined frequency] or when there are significant changes to the system, its environment of operation, or other conditions that may impact the security or privacy state of the system.\n\n**RA-3 (f) Additional FedRAMP Requirements and Guidance: **[at least every three (3) years]\n\n**RA-3 Additional FedRAMP Requirements and Guidance:** Significant change is defined in NIST Special Publication 800-37 Revision 2, Appendix F.",
+    "fedramp_assignments": "security assessment report\nat least every three (3) years and when a significant change occurs\nf. Update the risk assessment [Assignment: organization-defined frequency] or when there are significant changes to the system, its environment of operation, or other conditions that may impact the security or privacy state of the system.\nat least every three (3) years\nSignificant change is defined in NIST Special Publication 800-37 Revision 2, Appendix F."
+  },
+  {
+    "control_id": "RA-5",
+    "control_name": "Vulnerability Monitoring and Scanning",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Monitor and scan for vulnerabilities in the system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system are identified and reported;\n\n**RA-5 (a) Additional FedRAMP Requirements and Guidance: **[monthly operating system/infrastructure; monthly web applications (including APIs) and databases].\n\n__RA-5 (a) Additional FedRAMP Requirements and Guidance: __an accredited independent assessor scans operating systems/infrastructure, web applications, and databases once annually.\n\nb. Employ vulnerability monitoring tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:\n\n1. Enumerating platforms, software flaws, and improper configurations;\n\n2. Formatting checklists and test procedures; and\n\n3. Measuring vulnerability impact;\n\nc. Analyze vulnerability scan reports and results from vulnerability monitoring;\n\nd. Remediate legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational assessment of risk;\n\n**RA-5 (d) Additional FedRAMP Requirements and Guidance: **[high-risk vulnerabilities mitigated within thirty (30) days from date of discovery; moderate-risk vulnerabilities mitigated within ninety (90) days from date of discovery; low risk vulnerabilities mitigated within one hundred and eighty (180) days from date of discovery].\n\n__RA-5 (d) Additional FedRAMP Requirements and Guidance: __If a vulnerability is listed among the CISA Known Exploited Vulnerability (KEV) Catalog (<https://www.cisa.gov/known-exploited-vulnerabilities-catalog>) the KEV remediation date supersedes the FedRAMP parameter requirement.\n\ne. Share information obtained from the vulnerability monitoring process and control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and\n\n**RA-5 (e) Additional FedRAMP Requirements and Guidance:** to include all Authorizing Officials; for JAB authorizations to include FedRAMP.\n\nf. Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.\n\n**RA-5 Additional FedRAMP Requirements and Guidance:** **See the FedRAMP Documents page> Vulnerability Scanning Requirements **[**https://www.FedRAMP.gov/documents/**](https://www.fedramp.gov/documents/)\n\n__RA-5 Additional FedRAMP Requirements and Guidance: __Informational findings from a scanner are detailed as a returned result that holds no vulnerability risk or severity and for FedRAMP does not require an entry onto the POA&M or entry onto the RET during any assessment phase.\n\nWarning findings, on the other hand, are given a risk rating (low, moderate, high or critical) by the scanning solution and should be treated like any other finding with a risk or severity rating for tracking purposes onto either the POA&M or RET depending on when the findings originated (during assessments or during monthly continuous monitoring). If a warning is received during scanning, but further validation turns up no actual issue then this item should be categorized as a false positive. If this situation presents itself during an assessment phase (initial assessment, annual assessment or any SCR), follow guidance on how to report false positives in the Security Assessment Report (SAR). If this situation happens during monthly continuous monitoring, a deviation request will need to be submitted per the FedRAMP Vulnerability Deviation Request Form.\n\nWarnings are commonly associated with scanning solutions that also perform compliance scans, and if the scanner reports a “warning” as part of the compliance scanning of a CSO, follow guidance surrounding the tracking of compliance findings during either the assessment phases (initial assessment, annual assessment or any SCR) or monthly continuous monitoring as it applies. Guidance on compliance scan findings can be found by searching on “Tracking of Compliance Scans” in FAQs.",
+    "fedramp_assignments": "[monthly operating system/infrastructure; monthly web applications (including APIs) and databases].\n[high-risk vulnerabilities mitigated within thirty (30) days from date of discovery; moderate-risk vulnerabilities mitigated within ninety (90) days from date of discovery; low risk vulnerabilities mitigated within one hundred and eighty (180) days from date of discovery].\nto include all Authorizing Officials; for JAB authorizations to include FedRAMP.\n**See the FedRAMP Documents page> Vulnerability Scanning Requirements **[**https://www.FedRAMP.gov/documents/**](https://www.fedramp.gov/documents/)"
+  },
+  {
+    "control_id": "RA-5(2)",
+    "control_name": "Update Vulnerabilities to Be Scanned",
+    "is_enhancement": "true",
+    "parent_control_id": "RA-5",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Update the system vulnerabilities to be scanned [Assignment: prior to a new scan; when new vulnerabilities are identified and reported].\n\n**RA-5 (2) Additional FedRAMP Requirements and Guidance: **[prior to a new scan]",
+    "fedramp_assignments": "prior to a new scan"
+  },
+  {
+    "control_id": "RA-5(11)",
+    "control_name": "Public Disclosure Program",
+    "is_enhancement": "true",
+    "parent_control_id": "RA-5",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Establish a public reporting channel for receiving reports of vulnerabilities in organizational systems and system components.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "RA-7",
+    "control_name": "Risk Response",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "SA-9",
+    "control_name": "External System Services",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Require that providers of external system services comply with organizational security and privacy requirements and employ the following controls: [Assignment: organization-defined controls];\n\n**SA-9 (a) Additional FedRAMP Requirements and Guidance: **[Appropriate FedRAMP Security Controls Baseline (s) if Federal information is processed or stored within the external system]\n\nb. Define and document organizational oversight and user roles and responsibilities with regard to external system services; and\n\nc. Employ the following processes, methods, and techniques to monitor control compliance by external service providers on an ongoing basis: [Assignment: organization-defined processes, methods, and techniques].\n\n**SA-9 (c) Additional FedRAMP Requirements and Guidance: **[Federal/FedRAMP Continuous Monitoring requirements must be met for external systems where Federal information is processed or stored]",
+    "fedramp_assignments": "Appropriate FedRAMP Security Controls Baseline (s) if Federal information is processed or stored within the external system\nFederal/FedRAMP Continuous Monitoring requirements must be met for external systems where Federal information is processed or stored"
+  },
+  {
+    "control_id": "SA-22",
+    "control_name": "Unsupported System Components",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer; or\n\nb. Provide the following options for alternative sources for continued support for unsupported components [Selection (one or more): in-house support; [Assignment: organization-defined support from external providers]].",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "SC-5",
+    "control_name": "Denial of Service Protection (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. [Assignment: Protect against; Limit] the effects of the following types of denial-of-service events: [Assignment: Protect against; Limit]; and [Assignment: organization-defined types of denial-of-service events]\n\n**SC-5 (a)-1 Additional FedRAMP Requirements and Guidance: **[Protect against]\n\n**SC-5 (a)-2 Additional FedRAMP Requirements and Guidance: **[at a minimum: ICMP (ping) flood, SYN flood, slowloris, buffer overflow attack, and volume attack]\n\nb. Employ the following controls to achieve the denial-of-service objective: [Assignment: organization-defined controls by type of denial-of-service event].",
+    "fedramp_assignments": "Protect against\nat a minimum: ICMP (ping) flood, SYN flood, slowloris, buffer overflow attack, and volume attack"
+  },
+  {
+    "control_id": "SC-7",
+    "control_name": "Boundary Protection",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Monitor and control communications at the external managed interfaces to the system and at key internal managed interfaces within the system;\n\nb. Implement subnetworks for publicly accessible system components that are [Assignment: physically; logically] separated from internal organizational networks; and\n\n__SC-7 (b) Additional FedRAMP Requirements and Guidance: __SC-7 (b) should be met by subnet isolation. A subnetwork (subnet) is a physically or logically segmented section of a larger network defined at TCP/IP Layer 3, to both minimize traffic and, important for a FedRAMP Authorization, add a crucial layer of network isolation. Subnets are distinct from VLANs (Layer 2), security groups, and VPCs and are specifically required to satisfy SC-7 part b and other controls. See the FedRAMP Subnets White Paper (<https://www.fedramp.gov/assets/resources/documents/FedRAMP_subnets_white_paper.pdf>) for additional information.\n\nc. Connect to external networks or systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security and privacy architecture.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "SC-8",
+    "control_name": "Transmission Confidentiality and Integrity",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Protect the [Assignment: confidentiality; integrity] of transmitted information.\n\n__SC-8 Additional FedRAMP Requirements and Guidance: __For each instance of data in transit, confidentiality AND integrity should be through cryptography as specified in SC-8 (1), physical means as specified in SC-8 (5), or in combination.\n\nFor clarity, this control applies to all data in transit. Examples include the following data flows:\n\n- Crossing the system boundary\n\n- Between compute instances - including containers\n\n- From a compute instance to storage\n\n- Replication between availability zones\n\n- Transmission of backups to storage\n\n- From a load balancer to a compute instance\n\n- Flows from management tools required for their work – e.g. log collection, scanning, etc.\n\nThe following applies only when choosing SC-8 (5) in lieu of SC-8 (1).\n\nFedRAMP-Defined Assignment / Selection Parameters\n\nSC-8 (5)-1 [a hardened or alarmed carrier Protective Distribution System (PDS) when outside of Controlled Access Area (CAA)]\n\nSC-8 (5)-2 [prevent unauthorized disclosure of information AND detect changes to information]\n\nSC-8 (5) applies when physical protection has been selected as the method to protect confidentiality and integrity. For physical protection, data in transit must be in either a Controlled Access Area (CAA), or a Hardened or alarmed PDS.\n\nHardened or alarmed PDS: Shall be as defined in SECTION X - CATEGORY 2 PDS INSTALLATION GUIDANCE of CNSSI No.7003, titled PROTECTED DISTRIBUTION SYSTEMS (PDS). Per the CNSSI No. 7003 Section VIII, PDS must originate and terminate in a Controlled Access Area (CAA).\n\nControlled Access Area (CAA): Data will be considered physically protected, and in a CAA if it meets Section 2.3 of the DHS’s Recommended Practice: Improving Industrial Control System Cybersecurity with Defense-in-Depth Strategies. CSPs can meet Section 2.3 of the DHS’ recommended practice by satisfactory implementation of the following controls PE-2 (1), PE-2 (2), PE-2 (3), PE-3 (2), PE-3 (3), PE-6 (2), and PE-6 (3).\n\nNote: When selecting SC-8 (5), the above SC-8(5), and the above referenced PE controls must be added to the SSP.\n\nCNSSI No.7003 can be accessed here:\n\n<https://www.dcsa.mil/Portals/91/documents/ctp/nao/CNSSI_7003_PDS_September_2015.pdf>\n\nDHS Recommended Practice: Improving Industrial Control System Cybersecurity with Defense-in-Depth Strategies can be accessed here: <https://us-cert.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_Defense_in_Depth_Strategies_S508C.pdf>",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "SC-8(1)",
+    "control_name": "Cryptographic Protection",
+    "is_enhancement": "true",
+    "parent_control_id": "SC-8",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement cryptographic mechanisms to [Assignment: prevent unauthorized disclosure of information; detect changes to information] during transmission.\n\n**SC-8 (1) Additional FedRAMP Requirements and Guidance:** Please ensure SSP Section 10.3 Cryptographic Modules Implemented for Data at Rest (DAR) and Data In Transit (DIT) is fully populated for reference in this control.\n\n__SC-8 (1) Additional FedRAMP Requirements and Guidance: __See M-22-09, including “Agencies encrypt all DNS requests and HTTP traffic within their environment.”\n\n**SC-8 (1)** applies when encryption has been selected as the method to protect confidentiality and integrity. Otherwise refer to SC-8 (5). SC-8 (1) is strongly encouraged.\n\n**SC-8 (1) Additional FedRAMP Requirements and Guidance:** Note that this enhancement requires the use of cryptography which must be compliant with Federal requirements and utilize FIPS validated or NSA approved cryptography (see SC-13.)\n\n**SC-8 (1)** **Additional FedRAMP Requirements and Guidance:** When leveraging encryption from the underlying IaaS/PaaS: While some IaaS/PaaS services provide encryption by default, many require encryption to be configured, and enabled by the customer. The CSP has the responsibility to verify encryption is properly configured.",
+    "fedramp_assignments": "Please ensure SSP Section 10.3 Cryptographic Modules Implemented for Data at Rest (DAR) and Data In Transit (DIT) is fully populated for reference in this control.\nNote that this enhancement requires the use of cryptography which must be compliant with Federal requirements and utilize FIPS validated or NSA approved cryptography (see SC-13.)"
+  },
+  {
+    "control_id": "SC-12",
+    "control_name": "Cryptographic Key Establishment and Management",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Establish and manage cryptographic keys when cryptography is employed within the system in accordance with the following key management requirements: [Assignment: organization-defined requirements for key generation, distribution, storage, access, and destruction].\n\n**SC-12 Additional FedRAMP Requirements and Guidance: **[In accordance with Federal requirements]\n\n__SC-12 Additional FedRAMP Requirements and Guidance: __See references in NIST 800-53 documentation.\n\n__SC-12 Additional FedRAMP Requirements and Guidance: __Must meet applicable Federal Cryptographic Requirements. See References Section of control.\n\n**SC-12** __Additional FedRAMP Requirements and Guidance: __Wildcard certificates may be used internally within the system but are not permitted for external customer access to the system.",
+    "fedramp_assignments": "In accordance with Federal requirements"
+  },
+  {
+    "control_id": "SC-13",
+    "control_name": "Cryptographic Protection (Conditional)",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Determine the [Assignment: organization-defined cryptographic uses]; and\n\nb. Implement the following types of cryptography required for each specified cryptographic use: [Assignment: organization-defined types of cryptography for each specified cryptographic use].\n\n**SC-13 (b) Additional FedRAMP Requirements and Guidance: **[FIPS-validated or NSA-approved cryptography]\n\n**SC-13** **Additional FedRAMP Requirements and Guidance:**\n\nThis control applies to all use of cryptography. In addition to encryption, this includes functions such as hashing, random number generation, and key generation. Examples include the following:\n\n- Encryption of data\n\n- Decryption of data\n\n- Generation of one-time passwords (OTPs) for MFA\n\n- Protocols such as TLS, SSH, and HTTPS\n\nThe requirement for FIPS 140 validation, as well as timelines for acceptance of FIPS 140-2, and 140-3 can be found at the NIST Cryptographic Module Validation Program (CMVP).\n\n<https://csrc.nist.gov/projects/cryptographic-module-validation-program>\n\n**SC-13** **Additional FedRAMP Requirements and Guidance:** For NSA-approved cryptography, the National Information Assurance Partnership (NIAP) oversees a national program to evaluate Commercial IT Products for Use in National Security Systems. The NIAP Product Compliant List can be found at the following location: <https://www.niap-ccevs.org/Product/index.cfm>\n\n**SC-13** **Additional FedRAMP Requirements and Guidance:** When leveraging encryption from underlying IaaS/PaaS: While some IaaS/PaaS provide encryption by default, many require encryption to be configured, and enabled by the customer. The CSP has the responsibility to verify encryption is properly configured.\n\n**SC-13** **Additional FedRAMP Requirements and Guidance:**\n\nMoving to non-FIPS CM or product is acceptable when:\n\n- FIPS validated version has a known vulnerability\n\n- Feature with vulnerability is in use\n\n- Non-FIPS version fixes the vulnerability\n\n- Non-FIPS version is submitted to NIST for FIPS validation\n\n- POA&M is added to track approval, and deployment when ready\n\n**SC-13** **Additional FedRAMP Requirements and Guidance:** At a minimum, this control applies to cryptography in use for the following controls: AU-9(3), CP-9(8), IA-2(6), IA-5(1), MP-5, SC-8(1), and SC-28(1).",
+    "fedramp_assignments": "FIPS-validated or NSA-approved cryptography"
+  },
+  {
+    "control_id": "SC-28",
+    "control_name": "Protection of Information at Rest",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Protect the [Assignment: confidentiality/integrity] of the following information at rest: [Assignment: organization-defined information at rest].\n\n**SC-28** **Additional FedRAMP Requirements and Guidance:** The organization supports the capability to use cryptographic mechanisms to protect information at rest.\n\n**SC-28** __Additional FedRAMP Requirements and Guidance: __When leveraging encryption from underlying IaaS/PaaS: While some IaaS/PaaS services provide encryption by default, many require encryption to be configured, and enabled by the customer. The CSP has the responsibility to verify encryption is properly configured.\n\n**SC-28** **Additional FedRAMP Requirements and Guidance:** Note that this enhancement requires the use of cryptography in accordance with SC-13.",
+    "fedramp_assignments": ""
+  },
+  {
+    "control_id": "SC-28(1)",
+    "control_name": "Cryptographic Protection",
+    "is_enhancement": "true",
+    "parent_control_id": "SC-28",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "Implement cryptographic mechanisms to prevent unauthorized disclosure and modification of the following information at rest on [Assignment: organization-defined system components or media]: [Assignment: organization-defined information].\n\n**SC-28 (1)-1 Additional FedRAMP Requirements and Guidance: **[all information system components storing Federal data or system data that must be protected at the High or Moderate impact levels]\n\n**SC-28 (1)** **Additional FedRAMP Requirements and Guidance:**\n\nOrganizations should select a mode of protection that is targeted towards the relevant threat scenarios.\n\nExamples:\n\nA. Organizations may apply full disk encryption (FDE) to a mobile device where the primary threat is loss of the device while storage is locked.\n\nB. For a database application housing data for a single customer, encryption at the file system level would often provide more protection than FDE against the more likely threat of an intruder on the operating system accessing the storage.\n\nC. For a database application housing data for multiple customers, encryption with unique keys for each customer at the database record level may be more appropriate.",
+    "fedramp_assignments": "all information system components storing Federal data or system data that must be protected at the High or Moderate impact levels"
+  },
+  {
+    "control_id": "SI-2",
+    "control_name": "Flaw Remediation",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Identify, report, and correct system flaws;\n\nb. Test software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;\n\nc. Install security-relevant software and firmware updates within [Assignment: organization-defined time period] of the release of the updates; and\n\n**SI-2 (c) Additional FedRAMP Requirements and Guidance: **[within thirty (30) days of release of updates]\n\nd. Incorporate flaw remediation into the organizational configuration management process.",
+    "fedramp_assignments": "within thirty (30) days of release of updates"
+  },
+  {
+    "control_id": "SI-3",
+    "control_name": "Malicious Code Protection",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Implement [Assignment: signature based; non-signature based] malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code;\n\n**SI-3 (a) Additional FedRAMP Requirements and Guidance: **[signature based and non-signature based]\n\nb. Automatically update malicious code protection mechanisms as new releases are available in accordance with organizational configuration management policy and procedures;\n\nc. Configure malicious code protection mechanisms to:\n\n1. Perform periodic scans of the system [Assignment: organization-defined frequency] and real-time scans of files from external sources at [Assignment: organization-defined frequency] as the files are downloaded, opened, or executed in accordance with organizational policy; and [Assignment: endpoint; network entry and exit points]\n\n**SI-3 (c) (1)-1 Additional FedRAMP Requirements and Guidance: **[at least weekly]\n\n**SI-3 (c) (1)-2 Additional FedRAMP Requirements and Guidance: **[to include endpoints and network entry and exit points]\n\n2. [Selection (one or more): block malicious code; quarantine malicious code; take [Assignment: organization-defined action]]; and send alert to [Assignment: organization-defined personnel or roles] in response to malicious code detection; and\n\n**SI-3 (c) (2)-1 Additional FedRAMP Requirements and Guidance: **[to include blocking and quarantining malicious code]\n\n**SI-3 (c) (2)-2 Additional FedRAMP Requirements and Guidance: **[administrator or defined security personnel near-real time]\n\nd. Address the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the system.",
+    "fedramp_assignments": "signature based and non-signature based\nat least weekly\nto include endpoints and network entry and exit points\nto include blocking and quarantining malicious code\nadministrator or defined security personnel near-real time"
+  },
+  {
+    "control_id": "SI-4",
+    "control_name": "System Monitoring",
+    "is_enhancement": "false",
+    "parent_control_id": "",
+    "baseline": "LI-SaaS",
+    "baseline_levels": "LI-SaaS",
+    "control_text": "a. Monitor the system to detect:\n\n1. Attacks and indicators of potential attacks in accordance with the following monitoring objectives: [Assignment: organization-defined monitoring objectives]; and\n\n2. Unauthorized local, network, and remote connections;\n\nb. Identify unauthorized use of the system through the following techniques and methods: [Assignment: organization-defined techniques and methods];\n\nc. Invoke internal monitoring capabilities or deploy monitoring devices:\n\n1. Strategically within the system to collect organization-determined essential information; and\n\n2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;\n\nd. Analyze detected events and anomalies;\n\ne. Adjust the level of system monitoring activity when there is a change in risk to organizational operations and assets, individuals, other organizations, or the Nation;\n\nf. Obtain legal opinion regarding system monitoring activities; and\n\ng. Provide [Assignment: organization-defined system monitoring information] to [Assignment: organization-defined personnel or roles].\n\n__SI-4 Additional FedRAMP Requirements and Guidance: __See US-CERT Incident Response Reporting Guidelines.",
+    "fedramp_assignments": ""
+  }
+]
