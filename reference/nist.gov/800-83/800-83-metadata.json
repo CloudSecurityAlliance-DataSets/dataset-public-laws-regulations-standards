@@ -1,0 +1,54 @@
+{
+  "secid": "secid:reference/nist.gov/800-83",
+  "name": "Guide to Malware Incident Prevention and Handling for Desktops and Laptops",
+  "acronym": "SP 800-83",
+  "alternate_names": [],
+  "version": "r1",
+  "publication_id": "NIST.800-83",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST SP 800-83 Rev 1 (2013) \u2014 malware incident prevention and handling.",
+  "relationToCloudSecurity": "General cybersecurity guidance applicable to cloud-environment design and operations.",
+  "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/83/r1/final",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {
+    "current_revision": "r1"
+  },
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}
