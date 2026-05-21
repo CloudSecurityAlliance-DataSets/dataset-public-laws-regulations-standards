@@ -3,10 +3,13 @@
   "previous_secid": "secid:reference/mitre.org/cpe",
   "name": "Common Platform Enumeration",
   "acronym": "CPE",
-  "alternate_names": ["NVD CPE", "CPE 2.3"],
+  "alternate_names": [
+    "NVD CPE",
+    "CPE 2.3"
+  ],
   "version": "",
   "publication_id": "CPE",
-  "owner": "NIST (National Vulnerability Database) — originally MITRE, transferred to NIST in 2014",
+  "owner": "NIST (National Vulnerability Database) \u2014 originally MITRE, transferred to NIST in 2014",
   "type": "Taxonomy",
   "description": "CPE is a structured naming scheme for IT systems, software, and packages. Each CPE name encodes vendor, product, version, update, edition, language, software edition, target software, target hardware, and other attributes (CPE 2.3 well-formed name or URI form). CPE names appear in CVE entries as the affected-product identifiers, in NVD product enumeration, and in scanning/inventory tools. Originally a MITRE project (CPE 2.2); maintenance transferred to NIST/NVD circa 2014 with the 2.3 specification.",
   "relationToCloudSecurity": "CPE is the substrate for vulnerability-to-product mapping in cloud asset inventory and vulnerability management. Container images, OS packages, and cloud-managed services are commonly tagged with CPE names so CVE feeds can be matched against installed inventory.",
@@ -32,16 +35,12 @@
     "supersedes": "CPE 2.2 (MITRE), CPE 2.1, CPE 2.0",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "CPE 2.3 is the current specification (NIST IR 7695, 7696, 7697, 7698). Filed under nvd.nist.gov per the DNS-canonical rule — NVD is the publishing organization. Previously filed under mitre.org for historical continuity (CPE 2.2 was a MITRE project, transferred to NIST in 2014). See SecID redirect at secid:reference/mitre.org/cpe -> secid:reference/nvd.nist.gov/cpe."
+    "notes": "CPE 2.3 is the current specification (NIST IR 7695, 7696, 7697, 7698). Filed under nvd.nist.gov per the DNS-canonical rule \u2014 NVD is the publishing organization. Previously filed under mitre.org for historical continuity (CPE 2.2 was a MITRE project, transferred to NIST in 2014). See SecID redirect at secid:reference/mitre.org/cpe -> secid:reference/nvd.nist.gov/cpe."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (README-only stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "README-only stub. CPE dictionary is consumed dynamically from NVD by tools that need it; no local snapshot maintained here."
+    "s3_timestamp": "2026-05-21T15:56:17Z",
+    "tool": "marker (markdown) + extract_cpe.py",
+    "notes": "Structured the 11 CPE 2.3 WFN attributes into cpe-2.3-attributes.{csv,json}. Columns: order (1-11 per URI binding), attribute_name, is_extended (true for sw_edition/target_sw/target_hw/other), is_deprecated (true for edition), description (pulled from Section 5.3.3.N), allowed_values (for `part`: a/o/h)."
   },
   "extraction_history": [
     {
@@ -49,6 +48,15 @@
       "status": "stub",
       "reason": "README pointer to NVD/MITRE",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (README-only stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "README-only stub. CPE dictionary is consumed dynamically from NVD by tools that need it; no local snapshot maintained here."
     }
   ],
   "scope": {},
