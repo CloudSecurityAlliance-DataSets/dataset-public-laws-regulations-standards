@@ -1,0 +1,2108 @@
+[
+  {
+    "control_id": "AC-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "AC-1",
+    "moderate_baseline": "AC-1",
+    "high_baseline": "AC-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems. OT access by vendors and maintenance staff can occur over a large facility footprint or geographic area and into unobserved spaces, such as mechanical or electrical rooms, ceilings, floors, field substations, switch and valve vaults, and pump stations.",
+    "enhancement_discussion": "When the OT (e.g., field devices) cannot support temporary or emergency accounts, this enhancement does not apply. Example compensating controls include employing nonautomated mechanisms or procedures."
+  },
+  {
+    "control_id": "AC-2",
+    "control_name": "Account Management",
+    "low_baseline": "AC-2",
+    "moderate_baseline": "AC-2 (1) (2) (3) (4) (5) (13)",
+    "high_baseline": "AC-2 (1) (2) (3) (4) (5) (11) (12) (13)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-3",
+    "control_name": "Access Enforcement",
+    "low_baseline": "AC-3",
+    "moderate_baseline": "AC-3",
+    "high_baseline": "AC-3 (11)",
+    "ot_discussion": "The organization ensures that access enforcement mechanisms do not adversely impact the operational performance of the OT. Example compensating controls include encapsulation. The policy for logical access control to non-addressable and nonroutable system resources and the associated information is made explicit. Access control mechanisms include hardware, firmware, and software that control the device or have device access, such as device drivers and communications controllers. Physical access control may serve as a compensating control for logical access control. However, it may not provide sufficient granularity when users require access to different functions.\n\nThe organization ensures that access enforcement mechanisms do not adversely impact the operational performance of the OT. Example compensating controls include encapsulation. The policy for logical access control to non-addressable and non-routable system resources and the associated information is made explicit. Access control mechanisms include hardware, firmware, and software that control the device or have device access, such as device drivers and communications controllers. Physical access control may serve as a compensating control for logical access control. However, it may not provide sufficient granularity when users require access to different functions.",
+    "enhancement_discussion": "The organization identifies and restricts access to information that could impact the OT environment and accounts for information types that are sensitive, proprietary, contain trade secrets, or support safety functions."
+  },
+  {
+    "control_id": "AC-4",
+    "control_name": "Information Flow Enforcement",
+    "low_baseline": "",
+    "moderate_baseline": "AC-4",
+    "high_baseline": "AC-4 (4)",
+    "ot_discussion": "Information flow policy may be achieved using a combination of logical and physical flow restriction techniques. The inspection of message content may enforce information flow policy. For example, industrial OT protocols may be restricted using inbound and outbound traffic rules on a network control device between OT and IT networks. For non-routable communication, such as serial connections, devices may be configured to limit commands to and from specific tags within the OT device. The information flow policy may be supported by labeling or coloring physical connectors to aid in connecting networks. Devices that do not have a business need to communicate should not be connected (i.e., air gapped).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-5",
+    "control_name": "Separation of Duties",
+    "low_baseline": "",
+    "moderate_baseline": "AC-5",
+    "high_baseline": "AC-5",
+    "ot_discussion": "Example compensating controls include providing increased personnel security and auditing. The organization carefully considers the appropriateness of a single individual performing multiple critical roles.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-6",
+    "control_name": "Least Privilege",
+    "low_baseline": "",
+    "moderate_baseline": "AC-6 (1) (2) (5) (7) (9) (10)",
+    "high_baseline": "AC-6 (1) (2) (3) (5) (7) (9) (10)",
+    "ot_discussion": "Example compensating controls include providing increased personnel security and auditing. The organization carefully considers the appropriateness of a single individual having multiple critical privileges. System privilege models may be tailored to enforce integrity and availability (e.g., lower privileges include read access, and higher privileges include write access).",
+    "enhancement_discussion": "Example compensating controls include enhanced auditing."
+  },
+  {
+    "control_id": "AC-7",
+    "control_name": "Unsuccessful Logon Attempts",
+    "low_baseline": "AC-7",
+    "moderate_baseline": "AC-7",
+    "high_baseline": "AC-7",
+    "ot_discussion": "Many OT systems remain in continuous operation, and operators remain logged onto the system at all times. A \"log-over\" capability may be employed. Example compensating controls include logging or recording all unsuccessful logon attempts and alerting OT security personnel through alarms or other means when the number of organization-defined consecutive invalid access attempts is exceeded. Unsuccessful logon attempt limits are enforced for accounts (e.g., administrator) or systems (e.g., engineering workstations) that are not required for continuous operation.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-8",
+    "control_name": "System Use Notification",
+    "low_baseline": "AC-8",
+    "moderate_baseline": "AC-8",
+    "high_baseline": "AC-8",
+    "ot_discussion": "Many OT systems must remain in continuous operation, and system use notification may not be supported or effective. Example compensating controls include posting physical notices in OT facilities or providing recurring training on system use prior to permitting access.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-10",
+    "control_name": "Concurrent Session Control",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "AC-10",
+    "ot_discussion": "The number, account type, and privileges of concurrent sessions consider the roles and responsibilities of the affected individuals. Example compensating controls include providing increased auditing measures.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-11",
+    "control_name": "Device Lock",
+    "low_baseline": "",
+    "moderate_baseline": "AC-11 (1)",
+    "high_baseline": "AC-11 (1)",
+    "ot_discussion": "This control assumes a staffed environment where users interact with system displays. This control may be tailored appropriately where systems do not have displays configured, systems are placed in an access-controlled facility or locked enclosure, or immediate",
+    "enhancement_discussion": "Physical protection may be employed to prevent access to a display or the attachment of a display. When the OT cannot conceal displayed information, the organization employs nonautomated mechanisms or procedures as compensating controls in accordance with the general tailoring guidance."
+  },
+  {
+    "control_id": "AC-12",
+    "control_name": "Session Termination",
+    "low_baseline": "",
+    "moderate_baseline": "AC-12",
+    "high_baseline": "AC-12",
+    "ot_discussion": "Example compensating controls include providing increased auditing measures or limiting remote access privileges to key personnel.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-14",
+    "control_name": "Permitted Actions without Identification or Authentication",
+    "low_baseline": "AC-14",
+    "moderate_baseline": "AC-14",
+    "high_baseline": "AC-14",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-17",
+    "control_name": "Remote Access",
+    "low_baseline": "AC-17 (9)",
+    "moderate_baseline": "AC-17 (1) (2) (3) (4) (9) (10)",
+    "high_baseline": "AC-17 (1) (2) (3) (4) (9) (10)",
+    "ot_discussion": "When the OT cannot implement any or all of the components of this control, the organization employs other mechanisms or procedures as compensating controls in accordance with the general tailoring guidance.",
+    "enhancement_discussion": "Example compensating controls include employing nonautomated mechanisms or procedures as compensating controls. Compensating controls could include limiting remote access to a specified period of time or placing a call from the OT site to the authenticated remote entity."
+  },
+  {
+    "control_id": "AC-18",
+    "control_name": "Wireless Access",
+    "low_baseline": "AC-18",
+    "moderate_baseline": "AC-18 (1) (3)",
+    "high_baseline": "AC-18 (1) (3) (4) (5)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-19",
+    "control_name": "Access Control for Mobile Devices",
+    "low_baseline": "AC-19",
+    "moderate_baseline": "AC-19 (5)",
+    "high_baseline": "AC-19 (5)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-20",
+    "control_name": "Use of External Systems",
+    "low_baseline": "AC-20",
+    "moderate_baseline": "AC-20 (1) (2)",
+    "high_baseline": "AC-20 (1) (2)",
+    "ot_discussion": "Organizations refine the definition of \"external\" to reflect lines of authority and responsibility, the granularity of an organization entity, and their relationships. An organization may consider a system to be external if that system performs different functions, implements different policies, falls under different management authorities, or does not provide sufficient visibility into the implementation of controls to allow the establishment of a satisfactory trust relationship. For example, an OT system and a business data processing system may be considered external to each other depending on the organization's system boundaries.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-21",
+    "control_name": "Information Sharing",
+    "low_baseline": "",
+    "moderate_baseline": "AC-21",
+    "high_baseline": "AC-21",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AC-22",
+    "control_name": "Publicly Accessible Content",
+    "low_baseline": "AC-22",
+    "moderate_baseline": "AC-22",
+    "high_baseline": "AC-22",
+    "ot_discussion": "Generally, public access to OT systems is not permitted. Select information may be transferred to a publicly accessible system, possibly with added controls. The organization should review what information is being made accessible prior to publication.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AT-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "AT-1",
+    "moderate_baseline": "AT-1",
+    "high_baseline": "AT-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AT-2",
+    "control_name": "Literacy Training and Awareness",
+    "low_baseline": "AT-2 (2)",
+    "moderate_baseline": "AT-2 (2) (3) (4)",
+    "high_baseline": "AT-2 (2) (3) (4)",
+    "ot_discussion": "Security awareness training includes initial and periodic review of OT-specific policies, standard operating procedures, security trends, and vulnerabilities. The OT security awareness program is consistent with the requirements of the security awareness and training policy established by the organization.",
+    "enhancement_discussion": "Identify and communicate suspicious and anomalous behaviors within the OT environment. Some examples of OT suspicious or anomalous behavior may include a PLC still in programming mode when it is expected to be in run mode, process trips with an undetermined root cause, malware on an HMI, unexpected mouse movement, or process changes that are not being performed by the operator."
+  },
+  {
+    "control_id": "AT-3",
+    "control_name": "Role-Based Training",
+    "low_baseline": "AT-3",
+    "moderate_baseline": "AT-3",
+    "high_baseline": "AT-3",
+    "ot_discussion": "Security training includes initial and periodic review of OT-specific policies, standard operating procedures, security trends, and vulnerabilities. The OT security training program is consistent with the requirements of the security awareness and training policy established by the organization. The training may be customized for specific OT roles, which could include operators, maintainers, engineers, supervisors, and administrators.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AT-4",
+    "control_name": "Training Records",
+    "low_baseline": "AT-4",
+    "moderate_baseline": "AT-4",
+    "high_baseline": "AT-4",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "AU-1",
+    "moderate_baseline": "AU-1",
+    "high_baseline": "AU-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-2",
+    "control_name": "Event Logging",
+    "low_baseline": "AU-2",
+    "moderate_baseline": "AU-2",
+    "high_baseline": "AU-2",
+    "ot_discussion": "Organizations may want to include relevant OT events (e.g., alerts, alarms, configuration and status changes, operator actions) in their event logging, which may be designated as audit events.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-3",
+    "control_name": "Content of Audit Records INITIAL CONTROL BASELIN CONTROL NAME",
+    "low_baseline": "AU-3 LOW",
+    "moderate_baseline": "AU-3 (1) MOD",
+    "high_baseline": "AU-3 (1) HIGH",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-4",
+    "control_name": "Audit Log Storage Capacity",
+    "low_baseline": "AU-4 <u>(1</u> )",
+    "moderate_baseline": "AU-4 (1)",
+    "high_baseline": "AU-4 <u>(1)</u>",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-5",
+    "control_name": "Response to Audit Logging Process Failures",
+    "low_baseline": "AU-5",
+    "moderate_baseline": "AU-5",
+    "high_baseline": "AU-5 (1) (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-6",
+    "control_name": "Audit Record Review, Analysis, and Reporting",
+    "low_baseline": "AU-6",
+    "moderate_baseline": "AU-6 (1) (3)",
+    "high_baseline": "AU-6 (1) (3) (5) (6)",
+    "ot_discussion": "",
+    "enhancement_discussion": "Example compensating controls include manual mechanisms or procedures. For devices where audit records cannot be feasibly collected, periodic manual review may be necessary."
+  },
+  {
+    "control_id": "AU-7",
+    "control_name": "Audit Record Reduction and Report Generation",
+    "low_baseline": "",
+    "moderate_baseline": "AU-7 (1)",
+    "high_baseline": "AU-7 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-8",
+    "control_name": "Time Stamps",
+    "low_baseline": "AU-8",
+    "moderate_baseline": "AU-8",
+    "high_baseline": "AU-8",
+    "ot_discussion": "Example compensating controls include using a separate system designated as an authoritative time source. See related control SC-45.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-9",
+    "control_name": "Protection of Audit Information",
+    "low_baseline": "AU-9",
+    "moderate_baseline": "AU-9 (4)",
+    "high_baseline": "AU-9 (2) (3) (4)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-10",
+    "control_name": "Non-repudiation",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "AU-10",
+    "ot_discussion": "OT devices may not enforce non-repudiation of audit records and may require compensating controls. Example compensating controls include physical security systems, cameras to monitor user access, or a separate device for log collection.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-11",
+    "control_name": "Audit Record Retention",
+    "low_baseline": "AU-11",
+    "moderate_baseline": "AU-11",
+    "high_baseline": "AU-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "AU-12",
+    "control_name": "Audit Generation",
+    "low_baseline": "AU-12",
+    "moderate_baseline": "AU-12",
+    "high_baseline": "AU-12 (1) (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": "Example compensating controls include providing time-correlated audit records on a separate system."
+  },
+  {
+    "control_id": "CA-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "CA-1",
+    "moderate_baseline": "CA-1",
+    "high_baseline": "CA-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-2",
+    "control_name": "Control Assessments",
+    "low_baseline": "CA-2",
+    "moderate_baseline": "<b>CA-2</b> (1)",
+    "high_baseline": "<b>CA-2</b> (1) <b>(2)</b>",
+    "ot_discussion": "Assessments are performed and documented by qualified assessors (i.e., experienced in assessing OT) authorized by the organization. The individual or group conducting the assessment fully understands the organizational information security policies and procedures,",
+    "enhancement_discussion": "The organization conducts risk analysis to support the selection of an assessment target (e.g., the live system, an offline replica, or lab system)."
+  },
+  {
+    "control_id": "CA-3",
+    "control_name": "Information Exchange",
+    "low_baseline": "CA-3",
+    "moderate_baseline": "CA-3",
+    "high_baseline": "CA-3 (6)",
+    "ot_discussion": "Organizations perform risk-benefit analysis to determine whether an OT should be connected to other systems. The authorizing official (AO) fully understands the organizational information security policies and procedures; the OT security policies and procedures; the risks to organizational operations and assets, individuals, other organizations, and the Nation associated with the connection to other systems; the individuals and organizations that operate and maintain the systems, including maintenance contractors or service providers; and the specific health, safety, and environmental risks associated with a particular interconnection. Connections from the OT environment to other security zones may cross the authorization boundary such that two different authorizing officials may be required to approve the connection. Decisions to accept risk are documented.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-5",
+    "control_name": "Plan of Action and Milestones",
+    "low_baseline": "CA-5",
+    "moderate_baseline": "CA-5",
+    "high_baseline": "CA-5",
+    "ot_discussion": "Corrective actions identified in assessments may not be immediately actionable in an OT environment. Therefore, short-term mitigations may be implemented to reduce risk as part of the gap closure plan or plan of action and milestones.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-6",
+    "control_name": "Authorization",
+    "low_baseline": "CA-6",
+    "moderate_baseline": "CA-6",
+    "high_baseline": "CA-6",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-7",
+    "control_name": "Continuous Monitoring",
+    "low_baseline": "<b>CA-7</b> (4)",
+    "moderate_baseline": "<b>CA-7</b> (1) (4)",
+    "high_baseline": "<b>CA-7</b> (1) (4)",
+    "ot_discussion": "Continuous monitoring programs for OT are designed, documented, and implemented with input from OT personnel. The organization ensures that continuous monitoring does not interfere with OT functions. The individual or group designing and conducting the continuous monitoring for the OT systems implements a monitoring program that is consistent with the organizational information security policies and procedures, the OT security policies and procedures, and the specific health, safety, and environmental risks associated with a particular facility and/or process. Continuous monitoring can be automated or manual at a frequency sufficient to support risk-based decisions. For example, the organization may monitor event logs manually on a specified frequency less often for lower-risk, isolated systems than for higher-risk, networked systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-8",
+    "control_name": "Penetration Testing",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "CA-8 (1)",
+    "ot_discussion": "Penetration testing is used with care on OT networks to ensure that OT functions are not adversely impacted by the testing process. In general, OT systems are highly sensitive to timing constraints and have limited resources. Example compensating controls include employing a replicated, virtualized, or simulated system to conduct penetration testing. Production OT may need to be taken offline before testing can be conducted. If OT systems are taken offline for testing, tests are scheduled to occur during planned OT outages whenever possible. If penetration testing is performed on non-OT networks, extra care is taken to ensure that tests do not propagate into the OT network.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CA-9",
+    "control_name": "Internal System Connections",
+    "low_baseline": "CA-9",
+    "moderate_baseline": "CA-9",
+    "high_baseline": "CA-9",
+    "ot_discussion": "Organizations perform risk-benefit analysis to determine whether OT equipment should be connected to other internal system components and then document those connections. The AO fully understands the potential risks associated with approving individual connections or approving a class of components to be connected. For example, the AO may broadly approve the connection of any sensors limited to 4 to 20 milliamp (mA) communication, while other connection types (e.g., serial or Ethernet) require individual approval. Decisions to accept risk are documented.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "CM-1",
+    "moderate_baseline": "CM-1",
+    "high_baseline": "CM-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-2",
+    "control_name": "Baseline Configuration",
+    "low_baseline": "CM-2",
+    "moderate_baseline": "CM-2 (2) (3) (7)",
+    "high_baseline": "CM-2 (2) (3) (7)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-3",
+    "control_name": "Configuration Change Control",
+    "low_baseline": "",
+    "moderate_baseline": "<b>CM-3</b> (2) (4)",
+    "high_baseline": "<b>CM-3</b> (1) (2) (4) (6)",
+    "ot_discussion": "Configuration change control procedures should align with the organization's management of change practices.",
+    "enhancement_discussion": "The organization considers OT-specific requirements when determining the frequency and/or circumstances for reviewing system changes. For example, safety instrumented systems may be justified for the review of system changes on a predetermined frequency to ensure that no inadvertent changes have been made to the logic solver portion of a safety instrumented function."
+  },
+  {
+    "control_id": "CM-4",
+    "control_name": "Impact Analysis",
+    "low_baseline": "CM-4",
+    "moderate_baseline": "CM-4 (2)",
+    "high_baseline": "<b>CM-4</b> (1) (2)",
+    "ot_discussion": "The organization considers OT safety and security interdependencies. OT security and safety personnel are included in change process management if the change to the system may impact safety or security.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-5",
+    "control_name": "Access Restrictions for Change",
+    "low_baseline": "CM-5",
+    "moderate_baseline": "CM-5",
+    "high_baseline": "<b>CM-5</b> (1)",
+    "ot_discussion": "Some OT devices allow for the configuration and use of mode change switches. Where available, these should be used to prevent unauthorized changes. For example, many PLCs have key switches that allow the device to be placed in a programming mode or a running mode. Those PLCs should be placed in a running or remote mode to prevent unauthorized programming changes, and the key should be removed from the key switch and managed appropriately.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-6",
+    "control_name": "Configuration Settings",
+    "low_baseline": "CM-6",
+    "moderate_baseline": "CM-6",
+    "high_baseline": "CM-6 (1) (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-7",
+    "control_name": "Least Functionality",
+    "low_baseline": "CM-7",
+    "moderate_baseline": "CM-7 (1) (2) (5)",
+    "high_baseline": "<b>CM-7</b> (1) (2) (5)",
+    "ot_discussion": "The organization implements least functionality by allowing only the specified functions, protocols, and/or services required for OT operations. For non-routable protocols, such as serial communications, interrupts could be disabled or set points could be made readonly except for privileged users to limit functionality. Ports are part of the address space in network protocols and are often associated with specific protocols or functions. For routable protocols, ports can be disabled on many networking devices to limit functionality to the minimum required for operation.",
+    "enhancement_discussion": "The set of applications that run in OT is relatively static, making allowlisting practical. DHS recommends [using application allowlisting for OT](https://www.cisa.gov/sites/default/files/documents/Guidelines%20for%20Application%20Whitelisting%20in%20Industrial%20Control%20Systems_S508C.pdf)  [equipment.](https://www.cisa.gov/sites/default/files/documents/Guidelines%20for%20Application%20Whitelisting%20in%20Industrial%20Control%20Systems_S508C.pdf)"
+  },
+  {
+    "control_id": "CM-8",
+    "control_name": "System Component Inventory",
+    "low_baseline": "CM-8",
+    "moderate_baseline": "CM-8 (1) (3)",
+    "high_baseline": "CM-8 (1) (2) (3) (4)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-9",
+    "control_name": "Configuration Management Plan INITIAL CONTROL BASELINES CONTROL NAME",
+    "low_baseline": "LOW",
+    "moderate_baseline": "CM-9 MOD",
+    "high_baseline": "CM-9 HIGH",
+    "ot_discussion": "Configuration management plans apply to the internal and external (e.g., contractors, integrators) resources responsible for device configuration.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-10",
+    "control_name": "Software Usage Restrictions",
+    "low_baseline": "CM-10",
+    "moderate_baseline": "CM-10",
+    "high_baseline": "CM-10",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-11",
+    "control_name": "User-Installed Software",
+    "low_baseline": "CM-11",
+    "moderate_baseline": "CM-11",
+    "high_baseline": "CM-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CM-12",
+    "control_name": "Information Location",
+    "low_baseline": "",
+    "moderate_baseline": "CM-12 (1)",
+    "high_baseline": "CM-12 (1)",
+    "ot_discussion": "Organizations identify specific information types or components to track where information is being processed and stored. Information to consider in the OT environment may include shared account passwords, PLC backup files, detailed network drawings, and risk assessments that identify specific threats with the environment.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "CP-1",
+    "moderate_baseline": "CP-1",
+    "high_baseline": "CP-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-2",
+    "control_name": "Contingency Plan",
+    "low_baseline": "CP-2",
+    "moderate_baseline": "CP-2 (1) (3) (8)",
+    "high_baseline": "CP-2 (1) (2) (3) (5) (8)",
+    "ot_discussion": "The organization defines contingency plans for categories of disruptions or failures. In the case of a contingency, the OT equipment executes preprogrammed functions, such as alerting the operator of the failure and then doing nothing, alerting the operator and then safely shutting down the industrial process, or alerting the operator and then maintaining the last operational setting prior to failure. Contingency plans for widespread disruption may involve specialized organizations (e.g., FEMA, emergency services, regulatory authorities).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-3",
+    "control_name": "Contingency Training",
+    "low_baseline": "CP-3",
+    "moderate_baseline": "CP-3",
+    "high_baseline": "CP-3 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-4",
+    "control_name": "Contingency Plan Testing",
+    "low_baseline": "CP-4",
+    "moderate_baseline": "CP-4 (1)",
+    "high_baseline": "CP-4 (1) (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": "Not all systems will have alternate processing sites, as discussed in CP-7."
+  },
+  {
+    "control_id": "CP-6",
+    "control_name": "Alternate Storage Site",
+    "low_baseline": "",
+    "moderate_baseline": "CP-6 (1) (3)",
+    "high_baseline": "CP-6 (1) (2) (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-7",
+    "control_name": "Alternate Processing Site",
+    "low_baseline": "",
+    "moderate_baseline": "CP-7 (1) (2) (3)",
+    "high_baseline": "CP-7 (1) (2) (3) (4)",
+    "ot_discussion": "Many site-wide supervisory or optimization servers (i.e., Level 3 and above of the Purdue model) can be supported from an alternate processing site. It is likely not feasible for control systems or field devices, such as sensors or final elements (i.e., Level 1 and 0 of the Purdue model), to be made available from an alternate processing site.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-8",
+    "control_name": "Telecommunications Services",
+    "low_baseline": "",
+    "moderate_baseline": "CP-8 (1) (2)",
+    "high_baseline": "CP-8 (1) (2) (3) (4)",
+    "ot_discussion": "Quality of service factors for OT include latency and throughput.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-9",
+    "control_name": "System Backup",
+    "low_baseline": "CP-9",
+    "moderate_baseline": "CP-9 (1) (8)",
+    "high_baseline": "CP-9 (1) (2) (3) (5) (8)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "CP-10",
+    "control_name": "System Recovery and Reconstitution",
+    "low_baseline": "CP-10",
+    "moderate_baseline": "CP-10 (2) (6)",
+    "high_baseline": "CP-10 (2) (4) (6)",
+    "ot_discussion": "Reconstitution of the OT includes considering whether system state variables should be restored to initial values or the values before disruption (e.g., are valves restored to full open, full closed, or settings prior to disruption). Restoring system state variables may be disruptive to ongoing physical processes (e.g., valves initially closed may adversely affect system cooling).",
+    "enhancement_discussion": "Organizations should consider recovery and reconstitution timeframes when storing spare equipment, including environmental hazards that could damage the equipment. Storage locations and environments should be chosen appropriately for the type of backup equipment."
+  },
+  {
+    "control_id": "CP-12",
+    "control_name": "Safe Mode",
+    "low_baseline": "CP-12",
+    "moderate_baseline": "CP-12",
+    "high_baseline": "CP-12",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "IA-1",
+    "moderate_baseline": "IA-1",
+    "high_baseline": "IA-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": "For local access, physical access controls and logging may be used as an alternative to individual authentication on an OT system. For remote access,"
+  },
+  {
+    "control_id": "IA-2",
+    "control_name": "Identification and Authentication (Organizational Users)",
+    "low_baseline": "IA-2 (1) (2) (8) (12)",
+    "moderate_baseline": "IA-2 (1) (2) (8) (12)",
+    "high_baseline": "IA-2 (1) (2) (5) (8) (12)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-3",
+    "control_name": "Device Identification and Authentication",
+    "low_baseline": "IA-3",
+    "moderate_baseline": "IA-3",
+    "high_baseline": "IA-3",
+    "ot_discussion": "OT devices may not inherently support device authentication. If devices are local to one another, physical security measures that prevent unauthorized communication between devices can be used as compensating controls. For remote communication, additional hardware may be required to meet authentication requirements.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-4",
+    "control_name": "Identifier Management",
+    "low_baseline": "IA-4",
+    "moderate_baseline": "IA-4 (4)",
+    "high_baseline": "IA-4 (4)",
+    "ot_discussion": "",
+    "enhancement_discussion": "This control enhancement is typically implemented by the organization rather than at the system level. However, to manage risk for certain OT environments, identifiers (e.g., badges) may have different markings to indicate the status of individuals, such as contractors, foreign nationals, and non-organizational users."
+  },
+  {
+    "control_id": "IA-5",
+    "control_name": "Authenticator Management",
+    "low_baseline": "IA-5 (1)",
+    "moderate_baseline": "IA-5 (1) (2) (6)",
+    "high_baseline": "IA-5 (1) (2) (6)",
+    "ot_discussion": "Example compensating controls include physical access control and encapsulating the OT to provide authentication external to the OT.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-6",
+    "control_name": "Authentication Feedback",
+    "low_baseline": "IA-6",
+    "moderate_baseline": "IA-6",
+    "high_baseline": "IA-6",
+    "ot_discussion": "This control assumes a visual interface that provides feedback about authentication information during the authentication process. When OT authentication uses an interface that does not support visual feedback (e.g., protocol-based authentication), this control may be tailored out.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-7",
+    "control_name": "Cryptographic Module Authentication",
+    "low_baseline": "IA-7",
+    "moderate_baseline": "IA-7",
+    "high_baseline": "IA-7",
+    "ot_discussion": "The OT Discussion for IA-2, Identification and Authentication (Organizational Users) is applicable for non-organizational users.",
+    "enhancement_discussion": "Acceptance of PIV credentials is only required for organizations that follow OMB Memorandum M-19-17 [[OMB-M1917]](#page-158-11) (e.g., federal agencies and contractors)."
+  },
+  {
+    "control_id": "IA-8",
+    "control_name": "Identification and Authentication (Non Organizational Users)",
+    "low_baseline": "IA-8 (1) (2) (4)",
+    "moderate_baseline": "IA-8 (1) (2) (4)",
+    "high_baseline": "IA-8 (1) (2) (4)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-11",
+    "control_name": "Re-authentication",
+    "low_baseline": "IA-11",
+    "moderate_baseline": "IA-11",
+    "high_baseline": "IA-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IA-12",
+    "control_name": "Identity Proofing",
+    "low_baseline": "",
+    "moderate_baseline": "IA-12 (2) (3) (5)",
+    "high_baseline": "IA-12 (1) (2) (3) (4) (5)",
+    "ot_discussion": "Identity proofing is likely performed by different departments within the organization. Existing organizational systems (e.g., HR or IT processes) should be leveraged to perform this control.",
+    "enhancement_discussion": "Maintenance, engineering, or third-party organizations may require OT access in order to support operations. The organization should determine the AO for proving identity prior to allowing access to the OT environment. Consider obtaining supervisor or sponsor authorization, where the sponsor may be someone within operations."
+  },
+  {
+    "control_id": "IR-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "IR-1",
+    "moderate_baseline": "IR-1",
+    "high_baseline": "IR-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-2",
+    "control_name": "Incident Response Training",
+    "low_baseline": "IR-2",
+    "moderate_baseline": "IR-2",
+    "high_baseline": "IR-2 (1) (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-3",
+    "control_name": "Incident Response Testing CONTROL NAME",
+    "low_baseline": "INITIAL CONTROL BASELINES LOW",
+    "moderate_baseline": "IR-3 (2) MOD",
+    "high_baseline": "IR-3 (2) HIGH",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-4",
+    "control_name": "Incident Handling",
+    "low_baseline": "IR-4",
+    "moderate_baseline": "IR-4 (1)",
+    "high_baseline": "IR-4 (1) (4) (11)",
+    "ot_discussion": "As part of the incident handling capability, the organization coordinates with external vendors, integrators, or suppliers as necessary to ensure that they have the capability to address events that are specific to embedded components and devices.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-5",
+    "control_name": "Incident Monitoring",
+    "low_baseline": "IR-5",
+    "moderate_baseline": "IR-5",
+    "high_baseline": "IR-5 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-6",
+    "control_name": "Incident Reporting",
+    "low_baseline": "IR-6",
+    "moderate_baseline": "IR-6 (1) (3)",
+    "high_baseline": "IR-6 (1) (3)",
+    "ot_discussion": "The organization should report incidents on a timely basis. CISA collaborates with international and private-sector computer emergency response teams (CERTs) to share control systems-related security incidents and mitigation measures.",
+    "enhancement_discussion": "The automated mechanisms used to support the incident reporting process are not necessarily part of or connected to the OT."
+  },
+  {
+    "control_id": "IR-7",
+    "control_name": "Incident Response Assistance",
+    "low_baseline": "IR-7",
+    "moderate_baseline": "IR-7 (1)",
+    "high_baseline": "IR-7 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "IR-8",
+    "control_name": "Incident Response Plan",
+    "low_baseline": "IR-8",
+    "moderate_baseline": "IR-8",
+    "high_baseline": "IR-8",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "MA-1",
+    "moderate_baseline": "MA-1",
+    "high_baseline": "MA-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-2",
+    "control_name": "Controlled Maintenance",
+    "low_baseline": "MA-2",
+    "moderate_baseline": "MA-2",
+    "high_baseline": "MA-2 (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-3",
+    "control_name": "Maintenance Tools",
+    "low_baseline": "",
+    "moderate_baseline": "MA-3 (1) (2) (3)",
+    "high_baseline": "MA-3 (1) (2) (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-4",
+    "control_name": "Nonlocal Maintenance",
+    "low_baseline": "MA-4",
+    "moderate_baseline": "MA-4 (1)",
+    "high_baseline": "MA-4 (1) (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": "The organization may need access to nonlocal maintenance and diagnostic services in order to restore essential OT operations or services. Example compensating controls include limiting the extent of the maintenance and diagnostic services to the minimum essential activities and carefully monitoring and auditing the nonlocal maintenance and diagnostic activities."
+  },
+  {
+    "control_id": "MA-5",
+    "control_name": "Maintenance Personnel",
+    "low_baseline": "MA-5",
+    "moderate_baseline": "MA-5",
+    "high_baseline": "MA-5 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-6",
+    "control_name": "Timely Maintenance",
+    "low_baseline": "",
+    "moderate_baseline": "MA-6",
+    "high_baseline": "MA-6",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MA-7",
+    "control_name": "Field Maintenance",
+    "low_baseline": "MA-7",
+    "moderate_baseline": "MA-7",
+    "high_baseline": "MA-7",
+    "ot_discussion": "Organizations identify OT systems and system components with specific calibration, maintenance, or other requirements and limit maintenance to specific facilities. Some examples may include safety-critical systems or systems involved in custody transfer where accuracy tolerances are limited and additional quality control checks are required.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "MP-1",
+    "moderate_baseline": "MP-1",
+    "high_baseline": "MP-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-2",
+    "control_name": "Media Access",
+    "low_baseline": "MP-2",
+    "moderate_baseline": "MP-2",
+    "high_baseline": "MP-2",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-3",
+    "control_name": "Media Marking",
+    "low_baseline": "",
+    "moderate_baseline": "MP-3",
+    "high_baseline": "MP-3",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-4",
+    "control_name": "Media Storage",
+    "low_baseline": "",
+    "moderate_baseline": "MP-4",
+    "high_baseline": "MP-4",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-5",
+    "control_name": "Media Transport",
+    "low_baseline": "",
+    "moderate_baseline": "MP-5",
+    "high_baseline": "MP-5",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-6",
+    "control_name": "Media Sanitization",
+    "low_baseline": "MP-6",
+    "moderate_baseline": "MP-6",
+    "high_baseline": "MP-6 (1) (2) (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "MP-7",
+    "control_name": "Media Use",
+    "low_baseline": "MP-7",
+    "moderate_baseline": "MP-7",
+    "high_baseline": "MP-7",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "PE-1",
+    "moderate_baseline": "PE-1",
+    "high_baseline": "PE-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems. The OT components can be distributed over a large facility footprint or geographic area and can be an entry point into the entire organizational network OT. Regulatory controls may also apply.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-2",
+    "control_name": "Physical Access Authorizations",
+    "low_baseline": "PE-2",
+    "moderate_baseline": "PE-2",
+    "high_baseline": "PE-2",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-3",
+    "control_name": "Physical Access Control",
+    "low_baseline": "PE-3",
+    "moderate_baseline": "PE-3",
+    "high_baseline": "PE-3 (1)",
+    "ot_discussion": "The organization considers OT safety and security interdependencies and access requirements in emergency situations. During an emergency, the organization may restrict access to OT facilities and assets to authorized individuals only. OT systems are often constructed of devices that do not have or cannot use comprehensive access control capabilities due to timerestrictive safety constraints. Physical access controls and defense-in-depth measures are used by the organization when necessary and possible to supplement OT security when electronic mechanisms are unable to fulfill the security requirements of the organization's security plan.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-4",
+    "control_name": "Access Control for Transmission",
+    "low_baseline": "",
+    "moderate_baseline": "PE-4",
+    "high_baseline": "PE-4",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-5",
+    "control_name": "Access Control for Output Devices",
+    "low_baseline": "",
+    "moderate_baseline": "PE-5",
+    "high_baseline": "PE-5",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-6",
+    "control_name": "Monitoring Physical Access",
+    "low_baseline": "PE-6",
+    "moderate_baseline": "PE-6 (1) (4)",
+    "high_baseline": "PE-6 (1) (4)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-8",
+    "control_name": "Visitor Access Records",
+    "low_baseline": "PE-8",
+    "moderate_baseline": "PE-8",
+    "high_baseline": "PE-8 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-9",
+    "control_name": "Power Equipment and Cabling CONTROL NAME",
+    "low_baseline": "INITIAL CONTROL BASELINES LOW",
+    "moderate_baseline": "PE-9 MOD",
+    "high_baseline": "PE-9 HIGH",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-10",
+    "control_name": "Emergency Shutoff",
+    "low_baseline": "",
+    "moderate_baseline": "PE-10",
+    "high_baseline": "PE-10",
+    "ot_discussion": "It may not be possible or advisable to shut off power to some OT. The organizational-defined parameters for this control should be implemented in consultation with safety and operational personnel. Example compensating controls include failing to a known state and emergency procedures.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-11",
+    "control_name": "Emergency Power",
+    "low_baseline": "",
+    "moderate_baseline": "PE-11",
+    "high_baseline": "PE-11 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-12",
+    "control_name": "Emergency Lighting",
+    "low_baseline": "PE-12",
+    "moderate_baseline": "PE-12",
+    "high_baseline": "PE-12",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-13",
+    "control_name": "Fire Protection",
+    "low_baseline": "PE-13",
+    "moderate_baseline": "PE-13 (1)",
+    "high_baseline": "PE-13 (1) (2)",
+    "ot_discussion": "Fire suppression mechanisms should take the OT environment into account (e.g., water sprinkler systems could be hazardous in specific environments).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-14",
+    "control_name": "Environmental Controls",
+    "low_baseline": "PE-14",
+    "moderate_baseline": "PE-14",
+    "high_baseline": "PE-14",
+    "ot_discussion": "Temperature and humidity controls are typically components of other OT systems (e.g., HVAC, process, or lighting systems) or can be a stand-alone and unique OT system. OT can operate in extreme environments and both interior and exterior locations. For a specific OT, the temperature and humidity design and operational parameters dictate the performance specifications. Power circuits, distribution closets, routers, and switches that support fire protection and life safety systems must be maintained at the proper temperature and humidity. When environmental controls cannot be implemented, use hardware that is engineered to withstand the OT's unique environmental hazards.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-15",
+    "control_name": "Water Damage Protection",
+    "low_baseline": "PE-15",
+    "moderate_baseline": "PE-15",
+    "high_baseline": "PE-15 (1)",
+    "ot_discussion": "Water damage protection and the use of shutoff and isolation valves are procedural actions and specific types of OT. OT used in the manufacturing, hydropower, transportation/navigation, water, and wastewater industries rely on the movement of water and are specifically designed to manage the quantity, flow, and pressure of water. Power circuits, distribution closets, routers, and switches that support fire protection and life safety systems should ensure that water will not disable the system (e.g., a fire that activates the sprinkler system does not spray onto the fire control servers, routers, or switches or short out the alarms, egress systems, emergency lighting, or suppression systems).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-16",
+    "control_name": "Delivery and Removal",
+    "low_baseline": "PE-16",
+    "moderate_baseline": "PE-16",
+    "high_baseline": "PE-16",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-17",
+    "control_name": "Alternate Work Site",
+    "low_baseline": "",
+    "moderate_baseline": "PE-17",
+    "high_baseline": "PE-17",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-18",
+    "control_name": "Location of System Components",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "PE-18",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-21",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "Organizations that manage OT equipment may choose to utilize EMP protection to prevent adversarial or environmental electromagnetic threats. Organizations may select to follow National Coordinating Center for Communications (NCC) [guidelines on EM pulse](https://www.cisa.gov/sites/default/files/publications/19_0307_CISA_EMP-Protection-Resilience-Guidelines.pdf)  [protection.](https://www.cisa.gov/sites/default/files/publications/19_0307_CISA_EMP-Protection-Resilience-Guidelines.pdf)",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PE-22",
+    "control_name": "Component Marking",
+    "low_baseline": "",
+    "moderate_baseline": "PE-22",
+    "high_baseline": "",
+    "ot_discussion": "Hardware components are marked or labeled to indicate information that is processed, stored, or transmitted. Component markings can be useful for differentiating between safety and control systems, OT and IT equipment, and internally and externally connected systems. Marking components reduces the probability of mismanaging the system or performing maintenance on an incorrect device.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "PL-1",
+    "moderate_baseline": "PL-1",
+    "high_baseline": "PL-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-2",
+    "control_name": "System Security and Privacy Plans",
+    "low_baseline": "PL-2",
+    "moderate_baseline": "PL-2",
+    "high_baseline": "PL-2",
+    "ot_discussion": "When systems are highly interconnected, coordinated planning is essential. A low-impact system could adversely affect a higher-impact system.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-4",
+    "control_name": "Rules of Behavior",
+    "low_baseline": "PL-4 (1)",
+    "moderate_baseline": "PL-4 (1)",
+    "high_baseline": "PL-4 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-7",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "Organizations need to consider documenting known operational procedures and exploring how they relate to the combination of IT and OT technologies within the environment.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-8",
+    "control_name": "Security and Privacy Architecture",
+    "low_baseline": "",
+    "moderate_baseline": "PL-8",
+    "high_baseline": "PL-8",
+    "ot_discussion": "",
+    "enhancement_discussion": "Defense in depth is considered a common practice for security architecture within OT environments."
+  },
+  {
+    "control_id": "PL-9",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "If the architecture allows for it, consider centrally managing flaw remediation, malicious code protection, logging, and incident detection.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-10",
+    "control_name": "Baseline Selection",
+    "low_baseline": "PL-10",
+    "moderate_baseline": "PL-10",
+    "high_baseline": "PL-10",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PL-11",
+    "control_name": "Baseline Tailoring",
+    "low_baseline": "PL-11",
+    "moderate_baseline": "PL-11",
+    "high_baseline": "PL-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-1",
+    "control_name": "Information Security Program Plan",
+    "low_baseline": "",
+    "moderate_baseline": "PM-1",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-2",
+    "control_name": "Information Security Program Leadership Role",
+    "low_baseline": "",
+    "moderate_baseline": "PM-2",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-3",
+    "control_name": "Information Security and Privacy Resources",
+    "low_baseline": "",
+    "moderate_baseline": "PM-3",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-4",
+    "control_name": "Plan of Action and Milestones Process",
+    "low_baseline": "",
+    "moderate_baseline": "PM-4",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-5",
+    "control_name": "System Inventory",
+    "low_baseline": "",
+    "moderate_baseline": "PM-5",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-6",
+    "control_name": "Measures of Performance",
+    "low_baseline": "",
+    "moderate_baseline": "PM-6",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-7",
+    "control_name": "Enterprise Architecture",
+    "low_baseline": "PM-7",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-8",
+    "control_name": "Critical Infrastructure Plan",
+    "low_baseline": "PM-8",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "Organizations should be familiar with the protection requirements and guidance defined by Executive Orders, government sector-specific agencies (SSAs), and industry trade organizations.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-9",
+    "control_name": "Risk Management Strategy",
+    "low_baseline": "PM-9",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-10",
+    "control_name": "Authorization Process",
+    "low_baseline": "",
+    "moderate_baseline": "PM-10",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-11",
+    "control_name": "Mission and Business Process Definition CONTROL NAME",
+    "low_baseline": "LOW",
+    "moderate_baseline": "PM-11 MOD",
+    "high_baseline": "INITIAL CONTROL BASELINES HIGH",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-12",
+    "control_name": "Insider Threat Program",
+    "low_baseline": "PM-12",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-13",
+    "control_name": "Security and Privacy Workforce",
+    "low_baseline": "",
+    "moderate_baseline": "PM-13",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-14",
+    "control_name": "Testing, Training, and Monitoring",
+    "low_baseline": "",
+    "moderate_baseline": "PM-14",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-15",
+    "control_name": "Security and Privacy Groups and Associations",
+    "low_baseline": "",
+    "moderate_baseline": "PM-15",
+    "high_baseline": "",
+    "ot_discussion": "Organizations should be familiar with relevant security-focused and industryspecific groups or associations, including government sector-specific agencies (SSAs), Information Sharing and Analysis Centers (ISACs), and industry trade organizations.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-16",
+    "control_name": "Threat Awareness Program",
+    "low_baseline": "",
+    "moderate_baseline": "PM-16",
+    "high_baseline": "",
+    "ot_discussion": "The organization should collaborate and share information about potential incidents on a timely basis. CISA [serves as a centralized location](https://www.cisa.gov/uscert/ics) where operational elements involved in cybersecurity and communications reliance are coordinated and integrated. Organizations should consider having both an unclassified and classified information sharing capability.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-17",
+    "control_name": "Protecting Controlled Unclassified Information on External Systems",
+    "low_baseline": "",
+    "moderate_baseline": "PM-17",
+    "high_baseline": "",
+    "ot_discussion": "This control applies to federal agencies and other organizations that support the Government and process controlled unclassified information (CUI).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-18",
+    "control_name": "Privacy Program Plan",
+    "low_baseline": "",
+    "moderate_baseline": "PM-18",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-19",
+    "control_name": "Privacy Program Leadership Role",
+    "low_baseline": "",
+    "moderate_baseline": "PM-19",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-20",
+    "control_name": "Dissemination of Privacy Program Information",
+    "low_baseline": "",
+    "moderate_baseline": "PM-20 (1)",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-21",
+    "control_name": "Accounting of Disclosures",
+    "low_baseline": "PM-21",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-22",
+    "control_name": "Personally Identifiable Information Quality Management",
+    "low_baseline": "PM-22",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-23",
+    "control_name": "Data Governance Body",
+    "low_baseline": "PM-23",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-24",
+    "control_name": "Data Integrity Board",
+    "low_baseline": "PM-24",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-25",
+    "control_name": "Minimization of Personally Identifiable Information Used in Testing, Training, and Research",
+    "low_baseline": "",
+    "moderate_baseline": "PM-25",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-26",
+    "control_name": "Complaint Management",
+    "low_baseline": "",
+    "moderate_baseline": "PM-26",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-27",
+    "control_name": "Privacy Reporting",
+    "low_baseline": "",
+    "moderate_baseline": "PM-27",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-28",
+    "control_name": "Risk Framing",
+    "low_baseline": "",
+    "moderate_baseline": "PM-28",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-29",
+    "control_name": "Risk Management Program Leadership Roles",
+    "low_baseline": "",
+    "moderate_baseline": "PM-29",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-30",
+    "control_name": "Supply Chain Risk Management Strategy",
+    "low_baseline": "",
+    "moderate_baseline": "PM-30 (1)",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-31",
+    "control_name": "Continuous Monitoring Strategy",
+    "low_baseline": "",
+    "moderate_baseline": "PM-31",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PM-32",
+    "control_name": "Purposing",
+    "low_baseline": "",
+    "moderate_baseline": "PM-32",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "PS-1 PS-1 PS-1",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-2",
+    "control_name": "Position Risk Designation",
+    "low_baseline": "PS-2",
+    "moderate_baseline": "PS-2",
+    "high_baseline": "PS-2",
+    "ot_discussion": "Private organizations should utilize existing sector-specific regulations, laws, policy, and guidance for determining appropriate risk designations for positions.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-3",
+    "control_name": "Personnel Screening",
+    "low_baseline": "PS-3 PS-3",
+    "moderate_baseline": "",
+    "high_baseline": "PS-3",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-4",
+    "control_name": "Personnel Termination",
+    "low_baseline": "PS-4",
+    "moderate_baseline": "PS-4",
+    "high_baseline": "PS-4 (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-5",
+    "control_name": "Personnel Transfer INITIAL CONTROL BASELINES CONTROL NAME",
+    "low_baseline": "PS-5 LOW",
+    "moderate_baseline": "PS-5 MOD",
+    "high_baseline": "PS-5 HIGH",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-6",
+    "control_name": "Access Agreements",
+    "low_baseline": "PS-6",
+    "moderate_baseline": "PS-6",
+    "high_baseline": "PS-6",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-7",
+    "control_name": "External Personnel Security",
+    "low_baseline": "PS-7",
+    "moderate_baseline": "PS-7",
+    "high_baseline": "PS-7",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-8",
+    "control_name": "Personnel Sanctions",
+    "low_baseline": "PS-8",
+    "moderate_baseline": "PS-8",
+    "high_baseline": "PS-8",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "PS-9",
+    "control_name": "Position Descriptions",
+    "low_baseline": "PS-9",
+    "moderate_baseline": "PS-9",
+    "high_baseline": "PS-9",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "RA-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "RA-1",
+    "moderate_baseline": "RA-1",
+    "high_baseline": "RA-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "RA-2",
+    "control_name": "Security Categorization",
+    "low_baseline": "RA-2",
+    "moderate_baseline": "RA-2",
+    "high_baseline": "RA-2",
+    "ot_discussion": "PHA, functional safety assessments, and other organization-established risk assessments can be referenced to identify the impact level of the OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "RA-3",
+    "control_name": "Risk Assessment",
+    "low_baseline": "RA-3 (1)",
+    "moderate_baseline": "RA-3 (1)",
+    "high_baseline": "RA-3 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "RA-5",
+    "control_name": "Vulnerability Monitoring and Scanning",
+    "low_baseline": "RA-5 (2) (11)",
+    "moderate_baseline": "RA-5 (2) (5) (11)",
+    "high_baseline": "RA-5 (2) (4) (5) (11)",
+    "ot_discussion": "The organization makes a risk-based determination of how to monitor or scan for vulnerabilities on their system. This may include active scanning, passive monitoring, or",
+    "enhancement_discussion": "Examples of discoverable information in OT could include information about key personnel or technical information related to systems and configurations. Locations that may need to be monitored or scanned include technical forums, blogs, and vendor or contractor websites."
+  },
+  {
+    "control_id": "RA-7",
+    "control_name": "Risk Response",
+    "low_baseline": "RA-7",
+    "moderate_baseline": "RA-7",
+    "high_baseline": "RA-7",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "RA-9",
+    "control_name": "Criticality Analysis",
+    "low_baseline": "",
+    "moderate_baseline": "RA-9",
+    "high_baseline": "RA-9",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "SA-1",
+    "moderate_baseline": "SA-1",
+    "high_baseline": "SA-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-2",
+    "control_name": "Allocation of Resources",
+    "low_baseline": "SA-2",
+    "moderate_baseline": "SA-2",
+    "high_baseline": "SA-2",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-3",
+    "control_name": "System Development Life Cycle",
+    "low_baseline": "SA-3",
+    "moderate_baseline": "SA-3",
+    "high_baseline": "SA-3",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-4",
+    "control_name": "Acquisition Process",
+    "low_baseline": "SA-4 (10) (12)",
+    "moderate_baseline": "SA-4 (1) (2) (9) (10) (12)",
+    "high_baseline": "SA-4 (1) (2) (5) (9) (10) (12)",
+    "ot_discussion": "Organizations engage with OT suppliers to raise awareness of cybersecurity needs. The [SCADA/Control Systems Procurement Project](https://www.cisa.gov/uscert/ics/Recommended-Practices) provides example cybersecurity procurement language for OT.",
+    "enhancement_discussion": "The use of approved PIV products is only required for organizations that follow OMB Memorandum M-19-17 (e.g., federal agencies and contractors). Example compensating controls include employing external products on the FIPS 201-approved products list for PIV capabilities in conjunction with OT products."
+  },
+  {
+    "control_id": "SA-5",
+    "control_name": "System Documentation",
+    "low_baseline": "SA-5",
+    "moderate_baseline": "SA-5",
+    "high_baseline": "SA-5",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-8",
+    "control_name": "Security and Privacy Engineering Principles",
+    "low_baseline": "SA-8",
+    "moderate_baseline": "SA-8",
+    "high_baseline": "SA-8",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-9",
+    "control_name": "External System Services",
+    "low_baseline": "SA-9",
+    "moderate_baseline": "SA-9 (2)",
+    "high_baseline": "SA-9 (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-10",
+    "control_name": "Developer Configuration Management",
+    "low_baseline": "",
+    "moderate_baseline": "SA-10",
+    "high_baseline": "SA-10",
+    "ot_discussion": "Personnel with knowledge about security and privacy requirements are included in the change management process for the developer.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-11",
+    "control_name": "Developer Testing and Evaluation",
+    "low_baseline": "",
+    "moderate_baseline": "SA-11",
+    "high_baseline": "SA-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-15",
+    "control_name": "Development Process, Standards, and Tools",
+    "low_baseline": "",
+    "moderate_baseline": "SA-15 (3)",
+    "high_baseline": "SA-15 (3)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-16",
+    "control_name": "Developer-Provided Training",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SA-16",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-17",
+    "control_name": "Developer Security Architecture and Design",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SA-17",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-21",
+    "control_name": "Developer Screening",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SA-21",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SA-22",
+    "control_name": "Unsupported System Components",
+    "low_baseline": "SA-22",
+    "moderate_baseline": "SA-22",
+    "high_baseline": "SA-22",
+    "ot_discussion": "OT systems may contain system components that are no longer supported by the developer, vendor, or manufacturer and have not been replaced due to various operational, safety, availability, or lifetime constraints. Organizations identify alternative methods to continue supported operation of such system components and consider additional compensating controls to mitigate against known threats and vulnerabilities to unsupported system components.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "SC-1",
+    "moderate_baseline": "SC-1",
+    "high_baseline": "SC-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-2",
+    "control_name": "Separation of System and User Functionality",
+    "low_baseline": "",
+    "moderate_baseline": "SC-2",
+    "high_baseline": "SC-2",
+    "ot_discussion": "Physical separation includes using separate systems for managing the OT and for operating OT components. Logical separation includes the use of different user accounts for administrative and operator privileges. Example compensating controls include providing increased auditing measures.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-3",
+    "control_name": "Security Function Isolation CONTROL NAME",
+    "low_baseline": "INITIAL CONTROL BASELINES LOW",
+    "moderate_baseline": "MOD",
+    "high_baseline": "SC-3 HIGH",
+    "ot_discussion": "Organizations consider implementing this control when designing new architectures or updating existing components. An example compensating control includes access controls.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-4",
+    "control_name": "Information in System Shared Resources",
+    "low_baseline": "",
+    "moderate_baseline": "SC-4",
+    "high_baseline": "SC-4",
+    "ot_discussion": "This control is especially relevant for OT systems that process confidential data. Example compensating controls include engineering the use of the OT to prevent sharing system resources.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-5",
+    "control_name": "Denial-of-Service Protection",
+    "low_baseline": "SC-5",
+    "moderate_baseline": "SC-5",
+    "high_baseline": "SC-5",
+    "ot_discussion": "Some OT equipment may be more susceptible to DoS attacks due to the time criticality of some OT applications. Risk-based analysis informs the prioritization of DoS protection and the establishment of policy and procedure.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-7",
+    "control_name": "Boundary Protection",
+    "low_baseline": "SC-7 (28) (29)",
+    "moderate_baseline": "SC-7 (3) (4) (5) (7) (8) (18) (28) (29)",
+    "high_baseline": "SC-7 (3) (4) (5) (7) (8) (18) (21) (28) (29)",
+    "ot_discussion": "",
+    "enhancement_discussion": "The organization selects an appropriate failure mode (e.g., permit or block all communications)."
+  },
+  {
+    "control_id": "SC-8",
+    "control_name": "Transmission Confidentiality and Integrity",
+    "low_baseline": "",
+    "moderate_baseline": "SC-8 (1)",
+    "high_baseline": "SC-8 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": "When transmitting across untrusted network segments, the organization explores all possible cryptographic integrity mechanisms (e.g., digital signature, hash function) to protect the confidentiality and integrity of the information. Example compensating controls include physical protections, such as a secure conduit (e.g., point-to-point link) between two system components."
+  },
+  {
+    "control_id": "SC-10",
+    "control_name": "Network Disconnect",
+    "low_baseline": "",
+    "moderate_baseline": "SC-10",
+    "high_baseline": "SC-10",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-12",
+    "control_name": "Cryptographic Key Establishment and Management",
+    "low_baseline": "SC-12",
+    "moderate_baseline": "SC-12",
+    "high_baseline": "SC-12 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-13",
+    "control_name": "Cryptographic Protection",
+    "low_baseline": "SC-13",
+    "moderate_baseline": "SC-13",
+    "high_baseline": "SC-13",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-15",
+    "control_name": "Collaborative Computing Devices and Applications",
+    "low_baseline": "SC-15",
+    "moderate_baseline": "SC-15",
+    "high_baseline": "SC-15",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-17",
+    "control_name": "Public Key Infrastructure Certificates",
+    "low_baseline": "",
+    "moderate_baseline": "SC-17",
+    "high_baseline": "SC-17",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-18",
+    "control_name": "Mobile Code",
+    "low_baseline": "",
+    "moderate_baseline": "SC-18",
+    "high_baseline": "SC-18",
+    "ot_discussion": "Secure name/address resolution services should only be used after careful consideration and verification that they do not adversely impact the operational performance of the OT.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-20",
+    "control_name": "Secure Name /Address Resolution Service (Authoritative Source)",
+    "low_baseline": "SC-20",
+    "moderate_baseline": "SC-20",
+    "high_baseline": "SC-20",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-21",
+    "control_name": "Secure Name /Address Resolution Service (Recursive or Caching Resolver)",
+    "low_baseline": "SC-21",
+    "moderate_baseline": "SC-21",
+    "high_baseline": "SC-21",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-22",
+    "control_name": "Architecture and Provisioning for Name/Address Resolution Service",
+    "low_baseline": "SC-22",
+    "moderate_baseline": "SC-22",
+    "high_baseline": "SC-22",
+    "ot_discussion": "Secure name/address resolution services should only be used after careful consideration and verification that they do not adversely impact the operational performance of the OT.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-23",
+    "control_name": "Session Authenticity",
+    "low_baseline": "",
+    "moderate_baseline": "SC-23",
+    "high_baseline": "SC-23",
+    "ot_discussion": "Example compensating controls include auditing measures.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-24",
+    "control_name": "Fail in Known State",
+    "low_baseline": "",
+    "moderate_baseline": "SC-24",
+    "high_baseline": "SC-24",
+    "ot_discussion": "The organization selects an appropriate failure state. Preserving OT state information includes consistency among OT state variables and the physical state that the OT represents (e.g., whether valves are open or closed, communication permitted or blocked, continue operations).",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-28",
+    "control_name": "Protection of Information at Rest",
+    "low_baseline": "",
+    "moderate_baseline": "SC-28 (1)",
+    "high_baseline": "SC-28 (1)",
+    "ot_discussion": "Cryptographic mechanisms are implemented only after careful consideration and verification that they do not adversely impact the operational performance of the OT. When cryptographic mechanisms are not feasible on certain OT devices, compensating controls may include relocating the data to a location that does support cryptographic mechanisms.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-32",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "",
+    "enhancement_discussion": "Organizations consider separate physical domains for privileged functions, such as those that affect security and safety."
+  },
+  {
+    "control_id": "SC-39",
+    "control_name": "Process Isolation",
+    "low_baseline": "SC-39",
+    "moderate_baseline": "SC-39",
+    "high_baseline": "SC-39",
+    "ot_discussion": "Example compensating controls include partition processes to separate platforms.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-41",
+    "control_name": "Port and I/O Device Access",
+    "low_baseline": "SC-41",
+    "moderate_baseline": "SC-41",
+    "high_baseline": "SC-41",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-45",
+    "control_name": "System Time Synchronization",
+    "low_baseline": "SC-45",
+    "moderate_baseline": "SC-45",
+    "high_baseline": "SC-45",
+    "ot_discussion": "Organizations coordinate time synchronization on OT to allow for accurate troubleshooting and forensics.",
+    "enhancement_discussion": "Syncing with an authoritative time source may be selected as a control when data is being correlated across organizational boundaries. OT employ suitable mechanisms (e.g., GPS, IEEE 1588) for timestamps."
+  },
+  {
+    "control_id": "SC-47",
+    "control_name": "Alternate Communications Path",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SC-47",
+    "ot_discussion": "Organizations consider which systems require alternate communication paths to ensure that a loss of communication does not lead to an unacceptable loss of view or control or to a safety event.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SC-51",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "Some OT systems support write-protection by implementing physical key switches or write-protect switches. Organizations define the systems for which write-protection will be enabled and develop a process for how to take the system out of write-protect mode.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "SI-1",
+    "moderate_baseline": "SI-1",
+    "high_baseline": "SI-1",
+    "ot_discussion": "The policy specifically addresses the unique properties and requirements of OT and the relationship to non-OT systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-2",
+    "control_name": "Flaw Remediation",
+    "low_baseline": "SI-2",
+    "moderate_baseline": "SI-2 (2)",
+    "high_baseline": "SI-2 (2)",
+    "ot_discussion": "Flaw remediation, or patching, is complicated since many OT employ OSs and other software that are no longer maintained by the vendors. OT operators may also not have the resources or capability to test patches and are dependent on vendors to validate the operability of a patch. Sometimes, the organization has no choice but to accept additional risk if no vendor patch is available, if patching requires additional time to complete validation or testing, or if deployment requires an unacceptable operations shutdown. In these situations, compensating controls should be implemented (e.g., limiting the exposure of the vulnerable system, restricting vulnerable services, implementing virtual patching). Other compensating controls that do not decrease the residual risk but increase the ability to respond may be desirable (e.g., provide a timely response in case of an incident, devise a plan to ensure that the OT can identify exploitation of the flaw). Testing flaw remediation in an OT may exceed the organization's available resources.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-3",
+    "control_name": "Malicious Code Protection",
+    "low_baseline": "SI-3",
+    "moderate_baseline": "SI-3",
+    "high_baseline": "SI-3",
+    "ot_discussion": "Malicious code protection should only be deployed after careful consideration and verification that it does not adversely impact the operation of the OT. Malicious code",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-4",
+    "control_name": "System Monitoring",
+    "low_baseline": "SI-4",
+    "moderate_baseline": "SI-4 (2) (4) (5) SI-4 (2) (4) (5) (10) (12) (14) (20) (22)",
+    "high_baseline": "",
+    "ot_discussion": "The organization ensures that the use of monitoring tools and techniques does not adversely impact the operational performance of the OT. Example compensating controls include deploying sufficient network, process, and physical monitoring.",
+    "enhancement_discussion": "When the OT cannot support the use of automated tools for near-real-time analysis of events, the organization employs compensating controls (e.g., providing an auditing capability on a separate system, nonautomated mechanisms or procedures) in accordance with the general tailoring guidance."
+  },
+  {
+    "control_id": "SI-5",
+    "control_name": "Security Alerts, Advisories, and Directives INITIAL CONTROL BASELINES CONTROL NAME",
+    "low_baseline": "SI-5 LOW MOD",
+    "moderate_baseline": "SI-5",
+    "high_baseline": "SI-5 (1) HIGH",
+    "ot_discussion": "CISA generates security alerts and advisories relative to OT at [https://www.cisa.gov/uscert/ics.](https://www.cisa.gov/uscert/ics) Industry-specific ISACs often provide tailored advisories and alerts, which can be found at [https://www.nationalisacs.org/.](https://www.nationalisacs.org/)",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-6",
+    "control_name": "Security and Privacy Function Verification",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SI-6",
+    "ot_discussion": "Shutting down and restarting the OT may not always be feasible upon the identification of an anomaly. These actions should be scheduled according to OT operational requirements.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-7",
+    "control_name": "Software, Firmware, and Information Integrity",
+    "low_baseline": "",
+    "moderate_baseline": "SI-7 (1) (7)",
+    "high_baseline": "SI-7 (1) (2) (5) (7) (15)",
+    "ot_discussion": "The organization determines whether the use of integrity verification applications would adversely impact operation of the ICS and employs compensating controls (e.g., manual integrity verifications that do not affect performance).",
+    "enhancement_discussion": "When the organization cannot employ automated tools that provide notifications about integrity discrepancies, the organization employs nonautomated mechanisms or procedures. Example compensating controls include performing scheduled manual inspections for integrity violations."
+  },
+  {
+    "control_id": "SI-8",
+    "control_name": "Spam Protection",
+    "low_baseline": "",
+    "moderate_baseline": "SI-8 <del>(2)</del>",
+    "high_baseline": "SI-8 <del>(2)</del>",
+    "ot_discussion": "OT organizations implement spam protection by removing spam transport mechanisms, functions, and services (e.g., electronic mail, web browsing) from the OT.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-10",
+    "control_name": "Information Input Validation",
+    "low_baseline": "",
+    "moderate_baseline": "SI-10",
+    "high_baseline": "SI-10",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-11",
+    "control_name": "Error Handling",
+    "low_baseline": "",
+    "moderate_baseline": "SI-11",
+    "high_baseline": "SI-11",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-12",
+    "control_name": "Information Handling and Retention",
+    "low_baseline": "SI-12",
+    "moderate_baseline": "SI-12",
+    "high_baseline": "SI-12",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-13",
+    "control_name": "Predictable Failure Prevention",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "<u>SI-13</u>",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-16",
+    "control_name": "Memory Protection",
+    "low_baseline": "",
+    "moderate_baseline": "SI-16",
+    "high_baseline": "SI-16",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-17",
+    "control_name": "Fail-Safe Procedures",
+    "low_baseline": "<u>SI-17</u>",
+    "moderate_baseline": "<u>SI-17</u>",
+    "high_baseline": "<u>SI-17</u>",
+    "ot_discussion": "The selected failure conditions and corresponding procedures may vary among baselines. The same failure event may trigger different responses, depending on the impact level. Mechanical and analog systems can be used to provide mechanisms to ensure fail-safe procedures. Fail-safe states should incorporate potential impacts to human safety, physical systems, and the environment. A related controls is CP-6.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SI-22",
+    "control_name": "",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "",
+    "ot_discussion": "Many OT systems use information diversity in their design to achieve reliability requirements. Some examples of information diversity for an OT system include sensor voting and state estimation.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-1",
+    "control_name": "Policy and Procedures",
+    "low_baseline": "SR-1",
+    "moderate_baseline": "SR-1",
+    "high_baseline": "SR-1",
+    "ot_discussion": "Supply chain policies and procedures for OT should consider both components received and components produced. Many OT systems use legacy components that cannot meet modern supply chain expectations. Appropriate compensating controls should be developed to achieve organizational supply chain expectations for legacy systems.",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-2",
+    "control_name": "Supply Chain Risk Management Plan",
+    "low_baseline": "SR-2 (1)",
+    "moderate_baseline": "SR-2 (1)",
+    "high_baseline": "SR-2 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-3",
+    "control_name": "Supply Chain Controls and Processes",
+    "low_baseline": "SR-3",
+    "moderate_baseline": "SR-3",
+    "high_baseline": "SR-3",
+    "ot_discussion": "",
+    "enhancement_discussion": "Using a diverse set of suppliers in the OT environment can improve reliability by reducing common cause failures. This is not always"
+  },
+  {
+    "control_id": "SR-5",
+    "control_name": "Acquisition Strategies, Tools, and Methods",
+    "low_baseline": "SR-5",
+    "moderate_baseline": "SR-5 <u>(1)</u>",
+    "high_baseline": "SR-5 <u>(1)</u>",
+    "ot_discussion": "",
+    "enhancement_discussion": "Vendor relationships and spare parts strategies are developed to ensure that an adequate supply of critical components is available to meet operational needs."
+  },
+  {
+    "control_id": "SR-6",
+    "control_name": "Supplier Assessments and Reviews",
+    "low_baseline": "",
+    "moderate_baseline": "SR-6",
+    "high_baseline": "SR-6",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-8",
+    "control_name": "Notification Agreements",
+    "low_baseline": "SR-8",
+    "moderate_baseline": "SR-8",
+    "high_baseline": "SR-8",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-9",
+    "control_name": "Tamper Resistance and Detection",
+    "low_baseline": "",
+    "moderate_baseline": "",
+    "high_baseline": "SR-9 (1)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-10",
+    "control_name": "Inspection of Systems or Components",
+    "low_baseline": "SR-10",
+    "moderate_baseline": "SR-10",
+    "high_baseline": "SR-10",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-11",
+    "control_name": "Component Authenticity",
+    "low_baseline": "SR-11 (1) (2)",
+    "moderate_baseline": "SR-11 (1) (2)",
+    "high_baseline": "SR-11 (1) (2)",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  },
+  {
+    "control_id": "SR-12",
+    "control_name": "Component Disposal",
+    "low_baseline": "SR-12",
+    "moderate_baseline": "SR-12",
+    "high_baseline": "SR-12",
+    "ot_discussion": "",
+    "enhancement_discussion": ""
+  }
+]
