@@ -18,7 +18,8 @@
   "links": {
     "source": "https://olis.oregonlegislature.gov/liz/2023R1/Measures/Overview/SB619",
     "csaLocation": "",
-    "source_research_note": "Oregon Consumer Privacy Act \u2014 SB619 (2023)."
+    "source_research_note": "Oregon Consumer Privacy Act \u2014 SB619 (2023).",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "active": true,
@@ -35,5 +36,10 @@
   "acronym": "OCPA",
   "alternate_names": [
     "oregon-consumer-privacy-act"
-  ]
+  ],
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T18:33:33Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the SB 619 measure overview from olis.oregonlegislature.gov. 208 lines covering the bill's progression. The enrolled bill PDF is linked from the page \u2014 follow-up acquisition could pull SB619 Enrolled directly."
+  }
 }
