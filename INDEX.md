@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 56 | 109 | 41 | — | — | **206** |
+| `control/` | 59 | 106 | 41 | — | — | **206** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 6 | — | — | — | **6** |
 | `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **107** | **132** | **84** | **4** | **6** | **333** |
+| **Total** | **110** | **129** | **84** | **4** | **6** | **333** |
 
 ## control/
 
@@ -101,10 +101,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/fedramp.gov/fedramp-vulnerability-deviation-request-form/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/fedramp-vulnerability-deviation-request-form` |
 | `control/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide` |
 | `control/fedramp.gov/sar-appendix-a-fedramp-risk-exposure-table-(ret)-template/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/sar-appendix-a-fedramp-risk-exposure-table-(ret)-template` |
-| `control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls` |
-| `control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls` |
-| `control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls` |
-| `control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls` |
+| `control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls` |
+| `control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls/` | extracted | 3 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls` |
+| `control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls` |
+| `control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls` |
 | `control/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template` |
 | `control/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template` |
 | `control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook/` | structured | 13 | `M··C···` | `secid:control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook` |
