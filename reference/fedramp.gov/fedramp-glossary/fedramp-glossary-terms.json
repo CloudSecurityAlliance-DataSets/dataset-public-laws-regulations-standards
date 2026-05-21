@@ -1,0 +1,440 @@
+[
+  {
+    "term": "Authorization to Operate",
+    "definition": "An authorization that is issued by a federal department, office, or agency (sometimes referred to as authority to operate)",
+    "source_anchor": "authorization-to-operate",
+    "notes": ""
+  },
+  {
+    "term": "Agency authorizations",
+    "definition": "Signed by the Federal agency’s authorizing official, indicate that an agency or a joint group of agencies assessed a CSP’s security posture in accordance with FedRAMP guidelines and found it acceptable. The FedRAMP Director is responsible for ensuring that authorizations can reasonably support the presumption of adequacy",
+    "source_anchor": "agency-authorizations",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Access",
+    "definition": "To make contact with or gain access to a cloud service",
+    "source_anchor": "cloud-access",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Auditor",
+    "definition": "",
+    "source_anchor": "cloud-auditor",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Cloud Broker",
+    "definition": "",
+    "source_anchor": "cloud-broker",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Cloud Carrier",
+    "definition": "",
+    "source_anchor": "cloud-carrier",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Cloud Consumer",
+    "definition": "",
+    "source_anchor": "cloud-consumer",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Cloud Distribution",
+    "definition": "The process of transporting cloud data between Cloud Service Providers and Cloud Consumers",
+    "source_anchor": "cloud-distribution",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Provider",
+    "definition": "",
+    "source_anchor": "cloud-provider",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Cloud Service Management",
+    "definition": "Includes all the service-related functions that are necessary for the management and operations of those services required by or proposed to customers",
+    "source_anchor": "cloud-service-management",
+    "notes": ""
+  },
+  {
+    "term": "Community Cloud",
+    "definition": "",
+    "source_anchor": "community-cloud",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Configured by Customer",
+    "definition": "A control where the customer needs to apply a configuration in order to meet the control requirement",
+    "source_anchor": "configured-by-customer",
+    "notes": ""
+  },
+  {
+    "term": "Container",
+    "definition": "",
+    "source_anchor": "container",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "CSA STAR Certification",
+    "definition": "The CSA STAR Certification is a third party independent assessment of the security of a cloud service provider. The technology-neutral certification leverages the requirements of the ISO/IEC 27001 management system standard together with the CSA Cloud Controls Matrix, a specified set of criteria that measures the capability levels of the cloud service.",
+    "source_anchor": "csa-star-certification",
+    "notes": ""
+  },
+  {
+    "term": "Data Portability",
+    "definition": "The ability to transfer data from one system to another without being required to recreate or re-enter data descriptions or to modify significantly the application being transported.",
+    "source_anchor": "data-portability",
+    "notes": ""
+  },
+  {
+    "term": "Digital Authentication",
+    "definition": "",
+    "source_anchor": "digital-authentication",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "FedRAMP Authorization Package",
+    "definition": "Authorization packages contain the body of evidence needed by authorizing officials (AOs) to make risk-based decisions regarding the information systems providing cloud services. This includes, as a minimum, the System Security Plan (SSP) and its attachments, a Security Assessment Report (SAR), a Plan of Action and Milestones (POA&M) and a Continuous Monitoring Plan.",
+    "source_anchor": "fedramp-authorization-package",
+    "notes": ""
+  },
+  {
+    "term": "FedRAMP In-Process",
+    "definition": "FedRAMP In-Process is a designation provided to CSPs that are actively working toward a FedRAMP Authorization",
+    "source_anchor": "fedramp-in-process",
+    "notes": ""
+  },
+  {
+    "term": "FedRAMP Program Authorization",
+    "definition": "As, signed by the FedRAMP Director, indicate that FedRAMP\nassessed a cloud service’s security posture and found it met FedRAMP requirements\nand is acceptable for reuse by agency authorizing officials.",
+    "source_anchor": "fedramp-program-authorization",
+    "notes": ""
+  },
+  {
+    "term": "FedRAMP Ready",
+    "definition": "FedRAMP Ready is a designation which is intended to demonstrate a CSP's ability to complete the full FedRAMP authorization process. To be listed as FedRAMP Ready, CSPs work with a 3PAO to submit a Readiness Assessment Report (RAR) which must be reviewed and approved by FedRAMP.",
+    "source_anchor": "fedramp-ready",
+    "notes": ""
+  },
+  {
+    "term": "FedRAMP Tailored",
+    "definition": "For Low Impact Software as a Service (LI-SaaS); see https://tailored.fedramp.gov/policy/",
+    "source_anchor": "fedramp-tailored",
+    "notes": ""
+  },
+  {
+    "term": "Federal Information Processing Standards (FIPS)",
+    "definition": "",
+    "source_anchor": "federal-information-processing-standards-fips",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Fixed Endpoints",
+    "definition": "A physical device, fixed in its location, which provides a man/machine interface to cloud services and applications. A fixed endpoint typically uses one method and protocol to connect to cloud services and applications.",
+    "source_anchor": "fixed-endpoints",
+    "notes": ""
+  },
+  {
+    "term": "Government Only Cloud",
+    "definition": "A cloud deployment model (see SSP Table 8-2). The cloud services and infrastructure are shared by several organizations/agencies with the same policy and compliance considerations.",
+    "source_anchor": "government-only-cloud",
+    "notes": ""
+  },
+  {
+    "term": "Hybrid Cloud",
+    "definition": "",
+    "source_anchor": "hybrid-cloud",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Information Security Management System (ISMS)",
+    "definition": "",
+    "source_anchor": "information-security-management-system-isms",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Infrastructure as a Service (IaaS)",
+    "definition": "",
+    "source_anchor": "infrastructure-as-a-service-iaas",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Inherited from Pre-existing Authorization",
+    "definition": "A control that is inherited from another CSP that has already received an Authorization",
+    "source_anchor": "inherited-from-pre-existing-authorization",
+    "notes": ""
+  },
+  {
+    "term": "Interoperability",
+    "definition": "",
+    "source_anchor": "interoperability",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "ISO 27001",
+    "definition": "A specification for an information security management system (ISMS)",
+    "source_anchor": "iso-27001",
+    "notes": ""
+  },
+  {
+    "term": "Joint Authorization Board (JAB)",
+    "definition": "Consists of the DOD, GSA, and DHS CIOs - Legacy Term",
+    "source_anchor": "joint-authorization-board-jab",
+    "notes": ""
+  },
+  {
+    "term": "Joint Authorization Board (JAB) Provisional Authority to Operate (P-ATO)",
+    "definition": "A FedRAMP Provisional Authority to Operate issued by the JAB - Legacy Term",
+    "source_anchor": "joint-authorization-board-jab-provisional-authority-to-operate-p-ato",
+    "notes": ""
+  },
+  {
+    "term": "JavaScript Object Notation",
+    "definition": "",
+    "source_anchor": "javascript-object-notation",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Media Access Control (MAC) Address",
+    "definition": "",
+    "source_anchor": "media-access-control-mac-address",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Metering",
+    "definition": "Provides a measuring capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts)",
+    "source_anchor": "metering",
+    "notes": ""
+  },
+  {
+    "term": "Mobile Endpoints",
+    "definition": "A physical device, often carried by the user that provided a man/machine interface to cloud services and applications. A Mobile Endpoint may use multiple methods and protocols to connect to cloud services and applications.",
+    "source_anchor": "mobile-endpoints",
+    "notes": ""
+  },
+  {
+    "term": "Monitoring and Reporting",
+    "definition": "Discovering and monitoring the virtual resources, monitoring cloud operations and events, and generating performance reports",
+    "source_anchor": "monitoring-and-reporting",
+    "notes": ""
+  },
+  {
+    "term": "Network Basic Input/Output System (NetBIOS)",
+    "definition": "Provides services related to the session layer of the OSI model, allowing applications on separate computers to communicate over a local area network. As strictly an API, NetBIOS is not a networking protocol.",
+    "source_anchor": "network-basic-input-output-system-netbios",
+    "notes": ""
+  },
+  {
+    "term": "NSO",
+    "definition": "One of six categories for FedRAMP Tailored LI-SaaS controls; NSO means FedRAMP has determined the control does not impact the security of the Cloud SaaS.",
+    "source_anchor": "nso",
+    "notes": ""
+  },
+  {
+    "term": "OTG-SESS-006",
+    "definition": "Testing for logout functionality (OWASP)",
+    "source_anchor": "otg-sess-006",
+    "notes": ""
+  },
+  {
+    "term": "Performance Audit",
+    "definition": "Systematic evaluation of a cloud system by measuring how well it conforms to a set of established performance criteria",
+    "source_anchor": "performance-audit",
+    "notes": ""
+  },
+  {
+    "term": "Physical Resource Layer",
+    "definition": "Includes all the physical resources used to provide cloud services, most notably the hardware and the facility",
+    "source_anchor": "physical-resource-layer",
+    "notes": ""
+  },
+  {
+    "term": "Platform as a Service (PaaS)",
+    "definition": "",
+    "source_anchor": "platform-as-a-service-paas",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Portability",
+    "definition": "The ability to transfer data from one system to another without being required to recreate or re-enter data descriptions or to modify significantly the application being transported\nThe ability of a system or software to run on more than one type or size of computer under more than one operating system.\nOf equipment, the quality of being able to function normally while being conveyed",
+    "source_anchor": "portability",
+    "notes": ""
+  },
+  {
+    "term": "Privacy",
+    "definition": "",
+    "source_anchor": "privacy",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Privacy-Impact Audit",
+    "definition": "Systematic evaluation of a cloud system by measuring how well it conforms to a set of established privacy-impact criteria",
+    "source_anchor": "privacy-impact-audit",
+    "notes": ""
+  },
+  {
+    "term": "Private Cloud",
+    "definition": "",
+    "source_anchor": "private-cloud",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Provided by Customer",
+    "definition": "A control where the customer needs to provide additional hardware or software in order to meet the control requirement",
+    "source_anchor": "provided-by-customer",
+    "notes": ""
+  },
+  {
+    "term": "Provisioning/ Configuration",
+    "definition": "The process of preparing and equipping a cloud to allow it to provide services to its users",
+    "source_anchor": "provisioning-configuration",
+    "notes": ""
+  },
+  {
+    "term": "Public Cloud",
+    "definition": "",
+    "source_anchor": "public-cloud",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Rapid Provisioning",
+    "definition": "Automatically deploying cloud system based on the requested service/resources/capabilities",
+    "source_anchor": "rapid-provisioning",
+    "notes": ""
+  },
+  {
+    "term": "Resource Abstraction and Control Layer",
+    "definition": "Entails software elements, such as hypervisor, virtual machines, virtual data storage, and supporting software components, used to realize the infrastructure upon which a cloud service can be established",
+    "source_anchor": "resource-abstraction-and-control-layer",
+    "notes": ""
+  },
+  {
+    "term": "Resource Change",
+    "definition": "Adjusting configuration/resource assignment for repairs, upgrades, and joining new nodes into the cloud",
+    "source_anchor": "resource-change",
+    "notes": ""
+  },
+  {
+    "term": "Software as a Service (SaaS)",
+    "definition": "",
+    "source_anchor": "software-as-a-service-saas",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Security",
+    "definition": "Refers to information security. \"Information security\" means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction.",
+    "source_anchor": "security",
+    "notes": ""
+  },
+  {
+    "term": "Security Audit",
+    "definition": "",
+    "source_anchor": "security-audit",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Service Aggregation",
+    "definition": "An aggregation brokerage service combines multiple services into one or more new services. It will ensure that data is modeled across all component services and integrated as well as ensuring the movement and security of data between the service consumer and multiple providers.",
+    "source_anchor": "service-aggregation",
+    "notes": ""
+  },
+  {
+    "term": "Service Arbitrage",
+    "definition": "Cloud service arbitrage is similar to cloud service aggregation. The difference between them is that the services being aggregated are not fixed. Indeed the goal of arbitrage is to provide flexibility and opportunistic choices for the service aggregator, e.g., providing multiple email services through one service provider or providing a credit-scoring service that checks multiple scoring agencies and selects the best score.",
+    "source_anchor": "service-arbitrage",
+    "notes": ""
+  },
+  {
+    "term": "Service Consumption",
+    "definition": "A Cloud Broker in the act of using a Cloud Service",
+    "source_anchor": "service-consumption",
+    "notes": ""
+  },
+  {
+    "term": "Service Deployment",
+    "definition": "All of the activities and organization needed to make a cloud service available",
+    "source_anchor": "service-deployment",
+    "notes": ""
+  },
+  {
+    "term": "Service Intermediation",
+    "definition": "An intermediation broker provides a service that directly enhances a given service delivered to one or more service consumers, essentially adding value on top of a given service to enhance some specific capability.",
+    "source_anchor": "service-intermediation",
+    "notes": ""
+  },
+  {
+    "term": "Service Provider Corporate",
+    "definition": "A control that originates from the CSP’s corporate network",
+    "source_anchor": "service-provider-corporate",
+    "notes": ""
+  },
+  {
+    "term": "Service Provider Hybrid",
+    "definition": "A control that makes use of both corporate controls and additional controls to a particular system at the CSP",
+    "source_anchor": "service-provider-hybrid",
+    "notes": ""
+  },
+  {
+    "term": "Service Provider System Specific",
+    "definition": "A control specific to a particular system when the control is not part of the service provider corporate controls",
+    "source_anchor": "service-provider-system-specific",
+    "notes": ""
+  },
+  {
+    "term": "Shared",
+    "definition": "A control that is partially implemented by the CSP and partially by the customer",
+    "source_anchor": "shared",
+    "notes": ""
+  },
+  {
+    "term": "SOC 2",
+    "definition": "Developed by the American Institute of CPAs (AICPA), the SOC 2 framework includes five key sections, forming a set of criteria called the Trust Services Principles. These include:\n1. The security of the service provider’s system\n2. The processing integrity of this system\n3. The availability of this system\n4. The privacy of personal information that the service provider collects, retains, uses, discloses and disposes of for user entities\n5. The confidentiality of the information that the service provider’s system processes or maintains for user entities",
+    "source_anchor": "soc-2",
+    "notes": ""
+  },
+  {
+    "term": "Stratum-1 Time Server",
+    "definition": "A Stratum-1 Network Time Protocol (NTP) server has a direct connection to a hardware (Stratum-0) clock and is a primary network time server. Lower stratum servers reference a server in the stratum above. Stratum indicates the distance of a time server from the source reference clock.",
+    "source_anchor": "stratum-1-time-server",
+    "notes": ""
+  },
+  {
+    "term": "Support Team",
+    "definition": "The FedRAMP Support Team is the group of individuals that responds to info@fedramp.gov",
+    "source_anchor": "support-team",
+    "notes": ""
+  },
+  {
+    "term": "Threat",
+    "definition": "",
+    "source_anchor": "threat",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Threat Actor",
+    "definition": "",
+    "source_anchor": "threat-actor",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Threat Agent",
+    "definition": "",
+    "source_anchor": "threat-agent",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Validation and Verification",
+    "definition": "",
+    "source_anchor": "validation-and-verification",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  },
+  {
+    "term": "Vulnerability",
+    "definition": "",
+    "source_anchor": "vulnerability",
+    "notes": "see NIST Glossary (https://csrc.nist.gov/glossary)"
+  }
+]
