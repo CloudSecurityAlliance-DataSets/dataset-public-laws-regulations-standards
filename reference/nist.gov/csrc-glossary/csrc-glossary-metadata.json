@@ -1,12 +1,12 @@
 {
   "secid": "secid:reference/nist.gov/csrc-glossary",
-  "name": "NIST Computer Security Resource Center (CSRC) Glossary — consolidated terminology from NIST cybersecurity publications",
+  "name": "NIST Computer Security Resource Center (CSRC) Glossary \u2014 consolidated terminology from NIST cybersecurity publications",
   "acronym": "",
   "version": "",
   "publication_id": "",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Reference",
-  "description": "NIST Computer Security Resource Center (CSRC) Glossary — consolidated terminology from NIST cybersecurity publications",
+  "description": "NIST Computer Security Resource Center (CSRC) Glossary \u2014 consolidated terminology from NIST cybersecurity publications",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
@@ -40,5 +40,8 @@
     "force_ocr": null,
     "notes": "Metadata-only entry; markdown extraction pending."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "subtype": [
+    "glossary"
+  ]
 }

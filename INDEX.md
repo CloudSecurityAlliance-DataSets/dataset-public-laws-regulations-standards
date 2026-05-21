@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 333
+**Total documents indexed:** 472
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 60 | 105 | 41 | — | — | **206** |
+| `control/` | 60 | 1 | 41 | — | — | **102** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
-| `methodology/` | — | 6 | — | — | — | **6** |
-| `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **111** | **128** | **84** | **4** | **6** | **333** |
+| `methodology/` | — | 9 | — | — | — | **9** |
+| `reference/` | 4 | 114 | 150 | 4 | 6 | **278** |
+| **Total** | **111** | **127** | **224** | **4** | **6** | **472** |
 
 ## control/
 
@@ -56,62 +56,25 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/equifax.com/controls-framework/` | metadata-only | 2 | `M······` | `secid:control/equifax.com/controls-framework` |
 | `control/europa.eu/altai/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/altai` |
 | `control/europa.eu/ethics-guidelines/` | metadata-only | 2 | `M······` | `secid:control/europa.eu/ethics-guidelines` |
-| `control/fedramp.gov/3pao-obligations-and-performance-standards/` | extracted | 21 (+18 imgs) | `MX····I` | `secid:control/fedramp.gov/3pao-obligations-and-performance-standards` |
-| `control/fedramp.gov/3pao-readiness-assessment-report-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:control/fedramp.gov/3pao-readiness-assessment-report-guide` |
-| `control/fedramp.gov/agency-authorization-playbook/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:control/fedramp.gov/agency-authorization-playbook` |
-| `control/fedramp.gov/agency-package-request-form/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/fedramp.gov/agency-package-request-form` |
-| `control/fedramp.gov/csp-a-fedramp-authorization-boundary-guidance/` | extracted | 13 (+10 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-a-fedramp-authorization-boundary-guidance` |
 | `control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet/` | structured | 9 | `M··C···` | `secid:control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet` |
-| `control/fedramp.gov/csp-annual-assessment-guidance/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-annual-assessment-guidance` |
-| `control/fedramp.gov/csp-authorization-playbook/` | extracted | 51 (+48 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-authorization-playbook` |
-| `control/fedramp.gov/csp-automated-vulnerability-risk-adjustment-framework/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-automated-vulnerability-risk-adjustment-framework` |
-| `control/fedramp.gov/csp-continuous-monitoring-performance-management-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-continuous-monitoring-performance-management-guide` |
-| `control/fedramp.gov/csp-continuous-monitoring-strategy-guide/` | extracted | 8 (+5 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-continuous-monitoring-strategy-guide` |
-| `control/fedramp.gov/csp-incident-communications-procedures/` | extracted | 15 (+12 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-incident-communications-procedures` |
-| `control/fedramp.gov/csp-jab-p-ato-roles-and-responsibilites/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-jab-p-ato-roles-and-responsibilites` |
-| `control/fedramp.gov/csp-penetration-test-guidance/` | extracted | 26 (+23 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-penetration-test-guidance` |
-| `control/fedramp.gov/csp-poam-template-completion-guide/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-poam-template-completion-guide` |
-| `control/fedramp.gov/csp-significant-change-policies-and-procedures/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/csp-significant-change-policies-and-procedures` |
-| `control/fedramp.gov/csp-timeliness-and-accuracy-of-testing-requirements/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-timeliness-and-accuracy-of-testing-requirements` |
-| `control/fedramp.gov/csp-vulnerability-scan-requirements-using-sampling/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-vulnerability-scan-requirements-using-sampling` |
-| `control/fedramp.gov/csp-vulnerability-scanning-requirements/` | extracted | 14 (+11 imgs) | `MX····I` | `secid:control/fedramp.gov/csp-vulnerability-scanning-requirements` |
-| `control/fedramp.gov/fedramp-ato-letter-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-ato-letter-template` |
-| `control/fedramp.gov/fedramp-branding-guidance/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-branding-guidance` |
-| `control/fedramp.gov/fedramp-collaborative-conmon-quick-guide/` | extracted | 8 (+5 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-collaborative-conmon-quick-guide` |
 | `control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template/` | structured | 4 | `M··C···` | `secid:control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template` |
-| `control/fedramp.gov/fedramp-general-document-acceptance-criteria/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-general-document-acceptance-criteria` |
 | `control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4/` | structured | 6 | `M··C···` | `secid:control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4` |
-| `control/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)` |
-| `control/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template` |
 | `control/fedramp.gov/fedramp-initial-authorization-package-checklist/` | structured | 3 | `M··C···` | `secid:control/fedramp.gov/fedramp-initial-authorization-package-checklist` |
 | `control/fedramp.gov/fedramp-laws-regulations-standards-and-guidance-reference/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/fedramp-laws-regulations-standards-and-guidance-reference` |
-| `control/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template` |
-| `control/fedramp.gov/fedramp-new-cso-or-feature-onboarding-request-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-new-cso-or-feature-onboarding-request-template` |
 | `control/fedramp.gov/fedramp-poam-template/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/fedramp-poam-template` |
-| `control/fedramp.gov/fedramp-policy-memo/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-policy-memo` |
 | `control/fedramp.gov/fedramp-rev-4-to-rev-5-assessment-controls-selection-template/` | structured | 10 | `M··C···` | `secid:control/fedramp.gov/fedramp-rev-4-to-rev-5-assessment-controls-selection-template` |
 | `control/fedramp.gov/fedramp-sar-appendix-b-high-security-requirements-traceability-matrix-template/` | structured | 23 | `M··C···` | `secid:control/fedramp.gov/fedramp-sar-appendix-b-high-security-requirements-traceability-matrix-template` |
 | `control/fedramp.gov/fedramp-sar-appendix-b-low-security-requirements-traceability-matrix-template/` | structured | 23 | `M··C···` | `secid:control/fedramp.gov/fedramp-sar-appendix-b-low-security-requirements-traceability-matrix-template` |
 | `control/fedramp.gov/fedramp-sar-appendix-b-moderate-security-requirements-traceability-matrix-template/` | structured | 23 | `M··C···` | `secid:control/fedramp.gov/fedramp-sar-appendix-b-moderate-security-requirements-traceability-matrix-template` |
-| `control/fedramp.gov/fedramp-security-assessment-plan-(sap)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-security-assessment-plan-(sap)-template` |
-| `control/fedramp.gov/fedramp-security-assessment-report-(sar)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/fedramp-security-assessment-report-(sar)-template` |
 | `control/fedramp.gov/fedramp-security-controls-baseline/` | structured | 7 | `M··C···` | `secid:control/fedramp.gov/fedramp-security-controls-baseline` |
-| `control/fedramp.gov/fedramp-significant-change-form-template/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-significant-change-form-template` |
-| `control/fedramp.gov/fedramp-subnets-white-paper/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:control/fedramp.gov/fedramp-subnets-white-paper` |
 | `control/fedramp.gov/fedramp-vulnerability-deviation-request-form/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/fedramp-vulnerability-deviation-request-form` |
-| `control/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide` |
 | `control/fedramp.gov/sar-appendix-a-fedramp-risk-exposure-table-(ret)-template/` | structured | 5 | `M··C···` | `secid:control/fedramp.gov/sar-appendix-a-fedramp-risk-exposure-table-(ret)-template` |
 | `control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-high-fedramp-security-controls` |
 | `control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls/` | extracted | 3 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-a-li-saas-fedramp-security-controls` |
 | `control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-low-fedramp-security-controls` |
 | `control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls/` | structured | 5 | `MX·CS··` | `secid:control/fedramp.gov/ssp-appendix-a-moderate-fedramp-security-controls` |
-| `control/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template` |
-| `control/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template` |
 | `control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook/` | structured | 13 | `M··C···` | `secid:control/fedramp.gov/ssp-appendix-j-cso-cis-and-crm-workbook` |
 | `control/fedramp.gov/ssp-appendix-m-integrated-inventory-workbook-template/` | structured | 4 | `M··C···` | `secid:control/fedramp.gov/ssp-appendix-m-integrated-inventory-workbook-template` |
-| `control/fedramp.gov/ssp-appendix-q-cryptographic-modules-table/` | extracted | 2 | `MX·····` | `secid:control/fedramp.gov/ssp-appendix-q-cryptographic-modules-table` |
-| `control/fedramp.gov/threat-based-risk-profiling-methodology/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:control/fedramp.gov/threat-based-risk-profiling-methodology` |
-| `control/fedramp.gov/vulnerability-scanning-requirements-for-containers/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/fedramp.gov/vulnerability-scanning-requirements-for-containers` |
 | `control/google.com/cloud-architecture-framework/` | metadata-only | 2 | `M······` | `secid:control/google.com/cloud-architecture-framework` |
 | `control/google.com/frontier-safety/` | metadata-only | 2 | `M······` | `secid:control/google.com/frontier-safety` |
 | `control/google.com/saif/` | metadata-only | 2 | `M······` | `secid:control/google.com/saif` |
@@ -131,99 +94,32 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mlcommons.org/ai-safety/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/ai-safety` |
 | `control/mlcommons.org/croissant/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/croissant` |
 | `control/mlcommons.org/mlperf/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/mlperf` |
-| `control/nist.gov/1800-13/` | extracted | 172 (+169 imgs) | `MX····I` | `secid:control/nist.gov/1800-13` |
-| `control/nist.gov/1800-26/` | extracted | 748 (+745 imgs) | `MX····I` | `secid:control/nist.gov/1800-26` |
-| `control/nist.gov/800-100/` | extracted | 35 (+30 imgs) | `MX····I` | `secid:control/nist.gov/800-100` |
-| `control/nist.gov/800-111/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-111` |
-| `control/nist.gov/800-115/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-115` |
-| `control/nist.gov/800-12/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-12` |
-| `control/nist.gov/800-122/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-122` |
-| `control/nist.gov/800-124/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:control/nist.gov/800-124` |
-| `control/nist.gov/800-125/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-125` |
-| `control/nist.gov/800-126/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:control/nist.gov/800-126` |
-| `control/nist.gov/800-128/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:control/nist.gov/800-128` |
-| `control/nist.gov/800-131a/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-131a` |
-| `control/nist.gov/800-137/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-137` |
-| `control/nist.gov/800-145/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-145` |
-| `control/nist.gov/800-146/` | extracted | 25 (+20 imgs) | `MX····I` | `secid:control/nist.gov/800-146` |
-| `control/nist.gov/800-150/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-150` |
-| `control/nist.gov/800-153/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-153` |
 | `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
-| `control/nist.gov/800-160-v2/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-160-v2` |
 | `control/nist.gov/800-161/r1/` | structured | 25 (+19 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-161@r1` |
-| `control/nist.gov/800-167/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-167` |
 | `control/nist.gov/800-171/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-171` |
 | `control/nist.gov/800-172/` | structured | 12 (+4 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-172` |
-| `control/nist.gov/800-177/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-177` |
-| `control/nist.gov/800-181/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-181` |
-| `control/nist.gov/800-184/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-184` |
-| `control/nist.gov/800-188/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-188` |
-| `control/nist.gov/800-190/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:control/nist.gov/800-190` |
-| `control/nist.gov/800-201/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-201` |
-| `control/nist.gov/800-204/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-204` |
 | `control/nist.gov/800-207/` | structured | 23 (+15 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-207` |
-| `control/nist.gov/800-209/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-209` |
-| `control/nist.gov/800-210/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-210` |
-| `control/nist.gov/800-213/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:control/nist.gov/800-213` |
 | `control/nist.gov/800-213a/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-213a` |
-| `control/nist.gov/800-216/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-216` |
 | `control/nist.gov/800-218/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218` |
 | `control/nist.gov/800-218a/` | structured | 9 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218a` |
-| `control/nist.gov/800-219/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-219` |
-| `control/nist.gov/800-221/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-221` |
 | `control/nist.gov/800-222/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-222` |
-| `control/nist.gov/800-223/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-223` |
-| `control/nist.gov/800-224/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-224` |
-| `control/nist.gov/800-226/ipd/` | extracted | 37 (+34 imgs) | `MX····I` | `secid:control/nist.gov/800-226@ipd` |
-| `control/nist.gov/800-227/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:control/nist.gov/800-227` |
-| `control/nist.gov/800-30/r1/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-30@r1` |
-| `control/nist.gov/800-34/r1/` | extracted | 14 (+11 imgs) | `MX····I` | `secid:control/nist.gov/800-34@r1` |
 | `control/nist.gov/800-37/r2/` | structured | 13 (+7 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-37@r2` |
-| `control/nist.gov/800-39/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-39` |
-| `control/nist.gov/800-40/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-40` |
-| `control/nist.gov/800-46/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-46` |
-| `control/nist.gov/800-52/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-52` |
 | `control/nist.gov/800-53/r5/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-53@r5` |
 | `control/nist.gov/800-53a/r5/` | structured | 7 | `M··CSP·` | `secid:control/nist.gov/800-53a@r5` |
 | `control/nist.gov/800-53b/r5/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-53b@r5` |
-| `control/nist.gov/800-57-pt1/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-57-pt1` |
-| `control/nist.gov/800-57-pt2/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-57-pt2` |
-| `control/nist.gov/800-57-pt3/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-57-pt3` |
-| `control/nist.gov/800-61/r2/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-61@r2` |
-| `control/nist.gov/800-63/3/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-63@3` |
 | `control/nist.gov/800-63a/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63a` |
 | `control/nist.gov/800-63b/` | structured | 18 (+11 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63b` |
 | `control/nist.gov/800-63c/` | structured | 17 (+10 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63c` |
 | `control/nist.gov/800-66/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-66` |
-| `control/nist.gov/800-77/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:control/nist.gov/800-77` |
 | `control/nist.gov/800-82/r3/` | structured | 32 (+25 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-82@r3` |
-| `control/nist.gov/800-83/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-83` |
-| `control/nist.gov/800-84/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:control/nist.gov/800-84` |
-| `control/nist.gov/800-86/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-86` |
-| `control/nist.gov/800-88/r1/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-88@r1` |
-| `control/nist.gov/800-92/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:control/nist.gov/800-92` |
-| `control/nist.gov/800-94/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-94` |
-| `control/nist.gov/ai-100-4/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:control/nist.gov/ai-100-4` |
 | `control/nist.gov/ai-600-1/1.0/` | structured | 13 (+3 imgs) | `MXJCSPI` | `secid:control/nist.gov/ai-600-1@1.0` |
 | `control/nist.gov/ai-rmf/1.0/` | structured | 20 (+14 imgs) | `MX·CSPI` | `secid:control/nist.gov/ai-rmf@1.0` |
 | `control/nist.gov/csf/1.1/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@1.1` |
 | `control/nist.gov/csf/2.0/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@2.0` |
-| `control/nist.gov/fips-140/2/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@2` |
-| `control/nist.gov/fips-140/3/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@3` |
-| `control/nist.gov/fips-180/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-180` |
-| `control/nist.gov/fips-186/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/fips-186` |
-| `control/nist.gov/fips-197/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-197` |
-| `control/nist.gov/fips-198/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-198` |
 | `control/nist.gov/fips-199/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
-| `control/nist.gov/fips-201/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:control/nist.gov/fips-201` |
-| `control/nist.gov/fips-202/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-202` |
-| `control/nist.gov/fips-203/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/fips-203` |
-| `control/nist.gov/fips-204/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-204` |
-| `control/nist.gov/fips-205/` | extracted | 18 (+13 imgs) | `MX····I` | `secid:control/nist.gov/fips-205` |
 | `control/nist.gov/privacy-framework/` | structured | 17 (+9 imgs) | `MX·CSPI` | `secid:control/nist.gov/privacy-framework` |
 | `control/openai.com/model-spec/` | metadata-only | 2 | `M······` | `secid:control/openai.com/model-spec` |
-| `control/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:control/openai.com/preparedness` |
 | `control/openai.com/red-teaming/` | metadata-only | 2 | `M······` | `secid:control/openai.com/red-teaming` |
 | `control/openai.com/system-cards/` | metadata-only | 2 | `M······` | `secid:control/openai.com/system-cards` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
@@ -341,6 +237,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `methodology/fedramp.gov/threat-based-risk-profiling-methodology/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:methodology/fedramp.gov/threat-based-risk-profiling-methodology` |
+| `methodology/nist.gov/800-30/r1/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:methodology/nist.gov/800-30@r1` |
+| `methodology/nist.gov/800-39/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/800-39` |
 | `methodology/nist.gov/ai-100-2/e2023/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:methodology/nist.gov/ai-100-2@e2023` |
 | `methodology/nist.gov/cswp-30/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-30` |
 | `methodology/nist.gov/cswp-31/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-31` |
@@ -352,27 +251,214 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `reference/agid.gov.it/cert-agid-glossario/` | metadata-only | 1 | `M······` | `secid:reference/agid.gov.it/cert-agid-glossario` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
+| `reference/amazon.com/wellarchitected-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
+| `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
+| `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
+| `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
+| `reference/beyondtrust.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
+| `reference/bimco.org/cyber-security-onboard-ships-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bimco.org/cyber-security-onboard-ships-glossary` |
+| `reference/bitdefender.com/infozone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitdefender.com/infozone-glossary` |
+| `reference/bitsight.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitsight.com/cybersecurity-glossary` |
+| `reference/blackberry.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackberry.com/cybersecurity-glossary` |
+| `reference/blackduck.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackduck.com/application-security-glossary` |
+| `reference/broadcom.com/enterprise-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/broadcom.com/enterprise-security-glossary` |
+| `reference/bsi.bund.de/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsi.bund.de/glossary` |
+| `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
+| `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
+| `reference/ca.gov/sam-5300-definitions/` | metadata-only | 1 | `M······` | `secid:reference/ca.gov/sam-5300-definitions` |
+| `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
+| `reference/catonetworks.com/it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/catonetworks.com/it-security-glossary` |
+| `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
+| `reference/checkmk.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmk.com/glossary` |
+| `reference/checkpoint.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkpoint.com/cybersecurity-glossary` |
 | `reference/cisa.gov/cpg/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/cpg` |
 | `reference/cisa.gov/govcar/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/govcar` |
 | `reference/cisa.gov/kev/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/kev` |
+| `reference/cisa.gov/niccs-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisa.gov/niccs-glossary` |
 | `reference/cisa.gov/scuba/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/scuba` |
+| `reference/cisco.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisco.com/security-glossary` |
+| `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
 | `reference/cisecurity.org/oval/` | metadata-only | 2 | `M······` | `secid:reference/cisecurity.org/oval` |
+| `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
+| `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
+| `reference/cloudsecurityalliance.org/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
+| `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
+| `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
+| `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
+| `reference/ct.gov/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ct.gov/cybersecurity-glossary` |
+| `reference/cve.org/cve-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cve.org/cve-glossary` |
+| `reference/cyberark.com/cyberark-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cyberark.com/cyberark-glossary` |
+| `reference/cybersecurityworks.com/csw-cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cybersecurityworks.com/csw-cyber-security-glossary` |
+| `reference/debian.org/debian-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/debian.org/debian-security-glossary` |
+| `reference/devolutions.net/devolutions-it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/devolutions.net/devolutions-it-security-glossary` |
+| `reference/dragos.com/dragos-ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/dragos.com/dragos-ot-cybersecurity-glossary` |
+| `reference/enisa.europa.eu/enisa-glossary/` | metadata-only | 1 | `M······` | `secid:reference/enisa.europa.eu/enisa-glossary` |
 | `reference/equifax.com/security-guidance/` | structured | 6 | `M··CS··` | `secid:reference/equifax.com/security-guidance` |
+| `reference/eset.com/eset-glossary/` | metadata-only | 1 | `M······` | `secid:reference/eset.com/eset-glossary` |
+| `reference/f5.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/f5.com/cybersecurity-glossary` |
+| `reference/fedramp.gov/3pao-obligations-and-performance-standards/` | extracted | 21 (+18 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-obligations-and-performance-standards` |
+| `reference/fedramp.gov/3pao-readiness-assessment-report-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-readiness-assessment-report-guide` |
+| `reference/fedramp.gov/agency-authorization-playbook/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:reference/fedramp.gov/agency-authorization-playbook` |
+| `reference/fedramp.gov/agency-package-request-form/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:reference/fedramp.gov/agency-package-request-form` |
+| `reference/fedramp.gov/csp-a-fedramp-authorization-boundary-guidance/` | extracted | 13 (+10 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-a-fedramp-authorization-boundary-guidance` |
+| `reference/fedramp.gov/csp-annual-assessment-guidance/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-annual-assessment-guidance` |
+| `reference/fedramp.gov/csp-authorization-playbook/` | extracted | 51 (+48 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-authorization-playbook` |
+| `reference/fedramp.gov/csp-automated-vulnerability-risk-adjustment-framework/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-automated-vulnerability-risk-adjustment-framework` |
+| `reference/fedramp.gov/csp-continuous-monitoring-performance-management-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-continuous-monitoring-performance-management-guide` |
+| `reference/fedramp.gov/csp-continuous-monitoring-strategy-guide/` | extracted | 8 (+5 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-continuous-monitoring-strategy-guide` |
+| `reference/fedramp.gov/csp-incident-communications-procedures/` | extracted | 15 (+12 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-incident-communications-procedures` |
+| `reference/fedramp.gov/csp-jab-p-ato-roles-and-responsibilites/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-jab-p-ato-roles-and-responsibilites` |
+| `reference/fedramp.gov/csp-penetration-test-guidance/` | extracted | 26 (+23 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-penetration-test-guidance` |
+| `reference/fedramp.gov/csp-poam-template-completion-guide/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-poam-template-completion-guide` |
+| `reference/fedramp.gov/csp-significant-change-policies-and-procedures/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/csp-significant-change-policies-and-procedures` |
+| `reference/fedramp.gov/csp-timeliness-and-accuracy-of-testing-requirements/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-timeliness-and-accuracy-of-testing-requirements` |
+| `reference/fedramp.gov/csp-vulnerability-scan-requirements-using-sampling/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-vulnerability-scan-requirements-using-sampling` |
+| `reference/fedramp.gov/csp-vulnerability-scanning-requirements/` | extracted | 14 (+11 imgs) | `MX····I` | `secid:reference/fedramp.gov/csp-vulnerability-scanning-requirements` |
+| `reference/fedramp.gov/fedramp-ato-letter-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-ato-letter-template` |
+| `reference/fedramp.gov/fedramp-branding-guidance/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-branding-guidance` |
+| `reference/fedramp.gov/fedramp-collaborative-conmon-quick-guide/` | extracted | 8 (+5 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-collaborative-conmon-quick-guide` |
+| `reference/fedramp.gov/fedramp-general-document-acceptance-criteria/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-general-document-acceptance-criteria` |
+| `reference/fedramp.gov/fedramp-glossary/` | metadata-only | 1 | `M······` | `secid:reference/fedramp.gov/fedramp-glossary` |
+| `reference/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)` |
+| `reference/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template` |
+| `reference/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template` |
+| `reference/fedramp.gov/fedramp-new-cso-or-feature-onboarding-request-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-new-cso-or-feature-onboarding-request-template` |
+| `reference/fedramp.gov/fedramp-policy-memo/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-policy-memo` |
+| `reference/fedramp.gov/fedramp-security-assessment-plan-(sap)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-security-assessment-plan-(sap)-template` |
+| `reference/fedramp.gov/fedramp-security-assessment-report-(sar)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-security-assessment-report-(sar)-template` |
+| `reference/fedramp.gov/fedramp-significant-change-form-template/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-significant-change-form-template` |
+| `reference/fedramp.gov/fedramp-subnets-white-paper/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-subnets-white-paper` |
+| `reference/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/fedramp.gov/reusing-authorizations-for-cloud-products-quick-guide` |
+| `reference/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/ssp-appendix-f-rules-of-behavior-(rob)-template` |
+| `reference/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template` |
+| `reference/fedramp.gov/ssp-appendix-q-cryptographic-modules-table/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/ssp-appendix-q-cryptographic-modules-table` |
+| `reference/fedramp.gov/vulnerability-scanning-requirements-for-containers/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/fedramp.gov/vulnerability-scanning-requirements-for-containers` |
+| `reference/fidelissecurity.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/fidelissecurity.com/cybersecurity-glossary` |
+| `reference/first.org/cti-sig-glossary/` | metadata-only | 1 | `M······` | `secid:reference/first.org/cti-sig-glossary` |
+| `reference/flexerasoftware.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/flexerasoftware.com/cybersecurity-glossary` |
+| `reference/forcepoint.com/cyber-edu-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forcepoint.com/cyber-edu-glossary` |
+| `reference/forescout.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forescout.com/cybersecurity-glossary` |
+| `reference/fortinet.com/cyberglossary/` | metadata-only | 1 | `M······` | `secid:reference/fortinet.com/cyberglossary` |
 | `reference/github.com/advisory-database/` | readme-only | 1 | `·······` | — |
+| `reference/gitlab.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gitlab.com/security-glossary` |
 | `reference/google.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/google.com/security-guidance/` | empty | 0 | `·······` | — |
+| `reference/google.com/security-operations-glossary/` | metadata-only | 1 | `M······` | `secid:reference/google.com/security-operations-glossary` |
+| `reference/gov.bc.ca/infosec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.bc.ca/infosec-glossary` |
+| `reference/gov.br/glossario-seguranca-informacao/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/glossario-seguranca-informacao` |
+| `reference/gov.uk/ncsc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.uk/ncsc-glossary` |
+| `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
+| `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
+| `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
+| `reference/hitrustalliance.net/glossary-of-terms-and-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/hitrustalliance.net/glossary-of-terms-and-acronyms` |
+| `reference/huntresslabs.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/huntresslabs.com/cybersecurity-101-glossary` |
+| `reference/hypr.com/security-encyclopedia/` | metadata-only | 1 | `M······` | `secid:reference/hypr.com/security-encyclopedia` |
 | `reference/ibm.com/security-guidance/` | structured | 9 | `M··CS··` | `secid:reference/ibm.com/security-guidance` |
+| `reference/ibm.com/security-terminology/` | metadata-only | 1 | `M······` | `secid:reference/ibm.com/security-terminology` |
+| `reference/iec.ch/iec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iec.ch/iec-glossary` |
+| `reference/ietf.org/rfc4949-internet-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ietf.org/rfc4949-internet-security-glossary` |
+| `reference/illumio.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/illumio.com/cybersecurity-101-glossary` |
+| `reference/incibe.es/glosario-terminos-ciberseguridad/` | metadata-only | 1 | `M······` | `secid:reference/incibe.es/glosario-terminos-ciberseguridad` |
+| `reference/intel.com/software-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/intel.com/software-security-glossary` |
+| `reference/isaca.org/cybersecurity-fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/isaca.org/cybersecurity-fundamentals-glossary` |
+| `reference/itu.int/cybex-x.1500/` | metadata-only | 1 | `M······` | `secid:reference/itu.int/cybex-x.1500` |
+| `reference/ivanti.com/ivanti-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ivanti.com/ivanti-glossary` |
+| `reference/jamf.com/jamf-platform-glossary/` | metadata-only | 1 | `M······` | `secid:reference/jamf.com/jamf-platform-glossary` |
+| `reference/juniper.net/juniper-glossary/` | metadata-only | 1 | `M······` | `secid:reference/juniper.net/juniper-glossary` |
+| `reference/jupiterone.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/jupiterone.com/cybersecurity-glossary` |
+| `reference/kaspersky.com/it-encyclopedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/kaspersky.com/it-encyclopedia-glossary` |
+| `reference/keepersecurity.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/keepersecurity.com/iam-glossary` |
+| `reference/kubernetes.io/kubernetes-glossary/` | metadata-only | 1 | `M······` | `secid:reference/kubernetes.io/kubernetes-glossary` |
+| `reference/legifrance.gouv.fr/vocabulaire-cyberdefense/` | metadata-only | 1 | `M······` | `secid:reference/legifrance.gouv.fr/vocabulaire-cyberdefense` |
+| `reference/maryland.gov/cybersecurity-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/maryland.gov/cybersecurity-privacy-glossary` |
+| `reference/metacpan.org/cpansec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/metacpan.org/cpansec-glossary` |
+| `reference/microsoft.com/msrc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/microsoft.com/msrc-glossary` |
 | `reference/microsoft.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/mit.edu/ai-risk-repository/` | structured | 13 | `M··C···` | `secid:reference/mit.edu/ai-risk-repository` |
+| `reference/mit.edu/infoprotect-definitions/` | metadata-only | 1 | `M······` | `secid:reference/mit.edu/infoprotect-definitions` |
 | `reference/mitre.org/ctid/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/ctid` |
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
+| `reference/mitre.org/cwe-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mitre.org/cwe-glossary` |
+| `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
+| `reference/mt.gov/mom-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mt.gov/mom-security-glossary` |
+| `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | metadata-only | 1 | `M······` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
+| `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
+| `reference/ncsc.fi/ncsc-fi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
+| `reference/ncsc.nl/cybersecurity-woordenboek/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.nl/cybersecurity-woordenboek` |
+| `reference/netapp.com/netapp-glossary/` | metadata-only | 1 | `M······` | `secid:reference/netapp.com/netapp-glossary` |
+| `reference/netskope.com/security-defined/` | metadata-only | 1 | `M······` | `secid:reference/netskope.com/security-defined` |
+| `reference/nfpa.org/nfpa-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nfpa.org/nfpa-glossary` |
+| `reference/nist.gov/1800-13/` | extracted | 172 (+169 imgs) | `MX····I` | `secid:reference/nist.gov/1800-13` |
+| `reference/nist.gov/1800-26/` | extracted | 748 (+745 imgs) | `MX····I` | `secid:reference/nist.gov/1800-26` |
+| `reference/nist.gov/800-100/` | extracted | 35 (+30 imgs) | `MX····I` | `secid:reference/nist.gov/800-100` |
+| `reference/nist.gov/800-111/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-111` |
+| `reference/nist.gov/800-115/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:reference/nist.gov/800-115` |
+| `reference/nist.gov/800-12/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-12` |
+| `reference/nist.gov/800-122/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-122` |
+| `reference/nist.gov/800-124/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:reference/nist.gov/800-124` |
+| `reference/nist.gov/800-125/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-125` |
+| `reference/nist.gov/800-126/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:reference/nist.gov/800-126` |
+| `reference/nist.gov/800-128/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:reference/nist.gov/800-128` |
+| `reference/nist.gov/800-131a/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-131a` |
+| `reference/nist.gov/800-137/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:reference/nist.gov/800-137` |
+| `reference/nist.gov/800-145/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-145` |
+| `reference/nist.gov/800-146/` | extracted | 25 (+20 imgs) | `MX····I` | `secid:reference/nist.gov/800-146` |
+| `reference/nist.gov/800-150/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-150` |
+| `reference/nist.gov/800-153/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-153` |
+| `reference/nist.gov/800-160-v2/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-160-v2` |
+| `reference/nist.gov/800-167/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-167` |
+| `reference/nist.gov/800-177/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:reference/nist.gov/800-177` |
+| `reference/nist.gov/800-181/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-181` |
+| `reference/nist.gov/800-184/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-184` |
+| `reference/nist.gov/800-188/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:reference/nist.gov/800-188` |
+| `reference/nist.gov/800-190/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:reference/nist.gov/800-190` |
+| `reference/nist.gov/800-201/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:reference/nist.gov/800-201` |
+| `reference/nist.gov/800-204/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:reference/nist.gov/800-204` |
+| `reference/nist.gov/800-209/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-209` |
+| `reference/nist.gov/800-210/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/800-210` |
+| `reference/nist.gov/800-213/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:reference/nist.gov/800-213` |
+| `reference/nist.gov/800-216/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-216` |
+| `reference/nist.gov/800-219/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-219` |
+| `reference/nist.gov/800-221/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:reference/nist.gov/800-221` |
+| `reference/nist.gov/800-223/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:reference/nist.gov/800-223` |
+| `reference/nist.gov/800-224/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:reference/nist.gov/800-224` |
+| `reference/nist.gov/800-226/ipd/` | extracted | 37 (+34 imgs) | `MX····I` | `secid:reference/nist.gov/800-226@ipd` |
+| `reference/nist.gov/800-227/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/800-227` |
+| `reference/nist.gov/800-34/r1/` | extracted | 14 (+11 imgs) | `MX····I` | `secid:reference/nist.gov/800-34@r1` |
+| `reference/nist.gov/800-40/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-40` |
+| `reference/nist.gov/800-46/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-46` |
+| `reference/nist.gov/800-52/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/800-52` |
+| `reference/nist.gov/800-57-pt1/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:reference/nist.gov/800-57-pt1` |
+| `reference/nist.gov/800-57-pt2/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/800-57-pt2` |
+| `reference/nist.gov/800-57-pt3/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-57-pt3` |
+| `reference/nist.gov/800-61/r2/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/800-61@r2` |
+| `reference/nist.gov/800-63/3/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/800-63@3` |
+| `reference/nist.gov/800-77/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:reference/nist.gov/800-77` |
+| `reference/nist.gov/800-83/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-83` |
+| `reference/nist.gov/800-84/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:reference/nist.gov/800-84` |
+| `reference/nist.gov/800-86/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:reference/nist.gov/800-86` |
+| `reference/nist.gov/800-88/r1/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/800-88@r1` |
+| `reference/nist.gov/800-92/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:reference/nist.gov/800-92` |
+| `reference/nist.gov/800-94/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/800-94` |
+| `reference/nist.gov/ai-100-4/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:reference/nist.gov/ai-100-4` |
 | `reference/nist.gov/ai-rmf-crosswalks/` | metadata-only | 3 | `M······` | `secid:reference/nist.gov/ai-rmf-crosswalks` |
 | `reference/nist.gov/csrc-glossary/` | structured | 3 | `M···S··` | `secid:reference/nist.gov/csrc-glossary` |
 | `reference/nist.gov/cswp-02042020-1/` | extracted | 28 (+25 imgs) | `MX····I` | `secid:reference/nist.gov/cswp-02042020-1` |
+| `reference/nist.gov/fips-140/2/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/fips-140@2` |
+| `reference/nist.gov/fips-140/3/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/fips-140@3` |
+| `reference/nist.gov/fips-180/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:reference/nist.gov/fips-180` |
+| `reference/nist.gov/fips-186/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/fips-186` |
+| `reference/nist.gov/fips-198/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/fips-198` |
+| `reference/nist.gov/fips-201/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:reference/nist.gov/fips-201` |
+| `reference/nist.gov/fips-202/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/fips-202` |
+| `reference/nist.gov/fips-203/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:reference/nist.gov/fips-203` |
+| `reference/nist.gov/fips-204/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/fips-204` |
+| `reference/nist.gov/fips-205/` | extracted | 18 (+13 imgs) | `MX····I` | `secid:reference/nist.gov/fips-205` |
 | `reference/nist.gov/ir-7621/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:reference/nist.gov/ir-7621` |
 | `reference/nist.gov/ir-8062/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8062` |
 | `reference/nist.gov/ir-8228/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8228` |
@@ -385,9 +471,62 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8425/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8425` |
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
+| `reference/numerique.gouv.fr/cyberdico/` | metadata-only | 1 | `M······` | `secid:reference/numerique.gouv.fr/cyberdico` |
 | `reference/nvd.nist.gov/cpe/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nvd.nist.gov/cpe` |
+| `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
+| `reference/ny.gov/its-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ny.gov/its-glossary` |
+| `reference/oaic.gov.au/app-key-concepts/` | metadata-only | 1 | `M······` | `secid:reference/oaic.gov.au/app-key-concepts` |
+| `reference/oasis-open.org/saml-2.0-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oasis-open.org/saml-2.0-security-glossary` |
 | `reference/oasis-open.org/stix-taxii/` | metadata-only | 2 | `M······` | `secid:reference/oasis-open.org/stix-taxii` |
+| `reference/oecd.org/oecd-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oecd.org/oecd-ai-glossary` |
+| `reference/okta.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/okta.com/iam-glossary` |
+| `reference/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:reference/openai.com/preparedness` |
 | `reference/openai.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/openai.com/system-cards/` | readme-only | 1 | `·······` | — |
+| `reference/opengroup.org/opaf-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opengroup.org/opaf-glossary` |
+| `reference/openidentityexchange.org/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openidentityexchange.org/identity-glossary` |
+| `reference/openssl.org/openssl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openssl.org/openssl-glossary` |
+| `reference/opentext.com/appsec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opentext.com/appsec-glossary` |
+| `reference/oracle.com/oci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oracle.com/oci-glossary` |
 | `reference/owasp.org/ai-exchange/` | metadata-only | 10 | `M······` | `secid:reference/owasp.org/ai-exchange` |
+| `reference/owasp.org/llm-ai-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/owasp.org/llm-ai-security-glossary` |
+| `reference/palantir.com/foundry-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/palantir.com/foundry-security-glossary` |
+| `reference/paloaltonetworks.com/cyberpedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/paloaltonetworks.com/cyberpedia-glossary` |
+| `reference/panasonic.com/security-system-glossary/` | metadata-only | 1 | `M······` | `secid:reference/panasonic.com/security-system-glossary` |
+| `reference/papercut.com/print-security-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/papercut.com/print-security-acronyms` |
+| `reference/partnershiponai.org/synthetic-media-glossary/` | metadata-only | 1 | `M······` | `secid:reference/partnershiponai.org/synthetic-media-glossary` |
+| `reference/pcisecuritystandards.org/pci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pcisecuritystandards.org/pci-glossary` |
+| `reference/pingidentity.com/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pingidentity.com/identity-glossary` |
+| `reference/profibus.com/pi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/profibus.com/pi-glossary` |
+| `reference/progress.com/data-protection-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/progress.com/data-protection-privacy-glossary` |
+| `reference/proofpoint.com/threat-reference/` | metadata-only | 1 | `M······` | `secid:reference/proofpoint.com/threat-reference` |
+| `reference/proton.me/encryption-glossary/` | metadata-only | 1 | `M······` | `secid:reference/proton.me/encryption-glossary` |
+| `reference/quebec.ca/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/quebec.ca/cybersecurity-glossary` |
+| `reference/rapid7.com/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/rapid7.com/cloud-security-glossary` |
+| `reference/redhat.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/redhat.com/security-glossary` |
+| `reference/sailpoint.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sailpoint.com/identity-security-glossary` |
+| `reference/saviynt.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/saviynt.com/identity-security-glossary` |
+| `reference/securityscorecard.com/securityscorecard-glossary/` | metadata-only | 1 | `M······` | `secid:reference/securityscorecard.com/securityscorecard-glossary` |
+| `reference/sharedassessments.org/tprm-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sharedassessments.org/tprm-glossary` |
+| `reference/silabs.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/silabs.com/security-glossary` |
+| `reference/snyk.io/ai-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/snyk.io/ai-cybersecurity-glossary` |
+| `reference/socradar.io/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/socradar.io/cybersecurity-glossary` |
+| `reference/solarwinds.com/it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/solarwinds.com/it-glossary` |
+| `reference/sonicwall.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sonicwall.com/cybersecurity-glossary` |
+| `reference/sophos.com/cybersecurity-explained/` | metadata-only | 1 | `M······` | `secid:reference/sophos.com/cybersecurity-explained` |
+| `reference/strongdm.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/strongdm.com/cybersecurity-glossary` |
+| `reference/tenable.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/tenable.com/cybersecurity-glossary` |
+| `reference/texas.gov/cybersecurity-terminology/` | metadata-only | 1 | `M······` | `secid:reference/texas.gov/cybersecurity-terminology` |
+| `reference/trendmicro.com/what-is-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/trendmicro.com/what-is-cybersecurity-terms` |
+| `reference/txone.com/ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/txone.com/ot-cybersecurity-glossary` |
+| `reference/upguard.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/upguard.com/cybersecurity-glossary` |
+| `reference/virginia.gov/cov-it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/virginia.gov/cov-it-glossary` |
+| `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
+| `reference/wa.gov/data-breach-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wa.gov/data-breach-glossary` |
+| `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
+| `reference/wikimedia.org/security-team-definitions/` | metadata-only | 1 | `M······` | `secid:reference/wikimedia.org/security-team-definitions` |
+| `reference/wpscan.com/wpscan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wpscan.com/wpscan-glossary` |
+| `reference/xonasystems.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/xonasystems.com/cybersecurity-glossary` |
+| `reference/zohocorp.com/eprotect-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zohocorp.com/eprotect-security-glossary` |
+| `reference/zscaler.com/security-terms-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zscaler.com/security-terms-glossary` |
 
