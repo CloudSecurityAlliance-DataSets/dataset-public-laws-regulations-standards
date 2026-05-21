@@ -20,7 +20,9 @@
   },
   "links": {
     "source": "https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 200 but only 6 markdown lines \u2014 heavily JS-rendered PDPC page. Direct PDF download from pdpc.gov.sg required."
   },
   "lifecycle": {
     "published": "",
