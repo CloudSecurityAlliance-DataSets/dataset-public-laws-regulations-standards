@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "Swiss government (admin.ch)"
+    "notes": "admin.ch terms-and-conditions explicitly require 'prior written consent of the copyright holder' for any reproduction. 280-entry glossary, but legally not redistributable. Reclassified from NOASSERTION after Phase 4c verification."
   },
   "links": {
     "wikipedia": "",

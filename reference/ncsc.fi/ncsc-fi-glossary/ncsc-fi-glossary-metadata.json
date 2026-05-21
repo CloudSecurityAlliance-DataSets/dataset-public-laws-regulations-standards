@@ -19,11 +19,11 @@
     "derivatives": "unknown",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "Finnish government (Traficom)"
+    "notes": "Finnish government (Traficom)\n\nPhase 4c verification: original ncsc.fi URL returned 404. Page moved to https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms — footer reads '(c) Traficom'. No CC badge on the new page. Finnish public sector data is typically open but not declared. License remains NOASSERTION."
   },
   "links": {
     "wikipedia": "",
-    "source": "https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/glossary-central-cyber-security-terms",
+    "source": "https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms",
     "textUsed": "",
     "csaLocation": ""
   },
@@ -53,7 +53,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "notes": "Phase 4c verification: original ncsc.fi URL returned 404. Page moved to https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms — footer reads '(c) Traficom'. No CC badge on the new page. Finnish public sector data is typically open but not declared. License remains NOASSERTION.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"

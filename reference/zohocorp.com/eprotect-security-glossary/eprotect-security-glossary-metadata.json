@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "Zoho Corporation"
+    "notes": "Zoho Corporation Pvt. Ltd. All Rights Reserved. Vendor product-marketing glossary. Reclassified from NOASSERTION after Phase 4c verification."
   },
   "links": {
     "wikipedia": "",
