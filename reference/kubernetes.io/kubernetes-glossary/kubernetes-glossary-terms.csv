@@ -1,0 +1,479 @@
+term,definition,source_anchor,notes
+Add-ons,"Resources that extend the functionality of Kubernetes.
+
+Installing addons explains more about using add-ons with your cluster, and lists some popular add-ons.",https://kubernetes.io/docs/reference/glossary/#term-addons,tags: tool
+Admission Controller,"A piece of code that intercepts requests to the Kubernetes API server prior to persistence of the object.
+
+Admission controllers are configurable for the Kubernetes API server and may be ""validating"", ""mutating"", or both. Any admission controller may reject the request. Mutating controllers may modify the objects they admit; validating controllers may not. Admission controllers in the Kubernetes documentation",https://kubernetes.io/docs/reference/glossary/#term-admission-controller,"tags: extension, security"
+Affinity,"In Kubernetes, affinity is a set of rules that give hints to the scheduler about where to place pods.
+
+There are two kinds of affinity: node affinity pod-to-pod affinity The rules are defined using the Kubernetes labels , and selectors specified in pods , and they can be either required or preferred, depending on how strictly you want the scheduler to enforce them.",https://kubernetes.io/docs/reference/glossary/#term-affinity,tags: fundamental
+Aggregation Layer,"The aggregation layer lets you install additional Kubernetes-style APIs in your cluster.
+
+When you've configured the Kubernetes API Server to support additional APIs , you can add APIService objects to ""claim"" a URL path in the Kubernetes API.",https://kubernetes.io/docs/reference/glossary/#term-aggregation-layer,"tags: architecture, extension, operation"
+Annotation,"A key-value pair that is used to attach arbitrary non-identifying metadata to objects.
+
+The metadata in an annotation can be small or large, structured or unstructured, and can include characters not permitted by labels . Clients such as tools and libraries can retrieve this metadata.",https://kubernetes.io/docs/reference/glossary/#term-annotation,tags: fundamental
+API Group,"A set of related paths in Kubernetes API.
+
+You can enable or disable each API group by changing the configuration of your API server. You can also disable or enable paths to specific resources . An API group makes it easier to extend the Kubernetes API. The API group is specified in a REST path and in the apiVersion field of a serialized object . Read API Group for more information.",https://kubernetes.io/docs/reference/glossary/#term-api-group,"tags: architecture, fundamental"
+API resource,"An entity in the Kubernetes type system, corresponding to an endpoint on the Kubernetes API . A resource typically represents an object . Some resources represent an operation on other objects, such as a permission check.
+
+Each resource represents an HTTP endpoint (URI) on the Kubernetes API server, defining the schema for the objects or operations on that resource.",https://kubernetes.io/docs/reference/glossary/#term-api-resource,tags: architecture
+API server,"The API server is a component of the Kubernetes control plane that exposes the Kubernetes API. The API server is the front end for the Kubernetes control plane.
+
+The main implementation of a Kubernetes API server is kube-apiserver . kube-apiserver is designed to scale horizontally—that is, it scales by deploying more instances. You can run several instances of kube-apiserver and balance traffic between those instances.",https://kubernetes.io/docs/reference/glossary/#term-kube-apiserver,"tags: architecture, fundamental"
+API-initiated eviction,"API-initiated eviction is the process by which you use the Eviction API to create an Eviction object that triggers graceful pod termination.
+
+You can request eviction either by directly calling the Eviction API using a client of the kube-apiserver, like the kubectl drain command. When an Eviction object is created, the API server terminates the Pod. API-initiated evictions respect your configured PodDisruptionBudgets and terminationGracePeriodSeconds . API-initiated eviction is not the same as node-pressure eviction . See API-initiated eviction for more information.",https://kubernetes.io/docs/reference/glossary/#term-api-eviction,tags: operation
+App Container,"Application containers (or app containers) are the containers in a pod that are started after any init containers have completed.
+
+An init container lets you separate initialization details that are important for the overall workload , and that don't need to keep running once the application container has started. If a pod doesn't have any init containers configured, all the containers in that pod are app containers.",https://kubernetes.io/docs/reference/glossary/#term-app-container,tags: workload
+Application Architect,"A person responsible for the high-level design of an application.
+
+An architect ensures that an app's implementation allows it to interact with its surrounding components in a scalable, maintainable way. Surrounding components include databases, logging infrastructure, and other microservices.",https://kubernetes.io/docs/reference/glossary/#term-application-architect,tags: user-type
+Application Developer,"A person who writes an application that runs in a Kubernetes cluster.
+
+An application developer focuses on one part of an application. The scale of their focus may vary significantly in size.",https://kubernetes.io/docs/reference/glossary/#term-application-developer,tags: user-type
+Applications,The layer where various containerized applications run.,https://kubernetes.io/docs/reference/glossary/#term-applications,tags: fundamental
+Approver,"A person who can review and approve Kubernetes code contributions.
+
+While code review is focused on code quality and correctness, approval is focused on the holistic acceptance of a contribution. Holistic acceptance includes backwards/forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, and others. Approver status is scoped to a part of the codebase. Approvers were previously referred to as maintainers.",https://kubernetes.io/docs/reference/glossary/#term-approver,tags: community
+cAdvisor,"cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers .
+
+It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, histograms of complete historical resource usage and network statistics. This data is exported by container and machine-wide.",https://kubernetes.io/docs/reference/glossary/#term-cadvisor,tags: tool
+Certificate,"A cryptographically secure file used to validate access to the Kubernetes cluster.
+
+Certificates enable applications within a Kubernetes cluster to access the Kubernetes API securely. Certificates validate that clients are allowed to access the API.",https://kubernetes.io/docs/reference/glossary/#term-certificate,tags: security
+cgroup (control group),"A group of Linux processes with optional resource isolation, accounting and limits.
+
+cgroup is a Linux kernel feature that limits, accounts for, and isolates the resource usage (CPU, memory, disk I/O, network) for a collection of processes.",https://kubernetes.io/docs/reference/glossary/#term-cgroup,tags: fundamental
+CIDR,"CIDR (Classless Inter-Domain Routing) is a notation for describing blocks of IP addresses and is used heavily in various networking configurations.
+
+In the context of Kubernetes, each Node is assigned a range of IP addresses through the start address and a subnet mask using CIDR. This allows Nodes to assign each Pod a unique IP address. Although originally a concept for IPv4, CIDR has also been expanded to include IPv6.",https://kubernetes.io/docs/reference/glossary/#term-cidr,tags: networking
+CLA (Contributor License Agreement),"Terms under which a contributor grants a license to an open source project for their contributions.
+
+CLAs help resolve legal disputes involving contributed material and intellectual property (IP).",https://kubernetes.io/docs/reference/glossary/#term-cla,tags: community
+Cloud Controller Manager,"A Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+
+By decoupling the interoperability logic between Kubernetes and the underlying cloud infrastructure, the cloud-controller-manager component enables cloud providers to release features at a different pace compared to the main Kubernetes project.",https://kubernetes.io/docs/reference/glossary/#term-cloud-controller-manager,"tags: architecture, operation"
+Cloud Native Computing Foundation (CNCF),"The Cloud Native Computing Foundation (CNCF) builds sustainable ecosystems and fosters a community around projects that orchestrate containers as part of a microservices architecture. Kubernetes is a CNCF project.
+
+The CNCF is a sub-foundation of the Linux Foundation . Its mission is to make cloud native computing ubiquitous.",https://kubernetes.io/docs/reference/glossary/#term-cncf,tags: community
+Cloud Provider,"A business or other organization that offers a cloud computing platform.
+
+Cloud providers, sometimes called Cloud Service Providers (CSPs), offer cloud computing platforms or services. Many cloud providers offer managed infrastructure (also called Infrastructure as a Service or IaaS). With managed infrastructure the cloud provider is responsible for servers, storage, and networking while you manage layers on top of that such as running a Kubernetes cluster. You can also find Kubernetes as a managed service; sometimes called Platform as a Service, or PaaS. With managed Kubernetes, your cloud provider is responsible for the Kubernetes control plane as well as the nodes and the infrastructure they rely on: networking, storage, and possibly other elements such as load balancers.",https://kubernetes.io/docs/reference/glossary/#term-cloud-provider,tags: community
+Cluster,"A set of worker machines, called nodes , that run containerized applications. Every cluster has at least one worker node.
+
+The worker node(s) host the Pods that are the components of the application workload. The control plane manages the worker nodes and the Pods in the cluster. In production environments, the control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault-tolerance and high availability.",https://kubernetes.io/docs/reference/glossary/#term-cluster,"tags: fundamental, operation"
+Cluster Architect,"A person who designs infrastructure that involves one or more Kubernetes clusters.
+
+Cluster architects are concerned with best practices for distributed systems, for example: high availability and security.",https://kubernetes.io/docs/reference/glossary/#term-cluster-architect,tags: user-type
+Cluster Infrastructure,"The infrastructure layer provides and maintains VMs, networking, security groups and others.",https://kubernetes.io/docs/reference/glossary/#term-cluster-infrastructure,tags: operation
+Cluster Operations,"The work involved in managing a Kubernetes cluster: managing day-to-day operations, and co-ordinating upgrades.
+
+Examples of cluster operations work include: deploying new Nodes to scale the cluster; performing software upgrades; implementing security controls; adding or removing storage; configuring cluster networking; managing cluster-wide observability; and responding to events.",https://kubernetes.io/docs/reference/glossary/#term-cluster-operations,tags: operation
+Cluster Operator,"A person who configures, controls, and monitors clusters.
+
+Their primary responsibility is keeping a cluster up and running, which may involve periodic maintenance activities or upgrades. Note: Cluster operators are different from the Operator pattern that extends the Kubernetes API.",https://kubernetes.io/docs/reference/glossary/#term-cluster-operator,tags: user-type
+Code Contributor,"A person who develops and contributes code to the Kubernetes open source codebase.
+
+They are also an active community member who participates in one or more Special Interest Groups (SIGs) .",https://kubernetes.io/docs/reference/glossary/#term-code-contributor,"tags: community, user-type"
+Common Expression Language,"A general-purpose expression language that's designed to be fast, portable, and safe to execute.
+
+In Kubernetes, CEL can be used to run queries and perform fine-grained filtering. For example, you can use CEL expressions with dynamic admission control to filter for specific fields in requests, and with dynamic resource allocation (DRA) to select resources based on specific attributes.",https://kubernetes.io/docs/reference/glossary/#term-cel,"tags: extension, fundamental"
+Condition,"A condition is a field in a Kubernetes resource's status that describes the current state of that resource.
+
+Conditions provide a standardized way for Kubernetes components to communicate the status of resources. Each condition has a type , a status (True, False, or Unknown), and optional fields like reason and message that provide additional details. For example, a Pod might have conditions like Ready , ContainersReady , or PodScheduled .",https://kubernetes.io/docs/reference/glossary/#term-condition,tags: fundamental
+ConfigMap,"An API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume .
+
+A ConfigMap allows you to decouple environment-specific configuration from your container images , so that your applications are easily portable.",https://kubernetes.io/docs/reference/glossary/#term-configmap,tags: core-object
+Container,"A lightweight and portable executable image that contains software and all of its dependencies.
+
+Containers decouple applications from underlying host infrastructure to make deployment easier in different cloud or OS environments, and for easier scaling. The applications that run inside containers are called containerized applications. The process of bundling these applications and their dependencies into a container image is called containerization.",https://kubernetes.io/docs/reference/glossary/#term-container,"tags: fundamental, workload"
+Container Device Interface (CDI),"The Container Device Interface (CDI) is a specification for how to configure devices inside containers. Kubernetes uses CDI together with device plugins and with Dynamic Resource Allocation so that workloads receive device setup such as bind mounts or environment variables from the runtime.
+
+Device Plugins Container Device Interface specification repository",https://kubernetes.io/docs/reference/glossary/#term-cdi,tags: extension
+Container Environment Variables,"Container environment variables are name=value pairs that provide useful information into containers running in a pod
+
+Container environment variables provide information that is required by the running containerized applications along with information about important related details to the containers . For example, file system details, information about the container itself, and other cluster resources such as service endpoints.",https://kubernetes.io/docs/reference/glossary/#term-container-env-variables,tags: fundamental
+Container Lifecycle Hooks,"The lifecycle hooks expose events in the Container management lifecycle and let the user run code when the events occur.
+
+Two hooks are exposed to Containers: PostStart which executes immediately after a container is created and PreStop which is blocking and is called immediately before a container is terminated.",https://kubernetes.io/docs/reference/glossary/#term-container-lifecycle-hooks,tags: extension
+Container network interface (CNI),"Container network interface (CNI) plugins are a type of Network plugin that adheres to the appc/CNI specification.
+
+For information on Kubernetes and CNI, see Network Plugins .",https://kubernetes.io/docs/reference/glossary/#term-cni,tags: networking
+Container Runtime,"A fundamental component that empowers Kubernetes to run containers effectively. It is responsible for managing the execution and lifecycle of containers within the Kubernetes environment.
+
+Kubernetes supports container runtimes such as containerd , CRI-O , and any other implementation of the Kubernetes CRI (Container Runtime Interface) .",https://kubernetes.io/docs/reference/glossary/#term-container-runtime,"tags: fundamental, workload"
+Container Runtime Interface (CRI),"The main protocol for the communication between the kubelet and Container Runtime.
+
+The Kubernetes Container Runtime Interface (CRI) defines the main gRPC protocol for the communication between the node components kubelet and container runtime .",https://kubernetes.io/docs/reference/glossary/#term-cri,tags: fundamental
+Container Storage Interface (CSI),"The Container Storage Interface (CSI) defines a standard interface to expose storage systems to containers.
+
+CSI allows vendors to create custom storage plugins for Kubernetes without adding them to the Kubernetes repository (out-of-tree plugins). To use a CSI driver from a storage provider, you must first deploy it to your cluster . You will then be able to create a Storage Class that uses that CSI driver. CSI in the Kubernetes documentation List of available CSI drivers",https://kubernetes.io/docs/reference/glossary/#term-csi,tags: storage
+containerd,"A container runtime with an emphasis on simplicity, robustness and portability
+
+containerd is a container runtime that runs as a daemon on Linux or Windows. containerd takes care of fetching and storing container images, executing containers, providing network access, and more.",https://kubernetes.io/docs/reference/glossary/#term-containerd,tags: tool
+Contributor,"Someone who donates code, documentation, or their time to help the Kubernetes project or community.
+
+Contributions include pull requests (PRs), issues, feedback, special interest groups (SIG) participation, or organizing community events.",https://kubernetes.io/docs/reference/glossary/#term-contributor,tags: community
+Control Plane,"The container orchestration layer that exposes the API and interfaces to define, deploy, and manage the lifecycle of containers.
+
+This layer is composed by many different components, such as (but not restricted to): etcd API Server Scheduler Controller Manager Cloud Controller Manager These components can be run as traditional operating system services (daemons) or as containers. The hosts running these components were historically called masters .",https://kubernetes.io/docs/reference/glossary/#term-control-plane,tags: fundamental
+Controller,"In Kubernetes, controllers are control loops that watch the state of your cluster , then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+
+Controllers watch the shared state of your cluster through the apiserver (part of the Control Plane ). Some controllers also run inside the control plane, providing control loops that are core to Kubernetes' operations. For example: the deployment controller, the daemonset controller, the namespace controller, and the persistent volume controller (and others) all run within the kube-controller-manager .",https://kubernetes.io/docs/reference/glossary/#term-controller,"tags: architecture, fundamental"
+CRI-O,"A tool that lets you use OCI container runtimes with Kubernetes CRI.
+
+CRI-O is an implementation of the Container Runtime Interface (CRI) to enable using container runtimes that are compatible with the Open Container Initiative (OCI) runtime spec . Deploying CRI-O allows Kubernetes to use any OCI-compliant runtime as the container runtime for running Pods , and to fetch OCI container images from remote registries.",https://kubernetes.io/docs/reference/glossary/#term-cri-o,tags: tool
+CronJob,"Manages a Job that runs on a periodic schedule.
+
+Similar to a line in a crontab file, a CronJob object specifies a schedule using the cron format.",https://kubernetes.io/docs/reference/glossary/#term-cronjob,"tags: core-object, workload"
+CustomResourceDefinition,"A kind of API object that defines a new custom API to add to your Kubernetes API server, without building a complete custom server.
+
+CustomResourceDefinitions let you extend the Kubernetes API for your environment if the built-in API resources can't meet your needs.",https://kubernetes.io/docs/reference/glossary/#term-CustomResourceDefinition,"tags: extension, fundamental, operation"
+DaemonSet,"Ensures a copy of a Pod is running across a set of nodes in a cluster .
+
+Used to deploy system daemons such as log collectors and monitoring agents that typically must run on every Node .",https://kubernetes.io/docs/reference/glossary/#term-daemonset,"tags: core-object, fundamental, workload"
+Data Plane,"The layer that provides capacity such as CPU, memory, network, and storage so that the containers can run and connect to a network.",https://kubernetes.io/docs/reference/glossary/#term-data-plane,tags: fundamental
+Deployment,"An API object that manages a replicated application, typically by running Pods with no local state.
+
+Each replica is represented by a Pod , and the Pods are distributed among the nodes of a cluster. For workloads that do require local state, consider using a StatefulSet .",https://kubernetes.io/docs/reference/glossary/#term-deployment,"tags: core-object, fundamental, workload"
+Developer (disambiguation),"May refer to: Application Developer , Code Contributor , or Platform Developer .
+
+This overloaded term may have different meanings depending on the context",https://kubernetes.io/docs/reference/glossary/#term-developer,"tags: community, user-type"
+Device,"One or more infrastructure resources that are directly or indirectly attached to your nodes .
+
+Devices might be commercial products like GPUs, or custom hardware like ASIC boards . Attached devices usually require device drivers that let Kubernetes Pods access the devices.",https://kubernetes.io/docs/reference/glossary/#term-device,"tags: extension, fundamental"
+Device Plugin,"Device plugins run on worker Nodes and provide Pods with access to infrastructure resources , such as local hardware, that require vendor-specific initialization or setup steps.
+
+Device plugins advertise resources to the kubelet , so that workload Pods can access hardware features that relate to the Node where that Pod is running. You can deploy a device plugin as a DaemonSet , or install the device plugin software directly on each target Node. See Device Plugins for more information.",https://kubernetes.io/docs/reference/glossary/#term-device-plugin,"tags: extension, fundamental"
+DeviceClass,"A category of devices in the cluster that can be used with dynamic resource allocation (DRA).
+
+Administrators or device owners use DeviceClasses to define a set of devices that can be claimed and used in workloads. Devices are claimed by creating ResourceClaims that filter for specific device parameters in a DeviceClass. For more information, see Dynamic Resource Allocation",https://kubernetes.io/docs/reference/glossary/#term-deviceclass,tags: extension
+Disruption,"Disruptions are events that lead to one or more Pods going out of service. A disruption has consequences for workload management resources , such as Deployment , that rely on the affected Pods.
+
+If you, as cluster operator, destroy a Pod that belongs to an application, Kubernetes terms that a voluntary disruption . If a Pod goes offline because of a Node failure, or an outage affecting a wider failure zone, Kubernetes terms that an involuntary disruption . See Disruptions for more information.",https://kubernetes.io/docs/reference/glossary/#term-disruption,tags: fundamental
+Docker,"Docker (specifically, Docker Engine) is a software technology providing operating-system-level virtualization also known as containers .
+
+Docker uses the resource isolation features of the Linux kernel such as cgroups and kernel namespaces, and a union-capable file system such as OverlayFS and others to allow independent containers to run within a single Linux instance, avoiding the overhead of starting and maintaining virtual machines (VMs).",https://kubernetes.io/docs/reference/glossary/#term-docker,tags: fundamental
+Dockershim,"The dockershim is a component of Kubernetes version 1.23 and earlier. It allows the kubelet to communicate with Docker Engine .
+
+Starting with version 1.24, dockershim has been removed from Kubernetes. For more information, see Dockershim FAQ .",https://kubernetes.io/docs/reference/glossary/#term-dockershim,tags: fundamental
+Downstream (disambiguation),"May refer to: code in the Kubernetes ecosystem that depends upon the core Kubernetes codebase or a forked repo.
+
+In the Kubernetes Community : Conversations often use downstream to mean the ecosystem, code, or third-party tools that rely on the core Kubernetes codebase. For example, a new feature in Kubernetes may be adopted by applications downstream to improve their functionality. In GitHub or git : The convention is to refer to a forked repo as downstream , whereas the source repo is considered upstream .",https://kubernetes.io/docs/reference/glossary/#term-downstream,tags: community
+Downward API,"Kubernetes' mechanism to expose Pod and container field values to code running in a container.
+
+It is sometimes useful for a container to have information about itself, without needing to make changes to the container code that directly couple it to Kubernetes. The Kubernetes downward API allows containers to consume information about themselves or their context in a Kubernetes cluster. Applications in containers can have access to that information, without the application needing to act as a client of the Kubernetes API. There are two ways to expose Pod and container fields to a running container: using environment variables using a downwardAPI volume Together, these two ways of exposing Pod and container fields are called the downward API .",https://kubernetes.io/docs/reference/glossary/#term-downward-api,tags: architecture
+Drain,"The process of safely evicting Pods from a Node to prepare it for maintenance or removal from a cluster .
+
+The kubectl drain command is used to mark a Node as going out of service. When executed, it evicts all Pods from the Node . If an eviction request is temporarily rejected, kubectl drain retries until all Pods are terminated or a configurable timeout is reached.",https://kubernetes.io/docs/reference/glossary/#term-drain,"tags: fundamental, operation"
+Duration,"A string value representing an amount of time.
+
+The format of a (Kubernetes) duration is based on the time.Duration type from the Go programming language. In Kubernetes APIs that use durations, the value is expressed as series of a non-negative integers combined with a time unit suffix. You can have more than one time quantity and the duration is the sum of those time quantities. The valid time units are ""ns"", ""µs"" (or ""us""), ""ms"", ""s"", ""m"", and ""h"". For example: 5s represents a duration of five seconds, and 1m30s represents a duration of one minute and thirty seconds.",https://kubernetes.io/docs/reference/glossary/#term-duration,tags: fundamental
+Dynamic Resource Allocation,"A Kubernetes feature that lets you request and share resources among Pods. These resources are often attached devices like hardware accelerators.
+
+With DRA, device drivers and cluster admins define device classes that are available to claim in workloads. Kubernetes allocates matching devices to specific claims and places the corresponding Pods on nodes that can access the allocated devices.",https://kubernetes.io/docs/reference/glossary/#term-dra,tags: extension
+Dynamic Volume Provisioning,"Allows users to request automatic creation of storage Volumes .
+
+Dynamic provisioning eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage by user request. Dynamic volume provisioning is based on an API object, StorageClass , referring to a Volume Plugin that provisions a Volume and the set of parameters to pass to the Volume Plugin.",https://kubernetes.io/docs/reference/glossary/#term-dynamicvolumeprovisioning,tags: storage
+Endpoints,"A deprecated API that represents the set of all endpoints for a Service .
+
+Since v1.21, Kubernetes uses EndpointSlices rather than Endpoints; the original Endpoints API was deprecated due to concerns about scalability. To learn more about Endpoints, read Endpoints .",https://kubernetes.io/docs/reference/glossary/#term-endpoints,tags: networking
+EndpointSlice,"EndpointSlices track the IP addresses of backend endpoints. EndpointSlices are normally associated with a Service and the backend endpoints typically represent Pods .
+
+One Service can be backed by multiple Pods. Kubernetes represents the backing endpoints of a Service with a set of EndpointSlices that are associated with that Service. The backing endpoints are usually, but not always, pods running in the cluster. The control plane usually manages EndpointSlices for you automatically. However, EndpointSlices can be defined manually for Services without selectors specified.",https://kubernetes.io/docs/reference/glossary/#term-endpoint-slice,tags: networking
+Ephemeral Container,"A Container type that you can temporarily run inside a Pod .
+
+If you want to investigate a Pod that's running with problems, you can add an ephemeral container to that Pod and carry out diagnostics. Ephemeral containers have no resource or scheduling guarantees, and you should not use them to run any part of the workload itself. Ephemeral containers are not supported by static pods .",https://kubernetes.io/docs/reference/glossary/#term-ephemeral-container,tags: fundamental
+etcd,"Consistent and highly-available key value store used as Kubernetes' backing store for all cluster data.
+
+If your Kubernetes cluster uses etcd as its backing store, make sure you have a back up plan for the data. You can find in-depth information about etcd in the official documentation .",https://kubernetes.io/docs/reference/glossary/#term-etcd,"tags: architecture, storage"
+Event,"A Kubernetes object that describes state changes or notable occurrences in the cluster.
+
+Events have a limited retention time and triggers and messages may evolve with time. Event consumers should not rely on the timing of an event with a given reason reflecting a consistent underlying trigger, or the continued existence of events with that reason. Events should be treated as informative, best-effort, supplemental data. In Kubernetes, auditing generates a different kind of Event record (API group audit.k8s.io ).",https://kubernetes.io/docs/reference/glossary/#term-event,"tags: core-object, fundamental"
+Eviction,"Eviction is the process of terminating one or more Pods on Nodes.
+
+There are two kinds of eviction: Node-pressure eviction API-initiated eviction",https://kubernetes.io/docs/reference/glossary/#term-eviction,tags: operation
+Extensions,"Extensions are software components that extend and deeply integrate with Kubernetes to support new types of hardware.
+
+Many cluster administrators use a hosted or distribution instance of Kubernetes. These clusters come with extensions pre-installed. As a result, most Kubernetes users will not need to install extensions and even fewer users will need to author new ones.",https://kubernetes.io/docs/reference/glossary/#term-Extensions,"tags: extension, fundamental"
+Feature gate,"Feature gates are a set of keys (opaque string values) that you can use to control which Kubernetes features are enabled in your cluster.
+
+You can turn these features on or off using the --feature-gates command line flag on each Kubernetes component. Each Kubernetes component lets you enable or disable a set of feature gates that are relevant to that component. The Kubernetes documentation lists all current feature gates and what they control.",https://kubernetes.io/docs/reference/glossary/#term-feature-gate,"tags: fundamental, operation"
+Finalizer,"Finalizers are namespaced keys that tell Kubernetes to wait until specific conditions are met before it fully deletes resources that are marked for deletion. Finalizers alert controllers to clean up resources the deleted object owned.
+
+When you tell Kubernetes to delete an object that has finalizers specified for it, the Kubernetes API marks the object for deletion by populating .metadata.deletionTimestamp , and returns a 202 status code (HTTP ""Accepted""). The target object remains in a terminating state while the control plane, or other components, take the actions defined by the finalizers. After these actions are complete, the controller removes the relevant finalizers from the target object. When the metadata.finalizers field is empty, Kubernetes considers the deletion complete and deletes the object. You can use finalizers to control garbage collection of resources. For example, you can define a finalizer to clean up related API resources or infrastructure before the controller deletes the object being finalized.",https://kubernetes.io/docs/reference/glossary/#term-finalizer,"tags: fundamental, operation"
+FlexVolume,"FlexVolume is a deprecated interface for creating out-of-tree volume plugins. The Container Storage Interface is a newer interface that addresses several problems with FlexVolume.
+
+FlexVolumes enable users to write their own drivers and add support for their volumes in Kubernetes. FlexVolume driver binaries and dependencies must be installed on host machines. This requires root access. The Storage SIG suggests implementing a CSI driver if possible since it addresses the limitations with FlexVolumes. FlexVolume in the Kubernetes documentation More information on FlexVolumes Volume Plugin FAQ for Storage Vendors",https://kubernetes.io/docs/reference/glossary/#term-flexvolume,tags: storage
+Garbage Collection,"Garbage collection is a collective term for the various mechanisms Kubernetes uses to clean up cluster resources.
+
+Kubernetes uses garbage collection to clean up resources like unused containers and images , failed Pods , objects owned by the targeted resource , completed Jobs , and resources that have expired or failed.",https://kubernetes.io/docs/reference/glossary/#term-garbage-collection,"tags: fundamental, operation"
+Gateway API,"A family of API kinds for modeling service networking in Kubernetes.
+
+Gateway API provides a family of extensible, role-oriented, protocol-aware API kinds for modeling service networking in Kubernetes.",https://kubernetes.io/docs/reference/glossary/#term-gateway-api,"tags: architecture, extension, networking"
+Group Version Resource,"Means of representing specific Kubernetes APIs uniquely.
+
+Group Version Resources (GVRs) specify the API group, API version, and resource (name for the object kind as it appears in the URI) associated with accessing a particular id of object in Kubernetes. GVRs let you define and distinguish different Kubernetes objects, and to specify a way of accessing objects that is stable even as APIs change. In this usage, resource refers to an HTTP resource. Because some APIs are namespaced, a GVR may not refer to a specific API resource .",https://kubernetes.io/docs/reference/glossary/#term-gvr,tags: architecture
+Helm Chart,"A package of pre-configured Kubernetes configurations that can be managed with the Helm tool.
+
+Charts provide a reproducible way of creating and sharing Kubernetes applications. A single chart can be used to deploy something simple, like a memcached Pod, or something complex, like a full web app stack with HTTP servers, databases, caches, and so on.",https://kubernetes.io/docs/reference/glossary/#term-helm-chart,tags: tool
+Horizontal Pod Autoscaler,"An object that automatically scales the number of Pod replicas, based on targeted resource utilization or custom metric targets.
+
+HorizontalPodAutoscaler (HPA) is typically used with Deployments , or ReplicaSets . It cannot be applied to objects that cannot be scaled, for example DaemonSets .",https://kubernetes.io/docs/reference/glossary/#term-horizontal-pod-autoscaler,tags: operation
+HostAliases,"A HostAliases is a mapping between the IP address and hostname to be injected into a Pod 's hosts file.
+
+HostAliases is an optional list of hostnames and IP addresses that will be injected into the Pod's hosts file if specified. This is only valid for non-hostNetwork Pods.",https://kubernetes.io/docs/reference/glossary/#term-HostAliases,tags: operation
+Image,"Stored instance of a Container that holds a set of software needed to run an application.
+
+A way of packaging software that allows it to be stored in a container registry, pulled to a local system, and run as an application. Meta data is included in the image that can indicate what executable to run, who built it, and other information.",https://kubernetes.io/docs/reference/glossary/#term-image,tags: fundamental
+Immutable Infrastructure,"Immutable Infrastructure refers to computer infrastructure (virtual machines, containers, network appliances) that cannot be changed once deployed.
+
+Immutability can be enforced by an automated process that overwrites unauthorized changes or through a system that won’t allow changes in the first place. Containers are a good example of immutable infrastructure because persistent changes to containers can only be made by creating a new version of the container or recreating the existing container from its image. By preventing or identifying unauthorized changes, immutable infrastructures make it easier to identify and mitigate security risks. Operating such a system becomes a lot more straightforward because administrators can make assumptions about it. After all, they know no one made mistakes or changes they forgot to communicate. Immutable infrastructure goes hand-in-hand with infrastructure as code where all automation needed to create infrastructure is stored in version control (such as Git). This combination of immutability and version control means that there is a durable audit log of every authorized change to a system.",https://kubernetes.io/docs/reference/glossary/#term-immutable-infrastructure,tags: architecture
+Ingress,"An API object that manages external access to the services in a cluster, typically HTTP.
+
+Ingress may provide load balancing, SSL termination and name-based virtual hosting.",https://kubernetes.io/docs/reference/glossary/#term-ingress,"tags: architecture, extension, networking"
+Init Container,"One or more initialization containers that must run to completion before any app containers run.
+
+Initialization (init) containers are like regular app containers, with one difference: init containers must run to completion before any app containers can start. Init containers run in series: each init container must run to completion before the next init container begins. Unlike sidecar containers , init containers do not remain running after Pod startup. For more information, read init containers .",https://kubernetes.io/docs/reference/glossary/#term-init-container,tags: fundamental
+Istio,"An open platform (not Kubernetes-specific) that provides a uniform way to integrate microservices, manage traffic flow, enforce policies, and aggregate telemetry data.
+
+Adding Istio does not require changing application code. It is a layer of infrastructure between a service and the network, which when combined with service deployments, is commonly referred to as a service mesh. Istio's control plane abstracts away the underlying cluster management platform, which may be Kubernetes, Mesosphere, etc.",https://kubernetes.io/docs/reference/glossary/#term-istio,"tags: architecture, extension, networking"
+Job,"A finite or batch task that runs to completion.
+
+Creates one or more Pod objects and ensures that a specified number of them successfully terminate. As Pods successfully complete, the Job tracks the successful completions.",https://kubernetes.io/docs/reference/glossary/#term-job,"tags: core-object, fundamental, workload"
+JSON Web Token (JWT),"A means of representing claims to be transferred between two parties.
+
+JWTs can be digitally signed and encrypted. Kubernetes uses JWTs as authentication tokens to verify the identity of entities that want to perform actions in a cluster.",https://kubernetes.io/docs/reference/glossary/#term-jwt,"tags: architecture, security"
+kOps (Kubernetes Operations),"kOps will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.
+
+Note: AWS (Amazon Web Services) is currently officially supported, with DigitalOcean, GCE and OpenStack in beta support, and Azure in alpha. kOps is an automated provisioning system: Fully automated installation Uses DNS to identify clusters Self-healing: everything runs in Auto-Scaling Groups Multiple OS support (Amazon Linux, Debian, Flatcar, RHEL, Rocky and Ubuntu) High-Availability support Can directly provision, or generate terraform manifests",https://kubernetes.io/docs/reference/glossary/#term-kops,"tags: operation, tool"
+kube-controller-manager,"Control plane component that runs controller processes.
+
+Logically, each controller is a separate process, but to reduce complexity, they are all compiled into a single binary and run in a single process.",https://kubernetes.io/docs/reference/glossary/#term-kube-controller-manager,"tags: architecture, fundamental"
+kube-proxy,"kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept.
+
+kube-proxy maintains network rules on nodes. These network rules allow network communication to your Pods from network sessions inside or outside of your cluster. kube-proxy uses the operating system packet filtering layer if there is one and it's available. Otherwise, kube-proxy forwards the traffic itself.",https://kubernetes.io/docs/reference/glossary/#term-kube-proxy,"tags: fundamental, networking"
+kube-scheduler,"Control plane component that watches for newly created Pods with no assigned node , and selects a node for them to run on.
+
+Factors taken into account for scheduling decisions include: individual and collective resource requirements, hardware/software/policy constraints, affinity and anti-affinity specifications, data locality, inter-workload interference, and deadlines.",https://kubernetes.io/docs/reference/glossary/#term-kube-scheduler,tags: architecture
+Kubeadm,"A tool for quickly installing Kubernetes and setting up a secure cluster.
+
+You can use kubeadm to install both the control plane and the worker node components.",https://kubernetes.io/docs/reference/glossary/#term-kubeadm,"tags: operation, tool"
+Kubectl,"Command line tool for communicating with a Kubernetes cluster's control plane , using the Kubernetes API.
+
+You can use kubectl to create, inspect, update, and delete Kubernetes objects. In English, kubectl is (officially) pronounced /kjuːb/ /kənˈtɹəʊl/ (like ""cube control"").",https://kubernetes.io/docs/reference/glossary/#term-kubectl,"tags: fundamental, tool"
+Kubelet,"An agent that runs on each node in the cluster. It makes sure that containers are running in a Pod .
+
+The kubelet takes a set of PodSpecs that are provided through various mechanisms and ensures that the containers described in those PodSpecs are running and healthy. The kubelet doesn't manage containers which were not created by Kubernetes.",https://kubernetes.io/docs/reference/glossary/#term-kubelet,tags: fundamental
+Kubernetes API,"The application that serves Kubernetes functionality through a RESTful interface and stores the state of the cluster.
+
+Kubernetes resources and ""records of intent"" are all stored as API objects, and modified via RESTful calls to the API. The API allows configuration to be managed in a declarative way. Users can interact with the Kubernetes API directly, or via tools like kubectl . The core Kubernetes API is flexible and can also be extended to support custom resources.",https://kubernetes.io/docs/reference/glossary/#term-kubernetes-api,"tags: architecture, fundamental"
+Label,"Tags objects with identifying attributes that are meaningful and relevant to users.
+
+Labels are key/value pairs that are attached to objects such as Pods . They are used to organize and to select subsets of objects.",https://kubernetes.io/docs/reference/glossary/#term-label,tags: fundamental
+LimitRange,"Constraints resource consumption per container or Pod , specified for a particular namespace .
+
+A LimitRange either limits the quantity of API resources that can be created (for a particular resource type), or the amount of infrastructure resources that may be requested/consumed by individual containers or Pods within a namespace.",https://kubernetes.io/docs/reference/glossary/#term-limitrange,"tags: architecture, core-object, fundamental"
+Logging,"Logs are the list of events that are logged by cluster or application.
+
+Application and systems logs can help you understand what is happening inside your cluster. The logs are particularly useful for debugging problems and monitoring cluster activity.",https://kubernetes.io/docs/reference/glossary/#term-logging,"tags: architecture, fundamental"
+Managed Service,"A software offering maintained by a third-party provider.
+
+Some examples of Managed Services are AWS EC2, Azure SQL Database, and GCP Pub/Sub, but they can be any software offering that can be used by an application.",https://kubernetes.io/docs/reference/glossary/#term-managed-service,tags: extension
+Manifest,"Specification of a Kubernetes API object in JSON or YAML format.
+
+A manifest specifies the desired state of an object that Kubernetes will maintain when you apply the manifest. For YAML format, each file can contain multiple manifests.",https://kubernetes.io/docs/reference/glossary/#term-manifest,tags: fundamental
+Master,"Legacy term, used as synonym for nodes hosting the control plane .
+
+The term is still being used by some provisioning tools, such as kubeadm , and managed services, to label nodes with kubernetes.io/role and control placement of control plane pods .",https://kubernetes.io/docs/reference/glossary/#term-master,tags: fundamental
+Member,"A continuously active contributor in the K8s community.
+
+Members can have issues and PRs assigned to them and participate in special interest groups (SIGs) through GitHub teams. Pre-submit tests are automatically run for members' PRs. A member is expected to remain an active contributor to the community.",https://kubernetes.io/docs/reference/glossary/#term-member,tags: community
+Minikube,"A tool for running Kubernetes locally.
+
+Minikube runs an all-in-one or a multi-node local Kubernetes cluster inside a VM on your computer. You can use Minikube to try Kubernetes in a learning environment .",https://kubernetes.io/docs/reference/glossary/#term-minikube,"tags: fundamental, tool"
+Mirror Pod,"A pod object that a kubelet uses to represent a static pod
+
+When the kubelet finds a static pod in its configuration, it automatically tries to create a Pod object on the Kubernetes API server for it. This means that the pod will be visible on the API server, but cannot be controlled from there. (For example, removing a mirror pod will not stop the kubelet daemon from running it).",https://kubernetes.io/docs/reference/glossary/#term-mirror-pod,tags: fundamental
+Mixed Version Proxy (MVP),"Feature to let a kube-apiserver proxy a resource request to a different peer API server.
+
+When a cluster has multiple API servers running different versions of Kubernetes, this feature enables resource requests to be served by the correct API server. MVP is disabled by default and can be activated by enabling the feature gate named UnknownVersionInteroperabilityProxy when the API Server is started.",https://kubernetes.io/docs/reference/glossary/#term-mvp,tags: architecture
+Name,"A client-provided string that refers to an object in a resource URL, such as /api/v1/pods/some-name .
+
+Only one object of a given kind can have a given name at a time. However, if you delete the object, you can make a new object with the same name.",https://kubernetes.io/docs/reference/glossary/#term-name,tags: fundamental
+Namespace,"An abstraction used by Kubernetes to support isolation of groups of API resources within a single cluster .
+
+Namespaces are used to organize objects in a cluster and provide a way to divide cluster resources. Names of resources need to be unique within a namespace, but not across namespaces. Namespace-based scoping is applicable only for namespaced resources (for example: Pods, Deployments, Services) and not for cluster-wide resources (for example: StorageClasses, Nodes, PersistentVolumes) .",https://kubernetes.io/docs/reference/glossary/#term-namespace,tags: fundamental
+Network Policy,"A specification of how groups of Pods are allowed to communicate with each other and with other network endpoints.
+
+NetworkPolicies help you declaratively configure which Pods are allowed to connect to each other, which namespaces are allowed to communicate, and more specifically which port numbers to enforce each policy on. NetworkPolicy objects use labels to select Pods and define rules which specify what traffic is allowed to the selected Pods. NetworkPolicies are implemented by a supported network plugin provided by a network provider. Be aware that creating a NetworkPolicy object without a controller to implement it will have no effect.",https://kubernetes.io/docs/reference/glossary/#term-network-policy,"tags: architecture, core-object, extension, networking"
+Node,"A node is a worker machine in Kubernetes.
+
+A worker node may be a VM or physical machine, depending on the cluster. It has local daemons or services necessary to run Pods and is managed by the control plane. The daemons on a node include kubelet , kube-proxy , and a container runtime implementing the CRI such as Docker . In early Kubernetes versions, Nodes were called ""Minions"".",https://kubernetes.io/docs/reference/glossary/#term-node,"tags: core-object, fundamental"
+Node-pressure eviction,"Node-pressure eviction is the process by which the kubelet proactively terminates pods to reclaim resource on nodes.
+
+The kubelet monitors resources like CPU, memory, disk space, and filesystem inodes on your cluster's nodes. When one or more of these resources reach specific consumption levels, the kubelet can proactively fail one or more pods on the node to reclaim resources and prevent starvation. Node-pressure eviction is not the same as API-initiated eviction .",https://kubernetes.io/docs/reference/glossary/#term-node-pressure-eviction,tags: operation
+Object,"An entity in the Kubernetes system. An object is an API resource that the Kubernetes API uses to represent the state of your cluster.
+
+A Kubernetes object is typically a “record of intent”—once you create the object, the Kubernetes control plane works constantly to ensure that the item it represents actually exists. By creating an object, you're effectively telling the Kubernetes system what you want that part of your cluster's workload to look like; this is your cluster's desired state.",https://kubernetes.io/docs/reference/glossary/#term-object,"tags: architecture, fundamental"
+Operator pattern,"The operator pattern is a system design that links a Controller to one or more custom resources.
+
+You can extend Kubernetes by adding controllers to your cluster, beyond the built-in controllers that come as part of Kubernetes itself. If a running application acts as a controller and has API access to carry out tasks against a custom resource that's defined in the control plane, that's an example of the Operator pattern.",https://kubernetes.io/docs/reference/glossary/#term-operator-pattern,tags: architecture
+Persistent Volume,"An API object that represents a piece of storage in the cluster. Representation of as a general, pluggable storage resource that can persist beyond the lifecycle of any individual Pod .
+
+PersistentVolumes (PVs) provide an API that abstracts details of how storage is provided from how it is consumed. PVs are used directly in scenarios where storage can be created ahead of time (static provisioning). For scenarios that require on-demand storage (dynamic provisioning), PersistentVolumeClaims (PVCs) are used instead.",https://kubernetes.io/docs/reference/glossary/#term-persistent-volume,"tags: core-object, storage"
+Persistent Volume Claim,"Claims storage resources defined in a PersistentVolume , so that the storage can be mounted as a volume in a container .
+
+Specifies the amount of storage, how the storage will be accessed (read-only, read-write and/or exclusive) and how it is reclaimed (retained, recycled or deleted). Details of the storage itself are described in the PersistentVolume object.",https://kubernetes.io/docs/reference/glossary/#term-persistent-volume-claim,"tags: core-object, storage"
+Platform Developer,"A person who customizes the Kubernetes platform to fit the needs of their project.
+
+A platform developer may, for example, use Custom Resources or Extend the Kubernetes API with the aggregation layer to add functionality to their instance of Kubernetes, specifically for their application. Some Platform Developers are also contributors and develop extensions which are contributed to the Kubernetes community. Others develop closed-source commercial or site-specific extensions.",https://kubernetes.io/docs/reference/glossary/#term-platform-developer,tags: user-type
+Pod,"The smallest and simplest Kubernetes object. A Pod represents a set of running containers on your cluster.
+
+A Pod is typically set up to run a single primary container. It can also run optional sidecar containers that add supplementary features like logging. Pods are commonly managed by a Deployment .",https://kubernetes.io/docs/reference/glossary/#term-pod,"tags: core-object, fundamental"
+Pod Disruption,"Pod disruption is the process by which Pods on Nodes are terminated either voluntarily or involuntarily.
+
+Voluntary disruptions are started intentionally by application owners or cluster administrators. Involuntary disruptions are unintentional and can be triggered by unavoidable issues like Nodes running out of resources , or by accidental deletions.",https://kubernetes.io/docs/reference/glossary/#term-pod-disruption,tags: operation
+Pod Disruption Budget,"A Pod Disruption Budget allows an application owner to create an object for a replicated application, that ensures a certain number or percentage of Pods with an assigned label will not be voluntarily evicted at any point in time.
+
+Involuntary disruptions cannot be prevented by PDBs; however they do count against the budget.",https://kubernetes.io/docs/reference/glossary/#term-pod-disruption-budget,tags: operation
+Pod Lifecycle,"The sequence of states through which a Pod passes during its lifetime.
+
+The Pod Lifecycle is defined by the states or phases of a Pod. There are five possible Pod phases: Pending, Running, Succeeded, Failed, and Unknown. A high-level description of the Pod state is summarized in the PodStatus phase field.",https://kubernetes.io/docs/reference/glossary/#term-pod-lifecycle,tags: fundamental
+Pod Priority,"Pod Priority indicates the importance of a Pod relative to other Pods.
+
+Pod Priority gives the ability to set scheduling priority of a Pod to be higher and lower than other Pods — an important feature for production clusters workload.",https://kubernetes.io/docs/reference/glossary/#term-pod-priority,tags: operation
+Pod Security Policy,"A former Kubernetes API that enforced security restrictions during Pod creation and updates.
+
+PodSecurityPolicy was deprecated as of Kubernetes v1.21, and removed in v1.25. As an alternative, use Pod Security Admission or a 3rd party admission plugin.",https://kubernetes.io/docs/reference/glossary/#term-pod-security-policy,tags: security
+PodGroup,"A PodGroup is a runtime object that represents a group of Pods scheduled together as a single unit. While the Workload API defines scheduling policy templates, PodGroups are the runtime counterparts that carry both the policy and the scheduling status for a specific instance of that group.",https://kubernetes.io/docs/reference/glossary/#term-podgroup,"tags: core-object, workload"
+PodTemplate,"An API object that defines a template for creating Pods . The PodTemplate API is also embedded in API definitions for workload management, such as Deployment or StatefulSets .
+
+Pod templates allow you to define common metadata (such as labels, or a template for the name of a new Pod) as well as to specify a pod's desired state. Workload management controllers use Pod templates (embedded into another object, such as a Deployment or StatefulSet) to define and manage one or more Pods . When there can be multiple Pods based on the same template, these are called replicas . Although you can create a PodTemplate object directly, you rarely need to do so.",https://kubernetes.io/docs/reference/glossary/#term-pod-template,tags: core-object
+Preemption,"Preemption logic in Kubernetes helps a pending Pod to find a suitable Node by evicting low priority Pods existing on that Node.
+
+If a Pod cannot be scheduled, the scheduler tries to preempt lower priority Pods to make scheduling of the pending Pod possible.",https://kubernetes.io/docs/reference/glossary/#term-preemption,tags: operation
+PriorityClass,"A PriorityClass is a named class for the scheduling priority that should be assigned to a Pod in that class.
+
+A PriorityClass is a non-namespaced object mapping a name to an integer priority, used for a Pod. The name is specified in the metadata.name field, and the priority value in the value field. Priorities range from -2147483648 to 1000000000 inclusive. Higher values indicate higher priority.",https://kubernetes.io/docs/reference/glossary/#term-priority-class,tags: core-object
+Probe,"A check that the kubelet periodically performs against a container that is running in a pod, that will define container's state and health and informing container's lifecycle.
+
+To learn more, read container probes .",https://kubernetes.io/docs/reference/glossary/#term-probe,tags: tool
+Proxy,"In computing, a proxy is a server that acts as an intermediary for a remote service.
+
+A client interacts with the proxy; the proxy copies the client's data to the actual server; the actual server replies to the proxy; the proxy sends the actual server's reply to the client. kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept. You can run kube-proxy as a plain userland proxy service. If your operating system supports it, you can instead run kube-proxy in a hybrid mode that achieves the same overall effect using less system resources.",https://kubernetes.io/docs/reference/glossary/#term-proxy,tags: networking
+QoS Class,"QoS Class (Quality of Service Class) provides a way for Kubernetes to classify Pods within the cluster into several classes and make decisions about scheduling and eviction.
+
+QoS Class of a Pod is set at creation time based on its infrastructure resource requests and limits settings. QoS classes are used to make decisions about Pods scheduling and eviction. Kubernetes can assign one of the following QoS classes to a Pod: Guaranteed , Burstable or BestEffort .",https://kubernetes.io/docs/reference/glossary/#term-qos-class,"tags: architecture, fundamental"
+Quantity,"A whole-number representation of small or large numbers using SI suffixes.
+
+Quantities are representations of small or large numbers using a compact, whole-number notation with SI suffixes. Fractional numbers are represented using milli units, while large numbers can be represented using kilo, mega, or giga units. For instance, the number 1.5 is represented as 1500m , while the number 1000 can be represented as 1k , and 1000000 as 1M . You can also specify binary-notation suffixes; the number 2048 can be written as 2Ki . The accepted decimal (power-of-10) units are m (milli), k (kilo, intentionally lowercase), M (mega), G (giga), T (tera), P (peta), E (exa). The accepted binary (power-of-2) units are Ki (kibi), Mi (mebi), Gi (gibi), Ti (tebi), Pi (pebi), Ei (exbi).",https://kubernetes.io/docs/reference/glossary/#term-quantity,tags: fundamental
+RBAC (Role-Based Access Control),"Manages authorization decisions, allowing admins to dynamically configure access policies through the Kubernetes API .
+
+RBAC utilizes four kinds of Kubernetes objects: Role Defines permission rules in a specific namespace. ClusterRole Defines permission rules cluster-wide. RoleBinding Grants the permissions defined in a role to a set of users in a specific namespace. ClusterRoleBinding Grants the permissions defined in a role to a set of users cluster-wide. For more information, see RBAC .",https://kubernetes.io/docs/reference/glossary/#term-rbac,"tags: fundamental, security"
+Replica,"A copy or duplicate of a Pod or a set of pods. Replicas ensure high availability, scalability, and fault tolerance by maintaining multiple identical instances of a pod.
+
+Replicas are commonly used in Kubernetes to achieve the desired application state and reliability. They enable workload scaling and distribution across multiple nodes in a cluster. By defining the number of replicas in a Deployment or ReplicaSet, Kubernetes ensures that the specified number of instances are running, automatically adjusting the count as needed. Replica management allows for efficient load balancing, rolling updates, and self-healing capabilities in a Kubernetes cluster.",https://kubernetes.io/docs/reference/glossary/#term-replica,"tags: fundamental, workload"
+ReplicaSet,"A ReplicaSet (aims to) maintain a set of replica Pods running at any given time.
+
+Workload objects such as Deployment make use of ReplicaSets to ensure that the configured number of Pods are running in your cluster, based on the spec of that ReplicaSet.",https://kubernetes.io/docs/reference/glossary/#term-replica-set,"tags: core-object, fundamental, workload"
+ReplicationController,"A workload management object that manages a replicated application, ensuring that a specific number of instances of a Pod are running.
+
+The control plane ensures that the defined number of Pods are running, even if some Pods fail, if you delete Pods manually, or if too many are started by mistake. Note: ReplicationController is deprecated. See Deployment , which is similar.",https://kubernetes.io/docs/reference/glossary/#term-replication-controller,"tags: core-object, workload"
+Resource (infrastructure),"Capabilities provided to one or more nodes (CPU, memory, GPUs, etc), and made available for consumption by Pods running on those nodes. Kubernetes also uses the term resource to describe an API resource .
+
+Computers provide fundamental hardware facilities: processing power, storage memory, network, etc. These resources have finite capacity, measured in a unit applicable to that resource (number of CPUs, bytes of memory, etc). Kubernetes abstracts common resources for allocation to workloads and utilizes operating system primitives (for example, Linux cgroups ) to manage consumption by workloads ). You can also use dynamic resource allocation to manage complex resource allocations automatically.",https://kubernetes.io/docs/reference/glossary/#term-infrastructure-resource,tags: architecture
+ResourceClaim,"Describes the resources that a workload needs, such as devices . ResourceClaims are used in dynamic resource allocation (DRA) to provide Pods with access to a specific resource.
+
+ResourceClaims can be created by workload operators or generated by Kubernetes based on a ResourceClaimTemplate .",https://kubernetes.io/docs/reference/glossary/#term-resourceclaim,tags: workload
+ResourceClaimTemplate,"Defines a template that Kubernetes uses to create ResourceClaims . ResourceClaimTemplates are used in dynamic resource allocation (DRA) to provide per-Pod or per- PodGroup access to separate, similar resources .
+
+When a ResourceClaimTemplate is referenced in a workload specification, Kubernetes automatically creates ResourceClaim objects based on the template. Each ResourceClaim is bound to a specific Pod or PodGroup. When the Pod terminates or the PodGroup is deleted, Kubernetes deletes the corresponding ResourceClaim. PodGroup ResourceClaimTemplates require the DRAWorkloadResourceClaims feature to be enabled.",https://kubernetes.io/docs/reference/glossary/#term-resourceclaimtemplate,tags: workload
+ResourceQuota,"Object that constrains aggregate resource consumption, per Namespace .
+
+A ResourceQuota can either limit the quantity of API resources that can be created in a namespace by type, or it can set a limit on the total amount of infrastructure resources that may be consumed on behalf of the namespace (and the objects within it).",https://kubernetes.io/docs/reference/glossary/#term-resource-quota,"tags: architecture, fundamental, operation"
+ResourceSlice,"Represents one or more infrastructure resources, such as devices , that are attached to nodes. Drivers create and manage ResourceSlices in the cluster. ResourceSlices are used for dynamic resource allocation (DRA) .
+
+When a ResourceClaim is created, Kubernetes uses ResourceSlices to find nodes that have access to resources that can satisfy the claim. Kubernetes allocates resources to the ResourceClaim and schedules the Pod onto a node that can access the resources.",https://kubernetes.io/docs/reference/glossary/#term-resourceslice,tags: workload
+Reviewer,"A person who reviews code for quality and correctness on some part of the project.
+
+Reviewers are knowledgeable about both the codebase and software engineering principles. Reviewer status is scoped to a part of the codebase.",https://kubernetes.io/docs/reference/glossary/#term-reviewer,tags: community
+Secret,"Stores sensitive information, such as passwords, OAuth tokens, and SSH keys.
+
+Secrets give you more control over how sensitive information is used and reduces the risk of accidental exposure. Secret values are encoded as base64 strings and are stored unencrypted by default, but can be configured to be encrypted at rest . A Pod can reference the Secret in a variety of ways, such as in a volume mount or as an environment variable. Secrets are designed for confidential data and ConfigMaps are designed for non-confidential data.",https://kubernetes.io/docs/reference/glossary/#term-secret,"tags: core-object, security"
+Security Context,"The securityContext field defines privilege and access control settings for a Pod or container .
+
+In a securityContext , you can define: the user that processes run as, the group that processes run as, and privilege settings. You can also configure security policies (for example: SELinux, AppArmor or seccomp). The PodSpec.securityContext setting applies to all containers in a Pod.",https://kubernetes.io/docs/reference/glossary/#term-security-context,tags: security
+Selector,"Allows users to filter a list of API resources based on labels .
+
+Selectors are applied when querying lists of resources to filter them by labels.",https://kubernetes.io/docs/reference/glossary/#term-selector,tags: fundamental
+Service,"A method for exposing a network application that is running as one or more Pods in your cluster.
+
+The set of Pods targeted by a Service is (usually) determined by a selector . If more Pods are added or removed, the set of Pods matching the selector will change. The Service makes sure that network traffic can be directed to the current set of Pods for the workload. Kubernetes Services either use IP networking (IPv4, IPv6, or both), or reference an external name in the Domain Name System (DNS). The Service abstraction enables other mechanisms, such as Ingress and Gateway.",https://kubernetes.io/docs/reference/glossary/#term-service,"tags: core-object, fundamental"
+Service Catalog,"A former extension API that enabled applications running in Kubernetes clusters to easily use external managed software offerings, such as a datastore service offered by a cloud provider.
+
+It provided a way to list, provision, and bind with external Managed Services without needing detailed knowledge about how those services would be created or managed.",https://kubernetes.io/docs/reference/glossary/#term-service-catalog,tags: extension
+ServiceAccount,"Provides an identity for processes that run in a Pod .
+
+When processes inside Pods access the cluster, they are authenticated by the API server as a particular service account, for example, default . When you create a Pod, if you do not specify a service account, it is automatically assigned the default service account in the same Namespace .",https://kubernetes.io/docs/reference/glossary/#term-service-account,"tags: core-object, fundamental"
+Shuffle-sharding,"A technique for assigning requests to queues that provides better isolation than hashing modulo the number of queues.
+
+We are often concerned with insulating different flows of requests from each other, so that a high-intensity flow does not crowd out low-intensity flows. A simple way to put requests into queues is to hash some characteristics of the request, modulo the number of queues, to get the index of the queue to use. The hash function uses as input characteristics of the request that align with flows. For example, in the Internet this is often the 5-tuple of source and destination address, protocol, and source and destination port. That simple hash-based scheme has the property that any high-intensity flow will crowd out all the low-intensity flows that hash to the same queue. Providing good insulation for a large number of flows requires a large number of queues, which is problematic. Shuffle-sharding is a more nimble technique that can do a better job of insulating the low-intensity flows from the high-intensity flows. The terminology of shuffle-sharding uses the metaphor of dealing a hand from a deck of cards; each queue is a metaphorical card. The shuffle-sharding technique starts with hashing the flow-identifying characteristics of the request, to produce a hash value with dozens or more of bits. Then the hash value is used as a source of entropy to shuffle the deck and deal a hand of cards (queues). All the dealt queues are examined, and the request is put into one of the examined queues with the shortest length. With a modest hand size, it does not cost much to examine all the dealt cards and a given low-intensity flow has a good chance to dodge the effects of a given high-intensity flow. With a large hand size it is expensive to examine the dealt queues and more difficult for the low-intensity flows to dodge the collective effects of a set of high-intensity flows. Thus, the hand size should be chosen judiciously.",https://kubernetes.io/docs/reference/glossary/#term-shuffle-sharding,tags: fundamental
+Sidecar Container,"One or more containers that are typically started before any app containers run.
+
+Sidecar containers are like regular app containers, but with a different purpose: the sidecar provides a Pod-local service to the main app container. Unlike init containers , sidecar containers continue running after Pod startup. Read Sidecar containers for more information.",https://kubernetes.io/docs/reference/glossary/#term-sidecar-container,tags: fundamental
+SIG (special interest group),"Community members who collectively manage an ongoing piece or aspect of the larger Kubernetes open source project.
+
+Members within a SIG have a shared interest in advancing a specific area, such as architecture, API machinery, or documentation. SIGs must follow the SIG governance guidelines , but can have their own contribution policy and channels of communication. For more information, see the kubernetes/community repo and the current list of SIGs and Working Groups .",https://kubernetes.io/docs/reference/glossary/#term-sig,tags: community
+Spec,"Defines how each object, like Pods or Services, should be configured and its desired state.
+
+Almost every Kubernetes object includes two nested object fields that govern the object's configuration: the object spec and the object status. For objects that have a spec, you have to set this when you create the object, providing a description of the characteristics you want the resource to have: its desired state. It varies for different objects like Pods, StatefulSets, and Services, detailing settings such as containers, volumes, replicas, ports, and other specifications unique to each object type. This field encapsulates what state Kubernetes should maintain for the defined object.",https://kubernetes.io/docs/reference/glossary/#term-spec,"tags: architecture, fundamental"
+StatefulSet,"Manages the deployment and scaling of a set of Pods , and provides guarantees about the ordering and uniqueness of these Pods.
+
+Like a Deployment , a StatefulSet manages Pods that are based on an identical container spec. Unlike a Deployment, a StatefulSet maintains a sticky identity for each of its Pods. These pods are created from the same spec, but are not interchangeable: each has a persistent identifier that it maintains across any rescheduling. If you want to use storage volumes to provide persistence for your workload, you can use a StatefulSet as part of the solution. Although individual Pods in a StatefulSet are susceptible to failure, the persistent Pod identifiers make it easier to match existing volumes to the new Pods that replace any that have failed.",https://kubernetes.io/docs/reference/glossary/#term-statefulset,"tags: core-object, fundamental, storage, workload"
+Static Pod,"A pod managed directly by the kubelet daemon on a specific node,
+
+without the API server observing it. Static Pods do not support ephemeral containers .",https://kubernetes.io/docs/reference/glossary/#term-static-pod,tags: fundamental
+Storage Class,"A StorageClass provides a way for administrators to describe different available storage types.
+
+StorageClasses can map to quality-of-service levels, backup policies, or to arbitrary policies determined by cluster administrators. Each StorageClass contains the fields provisioner , parameters , and reclaimPolicy , which are used when a Persistent Volume belonging to the class needs to be dynamically provisioned. Users can request a particular class using the name of a StorageClass object.",https://kubernetes.io/docs/reference/glossary/#term-storageclass,"tags: core-object, storage"
+Subject Alternative Name,"Subject Alternative Name is an X.509 certificate extension that allows identities to be bound to the subject of the certificate.
+
+The standard defines identities represented as an email address, a DNS name, an IP address or a Uniform Resource Identifier (URI).",https://kubernetes.io/docs/reference/glossary/#term-san,tags: security
+sysctl,"sysctl is a semi-standardized interface for reading or changing the attributes of the running Unix kernel.
+
+On Unix-like systems, sysctl is both the name of the tool that administrators use to view and modify these settings, and also the system call that the tool uses. Container runtimes and network plugins may rely on sysctl values being set a certain way.",https://kubernetes.io/docs/reference/glossary/#term-sysctl,tags: tool
+Taint,"A core object consisting of three required properties: key, value, and effect. Taints prevent the scheduling of Pods on nodes or node groups.
+
+Taints and tolerations work together to ensure that pods are not scheduled onto inappropriate nodes. One or more taints are applied to a node. A node should only schedule a Pod with the matching tolerations for the configured taints.",https://kubernetes.io/docs/reference/glossary/#term-taint,tags: fundamental
+Toleration,"A core object consisting of three required properties: key, value, and effect. Tolerations enable the scheduling of pods on nodes or node groups that have matching taints .
+
+Tolerations and taints work together to ensure that pods are not scheduled onto inappropriate nodes. One or more tolerations are applied to a pod . A toleration indicates that the pod is allowed (but not required) to be scheduled on nodes or node groups with matching taints .",https://kubernetes.io/docs/reference/glossary/#term-toleration,"tags: core-object, fundamental"
+UID,"A Kubernetes systems-generated string to uniquely identify objects.
+
+Every object created over the whole lifetime of a Kubernetes cluster has a distinct UID. It is intended to distinguish between historical occurrences of similar entities.",https://kubernetes.io/docs/reference/glossary/#term-uid,tags: fundamental
+Upstream (disambiguation),"May refer to: core Kubernetes or the source repo from which a repo was forked.
+
+In the Kubernetes Community : Conversations often use upstream to mean the core Kubernetes codebase, which the general ecosystem, other code, or third-party tools rely upon. For example, community members may suggest that a feature is moved upstream so that it is in the core codebase instead of in a plugin or third-party tool. In GitHub or git : The convention is to refer to a source repo as upstream , whereas the forked repo is considered downstream .",https://kubernetes.io/docs/reference/glossary/#term-upstream,tags: community
+user namespace,"A kernel feature to emulate root. Used for ""rootless containers"".
+
+User namespaces are a Linux kernel feature that allows a non-root user to emulate superuser (""root"") privileges, for example in order to run containers without being a superuser outside the container. User namespace is effective for mitigating damage of potential container break-out attacks. In the context of user namespaces, the namespace is a Linux kernel feature, and not a namespace in the Kubernetes sense of the term.",https://kubernetes.io/docs/reference/glossary/#term-userns,tags: security
+Volume,"A directory containing data, accessible to the containers in a Pod .
+
+A Kubernetes volume lives as long as the Pod that encloses it. Consequently, a volume outlives any containers that run within the Pod, and data in the volume is preserved across container restarts. See storage for more information.",https://kubernetes.io/docs/reference/glossary/#term-volume,tags: fundamental
+Volume Plugin,"A Volume Plugin enables integration of storage within a Pod .
+
+A Volume Plugin lets you attach and mount storage volumes for use by a Pod . Volume plugins can be in tree or out of tree . In tree plugins are part of the Kubernetes code repository and follow its release cycle. Out of tree plugins are developed independently.",https://kubernetes.io/docs/reference/glossary/#term-volumeplugin,tags: storage
+Watch,"A verb that is used to track changes to an object in Kubernetes as a stream. It is used for the efficient detection of changes.
+
+A verb that is used to track changes to an object in Kubernetes as a stream. Watches allow efficient detection of changes; for example, a controller that needs to know whenever a ConfigMap has changed can use a watch rather than polling. See Efficient Detection of Changes in API Concepts for more information.",https://kubernetes.io/docs/reference/glossary/#term-watch,"tags: API, fundamental"
+WG (working group),"Facilitates the discussion and/or implementation of a short-lived, narrow, or decoupled project for a committee, SIG , or cross-SIG effort.
+
+Working groups are a way of organizing people to accomplish a discrete task. For more information, see the kubernetes/community repo and the current list of SIGs and working groups .",https://kubernetes.io/docs/reference/glossary/#term-wg,tags: community
+Workload,"A workload is an application running on Kubernetes.
+
+Various core objects that represent different types or parts of a workload include the DaemonSet, Deployment, Job, ReplicaSet, and StatefulSet objects. For example, a workload that has a web server and a database might run the database in one StatefulSet and the web server in a Deployment .",https://kubernetes.io/docs/reference/glossary/#term-workload,tags: fundamental

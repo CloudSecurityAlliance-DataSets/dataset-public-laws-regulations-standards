@@ -1,0 +1,86 @@
+[
+  {
+    "term": "cyberattaque",
+    "definition": "Ensemble coordonné d'actions menées dans le cyberespace qui visent des informations ou les systèmes qui les traitent, en portant atteinte à leur disponibilité, à leur intégrité ou à leur confidentialité.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberattaque",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: cyber attack, cyberattack"
+  },
+  {
+    "term": "cyberattaque persistante (CP)",
+    "definition": "Cyberattaque qui met en œuvre des moyens humains et techniques importants pour infiltrer durablement les systèmes d'information vitaux d'une organisation.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberattaque-persistante",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: advanced persistent threat (APT)"
+  },
+  {
+    "term": "cyberdéfense",
+    "definition": "Ensemble des moyens mis en place par un État pour défendre dans le cyberespace les systèmes d'information jugés d'importance vitale, qui contribuent à assurer la cybersécurité.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberd-fense",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE/Opérations | EN: cyber defence, cyberdefence"
+  },
+  {
+    "term": "cyberdéfense militaire",
+    "definition": "Ensemble coordonné d'actions défensives et offensives menées dans le cyberespace lors de la planification, de la préparation ou de la conduite d'opérations militaires.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberd-fense-militaire",
+    "notes": "Domaine: DÉFENSE/Opérations | EN: military cyber defence"
+  },
+  {
+    "term": "cyberespace",
+    "definition": "Espace constitué par les infrastructures interconnectées relevant des technologies de l'information, notamment l'internet, et par les données qui y sont traitées.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberespace",
+    "notes": "Domaine: TÉLÉCOMMUNICATIONS-INFORMATIQUE | EN: cyberspace"
+  },
+  {
+    "term": "cyberprotection",
+    "definition": "Ensemble des moyens, techniques ou juridiques, qui contribuent à assurer la cybersécurité.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberprotection",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE/Opérations | EN: cyber protection, cyberprotection"
+  },
+  {
+    "term": "cyberrenseignement",
+    "definition": "Ensemble d'actions menées dans le cyberespace consistant à infiltrer les systèmes informatiques d'une organisation et à s'emparer de données pour exploiter, à des fins opérationnelles, les renseignements ainsi recueillis.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberrenseignement",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: computer network exploitation (CNE)"
+  },
+  {
+    "term": "cyberrésilience",
+    "definition": "Capacité d'un système d'information à résister aux cyberattaques et aux pannes accidentelles, puis à revenir à un état de fonctionnement et de sécurité satisfaisant.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cyberr-silience",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: cyber resilience, cyberresilience"
+  },
+  {
+    "term": "cybersécurité",
+    "definition": "État d'un système d'information qui résiste aux cyberattaques et aux pannes accidentelles survenant dans le cyberespace.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#cybers-curit",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: cyber security, cybersecurity"
+  },
+  {
+    "term": "lutte informatique défensive (LID)",
+    "definition": "Ensemble coordonné d'actions menées par un État, qui consistent à détecter, à analyser et à prévenir des cyberattaques, et à y réagir le cas échéant.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#lutte-informatique-d-fensive",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: computer network defence (CND)"
+  },
+  {
+    "term": "lutte informatique offensive (LIO)",
+    "definition": "Ensemble coordonné d'actions menées dans le cyberespace par un État contre des systèmes d'information ou de données pour les perturber, les modifier, les dégrader ou les détruire.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#lutte-informatique-offensive",
+    "notes": "Domaine: INFORMATIQUE-DÉFENSE | EN: computer network attacks (CNA)"
+  },
+  {
+    "term": "opérateur d'importance vitale (OIV)",
+    "definition": "Personne morale publique ou privée qui gère ou utilise des établissements ou des ouvrages dont la destruction ou même l'indisponibilité obéreraient gravement le potentiel militaire, la force économique, la sécurité, voire la capacité de survie d'un État, ou mettraient en danger sa population.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#op-rateur-d-importance-vitale",
+    "notes": "Domaine: DÉFENSE/Opérations"
+  },
+  {
+    "term": "opérations dans le cyberespace",
+    "definition": "Actions relatives à la lutte informatique défensive, à la lutte informatique offensive et au cyberrenseignement.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#op-rations-dans-le-cyberespace",
+    "notes": "Domaine: DÉFENSE/Opérations | EN: computer network operations (CNO)"
+  },
+  {
+    "term": "renseignement intéressant la cyberdéfense militaire (RICM)",
+    "definition": "Renseignement qui apporte à la chaîne de commandement opérationnel de la cyberdéfense militaire les informations dont la connaissance est nécessaire pour conduire des opérations dans le cyberespace.",
+    "source_anchor": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357#renseignement-int-ressant-la-cyberd-fense-militaire",
+    "notes": "Domaine: DÉFENSE/Opérations"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "term": "AWWA Process Control System Security Guidance",
+    "definition": "The American Water Works Association (AWWA) produced voluntary security guidance to provide water utility companies with a recommended course of action to reduce vulnerabilities to cyber-attacks. It is meant to represent the water sector's approach to implementing the NIST framework (see below).",
+    "source_anchor": "awwa-process-control-system-security-guidance",
+    "links": [
+      {
+        "href": "http://www.awwa.org/Portals/0/files/legreg/documents/AWWACybersecurityguide.pdf",
+        "text": "AWWA guidance"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Bulk electric systems (BES)",
+    "definition": "BES are generation and transmission facilities and their control systems that are part of the North American interconnected power grid. They generally operate at 100 kilovolts or more.",
+    "source_anchor": "bulk-electric-systems-bes",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "Breakers (i.e., circuit breakers)",
+    "definition": "In electric substations, circuit breakers act as safety switches to protect workers and equipment during an emergency by automatically stopping electric current flowing through a power line.",
+    "source_anchor": "breakers-i-e-circuit-breakers",
+    "links": [
+      {
+        "href": "https://www-wichita.westarenergy.com/kanza-education-and-science-park-the-substation",
+        "text": "Explanation of substations"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "DHS",
+    "definition": "U.S. Department of Homeland Security",
+    "source_anchor": "dhs",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "DOE ES-C2M2",
+    "definition": "The U.S. Department of Energy (DOE) Cybersecurity Capability Maturity Model (C2M2) is generally a self-evaluation tool that organizations can use to compare their cybersecurity program to industry best practices. The C2M2 for the electricity subsector is ES-C2M2.",
+    "source_anchor": "doe-es-c2m2",
+    "links": [
+      {
+        "href": "http://energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf",
+        "text": "ES-C2M2"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Electric reliability organization (ERO)",
+    "definition": "Currently, NERC (see below) serves as the ERO. The 2005 federal Energy Policy Act (P.L. 109-58) gave FERC the power to certify an organization to act as ERO and to approve mandatory cybersecurity standards the ERO proposes and enforces.",
+    "source_anchor": "electric-reliability-organization-ero",
+    "links": [
+      {
+        "href": "https://www.gpo.gov/fdsys/pkg/USCODE-2015-title16/pdf/USCODE-2015-title16-chap12-subchapII-sec824o.pdf",
+        "text": "16 U.S.C. 824o"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "FCC",
+    "definition": "Federal Communications Commission",
+    "source_anchor": "fcc",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "FCC CSRIC IV WG4 Final Report",
+    "definition": "FCC's Communications Security, Reliability and Interoperability Council (CSRIC IV) published a report known as the Working Group 4 (WG-4) Final Report that assessed and prioritized the NIST framework (see below) for the communications industry.",
+    "source_anchor": "fcc-csric-iv-wg4-final-report",
+    "links": [
+      {
+        "href": "https://transition.fcc.gov/pshs/advisory/csric4/CSRIC_IV_WG4_Final_Report_031815.pdf",
+        "text": "WG-4 Final Report"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "FERC",
+    "definition": "Federal Energy Regulatory Commission",
+    "source_anchor": "ferc",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "GridEx",
+    "definition": "A North American-wide, biennial physical security and cybersecurity exercise sponsored by NERC that tests the electricity sector's response to simulated cybersecurity and physical security incidents",
+    "source_anchor": "gridex",
+    "links": [
+      {
+        "href": "http://www.nerc.com/pa/CI/CIPOutreach/GridEX/NERC%20GridEx%20III%20Report.pdf",
+        "text": "GridEx III Report"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Industrial Control System (ICS)",
+    "definition": "An ICS consists of combinations of control components (e.g., electrical, mechanical, hydraulic) that act together to achieve an industrial objective (e.g., transport energy). ICS is a general term that encompasses several types of control systems, including SCADA (see entry below).",
+    "source_anchor": "industrial-control-system-ics",
+    "links": [
+      {
+        "href": "http://dx.doi.org/10.6028/NIST.SP.800-82r2",
+        "text": "NIST Guide to ICS Security"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Industrial Control Systems Computer Emergency Readiness Team (ICS-CERT)",
+    "definition": "Unit within DHS' National Cybersecurity and Integration Center that assists control systems vendors and asset owners and operators to identify security vulnerabilities and develop sound mitigation strategies",
+    "source_anchor": "industrial-control-systems-computer-emergency-readiness-team-ics-cert",
+    "links": [
+      {
+        "href": "https://ics-cert.us-cert.gov/About-Industrial-Control-Systems-Cyber-Emergency-Response-Team",
+        "text": "About ICS-CERT"
+      },
+      {
+        "href": "https://ics-cert.us-cert.gov/alerts/IR-ALERT-H-16-056-01",
+        "text": "ICS-CERT Alert on Ukraine Cyber Attack"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Information technology (IT)",
+    "definition": "In the ES-C2M2, IT is a discrete set of electronic information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or deposition of information, including interconnected or dependent business systems and their operating environment.",
+    "source_anchor": "information-technology-it",
+    "links": [
+      {
+        "href": "http://energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf",
+        "text": "ES-C2M2"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Intentional electromagnetic interference device (IEMI)",
+    "definition": "Devices that intentionally generate electromagnetic energy to introduce noise or signals into electric and electronic systems, thus disrupting, confusing or damaging these systems for malicious purposes",
+    "source_anchor": "intentional-electromagnetic-interference-device-iemi",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "Malware",
+    "definition": "Malware is malicious code or software, including viruses, spyware, and other unwanted software that is installed onto a computer or other equipment without the user's consent. Malware can be used to steal information including users' credentials or cause programs to crash or act erratically.",
+    "source_anchor": "malware",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "MIL",
+    "definition": "The ES-C2M2 (see entry above) includes Maturity Indicator Levels (MILs) as a measurement that rates a program's completeness and development level of cybersecurity practices as well as the extent to which such practices are ingrained in daily operations. MILs range from MIL0 (an absence of security practices) to MIL3 (extensive implementation of best practices). MILs apply to separate cybersecurity domains (e.g., risk management and situational awareness).",
+    "source_anchor": "mil",
+    "links": [
+      {
+        "href": "http://energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf",
+        "text": "ES-C2M2"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "National Cyber Incident Response Plan (NCIRP)",
+    "definition": "Plan developed by DHS and the Federal Emergency Management Authority (FEMA) to describe a nationwide approach to cyber incidents and discuss the role of private sector entities, states, and federal agencies in response to cyber incidents. An Interim NCIRP was released in 2011. DHS and FEMA are currently developing a new NCIRP to replace it.",
+    "source_anchor": "national-cyber-incident-response-plan-ncirp",
+    "links": [
+      {
+        "href": "https://www.us-cert.gov/ncirp",
+        "text": "About NCRIP"
+      },
+      {
+        "href": "https://www.us-cert.gov/sites/default/files/ncirp/NE%20DRAFT%20NATIONAL%20CYBER%20INCIDENT%20RESPONSE%20PLAN%2020160930.pdf",
+        "text": "Draft NCRIP"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "NIST",
+    "definition": "National Institute of Standards and Technology",
+    "source_anchor": "nist",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "NIST Cybersecurity Framework",
+    "definition": "National Institute of Standards and Technology's \"Framework for Improving Critical Infrastructure Cybersecurity\" does not include requirements or standards, but rather a \"common language\" to address cybersecurity risk and a methodology that organizations can use to apply principles of risk management to improve the security and resilience of critical infrastructure.",
+    "source_anchor": "nist-cybersecurity-framework",
+    "links": [
+      {
+        "href": "https://www.nist.gov/cyberframework/cybersecurity-framework-faqs-framework-basics",
+        "text": "NIST: Framework Basics and FAQs"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "NERC CIP",
+    "definition": "The cybersecurity standards and requirements created by NERC (see below) that apply to certain BESs (see above) in the United States are known as Critical Infrastructure Protection (CIP). The NERC CIP is the only mandatory federal cybersecurity framework for the utility industry. It includes penalties and sanctions for noncompliance. NERC CIP does not apply to distribution systems.",
+    "source_anchor": "nerc-cip",
+    "links": [
+      {
+        "href": "http://www.nerc.com/pa/CI/Comp/Pages/default.aspx",
+        "text": "NERC: CIP Compliance"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "North American Electric Reliability Corporation (NERC)",
+    "definition": "NERC is a nonprofit international regulatory authority that, among other things, develops and enforces reliability standards and monitors the bulk power system. NERC is the electric reliability organization (ERO, see above) for North America, subject to oversight by FERC and Canadian authorities.",
+    "source_anchor": "north-american-electric-reliability-corporation-nerc",
+    "links": [
+      {
+        "href": "http://www.nerc.com/AboutNERC/Pages/default.aspx",
+        "text": "About NERC"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Operations technology (OT)",
+    "definition": "In the ES-C2M2, OT is programmable systems or devices that interact with the physical environment (or manage devices that do) (e.g., industrial control systems, building management systems, physical access control mechanisms).",
+    "source_anchor": "operations-technology-ot",
+    "links": [
+      {
+        "href": "http://energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf",
+        "text": "ES-C2M2"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "PCII",
+    "definition": "DHS' Protected Critical Infrastructure Information program seeks to protect private sector infrastructure information voluntarily shared with the government for homeland security purposes. The PCII protects such information from public disclosure.",
+    "source_anchor": "pcii",
+    "links": [
+      {
+        "href": "https://www.dhs.gov/pcii-program",
+        "text": "PCII Program"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "term": "Probe",
+    "definition": "An attempt to access a system to learn something about that system",
+    "source_anchor": "probe",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "Spear-phishing",
+    "definition": "Phishing is an attempt to acquire sensitive information (usernames, passwords, or credit card or identity information) by pretending to be a trustworthy entity in an email or other communication. Perpetrators generally send phishing emails to a large number of recipients, asking them to click a link or perform some other action. Spear-phishing refers to a more targeted phishing attack where the fraudulent email appears to be from someone the recipient knows and may include personal information.",
+    "source_anchor": "spear-phishing",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "Supervisory Control and Data Acquisition Systems (SCADA)",
+    "definition": "A generic name for a computerized system capable of gathering and processing data and applying operational controls over long distances. Used for pipeline systems and power transmission and distribution, SCADA was designed for communications challenges posed by the materials that must be used in such systems (e.g., delays due to electric lines).",
+    "source_anchor": "supervisory-control-and-data-acquisition-systems-scada",
+    "links": [],
+    "notes": ""
+  },
+  {
+    "term": "Telephone denial-of-service attack (TDOS)",
+    "definition": "An attack in which a large number of false telephone calls are generated and directed to one or more phone numbers to prevent those numbers from accepting legitimate phone calls.",
+    "source_anchor": "telephone-denial-of-service-attack-tdos",
+    "links": [],
+    "notes": ""
+  }
+]
