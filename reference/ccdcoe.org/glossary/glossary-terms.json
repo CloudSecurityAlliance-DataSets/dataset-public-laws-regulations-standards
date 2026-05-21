@@ -1,0 +1,458 @@
+[
+  {
+    "term": "Active Cyber Defence",
+    "definition": "The taking of proactive defensive measures outside the defended cyber infrastructure. A hack-back is a type of active cyber defence.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Active_Cyber_Defence",
+    "notes": ""
+  },
+  {
+    "term": "Bandwidth",
+    "definition": "The capacity of a communication channel to pass data through the channel in a given amount of time, usually expressed in bits per second.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Bandwidth",
+    "notes": ""
+  },
+  {
+    "term": "Botnet",
+    "definition": "A network of compromised computers, so-called 'bots', remotely controlled by an intruder, 'the botherder', used to conduct coordinated cyber operations, such as distributed denial of service operations.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Botnet",
+    "notes": ""
+  },
+  {
+    "term": "Click farm",
+    "definition": "See farm.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Click_farm",
+    "notes": ""
+  },
+  {
+    "term": "Close Access Operation",
+    "definition": "A cyber operation requiring the actor's physical proximity to the targeted system.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Close_Access_Operation",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Computing",
+    "definition": "A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (such as networks, servers, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cloud_Computing",
+    "notes": ""
+  },
+  {
+    "term": "Common Criteria",
+    "definition": "International standard for evaluating the security properties of IT products.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Common_Criteria",
+    "notes": ""
+  },
+  {
+    "term": "Computational Propaganda",
+    "definition": "See propaganda.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Computational_Propaganda",
+    "notes": ""
+  },
+  {
+    "term": "Computer Emergency Response Team (CERT)",
+    "definition": "A team that provides initial emergency response aid and triage services to the victims or potential victims of cyber operations or cyber crimes.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Computer_Emergency_Response_Team_CERT",
+    "notes": ""
+  },
+  {
+    "term": "Computer Network",
+    "definition": "An infrastructure of interconnected devices or nodes that enables the exchange of data.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Computer_Network",
+    "notes": ""
+  },
+  {
+    "term": "Computer System",
+    "definition": "One or more interconnected computers with associated software and peripheral devices.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Computer_System",
+    "notes": ""
+  },
+  {
+    "term": "Critical Infrastructure",
+    "definition": "Physical or virtual systems and assets of a State that are so vital that their incapacitation or destruction may debilitate a State's security, economy, public health or safety, or the environment.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Critical_Infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Cyber",
+    "definition": "Connotes a relationship with information technology.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber",
+    "notes": ""
+  },
+  {
+    "term": "Cyber Activity",
+    "definition": "Any activity that involves the use of cyber infrastructure or employs cyber means to affect the operation of such infrastructure.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber_Activity",
+    "notes": ""
+  },
+  {
+    "term": "Cyber Infrastructure",
+    "definition": "The communications, storage, and computing devices upon which information systems are built and operate.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber_Infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Cyber Operation",
+    "definition": "The employment of cyber capabilities to achieve objectives in or through cyberspace.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber_Operation",
+    "notes": ""
+  },
+  {
+    "term": "Cyber Reconnaissance",
+    "definition": "The use of cyber capabilities to obtain information about activities, information resources, or system capabilities.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber_Reconnaissance",
+    "notes": ""
+  },
+  {
+    "term": "Cyber System",
+    "definition": "See computer system.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyber_System",
+    "notes": ""
+  },
+  {
+    "term": "Cyberspace",
+    "definition": "The environment formed by physical and non-physical components to store, modify, and exchange data using computer networks.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Cyberspace",
+    "notes": ""
+  },
+  {
+    "term": "Data",
+    "definition": "The basic element that can be processed or produced by a computer to convey information.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Data",
+    "notes": ""
+  },
+  {
+    "term": "Data Centre",
+    "definition": "A physical facility used for the storage and processing of large volumes of data.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Data_Centre",
+    "notes": ""
+  },
+  {
+    "term": "Database",
+    "definition": "A collection of interrelated data stored together in one or more computerised files.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Database",
+    "notes": ""
+  },
+  {
+    "term": "Deep Fake",
+    "definition": "A fabricated video created through the use of machine learning techniques and human image synthesis.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Deep_Fake",
+    "notes": ""
+  },
+  {
+    "term": "Denial of Service (DoS)",
+    "definition": "The non-availability of computer system resources to their users.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Denial_of_Service_DoS",
+    "notes": ""
+  },
+  {
+    "term": "Digital Hate Speech",
+    "definition": "See hate speech.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Digital_Hate_Speech",
+    "notes": ""
+  },
+  {
+    "term": "Disinformation",
+    "definition": "The spreading of intentionally false information, which was fabricated or disseminated by someone with ill intent.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Disinformation",
+    "notes": ""
+  },
+  {
+    "term": "Distributed Denial of Service (DDoS)",
+    "definition": "A technique that employs multiple computing devices (e.g., computers or smartphones), such as the bots of a botnet, to cause a denial of service to a single or multiple targets.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Distributed_Denial_of_Service_DDoS",
+    "notes": ""
+  },
+  {
+    "term": "Domain Name",
+    "definition": "A unique, alphanumeric, human-readable name for a computer.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Domain_Name",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Warfare",
+    "definition": "The use of electromagnetic (EM) or directed energy to exploit the electromagnetic spectrum.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Electronic_Warfare",
+    "notes": ""
+  },
+  {
+    "term": "Fake News",
+    "definition": "A popular term that traditionally refers to deliberate disinformation or hoaxes spread on social media or other online outlets.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Fake_News",
+    "notes": ""
+  },
+  {
+    "term": "Farm",
+    "definition": "In the context of misinformation, disinformation, and hate speech, a farm refers to the hiring of large groups of (often low-paid) workers to perform a certain action online.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Farm",
+    "notes": ""
+  },
+  {
+    "term": "Firmware",
+    "definition": "Low level programming that acts as an interface between hardware and software.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Firmware",
+    "notes": ""
+  },
+  {
+    "term": "Hack-back",
+    "definition": "A type of active cyber defence, the main purpose of which is to take action against an identified source of a malicious cyber operation.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Hack_back",
+    "notes": ""
+  },
+  {
+    "term": "Hacktivist",
+    "definition": "A private citizen who on his or her own initiative engages in hacking for, inter alia, ideological, political, religious, or patriotic reasons.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Hacktivist",
+    "notes": ""
+  },
+  {
+    "term": "Hardware",
+    "definition": "See cyber infrastructure.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Hardware",
+    "notes": ""
+  },
+  {
+    "term": "Hashtag Hijacking",
+    "definition": "The process via which a hashtag is used in a different way than originally intended.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Hashtag_Hijacking",
+    "notes": ""
+  },
+  {
+    "term": "Hate Speech",
+    "definition": "All forms of expression (text, images, audio, video) which spread, incite, promote or justify hatred and violence based on intolerance.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Hate_Speech",
+    "notes": ""
+  },
+  {
+    "term": "Honeynet",
+    "definition": "A virtual environment consisting of multiple honeypots, designed to deceive an intruder.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Honeynet",
+    "notes": ""
+  },
+  {
+    "term": "Honeypot",
+    "definition": "A deception technique in which a person seeking to defend computer systems against malicious cyber operations uses a physical or virtual environment designed to lure the attention of intruders.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Honeypot",
+    "notes": ""
+  },
+  {
+    "term": "Industrial Control System (ICS)",
+    "definition": "A general term that encompasses several types of control systems, including supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and other control system configurations such as Programmable Logic Controllers (PLC).",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Industrial_Control_System_ICS",
+    "notes": ""
+  },
+  {
+    "term": "Internet",
+    "definition": "A global system of interconnected computer networks that use the Internet Protocol suite and a clearly defined routing policy.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Internet",
+    "notes": ""
+  },
+  {
+    "term": "Internet Protocol (IP)",
+    "definition": "A protocol for addressing hosts and routing datagrams (i.e., packets) from a source host to the destination host across one or more IP networks.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Internet_Protocol_IP",
+    "notes": ""
+  },
+  {
+    "term": "Internet Protocol (IP) Address",
+    "definition": "A unique identifier for a device on an IP network, including the Internet.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Internet_Protocol_IP_Address",
+    "notes": ""
+  },
+  {
+    "term": "Internet Service Provider (ISP)",
+    "definition": "An organisation that provides the network connectivity that enables computer network users to access the Internet.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Internet_Service_Provider_ISP",
+    "notes": ""
+  },
+  {
+    "term": "Jamming",
+    "definition": "See electronic warfare.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Jamming",
+    "notes": ""
+  },
+  {
+    "term": "Kill switch",
+    "definition": "A mechanism used to shut down or disable a cyber device or a cyber capability (such as a malware) after a specified time period or when remotely activated.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Kill_switch",
+    "notes": ""
+  },
+  {
+    "term": "Logic Bomb",
+    "definition": "Malware that is designed to initiate a malicious sequence of actions if specified conditions are met.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Logic_Bomb",
+    "notes": ""
+  },
+  {
+    "term": "Mal-information",
+    "definition": "The spreading of true information, but with the intent to cause harm (for example, by tainting someone's broader reputation).",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Mal_information",
+    "notes": ""
+  },
+  {
+    "term": "Malware",
+    "definition": "Software that may be stored and executed in other software, firmware, or hardware that is designed adversely to affect the performance of a computer system.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Malware",
+    "notes": ""
+  },
+  {
+    "term": "Metadata",
+    "definition": "Data that provides information about other data, such as its time of creation and origin.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Metadata",
+    "notes": ""
+  },
+  {
+    "term": "Misinformation",
+    "definition": "The spreading of unintentionally false information by individuals who believe the information to be true or have not taken the time to verify it.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Misinformation",
+    "notes": ""
+  },
+  {
+    "term": "Network Segmentation",
+    "definition": "The division of a computer network into smaller, distinct parts (subnetworks), usually for the purposes of enhancing performance and improving security.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Network_Segmentation",
+    "notes": ""
+  },
+  {
+    "term": "Network Sniffer",
+    "definition": "Software used to observe and record network traffic.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Network_Sniffer",
+    "notes": ""
+  },
+  {
+    "term": "Network Throttling",
+    "definition": "A technique to limit the availability of bandwidth to users of communications networks.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Network_Throttling",
+    "notes": ""
+  },
+  {
+    "term": "Passive Cyber Defence",
+    "definition": "The taking of measures for detecting and mitigating cyber intrusions and the effects of cyber operations that does not involve launching a preventive, pre-emptive, or counter-operation against the source.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Passive_Cyber_Defence",
+    "notes": ""
+  },
+  {
+    "term": "Phishing",
+    "definition": "A type of social engineering attack most commonly executed by the use of email, social networks, or instant messaging.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Phishing",
+    "notes": ""
+  },
+  {
+    "term": "Programmable logic controller (PLC)",
+    "definition": "An electronic device, which carries out the control functions of various automatized processes in a broad range of industries.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Programmable_logic_controller_PLC",
+    "notes": ""
+  },
+  {
+    "term": "Propaganda",
+    "definition": "Information that is used to promote or mislead a target audience towards a particular point of view.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Propaganda",
+    "notes": ""
+  },
+  {
+    "term": "Rootkit",
+    "definition": "Malware installed on a compromised computer that allows a perpetrator to maintain privileged access to that computer and to conceal his or her activities therein.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Rootkit",
+    "notes": ""
+  },
+  {
+    "term": "Server",
+    "definition": "A physical or virtual computer dedicated to running one or more computing services.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Server",
+    "notes": ""
+  },
+  {
+    "term": "Server Farm",
+    "definition": "A form of cluster computing in which a large number of servers are collocated in a data centre.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Server_Farm",
+    "notes": ""
+  },
+  {
+    "term": "Software",
+    "definition": "The non-physical components of a computer system and cyber infrastructure.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Software",
+    "notes": ""
+  },
+  {
+    "term": "Software Agent",
+    "definition": "A computer process, managed by a computer operating system, which performs one or more tasks on behalf of a human user.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Software_Agent",
+    "notes": ""
+  },
+  {
+    "term": "Spear-phishing",
+    "definition": "A phishing operation that targets particular individuals and involves a higher level of sophistication and tailored content.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Spear_phishing",
+    "notes": ""
+  },
+  {
+    "term": "Spoofing",
+    "definition": "Impersonating a legitimate resource or user to gain unauthorised entry into an information system or to make it appear that some other organisation or individual has initiated or undertaken certain cyber activity.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Spoofing",
+    "notes": ""
+  },
+  {
+    "term": "Steganography",
+    "definition": "The technique of hiding content within other content.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Steganography",
+    "notes": ""
+  },
+  {
+    "term": "Stuxnet",
+    "definition": "A computer worm that was designed to target Supervisory Control and Data Acquisition (SCADA) systems developed by Siemens Corporation.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Stuxnet",
+    "notes": ""
+  },
+  {
+    "term": "Supervisory Control and Data Acquisition (SCADA)",
+    "definition": "Computer systems and instrumentation that provide for monitoring and controlling industrial, infrastructure, and facility-based processes.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Supervisory_Control_and_Data_Acquisition_SCADA",
+    "notes": ""
+  },
+  {
+    "term": "Troll Farm",
+    "definition": "See farm.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Troll_Farm",
+    "notes": ""
+  },
+  {
+    "term": "Virus",
+    "definition": "A type of malware with self-replicating capability that attaches itself to an application program or other executable system component.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Virus",
+    "notes": ""
+  },
+  {
+    "term": "Very Small Aperture Terminal (VSAT)",
+    "definition": "A portable satellite ground station used for two-way communications.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Very_Small_Aperture_Terminal_VSAT",
+    "notes": ""
+  },
+  {
+    "term": "Website",
+    "definition": "A set of related web pages containing information.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Website",
+    "notes": ""
+  },
+  {
+    "term": "Whaling",
+    "definition": "Also known as whale phishing, is a type of spear-phishing attack that specifically targets an organisation's senior management, executives, and other high profile individuals.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Whaling",
+    "notes": ""
+  },
+  {
+    "term": "Wi-Fi",
+    "definition": "A type of high-speed wireless networking.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Wi_Fi",
+    "notes": ""
+  },
+  {
+    "term": "Worm",
+    "definition": "A type of malware that is able to self-replicate and autonomously spread across computer networks.",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#Worm",
+    "notes": ""
+  },
+  {
+    "term": "XML Tag",
+    "definition": "A markup construct that is part of the open standard known as the Extensible Markup Language (XML).",
+    "source_anchor": "https://cyberlaw.ccdcoe.org/wiki/Glossary#XML_Tag",
+    "notes": ""
+  }
+]
