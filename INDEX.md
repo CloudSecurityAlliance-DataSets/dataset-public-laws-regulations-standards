@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 475
+**Total documents indexed:** 474
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
 | `control/` | 61 | 32 | 8 | — | — | **101** |
-| `regulation/` | 47 | 19 | 7 | — | — | **73** |
+| `regulation/` | 47 | 22 | 4 | — | — | **73** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 40 | 113 | 122 | 4 | 6 | **285** |
-| **Total** | **160** | **164** | **141** | **4** | **6** | **475** |
+| `reference/` | 40 | 113 | 121 | 4 | 6 | **284** |
+| **Total** | **160** | **167** | **137** | **4** | **6** | **474** |
 
 ## control/
 
@@ -162,7 +162,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/dma/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/dma` |
 | `regulation/europa.eu/dora/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
 | `regulation/europa.eu/dsa/` | structured | 7 | `M··CS··` | `secid:regulation/europa.eu/dsa` |
-| `regulation/europa.eu/eprivacy/` | metadata-only | 3 | `M······` | `secid:regulation/europa.eu/eprivacy` |
+| `regulation/europa.eu/eprivacy/` | extracted | 4 | `MX·····` | `secid:regulation/europa.eu/eprivacy` |
 | `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
@@ -183,7 +183,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/govinfo.gov/hipaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hipaa` |
 | `regulation/illinois.gov/bipa/` | extracted | 3 | `MX·····` | `secid:regulation/illinois.gov/bipa` |
 | `regulation/in.gov/incdpa/` | extracted | 3 | `MX·····` | `secid:regulation/in.gov/incdpa` |
-| `regulation/industry.gov.au/ai-action-plan/` | metadata-only | 2 | `M······` | `secid:regulation/industry.gov.au/ai-action-plan` |
+| `regulation/industry.gov.au/ai-action-plan/` | extracted | 3 | `MX·····` | `secid:regulation/industry.gov.au/ai-action-plan` |
 | `regulation/iowa.gov/icdpa/` | extracted | 3 | `MX·····` | `secid:regulation/iowa.gov/icdpa` |
 | `regulation/maryland.gov/facial-recognition-laws/` | metadata-only | 2 | `M······` | `secid:regulation/maryland.gov/facial-recognition-laws` |
 | `regulation/mass.gov/ai-bills/` | metadata-only | 2 | `M······` | `secid:regulation/mass.gov/ai-bills` |
@@ -204,7 +204,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ppc.go.jp/appi/` | structured | 8 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
 | `regulation/quebec.ca/loi-25/` | structured | 5 | `M··CSP·` | `secid:regulation/quebec.ca/loi-25` |
 | `regulation/texas.gov/cubi-biometric-privacy/` | extracted | 4 | `MX·····` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
-| `regulation/tn.gov/tipa/` | metadata-only | 2 | `M······` | `secid:regulation/tn.gov/tipa` |
+| `regulation/tn.gov/tipa/` | extracted | 3 | `MX·····` | `secid:regulation/tn.gov/tipa` |
 | `regulation/utah.gov/ucpa/` | structured | 8 | `MX·CSP·` | `secid:regulation/utah.gov/ucpa` |
 | `regulation/virginia.gov/vcdpa/` | structured | 6 | `M··CSP·` | `secid:regulation/virginia.gov/vcdpa` |
 | `regulation/wa.gov/my-health-my-data-act/` | extracted | 4 | `MX·····` | `secid:regulation/wa.gov/my-health-my-data-act` |
@@ -388,7 +388,6 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
 | `reference/mitre.org/cwe-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/mitre.org/cwe-glossary` |
 | `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
-| `reference/mt.gov/mom-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mt.gov/mom-security-glossary` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | structured | 6 | `MX·CSP·` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
 | `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
 | `reference/ncsc.fi/ncsc-fi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
