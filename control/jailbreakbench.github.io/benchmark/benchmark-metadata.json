@@ -21,7 +21,8 @@
   "links": {
     "source": "https://jailbreakbench.github.io",
     "csaLocation": "",
-    "github": "https://github.com/JailbreakBench/jailbreakbench"
+    "github": "https://github.com/JailbreakBench/jailbreakbench",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "",
@@ -32,13 +33,9 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T19:02:25Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the publisher's landing/overview page. May be just the public-facing page that links to detailed framework docs; deep-link acquisition is a follow-up if more depth is needed."
   },
   "extraction_history": [
     {
@@ -46,6 +43,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},

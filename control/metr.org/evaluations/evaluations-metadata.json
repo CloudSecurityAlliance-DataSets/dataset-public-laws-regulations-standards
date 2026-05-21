@@ -20,7 +20,9 @@
   },
   "links": {
     "source": "https://metr.org/work/",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 404 \u2014 METR site restructured. Live content at metr.org/research."
   },
   "lifecycle": {
     "published": "",

@@ -21,7 +21,9 @@
   "links": {
     "source": "https://www.harmbench.org",
     "csaLocation": "",
-    "github": "https://github.com/centerforaisafety/HarmBench"
+    "github": "https://github.com/centerforaisafety/HarmBench",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "HTTP 200 with 918 bytes \u2014 JS-rendered SPA on harmbench.org. Try the GitHub README at github.com/centerforaisafety/HarmBench."
   },
   "lifecycle": {
     "published": "",
