@@ -32,13 +32,20 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "marker",
-    "tool_version": "unknown",
-    "extraction_host": "local (pre-reorg)",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+    "s3_timestamp": "2026-05-21T16:02:02Z",
+    "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
+    "notes": "Applied the generic section extractor to 800-30 r1: 164 headings captured, 20 with identifiers via the numeric/statute/pillar/chapter patterns. Per-section appendix-table parsing (where applicable, especially for 800-30 r1's assessment-scale tables) is a follow-up that would emit a separate per-table CSV alongside the section table."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "tool": "marker",
+      "tool_version": "unknown",
+      "extraction_host": "local (pre-reorg)",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
+    }
+  ]
 }
