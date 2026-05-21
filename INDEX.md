@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 59 | 106 | 41 | — | — | **206** |
+| `control/` | 60 | 105 | 41 | — | — | **206** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 6 | — | — | — | **6** |
 | `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **110** | **129** | **84** | **4** | **6** | **333** |
+| **Total** | **111** | **128** | **84** | **4** | **6** | **333** |
 
 ## control/
 
@@ -165,7 +165,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-209/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-209` |
 | `control/nist.gov/800-210/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-210` |
 | `control/nist.gov/800-213/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:control/nist.gov/800-213` |
-| `control/nist.gov/800-213a/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-213a` |
+| `control/nist.gov/800-213a/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-213a` |
 | `control/nist.gov/800-216/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-216` |
 | `control/nist.gov/800-218/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218` |
 | `control/nist.gov/800-218a/` | structured | 9 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218a` |
