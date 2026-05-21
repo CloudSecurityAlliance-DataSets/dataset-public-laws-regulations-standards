@@ -2,13 +2,15 @@
   "secid": "secid:ttp/mitre.org/fight",
   "name": "5G Hierarchy of Threats",
   "acronym": "FiGHT",
-  "alternate_names": ["MITRE FiGHT"],
+  "alternate_names": [
+    "MITRE FiGHT"
+  ],
   "version": "",
   "publication_id": "FiGHT",
   "owner": "MITRE Corporation (with DoD sponsorship)",
   "type": "Framework",
   "description": "FiGHT is a knowledge base of adversary tactics and techniques targeting 5G network systems. Structured similarly to MITRE ATT&CK, FiGHT enumerates the techniques an adversary might use against the 5G core, RAN (radio access network), management plane, and 5G-specific protocols (e.g., HTTP/2-based service-based architecture, SUCI/SUPI handling, network slicing). FiGHT extends or specializes ATT&CK techniques where 5G-specific variations apply.",
-  "relationToCloudSecurity": "5G cores are increasingly cloud-native (containers, microservices, Kubernetes). FiGHT techniques against the 5G core often map to underlying cloud-platform attack surface — FiGHT is the most relevant framework for operators threat-modeling cloud-hosted 5G workloads.",
+  "relationToCloudSecurity": "5G cores are increasingly cloud-native (containers, microservices, Kubernetes). FiGHT techniques against the 5G core often map to underlying cloud-platform attack surface \u2014 FiGHT is the most relevant framework for operators threat-modeling cloud-hosted 5G workloads.",
   "relationToAISecurity": "FiGHT does not specifically address AI-targeting techniques. AI components in 5G (e.g., AI-driven network optimization, traffic classification) would be threat-modeled with a combination of FiGHT (network plane) and ATLAS (AI/ML plane).",
   "license": {
     "spdx": "LicenseRef-MITRE-FiGHT-Terms-of-Use",
@@ -50,5 +52,9 @@
   "scope": {
     "covers": "5G network adversary techniques (core, RAN, management plane, 5G-specific protocols)"
   },
-  "notes": "Niche but valuable for 5G operators. Often consumed alongside 3GPP security specifications."
+  "notes": "Niche but valuable for 5G operators. Often consumed alongside 3GPP security specifications.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

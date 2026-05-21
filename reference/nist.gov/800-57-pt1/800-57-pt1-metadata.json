@@ -52,5 +52,9 @@
   "scope": {
     "current_revision": "Part 1 r5"
   },
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

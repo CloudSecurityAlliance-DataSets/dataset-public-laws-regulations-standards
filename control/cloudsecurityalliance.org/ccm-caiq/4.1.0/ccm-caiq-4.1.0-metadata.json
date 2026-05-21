@@ -54,5 +54,9 @@
     "questions": 490,
     "controls_covered": 207
   },
-  "notes": "Use alongside CCM v4.1 for vendor assessments."
+  "notes": "Use alongside CCM v4.1 for vendor assessments.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

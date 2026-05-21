@@ -9,7 +9,7 @@
   "publication_id": "CCM-4.0.13",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "CCM v4.0.13 — incremental update to v4.0. 197 controls across 17 domains with cross-framework mappings (NIST CSF, ISO 27001/27017/27018, NIST SP 800-53r5, AICPA TSC, PCI DSS v3.2.1, HIPAA, FedRAMP, etc.). The .13 patch number reflects errata corrections after the v4.0 release.",
+  "description": "CCM v4.0.13 \u2014 incremental update to v4.0. 197 controls across 17 domains with cross-framework mappings (NIST CSF, ISO 27001/27017/27018, NIST SP 800-53r5, AICPA TSC, PCI DSS v3.2.1, HIPAA, FedRAMP, etc.). The .13 patch number reflects errata corrections after the v4.0 release.",
   "relationToCloudSecurity": "The flagship cloud-security controls framework. Foundation for CSA STAR Registry and cross-industry cloud compliance mappings.",
   "relationToAISecurity": "Covers cloud-platform controls underlying AI workloads. AI-specific overlays in AICM.",
   "license": {
@@ -53,5 +53,9 @@
     "controls": 197,
     "domains": 17
   },
-  "notes": "Use 4.1 for current work; 4.0.13 retained for backwards-compatible mappings."
+  "notes": "Use 4.1 for current work; 4.0.13 retained for backwards-compatible mappings.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

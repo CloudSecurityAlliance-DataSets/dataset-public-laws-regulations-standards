@@ -7,7 +7,7 @@
   "publication_id": "frontier-safety",
   "owner": "Google DeepMind",
   "type": "Framework",
-  "description": "Google DeepMind's Frontier Safety Framework — defines Critical Capability Levels (CCLs) and safety protocols for advanced AI systems. Companion to similar frameworks from OpenAI (Preparedness) and Anthropic (Responsible Scaling Policy).",
+  "description": "Google DeepMind's Frontier Safety Framework \u2014 defines Critical Capability Levels (CCLs) and safety protocols for advanced AI systems. Companion to similar frameworks from OpenAI (Preparedness) and Anthropic (Responsible Scaling Policy).",
   "relationToCloudSecurity": "Frontier-AI-specific; not cloud-platform-general.",
   "relationToAISecurity": "Direct AI-safety governance framework. Defines capability thresholds at which additional safety measures are required.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

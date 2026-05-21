@@ -3,13 +3,13 @@
   "name": "Stop Hacks and Improve Electronic Data Security Act",
   "acronym": "SHIELD Act",
   "alternate_names": [
-    "NY General Business Law §899-bb"
+    "NY General Business Law \u00a7899-bb"
   ],
   "version": "",
   "publication_id": "NY-GBL-899-bb",
   "owner": "New York State Office of the Attorney General",
   "type": "Regulation",
-  "description": "New York State law (SB 5575/A 5635, enacted 2019, effective 2020-03-21) expanding data breach notification requirements and imposing reasonable security obligations. Codified at NY General Business Law §899-aa (notification) and §899-bb (data security). Applies to any person or business owning or licensing computerized data including private information of NY residents. Defines 'private information' broadly to include biometric data, username/password combinations, account access credentials. Reasonable security must include administrative, technical, and physical safeguards.",
+  "description": "New York State law (SB 5575/A 5635, enacted 2019, effective 2020-03-21) expanding data breach notification requirements and imposing reasonable security obligations. Codified at NY General Business Law \u00a7899-aa (notification) and \u00a7899-bb (data security). Applies to any person or business owning or licensing computerized data including private information of NY residents. Defines 'private information' broadly to include biometric data, username/password combinations, account access credentials. Reasonable security must include administrative, technical, and physical safeguards.",
   "relationToCloudSecurity": "Cloud providers handling NY residents' data must support customer compliance with SHIELD's reasonable security requirements. Affects breach notification obligations of cloud-using companies.",
   "relationToAISecurity": "AI systems processing NY residents' personal information must satisfy SHIELD's reasonable security; biometric AI applications (face/fingerprint) are explicitly covered as 'private information'.",
   "license": {
@@ -52,8 +52,12 @@
     }
   ],
   "scope": {
-    "statute": "NY GBL §§899-aa, 899-bb",
+    "statute": "NY GBL \u00a7\u00a7899-aa, 899-bb",
     "applies_to": "anyone holding NY residents' private information"
   },
-  "notes": "Acquire NY Senate-published text for structured extraction."
+  "notes": "Acquire NY Senate-published text for structured extraction.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

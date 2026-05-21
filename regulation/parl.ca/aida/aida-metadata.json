@@ -27,5 +27,9 @@
     "notes": ""
   },
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
-  "previous_secid": "secid:regulation/canada.ca/aida"
+  "previous_secid": "secid:regulation/canada.ca/aida",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

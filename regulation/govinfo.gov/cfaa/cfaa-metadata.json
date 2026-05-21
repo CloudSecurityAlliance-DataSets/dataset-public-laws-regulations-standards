@@ -3,13 +3,13 @@
   "name": "Computer Fraud and Abuse Act",
   "acronym": "CFAA",
   "alternate_names": [
-    "18 U.S.C. §1030"
+    "18 U.S.C. \u00a71030"
   ],
   "version": "",
   "publication_id": "18-USC-1030",
   "owner": "US Department of Justice (enforcement)",
   "type": "Regulation",
-  "description": "US federal computer crime statute codified at 18 U.S.C. §1030. Criminalizes a range of unauthorized access offenses: accessing computers without authorization, exceeding authorized access, computer fraud, damaging protected computers, trafficking in passwords, threatening to damage computers, etc. Originally enacted 1986; amended significantly by USA PATRIOT Act 2001, Identity Theft Enforcement Act 2008, Cyber Intelligence Sharing and Protection Act 2015, and others.",
+  "description": "US federal computer crime statute codified at 18 U.S.C. \u00a71030. Criminalizes a range of unauthorized access offenses: accessing computers without authorization, exceeding authorized access, computer fraud, damaging protected computers, trafficking in passwords, threatening to damage computers, etc. Originally enacted 1986; amended significantly by USA PATRIOT Act 2001, Identity Theft Enforcement Act 2008, Cyber Intelligence Sharing and Protection Act 2015, and others.",
   "relationToCloudSecurity": "CFAA applies to unauthorized access into cloud-hosted systems. Security researchers, penetration testers, and red teams must operate under explicit authorization to avoid CFAA exposure. 2021 Supreme Court ruling (Van Buren v. United States) narrowed 'exceeds authorized access' interpretation.",
   "relationToAISecurity": "Adversarial AI / model-evasion research that involves accessing production AI systems without authorization can implicate CFAA. Recent DOJ guidance (2022) clarifies good-faith security research safe harbor.",
   "license": {
@@ -18,7 +18,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "US federal statutes are public-domain government works (17 USC §105) and may be freely redistributed."
+    "notes": "US federal statutes are public-domain government works (17 USC \u00a7105) and may be freely redistributed."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act",
@@ -29,10 +29,10 @@
   "lifecycle": {
     "published": "1986-10-16",
     "active": true,
-    "supersedes": "Comprehensive Crime Control Act 1984 §2102",
+    "supersedes": "Comprehensive Crime Control Act 1984 \u00a72102",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "Continuously amended. Current text at 18 USC §1030."
+    "notes": "Continuously amended. Current text at 18 USC \u00a71030."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -41,7 +41,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Parsed from marker-extracted PLAW markdown via extract_us_plaw.py. Found 2 SEC./§ markers. 18 USC §1030 is one big section with subsections (a)-(j); a §1030-specific parser would split it into ~10 subsections. The basic PLAW parser only finds the top-level § marker."
+    "notes": "Parsed from marker-extracted PLAW markdown via extract_us_plaw.py. Found 2 SEC./\u00a7 markers. 18 USC \u00a71030 is one big section with subsections (a)-(j); a \u00a71030-specific parser would split it into ~10 subsections. The basic PLAW parser only finds the top-level \u00a7 marker."
   },
   "extraction_history": [
     {
@@ -60,5 +60,9 @@
   "scope": {
     "sections": 2
   },
-  "notes": "Foundational US computer crime statute. Acquire 18 USC §1030 from uscode.house.gov for structured extraction."
+  "notes": "Foundational US computer crime statute. Acquire 18 USC \u00a71030 from uscode.house.gov for structured extraction.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

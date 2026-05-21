@@ -7,7 +7,7 @@
   "publication_id": "saif",
   "owner": "Google LLC",
   "type": "Framework",
-  "description": "Google's Secure AI Framework — conceptual framework for securing AI systems by extending existing security best practices to AI-specific threats. Defines six core elements: expand strong security foundations, automate defenses, harmonize controls, adapt controls, contextualize AI risks, and apply AI to security.",
+  "description": "Google's Secure AI Framework \u2014 conceptual framework for securing AI systems by extending existing security best practices to AI-specific threats. Defines six core elements: expand strong security foundations, automate defenses, harmonize controls, adapt controls, contextualize AI risks, and apply AI to security.",
   "relationToCloudSecurity": "Cloud-AI security guidance applicable across cloud platforms.",
   "relationToAISecurity": "Direct AI-security framework; companion to SAIF Risk Map and SAIF Risk Assessment.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

@@ -31,5 +31,9 @@
     "s3_timestamp": "2026-05-21T15:58:11Z",
     "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
     "notes": "Structured CA SB-53 (TFAIA) into <dirname>-sections.{csv,json}. 28 headings captured; 19 with identifiers (SECTION 1-6 / CHAPTER 25.1, 5.1 / statute provisions 22757.10-22757.16, 11546.8, 1107, 1107.1, 1107.2). Columns: depth, section_id, section_name, id_kind, parent_id, body. Reusable parser at tools-resources/utils/parse_regulatory_sections.py."
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

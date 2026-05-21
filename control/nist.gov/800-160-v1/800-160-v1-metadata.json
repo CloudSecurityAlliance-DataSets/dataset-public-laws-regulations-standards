@@ -1,6 +1,6 @@
 {
   "secid": "secid:control/nist.gov/800-160-v1",
-  "name": "Systems Security Engineering — Considerations for a Multidisciplinary Approach",
+  "name": "Systems Security Engineering \u2014 Considerations for a Multidisciplinary Approach",
   "acronym": "SP 800-160 Vol. 1",
   "alternate_names": [
     "SP 800-160v1"
@@ -9,7 +9,7 @@
   "publication_id": "NIST.800-160-V1",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST SP 800-160 Volume 1 (rev 1, 2022) provides foundational guidance on systems security engineering — the application of engineering and security principles throughout the system lifecycle. Cross-references ISO/IEC/IEEE 15288 system lifecycle processes.",
+  "description": "NIST SP 800-160 Volume 1 (rev 1, 2022) provides foundational guidance on systems security engineering \u2014 the application of engineering and security principles throughout the system lifecycle. Cross-references ISO/IEC/IEEE 15288 system lifecycle processes.",
   "relationToCloudSecurity": "Architectural guidance applicable to cloud-system design.",
   "relationToAISecurity": "Engineering discipline applies to AI systems as to other engineered systems.",
   "license": {
@@ -18,7 +18,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/sp/800/160/v1/r1/final",
@@ -52,5 +52,9 @@
   "scope": {
     "current_revision": "v1 r1"
   },
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

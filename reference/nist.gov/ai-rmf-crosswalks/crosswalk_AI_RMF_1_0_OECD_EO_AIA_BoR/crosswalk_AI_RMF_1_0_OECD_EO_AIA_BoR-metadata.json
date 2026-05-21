@@ -1,7 +1,7 @@
 {
   "secid": "secid:reference/nist.gov/ai-rmf-crosswalks/crosswalk_AI_RMF_1_0_OECD_EO_AIA_BoR",
-  "name": "AI RMF 1.0 ↔ OECD / EO / Blueprint AI Bill of Rights Crosswalk",
-  "acronym": "AI RMF — OECD/EO/BoR Crosswalk",
+  "name": "AI RMF 1.0 \u2194 OECD / EO / Blueprint AI Bill of Rights Crosswalk",
+  "acronym": "AI RMF \u2014 OECD/EO/BoR Crosswalk",
   "alternate_names": [],
   "version": "",
   "publication_id": "AI-RMF-1.0-OECD-EO-AIA-BoR-Crosswalk",
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.nist.gov/director/licensing",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
@@ -58,5 +58,9 @@
       "Blueprint for an AI Bill of Rights"
     ]
   },
-  "notes": "Three-way crosswalk in a single document."
+  "notes": "Three-way crosswalk in a single document.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

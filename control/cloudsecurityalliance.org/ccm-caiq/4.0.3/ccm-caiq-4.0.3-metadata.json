@@ -53,5 +53,9 @@
   "scope": {
     "questions": 458
   },
-  "notes": "CSA STAR Registry attestation questionnaire."
+  "notes": "CSA STAR Registry attestation questionnaire.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

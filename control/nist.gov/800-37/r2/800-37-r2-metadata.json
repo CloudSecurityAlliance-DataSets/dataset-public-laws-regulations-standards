@@ -40,5 +40,9 @@
     "force_ocr": null,
     "notes": "Source PDF marker-extracted to markdown. extract_800_37.py parses the **TASK X-N** body headers into per-task structured CSV/JSON: 47 tasks across 7 RMF phases (Prepare-18, Categorize-3, Select-6, Implement-2, Assess-6, Authorize-5, Monitor-7). Pattern matches both upper-case TASK and Task variants emitted by marker."
   },
-  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed."
+  "notes": "Auto-generated bulk metadata. Title/description from marker meta + README. Fields like Wikipedia URL, published date, and category-specific relations were not populated; enrich as needed.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

@@ -7,7 +7,7 @@
   "publication_id": "ai-safety",
   "owner": "MLCommons",
   "type": "Benchmark",
-  "description": "MLCommons AI Safety Working Group benchmarks and hazard taxonomy — collaborative industry effort to standardize AI safety evaluations.",
+  "description": "MLCommons AI Safety Working Group benchmarks and hazard taxonomy \u2014 collaborative industry effort to standardize AI safety evaluations.",
   "relationToCloudSecurity": "Used by cloud-hosted LLM providers for safety evaluation.",
   "relationToAISecurity": "Direct AI-safety benchmark collaboration with industry-wide participation.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

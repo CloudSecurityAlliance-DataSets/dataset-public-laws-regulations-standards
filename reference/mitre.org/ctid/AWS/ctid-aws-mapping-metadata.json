@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/aws-mapping",
-  "name": "CTID ATT&CK → AWS Security Services Mapping",
+  "name": "CTID ATT&CK \u2192 AWS Security Services Mapping",
   "acronym": "CTID AWS Mapping",
   "alternate_names": [
     "AWS ATT&CK Mappings"
   ],
   "version": "09.21.2021_attack-9.0-enterprise",
   "publication_id": "ctid-aws-attack-9.0-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping of MITRE ATT&CK 9.0 Enterprise techniques to AWS security service capabilities. Identifies which AWS services counter which ATT&CK techniques. Snapshot date 2021-09-21.",
   "relationToCloudSecurity": "Canonical reference for AWS-platform threat-informed defense gap analysis. Used by AWS-using security teams to map detections to ATT&CK.",
@@ -53,5 +53,9 @@
     "attack_version": "9.0",
     "platform": "AWS"
   },
-  "notes": "Pinned to ATT&CK 9.0; re-pull for newer ATT&CK versions."
+  "notes": "Pinned to ATT&CK 9.0; re-pull for newer ATT&CK versions.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

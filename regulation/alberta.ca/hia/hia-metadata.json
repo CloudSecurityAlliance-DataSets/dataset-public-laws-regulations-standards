@@ -2,7 +2,9 @@
   "secid": "secid:regulation/alberta.ca/hia",
   "name": "Health Information Act",
   "acronym": "HIA (Alberta)",
-  "alternate_names": ["Alberta HIA"],
+  "alternate_names": [
+    "Alberta HIA"
+  ],
   "version": "",
   "publication_id": "hia",
   "owner": "Government of Alberta (King's Printer)",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

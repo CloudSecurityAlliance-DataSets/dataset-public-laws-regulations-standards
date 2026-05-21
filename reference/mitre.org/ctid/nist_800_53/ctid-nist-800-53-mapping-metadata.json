@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/nist-800-53-mapping",
-  "name": "CTID ATT&CK ↔ NIST SP 800-53 r5 Mapping",
+  "name": "CTID ATT&CK \u2194 NIST SP 800-53 r5 Mapping",
   "acronym": "CTID 800-53 Mapping",
   "alternate_names": [
     "NIST 800-53 ATT&CK Mappings"
   ],
   "version": "rev5_attack-14.1-enterprise",
   "publication_id": "ctid-nist-800-53r5-attack-14.1-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping between NIST SP 800-53 Rev 5 controls and MITRE ATT&CK 14.1 Enterprise techniques. Bidirectional: maps controls to techniques they mitigate, and techniques to controls that counter them.",
   "relationToCloudSecurity": "Useful for federal agencies and FedRAMP consumers translating between 800-53 controls and ATT&CK techniques.",
@@ -53,5 +53,9 @@
     "attack_version": "14.1",
     "framework": "NIST SP 800-53 r5"
   },
-  "notes": "Bidirectional 800-53 ↔ ATT&CK mapping."
+  "notes": "Bidirectional 800-53 \u2194 ATT&CK mapping.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

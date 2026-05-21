@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Physical/surveillance security focus"
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Physical/surveillance security focus",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

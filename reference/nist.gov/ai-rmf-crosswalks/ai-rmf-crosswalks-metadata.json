@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.nist.gov/director/licensing",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Parent collection. Individual crosswalks have per-directory metadata."
+  "notes": "Parent collection. Individual crosswalks have per-directory metadata.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

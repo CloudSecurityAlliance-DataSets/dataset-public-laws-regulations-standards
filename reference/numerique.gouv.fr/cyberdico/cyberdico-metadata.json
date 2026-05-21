@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is cyber.gouv.fr (ANSSI subdomain); may belong to different namespace if cyber.gouv.fr is registered separately"
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is cyber.gouv.fr (ANSSI subdomain); may belong to different namespace if cyber.gouv.fr is registered separately",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

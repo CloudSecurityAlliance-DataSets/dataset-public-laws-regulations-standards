@@ -32,5 +32,9 @@
     "tool": "marker (markdown) + tools-resources/utils/parse_fedramp_baseline.py",
     "tool_version": "shared parser, see script header",
     "notes": "Structured the FedRAMP High baseline into <dirname>-controls.{csv,json}. 410 controls total (191 base + 219 enhancements). Each row captures control_id, control_name, is_enhancement, parent_control_id, baseline, baseline_levels (the (L)(M)(H) annotation from the heading), control_text (the 800-53 statement with FedRAMP parameter overrides inline), and fedramp_assignments (the concatenated [FedRAMP Assignment: ...] values)."
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
   }
 }

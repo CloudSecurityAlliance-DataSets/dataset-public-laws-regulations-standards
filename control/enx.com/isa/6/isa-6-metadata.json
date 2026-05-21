@@ -2,7 +2,11 @@
   "secid": "secid:control/enx.com/isa@6",
   "name": "Information Security Assessment",
   "acronym": "ISA",
-  "alternate_names": ["ENX ISA", "TISAX ISA", "VDA ISA"],
+  "alternate_names": [
+    "ENX ISA",
+    "TISAX ISA",
+    "VDA ISA"
+  ],
   "version": "6",
   "publication_id": "ENX-ISA-v6",
   "owner": "ENX Association",
@@ -39,7 +43,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Extracted from the official ENX-published XLSX (downloaded directly from portal.enx.com/isa6-en.xlsx — no authentication required). The XLSX is designed as an assessment form: each control has many columns including assessment-result fields that we leave blank (we only extract the published catalog content, not assessment results). Each control's text content spans approximately 18 columns of the 90-column source row."
+    "notes": "Extracted from the official ENX-published XLSX (downloaded directly from portal.enx.com/isa6-en.xlsx \u2014 no authentication required). The XLSX is designed as an assessment form: each control has many columns including assessment-result fields that we leave blank (we only extract the published catalog content, not assessment results). Each control's text content spans approximately 18 columns of the 90-column source row."
   },
   "extraction_history": [
     {
@@ -56,5 +60,9 @@
     "data_protection_controls": 12,
     "maturity_levels": 6
   },
-  "notes": "SecID namespace entry for enx.com does not yet exist in the SecID registry — to be added. Using enx.com as the namespace per ENX Association's primary domain."
+  "notes": "SecID namespace entry for enx.com does not yet exist in the SecID registry \u2014 to be added. Using enx.com as the namespace per ENX Association's primary domain.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

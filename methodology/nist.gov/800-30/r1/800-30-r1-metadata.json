@@ -47,5 +47,9 @@
       "force_ocr": null,
       "notes": "Extracted via marker (PDF -> markdown) before the SecID-mirror reorg. Structured CSV/JSON extraction is TODO for most NIST publications."
     }
-  ]
+  ],
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

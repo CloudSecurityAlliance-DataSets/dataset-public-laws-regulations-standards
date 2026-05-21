@@ -7,7 +7,7 @@
   "publication_id": "evaluations",
   "owner": "Model Evaluation and Threat Research (METR)",
   "type": "Program",
-  "description": "METR's evaluation program for frontier AI models — autonomous replication and adaptation capability assessments, with results published periodically.",
+  "description": "METR's evaluation program for frontier AI models \u2014 autonomous replication and adaptation capability assessments, with results published periodically.",
   "relationToCloudSecurity": "Affects frontier cloud-hosted model deployments.",
   "relationToAISecurity": "Direct AI-safety dangerous-capability evaluation results.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

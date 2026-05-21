@@ -2,13 +2,19 @@
   "secid": "secid:control/aicpa.org/tsc@2017",
   "name": "Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy",
   "acronym": "TSC",
-  "alternate_names": ["AICPA TSC", "Trust Services Criteria", "TSP Section 100", "2017 TSC", "SOC 2 Trust Services Criteria"],
+  "alternate_names": [
+    "AICPA TSC",
+    "Trust Services Criteria",
+    "TSP Section 100",
+    "2017 TSC",
+    "SOC 2 Trust Services Criteria"
+  ],
   "version": "2017",
   "publication_id": "TSP-Section-100-2017-TSC",
-  "owner": "American Institute of Certified Public Accountants (AICPA) — Assurance Services Executive Committee (ASEC)",
+  "owner": "American Institute of Certified Public Accountants (AICPA) \u2014 Assurance Services Executive Committee (ASEC)",
   "type": "Framework",
-  "description": "The 2017 Trust Services Criteria are the control criteria established by AICPA's Assurance Services Executive Committee (ASEC) for use in SOC 2 and SOC 3 attestation engagements, plus SOC for Cybersecurity examinations. The criteria evaluate controls over five trust services categories: Security (Common Criteria, mandatory in every SOC 2), Availability, Processing Integrity, Confidentiality, and Privacy. The 2017 TSC integrates and aligns with the 2013 COSO Internal Control framework — Common Criteria CC1-CC5 map to COSO's Control Environment, Communication and Information, Risk Assessment, Monitoring Activities, and Control Activities. CC6-CC9 cover Logical and Physical Access Controls, System Operations, Change Management, and Risk Mitigation. The 2022 revision updated only the Points of Focus (the application guidance under each criterion); the criteria themselves are unchanged from 2017.",
-  "relationToCloudSecurity": "TSC is the foundation of SOC 2 and SOC 3 attestation reports — the de facto compliance framework for SaaS and cloud service providers serving US enterprise customers. The Common Criteria align with NIST CSF, ISO 27001, and CSA CCM controls. SOC 2 reports issued against the 2017 TSC are widely accepted as evidence of cloud service provider security posture by enterprise procurement and risk management functions.",
+  "description": "The 2017 Trust Services Criteria are the control criteria established by AICPA's Assurance Services Executive Committee (ASEC) for use in SOC 2 and SOC 3 attestation engagements, plus SOC for Cybersecurity examinations. The criteria evaluate controls over five trust services categories: Security (Common Criteria, mandatory in every SOC 2), Availability, Processing Integrity, Confidentiality, and Privacy. The 2017 TSC integrates and aligns with the 2013 COSO Internal Control framework \u2014 Common Criteria CC1-CC5 map to COSO's Control Environment, Communication and Information, Risk Assessment, Monitoring Activities, and Control Activities. CC6-CC9 cover Logical and Physical Access Controls, System Operations, Change Management, and Risk Mitigation. The 2022 revision updated only the Points of Focus (the application guidance under each criterion); the criteria themselves are unchanged from 2017.",
+  "relationToCloudSecurity": "TSC is the foundation of SOC 2 and SOC 3 attestation reports \u2014 the de facto compliance framework for SaaS and cloud service providers serving US enterprise customers. The Common Criteria align with NIST CSF, ISO 27001, and CSA CCM controls. SOC 2 reports issued against the 2017 TSC are widely accepted as evidence of cloud service provider security posture by enterprise procurement and risk management functions.",
   "relationToAISecurity": "TSC 2017 does not address AI workloads specifically. AI systems and services handling customer data are subject to TSC criteria the same as any other service-relevant infrastructure. AICPA has not yet published AI-specific extensions to the TSC; SOC 2 reports for AI services use the existing 2017 framework. The 2022 Points of Focus revision did not add AI-specific guidance.",
   "license": {
     "spdx": "LicenseRef-AICPA-Copyright",
@@ -16,7 +22,7 @@
     "derivatives": "permitted_for_attestation_use",
     "publicly_redistributable": false,
     "license_text_url": "https://www.aicpa-cima.com/help/terms-and-conditions",
-    "notes": "TSC PDF is downloadable from AICPA-CIMA's resources portal with a free account (gated behind 'FREE ACCOUNT ACCESS'). The criteria themselves are widely cited and discussed publicly. Strictly speaking the published document is copyrighted by AICPA; this repository stores the parsed structured derivative for analysis/mapping purposes, consistent with how downstream tools (compliance vendors, mapping projects) routinely reference the criteria. Marked publicly_redistributable: false out of caution — consult AICPA terms before redistributing the source PDF or markdown."
+    "notes": "TSC PDF is downloadable from AICPA-CIMA's resources portal with a free account (gated behind 'FREE ACCOUNT ACCESS'). The criteria themselves are widely cited and discussed publicly. Strictly speaking the published document is copyrighted by AICPA; this repository stores the parsed structured derivative for analysis/mapping purposes, consistent with how downstream tools (compliance vendors, mapping projects) routinely reference the criteria. Marked publicly_redistributable: false out of caution \u2014 consult AICPA terms before redistributing the source PDF or markdown."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/System_and_Organization_Controls",
@@ -64,8 +70,19 @@
     "total_criteria_extracted": 68,
     "from_marker": 62,
     "from_recovery_patch": 6,
-    "patched_ids": ["CC1.3", "CC2.3", "CC6.8", "CC7.1", "CC7.2", "C1.2"],
+    "patched_ids": [
+      "CC1.3",
+      "CC2.3",
+      "CC6.8",
+      "CC7.1",
+      "CC7.2",
+      "C1.2"
+    ],
     "extraction_notes": "62 criteria parsed from marker output; 6 (CC1.3, CC2.3, CC6.8, CC7.1, CC7.2, C1.2) were dropped by marker due to PDF page-break layout (the ID cell or the entire criterion-statement row landed in a continuation table with no anchoring header). The 6 canonical criterion statements are restored from tsc-2017-recovered-criteria.json at parse time. Patched entries have extraction_source=\"manual_patch\" and intentionally carry empty points_of_focus (the supporting bullets were also dropped by marker and aren't reliably re-attributable). The Privacy P-series includes 8 \".0\" entries (P2.0, P3.0, ..., P8.0) which AICPA uses as Privacy sub-category headers."
   },
-  "notes": "Parser produces 68 records: 33 Common Criteria + 3 A + 2 C + 5 PI + 25 P. SOC 2 examination reports typically reference criteria by ID — the structured CSV/JSON makes those references navigable. Each record carries extraction_source so downstream consumers can distinguish marker-extracted from manually-patched entries."
+  "notes": "Parser produces 68 records: 33 Common Criteria + 3 A + 2 C + 5 PI + 25 P. SOC 2 examination reports typically reference criteria by ID \u2014 the structured CSV/JSON makes those references navigable. Each record carries extraction_source so downstream consumers can distinguish marker-extracted from manually-patched entries.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

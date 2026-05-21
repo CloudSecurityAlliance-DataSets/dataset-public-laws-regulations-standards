@@ -7,7 +7,7 @@
   "publication_id": "NIST.IR-8228",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST IR 8228 (2019) — IoT cybersecurity and privacy risk considerations.",
+  "description": "NIST IR 8228 (2019) \u2014 IoT cybersecurity and privacy risk considerations.",
   "relationToCloudSecurity": "General cybersecurity guidance applicable to cloud-environment design and operations.",
   "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
   "license": {
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/ir/8228/final",
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

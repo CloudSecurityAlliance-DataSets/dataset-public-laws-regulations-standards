@@ -64,5 +64,9 @@
     "annexes": 3,
     "celex": "32022L2555"
   },
-  "notes": "Major EU cybersecurity directive. Acquire from EUR-Lex (2022/2555) for structured extraction."
+  "notes": "Major EU cybersecurity directive. Acquire from EUR-Lex (2022/2555) for structured extraction.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

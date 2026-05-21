@@ -2,7 +2,9 @@
   "secid": "secid:regulation/alberta.ca/pipa",
   "name": "Personal Information Protection Act",
   "acronym": "PIPA (Alberta)",
-  "alternate_names": ["Alberta PIPA"],
+  "alternate_names": [
+    "Alberta PIPA"
+  ],
   "version": "",
   "publication_id": "pipa",
   "owner": "Government of Alberta (King's Printer)",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

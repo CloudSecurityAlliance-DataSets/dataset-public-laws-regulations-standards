@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Newer AI-specific controls framework with an insurance underwriting focus."
+  "notes": "Newer AI-specific controls framework with an insurance underwriting focus.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

@@ -52,5 +52,9 @@
     }
   ],
   "scope": {},
-  "notes": "Vendor perspective on GenAI controls."
+  "notes": "Vendor perspective on GenAI controls.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

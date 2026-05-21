@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Vendor security guidance collection."
+  "notes": "Vendor security guidance collection.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

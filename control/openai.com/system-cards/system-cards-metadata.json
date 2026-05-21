@@ -7,7 +7,7 @@
   "publication_id": "system-cards",
   "owner": "OpenAI",
   "type": "Documentation",
-  "description": "OpenAI Model System Cards — pre-deployment documentation of model capabilities, limitations, safety evaluations, mitigations, and residual risk assessments. Published with major model releases (GPT-4, GPT-4o, o1, etc.). Note: companion reference/openai.com/system-cards/ holds specific model system cards as published documents.",
+  "description": "OpenAI Model System Cards \u2014 pre-deployment documentation of model capabilities, limitations, safety evaluations, mitigations, and residual risk assessments. Published with major model releases (GPT-4, GPT-4o, o1, etc.). Note: companion reference/openai.com/system-cards/ holds specific model system cards as published documents.",
   "relationToCloudSecurity": "Vendor-specific.",
   "relationToAISecurity": "Standard AI-transparency artifact for major model releases; companion to model cards as a documentation pattern.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

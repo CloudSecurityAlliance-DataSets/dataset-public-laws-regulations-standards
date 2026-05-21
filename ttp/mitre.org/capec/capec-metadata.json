@@ -2,12 +2,14 @@
   "secid": "secid:ttp/mitre.org/capec",
   "name": "Common Attack Pattern Enumeration and Classification",
   "acronym": "CAPEC",
-  "alternate_names": ["MITRE CAPEC"],
+  "alternate_names": [
+    "MITRE CAPEC"
+  ],
   "version": "",
   "publication_id": "CAPEC",
   "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
   "type": "Taxonomy",
-  "description": "CAPEC is a community-developed list of common attack patterns — abstractions of techniques attackers use to exploit weaknesses (CWEs). Each CAPEC entry describes prerequisites, typical severity, attack flow, mitigations, and references to CWEs and CVE examples. Where CWE answers \"what is the weakness?\", CAPEC answers \"how is the weakness attacked?\". CAPEC is organized into views including Mechanisms of Attack and Domains of Attack.",
+  "description": "CAPEC is a community-developed list of common attack patterns \u2014 abstractions of techniques attackers use to exploit weaknesses (CWEs). Each CAPEC entry describes prerequisites, typical severity, attack flow, mitigations, and references to CWEs and CVE examples. Where CWE answers \"what is the weakness?\", CAPEC answers \"how is the weakness attacked?\". CAPEC is organized into views including Mechanisms of Attack and Domains of Attack.",
   "relationToCloudSecurity": "CAPEC patterns inform threat modeling and security testing for cloud applications. Patterns like CAPEC-21 (Exploitation of Trusted Identifiers), CAPEC-115 (Authentication Bypass), and the Injection/Probabilistic Techniques meta-patterns map directly to cloud-API-surface concerns. Tools that perform automated threat modeling often pivot through CAPEC.",
   "relationToAISecurity": "Historic CAPEC has limited direct AI coverage; AI-specific attack patterns are better served by MITRE ATLAS. Underlying CAPEC patterns (input validation, authentication, injection) still apply to AI service surfaces.",
   "license": {
@@ -50,5 +52,9 @@
     }
   ],
   "scope": {},
-  "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side."
+  "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

@@ -3,13 +3,13 @@
   "name": "California Online Privacy Protection Act",
   "acronym": "CalOPPA",
   "alternate_names": [
-    "California Business and Professions Code §§22575-22579"
+    "California Business and Professions Code \u00a7\u00a722575-22579"
   ],
   "version": "",
   "publication_id": "CA-BPC-22575",
   "owner": "California Attorney General (enforcement)",
   "type": "Regulation",
-  "description": "California law (effective 2004-07-01; amended 2014 to address Do Not Track) requiring operators of commercial websites and online services that collect personally identifiable information from California consumers to conspicuously post a privacy policy. The 2014 amendment (AB 370) requires the policy to describe how the operator responds to Do Not Track signals. Codified at California Business and Professions Code §§22575-22579.",
+  "description": "California law (effective 2004-07-01; amended 2014 to address Do Not Track) requiring operators of commercial websites and online services that collect personally identifiable information from California consumers to conspicuously post a privacy policy. The 2014 amendment (AB 370) requires the policy to describe how the operator responds to Do Not Track signals. Codified at California Business and Professions Code \u00a7\u00a722575-22579.",
   "relationToCloudSecurity": "Any cloud-hosted website or service collecting California consumer PII must satisfy CalOPPA's privacy-policy posting requirements.",
   "relationToAISecurity": "AI services collecting California user data must satisfy CalOPPA notice obligations. Predates and is largely overshadowed by CCPA/CPRA but remains in force.",
   "license": {
@@ -51,7 +51,11 @@
     }
   ],
   "scope": {
-    "statute": "CA BPC §§22575-22579"
+    "statute": "CA BPC \u00a7\u00a722575-22579"
   },
-  "notes": "California privacy-policy mandate. Older but still operative; acquire from leginfo for structured extraction."
+  "notes": "California privacy-policy mandate. Older but still operative; acquire from leginfo for structured extraction.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

@@ -2,7 +2,10 @@
   "secid": "secid:control/cloudsecurityalliance.org/ccm@3.0.1",
   "name": "Cloud Controls Matrix",
   "acronym": "CCM",
-  "alternate_names": ["CSA CCM", "CCM v3"],
+  "alternate_names": [
+    "CSA CCM",
+    "CCM v3"
+  ],
   "version": "3.0.1",
   "publication_id": "CSA_CCM_v3.0.1-09-16-2014",
   "owner": "Cloud Security Alliance (CSA)",
@@ -54,5 +57,9 @@
     "domains": 16,
     "framework_mappings": 23
   },
-  "notes": "Promoted from dataset-private-CSA-content. CCM is CSA-published with permitted redistribution; v3.0.1 belongs in the public repo alongside the newer v4.0.13 and v4.1 already here. The 23 framework mappings make v3.0.1 a useful crosswalk anchor — each control specifies how it relates to AICPA TSC, BITS Shared Assessments, COBIT, FedRAMP, HIPAA, HITRUST, ISO 27001:2013, NIST SP 800-53r3, PCI DSS v3.0, and more."
+  "notes": "Promoted from dataset-private-CSA-content. CCM is CSA-published with permitted redistribution; v3.0.1 belongs in the public repo alongside the newer v4.0.13 and v4.1 already here. The 23 framework mappings make v3.0.1 a useful crosswalk anchor \u2014 each control specifies how it relates to AICPA TSC, BITS Shared Assessments, COBIT, FedRAMP, HIPAA, HITRUST, ISO 27001:2013, NIST SP 800-53r3, PCI DSS v3.0, and more.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

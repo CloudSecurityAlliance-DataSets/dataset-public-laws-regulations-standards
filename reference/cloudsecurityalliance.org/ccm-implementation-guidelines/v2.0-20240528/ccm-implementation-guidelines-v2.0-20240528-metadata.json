@@ -7,7 +7,7 @@
   "publication_id": "CCM-Implementation-Guidelines-v2.0-2024-05-28",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Guidance",
-  "description": "Implementation guidance for CSA CCM controls — explains how to operationalize each CCM control, with implementation examples, references, and validation criteria. Companion document to the CCM controls catalog itself. v2.0 published 2024-05-28.",
+  "description": "Implementation guidance for CSA CCM controls \u2014 explains how to operationalize each CCM control, with implementation examples, references, and validation criteria. Companion document to the CCM controls catalog itself. v2.0 published 2024-05-28.",
   "relationToCloudSecurity": "Practical guidance for CSPs implementing CCM controls. Often the difference between 'check the box' and 'actually implement the control'.",
   "relationToAISecurity": "CCM covers general cloud security; for AI-specific implementation guidance see AICM and its companion docs.",
   "license": {
@@ -52,5 +52,9 @@
     }
   ],
   "scope": {},
-  "notes": "Companion document to CCM. Use alongside CCM v4.x for implementation."
+  "notes": "Companion document to CCM. Use alongside CCM v4.x for implementation.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

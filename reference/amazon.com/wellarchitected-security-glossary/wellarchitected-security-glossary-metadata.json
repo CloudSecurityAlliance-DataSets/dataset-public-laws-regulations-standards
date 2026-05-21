@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Agent listed under aws.amazon.com (sub-namespace); correct parent is amazon.com"
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Agent listed under aws.amazon.com (sub-namespace); correct parent is amazon.com",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

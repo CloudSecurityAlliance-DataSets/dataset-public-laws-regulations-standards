@@ -7,7 +7,7 @@
   "publication_id": "NIST.800-66",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST SP 800-66 Rev 2 (2024) provides implementation guidance for the HIPAA Security Rule — translates the regulatory requirements into actionable security practices for healthcare covered entities and business associates.",
+  "description": "NIST SP 800-66 Rev 2 (2024) provides implementation guidance for the HIPAA Security Rule \u2014 translates the regulatory requirements into actionable security practices for healthcare covered entities and business associates.",
   "relationToCloudSecurity": "Direct HIPAA implementation guidance; widely used by healthcare cloud customers.",
   "relationToAISecurity": "Healthcare AI systems handling PHI must satisfy HIPAA Security Rule per 800-66 patterns.",
   "license": {
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/sp/800/66/r2/final",
@@ -37,7 +37,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Source PDF marker-extracted to markdown. extract_800_66.py parses the HIPAA Security Rule implementation-guidance headings (5.N.M. Title (§ 164.NNN)) into per-safeguard structured CSV/JSON: 22 safeguards across 4 HIPAA categories (Administrative § 164.308, Physical § 164.310, Technical § 164.312, Organizational § 164.314), each with HIPAA citation captured."
+    "notes": "Source PDF marker-extracted to markdown. extract_800_66.py parses the HIPAA Security Rule implementation-guidance headings (5.N.M. Title (\u00a7 164.NNN)) into per-safeguard structured CSV/JSON: 22 safeguards across 4 HIPAA categories (Administrative \u00a7 164.308, Physical \u00a7 164.310, Technical \u00a7 164.312, Organizational \u00a7 164.314), each with HIPAA citation captured."
   },
   "extraction_history": [
     {
@@ -50,5 +50,9 @@
   "scope": {
     "current_revision": "r2"
   },
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

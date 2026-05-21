@@ -7,7 +7,7 @@
   "publication_id": "model-governance",
   "owner": "Infocomm Media Development Authority (IMDA), Singapore",
   "type": "Framework",
-  "description": "Singapore's Model AI Governance Framework — voluntary AI governance framework published by IMDA and PDPC. Second edition (2020) and Generative AI Model AI Governance Framework (2024) cover the domain.",
+  "description": "Singapore's Model AI Governance Framework \u2014 voluntary AI governance framework published by IMDA and PDPC. Second edition (2020) and Generative AI Model AI Governance Framework (2024) cover the domain.",
   "relationToCloudSecurity": "Singapore-specific guidance; AI deployed in any environment including cloud.",
   "relationToAISecurity": "Direct AI governance framework, internationally referenced.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

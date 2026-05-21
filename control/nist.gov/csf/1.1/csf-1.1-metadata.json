@@ -2,7 +2,11 @@
   "secid": "secid:control/nist.gov/csf@1.1",
   "name": "Framework for Improving Critical Infrastructure Cybersecurity",
   "acronym": "NIST CSF",
-  "alternate_names": ["CSF", "NIST CSF 1.1", "Cybersecurity Framework"],
+  "alternate_names": [
+    "CSF",
+    "NIST CSF 1.1",
+    "Cybersecurity Framework"
+  ],
   "version": "1.1",
   "publication_id": "NIST.CSWP.04162018",
   "owner": "National Institute of Standards and Technology (NIST)",
@@ -40,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Extracted from the official NIST CSF v1.1 Core spreadsheet (named 'draft-cybersecurity-framework-v1.1-core.xlsx' on nist.gov — the 'draft' filename is a historical artifact; this IS the final v1.1 Core). The CSWP.04162018 white paper PDF is retained alongside for narrative reference but is not the basis for the structured extraction."
+    "notes": "Extracted from the official NIST CSF v1.1 Core spreadsheet (named 'draft-cybersecurity-framework-v1.1-core.xlsx' on nist.gov \u2014 the 'draft' filename is a historical artifact; this IS the final v1.1 Core). The CSWP.04162018 white paper PDF is retained alongside for narrative reference but is not the basis for the structured extraction."
   },
   "extraction_history": [
     {
@@ -55,5 +59,9 @@
     "categories": 23,
     "subcategories": 106
   },
-  "notes": "v1.1 differs from v2.0 by lacking the Govern Function. Subcategory numbering differs between versions — mappings against v1.1 IDs are NOT directly portable to v2.0. See the [Withdrawn:] entries in CSF 2.0 for the 1.1 → 2.0 crosswalk."
+  "notes": "v1.1 differs from v2.0 by lacking the Govern Function. Subcategory numbering differs between versions \u2014 mappings against v1.1 IDs are NOT directly portable to v2.0. See the [Withdrawn:] entries in CSF 2.0 for the 1.1 \u2192 2.0 crosswalk.",
+  "desired_end_state": {
+    "state": "dropped",
+    "reason": "withdrawn"
+  }
 }
