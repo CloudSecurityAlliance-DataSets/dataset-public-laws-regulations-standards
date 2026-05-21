@@ -31,13 +31,9 @@
     "notes": "Rev 3 published 2023-09-28. Renamed scope (was ICS-specific in Rev 2)."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "s3_timestamp": "2026-05-21T16:56:44Z",
+    "tool": "marker (markdown) + extract_800_82.py",
+    "notes": "Structured Appendix F (OT Overlay) into 800-82-r3-overlay.{csv,json}. 234 base controls captured, 101 with OT Discussion text. Schema: control_id, control_name, low_baseline, moderate_baseline, high_baseline (allocations from Table 22), ot_discussion (per-control OT-specific tailoring prose from F.7+), enhancement_discussion (Control Enhancement OT Discussion text). Source: NIST SP 800-82r3, Appendix F (OT-specific overlay of NIST SP 800-53 Rev. 5)."
   },
   "extraction_history": [
     {
@@ -45,6 +41,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
     }
   ],
   "scope": {
