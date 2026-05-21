@@ -19,8 +19,9 @@
     "source": "https://mgaleg.maryland.gov/2024RS/bills/hb/hb0338F.PDF",
     "csaLocation": "",
     "source_research_note": "Maryland enacts facial-recognition statutes incrementally (e.g., HB338 2024). Multiple bills; URL points at one representative.",
-    "acquisition_status": "needs-expansion",
-    "acquisition_blocker": "Maryland enacts facial-recognition statutes incrementally (HB338 2024 plus several others). Same shape as the Florida and Massachusetts entries. Recommended: split into per-bill entries OR rename to a tracking-page entry."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "Maryland enacts facial-recognition statutes incrementally (HB338 2024 plus several others). Same shape as the Florida and Massachusetts entries. Recommended: split into per-bill entries OR rename to a tracking-page entry.",
+    "collection_kind": "collection"
   },
   "lifecycle": {
     "active": true,
@@ -32,6 +33,13 @@
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "policy-doc"
+    "reason": "policy-doc-collection",
+    "notes": "Multi-collection: representative content captured; full per-bill split is a future enhancement."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T21:09:04Z",
+    "tool": "curl + pdftotext -layout",
+    "retrieval_url": "https://mgaleg.maryland.gov/2024RS/bills/hb/hb0338F.PDF",
+    "notes": "Captured HB 338 (2024) \u2014 Criminal Procedure / Facial Recognition Technology \u2014 Requirements, Procedures, and Prohibitions, as a representative bill. Maryland enacts facial-recognition statutes incrementally; this directory serves as a topic anchor for MD facial-recognition legislation. Additional MD bills can be appended to this markdown or split into siblings as they're enacted."
   }
 }
