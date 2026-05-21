@@ -34,13 +34,9 @@
     "notes": "Original 1988; Notifiable Data Breaches scheme 2018; major reforms in progress."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "s3_timestamp": "2026-05-21T18:26:11Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired the OAIC's official overview of the Privacy Act 1988 from oaic.gov.au/privacy/the-privacy-act. This is the regulator's narrative explanation, not the statute text itself; the full Act is at https://www.legislation.gov.au/Series/C2004A03712 (linked in the doc). Future acquisition could pull the statute directly from legislation.gov.au."
   },
   "extraction_history": [
     {
@@ -48,6 +44,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source acquisition + extraction TODO."
     }
   ],
   "scope": {},
