@@ -60,7 +60,8 @@
   },
   "notes": "Originally extracted in dataset-private-laws-regulations-standards/CIS/CIS-Controls-v8/ pending license verification. CIS publishes CIS Controls under CC-BY 4.0 \u2014 derivative data is publicly redistributable with attribution \u2014 so this content moves to the public repo. The companion v8.1 should be added when ingested; v8 remains useful for compliance documentation that pre-dates the v8.1 release.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed"
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "CIS Critical Security Controls v8 \u2014 CC-BY-4.0, publicly redistributable with attribution. Already structured locally. Note: a previous version of the backfill heuristic incorrectly flagged this as 'licensed' due to a substring match on 'non-commercial' in the license notes; corrected in PR #46 (but flipped back at some later point \u2014 explicit setter now)."
   }
 }
