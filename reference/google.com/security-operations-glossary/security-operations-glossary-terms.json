@@ -1,0 +1,122 @@
+[
+  {
+    "term": "Asset",
+    "definition": "Any device or system within your enterprise that can connect to the network.",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "AIS",
+    "definition": "Automated Indicator Sharing",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "BPF",
+    "definition": "Berkeley Packet Filter",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "CEE",
+    "definition": "Customer Experience Engineers",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "DHS",
+    "definition": "Department of Homeland Security",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "EAP",
+    "definition": "Early Access Program",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "EDR",
+    "definition": "Endpoint detection and response",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "EPS",
+    "definition": "Events Per Second",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "ET",
+    "definition": "Emerging Threat",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "FQDN",
+    "definition": "Fully Qualified Domain Name",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "IOC",
+    "definition": "Indicator of Compromise",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "MSSP",
+    "definition": "Managed Security Service Provider",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "PCAP",
+    "definition": "Packet Capture",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "Prevalence",
+    "definition": "Measure of the number of assets within your enterprise connected to a specific domain over the past seven days.",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "QPM",
+    "definition": "Queries Per Minute",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "QPS",
+    "definition": "Queries Per Second",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "SSO",
+    "definition": "Single Sign-on",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "TPD",
+    "definition": "Top Private Domain",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "TLD",
+    "definition": "Top Level Domain",
+    "source_anchor": "",
+    "notes": ""
+  },
+  {
+    "term": "WHOIS",
+    "definition": "A protocol used to query the databases that store the registered users and assignees of an Internet resource such as a domain name, IP address, or autonomous system.",
+    "source_anchor": "",
+    "notes": ""
+  }
+]

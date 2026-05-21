@@ -1,0 +1,140 @@
+[
+  {
+    "term": "Algorithm",
+    "definition": "Cryptographic primitives such as the SHA256 digest, or AES encryption are referred to in OpenSSL as \"algorithms\". There can be more than one implementation for any given algorithm available for use.\n\ncrypto(7) (../crypto/)",
+    "source_anchor": "#description-algorithm",
+    "notes": "../crypto/"
+  },
+  {
+    "term": "ASN.1, ASN1",
+    "definition": "ASN.1 (\"Abstract Syntax Notation One\") is a notation for describing abstract types and values. It is defined in the ITU-T documents X.680 to X.683:\n\nhttps://www.itu.int/rec/T-REC-X.680, https://www.itu.int/rec/T-REC-X.681, https://www.itu.int/rec/T-REC-X.682, https://www.itu.int/rec/T-REC-X.683",
+    "source_anchor": "#description-asn-1-asn1",
+    "notes": "https://www.itu.int/rec/T-REC-X.680; https://www.itu.int/rec/T-REC-X.681; https://www.itu.int/rec/T-REC-X.682; https://www.itu.int/rec/T-REC-X.683"
+  },
+  {
+    "term": "Base Provider",
+    "definition": "An OpenSSL Provider that contains encoders and decoders for OpenSSL keys. All the algorithm implementations in the Base Provider are also available in the Default Provider.\n\nOSSL_PROVIDER-base(7) (../OSSL_PROVIDER-base/)",
+    "source_anchor": "#description-base-provider",
+    "notes": "../OSSL_PROVIDER-base/"
+  },
+  {
+    "term": "Decoder",
+    "definition": "A decoder is a type of algorithm used for decoding keys and parameters from some external format such as PEM or DER.\n\nOSSL_DECODER_CTX_new_for_pkey(3) (../../man3/OSSL_DECODER_CTX_new_for_pkey/)",
+    "source_anchor": "#description-decoder",
+    "notes": "../../man3/OSSL_DECODER_CTX_new_for_pkey/"
+  },
+  {
+    "term": "Default Provider",
+    "definition": "An OpenSSL Provider that contains the most common OpenSSL algorithm implementations. It is loaded by default if no other provider is available. All the algorithm implementations in the Base Provider are also available in the Default Provider.\n\nOSSL_PROVIDER-default(7) (../OSSL_PROVIDER-default/)",
+    "source_anchor": "#description-default-provider",
+    "notes": "../OSSL_PROVIDER-default/"
+  },
+  {
+    "term": "DER (\"Distinguished Encoding Rules\")",
+    "definition": "DER is a binary encoding of data, structured according to an ASN.1 specification. This is a common encoding used for cryptographic objects such as private and public keys, certificates, CRLs, ...\n\nIt is defined in ITU-T document X.690:\n\nhttps://www.itu.int/rec/T-REC-X.690",
+    "source_anchor": "#description-der-distinguished-encoding-rules",
+    "notes": "https://www.itu.int/rec/T-REC-X.690"
+  },
+  {
+    "term": "Encoder",
+    "definition": "An encoder is a type of algorithm used for encoding keys and parameters to some external format such as PEM or DER.\n\nOSSL_ENCODER_CTX_new_for_pkey(3) (../../man3/OSSL_ENCODER_CTX_new_for_pkey/)",
+    "source_anchor": "#description-encoder",
+    "notes": "../../man3/OSSL_ENCODER_CTX_new_for_pkey/"
+  },
+  {
+    "term": "Explicit Fetching",
+    "definition": "Explicit Fetching is a type of Fetching (see Fetching). Explicit Fetching is where a function call is made to obtain an algorithm object representing an implementation such as EVP_MD_fetch(3) (../../man3/EVP_DigestInit/) or EVP_CIPHER_fetch(3) (../../man3/EVP_EncryptInit/)",
+    "source_anchor": "#description-explicit-fetching",
+    "notes": "../../man3/EVP_DigestInit/; ../../man3/EVP_EncryptInit/"
+  },
+  {
+    "term": "Fetching",
+    "definition": "Fetching is the process of looking through the available algorithm implementations, applying selection criteria (via a property query string), and finally choosing the implementation that will be used.\n\nAlso see Explicit Fetching and Implicit Fetching.\n\ncrypto(7) (../crypto/)",
+    "source_anchor": "#description-fetching",
+    "notes": "../crypto/"
+  },
+  {
+    "term": "FIPS Provider",
+    "definition": "An OpenSSL Provider that contains OpenSSL algorithm implementations that have been validated according to the FIPS 140-2 standard.\n\nOSSL_PROVIDER-FIPS(7) (../OSSL_PROVIDER-FIPS/)",
+    "source_anchor": "#description-fips-provider",
+    "notes": "../OSSL_PROVIDER-FIPS/"
+  },
+  {
+    "term": "Implicit Fetching",
+    "definition": "Implicit Fetching is a type of Fetching (see Fetching). Implicit Fetching is where an algorithm object with no associated implementation is used such as the return value from EVP_sha256(3) (../../man3/EVP_sha224/) or EVP_aes_128_cbc(3) (../../man3/EVP_aes_128_gcm/). With implicit fetching an implementation is fetched automatically using default selection criteria the first time the algorithm is used.",
+    "source_anchor": "#description-implicit-fetching",
+    "notes": "../../man3/EVP_sha224/; ../../man3/EVP_aes_128_gcm/"
+  },
+  {
+    "term": "Legacy Provider",
+    "definition": "An OpenSSL Provider that contains algorithm implementations that are considered insecure or are no longer in common use.\n\nOSSL_PROVIDER-legacy(7) (../OSSL_PROVIDER-legacy/)",
+    "source_anchor": "#description-legacy-provider",
+    "notes": "../OSSL_PROVIDER-legacy/"
+  },
+  {
+    "term": "Library Context",
+    "definition": "A Library Context in OpenSSL is represented by the type OSSL_LIB_CTX. It can be thought of as a scope within which configuration options apply. If an application does not explicitly create a library context then the \"default\" one is used. Many OpenSSL functions can take a library context as an argument. A NULL value can always be passed to indicate the default library context.\n\nOSSL_LIB_CTX(3) (../../man3/OSSL_LIB_CTX/)",
+    "source_anchor": "#description-library-context",
+    "notes": "../../man3/OSSL_LIB_CTX/"
+  },
+  {
+    "term": "MSBLOB",
+    "definition": "MSBLOB is a Microsoft specific binary format for RSA and DSA keys, both private and public. This form is never passphrase protected.",
+    "source_anchor": "#description-msblob",
+    "notes": ""
+  },
+  {
+    "term": "Null Provider",
+    "definition": "An OpenSSL Provider that contains no algorithm implementations. This can be useful to prevent the default provider from being automatically loaded in a library context.\n\nOSSL_PROVIDER-null(7) (../OSSL_PROVIDER-null/)",
+    "source_anchor": "#description-null-provider",
+    "notes": "../OSSL_PROVIDER-null/"
+  },
+  {
+    "term": "Operation",
+    "definition": "An operation is a group of OpenSSL functions with a common purpose such as encryption, or digesting.\n\ncrypto(7) (../crypto/)",
+    "source_anchor": "#description-operation",
+    "notes": "../crypto/"
+  },
+  {
+    "term": "PEM (\"Privacy Enhanced Message\")",
+    "definition": "PEM is a format used for encoding of binary content into a mail and ASCII friendly form. The content is a series of base64-encoded lines, surrounded by begin/end markers each on their own line. For example:\n\nOptional header line(s) may appear after the begin line, and their existence depends on the type of object being written or read.\n\nFor all OpenSSL uses, the binary content is expected to be a DER encoded structure.\n\nThis is defined in IETF RFC 1421:\n\nhttps://tools.ietf.org/html/rfc1421",
+    "source_anchor": "#description-pem-privacy-enhanced-message",
+    "notes": "https://tools.ietf.org/html/rfc1421"
+  },
+  {
+    "term": "PKCS#8",
+    "definition": "PKCS#8 is a specification of ASN.1 structures that OpenSSL uses for storing or transmitting any private key in a key type agnostic manner. There are two structures worth noting for OpenSSL use, one that contains the key data in unencrypted form (known as \"PrivateKeyInfo\") and an encrypted wrapper structure (known as \"EncryptedPrivateKeyInfo\").\n\nThis is specified in RFC 5208:\n\nhttps://tools.ietf.org/html/rfc5208",
+    "source_anchor": "#description-pkcs-8",
+    "notes": "https://tools.ietf.org/html/rfc5208"
+  },
+  {
+    "term": "Property",
+    "definition": "A property is a way of classifying and selecting algorithm implementations. A property is a key/value pair expressed as a string. For example all algorithm implementations in the default provider have the property \"provider=default\". An algorithm implementation can have multiple properties defined against it.\n\nAlso see Property Query String.\n\nproperty(7) (../property/)",
+    "source_anchor": "#description-property",
+    "notes": "../property/"
+  },
+  {
+    "term": "Property Query String",
+    "definition": "A property query string is a string containing a sequence of properties that can be used to select an algorithm implementation. For example the query string \"provider=example,foo=bar\" will select algorithms from the \"example\" provider that have a \"foo\" property defined for them with a value of \"bar\".\n\nProperty Query Strings are used during fetching. See Fetching.\n\nproperty(7) (../property/)",
+    "source_anchor": "#description-property-query-string",
+    "notes": "../property/"
+  },
+  {
+    "term": "Provider",
+    "definition": "A provider in OpenSSL is a component that groups together algorithm implementations. Providers can come from OpenSSL itself or from third parties.\n\nprovider(7) (../provider/)",
+    "source_anchor": "#description-provider",
+    "notes": "../provider/"
+  },
+  {
+    "term": "PVK",
+    "definition": "PVK is a Microsoft specific binary format for RSA and DSA private keys. This form may be passphrase protected.",
+    "source_anchor": "#description-pvk",
+    "notes": ""
+  },
+  {
+    "term": "SubjectPublicKeyInfo",
+    "definition": "SubjectPublicKeyInfo is an ASN.1 structure that OpenSSL uses for storing and transmitting any public key in a key type agnostic manner.\n\nThis is specified as part of the specification for certificates, RFC 5280:\n\nhttps://tools.ietf.org/html/rfc5280",
+    "source_anchor": "#description-subjectpublickeyinfo",
+    "notes": "https://tools.ietf.org/html/rfc5280"
+  }
+]
