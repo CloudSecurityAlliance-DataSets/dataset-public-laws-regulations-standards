@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 472
+**Total documents indexed:** 473
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
 | `control/` | 61 | — | 41 | — | — | **102** |
-| `regulation/` | 44 | 3 | 29 | — | — | **76** |
+| `regulation/` | 47 | — | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
-| `methodology/` | — | 9 | — | — | — | **9** |
-| `reference/` | 24 | 114 | 130 | 4 | 6 | **278** |
-| **Total** | **132** | **126** | **204** | **4** | **6** | **472** |
+| `methodology/` | 2 | 7 | — | — | — | **9** |
+| `reference/` | 27 | 113 | 129 | 4 | 6 | **279** |
+| **Total** | **140** | **120** | **203** | **4** | **6** | **473** |
 
 ## control/
 
@@ -149,7 +149,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ca.gov/physicians-make-decisions-act/` | metadata-only | 3 | `M······` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
 | `regulation/ca.gov/sb-1001-bot-disclosure/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
 | `regulation/ca.gov/sb-327-iot-security/` | structured | 5 | `M··CSP·` | `secid:regulation/ca.gov/sb-327-iot-security` |
-| `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | extracted | 5 | `MXJ····` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
+| `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | structured | 7 | `MXJCS··` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | structured | 7 | `M··CSP·` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
 | `regulation/canada.ca/pipeda/` | structured | 11 (+2 imgs) | `MX·CSPI` | `secid:regulation/canada.ca/pipeda` |
 | `regulation/colorado.gov/ai-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/ai-act` |
@@ -169,7 +169,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.bc.ca/pipa/` | structured | 5 | `M··CSP·` | `secid:regulation/gov.bc.ca/pipa` |
-| `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
+| `regulation/gov.uk/ai-opportunities-action-plan/` | structured | 7 | `MX·CS··` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
 | `regulation/gov.uk/computer-misuse-act/` | structured | 4 | `M··CS··` | `secid:regulation/gov.uk/computer-misuse-act` |
 | `regulation/gov.uk/data-protection-act-2018/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/data-protection-act-2018` |
 | `regulation/gov.uk/nis-regulations/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/nis-regulations` |
@@ -214,7 +214,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/wa.gov/my-health-my-data-act/` | metadata-only | 2 | `M······` | `secid:regulation/wa.gov/my-health-my-data-act` |
 | `regulation/whitehouse.gov/eo-14028/` | structured | 8 (+1 imgs) | `MX·CSPI` | `secid:regulation/whitehouse.gov/eo-14028` |
 | `regulation/whitehouse.gov/nsm-ai/` | metadata-only | 3 | `M······` | `secid:regulation/whitehouse.gov/nsm-ai` |
-| `regulation/whitehouse.gov/nsm-ai-framework/` | extracted | 3 | `MX·····` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |
+| `regulation/whitehouse.gov/nsm-ai-framework/` | structured | 5 | `MX·CS··` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |
 
 ## weakness/
 
@@ -240,20 +240,21 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `methodology/fedramp.gov/threat-based-risk-profiling-methodology/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:methodology/fedramp.gov/threat-based-risk-profiling-methodology` |
 | `methodology/nist.gov/800-30/r1/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:methodology/nist.gov/800-30@r1` |
 | `methodology/nist.gov/800-39/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/800-39` |
-| `methodology/nist.gov/ai-100-2/e2023/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:methodology/nist.gov/ai-100-2@e2023` |
+| `methodology/nist.gov/ai-100-2/e2023/` | structured | 13 (+7 imgs) | `MX·CSPI` | `secid:methodology/nist.gov/ai-100-2@e2023` |
 | `methodology/nist.gov/cswp-30/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-30` |
 | `methodology/nist.gov/cswp-31/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-31` |
 | `methodology/nist.gov/cswp-32/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-32` |
 | `methodology/nist.gov/cswp-33/` | extracted | 24 (+19 imgs) | `MX····I` | `secid:methodology/nist.gov/cswp-33` |
-| `methodology/nist.gov/ir-8477/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:methodology/nist.gov/ir-8477` |
+| `methodology/nist.gov/ir-8477/` | structured | 13 (+3 imgs) | `MX·CSPI` | `secid:methodology/nist.gov/ir-8477` |
 
 ## reference/
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
 | `reference/agid.gov.it/cert-agid-glossario/` | structured | 5 | `MX·CSP·` | `secid:reference/agid.gov.it/cert-agid-glossario` |
+| `reference/amazon.com/aws-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/aws-glossary` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
-| `reference/amazon.com/wellarchitected-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
+| `reference/amazon.com/wellarchitected-security-glossary/` | metadata-only | 2 | `M····P·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
 | `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
@@ -351,7 +352,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/google.com/security-operations-glossary/` | metadata-only | 1 | `M······` | `secid:reference/google.com/security-operations-glossary` |
 | `reference/gov.bc.ca/infosec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.bc.ca/infosec-glossary` |
 | `reference/gov.br/glossario-seguranca-informacao/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/glossario-seguranca-informacao` |
-| `reference/gov.uk/ncsc-glossary/` | metadata-only | 2 | `M····P·` | `secid:reference/gov.uk/ncsc-glossary` |
+| `reference/gov.uk/ncsc-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
 | `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
@@ -363,7 +364,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/iec.ch/iec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iec.ch/iec-glossary` |
 | `reference/ietf.org/rfc4949-internet-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ietf.org/rfc4949-internet-security-glossary` |
 | `reference/illumio.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/illumio.com/cybersecurity-101-glossary` |
-| `reference/incibe.es/glosario-terminos-ciberseguridad/` | metadata-only | 2 | `M····P·` | `secid:reference/incibe.es/glosario-terminos-ciberseguridad` |
+| `reference/incibe.es/glosario-terminos-ciberseguridad/` | structured | 5 | `MX·CSP·` | `secid:reference/incibe.es/glosario-terminos-ciberseguridad` |
 | `reference/intel.com/software-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/intel.com/software-security-glossary` |
 | `reference/isaca.org/cybersecurity-fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/isaca.org/cybersecurity-fundamentals-glossary` |
 | `reference/itu.int/cybex-x.1500/` | metadata-only | 1 | `M······` | `secid:reference/itu.int/cybex-x.1500` |
@@ -472,7 +473,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
 | `reference/numerique.gouv.fr/cyberdico/` | structured | 5 | `MX·CSP·` | `secid:reference/numerique.gouv.fr/cyberdico` |
-| `reference/nvd.nist.gov/cpe/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nvd.nist.gov/cpe` |
+| `reference/nvd.nist.gov/cpe/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:reference/nvd.nist.gov/cpe` |
 | `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
 | `reference/ny.gov/its-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ny.gov/its-glossary` |
 | `reference/oaic.gov.au/app-key-concepts/` | structured | 5 | `MX·CSP·` | `secid:reference/oaic.gov.au/app-key-concepts` |

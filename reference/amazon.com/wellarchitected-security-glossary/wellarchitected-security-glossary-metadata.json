@@ -29,11 +29,11 @@
   },
   "lifecycle": {
     "published": "",
-    "active": true,
+    "active": false,
     "supersedes": null,
-    "supersededBy": null,
-    "retiredFromActiveUse": null,
-    "notes": ""
+    "supersededBy": "secid:reference/amazon.com/aws-glossary",
+    "retiredFromActiveUse": "2026-05-21",
+    "notes": "The Well-Architected Security Pillar Glossary page is now a stub redirecting to the central AWS Glossary at docs.aws.amazon.com/glossary/latest/reference/glos-chap.html. Use the aws-glossary entry instead."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
