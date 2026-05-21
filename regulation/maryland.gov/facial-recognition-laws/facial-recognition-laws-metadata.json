@@ -18,7 +18,9 @@
   "links": {
     "source": "https://mgaleg.maryland.gov/2024RS/bills/hb/hb0338F.PDF",
     "csaLocation": "",
-    "source_research_note": "Maryland enacts facial-recognition statutes incrementally (e.g., HB338 2024). Multiple bills; URL points at one representative."
+    "source_research_note": "Maryland enacts facial-recognition statutes incrementally (e.g., HB338 2024). Multiple bills; URL points at one representative.",
+    "acquisition_status": "needs-expansion",
+    "acquisition_blocker": "Maryland enacts facial-recognition statutes incrementally (HB338 2024 plus several others). Same shape as the Florida and Massachusetts entries. Recommended: split into per-bill entries OR rename to a tracking-page entry."
   },
   "lifecycle": {
     "active": true,
