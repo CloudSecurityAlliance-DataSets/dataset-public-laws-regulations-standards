@@ -4,27 +4,37 @@ Triage of 112 documents currently in `control/` (state = `extracted`, no per-con
 
 Companion CSV: `tools-resources/working/control-extraction-triage.csv`
 
-## Counts by decision
+## Counts by decision (post-PR-C corrections)
 
 | Decision | Count |
 |---|---:|
-| `reclassify-reference` | 97 |
-| `structure` | 11 |
+| `reclassify-reference` | 100 |
+| `structure` | 8 |
 | `reclassify-methodology` | 3 |
 | `drop` | 1 |
 | **Total** | **112** |
 
-The dominant outcome is reclassification: only ~10% of the docs currently sitting in `control/` are actual control catalogs. The rest are guidance, templates, white papers, algorithm specs, or methodologies.
+The dominant outcome is reclassification: only ~7% of the docs currently sitting in `control/` are actual control catalogs. The rest are guidance, templates, white papers, algorithm specs, or methodologies.
 
-## Counts by publisher
+### Post-triage corrections (applied during PR-C inspection)
+
+The initial triage flagged 11 docs to structure (high confidence on 8, medium on 3). Hands-on inspection during PR-C revised three of them to `reclassify-reference`:
+
+- **`control/nist.gov/800-181/`** (NIST NICE Framework Rev 1) — the document explicitly states the Task/Knowledge/Skill catalogs were *removed* from the publication and now live at the NICE Framework Resource Center upstream. The doc body is methodology/prose, not a catalog to structure.
+- **`control/nist.gov/fips-140/2/`** — withdrawn 2022. Table 1 summary cells are heavily fragmented by marker's PDF-table rendering; per-section detailed text blends Level 1-4 requirements in prose. Per the original triage's "if a parser is too costly, reclassify" guidance.
+- **`control/nist.gov/fips-140/3/`** — normatively defers to ISO/IEC 19790:2012(E) (private content we can't redistribute); the US-only delta in the FIPS doc body is too thin to be a useful structured catalog.
+
+These three rows in the CSV now carry `decision = reclassify-reference` with explanatory notes. They'll move to `reference/` along with the other 97 in the upcoming reclassification sweep (PR-D).
+
+## Counts by publisher (post-PR-C corrections)
 
 | Publisher | structure | reclassify-reference | reclassify-methodology | drop | Total |
 |---|---:|---:|---:|---:|---:|
 | `fedramp.gov` | 4 | 36 | 1 | 0 | 41 |
-| `nist.gov` | 6 | 60 | 2 | 1 | 69 |
+| `nist.gov` | 3 | 63 | 2 | 1 | 69 |
 | `openai.com` | 0 | 1 | 0 | 0 | 1 |
 | `pcisecuritystandards.org` | 1 | 0 | 0 | 0 | 1 |
-| **Total** | **11** | **97** | **3** | **1** | **112** |
+| **Total** | **8** | **100** | **3** | **1** | **112** |
 
 ## The 11 `structure` candidates, grouped by parser family
 
