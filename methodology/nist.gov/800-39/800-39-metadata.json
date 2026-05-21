@@ -31,13 +31,9 @@
     "notes": "Published 2011-03."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "s3_timestamp": "2026-05-21T16:00:50Z",
+    "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
+    "notes": "Structured the 800-39 risk-management methodology document into 800-39-sections.{csv,json} via the generic parse_regulatory_sections.py extractor. 146 headings captured; 29 with hierarchical-numeric identifiers (1.x, 2.x, 3.x) covering the three risk-management tiers (Org / Mission-Business-Process / Information Systems) and the Frame/Assess/Respond/Monitor process. Schema: depth, section_id, section_name, id_kind, parent_id, body."
   },
   "extraction_history": [
     {
@@ -45,6 +41,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
     }
   ],
   "scope": {},
