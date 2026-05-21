@@ -19,8 +19,9 @@
     "notes": "EU legislation published in OJEU. Reuse permitted under EUR-Lex terms; attribution expected."
   },
   "links": {
-    "source": "https://eur-lex.europa.eu/eli/dir/2002/58/oj",
-    "csaLocation": ""
+    "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002L0058",
+    "csaLocation": "",
+    "source_research_note": "EU ePrivacy Directive 2002/58/EC. EUR-Lex URL \u2014 direct curl blocked; consider PDF download alternative or gdpr-info.eu."
   },
   "lifecycle": {
     "published": "",

@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://app.leg.wa.gov/rcw/default.aspx?cite=19.373",
+    "csaLocation": "",
+    "source_research_note": "Washington My Health My Data Act (2023) \u2014 RCW 19.373."
   },
   "lifecycle": {
     "active": true,

@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.503.htm",
+    "csaLocation": "",
+    "source_research_note": "Texas Capture or Use of Biometric Identifier (CUBI) \u2014 Tex. Bus. & Com. Code \u00a7 503.001."
   },
   "lifecycle": {
     "active": true,

@@ -16,8 +16,9 @@
     "notes": "Government regulation; license terms vary by jurisdiction. Generally permitted for reference and citation; consult the specific issuer's terms before redistribution at scale."
   },
   "links": {
-    "source": "https://www.industry.gov.au/",
-    "csaLocation": ""
+    "source": "https://www.industry.gov.au/publications/australias-artificial-intelligence-action-plan",
+    "csaLocation": "",
+    "source_research_note": "Australia's AI Action Plan (2021)."
   },
   "lifecycle": {
     "active": true,

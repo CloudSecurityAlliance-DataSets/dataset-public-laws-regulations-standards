@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://www.leg.state.nv.us/NRS/NRS-603A.html",
+    "csaLocation": "",
+    "source_research_note": "Nevada Security and Privacy of Personal Information \u2014 NRS Chapter 603A, includes the 2021/2023 privacy amendments (SB220 et seq.)."
   },
   "lifecycle": {
     "active": true,

@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "https://www.whitehouse.gov/",
-    "csaLocation": ""
+    "source": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
+    "csaLocation": "",
+    "source_research_note": "National Security Memorandum on Advancing US Leadership in AI (Biden, Oct 2024). Trump admin archived; URL points at Biden archive."
   },
   "lifecycle": {
     "active": true,

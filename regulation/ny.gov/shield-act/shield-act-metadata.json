@@ -22,10 +22,10 @@
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/SHIELD_Act_(New_York)",
-    "source": "",
+    "source": "https://www.nysenate.gov/legislation/laws/GBS/899-AA",
     "regulation_text": "https://www.nysenate.gov/legislation/laws/GBS/899-BB",
     "csaLocation": "",
-    "needs_research": "Previous URL https://ag.ny.gov/internet/shield-act returned 404. The actual statute is NY General Business Law \u00a7 899-aa and \u00a7 899-bb. nysenate.gov hosts the law but is Cloudflare-protected; alternative sources: law.justia.com, courts-justia, public.leginfo.state.ny.us."
+    "source_research_note": "NY SHIELD Act \u2014 General Business Law \u00a7\u00a7 899-aa, 899-bb. nysenate.gov is Cloudflare-protected; alternative: law.justia.com/codes/new-york/gbs/."
   },
   "lifecycle": {
     "published": "2019-07-25",

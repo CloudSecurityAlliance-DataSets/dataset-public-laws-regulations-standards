@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://malegislature.gov/Bills/Search?SearchTerms=artificial+intelligence",
+    "csaLocation": "",
+    "source_research_note": "Massachusetts AI legislation \u2014 multiple pending bills (H.83 et al). Tracking page on malegislature.gov."
   },
   "lifecycle": {
     "active": true,

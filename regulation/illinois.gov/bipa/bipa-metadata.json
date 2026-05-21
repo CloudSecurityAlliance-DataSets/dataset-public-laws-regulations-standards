@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57",
+    "csaLocation": "",
+    "source_research_note": "Illinois Biometric Information Privacy Act (BIPA) \u2014 740 ILCS 14."
   },
   "lifecycle": {
     "active": true,
