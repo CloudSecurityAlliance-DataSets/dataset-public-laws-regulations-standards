@@ -34,13 +34,9 @@
     "notes": "Effective 2004-07-01. Amended 2014 (AB 370) for Do Not Track."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T17:23:38Z",
+    "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "notes": "Acquired from leginfo.legislature.ca.gov as HTML, converted to markdown. California Business and Professions Code Sections 22575-22579 (Internet Privacy Requirements). The first ~60 lines of the markdown are legislative navigation chrome; actual law text begins at the '22575.' anchor. _source.html kept locally as gitignored artifact."
   },
   "extraction_history": [
     {
@@ -48,6 +44,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {
