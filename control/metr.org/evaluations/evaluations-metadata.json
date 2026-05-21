@@ -21,8 +21,8 @@
   "links": {
     "source": "https://metr.org/work/",
     "csaLocation": "",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 404 \u2014 METR site restructured. Live content at metr.org/research."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 404 \u2014 METR site restructured. Live content at metr.org/research."
   },
   "lifecycle": {
     "published": "",
@@ -33,13 +33,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T20:04:20Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://metr.org/measuring-autonomous-ai-capabilities/",
+    "notes": "Captured via playwright headless browser. The bare /evaluations URL 404s, but per-model evaluation reports live at /evaluations/<model>-report/ paths. This page is METR's methodology overview for measuring autonomous AI capabilities."
   },
   "extraction_history": [
     {
@@ -47,6 +44,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},
