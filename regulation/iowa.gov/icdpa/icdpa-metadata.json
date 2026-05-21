@@ -19,8 +19,8 @@
     "source": "https://www.legis.iowa.gov/legislation/billTracking/billDetail?ga=89&billName=SF262",
     "csaLocation": "",
     "source_research_note": "Iowa Consumer Data Protection Act \u2014 SF262 (2023).",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 404 from legis.iowa.gov for billName=SF262 \u2014 URL convention may have changed. Try iga.in.gov or legiscan.com."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 404 from legis.iowa.gov for billName=SF262 \u2014 URL convention may have changed. Try iga.in.gov or legiscan.com."
   },
   "lifecycle": {
     "active": true,
@@ -37,5 +37,11 @@
   "acronym": "ICDPA",
   "alternate_names": [
     "iowa-consumer-data-protection-act"
-  ]
+  ],
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T20:58:38Z",
+    "tool": "curl + pdftotext -layout",
+    "retrieval_url": "https://www.legis.iowa.gov/docs/code/2025/715D.pdf",
+    "notes": "Downloaded the 2025 PDF version of Iowa Code Chapter 715D and extracted text via pdftotext -layout. The 2024 PDF returned a placeholder ('For future text of chapter, effective January 1, 2025, see 2023 Acts, ch 17'); the 2025 volume contains the full law text."
+  }
 }

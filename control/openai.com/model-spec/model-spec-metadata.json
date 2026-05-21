@@ -37,7 +37,7 @@
     "s3_timestamp": "2026-05-21T20:04:20Z",
     "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
     "retrieval_url": "https://model-spec.openai.com/2025-12-18.html",
-    "notes": "Captured via playwright headless browser. Full canonical OpenAI Model Spec (2025-12-18 version, 7700+ lines): chain of command, behavioral principles, content policies, dual-newline-separated specifications. Note: Model Spec is dated/versioned; this captures the spec valid as of acquisition."
+    "notes": "Captured via playwright headless browser. Full canonical OpenAI Model Spec (2025-12-18 version, 7700+ lines): chain of command, behavioral principles, content policies, dual-newline-separated specifications. Note: Model Spec is dated/versioned; this captures the spec valid as of acquisition. Structured per-provision extraction by parse_model_spec.py: 80 provisions with id, title, parent_id, depth, section, authority_level (Root/Root+N/System/Developer/User/User+N/Guideline), and body prose."
   },
   "extraction_history": [
     {

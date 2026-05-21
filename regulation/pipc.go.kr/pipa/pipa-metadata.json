@@ -23,7 +23,7 @@
     "csaLocation": "",
     "source_research_note": "Personal Information Protection Act (PIPA), South Korea \u2014 Personal Information Protection Commission (PIPC).",
     "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 000 from pipc.go.kr \u2014 TLS/network issue or geo-block. Try the English PIPA text mirror at koreanlawtranslation.go.kr."
+    "acquisition_blocker": "Korean government sites (pipc.go.kr, law.go.kr) return net::ERR_CONNECTION_CLOSED even via playwright headless browser \u2014 likely geo-blocked from North-America-region IPs. English mirror at https://www.privacy.go.kr/eng/ requires JavaScript and country-specific routing; alternative: Korea Law Translation Center (statutes.gov.kr) or an archived snapshot."
   },
   "lifecycle": {
     "published": "",

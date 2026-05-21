@@ -19,8 +19,8 @@
     "source": "https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf",
     "csaLocation": "",
     "source_research_note": "Tennessee Information Protection Act (TIPA) \u2014 Public Chapter 1140 (2023).",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "PDF URL https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf returns HTTP 403 from both my IP and the GPU box (publications.tnsosfiles.com explicitly bot-blocks curl; XML response body suggests a WAF). LegiScan also 403s. No archived snapshot on Wayback. Needs manual browser download \u2014 open URL in browser, save as PDF to control/.../tipa.pdf, then run tools-resources/utils/pdf_to_md_via_gpu.sh."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "PDF URL https://publications.tnsosfiles.com/acts/113/pub/pc1140.pdf returns HTTP 403 from both my IP and the GPU box (publications.tnsosfiles.com explicitly bot-blocks curl; XML response body suggests a WAF). LegiScan also 403s. No archived snapshot on Wayback. Needs manual browser download \u2014 open URL in browser, save as PDF to control/.../tipa.pdf, then run tools-resources/utils/pdf_to_md_via_gpu.sh."
   },
   "lifecycle": {
     "active": true,
@@ -33,5 +33,11 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-05-21T20:58:38Z",
+    "tool": "curl + pdftotext -layout",
+    "retrieval_url": "https://publications.tnsosfiles.com/acts/113/pub/pc0408.pdf",
+    "notes": "Downloaded the Public Chapter 408 (113th GA, 2023) PDF and extracted via pdftotext -layout. The original metadata URL pointed at pc1140.pdf (wrong chapter number). TIPA effective 2025-07-01; to be codified at Tenn. Code Ann. \u00a7 47-18-3201 et seq. The PDF is a scanned printed version of the enrolled act, so the text has some OCR-style imperfections in headers but the legal text is intact."
   }
 }
