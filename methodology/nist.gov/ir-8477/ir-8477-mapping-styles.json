@@ -1,0 +1,37 @@
+[
+  {
+    "style_id": "crosswalk",
+    "style_name": "Concept Crosswalk",
+    "section": "4.1",
+    "definition": "A concept crosswalk indicates that a relationship exists between two concepts without any additional characterization of that relationship. In other words, a relationship statement in a concept crosswalk only indicates that concept B are related and captures no additional information about the relationship between the two concepts. Therefore, it's particularly important to document the use case for a concept crosswalk because the use case is the only source of contextual information about the intention and meaning of each relationship.",
+    "n_relationship_types": 0
+  },
+  {
+    "style_id": "supportive",
+    "style_name": "Supportive Relationship Mapping",
+    "section": "4.2",
+    "definition": "Supportive relationship mapping indicates how a supporting concept can or does help achieve a supported concept. The supportive relationship mapping style supports the use of the following relationship types:",
+    "n_relationship_types": 6
+  },
+  {
+    "style_id": "strm",
+    "style_name": "Set Theory Relationship Mapping",
+    "section": "4.3",
+    "definition": "Set theory relationship mapping is a relationship style derived from the branch of mathematics known as set theory. Each mapping done with this style includes both a rationale for the mapping and a relationship type.",
+    "n_relationship_types": 5
+  },
+  {
+    "style_id": "structural",
+    "style_name": "Structural Relationship Mapping",
+    "section": "4.4",
+    "definition": "The structural relationship mapping style captures an inherent hierarchical structure of concepts, usually defined within a single source. For example, the CSF defines several Functions. Each Function is composed of Categories, and each Category is composed of Subcategories. This structure is a hierarchy of a parent-child relationship and, thus, a form of mapping. Structural relationships are not as informative as the ones used in the supportive, extended, or set theory styles. A parent-child relationship implies that the child concept is part of the parent concept, but it does not specify whether the child concept is required or optional in order to achieve the parent concept.",
+    "n_relationship_types": 1
+  },
+  {
+    "style_id": "custom",
+    "style_name": "Custom",
+    "section": "4.5",
+    "definition": "",
+    "n_relationship_types": 0
+  }
+]
