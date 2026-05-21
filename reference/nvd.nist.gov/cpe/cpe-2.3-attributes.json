@@ -1,0 +1,90 @@
+[
+  {
+    "order": 1,
+    "attribute_name": "part",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "The *part* attribute SHALL have one of these three string values: - The value \"a\", when the WFN is for a class of applications. - The value \"o\", when the WFN is for a class of operating systems. - The value \"h\", when the WFN is for a class of hardware devices.",
+    "allowed_values": "a,o,h"
+  },
+  {
+    "order": 2,
+    "attribute_name": "vendor",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD describe or identify the person or organization that manufactured or created the product. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 3,
+    "attribute_name": "product",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD describe or identify the most common and recognizable title or name of the product. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 4,
+    "attribute_name": "version",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD be vendor-specific alphanumeric strings characterizing the particular release version of the product. Version information SHOULD be copied directly (with escaping of printable non-alphanumeric characters as required) from discoverable data and SHOULD NOT be truncated or otherwise modified. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 5,
+    "attribute_name": "update",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD be vendor-specific alphanumeric strings characterizing the particular update, service pack, or point release of the product. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 6,
+    "attribute_name": "edition",
+    "is_extended": "false",
+    "is_deprecated": "true",
+    "description": "The *edition* attribute is considered deprecated in this specification, and it SHOULD be assigned the logical value ANY except where required for backward compatibility with version 2.2 of the CPE specification. This attribute is referred to as the \"legacy *edition*\" attribute. If this attribute is used, values for this attribute SHOULD capture edition-related terms applied by the vendor to the product. Values for this attribute SHOULD be selected from an attribute-specific validvalues list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 7,
+    "attribute_name": "language",
+    "is_extended": "false",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHALL be valid language tags as defined by [RFC5646], and SHOULD be used to define the language supported in the user interface of the product being described. Although any valid language tag MAY be used, only tags containing language and region codes SHOULD be used.",
+    "allowed_values": ""
+  },
+  {
+    "order": 8,
+    "attribute_name": "sw_edition",
+    "is_extended": "true",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD characterize how the product is tailored to a particular market or class of end users. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 9,
+    "attribute_name": "target_sw",
+    "is_extended": "true",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD characterize the software computing environment within which the product operates. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 10,
+    "attribute_name": "target_hw",
+    "is_extended": "true",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD characterize the instruction set architecture (e.g., x86) on which the product being described or identified by the WFN operates. Bytecode-intermediate languages, such as Java bytecode for the Java Virtual Machine or Microsoft Common Intermediate Language for the Common Language Runtime virtual machine, SHALL be considered instruction set architectures. Values for this attribute SHOULD be selected from an attribute-specific valid-values list, which MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute.",
+    "allowed_values": ""
+  },
+  {
+    "order": 11,
+    "attribute_name": "other",
+    "is_extended": "true",
+    "is_deprecated": "false",
+    "description": "Values for this attribute SHOULD capture any other general descriptive or identifying information which is vendor- or product-specific and which does not logically fit in any other attribute value. Values SHOULD NOT be used for storing instance-specific data (e.g., globally-unique identifiers or Internet Protocol addresses). Values for this attribute SHOULD be selected from a valid-values list that is refined over time; this list MAY be defined by other specifications that utilize this specification. Any character string meeting the requirements for WFNs (cf. [5.3.2)](#page-15-1) MAY be specified as the value of the attribute. #### **5.4 Operations on WFNs** Three functions are defined over WFNs: *new*, *get,* and *set*. These functions are used in defining binding and unbinding procedures in Section [6.](#page-21-0) #### **5.4.1 Function new()** The new() function takes no arguments. It returns an *empty WFN* (a WFN containing no attribute-value pairs). #### Example: ``` new() wfn:[] ``` ### **5.4.2 Function get(w,a)** The get(w,a) function takes two arguments, a WFN *w* and an attribute *a*, and returns the value of *a*. If the attribute *a* is unspecified in *w*, get(w,a) returns the default value ANY. #### Examples: - get(wfn:[vendor=\"microsoft\",product=\"internet_explorer\"],vendor) \"microsoft\" - get(wfn:[vendor=\"microsoft\",product=\"internet_explorer\"],version) ANY #### **5.4.3 Function set(w,a,v)** The set(w,a,v) function takes three arguments, a WFN *w,* an attribute *a,* and a value *v*. If the attribute *a* is unspecified in *w*, set(w,a,v) adds the attribute-value pair *a*=*v* to *w*. If the attribute *a* is specified in *w*, set(w,a,v) replaces its value with *v*. If *v* is *nil*, set(w,a,v) *deletes a* from *w* if *a* is specified in *w*, otherwise has no effect. The function always returns the new value of *w*. #### Examples: - set(wfn:[],vendor,\"microsoft\") wfn:[vendor=\"microsoft\"] - set(wfn:[vendor=\"microsoft\"],vendor,\"adobe\") wfn:[vendor=\"adobe\"] - set(wfn:[vendor=\"microsoft\"],update,ANY) wfn:[vendor=\"microsoft\",update=ANY] - set(wfn:[vendor=\"microsoft\"],vendor,nil) wfn:[] #### **5.5 WFN Examples** This section illustrates a variety of WFNs. The examples below are intended only to illustrate names that are well formed according to the rules defined above. These examples do not necessarily illustrate \"correct\" or \"valid\" assignments of values to attributes. Microsoft Internet Explorer 8.0.6001 Beta (no edition): ``` wfn:[part=\"a\",vendor=\"microsoft\",product=\"internet_explorer\", version=\"8.0.6001\",update=\"beta\",edition=NA] ``` Microsoft Internet Explorer 8.* SP? (no edition, any language): ``` wfn:[part=\"a\",vendor=\"microsoft\",product=\"internet_explorer\", version=\"8.*\",update=\"sp?\",edition=NA,language=ANY] ``` Identi",
+    "allowed_values": ""
+  }
+]
