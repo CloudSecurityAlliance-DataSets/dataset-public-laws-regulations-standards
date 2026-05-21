@@ -1,0 +1,83 @@
+[
+  {
+    "objective": "Confidentiality",
+    "objective_definition": "Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.",
+    "objective_loss_meaning": "the unauthorized disclosure of information.",
+    "level": "LOW",
+    "level_qualifier": "limited",
+    "level_amplification": "A limited adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is noticeably reduced; (ii) result in minor damage to organizational assets; (iii) result in minor financial loss; or (iv) result in minor harm to individuals.",
+    "impact_description": "The unauthorized disclosure of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Confidentiality",
+    "objective_definition": "Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.",
+    "objective_loss_meaning": "the unauthorized disclosure of information.",
+    "level": "MODERATE",
+    "level_qualifier": "serious",
+    "level_amplification": "A serious adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a significant degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is significantly reduced; (ii) result in significant damage to organizational assets; (iii) result in significant financial loss; or (iv) result in significant harm to individuals that does not involve loss of life or serious life threatening injuries.",
+    "impact_description": "The unauthorized disclosure of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Confidentiality",
+    "objective_definition": "Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.",
+    "objective_loss_meaning": "the unauthorized disclosure of information.",
+    "level": "HIGH",
+    "level_qualifier": "severe or catastrophic",
+    "level_amplification": "A severe or catastrophic adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a severe degradation in or loss of mission capability to an extent and duration that the organization is not able to perform one or more of its primary functions; (ii) result in major damage to organizational assets; (iii) result in major financial loss; or (iv) result in severe or catastrophic harm to individuals involving loss of life or serious life threatening injuries.",
+    "impact_description": "The unauthorized disclosure of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Integrity",
+    "objective_definition": "Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.",
+    "objective_loss_meaning": "the unauthorized modification or destruction of information.",
+    "level": "LOW",
+    "level_qualifier": "limited",
+    "level_amplification": "A limited adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is noticeably reduced; (ii) result in minor damage to organizational assets; (iii) result in minor financial loss; or (iv) result in minor harm to individuals.",
+    "impact_description": "The unauthorized modification or destruction of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Integrity",
+    "objective_definition": "Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.",
+    "objective_loss_meaning": "the unauthorized modification or destruction of information.",
+    "level": "MODERATE",
+    "level_qualifier": "serious",
+    "level_amplification": "A serious adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a significant degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is significantly reduced; (ii) result in significant damage to organizational assets; (iii) result in significant financial loss; or (iv) result in significant harm to individuals that does not involve loss of life or serious life threatening injuries.",
+    "impact_description": "The unauthorized modification or destruction of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Integrity",
+    "objective_definition": "Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.",
+    "objective_loss_meaning": "the unauthorized modification or destruction of information.",
+    "level": "HIGH",
+    "level_qualifier": "severe or catastrophic",
+    "level_amplification": "A severe or catastrophic adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a severe degradation in or loss of mission capability to an extent and duration that the organization is not able to perform one or more of its primary functions; (ii) result in major damage to organizational assets; (iii) result in major financial loss; or (iv) result in severe or catastrophic harm to individuals involving loss of life or serious life threatening injuries.",
+    "impact_description": "The unauthorized modification or destruction of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Availability",
+    "objective_definition": "Ensuring timely and reliable access to and use of information.",
+    "objective_loss_meaning": "the disruption of access to or use of information or an information system.",
+    "level": "LOW",
+    "level_qualifier": "limited",
+    "level_amplification": "A limited adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is noticeably reduced; (ii) result in minor damage to organizational assets; (iii) result in minor financial loss; or (iv) result in minor harm to individuals.",
+    "impact_description": "The disruption of access to or use of information or an information system could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Availability",
+    "objective_definition": "Ensuring timely and reliable access to and use of information.",
+    "objective_loss_meaning": "the disruption of access to or use of information or an information system.",
+    "level": "MODERATE",
+    "level_qualifier": "serious",
+    "level_amplification": "A serious adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a significant degradation in mission capability to an extent and duration that the organization is able to perform its primary functions, but the effectiveness of the functions is significantly reduced; (ii) result in significant damage to organizational assets; (iii) result in significant financial loss; or (iv) result in significant harm to individuals that does not involve loss of life or serious life threatening injuries.",
+    "impact_description": "The disruption of access to or use of information or an information system could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals."
+  },
+  {
+    "objective": "Availability",
+    "objective_definition": "Ensuring timely and reliable access to and use of information.",
+    "objective_loss_meaning": "the disruption of access to or use of information or an information system.",
+    "level": "HIGH",
+    "level_qualifier": "severe or catastrophic",
+    "level_amplification": "A severe or catastrophic adverse effect means that, for example, the loss of confidentiality, integrity, or availability might: (i) cause a severe degradation in or loss of mission capability to an extent and duration that the organization is not able to perform one or more of its primary functions; (ii) result in major damage to organizational assets; (iii) result in major financial loss; or (iv) result in severe or catastrophic harm to individuals involving loss of life or serious life threatening injuries.",
+    "impact_description": "The disruption of access to or use of information or an information system could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals."
+  }
+]
