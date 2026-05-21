@@ -53,7 +53,8 @@
   "scope": {},
   "notes": "Inactive MITRE project. Listed for namespace completeness; redirect any active work to MITRE ATT&CK.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "taxonomy"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "Inactive MITRE project but namespace retained for completeness. Upstream (maecproject.github.io) is the canonical reference if anyone needs it."
   }
 }

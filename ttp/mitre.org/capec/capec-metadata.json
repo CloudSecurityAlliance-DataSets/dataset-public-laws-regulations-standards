@@ -54,7 +54,8 @@
   "scope": {},
   "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "taxonomy"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "MITRE publishes the authoritative CAPEC catalog as XML/CSV downloads at capec.mitre.org/data/downloads.html. Per the no-bulk-mirror rule, this stays a stub pointing at upstream."
   }
 }
