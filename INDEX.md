@@ -21,12 +21,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
 | `control/` | 61 | 32 | 8 | — | — | **101** |
-| `regulation/` | 47 | 22 | 4 | — | — | **73** |
+| `regulation/` | 47 | 25 | 1 | — | — | **73** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 40 | 113 | 121 | 4 | 6 | **284** |
-| **Total** | **160** | **167** | **137** | **4** | **6** | **474** |
+| **Total** | **160** | **170** | **134** | **4** | **6** | **474** |
 
 ## control/
 
@@ -165,7 +165,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/eprivacy/` | extracted | 4 | `MX·····` | `secid:regulation/europa.eu/eprivacy` |
 | `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
-| `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
+| `regulation/florida.gov/biometric-privacy-laws/` | extracted | 3 | `MX·····` | `secid:regulation/florida.gov/biometric-privacy-laws` |
 | `regulation/gov.bc.ca/pipa/` | structured | 5 | `M··CSP·` | `secid:regulation/gov.bc.ca/pipa` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | structured | 7 | `MX·CS··` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
 | `regulation/gov.uk/computer-misuse-act/` | structured | 4 | `M··CS··` | `secid:regulation/gov.uk/computer-misuse-act` |
@@ -185,8 +185,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/in.gov/incdpa/` | extracted | 3 | `MX·····` | `secid:regulation/in.gov/incdpa` |
 | `regulation/industry.gov.au/ai-action-plan/` | extracted | 3 | `MX·····` | `secid:regulation/industry.gov.au/ai-action-plan` |
 | `regulation/iowa.gov/icdpa/` | extracted | 3 | `MX·····` | `secid:regulation/iowa.gov/icdpa` |
-| `regulation/maryland.gov/facial-recognition-laws/` | metadata-only | 2 | `M······` | `secid:regulation/maryland.gov/facial-recognition-laws` |
-| `regulation/mass.gov/ai-bills/` | metadata-only | 2 | `M······` | `secid:regulation/mass.gov/ai-bills` |
+| `regulation/maryland.gov/facial-recognition-laws/` | extracted | 3 | `MX·····` | `secid:regulation/maryland.gov/facial-recognition-laws` |
+| `regulation/mass.gov/ai-bills/` | extracted | 3 | `MX·····` | `secid:regulation/mass.gov/ai-bills` |
 | `regulation/meity.gov.in/dpdp/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/meity.gov.in/dpdp` |
 | `regulation/mt.gov/mcdpa/` | extracted | 3 | `MX·····` | `secid:regulation/mt.gov/mcdpa` |
 | `regulation/nv.gov/privacy-amendments/` | extracted | 3 | `MX·····` | `secid:regulation/nv.gov/privacy-amendments` |
