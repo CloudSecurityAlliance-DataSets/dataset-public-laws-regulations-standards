@@ -1,0 +1,842 @@
+[
+  {
+    "term": "ABAC",
+    "definition": "Accrual-based accounting",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "AD",
+    "definition": "Administrator",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "AG",
+    "definition": "Advisory Group",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "AHWG",
+    "definition": "Ad-hoc Working Group",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "AI",
+    "definition": "Artificial intelligence",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "APF",
+    "definition": "Annual privacy forum",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "APT",
+    "definition": "Advanced Persistent Threat. This term is commonly used to refer to cyber threats, in particular that of Internet-enabled espionage using a variety of intelligence gathering techniques.",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "APWG",
+    "definition": "Anti-Phishing Working Group. Non-profit global pan-industrial and law enforcement association focused on eliminating the fraud, crime and identity theft that result from phishing, pharming, malware and email spoofing.",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "ARET",
+    "definition": "Awareness Raising and Education Team",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "AST",
+    "definition": "Assistant(s)",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "Awareness raising",
+    "definition": "Awareness is the 'what' component of the education strategy of an organisation which tries to change the behaviour and patterns in how targeted audience uses technology and the Internet.",
+    "source_anchor": "A",
+    "notes": ""
+  },
+  {
+    "term": "BEREC",
+    "definition": "Body of European Regulators of Electronic Communications",
+    "source_anchor": "B",
+    "notes": ""
+  },
+  {
+    "term": "CA (Contract)",
+    "definition": "Contract agent",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CA (Certification)",
+    "definition": "Certification Authority. An authority that carries out certain management actions related to digital certificates, e.g. issuing, suspending, revoking etc.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CBU",
+    "definition": "Capacity Building Unit",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CE",
+    "definition": "Cyber Europe exercises. The Cyber Europe exercises are simulations of large-scale cybersecurity incidents that escalate to become cyber crises.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CEN",
+    "definition": "European Committee for Standardisation",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "Cenelec",
+    "definition": "European Committee for Electrotechnical Standardisation",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CEP",
+    "definition": "Cyber exercise platform. Set of machines and networks that provide the possibility of training technical skills and practise the participants' knowledge in an online way.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CERT",
+    "definition": "Computer emergency response team. CERT, refers to a group of IT security experts, that provide reactive and proactive IT security services to its customers.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CERT-EU",
+    "definition": "Computer Emergency Response Team for the EU institutions, bodies and agencies",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CII",
+    "definition": "Critical Information Infrastructures. Information infrastructure (like networks, hardware, software, etc.) that is critical to the functioning of a nation or country.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CIIP",
+    "definition": "Critical information-infrastructure protection",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CISO",
+    "definition": "Chief Information Security Officer. Manages information security implications within the organization, specific program, or other area of responsibility.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Computing",
+    "definition": "Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services).",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CoA",
+    "definition": "Court of Auditors",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "COM",
+    "definition": "European Commission",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CSA",
+    "definition": "Cybersecurity Act",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CSCG",
+    "definition": "ETSI CEN-CENELEC cybersecurity Security coordination group. It is the only joint group of the three officially recognised European Standardisation Organisations with a mandate for coordinating Cyber Security standards.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CSIRT",
+    "definition": "Computer-security and incident-response team. Computer Security and Incident Response Team. Other term for CERT.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "Cyber crisis",
+    "definition": "Critical situation that involves information and telecommunication structures or facilities and can damage them and provoke a reduction or the discharge of the services they provide.",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "CyCLONe",
+    "definition": "Cyber Crisis Liaison Organisation Network",
+    "source_anchor": "C",
+    "notes": ""
+  },
+  {
+    "term": "Data Protection",
+    "definition": "Laws and regulations that make it illegal to store or share some types of information about people without their knowledge or permission.",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "DG",
+    "definition": "Directorate-general. An organisational unit within the European Commission.",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "DG CONNECT",
+    "definition": "Directorate General for Communications Networks, Content and Technology. An organisational unit within the European Commission.",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "DPA",
+    "definition": "Data protection authorities. Independent body which is charge of monitoring the processing of personal data within its jurisdiction.",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "DPO",
+    "definition": "Data protection officer",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "DSM",
+    "definition": "Digital single market",
+    "source_anchor": "D",
+    "notes": ""
+  },
+  {
+    "term": "EATA",
+    "definition": "European Automotive Telecom Alliance",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EB",
+    "definition": "Executive board",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EC",
+    "definition": "European Union Commission. Other term for COM. The European Commission is the EU's executive body and represents the interests of Europe as a whole.",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECB",
+    "definition": "European Central Bank",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EC3",
+    "definition": "European cybercrime centre, Europol",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECA",
+    "definition": "European Court of Auditors",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECCG",
+    "definition": "European Cybersecurity Certification Group",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECSC",
+    "definition": "European cybersecurity challenge",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECSM",
+    "definition": "European cybersecurity month",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ECSO",
+    "definition": "European cybersecurity organisation",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ED",
+    "definition": "Executive Director. The senior manager and legal representative of the European Union Agency for Cybersecurity.",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EDA",
+    "definition": "European Defence Agency",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EDO",
+    "definition": "Executive Director's Office",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EDPS",
+    "definition": "European Data Protection Supervisor. An independent supervisory authority devoted to protecting personal data and privacy and promoting good practice in the EU institutions and bodies.",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EEAS",
+    "definition": "European External Action Service",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EECC",
+    "definition": "EU electronic communications code",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EFTA",
+    "definition": "European Free Trade Association (Stockholm Convention) (Iceland, Liechtenstein, Norway and Switzerland)",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "eID",
+    "definition": "Electronic Identity. Identity of a physical person in the digital world. It provides personal information about a person that can be accessible through digital services.",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "eIDAS",
+    "definition": "Regulation on electronic identification and trusted services for electronic transactions in the internal market",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "Electronic Seal",
+    "definition": "Data in electronic form which are attached to or logically associated with other electronic data to ensure the origin and the integrity of the associated data.",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ENISA",
+    "definition": "European Union Agency for Cybersecurity (formly known as the European Union Network and Information Security Agency)",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ERA",
+    "definition": "European Railway Agency",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "ETSI",
+    "definition": "European Telecommunications Standards Institute",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EU",
+    "definition": "European Union",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "EUIBAs",
+    "definition": "EU institutions, bodies and agencies",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "Europol",
+    "definition": "European Union Agency for Law Enforcement Cooperation",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "eu-LISA",
+    "definition": "European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice",
+    "source_anchor": "E",
+    "notes": ""
+  },
+  {
+    "term": "FIRST",
+    "definition": "Forum of incident-response and security teams",
+    "source_anchor": "F",
+    "notes": ""
+  },
+  {
+    "term": "GDPR",
+    "definition": "General data protection regulation",
+    "source_anchor": "G",
+    "notes": ""
+  },
+  {
+    "term": "H2020",
+    "definition": "Horizon 2020",
+    "source_anchor": "H",
+    "notes": ""
+  },
+  {
+    "term": "HoU",
+    "definition": "Head of Unit. The mid-manager who is in charge of an organisational unit within ENISA.",
+    "source_anchor": "H",
+    "notes": ""
+  },
+  {
+    "term": "IaaS",
+    "definition": "Infrastructure as a Service. In Cloud computing, IaaS incorporates the capability to abstract resources (or not) as well as deliver physical and logical connectivity to those resources.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IAS",
+    "definition": "Internal Audit Service",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ICC",
+    "definition": "International Cybersecurity Challenge. ENISA, together with other regional and international organisations, decided to design and host for the first time the International Cybersecurity Challenge (ICC) in 2022.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ICS",
+    "definition": "Industrial control systems. Control systems used in industrial production like SCADA or distributed control systems.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ICT",
+    "definition": "Information and communication technology",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "Information society",
+    "definition": "The information society is the society, where low-cost information and data storage and transmission technologies are in general use.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "INT",
+    "definition": "International Cooperation Team",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IoT",
+    "definition": "Internet of things",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IPR",
+    "definition": "Intellectual property rights",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IS",
+    "definition": "Information systems. Combination of information technology and people's activities that support operations, management and decision making.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ISAC",
+    "definition": "Information Sharing & Analysis Centre. Trusted and specific entity which collects analyses and disseminates alerts and incident reports, as well as it shares and provides analytical support.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ISO",
+    "definition": "International Organization for Standardization. The International Organization for Standardization develops and publishes International Standards.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ISO (Security)",
+    "definition": "Information Security Officer (See CISO)",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ISP",
+    "definition": "Internet Service Providers. A company that provides use of the Internet, allows you to use email, and gives you space on the Internet to show documents.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IT",
+    "definition": "Information technology",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "ITU",
+    "definition": "International Telecommunication Union. The International Telecommunication Union is the United Nations specialised agency for information and communication technologies.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "IXP",
+    "definition": "Internet exchange point. Physical infrastructure through which Internet service providers (ISPs) exchange Internet traffic between their networks.",
+    "source_anchor": "I",
+    "notes": ""
+  },
+  {
+    "term": "JRC",
+    "definition": "Joint Research Centre. Directorate of the European Commission",
+    "source_anchor": "J",
+    "notes": ""
+  },
+  {
+    "term": "KIT",
+    "definition": "Knowledge and Information Team",
+    "source_anchor": "K",
+    "notes": ""
+  },
+  {
+    "term": "LEA",
+    "definition": "Law Enforcement Agency",
+    "source_anchor": "L",
+    "notes": ""
+  },
+  {
+    "term": "M2M",
+    "definition": "Machine to machine",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "MB",
+    "definition": "Management Board",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "MCS",
+    "definition": "Market, Certification and Standardization Unit",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "MEP",
+    "definition": "Member of the European Parliament",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "MoU",
+    "definition": "Memorandum of understanding",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "MS",
+    "definition": "Member State",
+    "source_anchor": "M",
+    "notes": ""
+  },
+  {
+    "term": "NAPAC",
+    "definition": "National public authority representatives committee",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NATO",
+    "definition": "North Atlantic Treaty Organisation",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NCSS",
+    "definition": "National Cybersecurity Strategies",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NGO",
+    "definition": "Non-governmental organisation",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "n/g CERT",
+    "definition": "National / Governmental CERT. The term 'national / governmental CERT' subsumes all 'flavours' of national CERTs, governmental CERTs, national points of contacts.",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NIS",
+    "definition": "Network and Information Security. A term used by the European Commission to refer to issues related to IT security, security of hard- and software, etc.",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NISD",
+    "definition": "NIS directive",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NIS CG",
+    "definition": "NIS Cooperation Group",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NLO",
+    "definition": "National liaison officer",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "NRA",
+    "definition": "National regulatory authority",
+    "source_anchor": "N",
+    "notes": ""
+  },
+  {
+    "term": "OCU",
+    "definition": "Operational Cooperation Unit",
+    "source_anchor": "O",
+    "notes": ""
+  },
+  {
+    "term": "OECD",
+    "definition": "Organisation for Economic Co-operation and Development",
+    "source_anchor": "O",
+    "notes": ""
+  },
+  {
+    "term": "OSCE",
+    "definition": "Organization for Security and Co-operation in Europe",
+    "source_anchor": "O",
+    "notes": ""
+  },
+  {
+    "term": "PaaS",
+    "definition": "Platform as a Service. In Cloud computing, PaaS is a layer of integration with application development frameworks, middleware capabilities.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PDI",
+    "definition": "Policy Development and Implementation Unit",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "Personal data",
+    "definition": "Any information relating to an identified or identifiable natural person hereinafter referred to as 'data subject'.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PETs",
+    "definition": "Privacy-enhancing technologies",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PKI",
+    "definition": "Public Key Infrastructure. The architecture, organization, techniques, practices, and procedures that collectively support the implementation and operation of a certificate-based public key cryptographic system.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PPP",
+    "definition": "Public-private partnership. An arrangement where a government and a profit-making company invest in and work on an activity together.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "Privacy",
+    "definition": "The right of a person to not be subjected to arbitrary interference with his private life, family, home or correspondence nor to attacks upon his honour and reputation.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "Privacy Seal",
+    "definition": "A recognisable trust mark displayed by a web site which verifies the site implements certain security requirements as stated in its privacy policy.",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PSD",
+    "definition": "Payment services directive",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "PSG",
+    "definition": "Permanent stakeholders group",
+    "source_anchor": "P",
+    "notes": ""
+  },
+  {
+    "term": "R&D",
+    "definition": "Research and Development",
+    "source_anchor": "R",
+    "notes": ""
+  },
+  {
+    "term": "Resilience",
+    "definition": "The ability to recover from faults in addition to the ability to provide and maintain.",
+    "source_anchor": "R",
+    "notes": ""
+  },
+  {
+    "term": "Risk assessment",
+    "definition": "The process of finding out how much risk is involved in doing something.",
+    "source_anchor": "R",
+    "notes": ""
+  },
+  {
+    "term": "SaaS",
+    "definition": "Software as a Service. In Cloud computing, SaaS provides a self-contained operating environment used to deliver the entire user experience.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SB",
+    "definition": "Supervisory Body",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SCADA",
+    "definition": "Supervisory Control and Data Acquisition. SCADA systems are highly distributed systems used to control geographically dispersed assets, often scattered over thousands of square kilometers.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SCCG",
+    "definition": "Stakeholder Cybersecurity Certification Group",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "Security Incident",
+    "definition": "An occurrence that harms integrity, accessibility, confidentiality or authenticity of a computer (or other device) or a network.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SLA",
+    "definition": "Service-level agreement",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "Smart Grid",
+    "definition": "It generally refers to a class of technology people are using to bring utility electricity delivery systems into the 21st century, using computer-based remote control and automation.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SME",
+    "definition": "Small and Medium Enterprise",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SNE",
+    "definition": "Seconded national expert",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SOC",
+    "definition": "Security Operations Centre. Unit that deals with security issues on an organisational and technical level.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SOP",
+    "definition": "Standard operating procedure",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "SPD",
+    "definition": "Single programming document",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "Standards",
+    "definition": "Guidance set up and established by authority as a rule for the measure of quantity, weight, extent, value, or quality.",
+    "source_anchor": "S",
+    "notes": ""
+  },
+  {
+    "term": "TA",
+    "definition": "Temporary agent",
+    "source_anchor": "T",
+    "notes": ""
+  },
+  {
+    "term": "Threat",
+    "definition": "An expression of intention to inflict damage.",
+    "source_anchor": "T",
+    "notes": ""
+  },
+  {
+    "term": "TRANSIST",
+    "definition": "Training of Network Security Incident Teams Staff. Course that provides affordable, high-quality training to both new and experienced Computer Security and Incident Response Team (CSIRT) personnel.",
+    "source_anchor": "T",
+    "notes": ""
+  },
+  {
+    "term": "Transits",
+    "definition": "Computer-security and incident-response team (CSIRT) personnel training",
+    "source_anchor": "T",
+    "notes": ""
+  },
+  {
+    "term": "TSP",
+    "definition": "Trust service provider",
+    "source_anchor": "T",
+    "notes": ""
+  },
+  {
+    "term": "WP",
+    "definition": "Work programme",
+    "source_anchor": "W",
+    "notes": ""
+  }
+]
