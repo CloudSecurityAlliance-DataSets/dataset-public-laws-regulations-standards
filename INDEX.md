@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 60 | 22 | 19 | — | — | **101** |
+| `control/` | 60 | 33 | 8 | — | — | **101** |
 | `regulation/` | 47 | 10 | 16 | — | — | **73** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 33 | 113 | 132 | 4 | 6 | **288** |
-| **Total** | **152** | **145** | **171** | **4** | **6** | **478** |
+| **Total** | **152** | **156** | **160** | **4** | **6** | **478** |
 
 ## control/
 
@@ -52,7 +52,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
 | `control/concordia-ai.com/frontier-ai-rmf/` | extracted | 3 | `MX·····` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
 | `control/enx.com/isa/6/` | structured | 5 | `M··CSP·` | `secid:control/enx.com/isa@6` |
-| `control/equifax.com/controls-framework/` | metadata-only | 2 | `M······` | `secid:control/equifax.com/controls-framework` |
+| `control/equifax.com/controls-framework/` | extracted | 3 | `MX·····` | `secid:control/equifax.com/controls-framework` |
 | `control/europa.eu/altai/` | extracted | 3 | `MX·····` | `secid:control/europa.eu/altai` |
 | `control/europa.eu/ethics-guidelines/` | extracted | 3 | `MX·····` | `secid:control/europa.eu/ethics-guidelines` |
 | `control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet/` | structured | 9 | `M··C···` | `secid:control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet` |
@@ -81,16 +81,16 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
 | `control/ibm.com/ai-controls-framework/` | extracted | 3 | `MX·····` | `secid:control/ibm.com/ai-controls-framework` |
 | `control/imda.gov.sg/ai-verify/` | extracted | 3 | `MX·····` | `secid:control/imda.gov.sg/ai-verify` |
-| `control/imda.gov.sg/model-governance/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/model-governance` |
+| `control/imda.gov.sg/model-governance/` | extracted | 3 | `MX·····` | `secid:control/imda.gov.sg/model-governance` |
 | `control/isaca.org/cobit/` | metadata-only | 2 | `M······` | `secid:control/isaca.org/cobit` |
 | `control/jailbreakbench.github.io/benchmark/` | extracted | 3 | `MX·····` | `secid:control/jailbreakbench.github.io/benchmark` |
 | `control/meta.com/cyberseceval/` | extracted | 3 | `MX·····` | `secid:control/meta.com/cyberseceval` |
 | `control/meta.com/purple-llama/` | extracted | 3 | `MX·····` | `secid:control/meta.com/purple-llama` |
-| `control/metr.org/evaluations/` | metadata-only | 2 | `M······` | `secid:control/metr.org/evaluations` |
-| `control/metr.org/task-standard/` | metadata-only | 2 | `M······` | `secid:control/metr.org/task-standard` |
+| `control/metr.org/evaluations/` | extracted | 3 | `MX·····` | `secid:control/metr.org/evaluations` |
+| `control/metr.org/task-standard/` | extracted | 3 | `MX·····` | `secid:control/metr.org/task-standard` |
 | `control/microsoft.com/azure-security-benchmark/` | extracted | 3 | `MX·····` | `secid:control/microsoft.com/azure-security-benchmark` |
 | `control/microsoft.com/secure-score/` | extracted | 3 | `MX·····` | `secid:control/microsoft.com/secure-score` |
-| `control/mlcommons.org/ai-safety/` | metadata-only | 2 | `M······` | `secid:control/mlcommons.org/ai-safety` |
+| `control/mlcommons.org/ai-safety/` | extracted | 3 | `MX·····` | `secid:control/mlcommons.org/ai-safety` |
 | `control/mlcommons.org/croissant/` | extracted | 3 | `MX·····` | `secid:control/mlcommons.org/croissant` |
 | `control/mlcommons.org/mlperf/` | extracted | 3 | `MX·····` | `secid:control/mlcommons.org/mlperf` |
 | `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
@@ -118,21 +118,21 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-199/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
 | `control/nist.gov/privacy-framework/` | structured | 17 (+9 imgs) | `MX·CSPI` | `secid:control/nist.gov/privacy-framework` |
-| `control/openai.com/model-spec/` | metadata-only | 2 | `M······` | `secid:control/openai.com/model-spec` |
-| `control/openai.com/red-teaming/` | metadata-only | 2 | `M······` | `secid:control/openai.com/red-teaming` |
-| `control/openai.com/system-cards/` | metadata-only | 2 | `M······` | `secid:control/openai.com/system-cards` |
+| `control/openai.com/model-spec/` | extracted | 3 | `MX·····` | `secid:control/openai.com/model-spec` |
+| `control/openai.com/red-teaming/` | extracted | 3 | `MX·····` | `secid:control/openai.com/red-teaming` |
+| `control/openai.com/system-cards/` | extracted | 3 | `MX·····` | `secid:control/openai.com/system-cards` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0/` | structured | 348 (+340 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
 | `control/pcisecuritystandards.org/pci-pin/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-pin` |
 | `control/pcisecuritystandards.org/secure-software-standard/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/secure-software-standard` |
-| `control/safe.ai/harmbench/` | metadata-only | 2 | `M······` | `secid:control/safe.ai/harmbench` |
-| `control/safe.ai/wmdp/` | metadata-only | 2 | `M······` | `secid:control/safe.ai/wmdp` |
+| `control/safe.ai/harmbench/` | extracted | 3 | `MX·····` | `secid:control/safe.ai/harmbench` |
+| `control/safe.ai/wmdp/` | extracted | 3 | `MX·····` | `secid:control/safe.ai/wmdp` |
 | `control/securityforum.org/sogp/2022/` | metadata-only | 1 | `M······` | `secid:control/securityforum.org/sogp@2022` |
 | `control/swift.com/csp/` | metadata-only | 2 | `M······` | `secid:control/swift.com/csp` |
 | `control/tc260.org.cn/ai-safety-governance/` | extracted | 3 | `MX·····` | `secid:control/tc260.org.cn/ai-safety-governance` |
-| `control/trustllmbenchmark.github.io/benchmark/` | metadata-only | 2 | `M······` | `secid:control/trustllmbenchmark.github.io/benchmark` |
+| `control/trustllmbenchmark.github.io/benchmark/` | extracted | 3 | `MX·····` | `secid:control/trustllmbenchmark.github.io/benchmark` |
 
 ## regulation/
 
