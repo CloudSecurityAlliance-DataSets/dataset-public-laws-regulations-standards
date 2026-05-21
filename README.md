@@ -24,13 +24,13 @@ Current state of every document tracked in this repo, broken down by SecID type 
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 55 | 110 | 41 | — | — | **206** |
+| `control/` | 56 | 109 | 41 | — | — | **206** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 6 | — | — | — | **6** |
 | `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **106** | **133** | **84** | **4** | **6** | **333** |
+| **Total** | **107** | **132** | **84** | **4** | **6** | **333** |
 
 See [`INDEX.md`](INDEX.md) for the per-document table including SecID identifiers and extraction-state glyphs.
 <!-- INVENTORY-END -->
