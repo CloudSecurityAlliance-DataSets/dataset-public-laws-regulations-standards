@@ -1,0 +1,52 @@
+{
+  "secid": "secid:reference/nist.gov/800-224",
+  "name": "Implementation Guidance for the Trusted Internet Connections (TIC) 3.0 Initiative",
+  "acronym": "SP 800-224",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "NIST.800-224",
+  "owner": "National Institute of Standards and Technology (NIST)",
+  "type": "Standard",
+  "description": "NIST SP 800-224 \u2014 TIC 3.0 implementation guidance for federal agencies. Companion to CISA's TIC 3.0 program.",
+  "relationToCloudSecurity": "Direct federal-cloud connectivity guidance; replaces legacy TIC 2.0 perimeter model with cloud-aware policy enforcement.",
+  "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
+  "license": {
+    "spdx": "NIST-PD",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
+  },
+  "links": {
+    "source": "https://csrc.nist.gov/pubs/sp/800/224/ipd",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "stub",
+      "reason": "Initial namespace stub",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+}
