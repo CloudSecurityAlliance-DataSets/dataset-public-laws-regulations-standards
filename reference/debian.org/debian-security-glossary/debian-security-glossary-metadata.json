@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
-    "derivatives": "unknown",
-    "publicly_redistributable": false,
-    "license_text_url": "",
-    "notes": "Debian documentation (likely GPL-compatible/free)"
+    "spdx": "LicenseRef-Debian-Web",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.debian.org/legal/licenses/",
+    "notes": "Debian website content (MIT-style site terms; no inline restrictive notice). Tiny 8-entry acronym glossary for DSA/DLA/DTSA/etc. Reclassified from NOASSERTION after Phase 4c verification."
   },
   "links": {
     "wikipedia": "",
@@ -42,7 +42,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Extracted in Phase 4c after license re-verification confirmed permissive terms."
   },
   "extraction_history": [
     {
@@ -53,7 +53,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "notes": "Debian website content (MIT-style site terms; no inline restrictive notice). Tiny 8-entry acronym glossary for DSA/DLA/DTSA/etc. Reclassified from NOASSERTION after Phase 4c verification.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"

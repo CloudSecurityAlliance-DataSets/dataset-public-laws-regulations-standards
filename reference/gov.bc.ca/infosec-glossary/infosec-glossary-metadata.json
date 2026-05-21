@@ -19,7 +19,7 @@
     "derivatives": "unknown",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "BC government work"
+    "notes": "BC government work\n\nPhase 4c verification: every gov.bc.ca page refused connection from automated browsers (net::ERR_EMPTY_RESPONSE). Per web search, OGL-BC-2.0 covers BC Data Catalogue items, but general government website content is 'access only' by default. License remains NOASSERTION pending manual verification."
   },
   "links": {
     "wikipedia": "",
@@ -53,7 +53,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "notes": "Phase 4c verification: every gov.bc.ca page refused connection from automated browsers (net::ERR_EMPTY_RESPONSE). Per web search, OGL-BC-2.0 covers BC Data Catalogue items, but general government website content is 'access only' by default. License remains NOASSERTION pending manual verification.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"
