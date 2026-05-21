@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "OGL-Canada-2.0",
+    "spdx": "OGL-UK-3.0",
     "redistribution": "permitted_with_attribution",
     "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
-    "notes": "Open Government Licence \u2013 Canada."
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "UK Crown Copyright \u2014 Open Government Licence v3.0."
   },
   "links": {
     "wikipedia": "",
