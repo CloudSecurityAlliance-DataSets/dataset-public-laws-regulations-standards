@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/bsigroup.com/cyber-security-glossary",
+  "name": "BSI Group Glossary of Cyber Security Terms",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "BSI Group Glossary of Cyber Security Terms",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
+    "publicly_redistributable": false,
+    "license_text_url": "",
+    "notes": "Commercial standards body \u2014 copyright BSI Group; consult ToS"
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bsigroup.com/en-GB/Cyber-Security/Glossary-of-cyber-security-terms/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub created from glossary research sweep",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+}
