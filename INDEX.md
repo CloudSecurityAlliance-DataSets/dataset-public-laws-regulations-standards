@@ -16,24 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 317
+**Total documents indexed:** 333
 
-| State | Count |
-|---|---|
-| structured | 64 |
-| extracted | 156 |
-| metadata-only | 87 |
-| readme-only | 4 |
-| empty | 6 |
-
-| Type | Count |
-|---|---|
-| control | 203 |
-| regulation | 63 |
-| weakness | 2 |
-| ttp | 5 |
-| methodology | 6 |
-| reference | 38 |
+| Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
+|---|---:|---:|---:|---:|---:|---:|
+| `control/` | 53 | 112 | 41 | — | — | **206** |
+| `regulation/` | 44 | 3 | 29 | — | — | **76** |
+| `weakness/` | 1 | — | 1 | — | — | **2** |
+| `ttp/` | 2 | — | 3 | — | — | **5** |
+| `methodology/` | — | 6 | — | — | — | **6** |
+| `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
+| **Total** | **104** | **135** | **84** | **4** | **6** | **333** |
 
 ## control/
 
@@ -46,7 +39,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/allenai.org/realtoxicityprompts/` | metadata-only | 2 | `M······` | `secid:control/allenai.org/realtoxicityprompts` |
 | `control/amazon.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-best-practices` |
 | `control/amazon.com/security-hub-standards/` | metadata-only | 2 | `M······` | `secid:control/amazon.com/security-hub-standards` |
-| `control/amazon.com/well-architected/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/amazon.com/well-architected` |
+| `control/amazon.com/well-architected/` | structured | 14 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
@@ -123,7 +116,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/google.com/frontier-safety/` | metadata-only | 2 | `M······` | `secid:control/google.com/frontier-safety` |
 | `control/google.com/saif/` | metadata-only | 2 | `M······` | `secid:control/google.com/saif` |
 | `control/google.com/security-best-practices/` | metadata-only | 2 | `M······` | `secid:control/google.com/security-best-practices` |
-| `control/hitrustalliance.net/csf/v11.3.0/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
+| `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
 | `control/ibm.com/ai-controls-framework/` | metadata-only | 2 | `M······` | `secid:control/ibm.com/ai-controls-framework` |
 | `control/imda.gov.sg/ai-verify/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/ai-verify` |
 | `control/imda.gov.sg/model-governance/` | metadata-only | 2 | `M······` | `secid:control/imda.gov.sg/model-governance` |
@@ -155,12 +148,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-146/` | extracted | 25 (+20 imgs) | `MX····I` | `secid:control/nist.gov/800-146` |
 | `control/nist.gov/800-150/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-150` |
 | `control/nist.gov/800-153/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-153` |
-| `control/nist.gov/800-160-v1/` | extracted | 27 (+22 imgs) | `MX····I` | `secid:control/nist.gov/800-160-v1` |
+| `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
 | `control/nist.gov/800-160-v2/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-160-v2` |
-| `control/nist.gov/800-161/r1/` | extracted | 22 (+19 imgs) | `MX····I` | `secid:control/nist.gov/800-161@r1` |
+| `control/nist.gov/800-161/r1/` | structured | 25 (+19 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-161@r1` |
 | `control/nist.gov/800-167/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-167` |
-| `control/nist.gov/800-171/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-171` |
-| `control/nist.gov/800-172/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-172` |
+| `control/nist.gov/800-171/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-171` |
+| `control/nist.gov/800-172/` | structured | 12 (+4 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-172` |
 | `control/nist.gov/800-177/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-177` |
 | `control/nist.gov/800-181/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-181` |
 | `control/nist.gov/800-184/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-184` |
@@ -168,13 +161,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-190/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:control/nist.gov/800-190` |
 | `control/nist.gov/800-201/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-201` |
 | `control/nist.gov/800-204/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-204` |
-| `control/nist.gov/800-207/` | extracted | 20 (+15 imgs) | `MX····I` | `secid:control/nist.gov/800-207` |
+| `control/nist.gov/800-207/` | structured | 23 (+15 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-207` |
 | `control/nist.gov/800-209/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-209` |
 | `control/nist.gov/800-210/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-210` |
 | `control/nist.gov/800-213/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:control/nist.gov/800-213` |
 | `control/nist.gov/800-213a/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-213a` |
 | `control/nist.gov/800-216/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-216` |
-| `control/nist.gov/800-218/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-218` |
+| `control/nist.gov/800-218/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218` |
 | `control/nist.gov/800-218a/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-218a` |
 | `control/nist.gov/800-219/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-219` |
 | `control/nist.gov/800-221/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-221` |
@@ -185,7 +178,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-227/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:control/nist.gov/800-227` |
 | `control/nist.gov/800-30/r1/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-30@r1` |
 | `control/nist.gov/800-34/r1/` | extracted | 14 (+11 imgs) | `MX····I` | `secid:control/nist.gov/800-34@r1` |
-| `control/nist.gov/800-37/r2/` | extracted | 10 (+7 imgs) | `MX····I` | `secid:control/nist.gov/800-37@r2` |
+| `control/nist.gov/800-37/r2/` | structured | 13 (+7 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-37@r2` |
 | `control/nist.gov/800-39/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-39` |
 | `control/nist.gov/800-40/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/800-40` |
 | `control/nist.gov/800-46/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-46` |
@@ -198,9 +191,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-57-pt3/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-57-pt3` |
 | `control/nist.gov/800-61/r2/` | extracted | 11 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-61@r2` |
 | `control/nist.gov/800-63/3/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-63@3` |
-| `control/nist.gov/800-66/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-66` |
+| `control/nist.gov/800-63a/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63a` |
+| `control/nist.gov/800-63b/` | structured | 18 (+11 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63b` |
+| `control/nist.gov/800-63c/` | structured | 17 (+10 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-63c` |
+| `control/nist.gov/800-66/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-66` |
 | `control/nist.gov/800-77/` | extracted | 15 (+10 imgs) | `MX····I` | `secid:control/nist.gov/800-77` |
-| `control/nist.gov/800-82/` | extracted | 30 (+25 imgs) | `MX····I` | `secid:control/nist.gov/800-82` |
+| `control/nist.gov/800-82/r3/` | structured | 32 (+25 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-82@r3` |
 | `control/nist.gov/800-83/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-83` |
 | `control/nist.gov/800-84/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:control/nist.gov/800-84` |
 | `control/nist.gov/800-86/` | extracted | 9 (+4 imgs) | `MX····I` | `secid:control/nist.gov/800-86` |
@@ -208,8 +204,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-92/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:control/nist.gov/800-92` |
 | `control/nist.gov/800-94/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/800-94` |
 | `control/nist.gov/ai-100-4/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:control/nist.gov/ai-100-4` |
-| `control/nist.gov/ai-600-1/1.0/` | structured | 10 (+3 imgs) | `MXJC··I` | `secid:control/nist.gov/ai-600-1@1.0` |
-| `control/nist.gov/ai-rmf/1.0/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:control/nist.gov/ai-rmf@1.0` |
+| `control/nist.gov/ai-600-1/1.0/` | structured | 13 (+3 imgs) | `MXJCSPI` | `secid:control/nist.gov/ai-600-1@1.0` |
+| `control/nist.gov/ai-rmf/1.0/` | structured | 20 (+14 imgs) | `MX·CSPI` | `secid:control/nist.gov/ai-rmf@1.0` |
 | `control/nist.gov/csf/1.1/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@1.1` |
 | `control/nist.gov/csf/2.0/` | structured | 6 | `M··CSP·` | `secid:control/nist.gov/csf@2.0` |
 | `control/nist.gov/fips-140/2/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-140@2` |
@@ -219,13 +215,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-197/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-197` |
 | `control/nist.gov/fips-198/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-198` |
 | `control/nist.gov/fips-199/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-199` |
-| `control/nist.gov/fips-200/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-200` |
+| `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
 | `control/nist.gov/fips-201/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:control/nist.gov/fips-201` |
 | `control/nist.gov/fips-202/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-202` |
 | `control/nist.gov/fips-203/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/fips-203` |
 | `control/nist.gov/fips-204/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-204` |
 | `control/nist.gov/fips-205/` | extracted | 18 (+13 imgs) | `MX····I` | `secid:control/nist.gov/fips-205` |
-| `control/nist.gov/privacy-framework/` | extracted | 14 (+9 imgs) | `MX····I` | `secid:control/nist.gov/privacy-framework` |
+| `control/nist.gov/privacy-framework/` | structured | 17 (+9 imgs) | `MX·CSPI` | `secid:control/nist.gov/privacy-framework` |
 | `control/openai.com/model-spec/` | metadata-only | 2 | `M······` | `secid:control/openai.com/model-spec` |
 | `control/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:control/openai.com/preparedness` |
 | `control/openai.com/red-teaming/` | metadata-only | 2 | `M······` | `secid:control/openai.com/red-teaming` |
@@ -247,20 +243,23 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `regulation/alberta.ca/hia/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/hia` |
+| `regulation/alberta.ca/pipa/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/pipa` |
 | `regulation/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:regulation/bsi.bund.de/ai-c4` |
 | `regulation/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:regulation/bsi.bund.de/c5` |
-| `regulation/bsi.bund.de/it-grundschutz/` | metadata-only | 2 | `M······` | `secid:regulation/bsi.bund.de/it-grundschutz` |
+| `regulation/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:regulation/bsi.bund.de/it-grundschutz` |
 | `regulation/ca.gov/caloppa/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/caloppa` |
 | `regulation/ca.gov/ccpa-cpra/` | structured | 6 | `M··CSP·` | `secid:regulation/ca.gov/ccpa-cpra` |
 | `regulation/ca.gov/physicians-make-decisions-act/` | metadata-only | 3 | `M······` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
 | `regulation/ca.gov/sb-1001-bot-disclosure/` | metadata-only | 2 | `M······` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
+| `regulation/ca.gov/sb-327-iot-security/` | structured | 5 | `M··CSP·` | `secid:regulation/ca.gov/sb-327-iot-security` |
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | extracted | 5 | `MXJ····` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
-| `regulation/cac.gov.cn/genai-interim-measures/` | metadata-only | 4 | `M······` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
-| `regulation/canada.ca/pipeda/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:regulation/canada.ca/pipeda` |
+| `regulation/cac.gov.cn/genai-interim-measures/` | structured | 7 | `M··CSP·` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
+| `regulation/canada.ca/pipeda/` | structured | 11 (+2 imgs) | `MX·CSPI` | `secid:regulation/canada.ca/pipeda` |
 | `regulation/colorado.gov/ai-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/ai-act` |
-| `regulation/colorado.gov/cpa-privacy-act/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/colorado.gov/cpa-privacy-act` |
+| `regulation/colorado.gov/cpa-privacy-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/cpa-privacy-act` |
 | `regulation/congress.gov/chips-act/` | metadata-only | 2 | `M······` | `secid:regulation/congress.gov/chips-act` |
-| `regulation/ct.gov/ctdpa/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/ct.gov/ctdpa` |
+| `regulation/ct.gov/ctdpa/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/ct.gov/ctdpa` |
 | `regulation/delaware.gov/delaware-personal-data-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/delaware-personal-data-privacy-act` |
 | `regulation/delaware.gov/dpdpa/` | metadata-only | 2 | `M······` | `secid:regulation/delaware.gov/dpdpa` |
 | `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
@@ -273,13 +272,20 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
 | `regulation/florida.gov/biometric-privacy-laws/` | metadata-only | 2 | `M······` | `secid:regulation/florida.gov/biometric-privacy-laws` |
+| `regulation/gov.bc.ca/pipa/` | structured | 5 | `M··CSP·` | `secid:regulation/gov.bc.ca/pipa` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | extracted | 5 | `MX·····` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
+| `regulation/gov.uk/computer-misuse-act/` | structured | 4 | `M··CS··` | `secid:regulation/gov.uk/computer-misuse-act` |
 | `regulation/gov.uk/data-protection-act-2018/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/data-protection-act-2018` |
 | `regulation/gov.uk/nis-regulations/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/nis-regulations` |
+| `regulation/gov.uk/psti-act/` | structured | 6 | `M··CS··` | `secid:regulation/gov.uk/psti-act` |
 | `regulation/gov.uk/uk-gdpr/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/uk-gdpr` |
+| `regulation/govinfo.gov/calea/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/calea` |
 | `regulation/govinfo.gov/cfaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/cfaa` |
+| `regulation/govinfo.gov/circia/` | structured | 5 | `M··CSP·` | `secid:regulation/govinfo.gov/circia` |
+| `regulation/govinfo.gov/coppa/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/coppa` |
 | `regulation/govinfo.gov/fisma/` | structured | 7 | `MX·CS··` | `secid:regulation/govinfo.gov/fisma` |
 | `regulation/govinfo.gov/glba/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/glba` |
+| `regulation/govinfo.gov/hava/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hava` |
 | `regulation/govinfo.gov/hipaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hipaa` |
 | `regulation/illinois.gov/bipa/` | metadata-only | 2 | `M······` | `secid:regulation/illinois.gov/bipa` |
 | `regulation/in.gov/incdpa/` | metadata-only | 2 | `M······` | `secid:regulation/in.gov/incdpa` |
@@ -288,26 +294,29 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/iowa.gov/iowa-consumer-data-protection-act/` | metadata-only | 2 | `M······` | `secid:regulation/iowa.gov/iowa-consumer-data-protection-act` |
 | `regulation/maryland.gov/facial-recognition-laws/` | metadata-only | 2 | `M······` | `secid:regulation/maryland.gov/facial-recognition-laws` |
 | `regulation/mass.gov/ai-bills/` | metadata-only | 2 | `M······` | `secid:regulation/mass.gov/ai-bills` |
-| `regulation/meity.gov.in/dpdp/` | extracted | 6 (+1 imgs) | `MX····I` | `secid:regulation/meity.gov.in/dpdp` |
+| `regulation/meity.gov.in/dpdp/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/meity.gov.in/dpdp` |
 | `regulation/mt.gov/mcdpa/` | metadata-only | 2 | `M······` | `secid:regulation/mt.gov/mcdpa` |
 | `regulation/nv.gov/privacy-amendments/` | metadata-only | 2 | `M······` | `secid:regulation/nv.gov/privacy-amendments` |
 | `regulation/ny.gov/local-law-144-ai-hiring/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
 | `regulation/ny.gov/nybcl/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/nybcl` |
-| `regulation/ny.gov/nydfs-500/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:regulation/ny.gov/nydfs-500` |
+| `regulation/ny.gov/nydfs-500/` | structured | 13 (+2 imgs) | `MX·CSPI` | `secid:regulation/ny.gov/nydfs-500` |
 | `regulation/ny.gov/shield-act/` | metadata-only | 2 | `M······` | `secid:regulation/ny.gov/shield-act` |
 | `regulation/oaic.gov.au/privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oaic.gov.au/privacy-act` |
+| `regulation/ontario.ca/phipa/` | structured | 5 | `M··CSP·` | `secid:regulation/ontario.ca/phipa` |
 | `regulation/oregon.gov/ocpa/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/ocpa` |
 | `regulation/oregon.gov/oregon-consumer-privacy-act/` | metadata-only | 2 | `M······` | `secid:regulation/oregon.gov/oregon-consumer-privacy-act` |
 | `regulation/parl.ca/aida/` | metadata-only | 3 | `M······` | `secid:regulation/parl.ca/aida` |
-| `regulation/pdpc.gov.sg/pdpa/` | metadata-only | 3 | `M······` | `secid:regulation/pdpc.gov.sg/pdpa` |
+| `regulation/pdpc.gov.sg/pdpa/` | structured | 7 | `M··CSP·` | `secid:regulation/pdpc.gov.sg/pdpa` |
 | `regulation/pipc.go.kr/pipa/` | metadata-only | 2 | `M······` | `secid:regulation/pipc.go.kr/pipa` |
 | `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
-| `regulation/ppc.go.jp/appi/` | extracted | 5 | `MX·····` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/ppc.go.jp/appi/` | structured | 8 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/quebec.ca/loi-25/` | structured | 5 | `M··CSP·` | `secid:regulation/quebec.ca/loi-25` |
 | `regulation/texas.gov/cubi-biometric-privacy/` | metadata-only | 2 | `M······` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
 | `regulation/tn.gov/tipa/` | metadata-only | 2 | `M······` | `secid:regulation/tn.gov/tipa` |
-| `regulation/utah.gov/ucpa/` | extracted | 5 | `MX·····` | `secid:regulation/utah.gov/ucpa` |
+| `regulation/utah.gov/ucpa/` | structured | 8 | `MX·CSP·` | `secid:regulation/utah.gov/ucpa` |
 | `regulation/virginia.gov/vcdpa/` | structured | 6 | `M··CSP·` | `secid:regulation/virginia.gov/vcdpa` |
 | `regulation/wa.gov/my-health-my-data-act/` | metadata-only | 2 | `M······` | `secid:regulation/wa.gov/my-health-my-data-act` |
+| `regulation/whitehouse.gov/eo-14028/` | structured | 8 (+1 imgs) | `MX·CSPI` | `secid:regulation/whitehouse.gov/eo-14028` |
 | `regulation/whitehouse.gov/nsm-ai/` | metadata-only | 3 | `M······` | `secid:regulation/whitehouse.gov/nsm-ai` |
 | `regulation/whitehouse.gov/nsm-ai-framework/` | extracted | 3 | `MX·····` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |
 
