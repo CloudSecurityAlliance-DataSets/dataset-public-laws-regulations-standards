@@ -91,6 +91,20 @@ The path is composable from the SecID identifier:
 
 Fixed in SecID v1.0: `advisory`, `weakness`, `ttp`, `control`, `capability`, `methodology`, `disclosure`, `regulation`, `entity`, `reference`. Don't invent new ones. Full descriptions and a decision table live in [PROMPT-CLASSIFICATION.md](PROMPT-CLASSIFICATION.md).
 
+The canonical source of truth for the 10 types **and** their sub-classifications (subtypes) is [TYPES-AND-SUBTYPES.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md) in the SecID repo. **Fetch the live version from GitHub before any classification work** — that doc evolves (new subtypes get added, candidates get promoted, language gets refined), and whatever's summarized in this CLAUDE.md is a snapshot that may already be stale. Don't rely on memory, prior sessions, or the excerpts below; fetch and read the current file.
+
+### SecID subtypes (the in-type extension mechanism)
+
+The 10 types are frozen at v1.0. Within them, **subtypes** name sub-classifications via a `subtype:` array on the source-level match_node's `data:` block — registry-data, not a schema change. Examples in use today: a glossary is `reference` with `subtype: ["glossary"]`; CVSS is `methodology` with `subtype: ["scoring"]`; NIST IR 8477 is `methodology` with `subtype: ["mapping"]`.
+
+**Default rule:** when a new sub-category emerges, try a subtype first. Splitting into a new type is the exception — gated on **all four** criteria being met: resolution patterns diverge, consumers diverge, semantics drift, volume justifies it. Most candidates fail at least one and stay as subtypes.
+
+**Before classifying any new document — especially when a possible sub-category is in play — fetch the current version of the canonical guide from GitHub:**
+
+[https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md)
+
+Use `WebFetch` (or `curl`/`gh` against the raw URL) to read the **live** file every time — not a cached recollection, not the excerpts in this CLAUDE.md. The doc changes as new subtypes are tagged, candidates get promoted, or implicit overloads become explicit. As of the last time this CLAUDE.md was updated it enumerated named subtypes in use (`reference` → glossary; `methodology` → 11 categories), anticipated subtypes (BoK on `control`, course on `reference`), and candidate patterns (CNA / bug-bounty / PSIRT on `disclosure`; law / directive / transposition on `regulation`; organization / product / service on `entity`) — but treat that list as **possibly out of date** and verify against the live file. When this repo's labeling and the live SecID doc disagree, the live SecID doc is right.
+
 ### `reference/` is the catch-all
 
 When a document doesn't fit any other type, it goes in `reference/`. **Don't force-fit into a wrong type, and don't invent a new type.** Examples that belong in `reference/`:

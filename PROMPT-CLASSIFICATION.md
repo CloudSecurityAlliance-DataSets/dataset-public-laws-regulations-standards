@@ -33,6 +33,21 @@ The directory path is then `{type}/{namespace}/{name}/{version}/`.
 
 Type list is **fixed in SecID v1.0** — don't invent new types here. If a document genuinely needs one, raise it in SecID first; only after SecID adds the type does it appear in this repo.
 
+### Step 1.5 — Check for a subtype
+
+Once the type is determined, check the SecID match_node's `data.subtype:` array (if any). Subtypes refine within-type classification without inflating the official type list:
+
+- A glossary is `reference` with `subtype: ["glossary"]`
+- CVSS is `methodology` with `subtype: ["scoring"]`
+- NIST IR 8477 is `methodology` with `subtype: ["mapping"]`
+- TLP is `methodology` with `subtype: ["classification"]`
+
+When in doubt about an emerging sub-category, **try a subtype first** — don't propose a new type. New-type splits require all four criteria (resolution patterns diverge, consumers diverge, semantics drift, volume justifies); subtype tags are reversible registry edits.
+
+The full subtype catalog — named subtypes currently in use, anticipated subtypes (BoK on `control`, course on `reference`), candidate patterns (CNA / bug-bounty on `disclosure`; law / directive / transposition on `regulation`; organization / product / service on `entity`), and the four-criteria split gate — lives in [SecID's TYPES-AND-SUBTYPES.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md).
+
+**Fetch the live file from GitHub every time before classifying a document whose sub-category isn't already obvious from a registry match.** Use `WebFetch` against the URL above (or `curl`/`gh` on the raw form). The doc is actively maintained — new subtypes land, candidates get promoted to in-use, and the examples here in PROMPT-CLASSIFICATION.md are a snapshot that drifts. Don't classify from memory or from cached excerpts; read the current file.
+
 ### Step 2 — Look Up or Add the SecID Namespace
 
 Consult the SecID registry at `~/GitHub/CloudSecurityAlliance/SecID/registry/{type}/{tld}/{org}.{md,json}`.
@@ -207,6 +222,7 @@ Non-zero exit means one of:
 
 - [SecID/SPEC.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/SPEC.md) — full grammar and parsing rules
 - [SecID/registry/](https://github.com/CloudSecurityAlliance/SecID/tree/main/registry) — all known namespaces and their canonical naming
+- [SecID/docs/reference/TYPES-AND-SUBTYPES.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md) — the 10 frozen types, the `subtype:` convention, named subtypes in use today, and the four-criteria gate for splitting into a new type
 - [SecID/docs/reference/NAMESPACE-MAPPING.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/NAMESPACE-MAPPING.md) — historical short-name → domain-name migration map (also documents the US-state convention)
 - [SecID/docs/reference/DATA-HOSTING-RULES.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/DATA-HOSTING-RULES.md) — when to host content vs reference it externally
 - [SecID/docs/explanation/DESIGN-DECISIONS.md](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/explanation/DESIGN-DECISIONS.md) — why the design is what it is
