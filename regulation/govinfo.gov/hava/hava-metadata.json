@@ -2,7 +2,10 @@
   "secid": "secid:regulation/govinfo.gov/hava",
   "name": "Help America Vote Act of 2002",
   "acronym": "HAVA",
-  "alternate_names": ["Pub. L. 107-252", "52 USC § 20901 et seq."],
+  "alternate_names": [
+    "Pub. L. 107-252",
+    "52 USC \u00a7 20901 et seq."
+  ],
   "version": "",
   "publication_id": "hava",
   "owner": "US Election Assistance Commission",
@@ -16,7 +19,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC \u00a7 105."
   },
   "links": {
     "source": "https://www.govinfo.gov/content/pkg/PLAW-107publ252/pdf/PLAW-107publ252.pdf",
@@ -28,7 +31,7 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "Enacted 2002-10-29; codified primarily at 52 USC § 20901 et seq."
+    "notes": "Enacted 2002-10-29; codified primarily at 52 USC \u00a7 20901 et seq."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -48,5 +51,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

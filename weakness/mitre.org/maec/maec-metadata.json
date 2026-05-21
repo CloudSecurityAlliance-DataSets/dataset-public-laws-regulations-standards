@@ -2,13 +2,15 @@
   "secid": "secid:weakness/mitre.org/maec",
   "name": "Malware Attribute Enumeration and Characterization",
   "acronym": "MAEC",
-  "alternate_names": ["MITRE MAEC"],
+  "alternate_names": [
+    "MITRE MAEC"
+  ],
   "version": "",
   "publication_id": "MAEC",
   "owner": "MITRE Corporation",
   "type": "Taxonomy",
   "description": "MAEC was a MITRE-led community effort to standardize the encoding and communication of high-fidelity information about malware (behaviors, capabilities, artifacts, relationships). The MAEC schema (XML, later JSON) supported automated malware analysis sharing. The project went inactive after MITRE shifted focus to ATT&CK and STIX/TAXII (which absorbed most malware-characterization use cases). Last formal MAEC release was 5.0 (2017); the effort is effectively superseded by ATT&CK Software entries and STIX malware extensions.",
-  "relationToCloudSecurity": "MAEC is no longer actively maintained. For current malware-characterization work — including cloud-targeting malware — use MITRE ATT&CK's Software catalog and STIX 2.1 malware objects.",
+  "relationToCloudSecurity": "MAEC is no longer actively maintained. For current malware-characterization work \u2014 including cloud-targeting malware \u2014 use MITRE ATT&CK's Software catalog and STIX 2.1 malware objects.",
   "relationToAISecurity": "MAEC does not address AI/ML-targeting malware. ATT&CK and ATLAS provide AI-relevant adversary technique coverage.",
   "license": {
     "spdx": "LicenseRef-MITRE-MAEC-Terms-of-Use",
@@ -44,10 +46,14 @@
     {
       "s3_timestamp": "unknown",
       "status": "stub",
-      "reason": "README only — placeholder for namespace coverage",
+      "reason": "README only \u2014 placeholder for namespace coverage",
       "tool": "n/a"
     }
   ],
   "scope": {},
-  "notes": "Inactive MITRE project. Listed for namespace completeness; redirect any active work to MITRE ATT&CK."
+  "notes": "Inactive MITRE project. Listed for namespace completeness; redirect any active work to MITRE ATT&CK.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

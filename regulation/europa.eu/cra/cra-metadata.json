@@ -9,7 +9,7 @@
   "publication_id": "cra",
   "owner": "European Union",
   "type": "Regulation",
-  "description": "EU Cyber Resilience Act (Regulation (EU) 2024/2847) — horizontal cybersecurity requirements for products with digital elements placed on the EU market. Imposes secure-by-design, vulnerability disclosure, software supply chain, and CE-marking obligations on manufacturers.",
+  "description": "EU Cyber Resilience Act (Regulation (EU) 2024/2847) \u2014 horizontal cybersecurity requirements for products with digital elements placed on the EU market. Imposes secure-by-design, vulnerability disclosure, software supply chain, and CE-marking obligations on manufacturers.",
   "relationToCloudSecurity": "Cloud-deployed software with digital elements in scope; affects SaaS and many cloud-native products.",
   "relationToAISecurity": "AI systems with digital elements fall under CRA; intersects with AI Act for high-risk AI.",
   "license": {
@@ -61,5 +61,9 @@
     "annexes": 8,
     "celex": "32024R2847"
   },
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

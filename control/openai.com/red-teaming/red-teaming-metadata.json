@@ -7,7 +7,7 @@
   "publication_id": "red-teaming",
   "owner": "OpenAI",
   "type": "Program",
-  "description": "OpenAI's Red Teaming Network — external evaluation program of domain experts and security researchers for pre-deployment model safety testing.",
+  "description": "OpenAI's Red Teaming Network \u2014 external evaluation program of domain experts and security researchers for pre-deployment model safety testing.",
   "relationToCloudSecurity": "Vendor-specific.",
   "relationToAISecurity": "Programmatic AI-safety testing function; complements internal evaluations.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

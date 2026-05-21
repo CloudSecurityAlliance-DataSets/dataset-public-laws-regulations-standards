@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. BORDERLINE: agent flagged as broader-IT/product-doc-scoped or other concern. Verify on next pass. Agent note: Borderline \u2014 What Is hub structure"
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. BORDERLINE: agent flagged as broader-IT/product-doc-scoped or other concern. Verify on next pass. Agent note: Borderline \u2014 What Is hub structure",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "glossary"
+  }
 }

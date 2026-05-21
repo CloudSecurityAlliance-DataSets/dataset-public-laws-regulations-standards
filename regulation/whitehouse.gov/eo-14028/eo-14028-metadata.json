@@ -2,7 +2,9 @@
   "secid": "secid:regulation/whitehouse.gov/eo-14028",
   "name": "Executive Order 14028: Improving the Nation's Cybersecurity",
   "acronym": "EO 14028",
-  "alternate_names": ["May 12 2021 Cybersecurity EO"],
+  "alternate_names": [
+    "May 12 2021 Cybersecurity EO"
+  ],
   "version": "",
   "publication_id": "eo-14028",
   "owner": "The White House",
@@ -16,7 +18,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC \u00a7 105."
   },
   "links": {
     "source": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

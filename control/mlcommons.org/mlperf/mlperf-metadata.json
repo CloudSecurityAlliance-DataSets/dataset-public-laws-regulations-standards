@@ -7,7 +7,7 @@
   "publication_id": "mlperf",
   "owner": "MLCommons",
   "type": "Benchmark",
-  "description": "MLPerf — standardized performance benchmarks for ML training, inference, and storage systems. Used industry-wide to compare hardware and software ML stacks.",
+  "description": "MLPerf \u2014 standardized performance benchmarks for ML training, inference, and storage systems. Used industry-wide to compare hardware and software ML stacks.",
   "relationToCloudSecurity": "Performance-focused; cross-cuts cloud-platform comparisons.",
   "relationToAISecurity": "Performance benchmark, not directly safety-related.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

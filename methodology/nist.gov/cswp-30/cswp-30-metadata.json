@@ -53,5 +53,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

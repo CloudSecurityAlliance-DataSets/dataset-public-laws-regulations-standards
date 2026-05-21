@@ -2,7 +2,11 @@
   "secid": "secid:control/nist.gov/csf@2.0",
   "name": "Cybersecurity Framework",
   "acronym": "NIST CSF",
-  "alternate_names": ["CSF", "NIST CSF 2.0", "Framework for Improving Critical Infrastructure Cybersecurity"],
+  "alternate_names": [
+    "CSF",
+    "NIST CSF 2.0",
+    "Framework for Improving Critical Infrastructure Cybersecurity"
+  ],
   "version": "2.0",
   "publication_id": "NIST.CSWP.29",
   "owner": "National Institute of Standards and Technology (NIST)",
@@ -57,5 +61,9 @@
     "subcategories_withdrawn_csf_1_1": 79,
     "subcategories_total": 185
   },
-  "notes": "The 79 [Withdrawn:] entries in csf-2.0.csv/json are intentionally retained as a CSF 1.1 → 2.0 crosswalk. Filter on Status='Active' to get the canonical 106 CSF 2.0 Subcategories. See extract_csf.py for the parser."
+  "notes": "The 79 [Withdrawn:] entries in csf-2.0.csv/json are intentionally retained as a CSF 1.1 \u2192 2.0 crosswalk. Filter on Status='Active' to get the canonical 106 CSF 2.0 Subcategories. See extract_csf.py for the parser.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

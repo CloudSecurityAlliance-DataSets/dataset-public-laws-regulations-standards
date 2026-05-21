@@ -7,7 +7,7 @@
   "publication_id": "model-spec",
   "owner": "OpenAI",
   "type": "Framework",
-  "description": "OpenAI's Model Spec — defines how OpenAI models should behave across different situations. Specifies objectives, rules, and default behaviors at multiple levels (platform, developer, user). First published 2024-05-08.",
+  "description": "OpenAI's Model Spec \u2014 defines how OpenAI models should behave across different situations. Specifies objectives, rules, and default behaviors at multiple levels (platform, developer, user). First published 2024-05-08.",
   "relationToCloudSecurity": "Vendor-specific to OpenAI's hosted models.",
   "relationToAISecurity": "Direct AI-safety / model-behavior governance document. Sets the policy layer above the model.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

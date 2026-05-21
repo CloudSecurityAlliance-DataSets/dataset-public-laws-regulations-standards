@@ -7,7 +7,7 @@
   "publication_id": "NIST.800-53A",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST SP 800-53A Rev 5 (2022) — companion to SP 800-53; provides assessment procedures for each 800-53 control. Each procedure has examine/interview/test methods.",
+  "description": "NIST SP 800-53A Rev 5 (2022) \u2014 companion to SP 800-53; provides assessment procedures for each 800-53 control. Each procedure has examine/interview/test methods.",
   "relationToCloudSecurity": "Used in FedRAMP assessments and federal-system authorization. Direct companion to 800-53 r5 which is already structured in this repo.",
   "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
   "license": {
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/sp/800/53/a/r5/final",
@@ -86,5 +86,9 @@
       "SR"
     ]
   },
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

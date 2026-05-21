@@ -7,7 +7,7 @@
   "publication_id": "csp",
   "owner": "SWIFT",
   "type": "Framework",
-  "description": "SWIFT Customer Security Controls Framework — mandatory cybersecurity controls for institutions using the SWIFT financial messaging network. Annual self-attestation required.",
+  "description": "SWIFT Customer Security Controls Framework \u2014 mandatory cybersecurity controls for institutions using the SWIFT financial messaging network. Annual self-attestation required.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

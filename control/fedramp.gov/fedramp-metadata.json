@@ -7,7 +7,7 @@
   "publication_id": "FedRAMP",
   "owner": "Federal Risk and Authorization Management Program Office (US GSA)",
   "type": "Program",
-  "description": "FedRAMP is a US government-wide compliance program providing a standardized approach to security authorization for cloud services used by federal agencies. Built on NIST SP 800-53 with FedRAMP-specific baselines (Low, Moderate, High, Li-SaaS). This directory contains the FedRAMP document library — guidance, templates, policies, and reference documents. Each subdirectory is an individual FedRAMP document with its own metadata file.",
+  "description": "FedRAMP is a US government-wide compliance program providing a standardized approach to security authorization for cloud services used by federal agencies. Built on NIST SP 800-53 with FedRAMP-specific baselines (Low, Moderate, High, Li-SaaS). This directory contains the FedRAMP document library \u2014 guidance, templates, policies, and reference documents. Each subdirectory is an individual FedRAMP document with its own metadata file.",
   "relationToCloudSecurity": "Foundational US federal cloud-security authorization program. Every cloud service provider serving US federal customers operates within this framework.",
   "relationToAISecurity": "FedRAMP covers cloud services generally; AI services hosted on FedRAMP-authorized cloud platforms inherit base authorization but may need additional review per agency.",
   "license": {
@@ -51,5 +51,9 @@
   "scope": {
     "documents": "see individual subdirectories"
   },
-  "notes": "FedRAMP namespace overview. Individual documents have per-directory metadata."
+  "notes": "FedRAMP namespace overview. Individual documents have per-directory metadata.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

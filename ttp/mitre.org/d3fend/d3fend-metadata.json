@@ -2,12 +2,14 @@
   "secid": "secid:ttp/mitre.org/d3fend",
   "name": "Detection, Denial, and Disruption Framework Empowering Network Defense",
   "acronym": "D3FEND",
-  "alternate_names": ["MITRE D3FEND"],
+  "alternate_names": [
+    "MITRE D3FEND"
+  ],
   "version": "",
   "publication_id": "D3FEND",
   "owner": "MITRE Corporation (with NSA sponsorship)",
   "type": "Framework",
-  "description": "D3FEND is the defensive counterpart to MITRE ATT&CK: an ontology of cybersecurity countermeasure techniques (defensive capabilities) organized by tactic (Harden, Detect, Isolate, Deceive, Evict). Each D3FEND technique is mapped to the ATT&CK techniques it counters, enabling defenders to reason about defensive coverage gaps in terms of offensive techniques. D3FEND is more formal/ontological than ATT&CK — it uses RDF/OWL representations and includes Digital Artifacts and a model of the relationships between defensive techniques and the artifacts they operate on.",
+  "description": "D3FEND is the defensive counterpart to MITRE ATT&CK: an ontology of cybersecurity countermeasure techniques (defensive capabilities) organized by tactic (Harden, Detect, Isolate, Deceive, Evict). Each D3FEND technique is mapped to the ATT&CK techniques it counters, enabling defenders to reason about defensive coverage gaps in terms of offensive techniques. D3FEND is more formal/ontological than ATT&CK \u2014 it uses RDF/OWL representations and includes Digital Artifacts and a model of the relationships between defensive techniques and the artifacts they operate on.",
   "relationToCloudSecurity": "D3FEND techniques apply to cloud defense: cloud-native controls (network policy enforcement, identity-bound credentials, runtime sensors) can be classified by D3FEND tactic, and gap analysis against the cloud platform's ATT&CK coverage maps cleanly through D3FEND.",
   "relationToAISecurity": "D3FEND does not yet have AI-specific defensive techniques. For AI defense, refer to controls in CSA AICM, NIST AI RMF, and the academic literature on adversarial ML defenses.",
   "license": {
@@ -49,7 +51,19 @@
     }
   ],
   "scope": {
-    "tactics": ["Model", "Harden", "Detect", "Isolate", "Deceive", "Evict", "Restore"]
+    "tactics": [
+      "Model",
+      "Harden",
+      "Detect",
+      "Isolate",
+      "Deceive",
+      "Evict",
+      "Restore"
+    ]
   },
-  "notes": "D3FEND complements ATT&CK for purple-team and defensive-coverage analysis. The OWL/RDF representation is the authoritative form; CSV is a convenience export."
+  "notes": "D3FEND complements ATT&CK for purple-team and defensive-coverage analysis. The OWL/RDF representation is the authoritative form; CSV is a convenience export.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

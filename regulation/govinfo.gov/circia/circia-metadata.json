@@ -2,7 +2,10 @@
   "secid": "secid:regulation/govinfo.gov/circia",
   "name": "Cyber Incident Reporting for Critical Infrastructure Act of 2022",
   "acronym": "CIRCIA",
-  "alternate_names": ["Pub. L. 117-103, Div. Y", "6 USC § 681 et seq."],
+  "alternate_names": [
+    "Pub. L. 117-103, Div. Y",
+    "6 USC \u00a7 681 et seq."
+  ],
   "version": "",
   "publication_id": "circia",
   "owner": "Cybersecurity and Infrastructure Security Agency (CISA)",
@@ -16,7 +19,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 USC § 105."
+    "notes": "Work of the US government is in the public domain in the United States per 17 USC \u00a7 105."
   },
   "links": {
     "source": "https://www.federalregister.gov/documents/2024/04/04/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements",
@@ -37,7 +40,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Authoritative source is the Federal Register NPRM XML at https://www.federalregister.gov/documents/full_text/xml/2024/04/04/2024-06526.xml (committed as circia-nprm.xml). extract_circia.py walks the <SECTION> elements with <SECTNO> / <SUBJECT> to produce per-section structured CSV/JSON (all 20 proposed-rule sections: § 226.1 Definitions through § 226.20 Other procedural measures). The statute itself is embedded in the 1000-page PL 117-103 — we use the FR NPRM as the practical source since it contains the regulatory text in its final-pre-promulgation form."
+    "notes": "Authoritative source is the Federal Register NPRM XML at https://www.federalregister.gov/documents/full_text/xml/2024/04/04/2024-06526.xml (committed as circia-nprm.xml). extract_circia.py walks the <SECTION> elements with <SECTNO> / <SUBJECT> to produce per-section structured CSV/JSON (all 20 proposed-rule sections: \u00a7 226.1 Definitions through \u00a7 226.20 Other procedural measures). The statute itself is embedded in the 1000-page PL 117-103 \u2014 we use the FR NPRM as the practical source since it contains the regulatory text in its final-pre-promulgation form."
   },
   "extraction_history": [
     {
@@ -48,5 +51,9 @@
     }
   ],
   "scope": {},
-  "notes": "Federal Register NPRM (RIN 1670-AA04) is the practical source. PL 117-103 PDF was attempted but the relevant CIRCIA provisions occupy only ~10 pages of a 1,000+ page appropriations act."
+  "notes": "Federal Register NPRM (RIN 1670-AA04) is the practical source. PL 117-103 PDF was attempted but the relevant CIRCIA provisions occupy only ~10 pages of a 1,000+ page appropriations act.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

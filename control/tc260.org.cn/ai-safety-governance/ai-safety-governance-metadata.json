@@ -7,7 +7,7 @@
   "publication_id": "ai-safety-governance",
   "owner": "TC260 (National Information Security Standardization Technical Committee, China)",
   "type": "Framework",
-  "description": "China's national AI safety governance framework — published by TC260 implementing the Global AI Governance Initiative. Defines AI risk categories and governance measures.",
+  "description": "China's national AI safety governance framework \u2014 published by TC260 implementing the Global AI Governance Initiative. Defines AI risk categories and governance measures.",
   "relationToCloudSecurity": "Affects AI services operated within China or for Chinese users.",
   "relationToAISecurity": "Direct AI governance framework from the Chinese national standards body.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

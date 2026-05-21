@@ -9,7 +9,7 @@
   "publication_id": "ATLAS",
   "owner": "MITRE Corporation (Center for AI Security collaboration)",
   "type": "Framework",
-  "description": "MITRE ATLAS is the AI-specific counterpart to ATT&CK: a globally-accessible, ATT&CK-style matrix of adversary tactics and techniques targeting machine learning systems. ATLAS covers techniques such as ML Model Reconnaissance, Resource Development (adversarial ML capabilities), Initial Access (against ML systems), ML Attack Staging, Model Evasion, Inference, Exfiltration, and Impact. Built on observations of real-world attacks plus academic adversarial ML research. The framework is companion to MITRE ATT&CK — many ATLAS techniques reference ATT&CK techniques where relevant, and the case studies section documents real incidents (model evasion attacks on commercial AI services, adversarial-example exploitation of ML classifiers, training-data poisoning, etc.).",
+  "description": "MITRE ATLAS is the AI-specific counterpart to ATT&CK: a globally-accessible, ATT&CK-style matrix of adversary tactics and techniques targeting machine learning systems. ATLAS covers techniques such as ML Model Reconnaissance, Resource Development (adversarial ML capabilities), Initial Access (against ML systems), ML Attack Staging, Model Evasion, Inference, Exfiltration, and Impact. Built on observations of real-world attacks plus academic adversarial ML research. The framework is companion to MITRE ATT&CK \u2014 many ATLAS techniques reference ATT&CK techniques where relevant, and the case studies section documents real incidents (model evasion attacks on commercial AI services, adversarial-example exploitation of ML classifiers, training-data poisoning, etc.).",
   "relationToCloudSecurity": "ATLAS overlaps with cloud security where AI/ML systems are hosted in cloud environments: model APIs (Azure OpenAI, AWS Bedrock, Vertex AI), MLOps pipelines, and training infrastructure are all in scope. ATLAS techniques inform threat models for cloud-hosted AI services.",
   "relationToAISecurity": "ATLAS is THE leading framework for adversarial ML threat modeling. Direct counterpart to CSA AICM (which catalogs controls); ATLAS catalogs threats. Used together: ATLAS for what adversaries do, AICM/AI RMF for what to do about it.",
   "license": {
@@ -40,7 +40,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "ATLAS data is published as a single YAML at https://github.com/mitre-atlas/atlas-data/blob/main/dist/ATLAS.yaml (Apache-2.0). This repo references it rather than mirroring the content — the upstream is authoritative, version-tagged, and trivially fetchable. Consumers should pull from upstream by tag/release. SecID-resolvable identifier here covers discoverability."
+    "notes": "ATLAS data is published as a single YAML at https://github.com/mitre-atlas/atlas-data/blob/main/dist/ATLAS.yaml (Apache-2.0). This repo references it rather than mirroring the content \u2014 the upstream is authoritative, version-tagged, and trivially fetchable. Consumers should pull from upstream by tag/release. SecID-resolvable identifier here covers discoverability."
   },
   "extraction_history": [
     {
@@ -58,7 +58,7 @@
     {
       "s3_timestamp": "unknown",
       "status": "current",
-      "reason": "Reverted to reference-only model — data is publicly hosted in mitre-atlas/atlas-data on GitHub, no mirroring needed",
+      "reason": "Reverted to reference-only model \u2014 data is publicly hosted in mitre-atlas/atlas-data on GitHub, no mirroring needed",
       "tool": "n/a"
     }
   ],
@@ -69,5 +69,9 @@
     "license": "Apache-2.0",
     "covers": "16 tactics, 170+ techniques, 35+ mitigations, 57+ case studies (counts as of v5.6.0)"
   },
-  "notes": "Reference entry. ATLAS upstream at mitre-atlas/atlas-data is the canonical source — pin to a release tag for reproducibility."
+  "notes": "Reference entry. ATLAS upstream at mitre-atlas/atlas-data is the canonical source \u2014 pin to a release tag for reproducibility.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "upstream-only"
+  }
 }

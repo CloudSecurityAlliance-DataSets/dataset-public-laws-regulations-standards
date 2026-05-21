@@ -9,7 +9,7 @@
   "publication_id": "AICM-0.9.0",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "Pre-release candidate of CSA's AI Controls Matrix (0.9.x branch). Final iteration before 1.0 — domains and control IDs near-finalized, working-group review pass.",
+  "description": "Pre-release candidate of CSA's AI Controls Matrix (0.9.x branch). Final iteration before 1.0 \u2014 domains and control IDs near-finalized, working-group review pass.",
   "relationToCloudSecurity": "Near-final draft of CSA AICM. Stable controls catalog finalized in 1.0.",
   "relationToAISecurity": "Near-final draft. Use 1.0.3 for current work; 0.9.0 retained for diff history and pre-release citations.",
   "license": {
@@ -50,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": "Pre-release of AICM. Superseded by 1.0/1.0.3."
+  "notes": "Pre-release of AICM. Superseded by 1.0/1.0.3.",
+  "desired_end_state": {
+    "state": "dropped",
+    "reason": "withdrawn"
+  }
 }

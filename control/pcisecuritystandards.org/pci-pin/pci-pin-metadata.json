@@ -7,7 +7,7 @@
   "publication_id": "pci-pin",
   "owner": "PCI Security Standards Council",
   "type": "Standard",
-  "description": "PCI PIN Security Requirements — security requirements for the protection of cardholder PIN data. Companion to PCI DSS for organizations handling PINs.",
+  "description": "PCI PIN Security Requirements \u2014 security requirements for the protection of cardholder PIN data. Companion to PCI DSS for organizations handling PINs.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

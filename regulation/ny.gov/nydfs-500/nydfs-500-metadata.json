@@ -11,7 +11,7 @@
   "owner": "New York State Department of Financial Services (NYDFS)",
   "type": "Regulation",
   "description": "New York State cybersecurity regulation (23 NYCRR Part 500) applicable to covered entities licensed or authorized to operate under NY Banking Law, Insurance Law, or Financial Services Law. Establishes minimum cybersecurity program requirements including risk assessment, written cybersecurity policy, CISO designation, access controls, MFA, encryption, incident response, third-party service provider security, vulnerability management, and annual certification. Original effective date 2017-03-01; amended November 2023 (effective 2023-11-01) with expanded requirements for Class A companies, governance, and incident reporting.",
-  "relationToCloudSecurity": "Covered entities using cloud services must include cloud providers in their Third Party Service Provider Security Policy (§500.11). NY's first-in-nation comprehensive cyber regulation for financial services; widely emulated by other state regulators and federal banking agencies.",
+  "relationToCloudSecurity": "Covered entities using cloud services must include cloud providers in their Third Party Service Provider Security Policy (\u00a7500.11). NY's first-in-nation comprehensive cyber regulation for financial services; widely emulated by other state regulators and federal banking agencies.",
   "relationToAISecurity": "Recent NYDFS guidance (October 2024) on cybersecurity risks arising from AI explicitly extends Part 500 to AI/ML systems used by covered entities.",
   "license": {
     "spdx": "NIST-PD",
@@ -62,5 +62,9 @@
     "covered_entities": "NY Banking Law / Insurance Law / Financial Services Law licensees",
     "key_sections": "500.2-500.23"
   },
-  "notes": "First-in-nation comprehensive financial-services cyber regulation. Acquire DFS-published PDF for structured extraction."
+  "notes": "First-in-nation comprehensive financial-services cyber regulation. Acquire DFS-published PDF for structured extraction.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

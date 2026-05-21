@@ -7,7 +7,7 @@
   "publication_id": "purple-llama",
   "owner": "Meta Platforms",
   "type": "Framework",
-  "description": "Meta's Purple Llama Project — open-source tools for evaluating and improving LLM safety and security. 'Purple' = Red (offense) + Blue (defense). Components include Llama Guard, CyberSecEval, and Code Shield.",
+  "description": "Meta's Purple Llama Project \u2014 open-source tools for evaluating and improving LLM safety and security. 'Purple' = Red (offense) + Blue (defense). Components include Llama Guard, CyberSecEval, and Code Shield.",
   "relationToCloudSecurity": "Open-source LLM-safety toolkit.",
   "relationToAISecurity": "Direct AI-safety toolkit. Llama Guard is a content-moderation classifier; CyberSecEval is a benchmark.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

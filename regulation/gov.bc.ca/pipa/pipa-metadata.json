@@ -2,7 +2,9 @@
   "secid": "secid:regulation/gov.bc.ca/pipa",
   "name": "Personal Information Protection Act",
   "acronym": "PIPA (BC)",
-  "alternate_names": ["BC PIPA"],
+  "alternate_names": [
+    "BC PIPA"
+  ],
   "version": "",
   "publication_id": "pipa",
   "owner": "Government of British Columbia (Queen's Printer)",
@@ -48,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

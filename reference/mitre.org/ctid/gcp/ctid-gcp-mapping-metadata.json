@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/gcp-mapping",
-  "name": "CTID ATT&CK → GCP Security Services Mapping",
+  "name": "CTID ATT&CK \u2192 GCP Security Services Mapping",
   "acronym": "CTID GCP Mapping",
   "alternate_names": [
     "GCP ATT&CK Mappings"
   ],
   "version": "06.28.2022_attack-10.0-enterprise",
   "publication_id": "ctid-gcp-attack-10.0-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping of MITRE ATT&CK 10.0 Enterprise techniques to Google Cloud Platform security service capabilities. Snapshot 2022-06-28.",
   "relationToCloudSecurity": "Canonical reference for GCP-platform threat-informed defense.",
@@ -53,5 +53,9 @@
     "attack_version": "10.0",
     "platform": "GCP"
   },
-  "notes": "Pinned to ATT&CK 10.0."
+  "notes": "Pinned to ATT&CK 10.0.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

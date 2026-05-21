@@ -10,7 +10,7 @@
   "publication_id": "cobit",
   "owner": "ISACA",
   "type": "Framework",
-  "description": "ISACA's COBIT — governance and management framework for enterprise IT. COBIT 2019 is the current version. Widely used in IT audit and IT governance practices.",
+  "description": "ISACA's COBIT \u2014 governance and management framework for enterprise IT. COBIT 2019 is the current version. Widely used in IT audit and IT governance practices.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -51,5 +51,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

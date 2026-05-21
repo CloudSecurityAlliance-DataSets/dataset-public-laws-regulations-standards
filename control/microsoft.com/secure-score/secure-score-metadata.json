@@ -7,7 +7,7 @@
   "publication_id": "secure-score",
   "owner": "Microsoft Corporation",
   "type": "Framework",
-  "description": "Microsoft Secure Score — quantitative security-posture measurement for Microsoft 365 and Azure tenants. Provides scored recommendations across identity, devices, data, apps, and infrastructure.",
+  "description": "Microsoft Secure Score \u2014 quantitative security-posture measurement for Microsoft 365 and Azure tenants. Provides scored recommendations across identity, devices, data, apps, and infrastructure.",
   "relationToCloudSecurity": "Standard for measuring M365/Azure tenant security posture; tracked by many enterprise security teams.",
   "relationToAISecurity": "Tenant-level posture, not AI-specific.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

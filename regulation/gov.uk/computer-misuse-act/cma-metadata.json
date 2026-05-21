@@ -2,7 +2,9 @@
   "secid": "secid:regulation/gov.uk/computer-misuse-act",
   "name": "Computer Misuse Act 1990",
   "acronym": "CMA",
-  "alternate_names": ["UK Computer Misuse Act"],
+  "alternate_names": [
+    "UK Computer Misuse Act"
+  ],
   "version": "1990",
   "publication_id": "cma",
   "owner": "UK Home Office",
@@ -49,5 +51,9 @@
     }
   ],
   "scope": {},
-  "notes": ""
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

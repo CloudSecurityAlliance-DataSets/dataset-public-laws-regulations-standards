@@ -60,5 +60,9 @@
     }
   ],
   "scope": {},
-  "notes": "Reference entry only. CPE is foundational to CVE/NVD workflows; for current data pull from NVD."
+  "notes": "Reference entry only. CPE is foundational to CVE/NVD workflows; for current data pull from NVD.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

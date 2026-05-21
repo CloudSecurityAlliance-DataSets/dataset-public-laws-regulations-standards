@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/azure-mapping",
-  "name": "CTID ATT&CK → Azure Security Services Mapping",
+  "name": "CTID ATT&CK \u2192 Azure Security Services Mapping",
   "acronym": "CTID Azure Mapping",
   "alternate_names": [
     "Azure ATT&CK Mappings"
   ],
   "version": "06.29.2021_attack-8.2-enterprise",
   "publication_id": "ctid-azure-attack-8.2-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping of MITRE ATT&CK 8.2 Enterprise techniques to Azure security service capabilities. Snapshot date 2021-06-29.",
   "relationToCloudSecurity": "Canonical reference for Azure-platform threat-informed defense gap analysis.",
@@ -53,5 +53,9 @@
     "attack_version": "8.2",
     "platform": "Azure"
   },
-  "notes": "Pinned to ATT&CK 8.2."
+  "notes": "Pinned to ATT&CK 8.2.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

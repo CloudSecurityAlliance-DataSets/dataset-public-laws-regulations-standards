@@ -54,5 +54,9 @@
   "scope": {
     "top_level_requirements": 12,
     "goals": 6
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
   }
 }

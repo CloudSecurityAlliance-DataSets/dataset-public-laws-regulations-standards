@@ -13,7 +13,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. § 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
+    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
     "source": "",
@@ -34,7 +34,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Structured CSV/JSON extracted. HTML from leginfo.legislature.ca.gov + custom parser (extract_ccpa.py). 46 California Civil Code sections (§§1798.100-1798.199.100)."
+    "notes": "Structured CSV/JSON extracted. HTML from leginfo.legislature.ca.gov + custom parser (extract_ccpa.py). 46 California Civil Code sections (\u00a7\u00a71798.100-1798.199.100)."
   },
   "extraction_history": [
     {
@@ -46,5 +46,9 @@
   ],
   "scope": {
     "sections": 46
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

@@ -7,7 +7,7 @@
   "publication_id": "security-best-practices",
   "owner": "Amazon Web Services",
   "type": "Framework",
-  "description": "AWS Security Best Practices — comprehensive security guidance covering identity and access management, detection, infrastructure protection, data protection, and incident response across the AWS service catalog.",
+  "description": "AWS Security Best Practices \u2014 comprehensive security guidance covering identity and access management, detection, infrastructure protection, data protection, and incident response across the AWS service catalog.",
   "relationToCloudSecurity": "Companion to Well-Architected Security Pillar; more service-specific guidance.",
   "relationToAISecurity": "Applies to AI workloads as it does to other AWS workloads.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

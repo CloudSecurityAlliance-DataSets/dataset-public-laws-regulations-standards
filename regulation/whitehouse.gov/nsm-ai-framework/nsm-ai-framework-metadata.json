@@ -31,5 +31,9 @@
     "s3_timestamp": "2026-05-21T15:58:11Z",
     "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
     "notes": "Structured US NSM-AI Framework into <dirname>-sections.{csv,json}. 14 headings captured; 4 with Pillar identifiers (I-IV). The sub-section headings beneath each Pillar are present as rows with empty section_id (no numerical anchor in the source). Columns: depth, section_id, section_name, id_kind, parent_id, body. Reusable parser at tools-resources/utils/parse_regulatory_sections.py."
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

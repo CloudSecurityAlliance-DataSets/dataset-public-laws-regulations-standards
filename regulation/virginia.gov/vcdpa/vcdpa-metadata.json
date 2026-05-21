@@ -13,7 +13,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-copyright",
-    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. § 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
+    "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
     "source": "",
@@ -34,7 +34,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Structured CSV/JSON extracted. HTML from law.lis.virginia.gov + custom parser (extract_vcdpa.py). 11 Virginia Code sections (§§ 59.1-575 through 59.1-585)."
+    "notes": "Structured CSV/JSON extracted. HTML from law.lis.virginia.gov + custom parser (extract_vcdpa.py). 11 Virginia Code sections (\u00a7\u00a7 59.1-575 through 59.1-585)."
   },
   "extraction_history": [
     {
@@ -46,5 +46,9 @@
   ],
   "scope": {
     "sections": 11
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

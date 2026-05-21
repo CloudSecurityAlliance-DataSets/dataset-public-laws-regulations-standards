@@ -50,5 +50,9 @@
   "scope": {
     "current_revision": "198-1"
   },
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "algorithm-spec"
+  }
 }

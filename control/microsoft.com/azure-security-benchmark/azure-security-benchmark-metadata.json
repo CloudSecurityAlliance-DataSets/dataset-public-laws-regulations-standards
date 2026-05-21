@@ -10,7 +10,7 @@
   "publication_id": "azure-security-benchmark",
   "owner": "Microsoft Corporation",
   "type": "Framework",
-  "description": "Microsoft Cloud Security Benchmark (MCSB; formerly Azure Security Benchmark) — security best practices and controls for Azure and Microsoft 365 services. Aligned with industry standards (NIST SP 800-53, CIS Controls, PCI DSS) with per-service implementation guidance.",
+  "description": "Microsoft Cloud Security Benchmark (MCSB; formerly Azure Security Benchmark) \u2014 security best practices and controls for Azure and Microsoft 365 services. Aligned with industry standards (NIST SP 800-53, CIS Controls, PCI DSS) with per-service implementation guidance.",
   "relationToCloudSecurity": "The Microsoft-native counterpart to AWS Well-Architected and Google Cloud Architecture Framework for the Microsoft cloud surface.",
   "relationToAISecurity": "AI services on Azure (Azure OpenAI, Azure AI services) inherit MCSB guidance.",
   "license": {
@@ -52,5 +52,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

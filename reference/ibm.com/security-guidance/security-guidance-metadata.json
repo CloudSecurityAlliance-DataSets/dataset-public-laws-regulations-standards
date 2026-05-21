@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Parent collection — see subdirectories for individual whitepapers."
+  "notes": "Parent collection \u2014 see subdirectories for individual whitepapers.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

@@ -7,7 +7,7 @@
   "publication_id": "frontier-ai-rmf",
   "owner": "Shanghai AI Laboratory / Concordia AI",
   "type": "Framework",
-  "description": "Comprehensive framework for managing severe risks from general-purpose AI models — published collaboratively by Shanghai AI Laboratory and Concordia AI. Adapts NIST AI RMF principles to frontier-model risk surface.",
+  "description": "Comprehensive framework for managing severe risks from general-purpose AI models \u2014 published collaboratively by Shanghai AI Laboratory and Concordia AI. Adapts NIST AI RMF principles to frontier-model risk surface.",
   "relationToCloudSecurity": "Frontier-AI-specific.",
   "relationToAISecurity": "Direct AI-safety governance framework targeting frontier capability tiers.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

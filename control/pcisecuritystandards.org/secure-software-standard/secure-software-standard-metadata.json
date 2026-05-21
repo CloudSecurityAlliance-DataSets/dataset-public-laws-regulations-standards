@@ -7,7 +7,7 @@
   "publication_id": "secure-software-standard",
   "owner": "PCI Security Standards Council",
   "type": "Standard",
-  "description": "PCI Secure Software Standard — security requirements for payment software development. Replaces PA-DSS under the PCI Software Security Framework.",
+  "description": "PCI Secure Software Standard \u2014 security requirements for payment software development. Replaces PA-DSS under the PCI Software Security Framework.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

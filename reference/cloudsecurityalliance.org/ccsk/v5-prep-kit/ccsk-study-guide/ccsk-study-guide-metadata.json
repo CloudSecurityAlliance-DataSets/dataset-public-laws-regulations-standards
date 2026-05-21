@@ -1,6 +1,6 @@
 {
   "secid": "secid:reference/cloudsecurityalliance.org/ccsk@v5-prep-kit/ccsk-study-guide",
-  "name": "Certificate of Cloud Security Knowledge — v5 Study Guide",
+  "name": "Certificate of Cloud Security Knowledge \u2014 v5 Study Guide",
   "acronym": "CCSK Study Guide",
   "alternate_names": [
     "CCSK v5 Study Guide",
@@ -11,7 +11,7 @@
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Guidance",
   "description": "Study guide for the Certificate of Cloud Security Knowledge (CCSK) v5 exam. Covers the CSA Security Guidance for Critical Areas of Focus in Cloud Computing v5 and ENISA Cloud Computing Risk Assessment. Used by candidates preparing for the CCSK exam and as a cloud security overview reference.",
-  "relationToCloudSecurity": "Foundational cloud security curriculum — covers shared responsibility, cloud architectures, IAM, encryption, incident response, governance.",
+  "relationToCloudSecurity": "Foundational cloud security curriculum \u2014 covers shared responsibility, cloud architectures, IAM, encryption, incident response, governance.",
   "relationToAISecurity": "v5 includes expanded coverage of AI/ML workload security topics.",
   "license": {
     "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
@@ -55,5 +55,9 @@
     }
   ],
   "scope": {},
-  "notes": "Foundational cloud-security reference. Use the underlying CSA Security Guidance v5 for normative content."
+  "notes": "Foundational cloud-security reference. Use the underlying CSA Security Guidance v5 for normative content.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

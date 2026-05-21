@@ -7,7 +7,7 @@
   "publication_id": "data-protection-act-2018",
   "owner": "UK Parliament",
   "type": "Regulation",
-  "description": "UK Data Protection Act 2018 — implements UK GDPR with UK-specific provisions, including law enforcement and intelligence services processing.",
+  "description": "UK Data Protection Act 2018 \u2014 implements UK GDPR with UK-specific provisions, including law enforcement and intelligence services processing.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -58,5 +58,9 @@
     "schedules": 24,
     "legislation_uri": "https://www.legislation.gov.uk/ukpga/2018/12"
   },
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
 }

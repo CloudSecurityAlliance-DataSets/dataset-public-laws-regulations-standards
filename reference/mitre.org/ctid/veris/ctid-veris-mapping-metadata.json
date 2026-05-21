@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/veris-mapping",
-  "name": "CTID ATT&CK ↔ VERIS Mapping",
+  "name": "CTID ATT&CK \u2194 VERIS Mapping",
   "acronym": "CTID VERIS Mapping",
   "alternate_names": [
     "VERIS ATT&CK Mappings"
   ],
   "version": "1.3.7_attack-12.1",
   "publication_id": "ctid-veris-1.3.7-attack-12.1",
-  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping between VERIS Framework (Verizon Data Breach Investigations Report taxonomy) and MITRE ATT&CK 12.1. Three matrices: Enterprise, ICS, Mobile.",
   "relationToCloudSecurity": "Bridges incident-data taxonomies (VERIS) with adversary behavior (ATT&CK).",
@@ -58,5 +58,9 @@
       "Mobile"
     ]
   },
-  "notes": "VERIS ↔ ATT&CK mapping across three matrices."
+  "notes": "VERIS \u2194 ATT&CK mapping across three matrices.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

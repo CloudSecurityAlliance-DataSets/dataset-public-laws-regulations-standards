@@ -31,5 +31,9 @@
     "s3_timestamp": "2026-05-21T15:58:11Z",
     "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
     "notes": "Structured UK AI Opportunities Action Plan into <dirname>-sections.{csv,json}. 18 headings captured; 11 with identifiers (sections 1, 1.1-1.4, 2, 2.1-2.4, 3). Columns: depth, section_id, section_name, id_kind, parent_id, body. Reusable parser at tools-resources/utils/parse_regulatory_sections.py."
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

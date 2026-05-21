@@ -7,7 +7,7 @@
   "publication_id": "well-architected",
   "owner": "Amazon Web Services",
   "type": "Framework",
-  "description": "AWS Well-Architected Framework — cloud architecture best practices organized across six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability. Security Pillar is the primary security-relevant section.",
+  "description": "AWS Well-Architected Framework \u2014 cloud architecture best practices organized across six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability. Security Pillar is the primary security-relevant section.",
   "relationToCloudSecurity": "Foundational AWS-specific guidance. Customers running on AWS commonly use Well-Architected Reviews as part of design and audit cycles.",
   "relationToAISecurity": "AI workloads on AWS (SageMaker, Bedrock) inherit Well-Architected guidance; AWS published an AI/ML lens extension.",
   "license": {
@@ -55,5 +55,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

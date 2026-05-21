@@ -31,5 +31,9 @@
     "s3_timestamp": "2026-05-21T15:05:46Z",
     "tool": "marker (markdown) + tools-resources/utils/parse_fedramp_li_saas.py",
     "notes": "Structured the FedRAMP LI-SaaS baseline into <dirname>-controls.{csv,json}. 66 controls (55 base + 11 enhancements). LI-SaaS uses a divergent template from High/Moderate/Low (controls appear as bold inline anchors, not ## headings; control name on a preceding line; no (L)(M)(H) baseline annotation), so it has its own parser. Schema matches the H/M/L outputs for joinability: control_id, control_name, is_enhancement, parent_control_id, baseline=LI-SaaS, baseline_levels=LI-SaaS, control_text, fedramp_assignments. Note: control_text retains the '[Excluded from FedRAMP Tailored for LI-SaaS]' markers verbatim from the source so consumers can distinguish included vs excluded sub-parts."
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
   }
 }

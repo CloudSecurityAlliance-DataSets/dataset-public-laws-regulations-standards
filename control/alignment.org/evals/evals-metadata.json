@@ -7,7 +7,7 @@
   "publication_id": "evals",
   "owner": "Alignment Research Center (ARC)",
   "type": "Benchmark",
-  "description": "Dangerous capability evaluations for frontier AI models — autonomous replication, deceptive alignment, and self-improvement capabilities. METR (formerly ARC Evals) now operates the program.",
+  "description": "Dangerous capability evaluations for frontier AI models \u2014 autonomous replication, deceptive alignment, and self-improvement capabilities. METR (formerly ARC Evals) now operates the program.",
   "relationToCloudSecurity": "Pre-deployment safety evaluation for frontier models.",
   "relationToAISecurity": "Direct AI-safety dangerous-capability evaluation program.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

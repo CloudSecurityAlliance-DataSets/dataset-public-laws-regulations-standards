@@ -7,7 +7,7 @@
   "publication_id": "NIST.800-207",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST Special Publication 800-207 defines Zero Trust Architecture (ZTA) — a security model centered on resources rather than network segments, with continuous authentication and authorization, least-privilege per-request access, dynamic policy enforcement, and assumption-of-breach posture.",
+  "description": "NIST Special Publication 800-207 defines Zero Trust Architecture (ZTA) \u2014 a security model centered on resources rather than network segments, with continuous authentication and authorization, least-privilege per-request access, dynamic policy enforcement, and assumption-of-breach posture.",
   "relationToCloudSecurity": "Foundational for cloud and hybrid-environment security architectures. Most modern cloud-security designs reference 800-207. CISA's Zero Trust Maturity Model and federal Zero Trust strategy both build on this.",
   "relationToAISecurity": "Underlying access-control architecture applies to AI systems and inference endpoints; AI-specific overlays may be added later.",
   "license": {
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://csrc.nist.gov/pubs/sp/800/207/final",
@@ -37,7 +37,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Source PDF marker-extracted to markdown. extract_800_207.py walks the numbered-section headings into per-section structured CSV/JSON: 52 sections across 7 chapters (Introduction, Zero Trust Basics, Logical Components, Deployment Scenarios, Threats, Federal Guidance Interactions, Migration). 800-207 is a narrative guide rather than a control framework — section-level extraction supports cross-referencing but is not per-control structured."
+    "notes": "Source PDF marker-extracted to markdown. extract_800_207.py walks the numbered-section headings into per-section structured CSV/JSON: 52 sections across 7 chapters (Introduction, Zero Trust Basics, Logical Components, Deployment Scenarios, Threats, Federal Guidance Interactions, Migration). 800-207 is a narrative guide rather than a control framework \u2014 section-level extraction supports cross-referencing but is not per-control structured."
   },
   "extraction_history": [
     {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire from NIST CSRC and extract."
+  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

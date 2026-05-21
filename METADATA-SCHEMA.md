@@ -243,6 +243,47 @@ Add other keys as needed (`api`, `docs`, `bulk_data`, etc.) following the same `
 | `force_ocr` | Boolean (for marker extractions). |
 | `notes` | Free-text — why this extraction was chosen, what failed before. |
 
+### Desired End State Object
+
+```json
+"desired_end_state": {
+  "state": "structured",
+  "reason": "control-catalog",
+  "notes": null
+}
+```
+
+Records the **intended** terminal state for the document, paired with `current_extraction` (which records what's actually been done). The gap between `desired_end_state.state` and the doc's current filesystem state (computed by `build_index.py`) is the actual work backlog — and where they match, the doc is "done" relative to its intent.
+
+| Field | Description |
+|---|---|
+| `state` | One of: `structured`, `extracted`, `metadata-only`, `dropped`. |
+| `reason` | Controlled-vocab tag explaining *why* this is the intended state. |
+| `notes` | Optional free-text nuance (e.g., "borderline; review when CIS license clarifies"). |
+
+#### Controlled `reason` vocabulary (paired with `state`)
+
+| `state` | `reason` | meaning |
+|---|---|---|
+| `structured` | `control-catalog` | per-control rows (NIST 800-53, FedRAMP baselines, CCM) |
+| `structured` | `taxonomy` | hierarchical taxonomy (CWE, ATT&CK, AI 100-2 attacks) |
+| `structured` | `requirement-list` | numbered requirements (PCI DSS, regulations with statute provisions) |
+| `structured` | `glossary` | per-term rows |
+| `extracted` | `prose-guidance` | guidance doc; markdown is canonical (NIST SP guidance, CSWPs) |
+| `extracted` | `algorithm-spec` | crypto / protocol specification (FIPS 197 AES, FIPS 202 SHA-3) |
+| `extracted` | `policy-doc` | policy/framework with no per-item structure (NSM-AI Framework) |
+| `extracted` | `template` | fillable template (FedRAMP SSP appendices F/G/Q) |
+| `extracted` | `playbook` | process playbook (FedRAMP CSP Authorization Playbook) |
+| `metadata-only` | `licensed` | restricted-license; can't redistribute (ISO, IEEE, members-only) |
+| `metadata-only` | `upstream-only` | publisher hosts version-tagged authoritative data (MITRE ATT&CK STIX, CVE Project) |
+| `metadata-only` | `pending-acquisition` | source not yet acquired |
+| `metadata-only` | `pending-extraction` | source acquired, marker run pending |
+| `metadata-only` | `pending-structuring` | extracted, parser not yet written |
+| `dropped` | `withdrawn` | publisher withdrew; no successor in repo |
+| `dropped` | `superseded` | newer version already structured here |
+
+For the meaningful-gap analysis, see `tools-resources/utils/backfill_desired_end_state.py` (heuristic backfill) and the `build_index.py` summary which compares current vs desired.
+
 ### Extraction History (Array)
 
 Each element is a prior extraction kept in S3. Same shape as `current_extraction` plus a `status` and `reason`:

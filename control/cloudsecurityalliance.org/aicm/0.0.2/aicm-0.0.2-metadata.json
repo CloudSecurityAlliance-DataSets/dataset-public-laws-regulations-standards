@@ -50,5 +50,9 @@
     }
   ],
   "scope": {},
-  "notes": "Historical draft of AICM. Use 1.0.3 for current work."
+  "notes": "Historical draft of AICM. Use 1.0.3 for current work.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

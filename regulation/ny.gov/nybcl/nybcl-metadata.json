@@ -3,15 +3,15 @@
   "name": "New York Biometric Collection Law",
   "acronym": "NYBCL",
   "alternate_names": [
-    "NY Labor Law §201-a"
+    "NY Labor Law \u00a7201-a"
   ],
   "version": "",
   "publication_id": "NY-LL-201-a",
   "owner": "New York State Department of Labor",
   "type": "Regulation",
-  "description": "New York State law restricting employer collection of biometric data. Codified at NY Labor Law §201-a. Prohibits employers from requiring fingerprinting except for specific exempted occupations. Companion to NYC Local Law 144 (automated employment decision tools) for the New York employment privacy landscape.",
-  "relationToCloudSecurity": "Cloud-based HR / time-and-attendance / access-control systems that collect employee biometrics in NY must comply with the §201-a restrictions.",
-  "relationToAISecurity": "Biometric AI systems (face recognition for time tracking, fingerprint authentication) used by NY employers fall under §201-a scope.",
+  "description": "New York State law restricting employer collection of biometric data. Codified at NY Labor Law \u00a7201-a. Prohibits employers from requiring fingerprinting except for specific exempted occupations. Companion to NYC Local Law 144 (automated employment decision tools) for the New York employment privacy landscape.",
+  "relationToCloudSecurity": "Cloud-based HR / time-and-attendance / access-control systems that collect employee biometrics in NY must comply with the \u00a7201-a restrictions.",
+  "relationToAISecurity": "Biometric AI systems (face recognition for time tracking, fingerprint authentication) used by NY employers fall under \u00a7201-a scope.",
   "license": {
     "spdx": "NIST-PD",
     "redistribution": "permitted",
@@ -50,7 +50,11 @@
     }
   ],
   "scope": {
-    "statute": "NY Labor Law §201-a"
+    "statute": "NY Labor Law \u00a7201-a"
   },
-  "notes": "Companion to LL144 for NY employment-privacy landscape. Acquire NY Senate text."
+  "notes": "Companion to LL144 for NY employment-privacy landscape. Acquire NY Senate text.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

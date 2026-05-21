@@ -10,7 +10,7 @@
   "publication_id": "CCM-4.1",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "CCM v4.1 — current major release. 207 controls across 17 domains (expanded from v4.0's 197). Cross-framework mappings being re-pinned upstream as of 2026.",
+  "description": "CCM v4.1 \u2014 current major release. 207 controls across 17 domains (expanded from v4.0's 197). Cross-framework mappings being re-pinned upstream as of 2026.",
   "relationToCloudSecurity": "Current flagship cloud-security controls framework. Used in current STAR Registry attestations and downstream CSA mapping work.",
   "relationToAISecurity": "Cloud-platform controls foundation; AI-specific controls in AICM.",
   "license": {
@@ -55,5 +55,9 @@
     "domains": 17,
     "mappings_status": "pending_upstream"
   },
-  "notes": "Current CCM. Pending upstream cross-framework re-mapping."
+  "notes": "Current CCM. Pending upstream cross-framework re-mapping.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

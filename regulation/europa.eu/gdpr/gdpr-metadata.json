@@ -49,5 +49,9 @@
     "recitals": 173,
     "annexes": 0,
     "celex": "32016R0679"
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
   }
 }

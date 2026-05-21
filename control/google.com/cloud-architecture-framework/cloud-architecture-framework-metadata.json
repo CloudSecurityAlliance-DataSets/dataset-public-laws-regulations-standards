@@ -7,7 +7,7 @@
   "publication_id": "cloud-architecture-framework",
   "owner": "Google Cloud",
   "type": "Framework",
-  "description": "Google Cloud Architecture Framework — best practices for designing and operating workloads on Google Cloud, organized across six pillars including a Security pillar.",
+  "description": "Google Cloud Architecture Framework \u2014 best practices for designing and operating workloads on Google Cloud, organized across six pillars including a Security pillar.",
   "relationToCloudSecurity": "Google Cloud counterpart to AWS Well-Architected.",
   "relationToAISecurity": "AI workloads on Vertex AI and Gemini API inherit GCAF guidance.",
   "license": {
@@ -49,5 +49,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract structured form as follow-up."
+  "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog"
+  }
 }

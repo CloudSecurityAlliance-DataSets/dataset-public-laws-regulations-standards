@@ -7,7 +7,7 @@
   "publication_id": "scuba",
   "owner": "Cybersecurity and Infrastructure Security Agency (CISA)",
   "type": "Framework",
-  "description": "CISA's Secure Cloud Business Applications project — Secure Configuration Baselines for Microsoft 365, Google Workspace, and other major cloud productivity platforms used by federal agencies.",
+  "description": "CISA's Secure Cloud Business Applications project \u2014 Secure Configuration Baselines for Microsoft 365, Google Workspace, and other major cloud productivity platforms used by federal agencies.",
   "relationToCloudSecurity": "Direct cloud-configuration baselines.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }

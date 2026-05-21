@@ -7,7 +7,7 @@
   "publication_id": "pipa",
   "owner": "Personal Information Protection Commission, Korea",
   "type": "Regulation",
-  "description": "South Korea's Personal Information Protection Act — comprehensive data protection law, last significantly amended 2023.",
+  "description": "South Korea's Personal Information Protection Act \u2014 comprehensive data protection law, last significantly amended 2023.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -48,5 +48,9 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract."
+  "notes": "Metadata stub; acquire source and extract.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
 }

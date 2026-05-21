@@ -34,5 +34,9 @@
     "retiredFromActiveUse": null,
     "notes": "SOGP is refreshed periodically (every 1-2 years). v2022 was current at last check; verify against ISF for the latest edition."
   },
-  "notes": "Info-only stub. The ISF SOGP cannot be redistributed publicly — this entry exists so SecID consumers can identify the standard and find it via ISF membership channels. Auto-generated."
+  "notes": "Info-only stub. The ISF SOGP cannot be redistributed publicly \u2014 this entry exists so SecID consumers can identify the standard and find it via ISF membership channels. Auto-generated.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "licensed"
+  }
 }

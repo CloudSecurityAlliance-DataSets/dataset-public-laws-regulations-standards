@@ -52,5 +52,9 @@
   "scope": {
     "risks_count_approx": 700
   },
-  "notes": "Reference catalog of AI risks. Snapshot dated by download time."
+  "notes": "Reference catalog of AI risks. Snapshot dated by download time.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy"
+  }
 }

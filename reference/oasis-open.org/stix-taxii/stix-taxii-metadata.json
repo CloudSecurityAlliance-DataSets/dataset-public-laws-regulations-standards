@@ -3,10 +3,15 @@
   "previous_secid": "secid:reference/mitre.org/stix-taxii",
   "name": "Structured Threat Information eXpression and Trusted Automated eXchange of Indicator Information",
   "acronym": "STIX/TAXII",
-  "alternate_names": ["STIX", "TAXII", "STIX 2.1", "OASIS STIX"],
+  "alternate_names": [
+    "STIX",
+    "TAXII",
+    "STIX 2.1",
+    "OASIS STIX"
+  ],
   "version": "",
   "publication_id": "STIX-TAXII",
-  "owner": "OASIS Cyber Threat Intelligence Technical Committee — originally MITRE/DHS",
+  "owner": "OASIS Cyber Threat Intelligence Technical Committee \u2014 originally MITRE/DHS",
   "type": "Standard",
   "description": "STIX is a structured language for representing cyber threat intelligence (threat actors, campaigns, malware, indicators, observed data, courses of action, vulnerabilities). TAXII is the companion protocol for exchanging STIX data between systems (server/client pull, channels, collections). Originally developed by MITRE under DHS sponsorship; transferred to OASIS Cyber Threat Intelligence Technical Committee for standardization. STIX 2.1 is the current OASIS standard; STIX 1.x (MITRE-era XML) is legacy.",
   "relationToCloudSecurity": "STIX/TAXII underpin cloud-native threat-intelligence platforms and SIEM integrations. Most commercial threat intel feeds, ISAC sharing channels, and platform-native TI (Microsoft Defender TI, AWS Detective, Google Chronicle) speak STIX/TAXII. MITRE ATT&CK ships as STIX 2.0 bundles.",
@@ -33,7 +38,7 @@
     "supersedes": "STIX 1.x (XML, MITRE-era)",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "STIX 2.1 + TAXII 2.1 are the current OASIS Standards. Filed under oasis-open.org per the DNS-canonical rule — OASIS Cyber Threat Intelligence Technical Committee is the publishing organization. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/stix(/taxii) -> secid:reference/oasis-open.org/stix(-taxii)."
+    "notes": "STIX 2.1 + TAXII 2.1 are the current OASIS Standards. Filed under oasis-open.org per the DNS-canonical rule \u2014 OASIS Cyber Threat Intelligence Technical Committee is the publishing organization. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/stix(/taxii) -> secid:reference/oasis-open.org/stix(-taxii)."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -53,5 +58,9 @@
     }
   ],
   "scope": {},
-  "notes": "Reference entry. STIX/TAXII are the dominant cyber-threat-intelligence interchange formats."
+  "notes": "Reference entry. STIX/TAXII are the dominant cyber-threat-intelligence interchange formats.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "prose-guidance"
+  }
 }
