@@ -16,7 +16,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 332
+**Total documents indexed:** 472
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 9 | — | — | — | **9** |
-| `reference/` | 4 | 114 | 10 | 4 | 6 | **138** |
-| **Total** | **111** | **127** | **84** | **4** | **6** | **332** |
+| `reference/` | 4 | 114 | 150 | 4 | 6 | **278** |
+| **Total** | **111** | **127** | **224** | **4** | **6** | **472** |
 
 ## control/
 
@@ -251,16 +251,56 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `reference/agid.gov.it/cert-agid-glossario/` | metadata-only | 1 | `M······` | `secid:reference/agid.gov.it/cert-agid-glossario` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
+| `reference/amazon.com/wellarchitected-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
+| `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
+| `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
+| `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
+| `reference/beyondtrust.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
+| `reference/bimco.org/cyber-security-onboard-ships-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bimco.org/cyber-security-onboard-ships-glossary` |
+| `reference/bitdefender.com/infozone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitdefender.com/infozone-glossary` |
+| `reference/bitsight.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitsight.com/cybersecurity-glossary` |
+| `reference/blackberry.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackberry.com/cybersecurity-glossary` |
+| `reference/blackduck.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackduck.com/application-security-glossary` |
+| `reference/broadcom.com/enterprise-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/broadcom.com/enterprise-security-glossary` |
+| `reference/bsi.bund.de/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsi.bund.de/glossary` |
+| `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
+| `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
+| `reference/ca.gov/sam-5300-definitions/` | metadata-only | 1 | `M······` | `secid:reference/ca.gov/sam-5300-definitions` |
+| `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
+| `reference/catonetworks.com/it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/catonetworks.com/it-security-glossary` |
+| `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
+| `reference/checkmk.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmk.com/glossary` |
+| `reference/checkpoint.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkpoint.com/cybersecurity-glossary` |
 | `reference/cisa.gov/cpg/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/cpg` |
 | `reference/cisa.gov/govcar/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/govcar` |
 | `reference/cisa.gov/kev/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/kev` |
+| `reference/cisa.gov/niccs-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisa.gov/niccs-glossary` |
 | `reference/cisa.gov/scuba/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/scuba` |
+| `reference/cisco.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisco.com/security-glossary` |
+| `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
 | `reference/cisecurity.org/oval/` | metadata-only | 2 | `M······` | `secid:reference/cisecurity.org/oval` |
+| `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
+| `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
+| `reference/cloudsecurityalliance.org/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
+| `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
+| `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
+| `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
+| `reference/ct.gov/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ct.gov/cybersecurity-glossary` |
+| `reference/cve.org/cve-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cve.org/cve-glossary` |
+| `reference/cyberark.com/cyberark-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cyberark.com/cyberark-glossary` |
+| `reference/cybersecurityworks.com/csw-cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cybersecurityworks.com/csw-cyber-security-glossary` |
+| `reference/debian.org/debian-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/debian.org/debian-security-glossary` |
+| `reference/devolutions.net/devolutions-it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/devolutions.net/devolutions-it-security-glossary` |
+| `reference/dragos.com/dragos-ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/dragos.com/dragos-ot-cybersecurity-glossary` |
+| `reference/enisa.europa.eu/enisa-glossary/` | metadata-only | 1 | `M······` | `secid:reference/enisa.europa.eu/enisa-glossary` |
 | `reference/equifax.com/security-guidance/` | structured | 6 | `M··CS··` | `secid:reference/equifax.com/security-guidance` |
+| `reference/eset.com/eset-glossary/` | metadata-only | 1 | `M······` | `secid:reference/eset.com/eset-glossary` |
+| `reference/f5.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/f5.com/cybersecurity-glossary` |
 | `reference/fedramp.gov/3pao-obligations-and-performance-standards/` | extracted | 21 (+18 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-obligations-and-performance-standards` |
 | `reference/fedramp.gov/3pao-readiness-assessment-report-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-readiness-assessment-report-guide` |
 | `reference/fedramp.gov/agency-authorization-playbook/` | extracted | 16 (+13 imgs) | `MX····I` | `secid:reference/fedramp.gov/agency-authorization-playbook` |
@@ -283,6 +323,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/fedramp.gov/fedramp-branding-guidance/` | extracted | 17 (+14 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-branding-guidance` |
 | `reference/fedramp.gov/fedramp-collaborative-conmon-quick-guide/` | extracted | 8 (+5 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-collaborative-conmon-quick-guide` |
 | `reference/fedramp.gov/fedramp-general-document-acceptance-criteria/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/fedramp.gov/fedramp-general-document-acceptance-criteria` |
+| `reference/fedramp.gov/fedramp-glossary/` | metadata-only | 1 | `M······` | `secid:reference/fedramp.gov/fedramp-glossary` |
 | `reference/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-high-moderate-low-li-saas-baseline-system-security-plan-(ssp)` |
 | `reference/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-high-readiness-assessment-report-(rar)-template` |
 | `reference/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/fedramp-moderate-readiness-assessment-report-(rar)-template` |
@@ -297,14 +338,61 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/ssp-appendix-g-information-system-contingency-plan-(iscp)-template` |
 | `reference/fedramp.gov/ssp-appendix-q-cryptographic-modules-table/` | extracted | 2 | `MX·····` | `secid:reference/fedramp.gov/ssp-appendix-q-cryptographic-modules-table` |
 | `reference/fedramp.gov/vulnerability-scanning-requirements-for-containers/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/fedramp.gov/vulnerability-scanning-requirements-for-containers` |
+| `reference/fidelissecurity.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/fidelissecurity.com/cybersecurity-glossary` |
+| `reference/first.org/cti-sig-glossary/` | metadata-only | 1 | `M······` | `secid:reference/first.org/cti-sig-glossary` |
+| `reference/flexerasoftware.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/flexerasoftware.com/cybersecurity-glossary` |
+| `reference/forcepoint.com/cyber-edu-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forcepoint.com/cyber-edu-glossary` |
+| `reference/forescout.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forescout.com/cybersecurity-glossary` |
+| `reference/fortinet.com/cyberglossary/` | metadata-only | 1 | `M······` | `secid:reference/fortinet.com/cyberglossary` |
 | `reference/github.com/advisory-database/` | readme-only | 1 | `·······` | — |
+| `reference/gitlab.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gitlab.com/security-glossary` |
 | `reference/google.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/google.com/security-guidance/` | empty | 0 | `·······` | — |
+| `reference/google.com/security-operations-glossary/` | metadata-only | 1 | `M······` | `secid:reference/google.com/security-operations-glossary` |
+| `reference/gov.bc.ca/infosec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.bc.ca/infosec-glossary` |
+| `reference/gov.br/glossario-seguranca-informacao/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/glossario-seguranca-informacao` |
+| `reference/gov.uk/ncsc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.uk/ncsc-glossary` |
+| `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
+| `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
+| `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
+| `reference/hitrustalliance.net/glossary-of-terms-and-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/hitrustalliance.net/glossary-of-terms-and-acronyms` |
+| `reference/huntresslabs.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/huntresslabs.com/cybersecurity-101-glossary` |
+| `reference/hypr.com/security-encyclopedia/` | metadata-only | 1 | `M······` | `secid:reference/hypr.com/security-encyclopedia` |
 | `reference/ibm.com/security-guidance/` | structured | 9 | `M··CS··` | `secid:reference/ibm.com/security-guidance` |
+| `reference/ibm.com/security-terminology/` | metadata-only | 1 | `M······` | `secid:reference/ibm.com/security-terminology` |
+| `reference/iec.ch/iec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iec.ch/iec-glossary` |
+| `reference/ietf.org/rfc4949-internet-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ietf.org/rfc4949-internet-security-glossary` |
+| `reference/illumio.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/illumio.com/cybersecurity-101-glossary` |
+| `reference/incibe.es/glosario-terminos-ciberseguridad/` | metadata-only | 1 | `M······` | `secid:reference/incibe.es/glosario-terminos-ciberseguridad` |
+| `reference/intel.com/software-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/intel.com/software-security-glossary` |
+| `reference/isaca.org/cybersecurity-fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/isaca.org/cybersecurity-fundamentals-glossary` |
+| `reference/itu.int/cybex-x.1500/` | metadata-only | 1 | `M······` | `secid:reference/itu.int/cybex-x.1500` |
+| `reference/ivanti.com/ivanti-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ivanti.com/ivanti-glossary` |
+| `reference/jamf.com/jamf-platform-glossary/` | metadata-only | 1 | `M······` | `secid:reference/jamf.com/jamf-platform-glossary` |
+| `reference/juniper.net/juniper-glossary/` | metadata-only | 1 | `M······` | `secid:reference/juniper.net/juniper-glossary` |
+| `reference/jupiterone.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/jupiterone.com/cybersecurity-glossary` |
+| `reference/kaspersky.com/it-encyclopedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/kaspersky.com/it-encyclopedia-glossary` |
+| `reference/keepersecurity.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/keepersecurity.com/iam-glossary` |
+| `reference/kubernetes.io/kubernetes-glossary/` | metadata-only | 1 | `M······` | `secid:reference/kubernetes.io/kubernetes-glossary` |
+| `reference/legifrance.gouv.fr/vocabulaire-cyberdefense/` | metadata-only | 1 | `M······` | `secid:reference/legifrance.gouv.fr/vocabulaire-cyberdefense` |
+| `reference/maryland.gov/cybersecurity-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/maryland.gov/cybersecurity-privacy-glossary` |
+| `reference/metacpan.org/cpansec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/metacpan.org/cpansec-glossary` |
+| `reference/microsoft.com/msrc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/microsoft.com/msrc-glossary` |
 | `reference/microsoft.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/mit.edu/ai-risk-repository/` | structured | 13 | `M··C···` | `secid:reference/mit.edu/ai-risk-repository` |
+| `reference/mit.edu/infoprotect-definitions/` | metadata-only | 1 | `M······` | `secid:reference/mit.edu/infoprotect-definitions` |
 | `reference/mitre.org/ctid/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/ctid` |
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
+| `reference/mitre.org/cwe-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mitre.org/cwe-glossary` |
+| `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
+| `reference/mt.gov/mom-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mt.gov/mom-security-glossary` |
+| `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | metadata-only | 1 | `M······` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
+| `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
+| `reference/ncsc.fi/ncsc-fi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
+| `reference/ncsc.nl/cybersecurity-woordenboek/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.nl/cybersecurity-woordenboek` |
+| `reference/netapp.com/netapp-glossary/` | metadata-only | 1 | `M······` | `secid:reference/netapp.com/netapp-glossary` |
+| `reference/netskope.com/security-defined/` | metadata-only | 1 | `M······` | `secid:reference/netskope.com/security-defined` |
+| `reference/nfpa.org/nfpa-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nfpa.org/nfpa-glossary` |
 | `reference/nist.gov/1800-13/` | extracted | 172 (+169 imgs) | `MX····I` | `secid:reference/nist.gov/1800-13` |
 | `reference/nist.gov/1800-26/` | extracted | 748 (+745 imgs) | `MX····I` | `secid:reference/nist.gov/1800-26` |
 | `reference/nist.gov/800-100/` | extracted | 35 (+30 imgs) | `MX····I` | `secid:reference/nist.gov/800-100` |
@@ -383,10 +471,62 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8425/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8425` |
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
+| `reference/numerique.gouv.fr/cyberdico/` | metadata-only | 1 | `M······` | `secid:reference/numerique.gouv.fr/cyberdico` |
 | `reference/nvd.nist.gov/cpe/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:reference/nvd.nist.gov/cpe` |
+| `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
+| `reference/ny.gov/its-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ny.gov/its-glossary` |
+| `reference/oaic.gov.au/app-key-concepts/` | metadata-only | 1 | `M······` | `secid:reference/oaic.gov.au/app-key-concepts` |
+| `reference/oasis-open.org/saml-2.0-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oasis-open.org/saml-2.0-security-glossary` |
 | `reference/oasis-open.org/stix-taxii/` | metadata-only | 2 | `M······` | `secid:reference/oasis-open.org/stix-taxii` |
+| `reference/oecd.org/oecd-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oecd.org/oecd-ai-glossary` |
+| `reference/okta.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/okta.com/iam-glossary` |
 | `reference/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:reference/openai.com/preparedness` |
 | `reference/openai.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/openai.com/system-cards/` | readme-only | 1 | `·······` | — |
+| `reference/opengroup.org/opaf-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opengroup.org/opaf-glossary` |
+| `reference/openidentityexchange.org/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openidentityexchange.org/identity-glossary` |
+| `reference/openssl.org/openssl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/openssl.org/openssl-glossary` |
+| `reference/opentext.com/appsec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opentext.com/appsec-glossary` |
+| `reference/oracle.com/oci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oracle.com/oci-glossary` |
 | `reference/owasp.org/ai-exchange/` | metadata-only | 10 | `M······` | `secid:reference/owasp.org/ai-exchange` |
+| `reference/owasp.org/llm-ai-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/owasp.org/llm-ai-security-glossary` |
+| `reference/palantir.com/foundry-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/palantir.com/foundry-security-glossary` |
+| `reference/paloaltonetworks.com/cyberpedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/paloaltonetworks.com/cyberpedia-glossary` |
+| `reference/panasonic.com/security-system-glossary/` | metadata-only | 1 | `M······` | `secid:reference/panasonic.com/security-system-glossary` |
+| `reference/papercut.com/print-security-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/papercut.com/print-security-acronyms` |
+| `reference/partnershiponai.org/synthetic-media-glossary/` | metadata-only | 1 | `M······` | `secid:reference/partnershiponai.org/synthetic-media-glossary` |
+| `reference/pcisecuritystandards.org/pci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pcisecuritystandards.org/pci-glossary` |
+| `reference/pingidentity.com/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pingidentity.com/identity-glossary` |
+| `reference/profibus.com/pi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/profibus.com/pi-glossary` |
+| `reference/progress.com/data-protection-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/progress.com/data-protection-privacy-glossary` |
+| `reference/proofpoint.com/threat-reference/` | metadata-only | 1 | `M······` | `secid:reference/proofpoint.com/threat-reference` |
+| `reference/proton.me/encryption-glossary/` | metadata-only | 1 | `M······` | `secid:reference/proton.me/encryption-glossary` |
+| `reference/quebec.ca/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/quebec.ca/cybersecurity-glossary` |
+| `reference/rapid7.com/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/rapid7.com/cloud-security-glossary` |
+| `reference/redhat.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/redhat.com/security-glossary` |
+| `reference/sailpoint.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sailpoint.com/identity-security-glossary` |
+| `reference/saviynt.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/saviynt.com/identity-security-glossary` |
+| `reference/securityscorecard.com/securityscorecard-glossary/` | metadata-only | 1 | `M······` | `secid:reference/securityscorecard.com/securityscorecard-glossary` |
+| `reference/sharedassessments.org/tprm-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sharedassessments.org/tprm-glossary` |
+| `reference/silabs.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/silabs.com/security-glossary` |
+| `reference/snyk.io/ai-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/snyk.io/ai-cybersecurity-glossary` |
+| `reference/socradar.io/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/socradar.io/cybersecurity-glossary` |
+| `reference/solarwinds.com/it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/solarwinds.com/it-glossary` |
+| `reference/sonicwall.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sonicwall.com/cybersecurity-glossary` |
+| `reference/sophos.com/cybersecurity-explained/` | metadata-only | 1 | `M······` | `secid:reference/sophos.com/cybersecurity-explained` |
+| `reference/strongdm.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/strongdm.com/cybersecurity-glossary` |
+| `reference/tenable.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/tenable.com/cybersecurity-glossary` |
+| `reference/texas.gov/cybersecurity-terminology/` | metadata-only | 1 | `M······` | `secid:reference/texas.gov/cybersecurity-terminology` |
+| `reference/trendmicro.com/what-is-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/trendmicro.com/what-is-cybersecurity-terms` |
+| `reference/txone.com/ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/txone.com/ot-cybersecurity-glossary` |
+| `reference/upguard.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/upguard.com/cybersecurity-glossary` |
+| `reference/virginia.gov/cov-it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/virginia.gov/cov-it-glossary` |
+| `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
+| `reference/wa.gov/data-breach-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wa.gov/data-breach-glossary` |
+| `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
+| `reference/wikimedia.org/security-team-definitions/` | metadata-only | 1 | `M······` | `secid:reference/wikimedia.org/security-team-definitions` |
+| `reference/wpscan.com/wpscan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wpscan.com/wpscan-glossary` |
+| `reference/xonasystems.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/xonasystems.com/cybersecurity-glossary` |
+| `reference/zohocorp.com/eprotect-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zohocorp.com/eprotect-security-glossary` |
+| `reference/zscaler.com/security-terms-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zscaler.com/security-terms-glossary` |
 

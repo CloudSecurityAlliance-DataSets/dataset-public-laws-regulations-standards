@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/legifrance.gouv.fr/vocabulaire-cyberdefense",
+  "name": "Vocabulaire de la d\u00e9fense : cyberd\u00e9fense",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "Vocabulaire de la d\u00e9fense : cyberd\u00e9fense",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "etalab-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf",
+    "notes": "French Etalab Open Licence."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035583357",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub created from glossary research sweep",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+}

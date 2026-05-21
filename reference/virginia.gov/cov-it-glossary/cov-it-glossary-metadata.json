@@ -1,0 +1,57 @@
+{
+  "secid": "secid:reference/virginia.gov/cov-it-glossary",
+  "name": "COV IT Glossary (Virginia)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "COV IT Glossary (Virginia)",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-US-State-Work",
+    "redistribution": "varies_by_state",
+    "derivatives": "varies_by_state",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "US state government, public domain \u2014 US state government work; redistribution rules vary."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.vita.virginia.gov/policy--governance/governance/cov-it-glossary/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "n/a (stub)",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. BORDERLINE: agent flagged as broader-IT/product-doc-scoped or other concern. Verify on next pass. Agent note: Borderline \u2014 broad IT with cyber section"
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub created from glossary research sweep",
+      "tool": "n/a"
+    }
+  ],
+  "scope": {},
+  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. BORDERLINE: agent flagged as broader-IT/product-doc-scoped or other concern. Verify on next pass. Agent note: Borderline \u2014 broad IT with cyber section"
+}
