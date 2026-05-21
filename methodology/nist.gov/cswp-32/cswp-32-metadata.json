@@ -7,7 +7,7 @@
   "publication_id": "NIST.CSWP-32",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST CSWP 32 — small business quick-start guide for CSF 2.0.",
+  "description": "NIST CSWP 32 \u2014 small business quick-start guide for CSF 2.0.",
   "relationToCloudSecurity": "General cybersecurity guidance applicable to cloud-environment design and operations.",
   "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
   "license": {
@@ -16,7 +16,7 @@
     "derivatives": "permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
-    "notes": "Work of NIST is in the US public domain (17 USC §105)."
+    "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
   "links": {
     "source": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.32.pdf",
@@ -31,13 +31,9 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
+    "s3_timestamp": "2026-05-21T16:02:02Z",
+    "tool": "marker (markdown) + tools-resources/utils/parse_regulatory_sections.py",
+    "notes": "Applied the generic section extractor to cswp-32: 31 headings captured, 6 with identifiers via the numeric/statute/pillar/chapter patterns. Per-section appendix-table parsing (where applicable, especially for 800-30 r1's assessment-scale tables) is a follow-up that would emit a separate per-table CSV alongside the section table."
   },
   "extraction_history": [
     {
@@ -45,6 +41,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source PDF acquisition + extraction is TODO."
     }
   ],
   "scope": {},
