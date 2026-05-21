@@ -1,10 +1,10 @@
 {
   "secid": "secid:regulation/iowa.gov/icdpa",
-  "name": "Iowa state legislation: Icdpa",
+  "name": "Iowa Consumer Data Protection Act",
   "version": "",
   "owner": "Iowa State Government",
   "type": "Regulation",
-  "description": "Iowa state legislation: Icdpa",
+  "description": "Iowa Consumer Data Protection Act (ICDPA). US state consumer-privacy/data-protection law.",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
@@ -30,5 +30,9 @@
   "desired_end_state": {
     "state": "extracted",
     "reason": "policy-doc"
-  }
+  },
+  "acronym": "ICDPA",
+  "alternate_names": [
+    "iowa-consumer-data-protection-act"
+  ]
 }
