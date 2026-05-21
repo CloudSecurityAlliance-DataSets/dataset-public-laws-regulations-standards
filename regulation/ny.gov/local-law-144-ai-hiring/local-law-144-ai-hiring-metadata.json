@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
+    "csaLocation": "",
+    "source_research_note": "NYC Local Law 144 (2021) \u2014 Automated Employment Decision Tools."
   },
   "lifecycle": {
     "active": true,
