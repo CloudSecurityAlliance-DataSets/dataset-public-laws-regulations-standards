@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 53 | 112 | 41 | — | — | **206** |
+| `control/` | 55 | 110 | 41 | — | — | **206** |
 | `regulation/` | 44 | 3 | 29 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | — | 6 | — | — | — | **6** |
 | `reference/` | 4 | 14 | 10 | 4 | 6 | **38** |
-| **Total** | **104** | **135** | **84** | **4** | **6** | **333** |
+| **Total** | **106** | **133** | **84** | **4** | **6** | **333** |
 
 ## control/
 
@@ -168,7 +168,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/800-213a/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-213a` |
 | `control/nist.gov/800-216/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/800-216` |
 | `control/nist.gov/800-218/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218` |
-| `control/nist.gov/800-218a/` | extracted | 6 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-218a` |
+| `control/nist.gov/800-218a/` | structured | 9 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-218a` |
 | `control/nist.gov/800-219/` | extracted | 8 (+3 imgs) | `MX····I` | `secid:control/nist.gov/800-219` |
 | `control/nist.gov/800-221/` | extracted | 17 (+12 imgs) | `MX····I` | `secid:control/nist.gov/800-221` |
 | `control/nist.gov/800-222/` | metadata-only | 2 | `M······` | `secid:control/nist.gov/800-222` |
@@ -214,7 +214,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-186/` | extracted | 11 (+6 imgs) | `MX····I` | `secid:control/nist.gov/fips-186` |
 | `control/nist.gov/fips-197/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-197` |
 | `control/nist.gov/fips-198/` | extracted | 7 (+2 imgs) | `MX····I` | `secid:control/nist.gov/fips-198` |
-| `control/nist.gov/fips-199/` | extracted | 4 (+1 imgs) | `MX····I` | `secid:control/nist.gov/fips-199` |
+| `control/nist.gov/fips-199/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
 | `control/nist.gov/fips-201/` | extracted | 16 (+11 imgs) | `MX····I` | `secid:control/nist.gov/fips-201` |
 | `control/nist.gov/fips-202/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:control/nist.gov/fips-202` |
