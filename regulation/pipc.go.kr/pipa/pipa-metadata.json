@@ -19,8 +19,9 @@
     "notes": "Government publication. Verify per-jurisdiction reuse terms."
   },
   "links": {
-    "source": "https://www.pipc.go.kr/eng/",
-    "csaLocation": ""
+    "source": "https://www.pipc.go.kr/eng/user/lgp/law/personalInfoProtectionLaw.do",
+    "csaLocation": "",
+    "source_research_note": "Personal Information Protection Act (PIPA), South Korea \u2014 Personal Information Protection Commission (PIPC)."
   },
   "lifecycle": {
     "published": "",

@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB1001",
+    "csaLocation": "",
+    "source_research_note": "California SB-1001 Bolstering Online Transparency Act (Bot Disclosure, 2018)."
   },
   "lifecycle": {
     "active": true,

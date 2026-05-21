@@ -16,8 +16,9 @@
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
   "links": {
-    "source": "",
-    "csaLocation": ""
+    "source": "https://www.flsenate.gov/Laws/Statutes/2024/501.171",
+    "csaLocation": "",
+    "source_research_note": "Florida lacks a single biometric privacy law; closest is FCMA \u00a7501.171 (personal-info breach). Multiple proposed bills exist (SB1670, etc.)."
   },
   "lifecycle": {
     "active": true,
