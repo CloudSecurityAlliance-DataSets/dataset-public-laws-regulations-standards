@@ -21,8 +21,8 @@
   "links": {
     "source": "https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework",
     "csaLocation": "",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 200 but only 6 markdown lines \u2014 heavily JS-rendered PDPC page. Direct PDF download from pdpc.gov.sg required."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 200 but only 6 markdown lines \u2014 heavily JS-rendered PDPC page. Direct PDF download from pdpc.gov.sg required."
   },
   "lifecycle": {
     "published": "",
@@ -33,13 +33,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T20:04:20Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/singapores-approach-to-ai-governance",
+    "notes": "Captured via playwright headless browser (JS-rendered PDPC site). Page describes Singapore's two-track Model AI Governance Framework: original (traditional AI) and 2024 generative-AI extension. Links to downloadable PDFs are referenced; PDF acquisition is a follow-up."
   },
   "extraction_history": [
     {
@@ -47,6 +44,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},

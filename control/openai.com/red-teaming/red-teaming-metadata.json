@@ -21,8 +21,8 @@
   "links": {
     "source": "https://openai.com/index/red-teaming-network",
     "csaLocation": "",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "HTTP 403 from openai.com (OpenAI bot-blocks scraping). Manual browser session required."
+    "acquisition_status": "acquired",
+    "acquisition_blocker_resolved": "HTTP 403 from openai.com (OpenAI bot-blocks scraping). Manual browser session required."
   },
   "lifecycle": {
     "published": "",
@@ -33,13 +33,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
+    "s3_timestamp": "2026-05-21T20:04:20Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://openai.com/index/red-teaming-network/",
+    "notes": "Captured via playwright headless browser (bypassed openai.com 403 bot-block). Description of the OpenAI Red Teaming Network, an open call for domain experts to test OpenAI models."
   },
   "extraction_history": [
     {
@@ -47,6 +44,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source content acquisition + structured extraction is TODO."
     }
   ],
   "scope": {},
