@@ -52,7 +52,8 @@
   "scope": {},
   "notes": "Reference-only \u2014 see current_extraction.notes. CISA publishes KEV as a live JSON feed; mirroring it here would only drift from upstream.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "CISA publishes the KEV catalog as a JSON feed daily-updated at cisa.gov/known-exploited-vulnerabilities-catalog and at github.com/cisagov/kev-data. Same upstream-only pattern as CVE/CWE \u2014 local bulk-mirror would drift; consumers should hit the upstream feed."
   }
 }

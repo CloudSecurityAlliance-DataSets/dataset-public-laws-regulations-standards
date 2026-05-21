@@ -53,7 +53,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "ISACA COBIT is a commercial framework. Membership-or-purchase required. Cannot redistribute even derived structured content. Stays a metadata stub pointing at isaca.org/resources/cobit."
   }
 }
