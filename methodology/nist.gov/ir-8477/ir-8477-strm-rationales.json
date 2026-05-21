@@ -1,0 +1,17 @@
+[
+  {
+    "style_id": "strm",
+    "rationale_id": "syntactic",
+    "definition": "How similar is the wording that expresses the two concepts? Word-for-word analysis."
+  },
+  {
+    "style_id": "strm",
+    "rationale_id": "semantic",
+    "definition": "How similar are the meanings of the two concepts? Involves interpretation of language."
+  },
+  {
+    "style_id": "strm",
+    "rationale_id": "functional",
+    "definition": "How similar are the results of executing the two concepts?"
+  }
+]
