@@ -66,7 +66,8 @@
   },
   "notes": "Most cited datasets for ATT&CK-to-cloud-platform crosswalks. M365 directory contains per-capability mapping files (40+) that are unusually granular \u2014 useful for licensing-tier coverage analysis (E3 vs E5).",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "Center for Threat-Informed Defense root namespace. The mappings live at github.com/center-for-threat-informed-defense/mappings-explorer as version-tagged datasets."
   }
 }

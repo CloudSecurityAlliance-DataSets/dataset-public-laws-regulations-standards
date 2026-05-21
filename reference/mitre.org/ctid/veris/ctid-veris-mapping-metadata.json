@@ -60,7 +60,8 @@
   },
   "notes": "VERIS \u2194 ATT&CK mapping across three matrices.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "CTID ATT&CK\u2194VERIS mapping. Same upstream pattern."
   }
 }
