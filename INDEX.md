@@ -16,7 +16,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 474
+**Total documents indexed:** 501
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 45 | 119 | 110 | 4 | 6 | **284** |
-| **Total** | **165** | **176** | **123** | **4** | **6** | **474** |
+| `reference/` | 45 | 119 | 137 | 4 | 6 | **311** |
+| **Total** | **165** | **176** | **150** | **4** | **6** | **501** |
 
 ## control/
 
@@ -281,7 +281,34 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
 | `reference/cisecurity.org/oval/` | extracted | 3 | `MX·····` | `secid:reference/cisecurity.org/oval` |
 | `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
+| `reference/cloudflare.com/ai-crawl-control-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-crawl-control-glossary` |
+| `reference/cloudflare.com/ai-gateway-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-gateway-glossary` |
+| `reference/cloudflare.com/api-shield-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/api-shield-glossary` |
+| `reference/cloudflare.com/bots-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/bots-glossary` |
+| `reference/cloudflare.com/byoip-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/byoip-glossary` |
+| `reference/cloudflare.com/cache-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cache-glossary` |
+| `reference/cloudflare.com/cloudflare-one-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cloudflare-one-glossary` |
+| `reference/cloudflare.com/cloudflare-wan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cloudflare-wan-glossary` |
+| `reference/cloudflare.com/d1-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/d1-glossary` |
+| `reference/cloudflare.com/dns-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/dns-glossary` |
+| `reference/cloudflare.com/durable-objects-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/durable-objects-glossary` |
+| `reference/cloudflare.com/fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/fundamentals-glossary` |
+| `reference/cloudflare.com/kv-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/kv-glossary` |
+| `reference/cloudflare.com/logs-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/logs-glossary` |
+| `reference/cloudflare.com/magic-transit-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/magic-transit-glossary` |
+| `reference/cloudflare.com/network-flow-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/network-flow-glossary` |
+| `reference/cloudflare.com/queues-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/queues-glossary` |
+| `reference/cloudflare.com/radar-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/radar-glossary` |
 | `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
+| `reference/cloudflare.com/spectrum-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/spectrum-glossary` |
+| `reference/cloudflare.com/speed-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/speed-glossary` |
+| `reference/cloudflare.com/ssl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ssl-glossary` |
+| `reference/cloudflare.com/tenant-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/tenant-glossary` |
+| `reference/cloudflare.com/waf-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/waf-glossary` |
+| `reference/cloudflare.com/waiting-room-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/waiting-room-glossary` |
+| `reference/cloudflare.com/workers-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-ai-glossary` |
+| `reference/cloudflare.com/workers-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-glossary` |
+| `reference/cloudflare.com/workflows-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workflows-glossary` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/cloud-security-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
