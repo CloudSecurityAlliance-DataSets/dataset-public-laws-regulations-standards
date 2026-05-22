@@ -1,31 +1,31 @@
 {
   "secid": "secid:reference/cloudsecurityalliance.org/cloud-security-glossary",
-  "name": "CSA Cloud Security Glossary (and topical glossaries)",
+  "name": "CSA Cloud Security Glossary",
   "acronym": "",
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Cloud Security Alliance",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "CSA Cloud Security Glossary (and topical glossaries)",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Cloud Security Alliance's consolidated cloud security glossary, aggregating terminology from CSA research publications (Enterprise Architecture Reference Guide, SDP, Zero Trust, AI, CCM, etc.) and external authoritative sources.",
+  "relationToCloudSecurity": "Direct — CSA's flagship general cloud-security terminology reference.",
+  "relationToAISecurity": "Includes AI-security terminology from CSA AI working-group publications.",
   "license": {
-    "spdx": "LicenseRef-Vendor-Copyright",
-    "redistribution": "not_permitted_without_authorization",
-    "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "spdx": "LicenseRef-CSA-Authorized-Redistribution",
+    "redistribution": "permitted within CSA-maintained datasets per CSA authority",
+    "derivatives": "permitted within CSA-maintained datasets per CSA authority",
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "CSA proprietary content; footer reads '(c) 2009-2026 Cloud Security Alliance. All rights reserved.' Reclassified from NOASSERTION after Phase 4c verification. (Even though this is CSA's own glossary, the current public-facing site has restrictive terms.)"
+    "notes": "Source site footer reads '© 2009-2026 Cloud Security Alliance. All rights reserved.' Cloud Security Alliance is the publisher and rights-holder. Inclusion in this public dataset is authorized by CSA leadership as part of the CSA-maintained dataset-public-laws-regulations-standards repository. Downstream redistribution by third parties remains subject to CSA's standard copyright terms; consult CSA for licensing beyond use within CSA-maintained datasets."
   },
   "links": {
     "wikipedia": "",
     "source": "https://cloudsecurityalliance.org/cloud-security-glossary",
     "textUsed": "",
-    "csaLocation": ""
+    "csaLocation": "https://cloudsecurityalliance.org/cloud-security-glossary"
   },
   "lifecycle": {
     "published": "",
@@ -33,16 +33,16 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Rolling — CSA continuously updates the glossary as research working groups publish new terminology."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "requests+bs4",
+    "tool_version": "bs4 4.x",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Extracted via extract_cloud_security_glossary.py against live HTML at cloudsecurityalliance.org. Page is static HTML, no JS required; 1,119 terms parsed."
   },
   "extraction_history": [
     {
@@ -50,10 +50,16 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "extracted",
+      "reason": "CSA leadership authorized inclusion; full extraction via requests+bs4",
+      "tool": "requests+bs4"
     }
   ],
   "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "notes": "Inclusion authorized by CSA as publisher and rights-holder (May 2026). Earlier sweep classified this as license-restricted under default copyright terms; that classification was reversed by explicit CSA authorization. Future maintainers: when refreshing, run extract_cloud_security_glossary.py --refresh to re-fetch the live page.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"

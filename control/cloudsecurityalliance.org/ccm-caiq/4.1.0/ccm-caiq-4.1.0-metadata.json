@@ -56,7 +56,8 @@
   },
   "notes": "Use alongside CCM v4.1 for vendor assessments.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Pending CCM 4.1 stabilization (companion CAIQ ships with the parent CCM mappings)."
   }
 }

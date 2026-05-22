@@ -59,7 +59,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured METR Task Standard README + STANDARD.md from the upstream GitHub repo. The STANDARD.md text is the technical spec; it's prose-organized, not a per-row enumeration. Extracted markdown is the appropriate end-state."
   }
 }

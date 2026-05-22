@@ -58,7 +58,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured the controlsframework.equifax.com landing page. The actual control rows are upstream-authoritative at github.com/Equifax-Public/SecurityControlsFramework. Pull-and-mirror would duplicate that upstream; extracted landing-page markdown + pointer to the GitHub repo is the appropriate end-state."
   }
 }

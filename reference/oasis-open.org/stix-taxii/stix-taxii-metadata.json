@@ -30,7 +30,8 @@
     "mitreLegacy": "https://stixproject.github.io/",
     "stix21Spec": "https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html",
     "taxii21Spec": "https://docs.oasis-open.org/cti/taxii/v2.1/taxii-v2.1.html",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "2013 (STIX 1.0, MITRE)",
@@ -41,13 +42,10 @@
     "notes": "STIX 2.1 + TAXII 2.1 are the current OASIS Standards. Filed under oasis-open.org per the DNS-canonical rule \u2014 OASIS Cyber Threat Intelligence Technical Committee is the publishing organization. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/stix(/taxii) -> secid:reference/oasis-open.org/stix(-taxii)."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (README-only stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "README-only stub. STIX/TAXII specifications are consumed directly from OASIS."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://oasis-open.github.io/cti-documentation/",
+    "notes": "Captured the OASIS CTI Technical Committee documentation index via playwright. STIX and TAXII normative specs live at oasis-open.github.io/cti-documentation/ and as OASIS-published standards documents; this overview page is the canonical entry point."
   },
   "extraction_history": [
     {
@@ -55,6 +53,15 @@
       "status": "stub",
       "reason": "README pointer to OASIS specifications",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (README-only stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "README-only stub. STIX/TAXII specifications are consumed directly from OASIS."
     }
   ],
   "scope": {},

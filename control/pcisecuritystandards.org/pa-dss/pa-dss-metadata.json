@@ -24,10 +24,10 @@
   },
   "lifecycle": {
     "published": "",
-    "active": true,
+    "active": false,
     "supersedes": null,
     "supersededBy": null,
-    "retiredFromActiveUse": null,
+    "retiredFromActiveUse": "2022-10-28",
     "notes": "Retired 2022-10-28; replaced by PCI Secure Software Standard."
   },
   "current_extraction": {
@@ -50,7 +50,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "dropped",
+    "reason": "withdrawn",
+    "notes": "Officially retired 2022-10-28 by PCI SSC; replaced by PCI Secure Software Standard. No public-side acquisition needed. The Secure Software Standard (sibling directory) is the successor."
   }
 }

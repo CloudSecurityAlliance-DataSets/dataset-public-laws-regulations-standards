@@ -20,7 +20,8 @@
   },
   "links": {
     "source": "https://www.cisa.gov/scuba",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "",
@@ -31,13 +32,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project",
+    "notes": "Captured CISA SCuBA (Secure Cloud Business Applications) project page via playwright. SCuBA publishes Secure Configuration Baselines for M365 and Google Workspace; the actual baseline content lives in the published guidance documents linked from this page."
   },
   "extraction_history": [
     {
@@ -45,6 +43,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source acquisition + extraction TODO."
     }
   ],
   "scope": {},

@@ -61,7 +61,8 @@
   },
   "notes": "Use this version for current AI control assessments.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Latest AICM version. AICM 1.0.0 is already structured under aicm/1.0.0. Pending decision on whether to also structure 1.0.3 here or whether 1.0.0 is the right anchor version for public-dataset consumers."
   }
 }

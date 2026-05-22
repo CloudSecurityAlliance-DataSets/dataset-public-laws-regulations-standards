@@ -50,7 +50,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "PCI Secure Software Standard is publicly downloadable from pcisecuritystandards.org but only after click-through acceptance of PCI SSC's license terms, which prohibit redistribution. Bulk-mirroring the PDF into this public repo would violate those terms. Per CLAUDE.md the structured content (if extracted) belongs in the companion private repo. No public-side gap remains here once this stub is marked licensed."
   }
 }

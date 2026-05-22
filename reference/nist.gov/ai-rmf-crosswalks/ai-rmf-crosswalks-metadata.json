@@ -20,7 +20,8 @@
   },
   "links": {
     "source": "https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-ai-rmf",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "2023",
@@ -31,13 +32,10 @@
     "notes": "Rolling additions as new crosswalks are published."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
-    "tool_version": "n/a",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Collection. See subdirectories for individual crosswalk documents."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://airc.nist.gov/airmf-resources/crosswalks/",
+    "notes": "Captured the NIST AI Risk Management Framework Crosswalks index from the AIRC knowledge base. Individual crosswalk documents (AI RMF \u2194 ISO/IEC 42001, NIST AI 600-1, EU AI Act, etc.) are linked from this page."
   },
   "extraction_history": [
     {
@@ -45,6 +43,15 @@
       "status": "current",
       "reason": "NIST crosswalks collection",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "manual download from upstream",
+      "tool_version": "n/a",
+      "extraction_host": "local",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Collection. See subdirectories for individual crosswalk documents."
     }
   ],
   "scope": {},

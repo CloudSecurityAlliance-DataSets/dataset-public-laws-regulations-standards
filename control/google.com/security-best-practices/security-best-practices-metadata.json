@@ -57,7 +57,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured Google Cloud security best practices overview page. Discrete recommendations are scattered across many sub-pages and dedicated PDFs (Cloud Architecture Framework, Cyber Defense Initiative, etc.). Extracted markdown is the appropriate end-state; for structured parsing, the Cloud Architecture Framework (separate stub at control/google.com/cloud-architecture-framework) is the better candidate."
   }
 }
