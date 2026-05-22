@@ -82,7 +82,7 @@ License research complete (PR #15). These have explicit open licenses verified �
 
 - [x] ~~**CIRCIA NPRM** structured parse~~ — done in PR #23 (20 sections via `extract_circia.py`)
 - [x] ~~**BSI IT-Grundschutz**~~ — Compendium 2022 PDF + cross-reference XLSX acquired; 1,682 requirements across 104 modules / 10 layers consolidated by `extract_it_grundschutz.py` (PR #23). Compendium PDF OOM'd marker on the GPU box; cross-reference XLSX was used as the structured source instead.
-- [x] ~~**NIST SP 800-222**~~ — resolved: number never published. NIST's series jumps from 800-221 to 800-223 (verified via CSRC publication listing). Removed from queue.
+- [ ] **NIST SP 800-222** — forthcoming. Synthesizes the NISTIR 8286 series (cybersecurity ERM/SCRM integration). The number was previously thought unpublished because NIST's CSRC catalog shows 800-221 → 800-223, but 800-222 is reserved for this in-development publication. Metadata marked `desired_end_state: metadata-only / pre-release`. Flip to acquired when NIST releases the IPD/FPD.
 - [ ] **South Korea PIPA** (`regulation/pipc.go.kr/pipa/`) — Korean government sites (`pipc.go.kr`, `law.go.kr`) return `net::ERR_CONNECTION_CLOSED` from this network, even via playwright headless browser. Likely a TLS-level geo-block on North-America-region IPs. **Plan: retry with NordVPN connected to a South Korean exit node.** Per-doc blocker note is already in the metadata; once acquired, flip `links.acquisition_status` to `acquired` and record the working retrieval URL.
 
 ### Filing reconciliations

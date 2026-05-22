@@ -1,13 +1,13 @@
 {
   "secid": "secid:control/nist.gov/800-222",
-  "name": "Guidelines for Web Application Penetration Testing",
+  "name": "Integrating Cybersecurity and Enterprise Risk Management \u2014 synthesis of NISTIR 8286 series",
   "acronym": "SP 800-222",
   "alternate_names": [],
   "version": "",
   "publication_id": "NIST.800-222",
   "owner": "National Institute of Standards and Technology (NIST)",
   "type": "Standard",
-  "description": "NIST SP 800-222 Initial Public Draft (2024) \u2014 web application penetration testing guidance.",
+  "description": "NIST SP 800-222 is a forthcoming publication being developed by NIST to synthesize the NISTIR 8286 series (8286 / 8286A-D), which addresses the identification, analysis, and management of cybersecurity risk in the context of enterprise risk management. Not yet published as of the metadata date; placeholder maintained so it gets resolved cleanly once released.",
   "relationToCloudSecurity": "General cybersecurity guidance applicable to cloud-environment design and operations.",
   "relationToAISecurity": "Foundational cybersecurity guidance; applies to AI system implementations.",
   "license": {
@@ -28,7 +28,7 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Pre-release: publication under development at NIST as of 2026-05-21. Number was previously thought unpublished (NIST series jumps 800-221 \u2192 800-223 in the public catalog) but is reserved for this forthcoming SCRM/ERM synthesis."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -48,9 +48,10 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire from NIST CSRC and extract.",
+  "notes": "Forthcoming NIST publication synthesizing the NISTIR 8286 series. Track NIST CSRC for release.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "pre-release",
+    "notes": "Forthcoming NIST publication. Flip desired_end_state to 'structured'/'extracted' once NIST releases the draft or final."
   }
 }
