@@ -128,6 +128,14 @@ def is_pre_release(meta):
             or "under development" in notes or "in development" in notes)
 
 
+def is_historical(meta):
+    """Bygone-era publication: publisher no longer maintains or hosts the
+    source. Detected via the sticky desired_end_state marker once set."""
+    des = (meta.get("desired_end_state") or {})
+    return (des.get("state") == "metadata-only"
+            and des.get("reason") == "historical")
+
+
 def is_template(name, secid):
     """FedRAMP templates / forms — extract-terminal."""
     name = name.lower()
@@ -180,6 +188,8 @@ def infer_desired_end_state(secid, meta, name, current):
         return ("dropped", "withdrawn", None)
     if is_pre_release(meta):
         return ("metadata-only", "pre-release", None)
+    if is_historical(meta):
+        return ("metadata-only", "historical", None)
     if is_licensed_restricted(meta):
         return ("metadata-only", "licensed", None)
     if is_upstream_only(meta):

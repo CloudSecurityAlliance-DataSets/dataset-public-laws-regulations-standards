@@ -18,20 +18,21 @@
   "links": {
     "source": "https://www.cisa.gov/",
     "csaLocation": "",
-    "acquisition_status": "fetch-failed",
-    "acquisition_blocker": "All known CISA GovCAR / .gov Cybersecurity Architecture Review URLs return 404 as of 2026-05-21. The program may have been deprecated, rebranded, or moved behind a restricted-access portal. Site search for 'govcar' returns no results. Recommend reclassifying to dropped/withdrawn or pending-license-verification once CISA's current status is confirmed."
+    "acquisition_status": "not-applicable",
+    "acquisition_blocker_resolved": "All known CISA GovCAR / .gov Cybersecurity Architecture Review URLs return 404 as of 2026-05-21. The program may have been deprecated, rebranded, or moved behind a restricted-access portal. Site search for 'govcar' returns no results. Recommend reclassifying to dropped/withdrawn or pending-license-verification once CISA's current status is confirmed.",
+    "acquisition_status_note": "Source is historical (2018-2019 vintage); not actively acquired."
   },
   "lifecycle": {
-    "active": true,
+    "active": false,
     "supersedes": "",
     "supersededBy": null,
-    "retiredFromActiveUse": null,
-    "notes": ""
+    "retiredFromActiveUse": "2020",
+    "notes": "Historical: CISA program circa 2018-2019. Public URLs all 404 as of 2026-05-21; program appears wound down or rebranded into other CISA architecture-review work."
   },
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
   "desired_end_state": {
     "state": "metadata-only",
-    "reason": "pending-acquisition",
-    "notes": "All public CISA GovCAR URLs 404 as of 2026-05-21; program may have been wound down or moved to a restricted portal. No public-side extraction available."
+    "reason": "historical",
+    "notes": "CISA's '.gov Cybersecurity Architecture Review' (GovCAR) program produced content circa 2018\u20132019; all current CISA URLs for the program return 404 and the site search returns no results. The program appears to have been wound down or absorbed into other CISA architecture review initiatives. Keeping this stub as a historical reference."
   }
 }
