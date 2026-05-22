@@ -280,6 +280,7 @@ Records the **intended** terminal state for the document, paired with `current_e
 | `metadata-only` | `pending-extraction` | source acquired, marker run pending |
 | `metadata-only` | `pending-structuring` | extracted, parser not yet written |
 | `metadata-only` | `pre-release` | publication is forthcoming / in draft at the publisher; nothing to acquire yet |
+| `metadata-only` | `historical` | program/document is from a bygone era (e.g., 2018–2019); publisher no longer maintains or publishes the source; stub kept as a historical reference, not a gap |
 | `dropped` | `withdrawn` | publisher withdrew; no successor in repo |
 | `dropped` | `superseded` | newer version already structured here |
 
