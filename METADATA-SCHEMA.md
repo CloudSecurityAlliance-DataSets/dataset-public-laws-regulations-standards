@@ -279,6 +279,7 @@ Records the **intended** terminal state for the document, paired with `current_e
 | `metadata-only` | `pending-acquisition` | source not yet acquired |
 | `metadata-only` | `pending-extraction` | source acquired, marker run pending |
 | `metadata-only` | `pending-structuring` | extracted, parser not yet written |
+| `metadata-only` | `pre-release` | publication is forthcoming / in draft at the publisher; nothing to acquire yet |
 | `dropped` | `withdrawn` | publisher withdrew; no successor in repo |
 | `dropped` | `superseded` | newer version already structured here |
 

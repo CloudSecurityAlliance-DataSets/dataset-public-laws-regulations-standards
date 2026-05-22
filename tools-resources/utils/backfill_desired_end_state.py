@@ -115,6 +115,19 @@ def is_withdrawn(meta):
     return False
 
 
+def is_pre_release(meta):
+    """Forthcoming / not-yet-published publication. Detected via either an
+    existing desired_end_state of metadata-only/pre-release (sticky once set)
+    or a lifecycle.notes phrase indicating pre-release status."""
+    des = (meta.get("desired_end_state") or {})
+    if des.get("state") == "metadata-only" and des.get("reason") == "pre-release":
+        return True
+    lc = meta.get("lifecycle", {}) or {}
+    notes = (lc.get("notes") or "").lower()
+    return ("pre-release" in notes or "forthcoming" in notes
+            or "under development" in notes or "in development" in notes)
+
+
 def is_template(name, secid):
     """FedRAMP templates / forms — extract-terminal."""
     name = name.lower()
@@ -165,6 +178,8 @@ def infer_desired_end_state(secid, meta, name, current):
     """Return (state, reason, notes) for desired_end_state."""
     if is_withdrawn(meta):
         return ("dropped", "withdrawn", None)
+    if is_pre_release(meta):
+        return ("metadata-only", "pre-release", None)
     if is_licensed_restricted(meta):
         return ("metadata-only", "licensed", None)
     if is_upstream_only(meta):
