@@ -57,7 +57,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured the framework's table-of-contents landing page. The per-pillar recommendations live across many sub-pages on cloud.google.com \u2014 deep-link acquisition + per-pillar parse would be a separate effort. Extracted overview markdown is the appropriate stub end-state."
   }
 }

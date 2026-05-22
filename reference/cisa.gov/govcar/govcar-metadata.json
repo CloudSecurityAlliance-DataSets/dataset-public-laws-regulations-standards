@@ -17,7 +17,9 @@
   },
   "links": {
     "source": "https://www.cisa.gov/",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "All known CISA GovCAR / .gov Cybersecurity Architecture Review URLs return 404 as of 2026-05-21. The program may have been deprecated, rebranded, or moved behind a restricted-access portal. Site search for 'govcar' returns no results. Recommend reclassifying to dropped/withdrawn or pending-license-verification once CISA's current status is confirmed."
   },
   "lifecycle": {
     "active": true,
@@ -28,7 +30,8 @@
   },
   "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "prose-guidance"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "All public CISA GovCAR URLs 404 as of 2026-05-21; program may have been wound down or moved to a restricted portal. No public-side extraction available."
   }
 }

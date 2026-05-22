@@ -55,7 +55,8 @@
   },
   "notes": "Use alongside AICM v1.0.3 for vendor assessments.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Pending AICM 1.0.3 decision (companion CAIQ ships with the parent AICM)."
   }
 }

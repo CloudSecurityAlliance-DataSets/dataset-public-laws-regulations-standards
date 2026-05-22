@@ -20,7 +20,8 @@
   },
   "links": {
     "source": "https://www.cisa.gov/cybersecurity-performance-goals",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "",
@@ -31,13 +32,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://www.cisa.gov/cross-sector-cybersecurity-performance-goals",
+    "notes": "Captured CISA Cross-Sector Cybersecurity Performance Goals landing page via playwright. The CPGs are mapped to NIST CSF and NIST SP 800-53; this overview page links to the goal-set PDFs and per-sector mappings."
   },
   "extraction_history": [
     {
@@ -45,6 +43,15 @@
       "status": "stub",
       "reason": "Initial namespace stub",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub. Source acquisition + extraction TODO."
     }
   ],
   "scope": {},
