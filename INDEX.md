@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 41 | 113 | 120 | 4 | 6 | **284** |
-| **Total** | **161** | **170** | **133** | **4** | **6** | **474** |
+| `reference/` | 41 | 119 | 114 | 4 | 6 | **284** |
+| **Total** | **161** | **176** | **127** | **4** | **6** | **474** |
 
 ## control/
 
@@ -272,14 +272,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
 | `reference/checkmk.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmk.com/glossary` |
 | `reference/checkpoint.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkpoint.com/cybersecurity-glossary` |
-| `reference/cisa.gov/cpg/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/cpg` |
+| `reference/cisa.gov/cpg/` | extracted | 3 | `MX·····` | `secid:reference/cisa.gov/cpg` |
 | `reference/cisa.gov/govcar/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/govcar` |
 | `reference/cisa.gov/kev/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/kev` |
 | `reference/cisa.gov/niccs-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cisa.gov/niccs-glossary` |
-| `reference/cisa.gov/scuba/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/scuba` |
+| `reference/cisa.gov/scuba/` | extracted | 3 | `MX·····` | `secid:reference/cisa.gov/scuba` |
 | `reference/cisco.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisco.com/security-glossary` |
 | `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
-| `reference/cisecurity.org/oval/` | metadata-only | 2 | `M······` | `secid:reference/cisecurity.org/oval` |
+| `reference/cisecurity.org/oval/` | extracted | 3 | `MX·····` | `secid:reference/cisecurity.org/oval` |
 | `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
 | `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
@@ -447,7 +447,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/800-92/` | extracted | 10 (+5 imgs) | `MX····I` | `secid:reference/nist.gov/800-92` |
 | `reference/nist.gov/800-94/` | extracted | 13 (+8 imgs) | `MX····I` | `secid:reference/nist.gov/800-94` |
 | `reference/nist.gov/ai-100-4/` | extracted | 12 (+7 imgs) | `MX····I` | `secid:reference/nist.gov/ai-100-4` |
-| `reference/nist.gov/ai-rmf-crosswalks/` | metadata-only | 3 | `M······` | `secid:reference/nist.gov/ai-rmf-crosswalks` |
+| `reference/nist.gov/ai-rmf-crosswalks/` | extracted | 4 | `MX·····` | `secid:reference/nist.gov/ai-rmf-crosswalks` |
 | `reference/nist.gov/csrc-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/nist.gov/csrc-glossary` |
 | `reference/nist.gov/cswp-02042020-1/` | extracted | 28 (+25 imgs) | `MX····I` | `secid:reference/nist.gov/cswp-02042020-1` |
 | `reference/nist.gov/fips-140/2/` | extracted | 5 (+2 imgs) | `MX····I` | `secid:reference/nist.gov/fips-140@2` |
@@ -477,7 +477,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/ny.gov/its-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ny.gov/its-glossary` |
 | `reference/oaic.gov.au/app-key-concepts/` | structured | 5 | `MX·CSP·` | `secid:reference/oaic.gov.au/app-key-concepts` |
 | `reference/oasis-open.org/saml-2.0-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/oasis-open.org/saml-2.0-security-glossary` |
-| `reference/oasis-open.org/stix-taxii/` | metadata-only | 2 | `M······` | `secid:reference/oasis-open.org/stix-taxii` |
+| `reference/oasis-open.org/stix-taxii/` | extracted | 3 | `MX·····` | `secid:reference/oasis-open.org/stix-taxii` |
 | `reference/oecd.org/oecd-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oecd.org/oecd-ai-glossary` |
 | `reference/okta.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/okta.com/iam-glossary` |
 | `reference/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:reference/openai.com/preparedness` |
@@ -488,7 +488,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/openssl.org/openssl-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/openssl.org/openssl-glossary` |
 | `reference/opentext.com/appsec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/opentext.com/appsec-glossary` |
 | `reference/oracle.com/oci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oracle.com/oci-glossary` |
-| `reference/owasp.org/ai-exchange/` | metadata-only | 10 | `M······` | `secid:reference/owasp.org/ai-exchange` |
+| `reference/owasp.org/ai-exchange/` | extracted | 11 | `MX·····` | `secid:reference/owasp.org/ai-exchange` |
 | `reference/owasp.org/llm-ai-security-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/owasp.org/llm-ai-security-glossary` |
 | `reference/palantir.com/foundry-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/palantir.com/foundry-security-glossary` |
 | `reference/paloaltonetworks.com/cyberpedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/paloaltonetworks.com/cyberpedia-glossary` |
