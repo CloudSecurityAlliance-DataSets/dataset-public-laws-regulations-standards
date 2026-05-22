@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 44 | 119 | 111 | 4 | 6 | **284** |
-| **Total** | **164** | **176** | **124** | **4** | **6** | **474** |
+| `reference/` | 45 | 119 | 110 | 4 | 6 | **284** |
+| **Total** | **165** | **176** | **123** | **4** | **6** | **474** |
 
 ## control/
 
@@ -478,7 +478,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/oaic.gov.au/app-key-concepts/` | structured | 5 | `MX·CSP·` | `secid:reference/oaic.gov.au/app-key-concepts` |
 | `reference/oasis-open.org/saml-2.0-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/oasis-open.org/saml-2.0-security-glossary` |
 | `reference/oasis-open.org/stix-taxii/` | extracted | 3 | `MX·····` | `secid:reference/oasis-open.org/stix-taxii` |
-| `reference/oecd.org/oecd-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/oecd.org/oecd-ai-glossary` |
+| `reference/oecd.org/oecd-ai-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/oecd.org/oecd-ai-glossary` |
 | `reference/okta.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/okta.com/iam-glossary` |
 | `reference/openai.com/preparedness/` | extracted | 34 (+29 imgs) | `MX····I` | `secid:reference/openai.com/preparedness` |
 | `reference/openai.com/security-guidance/` | empty | 0 | `·······` | — |
