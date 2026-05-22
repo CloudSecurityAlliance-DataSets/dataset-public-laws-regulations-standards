@@ -25,7 +25,9 @@
     "wikipedia": "",
     "source": "https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai",
     "textUsed": "",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "fetch-failed",
+    "acquisition_blocker": "The metadata-recorded source URL https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai no longer resolves to a glossary \u2014 it now serves an unrelated 'AI in Ukraine' policy initiative page. Browsing the OECD.AI Policy Observatory (oecd.ai/wonk, oecd.ai/ai-principles) and the OECD main site (oecd.org/en/topics/sub-issues/ai-principles) did not surface a current OECD AI glossary. OECD's AI definition lives inside their AI Principles document rather than as a standalone glossary page as of 2026-05-21. Re-investigate via OECD librarians or wait for a re-published glossary."
   },
   "lifecycle": {
     "published": "",
@@ -55,7 +57,8 @@
   "scope": {},
   "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is oecd.ai (sibling domain to oecd.org). Verify namespace.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "glossary"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Source URL no longer hosts a glossary; OECD does not appear to publish a standalone AI glossary as of 2026-05-21. Flip to acquired if/when OECD republishes."
   }
 }

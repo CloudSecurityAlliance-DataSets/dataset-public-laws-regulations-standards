@@ -25,7 +25,8 @@
     "wikipedia": "",
     "source": "https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness/information-security-glossary",
     "textUsed": "",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "",
@@ -36,13 +37,11 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "s3_timestamp": "2026-05-22T02:14:32Z",
+    "tool": "playwright headless browser (Internet Archive snapshot) + extract_infosec_glossary.py",
+    "retrieval_url": "https://web.archive.org/web/20250403153522/https://www2.gov.bc.ca/.../information-security-glossary",
+    "notes": "Acquired and structured 249 terms from the BC Government Information Security Glossary. The live www2.gov.bc.ca URL returned empty responses (likely upstream filtering or transient unavailability), so the 2025-04-03 Internet Archive snapshot was used. License NOASSERTION on source; treating as public-information government work per user direction.",
+    "term_count": 249
   },
   "extraction_history": [
     {
@@ -50,6 +49,15 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
     }
   ],
   "scope": {},

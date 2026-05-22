@@ -25,7 +25,8 @@
     "wikipedia": "",
     "source": "https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/glossary.html",
     "textUsed": "",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "",
@@ -36,13 +37,11 @@
     "notes": "The Well-Architected Security Pillar Glossary page is now a stub redirecting to the central AWS Glossary at docs.aws.amazon.com/glossary/latest/reference/glos-chap.html. Use the aws-glossary entry instead."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Agent listed under aws.amazon.com (sub-namespace); correct parent is amazon.com"
+    "s3_timestamp": "2026-05-22T02:14:32Z",
+    "tool": "curl + extract_wellarchitected_security_glossary.py",
+    "retrieval_url": "https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.md",
+    "notes": "Acquired and structured 849 terms from the unified AWS Glossary markdown. AWS now ships glos-chap.md as a clean machine-readable form; the Well-Architected Security Pillar glossary URL redirects to this same source. License CC-BY-4.0 (per metadata) \u2014 attribution to AWS.",
+    "term_count": 849
   },
   "extraction_history": [
     {
@@ -50,6 +49,15 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: Agent listed under aws.amazon.com (sub-namespace); correct parent is amazon.com"
     }
   ],
   "scope": {},
