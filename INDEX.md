@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 41 | 119 | 114 | 4 | 6 | **284** |
-| **Total** | **161** | **176** | **127** | **4** | **6** | **474** |
+| `reference/` | 44 | 119 | 111 | 4 | 6 | **284** |
+| **Total** | **164** | **176** | **124** | **4** | **6** | **474** |
 
 ## control/
 
@@ -250,7 +250,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/agid.gov.it/cert-agid-glossario/` | structured | 5 | `MX·CSP·` | `secid:reference/agid.gov.it/cert-agid-glossario` |
 | `reference/amazon.com/aws-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/aws-glossary` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
-| `reference/amazon.com/wellarchitected-security-glossary/` | metadata-only | 2 | `M····P·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
+| `reference/amazon.com/wellarchitected-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
 | `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
@@ -351,7 +351,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/google.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/google.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/google.com/security-operations-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/google.com/security-operations-glossary` |
-| `reference/gov.bc.ca/infosec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gov.bc.ca/infosec-glossary` |
+| `reference/gov.bc.ca/infosec-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.bc.ca/infosec-glossary` |
 | `reference/gov.br/glossario-seguranca-informacao/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.br/glossario-seguranca-informacao` |
 | `reference/gov.uk/ncsc-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
@@ -390,7 +390,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | structured | 6 | `MX·CSP·` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
 | `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
-| `reference/ncsc.fi/ncsc-fi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
+| `reference/ncsc.fi/ncsc-fi-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
 | `reference/netapp.com/netapp-glossary/` | metadata-only | 1 | `M······` | `secid:reference/netapp.com/netapp-glossary` |
 | `reference/netskope.com/security-defined/` | metadata-only | 1 | `M······` | `secid:reference/netskope.com/security-defined` |
 | `reference/nfpa.org/nfpa-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nfpa.org/nfpa-glossary` |
