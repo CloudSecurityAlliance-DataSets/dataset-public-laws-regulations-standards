@@ -1,0 +1,32 @@
+[
+  {
+    "term": "AI incident",
+    "definition": "An AI incident is an event, circumstance or series of events where the development, use or malfunction of one or more AI systems directly or indirectly leads to any of the following harms: (a) injury or harm to the health of a person or groups of people; (b) disruption of the management and operation of critical infrastructure; (c) violations of human rights or a breach of obligations under the applicable law intended to protect fundamental, labour and intellectual property rights; (d) harm to property, communities or the environment.",
+    "source_anchor": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "OECD AI Papers No. 16 (May 2024) — formal working definition"
+  },
+  {
+    "term": "serious AI incident",
+    "definition": "A serious AI incident is an event, circumstance or series of events where the development, use or malfunction of one or more AI systems directly or indirectly leads to any of the following harms: (a) the death of a person or serious harm to the health of a person or groups of people; (b) a serious and irreversible disruption of the management and operation of critical infrastructure; (c) a serious violation of human rights or a serious breach of obligations under the applicable law intended to protect fundamental, labour and intellectual property rights; (d) serious harm to property, communities or the environment.",
+    "source_anchor": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "OECD AI Papers No. 16 (May 2024) — formal working definition"
+  },
+  {
+    "term": "AI disaster",
+    "definition": "An AI disaster is a serious AI incident that disrupts the functioning of a community or a society and that may test or exceed its capacity to cope, using its own resources. The effect of an AI disaster can be immediate and localised, or widespread and lasting for a long period of time.",
+    "source_anchor": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "OECD AI Papers No. 16 (May 2024) — formal working definition"
+  },
+  {
+    "term": "AI hazard",
+    "definition": "An AI hazard is an event, circumstance or series of events where the development, use or malfunction of one or more AI systems could plausibly lead to an AI incident, i.e., any of the following harms: (a) injury or harm to the health of a person or groups of people; (b) disruption of the management and operation of critical infrastructure; (c) violations to human rights or a breach of obligations under the applicable law intended to protect fundamental, labour and intellectual property rights; (d) harm to property, communities or the environment.",
+    "source_anchor": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "OECD AI Papers No. 16 (May 2024) — formal working definition"
+  },
+  {
+    "term": "serious AI hazard",
+    "definition": "A serious AI hazard is an event, circumstance or series of events where the development, use or malfunction of one or more AI systems could plausibly lead to a serious AI incident or AI disaster, i.e., any of the following harms: (a) the death of a person or serious harm to the health of a person or groups of people; (b) a serious and irreversible disruption of the management and operation of critical infrastructure; (c) a serious violation of human rights or a serious breach of obligations under the applicable law intended to protect fundamental, labour and intellectual property rights; (d) serious harm to property, communities or the environment; (e) the disruption of the functioning of a community or a society and which may test or exceed its capacity to cope using its own resources.",
+    "source_anchor": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "OECD AI Papers No. 16 (May 2024) — formal working definition"
+  }
+]
