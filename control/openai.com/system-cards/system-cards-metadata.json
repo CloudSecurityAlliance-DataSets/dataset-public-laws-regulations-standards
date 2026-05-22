@@ -58,7 +58,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured the openai.com/safety/ page which serves as an index of individual per-model system cards. Each model's actual system card is a separate document linked from this index. Extracted markdown is the appropriate end-state for the index; individual system cards would each warrant their own control/openai.com/<model>-system-card/ entry if added."
   }
 }

@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 40 | 113 | 121 | 4 | 6 | **284** |
-| **Total** | **160** | **170** | **134** | **4** | **6** | **474** |
+| `reference/` | 41 | 113 | 120 | 4 | 6 | **284** |
+| **Total** | **161** | **170** | **133** | **4** | **6** | **474** |
 
 ## control/
 
@@ -284,7 +284,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
-| `reference/cloudsecurityalliance.org/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
+| `reference/cloudsecurityalliance.org/cloud-security-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
 | `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |

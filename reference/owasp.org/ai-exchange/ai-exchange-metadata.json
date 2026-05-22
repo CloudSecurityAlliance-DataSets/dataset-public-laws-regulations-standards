@@ -23,7 +23,8 @@
   "links": {
     "source": "https://owaspai.org",
     "github": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "2023",
@@ -34,13 +35,10 @@
     "notes": "Continuously updated; snapshot dated by retrieval time."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
-    "tool_version": "n/a",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "HTML+text content from owaspai.org. Snapshot \u2014 re-pull from upstream for current content."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "playwright headless browser + tools-resources/utils/convert-HTML-to-Markdown.py",
+    "retrieval_url": "https://owaspai.org/",
+    "notes": "Captured OWASP AI Exchange landing page via playwright. The actual content is a substantial single-page reference catalog at owaspai.org \u2014 this is the canonical home of the project."
   },
   "extraction_history": [
     {
@@ -48,6 +46,15 @@
       "status": "current",
       "reason": "Initial download",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "manual download from upstream",
+      "tool_version": "n/a",
+      "extraction_host": "local",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "HTML+text content from owaspai.org. Snapshot \u2014 re-pull from upstream for current content."
     }
   ],
   "scope": {},

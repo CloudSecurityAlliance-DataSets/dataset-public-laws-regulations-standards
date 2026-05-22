@@ -19,7 +19,7 @@
     "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "WPScan / Automattic — WPScan Terms of Service; no open license. License reclassified from NOASSERTION after Phase 4b verifier confirmed all-rights-reserved."
+    "notes": "WPScan / Automattic \u2014 WPScan Terms of Service; no open license. License reclassified from NOASSERTION after Phase 4b verifier confirmed all-rights-reserved."
   },
   "links": {
     "wikipedia": "",
@@ -55,7 +55,8 @@
   "scope": {},
   "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "glossary"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
   }
 }

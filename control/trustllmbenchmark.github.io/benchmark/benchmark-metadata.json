@@ -59,7 +59,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured content is the publisher's public landing/overview page describing the framework. The framework's underlying per-control/per-requirement text (where one exists) lives in publisher-hosted PDFs, GitHub repos, or member-only portals that would each need a separate acquisition path. Extracted markdown is the appropriate end-state for this stub; flip to 'structured' only if a discrete per-control source becomes available and is worth parsing."
   }
 }
