@@ -213,7 +213,7 @@ Flags: `--output-dir`, `--formats markdown,json,html` (default `markdown` single
 **GPU box details:**
 - SSH alias: `markersinglehost` → `192.168.1.232` (WSL2 Ubuntu on a Windows machine)
 - GPU: NVIDIA RTX 3060
-- Remote marker venv: `~/marker-env/`
+- Remote marker venv: `~/.myenv/`
 - Remote worker: `~/marker-convert.sh` (overwritten on each wrapper run from the canonical copy in this repo)
 
 #### When to use `--force-ocr`
