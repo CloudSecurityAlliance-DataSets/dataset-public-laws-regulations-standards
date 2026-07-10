@@ -96,7 +96,7 @@ FORCE_OCR=__FORCE_OCR__
 FORMATS=(__FORMATS__)
 EXTRA_ARGS=(__EXTRA_ARGS__)
 
-source ~/marker-env/bin/activate
+source ~/.myenv/bin/activate
 
 # Pass the PARENT directory to marker. marker_single creates a subdir
 # inside --output_dir named after the input PDF basename, so this yields
