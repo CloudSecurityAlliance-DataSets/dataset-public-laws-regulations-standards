@@ -27,7 +27,8 @@
     "source": "https://oval.cisecurity.org/",
     "mitreLegacy": "https://oval.mitre.org/",
     "github": "https://github.com/CISecurity/OVAL",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired"
   },
   "lifecycle": {
     "published": "2002",
@@ -38,13 +39,10 @@
     "notes": "Filed under cisecurity.org per the DNS-canonical rule \u2014 CIS is the publishing organization since 2017. Previously filed under mitre.org for historical continuity. See SecID redirect at secid:reference/mitre.org/oval -> secid:reference/cisecurity.org/oval."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (README-only stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "README-only stub. OVAL definitions are consumed directly from CIS by tools that use them."
+    "s3_timestamp": "2026-05-22T01:55:34Z",
+    "tool": "curl",
+    "retrieval_url": "https://github.com/CISecurity/OVALRepo (README.md)",
+    "notes": "Captured the CIS OVAL Repository README directly from GitHub. The actual OVAL definitions are upstream-authoritative in the repo at github.com/CISecurity/OVALRepo \u2014 same pattern as MITRE ATT&CK / CVE Project, no public-side bulk mirror needed."
   },
   "extraction_history": [
     {
@@ -52,6 +50,15 @@
       "status": "stub",
       "reason": "README pointer to CIS",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (README-only stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "README-only stub. OVAL definitions are consumed directly from CIS by tools that use them."
     }
   ],
   "scope": {},

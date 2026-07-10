@@ -57,7 +57,8 @@
   },
   "notes": "Current CCM. Pending upstream cross-framework re-mapping.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Awaiting completion of CCM 4.1 cross-framework mappings (in-flight upstream at CSA). The 4.1 controls themselves are published but cross-framework mapping data \u2014 which the CCM is conventionally distributed with \u2014 is still being produced. Once mappings ship, acquire alongside and structure."
   }
 }

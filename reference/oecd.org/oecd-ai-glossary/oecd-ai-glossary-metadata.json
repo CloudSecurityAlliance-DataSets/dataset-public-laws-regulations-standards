@@ -1,6 +1,6 @@
 {
   "secid": "secid:reference/oecd.org/oecd-ai-glossary",
-  "name": "OECD.AI Glossary of Terms on AI",
+  "name": "OECD AI Incidents and Related Terms Definitions",
   "acronym": "",
   "alternate_names": [],
   "version": "",
@@ -10,22 +10,25 @@
   "subtype": [
     "glossary"
   ],
-  "description": "OECD.AI Glossary of Terms on AI",
+  "description": "OECD's formal AI-terminology definitions from 'Defining AI Incidents and Related Terms' (OECD Artificial Intelligence Papers No. 16, May 2024, OECD DSTI/CDEP/AIGO(2023)10/FINAL). Defines 5 working terms \u2014 AI incident, serious AI incident, AI disaster, AI hazard, serious AI hazard \u2014 developed by the OECD.AI Expert Group on AI Incidents to support the OECD AI Incidents Monitor (AIM). OECD does not publish a standalone AI glossary page; these formal definitions are the closest thing.",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
-    "spdx": "NOASSERTION",
-    "redistribution": "unknown",
+    "spdx": "LicenseRef-OECD-Terms-and-Conditions",
+    "redistribution": "permitted_with_attribution",
     "derivatives": "unknown",
     "publicly_redistributable": false,
-    "license_text_url": "",
-    "notes": "OECD content; permissive"
+    "license_text_url": "http://www.oecd.org/termsandconditions",
+    "notes": "OECD publications are governed by the OECD Terms and Conditions (http://www.oecd.org/termsandconditions). Working papers like this AI paper are typically available under terms permitting copying and reproduction with attribution. \u00a9 OECD 2024."
   },
   "links": {
     "wikipedia": "",
-    "source": "https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai",
+    "source": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
     "textUsed": "",
-    "csaLocation": ""
+    "csaLocation": "",
+    "acquisition_status": "acquired",
+    "source_research_note": "Note: the original metadata-recorded URL (https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai) is actually a Policy Observatory tracking-entry for Ukraine's AI glossary (Ukrainian-language, published by Ukraine's Ministry of Digital Transformation), not an OECD glossary. The OECD's actual AI terminology is in the Defining AI Incidents paper now linked above.",
+    "acquisition_blocker_resolved": "The metadata-recorded source URL https://oecd.ai/en/dashboards/policy-initiatives/glossary-of-terms-on-ai no longer resolves to a glossary \u2014 it now serves an unrelated 'AI in Ukraine' policy initiative page. Browsing the OECD.AI Policy Observatory (oecd.ai/wonk, oecd.ai/ai-principles) and the OECD main site (oecd.org/en/topics/sub-issues/ai-principles) did not surface a current OECD AI glossary. OECD's AI definition lives inside their AI Principles document rather than as a standalone glossary page as of 2026-05-21. Re-investigate via OECD librarians or wait for a re-published glossary."
   },
   "lifecycle": {
     "published": "",
@@ -36,13 +39,11 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
-    "flags": [],
-    "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is oecd.ai (sibling domain to oecd.org). Verify namespace."
+    "s3_timestamp": "2026-05-22T02:27:46Z",
+    "tool": "pdftotext -layout + extract_oecd_ai_glossary.py",
+    "retrieval_url": "https://www.oecd.org/en/publications/defining-ai-incidents-and-related-terms_d1a8d965-en.html",
+    "notes": "Manual PDF download from oecd.org/en/publications. The PDF is gitignored (*.pdf); the markdown extraction + structured terms CSV are committed. 5 formal working definitions captured.",
+    "term_count": 5
   },
   "extraction_history": [
     {
@@ -50,6 +51,15 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "unknown",
+      "tool": "n/a (stub)",
+      "tool_version": "n/a",
+      "extraction_host": "n/a",
+      "flags": [],
+      "force_ocr": null,
+      "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted. Agent note: URL is oecd.ai (sibling domain to oecd.org). Verify namespace."
     }
   ],
   "scope": {},

@@ -96,7 +96,7 @@ FORCE_OCR=__FORCE_OCR__
 FORMATS=(__FORMATS__)
 EXTRA_ARGS=(__EXTRA_ARGS__)
 
-source ~/marker-env/bin/activate
+source ~/.myenv/bin/activate
 
 # Pass the PARENT directory to marker. marker_single creates a subdir
 # inside --output_dir named after the input PDF basename, so this yields
@@ -170,7 +170,11 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Session: $SESSION_NAME" > "$LOGFILE"
 
 if [ "$MODE" = "ai" ]; then
     tmux kill-session -t "$SESSION_NAME" 2>/dev/null || true
-    tmux new-session -d -s "$SESSION_NAME" "bash $WORKER_FILE"
+    # Quote the worker path: tmux runs this as a shell command string, so an
+    # unquoted path containing spaces would make tmux run `bash <first-word>`
+    # and the session would die instantly with no error in the log. printf %q
+    # produces a shell-safe token for any path.
+    tmux new-session -d -s "$SESSION_NAME" "bash $(printf %q "$WORKER_FILE")"
 
     cat <<EOF
 MARKER-CONVERT STARTED

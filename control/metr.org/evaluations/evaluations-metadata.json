@@ -58,7 +58,8 @@
   "scope": {},
   "notes": "Metadata stub; acquire source and extract structured form as follow-up.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "extracted",
+    "reason": "policy-doc",
+    "notes": "Captured the methodology overview at /measuring-autonomous-ai-capabilities/. Per-model evaluation reports live at /evaluations/<model>-report/ \u2014 those would each be a separate document, not rows of this overview. Extracted markdown is the appropriate end-state for the methodology page."
   }
 }
