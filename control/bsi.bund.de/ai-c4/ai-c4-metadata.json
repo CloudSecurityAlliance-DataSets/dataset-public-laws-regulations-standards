@@ -1,22 +1,22 @@
 {
   "secid": "secid:control/bsi.bund.de/ai-c4",
-  "name": "Control: Ai C4",
+  "name": "AIC4 — AI Cloud Computing Compliance Criteria Catalogue",
   "version": "",
   "owner": "Germany Federal Office for Information Security (BSI)",
   "type": "Control",
-  "description": "Control: Ai C4",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "BSI's AI Cloud Computing Compliance Criteria Catalogue (AIC4) — attestation criteria for the security and trustworthiness of AI-based cloud services; the AI-specific companion to C5, attested under ISAE 3000. 40 audited criteria across 8 areas: Preliminary Criteria (PC), Security & Robustness (SR), Performance & Functionality (PF), Reliability (RE), Data Quality (DQ), Data Management (DM), Explainability (EX), and Bias (BI), plus a General Conditions series (BC-01…BC-06).",
+  "relationToCloudSecurity": "Applies C5-style, ISAE 3000 attestation to AI services delivered via the cloud; complements the C5 catalogue for AI-specific requirements.",
+  "relationToAISecurity": "Dedicated AI-security assurance catalogue covering robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.",
   "license": {
     "spdx": "LicenseRef-Government-Work",
     "redistribution": "permitted_for_reference",
     "derivatives": "varies_by_jurisdiction",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Government regulation; license terms vary by jurisdiction. Generally permitted for reference and citation; consult the specific issuer's terms before redistribution at scale."
+    "notes": "Government publication; free download with BSI copyright retained. Generally permitted for reference and citation; consult BSI's terms before redistribution at scale."
   },
   "links": {
-    "source": "https://www.bsi.bund.de/",
+    "source": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/AIC4/aic4_node.html",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -26,7 +26,7 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "notes": "Auto-generated bulk metadata. Enrich title/description/relations as needed.",
+  "notes": "Enriched from auto-generated bulk metadata. Reclassified from regulation to control (AIC4 is an attestation criteria catalogue, not legislation).",
   "desired_end_state": {
     "state": "structured",
     "reason": "requirement-list"
