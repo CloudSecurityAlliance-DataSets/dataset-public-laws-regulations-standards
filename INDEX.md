@@ -20,8 +20,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 61 | 32 | 8 | — | — | **101** |
-| `regulation/` | 47 | 25 | 1 | — | — | **73** |
+| `control/` | 64 | 32 | 8 | — | — | **104** |
+| `regulation/` | 44 | 25 | 1 | — | — | **70** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
@@ -41,6 +41,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/amazon.com/security-hub-standards/` | extracted | 3 | `MX·····` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 13 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
+| `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
+| `control/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
+| `control/bsi.bund.de/it-grundschutz/` | structured | 5 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
@@ -140,9 +143,6 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 |---|---|---|---|---|
 | `regulation/alberta.ca/hia/` | structured | 10 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/hia` |
 | `regulation/alberta.ca/pipa/` | structured | 10 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/pipa` |
-| `regulation/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:regulation/bsi.bund.de/ai-c4` |
-| `regulation/bsi.bund.de/c5/` | structured | 5 | `M··CS··` | `secid:regulation/bsi.bund.de/c5` |
-| `regulation/bsi.bund.de/it-grundschutz/` | structured | 5 | `M··CSP·` | `secid:regulation/bsi.bund.de/it-grundschutz` |
 | `regulation/ca.gov/caloppa/` | extracted | 3 | `MX·····` | `secid:regulation/ca.gov/caloppa` |
 | `regulation/ca.gov/ccpa-cpra/` | structured | 6 | `M··CSP·` | `secid:regulation/ca.gov/ccpa-cpra` |
 | `regulation/ca.gov/physicians-make-decisions-act/` | extracted | 4 | `MX·····` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
