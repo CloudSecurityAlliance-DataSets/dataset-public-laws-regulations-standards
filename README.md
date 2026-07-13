@@ -24,8 +24,8 @@ Current state of every document tracked in this repo, broken down by SecID type 
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 61 | 32 | 8 | — | — | **101** |
-| `regulation/` | 47 | 25 | 1 | — | — | **73** |
+| `control/` | 64 | 32 | 8 | — | — | **104** |
+| `regulation/` | 44 | 25 | 1 | — | — | **70** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
