@@ -1,10 +1,10 @@
 {
-  "secid": "secid:regulation/bsi.bund.de/c5",
-  "name": "Regulation: C5",
+  "secid": "secid:control/bsi.bund.de/ai-c4",
+  "name": "Control: Ai C4",
   "version": "",
   "owner": "Germany Federal Office for Information Security (BSI)",
-  "type": "Regulation",
-  "description": "Regulation: C5",
+  "type": "Control",
+  "description": "Control: Ai C4",
   "relationToCloudSecurity": "",
   "relationToAISecurity": "",
   "license": {
