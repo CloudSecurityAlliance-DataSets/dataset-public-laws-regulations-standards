@@ -18,6 +18,12 @@
   "links": {
     "source": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/A5/A5_node.html",
     "announcement": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260706_KI_A5-Community-Draft.html",
+    "basismodul_pdf": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5_Horizontales-Trustworthiness-Basismodul.pdf?__blob=publicationFile&v=5",
+    "basismodul_oscal_json": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5_Horizontales-Trustworthiness-Basismodul_JSON.zip?__blob=publicationFile&v=3",
+    "betriebsmodul_cloud_pdf": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5_Betriebsmodul-Cloud-Infrastruktur.pdf?__blob=publicationFile&v=5",
+    "betriebsmodul_cloud_oscal_json": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5_Betriebsmodul-Cloud-Infrastruktur_JSON.zip?__blob=publicationFile&v=4",
+    "pruefmethodik_pdf": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5-Pruefmethodik.pdf?__blob=publicationFile&v=4",
+    "comment_form_xlsx": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/A5/A5_Community_Draft_Kommentierungstabelle.xlsx?__blob=publicationFile&v=5",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -28,7 +34,7 @@
     "retiredFromActiveUse": null,
     "notes": "Community Draft (public comment until 2026-08-31); not yet a final, in-force publication."
   },
-  "notes": "Mention/stub for the BSI A5 Community Draft. Source not acquired/extracted — German-only draft, expected to change before final publication. Acquire and structure the OSCAL criteria once BSI publishes the final (ideally English) version.",
+  "notes": "Mention/stub for the BSI A5 Community Draft. The draft is modular: a horizontal Trustworthiness baseline module (Basismodul) and a Cloud-Infrastructure operational module (Betriebsmodul), each as PDF + OSCAL JSON, plus a separate audit-methodology document (Prüfmethodik). Note: the Kommentierungstabelle XLSX is the comment-submission form, NOT criteria content. Source not yet acquired/extracted — German-only draft, expected to change before final publication. Best acquisition target when finalized: the OSCAL JSON modules (basismodul_oscal_json, betriebsmodul_cloud_oscal_json).",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "pre-release",
