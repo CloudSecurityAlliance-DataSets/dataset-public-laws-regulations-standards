@@ -1,0 +1,37 @@
+{
+  "secid": "secid:control/bsi.bund.de/a5",
+  "name": "A5 — AI Audit and Assurance Assessment Architecture",
+  "version": "community-draft-2026",
+  "owner": "Germany Federal Office for Information Security (BSI)",
+  "type": "Control",
+  "description": "BSI's AI Audit and Assurance Assessment Architecture (A5) — a modular, expandable audit architecture for demonstrating the trustworthiness of AI systems, targeting all actors along the AI value chain (providers, operators, and those overseeing AI). Provides both criteria and assessment methodology, structured per BSI's state-of-the-art library and published machine-readable in OSCAL; positioned against EU AI Act and Cyber Resilience Act requirements. Broader in scope than AIC4, which is limited to AI cloud services. Published July 2026 as a Community Draft for public comment (comments to aisecurity@bsi.bund.de until 2026-08-31); German only at the draft stage.",
+  "relationToCloudSecurity": "Not cloud-specific; applies to AI systems generally (unlike AIC4, which scopes to AI cloud services).",
+  "relationToAISecurity": "Dedicated AI-assurance audit architecture for evaluating trustworthy AI across its lifecycle; the successor-generation BSI AI framework (relationship to AIC4 to be confirmed on final publication).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Government publication (Community Draft). Generally permitted for reference and citation; consult BSI's terms before redistribution at scale."
+  },
+  "links": {
+    "source": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/A5/A5_node.html",
+    "announcement": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260706_KI_A5-Community-Draft.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-07",
+    "active": false,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Community Draft (public comment until 2026-08-31); not yet a final, in-force publication."
+  },
+  "notes": "Mention/stub for the BSI A5 Community Draft. Source not acquired/extracted — German-only draft, expected to change before final publication. Acquire and structure the OSCAL criteria once BSI publishes the final (ideally English) version.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pre-release",
+    "notes": "Revisit for structured (OSCAL control-catalog) extraction when BSI finalizes A5."
+  }
+}
