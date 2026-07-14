@@ -1,10 +1,10 @@
 {
   "secid": "secid:control/bsi.bund.de/ai-c4",
-  "name": "AIC4 — AI Cloud Computing Compliance Criteria Catalogue",
+  "name": "AIC4 — AI Cloud Service Compliance Criteria Catalogue",
   "version": "",
   "owner": "Germany Federal Office for Information Security (BSI)",
   "type": "Control",
-  "description": "BSI's AI Cloud Computing Compliance Criteria Catalogue (AIC4) — attestation criteria for the security and trustworthiness of AI-based cloud services; the AI-specific companion to C5, attested under ISAE 3000. 40 audited criteria across 8 areas: Preliminary Criteria (PC), Security & Robustness (SR), Performance & Functionality (PF), Reliability (RE), Data Quality (DQ), Data Management (DM), Explainability (EX), and Bias (BI), plus a General Conditions series (BC-01…BC-06).",
+  "description": "BSI's AI Cloud Service Compliance Criteria Catalogue (AIC4; official abbreviation AIC4, informally 'C4-AI' / 'C4' per BSI's workbook file naming) — attestation criteria for the security and trustworthiness of AI-based cloud services; the AI-specific companion to C5, attested under ISAE 3000. 40 audited criteria across 8 areas: Preliminary Criteria (PC), Security & Robustness (SR), Performance & Functionality (PF), Reliability (RE), Data Quality (DQ), Data Management (DM), Explainability (EX), and Bias (BI), plus a General Conditions series (BC-01…BC-06).",
   "relationToCloudSecurity": "Applies C5-style, ISAE 3000 attestation to AI services delivered via the cloud; complements the C5 catalogue for AI-specific requirements.",
   "relationToAISecurity": "Dedicated AI-security assurance catalogue covering robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.",
   "license": {
