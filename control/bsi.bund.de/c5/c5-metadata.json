@@ -1,34 +1,39 @@
 {
   "secid": "secid:control/bsi.bund.de/c5",
   "name": "C5 — Cloud Computing Compliance Criteria Catalogue",
-  "version": "",
+  "version": "2026 (v1.0.1)",
   "owner": "Germany Federal Office for Information Security (BSI)",
   "type": "Control",
-  "description": "BSI's Cloud Computing Compliance Criteria Catalogue (C5) — baseline security criteria for cloud service providers, used as the basis for independent C5 attestation audits performed under ISAE 3000 (structurally comparable to SOC 2 / ISO 27001). C5:2020 defines 121 criteria across 17 domains; C5:2026 defines 168 criteria across 18 domains. A separate General Conditions series (BC-01…BC-06 in 2020) became the audited GC domain in 2026.",
+  "description": "BSI's Cloud Computing Compliance Criteria Catalogue (C5) — baseline security criteria for cloud service providers, used as the basis for independent C5 attestation audits performed under ISAE 3000 (structurally comparable to SOC 2 / ISO 27001). C5:2020 defines 121 criteria across 17 domains with a General Conditions series (BC-01…BC-06). C5:2026 (v1.0.1) defines 168 criteria across the same 17 audited domains, expanded into 623 sub-criteria typed Basic (suffix B), Additional/Complementing (AC) and Additional/Sharpening (AS), plus a separate General Conditions series now numbered GC-01…GC-06.",
   "relationToCloudSecurity": "Core cloud-security assurance catalogue; the de facto standard for cloud security attestation in Germany and widely referenced across the DACH region.",
   "relationToAISecurity": "Complemented by AIC4, which extends C5-style attestation to AI-based cloud services.",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC-BY-ND-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "not_permitted",
     "publicly_redistributable": true,
-    "license_text_url": "",
-    "notes": "Government publication; free download with BSI copyright retained. Generally permitted for reference and citation; consult BSI's terms before redistribution at scale."
+    "license_text_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": "© Federal Office for Information Security (BSI) 2026",
+    "notes": "C5:2026 is licensed CC BY-ND 4.0 (© BSI 2026). Verbatim redistribution with attribution is permitted; NoDerivatives. The CSV/JSON here is a faithful format-shift of BSI's official editable workbook (C5_2026_editable.xlsx) — criteria text reproduced verbatim, no edits — hosted for reference and machine consumption. The earlier C5:2020 edition in this directory was published under general BSI terms of use, not CC BY-ND."
   },
   "links": {
     "source": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html",
+    "pdf_2026": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2026/C5_2026.pdf?__blob=publicationFile&v=7",
+    "editable_workbook_2026": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2026/C5_2026_editable.xlsx?__blob=publicationFile&v=1",
+    "machine_readable_2026": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2026/C5_machine_readable.html",
     "csaLocation": ""
   },
   "lifecycle": {
+    "published": "2026-04",
     "active": true,
-    "supersedes": "",
+    "supersedes": "C5:2020",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "C5:2026 v1.0.1 (initial publication v1.0.0, 2026-04-07) is the current edition and supersedes C5:2020. Both editions' structured data are retained in this directory."
   },
-  "notes": "Enriched from auto-generated bulk metadata. Reclassified from regulation to control (C5 is an attestation criteria catalogue, not legislation).",
+  "notes": "Enriched from auto-generated bulk metadata. Reclassified from regulation to control (C5 is an attestation criteria catalogue, not legislation). C5:2026 structured data added 2026-07 as a verbatim format-shift of BSI's editable workbook (CC BY-ND 4.0, attribution to BSI).",
   "desired_end_state": {
     "state": "structured",
-    "reason": "requirement-list"
+    "reason": "control-catalog"
   }
 }
