@@ -1,0 +1,23 @@
+[
+    {
+        "Group": "GCS",
+        "Group Title": "Governance, Compliance & Scope",
+        "Subgroup": "GCS.2",
+        "Subgroup Title": "Governance, Rollen & Policies festlegen",
+        "ID": "GCS.2.5",
+        "Title": "Nachweis der Vertrauenswürdigkeit der zugrundeliegenden Infrastruktur- und Cloud-Komponenten dokumentieren",
+        "Class": "requirement",
+        "Modalverb": "SOLLTE",
+        "Handlungsworte": "dokumentieren",
+        "Statement": "Governance, Compliance & Scope fuer Richtlinien SOLLTE Nachweis der Vertrauenswürdigkeit der zugrundeliegenden Infrastruktur- und Cloud-Komponenten urch Bereitstellung eines anerkannten Compliance-Nachweises (C5-Testat), der mindestens einen Geltungsbereich, der die für das KI-System relevante Infrastruktur und Komponenten abdeckt, die Berücksichtigung der relevanten Risikodimensionen, einen Abdeckungszeitraum, der den vollständigen Bewertungszeitraum umfasst (alternativ ein Bridge Letter für die Lücke), die Durchführung durch qualifiziertes und unabhängiges Personal, eine klare Beschreibung der durchgeführten Testverfahren mit dem Nachweis, dass keine kritischen sicherheitsrelevanten Probleme oder Anomalien festgestellt wurden, die Bereitstellung vor dem maßgeblichen Stichtag sowie ein Änderungsmanagement, das Auswirkungen von Änderungen an Infrastruktur- bzw. Cloud-Komponenten bewertet und festgestellte Probleme zeitnah durch angemessene Minderungsmaßnahmen nachverfolgt, erfüllt dokumentieren.",
+        "Guidance": "Anbieter: Ziel ist es, dass die Vertrauenswürdigkeit der zugrundeliegenden Infrastruktur und Cloud-Komponenten des KI-Systems durch einen anerkannten Compliance-Nachweis belegt wird, sodass die infrastrukturelle Eignung als Grundlage für den sicheren Betrieb des KI-Systems gegeben ist. Dazu kann ein anerkanntes Testat bzw. ein anerkannter Prüfbericht (C5) bereitgestellt werden, dessen Geltungsbereich die für das KI-System relevante Infrastruktur, Plattform- und Systemkomponenten abdeckt und die relevanten Risikodimensionen berücksichtigt. Der Abdeckungszeitraum kann den vollständigen Bewertungszeitraum umfassen; andernfalls ist ein Bridge Letter für die Lücke zweckmäßig. Die Prüfung kann durch qualifiziertes und unabhängiges Personal erfolgen; die durchgeführten Testverfahren können klar dokumentiert werden und belegen, dass keine kritischen sicherheitsrelevanten Probleme oder Anomalien festgestellt wurden. Ergänzend dazu kann der Nachweis rechtzeitig vor dem maßgeblichen Stichtag bereitgestellt werden; Auswirkungen von Änderungen an Infrastruktur- oder Cloud-Komponenten können bewertet und festgestellte Probleme zeitnah durch angemessene Minderungsmaßnahmen nachverfolgt werden.",
+        "Praezisierung": "urch Bereitstellung eines anerkannten Compliance-Nachweises (C5-Testat), der mindestens einen Geltungsbereich, der die für das KI-System relevante Infrastruktur und Komponenten abdeckt, die Berücksichtigung der relevanten Risikodimensionen, einen Abdeckungszeitraum, der den vollständigen Bewertungszeitraum umfasst (alternativ ein Bridge Letter für die Lücke), die Durchführung durch qualifiziertes und unabhängiges Personal, eine klare Beschreibung der durchgeführten Testverfahren mit dem Nachweis, dass keine kritischen sicherheitsrelevanten Probleme oder Anomalien festgestellt wurden, die Bereitstellung vor dem maßgeblichen Stichtag sowie ein Änderungsmanagement, das Auswirkungen von Änderungen an Infrastruktur- bzw. Cloud-Komponenten bewertet und festgestellte Probleme zeitnah durch angemessene Minderungsmaßnahmen nachverfolgt, erfüllt",
+        "Ergebnis": "Nachweis der Vertrauenswürdigkeit der zugrundeliegenden Infrastruktur- und Cloud-Komponenten",
+        "Security Level": "normal-SdT",
+        "Effort Level": "3",
+        "Tags": "Cloudmodul; Anbieter",
+        "Target Objects": "Richtlinien",
+        "Documentation": "Cloud Policy",
+        "Dependency": ""
+    }
+]
