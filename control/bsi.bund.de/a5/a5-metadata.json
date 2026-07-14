@@ -1,19 +1,20 @@
 {
   "secid": "secid:control/bsi.bund.de/a5",
   "name": "A5 — AI Audit and Assurance Assessment Architecture",
-  "version": "community-draft-2026",
+  "version": "community-draft-2026 (Basismodul v0.9; OSCAL catalog v1.0.0)",
   "owner": "Germany Federal Office for Information Security (BSI)",
   "type": "Control",
   "description": "BSI's AI Audit and Assurance Assessment Architecture (A5) — a modular, expandable audit architecture for demonstrating the trustworthiness of AI systems, targeting all actors along the AI value chain (providers, operators, and those overseeing AI). Provides both criteria and assessment methodology, structured per BSI's state-of-the-art library and published machine-readable in OSCAL; positioned against EU AI Act and Cyber Resilience Act requirements. Broader in scope than AIC4, which is limited to AI cloud services. Published July 2026 as a Community Draft for public comment (comments to aisecurity@bsi.bund.de until 2026-08-31); German only at the draft stage.",
   "relationToCloudSecurity": "Not cloud-specific; applies to AI systems generally (unlike AIC4, which scopes to AI cloud services).",
   "relationToAISecurity": "Dedicated AI-assurance audit architecture for evaluating trustworthy AI across its lifecycle; the successor-generation BSI AI framework (relationship to AIC4 to be confirmed on final publication).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC-BY-SA-4.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_share_alike",
     "publicly_redistributable": true,
-    "license_text_url": "",
-    "notes": "Government publication (Community Draft). Generally permitted for reference and citation; consult BSI's terms before redistribution at scale."
+    "license_text_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "© Federal Office for Information Security (BSI) 2026",
+    "notes": "A5 is published as machine-readable OSCAL through BSI's Stand-der-Technik-Bibliothek (https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek), which is licensed CC BY-SA 4.0. Treated as CC BY-SA 4.0: redistribution and derivatives permitted with attribution under the same license (ShareAlike). The flattened per-control CSV/JSON here is derived from BSI's official OSCAL catalogs and shared under CC BY-SA 4.0. Community Draft — reconfirm license on final publication."
   },
   "links": {
     "source": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/A5/A5_node.html",
@@ -34,10 +35,16 @@
     "retiredFromActiveUse": null,
     "notes": "Community Draft (public comment until 2026-08-31); not yet a final, in-force publication."
   },
-  "notes": "Mention/stub for the BSI A5 Community Draft. The draft is modular: a horizontal Trustworthiness baseline module (Basismodul) and a Cloud-Infrastructure operational module (Betriebsmodul), each as PDF + OSCAL JSON, plus a separate audit-methodology document (Prüfmethodik). Note: the Kommentierungstabelle XLSX is the comment-submission form, NOT criteria content. Source not yet acquired/extracted — German-only draft, expected to change before final publication. Best acquisition target when finalized: the OSCAL JSON modules (basismodul_oscal_json, betriebsmodul_cloud_oscal_json).",
+  "notes": "Structured from the BSI A5 Community Draft. Modular: a horizontal Trustworthiness baseline module (Basismodul, 57 controls) and a Cloud-Infrastructure operational module (Cloudmodul/Betriebsmodul, 1 control), plus a separate audit-methodology document (Prüfmethodik, PDF prose — linked, not per-item structured). This directory holds BSI's verbatim OSCAL catalogs (A5-Basismodul-2026-06-30.json, A5-Cloudmodul-2026-06-30.json) plus a flattened per-control CSV/JSON (A5-*-controls.*) derived from them (group/subgroup/id/title/statement/guidance/props). German only. The Kommentierungstabelle XLSX is the comment-submission form, NOT criteria content. Re-extract when BSI publishes the final A5 (and an English edition).",
+  "current_extraction": {
+    "tool": "custom OSCAL flattener",
+    "tool_version": "python3/json",
+    "source_files": ["A5-Basismodul-2026-06-30.json (Basismodul JSON zip v3)", "A5-Cloudmodul-2026-06-30.json (Cloudmodul JSON zip v4)"],
+    "notes": "Verbatim OSCAL catalogs kept as-is; flattened to per-control CSV/JSON. 57 controls (Basismodul) + 1 (Cloudmodul), 6 groups (GCS, DEI, VAV, DEP, OPS, RET). Prüfmethodik (methodology) retained as an upstream PDF link only."
+  },
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "pre-release",
-    "notes": "Revisit for structured (OSCAL control-catalog) extraction when BSI finalizes A5."
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "Community Draft v0.9 extracted from official OSCAL. Re-extract on final A5 publication; the Prüfmethodik (methodology PDF) remains an upstream link."
   }
 }

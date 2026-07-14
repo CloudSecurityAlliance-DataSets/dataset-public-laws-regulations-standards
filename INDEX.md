@@ -20,13 +20,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 64 | 32 | 9 | — | — | **105** |
+| `control/` | 65 | 32 | 8 | — | — | **105** |
 | `regulation/` | 44 | 25 | 1 | — | — | **70** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 119 | 137 | 4 | 6 | **311** |
-| **Total** | **165** | **176** | **151** | **4** | **6** | **502** |
+| **Total** | **166** | **176** | **150** | **4** | **6** | **502** |
 
 ## control/
 
@@ -41,7 +41,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/amazon.com/security-hub-standards/` | extracted | 3 | `MX·····` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 13 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
-| `control/bsi.bund.de/a5/` | metadata-only | 2 | `M······` | `secid:control/bsi.bund.de/a5` |
+| `control/bsi.bund.de/a5/` | structured | 8 | `M··CS··` | `secid:control/bsi.bund.de/a5` |
 | `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
 | `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 5 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
