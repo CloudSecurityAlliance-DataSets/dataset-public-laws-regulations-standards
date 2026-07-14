@@ -43,7 +43,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
 | `control/bsi.bund.de/a5/` | metadata-only | 2 | `M······` | `secid:control/bsi.bund.de/a5` |
 | `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
-| `control/bsi.bund.de/c5/` | structured | 6 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
+| `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 5 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
