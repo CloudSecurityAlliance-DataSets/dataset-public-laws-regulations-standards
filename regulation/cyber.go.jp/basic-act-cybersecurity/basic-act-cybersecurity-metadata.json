@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/cyber.go.jp/basic-act-cybersecurity",
+  "name": "Basic Act on Cybersecurity",
+  "acronym": "BAC",
+  "alternate_names": ["Cybersecurity Basic Act"],
+  "version": "",
+  "publication_id": "Act No. 104 of 2014",
+  "owner": "National Cybersecurity Office (NCO), successor to NISC, secretariat of the Cybersecurity Strategic Headquarters",
+  "type": "Regulation",
+  "description": "Japan's foundational cybersecurity law, enacted November 2014, effective January 2015. Establishes the Cybersecurity Strategic Headquarters (CSHQ) within the Cabinet, requires the government to formulate a national Cybersecurity Strategy, defines 'cybersecurity' for purposes of Japanese law, and sets out non-detailed obligations for the national government, local governments, critical information infrastructure operators, cyberspace-related business operators, and universities/research institutions to make efforts toward cybersecurity. It does not impose direct technical requirements on most businesses; those come from sector-specific guidelines issued under its authority. Authorizes the Common Standards for Cybersecurity Measures of Governmental Entities (Article 26(1)) — the government-agency security baseline analogous to a FedRAMP moderate baseline for federal agencies.",
+  "relationToCloudSecurity": "Indirect — it's the enabling law behind government-agency cybersecurity baselines (Common Standards) and behind the ISMAP cloud assessment program's governance chain (see control/ismap.go.jp/control-criteria/2022-04-01/), not a direct technical requirements source itself.",
+  "relationToAISecurity": "None directly; AI security in Japan's government context flows through separate MIC/METI guidance, not this Act.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Law-Excluded-From-Copyright",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3677/en",
+    "notes": "As primary legislation, this Act is excluded from copyright under Japan's Copyright Act Article 13 (laws and regulations, and official government translations thereof, are not protected). Same basis as the APPI entry in this repo."
+  },
+  "links": {
+    "source": "https://www.cyber.go.jp/eng/",
+    "officialTranslation": "https://www.japaneselawtranslation.go.jp/en/laws/view/3677/en",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-11",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Amended by the Cybersecurity Capability Enhancement Act (May 2025) and related Active Cyber Defense legislation, most provisions effective October 2026 — not reflected in the summary below, which describes the pre-2025 Act."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "none — full text not acquired",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "The authoritative English translation (japaneselawtranslation.go.jp/en/laws/view/3677/en) returned HTTP 403 to a plain curl fetch (with realistic browser headers), to WebFetch, and to a real Playwright browser session on 2026-07-16 — an AWS ELB / WAF-level block rather than a JS-rendering issue, so no client-side workaround was available in this session. This entry is a metadata/notes-only stub built from secondary legal-summary sources (ICLG Cybersecurity Laws and Regulations Report, Chambers Global Practice Guides, cyber.go.jp's English pages) rather than the primary text. No article-level CSV/JSON exists yet."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial metadata-only stub; full-text acquisition blocked at the source",
+      "tool": "none"
+    }
+  ],
+  "scope": {
+    "notes": "Structure not independently verified against primary text. Secondary sources describe: establishment of the Cybersecurity Strategic Headquarters, a mandated national Cybersecurity Strategy, a 'cybersecurity' definition, non-detailed obligation clauses for government/CII operators/business/academia, and the Article 26(1) authorization for the Common Standards for Cybersecurity Measures of Governmental Entities."
+  },
+  "notes": "Follow-up: retry acquisition from a Japan-based IP or via a different mirror if one becomes known; see TODO.md."
+}

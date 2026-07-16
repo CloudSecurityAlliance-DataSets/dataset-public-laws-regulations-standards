@@ -11,7 +11,7 @@ Full landscape scan of Japanese cybersecurity/data-protection law, government gu
 **In progress this pass** (see SOURCES.md "Japan" section for source URLs):
 - [x] ~~**ISMAP** (Information system Security Management and Assessment Program)~~ — done 2026-07-16: Control Criteria (2022-04-01 English reference translation) extracted, 263 control-level rows across governance/management/controls tiers; license unresolved (see below); ISMAP-LIU (Low-Impact Use) variant and the JS-rendered Attached Tables 1-8 (incl. SP800-53 crosswalk) still TODO
 - [ ] **APPI** — expand: fix stale README (extraction already exists, 73 articles), quality-check article/title/content split, add article-level SecID subpaths
-- [ ] **Basic Act on Cybersecurity (BAC)** + **NISC/NCO** governance structure (NISC renamed to National Cybersecurity Office, July 2025)
+- [x] ~~**Basic Act on Cybersecurity (BAC)** + **NISC/NCO** governance structure~~ — partial, 2026-07-16: SecID entries added (`regulation/cyber.go.jp/basic-act-cybersecurity`, `entity/cyber.go.jp` for NCO/NISC) and a DataSets metadata-only stub (`regulation/cyber.go.jp/basic-act-cybersecurity/`), but **full article text could not be acquired** — the official translation (japaneselawtranslation.go.jp) returns HTTP 403 to curl, WebFetch, and a real Playwright browser session (looks like a network/WAF-level block, not JS-rendering). Retry from a Japan-based network path, or find a mirror.
 - [ ] **FISC Security Guidelines** — expand SecID stub; check what's publicly available (members-only/paid framework)
 
 **Primary legislation (regulation type), not yet ingested:**
