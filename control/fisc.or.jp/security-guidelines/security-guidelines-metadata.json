@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/fisc.or.jp/security-guidelines",
+  "name": "FISC Security Guidelines on Computer Systems for Financial Institutions",
+  "acronym": "FISC Security Guidelines",
+  "alternate_names": [],
+  "version": "13th edition",
+  "publication_id": "FISC-SG-13",
+  "owner": "Center for Financial Industry Information Systems (FISC)",
+  "type": "Standard",
+  "description": "The dominant security framework for Japanese banks and financial institutions, developed jointly by FISC with the Financial Services Agency (FSA) and the Bank of Japan. Comprises roughly 300 individual controls. A third-party mapping (Open Security Architecture) describes the structure as three category groups — Facility Standards, Operational Standards, and Technical Standards — cross-walked to NIST SP 800-53, but this has not been verified against FISC's own text since the primary source is members-only/paid. FISC also publishes a companion FISC System Audit Guidelines for Financial Institutions (2nd edition, June 2025).",
+  "relationToCloudSecurity": "Cloud service providers selling to Japanese financial institutions are commonly assessed against FISC (AWS, Google Cloud, Microsoft, IBM Cloud, Tencent Cloud, and others all publish FISC compliance statements) alongside or instead of ISMAP.",
+  "relationToAISecurity": "Not directly addressed; unknown whether recent editions cover AI-specific risk (unverified, primary text not accessible).",
+  "license": {
+    "spdx": "LicenseRef-FISC-Members-Only",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.fisc.or.jp/english/",
+    "notes": "Members-only / paid publication. No full text acquired or included in this repo — this is a metadata-only stub built from FISC's public English overview page and third-party summaries (Thales, Microsoft/AWS/Google/IBM compliance pages, Open Security Architecture)."
+  },
+  "links": {
+    "source": "https://www.fisc.or.jp/english/",
+    "thirdPartyMapping": "https://www.opensecurityarchitecture.org/frameworks/fisc/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "1984",
+    "active": true,
+    "supersedes": "12th edition",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "13th edition of the Security Guidelines published November 2025. FISC itself was established November 1984; became a public interest incorporated foundation in April 2011."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "none — text is paywalled",
+    "tool_version": "n/a",
+    "extraction_host": "n/a",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "No structured extraction possible without purchasing the guidelines from FISC. This stub documents what's publicly known: the ~300-control scale, the Facility/Operational/Technical category grouping (per the unofficial OSA mapping, not FISC's own numbering), and the joint FSA/BOJ development. The paired SecID entry (registry/control/jp/or/fisc.json) adds the same three category-level match_nodes at low confidence, clearly marked as third-party-sourced."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial metadata-only stub; primary text is a paid publication",
+      "tool": "none"
+    }
+  ],
+  "scope": {
+    "notes": "~300 controls across 3 category groups per third-party (OSA) mapping — not independently verified."
+  },
+  "notes": "Unlike ISMAP and BAC (government publications), FISC is explicitly a paid, members-only commercial publication — there is no reasonable path to a full free extraction. Future work would require a FISC membership/purchase, at which point normal ingestion (acquisition -> conversion -> decomposition) would apply."
+}

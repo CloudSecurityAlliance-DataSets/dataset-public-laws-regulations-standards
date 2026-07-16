@@ -4,6 +4,54 @@ Repository-wide work items. State as of 2026-05-15 — see [INDEX.md](INDEX.md) 
 
 ## Active work
 
+### Japan — comprehensive source catalog (added 2026-07-16)
+
+Full landscape scan of Japanese cybersecurity/data-protection law, government guidelines, and certification schemes. Existing coverage before this pass: APPI (regulation, full article extraction done in PR #16 but README stale), FISC Security Guidelines / JIS Q-series / Digital Agency My Number / JCB Data Security Program / JPX-JSCC (control, all thin SecID-only stubs, no DataSets content). Everything else below is net-new.
+
+**In progress this pass** (see SOURCES.md "Japan" section for source URLs):
+- [x] ~~**ISMAP** (Information system Security Management and Assessment Program)~~ — done 2026-07-16: Control Criteria (2022-04-01 English reference translation) extracted, 263 control-level rows across governance/management/controls tiers; license unresolved (see below); ISMAP-LIU (Low-Impact Use) variant and the JS-rendered Attached Tables 1-8 (incl. SP800-53 crosswalk) still TODO
+- [ ] **APPI** — expand: fix stale README (extraction already exists, 73 articles), quality-check article/title/content split, add article-level SecID subpaths
+- [x] ~~**Basic Act on Cybersecurity (BAC)** + **NISC/NCO** governance structure~~ — partial, 2026-07-16: SecID entries added (`regulation/cyber.go.jp/basic-act-cybersecurity`, `entity/cyber.go.jp` for NCO/NISC) and a DataSets metadata-only stub (`regulation/cyber.go.jp/basic-act-cybersecurity/`), but **full article text could not be acquired** — the official translation (japaneselawtranslation.go.jp) returns HTTP 403 to curl, WebFetch, and a real Playwright browser session (looks like a network/WAF-level block, not JS-rendering). Retry from a Japan-based network path, or find a mirror.
+- [x] ~~**FISC Security Guidelines**~~ — checked 2026-07-16: confirmed members-only/paid (13th edition, Nov 2025), no free full text available. Added a metadata-only stub (`control/fisc.or.jp/security-guidelines/`) citing an unverified third-party (Open Security Architecture) category mapping, and deepened the SecID stub with 3 low-confidence category match_nodes. Full ingestion would require a FISC membership/purchase.
+
+**Primary legislation (regulation type), not yet ingested:**
+- [ ] Act on Prohibition of Unauthorised Computer Access (UCAL)
+- [ ] Telecommunications Business Act (TBA) — secrecy of communications provisions
+- [ ] Act on the Use of Numbers to Identify a Specific Individual (My Number Act) — distinct from APPI; current SecID stub under digital.go.jp only covers the card, not the Act
+- [ ] Active Cyber Defense Act / Cyber Response Capabilities Enhancement Act (enacted May 2025, most provisions effective Oct 1 2026)
+- [ ] Act on the Protection and Use of Critical Economic Security Information (security clearance system, effective May 2025)
+- [ ] Economic Security Promotion Act (critical infrastructure operator designation)
+- [ ] Specified Secret Protection Act
+- [ ] Unfair Competition Prevention Act (trade secret protection)
+- [ ] Payment Services Act
+- [ ] Installment Sales Act (credit card data protection provisions)
+- [ ] Act on Prevention of Damage Caused by Unauthorized Acts Against Important Computers (effective Oct 1 2026)
+
+**Government/sector guidelines (control type), not yet ingested:**
+- [ ] Common Standards on Cybersecurity Measures of Governmental Entities (NISC/CSHQ — baseline for government agencies, analogous to a FedRAMP moderate baseline)
+- [ ] Cybersecurity Management Guidelines / CMG (METI + IPA — CISO-level guidance, "3 principles" + "10 important items")
+- [ ] Guidelines on Cybersecurity for the Financial Sector (FSA, effective Oct 2024 — 176 response items across governance/risk/defense/detection/third-party risk)
+- [ ] Comprehensive Guidelines for the Supervision of Major Banks (FSA)
+- [ ] PPC Guidelines regarding the APPI (PPC GL) — implementing guidance with the concrete security-control detail APPI itself lacks
+- [ ] Guidelines on Safety Management of Medical Information Systems (MHLW)
+- [ ] Guidelines on Safety Management for Providers of Information Systems/Services Handling Medical Information (METI/MIC)
+- [ ] Safety Guidelines for Ensuring Information Security — Air Transport / Airport / Railway / Logistics sectors (MLIT, 4 separate documents)
+- [ ] Information Security Measures Guidelines for SMEs (IPA — "5 To-dos" + SECURITY ACTION self-declaration program)
+- [ ] Guidelines on Preventing Insider Data Breaches (IPA)
+- [ ] AI Business Guidelines (MIC/METI, April 2024) + Draft Guidelines on AI Security (MIC, Dec 2025)
+- [ ] Cybersecurity Policy for Critical Infrastructure Protection (NISC — defines 15 critical sectors)
+- [ ] Supply chain: "Toward Building Partnerships with Business Partners to Enhance Cybersecurity Across the Entire Supply Chain" (METI/JFTC) + Security Measures Evaluation System for Supply Chain Strengthening (★3–★5 tiered assessment, METI, ops planned H2 2026)
+
+**Certification / assessment schemes (control type), not yet ingested:**
+- [ ] JC-STAR (Japan Cyber-Security Technical Assessment Requirements) — IoT product evaluation, IPA
+- [ ] JISEC (Japan IT Security Evaluation and Certification Scheme) — Common Criteria/ISO 15408 based, IPA/NITE
+- [ ] CRYPTREC — cryptographic algorithm evaluation, publishes the CRYPTREC Ciphers List
+- [ ] PrivacyMark (P Mark) — JIPDEC, based on JIS Q 15001, roughly Japan's ISO 27001-equivalent trust mark
+
+**Lower priority / needs a decision:**
+- [ ] J-CSIP (Initiative for Cybersecurity Information Sharing Partnership of Japan, IPA) — operational info-sharing, may be reference-only
+- [ ] Sector-specific narrower items (Medical Care Act cybersecurity enforcement order, Subcontract/Proper Transactions Act) — likely lower standalone value, may fold into parent guideline entries as notes
+
 ### Structured parsing for NIST markdown extractions
 
 109 NIST publications have markdown extractions in their stub directories but no structured CSV/JSON. Of those, only 4 have been parsed into per-control/requirement structured form (800-53 r5, 800-171, 800-172, 800-161 r1, 800-82 r3).
@@ -66,6 +114,7 @@ License research complete (PR #15). These have explicit open licenses verified �
 
 ### Unresolved license terms (need direct contact or PDF inspection)
 
+- [ ] **ISMAP Control Criteria** (`ismap.go.jp`) — ingested 2026-07-16 (`control/ismap.go.jp/control-criteria/2022-04-01/`), no terms-of-use/copyright statement found on the portal; confirm with the ISMAP Secretariat or by inspecting the site footer before treating as publicly redistributable
 - [ ] **STET PSD2 API** (`stet.eu`) — inspect spec PDF footer or contact STET
 - [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`)
 - [ ] **OIX Trust Framework methodology** (`openidentityexchange.org`)
