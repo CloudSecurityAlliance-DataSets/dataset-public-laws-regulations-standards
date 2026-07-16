@@ -8,49 +8,53 @@ Repository-wide work items. State as of 2026-05-15 — see [INDEX.md](INDEX.md) 
 
 Full landscape scan of Japanese cybersecurity/data-protection law, government guidelines, and certification schemes. Existing coverage before this pass: APPI (regulation, full article extraction done in PR #16 but README stale), FISC Security Guidelines / JIS Q-series / Digital Agency My Number / JCB Data Security Program / JPX-JSCC (control, all thin SecID-only stubs, no DataSets content). Everything else below is net-new.
 
-**In progress this pass** (see SOURCES.md "Japan" section for source URLs):
+**Batch 1** (see SOURCES.md "Japan" section for source URLs):
 - [x] ~~**ISMAP** (Information system Security Management and Assessment Program)~~ — done 2026-07-16: Control Criteria (2022-04-01 English reference translation) extracted, 263 control-level rows across governance/management/controls tiers; license unresolved (see below); ISMAP-LIU (Low-Impact Use) variant and the JS-rendered Attached Tables 1-8 (incl. SP800-53 crosswalk) still TODO
-- [ ] **APPI** — expand: fix stale README (extraction already exists, 73 articles), quality-check article/title/content split, add article-level SecID subpaths
+- [x] ~~**APPI**~~ — done 2026-07-16: fixed stale README, fixed a title/content misalignment bug in the extraction (73 -> 81 of 88 articles recovered), added article-level SecID subpaths (`#art-N`)
 - [x] ~~**Basic Act on Cybersecurity (BAC)** + **NISC/NCO** governance structure~~ — partial, 2026-07-16: SecID entries added (`regulation/cyber.go.jp/basic-act-cybersecurity`, `entity/cyber.go.jp` for NCO/NISC) and a DataSets metadata-only stub (`regulation/cyber.go.jp/basic-act-cybersecurity/`), but **full article text could not be acquired** — the official translation (japaneselawtranslation.go.jp) returns HTTP 403 to curl, WebFetch, and a real Playwright browser session (looks like a network/WAF-level block, not JS-rendering). Retry from a Japan-based network path, or find a mirror.
 - [x] ~~**FISC Security Guidelines**~~ — checked 2026-07-16: confirmed members-only/paid (13th edition, Nov 2025), no free full text available. Added a metadata-only stub (`control/fisc.or.jp/security-guidelines/`) citing an unverified third-party (Open Security Architecture) category mapping, and deepened the SecID stub with 3 low-confidence category match_nodes. Full ingestion would require a FISC membership/purchase.
 
-**Primary legislation (regulation type), not yet ingested:**
-- [ ] Act on Prohibition of Unauthorised Computer Access (UCAL)
-- [ ] Telecommunications Business Act (TBA) — secrecy of communications provisions
-- [ ] Act on the Use of Numbers to Identify a Specific Individual (My Number Act) — distinct from APPI; current SecID stub under digital.go.jp only covers the card, not the Act
-- [ ] Active Cyber Defense Act / Cyber Response Capabilities Enhancement Act (enacted May 2025, most provisions effective Oct 1 2026)
-- [ ] Act on the Protection and Use of Critical Economic Security Information (security clearance system, effective May 2025)
-- [ ] Economic Security Promotion Act (critical infrastructure operator designation)
-- [ ] Specified Secret Protection Act
-- [ ] Unfair Competition Prevention Act (trade secret protection)
-- [ ] Payment Services Act
-- [ ] Installment Sales Act (credit card data protection provisions)
-- [ ] Act on Prevention of Damage Caused by Unauthorized Acts Against Important Computers (effective Oct 1 2026)
+**Batch 2 (added 2026-07-16)** — SecID coverage complete for all items below (PR CloudSecurityAlliance/SecID#116); DataSets full-text extraction still TODO for all of them (see per-item access notes — most are blocked to automated fetch, image-heavy PDFs, or Japanese-only, so extraction will need either a working fetch path or manual PDF/OCR handling rather than the acquisition scripts used for ISMAP/APPI):
 
-**Government/sector guidelines (control type), not yet ingested:**
-- [ ] Common Standards on Cybersecurity Measures of Governmental Entities (NISC/CSHQ — baseline for government agencies, analogous to a FedRAMP moderate baseline)
-- [ ] Cybersecurity Management Guidelines / CMG (METI + IPA — CISO-level guidance, "3 principles" + "10 important items")
-- [ ] Guidelines on Cybersecurity for the Financial Sector (FSA, effective Oct 2024 — 176 response items across governance/risk/defense/detection/third-party risk)
-- [ ] Comprehensive Guidelines for the Supervision of Major Banks (FSA)
-- [ ] PPC Guidelines regarding the APPI (PPC GL) — implementing guidance with the concrete security-control detail APPI itself lacks
-- [ ] Guidelines on Safety Management of Medical Information Systems (MHLW)
-- [ ] Guidelines on Safety Management for Providers of Information Systems/Services Handling Medical Information (METI/MIC)
-- [ ] Safety Guidelines for Ensuring Information Security — Air Transport / Airport / Railway / Logistics sectors (MLIT, 4 separate documents)
-- [ ] Information Security Measures Guidelines for SMEs (IPA — "5 To-dos" + SECURITY ACTION self-declaration program)
-- [ ] Guidelines on Preventing Insider Data Breaches (IPA)
-- [ ] AI Business Guidelines (MIC/METI, April 2024) + Draft Guidelines on AI Security (MIC, Dec 2025)
-- [ ] Cybersecurity Policy for Critical Infrastructure Protection (NISC — defines 15 critical sectors)
-- [ ] Supply chain: "Toward Building Partnerships with Business Partners to Enhance Cybersecurity Across the Entire Supply Chain" (METI/JFTC) + Security Measures Evaluation System for Supply Chain Strengthening (★3–★5 tiered assessment, METI, ops planned H2 2026)
+**Primary legislation (regulation type) — SecID done, DataSets full-text TODO:**
+- [x] Act on Prohibition of Unauthorised Computer Access (UCAL) — `secid:regulation/cas.go.jp/ucal`. japaneselawtranslation.go.jp blocked (403).
+- [x] Telecommunications Business Act (TBA, secrecy of communications) — `secid:regulation/soumu.go.jp/telecommunications-business-act`. Official translation blocked (403); MIC-hosted alternate PDF not fetch-tested.
+- [x] My Number Act — `secid:regulation/digital.go.jp/my-number-act`. Official translation blocked (403); PPC-hosted PDF downloads but resisted text extraction.
+- [x] Active Cyber Defense Act (= Act on Prevention of Damage Caused by Unauthorized Acts Against Important Computers, Act No. 42 of 2025) — `secid:regulation/cyber.go.jp/active-cyber-defense-act`. No official English translation exists yet (too recent).
+- [x] Act on the Protection and Use of Critical Economic Security Information — `secid:regulation/cao.go.jp/economic-security-information`. Only a government English *outline* exists (not full text), and it's blocked (403).
+- [x] Economic Security Promotion Act — `secid:regulation/cao.go.jp/economic-security-promotion`. Official translation blocked (403); Cabinet Office English overview PDF not fetch-tested.
+- [x] Specified Secret Protection Act — `secid:regulation/cas.go.jp/specified-secret-protection`. Official translation blocked (403); Cabinet Secretariat's 5-page overview PDF fetched fine (not full text).
+- [x] Unfair Competition Prevention Act — `secid:regulation/meti.go.jp/unfair-competition-prevention`. Official translation blocked (403); WIPO Lex mirror fetched but not text-extractable.
+- [x] Payment Services Act — `secid:regulation/fsa.go.jp/payment-services-act`. Official translation blocked (403).
+- [x] Installment Sales Act — `secid:regulation/meti.go.jp/installment-sales`. Official translation blocked (403).
 
-**Certification / assessment schemes (control type), not yet ingested:**
-- [ ] JC-STAR (Japan Cyber-Security Technical Assessment Requirements) — IoT product evaluation, IPA
-- [ ] JISEC (Japan IT Security Evaluation and Certification Scheme) — Common Criteria/ISO 15408 based, IPA/NITE
-- [ ] CRYPTREC — cryptographic algorithm evaluation, publishes the CRYPTREC Ciphers List
-- [ ] PrivacyMark (P Mark) — JIPDEC, based on JIS Q 15001, roughly Japan's ISO 27001-equivalent trust mark
+**Government/sector guidelines (control type) — SecID done, DataSets full-text TODO:**
+- [x] Common Standards on Cybersecurity Measures of Governmental Entities — `secid:control/cyber.go.jp/common-standards`. Freely available English PDF, GPKI-signed (resists automated text extraction, opens fine in a real reader).
+- [x] Cybersecurity Management Guidelines / CMG — `secid:control/meti.go.jp/cybersecurity-management-guidelines`. English PDF exists; meti.go.jp blocked (403) to automated fetch.
+- [x] Guidelines on Cybersecurity for the Financial Sector — `secid:control/fsa.go.jp/cybersecurity-guidelines-financial-sector`. Official English PDF exists, fetched successfully; text extraction failed (binary/compressed stream) — retry with a proper PDF tool.
+- [x] Comprehensive Guidelines for the Supervision of Major Banks — `secid:control/fsa.go.jp/supervision-major-banks`. Official "preliminary version" English PDF; same extraction issue as above.
+- [x] PPC Guidelines regarding the APPI — `secid:control/ppc.go.jp/appi-guidelines`. **No official English translation exists** for this specific (General Rules) edition.
+- [x] Guidelines on Safety Management of Medical Information Systems (MHLW) — `secid:control/mhlw.go.jp/medical-info-systems-safety`. Japanese full text freely accessible (5-volume v7.0, June 2026); MHLW's English site section blocked (403), no English full text found.
+- [x] Guidelines on Safety Management for Providers of Information Systems/Services Handling Medical Information (METI/MIC) — `secid:control/mhlw.go.jp/medical-info-provider-safety`. meti.go.jp blocked (403); Japanese-only.
+- [x] Safety Guidelines for Ensuring Information Security — **6 separate MLIT documents, not 4**: Air Transport (`secid:control/mlit.go.jp/aviation-security`), Airport (`.../airport-security`), Railway (`.../railway-security`), and Logistics splits into 3 independent sub-guidelines — Truck/Motor Freight (`.../logistics-truck-freight-security`), Warehousing (`.../logistics-warehousing-security`), Maritime Shipping (`.../logistics-maritime-security`). All PDFs fetch successfully but are image/scan-heavy (need OCR); Japanese-only, no English versions found. MLIT's master index also lists Water Supply and Ports guidelines not yet added — follow-up.
+- [x] Information Security Measures Guidelines for SMEs (IPA) — `secid:control/ipa.go.jp/sme-security-guidelines`. Freely accessible; English translation is v3.1, behind the current Japanese v4.0 (March 2026).
+- [x] Guidelines on Preventing Insider Data Breaches (IPA) — `secid:control/ipa.go.jp/insider-breach-guidelines`. Freely accessible; English translation is v3.0, behind the current Japanese v5 (April 2022).
+- [x] AI Business Guidelines (METI/MIC) — `secid:control/meti.go.jp/ai-business-guidelines`. English PDF exists (Ver 1.1); meti.go.jp blocked (403).
+- [x] AI Security Guideline (MIC) — `secid:control/soumu.go.jp/ai-security-guideline`. **Finalized**, not still draft (draft framing is outdated — finalized after public comment closed Jan 2026). Japanese-only, no English translation found.
+- [x] Cybersecurity Policy for Critical Infrastructure Protection (NISC) — `secid:control/cyber.go.jp/cip-policy`. Freely available English PDF, same GPKI-signing extraction issue as the Common Standards above. Designates ~14-15 sectors (secondary sources vary slightly on the exact count).
+- [x] Supply chain: partnership doc — `secid:control/meti.go.jp/supply-chain-partnership` (METI+JFTC, Japanese-only, meti.go.jp mirror blocked, JFTC hosting not confirmed blocked) + SCS Evaluation System — `secid:control/meti.go.jp/scs-evaluation-system` (status update: finalized construction policy published March 2026, not yet operational — full launch now targeted ~FY2026 end / early FY2027, later than the "H2 2026" originally tracked here).
 
-**Lower priority / needs a decision:**
-- [ ] J-CSIP (Initiative for Cybersecurity Information Sharing Partnership of Japan, IPA) — operational info-sharing, may be reference-only
-- [ ] Sector-specific narrower items (Medical Care Act cybersecurity enforcement order, Subcontract/Proper Transactions Act) — likely lower standalone value, may fold into parent guideline entries as notes
+**Certification / assessment schemes (control type) — SecID done, DataSets full-text TODO:**
+- [x] JC-STAR — `secid:control/ipa.go.jp/jc-star`. Freely accessible, full English documentation.
+- [x] JISEC — `secid:control/ipa.go.jp/jisec`. Freely accessible, full English documentation.
+- [x] CRYPTREC — `secid:control/cryptrec.go.jp/ciphers-list`. Freely accessible (use the `www.` subdomain — bare `cryptrec.go.jp` has a TLS cert mismatch).
+- [x] PrivacyMark (P Mark) — `secid:control/jipdec.or.jp/privacymark`. Freely accessible, full English documentation.
+
+**Lower priority — SecID done:**
+- [x] J-CSIP — `secid:control/ipa.go.jp/j-csip`. English documentation is thin (one overview page only); detailed annual reports/SIG lists are Japanese-only.
+- [ ] Sector-specific narrower items (Medical Care Act cybersecurity enforcement order, Subcontract/Proper Transactions Act) — still not folded in; likely lower standalone value.
+
+**Next step for this whole batch:** most of the "blocked to automated fetch" findings above look like bot/WAF protection rather than genuine unavailability (pages are indexed by search engines and some fetched fine via one path but not another) — worth a dedicated pass with a Japan-based network path or a properly configured Playwright session before assuming any of these need a different acquisition strategy entirely. The GPKI-signed and image-heavy PDFs (Common Standards, CIP Policy, all 6 MLIT guidelines, all FSA guidelines) just need a real PDF/OCR tool rather than plain-text fetch.
 
 ### Structured parsing for NIST markdown extractions
 
