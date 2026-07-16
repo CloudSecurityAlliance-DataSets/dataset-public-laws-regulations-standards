@@ -39,3 +39,39 @@ catch-all for orphaned source URLs.
 ## OWASP AI Exchange
 
 - https://owaspai.org/
+
+## Japan — landscape survey (2026-07-16)
+
+Sources used to compile the Japan catalog in TODO.md. Per-document links move into `links` blocks as each entry is ingested.
+
+- Legal overview: https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/japan
+- Legal overview: https://practiceguides.chambers.com/practice-guides/cybersecurity-2026/japan
+- Legal overview (data protection): https://practiceguides.chambers.com/practice-guides/data-protection-privacy-2026/japan
+- DLA Piper Data Protection Laws of the World — Japan: https://www.dlapiperdataprotection.com/index.html?t=law&c=JP
+
+### ISMAP
+- Portal: https://www.ismap.go.jp/
+- Digital Agency overview: https://www.digital.go.jp/en/policies/security/ismap-liu
+- Digital Agency cloud service list updates: https://www.digital.go.jp/en/news/7a38a22f-cc9f-4c39-a0c0-1aa1f0f98d63
+
+### Basic Act on Cybersecurity / NISC / NCO
+- NISC (legacy site, being succeeded by NCO as of July 2025): https://www.nisc.go.jp/eng/
+- Common Standards on Cybersecurity Measures of Governmental Entities — issued under BAC Art. 26(1) by CSHQ + NCO
+
+### FSA (financial sector)
+- Guidelines on Cybersecurity for the Financial Sector (English PDF): https://www.fsa.go.jp/common/law/cybersecurity_guideline_en.pdf
+- FSA cybersecurity policy hub: https://www.fsa.go.jp/en/policy/cybersecurity/index.html
+- FSA laws & regulations index: https://www.fsa.go.jp/en/laws_regulations/index.html
+
+### IPA (Information-technology Promotion Agency)
+- IPA security hub: https://www.ipa.go.jp/en/security/index.html
+- SME security guidelines: https://www.ipa.go.jp/en/about/activities/security-action.html
+- JISEC (Common Criteria scheme): https://www.ipa.go.jp/en/security/jisec/index.html
+- CRYPTREC (crypto evaluation): https://www.ipa.go.jp/en/security/crypto-evaluation/index.html
+
+### JIPDEC / PrivacyMark
+- https://en.wikipedia.org/wiki/Japan_Institute_for_Promotion_of_Digital_Economy_and_Community
+- PrivacyMark background: https://hstalks.com/article/7969/japans-privacymark-system-as-a-good-illustration-o/
+
+### FISC (financial industry security guidelines)
+- Center for Financial Industry Information Systems (existing SecID stub: `fisc.or.jp`) — members-only guideline text; public-availability TBD, check during ingestion
