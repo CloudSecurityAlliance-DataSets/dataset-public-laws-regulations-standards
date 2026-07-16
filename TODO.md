@@ -9,7 +9,7 @@ Repository-wide work items. State as of 2026-05-15 — see [INDEX.md](INDEX.md) 
 Full landscape scan of Japanese cybersecurity/data-protection law, government guidelines, and certification schemes. Existing coverage before this pass: APPI (regulation, full article extraction done in PR #16 but README stale), FISC Security Guidelines / JIS Q-series / Digital Agency My Number / JCB Data Security Program / JPX-JSCC (control, all thin SecID-only stubs, no DataSets content). Everything else below is net-new.
 
 **In progress this pass** (see SOURCES.md "Japan" section for source URLs):
-- [ ] **ISMAP** (Information system Security Management and Assessment Program) — Digital Agency/IPA/NISC cloud security assessment program, incl. ISMAP-LIU (Low-Impact Use)
+- [x] ~~**ISMAP** (Information system Security Management and Assessment Program)~~ — done 2026-07-16: Control Criteria (2022-04-01 English reference translation) extracted, 263 control-level rows across governance/management/controls tiers; license unresolved (see below); ISMAP-LIU (Low-Impact Use) variant and the JS-rendered Attached Tables 1-8 (incl. SP800-53 crosswalk) still TODO
 - [ ] **APPI** — expand: fix stale README (extraction already exists, 73 articles), quality-check article/title/content split, add article-level SecID subpaths
 - [ ] **Basic Act on Cybersecurity (BAC)** + **NISC/NCO** governance structure (NISC renamed to National Cybersecurity Office, July 2025)
 - [ ] **FISC Security Guidelines** — expand SecID stub; check what's publicly available (members-only/paid framework)
@@ -114,6 +114,7 @@ License research complete (PR #15). These have explicit open licenses verified �
 
 ### Unresolved license terms (need direct contact or PDF inspection)
 
+- [ ] **ISMAP Control Criteria** (`ismap.go.jp`) — ingested 2026-07-16 (`control/ismap.go.jp/control-criteria/2022-04-01/`), no terms-of-use/copyright statement found on the portal; confirm with the ISMAP Secretariat or by inspecting the site footer before treating as publicly redistributable
 - [ ] **STET PSD2 API** (`stet.eu`) — inspect spec PDF footer or contact STET
 - [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`)
 - [ ] **OIX Trust Framework methodology** (`openidentityexchange.org`)
