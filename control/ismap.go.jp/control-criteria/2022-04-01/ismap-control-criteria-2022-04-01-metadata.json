@@ -1,0 +1,66 @@
+{
+  "secid": "secid:control/ismap.go.jp/control-criteria@2022-04-01",
+  "name": "Control Criteria of ISMAP",
+  "acronym": "ISMAP Control Criteria",
+  "alternate_names": [
+    "ISMAP管理基準",
+    "ISMAP Management Standard (informal)",
+    "Information system Security Management and Assessment Program — Control Criteria"
+  ],
+  "version": "2022-04-01",
+  "publication_id": "ISMAP-CSM-2022-04-01",
+  "owner": "ISMAP Steering Committee (jointly operated by NISC, Digital Agency, Ministry of Internal Affairs and Communications (MIC), and Ministry of Economy, Trade and Industry (METI))",
+  "type": "Standard",
+  "description": "ISMAP (Information system Security Management and Assessment Program) is the Japanese government's security assessment and registration program for cloud services procured by government agencies. The Control Criteria document defines the security measures a cloud service provider must implement to register on the ISMAP Cloud Service List. It is structured in three tiers: Governance criteria (Chapter 3, based on JIS Q 27014:2015 / ISO/IEC 27014:2013), Management criteria (Chapter 4, based on JIS Q 27001:2014 / ISO/IEC 27001:2013), and Controls criteria (Chapter 5, organized using the same 14-domain clause numbering as JIS Q 27002:2014 / ISO/IEC 27002:2013, domains 5 through 18). Cloud-specific requirements derived from ISO/IEC 27017:2015 (the cloud-services extension to 27002) are layered on top of the base ISO structure and marked with '.P', '.B', or '.PB' suffixes on the control ID (Provider-implemented, Baseline, or both). The Controls criteria chapter also references NIST SP 800-53 rev.4 and Japan's Common Standards for Information Security Measures for Government Agencies and Related Agencies as additional sources, narrowing in items considered 'moderate' in FedRAMP but absent from ISO/IEC 27001. Because most base-control text is defined by cross-reference to the copyrighted ISO/IEC standards rather than reproduced, this extraction captures the full ID hierarchy, category titles, control objectives, and the original text ISMAP added for cloud-specific sub-controls — not the underlying ISO/IEC 27002/27017 control text itself.",
+  "relationToCloudSecurity": "ISMAP is Japan's direct analogue to FedRAMP (US) or C5 (Germany) — a government-run cloud security assessment and registration program that government agencies are required, in principle, to procure from. AWS, Google Cloud, Microsoft Azure, and other major CSPs maintain ISMAP registration as a precondition for selling to Japanese government customers. ISMAP-LIU (Low-Impact-Use, introduced 2022) is a streamlined variant for lower-risk SaaS.",
+  "relationToAISecurity": "The Control Criteria document itself predates and does not address AI-specific risks; AI security in the Japanese government cloud context is handled separately via MIC/METI's AI Business Guidelines and draft AI Security Guidelines (see TODO.md Japan catalog).",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Unclear",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "license_text_url": "",
+    "notes": "No explicit terms-of-use or copyright license was found on ismap.go.jp for this document during acquisition (2026-07-16). The document itself states the English text is 'reference material' only and the Japanese original governs interpretation, but says nothing about redistribution/derivative rights. Needs manual confirmation (check ismap.go.jp footer/terms page, or contact the ISMAP Secretariat) before this structured extraction is redistributed beyond this repo. Flagged in TODO.md alongside the repo's other unresolved-license entries. Until confirmed, treat the CSV/JSON here as internal working data."
+  },
+  "links": {
+    "source": "https://www.ismap.go.jp/",
+    "textUsed": "https://www.ismap.go.jp/csm/sys_attachment.do?sys_id=bb71912b1b985910f18c65fa234bcb9f",
+    "japaneseOriginal": "https://www.ismap.go.jp/csm/sys_attachment.do?sys_id=bd7e3e2ac3755250076ededb050131ee",
+    "digitalAgencyOverview": "https://www.digital.go.jp/en/policies/security/ismap-liu",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-06-03",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": "Later revisions exist (e.g. a July 2026 update was announced adding 4 new items); this extraction covers the 2022-04-01 English reference translation, the most recent English version found during acquisition.",
+    "retiredFromActiveUse": null,
+    "notes": "The underlying Japanese-language 管理基準 has been revised multiple times (2020-08, 2020-12, 2021-03, 2021-06, 2022-04, and at least one 2026-07 update per NISC/Digital Agency/MIC/METI announcement). Only the 2022-04-01 revision has a published English reference translation as of this extraction."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "pdftotext -layout (poppler-utils) + custom Python regex parser (parse_ismap.py + extract_ismap.py)",
+    "tool_version": "poppler pdftotext (Homebrew, version unpinned)",
+    "extraction_host": "local",
+    "flags": ["-layout"],
+    "force_ocr": false,
+    "notes": "Source PDF was encrypted (owner-password restrictions on copy/print, no user password) — decrypted with `qpdf --decrypt` before text extraction. parse_ismap.py performs an ID-anchored parse (chapter/category/control based on numeric ID depth, e.g. '9.2.1', '9.2.1.6.PB') over the narrative Chapter 3-5 text. extract_ismap.py assembles the flat 263-row control-level dataset (domain/category/control_objective/control_id/control_text) from that parse, applying a hardcoded ISO/IEC 27002:2013 domain-title map for chapters 5-18 (the raw text ran chapter headers into the following narrative paragraph, defeating simple truncation heuristics). The separate 'Attached tables' (1-8) referenced by the document — including Attached Table 3 (Controls criteria in full tabular form) and Attached Tables 6/7 (SP800-53 crosswalk) — are NOT included; they are served from the JS-rendered (ServiceNow) ismap.go.jp portal and were not retrievable via plain HTTP fetch. A future pass with a JS-capable fetch (Playwright/Chrome DevTools MCP) could add them."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction",
+      "tool": "pdftotext + parse_ismap.py + extract_ismap.py"
+    }
+  ],
+  "scope": {
+    "total_control_level_rows": 263,
+    "governance_criteria_rows": 24,
+    "management_criteria_rows": 87,
+    "controls_criteria_rows": 152,
+    "cloud_specific_subcontrols": 38,
+    "domains_chapter5": 14,
+    "notes": "Row count is at the leaf control level (depth 3-4 IDs like '9.2.1' or '9.2.1.6.PB'); category (depth-2, e.g. '9.2') and domain (depth-1, e.g. '9') levels are carried as columns, not separate rows."
+  }
+}
