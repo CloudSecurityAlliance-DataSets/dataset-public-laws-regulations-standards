@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/mhlw.go.jp/medical-info-systems-safety",
+  "name": "Guidelines on Safety Management of Medical Information Systems",
+  "acronym": "MHLW Medical Info Systems Safety Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Ministry of Health, Labour and Welfare, Japan (MHLW)",
+  "type": "Standard",
+  "description": "Version 7.0, revised June 2026. Published as 5 companion volumes: Overview, Management, Planning & Administration, System Operations, Maintenance Outsourcing. Only the Overview volume is acquired here.",
+  "relationToCloudSecurity": "See registry/control/mhlw.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.mhlw.go.jp/content/10808000/001716290.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Only the Overview volume (of 5) was downloaded and extracted, given time constraints -- Japanese only, no English version exists. The source listing page (mhlw-medical-page-listing.txt) records the PDF URLs for all 5 volumes for a future pass."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "1 of 5 volumes acquired (Overview). Management, Planning & Administration, System Operations, and Maintenance Outsourcing volumes still TODO -- URLs recorded."
+  },
+  "notes": ""
+}

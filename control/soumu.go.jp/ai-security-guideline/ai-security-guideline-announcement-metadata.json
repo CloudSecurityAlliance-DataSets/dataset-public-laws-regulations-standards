@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/soumu.go.jp/ai-security-guideline",
+  "name": "Guideline on Technical Measures for Ensuring AI Security",
+  "acronym": "MIC AI Security Guideline",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Ministry of Internal Affairs and Communications, Japan (MIC)",
+  "type": "Standard",
+  "description": "Finalized (not still draft) after public comment closed January 29, 2026 (52 comments received). Focuses on technical measures against AI-specific threats: unauthorized/malicious output generation, system malfunction, and confidential-information leakage via AI system manipulation.",
+  "relationToCloudSecurity": "See registry/control/soumu.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Only the announcement page confirming finalization was acquired (Japanese; Shift-JIS encoded, re-decoded correctly after an initial garbled attempt). Direct links to the actual guideline body PDF were not found in the page's static HTML (likely constructed via JS or a search portal) -- the guideline's substantive technical content is not yet acquired."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Announcement page only. Guideline body PDF not yet located/acquired."
+  },
+  "notes": ""
+}

@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/ipa.go.jp/jc-star",
+  "name": "Japan Cyber-Security Technical Assessment Requirements",
+  "acronym": "JC-STAR",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Information-technology Promotion Agency, Japan (IPA)",
+  "type": "Standard",
+  "description": "STAR-1 Conformance Requirements and Assessment Methods, December 2024. IoT product security labeling scheme with 4 conformance levels (STAR-1 through STAR-4); this document covers the baseline self-declared STAR-1 tier.",
+  "relationToCloudSecurity": "See registry/control/ipa.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+  },
+  "links": {
+    "source": "https://www.ipa.go.jp/en/security/jc-star/tekigou-kizyun-guide/label1/s6ckaf000000ggej-att/STAR-1_Conformance_Requirements_and_Assessment_Methods.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired. PDF was encrypted (decrypted with qpdf), then pdftotext -layout extracted cleanly (34 pages). Also captured the program overview page."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "STAR-1 tier fully acquired. STAR-2/3/4 requirement documents not yet acquired."
+  },
+  "notes": ""
+}

@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/jipdec.or.jp/privacymark",
+  "name": "PrivacyMark System",
+  "acronym": "PrivacyMark",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Japan Institute for Promotion of Digital Economy and Community (JIPDEC)",
+  "type": "Standard",
+  "description": "Operating since April 1, 1998. Based on JIS Q 15001:2017 (Personal Information Protection Management System - Requirements). Certification issued via JIPDEC or 19 designated assessment bodies; ~17,700+ certified entities as of mid-2026.",
+  "relationToCloudSecurity": "See registry/control/jipdec.or.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+  },
+  "links": {
+    "source": "https://privacymark.org/about/outline_and_purpose.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Both the JIPDEC and PrivacyMark-branded English overview pages were captured in full as clean text."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Web page content fully captured; no separate downloadable standard document (JIS Q 15001 itself is a paid JSA standard, out of scope here)."
+  },
+  "notes": ""
+}

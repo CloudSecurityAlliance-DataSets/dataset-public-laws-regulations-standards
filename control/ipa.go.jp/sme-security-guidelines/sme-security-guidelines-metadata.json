@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/ipa.go.jp/sme-security-guidelines",
+  "name": "Information Security Measures Guidelines for Small and Medium-sized Enterprises",
+  "acronym": "IPA SME Security Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Information-technology Promotion Agency, Japan (IPA)",
+  "type": "Standard",
+  "description": "English version 3.1 (current Japanese edition is v4.0, March 2026 -- English not yet updated). Main guideline body plus Appendix 1 (\"5 To-dos\") and Appendix 2 (\"5-Minute Self-Assessment\"), underpinning the SECURITY ACTION self-declaration program.",
+  "relationToCloudSecurity": "See registry/control/ipa.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+  },
+  "links": {
+    "source": "https://www.ipa.go.jp/en/about/activities/gg62ps000000103j-att/Information_Security_Measures_Guidelines_for_Small_and_Medium-sized_Enterprises_Version_3-1.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired. PDF was encrypted (decrypted with qpdf), then pdftotext -layout extracted cleanly."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired, but an older English version than the current Japanese edition."
+  },
+  "notes": ""
+}

@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/ipa.go.jp/j-csip",
+  "name": "Initiative for Cyber Security Information Sharing Partnership of Japan",
+  "acronym": "J-CSIP",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Information-technology Promotion Agency, Japan (IPA)",
+  "type": "Standard",
+  "description": "Founded October 25, 2011. Public-private cyber threat-intelligence sharing partnership centered on critical-infrastructure equipment manufacturers; run alongside the related J-CRAT rescue/advice program.",
+  "relationToCloudSecurity": "See registry/control/ipa.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+  },
+  "links": {
+    "source": "https://www.ipa.go.jp/en/about/activities/jcsip-jcrat.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "The single English-language overview page was captured in full (this is genuinely all the English documentation that exists -- detailed annual reports and SIG lists are Japanese-only and were not pursued further given time constraints)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Complete capture of the (thin) English documentation. Japanese-only annual reports/SIG lists not acquired."
+  },
+  "notes": ""
+}
