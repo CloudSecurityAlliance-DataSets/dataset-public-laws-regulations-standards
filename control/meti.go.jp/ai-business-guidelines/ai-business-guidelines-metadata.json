@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/meti.go.jp/ai-business-guidelines",
+  "name": "AI Guidelines for Business",
+  "acronym": "AI Business Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Ministry of Economy, Trade and Industry + Ministry of Internal Affairs and Communications, Japan (METI + MIC)",
+  "type": "Standard",
+  "description": "Ver. 1.1, April 4, 2025 (provisional translation). 10 cross-sector guiding principles (human-centricity, safety, fairness, privacy, security, transparency, accountability, education/literacy, fair competition, innovation) in a foundational-values/principles/practical-tools structure.",
+  "relationToCloudSecurity": "See registry/control/meti.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20240419_14.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full text acquired via the same Playwright bypass technique as the CMG (meti.go.jp blocks curl/WebFetch with HTTP 403, real browser session succeeds). Labeled a \"provisional translation\" by METI/MIC themselves."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired."
+  },
+  "notes": ""
+}

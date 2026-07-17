@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/soumu.go.jp/telecommunications-business-act",
+  "name": "Telecommunications Business Act",
+  "acronym": "TBA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Ministry of Internal Affairs and Communications, Japan (MIC)",
+  "type": "Regulation",
+  "description": "Act No. 86 of 1984. Full text acquired covers Chapter I General Provisions (incl. Art. 4 secrecy-of-communications guarantee) through Chapter on Universal Telecommunications Service Support, ~130 pages / full article structure.",
+  "relationToCloudSecurity": "See registry/regulation/soumu.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Law-Excluded-From-Copyright",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "notes": "Primary legislation -- excluded from copyright under Japan's Copyright Act Article 13, same basis as APPI and the My Number Act."
+  },
+  "links": {
+    "source": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/Resources/laws/pdf/090204_2.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "MIC's own alternate English PDF (not the blocked japaneselawtranslation.go.jp copy) fetched and extracted cleanly. CAVEAT: this translation's own header states \"Latest revision: Act No. 136 of December 28, 2007\" -- the Act has been heavily amended since (research flagged 2022/2023 cookie-consent-style amendments), so this text is an OLDER revision, not current law. Useful for structure/baseline text but article numbering and content may have since changed."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired, but of an outdated (2007) revision. Current-revision re-acquisition still needed."
+  },
+  "notes": ""
+}

@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/cryptrec.go.jp/ciphers-list",
+  "name": "CRYPTREC Ciphers List",
+  "acronym": "CRYPTREC Ciphers List",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Digital Agency + Ministry of Internal Affairs and Communications + Ministry of Economy, Trade and Industry, Japan (CRYPTREC)",
+  "type": "Standard",
+  "description": "CRYPTREC LS-0001-2022R2, last updated March 30, 2026. Three tiers: e-Government Recommended Ciphers List (public-key: DSA, ECDSA, EdDSA, RSA-PSS, RSASSA-PKCS1-v1_5, RSA-OAEP, DH, ECDH; symmetric: AES, Camellia, KCipher-2; hash: SHA-256/384/512, SHA3 family, SHAKE128/256), Candidate Recommended Ciphers List, and Monitored Ciphers List.",
+  "relationToCloudSecurity": "See registry/control/cryptrec.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.cryptrec.go.jp/list/cryptrec-ls-0001-2022r2.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full text acquired (Japanese; only a Japanese-language PDF exists for the actual ciphers list, despite cryptrec.go.jp/en/ having English-language surrounding pages). PDF was encrypted (decrypted with qpdf), then pdftotext -layout extracted cleanly. IMPORTANT: cipher/algorithm names themselves are written in Latin script even within the Japanese document and are fully readable/extractable (e.g. \"AES\", \"RSA-PSS\", \"SHA-256\") -- genuinely useful data even without translating the surrounding Japanese prose."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired (Japanese document; English surrounding context pages also captured)."
+  },
+  "notes": ""
+}

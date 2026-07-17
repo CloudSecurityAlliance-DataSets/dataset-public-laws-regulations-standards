@@ -1,0 +1,57 @@
+{
+  "secid": "secid:regulation/digital.go.jp/my-number-act",
+  "name": "Act on the Use of Numbers to Identify a Specific Individual in Administrative Procedures",
+  "acronym": "My Number Act",
+  "alternate_names": ["Numbers Use Act"],
+  "version": "",
+  "publication_id": "Act No. 27 of 2013",
+  "owner": "Digital Agency / Personal Information Protection Commission, Japan",
+  "type": "Regulation",
+  "description": "Japan's national ID-number law, effective January 2016. Establishes the Individual Number (\"My Number\") and Corporate Number systems and a dedicated data-protection regime for \"Specific Personal Information\" layered on top of APPI (secid:regulation/ppc.go.jp/appi). Chapters: I General Provisions, II Individual Number, III Individual Number Card, IV Provision of Specific Personal Information, V Specific Personal Information Protection, VI Personal Information Protection Commission, plus supplementary provisions.",
+  "relationToCloudSecurity": "Any cloud service handling Japanese national ID numbers or associated \"Specific Personal Information\" (tax, social security, disaster response identifiers) falls under this Act's stricter security-control regime, distinct from and additional to APPI.",
+  "relationToAISecurity": "Not directly addressed; relevant only insofar as AI systems process Specific Personal Information.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Law-Excluded-From-Copyright",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.ppc.go.jp/files/pdf/en3.pdf",
+    "notes": "Primary legislation — excluded from copyright under Japan's Copyright Act Article 13, same basis as APPI."
+  },
+  "links": {
+    "source": "https://www.ppc.go.jp/en/legal/",
+    "textUsed": "https://www.ppc.go.jp/files/pdf/en3.pdf",
+    "officialTranslationDb": "https://www.japaneselawtranslation.go.jp/en/laws/view/2755",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Effective January 2016; amended 2023."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "pdftotext -layout + custom Python regex parser (extract_my_number_act.py, adapted from APPI's extract_appi.py)",
+    "tool_version": "poppler pdftotext",
+    "extraction_host": "local",
+    "flags": ["-layout"],
+    "force_ocr": false,
+    "notes": "PDF (ppc.go.jp/files/pdf/en3.pdf) was unencrypted and extracted cleanly on the first attempt (an earlier session pass via WebFetch had failed to extract text from this same PDF; plain pdftotext succeeded where WebFetch's built-in extraction did not). 76 articles recovered. KNOWN ISSUE: this law has both main-body articles and separately-numbered supplementary provisions (附則) that restart article numbering from 1 — the parser's dedup-by-article-number logic (keep whichever has longer content) can pick the wrong one when both a main-body and a supplementary-provision article share a number. Not yet manually verified article-by-article; 18 of 76 articles have no recovered title (some may be genuinely untitled sub-articles, others may be dedup collisions). Treat as a solid first pass, not a verified-clean extraction."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial structured extraction",
+      "tool": "pdftotext + extract_my_number_act.py"
+    }
+  ],
+  "scope": {
+    "articles_extracted": 76,
+    "missing_titles": 18,
+    "notes": "Known main-body/supplementary-provisions numbering collision — see current_extraction.notes."
+  }
+}

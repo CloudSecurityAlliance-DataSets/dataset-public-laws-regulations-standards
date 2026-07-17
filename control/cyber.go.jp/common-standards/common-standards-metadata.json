@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/cyber.go.jp/common-standards",
+  "name": "Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies",
+  "acronym": "Common Standards",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Cybersecurity Strategic Headquarters / National Cybersecurity Office, Japan",
+  "type": "Standard",
+  "description": "FY2025 (Reiwa 7) edition, revised June 27, 2025. Government-agency cybersecurity baseline issued under Article 26(1) of the Basic Act on Cybersecurity: Chapter 1 General Provisions plus a Basic Framework covering organizational structure, asset/ledger management, risk assessment, incident response systems, and agency-specific standards, including cloud (ISMAP-aligned) controls.",
+  "relationToCloudSecurity": "See registry/control/cyber.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.cyber.go.jp/pdf/policy/general/kijyunr7-en.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired. PDF was GPKI-signed/encrypted (decrypted with qpdf --decrypt) -- an earlier session pass via WebFetch could not extract text from this same PDF; local pdftotext -layout succeeded once decrypted."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired; not yet decomposed into structured per-control JSON/CSV."
+  },
+  "notes": ""
+}

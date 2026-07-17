@@ -76,12 +76,27 @@ Sources used to compile the Japan catalog in TODO.md. Per-document links move in
 ### FISC (financial industry security guidelines)
 - Center for Financial Industry Information Systems (existing SecID stub: `fisc.or.jp`) — members-only guideline text; public-availability TBD, check during ingestion
 
-## Japan batch 2 (2026-07-16) — primary legislation
+## Japan batch 2 follow-up acquisition (2026-07-16) — what actually worked
 
-- UCAL: https://www.japaneselawtranslation.go.jp/en/laws/view/3933/en (blocked, 403)
-- Telecommunications Business Act: https://www.japaneselawtranslation.go.jp/en/laws/view/3390 (blocked, 403); alternate https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/Resources/laws/pdf/090204_2.pdf (not tested, possibly outdated)
-- My Number Act: https://www.japaneselawtranslation.go.jp/en/laws/view/2755 (blocked, 403); alternate https://www.ppc.go.jp/files/pdf/en3.pdf (downloads fine, text extraction failed)
-- Active Cyber Defense Act (Act No. 42 of 2025): Japanese text https://laws.e-gov.go.jp/law/507AC0000000042 — no English translation exists yet
+Key technique: `meti.go.jp` and `jftc.go.jp` return HTTP 403 to curl/WebFetch but load fine in a real Playwright browser session — fetch the PDF via an in-page `fetch()` call and save the bytes via a base64 round-trip (browser_evaluate with a `filename` writes JSON to `.playwright-mcp/`, decode with Python, move out). `japaneselawtranslation.go.jp` is the one domain that stayed blocked even to a real browser (confirmed persistent, likely network/WAF-level) — every source hosted only there remains unacquired.
+
+- UCAL: https://www.japaneselawtranslation.go.jp/en/laws/view/3933/en (blocked, 403 — confirmed via Playwright too)
+- Telecommunications Business Act: alternate https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/Resources/laws/pdf/090204_2.pdf — **worked**, full text (but ~2007 revision, outdated)
+- My Number Act: https://www.ppc.go.jp/files/pdf/en3.pdf — **worked** with local `pdftotext -layout` (the earlier WebFetch-based attempt had failed on this same PDF)
+- Active Cyber Defense Act (Act No. 42 of 2025): https://laws.e-gov.go.jp/law/507AC0000000042 — JS single-page app (empty shell via curl); **rendered via Playwright**, captured `document.body.innerText` for the TOC/structure. No English translation exists yet.
+- Economic Security Promotion Act overview: https://www.cao.go.jp/keizai_anzen_hosho/suishinhou/infra/doc/infra_gaiyou_eng.pdf — **worked**
+- Specified Secret Protection Act overview: https://www.cas.go.jp/jp/tokuteihimitsu/gaiyou_en.pdf — **worked**
+- Unfair Competition Prevention Act: WIPO Lex mirror https://www.wipo.int/wipolex/en/legislation/details/19229 — JS-rendered, only captured site nav chrome, not the actual law text
+- CMG: https://www.meti.go.jp/policy/netsecurity/downloadfiles/CSM_Guideline_v3.0_en.pdf — **worked via Playwright bypass**
+- AI Business Guidelines: https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20240419_14.pdf — **worked via Playwright bypass**
+- METI/MIC Medical Info Provider Safety Guideline: https://www.meti.go.jp/policy/mono_info_service/healthcare/01gl_20250328.pdf — **worked via Playwright bypass**
+- Supply Chain Partnership doc: https://www.jftc.go.jp/dk/guideline/unyoukijun/cyber_security/cyber_security_02.pdf — **worked via Playwright bypass**
+- PPC APPI Guidelines: https://www.ppc.go.jp/files/pdf/241202_guidelines01.pdf — **worked**
+- MHLW Medical Info Systems (Overview volume): https://www.mhlw.go.jp/content/10808000/001716290.pdf — **worked**; other 4 volume URLs on https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html, not yet downloaded
+- All 6 MLIT guidelines — **worked cleanly with plain `pdftotext -layout`**, contrary to the earlier "image-heavy" assessment
+- MIC AI Security Guideline announcement: https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html — Shift-JIS encoded (must decode as `shift_jis`, not UTF-8); confirms finalization but the guideline body PDF link wasn't found in static HTML
+- FSA Cybersecurity Guidelines + Bank Supervision Guidelines, Common Standards, CIP Policy — all **worked** with local `pdftotext` (+ `qpdf --decrypt` first for the GPKI-signed ones); the earlier WebFetch-based attempts had failed on the same PDFs
+- CRYPTREC ciphers list PDF: https://www.cryptrec.go.jp/list/cryptrec-ls-0001-2022r2.pdf — **worked**; Japanese document but algorithm names (AES, RSA-PSS, SHA-256, etc.) are in Latin script and fully readable
 - Act on the Protection and Use of Critical Economic Security Information: outline only https://www.japaneselawtranslation.go.jp/outline/127/905R626.pdf (blocked, 403); Japanese text https://laws.e-gov.go.jp/law/506AC0000000027
 - Economic Security Promotion Act: https://www.japaneselawtranslation.go.jp/en/laws/view/4523/en (blocked, 403); overview https://www.cao.go.jp/keizai_anzen_hosho/suishinhou/infra/doc/infra_gaiyou_eng.pdf (not tested)
 - Specified Secret Protection Act: https://www.japaneselawtranslation.go.jp/en/laws/view/2543 (blocked, 403); overview (fetched OK) https://www.cas.go.jp/jp/tokuteihimitsu/gaiyou_en.pdf

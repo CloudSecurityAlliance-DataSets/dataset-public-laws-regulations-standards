@@ -1,0 +1,32 @@
+CRYPTREC Ciphers List
+The list of ciphers that should be referred to in the procurement for the e-Government system (CRYPTREC Ciphers List)
+The Digital Agency, MIC and the METI are evaluating the cryptographic technology used in e-Government through the CRYPTREC activity, and decided upon
+“The list of ciphers that should be referred to in the procurement for the e-Government system (CRYPTREC Ciphers List)”
+(last revision: March 30,2026, CRYPTREC LS-0001-2022R2,
+first edition: March 30,2023
+).
+The CRYPTREC Ciphers List consists of “e-Government Recommended Ciphers List”, “Candidate Recommended Ciphers List” and “Monitored Ciphers List”.
+In
+“Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies”
+(published by Cybersecurity Strategic Headquarters, June 27, 2025, in Japanese),
+tentative translation version
+, the “e-Government Recommended Ciphers List” is referred as below for information system procurement in governmental organizations.
+This list is based on the “CRYPTREC e-Government Recommended Ciphers List” formulated in March 2013(
+first edition: March 1,2013
+,
+last revision: March 8,2023, CRYPTREC LS-0001-2012R8
+)was revised. And, CRYPTREC Ciphers List published in March 2013 is a revision
+“e-Goverment Recommended Ciphers List”(first edition: Feb. 20,2003)
+.
+Standards for Cryptographic Strength Requirements (Algorithm and Key Length Selection)
+It should be noted that many of the cryptographic techniques on the CRYPTREC Cryptographic List allow multiple key lengths for a single algorithm and that the security strength and efficiency will depend on the key length used.
+            So, CRYPTREC decided upon
+“Standards for Cryptographic Strength Requirements (Algorithm and Key Length Selection)”
+, which specified how to select algorithms and key lengths to achieve appropriate security strength in consideration of the operation period of the information system when using cryptographic techniques listed in the CRYPTREC Ciphers List (First release: March 2022,CRYPTREC LS-0003-2022R1).
+Note that, if a key length is used that does not conform to the provisions of this document regarding the key length to be used, it is NOT considered to be using a cryptographic technique on the e-Government Recommended Ciphers List.
+Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies (Extract)
+Information system security officers shall, based on the “e-Government Recommended Ciphers List” whose security and performance is confirmed by CRYPTREC (the Cryptography Research and Evaluation Committees), establish encryption and digital signature algorithm and key length used on information systems, a safe protocol using them, and operating procedures for methods to operate them.
+[References]
+Common Model of Cybersecurity Measures for Government Agencies and Related Agencies(FY2025), tentative translation version
+Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies(FY2025), tentative translation version
+BACK TO TOP
