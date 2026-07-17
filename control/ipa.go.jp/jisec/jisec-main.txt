@@ -1,0 +1,58 @@
+IT Security Evaluation and Certification
+[JAPANESE]
+Japan Information Technology Security Evaluation and Certification Scheme
+Japan Information Technology Security Evaluation and Certification Scheme ("JISEC") is a scheme under which third-party evaluation facilities evaluate whether IT product security is effective and reliably implemented in accordance with ISO/IEC 15408, the international standard for evaluation criteria for IT security based on CC and the certification provides independent confirmation of the validity of evaluation results by Innovation Platform Agency, Japan ("IPA"; formerly known as Information-technology Promotion Agency, Japan).
+Information
+【Sep 16, 2025】
+JISEC Documentation(CCS-01 and CCM-01) has been revised.
+【Aug 5, 2025】
+Cyprus has joined the CCRA as a Certificate Consuming participant.
+【Jul 10, 2025】
+Bangladesh has joined the CCRA as a Certificate Consuming participant.
+【Jun 18, 2025】
+Ukraine has joined the CCRA as a Certificate Consuming participant.
+CC Portal
+【Mar 31, 2023】
+We have renewed our website.
+The URL of each page has been changed due to the renewal.
+If you have added the link to each page to your browser's "Favorites" or "Bookmarks", please change it to the new URL.
+JISEC-Background
+JISEC-Scheme Overview
+JISEC-Evaluation and Certification[Software]
+JISEC-Evaluation and Certification[Hardware]
+JISEC-Protection Profiles Certification
+JISEC-CC/CEM
+JISEC-Evaluation and Certification Processes
+JISEC-Application
+JISEC-Assurance Continuity
+JISEC-Scheme Documentation
+JISEC-Use of Marks and Notifications
+JISEC-Evaluation Facilities
+JISEC-Policy Evaluation and Certification
+Hardcopy Devices Evaluation and Certification
+JISEC-Reference materials
+CC Supporting Documents related to Hardware Security  Devices
+JISEC-FAQ
+JISEC-Contact
+Change log
+Jul 15, 2026
+C0873 is listed to [Certified Products [Software]].
+Jul 9, 2026
+C0871 and C0872 are listed to [Certified Products [Software]].
+C0862, C0863, C0867 and C0868 are updated to [Certified Products [Software]].
+Jul 3, 2026
+[Products in Evaluation [Software]] is updated.
+Jun 30, 2026
+C0870 is listed to [Certified Products [Software]].
+Jun 24, 2026
+C0869 is listed to [Certified Products [Software]].
+Jun 19, 2026
+C0859 is updated to [JISEC-Protection Profiles].
+Jun 11, 2026
+C0866 is listed to [Certified Products [Software]].
+Jun 9, 2026
+C0867 and 0868 are listed to [Certified Products [Software]].
+Jun 4, 2026
+C0864 and 0865 are updated to [Certified Products [Software]].
+May 26, 2026
+C0862, C0863, C0864 and C0865 are listed to [Certified Products [Software]].

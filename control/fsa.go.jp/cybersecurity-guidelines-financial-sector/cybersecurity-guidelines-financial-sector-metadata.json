@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/fsa.go.jp/cybersecurity-guidelines-financial-sector",
+  "name": "Guidelines on Cybersecurity for the Financial Sector",
+  "acronym": "FSA Cybersecurity Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Financial Services Agency, Japan (FSA)",
+  "type": "Standard",
+  "description": "Effective October 4, 2024 (provisional translation). Three sections: Fundamental Principles, Cybersecurity Management Posture (NIST-CSF-like: governance/identify/protect/detect/respond/recover/third-party risk), and FSA-industry cooperation. Widely reported (unverified against this primary text) to contain ~176 discrete response items.",
+  "relationToCloudSecurity": "See registry/control/fsa.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain. Official FSA-published translation, not third-party -- toward the higher-confidence end of this bucket."
+  },
+  "links": {
+    "source": "https://www.fsa.go.jp/common/law/cybersecurity_guideline_en.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired cleanly -- this PDF was NOT encrypted, unlike the cyber.go.jp documents; a plain pdftotext -layout worked on the first try (an earlier WebFetch-based pass in this session had failed to extract its text)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired; a good candidate for a future structured per-item extraction (numbered response items)."
+  },
+  "notes": ""
+}

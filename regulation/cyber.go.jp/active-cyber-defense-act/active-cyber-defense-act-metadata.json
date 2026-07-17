@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/cyber.go.jp/active-cyber-defense-act",
+  "name": "Act on Prevention of Damage Caused by Unauthorized Acts Against Important Computers",
+  "acronym": "Active Cyber Defense Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Cabinet Secretariat / National Cybersecurity Office (NCO), Japan",
+  "type": "Regulation",
+  "description": "Act No. 42 of Reiwa 7 (2025), Japan's first \"active cyber defense\" law. Authorizes government monitoring/analysis of communications data for threat detection, mandatory incident reporting by critical-infrastructure operators, public-private information-sharing agreements, and government counter-access/neutralization of attacker infrastructure, overseen by a new Cyber Communications Information Management Committee.",
+  "relationToCloudSecurity": "See registry/regulation/cyber.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Law-Excluded-From-Copyright",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "notes": "Primary legislation -- excluded from copyright under Japan's Copyright Act Article 13, same basis as APPI and the My Number Act."
+  },
+  "links": {
+    "source": "https://laws.e-gov.go.jp/law/507AC0000000042",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "No English translation exists yet. Acquired the Japanese table of contents and chapter/article structure (12 chapters, articles through 82+) via a Playwright browser session rendering e-Gov's JS single-page app -- plain curl/WebFetch got only the empty app shell (800 bytes). Full article body text not yet extracted, only the structural TOC."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Structure only (chapter/article TOC); full article text not yet acquired."
+  },
+  "notes": ""
+}

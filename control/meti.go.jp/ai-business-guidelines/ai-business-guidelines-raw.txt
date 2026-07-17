@@ -1,0 +1,2003 @@
+当翻訳は仮訳であり、正確には原文を参照してください。                                        仮訳
+Please refer to the original text for accuracy.
+                                                         Provisional Translation
+
+
+
+
+                AI Guidelines for Business
+                          Ver1.1
+                                         April 4, 2025
+
+
+          Ministry of Internal Affairs and Communications
+             Ministry of Economy, Trade and Industry
+Contents
+Preface ....................................................................................................2
+Part 1 Definitions ........................................................................................9
+Part 2 Society to aim for with AI, and matters each AI business actor works on ............. 11
+  A. Basic philosophies ............................................................................... 11
+  B. Principles ......................................................................................... 12
+  C. Common Guiding Principles .................................................................... 13
+  D. Common Guiding Principles for AI Business actors involved in advanced AI systems .. 24
+  E. Building AI governance .......................................................................... 26
+Part 3 Matters Related to AI Developers ............................................................ 28
+Part 4 Matters Related to AI Providers .............................................................. 33
+Part 5 Matters Related to AI Business Users ........................................................ 36
+
+
+
+
+                                                     1
+Preface
+  Technologies related to AI (Artificial Intelligence) are constantly evolving, opportunities to use
+AI and its various possibilities have been increasing continuously, and AI is being used for making
+industrial innovations and solving social challenges as well. In addition, interactive generative AI
+has recently appeared leading to AI democratization, which has made it easy for many people to
+use AI for various purposes through dialogues. Therefore, companies have been making efforts
+to not only incorporate AI into their business processes but also reconstruct their business models
+themselves based on the values that will be created by AI. Some private individuals have also
+increased their efforts to apply their knowledge to AI and enhance their productivity. Japan has
+been promoting Society 5.0, a concept of a human-centric society in which both economic growth
+and solutions for social challenges are achieved through a system that merges the cyberspace
+and physical space in an advanced way, called a “Cyber-Physical System” (CPS). To embody this
+concept and enable the society to accept AI and use it appropriately, “Social Principles of Human-
+Centric AI” was established in March 2019. Meanwhile, risks have been increasing as the scope of
+use of AI technologies and the users have been increasing. Generative AI, especially, has incurred
+new societal risks that are not carried by conventional AI, such as infringements of intellectual
+property rights and generation and transmission of disinformation or misinformation, leading to
+the diversification and increase of societal risks resulting from AI.
+
+  Against this background, the Guidelines present unified guiding principles in AI governance in
+Japan to promote safe and secure use of AI. It is intended to help people who use AI in various
+businesses to fully recognize AI risks based on international trends and stakeholders’ concerns,
+and to voluntarily take the necessary countermeasures across the entire lifecycle. The Guidelines
+aim to actively and cooperatively develop a framework that achieves both promotion of
+innovation and reduction of risks across the lifecycle through mutual cooperation among
+interested parties in implementing the common guiding principles, important matters for each
+AI business actor, and AI governance.
+
+   Japan led discussions held at international forums, such as the G7, G20, and OECD, and made
+a lot of contributions, starting with the proposal for the AI R&D Principles at the G7 ICT Ministers’
+Meeting in Takamatsu, Kagawa, in April 2016. Incidentally, the following matters have been
+pointed out regarding the actual implementation of the principles in AI:
+      AI use is viewed as a solution to some social challenges, such as decreasing labor caused
+       by a declining birthrate and aging population.
+      There is a time lag between formulation and enforcement of laws and the speed and
+       complexity of AI technology development and social implementation.
+      Rule-based regulations that stipulate detailed obligations might inhibit innovations.
+Thus, it was decided to draw up guidelines on the basis of the goal-based concept that would
+lead to the achievement of purposes through soft laws without any legally binding force that
+would encourage interested parties to make voluntary efforts to reduce societal risks in AI and
+promote innovations and use of AI.
+
+  On this understanding, the “Draft AI R&D Guidelines for International Discussions” and “AI
+Utilization Guidelines: Practical Reference for AI Utilization” were established and announced on
+the initiative of the Ministry of Internal Affairs and Communications, and “Governance Guidelines
+for Implementation of AI Principles ver. 1.1” were established and announced on the initiative of
+the Ministry of Economy, Trade and Industry. And this occasion, by integrating and modifying
+those three guidelines, the Guidelines (soft laws without any legally binding force) were newly
+established to help business operators cooperate to conduct social implementation of AI and
+governance in it, reflecting the features of AI technologies that had further advanced in recent
+years, and the domestic and international discussions about social implementation of AI. (See
+“Figure 1. Positioning of the Guidelines.”) It is intended to help business operators (including
+
+
+                                                 2
+public institutions such as governments and municipalities) who use AI by referring to the
+Guidelines instead of the existing guidelines to understand the guiding principles that lead to
+desirable actions for safe and secure use of AI. The Guidelines are established through studies
+conducted by multiple stakeholders that consisted of academic and research institutions, civil
+societies including general consumers, private sector companies, and the like, rather than having
+the government take the initiative alone, to prioritize effectiveness and validity.
+
+        Social Principles of Human-Centric AI                                                       Foundation
+
+                  ✓ Consists of basic philosophies, visions, and social
+                    principles of AI that society should pay close attention to.
+                  ✓ Describes that business operators should establish and
+                    observe the “R&D and Utilization Principles of AI.”
+
+       Corresponds to a reference document for establishing
+              “R&D and Utilization Principles of AI”
+
+
+                    AI R&D Guidelines
+      ✓ Contains the AI R&D Principles to pay close attention to
+                                                                                   Integration/                             AI Guidelines
+        during AI system development and the descriptions of                         Review                                 for Business
+        the principles.
+
+                AI Utilization Guidelines
+      ✓ Contains the AI Utilization Principles which are expected
+                                                                                                   Consideration
+        to be paid close attention to during use and the
+        descriptions of the principles.
+
+            Governance Guidelines for                                                         Trends in foreign countries
+          Implementation of AI Principles                                                         Appearance of new
+                                                                                                    technologies
+     ✓ Presents the action goals to be achieved by AI companies
+       and describes virtual examples for the implementation in
+       order to support the implementation of AI principles
+       necessary for promoting the social implementation of AI.
+
+
+                                                 Figure 1. Positioning of the Guidelines
+
+
+  The use of AI might incur a great risk to society depending on the field and how it is used, and
+social disagreement caused by this risk might inhibit AI use itself. On the other hand, taking too
+many measures might inhibit AI use itself or decrease the benefits of using AI. Therefore, it’s
+important to take a risk-based approach in which we estimate the level of risks (impact and
+probability of hazards) that can be entailed by how it is used in the applicable field beforehand,
+to ensure the degree of measures taken are appropriate to the level of risks. The Guidelines
+provide the guides to the measures to be taken by companies based on a risk-based approach.
+Note that the concept of a risk-based approach has been commonly adopted by countries with
+advanced AI.
+
+   Trends in AI are constantly changing, so it is planned that the Guidelines will be updated as a
+living document as needed, also in response to international discussions, with the multiple
+stakeholder engagement while reflecting the agile governance philosophy to continuously
+improve AI governance1. In such activities, it will be determined how the guiding principles and
+implementation should be updated as the countermeasures against risks in accordance with
+maturity of AI in the society. (See “Figure 2. Basic concepts of the Guidelines.”)
+
+
+
+
+1
+ The report is compiled by the Ministry of Internal Affairs and Communications’ conference toward AI Network Society and the
+Ministry of Economy, Trade and Industry’s Study Group on AI Business Guidelines. The review system will be determined and
+modified as appropriate in line with future circumstances.
+
+                                                                                    3
+Concepts
+                           Support
+                        for voluntary                              Coordination
+                                                                                                               Understand-
+                          efforts by                                    with
+                                                                                                                ability for
+                          business                                 international
+                                                                                                                 readers
+                          operators                                discussions
+
+               Show directions for AI business          Ensure consistency with trends and          Readers can check risks and handling
+               actors founded on the risk-based         contents of domestic and overseas           policies that should be considered
+               approach where the degree of             relevant principles.                        regarding AI, for each of AI developers,
+               measures should be                                                                   AI providers, and AI business users.
+               proportionate to the level and
+               probability of risks.
+
+Processes                                                     Multiple stakeholders
+                 Established through studies conducted by multiple stakeholders that consisted of academic and research institutions,
+               civil societies including general consumers, private sector companies, and the like, to prioritize effectiveness and validity.
+
+
+                                                                 Living Document
+                    To continuously improve AI governance, updated as needed while reflecting the agile governance philosophy.
+
+
+                                  Figure 2. Basic concepts of the Guidelines
+
+
+   The Guidelines present basic concepts regarding efforts necessary for the development,
+provision, and use of AI. Therefore, for the actual development, provision, and use of AI, it is
+important that all business operators who intend to use AI will voluntarily promote specific
+efforts using the Guidelines as one of their references. At the same time, all business operators
+who intend to use AI should recognize the magnitude of AI’s impact on society and be conscious
+of using it to develop human society better. It is important that the business operators pay close
+attention that if society considers the efforts to be inappropriate or insufficient, it might lead
+to opportunity losses in their businesses and it might become difficult to maintain business
+values. Paying close attention to these possibilities enables to maximize the benefits from AI,
+strengthen competitiveness, and maintain and improve the business values. Incidentally, because
+the Guidelines contain reference information for AI use and risk information, it is also helpful for
+people who are not business operators relevant to AI, for example, staff of academic and research
+institutions and general consumers (including minors).
+
+  The Guidelines are intended for all AI business actors (including public institutions such as
+governments and municipalities) who develop, provide, or use AI in various businesses. On the
+other hand, the Guidelines are not intended for those who use AI for non-business activities and
+those who derive benefits from AI systems and services without directly using AI for business and,
+in some cases, sustain damage (hereinafter, both are referred to as “non-business users”).
+However, necessary points for those who develop, provide, or use AI for business purposes to
+serve non-business users are included in this guideline. Data is dispensable for AI to learn. Specific
+companies and individuals (hereinafter referred to as “data providers”) who provide such data
+are similarly not included in the target of this guideline. This guideline assumes those who
+develop, provide or use AI are themselves responsible for those data as data holders.
+   As described above, the parties that the Guidelines are intended for are roughly grouped under
+“AI developers,” “AI providers,” and “AI business users” as AI business actors who conduct AI
+businesses and are defined herein. It is assumed that these AI business actors are business
+operators (or departments of business operators), and a business operator might take on two or
+
+
+
+
+                                                                   4
+more roles as an AI developer, AI provider, and AI business user depending on the AI use method.
+(See “Figure 3. Correlation between AI business actor and general AI use flow.”)2 3
+
+
+        AI developer
+         Business operators who develop AI systems (including business operators who research AI).
+         They develop AI models as well as algorithms and contribute to construction of AI systems
+         including AI models, base system, as well as I/O functions via data collection (including
+         purchase), data preprocessing, training with data.
+
+        AI provider
+         Business operators who incorporate AI systems into applications, products, or existing
+         systems, business processes, etc., and provide them to AI business users and, in some
+         cases, non-business users as services.
+         They verify AI systems, integrate AI systems with other systems, provide AI systems and
+         services, offer operation support for AI business users on AI systems for normal operations,
+         or perform the AI service operation itself. Communication with various stakeholders might
+         be required during the provision of AI services.
+
+        AI business user
+         Business operators who use AI systems or AI services in their businesses.
+         Their role is to use an AI system or AI service in an appropriate way intended by the AI
+         provider, share information such as environmental changes with the AI provider, continue
+         the normal operation, operate the provided AI system as necessary. In addition, when non-
+         business users might be affected by AI use in some ways 4 , AI business users are also
+         responsible for making efforts to prevent AI from incurring unexpected disadvantages for
+         those non-business users and maximize benefits from AI.
+
+
+
+
+2
+  For points to note when general consumers use AI, particularly generative AI, please refer to the Consumer Affairs Agency’s
+“AI Utilization Handbook - Generative AI Edition” (May 2024).
+https://www.caa.go.jp/policies/policy/consumer_policy/information/ai_handbook
+Furthermore, the current status, outlook, and challenges regarding digital technologies, including AI, that can be utilized to
+support consumers are outlined in the Cabinet Office’s report by the “Expert Panel on Digital Technologies Empowering
+Consumers.”
+https://www.cao.go.jp/consumer/iinkaikouhyou/2024/doc/202412_digital_technology_houkoku.pdf
+3
+  Generative AI is included in the targets of the development, provision, and use of AI. If an AI provider or AI business user is a
+public institution, such as a government or municipality, a concept different from that for private business operators might be
+required.
+4
+ Non-business users need to pay close attention that they may suffer some type of damage if they do not follow the instructions
+and precautions from AI business users.
+
+                                                                5
+             Figure 3. Correlation between AI business actor and general AI use flow
+
+  It is important that each party clarifies “the efforts to be made regarding AI (guiding
+principles = what)” based on “the ideal society while considering stakeholders’ expectations
+(basic philosophies = why)” from each relevant perspective (AI developer, AI provider, or AI
+business user). In addition, it is conceivable that studying, determining, and implementing “the
+specific approach to be adopted (implementation = how)” to fulfill the guiding principles are
+useful to use AI safely and securely. Actual AI systems and services can be used in various cases
+depending on the purpose, used technology, data, usage environment, etc. Therefore, it is
+important that AI developers, AI providers, and AI business users cooperate with each other to
+devise the optimum approach while considering changes in the external environment, such as
+the advancement of technologies. For the sake of readability, the main part of the Guidelines
+covers the basic philosophies and guiding principles, and the appendix covers implementation.
+
+
+  The structure of the main part of the Guidelines, which covers the basic philosophies and
+guiding principles, is shown below:
+     Part 1
+      This part mainly describes definitions of terms to help understand the Guidelines.
+
+     Part 2
+      This part describes the society to aim for through AI use, the basic philosophies (why) and
+      principles for realizing it, and the common guiding principles (what) among AI business
+      actors. It also describes the establishment of governance required for implementing the
+      common guiding principles considering the possibility of risks in AI to the society during
+      the pursuit of benefits from AI use. Part 2 describes matters that form the base for Part 3
+      and later parts, so it is important that all business operators who use AI read it and
+      understand its descriptions.
+
+     Parts 3 to 5
+      These parts describe the precautions for each of the three AI business actors who conduct
+      businesses using AI that are not mentioned in Part 2. It is important that each business
+      operator who uses AI understands the precautions relevant to itself. In addition, it is also
+
+                                               6
+         important that each AI business actor understands the precautions for other AI business
+         actors as well, because there are many matters relevant to adjacent AI business actors.
+         (See “Figure 4. Structure of the Guidelines.”)
+
+
+
+
+                                        Figure 4. Structure of the Guidelines
+
+
+  For AI developers, AI providers, and AI business users, in addition to Parts 1 and 2, reading the
+corresponding part among Parts 3 to 5 and the appendix will help them understand risks in AI use
+and the basic concept of the policy for handling them. Because the examples described in the
+appendix are helpful as references for business operators who have not determined any specific
+efforts to make, it is important to chiefly read relevant contents in the appendix. For business
+executive officers5, including management, to fulfill their duties, it is important to consider and
+take countermeasures against risks in AI use together with the business strategy, in accordance
+with the basic philosophies (why) and guiding principles (what) described in the Guidelines to
+promote safe and secure AI use.
+
+  The environment surrounding AI is rapidly advancing worldwide, so it is important that business
+operators who intend to use AI pay attention to international trends. Under these circumstances,
+Japan took the initiative in establishing an international common understanding on AI and its
+guiding principles through the Hiroshima AI Process6 and took on the key role in the development
+of the Hiroshima AI Process Comprehensive Policy Framework in December 2023.7 The Guidelines
+5
+  Business executive officers include those in public institutions such as governments and municipalities.
+6
+  Based on the result of the G7 Hiroshima Summit held in May 2023, the Hiroshima AI Process was initiated to study international
+rules concerning generative AI. After that, the G7 Digital & Tech Minister Meeting was held in December 2023 based on the “G7
+Leaders' Statement on the Hiroshima AI Process” announced after the Hiroshima AI Process Minister-level Meeting in September
+2023 and the Multi-stakeholder High-level Meeting at Kyoto IGF in October. As the achievements of 2023, the “Hiroshima AI
+Process Comprehensive Policy Framework” was formulated. Furthermore, in 2024, following the “G7 Ministers’ Meeting on
+Industry, Technology, and Digital” in March and the “G7 Digital and Technology Ministers’ Meeting” in October, a “reporting
+framework” concerning adherence to international codes of conduct was agreed upon by the G7 in December of the same year.
+https://www.soumu.go.jp/hiroshimaaiprocess/
+7
+  GPAI (The Global Partnership on Artificial Intelligence) is an international collaboration initiative established in 2020 with a
+multi-stakeholder approach, including governments, international organizations, industry, experts, and civil society, aimed at
+promoting the development and use of “responsible AI” based on a human-centered approach through project-based efforts.
+In July 2024, GPAI transitioned to an integrated partnership with the OECD. To provide support in operations and management,
+including projects related to generative AI, which also aid in advancing the Hiroshima AI Process, the “GPAI Tokyo Expert Support
+Center” was established at the National Institute of Information and Communications Technology (NICT) in July 2024. This
+
+
+
+                                                                7
+are also intended to contribute to the Process and have been established taking into account
+international discussions including the Process. On the other hand, the policies and rules for AI
+vary with country and region, so business operators who perform cross-border activities should
+obey local laws and fulfill stakeholders’ expectations. As for advanced AI systems, especially,
+some countries and regions take some measures to assure effective AI governance, for example,
+establishing a safety framework of AI validation prior to their release to the market8, so it is
+important to pay attention to them9.
+
+
+
+
+center has conducted the SAFE Project (an exploration of practical approaches to ensuring the safety of generative AI) and
+plans to implement new generative AI-related projects in consultation with the OECD.
+https://www2.nict.go.jp/gpai-tokyo-esc/
+8
+  In November 2023, the UK announced a plan for founding the AI Safety Institute that would develop and perform evaluations
+of advanced AI systems. The US announced that it would establish the US AI Safety Institute in the National Institute of Standards
+and Technology (NIST) to implement an AI risk management framework and evaluate red teaming. In the UK, the AI Safety
+Institute was renamed the AI Security Institute in February 2025. In Japan, in collaboration with these overseas institutions,
+the “AI Safety Institute” was established within the Information-technology Promotion Agency (IPA) on February 14, 2024, with
+the cooperation of relevant ministries and agencies to consider standards and guidelines contributing to the safety improvement
+of AI development, provision, and use, conduct surveys on AI safety evaluation methods, and investigate technologies and
+examples related to AI safety. Activities include cross-walking this guideline with the US NIST AI Risk Management Framework
+(RMF), publishing the “Guide on Evaluation Perspectives for AI Safety” (September 2024), collaborating and exchanging opinions
+with AISI in various countries, and conducting various surveys.
+https://aisi.go.jp/effort/effort_framework/guide_to_evaluation_perspective_on_ai_safety/
+https://aisi.go.jp/
+9
+  On February 4, 2025, the interim report of the AI Strategy Council and AI Institutional Research Group was released.
+(Japanese Only) https://www8.cao.go.jp/cstp/ai/interim_report.pdf
+
+
+                                                                8
+Part 1 Definitions
+
+  The term “AI,” which means Artificial Intelligence, is said to first used at the Dartmouth
+Conference in 1956 for the first time. Although there is no agreed definition of AI, as implied
+from the fact that it is the abbreviation of “Artificial” and “Intelligence,” it refers to a computer
+program that works in a similar way to human’s thinking process and a system that can make
+intelligent decisions on a computer. In the past, some systems called “expert systems,” which
+make inferences from a large amount of knowledge data that is input based on experts'
+knowledge without machine learning (ML), were considered as a type of AI.
+  However, in 2000s and later, deep learning emerged, and they used it for image recognition,
+natural language processing (including translation), and speech recognition with machine
+learning. And systems able to predict, propose or make decisions in specific areas are now called
+AI. In addition, since 2021, foundation models 10 have appeared, prompting developments of
+general-purpose AI, which is different from AI that specializes in a specific field. That led to not
+only predictions, recommendations and decision making but also emergence of “generative AI”
+of images, sentences and etc., which attracts attention of society as a whole. As described above,
+there are many different types of AI, and it is difficult for even experts to predict the future of
+AI technologies.
+
+     With these circumstances, related terms in the Guidelines are defined as follows.
+
+
+Related terms
+        AI
+         No agreed definition has been existed as of now (“Social Principles of Human-Centric AI”
+         formulated by the Integrated Innovation Strategy Promotion Council on March 29, 2019),
+         and it is difficult to strictly define artificial intelligence in a broad sense. AI in the
+         Guidelines is an abstract concept, which includes AI systems (defined below) themselves
+         or software or programs that perform machine learning.
+         (For reference, it is defined in JIS X 22989:2023 based on ISO/IEC 22989:2022 as follows.)
+         <Academic discipline> Research and development of mechanisms and applications of AI
+         systems
+         Note 1: Research and development can be conducted in several fields, including computer
+         science, data science, natural science, human science, and mathematics.
+
+        AI system
+         A system (such as a machine, robot, and cloud system) that works at various levels of
+         autonomy during the use process and incorporates a software element that has a learning
+         function.
+         (For reference, it is defined in JIS X 22989:2023 based on ISO/IEC 22989:2022 as follows.)
+         An engineering system that produces outputs such as contents, predictions,
+         recommendations, and decision-makings in response to a given set of goals defined by
+         humans.
+         Note 1: As for an engineering system, models that represent data, knowledge, processes,
+         etc., that can be used to perform tasks can be developed using various techniques and
+         approaches relevant to artificial intelligence.
+         Note 2: An AI system is designed to work at various autonomous levels.
+         (For reference, it is defined in the OECD AI Principles overview as follows.)
+         An AI system is a machine-based system that, for explicit or implicit objectives, makes
+         inferences. It generates outputs including predictions, contents, recommendations,
+
+10
+  Fundamental models typified by large language models are core technological foundations for creating individual models
+that support various services. They have characteristics different from general AI from the viewpoints of development of models
+adapted to a broad range of downstream tasks derived from a fundamental model and knowledge acquired through the
+development process itself.
+
+                                                              9
+    decisions and so on to place impact on physical or virtual environments from received
+    data. Different AI systems vary in their levels of autonomy and adaptiveness after
+    deployment.
+
+   Advanced AI system
+    The most advanced AI systems including the cutting-edge foundation models and
+    generative AI systems.
+    (Quoted from the definition in the Hiroshima AI Process)
+
+   AI model (ML model)
+    A model incorporated into an AI system and acquired through machine learning using
+    training data. It produces prediction results in accordance with the input data.
+    (For reference, it is defined in JIS X 22989:2023 based on ISO/IEC 22989:2022 as follows.)
+    A mathematical structure that produces inferences or predictions based on input data or
+    information.
+    Example: When a univariate linear function y = θ0 + θ1x is trained using the linear
+    regression, the result model is y = 3 + 7x or the like.
+    Note 1: A machine learning model is acquired as a result of training based on a machine
+    learning algorithm.
+
+   AI service
+    A service that uses AI systems. It refers to providing AI business users with values in
+    general. AI services are provided and operated through not only technologies that
+    constitute an AI system, but also non-technological approaches, including monitoring by
+    humans and appropriate communications with stakeholders.
+
+   Generative AI
+    A general term representing AI developed from an AI model that can generate texts,
+    images, programs, etc.
+
+   AI governance
+    The design and operation of technological, organizational, and social systems by
+    stakeholders for the purpose of managing risks posed by the use of AI at levels acceptable
+    to stakeholders and maximizing their positive impact (benefit).
+
+
+
+
+                                            10
+Part 2 Society to aim for with AI, and matters each AI
+business actor works on
+  Part 2 describes “A. Basic philosophies” as the society to aim for with AI first. Next, it describes
+“B. Principles” at which each AI business actor works on to realize the basic philosophies and “C.
+Common Guiding Principles” that are derived from the principles. Furthermore, it describes “D.
+Common Guiding Principles for AI Business actors involved in advanced AI systems,” which should
+be followed by business operators involved in advanced AI systems. After that, it describes “E.
+Building AI governance,” which is important for the implementation of “C. Common guiding
+principles” and safe and secure use of AI.
+
+
+A. Basic philosophies
+  As described in the “Preface,” “Social Principles of Human-Centric AI” formulated by Japan in
+March 2019 states that it is expected that AI will contribute to the creation of Society 5.0.
+Additionally, the document states that it is important to use AI as a public asset of humans that
+can lead to the achievement of global sustainability through qualitative changes of the ideal
+society as well as true innovations. The document also states that the following three values
+should be respected as basic philosophies in order to build a society that upholds such
+philosophies.
+    (1) Dignity: A society that has respect for human dignity
+        Rather than building a society in which effectiveness and convenience are pursued
+        through AI use to the point that humans become excessively dependent on AI and AI is
+        used to control human behaviors, it is necessary to build a society that has respect for
+        human dignity and for humans to take full advantage of AI as a tool to fully demonstrate
+        their various capabilities. This will allow them to exert more creativity or engage in
+        more challenging jobs and live physically and mentally rich lives.
+
+    (2) Diversity & Inclusion: A society where people with diverse backgrounds
+         can pursue their own well-being
+         One of the present-day ideals and big challenges is the creation of a society in which
+         people with diverse backgrounds, values, or ways of thinking can seek different well-
+         being, so they can be flexibly included and new values can be created. Powerful AI
+         technologies can be an effective tool for approaching this ideal. We need to transform
+         the state of society as described above through proper development and deployment
+         of AI.
+
+    (3) Sustainability: A sustainable society
+        We need to use AI to bring new businesses and solutions into the world one after another
+        to build a sustainable society that can eliminate social disparities and address global
+        environmental problems and climate changes. As a science-and-technology-oriented
+        country, Japan has a responsibility to contribute to the creation of such a society by
+        using AI to strengthen its accumulated scientific and technological expertise and
+        knowledge.
+
+
+
+
+                                                 11
+                                           Dignity: A society that has
+                                           respect for human dignity
+
+
+
+
+                                                Basic philosophies
+
+                     Diversity & Inclusion: A
+                    society where people with                              Sustainability: A
+                    diverse backgrounds can                               sustainable society
+                   pursue their own well-being
+
+
+
+                                            Figure 5. Basic philosophies
+
+
+   These fundamental concepts remain goals for us to achieve and do not change despite
+significant technological evolution. Therefore, these basic philosophies should be respected as
+objectives to achieve through domestic and international frameworks as AI evolves.
+
+
+
+B. Principles
+  To realize the basic philosophies, it is important that each AI business actor makes efforts to
+comply with the philosophies. Therefore, we categorized the principles that should be kept in
+mind by each AI business actor into the activities to be implemented by each AI business actor
+and the activities expected to be implemented in cooperation with society. These principles have
+been formulated by restructuring “Social Principles of Human-Centric AI” in accordance with
+overseas principles, including OECD’s AI principles.
+
+
+Activities to be implemented by each AI business actor
+  It is important that each AI business actor achieves its purposes of AI, such as creating business
+value and solving social challenges, while promoting the development, provision, or use of AI
+systems and services and maintaining human dignity, based on the human-centric 11 concept
+derived from the basic philosophies. To accomplish this, it is important that each AI business
+actor ensures values, such as safety and fairness, to reduce societal risks arising from AI use. In
+addition, it is important to protect privacy including the prevention of inappropriate use of
+personal data and ensure security against risks such as a decreasing availability and external
+attack caused by vulnerabilities of AI systems. To achieve these goals, it is important that each
+AI business actor ensures the verifiability of systems and improves transparency by providing
+appropriate information to stakeholders12 and ensures accountability.
+  In consideration of the possibility of the roles of AI business actors changing due to value chain
+changes caused by the diversification of AI architectures, it is important that AI business actors
+cooperate with each other to make efforts to improve the quality of AI in the entire value chain
+and continue discussions among multiple stakeholders.
+  By making these efforts, each AI business actor is expected to derive maximum benefit from
+the development, provision, or use of AI systems and services while minimizing the AI risks.
+
+
+11
+  The underlined parts are organized as “C. Common Guiding Principles” in the latter part.
+12
+  Stakeholder: All the AI business actors who might be directly or indirectly affected by AI use including third parties other
+than AI developers, AI providers, AI business users, and non-business users. (The same shall apply hereafter.)
+
+                                                             12
+Activities expected to be implemented in cooperation with society
+   In order to enhance benefits from AI for the society and realize the basic philosophies that we
+should pursue, each AI business actor is expected to actively collaborate with the society,
+including the governments, municipalities, and communities, as well as individually commit to
+its own activities. To accomplish this, each AI business actor is expected to provide opportunities
+for ensuring education and literacy in cooperation with the society to avoid divisions within the
+society and spread the benefits from AI to all of the people. In addition to that, each AI business
+actor is expected to contribute to activities that ensure fair competition and facilitate innovation
+that can create new businesses and services, maintain sustainable economic growth, and provide
+solutions for social challenges.
+
+
+
+C. Common Guiding Principles
+   In the activities, each AI business actor should develop, provide, or use AI systems and services
+respecting the rule of law, human rights, democracy, diversity, inclusion, and fair and just society
+in light of “1) Human-centric” described below. In addition, relevant laws, including the
+Constitution of Japan, Intellectual Property Basic Act and relevant laws, and Act on the
+Protection of Personal Information as well as existing laws and regulations in individual fields
+pertaining to AI should be observed, and it is important to pay close attention to the
+circumstances of the drafting of international guiding principles13 16.
+   It is important that each AI business actors understand characteristics, intended use, purposes
+and social context of AI systems/services and positively process these activities with limited
+resources.
+
+
+1) Human-Centric
+        When developing, providing, or using an AI system or service, each AI business actor should
+      act in a way that does not violate the human rights guaranteed by the Constitution of Japan
+      or granted internationally, as the foundation for accomplishing all matters to be conducted,
+      including the matters described later. In addition, it is important that each AI business actor
+      acts so that the AI expands human abilities and enables diverse people to seek diverse well-
+      being.
+
+      (1) Human dignity and autonomy of individuals
+           Based on the social context of AI use, respect human dignity and the autonomy of
+             individuals.
+           In particular, when linking AI with someone’s brain or body, refer to discussions
+             about bioethics in foreign countries and research institutions, together with
+             information of peripheral technologies.
+           When profiling using AI in a field where personal rights and benefits can be severely
+             affected, use AI respecting the dignity of individuals, maintaining the utmost
+             accuracy of the outputs, understanding limitations of predictions,
+             recommendations, and judgments of AI, and carefully considering possible
+             drawbacks, and do not use it for inappropriate purposes.
+
+      (2) Paying attention to manipulations by AI on decision-makings and emotions
+           Do not develop, provide, or use AI systems and services with purpose of
+              manipulating human decision making, recognition and emotion or on the premise
+              of unconscious control.
+
+13
+  Governing laws should be obeyed in accordance with the geographic business deployment status, locations of the AI providers
+and AI business users of the developed AI models, the locations of the servers to be used for training and the like. When you
+are required to comply with Japanese laws, handle personal data, intellectual property rights, and such like in compliance
+with their respective applicable laws in accordance with the data type. As for the handling of data, note that the use of some
+data might be prohibited by a contract between stakeholders, even when it is not stipulated by laws.
+
+                                                             13
+                  When developing, providing, or using an AI system or service, pay attention and
+                   take necessary countermeasures against the risk of heavy dependence on AI, such
+                   as automated biases14 15.
+                  Pay attention to AI use that might instigate biased information or values and
+                   unwillingly limit the options that should be originally available to people including
+                   AI business users, such as a filter bubble16.
+                  Carefully handle AI outputs, especially when they can be relevant to procedures
+                   that might significantly affect the society, such as an election and decision-making
+                   in a community.
+
+      (3) Countermeasures against disinformation, etc.
+           Generative AI has enabled everyone to forge fake information that seems to be
+              true and fair, so recognize the increasing risk of destabilizing and confusing the
+              society through disinformation, misinformation, and biased information generated
+              by AI, and take necessary countermeasures17 18.
+
+      (4) Ensuring diversity/inclusion
+           In addition to ensuring fairness, to prevent information poverty and digital poverty
+              and allow more people to enjoy the benefits of AI, pay attention to make it easy
+              for socially vulnerable people to use AI.
+              ⚫ Adopt universal design, ensure accessibility, and provide relevant
+                   stakeholders19 with education and support.
+
+      (5) Providing user support
+           Offer rational information about the functions and peripheral technologies of the
+               AI system or service, and allow users to use functions that timely and appropriately
+               offer the information for judging choices.
+               ⚫ For example, default settings, provision of understandable options, provision
+                    of feedbacks, alerts in an emergency, and handling of errors.
+
+      (6) Ensuring sustainability
+           Examine the impact of the whole lifecycle on the global environment during the
+              development, provision, and use of AI systems and services. (In particular, for AI
+              systems with high computational complexity, such as generative AI, implement
+
+14
+   Refers to a phenomenon in which automated systems or technologies are excessively trusted or depended on when humans
+make judgments and decisions.
+15
+   The necessary measures proposed in response to the above challenges include the following methods:
+・Receiving training to understand the characteristics and limitations of AI, in order not to blindly accept AI outputs, such as
+evaluations, judgments, recommendations, or predictions.
+・When approving AI evaluations or judgments, independently considering the reasons and grounds for their approval before
+doing so.
+16
+   A filter bubble refers to an information environment where an algorithm analyzes and learns about search histories and click
+histories of individual Internet users to preferentially show information they like, regardless of whether or not they want it to
+do so, separating them from information that disagrees with their viewpoints, and consequently, isolating them in a “bubble”
+of their own ways of thinking and values. In addition to a filter bubble, an echo chamber is also mentioned as one of the
+phenomena that are said to be caused by the interaction between the intrinsic human tendency and the characteristics of
+Internet media. While there are risks described above, AI also has a benefit that provides personalized and filtered answers to
+AI business users and non-business users enabling to offer proposals in a beneficial manner.
+17
+   To consider future policy directions and specific measures for ensuring the soundness of information distribution in the digital
+space, including countermeasures to the distribution and dissemination of disinformation and misinformation on the Internet,
+the “Study Group on Ensuring the Soundness of Information Distribution in the Digital Space” was held by the Ministry of Internal
+Affairs and Communications, and the “Summary” was published in September 2024.
+(https://www.soumu.go.jp/menu_news/s-news/01ryutsu02_02000417.html)
+Additionally, the Ministry of Internal Affairs and Communications is conducting the “Development and Demonstration Project
+for Countermeasures Against False and Misleading Information on the Internet” as a technical response.
+(https://www.soumu.go.jp/menu_news/s-news/01ryutsu02_02000415.html).
+18
+   The use of Retrieval-Augmented Generation (RAG) is expected to suppress hallucinations and improve transparency in the
+output process and rationale.
+19
+   Relevant stakeholder: The AI business actors who are directly or indirectly involved in AI use including AI developers, AI
+providers, AI business users, and non-business users. (The same shall apply hereafter.)
+
+                                                               14
+                   measures like model weight reduction and the selective use of models according
+                   to their purpose.)
+
+        Each AI business actor is expected to consider these matters as preconditions and to
+      enhance the performance (usefulness) of AI as much as possible to provide people with
+      benefits and richness and achieve well-being.
+
+
+2) Safety
+        Each AI business actor should avoid damage to the lives, bodies, minds, and properties of
+      stakeholders during the development, provision, and use of AI systems and services. In
+      addition, it is important that the environment is not damaged.
+
+      (1) Taking into consideration the lives, bodies, properties and minds of humans and the
+          environment
+           Ensure that the AI system/service is sufficiently fulfilling the requirements,
+               including the accuracy of outputs (reliability).
+           Ensure that the performance level is maintained under various circumstances, and
+               that grossly incorrect judgments are not made for irrelevant events (robustness).
+           Ensure controllability that allows humans to control AI as necessary including
+               periodic and objective monitoring and handling, in accordance with the
+               characteristics and purposes of the relevant AI, in light of the severity and
+               possibility of rights violations that can result from AI use or unintended AI
+               behaviors.
+           Conduct appropriate risk analyses to take countermeasures against risks
+               (avoidance, mitigation, transference, or acceptance).
+           If there are potential hazards to the lives, bodies, properties, and minds of humans
+               and the environment, organize measures to be taken in advance and offer related
+               information to stakeholders.
+               ⚫ Clearly specify measures that should be taken by relevant stakeholders and
+                    the terms of use.
+           Determine the responses for cases where the safety of AI systems or services is
+               endangered so that the steps can be quickly taken in such cases.
+
+      (2) Proper use (of AI)
+           Develop, provide, or use AI systems and services within the range in which the AI
+              business actor can control, preventing damage due to a provision or use that
+              deviates from the intended purpose20.
+           For the outputs of AI systems and services centered around multimodal generative
+              AI, it is relatively easy to generate more sophisticated outputs. Therefore, be
+              aware that this sophistication may contribute to misunderstandings or biases and
+              could potentially infringe on others’ intellectual property rights, and implement
+              measures21 such as human intervention in the use of these systems22.
+
+      (3) Proper training23
+           In accordance with the characteristics and purposes of AI systems and services,
+              ensure the accuracy, and recency as necessary, of the data (appropriateness of the
+              data) to be used for training.
+
+
+20
+   There is a high possibility that using Retrieval-Augmented Generation (RAG) accelerates the convergence of responses
+generated by AI. Therefore, it is important to note that, for tasks that require content diversity and originality, the use of RAG
+may not be appropriate.
+21
+   As a measure to involve human judgment, it is suggested to include watermarks indicating that the content is AI-generated
+and to improve the user interface.
+22
+   When utilizing AI to generate program code, it is important to prioritize the safety and security of the generated code.
+23
+   It is important that AI providers and AI business users, in addition to AI developers, also make efforts to ensure safety if they
+make adjustments or conduct re-trainings.
+
+                                                                15
+                 Properly take actions such as the securement of transparency of data used for
+                  training, compliance with the legal framework, and update of AI models, within
+                  reasonable extent.
+                 Pay close attention to ensuring that illegal content, such as infringing
+                  reproductions and information24, is not included in training data25.
+
+3) Fairness
+        During the development, provision, or use of an AI system or service, it is important that
+      each AI business actor makes efforts to eliminate unfair and harmful bias and discrimination
+      against any specific individuals or groups based on race, gender, national origin, age,
+      political opinion, religion, and so forth. It is also important that before developing,
+      providing, or using an AI system or service, each AI business actor recognizes that there are
+      some unavoidable biases even if such attention is paid, and determines whether the
+      unavoidable biases are allowable from the viewpoints of respect for human rights and
+      diverse cultures.26
+
+      (1) Consideration for bias in technologies forming AI models
+           There are a broad range of factors that can produce an bias, so identify the factors
+              that might produce biases that can be considered as problems from the viewpoint
+              of fairness. Those factors may include technological elements (training data, AI
+              model training process, prompts entered by AI business users or non-business
+              users27, and reference information and collaborating external services used by AI
+              models for inference) and behaviors of AI business users.
+           Study the possibility that biases that stakeholders may not intend or detect might
+              be produced depending on the characteristics and purposes of the AI system or
+
+24
+   In the Agency for Cultural Affairs’ “On the Perspective of AI and Copyright” (Subcommittee on Legal Systems of the Copyright
+Subcommittee, Council for Cultural Affairs, March 2024), concerns are raised by rights holders about the possibility of AI systems
+learning from illegally uploaded content, such as pirated versions.
+25
+   As for the relationship with the laws with regard to intellectual properties, discussions are in progress in the Cabinet Office
+and the Agency for Cultural Affairs, so pay close attention to the consideration status in the future. As for the relationship
+between AI and copyrights, especially, the Legal System Subcommittee of the Copyright Subdivision of the Culture Council is
+arranging their discussions, so it is important that each AI business actor to consider response policies based on the intent of
+these discussions.
+
+・Agency for Cultural Affairs, “On the Perspective of AI and Copyright” (Subcommittee on Legal Systems of the Copyright
+Subcommittee, Council for Cultural Affairs, March 2024)
+https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf
+・Cabinet Office, “Interim Report of the Study Group on Intellectual Property Rights in the AI Era” (Intellectual Property
+Strategy Promotion Bureau, May 2024)
+https://www.kantei.go.jp/jp/singi/titeki2/chitekizaisan2024/0528_ai.pdf
+・Agency for Cultural Affairs, “Checklist & Guidance on AI and Copyright” (Copyright Division, Agency for Cultural Affairs, July
+2024)
+https://www.bunka.go.jp/seisaku/chosakuken/pdf/94097701_01.pdf
+・Cabinet Office, “Interim Report of the Study Group on Intellectual Property Rights in the AI Era - Guide (for Rights Holders)”
+(Intellectual Property Strategy Promotion Bureau, November 2024)
+https://www.kantei.go.jp/jp/singi/titeki2/chitekizaisan2024/2411_tebiki.pdf
+The “Interim Report of the Study Group on Intellectual Property Rights in the AI Era” and the “Checklist & Guidance on AI and
+Copyright” organize examples of expected initiatives for each entity, including “AI developers,” “AI providers,” and “AI users,”
+as well as “non-business users (general users)” and “rights holders,” which differ from these guidelines.
+26
+   The term “bias” can be interpreted in various ways, as shown below, and this guideline uses it as a general term encompassing
+these interpretations.
+・Statistical term (sampling bias, skewness, deviation, etc.)
+・Psychological term (cognitive bias, which stems from assumptions and includes social biases due to societal norms among
+groups, emotional bias stemming from human emotions and conveniences, etc.)
+Additionally, the NIST’s “Proposal for Identifying and Managing Bias in Artificial Intelligence (SP 1270)” explains that AI has
+three categories of bias: Systemic (stemming from existing rules, norms, and practices), Statistical and Computational
+(statistical and numerical), and Human (stemming from cognition, perception, habits, etc.), with typical biases belonging to
+each category.
+27
+   AI business users can train generative AI, including large-scale language models, for a specific task using a training method
+called in-context learning without updating the learned parameters in accordance with AI business users’ inputs (called
+prompts).
+
+                                                               16
+                  service.
+
+      (2) Intervention by decisions made by humans
+           To prevent AI from generating unfair results, consider implementing timely human
+               interventions, rather than letting AI make the decisions alone. It is essential to
+               implement measures to prevent human judgment from being influenced by
+               automation bias during this process28.
+           Introduce a process for analyzing and handling the purposes, restrictions,
+               requirements, and decisions for the AI system or service through clear and
+               transparent methods, to see whether any biases have been produced.
+           Be careful of unintended or undetectable biases and potential biases (biases not
+               reflected in the training data)29, and communicate with stakeholders from various
+               backgrounds including culture or speciality for direction.
+
+4) Privacy protection
+        It is important that during the development, provision, or use of an AI system or service,
+      each AI business actor respects and protects privacy in accordance with its importance. At
+      this time, relevant laws should be obeyed.
+
+      (1) Protection of privacy across AI systems and services in general
+           Observe relevant laws, including the Act on the Protection of Personal
+              Information30, and formulate and announce the privacy policy of each AI business
+              actor, to take measures to respect and protect the privacy of stakeholders, in
+              accordance with its importance, based on the social contexts and legitimate
+              expectations of people.
+           Consider measures for privacy protection while taking into account the following
+              matters:
+              ⚫ Ensure measures based on the Act on the Protection of Personal Information.
+              ⚫ Refer to international principles and standards for personal data protection.31
+
+
+5) Ensuring security
+        During the development, provision, or use of an AI system or service, it is important that
+      each AI business actor ensures security to prevent the behaviors of AI from being
+      unintentionally altered or stopped by unauthorized manipulations.
+
+      (1) Security measures relevant to AI systems and services32
+
+
+
+28
+   For necessary measures, refer to the aforementioned footnote 15.
+29
+   Examples of potential biases include cases where sensitive attributes such as race or gender are inferred from related
+information even when they are removed from the data, or where biases arise from the combination of multiple attributes
+(intersectional bias).
+30
+   Regarding the Act on the Protection of Personal Information, the Personal Information Protection Commission has been
+conducting a review every three years. As part of this, it is under consideration how personal consent should be when handling
+data solely for purposes such as statistics creation including AI development.
+https://www.ppc.go.jp/personalinfo/3nengotominaoshi/
+(February 2025 Announcement：https://www.ppc.go.jp/files/pdf/seidotekikadainitaisurukangaekatanitsuite_r6.pdf)
+31
+   AI business actors are expected to follow international guiding principles on privacy, including “OECD, Recommendation of
+the Council concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data,
+OECD/LEGAL/0188” and “ISO/IEC 29100:2011 Information technology Security techniques Privacy framework.” In addition, the
+Global Cross-Border Privacy Rules (CBPR) Forum has been established with the purpose of promoting the smooth cross-border
+transfer of personal data and the interoperability of regulations in countries across a broader range, and Japan joined it in
+April 2022 and has announced the Global CBPR Framework. As for generative AI, refer to the “Statement on Generative AI” by
+the G7 Data Protection and Privacy Authorities Roundtable (June 2023) and the “Resolution on Generative Artificial Intelligence
+Systems” by the Global Privacy Assembly (GPA) (October 2023) as well.
+32
+   Details on methods are published in the “Guidelines for secure AI system development” (November 2023) by the National
+Cyber Security Centre (NCSC) of the UK as well.
+https://www8.cao.go.jp/cstp/stmain/20231128ai.html
+
+                                                             17
+                  To maintain the confidentiality, integrity, and availability of AI systems and services
+                   and ensure safe and secure AI use constantly, take reasonable measures based on
+                   the technological level at the time.
+                  Understand the characteristics of AI systems and services, and examine whether
+                   the inter-system connections necessary for normal operations are properly
+                   established.
+                  Bearing in mind that relevant stakeholders might make unexpected judgments by
+                   mixing detailed information into inference target data, recognize that
+                   vulnerabilities cannot be completely eliminated from AI systems and services.
+
+      (2) Consideration for the latest trends
+           New methods for attacking AI systems and services from the outside are increasing
+              on a daily basis. In order to address those risks, check the matters to be noted.
+
+
+6)    Transparency33
+        When developing, providing, or using an AI system or service, based on the social context
+      when the AI system or service is used, it is important that each AI business actor provides
+      stakeholders with information to the reasonable extent necessary and technically possible
+      while ensuring the verifiability of the AI system or service.
+
+      (1) Ensuring verifiability
+           In order to ensure verifiability relating to decisions made by AI, record or store logs
+              of AI training processes, inference processes, rationales of decisions made by AI,
+              and the like (for example, input/output generated when developing and using the
+              AI system or service) to the extent possible based on the data amount or contents.
+           Discuss method, frequency, maintenance period and so on recordings of data logs,
+              taking into account the importance for identifying causes of accidents, and so
+              forth, devising preventive measures, or proving requirements for responsibilities
+              for damages, in accordance with characteristic of used technology as well as
+              purposes.
+
+      (2) Providing relevant stakeholders with information
+           Based on the relations with AI and the nature and purpose of AI, provide and explain
+               information summarizing the items listed below according to the knowledge and
+               ability of each stakeholder.
+               ⚫ AI systems and services in general
+                    ➢ Fact that AI is used and its scope
+                    ➢ Methods for data collection and annotation
+                    ➢ Methods for training and evaluation
+                    ➢ Information on the underlying AI models
+                    ➢ Capabilities and limitations of the AI system or service, and
+                         proper/improper use by AI business users
+
+
+33
+   Various countries define transparency in different ways. For example, the “Artificial Intelligence Risk Management
+Framework” by NIST (January 2023) defines it in three categories for AI: transparency (which can answer the question of “what
+happened” in the system), explainability (which can answer the question of “how” a decision was made in the system), and
+interpretability (which can answer the question of “why” a decision was made by the system and its meaning or context to the
+user), while the “ETHICS GUIDELINES FOR TRUSTWORTHY AI” by the European Commission (April 2019) defines it as traceability,
+explainability, and communication. The international standard ISO/IEC JTC1/SC42 defines the transparency as the degree to
+which appropriate information about the AI system is communicated to relevant stakeholders.
+  In addition, in the EU, the AI Act (Artificial Intelligence Act) (June 2024), transparency means that AI systems are developed
+and utilized in a way that ensures appropriate traceability and explainability, enabling humans to recognize when they are
+communicating or interacting with an AI system, adequately disclosing the AI system’s functions and limitations to users, and
+explaining rights to affected individuals.
+  In this document, matters relating to information disclosure are broadly referred to as “transparency.”
+  It is important to note that, in addition to definitions, the subjects of disclosure, the entities responsible for disclosure, and
+the purposes of disclosure can vary between countries.
+
+                                                                18
+                        ➢   Relevant laws applicable in the country/region where those provided with
+                            the AI system or service or AI business users are located
+                 Encourage a variety of stakeholders to engage actively through dialogues and
+                  collect various opinions on social impacts and safety.
+                 In addition, show actual advantages of providing or using the AI system or service
+                  and risks to relevant stakeholders.
+
+      (3) Reasonable and truthful support
+           Provision of information to stakeholders described above “(2) Providing relevant
+              stakeholders with information” doesn’t necessarily assume disclosure of algorithms
+              or source code, but it assumes providing them to the extent that satisfies social
+              rationality based on the characteristics and uses of the technologies to be adopted
+              while respecting privacy and trade secrets. (However, it is necessary to satisfy the
+              demands for “(4) Improving explainability and interpretability for relevant
+              stakeholders” and “7) Accountability” as stated later.)
+           If any open technologies are used, conform to the rules specified for them.
+           When disclose developed AI systems as open source, consider any potential social
+              impacts.
+
+      (4) Improving explainability and interpretability for relevant stakeholders
+           Share necessary explanations for those to be explained with actors who explain to
+              analyze requirements of such explanation to gain relevant stakeholders'
+              understanding and sense of safety to provide proof of AI operations.
+              ⚫ AI provider: Inform the AI developer about things that are required to be
+                  explained.
+              ⚫ AI business user: Inform the AI developer and AI provider about things that are
+                  required to be explained.
+
+
+7)    Accountability34
+        When developing, providing, or using an AI system or service, it is important that each AI
+      business actor executes its accountability to stakeholders within reasonable extent for
+      ensuring traceability, conforming to common guiding principles, and the like based on each
+      AI business actor’s roles and the degree of risks posed by the AI system or service.
+
+      (1) Improving traceability
+           Establish a situation that allows the origin of data and decisions made during the
+              development, provision, or use of the AI system or service to be traced forward
+              and backward to the extent that is reasonable and technically possible.
+
+      (2) Explanation of conformity to common guiding principles
+           Provide and explain information on how AI business actors conform to common
+              guiding principles regularly to stakeholders, including suppliers, according to their
+              knowledge and competence. This information summarizes, for example, the
+              following items:
+              ⚫ General
+                   ➢ Whether any risk is found that prevents the common guiding principles
+                       from being implemented, to what extent it prevents the implementation
+                       of those guiding principles
+                   ➢ Implementation progress of the common guiding principles
+              ⚫ Human-centric
+
+
+34
+  While accountability is sometimes defined as explainability, the Guidelines handle information disclosure in the context of
+transparency, so accountability is defined as the concept of taking actual and legal responsibilities for AI and setting
+prerequisites for taking the responsibilities.
+
+                                                            19
+                         ➢    How disinformation is considered, and how diversity, inclusion, user
+                              support, and sustainability are ensured
+                  ⚫      Safety
+                         ➢ Known risks relating to AI systems and services, countermeasures against
+                              them, and how to ensure safety against them
+                  ⚫      Fairness
+                         ➢ Possibility that technological elements forming AI models will introduce
+                              bias. Those elements may include training data, AI model training
+                              process, prompts expected to be entered by AI business users or non-
+                              business users, and reference information and collaborating external
+                              services used by AI models for inference.
+                  ⚫      Privacy protection
+                         ➢ Risks of infringements of privacy of AI business actors or stakeholders
+                              entailed by the AI system or service, countermeasures against those risks,
+                              and actions expected to be taken when the privacy breach actually
+                              occurred.
+                  ⚫      Ensuring security
+                         ➢ Conformity to standards required to facilitate collaboration between AI
+                              systems and services or with other systems if such collaboration occurs
+                         ➢ Any risks that may occur when the AI system or service collaborates with
+                              other AI systems and services via the Internet, and measures to be taken
+                              against the risks
+
+      (3) Designation of responsible persons
+           Appoint someone as the person responsible for executing its accountability in each
+              AI business actor.
+
+      (4) Sharing responsibilities among actors
+           As for responsibilities shared among actors, clarify who take the responsibilities
+              through contracts or social promises (voluntary commitments) between AI
+              business actors including non-business users.
+
+      (5) Specific actions for stakeholders
+           As necessary, establish and publicly report policies, including those created by each
+              AI business actor on AI governance or privacy in relation to risk management or
+              safety assurance associated with the use of AI systems and services. Those policies
+              involve social responsibilities, including sharing visions with and giving out and
+              providing information to society and general citizens.
+           As necessary, set opportunities for accepting comments from stakeholders on
+              incorrect AI output and the like, and conduct periodic and objective monitoring of
+              the output.
+           Set policies to handle cases that might affect the interests of stakeholders 35 .
+              Execute those policies reliably and report the progress regularly to the
+              stakeholders as necessary.
+
+      (6) Documentation36
+           Document and store information on the items described above and keep them
+              available for a prescribed period whenever and wherever required and able to be
+              referenced in a manner appropriate for their use.
+
+
+35
+   In particular, it is desirable to take appropriate measures within the necessary scope when receiving inquiries or requests for
+information disclosure from rights holders of training data or those who have suffered disadvantages due to AI evaluations,
+judgments, recommendations, or predictions. Moreover, if a disclosure order or similar directive is issued by a court, it is
+required to follow the said order and undertake the necessary procedures.
+36
+   Regarding “documentation,” there is no problem as long as records are kept using appropriate tools so that they can be
+easily confirmed later, and they do not necessarily need to be recorded in the paper or specific document.
+
+                                                               20
+  The specific activities expected to be implemented by each AI business actor in cooperation
+with society are organized as follows.
+
+
+8) Education/literacy
+        Each AI business actor is expected to provide the persons engaged in AI in the AI business
+      actor with the necessary education to gain the knowledge, literacy, and ethical views to
+      correctly understand and use AI in a socially correct manner. Each AI business actor is also
+      expected to provide stakeholders with education, in consideration of the characteristics of
+      AI, including its complexity and the misinformation that it may provide, and possibilities of
+      intentional misuse of AI37.
+
+      (1) Ensuring AI literacy
+           Take the necessary steps to ensure that the persons engaged in AI in each AI
+              business actor acquire AI literacy of the level sufficient for the engagement.
+
+      (2) Education and reskilling
+           It is assumed that the division of tasks between AI and humans will change due to
+              the expansion of generative AI use, so discuss actively about education and
+              reskilling to promote new ways of working38.
+           Provide educational opportunities taking into account differences in knowledge
+              and skills among generations so that various people can acquire a deeper
+              understanding of benefits of AI and enhance the resilience against risks.
+
+      (3) Support for stakeholders
+           To improve the safety of the whole AI system or AI service, provide stakeholders
+              with education and literacy advancement as necessary.
+
+
+9) Ensuring fair competition
+        Each AI business actor is expected to maintain the fair competitive environment
+      surrounding AI so that new businesses and services using AI are created, the sustainable
+      economic growth is maintained, and solutions for social challenges are provided.
+
+
+10) Innovation
+
+
+37
+  The Ministry of Economy, Trade and Industry and IPA published “Digital Skill Standards” (December 2022) that organized the
+profile of ideal human resources needed in the DX era as a guiding principle on personal studies and recruitment and education
+of human resources in companies. In addition, they compiled “Concept of Human Resources and Skills Needed to Promote DX
+in Generative AI Era” in August 2023 and added the necessity for the familiarity with directions (prompts) and capabilities to
+put queries and build up and verify hypotheses to the skill standards. Furthermore, by July 2024, considering the impact of the
+widespread adoption of generative AI, we added notes on approaches to new technologies and included generative AI-related
+technologies such as “large language models, image generation models, and audio generation models” in the examples of
+learning items for “data utilization” and “technology.” Additionally, the Ministry of Economy, Trade and Industry has published
+a "Guidebook for the Utilization of Generative AI in Content Production," which outlines directions for the proper use of
+generative AI in content creation, taking into consideration the protection of intellectual property rights and related interests
+(July 2024). (Japanese Only) https://www.meti.go.jp/policy/mono_info_service/contents/ai_guidebook_set.pdf
+・Digital Skill Standards(Japanese Only) https://www.meti.go.jp/policy/it_policy/jinzai/skill_standard/main.html
+・Study group on human resources policy in the digital age (Japanese Only)
+https://www.meti.go.jp/shingikai/mono_info_service/digital_jinzai/index.html
+The Ministry of Internal Affairs and Communications also published “The First Step of Generative AI - Introduction to the Basic
+Use and Precautions of Generative AI” for citizens (beginners) who may encounter generative AI in their future lives,
+introducing basic knowledge of generative AI, utilization scenes, introductory usage methods, and points to note when using
+generative AI.
+https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/
+38
+   The Ministry of Health, Labour and Welfare’s Employment Policy Research Group touches on career formation and skill
+education based on technological changes under the theme of “Improving Labor Productivity Utilizing New Technologies.”
+https://www.mhlw.go.jp/stf/shingi/other-syokuan_128950.html
+
+                                                              21
+      Each AI business actor is expected to make efforts to actively contribute to the promotion
+    of innovation for the whole society.
+
+    (1) Promoting open innovation, etc.
+         Promote internationalization, diversification, collaboration among industry,
+            academia, and government sectors, and open innovation.
+         Make efforts to maintain the environment in which data necessary for AI innovation
+            is created.
+
+    (2) Consideration for interconnectivity and interoperability
+         Ensure the interconnectivity and interoperability between your AI systems/services
+            and other AI systems/services.
+         When there are standard specifications, comply with them.
+
+    (3) Providing information appropriately
+         Provide necessary information to the extent that does not hinder the innovation of
+             the information provider.
+
+  In addition to the matters described above, important matters for AI developers, AI providers
+or AI business users, respectively, are organized in “Table 1. Important matters for each AI
+business actor in addition to common guiding principles.” As for the matters expressed as “-” in
+the table, each AI business actor is expected to implement the actions described in the “Part 2.
+C. Common guiding principles” column, rather than doing nothing.
+
+  Moreover, regarding the relationship between AI and intellectual property rights, it is
+important for each entity to consider response policies based on the intent, as organized in the
+Cabinet Office’s “Interim Report of the Study Group on Intellectual Property Rights in the AI Era”
+(May 2024) and the Agency for Cultural Affairs’ “Checklist & Guidance on AI and Copyright” (July
+2024). Each entity should consider response policies based on the intent of these documents.
+
+  Hereinafter, each matter (item) described in “Table 1. Important matters for each AI business
+actor in addition to common guiding principles” will be identified and indicated with the notation
+[AI business actor - Guiding principle number) Description.].
+        An AI business actor is indicated by its initial: AI Developer, AI Provider, and AI Business
+         User. A guiding principle number and description number are indicated by numbers,
+         respectively, given in the table.
+    “D-2) i.”, for example, refers to the important matter for AI developers about the proper
+  data training regarding safety.
+
+
+
+
+                                                22
+Table 1. Important matters for each AI business actor in addition to common guiding principles
+
+                      Part 2.       Important matters for each AI business actor in addition to
+                C. Common guiding                   common guiding principles
+                     principles   Part 3. AI Developer Part 4. AI Provider    Part 5. AI Business
+                                           (D)                 (P)                 User (U)
+1)              (1) Human dignity and            -                                  -                                 -
+Human-              autonomy of individuals
+centric         (2) Paying attention to
+                    manipulations by AI on
+                    decision-makings and
+                    emotions
+                (3) Countermeasures against
+                    disinformation
+                (4) Ensuring
+                    diversity/inclusion
+                (5) Providing user support
+                (6) Ensuring sustainability
+2)              (1) Taking into consideration     i. Proper data training           i. Actions against risks that    i. Proper use (of AI) that
+Safety              the lives, bodies,           ii. Development that takes            consider the lives, bodies,      considers safety
+                    properties and minds of          into consideration the            properties, and minds of
+                    humans and the                   lives, bodies, properties         human and the
+                    environment                      and minds of humans and           environment
+                (2) Proper use (of AI)               the environment               ii. Provision contributing to
+                (3) Proper training             iii. Development contributing          proper use (of AI)
+                                                     to proper use (of AI)
+3)              (1) Consideration for bias in    i. Consideration for bias in      i. Consideration for bias in      i. Consideration for bias in
+Fairness            technologies forming AI         data                              configurations and data of        input data or prompt
+                    models                      ii. Consideration for bias in         AI systems and services
+                (2) Intervention by decisions       algorithms, etc., of AI
+                    made by humans                  models
+4)              (1) Protection of privacy        i. Proper data training            i. Deployment of mechanisms      i. Countermeasures against
+Privacy             across AI systems and        (Repeat of D-2) i.)                   and measures for                 inappropriate input of
+protection          services in general                                                protecting privacy               personal data and privacy
+                                                                                   ii. Countermeasures against          violation
+                                                                                       privacy violation
+5)              (1) Security measures            i. Deployment of mechanisms        i. Deployment of mechanisms      i. Implementation of security
+Ensuring            relevant to AI systems          for security measures              for security measures            measures
+security            and services                ii. Consideration for the latest   ii. Handling of vulnerabilities
+                (2) Consideration for the           trends
+                    latest trends
+6)              (1) Ensuring verifiability       i. Ensuring verifiability          i. Documentation of system       i. Providing relevant
+Transparency    (2) Providing relevant          ii. Providing relevant                 architectures and the like       stakeholders with
+                    stakeholders with               stakeholders with              ii. Providing relevant               information
+                    information                     information                        stakeholders with
+                (3) Reasonable and truthful                                            information
+                    support
+                (4) Improving explainability
+                    and interpretability for
+                    relevant stakeholders
+7)             (1) Improving traceability        i. Explanation to AI providers     i. Explanation to AI business     i. Explanation to relevant
+Accountability (2) Explanation of                   of conformity to common            users of conformity to            stakeholders
+                   conformity to common             guiding principles                 common guiding principles     ii. Effective use of provided
+                   guiding principles           ii. Documentation of               ii. Documentation of service          documents and conformity
+               (3) Designation of                   development-related                agreements or the like            to agreements
+                   responsible persons              information
+               (4) Sharing responsibilities
+                   among actors
+               (5) Specific actions for
+                   stakeholders
+               (6) Documentation
+8)              (1) Ensuring AI literacy         -                                  -                                 -
+Education/      (2) Education and reskilling
+literacy        (3) Support for stakeholders
+9)              -                                -                                  -                                 -
+Ensuring fair
+competition
+10)             (1) Promoting open               i. Contribution to creation of     -                                 -
+Innovation          innovation, etc.                opportunities for
+                (2) Consideration for               innovation
+                    interconnectivity and
+                    interoperability
+                (3) Providing information
+                    appropriately
+
+
+                                                                        23
+D. Common Guiding Principles for AI Business actors involved in
+advanced AI systems
+  On the basis of “Hiroshima Process International Guiding Principles for All AI Actors” established
+through the Hiroshima AI Process and its foundation “Hiroshima Process International Guiding
+Principles for Organizations Developing Advanced AI System,” the business actors involved in
+advanced AI systems should comply with the following in addition to the common guiding
+principles39. Note that some items from I) to XI) are applicable only to AI developers of advanced
+AI systems, so AI providers and AI business users are required to comply with items within the
+appropriate scope as described later in Parts 3 to 5.
+
+I)    Take appropriate measures throughout the development of advanced AI systems, including
+      prior to and throughout their deployment and placement on the market, to identify,
+      evaluate, and mitigate risks across the AI lifecycle. (“2) Safety”, “6) Transparency”)
+      ➢ Specifically, employing diverse internal and independent external testing measures,
+           through a combination of methods such as red-teaming40, and implementing
+           appropriate mitigation to address identified risks and vulnerabilities
+      ➢ In support of such testing, developers should seek to enable traceability, in relation to
+           datasets, processes, and decisions made during system development.
+
+II)   Identify and mitigate vulnerabilities, and, where appropriate, incidents and patterns of
+      misuse, after deployment including placement on the market. (“5) Ensuring security” and
+      “7) Accountability”)
+      ➢ Use, as and when appropriate commensurate to the level of risk, AI systems as
+           intended and monitor for vulnerabilities, and take appropriate action to address
+           these.
+            encouraged to maintain appropriate documentation of reported incidents and to
+                mitigate the identified risks and vulnerabilities, in collaboration with other
+                stakeholders.
+
+III) Publicly report advanced AI systems’ capabilities, limitations and domains of appropriate
+     and inappropriate use, to support ensuring sufficient transparency, thereby contributing to
+     increase accountability. (“6) Transparency” and “7) Accountability”)
+     ➢ Make a reasonable explanation of what decision was made, starting with the source of
+          the data, and document and publish it to ensure traceability.
+     ➢ Document and publish in a clear and understandable manner so that relevant
+          stakeholders can interpret the output of the AI system and use it appropriately by AI
+          business users and non-business users
+
+IV) Work towards responsible information sharing and reporting of incidents among
+    organizations developing advanced AI systems including with industry, governments, civil
+    society, and academia. (“5) Ensuring security”, “6) Transparency”, “7) Accountability”,
+    “10) Innovation”)
+
+
+
+39
+   For details, refer to “II. Hiroshima Process International Guiding Principles for All AI Actors and for Organizations Developing
+Advanced AI Systems” of “Hiroshima AI Process Comprehensive Policy Framework” in “Hiroshima AI Process G7 Digital & Tech
+Ministers’ Statement” adopted in the G7 Digital & Tech Ministers’ Meeting (December 2023).
+https://www.soumu.go.jp/menu_news/s-news/01tsushin06_02000283.html
+40
+   A team that verifies the effectiveness of security response system and countermeasures from the perspective of how attackers
+attack target organizations.
+A guide on the red teaming method has been published by the AISI.
+AISI, “Guide on Red Teaming Method for AI Safety” (September 2024)
+https://aisi.go.jp/effort/effort_framework/guide_to_red_teaming_methodology_on_ai_safety/
+
+                                                               24
+     ➢   These include reports on monitoring results and documents related to security and
+         safety risks.
+
+V)   Develop, implement and disclose AI governance and risk management policies grounded in
+     a risk-based approach – including privacy policies, and mitigation measures, in particular
+     for organizations developing advanced AI systems. (see “4) Privacy protection”, “7)
+     Accountability”)
+     ➢ If appropriate case, publish privacy policy
+     ➢ It is expected to establish and disclose AI governance policies and practices.
+
+VI) Invest in and implement robust security management, including physical security, cyber
+     security and security measures against internal threats, throughout the AI lifecycle. (“5)
+     Ensuring security”)
+     ➢ Consider operational measures for information security and appropriate
+          cyber/physical access control, etc.
+VII) Develop and deploy reliable content authentication and provenance mechanisms, where
+     technically feasible, such as watermarking or other techniques to enable users to identify
+     AI-generated content. (“6 Transparency”)
+     ➢ Specifically, it includes content authentication and usual mechanisms created by the
+          organization’s advanced AI systems where appropriate and technically feasible.
+     ➢ Make effort to develop tools and APIs that allow AI business users and non-business
+          users to determine whether or not specific content through watermarks has been
+          created using advanced AI systems.
+           It is encouraged to introduce other mechanisms, such as labelling and disclaimer
+               labelling, to help AI business users and non-business users know that they are
+               interacting with the AI system.
+
+     ➢   Prioritize research to reduce social, safety and security risks and prioritize investment
+         in effective mitigation measures (“10) Innovation”) Includes research on improving AI
+         safety, security, reliability, and handling risks
+
+VIII) Prioritize research to mitigate societal, safety and security risks and prioritize investment
+      in effective mitigation measures. (“10) Innovation”)
+      ➢ Implement efforts to develop reliable, human-centric AI, and at the same time
+           provide support for the improvement of literacy among non-business users.
+
+IX) Prioritize the development of advanced AI systems to address the world’s greatest
+    challenges, notably but not limited to the climate crisis, global health and education.
+    (“10) Innovation”).
+    ➢ Contribute to the development of international technical standards and best
+         practices, including watermarks, use them if appropriate, and go along with the
+         Standard Development Organization (SDO)
+
+X)   Advance the development of and, where appropriate, adoption of international technical
+     standards. (“2) Safety” and “3) Fairness”)
+     ➢ Appropriate measures to manage the quality of data, such as training data and data
+         collection, are encouraged to mitigate harmful bias
+     ➢ Appropriate transparency of the training dataset should also be supported and
+         adherence to applicable legal frameworks
+
+XI) Implement appropriate data input measures and protections for personal data and
+    intellectual property. (“5) Ensuring security” and “8) Education and literacy”)
+    ➢ Provide opportunities to improve the literacy and awareness of each AI business actor
+         and stakeholder, including issues such as how advanced AI systems increase specific
+         risks (e.g., those related to the proliferation of fake information) and how new risks
+         are created
+
+                                                25
+         It is encouraged to collaborate among AI business actors to share information to identify
+         and handle new risks and vulnerabilities associated with advanced AI systems.
+XII) Promote and contribute to trustworthy and responsible use of advanced AI systems. (“5)
+     Ensuring security” and “8) Education and literacy”)
+     ➢ Provide opportunities to improve their own and, where appropriate, others’ digital
+         literacy, training and awareness, including on issues such as how advanced AI systems
+         may exacerbate certain risks (e.g. with regard to the spread of disinformation) and/or
+         create new ones
+
+
+
+E. Building AI governance
+  In order to implement the common guiding principles across value chains with the cooperation
+of AI business actors and use AI safely and securely, it is important to build AI governance that
+manages risks posed by AI at levels acceptable to stakeholders and maximizes their benefits. In
+order to create Society 5.0, it is also essential to socially implement a system that merges the
+cyberspace and physical space in an advanced way (CPS) and build appropriate AI governance for
+the system. A society with CPS set as its foundation is complex and rapidly changes, and it is
+difficult to control the risks in such a society. Those social changes cause the goals targeted by
+the AI governance to continuously change. Therefore, it is important to practice agile governance
+instead of regular AI governance where the predefined rules or procedures remain unchanged. In
+agile governance, multiple stakeholders continuously and rapidly run a cycle consisting of
+environment and risk analysis, goal setting, system design, operation, and then evaluation in
+various governance systems in companies, regulations, infrastructure, markets, social codes and
+the like41.
+
+   For specific studies, it is important to take into consideration the severity and probabilities of
+risks posed by the AI developed, provided, or used by each AI business actor and limitations on
+the resources of each AI business actor.
+      (1) Each AI business actor first conducts an environment and risk analysis for the AI system
+          or service based on the benefits and risks the AI system or service may bring about
+          during the overall lifecycle, social acceptance relating to the development and
+          operation, changes in the external environment, and the maturity of AI.
+      (2) Then, according to the analysis results, each AI business actor determines whether to
+          develop, provide, or use the AI system or service. If it decides to do so, consider setting
+          AI governance goals 42 by establishing policies relating to AI governance. These AI
+          governance goals should be consistent with each AI business actor’s reason for existence
+          and management goals such as philosophy and vision.
+      (3) After that, each AI business actor designs the AI management system to achieve the AI
+          governance goals and operate the system. In this stage, each AI business actor
+          establishes transparency and ensure accountability (such as fairness) towards external
+          stakeholders about its AI governance goals and the operation status of those goals.
+      (4) Then, each AI business actor continuously monitors and evaluates whether the AI
+          management system, including risk assessment, is effectively functioning, and make
+          continuous improvements.
+
+
+41
+   For reference, the appendix provides a detailed explanation for practicing AI governance based on “Governance Guidelines
+for Implementation of AI Principles ver. 1.1” by the Ministry of Economy, Trade and Industry, as well as action goals, which are
+specific activities that each AI business actor works on, and virtual “practice cases” that assume each AI business actor.
+42
+   As AI governance goals, some AI business actors might establish an action policy (the name may vary with the AI business
+actor, for example, “AI policy”) that consists of action items for the common guiding principles described in the Guidelines,
+whereas some AI business actors might establish an action policy that includes other elements in addition to action items for
+the common guiding principles (data use policy, for example). Guiding principles can also be provided to increase benefits. For
+example, diversity and inclusion may be improved through effective use of AI. The naming is left to each AI business actor’s
+discretion as well.
+
+                                                              26
+    (5) After the operation of the AI system or service commences, each AI business actor
+        repeatedly analyzes the environments and risks based on changes in the external
+        environment, including those in the social system, such as regulations, and review the
+        goals as necessary.
+
+                                              Goal
+                                             setting
+
+                             Environment
+                               and risk
+                              analyses
+
+
+                                           Evaluation
+
+
+                                                         System
+                                                         design
+
+
+                Changes in external        Operation           Transparency and
+                   environment                            accountability for stakeholders
+                                                               (such as fairness)
+
+
+
+                            Figure 6. Basic model of agile governance
+
+
+  Furthermore, when studying AI governance, it is important to keep in mind the value chain and
+pay close attention to the following points.
+    ➢    Secure the cooperation among AI business actors from the viewpoints of value chain
+         and risk chain.
+          Example of issues among multiple AI business actors: Understanding of AI risks,
+              improvement of quality, creation of new values through interconnections among AI
+              systems and services (System of Systems), development of literacy of AI business
+              users or non-business users, and so on.
+          Example of points necessary to be organized among AI business actors: Contracts
+              concerning rights to training and using data and generated AI models.
+    ➢    Clarify the risk chain including data distribution, conduct risk management activities
+         suitable to each of the development, provision, and use stages, and build the AI
+         governance regimes.
+          If the value and/or risk chains from AI development to service implementation are
+              expected to span across multiple countries, understand how the international
+              society is studying AI governance suitable for ensuring free distribution of data
+              (Data Free Flow with Trust (DFFT)), and ensure interoperability (consisting of two
+              aspects: “standard” and “interoperability between frameworks”) that is based on
+              that study.
+
+  To make those activities effective, the management has a great responsibility, so it is important
+that the management exhibits leadership. It is important to think of the building of AI governance
+as prior investment with the aim of achieving sustainable growth and medium- and long-term
+expansion of each AI business actor, not to regard the building of AI governance as costs from the
+viewpoint of short-term pursuit of profit. Under such leadership, run the agile governance cycle
+shown above and fit AI governance into the strategy of each organization and the company system
+expecting the cycle to take hold in each organization as its culture.
+
+
+
+
+                                                27
+Part 3 Matters Related to AI Developers
+   AI developers can directly design and modify AI models, so they significantly affect the output
+from AI as for overall AI systems and services. The society also expects them to drive innovation,
+so they have significant impact on the society. Therefore, it is important for AI developers to
+study in advance as much as possible the impacts that the AI they develop may pose when it is
+provided or used and take necessary measures against the impacts.
+   When developing AI, excessively focusing on accuracy may cause privacy or fairness to be
+compromised, or excessively focusing on privacy may cause transparency to be compromised.
+Thus, there may be conflict between different risks or from an ethical viewpoint. In such cases,
+it is important that the AI developers appropriately make decisions or corrections based on its
+business risks and social impacts. When an unexpected incident occurs in an AI system, any party
+in the AI value chain may be required to explain that incident. Bearing this in mind, it is important
+for AI developers to leave records that help them reasonably explain how they were involved in
+the AI system43.
+
+     The matters important for AI developers are shown below.
+
+⚫      During data preprocessing and training
+
+       ➢    D-2) i. Proper data training
+             Properly collect training data through privacy-by-design, etc., and if it contains
+                 third-parties’ personal data, data requiring attention to intellectual property
+                 rights, etc., ensure that such data is properly handled in compliance with laws and
+                 regulations throughout the lifecycle of AI (“2) Safety,” “4) Privacy protection,” “5)
+                 Ensuring security”).
+             Implement proper protective measures before and across training by, for example,
+                 considering the deployment of any data management and restriction function that
+                 controls access to data (“2) Safety,” “5) Ensuring security”).
+
+       ➢    D-3) i. Consideration for bias in data
+             Take reasonable measures to control the quality of the data, noting that depending
+                 on the learning process of training data and AI models, there may be biases
+                 (including potential biases that do not appear in the training data) (“3) Fairness”).
+             Based on the fact that biases, which that results in unreasonable disadvantage to
+                 specific individuals or groups, which cannot be rationally explained, cannot be
+                 completely eliminated from the process of training data, make sure AI models are
+                 trained with properly represented data sets and check AI systems assume no bias
+                 (“3) Fairness”).
+
+
+⚫      When developing AI
+
+       ➢    D-2) ii. Development that takes into consideration the lives, bodies, properties and
+            minds of humans and the environment
+             Set clear policy/guidance about safe use of AI to avoid danger incurred unexpected
+                service/use of AI by developers (“2) Safety”):
+                ⚫ Requirements for not only the performance under use conditions expected
+                      under various circumstances but also the performance achievable under the
+                      use in an unexpected environment
+                ⚫ Requirements for methods for minimizing risks (loss of control of a linked
+
+43
+  The OECD provides a catalog of tools and indicators to improve the reliability of AI development.
+https://oecd.ai/en/catalogue/overview
+
+                                                             28
+                        robot, inappropriate output, etc.) (guardrail technologies, etc.)
+
+      ➢     D-2) iii. Development contributing to proper use (of AI)
+             Establish clear policies and guidance on how AI can be used safely in order to avoid
+                 unexpected harm caused by the provision or use of AI (“2) Safety”).
+             When giving a post-training to a pre-trained AI model, select a proper pre-trained
+                 AI model (whether a license for the commercial use is granted, pre-training data,
+                 specs required for the training and execution, and so on) (“2) Safety”).
+
+      ➢     D-3) ii. Consideration for bias in algorithms, etc., of AI models
+             Consider the possibility that bias can be included by each technical element that
+                 makes up the AI model (prompts entered by AI business users or non-business users,
+                 reference information and collaborating external services used by AI models for
+                 inference, etc.) (“3) Fairness”)
+             Make sure AI models are trained with properly represented data sets and AI systems
+                 assume no bias based on the fact that bias cannot be completely eliminated from
+                 AI models (“3) Fairness”)
+
+      ➢     D-5) i. Deployment of mechanisms for security measures
+             Throughout the development of an AI system, take security measures appropriately
+                 based on the characteristics of the adopted technologies (security by design) (“5)
+                 Ensuring security”).
+
+      ➢     D-6) i. Ensuring verifiability
+             Note that the prediction performance and output quality of AI may significantly
+                 change or may fail to attain the expected precision after the use of AI is started.
+                 Preserve work records for follow-up verification and take measures to maintain
+                 and improve the AI quality (“2) Safety,” “6) Transparency”).
+
+
+⚫     After developing AI
+
+      ➢     D-5) ii. Consideration for the latest trends
+             New attack methods to AI systems are increasing on a daily basis. In order to
+                 address those risks, considerations to be noted in each step of development should
+                 be identified44 (“5) Ensuring security”).
+
+      ➢     D-6) ii. Providing relevant stakeholders with information
+             Provide information to relevant stakeholders in a timely manner (including cases
+                 where you provide the information via AI providers) about the AI systems that you
+                 develop (“6) Transparency”). This information may include, for example, the items
+                 listed below:
+                 ⚫ Possibility of changes in output or programs due to learning by AI systems (“1)
+                       Human-centric”)
+                 ⚫ Information on safety, including technical characteristics of AI systems,
+                       mechanisms for ensuring safety, foreseeable risks that may arise as a result of
+                       using the AI system, and remedies against them (“2) Safety”)
+                 ⚫ The expected scope of use set by AI developers in which the AI can be safely
+                       used in order to prevent harm by AI provision or use unexpected during
+                       development (“2) Safety”)
+                 ⚫ Information on the operational status of AI systems, causes of failures, and
+                       status of actions against them (“2) Safety”)
+
+
+44
+  You can collect information via “Promotion of AI” of IPA, etc.
+(Japanese Only) https://www.ipa.go.jp/digital/ai/index.html
+
+                                                              29
+           ⚫    Details of an update for AI, if any, and information on reasons for the update
+                (“2) Safety”)
+           ⚫    Policies on collecting data learned by AI models, how AI models learn the data,
+                and the system for implementing the learning (“3) Fairness,” “4) Privacy
+                protection,” “5) Ensuring security”)
+
+  ➢   D-7) i. Explanation to AI providers of conformity to common guiding principles
+       Explain to AI providers that the prediction performance or output quality of AI may
+           significantly change or may fail to attain the expected precision after AI starts to
+           be used and that risks may arise as a result of this characteristic. Provide AI
+           providers with relevant information as well. Specifically, communicate the
+           following items (“7) Accountability”):
+           ⚫ Measures against bias that technological elements forming AI models may
+                introduce. Those elements may include training data, AI model training
+                process, prompts assumed to be entered by AI business users or non-business
+                users, and reference information and collaborating external services used by
+                AI models for inference (“3) Fairness”).
+
+  ➢   D-7) ii. Documentation of development-related information
+       In order to improve traceability and transparency, prepare documents on your AI
+           system development processes, data collection and labeling affecting decision-
+           makings, algorithms you have used, and the like, as far as possible in a form that
+           third parties can use to validate the documents (“7) Accountability”).
+           (Note) This does not require to disclose all the documents prepared.
+
+The matters at which AI developers are expected to make efforts are listed below:
+
+  ➢   D-10) i. Contribution to creation of opportunities for innovation
+       It is expected to implement the following items as far as possible and contribute
+          to the creation of innovation opportunities (“10) Innovation”):
+          ⚫ Research and develop quality, reliability, and development methodologies,
+                and the like for AI.
+          ⚫ Contribute to the maintenance of the sustainable economic growth and the
+                provision of solutions for social challenges.
+          ⚫ Promote internationalization, diversification, and collaboration among
+                industry, academia, and government sectors, including watching trends in
+                international arguments, such as DFFT, and joining AI developer communities
+                and academic societies.
+          ⚫ Provide all of society with information about AI.
+
+
+
+
+                                            30
+Additional matters described in “Hiroshima Process International Code of
+Conduct for Organizations Developing Advanced AI Systems”
+  In addition to the matters mentioned above, AI developers who develop advanced AI systems
+should comply with “D. Common Guiding Principles for AI business actors involved in advanced AI
+systems” in Part 2 and the “Hiroshima Process International Code of Conduct for Organizations
+Developing Advanced AI Systems45.”
+
+   The following descriptions show the matters additionally described in the “Code of Conduct”
+in comparison with “D. Common Guiding Principles for AI business actors involved in advanced AI
+systems” in Part 2. For the whole contents of the “Code of Conduct,” refer to “Appendix 3. C.
+Matters to be observed in developing advanced AI systems.”
+
+I.   Take appropriate measures throughout the development of advanced AI systems, including
+     prior to and throughout their deployment and placement on the market, to identify,
+     evaluate, and mitigate risks across the AI lifecycle.
+     ➢ Document measures for risk mitigation and update them regularly. In addition, each AI
+          business actor should evaluate and adopt mitigation measures against these risks in
+          cooperation with relevant parties from across sectors.
+II. Identify and mitigate vulnerabilities, and, where appropriate, incidents and patterns of
+     misuse, after deployment including placement on the market.
+     ➢ Encourage consideration of incentives to disclose vulnerabilities through reward
+          systems, contests, prizes, etc.
+III. Publicly report advanced AI systems’ capabilities, limitations and domains of appropriate
+     and inappropriate use, to support ensuring sufficient transparency, thereby contributing to
+     increase accountability.
+     ➢ In addition to the Transparency Report, the Instructions for Use and related technical
+          documents should be kept up to date.
+IV. Work towards responsible information sharing and reporting of incidents among
+     organizations developing advanced AI systems including with industry, governments, civil
+     society, and academia.
+     ➢ Develop and promote shared standards and mechanisms to ensure the safety and
+          security of AI systems. In addition, appropriate documentation and cooperation with
+          other AI business actors, sharing of relevant information and reporting to social should
+          be conducted throughout the AI lifecycle.
+V. Develop, implement and disclose AI governance and risk management policies, grounded in
+     a risk-based approach – including privacy policies, and mitigation measures, in particular
+     for organizations developing advanced AI systems.
+     ➢ If possible, the AI Governance Policy should be developed, implemented, disclosed
+          and regularly updated to identify, evaluate, prevent and address AI risks throughout
+          the entire AI lifecycle. In addition, an education policy should be established for
+          business staff, etc.
+VI. Invest in and implement robust security controls, including physical security, cybersecurity
+     and insider threat safeguards across the AI lifecycle.
+     ➢ Assess the cyber security risks of advanced AI systems and require the storage of work
+          and documents in an appropriate and secure environment. Measures to deal with
+          unauthorized disclosure of risks, and the establishment of robust internal threat
+          detection programs that are consistent with the protection of intellectual property
+          and corporate secrets.
+
+
+
+45
+  The “Hiroshima Process International Code of Conduct for Organizations Developing Advanced AI Systems” (October 2023)
+which was endorsed by the G7 Leaders’ Statement on the Hiroshima AI Process.
+Note that this document is a living document compiled based on the existing OECD AI Principles in accordance with the trends
+in advanced AI systems.
+https://www.mofa.go.jp/mofaj/files/100573472.pdf
+
+                                                            31
+VII. Develop and deploy reliable content authentication and provenance mechanisms, where
+      technically feasible, such as watermarking or other techniques to enable users to identify
+      AI-generated content.
+      ➢ In addition to using watermarks and identifiers, each AI business actor should
+           cooperate and invest in research to advance the context in this area.
+VIII. Prioritize research to mitigate societal, safety and security risks and prioritize investment
+      in effective mitigation measures.
+      ➢ Research and cooperate preferentially to handle risks, such as maintaining democratic
+           values, respecting human rights, and protecting children and vulnerable populations.
+           In addition, it is preferred to manage risks actively, including environmental and
+           climate impacts, and to share risk research and best practices.
+IX. Prioritize the development of advanced AI systems to address the world’s greatest
+      challenges, notably but not limited to the climate crisis, global health and education.
+      ➢ Support digital literacy initiatives that enable individuals and local communities to
+           benefit from the use of AI and promote education and training for the public. Also
+           develop solutions and identify issues with the public community and community
+           groups.
+X. Advance the development of and, where appropriate, adoption of international technical
+      standards
+      ➢ In addition to the development of international technology standards, the
+           development of technology standards that can distinguish between AI-generated
+           content and other content should be done.
+XI. Implement appropriate data input measures and protections for personal data and
+      intellectual property.
+      ➢ As appropriate measures for managing the quality of data, implement machine learning
+           for transparency and privacy protection and countermeasure including testing and fine
+           tuning of leaks of sensitive data, and the introduce appropriate safeguards to honor
+           rights related to privacy and intellectual property, including copyright-protected
+           content.
+
+      A “reporting framework” for AI developers to voluntarily verify and report their compliance
+     with the “Code of Conduct” for developing advanced AI systems was agreed upon by the G7
+     in cooperation with the OECD and has been operated since February 202546. AI developers
+     who develop advanced AI systems in compliance with the “Code of Conduct” are expected
+     to participate in the “reporting framework.”
+
+
+
+
+46
+  Hiroshima Process International Code of Conduct “Reporting Framework”
+https://transparency.oecd.ai/
+
+                                                         32
+Part 4 Matters Related to AI Providers
+  AI providers are responsible for adding value to AI systems that AI developers develop and
+providing AI business users with AI systems and services. AI providers let AI gain popularity and
+expand within the society and significantly contribute to the growth of society and the economy.
+They have a considerable impact on society, so it is important that they provide AI systems and
+services on the precondition that AI is used properly. Therefore, in addition to examining whether
+the AI to be incorporated into an AI system or service is suited to the system or service, it is
+important to conduct the appropriate change management, configuration management, and
+service maintenance works taking into account that the expectations for AI might change in
+accordance with changes in the business strategy or social environment.
+  It is important to implement AI systems and services within the expected scope of use set by
+AI developers, maintain proper operation and use of the systems or services, and request AI
+developers to properly develop AI systems. It is important to provide AI business users with the
+AI service while providing and supporting the operation of the AI system or while operating the
+AI system. Upon provision, AI providers are expected to pay attention to prevent violations of
+stakeholders’ rights and the occurrence of social drawbacks, etc., and share information of
+incidents and the like within reasonable extent to provide safer, more secure and reliable AI
+systems and services.
+
+    The matters important for AI providers are shown below.
+
+⚫     When implementing an AI system
+
+      ➢   P-2) i. Actions against risks that consider the lives, bodies, properties, and minds of
+          human and the environment
+           Take measures that prevent AI from causing any harm on the lives, bodies,
+               properties, and minds of stakeholders including AI business users, and the
+               environment. The measures involve ensuring proper performances under usage
+               conditions expected at the time of provision, enabling the AI system to maintain
+               those performances in various situations, and minimizing (by guardrail technology
+               or the like) risks caused by, for example, an uncontrollable robot linking to AI or
+               improper output (“2) Safety”).
+
+      ➢   P-2) ii. Provision contributing to proper use (of AI)
+           Establish correct considerations to note for using AI systems and services (“2)
+               Safety”).
+           Use AI within the expected scope of use set by AI developers (“2) Safety”).
+           Guarantee the accuracy of AI systems/services and recency as necessary
+               (appropriateness of data) of training data at the time of its provision (“2) Safety”).
+           Examine how AI usage environments of the users of the AI system or service differ
+               from those that AI developers expect (“2) Safety”).
+
+      ➢   P-3) i. Consideration for bias in configurations and data of AI systems and services
+           Guarantee fairness of data at the time of its provision and examine bias contained
+               in referenced information and collaborating external services (“3) Fairness”).
+           Regularly evaluate inputs/outputs of AI models and rationales of decisions made
+               by AI models to monitor for any bias generated. As necessary, encourage AI
+               developers to re-evaluate the bias generated by each technical element forming
+               AI models and promote the improvement of AI models based on the re-evaluation
+               results (“3) Fairness”).
+           Examine the possibility where bias may be introduced that arbitrarily restricts
+               business processes and decisions made by AI business users, or non-business users
+               on AI systems, services, or user interfaces receiving AI output results (“3)
+
+                                                 33
+             Fairness”).
+
+    ➢   P-4) i. Deployment of mechanisms and measures for protecting privacy
+         Throughout the implementation of an AI system, take privacy protection measures
+             by, for example, introducing a mechanism that appropriately manages and restricts
+             access to personal data based on the characteristics of the adopted technologies
+             (privacy by design) (“4) Privacy protection”).
+
+    ➢   P-5) i. Deployment of mechanisms for security measures
+         Throughout the provision of an AI system or AI service, take security measures
+             appropriately based on the characteristics of the adopted technologies (security
+             by design) (“5) Ensuring security”).
+
+    ➢   P-6) i. Documentation of system architectures and the like
+         In order to improve traceability and transparency, prepare documents describing
+             the system architecture and data processing of the provided AI system or service
+             that influences the decision-making (“6) Transparency”).
+
+
+
+⚫   After an AI system or service starts to be provided
+
+    ➢   P-2) ii. Provision contributing to proper use (of AI)
+         Periodically verify whether the AI system or service is used for proper purposes (“2)
+             Safety”).
+
+    ➢   P-4) ii. Countermeasures against privacy violation
+         Properly collect necessary information concerning privacy protections on AI
+             systems/services and discuss protection strategy when its violation is recognized
+             to avoid repeated occurrence. (“4) Privacy protection”).
+
+    ➢   P-5) ii. Handling of vulnerabilities
+         There are many new attack methods targeting AI systems and services, so identify
+             trends in the latest risks and matters requiring attention in each provision step.
+             And, discuss to deal with vulnerabilities (“5) Ensuring security”).
+
+    ➢   P-6) ii. Providing relevant stakeholders with information
+         Provide information on the AI system or service to be provided (for example, the
+             items listed below) in a timely and appropriate manner so that it can be easily
+             understood and accessed (“6) Transparency”).
+             ⚫ Fact that AI is used, appropriate/inappropriate use methods, etc. (“6)
+                   Transparency”).
+             ⚫ Information on safety, including technical characteristics of the AI systems and
+                   services provided, foreseeable risks that may arise as a result of using the AI
+                   systems and services, and remedies against them (“2) Safety”).
+             ⚫ Possibility of changes in output or programs due to learning by the AI systems
+                   and services (“1) Human-centric”).
+             ⚫ Information on the operational status of the AI systems and services, causes
+                   of failures, status of actions against them, incidents, etc. (“2) Safety”).
+             ⚫ Details of an update of the AI system, if any, and information on reasons for
+                   the update (“2) Safety”).
+             ⚫ Policies on collecting data learned by AI models, how AI models learn the data,
+                   and the system for implementing the learning (“3) Fairness,” “4) Privacy
+                   protection,” “5) Ensuring security”).
+
+    ➢   P-7) i. Explanation to AI business users of conformity to common guiding principles
+
+                                              34
+            Encourage AI business users to use AI properly and provide them with the following
+             information (“7) Accountability”):
+             ⚫ Call attention to the use of data for which accuracy, and recency as necessary
+                  (appropriateness of data), are guaranteed (“2) Safety”).
+             ⚫ Call attention to the learning of inappropriate AI models during in-context
+                  learning (“2) Safety”).
+             ⚫ Precautions for when inputting personal data (“4) Privacy protection”).
+            Call attention to inappropriate input of personal data into the AI systems and
+             services to be provided (“4) Privacy protection”).
+
+         P-7) ii. Documentation of service agreements or the like
+          Compile service agreements for AI business users or non-business users (“7)
+              Accountability”).
+          Present privacy policies (“7) Accountability”).
+
+  Incidentally, AI providers who handle advanced AI systems should comply with “D. Common
+Guiding Principles for AI business actors involved in advanced AI systems” in Part 2 as follows:
+⚫   I) to XI): Comply with them within the appropriate scope.
+⚫   XII):      Comply with it.
+
+
+
+
+                                              35
+Part 5 Matters Related to AI Business Users
+   AI providers provide AI business users with safe, secure, and reliable AI systems and services.
+It is important that AI business users always use the AI systems and services properly within the
+scope of use set by the AI providers and, as necessary, operate the AI systems. By doing so, AI
+business users can derive the maximum benefits from the innovation enabled by AI, including
+greater business effectiveness, productivity, and creativity. In addition, human intervention
+allows human dignity and autonomy to be conserved, helping to prevent unexpected incidents.
+   If AI business users are requested to explain the abilities or output results of AI by the society
+or stakeholders, do so to gain their acceptance by obtaining the support of AI providers. It is also
+expected to learn the necessary insights to use AI more effectively.
+
+    The matters important for AI business users are shown below.
+
+
+⚫     When using AI systems and services
+
+      ➢   U-2) i. Proper use (of AI) that considers safety
+           Conform to instructions for use specified by AI providers, and use AI systems and
+               services within the expected scope of use set by AI providers during the design
+               process (“2) Safety”).
+           Input data for which accuracy, and recency as necessary (appropriateness of data),
+               are guaranteed (“2) Safety”).
+           Understand the degrees of precision and risks of AI output and use AI output after
+               confirming various risk factors (“2) Safety”).
+
+      ➢   U-3) i. Consideration for bias in input data or prompt
+           Input data for which fairness is guaranteed to avoid significant lack of fairness, pay
+               attention to bias in prompts, and be responsible for determining whether to use AI
+               output results for business (“3) Fairness”).
+
+      ➢   U-4) i. Countermeasures against inappropriate input of personal data and privacy
+          violation
+           Refrain from improperly inputting personal data to AI systems and services (“4)
+               Privacy protection”).
+           Collect information on privacy violation in AI systems and services properly and
+               take the necessary steps to prevent violations (“4) Privacy protection”).
+
+      ➢   U-5) i. Implementation of security measures
+           Conform to instructions for security specified by AI providers (“5) Ensuring
+               security”).
+           Pay attention not to improperly input secured information into AI systems/services
+               (“5) Ensuring security”).
+
+      ➢   U-6) i. Providing relevant stakeholders with information
+           Input data for which fairness is guaranteed to avoid significant lack of fairness, and
+               pay attention to bias in prompts when obtaining the output result from the AI
+               system or service. When using the output result for business decision-making,
+               inform the relevant stakeholders about the result (“3) Fairness,” “6)
+               Transparency”).
+
+      ➢   U-7) i. Explanation to relevant stakeholders
+
+
+
+                                                 36
+            Provide information, including instructions for proper use, in a plain and accessible
+             manner to the reasonable extent according to the nature of the relevant
+             stakeholders (“7) Accountability”).
+            If planning to use data provided by relevant stakeholders, let the stakeholders
+             know in advance how to provide the data and its formats based on the
+             characteristics and use purposes of AI, contact points with the relevant
+             stakeholders as data providers, privacy policies, and the like (“7) Accountability”).
+            If intending to use the AI output result as a reference for an evaluation of a specific
+             individual or group, notify the specific individual or group to be evaluated about
+             the use of AI, follow procedures for guaranteeing the accuracy, fairness,
+             transparency, etc., of the output result as recommended by the Guidelines, and
+             make a reasonable judgment by humans taking into account automation bias. If
+             the individual or group evaluated demands you to give an explanation, fulfill your
+             accountability by accepting the demand (“1) Human-centric,” “6) Transparency,”
+             “7) Accountability”).
+            In accordance with the characteristics of the AI systems and services to be used,
+             set up a help desk, at the reasonable level, that handles inquiries from relevant
+             stakeholders to give explanations and receive requests in cooperation with the AI
+             providers (“7) Accountability”).
+
+    ➢    U-7) ii. Effective use of provided documents and conformity to agreements
+          Properly store and use the documents about the AI systems and services provided
+              by the AI providers (“7) Accountability”).
+          Conform to the service agreements specified by the AI providers (“7)
+              Accountability”).
+
+  Incidentally, AI business users who handle advanced AI systems should comply with “D. Common
+Guiding Principles for AI business actors involved in advanced AI systems” in Part 2 as follows:
+⚫   I) to XI): Comply with them within the appropriate scope.
+⚫   XII):      Comply with it.
+
+
+
+
+                                               37
+

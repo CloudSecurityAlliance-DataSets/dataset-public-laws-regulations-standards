@@ -1,0 +1,3173 @@
+        Information Security
+        Measures Guidelines
+            for Small and
+            Medium sized
+             Enterprises
+                                               Version 3.1
+
+
+
+
+                                        IPA IT Security Center
+
+
+
+
+This document is a provisional translation for reference purposes only and is not an official translation of the original Japanese document
+                                         Table of Contents
+
+
+
+Introduction ....................................................................................................... 2
+1. To Business Owners ..................................................................................... 2
+2. Scope of This Guideline ................................................................................ 3
+3. Overview of This Guideline ........................................................................... 3
+4. How to Use This Guideline............................................................................ 4
+
+
+Part 1 For Business Owners.............................................................................. 5
+1. Risks of Not Implementing Information Security Measures ........................... 6
+2. What Business Owners Must Do................................................................... 8
+
+
+Part 2 Practical Guide ..................................................................................... 13
+1. How to Use the Practical Guide .................................................................. 14
+2. Start with What You Can Do ....................................................................... 15
+3. Begin with Organizational Measures ........................................................... 16
+4. Begin Full-Scale Implementation ................................................................ 20
+5. Measures for Enhanced Security ................................................................ 28
+
+
+Reference Information on Information Security................................................ 55
+Glossary of Terms Used in This Document ..................................................... 56
+
+
+Appendix 1: “Information Security 5 To-dos”
+Appendix 2: “5-Minute Information Security Self-Assessment”
+
+Appendices 1 and 2 can be downloaded from the following page.
+
+
+・ “Information Security Measures Guidelines for Small and
+  Medium‑sized Enterprises”
+  https://www.ipa.go.jp/en/about/activities/security-action.html
+                      Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                    Introduction
+    1       To Business Owners
+
+The objective of this guideline is to help small and medium-sized enterprises (SMEs) recognize
+the importance of managing information securely. It introduces the key concepts of information
+security measures designed to protect critical information1 from threats such as leaks, falsification,
+and loss. The guideline also provides a step-by-step method for implementing these measures.
+
+    Information security measures have a significant impact on management!
+Implementing effective information security measures enhances a
+company’s external credibility and can contribute to improved
+business performance. Conversely, neglecting information security
+measures may lead to system failures that disrupt business
+operations. In the event of an information leak, the company risks
+losing the trust of customers and business partners, potentially
+leading to a decline in performance. Moreover, if customers or
+partners suffer damages, the company may face substantial
+compensation claims that could destabilize its operations.
+(➡ For details, see P.6)
+
+    Business owners can be held legally and ethically accountable for
+    inadequate measures!
+In today's society, not only money and goods but also information is
+regarded as being valuable and rightful. For example, under the Act                          Our
+on the Protection of Personal Information, businesses are obligated                        company
+to protect individuals’ rights and interests and implement and                              policy
+oversee appropriate safety control measures. Violations of these
+obligations may result in financial penalties being imposed on the
+company. Furthermore, directors and auditors may also be held
+liable for breach of the duty of loyalty under the Companies Act.
+
+    Measures to be implemented by an organization must be clearly instructed
+    to the designated staff!
+To ensure the continuous growth of the company and fulfill their
+management responsibilities, business owners must not leave
+everything to designated staff. Instead, they should establish a clear
+information security policy and take the lead in its implementation.
+Information security measures will not be effective unless business
+owners take the lead, ensure all necessary areas are covered, and
+implement them organizationally in coordination with relevant
+stakeholders. Business owners must acknowledge these
+responsibilities and direct the designated staff to implement effective
+information security measures. (➡ For details, see P.8)
+
+1 ▲Critical information: Refers to information that is essential for business and valuable to the organization, such as
+trade secrets, as well as personal information of customers and employees that requires management responsibility. By
+appending the word “assets,” which implies economic value, such information is referred to as “information assets”. This
+guideline uses the term “information assets” alongside “critical information.”
+
+
+
+
+                                                    2
+                              Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   2              Scope of This Guideline
+
+   This guideline is intended for small and medium-sized enterprises (SMEs) and micro/small
+business operators (including corporations, sole proprietorships, and various organizations),
+regardless of industry. The target readers are business owners and those responsible for
+managing information.
+
+   3              Overview of This Guideline
+
+      This guideline consists of two main parts and appendices (Table 1).
+                                        [Table 1] Overview of This Guideline
+                           Structure                                      Overview
+                                                      This section explains the key information that
+                                                      business owners need to understand and the
+
+
+ Main Content
+                   Part 1: For Business Owners
+                                                      responsibilities they must consider.
+
+                                                      This section provides step-by-step guidance for
+                      Part 2: Practical Guide         individuals responsible for implementing
+                                                      information security measures.
+
+                           Appendix 1:                Appendix 1 presents 5 essential measures that
+                                                      should be implemented by all organizations,
+                  Information Security 5 To-dos
+
+ Appendix
+                                                      regardless of size.
+                           Appendix 2:
+                                                    Appendix 2 is a checklist of 25 items that can be
+                5-Minute Information Security Self- implemented effectively with minimal cost.
+                           Assessment
+
+
+
+
+                                                      3
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+ 4      How to Use This Guideline
+
+   No prior organizational experience in information security is required to use this guideline. It
+provides a step-by-step approach for implementing information security measures tailored to
+your business’s specific characteristics. “Part 1: For Business Owners” contains essential
+information that every business owner should read. Please begin by reading this section. “Part
+2: Practical Guide” should be used by starting from the step that is most appropriate for your
+organization.
+
+        Progress and Actions                              How to Use This Guideline
+
+                                       If you have not previously paid much attention to information
+                                       security measures, refer to “2. Start with What You Can Do”
+                                       (P.15) and implement the “Information Security 5 To-dos.”
+           Let’s start                  How to proceed
+                                        Start with what you can do, such as distributing the “Information
+                                        Security 5 To-dos” within your company.
+
+                                       If you have implemented Step 1 and you are ready to move
+                                       forward, refer to “3. Begin with Organizational Measures” (P.16)
+ Understand the current situation      and use the “5-Minute Information Security Self-Assessment” to
+                                       evaluate your company’s current status and focus on
+    and make improvements              implementing any measures not yet implemented.
+
+                                        How to proceed
+                                       - Establish a “Basic Information Security Policy”.
+                                       - Use the “5-Minute Information Security Self-Assessment” to
+                                         evaluate current measures and identify those that need to be
+                                         implemented.
+                                       - Create an “Information Security Handbook” to define specific
+                                         measures and ensure they are communicated to all
+                                         employees.
+
+                                       If you have already implemented Step 2 and are ready to move
+                                       forward, refer to “4. Begin Full-Scale Implementation” (P.20),
+                                       create measures and policies tailored to the specific risks your
+      Take full-scale action           company faces, and inspect and improve them after
+      Take full-scale action           implementation.
+
+                                        How to proceed
+                                       - Establish an information security management framework and
+                                         allocate a budget to implement the necessary measures.
+                                       - Identify the risks to be addressed, examine the necessary
+                                         measures, and create policies as needed.
+                                       - - Examine the necessary measures when outsourcing and
+                                         inspect and improve them as needed.
+
+
+                                       Refer to “5. Measures for Enhanced Security” (P.28) to
+                                       implement any additional measures necessary for your company.
+ Continue making improvements          Even if your company is still implementing Steps 1 and 2, refer to
+ Continue making improvements          Step 4 to implement necessary measures additionally.
+
+
+
+
+                                             4
+       Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+Part 1: For Business Owners
+
+
+
+
+       This section outlines the key matters
+      that business owners must understand
+        and the responsibilities they should
+         consider in relation to information
+                security measures.
+
+
+
+
+    Loss of credibility, suspension
+       of business transactions,
+        operational shutdowns,
+     inconvenience to customers
+        and business partners,
+        criminal penalties, and
+                                         Even with such serious
+       damage compensation…             consequences, is it okay
+                                              to leave it to
+                                        subordinates since I am
+                                          not sure what to do?
+
+
+
+
+                               5
+                        Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   1        Risks of Not Implementing Information Security Measures
+
+    While the spread and use of IT have enhanced operational efficiency, this has also led to a
+ rise in incidents involving significant compensation claims and financial losses due to the
+ leakage of confidential or personal information, which were previously unimaginable before the
+ spread of IT. Furthermore, in recent years, incidents and their impacts have become more
+ diverse, and non-financial damages have also become increasingly apparent. The losses
+ caused by such incidents can be reduced to an acceptable level from a business perspective
+ by implementing information security measures.
+    To help you better understand the importance of information security measures, the following
+ four points summarize incidents that occur due to inadequate measures and the major
+ disadvantages they bring to companies.
+(Major adverse impacts on companies)
+ ●Financial Loss ● Loss of Customers ● Business Interruption ● Impact on Employees
+
+   Using these as a reference, the first step for business owners in understanding information
+ security measures is to envision concretely what kind of information security incidents could
+ occur within their company, which operations are associated with concerns for such incidents,
+ and which scenario could pose the greatest risk to their business. This type of thought
+ experiment forms the foundation for risk awareness among business owners.
+    (1) Financial Loss
+   In the unfortunate event that confidential or personal information entrusted to you by your
+ business partners, etc., is leaked, you may incur significant financial loss, including claims for
+ damages from business partners and customers. In addition to such compensation-related
+ losses, an increasing number of companies are also suffering direct financial damage from
+ incidents such as unauthorized transfers relevant to internet banking and fraudulent use of credit
+ cards.
+
+
+  Case          Unauthorized access to an e-commerce website causes loss of sales opportunities
+  Study 1
+
+
+  (Location: Osaka Prefecture / Industry: Wholesale and retail / Number of Employees: 5 or less)
+   A company discovered signs of unauthorized access to its e-commerce website. While the website accepted credit card
+   payments, the payment page experienced a high volume of suspicious access. Specifically, it appeared that someone
+   was attempting to make payments by inputting random credit card numbers. Fortunately, no unauthorized credit card use
+   occurred, as all payment attempts had failed. However, it took the company about a week to respond to the incident,
+   during which some website functions were restricted, resulting in a small financial loss. This incident served as a wake-up
+   call for the company to recognize the importance of strengthening its information security measures.
+   After discovering the unauthorized access, the company reviewed its server logs and confirmed that a large number of
+   access attempts had originated from overseas IP addresses. Of course, companies that provide payment services,
+   including credit card companies, implement certain information security measures; However, this incident made the
+   company realize the importance of implementing its own internal measures as well. In response to this incident, the
+   company implemented strict measures to restrict or block access in cases where access was attempted from overseas IP
+   addresses or when errors occurred during the input of required credit card information.
+
+
+
+    (2) Loss of Customers
+    Regardless of the cause, when an incident involving critical information occurs, the company
+ responsible will be held accountable, and its reputation will suffer as a result. If other companies
+ offer the same product or service, it is only natural that more customers will choose products or
+ services from companies that have not had such incidents. This will result in significant damage
+ to the company, which is responsible immediately after the incident is discovered.
+
+
+
+                                                         6
+                           Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   For companies positioned within the supply chain of major manufacturers, this could lead to
+the suspension of ongoing orders. Companies that have had security incidents must strive to
+prevent recurrence and continue their operations without further incidents. However, once public
+trust is lost, it can take time to restore, posing a serious threat to the business’s survival.
+
+  Case       Loss of customer data on the company computer leads to loss of trust from business
+  Study 2
+             partners
+ (Location: Ishikawa Prefecture / Industry: Construction / Number of Employees: 101–300)
+  An incident occurred when an employee lost a company laptop containing customer information after carrying it from the
+  office. Although the affected customers were notified of the incident, the company lost credibility. An internal investigation
+  revealed that the company lacked sufficient awareness of information security. No clear rules or procedures had been
+  established for carrying laptops out of the premises, creating an environment where employees could freely take company
+  devices in and out. Subsequently, the company implemented measures such as encrypting information devices,
+  establishing information security policy including rules for taking computers out of the office, and providing information
+  security training for employees.
+
+
+       (3) Business Interruption
+   With the increasing use of digital technology in business operations, if a company’s information
+systems become unavailable due to a security incident, its operations will come to a standstill,
+resulting in delays in production activities and lost business opportunities. Moreover, if the
+affected system supports core business functions, the incident may necessitate the suspension
+of operations, disrupting business partners and potentially threatening the company's survival.
+
+   Case      Ransomware infection results in significant time and cost for recovery
+   Study 3
+
+ (Location: Ishikawa Prefecture / Industry: Construction / Number of Employees: 101–300)
+  A company experienced a ransomware attack, with files on its server being encrypted and a ransom demand made. The
+  company had to spend a substantial amount of time and money on the recovery efforts. Subsequently, the company
+  established internal policy and has been continuously working to raise employee awareness and improve cybersecurity
+  literacy. Additionally, technical measures were implemented, including the removal of administrator privileges from
+  employee devices to restrict software installation.
+
+
+
+       (4) Impact on Employees
+   A work environment that allows internal fraud to occur easily by exploiting inadequacies in
+information security measures can lead to lower employee morale. In the event of a security
+incident, it is usually employees who are punished, while management washes its hands of any
+responsibility. This can cause employees to lose their motivation to work. Some employees may
+even choose to leave the company to avoid being associated with its damaged reputation
+following an incident such as an information leak. Additionally, if employees' personal information
+is not adequately protected, they may file a lawsuit against the company. One business owner
+remarked, “What troubled me more than the individual losses was the fact that the entire
+workplace atmosphere became gloomy.”
+
+
+
+
+                                                             7
+                     Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   2            What Business Owners Must Do
+
+ This section explains the role of business owners in ensuring information security within their
+ company. To ensure information security, business owners should be well-versed with the
+ “Three Principles” described in (1) and ensure the implementation of the “Seven Key Initiatives”
+ described in (2).
+
+(1) “Three Principles” Business Owners Should Understand
+ Business owners are required to understand the following three principles and take appropriate
+ measures accordingly.
+
+
+  Principle 1
+                 Information security measures should be driven by leadership from
+                 business owners
+
+
+    As businesses promote the use of IT, business
+ owners need to recognize the importance of
+ information security measures and demonstrate
+ leadership by actively implementing and advancing
+ these measures. Employees seek a secure and
+ comfortable work environment, but they often resist
+ measures that reduce convenience or involve
+ cumbersome tasks. Therefore, it is the business
+ owner's responsibility to make informed decisions
+ and take the lead in implementing the security
+ measures that best fit their company.
+
+
+ Principle 2     Consider the information security measures of contractors
+
+
+  When outsourcing part of the company’s operations, especially when critical information is
+shared, business owners must carefully consider the information security measures
+implemented by the contractor. If information provided to a contractor is leaked or falsified, your
+company may still be held responsible for inadequate oversight as the outsourcing company,
+even if the incident resulted from the contractor’s negligence, by those affected by the breach.
+Therefore, you must exercise the same level of diligence regarding the information security
+measures of your contractors and business partners as you do within your own company.
+Additionally, if your company is acting as a contractor, it is your responsibility to comply with
+the information security requirements set forth by the outsourcing company.
+
+
+
+                                        Outsourcing
+
+                             Information security measures that
+                             are equal to or stronger than those
+                                 of the outsourcing company
+
+
+
+                                             8
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+ Principle 3
+               Maintain ongoing communication with stakeholders regarding
+               information security
+
+  To strengthen trust with business stakeholders (customers, business partners, contractors,
+agents, users, shareholders, etc.), business owners must understand and organize their
+company’s information security measures and responses to security incidents, enabling clear
+and effective communication with stakeholders.
+  By regularly sharing your company’s information security policies, you can demonstrate
+accountability in the event of a cyberattack, such as a virus infection or data breach, and
+preserve stakeholder trust without causing undue concern.
+
+
+
+
+                                          9
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(2) “Seven Key Initiatives” to be Implemented
+    This section explains the role of business owners in ensuring information security within
+ small and medium-sized enterprises (SMEs). Business owners should either implement the
+ following seven key initiatives themselves or instruct the designated staff to implement the
+ company’s information security measures. Depending on the situation, business owners may
+ need to take action on some of these initiatives personally.
+
+
+ Initiative 1 Establish a company-wide policy on information security
+
+
+    To clearly demonstrate to your employees and stakeholders your organization’s
+ commitment to implementing information security measures, establish and publicly declare
+ information security policy tailored to your company, specifying what information needs to be
+ protected and how it will be protected. Clarifying the scenarios of highest concern for your
+ company’s leadership facilitates the development of specific measures and supports the
+ formulation of a coherent organizational policy.
+
+
+ Initiative 2 Secure budget and personnel for information security measures
+
+
+   To effectively implement information security measures, it is essential to allocate an
+ appropriate budget and secure a designated staff. These measures include preventing
+ security incidents, mitigating the spread of damage, and implementing recovery measures in
+ the event of an incident. As information security measures often require advanced technical
+ expertise, the use of specialized external services should also be considered.
+
+                Instruct responsible personnel to assess and implement the necessary
+ Initiative 3
+                information security measures
+
+    Organize information and operations related to potential concerns, identify the possibility
+ (risk) of damage, and have the designated staff in charge of information security consider
+ measures to counter them. Provide the necessary budget for these measures and give clear
+ direction on how to implement them. Instruct personnel to document the measures to be
+ implemented as company rules, making it easy for employees to follow them. Doing so will
+ also be useful in communicating the measures to business partners.
+    Require regular reports on the implementation of information security measures on-site, at
+ an appropriate frequency, such as monthly or quarterly, to track progress and assess their
+ effectiveness.
+
+
+ Initiative 4 Instruct that information security measures be reviewed periodically
+
+
+    Review the implementation status of the information security measures outlined in Initiative
+ 3 and assess whether they align with the policy set forth in Initiative 1. Review the information
+ security policy as needed in response to changes in business operations or customer
+ expectations and instruct the designated staff in charge of information security to implement
+ or strengthen measures to prevent significant damage.
+
+
+
+
+                                             10
+                        Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+    Initiative 5 Establish an emergency response and recovery structure
+
+
+      Prepare an emergency response structure to handle unexpected incidents. Develop a
+   structure capable of promptly identifying the cause of damage, containing its spread, and
+   providing pre-defined recovery procedures so that accurate and timely instructions can be
+   issued in the event of an emergency. After establishing these structures, conduct simulation
+   drills based on potential incident scenarios to verify whether these structures function as
+   intended. Such drills also help raise awareness and improve response effectiveness.
+   Anticipating how business owners should act in an emergency enables a calm and appropriate
+   response when an actual incident occurs.
+
+                   Clarify security-related responsibilities when outsourcing or using
+    Initiative 6
+                   external services
+
+      When outsourcing part of your operations, ensure that the contractor is at least
+   implementing similar measures to those of your own company. To ensure this, it is necessary
+   to state and agree upon in the contract clearly the contractor’s responsibilities regarding
+   information security and the measures they must implement.
+      If your company lacks personnel with technical expertise in IT systems (such as email, web
+   servers, file servers, and business applications), using external services may be more cost-
+   effective than developing and operating systems internally. However, you must instruct the
+   designated staff not to use these services lightly and to thoroughly consider the conditions of
+   use and associated information security measures.
+
+
+   Initiative 7 Stay informed about the latest trends in information security
+
+
+     Given the rapid advancement in information technology, information security measures that
+   should be considered for implementation are constantly evolving. Because it is difficult for a
+   company to keep up with the latest trends in information security on its own, ensure that
+   designated staff in charge of information security stay informed by receiving updates from
+   public organizations2 and that they continuously refer to this information to stay prepared for
+   potential incidents. Actively exchange information through professional networks and
+   community participation and share the insights you gain with industry associations and
+   contractors.
+
+
+
+
+2▲ Public organizations that publish the latest trends in information security:
+ - IPA (Information-technology Promotion Agency, Japan) website:
+   https://www.ipa.go.jp/en/security/index.html
+ - NCO (National Cybersecurity Office) website: https://www.nisc.go.jp/eng/index.html
+
+
+
+                                                    11
+             Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                     Column
+Declare Your Commitment to “SECURITY ACTION” One-Star Level!
+  “SECURITY ACTION” is a program that allows SMEs to self-declare their
+commitment to information security measures. Depending on the level of engagement,
+participants can use either the “One-Star” or “Two-Star” logo marks free of charge.
+  Even companies that have never worked on information security measures before
+can get started with “SECURITY ACTION” right away. Implementing basic security
+measures, irrespective of company size and industry, will contribute to establishment
+of a relationship of trust with customers and business partners.
+  This program serves as a valuable first step toward information security, as it is a
+qualifying requirement for applying to public-supported initiatives that promote
+digitalization and cybersecurity measures.
+
+  The “SECURITY ACTION” One-Star represents a declaration of commitment to
+implement “Information Security 5 To-dos.”
+
+  “Information Security 5 To-dos”
+     1. Always keep your OS and software up to date
+     2. Install anti-virus software
+     3. Strengthen your passwords
+     4. Review data/file-sharing settings
+     5. Stay updated on possible threats and attacks
+
+  These are important measures that every company, regardless of its size, should
+implement. Before moving on to Part 2, begin implementing these measures under
+top-down leadership and officially declare that your company has launched its
+information security initiatives.
+  Please refer to the website for additional information on the program and self-
+declaration procedure.
+
+●”SECURITY ACTION” Website
+https://www.ipa.go.jp/en/about/activities/security-action.html
+
+
+
+
+                                      12
+                 Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+      Part 2: Practical Guide
+
+
+
+                             This section explains how
+                           designated staff in charge of
+                          information security measures
+                        should practically implement them.
+
+
+
+
+                                                           Are we still unprepared
+          Which information is                                for new threats?
+           mission-critical for
+            our company?
+
+
+
+
+  To what extent of                                              If we sign up for
+security level should                                            insurance, will it
+  we require for our                                           compensate for any
+ business partners?                                          damage of cyber-attack?
+
+
+
+
+                                         13
+                       Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+ 1       How to Use the Practical Guide
+
+   This section explains how to implement information security measures in practice based
+on the instructions of business owners. To effectively implement information security
+measures across the organization, it is essential to establish the measures to be
+implemented and ensure employees are informed of them.
+   However, since implementing such measures requires knowledge and experience in
+information security, it may not be possible to do so without personnel who possess
+adequate skills. Therefore, this guideline explains how businesses, particularly those that
+have not yet implemented adequate information security measures, can begin with actions
+they can take immediately and gradually progress to implementing measures best suited
+to their respective circumstances. Refer to Table 2, which shows the correspondence with
+the seven key initiatives described in Part 1, and proceed in accordance with your
+company’s status.
+
+ [Table 2] Correspondence between the Seven Key Initiatives and the Practical Guide
+                                      Seven Key Initiatives for Business Owners
+
+                  Practical Guide                     Page     1      2      3    4   5   6    7
+ 2   Start with What You Can Do
+
+     (1) Information Security 5 To-dos                 15                   ●                  ●
+ 3   Begin with Organizational Measures
+
+     (1) Establish and Communicate the Basic
+                                                       16      ●
+        Information Security Policy
+
+     (2) Assess the Current Implementation Status      16                   ●
+     (3) Decide the Measures and Communicate Them      18                   ●
+ 4   Begin Full-Scale Implementation
+
+     (1) Establish a Management Framework              20             ●               ●
+     (2) Promote Digital Transformation (DX) and
+                                                       21             ●
+        Budget for Information Security
+
+     (3) Develop Information Security Regulations      22                   ●
+     (4) Implement Measures When Outsourcing           24                                 ●
+     (5) Inspection and Improvement                    26                         ●
+ 5   Measures for Enhanced Security
+
+     (1) Information Gathering and Sharing             29                                      ●
+     (2) Website Information Security                  30                   ●
+
+     (3) Information Security for Cloud Services       33                   ●
+
+     (4) Information Security for Telework             37                   ●
+     (5) Security Incident Response                    40                             ●
+     (6) Utilizing Information Security Services       42                   ●
+     (7) Examples of Technical Measures and Their
+        Application                                    43                   ●
+     (8) How to Conduct a Detailed Risk Analysis       47                   ●     ●
+
+
+
+
+                                                     14
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+  2     Start with What You Can Do
+
+ (1) “Information Security 5 To-dos”
+  For many SMEs, implementing elaborate measures all at once can be a challenge.
+“Information Security 5 To-dos” summarizes five important measures that companies
+should implement, irrespective of their size.
+  As the use of the internet has become widespread, various threats have emerged, and the
+methods used by attackers are becoming increasingly sophisticated and malicious each year.
+However, some common measures are effective for the threats. “Information Security 5 To-
+dos” are a collection of common basic measures, so be sure to implement them.
+  ① Always keep your OS and software up to date
+     Leaving your OS and software outdated can leave security vulnerabilities unresolved,
+  increasing the risk of viruses that exploit these weaknesses. Ensure that you apply security
+  updates and use the latest versions of your operating system and software.
+
+  ② Install anti-virus software
+    There has been an increase in viruses that steal IDs and passwords, perform remote
+  operations, and encrypt files without permission. It is critical to install antivirus software and
+  ensure that virus definition files (also known as pattern files) are regularly updated.
+
+  ③ Strengthen your passwords
+     There is an increasing number of cases of unauthorized logins due to passwords being
+  guessed, cracked, or leaked from web services. Make your passwords strong, long and
+  complex and do not reuse them.
+
+  ④ Review data/file-sharing settings
+     Misconfigured web services for data storage or network-connected multifunction printers
+  are leading to an increasing number of data exposure incidents. Ensure that servers and
+  networked devices are shared only with people who are allowed to access them.
+
+  ⑤ Stay updated on possible threats and attacks
+     There has been an increase in sophisticated tactics where attackers send virus-attached
+  emails pretending to be business partners or associates or set up fake websites that
+  resemble legitimate ones in order to steal IDs and passwords. It is important to be aware of
+  these threats and attack methods and to take appropriate countermeasures.
+
+
+
+
+                                              15
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   3     Begin with Organizational Measures
+
+(1) Establish and Communicate Basic Information Security Policy
+   Prepare a concise document that clearly communicates the Basic Information Security
+ Policy established by the business owner to employees and stakeholders. Since there is
+ no prescribed format for the basic policy, work closely with the business owner to create a
+ version that suits your organization, taking into account the nature of your business and
+ your customers’ expectations.
+   This basic policy serves as a guideline for employees and a declaration of your
+ company’s commitment to stakeholders. Therefore, be sure to share the completed
+ document with stakeholders such as employees and customers.
+
+
+                         Example of Items to Include in Basic
+                         Information Security Policy
+                            ● Establish a Management Framework
+                            ● Compliance with Laws, Regulations, and Guidelines
+                            ● Implementation of Security Measures
+                            ● Continuous Improvement, etc.
+
+
+
+
+(2) Assess the Current Implementation Status
+   Use “5-Minute Information Security Self-Assessment” to determine how well your
+  organization is implementing information security measures. This self-assessment
+  enables you to assess the implementation status of information security measures by
+  simply answering the 25 questions presented in Table 3.
+
+   The following outlines how to conduct self-assessment.
+● Either the business owner or personnel familiar with the implementation
+  status of information security measures, such as the information systems
+  manager or a department head, can complete “5-Minute Information
+  Security Self-Assessment.”
+● If it is difficult for one person to complete the assessment, such as when
+  there are multiple offices or many departments, each office or department
+  should complete it separately, and the designated staff should compile the
+  results.
+● If the implementation status is unclear, ask each employee and combine
+  their responses to complete the self-assessment.
+● Circle (〇) one appropriate option in each check box. Scores are as follows:
+  “Implemented” (4 points), “Partially implemented” (2 points), “Not
+  implemented” (0 points), or “Don't know” (-1 point).
+● The total score from all items reflects the overall implementation status of
+  security measures across your organization and reveals any items marked
+  as “Don’t know.”
+
+
+
+
+                                               16
+                                                               Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+                                                               [Table 3] 25-Item Checklist for Self-Assessment
+
+                                         No                                                   Assessment Items
+                                                   Are the operating systems and software of your computers, smartphones, and other devices always up
+                                              1
+                                                   to date?
+
+
+
+
+               Basic measures
+                                                   Is antivirus software installed on your PCs, smartphones, and other devices, and are the virus definition
+                                              2
+Basic
+                                                   files*1 up to date?
+
+
+measures
+                                              3    Are your passwords long and complex to prevent them from being easily deciphered?
+
+                                              4    Are there appropriate access restrictions in place for sensitive information*2?
+
+                                                   Is there a process in place to share information about new threats and attack patterns within your
+                                              5
+                                                   company?
+                                              6    Do your employees take careful actions against viruses via attachments or URL links in e-mails?
+
+                                              7    Are measures implemented to prevent mistakes in the destination addresses of e-mails and faxes?
+
+                                                   Is sensitive information protected by attaching it to files rather than writing it in the message body of e-
+                                              8
+                                                   mails, and securing those files with passwords or other means?
+
+
+
+
+Organizational
+        Employee-level
+                                                   Are you implementing measures such as setting appropriate encryption methods for your wireless LAN
+                                              9
+                                                   to ensure safety?
+                                                   Are measures implemented against issues such as virus infections via the internet or inappropriate
+                                              10
+                                                   posts on social media?
+
+
+
+
+               Employee measures
+Measuresmeasures
+                                                   Is sensitive information backed up to prevent loss due to computer or server viruses, malfunctions, or
+                                              11
+                                                   operational errors?
+                                                   Are documents and electronic media containing sensitive information stored safely in a secure location
+                                              12
+                                                   such as a filing cabinet, rather than left on desks, to prevent loss or theft?
+                                                   When taking documents or electronic media containing sensitive information outside the workplace, are
+                                              13
+                                                   measures taken to prevent theft or loss?
+                                                   Are precautions taken to prevent unauthorized viewing or unauthorized use of computer screens when
+                                              14
+                                                   stepping away from your desk?
+
+                                              15   Is access to the workplace restricted to authorized personnel only?
+
+                                                   Are measures implemented to prevent theft, such as locking up laptops and other equipment when
+                                              16
+                                                   leaving the office?
+                                              17   Are measures implemented to ensure that no one forgets to lock the office when unoccupied?
+
+                                                   When disposing of documents containing sensitive information or media containing sensitive
+                                              18
+                                                   information, are measures implemented to ensure that they cannot be recovered?
+                                                   Does your organization ensure that employees understand their confidentiality obligations and comply
+                                              19
+                                                   with rules such as not divulging information obtained in the course of their work to outside parties?
+
+
+
+
+               Organizational measures
+                                              20   Are security trainings or awareness programs provided to employees?
+
+                                              21   Are security measures defined for the use of personal information devices for business purposes?
+
+                                                   Are confidentiality clauses included in contracts with business partners that involve the exchange of
+                                              22
+                                                   sensitive information?
+                                                   Are external services used for cloud services, website operation, and other purposes selected based on
+                                              23   their security and reliability?
+                                                   Is your organization prepared for security incidents by establishing procedures for emergency response,
+                                              24   creating response plans, and taking other measures?
+
+                                              25   Has your organization established rules for information security measures (such as those listed in 1 to
+                                                   24 above) and made them clear to employees?
+    *1: These are also called “pattern files,” which are database files used to detect computer viruses.
+    *2: Sensitive information refers to information that is necessary for business operations and valuable to the organization, such as trade
+    secrets, as well as information that entails management responsibility, such as personal information of customers and employees.
+
+
+
+
+                                                                                               17
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(3) Decide the Measures and Communicate Them
+   Based on the results of the self-assessment, review the explanatory section of the “5-
+ Minute Information Security Self-Assessment” to consider which information security
+ measures should be implemented. This self-assessment includes examples of measures
+ that are both effective and cost-efficient, allowing you to consider the measures that should
+ be implemented based on your results.
+   The following outlines how to utilize the assessment results.
+   Consideration and selection of security measures should be carried out jointly by the
+    responsible personnel, designated staff and the business owner.
+   Refer to examples of each assessment item for potential incidents or accidents that may
+    occur if no measures are taken, along with actions that can be taken to prevent them.
+   When considering measures, solicit employees’ opinions and determine those that are
+    appropriate for your work environment and operations.
+
+                     “5-Minute Information Security Self-Assessment”
+
+
+
+
+    Once the measures have been finalized, ensure that employees are informed of the
+ specific steps required to implement them. Prepare a document with detailed descriptions
+ of the finalized measures and share it with employees.
+
+
+
+
+                                          18
+                 Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                      Column
+Advance to the “SECURITY ACTION” Two-Star Level!
+   As the digital society continues to evolve, there is a growing demand for companies
+that can be trusted to handle information when using their services, placing orders, or
+conducting transactions. However, effectively conveying a company’s dedication to
+information security to customers and partners remains a significant challenge.
+Declaring a Two-Star rating clearly communicates a company’s commitment to
+information security measures to customers and business partners, helping to build
+their trust.
+  The Two-Star rating is a declaration that the company has implemented “3. Begin with
+Organizational Measures.”
+
+● Assess your company’s current status using “5-Minute Information Security
+Self-Assessment” tool
+● Establish and publicly share information security policy
+
+
+Please visit the website for further details on the declaration
+procedure and how to upgrade from the One-Star rating.
+
+
+
+
+● SECURITY ACTION website
+https://www.ipa.go.jp/en/about/activities/security-action.html
+
+
+
+
+                                          19
+                                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                4       Begin Full-Scale Implementation
+
+                  To implement measures that are appropriate for the company and achieve effective
+               results, it is first necessary to identify the information security risks (i.e., the potential for
+               business damage in the event of an incident; hereinafter referred to as “risk”) that may
+               affect the company. Based on the major security incidents and related business operations
+               that concern the business owners, specific measures to prevent incidents that could cause
+               serious harm to the business should be determined and clearly documented. (The
+               document outlining these measures shall hereafter be referred to as “policy.”)
+              (1) Establish a Management Framework
+                 1) Assign Responsibilities and Establish a Communication System
+                    Establish the management framework to promote information security measures that
+                 will specifically implement the information security policy created under “(1) Establish
+                 and Communicate Basic Information Security Policy” on P.16 (See Table 4). Establish
+                 clear communication channels for information to flow from the Information Security
+                 Officer to employees via department heads and implement a reporting structure to
+                 ensure that any information security incidents are promptly reported to the Information
+                 Security Officer. If a personal information protection management framework (including
+                 a designated contact for personal information complaints) is already in place, ensure that
+                 it aligns with the newly established management framework.
+              [Table 4] Role and Responsibility Allocation for Information Security Management (Example)
+
+
+
+Begin Full-
+                           Job Title                                         Role and Responsibility
+                                                   Responsible for overseeing all matters concerning information security. Holds
+               Information Security Officer        decision-making authority for information security measures and bears overall
+                                                   responsibility.
+                                                   Responsible for managing and operating information security within each
+               Departmental Information Security
+                                                   department. Has the authority and responsibility to implement information
+               Officer
+                                                   security measures at the departmental level.
+                                                   Evaluate and introduce necessary information security measures for internal
+               System Administrator
+                                                   information systems.
+                                                   Plan and conduct employee training to promote and support information
+               Training Officer
+                                                   security measures.
+                                                   Inspect and verify whether information security measures are being
+               Audit Officer
+                                                   appropriately implemented.
+
+                   In addition, the officers and administrators mentioned above must possess sufficient
+                 knowledge and experience in information security to fulfill their roles effectively. Since
+                 acquiring such knowledge and experience takes time, personnel development should be
+                 approached with a medium- to long-term perspective.
+                   In smaller companies, it may be necessary to establish an effective structure (role
+                 assignments) independently, without strictly following the examples shown in Table 4.
+                 However, it is not advisable to create a system in which all information security measures
+                 are entrusted to a single individual.
+
+                 2) Establish an Emergency Response System
+                   In the event of an incident that significantly impacts the business or its customers, a
+                 response system should be established in advance to enable prompt and effective action
+                 (Table 5). Failure to respond appropriately or in a timely manner can compound the
+                 damage, hinder recovery efforts, and potentially lead to irreversible consequences.
+                 Therefore, it is essential to define the roles and procedures in advance clearly. It is also
+                 important to prepare and disseminate emergency contact information and
+                                                                 20
+                           Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+      communication channels both within and outside the organization. Additionally, conduct
+      discussions and training drills related to emergency response to ensure that procedures
+      can be executed as planned. Stakeholders
+       Compile contact information for all relevant parties, including IT product manufacturers
+      and maintenance vendors. In the event of a system outage, email or online contact
+      information may become inaccessible. Therefore, be sure to establish and verify
+      alternative communication methods in advance.
+
+  [Table 5] Roles and Responsibilities in an Emergency Response Structure (Example)
+               Job Title                                                         Role and Responsibility
+
+   Information Security Officer               Assess the impact of the incident and make decisions regarding the
+   (Example: CEO)                             response.
+
+                                              - Investigate the cause of the incident and report to the Information Security
+   Departmental Information                     Officer.
+   Security Officer                           - Take appropriate actions based on the decisions and instructions of the
+   (Examples: administration                    Information Security Officer.
+   manager, sales manager)                    - If the incident is related to the information system, coordinate with the
+                                                System Administrator to implement appropriate measures.
+   System Administrator
+                                              If the incident involves the information system, take appropriate measures in
+   (Example: concurrently serving
+                                              coordination with the Departmental Information Security Officer.
+   as an administration manager)
+
+   Employee who discovers the                 Report the details of the incident or abnormality to the Departmental
+   incident or abnormality                    Information Security Officer.
+
+
+ (2) Promote Digital Transformation (DX) and Secure Budget for
+     Information Security
+       Even for small and medium-sized enterprises, advancing digital transformation (DX3) is
+   essential to maintain and enhance competitiveness. These days, the use of digital
+   technologies and the internet, including cloud services, has become increasingly diverse,
+   leading to more complex risks. Therefore, to implement more effective security measures,
+   it is necessary to consider measures such as creating a diagram of the connection status
+   of the company's information systems to the Internet and securing the necessary budget.
+                                                                     Internet
+                                    Rental server
+                                  (Website and email)
+
+                                                                                             Cloud
+                                                                                            services
+
+
+
+
+                                                                                 Router                 In-house
+                                           File server                                           Wireless LAN
+                                          (File sharing)                                         Access Point
+                                                                            Switching Hub
+
+
+
+
+                                                           3 Desktop computers
+                                                                                                 1 Laptop
+                                                             (OS: Windows10)
+                                                                                             (OS: Windows10)
+
+
+
+
+3 ▲ Digital Transformation (DX): The process by which companies respond to rapid changes in the business
+  environment by leveraging data and digital technologies to transform products, services, and business
+  models based on customer and societal needs while also reforming operations, organizational structures,
+  processes, corporate culture, and practices to establish a competitive advantage.
+
+                                                                 21
+                          Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(3) Develop Information Security Regulations
+   The risks faced by a company can vary depending on factors such as its business
+ activities, the nature of the information it handles, its workplace environment, and the state
+ of IT utilization. Therefore, simply adopting generic policies may result in measures that
+ are not well-suited to the company’s specific needs. This section explains how to develop
+ policies tailored to your organization efficiently and effectively.
+   1) Identification of Risks That Need to Be Addressed
+     Identify serious information security incidents that concern the business owner and
+   determine the necessary measures to prevent them from occurring. At this stage,
+   analyzing the following scenarios together will help identify the risks that need to be
+   addressed:
+     External factors pertaining to operations and information (e.g., laws and
+       regulations, trends in information security incidents, security requirements from
+       business partners)
+     Internal factors (management policies, information security policies,
+       management framework, and the usage status of information systems)
+
+
+                                Compliance with the Act
+                                on the Protection of                                     Response to newly reported
+                                Personal Information                                     cyberattacks
+
+
+
+
+                      Response to security
+                      requirements from business
+                      partners                                                              Security measures for
+                                                                                            telework implementation
+
+
+
+
+   2) Decide the Measures
+     Attempting to address all potential risks may result in excessive costs or reduced
+   operational efficiency. Therefore, priority should be given to implementing measures
+   against risks that are highly likely to occur or could result in significant damage. For risks
+   with a lower likelihood of occurrence or minimal potential impact, it may be reasonable to
+   maintain the current state or take limited action as appropriate.
+
+
+        High                                                                                             Low Risk
+        Risk
+        Personal
+                                Business        Trade secrets     Data loss due
+                                                                                    Waiting half a day
+                                                                                      for repairs due    Theft of product
+                           operations halted     leaked due to     to computer                            brochure after
+        information                                                                  to a malfunction
+                           and data lost due       theft of a         failure                            product release
+      leaked due to                                                                        in the
+                            to server failure      mobile PC
+         a targeted                                                                    multifunction
+           attack                                                                          printer
+
+
+
+           Scope of Information Security Measures                                          Acceptable risk
+                                                                         Operationally
+                                                                                             threshold No impact in the
+                                                                          acceptable                                  event of a leak
+
+
+
+
+                                                             22
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+3) Creating Information Security Policies
+  Develop written policies that document the measures determined in Step 2. As drafting
+policies from scratch can be challenging without prior experience, refer to the following
+examples and modify them as needed to create policies tailored to your company (Table 6).
+              [Table 6] Overview of Information Security-related Policies
+ #                 Name                                            Overview
+                                        Define rules for establishing and monitoring the management
+ 1    Organizational measures           framework, as well as for sharing information within the
+                                        organization.
+
+                                        Establish rules regarding the responsibilities, training, and
+ 2    Personnel measures
+                                        human resource development of directors and employees.
+
+                                        Establish rules for managing information assets, methods for
+ 3    Information asset management
+                                        carrying them out, backup, disposal, etc.
+
+      Access control and                Define policies for access control and authentication related
+ 4
+      authentication                    to information assets.
+
+                                        Define secure areas such as offices, rooms, and facilities,
+ 5    Physical measures
+                                        and establish rules for conduct within them.
+
+
+ 6    Use of IT devices                 Establish rules for the use of IT devices and software.
+
+
+      IT Infrastructure operation and   Establish operational rules for IT infrastructure, including
+ 7
+      management                        servers and networks.
+
+      System development and            Establish rules for the development and maintenance of in-
+ 8
+      maintenance                       house information systems.
+
+                                        Establish rules for the selection, contracting, and evaluation
+ 9    Outsourcing management
+                                        of outsourced services. An outsourcing checklist is provided.
+
+      Information security incident
+                                        Establish rules for responding to information security
+ 10   response and business
+                                        incidents and managing business continuity.
+      continuity management
+
+ 11   Telework security measures        Establish rules for telework security measures.
+
+  If there are additional necessary or effective measures not explicitly mentioned above,
+ensure that such measures are also included.
+
+
+
+
+                                              23
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(4) Measures for Outsourcing
+    It has become a common practice to outsource a part or all of internal operations or utilize
+ external services, such as rental servers and cloud services. When providing important
+ information or requesting its processing, it is essential to ensure that the contractor also
+ implements appropriate information security measures.
+    Since direct control over external companies is challenging, specific security
+ requirements should be clearly stated in contracts or memoranda of understanding as part
+ of the terms of engagement to ensure they implement the necessary measures. If
+ concluding individual contracts or memorandums is not possible, select contractors after
+ confirming their service terms and information security policies.
+    Furthermore, the Act on the Protection of Personal Information requires that when
+ handling personal data is outsourced, the outsourcing party must appropriately supervise
+ the contractor to ensure that proper information security measures are implemented. It is
+ the responsibility of the outsourcing company to understand the contractor’s status and
+ ensure that the required security measures are properly implemented.
+    If an incident occurs due to insufficient security measures by the contractor, the
+ outsourcing company shall be held accountable for inadequate oversight, and the contractor
+ will lose the trust of the outsourcing company. When handling important information or
+ personal data that could have serious consequences in the event of a security incident, the
+ outsourcing company must clearly communicate its security measures and expectations to
+ the contractor, and the contractor must fully understand and implement them properly.
+
+
+
+
+                       Outsourcing                                     Sub-outsourcing
+
+
+                       - Critical Information                         - Critical Information
+                       - Personal Information                         - Personal Information
+
+
+
+
+                      Understanding the current status of information security measures
+
+
+
+    Based on these considerations, the outsourcing company must ensure that the contractor
+ implements information security measures appropriate to the type of information handled
+ and the nature of the outsourced operations. When handling confidential or personal
+ information, ensure that you enter into a formal contract or carefully select the contractor.
+ Furthermore, the outsourcing company must regularly verify that the contractor is
+ continuously implementing and updating appropriate information security measures, thereby
+ assuming responsibility for the ongoing effectiveness of the contractor’s security practices.
+
+
+
+
+                                                24
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                         Column
+Information Security in Outsourcing and Contracting
+ “Outsourcing” refers to the practice of entrusting certain operations to external parties. This
+may also be referred to as subcontracting, consignment, and quasi-mandate. “Contracting”
+refers to accepting and performing tasks or operations on behalf of another party. It may also
+imply “Contract Work,” where the completion of the work itself is guaranteed.
+  It is difficult for any company to handle all operations in-house, making outsourcing a common
+practice. Most businesses operate through a combination of outsourcing certain tasks and
+undertaking others. In addition, when outsourcing operations, information is exchanged
+between the outsourcing company and the contractor.
+  For example, when outsourcing the manufacturing of parts to an external factory, design
+drawings are shared; when outsourcing the preparation of financial statements to a tax
+accountant, sales and expense records are provided; and when outsourcing product delivery to
+a courier service, personal information such as customer names and addresses is exchanged.
+
+  When important or personal information is shared in this manner, inadequate security
+measures by the contractor increase the risk of incidents such as data leaks or falsification.
+Furthermore, even if such incidents occur on the contractor’s side, the outsourcing company
+may still be held accountable for inadequate management oversight. In addition, if the contractor
+experiences a cyberattack resulting in virus infections or system outages, it may lead to
+disruptions in ordering, shipping, and other operations, potentially causing a significant impact
+on the outsourcing company’s business.
+
+  When accepting outsourced work, contractors must demonstrate
+their ability to meet the requirements of security measures set forth by
+the outsourcing company. Gain your client’s trust by presenting the
+results of internal assessments, displaying the “SECURITY ACTION”
+declaration logo, and explaining specific regulations or examples of
+security measures implemented within your systems.
+Supply Chain Considerations
+  In recent years, globalization and digitalization have made the relationship between
+outsourcing and contracting increasingly complex. For example, when accepting a contract to
+manufacture parts, it is common to procure raw materials from overseas, subcontract parts
+processing, and entrust the transportation of finished components to other parties. This series
+of processes, including procurement, manufacturing, and sales, is referred to as the “supply
+chain.” Within this chain, companies with weaker information security measures are often
+targeted by cyberattacks, and such incidents can have a significant ripple effect on other
+companies that are linked to them. Therefore, even SMEs that undertake contracted work must
+recognize that they are a part of the chain and proactively implement information security
+measures.
+
+
+
+
+                                              25
+                     Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(5) Inspection and Improvement
+    Information security inspections involve verifying whether planned information security
+ measures are being implemented properly, identifying any overlooked measures, and
+ assessing the effectiveness of those measures in preventing security incidents. The
+ following can be used as criteria for inspections:
+
+    Note 1: Inspection based on the “Information Security 5 To-dos” or “5-Minute
+           Information Security Self-Assessment”
+   Example of inspection criteria
+    ☑ Measures listed in No. 1 of “Information Security 5 To-dos” are used as the
+      inspection criteria.
+      Is the Windows Update setting of the computers set to “Install updates
+      automatically,” and is the most recent update date current?
+    ☑ Measures listed in No. 20 of “5-Minute Information Security Self-
+      Assessment” are used as the inspection criteria.
+      Are news reports about information security incidents shared with employees, and
+      are updates from information security awareness websites regularly distributed?
+
+    Note 2: Inspection based on established information security measures and policies.
+   Example of inspection criteria
+    ☑ Use the established rules for initial response to a virus infection as the
+     criteria for inspection.
+     Do employees understand the internal regulations regarding procedures to follow in
+     the event of a virus infection?
+
+    Methods for conducting inspection:
+   ● Interviews: Directly question employees or contractor administrators and obtain
+      their responses
+   ● Review: Check the related documents, records, or computer settings to confirm
+     evidence that the security measures have been implemented
+   ● Observation (Inspection): Visit the workplace subject to inspection and confirm that
+     employees are following established rules and standards
+   ● Technical diagnostics: Use specialized software or tools to verify whether security
+     measures are properly implemented on computers and networks.
+   ● Checklist: Distribute checklists or questionnaires to relevant personnel and have
+     them complete and collect their completed responses.
+
+    It is essential to report the inspection results to the business owner and assess whether
+ the implemented security measures align with their intended objectives. Obtaining the
+ business owner’s evaluation enables the organization to review risk identification points if
+ necessary and revise the measures, thereby improving the accuracy and effectiveness of
+ its initiatives.
+    In cases where particularly stringent measures are required, such as when handling
+ trade secrets or personal information, conducting an information security audit4 by a third
+ party should also be considered.
+
+ 4▲ In general, inspections are conducted by stakeholders involved in the tasks under review, whereas audits
+   are carried out by independent auditors who are not engaged in the audited tasks. Therefore, audits are
+   more suitable when an objective verification is required.
+
+
+
+
+                                                26
+               Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                    Column
+
+Example of Implementing Information Security Inspection
+   Example of an inspection conducted based on “Information Security 5 To-dos” by
+ a company that has declared its commitment to the “SECURITY ACTION” One-Star
+ Level.
+
+ (1) Regarding No. 1, “Always keep your OS and software up to date,” inspect by
+   asking employees questions and reviewing their computers.
+
+
+          “According to ‘Information Security 5 To-dos,’ OS and software should
+           always be kept up to date. Is the OS and software on your laptop for off-
+           site use currently updated with the latest versions?”
+          “I am not sure, as I haven’t used the laptop for a while.”
+
+
+
+          “All right, then, please show me the installation history of Windows Update.”
+
+
+
+           (Employee displays the installation history screen on the laptop)
+
+
+
+          “According to the information on this screen, the last update was
+           installed 2 months ago. What is the reason for this?”
+
+          “I have configured Windows Update for automatic installation; however,
+           this laptop is only used when going outside for work, so it is usually not
+           connected to the network.” “I think that’s the reason why it has not been
+           updated.” “I will be visiting the client’s office tomorrow, where I will
+           connect this laptop to their LAN to use the email. After that, I am planning
+           to run the updates.”
+ (2) Interview other employees who use laptops outside the office and review their
+   screens to make a comprehensive judgment based on their answers and your
+   observations.
+    In this example, it was discovered that one of the laptops was not up to date with
+ its OS or software, violating the “Always keep your OS and software up to date” in
+ the guideline “Information Security 5 To-dos.” Given that the laptop was scheduled
+ to be connected to the customer’s LAN in that condition, there was a considerable
+ risk outside the company. If the risk is considered serious, it’s important to advise
+ taking corrective measures immediately.
+    Inspections may seem complicated, but they are essentially about evaluating
+ whether established rules are being followed, much like assessing whether players
+ adhere to the rules in sports. Through objective evaluations and assessments,
+ previously overlooked deficiencies can be identified, making the inspection process
+ highly effective in enhancing information security.
+
+
+                                        27
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+   5    Measures for Enhanced Security
+
+   As the use of IT becomes increasingly widespread, the importance of implementing
+ robust information security measures is gaining greater recognition. To prevent the
+ misuse of technology and protect against technical attacks, human vigilance and
+ procedural measures alone are insufficient. It is essential to enhance technical safeguards
+ and, when necessary, utilize external expert services to ensure optimal security.
+   This section outlines eight key areas of technical measures, along with methods for
+ identifying the appropriate measures that businesses using computers and the internet
+ should adopt to enhance their information security measures.
+
+(1) Information Gathering and Sharing
+      Explains the methods for gathering information related to information security, as
+      well as frameworks for sharing that information.
+(2) Information Security for Website
+      Explains the key points for building and operating websites.
+(3) Information Security for Cloud Services
+     Explains the key points for the secure use of cloud services.
+(4) Information Security for Telework
+     Explains the key points for conducting telework securely.
+(5) Security Incident Response
+     Explains the key points for responding to security incidents.
+(6) Utilizing information security services
+     Explains the external services available for information security.
+(7) Examples of Technical Measures and Their Application
+     Explains technical measures for the effective use of IT.
+(8) How to Conduct a Detailed Risk Analysis
+     Explains how to conduct a detailed risk assessment using the “Risk Analysis Sheet.”
+
+
+
+
+                                          28
+                         Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(1) Information Gathering and Sharing
+     Understanding the threats and attack methods related to information security and sharing
+  them within the organization will help to enhance the overall level of security measures.
+  Furthermore, sharing such information with external stakeholders also contributes to
+  improving the overall security level of society. This section explains the methods for gathering
+  information on information security and the frameworks for sharing that information.
+
+    1) Methods for Information Gathering
+         The key to effective information gathering lies in establishing a system that supports
+      continuous and systematic collection of relevant information. To achieve this, it is
+      essential to identify reliable sources of information and establish a system that enables
+      the automatic acquisition of necessary information. For example, proactively collecting
+      information by subscribing to newsletters or following SNS5 of specialized information
+      security organizations, IT product manufacturers, and maintenance vendors or by
+      attending relevant seminars is an effective approach.
+
+    2) Information Sharing Frameworks
+         In recent years, cyberattacks carried out through business partners and industry peers
+      have become increasingly frequent. Therefore, sharing the collected information not only
+      within the organization but also with business partners and industry peers can lead to
+      overall improvement in security measures. When there is a possibility that shared
+      information includes confidential information, a non-disclosure agreement (NDA) should
+      be established. Frameworks for information sharing include the Nippon CSIRT
+      Association, as well as industry-specific ISAC6, where available.
+
+   Reference Information
+   (Methods for Information Gathering)
+     ■ IPA IT Security Center
+     https://www.ipa.go.jp/en/
+     ■ Japan Computer Emergency Response Team Coordination Center (JPCERT/CC)
+     https://www.jpcert.or.jp/english/
+     ■ National Cybersecurity Office
+     https://www.nisc.go.jp/eng/index.html
+
+   (Information Sharing Concepts and Frameworks)
+      ■ Nippon CSIRT Association
+      https://www.nca.gr.jp/en/
+
+
+
+
+  5▲ Social Networking Service (SNS) refers to membership-based websites where registered users can interact
+    and communicate with each other.
+  6▲ Information Sharing and Analysis Center (ISAC) is an organization where businesses within the same
+    industry share and analyze information related to cybersecurity.
+
+
+
+                                                     29
+                         Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(2) Information Security for Website
+    Since operating a company website is directly linked to customer acquisition and sales
+  growth, many small to medium-sized enterprises (SMEs) have established their websites.
+  However, since websites are accessible from anywhere in the world, they are frequently
+  targeted by attackers. Incidents such as customer data breaches or website falsification that
+  redirect users to malicious sites can occur, posing risks to both the company and its users.
+  Therefore, it is important to implement appropriate security measures when operating a
+  website. This section outlines key considerations across three stages: planning the operational
+  model, preparing for launch, and managing the actual website.
+
+
+          Consideration                       Website
+          of website                          development                             Website operation
+
+
+     As security measures vary           Be aware of the technical                Address any post-launch
+     depending on the website's          vulnerabilities of your                  information security issues
+     operational structure,              website and plan appropriate             promptly and take steps to
+     consider an operational             security measures from the               maintain and improve the
+     model that aligns with your         design and development                   website’s security.
+     company’s specific situation.       stages.
+
+
+       1) Consideration of Website Operational Model
+          The operational structure of a website not only affects costs but also determines the
+       specific tasks the site administrator must perform. Accordingly, the required level of
+       technical expertise will vary depending on the selected operational model. Furthermore,
+       depending on the operational model, the available functions on the website, the degree
+       of flexibility in making changes, and the necessary information security measures
+       required will also vary. In particular, corporate websites often handle personal
+       information, so site administrators must ensure that security measures are continuously
+       maintained and regularly updated to address emerging threats. Before building a
+       website, administrators must understand the characteristics of each operational model,
+       as outlined in Table 7, and select the most appropriate model based on the specific
+       circumstances of the organization.
+                        [Table 7] Characteristics of Different Operational Models
+          Operational Model                                              Features
+
+                                     In this operational model, the company manages everything in-house, from
+           Self-hosted server
+                                     setting up the network and servers to building and operating the website hosted
+            (On-Premises)
+                                     on them. All information security measures must be taken in-house.
+
+                                     In this operational model, external services are utilized for the network and
+                                     servers, while the company is only responsible for building and operating the
+      Rental server cloud services   website. Since an external service provider handles information security
+                (PaaS)               measures for the network and servers, the company is only responsible for
+                                     implementing security measures related to the website’s construction and
+                                     operation.
+                                     In this operational model, all functions and management necessary for launching
+                                     and operating the website are outsourced to an external service provider. The
+                                     company is responsible only for updating the website’s content, such as text,
+        Shopping malls and ASPs
+                                     images, and videos. It is important for the website administrators to properly
+                                     manage the authentication credentials required to access and use external
+                                     services.
+
+
+                                                      30
+                         Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+  2) Website Development
+     Incidents targeting “security flaws” (vulnerabilities) in websites continue to occur.
+  Maintaining website security requires the regular application of vulnerability patches to the
+  server OS and software, in addition to ensuring the consistent maintenance of secure
+  configuration settings.
+     However, for independently developed “web applications”7, if information security issues
+  are discovered, it is often difficult to make corrections at the design level from the
+  perspective of service continuity and cost, and it may be necessary to settle for mitigation
+  measures.
+     Therefore, it is desirable to eliminate as many potential vulnerabilities as possible during
+  the development stage. Furthermore, when development is outsourced, and an incident
+  occurs due to vulnerabilities, the ordering party may be held responsible. Therefore,
+  measures to address vulnerabilities should be explicitly included in the specifications.
+  When developing web applications, refer to “How to Secure Your Website” and ensure that
+  all necessary vulnerability mitigation measures are implemented.
+  3) Website Operation
+    Secure website operation requires the implementation of appropriate measures for
+  each relevant component, as illustrated in the diagram below. Website security cannot
+  be guaranteed unless all of these measures are properly implemented.
+
+
+              Checklist for Website Security Measures
+
+
+
+
+          Check                          Check                           Check
+
+          1. Web application security    2. Security measures for the   3. Security measures for the
+            measures                     web server on which the        network (routers and firewalls) on
+                                         web application runs           which the web server is installed
+          Check
+                  4. Other security measures
+
+
+  Checklist for Website Security Measures
+      [1] Web application security measures
+        [2] Security measures for the web server on which the web application runs
+        [3] Security measures for the network (routers and firewalls) on which the web server is
+            installed
+        [4] Other security measures
+
+
+
+
+7▲ Application software that is accessed and used over a network such as the Internet.
+
+
+                                                        31
+                      Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+[Important] Essential Security Measures for EC Sites8
+      Many Small and medium-sized enterprises (SMEs) now use e-commerce (EC) sites
+   to sell products and services online. However, since online stores are accessible globally,
+   they are continuously exposed to cyberattacks. Consequently, numerous SMEs
+   operating e-commerce sites have experienced data breaches involving credit card
+   information, personal data, and supplier data. Furthermore, despite implementing
+   measures such as the “non-retention”9 of card information, incidents are rising due to
+   sophisticated attacks, such as displaying fake input screens to deceive purchasers into
+   entering their data.
+      When an e-commerce site is attacked, it can result in site shutdowns, investigations
+   into the incident, issuing apologies to customers, and incurring the costs of incident
+   response, all of which can lead to significant financial losses. Such incidents can
+   significantly damage a company’s reputation, and it may take considerable time to regain
+   sales. To prevent such incidents, refer to the security measures outlined in Table 8,
+   review your company’s operational model and implement robust safeguards.
+
+         [Table 8] EC Site Operational Model and Corresponding Security Measures
+                                                                        Security measures
+                                                  A: Security measures are required at all stages of
+                                                  development and operation
+                                                  B: Vulnerabilities must be addressed based on publicly
+                                                  disclosed information
+                                                  C: Vulnerabilities must be addressed using information
+  EC site operational model
+                                                  provided by the package vendor or service provider
+                                                  D: Confirm that the service operator has implemented
+                                                  appropriate security measures
+
+                                                   Web application         Web server             Network
+
+    1     EC site developed in-house                       A
+                                                                       On-premises servers: A or B
+    2     Use open-source software for EC sites            B
+                                                                       Rental server or cloud servers: C
+    3     Use a commercial EC site package                 C
+          Use a cloud service or ASP for EC
+    4                                                      D                    D                    D
+          sites
+          Open an online store on a shopping
+    5                                                      D                    D                    D
+          mall platform
+
+
+ Reference information
+ ■How to Secure Your Website (IPA)
+ https://www.ipa.go.jp/security/vuln/websecurity/ug65p900000196e2-att/000017318.pdf
+
+
+
+
+ 8▲ Electronic Commerce (EC): Also referred to as “online store,” “online shop,” “online shopping site,” etc.
+   Among the various payment methods available, credit card payments account for approximately 80%,
+   making it the most commonly used option.
+ 9▲ Ensures that credit card data is neither “stored”, “processed”, or “transmitted” through the company’s
+   equipment or network.
+
+
+                                                   32
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(3) Information Security for Cloud Services
+    With the advancement and widespread use of the Internet and information technology,
+ the adoption of cloud services, which enable data sharing and functional expansion without
+ the need for internal information systems, has increased significantly in recent years. The
+ adoption of cloud services offers numerous advantages, including reduced costs and
+ operational burdens associated with in-house systems, as well as accessibility for remote
+ work. Given these benefits, cloud usage is expected to continue expanding in the future.
+ However, since part of the information system is managed by service providers, it is
+ necessary to implement information security measures from a perspective different from
+ that of traditional in-house systems. This section outlines key security measures across
+ three stages: selecting a cloud service, implementing it, and managing its ongoing
+ operation.
+
+
+     Selection of Cloud               Operation of Cloud             Security Measures
+         Services                         Services                   for Cloud Services
+
+ Since the security measures       Since cloud services are       Cloud service users must
+ to prioritize will vary           operated in collaboration      understand and implement
+ depending on the type of          between the provider and       the required security
+ operations being migrated to      the user, it is essential to   measures.
+ the cloud, select services that   understand this dynamic to
+ meet the security                 ensure secure operations.
+ requirements of your
+ operations.
+
+ 1) Selection of Cloud Services
+   Cloud services can be broadly categorized into the following three types, depending on
+ the scope of the information systems (hardware and software) they provide.
+    Three Types of Cloud Services:
+    - Software as a Service (SaaS): Provides commonly used application software, such
+        as accounting applications, office suites, and file servers, as web-based services.
+    - Platform as a Service (PaaS): Provides middleware such as operating systems and
+        database management systems as a platform for application development and
+        deployment. The application software must be installed separately.
+    - Infrastructure as a Service (IaaS): Provides only the system infrastructure, such as
+        hardware (e.g., virtual servers and memory) and networking components.
+   This guideline focuses on information security measures specifically for the use of
+Software as a Service (SaaS). Multiple organizations use cloud services in the SaaS model
+on a single system. While some SaaS services allow customization of screen layouts and
+displayed items to accommodate the specific needs of each enterprise, the implementation
+of security measures often remains the responsibility of the service provider. Therefore, it
+is important first to identify the security measures required for the operations being migrated
+to the cloud and then select a cloud service that meets those requirements.
+
+
+
+
+                                             33
+                 Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+2) Operation of Cloud Services
+  Unlike in-house information systems, cloud services rely on systems provided by external
+parties. Therefore, ensuring security requires selecting appropriate services and
+implementing necessary security measures on the user’s side.
+  In cloud services, all data processing and storage are performed on servers managed by
+the service provider. As a result, important information, such as financial records and
+customer data, is entrusted to the provider. Therefore, security measures for servers and
+networks are primarily the responsibility of the service provider.
+  Service users utilize devices such as PCs and smartphones connected to the internet
+only to perform data input and output operations with the servers. Therefore, the role and
+responsibility of service users are limited to implementing security measures on the devices
+they directly manage, such as the PCs, smartphones, and network equipment, as well as
+the software installed on them.
+   Therefore, compared to in-house systems, the burden of implementing security measures
+for hardware and software is reduced. However, unlike in-house systems, cloud services
+are accessible at any time, from anywhere and by anyone over the Internet. This
+fundamental difference necessitates careful consideration of Internet-specific threats and
+risks, making it essential to implement appropriate operational security measures.
+
+3) Security Measures for Cloud Services
+  Examine security measures for cloud services from the following perspectives and
+implement suitable measures based on your specific circumstances:
+● Understand the security measures implemented by the cloud service provider and confirm
+  that the selected service meets your company’s security requirements.
+
+
+
+                                                                                                   Measures for
+● Understand your company’s role and responsibilities as a cloud service user and ensure
+  that security measures requiring internal handling are properly implemented.
+  For details, refer to the 15 key points for the safe use of cloud services by small and
+medium-sized enterprises, given in Table 9 on the next page. Use them as a reference when
+selecting and utilizing cloud services that align with your company’s objectives and
+operational plans.
+                           Our company                             Cloud service provider
+                          !
+                                               What are the role and
+                                               responsibilities of our
+                                                    company?
+
+
+
+                          Ownership
+
+
+
+
+                              Trade secrets
+                                 Personal
+                               information     Cloud services
+
+
+
+                                                                         Trade secrets
+                                                                            Personal
+                                                                          information
+
+
+                                              Shared Responsibility
+
+
+
+
+                                                     34
+                          Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+    [Table 9] 15 Key Points for the Safe Use of Cloud Services by Small and Medium-sized Enterprises
+
+    No.                Item                                                    Content
+
+
+    I. Key Considerations When Selecting Cloud Service
+
+          Clearly define which            Have you identified which business operations will be conducted using cloud
+     1    business operations will        services, determined the types of information to be handled, and clearly
+          utilize the service             defined the operational scope and usage rules?
+
+          Select the appropriate type     Have you selected a cloud service suitable for your business operations and
+     2    of cloud service.               confirmed the specific benefits it offers?
+
+          Confirm the criticality level of Have you assessed the potential impact if information handled through the
+     3    the information to be            cloud service is leaked, falsified, lost, or if the service becomes unavailable?
+          handled
+
+          Ensure consistency with         Are there any conflicts or inconsistencies between your internal policies and
+     4    security policies               the use of cloud services?
+
+          Verify the reliability of the
+     5    cloud service provider          Is the provider offering trustworthy cloud service?
+
+
+          Verify the safety and            Are service quality guarantees, such as uptime, frequency of failures, and
+     6    reliability of the cloud service recovery time objectives during outages, clearly indicated?
+
+
+    II. Key Considerations for Operation
+
+                                          Have you assigned designated staff within your company who understands
+     7    Assign designated staff         the characteristics of the cloud service?
+
+                                          Is the cloud service access properly controlled to restrict usage to authorized
+     8    Define the scope of users       users only?
+
+*                                         Are authentication mechanisms, such as passwords, properly configured and
+     9    Implement strict user           managed? (No sharing of passwords, using complex passwords, etc.)
+          authentication
+                                          Is important information securely stored locally to ensure it is available when
+     10   Ensure responsibility for       needed in the event of service outages, data loss, or falsification?
+          backups
+
+    III. Key Considerations for Security Management
+
+          Confirm built-in security
+     11   measures                        Are the security measures included with the service clearly disclosed?
+
+
+          Confirm the user support        Is support available, such as help desks or FAQs, to assist users when they
+     12   system                          need help using the service?
+
+          Secure data upon                Have you confirmed the data handling procedures and conditions when
+     13   termination of service          service usage ends?
+
+          Review applicable laws and      Have you reviewed each provision of the standard contract terms, particularly
+     14   contract terms                  with regard to personal data protection?
+
+          Confirm the geographic          Have you confirmed at which country or region the servers storing your data
+     15   location of data storage        are located?
+
+*No. 15: If the cloud service servers are located outside Japan, the laws and regulations of the
+host country or region may apply depending on the nature of the data being handled.
+
+
+
+
+                                                         35
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                        Column
+
+ Reference for Selecting Cloud Services
+  Some certifications use marks to indicate that cloud service providers have
+implemented appropriate data protection and security measures. The service listed on
+the page below meet the respective criteria and can be used as a reference when
+making your selection.
+
+● ISMS Cloud Security Certification
+(ISMS Accreditation Center)
+https://isms.jp/english/index.html
+ In addition to certification under the ISMS (Information Security Management System;
+ISO/IEC 27001), this certification ensures that cloud service-specific controls (ISO/IEC 27017)
+are properly implemented and operated.
+
+
+
+
+                                               36
+                     Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(4) Information Security for Telework
+    Telework is becoming increasingly common, even among small and medium-sized
+ enterprises. It promotes digital transformation (DX), enables flexible work styles for a
+ diverse workforce, and supports business continuity during emergencies, making effective
+ utilization essential for companies.
+     However, because employees work in environments outside the company’s control,
+ such as at home or in satellite offices, traditional internal management practices alone are
+ no longer sufficient to maintain security. Furthermore, the use of personal computers and
+ smartphones for work at home introduces new types of risks, requiring a reassessment of
+ existing security measures. This section outlines security measures for telework, organized
+ into three stages of consideration.
+
+
+          Telework                              Telework                             Telework
+           policy                               security                             operation
+          planning                              measures
+
+ Consider the policies for            Establish the necessary               Define telework rules,
+ system configuration and             security measures based on            communicate them to
+ device selection when                the system configuration and          employees, and ensure safe
+ implementing telework.               devices used for teleworking.         operation, paying attention to
+                                                                            preventing incidents.
+
+    1) Telework Policy Planning
+    When implementing telework, companies should assess the extent to which they can
+ provide a suitable telework environment, including telework devices (such as computers
+ and smartphones), the network environment, and the telework system architecture. Ideally,
+ companies should provide a sufficiently secure telework environment to ensure robust
+ information security. However, if a sufficient environment cannot be provided, such as in
+ cases where telework must be introduced urgently, the company should support
+ employees in setting up their telework environments.
+    The main system configurations for telework are as follows. Since the cost, operational
+ burden, and security measures vary depending on the system configuration, it is necessary
+ to choose a system that fits your company’s specific needs.
+      ● VPN Method10: A method in which the telework
+        device connects to the company network using
+        encrypted communication.
+      ● Remote Desktop Method: A method in which the
+        telework device connects remotely to a computer
+        or other terminal located within the company.
+      ● Standalone (Take-home) Method: A method in
+        which the telework device is used without
+        connecting to the internal company network.
+      ● Cloud Service Method: A method of directly
+        connecting to cloud services on the Internet.
+
+ 10▲ VPN (Virtual Private Network) is a technology that establishes a secure, virtual private communication
+   channel over the Internet. VPNs have become widely adopted as a network-side security measure for
+   telework environments. A VPN encrypts all communications between the device and the internal company
+   network, preventing unauthorized external access and enabling employees to use a network environment
+   equivalent to the internal company network, even when working remotely. While business devices can be
+   used securely outside the office, a key drawback is that if the device itself becomes infected with malware or
+   compromised by an external attack, the damage can easily spread to the internal company network via the
+   VPN connection.
+                                                     37
+                     Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+   2) Telework Security Measures
+     In the context of telework security, it is essential to establish rules for measures addressing
+  anticipated threats and to implement training and awareness programs that ensure employees
+  understand and comply with these rules. In addition, for threats that cannot be addressed by
+  rules alone, technical measures such as the deployment of dedicated devices or services are
+  also necessary. When implementing technical measures, it is also effective to proceed while
+  utilizing telework-specific consultation services provided by public institutions and consulting
+  external experts, such as IT product manufacturers and maintenance vendors. After
+  communicating the organization's critical information assets and actual business operations to
+  these external experts, appropriate security measures should be considered based on potential
+  threats.
+     Key considerations for devices and security measures for each telework method are as
+  follows.
+    VPN Method: Since data can be stored on the telework device, there is a risk of
+          information leakage due to device loss, theft, or unauthorized use. To mitigate this,
+          implement measures such as encrypting the telework device’s hard disk or SSD and
+          enabling remote data erasure.
+    Remote Desktop Method: As the in-office computer's screen is transmitted in real-time
+          to the telework device for remote operation, work can be performed in the same way as
+          in an office. However, because it is also possible to copy and save data from the in-office
+          computer to the telework device, there is a risk of information leakage due to loss, theft,
+          or unauthorized use of the device. Additionally, depending on the network environment,
+          processing speed may decrease, resulting in performance deterioration that significantly
+          affects business operations. To prevent this, measures include restricting copying from
+          the in-office computer to the telework device and verifying the impact of reduced usability
+          in advance.
+    Standalone (Take-Home) Method: Since data is stored on the telework device, there is
+          a risk of information leakage due to loss, theft, or unauthorized use of the device. To
+          address this, implement measures such as encryption of the device’s hard disk or SSD
+          and remote data erasure. Furthermore, limit the data that can be taken off-site to the bare
+          minimum and obtain proper authorization. When using the internet, ensure that measures
+          are in place to protect against malware and unauthorized access.
+       Cloud Service Method: Since telework devices connect directly to the internet without
+        routing through the internal company network, it is necessary to implement measures
+        such as communication encryption and enhanced authentication when accessing
+        services. Confirm the security specifications of the cloud services to be used and consult
+        with the service provider if necessary to determine appropriate protective measures.
+        For telework devices, implement measures such as installing antivirus software,
+        encrypting hard disks or solid-state drives (SSDs), and enabling remote data erasure.
+        Additionally, when storing data in cloud services, it is necessary to understand and
+        manage the types of data being stored.
+Key considerations for devices and security measures used in telework are as follows.
+   When using personally owned computers or smartphones as telework devices
+       As with company-issued computers, install and regularly update antivirus software.
+       Configure device authentication to ensure only authorized devices can connect to the
+       internal company network. Additionally, restrict and prohibit sharing with others and
+       saving work data on the device. If restrictions and prohibitions are difficult to enforce,
+       consider implementing measures such as creating a separate user account on the
+       telework device, encrypting business data, and implementing remote data erasure.
+   When using a personal wireless LAN router (Wi-Fi router) for telework
+       <Protection against eavesdropping and unauthorized access>
+         It is necessary to encrypt communications as a measure to prevent signal interception.
+                                                 38
+                       Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+        Even if encryption is applied, if the encryption method is weak, it can be decrypted;
+        therefore, use the strongest available encryption. In addition, if the password entered
+        when connecting is leaked, even a strong encryption method can be deciphered, and
+        there is a risk of unauthorized access to connected computers or devices; therefore, use
+        passwords that are difficult to guess.
+        <Measures for wireless LAN routers>
+         If the password to log in to the router’s management interface is compromised or if
+        vulnerabilities exist in the firmware11, there is a risk of unauthorized access and
+        exploitation. Use a strong and hard-to-guess login password and keep the firmware up
+        to date.
+       When using a home internet connection for telework
+        When connecting to the internal network, use a VPN. For accessing cloud services, use
+        encrypted communication such as VPN or SSL/TLS12. In addition, when sending
+        important information as email attachments, encrypt the files or encrypt the email using
+        methods such as S/MIME13.
+ The following are important points to consider for telework locations and the corresponding
+security measures:
+    When teleworking from home
+         Lock your screen when stepping away to prevent unauthorized access.
+    When teleworking in shared offices, workation14 locations, or public places with
+         many unspecified individuals
+         Avoid leaving telework devices unattended. Do not display important information openly
+         on the screen. Use privacy filters to prevent shoulder surfing.
+
+  3) Telework Operation
+     Business owners must establish telework security rules as formal company policies.
+   Responsible personnel should ensure that telework employees, who are difficult to supervise
+   directly, are fully informed of these rules and adhere to them rigorously.
+    Moreover, when returning from telework to in-office work, employees must understand the
+  departmental rules and be mindful of the following.
+    Before reconnecting a computer used for teleworking to the office network, update the OS
+     and software to the latest versions, antivirus software’s definition files, and perform a virus
+     scan on the computer.
+    If personally owned computers or smartphones were used for teleworking, confirm the
+     transfer of business data and emails stored on them to the department’s environment and
+     then delete them from the personal devices. When carrying work data using personally
+     owned USB memory sticks or hard disks, take care not to lose them.
+       Please refer to Appendix 1 “Information Security 5 To-dos,” and Appendix 2 “5-Minute
+ Information Security Self-Assessment,” for examples of security measures. Additionally,
+ when utilizing cloud services, please refer to Section 5: “Measures for Enhancing Security
+ (3) Information Security for Cloud Services” in this document.
+
+
+   11 ▲ Firmware: Built-in software that performs basic control of a device.
+   12 ▲ Secure Socket Layer/Transport Layer Security (SSL/TLS): A technology that encrypts communications
+       over the internet to prevent eavesdropping and tampering by third parties.
+   13 ▲ Secure/Multipurpose Internet Mail Extensions (S/MIME): A technology used to prevent eavesdropping
+       and tampering with email messages.
+   14 ▲ Workation: A coined term combining "work" and "vacation." It refers to a work style where one performs
+       telework while taking a break at a resort area (or relocating to one).
+
+
+
+
+                                                     39
+                   Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(5) Security Incident Response
+    As cyberattacks become increasingly sophisticated, security incidents (such as
+ information leaks, falsification, destruction or loss, system outages, events that may lead
+ to these, etc.) are increasing. If your company handles critical information or does
+ business with large corporations, it may become a target of such attacks. Therefore, just
+ as companies prepare for earthquakes, floods, or pandemics, it is also necessary to make
+ preparation for potential incidents15 in information security to minimize damage and
+ ensure swift recovery from a business continuity perspective. This section explains how
+ to respond to incidents by dividing the process into three steps, outlining key
+ considerations at each stage.
+
+         Detection and                     Reporting and                   Recovery and prevention
+        initial response                    disclosure                          of recurrence
+
+ When an incident is detected,     If necessary, provide timely        Collaborate with system
+ promptly contact the              reports and disclose               administrators and external
+ information security officer      information to customers,          expert organizations to
+ and take initial response         stakeholders, government           implement prompt recovery
+ actions to prevent the            agencies, the public, and the      efforts and take fundamental
+ damage from spreading.            media in a transparent             measures to prevent
+                                   manner.                            recurrence.
+
+
+   1) Detection and Initial Response
+      If signs of a suspected incident or an actual incident are detected, or if a report is received
+   from an external source, promptly report the matter to the information security officer. The
+   information security officer should assess whether the incident requires a response and
+   promptly report to business owners. Business owners, considering the impact of the
+   incident on the business and customers, should promptly establish an incident response
+   team and provide instructions on the response policy.
+      In the initial response, focus on preventing the damage from spreading. If the affected
+   information is accessible from outside or there is a risk of damage spreading,
+   disconnect the network, isolate the information or affected devices, and suspend
+   systems or services. However, be cautious not to delete any remaining records in the
+   system by performing careless operations, such as turning off the power to the affected
+   devices.
+
+   2) Reporting and Disclosure
+      To prevent the spread of incident damage, if secondary
+   damage is anticipated, inform the affected individuals of the
+   situation. If reporting to the affected individual is difficult or if
+   the incident has a widespread impact on the general public,
+   disclose the situation through websites or the media. When
+   making a public disclosure, it is essential to consider the
+   timing, content, and target audience to minimize potential
+   harm. Also, if damage occurs or spreads, promptly monitor
+   the situation and respond by establishing a dedicated inquiry
+   hotline.
+
+
+
+
+                                                40
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+   After completing the incident response, report the status of the response and
+ measures to prevent recurrence to the victims, affected business partners, customers,
+ and other stakeholders. Additionally, in cases of personal information or My Number
+ leaks, report to the Personal Information Protection Commission. If required by industry
+ laws, report to the relevant government ministry. If criminal activity is involved, report to
+ the police. For virus infections or unauthorized access, report to the IPA.
+
+  3) Recovery and Prevention of Recurrence
+   When recovering from an incident and investigating its cause and response, organize
+ information such as the date and time of detection or occurrence, visible events, damage
+ and impact, the timeline of responses from detection to the present, and currently
+ suspected causes. Depending on the cause, take necessary actions such as applying
+ patches, changing settings, replacing equipment, or restoring data. If it is difficult to
+ conduct investigations or responses in-house, seek support and advice from external
+ expert organizations such as IT product manufacturers, maintenance vendors, and
+ consultation desks of public institutions.
+   Additionally, if litigation is expected, preserve information and evidence that supports
+ the facts during the investigation and conduct forensic investigations as needed (such
+ as examining data on computer hard drives, memory, server and network device logs).
+   After incident response, restore the suspended systems and services and report the
+ response results to the business owner. Additionally, to prevent the recurrence of the
+ incident, it is essential to analyze the root cause and consider implementing fundamental
+ preventive measures, such as introducing new technical measures, establishing clear
+ rules, providing thorough training, improving the organizational structure, and enhancing
+ operational efficiency.
+
+  Please also refer to Appendix 2 “5-Minute Information Security Self-
+ Assessment,” for examples of measures related to incident response.
+
+
+
+
+15 ▲ A plan to respond to risks, including disasters, is called a Business Continuity Plan (BCP). The business
+    continuity plan specifically for IT systems is referred to as an IT Business Continuity Plan (IT-BCP).
+
+
+
+
+                                                    41
+                Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+ (6) Utilizing information security services
+    By using external information security services, you can implement more robust and
+effective measures. These days, various services are available. This is useful when an
+organization lacks in-house information security personnel or aims to enhance its
+information security capabilities.
+1) Information security consultation
+  These services offer comprehensive support for the organizational structure and
+measures related to information security management. Services that support certification
+and accreditation under security-related conformity assessment systems are also offered.
+2) Information security training services
+  These services support the acquisition of knowledge and skills related to information
+security, as well as the provision of explanations and awareness-raising about
+information security measures.
+3) Information security audit services
+  These services verify or evaluate management systems (organizational frameworks)
+and risk mitigation operations for information security from a professional standpoint,
+following internationally consistent standards and providing assurance and advice.
+4) Vulnerability assessment services
+  These services involve experts with knowledge of vulnerabilities in systems and
+software who conduct the following types of assessments on systems and software.
+  a. Web application vulnerability assessment
+  b. Platform vulnerability assessment
+  c. Smartphone application vulnerability assessment
+5) Digital forensic services
+  This service involves preserving evidence, investigating, and analyzing electronic
+records related to unauthorized use of systems or software, service disruptions, data
+destruction, and unintended information disclosure, as well as their signs, particularly in
+legal disputes and litigation. It also includes analyzing and collecting information
+regarding falsification and damage to electronic records.
+  d. Investigation using digital forensics targeting devices and storage media.
+  e. Litigation support and electronic discovery (e-discovery) services related to
+     investigations using digital forensics.
+6) Security monitoring and operation services
+  These services involve monitoring and proper operation to ensure information security
+for systems and software.
+  a. Managed security services (services aimed at detecting and defending against
+     security incidents or their precursors).
+  b. Security monitoring services (services that continuously analyze logs output by
+     security products, provide notifications, and deliver reports).
+  c. Comprehensive services that include managed security services and security
+     monitoring services.
+
+
+
+
+                                               42
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+(7)   Examples of technical measures and their application
+   Technical measures (products and software) implemented when using computers and
+the Internet are introduced below. Please utilize these measures in accordance with your
+company’s specific environment.
+
+              Work from home
+                                          Antivirus                Internet
+                                          measures
+
+                                                                                              Cloud
+                                                                                              services
+                                                             VPN
+
+
+
+
+                                                                                IDS/IPS
+
+                           Mail
+                           server              Web
+                                               server
+                                                             WAF                Firewall
+
+                Email filtering      Antivirus
+                                     measures
+                  Antivirus
+                  measures                                                    URL filtering
+
+                                           File
+                                           Server
+
+
+
+
+                              Antivirus
+                              measures
+
+
+
+
+                                                                    Antivirus
+
+
+
+
+1) Network and Endpoint Protection
+   Security measures are implemented by deploying devices near the network boundary to
+process and monitor communications, thereby controlling and managing unauthorized traffic.
+● Firewall
+   A technology that decides whether to allow or deny communications. For example, a
+   firewall can be installed between the internet and the internal LAN to prevent unauthorized
+   access from outside from infiltrating the internal network.
+● Intrusion Detection System (IDS)
+   A technology that detects unauthorized access to systems or networks and notifies the
+   administrator. For example, by installing an IDS between the internet and the firewall,
+   communications suspected of being unauthorized access can be detected and reported
+   to the administrator.
+● Intrusion Prevention System (IPS)
+   Technology that detects unauthorized access to systems or networks and automatically
+   blocks the access. For example, by installing an IPS between the internet and the firewall,
+   it is possible to detect communications suspected of being unauthorized access, notify
+   the administrator, and block the communication.
+
+
+
+                                                        43
+                Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+● Unified Threat Management (UTM)
+  A tool that integrates multiple security functions, including firewalls, IDS/IPS, email
+  filtering, and URL filtering, into a single hardware device to detect and defend against
+  threats such as virus intrusions, unauthorized access, and cyberattacks targeting the
+  internal network and the internet.
+
+● Endpoint Detection and Response (EDR)
+  A technology that detects cyberattacks, such as viruses and ransomware that have
+  infiltrated endpoint devices connected to the network, including computers, servers, and
+  smartphones, and reports them to the administrator.
+
+● Web Application Firewall (WAF)
+  A technology that protects web applications from attacks exploiting vulnerabilities in the
+  web applications themselves. For example, by installing a WAF between the firewall or
+  IDS/IPS and the web server, it is possible to monitor the data exchanged by the web
+  application and detect attacks.
+
+● Virtual Private Network (VPN)
+  A technology that establishes a secure, virtual private communication channel over a
+  public network, such as the Internet. For example, when employees working remotely
+  exchange highly confidential electronic data with the workplace, using a VPN allows for
+  secure communication through encryption.
+
+2) Contents Security Measures
+  Measures are implemented by controlling program execution, sending and receiving
+emails, and web browsing based on their content.
+● Antivirus Measures
+  A measure to prevent virus infection by detecting and removing viruses. For example,
+  by installing antivirus software on the computer being used and keeping the virus
+  definition files up to date, known viruses can be detected.
+● Email Filtering
+  A technology that monitors the sending and receiving of emails and executes specific
+  processes based on specified conditions. For example, by configuring filtering
+  functions on the mail server, it is possible to block spam emails and emails with virus-
+  infected attachments.
+● URL Filtering
+  A technology that performs actions such as blocking or warning when access to or
+  viewing of a website matches or violates specified conditions based on its address or
+  content. For example, by introducing devices with URL filtering functions, it is possible
+  to prohibit browsing websites unrelated to work and reduce the risk of accessing
+  malicious sites.
+
+
+
+
+                                               44
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+3) Access Management
+    Provides functions to authorize and restrict users of information systems.
+ ● Access control
+    A technology that controls the permissions and authorization, allowing users and
+    information devices to access data, etc. For example, by implementing access control
+    that allows cloud services used for business only to be accessed from the office, the
+    risk of unauthorized access to data from outside the office can be reduced.
+ ● Multi-factor authentication
+    A technology that authenticates users when accessing a service by requiring two or
+    more of the following three factors: (1) something you know, (2) something you have,
+    and (3) something you are. For example, in a workplace entry and exit management
+    system, access can be restricted to the authorized user by combining password
+    authentication (known only to the user) with IC card authentication (possessed only by
+    the user).
+ ● Privileged ID Management
+    A technology that manages applications for the use of privileges (the highest level of
+    authority granted to manage computers), the granting of such privileges, and operation
+    logs in information systems. For example, it can prevent unauthorized use of privileges
+    due to cyberattacks or internal fraud, thereby reducing risks.
+
+4) System Security Management
+     Provides functions for centralized management and vulnerability detection of an
+   organization's IT assets.
+  ● IT asset management
+     A technology that collects and manages the ownership and configuration information
+     of hardware and software, such as computers and servers. For example, by
+     introducing IT asset management tools, organizations can track the status of security
+     patch applications, thereby reducing the risk of attacks that exploit vulnerabilities.
+  ● Vulnerability assessment
+     An inspection that scans servers and applications to detect vulnerabilities. For
+     example, by sending requests to a web application before service provision to detect
+     vulnerabilities, it is possible to identify known vulnerabilities. If any vulnerabilities are
+     found, the risk of attacks can be mitigated by promptly applying security patches and
+     implementing secure configurations on the affected servers or applications.
+  ● Log management
+     Who logged in to the server and what data was accessed are recorded as log files on
+     the server. As the server continues to operate, the contents of these log files grow over
+     time. Therefore, it is common to configure the system to automatically delete log files
+     after a specific period (e.g., one week, three months, or one year).
+
+    In the event of a cyberattack, these logs are analyzed to determine whether an
+    information leak has occurred. For this reason, organizations need to establish a clear
+    policy for managing log files. However, because interpreting the contents of log files
+    requires specialized knowledge, various tools are available to simplify and support log
+    management.
+
+
+
+
+                                               45
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+5) Encryption
+  Encryption of data and communications provides functionality to prevent eavesdropping,
+tampering, and information leakage.
+● Data encryption
+  A technology that transforms data according to specific rules to prevent third parties from
+  understanding its content. For example, encrypting servers, computers, or electronic
+  media on a disk or file basis can reduce the risk of information leakage due to email
+  attachment interception, unauthorized data exfiltration from outside the company, or the
+  loss or theft of devices or media.
+● Communication encryption
+  One of the most widely adopted technical standards for encryption and authentication,
+  it is used to protect data during transmission over the Internet. It was previously
+  standardized as Secure Sockets Layer (SSL) and is now an international standard
+  known as Transport Layer Security (TLS). However, TLS is still sometimes referred to
+  as SSL. Since all major web browsers support TLS by default, there is no need for a
+  separate installation, making it a globally prevalent technology.
+
+6) Data Disposal
+    When an information system is no longer in use, leaving data stored in the system or
+discarding the system without proper deletion can lead to information leakage. Therefore,
+it is essential to erase any stored data promptly. Similarly, for cloud services, retaining data
+that is no longer required unnecessarily increases the risk of information leakage, and such
+data should be deleted promptly.
+
+
+
+
+                                              46
+                         Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+(8) How to Conduct a Detailed Risk Analysis
+   In “3) Creating Information Security Policies” on P.23, a method is introduced for
+ identifying commonly anticipated risks based on both external and internal conditions
+ while considering the concerns of business owners and then determining appropriate
+ measures. However, as the scale of operations grows or information systems become
+ more complex, there is a risk of overlooking unforeseen threats, which can result in
+ inadequate measures. Therefore, this section explains “Detailed Risk Analysis” as a
+ method for thoroughly identifying risks and considering appropriate countermeasures. A
+ detailed risk analysis is performed using the following procedure.
+
+            Step 1:                               Step 2:                                      Step 3:
+   Identify information                      Calculate risk values                   Decide the
+   assets                                                                            information security
+                                                                                     measures
+
+
+  Step 1 Identify information assets
+
+  Identify the types of information assets and determine criticality level.
+    Record the electronic data and documents used in operations in the information asset
+ management ledger. For each recorded information asset, evaluate its criticality level
+ based on the potential impact on business operations in the event of a data leak,
+ falsification, input errors (such as incorrect entries or miscalculations), or unavailability
+ when needed.
+    Since the information assets held vary depending on the industry, business activities,
+ and IT environment, refer to the sample entries in the ledger and proceed with the task as
+ outlined below.
+    ● Create an information asset management ledger
+      Instead of looking at hard disks or desk drawers, it becomes easier to create a ledger by
+      considering the types of electronic data and documents used in daily operations.
+    ● Evaluating the confidentiality, integrity, and availability of each information asset
+      Assess the impact on business operations in the event that confidentiality, integrity, or
+      availability is compromised, as well as any legal obligations for security management.
+      Refer to the evaluation criteria in Table 10 and assign an evaluation rating16 from 3 (high)
+      to 1 (low).
+    ● Determine the criticality level based on the evaluation rating for confidentiality, integrity,
+    and availability
+      Determine the criticality level based on the highest score among confidentiality, integrity,
+      and availability. Based on the evaluation rating of confidentiality, integrity, and availability
+      entered in the designated fields of the Information Asset Management Ledger in the
+      previous step, determine the criticality level in accordance with the criteria in Table 11.
+
+   If an incident could result in legal liability, significantly affect business partners,
+ customers, or individuals, or have a serious impact on business operations to the extent
+ that the survival of the company is at risk, or if the asset contains personal information,
+ the criticality level should be set to 2, regardless of the evaluation results from the previous
+ step.
+
+ 16▲Evaluation rating: Other numerical values may also be used. This is because expressing the criticality level of
+   information assets or the level of risk quantitatively makes it easier to identify which information assets should be
+   prioritized for security measures. A rough estimate is sufficient; precise calculations are not necessary.
+
+
+
+                                                         47
+                  Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+[Table 10] Definition of Criticality Level Based on Confidentiality, Integrity, and Availability
+                                      of Information Assets
+
+ Evaluation rating       Evaluation criteria                  Examples of applicable information
+                      Safety management
+                      (prevention of leakage, loss, ● Personal Information (as defined by the Act on the
+                      or damage) is required by     Protection of Personal Information)
+                      law
+                      Designated as subject to
+                      confidentiality obligations
+                      or as restricted-access         ● Confidential information provided by business
+                      data                            partners
+                      If leaked, it would have a      ● Non-public information related to a business partner’s
+                  3   significant impact on           products or services
+                      business partners or
+Confidentiality       customers
+      Only            Should be managed as a
+   authorized         trade secret of your
+individuals are                                       ● Proprietary technologies and know-how of your
+   allowed to         company (to qualify for
+  access the          protection under the Unfair     company
+  information         Competition Prevention          ● Business partner list
+                      Act); a leak could cause        ● Invention information prior to patent filing
+                      serious harm to the
+                      company.
+                      If leaked, it would have a      ● Information related to business transactions with
+                  2   significant impact on           customers (business partners), such as quotations and
+                      business operations.            purchase prices
+
+                      Even if leaked, it would        ● Company product catalogs
+                  1   have little to no impact on
+                      business operations.            ● Information published on the website
+
+                      Safety management               ● Personal Information (as defined by the Act on the
+                      (prevention of leakage, loss,
+                      or damage) is required by       Protection of Personal Information)
+                      law
+                  3   If tampered with, it could      ● Accounting information outsourced by business
+                      have a serious impact on        partners for processing
+   Integrity          the company or a
+ Information          significant impact on           ● Bank account details of business partners
+    and its           business partners or            ● Design drawings commissioned by a customer for
+ processing           customers.                      manufacturing
+methods are
+accurate and
+  complete            Falsification could             ● Company’s financial data
+                  2   seriously impact the            ● Contract information
+                      business                        ● Information published on the website
+
+                  1   Falsification would have
+                      little to no business impact    ● Discontinued product catalog data
+
+                      If it becomes unavailable,
+                      it would have a severe
+                  3   impact on the company or        ● E-commerce sites provided to customers
+                      a major impact on clients       ● Cloud service provided to customers
+ Availability         or business partners
+ Authorized
+  individuals
+ can access           If it becomes unavailable,      ● Product design drawings
+      the         2   it would have a significant     Content related to products and services
+  information         impact on business               (for businesses targeting internet users)
+ assets when
+    needed.
+                      Even if it becomes
+                      unavailable, it would have
+                  1   little to no impact on the      ● Discontinued product catalog
+                      business.
+
+
+
+                                                      48
+                          Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+            [Table 11] Criteria for Determining the Criticality Level of Information Assets
+                                                                                      Criticality
+                                  Determination criteria
+                                                                                         level
+       Information assets for which the highest value among confidentiality,               3
+       integrity, and availability evaluation rating is “3”
+       Information assets for which the highest value among confidentiality,               2
+       integrity, and availability evaluation rating is “2”
+       Information assets for which the values of confidentiality, integrity, and          1
+       availability evaluation rating are all “1”
+
+
+   (Examples of criticality level determination)
+     ● Design drawings (documents) based on proprietary technology
+     Confidentiality: These are design drawings for a core product. If leaked, they would
+            eliminate the competitive edge and lead to a drop in sales
+            .................................................................................. Evaluation rating = 3
+     Integrity: If tampered with or altered without permission, it would interfere with
+     manufacturing ........................................................................ Evaluation rating = 2
+     Availability: The original CAD data is stored on the server, allowing it to be viewed
+             or reprinted when needed, so unavailability would not cause any issues
+              .................................................................................. Evaluation rating = 1
+
+   Information asset management ledger – criticality level column
+                     Evaluation rating                  Criticality
+                                                        level
+        Confidentiality   Integrity      Availability
+
+              3              2               1                3
+Since the confidentiality score 3 is the highest, the criticality level is 3.
+
+
+   ● Company website (digital data)
+    Confidentiality: This is a public-facing website and does not store any sensitive
+           information such as credit card details ....................... Evaluation rating = 1
+     Integrity: If prices are tampered with through unauthorized access or if a virus is
+              launched, it could harm customers or visitors and damage the company’s
+              credibility ................................................................... Evaluation rating = 3
+     Availability: If a server issue makes the website inaccessible, it could lead to fewer
+             customer visits and a drop in sales ............................ Evaluation rating = 3
+   Information asset management ledger – criticality level column
+                     Evaluation rating                  Criticality
+                                                        level
+        Confidentiality   Integrity      Availability
+
+              1              3               3                3
+  Since both integrity and availability have the highest score of 3,
+              the criticality level is set to 3.
+
+
+
+
+                                                                  49
+            Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+ Points to Note When Making Entries in the Ledger
+ ● The Information Asset Management Ledger is one way to visualize and organize
+   the identified information assets. In particular, digital information used via
+   computers or networks cannot be detected by human senses, so it may go
+   unnoticed when saved on external servers or personal smartphones.
+  When identifying digitized information, ask yourself questions like “Where is the
+   data I usually view on my computer actually stored?” Consider the company’s IT
+   equipment and cloud services in use, and complete the form accordingly.
+ ● Since the assessment of criticality level can vary depending on one’s position or
+   perspective, do not decide that an item is “not critical” before making the entry.
+   Instead, record the items first and then determine their criticality at the
+   organizational level.
+ ● There are various ways to organize digital data and documents; however, grouping
+   information with the same management method and criticality level into a single
+   entry can help reduce the workload.
+
+
+[Examples of information with the same management method and criticality level]
+ When accounting records are created using accounting or spreadsheet software on
+ office computers
+
+       Journal ledger          Information Asset Name
+       General ledger           “Accounting Data”
+       Cash book                Accounting data backup (If backups are made)
+       Current account         Media/Storage Location:
+        ledger                   “Office PC” (a location where the accounting software
+       Petty cash book           stores data)
+       Journal ledger           “Portable Electronic Media” (USB flash drive used as
+       Sales ledger              the backup storage location)
+
+
+
+ ● The criticality level of an information asset may change over time; however, please
+   enter the current evaluation rating. If it is difficult to update changes in criticality
+   level over time in the ledger, use the maximum expected criticality level for
+   evaluation.
+ ● For medium-sized companies, preparing separate sheets for each department can
+   facilitate easier content review later.
+
+
+
+
+                                           50
+                        Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+  Step 2            Assess the risk value
+
+  Identify information assets that require prioritized and focused measures.
+
+   For the information assets identified in Step 1, assess the risk value (i.e., the magnitude of
+risk) to determine the priority of measures. While there are various methods to calculate the
+risk value, this Guideline adopts a method that multiplies two values: “criticality level” and
+“possibility of damage.” The “possibility for damage” is calculated based on two values: the
+“likelihood of threat occurrence” and the “ease of exploiting vulnerabilities” (see Table 14 on
+the next page). This is an indicator of the potential damage a threat could cause by exploiting
+a vulnerability.
+     Risk value = Criticality level × Possibility of damage
+                               Criticality level = Assessed in Step 1
+                               Possibility of damage = Assessed based on Threats and Vulnerabilities
+
+   The criticality level is rated on a scale of 3 to 1, as determined in Step 1. The possibility for
+damage, threats, and vulnerabilities is also rated on a scale of 3 to 1. The resulting risk value
+is expressed as high, medium, or low based on the calculation risks (see Table 12).
+
+                                 [Table 12] Risk Value Assessment Criteria
+
+                                   Value of Information Assets / Severity of Impact from Incidents
+                                 If an incident occurs, it may lead to:
+                                 ● Legal liability
+                           3     ● Significant impact on business partners, customers, or individuals
+   Criticality level             ● Severe consequences for business operations
+                                 all of which could potentially threaten the survival of the company
+                           2     An incident could have a serious impact on the company’s business operations.
+                           1     Even if an incident occurs, it will have little to no impact on business operations.
+
+
+                                                                    Refer to Table 14 for calculation method
+
+
+                                                                               Likelihood of occurrence
+
+
+
+
+         × (Multiply)
+                                   Threat
+                                                     3   Threat can occur under normal circumstances (it could happen at any time)
+
+                                                     2   Threat occurs under specific conditions (several times a year)
+
+                                                     1   Threat does not occur under normal circumstances
+
+                                                                                   Ease of exploitation
+
+
+                                   Vulnerability
+                                                     3   No measures implemented (almost unprotected)
+
+                                                     2   Partial measures implemented
+
+                                                     1   All necessary measures are in place
+
+
+
+                     3 High Damage is likely to occur under normal conditions (can happen at any time)
+    Possibility of
+                   2 Medium Damage occurs under specific conditions (a few times a year)
+      damage
+                     1 Low No damage occurs under normal conditions
+
+                        9 to 6 High                High likelihood of a serious incident occurring
+     Risk value         4 Medium                   Possible occurrence of a serious incident
+                                                   Low likelihood of an incident occurring, and any damage would be
+                        3 to 1 Low
+                                                   within an acceptable range.
+
+
+                                                                           51
+                          Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+   Table 13 shows examples of risk value calculations based on threats that are likely to occur
+even in SMEs and commonly overlooked vulnerabilities. As shown in this example, while it
+is challenging to control the likelihood of a threat occurrence, vulnerabilities can be mitigated
+by enhancing measures, thereby reducing the overall risk.
+
+
+                   [Table 13] Changes in Risk Values Based on Vulnerability Measures
+                                                                                                                         Criticality level (a)
+                                                                Criticality
+                                                                                                        Possibility of             x
+                      Example of threats                          level        Threat   Vulnerability                                            Risk value
+                                                                                                        damage (b)         Possibility of
+                                                                   (a)
+                                                                                                                            damage (b)
+    Theft of a laptop containing personal data of over 1,000
+    customers
+                                                                    3              2         3                2                   6              High Risk
+     (Vulnerability)
+    Data is not encrypted
+
+
+     (Improvement Measures)
+                                                                    3              2         1                1                   3              Low Risk
+    Encrypt the hard disk and data
+
+    Information leakage caused by unauthorized access to an
+    e-commerce site storing customers' personal data,
+    including credit card numbers
+                                                                    3              3         3                3                   9              High Risk
+      (Vulnerability)
+    Insufficient measures due to unawareness of technical
+    vulnerabilities on the website
+
+      (Improvement Measures)
+    Implement technical security measures from the design
+                                                                    3              3         1                1                   3              Low Risk
+    and development stages of the e-commerce site to prevent
+    the introduction of vulnerabilities
+
+    Opening an email attachment leads to a ransomware
+    infection, encrypting both server data and online backups
+                                                                    3              3         2                2                   6              High Risk
+      (Vulnerability)
+    Only online backups have been made
+
+     (Improvement Measures)
+                                                                    3              3         1                1                   3              Low Risk
+    Regularly perform offline backups
+
+
+
+
+ [Table 14] Possibility of Damage Conversion Table
+
+                            Vulnerability
+
+                                     3           2              1
+
+                      3              3           2              1
+     Threat
+                      2              2           1              1
+
+                      1              1           1              1
+
+
+   Calculation formula: Threat ÷ (4 − Vulnerability), rounded up the first decimal place.
+
+
+
+
+                                                                              52
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+    Step 3 Decide the information security measures
+
+     Determine the necessary measures for high-risk information assets.
+  Next, consider measures starting with the highest risk values and determine the measures
+most suitable for your company. Examine measures based on the following categories.
+
+  (1) Reduce Risks
+    Introduce or enhance in-house information security measures to address vulnerabilities and
+reduce the probability of incidents.
+
+  (2) Accept Risks
+  If the impact of an incident is acceptable or if the cost of implementing measures exceeds
+the potential damage, take no measures and maintain the current status.
+
+  (3) Avoid Risks
+  Eliminate the assumed risk itself by modifying how tasks are performed and how
+information systems are utilized.
+  For example, in the past, personal information, such as names and addresses used for
+product shipments, was retained on the computer even after shipping was completed.
+However, to prevent potential data leakage during storage, the information is now deleted
+immediately after it is no longer needed. Previously, the same computer was used for internet
+banking, email, and web browsing. To prevent infection by viruses, a dedicated computer
+should be installed for internet banking. This computer should not be used for email or Web
+browsing, as these activities pose a high risk of virus infections. Additionally, USB memory
+sticks and external hard drives should not be connected to the computer.
+
+ If the risk value is high and internal measures of the company are insufficient, or if the cost
+of implementing these measures is prohibitively high, consider the following options.
+
+  (4) Transfer the Risks
+  Reduce your company's burden by utilizing the services of other companies that offer more
+effective measures or compensation capabilities than your own.
+  For example, ensure that your e-commerce website does not retain credit card numbers by
+outsourcing payment processing to an external provider that has robust security measures
+in place. Migrate business systems previously operated on internal servers to secure external
+cloud services with enhanced security controls. Purchase information security insurance that
+provides compensation for losses resulting from incidents such as data breaches or system
+failures.
+
+
+
+
+                                               53
+            Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                     Column
+
+Various risk analysis techniques
+  Risks associated with the use of computers and networks can be difficult to
+understand without specialized technical knowledge and are often overlooked.
+However, many incidents occur simply because the risks were not understood, and
+measures were not implemented. Therefore, it is necessary to conduct a risk analysis
+and establish appropriate measures.
+ Section (8) How to Conduct a Detailed Risk Analysis, explains how to quantitatively
+assess risks based on the value of information assets and associated threats and
+vulnerabilities to facilitate prioritization of measures. Four risk analysis methods are
+presented below. Select and apply the method that best suits your business and IT
+environment.
+
+  (1) Baseline approach
+    A method of examining measures by referring to existing standards and criteria.
+    This approach is easy to implement since it bypasses the identification of “asset
+    value,” “threats,” and “vulnerabilities” for each information asset. However, the
+    level of measures may be too high or too low depending on the standard or
+    criteria used for reference.
+    Example: Implement measures referring to “Information Security 5 To-dos” or
+               “5-Minute Information Security Self-Assessment”
+
+  (2) Informal approach
+    A method that analyzes risks and considers measures based on the experience
+    and judgment of the company and its designated staff. This method can be
+    implemented in a short time; however, the assessment may be biased or overly
+    dependent on individual perceptions.
+    Example: The system administrator consults with an IT product manufacturer or
+               maintenance vendor that has expertise in information security,
+               receives their advice, and implements measures accordingly.
+
+  (3) Detailed risk analysis
+    A method that identifies the “asset value,” “threats,” and “vulnerabilities” for each
+    information asset and then determines appropriate measures. Measures suitable
+    for individual information assets can be implemented, but they are time-
+    consuming.
+     Example: Execute measures based on the procedure outlined in (8) “How to
+               Conduct a Detailed Risk Analysis” (P.47).
+
+  (4) Combined approach
+    A method that combines multiple approaches to complement the strengths and
+    weaknesses of each.
+    The most commonly used combination is the baseline approach, along with a
+    detailed risk analysis. This method facilitates striking a balance between
+    measures for critical information assets and those for other information assets.
+    Example: Conduct a detailed risk analysis for information assets related to
+              mission-critical systems and personal information. For other assets,
+              implement measures based on the “5-Minute Information Security Self-
+              Assessment.”
+
+
+
+
+                                         54
+                                                          Information Security Measures Guidelines
+
+
+
+
+ Reference Information on Information Security
+
+    References are given to publications and websites that may be useful when implementing
+ this guideline. The standards and guidelines are subject to revision; therefore, please refer to
+ the latest edition as applicable.
+
+[1] Cybersecurity Management Guidelines (METI, IPA)
+      This guideline was established to promote cybersecurity measures under the leadership
+      of executives at large companies and business owners of small and medium-sized
+      enterprises (excluding micro-enterprises) that provide IT-related systems and services, as
+      well as companies that utilize IT in their management strategies.
+      https://www.meti.go.jp/english/policy/safety_security/cybersecurity/index.html
+
+[2] Guidelines for the Prevention of Internal Improprieties in Organizations (IPA)
+     This guideline presents 30 measures under 10 perspectives (compliance, work
+     environment, etc.) that organizations should implement to prevent internal improprieties.
+     https://www.ipa.go.jp/security/guide/hjuojm00000055l0-att/000045873.pdf
+
+[3] Vulnerability Countermeasure Information Portal Site (IPA, JPCERT/CC)
+      This is a vulnerability countermeasure information portal site that provides information on
+      vulnerabilities and corresponding countermeasures for software used in Japan.
+      https://jvn.jp/en/
+[4] ISO/IEC 27002 Information Security, Cybersecurity and Privacy Protection – Information
+     Security Controls
+      This standard serves as a guideline for implementing information security controls.
+      Note: “Information security controls” in this standard correspond to what this guideline
+      refers to as “information security controls.”
+
+
+
+
+                                                  55
+                Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+Glossary of Terms Used in This Document
+
+
+
+Incident
+  An event in which a risk has materialized. In this guideline, the terms 'accident' and
+  'incident' are used interchangeably. In the context of information systems, an incident
+  refers to the leakage, falsification, or loss of information, as well as the shutdown or
+  significant degradation of functions used in daily operations.
+
+Availability (of information)
+  A characteristic that ensures that authorized personnel have access to information
+  and information assets when required.
+
+Integrity (of information)
+  A characteristic that ensures that information and its processing are accurate and
+  complete.
+
+Confidentiality (of information)
+  A characteristic that ensures only authorized individuals are permitted to access the
+  information.
+
+Cloud services
+  Refers to services that deliver similar functions via the Internet, eliminating the need
+  to own servers. Rental servers, SaaS (Software as a Service), and ASPs (Application
+  Service Providers) are all types of cloud services.
+
+Personal Information
+  “Personal Information” refers to information concerning a living individual that falls
+     under any of the following items.
+  (1) Information that can identify a specific individual based on details such as name,
+      date of birth, or other descriptions contained in the information (refers to all matters
+      (excluding individual identification codes) recorded or described in documents,
+      drawings, or electromagnetic records (meaning records created by
+      electromagnetic means, such as electronic or magnetic methods, or other means
+      not perceivable by human senses; the same shall apply hereinafter), or expressed
+      through voice, actions, or other methods; the same shall apply hereinafter)
+      (Including information that can be easily cross-referenced with other information,
+      thereby enabling the identification of a specific individual.)
+  (2) Items containing personal identification codes
+
+
+
+
+                                             56
+                 Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+Cybersecurity
+  (1)   Definition under the “Basic Act on Cybersecurity”: Refers to a state in which
+        “appropriate measures have been taken and are properly maintained to prevent
+        the leakage, loss, or damage of information that is recorded, transmitted, or
+        received through electronic, magnetic, or other means not perceptible by human
+        senses (hereinafter referred to as “electromagnetic formats”), including
+        measures necessary for the secure management of such information, as well as
+        for ensuring the safety and reliability of information systems and information and
+        communications networks (including measures necessary to prevent harm
+        caused by unauthorized activities targeting computers via information and
+        communications networks or through recording media associated with
+        electromagnetic formats).
+  (2)   Definition under "Cybersecurity Management Guidelines for Japanese
+        Enterprise Executives": Refers to “efforts to prevent information leaks or IT
+        system malfunctions which occur due to cyberattacks”.
+  (3)   Definition by NIST (National Institute of Standards and Technology): Refers to
+        “the process of protecting information by preventing, detecting, and responding
+        to attacks”.
+
+Information Security
+  Refers to maintaining the confidentiality, integrity, and availability of information.
+
+Insurance Products Related to Information Security
+  Refers to insurance that provides compensation in the event of damage related to
+  information security, including personal information handling business insurance,
+  which covers liability in the event of personal information leaks. Other types include
+  cyber insurance and cyber risk insurance, which help businesses continue operations
+  after suffering damage from cyberattacks, such as unauthorized access to critical data.
+
+
+
+
+                                            57
+                    Information Security Measures Guidelines for Small and Medium‑sized Enterprises
+
+
+
+
+                                   Conclusion
+   While SMEs face constraints in allocating sufficient management resources to
+information security measures, they also possess strengths, such as the ability of the
+business owner to make swift decisions and the ease of communication with employees,
+which enables them to respond flexibly to changing circumstances. While efforts toward
+digital transformation (DX) are said to be a key factor in a company’s growth, incidents
+caused by cyberattacks and other threats are also on the rise. We hope that you will utilize
+this guideline to help safeguard your company against the risks inherent in digital
+technologies.
+
+
+(Version 3.1 created)
+      Members of Working Group on the Revision of “Information Security Measures
+      Guidelines for Small and Medium‑sized Enterprises”
+                                 (In Japanese alphabetical order, ○ indicates the chairperson)
+
+       INAGAKI Ryuichi        Inagaki Law Office
+ 〇         OHKI Eijiroh       Professor Emeritus, Kogakuin University
+           SATO TakeshiDirector, Information Promotion Department, Japan Chamber
+                       of Commerce and Industry
+  SHIMOMURA Masahiro Secretary General, Japan Network Security Association
+                       (JNSA)
+      HIRUMA Takashi Executive Director and Secretary General, IT Coordinators
+                       Association
+      HORITA Shinichi Director, Corporate Planning Office and Early Warning Group,
+                       JPCERT Coordination Center
+       YOSHII Hiroyuki Section Chief, Management Information Strategy Section,
+                       Industrial Policy Department, Central Federation of Societies
+                       of Commerce and Industry
+
+
+
+
+ Revision History
+ ● Version 1.0 (March 18, 2009) ● Version 2.0 (November 15, 2016) Complete revision
+ ● Version 2.1 (January 24, 2017) Terminology and Figures Revised
+ ● Version 3.0 (March 19, 2019) ● Version 3.1 (April 26, 2023)
+                                              58
+                      Let’s get
+                      started in
+                      information
+                      security!
+
+
+
+
+Information Security Measures Guidelines for
+Small and Medium‑sized Enterprises Version
+3.1
+April 2023
+Information-technology Promotion Agency, Japan (IPA)
+Bunkyo Green Court Center Office, 2-28-8 Hon-
+komagome, Bunkyo-ku, Tokyo, Japan 113-6591
+
+URL https://www.ipa.go.jp/en/
+E-mail isec-pr-nw@ipa.go.jp
+

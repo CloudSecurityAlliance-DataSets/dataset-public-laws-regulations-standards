@@ -1,0 +1,21 @@
+JISEC-Scheme Overview
+Last Updated:Jul 7, 2022
+Japan Information Technology Security Evaluation and Certification Scheme ("JISEC")
+Japan Information Technology Security Evaluation and Certification Scheme (
+"JISEC
+") is a scheme under which third-party evaluation facilities evaluate whether IT product security is effective and reliably implemented in accordance with ISO/IEC 15408, the international standard for evaluation criteria for IT security based on CC and the certification provides independent confirmation of the validity of evaluation results by Innovation Platform Agency, Japan ("
+IPA
+").
+IPA operates JISEC from the standpoint of the Certification Body and besides certification activities is also involved in overseeing the scheme and engaging in international collaboration.
+The benefit in having certified products and systems is that it provides the users of such products with confidence in the security functionality provided. Users can confirm precisely and in detail whether they can appropriately protect information assets and system resources.
+The Certification Body
+Japan's Sole Certification Body is an organization established within the Information-Technology Promotion Agency, Japan (IPA), is a government affiliated Agency (specially-approved corporation) which is operated under METI (Ministry of Economy, Trade and Industry) supervision.
+The Certification Body is supposed to take organizational and operational measures to satisfy the requirements provided for by JIS Q 17065 (General requirements for bodies operating product certification systems. ISO/IEC 17065) and CCRA.
+The Certification Body implements the Certification or ST Confirmation based on the results of an Evaluation made by an Evaluation Facility.
+Evaluation Facilities
+Evaluations under JISEC are performed by Commercial Evaluation Facilities. These are commercial organizations approved by National Institute of Technology and Evaluation (NITE) as the Accreditation Body.
+There are 3 evaluation facilities (
+ITSC, ECSEC, TÜViT
+) in Japan now.
+Accreditation Body
+Accreditation Body is established within the National Institute of technology and Evaluation (NITE) as an organization that accredits an Evaluation facility under the Scheme according to JIS Q 17025.

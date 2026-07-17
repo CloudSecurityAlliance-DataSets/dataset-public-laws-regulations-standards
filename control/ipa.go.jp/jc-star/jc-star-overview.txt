@@ -1,0 +1,55 @@
+Japan Cyber STAR (JC-STAR)
+[JAPANESE]
+Japan Cyber STAR (JC-STAR): "Labeling Scheme based on Japan Cyber-Security Technical Assessment Requirements" is a Japanese labeling scheme that confirms the conformance of IoT products to conformance requirements (security technical requirements) based on its own standards, while also harmonizing with domestic and international standards such as ETSI EN 303 645 and NISTIR 8425.
+Overview of this Scheme
+This Scheme was established based on the "IoT Product Security Conformity Assessment Scheme Policy" published by the Ministry of Economy, Trade and Industry (METI) in August 2024. It targets a wide range of IoT products capable of communicating with the internet, aiming to conduct evaluation/assessment and visualization of the security functions equipped with the products using a common standard.
+Traditionally, there has been a problem in IoT products' security measures: vendors have found it difficult to effectively appeal these measures to procurers and consumers, while procurers and consumers themselves have struggled to determine whether products’ security measures are adequate. Furthermore, as government agencies and corporations increasingly adopt broad supply chain risk management practices, including not only the security of procured products but also that of product vendors, the current reality is that it is difficult to implement the process of verifying  products’ security functions and countermeasures, which should inherently be conducted by the organization itself, at the time of selection and procurement.
+In order to solve these problems, this Scheme establishes conformance requirements according to the required security level: STAR-1 (Level 1), which is a baseline requirement addressing common threats for all IoT products; and STAR-2 (Level 2), STAR-3 (Level 3), and STAR-4 (Level 4), which are conformance requirements based on the characteristics of each IoT product category. Products that are approved to be conformant are given a conformance label with a two-dimensional barcode, enabling procurers and consumers to easily acquire product details, conformance evaluations/assessments, security information, contact details, and other relevant data.
+For details on the "IoT Product Security Conformity Assessment Scheme Policy," please refer to the Ministry of Economy, Trade and Industry (METI) website.
+IoT Product Security Conformity Assessment Scheme Policy (Ministry of Economy, Trade and Industry, August 23, 2024)
+Regarding the Conformance Label
+The conformance label granted under this Scheme is to confirm that the IoT products meet the baseline security functions required to counter the threats assumed by the defined conformance requirements and evaluation/assessment guidance. Note that the presence of a conformance label does not assure complete or perfect security.
+Besides, STAR-1 (Level 1) and STAR-2 (Level 2) are self-declaration of conformance methods where IPA grants the conformance label, based on a checklist which describes the results of the IoT product vendor's self-assessment conducted using the conformance requirements and assessment procedures specified by the Scheme. While the reliability of the assessment depends on the vendor's reliability, these levels allow for acquiring the conformance label at low cost and in a short timeframe. Furthermore, the Scheme balances reliability by implementing a mechanism whereby IPA conducts inspections and surveillance when doubts arise regarding conformance with the conformance requirements, and may revoke the conformance label based on the results. On the other hand, for STAR-3 (Level 3) and STAR-4 (Level 4), products intended for government agencies and critical infrastructure providers will be certified and labeled by IPA based on the Evaluation/Assessment Technical Reports from independent third-party Evaluation Bodies, ensuring a higher level of reliability.
+Levels of Conformance Requirements and their Positioning
+STAR-4 (Level 4) / STAR-3 (Level 3)
+General security requirements shall be specified in addition to those specified in STAR-1 (Level 1) and STAR-2 (Level 2) for each product category intended for use in critical systems operated by government agencies, critical infrastructure providers, local governments, large corporations, etc., and an independent third-party evaluates to demonstrate that a product satisfies those requirements.
+STAR-2 (Level 2)
+Basic security requirements shall be specified for each product category, considering its characteristics, in addition to those specified in STAR-1 (Level 1), and IoT product vendors themselves declare that a product satisfies those requirements.
+STAR-1 (Level 1)
+The common baseline security requirements required for products shall be specified, and IoT product vendors themselves declare that a product satisfies those requirements.
+Regarding the Application Process
+For New Application
+Regarding Mutual Recognition for IoT Compliance Labeling Schemes
+For JC-STAR Application for products with the UK PSTI Act compliance
+For JC-STAR Application for products with the Singapore Cybersecurity Labelling Scheme
+Information
+"STAR-3 Security Requirements for Network Devices" and "STAR-3 Security Requirements for Network Cameras" have been released on July 13, 2026.
+Mutual recognition between JC-STAR and Singapore CLS began on June 1, 2026.
+The application documents for products with UK PSTI Act compliance have been made available on April 1, 2026.
+”Regarding PSTI Compliance Certification” has been released on January 27, 2026.
+(STAR-1) Application Form has been revised on July 25, 2025
+List of products acquired conformance labels has been published on May 21, 2025.
+”STAR-1 Assessment Guide" and "STAR-1 Assessment Checklist" have been updated on May 15, 2025.
+We started accepting applications for the "STAR-1" level on March 25, 2025.
+Application & Reporting Process
+Conformance Requirements and Assessment Procedures
+JC-STAR-Scheme Documentation [Basics]
+Products acquired conformance labels
+Contact Information
+Change log
+Jul 13, 2026
+Information has been updated.
+May 7, 2026
+"Regarding the Application Process" is released.
+Apr 1, 2026
+Information has been updated.
+Feb 16, 2026
+The contents of this page have been updated.
+Jul 25, 2025
+Information has been updated.
+May 15, 2025
+Information has been updated.
+Mar 25, 2025
+We started accepting applications for the "STAR-1" level.
+Sep 30, 2024
+It is newly released

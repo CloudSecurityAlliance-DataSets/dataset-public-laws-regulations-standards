@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/ppc.go.jp/appi-guidelines",
+  "name": "Guidelines for the Act on the Protection of Personal Information (General Rules)",
+  "acronym": "PPC APPI Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Personal Information Protection Commission, Japan (PPC)",
+  "type": "Standard",
+  "description": "Most recently revised December 2024, 189 pages. PPC's implementing/interpretive guidance for APPI (secid:regulation/ppc.go.jp/appi), with the concrete organizational/personnel/physical/technical security-control detail APPI's statutory text lacks.",
+  "relationToCloudSecurity": "See registry/control/ppc.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.ppc.go.jp/files/pdf/241202_guidelines01.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full text acquired (Japanese; no official English translation exists for this specific General Rules edition). PDF was encrypted (decrypted with qpdf), then pdftotext -layout extracted cleanly (189 pages, ~9,450 lines)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired (Japanese only)."
+  },
+  "notes": ""
+}
