@@ -1,0 +1,4 @@
+J-CSIP & J-CRAT
+Sophisticated, targeted cyber-attacks are on the rise and defense against those attacks have become a priority at every organization.IPA is leading initiatives called J-CSIP and J-CRAT to protect critical industries and societal infrastructure against the threats.
+J-CSIP, which stands for Initiative for Cyber Security Information Sharing Partnership of Japan, collects and analyzes data from actual incidents to share findings with participating organizations and industry groups for early detection of attacks and effective countermeasures.
+Abbreviated for Cyber Rescue and Advice Team against Targeted Attack of Japan, J-CRAT helps attacked organizations quickly analyze the damage and undertake untermeasures to prevent or reduce further expansion of damage.

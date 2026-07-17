@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/ipa.go.jp/insider-breach-guidelines",
+  "name": "Guidelines for the Prevention of Internal Improprieties in Organizations",
+  "acronym": "IPA Insider Breach Guidelines",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Information-technology Promotion Agency, Japan (IPA)",
+  "type": "Standard",
+  "description": "English version 3.0 (current Japanese edition is v5, April 2022 -- English not yet updated). Covers 33 concrete countermeasures across 10 perspectives (basic policy, asset management, technical controls, workplace environment, post-incident response), plus case studies and a checklist.",
+  "relationToCloudSecurity": "See registry/control/ipa.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
+    "publicly_redistributable": false,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+  },
+  "links": {
+    "source": "https://www.ipa.go.jp/security/guide/hjuojm00000055l0-att/000045873.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired. PDF was not encrypted; pdftotext -layout extracted cleanly on the first attempt."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired, but an older English version than the current Japanese edition."
+  },
+  "notes": ""
+}

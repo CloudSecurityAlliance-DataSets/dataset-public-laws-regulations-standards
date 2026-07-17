@@ -1,0 +1,613 @@
+III-3-7       Information Technology (IT) System Risk
+
+
+III-3-7-1       Information Technology (IT) System Risk
+
+
+III-3-7-1-1          Purpose and Significance
+
+
+  Information technology (IT) system risk is the risk of loss incurred in customers and banks because of
+system adequacies, including a computer system breakdown or malfunction, or because of inappropriate
+or illegal use of computer systems. As IT systems used by banks are becoming increasingly advanced and
+complex in line with the integration of computer systems due to mergers and other management
+restructuring and an expansion of the range of new products and services, the risk of illegal access and leaks
+of important information has been increasing further with an expansion of computer networks.
+  In particular, computer systems of major banks, which are originally equipped with advanced functions,
+tend to be large in scale and complicated in configuration because they are required to process a huge
+volume of data. In addition, as the system configuration and operational environment become more
+complicated due to cumulated management restructuring, major banks are particularly required to address
+various issues related to IT systems appropriately. If a system failure or cyber-security incident occurred in
+a major bank, it would have an extremely huge impact not only on users’ social and economic lives and
+
+
+                                                     268
+corporations’ economic activities but also on Japan’s economy as a whole. In addition, the impact would
+not be limited to a single bank but spread over the whole financial system. The secure and stable operation
+of IT systems is a basic premise for ensuring public confidence in the financial settlement system and banks,
+and that is why it is extremely important to enhance and strengthen the control environment for managing
+IT system risk.
+  Furthermore, taking into account the recent change in environments surrounding the financial industry,
+the IT strategies of financial institutions are, now, key factors affecting their business models. As such,
+there are increasing needs in financial institutions to consider business strategies integrally with IT
+strategies. From these viewpoints, it is very important that “IT governance, ” which is a framework
+allowing the management of a bank to show leadership and to create corporate value by linking information
+technologies to management strategies, works properly and well.
+Note:     "Cybersecurity incidents" refer to instances of cybersecurity being threatened by so-called
+          “cyberattacks,” including unauthorized intrusion, theft, modification and destruction of data,
+          failure or malfunction of information systems, execution of illegal computer programs, and DDoS
+          attacks, committed via the Internet through malicious use of information communication
+          networks and information systems.
+(Reference) Discussion Paper on Dialogues and Practices Regarding IT Governance at Financial
+              Institutions (June, 2019)
+
+
+III-3-7-1-2           Major Supervisory Viewpoints
+
+
+ (1) Recognition of IT system risk
+    (i)   Whether officers and employees, including the representative director, have fully recognized the
+          importance of IT system risk, reviewed it regularly, and formulated a basic policy for the bank-
+          wide management of IT system risk.
+    (ii) Whether the representative director has recognized that prevention and efforts for rapid recovery
+          from an IT system failure and cybersecurity incident (hereinafter referred to as "system failure")
+          is an important issue for the management of the bank, and developed an appropriate control
+          environment.
+    (iii) Whether the board of directors has appointed a person who has sufficient knowledge and
+          experience relating to the IT system to properly perform the relevant work as a director who takes
+          overall responsibility for the IT system upon fully recognizing the importance of managing the
+          IT system risk.
+    (iv) Whether the representative director and directors (or executive officers in cases where the bank
+          is a company with a nominating committee, etc.) have determined their specific responsibility to
+          assume and the response to take in case of a crisis in which a system failure occurs.
+           Also, whether they conduct drills giving directions by themselves and ensure the effectiveness
+           thereof.
+
+
+                                                     269
+(2) Control environment for managing IT system risk
+    (i)   Whether the board of directors has established the risk management environment while fully
+          understanding that, due to the highly networked computer system, if risk becomes apparent, the
+          impact will cause a chain reaction, spread widely and seriously, and badly affect the management
+          of the bank.
+    (ii) Whether the bank has established a basic policy for managing IT system risk, and whether the
+          basic policy for managing IT system risk contains the security policy (a basic policy for proper
+          protection of information assets of an organization) and the outsourcing policy.
+    (iii) Whether the bank is basing the details of its control environment for managing IT system risk on
+          criteria that allow it to judge objective levels of its details.
+             Also, whether the bank revises, on a continual basis, its control environment for managing IT
+          system risk according to the identification and analysis of system failures, results of
+          implementation of risk management, progress of technology, etc.
+
+
+(3) Assessment of IT system risk
+    (i)   Whether the section in charge of managing IT system risk recognizes and assesses risks
+          periodically and in a timely manner by recognizing the fact that risks are becoming diverse due
+          to changes in the external environment, such as seen in the examples of system failures induced
+          by large-scale transactions as a result of increased customer channels and efforts to enhance
+          information networks that bring about more diverse and broad-based impacts.
+             Also, whether it takes sufficient measures to address the risks that have been identified.
+    (ii) Whether the section in charge of managing IT system risk checks and manages the upper limit
+          of the transactions through the computer system, such as the number of unrecorded transactions
+          in a bank book per account to be kept in the system, and whether it reviews the countermeasures
+          from the IT system aspect and the administrative work aspect in cases where the transactions
+          exceed the upper limit.
+    (iii) Whether the section in charge of product development cooperates with the section in charge of
+          managing IT system risk at the time of introduction of a new product or alternation of the content
+          of an existing product, and also, whether the section in charge of managing IT system risk
+          evaluates the relevant IT system regardless of whether the system is newly developed or not.
+
+
+ (4) Management of information security
+    (i)   Whether the bank has made a developed policy, instilled organizational readiness, and introduced
+          in-house rules and a developed internal control environment, in order to appropriately manage
+          information assets. Also, whether it is making continuous efforts to improve its information
+          security control environment through the PDCA cycle, taking notice of illegal incidents or lapses
+          at other companies.
+
+
+                                                        270
+(ii) Whether the bank manages information security by designating individuals responsible for it and
+        clarifying their roles/responsibilities in an effort to maintain the confidentiality, integrity, and
+        availability of information. Also, whether the individuals responsible for information security are
+        tasked with handling the security of IT system, data, and network management.
+(iii) Whether the bank takes measures to prevent unauthorized use of computer systems,
+        unauthorized access, and intrusion by malicious computer programs, such as computer viruses.
+(iv) Whether the bank identifies important customer information that it is responsible for protecting
+        in a comprehensive manner, keeps its records, and manages them.
+          Whether the scope of important customer information to be identified by the bank covers
+        information and data used in the course of business operations or stored in IT systems and kept
+        by external contractors and includes data, for example, as listed below;
+      ・ Data stored in the areas within the IT system that are not used in ordinary operations;
+      ・ Data output from the IT system for analyzing system failures; and
+      ・ Transaction logs stored in ATMs (including those outside of branches), etc.
+(v)     Whether the bank assesses important points and risks regarding important customer information
+        that has been identified.
+           Also, whether it has developed rules to manage information, such as that listed below, in
+         accordance with the importance and risks of each information;
+      ・ Rules to encrypt or mask information;
+      ・ Rules for utilizing information; and
+      ・ Rules on handling data storage media, etc.
+(vi) Whether the bank has introduced measures to discourage or prevent unauthorized access,
+        unauthorized retrieval, data leakage, etc. such as those listed below, for important customer
+        information;
+      ・ Provision of access rights only to employees who need access according to their authority;
+      ・ Storage and monitoring of access logs; and
+      ・ Introduction of mutual checking functions, such as by separating the individuals in charge of
+          development and those responsible for operations, system administrators and system users, etc.
+(vii) Whether the bank has established rules for controlling confidential information, such as
+        encryption and masking. Also, whether it has developed rules regarding the management of
+        encryption programs, encryption keys, and design specifications for encryption programs.
+           Note that "confidential information" refers to any information that may cause damage or loss
+         to customers if it is disclosed or stolen, including PINs, passwords, credit card information.
+(viii) Whether the bank gives due consideration to the necessity of holding/disposing of, restricting
+        access to, and taking outside, of confidential information, and treats such information in a stricter
+        manner.
+(ix) Whether the bank periodically monitors its information assets to see whether they are managed
+        properly according to management rules, etc. and reviews the control environment on an ongoing
+
+
+                                                   271
+            basis.
+     (x) Whether the bank conducts security education (including security education at external
+            contractors) to all officers and employees in order to raise awareness of information security.
+
+
+(5) Management of cybersecurity
+    (i)     Whether the board of directors, etc. has developed the necessary control environment upon
+            recognizing the importance of cybersecurity amid increasingly sophisticated and cunning
+            cyberattacks.
+    (ii) Whether the bank has developed the control environment for managing cybersecurity, such as
+            those listed below, in addition to making the organization more secure and introducing in-house
+            rules.
+          ・ Monitoring systems against cyberattacks;
+          ・ Systems for reporting and public relations when cyberattacks occur;
+          ・ Emergency measures by an in-house Computer Security Incident Response Team (CSIRT)
+             and systems for early warning; and
+          ・ Systems for collecting and sharing information through information-sharing organizations, etc.
+    (iii) Whether the bank has developed a multi-layered defense system against cyberattacks that
+            combines security measures respectively for inbound perimeter control, internal network security
+            control, and outbound perimeter control.
+          ・ Security measures for inbound perimeter control (e.g., introduction of a ﬁrewall, anti-virus
+             software, instruction detection system, instruction protection system etc.);
+          ・ Security measures for internal network security control (e.g., proper management of privileged
+             IDs/passwords, deletion of unnecessary IDs, monitoring of execution of certain commands,
+             etc.); and
+          ・ Security measures for outbound perimeter control (e.g., retrieval and analysis of
+             communication/event logs, detecting/blocking inappropriate communication, etc.)
+    (iv) Whether measures such as those listed below are implemented to prevent spreading damage
+            when cyberattacks occur.
+          ・ Identiﬁcation and blocking of IP addresses from which the cyberattacks originate;
+          ・ Functions to automatically decentralize access against DDoS attacks; and
+      ・Temporary suspension of the entire or part of the system, etc.
+    (v)     Whether necessary measures for vulnerabilities in the system, such as updating of the operating
+            system and application of security patches, are introduced in a timely manner.
+    (vi) Whether the bank, as part of cybersecurity measures, assesses its security levels by using relevant
+            tests on network intrusion, vulnerability scanning, or penetration tests, etc. and make efforts to
+            improve security.
+    (vii) In cases where the bank executes transactions via communication methods such as the internet
+            without any face-to-face contact, whether the bank takes the security measures described in III-
+
+
+                                                       272
+          3-8-2(2) or III-3-9-2(2).
+             For information, the following cases of security measures using authentication methods and
+           anti-fraud measures are described in the agreements or guidelines, etc. of the Japanese Bankers
+           Association.
+
+
+        ・ Authentication methods that do not rely on ﬁxed IDs/passwords, such as variable passwords
+            and digital certificates;
+        ・ Transaction authentication through multiple channels by using, for example, devices other than
+            a PC web browser used in transactions, such as a mobile phone;
+        ・ Transaction authentication using transaction signatures by means of a hardware token, etc.;
+        ・ Adoption of methods to store digital certiﬁcates on media or devices separate from PCs used
+            in transactions, such as IC cards;
+        ・ Provision of security software that allows users to detect and remove viruses, etc. when
+            executing transactions;
+        ・ Introduction of software that allows the bank to detect virus infection of the user's PC and issue
+            a warning;
+        ・ Introduction of a system that allows the bank to detect unauthorized log-ins, irregular
+            transactions, etc. and promptly notify such anomalies to users.
+    Note: it is desirable to avoid using authentication methods on the internet that use information with
+             a small number of combinations like a cash card PIN as a storage element.
+   (viii) In order to prevent unauthorized use of internet banking, etc., whether appropriate procedures
+          are established to not allow unauthorized registration and change of information used for
+          notification of depositors or personal identification, such as a telephone number or an email
+          address.
+  (ix) Whether the bank has developed contingency plans against potential cyberattacks, and conducts
+          drills and reviews such plans. Also, whether it participates in industry-wide exercises as necessary.
+  (x)     Whether the bank has formulated and implemented plans for fostering and developing human
+          resources responsible for cybersecurity.
+
+
+(6) IT system planning/development/management
+  (i)     Whether the bank has clearly established a policy for IT system strategy as part of its business
+          strategy, and then established medium- to long-term development plans.
+          Also, whether such medium- to long-term development plans have been approved by the board
+        of directors.
+  (ii) Whether the bank has been making continuous efforts to identify the risks inherent in the current
+          IT system and to make investment in maintaining and improving it systematically.
+  (iii) Whether rules to authorize plans, development, and transitions of IT system development
+          projects are clearly established.
+
+
+                                                     273
+    (iv) Whether the bank appoints and assigns a responsible person to each IT system development
+          project and manages the project according to the development plan.
+    (v)   In developing IT systems, whether the bank creates test planning and conducts tests in an
+          appropriate and sufficient manner, such as by involving user divisions.
+    (vi) With regard to development of human resources, whether the bank creates and implements
+          specific plans for developing human resources with expertise for succession of the current IT
+          system structure and technology.
+
+
+(7) IT system audit
+    (i)   Whether an internal audit division that is independent from the IT systems division conducts
+          periodic audits of IT systems.
+    (ii) Whether the bank conducts internal audits by computer system experts and utilizes external
+          audits by IT system auditors, etc.
+    (iii) Whether the audit covers all business operations related to IT system risk.
+    (iv) Whether the results of the IT system audit are reported to the board of directors in a proper
+          manner.
+
+
+ (8) Management of outsourcing relating to IT system
+    (i)   In selection of outsourcing contractors (including system-related subsidiaries), whether the bank
+          selects after evaluation and consideration based on selection standards.
+    (ii) In the outsourcing contract, whether the bank stipulates the division of roles and responsibilities
+          with the outsourcing contractor, audit authority, subcontracting procedures, and level of services
+          provided, etc. Also, whether the bank presents the rules and security requirements to the
+          outsourcing contractor so that its officers and employees comply, and stipulates them in the
+          contract, etc.
+    (iii) Whether risk management is carried out properly in outsourced IT system work (including work
+          sub-outsourced).
+             In particular, where the bank outsources IT system work to multiple contractors, whether the
+          bank has developed a control environment upon fully understanding the situation in which
+          related administrative work becomes more complicated,
+             In cases where the bank outsources IT system administration, whether the bank properly
+          manage the risk thereof in the same manner as outsourcing of IT system work.
+    (iv) Whether the bank, as an entrustor, periodically conducts monitoring to ensure that outsourced
+          work (including further sub-outsourced work) is carried out appropriately.
+             Also, whether the bank takes necessary measures not to leave everything to contractors by, for
+          example, deploying its staff as an entrustor at a contractor office, etc. In particular, whether the
+          bank receives reports on the status of internal management, and development and operation of
+          the shared system center.
+
+
+                                                    274
+                Also, for developing a shared system, etc., whether a control environment is in place that
+              allows the bank, as an entrustor, to monitor and track the status of customer data being
+              processed at outsourcing contractors.
+       (v)   Whether the bank conducts audits on its important outsourcing contractors such as the shared
+             system center by its internal audit division or IT system auditors, etc.
+  Note:         The abovementioned items would apply to cases where the bank uses an external service such
+                as integrated ATM switching service.
+
+
+(9) Contingency plan
+       (i)   Whether the bank has developed a contingency plan and established arrangements and
+             procedures for emergency situations.
+       (ii) When developing a contingency plan, whether its content is based on information that could be
+             judged at an objective level (e.g., "Manual for the Development of Contingency Plans in
+             Financial Institutions (Plans for Measures in the Event of Emergencies)" compiled by the Center
+             for Financial Industry Information Systems).
+       (iii) When developing a contingency plan, whether the bank assumes not only contingencies due to
+             natural disasters but also system failures due to internal or external factors.
+                Also, whether the bank assumes sufficient risk scenarios, such as a case of major delay in batch
+              processing.
+       (iv) Whether the bank reviews assumed scenarios in its contingency plan by, for example, taking into
+             consideration case studies of system failures at other financial institutions and results of
+             deliberations at the Central Disaster Management Council, etc.
+       (v)   Whether the bank periodically conducts drills on the basis of the contingency plan at the
+             corporate level, jointly with outsourcing contractors, etc., such as the shared system center.
+       (vi) Whether the bank introduced off-site backup systems, etc. in advance for important systems
+             whose failure could seriously affect business operations, and has developed a control
+             environment to promptly continue business operations in the event of disasters and system
+             failures, etc.
+
+
+(10)         Response to IT system failures
+       (i)   Whether the bank has taken appropriate measures to avoid causing unnecessary confusion
+             among customers when system failures occur.
+              Also, whether the bank has developed a control environment to take necessary measures
+              accordingly, upon assuming a worst-case scenario in preparation for system failures.
+       (ii) Whether the bank has clarified reporting procedures and the framework of command and
+             supervision including at the outsourcing contractors in preparation for system failures.
+       (iii) In cases where a system failure that would significantly affect its business operations occurs,
+             whether the bank has developed a control environment to promptly notify the representative
+
+
+                                                        275
+           director and other directors and report the maximum risk that could occur under the worst-case
+           scenario (for example, if there is a possibility that the failure could gravely affect their customers,
+           the reporting persons promptly report the maximum possibility without underestimation of the
+           risk).
+                In addition, whether the bank has developed a control environment to launch a task force
+            where necessary, and the representative director and other directors give appropriate
+            instructions and orders, and promptly resolve the issues.
+    (iv) Whether the bank has made mutual support for preparation of system failures clear, such as
+           through prior registration in order to promptly gather human resources with know-how and
+           experience from the IT systems division, other divisions, and outsourcing contractors.
+    (v)    In cases where system failures occur, whether the bank has published the content and causes of
+           the failure, expected recovery time, etc. and has established a call center to properly respond to
+           inquiries from their customers where necessary.
+                Also, whether the bank has made the methodology of providing information to the relevant
+            business divisions in preparation for system failures clear.
+    (vi) Whether the bank has conducted analysis of causes of system failures, investigation about the
+           impact until recovery, corrective action, and preventive measures for recurrence in a proper
+           manner.
+                Also, whether the bank has periodically analyzed tendencies of factors that have led to system
+            failures and taken measures according to them.
+    (vii) Whether the bank has established a systematic framework to minimize impacts of system failures
+           such as a system to bypass the affected part.
+ (Reference) As an example of reference materials relating to IT system risk, “FISC Security Guidelines
+                 on Computer Systems for Banking and Related Financial Institutions” (The Center for
+                 Financial Industry Information Systems) may be taken.
+
+
+III-3-7-1-3             Supervisory Methods and Measures
+
+
+ (1) When system failure occurred
+     (i) General response
+          (A)    Upon recognizing the occurrence of an IT system failure or cybersecurity incident, the bank
+                 will be required to immediately notify the authority of the fact and then to submit a report
+                 to the authority in the form of the “Report on Occurrence of System Failure, etc.” (Form
+                 4-45 in the Forms and Reference Information).
+                      In addition, the bank will also be required to make a report upon recovery of the system
+                    or identification of the cause of the IT system failure. Even if the causes are not identified,
+                    the bank will be required to make a report on the status within one month from the
+                    occurrence of the IT system failure.
+
+
+                                                           276
+      Note:        IT system failures that should be reported:
+                  Failure or trouble that occurs in the IT systems and devices (both hardware and software)
+              currently used by the bank, regardless of the cause and;
+            a.    that delays or suspends, or may delay or suspend repayment of deposits or the settlement
+                  function of funds transfer transactions;
+            b. that affects or may affect its cash flow and grasp of financial situations, etc.; or
+            c.    that may otherwise be deemed similar to the above in the course of business.
+                     This reporting requirement, however, does not apply, provided that, even when a part
+                   of an IT system or device fails or has problems, there is no substantial impact or damage
+                   because the affected part is able to be promptly replaced by another system or device (e.g.,
+                   cases where even when some ATMs are out of service, users can access banking services
+                   at other ATMs or the counter of the same branch or nearby branch.)
+                     In the meantime, the bank will be required to make a report, even though failure or
+                   trouble does not actually occur, when its customers or business operations are affected or
+                   likely to be affected because it receives an advance notice of a cyberattack or it found a
+                   cyberattack in its IT system.
+      (B)        The FSA will require the bank to make an additional report pursuant to Article 24 of the
+                 Banking Act, when it deems necessary, and if a serious problem is found, the FSA will issue
+                 a business improvement order pursuant to Article 26 of the Banking Act.
+     (ii) Emergency response
+            In particular, when a large-scale system failure has occurred, or when it takes considerable time
+        for the bank to identify the causes of the failure, the FSA will require the bank to make a prompt
+        identification of the causes and recovery as well as to make a report pursuant to Article 24 of the
+        Banking Act, while immediately monitoring the status of implementing a contingency plan, such
+        as general publication of the facts of the failure and customer relations at the branches.
+            Additionally, in cases where there is uncertainty about recovery from a large-scale system
+        failure which is seriously affecting market transactions and a settlement system, such as ATM
+        transactions, bank transfers, or remittance of salaries, the FSA will take actions to consider issuing
+        a business improvement order promptly based on Article 26 of the Banking Act.
+
+
+(2) Updates of IT systems
+       When the bank intends to update its important IT systems, etc., the FSA, if it deems necessary,
+     will require the bank to make a report based on Article 24 of the Banking Act and confirm the
+     planning and progress as well as appropriateness and feasibility of the project management thereof.
+
+
+(3) When a problem is found
+       As a result of on-site inspection results, etc., a problem relating to a bank’s control environment
+     for IT system risk is revealed, the FSA will require the bank to submit detailed reports based on
+
+
+                                                      277
+      Article 24 of the Banking Act, if it deems necessary. If a serious problem is found, the FSA will issue
+      a business improvement order or implement any other measures based on Article 26 of the Banking
+      Act.
+
+
+(4) Response to outsourcing contractors
+        When it deems necessary, for example, in cases where there is a concern that outsourcing
+      contractors fail to properly operate outsourced work relating to IT systems, the FSA will take actions
+      based on III-3-3-4-3.
+
+
+III-3-7-2      Security for ATM System
+
+
+III-3-7-2-1          Purpose and Significance
+
+
+  The ATM system provides various banking services in a simple and prompt manner, and it is very
+convenient for customers and widely used by them. On the other hand, transactions via the ATM system,
+which are executed without face-to-face contact, have inherent risks, including the difficulty of confirming
+irregular transactions.
+  Financial institutions are required to manage customers’ assets safely in the course of providing financial
+services. They are, therefore, encouraged to take sufficient information security measures for the ATM
+system from the viewpoint of ensuring customer protection, while securing users’ convenience. In this
+regard, the Depositor Protection Act (Act on Protection of Depositors from Unauthorized ATM
+Withdrawals Using Counterfeit or Stolen Cards, etc.) stipulates that banks are responsible for development
+of necessary IT systems, provision of relevant information to customers, raising of their awareness, and
+dissemination of knowledge among them to prevent the occurrence of unauthorized ATM withdrawals, etc.
+using counterfeit or stolen cards, etc.
+  Additionally, banks need to take security measures considering the fact that if a certain financial
+institution leaves its ATMs vulnerable in security, it may adversely affect other financial institutions
+because ATMs are interconnected among financial institutions via the integrated ATM switching service.
+
+
+III-3-7-2-2          Major Supervisory Viewpoints
+
+
+ (1) Development of internal control environment
+       In light of the changing situation with more sophisticated crime techniques, etc., whether the bank
+    positions preventive measures against illegal withdrawals using counterfeit cash cards, etc. as one of
+    the highest priority management issues that the bank must address and implements necessary reviews
+    at the board of directors to improve the security level. Also, to secure sound and proper ATM system
+    operations, whether the bank has each division share information on the current status thereof and
+    has a control environment to address it in the entire bank.
+
+
+                                                    278
+      Whether the bank has developed the necessary control environment after conducting reviews
+    according to the characteristics of its customers and operations based on the situation of crime
+    occurrence.
+      Furthermore, whether the so-called “PDCA cycle” is functioning in terms of risk analysis and
+    security measures, which is composed of plan, do, check, and act.
+ (Reference) PDCA cycle shown at the Study Group on Cyber Security
+       (i)   Identifying and understanding risks attributable to financial institutions (development of
+             internal control environment, framework of IT system development, attributes of IT system
+             and outsourcing of IT system configuration, etc.);
+       (ii) Identifying and understanding risks regarding use of ATMs (upper limit of transaction
+             amount, operating hours, locations of ATMs, crime occurrence in areas surrounding the
+             ATMs, etc.);
+       (iii) Determining the priority as to what kind of crime or risk should be addressed based on the
+             risk characteristics mentioned above;
+       (iv) Implementation of measures; and
+       (v) Review of the effect of measures and improvement.
+
+
+(2) Securing security
+      Whether the bank has evaluated the security level of its cash cards and ATM system according to
+    relevant criteria. And whether the bank has taken proper measures to keep it safe and proper by
+    reviewing it from the IT system aspect and the technology aspect based on the results of the evaluation.
+    For this, whether the bank has taken measures suitable to the characteristics of its customers and
+    operations while identifying the risk arising at the time of structuring the IT system and each phase of
+    use thereof based on the discussions at the Study Group on Cyber Security. Also, whether the bank
+    aims at improving security as a whole rather than taking individual measures in an impromptu manner.
+      Whether the bank has taken proper measures to prevent unauthorized withdrawals including
+    introduction of appropriate authentication technology, prevention of information leaks, and early
+    detection of irregular transactions based on the Depositor Protection Act. In this case, whether the
+    bank has taken care not to impose an excessive burden on customers, and makes efforts to avoid
+    causing inconvenience for customers by assuring compatibility, etc.
+      Whether the bank has taken security measures according to the risk if high-amount transactions
+    with high risk are available at ATMs. In particular, whether the bank has considered methods to
+    enhance the security of magnetic cards which are pointed out to be vulnerable in terms of security.
+    For an internationally active bank, whether it has implemented necessary reviews while considering
+    measures in line with international security trends.
+(Reference 1) As an example of the security standards, “FISC Security Guidelines on Computer Systems
+              for Financial Institutions” (The Center for Financial Industry Information Systems) may
+              be taken.
+
+
+                                                     279
+(Reference 2) Materials at the Study Group on Cyber Security can be used as references in identifying and
+               understanding the risks.
+
+
+(3) Response to customers
+      Whether the bank has established a control environment to provide sufficient customer explanation
+    about various risks associated with use of cash cards, such as skimming, theft of PIN number and card,
+    use of easily assumable PIN number, possibility of damage expansion (against which the bank could
+    introduce an upper limit of the amount to be transferred or withdrawn at an ATM), and other problems
+    caused from having too many cards.
+      Whether the bank has established a control environment for promptly receiving and processing
+    notifications from customers. Also, whether the bank has developed a control environment for
+    promptly disseminating necessary information to customers (including public announcement) when
+    needed. In particular, when it is possible to identify customers who are likely to be victimized by a
+    crime, whether the bank takes measures to minimize damage by informing them of such concern as
+    soon as possible.
+      Whether the rules concerning compensation for loss or damage caused by unauthorized withdrawal
+    are clear and specific as much as possible based on the Depositor Protection Act. Also, whether a
+    control environment is in place to disseminate and make the contents of the rules known to customers
+    sufficiently.
+     (i) Whether the bank conducts a necessary review of the policies and standards relating to response
+          to customers and cooperation with investigative authorities after a crime occurs in consideration
+          of the bank’s own stance toward anti-crime measures, etc.
+     (ii) Whether the bank has determined uniform rules and procedures of compensation for loss or
+          damage caused by unauthorized withdrawals, if any, in the terms and conditions of transaction
+          or the customer policy, etc.
+     (iii) Whether the bank has a control environment in place to respond to customers properly and
+          promptly by establishing a dedicated customer contact center, etc. In asking victimized
+          customers for cooperation in providing information, whether the bank is mindful of their age,
+          physical and mental conditions, etc.
+              Whether the bank properly preserves the records of unauthorized withdrawals and is prepared
+          to cooperate sincerely with customers and investigative authorities when asked by them to offer
+          the recorded materials, etc.
+
+
+(4) Actions when operation and maintenance of the ATM system are outsourced
+      When the bank has outsourced its ATM system, whether the bank reviews the outsourcing risk and
+    takes necessary security measures.
+
+
+III-3-7-2-3         Supervisory Method and Actions
+
+
+                                                   280
+(1) When crime occurred
+        Promptly after recognizing an illegal withdrawal using a counterfeit or stolen cash card, the bank
+    shall be required to make a report to the authorities in the form of a “crime report.”
+
+
+(2) When a problem is found
+        If inspection results, crime reports, etc. reveal doubt over the bank’s control environment relating
+    to the security and anti-crime measures for its ATM system, supervisors shall require the bank to
+    submit additional reports under Article 24 of the Banking Act, as needed. If a problem is still found
+    from the viewpoint of customer protection, such as that the bank fails to conduct a necessary review
+    of anti-crime measures and take action after the crime occurs, or that many crimes are reported,
+    supervisors shall take such action as issuing a business improvement order under Article 26 of the
+    Banking Act.
+Note:       When the bank has outsourced its ATM system, supervisors will take actions under III-3-3-4-3,
+            as needed.
+(Reference)
+   ・ “Final Report of Study Group on Counterfeit Cash Card Problems” (June 24, 2005 by Study Group
+        on Counterfeit Cash Card Problems)
+   ・ “Agreement on Protection of Depositors concerning Counterfeit/Stolen Cash Cards” (October 6,
+        2005 by the Japanese Bankers Association)
+   ・ “Crime Prevention Standards for Financial Institutions” (National Police Agency)
+   ・ “The JBA’s IC cash card standard speciﬁcation” (the Japanese Bankers Association)
+
+
+III-3-7-3        Use of Interbank System/Network
+
+
+III-3-7-3-1              Purpose and Significance
+
+
+  Currently, the interbank (including financial institutions) system/network serves as an essential
+infrastructure for banks to settle financial transactions and to maintain CD/ATM online alliance with other
+banks and financial institutions. If a failure occurred in the system/network, the impact would spread over
+the whole settlement system and all services provided to customers. That is why it is critically important to
+enhance the risk management environment relating to this system/network.
+
+
+III-3-7-3-2              Major Supervisory Viewpoints
+
+
+(1) When using services of the interbank system/network including the integrated ATM switching service
+     or the Zengin Data Telecommunication System, etc., whether the bank has implemented proper risk
+     management in the same manner as when it outsources its own IT systems.
+
+
+                                                        281
+(2) In particular, when the IT system of such external service is renewed or changed, whether the bank
+     fully evaluates and confirms that proper actions are in place on the system both at the administrator
+     of such external service and at the bank in order not to cause any inconvenience or impact on its
+     customers and operations. And, when needed, whether it requires the administrator of the external
+     service to take proper actions.
+
+
+(3) In particular, when the bank plays a leading role in operation, renewal, or change of such external
+     service, whether it has developed proper and sufficient control environments for risk management and
+     project management together with the administrator of such external service in order not to adversely
+     affect customer services or the settlement system in Japan.
+
+
+III-3-7-3-3            Supervisory Methods and Measures
+
+
+  If inspection results, etc. reveal doubt over a bank’s sound and proper business operation relating to the
+system/network, the bank shall be required to submit detailed reports under Article 24 of the Banking Act,
+as needed. If a serious problem is found, supervisors shall issue a business improvement order or implement
+any other measures under Article 26 of the Banking Act. Also when the bank plays a leading role in
+operation, renewal, or change of such external service, if a doubt arises relating to the risk management
+environment for such system network, the same actions shall be taken.
+Note:       Among administrators of the external system/network, with respect to those who fall under the
+            scope of outsourcing contractors, if there is concern about their business operation, supervisors
+            shall take actions under III-3-3-4-3.
+
+

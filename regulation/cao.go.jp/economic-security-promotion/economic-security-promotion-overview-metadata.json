@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/cao.go.jp/economic-security-promotion",
+  "name": "Act on the Promotion of Ensuring National Security through Integrated Implementation of Economic Measures",
+  "acronym": "Economic Security Promotion Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Cabinet Office, Japan",
+  "type": "Regulation",
+  "description": "Act No. 43 of Reiwa 4 (2022). Establishes 4 pillars: supply-chain resilience for specified critical products, critical-infrastructure operator designation and screening, support for critical/advanced technology development, and a non-publication system for sensitive patent applications.",
+  "relationToCloudSecurity": "See registry/regulation/cao.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Law-Excluded-From-Copyright",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "notes": "Primary legislation -- excluded from copyright under Japan's Copyright Act Article 13, same basis as APPI and the My Number Act."
+  },
+  "links": {
+    "source": "https://www.cao.go.jp/keizai_anzen_hosho/suishinhou/infra/doc/infra_gaiyou_eng.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Only the Cabinet Office's English OVERVIEW document was acquired (not the full statutory text -- japaneselawtranslation.go.jp's full translation remains blocked, HTTP 403, even via a real Playwright browser session, confirmed persistent across this session)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Overview only. Full article text blocked at the only known source."
+  },
+  "notes": ""
+}

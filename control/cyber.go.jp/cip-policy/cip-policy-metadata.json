@@ -1,0 +1,55 @@
+{
+  "secid": "secid:control/cyber.go.jp/cip-policy",
+  "name": "Cybersecurity Policy for Critical Infrastructure Protection",
+  "acronym": "CIP Policy",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Cybersecurity Strategic Headquarters, Japan",
+  "type": "Standard",
+  "description": "Issued June 17, 2022, revised March 8, 2024. Designates Japan's critical infrastructure sectors and sets the policy framework under which sector regulators (FSA, MLIT, MHLW, etc.) issue their own sector-specific security guidelines.",
+  "relationToCloudSecurity": "See registry/control/cyber.go.jp.json in the SecID repo (CloudSecurityAlliance/SecID) for cloud/AI security relevance notes on this source.",
+  "relationToAISecurity": "See the paired SecID registry entry.",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "notes": "Issued directly by a national government ministry/agency as an official notification/circular -- plausibly excluded from copyright under Japan's Copyright Act Article 13(2) (\"notifications, instructions, circulars, and other documents similar thereto issued by national or local government organs\"), but this is a less clear-cut case than primary legislation (Art. 13(1)) and has not been legally verified. Treat as moderate-confidence permitted, not certain."
+  },
+  "links": {
+    "source": "https://www.cyber.go.jp/eng/pdf/cip_policy_2024_eng.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "curl/Playwright + pdftotext -layout (+ qpdf --decrypt where encrypted)",
+    "tool_version": "unpinned",
+    "extraction_host": "local",
+    "flags": [
+      "-layout"
+    ],
+    "force_ocr": false,
+    "notes": "Full English text acquired. Same GPKI-signed/encrypted PDF situation as the Common Standards document -- decrypted with qpdf, then pdftotext -layout succeeded."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Initial acquisition",
+      "tool": "see current_extraction"
+    }
+  ],
+  "scope": {
+    "notes": "Full text acquired."
+  },
+  "notes": ""
+}
