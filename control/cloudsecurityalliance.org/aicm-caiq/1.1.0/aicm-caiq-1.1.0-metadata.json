@@ -1,0 +1,65 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0",
+  "name": "AI Consensus Assessment Initiative Questionnaire",
+  "acronym": "AI-CAIQ",
+  "alternate_names": [
+    "AICM-CAIQ",
+    "AI CAIQ v1.1"
+  ],
+  "version": "1.1.0",
+  "publication_id": "AICM-CAIQ-1.1.0",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "AI-specific vendor self-assessment questionnaire derived from AICM v1.1.0. 320 yes/no questions across all 247 AICM controls, every control carrying at least one question. AI-CAIQ is to AICM as CAIQ is to CCM — the vendor-attestation form of the controls framework. Used for CSA STAR for AI Level 1 submissions.",
+  "relationToCloudSecurity": "AI service vendors use AI-CAIQ to self-attest controls coverage for STAR Registry entries.",
+  "relationToAISecurity": "Standard mechanism for AI vendors to demonstrate AICM coverage. Companion to AICM v1.1.0.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Copyright notice in the v1.1.0 workbook reads © Copyright 2026 Cloud Security Alliance."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-22",
+    "active": true,
+    "supersedes": "AI-CAIQ 1.0.2",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Ships in the AICM v1.1 ZIP bundle. The questionnaire jumped 1.0.2 -> 1.1.0 to version in lockstep with AICM; there is no AI-CAIQ 1.0.3 or 1.1 preview release. Change Log sheet dates the questionnaire revision 2026/03/17 and the bundle release 2026/06/23; CSA's artifact page states 06/22/2026."
+  },
+  "current_extraction": {
+    "s3_timestamp": null,
+    "tool": "control/cloudsecurityalliance.org/aicm/1.1.0/scripts/parse_caiq.py",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from the standalone AI_CAIQv1.1.0-star_security_questionnaire workbook, then enriched with the full AICM v1.1.0 control record for each question. Verified against the AI-CAIQ tab embedded in the AICM workbook: identical 320 question IDs, identical question text, identical parent-control assignment."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": null,
+      "status": "current",
+      "reason": "Initial extraction of AI-CAIQ 1.1.0",
+      "tool": "parse_caiq.py"
+    }
+  ],
+  "scope": {
+    "questions": 320,
+    "controls_covered": 247,
+    "domains": 18
+  },
+  "notes": "Question IDs derive from AICM control IDs, so the AICM v1.1.0 control renumbering moved question IDs too — AI-CAIQ 1.0.2 question IDs are NOT interchangeable with 1.1.0. See ../../aicm/VERSIONING.md. Answer columns (Service Provider AI-CAIQ Answer, SSRM Control Ownership, implementation description, customer responsibilities) ship blank; they are the vendor response template and are retained as empty fields in the extraction.",
+  "desired_end_state": {
+    "state": "fully-extracted",
+    "reason": "complete",
+    "notes": "320 questions with full parent-control enrichment. Reproducible via ../../aicm/1.1.0/scripts/parse_caiq.py."
+  }
+}

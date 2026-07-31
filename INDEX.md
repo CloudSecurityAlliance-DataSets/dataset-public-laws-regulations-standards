@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 535
+**Total documents indexed:** 536
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 66 | 32 | 34 | — | — | **132** |
+| `control/` | 68 | 32 | 33 | — | — | **133** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 119 | 137 | 4 | 6 | **311** |
-| **Total** | **168** | **176** | **181** | **4** | **6** | **535** |
+| **Total** | **170** | **176** | **180** | **4** | **6** | **536** |
 
 ## control/
 
@@ -48,8 +48,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
-| `control/cloudsecurityalliance.org/aicm/1.1.0/` | metadata-only | 1 | `M······` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |

@@ -37,14 +37,21 @@
   },
   "current_extraction": {
     "s3_timestamp": null,
-    "tool": null,
-    "tool_version": null,
-    "extraction_host": null,
+    "tool": "scripts/parse_aicm.py",
+    "tool_version": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "NOT YET EXTRACTED. Source bundle acquired and validated; extraction blocked pending the NIST AI 600-1 mapping question below."
+    "notes": "Parsed from AICMv1.1.0-generated_at_2026_06_18.xlsx. 247 controls, each with implementation guidelines, auditing guidelines, three-framework mappings, and its AI-CAIQ questions. Full LLM Taxonomy captured including the definition sections the 1.0.3 parser dropped."
   },
-  "extraction_history": [],
+  "extraction_history": [
+    {
+      "s3_timestamp": null,
+      "status": "current",
+      "reason": "Initial extraction of AICM 1.1.0",
+      "tool": "parse_aicm.py"
+    }
+  ],
   "scope": {
     "controls": 247,
     "domains": 18,
@@ -66,22 +73,47 @@
     ],
     "notes": "AI-CAIQ moved 1.0.2 -> 1.1.0 in step with AICM. The standalone questionnaire belongs under control/cloudsecurityalliance.org/aicm-caiq/1.1.0/, not here."
   },
-  "notes": "CONTROL IDs WERE RENUMBERED IN THIS RELEASE. 55 of the 242 control IDs shared with v1.0.3 now designate a different control; only one ID (IAM-19) disappeared outright, so an ID set-difference does NOT detect the change. Never migrate a v1.0.3 reference to v1.1.0 by string match — use ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv. Full analysis and standing policy in ../VERSIONING.md.",
-  "open_questions": [
+  "notes": "CONTROL IDs WERE RENUMBERED IN THIS RELEASE. 55 of the 242 control IDs shared with v1.0.3 now designate a different control; only one ID (IAM-19) disappeared outright, so an ID set-difference does NOT detect the change. Never migrate a v1.0.3 reference to v1.1.0 by string match — use ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv. Full analysis and standing policy in ../VERSIONING.md.\n\nSCHEMA CHANGE vs the 1.0.3 extraction: the ownership key 'gen_ai_ops_processing_infrastructure' is now 'cloud_ai_processing_infrastructure', following the source column rename from 'Gen AI Ops/Processing Infrastructure' to 'Cloud/AI Processing Infrastructure (PI)'. The 1.1.0 JSON also adds a top-level 'definitions' object (Control Type, Control Ownership, Threat Category, Other Definitions) that the 1.0.3 extraction omitted, and a 'mapping_frameworks' list naming the frameworks actually present.",
+  "known_source_issues": [
     {
-      "id": "nist-ai-600-1-mappings-missing",
-      "status": "open",
-      "summary": "The Scope Applicability (Mappings) sheet dropped from 16 columns to 13. The NIST AI 600-1:2024 mapping block, populated for all 243 controls in v1.0.3, is absent — while the same workbook's Change Log claims mapping rows were added 'across all four external frameworks'. Only BSI AI C4, EU AI Act, and ISO/IEC 42001:2023 are present. Looks like an upstream packaging defect. Raise with the AICM working group before publishing an extraction that silently drops a mapping set consumers currently rely on."
+      "id": "nist-ai-600-1-mappings-withdrawn",
+      "status": "accepted",
+      "summary": "The Scope Applicability (Mappings) sheet dropped from 16 columns to 13. The NIST AI 600-1:2024 mapping block, populated for all 243 controls in v1.0.3, is absent — while the same workbook's Change Log claims mapping rows were added 'across all four external frameworks'. Only BSI AI C4, EU AI Act, and ISO/IEC 42001:2023 are present. Accepted as-shipped: the extraction carries the three frameworks actually present. Consumers needing NIST AI 600-1 mappings must use the 1.0.3 extraction, remembering that its control IDs are not interchangeable with 1.1.0."
     },
     {
-      "id": "parser-updates-required",
-      "status": "open",
-      "summary": "1.0.3/scripts/parse_aicm.py raises KeyError: 13 on the mappings sheet (hardcoded NIST columns 13-15). 1.0.3/scripts/parse_caiq.py fails on a hardcoded sheet name 'AI-CAIQv1.0.2', renamed to 'AI-CAIQv1.1.0'. All other sheets parse cleanly against v1.1.0 (247 controls, 320 CAIQ questions, row geometry unchanged). Also pre-existing: parse_llm_taxonomy only reads the lifecycle section of the LLM Taxonomy sheet and silently drops the Control Type, Control Ownership, Threat Category, and new Other Definitions sections."
+      "id": "ownership-vocabulary-inconsistency",
+      "status": "as-shipped",
+      "summary": "GRC-01 through GRC-08 record the Cloud/AI Processing Infrastructure owner as 'Cloud Service Provider (CSP)' where the other 239 controls use the full form 'Owned by the Cloud Service Provider (CSP)'. Eight cells, one domain. Values are preserved verbatim; no normalization applied."
+    },
+    {
+      "id": "blank-ownership-cells",
+      "status": "as-shipped",
+      "summary": "DSP-21, DSP-23, and DSP-24 have blank Typical Control Applicability and Ownership cells (5 cells total: DSP-21 processing-infrastructure; DSP-23 and DSP-24 processing-infrastructure and orchestrated-services). Emitted as null."
+    },
+    {
+      "id": "dsp-08-missing-bsi-mapping",
+      "status": "as-shipped",
+      "summary": "DSP-08 is the only control with no BSI AI C4 control mapping. Same gap existed in v1.0.3 (242 of 243 populated). EU AI Act and ISO/IEC 42001:2023 mappings are complete for all 247 controls."
+    },
+    {
+      "id": "caiq-unlabelled-spacer-columns",
+      "status": "as-shipped",
+      "summary": "Columns 6 and 7 of the standalone AI-CAIQ questionnaire sheet carry no header and no data in any row. Skipped by the parser; noted because a positional parser that assumes contiguous columns would misalign."
+    },
+    {
+      "id": "bundle-packaging-artifacts",
+      "status": "as-shipped",
+      "summary": "The distributed ZIP was assembled on macOS from a Downloads folder: both spreadsheets carry a '(1)' duplicate-download suffix in their filenames inside the archive, and the archive includes __MACOSX/._* AppleDouble resource forks. Cosmetic. Local copies are renamed to drop the '(1)' before archival to S3."
+    },
+    {
+      "id": "inconsistent-release-dating",
+      "status": "as-shipped",
+      "summary": "Four different dates describe this release: filenames say generated_at 2026_06_18, file mtimes are 2026-06-22, the Change Log sheet says 2026/06/23, and CSA's artifact page says 06/22/2026. Metadata uses the artifact-page date (2026-06-22) as published."
     }
   ],
   "desired_end_state": {
     "state": "fully-extracted",
-    "reason": "blocked-pending-upstream-clarification",
-    "notes": "Target: AICM controls JSON plus derived CSV, matching the 1.0.3 shape. Blocked on nist-ai-600-1-mappings-missing and parser-updates-required above."
+    "reason": "complete",
+    "notes": "247 controls with guidelines, mappings, and embedded AI-CAIQ questions. Reproducible via scripts/parse_aicm.py. The companion questionnaire is extracted separately to ../../aicm-caiq/1.1.0/ via scripts/parse_caiq.py."
   }
 }

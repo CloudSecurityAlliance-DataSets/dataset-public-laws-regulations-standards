@@ -114,7 +114,7 @@ specifications were rewritten.**
 Treat the CSA change log as a summary of intent, not as a delta. Diff the
 content.
 
-### Separately: NIST AI 600-1 mappings vanished
+### Separately: NIST AI 600-1 mappings were withdrawn
 
 The `Scope Applicability (Mappings)` sheet dropped from 16 columns to 13. The
 `NIST AI 600-1:2024` mapping block — populated for all 243 controls in v1.0.3 —
@@ -122,9 +122,19 @@ is absent from v1.1.0, while the same workbook's change log claims mapping rows
 were added "across all four external frameworks." Only three frameworks are
 present (BSI AI C4, EU AI Act, ISO/IEC 42001:2023).
 
-This looks like an upstream packaging defect rather than an intentional
-withdrawal. It is **unresolved** and is the reason the v1.1.0 extraction is not
-yet committed. See [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
+**Accepted as shipped.** The v1.1.0 extraction carries the three frameworks that
+are actually there. Anyone who needs NIST AI 600-1 mappings has to fall back to
+the 1.0.3 extraction — and its control IDs do not carry over, which is the whole
+subject of this page.
+
+The v1.1.0 parser discovers the mapping frameworks from the sheet's group header
+row and refuses to run if they differ from what it expects, so the next
+add-or-drop is a loud failure rather than a silently short record. Other
+as-shipped quirks (ownership vocabulary drift in `GRC-01`–`GRC-08`, blank
+ownership cells in `DSP-21`/`DSP-23`/`DSP-24`, `DSP-08` missing its BSI mapping,
+unlabelled spacer columns in the questionnaire) are catalogued under
+`known_source_issues` in
+[`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
 
 ---
 
@@ -214,7 +224,7 @@ fix is to record the version at the time the reference is written.
 |---|---|
 | [`0.0.2/`](0.0.2/) | Pre-release draft (`aicm@0.0.2`) |
 | [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls, extracted |
-| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, metadata only pending the NIST mapping question |
+| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, extracted; parsers in [`1.1.0/scripts/`](1.1.0/scripts/) |
 | [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) | Content-based crosswalk generator |
 | [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | 250 rows: every control's fate across the release |
 
