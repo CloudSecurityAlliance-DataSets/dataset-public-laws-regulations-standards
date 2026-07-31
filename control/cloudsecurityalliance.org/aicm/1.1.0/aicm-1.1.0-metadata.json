@@ -33,7 +33,7 @@
     "supersedes": "AICM 1.0.3",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "AI Controls Matrix v1.1 Released: 06/22/2026. Workbook internals are stamped 1.1.0 (cell A1 of every sheet carries {\"specification_name\":\"AI Controls Matrix\",\"specification_version\":\"1.1.0\"}) and generated_at 2026-06-18; the Change Log sheet dates the release 2026/06/23. CSA's artifact page brands it \"v1.1\". Directory uses the workbook's own 1.1.0, matching the 1.0.3 convention."
+    "notes": "AI Controls Matrix v1.1 Released: 06/22/2026, per CSA's artifact page at https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1. That is the date recorded in the `published` field above.\n\nThe source bundle carries four different dates for this release. The publisher's download page is treated as authoritative because it is the citable public statement of record; the others are build and packaging artifacts that describe stages of production rather than the release itself.\n\nDates considered and not used:\n  - 2026-06-18 — the `generated_at` token in both spreadsheet filenames. This is when the workbooks were generated from CSA's internal tooling, four days before publication. Retained as `generated_at` in the extraction JSON for provenance, but it is not the release date.\n  - 2026-06-22 — filesystem mtime on both spreadsheets inside the ZIP. Coincides with the artifact-page date, but mtimes are not a reliable published-on signal and are not cited independently.\n  - 2026-06-23 — the date on the AICM v1.1.0 row of the workbook's own Change Log sheet, one day after the artifact page. Likely when the change log itself was finalized.\n  - 2026-03-17 — the AI-CAIQ v1.1.0 row of the questionnaire's Change Log, three months earlier. This dates the questionnaire revision, not the bundle release.\n\nVersion string: the workbook stamps itself 1.1.0 in cell A1 of every sheet ({\"specification_name\":\"AI Controls Matrix\",\"specification_version\":\"1.1.0\"}); CSA's artifact page brands it \"v1.1\". The directory uses the workbook's own 1.1.0, matching the three-part 1.0.3 convention."
   },
   "current_extraction": {
     "s3_timestamp": null,
@@ -82,33 +82,18 @@
     },
     {
       "id": "ownership-vocabulary-inconsistency",
-      "status": "as-shipped",
-      "summary": "GRC-01 through GRC-08 record the Cloud/AI Processing Infrastructure owner as 'Cloud Service Provider (CSP)' where the other 239 controls use the full form 'Owned by the Cloud Service Provider (CSP)'. Eight cells, one domain. Values are preserved verbatim; no normalization applied."
+      "status": "normalized",
+      "summary": "GRC-01 through GRC-08 record the Cloud/AI Processing Infrastructure owner as 'Cloud Service Provider (CSP)' where the other 239 controls use the full form 'Owned by the Cloud Service Provider (CSP)'. Same meaning, inconsistent phrasing in the source. Normalized to the full form in the extraction so the ownership vocabulary is a closed set of 10 values. All 8 substitutions are itemized by control ID in source_data_notes.normalizations_applied in aicm-1.1.0.json, and the substitution table lives in OWNERSHIP_NORMALIZATIONS in scripts/parse_aicm.py."
     },
     {
       "id": "blank-ownership-cells",
-      "status": "as-shipped",
-      "summary": "DSP-21, DSP-23, and DSP-24 have blank Typical Control Applicability and Ownership cells (5 cells total: DSP-21 processing-infrastructure; DSP-23 and DSP-24 processing-infrastructure and orchestrated-services). Emitted as null."
+      "status": "absent-at-source",
+      "summary": "Five Typical Control Applicability and Ownership cells are empty in the publisher's workbook: DSP-21 (Cloud/AI Processing Infrastructure), DSP-23 and DSP-24 (Cloud/AI Processing Infrastructure and Orchestrated Services). THIS IS NOT A DATA CONVERSION ERROR — CSA's spreadsheet does not state an owner for these cells. They are emitted as null to preserve the distinction between 'the publisher did not state this' and 'the extraction lost it'. Itemized cell-by-cell in source_data_notes.gaps_in_source in aicm-1.1.0.json, recomputed on every parse run so the record cannot drift from the data."
     },
     {
       "id": "dsp-08-missing-bsi-mapping",
-      "status": "as-shipped",
-      "summary": "DSP-08 is the only control with no BSI AI C4 control mapping. Same gap existed in v1.0.3 (242 of 243 populated). EU AI Act and ISO/IEC 42001:2023 mappings are complete for all 247 controls."
-    },
-    {
-      "id": "caiq-unlabelled-spacer-columns",
-      "status": "as-shipped",
-      "summary": "Columns 6 and 7 of the standalone AI-CAIQ questionnaire sheet carry no header and no data in any row. Skipped by the parser; noted because a positional parser that assumes contiguous columns would misalign."
-    },
-    {
-      "id": "bundle-packaging-artifacts",
-      "status": "as-shipped",
-      "summary": "The distributed ZIP was assembled on macOS from a Downloads folder: both spreadsheets carry a '(1)' duplicate-download suffix in their filenames inside the archive, and the archive includes __MACOSX/._* AppleDouble resource forks. Cosmetic. Local copies are renamed to drop the '(1)' before archival to S3."
-    },
-    {
-      "id": "inconsistent-release-dating",
-      "status": "as-shipped",
-      "summary": "Four different dates describe this release: filenames say generated_at 2026_06_18, file mtimes are 2026-06-22, the Change Log sheet says 2026/06/23, and CSA's artifact page says 06/22/2026. Metadata uses the artifact-page date (2026-06-22) as published."
+      "status": "absent-at-source",
+      "summary": "DSP-08 is the only control with no BSI AI C4 control mapping. THIS IS NOT A DATA CONVERSION ERROR — the mapping cell is empty in CSA's workbook. The same gap existed in v1.0.3 (242 of 243 populated), so it is long-standing rather than introduced by this release. EU AI Act and ISO/IEC 42001:2023 mappings are complete for all 247 controls. Recorded in source_data_notes.gaps_in_source in aicm-1.1.0.json."
     }
   ],
   "desired_end_state": {

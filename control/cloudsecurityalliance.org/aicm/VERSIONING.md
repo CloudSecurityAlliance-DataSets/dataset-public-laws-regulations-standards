@@ -129,12 +129,20 @@ subject of this page.
 
 The v1.1.0 parser discovers the mapping frameworks from the sheet's group header
 row and refuses to run if they differ from what it expects, so the next
-add-or-drop is a loud failure rather than a silently short record. Other
-as-shipped quirks (ownership vocabulary drift in `GRC-01`–`GRC-08`, blank
-ownership cells in `DSP-21`/`DSP-23`/`DSP-24`, `DSP-08` missing its BSI mapping,
-unlabelled spacer columns in the questionnaire) are catalogued under
+add-or-drop is a loud failure rather than a silently short record.
+
+Three smaller source quirks are handled explicitly and catalogued under
 `known_source_issues` in
-[`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
+[`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json):
+
+| Quirk | Handling |
+|---|---|
+| `GRC-01`–`GRC-08` say `Cloud Service Provider (CSP)` where 239 others say `Owned by the Cloud Service Provider (CSP)` | **Normalized** to the full form. All 8 substitutions itemized in `source_data_notes.normalizations_applied`. |
+| 5 ownership cells empty (`DSP-21`, `DSP-23`, `DSP-24`) | **Absent at source, not a conversion error.** Emitted as `null` and itemized in `source_data_notes.gaps_in_source`. |
+| `DSP-08` has no BSI AI C4 mapping | **Absent at source, not a conversion error.** Same gap in v1.0.3. Recorded in `gaps_in_source`. |
+
+Both `source_data_notes` blocks are recomputed from the parsed data on every run,
+so the record cannot drift from what was actually extracted.
 
 ---
 
@@ -223,8 +231,8 @@ fix is to record the version at the time the reference is written.
 | Path | What |
 |---|---|
 | [`0.0.2/`](0.0.2/) | Pre-release draft (`aicm@0.0.2`) |
-| [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls, extracted |
-| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, extracted; parsers in [`1.1.0/scripts/`](1.1.0/scripts/) |
+| [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls. Last release carrying NIST AI 600-1 mappings. [README](1.0.3/README.md) |
+| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, current. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
 | [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) | Content-based crosswalk generator |
 | [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | 250 rows: every control's fate across the release |
 

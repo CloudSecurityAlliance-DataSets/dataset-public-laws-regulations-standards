@@ -46,6 +46,14 @@ EXPECTED_FRAMEWORKS = ["BSI AI C4", "EU AI Act", "ISO/IEC 42001:2023"]
 # Each framework occupies three consecutive columns under its merged header.
 FRAMEWORK_COLUMN_SPAN = 3
 
+# GRC-01 through GRC-08 name the CSP owner without the "Owned by the" prefix that
+# the other 239 controls use. Same meaning, inconsistent phrasing in the source.
+# Normalized so the ownership vocabulary is a closed set; every substitution is
+# recorded in source_data_notes.normalizations_applied.
+OWNERSHIP_NORMALIZATIONS = {
+    "Cloud Service Provider (CSP)": "Owned by the Cloud Service Provider (CSP)",
+}
+
 # Sheets whose first three rows are: version stamp, group headers, column headers.
 GROUPED_HEADER_SKIP = 2
 # Sheets whose first two rows are: version stamp, column headers.
@@ -77,6 +85,15 @@ def parse_bool_or_text(val):
     return val
 
 
+def normalize_ownership(value, control_id, field, log):
+    """Apply OWNERSHIP_NORMALIZATIONS, recording every substitution made."""
+    replacement = OWNERSHIP_NORMALIZATIONS.get(value)
+    if replacement is None:
+        return value
+    log.append({"control_id": control_id, "field": field, "from": value, "to": replacement})
+    return replacement
+
+
 def slugify(name):
     """'ISO/IEC 42001:2023' -> 'iso_iec_42001_2023'"""
     return re.sub(r"_+", "_", re.sub(r"[^a-z0-9]+", "_", name.lower())).strip("_")
@@ -98,10 +115,16 @@ def read_specification_version(xlsx):
         return None
 
 
-def parse_controls(xlsx):
+def parse_controls(xlsx, normalization_log):
     """Parse the main AICM sheet. Rows carrying a domain but no Control ID are separators."""
     controls = []
     current_domain = None
+    ownership_columns = {
+        "cloud_ai_processing_infrastructure": 5,
+        "model": 6,
+        "orchestrated_services": 7,
+        "application": 8,
+    }
 
     for _, row in read_sheet(xlsx, "AICM").iterrows():
         control_id = clean(row[2])
@@ -112,18 +135,18 @@ def parse_controls(xlsx):
         if control_id is None:
             continue
 
+        ownership = {
+            field: normalize_ownership(clean(row[column]), control_id, field, normalization_log)
+            for field, column in ownership_columns.items()
+        }
+
         controls.append({
             "control_domain": current_domain,
             "control_title": clean(row[1]),
             "control_id": control_id,
             "control_specification": clean(row[3]),
             "control_type": clean(row[4]),
-            "typical_control_applicability_and_ownership": {
-                "cloud_ai_processing_infrastructure": clean(row[5]),
-                "model": clean(row[6]),
-                "orchestrated_services": clean(row[7]),
-                "application": clean(row[8]),
-            },
+            "typical_control_applicability_and_ownership": ownership,
             "architectural_relevance_ai_stack_components": {
                 "physical": parse_bool_or_text(row[9]),
                 "network": parse_bool_or_text(row[10]),
@@ -317,6 +340,55 @@ def parse_llm_taxonomy(xlsx):
     return lifecycle, definitions
 
 
+def find_source_gaps(controls):
+    """Locate cells the publisher left empty.
+
+    These are absences in CSA's workbook, not extraction failures. Recording them
+    explicitly — rather than letting a null read as a parser bug — means a
+    consumer can tell "the publisher did not state this" from "we lost it".
+    Computed from the parsed data on every run, so the record cannot go stale.
+    """
+    gaps = []
+
+    ownership = [
+        {"control_id": c["control_id"], "field": field}
+        for c in controls
+        for field, value in c["typical_control_applicability_and_ownership"].items()
+        if value is None
+    ]
+    if ownership:
+        gaps.append({
+            "field": "typical_control_applicability_and_ownership",
+            "affected_cells": ownership,
+            "control_ids": sorted({g["control_id"] for g in ownership}),
+            "note": (
+                "These ownership cells are empty in the publisher's workbook. "
+                "The values are absent at source, not lost in conversion; they are "
+                "emitted as null to preserve that distinction."
+            ),
+        })
+
+    for framework in EXPECTED_FRAMEWORKS:
+        key = slugify(framework)
+        missing = sorted(
+            c["control_id"] for c in controls
+            if c.get("scope_applicability_mappings")
+            and not c["scope_applicability_mappings"][key]["control_mapping"]
+        )
+        if missing:
+            gaps.append({
+                "field": f"scope_applicability_mappings.{key}.control_mapping",
+                "control_ids": missing,
+                "note": (
+                    f"No {framework} mapping is stated for these controls in the "
+                    "publisher's workbook. The mapping is absent at source, not "
+                    "lost in conversion."
+                ),
+            })
+
+    return gaps
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--input", required=True, help="AICM v1.1.0 .xlsx")
@@ -324,7 +396,8 @@ def main():
     args = ap.parse_args()
 
     xlsx = args.input
-    controls = parse_controls(xlsx)
+    normalizations = []
+    controls = parse_controls(xlsx, normalizations)
     implementation = parse_implementation_guidelines(xlsx)
     auditing = parse_auditing_guidelines(xlsx)
     mappings = parse_scope_applicability_mappings(xlsx)
@@ -348,12 +421,34 @@ def main():
         if ids:
             print(f"warning: {len(ids)} controls missing {field}: {ids[:8]}", file=sys.stderr)
 
+    grouped_normalizations = []
+    for original, replacement in OWNERSHIP_NORMALIZATIONS.items():
+        applied = [n for n in normalizations if n["from"] == original]
+        if applied:
+            grouped_normalizations.append({
+                "field": "typical_control_applicability_and_ownership",
+                "from": original,
+                "to": replacement,
+                "control_ids": sorted({n["control_id"] for n in applied}),
+                "cells_changed": len(applied),
+                "reason": (
+                    "The publisher's workbook states this owner without the "
+                    "'Owned by the' prefix used by every other control. Normalized "
+                    "so the ownership vocabulary is a closed set. Meaning is unchanged."
+                ),
+            })
+
     output = {
         "specification_name": "AI Controls Matrix",
         "specification_version": read_specification_version(xlsx),
+        "published": "2026-06-22",
         "generated_at": "2026-06-18",
         "source_file": os.path.basename(xlsx),
         "mapping_frameworks": EXPECTED_FRAMEWORKS,
+        "source_data_notes": {
+            "normalizations_applied": grouped_normalizations,
+            "gaps_in_source": find_source_gaps(controls),
+        },
         "controls": controls,
         "llm_taxonomy": lifecycle,
         "definitions": definitions,
@@ -368,6 +463,11 @@ def main():
     print(f"  AI-CAIQ questions:   {questions}")
     print(f"  lifecycle entries:   {len(lifecycle)}")
     print(f"  definition sections: {', '.join(f'{k} ({len(v)})' for k, v in definitions.items())}")
+    for entry in grouped_normalizations:
+        print(f"  normalized {entry['cells_changed']} cells: {entry['from']!r} -> {entry['to']!r} "
+              f"({', '.join(entry['control_ids'])})")
+    for gap in output["source_data_notes"]["gaps_in_source"]:
+        print(f"  source gap in {gap['field']}: {', '.join(gap['control_ids'])}")
 
 
 if __name__ == "__main__":

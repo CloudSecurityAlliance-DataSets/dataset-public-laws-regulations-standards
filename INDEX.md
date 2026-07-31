@@ -47,10 +47,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
-| `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
-| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
-| `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
-| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
+| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
