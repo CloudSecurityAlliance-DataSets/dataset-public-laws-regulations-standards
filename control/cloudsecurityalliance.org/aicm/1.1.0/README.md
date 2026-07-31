@@ -26,10 +26,28 @@
 
 | File | What |
 |---|---|
-| `aicm-1.1.0.json` | Full extraction — 247 controls with guidelines, mappings, and AI-CAIQ questions |
+| `aicm-1.1.0.json` | Full extraction — 247 controls with guidelines, mappings, and AI-CAIQ questions, plus the LLM taxonomy and definition sections |
+| `aicm-1.1.0-controls.csv` | Flat view — one row per control, 247 × 52 columns |
 | `aicm-1.1.0-metadata.json` | Document metadata, licence, and known source issues |
-| `scripts/parse_aicm.py` | Rebuilds `aicm-1.1.0.json` from the publisher's workbook |
+| `scripts/parse_aicm.py` | Rebuilds the JSON and CSV from the publisher's workbook |
 | `scripts/parse_caiq.py` | Builds the companion questionnaire extraction under [`../../aicm-caiq/1.1.0/`](../../aicm-caiq/1.1.0/) |
+
+The JSON is the complete record; the CSV flattens the nested ownership,
+relevance, mapping and guideline groups into prefixed columns for spreadsheet
+and dataframe use. Mapping columns are generated from the frameworks actually
+present, so a future add-or-drop reshapes the CSV rather than silently losing a
+column.
+
+### Companion guidance
+
+The AICM v1.1 bundle also ships three PDFs, extracted to markdown under
+`reference/`:
+
+| Document | Path |
+|---|---|
+| Introductory Guidance to AICM v1.1 | [`reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/`](../../../../reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/) |
+| Filling in the AI-CAIQ: Instructions and Recommendations | [`reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/`](../../../../reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/) |
+| STAR for AI Level 1 Submission Guide | [`reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/`](../../../../reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/) |
 
 Source spreadsheets are gitignored. Pull from
 `s3://dataset-public-laws-regulations-standards/control/cloudsecurityalliance.org/aicm/1.1.0/`.

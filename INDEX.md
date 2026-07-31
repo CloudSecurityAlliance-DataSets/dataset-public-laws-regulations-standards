@@ -16,7 +16,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 536
+**Total documents indexed:** 539
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 45 | 119 | 137 | 4 | 6 | **311** |
-| **Total** | **170** | **176** | **180** | **4** | **6** | **536** |
+| `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
+| **Total** | **170** | **179** | **180** | **4** | **6** | **539** |
 
 ## control/
 
@@ -48,9 +48,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
-| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
-| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
@@ -344,9 +344,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cloudflare.com/workers-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-ai-glossary` |
 | `reference/cloudflare.com/workers-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-glossary` |
 | `reference/cloudflare.com/workflows-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workflows-glossary` |
+| `reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/` | extracted | 7 (+4 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/ai-caiq-instructions@v1.1` |
+| `reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/` | extracted | 115 (+112 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/aicm-introductory-guidance@v1.1` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/cloud-security-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
+| `reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide@v1.1` |
 | `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |

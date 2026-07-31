@@ -28,6 +28,7 @@ Usage:
 """
 
 import argparse
+import csv
 import json
 import os
 import re
@@ -37,6 +38,7 @@ import numpy as np
 import pandas as pd
 
 DEFAULT_OUTPUT = os.path.join(os.path.dirname(__file__), "..", "aicm-1.1.0.json")
+DEFAULT_CSV = os.path.join(os.path.dirname(__file__), "..", "aicm-1.1.0-controls.csv")
 
 # Mapping frameworks expected in the Scope Applicability sheet. Discovery below
 # compares against this; a mismatch is a hard error, not a silent short record.
@@ -340,6 +342,60 @@ def parse_llm_taxonomy(xlsx):
     return lifecycle, definitions
 
 
+def write_controls_csv(controls, frameworks, path):
+    """Flatten to one row per control.
+
+    The JSON nests ownership, relevance grids, mappings and guidelines; a CSV
+    cannot, so nested keys are prefixed and flattened. Mapping columns are built
+    from the frameworks actually present rather than a fixed list, so a future
+    add-or-drop reshapes the CSV instead of silently dropping a column.
+    """
+    scalar = ["control_domain", "control_id", "control_title",
+              "control_specification", "control_type"]
+    groups = [
+        ("ownership", "typical_control_applicability_and_ownership"),
+        ("arch", "architectural_relevance_ai_stack_components"),
+        ("lifecycle", "lifecycle_relevance"),
+        ("threat", "threat_category"),
+    ]
+    guidelines = [("impl", "implementation_guidelines"), ("audit", "auditing_guidelines")]
+
+    fieldnames = list(scalar)
+    for prefix, key in groups:
+        fieldnames += [f"{prefix}_{sub}" for sub in controls[0][key]]
+    for framework in frameworks:
+        slug = slugify(framework)
+        fieldnames += [f"{slug}_control_mapping", f"{slug}_gap_level", f"{slug}_addendum"]
+    for prefix, key in guidelines:
+        fieldnames += [f"{prefix}_{sub}" for sub in controls[0][key]]
+    fieldnames += ["caiq_question_count", "caiq_question_ids"]
+
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        writer = csv.DictWriter(fh, fieldnames=fieldnames)
+        writer.writeheader()
+        for control in controls:
+            row = {field: control[field] for field in scalar}
+            for prefix, key in groups:
+                row.update({f"{prefix}_{sub}": value for sub, value in control[key].items()})
+            for framework in frameworks:
+                slug = slugify(framework)
+                mapping = (control.get("scope_applicability_mappings") or {}).get(slug) or {}
+                row.update({
+                    f"{slug}_control_mapping": mapping.get("control_mapping"),
+                    f"{slug}_gap_level": mapping.get("gap_level"),
+                    f"{slug}_addendum": mapping.get("addendum"),
+                })
+            for prefix, key in guidelines:
+                for sub, value in (control.get(key) or {}).items():
+                    row[f"{prefix}_{sub}"] = value
+            questions = control.get("caiq_questions", [])
+            row["caiq_question_count"] = len(questions)
+            row["caiq_question_ids"] = "; ".join(q["question_id"] for q in questions)
+            writer.writerow(row)
+
+    return fieldnames
+
+
 def find_source_gaps(controls):
     """Locate cells the publisher left empty.
 
@@ -393,6 +449,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--input", required=True, help="AICM v1.1.0 .xlsx")
     ap.add_argument("--output", default=DEFAULT_OUTPUT, help="Destination JSON (default: %(default)s)")
+    ap.add_argument("--csv", default=DEFAULT_CSV, help="Destination flat CSV (default: %(default)s)")
     args = ap.parse_args()
 
     xlsx = args.input
@@ -457,9 +514,12 @@ def main():
     with open(args.output, "w", encoding="utf-8") as fh:
         json.dump(output, fh, indent=2, ensure_ascii=False)
 
+    columns = write_controls_csv(controls, EXPECTED_FRAMEWORKS, args.csv)
+
     questions = sum(len(c["caiq_questions"]) for c in controls)
     domains = len({c["control_domain"] for c in controls})
     print(f"Wrote {len(controls)} controls across {domains} domains to {args.output}")
+    print(f"Wrote {len(controls)} rows x {len(columns)} columns to {args.csv}")
     print(f"  AI-CAIQ questions:   {questions}")
     print(f"  lifecycle entries:   {len(lifecycle)}")
     print(f"  definition sections: {', '.join(f'{k} ({len(v)})' for k, v in definitions.items())}")

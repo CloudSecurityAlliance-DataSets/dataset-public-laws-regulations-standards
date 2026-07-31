@@ -1,0 +1,371 @@
+{
+  "table_of_contents": [
+    {
+      "title": "STAR for AI Level 1\nSubmission Guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.0751953125,
+          112.53515625
+        ],
+        [
+          403.89666748046875,
+          112.53515625
+        ],
+        [
+          403.89666748046875,
+          201.85931396484375
+        ],
+        [
+          70.0751953125,
+          201.85931396484375
+        ]
+      ]
+    },
+    {
+      "title": "Step 1: Prepare Your Submission",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.2705078125,
+          436.21875
+        ],
+        [
+          359.2252502441406,
+          436.21875
+        ],
+        [
+          359.2252502441406,
+          458.9296569824219
+        ],
+        [
+          71.2705078125,
+          458.9296569824219
+        ]
+      ]
+    },
+    {
+      "title": "Create an Account",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          471.796875
+        ],
+        [
+          200.8125,
+          471.796875
+        ],
+        [
+          200.8125,
+          488.8125
+        ],
+        [
+          71.12109375,
+          488.8125
+        ]
+      ]
+    },
+    {
+      "title": "Gather Your Submission Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.2705078125,
+          622.23046875
+        ],
+        [
+          325.9912109375,
+          622.23046875
+        ],
+        [
+          325.9912109375,
+          639.4175109863281
+        ],
+        [
+          71.2705078125,
+          639.4175109863281
+        ]
+      ]
+    },
+    {
+      "title": "Fill Out the AI-CAIQ",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          158.8447265625
+        ],
+        [
+          213.334228515625,
+          158.8447265625
+        ],
+        [
+          213.334228515625,
+          177.0205078125
+        ],
+        [
+          71.12109375,
+          177.0205078125
+        ]
+      ]
+    },
+    {
+      "title": "Step 2: Fill Out the STAR Submission Form",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.822265625,
+          324.263671875
+        ],
+        [
+          448.1510314941406,
+          324.263671875
+        ],
+        [
+          448.1510314941406,
+          345.6796569824219
+        ],
+        [
+          70.822265625,
+          345.6796569824219
+        ]
+      ]
+    },
+    {
+      "title": "Step 3: Confirm Your Submission",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.6728515625,
+          451.6875
+        ],
+        [
+          364.0492248535156,
+          451.6875
+        ],
+        [
+          364.0492248535156,
+          474.890625
+        ],
+        [
+          70.6728515625,
+          474.890625
+        ]
+      ]
+    },
+    {
+      "title": "Step 4: Select Your Organization",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.34521484375,
+          582.01171875
+        ],
+        [
+          363.58123779296875,
+          582.01171875
+        ],
+        [
+          363.58123779296875,
+          603.6796569824219
+        ],
+        [
+          71.34521484375,
+          603.6796569824219
+        ]
+      ]
+    },
+    {
+      "title": "Step 5: Select Your Cloud Service",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.3740234375,
+          118.8193359375
+        ],
+        [
+          368.7171936035156,
+          118.8193359375
+        ],
+        [
+          368.7171936035156,
+          140.9296875
+        ],
+        [
+          70.3740234375,
+          140.9296875
+        ]
+      ]
+    },
+    {
+      "title": "Step 6: Wait for Your STAR Registry Listing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.822265625,
+          248.2734375
+        ],
+        [
+          454.0489501953125,
+          248.2734375
+        ],
+        [
+          454.0489501953125,
+          270.31640625
+        ],
+        [
+          70.822265625,
+          270.31640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          580
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/star-for-ai-level-1-submission-guide-v1.1"
+}

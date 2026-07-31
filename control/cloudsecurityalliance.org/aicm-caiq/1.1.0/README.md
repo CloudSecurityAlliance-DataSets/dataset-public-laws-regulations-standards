@@ -28,10 +28,20 @@ There is no AI-CAIQ 1.0.3.
 | File | What |
 |---|---|
 | `aicm-caiq-1.1.0.json` | 320 questions, each enriched with its full parent AICM control record |
+| `aicm-caiq-1.1.0-questions.csv` | Flat view — one row per question with its parent control's identifying fields |
 | `aicm-caiq-1.1.0-metadata.json` | Document metadata and licence |
 
 Built by [`../../aicm/1.1.0/scripts/parse_caiq.py`](../../aicm/1.1.0/scripts/parse_caiq.py),
 which requires the AICM extraction to exist first.
+
+The CSV carries the question plus its control ID, title, domain and
+specification. The full nested control record — ownership, relevance grids,
+mappings, guidelines — stays in the JSON, where it can be represented properly.
+
+Respondent instructions for completing this questionnaire are extracted at
+[`reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/`](../../../../reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/),
+and the submission procedure at
+[`reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/`](../../../../reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/).
 
 ## Verification
 

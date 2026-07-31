@@ -23,6 +23,7 @@ Usage:
 """
 
 import argparse
+import csv
 import json
 import os
 import re
@@ -36,6 +37,21 @@ DEFAULT_AICM_JSON = os.path.join(HERE, "..", "aicm-1.1.0.json")
 DEFAULT_OUTPUT = os.path.join(
     HERE, "..", "..", "..", "aicm-caiq", "1.1.0", "aicm-caiq-1.1.0.json"
 )
+DEFAULT_CSV = os.path.join(
+    HERE, "..", "..", "..", "aicm-caiq", "1.1.0", "aicm-caiq-1.1.0-questions.csv"
+)
+
+# Flat CSV columns. The nested AICM control record stays JSON-only; the CSV keeps
+# the identifying fields a reader needs to work row-by-row.
+CSV_COLUMNS = [
+    "question_id",
+    "question",
+    "aicm_control_id",
+    "aicm_control_title",
+    "aicm_domain_title",
+    "aicm_control_type",
+    "aicm_control_specification",
+]
 
 # Column positions in the questionnaire sheet. Columns 6 and 7 are unlabelled and
 # empty in v1.1.0 — left out deliberately rather than forgotten.
@@ -160,6 +176,7 @@ def main():
     ap.add_argument("--aicm-json", default=DEFAULT_AICM_JSON,
                     help="AICM extraction produced by parse_aicm.py (default: %(default)s)")
     ap.add_argument("--output", default=DEFAULT_OUTPUT, help="Destination JSON (default: %(default)s)")
+    ap.add_argument("--csv", default=DEFAULT_CSV, help="Destination flat CSV (default: %(default)s)")
     args = ap.parse_args()
 
     if not os.path.exists(args.aicm_json):
@@ -185,8 +202,24 @@ def main():
     with open(args.output, "w", encoding="utf-8") as fh:
         json.dump(output, fh, indent=2, ensure_ascii=False)
 
+    with open(args.csv, "w", encoding="utf-8", newline="") as fh:
+        writer = csv.DictWriter(fh, fieldnames=CSV_COLUMNS)
+        writer.writeheader()
+        for question in questions:
+            control = question.get("aicm_control") or {}
+            writer.writerow({
+                "question_id": question["question_id"],
+                "question": question["question"],
+                "aicm_control_id": question["aicm_control_id"],
+                "aicm_control_title": question["aicm_control_title"],
+                "aicm_domain_title": question["aicm_domain_title"],
+                "aicm_control_type": control.get("control_type"),
+                "aicm_control_specification": question["aicm_control_specification"],
+            })
+
     controls = len({q["aicm_control_id"] for q in questions})
     print(f"Wrote {len(questions)} questions across {controls} controls to {args.output}")
+    print(f"Wrote {len(questions)} rows x {len(CSV_COLUMNS)} columns to {args.csv}")
 
 
 if __name__ == "__main__":
