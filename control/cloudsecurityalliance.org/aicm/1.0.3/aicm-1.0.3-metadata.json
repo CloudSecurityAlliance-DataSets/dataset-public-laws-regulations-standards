@@ -28,9 +28,9 @@
     "published": "2024",
     "active": true,
     "supersedes": "AICM 1.0.0\u20131.0.2",
-    "supersededBy": null,
+    "supersededBy": "AICM 1.1.0 (released 2026-06-22)",
     "retiredFromActiveUse": null,
-    "notes": "Current AICM."
+    "notes": "Superseded by AICM 1.1.0. Still the right anchor for any assessment authored against 1.0.3 \u2014 control IDs were renumbered in 1.1.0 and are not interchangeable. See ../VERSIONING.md."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -59,10 +59,10 @@
       "NIST AI 600-1"
     ]
   },
-  "notes": "Use this version for current AI control assessments.",
+  "notes": "Control IDs in this version are NOT interchangeable with AICM 1.1.0 — 55 of the 242 shared IDs designate a different control there. Migrate references through ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv, never by string match. See ../VERSIONING.md.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "pending-acquisition",
-    "notes": "Latest AICM version. AICM 1.0.0 is already structured under aicm/1.0.0. Pending decision on whether to also structure 1.0.3 here or whether 1.0.0 is the right anchor version for public-dataset consumers."
+    "state": "fully-extracted",
+    "reason": "complete",
+    "notes": "Controls JSON extracted with all 243 controls, cross-framework mappings, implementation/auditing guidelines, and embedded AI-CAIQ questions. Superseded by 1.1.0 but retained: assessments authored against 1.0.3 resolve here."
   }
 }
