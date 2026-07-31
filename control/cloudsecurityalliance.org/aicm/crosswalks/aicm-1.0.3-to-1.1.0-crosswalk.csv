@@ -1,0 +1,256 @@
+status,old_id,new_id,old_title,new_title,change,spec_similarity,match_pass,review_needed
+carried,A&A-01,A&A-01,Audit and Assurance Policy and Procedures,Audit and Assurance Policy and Procedures,spec-cosmetic,0.998,same-id+title,no
+carried,A&A-02,A&A-02,Independent Assessments,Independent Assessments,unchanged,1.000,exact-spec,no
+carried,A&A-03,A&A-03,Risk Based Planning Assessment,Risk Based Planning Assessment,spec-substantive,0.689,same-id+title,no
+carried,A&A-04,A&A-04,Requirements Compliance,Requirements Compliance,unchanged,1.000,exact-spec,no
+carried,A&A-05,A&A-05,Audit Management Process,Audit Management Process,spec-cosmetic,0.974,same-id+title,no
+carried,A&A-06,A&A-06,Remediation,Remediation,unchanged,1.000,exact-spec,no
+carried,AIS-01,AIS-01,Application and Interface Security Policy and Procedures,Application and Interface Security Policy and Procedures,spec-substantive,0.870,same-id+title,no
+carried,AIS-02,AIS-02,Application Security Baseline Requirements,Application Security Baseline Requirements,spec-cosmetic,0.994,same-id+title,no
+carried,AIS-03,AIS-03,Application Security Metrics,Application Security Metrics,unchanged,1.000,exact-spec,no
+carried,AIS-04,AIS-04,Secure Application Development Lifecycle,Secure Application Development Lifecycle,spec-substantive,0.861,same-id+title,no
+carried,AIS-05,AIS-05,Application Security Testing,Application Security Testing,unchanged,1.000,exact-spec,no
+carried,AIS-06,AIS-06,Secure Application Deployment,Secure Application Deployment,unchanged,1.000,exact-spec,no
+carried,AIS-07,AIS-07,Application Vulnerability Remediation,Application Vulnerability Remediation,unchanged,1.000,exact-spec,no
+carried,AIS-10,AIS-08,API Security,API Security,id+spec-cosmetic,0.951,domain+title,no
+carried,AIS-08,AIS-09,Input Validation,Input Validation,id+spec-cosmetic,0.995,domain+title,no
+carried,AIS-09,AIS-10,Output Validation,Output Validation,id,1.000,exact-spec,no
+carried,AIS-11,AIS-11,Agents Security Boundaries,Agents Security Boundaries,unchanged,1.000,exact-spec,no
+carried,AIS-12,AIS-12,Source Code Managemement,Source Code Management,title,1.000,exact-spec,no
+carried,AIS-13,AIS-13,AI Sandboxing,AI Sandboxing,unchanged,1.000,exact-spec,no
+carried,AIS-14,AIS-14,AI Cache Protection,AI Cache Protection,unchanged,1.000,exact-spec,no
+carried,AIS-15,AIS-15,Prompt Differentation,Prompt Differentiation,title,1.000,exact-spec,no
+carried,BCR-01,BCR-01,Business Continuity Management Policy and Procedures,Business Continuity Management Policy and Procedures,spec-substantive,0.846,same-id+title,no
+carried,BCR-02,BCR-02,Risk Assessment and Impact Analysis,Risk Assessment and Impact Analysis,spec-cosmetic,0.998,same-id+title,no
+carried,BCR-03,BCR-03,Business Continuity Strategy,Business Continuity Strategy,unchanged,1.000,exact-spec,no
+carried,BCR-04,BCR-04,Business Continuity Planning,Business Continuity Planning,unchanged,1.000,exact-spec,no
+carried,BCR-05,BCR-05,Documentation,Documentation,spec-substantive,0.585,same-id+title,no
+carried,BCR-06,BCR-06,Business Continuity Exercises,Business Continuity Exercises,spec-substantive,0.678,same-id+title,no
+carried,BCR-07,BCR-07,Communication,Communication,unchanged,1.000,exact-spec,no
+carried,BCR-08,BCR-08,Backup,Backup,unchanged,1.000,exact-spec,no
+carried,BCR-09,BCR-09,Disaster Response Plan,Disaster Response Plan,spec-cosmetic,0.998,same-id+title,no
+carried,BCR-10,BCR-10,Response Plan Exercise,Response Plan Exercise,spec-cosmetic,0.986,same-id+title,no
+carried,BCR-11,BCR-11,Equipment Redundancy,Equipment Redundancy,unchanged,1.000,exact-spec,no
+carried,CCC-01,CCC-01,Change Management Policy and Procedures,Change Management Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,CCC-02,CCC-02,Quality Testing,Quality Testing,unchanged,1.000,exact-spec,no
+carried,CCC-03,CCC-03,Change Management Technology,Change Management Technology,unchanged,1.000,exact-spec,no
+carried,CCC-04,CCC-04,Change Authorization,Unauthorized Change Protection,title+spec-cosmetic,0.954,same-id,no
+carried,CCC-05,CCC-05,Change Agreements,Change Agreements,spec-cosmetic,0.960,same-id+title,no
+carried,CCC-06,CCC-06,Change Management Baseline,Change Management Baseline,spec-substantive,0.762,same-id+title,no
+carried,CCC-07,CCC-07,Detection of Baseline Deviation,Detection of Baseline Deviation,unchanged,1.000,exact-spec,no
+carried,CCC-08,CCC-08,Exception Management,Exception Management,unchanged,1.000,exact-spec,no
+carried,CCC-09,CCC-09,Change Restoration,Change Restoration,unchanged,1.000,exact-spec,no
+carried,CEK-01,CEK-01,Encryption and Key Management Policy and Procedures,Encryption and Key Management Policy and Procedures,spec-cosmetic,0.998,same-id+title,no
+carried,CEK-02,CEK-02,CEK Roles and Responsibilities,CEK Roles and Responsibilities,unchanged,1.000,exact-spec,no
+carried,CEK-03,CEK-03,Data Encryption,Data Protection,title,1.000,exact-spec,no
+carried,CEK-04,CEK-04,Encryption Algorithm,Encryption Algorithm,unchanged,1.000,exact-spec,no
+carried,CEK-05,CEK-05,Encryption Change Management,Encryption Change Management,unchanged,1.000,exact-spec,no
+carried,CEK-06,CEK-06,Encryption Change Cost Benefit Analysis,Encryption Change Cost Benefit Analysis,unchanged,1.000,exact-spec,no
+carried,CEK-07,CEK-07,Encryption Risk Management,Encryption Risk Management,unchanged,1.000,exact-spec,no
+carried,CEK-08,CEK-08,Customer Key Management Capability,Service Customer Key Management Capability,title+spec-substantive,0.921,same-id,no
+carried,CEK-09,CEK-09,Encryption and Key Management Audit,Encryption and Key Management Audit,unchanged,1.000,exact-spec,no
+carried,CEK-10,CEK-10,Key Generation,Key Generation,unchanged,1.000,exact-spec,no
+carried,CEK-11,CEK-11,Key Purpose,Key Purpose,unchanged,1.000,exact-spec,no
+carried,CEK-12,CEK-12,Key Rotation,Key Rotation,unchanged,1.000,exact-spec,no
+carried,CEK-13,CEK-13,Key Revocation,Key Revocation,unchanged,1.000,exact-spec,no
+carried,CEK-14,CEK-14,Key Destruction,Key Destruction,unchanged,1.000,exact-spec,no
+carried,CEK-15,CEK-15,Key Activation,Key Activation,unchanged,1.000,exact-spec,no
+carried,CEK-16,CEK-16,Key Suspension,Key Suspension,unchanged,1.000,exact-spec,no
+carried,CEK-17,CEK-17,Key Deactivation,Key Deactivation,unchanged,1.000,exact-spec,no
+carried,CEK-18,CEK-18,Key Archival,Key Archival,unchanged,1.000,exact-spec,no
+carried,CEK-19,CEK-19,Key Compromise,Key Compromise,unchanged,1.000,exact-spec,no
+carried,CEK-20,CEK-20,Key Recovery,Key Recovery,unchanged,1.000,exact-spec,no
+carried,CEK-21,CEK-21,Key Inventory Management,Key Inventory Management,unchanged,1.000,exact-spec,no
+added,,DCS-01,,Physical and Environmental Security Policy and Procedures,added,,,yes
+carried,DCS-01,DCS-02,Off-Site Equipment Disposal Policy and Procedures,Off-Site Equipment Disposal Policy and Procedures,id,1.000,exact-spec,no
+carried,DCS-02,DCS-03,Off-Site Transfer Authorization Policy and Procedures,Off-Site Transfer Authorization Policy and Procedures,id,1.000,exact-spec,no
+carried,DCS-03,DCS-04,Secure Area Policy and Procedures,Secure Area Policy and Procedures,id,1.000,exact-spec,no
+carried,DCS-04,DCS-05,Secure Media Transportation Policy and Procedures,Secure Media Transportation Policy and Procedures,id,1.000,exact-spec,no
+carried,DCS-05,DCS-06,Assets Classification,Assets Classification,id+spec-cosmetic,0.998,domain+title,no
+carried,DCS-06,DCS-07,Assets Cataloguing and Tracking,Assets Cataloguing and Tracking,id+spec-cosmetic,0.995,domain+title,no
+carried,DCS-07,DCS-08,Controlled Physical Access Points,Controlled Physical Access Points,id,1.000,exact-spec,no
+carried,DCS-08,DCS-09,Equipment Identification,Equipment Identification,id,1.000,exact-spec,no
+carried,DCS-09,DCS-10,Secure Area Authorization,Secure Area Authorization,id,1.000,exact-spec,no
+carried,DCS-10,DCS-11,Surveillance System,Surveillance System,id,1.000,exact-spec,no
+carried,DCS-11,DCS-12,Adverse Event Response Training,Adverse Event Response Training,id,1.000,exact-spec,no
+carried,DCS-12,DCS-13,Cabling Security,Cabling Security,id,1.000,exact-spec,no
+carried,DCS-13,DCS-14,Environmental Systems,Environmental Systems,id,1.000,exact-spec,no
+carried,DCS-14,DCS-15,Secure Utilities,Secure Utilities,id,1.000,exact-spec,no
+carried,DCS-15,DCS-16,Equipment Location,Equipment Location,id,1.000,exact-spec,no
+added,,DCS-17,,Datacenter Metrics,added,,,yes
+added,,DCS-18,,Datacenter Operations Resilience,added,,,yes
+carried,DSP-01,DSP-01,Security and Privacy Policy and Procedures,Security and Privacy Policy and Procedures,spec-substantive,0.857,same-id+title,no
+carried,DSP-02,DSP-02,Secure Disposal,Secure Disposal,unchanged,1.000,exact-spec,no
+carried,DSP-03,DSP-03,Data Inventory,Data Inventory,spec-cosmetic,0.997,same-id+title,no
+carried,DSP-04,DSP-04,Data Classification,Data Classification,spec-substantive,0.899,same-id+title,no
+carried,DSP-05,DSP-05,Data Flow Documentation,Data Flow Documentation,spec-substantive,0.948,same-id+title,no
+carried,DSP-06,DSP-06,Data Ownership and Stewardship,Data Ownership and Stewardship,unchanged,1.000,exact-spec,no
+carried,DSP-07,DSP-07,Data Protection by Design and Default,Data Protection by Design and Default,unchanged,1.000,exact-spec,no
+carried,DSP-08,DSP-08,Data Privacy by Design and Default,Data Privacy by Design and Default,unchanged,1.000,exact-spec,no
+carried,DSP-09,DSP-09,Data Protection Impact Assessment,Data Protection Impact Assessment,unchanged,1.000,exact-spec,no
+carried,DSP-10,DSP-10,Sensitive Data Transfer,Sensitive Data Transfer,unchanged,1.000,exact-spec,no
+carried,DSP-11,DSP-11,"Personal Data Access, Reversal, Rectification and Deletion","Personal Data Access, Reversal, Rectification and Deletion",unchanged,1.000,exact-spec,no
+carried,DSP-12,DSP-12,Limitation of Purpose in Personal Data Processing,Limitation of Purpose in Personal Data Processing,unchanged,1.000,exact-spec,no
+carried,DSP-13,DSP-13,Personal Data Sub-processing,Personal Data Sub-processing,unchanged,1.000,exact-spec,no
+carried,DSP-14,DSP-14,Disclosure of Data Sub-processors,Disclosure of Data Sub-processors,unchanged,1.000,exact-spec,no
+carried,DSP-15,DSP-15,Limitation of Production Data Use,Limitation of Production Data Use,unchanged,1.000,exact-spec,no
+carried,DSP-16,DSP-16,Data Retention and Deletion,Data Retention and Deletion,unchanged,1.000,exact-spec,no
+carried,DSP-17,DSP-17,Sensitive Data Protection,Sensitive Data Protection,unchanged,1.000,exact-spec,no
+carried,DSP-18,DSP-18,Disclosure Notification,Disclosure Notification,spec-substantive,0.905,same-id+title,no
+carried,DSP-19,DSP-19,Data Location,Data Location,unchanged,1.000,exact-spec,no
+carried,DSP-20,DSP-20,Data Provenance and Transparency,Data Provenance and Transparency,unchanged,1.000,exact-spec,no
+carried,DSP-21,DSP-21,Data Poisoning Prevention & Detection,Data Poisoning Prevention & Detection,unchanged,1.000,exact-spec,no
+carried,DSP-22,DSP-22,Privacy Enhancing Technologies,Privacy Enhancing Technologies,unchanged,1.000,exact-spec,no
+carried,DSP-23,DSP-23,Data Integrity Check,Data Integrity Check,unchanged,1.000,exact-spec,no
+carried,DSP-24,DSP-24,"Data Differentiation
+and Relevance",Data Differentiation and Relevance,unchanged,1.000,exact-spec,no
+carried,GRC-01,GRC-01,Governance Program Policy and Procedures,Governance Program Policy and Procedures,spec-cosmetic,0.953,same-id+title,no
+carried,GRC-02,GRC-02,Risk Management Program,Risk Management Program,unchanged,1.000,exact-spec,no
+carried,GRC-03,GRC-03,Organizational Policy Reviews,Organizational Policy Reviews,unchanged,1.000,exact-spec,no
+carried,GRC-04,GRC-04,Policy Exception Process,Policy Exception Process,unchanged,1.000,exact-spec,no
+carried,GRC-05,GRC-05,Information Security Program,Information Security Program,unchanged,1.000,exact-spec,no
+carried,GRC-06,GRC-06,Governance Responsibility Model,Governance Responsibility Model,unchanged,1.000,exact-spec,no
+carried,GRC-07,GRC-07,Information System Regulatory Mapping,Information System Regulatory Mapping,spec-substantive,0.801,same-id+title,no
+carried,GRC-08,GRC-08,Special Interest Groups,Special Interest Groups,unchanged,1.000,exact-spec,no
+carried,GRC-09,GRC-09,Acceptable Use of the AI Service,Acceptable Use of the AI Service,unchanged,1.000,exact-spec,no
+carried,GRC-10,GRC-10,AI Impact Assessment,AI Impact Assessment,unchanged,1.000,exact-spec,no
+carried,GRC-11,GRC-11,Bias and Fairness Assessment,Bias and Fairness Assessment,unchanged,1.000,exact-spec,no
+carried,GRC-12,GRC-12,Ethics Committee,Ethics Committee,unchanged,1.000,exact-spec,no
+carried,GRC-13,GRC-13,Explainability Requirement,Explainability Requirement,unchanged,1.000,exact-spec,no
+carried,GRC-14,GRC-14,Explainability Evaluation,Explainability Evaluation,unchanged,1.000,exact-spec,no
+carried,GRC-15,GRC-15,Human supervision,Human supervision,unchanged,1.000,exact-spec,no
+carried,HRS-01,HRS-01,Background Screening Policy and Procedures,Background Screening Policy and Procedures,spec-cosmetic,0.970,same-id+title,no
+carried,HRS-02,HRS-02,Acceptable Use of Technology Policy and Procedures,Acceptable Use of Technology Policy and Procedures,spec-substantive,0.948,same-id+title,no
+carried,HRS-03,HRS-03,Clean Desk Policy and Procedures,Clean Desk Policy and Procedures,spec-substantive,0.943,same-id+title,no
+carried,HRS-04,HRS-04,Remote and Home Working Policy and Procedures,Remote and Home Working Policy and Procedures,spec-substantive,0.944,same-id+title,no
+carried,HRS-05,HRS-05,Asset returns,Asset returns,spec-substantive,0.868,same-id+title,no
+carried,HRS-06,HRS-06,Employment Termination,Employment Termination,spec-cosmetic,0.969,same-id+title,no
+carried,HRS-07,HRS-07,Employment Agreement Process,Employment Agreement Process,unchanged,1.000,exact-spec,no
+carried,HRS-08,HRS-08,Employment Agreement Content,Employment Agreement Content,unchanged,1.000,exact-spec,no
+carried,HRS-09,HRS-09,Personnel Roles and Responsibilities,Personnel Roles and Responsibilities,spec-substantive,0.889,same-id+title,no
+carried,HRS-10,HRS-10,Non-Disclosure Agreements,Non-Disclosure Agreements,unchanged,1.000,exact-spec,no
+carried,HRS-11,HRS-11,Security Awareness Training,Security Awareness Training,unchanged,1.000,exact-spec,no
+carried,HRS-12,HRS-12,Personal and Sensitive Data Awareness and Training,Personal and Sensitive Data Awareness and Training,unchanged,1.000,exact-spec,no
+carried,HRS-13,HRS-13,Compliance User Responsibility,Compliance User Responsibility,unchanged,1.000,exact-spec,no
+carried,HRS-14,HRS-14,AI Competency Training,AI Competency Training,unchanged,1.000,exact-spec,no
+carried,HRS-15,HRS-15,AI Acceptable Use,AI Acceptable Use,unchanged,1.000,exact-spec,no
+carried,I&S-01,I&S-01,Infrastructure and Virtualization Security Policy and Procedures,Infrastructure and Virtualization Security Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,I&S-02,I&S-02,Capacity and Resource Planning,Capacity and Resource Planning,unchanged,1.000,exact-spec,no
+carried,I&S-03,I&S-03,Network Security,Network Security,spec-cosmetic,0.957,same-id+title,no
+carried,I&S-04,I&S-04,OS Hardening and Base Controls,OS Hardening and Base Controls,unchanged,1.000,exact-spec,no
+carried,I&S-05,I&S-05,Production and Non-Production Environments,Production and Non-Production Environments,spec-substantive,0.374,same-id+title,no
+carried,I&S-06,I&S-06,Segmentation and Segregation,Segmentation and Segregation,spec-substantive,0.945,same-id+title,no
+carried,I&S-07,I&S-07,Migration to Hosted Environments,Migration to Hosted Environments,unchanged,1.000,exact-spec,no
+carried,I&S-08,I&S-08,Network Architecture Documentation,Network Architecture Documentation,spec-substantive,0.584,same-id+title,no
+carried,I&S-09,I&S-09,Network Defense,Network Defense,unchanged,1.000,exact-spec,no
+carried,IAM-01,IAM-01,Identity and Access Management Policy and Procedures,Identity and Access Management Policy and Procedures,unchanged,1.000,exact-spec,no
+added,,IAM-02,,Credentials Management Policy and Procedures,added,,,yes
+carried,IAM-03,IAM-03,Identity Inventory,Identity Inventory,unchanged,1.000,exact-spec,no
+carried,IAM-04,IAM-04,Separation of Duties,Separation of Duties,unchanged,1.000,exact-spec,no
+carried,IAM-05,IAM-05,Least Privilege,Least Privilege,unchanged,1.000,exact-spec,no
+carried,IAM-06,IAM-06,User Access Provisioning,Access Provisioning,title,1.000,exact-spec,no
+carried,IAM-07,IAM-07,User Access Changes and Revocation,Access Changes and Revocation,title,1.000,exact-spec,no
+carried,IAM-08,IAM-08,User Access Review,Access Review,title+spec-cosmetic,0.971,same-id,no
+carried,IAM-09,IAM-09,Segregation of Privileged Access Roles,Segregation of Privileged Access Roles,unchanged,1.000,exact-spec,no
+carried,IAM-10,IAM-10,Management of Privileged Access Roles,Management of Privileged Access Roles,unchanged,1.000,exact-spec,no
+carried,IAM-11,IAM-11,Customers' Approval for Agreed Privileged Access Roles,Service Customers' Approval for Agreed Privileged Access Roles,title+spec-cosmetic,0.983,same-id,no
+carried,IAM-13,IAM-12,Uniquely Identifiable Users,Unique Identities,id+title,1.000,exact-spec,no
+carried,IAM-14,IAM-13,Strong Authentication,Strong Authentication,id,1.000,exact-spec,no
+carried,IAM-15,IAM-14,Passwords and Secrets Management,Credentials Management,id+title+spec-substantive,0.804,domain+fuzzy(0.80),yes
+carried,IAM-16,IAM-15,Authorization Mechanisms,Authorization Mechanisms,id,1.000,exact-spec,no
+carried,IAM-17,IAM-16,Knowledge Access Control - Need to Know,Knowledge Access Control - Need to Know,id,1.000,exact-spec,no
+carried,IAM-18,IAM-17,Output Modification and Special Authorization,Output Modification and Special Authorization,id,1.000,exact-spec,no
+carried,IAM-19,IAM-18,Agent Access Restriction,Agent Access Restriction,id,1.000,exact-spec,no
+carried,IPY-01,IPY-01,Interoperability and Portability Policy and Procedures,Interoperability and Portability Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,IPY-02,IPY-02,Application Interface Availability,Application Interface Availability,spec-substantive,0.947,same-id+title,no
+carried,IPY-03,IPY-03,Secure Interoperability and Portability Management,Secure Interoperability and Portability Management,spec-substantive,0.940,same-id+title,no
+carried,IPY-04,IPY-04,Data Portability Contractual Obligations,Data Portability Contractual Obligations,spec-substantive,0.922,same-id+title,no
+carried,LOG-01,LOG-01,Logging and Monitoring Policy and Procedures,Logging and Monitoring Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,LOG-02,LOG-02,Audit Logs Protection,Audit Logs Protection,unchanged,1.000,exact-spec,no
+carried,LOG-03,LOG-03,Security Monitoring and Alerting,Security Monitoring and Alerting,spec-substantive,0.374,same-id+title,no
+carried,LOG-04,LOG-04,Audit Logs Access and Accountability,Audit Logs Access and Accountability,spec-substantive,0.731,same-id+title,no
+carried,LOG-05,LOG-05,Audit Logs Monitoring and Response,Audit Logs Monitoring and Response,spec-substantive,0.729,same-id+title,no
+carried,LOG-06,LOG-06,Clock Synchronization,Clock Synchronization,unchanged,1.000,exact-spec,no
+carried,LOG-07,LOG-07,Logging Scope,Logging Scope,spec-substantive,0.897,same-id+title,no
+added,,LOG-08,,Audit Logs Sanitization,added,,,yes
+carried,LOG-08,LOG-09,Log Records,Log Records,id,1.000,exact-spec,no
+carried,LOG-09,LOG-10,Log Protection,Audit Records Protection,id+title,1.000,exact-spec,no
+carried,LOG-10,LOG-11,Encryption Monitoring and Reporting,Encryption Monitoring and Reporting,id,1.000,exact-spec,no
+carried,LOG-11,LOG-12,Transaction/Activity Logging,Transaction/Activity Logging,id,1.000,exact-spec,no
+carried,LOG-12,LOG-13,Access Control Logs,Access Control Logs,id,1.000,exact-spec,no
+carried,LOG-13,LOG-14,Failures and Anomalies Reporting,Failures and Anomalies Reporting,id,1.000,exact-spec,no
+carried,LOG-14,LOG-15,Input Monitoring,Input Monitoring,id,1.000,exact-spec,no
+carried,LOG-15,LOG-16,Output Monitoring,Output Monitoring,id+spec-cosmetic,0.982,domain+title,no
+carried,MDS-01,MDS-01,Training Pipeline Security,Training Pipeline Security,unchanged,1.000,exact-spec,no
+carried,MDS-02,MDS-02,Model Artifact Scanning,Model Artifact Scanning,unchanged,1.000,exact-spec,no
+carried,MDS-03,MDS-03,Model Documentation,Model Documentation,unchanged,1.000,exact-spec,no
+carried,MDS-04,MDS-04,Model Documentation Requirements,Model Documentation Requirements,unchanged,1.000,exact-spec,no
+carried,MDS-05,MDS-05,Model Documentation Validation,Model Documentation Validation,unchanged,1.000,exact-spec,no
+carried,MDS-06,MDS-06,Adversarial Attack Analysis,Adversarial Attack Analysis,unchanged,1.000,exact-spec,no
+carried,MDS-07,MDS-07,Robustness against Adversarial Attack  / Model Hardening,Robustness against Adversarial Attack / Model Hardening,unchanged,1.000,exact-spec,no
+carried,MDS-08,MDS-08,Model Integrity Checks,Model Integrity Checks,unchanged,1.000,exact-spec,no
+carried,MDS-09,MDS-09,Model Signing/Ownership Verification,Model Signing/Ownership Verification,unchanged,1.000,exact-spec,no
+carried,MDS-10,MDS-10,Model Continuous Monitoring,Model Continuous Monitoring,unchanged,1.000,exact-spec,no
+carried,MDS-11,MDS-11,Model Failure,Model Failure,unchanged,1.000,exact-spec,no
+carried,MDS-12,MDS-12,Open Model Risk Assessment,Open Model Risk Assessment,unchanged,1.000,exact-spec,no
+carried,MDS-13,MDS-13,Secure Model Format,Secure Model Format,unchanged,1.000,exact-spec,no
+carried,SEF-01,SEF-01,Security Incident Management Policy and Procedures,Security Incident Management Policy and Procedures,spec-cosmetic,0.998,same-id+title,no
+carried,SEF-02,SEF-02,Service Management Policy and Procedures,Service Management Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,SEF-03,SEF-03,Incident Response Plans,Incident Response Plans,spec-cosmetic,0.971,same-id+title,no
+carried,SEF-04,SEF-04,Incident Response Testing,Incident Response Testing,spec-substantive,0.724,same-id+title,no
+carried,SEF-05,SEF-05,Incident Response Metrics,Incident Response Metrics,unchanged,1.000,exact-spec,no
+carried,SEF-06,SEF-06,Event Triage Processes,Event Triage Processes,unchanged,1.000,exact-spec,no
+added,,SEF-07,,Incident Management and Response,added,,,yes
+carried,SEF-07,SEF-08,Security Breach Notification,Security Breach Notification,id+spec-substantive,0.157,domain+title,no
+added,,SEF-09,,Incident Records Management,added,,,yes
+carried,SEF-08,SEF-10,Points of Contact Maintenance,Points of Contact Maintenance,id,1.000,exact-spec,no
+carried,STA-01,STA-01,"Supply Chain Risk 
+Management Policies 
+and Procedures",Supply Chain Risk Management Policies and Procedures,spec-cosmetic,0.998,same-id+title,no
+carried,STA-02,STA-02,SSRM Policy and Procedures,SSRM Policy and Procedures,unchanged,1.000,exact-spec,no
+carried,STA-03,STA-03,SSRM Supply Chain,SSRM Supply Chain,unchanged,1.000,exact-spec,no
+carried,STA-04,STA-04,SSRM Guidance,SSRM Guidance,spec-cosmetic,0.963,same-id+title,no
+carried,STA-05,STA-05,SSRM Control Ownership,SSRM Control Ownership,unchanged,1.000,exact-spec,no
+carried,STA-06,STA-06,SSRM Documentation Review,SSRM Documentation Review,spec-cosmetic,0.951,same-id+title,no
+carried,STA-07,STA-07,SSRM Control Implementation,SSRM Control Implementation,unchanged,1.000,exact-spec,no
+carried,STA-08,STA-08,Supply Chain Inventory,Supply Chain Inventory,unchanged,1.000,exact-spec,no
+carried,STA-16,STA-09,Service Bill of Material (BOM),Service Bill of Material (BOM),id+spec-cosmetic,0.997,domain+title,no
+carried,STA-09,STA-10,Supply Chain Risk Management,Supply Chain Risk Management,id,1.000,exact-spec,no
+carried,STA-10,STA-11,Primary Service and Contractual Agreement,Primary Service and Contractual Agreement,id+spec-cosmetic,0.975,domain+title,no
+carried,STA-11,STA-12,Supply Chain Agreement Review,Supply Chain Agreement Review,id,1.000,exact-spec,no
+carried,STA-12,STA-13,"Supply Chain 
+Compliance 
+Assessment",Supply Chain Compliance Assessment,id,1.000,exact-spec,no
+carried,STA-13,STA-14,Supply Chain Service Agreement Compliance,Supply Chain Service Agreement Compliance,id,1.000,exact-spec,no
+carried,STA-14,STA-15,Supply Chain Governance Review,Supply Chain Governance Review,id+spec-substantive,0.643,domain+title,no
+carried,STA-15,STA-16,Supply Chain Data Security Assessment,Supply Chain Data Security Assessment,id+spec-substantive,0.777,domain+title,no
+carried,TVM-01,TVM-01,Threat and Vulnerability Management Policy and Procedures,Threat and Vulnerability Management Policy and Procedures,spec-cosmetic,0.999,same-id+title,no
+carried,TVM-02,TVM-02,Malware and Malicious Instructions Protection Policy and Procedures,Malware and Malicious Instructions Protection Policy and Procedures,spec-cosmetic,0.998,same-id+title,no
+carried,TVM-03,TVM-03,Vulnerability Identification,Vulnerability Identification,spec-substantive,0.652,same-id+title,no
+carried,TVM-12,TVM-04,Threat Analysis and Modelling,Threat Analysis and Modelling,id+spec-cosmetic,0.994,domain+title,no
+carried,TVM-04,TVM-05,Detection Updates,Detection Updates,id,1.000,exact-spec,no
+carried,TVM-05,TVM-06,External Library Vulnerabilities,External Library Vulnerabilities,id,1.000,exact-spec,no
+carried,TVM-06,TVM-07,Penetration Testing,Penetration Testing,id,1.000,exact-spec,no
+carried,TVM-07,TVM-08,Vulnerability Remediation Schedule,Vulnerability Remediation Schedule,id,1.000,exact-spec,no
+carried,TVM-08,TVM-09,Vulnerability Prioritization,Vulnerability Prioritization,id+spec-cosmetic,0.979,domain+title,no
+carried,TVM-13,TVM-10,Threat Response,Threat Response,id,1.000,exact-spec,no
+carried,TVM-09,TVM-11,Vulnerability Management Reporting,Vulnerability Management Reporting,id,1.000,exact-spec,no
+carried,TVM-10,TVM-12,Vulnerability Management Metrics,Vulnerability Management Metrics,id,1.000,exact-spec,no
+carried,TVM-11,TVM-13,Guardrails,Guardrails,id,1.000,exact-spec,no
+carried,UEM-01,UEM-01,Endpoint Devices Policy and Procedures,Endpoint Devices Policy and Procedures,spec-cosmetic,0.981,same-id+title,no
+carried,UEM-02,UEM-02,Application and Service Approval,Application and Service Approval,unchanged,1.000,exact-spec,no
+carried,UEM-03,UEM-03,Compatibility,Compatibility,unchanged,1.000,exact-spec,no
+carried,UEM-04,UEM-04,Endpoint Inventory,Endpoint Inventory,spec-cosmetic,0.951,same-id+title,no
+carried,UEM-05,UEM-05,Endpoint Management,Endpoint Management,unchanged,1.000,exact-spec,no
+carried,UEM-06,UEM-06,Automatic Lock Screen,Automatic Lock Screen,unchanged,1.000,exact-spec,no
+carried,UEM-07,UEM-07,Operating Systems,Operating Systems,unchanged,1.000,exact-spec,no
+carried,UEM-08,UEM-08,Storage Encryption,Storage Encryption,unchanged,1.000,exact-spec,no
+carried,UEM-09,UEM-09,Anti-Malware Detection and Prevention,Anti-Malware Detection and Prevention,unchanged,1.000,exact-spec,no
+carried,UEM-10,UEM-10,Software Firewall,Software Firewall,unchanged,1.000,exact-spec,no
+carried,UEM-11,UEM-11,Data Loss Prevention,Data Loss Prevention,unchanged,1.000,exact-spec,no
+carried,UEM-12,UEM-12,Remote Locate,Remote Locate,unchanged,1.000,exact-spec,no
+carried,UEM-13,UEM-13,Remote Wipe,Remote Wipe,unchanged,1.000,exact-spec,no
+carried,UEM-14,UEM-14,Third-Party Endpoint Security Posture,Third-Party Endpoint Security Posture,unchanged,1.000,exact-spec,no
+removed,IAM-02,,Strong Password Policy and Procedures,,removed,,,yes
+removed,IAM-12,,Safeguard Logs Integrity,,removed,,,yes
+removed,SEF-09,,Incident Response,,removed,,,yes
