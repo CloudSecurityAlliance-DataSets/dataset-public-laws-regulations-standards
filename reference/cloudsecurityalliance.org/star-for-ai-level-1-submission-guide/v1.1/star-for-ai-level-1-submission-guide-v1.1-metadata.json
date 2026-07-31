@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide@v1.1",
+  "name": "STAR for AI Level 1 Submission Guide",
+  "acronym": null,
+  "alternate_names": [],
+  "version": "v1.1",
+  "publication_id": "STAR-FOR-AI-L1-SUBMISSION-GUIDE-1.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Guidance",
+  "description": "Step-by-step procedural guide for submitting a CSA STAR for AI Level 1 self-assessment: preparing the submission, completing the AI-CAIQ, filling out the STAR submission form, confirming the submission, and selecting the organization the entry is filed under.",
+  "relationToCloudSecurity": "STAR for AI extends CSA's STAR Registry — the public cloud-provider assurance programme — to AI services.",
+  "relationToAISecurity": "Programme documentation for the public registry where AI vendors publish their AICM self-assessments. The operational endpoint of the AICM / AI-CAIQ toolchain.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-22",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Ships as a PDF inside the AICM v1.1 ZIP bundle. VERSION IS BUNDLE-DERIVED: the document itself states no version number, and it documents the STAR for AI programme rather than the AICM specification, so it may well version on its own cadence. Filed as v1.1 to match the bundle it arrived in. Reconcile rather than assume if it reappears in a later bundle."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-07-31T17-56-42Z",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf (GPU box, ~/.myenv)",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060 (markersinglehost)",
+    "flags": [
+      "--output_format markdown"
+    ],
+    "force_ocr": false,
+    "notes": "4-page PDF with a clean text layer; no OCR forcing needed. Numbered step structure preserved."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-07-31T17-56-42Z",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single",
+      "force_ocr": false
+    }
+  ],
+  "scope": {
+    "pages": 4
+  },
+  "notes": "Procedural and web-form-specific. Contains live links into CSA's submission portal that will rot independently of this document.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "complete",
+    "notes": "Procedural guidance with no per-item structure to extract. Markdown is the appropriate terminal form."
+  }
+}

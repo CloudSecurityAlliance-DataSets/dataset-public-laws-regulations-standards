@@ -28,9 +28,9 @@
     "published": "2024",
     "active": true,
     "supersedes": null,
-    "supersededBy": null,
+    "supersededBy": "AI-CAIQ 1.1.0 (released 2026-06-22, versioned in lockstep with AICM 1.1.0)",
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Question IDs derive from AICM control IDs, which were renumbered in AICM 1.1.0 — 1.0.2 question IDs are not interchangeable with 1.1.0. See ../../aicm/VERSIONING.md."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",

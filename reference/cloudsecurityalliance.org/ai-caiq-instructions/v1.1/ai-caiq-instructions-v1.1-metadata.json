@@ -1,0 +1,65 @@
+{
+  "secid": "secid:reference/cloudsecurityalliance.org/ai-caiq-instructions@v1.1",
+  "name": "Filling in the AI-CAIQ: Instructions and Recommendations",
+  "acronym": null,
+  "alternate_names": [
+    "Filling in the AI CAIQ"
+  ],
+  "version": "v1.1",
+  "publication_id": "AI-CAIQ-INSTRUCTIONS-1.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Guidance",
+  "description": "Respondent instructions for completing the AI-CAIQ self-assessment questionnaire. Covers which columns to fill, decision rules for the answer and SSRM control-ownership columns, expected level of detail for the implementation-description and customer-responsibilities columns, and how to handle partial implementations and remediation commitments.",
+  "relationToCloudSecurity": "Governs how vendors describe shared responsibility for AI services running on cloud infrastructure when self-attesting.",
+  "relationToAISecurity": "Operational guidance for the AI-CAIQ, the vendor-attestation instrument for AICM. Required reading before a STAR for AI Level 1 submission.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-22",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Ships as a PDF inside the AICM v1.1 ZIP bundle. VERSION IS BUNDLE-DERIVED: the document itself states no version number. It is filed as v1.1 because it ships with — and describes the column layout of — AI-CAIQ v1.1.0. If CSA reissues it unchanged with a later bundle, reconcile rather than assuming a new version."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-07-31T17-56-42Z",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf (GPU box, ~/.myenv)",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060 (markersinglehost)",
+    "flags": [
+      "--output_format markdown"
+    ],
+    "force_ocr": false,
+    "notes": "3-page PDF with a clean text layer; no OCR forcing needed. Section hierarchy preserved."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-07-31T17-56-42Z",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single",
+      "force_ocr": false
+    }
+  ],
+  "scope": {
+    "pages": 3
+  },
+  "notes": "Refers to questionnaire columns by spreadsheet letter (C, D, E, F). Those correspond to the AI-CAIQ v1.1.0 layout: C = Service Provider AI-CAIQ Answer, D = SSRM Control Ownership, E = Service Provider Implementation Description, F = Service Customer Responsibilities.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "complete",
+    "notes": "Short narrative guidance with no per-item structure to extract. Markdown is the appropriate terminal form."
+  }
+}

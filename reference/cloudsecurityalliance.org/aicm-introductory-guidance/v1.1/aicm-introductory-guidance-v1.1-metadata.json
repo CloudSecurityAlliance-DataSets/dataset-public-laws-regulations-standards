@@ -1,0 +1,65 @@
+{
+  "secid": "secid:reference/cloudsecurityalliance.org/aicm-introductory-guidance@v1.1",
+  "name": "Introductory Guidance to AICM v1.1",
+  "acronym": null,
+  "alternate_names": [
+    "AICM v1.1 Introductory Guidance"
+  ],
+  "version": "v1.1",
+  "publication_id": "AICM-INTRODUCTORY-GUIDANCE-1.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Guidance",
+  "description": "Companion narrative guidance to the AI Controls Matrix v1.1. Explains the AICM's structure — the five pillars (control type, applicability and ownership, architectural relevance, lifecycle relevance, threat category), the AI shared responsibility model across Cloud Service Provider / Model Provider / Orchestrated Service Provider / Application Provider / AI Customer, and how to apply the matrix in an assessment. Includes a change-log summary of the differences from AICM v1.0.",
+  "relationToCloudSecurity": "Explains how AICM layers onto cloud-platform controls covered by CCM, and how ownership is apportioned across the AI supply chain in a cloud context.",
+  "relationToAISecurity": "The interpretive companion to the current AI controls catalog. Read alongside the AICM spreadsheet rather than in place of it.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "Document carries '© 2026 Cloud Security Alliance – All Rights Reserved' with CSA's standard download/store/display/print grant."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-22",
+    "active": true,
+    "supersedes": "Introductory Guidance to AICM v1.0",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Ships as a PDF inside the AICM v1.1 ZIP bundle. Release date taken from CSA's artifact page; see the AICM 1.1.0 metadata for the full reasoning on the four conflicting dates in the bundle."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-07-31T17-56-42Z",
+    "tool": "marker_single",
+    "tool_version": "marker-pdf (GPU box, ~/.myenv)",
+    "extraction_host": "WSL2 Ubuntu on RTX 3060 (markersinglehost)",
+    "flags": [
+      "--output_format markdown"
+    ],
+    "force_ocr": false,
+    "notes": "56-page PDF with a clean text layer; no OCR forcing needed. Heading hierarchy, tables, and the change-log summary all survived. 112 page images extracted alongside the markdown."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-07-31T17-56-42Z",
+      "status": "current",
+      "reason": "Initial extraction",
+      "tool": "marker_single",
+      "force_ocr": false
+    }
+  ],
+  "scope": {
+    "pages": 56
+  },
+  "notes": "Describes AICM v1.1 specifically. Its control-ID examples follow v1.1 numbering, which differs from v1.0.3 — see control/cloudsecurityalliance.org/aicm/VERSIONING.md.",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "complete",
+    "notes": "Narrative guidance with no regular per-item structure to extract into CSV/JSON. Markdown is the appropriate terminal form."
+  }
+}

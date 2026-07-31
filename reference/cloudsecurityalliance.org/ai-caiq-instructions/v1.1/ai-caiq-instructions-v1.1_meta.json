@@ -1,0 +1,260 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Filling in the AI\u2011CAIQ",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          102.5771484375
+        ],
+        [
+          450.333984375,
+          102.5771484375
+        ],
+        [
+          450.333984375,
+          147.2431640625
+        ],
+        [
+          71.71875,
+          147.2431640625
+        ]
+      ]
+    },
+    {
+      "title": "Instructions and Recommendations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          152.2705078125
+        ],
+        [
+          483.4002990722656,
+          152.2705078125
+        ],
+        [
+          483.4002990722656,
+          182.6279296875
+        ],
+        [
+          71.71875,
+          182.6279296875
+        ]
+      ]
+    },
+    {
+      "title": "Core Mechanics: Which Columns to Fill",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          315.5625
+        ],
+        [
+          412.3828125,
+          315.5625
+        ],
+        [
+          412.3828125,
+          337.4296569824219
+        ],
+        [
+          71.71875,
+          337.4296569824219
+        ]
+      ]
+    },
+    {
+      "title": "SSRM Control Ownership Values",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.9716796875,
+          537.5390625
+        ],
+        [
+          296.93389892578125,
+          537.5390625
+        ],
+        [
+          296.93389892578125,
+          553.9175109863281
+        ],
+        [
+          70.9716796875,
+          553.9175109863281
+        ]
+      ]
+    },
+    {
+      "title": "Decision Rules for Columns C and D",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.0,
+          118.8193359375
+        ],
+        [
+          388.08514404296875,
+          118.8193359375
+        ],
+        [
+          388.08514404296875,
+          140.9296875
+        ],
+        [
+          72.0,
+          140.9296875
+        ]
+      ]
+    },
+    {
+      "title": "Detail Expectations for Columns E and F",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.5693359375,
+          233.771484375
+        ],
+        [
+          431.22503662109375,
+          233.771484375
+        ],
+        [
+          431.22503662109375,
+          256.4296875
+        ],
+        [
+          71.5693359375,
+          256.4296875
+        ]
+      ]
+    },
+    {
+      "title": "Handling Partial Implementations and Remediation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.419921875,
+          539.47265625
+        ],
+        [
+          527.2008056640625,
+          539.47265625
+        ],
+        [
+          527.2008056640625,
+          561.12890625
+        ],
+        [
+          71.419921875,
+          561.12890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          582
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          696
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ai-caiq-instructions-v1.1"
+}
