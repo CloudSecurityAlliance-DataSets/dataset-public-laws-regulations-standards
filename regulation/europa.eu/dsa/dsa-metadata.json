@@ -13,12 +13,12 @@
   "relationToCloudSecurity": "Affects cloud-hosted platforms operating in the EU. SaaS platforms classified as VLOPs face heightened obligations.",
   "relationToAISecurity": "Recommender systems and AI-driven content moderation are explicitly regulated.",
   "license": {
-    "spdx": "CC-BY-4.0",
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
     "redistribution": "permitted_with_attribution",
     "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
-    "notes": "EU legislation published in OJEU. Reuse permitted under EUR-Lex terms; attribution expected."
+    "notes": "EU legislative texts published in the Official Journal are reusable under Commission Decision 2011/833/EU, for commercial and non-commercial purposes, with attribution to the European Union. This is deliberately not CC-BY-4.0: on EUR-Lex the Creative Commons Attribution 4.0 licence covers editorial content, legislation summaries, and consolidated texts, while EUR-Lex metadata is CC0-1.0 and the legislative texts themselves fall under the reuse decision. Only documents published in the Official Journal are authentic."
   },
   "links": {
     "source": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj",
