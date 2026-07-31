@@ -34,7 +34,7 @@
     "notes": "Ships as a PDF inside the AICM v1.1 ZIP bundle. VERSION IS BUNDLE-DERIVED: the document itself states no version number. It is filed as v1.1 because it ships with — and describes the column layout of — AI-CAIQ v1.1.0. If CSA reissues it unchanged with a later bundle, reconcile rather than assuming a new version."
   },
   "current_extraction": {
-    "s3_timestamp": null,
+    "s3_timestamp": "2026-07-31T17-56-42Z",
     "tool": "marker_single",
     "tool_version": "marker-pdf (GPU box, ~/.myenv)",
     "extraction_host": "WSL2 Ubuntu on RTX 3060 (markersinglehost)",
@@ -46,7 +46,7 @@
   },
   "extraction_history": [
     {
-      "s3_timestamp": null,
+      "s3_timestamp": "2026-07-31T17-56-42Z",
       "status": "current",
       "reason": "Initial extraction",
       "tool": "marker_single",

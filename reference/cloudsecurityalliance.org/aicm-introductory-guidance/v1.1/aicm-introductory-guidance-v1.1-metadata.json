@@ -34,7 +34,7 @@
     "notes": "Ships as a PDF inside the AICM v1.1 ZIP bundle. Release date taken from CSA's artifact page; see the AICM 1.1.0 metadata for the full reasoning on the four conflicting dates in the bundle."
   },
   "current_extraction": {
-    "s3_timestamp": null,
+    "s3_timestamp": "2026-07-31T17-56-42Z",
     "tool": "marker_single",
     "tool_version": "marker-pdf (GPU box, ~/.myenv)",
     "extraction_host": "WSL2 Ubuntu on RTX 3060 (markersinglehost)",
@@ -46,7 +46,7 @@
   },
   "extraction_history": [
     {
-      "s3_timestamp": null,
+      "s3_timestamp": "2026-07-31T17-56-42Z",
       "status": "current",
       "reason": "Initial extraction",
       "tool": "marker_single",

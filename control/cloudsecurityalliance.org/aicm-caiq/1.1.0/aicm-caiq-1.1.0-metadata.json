@@ -35,7 +35,7 @@
     "notes": "Ships in the AICM v1.1 ZIP bundle. The questionnaire jumped 1.0.2 -> 1.1.0 to version in lockstep with AICM; there is no AI-CAIQ 1.0.3 or 1.1 preview release. Change Log sheet dates the questionnaire revision 2026/03/17 and the bundle release 2026/06/23; CSA's artifact page states 06/22/2026."
   },
   "current_extraction": {
-    "s3_timestamp": null,
+    "s3_timestamp": "2026-07-31T17-56-34Z",
     "tool": "control/cloudsecurityalliance.org/aicm/1.1.0/scripts/parse_caiq.py",
     "tool_version": "n/a",
     "extraction_host": "local",
@@ -45,7 +45,7 @@
   },
   "extraction_history": [
     {
-      "s3_timestamp": null,
+      "s3_timestamp": "2026-07-31T17-56-34Z",
       "status": "current",
       "reason": "Initial extraction of AI-CAIQ 1.1.0",
       "tool": "parse_caiq.py"

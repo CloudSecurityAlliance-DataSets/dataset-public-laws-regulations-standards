@@ -36,7 +36,7 @@
     "notes": "AI Controls Matrix v1.1 Released: 06/22/2026, per CSA's artifact page at https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1. That is the date recorded in the `published` field above.\n\nThe source bundle carries four different dates for this release. The publisher's download page is treated as authoritative because it is the citable public statement of record; the others are build and packaging artifacts that describe stages of production rather than the release itself.\n\nDates considered and not used:\n  - 2026-06-18 — the `generated_at` token in both spreadsheet filenames. This is when the workbooks were generated from CSA's internal tooling, four days before publication. Retained as `generated_at` in the extraction JSON for provenance, but it is not the release date.\n  - 2026-06-22 — filesystem mtime on both spreadsheets inside the ZIP. Coincides with the artifact-page date, but mtimes are not a reliable published-on signal and are not cited independently.\n  - 2026-06-23 — the date on the AICM v1.1.0 row of the workbook's own Change Log sheet, one day after the artifact page. Likely when the change log itself was finalized.\n  - 2026-03-17 — the AI-CAIQ v1.1.0 row of the questionnaire's Change Log, three months earlier. This dates the questionnaire revision, not the bundle release.\n\nVersion string: the workbook stamps itself 1.1.0 in cell A1 of every sheet ({\"specification_name\":\"AI Controls Matrix\",\"specification_version\":\"1.1.0\"}); CSA's artifact page brands it \"v1.1\". The directory uses the workbook's own 1.1.0, matching the three-part 1.0.3 convention."
   },
   "current_extraction": {
-    "s3_timestamp": null,
+    "s3_timestamp": "2026-07-31T17-56-34Z",
     "tool": "scripts/parse_aicm.py",
     "tool_version": "n/a",
     "extraction_host": "local",
@@ -46,7 +46,7 @@
   },
   "extraction_history": [
     {
-      "s3_timestamp": null,
+      "s3_timestamp": "2026-07-31T17-56-34Z",
       "status": "current",
       "reason": "Initial extraction of AICM 1.1.0",
       "tool": "parse_aicm.py"

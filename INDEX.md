@@ -48,9 +48,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
-| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 5 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
-| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 5 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
@@ -344,12 +344,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cloudflare.com/workers-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-ai-glossary` |
 | `reference/cloudflare.com/workers-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-glossary` |
 | `reference/cloudflare.com/workflows-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workflows-glossary` |
-| `reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/` | extracted | 7 (+4 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/ai-caiq-instructions@v1.1` |
-| `reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/` | extracted | 115 (+112 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/aicm-introductory-guidance@v1.1` |
+| `reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/` | extracted | 8 (+4 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/ai-caiq-instructions@v1.1` |
+| `reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/` | extracted | 116 (+112 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/aicm-introductory-guidance@v1.1` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/ccsk/` | empty | 0 | `·······` | — |
 | `reference/cloudsecurityalliance.org/cloud-security-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
-| `reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide@v1.1` |
+| `reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/` | extracted | 10 (+6 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide@v1.1` |
 | `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
