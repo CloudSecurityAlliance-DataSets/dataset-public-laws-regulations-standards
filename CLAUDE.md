@@ -171,12 +171,13 @@ The `secid` field is the canonical SecID for the document and must match the dir
 
 ## Repository health checks
 
-This repository contains documentation and data — no traditional build/lint/test. But two scripts enforce the repo's structural invariants and should be run after any structural change:
+This repository contains documentation and data — no traditional build/lint/test. But these scripts enforce the repo's structural invariants and should be run after any structural change:
 
 | Command | When |
 |---|---|
 | `python3 tools-resources/utils/audit_secid_alignment.py` | After adding or moving any document directory. Verifies every metadata `secid` field resolves to a registered SecID namespace. Exits 1 if anything is missing. |
 | `python3 tools-resources/utils/build_index.py` | After adding/removing documents or changing extraction state. Regenerates `INDEX.md` at repo root. |
+| `python3 control/cloudsecurityalliance.org/aicm/crosswalks/check_figures.py` | After regenerating the AICM crosswalk or editing AICM prose. Asserts that the counts quoted across the seven AICM docs still match the committed data. Exits 1 on drift. |
 
 The audit script requires `~/GitHub/CloudSecurityAlliance/SecID/registry/` to exist locally (it cross-references the SecID registry checkout). If that path is missing, clone https://github.com/CloudSecurityAlliance/SecID alongside this repo before running the audit.
 

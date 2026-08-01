@@ -10,7 +10,7 @@ alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) b
 >
 > **AICM v1.1.0 control IDs are not interchangeable with v1.0.3 control IDs.**
 >
-> CSA renumbered controls in place. **55 of the 242 control IDs shared with
+> CSA renumbered controls in place. **54 of the 242 control IDs shared with
 > v1.0.3 now designate a different control.** The identifier string survived;
 > what it points at did not.
 >

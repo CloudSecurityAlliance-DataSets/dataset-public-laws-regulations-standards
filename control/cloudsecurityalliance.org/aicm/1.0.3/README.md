@@ -8,7 +8,7 @@
 >
 > **These control IDs are not interchangeable with v1.1.0 control IDs.**
 >
-> CSA renumbered controls in place in the next release. **55 of the 242 control
+> CSA renumbered controls in place in the next release. **54 of the 242 control
 > IDs this version shares with v1.1.0 designate a different control there.** The
 > identifier string survived; what it points at did not.
 >

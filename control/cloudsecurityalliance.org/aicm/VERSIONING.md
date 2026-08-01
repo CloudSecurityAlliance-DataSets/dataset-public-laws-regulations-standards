@@ -39,23 +39,23 @@ Reconstructed by content-matching the two releases
 
 | Outcome | Count |
 |---|---|
-| Carried over | 240 |
+| Carried over | 241 |
 | ...of which **renumbered** | **53** |
 | ...of which specification substantively rewritten | 34 |
-| Added | 7 |
-| Removed | 3 |
+| Added | 6 |
+| Removed | 2 |
 
 ### The number that matters
 
 | Measure | Count |
 |---|---|
 | Control IDs present in both releases | 242 |
-| ...that still mean the same control | 187 |
-| ...**that now mean a *different* control** | **55** |
+| ...that still mean the same control | 188 |
+| ...**that now mean a *different* control** | **54** |
 | IDs that disappeared entirely | 1 (`IAM-19`) |
 | IDs that are new strings | 5 (`DCS-16`, `DCS-17`, `DCS-18`, `LOG-16`, `SEF-10`) |
 
-**23% of shared identifiers were silently repointed.** Meanwhile only one ID
+**22% of shared identifiers were silently repointed.** Meanwhile only one ID
 vanished and five appeared.
 
 ### Why the obvious check fails
@@ -100,17 +100,23 @@ Three worked examples of how badly a stale reference reads:
 
 ### Identical ID, identical title, rewritten requirement
 
-The hardest category to catch. These controls kept both their number and their
-name, but the specification text was substantially rewritten:
+The hardest category to catch. **28 controls kept both their number and their
+name while their requirement text changed materially** (below 0.95 similarity).
+The most heavily changed:
 
 | ID | Title (unchanged) | Spec similarity |
 |---|---|---|
-| `I&S-03` | Network Security | 0.24 |
-| `A&A-05` | Audit Management Process | 0.27 |
-| `IPY-04` | Data Portability Contractual Obligations | 0.28 |
 | `I&S-05` | Production and Non-Production Environments | 0.37 |
 | `I&S-08` | Network Architecture Documentation | 0.58 |
-| `TVM-03` | Vulnerability Identification | 0.63 |
+| `TVM-03` | Vulnerability Identification | 0.65 |
+| `A&A-03` | Risk Based Planning Assessment | 0.69 |
+| `BCR-06` | Business Continuity Exercises | 0.70 |
+| `LOG-04` | Audit Logs Access and Accountability | 0.73 |
+| `SEF-04` | Incident Response Testing | 0.73 |
+| `LOG-05` | Audit Logs Monitoring and Response | 0.78 |
+
+The full set, with per-control similarity, is in
+[`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) — every row marked `Rewritten`.
 
 A diff keyed on ID *or* on title sees nothing. Only the requirement text moved.
 
@@ -218,7 +224,12 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
 7. **Re-verify the parsers.** Column layouts and sheet names move between
    releases. See [`1.0.3/scripts/`](1.0.3/scripts/) and the notes in
    [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
-8. **Report the renumbering count in the PR.** "N of M shared IDs now point
+8. **Re-run [`crosswalks/check_figures.py`](crosswalks/check_figures.py).** The counts
+   in this file and the READMEs are prose, not generated, so a regenerated crosswalk
+   silently invalidates them. The checker recomputes every quoted figure from the data
+   and fails on drift — including when a reworded sentence stops matching, so the check
+   cannot quietly stop covering something.
+9. **Report the renumbering count in the PR.** "N of M shared IDs now point
    somewhere else" is the review-critical number.
 
 ### On writing AICM references anywhere
@@ -234,7 +245,7 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
 
 The crosswalk is **reconstructed, not authoritative**. CSA publishes no
 old-ID → new-ID mapping, so it is inferred from specification-text similarity.
-The 11 rows flagged `review_needed=yes` are genuine judgment calls, mostly where
+The 9 rows flagged `review_needed=yes` are genuine judgment calls, mostly where
 a control was simultaneously renumbered *and* rewritten — `IAM-02`, `SEF-07`,
 `SEF-09`, and `IAM-14`/`IAM-15` are the contested ones. Those need
 working-group confirmation before anyone relies on them for compliance
