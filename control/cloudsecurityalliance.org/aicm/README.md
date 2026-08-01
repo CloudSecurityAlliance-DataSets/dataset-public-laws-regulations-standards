@@ -60,7 +60,8 @@ Controls Matrix. Current release is **1.1.0**.
 | Path | What |
 |---|---|
 | [`VERSIONING.md`](VERSIONING.md) | What changed between releases, why ID-based diffs miss it, why the SecID version qualifier is load-bearing, and standing policy for future releases |
-| [`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) | **Per-control changelog** — every control in 1.1.0, what it was in 1.0.3, and what changed |
+| [`1.1.0/aicm-1.1.0-changelog.json`](1.1.0/aicm-1.1.0-changelog.json) | **Per-control changelog, machine-readable** — `previous_id`, `changes[]`, `spec_similarity`, `id_reuse` per control |
+| [`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) | The same for reading, plus the JSON's schema |
 | [`crosswalks/`](crosswalks/) | Content-based 1.0.3 → 1.1.0 control-ID crosswalk and the generators for it and the changelog |
 
 ## Companions
