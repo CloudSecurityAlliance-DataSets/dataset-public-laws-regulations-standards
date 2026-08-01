@@ -139,6 +139,14 @@ See [`CLAUDE.md`](CLAUDE.md) for full structural details, [`PROMPT-CLASSIFICATIO
 
 Every document directory contains a `[dirname]-metadata.json` describing the document — SecID identifier, license (SPDX), source URLs, version lifecycle, and extraction provenance. See [`METADATA-SCHEMA.md`](METADATA-SCHEMA.md) for the full schema.
 
+### Version naming
+
+Publishers frequently refer to one release by more than one version string. **The directory name uses the version the artifact states about itself** — the string inside the file, not the one on the download page — and every other label is recorded in `version_aliases`.
+
+The current CSA AICM release is the standing example: the spreadsheet stamps itself `1.1.0`, while CSA's download page, the bundle ZIP, and the PDF titles all say **v1.1**. Same release. This repo uses **`1.1.0`** as canonical and aliases **`1.1`** to it, so `control/cloudsecurityalliance.org/aicm/1.1.0/` is where all four labels resolve. See [Version aliases](METADATA-SCHEMA.md#version-aliases).
+
+A version alias is a labelling statement only — it never implies two different releases are interchangeable. AICM is also the cautionary case there: **55 control IDs mean different things in 1.0.3 and 1.1.0**, so AICM control IDs must always be cited with a version. See [`control/cloudsecurityalliance.org/aicm/VERSIONING.md`](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
+
 ## Licensing
 
 This repository contains only **publicly redistributable** content under each source's license:
