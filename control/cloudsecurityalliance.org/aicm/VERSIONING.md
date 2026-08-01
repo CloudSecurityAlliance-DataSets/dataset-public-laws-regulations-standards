@@ -203,9 +203,9 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
    CSA has published this release as both "v1.1" and "1.1.0"; expect the same
    split next time.
 3. **Generate the per-control changelog** with
-   [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) and commit it.
-   CSA's Change Log worksheet states intent, not the delta — for 1.1.0 it omitted
-   every renumbering and every rewritten specification.
+   [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) and commit it as
+   `<version>/CHANGELOG.md`. It is derived from the extractions themselves, so it
+   states the delta rather than the publisher's summary of it.
 4. **Diff by content, never by ID.** Run
    [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) against the
    previous release before doing anything else.
@@ -254,8 +254,8 @@ fix is to record the version at the time the reference is written.
 | [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, current. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
 | [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) | Content-based crosswalk generator |
 | [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | Machine-readable old-ID → new-ID mapping, one row per control |
-| [`crosswalks/aicm-1.0.3-to-1.1.0-changelog.md`](crosswalks/aicm-1.0.3-to-1.1.0-changelog.md) | **Per-control changelog** — every control in either release with a verdict, including "unchanged" |
-| [`crosswalks/aicm-1.0.3-to-1.1.0-changelog.json`](crosswalks/aicm-1.0.3-to-1.1.0-changelog.json) | Same, machine-readable |
+| [`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) | **Per-control changelog** — every control in 1.1.0, what it was in 1.0.3, what changed |
+| [`1.1.0/aicm-1.1.0-changelog.json`](1.1.0/aicm-1.1.0-changelog.json) | Same, machine-readable |
 | [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) | Generates both from the extractions + crosswalk |
 
 The AI-CAIQ companion versions in lockstep and inherits every problem on this
