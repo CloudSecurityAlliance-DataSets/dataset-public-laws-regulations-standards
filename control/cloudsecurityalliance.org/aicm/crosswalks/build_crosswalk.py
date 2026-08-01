@@ -46,7 +46,20 @@ from pathlib import Path
 
 # Minimum specification similarity for a same-domain fuzzy match to be proposed.
 # Below this the pair is reported as removed + added rather than as a rename.
+#
+# Do not lower this to catch more renames. AICM specifications share heavy
+# boilerplate ("Define, implement and evaluate processes, procedures and
+# technical measures for...") which floats unrelated controls into the 0.55-0.75
+# band: in the 1.0.3 -> 1.1.0 diff, IAM-15 scores 0.71 against the *different*
+# control that took its number, and DCS-01 scores 0.62. A looser threshold binds
+# those wrongly. Genuine renames that fall below it are caught by the mutual-best
+# pass instead, which uses relative rather than absolute evidence.
 FUZZY_MIN = 0.75
+
+# Floor for the mutual-best pass. Lower than FUZZY_MIN because the requirement
+# that each side be the other's *best* remaining candidate is itself strong
+# evidence — a wrong pairing has to beat every right one to survive.
+MUTUAL_BEST_MIN = 0.60
 
 # Similarity at or above which a reworded specification is treated as cosmetic
 # (whitespace, typo fixes) rather than a substantive requirement change.
@@ -64,7 +77,17 @@ def domain_of(control_id):
 
 
 def similarity(a, b):
-    return difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
+    """Symmetric text similarity in [0, 1].
+
+    difflib's ratio() is not symmetric — its autojunk heuristic depends on which
+    string is the "second" sequence. On the 1.0.3 -> 1.1.0 IAM-02 pair the two
+    directions give 0.702 and 0.749, straddling a threshold. Take the max so a
+    match never depends on argument order.
+    """
+    return max(
+        difflib.SequenceMatcher(None, norm(a), norm(b)).ratio(),
+        difflib.SequenceMatcher(None, norm(b), norm(a)).ratio(),
+    )
 
 
 def load_json(path):
@@ -159,6 +182,42 @@ def match_controls(old, new):
         if best_id and best_score >= FUZZY_MIN:
             matches[i] = (best_id, f"domain+fuzzy({best_score:.2f})")
             consumed.add(best_id)
+
+    # Pass 6 — mutual best match within a domain.
+    #
+    # Catches renames that a similarity floor cannot: a control whose title and
+    # wording were both generalized (1.0.3 IAM-02 "Strong Password Policy and
+    # Procedures" -> 1.1.0 IAM-02 "Credentials Management Policy and
+    # Procedures") scores only 0.75, indistinguishable on absolute similarity
+    # from boilerplate collisions between unrelated controls.
+    #
+    # What separates them is whether anything fits *better*. A pair binds only
+    # if each side is the other's top remaining candidate, so a control that has
+    # a stronger claimant elsewhere is never captured. That is what keeps
+    # 1.1.0 IAM-15 ("Authorization Mechanisms", 0.71 against the old IAM-15 that
+    # merely shares its number) bound to old IAM-16, its true predecessor.
+    leftover_new = [(i, s) for i, _t, s in new if i not in matches]
+    leftover_old = [(oi, os_) for oi, _ot, os_ in old if oi not in consumed]
+
+    def best_of(text, candidates, exclude=None):
+        ranked = [(similarity(text, other), cid)
+                  for cid, other in candidates if cid != exclude]
+        return max(ranked, default=(0.0, None))
+
+    for new_id, new_spec in leftover_new:
+        same_domain_old = [(oi, os_) for oi, os_ in leftover_old
+                           if domain_of(oi) == domain_of(new_id) and oi not in consumed]
+        score, old_id = best_of(new_spec, same_domain_old)
+        if not old_id or score < MUTUAL_BEST_MIN:
+            continue
+        # Is new_id also the old control's best remaining option?
+        same_domain_new = [(ni, ns) for ni, ns in leftover_new
+                           if domain_of(ni) == domain_of(old_id) and ni not in matches]
+        old_spec = dict(leftover_old)[old_id]
+        back_score, back_id = best_of(old_spec, same_domain_new)
+        if back_id == new_id:
+            matches[new_id] = (old_id, f"mutual-best({score:.2f})")
+            consumed.add(old_id)
 
     return matches, consumed
 
