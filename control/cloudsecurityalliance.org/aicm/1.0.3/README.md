@@ -52,6 +52,12 @@ The scripts in this directory are pinned to this release's layout: they hardcode
 four mapping frameworks and the sheet name `AI-CAIQv1.0.2`. For v1.1.0 use
 [`../1.1.0/scripts/`](../1.1.0/scripts/), which discovers both from the workbook.
 
+> **The source workbook is not archived.** It was never uploaded to S3 and is not
+> on local disk, so `scripts/parse_aicm.py` cannot be re-run — it points at a
+> bundle directory that exists nowhere. `aicm-1.0.3.json` is the only copy of this
+> data. Re-acquiring the v1.0.3 bundle is tracked in
+> [`TODO.md`](../../../../TODO.md) under *Acquisition gaps*.
+
 ## Known extraction gap
 
 `parse_llm_taxonomy` in this directory reads only the lifecycle section of the
