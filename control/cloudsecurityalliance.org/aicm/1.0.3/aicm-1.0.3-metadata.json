@@ -9,7 +9,7 @@
   "publication_id": "AICM-1.0.3",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "CSA AI Controls Matrix v1.0.3 \u2014 current AICM release. 243 controls across 18 domains, with cross-framework mappings to AI-specific frameworks (BSI AI C4, EU AI Act, ISO/IEC 42001:2023, NIST AI 600-1). Companion to CCM for general-cloud-security controls; AICM adds AI-specific overlays.",
+  "description": "CSA AI Controls Matrix v1.0.3 — current AICM release. 243 controls across 18 domains, with cross-framework mappings to AI-specific frameworks (BSI AI C4, EU AI Act, ISO/IEC 42001:2023, NIST AI 600-1). Companion to CCM for general-cloud-security controls; AICM adds AI-specific overlays.",
   "relationToCloudSecurity": "AICM controls layer on top of cloud-platform controls (covered by CCM). For AI workloads in cloud, both frameworks apply together.",
   "relationToAISecurity": "AICM is THE current cloud-industry AI controls catalog. Mapped to the four major AI-specific frameworks listed above. Used in CSA STAR Registry self-assessments for AI services.",
   "license": {
@@ -27,10 +27,10 @@
   "lifecycle": {
     "published": "2024",
     "active": true,
-    "supersedes": "AICM 1.0.0\u20131.0.2",
+    "supersedes": "AICM 1.0.0–1.0.2",
     "supersededBy": "AICM 1.1.0 (released 2026-06-22)",
     "retiredFromActiveUse": null,
-    "notes": "Superseded by AICM 1.1.0. Still the right anchor for any assessment authored against 1.0.3 \u2014 control IDs were renumbered in 1.1.0 and are not interchangeable. See ../VERSIONING.md."
+    "notes": "Superseded by AICM 1.1.0. Still the right anchor for any assessment authored against 1.0.3 — control IDs were renumbered in 1.1.0 and are not interchangeable. See ../VERSIONING.md."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -59,7 +59,7 @@
       "NIST AI 600-1"
     ]
   },
-  "notes": "Control IDs in this version are NOT interchangeable with AICM 1.1.0 — 55 of the 242 shared IDs designate a different control there. Migrate references through ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv, never by string match. See ../VERSIONING.md.",
+  "notes": "Control IDs in this version are NOT interchangeable with AICM 1.1.0 — 54 of the 242 shared IDs designate a different control there. Migrate references through ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv, never by string match. See ../VERSIONING.md.",
   "desired_end_state": {
     "state": "fully-extracted",
     "reason": "complete",
