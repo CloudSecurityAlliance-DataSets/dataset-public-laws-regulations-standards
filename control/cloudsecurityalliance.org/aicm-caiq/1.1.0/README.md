@@ -26,9 +26,12 @@ numbers its questions differently (see the warning above).
 > moved with them.** `LOG-15.1` asks about Output Monitoring under v1.0.2 and
 > Input Monitoring under v1.1.0.
 >
-> A completed v1.0.2 questionnaire cannot be re-scored against v1.1.0 by
-> matching question IDs. Migrate the parent controls through
-> [`../../aicm/crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](../../aicm/crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv).
+> **63 of the 302 question IDs shared with v1.0.2 now ask a different question**,
+> and 48 more were materially reworded under the same ID. A completed v1.0.2
+> questionnaire cannot be re-scored against v1.1.0 by matching question IDs.
+>
+> Per-question detail: [`CHANGELOG.md`](CHANGELOG.md). Migrate through the
+> [question crosswalk](../../aicm/crosswalks/aicm-caiq-1.0.2-to-1.1.0-crosswalk.csv).
 >
 > Full analysis: [`../../aicm/VERSIONING.md`](../../aicm/VERSIONING.md)
 
@@ -39,6 +42,8 @@ There is no AI-CAIQ 1.0.3.
 
 | File | What |
 |---|---|
+| `aicm-caiq-1.1.0-changelog.json` | **Per-question changelog, machine-readable** — `previous_question_id`, `changes[]`, `text_similarity`, `id_reuse` |
+| `CHANGELOG.md` | The same for reading, with the JSON's schema |
 | `aicm-caiq-1.1.0.json` | 320 questions, each enriched with its full parent AICM control record |
 | `aicm-caiq-1.1.0-questions.csv` | Flat view — one row per question with its parent control's identifying fields |
 | `aicm-caiq-1.1.0-metadata.json` | Document metadata and licence |

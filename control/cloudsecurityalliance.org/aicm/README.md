@@ -68,7 +68,7 @@ Controls Matrix. Current release is **1.1.0**.
 
 | | |
 |---|---|
-| [`../aicm-caiq/`](../aicm-caiq/) | AI-CAIQ — the vendor self-assessment questionnaire derived from AICM. Versions in lockstep and inherits the ID-renumbering problem, since question IDs derive from control IDs. |
+| [`../aicm-caiq/`](../aicm-caiq/) | AI-CAIQ — the vendor self-assessment questionnaire derived from AICM. Versions in lockstep and inherits the ID-renumbering problem: **63 question IDs now ask a different question**. See [`../aicm-caiq/1.1.0/CHANGELOG.md`](../aicm-caiq/1.1.0/CHANGELOG.md). |
 | [`../ccm/`](../ccm/) | Cloud Controls Matrix — the general cloud-security controls AICM layers on top of. Use both together for AI workloads in cloud. |
 
 Guidance documents shipped in the AICM v1.1 bundle are extracted under
