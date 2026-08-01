@@ -202,18 +202,22 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
    download page, and record every other label CSA uses in `version_aliases`.
    CSA has published this release as both "v1.1" and "1.1.0"; expect the same
    split next time.
-3. **Diff by content, never by ID.** Run
+3. **Generate the per-control changelog** with
+   [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) and commit it.
+   CSA's Change Log worksheet states intent, not the delta — for 1.1.0 it omitted
+   every renumbering and every rewritten specification.
+4. **Diff by content, never by ID.** Run
    [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) against the
    previous release before doing anything else.
-4. **Commit the crosswalk** as `crosswalks/aicm-<old>-to-<new>-crosswalk.csv`.
+5. **Commit the crosswalk** as `crosswalks/aicm-<old>-to-<new>-crosswalk.csv`.
    It is the only artifact that lets a downstream consumer migrate stored
    references, and CSA does not publish one.
-5. **Read the change log, then distrust it.** It records intent. It has already
+6. **Read the change log, then distrust it.** It records intent. It has already
    proven silent on renumbering and wrong about mapping coverage.
-6. **Re-verify the parsers.** Column layouts and sheet names move between
+7. **Re-verify the parsers.** Column layouts and sheet names move between
    releases. See [`1.0.3/scripts/`](1.0.3/scripts/) and the notes in
    [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
-7. **Report the renumbering count in the PR.** "N of M shared IDs now point
+8. **Report the renumbering count in the PR.** "N of M shared IDs now point
    somewhere else" is the review-critical number.
 
 ### On writing AICM references anywhere
@@ -249,7 +253,10 @@ fix is to record the version at the time the reference is written.
 | [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls. Last release carrying NIST AI 600-1 mappings. [README](1.0.3/README.md) |
 | [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, current. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
 | [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) | Content-based crosswalk generator |
-| [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | 250 rows: every control's fate across the release |
+| [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | Machine-readable old-ID → new-ID mapping, one row per control |
+| [`crosswalks/aicm-1.0.3-to-1.1.0-changelog.md`](crosswalks/aicm-1.0.3-to-1.1.0-changelog.md) | **Per-control changelog** — every control in either release with a verdict, including "unchanged" |
+| [`crosswalks/aicm-1.0.3-to-1.1.0-changelog.json`](crosswalks/aicm-1.0.3-to-1.1.0-changelog.json) | Same, machine-readable |
+| [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) | Generates both from the extractions + crosswalk |
 
 The AI-CAIQ companion versions in lockstep and inherits every problem on this
 page — question IDs are derived from control IDs, so `LOG-15.1` moved too. See
