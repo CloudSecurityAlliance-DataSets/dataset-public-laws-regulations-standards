@@ -33,17 +33,17 @@
     "notes": "Superseded by AICM 1.1.0. Still the right anchor for any assessment authored against 1.0.3 — control IDs were renumbered in 1.1.0 and are not interchangeable. See ../VERSIONING.md."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
+    "s3_timestamp": null,
     "tool": "manual download from upstream",
     "tool_version": "n/a",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Parsed JSON of AICM v1.0.3 with full control set and cross-framework mappings."
+    "notes": "Parsed JSON of AICM v1.0.3 with full control set and cross-framework mappings. SOURCE NOT ARCHIVED: the v1.0.3 workbook was never uploaded to S3 and is not on local disk, so this extraction cannot currently be regenerated from source. The committed JSON is the only copy of the data. Tracked in TODO.md under Acquisition gaps."
   },
   "extraction_history": [
     {
-      "s3_timestamp": "unknown",
+      "s3_timestamp": null,
       "status": "current",
       "reason": "Current AICM release",
       "tool": "manual"
