@@ -50,6 +50,58 @@ Several values can apply at once — a control may be renumbered *and* retitled 
 rewritten. The **Notes** column carries the ID-reuse warning, which is independent of
 everything else: it describes what happened to the *identifier*, not to the control.
 
+## Machine-readable form
+
+The same data, with more of it, is in
+[`aicm-1.1.0-changelog.json`](aicm-1.1.0-changelog.json) — use that
+rather than parsing this table. It carries the numeric specification similarity and
+the structured `id_reuse` object, both of which are flattened into prose here.
+
+```jsonc
+{
+  "specification_name": "AI Controls Matrix",
+  "version":          "1.1.0",   // the release this changelog describes
+  "compared_against": "1.0.3",   // the release it is diffed against
+  "summary":  { /* counts */ },   // the figures in "The short version" above
+  "controls": [ /* ... */ ],      // one entry per control in this release
+  "removed":  [ /* ... */ ]       // controls with no successor in this release
+}
+```
+
+Each entry in `controls`:
+
+| Field | Type | Meaning |
+|---|---|---|
+| `id` | string | Control identifier in 1.1.0 |
+| `domain` | string | Domain code, e.g. `LOG`. Note `A&A` and `I&S` contain an ampersand |
+| `title` | string | Control title in 1.1.0 |
+| `previous_id` | string \| null | Identifier in 1.0.3; `null` if the control is new |
+| `previous_title` | string \| null | Title in 1.0.3; `null` if the control is new |
+| `status` | string | `unchanged`, `changed`, or `new` |
+| `changes` | array | Any of `renumbered`, `retitled`, `rewritten`, `edited`. Empty when `unchanged` or `new` |
+| `spec_similarity` | number \| null | 0-1 similarity of the requirement text against 1.0.3. `null` for new controls. Below 0.95 is classed `rewritten` |
+| `id_reuse` | object \| null | Non-null when **this identifier designated a different control** before. See below |
+| `heuristic_match` | boolean | True where the old/new pairing was inferred rather than certain |
+
+`id_reuse`, when present:
+
+| Field | Meaning |
+|---|---|
+| `previously_designated` | Title this identifier carried in 1.0.3 |
+| `that_control_is_now` | Where that control lives in 1.1.0, or `null` if it was removed |
+
+Each entry in `removed` carries `id`, `domain`, `title`, the full `specification`
+text, and `id_reassigned_to` — the title the identifier now points at, or `null` if
+the identifier is unused.
+
+Finding every control whose identifier changed meaning is therefore:
+
+```python
+import json
+changelog = json.load(open("aicm-1.1.0-changelog.json"))
+repointed = [c for c in changelog["controls"] if c["id_reuse"]]
+```
+
 ## Controls
 
 | 1.1.0 ID | Title | Was in 1.0.3 | What changed | Notes |
