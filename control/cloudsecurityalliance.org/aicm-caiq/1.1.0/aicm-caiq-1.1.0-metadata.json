@@ -7,6 +7,11 @@
     "AI CAIQ v1.1"
   ],
   "version": "1.1.0",
+  "version_aliases": [
+    "1.1",
+    "v1.1",
+    "v1.1.0"
+  ],
   "publication_id": "AICM-CAIQ-1.1.0",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",

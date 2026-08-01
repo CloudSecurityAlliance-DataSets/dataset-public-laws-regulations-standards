@@ -23,6 +23,17 @@ must do about it — on the assumption that **it will happen again in v1.2**.
 | Domains | 18 | 18 |
 | Released | 2025-11-10 | 2026-06-22 |
 
+> **A note on "1.1" vs "1.1.0".** CSA's download page brands this release
+> "v1.1"; the spreadsheet stamps itself `1.1.0`. These are the same release.
+> **This repo uses `1.1.0` as canonical and aliases `1.1` to it**, because the
+> artifact's own internal version string is what a consumer parsing the file
+> sees, and because it keeps the version sort stable against `1.0.3` and
+> `0.0.2`. Both forms are recorded in `version_aliases` in the metadata; see
+> [`1.1.0/README.md`](1.1.0/README.md#version-naming-and-aliases).
+>
+> This is a *labelling* alias. It says nothing about compatibility — which is
+> the entire subject of the rest of this page.
+
 Reconstructed by content-matching the two releases
 ([`crosswalks/`](crosswalks/)):
 
@@ -187,18 +198,22 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
 
 1. **Never overwrite a version directory.** New release, new directory. This is
    already the repo convention and this is the reason for it.
-2. **Diff by content, never by ID.** Run
+2. **Name the directory from the artifact's own version stamp**, not the
+   download page, and record every other label CSA uses in `version_aliases`.
+   CSA has published this release as both "v1.1" and "1.1.0"; expect the same
+   split next time.
+3. **Diff by content, never by ID.** Run
    [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) against the
    previous release before doing anything else.
-3. **Commit the crosswalk** as `crosswalks/aicm-<old>-to-<new>-crosswalk.csv`.
+4. **Commit the crosswalk** as `crosswalks/aicm-<old>-to-<new>-crosswalk.csv`.
    It is the only artifact that lets a downstream consumer migrate stored
    references, and CSA does not publish one.
-4. **Read the change log, then distrust it.** It records intent. It has already
+5. **Read the change log, then distrust it.** It records intent. It has already
    proven silent on renumbering and wrong about mapping coverage.
-5. **Re-verify the parsers.** Column layouts and sheet names move between
+6. **Re-verify the parsers.** Column layouts and sheet names move between
    releases. See [`1.0.3/scripts/`](1.0.3/scripts/) and the notes in
    [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json).
-6. **Report the renumbering count in the PR.** "N of M shared IDs now point
+7. **Report the renumbering count in the PR.** "N of M shared IDs now point
    somewhere else" is the review-critical number.
 
 ### On writing AICM references anywhere
