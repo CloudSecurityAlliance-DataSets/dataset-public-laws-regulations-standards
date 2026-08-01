@@ -29,7 +29,7 @@ Controls Matrix. Current release is **1.1.0**.
 
 > ## ⚠️ Control IDs are not stable between 1.0.3 and 1.1.0
 >
-> CSA renumbered controls in place in 1.1.0. **55 of the 242 control IDs shared
+> CSA renumbered controls in place in 1.1.0. **54 of the 242 control IDs shared
 > between the two releases now designate a different control.**
 >
 > | ID | means in 1.0.3 | means in 1.1.0 |

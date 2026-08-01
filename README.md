@@ -11,7 +11,7 @@ Public repository of bulk-processed laws, regulations, standards, frameworks, an
 > | AICM **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm/1.1.0/`](control/cloudsecurityalliance.org/aicm/1.1.0/) — the spreadsheet stamps itself `1.1.0`; CSA's download page says "v1.1". Same release. |
 > | AI-CAIQ **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm-caiq/1.1.0/`](control/cloudsecurityalliance.org/aicm-caiq/1.1.0/) — same split, versions in lockstep with AICM. |
 >
-> **A version alias is a labelling statement, never a compatibility claim.** Different releases of the same document are not interchangeable — and in AICM's case emphatically not: **55 control IDs designate a different control in 1.1.0 than in 1.0.3**, so AICM control IDs must always be cited with a version. See [AICM versioning](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
+> **A version alias is a labelling statement, never a compatibility claim.** Different releases of the same document are not interchangeable — and in AICM's case emphatically not: **54 control IDs designate a different control in 1.1.0 than in 1.0.3**, so AICM control IDs must always be cited with a version. See [AICM versioning](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
 
 ## What's Here
 
