@@ -141,6 +141,7 @@ Scripts, source files retaining publisher's exact filename (XLSX, PDF source), a
 | Field | Type | Description |
 |---|---|---|
 | `alternate_names` | array | Other names/aliases practitioners use. |
+| `version_aliases` | array | Other version strings that denote this same release. See [Version aliases](#version-aliases). |
 | `publication_id` | string | Publisher's exact publication identifier (e.g., `NIST.CSWP.29`, `PCI-DSS-v4_0_1`). |
 | `relationToCloudSecurity` | string | How this affects cloud security. |
 | `relationToAISecurity` | string | How this affects AI security. |
@@ -154,6 +155,47 @@ Scripts, source files retaining publisher's exact filename (XLSX, PDF source), a
 |---|---|---|
 | `scope` | object | Source-specific stats (number of controls, requirements, articles, etc.). |
 | `notes` | string | Free-text additional info. |
+
+### Version aliases
+
+Publishers routinely refer to one release by more than one version string —
+a download page says "v1.1" while the file inside says "1.1.0", or a spec is
+cited both as `4.0.1` and `v4_0_1`. The directory name picks one; `version_aliases`
+records the others so a lookup on any of them lands on the right release.
+
+**Rule: the directory and the `version` field use the version the artifact states
+about itself** — the string inside the file, not the one on the download page.
+Marketing pages round and abbreviate; the artifact's internal stamp is what a
+consumer parsing the file will actually see. Everything else goes in
+`version_aliases`.
+
+```json
+"version": "1.1.0",
+"version_aliases": ["1.1", "v1.1", "v1.1.0"],
+```
+
+Worked example — CSA AICM v1.1:
+
+| Where | String |
+|---|---|
+| Cell A1 of every worksheet | `{"specification_version":"1.1.0"}` |
+| Spreadsheet filename | `AICMv1.1.0-generated_at_2026_06_18.xlsx` |
+| CSA artifact / download page | "AI Controls Matrix **v1.1**" |
+| Bundle ZIP and PDF titles | "AICM **v1.1**" |
+
+The artifact stamps itself `1.1.0`, so the directory is `aicm/1.1.0/`, `version`
+is `"1.1.0"`, and `"1.1"` is an alias. This also matches the sibling releases
+(`1.0.3`, `0.0.2`), keeping the version sort stable across the source.
+
+Aliases are for the *same* release under a different label. They are **not** a
+compatibility claim: two genuinely different releases never alias to each other,
+however similar their numbers look.
+
+Note that the `v` prefix is a directory-naming convention that varies by
+publisher and by SecID type root, not part of the version itself — PCI uses
+`v4.0.1`, NIST uses `r5`, CSA control frameworks use bare `1.1.0` while CSA
+guidance documents under `reference/` use `v1.1`. List both forms as aliases
+when the distinction could trip up a lookup.
 
 ### License Object
 

@@ -5,6 +5,18 @@
 The vendor self-assessment questionnaire companion to
 [AICM v1.1.0](../../aicm/1.1.0/). Used for CSA STAR for AI Level 1 submissions.
 
+**Also known as AI-CAIQ 1.1.** The workbook stamps itself `1.1.0`; the bundle it
+ships in is branded "v1.1". We use **1.1.0** as canonical and alias 1.1 to it,
+matching the parent AICM. Recorded as `version_aliases` in the metadata:
+
+```json
+"version": "1.1.0",
+"version_aliases": ["1.1", "v1.1", "v1.1.0"],
+```
+
+A labelling alias only — it implies nothing about compatibility with 1.0.2, which
+numbers its questions differently (see the warning above).
+
 > ## ⚠️ Question IDs changed meaning in this release
 >
 > **AI-CAIQ v1.1.0 question IDs are not interchangeable with v1.0.2 question IDs.**

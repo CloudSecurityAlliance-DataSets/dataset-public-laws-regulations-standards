@@ -2,6 +2,10 @@
 
 `secid:control/cloudsecurityalliance.org/aicm@1.1.0` · 247 controls · 18 domains · published 2026-06-22
 
+**Also known as AICM 1.1.** CSA's download page calls this release "v1.1"; the
+spreadsheet calls itself `1.1.0`. Same release, two labels — we use **1.1.0** and
+alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) below.
+
 > ## ⚠️ Control IDs changed meaning in this release
 >
 > **AICM v1.1.0 control IDs are not interchangeable with v1.0.3 control IDs.**
@@ -57,6 +61,39 @@ cd scripts
 ./parse_aicm.py --input AICMv1.1.0-generated_at_2026_06_18.xlsx
 ./parse_caiq.py --input AI_CAIQv1.1.0-star_security_questionnaire-generated_at_2026_06_18.xlsx
 ```
+
+## Version naming and aliases
+
+CSA labels this release two ways, and both are in circulation:
+
+| Where | String |
+|---|---|
+| Cell A1 of every worksheet | `{"specification_version":"1.1.0"}` |
+| Spreadsheet filename | `AICMv1.1.0-generated_at_2026_06_18.xlsx` |
+| CSA artifact / download page | "AI Controls Matrix **v1.1**" |
+| Bundle ZIP and PDF titles | "AICM **v1.1**" |
+
+**We use `1.1.0` as canonical and alias `1.1` to it.** The artifact's own internal
+stamp wins over the download page, because that is the string a consumer parsing
+the file will actually encounter — and it keeps the version sort stable against
+the sibling releases `1.0.3` and `0.0.2`.
+
+Recorded machine-readably in `aicm-1.1.0-metadata.json`:
+
+```json
+"version": "1.1.0",
+"version_aliases": ["1.1", "v1.1", "v1.1.0"],
+```
+
+So `AICM 1.1`, `AICM v1.1`, and `AICM 1.1.0` all denote **this** directory. Note
+this is a labelling alias only — it says nothing about compatibility with 1.0.3,
+which is a genuinely different release (see the warning above).
+
+One wrinkle worth knowing: the three guidance PDFs from this bundle live under
+`reference/` in directories named `v1.1`, not `1.1.0`. That follows the existing
+`reference/` convention (`ccm-implementation-guidelines/v2.0-20240528`) and the
+fact that those documents title themselves "v1.1". Different directory string,
+same release.
 
 ## What else differs from v1.0.3
 
