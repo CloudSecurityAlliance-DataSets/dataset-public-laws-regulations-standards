@@ -1,17 +1,19 @@
 {
-  "old_version": "1.0.3",
-  "new_version": "1.1.0",
+  "specification_name": "AI Controls Matrix",
+  "version": "1.1.0",
+  "compared_against": "1.0.3",
   "summary": {
-    "changed": 114,
+    "total": 247,
     "unchanged": 127,
-    "added": 6,
+    "changed": 114,
+    "new": 6,
     "removed": 2,
     "renumbered": 53,
     "retitled": 13,
     "rewritten": 34,
-    "text-tidied": 35,
+    "edited": 35,
     "id_reuse": 54,
-    "review_needed": 9
+    "ids_absent_from_new": 1
   },
   "controls": [
     {
@@ -19,3206 +21,3391 @@
       "domain": "A&A",
       "title": "Audit and Assurance Policy and Procedures",
       "previous_id": "A&A-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Audit and Assurance Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Audit and Assurance Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "A&A-02",
       "domain": "A&A",
       "title": "Independent Assessments",
       "previous_id": "A&A-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Independent Assessments",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Independent Assessments"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "A&A-03",
       "domain": "A&A",
       "title": "Risk Based Planning Assessment",
       "previous_id": "A&A-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Risk Based Planning Assessment",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.689,
-      "previous_title": "Risk Based Planning Assessment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "A&A-04",
       "domain": "A&A",
       "title": "Requirements Compliance",
       "previous_id": "A&A-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Requirements Compliance",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Requirements Compliance"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "A&A-05",
       "domain": "A&A",
       "title": "Audit Management Process",
       "previous_id": "A&A-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Audit Management Process",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.974,
-      "previous_title": "Audit Management Process"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "A&A-06",
       "domain": "A&A",
       "title": "Remediation",
       "previous_id": "A&A-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Remediation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Remediation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-01",
       "domain": "AIS",
       "title": "Application and Interface Security Policy and Procedures",
       "previous_id": "AIS-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Application and Interface Security Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.943,
-      "previous_title": "Application and Interface Security Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "AIS-02",
       "domain": "AIS",
       "title": "Application Security Baseline Requirements",
       "previous_id": "AIS-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Application Security Baseline Requirements",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.994,
-      "previous_title": "Application Security Baseline Requirements"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "AIS-03",
       "domain": "AIS",
       "title": "Application Security Metrics",
       "previous_id": "AIS-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Application Security Metrics",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Application Security Metrics"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-04",
       "domain": "AIS",
       "title": "Secure Application Development Lifecycle",
       "previous_id": "AIS-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Application Development Lifecycle",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.861,
-      "previous_title": "Secure Application Development Lifecycle"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "AIS-05",
       "domain": "AIS",
       "title": "Application Security Testing",
       "previous_id": "AIS-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Application Security Testing",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Application Security Testing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-06",
       "domain": "AIS",
       "title": "Secure Application Deployment",
       "previous_id": "AIS-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Secure Application Deployment",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Application Deployment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-07",
       "domain": "AIS",
       "title": "Application Vulnerability Remediation",
       "previous_id": "AIS-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Application Vulnerability Remediation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Application Vulnerability Remediation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-08",
       "domain": "AIS",
       "title": "API Security",
       "previous_id": "AIS-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "API Security",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.951,
-      "previous_title": "API Security",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Input Validation",
         "that_control_is_now": "AIS-09"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "AIS-09",
       "domain": "AIS",
       "title": "Input Validation",
       "previous_id": "AIS-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Input Validation",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.995,
-      "previous_title": "Input Validation",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Output Validation",
         "that_control_is_now": "AIS-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "AIS-10",
       "domain": "AIS",
       "title": "Output Validation",
       "previous_id": "AIS-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Output Validation",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Output Validation",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "API Security",
         "that_control_is_now": "AIS-08"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "AIS-11",
       "domain": "AIS",
       "title": "Agents Security Boundaries",
       "previous_id": "AIS-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Agents Security Boundaries",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Agents Security Boundaries"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-12",
       "domain": "AIS",
       "title": "Source Code Management",
       "previous_id": "AIS-12",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Source Code Managemement",
       "changes": [
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Source Code Managemement"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "AIS-13",
       "domain": "AIS",
       "title": "AI Sandboxing",
       "previous_id": "AIS-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "AI Sandboxing",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "AI Sandboxing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-14",
       "domain": "AIS",
       "title": "AI Cache Protection",
       "previous_id": "AIS-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "AI Cache Protection",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "AI Cache Protection"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "AIS-15",
       "domain": "AIS",
       "title": "Prompt Differentiation",
       "previous_id": "AIS-15",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Prompt Differentation",
       "changes": [
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Prompt Differentation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-01",
       "domain": "BCR",
       "title": "Business Continuity Management Policy and Procedures",
       "previous_id": "BCR-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Business Continuity Management Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.918,
-      "previous_title": "Business Continuity Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-02",
       "domain": "BCR",
       "title": "Risk Assessment and Impact Analysis",
       "previous_id": "BCR-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Risk Assessment and Impact Analysis",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Risk Assessment and Impact Analysis"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-03",
       "domain": "BCR",
       "title": "Business Continuity Strategy",
       "previous_id": "BCR-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Business Continuity Strategy",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Business Continuity Strategy"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "BCR-04",
       "domain": "BCR",
       "title": "Business Continuity Planning",
       "previous_id": "BCR-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Business Continuity Planning",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Business Continuity Planning"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "BCR-05",
       "domain": "BCR",
       "title": "Documentation",
       "previous_id": "BCR-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Documentation",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.983,
-      "previous_title": "Documentation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-06",
       "domain": "BCR",
       "title": "Business Continuity Exercises",
       "previous_id": "BCR-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Business Continuity Exercises",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.699,
-      "previous_title": "Business Continuity Exercises"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-07",
       "domain": "BCR",
       "title": "Communication",
       "previous_id": "BCR-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Communication",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Communication"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "BCR-08",
       "domain": "BCR",
       "title": "Backup",
       "previous_id": "BCR-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Backup",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Backup"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "BCR-09",
       "domain": "BCR",
       "title": "Disaster Response Plan",
       "previous_id": "BCR-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Disaster Response Plan",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Disaster Response Plan"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-10",
       "domain": "BCR",
       "title": "Response Plan Exercise",
       "previous_id": "BCR-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Response Plan Exercise",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.986,
-      "previous_title": "Response Plan Exercise"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "BCR-11",
       "domain": "BCR",
       "title": "Equipment Redundancy",
       "previous_id": "BCR-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Equipment Redundancy",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Equipment Redundancy"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-01",
       "domain": "CCC",
       "title": "Change Management Policy and Procedures",
       "previous_id": "CCC-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Change Management Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Change Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-02",
       "domain": "CCC",
       "title": "Quality Testing",
       "previous_id": "CCC-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Quality Testing",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Quality Testing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-03",
       "domain": "CCC",
       "title": "Change Management Technology",
       "previous_id": "CCC-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Change Management Technology",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Change Management Technology"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-04",
       "domain": "CCC",
       "title": "Unauthorized Change Protection",
       "previous_id": "CCC-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Change Authorization",
       "changes": [
         "retitled",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.954,
-      "previous_title": "Change Authorization"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CCC-05",
       "domain": "CCC",
       "title": "Change Agreements",
       "previous_id": "CCC-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Change Agreements",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.96,
-      "previous_title": "Change Agreements"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CCC-06",
       "domain": "CCC",
       "title": "Change Management Baseline",
       "previous_id": "CCC-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Change Management Baseline",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.85,
-      "previous_title": "Change Management Baseline"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CCC-07",
       "domain": "CCC",
       "title": "Detection of Baseline Deviation",
       "previous_id": "CCC-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Detection of Baseline Deviation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Detection of Baseline Deviation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-08",
       "domain": "CCC",
       "title": "Exception Management",
       "previous_id": "CCC-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Exception Management",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Exception Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CCC-09",
       "domain": "CCC",
       "title": "Change Restoration",
       "previous_id": "CCC-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Change Restoration",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Change Restoration"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-01",
       "domain": "CEK",
       "title": "Encryption and Key Management Policy and Procedures",
       "previous_id": "CEK-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Encryption and Key Management Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Encryption and Key Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CEK-02",
       "domain": "CEK",
       "title": "CEK Roles and Responsibilities",
       "previous_id": "CEK-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "CEK Roles and Responsibilities",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "CEK Roles and Responsibilities"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-03",
       "domain": "CEK",
       "title": "Data Protection",
       "previous_id": "CEK-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Data Encryption",
       "changes": [
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Data Encryption"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CEK-04",
       "domain": "CEK",
       "title": "Encryption Algorithm",
       "previous_id": "CEK-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Encryption Algorithm",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption Algorithm"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-05",
       "domain": "CEK",
       "title": "Encryption Change Management",
       "previous_id": "CEK-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Encryption Change Management",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption Change Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-06",
       "domain": "CEK",
       "title": "Encryption Change Cost Benefit Analysis",
       "previous_id": "CEK-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Encryption Change Cost Benefit Analysis",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption Change Cost Benefit Analysis"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-07",
       "domain": "CEK",
       "title": "Encryption Risk Management",
       "previous_id": "CEK-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Encryption Risk Management",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption Risk Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-08",
       "domain": "CEK",
       "title": "Service Customer Key Management Capability",
       "previous_id": "CEK-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Customer Key Management Capability",
       "changes": [
         "retitled",
         "rewritten"
       ],
       "spec_similarity": 0.921,
-      "previous_title": "Customer Key Management Capability"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "CEK-09",
       "domain": "CEK",
       "title": "Encryption and Key Management Audit",
       "previous_id": "CEK-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Encryption and Key Management Audit",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption and Key Management Audit"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-10",
       "domain": "CEK",
       "title": "Key Generation",
       "previous_id": "CEK-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Generation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Generation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-11",
       "domain": "CEK",
       "title": "Key Purpose",
       "previous_id": "CEK-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Purpose",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Purpose"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-12",
       "domain": "CEK",
       "title": "Key Rotation",
       "previous_id": "CEK-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Rotation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Rotation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-13",
       "domain": "CEK",
       "title": "Key Revocation",
       "previous_id": "CEK-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Revocation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Revocation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-14",
       "domain": "CEK",
       "title": "Key Destruction",
       "previous_id": "CEK-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Destruction",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Destruction"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-15",
       "domain": "CEK",
       "title": "Key Activation",
       "previous_id": "CEK-15",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Activation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Activation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-16",
       "domain": "CEK",
       "title": "Key Suspension",
       "previous_id": "CEK-16",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Suspension",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Suspension"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-17",
       "domain": "CEK",
       "title": "Key Deactivation",
       "previous_id": "CEK-17",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Deactivation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Deactivation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-18",
       "domain": "CEK",
       "title": "Key Archival",
       "previous_id": "CEK-18",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Archival",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Archival"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-19",
       "domain": "CEK",
       "title": "Key Compromise",
       "previous_id": "CEK-19",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Compromise",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Compromise"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-20",
       "domain": "CEK",
       "title": "Key Recovery",
       "previous_id": "CEK-20",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Recovery",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Recovery"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "CEK-21",
       "domain": "CEK",
       "title": "Key Inventory Management",
       "previous_id": "CEK-21",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Key Inventory Management",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Key Inventory Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DCS-01",
       "domain": "DCS",
       "title": "Physical and Environmental Security Policy and Procedures",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null,
+      "heuristic_match": true,
       "id_reuse": {
         "previously_designated": "Off-Site Equipment Disposal Policy and Procedures",
         "that_control_is_now": "DCS-02"
-      }
+      },
+      "status": "new"
     },
     {
       "id": "DCS-02",
       "domain": "DCS",
       "title": "Off-Site Equipment Disposal Policy and Procedures",
       "previous_id": "DCS-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Off-Site Equipment Disposal Policy and Procedures",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Off-Site Equipment Disposal Policy and Procedures",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Off-Site Transfer Authorization Policy and Procedures",
         "that_control_is_now": "DCS-03"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-03",
       "domain": "DCS",
       "title": "Off-Site Transfer Authorization Policy and Procedures",
       "previous_id": "DCS-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Off-Site Transfer Authorization Policy and Procedures",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Off-Site Transfer Authorization Policy and Procedures",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Secure Area Policy and Procedures",
         "that_control_is_now": "DCS-04"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-04",
       "domain": "DCS",
       "title": "Secure Area Policy and Procedures",
       "previous_id": "DCS-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Area Policy and Procedures",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Area Policy and Procedures",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Secure Media Transportation Policy and Procedures",
         "that_control_is_now": "DCS-05"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-05",
       "domain": "DCS",
       "title": "Secure Media Transportation Policy and Procedures",
       "previous_id": "DCS-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Media Transportation Policy and Procedures",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Media Transportation Policy and Procedures",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Assets Classification",
         "that_control_is_now": "DCS-06"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-06",
       "domain": "DCS",
       "title": "Assets Classification",
       "previous_id": "DCS-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Assets Classification",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Assets Classification",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Assets Cataloguing and Tracking",
         "that_control_is_now": "DCS-07"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-07",
       "domain": "DCS",
       "title": "Assets Cataloguing and Tracking",
       "previous_id": "DCS-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Assets Cataloguing and Tracking",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.995,
-      "previous_title": "Assets Cataloguing and Tracking",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Controlled Physical Access Points",
         "that_control_is_now": "DCS-08"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-08",
       "domain": "DCS",
       "title": "Controlled Physical Access Points",
       "previous_id": "DCS-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Controlled Physical Access Points",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Controlled Physical Access Points",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Equipment Identification",
         "that_control_is_now": "DCS-09"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-09",
       "domain": "DCS",
       "title": "Equipment Identification",
       "previous_id": "DCS-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Equipment Identification",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Equipment Identification",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Secure Area Authorization",
         "that_control_is_now": "DCS-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-10",
       "domain": "DCS",
       "title": "Secure Area Authorization",
       "previous_id": "DCS-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Area Authorization",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Area Authorization",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Surveillance System",
         "that_control_is_now": "DCS-11"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-11",
       "domain": "DCS",
       "title": "Surveillance System",
       "previous_id": "DCS-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Surveillance System",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Surveillance System",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Adverse Event Response Training",
         "that_control_is_now": "DCS-12"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-12",
       "domain": "DCS",
       "title": "Adverse Event Response Training",
       "previous_id": "DCS-11",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Adverse Event Response Training",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Adverse Event Response Training",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Cabling Security",
         "that_control_is_now": "DCS-13"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-13",
       "domain": "DCS",
       "title": "Cabling Security",
       "previous_id": "DCS-12",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Cabling Security",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Cabling Security",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Environmental Systems",
         "that_control_is_now": "DCS-14"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-14",
       "domain": "DCS",
       "title": "Environmental Systems",
       "previous_id": "DCS-13",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Environmental Systems",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Environmental Systems",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Secure Utilities",
         "that_control_is_now": "DCS-15"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-15",
       "domain": "DCS",
       "title": "Secure Utilities",
       "previous_id": "DCS-14",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Utilities",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Utilities",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Equipment Location",
         "that_control_is_now": "DCS-16"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "DCS-16",
       "domain": "DCS",
       "title": "Equipment Location",
       "previous_id": "DCS-15",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Equipment Location",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Equipment Location"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DCS-17",
       "domain": "DCS",
       "title": "Datacenter Metrics",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null
+      "heuristic_match": true,
+      "id_reuse": null,
+      "status": "new"
     },
     {
       "id": "DCS-18",
       "domain": "DCS",
       "title": "Datacenter Operations Resilience",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null
+      "heuristic_match": true,
+      "id_reuse": null,
+      "status": "new"
     },
     {
       "id": "DSP-01",
       "domain": "DSP",
       "title": "Security and Privacy Policy and Procedures",
       "previous_id": "DSP-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Security and Privacy Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.92,
-      "previous_title": "Security and Privacy Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DSP-02",
       "domain": "DSP",
       "title": "Secure Disposal",
       "previous_id": "DSP-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Secure Disposal",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Disposal"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-03",
       "domain": "DSP",
       "title": "Data Inventory",
       "previous_id": "DSP-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Data Inventory",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.997,
-      "previous_title": "Data Inventory"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DSP-04",
       "domain": "DSP",
       "title": "Data Classification",
       "previous_id": "DSP-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Data Classification",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.899,
-      "previous_title": "Data Classification"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DSP-05",
       "domain": "DSP",
       "title": "Data Flow Documentation",
       "previous_id": "DSP-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Data Flow Documentation",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.948,
-      "previous_title": "Data Flow Documentation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DSP-06",
       "domain": "DSP",
       "title": "Data Ownership and Stewardship",
       "previous_id": "DSP-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Ownership and Stewardship",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Ownership and Stewardship"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-07",
       "domain": "DSP",
       "title": "Data Protection by Design and Default",
       "previous_id": "DSP-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Protection by Design and Default",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Protection by Design and Default"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-08",
       "domain": "DSP",
       "title": "Data Privacy by Design and Default",
       "previous_id": "DSP-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Privacy by Design and Default",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Privacy by Design and Default"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-09",
       "domain": "DSP",
       "title": "Data Protection Impact Assessment",
       "previous_id": "DSP-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Protection Impact Assessment",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Protection Impact Assessment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-10",
       "domain": "DSP",
       "title": "Sensitive Data Transfer",
       "previous_id": "DSP-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Sensitive Data Transfer",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Sensitive Data Transfer"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-11",
       "domain": "DSP",
       "title": "Personal Data Access, Reversal, Rectification and Deletion",
       "previous_id": "DSP-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Personal Data Access, Reversal, Rectification and Deletion",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Personal Data Access, Reversal, Rectification and Deletion"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-12",
       "domain": "DSP",
       "title": "Limitation of Purpose in Personal Data Processing",
       "previous_id": "DSP-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Limitation of Purpose in Personal Data Processing",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Limitation of Purpose in Personal Data Processing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-13",
       "domain": "DSP",
       "title": "Personal Data Sub-processing",
       "previous_id": "DSP-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Personal Data Sub-processing",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Personal Data Sub-processing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-14",
       "domain": "DSP",
       "title": "Disclosure of Data Sub-processors",
       "previous_id": "DSP-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Disclosure of Data Sub-processors",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Disclosure of Data Sub-processors"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-15",
       "domain": "DSP",
       "title": "Limitation of Production Data Use",
       "previous_id": "DSP-15",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Limitation of Production Data Use",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Limitation of Production Data Use"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-16",
       "domain": "DSP",
       "title": "Data Retention and Deletion",
       "previous_id": "DSP-16",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Retention and Deletion",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Retention and Deletion"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-17",
       "domain": "DSP",
       "title": "Sensitive Data Protection",
       "previous_id": "DSP-17",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Sensitive Data Protection",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Sensitive Data Protection"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-18",
       "domain": "DSP",
       "title": "Disclosure Notification",
       "previous_id": "DSP-18",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Disclosure Notification",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.905,
-      "previous_title": "Disclosure Notification"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "DSP-19",
       "domain": "DSP",
       "title": "Data Location",
       "previous_id": "DSP-19",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Location",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Location"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-20",
       "domain": "DSP",
       "title": "Data Provenance and Transparency",
       "previous_id": "DSP-20",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Provenance and Transparency",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Provenance and Transparency"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-21",
       "domain": "DSP",
       "title": "Data Poisoning Prevention & Detection",
       "previous_id": "DSP-21",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Poisoning Prevention & Detection",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Poisoning Prevention & Detection"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-22",
       "domain": "DSP",
       "title": "Privacy Enhancing Technologies",
       "previous_id": "DSP-22",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Privacy Enhancing Technologies",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Privacy Enhancing Technologies"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-23",
       "domain": "DSP",
       "title": "Data Integrity Check",
       "previous_id": "DSP-23",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Integrity Check",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Integrity Check"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "DSP-24",
       "domain": "DSP",
       "title": "Data Differentiation and Relevance",
       "previous_id": "DSP-24",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Differentiation\nand Relevance",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Differentiation\nand Relevance"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-01",
       "domain": "GRC",
       "title": "Governance Program Policy and Procedures",
       "previous_id": "GRC-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Governance Program Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.953,
-      "previous_title": "Governance Program Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "GRC-02",
       "domain": "GRC",
       "title": "Risk Management Program",
       "previous_id": "GRC-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Risk Management Program",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Risk Management Program"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-03",
       "domain": "GRC",
       "title": "Organizational Policy Reviews",
       "previous_id": "GRC-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Organizational Policy Reviews",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Organizational Policy Reviews"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-04",
       "domain": "GRC",
       "title": "Policy Exception Process",
       "previous_id": "GRC-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Policy Exception Process",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Policy Exception Process"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-05",
       "domain": "GRC",
       "title": "Information Security Program",
       "previous_id": "GRC-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Information Security Program",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Information Security Program"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-06",
       "domain": "GRC",
       "title": "Governance Responsibility Model",
       "previous_id": "GRC-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Governance Responsibility Model",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Governance Responsibility Model"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-07",
       "domain": "GRC",
       "title": "Information System Regulatory Mapping",
       "previous_id": "GRC-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Information System Regulatory Mapping",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.801,
-      "previous_title": "Information System Regulatory Mapping"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "GRC-08",
       "domain": "GRC",
       "title": "Special Interest Groups",
       "previous_id": "GRC-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Special Interest Groups",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Special Interest Groups"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-09",
       "domain": "GRC",
       "title": "Acceptable Use of the AI Service",
       "previous_id": "GRC-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Acceptable Use of the AI Service",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Acceptable Use of the AI Service"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-10",
       "domain": "GRC",
       "title": "AI Impact Assessment",
       "previous_id": "GRC-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "AI Impact Assessment",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "AI Impact Assessment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-11",
       "domain": "GRC",
       "title": "Bias and Fairness Assessment",
       "previous_id": "GRC-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Bias and Fairness Assessment",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Bias and Fairness Assessment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-12",
       "domain": "GRC",
       "title": "Ethics Committee",
       "previous_id": "GRC-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Ethics Committee",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Ethics Committee"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-13",
       "domain": "GRC",
       "title": "Explainability Requirement",
       "previous_id": "GRC-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Explainability Requirement",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Explainability Requirement"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-14",
       "domain": "GRC",
       "title": "Explainability Evaluation",
       "previous_id": "GRC-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Explainability Evaluation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Explainability Evaluation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "GRC-15",
       "domain": "GRC",
       "title": "Human supervision",
       "previous_id": "GRC-15",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Human supervision",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Human supervision"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-01",
       "domain": "HRS",
       "title": "Background Screening Policy and Procedures",
       "previous_id": "HRS-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Background Screening Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.97,
-      "previous_title": "Background Screening Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-02",
       "domain": "HRS",
       "title": "Acceptable Use of Technology Policy and Procedures",
       "previous_id": "HRS-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Acceptable Use of Technology Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.948,
-      "previous_title": "Acceptable Use of Technology Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-03",
       "domain": "HRS",
       "title": "Clean Desk Policy and Procedures",
       "previous_id": "HRS-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Clean Desk Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.943,
-      "previous_title": "Clean Desk Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-04",
       "domain": "HRS",
       "title": "Remote and Home Working Policy and Procedures",
       "previous_id": "HRS-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Remote and Home Working Policy and Procedures",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.944,
-      "previous_title": "Remote and Home Working Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-05",
       "domain": "HRS",
       "title": "Asset returns",
       "previous_id": "HRS-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Asset returns",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.868,
-      "previous_title": "Asset returns"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-06",
       "domain": "HRS",
       "title": "Employment Termination",
       "previous_id": "HRS-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Employment Termination",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.969,
-      "previous_title": "Employment Termination"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-07",
       "domain": "HRS",
       "title": "Employment Agreement Process",
       "previous_id": "HRS-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Employment Agreement Process",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Employment Agreement Process"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-08",
       "domain": "HRS",
       "title": "Employment Agreement Content",
       "previous_id": "HRS-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Employment Agreement Content",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Employment Agreement Content"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-09",
       "domain": "HRS",
       "title": "Personnel Roles and Responsibilities",
       "previous_id": "HRS-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Personnel Roles and Responsibilities",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.889,
-      "previous_title": "Personnel Roles and Responsibilities"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "HRS-10",
       "domain": "HRS",
       "title": "Non-Disclosure Agreements",
       "previous_id": "HRS-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Non-Disclosure Agreements",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Non-Disclosure Agreements"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-11",
       "domain": "HRS",
       "title": "Security Awareness Training",
       "previous_id": "HRS-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Security Awareness Training",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Security Awareness Training"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-12",
       "domain": "HRS",
       "title": "Personal and Sensitive Data Awareness and Training",
       "previous_id": "HRS-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Personal and Sensitive Data Awareness and Training",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Personal and Sensitive Data Awareness and Training"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-13",
       "domain": "HRS",
       "title": "Compliance User Responsibility",
       "previous_id": "HRS-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Compliance User Responsibility",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Compliance User Responsibility"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-14",
       "domain": "HRS",
       "title": "AI Competency Training",
       "previous_id": "HRS-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "AI Competency Training",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "AI Competency Training"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "HRS-15",
       "domain": "HRS",
       "title": "AI Acceptable Use",
       "previous_id": "HRS-15",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "AI Acceptable Use",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "AI Acceptable Use"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "I&S-01",
       "domain": "I&S",
       "title": "Infrastructure and Virtualization Security Policy and Procedures",
       "previous_id": "I&S-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Infrastructure and Virtualization Security Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Infrastructure and Virtualization Security Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "I&S-02",
       "domain": "I&S",
       "title": "Capacity and Resource Planning",
       "previous_id": "I&S-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Capacity and Resource Planning",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Capacity and Resource Planning"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "I&S-03",
       "domain": "I&S",
       "title": "Network Security",
       "previous_id": "I&S-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Network Security",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.957,
-      "previous_title": "Network Security"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "I&S-04",
       "domain": "I&S",
       "title": "OS Hardening and Base Controls",
       "previous_id": "I&S-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "OS Hardening and Base Controls",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "OS Hardening and Base Controls"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "I&S-05",
       "domain": "I&S",
       "title": "Production and Non-Production Environments",
       "previous_id": "I&S-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Production and Non-Production Environments",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.374,
-      "previous_title": "Production and Non-Production Environments"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "I&S-06",
       "domain": "I&S",
       "title": "Segmentation and Segregation",
       "previous_id": "I&S-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Segmentation and Segregation",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.945,
-      "previous_title": "Segmentation and Segregation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "I&S-07",
       "domain": "I&S",
       "title": "Migration to Hosted Environments",
       "previous_id": "I&S-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Migration to Hosted Environments",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Migration to Hosted Environments"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "I&S-08",
       "domain": "I&S",
       "title": "Network Architecture Documentation",
       "previous_id": "I&S-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Network Architecture Documentation",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.584,
-      "previous_title": "Network Architecture Documentation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "I&S-09",
       "domain": "I&S",
       "title": "Network Defense",
       "previous_id": "I&S-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Network Defense",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Network Defense"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-01",
       "domain": "IAM",
       "title": "Identity and Access Management Policy and Procedures",
       "previous_id": "IAM-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Identity and Access Management Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Identity and Access Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-02",
       "domain": "IAM",
       "title": "Credentials Management Policy and Procedures",
       "previous_id": "IAM-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Strong Password Policy and Procedures",
       "changes": [
         "retitled",
         "rewritten"
       ],
       "spec_similarity": 0.749,
-      "previous_title": "Strong Password Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IAM-03",
       "domain": "IAM",
       "title": "Identity Inventory",
       "previous_id": "IAM-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Identity Inventory",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Identity Inventory"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-04",
       "domain": "IAM",
       "title": "Separation of Duties",
       "previous_id": "IAM-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Separation of Duties",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Separation of Duties"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-05",
       "domain": "IAM",
       "title": "Least Privilege",
       "previous_id": "IAM-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Least Privilege",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Least Privilege"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-06",
       "domain": "IAM",
       "title": "Access Provisioning",
       "previous_id": "IAM-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "User Access Provisioning",
       "changes": [
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "User Access Provisioning"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IAM-07",
       "domain": "IAM",
       "title": "Access Changes and Revocation",
       "previous_id": "IAM-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "User Access Changes and Revocation",
       "changes": [
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "User Access Changes and Revocation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IAM-08",
       "domain": "IAM",
       "title": "Access Review",
       "previous_id": "IAM-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "User Access Review",
       "changes": [
         "retitled",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.971,
-      "previous_title": "User Access Review"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IAM-09",
       "domain": "IAM",
       "title": "Segregation of Privileged Access Roles",
       "previous_id": "IAM-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Segregation of Privileged Access Roles",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Segregation of Privileged Access Roles"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-10",
       "domain": "IAM",
       "title": "Management of Privileged Access Roles",
       "previous_id": "IAM-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Management of Privileged Access Roles",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Management of Privileged Access Roles"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IAM-11",
       "domain": "IAM",
       "title": "Service Customers' Approval for Agreed Privileged Access Roles",
       "previous_id": "IAM-11",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Customers' Approval for Agreed Privileged Access Roles",
       "changes": [
         "retitled",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.983,
-      "previous_title": "Customers' Approval for Agreed Privileged Access Roles"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IAM-12",
       "domain": "IAM",
       "title": "Unique Identities",
       "previous_id": "IAM-13",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Uniquely Identifiable Users",
       "changes": [
         "renumbered",
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Uniquely Identifiable Users",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Safeguard Logs Integrity",
         "that_control_is_now": null
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-13",
       "domain": "IAM",
       "title": "Strong Authentication",
       "previous_id": "IAM-14",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Strong Authentication",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Strong Authentication",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Uniquely Identifiable Users",
         "that_control_is_now": "IAM-12"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-14",
       "domain": "IAM",
       "title": "Credentials Management",
       "previous_id": "IAM-15",
-      "review_needed": true,
-      "status": "changed",
+      "previous_title": "Passwords and Secrets Management",
       "changes": [
         "renumbered",
         "retitled",
         "rewritten"
       ],
       "spec_similarity": 0.804,
-      "previous_title": "Passwords and Secrets Management",
+      "heuristic_match": true,
       "id_reuse": {
         "previously_designated": "Strong Authentication",
         "that_control_is_now": "IAM-13"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-15",
       "domain": "IAM",
       "title": "Authorization Mechanisms",
       "previous_id": "IAM-16",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Authorization Mechanisms",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Authorization Mechanisms",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Passwords and Secrets Management",
         "that_control_is_now": "IAM-14"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-16",
       "domain": "IAM",
       "title": "Knowledge Access Control - Need to Know",
       "previous_id": "IAM-17",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Knowledge Access Control - Need to Know",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Knowledge Access Control - Need to Know",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Authorization Mechanisms",
         "that_control_is_now": "IAM-15"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-17",
       "domain": "IAM",
       "title": "Output Modification and Special Authorization",
       "previous_id": "IAM-18",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Output Modification and Special Authorization",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Output Modification and Special Authorization",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Knowledge Access Control - Need to Know",
         "that_control_is_now": "IAM-16"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IAM-18",
       "domain": "IAM",
       "title": "Agent Access Restriction",
       "previous_id": "IAM-19",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Agent Access Restriction",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Agent Access Restriction",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Output Modification and Special Authorization",
         "that_control_is_now": "IAM-17"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "IPY-01",
       "domain": "IPY",
       "title": "Interoperability and Portability Policy and Procedures",
       "previous_id": "IPY-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Interoperability and Portability Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Interoperability and Portability Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "IPY-02",
       "domain": "IPY",
       "title": "Application Interface Availability",
       "previous_id": "IPY-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Application Interface Availability",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.947,
-      "previous_title": "Application Interface Availability"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IPY-03",
       "domain": "IPY",
       "title": "Secure Interoperability and Portability Management",
       "previous_id": "IPY-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Secure Interoperability and Portability Management",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.94,
-      "previous_title": "Secure Interoperability and Portability Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "IPY-04",
       "domain": "IPY",
       "title": "Data Portability Contractual Obligations",
       "previous_id": "IPY-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Data Portability Contractual Obligations",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.922,
-      "previous_title": "Data Portability Contractual Obligations"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "LOG-01",
       "domain": "LOG",
       "title": "Logging and Monitoring Policy and Procedures",
       "previous_id": "LOG-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Logging and Monitoring Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Logging and Monitoring Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "LOG-02",
       "domain": "LOG",
       "title": "Audit Logs Protection",
       "previous_id": "LOG-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Audit Logs Protection",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Audit Logs Protection"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "LOG-03",
       "domain": "LOG",
       "title": "Security Monitoring and Alerting",
       "previous_id": "LOG-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Security Monitoring and Alerting",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.848,
-      "previous_title": "Security Monitoring and Alerting"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "LOG-04",
       "domain": "LOG",
       "title": "Audit Logs Access and Accountability",
       "previous_id": "LOG-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Audit Logs Access and Accountability",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.731,
-      "previous_title": "Audit Logs Access and Accountability"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "LOG-05",
       "domain": "LOG",
       "title": "Audit Logs Monitoring and Response",
       "previous_id": "LOG-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Audit Logs Monitoring and Response",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.781,
-      "previous_title": "Audit Logs Monitoring and Response"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "LOG-06",
       "domain": "LOG",
       "title": "Clock Synchronization",
       "previous_id": "LOG-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Clock Synchronization",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Clock Synchronization"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "LOG-07",
       "domain": "LOG",
       "title": "Logging Scope",
       "previous_id": "LOG-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Logging Scope",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.897,
-      "previous_title": "Logging Scope"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "LOG-08",
       "domain": "LOG",
       "title": "Audit Logs Sanitization",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null,
+      "heuristic_match": true,
       "id_reuse": {
         "previously_designated": "Log Records",
         "that_control_is_now": "LOG-09"
-      }
+      },
+      "status": "new"
     },
     {
       "id": "LOG-09",
       "domain": "LOG",
       "title": "Log Records",
       "previous_id": "LOG-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Log Records",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Log Records",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Log Protection",
         "that_control_is_now": "LOG-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-10",
       "domain": "LOG",
       "title": "Audit Records Protection",
       "previous_id": "LOG-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Log Protection",
       "changes": [
         "renumbered",
         "retitled"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Log Protection",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Encryption Monitoring and Reporting",
         "that_control_is_now": "LOG-11"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-11",
       "domain": "LOG",
       "title": "Encryption Monitoring and Reporting",
       "previous_id": "LOG-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Encryption Monitoring and Reporting",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Encryption Monitoring and Reporting",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Transaction/Activity Logging",
         "that_control_is_now": "LOG-12"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-12",
       "domain": "LOG",
       "title": "Transaction/Activity Logging",
       "previous_id": "LOG-11",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Transaction/Activity Logging",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Transaction/Activity Logging",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Access Control Logs",
         "that_control_is_now": "LOG-13"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-13",
       "domain": "LOG",
       "title": "Access Control Logs",
       "previous_id": "LOG-12",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Access Control Logs",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Access Control Logs",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Failures and Anomalies Reporting",
         "that_control_is_now": "LOG-14"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-14",
       "domain": "LOG",
       "title": "Failures and Anomalies Reporting",
       "previous_id": "LOG-13",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Failures and Anomalies Reporting",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Failures and Anomalies Reporting",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Input Monitoring",
         "that_control_is_now": "LOG-15"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-15",
       "domain": "LOG",
       "title": "Input Monitoring",
       "previous_id": "LOG-14",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Input Monitoring",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Input Monitoring",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Output Monitoring",
         "that_control_is_now": "LOG-16"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "LOG-16",
       "domain": "LOG",
       "title": "Output Monitoring",
       "previous_id": "LOG-15",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Output Monitoring",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.982,
-      "previous_title": "Output Monitoring"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "MDS-01",
       "domain": "MDS",
       "title": "Training Pipeline Security",
       "previous_id": "MDS-01",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Training Pipeline Security",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Training Pipeline Security"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-02",
       "domain": "MDS",
       "title": "Model Artifact Scanning",
       "previous_id": "MDS-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Artifact Scanning",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Artifact Scanning"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-03",
       "domain": "MDS",
       "title": "Model Documentation",
       "previous_id": "MDS-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Documentation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Documentation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-04",
       "domain": "MDS",
       "title": "Model Documentation Requirements",
       "previous_id": "MDS-04",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Documentation Requirements",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Documentation Requirements"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-05",
       "domain": "MDS",
       "title": "Model Documentation Validation",
       "previous_id": "MDS-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Documentation Validation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Documentation Validation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-06",
       "domain": "MDS",
       "title": "Adversarial Attack Analysis",
       "previous_id": "MDS-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Adversarial Attack Analysis",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Adversarial Attack Analysis"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-07",
       "domain": "MDS",
       "title": "Robustness against Adversarial Attack / Model Hardening",
       "previous_id": "MDS-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Robustness against Adversarial Attack  / Model Hardening",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Robustness against Adversarial Attack  / Model Hardening"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-08",
       "domain": "MDS",
       "title": "Model Integrity Checks",
       "previous_id": "MDS-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Integrity Checks",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Integrity Checks"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-09",
       "domain": "MDS",
       "title": "Model Signing/Ownership Verification",
       "previous_id": "MDS-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Signing/Ownership Verification",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Signing/Ownership Verification"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-10",
       "domain": "MDS",
       "title": "Model Continuous Monitoring",
       "previous_id": "MDS-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Continuous Monitoring",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Continuous Monitoring"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-11",
       "domain": "MDS",
       "title": "Model Failure",
       "previous_id": "MDS-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Model Failure",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Model Failure"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-12",
       "domain": "MDS",
       "title": "Open Model Risk Assessment",
       "previous_id": "MDS-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Open Model Risk Assessment",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Open Model Risk Assessment"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "MDS-13",
       "domain": "MDS",
       "title": "Secure Model Format",
       "previous_id": "MDS-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Secure Model Format",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Secure Model Format"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "SEF-01",
       "domain": "SEF",
       "title": "Security Incident Management Policy and Procedures",
       "previous_id": "SEF-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Security Incident Management Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Security Incident Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "SEF-02",
       "domain": "SEF",
       "title": "Service Management Policy and Procedures",
       "previous_id": "SEF-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Service Management Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Service Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "SEF-03",
       "domain": "SEF",
       "title": "Incident Response Plans",
       "previous_id": "SEF-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Incident Response Plans",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.971,
-      "previous_title": "Incident Response Plans"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "SEF-04",
       "domain": "SEF",
       "title": "Incident Response Testing",
       "previous_id": "SEF-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Incident Response Testing",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.733,
-      "previous_title": "Incident Response Testing"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "SEF-05",
       "domain": "SEF",
       "title": "Incident Response Metrics",
       "previous_id": "SEF-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Incident Response Metrics",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Incident Response Metrics"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "SEF-06",
       "domain": "SEF",
       "title": "Event Triage Processes",
       "previous_id": "SEF-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Event Triage Processes",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Event Triage Processes"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "SEF-07",
       "domain": "SEF",
       "title": "Incident Management and Response",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null,
+      "heuristic_match": true,
       "id_reuse": {
         "previously_designated": "Security Breach Notification",
         "that_control_is_now": "SEF-08"
-      }
+      },
+      "status": "new"
     },
     {
       "id": "SEF-08",
       "domain": "SEF",
       "title": "Security Breach Notification",
       "previous_id": "SEF-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Security Breach Notification",
       "changes": [
         "renumbered",
         "rewritten"
       ],
       "spec_similarity": 0.936,
-      "previous_title": "Security Breach Notification",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Points of Contact Maintenance",
         "that_control_is_now": "SEF-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "SEF-09",
       "domain": "SEF",
       "title": "Incident Records Management",
       "previous_id": null,
-      "review_needed": true,
-      "status": "added",
+      "previous_title": null,
       "changes": [],
       "spec_similarity": null,
-      "previous_title": null,
+      "heuristic_match": true,
       "id_reuse": {
         "previously_designated": "Incident Response",
         "that_control_is_now": null
-      }
+      },
+      "status": "new"
     },
     {
       "id": "SEF-10",
       "domain": "SEF",
       "title": "Points of Contact Maintenance",
       "previous_id": "SEF-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Points of Contact Maintenance",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Points of Contact Maintenance"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "STA-01",
       "domain": "STA",
       "title": "Supply Chain Risk Management Policies and Procedures",
       "previous_id": "STA-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Risk \nManagement Policies \nand Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Supply Chain Risk \nManagement Policies \nand Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "STA-02",
       "domain": "STA",
       "title": "SSRM Policy and Procedures",
       "previous_id": "STA-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "SSRM Policy and Procedures",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "SSRM Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "STA-03",
       "domain": "STA",
       "title": "SSRM Supply Chain",
       "previous_id": "STA-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "SSRM Supply Chain",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "SSRM Supply Chain"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "STA-04",
       "domain": "STA",
       "title": "SSRM Guidance",
       "previous_id": "STA-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "SSRM Guidance",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.963,
-      "previous_title": "SSRM Guidance"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "STA-05",
       "domain": "STA",
       "title": "SSRM Control Ownership",
       "previous_id": "STA-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "SSRM Control Ownership",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "SSRM Control Ownership"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "STA-06",
       "domain": "STA",
       "title": "SSRM Documentation Review",
       "previous_id": "STA-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "SSRM Documentation Review",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.951,
-      "previous_title": "SSRM Documentation Review"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "STA-07",
       "domain": "STA",
       "title": "SSRM Control Implementation",
       "previous_id": "STA-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "SSRM Control Implementation",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "SSRM Control Implementation"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "STA-08",
       "domain": "STA",
       "title": "Supply Chain Inventory",
       "previous_id": "STA-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Supply Chain Inventory",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Supply Chain Inventory"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "STA-09",
       "domain": "STA",
       "title": "Service Bill of Material (BOM)",
       "previous_id": "STA-16",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Service Bill of Material (BOM)",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.997,
-      "previous_title": "Service Bill of Material (BOM)",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain Risk Management",
         "that_control_is_now": "STA-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-10",
       "domain": "STA",
       "title": "Supply Chain Risk Management",
       "previous_id": "STA-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Risk Management",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Supply Chain Risk Management",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Primary Service and Contractual Agreement",
         "that_control_is_now": "STA-11"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-11",
       "domain": "STA",
       "title": "Primary Service and Contractual Agreement",
       "previous_id": "STA-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Primary Service and Contractual Agreement",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.975,
-      "previous_title": "Primary Service and Contractual Agreement",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain Agreement Review",
         "that_control_is_now": "STA-12"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-12",
       "domain": "STA",
       "title": "Supply Chain Agreement Review",
       "previous_id": "STA-11",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Agreement Review",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Supply Chain Agreement Review",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain \nCompliance \nAssessment",
         "that_control_is_now": "STA-13"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-13",
       "domain": "STA",
       "title": "Supply Chain Compliance Assessment",
       "previous_id": "STA-12",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain \nCompliance \nAssessment",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Supply Chain \nCompliance \nAssessment",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain Service Agreement Compliance",
         "that_control_is_now": "STA-14"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-14",
       "domain": "STA",
       "title": "Supply Chain Service Agreement Compliance",
       "previous_id": "STA-13",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Service Agreement Compliance",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Supply Chain Service Agreement Compliance",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain Governance Review",
         "that_control_is_now": "STA-15"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-15",
       "domain": "STA",
       "title": "Supply Chain Governance Review",
       "previous_id": "STA-14",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Governance Review",
       "changes": [
         "renumbered",
         "rewritten"
       ],
       "spec_similarity": 0.643,
-      "previous_title": "Supply Chain Governance Review",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Supply Chain Data Security Assessment",
         "that_control_is_now": "STA-16"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "STA-16",
       "domain": "STA",
       "title": "Supply Chain Data Security Assessment",
       "previous_id": "STA-15",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Supply Chain Data Security Assessment",
       "changes": [
         "renumbered",
         "rewritten"
       ],
       "spec_similarity": 0.777,
-      "previous_title": "Supply Chain Data Security Assessment",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Service Bill of Material (BOM)",
         "that_control_is_now": "STA-09"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-01",
       "domain": "TVM",
       "title": "Threat and Vulnerability Management Policy and Procedures",
       "previous_id": "TVM-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Threat and Vulnerability Management Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.999,
-      "previous_title": "Threat and Vulnerability Management Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "TVM-02",
       "domain": "TVM",
       "title": "Malware and Malicious Instructions Protection Policy and Procedures",
       "previous_id": "TVM-02",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Malware and Malicious Instructions Protection Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.998,
-      "previous_title": "Malware and Malicious Instructions Protection Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "TVM-03",
       "domain": "TVM",
       "title": "Vulnerability Identification",
       "previous_id": "TVM-03",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Vulnerability Identification",
       "changes": [
         "rewritten"
       ],
       "spec_similarity": 0.652,
-      "previous_title": "Vulnerability Identification"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "TVM-04",
       "domain": "TVM",
       "title": "Threat Analysis and Modelling",
       "previous_id": "TVM-12",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Threat Analysis and Modelling",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.994,
-      "previous_title": "Threat Analysis and Modelling",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Detection Updates",
         "that_control_is_now": "TVM-05"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-05",
       "domain": "TVM",
       "title": "Detection Updates",
       "previous_id": "TVM-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Detection Updates",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Detection Updates",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "External Library Vulnerabilities",
         "that_control_is_now": "TVM-06"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-06",
       "domain": "TVM",
       "title": "External Library Vulnerabilities",
       "previous_id": "TVM-05",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "External Library Vulnerabilities",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "External Library Vulnerabilities",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Penetration Testing",
         "that_control_is_now": "TVM-07"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-07",
       "domain": "TVM",
       "title": "Penetration Testing",
       "previous_id": "TVM-06",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Penetration Testing",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Penetration Testing",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Vulnerability Remediation Schedule",
         "that_control_is_now": "TVM-08"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-08",
       "domain": "TVM",
       "title": "Vulnerability Remediation Schedule",
       "previous_id": "TVM-07",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Vulnerability Remediation Schedule",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Vulnerability Remediation Schedule",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Vulnerability Prioritization",
         "that_control_is_now": "TVM-09"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-09",
       "domain": "TVM",
       "title": "Vulnerability Prioritization",
       "previous_id": "TVM-08",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Vulnerability Prioritization",
       "changes": [
         "renumbered",
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.979,
-      "previous_title": "Vulnerability Prioritization",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Vulnerability Management Reporting",
         "that_control_is_now": "TVM-11"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-10",
       "domain": "TVM",
       "title": "Threat Response",
       "previous_id": "TVM-13",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Threat Response",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Threat Response",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Vulnerability Management Metrics",
         "that_control_is_now": "TVM-12"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-11",
       "domain": "TVM",
       "title": "Vulnerability Management Reporting",
       "previous_id": "TVM-09",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Vulnerability Management Reporting",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Vulnerability Management Reporting",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Guardrails",
         "that_control_is_now": "TVM-13"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-12",
       "domain": "TVM",
       "title": "Vulnerability Management Metrics",
       "previous_id": "TVM-10",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Vulnerability Management Metrics",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Vulnerability Management Metrics",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Threat Analysis and Modelling",
         "that_control_is_now": "TVM-04"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "TVM-13",
       "domain": "TVM",
       "title": "Guardrails",
       "previous_id": "TVM-11",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Guardrails",
       "changes": [
         "renumbered"
       ],
       "spec_similarity": 1.0,
-      "previous_title": "Guardrails",
+      "heuristic_match": false,
       "id_reuse": {
         "previously_designated": "Threat Response",
         "that_control_is_now": "TVM-10"
-      }
+      },
+      "status": "changed"
     },
     {
       "id": "UEM-01",
       "domain": "UEM",
       "title": "Endpoint Devices Policy and Procedures",
       "previous_id": "UEM-01",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Endpoint Devices Policy and Procedures",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.981,
-      "previous_title": "Endpoint Devices Policy and Procedures"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "UEM-02",
       "domain": "UEM",
       "title": "Application and Service Approval",
       "previous_id": "UEM-02",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Application and Service Approval",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Application and Service Approval"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-03",
       "domain": "UEM",
       "title": "Compatibility",
       "previous_id": "UEM-03",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Compatibility",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Compatibility"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-04",
       "domain": "UEM",
       "title": "Endpoint Inventory",
       "previous_id": "UEM-04",
-      "review_needed": false,
-      "status": "changed",
+      "previous_title": "Endpoint Inventory",
       "changes": [
-        "text-tidied"
+        "edited"
       ],
       "spec_similarity": 0.951,
-      "previous_title": "Endpoint Inventory"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "changed"
     },
     {
       "id": "UEM-05",
       "domain": "UEM",
       "title": "Endpoint Management",
       "previous_id": "UEM-05",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Endpoint Management",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Endpoint Management"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-06",
       "domain": "UEM",
       "title": "Automatic Lock Screen",
       "previous_id": "UEM-06",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Automatic Lock Screen",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Automatic Lock Screen"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-07",
       "domain": "UEM",
       "title": "Operating Systems",
       "previous_id": "UEM-07",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Operating Systems",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Operating Systems"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-08",
       "domain": "UEM",
       "title": "Storage Encryption",
       "previous_id": "UEM-08",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Storage Encryption",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Storage Encryption"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-09",
       "domain": "UEM",
       "title": "Anti-Malware Detection and Prevention",
       "previous_id": "UEM-09",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Anti-Malware Detection and Prevention",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Anti-Malware Detection and Prevention"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-10",
       "domain": "UEM",
       "title": "Software Firewall",
       "previous_id": "UEM-10",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Software Firewall",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Software Firewall"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-11",
       "domain": "UEM",
       "title": "Data Loss Prevention",
       "previous_id": "UEM-11",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Data Loss Prevention",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Data Loss Prevention"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-12",
       "domain": "UEM",
       "title": "Remote Locate",
       "previous_id": "UEM-12",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Remote Locate",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Remote Locate"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-13",
       "domain": "UEM",
       "title": "Remote Wipe",
       "previous_id": "UEM-13",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Remote Wipe",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Remote Wipe"
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
     },
     {
       "id": "UEM-14",
       "domain": "UEM",
       "title": "Third-Party Endpoint Security Posture",
       "previous_id": "UEM-14",
-      "review_needed": false,
-      "status": "unchanged",
+      "previous_title": "Third-Party Endpoint Security Posture",
       "changes": [],
       "spec_similarity": 1.0,
-      "previous_title": "Third-Party Endpoint Security Posture"
-    },
+      "heuristic_match": false,
+      "id_reuse": null,
+      "status": "unchanged"
+    }
+  ],
+  "removed": [
     {
       "id": "IAM-12",
       "domain": "IAM",
       "title": "Safeguard Logs Integrity",
-      "status": "removed",
-      "changes": [],
-      "previous_id": "IAM-12",
-      "previous_title": "Safeguard Logs Integrity",
-      "spec_similarity": null,
-      "review_needed": true,
-      "id_still_in_use_for": "Unique Identities"
+      "specification": "Define, implement and evaluate processes, procedures and technical measures to ensure the logging infrastructure is read-only for all with  write access, including privileged access roles, and that the ability to  disable it is controlled through a procedure that ensures the segregation of  duties and break glass procedures.",
+      "id_reassigned_to": "Unique Identities"
     },
     {
       "id": "SEF-09",
       "domain": "SEF",
       "title": "Incident Response",
-      "status": "removed",
-      "changes": [],
-      "previous_id": "SEF-09",
-      "previous_title": "Incident Response",
-      "spec_similarity": null,
-      "review_needed": true,
-      "id_still_in_use_for": "Incident Records Management"
+      "specification": "Define incident categories and severity levels for AI systems, and determine response procedures for each, including automated response where applicable.",
+      "id_reassigned_to": "Incident Records Management"
     }
   ]
 }
