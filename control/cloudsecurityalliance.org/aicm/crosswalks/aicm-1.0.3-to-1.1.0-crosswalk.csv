@@ -5,7 +5,7 @@ carried,A&A-03,A&A-03,Risk Based Planning Assessment,Risk Based Planning Assessm
 carried,A&A-04,A&A-04,Requirements Compliance,Requirements Compliance,unchanged,1.000,exact-spec,no
 carried,A&A-05,A&A-05,Audit Management Process,Audit Management Process,spec-cosmetic,0.974,same-id+title,no
 carried,A&A-06,A&A-06,Remediation,Remediation,unchanged,1.000,exact-spec,no
-carried,AIS-01,AIS-01,Application and Interface Security Policy and Procedures,Application and Interface Security Policy and Procedures,spec-substantive,0.870,same-id+title,no
+carried,AIS-01,AIS-01,Application and Interface Security Policy and Procedures,Application and Interface Security Policy and Procedures,spec-substantive,0.943,same-id+title,no
 carried,AIS-02,AIS-02,Application Security Baseline Requirements,Application Security Baseline Requirements,spec-cosmetic,0.994,same-id+title,no
 carried,AIS-03,AIS-03,Application Security Metrics,Application Security Metrics,unchanged,1.000,exact-spec,no
 carried,AIS-04,AIS-04,Secure Application Development Lifecycle,Secure Application Development Lifecycle,spec-substantive,0.861,same-id+title,no
@@ -20,12 +20,12 @@ carried,AIS-12,AIS-12,Source Code Managemement,Source Code Management,title,1.00
 carried,AIS-13,AIS-13,AI Sandboxing,AI Sandboxing,unchanged,1.000,exact-spec,no
 carried,AIS-14,AIS-14,AI Cache Protection,AI Cache Protection,unchanged,1.000,exact-spec,no
 carried,AIS-15,AIS-15,Prompt Differentation,Prompt Differentiation,title,1.000,exact-spec,no
-carried,BCR-01,BCR-01,Business Continuity Management Policy and Procedures,Business Continuity Management Policy and Procedures,spec-substantive,0.846,same-id+title,no
+carried,BCR-01,BCR-01,Business Continuity Management Policy and Procedures,Business Continuity Management Policy and Procedures,spec-substantive,0.918,same-id+title,no
 carried,BCR-02,BCR-02,Risk Assessment and Impact Analysis,Risk Assessment and Impact Analysis,spec-cosmetic,0.998,same-id+title,no
 carried,BCR-03,BCR-03,Business Continuity Strategy,Business Continuity Strategy,unchanged,1.000,exact-spec,no
 carried,BCR-04,BCR-04,Business Continuity Planning,Business Continuity Planning,unchanged,1.000,exact-spec,no
-carried,BCR-05,BCR-05,Documentation,Documentation,spec-substantive,0.585,same-id+title,no
-carried,BCR-06,BCR-06,Business Continuity Exercises,Business Continuity Exercises,spec-substantive,0.678,same-id+title,no
+carried,BCR-05,BCR-05,Documentation,Documentation,spec-cosmetic,0.983,same-id+title,no
+carried,BCR-06,BCR-06,Business Continuity Exercises,Business Continuity Exercises,spec-substantive,0.699,same-id+title,no
 carried,BCR-07,BCR-07,Communication,Communication,unchanged,1.000,exact-spec,no
 carried,BCR-08,BCR-08,Backup,Backup,unchanged,1.000,exact-spec,no
 carried,BCR-09,BCR-09,Disaster Response Plan,Disaster Response Plan,spec-cosmetic,0.998,same-id+title,no
@@ -36,7 +36,7 @@ carried,CCC-02,CCC-02,Quality Testing,Quality Testing,unchanged,1.000,exact-spec
 carried,CCC-03,CCC-03,Change Management Technology,Change Management Technology,unchanged,1.000,exact-spec,no
 carried,CCC-04,CCC-04,Change Authorization,Unauthorized Change Protection,title+spec-cosmetic,0.954,same-id,no
 carried,CCC-05,CCC-05,Change Agreements,Change Agreements,spec-cosmetic,0.960,same-id+title,no
-carried,CCC-06,CCC-06,Change Management Baseline,Change Management Baseline,spec-substantive,0.762,same-id+title,no
+carried,CCC-06,CCC-06,Change Management Baseline,Change Management Baseline,spec-substantive,0.850,same-id+title,no
 carried,CCC-07,CCC-07,Detection of Baseline Deviation,Detection of Baseline Deviation,unchanged,1.000,exact-spec,no
 carried,CCC-08,CCC-08,Exception Management,Exception Management,unchanged,1.000,exact-spec,no
 carried,CCC-09,CCC-09,Change Restoration,Change Restoration,unchanged,1.000,exact-spec,no
@@ -79,7 +79,7 @@ carried,DCS-14,DCS-15,Secure Utilities,Secure Utilities,id,1.000,exact-spec,no
 carried,DCS-15,DCS-16,Equipment Location,Equipment Location,id,1.000,exact-spec,no
 added,,DCS-17,,Datacenter Metrics,added,,,yes
 added,,DCS-18,,Datacenter Operations Resilience,added,,,yes
-carried,DSP-01,DSP-01,Security and Privacy Policy and Procedures,Security and Privacy Policy and Procedures,spec-substantive,0.857,same-id+title,no
+carried,DSP-01,DSP-01,Security and Privacy Policy and Procedures,Security and Privacy Policy and Procedures,spec-substantive,0.920,same-id+title,no
 carried,DSP-02,DSP-02,Secure Disposal,Secure Disposal,unchanged,1.000,exact-spec,no
 carried,DSP-03,DSP-03,Data Inventory,Data Inventory,spec-cosmetic,0.997,same-id+title,no
 carried,DSP-04,DSP-04,Data Classification,Data Classification,spec-substantive,0.899,same-id+title,no
@@ -144,7 +144,7 @@ carried,I&S-07,I&S-07,Migration to Hosted Environments,Migration to Hosted Envir
 carried,I&S-08,I&S-08,Network Architecture Documentation,Network Architecture Documentation,spec-substantive,0.584,same-id+title,no
 carried,I&S-09,I&S-09,Network Defense,Network Defense,unchanged,1.000,exact-spec,no
 carried,IAM-01,IAM-01,Identity and Access Management Policy and Procedures,Identity and Access Management Policy and Procedures,unchanged,1.000,exact-spec,no
-added,,IAM-02,,Credentials Management Policy and Procedures,added,,,yes
+carried,IAM-02,IAM-02,Strong Password Policy and Procedures,Credentials Management Policy and Procedures,title+spec-substantive,0.749,mutual-best(0.75),no
 carried,IAM-03,IAM-03,Identity Inventory,Identity Inventory,unchanged,1.000,exact-spec,no
 carried,IAM-04,IAM-04,Separation of Duties,Separation of Duties,unchanged,1.000,exact-spec,no
 carried,IAM-05,IAM-05,Least Privilege,Least Privilege,unchanged,1.000,exact-spec,no
@@ -167,9 +167,9 @@ carried,IPY-03,IPY-03,Secure Interoperability and Portability Management,Secure 
 carried,IPY-04,IPY-04,Data Portability Contractual Obligations,Data Portability Contractual Obligations,spec-substantive,0.922,same-id+title,no
 carried,LOG-01,LOG-01,Logging and Monitoring Policy and Procedures,Logging and Monitoring Policy and Procedures,unchanged,1.000,exact-spec,no
 carried,LOG-02,LOG-02,Audit Logs Protection,Audit Logs Protection,unchanged,1.000,exact-spec,no
-carried,LOG-03,LOG-03,Security Monitoring and Alerting,Security Monitoring and Alerting,spec-substantive,0.374,same-id+title,no
+carried,LOG-03,LOG-03,Security Monitoring and Alerting,Security Monitoring and Alerting,spec-substantive,0.848,same-id+title,no
 carried,LOG-04,LOG-04,Audit Logs Access and Accountability,Audit Logs Access and Accountability,spec-substantive,0.731,same-id+title,no
-carried,LOG-05,LOG-05,Audit Logs Monitoring and Response,Audit Logs Monitoring and Response,spec-substantive,0.729,same-id+title,no
+carried,LOG-05,LOG-05,Audit Logs Monitoring and Response,Audit Logs Monitoring and Response,spec-substantive,0.781,same-id+title,no
 carried,LOG-06,LOG-06,Clock Synchronization,Clock Synchronization,unchanged,1.000,exact-spec,no
 carried,LOG-07,LOG-07,Logging Scope,Logging Scope,spec-substantive,0.897,same-id+title,no
 added,,LOG-08,,Audit Logs Sanitization,added,,,yes
@@ -197,11 +197,11 @@ carried,MDS-13,MDS-13,Secure Model Format,Secure Model Format,unchanged,1.000,ex
 carried,SEF-01,SEF-01,Security Incident Management Policy and Procedures,Security Incident Management Policy and Procedures,spec-cosmetic,0.998,same-id+title,no
 carried,SEF-02,SEF-02,Service Management Policy and Procedures,Service Management Policy and Procedures,unchanged,1.000,exact-spec,no
 carried,SEF-03,SEF-03,Incident Response Plans,Incident Response Plans,spec-cosmetic,0.971,same-id+title,no
-carried,SEF-04,SEF-04,Incident Response Testing,Incident Response Testing,spec-substantive,0.724,same-id+title,no
+carried,SEF-04,SEF-04,Incident Response Testing,Incident Response Testing,spec-substantive,0.733,same-id+title,no
 carried,SEF-05,SEF-05,Incident Response Metrics,Incident Response Metrics,unchanged,1.000,exact-spec,no
 carried,SEF-06,SEF-06,Event Triage Processes,Event Triage Processes,unchanged,1.000,exact-spec,no
 added,,SEF-07,,Incident Management and Response,added,,,yes
-carried,SEF-07,SEF-08,Security Breach Notification,Security Breach Notification,id+spec-substantive,0.157,domain+title,no
+carried,SEF-07,SEF-08,Security Breach Notification,Security Breach Notification,id+spec-substantive,0.936,domain+title,no
 added,,SEF-09,,Incident Records Management,added,,,yes
 carried,SEF-08,SEF-10,Points of Contact Maintenance,Points of Contact Maintenance,id,1.000,exact-spec,no
 carried,STA-01,STA-01,"Supply Chain Risk 
@@ -251,6 +251,5 @@ carried,UEM-11,UEM-11,Data Loss Prevention,Data Loss Prevention,unchanged,1.000,
 carried,UEM-12,UEM-12,Remote Locate,Remote Locate,unchanged,1.000,exact-spec,no
 carried,UEM-13,UEM-13,Remote Wipe,Remote Wipe,unchanged,1.000,exact-spec,no
 carried,UEM-14,UEM-14,Third-Party Endpoint Security Posture,Third-Party Endpoint Security Posture,unchanged,1.000,exact-spec,no
-removed,IAM-02,,Strong Password Policy and Procedures,,removed,,,yes
 removed,IAM-12,,Safeguard Logs Integrity,,removed,,,yes
 removed,SEF-09,,Incident Response,,removed,,,yes

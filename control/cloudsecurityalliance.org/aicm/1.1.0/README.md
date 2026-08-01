@@ -24,7 +24,8 @@ alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) b
 > crosswalks, STAR submissions — **you cannot migrate them by string match.**
 > Use [`../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv).
 >
-> Full analysis: [`../VERSIONING.md`](../VERSIONING.md)
+> Full analysis: [`../VERSIONING.md`](../VERSIONING.md) · per-control verdicts:
+> [`../crosswalks/aicm-1.0.3-to-1.1.0-changelog.md`](../crosswalks/aicm-1.0.3-to-1.1.0-changelog.md)
 
 ## Contents
 
