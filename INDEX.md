@@ -50,7 +50,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
 | `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
-| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 5 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |

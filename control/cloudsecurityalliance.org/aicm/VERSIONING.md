@@ -260,5 +260,9 @@ fix is to record the version at the time the reference is written.
 | [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) | Generates both from the extractions + crosswalk |
 
 The AI-CAIQ companion versions in lockstep and inherits every problem on this
-page — question IDs are derived from control IDs, so `LOG-15.1` moved too. See
-[`../aicm-caiq/`](../aicm-caiq/).
+page — question IDs are derived from control IDs, so `LOG-15.1` moved too. It is
+in fact worse: **63 of the 302 question IDs shared between AI-CAIQ 1.0.2 and
+1.1.0 now ask a different question**, and 48 more were materially reworded under
+an unchanged ID. Per-question detail in
+[`../aicm-caiq/1.1.0/CHANGELOG.md`](../aicm-caiq/1.1.0/CHANGELOG.md); mapping in
+[`crosswalks/aicm-caiq-1.0.2-to-1.1.0-crosswalk.csv`](crosswalks/aicm-caiq-1.0.2-to-1.1.0-crosswalk.csv).

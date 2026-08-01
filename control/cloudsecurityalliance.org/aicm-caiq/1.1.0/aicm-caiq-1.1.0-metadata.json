@@ -61,7 +61,7 @@
     "controls_covered": 247,
     "domains": 18
   },
-  "notes": "Question IDs derive from AICM control IDs, so the AICM v1.1.0 control renumbering moved question IDs too — AI-CAIQ 1.0.2 question IDs are NOT interchangeable with 1.1.0. See ../../aicm/VERSIONING.md. Answer columns (Service Provider AI-CAIQ Answer, SSRM Control Ownership, implementation description, customer responsibilities) ship blank; they are the vendor response template and are retained as empty fields in the extraction.",
+  "notes": "Question IDs derive from AICM control IDs, so the AICM v1.1.0 control renumbering moved question IDs too — AI-CAIQ 1.0.2 question IDs are NOT interchangeable with 1.1.0. Per-question detail is in CHANGELOG.md, with a machine-readable copy in aicm-caiq-1.1.0-changelog.json whose `id_reuse` field marks every question ID that now asks a different question — 63 of them. See ../../aicm/VERSIONING.md. Answer columns (Service Provider AI-CAIQ Answer, SSRM Control Ownership, implementation description, customer responsibilities) ship blank; they are the vendor response template and are retained as empty fields in the extraction.",
   "desired_end_state": {
     "state": "fully-extracted",
     "reason": "complete",
