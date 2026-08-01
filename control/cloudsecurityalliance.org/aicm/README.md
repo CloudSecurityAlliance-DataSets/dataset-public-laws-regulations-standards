@@ -60,8 +60,8 @@ Controls Matrix. Current release is **1.1.0**.
 | Path | What |
 |---|---|
 | [`VERSIONING.md`](VERSIONING.md) | What changed between releases, why ID-based diffs miss it, why the SecID version qualifier is load-bearing, and standing policy for future releases |
-| [`crosswalks/`](crosswalks/) | Content-based 1.0.3 → 1.1.0 control-ID crosswalk, the **per-control changelog**, and the generators that build them |
-| [`crosswalks/aicm-1.0.3-to-1.1.0-changelog.md`](crosswalks/aicm-1.0.3-to-1.1.0-changelog.md) | Every control in either release with a verdict — unchanged, renumbered from what, retitled, rewritten, added, removed |
+| [`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) | **Per-control changelog** — every control in 1.1.0, what it was in 1.0.3, and what changed |
+| [`crosswalks/`](crosswalks/) | Content-based 1.0.3 → 1.1.0 control-ID crosswalk and the generators for it and the changelog |
 
 ## Companions
 

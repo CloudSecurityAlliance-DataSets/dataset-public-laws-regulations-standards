@@ -24,8 +24,8 @@ alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) b
 > crosswalks, STAR submissions — **you cannot migrate them by string match.**
 > Use [`../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv).
 >
-> Full analysis: [`../VERSIONING.md`](../VERSIONING.md) · per-control verdicts:
-> [`../crosswalks/aicm-1.0.3-to-1.1.0-changelog.md`](../crosswalks/aicm-1.0.3-to-1.1.0-changelog.md)
+> Per-control detail: [`CHANGELOG.md`](CHANGELOG.md) · full analysis:
+> [`../VERSIONING.md`](../VERSIONING.md)
 
 ## Contents
 
@@ -33,6 +33,8 @@ alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) b
 |---|---|
 | `aicm-1.1.0.json` | Full extraction — 247 controls with guidelines, mappings, and AI-CAIQ questions, plus the LLM taxonomy and definition sections |
 | `aicm-1.1.0-controls.csv` | Flat view — one row per control, 247 × 52 columns |
+| `CHANGELOG.md` | Per-control changelog — every control, what it was in 1.0.3, what changed |
+| `aicm-1.1.0-changelog.json` | Same, machine-readable |
 | `aicm-1.1.0-metadata.json` | Document metadata, licence, and known source issues |
 | `scripts/parse_aicm.py` | Rebuilds the JSON and CSV from the publisher's workbook |
 | `scripts/parse_caiq.py` | Builds the companion questionnaire extraction under [`../../aicm-caiq/1.1.0/`](../../aicm-caiq/1.1.0/) |
