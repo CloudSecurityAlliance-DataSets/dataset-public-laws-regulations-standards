@@ -2,6 +2,17 @@
 
 Public repository of bulk-processed laws, regulations, standards, frameworks, and reference documents related to cloud and AI security. Maintained by the [Cloud Security Alliance](https://cloudsecurityalliance.org).
 
+> ### Looking for a version you can't find?
+>
+> **Version directories use the version string the artifact states about itself**, not the one on the publisher's download page. When those differ, the other labels are recorded as `version_aliases` in the directory's metadata.
+>
+> | Looking for | Go to |
+> |---|---|
+> | AICM **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm/1.1.0/`](control/cloudsecurityalliance.org/aicm/1.1.0/) — the spreadsheet stamps itself `1.1.0`; CSA's download page says "v1.1". Same release. |
+> | AI-CAIQ **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm-caiq/1.1.0/`](control/cloudsecurityalliance.org/aicm-caiq/1.1.0/) — same split, versions in lockstep with AICM. |
+>
+> **A version alias is a labelling statement, never a compatibility claim.** Different releases of the same document are not interchangeable — and in AICM's case emphatically not: **55 control IDs designate a different control in 1.1.0 than in 1.0.3**, so AICM control IDs must always be cited with a version. See [AICM versioning](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
+
 ## What's Here
 
 Machine-readable extractions of public-license security knowledge:
@@ -141,11 +152,7 @@ Every document directory contains a `[dirname]-metadata.json` describing the doc
 
 ### Version naming
 
-Publishers frequently refer to one release by more than one version string. **The directory name uses the version the artifact states about itself** — the string inside the file, not the one on the download page — and every other label is recorded in `version_aliases`.
-
-The current CSA AICM release is the standing example: the spreadsheet stamps itself `1.1.0`, while CSA's download page, the bundle ZIP, and the PDF titles all say **v1.1**. Same release. This repo uses **`1.1.0`** as canonical and aliases **`1.1`** to it, so `control/cloudsecurityalliance.org/aicm/1.1.0/` is where all four labels resolve. See [Version aliases](METADATA-SCHEMA.md#version-aliases).
-
-A version alias is a labelling statement only — it never implies two different releases are interchangeable. AICM is also the cautionary case there: **55 control IDs mean different things in 1.0.3 and 1.1.0**, so AICM control IDs must always be cited with a version. See [`control/cloudsecurityalliance.org/aicm/VERSIONING.md`](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
+Version directories use the version string the artifact states about itself, not the publisher's marketing label; other labels go in `version_aliases`. The rule, the rationale, and the AICM worked example are in [Version aliases](METADATA-SCHEMA.md#version-aliases); the common lookups are summarised [at the top of this file](#dataset-public-laws-regulations-and-standards).
 
 ## Licensing
 
