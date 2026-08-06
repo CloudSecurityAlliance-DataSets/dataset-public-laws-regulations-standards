@@ -1,0 +1,443 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A5 \u2013 Cloud Infrastructure Operations \nModule",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.66400146484375,
+          329.52294921875
+        ],
+        [
+          537.77001953125,
+          329.52294921875
+        ],
+        [
+          537.77001953125,
+          399.41552734375
+        ],
+        [
+          56.66400146484375,
+          399.41552734375
+        ]
+      ]
+    },
+    {
+      "title": "Change history",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.3115234375,
+          58.380859375
+        ],
+        [
+          186.541015625,
+          58.380859375
+        ],
+        [
+          186.541015625,
+          82.6376953125
+        ],
+        [
+          56.3115234375,
+          82.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.04534005037783,
+          63.731077471059656
+        ],
+        [
+          215.7880859375,
+          63.731077471059656
+        ],
+        [
+          215.7880859375,
+          88.907470703125
+        ],
+        [
+          54.04534005037783,
+          88.907470703125
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.0205078125,
+          60.64208984375
+        ],
+        [
+          211.859375,
+          60.64208984375
+        ],
+        [
+          211.859375,
+          88.3935546875
+        ],
+        [
+          56.0205078125,
+          88.3935546875
+        ]
+      ]
+    },
+    {
+      "title": "1.1 About the A5",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.275146484375,
+          97.952392578125
+        ],
+        [
+          186.83203125,
+          97.952392578125
+        ],
+        [
+          186.83203125,
+          117.686767578125
+        ],
+        [
+          56.275146484375,
+          117.686767578125
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Nature and Structure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.166015625,
+          324.17822265625
+        ],
+        [
+          236.7645721435547,
+          324.17822265625
+        ],
+        [
+          236.7645721435547,
+          343.09033203125
+        ],
+        [
+          56.166015625,
+          343.09033203125
+        ]
+      ]
+    },
+    {
+      "title": "2 Governance, Compliance and Scope (GCS)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.0205078125,
+          55.70849609375
+        ],
+        [
+          454.56640625,
+          55.70849609375
+        ],
+        [
+          454.56640625,
+          81.095947265625
+        ],
+        [
+          56.0205078125,
+          81.095947265625
+        ]
+      ]
+    },
+    {
+      "title": "2.1 GCS.2 Defining governance, roles and policies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.0205078125,
+          155.305419921875
+        ],
+        [
+          395.78125,
+          155.305419921875
+        ],
+        [
+          395.78125,
+          174.011962890625
+        ],
+        [
+          56.0205078125,
+          174.011962890625
+        ]
+      ]
+    },
+    {
+      "title": "2.1.1 GCS.2.5 Document evidence of the trustworthiness of the underlying \ninfrastructure and cloud components",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.3115234375,
+          186.2431640625
+        ],
+        [
+          493.77801513671875,
+          186.2431640625
+        ],
+        [
+          493.77801513671875,
+          219.75048828125
+        ],
+        [
+          56.3115234375,
+          219.75048828125
+        ]
+      ]
+    },
+    {
+      "title": "Guidance",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.23876953125,
+          418.9443359375
+        ],
+        [
+          115.02392578125,
+          418.9443359375
+        ],
+        [
+          115.02392578125,
+          434.5673828125
+        ],
+        [
+          56.23876953125,
+          434.5673828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/A5_Betriebsmodul-Cloud-Infrastruktur"
+}
