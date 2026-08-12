@@ -234,6 +234,18 @@ CHECKS = [
      ["README.md", f"{NEW_VERSION}/README.md", f"{OLD_VERSION}/README.md",
       f"{NEW_VERSION}/aicm-{NEW_VERSION}-metadata.json",
       f"{OLD_VERSION}/aicm-{OLD_VERSION}-metadata.json"]),
+
+    # The 1.1.1 report quotes the previous release's figures side by side with its
+    # own, to make the contrast concrete. Same numbers, same drift risk — the
+    # 55-vs-54 incident this script exists to prevent was in exactly these.
+    ("carried",        r"\| Carried \| (\d+) \|",                       [PATCH_REPORT]),
+    ("added",          r"\| Added / removed \| (\d+) / \d+ \|",         [PATCH_REPORT]),
+    ("removed",        r"\| Added / removed \| \d+ / (\d+) \|",         [PATCH_REPORT]),
+    ("renumbered",     r"\| Renumbered \(ID moved\) \| \*\*(\d+)\*\*",  [PATCH_REPORT]),
+    ("repointed",      r"\| Shared IDs whose referent changed \| \*\*(\d+)\*\*", [PATCH_REPORT]),
+    ("repointed",      r"(\d+) IDs survived while their referent changed", [PATCH_REPORT]),
+    ("substantive",    r"\| Specification substantively rewritten \| (\d+) \|", [PATCH_REPORT]),
+    ("review_needed",  r"\| Rows needing human review \| (\d+) \|",     [PATCH_REPORT]),
 ]
 
 
