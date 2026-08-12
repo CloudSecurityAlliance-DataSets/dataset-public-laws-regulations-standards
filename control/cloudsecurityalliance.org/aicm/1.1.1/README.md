@@ -160,13 +160,22 @@ footnote `*`; and the two ISO scenarios gain `A)` / `B)` labels and the word
 | `aicm-1.1.1.json` | Full extraction — 247 controls with guidelines, five-framework mappings, and AI-CAIQ questions, plus the LLM taxonomy and definition sections |
 | `aicm-1.1.1-controls.csv` | Flat view — one row per control, 247 × 58 columns (52 in 1.1.0; +6 for the two new framework triples) |
 | `aicm-1.1.1-metadata.json` | Document metadata, licence, and known source issues |
+| [`CHANGES-FROM-1.1.0.md`](CHANGES-FROM-1.1.0.md) | **Full change report** — the evidence behind this summary: every changed cell with its complete before/after text, per-domain mapping coverage, and cell accounting for all nine worksheets |
 | `scripts/parse_aicm.py` | Rebuilds the JSON and CSV from the publisher's workbook |
+
+Because the source workbooks are gitignored,
+[`CHANGES-FROM-1.1.0.md`](CHANGES-FROM-1.1.0.md) is the only in-repository record
+of what the 1.1.0 text of the three rewritten guidelines actually said. It also
+carries one finding this summary does not: 1.1.0's own `Introduction` sheet
+already described the five-framework mapping set it shipped only three of, which
+suggests the missing blocks were a packaging slip rather than a withdrawal.
 
 Two files that 1.1.0 has and this directory deliberately does not:
 
 - **No `CHANGELOG.md` / per-control changelog JSON.** Those exist to carry the
-  1.0.3 → 1.1.0 renumbering, which has no counterpart here. The four changed
-  cells are enumerated above in full.
+  1.0.3 → 1.1.0 renumbering, which has no counterpart here — a per-control record
+  would be 243 rows of "unchanged". `CHANGES-FROM-1.1.0.md` is the prose
+  equivalent, and the four changed cells are enumerated above in full.
 - **No `scripts/parse_caiq.py`.** The standalone questionnaire in this bundle is
   still labelled 1.1.0 (see below), so there is no `aicm-caiq@1.1.1` to build.
   Use [`../1.1.0/scripts/parse_caiq.py`](../1.1.0/scripts/parse_caiq.py), which
