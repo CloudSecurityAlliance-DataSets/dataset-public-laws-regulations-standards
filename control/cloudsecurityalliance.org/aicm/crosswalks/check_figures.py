@@ -19,6 +19,13 @@ new wording — both worth a human look.
     python3 check_figures.py          # from anywhere; paths are resolved relative to this file
 
 Exit 0 if every figure agrees, 1 otherwise.
+
+Known coverage gap: the workbook-level cell counts in
+1.1.1/CHANGES-FROM-1.1.0.md — "3,598 differing cells" and its per-sheet
+breakdown — are NOT verified. Both source .xlsx files are gitignored, so this
+script has nothing to recompute them from. They describe two frozen published
+files, so the drift risk is low, but re-verify by hand if either workbook is
+re-fetched. Everything else quoted in that report IS checked below.
 """
 
 import csv
@@ -38,6 +45,10 @@ OLD_VERSION, NEW_VERSION = "1.0.3", "1.1.0"
 # diffing the two extractions directly, and the "nothing moved" claim the 1.1.1
 # docs rest on is itself asserted as an invariant.
 PATCH_OLD, PATCH_NEW = "1.1.0", "1.1.1"
+
+# The standalone 1.1.0 -> 1.1.1 report. Quotes enough derived figures to be worth
+# checking in its own right.
+PATCH_REPORT = f"{PATCH_NEW}/CHANGES-FROM-{PATCH_OLD}.md"
 
 
 def load():
@@ -133,6 +144,9 @@ def compute_patch(old, old_doc, new, new_doc):
         "nist_full_gap": full_gap("nist_ai_rmf_nist_ai_600_1"),
         "bsi_full_gap": full_gap("bsi_ai_c4"),
         "iso_full_gap": full_gap("iso_iec_42001_2023"),
+        "no_mapping_total": (tally("aiuc_1_q2_2026_version", no_mapping)
+                             + tally("nist_ai_rmf_nist_ai_600_1", no_mapping)
+                             + tally("eu_ai_act", no_mapping)),
     }
 
 
@@ -182,6 +196,19 @@ PATCH_CHECKS = [
     ("iso_full_gap",    r"42001's (\d+)",
      [f"{PATCH_NEW}/README.md", f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
     ("patch_controls",  r"`Full Gap` of (\d+)",                  [f"{PATCH_NEW}/README.md"]),
+
+    # CHANGES-FROM-1.1.0.md — the standalone report. Its workbook-level cell
+    # counts (3,598 differing cells and the per-sheet breakdown) are NOT checked
+    # here: both source .xlsx files are gitignored, so this script cannot recompute
+    # them. They describe two frozen files, so the drift risk is low, but the gap
+    # is real — verify them by hand if either workbook is ever re-fetched.
+    ("aiuc_no_mapping", r"AIUC-1 \((\d+)\), NIST",               [PATCH_REPORT]),
+    ("nist_no_mapping", r"NIST \((\d+)\), and the EU AI Act",    [PATCH_REPORT]),
+    ("eu_no_mapping",   r"EU AI Act \((\d+) —",                  [PATCH_REPORT]),
+    ("no_mapping_total", r"(\d+) cells across three frameworks", [PATCH_REPORT]),
+    ("aiuc_mapped",     r"\| AIUC-1 \| (\d+) \| \d+ \|",         [PATCH_REPORT]),
+    ("nist_mapped",     r"\| NIST AI RMF \+ AI 600-1 \| (\d+) \| \d+ \|", [PATCH_REPORT]),
+    ("patch_controls",  r"All (\d+) control IDs, titles",        [PATCH_REPORT]),
 ]
 
 

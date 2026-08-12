@@ -75,6 +75,7 @@ Neither 1.1.x directory claims the bare `1.1` / `v1.1` alias — see the box abo
 | [`VERSIONING.md`](VERSIONING.md) | What changed between releases, why ID-based diffs miss it, why the SecID version qualifier is load-bearing, and standing policy for future releases |
 | [`1.1.0/aicm-1.1.0-changelog.json`](1.1.0/aicm-1.1.0-changelog.json) | **Per-control changelog, machine-readable** — `previous_id`, `changes[]`, `spec_similarity`, `id_reuse` per control |
 | [`1.1.0/CHANGELOG.md`](1.1.0/CHANGELOG.md) | The same for reading, plus the JSON's schema |
+| [`1.1.1/CHANGES-FROM-1.1.0.md`](1.1.1/CHANGES-FROM-1.1.0.md) | **1.1.0 → 1.1.1 change report** — complete before/after text of every changed cell, mapping coverage by domain, and why no crosswalk is needed |
 | [`crosswalks/`](crosswalks/) | Content-based 1.0.3 → 1.1.0 control-ID crosswalk and the generators for it and the changelog |
 
 ## Companions
