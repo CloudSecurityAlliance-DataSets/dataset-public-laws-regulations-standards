@@ -2,9 +2,17 @@
 
 `secid:control/cloudsecurityalliance.org/aicm@1.1.0` · 247 controls · 18 domains · published 2026-06-22
 
-**Also known as AICM 1.1.** CSA's download page calls this release "v1.1"; the
-spreadsheet calls itself `1.1.0`. Same release, two labels — we use **1.1.0** and
-alias 1.1 to it. See [Version naming and aliases](#version-naming-and-aliases) below.
+> **Superseded by [AICM 1.1.1](../1.1.1/)** (2026-07-13). Control IDs are stable
+> between the two, so a 1.1.0 reference migrates to 1.1.1 by string match — no
+> crosswalk needed. 1.1.1 adds AIUC-1 and NIST mapping blocks and corrects four
+> cells. **For new work, use 1.1.1.** This directory is retained because
+> assessments authored against the 1.1.0 workbook cite its three-framework
+> mapping set and its pre-correction `GRC-01`/`IAM-13`/`IAM-18` Model Provider
+> guidance.
+>
+> Note that CSA ships 1.1.1 under the same "v1.1" label, bundle name, and stated
+> release date as this version — see
+> [Version naming and aliases](#version-naming-and-aliases).
 
 > ## ⚠️ Control IDs changed meaning in this release
 >
@@ -77,21 +85,32 @@ CSA labels this release two ways, and both are in circulation:
 | CSA artifact / download page | "AI Controls Matrix **v1.1**" |
 | Bundle ZIP and PDF titles | "AICM **v1.1**" |
 
-**We use `1.1.0` as canonical and alias `1.1` to it.** The artifact's own internal
-stamp wins over the download page, because that is the string a consumer parsing
-the file will actually encounter — and it keeps the version sort stable against
-the sibling releases `1.0.3` and `0.0.2`.
+**We use `1.1.0` as canonical.** The artifact's own internal stamp wins over the
+download page, because that is the string a consumer parsing the file will
+actually encounter — and it keeps the version sort stable against the sibling
+releases `1.0.3` and `0.0.2`.
 
-Recorded machine-readably in `aicm-1.1.0-metadata.json`:
+### The bare `1.1` / `v1.1` aliases were withdrawn
+
+This directory held them until **2026-07-13**, when CSA published
+[AICM 1.1.1](../1.1.1/) through the *same* artifact page, the *same* bundle name,
+and the *same* "AI Controls Matrix v1.1" label, without updating the stated
+release date. "v1.1" therefore now names two different datasets depending on when
+you downloaded it, and no longer resolves to a single version.
+
+Neither directory claims it. Recorded machine-readably in
+`aicm-1.1.0-metadata.json`:
 
 ```json
 "version": "1.1.0",
-"version_aliases": ["1.1", "v1.1", "v1.1.0"],
+"version_aliases": ["v1.1.0"],
+"version_aliases_withdrawn": { "aliases": ["1.1", "v1.1"], "reason": "..." },
 ```
 
-So `AICM 1.1`, `AICM v1.1`, and `AICM 1.1.0` all denote **this** directory. Note
-this is a labelling alias only — it says nothing about compatibility with 1.0.3,
-which is a genuinely different release (see the warning above).
+**Cite `AICM 1.1.0` or `AICM 1.1.1` explicitly; a bare "v1.1" citation is not
+resolvable.** Note this is all labelling — it says nothing about compatibility.
+1.1.1 is compatible with this release (same control IDs); 1.0.3 is not (see the
+warning above).
 
 One wrinkle worth knowing: the three guidance PDFs from this bundle live under
 `reference/` in directories named `v1.1`, not `1.1.0`. That follows the existing
@@ -103,9 +122,13 @@ same release.
 
 **NIST AI 600-1:2024 mappings were withdrawn.** The Scope Applicability sheet
 dropped from 16 columns to 13. Only BSI AI C4, the EU AI Act, and ISO/IEC
-42001:2023 remain. Accepted as shipped — if you need NIST AI 600-1 mappings,
-they exist only in the [v1.0.3 extraction](../1.0.3/), whose control IDs do not
-carry over.
+42001:2023 remain. Accepted as shipped for this release.
+
+> **Restored in [1.1.1](../1.1.1/)**, for all 247 controls, and widened to cover
+> the NIST AI RMF as well as AI 600-1. If you need NIST mappings, **use 1.1.1** —
+> its control IDs are identical to this release's. Do not fall back to the
+> [v1.0.3 extraction](../1.0.3/) as earlier revisions of this file advised; its
+> control IDs do not carry over.
 
 **Schema change in the extraction.** The ownership key
 `gen_ai_ops_processing_infrastructure` is now
