@@ -39,7 +39,7 @@
     "notes": "Dated 2026-07-13 from the three AICM v1.1.1 rows of the workbook's own Change Log sheet. Unlike 1.1.0, the publisher's artifact page cannot be used as the date of record here: the page is still branded \"AI Controls Matrix v1.1\" and still states the 1.1.0 release date of 06/22/2026, while silently serving the 1.1.1 workbook. With no public statement specific to this release, the artifact's internal change log is the best available evidence.\n\nDates considered and not used:\n  - 2026-07-22 — the `generated_at` token in both spreadsheet filenames, and dcterms:created in docProps/core.xml (2026-07-22T17:15:10Z). This is when the workbooks were built from CSA's internal tooling, nine days after the change-log date. Retained as `generated_at` in the extraction JSON for provenance.\n  - 2026-06-22 — the release date still shown on the artifact page. That date belongs to 1.1.0 and was not updated for this release.\n\nUNANNOUNCED PATCH RELEASE. CSA replaced the workbook inside the \"v1.1\" bundle without changing the bundle name, the artifact-page version label, or the stated release date. The only outward signals are the filename version token and the cell A1 stamp. Anyone who downloaded \"AICM v1.1\" before roughly 2026-07-22 has 1.1.0; anyone downloading after has 1.1.1. Both are labelled v1.1."
   },
   "current_extraction": {
-    "s3_timestamp": null,
+    "s3_timestamp": "2026-08-11T22-33-40Z",
     "tool": "scripts/parse_aicm.py",
     "tool_version": "n/a",
     "extraction_host": "local",
@@ -49,7 +49,7 @@
   },
   "extraction_history": [
     {
-      "s3_timestamp": null,
+      "s3_timestamp": "2026-08-11T22-33-40Z",
       "status": "current",
       "reason": "Initial extraction of AICM 1.1.1",
       "tool": "parse_aicm.py"
