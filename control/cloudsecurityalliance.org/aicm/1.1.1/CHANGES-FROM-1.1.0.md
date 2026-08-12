@@ -632,6 +632,72 @@ identical from outside. Migrating from **1.0.3** is a different matter entirely
 and still requires
 [`../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv).
 
+### Verified with the renumbering detector, not just by field comparison
+
+"No IDs moved" is exactly the claim that was false in 1.0.3 → 1.1.0, and it was
+false in a way a set-difference of identifiers could not see: 54 IDs survived
+while their referent changed, and only one ID disappeared outright. So this
+release was checked with the tool built for that failure mode —
+[`../crosswalks/build_crosswalk.py`](../crosswalks/build_crosswalk.py), which
+matches controls by **content** and ignores the identifier:
+
+```bash
+./build_crosswalk.py --old ../1.1.0/aicm-1.1.0.json --new ../1.1.1/aicm-1.1.1.json \
+    --old-version 1.1.0 --new-version 1.1.1 --output /tmp/xw-111.csv
+```
+
+```
+AICM 1.1.0 (247) -> 1.1.1 (247)
+  carried    247  (renumbered 0)
+  added      0
+  removed    0
+  specification substantively changed: 0
+  rows needing human review:           0
+```
+
+Every one of the 247 rows matched on the **`exact-spec`** pass — normalised
+specification text identical and unique — with `spec_similarity` 1.000 and
+`change` recorded as `unchanged`. No row fell through to a title, same-id, or
+fuzzy pass, and none was flagged for review.
+
+The contrast with the previous release is the point:
+
+| | 1.0.3 → 1.1.0 | 1.1.0 → 1.1.1 |
+|---|---:|---:|
+| Controls | 243 → 247 | 247 → 247 |
+| Carried | 241 | **247** |
+| Added / removed | 6 / 2 | **0 / 0** |
+| Renumbered (ID moved) | **53** | **0** |
+| Shared IDs whose referent changed | **54** | **0** |
+| Specification substantively rewritten | 34 | **0** |
+| Rows needing human review | 9 | **0** |
+| Match passes required | 6 (`exact-spec`, `same-id+title`, `domain+title`, `same-id`, `mutual-best`, `domain+fuzzy`) | **1** (`exact-spec`) |
+
+Three further corroborating checks, all negative:
+
+- **Positional order.** The control sequence is identical position by position —
+  first divergence: none. An insertion renumbering a domain in place would shift
+  every subsequent row, which this would catch even if IDs had been reassigned to
+  preserve the set.
+- **AI-CAIQ question IDs.** 320 → 320, none added, none removed, and **no question
+  ID is attached to a different control**. Only `SEF-06.1`'s text changed. This
+  was a live risk, not a formality: question IDs derive from control IDs
+  (`LOG-15.1` belongs to `LOG-15`), so the previous release dragged them along
+  with the control renumbering — the AI-CAIQ 1.0.2 → 1.1.0 crosswalk records 70
+  renumbered, 11 added, 2 removed, 48 reworded, out of 302 shared IDs. Nothing of
+  that kind happens here.
+- **Titles.** `old_title` equals `new_title` on all 247 rows. In 1.0.3 → 1.1.0 six
+  controls kept both ID *and* title while changing meaning, which is why title
+  equality alone was never sufficient evidence — here it agrees with the spec
+  match rather than substituting for it.
+
+The crosswalk CSV is deliberately **not committed**: 247 rows of `unchanged`
+carries no information a consumer could act on, and committing it would imply a
+migration step exists. The command above regenerates it in seconds from two
+committed JSON files if anyone wants to re-verify. The invariants behind these
+figures are asserted on every run of
+[`../crosswalks/check_figures.py`](../crosswalks/check_figures.py).
+
 ---
 
 ## Version labelling
