@@ -47,8 +47,14 @@ cells.
 
 ## Everything that differs from 1.1.0
 
-Verified by diffing the two extractions field by field across all 247 controls.
-The list is complete — every other field is identical.
+Verified two ways: field by field across all 247 controls of the two
+extractions, and cell by cell across all nine worksheets of the two workbooks
+(3,598 differing cells, of which 3,453 are the mappings sheet and 9 are the
+per-sheet version stamp in row 1).
+
+Items 1–3 are changes to the **extracted data**. Item 4 covers changes to
+workbook sheets this extraction does **not** capture — including two scoping
+notes you need in order to read the new mapping blocks correctly.
 
 ### 1. Two mapping frameworks added (13 → 19 columns)
 
@@ -95,6 +101,57 @@ joined by an editorial marker:
 doubled text is in the 1.0.3 and `aicm-caiq` 1.0.2 extractions — so this is the
 first release where the question is clean. Earlier extractions carry it
 as-shipped and are not retroactively edited.
+
+### 4. Sheets this extraction does not capture
+
+`parse_aicm.py` reads six of the nine worksheets. The `Introduction`,
+`Acknowledgments`, and `Change Log` sheets also changed, and one of those changes
+is **materially useful**:
+
+**Two new scoping notes explain the new mapping blocks' high gap counts.** Read
+these before drawing conclusions from `Full Gap` on either new framework — AIUC-1
+records 104 `Full Gap` of 247, NIST 110 of 247, far above BSI AI C4's 3 or ISO
+42001's 5. CSA's own explanation, added to `Introduction` in this release, is that
+the gap is one of *scope*, not of weakness:
+
+> **\*\*** Regarding the 'AICM to NIST AI RMF & AI 600-1' Mapping: The AICM is a
+> set of security controls for AI systems that operate on the cloud, thus
+> including infrastructure security controls as well (CCM v4.1 controls). NIST AI
+> 600-1 and AI RMF are focused only on AI and genAI. The gaps identified that
+> fall outside the scope of these 2 NIST frameworks, are expected to be covered
+> by other NIST frameworks like NIST SP 800-53, etc.
+
+> **\*\*\*** AIUC-1 does not cover non-AI risks that are already addressed by
+> broader frameworks and regulations such as SOC 2, ISO 27001, or GDPR.
+> Organizations are expected to manage compliance with these frameworks
+> separately.
+
+**A new caveat on the ownership and applicability columns**, which *are* extracted
+— so this qualifies data in `aicm-1.1.1.json` while living in a sheet that is not:
+
+> **IMPORTANT NOTE:** Both the control ownership attributions and applicability to
+> the service model/layer (Cloud/GenAIOps - Model - Orchestrated Service -
+> AI-Service) are meant to represent a high-level simplification. The AICM user
+> should revise those attributions depending on the contractually agreed SSRM for
+> the specific LLM/GenAI services environment.
+
+Also in `Introduction`: the mapping-tab paragraph reorders its framework list to
+put AIUC-1 first; "The column describes the suggested compensating control"
+becomes "The addendum column describes…"; the ISO 27001/27002 bullet becomes
+footnote `*`; and the two ISO scenarios gain `A)` / `B)` labels and the word
+"compliant".
+
+`Acknowledgments` gains two contributor sections — `AIUC-1 (Q2 2026) Mapping` and
+`NIST AI RMF & AI 600-1 Mapping (2024)` — and relabels one column group from
+`Authors` to `Contributors`.
+
+`Change Log` gains the three v1.1.1 rows quoted throughout this README.
+
+> **Open question:** these notes are guidance the data cannot be read correctly
+> without, and they currently exist only in the gitignored workbook and quoted
+> here in prose. Capturing the `Introduction` sheet into the extraction — as a
+> `source_notes` block alongside `definitions` — would put them in the JSON where
+> a consumer would find them. That is a schema addition, so it is not done here.
 
 ## Contents
 
