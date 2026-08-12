@@ -94,6 +94,11 @@ def compute_patch(old, old_doc, new, new_doc):
     no_mapping = lambda v: v == "No Mapping"
     blank = lambda v: not v
 
+    def full_gap(slug):
+        return sum(1 for c in new.values()
+                   if ((c.get("scope_applicability_mappings") or {})
+                       .get(slug, {}) or {}).get("gap_level") == "Full Gap")
+
     # Fields whose equality across the two releases is what "patch release" means.
     identity = ["control_domain", "control_title", "control_specification",
                 "control_type", "typical_control_applicability_and_ownership",
@@ -121,6 +126,13 @@ def compute_patch(old, old_doc, new, new_doc):
         "nist_mapped": tally("nist_ai_rmf_nist_ai_600_1", mapped),
         "nist_no_mapping": tally("nist_ai_rmf_nist_ai_600_1", no_mapping),
         "eu_no_mapping": tally("eu_ai_act", no_mapping),
+        # Quoted to explain why the two blocks added in 1.1.1 look so much gappier
+        # than the older ones — CSA's answer is scope, not weakness. See
+        # known_source_issues/introduction-sheet-notes-not-extracted.
+        "aiuc_full_gap": full_gap("aiuc_1_q2_2026_version"),
+        "nist_full_gap": full_gap("nist_ai_rmf_nist_ai_600_1"),
+        "bsi_full_gap": full_gap("bsi_ai_c4"),
+        "iso_full_gap": full_gap("iso_iec_42001_2023"),
     }
 
 
@@ -160,6 +172,16 @@ PATCH_CHECKS = [
     ("aiuc_no_mapping", r"the other (\d+) unmapped controls",       [f"{PATCH_NEW}/README.md"]),
     ("aiuc_no_mapping", r"the other (\d+) controls with no AIUC-1",
      [f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
+    ("aiuc_full_gap",   r"AIUC-1 records (\d+) `Full Gap` of \d+", [f"{PATCH_NEW}/README.md"]),
+    ("aiuc_full_gap",   r"AIUC-1 (\d+) of \d+ and NIST",
+     [f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
+    ("nist_full_gap",   r"NIST (\d+) of \d+",
+     [f"{PATCH_NEW}/README.md", f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
+    ("bsi_full_gap",    r"BSI AI C4's (\d+)",
+     [f"{PATCH_NEW}/README.md", f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
+    ("iso_full_gap",    r"42001's (\d+)",
+     [f"{PATCH_NEW}/README.md", f"{PATCH_NEW}/aicm-{PATCH_NEW}-metadata.json"]),
+    ("patch_controls",  r"`Full Gap` of (\d+)",                  [f"{PATCH_NEW}/README.md"]),
 ]
 
 
