@@ -140,13 +140,19 @@ were added "across all four external frameworks." Only three frameworks are
 present (BSI AI C4, EU AI Act, ISO/IEC 42001:2023).
 
 **Accepted as shipped.** The v1.1.0 extraction carries the three frameworks that
-are actually there. Anyone who needs NIST AI 600-1 mappings has to fall back to
-the 1.0.3 extraction — and its control IDs do not carry over, which is the whole
-subject of this page.
+are actually there.
+
+**Restored in v1.1.1** for all 247 controls, and widened to cover the NIST AI RMF
+as well as AI 600-1. Anyone needing NIST mappings should use
+[`1.1.1/`](1.1.1/) — not the 1.0.3 extraction, whose control IDs do not carry
+over, which is the whole subject of this page. For the ~3 weeks between the two
+releases the only source of NIST mappings was 1.0.3, and any reference built in
+that window against 1.0.3 IDs still needs the crosswalk.
 
 The v1.1.0 parser discovers the mapping frameworks from the sheet's group header
 row and refuses to run if they differ from what it expects, so the next
-add-or-drop is a loud failure rather than a silently short record.
+add-or-drop is a loud failure rather than a silently short record. **That guard
+fired on the very next release** — see §1b.
 
 Three smaller source quirks are handled explicitly and catalogued under
 `known_source_issues` in
@@ -160,6 +166,62 @@ Three smaller source quirks are handled explicitly and catalogued under
 
 Both `source_data_notes` blocks are recomputed from the parsed data on every run,
 so the record cannot drift from what was actually extracted.
+
+---
+
+## 1b. What changed between v1.1.0 and v1.1.1 — and why it is a different shape
+
+**Control IDs are stable across this pair.** All 247 IDs, titles, specifications,
+control types, ownership assignments, relevance grids, threat categories, and
+auditing guidelines are identical between the two extractions, as are the LLM
+taxonomy and definition sections. A v1.1.0 reference migrates to v1.1.1 by string
+match, and **no crosswalk is provided because none is needed.**
+
+That sentence is here deliberately. Everywhere else on this page the message is
+"never migrate by string match", and the absence of a `1.1.0-to-1.1.1` file in
+[`crosswalks/`](crosswalks/) is indistinguishable, from the outside, from an
+oversight. It is not one.
+
+The complete delta is four cells and two added mapping blocks:
+
+| # | Change | Detail |
+|---|---|---|
+| 1 | Two mapping frameworks **added** (13 → 19 columns) | `AIUC-1 Q2 2026 Version` (new) and `NIST AI RMF + NIST AI 600-1` (restored, see above). The three carried-over blocks are identical in every cell for every control, and their slugs are unchanged, so consumers keying on them are unaffected. |
+| 2 | Three Model Provider implementation guidelines **corrected** | `GRC-01`, `IAM-13`, `IAM-18`. In v1.1.0 the Model Provider column held text tagged for other actors — `[Application Provider/Orchestrated Service Provider/AI Customer]`, `[ALL Actors - AICM - CSP]`, `[All Actors]`. v1.1.1 replaces all three with Model-Provider-specific guidance. |
+| 3 | One AI-CAIQ question **corrected** | `SEF-06.1` shipped with two drafts concatenated into one cell, joined by the literal editorial marker `Alternative formulation:`. The defect predates v1.1.0 — it is in the 1.0.3 and `aicm-caiq` 1.0.2 extractions too — so v1.1.1 is the first release where this question is clean. |
+
+### The release was shipped unannounced under the previous label
+
+This is the part worth generalizing from. CSA replaced the workbook inside the
+"AICM v1.1" bundle without changing the bundle name, the artifact-page version
+label, or the stated release date of 06/22/2026. The only outward signals that a
+new release exists are the `generated_at` token in the filename and the cell A1
+JSON stamp.
+
+**Consequence: "AICM v1.1" now names two different datasets.** So the bare
+aliases `1.1` and `v1.1`, which [`1.1.0/`](1.1.0/) previously claimed, are now
+claimed by neither directory — an alias that resolves to two datasets is not an
+alias. `version_aliases_withdrawn` in
+[`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json) records the
+withdrawal and why.
+
+This is the same failure mode as the ID renumbering, one level up: a stable-looking
+string whose referent changed underneath it. §3's standing policy applies to
+**bundle labels and filenames**, not just control IDs.
+
+### The parser guard earned its keep
+
+The v1.1.0 parser was written to discover mapping frameworks from the merged
+group-header row and hard-error on a mismatch, precisely so the next add-or-drop
+would be loud. Run against the v1.1.1 workbook it exited 1 and named both new
+frameworks. A parser trusting fixed column offsets — the obvious implementation —
+would have read AIUC-1's mapping into the BSI AI C4 field and emitted 247
+plausible, entirely wrong rows.
+
+`EXPECTED_FRAMEWORKS` in
+[`1.1.1/scripts/parse_aicm.py`](1.1.1/scripts/parse_aicm.py) now carries the
+history of the list across all three releases, since that churn is the reason the
+check exists at all.
 
 ---
 
@@ -208,6 +270,14 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
    download page, and record every other label CSA uses in `version_aliases`.
    CSA has published this release as both "v1.1" and "1.1.0"; expect the same
    split next time.
+2b. **Check the version stamp even when nothing looks new.** CSA shipped 1.1.1
+   inside the unchanged "AICM v1.1" bundle, at the unchanged artifact URL, still
+   showing the 1.1.0 release date — the workbook filename and cell A1 were the
+   only tells. Re-download periodically and compare the stamp; a bundle name is
+   not a version. And **do not claim an alias that two releases share**: when a
+   label stops resolving to one dataset, withdraw it from both directories and
+   record the withdrawal (see `version_aliases_withdrawn` in
+   [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json)).
 3. **Generate the per-control changelog** with
    [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) and commit it as
    `<version>/CHANGELOG.md` alongside its `<name>-<version>-changelog.json`. Both are
@@ -218,7 +288,10 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
    previous release before doing anything else.
 5. **Commit the crosswalk** as `crosswalks/aicm-<old>-to-<new>-crosswalk.csv`.
    It is the only artifact that lets a downstream consumer migrate stored
-   references, and CSA does not publish one.
+   references, and CSA does not publish one. **If the diff shows IDs did not
+   move** — as with 1.1.0 → 1.1.1 — skip the crosswalk but *say so in writing*,
+   in both the new version's README and here. An absent crosswalk otherwise reads
+   as an oversight rather than a finding.
 6. **Read the change log, then distrust it.** It records intent. It has already
    proven silent on renumbering and wrong about mapping coverage.
 7. **Re-verify the parsers.** Column layouts and sheet names move between
@@ -262,8 +335,9 @@ fix is to record the version at the time the reference is written.
 | Path | What |
 |---|---|
 | [`0.0.2/`](0.0.2/) | Pre-release draft (`aicm@0.0.2`) |
-| [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls. Last release carrying NIST AI 600-1 mappings. [README](1.0.3/README.md) |
-| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, current. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
+| [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls. Last release before the renumbering. [README](1.0.3/README.md) |
+| [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, superseded. Three mapping frameworks. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
+| [`1.1.1/`](1.1.1/) | AICM v1.1.1 — 247 controls, **current**. Same IDs as 1.1.0; five mapping frameworks. Parsers in [`1.1.1/scripts/`](1.1.1/scripts/). [README](1.1.1/README.md) |
 | [`crosswalks/build_crosswalk.py`](crosswalks/build_crosswalk.py) | Content-based crosswalk generator |
 | [`crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv`](crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv) | Machine-readable old-ID → new-ID mapping, one row per control |
 | [`1.1.0/aicm-1.1.0-changelog.json`](1.1.0/aicm-1.1.0-changelog.json) | **Per-control changelog, machine-readable** — the form to build against |

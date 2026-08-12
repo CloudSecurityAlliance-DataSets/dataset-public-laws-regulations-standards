@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 539
+**Total documents indexed:** 540
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 68 | 32 | 33 | — | — | **133** |
+| `control/` | 69 | 32 | 33 | — | — | **134** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **170** | **179** | **180** | **4** | **6** | **539** |
+| **Total** | **171** | **179** | **180** | **4** | **6** | **540** |
 
 ## control/
 
@@ -41,7 +41,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/amazon.com/security-hub-standards/` | extracted | 3 | `MX·····` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 14 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
-| `control/bsi.bund.de/a5/` | structured | 8 | `M··CS··` | `secid:control/bsi.bund.de/a5` |
+| `control/bsi.bund.de/a5/` | structured | 17 | `MX·CS··` | `secid:control/bsi.bund.de/a5` |
 | `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
 | `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
@@ -49,6 +49,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
 | `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
+| `control/cloudsecurityalliance.org/aicm/1.1.1/` | structured | 5 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.1` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |

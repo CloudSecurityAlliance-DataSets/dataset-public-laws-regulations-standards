@@ -9,10 +9,15 @@
   ],
   "version": "1.1.0",
   "version_aliases": [
-    "1.1",
-    "v1.1",
     "v1.1.0"
   ],
+  "version_aliases_withdrawn": {
+    "aliases": [
+      "1.1",
+      "v1.1"
+    ],
+    "reason": "These bare aliases pointed here until AICM 1.1.1 shipped (2026-07-13) through the same artifact page, the same bundle name, and the same 'AI Controls Matrix v1.1' label. 'v1.1' now identifies two different datasets depending on download date, so it no longer resolves to a single version and is claimed by neither directory. See ../1.1.1/aicm-1.1.1-metadata.json known_source_issues/release-served-under-a-stale-version-label."
+  },
   "publication_id": "AICM-1.1.0",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
@@ -34,11 +39,11 @@
   },
   "lifecycle": {
     "published": "2026-06-22",
-    "active": true,
+    "active": false,
     "supersedes": "AICM 1.0.3",
-    "supersededBy": null,
-    "retiredFromActiveUse": null,
-    "notes": "AI Controls Matrix v1.1 Released: 06/22/2026, per CSA's artifact page at https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1. That is the date recorded in the `published` field above.\n\nThe source bundle carries four different dates for this release. The publisher's download page is treated as authoritative because it is the citable public statement of record; the others are build and packaging artifacts that describe stages of production rather than the release itself.\n\nDates considered and not used:\n  - 2026-06-18 — the `generated_at` token in both spreadsheet filenames. This is when the workbooks were generated from CSA's internal tooling, four days before publication. Retained as `generated_at` in the extraction JSON for provenance, but it is not the release date.\n  - 2026-06-22 — filesystem mtime on both spreadsheets inside the ZIP. Coincides with the artifact-page date, but mtimes are not a reliable published-on signal and are not cited independently.\n  - 2026-06-23 — the date on the AICM v1.1.0 row of the workbook's own Change Log sheet, one day after the artifact page. Likely when the change log itself was finalized.\n  - 2026-03-17 — the AI-CAIQ v1.1.0 row of the questionnaire's Change Log, three months earlier. This dates the questionnaire revision, not the bundle release.\n\nVersion string: the workbook stamps itself 1.1.0 in cell A1 of every sheet ({\"specification_name\":\"AI Controls Matrix\",\"specification_version\":\"1.1.0\"}); CSA's artifact page brands it \"v1.1\". The directory uses the workbook's own 1.1.0, matching the three-part 1.0.3 convention."
+    "supersededBy": "AICM 1.1.1 (released 2026-07-13)",
+    "retiredFromActiveUse": "2026-07-13",
+    "notes": "SUPERSEDED BY 1.1.1, which CSA shipped without changing the bundle name, the artifact-page version label, or the stated release date — so this directory and 1.1.1 are both branded 'AICM v1.1' upstream. Control IDs are stable between the two: 1.1.1 is a genuine patch release and a 1.1.0 reference migrates to it by string match. Retained because assessments authored against the 1.1.0 workbook cite its three-framework mapping set and its pre-correction GRC-01/IAM-13/IAM-18 Model Provider guidance.\n\nAI Controls Matrix v1.1 Released: 06/22/2026, per CSA's artifact page at https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1. That is the date recorded in the `published` field above.\n\nThe source bundle carries four different dates for this release. The publisher's download page is treated as authoritative because it is the citable public statement of record; the others are build and packaging artifacts that describe stages of production rather than the release itself.\n\nDates considered and not used:\n  - 2026-06-18 — the `generated_at` token in both spreadsheet filenames. This is when the workbooks were generated from CSA's internal tooling, four days before publication. Retained as `generated_at` in the extraction JSON for provenance, but it is not the release date.\n  - 2026-06-22 — filesystem mtime on both spreadsheets inside the ZIP. Coincides with the artifact-page date, but mtimes are not a reliable published-on signal and are not cited independently.\n  - 2026-06-23 — the date on the AICM v1.1.0 row of the workbook's own Change Log sheet, one day after the artifact page. Likely when the change log itself was finalized.\n  - 2026-03-17 — the AI-CAIQ v1.1.0 row of the questionnaire's Change Log, three months earlier. This dates the questionnaire revision, not the bundle release.\n\nVersion string: the workbook stamps itself 1.1.0 in cell A1 of every sheet ({\"specification_name\":\"AI Controls Matrix\",\"specification_version\":\"1.1.0\"}); CSA's artifact page brands it \"v1.1\". The directory uses the workbook's own 1.1.0, matching the three-part 1.0.3 convention."
   },
   "current_extraction": {
     "s3_timestamp": "2026-07-31T17-56-34Z",
@@ -82,8 +87,8 @@
   "known_source_issues": [
     {
       "id": "nist-ai-600-1-mappings-withdrawn",
-      "status": "accepted",
-      "summary": "The Scope Applicability (Mappings) sheet dropped from 16 columns to 13. The NIST AI 600-1:2024 mapping block, populated for all 243 controls in v1.0.3, is absent — while the same workbook's Change Log claims mapping rows were added 'across all four external frameworks'. Only BSI AI C4, EU AI Act, and ISO/IEC 42001:2023 are present. Accepted as-shipped: the extraction carries the three frameworks actually present. Consumers needing NIST AI 600-1 mappings must use the 1.0.3 extraction, remembering that its control IDs are not interchangeable with 1.1.0."
+      "status": "resolved-in-1.1.1",
+      "summary": "The Scope Applicability (Mappings) sheet dropped from 16 columns to 13. The NIST AI 600-1:2024 mapping block, populated for all 243 controls in v1.0.3, is absent — while the same workbook's Change Log claims mapping rows were added 'across all four external frameworks'. Only BSI AI C4, EU AI Act, and ISO/IEC 42001:2023 are present. Accepted as-shipped for this release: the extraction carries the three frameworks actually present.\n\nRESOLVED IN 1.1.1, which restores the NIST mappings for all 247 controls and widens the block to the NIST AI RMF as well as AI 600-1. The earlier advice to fall back to the 1.0.3 extraction is now obsolete and should not be followed — 1.0.3 control IDs are not interchangeable with these, whereas 1.1.1 carries NIST mappings against control IDs identical to 1.1.0's. Use ../1.1.1/."
     },
     {
       "id": "ownership-vocabulary-inconsistency",
