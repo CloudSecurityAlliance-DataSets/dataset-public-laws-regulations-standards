@@ -1,0 +1,134 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm@1.1.1",
+  "name": "AI Controls Matrix",
+  "acronym": "AICM",
+  "alternate_names": [
+    "CSA AICM v1.1.1",
+    "AI Controls Matrix v1.1.1",
+    "AICM 1.1.1"
+  ],
+  "version": "1.1.1",
+  "version_aliases": [
+    "v1.1.1"
+  ],
+  "publication_id": "AICM-1.1.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "CSA AI Controls Matrix v1.1.1 — current AICM release. 247 controls across 18 domains, with cross-framework mappings to AIUC-1, BSI AI C4, the EU AI Act, ISO/IEC 42001:2023, and NIST AI RMF + NIST AI 600-1. A patch release over 1.1.0: the control set is unchanged (same 247 IDs, same specifications, no renumbering), and the changes are two added mapping frameworks, three corrected Model Provider implementation guidelines, and one corrected AI-CAIQ question. Companion to CCM for general-cloud-security controls; AICM adds AI-specific overlays. Ships as a ZIP bundle with the AICM spreadsheet, the standalone AI-CAIQ questionnaire, and three PDF guidance documents.",
+  "relationToCloudSecurity": "AICM controls layer on top of cloud-platform controls (covered by CCM). For AI workloads in cloud, both frameworks apply together.",
+  "relationToAISecurity": "AICM is THE current cloud-industry AI controls catalog. Used in CSA STAR for AI Level 1 self-assessments.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Copyright notice in the v1.1.1 workbook reads © Copyright 2026 Cloud Security Alliance."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-07-13",
+    "active": true,
+    "supersedes": "AICM 1.1.0",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Dated 2026-07-13 from the three AICM v1.1.1 rows of the workbook's own Change Log sheet. Unlike 1.1.0, the publisher's artifact page cannot be used as the date of record here: the page is still branded \"AI Controls Matrix v1.1\" and still states the 1.1.0 release date of 06/22/2026, while silently serving the 1.1.1 workbook. With no public statement specific to this release, the artifact's internal change log is the best available evidence.\n\nDates considered and not used:\n  - 2026-07-22 — the `generated_at` token in both spreadsheet filenames, and dcterms:created in docProps/core.xml (2026-07-22T17:15:10Z). This is when the workbooks were built from CSA's internal tooling, nine days after the change-log date. Retained as `generated_at` in the extraction JSON for provenance.\n  - 2026-06-22 — the release date still shown on the artifact page. That date belongs to 1.1.0 and was not updated for this release.\n\nUNANNOUNCED PATCH RELEASE. CSA replaced the workbook inside the \"v1.1\" bundle without changing the bundle name, the artifact-page version label, or the stated release date. The only outward signals are the filename version token and the cell A1 stamp. Anyone who downloaded \"AICM v1.1\" before roughly 2026-07-22 has 1.1.0; anyone downloading after has 1.1.1. Both are labelled v1.1."
+  },
+  "current_extraction": {
+    "s3_timestamp": null,
+    "tool": "scripts/parse_aicm.py",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from AICMv1.1.1-generated_at_2026_07_22.xlsx. 247 controls, each with implementation guidelines, auditing guidelines, five-framework mappings, and its AI-CAIQ questions. Full LLM Taxonomy captured. Parser adapted from the 1.1.0 copy: EXPECTED_FRAMEWORKS grew from three entries to five, and the literal \"No Mapping\" cell value is now tallied in source_data_notes.sentinel_values rather than passing unremarked."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": null,
+      "status": "current",
+      "reason": "Initial extraction of AICM 1.1.1",
+      "tool": "parse_aicm.py"
+    }
+  ],
+  "scope": {
+    "controls": 247,
+    "domains": 18,
+    "caiq_questions": 320,
+    "cross_framework_mappings": [
+      "AIUC-1 Q2 2026 Version",
+      "BSI AI C4",
+      "EU AI Act",
+      "ISO/IEC 42001:2023",
+      "NIST AI RMF + NIST AI 600-1"
+    ]
+  },
+  "source_bundle": {
+    "archive": "AICM v1.1 (bundle name unchanged from the 1.1.0 release)",
+    "contents": [
+      "AICMv1.1.1-generated_at_2026_07_22.xlsx",
+      "AI_CAIQv1.1.0-star_security_questionnaire-generated_at_2026_07_22.xlsx",
+      "AICM v1.1 Introductory Guidance.pdf",
+      "Filling in the AI CAIQ_ Instructions and Recommendations.pdf",
+      "STAR for AI Level 1 Submission Guide.pdf"
+    ],
+    "notes": "The bundle still presents itself as \"AICM v1.1\" and the three PDF filenames are unchanged from the 1.1.0 release. The standalone questionnaire is still versioned 1.1.0 in its filename, sheet name, title, copyright notice, and caiq_version stamp, even though its own Change Log adds an \"AI-CAIQ v1.1.1\" row — see known_source_issues/caiq-version-label-disagreement. It belongs under control/cloudsecurityalliance.org/aicm-caiq/, not here."
+  },
+  "notes": "PATCH RELEASE — CONTROL IDs ARE STABLE vs 1.1.0. This is the opposite situation from 1.0.3 -> 1.1.0. All 247 control IDs, titles, specifications, control types, ownership assignments, architectural relevance, lifecycle relevance, threat categories, and auditing guidelines are byte-identical to the 1.1.0 extraction. The LLM Taxonomy and definitions sections are identical. No crosswalk from 1.1.0 is needed, and none is provided — a 1.1.0 control ID may be migrated to 1.1.1 by string match. This is stated explicitly because 'no crosswalk exists' and 'no crosswalk is needed' look identical from outside; see ../VERSIONING.md.\n\nThe complete set of differences from the 1.1.0 extraction is:\n  1. Two mapping frameworks added — AIUC-1 Q2 2026 Version, and NIST AI RMF + NIST AI 600-1. The three frameworks carried over from 1.1.0 (BSI AI C4, EU AI Act, ISO/IEC 42001:2023) are unchanged in every cell for every control.\n  2. Three implementation_guidelines.model_provider values corrected — GRC-01, IAM-13, IAM-18. See known_source_issues/mp-guidelines-were-misscoped-in-1.1.0.\n  3. One AI-CAIQ question corrected — SEF-06.1. See known_source_issues/sef-06-draft-artifact-fixed.\n\nSCHEMA: unchanged from the 1.1.0 extraction except that scope_applicability_mappings now carries five framework keys instead of three, and source_data_notes gains a sentinel_values array. Consumers keying on the three 1.1.0 framework slugs are unaffected; the slugs are identical.",
+  "known_source_issues": [
+    {
+      "id": "nist-mappings-restored",
+      "status": "resolved-upstream",
+      "summary": "RESOLVES the nist-ai-600-1-mappings-withdrawn issue recorded against 1.1.0. That release shipped a 13-column Scope Applicability sheet with no NIST block at all, while its own Change Log claimed mappings were added 'across all four external frameworks'. 1.1.1 delivers the NIST mappings the 1.1.0 change log described, populated for all 247 controls, and widens the block to cover the NIST AI RMF in addition to AI 600-1. Consumers who were told to fall back to the 1.0.3 extraction for NIST mappings — remembering its control IDs are not interchangeable — no longer need to: 1.1.1 has NIST mappings against current, stable control IDs."
+    },
+    {
+      "id": "release-served-under-a-stale-version-label",
+      "status": "accepted",
+      "summary": "CSA publishes this release through the same artifact page, bundle name, and stated release date as 1.1.0 — https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1, 'AI Controls Matrix v1.1', released 06/22/2026. Nothing on the page distinguishes 1.1.1 from 1.1.0. The version is discoverable only from the workbook filename token and the cell A1 JSON stamp. Practical consequence: 'AICM v1.1' is ambiguous and now identifies two different datasets, so a bare v1.1 citation cannot be resolved to a specific extraction. Cite 1.1.0 or 1.1.1 explicitly. The bare aliases '1.1' and 'v1.1' are deliberately NOT claimed by either version directory for this reason."
+    },
+    {
+      "id": "mp-guidelines-were-misscoped-in-1.1.0",
+      "status": "resolved-upstream",
+      "summary": "Three Model Provider implementation-guideline cells held content scoped to other actors in 1.1.0 and were rewritten here: GRC-01 (the MP cell opened with the literal tag '[Application Provider/Orchestrated Service Provider/AI Customer]'), IAM-13 (opened '[MP]' but continued into '[ALL Actors - AICM - CSP]' guidance), and IAM-18 (opened '[All Actors]'). 1.1.1 replaces all three with Model-Provider-specific text — an AI governance framework for GRC-01, unique model/variant identifiers and downstream propagation for IAM-13, and a tool/plugin exposure inventory with least-privilege defaults for IAM-18. These are the only three cells that differ across the entire Implementation Guidelines sheet."
+    },
+    {
+      "id": "sef-06-draft-artifact-fixed",
+      "status": "resolved-upstream",
+      "summary": "The AI-CAIQ question for SEF-06.1 shipped in 1.1.0 with two drafts concatenated into one cell, joined by the editorial marker 'Alternative formulation:'. 1.1.1 keeps only the second wording: 'Are processes, procedures and technical measures supporting business processes to triage security-related events, defined, implemented and evaluated?'. The defect predates 1.1.0 — the same doubled text is present in the 1.0.3 and aicm-caiq 1.0.2 extractions — so 1.1.1 is the first release in which this question is clean. Those earlier extractions still carry the artifact as-shipped and are not retroactively edited."
+    },
+    {
+      "id": "aiuc-1-mds-13-blank-vs-no-mapping",
+      "status": "absent-at-source",
+      "summary": "MDS-13 (Secure Model Format) is the only control whose AIUC-1 control-mapping cell is empty. THIS IS NOT A DATA CONVERSION ERROR — the cell is blank in CSA's workbook. It is conspicuous because the adjacent cells ARE populated ('Full Gap', plus an addendum reading 'Address model-artifact protection or format integrity'), and because the same column states the literal 'No Mapping' for the other 103 controls with no AIUC-1 counterpart. The blank therefore looks like an omission where 'No Mapping' was intended, but the extraction does not infer that: it emits null and records the cell in source_data_notes.gaps_in_source. Every other AIUC-1 and NIST mapping cell is populated."
+    },
+    {
+      "id": "no-mapping-is-a-value-not-an-absence",
+      "status": "accepted",
+      "summary": "Three of the five framework blocks state the literal string 'No Mapping' where no counterpart control exists: AIUC-1 (103 controls), the EU AI Act (83 controls, unchanged from 1.1.0), and NIST AI RMF + AI 600-1 (110 controls). This is preserved verbatim rather than normalized to null, because an explicit publisher finding of 'we looked and there is no counterpart' is not the same fact as an unstated mapping — collapsing them would destroy the distinction the gaps_in_source machinery exists to protect. Consumers filtering for 'has a mapping' must therefore exclude the string 'No Mapping' as well as null. Counts are recomputed on every parse run into source_data_notes.sentinel_values so they cannot drift from the data."
+    },
+    {
+      "id": "ownership-vocabulary-inconsistency",
+      "status": "normalized",
+      "summary": "Unchanged from 1.1.0 and still present in this release. GRC-01 through GRC-08 record the Cloud/AI Processing Infrastructure owner as 'Cloud Service Provider (CSP)' where the other 239 controls use the full form 'Owned by the Cloud Service Provider (CSP)'. Same meaning, inconsistent phrasing in the source. Normalized to the full form so the ownership vocabulary is a closed set of 10 values. All 8 substitutions are itemized by control ID in source_data_notes.normalizations_applied in aicm-1.1.1.json, and the substitution table lives in OWNERSHIP_NORMALIZATIONS in scripts/parse_aicm.py."
+    },
+    {
+      "id": "blank-ownership-cells",
+      "status": "absent-at-source",
+      "summary": "Unchanged from 1.1.0. Five Typical Control Applicability and Ownership cells are empty in the publisher's workbook: DSP-21 (Cloud/AI Processing Infrastructure), DSP-23 and DSP-24 (Cloud/AI Processing Infrastructure and Orchestrated Services). THIS IS NOT A DATA CONVERSION ERROR — CSA's spreadsheet does not state an owner for these cells. They are emitted as null to preserve the distinction between 'the publisher did not state this' and 'the extraction lost it'. Itemized cell-by-cell in source_data_notes.gaps_in_source in aicm-1.1.1.json."
+    },
+    {
+      "id": "dsp-08-missing-bsi-mapping",
+      "status": "absent-at-source",
+      "summary": "Unchanged from 1.1.0 and long-standing (the same gap exists in v1.0.3). DSP-08 is the only control with no BSI AI C4 control mapping; the cell is empty in CSA's workbook. Recorded in source_data_notes.gaps_in_source in aicm-1.1.1.json."
+    }
+  ],
+  "desired_end_state": {
+    "state": "fully-extracted",
+    "reason": "complete",
+    "notes": "247 controls with guidelines, five-framework mappings, and embedded AI-CAIQ questions. Reproducible via scripts/parse_aicm.py against the workbook named in current_extraction. The standalone questionnaire shipped in the same bundle is still labelled 1.1.0 and is extracted separately under ../../aicm-caiq/."
+  }
+}

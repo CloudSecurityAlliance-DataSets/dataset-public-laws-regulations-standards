@@ -3,46 +3,56 @@
 `secid:control/cloudsecurityalliance.org/aicm`
 
 CSA's AI security controls catalog — the AI-specific companion to the Cloud
-Controls Matrix. Current release is **1.1.0**.
+Controls Matrix. Current release is **1.1.1**.
 
-> ## "AICM 1.1" and "AICM 1.1.0" are the same release
+> ## ⚠️ "AICM v1.1" is ambiguous — it names two different datasets
 >
-> CSA labels the current release two ways and both are in circulation:
+> CSA published **1.1.1** on 2026-07-13 through the same artifact page, the same
+> bundle name, and the same "AI Controls Matrix v1.1" label as 1.1.0, without
+> updating the stated release date. Both releases are branded "v1.1" upstream.
 >
-> | Where | String |
-> |---|---|
-> | Cell A1 of every worksheet | `{"specification_version":"1.1.0"}` |
-> | Spreadsheet filename | `AICMv1.1.0-generated_at_2026_06_18.xlsx` |
-> | CSA artifact / download page | "AI Controls Matrix **v1.1**" |
-> | Bundle ZIP and PDF titles | "AICM **v1.1**" |
+> | Where | 1.1.0 bundle | 1.1.1 bundle |
+> |---|---|---|
+> | CSA artifact / download page | "AI Controls Matrix **v1.1**" | "AI Controls Matrix **v1.1**" *(unchanged)* |
+> | Stated release date | 06/22/2026 | 06/22/2026 *(unchanged)* |
+> | Bundle ZIP and PDF titles | "AICM **v1.1**" | "AICM **v1.1**" *(unchanged)* |
+> | Spreadsheet filename | `AICMv1.1.0-generated_at_2026_06_18.xlsx` | `AICMv1.1.1-generated_at_2026_07_22.xlsx` |
+> | Cell A1 of every worksheet | `{"specification_version":"1.1.0"}` | `{"specification_version":"1.1.1"}` |
 >
-> **This repo uses `1.1.0` as canonical and aliases `1.1` to it.** The artifact's
-> own internal version stamp wins over the download page — it is what a consumer
-> parsing the file actually encounters, and it keeps the version sort stable
-> against the sibling releases `1.0.3` and `0.0.2`.
+> The version is discoverable only from the filename token and the cell A1 stamp.
+> Downloaded before roughly 2026-07-22 → 1.1.0. After → 1.1.1.
 >
-> So `AICM 1.1`, `AICM v1.1`, and `AICM 1.1.0` all mean [`1.1.0/`](1.1.0/).
-> Recorded machine-readably as `version_aliases` in the metadata.
+> **This repo uses the workbook's own internal stamp as canonical**, so the two
+> live in [`1.1.0/`](1.1.0/) and [`1.1.1/`](1.1.1/). The bare aliases `1.1` and
+> `v1.1` are claimed by **neither** — `1.1.0/` held them until 1.1.1 shipped and
+> has since given them up, because they no longer resolve to one dataset.
 >
-> This is a **labelling** alias. It says nothing about compatibility — see the
-> next box, which is the opposite situation.
+> **Cite `AICM 1.1.0` or `AICM 1.1.1`. A bare "AICM v1.1" citation cannot be
+> resolved to an extraction.**
+>
+> All of the above is **labelling**. For compatibility, 1.1.0 → 1.1.1 is safe
+> (identical control IDs) and 1.0.3 → 1.1.x is not — see the next box.
 
-> ## ⚠️ Control IDs are not stable between 1.0.3 and 1.1.0
+> ## ⚠️ Control IDs are not stable between 1.0.3 and 1.1.x
 >
-> CSA renumbered controls in place in 1.1.0. **54 of the 242 control IDs shared
-> between the two releases now designate a different control.**
+> CSA renumbered controls in place in 1.1.0, and 1.1.1 inherits that numbering
+> unchanged. **54 of the 242 control IDs shared between 1.0.3 and 1.1.x now
+> designate a different control.**
 >
-> | ID | means in 1.0.3 | means in 1.1.0 |
+> | ID | means in 1.0.3 | means in 1.1.x |
 > |---|---|---|
 > | `LOG-15` | Output Monitoring | **Input Monitoring** |
 > | `IAM-12` | Safeguard Logs Integrity | **Unique Identities** |
 > | `TVM-12` | Threat Analysis and Modelling | **Vulnerability Management Metrics** |
 >
 > Only one ID disappeared outright, so a set-difference of control IDs does *not*
-> detect this. Never migrate a reference between versions by string match — use
+> detect this. Never migrate a 1.0.3 reference forward by string match — use
 > the crosswalk.
 >
-> **Always cite AICM control IDs with a version.** `AICM 1.1.0 LOG-15`, never
+> **1.1.0 → 1.1.1 is the exception: IDs are stable there** and migrate by string
+> match. 1.1.1 is a patch release that touches no control identity.
+>
+> **Always cite AICM control IDs with a version.** `AICM 1.1.1 LOG-15`, never
 > `AICM LOG-15`.
 >
 > Full analysis and standing policy: [`VERSIONING.md`](VERSIONING.md)
@@ -51,9 +61,12 @@ Controls Matrix. Current release is **1.1.0**.
 
 | Version | Controls | Released | State | Notes |
 |---|---:|---|---|---|
-| [`1.1.0/`](1.1.0/) | 247 | 2026-06-22 | **current** | Aliases: 1.1, v1.1. Renumbered IDs. NIST AI 600-1 mappings withdrawn. |
-| [`1.0.3/`](1.0.3/) | 243 | 2025-11-10 | superseded | Last release carrying NIST AI 600-1 mappings. |
+| [`1.1.1/`](1.1.1/) | 247 | 2026-07-13 | **current** | Patch over 1.1.0 — same control IDs. Adds AIUC-1 + NIST AI RMF/600-1 mappings; corrects 3 MP guidelines and 1 CAIQ question. Shipped unannounced under the "v1.1" label. |
+| [`1.1.0/`](1.1.0/) | 247 | 2026-06-22 | superseded | Renumbered IDs vs 1.0.3. NIST mappings withdrawn (restored in 1.1.1). |
+| [`1.0.3/`](1.0.3/) | 243 | 2025-11-10 | superseded | Last release before the renumbering. |
 | [`0.0.2/`](0.0.2/) | — | — | pre-release draft | Early working draft. |
+
+Neither 1.1.x directory claims the bare `1.1` / `v1.1` alias — see the box above.
 
 ## Also here
 
