@@ -5,8 +5,8 @@
   "alternate_names": [
     "MITRE CAPEC"
   ],
-  "version": "",
-  "publication_id": "CAPEC",
+  "version": "3.9",
+  "publication_id": "CAPEC-3.9",
   "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
   "type": "Taxonomy",
   "description": "CAPEC is a community-developed list of common attack patterns \u2014 abstractions of techniques attackers use to exploit weaknesses (CWEs). Each CAPEC entry describes prerequisites, typical severity, attack flow, mitigations, and references to CWEs and CVE examples. Where CWE answers \"what is the weakness?\", CAPEC answers \"how is the weakness attacked?\". CAPEC is organized into views including Mechanisms of Attack and Domains of Attack.",
@@ -24,6 +24,9 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Common_Attack_Pattern_Enumeration_and_Classification",
     "source": "https://capec.mitre.org/",
     "downloads": "https://capec.mitre.org/data/downloads.html",
+    "primary_file": "https://capec.mitre.org/data/xml/capec_latest.xml",
+    "github_stix": "https://github.com/mitre/cti/tree/master/capec",
+    "github_stix_usage": "https://github.com/mitre/cti/blob/master/USAGE-CAPEC.md",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,7 +35,7 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "CAPEC is actively maintained though release cadence is slower than CWE/ATT&CK. Often consumed alongside CWE (each CWE entry links to relevant CAPEC patterns)."
+    "notes": "Corrected 2026-08-12: this entry previously described CAPEC as 'actively maintained though release cadence is slower than CWE/ATT&CK'. That understates it. capec_latest.xml reports Version=\"3.9\" Date=\"2023-01-24\", and the HTTP Last-Modified header agrees — no release in over three years. Treat CAPEC as a stable, effectively frozen reference rather than a moving target: mappings built on 3.9 are unlikely to be invalidated, but CAPEC will not reflect recent attack patterns, notably nothing AI/ML-specific from the last three years. active=true per the schema (3.9 is the version currently in force; nothing supersedes it)."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -51,8 +54,14 @@
       "tool": "n/a"
     }
   ],
-  "scope": {},
-  "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side.",
+  "scope": {
+    "external_source": "https://capec.mitre.org/data/downloads.html",
+    "upstream_caveat": "CAPEC has no dedicated GitHub data repository — the weakest GitHub publication story among the MITRE frameworks in this tree, alongside FiGHT. The authoritative distribution is direct download from capec.mitre.org. A STIX rendering ships in mitre/cti under capec/2.0/ and capec/2.1/.",
+    "formats": ["XML (~3.8 MB)", "CSV", "HTML", "STIX 2.0 and 2.1 via mitre/cti"],
+    "release_pattern": "No git tags or releases; versioned only by the Version and Date attributes on the XML root element. capec_latest.xml is an unversioned URL, so record Version/Date with any extraction.",
+    "identifier_pattern": "CAPEC-<n>, unpadded (CAPEC-1, CAPEC-100). Attack patterns, categories, and views share a single ID space, so a bare CAPEC-n does not indicate the object kind — check the containing element."
+  },
+  "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side. Because CAPEC is frozen at 3.9, it is a good candidate should a structured extraction ever be wanted — a one-time parse will not go stale quickly.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "upstream-only",
