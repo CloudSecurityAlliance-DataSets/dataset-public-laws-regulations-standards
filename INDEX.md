@@ -23,10 +23,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/` | 69 | 32 | 33 | — | — | **134** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
-| `ttp/` | 2 | — | 3 | — | — | **5** |
+| `ttp/` | — | — | 5 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **171** | **179** | **180** | **4** | **6** | **540** |
+| **Total** | **169** | **179** | **182** | **4** | **6** | **540** |
 
 ## control/
 
@@ -262,8 +262,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `ttp/mitre.org/atlas/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/atlas` |
 | `ttp/mitre.org/attack/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/attack` |
 | `ttp/mitre.org/capec/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/capec` |
-| `ttp/mitre.org/d3fend/` | structured | 3 | `M··C···` | `secid:ttp/mitre.org/d3fend` |
-| `ttp/mitre.org/fight/` | structured | 3 | `M···S··` | `secid:ttp/mitre.org/fight` |
+| `ttp/mitre.org/d3fend/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/d3fend` |
+| `ttp/mitre.org/fight/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/fight` |
 
 ## methodology/
 

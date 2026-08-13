@@ -22,6 +22,8 @@
   },
   "links": {
     "source": "https://fight.mitre.org/",
+    "github": "https://github.com/mitre/FiGHT",
+    "primary_file": "https://raw.githubusercontent.com/mitre/FiGHT/main/fight.yaml",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -30,27 +32,39 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "FiGHT is a newer MITRE knowledge base; release cadence less frequent than ATT&CK."
+    "notes": "active=true per the schema's definition (this version is currently in force; nothing supersedes it) — but note the publication cadence is quiet: no upstream commits since 2025-11-14 (HEAD 097cd5f73811). MITRE has not announced end-of-life. Re-check currency before relying on it. FiGHT has NO GitHub Releases and NO tags, and the data's own version fields are largely empty strings, so there is no version identifier to cite; pin by commit SHA."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
+    "tool": "n/a (external-reference policy)",
     "tool_version": "n/a",
-    "extraction_host": "local",
+    "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Local fight.json/yaml are direct downloads of MITRE-published exports. No transformation applied."
+    "notes": "Reference-only. fight.yaml is published in the mitre/FiGHT repository; consumers should fetch it pinned by commit SHA."
   },
   "extraction_history": [
     {
       "s3_timestamp": "unknown",
-      "status": "current",
+      "status": "superseded",
       "reason": "Direct upstream JSON/YAML download",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "2026-08-12",
+      "status": "current",
+      "reason": "Removed committed fight.yaml (624 KB) and fight.json (782 KB) and reverted to reference-only, matching this document's already-declared desired_end_state. The committed YAML had drifted badly against upstream's 1.14 MB and was missing the entire campaigns section (SolarWinds Compromise, Operation Soft Cell). Files remain in git history and S3.",
+      "tool": "n/a"
     }
   ],
   "scope": {
-    "covers": "5G network adversary techniques (core, RAN, management plane, 5G-specific protocols)"
+    "covers": "5G network adversary techniques (core, RAN, management plane, 5G-specific protocols)",
+    "external_source": "https://github.com/mitre/FiGHT",
+    "upstream_caveat": "The mitre/FiGHT repository is a built Nuxt static website committed to git (_nuxt/, index.html, CNAME), not a purpose-built data repository. The data files are included in the deploy artifact rather than published as a first-class dataset. This is the weakest publication model among the MITRE frameworks in this tree.",
+    "pinned_commit": "097cd5f73811 (2025-11-14)",
+    "counts_at_pinned_commit": "15 tactics, 183 techniques, 92 mitigations, 169 data sources, 10 groups, 16 software, 2 campaigns",
+    "identifier_pattern": "Tactics reuse ATT&CK tactic IDs verbatim (TA0001, TA0042, TA0043). Techniques split by lineage: FGT1### are ATT&CK-aligned (113 of 183, e.g. FGT1195 = ATT&CK T1195), FGT5### are 5G-original (70 of 183). Also FGM#### (mitigation), FGDS####[.###] (data source), FGG5### (group), FGS5### (software), and campaigns mixing reused ATT&CK IDs (C0024) with FiGHT-original (FGC5001).",
+    "yaml_top_level_keys": "tactics, techniques, mitigations, 'data sources' (note the space), groups, software, campaigns, case-studies"
   },
   "notes": "Niche but valuable for 5G operators. Often consumed alongside 3GPP security specifications.",
   "desired_end_state": {
