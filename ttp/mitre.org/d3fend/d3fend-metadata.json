@@ -5,7 +5,7 @@
   "alternate_names": [
     "MITRE D3FEND"
   ],
-  "version": "",
+  "version": "1.5.0",
   "publication_id": "D3FEND",
   "owner": "MITRE Corporation (with NSA sponsorship)",
   "type": "Framework",
@@ -13,16 +13,20 @@
   "relationToCloudSecurity": "D3FEND techniques apply to cloud defense: cloud-native controls (network policy enforcement, identity-bound credentials, runtime sensors) can be classified by D3FEND tactic, and gap analysis against the cloud platform's ATT&CK coverage maps cleanly through D3FEND.",
   "relationToAISecurity": "D3FEND does not yet have AI-specific defensive techniques. For AI defense, refer to controls in CSA AICM, NIST AI RMF, and the academic literature on adversarial ML defenses.",
   "license": {
-    "spdx": "LicenseRef-MITRE-D3FEND-Public-Release",
+    "spdx": "MIT",
     "redistribution": "permitted_with_attribution",
     "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
-    "license_text_url": "https://d3fend.mitre.org/about/",
-    "notes": "D3FEND content is released under MITRE Public Release with NSA sponsorship. The dataset (graph, CSV exports) is freely usable with attribution. Confirm specific license terms on the upstream page for redistribution."
+    "license_text_url": "https://github.com/d3fend/d3fend-ontology/blob/master/LICENSE.md",
+    "notes": "Verified 2026-08-12: the d3fend-ontology repository ships verbatim MIT License text, Copyright (c) 2022 The MITRE Corporation. This is the most permissive license among the MITRE frameworks in this tree. The rendered d3fend.mitre.org site describes the project as MITRE Public Release with NSA sponsorship; the ontology and its built distributions are MIT."
   },
   "links": {
     "source": "https://d3fend.mitre.org/",
     "downloads": "https://d3fend.mitre.org/resources/",
+    "github": "https://github.com/d3fend/d3fend-ontology",
+    "github_website": "https://github.com/d3fend/d3fend",
+    "distributions": "https://d3fend.mitre.org/ontologies/",
+    "changelog": "https://github.com/d3fend/d3fend-ontology/blob/master/CHANGELOG.md",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -31,23 +35,29 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "D3FEND is on an irregular release cadence; the latest version date is shown on d3fend.mitre.org. The local d3fend.csv is a snapshot."
+    "notes": "Active with near-daily commits and roughly quarterly tagged versions (1.0.0 through 1.5.0; 1.5.0 dated 2026-07-31). Note: d3fend-ontology publishes git TAGS, not GitHub Releases — the releases API returns empty, so resolve versions by tag. Built distributions at d3fend.mitre.org/ontologies/ are served from unversioned URLs that always return the current release; pin by git tag for reproducibility."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
+    "tool": "n/a (external-reference policy)",
     "tool_version": "n/a",
-    "extraction_host": "local",
+    "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Local d3fend.csv is a direct download of the MITRE-published CSV export. No transformation applied."
+    "notes": "Reference-only. Built distributions (d3fend.csv, .owl, .ttl, .json) are published at d3fend.mitre.org/ontologies/ and the ontology source is public and MIT-licensed at github.com/d3fend/d3fend-ontology. Consumers should fetch upstream and pin by git tag."
   },
   "extraction_history": [
     {
       "s3_timestamp": "unknown",
-      "status": "current",
+      "status": "superseded",
       "reason": "Direct upstream CSV download",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "2026-08-12",
+      "status": "current",
+      "reason": "Removed committed d3fend.csv and reverted to reference-only. The committed snapshot had drifted badly: 184 rows against upstream's 272 at time of check (88 techniques missing). Upstream is public, MIT-licensed, and tagged, so the no-bulk-mirror rule applies. File remains in git history and S3.",
+      "tool": "n/a"
     }
   ],
   "scope": {
@@ -59,11 +69,23 @@
       "Deceive",
       "Evict",
       "Restore"
-    ]
+    ],
+    "external_source": "https://github.com/d3fend/d3fend-ontology",
+    "primary_files": [
+      "https://d3fend.mitre.org/ontologies/d3fend.csv",
+      "https://d3fend.mitre.org/ontologies/d3fend.owl",
+      "https://d3fend.mitre.org/ontologies/d3fend.ttl",
+      "https://d3fend.mitre.org/ontologies/d3fend.json"
+    ],
+    "release_pattern": "git tags on d3fend-ontology (1.0.0 .. 1.5.0); no GitHub Releases",
+    "identifier_pattern": "D3-XXX, where the suffix is a mnemonic rather than a number (e.g. D3-OAM = Operational Activity Mapping). Differs from the numeric IDs used by every sibling framework in this tree.",
+    "csv_columns": "ID, D3FEND Tactic, D3FEND Technique, D3FEND Technique Level 0, D3FEND Technique Level 1, Definition",
+    "cross_framework_pins_1_5_0": "ATT&CK v19.0, ATLAS v2026.06, SPARTA v3.2, plus ATT&CK for ICS T0800-T0895 and OCSF seeAlso mappings"
   },
-  "notes": "D3FEND complements ATT&CK for purple-team and defensive-coverage analysis. The OWL/RDF representation is the authoritative form; CSV is a convenience export.",
+  "notes": "D3FEND complements ATT&CK for purple-team and defensive-coverage analysis. The OWL/RDF representation is the authoritative form; CSV is a convenience export. Notable secondary value: each release's CHANGELOG records the exact versions of ATT&CK, ATLAS, and SPARTA it maps against, which makes D3FEND a dated crosswalk between those frameworks — most crosswalks do not state their input versions.",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "taxonomy"
+    "state": "metadata-only",
+    "reason": "upstream-only",
+    "notes": "Changed from 'structured' on 2026-08-12. The ontology and its built CSV/OWL/TTL/JSON distributions are public, MIT-licensed, and tagged upstream, so mirroring produces drift without adding value."
   }
 }

@@ -23,10 +23,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/` | 71 | 32 | 33 | — | — | **136** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
-| `ttp/` | 2 | — | 3 | — | — | **5** |
+| `ttp/` | — | — | 5 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **173** | **179** | **180** | **4** | **6** | **542** |
+| **Total** | **171** | **179** | **182** | **4** | **6** | **542** |
 
 ## control/
 
@@ -264,8 +264,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `ttp/mitre.org/atlas/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/atlas` |
 | `ttp/mitre.org/attack/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/attack` |
 | `ttp/mitre.org/capec/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/capec` |
-| `ttp/mitre.org/d3fend/` | structured | 3 | `M··C···` | `secid:ttp/mitre.org/d3fend` |
-| `ttp/mitre.org/fight/` | structured | 3 | `M···S··` | `secid:ttp/mitre.org/fight` |
+| `ttp/mitre.org/d3fend/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/d3fend` |
+| `ttp/mitre.org/fight/` | metadata-only | 2 | `M······` | `secid:ttp/mitre.org/fight` |
 
 ## methodology/
 
@@ -594,7 +594,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
 | `reference/wa.gov/data-breach-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/wa.gov/data-breach-glossary` |
 | `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
-| `reference/wikimedia.org/security-team-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/wikimedia.org/security-team-definitions` |
+| `reference/wikimedia.org/security-team-definitions/` | structured | 6 | `MX·CSP·` | `secid:reference/wikimedia.org/security-team-definitions` |
 | `reference/wpscan.com/wpscan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wpscan.com/wpscan-glossary` |
 | `reference/xonasystems.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/xonasystems.com/cybersecurity-glossary` |
 | `reference/zohocorp.com/eprotect-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zohocorp.com/eprotect-security-glossary` |

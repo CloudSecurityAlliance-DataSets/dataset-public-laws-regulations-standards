@@ -6,8 +6,8 @@
     "MITRE ATT&CK Framework",
     "ATTACK"
   ],
-  "version": "16.1",
-  "publication_id": "ATTACK-v16.1",
+  "version": "19.2",
+  "publication_id": "ATTACK-v19.2",
   "owner": "MITRE Corporation (with US Government funding)",
   "type": "Framework",
   "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. It is organized as matrices (Enterprise, Mobile, ICS) of Tactics (the why \u2014 e.g., Initial Access, Execution, Persistence) crossed with Techniques (the how \u2014 e.g., Phishing, Command and Scripting Interpreter). Each Technique has sub-techniques, mitigations, detections, references to known threat groups, and software used. ATT&CK is the de facto common language for adversary behavior in threat intelligence, detection engineering, and red/purple-team work. The Enterprise matrix covers Windows, macOS, Linux, Containers, Cloud (AWS/Azure/GCP/SaaS/IaaS/Office 365), and Network platforms.",
@@ -19,14 +19,18 @@
     "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://attack.mitre.org/resources/legal-and-branding/terms-of-use/",
-    "notes": "ATT&CK content is governed by the MITRE ATT&CK Terms of Use (free use with attribution). The mitre/cti GitHub repository (STIX 2.0 export of the dataset) is published under Apache-2.0 for code; data attribution requirement is preserved separately."
+    "notes": "Corrected 2026-08-12: this entry previously stated that mitre/cti is 'published under Apache-2.0 for code'. That is wrong. Both mitre/cti and mitre-attack/attack-stix-data ship a LICENSE.txt containing the MITRE ATT&CK license (non-exclusive, royalty-free, for research/development/commercial use), NOT Apache-2.0 — GitHub's license detector reports NOASSERTION for both. Redistribution requires reproducing MITRE's copyright designation verbatim: '(c) 2026 The MITRE Corporation. This work is reproduced and distributed with the permission of The MITRE Corporation.' Note that mitre-attack/attack-navigator (a separate tool repo) IS Apache-2.0 — that may be the source of the original confusion."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mitre_ATT%26CK",
     "source": "https://attack.mitre.org/",
-    "github": "https://github.com/mitre/cti",
+    "github": "https://github.com/mitre-attack/attack-stix-data",
+    "github_legacy_stix20": "https://github.com/mitre/cti",
     "stixData": "https://github.com/mitre-attack/attack-stix-data",
-    "releases": "https://github.com/mitre/cti/releases",
+    "releases": "https://github.com/mitre-attack/attack-stix-data/releases",
+    "version_index": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json",
+    "navigator": "https://github.com/mitre-attack/attack-navigator",
+    "python_library": "https://github.com/mitre-attack/mitreattack-python",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -35,7 +39,7 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "ATT&CK is on a roughly twice-yearly release cadence. v16.1 (referenced in README) is the version of cti-repo content currently mirrored here."
+    "notes": "Roughly twice-yearly majors plus patch releases. Current upstream is v19.2 (2026-08-05) for all three matrices; index.json lists 41 Enterprise releases. Two parallel repos are both current and were tagged v19.2 within minutes of each other: mitre-attack/attack-stix-data is STIX 2.1 (canonical, prefer for new work) and mitre/cti is STIX 2.0 (legacy serialization, still maintained, also carries the CAPEC STIX distribution). The difference is serialization format, not content."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -80,10 +84,13 @@
       "mobile-attack-N.N.json",
       "ics-attack-N.N.json"
     ],
-    "bundle_size_typical": "~50MB Enterprise, ~4MB Mobile, ~3MB ICS",
-    "license": "Apache-2.0 (code) + MITRE attribution (data)"
+    "bundle_size_typical": "~50MB Enterprise, ~4MB Mobile, ~4MB ICS",
+    "license": "MITRE ATT&CK license (attribution required) for both data repos",
+    "release_pattern": "Git tags / GitHub Releases on both repos; attack-stix-data uses vN.N, mitre/cti uses ATT&CK-vN.N",
+    "identifier_pattern": "IDs appear as external_references[].external_id where source_name starts with 'mitre'. Verified prefixes in the v19.2 ICS bundle: TA#### (tactic), T####[.###] (technique/sub-technique), S#### (software), G#### (group), C#### (campaign), M#### (mitigation), DS#### (data source), A#### (asset, ICS), and AN####/DET####/DC#### (detection strategies, detections, analytic components - object types introduced in v18, so pre-v18 consumers will not recognize them).",
+    "deprecation_mechanism": "Present, unlike ATLAS. Objects carry revoked and x_mitre_deprecated flags plus revoked-by relationships, so retired IDs can be followed forward programmatically. The v19.2 ICS bundle alone contains 11 revoked objects, 37 deprecated, and 11 revoked-by relationships."
   },
-  "notes": "ATT&CK is the most-cited adversary behavior framework in the industry. Downstream consumers should pin to specific ATT&CK versions for reproducibility \u2014 technique IDs are stable but coverage grows release-over-release.",
+  "notes": "ATT&CK is the most-cited adversary behavior framework in the industry. Downstream consumers should pin to specific ATT&CK versions for reproducibility \u2014 technique IDs are comparatively stable and retirements are traceable via revoked-by, but coverage grows release-over-release and new object types appear between majors.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "upstream-only"
