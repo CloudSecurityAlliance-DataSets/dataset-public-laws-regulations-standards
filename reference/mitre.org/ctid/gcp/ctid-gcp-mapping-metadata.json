@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/gcp-mapping",
-  "name": "CTID ATT&CK \u2192 GCP Security Services Mapping",
+  "name": "CTID ATT&CK → GCP Security Services Mapping",
   "acronym": "CTID GCP Mapping",
   "alternate_names": [
     "GCP ATT&CK Mappings"
   ],
   "version": "06.28.2022_attack-10.0-enterprise",
   "publication_id": "ctid-gcp-attack-10.0-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping of MITRE ATT&CK 10.0 Enterprise techniques to Google Cloud Platform security service capabilities. Snapshot 2022-06-28.",
   "relationToCloudSecurity": "Canonical reference for GCP-platform threat-informed defense.",
@@ -22,7 +22,9 @@
   },
   "links": {
     "source": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
-    "csaLocation": ""
+    "csaLocation": "",
+    "upstream_path": "https://github.com/center-for-threat-informed-defense/mappings-explorer/tree/main/mappings/gcp/attack-10.0/",
+    "upstream_versions": "https://github.com/center-for-threat-informed-defense/mappings-explorer/tree/main/mappings/gcp/"
   },
   "lifecycle": {
     "published": "2022-06-28",
@@ -33,30 +35,38 @@
     "notes": "Snapshot."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
+    "s3_timestamp": "2026-08-14",
+    "tool": "n/a (external-reference policy)",
     "tool_version": "n/a",
-    "extraction_host": "local",
+    "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Direct download of upstream-published data; no transformation applied."
+    "notes": "Reference-only. Upstream publishes this mapping at mappings/gcp/attack-10.0/ and retains prior versions (attack-10.0, attack-16.1, attack-19.1). Fetch from upstream rather than relying on a copy here."
   },
   "extraction_history": [
     {
       "s3_timestamp": "unknown",
-      "status": "current",
+      "status": "superseded",
       "reason": "Direct download",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "2026-08-14",
+      "status": "current",
+      "reason": "Removed the committed mapping and reverted to reference-only, matching this document's already-declared desired_end_state. The snapshot mapped ATT&CK 10.0 against a current 19.2, and upstream retains every version we held (attack-10.0, attack-16.1, attack-19.1) plus newer ones. Files remain in git history and S3.",
+      "tool": "n/a"
     }
   ],
   "scope": {
     "attack_version": "10.0",
-    "platform": "GCP"
+    "platform": "GCP",
+    "upstream_path": "mappings/gcp/attack-10.0/",
+    "upstream_versions_available": "attack-10.0, attack-16.1, attack-19.1"
   },
   "notes": "Pinned to ATT&CK 10.0.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "upstream-only",
-    "notes": "CTID ATT&CK\u2192GCP mapping. Same upstream pattern."
+    "notes": "CTID mappings are Apache-2.0 and published upstream with prior versions retained (attack-10.0, attack-16.1, attack-19.1), so a copy here drifts without adding anything. Stub points upstream."
   }
 }
