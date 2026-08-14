@@ -35,13 +35,13 @@
     "notes": "active=true per the schema's definition (this version is currently in force; nothing supersedes it) — but note the publication cadence is quiet: no upstream commits since 2025-11-14 (HEAD 097cd5f73811). MITRE has not announced end-of-life. Re-check currency before relying on it. FiGHT has NO GitHub Releases and NO tags, and the data's own version fields are largely empty strings, so there is no version identifier to cite; pin by commit SHA."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (external-reference policy)",
+    "s3_timestamp": "2026-08-14",
+    "tool": "curl + convert_fight.py",
     "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Reference-only. fight.yaml is published in the mitre/FiGHT repository; consumers should fetch it pinned by commit SHA."
+    "notes": "Pinned snapshot, not a pointer. fight.yaml was fetched from mitre/FiGHT at commit 097cd5f73811 (committed 2025-11-14) and fight.json generated from it by convert_fight.py with no transformation. FiGHT publishes no releases and no tags and its own version fields are largely empty, so a commit SHA is the only citable reference — which is precisely why a local snapshot is kept rather than a bare pointer."
   },
   "extraction_history": [
     {
@@ -52,15 +52,21 @@
     },
     {
       "s3_timestamp": "2026-08-12",
-      "status": "current",
-      "reason": "Removed committed fight.yaml (624 KB) and fight.json (782 KB) and reverted to reference-only, matching this document's already-declared desired_end_state. The committed YAML had drifted badly against upstream's 1.14 MB and was missing the entire campaigns section (SolarWinds Compromise, Operation Soft Cell). Files remain in git history and S3.",
+      "status": "superseded",
+      "reason": "Removed committed fight.yaml (624 KB) and fight.json (782 KB) in favour of reference-only. The committed YAML had drifted against upstream's 1.14 MB and was missing the entire campaigns section (SolarWinds Compromise, Operation Soft Cell).",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-08-14",
+      "status": "current",
+      "reason": "Restored as a SHA-pinned snapshot rather than a pointer. The 2026-08-12 removal applied the no-bulk-mirror rule, but that rule presumes the upstream can be cited — FiGHT has no releases, no tags and no usable version fields, so there is nothing to pin a pointer to. Fetched fresh at 097cd5f73811 (1.14 MB, campaigns section intact) rather than restoring the stale file.",
+      "tool": "curl + convert_fight.py"
     }
   ],
   "scope": {
     "covers": "5G network adversary techniques (core, RAN, management plane, 5G-specific protocols)",
     "external_source": "https://github.com/mitre/FiGHT",
-    "upstream_caveat": "The mitre/FiGHT repository is a built Nuxt static website committed to git (_nuxt/, index.html, CNAME), not a purpose-built data repository. The data files are included in the deploy artifact rather than published as a first-class dataset. This is the weakest publication model among the MITRE frameworks in this tree.",
+    "upstream_caveat": "The mitre/FiGHT repository is a built Nuxt static website committed to git (_nuxt/, index.html, CNAME). The data files are included in that deploy artifact rather than published as a separate dataset. There are no GitHub Releases, no tags, and no issues have ever been filed; the last commit was 2025-11-14.",
     "pinned_commit": "097cd5f73811 (2025-11-14)",
     "counts_at_pinned_commit": "15 tactics, 183 techniques, 92 mitigations, 169 data sources, 10 groups, 16 software, 2 campaigns",
     "identifier_pattern": "Tactics reuse ATT&CK tactic IDs verbatim (TA0001, TA0042, TA0043). Techniques split by lineage: FGT1### are ATT&CK-aligned (113 of 183, e.g. FGT1195 = ATT&CK T1195), FGT5### are 5G-original (70 of 183). Also FGM#### (mitigation), FGDS####[.###] (data source), FGG5### (group), FGS5### (software), and campaigns mixing reused ATT&CK IDs (C0024) with FiGHT-original (FGC5001).",
@@ -68,8 +74,8 @@
   },
   "notes": "Niche but valuable for 5G operators. Often consumed alongside 3GPP security specifications.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "upstream-only",
-    "notes": "MITRE 5G threat framework published at fight.mitre.org as version-tagged authoritative content. Per the no-bulk-mirror rule, this stays a stub pointing at upstream."
+    "state": "structured",
+    "reason": "taxonomy",
+    "notes": "Changed from metadata-only/upstream-only on 2026-08-14. The no-bulk-mirror rule directs us to point at upstream instead of copying, but pointing requires something citable: FiGHT publishes no releases, no tags, and leaves its own version fields empty, so a pointer could only ever reference a moving branch. A snapshot pinned to commit 097cd5f73811 is kept instead, refreshed by re-pinning the SHA. This is the exception the rule implies rather than a departure from it."
   }
 }
