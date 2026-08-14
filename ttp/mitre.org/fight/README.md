@@ -8,7 +8,7 @@ An ATT&CK-style knowledge base of adversary tactics and techniques against **5G 
 | **Upstream version** | ⚠ **Unversioned** — no releases, no tags. Latest commit `097cd5f` (2025-11-14) |
 | **License** | MITRE FiGHT Terms of Use — the repo `LICENSE.txt` is not an SPDX-recognized identifier |
 | **Status** | ⚠ Quiet — no upstream commits since 2025-11-14 |
-| **In this directory** | Metadata only. See [What's here](#whats-in-this-directory). |
+| **In this directory** | A snapshot pinned to `097cd5f73811`. See [What's here](#whats-in-this-directory). |
 
 Content at commit `097cd5f`: 15 tactics, 183 techniques, 92 mitigations, 169 data sources, 10 groups, 16 software entries, 2 campaigns.
 
@@ -30,8 +30,10 @@ The rendered site is <https://fight.mitre.org/>.
 ## Getting the data
 
 ```bash
-# Consolidated dataset, pinned by commit (~1.1 MB)
-curl -LO https://raw.githubusercontent.com/mitre/FiGHT/097cd5f73811/fight.yaml
+# Consolidated dataset, pinned by commit (~1.1 MB) — this is what's committed here
+curl -sL -o fight.yaml \
+    https://raw.githubusercontent.com/mitre/FiGHT/097cd5f73811/fight.yaml
+python3 convert_fight.py          # regenerates fight.json
 
 # Current HEAD (unpinned — prefer the SHA above)
 curl -LO https://raw.githubusercontent.com/mitre/FiGHT/main/fight.yaml
@@ -60,9 +62,19 @@ The `5` in `FGT5###` / `FGG5###` / `FGS5###` marks 5G-original content; the `1` 
 
 ## What's in this directory
 
-Metadata only, per the repository's [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream), and consistent with this document's own metadata (`desired_end_state: metadata-only / upstream-only`).
+| File | What it is |
+|---|---|
+| `fight.yaml` | Upstream's file, fetched at commit `097cd5f73811` (1.14 MB) |
+| `fight.json` | The same data serialized as JSON — no transformation applied |
+| `convert_fight.py` | Reproduces `fight.json` from `fight.yaml` |
 
-This directory previously held committed `fight.yaml` (624 KB) and `fight.json` (782 KB) snapshots. Both were removed on 2026-08-12: the committed YAML was **624 KB against upstream's 1.14 MB** and was missing the entire `campaigns:` section (SolarWinds Compromise, Operation Soft Cell). The files remain in git history and in S3.
+**A SHA-pinned snapshot, not a mirror — and this is a deliberate exception to the [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).**
+
+That rule directs us to point at upstream rather than copy it. Pointing requires something citable, and FiGHT publishes no releases, no tags, and leaves its own `version` fields empty — a pointer could only ever reference a moving branch. So the data is kept locally, pinned to a commit that can be named.
+
+The history here is worth stating plainly, because it was got wrong once. This directory previously held a `fight.yaml` of 624 KB against upstream's 1.14 MB, missing the entire `campaigns:` section. That stale copy was removed on 2026-08-12 in favour of a pointer, which fixed the staleness and introduced a different problem — there was nothing to pin the pointer to. On 2026-08-14 the data was restored, **fetched fresh at the pinned SHA rather than reverting the old file.**
+
+To refresh: re-run the fetch and conversion in [Getting the data](#getting-the-data) against a newer commit, then update the SHA in `fight-metadata.json` (`scope.pinned_commit`, `current_extraction.notes`) and in this README.
 
 ## Relationship to sibling frameworks
 
