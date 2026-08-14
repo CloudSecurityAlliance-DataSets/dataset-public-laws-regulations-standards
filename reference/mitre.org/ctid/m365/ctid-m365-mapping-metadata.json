@@ -1,13 +1,13 @@
 {
   "secid": "secid:reference/mitre.org/ctid/m365-mapping",
-  "name": "CTID ATT&CK \u2192 Microsoft 365 Security Capabilities Mapping",
+  "name": "CTID ATT&CK → Microsoft 365 Security Capabilities Mapping",
   "acronym": "CTID M365 Mapping",
   "alternate_names": [
     "M365 ATT&CK Mappings"
   ],
   "version": "12.11.2023_attack-14.1-enterprise",
   "publication_id": "ctid-m365-attack-14.1-enterprise",
-  "owner": "Center for Threat-Informed Defense (CTID) \u2014 MITRE Engenuity",
+  "owner": "Center for Threat-Informed Defense (CTID) — MITRE Engenuity",
   "type": "Mapping",
   "description": "Mapping of MITRE ATT&CK 14.1 Enterprise techniques to Microsoft 365 security service capabilities. Unusually granular per-capability files (Defender for Endpoint, Identity Protection, etc.) that enable licensing-tier (E3 vs E5) coverage analysis. Snapshot 2023-12-11.",
   "relationToCloudSecurity": "Canonical reference for M365 platform threat-informed defense; commonly cited in CASB/SSE evaluations.",
@@ -22,7 +22,9 @@
   },
   "links": {
     "source": "https://github.com/center-for-threat-informed-defense/mappings-explorer",
-    "csaLocation": ""
+    "csaLocation": "",
+    "upstream_path": "https://github.com/center-for-threat-informed-defense/mappings-explorer/tree/main/mappings/m365/attack-14.1/m365-12.11.2023/",
+    "upstream_versions": "https://github.com/center-for-threat-informed-defense/mappings-explorer/tree/main/mappings/m365/"
   },
   "lifecycle": {
     "published": "2023-12-11",
@@ -33,31 +35,39 @@
     "notes": "Snapshot. Largest CTID mapping set due to per-capability granularity."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
+    "s3_timestamp": "2026-08-14",
+    "tool": "n/a (external-reference policy)",
     "tool_version": "n/a",
-    "extraction_host": "local",
+    "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "35+ per-capability JSON files in this directory."
+    "notes": "Reference-only. Upstream publishes this mapping at mappings/m365/attack-14.1/m365-12.11.2023/ and retains prior versions (attack-14.1, attack-16.1). Fetch from upstream rather than relying on a copy here."
   },
   "extraction_history": [
     {
       "s3_timestamp": "unknown",
-      "status": "current",
+      "status": "superseded",
       "reason": "Direct download",
       "tool": "manual"
+    },
+    {
+      "s3_timestamp": "2026-08-14",
+      "status": "current",
+      "reason": "Removed the committed mapping and reverted to reference-only, matching this document's already-declared desired_end_state. The snapshot mapped ATT&CK 14.1 against a current 19.2, and upstream retains every version we held (attack-14.1, attack-16.1) plus newer ones. Also removed 35 per-capability split files that split-file.py generates from the consolidated mapping; the script is retained and reproduces them in one run, so the outputs were regenerable rather than irreplaceable. Files remain in git history and S3.",
+      "tool": "n/a"
     }
   ],
   "scope": {
     "attack_version": "14.1",
     "platform": "Microsoft 365",
-    "per_capability_files": true
+    "per_capability_files": true,
+    "upstream_path": "mappings/m365/attack-14.1/m365-12.11.2023/",
+    "upstream_versions_available": "attack-14.1, attack-16.1"
   },
   "notes": "Most granular CTID mapping set.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "upstream-only",
-    "notes": "CTID ATT&CK\u2192M365 mapping. Same upstream pattern."
+    "notes": "CTID mappings are Apache-2.0 and published upstream with prior versions retained (attack-14.1, attack-16.1), so a copy here drifts without adding anything. Stub points upstream."
   }
 }
