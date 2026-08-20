@@ -64,7 +64,7 @@ Controls Matrix. Current release is **1.1.1**.
 | [`1.1.1/`](1.1.1/) | 247 | 2026-07-13 | **current** | Patch over 1.1.0 — same control IDs. Adds AIUC-1 + NIST AI RMF/600-1 mappings; corrects 3 MP guidelines and 1 CAIQ question. Shipped unannounced under the "v1.1" label. |
 | [`1.1.0/`](1.1.0/) | 247 | 2026-06-22 | superseded | Renumbered IDs vs 1.0.3. NIST mappings withdrawn (restored in 1.1.1). |
 | [`1.0.3/`](1.0.3/) | 243 | 2025-11-10 | superseded | Last release before the renumbering. |
-| [`0.0.2/`](0.0.2/) | — | — | pre-release draft | Early working draft. |
+| [`0.0.2/`](0.0.2/) | — | — | **draft — ignore** | Early working draft, never released. Retained for historical reference only; not citable, not ingested, not comparable to any release. |
 
 Neither 1.1.x directory claims the bare `1.1` / `v1.1` alias — see the box above.
 

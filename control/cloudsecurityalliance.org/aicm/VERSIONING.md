@@ -334,7 +334,7 @@ fix is to record the version at the time the reference is written.
 
 | Path | What |
 |---|---|
-| [`0.0.2/`](0.0.2/) | Pre-release draft (`aicm@0.0.2`) |
+| [`0.0.2/`](0.0.2/) | Draft, **ignore** — never released, retained for historical reference only. Not citable, not ingested, outside the version lineage below. |
 | [`1.0.3/`](1.0.3/) | AICM v1.0.3 — 243 controls. Last release before the renumbering. [README](1.0.3/README.md) |
 | [`1.1.0/`](1.1.0/) | AICM v1.1.0 — 247 controls, superseded. Three mapping frameworks. Parsers in [`1.1.0/scripts/`](1.1.0/scripts/). [README](1.1.0/README.md) |
 | [`1.1.1/`](1.1.1/) | AICM v1.1.1 — 247 controls, **current**. Same IDs as 1.1.0; five mapping frameworks. Parsers in [`1.1.1/scripts/`](1.1.1/scripts/). [README](1.1.1/README.md) |
