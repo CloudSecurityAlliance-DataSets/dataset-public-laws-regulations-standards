@@ -1,0 +1,70 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/ccm-caiq@3.1",
+  "name": "Consensus Assessment Initiative Questionnaire",
+  "acronym": "CAIQ",
+  "alternate_names": [
+    "CSA CAIQ v3.1",
+    "CCM-CAIQ v3.1"
+  ],
+  "version": "3.1",
+  "publication_id": "CCM-CAIQ-3.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "Vendor self-assessment questionnaire for CCM v3.0.1. 309 questions across all 133 CCM v3.0.1 controls. Published 2020-04-01 as the successor to CAIQ v3.0.1 (see CSA's 'Transition to CAIQ v3.1'). The last questionnaire of the v3 line; CAIQ v4 followed in 2021 against the rebuilt CCM v4.",
+  "relationToCloudSecurity": "Superseded STAR Registry questionnaire, retained because CCM v3.0.1 assessments and certifications reference it.",
+  "relationToAISecurity": "None; predates AICM and the AI-CAIQ.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": "CCM-CAIQ 4.0.x",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "build_json.py in this directory, reading CAIQ_v3.1_Final.xlsx",
+    "tool_version": "1",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from the archived xlsx. The sheet has a three-row merged header and SPARSE rows -- only the first question of each control carries the control-level columns -- so the parser forward-fills and asserts its expected headers before parsing. 309 questions, 133 parent controls, 35 mapping targets, 0 orphans."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Current CCM-CAIQ release",
+      "tool": "manual"
+    }
+  ],
+  "scope": {
+    "questions": 490,
+    "controls_covered": 207
+  },
+  "notes": [
+    "CAIQ v3.1 is the questionnaire for CCM v3.0.1, not for a CCM v3.1 -- no such CCM release exists.",
+    "Its question set covers exactly CCM v3.0.1's 133 controls, with no controls missing and no questions orphaned.",
+    "Its mapping section is NOT a superset of CCM v3.0.1's. It adds five frameworks published after 2014 (CIS-AWS-Foundations v1.1, HITRUST CSF v8.1, NZISM v2.5, PCI DSS v3.2, Shared Assessments 2017 AUP) and DROPS two that CCM v3.0.1 carries (the 95/46/EC EU Data Protection Directive, superseded by GDPR, and the CCM v1.x lineage mapping). A consumer wanting every v3-era mapping must union both files.",
+    "Three frameworks appear under different header spellings in the two files: AICPA TSC 2009/2014 and HIPAA/HITECH, which CAIQ v3.1 labels 'Omnibus Rule'. Same frameworks, different labels.",
+    "The CSA Enterprise Architecture and ODCA UM: PA R2.0 mappings are COMPOSITES spanning several columns each, stored as nested objects. Reading their sub-columns as separate frameworks is the defect that had to be corrected in ccm/3.0.1 -- see that directory's README.",
+    "Columns 22-24 (Yes/No/Not Applicable) and 25 (Notes) are a blank vendor-response template and are not extracted."
+  ],
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition",
+    "notes": "Pending CCM 4.1 stabilization (companion CAIQ ships with the parent CCM mappings)."
+  }
+}
