@@ -1,0 +1,139 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/ccm@4.1.1",
+  "name": "Cloud Controls Matrix",
+  "acronym": "CCM",
+  "alternate_names": [
+    "CSA CCM v4.1.1",
+    "CCM 4.1.1",
+    "CSA CCM v4.1"
+  ],
+  "version": "4.1.1",
+  "version_aliases": [
+    "v4.1.1",
+    "4.1",
+    "v4.1"
+  ],
+  "publication_id": "CCM-4.1.1",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "CSA Cloud Controls Matrix v4.1.1 — current CCM release. 207 controls across 17 domains, with the first CCM v4.1 cross-framework mappings (NIST SP 800-171 rev2 and MITRE ATT&CK v17.1) and a reverse mapping from the EU Digital Operational Resilience Act (DORA) onto CCM controls. A patch release over 4.1.0: same 207 control IDs and titles, no renumbering; 101 control specifications and 26 embedded CAIQ questions reworded, almost all in punctuation. Ships in CSA's \"CCM v4.1\" ZIP bundle with the CAIQ v4.1.0 questionnaire and guidance PDFs.",
+  "relationToCloudSecurity": "Current flagship cloud-security controls framework. Used in current STAR Registry attestations and downstream CSA mapping work.",
+  "relationToAISecurity": "Cloud-platform controls foundation; AI-specific controls in AICM.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page. The workbook carries its own notice, quoted here verbatim: \"© Copyright 2026-2027 Cloud Security Alliance - All rights reserved. You may download, store, display on your computer, view, print, and link to the Cloud Security Alliance “Cloud Controls Matrix (CCM) Version 4.1.1” at https://cloudsecurityalliance.org subject to the following: (a) the Cloud Controls Matrix v4.1.1 may be used solely for your personal, informational, non-commercial use; (b) the Cloud Controls Matrix v4.1.1 may not be modified or altered in any way; (c) the Cloud Controls Matrix v4.1.1 may not be redistributed; and (d) the trademark, copyright or other notices may not be removed.\" The 4.1.0 workbook carries the same notice, naming 4.1.0 and \"© Copyright 2026\". This record does not reconcile the two; the license fields above are unchanged from 4.1.0's."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1",
+    "textUsed": "https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-10-01",
+    "active": true,
+    "supersedes": "CCM 4.1.0",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Dated 2026-10-01 from the two \"CCM v4.1.1\" rows of the workbook's own Change Log sheet. The artifact page cannot be used as the date of record: it still reads \"CCM v4.1 … Released: 01/27/2026\", which is 4.1.0's date, while serving the 4.1.1 workbook.\n\nDates considered and not used:\n  - 2026-10-02 — the generated_at token in the workbook filename, when CSA's tooling built the file.\n  - 2026-10-06 — when the \"CCM+CAIQv4.1 Bundle\" ZIP was repacked (its directory entry, and the date in \"Introductory Guidance to CCM 20261006.pdf\").\n  - 2026-01-27 — the release date still shown on the artifact page, which belongs to 4.1.0.\n\nUNANNOUNCED PATCH RELEASE. CSA replaced the workbook inside the \"v4.1\" bundle without changing the artifact page, its version label, or its stated release date. The only outward signals are the filename version token and the cell A1 stamp. Anyone who downloaded \"CCM v4.1\" before the 2026-10-06 repack has 4.1.0; anyone downloading after has 4.1.1."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-10-23T22-33-03Z",
+    "tool": "scripts/parse_ccm.py",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from CCMv4.1.1-generated_at_2026_10_02.xlsx (SHA-256 6ebb2207f805ef952fa8450e6863cd98bc708af76bedd24a536925cdec460205). 207 controls, each with implementation guidelines, auditing guidelines, ownership and relevance grids, NIST SP 800-171 rev2 and MITRE ATT&CK mappings, and its embedded CAIQ questions; plus 215 DORA provisions in reverse_mappings. Adapted from the 4.1.0 parser: every control field keeps its 4.1.0 name and shape. The parser exits 1 on a workbook whose A1 stamp is not 4.1.1, whose mapping frameworks differ, or whose Reverse Mappings layout differs. ../check_figures.py asserts the figures quoted in README.md and CHANGES-FROM-4.1.0.md."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-10-23T22-33-03Z",
+      "status": "current",
+      "reason": "Initial extraction of CCM 4.1.1",
+      "tool": "scripts/parse_ccm.py"
+    }
+  ],
+  "scope": {
+    "controls": 207,
+    "domains": 17,
+    "caiq_questions": 283,
+    "cross_framework_mappings": [
+      "NIST SP 800-171 rev2",
+      "MITRE ATT&CK v17.1"
+    ],
+    "reverse_mappings": [
+      "Digital Operational Resilience Act (DORA)"
+    ]
+  },
+  "source_bundle": {
+    "archive": "CCM+CAIQv4.1 Bundle.zip (bundle name unchanged from the 4.1.0 release)",
+    "contents": [
+      "CCMv4.1.1-generated_at_2026_10_02.xlsx",
+      "CAIQv4.1.0-star_security_questionnaire-generated_at_2026_10_02.xlsx",
+      "CAIQv4.0.3 - CAIQv4.1 Change Analysis.xlsx",
+      "Guide to the CCM and CAIQ (1).pdf",
+      "Introductory Guidance to CCM 20261006.pdf",
+      "CCM v4.1 Implementation Guidelines v2.1 20260120.pdf",
+      "Code of Practice for Implementing and Maintaining Key Metrics 20260121.pdf",
+      "The Continuous Audit Metrics Catalog v1.1 20260120.pdf"
+    ],
+    "notes": "Downloaded 2026-10-23 from https://cloudsecurityalliance.org/download/artifacts/cloud-controls-matrix-v4-1 (no account required). The bundle also contains a .DS_Store and __MACOSX entries. Its two spreadsheets and its introductory guidance were regenerated in October 2026; the other files keep their January and February 2026 dates. The standalone questionnaire is still labelled CAIQ 4.1.0 although its text changed; it is extracted under ../../ccm-caiq/4.1.0/, not here."
+  },
+  "known_source_issues": [
+    {
+      "id": "release-served-under-a-stale-version-label",
+      "status": "accepted",
+      "summary": "CSA publishes this release through the same artifact page, bundle name, and stated release date as 4.1.0 — https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1, 'CCM v4.1', released 01/27/2026. Nothing on the page distinguishes 4.1.1 from 4.1.0. The version is discoverable only from the workbook filename token and the cell A1 JSON stamp. SecID resolves the bare labels '4.1' and 'v4.1' to 4.1.1 (ADR-015, second amendment, 2026-10-22), so this record claims them; cite 4.1.0 or 4.1.1 explicitly when the exact text matters."
+    },
+    {
+      "id": "change-log-names-2-edits-of-127",
+      "status": "accepted",
+      "summary": "The workbook's Change Log records two 4.1.1 changes: the three new mappings, and text fixes to DSP-17 (\"it's lifecycle\" -> \"its lifecycle\") and CCC-03 (a redundant comma after \"assets\"). Compared with the 4.1.0 extraction after whitespace normalisation, 101 of 207 control specifications and 26 of 283 CAIQ questions differ: 127 reworded cells, of which the Change Log names 2. Of the 101 specifications, 92 differ in punctuation only, mostly an added serial comma; 9 differ in wording (CCC-06, DCS-06, DSP-17, IAM-10, IAM-12, IAM-13, LOG-07, STA-11, TVM-06). CHANGES-FROM-4.1.0.md lists every wording change."
+    },
+    {
+      "id": "iam-13-mfa-wording-changed",
+      "status": "accepted",
+      "summary": "IAM-13 (Strong Authentication) in 4.1.0, as in CCM v4.0.13 and AICM, requires \"multifactor authentication for at least privileged user and sensitive data access\", most naturally read as MFA at least for privileged users. 4.1.1 reads \"multifactor authentication for a least-privileged user and sensitive data access\", which names a different population. The new text matches the wording CAIQ question IAM-13.1 already used in 4.1.0. The Change Log does not mention IAM-13. The extraction keeps CSA's text; the intended meaning is a question for CSA."
+    },
+    {
+      "id": "machine-readable-bundle-still-4.1.0",
+      "status": "accepted",
+      "summary": "CSA's machine-readable bundle (https://cloudsecurityalliance.org/artifacts/ccm-machine-readable-bundle-json-yaml-oscal) still serves CCMv4.1.0+CAIQv4.1.0-machine_readable_bundle-generated_at_2026_02_20.zip as of 2026-10-23. There is no JSON, YAML, or OSCAL form of 4.1.1 upstream; its mappings and reworded text exist only in the spreadsheet and in this extraction."
+    },
+    {
+      "id": "mappings-first-shipped-in-4.1.1",
+      "status": "resolved-upstream",
+      "summary": "4.1.0 shipped no cross-framework mappings: its Scope Applicability (Mappings) sheet holds a single cell reading \"This dataset is not available yet\". 4.1.1 is the first CCM v4.1 release with mappings, against NIST SP 800-171 rev2 and MITRE ATT&CK v17.1, plus the DORA reverse mapping. Mappings to the frameworks CCM v4.0 covered (ISO/IEC 27001/27002/27017/27018, NIST SP 800-53 rev5, NIST CSF, PCI DSS, CIS v8, AICPA TSC, and others) are not in 4.1.1; for those, the mapping columns of ../4.0.13/CSV/ are still the only source in this repo, keyed to v4.0 control IDs."
+    },
+    {
+      "id": "no-mapping-is-a-value-not-an-absence",
+      "status": "accepted",
+      "summary": "Both mapping blocks state the literal string 'No Mapping' where no counterpart exists: NIST SP 800-171 rev2 (55 controls) and MITRE ATT&CK (150 controls). Preserved verbatim rather than normalised to null: an explicit publisher finding of no counterpart is not the same fact as an unstated mapping. No mapping cell is blank. Consumers filtering for 'has a mapping' must exclude the string 'No Mapping' as well as null. Counts are recomputed on every parse run into source_data_notes.sentinel_values."
+    },
+    {
+      "id": "attack-gap-levels-measure-threat-coverage",
+      "status": "accepted",
+      "summary": "The MITRE ATT&CK block records 'Full Gap' for all 150 controls with 'No Mapping' and 'No Gap' for the 57 that list technique IDs, and it has no addendum text. Its gap level therefore says whether a control addresses any ATT&CK technique, not how far the control falls short of a requirement, and is not comparable with the NIST SP 800-171 rev2 gap levels. The workbook's Introduction sheet says so; verbatim: \"DISCLAIMER: Please note that the ‘CCM v4.1 to MITRE ATT&CK v17.1’ mapping, featured in this spreadsheet, is structurally different from other CCM framework mappings. MITRE ATT&CK is not a compliance or control framework, it is a globally accessible knowledge base of adversary tactics and techniques. As such, this mapping identifies which ATT&CK technique IDs each CCM control addresses (i.e., which threats the control mitigates), rather than aligning control specifications to external framework requirements. For this reason, the mapping does not include an addendum.\" The control_mapping cell holds newline-separated technique IDs, kept verbatim."
+    },
+    {
+      "id": "dora-full-gap-provisions-list-no-ccm-controls",
+      "status": "absent-at-source",
+      "summary": "The 7 Full Gap provisions in the DORA reverse mapping name no CCM control: their CCM Controls cell is empty in CSA's workbook, and their addendum explains why (for example 'The full DORA provision is missing from CCM v4.1 and has to be used to close the gap.' or 'DORA provision out of scope of cybersecurity.'). THIS IS NOT A DATA CONVERSION ERROR. They are emitted with ccm_controls: []. Every other provision names at least one control, and all 727 references resolve to one of the 207 control IDs."
+    },
+    {
+      "id": "introduction-sheet-notes-not-extracted",
+      "status": "accepted",
+      "summary": "parse_ccm.py reads six of the workbook's nine sheets. The Introduction sheet is not among them, and in this release it gained the MITRE ATT&CK disclaimer quoted under attack-gap-levels-measure-threat-coverage, which qualifies data that IS extracted. The disclaimer is quoted in this record and in README.md. The Acknowledgments and Change Log sheets are also not extracted."
+    }
+  ],
+  "notes": "PATCH RELEASE — CONTROL IDs ARE STABLE vs 4.1.0. All 207 control IDs and titles, and every implementation guideline, auditing guideline, ownership cell, relevance grid and CCM-Lite flag, are identical to the 4.1.0 extraction once whitespace is normalised. A 4.1.0 control ID may be migrated to 4.1.1 by string match. Verified field by field (../check_figures.py) and with the content-matching renumbering detector (../../aicm/crosswalks/build_crosswalk.py): 207 carried, 0 renumbered, 0 added, 0 removed.\n\nThe companion questionnaire is extracted under ../../ccm-caiq/4.1.0/.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "207 controls with guidelines, two-framework mappings, embedded CAIQ questions, and the DORA reverse mapping. Reproducible via scripts/parse_ccm.py against the workbook named in current_extraction."
+  }
+}

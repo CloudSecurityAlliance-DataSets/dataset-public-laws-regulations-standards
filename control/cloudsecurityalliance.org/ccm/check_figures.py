@@ -142,6 +142,22 @@ def compute(old, new, new_doc):
     for field in UNCHANGED_FIELDS:
         figures[f"changed_{field}"] = sum(
             1 for cid in shared if deep_norm(old[cid].get(field)) != deep_norm(new[cid].get(field)))
+    # Scalars the prose quotes.
+    figures.update({
+        "dora_partial": figures["dora_gap"].get("Partial Gap", 0),
+        "dora_no_gap": figures["dora_gap"].get("No Gap", 0),
+        "dora_full": figures["dora_gap"].get("Full Gap", 0),
+        "spec_wording_count": len(spec_wording),
+        "caiq_wording_count": len(caiq_wording),
+        "text_cells_changed": len(spec_changed) + len(caiq_changed),
+        "spec_unchanged": len(shared) - len(spec_changed),
+        "nist_partial": nist["gap"].get("Partial Gap", 0),
+        "nist_no_gap": nist["gap"].get("No Gap", 0),
+        "nist_full": nist["gap"].get("Full Gap", 0),
+        "attack_partial": attack["gap"].get("Partial Gap", 0),
+        "attack_no_gap": attack["gap"].get("No Gap", 0),
+        "attack_full": attack["gap"].get("Full Gap", 0),
+    })
     figures.update(compute_caiq(old_q, caiq_changed))
     return figures
 
@@ -217,7 +233,59 @@ INVARIANTS = [
 
 # (figure, regex with one capturing group, files it must appear in). Paths are
 # relative to this directory unless absolute.
-CHECKS = []
+README = f"{NEW}/README.md"
+REPORT = f"{NEW}/CHANGES-FROM-{OLD}.md"
+META = f"{NEW}/ccm-{NEW}-metadata.json"
+CHECKS = [
+    ("controls",          r"· (\d+) controls · \d+ domains",                 [README]),
+    ("domains",           r"· \d+ controls · (\d+) domains",                 [README]),
+    ("nist_mapped",       r"NIST SP 800-171 rev2\*\* \| [^|]+ \| (\d+) mapped · \d+ `No Mapping`", [README]),
+    ("nist_no_mapping",   r"NIST SP 800-171 rev2\*\* \| [^|]+ \| \d+ mapped · (\d+) `No Mapping`", [README]),
+    ("attack_mapped",     r"MITRE ATT&CK\*\* \| [^|]+ \| (\d+) mapped · \d+ `No Mapping`", [README]),
+    ("attack_no_mapping", r"MITRE ATT&CK\*\* \| [^|]+ \| \d+ mapped · (\d+) `No Mapping`", [README]),
+    ("dora_provisions",   r"(\d+) provisions · \d+ Partial Gap",             [README, REPORT]),
+    ("dora_partial",      r"provisions · (\d+) Partial Gap",                 [README, REPORT]),
+    ("dora_no_gap",       r"Partial Gap · (\d+) No Gap",                     [README, REPORT]),
+    ("dora_full",         r"No Gap · (\d+) Full Gap",                        [README, REPORT]),
+    ("spec_changed",      r"(\d+) of \d+ control specifications differ",     [README, REPORT]),
+    ("controls",          r"\d+ of (\d+) control specifications differ",     [README, REPORT]),
+    ("spec_punct_only",   r"control specifications differ: (\d+) in punctuation only", [README, REPORT]),
+    ("spec_wording_count", r"control specifications differ: \d+ in punctuation only and (\d+) in wording",
+     [README, REPORT]),
+    ("caiq_changed",      r"(\d+) of \d+ CAIQ questions differ",             [README, REPORT]),
+    ("caiq_embedded",     r"\d+ of (\d+) CAIQ questions differ",             [README, REPORT]),
+    ("caiq_punct_only",   r"CAIQ questions differ: (\d+) in punctuation only", [README, REPORT]),
+    ("caiq_wording_count", r"CAIQ questions differ: \d+ in punctuation only and (\d+) in wording",
+     [README, REPORT]),
+    ("text_cells_changed", r"names 2 of the (\d+) reworded cells",           [README, REPORT]),
+    ("controls",          r"All (\d+) control IDs",                          [README, REPORT]),
+    ("nist_no_mapping",   r"NIST SP 800-171 rev2 \((\d+) controls\)",        [META]),
+    ("attack_no_mapping", r"MITRE ATT&CK \((\d+) controls\)",                [META]),
+    ("dora_full",         r"The (\d+) Full Gap provisions",                  [META, REPORT]),
+    # CHANGES-FROM-4.1.0.md tables.
+    # Coverage table: header ends "Blank |", and the table is followed by "### Gap levels".
+    ("nist_mapped",       r"Blank \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| (\d+) \|", [REPORT]),
+    ("nist_no_mapping",   r"Blank \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| \d+ \| (\d+) \|", [REPORT]),
+    ("nist_blank",        r"Blank \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| \d+ \| \d+ \| (\d+) \|", [REPORT]),
+    ("attack_mapped",     r"\| MITRE ATT&CK v17\.1 \| (\d+) \| \d+ \| \d+ \|\s*### Gap levels", [REPORT]),
+    ("attack_no_mapping", r"\| MITRE ATT&CK v17\.1 \| \d+ \| (\d+) \| \d+ \|\s*### Gap levels", [REPORT]),
+    ("attack_blank",      r"\| MITRE ATT&CK v17\.1 \| \d+ \| \d+ \| (\d+) \|\s*### Gap levels", [REPORT]),
+    # Gap-level table: header ends "Full Gap |", and the table is followed by the `No Mapping` heading.
+    ("nist_partial",      r"Full Gap \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| (\d+) \|", [REPORT]),
+    ("nist_no_gap",       r"Full Gap \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| \d+ \| (\d+) \|", [REPORT]),
+    ("nist_full",         r"Full Gap \|\s*\|---\|---:\|---:\|---:\|\s*\| NIST SP 800-171 rev2 \| \d+ \| \d+ \| (\d+) \|", [REPORT]),
+    ("attack_partial",    r"\| NIST SP 800-171 rev2 \| \d+ \| \d+ \| \d+ \|\s*\| MITRE ATT&CK v17\.1 \| (\d+) \| \d+ \| \d+ \|\s*### `No Mapping`", [REPORT]),
+    ("attack_no_gap",     r"\| MITRE ATT&CK v17\.1 \| \d+ \| (\d+) \| \d+ \|\s*### `No Mapping`", [REPORT]),
+    ("attack_full",       r"\| MITRE ATT&CK v17\.1 \| \d+ \| \d+ \| (\d+) \|\s*### `No Mapping`", [REPORT]),
+    ("dora_refs",         r"CCM controls (\d+) times",                       [REPORT]),
+    ("dora_refs",         r"all (\d+) references resolve",                   [README]),
+    ("spec_unchanged",    r"\(`exact-spec`\) \| (\d+) \|",                   [REPORT]),
+    ("spec_changed",      r"\(`same-id\+title`\) \| (\d+) \|",               [REPORT]),
+    ("controls",          r"\| Carried \| (\d+) \|",                          [REPORT]),
+    ("controls",          r"\[`4\.1\.1/`\]\(4\.1\.1/\)\. Contains (\d+) controls", ["README.md"]),
+    ("caiq_embedded",     r"\[`4\.1\.1/`\]\(4\.1\.1/\)\. Contains \d+ controls and (\d+) CAIQ questions",
+     ["README.md"]),
+]
 
 
 def flatten(text):
