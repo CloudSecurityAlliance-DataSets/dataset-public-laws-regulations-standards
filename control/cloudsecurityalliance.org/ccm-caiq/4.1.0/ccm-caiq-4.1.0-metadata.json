@@ -10,8 +10,8 @@
   "publication_id": "CCM-CAIQ-4.1.0",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "Vendor self-assessment questionnaire derived from CCM v4.1. 490 yes/no questions reflecting CCM v4.1's expanded control set (207 controls in v4.1 vs 197 in v4.0).",
-  "relationToCloudSecurity": "Current CSA STAR Registry attestation questionnaire.",
+  "description": "Vendor self-assessment questionnaire for CCM v4.1: 283 yes/no questions across the 207 CCM v4.1 controls. CSA has issued two workbooks under this one 4.1.0 label, generated 2026-01-13 and 2026-10-02, and 26 question texts differ between them. This directory holds the 2026-10-02 generation, the one CSA serves now; see README.md.",
+  "relationToCloudSecurity": "Current CSA STAR Registry Level 1 attestation questionnaire.",
   "relationToAISecurity": "Covers general cloud security; AI-specific controls in AICM.",
   "license": {
     "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
@@ -22,42 +22,63 @@
     "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
   },
   "links": {
-    "source": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
+    "source": "https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1",
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "",
+    "published": "2026-01-27",
     "active": true,
     "supersedes": "CCM-CAIQ 4.0.x",
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Published 2026-01-27 with CCM v4.1, per CSA's artifact page. The questionnaire's own Change Log dates CAIQ v4.1.0 to 2025-11-01. CSA regenerated the workbook on 2026-10-02 for CCM 4.1.1 and kept the 4.1.0 label; no new version was announced."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "manual download from upstream",
+    "s3_timestamp": "2026-10-23T22-33-03Z",
+    "tool": "scripts/parse_caiq.py",
     "tool_version": "n/a",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Direct download of upstream-published data; no transformation applied."
+    "notes": "Parsed from CAIQv4.1.0-star_security_questionnaire-generated_at_2026_10_02.xlsx (cell A1: caiq_version 4.1.0, specification_version 4.1.1), with each question's CCM control embedded from ../../ccm/4.1.1/ccm-4.1.1.json. Replaced the 2026-01-13 extraction in place on 2026-10-23."
   },
   "extraction_history": [
     {
-      "s3_timestamp": "unknown",
+      "s3_timestamp": "2026-10-23T22-33-03Z",
       "status": "current",
-      "reason": "Current CCM-CAIQ release",
-      "tool": "manual"
+      "reason": "Re-extracted from CSA's 2026-10-02 regeneration of the 4.1.0 questionnaire, which the v4.1 bundle has served since 2026-10-06",
+      "tool": "scripts/parse_caiq.py",
+      "source_workbook": "CAIQv4.1.0-star_security_questionnaire-generated_at_2026_10_02.xlsx"
+    },
+    {
+      "s3_timestamp": "2026-10-23T22-35-53Z",
+      "status": "superseded",
+      "reason": "CSA regenerated the questionnaire under the same 4.1.0 label. This extraction is on main unchanged from 6f737db through 74ff4b8; the workbook was archived to S3 on 2026-10-23.",
+      "tool": "scripts/parse_caiq.py",
+      "source_workbook": "CAIQv4.1.0-star_security_questionnaire-generated_at_2026_01_13.xlsx"
+    }
+  ],
+  "known_source_issues": [
+    {
+      "id": "question-text-changed-under-unchanged-version-label",
+      "status": "accepted",
+      "summary": "CSA issued two different workbooks labelled CAIQ 4.1.0. Both stamp caiq_version 4.1.0 in cell A1; the first records specification_version 4.1.0 and the second 4.1.1. The second, generated 2026-10-02 (filename token generated_at_2026_10_02), changes the text of 26 of the 283 questions: 19 in punctuation only and 7 in wording (DCS-02.2, DCS-06.2, DCS-11.1, I&S-05.1, IAM-13.1, LOG-07.1, UEM-02.1). The questionnaire's Change Log has no new row; its only entry is still 'CAIQ v4.1.0 | 2025-11-01'. Question IDs are unchanged. A bare 'CAIQ 4.1.0' citation therefore identifies two texts. README.md lists every changed question with both texts."
+    },
+    {
+      "id": "dcs-11-1-asks-less-than-its-control",
+      "status": "accepted",
+      "summary": "In the 2026-10-02 generation, DCS-11.1 reads 'Are external perimeter datacenter surveillance systems at all ingress and egress points implemented, maintained, and operated?'. The 2026-01-13 text read '…external perimeter datacenter surveillance systems and surveillance systems at all ingress and egress points…'. The control, DCS-11, requires surveillance systems 'at the external perimeter and at all the ingress and egress points'. Read literally, the old question covered both locations and the new one covers one. The extraction keeps CSA's text."
     }
   ],
   "scope": {
-    "questions": 490,
-    "controls_covered": 207
+    "questions": 283,
+    "controls_covered": 207,
+    "notes": "This field said 490 until 2026-10-23: that is 283 questions plus 207 control rows, a row count rather than a question count."
   },
-  "notes": "Use alongside CCM v4.1 for vendor assessments.",
+  "notes": "Use alongside CCM v4.1.1 for vendor assessments.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "pending-acquisition",
-    "notes": "Pending CCM 4.1 stabilization (companion CAIQ ships with the parent CCM mappings)."
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "283 questions with their CCM controls embedded. Reproducible via scripts/parse_caiq.py."
   }
 }

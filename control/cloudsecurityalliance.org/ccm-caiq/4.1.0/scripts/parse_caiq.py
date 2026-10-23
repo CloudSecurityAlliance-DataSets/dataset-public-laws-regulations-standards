@@ -1,6 +1,26 @@
 #!/usr/bin/env python3
-"""Parse CAIQv4.1.0 Excel file into JSON with questions and full CCM control data."""
+"""Parse the CAIQ v4.1.0 workbook into JSON with questions and full CCM control data.
 
+CSA has issued two different workbooks under the same CAIQ 4.1.0 label:
+
+  CAIQv4.1.0-star_security_questionnaire-generated_at_2026_01_13.xlsx  (A1 records CCM 4.1.0)
+  CAIQv4.1.0-star_security_questionnaire-generated_at_2026_10_02.xlsx  (A1 records CCM 4.1.1)
+
+26 question texts differ between them. ../ccm-caiq-4.1.0.json is extracted
+from the 2026-10-02 generation, the one CSA serves now, and enriched from the
+CCM 4.1.1 controls it records in cell A1. See ../README.md.
+
+The script refuses a workbook whose cell A1 does not stamp caiq_version 4.1.0
+and the CCM version given by --expect-ccm-version (default 4.1.1).
+
+Source spreadsheets are gitignored. Pull from
+s3://dataset-public-laws-regulations-standards/control/cloudsecurityalliance.org/ccm-caiq/4.1.0/
+
+Usage:
+    ./parse_caiq.py --input ../CAIQv4.1.0-star_security_questionnaire-generated_at_2026_10_02.xlsx
+"""
+
+import argparse
 import json
 import os
 import re
@@ -8,13 +28,11 @@ import sys
 import pandas as pd
 import numpy as np
 
-XLSX_DIR = os.path.join(os.path.dirname(__file__), "..", "..",
-    "CCM+CAIQv4.1 Bundle")
-CAIQ_XLSX = os.path.join(XLSX_DIR,
-    "CAIQv4.1.0-star_security_questionnaire-generated_at_2026_01_13.xlsx")
-CCM_JSON = os.path.join(os.path.dirname(__file__), "..", "CCMv4.1.0.json")
-OUTPUT = os.path.join(os.path.dirname(__file__), "..", "CAIQv4.1.0.json")
+HERE = os.path.dirname(__file__)
+DEFAULT_CCM_JSON = os.path.join(HERE, "..", "..", "..", "ccm", "4.1.1", "ccm-4.1.1.json")
+DEFAULT_OUTPUT = os.path.join(HERE, "..", "ccm-caiq-4.1.0.json")
 
+EXPECTED_CAIQ_VERSION = "4.1.0"
 QID_PATTERN = re.compile(r'^[A-Z&]{2,4}-\d+\.\d+$')
 
 
@@ -26,14 +44,35 @@ def clean(val):
     return val
 
 
-def load_ccm_controls():
-    with open(CCM_JSON, "r", encoding="utf-8") as f:
+def fail(message):
+    print(f"error: {message}", file=sys.stderr)
+    sys.exit(1)
+
+
+def read_stamp(xlsx):
+    """Cell A1: {"specification_name":...,"specification_version":...,"caiq_version":...}."""
+    a1 = pd.read_excel(xlsx, sheet_name=0, header=None, nrows=1).iloc[0, 0]
+    try:
+        stamp = json.loads(a1)
+        return stamp["caiq_version"], stamp["specification_version"]
+    except (TypeError, ValueError, KeyError):
+        fail(f"could not read the version stamp from cell A1 ({a1!r})")
+
+
+def generated_at(xlsx):
+    """'…-generated_at_2026_10_02.xlsx' -> '2026-10-02'."""
+    m = re.search(r"generated_at_(\d{4})_(\d{2})_(\d{2})", os.path.basename(xlsx))
+    return "-".join(m.groups()) if m else None
+
+
+def load_ccm_controls(ccm_json):
+    with open(ccm_json, "r", encoding="utf-8") as f:
         data = json.load(f)
     return {c["control_id"]: c for c in data["controls"]}
 
 
-def parse_caiq():
-    df = pd.read_excel(CAIQ_XLSX, sheet_name="CAIQv4.1.0", header=None, skiprows=1)
+def parse_caiq(xlsx, sheet_name):
+    df = pd.read_excel(xlsx, sheet_name=sheet_name, header=None, skiprows=1)
     df = df.iloc[1:]  # skip header row
 
     questions = []
@@ -98,27 +137,42 @@ def enrich_with_ccm(questions, controls_index):
 
 
 def main():
-    questions = parse_caiq()
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--input", required=True, help="CAIQ v4.1.0 .xlsx")
+    ap.add_argument("--ccm-json", default=DEFAULT_CCM_JSON,
+                    help="CCM extraction to embed control data from (default: %(default)s)")
+    ap.add_argument("--expect-ccm-version", default="4.1.1",
+                    help="CCM version the workbook's cell A1 must record (default: %(default)s)")
+    ap.add_argument("--output", default=DEFAULT_OUTPUT, help="Destination JSON (default: %(default)s)")
+    args = ap.parse_args()
 
-    if not os.path.exists(CCM_JSON):
-        print(f"Error: {CCM_JSON} not found. Run parse_ccm.py first.")
-        sys.exit(1)
+    caiq_version, ccm_version = read_stamp(args.input)
+    if caiq_version != EXPECTED_CAIQ_VERSION or ccm_version != args.expect_ccm_version:
+        fail(f"cell A1 stamps caiq_version {caiq_version!r} / CCM {ccm_version!r}; expected "
+             f"{EXPECTED_CAIQ_VERSION!r} / {args.expect_ccm_version!r}.")
 
-    controls_index = load_ccm_controls()
-    questions = enrich_with_ccm(questions, controls_index)
+    if not os.path.exists(args.ccm_json):
+        fail(f"{args.ccm_json} not found. Run the CCM parser first.")
+    controls_index = load_ccm_controls(args.ccm_json)
+
+    questions = enrich_with_ccm(parse_caiq(args.input, f"CAIQv{caiq_version}"), controls_index)
+    unmatched = sorted({q["ccm_control_id"] for q in questions if q["ccm_control"] is None})
+    if unmatched:
+        print(f"warning: no CCM control found for {unmatched}", file=sys.stderr)
 
     output = {
         "specification_name": "Consensus Assessments Initiative Questionnaire",
-        "caiq_version": "4.1.0",
-        "ccm_version": "4.1.0",
-        "generated_at": "2026-01-13",
+        "caiq_version": caiq_version,
+        "ccm_version": ccm_version,
+        "generated_at": generated_at(args.input),
+        "source_workbook": os.path.basename(args.input),
         "questions": questions,
     }
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
+    with open(args.output, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Wrote {len(questions)} questions to {OUTPUT}")
+    print(f"Wrote {len(questions)} questions to {args.output}")
 
 
 if __name__ == "__main__":

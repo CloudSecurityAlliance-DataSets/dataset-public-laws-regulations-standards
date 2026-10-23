@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 541
+**Total documents indexed:** 542
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 70 | 32 | 33 | — | — | **135** |
+| `control/` | 71 | 32 | 33 | — | — | **136** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **172** | **179** | **180** | **4** | **6** | **541** |
+| **Total** | **173** | **179** | **180** | **4** | **6** | **542** |
 
 ## control/
 
@@ -55,9 +55,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 8 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
 | `control/cloudsecurityalliance.org/ccm/4.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1.0` |
+| `control/cloudsecurityalliance.org/ccm/4.1.1/` | structured | 4 | `···CS··` | — |
 | `control/cloudsecurityalliance.org/ccm-caiq/3.1/` | structured | 5 | `M···SP·` | `secid:control/cloudsecurityalliance.org/ccm-caiq@3.1` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.0.3/` | structured | 2 | `M··C···` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.0.3` |
-| `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
+| `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 5 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
 | `control/concordia-ai.com/frontier-ai-rmf/` | extracted | 3 | `MX·····` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
 | `control/cryptrec.go.jp/ciphers-list/` | metadata-only | 6 | `M······` | `secid:control/cryptrec.go.jp/ciphers-list` |
 | `control/cyber.go.jp/cip-policy/` | metadata-only | 4 | `M······` | `secid:control/cyber.go.jp/cip-policy` |

@@ -38,6 +38,15 @@ OLD, NEW = "4.1.0", "4.1.1"
 NEW_JSON = CCM / NEW / f"ccm-{NEW}.json"
 OLD_JSON = CCM / OLD / f"ccm-{OLD}.json"
 
+# The standalone questionnaire. CSA regenerated it on 2026-10-02 without changing
+# its 4.1.0 label, and ccm-caiq/4.1.0/ was re-extracted in place; its README lists
+# every question whose text changed. The 2026-01-13 text is checked against the
+# questions embedded in ccm-4.1.0.json, which match the replaced extraction.
+CAIQ_DIR = CSA / "ccm-caiq" / "4.1.0"
+CAIQ_JSON = CAIQ_DIR / "ccm-caiq-4.1.0.json"
+CAIQ_README = CAIQ_DIR / "README.md"
+TABLE_ROW = re.compile(r"^\| `([A-Z&]+-\d+\.\d+)` \| (.*?) \| (.*?) \| (yes|no) \|$")
+
 NIST, ATTACK = "nist_sp_800_171_rev2", "mitre_attack"
 NO_MAPPING = "No Mapping"
 
@@ -133,7 +142,32 @@ def compute(old, new, new_doc):
     for field in UNCHANGED_FIELDS:
         figures[f"changed_{field}"] = sum(
             1 for cid in shared if deep_norm(old[cid].get(field)) != deep_norm(new[cid].get(field)))
+    figures.update(compute_caiq(old_q, caiq_changed))
     return figures
+
+
+def compute_caiq(old_q, caiq_changed):
+    """The standalone questionnaire, and the README table of its changed questions."""
+    caiq = json.loads(CAIQ_JSON.read_text())
+    standalone = {q["question_id"]: norm(q["question"]) for q in caiq["questions"]}
+    rows = []
+    if CAIQ_README.exists():
+        for line in CAIQ_README.read_text().splitlines():
+            m = TABLE_ROW.match(line.strip())
+            if m:
+                qid, before, after, flag = m.groups()
+                rows.append((qid, before.replace("\\|", "|"), after.replace("\\|", "|"), flag == "yes"))
+    return {
+        "caiq_version": caiq.get("caiq_version"),
+        "caiq_ccm_version": caiq.get("ccm_version"),
+        "caiq_generated_at": caiq.get("generated_at"),
+        "caiq_questions": len(standalone),
+        "readme_rows": len(rows),
+        "readme_ids_match_changed": sorted(r[0] for r in rows) == sorted(caiq_changed),
+        "readme_old_text_mismatch": [r[0] for r in rows if old_q.get(r[0]) != r[1]],
+        "readme_new_text_mismatch": [r[0] for r in rows if standalone.get(r[0]) != r[2]],
+        "readme_punct_flag_wrong": [r[0] for r in rows if punct_only(r[1], r[2]) != r[3]],
+    }
 
 
 # (figure, expected value, why it must hold) — asserted against the data itself,
@@ -169,7 +203,17 @@ INVARIANTS = [
     ("caiq_wording", ["DCS-02.2", "DCS-06.2", "DCS-11.1", "I&S-05.1", "IAM-13.1",
                       "LOG-07.1", "UEM-02.1"], "the questions whose wording changed"),
 ] + [(f"changed_{field}", 0, f"{field} is unchanged from 4.1.0 once whitespace is normalised")
-     for field in UNCHANGED_FIELDS]
+     for field in UNCHANGED_FIELDS] + [
+    ("caiq_version", "4.1.0", "the regenerated questionnaire still calls itself CAIQ 4.1.0"),
+    ("caiq_ccm_version", NEW, "its cell A1 records the CCM release it was generated from"),
+    ("caiq_generated_at", "2026-10-02", "the 2026-10-02 generation is the one extracted"),
+    ("caiq_questions", 283, "the standalone questionnaire carries 283 questions"),
+    ("readme_rows", 26, "ccm-caiq/4.1.0/README.md lists every changed question, one row each"),
+    ("readme_ids_match_changed", True, "the README rows are exactly the changed questions"),
+    ("readme_old_text_mismatch", [], "each 2026-01-13 cell is the 4.1.0 text"),
+    ("readme_new_text_mismatch", [], "each 2026-10-02 cell is the committed text"),
+    ("readme_punct_flag_wrong", [], "each 'Punctuation only' flag is right"),
+]
 
 # (figure, regex with one capturing group, files it must appear in). Paths are
 # relative to this directory unless absolute.
@@ -211,7 +255,7 @@ def check_invariants(figures, invariants):
 
 
 def main():
-    missing = [p for p in (OLD_JSON, NEW_JSON) if not p.exists()]
+    missing = [p for p in (OLD_JSON, NEW_JSON, CAIQ_JSON) if not p.exists()]
     if missing:
         for p in missing:
             print(f"missing extraction: {p.relative_to(REPO)}", file=sys.stderr)
