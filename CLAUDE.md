@@ -37,7 +37,7 @@ The repository organizes content by **SecID type → namespace → name → vers
 control/
 ├── cloudsecurityalliance.org/
 │   ├── ccm/4.0.13/
-│   ├── ccm/4.1/
+│   ├── ccm/4.1.0/
 │   ├── aicm/1.0.3/
 │   └── ccm-caiq/4.0.3/
 ├── pcisecuritystandards.org/

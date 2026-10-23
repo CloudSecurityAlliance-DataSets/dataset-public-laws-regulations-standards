@@ -53,12 +53,12 @@ Machine-readable formats (JSON, YAML, OSCAL) are also available.
 
 ### CCM v4.1.0 (January 2026)
 
-Located in `CCM-4.1/`. Contains 207 controls and 283 CAIQ questions.
+Located in [`4.1.0/`](4.1.0/). Contains 207 controls and 283 CAIQ questions.
 
-- `CCMv4.1.0.json` — All controls with implementation guidelines, auditing guidelines, ownership models, architectural/organizational relevance, and embedded CAIQ questions
-- `CAIQv4.1.0.json` — All CAIQ questions, each with the full CCM control embedded (denormalized)
+- `ccm-4.1.0.json` — All controls with implementation guidelines, auditing guidelines, ownership models, architectural/organizational relevance, and embedded CAIQ questions
+- The CAIQ questionnaire is extracted separately, under [`../ccm-caiq/4.1.0/`](../ccm-caiq/4.1.0/)
 - `scripts/parse_ccm.py` — Script used to parse CCM data into JSON
-- `scripts/parse_caiq.py` — Script used to parse CAIQ data into JSON
+- `../ccm-caiq/4.1.0/scripts/parse_caiq.py` — Script used to parse CAIQ data into JSON
 
 ### CCM v4.0.13
 

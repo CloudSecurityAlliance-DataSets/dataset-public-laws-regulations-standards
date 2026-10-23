@@ -1,0 +1,69 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/ccm@4.1.0",
+  "name": "Cloud Controls Matrix",
+  "acronym": "CCM",
+  "alternate_names": [
+    "CSA CCM v4.1.0",
+    "CCM 4.1.0"
+  ],
+  "version": "4.1.0",
+  "version_aliases": [
+    "v4.1.0"
+  ],
+  "publication_id": "CCM-4.1.0",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "CCM v4.1.0 — the first v4.1 release, superseded by 4.1.1. 207 controls across 17 domains (v4.0 had 197; the IVS domain became I&S, Infrastructure Security). Shipped without cross-framework mappings: its Scope Applicability (Mappings) sheet reads only \"This dataset is not available yet\". Control IDs carry over to 4.1.1 unchanged.",
+  "relationToCloudSecurity": "Cloud-security controls framework, superseded by CCM 4.1.1. Retained because anything written against CSA's \"v4.1\" download between January and October 2026 used the 4.1.0 text.",
+  "relationToAISecurity": "Cloud-platform controls foundation; AI-specific controls in AICM.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Confirm specific document license on download page."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1",
+    "csaLocation": "dataset-private-CSA-content/data/CSA-website-artifacts/content/cloud-controls-matrix-v4-1/"
+  },
+  "lifecycle": {
+    "published": "2026-01-27",
+    "active": false,
+    "supersedes": "CCM 4.0.x",
+    "supersededBy": "CCM 4.1.1 (2026-10-01)",
+    "retiredFromActiveUse": "2026-10-01",
+    "notes": "SUPERSEDED BY 4.1.1, which CSA shipped inside the same \"CCM v4.1\" bundle without changing the artifact page, its version label, or its stated release date — so this directory and ../4.1.1/ are both branded \"CCM v4.1\" upstream. Control IDs are stable between the two: a 4.1.0 reference migrates to 4.1.1 by string match.\n\nPublished 2026-01-27 per CSA's artifact page (\"CCM v4.1 … Released: 01/27/2026\", https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4-1). Dates considered and not used: 2025-11-01, the \"CCM v4.1.0\" row of the workbook's own Change Log; and 2026-01-13, the generated_at token in the workbook filename.\n\nCSA's v4.1 download no longer serves this workbook: since the bundle was repacked on 2026-10-06 it contains CCMv4.1.1-generated_at_2026_10_02.xlsx instead. The 4.1.0 workbook is archived in S3 at this directory's path."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-10-23T22-29-07Z",
+    "tool": "scripts/parse_ccm.py",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Parsed from CCMv4.1.0-generated_at_2026_01_13.xlsx (gitignored; archived to S3 2026-10-23). 207 controls, each with implementation guidelines, auditing guidelines, ownership and relevance grids, and its embedded CAIQ questions. Re-running scripts/parse_ccm.py against that workbook reproduces ccm-4.1.0.json byte for byte (verified 2026-10-23)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-10-23T22-29-07Z",
+      "status": "current",
+      "reason": "Direct download + parse; source workbook archived 2026-10-23",
+      "tool": "scripts/parse_ccm.py"
+    }
+  ],
+  "scope": {
+    "controls": 207,
+    "domains": 17,
+    "caiq_questions": 283,
+    "mappings_status": "none-in-source",
+    "notes": "No cross-framework mappings exist for 4.1.0. The workbook's Scope Applicability (Mappings) sheet holds a single cell: \"This dataset is not available yet\". The first CCM v4.1 mappings shipped in 4.1.1."
+  },
+  "notes": "Superseded by ../4.1.1/. The companion questionnaire is extracted under ../../ccm-caiq/4.1.0/.",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "207 controls with guidelines and embedded CAIQ questions. Reproducible via scripts/parse_ccm.py."
+  }
+}
