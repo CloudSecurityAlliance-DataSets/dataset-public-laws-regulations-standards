@@ -15,8 +15,10 @@ questions submitted to the CSA STAR Registry for a Level 1 self-assessment.
 > | Cell A1 | `{"specification_version":"4.1.0","caiq_version":"4.1.0"}` | `{"specification_version":"4.1.1","caiq_version":"4.1.0"}` |
 > | Served by CSA | from the January 2026 release until the bundle was repacked on 2026-10-06 | since 2026-10-06 |
 >
-> The questionnaire's own Change Log has no new row: its only entry is still
-> "CAIQ v4.1.0 | 2025-11-01". The second generation was built from
+> The questionnaire's own Change Log gains no row for this regeneration. Its
+> two rows (CAIQ v4.1 and CAIQ v4.0.3) were only reformatted: the first reads
+> "CAIQ v4.1 | 2025/11/01 | Question(s)" in January and "CAIQ v4.1.0 |
+> 2025-11-01 | assessment_questionnaire" in October. The second generation was built from
 > [CCM 4.1.1](../../ccm/4.1.1/), whose edits to control text carried into the
 > questions. 26 of 283 question texts differ: 19 in punctuation only, 7 in wording.
 >
@@ -31,6 +33,23 @@ questions submitted to the CSA STAR Registry for a Level 1 self-assessment.
 > differs, so you can tell whether an answer needs another look.
 
 Question IDs are unchanged: the same 283 IDs under the same 207 controls.
+
+**More differs than the 26 question texts**, which matters if you diff this
+file against the January one. These were counted on 2026-10-23 against git
+`74ff4b8`, and are not machine-checked:
+
+- **Line breaks** changed in 233 of the 283 raw `question` strings. Only 26 of
+  those differ once whitespace is normalised.
+- **`ccm_control_specification`** differs in 150 of 283 records once
+  normalised. It is the control text as printed in the questionnaire, and 101
+  CCM specifications were reworded in 4.1.1.
+- **`ccm_control`** is now embedded from CCM 4.1.1
+  ([`../../ccm/4.1.1/ccm-4.1.1.json`](../../ccm/4.1.1/ccm-4.1.1.json)) rather
+  than 4.1.0. It differs in 280 of 283 records, mostly in line breaks.
+
+The questions as they shipped with CCM 4.1.0 are also embedded in
+[`../../ccm/4.1.0/ccm-4.1.0.json`](../../ccm/4.1.0/ccm-4.1.0.json)
+(`caiq_questions`).
 
 ## The seven wording changes
 

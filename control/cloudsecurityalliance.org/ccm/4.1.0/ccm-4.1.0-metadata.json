@@ -60,7 +60,7 @@
     "mappings_status": "none-in-source",
     "notes": "No cross-framework mappings exist for 4.1.0. The workbook's Scope Applicability (Mappings) sheet holds a single cell: \"This dataset is not available yet\". The first CCM v4.1 mappings shipped in 4.1.1."
   },
-  "notes": "Superseded by ../4.1.1/. The companion questionnaire is extracted under ../../ccm-caiq/4.1.0/.",
+  "notes": "Superseded by ../4.1.1/. The CAIQ questions that shipped with this release are embedded in ccm-4.1.0.json (caiq_questions). The standalone questionnaire under ../../ccm-caiq/4.1.0/ is now the 2026-10-02 generation, built from CCM 4.1.1; the 2026-01-13 extraction that paired with this release is in git at 74ff4b8.",
   "desired_end_state": {
     "state": "structured",
     "reason": "control-catalog",

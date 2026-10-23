@@ -92,7 +92,7 @@
     {
       "id": "change-log-names-2-edits-of-127",
       "status": "accepted",
-      "summary": "The workbook's Change Log records two 4.1.1 changes: the three new mappings, and text fixes to DSP-17 (\"it's lifecycle\" -> \"its lifecycle\") and CCC-03 (a redundant comma after \"assets\"). Compared with the 4.1.0 extraction after whitespace normalisation, 101 of 207 control specifications and 26 of 283 CAIQ questions differ: 127 reworded cells, of which the Change Log names 2. Of the 101 specifications, 92 differ in punctuation only, mostly an added serial comma; 9 differ in wording (CCC-06, DCS-06, DSP-17, IAM-10, IAM-12, IAM-13, LOG-07, STA-11, TVM-06). CHANGES-FROM-4.1.0.md lists every wording change."
+      "summary": "The workbook's Change Log records two 4.1.1 changes: the three new mappings, and text fixes to DSP-17 (\"it's lifecycle\" -> \"its lifecycle\") and CCC-03 (a redundant comma after \"assets\"). Compared with the 4.1.0 extraction after whitespace normalisation, 101 of 207 control specifications and 26 of 283 CAIQ questions differ: the Change Log names 2 of the 127 reworded texts. Each specification is repeated in four sheets, so the workbook holds 430 changed text cells. Of the 101 specifications, 92 differ in punctuation only, mostly an added serial comma; 9 differ in wording (CCC-06, DCS-06, DSP-17, IAM-10, IAM-12, IAM-13, LOG-07, STA-11, TVM-06). CHANGES-FROM-4.1.0.md lists every wording change."
     },
     {
       "id": "iam-13-mfa-wording-changed",

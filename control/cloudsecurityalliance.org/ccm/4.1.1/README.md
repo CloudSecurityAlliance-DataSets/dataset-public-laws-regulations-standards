@@ -103,7 +103,7 @@ edits are corrections: a contraction (DSP-17, "it's" -> "its"), hyphenation
 > population. The new text matches the wording CAIQ question IAM-13.1 already
 > used in 4.1.0. Worth a question to CSA; the extraction keeps CSA's text.
 
-The workbook's Change Log names 2 of the 127 reworded cells: DSP-17 and CCC-03.
+The workbook's Change Log names 2 of the 127 reworded texts: DSP-17 and CCC-03.
 
 The same 26 question changes are in the standalone questionnaire, which CSA
 regenerated without changing its CAIQ 4.1.0 label. That questionnaire, with a

@@ -30,10 +30,12 @@ version token and the JSON stamp in cell A1. The bundle was repacked on
 2026-10-06; anyone who downloaded "CCM v4.1" before then holds 4.1.0.
 
 **The Change Log understates the edits.** It records the new mappings and two
-text fixes, DSP-17 and CCC-03. Compared field by field, the workbook names 2 of
-the 127 reworded cells: 101 of 207 control specifications differ: 92 in
+text fixes, DSP-17 and CCC-03. Compared field by field, the Change Log names 2 of
+the 127 reworded texts: 101 of 207 control specifications differ: 92 in
 punctuation only and 9 in wording, and 26 of 283 CAIQ questions differ: 19 in
-punctuation only and 7 in wording.
+punctuation only and 7 in wording. Each specification also appears in the
+Implementation Guidelines, Auditing Guidelines and CAIQ sheets, so the 127
+texts account for 430 of the differing cells counted under [Method](#method).
 
 ---
 

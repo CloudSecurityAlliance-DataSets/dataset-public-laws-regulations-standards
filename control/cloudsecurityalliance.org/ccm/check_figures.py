@@ -149,7 +149,8 @@ def compute(old, new, new_doc):
         "dora_full": figures["dora_gap"].get("Full Gap", 0),
         "spec_wording_count": len(spec_wording),
         "caiq_wording_count": len(caiq_wording),
-        "text_cells_changed": len(spec_changed) + len(caiq_changed),
+        # Texts, not cells: each specification is repeated in four sheets.
+        "texts_changed": len(spec_changed) + len(caiq_changed),
         "spec_unchanged": len(shared) - len(spec_changed),
         "nist_partial": nist["gap"].get("Partial Gap", 0),
         "nist_no_gap": nist["gap"].get("No Gap", 0),
@@ -257,7 +258,7 @@ CHECKS = [
     ("caiq_punct_only",   r"CAIQ questions differ: (\d+) in punctuation only", [README, REPORT]),
     ("caiq_wording_count", r"CAIQ questions differ: \d+ in punctuation only and (\d+) in wording",
      [README, REPORT]),
-    ("text_cells_changed", r"names 2 of the (\d+) reworded cells",           [README, REPORT]),
+    ("texts_changed",     r"names 2 of the (\d+) reworded texts",            [README, REPORT, META]),
     ("controls",          r"All (\d+) control IDs",                          [README, REPORT]),
     ("nist_no_mapping",   r"NIST SP 800-171 rev2 \((\d+) controls\)",        [META]),
     ("attack_no_mapping", r"MITRE ATT&CK \((\d+) controls\)",                [META]),
@@ -286,6 +287,33 @@ CHECKS = [
     ("caiq_embedded",     r"\[`4\.1\.1/`\]\(4\.1\.1/\)\. Contains \d+ controls and (\d+) CAIQ questions",
      ["README.md"]),
 ]
+
+
+# (file, text that must NOT appear, why). Statements found to be false in review,
+# kept out for good.
+CAIQ_README_REL = "../ccm-caiq/4.1.0/README.md"
+CAIQ_META_REL = "../ccm-caiq/4.1.0/ccm-caiq-4.1.0-metadata.json"
+FORBIDDEN = [
+    (CAIQ_README_REL, "its only entry is still",
+     "the January Change Log has two rows (CAIQ v4.1 and v4.0.3), both reformatted in October"),
+    (CAIQ_META_REL, "its only entry is still", "same"),
+    (f"{OLD}/ccm-{OLD}-metadata.json", "The companion questionnaire is extracted under ../../ccm-caiq/4.1.0/.",
+     "that directory now holds the questionnaire generated from CCM 4.1.1, not 4.1.0's"),
+    (README, "reworded cells", "127 counts reworded texts; each specification appears in four sheets"),
+    (REPORT, "reworded cells", "same"),
+    (META, "reworded cells", "same"),
+]
+
+
+def check_forbidden(forbidden):
+    failures = []
+    for rel, text, why in forbidden:
+        path = CCM / rel
+        if not path.exists():
+            failures.append(f"{rel}: file not found")
+        elif text in flatten(path.read_text()):
+            failures.append(f"{rel}: says {text!r}, which is false — {why}")
+    return failures
 
 
 def flatten(text):
@@ -330,7 +358,8 @@ def main():
         return 1
 
     figures = compute(*load())
-    failures = check_invariants(figures, INVARIANTS) + check_prose(figures, CHECKS)
+    failures = (check_invariants(figures, INVARIANTS) + check_prose(figures, CHECKS)
+                + check_forbidden(FORBIDDEN))
 
     print(f"CCM {OLD} -> {NEW} figures from the committed data:")
     for key, value in figures.items():

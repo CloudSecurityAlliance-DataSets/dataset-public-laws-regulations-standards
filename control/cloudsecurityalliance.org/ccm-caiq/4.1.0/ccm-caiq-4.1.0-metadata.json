@@ -62,7 +62,7 @@
     {
       "id": "question-text-changed-under-unchanged-version-label",
       "status": "accepted",
-      "summary": "CSA issued two different workbooks labelled CAIQ 4.1.0. Both stamp caiq_version 4.1.0 in cell A1; the first records specification_version 4.1.0 and the second 4.1.1. The second, generated 2026-10-02 (filename token generated_at_2026_10_02), changes the text of 26 of the 283 questions: 19 in punctuation only and 7 in wording (DCS-02.2, DCS-06.2, DCS-11.1, I&S-05.1, IAM-13.1, LOG-07.1, UEM-02.1). The questionnaire's Change Log has no new row; its only entry is still 'CAIQ v4.1.0 | 2025-11-01'. Question IDs are unchanged. A bare 'CAIQ 4.1.0' citation therefore identifies two texts. README.md lists every changed question with both texts."
+      "summary": "CSA issued two different workbooks labelled CAIQ 4.1.0. Both stamp caiq_version 4.1.0 in cell A1; the first records specification_version 4.1.0 and the second 4.1.1. The second, generated 2026-10-02 (filename token generated_at_2026_10_02), changes the text of 26 of the 283 questions: 19 in punctuation only and 7 in wording (DCS-02.2, DCS-06.2, DCS-11.1, I&S-05.1, IAM-13.1, LOG-07.1, UEM-02.1). The questionnaire's Change Log gains no row: its two rows (CAIQ v4.1 and CAIQ v4.0.3) were only reformatted, from 'CAIQ v4.1 | 2025/11/01 | Question(s)' in January to 'CAIQ v4.1.0 | 2025-11-01 | assessment_questionnaire' in October. Question IDs are unchanged. A bare 'CAIQ 4.1.0' citation therefore identifies two texts. README.md lists every changed question with both texts."
     },
     {
       "id": "dcs-11-1-asks-less-than-its-control",
