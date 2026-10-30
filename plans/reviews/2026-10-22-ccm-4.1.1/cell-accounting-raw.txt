@@ -1,0 +1,11 @@
+Introduction                       differing=   67  row1-stamp=2  in_old=True in_new=True new_nonempty=68
+CCM                                differing= 3210  row1-stamp=2  in_old=True in_new=True new_nonempty=4808
+Implementation Guidelines          differing=  105  row1-stamp=2  in_old=True in_new=True new_nonempty=1895
+Auditing Guidelines                differing=  104  row1-stamp=2  in_old=True in_new=True new_nonempty=1061
+Scope Applicability (Mappings)     differing= 1896  row1-stamp=2  in_old=True in_new=True new_nonempty=1896
+Reverse Mappings                   differing= 1111  row1-stamp=2  in_old=False in_new=True new_nonempty=1111
+CAIQ                               differing=  129  row1-stamp=1  in_old=True in_new=True new_nonempty=1515
+Acknowledgments                    differing=   45  row1-stamp=2  in_old=True in_new=True new_nonempty=35
+Change Log                         differing=   84  row1-stamp=2  in_old=True in_new=True new_nonempty=89
+TOTAL differing cells: 6751
+

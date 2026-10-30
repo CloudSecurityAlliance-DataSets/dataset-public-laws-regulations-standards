@@ -10,6 +10,8 @@ Public repository of bulk-processed laws, regulations, standards, frameworks, an
 > |---|---|
 > | AICM **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm/1.1.0/`](control/cloudsecurityalliance.org/aicm/1.1.0/) — the spreadsheet stamps itself `1.1.0`; CSA's download page says "v1.1". Same release. |
 > | AI-CAIQ **1.1** / v1.1 | [`control/cloudsecurityalliance.org/aicm-caiq/1.1.0/`](control/cloudsecurityalliance.org/aicm-caiq/1.1.0/) — same split, versions in lockstep with AICM. |
+> | CCM **4.1** / v4.1 | [`control/cloudsecurityalliance.org/ccm/4.1.1/`](control/cloudsecurityalliance.org/ccm/4.1.1/) — CSA's download page says "v4.1" for both 4.1.0 and 4.1.1; SecID resolves the bare label to the newest, 4.1.1 (ADR-015, second amendment). 4.1.0 is in [`ccm/4.1.0/`](control/cloudsecurityalliance.org/ccm/4.1.0/), which was `ccm/4.1/` until 2026-10-23. |
+> | CAIQ **4.1** / v4.1 (for CCM) | [`control/cloudsecurityalliance.org/ccm-caiq/4.1.0/`](control/cloudsecurityalliance.org/ccm-caiq/4.1.0/) — the questionnaire stamps itself `4.1.0`. CSA changed 26 question texts on 2026-10-02 without changing that label; the README lists them. |
 >
 > **A version alias is a labelling statement, never a compatibility claim.** Different releases of the same document are not interchangeable — and in AICM's case emphatically not: **54 control IDs designate a different control in 1.1.0 than in 1.0.3**, so AICM control IDs must always be cited with a version. See [AICM versioning](control/cloudsecurityalliance.org/aicm/VERSIONING.md).
 
@@ -35,13 +37,13 @@ Current state of every document tracked in this repo, broken down by SecID type 
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 69 | 32 | 33 | — | — | **134** |
+| `control/` | 71 | 32 | 33 | — | — | **136** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **171** | **179** | **180** | **4** | **6** | **540** |
+| **Total** | **173** | **179** | **180** | **4** | **6** | **542** |
 
 See [`INDEX.md`](INDEX.md) for the per-document table including SecID identifiers and extraction-state glyphs.
 <!-- INVENTORY-END -->
