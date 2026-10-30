@@ -37,7 +37,8 @@ The repository organizes content by **SecID type → namespace → name → vers
 control/
 ├── cloudsecurityalliance.org/
 │   ├── ccm/4.0.13/
-│   ├── ccm/4.1/
+│   ├── ccm/4.1.0/
+│   ├── ccm/4.1.1/
 │   ├── aicm/1.0.3/
 │   └── ccm-caiq/4.0.3/
 ├── pcisecuritystandards.org/
@@ -178,6 +179,7 @@ This repository contains documentation and data — no traditional build/lint/te
 | `python3 tools-resources/utils/audit_secid_alignment.py` | After adding or moving any document directory. Verifies every metadata `secid` field resolves to a registered SecID namespace. Exits 1 if anything is missing. |
 | `python3 tools-resources/utils/build_index.py` | After adding/removing documents or changing extraction state. Regenerates `INDEX.md` at repo root. |
 | `python3 control/cloudsecurityalliance.org/aicm/crosswalks/check_figures.py` | After regenerating the AICM crosswalk or editing AICM prose. Asserts that the counts quoted across the seven AICM docs still match the committed data. Exits 1 on drift. |
+| `python3 control/cloudsecurityalliance.org/ccm/check_figures.py` | After re-extracting CCM 4.1.1 or CAIQ 4.1.0, or editing their prose. Asserts the 4.1.0 → 4.1.1 invariants (no ID moved, 101 reworded specifications, mapping and DORA counts) and every figure the CCM 4.1.1 docs and the CAIQ 4.1.0 changed-question table quote. Exits 1 on drift. |
 
 The audit script requires `~/GitHub/CloudSecurityAlliance/SecID/registry/` to exist locally (it cross-references the SecID registry checkout). If that path is missing, clone https://github.com/CloudSecurityAlliance/SecID alongside this repo before running the audit.
 

@@ -10,7 +10,7 @@
   "publication_id": "CCM-CAIQ-4.0.3",
   "owner": "Cloud Security Alliance (CSA)",
   "type": "Framework",
-  "description": "Vendor self-assessment questionnaire derived from CCM v4.0. 458 yes/no questions structured against CCM controls, used by cloud service providers in CSA STAR Registry attestations.",
+  "description": "Vendor self-assessment questionnaire derived from CCM v4.0. 261 yes/no questions structured against CCM controls, used by cloud service providers in CSA STAR Registry attestations.",
   "relationToCloudSecurity": "Industry-standard vendor self-attestation for cloud security controls. Companion to CCM v4.0.",
   "relationToAISecurity": "Covers general cloud security; AI-specific controls in AICM.",
   "license": {
@@ -51,7 +51,8 @@
     }
   ],
   "scope": {
-    "questions": 458
+    "questions": 261,
+    "notes": "261 questions, counted by distinct CAIQ_Question ID in ccm-caiq-4.0.3-generated-2024-10-31-normalized.csv. This field said 458 until 2026-10-23: that is 261 questions plus 197 control rows, a row count rather than a question count."
   },
   "notes": "CSA STAR Registry attestation questionnaire.",
   "desired_end_state": {

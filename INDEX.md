@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 540
+**Total documents indexed:** 542
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
-| `control/` | 69 | 32 | 33 | — | — | **134** |
+| `control/` | 71 | 32 | 33 | — | — | **136** |
 | `regulation/` | 45 | 25 | 6 | — | — | **76** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 2 | — | 3 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
 | `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **171** | **179** | **180** | **4** | **6** | **540** |
+| **Total** | **173** | **179** | **180** | **4** | **6** | **542** |
 
 ## control/
 
@@ -52,11 +52,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cloudsecurityalliance.org/aicm/1.1.1/` | structured | 6 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.1` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.0.2/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.0.2` |
 | `control/cloudsecurityalliance.org/aicm-caiq/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm-caiq@1.1.0` |
-| `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 6 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
+| `control/cloudsecurityalliance.org/ccm/3.0.1/` | structured | 8 | `MXJC·P·` | `secid:control/cloudsecurityalliance.org/ccm@3.0.1` |
 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | structured | 56 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.0.13` |
-| `control/cloudsecurityalliance.org/ccm/4.1/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1` |
+| `control/cloudsecurityalliance.org/ccm/4.1.0/` | structured | 3 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm@4.1.0` |
+| `control/cloudsecurityalliance.org/ccm/4.1.1/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/ccm@4.1.1` |
+| `control/cloudsecurityalliance.org/ccm-caiq/3.1/` | structured | 5 | `M···SP·` | `secid:control/cloudsecurityalliance.org/ccm-caiq@3.1` |
 | `control/cloudsecurityalliance.org/ccm-caiq/4.0.3/` | structured | 2 | `M··C···` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.0.3` |
-| `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 2 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
+| `control/cloudsecurityalliance.org/ccm-caiq/4.1.0/` | structured | 5 | `M···S··` | `secid:control/cloudsecurityalliance.org/ccm-caiq@4.1.0` |
 | `control/concordia-ai.com/frontier-ai-rmf/` | extracted | 3 | `MX·····` | `secid:control/concordia-ai.com/frontier-ai-rmf` |
 | `control/cryptrec.go.jp/ciphers-list/` | metadata-only | 6 | `M······` | `secid:control/cryptrec.go.jp/ciphers-list` |
 | `control/cyber.go.jp/cip-policy/` | metadata-only | 4 | `M······` | `secid:control/cyber.go.jp/cip-policy` |
@@ -592,7 +594,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
 | `reference/wa.gov/data-breach-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/wa.gov/data-breach-glossary` |
 | `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
-| `reference/wikimedia.org/security-team-definitions/` | structured | 6 | `MX·CSP·` | `secid:reference/wikimedia.org/security-team-definitions` |
+| `reference/wikimedia.org/security-team-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/wikimedia.org/security-team-definitions` |
 | `reference/wpscan.com/wpscan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wpscan.com/wpscan-glossary` |
 | `reference/xonasystems.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/xonasystems.com/cybersecurity-glossary` |
 | `reference/zohocorp.com/eprotect-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/zohocorp.com/eprotect-security-glossary` |

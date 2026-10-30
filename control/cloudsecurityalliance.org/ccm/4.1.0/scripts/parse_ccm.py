@@ -7,10 +7,9 @@ import os
 import pandas as pd
 import numpy as np
 
-XLSX_DIR = os.path.join(os.path.dirname(__file__), "..", "..",
-    "CCM+CAIQv4.1 Bundle")
-CCM_XLSX = os.path.join(XLSX_DIR, "CCMv4.1.0-generated_at_2026_01_13.xlsx")
-OUTPUT = os.path.join(os.path.dirname(__file__), "..", "CCMv4.1.0.json")
+CCM_XLSX = os.path.join(os.path.dirname(__file__), "..",
+    "CCMv4.1.0-generated_at_2026_01_13.xlsx")
+OUTPUT = os.path.join(os.path.dirname(__file__), "..", "ccm-4.1.0.json")
 
 
 def clean(val):

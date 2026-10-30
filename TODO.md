@@ -171,7 +171,7 @@ The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](htt
 | Framework | New path | Status |
 |---|---|---|
 | CCM 4.0.13 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | Ready |
-| CCM 4.1 | `control/cloudsecurityalliance.org/ccm/4.1/` | Ready |
+| CCM 4.1.0 | `control/cloudsecurityalliance.org/ccm/4.1.0/` | Ready |
 | CCM 3.0.1 | `control/cloudsecurityalliance.org/ccm/3.0.1/` | Ready |
 | AICM 1.0.3 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | Ready |
 | NIST CSF 2.0 | `control/nist.gov/csf/2.0/` | Ready |
