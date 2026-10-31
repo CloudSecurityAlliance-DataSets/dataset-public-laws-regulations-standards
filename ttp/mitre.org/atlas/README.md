@@ -57,7 +57,7 @@ ATLAS provides **no deprecation mechanism**. Verified against 2026.04 → 2026.0
 
 - `AML.T0019`, `AML.T0058`, `AML.T0104` were **deleted outright** — folded into `AML.T0115` sub-techniques. No `revoked-by`, no `deprecated` flag, no redirect. The mapping exists only in the upstream CHANGELOG prose.
 - The STIX bundle has **zero** objects with `revoked` or `x_mitre_deprecated` set.
-- Objects carry a `uuid`, but all are **UUIDv5** — deterministic name-based hashes, not opaque allocated keys. Rename or re-parent an object and its UUID changes by construction. The three retired techniques' UUIDs are absent from 2026.07. (For the 167 IDs present in both releases, UUID drift was zero — UUIDs are stable exactly as long as identity is.)
+- Objects carry a `uuid`, which is a deterministic **UUIDv5** derived from the ATLAS ID (`uuid5(ATLAS_UUID_DOMAIN, self.id)`), not an opaque allocated key. Renaming or re-parenting an object preserves its UUID, whereas retiring or renumbering an ID removes the old UUID. The three retired techniques' UUIDs are absent from 2026.07. (For the 167 IDs present in both releases, UUID drift was zero — UUIDs are stable exactly as long as the ATLAS ID is.)
 
 The nastier failure mode is an ID that survives but changes meaning. **Always cite ATLAS with a release**, e.g. `AML.T0115.000 @ 2026.07`. The unversioned `https://atlas.mitre.org/techniques/{id}` URL is fine for a footnote, not for a mapping table.
 

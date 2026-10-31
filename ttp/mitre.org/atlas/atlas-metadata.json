@@ -66,7 +66,7 @@
       "tool": "n/a"
     },
     {
-      "s3_timestamp": "2026-08-12",
+      "s3_timestamp": "2026-08-12T00-00-00Z",
       "status": "current",
       "reason": "Refreshed pointers for the CalVer switch and the format-version 6.0.0 dist/ reorganization; recorded identifier-permanence caveats. Still reference-only.",
       "tool": "n/a"
@@ -80,7 +80,7 @@
     "license": "Apache-2.0",
     "covers": "1 matrix, 16 tactics, 101 techniques + 77 sub-techniques, 37 mitigations, 68 case studies (counts as of 2026.07)",
     "identifier_pattern": "AML. prefix throughout: AML.TA#### (tactic), AML.T####[.###] (technique/sub-technique), AML.M#### (mitigation), AML.CS#### (case study). Dots preserved in URLs, unlike ATT&CK sub-techniques.",
-    "identifier_stability": "WEAK \u2014 ATLAS provides no deprecation mechanism. Verified 2026.04 to 2026.07: AML.T0019, AML.T0058 and AML.T0104 were deleted outright (folded into AML.T0115 sub-techniques) with no revoked-by, no deprecated flag, and no redirect; the mapping exists only in upstream CHANGELOG prose. The STIX bundle carries zero revoked/x_mitre_deprecated objects. Object uuid fields are UUIDv5 (deterministic name-based hashes), so they change by construction on rename or re-parent and cannot serve as permanent keys \u2014 all three retired techniques' UUIDs are absent from 2026.07, while the 167 IDs present in both releases showed zero UUID drift. Cite ATLAS objects WITH a release, e.g. 'AML.T0115.000 @ 2026.07'. Tracked in SecID issue #155.",
+    "identifier_stability": "WEAK \u2014 ATLAS provides no deprecation mechanism. Verified 2026.04 to 2026.07: AML.T0019, AML.T0058 and AML.T0104 were deleted outright (folded into AML.T0115 sub-techniques) with no revoked-by, no deprecated flag, and no redirect; the mapping exists only in upstream CHANGELOG prose. The STIX bundle carries zero revoked/x_mitre_deprecated objects. Object uuid fields are UUIDv5 derived deterministically from the ATLAS ID (uuid5(ATLAS_UUID_DOMAIN, self.id)), so renaming or re-parenting preserves the UUID while retiring or renumbering an ID removes the old UUID \u2014 all three retired techniques' UUIDs are absent from 2026.07, while the 167 IDs present in both releases showed zero UUID drift. Cite ATLAS objects WITH a release, e.g. 'AML.T0115.000 @ 2026.07'. Tracked in SecID issue #155.",
     "stix_channel": "mitre-atlas/atlas-navigator-data (dist/stix-atlas.json, plus Navigator layers and OpenCTI bundles) \u2014 lags atlas-data by a release or more; had 170 attack-patterns (the 2026.04 snapshot) when checked on 2026-08-12."
   },
   "notes": "Reference entry. ATLAS upstream at mitre-atlas/atlas-data is the canonical source \u2014 pin to a release tag for reproducibility. Note the repo is no longer data-only: it now also ships a Python API package under atlas/ (routes.py, models.py, db/, services/).",

@@ -48,7 +48,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "ATT&CK is published as STIX 2.0/2.1 bundles at https://github.com/mitre-attack/attack-stix-data (Apache-2.0, ~50MB per matrix). This repo references it rather than mirroring \u2014 the upstream is authoritative and version-tagged. Consumers should pull from upstream by tag/release. Enterprise/Mobile/ICS matrices each have their own JSON bundles."
+    "notes": "ATT&CK is published as STIX 2.0/2.1 bundles at https://github.com/mitre-attack/attack-stix-data (MITRE ATT&CK Terms of Use, ~50MB for Enterprise). This repo references it rather than mirroring \u2014 the upstream is authoritative and version-tagged. Consumers should pull from upstream by tag/release. Enterprise/Mobile/ICS matrices each have their own JSON bundles."
   },
   "extraction_history": [
     {
@@ -87,7 +87,7 @@
     "bundle_size_typical": "~50MB Enterprise, ~4MB Mobile, ~4MB ICS",
     "license": "MITRE ATT&CK license (attribution required) for both data repos",
     "release_pattern": "Git tags / GitHub Releases on both repos; attack-stix-data uses vN.N, mitre/cti uses ATT&CK-vN.N",
-    "identifier_pattern": "IDs appear as external_references[].external_id where source_name starts with 'mitre'. Verified prefixes in the v19.2 ICS bundle: TA#### (tactic), T####[.###] (technique/sub-technique), S#### (software), G#### (group), C#### (campaign), M#### (mitigation), DS#### (data source), A#### (asset, ICS), and AN####/DET####/DC#### (detection strategies, detections, analytic components - object types introduced in v18, so pre-v18 consumers will not recognize them).",
+    "identifier_pattern": "IDs appear as external_references[].external_id where source_name starts with 'mitre'. Verified prefixes in the v19.2 ICS bundle: TA#### (tactic), T####[.###] (technique/sub-technique), S#### (software), G#### (group), C#### (campaign), M#### (mitigation), DS#### (data source), A#### (asset, ICS), and AN####/DET####/DC#### (analytics, detection strategies, data components - object types introduced in v18, so pre-v18 consumers will not recognize them).",
     "deprecation_mechanism": "Present, unlike ATLAS. Objects carry revoked and x_mitre_deprecated flags plus revoked-by relationships, so retired IDs can be followed forward programmatically. The v19.2 ICS bundle alone contains 11 revoked objects, 37 deprecated, and 11 revoked-by relationships."
   },
   "notes": "ATT&CK is the most-cited adversary behavior framework in the industry. Downstream consumers should pin to specific ATT&CK versions for reproducibility \u2014 technique IDs are comparatively stable and retirements are traceable via revoked-by, but coverage grows release-over-release and new object types appear between majors.",

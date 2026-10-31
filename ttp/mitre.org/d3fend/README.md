@@ -19,24 +19,27 @@ Tactics: Model, Harden, Detect, Isolate, Deceive, Evict, Restore.
 | [`d3fend/d3fend-ontology`](https://github.com/d3fend/d3fend-ontology) | **Canonical source.** Ontology sources under `src/ontology/`, build tooling, `CHANGELOG.md` |
 | [`d3fend/d3fend`](https://github.com/d3fend/d3fend) | The public static website — <https://d3fend.mitre.org/> is served from GitHub Pages |
 
-Built distributions are published at `d3fend.mitre.org/ontologies/`, **not** as GitHub release assets. Note that `d3fend-ontology` has **no GitHub Releases** — versions are git **tags** (`1.0.0` … `1.5.0`). Resolve a version by tag, not by release API.
+Built distributions are indexed on <https://d3fend.mitre.org/resources/ontology/> and served under `d3fend.mitre.org/ontologies/` (both unversioned current paths and version-pinned paths under `/ontologies/d3fend/<version>/`), **not** as GitHub release assets. Note that `d3fend-ontology` has **no GitHub Releases** — versions in git are **tags** (`1.0.0` … `1.5.0`). Resolve a version by tag or by the versioned `/ontologies/d3fend/<version>/` path, not by the GitHub releases API.
 
 ## Getting the data
 
 ```bash
-# Built distributions (current release)
-curl -LO https://d3fend.mitre.org/ontologies/d3fend.csv    # flattened technique table
-curl -LO https://d3fend.mitre.org/ontologies/d3fend.owl    # OWL/XML
-curl -LO https://d3fend.mitre.org/ontologies/d3fend.ttl    # Turtle
-curl -LO https://d3fend.mitre.org/ontologies/d3fend.json   # JSON
+# Built distributions — version-pinned (1.5.0)
+curl -LO https://d3fend.mitre.org/ontologies/d3fend/1.5.0/d3fend.csv    # flattened technique table
+curl -LO https://d3fend.mitre.org/ontologies/d3fend/1.5.0/d3fend.owl    # OWL/XML
+curl -LO https://d3fend.mitre.org/ontologies/d3fend/1.5.0/d3fend.ttl    # Turtle
+curl -LO https://d3fend.mitre.org/ontologies/d3fend/1.5.0/d3fend.json   # JSON
 
-# Pin to a tagged version from source
+# Built distributions — current release (unversioned alias)
+curl -LO https://d3fend.mitre.org/ontologies/d3fend.csv
+
+# Pin to a tagged version from ontology source
 git clone --depth 1 --branch 1.5.0 https://github.com/d3fend/d3fend-ontology
 ```
 
 The `d3fend.csv` columns are: `ID, D3FEND Tactic, D3FEND Technique, D3FEND Technique Level 0, D3FEND Technique Level 1, Definition`.
 
-⚠ The `d3fend.mitre.org/ontologies/` URLs are **unversioned** — they always serve the current release. There is no way to fetch a prior version's built artifact from that path; use a git tag for reproducibility.
+Prefer the versioned `/ontologies/d3fend/<version>/` URLs (listed at <https://d3fend.mitre.org/resources/ontology/>) or a git tag over the unversioned `/ontologies/d3fend.*` aliases, which always serve the current release.
 
 ## Identifiers
 

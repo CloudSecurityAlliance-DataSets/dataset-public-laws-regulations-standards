@@ -58,7 +58,7 @@
     "external_source": "https://capec.mitre.org/data/downloads.html",
     "upstream_caveat": "CAPEC has no dedicated GitHub data repository — the weakest GitHub publication story among the MITRE frameworks in this tree, alongside FiGHT. The authoritative distribution is direct download from capec.mitre.org. A STIX rendering ships in mitre/cti under capec/2.0/ and capec/2.1/.",
     "formats": ["XML (~3.8 MB)", "CSV", "HTML", "STIX 2.0 and 2.1 via mitre/cti"],
-    "release_pattern": "No git tags or releases; versioned only by the Version and Date attributes on the XML root element. capec_latest.xml is an unversioned URL, so record Version/Date with any extraction.",
+    "release_pattern": "No git repository, tags, or GitHub Releases. Version-stamped XML archives are published at https://capec.mitre.org/data/archive.html (e.g. https://capec.mitre.org/data/xml/capec_v3.9.xml), alongside the unversioned https://capec.mitre.org/data/xml/capec_latest.xml which carries Version and Date attributes on the XML root element.",
     "identifier_pattern": "CAPEC-<n>, unpadded (CAPEC-1, CAPEC-100). Attack patterns, categories, and views share a single ID space, so a bare CAPEC-n does not indicate the object kind — check the containing element."
   },
   "notes": "Use CAPEC for attack-pattern threat modeling. Strongest when paired with CWE for the weakness side and ATT&CK for the adversary-behavior side. Because CAPEC is frozen at 3.9, it is a good candidate should a structured extraction ever be wanted — a one-time parse will not go stale quickly.",

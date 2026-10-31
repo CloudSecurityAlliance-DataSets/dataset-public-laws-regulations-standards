@@ -25,7 +25,7 @@
     "downloads": "https://d3fend.mitre.org/resources/",
     "github": "https://github.com/d3fend/d3fend-ontology",
     "github_website": "https://github.com/d3fend/d3fend",
-    "distributions": "https://d3fend.mitre.org/ontologies/",
+    "distributions": "https://d3fend.mitre.org/resources/ontology/",
     "changelog": "https://github.com/d3fend/d3fend-ontology/blob/master/CHANGELOG.md",
     "csaLocation": ""
   },
@@ -35,7 +35,7 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": "Active with near-daily commits and roughly quarterly tagged versions (1.0.0 through 1.5.0; 1.5.0 dated 2026-07-31). Note: d3fend-ontology publishes git TAGS, not GitHub Releases — the releases API returns empty, so resolve versions by tag. Built distributions at d3fend.mitre.org/ontologies/ are served from unversioned URLs that always return the current release; pin by git tag for reproducibility."
+    "notes": "Active with near-daily commits and roughly quarterly tagged versions (1.0.0 through 1.5.0; 1.5.0 dated 2026-07-31). Note: d3fend-ontology publishes git TAGS, not GitHub Releases — the releases API returns empty, so resolve versions by tag. Built distributions are published at both unversioned current URLs (d3fend.mitre.org/ontologies/d3fend.*) and version-pinned archive paths (d3fend.mitre.org/ontologies/d3fend/<version>/, indexed at d3fend.mitre.org/resources/ontology/)."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
@@ -44,7 +44,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Reference-only. Built distributions (d3fend.csv, .owl, .ttl, .json) are published at d3fend.mitre.org/ontologies/ and the ontology source is public and MIT-licensed at github.com/d3fend/d3fend-ontology. Consumers should fetch upstream and pin by git tag."
+    "notes": "Reference-only. Built distributions (d3fend.csv, .owl, .ttl, .json) are published at d3fend.mitre.org/ontologies/d3fend/<version>/ (plus unversioned current aliases at d3fend.mitre.org/ontologies/d3fend.*) and the ontology source is public and MIT-licensed at github.com/d3fend/d3fend-ontology. Consumers should fetch upstream and pin by versioned URL or git tag."
   },
   "extraction_history": [
     {
@@ -54,7 +54,7 @@
       "tool": "manual"
     },
     {
-      "s3_timestamp": "2026-08-12",
+      "s3_timestamp": "2026-08-12T00-00-00Z",
       "status": "current",
       "reason": "Removed committed d3fend.csv and reverted to reference-only. The committed snapshot had drifted badly: 184 rows against upstream's 272 at time of check (88 techniques missing). Upstream is public, MIT-licensed, and tagged, so the no-bulk-mirror rule applies. File remains in git history and S3.",
       "tool": "n/a"
