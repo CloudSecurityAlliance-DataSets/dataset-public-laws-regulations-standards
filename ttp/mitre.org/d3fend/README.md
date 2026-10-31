@@ -58,7 +58,7 @@ If you need "which ATT&CK version does this mapping correspond to," D3FEND's cha
 
 ## What's in this directory
 
-Metadata only, per the repository's [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).
+Metadata only, per the repository's [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).
 
 This directory previously held a committed `d3fend.csv` snapshot. It was removed on 2026-08-12 after it was found to contain **184 rows against upstream's 272** — 88 techniques missing. That drift is exactly what the no-mirror rule exists to prevent. Fetch from upstream instead; the file remains in git history and in S3.
 
