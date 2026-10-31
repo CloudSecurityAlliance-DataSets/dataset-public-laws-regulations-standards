@@ -420,7 +420,7 @@ Restated against observations, the rule reads:
 - A channel with **no pinning mechanism** cannot be safely pointed at. If it is needed offline, snapshot it with the commit SHA or retrieval date recorded.
 - A source with **no machine-readable channel** is extracted, and the derived form is committed. This is the current exception, now derived from a recorded fact rather than asserted.
 
-Consequence for FiGHT: it has no pinning mechanism at all, which places it in the second case, not the first. **The 2026-08-12 removal of `fight.yaml` and `fight.json` (PR #115) may therefore have been the wrong call** — a dated snapshot pinned to `097cd5f73811` is arguably correct. Flagged as an open item rather than silently reversed.
+Consequence for FiGHT: it has no pinning mechanism at all, which places it in the second case, not the first. **The initial 2026-08-12 removal of `fight.yaml` and `fight.json` in PR #115 was therefore reversed on 2026-08-14** — PR #115 now keeps a dated snapshot pinned to `097cd5f73811` (`desired_end_state: structured/taxonomy`) along with `convert_fight.py`.
 
 ### A correction this design surfaced
 
@@ -435,7 +435,7 @@ That does not automatically make the local extraction wrong — it derives from 
 Two checks, both cheap, both separable from the harder problem of re-verifying facts:
 
 1. **Metadata shape validation.** The repository has one validator, `audit_secid_alignment.py`, which checks that `secid` resolves. Nothing checks key names. A misspelled `pining` would silently do nothing across hundreds of files. Add key-name validation for the `upstream` object — either extending the existing script or as a new `validate_metadata.py`.
-2. **`desired_end_state` contradiction check.** A directory declaring `metadata-only` while containing non-metadata data files is a mechanically detectable contradiction. This is the CTID case — eight directories that each state the rule correctly and hold 6.3 MB anyway — and it would also have caught `d3fend.csv` and `fight.yaml`. Worth adding to `build_index.py` **independently of this design**; it needs no observation records to work.
+2. **`desired_end_state` contradiction check.** A directory declaring `metadata-only` while containing non-metadata data files is a mechanically detectable contradiction. This is the CTID case — eight directories that each state the rule correctly and hold 6.3 MB anyway — and it would also have caught `d3fend.csv` and the pre-PR #115 `fight.yaml` (when `fight-metadata.json` declared `metadata-only`). Worth adding to `build_index.py` **independently of this design**; it needs no observation records to work.
 
 ## Non-goals
 
@@ -459,7 +459,7 @@ Two checks, both cheap, both separable from the harder problem of re-verifying f
 
 ## Open items
 
-1. **PR #115 and FiGHT.** Under this model FiGHT is the "snapshot with a recorded SHA" case, not the pointer-only case. Decide whether to restore `fight.yaml` pinned to `097cd5f73811`, or leave #115 as it stands.
+1. ~~**PR #115 and FiGHT.**~~ *(Resolved 2026-08-14 in PR #115: `fight.yaml` and `fight.json` restored as a SHA-pinned snapshot at `097cd5f73811` with `convert_fight.py` and `desired_end_state: structured/taxonomy`.)*
 2. **CTID.** ~6.3 MB across 44 files in eight directories that declare themselves `metadata-only`, mapping ATT&CK 8.2–14.1 against a current 19.2, with every version still available upstream. Explained by this design, not resolved by it.
 3. **NIST OSCAL.** Record the OSCAL channel on `control/nist.gov/800-53/r5`, then decide separately whether the local derivation still earns its place. The same question applies to CSF, SP800-171, SP800-172 and SP800-218, all of which are in `oscal-content` and all of which this repository also holds.
 4. **Integrity and provenance.** Signed releases and published checksums would be a legitimate key. None was observed on any source examined, so it is not defined yet — add it when a source earns it rather than carrying an empty column.
