@@ -68,7 +68,7 @@ The `5` in `FGT5###` / `FGG5###` / `FGS5###` marks 5G-original content; the `1` 
 | `fight.json` | The same data serialized as JSON — no transformation applied |
 | `convert_fight.py` | Reproduces `fight.json` from `fight.yaml` |
 
-**A SHA-pinned snapshot, not an unversioned mirror — and this is a deliberate exception to the [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).**
+**A SHA-pinned snapshot, not an unversioned mirror — and this is a deliberate exception to the [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).**
 
 That rule directs us to point at upstream rather than copy it when upstream publishes version-tagged releases. FiGHT publishes no releases and no git tags, embeds `fight.yaml` inside a built Nuxt static site on `main`, and leaves its own `version` fields largely empty — so there is no upstream release version to point at, and `convert_fight.py` also generates a normalized `fight.json` not shipped upstream. We therefore retain a local snapshot pinned to git commit `097cd5f73811` alongside `fight.json`.
 

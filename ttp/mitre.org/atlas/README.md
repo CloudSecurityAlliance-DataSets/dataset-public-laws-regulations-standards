@@ -65,7 +65,7 @@ Tracked in SecID [#155](https://github.com/CloudSecurityAlliance/SecID/issues/15
 
 ## What's in this directory
 
-Metadata only, per the repository's [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). Upstream is Apache-2.0, public, and release-tagged, so pinning to a tag beats mirroring.
+Metadata only, per the repository's [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). Upstream is Apache-2.0, public, and release-tagged, so pinning to a tag beats mirroring.
 
 ## Relationship to sibling frameworks
 
