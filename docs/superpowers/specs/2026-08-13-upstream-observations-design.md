@@ -286,7 +286,7 @@ The case that motivated the design: strong on every observable except identifier
     "identifiers": [
       "tactics reuse ATT&CK tactic IDs (TA0001..TA0043) plus FiGHT-specific TA5001 ('Fraud')",
       "FGT1###[.###] techniques and sub-techniques align to ATT&CK T1### (113 of 183); FGT5###[.###] are 5G-original (70 of 183); 97 of the 183 technique entries are dotted sub-techniques",
-      "groups mix inherited ATT&CK G#### IDs (6 entries) with FiGHT-specific FGG5### IDs (1 entry); software mixes inherited ATT&CK S#### IDs (8 entries) with FiGHT-specific FGS5### IDs (10 entries)",
+      "groups mix inherited ATT&CK G#### IDs (6 entries) with FiGHT-specific FGG5### IDs (4 entries); software mixes inherited ATT&CK S#### IDs (8 entries) with FiGHT-specific FGS5### IDs (8 entries)",
       "mitigations use FGM####; data sources use FGDS####[.###]; campaigns mix reused ATT&CK IDs (C0024) with FiGHT-original (FGC5001)"
     ],
     "currency": "no commits since 2025-11-14",
