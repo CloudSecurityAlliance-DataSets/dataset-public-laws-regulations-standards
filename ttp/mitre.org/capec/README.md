@@ -45,7 +45,7 @@ Prefer the version-stamped archive URL (`capec_v3.9.xml` from <https://capec.mit
 
 ## What's in this directory
 
-Metadata only, per the repository's [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). MITRE publishes the authoritative catalog as XML/CSV downloads; a copy here would add nothing.
+Metadata only, per the repository's [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). MITRE publishes the authoritative catalog as XML/CSV downloads; a copy here would add nothing.
 
 If a structured extraction is ever wanted, CAPEC's dormancy makes it a good candidate — a one-time parse of 3.9 will not go stale quickly.
 

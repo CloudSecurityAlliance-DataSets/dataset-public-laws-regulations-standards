@@ -61,7 +61,7 @@ Still pin the version — technique scope changes between majors, and the newer 
 
 ## What's in this directory
 
-Metadata only, per the repository's [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). The upstream bundles are large (~50 MB for Enterprise alone), authoritative, and version-tagged, so a copy here would add nothing but drift. Pull from upstream by tag.
+Metadata only, per the repository's [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream). The upstream bundles are large (~50 MB for Enterprise alone), authoritative, and version-tagged, so a copy here would add nothing but drift. Pull from upstream by tag.
 
 ## Relationship to sibling frameworks
 

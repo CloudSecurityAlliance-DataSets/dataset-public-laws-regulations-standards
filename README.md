@@ -146,7 +146,7 @@ secid:control/nist.gov/800-53@r5#AC-1
    → control/nist.gov/800-53/r5/
 ```
 
-See [`CLAUDE.md`](CLAUDE.md) for full structural details, [`PROMPT-CLASSIFICATION.md`](PROMPT-CLASSIFICATION.md) for the classification process, and SecID's [`TYPES-AND-SUBTYPES.md`](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md) for the authoritative definition of the 10 types and the in-type `subtype:` convention that governs both. The SecID doc is the **live source of truth** — fetch the current version from GitHub rather than relying on summaries here; subtypes are tagged and refined on an ongoing basis.
+See [`AGENTS.md`](AGENTS.md) for full structural details, [`PROMPT-CLASSIFICATION.md`](PROMPT-CLASSIFICATION.md) for the classification process, and SecID's [`TYPES-AND-SUBTYPES.md`](https://github.com/CloudSecurityAlliance/SecID/blob/main/docs/reference/TYPES-AND-SUBTYPES.md) for the authoritative definition of the 10 types and the in-type `subtype:` convention that governs both. The SecID doc is the **live source of truth** — fetch the current version from GitHub rather than relying on summaries here; subtypes are tagged and refined on an ongoing basis.
 
 ## Metadata Convention
 
@@ -184,7 +184,7 @@ Contributions follow standard GitHub flow: fork, branch, PR.
 3. Add `[dirname]-metadata.json` per [`METADATA-SCHEMA.md`](METADATA-SCHEMA.md)
 4. Open a PR
 
-For complex documents requiring extraction (PDFs with structured tables), see `CLAUDE.md` for the marker workflow.
+For complex documents requiring extraction (PDFs with structured tables), see [`AGENTS.md`](AGENTS.md) for the marker workflow.
 
 ## License
 
