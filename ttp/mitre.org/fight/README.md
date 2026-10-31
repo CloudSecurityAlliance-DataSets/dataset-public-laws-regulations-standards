@@ -6,7 +6,7 @@ An ATT&CK-style knowledge base of adversary tactics and techniques against **5G 
 |---|---|
 | **SecID** | `secid:ttp/mitre.org/fight` |
 | **Upstream version** | ⚠ **Unversioned** — no releases, no tags. Latest commit `097cd5f` (2025-11-14) |
-| **License** | MITRE FiGHT Terms of Use — the repo `LICENSE.txt` is not an SPDX-recognized identifier |
+| **License** | Apache-2.0 + MITRE FiGHT / ATT&CK Terms of Use (combined in [`LICENSE.txt`](https://github.com/mitre/FiGHT/blob/097cd5f73811/LICENSE.txt); GitHub's detector reports `NOASSERTION`) |
 | **Status** | ⚠ Quiet — no upstream commits since 2025-11-14 |
 | **In this directory** | A snapshot pinned to `097cd5f73811`. See [What's here](#whats-in-this-directory). |
 
@@ -49,14 +49,14 @@ FiGHT's ID scheme encodes **what it inherited from ATT&CK versus what it origina
 
 | Pattern | Meaning |
 |---|---|
-| `TA####` | Tactic — **ATT&CK tactic IDs reused verbatim** (`TA0001`, `TA0042`, `TA0043`), not FiGHT-specific |
-| `FGT1###` | Technique inherited from / aligned to an ATT&CK `T1###` technique (113 of 183) |
-| `FGT5###` | Technique **original to FiGHT** — 5G-specific (70 of 183) |
+| `TA####` | Tactic — 14 ATT&CK tactic IDs reused verbatim (`TA0001`..`TA0043`) plus FiGHT-specific `TA5001` ("Fraud") |
+| `FGT1###`, `FGT1###.###` | Technique / sub-technique inherited from or aligned to an ATT&CK `T1###` technique (113 of 183) |
+| `FGT5###`, `FGT5###.###` | Technique / sub-technique **original to FiGHT** — 5G-specific (70 of 183; 97 of the 183 total technique entries are dotted sub-techniques) |
 | `FGM####` | Mitigation |
 | `FGDS####`, `FGDS####.###` | Data source, sub-source |
-| `FGG5###` | Group |
-| `FGS5###` | Software |
-| `C####` / `FGC5###` | Campaign — ATT&CK campaign IDs reused (`C0024` = SolarWinds) alongside FiGHT-original ones |
+| `G####` / `FGG5###` | Group — inherited ATT&CK group IDs (6 of 10) alongside FiGHT-original `FGG5###` (4 of 10) |
+| `S####` / `FGS5###` | Software — inherited ATT&CK software IDs (8 of 16) alongside FiGHT-original `FGS5###` (8 of 16) |
+| `C####` / `FGC5###` | Campaign — ATT&CK campaign IDs reused (`C0024` = SolarWinds) alongside FiGHT-original ones (`FGC5001`) |
 
 The `5` in `FGT5###` / `FGG5###` / `FGS5###` marks 5G-original content; the `1` in `FGT1###` marks ATT&CK lineage. So `FGT1195` corresponds to ATT&CK `T1195` (Supply Chain Compromise), while `FGT5xxx` has no ATT&CK counterpart.
 
@@ -68,11 +68,11 @@ The `5` in `FGT5###` / `FGG5###` / `FGS5###` marks 5G-original content; the `1` 
 | `fight.json` | The same data serialized as JSON — no transformation applied |
 | `convert_fight.py` | Reproduces `fight.json` from `fight.yaml` |
 
-**A SHA-pinned snapshot, not a mirror — and this is a deliberate exception to the [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).**
+**A SHA-pinned snapshot, not an unversioned mirror — and this is a deliberate exception to the [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream).**
 
-That rule directs us to point at upstream rather than copy it. Pointing requires something citable, and FiGHT publishes no releases, no tags, and leaves its own `version` fields empty — a pointer could only ever reference a moving branch. So the data is kept locally, pinned to a commit that can be named.
+That rule directs us to point at upstream rather than copy it when upstream publishes version-tagged releases. FiGHT publishes no releases and no git tags, embeds `fight.yaml` inside a built Nuxt static site on `main`, and leaves its own `version` fields largely empty — so there is no upstream release version to point at, and `convert_fight.py` also generates a normalized `fight.json` not shipped upstream. We therefore retain a local snapshot pinned to git commit `097cd5f73811` alongside `fight.json`.
 
-The history here is worth stating plainly, because it was got wrong once. This directory previously held a `fight.yaml` of 624 KB against upstream's 1.14 MB, missing the entire `campaigns:` section. That stale copy was removed on 2026-08-12 in favour of a pointer, which fixed the staleness and introduced a different problem — there was nothing to pin the pointer to. On 2026-08-14 the data was restored, **fetched fresh at the pinned SHA rather than reverting the old file.**
+The history here is worth stating plainly, because it was got wrong once. This directory previously held a `fight.yaml` of 624 KB against upstream's 1.14 MB, missing the entire `campaigns:` section. That stale copy was removed on 2026-08-12 in favour of a bare pointer, which fixed the staleness and lost both the commit-pinned snapshot and `fight.json`. On 2026-08-14 the data was restored, **fetched fresh at the pinned SHA (`097cd5f73811`) rather than reverting the old file.**
 
 To refresh: re-run the fetch and conversion in [Getting the data](#getting-the-data) against a newer commit, then update the SHA in `fight-metadata.json` (`scope.pinned_commit`, `current_extraction.notes`) and in this README.
 

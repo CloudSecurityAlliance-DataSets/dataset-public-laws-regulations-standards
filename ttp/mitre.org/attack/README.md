@@ -21,7 +21,7 @@ ATT&CK is published on GitHub in two parallel repositories. **Both are current**
 
 Supporting projects: [`attack-navigator`](https://github.com/mitre-attack/attack-navigator) (Apache-2.0, layer visualization) and [`mitreattack-python`](https://github.com/mitre-attack/mitreattack-python) (Python library).
 
-The rendered site is <https://attack.mitre.org/>.
+The rendered site is <https://attack.mitre.org/> (prior releases archived at <https://attack.mitre.org/resources/versions/>).
 
 ## Getting the data
 
@@ -52,7 +52,7 @@ ATT&CK IDs appear as `external_references[].external_id` where `source_name` sta
 | `C####` | Campaign |
 | `M####` | Mitigation |
 | `DS####` | Data source |
-| `AN####`, `DET####`, `DC####` | Detection strategies, detections, and analytic components — **newer object types**; code written against pre-v18 ATT&CK will not know about these |
+| `AN####`, `DET####`, `DC####` | Analytics, detection strategies, and data components — **newer object types**; code written against pre-v18 ATT&CK will not know about these |
 | `A####` | Asset (ICS) |
 
 Unlike [ATLAS](../atlas/), ATT&CK **does** provide deprecation handling: objects carry `revoked` / `x_mitre_deprecated` flags and `revoked-by` relationships, so a reference to a retired ID can be followed forward programmatically. The v19.2 ICS bundle alone contains 11 revoked objects, 37 deprecated ones, and 11 `revoked-by` relationships.

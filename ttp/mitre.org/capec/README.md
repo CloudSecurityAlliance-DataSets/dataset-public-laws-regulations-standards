@@ -22,21 +22,22 @@ CAPEC has **no dedicated GitHub data repository** — the weakest GitHub story o
 
 | Channel | Location |
 |---|---|
-| **Official downloads** | <https://capec.mitre.org/data/downloads.html> — XML, CSV, HTML |
+| **Official downloads** | <https://capec.mitre.org/data/downloads.html> — XML, CSV, HTML (archived releases at <https://capec.mitre.org/data/archive.html>) |
 | **STIX** | [`mitre/cti`](https://github.com/mitre/cti) under `capec/2.0/` and `capec/2.1/`, documented in [`USAGE-CAPEC.md`](https://github.com/mitre/cti/blob/master/USAGE-CAPEC.md) |
 | **Web** | <https://capec.mitre.org/data/definitions/> |
 
 ## Getting the data
 
 ```bash
-# Full catalog, XML (~3.8 MB)
+# Full catalog, XML (~3.8 MB) — version-stamped archive URL or latest alias
+curl -LO https://capec.mitre.org/data/xml/capec_v3.9.xml
 curl -LO https://capec.mitre.org/data/xml/capec_latest.xml
 
 # STIX form, via the CTI repo
 curl -s https://api.github.com/repos/mitre/cti/contents/capec/2.1 | jq -r '.[].name'
 ```
 
-Because CAPEC is frozen at 3.9, `capec_latest.xml` is currently stable — but it is an unversioned URL, so record the `Version` and `Date` attributes from the XML root element with any extraction.
+Prefer the version-stamped archive URL (`capec_v3.9.xml` from <https://capec.mitre.org/data/archive.html>) over `capec_latest.xml`, and record the `Version` and `Date` attributes from the XML root element with any extraction.
 
 ## Identifiers
 
