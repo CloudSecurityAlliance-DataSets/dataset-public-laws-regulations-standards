@@ -80,6 +80,8 @@ These are different facts, not two homes for one fact.
 }
 ```
 
+`upstream.verified` (ISO date `YYYY-MM-DD`) and at least one entry in `channels` or `feedback` are required when `upstream` is present.
+
 ### `channels[]`
 
 A source may publish the same content several ways, and the ways differ. ATT&CK ships STIX 2.1 and STIX 2.0 from two repositories plus a per-technique website. ATLAS's primary channel (bespoke YAML) is not its standard-format channel (STIX), and the standard-format one lags. One entry per channel.
@@ -97,9 +99,9 @@ A source may publish the same content several ways, and the ways differ. ATT&CK 
 | `currency` | Latest version and date; observed cadence; whether this channel lags another |
 | `license` | What the channel's own LICENSE file says, **as read** — not what a license detector reports |
 | `notes` | Anything observed that does not fit above |
-| `verified` | Date this channel was checked |
+| `verified` | Date this channel was checked (`YYYY-MM-DD`) |
 
-All keys optional except `id`. Omit what has not been checked rather than guessing. Any value may be a string or an array of strings.
+Required keys on each channel: `id` (scalar string) and `verified` (scalar date string `YYYY-MM-DD`). All other keys are optional — omit what has not been checked rather than guessing. Descriptive keys (`url`, `relationship`, `format`, `version_control`, `pinning`, `addressing`, `identifiers`, `currency`, `license`, `notes`) may be a single string or an array of strings.
 
 **Sources with no machine-readable channel still get one.** A PDF-only regulation records `format`, `url`, and `pinning: "none"`. That is a fact worth having, and under a broadened SecID `disclosure` the feedback route matters regardless of format.
 
@@ -113,7 +115,9 @@ How to tell the publisher about a problem in the data. One entry per route.
 | `kind` | `public issue tracker`, `email`, `mailing list`, `web form`, `contribution portal` |
 | `intake` | What structure exists — `CONTRIBUTING.md`, issue templates, DCO, PR policy |
 | `observed` | What actually happens — open/closed counts, response evidence, traceability from report to release |
-| `verified` | Date this was checked |
+| `verified` | Date this was checked (`YYYY-MM-DD`) |
+
+Required keys on each feedback entry: `route` (scalar string), `kind` (scalar string from the allowed set), and `verified` (scalar date string `YYYY-MM-DD`). `intake` and `observed` are optional and may be a single string or an array of strings.
 
 ## Worked examples
 
@@ -142,7 +146,7 @@ All values verified 2026-08-12/13.
       "identifiers": [
         "external_id where source_name starts with 'mitre'",
         "TA#### tactic; T####[.###] technique and sub-technique; S#### software; G#### group; C#### campaign; M#### mitigation; DS#### data source; A#### asset (ICS)",
-        "AN####, DET####, DC#### are detection strategies, detections and analytic components, added in v18",
+        "AN####, DET####, DC#### are analytics, detection strategies and data components, added in v18",
         "revoked and x_mitre_deprecated flags plus revoked-by relationships allow retired ids to be followed forward",
         "v19.2 ICS bundle carries 11 revoked, 37 deprecated, 11 revoked-by"
       ],
@@ -168,7 +172,7 @@ All values verified 2026-08-12/13.
       "relationship": "rendered site",
       "format": "HTML",
       "addressing": "one page per object, machine-fetchable (e.g. /techniques/T1195)",
-      "pinning": "none; serves current version only",
+      "pinning": "current version at root URLs; prior releases archived under https://attack.mitre.org/resources/versions/",
       "verified": "2026-08-13"
     }
   ],
@@ -212,7 +216,7 @@ The case that motivated the design: strong on every observable except identifier
       "AML.TA####, AML.T####[.###], AML.M####, AML.CS####",
       "no deprecation mechanism: AML.T0019, AML.T0058 and AML.T0104 were deleted outright between 2026.04 and 2026.07, folded into AML.T0115 sub-techniques, with no revoked-by, no deprecated flag and no redirect",
       "the retirement mapping appears only in CHANGELOG prose",
-      "object uuid values are UUIDv5, derived from names, so they change on rename; all three retired techniques' UUIDs are absent from 2026.07",
+      "object uuid values are UUIDv5 derived deterministically from the ATLAS ID (uuid5(ATLAS_UUID_DOMAIN, self.id)), so renaming or reparenting preserves the UUID while changing or retiring the ID removes the old UUID; all three retired techniques' UUIDs are absent from 2026.07",
       "the 167 IDs present in both 2026.04 and 2026.07 showed no UUID drift"
     ],
     "currency": "v2026.07 released 2026-08-07, dated 2026-07-31; monthly",
@@ -280,13 +284,16 @@ The case that motivated the design: strong on every observable except identifier
       "top-level keys: tactics, techniques, mitigations, 'data sources' (with a space), groups, software, campaigns, case-studies"
     ],
     "identifiers": [
-      "tactics reuse ATT&CK tactic IDs verbatim: TA0001, TA0042, TA0043",
-      "FGT1### techniques align to ATT&CK T1### (113 of 183); FGT5### are 5G-original (70 of 183)",
-      "also FGM#### mitigation, FGDS####[.###] data source, FGG5### group, FGS5### software",
-      "campaigns mix reused ATT&CK IDs (C0024) with FiGHT-original (FGC5001)"
+      "tactics reuse ATT&CK tactic IDs (TA0001..TA0043) plus FiGHT-specific TA5001 ('Fraud')",
+      "FGT1###[.###] techniques and sub-techniques align to ATT&CK T1### (113 of 183); FGT5###[.###] are 5G-original (70 of 183); 97 of the 183 technique entries are dotted sub-techniques",
+      "groups mix inherited ATT&CK G#### IDs (6 entries) with FiGHT-specific FGG5### IDs (1 entry); software mixes inherited ATT&CK S#### IDs (8 entries) with FiGHT-specific FGS5### IDs (10 entries)",
+      "mitigations use FGM####; data sources use FGDS####[.###]; campaigns mix reused ATT&CK IDs (C0024) with FiGHT-original (FGC5001)"
     ],
     "currency": "no commits since 2025-11-14",
-    "license": "LICENSE.txt present; GitHub's detector reports NOASSERTION",
+    "license": [
+      "LICENSE.txt combines Apache License 2.0 with a separate MITRE FiGHT / ATT&CK Terms of Use notice",
+      "GitHub's license detector reports NOASSERTION because of the combined text"
+    ],
     "verified": "2026-08-13"
   }
 ],
@@ -312,9 +319,9 @@ The case that motivated the design: strong on every observable except identifier
     "format": "XML, publisher's own schema; XSD published",
     "version_control": "none; direct download only",
     "pinning": [
-      "no tags or releases",
-      "Version and Date attributes on the XML root element are the only version identifier",
-      "capec_latest.xml is an unversioned URL"
+      "no git repository, tags or GitHub Releases",
+      "capec_latest.xml is an unversioned URL carrying Version and Date attributes on the XML root element",
+      "version-stamped XML archives are published at https://capec.mitre.org/data/archive.html (e.g. https://capec.mitre.org/data/xml/capec_v3.9.xml)"
     ],
     "addressing": [
       "one catalog, ~3.8 MB",
@@ -377,12 +384,12 @@ The case that motivated the design: strong on every observable except identifier
   },
   {
     "id": "built-distributions",
-    "url": "https://d3fend.mitre.org/ontologies/",
-    "relationship": "built from d3fend-ontology; served from GitHub Pages",
+    "url": "https://d3fend.mitre.org/resources/ontology/",
+    "relationship": "built from d3fend-ontology; served from the D3FEND site",
     "format": "d3fend.csv, d3fend.owl, d3fend.ttl, d3fend.json",
     "pinning": [
-      "none; unversioned URLs always serve the current release",
-      "no path exists to fetch a prior version's built artifact"
+      "unversioned paths under /ontologies/d3fend.{csv,owl,ttl,json} serve the current release",
+      "version-pinned built artifacts are published under /ontologies/d3fend/<version>/ (e.g. https://d3fend.mitre.org/ontologies/d3fend/1.5.0/d3fend.csv)"
     ],
     "addressing": [
       "one file per format",
@@ -416,11 +423,11 @@ The case that motivated the design: strong on every observable except identifier
 
 Restated against observations, the rule reads:
 
-- A channel that is version-pinnable and license-permitting should be pointed at, not copied.
-- A channel with **no pinning mechanism** cannot be safely pointed at. If it is needed offline, snapshot it with the commit SHA or retrieval date recorded.
+- A channel with **tagged releases or version-stamped artifacts** and a permitting license should be pointed at, not copied.
+- A channel with **no release/version tags** (only an untagged git branch inside an application build, or an unversioned endpoint) cannot be pointed at by release version. If offline stability or a derived structured form is needed, snapshot it with the git commit SHA or retrieval date recorded.
 - A source with **no machine-readable channel** is extracted, and the derived form is committed. This is the current exception, now derived from a recorded fact rather than asserted.
 
-Consequence for FiGHT: it has no pinning mechanism at all, which places it in the second case, not the first. **The initial 2026-08-12 removal of `fight.yaml` and `fight.json` in PR #115 was therefore reversed on 2026-08-14** — PR #115 now keeps a dated snapshot pinned to `097cd5f73811` (`desired_end_state: structured/taxonomy`) along with `convert_fight.py`.
+Consequence for FiGHT: upstream publishes no release tags or versioned distributions (only an untagged `fight.yaml` embedded in a built Nuxt site, which `convert_fight.py` normalizes into `fight.json`), placing it in the second case rather than the first. **The initial 2026-08-12 removal of `fight.yaml` and `fight.json` in PR #115 was therefore reversed on 2026-08-14** — PR #115 keeps a dated snapshot pinned to commit `097cd5f73811` (`desired_end_state: structured/taxonomy`) along with `convert_fight.py`.
 
 ### A correction this design surfaced
 
