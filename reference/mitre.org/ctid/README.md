@@ -43,7 +43,7 @@ gh api repos/center-for-threat-informed-defense/mappings-explorer/contents/mappi
 
 ## What's in this directory
 
-Metadata stubs pointing upstream, per the [no-bulk-mirror rule](../../../CLAUDE.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream) — with **one deliberate exception**.
+Metadata stubs pointing upstream, per the [no-bulk-mirror rule](../../../AGENTS.md#dont-bulk-mirror-data-thats-already-publicly-available-upstream) — with **one deliberate exception**.
 
 On 2026-08-14, 42 committed files (~6.3 MB) were removed from `AWS/`, `azure/`, `gcp/`, `m365/`, `nist_800_53/` and `veris/`. Each of those directories already declared `desired_end_state: metadata-only / upstream-only` in its own metadata while holding the data anyway. The snapshots mapped ATT&CK **8.2 through 14.1** against a current **19.2**, and upstream retains every version we held plus newer ones — so nothing was lost. Files remain in git history and in S3.
 

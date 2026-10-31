@@ -195,7 +195,7 @@ Mappings live in `reference/` for now. As we accumulate them, SecID may introduc
 2. **Multiple versions of same source** — each version is a sibling subdirectory under the source name. The metadata records lifecycle (`current`, `superseded`, `retired`).
 3. **Publication number vs semantic name** — use the semantic name from SecID for the source dir (`csf` not `cswp.29`); record the publication number in `publication_id` metadata.
 4. **No clear publisher namespace** — for documents from informal groups or individual researchers, use the most stable available domain (university domain, personal site, GitHub org). Note in metadata.
-5. **Documents currently in legacy paths** — they're being migrated. See `CLAUDE.md` for migration plan. New additions should go to the new structure even before legacy is fully migrated.
+5. **Documents currently in legacy paths** — they're being migrated. See [`AGENTS.md`](AGENTS.md) for layout details. New additions should go to the new structure even before legacy is fully migrated.
 
 ## When to Stop and Ask
 
