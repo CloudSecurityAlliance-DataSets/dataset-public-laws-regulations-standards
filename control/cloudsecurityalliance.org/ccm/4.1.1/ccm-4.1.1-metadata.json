@@ -92,7 +92,7 @@
     {
       "id": "change-log-names-2-edits-of-127",
       "status": "accepted",
-      "summary": "The workbook's Change Log records two 4.1.1 changes: the three new mappings, and text fixes to DSP-17 (\"it's lifecycle\" -> \"its lifecycle\") and CCC-03 (a redundant comma after \"assets\"). Compared with the 4.1.0 extraction after whitespace normalisation, 101 of 207 control specifications and 26 of 283 CAIQ questions differ: the Change Log names 2 of the 127 reworded texts. Each specification is repeated in four sheets, so the workbook holds 430 changed text cells. Of the 101 specifications, 92 differ in punctuation only, mostly an added serial comma; 9 differ in wording (CCC-06, DCS-06, DSP-17, IAM-10, IAM-12, IAM-13, LOG-07, STA-11, TVM-06). CHANGES-FROM-4.1.0.md lists every wording change."
+      "summary": "The workbook's Change Log records two 4.1.1 changes: the three new mappings, and text fixes to DSP-17 (\"it's lifecycle\" -> \"its lifecycle\") and CCC-03 (a redundant comma after \"assets\"). Compared with the 4.1.0 extraction after whitespace normalisation, 101 of 207 control specifications and 26 of 283 CAIQ questions differ: the Change Log names 2 of the 127 reworded texts. Each specification is repeated in four sheets, so the workbook holds 430 changed text cells. Of the 101 specifications, 92 differ in punctuation/spacing/case only (identical after removing whitespace, commas, semicolons, and periods and folding case, mostly an added serial comma); 9 differ in wording or other punctuation (CCC-06, DCS-06, DSP-17, IAM-10, IAM-12, IAM-13, LOG-07, STA-11, TVM-06). CHANGES-FROM-4.1.0.md lists every wording / other-punctuation change."
     },
     {
       "id": "iam-13-mfa-wording-changed",
@@ -123,6 +123,11 @@
       "id": "dora-full-gap-provisions-list-no-ccm-controls",
       "status": "absent-at-source",
       "summary": "The 7 Full Gap provisions in the DORA reverse mapping name no CCM control: their CCM Controls cell is empty in CSA's workbook, and their addendum explains why (for example 'The full DORA provision is missing from CCM v4.1 and has to be used to close the gap.' or 'DORA provision out of scope of cybersecurity.'). THIS IS NOT A DATA CONVERSION ERROR. They are emitted with ccm_controls: []. Every other provision names at least one control, and all 727 references resolve to one of the 207 control IDs."
+    },
+    {
+      "id": "dora-a13-3-lists-sef-04-twice",
+      "status": "accepted",
+      "summary": "DORA provision A13.3 lists SEF-04 twice in CSA's Reverse Mappings sheet ('BCR-04, BCR-06, BCR-10, SEF-04, SEF-04, SEF-09'). Preserved verbatim in ccm_controls rather than deduplicated: the 727 control references across the 208 mapped provisions therefore comprise 726 distinct (provision, control) pairs."
     },
     {
       "id": "introduction-sheet-notes-not-extracted",

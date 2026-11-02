@@ -20,7 +20,7 @@ questions submitted to the CSA STAR Registry for a Level 1 self-assessment.
 > "CAIQ v4.1 | 2025/11/01 | Question(s)" in January and "CAIQ v4.1.0 |
 > 2025-11-01 | assessment_questionnaire" in October. The second generation was built from
 > [CCM 4.1.1](../../ccm/4.1.1/), whose edits to control text carried into the
-> questions. 26 of 283 question texts differ: 19 in punctuation only, 7 in wording.
+> questions. 26 of 283 question texts differ: 19 in punctuation/spacing/case only, 7 in wording or other punctuation.
 >
 > **This directory now holds the second generation**, the one CSA serves. The
 > first-generation extraction was replaced in place on 2026-10-23. It is on
@@ -51,7 +51,7 @@ The questions as they shipped with CCM 4.1.0 are also embedded in
 [`../../ccm/4.1.0/ccm-4.1.0.json`](../../ccm/4.1.0/ccm-4.1.0.json)
 (`caiq_questions`).
 
-## The seven wording changes
+## The seven wording / other-punctuation changes
 
 Five of these are corrections that bring the question in line with its control
 or with ordinary English: `DCS-02.2` drops a doubled "information", `DCS-06.2`
@@ -74,12 +74,15 @@ Two change what is asked:
 ## Changed questions
 
 Texts are whitespace-normalised: CSA also changed line breaks in many cells
-without changing their words, and those are not listed. "Punctuation only" means
-the two texts are identical once whitespace, commas, semicolons and full stops
-are removed and case is ignored. The 2026-01-13 column is the text this directory
-held before 2026-10-23.
+without changing their words, and those are not listed. "Punctuation/spacing/case
+only" means the two texts are identical once whitespace, commas, semicolons and
+full stops are removed and case is ignored (so serial-comma additions,
+`"data center"` → `"datacenter"` in `DCS-14.1` / `DCS-17.1`, and `"Operational
+Resilience"` → `"Operational resilience"` in `STA-11.1` are marked `yes`, while
+word changes and apostrophe/hyphen/slash edits are marked `no`). The 2026-01-13
+column is the text this directory held before 2026-10-23.
 
-| Question | 2026-01-13 | 2026-10-02 | Punctuation only |
+| Question | 2026-01-13 | 2026-10-02 | Punctuation/spacing/case only |
 |---|---|---|---|
 | `CCC-02.1` | Is a defined quality change control, approval and testing process, incorporating baselines, testing, and release standards, established, maintained and implemented? | Is a defined quality change control, approval, and testing process, incorporating baselines, testing, and release standards, established, maintained, and implemented? | yes |
 | `CCC-03.1` | Is a change management procedure implemented to manage the risks associated with applying changes to assets, owned, controlled or used by the organization? | Is a change management procedure implemented to manage the risks associated with applying changes to assets, owned, controlled, or used by the organization? | yes |
@@ -110,7 +113,7 @@ held before 2026-10-23.
 
 `../../ccm/check_figures.py` checks this table against the data: exactly 26
 rows, each old cell equal to the CCM 4.1.0 text, each new cell equal to the
-committed extraction, and each "Punctuation only" flag correct.
+committed extraction, and each "Punctuation/spacing/case only" flag correct.
 
 ## Files
 
@@ -133,11 +136,12 @@ cd scripts
 ```
 
 The script refuses a workbook whose cell A1 does not stamp `caiq_version` 4.1.0
-and CCM 4.1.1. To rebuild the first generation instead, for comparison:
+and CCM 4.1.1, and derives `--ccm-json` from `--expect-ccm-version` when omitted.
+To rebuild the first generation instead, for comparison:
 
 ```bash
 ./parse_caiq.py --input ../CAIQv4.1.0-star_security_questionnaire-generated_at_2026_01_13.xlsx \
-    --ccm-json ../../../ccm/4.1.0/ccm-4.1.0.json --expect-ccm-version 4.1.0 --output /tmp/caiq-4.1.0-jan.json
+    --expect-ccm-version 4.1.0 --output /tmp/caiq-4.1.0-jan.json
 ```
 
 That reproduces the replaced extraction exactly, apart from the

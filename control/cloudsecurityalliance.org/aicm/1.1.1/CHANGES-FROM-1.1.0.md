@@ -713,11 +713,12 @@ figures are asserted on every run of
 | Change Log rows | dated 2026/06/23 | dated 2026/07/13 |
 
 Because two datasets ship under the label "v1.1", the bare aliases `1.1` and
-`v1.1` are claimed by **neither** version directory — 1.1.0 held them until this
-release and gave them up. `version_aliases_withdrawn` in
+`v1.1` moved from `1.1.0` to `1.1.1` per SecID ADR-015 (first amendment,
+2026-09-12): SecID resolves `aicm@1.1` and `aicm@v1.1` to `1.1.1`, and
+`version_aliases_withdrawn` in
 [`../1.1.0/aicm-1.1.0-metadata.json`](../1.1.0/aicm-1.1.0-metadata.json) records
-why. **Cite `AICM 1.1.0` or `AICM 1.1.1`; a bare "AICM v1.1" citation is not
-resolvable to a dataset.**
+why `1.1.0` gave them up. **Cite `AICM 1.1.0` or `AICM 1.1.1` explicitly when
+the exact dataset matters.**
 
 The standalone questionnaire is a further wrinkle: its Change Log gained a row
 labelled `AI-CAIQ v1.1.1`, but its filename, sheet name, document title,

@@ -32,8 +32,8 @@ version token and the JSON stamp in cell A1. The bundle was repacked on
 **The Change Log understates the edits.** It records the new mappings and two
 text fixes, DSP-17 and CCC-03. Compared field by field, the Change Log names 2 of
 the 127 reworded texts: 101 of 207 control specifications differ: 92 in
-punctuation only and 9 in wording, and 26 of 283 CAIQ questions differ: 19 in
-punctuation only and 7 in wording. Each specification also appears in the
+punctuation/spacing/case only and 9 in wording or other punctuation, and 26 of 283 CAIQ questions differ: 19 in
+punctuation/spacing/case only and 7 in wording or other punctuation. Each specification also appears in the
 Implementation Guidelines, Auditing Guidelines and CAIQ sheets, so the 127
 texts account for 430 of the differing cells counted under [Method](#method).
 
@@ -54,9 +54,13 @@ Two passes, which agree.
 **Two definitions** are used throughout:
 
 - *Normalised*: whitespace runs collapsed to one space, ends stripped.
-- *Punctuation only*: the two texts are equal once whitespace, commas,
-  semicolons and full stops are removed and case is ignored. Anything else,
-  including a changed apostrophe or a new hyphen, counts as a wording change.
+- *Punctuation/spacing/case only*: the two texts are equal once whitespace,
+  commas, semicolons and full stops are removed and case is ignored (so added
+  serial commas, `"data center"` → `"datacenter"` and case changes fall here).
+  Anything else, including word edits, a changed apostrophe (`"it's"` → `"its"`,
+  `"assets’"` → `"assets'"`), a slash removal (`"meta/data"` → `"metadata"`), or
+  a new hyphen (`"third party"` → `"third-party"`), counts as *wording or other
+  punctuation*.
 
 ### Cell accounting
 
@@ -155,7 +159,9 @@ Reference(s), Source Description, CCM Controls, Gap Level, Addendum, Analysis.
 215 provisions · 114 Partial Gap · 94 No Gap · 7 Full Gap. References run from
 Article 4(1) (`A4.1`) to Article 45(3) (`A45.3`). Together the provisions cite
 CCM controls 727 times, and every reference resolves to one of the 207 control
-IDs.
+IDs. (The 727 references comprise 726 distinct provision–control pairs:
+provision `A13.3` lists `SEF-04` twice in CSA's workbook — `BCR-04, BCR-06,
+BCR-10, SEF-04, SEF-04, SEF-09` — preserved verbatim in `ccm_controls`.)
 
 The 7 Full Gap provisions name no CCM control. Their addendum says why:
 
@@ -178,11 +184,11 @@ CSA's workbook; that is a statement by CSA, not a conversion loss.
 
 ### Specifications
 
-101 of 207 control specifications differ: 92 in punctuation only and 9 in
-wording. Nearly all of the punctuation edits add a serial comma, for example
+101 of 207 control specifications differ: 92 in punctuation/spacing/case only and 9 in
+wording or other punctuation. Nearly all of the first-bucket edits add a serial comma, for example
 "Establish, document, approve, communicate, apply, evaluate**,** and maintain".
 
-The 9 wording changes, word by word:
+The 9 wording / other-punctuation changes, word by word:
 
 | Control | Title | Change |
 |---|---|---|
@@ -226,7 +232,7 @@ CSA's text. Recorded as `known_source_issues/iam-13-mfa-wording-changed`.
 
 ### CAIQ questions
 
-26 of 283 CAIQ questions differ: 19 in punctuation only and 7 in wording. The
+26 of 283 CAIQ questions differ: 19 in punctuation/spacing/case only and 7 in wording or other punctuation. The
 same 26 changes are in the standalone questionnaire, which CSA regenerated
 without changing its 4.1.0 label. Every changed question, with both texts, is
 tabled in [`../../ccm-caiq/4.1.0/README.md`](../../ccm-caiq/4.1.0/README.md).
@@ -307,13 +313,13 @@ python3 control/cloudsecurityalliance.org/aicm/crosswalks/build_crosswalk.py \
 
 (The script's summary line says "AICM"; its label is hard-coded.)
 
-**Why the detector says "6 substantive" and this report says "9 in wording".**
+**Why the detector says "6 substantive" and this report says "9 in wording or other punctuation".**
 The detector also grades each carried specification by character similarity,
 and calls six `spec-substantive`: CEK-15, CEK-16, CEK-18, CEK-19, IAM-13 and
 SEF-07, with similarity between 0.836 and 0.879. Five of those six gained only
 serial commas; on long specifications with many commas, a character-level
 ratio drops below the detector's threshold for punctuation alone. Only IAM-13
-is a wording change on both measures. This report uses the word-level
+falls in the non-trivial bucket on both measures. This report uses the
 definition under [Method](#method).
 
 ---

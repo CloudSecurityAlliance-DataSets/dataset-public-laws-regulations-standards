@@ -29,8 +29,11 @@ import pandas as pd
 import numpy as np
 
 HERE = os.path.dirname(__file__)
-DEFAULT_CCM_JSON = os.path.join(HERE, "..", "..", "..", "ccm", "4.1.1", "ccm-4.1.1.json")
 DEFAULT_OUTPUT = os.path.join(HERE, "..", "ccm-caiq-4.1.0.json")
+
+
+def default_ccm_json(ccm_version):
+    return os.path.join(HERE, "..", "..", "..", "ccm", ccm_version, f"ccm-{ccm_version}.json")
 
 EXPECTED_CAIQ_VERSION = "4.1.0"
 QID_PATTERN = re.compile(r'^[A-Z&]{2,4}-\d+\.\d+$')
@@ -139,21 +142,22 @@ def enrich_with_ccm(questions, controls_index):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--input", required=True, help="CAIQ v4.1.0 .xlsx")
-    ap.add_argument("--ccm-json", default=DEFAULT_CCM_JSON,
-                    help="CCM extraction to embed control data from (default: %(default)s)")
+    ap.add_argument("--ccm-json", default=None,
+                    help="CCM extraction to embed control data from (default: derived from --expect-ccm-version)")
     ap.add_argument("--expect-ccm-version", default="4.1.1",
                     help="CCM version the workbook's cell A1 must record (default: %(default)s)")
     ap.add_argument("--output", default=DEFAULT_OUTPUT, help="Destination JSON (default: %(default)s)")
     args = ap.parse_args()
+    ccm_json = args.ccm_json or default_ccm_json(args.expect_ccm_version)
 
     caiq_version, ccm_version = read_stamp(args.input)
     if caiq_version != EXPECTED_CAIQ_VERSION or ccm_version != args.expect_ccm_version:
         fail(f"cell A1 stamps caiq_version {caiq_version!r} / CCM {ccm_version!r}; expected "
              f"{EXPECTED_CAIQ_VERSION!r} / {args.expect_ccm_version!r}.")
 
-    if not os.path.exists(args.ccm_json):
-        fail(f"{args.ccm_json} not found. Run the CCM parser first.")
-    controls_index = load_ccm_controls(args.ccm_json)
+    if not os.path.exists(ccm_json):
+        fail(f"{ccm_json} not found. Run the CCM parser first.")
+    controls_index = load_ccm_controls(ccm_json)
 
     questions = enrich_with_ccm(parse_caiq(args.input, f"CAIQv{caiq_version}"), controls_index)
     unmatched = sorted({q["ccm_control_id"] for q in questions if q["ccm_control"] is None})

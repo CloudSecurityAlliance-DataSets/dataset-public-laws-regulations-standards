@@ -57,7 +57,7 @@
   "notes": "Procedural and web-form-specific. Contains live links into CSA's submission portal that will rot independently of this document.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "complete",
+    "reason": "prose-guidance",
     "notes": "Procedural guidance with no per-item structure to extract. Markdown is the appropriate terminal form."
   }
 }

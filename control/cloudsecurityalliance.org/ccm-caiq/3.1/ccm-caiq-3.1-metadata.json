@@ -63,8 +63,8 @@
     "Columns 22-24 (Yes/No/Not Applicable) and 25 (Notes) are a blank vendor-response template and are not extracted."
   ],
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "pending-acquisition",
-    "notes": "Pending CCM 4.1 stabilization (companion CAIQ ships with the parent CCM mappings)."
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "309 questions across 133 parent CCM v3.0.1 controls and 35 mapping targets extracted in ccm-caiq-3.1.json. Reproducible via build_json.py against CAIQ_v3.1_Final.xlsx."
   }
 }

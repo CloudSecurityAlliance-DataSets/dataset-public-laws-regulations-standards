@@ -16,8 +16,8 @@ and follows its shape:
 Text comparisons between 4.1.0 and 4.1.1 are made on *normalised* text
 (whitespace runs collapsed, ends stripped), because CSA regenerated the workbook
 and changed line breaks in hundreds of cells without changing their words. A
-change is *punctuation only* if the two texts are equal once whitespace, commas,
-semicolons and full stops are deleted and case is folded.
+change is *punctuation/spacing/case only* if the two texts are equal once
+whitespace, commas, semicolons and full stops are deleted and case is folded.
 
     python3 check_figures.py          # from anywhere; paths resolve relative to this file
 
@@ -112,6 +112,12 @@ def compute(old, new, new_doc):
 
     provisions = new_doc["reverse_mappings"]["dora"]["provisions"]
     refs = [cid for p in provisions for cid in p["ccm_controls"]]
+    dup_refs = sorted(
+        (p["source_reference"], cid)
+        for p in provisions
+        for cid, n in Counter(p["ccm_controls"]).items()
+        if n > 1
+    )
 
     nist, attack = mapping_tally(NIST), mapping_tally(ATTACK)
     figures = {
@@ -131,6 +137,7 @@ def compute(old, new, new_doc):
         "dora_gap": dict(sorted(Counter(p["gap_level"] for p in provisions).items())),
         "dora_empty_ccm_controls": sum(1 for p in provisions if not p["ccm_controls"]),
         "dora_refs": len(refs),
+        "dora_duplicate_refs": dup_refs,
         "dora_unknown_refs": sorted(set(refs) - set(new)),
         "spec_changed": len(spec_changed),
         "spec_punct_only": len(spec_changed) - len(spec_wording),
@@ -210,15 +217,16 @@ INVARIANTS = [
     ("dora_gap", {"Full Gap": 7, "No Gap": 94, "Partial Gap": 114}, "DORA gap levels"),
     ("dora_empty_ccm_controls", 7, "the Full Gap provisions list no CCM control"),
     ("dora_refs", 727, "DORA -> CCM control references"),
+    ("dora_duplicate_refs", [("A13.3", "SEF-04")], "A13.3 lists SEF-04 twice in CSA's workbook (726 distinct pairs)"),
     ("dora_unknown_refs", [], "every DORA reference names one of the 207 controls"),
     ("spec_changed", 101, "control specifications whose normalised text differs from 4.1.0"),
-    ("spec_punct_only", 92, "of those, punctuation-only edits"),
+    ("spec_punct_only", 92, "of those, punctuation/spacing/case-only edits"),
     ("spec_wording", ["CCC-06", "DCS-06", "DSP-17", "IAM-10", "IAM-12", "IAM-13",
-                      "LOG-07", "STA-11", "TVM-06"], "the specifications whose wording changed"),
+                      "LOG-07", "STA-11", "TVM-06"], "the specifications whose wording or other punctuation changed"),
     ("caiq_changed", 26, "CAIQ questions whose normalised text differs from 4.1.0"),
-    ("caiq_punct_only", 19, "of those, punctuation-only edits"),
+    ("caiq_punct_only", 19, "of those, punctuation/spacing/case-only edits"),
     ("caiq_wording", ["DCS-02.2", "DCS-06.2", "DCS-11.1", "I&S-05.1", "IAM-13.1",
-                      "LOG-07.1", "UEM-02.1"], "the questions whose wording changed"),
+                      "LOG-07.1", "UEM-02.1"], "the questions whose wording or other punctuation changed"),
 ] + [(f"changed_{field}", 0, f"{field} is unchanged from 4.1.0 once whitespace is normalised")
      for field in UNCHANGED_FIELDS] + [
     ("caiq_version", "4.1.0", "the regenerated questionnaire still calls itself CAIQ 4.1.0"),
@@ -229,7 +237,7 @@ INVARIANTS = [
     ("readme_ids_match_changed", True, "the README rows are exactly the changed questions"),
     ("readme_old_text_mismatch", [], "each 2026-01-13 cell is the 4.1.0 text"),
     ("readme_new_text_mismatch", [], "each 2026-10-02 cell is the committed text"),
-    ("readme_punct_flag_wrong", [], "each 'Punctuation only' flag is right"),
+    ("readme_punct_flag_wrong", [], "each 'Punctuation/spacing/case only' flag is right"),
 ]
 
 # (figure, regex with one capturing group, files it must appear in). Paths are
@@ -250,13 +258,13 @@ CHECKS = [
     ("dora_full",         r"No Gap · (\d+) Full Gap",                        [README, REPORT]),
     ("spec_changed",      r"(\d+) of \d+ control specifications differ",     [README, REPORT]),
     ("controls",          r"\d+ of (\d+) control specifications differ",     [README, REPORT]),
-    ("spec_punct_only",   r"control specifications differ: (\d+) in punctuation only", [README, REPORT]),
-    ("spec_wording_count", r"control specifications differ: \d+ in punctuation only and (\d+) in wording",
+    ("spec_punct_only",   r"control specifications differ: (\d+) in punctuation/spacing/case only", [README, REPORT]),
+    ("spec_wording_count", r"control specifications differ: \d+ in punctuation/spacing/case only and (\d+) in wording or other punctuation",
      [README, REPORT]),
     ("caiq_changed",      r"(\d+) of \d+ CAIQ questions differ",             [README, REPORT]),
     ("caiq_embedded",     r"\d+ of (\d+) CAIQ questions differ",             [README, REPORT]),
-    ("caiq_punct_only",   r"CAIQ questions differ: (\d+) in punctuation only", [README, REPORT]),
-    ("caiq_wording_count", r"CAIQ questions differ: \d+ in punctuation only and (\d+) in wording",
+    ("caiq_punct_only",   r"CAIQ questions differ: (\d+) in punctuation/spacing/case only", [README, REPORT]),
+    ("caiq_wording_count", r"CAIQ questions differ: \d+ in punctuation/spacing/case only and (\d+) in wording or other punctuation",
      [README, REPORT]),
     ("texts_changed",     r"names 2 of the (\d+) reworded texts",            [README, REPORT, META]),
     ("controls",          r"All (\d+) control IDs",                          [README, REPORT]),

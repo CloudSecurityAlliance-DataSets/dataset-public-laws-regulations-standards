@@ -59,7 +59,7 @@
   "notes": "Describes AICM v1.1 specifically. Its control-ID examples follow v1.1 numbering, which differs from v1.0.3 — see control/cloudsecurityalliance.org/aicm/VERSIONING.md.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "complete",
+    "reason": "prose-guidance",
     "notes": "Narrative guidance with no regular per-item structure to extract into CSV/JSON. Markdown is the appropriate terminal form."
   }
 }
