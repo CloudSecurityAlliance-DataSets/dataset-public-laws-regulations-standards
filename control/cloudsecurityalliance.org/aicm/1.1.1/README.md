@@ -24,10 +24,12 @@ cells.
 > stamp. If you downloaded "AICM v1.1" before roughly 2026-07-22 you have 1.1.0;
 > after, you have 1.1.1.
 >
-> **Consequence: "AICM v1.1" is ambiguous and cannot be resolved to a dataset.**
-> Cite `AICM 1.1.0` or `AICM 1.1.1`. The bare aliases `1.1` and `v1.1` are
-> claimed by neither directory — 1.1.0 held them until this release shipped and
-> has since given them up.
+> **Consequence: "AICM v1.1" names two different datasets.**
+> SecID resolves the bare labels `1.1` and `v1.1` to this release (`1.1.1`) per
+> SecID ADR-015 (first amendment, 2026-09-12), and this directory claims them in
+> `version_aliases` (`1.1.0` held them until this release shipped and records
+> their withdrawal in `version_aliases_withdrawn`). Cite `AICM 1.1.0` or
+> `AICM 1.1.1` explicitly when the exact extraction matters.
 
 > ## ✅ Control IDs ARE stable against 1.1.0 — no crosswalk needed
 >

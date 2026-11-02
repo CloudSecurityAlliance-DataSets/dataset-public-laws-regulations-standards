@@ -23,13 +23,15 @@ must do about it — on the assumption that **it will happen again in v1.2**.
 | Domains | 18 | 18 |
 | Released | 2025-11-10 | 2026-06-22 |
 
-> **A note on "1.1" vs "1.1.0".** CSA's download page brands this release
-> "v1.1"; the spreadsheet stamps itself `1.1.0`. These are the same release.
-> **This repo uses `1.1.0` as canonical and aliases `1.1` to it**, because the
-> artifact's own internal version string is what a consumer parsing the file
-> sees, and because it keeps the version sort stable against `1.0.3` and
-> `0.0.2`. Both forms are recorded in `version_aliases` in the metadata; see
-> [`1.1.0/README.md`](1.1.0/README.md#version-naming-and-aliases).
+> **A note on "1.1" vs "1.1.0" and "1.1.1".** CSA's download page brands both
+> 1.1.x releases "v1.1"; the spreadsheets stamp themselves `1.1.0` and `1.1.1`.
+> **This repo uses each workbook's internal version string as canonical** so the
+> version sort stays stable against `1.0.3` and `0.0.2`. When 1.1.0 was the only
+> 1.1.x release, it held the bare aliases `1.1` and `v1.1`; after 1.1.1 shipped
+> under the same "v1.1" page label, SecID ADR-015 (first amendment, 2026-09-12)
+> moved `1.1` and `v1.1` to [`1.1.1/`](1.1.1/) and recorded their withdrawal on
+> [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json). See
+> [`1.1.0/README.md`](1.1.0/README.md#version-naming-and-aliases) and §1b below.
 >
 > This is a *labelling* alias. It says nothing about compatibility — which is
 > the entire subject of the rest of this page.
@@ -198,12 +200,12 @@ label, or the stated release date of 06/22/2026. The only outward signals that a
 new release exists are the `generated_at` token in the filename and the cell A1
 JSON stamp.
 
-**Consequence: "AICM v1.1" now names two different datasets.** So the bare
-aliases `1.1` and `v1.1`, which [`1.1.0/`](1.1.0/) previously claimed, are now
-claimed by neither directory — an alias that resolves to two datasets is not an
-alias. `version_aliases_withdrawn` in
+**Consequence: "AICM v1.1" now names two different datasets.** Per SecID
+ADR-015 (first amendment, 2026-09-12), the bare aliases `1.1` and `v1.1`, which
+[`1.1.0/`](1.1.0/) previously claimed, moved to the newest release,
+[`1.1.1/`](1.1.1/). `version_aliases_withdrawn` in
 [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json) records the
-withdrawal and why.
+withdrawal from `1.1.0` and why.
 
 This is the same failure mode as the ID renumbering, one level up: a stable-looking
 string whose referent changed underneath it. §3's standing policy applies to
@@ -274,9 +276,11 @@ CSA has renumbered AICM once without flagging it. Plan for v1.2 doing the same.
    inside the unchanged "AICM v1.1" bundle, at the unchanged artifact URL, still
    showing the 1.1.0 release date — the workbook filename and cell A1 were the
    only tells. Re-download periodically and compare the stamp; a bundle name is
-   not a version. And **do not claim an alias that two releases share**: when a
-   label stops resolving to one dataset, withdraw it from both directories and
-   record the withdrawal (see `version_aliases_withdrawn` in
+   not a version. And **never let two version directories claim the same alias**:
+   when a publisher serves a newer patch release under the same short label and
+   SecID repoints that alias to the newer version (ADR-015), move the alias to
+   the new directory's `version_aliases` and record its withdrawal in
+   `version_aliases_withdrawn` on the older directory (see
    [`1.1.0/aicm-1.1.0-metadata.json`](1.1.0/aicm-1.1.0-metadata.json)).
 3. **Generate the per-control changelog** with
    [`crosswalks/build_changelog.py`](crosswalks/build_changelog.py) and commit it as

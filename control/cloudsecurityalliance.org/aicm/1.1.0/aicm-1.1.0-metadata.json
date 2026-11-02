@@ -16,7 +16,7 @@
       "1.1",
       "v1.1"
     ],
-    "reason": "These bare aliases pointed here until AICM 1.1.1 shipped (2026-07-13) through the same artifact page, the same bundle name, and the same 'AI Controls Matrix v1.1' label. 'v1.1' now identifies two different datasets depending on download date, so it no longer resolves to a single version and is claimed by neither directory. See ../1.1.1/aicm-1.1.1-metadata.json known_source_issues/release-served-under-a-stale-version-label."
+    "reason": "These bare aliases pointed here until AICM 1.1.1 shipped (2026-07-13) through the same artifact page, the same bundle name, and the same 'AI Controls Matrix v1.1' label. 'v1.1' now identifies two different datasets depending on download date; per SecID ADR-015 first amendment (2026-09-25), the bare aliases moved to 1.1.1. Cite 1.1.0 or 1.1.1 explicitly when the exact dataset matters. See ../1.1.1/aicm-1.1.1-metadata.json known_source_issues/release-served-under-a-stale-version-label."
   },
   "publication_id": "AICM-1.1.0",
   "owner": "Cloud Security Alliance (CSA)",
@@ -107,8 +107,8 @@
     }
   ],
   "desired_end_state": {
-    "state": "fully-extracted",
-    "reason": "complete",
+    "state": "structured",
+    "reason": "control-catalog",
     "notes": "247 controls with guidelines, mappings, and embedded AI-CAIQ questions. Reproducible via scripts/parse_aicm.py. The companion questionnaire is extracted separately to ../../aicm-caiq/1.1.0/ via scripts/parse_caiq.py."
   }
 }

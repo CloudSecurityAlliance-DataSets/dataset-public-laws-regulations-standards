@@ -56,8 +56,8 @@
   },
   "notes": "Use alongside AICM v1.0.3 for vendor assessments.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "pending-acquisition",
-    "notes": "Pending AICM 1.0.3 decision (companion CAIQ ships with the parent AICM)."
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "311 questions across 243 AICM v1.0.3 controls extracted in aicm-caiq-1.0.2.json."
   }
 }

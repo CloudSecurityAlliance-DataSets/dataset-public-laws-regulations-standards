@@ -9,7 +9,9 @@
   ],
   "version": "1.1.1",
   "version_aliases": [
-    "v1.1.1"
+    "v1.1.1",
+    "1.1",
+    "v1.1"
   ],
   "publication_id": "AICM-1.1.1",
   "owner": "Cloud Security Alliance (CSA)",
@@ -93,7 +95,7 @@
     {
       "id": "release-served-under-a-stale-version-label",
       "status": "accepted",
-      "summary": "CSA publishes this release through the same artifact page, bundle name, and stated release date as 1.1.0 — https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1, 'AI Controls Matrix v1.1', released 06/22/2026. Nothing on the page distinguishes 1.1.1 from 1.1.0. The version is discoverable only from the workbook filename token and the cell A1 JSON stamp. Practical consequence: 'AICM v1.1' is ambiguous and now identifies two different datasets, so a bare v1.1 citation cannot be resolved to a specific extraction. Cite 1.1.0 or 1.1.1 explicitly. The bare aliases '1.1' and 'v1.1' are deliberately NOT claimed by either version directory for this reason."
+      "summary": "CSA publishes this release through the same artifact page, bundle name, and stated release date as 1.1.0 — https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1, 'AI Controls Matrix v1.1', released 06/22/2026. Nothing on the page distinguishes 1.1.1 from 1.1.0. The version is discoverable only from the workbook filename token and the cell A1 JSON stamp. Practical consequence: 'AICM v1.1' is ambiguous and identifies two different datasets depending on download date. SecID resolves the bare labels '1.1' and 'v1.1' to 1.1.1 (ADR-015 first amendment, 2026-09-25), so this record claims them and 1.1.0's version_aliases_withdrawn records the move; cite 1.1.0 or 1.1.1 explicitly when the exact dataset matters."
     },
     {
       "id": "mp-guidelines-were-misscoped-in-1.1.0",
@@ -132,8 +134,8 @@
     }
   ],
   "desired_end_state": {
-    "state": "fully-extracted",
-    "reason": "complete",
+    "state": "structured",
+    "reason": "control-catalog",
     "notes": "247 controls with guidelines, five-framework mappings, and embedded AI-CAIQ questions. Reproducible via scripts/parse_aicm.py against the workbook named in current_extraction. The standalone questionnaire shipped in the same bundle is still labelled 1.1.0 and is extracted separately under ../../aicm-caiq/."
   }
 }
