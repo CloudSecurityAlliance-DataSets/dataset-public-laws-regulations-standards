@@ -23,12 +23,14 @@ Controls Matrix. Current release is **1.1.1**.
 > Downloaded before roughly 2026-07-22 → 1.1.0. After → 1.1.1.
 >
 > **This repo uses the workbook's own internal stamp as canonical**, so the two
-> live in [`1.1.0/`](1.1.0/) and [`1.1.1/`](1.1.1/). The bare aliases `1.1` and
-> `v1.1` are claimed by **neither** — `1.1.0/` held them until 1.1.1 shipped and
-> has since given them up, because they no longer resolve to one dataset.
+> live in [`1.1.0/`](1.1.0/) and [`1.1.1/`](1.1.1/). Per SecID ADR-015 (first
+> amendment, 2026-09-12), SecID resolves the bare labels `1.1` and `v1.1` to the
+> newest release, [`1.1.1/`](1.1.1/), which claims them in `version_aliases`;
+> `1.1.0/` held them until 1.1.1 shipped and records their withdrawal in
+> `version_aliases_withdrawn`.
 >
-> **Cite `AICM 1.1.0` or `AICM 1.1.1`. A bare "AICM v1.1" citation cannot be
-> resolved to an extraction.**
+> **Cite `AICM 1.1.0` or `AICM 1.1.1` explicitly when the exact extraction
+> matters.**
 >
 > All of the above is **labelling**. For compatibility, 1.1.0 → 1.1.1 is safe
 > (identical control IDs) and 1.0.3 → 1.1.x is not — see the next box.
@@ -66,7 +68,7 @@ Controls Matrix. Current release is **1.1.1**.
 | [`1.0.3/`](1.0.3/) | 243 | 2025-11-10 | superseded | Last release before the renumbering. |
 | [`0.0.2/`](0.0.2/) | — | — | **draft — ignore** | Early working draft, never released. Retained for historical reference only; not citable, not ingested, not comparable to any release. |
 
-Neither 1.1.x directory claims the bare `1.1` / `v1.1` alias — see the box above.
+The bare `1.1` / `v1.1` alias resolves to [`1.1.1/`](1.1.1/) (ADR-015, first amendment) — see the box above.
 
 ## Also here
 

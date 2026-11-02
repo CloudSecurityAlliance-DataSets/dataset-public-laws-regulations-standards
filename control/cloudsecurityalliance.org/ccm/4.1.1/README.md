@@ -88,11 +88,10 @@ the JSON and to `ccm-4.1.1-reverse-mappings.csv`.
 
 ### 3. Reworded control text
 
-101 of 207 control specifications differ: 92 in punctuation only and 9 in
-wording. 26 of 283 CAIQ questions differ: 19 in punctuation only and 7 in
-wording. The punctuation edits are mostly an added serial comma ("establish,
-document, approve, communicate, apply, evaluate, and maintain"). Most wording
-edits are corrections: a contraction (DSP-17, "it's" -> "its"), hyphenation
+101 of 207 control specifications differ: 92 in punctuation/spacing/case only and 9 in
+wording or other punctuation. 26 of 283 CAIQ questions differ: 19 in punctuation/spacing/case only and 7 in
+wording or other punctuation. The first bucket strips whitespace, commas, semicolons, and periods and folds case — mostly added serial commas ("establish,
+document, approve, communicate, apply, evaluate, and maintain"), plus `"data center"` → `"datacenter"` and case fixes. Most edits in the second bucket are corrections: a contraction (DSP-17, "it's" -> "its"), hyphenation
 (IAM-10 "time-limited"), "meta/data" -> "metadata" (LOG-07).
 
 > **⚠️ IAM-13 (Strong Authentication) may now say something different.** 4.1.0,

@@ -59,7 +59,7 @@
   "notes": "Refers to questionnaire columns by spreadsheet letter (C, D, E, F). Those correspond to the AI-CAIQ v1.1.0 layout: C = Service Provider AI-CAIQ Answer, D = SSRM Control Ownership, E = Service Provider Implementation Description, F = Service Customer Responsibilities.",
   "desired_end_state": {
     "state": "extracted",
-    "reason": "complete",
+    "reason": "prose-guidance",
     "notes": "Short narrative guidance with no per-item structure to extract. Markdown is the appropriate terminal form."
   }
 }

@@ -61,8 +61,8 @@
   },
   "notes": "Control IDs in this version are NOT interchangeable with AICM 1.1.0 — 54 of the 242 shared IDs designate a different control there. Migrate references through ../crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv, never by string match. See ../VERSIONING.md.",
   "desired_end_state": {
-    "state": "fully-extracted",
-    "reason": "complete",
+    "state": "structured",
+    "reason": "control-catalog",
     "notes": "Controls JSON extracted with all 243 controls, cross-framework mappings, implementation/auditing guidelines, and embedded AI-CAIQ questions. Superseded by 1.1.0 but retained: assessments authored against 1.0.3 resolve here."
   }
 }

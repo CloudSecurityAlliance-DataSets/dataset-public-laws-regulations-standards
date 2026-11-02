@@ -90,16 +90,18 @@ download page, because that is the string a consumer parsing the file will
 actually encounter — and it keeps the version sort stable against the sibling
 releases `1.0.3` and `0.0.2`.
 
-### The bare `1.1` / `v1.1` aliases were withdrawn
+### The bare `1.1` / `v1.1` aliases moved to 1.1.1
 
 This directory held them until **2026-07-13**, when CSA published
 [AICM 1.1.1](../1.1.1/) through the *same* artifact page, the *same* bundle name,
 and the *same* "AI Controls Matrix v1.1" label, without updating the stated
 release date. "v1.1" therefore now names two different datasets depending on when
-you downloaded it, and no longer resolves to a single version.
+you downloaded it.
 
-Neither directory claims it. Recorded machine-readably in
-`aicm-1.1.0-metadata.json`:
+Per SecID ADR-015 (first amendment, 2026-09-12), SecID resolves the bare labels
+`1.1` and `v1.1` to the newest release, [`../1.1.1/`](../1.1.1/), which now
+claims them in its `version_aliases`. Their withdrawal from this directory is
+recorded machine-readably in `aicm-1.1.0-metadata.json`:
 
 ```json
 "version": "1.1.0",
@@ -107,8 +109,8 @@ Neither directory claims it. Recorded machine-readably in
 "version_aliases_withdrawn": { "aliases": ["1.1", "v1.1"], "reason": "..." },
 ```
 
-**Cite `AICM 1.1.0` or `AICM 1.1.1` explicitly; a bare "v1.1" citation is not
-resolvable.** Note this is all labelling — it says nothing about compatibility.
+**Cite `AICM 1.1.0` or `AICM 1.1.1` explicitly when the exact release matters.**
+Note this is all labelling — it says nothing about compatibility.
 1.1.1 is compatible with this release (same control IDs); 1.0.3 is not (see the
 warning above).
 
