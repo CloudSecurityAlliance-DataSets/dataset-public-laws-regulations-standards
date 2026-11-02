@@ -1,0 +1,75 @@
+name: Validate dataset
+
+# Runs the repository health checks documented in AGENTS.md:
+#   1. audit_secid_alignment.py against CloudSecurityAlliance/SecID main
+#   2. AICM crosswalk & patch figure/invariant checks
+#   3. CCM 4.1.1 & CAIQ 4.1.0 figure/invariant checks
+#
+# Actions are pinned by commit SHA (tag in the trailing comment).
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout dataset-public-laws-regulations-standards
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Checkout SecID registry
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          repository: CloudSecurityAlliance/SecID
+          path: _deps/SecID
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Audit SecID namespace alignment and metadata JSON validity
+        run: python3 tools-resources/utils/audit_secid_alignment.py --registry _deps/SecID/registry --repo .
+
+      - name: Check AICM crosswalk and patch figures/invariants
+        run: python3 control/cloudsecurityalliance.org/aicm/crosswalks/check_figures.py
+
+      - name: Check CCM 4.1.1 and CAIQ 4.1.0 figures/invariants
+        run: python3 control/cloudsecurityalliance.org/ccm/check_figures.py
+
+  ci-passed:
+    name: ci-passed
+    if: always()
+    needs:
+      - validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions: {}
+    steps:
+      - name: Require all validation gates to succeed
+        env:
+          RESULTS: ${{ join(needs.*.result, ' ') }}
+        run: |
+          echo "Gate results: $RESULTS"
+          for r in $RESULTS; do
+            if [ "$r" != "success" ]; then
+              echo "::error::A dataset validation gate did not succeed ($r)."
+              exit 1
+            fi
+          done

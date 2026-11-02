@@ -17,9 +17,10 @@ from collections import defaultdict
 from pathlib import Path
 
 DEFAULT_REGISTRY = Path.home() / "GitHub/CloudSecurityAlliance/SecID/registry"
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DEFAULT_REPOS = [
-    Path("/Volumes/MacMiniData/Users/kurt/GitHub/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards"),
-    Path("/Volumes/MacMiniData/Users/kurt/GitHub/CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards"),
+    REPO_ROOT,
+    REPO_ROOT.parent / "dataset-private-laws-regulations-standards",
 ]
 
 
@@ -46,25 +47,30 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--registry", default=str(DEFAULT_REGISTRY),
                     help="Path to SecID registry (default: %(default)s)")
+    ap.add_argument("--repo", action="append", dest="repos",
+                    help="Repository path(s) to scan (default: this repo + sibling private repo if present)")
     args = ap.parse_args()
     registry = Path(args.registry)
+    repos = [Path(r) for r in args.repos] if args.repos else DEFAULT_REPOS
 
     if not registry.is_dir():
         print(f"error: registry not found at {registry}", file=sys.stderr)
         return 2
 
     missing = defaultdict(list)
+    parse_errors = []
     total = 0
-    for repo in DEFAULT_REPOS:
+    for repo in repos:
         if not repo.is_dir():
             continue
-        for p in repo.rglob("*-metadata.json"):
+        for p in sorted(repo.rglob("*-metadata.json")):
             if p.name.endswith("-file-metadata.json"):
                 continue
             try:
                 d = json.loads(p.read_text())
             except json.JSONDecodeError as e:
-                print(f"warning: failed to parse {p}: {e}", file=sys.stderr)
+                print(f"error: failed to parse {p}: {e}", file=sys.stderr)
+                parse_errors.append(str(p))
                 continue
             sid = d.get("secid")
             if not sid:
@@ -76,6 +82,12 @@ def main():
 
     print(f"Scanned: {total} metadata files")
     print(f"Missing namespaces: {len(missing)}")
+    if total == 0:
+        print("error: 0 metadata files scanned", file=sys.stderr)
+        return 1
+    if parse_errors:
+        print(f"error: {len(parse_errors)} metadata file(s) failed JSON parsing", file=sys.stderr)
+        return 1
     if not missing:
         return 0
 
