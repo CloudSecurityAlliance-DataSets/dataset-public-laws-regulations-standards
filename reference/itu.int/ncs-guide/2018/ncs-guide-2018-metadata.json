@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/itu.int/ncs-guide@2018",
+  "name": "Guide to Developing a National Cybersecurity Strategy (1st Edition, 2018)",
+  "acronym": "ITU NCS Guide",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "ncs-guide-2018",
+  "owner": "International Telecommunication Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "First edition (2018) — Guide to Developing a National Cybersecurity Strategy. Multi-stakeholder international reference guide coordinated by the ITU (with World Bank, Commonwealth Secretariat, NATO CCDCOE, ENISA, OAS, GFCE, Microsoft, et al.) for initiating, drafting, implementing, monitoring, and evaluating National Cybersecurity Strategies across five lifecycle phases.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by International Telecommunication Union (itu.int) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for International Telecommunication Union (itu.int).",
+  "license": {
+    "spdx": "Government-Open-Access",
+    "Grouping": "Permissive",
+    "note": "Official national strategy publication (itu.int); publicly released for reference and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.itu.int/pub/d-str-cyb_guide.01-2018",
+    "textUsed": "https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-09-18",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/itu.int/ncs-guide@2021",
+    "retiredFromActiveUse": "2021-11-16",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf) locally via PyMuPDF (124,998 chars). Parsed 104 sections (27 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

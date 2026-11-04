@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/canada.ca/sovereign-ai-compute-strategy@2024",
+  "name": "Canadian Sovereign AI Compute Strategy (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "sovereign-ai-compute-strategy-2024",
+  "owner": "Government of Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Canadian Sovereign AI Compute Strategy (launched December 5, 2024). Government of Canada CAD $2 billion strategic plan to build domestic sovereign AI compute infrastructure across public supercomputing, private-sector compute access, and sovereign data centres.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Canada (canada.ca) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Canada (canada.ca).",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "Grouping": "Permissive",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy",
+    "textUsed": "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-12-05",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy) to Markdown (6,979 chars). Parsed 7 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

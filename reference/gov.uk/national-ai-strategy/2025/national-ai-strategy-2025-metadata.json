@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/gov.uk/national-ai-strategy@2025",
+  "name": "AI Opportunities Action Plan (CP 1241, 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-ai-strategy-2025",
+  "owner": "UK Government",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "AI Opportunities Action Plan (Command Paper CP 1241, adopted by HM Government via CP 1242 on January 13, 2025). United Kingdom national artificial intelligence strategy publications, comprising the January 2025 AI Opportunities Action Plan (CP 1241, 50 recommendations adopted by HM Government via CP 1242) and the September 2021 National AI Strategy (CP 525).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by UK Government (gov.uk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for UK Government (gov.uk).",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "Grouping": "Permissive",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/ai-opportunities-action-plan",
+    "textUsed": "https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-13",
+    "active": true,
+    "supersedes": "secid:reference/gov.uk/national-ai-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf) from landing page (https://www.gov.uk/government/publications/ai-opportunities-action-plan); extracted 26-page PDF via PyMuPDF (56,519 chars). Parsed 28 sections (22 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

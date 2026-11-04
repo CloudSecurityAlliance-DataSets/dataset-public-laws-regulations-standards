@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/enisa.europa.eu/ncss-good-practice-guide@2016",
+  "name": "Updated Good Practice Guide on National Cyber Security Strategies (2016)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2016",
+  "publication_id": "ncss-good-practice-guide-2016",
+  "owner": "EU Agency for Cybersecurity (ENISA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Updated Good Practice Guide on National Cyber Security Strategies (November 2016). ENISA lifecycle methodology guide for designing, implementing, governing, and evaluating National Cyber Security Strategies (NCSS).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by EU Agency for Cybersecurity (ENISA) (enisa.europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for EU Agency for Cybersecurity (ENISA) (enisa.europa.eu).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (enisa.europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.enisa.europa.eu/publications/ncss-good-practice-guide",
+    "textUsed": "https://www.enisa.europa.eu/sites/default/files/publications/Updated%20Good%20Practice%20Guide%20on%20NCSS.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2016-11-28",
+    "active": true,
+    "supersedes": "secid:reference/enisa.europa.eu/ncss-good-practice-guide@2012",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 59-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/Updated%20Good%20Practice%20Guide%20on%20NCSS.pdf) locally via PyMuPDF (150,643 chars). Parsed 55 sections (10 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

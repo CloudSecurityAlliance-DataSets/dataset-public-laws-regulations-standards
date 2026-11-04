@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/europa.eu/cybersecurity-strategy@2013",
+  "name": "Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace (JOIN(2013) 1 final)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "cybersecurity-strategy-2013",
+  "owner": "European Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace (JOIN(2013) 1 final, CELEX:52013JC0001). Joint Communications of the European Commission and the High Representative of the Union for Foreign Affairs and Security Policy defining the European Union's strategic framework for cyber resilience, operational capacity, NIS2/CRA regulatory reform, and global cyber diplomacy.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52013JC0001",
+    "textUsed": "http://publications.europa.eu/resource/cellar/e8ab3970-f86e-41a6-8666-33e94614dcf2.0003.03/DOC_1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-02-07",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/europa.eu/cybersecurity-strategy@2017",
+    "retiredFromActiveUse": "2017-09-13",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 20-page PDF (http://publications.europa.eu/resource/cellar/e8ab3970-f86e-41a6-8666-33e94614dcf2.0003.03/DOC_1) locally via PyMuPDF (57,344 chars). Parsed 11 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

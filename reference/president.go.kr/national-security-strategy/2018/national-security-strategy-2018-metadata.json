@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/president.go.kr/national-security-strategy@2018",
+  "name": "Moon Jae-in Administration's National Security Strategy (2018)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "national-security-strategy-2018",
+  "owner": "Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Moon Jae-in Administration's National Security Strategy (December 2018). Overarching presidential National Security Strategy of the Republic of Korea prepared by the Office of National Security, setting foreign policy, defense, economic security, and cyber security strategy for each presidential administration.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
+  "license": {
+    "spdx": "KOGL-Type-1",
+    "Grouping": "Permissive",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.president.go.kr",
+    "textUsed": "https://www.president.go.kr/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-12-20",
+    "active": false,
+    "supersedes": "secid:reference/president.go.kr/national-security-strategy@2014",
+    "supersededBy": "secid:reference/president.go.kr/national-security-strategy@2023",
+    "retiredFromActiveUse": "2023-06-07",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.president.go.kr/) to Markdown (32,335 chars). Parsed 21 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2018",
+  "name": "Stratégie nationale pour l'intelligence artificielle — 1re phase (2018)",
+  "acronym": "SNIA",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "strategie-nationale-ia-2018",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Stratégie nationale pour l'intelligence artificielle — 1re phase / Rapport Villani (March 29, 2018). France's national artificial intelligence strategy launched in March 2018 following the Villani mission ('Donner un sens à l'intelligence artificielle') and expanded in November 2021 under France 2030 to train AI talent, develop sovereign foundational models and embedded/frugal AI, and build national compute infrastructure.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.vie-publique.fr/rapport/37225-donner-un-sens-lintelligence-artificielle-pour-une-strategie-nation",
+    "textUsed": "https://www.vie-publique.fr/files/rapport/pdf/184000159.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-03-29",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2021",
+    "retiredFromActiveUse": "2021-11-08",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 235-page PDF (https://www.vie-publique.fr/files/rapport/pdf/184000159.pdf) locally via PyMuPDF (656,596 chars). Parsed 226 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

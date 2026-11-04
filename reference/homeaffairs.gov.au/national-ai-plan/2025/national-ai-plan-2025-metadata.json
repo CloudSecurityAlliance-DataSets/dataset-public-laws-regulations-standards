@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/homeaffairs.gov.au/national-ai-plan@2025",
+  "name": "Australian Government National AI Plan (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-ai-plan-2025",
+  "owner": "Department of Home Affairs",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Australian Government National AI Plan (2025). Whole-of-government artificial intelligence strategy and governance framework coordinated by the Department of Industry, Science and Resources (DISR) and the Australian Government.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (homeaffairs.gov.au) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+    "textUsed": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-12-01",
+    "active": true,
+    "supersedes": "secid:reference/homeaffairs.gov.au/national-ai-plan@2024",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Generated structured reference summary from verified SecID registry metadata for secid:reference/homeaffairs.gov.au/national-ai-plan@2025 (856 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

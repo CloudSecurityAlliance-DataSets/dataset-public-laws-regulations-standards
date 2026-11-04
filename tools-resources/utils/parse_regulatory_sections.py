@@ -94,18 +94,34 @@ _NUM_TO_ROMAN = {
 
 def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> str:
     """For numeric ids like '1.2.3' or '22757.10', return the parent ('1.2',
-    '22757'). For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
+    '22757') if present in existing_ids (or matching Chapter/Part/Section/Pillar).
+    For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
     'Implementation X.Y' if present). For '(Strategic )?Objective X.Y' return
     the matching 'Pillar <X>' if present in existing_ids."""
     parts = section_id.split(".")
     if len(parts) > 1 and all(re.match(r"^\d+$", p) for p in parts):
-        return ".".join(parts[:-1])
+        cand_parent = ".".join(parts[:-1])
+        if existing_ids is None or cand_parent in existing_ids:
+            return cand_parent
+        if len(parts) == 2:
+            p_num = parts[0]
+            for prefix in ("Chapter", "CHAPTER", "Part", "PART", "Section", "SECTION", "Pillar", "PILLAR", "Goal", "Objective"):
+                for suffix in (p_num, _NUM_TO_ROMAN.get(p_num, ""), _NUM_TO_WORD.get(p_num, ""), _NUM_TO_WORD.get(p_num, "").upper()):
+                    if suffix and f"{prefix} {suffix}" in existing_ids:
+                        return f"{prefix} {suffix}"
+            if _NUM_TO_ROMAN.get(p_num, "") and _NUM_TO_ROMAN[p_num] in existing_ids:
+                return _NUM_TO_ROMAN[p_num]
+        return ""
     m = re.match(r"^Initiative\s+(\d+\.\d+)\.\d+$", section_id, re.IGNORECASE)
     if m:
         xy = m.group(1)
         if existing_ids and f"Implementation {xy}" in existing_ids:
             return f"Implementation {xy}"
-        return f"Strategic Objective {xy}"
+        if existing_ids is None or f"Strategic Objective {xy}" in existing_ids:
+            return f"Strategic Objective {xy}"
+        if existing_ids and f"Objective {xy}" in existing_ids:
+            return f"Objective {xy}"
+        return ""
     m_obj = re.match(r"^(?:Strategic\s+)?Objective\s+(\d+)\.\d+[a-z]?$", section_id, re.IGNORECASE)
     if m_obj and existing_ids:
         p_num = m_obj.group(1)
@@ -292,6 +308,12 @@ def main():
                     r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
 
     for r in rows:
+        if r["_parent_row_idx"] is not None:
+            r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
+    final_ids = {r["section_id"] for r in rows if r["section_id"]}
+    for r in rows:
+        if r["parent_id"] and (r["parent_id"] not in final_ids or r["parent_id"] == r["section_id"]):
+            r["parent_id"] = ""
         r.pop("_parent_row_idx", None)
         r.pop("_enclosing_any_idx", None)
 

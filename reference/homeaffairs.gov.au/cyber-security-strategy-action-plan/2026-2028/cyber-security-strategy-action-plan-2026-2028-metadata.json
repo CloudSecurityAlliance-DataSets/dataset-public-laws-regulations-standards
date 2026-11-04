@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2026-2028",
+  "name": "2023–2030 Australian Cyber Security Strategy: Horizon 2 Action Plan (2026–2028)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026-2028",
+  "publication_id": "cyber-security-strategy-action-plan-2026-2028",
+  "owner": "Department of Home Affairs",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Horizon 2 Action Plan (2026–2028). Two-year Horizon Action Plans detailing concrete initiatives, regulatory reforms, and deliverables across the six cyber shields of the 2023–2030 Australian Cyber Security Strategy.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (homeaffairs.gov.au) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.homeaffairs.gov.au/cyber-security-subsite/files/horizon-2-action-plan.pdf",
+    "textUsed": "https://www.homeaffairs.gov.au/cyber-security-subsite/files/horizon-2-action-plan.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-01-01",
+    "active": true,
+    "supersedes": "secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2023-2025",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 34-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/horizon-2-action-plan.pdf) locally via PyMuPDF (48,522 chars). Parsed 63 sections (41 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/bmi.bund.de/cybersicherheitsstrategie@2016",
+  "name": "Cyber-Sicherheitsstrategie für Deutschland 2016",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2016",
+  "publication_id": "cybersicherheitsstrategie-2016",
+  "owner": "Bundesministerium des Innern und für Heimat",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cyber-Sicherheitsstrategie für Deutschland 2016 (adopted November 9, 2016). Whole-of-government Cyber Security Strategy for Germany adopted by the Federal Cabinet on a five-year cycle (2011, 2016, 2021) defining strategic action areas across digital sovereignty, critical infrastructure protection, BSI empowerment, active cyber defence, and European/international cyber policy.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesministerium des Innern und für Heimat (bmi.bund.de) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesministerium des Innern und für Heimat (bmi.bund.de).",
+  "license": {
+    "spdx": "dl-de-by-2.0",
+    "Grouping": "Permissive",
+    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/cybersicherheitsstrategie-2016.pdf?__blob=publicationFile&v=4",
+    "textUsed": "https://web.archive.org/web/20240606100320id_/https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/cybersicherheitsstrategie-2016.pdf?__blob=publicationFile&v=4",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2016-11-09",
+    "active": false,
+    "supersedes": "secid:reference/bmi.bund.de/cybersicherheitsstrategie@2011",
+    "supersededBy": "secid:reference/bmi.bund.de/cybersicherheitsstrategie@2021",
+    "retiredFromActiveUse": "2021-09-08",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 48-page PDF (https://web.archive.org/web/20240606100320id_/https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/cybersicherheitsstrategie-2016.pdf?__blob=publicationFile&v=4) locally via PyMuPDF (80,070 chars). Parsed 137 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

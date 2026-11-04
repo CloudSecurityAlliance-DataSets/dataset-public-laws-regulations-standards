@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/whitehouse.gov/ai-action-plan@2025",
+  "name": "Winning the Race: America's AI Action Plan (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "ai-action-plan-2025",
+  "owner": "White House / Executive Branch",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Winning the Race: America's AI Action Plan (released July 23, 2025 pursuant to EO 14179). Overarching federal artificial intelligence strategy issued by the White House under Executive Order 14179 ('Removing Barriers to American Leadership in Artificial Intelligence') across three pillars: Accelerating AI Innovation, Building American AI Infrastructure, and Leading in International AI Diplomacy and Security.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by White House / Executive Branch (whitehouse.gov) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for White House / Executive Branch (whitehouse.gov).",
+  "license": {
+    "spdx": "Public Domain",
+    "Grouping": "Public Domain",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+    "textUsed": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-07-23",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 28-page PDF (https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) locally via PyMuPDF (68,426 chars). Parsed 42 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

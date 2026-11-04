@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/cyber.go.jp/cybersecurity-strategy@2025",
+  "name": "Cybersecurity Strategy of Japan (December 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "cybersecurity-strategy-2025",
+  "owner": "National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cybersecurity Strategy (Cabinet decision, December 2025). Statutorily mandated national Cybersecurity Strategy of Japan drafted by the Cybersecurity Strategic Headquarters and approved by the Cabinet under Article 12 of the Basic Act on Cybersecurity (Act No. 104 of 2014).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Government of Japan Standard Terms of Use (PDL 1.0 / CC BY 4.0 compatible)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cyber.go.jp/eng/pdf/policy/kihon-s/cs_strategy2025_english.pdf",
+    "textUsed": "https://www.cyber.go.jp/eng/pdf/policy/kihon-s/cs_strategy2025_english.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-12-23",
+    "active": true,
+    "supersedes": "secid:reference/cyber.go.jp/cybersecurity-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 56-page PDF (https://www.cyber.go.jp/eng/pdf/policy/kihon-s/cs_strategy2025_english.pdf) locally via PyMuPDF (165,449 chars). Parsed 18 sections (10 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

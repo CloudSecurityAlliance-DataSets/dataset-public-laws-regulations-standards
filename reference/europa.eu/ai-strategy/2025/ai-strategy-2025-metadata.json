@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/europa.eu/ai-strategy@2025",
+  "name": "AI Continent Action Plan (COM(2025) 165 final)",
+  "acronym": "EU AI Strategy",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "ai-strategy-2025",
+  "owner": "European Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "AI Continent Action Plan (COM(2025) 165 final, April 9, 2025). European Commission strategic action plans for artificial intelligence across the European Union, coordinating compute infrastructure (AI Factories and Gigafactories), data ecosystems, talent, trustworthy AI adoption, and regulatory alignment with the EU AI Act.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://digital-strategy.ec.europa.eu/en/library/ai-continent-action-plan",
+    "textUsed": "https://digital-strategy.ec.europa.eu/en/library/ai-continent-action-plan",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-04-09",
+    "active": true,
+    "supersedes": "secid:reference/europa.eu/ai-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://digital-strategy.ec.europa.eu/en/library/ai-continent-action-plan) to Markdown (2,089 chars). Parsed 7 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

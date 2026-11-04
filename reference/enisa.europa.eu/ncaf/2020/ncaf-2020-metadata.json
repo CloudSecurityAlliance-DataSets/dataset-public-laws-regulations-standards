@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/enisa.europa.eu/ncaf@2020",
+  "name": "ENISA National Capabilities Assessment Framework (2020)",
+  "acronym": "NCAF",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "ncaf-2020",
+  "owner": "EU Agency for Cybersecurity (ENISA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Capabilities Assessment Framework (December 2020). Self-assessment and maturity evaluation framework developed by ENISA to help EU Member States measure and strengthen national cybersecurity capabilities across four clusters and 19 strategic objectives of their National Cyber Security Strategies (NCSS).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by EU Agency for Cybersecurity (ENISA) (enisa.europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for EU Agency for Cybersecurity (ENISA) (enisa.europa.eu).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (enisa.europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.enisa.europa.eu/publications/national-capabilities-assessment-framework",
+    "textUsed": "https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-12-03",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 90-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf) locally via PyMuPDF (222,603 chars). Parsed 52 sections (24 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

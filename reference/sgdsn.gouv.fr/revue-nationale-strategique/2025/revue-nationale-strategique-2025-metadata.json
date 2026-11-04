@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2025",
+  "name": "Actualisation 2025 de la Revue nationale stratégique",
+  "acronym": "RNS",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "revue-nationale-strategique-2025",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Actualisation 2025 de la Revue nationale stratégique (published July 14, 2025). Overarching French national security and defence strategy prepared by the SGDSN under the authority of the President of the Republic, establishing France's strategic assessment, hybrid/cyber deterrence posture, and eleven national strategic objectives through 2030.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf",
+    "textUsed": "https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-07-14",
+    "active": true,
+    "supersedes": "secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2022",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 104-page PDF (https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf) locally via PyMuPDF (291,491 chars). Parsed 118 sections (96 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

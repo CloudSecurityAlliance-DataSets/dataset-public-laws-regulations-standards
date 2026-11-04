@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/cas.go.jp/national-security-strategy@2022",
+  "name": "National Security Strategy of Japan (December 2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-security-strategy-2022",
+  "owner": "Cabinet Secretariat & Cabinet Office, Japan (内閣官房 / 内閣府)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy of Japan (Cabinet decision, December 16, 2022). Supreme national security policy document of Japan decided by the National Security Council and the Cabinet, setting strategic guidelines across diplomacy, defense, economic security, space, maritime, and active cyber defense (積極的サイバー防御).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cabinet Secretariat & Cabinet Office, Japan (内閣官房 / 内閣府) (cas.go.jp) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cabinet Secretariat & Cabinet Office, Japan (内閣官房 / 内閣府) (cas.go.jp).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Government of Japan Standard Terms of Use (PDL 1.0 / CC BY 4.0 compatible)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf",
+    "textUsed": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-12-16",
+    "active": true,
+    "supersedes": "secid:reference/cas.go.jp/national-security-strategy@2013",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 36-page PDF (https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf) locally via PyMuPDF (97,267 chars). Parsed 7 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

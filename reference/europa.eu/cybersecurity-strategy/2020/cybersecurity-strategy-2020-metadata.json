@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/europa.eu/cybersecurity-strategy@2020",
+  "name": "The EU's Cybersecurity Strategy for the Digital Decade (JOIN(2020) 18 final)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "cybersecurity-strategy-2020",
+  "owner": "European Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "The EU's Cybersecurity Strategy for the Digital Decade (JOIN(2020) 18 final, CELEX:52020JC0018). Joint Communications of the European Commission and the High Representative of the Union for Foreign Affairs and Security Policy defining the European Union's strategic framework for cyber resilience, operational capacity, NIS2/CRA regulatory reform, and global cyber diplomacy.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020JC0018",
+    "textUsed": "http://publications.europa.eu/resource/cellar/708647a6-3f94-11eb-b27b-01aa75ed71a1.0001.02/DOC_1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-12-16",
+    "active": true,
+    "supersedes": "secid:reference/europa.eu/cybersecurity-strategy@2017",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 29-page PDF (http://publications.europa.eu/resource/cellar/708647a6-3f94-11eb-b27b-01aa75ed71a1.0001.02/DOC_1) locally via PyMuPDF (97,234 chars). Parsed 27 sections (11 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

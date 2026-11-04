@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/dpmc.govt.nz/national-security-strategy@2023-2028",
+  "name": "Secure Together: Tō Tātou Korowai Manaaki — Aotearoa New Zealand's First National Security Strategy 2023–2028",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023-2028",
+  "publication_id": "national-security-strategy-2023-2028",
+  "owner": "Department of the Prime Minister and Cabinet (New Zealand)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Secure Together: Aotearoa New Zealand's First National Security Strategy (2023–2028). New Zealand's first overarching National Security Strategy (2023–2028), published by DPMC in response to the Royal Commission of Inquiry into the Christchurch mosque attacks, identifying 12 core national security issues (including cyber security and emerging technology) and three strategic pillars.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (dpmc.govt.nz) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.dpmc.govt.nz/our-programmes/national-security/national-security-strategy",
+    "textUsed": "https://www.dpmc.govt.nz/sites/default/files/2023-11/national-security-strategy-aug2023.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-08-04",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 23-page PDF (https://www.dpmc.govt.nz/sites/default/files/2023-11/national-security-strategy-aug2023.pdf) locally via PyMuPDF (95,180 chars). Parsed 51 sections (7 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

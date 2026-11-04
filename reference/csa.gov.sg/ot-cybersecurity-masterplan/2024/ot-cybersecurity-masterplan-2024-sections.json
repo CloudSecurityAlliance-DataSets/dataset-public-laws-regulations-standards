@@ -1,0 +1,26 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Operational Technology Cybersecurity Masterplan 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "1",
+    "section_name": "Document Identification and Mandate",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "**SecID:** `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024`  \n**Issuing Authority:** Cyber Security Agency of Singapore (`csa.gov.sg`)  \n**Edition / Version:** `2024`  \n**Primary Source URL:** https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024\n\nOperational Technology Cybersecurity Masterplan 2024 (August 20, 2024). Strategic roadmap published by CSA Singapore to strengthen the cyber resilience of Critical Information Infrastructure (CII) and industrial control / operational technology (OT) systems."
+  },
+  {
+    "depth": 2,
+    "section_id": "2",
+    "section_name": "Strategic Scope and National Security Context",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Strategic roadmap published by CSA Singapore to strengthen the cyber resilience of Critical Information Infrastructure (CII) and industrial control / operational technology (OT) systems."
+  }
+]

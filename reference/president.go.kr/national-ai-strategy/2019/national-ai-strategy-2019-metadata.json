@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/president.go.kr/national-ai-strategy@2019",
+  "name": "National Strategy for Artificial Intelligence (인공지능 국가전략, 2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-ai-strategy-2019",
+  "owner": "Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Strategy for Artificial Intelligence (Cabinet adoption, December 17, 2019). Overarching national artificial intelligence strategy of the Republic of Korea issued by the Presidential National AI Committee and the Ministry of Science and ICT (MSIT), targeting AI infrastructure, sovereign AI compute, industrial AI adoption, and AI safety governance.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
+  "license": {
+    "spdx": "KOGL-Type-1",
+    "Grouping": "Permissive",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.korea.kr/special/policyCurationView.do?newsId=148868542",
+    "textUsed": "https://www.korea.kr/special/policyCurationView.do?newsId=148868542",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-12-17",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/president.go.kr/national-ai-strategy@2024",
+    "retiredFromActiveUse": "2024-09-26",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.korea.kr/special/policyCurationView.do?newsId=148868542) to Markdown (22,637 chars). Parsed 22 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

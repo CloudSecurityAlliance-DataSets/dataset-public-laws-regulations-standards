@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2026-2030",
+  "name": "Stratégie nationale de cybersécurité 2026-2030",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026-2030",
+  "publication_id": "strategie-nationale-securite-numerique-2026-2030",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Stratégie nationale de cybersécurité 2026-2030 (published January 29, 2026). French national strategy for digital security and cybersecurity coordinated by SGDSN and ANSSI covering critical infrastructure protection (OIV), digital autonomy, cyber ecosystem acceleration, and European cyber cooperation.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.sgdsn.gouv.fr/publications/strategie-nationale-de-cybersecurite-2026-2030",
+    "textUsed": "https://www.sgdsn.gouv.fr/files/files/National%20cybersecurity%20strategy_ENG.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-01-29",
+    "active": true,
+    "supersedes": "secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 36-page PDF (https://www.sgdsn.gouv.fr/files/files/National%20cybersecurity%20strategy_ENG.pdf) locally via PyMuPDF (36,867 chars). Parsed 60 sections (19 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

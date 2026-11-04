@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/canada.ca/national-ai-strategy@2022",
+  "name": "Pan-Canadian Artificial Intelligence Strategy — Phase 2 (2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-ai-strategy-2022",
+  "owner": "Government of Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Pan-Canadian Artificial Intelligence Strategy Phase 2 (launched June 22, 2022). Government of Canada national artificial intelligence strategy issued by Innovation, Science and Economic Development Canada (ISED), originating with the 2017 Pan-Canadian AI Strategy (world's first national AI strategy, implemented with CIFAR, Mila, Vector Institute, and Amii), expanded in Phase 2 (2022), and renewed in June 2026 as 'Canada's National Artificial Intelligence Strategy: AI for All'.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Canada (canada.ca) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Canada (canada.ca).",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "Grouping": "Permissive",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+    "textUsed": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-06-22",
+    "active": false,
+    "supersedes": "secid:reference/canada.ca/national-ai-strategy@2017",
+    "supersededBy": "secid:reference/canada.ca/national-ai-strategy@2026",
+    "retiredFromActiveUse": "2026-06-08",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) to Markdown (8,344 chars). Parsed 11 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

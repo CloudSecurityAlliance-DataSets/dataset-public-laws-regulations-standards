@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2013",
+  "name": "Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (2013)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "strategia-nazionale-cybersicurezza-2013",
+  "owner": "Agenzia per la Cybersicurezza Nazionale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (December 2013). National cybersecurity strategy of the Italian Republic adopted by the President of the Council of Ministers and prepared by the National Cybersecurity Agency (ACN), defining 82 measures across protection, response, and development of sovereign digital technologies.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per la Cybersicurezza Nazionale (acn.gov.it) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per la Cybersicurezza Nazionale (acn.gov.it).",
+  "license": {
+    "spdx": "Government-Open-Access",
+    "Grouping": "Permissive",
+    "note": "Official national strategy publication (acn.gov.it); publicly released for reference and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.agid.gov.it/sites/agid/files/2024-05/quadro-strategico-nazionale-cyber_0.pdf",
+    "textUsed": "https://www.agid.gov.it/sites/agid/files/2024-05/quadro-strategico-nazionale-cyber_0.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-12-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2017",
+    "retiredFromActiveUse": "2017-03-31",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 49-page PDF (https://www.agid.gov.it/sites/agid/files/2024-05/quadro-strategico-nazionale-cyber_0.pdf) locally via PyMuPDF (79,025 chars). Parsed 50 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

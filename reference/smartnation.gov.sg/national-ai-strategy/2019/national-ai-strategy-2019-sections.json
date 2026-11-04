@@ -1,0 +1,1210 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "National Artificial Intelligence Strategy: Advancing Our Smart Nation Journey (2019)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "ADVANCING OUR SMART NATION JOURNEY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 3\n\n05\n\nForeword by the Prime Minister\n\n07\n\nExecutive Summary"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CONTENTS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY\n\n12\n\nSection 1: Why a National AI Strategy?\n\n16\n\nSection 2: Vision and Approach\n\n24\n\nSection 3: National AI Projects\n\n40\n\nSection 4: Building the AI Ecosystem\n\n76\n\nSection 5: Working Together\n\n80\n\nSection 6: What the Experts Say\n\nNational Artificial Intelligence Strategy 5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Foreword by Mr Lee Hsien Loong, Prime Minister of Singapore FOREWORD",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The National AI Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy, going beyond just adopting technology, to fundamentally rethinking business models and making deep changes to reap productivity gains",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "and create new areas of growth.\n\nTechnological innovation has powered economic\n\nThey power ride hailing platforms like Grab and\n\nprogress since the beginning of human history.\n\nUber. They optimise factory production lines.\n\nCountries and cities that succeeded in exploiting\n\nThey work in the background of our smart-phone\n\ntechnology have surged ahead and prospered;\n\napps, like Apple’s Siri or Spotify.\n\nthose that failed have languished and fallen\n\nbehind. Our present era is no different.\n\nThe National AI Strategy is a key step in our\n\nThe emergence of new and disruptive digital\n\nSmart Nation journey. It spells out our plans to\n\ntechnologies is re-ordering social and economic\n\ndeepen our use of AI technologies to transform\n\nstructures, and affecting the geopolitical\n\nour economy, going beyond just adopting\n\nlandscape. To survive and thrive, Singapore must\n\ntechnology, to fundamentally rethinking\n\nbuild up deep digital technology capabilities.\n\nbusiness models and making deep changes\n\nThis is why we launched the Smart Nation\n\nto reap productivity gains and create new\n\nmovement: to improve lives; to make Singapore\n\nareas of growth.\n\na great place to live, work and play; and to stay\n\nrelevant and competitive as an economy.\n\nAs a small country, Singapore lacks the scale of\n\nlarge markets and R&D ecosystems. But we can\n\nWe have made progress. We are building a\n\nmake up for this by building up AI research, and\n\ntrusted, nationwide digital identity system using\n\nworking together cohesively across Government,\n\nSingPass Mobile. E-payment is becoming more\n\nindustry, and research, to develop and deploy\n\nprevalent, benefiting businesses and consumers.\n\nAI solutions in key sectors. At the same time,\n\nGovernment services online are becoming more\n\nwe must also anticipate the social challenges\n\ncitizen and business-centric. At the backend,\n\nthat AI will create, by maintaining public trust\n\nthe Government has been building the basic\n\nand building capabilities to manage and\n\ndigital infrastructure to share and use data\n\ngovern AI technologies, and guarding against\n\nsecurely, and to rapidly build and deploy\n\ncybersecurity attacks and breaches to data\n\ndigital applications and services.\n\nprivacy. We are confident that we will succeed\n\nin making Singapore a leading country in AI, and\n\nBut we have much more to do. Technology\n\nmore broadly a Smart Nation for our citizens.\n\nis constantly evolving. In particular, Artificial\n\nIntelligence (AI) has progressed dramatically, and\n\nwill become a big part of our lives. For example,\n\nAI algorithms can pick out tumours from medical\n\nimages more accurately than doctors.\n\nLee Hsien Loong\n\nNational Artificial Intelligence Strategy 7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "EXECUTIVE SUMMARY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore has a unique opportunity to harness digital disruption and propel ourselves onto a new\n\ngrowth trajectory to sustain our future national competitiveness and improve the lives of Singaporeans.\n\nWe have made good progress through our Smart Nation movement, and have put in place the data and\n\ndigital infrastructure to accelerate our whole-of-nation drive to transform our Government, economy,\n\nand society.\n\nArtificial Intelligence (AI) represents the next frontier of technological opportunities. Often, the\n\nbottleneck to reaping the full benefits of AI is not in the readiness of the technology, but in our ability\n\nto redesign processes, systems, and regulation to deploy them. Singapore is well-positioned to do this\n\nat a national scale. We have made significant and early investments into AI research and are recognised\n\nas a global thought leader in AI ethics and governance. We are a global hub for digital and AI talent,\n\nwith a vibrant tech startup ecosystem and a highly educated workforce that understands the value and\n\npotential of technology. Most importantly, we are able to bring Government, industry, and researchers\n\ntogether to work together on deploying AI solutions to address key national priorities."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Vision",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The National AI Strategy is a living document to place Singapore at the forefront in the development\n\nand deployment of scalable, impactful AI solutions, in sectors of high value and relevance to our\n\ncitizens and businesses.\n\n• Singapore will be a global hub for developing, test-bedding, deploying, and scaling AI solutions.\n\nThis includes learning how to govern and manage the impact of AI.\n\n• Government and businesses will use AI to generate economic gains and improve lives. AI will raise\n\nthe Government’s capability to deliver anticipatory and personalised services, and will also be a\n\nstrong driver of growth in key sectors of Singapore’s economy.\n\n• Singaporeans will understand AI technologies and the benefits it can bring; our workforce will\n\nbe equipped with the necessary competencies to participate in the AI economy.\n\nTo achieve this, we will focus on delivering National AI Projects and strengthening our\n\nAI ecosystem enablers.\n\nNational Artificial Intelligence Strategy 9"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "National AI Projects",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We will embark on an initial tranche of 5 National AI Projects, to deliver strong social and/or economic\n\nimpact for Singapore and Singaporeans. These projects will guide investment in AI research, generate\n\nlead demand to anchor talent and capabilities in Singapore, and guide how Singapore builds up its\n\nsupporting digital infrastructure. We will continue to identify other high impact National AI Projects\n\nto pursue.\n\n• Intelligent Freight Planning – to optimise the movement of freight to improve productivity\n\nfor businesses and traffic efficiency.\n\n• Seamless and Efficient Municipal Services – to make municipal services more responsive,\n\nreliable and timely.\n\n• Chronic Disease Prediction and Management – to help prevent and better manage chronic diseases.\n\n• Personalised Education through Adaptive Learning and Assessment – to help teachers to better\n\ncustomise and improve the learning experience for every student.\n\n• Border Clearance Operations – to strengthen border security while improving traveller experience."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Building the AI Ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Our National AI Projects will generate momentum for AI deployment and demonstrate the value of AI.\n\nTo enjoy sustained benefits from AI, we will strengthen ecosystem enablers that drive AI innovation\n\nand adoption across the economy. Our strategy identifies 5 critical ecosystem enablers:\n\n• Triple Helix Partnership between the Research Community, Industry and Government – enable\n\nthe rapid commercialisation of fundamental AI research and deployment of AI solutions, through\n\nharnessing stakeholder synergies through collaboration.\n\n• AI Talent and Education – address the shortfall in the quantity and quality of talent across the\n\nentire range of AI-related job roles.\n\n• Data Architecture – enable quick and secure access to high-quality, cross-sectoral datasets.\n\n• Progressive and Trusted Environment – strengthen trust in AI technologies to enable an\n\nenvironment for test-bedding, developing, and deploying AI solutions.\n\n• International Collaboration – work with international partners to shape the international\n\nAI discourse and develop the other horizontal enablers."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Working Together",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We have established a National AI Office under the Smart Nation and Digital Government Office to\n\nset the national agenda for AI and partner the research community and industry to implement the\n\nNational AI Strategy. The National AI Strategy requires a whole-of-nation effort, and we welcome\n\nideas and contributions from individuals and companies to help deliver our AI vision for Singapore.\n\nNational Artificial Intelligence Strategy 11"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "WHY A NATIONAL AI STRATEGY?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1\n\n•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What AI has to offer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What we hope to achieve from a National Strategy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Why we can succeed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 13"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "What AI has to offer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Artificial Intelligence (AI) is the capability to simulate intelligent, human-like behaviour in computers.\n\nThe theory behind many of today’s AI techniques has been around since the 1980s, but advances in\n\ncomputing power have now brought practical applications of AI within reach.\n\nMachine learning, which includes techniques like neural networks and deep learning, has emerged\n\nas the primary enabler of this wave of AI progress. Machine learning algorithms improve their ability\n\nto perform a particular task by learning from data over time. This allows computers to adapt to\n\nunpredictable situations that defy codification by static rules. Such tasks include steering a car\n\nthrough traffic, or conversing with a customer to learn what she wants. On occasion, the computer\n\nmay even adopt a novel solution not previously conceived by humans.\n\nThus, AI is a general purpose technology. It has applicability in any field, ranging from cancer diagnosis\n\nto urban planning and fraud detection. It also has the potential to offer breakthrough solutions that\n\nare incomparably better than existing approaches.\n\nLike the advent of electricity, the potential impact of AI on society, economy, and Government cannot\n\nbe understated. Any nation able to master this technology will be able to create tremendous social\n\nand economic value for its citizens. Societies that cannot adapt will fall behind.\n\nThe rise of applicable, deployable AI represents a golden opportunity for Singapore to open new\n\nfrontiers of growth and transcend our geographical limits. For the nation, AI should transform national-\n\nlevel planning and significantly raise the quality of public goods like transport, education and\n\nhealthcare. For the economy, AI should augment our workforce to raise productivity, and enable us to\n\ncreate valuable products and solutions for the Singapore market and beyond. For our people, AI should\n\nbring about greater convenience, safety and security, and most importantly, improve their lives."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "What we hope to achieve from a National Strategy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We need a national strategy to fully harness the benefits of AI. This strategy serves three purposes.\n\nFirst, the strategy identifies areas to focus attention and resources at a national level. Singapore cannot\n\nbe world leading on all fronts, and larger economies will continue to have significant advantages in\n\ncertain fields of AI. We need to be deliberate about choosing where we should build our own world-\n\nclass capabilities, and where we should tap on the advances made by others.\n\nSecond, the strategy sets out how Government, companies, and researchers can work together to\n\nrealise positive impact from AI. Talent, data, regulation, and effective deployment are key elements\n\nneeded to enable AI applications that serve society. We need a coherent plan that brings these\n\nelements together, across organisational boundaries.\n\nThird, the strategy addresses areas where attention is needed to manage change and/or manage new\n\nforms of risks that arise when AI becomes more pervasive. These include workforce adaptation and\n\nthe governance of decision making by machines. By being proactive in tackling these emerging issues,\n\nwe will be better prepared and more confident as a nation to advance AI technologies.\n\nFirst, we have consistently invested in ICT technologies, beginning with our National Computerisation\n\neffort in the 1980s. In recent years, we embarked on our Smart Nation journey to use digitalisation\n\nto transform our Government, economy and society. The build-up of our digital capabilities and\n\ninfrastructure has given us a running start in developing and deploying AI.\n\nSecond, we have already made significant and early investments into AI, both in the public R&D\n\necosystem and the private sector. We are also a leading nation in AI ethics and governance.\n\nThis provides a good base from which we can anchor world-leading capabilities in various niches\n\nof excellence and build a progressive and trusted environment for AI innovation.\n\nThird and more broadly, we are a small, advanced country with a highly educated population that\n\nunderstands the value and potential of technology. We have the capability to organise and coordinate\n\nwell across public and private institutions, and are able to make practical decisions, as a society,\n\non the adoption of AI for social and economic good.\n\nThese factors should give us a measure of confidence in being able to use AI well to succeed as\n\na nation, even if we are lacking in the sheer size and scale of other economies.\n\nNational Artificial Intelligence Strategy 15"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "VISION AND APPROACH",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2\n\nNational Artificial Intelligence Strategy 17"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "VISION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "By 2030, Singapore will be a leader in developing and deploying",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "scalable, impactful AI solutions, in key sectors of high value and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "relevance to our citizens and businesses.\n\nSingaporeans will trust the use of AI in their lives. This confidence is borne out of a clear awareness\n\nof both the benefits and implications of the technology. Our workforce will have the necessary\n\ncompetencies to be part of the AI economy, and our engineers and entrepreneurs will innovate\n\nand create new AI solutions for the local and global markets.\n\nDomestically, our private and public sectors will use AI decisively to generate economic gains and\n\nimprove lives. Internationally, Singapore will be recognised as a global hub in innovating, piloting,\n\ntest-bedding, deploying and scaling AI solutions for impact."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "APPROACH",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "APPROACH: 1",
+    "section_name": "Emphasise deployment",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "We will work jointly across public, private and research institutions to enable effective deployment of\n\nAI solutions. The objective of effective deployment will anchor our efforts in R&D, regulatory review,\n\nand capability development."
+  },
+  {
+    "depth": 3,
+    "section_id": "APPROACH: 2",
+    "section_name": "Focus on key sectors",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "We will focus on driving AI deployment in key sectors with high social or economic value for Singapore,\n\nand for which we can build on existing strengths.\n\nWe have identified nine such sectors: Transport & Logistics, Manufacturing, Finance, Safety & Security,\n\nCybersecurity, Smart Cities & Estates, Healthcare, Education and Government."
+  },
+  {
+    "depth": 3,
+    "section_id": "APPROACH: 3",
+    "section_name": "Strengthen the AI Deployment Loop",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "There are three aspects of effective deployment:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI Deployment Loop",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "AI Deployment Loop: 1",
+    "section_name": "Problem Definition",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "How well we can identify and\n\nscope problems in Government,\n\nindustry and society, for which\n\nAI can be put to good use."
+  },
+  {
+    "depth": 3,
+    "section_id": "AI Deployment Loop: 3",
+    "section_name": "Scaling",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "AI Deployment Loop: 2",
+    "section_name": "Development and Testing",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "How well we can\n\nHow fast we can design, test,\n\nproductionise and scale\n\nand prototype AI algorithms\n\nthe tested solutions, and\n\nto arrive at solutions\n\ncontinuously improve them.\n\nto these problems.\n\nThese three aspects mutually support one another in a virtuous cycle that we label the\n\n“AI deployment loop”.\n\nWithin each of the nine key sectors, we will identify and initiate impactful use cases to start\n\ncollaborative AI projects. We call these the “National AI Projects”. Through these projects, we intend\n\nto create gains, draw lessons, and progressively tighten the feedback loop between problem definition,\n\ndevelopment/testing and scaling. In this way, we will be able to innovate on AI in cycles that will be\n\nincreasingly shorter.\n\nNational Artificial Intelligence Strategy 19"
+  },
+  {
+    "depth": 3,
+    "section_id": "AI Deployment Loop: 4",
+    "section_name": "Adopt a human-centric approach",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "First and foremost, we will focus on benefits to citizens and businesses, i.e. getting AI to serve human\n\nneeds, rather than developing the technology for its own sake. This is aligned with our Smart Nation\n\napproach, and our focus on effective deployment in key sectors of high socio-economic value.\n\nSecond, we will be proactive in addressing the risks and governance issues that come with the\n\nincreasing use of AI. In particular, we need to guard against the dilution of our societal and\n\ninstitutional responsibilities and accountabilities towards one another, even as we use AI more\n\nfrequently to automate, detect, and predict.\n\nThird, we will build an AI-ready population and workforce. At the societal level, as part of the\n\noverall promotion of digital literacy, we will raise awareness of AI, so that citizens are prepared for\n\ntechnological change, and are engaged in thinking about AI’s benefits and implications for the nation’s\n\nfuture. At the workforce level, we will prepare our professionals to adapt to new ways of working,\n\nin which workers are augmented by AI capabilities."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "A*STAR’s Human-Centric AI R&D programme",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Currently, AI systems often do not understand the context and complex nuances of human\n\ninteractions; and humans do not fully understand why and how decisions are made by\n\nAI systems.\n\nTo advance human-centricity and understanding of AI, the Human-Centric AI Programme,\n\nled by the Agency for Science, Technology and Research (A*STAR), brings together research\n\ngroups across Singapore to develop AI technologies that learn like humans, understand\n\nhumans, and can explain their inner workings to humans.\n\nThe team has started to create capabilities that enable robots to understand human interactions\n\nsuch as speech, gestures and touch. The team aims to make robots that can be “taught” by\n\ninstruction and demonstration. This will allow robots to work collaboratively with humans\n\nwithout the need for specialised infrastructure or dedicated setup. The programme will also\n\nintegrate social sciences, such as psychology and sociology, in the development of AI. This will\n\nallow AI systems to better understand culture and social norms (especially Asian cultures and\n\nnorms) and human intentions."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Human-Centric AI Programme",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 21"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "STRATEGY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The National AI Strategy consists of two components:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "National AI Projects",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We will progressively identify National AI Projects in key sectors of high social and/or economic impact,\n\nand apply the AI deployment loop from problem definition to deployment. These projects will guide\n\ninvestment in AI research, generate lead demand to anchor talent and capabilities in Singapore,\n\nand guide how Singapore builds up its supporting digital infrastructure.\n\nIn Section 3, we have sketched out a portfolio of 5 National AI Projects in the areas of transport\n\nand logistics, smart cities and estates, healthcare, education and safety and security. Beyond these\n\nfive projects, we will continue to identify future projects of similar impact level to pursue within\n\nthe key sectors."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Ecosystem Enablers",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The National AI Projects will generate momentum for AI deployment and demonstrate the value of AI.\n\nTo enjoy sustained benefits from AI, we will strengthen ecosystem enablers that drive AI innovation\n\nand adoption across the economy. In Section 4, we explain our plans to build up 5 critical ecosystem\n\nenablers: Triple Helix Partnership, AI Talent and Education, Data Architecture, Progressive and Trusted\n\nEnvironment, and International Collaboration.\n\nNational Artificial Intelligence Strategy 23"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NATIONAL AI PROJECTS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "3\n\n•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Intelligent Freight Planning",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Seamless and Efficient Municipal Services",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Chronic Disease Prediction and Management",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Personalised Education through Adaptive Learning",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Border Clearance Operations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 25"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CREATING IMPACT THROUGH NATIONAL AI PROJECTS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The 5 National AI Projects address key national challenges for",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Singapore in transport and logistics, smart cities and estates,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "healthcare, education, and safety and security. Implementing them",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "will require our research institutes, industry, and Government to",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "work collectively to develop and deploy AI solutions.\n\nNational Artificial Intelligence Strategy 27\n\n1. INTELLIGENT FREIGHT PLANNING\n\nChallenge\n\nObjective\n\nHow can we optimise the movement of freight to improve productivity for businesses, and traffic efficiency?\n\nSeamless and efficient freight movement, more productive companies and workers.\n\nMoving freight is a complex operation that\n\nWe aim to create a freight movement ecosystem\n\ninvolves many players such as port operators,\n\nwhere key parties leverage AI to share\n\nfreight forwarders, container depot operators,\n\ninformation and collaborate in an integrated\n\nhauliers and third-party logistics service\n\nmanner, to enable more efficient freight and\n\nproviders. Many processes in this sector are\n\ntruck movement across Singapore.\n\nstill highly manual, and use independently-\n\noperated systems that are not connected across\n\nthe different parties in the chain. These result in\n\ninefficiencies in the transportation process and\n\ncongestion around logistics nodes such as our\n\nports and container depots, thus reducing the\n\noverall productivity of our trucks and drivers.\n\nPooling and dynamic assignment of trucking\n\njobs. Through the digitalisation of assets and the\n\nuse of AI, jobs could potentially be pooled and\n\ndynamically assigned to trucks to ensure that\n\ntrips are revenue generating both ways, instead\n\nof one-way. This would make each truck trip\n\nmore productive, and improve asset utilisation\n\nand driver productivity for companies.\n\nKey Benefits\n\n• Businesses increase revenue through\n\nimproving asset utilisation and job sharing.\n\n• In-house transport planners are trained\n\nto use digital solutions to do smarter\n\ntransport planning.\n\n• Truck drivers can be more productive with\n\nIntelligent routing and scheduling of trucks.\n\nless time spent waiting to complete a job.\n\nAI could also be deployed to help companies\n\n• Businesses and the public benefit from\n\nbetter plan the routing and scheduling of their\n\nless traffic congestion and a more efficient\n\ntrucks to our ports and container depots, which\n\ndomestic logistics ecosystem.\n\nwill help to reduce waiting times and localised\n\ntraffic congestion. This will enable companies to\n\nimprove business margins and strengthen their\n\nOur First Steps\n\nbusiness competitiveness. It will also create\n\nbetter and higher value-added jobs for\n\nWe will need to strengthen data flows and\n\nworkers in the industry.\n\nconnectivity between parties in the ecosystem,\n\nto create a foundation upon which to build\n\nintelligent applications. We will explore building\n\na common and trusted data exchange platform\n\nRoute Planning & Schedule\n\n1\n\nto facilitate planning and optimisation of\n\n2\n\n2\n\ntruck trips.\n\n4\n\n1\n\n3\n\n3\n\n4\n\nWe will focus our initial efforts on piloting and\n\ndeploying AI applications that facilitate planning\n\nAI-enabled planning and modelling for better\n\nand optimisation of truck trips to and from the\n\nurban planning. Data collected from the\n\nsea gateway. In the longer term, we will scale\n\necosystem will also enable Government to\n\nthe deployment of intelligent freight planning\n\nconduct data-driven policy reviews and do\n\nsolutions to our air and land gateways.\n\nbetter urban planning to improve the overall\n\nefficiency of Singapore’s logistics ecosystem.\n\nNational Artificial Intelligence Strategy 29"
+  },
+  {
+    "depth": 2,
+    "section_id": "2",
+    "section_name": "SEAMLESS AND EFFICIENT MUNICIPAL SERVICES",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Challenge",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How can municipal services be delivered to residents in a more responsive, reliable and timely manner?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "At times, residents might find it challenging to\n\nprovide agencies with sufficient information to\n\nfollow up on their feedback. This lengthens the\n\ntime taken to resolve the more than 1 million\n\nfeedback cases that agencies receive each year.\n\nMunicipal services are an essential part of daily\n\nThere is scope to employ AI to guide residents\n\nlife. From cleaning public spaces to maintaining\n\nalong the feedback process and eventually\n\nroads and footpaths, 10 Government agencies\n\nshorten case resolution time.\n\nand 16 Town Councils work tirelessly to ensure\n\nthat Singapore residents enjoy a high¹ standard"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Objective",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "of municipal services."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "More responsive, reliable, and timely",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "neighbourhood services.\n\nSeveral of these services are high-volume and\n\nresource-intensive. While residents today help\n\nby informing us of municipal issues they face,\n\nwe also need to undertake more pre-emptive\n\ninspections with the limited workforce we\n\nhave, and better plan our living environment to\n\nprevent issues from arising in the first place.\n\nTell us once, just the way you see it. Residents\n\ncan report issues seamlessly, without the need\n\nto worry about which agency to report their\n\n¹ More than 75% of residents are satisfied with the\n\nfeedback to, or how to describe the issue.\n\ndelivery of municipal services (Source: Municipal\n\nAn AI-powered chatbot can guide them along\n\nServices Survey 2018, conducted by the Municipal\n\nand get to the heart of the issue.\n\nServices Office)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Key Benefits",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "• Residents can report municipal issues more\n\nefficiently and seamlessly.\n\n• Resident can enjoy better-maintained estates,\n\nand more reliable municipal infrastructure\n\nand services without having to report them.\n\n• Residents will enjoy facilities that will better\n\nserve their needs.\n\nBetter-maintained estates. Sensors and\n\nAI algorithms can be deployed in the\n\nneighbourhood, such as in lifts, to alert us to"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our First Steps",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "would-be faults before they occur, and help\n\nus pre-emptively address issues to minimise\n\nWe will start with an AI-powered chatbot to\n\ninconvenience to residents.\n\nguide residents when they report an issue.\n\nThe chatbot will identify the correct agency to\n\ndirect the issue to. It will also prompt residents\n\nfor mandatory case details in real-time, thereby\n\nminimising the need for agencies to call them\n\nback for additional case information.\n\nWorking with residents to improve the living\n\nenvironment. AI can help us better understand\n\nhow our residents, their families and the\n\ncommunity are using various neighbourhood\n\nfacilities. With this knowledge, we can then\n\nwork towards the planning and building of\n\nfacilities that best serve residents’ needs.\n\nNational Artificial Intelligence Strategy 31\n\n3. CHRONIC DISEASE PREDICTION AND MANAGEMENT\n\nChallenge\n\nObjective\n\nHow can we help prevent and better manage chronic diseases such as diabetes, high blood pressure and high cholesterol, to reduce the risk of complications like heart disease, stroke and kidney failure?\n\nBetter control over chronic diseases such as diabetes, hypertension and high blood cholesterol.\n\nRISK S CORE\n\n7\n\n6\n\n6\n\n5\n\n4\n\nPA TIEN T_ 01 93 1\n\n5\n\n5\n\n4\n\n3\n\n3\n\n3\n\nMany Singaporeans have chronic diseases\n\n3\n\n3\n\n3\n\n3\n\n2\n\n2\n\nsuch as diabetes, hypertension and high blood\n\n1\n\n2\n\n2\n\n1\n\n1\n\ncholesterol. They may be unaware that they\n\nPersonalised risk score for chronic diseases.\n\nhave these conditions as the symptoms may\n\nnot be noticeable early on. If not well controlled,\n\nAI can be used to analyse clinical data, medical\n\nthese diseases can lead to serious complications\n\nimages, health behaviours and genomic data to\n\nsuch as heart attack, stroke, kidney failure and\n\ncreate a personalised risk score for individuals.\n\neven death.\n\nThis score can help individuals to take\n\nappropriate preventive measures as well\n\nas receive earlier and more targeted\n\ninterventions from their care teams.\n\nKey Benefits\n\n• Singaporeans will enjoy improved health\n\noutcomes, and will be empowered to better\n\nself-manage chronic diseases.\n\n• Patients at higher risk of complications\n\nare identified earlier and provided with more\n\nClinical decision support for primary care\n\nintensive management and monitoring in the\n\ndoctors. AI can be used to support primary\n\nprimary care setting, to reduce the likelihood\n\ncare doctors and care teams in developing\n\nof medical complications.\n\npersonalised care plans that take into account\n\n• Healthcare providers will be more productive\n\na patient’s risk profile. As each care team may\n\nand can better help patients control chronic\n\nlook after a large number of patients, AI can also\n\ndisease conditions.\n\nassist in monitoring the progress of patients,\n\nand alert care teams to patients whose progress\n\nOur First Steps\n\nshow cause for concern so that timely action\n\ncan be taken.\n\nWe will deploy the Singapore Eye LEsioN Analyser\n\n(SELENA+), which analyses retinal photographs\n\nusing a Deep Learning System to detect 3 major\n\neye conditions: diabetic eye disease, glaucoma\n\nand age-related macular degeneration. SELENA+\n\ncan analyse retinal photographs as accurately\n\nand faster than human graders. This increases\n\nEmpower patients to better manage their\n\nthe productivity of human graders by up to\n\nchronic diseases. AI can make it easier for\n\n70 per cent, and allows them to dedicate more\n\npatients to self-manage their conditions.\n\ntime to patients with complex cases. SELENA+’s\n\nPatients can use AI to monitor their health\n\ncapabilities in analysing retinal images will\n\nstatus, and receive timely reminders to eat\n\nalso be extended to develop a predictive risk\n\nhealthily, increase physical activities, take\n\nassessment model for cardiovascular disease.\n\ntheir medication and report for check-ups.\n\nNational Artificial Intelligence Strategy 33"
+  },
+  {
+    "depth": 2,
+    "section_id": "4",
+    "section_name": "PERSONALISED EDUCATION THROUGH ADAPTIVE LEARNING AND ASSESSMENT",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Challenge",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Objective",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How can we help teachers to better customise and improve the learning experience for every student, particularly those with learning difficulties?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "More personalised learning and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "assessment for every student.\n\nWe will leverage AI through the Singapore\n\nStudent Learning Space (SLS), an online learning\n\nplatform for all students and teachers in the\n\nnational school system, launched in May 2018.\n\nDifferent students have different learning needs,\n\nstarting points and aptitudes for different\n\nsubjects. They also have different strengths\n\nand interests. There is also a limit to how much\n\nteachers can customise the learning experience\n\nor provide continuous and detailed feedback for\n\nevery student. Routine tasks also take up time\n\nthat teachers could use to value-add to students’\n\nlearning experiences.\n\nStudents’ learning experiences with the SLS\n\nwill be enhanced by an AI-enabled Adaptive\n\nLearning System. The adaptive learning system\n\nwill use machine learning to enable it to tell how\n\neach student responds to learning materials\n\nand activities, and to recommend a step-by-step\n\npathway customised for each learner."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Key Benefits",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "• Students will have a more personalised\n\nlearning experience, tailored to their\n\nindividual strengths and weaknesses.\n\n• Teachers will spend less time on routine\n\nassessment tasks, and can guide students’\n\nlearning more effectively through data-\n\ndriven insights.\n\n• In the long run, students of diverse learning\n\nTeachers will be able to assess students’\n\nneeds, as well as low-progress learners,\n\nwork more efficiently and effectively with\n\nwill be better supported, raising their\n\nan AI-enabled Automated Marking System.\n\nachievement level.\n\nThe automated marking system will be able to\n\nassess open-ended student responses such as"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our First Steps",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "short-answer response questions and essays,\n\nand provide quick feedback to students’ work.\n\nWe will pilot an AI-enabled automated marking\n\nsystem for English Language with selected\n\nprimary and secondary schools in 2020.\n\nWe will also trial the adaptive learning system\n\nthrough the SLS for specific topics in the\n\nMathematics curriculum, starting with upper\n\nprimary and lower secondary levels. We will\n\nWe will also support students’ holistic\n\nconduct a pilot with selected schools by 2022.\n\ndevelopment through an AI Learning Companion\n\nthat could motivate the student, keeping her\n\nengaged during challenging tasks, help the\n\nstudent reflect on her learning experience,\n\nand recommend further learning activities.\n\nNational Artificial Intelligence Strategy 35"
+  },
+  {
+    "depth": 2,
+    "section_id": "5",
+    "section_name": "BORDER CLEARANCE OPERATIONS",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Challenge",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Objective",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How do we continue to strengthen border security while improving traveller experience?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "100% automated immigration",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "clearance for all travellers.\n\nThe demand for secure and efficient immigration\n\nclearance is expected to grow amidst the\n\nheightened security climate and the anticipated\n\nincrease in global travel and commerce. However,\n\nincreasing security often comes at a price; from\n\ninvasive body searches, to long queues\n\nat immigration checkpoints.\n\nWe aim to deploy AI to achieve 100% automated\n\nSingapore has long been a destination for\n\nimmigration clearance for all travellers, including\n\nbusiness and leisure travel and a popular\n\nembarkation point for those wanting to explore\n\nfirst-time social visitors. Singaporeans and\n\nthe rest of Asia. To maintain Singapore’s image\n\ndeparting visitors will experience “Breeze-\n\nas a welcoming and safe tourism and business\n\nThrough” immigration clearance, without\n\ndestination, we need to continue to provide\n\nthe need to present their passports.\n\na fast and hassle-free immigration clearance\n\nexperience for all our travellers, without\n\ncompromising security. This will be especially\n\nchallenging amidst our tightening resident\n\nlabour force and space constraints."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our First Steps",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore will explore using AI to assist\n\nimmigration officers in evaluating the risk\n\nprofile of travellers before they arrive at our\n\ncheckpoints, and to tier the level of security\n\nscreening accordingly. To enable this, we will\n\ncollect and analyse data from various sources,\n\nincluding the Singapore Arrival Cards submitted\n\nby travellers and advance passenger information\n\nEven though our border security will be\n\nfrom airlines. We will also study how to redesign\n\nenhanced, for most travellers, these security\n\nour immigration clearance process to enable\n\nmeasures will work quietly in the background,\n\nall travellers to enjoy secure and seamless\n\nenabling them to experience the convenience\n\nimmigration clearance experience via\n\nof hassle-free international travel.\n\nautomated clearance facilities."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Key Benefits",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "• Singaporeans and visitors will be empowered\n\nto process their own clearance through the\n\nautomated immigration facilities, and enjoy a\n\nfaster and more seamless travel experience.\n\n• Singaporeans will enjoy greater safety\n\nand security through our strengthened\n\nborder security.\n\n• Immigration officers will achieve productivity\n\ngains and can focus on higher value work.\n\nNational Artificial Intelligence Strategy 37\n\nNational Artificial Intelligence Strategy 39"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "BUILDING THE AI ECOSYSTEM",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "4\n\n•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Triple Helix Partnership between the Research",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Community, Industry and Government",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI Talent and Education",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Data Architecture",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Progressive and Trusted Environment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "•"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "International Collaboration",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 41"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Even as Singapore embarks on National AI Projects,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "we must build a vibrant and sustainable AI ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "to anchor AI innovation and adoption across the economy."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "We have identified five ecosystem enablers:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "THE ECOSYSTEM ENABLERS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 43"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ECOSYSTEM ENABLER 1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "TRIPLE HELIX PARTNERSHIP",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "– Research Community, Industry and Government",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The research community, industry, and Government play important, interconnected roles to enable the\n\ndevelopment and deployment of AI solutions. It is critical for Singapore to enhance partnerships across\n\nthese stakeholders to strengthen our collective capabilities and drive our overall national AI effort."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 1.1 Deepen investments in AI-related R&D across the research ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore has built substantive AI R&D capabilities from our early investments. In 2019, Singapore\n\nranked first in the world based on the impact of our AI scientific publications, according to Elsevier\n\nSciVal. Four of the ten most promising young AI researchers ranked by the Institute of Electrical\n\nand Electronics Engineers (IEEE) in 2018 are based in Singapore.\n\nWe have already committed over S$500m for AI-related research, innovation and enterprise activities\n\nunder the RIE2020 Plan, and will invest more going forward. Singapore will build on our strengths\n\nin AI R&D and continue to maintain a portfolio of AI R&D investments. This portfolio balances\n\n(a) game-changing fundamental research; (b) research that enables more widespread adoption of AI\n\n(e.g., explainable AI, “data-lite” AI, collaborative and human-centered AI, and digital trust technologies);\n\nand (c) applied research targeted at the needs of the nine key sectors.\n\nAccess to supercomputing infrastructure will also be an important driver of fundamental AI research.\n\nOver the next 5 years, Singapore will be investing S$200m to upgrade both our supercomputing\n\ncapability and network speed and quality. This will raise our supercomputing resources from 1 petaflop\n\nto 15-20 petaflops, to support high-end compute performance needs. Specifically for AI, the enhanced\n\nsupercomputing platform will support the development and training of new AI algorithms and models."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Singapore – Singapore’s national programme for AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Established by the National Research Foundation in 2017, AI Singapore (AISG) is a national\n\nprogramme for AI that brings together Singapore researchers and companies to jointly develop\n\ninnovative AI solutions and grow a pipeline of AI talent for industry. AISG’s work is anchored on\n\n3 key pillars: AI Research, AI Technology, and AI Innovation.\n\nAI Research aims to build deep AI research capabilities in Singapore, invent the\n\nnext generation of AI techniques/algorithms and position Singapore as a key\n\nplayer on the global stage.\n\nAI Technology seeks to create significant economic and social impact by tackling\n\nnational or global challenges using AI. AISG’s first Grand Challenge, launched in\n\nJune 2018, was in healthcare.\n\nAI Innovation focuses on accelerating industry’s adoption of AI technology\n\nthrough projects and talent development. Its programmes include the\n\n100 Experiments Programme and the AI Apprenticeship Programme.\n\nNational Artificial Intelligence Strategy 45"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Prof Ong Yew Soon – AI researcher in Singapore",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Prof Ong Yew Soon is President’s Chair Professor of Computer Science at the School of Computer\n\nScience and Engineering, Nanyang Technological University (NTU), Singapore, and the Chief AI\n\nScientist at A*STAR.\n\nProf Ong’s contributions have helped propel NTU to be one of the leading computer science and\n\nengineering departments globally, especially in AI research.² He founded the Data Science and\n\nArtificial Intelligence Research Centre (DSAIR) at NTU. Prof Ong also established the first cognitive\n\n& AI corporate lab in Singapore − the S$42.4 million Singtel Cognitive and Artificial Intelligence\n\nLab for Enterprises (SCALE@NTU), where he currently serves as Director.\n\nWe interviewed him to find out more about his life as an AI researcher:"
+  },
+  {
+    "depth": 3,
+    "section_id": "– Research Community, Industry and Government: 1",
+    "section_name": "What made you decide to become an AI researcher?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "I did my postgraduate study at the University of Southampton under the BAE-Rolls Royce\n\nUniversity Technology Partnership research scholar programme. There, I became really\n\ncurious about which were the most suitable optimisation solvers or algorithms for designing\n\ndifferent forms of aircraft wing structures. This led to my PhD topic on “Artificial Intelligence\n\nTechnologies in Complex Engineering Design”, which explored and investigated state-of the-\n\nart AI techniques to uncover new insights about optimisation solvers."
+  },
+  {
+    "depth": 3,
+    "section_id": "– Research Community, Industry and Government: 2",
+    "section_name": "What is something exciting that you are researching now?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "One of my coolest work has been developing IntelliK, an AI platform that enables creative\n\npeople to develop AI-powered digital games and gamified Apps without any programming\n\nskills. More broadly, my research interest is now in AI Research for Society, which looks at how\n\nAI can contribute towards sustainability as well as supporting people with special needs.\n\nThere are five unique cornerstones, or AI.Rs, of AI Research for Society:\n\ni) Rationalisability – to interpret and logically explain the workings on deep neural\n\nnetwork models.\n\nii) Resilience – to be able to retain high predictive accuracy for AI models even in the\n\nface of adversarial attacks.\n\n² NTU was ranked 1st in Asia for Computer Science and Engineering by the Academic Ranking of World\n\nUniversities, 4th by the US News Global University Ranking and listed as one of the Top 3 universities in\n\nAI research globally by The World University Ranking.\n\niii) Reproducibility – to enable others to reproduce the same output from AI models.\n\niv) Realism – to introduce a human element into AI.\n\nv) Responsibility – to build ethics and ethnics into AI and AI for benefiting society."
+  },
+  {
+    "depth": 3,
+    "section_id": "– Research Community, Industry and Government: 3",
+    "section_name": "What is your favourite part about conducting AI research in Singapore?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "First, there are many existing digital systems in Singapore that generate significant amounts\n\nof data. This provides opportunities for researchers to customise AI algorithms to analyse\n\nthe variety of datasets, develop human-centric AI models, test-bed and optimise them,\n\nso that solutions may be quickly adapted by companies.\n\nSecond, Singapore has also set up tech platforms that bring together a consortia of partners\n\nfrom different parts of the value chain where system level integration is required. This allows\n\nresearchers to collaborate with industry on effective implementation of AI systems.\n\nThird, as a small but well-connected digital nation with a heterogeneous population,\n\nSingapore presents vast opportunities for researchers to leverage our datasets and develop\n\nalgorithms that contribute towards Smart Nation, Healthcare, Finance and Insurance,\n\nand many other areas that are critical for Singapore’s economy and society.\n\nProf Ong Yew Soon designed IntelliK to create AI-powered digital games and\n\ngamified Apps without the need to know coding.\n\nNational Artificial Intelligence Strategy 47"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 1.2 Drive partnerships between the research community and industry",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Research collaborations with industry will enable the research community to sharpen their focus\n\non societal/market needs and gain access to relevant data. Industry also benefits from research\n\ninnovations that they can incorporate into their products and services, and from access to the pipeline\n\nof research talent. Such public-private partnerships can also support the commercialisation of\n\nAI technologies.\n\nWe have made a good start in driving partnerships between research and industry. There are currently\n\nmore than 15 AI public-private partnerships and joint labs in Singapore. We will continue to attract and\n\nanchor AI R&D and product teams from leading global and local technology companies in Singapore,\n\nand encourage them to partner with our research institutions and Institutes of Higher Learning to\n\nestablish joint labs and invest in training programs."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Singtel-NTU AI Lab",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singtel has partnered with NTU and the National Research Foundation (NRF) to establish\n\nthe Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU) to develop\n\napplications for use in the areas of public safety, smart urban infrastructure, transportation,\n\nhealthcare and manufacturing. Under the collaboration, Singtel’s subsidiary NCS has developed\n\nnext-generation products & platforms to tackle the challenges faced by cities. These include\n\ninnovations in the areas of advanced machine learning and AI algorithms for intelligent\n\ntransport, IoT, robotics, computer vision and audio analytics.\n\nOne key development is in the area of multimodal sensation with vision and speech intelligence\n\nto understand customer behaviour & emotion and to assist human-machine interaction.\n\nOur research and development in deep learning technologies have been applied to robotics and\n\nIoT capabilities for dynamic optimisation and planning. For the healthcare industry, a potential\n\napplication would include non-invasive tracking and monitoring of patients and their vital\n\nsigns. In the case of Smart Urban Infrastructure industries, the work focuses on applying edge\n\nintelligence through visual and video analytics for a safer and more effective workplace.\n\nThese capabilities have been pursued in various Proof of Concepts to bring across the\n\nbenefits to our customers."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "IMDA-SUTD Partnership in Smart Estates",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "To support our Built Environment sectoral transformation efforts under the Smart Estates\n\nInitiative, Infocomm Media Development Authority (IMDA) and the Singapore University of\n\nTechnology and Design (SUTD) are launching a new research-industry-Government collaboration\n\nto leverage AI applications to achieve greater effectiveness and efficiency in designing and\n\nmanaging Smart Estates in Singapore and the region.\n\nApplications of AI in Smart Estates could provide benefits such as manpower and cost savings\n\nin estate management, improved urban sustainability, and better planning and design.\n\nThere are already ongoing trials to use AI to improve estate management:\n\n1. Energy and utility management, fault detection, and predictive maintenance for\n\nbuilding facilities.\n\n2. Automated surveillance monitoring and detection of safety and security.\n\n3. Unmanned retail concept store offering personalised shopping experience.\n\nThe IMDA-SUTD partnership will further advance Smart Estates development through\n\na multi-faceted effort over the next 2 years:\n\nINNOVATION TALENT DATA\n\nWe will bring together\n\nWe will work with data\n\nWe will support\n\nestate owners, technology\n\nowners to pilot AI toolsets\n\ntechnology companies co-\n\nproviders, and researchers\n\nthrough a Data Lake\n\ndeveloping AI applications\n\nto co-develop innovative\n\nfor Smart Estates. The\n\nin Smart Estates to train\n\nAI applications, with\n\nData Lake will facilitate\n\nfresh or mid-career AI\n\nco-funding support from\n\nAI development and\n\nprofessionals through a\n\nIMDA, with the aim of\n\nexperimentation by\n\ncombination of courses\n\nscaling up deployment\n\nresearchers, students,\n\nand on-the-job training.\n\nlocally and overseas.\n\nand AI companies.\n\nNational Artificial Intelligence Strategy 49"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 1.3 Accelerate AI adoption in companies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Companies must develop the organisational capacity to deploy AI solutions if they are to realise the\n\nfull, transformative value that the technology can bring to their businesses. This requires investing in\n\ndigital infrastructure and engineering capabilities, as well as fostering an innovative culture. To assist\n\ncompanies in doing so, Singapore will make more resources available for them to adopt AI solutions\n\nand develop AI-related applications:\n\n• Industry digital transformation and AI deployment plans. As part of the SMEs Go Digital programme,\n\nSMEs can leverage the sector-specific Industry Digital Plans, which provide a step-by-step guide on\n\nthe digital solutions to adopt at each stage of a company’s growth. The programme aims to curate\n\nmore AI-enabled solutions to benefit businesses in various industries as they embark on their\n\ndigital transformation journey.\n\n• AI Singapore’s 100 Experiments programme. The 100 Experiments (100E) programme supports\n\ncompanies in deploying AI in a co-investment model by providing them with access to talent from\n\nAISG’s AI Apprenticeship Programme. AISG has undertaken more than 38 AI projects with company\n\npartners, of which 10 have had AI deployed into production.\n\n• The AI Makerspace is a new national platform developed by AI Singapore to support SMEs and\n\nstart-ups to jumpstart their AI journey. It provides access to resources for AI experimentation such\n\nas off-the-shelf, pre-built AI solutions (‘Bricks’), curated datasets from industry and Government,\n\ncutting-edge AI libraries and tools, and supercomputing resources. AI Makerspace will also aim to\n\ngrow local companies to be able to deliver these solutions to our SMEs over the next 2−3 years."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI Makerspace",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 51\n\n• Accreditation@SGDigital and SG:D Spark programmes help companies identify and engage quality\n\nSingapore-based AI solution providers and start-ups. These programmes give buyers the assurance\n\nof reliable digital and AI solutions when working with these companies and startups, allowing for\n\na more streamlined approach to integrating digital solutions. At the same time, both the\n\nAccreditation@SGD and SG:D Spark programmes help grow and scale promising and innovative\n\nSingapore-based startups and companies.\n\n• Through the Tech Depot on SME Portal, local SMEs can access “Ready-to-Go” AI solutions developed\n\nby A*STAR to enhance their productivity and expand their business. Companies can also gain access\n\nto a broader range of AI expertise in A*STAR to grow their own AI capabilities by leveraging A*STAR’s\n\nT-UP programme.\n\n• IMDA’s Digital Services Lab provides a suite of tools to help companies develop AI solutions and\n\nleverage AI technologies. This includes the National Speech Corpus and the Intelligent Sensing\n\nToolbox. This suite of tools, developed to address the needs in the services sectors, is continually\n\nbeing expanded and is made easily accessible for companies through platforms such as the\n\nAI Makerspace."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "From 100 Experiments to Scaling Startups",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Automatic Assessment of Chronic Wounds in Diabetic and Elderly Patients\n\nChronic wounds are a common clinical problem in hospitals. AI Singapore worked with a local\n\nstart-up, KroniKare, to develop a Computer Vision system on an AI-driven mobile and web\n\nplatform to capture, analyse and diagnose chronic wound conditions. This enables healthcare\n\ninstitutions to better triage patients and allocate resources for wound management, resulting\n\nin improved patient outcomes in terms of early detection and faster intervention for major\n\nwound complications.\n\nFollowing the successful Proof of Concept study with AI Singapore, Integrated Health Information\n\nSystems (IHiS) facilitated the scaling, validation, regulatory approval, and planned deployment\n\nof Kronikare’s solution. The Health Sciences Authority (HSA) provided scientific and regulatory\n\nadvice and the device underwent HSA’s priority review scheme to obtain regulatory approval.\n\nKronikare has now deployed its scanner in St Andrew’s Community Hospital and a nursing home\n\nat Kwong Wai Shiu Hospital. It has also completed operational trials at Changi General Hospital\n\nwith promising results. IHiS continues to work with companies like Kronikare to support the\n\nintegration of the results into the clinical Electronic Medical Record systems.\n\nA nurse can use KroniKare Wound Scanner to\n\nUploaded data vectors are automatically\n\ncapture an image of the wound for full assessment\n\ncompiled into medical reports for monitoring\n\nand documentation under 30 seconds at a patient’s\n\nwound progress and prioritising serious\n\nbedside.\n\ncases using a tablet.\n\nNational Artificial Intelligence Strategy 53"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "DC Frontiers – a local SG:D Accredited AI company",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "DC Frontiers Pte Ltd is a local SG:D Accredited data analytics and AI technology startup.\n\nFounded in 2011, DC Frontiers offers a suite of corporate intelligence solutions to give\n\norganisations greater visibility over risks.\n\nTheir award-winning Machine Learning technology is known as Handshakes SEER. It utilises\n\nproprietary Natural Language Processing and Machine Learning to transform voluminous\n\namounts of unstructured data into a reliable, contextualised data source for corporations,\n\nregulators and financial institutions.\n\nSEER technology can be applied to emails, customer feedback, news and more. In fact,\n\nSingapore Press Holdings (SPH) is working with DC Frontiers to tailor content recommendations\n\nfor readers based on their unique consumption habits and personal attributes. Apart from\n\nimproving the reader experience, this has also successfully automated SPH’s content curation\n\nprocess, which was previously a manual task.\n\nTo date, DC Frontiers has secured S$16 million worth of funds to further drive product\n\ndevelopment efforts, which includes AI research and the expansion of its data coverage\n\nacross more parts of ASEAN and Asia – beyond Singapore, Malaysia and Hong Kong.\n\nDC Frontiers’ award-winning AI technology is known as Handshakes SEER. It is not only able to\n\npick up keywords, but more intelligently − context. This can be applied to news, customer feedback,\n\nemails and more."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 1.4 Establish AI innovation testbeds",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore’s regulators will work with companies to facilitate the deployment and testing of new ideas\n\nthrough AI innovation testbeds. A key initiative is the Punggol Digital District, a living test bed for\n\ndeploying and integrating new technologies into the everyday lives of citizens."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Punggol Digital District (PDD)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A greenfield project developed and masterplanned by JTC Corporation, PDD offers the\n\nopportunity to fundamentally review how technology can transform what it means to work,\n\nlearn, live and play in a smart district. It will showcase concepts on future living, and provide\n\ncompanies opportunities for test-bedding technologies such as AI.\n\nPDD will house an Open Digital Platform that will integrate various technology verticals including\n\nfacilities management systems, district cooling system, autonomous goods delivery systems,\n\nand security systems. The data gathered from the platform can be used by companies to test-\n\nbed new innovations and district managers to provide personalised and anticipatory services,\n\nand deliver energy and manpower savings by optimising operations and resource consumption\n\nwithin the district.\n\nThe co-location of the Singapore Institute of Technology (SIT) and JTC Business Park will\n\nfacilitate close collaboration between the digital industry and academia.\n\nArtist’s impression of PDD\n\nNational Artificial Intelligence Strategy 55"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ECOSYSTEM ENABLER 2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI TALENT AND EDUCATION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need\n\na range of multidisciplinary talent (AI, digital, business domain) to develop and deploy AI solutions\n\nto the key sectors:\n\n• Research and Development – AI researchers/scientists with relevant industry or corporate\n\nresearch and development experience;\n\n• Data Engineering – Data engineers/technicians with experience in using data to continually\n\ndevelop and improve AI solutions;\n\n• Product Development – AI engineers/translators/developers who can design and build\n\nuser-centric products to drive large-scale adoption; and\n\n• Implementation – Application developers, infrastructure engineers/developers and systems\n\nintegrators with experience in building and operating large-scale machine learning systems.\n\nSingapore will track the supply and demand of AI talent and manpower to identify shortfalls and guide\n\nmanpower strategy and talent initiatives. We will also make a concerted push to strengthen AI training\n\nfor Singaporeans and attract AI talent to Singapore."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 2.1 Train more Singaporeans for high-quality AI jobs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore will establish more local talent pipelines to increase the quantity and quality of our AI\n\nworkforce in the longer-term. We will do so by creating AI conversion programmes and corporate-\n\nbacked AI academies to upskill the latent pool of STEM and digital workers into higher-value\n\nAI-related job roles.\n\n• Post-graduate Scholarships. The Singapore Government currently works with companies such as\n\nAlibaba, Nvidia, Sensetime, and Grab to provide full-time postgraduate students with industry-\n\nrelevant training in preparation for R&D roles in industry. We will establish more of such\n\npartnerships to train more AI PhDs with industry experience.\n\n• AI Apprenticeship Programme (AIAP). The AIAP is a full-time 9-month programme by AI Singapore to\n\ngroom AI engineers for industry. Apprentices will work on real-world industry projects, from scoping\n\nproblem statements to deploying models. AI Singapore has produced 60 engineers to date, and\n\nplans to train up to 500 Singaporean AI engineers over the next 5 years.\n\n• TechSkills Accelerator (TeSA) offers various programmes to support ICT and non-ICT professionals\n\nto upgrade and acquire new skills for the digital economy.\n\n− TeSA collaborates with companies on job placement programmes, where fresh and mid-level\n\nprofessionals will undergo structured learning courses and on-the-job training to acquire skills\n\nand competencies in AI.\n\n− To support conversion of non-ICT professionals and upskilling of tech professionals, TeSA\n\nsupports full-time bootcamp or mentorship & coaching opportunities offered by global education\n\nproviders and established academic institutions.\n\n− For tech professionals who aspire to upskill/reskill through short-form training, TeSA also funds\n\nprofessional development courses in AI.\n\n− Underpinning these programmes is the Skills Framework for ICT, a reference guide of in-demand\n\njob roles and their required skills, to help individuals and employers plan career pathways and\n\nfacilitate hiring. The framework will be updated with AI-related skills and job roles.\n\n• To further help Singaporeans understand the fundamentals and applications of AI, be it in their\n\nworkplace or daily lives, SkillsFuture Singapore has partnered with major technology partners, to\n\nenhance the SkillsFuture for Digital Workplace programme with the inclusion of relevant AI content.\n\nNational Artificial Intelligence Strategy 57"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Goh Yong Liang – a Grab post-graduate scholar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Grab-NUS AI lab was officially launched on 18 July 2018 to develop and nurture local AI talent.\n\nNUS post-doctoral research scientists and PhD students can work with Grab’s data and apply\n\ntheir AI expertise to create smart urban transportation solutions for Singapore and Southeast\n\nAsia. Grab has since successfully recruited 5 AI PhD graduates from the NUS School of computing\n\nand Institute of Data Science.\n\nGoh Yong Liang joined Grab in 2019 under the post-graduate scholarship programme.\n\nWe interviewed him to find out why he chose to pursue an AI PhD."
+  },
+  {
+    "depth": 3,
+    "section_id": "AI TALENT AND EDUCATION: 1",
+    "section_name": "Why are you interested in AI?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "With the increased footfall of digital services, companies are starting to collect more high-\n\nquality data. AI, to me, is a tool to create standalone digital products, and I hope to acquire\n\nthe knowledge to build them."
+  },
+  {
+    "depth": 3,
+    "section_id": "AI TALENT AND EDUCATION: 2",
+    "section_name": "What made you decide to pursue a PhD in AI, and how does this link to your career",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "aspirations?\n\nWhile working as a data scientist for three and a half years, I was constantly looking for\n\navenues to further my technical knowledge. The Grab post-graduate scholarship opportunity\n\ncame up and this felt like a great opportunity to invest my time in work that could have\n\nmajor impact. I felt that to effectively lead a technical team, I first have to establish a strong\n\nfoundation in the field, and a PhD offers that opportunity."
+  },
+  {
+    "depth": 3,
+    "section_id": "AI TALENT AND EDUCATION: 3",
+    "section_name": "Why did you choose an industry post-graduate",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "programme instead of an academic PhD programme?\n\nI chose the industry post-graduate scholarship as it\n\nallowed me to work on problems that are relevant to\n\nindustry. At the same time, I have always aspired to\n\ntranslate research work to tangible products, and the\n\nprogramme enabled this."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Shirlene Liew – an AI Apprentice’s journey",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A mechanical engineer by training, Shirlene worked on science policy and industry development\n\nin a Government agency after graduation. She first encountered data analytics when she\n\nfurthered her studies in healthcare systems and operations. That was when she became\n\nproficient in the programming language R, and also picked up some Python. She took 2 years off\n\nto be a full-time mother after the birth of her daughter, and chanced upon the AI apprenticeship\n\nprogramme from AI Singapore’s website when she was ready to re-enter the workforce.\n\nUnder the AI Apprenticeship Programme, Shirlene had the opportunity to work for a health-tech\n\nclient and helped to develop models for fraud detection in healthcare images. Although there\n\nwere times when she found the AI equations and concepts to be daunting, her personal interest\n\nin healthcare, and the supportive learning environment in the apprenticeship programme,\n\nhelped her through the challenges and made her journey a positive experience.\n\nShirlene believes that to grow in a field, it is important to be part of a community, and keeps in\n\ntouch with her peers. She now works as a product manager with a data security AI start-up.\n\nNational Artificial Intelligence Strategy 59"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "SkillsFuture Singapore partners IBM Singapore to train AI talent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "On 4 Oct 2019, SkillsFuture Singapore (SSG) announced a partnership with IBM Singapore\n\nto launch a suite of programmes in AI. The programmes will help our workers build deep\n\nknowledge and capabilities in AI and boost the implementation of relevant AI solutions\n\nwithin local enterprises.\n\nIBM is one of the first major technology partners to deliver industry-led AI training programmes\n\nfor Singaporeans. Through this partnership, IBM and SSG aim to train 2,500 Singaporeans in AI\n\nand emerging skills within the next three years. The focus will be on helping individuals apply\n\nand contribute to their work-related projects with the most up-to-date AI resources\n\nand networks.\n\nSSG and IBM have also incorporated AI content into the curriculum of the SkillsFuture for\n\nDigital Workplace programme. This will help Singaporeans understand the fundamentals\n\nof AI technology, and how they can apply AI in their workplaces and daily lives."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 2.2 Teach basic computing skills and computational thinking to all",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As AI becomes more accessible and prevalent, Singapore will need to develop AI-ready individuals\n\nwho can understand and apply AI in their respective domains. We will layer the teaching of computer\n\nscience across all learners’ journeys, with the aim of developing “bilingual individuals” who can\n\napply computer science and AI concepts in their respective domains. Students should learn basic\n\nfoundational concepts to spark their interest in AI at an early age. Later on, they should develop\n\nbasic AI competencies and literacy, and have further opportunities to deep-dive into AI applications\n\nduring higher education.\n\n• Develop AI-ready graduates. We will encourage our Institutes of Higher Learning to introduce\n\ndomain-specific AI courses, to ensure that our undergraduates understand how to apply AI\n\nto their areas of expertise and are able to leverage AI tools in their work.\n\n• AI for Industry. We will train 25,000 professionals in basic AI coding and implementation by 2025.\n\n• AI for Everyone, AI for Kids and AI for Students. We will scale AI literacy courses to 100,000 adult\n\nSingaporeans and school-going children by 2025."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 2.3 Attract top-tier global AI talent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In addition to grooming our local talent pool, Singapore must remain open to top-tier AI talent\n\nfrom around the world. These talents will help bring cutting-edge technology to Singapore, develop\n\nour local capabilities by mentoring budding AI researchers and engineers, and grow our global\n\ntalent networks.\n\n• Tech@SG Programme for Technology Companies. The Economic Development Board (EDB) and\n\nEnterprise Singapore (ESG) will pilot a programme with fast-growing technology companies to\n\nfacilitate Employment Pass applications for their core team members, which may include\n\nprofessionals equipped with deep technical skills in frontier areas such as AI. This will help\n\ncompanies tap on skilled global talent to strengthen their tech capabilities and scale quickly.\n\nNational Artificial Intelligence Strategy 61"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ECOSYSTEM ENABLER 3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "DATA ARCHITECTURE",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Data is the foundation that anchors AI collaboration between Government, industry, and research.\n\nDespite Singapore’s small size, we have natural comparative advantages in data. We can leverage our\n\nunique common identifiers to curate rich, cross-sectoral datasets. Our heterogeneous, multi-ethnic\n\npopulation gives us an edge in developing exportable AI solutions in sectors such as healthcare,\n\nbecause AI algorithms trained on Singapore’s population could potentially be scalable across Asia.\n\nSingapore’s key value proposition to global companies and talent lies in our ability to provide timely\n\nand secure access to rich, high quality datasets. We must manage our data as strategic national assets\n\nand establish an ecosystem to acquire, clean, fuse, and distribute data across the public and private\n\nsectors. At the same time, we must proactively build institutional capabilities to manage and govern\n\ndata, to protect against cyberattacks, safeguard our citizens’ data privacy, and ensure that data is used\n\nfor the public good. We will continually study industry and global best practices to identify new and\n\ninnovative ways of safeguarding data, while facilitating its effective usage. This will include enhancing\n\nour policies, legislation, technical safeguards, and organisational structures, as well as keeping abreast\n\nof and adopting frontier data security technologies.\n\nWe will begin by consolidating the data assets required for each of the National AI Projects, and put in\n\nplace the necessary data sharing frameworks and legislation to enable companies to share and exploit\n\ndata securely."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 3.1 Establish frameworks for public-private data collaboration",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We will enhance our regulatory and policy frameworks to provide greater clarity on the scope,\n\ngovernance, and technical safeguards for data sharing across the public and private sectors.\n\nThis will encourage organisations to share and use data more pervasively for legitimate use cases,\n\nand help anchor public-private data collaboration and innovation.\n\n• Private Sector Data Sharing Framework. IMDA has published the Trusted Data Sharing Framework\n\nto guide companies in establishing data sharing partnerships with each other. The Framework\n\narticulates the key legal, regulatory, and technical considerations and safeguards that each\n\norganisation should take into account, and provides sample legal clauses and templates to\n\ndraft data sharing agreements."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Trusted Data Sharing Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 63\n\n• Public-Private Data Sharing Framework. As the nation’s custodian of personal and administrative\n\ndata, the Government holds a data resource that many companies find valuable. The Government\n\ncan help drive cross-sectoral data sharing and innovation by curating, cleaning, and providing\n\nthe private sector with access to Government datasets. The envisaged Public-Private Data Sharing\n\nFramework will facilitate the sharing of Government data with non-Government entities (NGEs) and\n\nkey commercial partners, by defining the scope, type, granularity, and safeguards (people, process,\n\nand technical) of Government data that can be shared with the private sector. As a start, we will work\n\nclosely with the domain agency leads to develop this Framework to support the implementation of\n\nthe National AI Projects. We will develop a similar framework for NGEs and companies to share\n\ndata with Government agencies."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 3.2 Establish trusted data intermediaries for public-private data exchange",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Government will identify organisations to serve as trusted data intermediaries for data fusion and\n\ndistribution. These trusted entities could be situated in either the private or public sector, depending\n\non the sector, type of data, and where the majority of data are sited.\n\n• Define and promulgate common data standards to ensure data interoperability. To facilitate data\n\nfusion, the Government will work with companies in key sectors to define and promulgate a set of\n\ncommon data standards for the sector (e.g. standards for health records across restructured\n\nhospitals, private GPs and research institutes).\n\n• Curate and publish a meta-data catalogue of public-private datasets required to implement the\n\nNational AI Projects. We will also work with the trusted data intermediaries to define common data\n\nstandard and technical safeguards to anonymise, secure, and provide companies and researchers\n\nwith access to these data. This will help facilitate data discovery and anchor data and AI\n\ncollaboration between Government agencies, industry, and researchers."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Government Data Architecture (GDA)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In June 2018, Singapore’s Smart Nation and Digital Government Office launched a Government\n\nData Strategy that sets out action plans to manage data as a strategic asset and deepen the\n\nGovernment’s use of data by 2023.\n\nThe GDA is a key thrust of the Government Data Strategy, and aims to enable secure data sharing\n\nbetween Government agencies within 7 working days. It is centred on the Government putting in\n\nplace the organisational structures, technical systems, and processes and capabilities to manage\n\nand use data across its lifecycle, from problem statement definition to exploitation.\n\nThe Government has done a stocktake of its data assets and identified an initial tranche of core\n\ndatasets that are highly relevant for policy, planning, operations, and service delivery. It has\n\nestablished common definitions and standards and assigned agencies to serve as Single Sources\n\nof Truth to maintain, clean, and distribute these core Government datasets. It has also organised\n\nthese core data assets around four Trusted Centres (Individuals, Businesses, Geospatial, and\n\nSensors), which are tasked with fusing and distributing these datasets. In addition, it has built\n\ncentral digital infrastructure for public officers to securely use data and protect the identity\n\nof individuals while leveraging analytics to improve policies and services. Vault.Gov.SG is a\n\none-stop shopping portal for discovering and requesting access to core Government datasets,\n\nand Analytics.Gov.SG provides a secure virtual environment with commonly-used tools for\n\ndata analytics.\n\nThe GDA will be operationalised in phases, beginning from Oct 2019. At the same time, we are\n\nalso preparing for the future, to extend the use of data as a strategic asset at the national level\n\nand to apply digital technologies such as AI to enrich the value of our data assets."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Overview of Government Data Architecture",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Artificial Intelligence Strategy 65"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ECOSYSTEM ENABLER 4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "PROGRESSIVE AND TRUSTED ENVIRONMENT",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore’s governance and regulatory regime must strike the right balance between fostering\n\ntechnology and business innovation, while safeguarding citizens’ interests."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 4.1 Establish citizens’ trust on the responsible use of AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore has established an industry-led Advisory Council on the Ethical Use of AI and Data.\n\nThe Council advises the Government on issues arising from the commercial deployment of AI that\n\nmay require policy or regulatory attention, and industry on the responsible development and\n\ndeployment of AI.\n\nIn January 2019, Singapore published Asia’s first Model AI Governance Framework that provides\n\ndetailed and readily implementable guidance to private sector organisations to address key ethical\n\nand governance issues when deploying AI solutions.\n\nAs AI developments move beyond the confines of a research lab into our daily life, Singapore must\n\nguide and shape how AI will interact with citizens, institutions and society. We will:\n\n• develop sector-specific AI governance frameworks, including codes of practice and professional\n\ncodes of conduct for different sectors and application contexts;\n\n• curate technical solutions that enable explainable AI that industry can use to augment their\n\nAI models;\n\n• develop training and certification in AI ethics and governance for professionals managing AI\n\nsolutions and implementing AI projects, which will be overseen by Singapore Computer Society’s\n\nnewly formed AI Ethics and Governance Steering Committee; and\n\n• publish assessment guides for organisations to assess the alignment of their AI governance\n\nprocesses with the Model AI Governance Framework.\n\nSingapore will also apply multidisciplinary and human-centered approaches to study the systemic\n\nrisks and long-term impact of AI, and develop potential solutions to address them. Risk assessment\n\nin AI development should not be narrowly confined to the engineering disciplines, but also include\n\nsociologists, ethicists, economists, lawyers and policy makers. Today, Singapore’s universities are\n\nactively studying the societal implications of AI, and we will tap on their expertise.\n\n• The Singapore Management University’s Centre for AI and Data Governance will explore potential\n\noptions to address longer-term issues as AI becomes more pervasive.\n\n• The Singapore University of Technology and Design’s Lee Kuan Yew Centre for Innovative Cities\n\nis collaborating with local think-tank Live with AI and AI company DataRobot to research AI’s\n\nimpact on jobs.\n\nSingapore’s balanced approach to AI ethics and governance has attracted international attention.\n\nSingapore has been invited to take part in influential international fora such as the Organisation for\n\nEconomic Co-operation and Development (OECD) Expert Group on AI and the European Commission’s\n\nHigh-Level Expert Group on AI. In April 2019, Singapore’s work on AI Governance and Ethics won the\n\ntop award at the prestigious World Summit on the Information Society (WSIS) Prizes in the category\n\nof “Ethical Dimensions of the Information Society”. In November 2019, Singapore was invited to\n\npresent its human-centric approach to AI at the Paris Peace Forum.\n\nNational Artificial Intelligence Strategy 67"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Veritas – an implementation framework for AI governance in the finance sector",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Artificial Intelligence and Data Analytics (AIDA) driven decisions, without proper governance\n\nand accountability structures, may potentially erode the fabric of financial services. For these\n\nreasons, the Monetary Authority of Singapore (MAS) worked with the financial industry to\n\nco-create a set of principles to guide the responsible use of AIDA in financial services.\n\nCentred around trust, the principles consist of four key pillars – Fairness, Ethics, Accountability\n\nand Transparency (FEAT) and were released in 2018. The principles have established a standard\n\nacross the financial sector in Singapore and various jurisdictions have adopted similar principles\n\nto guide the adoption of AIDA.\n\nNevertheless, the practical implementation of the FEAT principles remains challenging for the\n\nindustry. This is to be expected – translating philosophical concepts into mathematical and\n\nscientific language is a daunting exercise. These challenges have curtailed the adoption of\n\nAIDA in the industry. To overcome these challenges and accelerate AIDA adoption in the\n\nfinancial industry, MAS is collaborating with multiple parties to create a standardised\n\nmodular implementation framework of the FEAT principles, called Veritas.\n\nWe envisage that Veritas will comprise tools for institutions to validate their models against the\n\nFEAT principles. Veritas will be applicable to different business lines, different principles as well\n\nas differing regulatory and legal regimes. The goal is to produce the world’s first framework that\n\nfinancial institutions can use to evaluate their governance of AIDA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "SMU’s Centre for AI and Data Governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Research Programme on Governance of AI and Data Use was setup at Singapore Management\n\nUniversity (SMU) School of Law in 2018 with funding for S$4.5m over five years. It complements\n\nother technical R&D initiatives in Singapore and aims to achieve the following:\n\n1. Promote cutting edge thinking and practices in AI and data policies and regulations;\n\n2. Inform AI and data policy and regulation formulation in Singapore through research\n\npublications and stakeholder engagement activities; and\n\n3. Establish Singapore as the global thought leader in AI and data policies and regulations.\n\nThe research agenda for the initial 5 years includes:\n\n1. AI & Society: Understand issues that bear on most members of the public, such as attitudes\n\ntowards AI and data protection.\n\n2. AI & Business: Examine issues relevant to the corporate sector as a whole, such as\n\nintellectual property and trade.\n\n3. AI in Specific Industries: Focus on three specific domains, namely autonomous vehicles,\n\ndispute resolution, and the financial industry.\n\nIMDA supports the Research Programme by engaging local and international stakeholders\n\nto partner the Centre to conduct industry-relevant research on AI ethics and governance.\n\nOn 24 September 2018, Singapore Management University launched the Centre for AI and\n\nData Governance (CAIDG). Front L-R: Prof Goh Yihan, Prof Lily Kong, SMS Janil Puthucheary,\n\nMr Yeong Zee Kin\n\nNational Artificial Intelligence Strategy 69"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Live with AI, SUTD Lee Kuan Yew Centre for Innovative Cities and DataRobot’s joint research on AI and work",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "INTRODUCTION TO LIVE WITH AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Live with AI is a non-profit foundation based in Singapore, which believes that AI will impact\n\nour society positively and contribute to accelerating human development. The foundation\n\ngathers thought leaders, decision-makers, and international researchers to lead working\n\ngroups and research projects. Its 2019 report covers 3 pillars: (i) AI & Work; (ii) AI & Healthcare;\n\nand (iii) AI & Society.\n\nAI & WORK\n\nIn 2019 the Live with AI community, in partnership with the Lee Kuan Yew Centre for Innovative\n\nCities and DataRobot, researched the impact AI has on multiple tasks within jobs, in order to\n\nbetter understand the workforce disruption and potential scenarios which may happen\n\nin different industries. The findings were as follows:"
+  },
+  {
+    "depth": 3,
+    "section_id": "PROGRESSIVE AND TRUSTED ENVIRONMENT: 1",
+    "section_name": "AI won’t simply replace Humans",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The AI revolution will not only create jobs for computer specialists. Thanks to the principle\n\nof comparative advantage, AI-enhanced human roles will emerge as well."
+  },
+  {
+    "depth": 3,
+    "section_id": "PROGRESSIVE AND TRUSTED ENVIRONMENT: 2",
+    "section_name": "AI and Work: Equal to the Task",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI disrupts jobs task by task and not job by job. All workers can take advantage of this\n\nto disrupt disruption. We can use tasks to better track technology impact, chart clearer\n\npathways between jobs, and improve work prospects for people."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strengthen Your Human Skills",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Strengthen Your Human Skills: 3",
+    "section_name": "How to Work with AI: Strengthening your",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Human Skills\n\nTo get prepared for the AI revolution,\n\nemployees must focus on enhancing\n\ntheir innately human skills."
+  },
+  {
+    "depth": 3,
+    "section_id": "Strengthen Your Human Skills: 4",
+    "section_name": "Automation Needs You to Think More about",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Humans, Not Less\n\nTaking into account the “human cause” in an\n\nautomation journey means augmenting a task\n\nthat satisfies the worker, not replacing it."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 4.2 Provide a top-class IP regime and accelerated patent initiatives for AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI companies seeking to grow and expand internationally will need to develop a clear intangible asset\n\n(IA) and intellectual property (IP) strategy. To support companies, the Intellectual Property Office of\n\nSingapore (IPOS) has launched a new enterprise engagement arm, IPOS International, to provide\n\nthem with customised IA solutions and programmes.\n\nWe will review Singapore’s IP legislation to ensure that our laws support the development and\n\ncommercialisation of new AI technologies. Having clear legislation will provide certainty for AI\n\ninnovators in commercialising new products and services.\n\nIPOS has also introduced the Accelerated Initiative for Artificial Intelligence (AI²), the world’s fastest\n\npatent-acceleration programme³ that grants applicants an AI patent within six months. A new ASPEC-\n\nAIM (Acceleration for Industry 4.0 Infrastructure and Manufacturing) initiative by the ASEAN IP offices\n\nalso allows applicants to fast-track patent applications for key emerging technologies in the region.\n\n³ Average pendency times between first office action and final decision range between 9.2mths to 95.1mth.\n\nSource: WIPO World Intellectual Property Indicators 2018\n\nNational Artificial Intelligence Strategy 71"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Alibaba granted AI patent within three months",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In June 2019, IPOS received an application for an AI invention by Alibaba Group Holdings Limited\n\n(Alibaba) via its online application portal (IP2SG), which included a separate application for\n\neligibility under the AI² scheme. The application fulfilled the requisite conditions under the\n\nscheme and was eligible for fast-track examination. The assigned patent examiner conducted\n\nextensive global searches to ensure the patentability of the AI invention. Given the well-drafted\n\npatent specification, the examiner was able to issue a positive search and examination report,\n\nsubsequently leading to the expedited grant of the patent within three months.\n\nComplementing Singapore’s efforts in supporting enterprises to accelerate their go-to-market\n\nstrategy, Dr Benjamin Bai, Vice President and Chief IP Counsel of Ant Financial, Alibaba said:\n\n“Companies looking to implement AI solutions globally have grown exponentially. Against this\n\nbackdrop, the speed at which a patent can be granted is critical. Singapore plays a pivotal role\n\nas it facilitates our entry into markets of our interest rapidly. We applaud the efficiency and\n\nspeed of Singapore’s IP office, and look forward to filing more patent applications in Singapore\n\nunder this initiative.”\n\nMs Sharmaine Wu, Director, Registries of Patents, Designs and Plant Varieties,\n\nIPOS presents the patent grant certificate to Dr Benjamin Bai, Vice President and\n\nChief IP Counsel, Ant Financial, Alibaba."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ECOSYSTEM ENABLER 5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "INTERNATIONAL COLLABORATION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "International collaboration is essential for driving sustainable development of AI. Singapore has\n\na meaningful role to play to support this global effort. We will continue to be an open and neutral\n\nplatform where international researchers and businesses can work together."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 5.1 Contribute to global standards for AI-related policies and guidelines",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore will strive to be a useful contributor and thought leader in setting AI-related policies and\n\nstandards. We will collaborate with influential industry advocates to apply these principles in industry,\n\nand work closely with key international organisations and standard-setting organisations such as the\n\nWorld Economic Forum (WEF), the OECD, the International Organisation for Standardisation (ISO),\n\nand the International Electrotechnical Commission (IEC) to participate in the standards setting and\n\nnorm-shaping processes actively.\n\nNational Artificial Intelligence Strategy 73"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Collaboration with the WEF on the Model AI Governance Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Singapore collaborated with the WEF Centre for the Fourth Industrial Revolution (C4IR) to\n\nenhance the Model AI Governance Framework and to promote its adoption. To this end,\n\nthe C4IR has been conducting industry workshops in San Francisco to solicit input, feedback,\n\nand obtain use cases from companies within its network.\n\nThe output of these workshops will be incorporated into the Model AI Governance Framework\n\nto provide organisations implementing AI solutions useful examples and practices on\n\nresponsible use of AI.\n\nModel AI Governance workshop conducted in San Francisco with 40+ CTOs\n\nand tech leaders from around the world on 1 August 2019 in collaboration with\n\nWorld Economic Forum Centre for the Fourth Industrial Revolution."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Thrust 5.2 Collaborate on multi-national AI projects",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Many AI projects during their testing phase will need to test their products internationally for\n\nexternal validation; Singapore can play a role in bringing together an international network\n\nof multi-site test beds for AI solutions, starting with the 5 National AI Projects."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "International Collaboration in AI research by AI Singapore",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Singapore has established ties with many countries to catalyse joint AI research pursuits.\n\nAn example is the AI partnership between Singapore and France, which aims to advance\n\ninnovation and research in areas of mutual interest to achieve world-class scientific and\n\ntechnical results, leading to new and innovative technologies. In July 2018, AI Singapore, the\n\nFrench Institute for Research in Computer Science and Automation (INRIA), the French National\n\nCentre for Scientific Research (CNRS), and the French Institute of Health and Medical Research\n\n(INSERM) signed a Memorandum of Understanding on research collaboration in five focus areas:\n\nAI in Healthcare, Explainable AI, Federated and Distributed Learning, Natural Language Processing\n\nand Privacy, Trust & Accountability in AI and Data Sharing.\n\nThe MOU on AI cooperation was signed in July 2018 in the presence of Singapore’s\n\nMinister for Trade and Industry Mr Chan Chun Sing, France’s Minister for Higher\n\nEducation, Research and Innovation Frédérique Vidal, Deputy Chief of Mission,\n\nEmbassy of Singapore in Paris Karen Ong, CEO of Inserm Yves Levy, CEO of INRIA\n\nBruno Sportisse and CEO of CNRS Antoine Petit.\n\nNational Artificial Intelligence Strategy 75"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "WORKING TOGETHER",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "5\n\nNational Artificial Intelligence Strategy 77"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ORGANISING OURSELVES FOR SUSTAINABLE SUCCESS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We have established a National AI Office under the Smart Nation and Digital Government Office.\n\nThe National AI Office will set the national agenda for AI and catalyse efforts across research, industry,\n\nand Government stakeholders to work on national AI priorities.\n\nThe National AI Strategy requires a whole-of-nation effort, with Singaporeans, businesses, researchers\n\nand the Government working closely together. Singapore will also need to work with international\n\npartners to advance the deployment of AI in Singapore.\n\n1. National AI Projects. We have announced a first tranche of five National AI Projects centred on key\n\nchallenges. We invite researchers, companies, and individuals to propose solutions, or to suggest\n\nnew National AI Projects.\n\n2. Transform your business with AI. No matter the size of your company, you can begin your AI\n\ntransformation journey today by building up your technological capabilities and digital\n\ninfrastructure. There are many avenues where companies can receive support from the Government.\n\nIf you are a company that is already adopting AI, take part in data sharing initiatives to promote\n\ngreater use of AI, and contribute to a trusted environment by adopting AI governance initiatives.\n\n3. Participate in Singapore’s AI ecosystem. As we transform our key sectors through AI, there will\n\nbe an abundance of opportunities for businesses to research, develop and deploy AI solutions\n\nin Singapore for the region. Both local and international investors can consider establishing an\n\nAI team in Singapore, and leveraging Singapore’s research ecosystem to enhance and validate\n\nnew AI methodologies.\n\n4. Learn about AI. Given that AI can be applied to any field, it will be important for workers to\n\nunderstand how AI can be applied in their respective domains. Find out about the opportunities\n\nfor you to learn the skills necessary to participate in the AI economy.\n\nFor more information on how to be involved in the National AI Strategy, visit go.gov.sg/AIStrategy"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Conclusion",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We will develop and implement the National AI Strategy iteratively, to respond to the rapidly changing\n\ntechnology landscape and to seize new opportunities. The 5 National AI Projects and 5 ecosystem\n\nenablers are but a first step in our multi-year AI journey. We will continue to embark on more National\n\nAI Projects and adjust the enablers as we learn through implementation. This is a whole-of-nation\n\neffort, and we welcome ideas and action from individuals and companies to help deliver our AI vision\n\nfor Singapore. Let us work together to build a Smart Nation, to improve lives and make Singapore an\n\noutstanding place to live, work and play.\n\nNational Artificial Intelligence Strategy 79"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "WHAT THE EXPERTS SAY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "6\n\nNational Artificial Intelligence Strategy 81"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Mr Andreas Ebert",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Worldwide National Technology Officer, Microsoft Corporation\n\nWith computers capable of understanding humans for the first time, the world is at an inflection\n\npoint − with implications extending beyond technology into economy and national development.\n\nAlready a global thought leader on AI ethics and governance, the publication of the National\n\nAI Strategy is evidence that Singapore is taking a holistic and inclusive approach on how the nation\n\ncan be a fast adopter of best-in-class technology that is empowered by a focus on building national\n\ncapabilities. When you underpin all of these with trust, through Singapore’s Trusted Data Sharing\n\nFramework and international digital economy agreements, this geographically little island nation is\n\nexcellently positioned to play a leading role in facilitating cross border data flows that will realize\n\nAI applications and services to improve people’s lives and local businesses. Microsoft is committed\n\nto the success of Singapore’s AI and data journey, and we look forward to contributing to the\n\nimplementation of the Strategy."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Dr Andrew Ng",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CEO and Founder, Landing AI\n\nThe world has caught on to the power of artificial intelligence, but we have still barely scratched\n\nthe surface. To move the world forward, we will need millions more AI engineers. We also need to\n\neducate our leaders across government, businesses and academia so they can build AI solutions\n\nthat bring positive change to their communities.\n\nHaving grown up in Singapore, I’ve seen firsthand its excellent educational system, which gives\n\nstudents a strong foundation in math and science, as well as its international connections and ability\n\nto attract ideas and talent from around the world. Singapore already has a strong foundation on top\n\nof which to build AI. The National Artificial Intelligence Strategy outlines several important, actionable\n\nsteps that build on these strengths. These include:\n\n• Thoughtful regulations. Singapore has an opportunity to enact thoughtful regulations that\n\nallow for innovation and experimentation while protecting citizens’ safety. Sound regulations\n\nempower Singaporean AI engineers to work on cutting-edge problems that can immediately\n\nbenefit their community.\n\n• Human-centric approach. Singapore is simultaneously training talent to work on major technological\n\ndevelopments and investing resources in retraining and education programs. Building social\n\nprograms and technology in parallel, Singapore can prepare its citizens for changes and transitions\n\nin an AI-powered future.\n\n• Sectoral transformation. Singapore’s AI Strategy focuses on several use cases that can immediately\n\nbenefit the nation. These use cases − spanning healthcare, manufacturing, logistics, security,\n\neducation and more − will merge Singapore’s engineering talent together with real companies\n\nin order to develop more impactful real-world solutions.\n\nSilicon Valley and Beijing have been global leaders in AI research and developing AI-first startups.\n\nBut Singapore’s vision lies in becoming a leader in developing and deploying scalable, impactful\n\nAI solutions in key sectors by 2030. I commend Singapore for leading the way in globalizing and\n\ndemocratizing the next wave of artificial intelligence.\n\nSingapore has all the pieces needed to become a regional AI hub. To everyone working on\n\nbuilding this vision, I say: Majulah Singapura!"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Professor Ho Teck Hua",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Executive Chairman, AI Singapore\n\nSenior Deputy President and Provost, and Tan Chin Tuan Centennial Professor,\n\nNational University of Singapore\n\nThe Singapore government has always been deliberate in envisioning, planning, and executing\n\nits Smart Nation initiatives.\n\nThe National Artificial Intelligence Strategy (NAIS) maps out a bold and concrete plan to develop and\n\ndeploy digital and AI technologies across economic sectors. The NAIS identifies powerful use cases that\n\nhave the potential to transform industry and improve the lives of people in Singapore. AI has the power\n\nto amplify human potential and multiply our productivity. It will create many new and exciting jobs\n\nand power the growth of our digital economy.\n\nAI Singapore is excited to be a key implementer of the NAIS. We will champion deep research and\n\ntechnology translation, accelerate AI adoption by industry, and develop a strong pipeline of AI talent.\n\nWe will help to build a strong and vibrant AI Ecosystem, to attract global AI talent and companies,\n\nand to make Singapore a leading hub for AI.\n\nNational Artificial Intelligence Strategy 83"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Professor Isaac Ben Israel",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chairman, Israel Space Agency\n\nDirector, Blavatnik Cyber Research Centre, Tel-Aviv University\n\nCo-chair, Israel National Task Force for AI\n\nThe dominant technology of our century is computer technology, and its latest application is AI.\n\nAI is impacting nearly every facet of our lives, with machine learning becoming more capable\n\nand improving efficiencies in daily life. Thus, understanding and developing AI is key for the\n\nfuture of our world.\n\nSingapore has all the ingredients to be, within a decade or so, a world leader in this\n\nemerging technology.\n\nActually, Singapore has some relative advantages that promise an excellent start: educated people\n\nand highly developed education system, knowledge based economy and effective government.\n\nWith the right strategy, AI can transform national-level planning and significantly raise the quality\n\nof public goods like transport, education and healthcare, raise productivity, and enable the creation\n\nof valuable products and solutions for the Singapore market and beyond, and overall improving\n\nsignificantly the lives of Singaporeans.\n\nAltogether, Singapore took today a huge step ahead, leading the way to a more efficient future."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Mr Jean Francois Gagné",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Co-Founder and CEO, Element AI\n\nThe pace of change in the field of AI is dramatic and being an inspiring leader is the only way to\n\nunlock transformative value for society. Singapore is becoming a leader in AI, with its increased\n\nfocus and investments across its burgeoning AI ecosystem which is supported by its sound\n\ngovernance and regulatory frameworks.\n\nThe National AI Strategy (NAIS) is an ideal starting point from which the public and private sectors\n\ncan rally behind key national initiatives and ensure that AI initiatives improve the lives of\n\nSingaporeans. Element AI is a strong advocate of using human-centric principles that are ethical,\n\ntransparent and trustworthy for the design, deployment and adoption of AI.\n\nElement AI is strongly committed to partnering with Singapore in its mandate to develop a nation\n\ndriven by innovation between government, academia and industry. Our role as a member of this\n\necosystem is to bring world-class research and technology to ensure the NAIS delivers sustainable\n\ngrowth and positive impact from AI, both at a national level and across the region."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Mr Jeff Zhang",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chief Technology Officer, Alibaba Group\n\nPresident, Alibaba Cloud Intelligence\n\nThe launch of the National AI Strategy further affirms our decision to work closely with Singapore\n\nto build its digital economy. Singapore has consistently demonstrated its foresight and tenacity to\n\nfulfil the nation’s objectives, as demonstrated in its strong talent base and world-leading research\n\ninstitutions. This is what first drew us to set up Alibaba Cloud’s international headquarters and Alibaba\n\nCloud’s first overseas research institute in Singapore. We have subsequently embarked on partnerships\n\nwith A*STAR, the National University of Singapore and the Nanyang Technological University to expand\n\nAI ecosystems across advanced manufacturing, fintech, retail, tourism and smart city management\n\nunder the Smart Nation initiative. With the launch of the National AI Strategy, Singapore is well placed\n\nto harness the transformative potential of AI and data intelligence to empower industry across sectors."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Dr Richard Socher",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chief Scientist, Salesforce\n\nSingapore is a regional and global leader when it comes to AI. Singapore’s National AI Strategy (NAIS)\n\nwill help propel Singapore to continue to harness AI effectively and develop these skills\n\nand capabilities locally.\n\nThis is evidenced in Salesforce’s Research Asia hub in Singapore, our first outside the United State\n\nto develop AI talent and the AI ecosystem. A deliberate decision, based on Singapore’s AI focus\n\nand capability.\n\nI congratulate the Government of Singapore on the NAIS, a forward-looking vision to steer\n\nSingapore to the forefront of AI.\n\nNational Artificial Intelligence Strategy 85"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Professor Tang Xiao’ou",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Founder, SenseTime\n\nProfessor, Chinese University of Hong Kong\n\nThe National AI Strategy (NAIS) is the turnkey to drive whole-of-nation AI innovation and adoption,\n\nand to build long-term industry trust through responsible AI governance in Singapore. It is an\n\nambitious plan that will position Singapore as a leading AI hub in the region.\n\nThe NAIS will further empower SenseTime, an AI technology platform company, to establish\n\nour Singapore base as a living lab to test and scale innovative AI solutions for the global stage,\n\nand to facilitate international collaboration.\n\nWe are confident in further contributing to Singapore’s AI ecosystem and the empowerment of\n\nSingapore’s various strategic industries. The NAIS’ concrete talent development plan, in particular,\n\naligns with our commitment to harness the local talent pool to strengthen our core capabilities\n\nin Singapore and beyond."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "V.K. Rajah, SC",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chairman, Advisory Council on the Ethical Use of AI and Data\n\nThe launch of the National AI Strategy is timely. In the near future, AI is likely to pervasively affect\n\nand influence all aspects of our lives in many ways. As a society, we must be alive to its benefits and\n\npotential pitfalls. Trust is crucial to the adoption of AI, and building trust is a multi-stakeholder\n\neffort involving public, private and people sectors.\n\nSingapore has shown thought leadership in developing a human-centric approach to AI governance\n\nthat balances the need for innovation and consumer protection. Our voluntary Model AI Governance\n\nFramework was the first national framework in Asia that provides practical guidance to organisations\n\non how to implement AI responsibly. This is just the start of a never ending journey. We need to\n\ncontinue to identify and address the ethical concerns that AI brings. The Advisory Council on the\n\nEthical Use of AI and Data fully supports this national effort to create an enabling environment\n\nfor our businesses and citizens."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Dr Yan Shuicheng",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chief Technology Officer, Yitu Tech\n\nIn the past decade, Singapore’s AI researchers have made fruitful contributions to fundamental\n\nAI research. Their accomplishments have been recognised by the international AI research community,\n\nwith frequent awards in flagship AI competitions and many high-impact AI publications. Now, it is\n\ntime for us to take a step forward and consider how to transform these AI research capabilities into\n\nactual impact and value for our society and economy. To realise such a transformation, building an\n\nAI ecosystem is very crucial, as is identifying the proper business scenarios that would benefit from AI.\n\nThe 5 national AI projects and 5 ecosystem enablers proposed in the National AI Strategy (NAIS) will\n\ngenerate great momentum for the transformation process.\n\nBeyond nurturing AI talents, how to attract and anchor these AI talents is an even bigger challenge.\n\nIt is believed that the best way to do so is to incubate more fast-growing local startups. When more\n\nSingapore-based startups are internationally recognised, even more AI talents would be willing to join\n\nthem and relocate to work in Singapore, thus gradually forming a strong and healthy talent community.\n\nThe NAIS provides great opportunities for incubating fast-growing local startups through offering help\n\nin building the different key AI ecosystem enablers, including talents, data, business scenarios,\n\nand global collaborations. I am excited by the opportunities ahead and am confident that Singapore\n\nwill be a leading player in AI."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "BROUGHT TO YOU BY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "PARTNERING AGENCIES",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Published November 2019\n\nCopyright © 2019 by Smart Nation Digital Government Office. Not to\n\nbe reproduced unless with explicit consent from Smart Nation Digital\n\nGovernment Office. First released in November 2019.\n\nAll rights reserved. No part of this publication may be reproduced,\n\nstored in a retrieval system or transmitted, in any form or by any means,\n\nelectronic, mechanical, photocopying, recording or otherwise, without the\n\nprior written permission of the copyright owner."
+  }
+]

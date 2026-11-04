@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/agid.gov.it/strategia-italiana-ia@2022-2024",
+  "name": "Strategic Program on Artificial Intelligence 2022-2024",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022-2024",
+  "publication_id": "strategia-italiana-ia-2022-2024",
+  "owner": "Agenzia per l'Italia Digitale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Strategic Program on Artificial Intelligence 2022-2024 (adopted November 24, 2021). Italy's national artificial intelligence strategy prepared for the Presidency of the Council of Ministers (Department for Digital Transformation) and AgID, setting national priorities across scientific research, public administration adoption, enterprise transformation, and education.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per l'Italia Digitale (agid.gov.it) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per l'Italia Digitale (agid.gov.it).",
+  "license": {
+    "spdx": "Government-Open-Access",
+    "Grouping": "Permissive",
+    "note": "Official national strategy publication (agid.gov.it); publicly released for reference and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf",
+    "textUsed": "https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-11-24",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/agid.gov.it/strategia-italiana-ia@2024-2026",
+    "retiredFromActiveUse": "2024-07-18",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 40-page PDF (https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf) locally via PyMuPDF (82,595 chars). Parsed 83 sections (9 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

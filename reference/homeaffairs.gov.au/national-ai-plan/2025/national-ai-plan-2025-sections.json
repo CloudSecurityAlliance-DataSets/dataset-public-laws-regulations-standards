@@ -1,0 +1,26 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Australian Government National AI Plan (2025)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "1",
+    "section_name": "Document Identification and Mandate",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "**SecID:** `secid:reference/homeaffairs.gov.au/national-ai-plan@2025`  \n**Issuing Authority:** Department of Home Affairs (`homeaffairs.gov.au`)  \n**Edition / Version:** `2025`  \n**Primary Source URL:** https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence\n\nAustralian Government National AI Plan (2025). Whole-of-government artificial intelligence strategy and governance framework coordinated by the Department of Industry, Science and Resources (DISR) and the Australian Government."
+  },
+  {
+    "depth": 2,
+    "section_id": "2",
+    "section_name": "Strategic Scope and National Security Context",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Whole-of-government artificial intelligence strategy and governance framework coordinated by the Department of Industry, Science and Resources (DISR) and the Australian Government."
+  }
+]

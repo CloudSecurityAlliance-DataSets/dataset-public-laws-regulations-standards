@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024",
+  "name": "Operational Technology Cybersecurity Masterplan 2024",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "ot-cybersecurity-masterplan-2024",
+  "owner": "Cyber Security Agency of Singapore",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Operational Technology Cybersecurity Masterplan 2024 (August 20, 2024). Strategic roadmap published by CSA Singapore to strengthen the cyber resilience of Critical Information Infrastructure (CII) and industrial control / operational technology (OT) systems.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
+  "license": {
+    "spdx": "Singapore-Open-Data-Licence-1.0",
+    "Grouping": "Permissive",
+    "note": "Government of Singapore Open Data Licence v1.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024",
+    "textUsed": "https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-08-20",
+    "active": true,
+    "supersedes": "secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Generated structured reference summary from verified SecID registry metadata for secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024 (885 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

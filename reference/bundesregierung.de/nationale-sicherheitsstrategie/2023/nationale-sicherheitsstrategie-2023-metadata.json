@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/bundesregierung.de/nationale-sicherheitsstrategie@2023",
+  "name": "Wehrhaft. Resilient. Nachhaltig. Integrierte Sicherheit für Deutschland: Nationale Sicherheitsstrategie (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "nationale-sicherheitsstrategie-2023",
+  "owner": "Bundesregierung der Bundesrepublik Deutschland",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "First National Security Strategy of the Federal Republic of Germany (adopted June 14, 2023). Germany's first comprehensive National Security Strategy, adopted by the Federal Cabinet on June 14, 2023 under the concept of 'Integrated Security' (Integrierte Sicherheit) across three dimensions: Defence-mindedness (Wehrhaft), Resilience (Resilient — including cyber, space, and critical infrastructure protection), and Sustainability (Nachhaltig).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de).",
+  "license": {
+    "spdx": "dl-de-by-2.0",
+    "Grouping": "Permissive",
+    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nationalesicherheitsstrategie.de/Sicherheitsstrategie-en.pdf",
+    "textUsed": "https://www.nationalesicherheitsstrategie.de/Sicherheitsstrategie-DE.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-06-14",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 76-page PDF (https://www.nationalesicherheitsstrategie.de/Sicherheitsstrategie-DE.pdf) locally via PyMuPDF (153,014 chars). Parsed 31 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

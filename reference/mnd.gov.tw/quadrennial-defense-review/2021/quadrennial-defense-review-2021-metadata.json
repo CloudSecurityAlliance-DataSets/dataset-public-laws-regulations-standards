@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/mnd.gov.tw/quadrennial-defense-review@2021",
+  "name": "Republic of China Quadrennial Defense Review (四年期國防總檢討) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "quadrennial-defense-review-2021",
+  "owner": "Ministry of National Defense (Taiwan)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Republic of China Quadrennial Defense Review (四年期國防總檢討)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defense (Taiwan) (mnd.gov.tw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defense (Taiwan) (mnd.gov.tw).",
+  "license": {
+    "spdx": "OGDL-Taiwan-1.0",
+    "Grouping": "Permissive",
+    "note": "Open Government Data License, version 1.0 (Taiwan)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mnd.gov.tw/en/InformationServices/QDR",
+    "textUsed": "https://www.mnd.gov.tw/en/InformationServices/QDR",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-03-18",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/mnd.gov.tw/quadrennial-defense-review@2025",
+    "retiredFromActiveUse": "2025-03-21",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.mnd.gov.tw/en/InformationServices/QDR) to Markdown (1,772 chars). Parsed 6 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

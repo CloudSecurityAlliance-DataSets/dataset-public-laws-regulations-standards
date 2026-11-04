@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/gov.uk/national-ai-strategy@2021",
+  "name": "National AI Strategy (CP 525, 2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-ai-strategy-2021",
+  "owner": "UK Government",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National AI Strategy (Command Paper CP 525, September 22, 2021). United Kingdom national artificial intelligence strategy publications, comprising the January 2025 AI Opportunities Action Plan (CP 1241, 50 recommendations adopted by HM Government via CP 1242) and the September 2021 National AI Strategy (CP 525).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by UK Government (gov.uk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for UK Government (gov.uk).",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "Grouping": "Permissive",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/national-ai-strategy",
+    "textUsed": "https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-09-22",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gov.uk/national-ai-strategy@2025",
+    "retiredFromActiveUse": "2025-01-13",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf) from landing page (https://www.gov.uk/government/publications/national-ai-strategy); extracted 35-page PDF via PyMuPDF (135,691 chars). Parsed 73 sections (4 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

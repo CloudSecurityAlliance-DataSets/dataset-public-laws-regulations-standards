@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/bundesregierung.de/ki-strategie@2018",
+  "name": "Artificial Intelligence Strategy of the German Federal Government (2018)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "ki-strategie-2018",
+  "owner": "Bundesregierung der Bundesrepublik Deutschland",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Artificial Intelligence Strategy of the German Federal Government (adopted November 15, 2018). National artificial intelligence strategy of the German Federal Government (jointly led by BMBF, BMWK, and BMAS), establishing Germany and Europe as a leading AI hub focused on research excellence, industrial transfer, responsible/human-centric AI governance, and compute infrastructure.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de).",
+  "license": {
+    "spdx": "dl-de-by-2.0",
+    "Grouping": "Permissive",
+    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ki-strategie-deutschland.de/files/downloads/Nationale_KI-Strategie_engl.pdf",
+    "textUsed": "https://www.ki-strategie-deutschland.de/files/downloads/Nationale_KI-Strategie_engl.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-11-15",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/bundesregierung.de/ki-strategie@2020",
+    "retiredFromActiveUse": "2020-12-02",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 45-page PDF (https://www.ki-strategie-deutschland.de/files/downloads/Nationale_KI-Strategie_engl.pdf) locally via PyMuPDF (165,266 chars). Parsed 44 sections (18 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

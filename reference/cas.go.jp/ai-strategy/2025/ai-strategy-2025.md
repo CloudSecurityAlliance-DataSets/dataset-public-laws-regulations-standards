@@ -1,0 +1,373 @@
+# Artificial Intelligence Basic Plan (人工知能基本計画)
+
+※Please refer to the original text for accuracy
+
+ARTIFICIAL INTELLIGENCE BASIC PLAN
+
+— “Japan Rebooted” through “Trustworthy AI” —
+
+December 23, 2025
+
+Cabinet Decision
+
+## Table of Contents
+
+Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the world” —
+
+Chapter 2 Basic Policies on Measures for Promoting AI Innovation
+
+Chapter 3 Measures by the Government to Promote AI Innovation
+
+Section 1 Accelerating AI Deployment
+
+Section 2 Strategic Approach for AI Development
+
+Section 3 Leading AI Governance
+
+Section 4 Sustainable Transformation Toward an AI Society
+
+Chapter 4 Matters Necessary for the Government to Comprehensively and Systematically Advance Measures
+
+for Promoting Research and Development, and Deployment of AI-related Technology
+
+Section 1 Implementation Structure and Follow-up for the AI Basic Plan
+
+Section 2 Revisions to the AI Basic Plan
+
+Section 3 Coordination with Other Plans
+
+### Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the
+
+### world” —
+
+(A world transformed by AI and Japan’s current situation) Artificial intelligence (hereinafter “AI”) is undergoing rapid technological advancement, led by generative AI. Entering 2025, new AI-related technologies have been advancing, such as “AI agents” that can autonomously execute business operations, and “physical AI” that moves robots and other devices in the real world. AI is becoming indispensable for sustainable global development, as it greatly improves efficiency and convenience across diverse fields, enables new scientific discoveries, and amplifies human creativity.
+
+Around the world, AI is increasingly used in everyday life—from shopping and travel advice to drafting documents. Public and private sectors alike are strengthening initiatives that view AI as a factor directly linked to industrial competitiveness and national security, and one that influences national strength, forming an “all-out effort.” Japan cannot afford to fall behind.
+
+At the same time, in Japan AI is not yet actively used in daily life and work. Investments and development relating to AI also lag behind not only major economies but even some countries with smaller economic scale, with this lag becoming increasingly pronounced each year. Given Japan’s many social challenges—including acute labor shortages across regions—that’s why Japan must face AI ahead of the rest of the world and proactively promote its use. In the field of AI, where basic research and social implementation are closely connected, the lack of progress in implementation has become a major bottleneck for AI development in Japan.
+
+Now is the time to proactively advance AI deployment and research & development, and build and execute a national strategy for AI, starting with the promotion of “AI innovation” -launching transformations in the economic and social structure as well as creating additional value.
+
+(What Japan aims to achieve through “AI innovation”) Beyond efficiency and productivity gains that enable timely and reliable execution of operations, AI can also create new businesses and markets that lead to further development, and help solve social issues to achieve inclusive growth. Moreover, it could also serve as a means to resolve longstanding challenges facing Japan's economy and society, such as population decline, insufficient domestic investment, and stagnant wages.
+
+AI will improve the quality of life for citizens and enable a safe and secure society—including in health and medical care and disaster management. As a “dual-use” technology, AI can also contribute to more advanced national security technologies and peacebuilding.
+
+Proactively advancing AI innovation will unlock Japan’s latent potential. By enhancing the high added-value of Japan’s human resources and industries domestically, while also promoting outward-looking policies that promoting overseas expansion of domestic talent and industries in light of curbing digital deficits, Japan will pursue a combined domestic and international approach.
+
+When promoting AI innovation, it is not enough simply to create innovation itself. What is essential is trustworthiness. This trustworthiness is a core pillar of Japan’s globally respected brand, built on the long‑established belief that products made in Japan are of high quality and reliable. It is essential to reproduce this strength in the field of AI as well.
+
+Across Japan’s many various workplaces, we will actively apply AI to pressing challenges, accumulate experience as data, and share it across organizations to create “Trustworthy AI” that is reliable presence for the world. With open model development, exploration of physical AI, and research & development for AI-driven operations, Japan will lead the world and expand AI’s frontier. Anchored by “Trustworthy AI,” Japan will coordinate diverse AI innovations across countries.
+
+(A moment for a “recovery push”) The competitive landscape around AI is changing rapidly. In addition to investment in foundation models, the market is increasingly valuing applications specialized by industry and operations that create concrete value. Although Japan fell behind in investment scale, Japan now has an excellent opportunity to find its competitive edge through “Trustworthy AI,” supported by a very broad industrial base.
+
+We must thoroughly instill the active use of “Trustworthy AI” throughout society, turn the cycle from mere “deployment” to “development,” and, leveraging Japan’s strengths—high-quality data in industry, healthcare, and research and world-class communications infrastructure—launch an “recovery push” together with the world. AI that solves Japan’s challenges will also contribute to solving global challenges.
+
+(Mitigating risks) AI presents multiple risks: technical risks such as misjudgments, hallucinations, and inappropriate outputs; social risks such as discrimination and bias, criminal use, excessive dependence, infringements on privacy and intellectual property, environmental burdens, and spread of disinformation and misinformation; and national security risks including cyberattacks. These risks understandably cause public anxiety.
+
+To foster momentum for “trying out AI,” and realize a virtuous cycle from “deployment” to “development,” it is essential to appropriately and promptly identify risks that fluctuate alongside technological advances in AI, ensure appropriateness—starting with transparency, fairness, and safety—and thereby embody safe, secure and “Trustworthy AI” to dispel public anxiety.
+
+(Toward Becoming “the most AI-friendly country in the world”) Japan has pursued AI strategy through promoting innovation while mitigating risks. To further evolve the strategy as a core of both strategic investments that enhance resilience against potential crises and also for investments that promote growth, we will deepen this balance to ensure a human-centered AI society where individual dignity is respected so that people and AI can work together continuously, and pursue “Trustworthy AI” to realize “the most AI-friendly country in the world.”
+
+In doing so, it is essential for the government and private sector to unite in building a new AI-driven economic development and a safe and secure society.
+
+As the strategy toward national goals, the government will establish this “Artificial Intelligence Basic Plan” under Article 18, paragraph (1) of the Act on Promotion of Research and Development, and deployment of Artificial Intelligence-related Technology (Act No. 53 of 2025; hereinafter the “AI Act”), and steadily advance the contents included in the AI Basic Plan.
+
+### Chapter 2 Basic Policies on Measures for Promoting Research and Development, and
+
+### Deployment of AI-related Technology
+
+This Chapter sets forth the “three principles” and “four basic policies” on measures for promoting research and development, and deployment of AI-related technology, based on the basic principles provided in Article 3 of the AI Act.
+
+### Three Principles
+
+• Promoting innovation while mitigating risks — To realize the human-centered AI society principle (as decided by the Strategic Headquarters for the Promotion of Science, Technology and Innovation on March 29, 2019), we will thoroughly promote innovation while mitigating risks.
+
+• Agile methodology — We will institutionalize a PDCA (plan–do–check–act) cycle and adopt an agile methodology that responds flexibly and swiftly to changes.
+
+• Promotion of Integrated domestic and international policies — Through proactive international cooperation, Japan will promote AI-related policies that comprehensively integrate both domestic and foreign policies in an organic manner with the aim of becoming a hub of diverse AI innovations.
+
+### Four Basic Policies
+
+1. Accelerate AI deployment (“Adopt AI”):
+
+By actively utilizing cutting-edge AI technologies across Japanese society while implementing appropriate risk mitigating measures, we will foster new innovation. Promoting the accumulation and utilization of data—the foundation for promoting AI innovation—particularly by facilitating cross-organizational data sharing, will enable thorough AI deployment and enhance AI performance.
+
+2. Strategically strengthen AI development capabilities (“Create AI”):
+
+Advance development across the AI tech stack—from infrastructure to applications—and combine them organically to develop “Trustworthy AI,” Japan’s competitive edge. By first deploying AI—where fundamental research and societal implementation converge—across society as a whole, and then creating AI to solve the challenges that arise from this deployment, we can achieve a virtuous cycle that drives broad technological innovation.
+
+3. Lead AI governance (“Enhance AI Trustworthiness”):
+
+To foster an environment that realizes a virtuous cycle of AI deployment and technological innovation in a society where humans and AI collaborate, Japan will establish governance to ensure the appropriateness of AI.
+
+As AI operates across borders, international governance is essential in addition to domestic measures, and Japan will take the lead in its development.
+
+4. Sustainable transformation toward an AI society (“Collaborate with AI”):
+
+To realize a society where humans and AI collaborate, we will proactively and continuously transform industries, employment structures, systems, and societal frameworks.
+
+Beyond cultivating and securing AI talent who both deploy and create AI, we will build an environment that enhances the people skills and humanness needed to thrive in an AI society, while exploring the division of roles between humans and AI.
+
+### Chapter 3 Measures that the Government Should Comprehensively and
+
+### Systematically Implement to Promote Research and Development, and Utilization of AI-related Technology
+
+This chapter establishes “measures that the Government should comprehensively and systematically implement to promote research and development, and utilization of AI-related technology,” based on the three principles and four basic policies outlined in the previous chapter.
+
+Note: ◎ indicates major ministries and agencies responsible for coordinating all related policies.
+
+### Section 1 Accelerating AI Deployment
+
+Japan will aim for a society where AI is used routinely and promote utilization across diverse scenes. We will broadly nurture the mindset of “leading by example” across all generations.
+
+We will strive to address factors that have hindered AI adoption, such as insufficient understanding of its effects and risks.
+
+Society as a whole will work to ensure that all entities actively utilize AI to improve the quality of life for every citizen, enhance business activities, and solve social issues.
+
+To promote AI utilization in Japan, the Government itself will take the lead in actively and proactively utilizing AI, starting with its own operations. We will improve the quality of government work by embedding and establishing the routine use of AI by government employees. By proactively leading the way in appropriate government procurement and utilization of AI, tailored to the attributes and purposes of the information handled, we will ensure the reliability and transparency of AI used in Japanese society. Looking ahead, the goal is to build an environment where all central government ministry and agency employees, including those in regional branches, can tangibly experience improved work quality. We will promptly establish an environment enabling ministry and agency employees to utilize generative AI. In doing so, we will introduce mechanisms to encourage staff at the managerial level and above to take the lead in its utilization.
+
+Local governments must sustainably provide administrative services amid resource constraints caused by population decline and rising costs to maintain and renew social infrastructure. Local governments will prepare environments enabling active AI introduction to overcome these challenges. (e.g., There are some regional initiatives which establish opportunities and pilots for promoting AI verification and implementation (such as the AI Hokkaido Conference) and developing core support facilities (such as STATION Ai) aimed at fostering the creation, nurturing, and expansion of startups.
+
+We will actively support AI utilization in fields directly linked to resolving social and national challenges: addressing labor shortages; ensuring safety and reassurance in disaster management and infrastructure; advancing security-related technologies; and more.
+
+We will promote AI utilization that leads to the creation of new businesses and industries.
+
+To promote AI utilization that contributes to regional revitalization, economic recovery, and improving the quality of life for citizens, we will proactively advance institutional reforms—including the review of existing regulations and systems—with AI utilization as a fundamental premise.
+
+To realize pervasive AI utilization and improve performance, we will strategically promote the accumulation, use, and sharing of data—especially cross-organizational sharing and public–private collaboration—while strategically ensuring data security such as preventing leakage of trade secrets.
+
+[Specific Initiatives]
+
+(1) Thorough utilization of AI in central and local governments
+
+(i) Appropriately utilize generative AI, etc. in government operations, such as by promoting Government AI (Government AI platform) and promote improvements in the quality and efficiency of operations. [Digital Agency (◎), all ministries and agencies]
+
+(ii) The Government itself will take the lead in appropriately procuring AI, and promoting its utilization in a safe and secure manner. [Cabinet Office (◎), Digital Agency, all ministries and agencies]
+
+(iii) To invigorate AI utilization in regions, promote appropriate AI utilization in local governments—such as horizontal deployment of excellent use cases. [Digital Agency, Ministry of Internal Affairs and Communications (◎)]
+
+(2) Promotion of AI utilization toward solving social issues
+
+(i) In each field—medical care and healthcare, long-term care, finance, education, disaster risk reduction and fire services, environmental conservation, agriculture, forestry and fisheries, the food industry, manufacturing such as shipbuilding and the marine equipment industry, infrastructure construction and management, logistics, public transportation, etc.—promote the development, demonstration, introduction, and social implementation of AI (including AI agents and physical AI). [Cabinet Office (◎), relevant ministries and agencies]
+
+(ii) Promote the introduction of AI into industries that broadly support regions, such as advancing the facilitation of AI introduction in small and medium-sized enterprises beginning with Digitization/AI Introduction Subsidies. [Ministry of Economy, Trade and Industry]
+
+(iii) Promote AI utilization for the fundamental reinforcement of defense capabilities. [Ministry of Defense]
+
+(iv) Promote AI utilization for the advancement of police activities to ensure the safety and security of the public. [National Police Agency]
+
+(v) Promote AI utilization to ensure security in the field of information and communications. [Ministry of Internal Affairs and Communications]
+
+(3) Creation of new businesses and industries through promotion of AI utilization
+
+(i) Support leading introduction of physical AI into businesses and industries. [Ministry of Economy, Trade and Industry]
+
+(ii) Support AI utilization in scientific research for researchers from both academia and industry. [Ministry of Education, Culture, Sports, Science and Technology]
+
+(iii) Provide support to startups, etc. that possess innovative technologies relating to AI. [Cabinet Secretariat, Cabinet Office (◎), Ministry of Agriculture, Forestry and Fisheries, Ministry of Economy, Trade and Industry]
+
+(4) Creating mechanisms for further AI utilization
+
+(i) Toward the realization of social implementation of AI in various situations, while listening to the voices of citizens, conduct inspection and review of existing regulations and systems. [Cabinet Office]
+
+(ii) For various data held by the Government and government-related institutions, arrange them into machine-readable form, and strive to build a data environment premised on AI use. [Cabinet Secretariat, Cabinet Office (◎), relevant ministries and agencies]
+
+(iii) Make high-quality data in semi-public sectors such as medical care, education, agriculture, forestry and fisheries, and construction, and in industrial and research fields that are Japan’s strengths, into Japan’s winning strategy; while ensuring data security including measures addressing the risk of leakage of trade secrets, build a data linkage platform. [Cabinet Office (◎), Digital Agency, relevant ministries and agencies]
+
+(iv) Examine the regulations on obtaining data subjects’ consent for contributing to facilitating AI development, etc. which can be categorized as generating statistics, and how to ensure compliance with regulations; and aim for early submission to the Diet of a bill to amend the Act on the Protection of Personal Information (Act No. 57 of 2003). [Personal Information Protection Commission]
+
+### Section 2 Strategically Strengthening AI Development Capabilities
+
+To strengthen Japan’s autonomous capacity to research, develop, and operate AI, we will strategically and integratively build the domestic AI tech stack that includes data and data centers, foundation models, and applications, while gaining a comprehensive view of the entire tech stack. By actively expanding overseas to enhance international competitiveness, we aim to contribute to strengthening national power and correcting digital deficits. Taking into account state sovereignty and national security perspectives, we will ensure Japan’s autonomy and indispensability.
+
+We position AI as intellectual and execution infrastructure, and through research and development, and utilization of energy-efficient foundation models, we will realize a new “Technology-Driven Nation” and
+
+contribute to Green Transformation (GX: Transformation and activities aimed at minimizing the use of fossil fuels and utilizing clean energy) across society.
+
+We will pursue open development, welcome top talent domestically and internationally, leverage Japan’s high-quality data in industry, healthcare, and research, and raise domestic AI development capabilities.
+
+By conducting research and development of AI including fundamental research domestically through not solely relying on other countries but creating a virtuous cycle between development and implementation, we will enable acquiring practical skills and cultivate ready-to-deploy AI talent.
+
+Japan will intensify its focus on developing and deploying physical AI capable of executing physical tasks in the real world—such as creating diverse services combining AI models and apps, autonomous driving, managing factories and infrastructure, and autonomous robots that collaborate with humans—as well as promoting AI for Science that widely utilizes AI in scientific research.
+
+We will advance the preparation of data, the development of foundational models and evaluation frameworks to realize trustworthy AI, taking into account state sovereignty and national security perspectives as well as Japan's culture and customs.
+
+To strengthen AI research and development and enhance and secure the foundation for its utilization, we will accelerate the strategic development of AI infrastructure. This includes developing and supplying sufficient computing resources and the underlying semiconductors, establishing data centers and cloud environments, building the communication networks that support them, and ensuring a stable power supply system.
+
+To ensure the sustainable development of the AI tech stack, the public and private sectors will collaborate to strategically invest in research and development, AI infrastructure development, and other areas. This will be achieved by utilizing provisions of the Act on the Promotion of Ensuring National Security Through Integrated Implementation of Economic Measures (Act No. 43 of 2022), small and medium enterprise policies, tax measures conducive to investment promotion, and R&D tax systems, while actively attracting private investment. We will accelerate investment promptly to ensure AI investment becomes a growth engine driving the Japanese economy.
+
+[Specific Initiatives]
+
+(1) Strengthening AI Development Capabilities in Japan
+
+(i) Promote the building of a data linkage platform such as the creation and provision of new datasets and multimodal data (e.g. Multiple types of information, such as images, audio, and language) necessary for AI research and development. [Cabinet Office (◎), Digital Agency, Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(ii) To secure AI researchers and developers including top talent from inside and outside Japan, carry out comprehensive initiatives such as improvements in treatment and living environment. [Cabinet Office (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(iii) To incorporate advanced knowledge, promote collaboration and cooperation among industry, academia (universities and research institutes), and government as well as among private business operators in Japan and abroad. [Cabinet Office (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(iv) Promote enhancement of performance of AI models and multimodalization. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(v) Develop evaluation platforms and testbeds for objectively evaluating AI performance and trustworthiness. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(vi) Support the expansion of the AI industry, including AI infrastructure, into overseas markets such as those in the Global South countries. [Ministry of Internal Affairs and Communications, Ministry of Foreign Affairs (◎), Ministry of Economy, Trade and Industry]
+
+(2) Promotion of Development of AI Models, etc.: Japan’s Winning Strategy
+
+(i) So that Japan can lead the world, strategically and integratively promote research and development and demonstration of physical AI—including creation of public demand for AI robots and introduction of more advanced autonomous driving technologies. [Cabinet Office (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(ii) Promote AI for Science initiatives, such as development and utilization of foundation models in fields including life sciences and materials, efficiency improvement of creation and utilization of research data including automation of experiments, strengthening of information infrastructure, and basic research on AI. [Ministry of Education, Culture, Sports, Science and Technology]
+
+(iii) Promote drug discovery AI that contributes to efficiency improvement of new drug development. [Ministry of Health, Labour and Welfare]
+
+(iv) In fields where Japan has strengths—manufacturing, infrastructure including communications, the content industry, finance, space, oceans, agriculture, forestry and fisheries, etc.—pursue new business models fused with AI, while also keeping overseas deployment in view. [Cabinet Office (◎), relevant ministries and agencies]
+
+(3) Development of Trustworthy AI Foundation Models, etc.
+
+(i) Promote development and evaluation of trustworthy AI based on Japan’s culture and customs. Including utilization of existing aggregated data, work to develop and expand high-quality Japanese-language data. [Cabinet Office (◎), Digital Agency, Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(ii) Positioning Japan as a hub for the development of trustworthy AI, foster trustworthy AI tech stack encompassing open-source and open-weight AI models (open-source: a license type where the software's source code is publicly available, allowing anyone to view, use, modify, and redistribute it. open-weight: refers to the state where an AI model's “trained weights” are publicly available.), concurrently, cooperate with other countries on this initiative, taking a leadership role in establishing a global network. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Foreign Affairs, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(iii) Promote development of foundation models toward realizing an AI tech stack that emphasizes energy efficiency. [Ministry of Economy, Trade and Industry]
+
+(4) Strengthening and Securing AI Research and Development, and Utilization Infrastructure
+
+(i) Promote establishment of data centers, securing of compute resources necessary for AI research and development, development of efficient power and communications infrastructure (“Watt-Bit Collaboration”), introduction of an All-Photonics Network, and research and development of next-generation information and communications infrastructure (Beyond 5G). [Ministry of Internal Affairs and Communications (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry, Ministry of the Environment]
+
+(ii) Promote research and development of high-performance AI semiconductors, etc. [Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry (◎)]
+
+(iii) Promote development of a new flagship system that will be the next generation of the supercomputer following “Fugaku.” [Ministry of Education, Culture, Sports, Science and Technology]
+
+(iv) Promote expansion of production capacity and supply capacity for each layer of AI infrastructure developed and manufactured domestically, and strengthen the supply chain. [Ministry of Economy, Trade and Industry]
+
+### Section 3 Leading AI Governance
+
+To realize a positive cycle of AI innovation and build a trustworthy AI ecosystem, we will construct PDCA cycles across development, verification, evaluation, and operation. To achieve this, we will show the Government’s basic approach to encouraging autonomous and proactive initiatives by citizens and business operators.
+
+We will substantially strengthen the national AI safety and evaluation functions (AI Safety Institute: AISI) and appropriately evaluate AI models’ technical aspects, grasp risks, and take necessary measures. To enhance the capabilities of the AISI, we will immediately expand staffing to approximately twice the current level, benchmarking against the scale of the UK's AI Security Institute, one of the world's leading institutions. (benchmark: UK AI Security Institute—approximately 200 personnel; initial budget about £100 million (≈¥20 billion) as of September 2025)
+
+Recognizing that ensuring AI safety and countering AI-enabled attacks are emerging as new cybersecurity challenges, we will take appropriate measures, including establishing necessary frameworks.
+
+When utilizing AI in government operations, we will fulfill our accountability to the public such as by ensuring the basis for decisions remains transparent and maintain administrative reliability.
+
+As the country that spearheaded the international framework for AI governance, the Hiroshima AI Process, Japan will continue to promote international coordination in building AI governance while leading international discussions.
+
+In doing so, Japan will prioritize ensuring interoperability among AI models based on diverse development entities, applications, and design philosophies, positioning itself as a global hub for AI innovation.
+
+[Specific Initiatives]
+
+(1) Building a Trustworthy AI Ecosystem
+
+(i) As technological development progresses, problems that maliciously use AI, such as deepfakes, are becoming evident. Regarding these and their impacts on citizens’ lives, conduct research and studies, etc. based on Article 16 of the AI Act, and appropriately take responses to risks, etc. [Cabinet Office (◎), relevant ministries and agencies]
+
+(ii) While encouraging voluntary initiatives to ensure appropriateness in AI research, development, and utilization by business operators, etc., prepare guidelines based on Article 13 of the AI Act and other domestic guidelines, etc., related to R&D and utilization of AI for smooth and appropriate utilization in administration, and ensure thorough dissemination to stakeholders. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Economy, Trade and Industry, relevant ministries and agencies]
+
+(iii) Take responses to various crimes such as cyberattacks and fraud that maliciously use AI, including improvement of capability to deal with AI-related cyber incidents. [National Police Agency (◎), Ministry of Internal Affairs and Communications]
+
+(iv) Promote AI utilization aimed at ensuring security across various fields. [Cabinet Office (◎), relevant ministries and agencies]
+
+(v) Build a system that can execute evaluations relating not only to the safety of AI models but also broader appropriateness and measures on the security front, and strengthen technical and institutional governance. As
+
+the core, fundamentally strengthen the functions of AISI, with the whole government effort. [Cabinet Office (◎), Ministry of Economy, Trade and Industry, relevant ministries and agencies]
+
+(vi) Regarding responses to dis/misinformation, etc. generated by malicious use of generative AI, support the development of technologies to distinguish AI-generated content and control functions of AI, which also contribute to enhancement of Japan’s AI evaluation capabilities. (e.g., electronic watermarking and post-hoc authenticity verification technologies) [Ministry of Internal Affairs and Communications (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(2) International Cooperation Including ASEAN and Other Global South Countries
+
+(i) Actively utilize the Hiroshima AI Process Friends Group and diplomatic opportunities, and strengthen cooperation with ASEAN and other Global South countries, etc. [Ministry of Internal Affairs and Communications (◎), Ministry of Foreign Affairs, Ministry of Economy, Trade and Industry]
+
+(ii) Toward formulation of international standards related to AI, participate in international standardization activities in the AI field at ISO/IEC JTC 1 (a joint technical committee of ISO (International Organization for Standardization) and IEC (International Electrotechnical Commission)), etc. [Ministry of Economy, Trade and Industry]
+
+(iii) Leading the building of AI governance by promoting the Hiroshima AI Process and utilizing international frameworks such as the AISI network. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Foreign Affairs, Ministry of Economy, Trade and Industry, relevant ministries and agencies]
+
+(iv) Regarding AI application in the military domain, actively engage in international discussions through balanced discussions that take into account humanitarian considerations and security perspectives. [Ministry of Foreign Affairs (◎), Ministry of Defense]
+
+(v) Utilize the GPAI Tokyo Expert Support Center, etc., and through project-based support, back concrete problem-solving regarding AI governance and social implementation. [Ministry of Internal Affairs and Communications]
+
+(vi) Aiming for the autonomous and trustworthy development of diverse AI ecosystem across countries, establish co-creation and cooperation models with Global South countries. [Cabinet Office, Digital Agency, Ministry of Internal Affairs and Communications, Ministry of Foreign Affairs (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+### Section 4 Sustainable Transformation Toward an AI Society
+
+We will build a new industrial structure centered on AI, revitalize regions, and realize inclusive growth so everyone enjoys the benefits.
+
+As AI advances rapidly, we will proactively review institutions and social systems to create a new society where people and AI can collaborate sustainably.
+
+We will continuously implement a process that carefully analyzes the impact of AI advancements on employment, including changes in industrial structure and job types, and takes measures such as education and reskilling support to enable all generations to adapt to new ways of working.
+
+Developing and securing AI talent responsible for AI utilization and development is essential for realizing an AI society. To create concrete added value, it is particularly important to enhance foundational and academic knowledge related to AI starting from primary and secondary education (up to the high school level), while also cultivating talent with broad knowledge across various fields, including industries where convergence is possible. Therefore, the central government will take the lead in developing and securing AI talent, focusing on both quality and quantity.
+
+To enable people to demonstrate their human value in an AI society, efforts will be made to enhance people skills and humanness, including creativity, critical thinking, judgment, adaptability, and communication skills.
+
+Prevent disparities and exclusion caused by AI advancements, and ensure no one is left behind in an AI society.
+
+[Specific Initiatives]
+
+(1) Building an Industrial Structure Centered on AI
+
+(i) To promote organizational management reform centered on AI (AI Transformation; Leveraging AI to transform products, services, and business models based on customer and societal needs, while simultaneously transforming operations themselves, organizations, processes, and corporate culture and climate to establish competitive advantage), carry out visualization of the status of DX/AI utilization initiatives in enterprises, etc., and provide focused support to business operators whose reform initiatives are progressing. [Cabinet Office, Ministry of Economy, Trade and Industry (◎)]
+
+(ii) Including presentation of concrete images, create new industries utilizing AI infrastructure domestically and expand employment opportunities. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Economy, Trade and Industry]
+
+(iii) Promote domestic location of AI-related industries, through regulatory sandbox systems and startup support systems, etc. [Cabinet Secretariat, Cabinet Office (◎), Ministry of Economy, Trade and Industry]
+
+(iv) Investigate and analyze the development of the “AI economic sphere,” including AI agents conducting transactions with each other, and explore its ideal form. [Cabinet Office (◎), relevant ministries and agencies]
+
+(2) Examination and Demonstration of Institutions and Frameworks in an AI Society
+
+(i) Toward realization of social implementation of AI in various situations, while listening to the voices of citizens, conduct inspection and review of existing regulations and systems. [Reposted] [Cabinet Office]
+
+(ii) Regarding the location and scope of civil liability when accidents or damages occur in AI utilization, consider appropriate framework. [Cabinet Office, Consumer Affairs Agency, Ministry of Internal Affairs and Communications, Ministry of Justice, Ministry of Economy, Trade and Industry (◎)]
+
+(iii) While ensuring transparency leading to appropriate protection and utilization of intellectual property, promote compensation return to content holders, etc., develop a consultation framework regarding measures against intellectual property rights infringement by generative AI, and advance initiatives such as provision of easy-to-understand information regarding generative AI and intellectual property rights. [Cabinet Office (◎), relevant ministries and agencies]
+
+(iv) Regarding intellectual property rights over products and services generated by AI utilization, examine the appropriate state. [Cabinet Office (◎), Ministry of Economy, Trade and Industry, relevant ministries and agencies]
+
+(v) Regarding the impact on employment accompanied by the advancement of AI, conduct surveys and analyses from the aspects of both substitutability and complementarity, and continuously implement comprehensive measures based on the results. [Cabinet Office (◎), Ministry of Health, Labour and Welfare, relevant ministries and agencies]
+
+(3) Developing and Securing AI talent
+
+(i) Conduct surveys and analyses of human resource needs based on the industrial structure of the AI era. [Cabinet Office (◎), Ministry of Health, Labour and Welfare, Ministry of Economy, Trade and Industry]
+
+(ii) Promote the development and securing of engineers and researchers engaged in AI utilization, research and development, and next-generation semiconductors, as well as data management human resources, while cooperating with other countries. [Cabinet Office (◎), Ministry of Foreign Affairs, Ministry of Education, Culture, Sports, Science and Technology, Ministry of Economy, Trade and Industry]
+
+(iii) Support industry–academia–government networks and communities relating to AI utilization and research and development, and, through holding contests that compete in problem-solving ability, etc., promote on-the-ground-led AI implementation. [Cabinet Office (◎), Ministry of Economy, Trade and Industry, Ministry of Education, Culture, Sports, Science and Technology]
+
+(iv) Regarding skills relating to AI, support AI reskilling initiatives for individual employees and workers. [Cabinet Office (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Health, Labour and Welfare, Ministry of Economy, Trade and Industry]
+
+(v) In response to the advancement of AI, aiming at the creation of Advanced Essential Workers (essential workers who earn higher wages than currently available through the use of digital technology, etc.) who support
+
+the foundation of society, implement reskilling support according to occupation and job content. [Cabinet Office (◎), Ministry of Education, Culture, Sports, Science and Technology, Ministry of Health, Labour and Welfare, Ministry of Economy, Trade and Industry]
+
+(vi) Revise the Digital Skill Standard. [Cabinet Office, Ministry of Economy, Trade and Industry (◎)]
+
+(vii) Through demonstration research, etc. toward promotion of appropriate utilization in school education, work to improve information literacy at the primary and secondary education stages (up to the high school level), and support all citizens to be able to improve AI literacy. [Cabinet Office (◎), Ministry of Internal Affairs and Communications, Ministry of Education, Culture, Sports, Science and Technology]
+
+(4) Raising people skills and humanness in the AI Era
+
+(i) Toward realization of a society where people and AI collaborate, continuously explore how people engage with AI and the appropriate division of roles between people and AI. Not depending on or being substituted by AI, face AI, and promote development of an environment to cultivate people skills and humanness in which people demonstrate value as human beings. [Cabinet Office (◎), relevant ministries and agencies]
+
+(ii) To foster human resources who, while enhancing uniquely human strengths, can solve problems together with AI, promote education appropriate for the AI era, including liberal arts education. [Cabinet Office, Ministry of Education, Culture, Sports, Science and Technology (◎)]
+
+(iii) As the very nature of working styles greatly changes with the advancement of AI, examine directions of working styles appropriate for the AI era. [Cabinet Office, Ministry of Health, Labour and Welfare (◎)]
+
+### Chapter 4 Matters Necessary for the Government to Comprehensively and
+
+### Systematically Advance Measures for Promoting Research and Development, and Utilization of AI-related Technology
+
+### Section 1 Implementation Structure and Follow-up for the AI Basic Plan
+
+To make the AI Basic Plan practical and realize the measures included, it is important to prepare the promotion foundation, share progress information appropriately, and strengthen or enhance adjustments and coordination as needed.
+
+Centering on the Artificial Intelligence Strategic Headquarters—headed by the Prime Minister and comprising all Cabinet members—and the Council for the Promotion of Artificial Intelligence Strategy—comprising relevant ministries and agencies—the Government will work in close coordination.
+
+The Headquarters will grasp the implementation status of the AI Basic Plan and conduct follow-up. We will set appropriate benchmarks and conduct monitoring to realize Japan’s vision stated in the AI Basic Plan.
+
+We will hear expert opinions as needed through the Expert Panel on AI Strategy and establish dedicated forums for individual reviews.
+
+### Section 2 Revisions to the AI Basic Plan
+
+Given the characteristics of AI, its trends, and social conditions – such as the extremely rapid technological progress and expansion of use -we will review and revise this Plan as needed, in principle annually. In doing so, the opinions of experts and other stakeholders will be appropriately heard through the Expert Panel on AI Strategy, and, we will actively reflect the latest technological trends into the AI Basic Plan through strong industry–academia–government collaboration.
+
+### Section 3 Coordination with Other Plans
+
+We will coordinate and integrate measures under this Plan with other related national plans—such as the Basic Plan for Science, Technology and Innovation (under Article 12, paragraph (1) of the Basic Act on Science, Technology and Innovation (Act No. 130 of 1995)) and the Priority Plan for the Formation of a Digital Society (under Article 39, paragraph (1) of the Basic Act on the Formation of a Digital Society (Act No. 35 of 2021)).

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2019",
+  "name": "The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-ai-rd-strategic-plan-2019",
+  "owner": "White House / Executive Branch",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update (June 21, 2019). Multi-year federal strategic plan for artificial intelligence research and development issued by the National Science and Technology Council (NSTC) Select Committee on Artificial Intelligence and the Networking and Information Technology Research and Development (NITRD) Program.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by White House / Executive Branch (whitehouse.gov) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for White House / Executive Branch (whitehouse.gov).",
+  "license": {
+    "spdx": "Public Domain",
+    "Grouping": "Public Domain",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf",
+    "textUsed": "https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-21",
+    "active": false,
+    "supersedes": "secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2016",
+    "supersededBy": "secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2023",
+    "retiredFromActiveUse": "2023-05-23",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,782 chars). Parsed 59 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

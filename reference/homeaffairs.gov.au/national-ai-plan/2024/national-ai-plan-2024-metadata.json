@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/homeaffairs.gov.au/national-ai-plan@2024",
+  "name": "Voluntary AI Safety Standard & Proposals Paper for Mandatory Guardrails for AI in High-Risk Settings (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-ai-plan-2024",
+  "owner": "Department of Home Affairs",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Voluntary AI Safety Standard and Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings (September 5, 2024). Whole-of-government artificial intelligence strategy and governance framework coordinated by the Department of Industry, Science and Resources (DISR) and the Australian Government.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "note": "Official government/institutional publication (homeaffairs.gov.au) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+    "textUsed": "https://web.archive.org/web/20240905133137id_/https://apo.org.au/sites/default/files/resource-files/2024-09/apo-nid328206.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-05",
+    "active": true,
+    "supersedes": "secid:reference/homeaffairs.gov.au/national-ai-plan@2021",
+    "supersededBy": "secid:reference/homeaffairs.gov.au/national-ai-plan@2025",
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 69-page PDF (https://web.archive.org/web/20240905133137id_/https://apo.org.au/sites/default/files/resource-files/2024-09/apo-nid328206.pdf) locally via PyMuPDF (125,442 chars). Parsed 87 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/moda.gov.tw/national-cyber-security-program@2025",
+  "name": "National Cyber Security Program of Taiwan (國家資通安全發展方案) (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-cyber-security-program-2025",
+  "owner": "Ministry of Digital Affairs — Administration for Cyber Security (Taiwan)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security Program of Taiwan (國家資通安全發展方案)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw).",
+  "license": {
+    "spdx": "OGDL-Taiwan-1.0",
+    "Grouping": "Permissive",
+    "note": "Open Government Data License, version 1.0 (Taiwan)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://moda.gov.tw/en/ACS/laws/strategy/642",
+    "textUsed": "https://moda.gov.tw/en/ACS/laws/strategy/642",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-04-01",
+    "active": true,
+    "supersedes": "secid:reference/moda.gov.tw/national-cyber-security-program@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Generated structured reference summary from verified SecID registry metadata for secid:reference/moda.gov.tw/national-cyber-security-program@2025 (568 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

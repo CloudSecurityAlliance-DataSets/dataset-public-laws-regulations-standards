@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/canada.ca/national-ai-strategy@2026",
+  "name": "Canada's National Artificial Intelligence Strategy: AI for All (2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026",
+  "publication_id": "national-ai-strategy-2026",
+  "owner": "Government of Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Canada's National Artificial Intelligence Strategy: AI for All (June 8, 2026). Government of Canada national artificial intelligence strategy issued by Innovation, Science and Economic Development Canada (ISED), originating with the 2017 Pan-Canadian AI Strategy (world's first national AI strategy, implemented with CIFAR, Mila, Vector Institute, and Amii), expanded in Phase 2 (2022), and renewed in June 2026 as 'Canada's National Artificial Intelligence Strategy: AI for All'.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Canada (canada.ca) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Canada (canada.ca).",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "Grouping": "Permissive",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf",
+    "textUsed": "https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-08",
+    "active": true,
+    "supersedes": "secid:reference/canada.ca/national-ai-strategy@2022",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 50-page PDF (https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf) locally via PyMuPDF (90,708 chars). Parsed 107 sections (17 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

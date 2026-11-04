@@ -16,7 +16,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 588
+**Total documents indexed:** 682
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 87 | 122 | 137 | 4 | 6 | **356** |
-| **Total** | **218** | **179** | **181** | **4** | **6** | **588** |
+| `reference/` | 181 | 122 | 137 | 4 | 6 | **450** |
+| **Total** | **312** | **179** | **181** | **4** | **6** | **682** |
 
 ## control/
 
@@ -289,13 +289,19 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2013/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2013` |
+| `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2017/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2017` |
+| `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2022-2026/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2022-2026` |
 | `reference/agid.gov.it/cert-agid-glossario/` | structured | 5 | `MX·CSP·` | `secid:reference/agid.gov.it/cert-agid-glossario` |
+| `reference/agid.gov.it/strategia-italiana-ia/2022-2024/` | structured | 4 | `MX·CS··` | `secid:reference/agid.gov.it/strategia-italiana-ia@2022-2024` |
+| `reference/agid.gov.it/strategia-italiana-ia/2024-2026/` | structured | 4 | `MX·CS··` | `secid:reference/agid.gov.it/strategia-italiana-ia@2024-2026` |
 | `reference/amazon.com/aws-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/aws-glossary` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/amazon.com/wellarchitected-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
 | `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
+| `reference/au.int/continental-artificial-intelligence-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/au.int/continental-artificial-intelligence-strategy@2024` |
 | `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
 | `reference/beyondtrust.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
 | `reference/bimco.org/cyber-security-onboard-ships-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bimco.org/cyber-security-onboard-ships-glossary` |
@@ -303,17 +309,33 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/bitsight.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitsight.com/cybersecurity-glossary` |
 | `reference/blackberry.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackberry.com/cybersecurity-glossary` |
 | `reference/blackduck.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/blackduck.com/application-security-glossary` |
+| `reference/bmi.bund.de/cybersicherheitsstrategie/2011/` | structured | 4 | `MX·CS··` | `secid:reference/bmi.bund.de/cybersicherheitsstrategie@2011` |
+| `reference/bmi.bund.de/cybersicherheitsstrategie/2016/` | structured | 4 | `MX·CS··` | `secid:reference/bmi.bund.de/cybersicherheitsstrategie@2016` |
+| `reference/bmi.bund.de/cybersicherheitsstrategie/2021/` | structured | 4 | `MX·CS··` | `secid:reference/bmi.bund.de/cybersicherheitsstrategie@2021` |
 | `reference/broadcom.com/enterprise-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/broadcom.com/enterprise-security-glossary` |
 | `reference/bsi.bund.de/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsi.bund.de/glossary` |
 | `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
 | `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
+| `reference/bundesregierung.de/ki-strategie/2018/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/ki-strategie@2018` |
+| `reference/bundesregierung.de/ki-strategie/2020/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/ki-strategie@2020` |
+| `reference/bundesregierung.de/nationale-sicherheitsstrategie/2023/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/nationale-sicherheitsstrategie@2023` |
 | `reference/ca.gov/sam-5300-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/ca.gov/sam-5300-definitions` |
 | `reference/canada.ca/enterprise-cyber-security-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/enterprise-cyber-security-strategy@2024` |
 | `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
+| `reference/canada.ca/national-ai-strategy/2017/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2017` |
+| `reference/canada.ca/national-ai-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2022` |
+| `reference/canada.ca/national-ai-strategy/2026/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2026` |
 | `reference/canada.ca/national-security-policy/2004/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy@2004` |
 | `reference/canada.ca/national-security-policy-progress-report/2005/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy-progress-report@2005` |
 | `reference/canada.ca/national-security-transparency-commitment/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-transparency-commitment` |
 | `reference/canada.ca/our-north-strong-and-free/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/our-north-strong-and-free@2024` |
+| `reference/canada.ca/sovereign-ai-compute-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/sovereign-ai-compute-strategy@2024` |
+| `reference/cas.go.jp/ai-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/ai-strategy@2019` |
+| `reference/cas.go.jp/ai-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/ai-strategy@2021` |
+| `reference/cas.go.jp/ai-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/ai-strategy@2022` |
+| `reference/cas.go.jp/ai-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/ai-strategy@2025` |
+| `reference/cas.go.jp/national-security-strategy/2013/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/national-security-strategy@2013` |
+| `reference/cas.go.jp/national-security-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/cas.go.jp/national-security-strategy@2022` |
 | `reference/catonetworks.com/it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/catonetworks.com/it-security-glossary` |
 | `reference/ccdcoe.org/glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/ccdcoe.org/glossary` |
 | `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
@@ -365,19 +387,45 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
+| `reference/csa.gov.sg/ot-cybersecurity-masterplan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2019` |
+| `reference/csa.gov.sg/ot-cybersecurity-masterplan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024` |
+| `reference/csa.gov.sg/singapore-cybersecurity-strategy/2016/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2016` |
+| `reference/csa.gov.sg/singapore-cybersecurity-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2021` |
 | `reference/ct.gov/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ct.gov/cybersecurity-glossary` |
 | `reference/cve.org/cve-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/cve.org/cve-glossary` |
 | `reference/cyber.gc.ca/glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cyber.gc.ca/glossary` |
+| `reference/cyber.go.jp/cybersecurity-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.go.jp/cybersecurity-strategy@2015` |
+| `reference/cyber.go.jp/cybersecurity-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.go.jp/cybersecurity-strategy@2018` |
+| `reference/cyber.go.jp/cybersecurity-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.go.jp/cybersecurity-strategy@2021` |
+| `reference/cyber.go.jp/cybersecurity-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.go.jp/cybersecurity-strategy@2025` |
 | `reference/cyber.gouv.fr/cyberdico/` | structured | 5 | `MX·CSP·` | `secid:reference/cyber.gouv.fr/cyberdico` |
 | `reference/cyberark.com/cyberark-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cyberark.com/cyberark-glossary` |
 | `reference/cybersecurityworks.com/csw-cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cybersecurityworks.com/csw-cyber-security-glossary` |
 | `reference/cyberveilignederland.nl/cyberveilig-woordenboek/` | structured | 5 | `MX·CSP·` | `secid:reference/cyberveilignederland.nl/cyberveilig-woordenboek` |
 | `reference/debian.org/debian-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/debian.org/debian-security-glossary` |
+| `reference/defence.gov.au/national-defence-strategy/2020/` | structured | 4 | `MX·CS··` | `secid:reference/defence.gov.au/national-defence-strategy@2020` |
+| `reference/defence.gov.au/national-defence-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/defence.gov.au/national-defence-strategy@2023` |
+| `reference/defence.gov.au/national-defence-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/defence.gov.au/national-defence-strategy@2024` |
 | `reference/devolutions.net/devolutions-it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/devolutions.net/devolutions-it-security-glossary` |
+| `reference/dpmc.govt.nz/cyber-security-strategy/2011/` | structured | 4 | `MX·CS··` | `secid:reference/dpmc.govt.nz/cyber-security-strategy@2011` |
+| `reference/dpmc.govt.nz/cyber-security-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/dpmc.govt.nz/cyber-security-strategy@2015` |
+| `reference/dpmc.govt.nz/cyber-security-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/dpmc.govt.nz/cyber-security-strategy@2019` |
+| `reference/dpmc.govt.nz/cyber-security-strategy/2026-2030/` | structured | 4 | `MX·CS··` | `secid:reference/dpmc.govt.nz/cyber-security-strategy@2026-2030` |
+| `reference/dpmc.govt.nz/national-security-strategy/2023-2028/` | structured | 4 | `MX·CS··` | `secid:reference/dpmc.govt.nz/national-security-strategy@2023-2028` |
 | `reference/dragos.com/dragos-ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/dragos.com/dragos-ot-cybersecurity-glossary` |
 | `reference/enisa.europa.eu/enisa-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/enisa.europa.eu/enisa-glossary` |
+| `reference/enisa.europa.eu/ncaf/2020/` | structured | 4 | `MX·CS··` | `secid:reference/enisa.europa.eu/ncaf@2020` |
+| `reference/enisa.europa.eu/ncss-good-practice-guide/2012/` | structured | 4 | `MX·CS··` | `secid:reference/enisa.europa.eu/ncss-good-practice-guide@2012` |
+| `reference/enisa.europa.eu/ncss-good-practice-guide/2016/` | structured | 4 | `MX·CS··` | `secid:reference/enisa.europa.eu/ncss-good-practice-guide@2016` |
 | `reference/equifax.com/security-guidance/` | structured | 6 | `M··CS··` | `secid:reference/equifax.com/security-guidance` |
 | `reference/eset.com/eset-glossary/` | metadata-only | 1 | `M······` | `secid:reference/eset.com/eset-glossary` |
+| `reference/europa.eu/ai-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/ai-strategy@2018` |
+| `reference/europa.eu/ai-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/ai-strategy@2021` |
+| `reference/europa.eu/ai-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/ai-strategy@2025` |
+| `reference/europa.eu/cybersecurity-strategy/2013/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/cybersecurity-strategy@2013` |
+| `reference/europa.eu/cybersecurity-strategy/2017/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/cybersecurity-strategy@2017` |
+| `reference/europa.eu/cybersecurity-strategy/2020/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/cybersecurity-strategy@2020` |
+| `reference/europa.eu/strategic-compass/2022/` | structured | 4 | `MX·CS··` | `secid:reference/europa.eu/strategic-compass@2022` |
 | `reference/f5.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/f5.com/cybersecurity-glossary` |
 | `reference/fedramp.gov/3pao-obligations-and-performance-standards/` | extracted | 21 (+18 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-obligations-and-performance-standards` |
 | `reference/fedramp.gov/3pao-readiness-assessment-report-guide/` | extracted | 24 (+21 imgs) | `MX····I` | `secid:reference/fedramp.gov/3pao-readiness-assessment-report-guide` |
@@ -432,6 +480,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/gov.br/glossario-seguranca-informacao/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.br/glossario-seguranca-informacao` |
 | `reference/gov.uk/integrated-review/2021/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/integrated-review@2021` |
 | `reference/gov.uk/integrated-review/2023/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/integrated-review@2023` |
+| `reference/gov.uk/national-ai-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-ai-strategy@2021` |
+| `reference/gov.uk/national-ai-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-ai-strategy@2025` |
 | `reference/gov.uk/national-cyber-strategy/2016-2021/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-cyber-strategy@2016-2021` |
 | `reference/gov.uk/national-cyber-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-cyber-strategy@2022` |
 | `reference/gov.uk/national-security-strategy/2010/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2010` |
@@ -442,6 +492,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
 | `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
 | `reference/hitrustalliance.net/glossary-of-terms-and-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/hitrustalliance.net/glossary-of-terms-and-acronyms` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy/2009/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy@2009` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy/2016/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy@2016` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy/2020/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy@2020` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy/2023-2030/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy@2023-2030` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy-action-plan/2023-2025/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2023-2025` |
+| `reference/homeaffairs.gov.au/cyber-security-strategy-action-plan/2026-2028/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2026-2028` |
+| `reference/homeaffairs.gov.au/national-ai-plan/2021/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2021` |
+| `reference/homeaffairs.gov.au/national-ai-plan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2024` |
+| `reference/homeaffairs.gov.au/national-ai-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2025` |
 | `reference/huntresslabs.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/huntresslabs.com/cybersecurity-101-glossary` |
 | `reference/hypr.com/security-encyclopedia/` | metadata-only | 1 | `M······` | `secid:reference/hypr.com/security-encyclopedia` |
 | `reference/iapp.org/privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iapp.org/privacy-glossary` |
@@ -454,6 +513,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/intel.com/software-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/intel.com/software-security-glossary` |
 | `reference/isaca.org/cybersecurity-fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/isaca.org/cybersecurity-fundamentals-glossary` |
 | `reference/itu.int/cybex-x.1500/` | metadata-only | 1 | `M······` | `secid:reference/itu.int/cybex-x.1500` |
+| `reference/itu.int/ncs-guide/2018/` | structured | 4 | `MX·CS··` | `secid:reference/itu.int/ncs-guide@2018` |
+| `reference/itu.int/ncs-guide/2021/` | structured | 4 | `MX·CS··` | `secid:reference/itu.int/ncs-guide@2021` |
+| `reference/itu.int/ncs-guide/2025/` | structured | 4 | `MX·CS··` | `secid:reference/itu.int/ncs-guide@2025` |
 | `reference/ivanti.com/ivanti-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ivanti.com/ivanti-glossary` |
 | `reference/jamf.com/jamf-platform-glossary/` | metadata-only | 1 | `M······` | `secid:reference/jamf.com/jamf-platform-glossary` |
 | `reference/juniper.net/juniper-glossary/` | metadata-only | 1 | `M······` | `secid:reference/juniper.net/juniper-glossary` |
@@ -472,6 +534,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
 | `reference/mitre.org/cwe-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/mitre.org/cwe-glossary` |
 | `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
+| `reference/mnd.gov.tw/national-defense-report/2023/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/national-defense-report@2023` |
+| `reference/mnd.gov.tw/national-defense-report/2025/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/national-defense-report@2025` |
+| `reference/mnd.gov.tw/quadrennial-defense-review/2021/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/quadrennial-defense-review@2021` |
+| `reference/mnd.gov.tw/quadrennial-defense-review/2025/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/quadrennial-defense-review@2025` |
+| `reference/moda.gov.tw/national-cyber-security-program/2021/` | structured | 4 | `MX·CS··` | `secid:reference/moda.gov.tw/national-cyber-security-program@2021` |
+| `reference/moda.gov.tw/national-cyber-security-program/2025/` | structured | 4 | `MX·CS··` | `secid:reference/moda.gov.tw/national-cyber-security-program@2025` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | structured | 6 | `MX·CSP·` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
 | `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
 | `reference/ncsc.fi/ncsc-fi-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
@@ -556,6 +624,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8425/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8425` |
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2018/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2018` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2023/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2023` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025` |
 | `reference/nvd.nist.gov/cpe/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:reference/nvd.nist.gov/cpe` |
 | `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
 | `reference/ny.gov/its-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ny.gov/its-glossary` |
@@ -581,6 +652,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/partnershiponai.org/synthetic-media-glossary/` | metadata-only | 1 | `M······` | `secid:reference/partnershiponai.org/synthetic-media-glossary` |
 | `reference/pcisecuritystandards.org/pci-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pcisecuritystandards.org/pci-glossary` |
 | `reference/pingidentity.com/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pingidentity.com/identity-glossary` |
+| `reference/president.go.kr/national-ai-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-ai-strategy@2019` |
+| `reference/president.go.kr/national-ai-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-ai-strategy@2024` |
+| `reference/president.go.kr/national-cybersecurity-basic-plan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2019` |
+| `reference/president.go.kr/national-cybersecurity-basic-plan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2024` |
+| `reference/president.go.kr/national-cybersecurity-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2019` |
+| `reference/president.go.kr/national-cybersecurity-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2024` |
+| `reference/president.go.kr/national-security-strategy/2014/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2014` |
+| `reference/president.go.kr/national-security-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2018` |
+| `reference/president.go.kr/national-security-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2023` |
 | `reference/profibus.com/pi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/profibus.com/pi-glossary` |
 | `reference/progress.com/data-protection-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/progress.com/data-protection-privacy-glossary` |
 | `reference/proofpoint.com/threat-reference/` | metadata-only | 1 | `M······` | `secid:reference/proofpoint.com/threat-reference` |
@@ -611,8 +691,18 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/sans.org/glossary/` | metadata-only | 1 | `M······` | `secid:reference/sans.org/glossary` |
 | `reference/saviynt.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/saviynt.com/identity-security-glossary` |
 | `reference/securityscorecard.com/securityscorecard-glossary/` | metadata-only | 1 | `M······` | `secid:reference/securityscorecard.com/securityscorecard-glossary` |
+| `reference/sgdsn.gouv.fr/revue-nationale-strategique/2017/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2017` |
+| `reference/sgdsn.gouv.fr/revue-nationale-strategique/2022/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2022` |
+| `reference/sgdsn.gouv.fr/revue-nationale-strategique/2025/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2025` |
+| `reference/sgdsn.gouv.fr/strategie-nationale-ia/2018/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2018` |
+| `reference/sgdsn.gouv.fr/strategie-nationale-ia/2021/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2021` |
+| `reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique/2015/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2015` |
+| `reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique/2021/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2021` |
+| `reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique/2026-2030/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2026-2030` |
 | `reference/sharedassessments.org/tprm-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sharedassessments.org/tprm-glossary` |
 | `reference/silabs.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/silabs.com/security-glossary` |
+| `reference/smartnation.gov.sg/national-ai-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/smartnation.gov.sg/national-ai-strategy@2019` |
+| `reference/smartnation.gov.sg/national-ai-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/smartnation.gov.sg/national-ai-strategy@2023` |
 | `reference/snyk.io/ai-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/snyk.io/ai-cybersecurity-glossary` |
 | `reference/socradar.io/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/socradar.io/cybersecurity-glossary` |
 | `reference/solarwinds.com/it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/solarwinds.com/it-glossary` |
@@ -630,6 +720,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
 | `reference/wa.gov/data-breach-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/wa.gov/data-breach-glossary` |
 | `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
+| `reference/whitehouse.gov/ai-action-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/ai-action-plan@2025` |
+| `reference/whitehouse.gov/national-ai-rd-strategic-plan/2016/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2016` |
+| `reference/whitehouse.gov/national-ai-rd-strategic-plan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2019` |
+| `reference/whitehouse.gov/national-ai-rd-strategic-plan/2023/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-ai-rd-strategic-plan@2023` |
 | `reference/whitehouse.gov/national-cybersecurity-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2018` |
 | `reference/whitehouse.gov/national-cybersecurity-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2023` |
 | `reference/whitehouse.gov/national-cybersecurity-strategy/2026/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2026` |

@@ -1,0 +1,58 @@
+{
+  "secid": "secid:reference/president.go.kr/national-ai-strategy@2024",
+  "name": "National AI Strategy for Leap to AI G3 Powerhouse (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-ai-strategy-2024",
+  "owner": "Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National AI Strategy for Leap to AI G3 Powerhouse (Presidential National AI Committee & MSIT, September 26, 2024). Overarching national artificial intelligence strategy of the Republic of Korea issued by the Presidential National AI Committee and the Ministry of Science and ICT (MSIT), targeting AI infrastructure, sovereign AI compute, industrial AI adoption, and AI safety governance.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
+  "license": {
+    "spdx": "KOGL-Type-1",
+    "Grouping": "Permissive",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037",
+    "textUsed": "https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-26",
+    "active": true,
+    "supersedes": "secid:reference/president.go.kr/national-ai-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037) to Markdown (21,076 chars). Parsed 8 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
