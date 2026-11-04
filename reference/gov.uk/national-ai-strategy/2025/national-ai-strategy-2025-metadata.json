@@ -16,7 +16,12 @@
   "license": {
     "spdx": "OGL-UK-3.0",
     "Grouping": "Permissive",
-    "note": "Crown copyright; licensed under the Open Government Licence v3.0."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
+    "notes": "Crown copyright; licensed under the Open Government Licence v3.0."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf) from landing page (https://www.gov.uk/government/publications/ai-opportunities-action-plan); extracted 26-page PDF via PyMuPDF (56,519 chars). Parsed 28 sections (22 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf) from landing page (https://www.gov.uk/government/publications/ai-opportunities-action-plan); extracted 26-page PDF via PyMuPDF (56,671 chars). Parsed 58 sections (52 with explicit section identifiers)."
   },
   "extraction_history": [
     {

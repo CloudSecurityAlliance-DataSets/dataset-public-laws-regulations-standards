@@ -12,11 +12,7 @@ The European Union Agency for Network and Information Security (ENISA) is a cent
 
 ### Contact
 
-For contacting the authors please use resilience@enisa.europa.eu For media enquires about this paper, please use press@enisa.europa.eu.
-
-### Acknowledgements
-
-Special thanks to the NCSS experts group (https://resilience.enisa.europa.eu/enisas-ncss-project), and the representatives from the Member States for their contribution to this study.
+For contacting the authors please use resilience@enisa.europa.eu For media enquires about this paper, please use press@enisa.europa.eu. Acknowledgements Special thanks to the NCSS experts group (https://resilience.enisa.europa.eu/enisas-ncss-project), and the representatives from the Member States for their contribution to this study.
 
 Legal notice Notice must be taken that this publication represents the views and interpretations of the authors and editors, unless stated otherwise. This publication should not be construed to be a legal action of ENISA or the ENISA bodies unless adopted pursuant to the Regulation (EU) No 526/2013. This publication does not necessarily represent state-of the-art and ENISA may update it from time to time. Third-party sources are quoted as appropriate. ENISA is not responsible for the content of the external sources including external websites referenced in this publication. This publication is intended for information purposes only. It must be accessible free of charge. Neither ENISA nor any person acting on its behalf is responsible for the use that might be made of the information contained in this publication. Copyright Notice © European Union Agency for Network and Information Security (ENISA), 2016 Reproduction is authorised provided the source is acknowledged. ISBN: 978-92-9204-179-3 DOI: 10.2824/48036
 
@@ -920,7 +916,7 @@ At different social media portals, web constables (which are part of the police)
 
 Engaging in cooperation and information sharing with partners abroad is important to better understand and respond to a constantly changing threat environment.
 
-### Objectives related to international cooperation are:
+Objectives related to international cooperation are:
 
  Benefit from creating a common knowledge base between EU Member States.  Create synergy effects between national cyber security authorities.  Enable and increase combating transnational crime.
 
@@ -948,11 +944,11 @@ Denmark’s NCSS names “Denmark as a strong international partner” as one of
 
 There are three initiatives in this area:
 
-### 18. Strengthening of Danish cyber diplomacy
+18. Strengthening of Danish cyber diplomacy
 
-### 19. Promotion of Denmark’s stance in international cyber and information security cooperation forums
+19. Promotion of Denmark’s stance in international cyber and information security cooperation forums
 
-### 20. Nordic cooperation on research and education in cyber and information security46
+20. Nordic cooperation on research and education in cyber and information security46
 
 ### Establish a public-private partnership
 
@@ -1258,9 +1254,7 @@ working, it should be measured if these lead to stronger investments in security
 
 ### Status of implementation and identified gaps
 
-Based on the analysis of 22 EU Member States and EFTA countries, this section will describe which areas (objectives) are the best and the least developed. For this purpose, we examined the status of the implementation of the 15
-
-### objectives described in chapter 4. The status of the implementation has been divided into three categories:
+Based on the analysis of 22 EU Member States and EFTA countries, this section will describe which areas (objectives) are the best and the least developed. For this purpose, we examined the status of the implementation of the 15 objectives described in chapter 4. The status of the implementation has been divided into three categories:
 
  Low degree of implementation: <10 countries have largely implemented the objective  Medium degree of implementation: between 10 and 16 countries have largely implemented the objective  High degree of implementation: >16 countries have largely implemented the objective
 
@@ -1498,11 +1492,7 @@ Certain EU Member States were successful in increasing the willingness of privat
 
  Thereby, stakeholders have the possibility to voice concerns, which can be taken into consideration by public cyber security agencies. If concerns of the private stakeholders are taken into account, stronger commitment to the results can be expected. A good starting point to engage private stakeholders is through institutionalized cooperation mechanisms, e.g. through PPPs. However, many EU Member States are still lacking such cooperation platforms (see
 
- High degree of implementation: >16 countries have largely implemented the
-
-### objective
-
-Low degree of implementation).
+ High degree of implementation: >16 countries have largely implemented the objective Low degree of implementation).
 
 52 ENISA, KPMG (2016): Interview questionnaire Austria; ENISA, KPMG (2016): Interview questionnaire Malta.
 

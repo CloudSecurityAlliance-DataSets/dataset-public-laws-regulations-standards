@@ -534,9 +534,7 @@ The NCSC helps New Zealand’s most significant
 
 public and private sector organisations
 
-protect themselves
-
-## 3445
+protect themselves 3445
 
 ### incidents reported in 2018
 
@@ -934,9 +932,7 @@ Any action to address online harms, such as the Christchurch Call to Action to E
 
 Extremist Content Online, will be consistent with New Zealand’s wider cyber policy positions, including the importance
 
-of maintaining a free, open and secure internet and the application of international human rights law online.
-
-## Key areas of focus will include
+of maintaining a free, open and secure internet and the application of international human rights law online. Key areas of focus will include
 
 • seeking Cabinet agreement to accede to the Budapest Convention
 

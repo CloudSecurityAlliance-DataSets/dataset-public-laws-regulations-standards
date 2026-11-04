@@ -174,7 +174,9 @@ Meeting the challenge on our terms
 
 10. Even in a disrupted world, we seek opportunities. We cut an independent path and at the same time make common cause with those who share our interests and values. Our partnerships are vital to being able to protect the national security of New Zealand and to promote our national security interests regionally and globally.
 
-11. Our vision for national security is positive and intergenerational. It is about building a secure and resilient society that enables New Zealanders’ diverse ways of life and pursuit of opportunities.
+### 11. Our vision for national security is positive
+
+and intergenerational. It is about building a secure and resilient society that enables New Zealanders’ diverse ways of life and pursuit of opportunities.
 
 This Strategy is an overarching approach for national security. It complements a number of existing strategies and policies, which remain in effect, with updates to be guided by the National Security Strategy. These include the: • Countering Terrorism and Violent Extremism Strategy • Cyber Security Strategy • Maritime Security Strategy • Transnational Organised Crime Strategy • Pacific Resilience Strategy • Mass Arrivals Prevention Strategy • Defence Policy Statements and White Papers • National Space Policy • Border Security Strategy
 
@@ -204,17 +206,27 @@ NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 2 1 NATIONAL SECURITY STRATE
 
 20. New Zealand faces a fundamentally more challenging security outlook.
 
-21. We live in an era of disruption. Climate change poses an existential challenge, especially for our Pacific partners. Existing and emerging technologies like artificial intelligence (AI) provide opportunities, but also amplify threats from both countries and criminals.
+### 21. We live in an era of disruption. Climate change
+
+poses an existential challenge, especially for our Pacific partners. Existing and emerging technologies like artificial intelligence (AI) provide opportunities, but also amplify threats from both countries and criminals.
 
 24. Democracies also face challenges at home. This includes growing feelings of distrust and disenfranchisement, rooted in rising economic inequality and discontent. Disinformation and foreign interference exacerbate these trends.
 
-25. These kinds of threats reach New Zealanders more directly. This is why it is important for New Zealanders to be empowered with information, to increase risk awareness and resilience.
+### 25. These kinds of threats reach New Zealanders
 
-22. We live in a more contested world. Who has power, and even more importantly how they exercise it, will continue to have consequences for New Zealand, the Pacific, and our global interests. Russia’s invasion of Ukraine continues to have far-reaching consequences, from exacerbating food and energy insecurity to stoking global inflation.
+more directly. This is why it is important for New Zealanders to be empowered with information, to increase risk awareness and resilience.
 
-26. Our security outlook is defined by the intersection of three key challenges: 1) strategic competition and a rules-based international system under pressure, 2) transboundary challenges, and 3) challenges to democracy.
+### 22. We live in a more contested world. Who has
 
-23. Pressure is likely to grow for countries like New Zealand, whose security and prosperity depend on a cooperative landscape. Countries are seeking to advance competing visions for regional and global orders. This strategic competition is increasingly out in the open, including in the Pacific and other areas where strategic interest is growing, like space and Antarctica.
+power, and even more importantly how they exercise it, will continue to have consequences for New Zealand, the Pacific, and our global interests. Russia’s invasion of Ukraine continues to have far-reaching consequences, from exacerbating food and energy insecurity to stoking global inflation.
+
+### 26. Our security outlook is defined by the
+
+intersection of three key challenges: 1) strategic competition and a rules-based international system under pressure, 2) transboundary challenges, and 3) challenges to democracy.
+
+### 23. Pressure is likely to grow for countries like
+
+New Zealand, whose security and prosperity depend on a cooperative landscape. Countries are seeking to advance competing visions for regional and global orders. This strategic competition is increasingly out in the open, including in the Pacific and other areas where strategic interest is growing, like space and Antarctica.
 
 27. These trends will all impact us significantly in their own right, but it is the dynamic and unpredictable ways in which they interact that may have the most profound effects. This is likely to include less multilateral cooperation on some of the most pressing issues of our time, and pose unique challenges for open societies like ours.
 
@@ -222,7 +234,9 @@ Strategic competition and the rules-based international system
 
 NEW ZEALAND’S SECURITY OUTLOOK
 
-28. The rules-based system is fundamental to our national security. It has meant stability and predictability, has largely reflected our liberal democratic values and interests, and enabled cooperation on a range of issues.
+### 28. The rules-based system is fundamental to
+
+our national security. It has meant stability and predictability, has largely reflected our liberal democratic values and interests, and enabled cooperation on a range of issues.
 
 Strategic competition
 
@@ -242,7 +256,9 @@ Cyber
 
 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 4 3 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND
 
-31. Supporting the present rules-based system is more important than ever. This includes support for the rules-based system in the Pacific, which has real impacts on how we and our Pacific partners are able to pursue our interests and protect our people.
+### 31. Supporting the present rules-based system is
+
+more important than ever. This includes support for the rules-based system in the Pacific, which has real impacts on how we and our Pacific partners are able to pursue our interests and protect our people.
 
 short of full conflict could have unpredictable but significant impacts on trade and supply chains, with global effects, including for New Zealand and the rules-based international system.
 
@@ -256,13 +272,19 @@ Pressures in the Pacific
 
 37. Climate change is the single greatest threat to the livelihoods, security, and wellbeing of Pacific peoples, with increasingly severe impacts including sea-level rise, more extreme weather events, freshwater shortages, pressure on food stocks, and migration—both internal and cross-border.
 
-33. Russia’s invasion of Ukraine is a direct challenge to the United Nations Charter and state sovereignty, and the source of great human suffering. But even before this invasion, we witnessed Russia challenging other states’ sovereignty, engaging in globally disruptive cyber-attacks, and seeking to undermine democratic elections in Europe and the United States. The impacts of its efforts to spread disinformation around the world have been seen in New Zealand and the Pacific. All of these actions create significant and wide-reaching disruptions.
+### 33. Russia’s invasion of Ukraine is a direct
+
+challenge to the United Nations Charter and state sovereignty, and the source of great human suffering. But even before this invasion, we witnessed Russia challenging other states’ sovereignty, engaging in globally disruptive cyber-attacks, and seeking to undermine democratic elections in Europe and the United States. The impacts of its efforts to spread disinformation around the world have been seen in New Zealand and the Pacific. All of these actions create significant and wide-reaching disruptions.
 
 38. Additional challenges in the Pacific come together as compounding pressures, including development challenges, demographic and resource pressures, economic issues like indebtedness and inflation, transnational threats, and more. This layering of challenges also reduces the region’s resilience to the negative effects of strategic competition.
 
-39. Increasing great power attention to the region brings opportunity in terms of finance and investments. But how these investments are made matters. We encourage countries from beyond the region to work through existing architecture, support Pacific priorities, and to be transparent with their intentions.
+### 39. Increasing great power attention to the region
 
-34. China’s rise is a major driver of geopolitical change. China can play a significant role in addressing global challenges and is an important relationship for New Zealand. Our national interests require continued engagement with China, and cooperation where our interests converge. At the same time, China has become more assertive and more willing to challenge existing international rules and norms. We have seen the building of military bases in disputed areas of the South China Sea, and the use of economic coercion. Chinese state-sponsored actors have exploited cyber vulnerabilities in New Zealand in ways that undermine our security.
+brings opportunity in terms of finance and investments. But how these investments are made matters. We encourage countries from beyond the region to work through existing architecture, support Pacific priorities, and to be transparent with their intentions.
+
+### 34. China’s rise is a major driver of geopolitical
+
+change. China can play a significant role in addressing global challenges and is an important relationship for New Zealand. Our national interests require continued engagement with China, and cooperation where our interests converge. At the same time, China has become more assertive and more willing to challenge existing international rules and norms. We have seen the building of military bases in disputed areas of the South China Sea, and the use of economic coercion. Chinese state-sponsored actors have exploited cyber vulnerabilities in New Zealand in ways that undermine our security.
 
 40. China’s development cooperation has become a key lever to achieve its long-term ambitions in the Pacific. Its efforts to develop ports and airports in the region bring the possibility that these could become dual-use facilities (serving both civilian and military purposes) or fully fledged military bases in the future, which would fundamentally alter the strategic balance in the region. The 2022 China-Solomon Islands security agreement and ongoing attempts to create new groupings in the Pacific demonstrate China’s ambition to link economic and security cooperation, create competing regional architectures, and expand its influence with Pacific Island countries across policing, defence, digital, and maritime spheres.
 
@@ -392,7 +414,9 @@ NATIONAL SECURITY OUTCOMES AND PRIORITIES
 
 ### A secure and resilient Aotearoa New Zealand
 
-PRIORITY 1: Acting early to prevent national security threats and build New Zealand’s resilience Anticipate and identify national security threats to enable government to take a proactive approach, and to respond effectively where prevention is not possible
+### PRIORITY 1: Acting early to prevent
+
+national security threats and build New Zealand’s resilience Anticipate and identify national security threats to enable government to take a proactive approach, and to respond effectively where prevention is not possible
 
 OUTCOME 1
 
@@ -400,7 +424,9 @@ New Zealand protected from
 
 threats
 
-PRIORITY 2: Working together to foster collective understanding and approaches Work with Māori as our Treaty partner, New Zealand society, and our Australian ally and international partners to build trust, understanding, and resilience
+### PRIORITY 2: Working together to
+
+foster collective understanding and approaches Work with Māori as our Treaty partner, New Zealand society, and our Australian ally and international partners to build trust, understanding, and resilience
 
 OUTCOME 2
 
@@ -412,7 +438,9 @@ engaged on national security
 
 challenges
 
-PRIORITY 3: Leading an integrated approach Design and establish a Strategy-led national security community with clear leadership and accountabilities, integrated advice, and a system-wide approach to capabilities
+### PRIORITY 3: Leading an
+
+integrated approach Design and establish a Strategy-led national security community with clear leadership and accountabilities, integrated advice, and a system-wide approach to capabilities
 
 OUTCOME 3
 
@@ -458,7 +486,7 @@ Making national security transparent and accessible to a diverse range of audien
 
 ADDITIONAL ACTIONS FOR 2023-2025 The government will undertake a suite of complementary actions to begin implementing the strategy’s priorities
 
-### Priority 1: Acting early
+Priority 1: Acting early
 
 • Publish updated National Security Intelligence Priorities to support our understanding of core and connected issues in the Strategy • In preparation for a potential open-source intelligence capability, support work underway to develop ethical standards • Information sharing with Pacific partners on shared challenges, led by a new Pacific National Security and Intelligence Coordinator
 
@@ -474,7 +502,7 @@ HŌTAKA MAHI | PROGRAMME OF ACTION 2023-2025
 
 ADDITIONAL ACTIONS FOR 2023-2025 Government will undertake a suite of complementary actions to begin implementing the strategy’s priorities
 
-### Priority 2: Working together
+Priority 2: Working together
 
 Commission the national security public survey, a representative survey of New Zealand’s population
 
@@ -488,7 +516,7 @@ Enhancing outreach and engagement
 
 Ensure there is clear and accessible information about funds available to communities who wish to engage on national security issues
 
-### Priority 3: Leading an integrated approach
+Priority 3: Leading an integrated approach
 
 • Reform the Security and Intelligence Board to progress implementation of the Strategy • Build connections between the national security community and other sectors to address issues that can have national security implications
 
@@ -532,7 +560,9 @@ to building a more resilient society. This section explains New Zealand’s twel
 
 72. For many of these issues, the national security community has established policies and strategies in place. This overarching National Security Strategy complements these policies and strategies and will help guide updates to them over time. Other issues represent emerging challenges to our national security for which policy is currently being developed. This set of core issues will continue to evolve as new national security challenges emerge.
 
-70. The twelve core national security issues that most directly impact our national security interests are: • Strategic competition and the
+### 70. The twelve core national security issues that
+
+most directly impact our national security interests are: • Strategic competition and the
 
 73. In addition to the core issues, this section also recognises a number of broader drivers of insecurity, or connected issues—those that may have national security implications through their scale and magnitude. Examples of connected issues particularly relevant to our security outlook include climate change; biosecurity and human health; social instability; and inequality, debt, and corruption. These are areas in which other sectors of government have frontline responsibilities, and so the national security community must enhance how it connects with these sectors and must be consistently attendant to these issues.
 
@@ -692,7 +722,9 @@ Disinformation is false or modified information knowingly and deliberately share
 
 All countries engage in foreign influence activity to shape perceptions and decision-making in other countries. Such activity becomes foreign interference when it is intended to influence, disrupt or subvert another country’s interests by covert, corruptive, deceptive or threatening means. This includes activities by a foreign country to influence elected officials, explicitly or implicitly. Espionage refers to clandestine activities undertaken to collect information, materials, or capability to obtain competitive advantage at the expense of New Zealand’s security, international relations, and economic wellbeing. Foreign interference and espionage present a significant and growing national security threat to New Zealand. Government is building resilience to this threat in partnership with stakeholders across society.
 
-87. The Countering Foreign Interference Work Programme focuses on managing risks to our democratic institutions and civil and political rights, to economic prosperity (especially protecting our critical infrastructure and sensitive technology), and building our resilience to economic coercion.
+### 87. The Countering Foreign Interference Work
+
+Programme focuses on managing risks to our democratic institutions and civil and political rights, to economic prosperity (especially protecting our critical infrastructure and sensitive technology), and building our resilience to economic coercion.
 
 ethnic communities’ experiences with foreign interference to support their resilience.
 
@@ -748,7 +780,9 @@ NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 22 21 NATIONAL SECURITY STRA
 
 Violent extremism is an evolving threat, driven by increasingly complex and convoluted ideologies. Terrorism continues to threaten the safety of individuals, the security of democracy, and the cohesion of communities, globally and in New Zealand. New Zealand’s terrorism threat environment is dynamic and influenced by both domestic and international actors and events.
 
-91. New Zealand’s Countering Terrorism and Violent Extremism Strategy focuses on bringing our nation together to protect all New Zealanders, with prevention as a priority.
+### 91. New Zealand’s Countering Terrorism and Violent
+
+Extremism Strategy focuses on bringing our nation together to protect all New Zealanders, with prevention as a priority.
 
 93. Initiatives introduced in response to the Royal Commission Report, which enable us to act early to prevent and reduce the threat of terrorism, include:
 
@@ -768,7 +802,9 @@ Transnational organised crime (TNOC) operates across national borders or is carr
 
 98. New Zealand has a very strong enforcement approach, working closely with our international partners to target and disrupt TNOC networks. The Resilience to Organised Crime in Communities work programme complements these efforts in focusing on the domestic context, addressing social drivers of organised crime, wellbeing harms, and building community resilience against organised crime.
 
-96. The New Zealand Transnational Organised Crime Strategy 2020-2025 provides the framework for a coordinated response to prevent and disrupt TNOC that includes government, private sector, communities, and international partners.
+### 96. The New Zealand Transnational Organised Crime
+
+Strategy 2020-2025 provides the framework for a coordinated response to prevent and disrupt TNOC that includes government, private sector, communities, and international partners.
 
 97. The Strategy coordinates a range of initiatives aimed at bringing stakeholders together, increasing our understanding and awareness of TNOC, and aligning priorities to disrupt TNOC threats impacting New Zealand. Activities include: • Strengthening our understanding of TNOC through research projects in collaboration with academia and building our insights through the implementation of a strategic intelligence fusion centre. • Delivering training and education material to government, private sector and community partners so TNOC can be recognised and reported appropriately. • Aligning our policy and legislative settings to make it harder for TNOC groups to operate in New Zealand. • Supporting agencies to disrupt TNOC networks through coordinated operational action.
 

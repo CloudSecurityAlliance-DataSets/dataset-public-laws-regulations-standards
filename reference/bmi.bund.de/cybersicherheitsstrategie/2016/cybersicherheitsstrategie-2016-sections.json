@@ -61,79 +61,7 @@
     "section_name": "Strategische Ziele und Maßnahmen",
     "id_kind": "",
     "parent_id": "",
-    "body": "Digitale Kompetenz bei allen Anwendern fördern"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitaler Sorglosigkeit entgegenwirken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Sichere elektronische Identitäten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Zertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitalisierung sicher gestalten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsforschung vorantreiben",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Kritische Infrastrukturen sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Unternehmen in Deutschland schützen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die deutsche IT-Wirtschaft stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Mit den Providern zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsdienstleister einbeziehen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Eine Plattform für vertrauensvollen\n\nInformationsaustausch schaffen\n\n10 | Cyber-Sicherheitsstrategie"
+    "body": "Digitale Kompetenz bei allen Anwendern fördern\n\nDigitaler Sorglosigkeit entgegenwirken\n\nVoraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen\n\nSichere elektronische Identitäten\n\nZertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit\n\nDigitalisierung sicher gestalten\n\nIT-Sicherheitsforschung vorantreiben\n\nKritische Infrastrukturen sichern\n\nUnternehmen in Deutschland schützen\n\nDie deutsche IT-Wirtschaft stärken\n\nMit den Providern zusammenarbeiten\n\nIT-Sicherheitsdienstleister einbeziehen\n\nEine Plattform für vertrauensvollen\n\nInformationsaustausch schaffen\n\n10 | Cyber-Sicherheitsstrategie"
   },
   {
     "depth": 2,
@@ -197,63 +125,7 @@
     "section_name": "Aktive Positionierung Deutschlands in der europäischen und inter nationalen Cyber-Sicherheitspolitik",
     "id_kind": "",
     "parent_id": "",
-    "body": "-\n\nDas Nationale Cyber-Abwehrzentrum\n\nweiterentwickeln\n\nDie Fähigkeit zur Analyse und\n\nReaktion vor Ort stärken"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Strafverfolgung im Cyber-Raum intensivieren",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Cyber-Spionage und Cyber-Sabotage\n\neffektiv bekämpfen\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\naus dem Ausland\n\nGründung der Zentralen Stelle für Informa\n\n-\n\ntionstechnik im Sicherheitsbereich (ZITiS)"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Verteidigungsaspekte der Cyber-Sicherheit stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "CERT-Strukturen in Deutschland stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die Bundesverwaltung sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Zwischen Bund und Ländern eng zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Ressourcen einsetzen, Personal\n\ngewinnen und entwickeln\n\nEine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Cyber-Sicherheit international aktiv mitgestalten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Bilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Internationale Strafverfolgung stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Cyber-Sicherheitsstrategie | 11"
+    "body": "-\n\nDas Nationale Cyber-Abwehrzentrum\n\nweiterentwickeln\n\nDie Fähigkeit zur Analyse und\n\nReaktion vor Ort stärken\n\nStrafverfolgung im Cyber-Raum intensivieren\n\nCyber-Spionage und Cyber-Sabotage\n\neffektiv bekämpfen\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\naus dem Ausland\n\nGründung der Zentralen Stelle für Informa\n\n-\n\ntionstechnik im Sicherheitsbereich (ZITiS)\n\nVerteidigungsaspekte der Cyber-Sicherheit stärken\n\nCERT-Strukturen in Deutschland stärken\n\nDie Bundesverwaltung sichern\n\nZwischen Bund und Ländern eng zusammenarbeiten\n\nRessourcen einsetzen, Personal\n\ngewinnen und entwickeln\n\nEine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln\n\nCyber-Sicherheit international aktiv mitgestalten\n\nBilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)\n\nInternationale Strafverfolgung stärken\n\nCyber-Sicherheitsstrategie | 11"
   },
   {
     "depth": 2,
@@ -261,71 +133,7 @@
     "section_name": "Handlungsfeld 1",
     "id_kind": "",
     "parent_id": "",
-    "body": "Digitale Kompetenz bei allen Anwendern fördern\n\nDigitale Kompetenz bei allen Anwendern fördern"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitaler Sorglosigkeit entgegenwirken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitaler Sorglosigkeit entgegenwirken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen\n\nVoraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Sichere elektronische Identitäten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Sichere elektronische Identitäten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Zertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit\n\nZertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitalisierung sicher gestalten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Digitalisierung sicher gestalten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsforschung vorantreiben",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsforschung vorantreiben",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Digitale Kompetenz bei allen Anwendern fördern\n\nDigitale Kompetenz bei allen Anwendern fördern\n\nDigitaler Sorglosigkeit entgegenwirken\n\nDigitaler Sorglosigkeit entgegenwirken\n\nVoraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen\n\nVoraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen\n\nSichere elektronische Identitäten\n\nSichere elektronische Identitäten\n\nZertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit\n\nZertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit\n\nDigitalisierung sicher gestalten\n\nDigitalisierung sicher gestalten\n\nIT-Sicherheitsforschung vorantreiben\n\nIT-Sicherheitsforschung vorantreiben"
   },
   {
     "depth": 2,
@@ -461,87 +269,7 @@
     "section_name": "Handlungsfeld 2",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Kritische Infrastrukturen sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Kritische Infrastrukturen sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Unternehmen in Deutschland schützen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Unternehmen in Deutschland schützen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die deutsche IT-Wirtschaft stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die deutsche IT-Wirtschaft stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Mit den Providern zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Mit den Providern zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsdienstleister einbeziehen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "IT-Sicherheitsdienstleister einbeziehen",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Eine Plattform für vertrauensvollen\n\nEine Plattform für vertrauensvollen\n\nInformationsaustausch schaffen\n\nInformationsaustausch schaffen\n\n20 | Cyber-Sicherheitsstrategie"
+    "body": "Kritische Infrastrukturen sichern\n\nKritische Infrastrukturen sichern\n\nUnternehmen in Deutschland schützen\n\nUnternehmen in Deutschland schützen\n\nDie deutsche IT-Wirtschaft stärken\n\nDie deutsche IT-Wirtschaft stärken\n\nMit den Providern zusammenarbeiten\n\nMit den Providern zusammenarbeiten\n\nIT-Sicherheitsdienstleister einbeziehen\n\nIT-Sicherheitsdienstleister einbeziehen\n\nEine Plattform für vertrauensvollen\n\nEine Plattform für vertrauensvollen\n\nInformationsaustausch schaffen\n\nInformationsaustausch schaffen\n\n20 | Cyber-Sicherheitsstrategie"
   },
   {
     "depth": 2,
@@ -661,87 +389,7 @@
     "section_name": "Handlungsfeld 3",
     "id_kind": "",
     "parent_id": "",
-    "body": "Das Nationale Cyber-Abwehrzentrum\n\nDas Nationale Cyber-Abwehrzentrum\n\nweiterentwickeln\n\nweiterentwickeln\n\nDie Fähigkeit zur Analyse und\n\nDie Fähigkeit zur Analyse und\n\nReaktion vor Ort stärken\n\nReaktion vor Ort stärken"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Strafverfolgung im Cyber-Raum intensivieren",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Strafverfolgung im Cyber-Raum intensivieren",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Cyber-Spionage und Cyber-Sabotage\n\nCyber-Spionage und Cyber-Sabotage\n\neffektiv bekämpfen\n\neffektiv bekämpfen\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\naus dem Ausland\n\naus dem Ausland\n\nGründung der Zentralen Stelle für Informa\n\nGründung der Zentralen Stelle für Informa\n\n-\n\ntionstechnik im Sicherheitsbereich (ZITiS)\n\ntionstechnik im Sicherheitsbereich (ZITiS)"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Verteidigungsaspekte der Cyber-Sicherheit stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Verteidigungsaspekte der Cyber-Sicherheit stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "CERT-Strukturen in Deutschland stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "CERT-Strukturen in Deutschland stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die Bundesverwaltung sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Die Bundesverwaltung sichern",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Zwischen Bund und Ländern eng zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Zwischen Bund und Ländern eng zusammenarbeiten",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Ressourcen einsetzen, Personal\n\nRessourcen einsetzen, Personal\n\ngewinnen und entwickeln\n\ngewinnen und entwickeln"
+    "body": "Das Nationale Cyber-Abwehrzentrum\n\nDas Nationale Cyber-Abwehrzentrum\n\nweiterentwickeln\n\nweiterentwickeln\n\nDie Fähigkeit zur Analyse und\n\nDie Fähigkeit zur Analyse und\n\nReaktion vor Ort stärken\n\nReaktion vor Ort stärken\n\nStrafverfolgung im Cyber-Raum intensivieren\n\nStrafverfolgung im Cyber-Raum intensivieren\n\nCyber-Spionage und Cyber-Sabotage\n\nCyber-Spionage und Cyber-Sabotage\n\neffektiv bekämpfen\n\neffektiv bekämpfen\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\nEin Frühwarnsystem gegen Cyber-Angriffe\n\naus dem Ausland\n\naus dem Ausland\n\nGründung der Zentralen Stelle für Informa\n\nGründung der Zentralen Stelle für Informa\n\n-\n\ntionstechnik im Sicherheitsbereich (ZITiS)\n\ntionstechnik im Sicherheitsbereich (ZITiS)\n\nVerteidigungsaspekte der Cyber-Sicherheit stärken\n\nVerteidigungsaspekte der Cyber-Sicherheit stärken\n\nCERT-Strukturen in Deutschland stärken\n\nCERT-Strukturen in Deutschland stärken\n\nDie Bundesverwaltung sichern\n\nDie Bundesverwaltung sichern\n\nZwischen Bund und Ländern eng zusammenarbeiten\n\nZwischen Bund und Ländern eng zusammenarbeiten\n\nRessourcen einsetzen, Personal\n\nRessourcen einsetzen, Personal\n\ngewinnen und entwickeln\n\ngewinnen und entwickeln"
   },
   {
     "depth": 2,
@@ -957,23 +605,7 @@
     "section_name": "Internationales Handeln",
     "id_kind": "",
     "parent_id": "",
-    "body": "Eine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nEine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln\n\nCyber-Sicherheit international aktiv mitgestalten\n\nCyber-Sicherheit international aktiv mitgestalten\n\nBilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)\n\nBilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Internationale Strafverfolgung stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Internationale Strafverfolgung stärken",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "38 | Cyber-Sicherheitsstrategie"
+    "body": "Eine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nEine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln\n\nDie Cyber-Verteidigungspolitik der NATO weiterentwickeln\n\nCyber-Sicherheit international aktiv mitgestalten\n\nCyber-Sicherheit international aktiv mitgestalten\n\nBilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)\n\nBilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)\n\nInternationale Strafverfolgung stärken\n\nInternationale Strafverfolgung stärken\n\n38 | Cyber-Sicherheitsstrategie"
   },
   {
     "depth": 2,

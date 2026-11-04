@@ -14,9 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg).",
   "license": {
-    "spdx": "Singapore-Open-Data-Licence-1.0",
-    "Grouping": "Permissive",
-    "note": "Government of Singapore Open Data Licence v1.0."
+    "spdx": "LicenseRef-SG-Government-Copyright",
+    "Grouping": "Government-Open-Access",
+    "redistribution": "yes",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
+    "notes": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use."
   },
   "links": {
     "wikipedia": "",

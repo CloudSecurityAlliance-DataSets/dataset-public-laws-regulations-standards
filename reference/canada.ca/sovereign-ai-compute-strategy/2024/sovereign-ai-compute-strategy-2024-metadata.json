@@ -16,7 +16,12 @@
   "license": {
     "spdx": "OGL-Canada-2.0",
     "Grouping": "Permissive",
-    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
+    "notes": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
   },
   "links": {
     "wikipedia": "",

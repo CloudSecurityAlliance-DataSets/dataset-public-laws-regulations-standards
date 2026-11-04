@@ -14,14 +14,19 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
   "license": {
-    "spdx": "Singapore-Open-Data-Licence-1.0",
-    "Grouping": "Permissive",
-    "note": "Government of Singapore Open Data Licence v1.0."
+    "spdx": "LicenseRef-SG-Government-Copyright",
+    "Grouping": "Government-Open-Access",
+    "redistribution": "yes",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
+    "notes": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024",
-    "textUsed": "https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,27 +37,12 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Generated structured reference summary from verified SecID registry metadata for secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024 (885 chars). Parsed 3 sections (2 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024 (https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "source-unavailable"
   }
 }

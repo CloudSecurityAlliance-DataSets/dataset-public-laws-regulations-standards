@@ -16,7 +16,12 @@
   "license": {
     "spdx": "etalab-2.0",
     "Grouping": "Permissive",
-    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 137-page PDF (https://www.vie-publique.fr/files/rapport/pdf/174000727.pdf) locally via PyMuPDF (289,845 chars). Parsed 81 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 137-page PDF (https://www.vie-publique.fr/files/rapport/pdf/174000727.pdf) locally via PyMuPDF (290,247 chars). Parsed 80 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

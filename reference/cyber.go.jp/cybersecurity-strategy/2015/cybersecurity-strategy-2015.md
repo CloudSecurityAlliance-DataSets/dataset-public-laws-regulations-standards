@@ -1,8 +1,6 @@
 # Cybersecurity Strategy of Japan (September 2015)
 
-Provisional Translation
-
-## CYBERSECURITY STRATEGY
+Provisional Translation CYBERSECURITY STRATEGY
 
 ### September 4, 2015
 
@@ -98,9 +96,7 @@ To prevent further aggravation of such threats, the creation of “free and fair
 
 In accordance with the Basic Act on Cybersecurity,1 and based on the understanding on the current state described in the preceding chapter, Japan has set the objective of this strategy as follows.
 
-### Objective:
-
-Ensure a free, fair, and secure cyberspace; and subsequently contribute to improving socio-economic vitality and sustainable development, building a society where the people can live safe and secure lives, and ensuring peace and stability of the international community and national security.
+Objective: Ensure a free, fair, and secure cyberspace; and subsequently contribute to improving socio-economic vitality and sustainable development, building a society where the people can live safe and secure lives, and ensuring peace and stability of the international community and national security.
 
 ### (1) The Cyberspace Japan Seeks
 
@@ -230,7 +226,7 @@ Meanwhile, it is impracticable to provide the secured IoT systems, unless necess
 
 measures are taken, e.g. releasing and installing security patches or software updates, by quickly pinpointing technical problems developing in cyberspace. The Government will seek measures for relevant parties to make concerted efforts to: examine the vulnerabilities of the IoT systems and devices comprising the IoT systems; encourage the suppliers of the IoT systems and devices to take necessary actions to modify detected vulnerabilities; and elaborate to create specific means to inform users of the IoT systems and devices about safeguard measures to fix the detected vulnerabilities. Similarly, the Government will promote relevant parties’ collaboration to: synthesize and analyze the data on security quality and threats detected in the use-phase of the IoT systems; feedback the results of the synthesis and analysis to stakeholders, such as IoT systems developers; and realize and provide more secured and higher-quality services.
 
-(4) Implementing Technological Development and Demonstration Related
+#### (4) Implementing Technological Development and Demonstration Related
 
 For the promotion of new business creation utilizing the IoT systems, it is necessary to advance technological development and other measures to assure security, by addressing risks associated with the procurement and introduction of unreliable and low-end devices, based on the understanding that IoT system components have the characteristics different from those of conventional information and communications devices, for example, in terms of longer life cycle from design to disposition and limited throughput capacity. From this standpoint, the Government will work on the development and demonstration of ICTs in which such characteristics of the IoT system components are incorporated.
 
@@ -420,7 +416,7 @@ manipulative; and that IT-related products and services would become more multi-
 
 Under the circumstances, the Government will focus its forward-looking effort on the priorities outlined in the following sections, on the premise of the continuous full implementation of the ongoing cybersecurity measures, for the governmental bodies and government-related entities to take flexible and prompt counteractions to address not only existing threats and challenges but also unforeseen threats and other emerging concerns; at the same time, the Government will incorporate these priorities timely in the regulations, such as the common standards for the governmental bodies, and ensure the full implementation of these regulations by certain measures, such as audit and daily learning.
 
-(1) Strengthening Defense Capabilities of Information Systems and
+#### (1) Strengthening Defense Capabilities of Information Systems and
 
 To respond to cyber attacks, such as targeted attacks apparently aiming at stealing, damaging, or altering information, the Government will take government-wide, multi-layered measures based upon the assumption of cyber attacks. This must also include contingency plans for the possibility – a certain entity would be used as a springboard for the entity that is the original target of a cyber attack. In promoting these measures, the Government will ensure that they are based on the common standards for the governmental bodies, and will conduct risk analysis intending to perform its administrative responsibilities, for the optimization of these measures as the entire governmental bodies.
 
@@ -448,7 +444,7 @@ The following are examples of the planned activities: the review and improvement
 
 capabilities of each entity; this will be done by utilizing qualifications and other special skills as one of objective criteria to evaluate individuals’ competencies.
 
-(3) Adapting to Technological Advancement and Change in Business
+#### (3) Adapting to Technological Advancement and Change in Business
 
 To perform administrative functions in a way adjusting to the sophistication and rationalization of administrative affairs by the utilization of multi-functioned and diversified IT products and services, and in a way to meet the demands of the digital era, the Government will make efforts to prevent incidents and the deterioration of security standards due to the inappropriate use of new IT products and services, while paying due attention to cybersecurity assurance.
 
@@ -462,7 +458,7 @@ characteristics of these IT products and services. In terms of the changes in th
 
 governmental bodies and government-related entities will closely collaborate to adapt the performance styles appropriately, based on assured cybersecurity.
 
-(4) Comprehensively Enhancing Measures through the Extended Scope of
+#### (4) Comprehensively Enhancing Measures through the Extended Scope of
 
 To strengthen cybersecurity throughout the governmental bodies as a whole, the Government will strive for the overall enhancement of measures in incorporated administrative agencies, special corporations closely working with the governmental bodies to perform their public functions, and other relevant entities.
 
@@ -536,7 +532,7 @@ law in cyberspace and bring peace and stability to the international community.
 
 Cyberspace has become a basis for all kinds of activities, including social and economic activities as well as military operations. Under such circumstances, it is necessary to promote international discussions at the UN and other fora on how to prevent unexpected situations stemming from cyber attacks and share common understanding among many countries. To this end, Japan will actively provide information on its fundamental viewpoint and share it with many countries at multilateral conferences, such as the UN, as well as bilaterally in cyber dialogues and conferences. Moreover, Japan will promote international confidence building by creating multi-layered contact mechanisms, e.g. points of contact among countries or the private sectors, for transnational cybersecurity incidents during peacetime and conduct contact exercises and other measures.
 
-(3) Tackling Activities of International Terrorist Organizations Maliciously
+#### (3) Tackling Activities of International Terrorist Organizations Maliciously
 
 In order for cyberspace to remain a domain that contributes to peace and stability of the international community, it is necessary to deter the activities of international terrorist organizations that have maliciously used cyberspace. With the expansion of cyberspace, non-governmental actors that advocate extremism have been using cyberspace for malicious purposes such as the dissemination and demonstration of ideas, recruiting and solicitation, and fund-raising for terrorism. Taking into account the international statements such as the resolutions of UN Security Council, Japan must carry out measures against such international terrorist organizations in coordination with the international community. For this, Japan will take necessary measures, e.g. strengthening information gathering and analysis on the activities of international terrorist organizations in cyberspace, including the utilization of technologies that gather terrorism-related information on the Internet.
 
@@ -634,7 +630,7 @@ the following sections, the Government will make efforts to: expand cybersecurit
 
 It should be noted that it is necessary for such human resources to develop not only technological capabilities but also high ethical standards.
 
-(1) Promoting Human Resources Development Corresponding to Social
+#### (1) Promoting Human Resources Development Corresponding to Social
 
 Regarding highly skilled experts who will lead a future society, it is necessary to implement the quantitative and qualitative human resources development that matches social needs, in more organic industry-academia-public coordination. The Government will support higher education institutions, such as graduate schools, universities, and colleges of technology to implement programs to offer students learning opportunities to develop a solid foundation in both the basic theory and practice of cybersecurity and to advance their practical cybersecurity skills. In this regard, the Government will encourage these higher education institutions to ensure that these programs will have a component to evaluate students’ basic qualities, in terms of whether or not they would have sufficient knowledge, competencies, and other elements, as required.
 
@@ -670,7 +666,7 @@ In this regard, the Government will aim at creating a virtuous circle of supply 
 
 public sector; the promotion of other relevant measures in various perspectives, including business finance, and so on.
 
-(5) Strategizing Human Resources Development for Enhanced
+#### (5) Strategizing Human Resources Development for Enhanced
 
 There are rapidly increasing and aggravating cyber attacks that target a whole organization and/or a sector, including the governmental bodies and CII operators. To tackle cyber attacks in an accurate and timely manner, it is not enough to make the efforts of individuals to enhance their cyber defense capabilities; what is important is aligning these individual efforts in an organic fashion for building enhanced organizational capacity. For the overall organizational improvement of cybersecurity capabilities in an effective and efficient way, it is crucial to create an environment where different organizations could learn from each other through friendly competition, while helping individual organizations grasp their current levels of practical skills as well as challenges specifically.
 

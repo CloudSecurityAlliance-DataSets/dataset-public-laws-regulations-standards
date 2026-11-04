@@ -862,7 +862,7 @@ Key concept: AI model testing verifies and validates an AI system’s underlying
 
 • For general-purpose AI systems, such as those based on large language models, include adversarial testing procedures such as red teaming.
 
-### 4.3.2. Compile a complete test report, including:
+4.3.2. Compile a complete test report, including:
 
 • a summary of the testing goals
 
@@ -1138,7 +1138,7 @@ Commit to engaging with stakeholders – people and groups – potentially impac
 
 10.1.1. Identify and document which key stakeholder groups may be impacted by the organisation’s use of AI in line with your AI strategy.85
 
-### 10.1.2. Identify and document the needs of these key stakeholder groups in relation to your AI strategy.86
+10.1.2. Identify and document the needs of these key stakeholder groups in relation to your AI strategy.86
 
 10.1.3. Identify and document which of the stakeholder needs your organisational-level AI policies and procedures will address.87
 
@@ -1164,7 +1164,7 @@ Commit to system-level stakeholder engagement and evaluation of potential harm.
 
 Key concept: Stakeholder engagement is effective in responsible AI system deployment, particularly when carried out at the earliest possible stages in the AI lifecycle and embedded throughout the end-to-end lifecycle.
 
-### 10.3.1. Identify and document where expected users interact with each AI system, including:
+10.3.1. Identify and document where expected users interact with each AI system, including:
 
 • user interactions with the system or AI system-generated content
 
@@ -1172,7 +1172,7 @@ Key concept: Stakeholder engagement is effective in responsible AI system deploy
 
 • when the system makes or influences a decision about a person or group of people.
 
-### 10.3.2. Identify and document the stakeholder groups for each system.88
+10.3.2. Identify and document the stakeholder groups for each system.88
 
 10.3.3. For each identified interaction with a human, evaluate and document if the interaction has the potential to cause harm to an individual, group or society at large.89
 

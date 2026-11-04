@@ -16,12 +16,17 @@
   "license": {
     "spdx": "OGL-Canada-2.0",
     "Grouping": "Permissive",
-    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
+    "notes": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
-    "textUsed": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,27 +37,12 @@
     "retiredFromActiveUse": "2022-06-22",
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) to Markdown (8,344 chars). Parsed 11 sections (3 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/canada.ca/national-ai-strategy@2017 (https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "source-unavailable"
   }
 }

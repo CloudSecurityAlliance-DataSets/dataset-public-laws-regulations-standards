@@ -14,9 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
   "license": {
-    "spdx": "Singapore-Open-Data-Licence-1.0",
-    "Grouping": "Permissive",
-    "note": "Government of Singapore Open Data Licence v1.0."
+    "spdx": "LicenseRef-SG-Government-Copyright",
+    "Grouping": "Government-Open-Access",
+    "redistribution": "yes",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
+    "notes": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 27-page PDF (https://isomer-user-content.by.gov.sg/36/fc37c51a-3a39-41e1-a19b-7ca06e5dd261/CSA_OT_Masterplan.pdf) locally via PyMuPDF (48,748 chars). Parsed 125 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 27-page PDF (https://isomer-user-content.by.gov.sg/36/fc37c51a-3a39-41e1-a19b-7ca06e5dd261/CSA_OT_Masterplan.pdf) locally via PyMuPDF (48,718 chars). Parsed 119 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -14,9 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by International Telecommunication Union (itu.int) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for International Telecommunication Union (itu.int).",
   "license": {
-    "spdx": "Government-Open-Access",
+    "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official national strategy publication (itu.int); publicly released for reference and research."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "International intergovernmental organization publication (itu.int); open access for public policy and research reference.",
+    "notes": "International intergovernmental organization publication (itu.int); open access for public policy and research reference."
   },
   "links": {
     "wikipedia": "",

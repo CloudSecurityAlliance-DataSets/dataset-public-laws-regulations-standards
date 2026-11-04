@@ -16,7 +16,12 @@
   "license": {
     "spdx": "KOGL-Type-1",
     "Grouping": "Permissive",
-    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution.",
+    "notes": "Korea Open Government License (KOGL) Type 1: Attribution."
   },
   "links": {
     "wikipedia": "",

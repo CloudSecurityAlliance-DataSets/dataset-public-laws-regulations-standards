@@ -200,7 +200,7 @@ Terms of Reference for the Independent Leads of the Review
 
 3 August 2022
 
-### Introduction
+Introduction
 
 An Australian Defence Force Posture Review was last undertaken in 2012 in strategic circumstances far different to those facing the Australian nation today. The conduct of a new Defence Strategic Review (‘The Review’) that considers both force posture and force structure is now required to ensure that Defence has the right capabilities that are postured to meet the growing strategic challenges that Australia and its partner countries will face in the world in coming years.
 

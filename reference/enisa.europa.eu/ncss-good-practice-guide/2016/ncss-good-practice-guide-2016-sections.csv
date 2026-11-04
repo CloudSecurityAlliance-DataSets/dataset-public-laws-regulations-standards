@@ -3,8 +3,7 @@
 "2","","NCSS Good Practice Guide Designing and Implementing National Cyber Security Strategies","","",""
 "2","","NOVEMBER 2016","","","www.enisa.europa.eu European Union Agency For Network And Information Security"
 "2","","About ENISA","","","The European Union Agency for Network and Information Security (ENISA) is a centre of network and information security expertise for the EU, its member states, the private sector and Europe’s citizens. ENISA works with these groups to develop advice and recommendations on good practice in information security. It assists EU member states in implementing relevant EU legislation and works to improve the resilience of Europe’s critical information infrastructure and networks. ENISA seeks to enhance existing expertise in EU member states by supporting the development of cross-border communities committed to improving network and information security throughout the EU. More information about ENISA and its work can be found at www.enisa.europa.eu."
-"3","","Contact","","","For contacting the authors please use resilience@enisa.europa.eu For media enquires about this paper, please use press@enisa.europa.eu."
-"3","","Acknowledgements","","","Special thanks to the NCSS experts group (https://resilience.enisa.europa.eu/enisas-ncss-project), and the representatives from the Member States for their contribution to this study.
+"3","","Contact","","","For contacting the authors please use resilience@enisa.europa.eu For media enquires about this paper, please use press@enisa.europa.eu. Acknowledgements Special thanks to the NCSS experts group (https://resilience.enisa.europa.eu/enisas-ncss-project), and the representatives from the Member States for their contribution to this study.
 
 Legal notice Notice must be taken that this publication represents the views and interpretations of the authors and editors, unless stated otherwise. This publication should not be construed to be a legal action of ENISA or the ENISA bodies unless adopted pursuant to the Regulation (EU) No 526/2013. This publication does not necessarily represent state-of the-art and ENISA may update it from time to time. Third-party sources are quoted as appropriate. ENISA is not responsible for the content of the external sources including external websites referenced in this publication. This publication is intended for information purposes only. It must be accessible free of charge. Neither ENISA nor any person acting on its behalf is responsible for the use that might be made of the information contained in this publication. Copyright Notice © European Union Agency for Network and Information Security (ENISA), 2016 Reproduction is authorised provided the source is acknowledged. ISBN: 978-92-9204-179-3 DOI: 10.2824/48036"
 "2","","Table of Contents","","","Executive Summary 5
@@ -822,8 +821,11 @@ Estonia has ratified the Budapest Convention and included cybercrime in the pena
 Furthermore, Estonia has established cybercrime units in the police forces. At the regional level, designated police officers are responsible for cybercrime
 
 At different social media portals, web constables (which are part of the police) are available and can be contacted to report crimes."
-"3","","Engage in international cooperation","","","Engaging in cooperation and information sharing with partners abroad is important to better understand and respond to a constantly changing threat environment."
-"3","","Objectives related to international cooperation are:","",""," Benefit from creating a common knowledge base between EU Member States.  Create synergy effects between national cyber security authorities.  Enable and increase combating transnational crime.
+"3","","Engage in international cooperation","","","Engaging in cooperation and information sharing with partners abroad is important to better understand and respond to a constantly changing threat environment.
+
+Objectives related to international cooperation are:
+
+ Benefit from creating a common knowledge base between EU Member States.  Create synergy effects between national cyber security authorities.  Enable and increase combating transnational crime.
 
 The following tasks should be considered during the development of the strategy:
 
@@ -847,10 +849,13 @@ An example: Denmark as a strong international partner
 
 Denmark’s NCSS names “Denmark as a strong international partner” as one of six focus areas.
 
-There are three initiatives in this area:"
-"3","18","Strengthening of Danish cyber diplomacy","numbered","",""
-"3","19","Promotion of Denmark’s stance in international cyber and information security cooperation forums","numbered","",""
-"3","20","Nordic cooperation on research and education in cyber and information security46","numbered","",""
+There are three initiatives in this area:
+
+18. Strengthening of Danish cyber diplomacy
+
+19. Promotion of Denmark’s stance in international cyber and information security cooperation forums
+
+20. Nordic cooperation on research and education in cyber and information security46"
 "3","","Establish a public-private partnership","","","In the majority of countries, private companies own critical infrastructure and critical services are provided by the private sector. Therefore, a high degree of communication and cooperation can be an effective way for governments to understand the needs and challenges of private companies, but also to ensure that the necessary measures are implemented to achieve a sufficient degree of security.
 
 Public-private partnership can be an effective tool, to pool expertise and resources of the private and public sector. It establishes a common scope and objectives and uses defined roles and work methodology to achieve shared goals.47 PPPs may focus on different aspects of security and resilience; relating objectives can be defined as the following:
@@ -1126,8 +1131,9 @@ institutionalised cooperation schemes are the number of participating stakeholde
 councils, advisory boards). o The scope of cooperation platforms (e.g. tasks and responsibilities, number of issue areas). o The number of annual meetings.  Provide incentives for the private sector to invest in security measures: To measure if incentives are
 
 working, it should be measured if these lead to stronger investments in security measures by private actors. o The budget available to provide incentives for the private sector. o The number of private actors that react to incentives by investing in security measures. o The number of additional security measures implemented by actors that make use of incentives."
-"3","","Status of implementation and identified gaps","","","Based on the analysis of 22 EU Member States and EFTA countries, this section will describe which areas (objectives) are the best and the least developed. For this purpose, we examined the status of the implementation of the 15"
-"3","","objectives described in chapter 4. The status of the implementation has been divided into three categories:","",""," Low degree of implementation: <10 countries have largely implemented the objective  Medium degree of implementation: between 10 and 16 countries have largely implemented the objective  High degree of implementation: >16 countries have largely implemented the objective
+"3","","Status of implementation and identified gaps","","","Based on the analysis of 22 EU Member States and EFTA countries, this section will describe which areas (objectives) are the best and the least developed. For this purpose, we examined the status of the implementation of the 15 objectives described in chapter 4. The status of the implementation has been divided into three categories:
+
+ Low degree of implementation: <10 countries have largely implemented the objective  Medium degree of implementation: between 10 and 16 countries have largely implemented the objective  High degree of implementation: >16 countries have largely implemented the objective
 
 6.3.1 Low degree of implementation
 
@@ -1357,8 +1363,7 @@ Certain EU Member States were successful in increasing the willingness of privat
 
  Thereby, stakeholders have the possibility to voice concerns, which can be taken into consideration by public cyber security agencies. If concerns of the private stakeholders are taken into account, stronger commitment to the results can be expected. A good starting point to engage private stakeholders is through institutionalized cooperation mechanisms, e.g. through PPPs. However, many EU Member States are still lacking such cooperation platforms (see
 
- High degree of implementation: >16 countries have largely implemented the"
-"3","","objective","","","Low degree of implementation).
+ High degree of implementation: >16 countries have largely implemented the objective Low degree of implementation).
 
 52 ENISA, KPMG (2016): Interview questionnaire Austria; ENISA, KPMG (2016): Interview questionnaire Malta.
 

@@ -270,8 +270,11 @@ The risk of mobile devices is increasing with a wider range of
 
 applications and the popularity of mobile devices. In the worldly renowned
 
-white hat hacker contest ""PWN2OWN"" held in Tokyo in November 2019,"
-"3","","participating hackers cracked multiple connected devices, such as mobile","","","phones, routers, and smart home devices, and exposed their leaks.
+white hat hacker contest ""PWN2OWN"" held in Tokyo in November 2019,
+
+participating hackers cracked multiple connected devices, such as mobile
+
+phones, routers, and smart home devices, and exposed their leaks.
 
 (D) APT targeted attacks to steal confidential data
 
@@ -565,8 +568,11 @@ standard of information and communication products, services and
 
 manufacturing processes. The summary of the certification methods, content,
 
-and affected objects is as follows:"
-"3","Table of Contents: 1 (1)","Method: Set product or service category, cybersecurity specifications","numbered","","(such as reference standards or technical specifications), assessment type
+and affected objects is as follows:
+
+1. Method: Set product or service category, cybersecurity specifications
+
+(such as reference standards or technical specifications), assessment type
 
 (such as self-assessment or third-party assessment), expected assurance
 
@@ -582,8 +588,11 @@ make it easier for users to understand the safety of products or services.
 
 It also enables beneficial competition among suppliers in the EU market,
 
-resulting in better products and cost-effectiveness."
-"3","Table of Contents: 2 (1)","The value to small and medium-sized enterprises and new enterprises: It","numbered","","helps to reduce the barriers for small and medium-sized enterprises and
+resulting in better products and cost-effectiveness.
+
+2. The value to small and medium-sized enterprises and new enterprises: It
+
+helps to reduce the barriers for small and medium-sized enterprises and
 
 new enterprises to enter the market because the company only needs to
 
@@ -591,15 +600,21 @@ pass product certification once, and its certificate is valid throughout the
 
 EU, and at the same time, as security requirements increase SMEs with
 
-certified products will enjoy a certain global competitive advantage."
-"3","Table of Contents: 3 (1)","Cybersecurity verification or certification mechanism: Suppliers use this","numbered","","mechanism to obtain certificates for their products to ensure that the
+certified products will enjoy a certain global competitive advantage.
+
+3. Cybersecurity verification or certification mechanism: Suppliers use this
+
+mechanism to obtain certificates for their products to ensure that the
 
 Information Communication Technology (ICT) products, services, and
 
 processes maintain a sufficient level of cybersecurity and improve the
 
-operation of the internal market."
-"3","Table of Contents: 4 (1)","Design safety: Encouraging development manufacturers or providers of","numbered","","product, service, or process design to implement this mechanism at the
+operation of the internal market.
+
+4. Design safety: Encouraging development manufacturers or providers of
+
+product, service, or process design to implement this mechanism at the
 
 initial stage of design and development, protecting the safety of these
 
@@ -1086,20 +1101,29 @@ system is responsible for integrating cyber security protection resources and
 
 promoting cyber security-related policies. The competent authorities (units)
 
-and tasks are as follows:"
-"3","Table of Contents: 1 (2)","Critical Information Infrastructure Protection Group: sponsored by the DCS","numbered","","of the Executive Yuan, responsible for planning and promoting the security
+and tasks are as follows:
+
+1. Critical Information Infrastructure Protection Group: sponsored by the DCS
+
+of the Executive Yuan, responsible for planning and promoting the security
 
 management mechanism of critical information infrastructure; supervising
 
 the implementation of security protection in various fields; and conducting
 
-audits, drills, and related operations."
-"3","Table of Contents: 2 (2)","Industrial Promotion Group: structured by the Ministry of Economic","numbered","","Affairs, responsible for promoting the development of the cyber security
+audits, drills, and related operations.
+
+2. Industrial Promotion Group: structured by the Ministry of Economic
+
+Affairs, responsible for promoting the development of the cyber security
 
 industry, integrating production, government, academic, and research
 
-resources, and developing related innovative applications."
-"3","Table of Contents: 3 (2)","Cyber Security Protection Group: structured by the DCS of the Executive","numbered","","Yuan, the team is responsible for planning and promoting the security
+resources, and developing related innovative applications.
+
+3. Cyber Security Protection Group: structured by the DCS of the Executive
+
+Yuan, the team is responsible for planning and promoting the security
 
 mechanism of various information and communication application services
 
@@ -1111,8 +1135,11 @@ reporting responses, handling cyber security audits and cyber attack and
 
 defense drills, and assisting various agencies to strengthen the integrity and
 
-effectiveness of cyber security protection."
-"3","Table of Contents: 4 (2)","Regulation and Standard Specifications Group: structured by the DCS of","numbered","","the Executive Yuan, is responsible for the research and formulation
+effectiveness of cyber security protection.
+
+4. Regulation and Standard Specifications Group: structured by the DCS of
+
+the Executive Yuan, is responsible for the research and formulation
 
 (revision) of cyber security-related laws and regulations; the development
 
@@ -1120,8 +1147,11 @@ of cyber security-related national standards; and the formulation and
 
 maintenance of government agencies’ cyber security practices and
 
-reference guides."
-"3","Table of Contents: 5 (1)","Awareness Education and Talents Cultivation Group: structured by the","numbered","","Ministry of Education, responsible for promoting fundamental cyber
+reference guides.
+
+5. Awareness Education and Talents Cultivation Group: structured by the
+
+Ministry of Education, responsible for promoting fundamental cyber
 
 security education, strengthening the cyber security of the education system,
 
@@ -1133,8 +1163,11 @@ platform, handling international-level cyber security competition,
 
 promoting industry-university exchanges, and reinforcing the cultivation of
 
-cyber security talents."
-"3","Table of Contents: 6 (1)","Cyber Protection of Overseas Mission Group: Sponsored by the Ministry","numbered","","of Foreign Affairs, it is responsible for integrating the information and
+cyber security talents.
+
+6. Cyber Protection of Overseas Mission Group: Sponsored by the Ministry
+
+of Foreign Affairs, it is responsible for integrating the information and
 
 cyber management of the foregn agencies and representative offices to
 
@@ -1152,13 +1185,19 @@ information and communication environment and cyber content security,
 
 etc., and establishing the following groups. Their sponsoring agencies and
 
-tasks are as follows:"
-"3","Table of Contents: 1 (3)","Cybercrime Protection and Control Group: co-sponsored by the Ministry","numbered","","of the Interior and the Ministry of Justice, responsible for cybercrime
+tasks are as follows:
+
+1. Cybercrime Protection and Control Group: co-sponsored by the Ministry
+
+of the Interior and the Ministry of Justice, responsible for cybercrime
 
 investigation, computer crime prevention, digital forensics, and review of
 
-laws and regulations related to cybercrime prevention."
-"3","Table of Contents: 2 (3)","Information and Communication Environment and Internet Content","numbered","","Security Group: sponsored by the National Communications Commission,
+laws and regulations related to cybercrime prevention.
+
+2. Information and Communication Environment and Internet Content
+
+Security Group: sponsored by the National Communications Commission,
 
 responsible for promoting the information and communication
 
@@ -1238,9 +1277,15 @@ the vision of ""ensuring a national safe and reliable information and
 
 communication environment"". The main achievement of this phase lies in the
 
-construction of a cyber security protection system. The achievements include:"
-"3","Table of Contents: 1 (4)","Establish the NICST, together with NCCST, a technical staff unit, as the","numbered","","competent authority of national cyber security construction and policies."
-"3","Table of Contents: 2 (4)","Promote the cyber security management system for important government","numbered","","agencies involved in the livelihood and economy of the country; provide
+construction of a cyber security protection system. The achievements include:
+
+1. Establish the NICST, together with NCCST, a technical staff unit, as the
+
+competent authority of national cyber security construction and policies.
+
+2. Promote the cyber security management system for important government
+
+agencies involved in the livelihood and economy of the country; provide
 
 corresponding cyber security support and work requirements for agencies
 
@@ -1250,8 +1295,11 @@ security crisis notification and early warning mechanisms for the agencies
 
 and responsibility level classification standards; conduct external cyber
 
-security audits against designated agencies."
-"3","Table of Contents: 3 (3)","Promote cyber security training for information personnel; strengthen cyber","numbered","","security manpower training and concept promotion; enhance public
+security audits against designated agencies.
+
+3. Promote cyber security training for information personnel; strengthen cyber
+
+security manpower training and concept promotion; enhance public
 
 awareness of cyber security, etc.
 
@@ -1259,8 +1307,11 @@ awareness of cyber security, etc.
 
 formulate technical standards and specifications for cyber communication
 
-security; establish product inspection and guarantee mechanism."
-"3","Table of Contents: 5 (2)","For the important operating system of CI, plan and promote the","numbered","","establishment of Information Security Management System (ISMS), as
+security; establish product inspection and guarantee mechanism.
+
+5. For the important operating system of CI, plan and promote the
+
+establishment of Information Security Management System (ISMS), as
 
 well as cyber security control programs such as the early warning,
 
@@ -1282,27 +1333,45 @@ Information and Communication Infrastructure (2005 to 2008)"" (abbreviated
 
 as Phase 2 mechanism program) in 2004; continued to strengthen national
 
-protection basis for cyber security overall. The important results include:"
-"3","Table of Contents: 1 (5)","Establish a National Security Operation Center (N-SOC) to provide","numbered","","monitoring and early warning services for important core government
+protection basis for cyber security overall. The important results include:
 
-agencies and provide 24-hour protection."
-"3","Table of Contents: 2 (5)","Establish the Chief Information Security Officer (CISO) mechanism for","numbered","","government agencies and designate the deputy head of the ministries in
+1. Establish a National Security Operation Center (N-SOC) to provide
+
+monitoring and early warning services for important core government
+
+agencies and provide 24-hour protection.
+
+2. Establish the Chief Information Security Officer (CISO) mechanism for
+
+government agencies and designate the deputy head of the ministries in
 
 charge of cyber security operation as the CISO concurrently; promote the
 
-implementation of cyber security-related plans in the implementation unit."
-"3","Table of Contents: 3 (4)","Expand the scope of implementation of grading operations of cyber security","numbered","","responsibility levels of the government agencies; greatly increase the
+implementation of cyber security-related plans in the implementation unit.
+
+3. Expand the scope of implementation of grading operations of cyber security
+
+responsibility levels of the government agencies; greatly increase the
 
 number of cyber security systems include in important government
 
-agencies and extend the scope of implementation to the education system."
-"3","Table of Contents: 4 (3)","Promote the introduction of ISMS into the education system, and guide","numbered","","county (city) education network centers to establish ISMS."
-"3","Table of Contents: 5 (3)","Enhance the effectiveness of operations through audits. Various agencies","numbered","","have introduced internal audit systems to implement cyber security-related
+agencies and extend the scope of implementation to the education system.
+
+4. Promote the introduction of ISMS into the education system, and guide
+
+county (city) education network centers to establish ISMS.
+
+5. Enhance the effectiveness of operations through audits. Various agencies
+
+have introduced internal audit systems to implement cyber security-related
 
 promotion work and continue to conduct external cyber security audits for
 
-public and private organizations and provide auditing recommendations."
-"3","Table of Contents: 6 (2)","Extend the field of protection of the cyber security plan; strengthen the","numbered","","formulation of cyber security plans that promote online transaction security
+public and private organizations and provide auditing recommendations.
+
+6. Extend the field of protection of the cyber security plan; strengthen the
+
+formulation of cyber security plans that promote online transaction security
 
 and protect people's personal data.
 
@@ -1332,8 +1401,11 @@ identification, analysis, and response, improve notification timeliness, and
 
 continue to strengthen emergency notification, response, and recovery
 
-capabilities."
-"3","Table of Contents: 2 (6)","Promote the introduction of cyber security governance and performance","numbered","","evaluation in government A-level and B-level agencies, require agencies to
+capabilities.
+
+2. Promote the introduction of cyber security governance and performance
+
+evaluation in government A-level and B-level agencies, require agencies to
 
 allocate specific information security responsibilities and concurrent
 
@@ -1341,18 +1413,27 @@ manpower according to their needs, and establish classification and
 
 classification of information systems and corresponding basic information
 
-security protection needs."
-"3","Table of Contents: 3 (5)","Adopt the ""plan-do-check-act"" (PDCA) planning model to improve the","numbered","","information security management level of government agencies, reduce
+security protection needs.
+
+3. Adopt the ""plan-do-check-act"" (PDCA) planning model to improve the
+
+information security management level of government agencies, reduce
 
 related operational risks, and facilitate domestic government agencies and
 
 private enterprises to pass international security standards verification
 
-(such as ISO 27001)."
-"3","Table of Contents: 4 (4)","Intensify the reliability and security of e-commerce, strengthen the identity","numbered","","authentication mechanism for online transactions, and promote the use of
+(such as ISO 27001).
 
-Public Key Infrastructure (PKI) certificate services."
-"3","Table of Contents: 5 (4)","Promote the use of third-party appraisal by business institutions, strengthen","numbered","","the cyber security inspection of business of various purposes in accordance
+4. Intensify the reliability and security of e-commerce, strengthen the identity
+
+authentication mechanism for online transactions, and promote the use of
+
+Public Key Infrastructure (PKI) certificate services.
+
+5. Promote the use of third-party appraisal by business institutions, strengthen
+
+the cyber security inspection of business of various purposes in accordance
 
 with the authorization of laws and regulations, urge the industry to
 
@@ -1360,13 +1441,19 @@ strengthen personal data protection, establish a cyber security management
 
 system, conduct internal audits and entrust a third party to conduct external
 
-cyber security audits."
-"3","Table of Contents: 6 (3)","Strengthen the research energy of cyber security research, encourage higher","numbered","","education systems to offer cyber security courses, cultivate cyber security
+cyber security audits.
+
+6. Strengthen the research energy of cyber security research, encourage higher
+
+education systems to offer cyber security courses, cultivate cyber security
 
 professional research talents, develop key cyber security technologies, and
 
-transfer to provide value-added applications in the industry."
-"3","7","Advocate and strengthen the concept of cyber security, promote cyber","numbered","","security awareness activities for schools at all levels, inspect the security of
+transfer to provide value-added applications in the industry.
+
+7. Advocate and strengthen the concept of cyber security, promote cyber
+
+security awareness activities for schools at all levels, inspect the security of
 
 cyber assets, conduct public security inspections and competitions and
 
@@ -1390,8 +1477,11 @@ cyber security environment; stepping towards a high-quality cyber society"",
 
 to strengthen the counterreaction capabilities of the central government
 
-against cyber attacks. The four major goals are as follows:"
-"3","Table of Contents: 1 (6)","National policies and environmental construction: continue to increase and","numbered","","revise information security policies, norms, guidelines, standards, and
+against cyber attacks. The four major goals are as follows:
+
+1. National policies and environmental construction: continue to increase and
+
+revise information security policies, norms, guidelines, standards, and
 
 manuals, take stock of my country's information security laws and
 
@@ -1411,8 +1501,11 @@ information and communication equipment, actively communicate with
 
 international certification and certification organizations, and regularly
 
-review and review the establishment project"
-"3","Table of Contents: 2 (7)","Cyber security protection and information sharing: promote the","numbered","","establishment of a governmental cyber security governance structure,
+review and review the establishment project
+
+2. Cyber security protection and information sharing: promote the
+
+establishment of a governmental cyber security governance structure,
 
 assessing the maturity of cyber security governance of government
 
@@ -1434,8 +1527,11 @@ Configuration Baseline (GCB) for different systems; increase the
 
 capabilities of collection of intelligence of cyber security threats, and
 
-strengthen information analysis and sharing mechanism."
-"3","Table of Contents: 3 (6)","Industrial development and technological upgrade: construct the research","numbered","","capacity of cyber security protection technology and strengthen the
+strengthen information analysis and sharing mechanism.
+
+3. Industrial development and technological upgrade: construct the research
+
+capacity of cyber security protection technology and strengthen the
 
 competitive advantage of emerging cyber security independent
 
@@ -1455,8 +1551,11 @@ such as mobile devices, mobile applications, wireless networks, and Secure
 
 Software Development Lifecycle (SSDLC), etc., to build a corresponding
 
-security detection mechanism."
-"3","Table of Contents: 4 (5)","Talent cultivation and international exchanges: promote cyber security","numbered","","professional training and certification mechanism, and plan to establish the
+security detection mechanism.
+
+4. Talent cultivation and international exchanges: promote cyber security
+
+professional training and certification mechanism, and plan to establish the
 
 registration and certification mechanism of cyber security professionals;
 
@@ -1513,7 +1612,7 @@ national cyber security defense-in-depth and united defense system, to
 stabilize the security defense line of national digital territory. The current
 
 priorities of implementation and results of promotion are as follows:"
-"3","Table of Contents: 1 (7)","Complete cyber security infrastructure","numbered","","(1) On May 11, 2018, the Legislative Yuan passed the third reading of the
+"3","Table of Contents: 1 (1)","Complete cyber security infrastructure","numbered","","(1) On May 11, 2018, the Legislative Yuan passed the third reading of the
 
 Cyber Security Management Act. The Presidential Decree was issued
 
@@ -1554,7 +1653,7 @@ smart stop signs), and smart streetlights (light controllers and lighting
 gateways) have been formulated, of which the cyber security industrial
 
 standard of IP CAM has become a national standard (CNS 16120)."
-"3","Table of Contents: 2 (8)","Construct national cyber security united defense system","numbered","","(1) The cyber security united defense system of our country is based on
+"3","Table of Contents: 2 (1)","Construct national cyber security united defense system","numbered","","(1) The cyber security united defense system of our country is based on
 
 the core of eight major CI sectors. Coordinated by the Executive Yuan,
 
@@ -1617,7 +1716,7 @@ completed to collect the information of cyber security of neighboring
 counties and cities and conduct a comprehensive analysis to grasp
 
 suspicious malicious behavior."
-"3","Table of Contents: 3 (7)","Boost the independence of the cyber security industry","numbered","","(1) In order to promote the independent development of the national cyber
+"3","Table of Contents: 3 (1)","Boost the independence of the cyber security industry","numbered","","(1) In order to promote the independent development of the national cyber
 
 security industry, and to increase the domestic autonomy rate, the
 
@@ -1688,7 +1787,7 @@ root; and at the same time support startups to a total of 25 companies,
 such as the industrialization of the white hat hacker community, or
 
 driving the investment by large enterprises."
-"3","Table of Contents: 4 (6)","Cultivating high-quality cyber security talents","numbered","","(1) In 2018, the Ministry of Education added an electronic-information
+"3","Table of Contents: 4 (1)","Cultivating high-quality cyber security talents","numbered","","(1) In 2018, the Ministry of Education added an electronic-information
 
 discipline cluster, setting up an “Information and Communication
 
@@ -1877,7 +1976,7 @@ SO MAXI-MAXI Strategies WO MINI-MAXI Strategies
 1. Guide enterprises to intensify cyber security protection power during digital transformation(W1+W2+T1) 2. Cultivate top practical and cross-regional cyber security talents (W4+T1+T2) 3. Strengthen the critical infrastructure personnel’s cyber security awareness and construction ability (W1+T2+T3)
 
 Figure 5: TOWS Analysis Matrix"
-"3","","IV Development Blueprint","","","Figure 6: The sixth phase of the national cyber security program
+"3","IV","Development Blueprint","roman","","Figure 6: The sixth phase of the national cyber security program
 
 A. Vision
 
@@ -2102,8 +2201,8 @@ establish The Excellent Center of Cyber Security, with the goal of becoming
 an iconic high-level talent and technological innovation base in the Asian
 
 region."
-"3","Table of Contents: 1 (8)","Expand the quota of cyber security educators and teaching resources","numbered","","in higher education"
-"3","Table of Contents: 1.1.1 (1)","The project increases the quota of teachers","numbered","Table of Contents: 1 (8)","Invite first-rate cyber security competition teams, teachers in the
+"3","Table of Contents: 1 (2)","Expand the quota of cyber security educators and teaching resources","numbered","","in higher education"
+"3","Table of Contents: 1.1.1 (1)","The project increases the quota of teachers","numbered","Table of Contents: 1 (2)","Invite first-rate cyber security competition teams, teachers in the
 
 practical fields, researchers and well-known celebrities in the
 
@@ -2118,7 +2217,7 @@ and academic research institutions for the recruitment of excellent cyber
 security talents to facilitate the cultivation of cyber security professionals
 
 and the quality of teaching."
-"3","Table of Contents: 1.1.2 (1)","Open academic area network centers, government networks and","numbered","Table of Contents: 1 (8)","other fields for internships and actual drills
+"3","Table of Contents: 1.1.2 (1)","Open academic area network centers, government networks and","numbered","Table of Contents: 1 (2)","other fields for internships and actual drills
 
 (1) Through the university area network center and university cyber
 
@@ -2141,8 +2240,8 @@ security practical talents.
 field of cyber security teaching practice; and improve the facility and
 
 environment of cyber security teaching."
-"3","Table of Contents: 2 (9)","Shift resources to high-level cyber security scientific research","numbered","",""
-"3","Table of Contents: 2.2.1 (1)","Develop a national mission-oriented and key (core) cyber security","numbered","Table of Contents: 2 (9)","prospective research
+"3","Table of Contents: 2 (2)","Shift resources to high-level cyber security scientific research","numbered","",""
+"3","Table of Contents: 2.2.1 (1)","Develop a national mission-oriented and key (core) cyber security","numbered","Table of Contents: 2 (2)","prospective research
 
 In response to emerging threats and development trends in cyber
 
@@ -2157,7 +2256,7 @@ long-term basic research on our key cores, in order to cultivate and
 strengthen the autonomy of cyber security prospective research in our
 
 country."
-"3","Table of Contents: 2.2.2 (1)","Deeply cultivate academic cyber security research","numbered","Table of Contents: 2 (9)","Intensive research and development of software and hardware-
+"3","Table of Contents: 2.2.2 (1)","Deeply cultivate academic cyber security research","numbered","Table of Contents: 2 (2)","Intensive research and development of software and hardware-
 
 related cyber security technologies to meet the cyber security technology
 
@@ -2166,7 +2265,7 @@ needs of the state and private industries, enhance the research and
 development capabilities of industry, government and academia, and
 
 activate the cyber security research ecosystem."
-"3","2.3","Transnational talent exchange and research cooperation","numbered","Table of Contents: 2 (9)","(1) Participate in the formulation of international cyber security standards
+"3","2.3","Transnational talent exchange and research cooperation","numbered","Table of Contents: 2 (2)","(1) Participate in the formulation of international cyber security standards
 
 and regulations; ensure that the technology of development is in line
 
@@ -2183,8 +2282,8 @@ R&D technology; actively promote diplomacy of science and
 technology; and operate interntaitonal partnerships for the cultivation
 
 of multinational talents."
-"3","Table of Contents: 3 (8)","Cultivate top practical and cross-regional cyber security talents","numbered","",""
-"3","Table of Contents: 3.3.1 (1)","Cultivation of cyber security talents in schools, on the jobs and","numbered","Table of Contents: 3 (8)","governmental agencies
+"3","Table of Contents: 3 (2)","Cultivate top practical and cross-regional cyber security talents","numbered","",""
+"3","Table of Contents: 3.3.1 (1)","Cultivation of cyber security talents in schools, on the jobs and","numbered","Table of Contents: 3 (2)","governmental agencies
 
 (1) Cyber security talents in schools: Constructing demand-oriented
 
@@ -2217,7 +2316,7 @@ security function training; improving the cyber security management
 and technical capabilities of the government agencies, and training
 
 the full-time manpower for government agencies."
-"3","Table of Contents: 3.3.2 (1)","Cultivation of top cyber security talents with practical experience","numbered","Table of Contents: 3 (8)","The initial training targets focus on the elites with cyber security
+"3","Table of Contents: 3.3.2 (1)","Cultivation of top cyber security talents with practical experience","numbered","Table of Contents: 3 (2)","The initial training targets focus on the elites with cyber security
 
 potential in our country. We select the best talents from industry, academia,
 
@@ -2235,8 +2334,11 @@ government and critical information infrastructure (CII) as the backing of
 
 the country’s urgent need of manpower deployment, while the long-term
 
-recruitment targets will be expanded to the Asia-Pacific region, and the"
-"3","","goal is to become a top talent training base of cyber security for the Asia-","","","Pacific region.
+recruitment targets will be expanded to the Asia-Pacific region, and the
+
+goal is to become a top talent training base of cyber security for the Asia-
+
+Pacific region.
 
 (B) The Promotion of public-private partnership collaborative governance;
 
@@ -2269,8 +2371,8 @@ implementation effectiveness; at the same time, constructing a blueprint for
 cyber security functions in this field to improve the cyber security quality of
 
 the CI frontline personnel."
-"3","Table of Contents: 1 (9)","Build Public-private partnership Calloborative Governance","numbered","","Operational Mechanism in various fields"
-"3","Table of Contents: 1.1.1 (2)","Continue to promote the implementation of the cyber security","numbered","Table of Contents: 1 (9)","management law, and review it in due course to respond to the
+"3","Table of Contents: 1 (3)","Build Public-private partnership Calloborative Governance","numbered","","Operational Mechanism in various fields"
+"3","Table of Contents: 1.1.1 (2)","Continue to promote the implementation of the cyber security","numbered","Table of Contents: 1 (3)","management law, and review it in due course to respond to the
 
 trend of international cyber security protection
 
@@ -2281,7 +2383,7 @@ will adjust relevant laws and regulations, and continue to improve and
 expand the assessment of the maturity of cyber security governance to
 
 accelerate the construction of our national cyber security environment."
-"3","Table of Contents: 1.1.2 (2)","Promote the implementation of cyber security protection baseline","numbered","Table of Contents: 1 (9)","of critical infrastructure
+"3","Table of Contents: 1.1.2 (2)","Promote the implementation of cyber security protection baseline","numbered","Table of Contents: 1 (3)","of critical infrastructure
 
 Establish and rollingly revise the cyber security protection standards
 
@@ -2296,7 +2398,7 @@ provider’s cyber security law (such as maintenance plans, to-do lists and
 cyber security protection standards), and strengthen the integrity and
 
 effectiveness of the cyber security protection work."
-"3","1.3","Establish the maturity of cyber security governance in the","numbered","Table of Contents: 1 (9)","industrial control field
+"3","1.3","Establish the maturity of cyber security governance in the","numbered","Table of Contents: 1 (3)","industrial control field
 
 Industrial control systems provide management and control for
 
@@ -2313,13 +2415,13 @@ model in the field of industrial control to grasp the cyber security
 implementation status of CI providers and improve the readiness of cyber
 
 security protection."
-"3","1.4","Promote national-level cyber security risk assessment","numbered","Table of Contents: 1 (9)","Identify the core information and communication systems and their
+"3","1.4","Promote national-level cyber security risk assessment","numbered","Table of Contents: 1 (3)","Identify the core information and communication systems and their
 
 cyber security threats in various CI sectors, and effectively control the
 
 threats of overall cyber security in our country."
-"3","Table of Contents: 2 (10)","The enhancement of personnel’ cyber security awareness and","numbered","","reinforcement of cyber security capacity construction"
-"3","Table of Contents: 2.2.1 (2)","Set up Chief Information Security Officer (CISO) and strengthen","numbered","Table of Contents: 2 (10)","personnel’s cyber security professional capabilities
+"3","Table of Contents: 2 (3)","The enhancement of personnel’ cyber security awareness and","numbered","","reinforcement of cyber security capacity construction"
+"3","Table of Contents: 2.2.1 (2)","Set up Chief Information Security Officer (CISO) and strengthen","numbered","Table of Contents: 2 (3)","personnel’s cyber security professional capabilities
 
 (1) Promote CI providers to set up high-level cyber security chiefs to
 
@@ -2350,8 +2452,8 @@ of cyber security protection solutions required in the domestic CI field;
 and support education and training, large-scale offensive and defensive
 
 drills, and international cyber security offensive and defense competitions."
-"3","Table of Contents: 3 (9)","Public-private partnership cooperation to deepen the exchange of","numbered","","information and implementation of response drills in normal times"
-"3","Table of Contents: 3.3.1 (2)","Improve the cyber security united defense mechanism (information","numbered","Table of Contents: 3 (9)","sharing, response notification, cyber security monitoring) of the
+"3","Table of Contents: 3 (3)","Public-private partnership cooperation to deepen the exchange of","numbered","","information and implementation of response drills in normal times"
+"3","Table of Contents: 3.3.1 (2)","Improve the cyber security united defense mechanism (information","numbered","Table of Contents: 3 (3)","sharing, response notification, cyber security monitoring) of the
 
 critical infrastructure
 
@@ -2372,14 +2474,14 @@ process of notification response and intelligence integration.
 the operation of cyber security united defense and enhance its
 
 qualitative and quantitative benefits."
-"3","Table of Contents: 3.3.2 (2)","Regularly conduct public-private united offensive and defense drills","numbered","Table of Contents: 3 (9)","The competent authorities in the CI sector regularly implement
+"3","Table of Contents: 3.3.2 (2)","Regularly conduct public-private united offensive and defense drills","numbered","Table of Contents: 3 (3)","The competent authorities in the CI sector regularly implement
 
 offensive and defensive drills to improve personnel’s familiarity and
 
 alertness to events of cyber security attacks, shorten the incident response
 
 time and reduce losses."
-"3","3.3","Handle cross-regional (or transnational) offensive and defensive","numbered","Table of Contents: 3 (9)","drills for critical infrastructure
+"3","3.3","Handle cross-regional (or transnational) offensive and defensive","numbered","Table of Contents: 3 (3)","drills for critical infrastructure
 
 Regularly conduct cross-CI sector or transnational offensive and
 
@@ -2434,8 +2536,8 @@ strengthening cybercrime detection and prevention capabilities, enhancing
 traceability and tracking capabilities, and strengthening cross-border
 
 cybercrime detection."
-"3","Table of Contents: 1 (10)","Continue to promote centralized sharing of government information","numbered","","(cyber) security"
-"3","Table of Contents: 1.1.1 (3)","Connect with the independent needs of national defense and develop","numbered","Table of Contents: 1 (10)","the ecosystem of the domestic cyber security industry
+"3","Table of Contents: 1 (4)","Continue to promote centralized sharing of government information","numbered","","(cyber) security"
+"3","Table of Contents: 1.1.1 (3)","Connect with the independent needs of national defense and develop","numbered","Table of Contents: 1 (4)","the ecosystem of the domestic cyber security industry
 
 (1) Provide internal-to-internal, internal-to-external, and cross-
 
@@ -2452,15 +2554,15 @@ agency to higher-level agencies.
 (3) Strengthen the proactive defense energy of the government's intranet
 
 and block malicious attacks in time."
-"3","Table of Contents: 1.1.2 (3)","Establish the mechanism to actively discover, report and repair the","numbered","Table of Contents: 1 (10)","vulnerabilities of the information and communication system
+"3","Table of Contents: 1.1.2 (3)","Establish the mechanism to actively discover, report and repair the","numbered","Table of Contents: 1 (4)","vulnerabilities of the information and communication system
 
 Through an automated notification mechanism, shorten the window
 
 period between the release and repair of the agency’s cyber security
 
 vulnerabilities and reduce the risk of the system being hacked."
-"3","Table of Contents: 2 (11)","Expand international participation and deepen cross-border","numbered","","intelligence and capital sharing"
-"3","Table of Contents: 2.2.1 (3)","Development of forward-looking research and technology","numbered","Table of Contents: 2 (11)","application of active defense
+"3","Table of Contents: 2 (4)","Expand international participation and deepen cross-border","numbered","","intelligence and capital sharing"
+"3","Table of Contents: 2.2.1 (3)","Development of forward-looking research and technology","numbered","Table of Contents: 2 (4)","application of active defense
 
 Research and develop automated smart collaboration and response
 
@@ -2469,7 +2571,7 @@ cyber security modules; combined with AI technology to improve the
 ability to quickly detect and respond to cyber attacks; and build a cyber
 
 security R&D ecosystem."
-"3","Table of Contents: 2.2.2 (2)","Integrate domestic and foreign sources of information, and deepen","numbered","Table of Contents: 2 (11)","international cooperation
+"3","Table of Contents: 2.2.2 (2)","Integrate domestic and foreign sources of information, and deepen","numbered","Table of Contents: 2 (4)","international cooperation
 
 Develop N-ISAC to become the main domestic intelligence and
 
@@ -2480,8 +2582,8 @@ intelligence and information sources; enhance threat collection and active
 detection capabilities; and promote standard intelligence and information
 
 exchange formats to interface with the world."
-"3","Table of Contents: 3 (10)","Defend in Advance to Block the Attack at Borders","numbered","",""
-"3","Table of Contents: 3.3.1 (3)","Apply emerging technologies to quench effective intelligence and","numbered","Table of Contents: 3 (10)","develop proactive defense technologies
+"3","Table of Contents: 3 (4)","Defend in Advance to Block the Attack at Borders","numbered","",""
+"3","Table of Contents: 3.3.1 (3)","Apply emerging technologies to quench effective intelligence and","numbered","Table of Contents: 3 (4)","develop proactive defense technologies
 
 With proactive defensive thinking, strengthen the research and
 
@@ -2492,7 +2594,7 @@ security protection capabilities of government agencies, through the key
 aspects of research and analysis, defense-in-depth, active prevention,
 
 source tracing and blocking, etc."
-"3","Table of Contents: 3.3.2 (3)","Improve the comprehensiveness of the defense-in-depth of the","numbered","Table of Contents: 3 (10)","government service network
+"3","Table of Contents: 3.3.2 (3)","Improve the comprehensiveness of the defense-in-depth of the","numbered","Table of Contents: 3 (4)","government service network
 
 (1) Evaluate and introduce the Zero Trust Network and gradually try to
 
@@ -2509,8 +2611,8 @@ regional united defense; enhance the defense resistance of domain
 name system (DNS) against attacks to ensure the ""confidentiality"" and
 
 ""integrity"" of DNS data and the continuous “availability"" of DNS."
-"3","Table of Contents: 4 (7)","Enhancing the power of technological investigations to prevent","numbered","","emerging cybercrimes"
-"3","4.1","Strengthen the detection capabilities of emerging cybercrimes","numbered","Table of Contents: 4 (7)","Analyze the attack patterns and defense mechanisms of hacker
+"3","Table of Contents: 4 (2)","Enhancing the power of technological investigations to prevent","numbered","","emerging cybercrimes"
+"3","4.1","Strengthen the detection capabilities of emerging cybercrimes","numbered","Table of Contents: 4 (2)","Analyze the attack patterns and defense mechanisms of hacker
 
 attacks on the IoT and relay stations; strengthen the practical training of
 
@@ -2519,7 +2621,7 @@ criminal investigation skills; and build a simulation platform for the
 investigation of cyber security incidents to strengthen the overall
 
 investigation and actual combat power."
-"3","4.2","Improve the source tracing and tracking capabilities of cyber","numbered","Table of Contents: 4 (7)","security events
+"3","4.2","Improve the source tracing and tracking capabilities of cyber","numbered","Table of Contents: 4 (2)","security events
 
 Continue to expand the power of cyber security forensics;
 
@@ -2530,7 +2632,7 @@ information sharing and technical exchanges; and analyze and compare
 the sources of countermeasures and hacker organizations for the purpose
 
 of traceability."
-"3","4.3","Strengthen the investigation mechanism of cross-border cybercrime","numbered","Table of Contents: 4 (7)","(1) Actively participate in various judicial and international cyber security
+"3","4.3","Strengthen the investigation mechanism of cross-border cybercrime","numbered","Table of Contents: 4 (2)","(1) Actively participate in various judicial and international cyber security
 
 seminars; establish a window for accessing relevant criminal
 
@@ -2585,8 +2687,8 @@ implementation and commercialization of IoT cyber security solutions and
 refer to international standards to promote internationally competitive cyber
 
 security solutions, with the hope of exporting to the international market."
-"3","Table of Contents: 1 (11)","Counseling companies to strengthen cyber security protection","numbered","","capabilities during digital transformation"
-"3","Table of Contents: 1.1.1 (4)","Integrate private resources to establish a public-private partnership","numbered","Table of Contents: 1 (11)","collaboration mechanism to assist companies in enhancing their
+"3","Table of Contents: 1 (5)","Counseling companies to strengthen cyber security protection","numbered","","capabilities during digital transformation"
+"3","Table of Contents: 1.1.1 (4)","Integrate private resources to establish a public-private partnership","numbered","Table of Contents: 1 (5)","collaboration mechanism to assist companies in enhancing their
 
 cyber security protection capabilities
 
@@ -2603,7 +2705,7 @@ protection of private sectors.
 (2) Improve the cyber security knowledge and protection capabilities of
 
 online retailers, and reduce the risk of personal information leakage."
-"3","Table of Contents: 1.1.2 (4)","Raise citizen’s awareness of cyber security","numbered","Table of Contents: 1 (11)","The government should work with the private sector to raise the
+"3","Table of Contents: 1.1.2 (4)","Raise citizen’s awareness of cyber security","numbered","Table of Contents: 1 (5)","The government should work with the private sector to raise the
 
 citizens’ cyber security awareness, integrating cyber security awareness
 
@@ -2612,15 +2714,15 @@ into the citizens’ life, and internalize it into the basic needs of service us
 to facilitate the development of advanced cyber security technology,
 
 software and hardware, and professional talents."
-"3","Table of Contents: 2 (12)","Strengthening the Supply Chain Security Management","numbered","",""
-"3","Table of Contents: 2.2.1 (4)","Strengthen the supply chain risk management of outsourcing","numbered","Table of Contents: 2 (12)","We assist and counsel various agencies to handle outsourcing
+"3","Table of Contents: 2 (5)","Strengthening the Supply Chain Security Management","numbered","",""
+"3","Table of Contents: 2.2.1 (4)","Strengthen the supply chain risk management of outsourcing","numbered","Table of Contents: 2 (5)","We assist and counsel various agencies to handle outsourcing
 
 operations, including the establishment, maintenance or information and
 
 communication services to strengthen the cyber security management of
 
 the outsourcing manufacturers."
-"3","Table of Contents: 2.2.2 (3)","Focus on the security of telecommunications chip products","numbered","Table of Contents: 2 (12)","(1) Research and develop chip circuit cyber security testing tools to solve
+"3","Table of Contents: 2.2.2 (3)","Focus on the security of telecommunications chip products","numbered","Table of Contents: 2 (5)","(1) Research and develop chip circuit cyber security testing tools to solve
 
 the hidden cyber security risks of chips.
 
@@ -2631,8 +2733,8 @@ laboratory to supplement the gaps of domestic chip testing technology
 and the ecosystem of the testing environments and reduce the cyber
 
 security compliance barriers for exporting domestic products."
-"3","Table of Contents: 3 (11)","Build the IoT Security","numbered","",""
-"3","Table of Contents: 3.3.1 (4)","Build a safe and smart mobile technological network of new","numbered","Table of Contents: 3 (11)","generation
+"3","Table of Contents: 3 (5)","Build the IoT Security","numbered","",""
+"3","Table of Contents: 3.3.1 (4)","Build a safe and smart mobile technological network of new","numbered","Table of Contents: 3 (5)","generation
 
 (1) Continue to complete 5G cyber security supervision regulations and
 
@@ -2652,9 +2754,12 @@ improve the security of the 5G network in our country.
 
 (3) Build a 5G vertical application development environment, promote
 
-integration and coordination to facilitate cooperation among all"
-"3","","parties, and adjust laws and regulations to promote the development","","","of 5G vertical applications."
-"3","Table of Contents: 3.3.2 (4)","Formulate IoT cyber security compliance certification and field","numbered","Table of Contents: 3 (11)","demonstration
+integration and coordination to facilitate cooperation among all
+
+parties, and adjust laws and regulations to promote the development
+
+of 5G vertical applications."
+"3","Table of Contents: 3.3.2 (4)","Formulate IoT cyber security compliance certification and field","numbered","Table of Contents: 3 (5)","demonstration
 
 (1) Formulate IoT cyber security testing and verification framework, and
 
@@ -3162,8 +3267,11 @@ Maturity
 
 Maturity
 
-Above Level 2"
-"3","","Objective","","","(Including
+Above Level 2
+
+Objective
+
+(Including
 
 (Including
 

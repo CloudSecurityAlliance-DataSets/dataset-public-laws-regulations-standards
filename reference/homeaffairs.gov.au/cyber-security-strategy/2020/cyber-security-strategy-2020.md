@@ -8,7 +8,7 @@
 
 With the exception of the Commonwealth Coat of Arms, all material presented in this publication is provided under a Creative Commons Attribution 4.0 International license at:
 
-#### https://creativecommons.org/licenses/by/4.0/legalcode.
+https://creativecommons.org/licenses/by/4.0/legalcode.
 
 This means this license only applies to material as set out in this document.
 
@@ -20,9 +20,9 @@ https://creativecommons.org/ as is the full legal code for the CC BY 4.0 license
 
 Enquiries regarding the licence and any use of this document are welcome at: Cyber, Digital and Technology Policy Division Department of Home Affairs 4 National Circuit Barton ACT 2600
 
-#### cybersecuritystrategy@homeaffairs.gov.au
+cybersecuritystrategy@homeaffairs.gov.au
 
-#### P - 20-02344
+P - 20-02344
 
 #### AUSTRALIA’S CYBER SECURITY
 
@@ -156,7 +156,7 @@ Feedback from businesses and the community showed that the 2016 Strategy strengt
 
 — Establishing AustCyber, the Australian Cyber Security Growth Network, and the Cyber Security Cooperative Research Centre.
 
-#### This Strategy will build on initiatives that began in 2016, including the ACSC and JCSCs.
+This Strategy will build on initiatives that began in 2016, including the ACSC and JCSCs.
 
 ## “Australia’s landmark 2016 Cyber Security Strategy has been a catalyst for change, launching a series of government and private sector activities and responses to cyber security and cyber crime challenges.”
 
@@ -388,17 +388,17 @@ and services
 
 Government data and networks
 
-#### purchasing decisions
+purchasing decisions
 
-#### — Report cyber crime
+— Report cyber crime
 
-#### — Grow a skilled workforce
+— Grow a skilled workforce
 
 — Access help and support
 
 — Take steps to block
 
-#### — Share threat information
+— Share threat information
 
 when needed
 
@@ -426,27 +426,33 @@ Businesses should take responsibility for securing their products and services a
 
 — The community should take responsibility for practising secure online behaviours and making informed purchasing decisions.
 
-GOVERNMENT The Australian Government will strengthen the protection of Australians, businesses and critical infrastructure from the most
+#### GOVERNMENT
 
-#### sophisticated threats. State and
+The Australian Government will strengthen the protection of Australians, businesses and critical infrastructure from the most
 
-#### territory and local governments
+sophisticated threats. State and
 
-#### have a role in protecting their
+territory and local governments
 
-#### systems from cyber attacks.
+have a role in protecting their
 
-BUSINESSES Businesses should take responsibility for securing their
+systems from cyber attacks.
+
+#### BUSINESSES
+
+Businesses should take responsibility for securing their
 
 products and services and protecting their customers from
 
-#### known cyber vulnerabilities.
+known cyber vulnerabilities.
 
-COMMUNITY The community should take
+#### COMMUNITY
 
-#### responsibility for practising
+The community should take
 
-#### secure online behaviours
+responsibility for practising
+
+secure online behaviours
 
 and making informed purchasing decisions.
 
@@ -636,7 +642,7 @@ Framework elements: Enhanced Cyber Security Obligations; Positive Security Oblig
 
 The Australian Government will also provide online training and a 24/7 helpdesk for SMEs that needs cyber security advice or assistance. Government and large businesses will assist small businesses to upgrade their cyber security and grow their cyber security awareness. The Australian Government will encourage large businesses and services providers to provide small businesses with cyber security information and tools as part of ‘bundles’ of secure services, such as threat-blocking, antivirus and cyber security awareness training. Integrating cyber security products into other service offerings will help protect SMEs at scale and recognises that many businesses cannot employ dedicated cyber security staff. All of these programs will continue to be brought together on cyber.gov.au, so that SMEs can quickly find the Australian Government assistance that best meets their needs.
 
-#### The Australian Government will prioritise support for SMEs through a number of key initiatives:
+The Australian Government will prioritise support for SMEs through a number of key initiatives:
 
 — A $12.3 million expansion to the ACSC’s 24/7 cyber security hotline will enhance the provision of cyber security advice and technical assistance.
 
@@ -1168,7 +1174,7 @@ Improve threat information sharing — Government and businesses have increased 
 
 near real-time.
 
-#### — There is increased two-way flow of cyber security information.
+— There is increased two-way flow of cyber security information.
 
 — Australia’s response to unacceptable behaviour in cyberspace aligns
 
@@ -1210,7 +1216,7 @@ incidents and near-misses.
 
 — Critical infrastructure providers are supported to improve their
 
-#### cyber security.
+cyber security.
 
 Uplift the cyber security of SMEs — An increasing number of small businesses are improving their cyber
 
@@ -1272,129 +1278,129 @@ the community.
 
 #### Cyber Enhanced Situational Awareness and Response
 
-#### — Assistance to critical infrastructure providers
+— Assistance to critical infrastructure providers
 
-#### — Expanded national exercise program
+— Expanded national exercise program
 
-#### — Transformed Joint Cyber Security Centres
+— Transformed Joint Cyber Security Centres
 
-#### — Enhanced customer engagement
+— Enhanced customer engagement
 
 #### $1,350.0 million
 
-#### $66.5 million
+$66.5 million
 
-#### $10.0 million
+$10.0 million
 
-#### $67.9 million
+$67.9 million
 
-#### $58.3 million
+$58.3 million
 
-#### — Extend cyber security helpdesk for small businesses and families
+— Extend cyber security helpdesk for small businesses and families
 
-#### — Extend and expand offshore cyber crime disruption
+— Extend and expand offshore cyber crime disruption
 
-#### — Enhance cyber threat-sharing platform
+— Enhance cyber threat-sharing platform
 
-#### — New strategic mitigations and disruptions
+— New strategic mitigations and disruptions
 
-#### — Expanded data science capabilities
+— Expanded data science capabilities
 
-#### — New national situational awareness capability
+— New national situational awareness capability
 
-#### — Emerging technology research labs
+— Emerging technology research labs
 
-#### — Australian Signals Directorate personnel
+— Australian Signals Directorate personnel
 
-#### — Intelligence capabilities and program administration
+— Intelligence capabilities and program administration
 
 #### Strengthening Australia’s counter cybercrime capability
 
-#### — Bolster law enforcement capabilities
+— Bolster law enforcement capabilities
 
-#### $12.3 million
+$12.3 million
 
-#### $31.6 million
+$31.6 million
 
-#### $35.3 million
+$35.3 million
 
-#### $12.5 million
+$12.5 million
 
-#### $118.0 million
+$118.0 million
 
-#### $62.3 million
+$62.3 million
 
-#### $20.2 million
+$20.2 million
 
-#### $469.7 million
+$469.7 million
 
-#### $385.4 million
+$385.4 million
 
 #### $164.9 million
 
-#### $124.9 million
+$124.9 million
 
-#### — Establish a countering foreign cyber criminals capability within the Australian Cyber Security Centre
+— Establish a countering foreign cyber criminals capability within the Australian Cyber Security Centre
 
 #### Grow Australia’s skills
 
-#### — Skills partnership innovation fund
+— Skills partnership innovation fund
 
-#### $40.0 million
+$40.0 million
 
 #### $90.2 million
 
-#### $26.5 million
+$26.5 million
 
-#### — Australian Cyber Security Centre education and training programs
+— Australian Cyber Security Centre education and training programs
 
-#### — Data collection
+— Data collection
 
-#### — Cyber skills for students and teachers
+— Cyber skills for students and teachers
 
-#### — Grow the Defence cyber workforce
+— Grow the Defence cyber workforce
 
-#### $6.3 million
+$6.3 million
 
-#### $2.5 million
+$2.5 million
 
-#### $14.9 million
+$14.9 million
 
-#### $40.0 million
+$40.0 million
 
 #### Support to small and medium enterprises and vulnerable Australians
 
 #### $63.4 million
 
-#### — Expansion of Australian Cyber Security Centre’s support to small and medium enterprises
+— Expansion of Australian Cyber Security Centre’s support to small and medium enterprises
 
-#### $26.0 million
+$26.0 million
 
-#### — Connect and Protect Program to assist SMEs with advice and assistance from trusted sources
+— Connect and Protect Program to assist SMEs with advice and assistance from trusted sources
 
-#### $8.3 million
+$8.3 million
 
-#### — Enhancing industry outreach and national capability collaboration
+— Enhancing industry outreach and national capability collaboration
 
-#### $8.2 million
+$8.2 million
 
-#### — Cyber security awareness for Australian families households and small businesses
+— Cyber security awareness for Australian families households and small businesses
 
-#### — Boost eSafety’s investigations and support teams
+— Boost eSafety’s investigations and support teams
 
-#### — Support to victims of cyber crime
+— Support to victims of cyber crime
 
-#### $4.9 million
+$4.9 million
 
-#### $10.0 million
+$10.0 million
 
-#### $6.1 million
+$6.1 million
 
 #### Enhance the cyber security of universities $1.6 million
 
 #### Total $1,670.0 million
 
-#### Totals may vary due to rounding
+Totals may vary due to rounding
 
 #### Where can I go for more cyber security information?
 

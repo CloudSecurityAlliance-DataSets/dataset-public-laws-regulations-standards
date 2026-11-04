@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 181 | 122 | 137 | 4 | 6 | **450** |
-| **Total** | **312** | **179** | **181** | **4** | **6** | **682** |
+| `reference/` | 168 | 122 | 150 | 4 | 6 | **450** |
+| **Total** | **299** | **179** | **194** | **4** | **6** | **682** |
 
 ## control/
 
@@ -322,8 +322,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/ca.gov/sam-5300-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/ca.gov/sam-5300-definitions` |
 | `reference/canada.ca/enterprise-cyber-security-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/enterprise-cyber-security-strategy@2024` |
 | `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
-| `reference/canada.ca/national-ai-strategy/2017/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2017` |
-| `reference/canada.ca/national-ai-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2022` |
+| `reference/canada.ca/national-ai-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/canada.ca/national-ai-strategy@2017` |
+| `reference/canada.ca/national-ai-strategy/2022/` | metadata-only | 1 | `M······` | `secid:reference/canada.ca/national-ai-strategy@2022` |
 | `reference/canada.ca/national-ai-strategy/2026/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-ai-strategy@2026` |
 | `reference/canada.ca/national-security-policy/2004/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy@2004` |
 | `reference/canada.ca/national-security-policy-progress-report/2005/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy-progress-report@2005` |
@@ -388,7 +388,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
 | `reference/csa.gov.sg/ot-cybersecurity-masterplan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2019` |
-| `reference/csa.gov.sg/ot-cybersecurity-masterplan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024` |
+| `reference/csa.gov.sg/ot-cybersecurity-masterplan/2024/` | metadata-only | 1 | `M······` | `secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024` |
 | `reference/csa.gov.sg/singapore-cybersecurity-strategy/2016/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2016` |
 | `reference/csa.gov.sg/singapore-cybersecurity-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2021` |
 | `reference/ct.gov/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ct.gov/cybersecurity-glossary` |
@@ -500,7 +500,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/homeaffairs.gov.au/cyber-security-strategy-action-plan/2026-2028/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2026-2028` |
 | `reference/homeaffairs.gov.au/national-ai-plan/2021/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2021` |
 | `reference/homeaffairs.gov.au/national-ai-plan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2024` |
-| `reference/homeaffairs.gov.au/national-ai-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2025` |
+| `reference/homeaffairs.gov.au/national-ai-plan/2025/` | metadata-only | 1 | `M······` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2025` |
 | `reference/huntresslabs.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/huntresslabs.com/cybersecurity-101-glossary` |
 | `reference/hypr.com/security-encyclopedia/` | metadata-only | 1 | `M······` | `secid:reference/hypr.com/security-encyclopedia` |
 | `reference/iapp.org/privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iapp.org/privacy-glossary` |
@@ -539,7 +539,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/mnd.gov.tw/quadrennial-defense-review/2021/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/quadrennial-defense-review@2021` |
 | `reference/mnd.gov.tw/quadrennial-defense-review/2025/` | structured | 4 | `MX·CS··` | `secid:reference/mnd.gov.tw/quadrennial-defense-review@2025` |
 | `reference/moda.gov.tw/national-cyber-security-program/2021/` | structured | 4 | `MX·CS··` | `secid:reference/moda.gov.tw/national-cyber-security-program@2021` |
-| `reference/moda.gov.tw/national-cyber-security-program/2025/` | structured | 4 | `MX·CS··` | `secid:reference/moda.gov.tw/national-cyber-security-program@2025` |
+| `reference/moda.gov.tw/national-cyber-security-program/2025/` | metadata-only | 1 | `M······` | `secid:reference/moda.gov.tw/national-cyber-security-program@2025` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | structured | 6 | `MX·CSP·` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
 | `reference/ncsc.ch/ncsc-ch-glossary/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.ch/ncsc-ch-glossary` |
 | `reference/ncsc.fi/ncsc-fi-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
@@ -624,9 +624,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8425/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8425` |
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
-| `reference/nstc.gov.tw/taiwan-ai-action-plan/2018/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2018` |
-| `reference/nstc.gov.tw/taiwan-ai-action-plan/2023/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2023` |
-| `reference/nstc.gov.tw/taiwan-ai-action-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2018/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2018` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2023/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2023` |
+| `reference/nstc.gov.tw/taiwan-ai-action-plan/2025/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025` |
 | `reference/nvd.nist.gov/cpe/` | structured | 10 (+2 imgs) | `MX·CSPI` | `secid:reference/nvd.nist.gov/cpe` |
 | `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
 | `reference/ny.gov/its-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ny.gov/its-glossary` |
@@ -655,11 +655,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/president.go.kr/national-ai-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-ai-strategy@2019` |
 | `reference/president.go.kr/national-ai-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-ai-strategy@2024` |
 | `reference/president.go.kr/national-cybersecurity-basic-plan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2019` |
-| `reference/president.go.kr/national-cybersecurity-basic-plan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2024` |
-| `reference/president.go.kr/national-cybersecurity-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2019` |
-| `reference/president.go.kr/national-cybersecurity-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2024` |
-| `reference/president.go.kr/national-security-strategy/2014/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2014` |
-| `reference/president.go.kr/national-security-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2018` |
+| `reference/president.go.kr/national-cybersecurity-basic-plan/2024/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2024` |
+| `reference/president.go.kr/national-cybersecurity-strategy/2019/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2019` |
+| `reference/president.go.kr/national-cybersecurity-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-cybersecurity-strategy@2024` |
+| `reference/president.go.kr/national-security-strategy/2014/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-security-strategy@2014` |
+| `reference/president.go.kr/national-security-strategy/2018/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-security-strategy@2018` |
 | `reference/president.go.kr/national-security-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-security-strategy@2023` |
 | `reference/profibus.com/pi-glossary/` | metadata-only | 1 | `M······` | `secid:reference/profibus.com/pi-glossary` |
 | `reference/progress.com/data-protection-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/progress.com/data-protection-privacy-glossary` |

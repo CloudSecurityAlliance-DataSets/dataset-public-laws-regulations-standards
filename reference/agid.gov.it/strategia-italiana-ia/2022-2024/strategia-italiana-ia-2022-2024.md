@@ -216,9 +216,7 @@ Few of them are cloud providers offering AI solutions and companies offering sen
 
 Figure 1: Italian companies offering AI products, by sector
 
-system integrators and
-
-### consulting companies 15%
+system integrators and consulting companies 15%
 
 ### generalists 25% 55% vertical solution providers
 
@@ -624,7 +622,7 @@ These Guiding Principles are not separate pillars. They offer an ambitious visio
 
 Given the challenges laid out in the prior chapter, as well as Italy’s competitive position in the field of AI, this strategic programme lays out six objectives with a view to boosting Italy’s strengths while mitigating its weaknesses. These objectives are:
 
-### Objectives
+Objectives
 
 Objective 1. Advance frontier research in AI, both fundamental and applied, with a view to generating impact on important priority sectors of Industry, Public sector, Society, and Environment. A multidiscipli-nary approach must be incentivized, where research coexists with industrial and social innovation gene-rating true innovation ecosystems.
 
@@ -642,7 +640,7 @@ Together with this strategy’s six objectives, Italy is committed to investing 
 
 € PA
 
-### Priority sectors
+Priority sectors
 
 Industry and Manufacturing. AI will enable the Italian manufacturing sector, the second largest in Europe and seventh largest in the world, to introduce innovative processes, products and business models to the market while maintaining (or increasing) its global competitive edge.
 
@@ -740,7 +738,7 @@ innovation hub of AI
 
 sustainable
 
-### Objectives
+Objectives
 
 Advance frontier
 
@@ -800,7 +798,7 @@ This measure aims at consolidating and expanding Italian PhD programmes overall,
 
 Objective To consolidate and expand PhDs to train a larger share of local students to AI and attract high-quality students from abroad.
 
-### Initiatives
+Initiatives
 
 Increasing the number of PhDs. The target is set largely to make up for the loss in PhD fellowships suffered in recent years, as an intermediate step towards a further extension in numbers in the long term.
 
@@ -820,7 +818,7 @@ The precarious careers and the slow career advances push Italian talents towards
 
 Objective To retain and attract AI talents in Italy and maintain Italian competitiveness in AI research.
 
-### Initiatives
+Initiatives
 
 Financing research activities managed independently by young researchers, who will immediately gain a first experience of research responsibility. The programme -strongly inspired by the Excellent Scien-ce Pillar of the Horizon Europe programme-will aim at attracting young researchers who are benefi-ciary of high-profile international grants such as the ERC starting grants and the Postdoctoral Fellow-ships (MSCA).
 
@@ -844,7 +842,7 @@ A major weakness of the Public Administration in Italy is the limited share of w
 
 Objective To increase the effectiveness of the Italian Public Administration and increase the share of PA workers knowledgeable of the opportunities and risks associated with AI.
 
-### Initiative
+Initiative
 
 Activating three cycles of new PhD programmes specifically designed for the needs of the general government in cooperation with the Ministry of Public Administration and by interacting with the Scuola Nazionale dell’Amministrazione (National School for Public Administration), an educational institution training administrative officials.
 
@@ -858,7 +856,7 @@ STEM subjects constitute the basis to develop AI skills and careers. Therefore, 
 
 Objective To increase the share of students studying STEM subjects, the foundations to develop AI skills.
 
-### Initiative
+Initiative
 
 The measure aims to promote the integration within the curricula of all school cycles, of activities, methodologies and contents aimed at developing STEM, digital and innovation skills, with particular attention to equal opportunities.
 
@@ -876,9 +874,7 @@ The ITS training system needs to respond to the demand of the labour market for 
 
 Objective To develop professionals who can adjust and customize existing AI technologies to solve problems in various industrial contexts.
 
-Expansion of programming courses and inclusion of applied AI courses and internships in all ITS curricula.
-
-### Initiative
+Expansion of programming courses and inclusion of applied AI courses and internships in all ITS curricula. Initiative
 
 NRRP M4C1 Investment 1.5: Development of tertiary technical education (€1.5B). Possible source of investment
 
@@ -904,9 +900,7 @@ A structured ecosystem is necessary to define a large critical mass, strengthen 
 
 Objective To increase Italian competitiveness for grand AI challenges, in line with similar European and international initiatives by creating a structural connection of existing and new AI research centres in Italy.
 
-Creating a hub & spoke architecture with territorial expertise, especially in fundamental research.
-
-### Initiative
+Creating a hub & spoke architecture with territorial expertise, especially in fundamental research. Initiative
 
 Possible source of investment
 
@@ -920,7 +914,7 @@ Objective To generate a critical mass of open datasets and software designed at 
 
 39
 
-### Initiative
+Initiative
 
 Creating a structural connection of existing and new platforms, data and computing infrastructure devo-ted to AI, open-source libraries, specialised for the target topics of fundamental research in both specific technologies and trustworthy, regulatory models.
 
@@ -936,7 +930,7 @@ https://www.go-fair.org/fair-principles/
 
 To reinforce existing excellence and to prevent a brain drain of Italian talents towards research centres of other countries.
 
-### Initiative
+Initiative
 
 Allocating specific funds for a single Principal Investigators (PIs), already enrolled in universities and national research centres to promote collaboration with industries and public bodies, according to the interests of local ecosystems. According to objective expertise, these calls could be devoted to specific free research in foundational or applicative topics proposed by a PI. 20% of the total budget may be devo-ted to bridge gender and territorial gaps.
 
@@ -950,7 +944,7 @@ Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 
 
 Objective To improve research and scientific results and collaboration among research centres.
 
-### Initiative
+Initiative
 
 Calls devoted to fundamental curiosity-driven AI research (in machine learning, NLP, computer Vision, sensing, perception and action, symbolic reasoning, edge-AI, HPC-based AI) and trustworthy AI for progressing in software development, human-machine interaction, AI regulation and explanation.
 
@@ -962,7 +956,7 @@ NRRP M4C2 Investment 1.1: Fund for the National Research Programme (PNR) and Res
 
 Objective To have a high impact in the world of research and increase research result adoption.
 
-### Initiative
+Initiative
 
 Challenges on specific themes with measurable and competitive result evaluation. They could be related to critical aspects of AI and linked to the defined targets of Applied Research. The challenges could be coordinated with existing infrastructures such as national HPC centres, Gaia-X nodes, public and private research centre infrastructures.
 
@@ -980,7 +974,7 @@ It could include Public Sectors and society challenges (e.g. for technologies in
 
 To impact and promote public-private partnership and contribute to giving a local characterization of AI research by allowing a regional or local support to the projects.
 
-### Initiative
+Initiative
 
 Large projects on priority sectors but with free initiative proposals (similar to the National Operational Plans (PON) but 60% for public labs; 40% for companies) aiming at passing skills from research to indu-stries, working together, creating start-ups and “innovators”. At least 10% should be devoted to creating new AI start-ups.
 
@@ -994,7 +988,7 @@ NRRP M4C2 Investment 1.5: Establishing and strengthening of "innovation ecosyste
 
 Objective To create scientific excellence in research applications in specific sectors, such as creative manufacturing.
 
-### Initiative
+Initiative
 
 Grants for pioneering research in the world for creative AI, a frontier research topic that puts together new models of learning and reasoning, neuroscience experts and psychologists and creative people.
 
@@ -1012,7 +1006,7 @@ NRRP M4C2 Investment 1.3: Partnerships extended to universities, research centre
 
 To increase Italy's attractiveness to researchers and investors.
 
-### Initiative
+Initiative
 
 Call for projects focused on specific topics defined by Italian priorities co-funded by another country with at least one researcher that is coming back to Italy with the same salary they had before. A similar grant should be given to the Italian PI.
 
@@ -1104,7 +1098,7 @@ For instance the 2nd level Specializing Master’s programme in "Artificial Inte
 
 To increase the number of AI start-ups by 30% with respect to 2021; to improve the average revenues of AI start-ups by 50% in the domestic market and 30% in export; to improve the number of scale-ups; to detect and support scale-ups and unicorns.
 
-### Initiative
+Initiative
 
 Fostering talents as start-up founders: supporting entrepreneurship education for children/young-sters, encouraging university students to start a business, supporting female entrepreneurs, ensuring equal innovation opportunities, scale-up fair.
 
@@ -1122,7 +1116,7 @@ Industry & Manufacturing, Agri Food, Health and Wellbeing, Environment, Infrastr
 
 Objective To increase by 30% the AI products and services tested via authorized controlled experimentations.
 
-### Initiative
+Initiative
 
 Promotion of Sperimentazione Italia, a sandbox which allows start-ups, companies, universities and research centres to experiment with their own innovative project for a limited period of time through a temporary exemption from the rules in force under art 36 DL 76/2020. This specific instrument facilitates the access of corporates, spin-offs, start-ups, research bodies, universities, higher technical institutes and technology transfer centres to authorised controlled experimentation for testing AI technologies under real or close to real conditions with regulatory exceptions of limited duration and perimeter, prior to their potential introduction on the market.
 
@@ -1132,7 +1126,7 @@ All Priority sectors. Recommended sectors
 
 To increase by 30% the number of EU-certified AI products and services from enterprises in sectors where EU certifications already exist.
 
-### Initiative
+Initiative
 
 Definition of a national governance system (referring as much as possible to existing national institu-tions and authorities in the sector) supporting the certification of AI products (with higher risk profiles, in particular to health, safety or rights) going to the market with the definition of clear harmonised tools in line with the new proposal for a Regulation on artificial intelligence issued by the European Commission on 21 April 2021 (COM (2021) 206). In the health sector, a close collaboration will be warranted between the Italian government system and technical / scientific bodies at European level, called upon to provide detailed technical indications for the implementation of the rules, both of the future AI Regulation and of the Medical Device Regulation, i.e. the Regulations EU 745 and 746/2017 (the first became fully appli-cable on May 26, 2021), so that all the appropriate corrective measures are adopted. The goal is to ensure that the two regulations are coherent and well coordinated with each other, to the benefit of the development of the AI sector.
 
@@ -1142,7 +1136,7 @@ All Priority Sectors. Recommended sectors
 
 Objective To promote communication and awareness-raising campaigns on the benefits of AI products and services by reaching at least 80% of trade associations, 30% of trade association members, 80% of Competence Centres and Digital Innovation Hubs.
 
-### Initiative
+Initiative
 
 Organisation of 20 communication and awareness actions on AI. The campaign will include the dissemi-nation of the National Strategic Programme for AI to entrepreneurs and managers of interested enterpri-ses through a coordinated action with trade associations, Competence Centres and Digital Innovation Hubs. The campaign will also focus on the risks and obligations for marketing AI products and services under national and European legislation, especially in the context of the upcoming European regulation on AI.
 
@@ -1160,7 +1154,7 @@ To this end, we propose the following initiatives for the promotion of AI within
 
 Objective To ensure common standards in terms of form, structure and granularity on Data and AI Software and Services as well as compliance protocols with national and EU regulations. To favour the development of advanced analysis and/or software solutions that exploit the enormous big data potential of the PA from its interactions with citizens.
 
-### Initiative
+Initiative
 
 Integrating the various PA data feeds to make them highly interoperable, open to private companies for AI-software development but also to be used in the design and implementation phase of new algorithms, new learning models and AI systems released by the different administrations and open to be reused, with regard for the trustworthiness issues of national and EU regulations and in compliance with the rules for the protection of personal data. In addition, regularly updating the guidelines for reusable Open Data for AI models with extensively large and annotated datasets (e.g. data for smart mobility). Policies will be the basis for Italian Participation in the Common European Data Space of the PA, envisaged by the European Data Strategy. This will be done jointly with the implementation of already existing standards alongside the establishment of reward mechanisms for individual PA managers based on the compliance of their data structure and AI-based services with the indicated criteria.
 
@@ -1168,7 +1162,7 @@ Integrating the various PA data feeds to make them highly interoperable, open to
 
 To develop AI solutions matching the needs outlined in the priority actions linked to the PA and public sectors, namely: 1) digitalisation and modernisation of public administration; 2) protection of land and water resources; 3) road maintenance 4.0; 4) telemedicine, innovation and digitalisation of healthcare. Support the development of an Italian GovTech start-up ecosystem.
 
-### Initiative
+Initiative
 
 Introduction of periodic calls to identify and support start-ups with potential AI-based solutions to PA’s pain points, through an accelerator-like programme that turns ideas/research projects into applicable solutions and scalable companies. CITD periodically identifies, through a technical committee of experts supported by ministerial staff, well-defined key challenges for the PA that could also represent large revenue opportunities for solutions suppliers (e.g. AI for simplifying and accelerating the management of public procurement contracts and related guarantees). Challenges are published and a professionally run accelerator partner develops acceleration programmes revolving around the challenges. MITD ensures that innovative procurement offers possibility for PA contracts after acceleration and supports start-ups in abiding to European AI and data regulation.
 
@@ -1184,7 +1178,7 @@ MITD technical committee evaluates start-ups’ achievement of milestones and as
 
 Objective To ensure that researchers, businesses and public administration have access to a high-quality shared language resource (very-large datasets of Italian language documents on which AI language models can be trained), thus increasing Italian competitiveness in the field as well as the AI-based solutions available for Italian citizens.
 
-### Initiative
+Initiative
 
 Creation of an open and shared language resource structured collection of digital datasets of Italian docu-ments available to everyone for free through a collaboration between both public and private players. This resource will collect text files, sound files, and terminology banks, which can be used to develop text mining, chatbots, conversational interfaces, multilingual translation, text generation or other services improving both public and private services. The initiative will effectively help bridge the scale gap between aspiring Italian AI companies/services and larger international tech companies that have access to their own private databases.
 
@@ -1196,7 +1190,7 @@ Creation of an open and shared language resource structured collection of digita
 
 To improve the quality of in-person and digital interactions of citizens with the PA.
 
-### Initiative
+Initiative
 
 Create annotated anonimised dataset of citizens-PA interactions (online activity but also feedback from in-person interactions, e.g. from the National Institute for Social Security known as INPS) to support the development or integration of AI tools/technology providers to develop new services of conversational interfaces, sentiment analysis, pain-points detection and prediction and support employers to identify possible solutions. Create specific calls for providing scalable solutions at national level for the PA.
 
@@ -1212,7 +1206,7 @@ Create a very large annotated dataset of satellite images of urban and environme
 
 Objective To improve the quality of service centres for citizens and simplify the problem-solving process in a more efficient way by reducing case processing time.
 
-### Initiative
+Initiative
 
 Introduce AI-based technologies to automate the sorting and preparation of inquiries for processing. For instance, automation will involve: screening, comparison, categorisation and decision support in case processing; automatic comparison of textual/visual digitized documents; robotic process automation (RPA); supporting PA employers in standard answers. Hence, case officers will be able to concentrate on the most critical cases. Optimisation with case processing is relevant for various authorities, such as the citizen service centres and the subsidies administration area.
 

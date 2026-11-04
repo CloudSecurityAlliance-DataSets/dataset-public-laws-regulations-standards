@@ -8,7 +8,7 @@
 
 This document was drafted using NICT's AI translator TexTra.
 
-## CONTENTS
+CONTENTS
 
 PART I BASIC CONCEPT .................................................................................... 1
 

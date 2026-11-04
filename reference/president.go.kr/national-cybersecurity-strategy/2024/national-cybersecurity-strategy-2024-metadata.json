@@ -16,12 +16,17 @@
   "license": {
     "spdx": "KOGL-Type-1",
     "Grouping": "Permissive",
-    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution.",
+    "notes": "Korea Open Government License (KOGL) Type 1: Attribution."
   },
   "links": {
     "wikipedia": "",
     "source": "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000043771",
-    "textUsed": "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000043771",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,27 +37,12 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000043771) to Markdown (4,342 chars). Parsed 7 sections (0 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/president.go.kr/national-cybersecurity-strategy@2024 (https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000043771) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "source-unavailable"
   }
 }

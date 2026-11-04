@@ -205,15 +205,7 @@
     "section_name": "Protecting Canadians and Safeguarding our Democracy",
     "id_kind": "",
     "parent_id": "",
-    "body": "AI will only deliver on its promise if Canadians trust it. That requires modern privacy and online safety laws, strong national AI safety capabilities, and secure government systems."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 2:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "AI will only deliver on its promise if Canadians trust it. That requires modern privacy and online safety laws, strong national AI safety capabilities, and secure government systems. Pillar 2:"
   },
   {
     "depth": 2,
@@ -221,15 +213,7 @@
     "section_name": "Empowering Canadians",
     "id_kind": "",
     "parent_id": "",
-    "body": "Canada must become an AI skills nation, where AI creates good jobs for Canadians by giving access to AI training and education for all Canadians, and by representing and including Canadian voices, languages, and culture."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 3:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Canada must become an AI skills nation, where AI creates good jobs for Canadians by giving access to AI training and education for all Canadians, and by representing and including Canadian voices, languages, and culture. Pillar 3:"
   },
   {
     "depth": 2,
@@ -253,15 +237,7 @@
     "section_name": "Building the Canadian Sovereign AI Foundation",
     "id_kind": "",
     "parent_id": "",
-    "body": "AI for All will support the building of sovereign compute infrastructure at scale — resilient, sustainable, and under Canadian governance, and grow Canada’s exceptional AI researchers and talent pool."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 5:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "AI for All will support the building of sovereign compute infrastructure at scale — resilient, sustainable, and under Canadian governance, and grow Canada’s exceptional AI researchers and talent pool. Pillar 5:"
   },
   {
     "depth": 2,
@@ -269,15 +245,7 @@
     "section_name": "Scaling Canadian Champions",
     "id_kind": "",
     "parent_id": "",
-    "body": "To scale great AI companies in Canada, AI for All will unlock growth capital and leverage government as a strategic anchor customer."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 6:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "To scale great AI companies in Canada, AI for All will unlock growth capital and leverage government as a strategic anchor customer. Pillar 6:"
   },
   {
     "depth": 2,
@@ -469,15 +437,7 @@
     "section_name": "Key Actions",
     "id_kind": "",
     "parent_id": "",
-    "body": "Canada will create up to 90,000 AI-related job oppor-tunities, including 45,000 through the Student Work Placement Program and Canada Summer Jobs, 35,000 through other initiatives such as the Skills for Success Program, and 10,000 through the Mitacs ADOPT and AI+X programs.\n\nCanada will assess training and upskill offerings for mid-career workers, including in skilled trades, to scale-up employer-led training nationwide with a strong"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "priority on AI-related skills. This will also include work",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "with colleges, CÉGEPs and polytechnics as applied AI leaders to leverage regional reach, applied research capacity, and SME partnerships to deliver hands-on adoption and improve workforce productivity.\n\nCanada will accelerate AI literacy across female-domi-nated sectors most exposed to early disruption through the existing Women’s Program — unlocking new eco-nomic opportunities, softening transition shocks, and confronting AI-fueled online abuse that disproportion-ately targets women.\n\nCanada will track and assess the societal, labour market, and economic impacts of AI to guide policy and maxi-mize benefits, leveraging Statistics Canada’s Artificial Intelligence and Technology Measurement Program."
+    "body": "Canada will create up to 90,000 AI-related job oppor-tunities, including 45,000 through the Student Work Placement Program and Canada Summer Jobs, 35,000 through other initiatives such as the Skills for Success Program, and 10,000 through the Mitacs ADOPT and AI+X programs.\n\nCanada will assess training and upskill offerings for mid-career workers, including in skilled trades, to scale-up employer-led training nationwide with a strong priority on AI-related skills. This will also include work with colleges, CÉGEPs and polytechnics as applied AI leaders to leverage regional reach, applied research capacity, and SME partnerships to deliver hands-on adoption and improve workforce productivity.\n\nCanada will accelerate AI literacy across female-domi-nated sectors most exposed to early disruption through the existing Women’s Program — unlocking new eco-nomic opportunities, softening transition shocks, and confronting AI-fueled online abuse that disproportion-ately targets women.\n\nCanada will track and assess the societal, labour market, and economic impacts of AI to guide policy and maxi-mize benefits, leveraging Statistics Canada’s Artificial Intelligence and Technology Measurement Program."
   },
   {
     "depth": 2,
@@ -493,23 +453,7 @@
     "section_name": "Supporting Indigenous Leadership in AI",
     "id_kind": "",
     "parent_id": "",
-    "body": "There has been considerable evidence of the dispropor-tionate exposure and impacts of AI harms to equity-seeking groups, including Indigenous Peoples. This is a global phenomenon, but one in which Canada can work with Indigenous communities and nations to build world-leading capacity to address them.\n\nBy supporting Indigenous leaders, researchers, and pol-icymakers from around the world to ensure Indigenous peoples have agency in shaping AI development locally and internationally, Canada can coordinate research, develop shared AI training standards for Indigenous data, support the development of community-level AI capacity and applications such as language models, land manage-ment tools, and cultural heritage systems.\n\nCanada will work with Indigenous communities to ensure AI tools designed and built here protect Indigenous cultural and linguistic expression, support Indigenous self-determination over how AI is built and used in Indige-nous contexts, and build domestic capacity to address the specific harms Indigenous Peoples face."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Key Actions",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Canada will support and amplify Indigenous-led AI"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "initiatives that reinforce cultural expression and linguis-",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "tic vitality in Canada and around the world, building on existing efforts such as the Indigenous Languages Pro-gram at Canadian Heritage, the Indigenous Languages Technology Program at the National Research Council, and First Languages AI Reality at Mila."
+    "body": "There has been considerable evidence of the dispropor-tionate exposure and impacts of AI harms to equity-seeking groups, including Indigenous Peoples. This is a global phenomenon, but one in which Canada can work with Indigenous communities and nations to build world-leading capacity to address them.\n\nBy supporting Indigenous leaders, researchers, and pol-icymakers from around the world to ensure Indigenous peoples have agency in shaping AI development locally and internationally, Canada can coordinate research, develop shared AI training standards for Indigenous data, support the development of community-level AI capacity and applications such as language models, land manage-ment tools, and cultural heritage systems.\n\nCanada will work with Indigenous communities to ensure AI tools designed and built here protect Indigenous cultural and linguistic expression, support Indigenous self-determination over how AI is built and used in Indige-nous contexts, and build domestic capacity to address the specific harms Indigenous Peoples face. Key Actions\n\nCanada will support and amplify Indigenous-led AI initiatives that reinforce cultural expression and linguis-tic vitality in Canada and around the world, building on existing efforts such as the Indigenous Languages Pro-gram at Canadian Heritage, the Indigenous Languages Technology Program at the National Research Council, and First Languages AI Reality at Mila."
   },
   {
     "depth": 2,
@@ -565,15 +509,7 @@
     "section_name": "Accelerating AI Adoption Across Canadian SMEs",
     "id_kind": "",
     "parent_id": "",
-    "body": "Canadian businesses are essential to turning AI innovation into real economic growth. While many companies see the potential of AI, they often face barriers such as cost, access to expertise, and uncertainty about where to start. This is especially true for small and medium‑sized enterprises who are facing greater productivity and resource challenges.\n\nBusinesses and not-for-profit organizations need to move from experimentation to impact through hands‑on support, practical advice, and sector-specific expertise and roadmaps. Access to financing will help them invest in AI tools, software, and equipment that improve productivity and competitiveness.\n\nCanada will utilize the LIFT program, a $500 million"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "initiative from the Business Development Bank of",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Canada (BDC) to help Canadian SMEs access financing to incorporate AI tools in their operations.\n\nCanada will invest $500 million to expand and enhance the Regional Artificial Intelligence Initiative delivered through Regional Development Agencies to accelerate adoption and commercialization of AI across the country.\n\nCanada will support the development of an AI Literacy and Adoption Assessment tool and other online resources that help SMEs and entrepreneurs assess their AI read-iness, identify practical use cases, understand potential business impacts in a low-risk environment, and connect with critical programs and development agencies.\n\nCanada will provide targeted support to strengthen AI adoption among Canadian entrepreneurs through the Small Business and Entrepreneurship Development Program.\n\nCanada will leverage the SR&ED tax credit and the Productivity Super-Deduction announced in Budget 2025 to catalyze private sector investment and make innovation more affordable."
+    "body": "Canadian businesses are essential to turning AI innovation into real economic growth. While many companies see the potential of AI, they often face barriers such as cost, access to expertise, and uncertainty about where to start. This is especially true for small and medium‑sized enterprises who are facing greater productivity and resource challenges.\n\nBusinesses and not-for-profit organizations need to move from experimentation to impact through hands‑on support, practical advice, and sector-specific expertise and roadmaps. Access to financing will help them invest in AI tools, software, and equipment that improve productivity and competitiveness.\n\nCanada will utilize the LIFT program, a $500 million initiative from the Business Development Bank of Canada (BDC) to help Canadian SMEs access financing to incorporate AI tools in their operations.\n\nCanada will invest $500 million to expand and enhance the Regional Artificial Intelligence Initiative delivered through Regional Development Agencies to accelerate adoption and commercialization of AI across the country.\n\nCanada will support the development of an AI Literacy and Adoption Assessment tool and other online resources that help SMEs and entrepreneurs assess their AI read-iness, identify practical use cases, understand potential business impacts in a low-risk environment, and connect with critical programs and development agencies.\n\nCanada will provide targeted support to strengthen AI adoption among Canadian entrepreneurs through the Small Business and Entrepreneurship Development Program.\n\nCanada will leverage the SR&ED tax credit and the Productivity Super-Deduction announced in Budget 2025 to catalyze private sector investment and make innovation more affordable."
   },
   {
     "depth": 2,

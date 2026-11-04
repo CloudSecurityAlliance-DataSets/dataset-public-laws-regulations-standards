@@ -149,15 +149,7 @@
     "section_name": "“As a community we have moved beyond the",
     "id_kind": "",
     "parent_id": "",
-    "body": "land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "OT cybersecurity and it is a winnable battle.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise OT cybersecurity and it is a winnable battle.”"
   },
   {
     "depth": 2,
@@ -285,15 +277,7 @@
     "section_name": "“World-wide, attacks that aim service",
     "id_kind": "",
     "parent_id": "",
-    "body": "sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "top-down action taking is critically important.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "APT groups that carry out cyber-\n\nattacks are of grave concern globally. Singapore is not immune to this threat. As Singapore transforms itself into a Smart Nation – a hyper-connected country that deploys smart technologies to enhance the quality of life for every citizen – our livelihood and economy will increasingly depend upon and be impacted by the digital domain.\n\nThe underlying OT infrastructure\n\nsystems, including those in the energy, water and transport sectors, are vital to support our Digital Economy and deliver essential services to Singapore. We need vigilance in safeguarding\n\nthese systems toward ensuring a robust and resilient Smart Nation."
+    "body": "sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes top-down action taking is critically important.”\n\nAPT groups that carry out cyber-\n\nattacks are of grave concern globally. Singapore is not immune to this threat. As Singapore transforms itself into a Smart Nation – a hyper-connected country that deploys smart technologies to enhance the quality of life for every citizen – our livelihood and economy will increasingly depend upon and be impacted by the digital domain.\n\nThe underlying OT infrastructure\n\nsystems, including those in the energy, water and transport sectors, are vital to support our Digital Economy and deliver essential services to Singapore. We need vigilance in safeguarding\n\nthese systems toward ensuring a robust and resilient Smart Nation."
   },
   {
     "depth": 2,
@@ -365,15 +349,7 @@
     "section_name": "“CII sectors delivering essential services are",
     "id_kind": "",
     "parent_id": "",
-    "body": "facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "faced by CII sectors operating OT systems.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges faced by CII sectors operating OT systems.”"
   },
   {
     "depth": 3,
@@ -781,15 +757,7 @@
     "section_name": "“Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar",
     "id_kind": "",
     "parent_id": "",
-    "body": "to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "complex area that it takes effective collaboration across all business areas to stay ahead of threats.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "GRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.\n\nTo enhance information sharing and\n\nmeetings, OT cyber professionals can stay updated on fast-evolving threats and mitigation measures in the OT landscape. In addition, the OT-ISAC will offer insights from private cyber intelligence vendors on incidents that could directly impact the business operations of OT industries. The OT-ISAC will also tap on the experiences and expertise of more than 7,000 organisations operating across five continents, and share actionable cyber intelligence with OT cybersecurity stakeholders in Singapore.\n\npermit timely responses against cyber threats, CSA collaborated with the Global Resilience Federation Asia Pacific (GRF APAC) and launched the OT Cybersecurity\n\nInformation Sharing and Analysis Center (OT-ISAC) on 1st October 2019. The OT-ISAC will involve members from the Government, CII and OT industries, to drive knowledge exchanges and adoption of essential OT cybersecurity best practices and benchmarks. Through promoting conferences, workshops and\n\nThe key objectives of setting up the OT-ISAC are to:\n\n❶ Create a platform of trust, to improve the willingness and confidence level for stakeholders to share knowledge, information and practices that could optimise\n\n❷ Tailor OT cyber information sharing for Singapore’s needs. With the establishment of the local ISAC, the usefulness and relevance of the shared\n\ncybersecurity outcomes.\n\ninformation will be ensured.\n\n❸ Build local OT cybersecurity analytics\n\n❹ Foster cross-border cooperation\n\nand response competencies. The setup and the experiences of operating\n\non OT cybersecurity. The setup of the OT-ISAC offers opportunities\n\nan ISAC provides opportunities to recruit,\n\nfor the local OT industry to exchange information and partner regional countries\n\ngrow and deepen cybersecurity competencies of OT cybersecurity\n\nto enhance collective cybersecurity.\n\nanalysts for the local ecosystem."
+    "body": "to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and complex area that it takes effective collaboration across all business areas to stay ahead of threats.”\n\nGRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.\n\nTo enhance information sharing and\n\nmeetings, OT cyber professionals can stay updated on fast-evolving threats and mitigation measures in the OT landscape. In addition, the OT-ISAC will offer insights from private cyber intelligence vendors on incidents that could directly impact the business operations of OT industries. The OT-ISAC will also tap on the experiences and expertise of more than 7,000 organisations operating across five continents, and share actionable cyber intelligence with OT cybersecurity stakeholders in Singapore.\n\npermit timely responses against cyber threats, CSA collaborated with the Global Resilience Federation Asia Pacific (GRF APAC) and launched the OT Cybersecurity\n\nInformation Sharing and Analysis Center (OT-ISAC) on 1st October 2019. The OT-ISAC will involve members from the Government, CII and OT industries, to drive knowledge exchanges and adoption of essential OT cybersecurity best practices and benchmarks. Through promoting conferences, workshops and\n\nThe key objectives of setting up the OT-ISAC are to:\n\n❶ Create a platform of trust, to improve the willingness and confidence level for stakeholders to share knowledge, information and practices that could optimise\n\n❷ Tailor OT cyber information sharing for Singapore’s needs. With the establishment of the local ISAC, the usefulness and relevance of the shared\n\ncybersecurity outcomes.\n\ninformation will be ensured.\n\n❸ Build local OT cybersecurity analytics\n\n❹ Foster cross-border cooperation\n\nand response competencies. The setup and the experiences of operating\n\non OT cybersecurity. The setup of the OT-ISAC offers opportunities\n\nan ISAC provides opportunities to recruit,\n\nfor the local OT industry to exchange information and partner regional countries\n\ngrow and deepen cybersecurity competencies of OT cybersecurity\n\nto enhance collective cybersecurity.\n\nanalysts for the local ecosystem."
   },
   {
     "depth": 3,
@@ -869,15 +837,7 @@
     "section_name": "“There is no perfect countermeasure in terms",
     "id_kind": "",
     "parent_id": "",
-    "body": "of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "a serious incident is our key focus now.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having a serious incident is our key focus now.”"
   },
   {
     "depth": 2,
@@ -893,15 +853,7 @@
     "section_name": "“The power system is a complex",
     "id_kind": "",
     "parent_id": "",
-    "body": "and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "resilience of our systems.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and resilience of our systems.”"
   },
   {
     "depth": 3,

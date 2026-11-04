@@ -16,7 +16,12 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official government/institutional publication (enisa.europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "European Union official publication (enisa.europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0).",
+    "notes": "European Union official publication (enisa.europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 90-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf) locally via PyMuPDF (222,603 chars). Parsed 52 sections (24 with explicit section identifiers)."
+    "notes": "Extracted 90-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf) locally via PyMuPDF (222,598 chars). Parsed 51 sections (24 with explicit section identifiers)."
   },
   "extraction_history": [
     {

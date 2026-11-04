@@ -216,27 +216,27 @@ Cyber-Sicherheitsstrategie | 9
 
 Digitale Kompetenz bei allen Anwendern fördern
 
-#### Digitaler Sorglosigkeit entgegenwirken
+Digitaler Sorglosigkeit entgegenwirken
 
 Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen
 
-#### Sichere elektronische Identitäten
+Sichere elektronische Identitäten
 
 Zertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit
 
-#### Digitalisierung sicher gestalten
+Digitalisierung sicher gestalten
 
-#### IT-Sicherheitsforschung vorantreiben
+IT-Sicherheitsforschung vorantreiben
 
-#### Kritische Infrastrukturen sichern
+Kritische Infrastrukturen sichern
 
-#### Unternehmen in Deutschland schützen
+Unternehmen in Deutschland schützen
 
-#### Die deutsche IT-Wirtschaft stärken
+Die deutsche IT-Wirtschaft stärken
 
-#### Mit den Providern zusammenarbeiten
+Mit den Providern zusammenarbeiten
 
-#### IT-Sicherheitsdienstleister einbeziehen
+IT-Sicherheitsdienstleister einbeziehen
 
 Eine Plattform für vertrauensvollen
 
@@ -270,7 +270,7 @@ Die Fähigkeit zur Analyse und
 
 Reaktion vor Ort stärken
 
-#### Strafverfolgung im Cyber-Raum intensivieren
+Strafverfolgung im Cyber-Raum intensivieren
 
 Cyber-Spionage und Cyber-Sabotage
 
@@ -286,13 +286,13 @@ Gründung der Zentralen Stelle für Informa
 
 tionstechnik im Sicherheitsbereich (ZITiS)
 
-#### Verteidigungsaspekte der Cyber-Sicherheit stärken
+Verteidigungsaspekte der Cyber-Sicherheit stärken
 
-#### CERT-Strukturen in Deutschland stärken
+CERT-Strukturen in Deutschland stärken
 
-#### Die Bundesverwaltung sichern
+Die Bundesverwaltung sichern
 
-#### Zwischen Bund und Ländern eng zusammenarbeiten
+Zwischen Bund und Ländern eng zusammenarbeiten
 
 Ressourcen einsetzen, Personal
 
@@ -302,11 +302,11 @@ Eine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten
 
 Die Cyber-Verteidigungspolitik der NATO weiterentwickeln
 
-#### Cyber-Sicherheit international aktiv mitgestalten
+Cyber-Sicherheit international aktiv mitgestalten
 
 Bilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)
 
-#### Internationale Strafverfolgung stärken
+Internationale Strafverfolgung stärken
 
 Cyber-Sicherheitsstrategie | 11
 
@@ -316,29 +316,29 @@ Digitale Kompetenz bei allen Anwendern fördern
 
 Digitale Kompetenz bei allen Anwendern fördern
 
-#### Digitaler Sorglosigkeit entgegenwirken
+Digitaler Sorglosigkeit entgegenwirken
 
-#### Digitaler Sorglosigkeit entgegenwirken
-
-Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen
+Digitaler Sorglosigkeit entgegenwirken
 
 Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen
 
-#### Sichere elektronische Identitäten
+Voraussetzungen für sichere elektronische Kommunikation und sichere Webangebote schaffen
 
-#### Sichere elektronische Identitäten
+Sichere elektronische Identitäten
+
+Sichere elektronische Identitäten
 
 Zertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit
 
 Zertifizierung und Zulassung stärken – Einführung eines Gütesiegels für IT-Sicherheit
 
-#### Digitalisierung sicher gestalten
+Digitalisierung sicher gestalten
 
-#### Digitalisierung sicher gestalten
+Digitalisierung sicher gestalten
 
-#### IT-Sicherheitsforschung vorantreiben
+IT-Sicherheitsforschung vorantreiben
 
-#### IT-Sicherheitsforschung vorantreiben
+IT-Sicherheitsforschung vorantreiben
 
 ## Gesellschaft – Staat – Wirtschaft
 
@@ -582,25 +582,25 @@ Cyber-Sicherheitsstrategie | 19
 
 ## Handlungsfeld 2
 
-#### Kritische Infrastrukturen sichern
+Kritische Infrastrukturen sichern
 
-#### Kritische Infrastrukturen sichern
+Kritische Infrastrukturen sichern
 
-#### Unternehmen in Deutschland schützen
+Unternehmen in Deutschland schützen
 
-#### Unternehmen in Deutschland schützen
+Unternehmen in Deutschland schützen
 
-#### Die deutsche IT-Wirtschaft stärken
+Die deutsche IT-Wirtschaft stärken
 
-#### Die deutsche IT-Wirtschaft stärken
+Die deutsche IT-Wirtschaft stärken
 
-#### Mit den Providern zusammenarbeiten
+Mit den Providern zusammenarbeiten
 
-#### Mit den Providern zusammenarbeiten
+Mit den Providern zusammenarbeiten
 
-#### IT-Sicherheitsdienstleister einbeziehen
+IT-Sicherheitsdienstleister einbeziehen
 
-#### IT-Sicherheitsdienstleister einbeziehen
+IT-Sicherheitsdienstleister einbeziehen
 
 Eine Plattform für vertrauensvollen
 
@@ -762,9 +762,9 @@ Reaktion vor Ort stärken
 
 Reaktion vor Ort stärken
 
-#### Strafverfolgung im Cyber-Raum intensivieren
+Strafverfolgung im Cyber-Raum intensivieren
 
-#### Strafverfolgung im Cyber-Raum intensivieren
+Strafverfolgung im Cyber-Raum intensivieren
 
 Cyber-Spionage und Cyber-Sabotage
 
@@ -792,21 +792,21 @@ tionstechnik im Sicherheitsbereich (ZITiS)
 
 tionstechnik im Sicherheitsbereich (ZITiS)
 
-#### Verteidigungsaspekte der Cyber-Sicherheit stärken
+Verteidigungsaspekte der Cyber-Sicherheit stärken
 
-#### Verteidigungsaspekte der Cyber-Sicherheit stärken
+Verteidigungsaspekte der Cyber-Sicherheit stärken
 
-#### CERT-Strukturen in Deutschland stärken
+CERT-Strukturen in Deutschland stärken
 
-#### CERT-Strukturen in Deutschland stärken
+CERT-Strukturen in Deutschland stärken
 
-#### Die Bundesverwaltung sichern
+Die Bundesverwaltung sichern
 
-#### Die Bundesverwaltung sichern
+Die Bundesverwaltung sichern
 
-#### Zwischen Bund und Ländern eng zusammenarbeiten
+Zwischen Bund und Ländern eng zusammenarbeiten
 
-#### Zwischen Bund und Ländern eng zusammenarbeiten
+Zwischen Bund und Ländern eng zusammenarbeiten
 
 Ressourcen einsetzen, Personal
 
@@ -1200,9 +1200,9 @@ Bilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von C
 
 Bilaterale und regionale Unterstützung und Kooperation zum Auf-und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)
 
-#### Internationale Strafverfolgung stärken
+Internationale Strafverfolgung stärken
 
-#### Internationale Strafverfolgung stärken
+Internationale Strafverfolgung stärken
 
 38 | Cyber-Sicherheitsstrategie
 

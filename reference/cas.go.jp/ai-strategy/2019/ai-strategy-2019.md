@@ -194,7 +194,7 @@ and users; and to foster recognition of the tangible benefits of AI.
 
 The following strategic objectives are set for this Strategy.
 
-### Strategic Objective 1
+Strategic Objective 1
 
 For Japan to develop a base of human resources which, in proportion to population, leads the world in being aligned with the needs of the AI era, and to become a country that attracts human resources from around the world. In addition, to build a mechanism to achieve this objective on a sustainable basis.
 
@@ -230,7 +230,7 @@ literacy of AI and make it possible for each individual to appreciate and utiliz
 
 willingly and without anxiety.
 
-### Strategic Objective 2
+Strategic Objective 2
 
 For Japan to become a frontrunner in the application of AI to real-world industry and to achieve strengthened industrial competitiveness.
 
@@ -274,9 +274,7 @@ Note that the type of service industries that are almost completely in cyberspac
 
 and SNS, are a subject for future study.
 
-### Strategic Objective 3
-
-For a series of technology systems to be established in Japan that will realize a "sustainable society that incorporates diversity", and to implement a mechanism to operate them.
+Strategic Objective 3 For a series of technology systems to be established in Japan that will realize a "sustainable society that incorporates diversity", and to implement a mechanism to operate them.
 
 It is extremely important for women, foreigners, elderly people and other diverse people with diverse
 
@@ -292,7 +290,7 @@ important to formulate a plan for implementation on the premise that promoting t
 
 scale can significantly contribute to the achievement of SDGs.
 
-### Strategic Objective 4
+Strategic Objective 4
 
 For Japan to take a leadership role in building international research, education, and social infrastructure networks in the AI field, and to accelerate AI-related R&D, human resource development, achievement of SDGs, etc.
 
@@ -1016,7 +1014,7 @@ enables business to be conducted in English)19
 
 human resources with AI and specialized fields of study (FY 2021) [MEXT, METI]
 
-(4) Mathematics, Data Science, AI Education Certification System
+#### (4) Mathematics, Data Science, AI Education Certification System
 
 ＜Specific Objective 1＞
 

@@ -36,21 +36,9 @@ The arrival of generative systems has, in the past year, made even more evident 
 
 development goals set by the United Nations Agenda 2030. These strategic indications finally converged in 2021 within the “Strategic Program for Artificial Intelli­ gence” (by the Ministry of University and Research, the Ministry of Economic Development, and the Minister for Technological Innovation and Digital Transition) with actions planned in the time horizon 2022-2024. The horizon of the strategic program has, therefore, now come to an end; but, especially, since 2021 to to­ day, the context of reference has significantly changed: a profound revolution has occurred in recent years in the field of Artificial Intelligence. The regulatory context has changed, technology has innovated, with the arrival of generative systems and the development of so-cal­ led Foundation Models, and a new sensitivity towards Artificial Intelligence has emerged, a sensitivity that fir­ mly embraces the need for an ethical vision to innova­ tion, which places people and their needs at the center.
 
-Within such a complex and dynamic scenario, it is now time to update our strategic vision on Artificial Intelli­ gence, defining a new program that builds on previous experiences, sharing the principles of reference for an Italian Artificial Intelligence that fits into a European context and promoting the development of anthropo­ centric, reliable, and sustainable solutions. In revisiting the Italian strategy, it is simultaneously essential to seize the necessity for innovation, reading and analy­ zing the changed conditions of the context, and valuing the matured awareness (i) of the strategic importan­ ce of enhancing our capacity to realize and promote the use of AI solutions in the productive, entrepreneu­ rial, educational, and social fabric, as well as in Public Administration, and (ii) that promoting the distinctive traits of our country will increasingly pass through the encoding and availability of AI data and models ca­ pable of representing and enhancing its specificities. To realize this vision of development, the strategy aims to pursue the following strategic macro-objectives:
+Within such a complex and dynamic scenario, it is now time to update our strategic vision on Artificial Intelli­ gence, defining a new program that builds on previous experiences, sharing the principles of reference for an Italian Artificial Intelligence that fits into a European context and promoting the development of anthropo­ centric, reliable, and sustainable solutions. In revisiting the Italian strategy, it is simultaneously essential to seize the necessity for innovation, reading and analy­ zing the changed conditions of the context, and valuing the matured awareness (i) of the strategic importan­ ce of enhancing our capacity to realize and promote the use of AI solutions in the productive, entrepreneu­ rial, educational, and social fabric, as well as in Public Administration, and (ii) that promoting the distinctive traits of our country will increasingly pass through the encoding and availability of AI data and models ca­ pable of representing and enhancing its specificities. To realize this vision of development, the strategy aims to pursue the following strategic macro-objectives: • Support the creation and adoption of AI applica­ tions to support management practices, production models, and innovation projects. In particular, it will be relevant to carry out project activities and data infrastructure aimed at developing AI sy­ stems from a country-specific perspective, capable of preserving the competitive differentials of our excellences, avoiding their dilution due to the im­ portation of systems developed in other countries. • Promote foundational and applied scientific rese­ arch, encouraging the connection of our resear­ ch units operating on a national scale with major development platforms operating international­ ly, and fostering the development of AI applica­ tions consistent with the competitive needs of the country system; concurrently promote the development and use of AI to support initiati­ ves aimed at social well-being, with applications,
 
-## • Support the creation and adoption of AI applica­
-
-tions to support management practices, production models, and innovation projects. In particular, it will be relevant to carry out project activities and data infrastructure aimed at developing AI sy­ stems from a country-specific perspective, capable of preserving the competitive differentials of our excellences, avoiding their dilution due to the im­ portation of systems developed in other countries.
-
-## • Promote foundational and applied scientific rese­
-
-arch, encouraging the connection of our resear­ ch units operating on a national scale with major development platforms operating international­ ly, and fostering the development of AI applica­ tions consistent with the competitive needs of the country system; concurrently promote the development and use of AI to support initiati­ ves aimed at social well-being, with applications,
-
-for example, in the welfare system, in the pro­ tection of the Italian environmental and cultural heritage, in educational processes, and in health.
-
-## • Create favorable contextual conditions to enhan­
-
-ce the potential in terms of AI value generation. In particular, the focus, through a training system aiming at excellence, on growing talents with skills consistent with the emerging scenario and impro­ ving public administration services through the in­ troduction of AI solutions, represents cross-cutting and enabling priorities.
+for example, in the welfare system, in the pro­ tection of the Italian environmental and cultural heritage, in educational processes, and in health. • Create favorable contextual conditions to enhan­ ce the potential in terms of AI value generation. In particular, the focus, through a training system aiming at excellence, on growing talents with skills consistent with the emerging scenario and impro­ ving public administration services through the in­ troduction of AI solutions, represents cross-cutting and enabling priorities.
 
 The planning and implementation of projects that can guide the country with respect to these cardinal poin­ ts requires an awareness of: (i) the key role played by AI in the geopolitical landscape, and (ii) the absolute necessity of launching a unified project capable of co­ ordinating and focusing the efforts of all stakeholders. From this perspective, it is firstly essential to manage the trade-off between the “risk of inaction” and the un­ derestimation of ethical implications resulting from an opportunistic use of AI systems.
 
@@ -118,37 +106,9 @@ To steer towards this new direction, we must be able to support both foundationa
 
 ### Sectors and Areas of Application
 
-To materialize the vision outlined here, investments in Artificial Intelligence must cover all areas and pos­ sible fields of application, however, particular atten­ tion should be given to those that play a prominent role in the Italian productive and social fabric. Regar­ ding the use of AI to strengthen our country’s compe­ titiveness, areas of particular interest for developing and promoting the use of new AI solutions both in applied research and in business solutions include:
+To materialize the vision outlined here, investments in Artificial Intelligence must cover all areas and pos­ sible fields of application, however, particular atten­ tion should be given to those that play a prominent role in the Italian productive and social fabric. Regar­ ding the use of AI to strengthen our country’s compe­ titiveness, areas of particular interest for developing and promoting the use of new AI solutions both in applied research and in business solutions include: • The Made in Italy industry, with particular focus on manufacturing identity and supply chains in au­ tomation, agri-food, furniture, clothing, as well as sectors of tourism, chemicals and pharmaceuticals,
 
-## • The Made in Italy industry, with particular focus on
-
-manufacturing identity and supply chains in au­ tomation, agri-food, furniture, clothing, as well as sectors of tourism, chemicals and pharmaceuticals,
-
-and aerospace;
-
-## • The Digital industry, with ICT service companies
-
-and for the development of digital network infra­ structure that enable AI solutions;
-
-## • The Financial industry, where the use of AI is now
-
-a consolidated reality internationally, including banking/insurance services. Regarding the use of AI as a lever for improving the quality of life of in­ dividuals and promoting the well-being of society, areas of particular interest are:
-
-## • Health, understood in its “one health” meaning,
-
-thus not only in aspects strictly related to promo­ ting AI digital technologies in the medical field but also for everything related to prevention, defining healthier lifestyles, and caring for the more vulne­ rable;
-
-## • Education, an area where AI technologies are incre­
-
-asingly entering with dynamics that must be guided to preserve the quality of the overall system;
-
-## • The protection of the territory, with reference to
-
-cultural and environmental assets, communities, and all factors connected with the environmental sustainability of the digital transition based on AI, thus also considering, for example, aspects related to energy management, especially from renewable sources, and sustainable mobility;
-
-## • The protection of privacy and security of individuals,
-
-also in relation to aspects that strategically affect the defense sector and national cybersecurity.
+and aerospace; • The Digital industry, with ICT service companies and for the development of digital network infra­ structure that enable AI solutions; • The Financial industry, where the use of AI is now a consolidated reality internationally, including banking/insurance services. Regarding the use of AI as a lever for improving the quality of life of in­ dividuals and promoting the well-being of society, areas of particular interest are: • Health, understood in its “one health” meaning, thus not only in aspects strictly related to promo­ ting AI digital technologies in the medical field but also for everything related to prevention, defining healthier lifestyles, and caring for the more vulne­ rable; • Education, an area where AI technologies are incre­ asingly entering with dynamics that must be guided to preserve the quality of the overall system; • The protection of the territory, with reference to cultural and environmental assets, communities, and all factors connected with the environmental sustainability of the digital transition based on AI, thus also considering, for example, aspects related to energy management, especially from renewable sources, and sustainable mobility; • The protection of privacy and security of individuals, also in relation to aspects that strategically affect the defense sector and national cybersecurity.
 
 Public Administration will finally represent a privile­ ged domain of action, due to its repercussions on both aspects outlined above, both for improving competiti­ veness (for example, through the streamlining of admi­ nistrative procedures and in specific areas like justice) and for enhancing citizen interactions with peripheral and central structures.
 
@@ -186,37 +146,13 @@ Technologies—ideally—are born to be impartial, free of biases, conditioning,
 
 Rather than developing a framework of risks linked to general and thus cross-national assessments, it is therefore essential to understand the risks of imple­ menting our specific national strategy, outlined taking into account the specificities of our country-system and oriented on the above-outlined objectives. It is not superfluous, however, to remember that the overall context in which to place the detailed analysis remains, obviously, the comprehensive and systematic regula­ tion of Artificial Intelligence proposed by the European Union, aimed at setting limits so that in the implemen­ tation of these technologies, the values and fundamen­ tal rights shared by the European Community are re­ spected . This context has, moreover, been referred to, directly or indirectly, by other important international acts or declarations of commitment, such as the recent U.S. executive order (which seeks to channel the deve­ lopments of Artificial Intelligence in the USA on a track of safety, reliability, and transparency of solutions) or the Bletchley declaration (signed by the European Union and 28 States committed to collaborating to mi­ tigate the risks associated with the use of AI technolo­ gies, especially Foundation Models). In an analysis that obviously cannot be extensive, the main risks that are foreseen are outlined below, highli­ ghting for each the methodological approach propo­ sed to mitigate and consciously address them. These approaches will then be subsequently internalized in the definition of specific strategic actions that will be
 
-outlined for the areas of Training, Research, Public Ad­ ministration, and Enterprises.
-
-## • THE RISK OF “NON-ACTION”
-
-In a country like Italy, historically resistant to infor­ mation and communication technologies and slow, timid approaches to pursuing strategic objectives risk resulting in a waste of resources and a fur­ ther loss of competitiveness. “Non-action” can be, in particular, fueled by an approach to innovation that limits itself to importing/purchasing existing solutions, interpreting the revolution of Artificial Intelligence as a simple challenge to create in­ terfaces on a technological world animated by others; therefore, it is necessary to be ambitious, highlighting the economic value of the use of the­ se technological systems in services (also public or of public interest) and in production processes. “Non-action” can also be fueled by poorly focused actions and initiatives that are not able to respond well to the needs of the reference context; therefo­ re, it is necessary to enhance the capacity to pro­ duce our technology tailored to the needs, values, rights, and interests of our country. Investments must be made in applications and solutions that are oriented to support the specificities of our coun­ try-system, favoring a dimension of internal appli­ cation development and not as a result of an im­ port perspective. This also considering the current geopolitical competition on technology and in par­ ticular on AI, a competition in which Italy must par­ ticipate as a protagonist, also in support and stimu­ lus of the European Union and the Member States.
-
-## • THE RISK OF HOMOGENIZATION
-
-Closely connected to the points highlighted abo­ ve is the risk of cultural homogenization, which has begun to take shape following the significant advancements of generative AI. If on one hand the Italian strategy aims to increase the diffusion of AI systems and models, also generative, on the other hand, it must take into account that most of these systems are today produced abroad, thus reproducing in our different social context, first and foremost Italian, but also European, ide­ as and values often heterogeneous. This is a very relevant risk that strongly impacts our society and its rights to freedom, and of which we do not yet have a full perception of the outcomes on a global scale. Developing a system according to the values and the idea of the rights of a nation, brings with it the unavoidable interest in having a technology compliant with the constitutional values of its legal order, at the same time reaffirming and preser­ ving them. Therefore, strategic actions aimed at promoting generative models, used in particular in
+outlined for the areas of Training, Research, Public Ad­ ministration, and Enterprises. • THE RISK OF “NON-ACTION” In a country like Italy, historically resistant to infor­ mation and communication technologies and slow, timid approaches to pursuing strategic objectives risk resulting in a waste of resources and a fur­ ther loss of competitiveness. “Non-action” can be, in particular, fueled by an approach to innovation that limits itself to importing/purchasing existing solutions, interpreting the revolution of Artificial Intelligence as a simple challenge to create in­ terfaces on a technological world animated by others; therefore, it is necessary to be ambitious, highlighting the economic value of the use of the­ se technological systems in services (also public or of public interest) and in production processes. “Non-action” can also be fueled by poorly focused actions and initiatives that are not able to respond well to the needs of the reference context; therefo­ re, it is necessary to enhance the capacity to pro­ duce our technology tailored to the needs, values, rights, and interests of our country. Investments must be made in applications and solutions that are oriented to support the specificities of our coun­ try-system, favoring a dimension of internal appli­ cation development and not as a result of an im­ port perspective. This also considering the current geopolitical competition on technology and in par­ ticular on AI, a competition in which Italy must par­ ticipate as a protagonist, also in support and stimu­ lus of the European Union and the Member States. • THE RISK OF HOMOGENIZATION Closely connected to the points highlighted abo­ ve is the risk of cultural homogenization, which has begun to take shape following the significant advancements of generative AI. If on one hand the Italian strategy aims to increase the diffusion of AI systems and models, also generative, on the other hand, it must take into account that most of these systems are today produced abroad, thus reproducing in our different social context, first and foremost Italian, but also European, ide­ as and values often heterogeneous. This is a very relevant risk that strongly impacts our society and its rights to freedom, and of which we do not yet have a full perception of the outcomes on a global scale. Developing a system according to the values and the idea of the rights of a nation, brings with it the unavoidable interest in having a technology compliant with the constitutional values of its legal order, at the same time reaffirming and preser­ ving them. Therefore, strategic actions aimed at promoting generative models, used in particular in
 
 16 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206 17 https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustwor­ thy-artificial-intelligence/ https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023
 
-the field of Public Administration and citizen servi­ ces, must internalize the need to develop systems developed in respect of ethics and legislation, also in defense of the very values of democracy.
+the field of Public Administration and citizen servi­ ces, must internalize the need to develop systems developed in respect of ethics and legislation, also in defense of the very values of democracy. • THE RISK OF NATIONAL OVER-REGULATION Artificial Intelligence is at the center of the strategy “A Europe Fit for the Digital Age” defined by the Eu­ ropean Commission, but it is (and will be) impacted by a copious normative production aimed at regu­ lating the impact of the new generation of techno­ logies: on one side, from the rules on protection, valorization, and security of data—personal and not—(GDPR, Data Act, Data Governance Act, NIS, etc.); on the other, from those aimed at regulating the role of service providers (Digital Markets Act, Digital Services Act, European Digital Identity, etc.). In this already complex regulatory framework, part­ ly already in force, the AI Act will be inserted and its implementation will gradually affect all Mem­ ber States from the next months. The AI Act will have to precisely define a harmonized regulatory framework with the boundaries within which Ar­ tificial Intelligence must be used, outlining simple but certain rules for producers and users, also with reference to the most recent technological evolu­ tions. Bringing the European regulatory context to the national level, it will be necessary to avoid building further normative superstructures in the definition of strategic actions, instead working in the direction of promoting the AI Act with guideli­ nes and agile paths tailored to business and citizen. • THE RISK FOR THE WORLD OF WORK Despite the numerous sector studies conducted in recent years, there is no common vision of the im­ pact that Artificial Intelligence systems will have on the world of work. Catastrophic scenarios imagined over the long term are probably not reliable, while more plausible are, in the medium term, the scena­ rios in which new skills and professionalism will re­ place the existing ones. A strategy that pushes the adoption of Artificial Intelligence systems will ob­ viously accelerate this (inevitable) process of tran­ sformation. Therefore, this process must be guided and regulated, foreseeing—in its strategic actions of greater impact—the due attention to human ca­ pital and people. Crucial will therefore be the ini­ tiatives of the strategic area of Training, and more specifically the paths of upskilling and reskilling, paying great attention to preserving and improving the quality of work downstream of the adoption of AI systems and the repositioning of personnel. • THE RISK OF THE DIGITAL DIVIDE Italy is still characterized by an insufficient level of digitalization and digital skills, both in the public and private sectors, but particularly in the national social fabric, with also evident territorial heteroge­ neities between regions and cities. An ambitious program of innovation on Artificial Intelligence, if not well guided and directed, could lead to the ad­ verse effect of increasing these gaps and these he­
 
-## • THE RISK OF NATIONAL OVER-REGULATION
-
-Artificial Intelligence is at the center of the strategy “A Europe Fit for the Digital Age” defined by the Eu­ ropean Commission, but it is (and will be) impacted by a copious normative production aimed at regu­ lating the impact of the new generation of techno­ logies: on one side, from the rules on protection, valorization, and security of data—personal and not—(GDPR, Data Act, Data Governance Act, NIS, etc.); on the other, from those aimed at regulating the role of service providers (Digital Markets Act, Digital Services Act, European Digital Identity, etc.). In this already complex regulatory framework, part­ ly already in force, the AI Act will be inserted and its implementation will gradually affect all Mem­ ber States from the next months. The AI Act will have to precisely define a harmonized regulatory framework with the boundaries within which Ar­ tificial Intelligence must be used, outlining simple but certain rules for producers and users, also with reference to the most recent technological evolu­ tions. Bringing the European regulatory context to the national level, it will be necessary to avoid building further normative superstructures in the definition of strategic actions, instead working in the direction of promoting the AI Act with guideli­ nes and agile paths tailored to business and citizen.
-
-## • THE RISK FOR THE WORLD OF WORK
-
-Despite the numerous sector studies conducted in recent years, there is no common vision of the im­ pact that Artificial Intelligence systems will have on the world of work. Catastrophic scenarios imagined over the long term are probably not reliable, while more plausible are, in the medium term, the scena­ rios in which new skills and professionalism will re­ place the existing ones. A strategy that pushes the adoption of Artificial Intelligence systems will ob­ viously accelerate this (inevitable) process of tran­ sformation. Therefore, this process must be guided and regulated, foreseeing—in its strategic actions of greater impact—the due attention to human ca­ pital and people. Crucial will therefore be the ini­ tiatives of the strategic area of Training, and more specifically the paths of upskilling and reskilling, paying great attention to preserving and improving the quality of work downstream of the adoption of AI systems and the repositioning of personnel.
-
-## • THE RISK OF THE DIGITAL DIVIDE
-
-Italy is still characterized by an insufficient level of digitalization and digital skills, both in the public and private sectors, but particularly in the national social fabric, with also evident territorial heteroge­ neities between regions and cities. An ambitious program of innovation on Artificial Intelligence, if not well guided and directed, could lead to the ad­ verse effect of increasing these gaps and these he­
-
-terogeneities. The investments provided for by the national strategy—already mentioned above—in human capital, talents, upskilling and reskilling pa­ ths could therefore transform into heavy social bo­ omerangs, if not defined within the framework of transparent initiatives, fully accessible and usable at any latitude of the national territory. Strategic actions—in particular those related to the world of training, including corporate training—must there­ fore favor system initiatives, which do not resolve in extemporaneous or localized projects. The pu­ blicization of these initiatives and the awareness of their importance must represent a strategic line transversal and common to all specific actions.
-
-## • THE RISK OF INEFFECTIVENESS
-
-Last but not least, the risk that the national strate­ gy lacks effectiveness in its implementation, failing to achieve the objectives it sets itself, must also be considered. This is a risk always concrete in plan­ ning, which is exacerbated in this particular dyna­ mic scenario of Artificial Intelligence and by the contingent need to manage simultaneously nume­ rous lines of action, which also require significant organizational and regulatory adjustments. In fact, policies for AI are characterized and will increasin­ gly be characterized as a moving target: the spe­ ed of dynamics and changes, in fact, will require a continuous process of review, with the risk that even accurate planning quickly becomes obsolete. To minimize this risk, an appropriate mechanism of coordination of activities and an adequate mo­ nitoring system will be deployed, taking care to as­ sociate with each of the strategic actions a specific indicator and target for achieving results.
+terogeneities. The investments provided for by the national strategy—already mentioned above—in human capital, talents, upskilling and reskilling pa­ ths could therefore transform into heavy social bo­ omerangs, if not defined within the framework of transparent initiatives, fully accessible and usable at any latitude of the national territory. Strategic actions—in particular those related to the world of training, including corporate training—must there­ fore favor system initiatives, which do not resolve in extemporaneous or localized projects. The pu­ blicization of these initiatives and the awareness of their importance must represent a strategic line transversal and common to all specific actions. • THE RISK OF INEFFECTIVENESS Last but not least, the risk that the national strate­ gy lacks effectiveness in its implementation, failing to achieve the objectives it sets itself, must also be considered. This is a risk always concrete in plan­ ning, which is exacerbated in this particular dyna­ mic scenario of Artificial Intelligence and by the contingent need to manage simultaneously nume­ rous lines of action, which also require significant organizational and regulatory adjustments. In fact, policies for AI are characterized and will increasin­ gly be characterized as a moving target: the spe­ ed of dynamics and changes, in fact, will require a continuous process of review, with the risk that even accurate planning quickly becomes obsolete. To minimize this risk, an appropriate mechanism of coordination of activities and an adequate mo­ nitoring system will be deployed, taking care to as­ sociate with each of the strategic actions a specific indicator and target for achieving results.
 
 ## STRATEGY DESIGN
 
@@ -410,7 +346,7 @@ barriers to the adoption of these technologies, thus stimulating demand; (iii) d
 
 Invest in foundational scientific research on AI
 
-### Objectives
+Objectives
 
 Enhance applied AI research
 
@@ -496,7 +432,7 @@ Description
 
 Support administrative processes
 
-### Objectives
+Objectives
 
 Facilitate the use of PA services
 
@@ -526,11 +462,7 @@ and risks. Artificial Intelligence is increasingly showing us its enormous poten
 
 ## • Support administrative processes through AI te­
 
-chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards.
-
-## • Facilitate the utilization of Public Administra­
-
-tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
+chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards. • Facilitate the utilization of Public Administra­ tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
 
 ### Strategic Actions
 
@@ -580,7 +512,7 @@ Description
 
 Capture the innovation needs of Italian businesses
 
-### Objectives
+Objectives
 
 Support the Italian ICT sector
 
@@ -610,11 +542,7 @@ In this sense, the design of an AI strategy in Italy must be strongly anchored t
 
 ## • Capture the innovation needs of Italian enter­
 
-prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits.
-
-## • Support the Italian ICT sector, promoting its
-
-enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
+prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits. • Support the Italian ICT sector, promoting its enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
 
 ### Strategic Actions
 
@@ -656,7 +584,7 @@ The AI Act mandates CE marking for high-risk AI systems; and additional certific
 
 Promote widespread university education on AI
 
-### Objectives
+Objectives
 
 Implement educational pathways on AI
 
@@ -776,11 +704,7 @@ The assessment of the overall effectiveness of the stra­ tegy cannot, however, 
 
 The Foundation will also have the responsibility to
 
-draft an annual report, which will keep the context analysis up-to-date and provide an overall evaluation of the strategy’s implementation. Particularly, the mo­ nitoring will offer an evaluation of each strategic area, through the drafting of a report that -in addition to the assessment of target achievements for specific stra­ tegic actions -will outline the following approaches: • Analysis of KPIs related to the entire strategic area;
-
-## • Analysis of Flagship projects, identifying a very li­
-
-mited number of specific projects whose progress can be considered as a proxy for the entire sector. For example, for many years in the USA, the results of space projects have been taken as a significant indicator of the entire country’s scientific and tech­ nological progress. Obviously, the flagship projects must be carefully chosen: they need to be concrete, credible, highly visible, touch on topics of interest to all citizens, and contribute to building a collective image of the future.
+draft an annual report, which will keep the context analysis up-to-date and provide an overall evaluation of the strategy’s implementation. Particularly, the mo­ nitoring will offer an evaluation of each strategic area, through the drafting of a report that -in addition to the assessment of target achievements for specific stra­ tegic actions -will outline the following approaches: • Analysis of KPIs related to the entire strategic area; • Analysis of Flagship projects, identifying a very li­ mited number of specific projects whose progress can be considered as a proxy for the entire sector. For example, for many years in the USA, the results of space projects have been taken as a significant indicator of the entire country’s scientific and tech­ nological progress. Obviously, the flagship projects must be carefully chosen: they need to be concrete, credible, highly visible, touch on topics of interest to all citizens, and contribute to building a collective image of the future.
 
 In particular, for the drafting of the report, the Founda­ tion will also utilize a panel of experts who will analy­ ze the state of the KPIs and/or the flagship projects, to produce a well-argued evaluation report, adopting the Delphi method20,21. Developed by the Rand Corpora­ tion during the Cold War (and repeatedly updated over the years), the method involves anonymous experts responding to a questionnaire over several rounds, un­ der the guidance of a specialized facilitator. After each cycle, the facilitator provides an anonymous summary of the evaluations made, as well as the reasons the experts have provided for their judgments. In light of this information, the experts themselves are then en­ couraged to revise their previous answers, gradually converging to a synthesis.
 
@@ -794,11 +718,7 @@ Regarding the strategic area of EDUCATION, the panel of experts will take care t
 
 ## • The number of students enrolled in doctoral pro­
 
-grams related to AI;
-
-## • AI competence/awareness in citizenship, to
-
-be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
+grams related to AI; • AI competence/awareness in citizenship, to be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
 
 19 Parmenter D. (2019) Key Performance Indicators: Developing, Implementing, and Using Winning KPIs, John Wiley & Sons Inc. 20 Blokdyk G. (2023) Delphi Method. A Complete Guide, The Art of Service. 21 Niederberger M., Renn O. (Eds, 2023) Delphi Methods in the Social and Health Sciences: Concepts, Applications and Case Studies, Springer Nature. 22 Un campione di 1.000 persone sul totale dei cittadini italiani può fornire risultati con un margine di errore del 3%.
 
@@ -806,33 +726,13 @@ Regarding RESEARCH, both KPIs and flagship projects will be evaluated. Specifica
 
 ## • Data on scientific production in Artificial Intelligen­
 
-ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23.
+ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23. • The progress and quality of initiatives on strategic actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
 
-## • The progress and quality of initiatives on strategic
-
-actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
-
-As for PUBLIC ADMINISTRATION, interesting information, also with respect to comparisons among EU countries, is provided by the DESI report; however, this report, besides having a lag of about a year, offers a general view of the digitalization process and is not particularly focused on AI. On the other hand, a specific measure for all sectors would be difficult and especially costly, so the growth of the Public Administration system will be evaluated by accurately monitoring two important flagship projects:
-
-## • The impact of initiatives on strategic action
-
-PA.5. In this regard, it is considered important to evaluate the improvement in access to and use of citizen services, also measuring their le­ vel of digitalization. Monitoring could be perfor­ med by allowing citizens who access a service platform to leave their feedback, as is often the case with services offered by the private sec­ tor; alternatively, surveys could be employed at predetermined intervals on a sample drawn from those who have made at least one access. • The impact of initiatives on strategic action PA.6. In this area, the involvement of experts well-versed in Public Administration is considered essential to assess the actual streamlining of administrative procedures.
-
-## • Data on AI adoption in SMEs. In this regard, it is ob­
-
-served that some interesting data are provided by the ISTAT survey on information and communica­ tion technologies in businesses, containing a specific section on AI. This section provides interesting insi­ ghts into the state of adoption of these technologies; however, it lacks a view on businesses that develop technology and provide services and/or products with a strong AI content. Thus, an extension of the questionnaire in the specified direction is proposed.
-
-## • Impact of initiatives on strategic action I.2, characte­
-
-rizing in particular the SMEs involved in facilitators
+As for PUBLIC ADMINISTRATION, interesting information, also with respect to comparisons among EU countries, is provided by the DESI report; however, this report, besides having a lag of about a year, offers a general view of the digitalization process and is not particularly focused on AI. On the other hand, a specific measure for all sectors would be difficult and especially costly, so the growth of the Public Administration system will be evaluated by accurately monitoring two important flagship projects: • The impact of initiatives on strategic action PA.5. In this regard, it is considered important to evaluate the improvement in access to and use of citizen services, also measuring their le­ vel of digitalization. Monitoring could be perfor­ med by allowing citizens who access a service platform to leave their feedback, as is often the case with services offered by the private sec­ tor; alternatively, surveys could be employed at predetermined intervals on a sample drawn from those who have made at least one access. • The impact of initiatives on strategic action PA.6. In this area, the involvement of experts well-versed in Public Administration is considered essential to assess the actual streamlining of administrative procedures. • Data on AI adoption in SMEs. In this regard, it is ob­ served that some interesting data are provided by the ISTAT survey on information and communica­ tion technologies in businesses, containing a specific section on AI. This section provides interesting insi­ ghts into the state of adoption of these technologies; however, it lacks a view on businesses that develop technology and provide services and/or products with a strong AI content. Thus, an extension of the questionnaire in the specified direction is proposed. • Impact of initiatives on strategic action I.2, characte­ rizing in particular the SMEs involved in facilitators
 
 Finally, regarding BUSINESSES, the following KPIs and flagship projects will be evaluated:
 
-and the effectiveness of these in promoting the deve­ lopment and adoption of AI solutions, with the aim of streamlining and transforming business processes.
-
-## • The number of startup businesses created with a
-
-focus on AI and the number of businesses active in the development of AI technologies. This indica­ tor is indeed relevant to monitor the impact of the strategy on the productive context that acts as an enabler for the adoption of AI solutions in the indu­ strial sector and SMEs.
+and the effectiveness of these in promoting the deve­ lopment and adoption of AI solutions, with the aim of streamlining and transforming business processes. • The number of startup businesses created with a focus on AI and the number of businesses active in the development of AI technologies. This indica­ tor is indeed relevant to monitor the impact of the strategy on the productive context that acts as an enabler for the adoption of AI solutions in the indu­ strial sector and SMEs.
 
 23 Si vedano, ad esempio, le riviste Quantitative Science Studies (ISSN 2641-3337), Scientometrics (ISSN 0138-9130), Journal of Informetrics (ISSN 1751-1577).
 

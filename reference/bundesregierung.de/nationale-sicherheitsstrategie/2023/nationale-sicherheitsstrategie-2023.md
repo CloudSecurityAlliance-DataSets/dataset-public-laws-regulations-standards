@@ -60,7 +60,7 @@ Annalena Baerbock, Bundesministerin des Auswärtigen der Bundesrepublik Deutschl
 
 ## 30
 
-### Wehrhaft: Frieden in Freiheit
+Wehrhaft: Frieden in Freiheit
 
 Nachhaltig: Die Sicherheit
 

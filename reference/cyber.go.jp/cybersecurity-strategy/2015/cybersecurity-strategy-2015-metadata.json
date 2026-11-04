@@ -16,7 +16,12 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Government of Japan Standard Terms of Use (PDL 1.0 / CC BY 4.0 compatible)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+    "note": "Government of Japan Standard Terms of Use (Public Data License 1.0 / CC BY 4.0 compatible).",
+    "notes": "Government of Japan Standard Terms of Use (Public Data License 1.0 / CC BY 4.0 compatible)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 58-page PDF (https://www.cyber.go.jp/eng/pdf/cs-strategy-en.pdf) locally via PyMuPDF (136,747 chars). Parsed 77 sections (29 with explicit section identifiers)."
+    "notes": "Extracted 58-page PDF (https://www.cyber.go.jp/eng/pdf/cs-strategy-en.pdf) locally via PyMuPDF (136,773 chars). Parsed 82 sections (29 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -16,7 +16,12 @@
   "license": {
     "spdx": "etalab-2.0",
     "Grouping": "Permissive",
-    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
   },
   "links": {
     "wikipedia": "",

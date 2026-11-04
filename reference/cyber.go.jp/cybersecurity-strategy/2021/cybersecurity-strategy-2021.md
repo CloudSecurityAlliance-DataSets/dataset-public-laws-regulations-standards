@@ -66,7 +66,9 @@ Meanwhile, the uncertainty surrounding cyberspace is constantly growing and chan
 
 It is now clear that a “free, fair and secure cyberspace” is not a given. Rather, we are at a critical juncture where we may not be able to safeguard it. Against this backdrop, we must address the issues
 
-and challenges associated with cybersecurity with a spirit of “immutability and fluidity,”3 an idea that constant change leads to the immutability of the value to be secured. To that end, Japan needs a new strategy, one that will serve as a cornerstone of its endeavors. 1. 1 Japan in the 2020s: Era of the “new normal” and the digital society (1) Spread of digital economy and promotion of digital transformation (DX)
+and challenges associated with cybersecurity with a spirit of “immutability and fluidity,”3 an idea that constant change leads to the immutability of the value to be secured. To that end, Japan needs a new strategy, one that will serve as a cornerstone of its endeavors. 1. 1 Japan in the 2020s: Era of the “new normal” and the digital society
+
+#### (1) Spread of digital economy and promotion of digital transformation (DX)
 
 The rise of the internet has led to the creation of a new space called cyberspace, and the great advancement of the digital economy through the Heisei era. The digital economy is generating an impact that is felt in people’s lives. In Japan, the proportion of the population using the internet has
 
@@ -78,7 +80,9 @@ People’s behavior has changed, including the growing use of IoT,6 AI, 5G,7 and
 
 Meanwhile, various issues and challenges, including prevention of damage from abuse and misuse, cultivation of literacy, and measures against delays in digitalization in both public and private sectors, must be addressed appropriately in order to advance digitalization. To that end, the Digital Agency, which was established in September 2021, will lead the effort to create a digital society, and powerfully promote digital transformation under the vision of creating “a society where people can choose services that suit their needs and realize diverse forms of happiness
 
-through the use of digital technology,” with the aim of achieving “people-friendly digitalization, with no one left behind.”8 (2) Expectations for contribution to SDGs
+through the use of digital technology,” with the aim of achieving “people-friendly digitalization, with no one left behind.”8
+
+#### (2) Expectations for contribution to SDGs
 
 The realization of Society 5.0, which Japan is powerfully advancing, will enable further use of data, which is expected to help solve global issues in various areas that are identified as priorities by the SDGs, including disaster prevention, climate change measures, environmental protection, and empowerment of women.
 
@@ -108,7 +112,9 @@ The Tokyo 2020 Olympic and Paralympic Games (hereinafter referred to as the “T
 
 world.
 
-1. 2 Meaning of the strategy The Cybersecurity Strategy to be formulated based on the Basic Act on Cybersecurity (hereinafter referred to as the “Basic Act”) will be the third one, and it has been about seven years since the Basic Act was enacted in 2014.
+### 1. 2 Meaning of the strategy
+
+The Cybersecurity Strategy to be formulated based on the Basic Act on Cybersecurity (hereinafter referred to as the “Basic Act”) will be the third one, and it has been about seven years since the Basic Act was enacted in 2014.
 
 This strategy will set out the goals and implementation policies of the various measures that must be taken in the next three years during the early 2020s. These goals and policies will be provided from a medium-to long-term perspective and based on an understanding of the times as outlined above. At the same time, this strategy will communicate to all stakeholders, foreign
 
@@ -120,7 +126,9 @@ governments, and attackers Japan’s commitment to ensuring cybersecurity based 
 
 Japan will adhere to its basic position on cybersecurity including the “objectives of the Basic Act,” ideas about “cyberspace to be ensured” as presented in the past two cybersecurity strategies, and “basic principles.”
 
-2. 1 Cyberspace to be ensured The global expansion and development of cyberspace has turned it into a place where a wide range of information and data, both in terms of quality and quantity, can be freely generated, shared, analyzed and distributed across national borders regardless of time and place. Equipped with these characteristics, cyberspace offers a place where people can enrich their lives and realize diverse values by creating intellectual assets such as technological innovations and new business
+### 2. 1 Cyberspace to be ensured
+
+The global expansion and development of cyberspace has turned it into a place where a wide range of information and data, both in terms of quality and quantity, can be freely generated, shared, analyzed and distributed across national borders regardless of time and place. Equipped with these characteristics, cyberspace offers a place where people can enrich their lives and realize diverse values by creating intellectual assets such as technological innovations and new business
 
 models. As such, it serves as a foundation for the sustainable development of the economy and society in the future while underpinning liberalism, democracy, and cultural development.
 
@@ -128,7 +136,11 @@ To serve the purpose of the Basic Act by making cyberspace “a free, fair and s
 
 Given an understanding of the era as discussed above, there is no reason to assume that the purpose of this strategy and its stance to cyberspace should be changed in any way. Rather, it should be well-understood that the need to ensure “a free, fair and secure cyberspace” is greater than ever now when securing cyberspace is at risk.
 
-2. 2 Basic principles With this understanding, Japan will firmly maintain and abide by the five principles upheld in the past cybersecurity strategies as the basic principles to be followed in formulating and implementing measures on cybersecurity. (1) Assurance of the free flow of information
+### 2. 2 Basic principles
+
+With this understanding, Japan will firmly maintain and abide by the five principles upheld in the past cybersecurity strategies as the basic principles to be followed in formulating and implementing measures on cybersecurity.
+
+#### (1) Assurance of the free flow of information
 
 For the sustainable development of cyberspace as a place for creation and innovation, it is imperative to build and maintain a world in which transmitted information reaches the intended recipient without being unfairly censored or illegally modified en route (a world where “Data Free Flow with Trust” is ensured).13 At the same time, it must be made clear that the free flow of
 
@@ -138,7 +150,9 @@ information does not harm the rights and interests of others without due cause, 
 
 #### (2) The rule of law
 
-As the integration of cyberspace and physical space progresses, the rule of law should be permeated in cyberspace, in the same way as in physical space as cyberspace developed as a foundation underpinning liberalism, democracy, and so forth. Similarly, it should also be made clear that any acts that threaten peace and activities that support such acts should not be condoned, assuming that existing international law including the UN Charter is applied in the cyberspace. (3) Openness
+As the integration of cyberspace and physical space progresses, the rule of law should be permeated in cyberspace, in the same way as in physical space as cyberspace developed as a foundation underpinning liberalism, democracy, and so forth. Similarly, it should also be made clear that any acts that threaten peace and activities that support such acts should not be condoned, assuming that existing international law including the UN Charter is applied in the cyberspace.
+
+#### (3) Openness
 
 In order to achieve the sustainable development of cyberspace as a space to generate new values, it must be open to all stakeholders without restricting possibilities of linking diverse ideas and knowledges. Japan firmly adheres to the position that cyberspace must not be exclusively dominated by a certain group of stakeholders. This encompasses the idea that all stakeholders
 
@@ -186,9 +200,13 @@ future. Naturally, it is extremely important to consider at the same time that t
 
 The following sections will identify the risk factors to be considered based on changes in the environment surrounding the economy and society and developments in international affairs, and show how they are emerging specifically.
 
-3. 1 Risks from the perspective of environmental changes While changes in the environment surrounding Japan’s economy and society may provide a variety of benefits, those changes may also be accompanied by increased risks. In the following
+### 3. 1 Risks from the perspective of environmental changes
 
-sections, those developments from the perspectives of threats and vulnerabilities of the economy and society will be mentioned. (1) Perspective of threats
+While changes in the environment surrounding Japan’s economy and society may provide a variety of benefits, those changes may also be accompanied by increased risks. In the following
+
+sections, those developments from the perspectives of threats and vulnerabilities of the economy and society will be mentioned.
+
+#### (1) Perspective of threats
 
 Through the use of new technologies and establishment of the so-called “new normal,” new digital services continue to be created and become part of people’s lives. This also means that people will be putting much more information about themselves—information that has bearing on their lives, bodies, and property—than ever before on cyberspace, both quantitatively and qualitatively. This data will be used to create sources of value and increase convenience, which benefit people. At the same time, it will provide greater incentives for attackers to carry out
 
@@ -258,7 +276,7 @@ secure cyberspace” in an increasingly uncertain environment, in keeping with t
 
 These directions each correspond primarily to the efforts toward “enhancing socio-economic vitality and sustainable development,” “realizing a digital society where the people can live with a sense of safety and security,” and “contributing to the peace and security of the international community and Japan’s national security,” as discussed in this section. In light of an understanding of issues discussed up to the preceding section, these directions must be kept in mind in implementing measures to achieve any of these objectives. <Three directions>
 
-(1) Advancing digital transformation (DX)24 and cybersecurity simultaneously
+#### (1) Advancing digital transformation (DX)24 and cybersecurity simultaneously
 
 The COVID-19 pandemic has had the effect of advancing the establishment of the new normal, and the Digital Agency was established in September 2021 to lead the effort to create a digital society. Given these circumstances surrounding the digitalization of the economy and society, it is undeniable that now is an excellent time to make up for Japan’s delay in digitalization.
 
@@ -310,7 +328,9 @@ Specifically, Japan will actively and efficiently (through the use of automation
 
 defend against cyberattacks while making efforts to constantly review anticipated risks and ensuring the possibility of tracking attacks (hereinafter referred to as “traceability”) after they occur, in light of the trend of threats.
 
-Cyberspace is used as a key channel for stealing personal information, information concerning intellectual property, which is a source of international competitiveness, and information related to national security. Given this situation, Japan will strive to ensure the trustworthiness of the technological foundation that composes cyberspace while also dealing with such cyberattacks. (3) Enhancing initiatives from the perspective of Japan’s national security
+Cyberspace is used as a key channel for stealing personal information, information concerning intellectual property, which is a source of international competitiveness, and information related to national security. Given this situation, Japan will strive to ensure the trustworthiness of the technological foundation that composes cyberspace while also dealing with such cyberattacks.
+
+### (3) Enhancing initiatives from the perspective of Japan’s national security
 
 The environment surrounding Japan’s national security is becoming increasingly harsh, and cyberspace has become an area of interstate competition. Amid these circumstances, the
 
@@ -334,7 +354,9 @@ It is vital that the perspective of cybersecurity is incorporated and measures a
 
 foundation for the entire cyberspace as it becomes increasingly public, interconnected, and interrelated in the digital age, and improving the literacy of all members of the economy and society.
 
-4. 1. 1 Raising executive awareness The impact of COVID-19 accelerated the shift toward digitalization. Going forward, it will become important for companies to have a foundation for creating digital services, etc. with higher added value in order to remain competitive. It is assumed that executives must understand both digitalization and cybersecurity measures as basic skills and knowledge for management and basic matters underpinning core operations and revenue. As such, they must take full ownership and seek to achieve them both simultaneously. Cyber risks will no longer serve as an excuse for not
+#### 4. 1. 1 Raising executive awareness
+
+The impact of COVID-19 accelerated the shift toward digitalization. Going forward, it will become important for companies to have a foundation for creating digital services, etc. with higher added value in order to remain competitive. It is assumed that executives must understand both digitalization and cybersecurity measures as basic skills and knowledge for management and basic matters underpinning core operations and revenue. As such, they must take full ownership and seek to achieve them both simultaneously. Cyber risks will no longer serve as an excuse for not
 
 working on digitalization. Based on this understanding, it is necessary to raise executive awareness and advance initiatives pursued by companies to strengthen cybersecurity in line with digitalization.
 
@@ -374,7 +396,9 @@ services. 4. 1. 3 Building a foundation for ensuring trustworthiness of supply c
 
 In light of frameworks, etc., for security measures that are formulated with the aim of addressing
 
-such issues appropriately and cover both cyberspace and physical space, the government will advance initiatives to ensure cybersecurity that will serve as a foundation for building trustworthiness in supply chains supporting new value creation in Japan. (1) Ensuring trustworthiness of supply chains
+such issues appropriately and cover both cyberspace and physical space, the government will advance initiatives to ensure cybersecurity that will serve as a foundation for building trustworthiness in supply chains supporting new value creation in Japan.
+
+#### (1) Ensuring trustworthiness of supply chains
 
 As supply chains have become more complex and digital services more connected, it is now possible to build more flexible and dynamic supply chains. On the other hand, from the perspective of cybersecurity, the expansion of possible origins of cyberattacks and increased impact on real space are raising concerns, and it is assumed that risk management with a view of entire supply chains will become increasingly important.
 
@@ -384,7 +408,9 @@ The government will also assist efforts made by a consortium that engages in awa
 
 supply chains, and increase the trustworthiness of entire supply chains, by evaluating, registering,
 
-and recommending services that target SMEs and meet certain criteria, and by visualizing the status of efforts to strengthen cybersecurity. (2) Ensuring trustworthiness of data flow
+and recommending services that target SMEs and meet certain criteria, and by visualizing the status of efforts to strengthen cybersecurity.
+
+#### (2) Ensuring trustworthiness of data flow
 
 In advancing various social and economic activities in cyberspace, it is important to secure the authenticity of data and reliability of the foundation of data flow that are the source of its value, including the perspective of ensuring data governance toward the realization of a Data Free Flow with Trust (DFFT).28
 
@@ -406,7 +432,9 @@ Specifically, the government will promote business matching by establishing a fo
 
 production environments. In addition, the government will review, register, and list up security
 
-services that meet certain standards and promote the use of such services by government agencies. The national government will also discuss efforts to visualize the reliability of verification service providers toward the creation of a verification business market. (4) Practical application of advanced technology and innovation
+services that meet certain standards and promote the use of such services by government agencies. The national government will also discuss efforts to visualize the reliability of verification service providers toward the creation of a verification business market.
+
+#### (4) Practical application of advanced technology and innovation
 
 As digitalization continues to advance, there will be an increasing need for security measures that are based on clear evidence and can be easily explained to parties within and outside organizations, or that make use of automation, etc. for greater efficiency. The government must respond to the demand from society by urgently advancing the establishment of a government-industry-academia ecosystem that facilitates active industry-academia collaboration, and by encouraging open innovation activities.
 
@@ -444,7 +472,9 @@ measures and the key assets subject to defense against cyberattacks, and collabo
 
 Through these initiatives, the government will achieve a multi-layered cyber defense that is based on the self-help, mutual help, and public help of all stakeholders involved in cyberspace, which reduces risks and increases resilience for the entire country.
 
-4. 2. 1 Providing a cybersecurity environment which protects the people and society Given the increasingly public nature of cyberspace, it is necessary to realize a society where all stakeholders can enjoy convenience and cybersecurity. The national government will collaborate with relevant stakeholders in this effort, working to visualize the technological foundation and
+#### 4. 2. 1 Providing a cybersecurity environment which protects the people and society
+
+Given the increasingly public nature of cyberspace, it is necessary to realize a society where all stakeholders can enjoy convenience and cybersecurity. The national government will collaborate with relevant stakeholders in this effort, working to visualize the technological foundation and
 
 services that make up cyberspace and improve traceability in the event of an incident. These improvements will foster an environment where each stakeholder can choose appropriate risk management options suited to their needs. In addition, by securing traceability and encouraging victims of cybercrimes to report to the police and notify public agencies, the national government will eliminate factors and environments that tolerate cybercrimes. These initiatives will be pursued based on the principle of “assurance of the free flow of information.”
 
@@ -582,7 +612,9 @@ collaboration.
 
 The government will advance efforts to create international standards for IT devices and services, and pursue international collaboration including standardization and establishing technical verification mechanism to ensure security and trustworthiness. In particular, the government will enhance trustworthiness of IT systems and services from the perspective of both system and technology. The government will do so by strengthening efforts including supply chains for procuring government information systems and advancing the use of a security assessment system (ISMAP), and by initiating efforts to establish technical verification capabilities and create necessary standards.
 
-4. 2. 2 Ensuring cybersecurity integral with digital transformation (led by the Digital Agency) To realize “people-friendly digitalization, with no one left behind,” it is necessary to thoroughly improve usability from the people’s perspective while also ensuring cybersecurity. For this reason, the basic principle for cybersecurity will be proposed in the Digital Agency’s basic development and management principles (hereinafter referred to as “development policy”) for the information systems of the national government, local governments, semi-public sector, etc. and will be implemented.
+#### 4. 2. 2 Ensuring cybersecurity integral with digital transformation (led by the Digital Agency)
+
+To realize “people-friendly digitalization, with no one left behind,” it is necessary to thoroughly improve usability from the people’s perspective while also ensuring cybersecurity. For this reason, the basic principle for cybersecurity will be proposed in the Digital Agency’s basic development and management principles (hereinafter referred to as “development policy”) for the information systems of the national government, local governments, semi-public sector, etc. and will be implemented.
 
 From the perspective of safe and secure data usage, the Digital Agency will govern the planning
 
@@ -688,7 +720,7 @@ large-scale international events, such as the EXPO 2025 Osaka, Kansai, Japan. Th
 
 The national government will enhance and strengthen existing efforts for information sharing, including CEPTOAR and ISAC45, and help to establish and facilitate new mechanisms for information sharing under close collaboration with stakeholders in order to establish a multi-layered cyber defense system through coordinated collaboration between stakeholders in cyberspace.
 
-(2) Establishing an information sharing and collaboration system that contributes to
+#### (2) Establishing an information sharing and collaboration system that contributes to
 
 comprehensive cyber defense To enable comprehensive response as the whole of nation against cyberattacks, the national government will strengthen collaboration between information sharing systems, including the Cybersecurity Council, Cybersecurity Response and Coordination Center, and specialized agencies that have sufficient technical capabilities and expertise in communication and coordination with stakeholders in and outside Japan, as part of efforts to improve a national CERT/CSIRT framework, and discuss the details of how to collaborate and coordinate with external parties.
 
@@ -696,7 +728,9 @@ The national government will actively make use of the findings and know-how obta
 
 the Tokyo Games so as to support the business operators assisting the operation of the Tokyo Games as well as nationwide operators’ efforts for cybersecurity measures. By doing so, the national government will raise the nation’s overall level of cybersecurity at all times, from during large-scale international events such as the EXPO 2025 to ordinary times.
 
-4. 2. 7 Enhancement of readiness to respond to massive cyberattacks, etc. Given that cyberspace and real space are becoming increasingly intertwined and the impact of incidents may spread over a wide area, and based on damage forecasts that take these into consideration, the national government will strengthen seamless and whole of nation response capabilities even in peacetime keeping in mind the possibility of a minor incident may escalate into
+#### 4. 2. 7 Enhancement of readiness to respond to massive cyberattacks, etc.
+
+Given that cyberspace and real space are becoming increasingly intertwined and the impact of incidents may spread over a wide area, and based on damage forecasts that take these into consideration, the national government will strengthen seamless and whole of nation response capabilities even in peacetime keeping in mind the possibility of a minor incident may escalate into
 
 a major cyberattack.
 
@@ -728,9 +762,11 @@ further. To ensure safety and stability of cyberspace, Japan will place a higher
 
 issues in diplomatic and national security agenda. At the same time, Japan will promote the rule of law, strengthen capabilities for defense, deterrence, and situational awareness against cyberattacks, and further enhance international cooperation and collaboration.
 
-4. 3. 1 Ensuring “a free, fair and secure cyberspace” To ensure “a free, fair and secure cyberspace” on a global scale, Japan will promote its basic principles in the international arena. Japan will continue to play active roles to advance the rule of law in cyberspace and establish international rules in line with Japan’s basic principles, in collaboration with its ally and like-minded countries.
+#### 4. 3. 1 Ensuring “a free, fair and secure cyberspace”
 
-(1) Promoting the rule of law in cyberspace (formulating rules that contribute to Japan’s
+To ensure “a free, fair and secure cyberspace” on a global scale, Japan will promote its basic principles in the international arena. Japan will continue to play active roles to advance the rule of law in cyberspace and establish international rules in line with Japan’s basic principles, in collaboration with its ally and like-minded countries.
+
+#### (1) Promoting the rule of law in cyberspace (formulating rules that contribute to Japan’s
 
 national security)
 
@@ -822,7 +858,9 @@ investigating, and analyzing cyberattacks. The government will also carry out in
 
 (ii) Threat Information Collaboration Information sharing among relevant ministries and agencies within the government and with its ally and like-minded countries will be advanced with the aim of accurately responding to and deterring diverse threats of cyberattacks, including those suspected of state involvement and those conducted by non-governmental organizations. The government will also strengthen the threat information sharing and collaboration framework within the government led by the Cabinet Secretariat.
 
-4. 3. 3 International cooperation and collaboration In cyberspace, the impact of incidents can easily transcend national boundaries, and cyber incidents that occurred in other countries can easily affect Japan. Accordingly, it is important to engage in multi-layered cooperation and collaboration on various levels, including foreign governments and the private sector. To this end, Japan will advance the sharing of expertise and
+#### 4. 3. 3 International cooperation and collaboration
+
+In cyberspace, the impact of incidents can easily transcend national boundaries, and cyber incidents that occurred in other countries can easily affect Japan. Accordingly, it is important to engage in multi-layered cooperation and collaboration on various levels, including foreign governments and the private sector. To this end, Japan will advance the sharing of expertise and
 
 56 Intelligence defense activity against intelligence activity by foreign countries using information and communication technology
 
@@ -866,11 +904,13 @@ In order to achieve the three policy goals— “Enhancing socio-economic vitali
 
 The government will advance initiatives keeping in mind the three directions of “Advancing digital transformation and cybersecurity simultaneously,” “Enhancing the overall safety and security of cyberspace as it becomes increasingly public, interconnected and interrelated,” and “Enhancing initiatives from the perspective of Japan’s national security.”
 
-4. 4. 1 Advancement of R&D Cybersecurity research is extremely important in this field to pursue R&D with a practical approach, considering threat information and user needs. On the other hand, international competitiveness in R&D and an industry-academia-government ecosystem must be established in Japan as a foundation for the effective implementation of practical R&D. The government will pursue initiatives aimed at building such a foundation from a medium-to long-term perspective, as well as practical initiatives based on such efforts.
+#### 4. 4. 1 Advancement of R&D
+
+Cybersecurity research is extremely important in this field to pursue R&D with a practical approach, considering threat information and user needs. On the other hand, international competitiveness in R&D and an industry-academia-government ecosystem must be established in Japan as a foundation for the effective implementation of practical R&D. The government will pursue initiatives aimed at building such a foundation from a medium-to long-term perspective, as well as practical initiatives based on such efforts.
 
 As it is also important to consider the progress of digital technologies, the government will advance R&D taking medium-to long-term technological trends into account.
 
-(1) Strengthening international competitiveness in R&D and building an industry-academia-
+#### (1) Strengthening international competitiveness in R&D and building an industry-academia-
 
 government ecosystem
 
@@ -886,7 +926,9 @@ coupled with voluntary development efforts by the research community. In additio
 
 government will strive to create an environment where researchers can engage in research with peace of mind by providing fully equipped research environments.
 
-To establish a government-industry-academia ecosystem, voluntary development efforts by each stakeholder is essential. The government will follow up on the status of these efforts as the government advances its initiatives. (2) Advancing practical R&D
+To establish a government-industry-academia ecosystem, voluntary development efforts by each stakeholder is essential. The government will follow up on the status of these efforts as the government advances its initiatives.
+
+#### (2) Advancing practical R&D
 
 Based on an understanding of current issues surrounding Japan (e.g., growing supply chain risks, providing cybersecurity with domestic resources, possible occurrence of new threats due to the progress of AI, IoT, etc.), as well as a perspective of national security, the government will advance practical R&D related to cybersecurity in Japan along the following directions.
 
@@ -962,7 +1004,9 @@ With cyberattacks becoming increasingly complex and sophisticated, it is imperat
 
 Moreover, in order for digitalization to be advanced along with measures to address accompanying threats, it is important to create an environment where cybersecurity human resources, regardless of gender, can play active and wide-ranging roles with diverse perspectives
 
-and excellent ideas, and to create a virtuous cycle that attracts talented human resources who will lead the next generation. Accordingly, the government will create an environment that enables talented human resources to develop their careers spanning private sectors, municipalities, and government agencies, while responding to changes in the environment and focusing on efforts aligned with the following policy objectives. (1) Creating an environment for human resources needed for “DX with Cybersecurity”
+and excellent ideas, and to create a virtuous cycle that attracts talented human resources who will lead the next generation. Accordingly, the government will create an environment that enables talented human resources to develop their careers spanning private sectors, municipalities, and government agencies, while responding to changes in the environment and focusing on efforts aligned with the following policy objectives.
+
+#### (1) Creating an environment for human resources needed for “DX with Cybersecurity”
 
 In order for digitalization to be advanced throughout society along with efforts to ensure cybersecurity (DX with Cybersecurity), it is important to link supply and demand—both demand for talent and work in security and other fields that accompanies digitalization within companies
 
@@ -1002,7 +1046,9 @@ Therefore, the government will consider these trends and the even distribution o
 
 As local regions and SMEs are faced with a particularly dire lack of security talent, the government will provide know-how and networks that will be useful in applying practices
 
-through mutual help initiatives in communities, and by building an ecosystem and promoting collaboration between industry and educational institutions. (2) Addressing increasingly sophisticated and complex threats
+through mutual help initiatives in communities, and by building an ecosystem and promoting collaboration between industry and educational institutions.
+
+#### (2) Addressing increasingly sophisticated and complex threats
 
 The government are seeing greater numbers of sophisticated and complex cyberattacks, including those targeting industrial control systems, and as supply chains become increasingly complex and globalized, risks are growing as well. Against this background, developing human
 
@@ -1016,7 +1062,9 @@ The government will also build a common foundation for developing human resource
 
 maintaining the quality of instructors.
 
-To facilitate the career development and matching of these human resources, the government will provide information about various people playing an active role as leading examples, encourage people who completed these programs to form communities and interact with each other, pursue initiatives aimed at promoting the use of qualification systems, and advance efforts to secure experts at public institutions, including the police and the SDF. (3) Pursuing government agency initiatives
+To facilitate the career development and matching of these human resources, the government will provide information about various people playing an active role as leading examples, encourage people who completed these programs to form communities and interact with each other, pursue initiatives aimed at promoting the use of qualification systems, and advance efforts to secure experts at public institutions, including the police and the SDF.
+
+#### (3) Pursuing government agency initiatives
 
 From the perspective of facilitating the career development of IT and security personnel, it is important to create an environment that enables talented human resources to develop their careers
 

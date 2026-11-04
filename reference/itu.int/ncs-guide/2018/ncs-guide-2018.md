@@ -432,7 +432,9 @@ Strategy
 
 In accordance with Sections 4 and 5 of this document, the initiation phase of a National Cybersecurity Strategy provides the foundations for its efficient development. This phase is expected to focus on processes, timelines, and identification of key stakeholders who should be involved in the production of the Strategy. The outcome of this phase is the elaboration of a plan for the development of the Strategy. When foreseen by the country’s governance process, the plan may require the approval of the country’s Executive.3
 
-3.1.1 Identifying the Lead Project Authority In line with the principle of defining clear leadership, roles and resource allocation (Section 4.8), the Strategy development process should be coordinated by a single, competent authority. The Executive should appoint an either pre-existing or newly created public entity, such as a ministry, agency, or a department, to lead the development of the Strategy. This entity, referred to in this document as the Lead Project Authority, should in turn, appoint an individual responsible and accountable for leading the Strategy development process.
+### 3.1.1
+
+Identifying the Lead Project Authority In line with the principle of defining clear leadership, roles and resource allocation (Section 4.8), the Strategy development process should be coordinated by a single, competent authority. The Executive should appoint an either pre-existing or newly created public entity, such as a ministry, agency, or a department, to lead the development of the Strategy. This entity, referred to in this document as the Lead Project Authority, should in turn, appoint an individual responsible and accountable for leading the Strategy development process.
 
 The Lead Project Authority should be neutral throughout the development process. To this end, it is recommended that this entity be different from the one(s) that will be responsible for the implementation of the Strategy. This or other mechanisms should be adopted to overcome any inherent bias and help avoid intra-governmental competition for resources.
 

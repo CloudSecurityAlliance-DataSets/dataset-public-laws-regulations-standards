@@ -230,7 +230,7 @@ To deliver the vision, the government has developed a plan of action to bring ea
 
 ## The Strategy is underpinned by four principles:
 
-### PARTNERSHIPS ARE ESSENTIAL
+## PARTNERSHIPS ARE ESSENTIAL
 
 The government has a role to play in cyber security – but not on its own. Close partnerships with the private sector and non-government organisations are required. Businesses drive the New Zealand economy and depend on the Internet and networked technology. They must protect the information that is critical to their commercial success. The private sector owns and operates the telecommunications systems. The private sector and technical community also have considerable cyber security expertise.
 

@@ -17,6 +17,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import gzip
 import hashlib
 import json
 import re
@@ -26,7 +27,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF
 import requests
 import urllib3
 from bs4 import BeautifulSoup
@@ -37,12 +38,26 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
 
 from extract_track2_corpus import (  # noqa: E402
+    GOV_UK_DOCS,
     HEADERS,
+    PUBLIC_SAFETY_DOCS,
     REPO_ROOT,
+    WHITEHOUSE_DOCS,
     html_to_clean_markdown,
     pdf_bytes_to_markdown,
     run_parse_sections,
     write_metadata,
+)
+
+_WAVE1_REL_DIRS = (
+    {s["rel_dir"] for s in PUBLIC_SAFETY_DOCS + WHITEHOUSE_DOCS + GOV_UK_DOCS}
+    | {
+        "reference/canada.ca/national-security-policy/2004",
+        "reference/canada.ca/national-security-policy-progress-report/2005",
+        "reference/canada.ca/our-north-strong-and-free/2024",
+        "reference/canada.ca/national-security-transparency-commitment",
+        "reference/canada.ca/enterprise-cyber-security-strategy/2024",
+    }
 )
 
 REGISTRY_REF = Path.home() / "GitHub/CloudSecurityAlliance/SecID/registry/reference"
@@ -116,6 +131,10 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
     ],
     ("europa.eu", "cybersecurity-strategy", "2013"): [
         "https://publications.europa.eu/resource/celex/52013JC0001",
+    ],
+    ("europa.eu", "ai-strategy", "2025"): [
+        "https://publications.europa.eu/resource/cellar/8707360e-15f6-11f0-b1a3-01aa75ed71a1.0001.02/DOC_1",
+        "https://publications.europa.eu/resource/celex/52025DC0165",
     ],
     ("europa.eu", "ai-strategy", "2021"): [
         "https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_1",
@@ -193,8 +212,8 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
         "https://www.dpmc.govt.nz/sites/default/files/2023-11/national-security-strategy-aug2023.pdf",
     ],
     ("dpmc.govt.nz", "cyber-security-strategy", "2026-2030"): [
-        "https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy",
-        "https://web.archive.org/web/2id_/https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy",
+        "https://www.dpmc.govt.nz/sites/default/files/2026-02/nz-cyber-security-strategy-2026-30.pdf",
+        "https://web.archive.org/web/2id_/https://www.dpmc.govt.nz/sites/default/files/2026-02/nz-cyber-security-strategy-2026-30.pdf",
     ],
     ("dpmc.govt.nz", "cyber-security-strategy", "2015"): [
         "https://www.dpmc.govt.nz/sites/default/files/2017-03/nz-cyber-security-strategy-december-2015.pdf",
@@ -220,83 +239,167 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
         "https://www-mnd-gov-tw-01-d3hddnfbecgmc7d0.a01.azurefd.net/newupload/NDR/112/112NDR.pdf",
     ],
     ("mnd.gov.tw", "quadrennial-defense-review", "2025"): [
-        "https://www.mnd.gov.tw/en/InformationServices/InformationServices/QDRFile/6/2/2025QDR%E8%8B%B1%E6%96%87%E7%89%88.pdf",
+        "https://www.mnd.gov.tw/en/InformationServices/QDRFile/6/2/2025QDR%E8%8B%B1%E6%96%87%E7%89%88.pdf",
+    ],
+    ("mnd.gov.tw", "quadrennial-defense-review", "2021"): [
+        "https://www.mnd.gov.tw/en/InformationServices/QDRFile/5/2/110%20QDR(%E8%8B%B1%E6%96%87%E6%AD%A3%E5%BC%8F%E7%89%88).pdf",
     ],
     ("moda.gov.tw", "national-cyber-security-program", "2021"): [
         "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1d8b7128-57ce-45b4-acf2-932eb11d689c/content",
+    ],
+    # United Kingdom (uk)
+    ("gov.uk", "national-ai-strategy", "2021"): [
+        "https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf",
     ],
 }
 
 _LAST_WAYBACK_TS = 0.0
 
+_TRUSTED_PDF_HOSTS = (
+    "azurefd.net",
+    "by.gov.sg",
+    "publishing.service.gov.uk",
+    "europa.eu",
+    "vie-publique.fr",
+    "apo.org.au",
+    "oecd.ai",
+    "un.org",
+    "itu.int",
+    "anu.edu.au",
+    "korearisk.com",
+)
+
+
+def _make_license(
+    spdx: str,
+    grouping: str,
+    note: str,
+    url: str | None = None,
+    redistribution: str = "yes",
+    derivatives: str = "yes",
+    publicly_redistributable: bool = True,
+) -> dict:
+    return {
+        "spdx": spdx,
+        "Grouping": grouping,
+        "redistribution": redistribution,
+        "derivatives": derivatives,
+        "publicly_redistributable": publicly_redistributable,
+        "license_text_url": url,
+        "note": note,
+        "notes": note,
+    }
+
 
 def license_for_tld(tld: str, namespace: str) -> dict:
-    """Return appropriate government/public-sector open license metadata."""
+    """Return complete schema-aligned government/public-sector license metadata."""
     if tld == "gov":
-        return {
-            "spdx": "Public Domain",
-            "Grouping": "Public Domain",
-            "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
-        }
+        return _make_license(
+            "CC0-1.0",
+            "Public Domain",
+            "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+            "https://www.usa.gov/government-works",
+        )
     if tld == "ca":
-        return {
-            "spdx": "OGL-Canada-2.0",
-            "Grouping": "Permissive",
-            "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
-        }
+        return _make_license(
+            "OGL-Canada-2.0",
+            "Permissive",
+            "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
+            "https://open.canada.ca/en/open-government-licence-canada",
+        )
     if tld == "uk":
-        return {
-            "spdx": "OGL-UK-3.0",
-            "Grouping": "Permissive",
-            "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
-        }
-    if tld in ("au", "nz", "eu"):
-        return {
-            "spdx": "CC-BY-4.0",
-            "Grouping": "Permissive",
-            "note": f"Official government/institutional publication ({namespace}) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
-        }
+        return _make_license(
+            "OGL-UK-3.0",
+            "Permissive",
+            "Crown copyright; licensed under the Open Government Licence v3.0.",
+            "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        )
+    if tld == "au":
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            f"Commonwealth of Australia copyright ({namespace}); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+            "https://creativecommons.org/licenses/by/4.0/",
+        )
+    if tld == "nz":
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            f"Crown copyright New Zealand ({namespace}); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
+            "https://creativecommons.org/licenses/by/4.0/",
+        )
+    if tld == "eu":
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            f"European Union official publication ({namespace}); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0).",
+            "https://creativecommons.org/licenses/by/4.0/",
+        )
     if tld == "fr":
-        return {
-            "spdx": "etalab-2.0",
-            "Grouping": "Permissive",
-            "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
-        }
+        return _make_license(
+            "etalab-2.0",
+            "Permissive",
+            "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+            "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+        )
     if tld == "de":
-        return {
-            "spdx": "dl-de-by-2.0",
-            "Grouping": "Permissive",
-            "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
-        }
+        return _make_license(
+            "dl-de-by-2.0",
+            "Permissive",
+            "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
+            "https://www.govdata.de/dl-de/by-2-0",
+        )
+    if tld == "it":
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            f"Italian Government open publication ({namespace}); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
+            "https://creativecommons.org/licenses/by/4.0/",
+        )
     if tld == "sg":
-        return {
-            "spdx": "Singapore-Open-Data-Licence-1.0",
-            "Grouping": "Permissive",
-            "note": "Government of Singapore Open Data Licence v1.0.",
-        }
+        return _make_license(
+            "LicenseRef-SG-Government-Copyright",
+            "Government-Open-Access",
+            "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
+            "https://www.csa.gov.sg/terms-of-use",
+            redistribution="yes",
+            derivatives="prohibited",
+            publicly_redistributable=True,
+        )
     if tld == "jp":
-        return {
-            "spdx": "CC-BY-4.0",
-            "Grouping": "Permissive",
-            "note": "Government of Japan Standard Terms of Use (PDL 1.0 / CC BY 4.0 compatible).",
-        }
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            "Government of Japan Standard Terms of Use (Public Data License 1.0 / CC BY 4.0 compatible).",
+            "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+        )
     if tld == "kr":
-        return {
-            "spdx": "KOGL-Type-1",
-            "Grouping": "Permissive",
-            "note": "Korea Open Government License (KOGL) Type 1: Attribution.",
-        }
+        return _make_license(
+            "KOGL-Type-1",
+            "Permissive",
+            "Korea Open Government License (KOGL) Type 1: Attribution.",
+            "https://www.kogl.or.kr/info/licenseType.do",
+        )
     if tld == "tw":
-        return {
-            "spdx": "OGDL-Taiwan-1.0",
-            "Grouping": "Permissive",
-            "note": "Open Government Data License, version 1.0 (Taiwan).",
-        }
-    return {
-        "spdx": "Government-Open-Access",
-        "Grouping": "Permissive",
-        "note": f"Official national strategy publication ({namespace}); publicly released for reference and research.",
-    }
+        return _make_license(
+            "OGDL-Taiwan-1.0",
+            "Permissive",
+            "Open Government Data License, version 1.0 (Taiwan).",
+            "https://data.gov.tw/license",
+        )
+    if tld == "int":
+        return _make_license(
+            "CC-BY-4.0",
+            "Permissive",
+            f"International intergovernmental organization publication ({namespace}); open access for public policy and research reference.",
+            "https://creativecommons.org/licenses/by/4.0/",
+        )
+    return _make_license(
+        "Government-Open-Access",
+        "Permissive",
+        f"Official national strategy publication ({namespace}); publicly released for reference and research.",
+        None,
+    )
 
 
 def rewrite_candidate_urls(url: str) -> list[str]:
@@ -313,15 +416,33 @@ def rewrite_candidate_urls(url: str) -> list[str]:
     return cands
 
 
+def _decompress_and_validate_bytes(data: bytes) -> bytes:
+    """Auto-decompress gzip payloads (e.g. Wayback `id_` responses) and reject corrupt non-PDF NUL bytes."""
+    if not data:
+        return b""
+    if data[:2] == b"\x1f\x8b":
+        try:
+            data = gzip.decompress(data)
+        except Exception:
+            return b""
+    is_pdf = data[:5] == b"%PDF-" or b"%PDF-1." in data[:1024]
+    if not is_pdf and b"\x00" in data:
+        return b""
+    return data
+
+
 def fetch_url_bytes(url: str, timeout: int = 35) -> tuple[bytes | None, str]:
-    """Fetch URL bytes using disk cache + curl (--http1.1 -b '') + requests fallback."""
+    """Fetch URL bytes using disk cache + curl (--http1.1 --compressed -b '') + requests fallback."""
     global _LAST_WAYBACK_TS
     cache_key = hashlib.sha256(url.encode("utf-8")).hexdigest()[:24]
     cache_bin = CACHE_DIR / f"{cache_key}.bin"
     cache_meta = CACHE_DIR / f"{cache_key}.json"
 
     if cache_bin.exists() and cache_meta.exists():
-        data = cache_bin.read_bytes()
+        raw = cache_bin.read_bytes()
+        data = _decompress_and_validate_bytes(raw)
+        if data and data != raw:
+            cache_bin.write_bytes(data)
         if len(data) > 400 and b"Internet Archive: Temporarily Offline" not in data[:4000] and b"429 Too Many Requests" not in data[:2000]:
             meta = json.loads(cache_meta.read_text(encoding="utf-8"))
             return data, meta.get("final_url", url)
@@ -341,6 +462,7 @@ def fetch_url_bytes(url: str, timeout: int = 35) -> tuple[bytes | None, str]:
         "curl",
         "-sSLk",
         "--http1.1",
+        "--compressed",
         "-b",
         "",
         "--max-time",
@@ -362,7 +484,11 @@ def fetch_url_bytes(url: str, timeout: int = 35) -> tuple[bytes | None, str]:
     http_code = parts[0] if parts else "000"
     final_url = parts[1] if len(parts) > 1 and parts[1] else url
 
-    data = cache_bin.read_bytes() if cache_bin.exists() else b""
+    raw_data = cache_bin.read_bytes() if cache_bin.exists() else b""
+    data = _decompress_and_validate_bytes(raw_data)
+    if data and data != raw_data:
+        cache_bin.write_bytes(data)
+
     # Follow Publications Office Cellar 300 Multiple-Choice Response automatically
     if http_code == "300" and b"publications.europa.eu/resource/cellar/" in data:
         m_doc = re.search(
@@ -387,16 +513,17 @@ def fetch_url_bytes(url: str, timeout: int = 35) -> tuple[bytes | None, str]:
     # Fallback to requests
     try:
         r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True, verify=False)
+        req_data = _decompress_and_validate_bytes(r.content)
         if (
             r.status_code == 200
-            and len(r.content) > 400
-            and b"Internet Archive: Temporarily Offline" not in r.content[:4000]
-            and b"<title>Just a moment...</title>" not in r.content[:4000]
-            and b"AwsWafIntegration" not in r.content[:8000]
+            and len(req_data) > 400
+            and b"Internet Archive: Temporarily Offline" not in req_data[:4000]
+            and b"<title>Just a moment...</title>" not in req_data[:4000]
+            and b"AwsWafIntegration" not in req_data[:8000]
         ):
-            cache_bin.write_bytes(r.content)
+            cache_bin.write_bytes(req_data)
             cache_meta.write_text(json.dumps({"final_url": r.url, "http_code": str(r.status_code)}), encoding="utf-8")
-            return r.content, r.url
+            return req_data, r.url
     except Exception:
         pass
 
@@ -405,28 +532,69 @@ def fetch_url_bytes(url: str, timeout: int = 35) -> tuple[bytes | None, str]:
     return None, url
 
 
-def find_embedded_pdf_urls(html_text: str, base_url: str, version: str, doc_name: str) -> list[str]:
-    """Extract and score embedded PDF links on an HTML landing page."""
+def _unwrap_wayback_host(url: str) -> str:
+    m = re.search(r"web\.archive\.org/web/[^/]+/(https?://.+)", url)
+    if m:
+        url = m.group(1)
+    return (urllib.parse.urlparse(url).hostname or "").lower()
+
+
+def _is_trusted_pdf_target(base_url: str, pdf_url: str, namespace: str) -> bool:
+    """Ensure embedded PDF links stay on the official namespace/domain or a trusted government CDN."""
+    pdf_host = _unwrap_wayback_host(pdf_url)
+    base_host = _unwrap_wayback_host(base_url)
+    ns_host = namespace.lower()
+    if not pdf_host:
+        return False
+    if pdf_host == base_host or pdf_host.endswith("." + ns_host) or pdf_host == ns_host:
+        return True
+    base_parts = [p for p in ns_host.split(".") if p]
+    pdf_parts = [p for p in pdf_host.split(".") if p]
+    if len(base_parts) >= 2 and len(pdf_parts) >= 2 and base_parts[-2:] == pdf_parts[-2:]:
+        return True
+    return any(pdf_host == h or pdf_host.endswith("." + h) for h in _TRUSTED_PDF_HOSTS)
+
+
+def find_embedded_pdf_urls(
+    html_text: str,
+    base_url: str,
+    version: str,
+    doc_name: str,
+    namespace: str = "",
+) -> list[str]:
+    """Extract and score embedded PDF links on an HTML landing page, respecting <base href> and domain trust."""
     soup = BeautifulSoup(html_text, "html.parser")
+    effective_base = base_url
+    base_tag = soup.find("base", href=True)
+    if base_tag and base_tag["href"].strip():
+        effective_base = urllib.parse.urljoin(base_url, base_tag["href"].strip())
+
     scored: list[tuple[int, str]] = []
     seen: set[str] = set()
     yr = version[:4] if len(version) >= 4 and version[:4].isdigit() else ""
-    keywords = [w for w in re.split(r"[^a-z0-9]+", doc_name.lower()) if len(w) >= 4]
+    keywords = [
+        w
+        for w in re.split(r"[^a-z0-9]+", doc_name.lower())
+        if len(w) >= 2 and w not in ("the", "and", "for", "of", "in", "to", "on", "strategy", "national", "policy", "report", "plan", "program")
+    ]
 
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if not href or href.startswith(("javascript:", "mailto:", "#")):
             continue
-        full = urllib.parse.urljoin(base_url, href)
+        full = urllib.parse.urljoin(effective_base, href)
         low_href = full.lower()
         link_txt = a.get_text(" ", strip=True).lower()
         is_pdf_candidate = (
             ".pdf" in low_href
             or "__blob=publicationfile" in low_href
             or "/bitstreams/" in low_href
+            or "qdrfile/" in low_href
             or ("download" in low_href and "pdf" in link_txt)
         )
         if not is_pdf_candidate or full in seen:
+            continue
+        if namespace and not _is_trusted_pdf_target(base_url, full, namespace):
             continue
         seen.add(full)
         score = 0
@@ -434,94 +602,129 @@ def find_embedded_pdf_urls(html_text: str, base_url: str, version: str, doc_name
             score += 10
         for kw in keywords:
             if kw in low_href or kw in link_txt:
-                score += 3
+                score += 4
+        if "strategy" in low_href or "strategy" in link_txt or "qdr" in low_href:
+            score += 3
         if "english" in low_href or "_en" in low_href or "-en" in low_href or "eng" in low_href:
             score += 4
         if "summary" in low_href or "leaflet" in low_href or "brochure" in low_href or "pamphlet" in low_href:
             score -= 5
-        scored.append((score, full))
+        if score >= 3:
+            scored.append((score, full))
 
     scored.sort(key=lambda x: x[0], reverse=True)
     return [u for _, u in scored[:4]]
 
 
 def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str) -> str:
-    """Ensure extracted Markdown has at least 2 level-2 (`## `) headings so
-    `parse_regulatory_sections.py` produces a rich, structured section table.
+    """Promote legitimate unformatted section/chapter headings in plain/CJK/European PDFs and XHTML
+    without inventing arbitrary artificial chunk headings.
     """
-    lines = md.splitlines()
+    raw_lines = md.splitlines()
+    # Pre-pass: join standalone section number lines (e.g. `1.` or `2.2.`) with the immediately following title line
+    lines: list[str] = []
+    idx = 0
+    while idx < len(raw_lines):
+        cur = raw_lines[idx].strip()
+        if re.match(r"^\d{1,2}(?:\.\d{1,2})*\.$", cur) and idx + 1 < len(raw_lines):
+            nxt = raw_lines[idx + 1].strip()
+            if nxt and not nxt.startswith(("#", "[")) and 3 <= len(nxt) <= 120 and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt):
+                lines.append(f"{cur} {nxt}")
+                idx += 2
+                continue
+        lines.append(raw_lines[idx])
+        idx += 1
+
     h2_plus = [l for l in lines if re.match(r"^#{2,6}\s+\S+", l)]
     if len(h2_plus) >= 3:
-        return md
+        return "\n".join(lines) + "\n"
 
-    # Pass 1: Promote common unformatted section/chapter headings in plain/CJK/European PDFs
     promoted_lines: list[str] = []
     promoted_count = 0
     heading_pat = re.compile(
         r"^(?:"
         r"(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|PARTE)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
-        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,110}"
+        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,110}"
+        r"|[IVX]{1,4}\s+[A-Z][A-Za-z0-9\s,\-–—'’\(\)/]{2,90}"
         r"|第[一二三四五六七八九十百0-9０-９]+[章節編部]\s*.{1,80}"
         r"|[一二三四五六七八九十]+[、．\.]\s*.{2,80}"
         r"|[壹貳參肆伍陸柒捌玖拾]+[、．\.]\s*.{2,80}"
         r"|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[\.\s、．]\s*.{2,80}"
         r"|제\s*\d+\s*[장절편]\s*.{1,80}"
-        r"|Executive Summary|Foreword|Introduction|Conclusion|Overview|Background|Strategic Context|Vision|Implementation|Governance"
+        r"|Executive Summary|Foreword|Preface|Introduction|Conclusion|Overview|Background|Strategic Context|Vision|Implementation|Governance|Abbreviations|Definitions"
+        r"|IT threat assessment|Framework conditions|Basic principles.*|Strategic objectives and measures|Sustainable implementation"
         r")$"
     )
     for line in lines:
         s = line.strip()
         if not s.startswith("#") and 3 <= len(s) <= 120 and not s.endswith((".", ";", "。", "；")) and heading_pat.match(s):
-            promoted_lines.append(f"## {s}")
+            # Ensure a space after leading number/Roman dot (e.g., `1.Introduction` -> `1. Introduction`)
+            s_norm = re.sub(r"^(\d{1,2}(?:\.\d{1,2})*\.)([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ])", r"\1 \2", s)
+            m_sub = re.match(r"^(\d{1,2}(?:\.\d{1,2})+)\.", s_norm)
+            prefix = "###" if m_sub else "##"
+            promoted_lines.append(f"{prefix} {s_norm}")
             promoted_count += 1
         else:
             promoted_lines.append(line)
 
-    if promoted_count >= 2:
+    if promoted_count >= 1:
         return "\n".join(promoted_lines) + "\n"
+    return "\n".join(lines) + "\n"
 
-    # Pass 2: Group paragraphs into logical numbered sections if the source had no explicit headings
-    body_paras = [p.strip() for p in re.split(r"\n\s*\n", md) if p.strip() and not p.strip().startswith("# ")]
-    if not body_paras:
-        body_paras = [doc_desc]
 
-    out = [f"# {doc_title}", ""]
-    chunk_size = max(1, (len(body_paras) + 4) // 5)
-    sec_num = 1
-    for idx in range(0, len(body_paras), chunk_size):
-        chunk = body_paras[idx : idx + chunk_size]
-        first_line = chunk[0].splitlines()[0].strip()
-        short_title = re.sub(r"^[\*\-\d\.\)\s]+", "", first_line)[:72].strip()
-        if not short_title or len(short_title) < 4:
-            short_title = f"Section {sec_num}"
-        out.append(f"## {sec_num}. {short_title}")
-        out.append("")
-        out.extend(chunk)
-        out.append("")
-        sec_num += 1
-    return "\n".join(out).strip() + "\n"
+def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
+    """Return True only when an HTML extraction is a genuine full-text strategy document,
+    rejecting generic homepages, catalog records, and short landing pages.
+    """
+    low_url = final_url.lower()
+    # Known catalog/portal landing pages where the primary PDF is restricted or external
+    blocked_substrings = (
+        "nsp.nanet.go.kr",
+        "pa.go.kr/research/",
+        "president.go.kr",
+        "nstc.gov.tw",
+        "ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+        "cybersecurity.gov.au/about-us/strategies-and-action-plans",
+        "homeaffairs.gov.au",
+        "csa.gov.sg/resources/publications/",
+        "moda.gov.tw/acs/press/",
+        "dpmc.govt.nz/our-programmes/",
+    )
+    if any(b in low_url for b in blocked_substrings):
+        return False
+    # Official EUR-Lex / Publications Office Cellar XHTML documents are authoritative full texts
+    if "publications.europa.eu/resource/cellar/" in low_url or "eur-lex.europa.eu/" in low_url:
+        return len(md) >= 5000
+    # Require substantial prose and multiple real headings for general HTML strategy pages
+    h2_count = sum(1 for l in md.splitlines() if re.match(r"^#{2,4}\s+\S+", l))
+    return len(md) >= 4500 and h2_count >= 3
 
 
 def fallback_pdf_text_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
-    """Fallback plain-page text extraction when layout heuristics return sparse text."""
+    """Fallback text + Tesseract OCR extraction when layout heuristics return sparse text."""
     doc = fitz.open(stream=pdf_bytes, filetype="pdf")
     num_pages = len(doc)
     out = [f"# {doc_title}", ""]
-    for idx, page in enumerate(doc, start=1):
+    for page in doc:
         txt = page.get_text("text").strip()
+        if not txt and num_pages <= 120:
+            try:
+                tp = page.get_textpage_ocr(dpi=150, full=True)
+                txt = page.get_text("text", textpage=tp).strip()
+            except Exception:
+                txt = ""
         if not txt:
             continue
-        paras = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n", txt) if p.strip()]
-        if paras:
-            out.append(f"## Section {idx}: Page {idx}")
-            out.append("")
-            out.extend(paras)
-            out.append("")
+        for raw_line in txt.splitlines():
+            clean_l = re.sub(r"\s+", " ", raw_line).strip()
+            if clean_l and not re.match(r"^\d{1,3}$", clean_l):
+                out.append(clean_l)
+        out.append("")
     return "\n".join(out).strip() + "\n", num_pages
 
 
 def extract_edition(item: dict) -> dict:
-    """Fetch, extract, and structure a single strategy edition."""
+    """Fetch, extract, and structure a single strategy edition, or record honest metadata-only state."""
     ns = item["namespace"]
     name = item["name"]
     ver = item["version"]
@@ -556,86 +759,128 @@ def extract_edition(item: dict) -> dict:
                 md, pages = pdf_bytes_to_markdown(data, title)
                 if len(md) < 600:
                     md, pages = fallback_pdf_text_to_markdown(data, title)
-                md = ensure_hierarchical_headings(md, title, desc)
-                best_md = md
-                best_url = final_url
-                best_tool = "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-                best_notes = (
-                    f"Extracted {pages}-page PDF ({final_url}) locally via PyMuPDF "
-                    f"({len(md):,} chars)."
-                )
-                break
+                if len(md) >= 800:
+                    md = ensure_hierarchical_headings(md, title, desc)
+                    best_md = md
+                    best_url = final_url
+                    best_tool = "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+                    best_notes = (
+                        f"Extracted {pages}-page PDF ({final_url}) locally via PyMuPDF "
+                        f"({len(md):,} chars)."
+                    )
+                    break
             except Exception:
                 pass
         else:
             html_str = data.decode("utf-8", errors="ignore")
-            # Check for embedded PDFs first if this looks like a publication landing page
-            embedded_pdfs = find_embedded_pdf_urls(html_str, final_url, ver, f"{name} {title}")
-            for pdf_u in embedded_pdfs:
-                pdata, pfinal = fetch_url_bytes(pdf_u)
-                if pdata and (pdata[:5] == b"%PDF-" or b"%PDF-1." in pdata[:1024]):
-                    idx = pdata.find(b"%PDF-")
-                    if idx > 0:
-                        pdata = pdata[idx:]
-                    try:
-                        md, pages = pdf_bytes_to_markdown(pdata, title)
-                        if len(md) < 600:
-                            md, pages = fallback_pdf_text_to_markdown(pdata, title)
-                        if len(md) >= 800:
-                            md = ensure_hierarchical_headings(md, title, desc)
-                            best_md = md
-                            best_url = pfinal
-                            best_tool = "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-                            best_notes = (
-                                f"Discovered primary PDF ({pfinal}) from landing page ({final_url}); "
-                                f"extracted {pages}-page PDF via PyMuPDF ({len(md):,} chars)."
-                            )
-                            break
-                    except Exception:
-                        pass
+            is_eurlex_xhtml = (
+                "publications.europa.eu/resource/cellar/" in final_url.lower()
+                or "eur-lex.europa.eu/" in final_url.lower()
+            )
+            # Check for embedded PDFs first unless this is already an authoritative EUR-Lex Cellar XHTML document
+            if not is_eurlex_xhtml:
+                embedded_pdfs = find_embedded_pdf_urls(
+                    html_str, final_url, ver, f"{name} {title}", namespace=ns
+                )
+                for pdf_u in embedded_pdfs:
+                    pdata, pfinal = fetch_url_bytes(pdf_u)
+                    if pdata and (pdata[:5] == b"%PDF-" or b"%PDF-1." in pdata[:1024]):
+                        idx = pdata.find(b"%PDF-")
+                        if idx > 0:
+                            pdata = pdata[idx:]
+                        try:
+                            md, pages = pdf_bytes_to_markdown(pdata, title)
+                            if len(md) < 600:
+                                md, pages = fallback_pdf_text_to_markdown(pdata, title)
+                            if len(md) >= 800:
+                                md = ensure_hierarchical_headings(md, title, desc)
+                                best_md = md
+                                best_url = pfinal
+                                best_tool = "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+                                best_notes = (
+                                    f"Discovered primary PDF ({pfinal}) from landing page ({final_url}); "
+                                    f"extracted {pages}-page PDF via PyMuPDF ({len(md):,} chars)."
+                                )
+                                break
+                        except Exception:
+                            pass
             if best_md:
                 break
 
-            # Otherwise extract HTML directly
+            # Otherwise extract HTML directly if it passes full-text strategy validation
             try:
                 md = html_to_clean_markdown(html_str, final_url, title)
-                if len(md) >= 500:
-                    md = ensure_hierarchical_headings(md, title, desc)
+                md = ensure_hierarchical_headings(md, title, desc)
+                if is_valid_html_strategy_doc(md, final_url, item):
                     best_md = md
                     best_url = final_url
                     best_tool = "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
                     best_notes = (
                         f"Extracted official HTML publication ({final_url}) to Markdown ({len(md):,} chars)."
                     )
-                    if len(md) >= 2500:
-                        break
+                    break
             except Exception:
                 pass
-
-    if not best_md:
-        # Structured summary fallback from registry metadata when upstream archive is unreachable
-        best_md = (
-            f"# {title}\n\n"
-            f"## 1. Document Identification and Mandate\n\n"
-            f"**SecID:** `{item['secid']}`  \n"
-            f"**Issuing Authority:** {item['issuer']} (`{ns}`)  \n"
-            f"**Edition / Version:** `{ver}`  \n"
-            f"**Primary Source URL:** {orig_url}\n\n"
-            f"{desc}\n\n"
-            f"## 2. Strategic Scope and National Security Context\n\n"
-            f"{item['source_desc']}\n"
-        )
-        best_url = orig_url
-        best_tool = "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
-        best_notes = (
-            f"Generated structured reference summary from verified SecID registry metadata for {item['secid']} "
-            f"({len(best_md):,} chars)."
-        )
 
     doc_dir = REPO_ROOT / item["rel_dir"]
     doc_dir.mkdir(parents=True, exist_ok=True)
     stem = item["stem"]
     md_path = doc_dir / f"{stem}.md"
+    sec_json_path = doc_dir / f"{stem}-sections.json"
+    sec_csv_path = doc_dir / f"{stem}-sections.csv"
+
+    if not best_md:
+        # Clean up any stale or synthetic extraction artifacts and record honest metadata-only state
+        md_path.unlink(missing_ok=True)
+        sec_json_path.unlink(missing_ok=True)
+        sec_csv_path.unlink(missing_ok=True)
+        unavail_note = (
+            f"Official primary full-text document for {item['secid']} ({orig_url}) is not directly "
+            f"downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); "
+            f"recorded as metadata-only."
+        )
+        write_metadata(
+            doc_dir,
+            stem,
+            secid=item["secid"],
+            name=title,
+            acronym=item["acronym"],
+            version=ver,
+            owner=item["issuer"],
+            doc_type="Reference",
+            subtype=item["subtype"],
+            description=desc,
+            cloud_rel=(
+                f"Defines national cybersecurity, critical infrastructure protection, and digital sovereignty "
+                f"priorities issued by {item['issuer']} ({ns}) applicable to cloud service providers and operators."
+            ),
+            ai_rel=(
+                f"Addresses strategic emerging technology governance, AI security/capability priorities, and "
+                f"national resilience policy for {item['issuer']} ({ns})."
+            ),
+            license_obj=license_for_tld(item["tld"], ns),
+            source_url=orig_url,
+            text_used_url="",
+            published=item["published"],
+            active=item["active"],
+            retired_date=item["retired_date"],
+            supersedes=item["supersedes"],
+            superseded_by=item["superseded_by"],
+            tool_str="",
+            extraction_notes=unavail_note,
+            end_state="metadata-only",
+            end_reason="source-unavailable",
+        )
+        return {
+            "secid": item["secid"],
+            "rel_dir": item["rel_dir"],
+            "chars": 0,
+            "sections": 0,
+            "with_id": 0,
+            "tool": "metadata-only",
+            "url_used": "",
+        }
+
     md_path.write_text(best_md, encoding="utf-8")
 
     n_sec, n_id = run_parse_sections(doc_dir, stem)
@@ -768,6 +1013,8 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                 sorted_vers = sorted(ver_map.keys(), key=lambda v: (re.findall(r"\d{4}", v) or [v])[0] + "_" + v)
                 for idx, v in enumerate(sorted_vers):
                     rel_dir = f"reference/{ns}/{name}/{v}"
+                    if rel_dir in _WAVE1_REL_DIRS:
+                        continue
                     stem = f"{name}-{v}"
                     meta_path = REPO_ROOT / rel_dir / f"{stem}-metadata.json"
                     if skip_existing and meta_path.exists():
@@ -804,6 +1051,8 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                     })
             else:
                 rel_dir = f"reference/{ns}/{name}"
+                if rel_dir in _WAVE1_REL_DIRS:
+                    continue
                 stem = name
                 meta_path = REPO_ROOT / rel_dir / f"{stem}-metadata.json"
                 if skip_existing and meta_path.exists():

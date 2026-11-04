@@ -286,7 +286,7 @@ applications and the popularity of mobile devices. In the worldly renowned
 
 white hat hacker contest "PWN2OWN" held in Tokyo in November 2019,
 
-### participating hackers cracked multiple connected devices, such as mobile
+participating hackers cracked multiple connected devices, such as mobile
 
 phones, routers, and smart home devices, and exposed their leaks.
 
@@ -584,7 +584,7 @@ manufacturing processes. The summary of the certification methods, content,
 
 and affected objects is as follows:
 
-### 1. Method: Set product or service category, cybersecurity specifications
+1. Method: Set product or service category, cybersecurity specifications
 
 (such as reference standards or technical specifications), assessment type
 
@@ -604,7 +604,7 @@ It also enables beneficial competition among suppliers in the EU market,
 
 resulting in better products and cost-effectiveness.
 
-### 2. The value to small and medium-sized enterprises and new enterprises: It
+2. The value to small and medium-sized enterprises and new enterprises: It
 
 helps to reduce the barriers for small and medium-sized enterprises and
 
@@ -616,7 +616,7 @@ EU, and at the same time, as security requirements increase SMEs with
 
 certified products will enjoy a certain global competitive advantage.
 
-### 3. Cybersecurity verification or certification mechanism: Suppliers use this
+3. Cybersecurity verification or certification mechanism: Suppliers use this
 
 mechanism to obtain certificates for their products to ensure that the
 
@@ -626,7 +626,7 @@ processes maintain a sufficient level of cybersecurity and improve the
 
 operation of the internal market.
 
-### 4. Design safety: Encouraging development manufacturers or providers of
+4. Design safety: Encouraging development manufacturers or providers of
 
 product, service, or process design to implement this mechanism at the
 
@@ -1120,7 +1120,7 @@ promoting cyber security-related policies. The competent authorities (units)
 
 and tasks are as follows:
 
-### 1. Critical Information Infrastructure Protection Group: sponsored by the DCS
+1. Critical Information Infrastructure Protection Group: sponsored by the DCS
 
 of the Executive Yuan, responsible for planning and promoting the security
 
@@ -1130,7 +1130,7 @@ the implementation of security protection in various fields; and conducting
 
 audits, drills, and related operations.
 
-### 2. Industrial Promotion Group: structured by the Ministry of Economic
+2. Industrial Promotion Group: structured by the Ministry of Economic
 
 Affairs, responsible for promoting the development of the cyber security
 
@@ -1138,7 +1138,7 @@ industry, integrating production, government, academic, and research
 
 resources, and developing related innovative applications.
 
-### 3. Cyber Security Protection Group: structured by the DCS of the Executive
+3. Cyber Security Protection Group: structured by the DCS of the Executive
 
 Yuan, the team is responsible for planning and promoting the security
 
@@ -1154,7 +1154,7 @@ defense drills, and assisting various agencies to strengthen the integrity and
 
 effectiveness of cyber security protection.
 
-### 4. Regulation and Standard Specifications Group: structured by the DCS of
+4. Regulation and Standard Specifications Group: structured by the DCS of
 
 the Executive Yuan, is responsible for the research and formulation
 
@@ -1166,7 +1166,7 @@ maintenance of government agencies’ cyber security practices and
 
 reference guides.
 
-### 5. Awareness Education and Talents Cultivation Group: structured by the
+5. Awareness Education and Talents Cultivation Group: structured by the
 
 Ministry of Education, responsible for promoting fundamental cyber
 
@@ -1182,7 +1182,7 @@ promoting industry-university exchanges, and reinforcing the cultivation of
 
 cyber security talents.
 
-### 6. Cyber Protection of Overseas Mission Group: Sponsored by the Ministry
+6. Cyber Protection of Overseas Mission Group: Sponsored by the Ministry
 
 of Foreign Affairs, it is responsible for integrating the information and
 
@@ -1204,7 +1204,7 @@ etc., and establishing the following groups. Their sponsoring agencies and
 
 tasks are as follows:
 
-### 1. Cybercrime Protection and Control Group: co-sponsored by the Ministry
+1. Cybercrime Protection and Control Group: co-sponsored by the Ministry
 
 of the Interior and the Ministry of Justice, responsible for cybercrime
 
@@ -1212,7 +1212,7 @@ investigation, computer crime prevention, digital forensics, and review of
 
 laws and regulations related to cybercrime prevention.
 
-### 2. Information and Communication Environment and Internet Content
+2. Information and Communication Environment and Internet Content
 
 Security Group: sponsored by the National Communications Commission,
 
@@ -1296,11 +1296,11 @@ communication environment". The main achievement of this phase lies in the
 
 construction of a cyber security protection system. The achievements include:
 
-### 1. Establish the NICST, together with NCCST, a technical staff unit, as the
+1. Establish the NICST, together with NCCST, a technical staff unit, as the
 
 competent authority of national cyber security construction and policies.
 
-### 2. Promote the cyber security management system for important government
+2. Promote the cyber security management system for important government
 
 agencies involved in the livelihood and economy of the country; provide
 
@@ -1314,7 +1314,7 @@ and responsibility level classification standards; conduct external cyber
 
 security audits against designated agencies.
 
-### 3. Promote cyber security training for information personnel; strengthen cyber
+3. Promote cyber security training for information personnel; strengthen cyber
 
 security manpower training and concept promotion; enhance public
 
@@ -1326,7 +1326,7 @@ formulate technical standards and specifications for cyber communication
 
 security; establish product inspection and guarantee mechanism.
 
-### 5. For the important operating system of CI, plan and promote the
+5. For the important operating system of CI, plan and promote the
 
 establishment of Information Security Management System (ISMS), as
 
@@ -1352,13 +1352,13 @@ as Phase 2 mechanism program) in 2004; continued to strengthen national
 
 protection basis for cyber security overall. The important results include:
 
-### 1. Establish a National Security Operation Center (N-SOC) to provide
+1. Establish a National Security Operation Center (N-SOC) to provide
 
 monitoring and early warning services for important core government
 
 agencies and provide 24-hour protection.
 
-### 2. Establish the Chief Information Security Officer (CISO) mechanism for
+2. Establish the Chief Information Security Officer (CISO) mechanism for
 
 government agencies and designate the deputy head of the ministries in
 
@@ -1366,7 +1366,7 @@ charge of cyber security operation as the CISO concurrently; promote the
 
 implementation of cyber security-related plans in the implementation unit.
 
-### 3. Expand the scope of implementation of grading operations of cyber security
+3. Expand the scope of implementation of grading operations of cyber security
 
 responsibility levels of the government agencies; greatly increase the
 
@@ -1374,11 +1374,11 @@ number of cyber security systems include in important government
 
 agencies and extend the scope of implementation to the education system.
 
-### 4. Promote the introduction of ISMS into the education system, and guide
+4. Promote the introduction of ISMS into the education system, and guide
 
 county (city) education network centers to establish ISMS.
 
-### 5. Enhance the effectiveness of operations through audits. Various agencies
+5. Enhance the effectiveness of operations through audits. Various agencies
 
 have introduced internal audit systems to implement cyber security-related
 
@@ -1386,7 +1386,7 @@ promotion work and continue to conduct external cyber security audits for
 
 public and private organizations and provide auditing recommendations.
 
-### 6. Extend the field of protection of the cyber security plan; strengthen the
+6. Extend the field of protection of the cyber security plan; strengthen the
 
 formulation of cyber security plans that promote online transaction security
 
@@ -1420,7 +1420,7 @@ continue to strengthen emergency notification, response, and recovery
 
 capabilities.
 
-### 2. Promote the introduction of cyber security governance and performance
+2. Promote the introduction of cyber security governance and performance
 
 evaluation in government A-level and B-level agencies, require agencies to
 
@@ -1432,7 +1432,7 @@ classification of information systems and corresponding basic information
 
 security protection needs.
 
-### 3. Adopt the "plan-do-check-act" (PDCA) planning model to improve the
+3. Adopt the "plan-do-check-act" (PDCA) planning model to improve the
 
 information security management level of government agencies, reduce
 
@@ -1442,13 +1442,13 @@ private enterprises to pass international security standards verification
 
 (such as ISO 27001).
 
-### 4. Intensify the reliability and security of e-commerce, strengthen the identity
+4. Intensify the reliability and security of e-commerce, strengthen the identity
 
 authentication mechanism for online transactions, and promote the use of
 
 Public Key Infrastructure (PKI) certificate services.
 
-### 5. Promote the use of third-party appraisal by business institutions, strengthen
+5. Promote the use of third-party appraisal by business institutions, strengthen
 
 the cyber security inspection of business of various purposes in accordance
 
@@ -1460,7 +1460,7 @@ system, conduct internal audits and entrust a third party to conduct external
 
 cyber security audits.
 
-### 6. Strengthen the research energy of cyber security research, encourage higher
+6. Strengthen the research energy of cyber security research, encourage higher
 
 education systems to offer cyber security courses, cultivate cyber security
 
@@ -1468,7 +1468,7 @@ professional research talents, develop key cyber security technologies, and
 
 transfer to provide value-added applications in the industry.
 
-### 7. Advocate and strengthen the concept of cyber security, promote cyber
+7. Advocate and strengthen the concept of cyber security, promote cyber
 
 security awareness activities for schools at all levels, inspect the security of
 
@@ -1496,7 +1496,7 @@ to strengthen the counterreaction capabilities of the central government
 
 against cyber attacks. The four major goals are as follows:
 
-### 1. National policies and environmental construction: continue to increase and
+1. National policies and environmental construction: continue to increase and
 
 revise information security policies, norms, guidelines, standards, and
 
@@ -1520,7 +1520,7 @@ international certification and certification organizations, and regularly
 
 review and review the establishment project
 
-### 2. Cyber security protection and information sharing: promote the
+2. Cyber security protection and information sharing: promote the
 
 establishment of a governmental cyber security governance structure,
 
@@ -1546,7 +1546,7 @@ capabilities of collection of intelligence of cyber security threats, and
 
 strengthen information analysis and sharing mechanism.
 
-### 3. Industrial development and technological upgrade: construct the research
+3. Industrial development and technological upgrade: construct the research
 
 capacity of cyber security protection technology and strengthen the
 
@@ -1570,7 +1570,7 @@ Software Development Lifecycle (SSDLC), etc., to build a corresponding
 
 security detection mechanism.
 
-### 4. Talent cultivation and international exchanges: promote cyber security
+4. Talent cultivation and international exchanges: promote cyber security
 
 professional training and certification mechanism, and plan to establish the
 
@@ -2394,7 +2394,7 @@ the country’s urgent need of manpower deployment, while the long-term
 
 recruitment targets will be expanded to the Asia-Pacific region, and the
 
-### goal is to become a top talent training base of cyber security for the Asia-
+goal is to become a top talent training base of cyber security for the Asia-
 
 Pacific region.
 
@@ -2904,7 +2904,7 @@ improve the security of the 5G network in our country.
 
 integration and coordination to facilitate cooperation among all
 
-### parties, and adjust laws and regulations to promote the development
+parties, and adjust laws and regulations to promote the development
 
 of 5G vertical applications.
 
@@ -3420,7 +3420,7 @@ Maturity
 
 Above Level 2
 
-### Objective
+Objective
 
 (Including
 

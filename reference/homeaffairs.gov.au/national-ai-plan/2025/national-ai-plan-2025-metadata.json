@@ -16,12 +16,17 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official government/institutional publication (homeaffairs.gov.au) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
-    "textUsed": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,27 +37,12 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Generated structured reference summary from verified SecID registry metadata for secid:reference/homeaffairs.gov.au/national-ai-plan@2025 (856 chars). Parsed 3 sections (2 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "secid-registry-structured-summary + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/homeaffairs.gov.au/national-ai-plan@2025 (https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "source-unavailable"
   }
 }

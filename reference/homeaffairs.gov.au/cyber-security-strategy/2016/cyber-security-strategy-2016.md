@@ -138,15 +138,15 @@ The Government is committed to enabling innovation, growth and prosperity for al
 
 This Strategy establishes five themes of action for Australia’s cyber security over the next four years to 2020:
 
-### 1. A national cyber partnership
+1. A national cyber partnership
 
-### 2. Strong cyber defences
+2. Strong cyber defences
 
-### 3. Global responsibility and influence
+3. Global responsibility and influence
 
-### 4. Growth and innovation
+4. Growth and innovation
 
-### 5. A cyber smart nation
+5. A cyber smart nation
 
 Each theme is supported by actions the Government will take to improve our cyber security and ensure Australia can continue to grow and prosper today and to seize opportunities for tomorrow. Recognising that cyberspace is dynamic, the Strategy’s initiatives will be reviewed and updated annually and the Strategy reviewed and updated every four years.
 
@@ -392,11 +392,7 @@ Australians are becoming increasingly connected online
 
 Australians have social media accounts
 
-Most Australians spend almost
-
-## 1 day
-
-online per week
+Most Australians spend almost 1 day online per week
 
 ## 84%
 
@@ -410,17 +406,9 @@ of Australians will be online by 2017
 
 Australian small and medium businesses receive payments online
 
-By 2019, the average Australian household will have
+By 2019, the average Australian household will have 24 devices connected online
 
-## 24 devices
-
-connected online
-
-The market for connected home devices is expected to grow
-
-## 11 fold
-
-to 2019
+The market for connected home devices is expected to grow 11 fold to 2019
 
 ## … BUT CYBER SECURITY THREATS ARE SERIOUS AND GROWING
 

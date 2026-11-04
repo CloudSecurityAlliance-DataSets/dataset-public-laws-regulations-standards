@@ -16,12 +16,17 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official government/institutional publication (dpmc.govt.nz) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
+    "notes": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy",
-    "textUsed": "https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy",
+    "textUsed": "https://www.dpmc.govt.nz/sites/default/files/2026-02/nz-cyber-security-strategy-2026-30.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -34,19 +39,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy) to Markdown (3,494 chars). Parsed 6 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 15-page PDF (https://www.dpmc.govt.nz/sites/default/files/2026-02/nz-cyber-security-strategy-2026-30.pdf) locally via PyMuPDF (33,368 chars). Parsed 36 sections (4 with explicit section identifiers)."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
     }
   ],
   "scope": {},

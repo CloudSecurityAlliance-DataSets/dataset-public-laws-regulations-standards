@@ -506,9 +506,7 @@ Japan retains, as its options, political, economic, technological, legal, diplom
 
 viable and effective means.
 
-(1)
-
-### Objectives of the Basic Act on Cybersecurity
+(1) Objectives of the Basic Act on Cybersecurity
 
 The Basic Act aims to “improve socio-economic vitality and sustainable development,”
 
@@ -628,9 +626,7 @@ cybersecurity initiatives must aim for and three approaches required to promotin
 
 as the “basic vision of cybersecurity.”
 
-(1)
-
-### Goal
+(1) Goal
 
 34 in which cyberspace develop sustainably as “frontier generating
 
@@ -1672,7 +1668,7 @@ account management information. In order to implement those measures effectively
 
 with a view to automating the work required for analysis of information must be established.
 
-(ii) Preventing Damages and the Spread Thereof through the Advanced Cross-
+#### (ii) Preventing Damages and the Spread Thereof through the Advanced Cross-
 
 Organizational Collaboration among the Agencies
 
@@ -1844,7 +1840,7 @@ institutes shares information, common issues and knowledge for incident response
 
 cyberattacks.
 
-### Initiatives for the Tokyo 2020 Games and Beyond
+Initiatives for the Tokyo 2020 Games and Beyond
 
 Countless athletes, foreign dignitaries, and supporters will gather from all over the world for the
 

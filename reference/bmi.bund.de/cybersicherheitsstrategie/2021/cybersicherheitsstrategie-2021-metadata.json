@@ -16,7 +16,12 @@
   "license": {
     "spdx": "dl-de-by-2.0",
     "Grouping": "Permissive",
-    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.govdata.de/dl-de/by-2-0",
+    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
+    "notes": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 133-page PDF (https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/cyber-security-strategy-for-germany2021.pdf?__blob=publicationFile&v=4) locally via PyMuPDF (303,249 chars). Parsed 84 sections (40 with explicit section identifiers)."
+    "notes": "Extracted 133-page PDF (https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/cyber-security-strategy-for-germany2021.pdf?__blob=publicationFile&v=4) locally via PyMuPDF (303,245 chars). Parsed 83 sections (40 with explicit section identifiers)."
   },
   "extraction_history": [
     {

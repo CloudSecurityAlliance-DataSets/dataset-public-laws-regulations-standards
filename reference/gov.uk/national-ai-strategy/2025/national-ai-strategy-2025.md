@@ -138,19 +138,29 @@ To achieve this, government should:
 
 1. Set out, within six months, a long-term plan for the UK’s AI infrastructure needs, backed by a 10-year investment commitment. Building a world class AI compute ecosystem requires a clear objective and long-term capability and expertise. Government should consider what the most appropriate delivery body is for large scale research infrastructure that is delivered in partnership with universities and industry. We have pockets of deep academic expertise in this space, such as at Edinburgh, Bristol and Cambridge universities, and we should draw on this. A credible plan will consider emerging compute technologies, include investment in software, skills, and wider high-performance computing capabilities to complement our AI compute and enable AI for science.
 
-2. Expand the capacity of the AI Research Resource (AIRR) by at least 20x by 2030 – starting within 6 months. The AIRR should evolve into a set of mission-oriented clusters that bring together compute, data, and talent to pursue frontier AI research and other national priorities. Expansion by at least 20x by 2030 would ensure the AIRR enables the training of multiple AI models a year and provides an up to date research capability.1 Given trends in hardware performance, this would not mean a 20x increase in investment if the government procures smartly.2 Such expansion is needed to keep up with the expected increases in computing power that we should assume will be needed for AI workloads. This is unlikely to slow down; we need to “run to stand still”. As part of this, government should ensure that the public compute ecosystem hosts a range of hardware providers to avoid vendor lock-in and ensure value for money.
+### 2. Expand the capacity of the AI Research Resource (AIRR) by at least 20x by 2030 –
 
-3. Strategically allocate sovereign compute by appointing mission-focused “AIRR programme directors” with significant autonomy. These could be modelled after the Defense Advanced Research Projects Agency (DARPA) or the Advanced Research and Invention Agency (ARIA) to quickly and independently provide large amounts of compute to high-potential projects of national importance, operating in a way that is strategic and mission driven. Allocation is an essential part of any compute strategy: spreading large amounts of compute thinly will have little impact. We will have to make choices about when to subsidise compute and when to provide it at cost, recognising that this could form part of an attractive offer to entrepreneurs and researchers deciding where to base themselves.
+starting within 6 months. The AIRR should evolve into a set of mission-oriented clusters that bring together compute, data, and talent to pursue frontier AI research and other national priorities. Expansion by at least 20x by 2030 would ensure the AIRR enables the training of multiple AI models a year and provides an up to date research capability.1 Given trends in hardware performance, this would not mean a 20x increase in investment if the government procures smartly.2 Such expansion is needed to keep up with the expected increases in computing power that we should assume will be needed for AI workloads. This is unlikely to slow down; we need to “run to stand still”. As part of this, government should ensure that the public compute ecosystem hosts a range of hardware providers to avoid vendor lock-in and ensure value for money.
 
-4. Establish ‘AI Growth Zones’ (AIGZs) to facilitate the accelerated build out of AI data centres. As AI infrastructure providers seek access to land and power, governments who move quickly and mirror the pace of growth and innovation in the AI data centre market will be best placed to secure investment. AIGZs could introduce a
+### 3. Strategically allocate sovereign compute by appointing mission-focused “AIRR
+
+programme directors” with significant autonomy. These could be modelled after the Defense Advanced Research Projects Agency (DARPA) or the Advanced Research and Invention Agency (ARIA) to quickly and independently provide large amounts of compute to high-potential projects of national importance, operating in a way that is strategic and mission driven. Allocation is an essential part of any compute strategy: spreading large amounts of compute thinly will have little impact. We will have to make choices about when to subsidise compute and when to provide it at cost, recognising that this could form part of an attractive offer to entrepreneurs and researchers deciding where to base themselves.
+
+### 4. Establish ‘AI Growth Zones’ (AIGZs) to facilitate the accelerated build out of AI
+
+data centres. As AI infrastructure providers seek access to land and power, governments who move quickly and mirror the pace of growth and innovation in the AI data centre market will be best placed to secure investment. AIGZs could introduce a
 
 1 Assumes compute requirements continue to grow at 4x per year. 2 Assuming trends in hardware performance continue, by 2030 each pound spent on GPUs will buy 8x more FLOP and require 4x less power, therefore expanding AIRR by 20x would require much less than a 20x increase in investment.
 
 streamlined planning approvals process and accelerate the provisioning of clean power. This is a major opportunity to crowd in private capital to boost our domestic compute portfolio and to build strategic partnerships with AI developers to work on shared AI and AI-enabled priorities. Government can also use AIGZs to drive local rejuvenation, channelling investment into areas with existing energy capacity such as post-industrial towns and coastal Scotland. Government should quickly nominate at least one AIGZ and work with local regions to secure buy-in for further AIGZs that contribute to local needs. Existing government sites could be prioritised as pilots, including Culham Science Centre, the UK Atomic Energy Authority’s headquarters, which has access to significant power and land. Alongside this, government should consider other measures to accelerate buildout of data centres, such as offering central guidance, creating a bespoke planning use-class and considering the case for AI data centres to be eligible for relevant relief schemes that incentivise private sector investment.
 
-5. Mitigate the sustainability and security risks of AI infrastructure, while positioning the UK to take advantage of opportunities to provide solutions. This should focus both on secure private-sector compute as well as collaboration with the UK Intelligence Community. Government should also explore ways to support novel approaches to compute hardware and, where appropriate, create partitions in national supercomputers to support new and innovative hardware. In doing so, government should look to support and partner with UK companies who can demonstrate performance, sustainability or security advancements.
+### 5. Mitigate the sustainability and security risks of AI infrastructure, while positioning
 
-6. Agree international compute partnerships with like-minded countries to increase the types of compute capability available to researchers and catalyse research collaborations. This should focus on building arrangements with key allies, as well as expanding collaboration with existing partners like the EuroHPC Joint Undertaking.
+the UK to take advantage of opportunities to provide solutions. This should focus both on secure private-sector compute as well as collaboration with the UK Intelligence Community. Government should also explore ways to support novel approaches to compute hardware and, where appropriate, create partitions in national supercomputers to support new and innovative hardware. In doing so, government should look to support and partner with UK companies who can demonstrate performance, sustainability or security advancements.
+
+### 6. Agree international compute partnerships with like-minded countries to increase
+
+the types of compute capability available to researchers and catalyse research collaborations. This should focus on building arrangements with key allies, as well as expanding collaboration with existing partners like the EuroHPC Joint Undertaking.
 
 ### 1.2 Unlocking data assets in the public and private sector
 
@@ -160,23 +170,35 @@ We should seek to responsibly unlock both public and private data sets to enable
 
 The creation of the National Data Library (NDL) presents an enormous opportunity. As it develops the NDL, the government should:
 
-7. Rapidly identify at least five high-impact public data sets it will seek to make available to AI researchers and innovators. Prioritisation should consider the
+### 7. Rapidly identify at least five high-impact public data sets it will seek to make
+
+available to AI researchers and innovators. Prioritisation should consider the
 
 potential economic and social value of the data, as well as public trust, national security, privacy, ethics, and data protection considerations. We should explore use of synthetic data generation techniques to construct privacy-preserving versions of highly sensitive data sets. Government data sets are a public asset, and careful consideration should be given to their valuation.
 
-8. Strategically shape what data is collected, rather than just making data available that already exists. Government should look to collect data in strategically significant areas, building on existing UK strengths. For example, the NDL could build on the achievements of the UK Biobank to enhance research in areas such as disease recognition and the prediction of health outcomes. The NDL should run open calls to receive proposals from researchers and industry to propose new data sets.
+### 8. Strategically shape what data is collected, rather than just making data available
+
+that already exists. Government should look to collect data in strategically significant areas, building on existing UK strengths. For example, the NDL could build on the achievements of the UK Biobank to enhance research in areas such as disease recognition and the prediction of health outcomes. The NDL should run open calls to receive proposals from researchers and industry to propose new data sets.
 
 ### 9. Develop and publish guidelines and best practices for releasing open government
 
 data sets that can be used for AI, including on the development of effective data structures and data dissemination methods.
 
-10. Couple compute allocation with access to proprietary data sets as part of an attractive offer to researchers and start-ups choosing to establish themselves in the UK and to unlock innovation.
+### 10. Couple compute allocation with access to proprietary data sets as part of an
 
-11. Build public sector data collection infrastructure and finance the creation of new high-value data sets that meet public sector, academia and startup needs. Government should identify how public data will be collected and its quality enhanced, including the use of AI-driven data cleansing tools to curate data sets stored across government, making them suitable for AI developers and researchers.
+attractive offer to researchers and start-ups choosing to establish themselves in the UK and to unlock innovation.
 
-12. Actively incentivise and reward researchers and industry to curate and unlock private data sets. In particular, the NDL should engage with UKRI to identify how the creation of valuable high-quality data sets that support the research community could be better acknowledged via the Research Excellence Framework. Government should also explore how to shape the market in data set curation, including contributions from the private sector.
+### 11. Build public sector data collection infrastructure and finance the creation of new
 
-13. Establish a copyright-cleared British media asset training data set, which can be licensed internationally at scale. This could be done through partnering with bodies that hold valuable cultural data like the National Archives, Natural History Museum, British Library and the BBC to develop a commercial proposition for sharing their data to advance AI.
+high-value data sets that meet public sector, academia and startup needs. Government should identify how public data will be collected and its quality enhanced, including the use of AI-driven data cleansing tools to curate data sets stored across government, making them suitable for AI developers and researchers.
+
+### 12. Actively incentivise and reward researchers and industry to curate and unlock
+
+private data sets. In particular, the NDL should engage with UKRI to identify how the creation of valuable high-quality data sets that support the research community could be better acknowledged via the Research Excellence Framework. Government should also explore how to shape the market in data set curation, including contributions from the private sector.
+
+### 13. Establish a copyright-cleared British media asset training data set, which can be
+
+licensed internationally at scale. This could be done through partnering with bodies that hold valuable cultural data like the National Archives, Natural History Museum, British Library and the BBC to develop a commercial proposition for sharing their data to advance AI.
 
 ## 1.3 Training, retaining, and attracting the next generation of AI scientists and founders
 
@@ -192,7 +214,9 @@ As a priority first step, government should:
 
 Once the size of the skills gap is confirmed, to reach this target over the next five years government should:
 
-15. Support Higher Education Institutions to increase the numbers of AI graduates and teach industry-relevant skills. In 2022, 46,000 students graduated from an AI-relevant higher education programme in the UK. While this is the highest in Europe, with Germany (32,000) second, the UK is behind Finland and others on a per capita basis and there remains unmet demand for skilled workers.7 Supporting universities to develop new courses co-designed with industry – such as the successful co-operative education model of Canada's University of Waterloo, CDTM at the Technical University of Munich or France's CIFRE PhD model – and increasing their teaching and recruitment capacity would help train the tens of thousands of AI professionals needed by 2030.
+### 15. Support Higher Education Institutions to increase the numbers of AI graduates
+
+and teach industry-relevant skills. In 2022, 46,000 students graduated from an AI-relevant higher education programme in the UK. While this is the highest in Europe, with Germany (32,000) second, the UK is behind Finland and others on a per capita basis and there remains unmet demand for skilled workers.7 Supporting universities to develop new courses co-designed with industry – such as the successful co-operative education model of Canada's University of Waterloo, CDTM at the Technical University of Munich or France's CIFRE PhD model – and increasing their teaching and recruitment capacity would help train the tens of thousands of AI professionals needed by 2030.
 
 16. Increase the diversity of the talent pool. Only 22% of people working in AI and data science are women.8 Achieving parity would mean thousands of additional workers. The AI conversion courses have helped to diversify the AI pipeline, but only at the top end. Government should build on this investment and promote diversity throughout the education pipeline. Interventions must be tailored – there is no one-size-fits-all
 
@@ -202,9 +226,13 @@ approach. Hackathons and competitions in schools have proven effective at gettin
 
 17. Expand education pathways into AI. Higher education is the most common pathway into AI careers and will likely remain so at least until 2030.10 To meet the demands of the labour market and the changing skills needs of the future, however, government should encourage and promote alternative domestic routes into the AI profession – including through further education and apprenticeships, as well as employer and self-led upskilling.
 
-18. Launch a flagship undergraduate and master’s AI scholarship programme on the scale of Rhodes, Marshall or Fulbright for students to study in the UK. Open to a diverse initial cohort of 100 scholars from the UK and abroad, the programme would combine financial support, cohort building, industry co-investment, and placements in government or private sector AI organisations. Potential scholars must show exceptional promise, but recognising the broad range of talents needed for success in AI, this could be in a variety of fields, such as strong performance in a leading STEM competition (e.g. the International Mathematical or Informatics Olympiads).
+### 18. Launch a flagship undergraduate and master’s AI scholarship programme on the
 
-19. Ensure its lifelong skills programme is ready for AI. AI will continue to change the labour market, though exactly how and when is unclear. What is certain is while some jobs will be replaced by AI, many will be augmented – and an unknown number will be created. Government should ensure there are sufficient opportunities for workers to reskill, both into AI and AI-enabled jobs and more widely. The UK should also learn and adopt best practice from other countries who are preparing their skills systems for the long-term impacts of AI. Singapore, for example, developed a national AI skills online platform with multiple training offers. South Korea is integrating AI, data and digital literacy throughout its education pipelines through an AI curriculum and a variety of training and education programmes. Skills England and the independent Curriculum and Assessment Review present an opportunity to consider the merit of such approaches in our system.
+scale of Rhodes, Marshall or Fulbright for students to study in the UK. Open to a diverse initial cohort of 100 scholars from the UK and abroad, the programme would combine financial support, cohort building, industry co-investment, and placements in government or private sector AI organisations. Potential scholars must show exceptional promise, but recognising the broad range of talents needed for success in AI, this could be in a variety of fields, such as strong performance in a leading STEM competition (e.g. the International Mathematical or Informatics Olympiads).
+
+### 19. Ensure its lifelong skills programme is ready for AI. AI will continue to change the
+
+labour market, though exactly how and when is unclear. What is certain is while some jobs will be replaced by AI, many will be augmented – and an unknown number will be created. Government should ensure there are sufficient opportunities for workers to reskill, both into AI and AI-enabled jobs and more widely. The UK should also learn and adopt best practice from other countries who are preparing their skills systems for the long-term impacts of AI. Singapore, for example, developed a national AI skills online platform with multiple training offers. South Korea is integrating AI, data and digital literacy throughout its education pipelines through an AI curriculum and a variety of training and education programmes. Skills England and the independent Curriculum and Assessment Review present an opportunity to consider the merit of such approaches in our system.
 
 Alongside these longer-term investments, the government’s priority should be to rapidly increase the number of top AI research talents who work in the UK. These leading AI scientists and engineers are few in number and highly prized globally. The countries that attract them will play an outsized role in the future of AI. It is not surprising that the US, which is the number one destination for top talent, has also been at the forefront of recent AI breakthroughs.
 
@@ -214,9 +242,13 @@ International competition for top talent is fierce. The UK must go further than 
 
 Within the next year, government should:
 
-20. Establish an internal headhunting capability on a par with top AI firms to bring a small number of elite individuals to the UK. Government should build on the success of the AI Safety Institute in attracting top talent. This may include recruiting more people into AISI, UK Sovereign AI or other public AI labs, as well as UK-based companies. Officials will need flexibility to develop specific offers and provide wraparound support to talent targets – recognising that to truly ‘headhunt’ talent the programme will need to be backed by appropriate funding.
+### 20. Establish an internal headhunting capability on a par with top AI firms to bring a
 
-21. Explore how the existing immigration system can be used to attract graduates from universities producing some of the world’s top AI talent. Graduates from some leading AI institutions, such as the Indian Institutes of Technology and (since 2020) Carnegie Mellon University in the US, are not currently included in the High Potential Individual visa eligibility list. Government should take steps to develop new pathways, and strengthen existing ones, to support these graduates. It should also explore how best to address wider barriers like the cost and complexity of visas which create obstacles for startups and deter overseas talent from re-locating to the UK.11
+small number of elite individuals to the UK. Government should build on the success of the AI Safety Institute in attracting top talent. This may include recruiting more people into AISI, UK Sovereign AI or other public AI labs, as well as UK-based companies. Officials will need flexibility to develop specific offers and provide wraparound support to talent targets – recognising that to truly ‘headhunt’ talent the programme will need to be backed by appropriate funding.
+
+### 21. Explore how the existing immigration system can be used to attract graduates
+
+from universities producing some of the world’s top AI talent. Graduates from some leading AI institutions, such as the Indian Institutes of Technology and (since 2020) Carnegie Mellon University in the US, are not currently included in the High Potential Individual visa eligibility list. Government should take steps to develop new pathways, and strengthen existing ones, to support these graduates. It should also explore how best to address wider barriers like the cost and complexity of visas which create obstacles for startups and deter overseas talent from re-locating to the UK.11
 
 22. Expand the Turing AI Fellowship offer. 15 new Turing AI Pioneer Fellowships should be created for specialists in other sectors who wish to develop deep technical skills in AI. At the same time, funding for 25 more Turing AI Acceleration and AI World-Leading fellowships should be committed to maintain the current cohort size over the next three years, as existing fellows graduate from the programme.
 
@@ -234,19 +266,31 @@ development of the UK’s cyber security industry.14 Clear rules provide clarity
 
 The government should:
 
-23. Continue to support and grow the AI Safety Institute (AISI) to maintain and expand its research on model evaluations, foundational safety and societal resilience research. AISI is the first safety institute to have conducted pre-deployment evaluations of frontier models and its success is a significant and growing source of international influence for the UK. Continued investment is needed to ensure AISI retains its position as a world-leader and remains attractive to top AI safety researchers. It is also essential to act quickly to provide clarity on how frontier models will be regulated. A top priority of any such regulation should be preserving the capability, trust and collaboration that the AISI has built up since its creation.
+### 23. Continue to support and grow the AI Safety Institute (AISI) to maintain and
 
-24. Reform the UK text and data mining regime so that it is at least as competitive as the EU. The current uncertainty around intellectual property (IP) is hindering innovation and undermining our broader ambitions for AI, as well as the growth of our creative industries. This has gone on too long and needs to be urgently resolved. The EU has moved forward with an approach that is designed to support AI innovation while also enabling rights holders to have control over the use of content they produce. The UK is falling behind.
+expand its research on model evaluations, foundational safety and societal resilience research. AISI is the first safety institute to have conducted pre-deployment evaluations of frontier models and its success is a significant and growing source of international influence for the UK. Continued investment is needed to ensure AISI retains its position as a world-leader and remains attractive to top AI safety researchers. It is also essential to act quickly to provide clarity on how frontier models will be regulated. A top priority of any such regulation should be preserving the capability, trust and collaboration that the AISI has built up since its creation.
+
+### 24. Reform the UK text and data mining regime so that it is at least as competitive as
+
+the EU. The current uncertainty around intellectual property (IP) is hindering innovation and undermining our broader ambitions for AI, as well as the growth of our creative industries. This has gone on too long and needs to be urgently resolved. The EU has moved forward with an approach that is designed to support AI innovation while also enabling rights holders to have control over the use of content they produce. The UK is falling behind.
 
 It is also essential that we act now to ensure sector regulators are fit for the age of AI. In particular, government should:
 
-25. Commit to funding regulators to scale up their AI capabilities, some of which need urgent addressing. Government should also ensure all sponsor departments demonstrate how they are funding this capability within their budgets through the Spending Review process.
+### 25. Commit to funding regulators to scale up their AI capabilities, some of which
 
-26. Ensure all sponsor departments include a focus on enabling safe AI innovation in their strategic guidance to regulators. AI will touch every aspect of the economy and so it is essential that all regulators are prioritising understanding its impacts in their domains and considering how best to encourage its safe adoption.
+need urgent addressing. Government should also ensure all sponsor departments demonstrate how they are funding this capability within their budgets through the Spending Review process.
 
-27. Work with regulators to accelerate AI in priority sectors and implement pro-innovation initiatives like regulatory sandboxes. These should be targeted in areas with regulatory challenges but high-growth potential, such as products which integrate AI into the physical world like autonomous vehicles, drones and robotics.
+### 26. Ensure all sponsor departments include a focus on enabling safe AI innovation in
 
-28. Require all regulators to publish annually how they have enabled innovation and growth driven by AI in their sector. To ensure accountability, this should include transparent metrics such as timelines to publish guidance, make licence decisions and report on resources allocated to AI-focused work. Even with these initiatives, individual regulators may still lack the incentives to promote innovation at the scale of the
+their strategic guidance to regulators. AI will touch every aspect of the economy and so it is essential that all regulators are prioritising understanding its impacts in their domains and considering how best to encourage its safe adoption.
+
+### 27. Work with regulators to accelerate AI in priority sectors and implement pro-
+
+innovation initiatives like regulatory sandboxes. These should be targeted in areas with regulatory challenges but high-growth potential, such as products which integrate AI into the physical world like autonomous vehicles, drones and robotics.
+
+### 28. Require all regulators to publish annually how they have enabled innovation and
+
+growth driven by AI in their sector. To ensure accountability, this should include transparent metrics such as timelines to publish guidance, make licence decisions and report on resources allocated to AI-focused work. Even with these initiatives, individual regulators may still lack the incentives to promote innovation at the scale of the
 
 14 DSIT, ‘Cyber security sectoral analysis 2024’, 2024 (accessed 15 October 2024)
 
@@ -302,7 +346,9 @@ solution within the mission setting, considering the user needs from the outset.
 
 capability who understands AI capabilities and use-cases as they evolve to work closely with the mission leads and maximise the expertise of both.
 
-33. Two-way partnerships with AI vendors and startups to anticipate future AI developments and signal public sector demand. This would involve government meeting product teams to understand upcoming releases and shape development by sharing their challenges.
+### 33. Two-way partnerships with AI vendors and startups to anticipate future AI
+
+developments and signal public sector demand. This would involve government meeting product teams to understand upcoming releases and shape development by sharing their challenges.
 
 PILOT – rapidly developing prototypes or fast light-touch procurement to spin up pilots in high-impact areas, robust evaluation and publishing results. This will require:
 
@@ -320,19 +366,27 @@ needed, including technical and delivery resource to build and test proof of con
 
 accessing data sets, access to language models and necessary infrastructure like compute.
 
-38. A faster, multi-stage gated and scaling AI procurement process that enables easy and quick access to small-scale funding for pilots and only layers bureaucratic controls as the investment-size gets larger. Multi-staged "Competitive Flexible Procedures" should be encouraged,19 and startups compensated for the rounds they make it through.
+### 38. A faster, multi-stage gated and scaling AI procurement process that enables easy
+
+and quick access to small-scale funding for pilots and only layers bureaucratic controls as the investment-size gets larger. Multi-staged "Competitive Flexible Procedures" should be encouraged,19 and startups compensated for the rounds they make it through.
 
 SCALE – identifying successful pilots that can be applied in different settings to support citizens (e.g. to reduce waiting lists or minimise time and cost to complete paperwork) and rolling them out beyond organisational boundaries. Scale is essential if AI is to have a meaningful impact on productivity, effectiveness and citizen experience, as well as maximising government spending power. Moreover, doing this well and procuring in a way that benefits innovators is a powerful lever for upending the cliché that the UK is good at invention, but poor at commercialisation. It will require:
 
-39. A scaling service for successful pilots with senior support and central funding resource. The government should support a select number of proven pilots to scale – with central finance and tools available to avoid fragmentation across systems and budgets – and achieve up to national level reach.
+### 39. A scaling service for successful pilots with senior support and central funding
 
-40. Mission-focused national AI tenders to support rapid adoption across de-centralised systems led by the mission delivery boards. An example of tendering to enable scale is the NHS’s AI Diagnostic Fund allocating £21 million to 12 imaging networks, covering 66 NHS trusts across England, significantly speeding up the roll out of AI diagnostic tools nationwide.20 However, these tenders should be designed to encourage new entrants, avoiding reliance on commercial frameworks where possible.
+resource. The government should support a select number of proven pilots to scale – with central finance and tools available to avoid fragmentation across systems and budgets – and achieve up to national level reach.
+
+### 40. Mission-focused national AI tenders to support rapid adoption across de-
+
+centralised systems led by the mission delivery boards. An example of tendering to enable scale is the NHS’s AI Diagnostic Fund allocating £21 million to 12 imaging networks, covering 66 NHS trusts across England, significantly speeding up the roll out of AI diagnostic tools nationwide.20 However, these tenders should be designed to encourage new entrants, avoiding reliance on commercial frameworks where possible.
 
 ### 41. Development or procurement of a scalable AI tech stack that supports the use of
 
 specialist narrow and large language models for tens or hundreds of millions of citizen interactions across the UK.
 
-42. Mandating infrastructure interoperability, code reusability and open sourcing. The AI infrastructure choice at-scale should be standardised, tools should be built with reusable modular code components, and code-base open-sourcing where possible.
+### 42. Mandating infrastructure interoperability, code reusability and open sourcing. The
+
+AI infrastructure choice at-scale should be standardised, tools should be built with reusable modular code components, and code-base open-sourcing where possible.
 
 18 Tony Blair Institute, ‘Governing in the Age of AI: A New Model to Transform the State’, 2024 (accessed 15 October 2024) 19 Cabinet Office, ‘Guidance: Competitive Tendering Procedures’, 2024 (accessed 15 October 2024) 20 NHS England, ‘AI Diagnostic Fund’, 2024 (accessed 15 October 2024)
 
@@ -340,11 +394,15 @@ specialist narrow and large language models for tens or hundreds of millions of 
 
 The public and private sectors should play mutually reinforcing roles in AI adoption. To get the most from working together, government should:
 
-43. Procure smartly from the AI ecosystem as both its largest customer and as a market shaper. Innovative AI suppliers from the UK and around the world should be engaged to support demand and encourage investment. Procurement contract terms should set standards (e.g. quality), requirements, and best practice (e.g. performance evaluations). “Contemplation” clauses should be included in contracts to ensure the government remains agile to a rapidly changing AI ecosystem by mandating that contractors regularly assess and adopt newer technologies.
+### 43. Procure smartly from the AI ecosystem as both its largest customer and as a
+
+market shaper. Innovative AI suppliers from the UK and around the world should be engaged to support demand and encourage investment. Procurement contract terms should set standards (e.g. quality), requirements, and best practice (e.g. performance evaluations). “Contemplation” clauses should be included in contracts to ensure the government remains agile to a rapidly changing AI ecosystem by mandating that contractors regularly assess and adopt newer technologies.
 
 44. Use digital government infrastructure to create new opportunities for innovators. For example, an approach akin to Jeff Bezos’s API mandate at Amazon could be adopted. This required all teams’ data and functionality to be exposed through APIs (Application Programme Interfaces). All standard documentation interactions, like compliance or planning, could be done through APIs, to which companies could connect their own tools. Similarly, mandating e-Invoices from government suppliers could automate billing, speed up payments and reduce fraud.
 
-45. Publish best-practice guidance, results, case-studies and open-source solutions through a single “AI Knowledge Hub” accessible to technical and non-technical users across private and public sectors as a single place to access frameworks and insights.
+### 45. Publish best-practice guidance, results, case-studies and open-source solutions
+
+through a single “AI Knowledge Hub” accessible to technical and non-technical users across private and public sectors as a single place to access frameworks and insights.
 
 ### 46. In the next three months, the Digital Centre of Government should identify a
 
@@ -354,7 +412,9 @@ series of quick wins to support the adoption of the scan, pilot scale approach a
 
 AI adoption could grow the UK economy by an additional £400 billion by 2030 through enhancing innovation and productivity in the workplace.21 Safe, effective and swift AI adoption has the potential to enhance the international competitiveness of sectors of UK strength and unlock new growth opportunities across the whole economy, including for SMEs. To capture the benefits of AI adoption across the private sector, the government should:
 
-47. Leverage the new Industrial Strategy. The development of a new Industrial Strategy presents an opportunity to drive collective action to support AI adoption across the economy. The Industrial Strategy will need to set out how AI adoption can best be supported in key industries, noting particular use cases that could boost productivity and present a particular competitive advantage while also identifying possible regulatory barriers and specific skills needs that need to be addressed. DSIT
+### 47. Leverage the new Industrial Strategy. The development of a new Industrial
+
+Strategy presents an opportunity to drive collective action to support AI adoption across the economy. The Industrial Strategy will need to set out how AI adoption can best be supported in key industries, noting particular use cases that could boost productivity and present a particular competitive advantage while also identifying possible regulatory barriers and specific skills needs that need to be addressed. DSIT
 
 21 Public First, ‘Google’s Impact in the UK 2023’, 2024 (accessed 15 October 2024)
 

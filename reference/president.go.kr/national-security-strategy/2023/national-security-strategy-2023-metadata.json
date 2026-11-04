@@ -16,7 +16,12 @@
   "license": {
     "spdx": "KOGL-Type-1",
     "Grouping": "Permissive",
-    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution.",
+    "notes": "Korea Open Government License (KOGL) Type 1: Attribution."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 150-page PDF (https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf) locally via PyMuPDF (174,019 chars). Parsed 53 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 150-page PDF (https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf) locally via PyMuPDF (174,015 chars). Parsed 52 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -492,9 +492,13 @@ A
 
 ### Educating and empowering the public to stay safe in cyberspace
 
-(ii) Engagement of vulnerable groups in society
+#### (ii) Engagement of vulnerable
 
-(i) Conducting outreach to the general public
+groups in society
+
+#### (i) Conducting outreach to the
+
+general public
 
 SPF has also tailored its cybercrime prevention outreach programmes to match the profile of different vulnerable groups in society, thereby ensuring that the message of cybercrime prevention is effectively communicated to all segments of society. Through its Collaborative Social Programme (CoSP), SPF will work with schools and Non- Governmental Organisations (NGOs) to raise cybercrime prevention awareness among vulnerable groups.
 
@@ -502,7 +506,9 @@ In order to educate and empower the public to stay safe in cyberspace, the Singa
 
 Prevention is the best way to combat cybercrime; the majority of cybercrimes can be prevented if businesses and individuals are educated on the risks of cybercrime and adopt simple cybercrime prevention measures to protect themselves online.
 
-(iii) Providing a one-stop self-help portal against scams
+#### (iii) Providing a one-stop self-
+
+help portal against scams
 
 SPF has worked with the National Crime Prevention Council (NCPC) to transform the Scam Alert website (www.scamalert.sg) into a one-stop self-help portal against scams. The portal will provide information to the public on the different types of scams, and empower the public to take steps to guard against them.
 
@@ -512,17 +518,23 @@ B
 
 cybercrime. To achieve this, a Cyber Security Lab (CSL) has been set up in the CCSS as a modern hands-on facility for familiarising trainees on approaches to mitigate cyber threats and investigate cyber incidents. CCSS will expand its curriculum to offer a variety of skills-based courses, ranging from cybersecurity fundamentals and cyber defence, to incident response, digital forensics and malware analysis. These courses are tailored to the needs of officers, depending on their professional roles and competency requirements.
 
-(i) Establishing the SPF Cybercrime Command
+#### (i) Establishing the SPF
+
+Cybercrime Command
 
 The SPF Cybercrime Command was established in December 2015 to increase the agility and effectiveness of the SPF to respond to cybercrimes by integrating SPF’s cyber-related investigation, forensics, intelligence and crime prevention capabilities within a single command.
 
 The transnational nature of cybercrimes, coupled with the speed and scale at which such crimes are perpetrated, presents formidable challenges for traditional law enforcement approaches. In order to effectively combat cybercrime, the Government will (i) establish the SPF Cybercrime Command, (ii) boost cybercrime investigation capabilities, (iii) equip public officers with the relevant skills to combat cybercrime, and (iv) enhance coordination between SPF and government agencies.
 
-(ii) Boosting cybercrime investigation capabilities
+#### (ii) Boosting cybercrime
+
+investigation capabilities
 
 SPF has also embarked on several technology initiatives to improve its cybercrime investigation capabilities. These efforts will enable SPF to effectively investigate the rising number of cybercrime cases and quickly process large volumes of digital information in order to sieve out necessary evidence for a successful prosecution.
 
-(iv) Strengthening coordination between SPF and government agencies
+#### (iv) Strengthening coordination
+
+between SPF and government agencies
 
 SPF also works closely with its partner agencies to ensure a coordinated response to cybercrimes. In recent years, AGC and SPF have worked closely together on sensitive and high-profile cybercrime cases, coming together right from the start of the investigations. AGC’s expertise has helped SPF to ensure that crucial evidence is secured at an early stage and that police investigations are watertight.
 
@@ -530,15 +542,21 @@ One such initiative is the DIGital Evidence Search Tool (DIGEST) that will autom
 
 Given the closely-related nature of cybersecurity and cybercrime, SPF and CSA will work together to ensure an effective response to cyber-related incidents and conduct exercises to stress-test existing workflows, coordination arrangements and procedures.
 
-(iii) Equipping public officers handling sensitive data with the relevant skills to combat cybercrime
+#### (iii) Equipping public officers
+
+handling sensitive data with the relevant skills to combat cybercrime
 
 In recognition of growing cybersecurity and cybercrime threats, the Centre for Cyber Security Studies (CCSS) was established in 2014 within the Home Team Academy (HTA). The CCSS facilitates the capability and capacity development of Home Team Departments and key stakeholders responsible for the protection and operations of infocomm systems across the public sector. One of CCSS’ core functions is to equip Home Team officers with the necessary skills to deal with
 
 ### Strengthening legislation and the criminal justice framework
 
-(i) Amending the Computer Misuse and Cybersecurity Act
+#### (i) Amending the Computer Misuse
 
-(iii) Strengthening regulatory frameworks
+and Cybersecurity Act
+
+#### (iii) Strengthening regulatory
+
+frameworks
 
 MHA intends to amend the Computer Misuse and Cybersecurity Act (CMCA), to ensure that the Act continues to be effective in dealing with the transnational nature of cybercrimes, as well as the evolving tactics of cybercriminals.
 
@@ -546,15 +564,21 @@ Aside from public education and outreach, a key method of cybercrime prevention 
 
 The investigation of cybercrimes and prosecution of cybercriminals must be supported by a robust criminal justice framework. Laws need to be updated to deal with new cyber-offences and traditional crimes committed online. Regulatory frameworks have to be constantly strengthened to prevent criminals from taking advantage of loopholes.
 
-(ii) Reviewing other laws In addition to amending the CMCA, MHA will review other related laws such as the Criminal Procedure Code to ensure that these laws remain relevant in dealing with traditional crimes that are committed in cyberspace.
+#### (ii) Reviewing other laws
+
+In addition to amending the CMCA, MHA will review other related laws such as the Criminal Procedure Code to ensure that these laws remain relevant in dealing with traditional crimes that are committed in cyberspace.
 
 D
 
 ### Stepping up partnerships and international engagement
 
-(i) Increasing cybercrime awareness in the private sector
+#### (i) Increasing cybercrime awareness
 
-(ii) Developing capabilities to combat cybercrime
+in the private sector
+
+#### (ii) Developing capabilities
+
+to combat cybercrime
 
 MHA has partnered industry and IHLs to increase awareness of cybercrimes in the private sector. SPF regularly engages key private sector stakeholders, such as those from the Infocomm Technology and banking industries to enhance cybercrime prevention efforts, raise awareness of cybercrimes and encourage the adoption of good cyber hygiene practices.
 
@@ -572,9 +596,13 @@ and empowering the public to be safe in cyberspace. Through the various initiati
 
 International engagement
 
-(i) Fostering regional and global cooperation
+#### (i) Fostering regional
 
-(ii) Building capacities and capabilities through collaboration at the regional and global levels
+and global cooperation
+
+#### (ii) Building capacities and capabilities
+
+through collaboration at the regional and global levels
 
 Strong international partnerships enable countries to deal with cybercrime more effectively. Singapore will actively foster regional and global cooperation, partner INTERPOL and other countries in capacity building initiatives, and bring global experts and thought leaders together to discuss the latest threats, trends and solutions in the cyber domain, and share best practices and solutions.
 
@@ -582,7 +610,9 @@ Singapore is at the forefront of working with foreign countries to enhance our o
 
 Singapore has rolled out several programmes with partner countries and INTERPOL. This includes the two-year (2016 – 2018) ASEAN Cyber Capacity Development Project funded by Japan and implemented by INTERPOL, the Singapore-United States Third Country Training Programme, and the ASEAN Plus Three Cybercrime Workshop, involving the People’s Republic of China, Japan and the Republic of Korea. The involvement of key Asian partners, AMS and INTERPOL facilitates a conducive environment for collaboration on cybercrime issues and sharing of best practices, and forging of effective operational links between countries and across the regions.
 
-(iii) Bringing global experts and thought leaders together
+#### (iii) Bringing global experts
+
+and thought leaders together
 
 Since 2013, Singapore has been supporting thought leadership platforms that bring together public sector and industry partners on cybercrime. One such example is the RSA Conference Asia Pacific and Japan (RSAC APJ). Held annually in Singapore, the RSAC APJ is Asia Pacific’s leading conference on information security.
 
@@ -854,11 +884,7 @@ Cyber threats do not respect sovereign boundaries and cyber-attacks can emanate 
 
 Through consensus, agreement, and cooperation, cyberspace can be a safer and more secure place for all.
 
-To achieve this, Singapore will: Forge international and ASEAN cooperation to counter cyber threats and cybercrime. We will continue working closely with the international community and ASEAN partners to strengthen platforms and procedures for cyber incident reporting and response. We will work with ASEAN Member States to coordinate the regional approach to cybercrime. We will also leverage INTERPOL’s resources to tap the global operational networks and capabilities to tackle cybercrime. Champion international and ASEAN cyber capacity building
-
-### initiatives in operational, technical, legislative, cyber policy and
-
-diplomatic areas. We will partner the international community, Dialogue Partners and ASEAN Member States to organise workshops, seminars and conference that seek to advance cooperation and build capabilities in these aspects . Facilitate exchanges on cyber norms and legislation. We will continue to participate in global and regional discussions on cyber norms, cyber policy and legislation, cyber deterrence, and cybercrime cooperation. We will host an annual Singapore International Cyber Week (SICW) – with the inaugural session in October 2016 – to catalyse, stimulate and promote exchanges on cybersecurity and cybercrime issues.
+To achieve this, Singapore will: Forge international and ASEAN cooperation to counter cyber threats and cybercrime. We will continue working closely with the international community and ASEAN partners to strengthen platforms and procedures for cyber incident reporting and response. We will work with ASEAN Member States to coordinate the regional approach to cybercrime. We will also leverage INTERPOL’s resources to tap the global operational networks and capabilities to tackle cybercrime. Champion international and ASEAN cyber capacity building initiatives in operational, technical, legislative, cyber policy and diplomatic areas. We will partner the international community, Dialogue Partners and ASEAN Member States to organise workshops, seminars and conference that seek to advance cooperation and build capabilities in these aspects . Facilitate exchanges on cyber norms and legislation. We will continue to participate in global and regional discussions on cyber norms, cyber policy and legislation, cyber deterrence, and cybercrime cooperation. We will host an annual Singapore International Cyber Week (SICW) – with the inaugural session in October 2016 – to catalyse, stimulate and promote exchanges on cybersecurity and cybercrime issues.
 
 ## FORGE INTERNATIONAL AND ASEAN COOPERATION TO COUNTER CYBER THREATS
 
@@ -896,9 +922,7 @@ Cyber threats are borderless and no country can deal with the rapidly evolving t
 
 Singapore will establish an ASEAN Cyber Capacity Programme from 2017 to complement the various existing ASEAN initiatives.
 
-To do so, Singapore will partner the international community, Dialogue
-
-### Partners and ASEAN Member States
+To do so, Singapore will partner the international community, Dialogue Partners and ASEAN Member States
 
 15th ASEAN Telecommunications and Information Technology Ministers Meeting and Related Meetings
 

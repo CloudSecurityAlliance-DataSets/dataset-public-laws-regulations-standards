@@ -16,12 +16,17 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official government/institutional publication (europa.eu) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "European Union official publication (europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0).",
+    "notes": "European Union official publication (europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence",
-    "textUsed": "https://bdva.eu/wp-content/uploads/pdfs-legacy/AI-Position-Statement-BDVA-Final-12112018.pdf",
+    "textUsed": "https://publications.europa.eu/resource/cellar/22ee84bb-fa04-11e8-a96d-01aa75ed71a1.0002.03/DOC_1",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -34,19 +39,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://bdva.eu/wp-content/uploads/pdfs-legacy/AI-Position-Statement-BDVA-Final-12112018.pdf) from landing page (https://publications.europa.eu/resource/cellar/22ee84bb-fa04-11e8-a96d-01aa75ed71a1.0002.03/DOC_1); extracted 10-page PDF via PyMuPDF (33,456 chars). Parsed 19 sections (7 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://publications.europa.eu/resource/cellar/22ee84bb-fa04-11e8-a96d-01aa75ed71a1.0002.03/DOC_1) to Markdown (39,726 chars). Parsed 10 sections (9 with explicit section identifiers)."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
     }
   ],
   "scope": {},

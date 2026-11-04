@@ -285,15 +285,7 @@
     "section_name": "4.3.",
     "id_kind": "",
     "parent_id": "",
-    "body": "Testing of AI systems or models to determine performance and mitigate any risks\n\nCommit to rigorously testing the system against the acceptance criteria before deployment, documenting the results and deciding whether to deploy.\n\nKey concept: AI model testing verifies and validates an AI system’s underlying AI model(s). AI system testing verifies and validates the entire AI system, supporting expected behaviours in real-world scenarios.\n\n4.3.1. Develop and carry out a test plan that covers all acceptance criteria. The plan should specify the testing methods, tools and metrics your organisation will use, as well as the roles and responsibilities of the testing team.\n\n• The plan should include both model and system testing.\n\n• When evaluating and testing your models, use data that is representative of the use of the system, but that has not been used in the training of the system. Where they exist, use industry and community benchmarks or datasets.\n\n• Design evaluation and testing processes that account for the possibility that there are multiple acceptable and unacceptable outputs.\n\n• For general-purpose AI systems, such as those based on large language models, include adversarial testing procedures such as red teaming."
-  },
-  {
-    "depth": 3,
-    "section_id": "4.3.2",
-    "section_name": "Compile a complete test report, including:",
-    "id_kind": "numbered",
-    "parent_id": "",
-    "body": "• a summary of the testing goals\n\n• methods and metrics used\n\n• detailed results for each test case\n\n• an analysis of the root causes of any identified issues or failures\n\n• recommendations for remediation or improvement\n\n• whether the improvements should be done before deployment or as a future release.57\n\n4.3.3. Apply the organisational process for reviewing and approving the testing results to ensure the system meets all acceptance criteria before you deploy it.58 The system deployment authorisation must come from the person or people accountable for the AI system."
+    "body": "Testing of AI systems or models to determine performance and mitigate any risks\n\nCommit to rigorously testing the system against the acceptance criteria before deployment, documenting the results and deciding whether to deploy.\n\nKey concept: AI model testing verifies and validates an AI system’s underlying AI model(s). AI system testing verifies and validates the entire AI system, supporting expected behaviours in real-world scenarios.\n\n4.3.1. Develop and carry out a test plan that covers all acceptance criteria. The plan should specify the testing methods, tools and metrics your organisation will use, as well as the roles and responsibilities of the testing team.\n\n• The plan should include both model and system testing.\n\n• When evaluating and testing your models, use data that is representative of the use of the system, but that has not been used in the training of the system. Where they exist, use industry and community benchmarks or datasets.\n\n• Design evaluation and testing processes that account for the possibility that there are multiple acceptable and unacceptable outputs.\n\n• For general-purpose AI systems, such as those based on large language models, include adversarial testing procedures such as red teaming.\n\n4.3.2. Compile a complete test report, including:\n\n• a summary of the testing goals\n\n• methods and metrics used\n\n• detailed results for each test case\n\n• an analysis of the root causes of any identified issues or failures\n\n• recommendations for remediation or improvement\n\n• whether the improvements should be done before deployment or as a future release.57\n\n4.3.3. Apply the organisational process for reviewing and approving the testing results to ensure the system meets all acceptance criteria before you deploy it.58 The system deployment authorisation must come from the person or people accountable for the AI system."
   },
   {
     "depth": 3,
@@ -421,15 +413,7 @@
     "section_name": "Organisational-level stakeholder engagement",
     "id_kind": "numbered",
     "parent_id": "10",
-    "body": "Commit to engaging with stakeholders – people and groups – potentially impacted by AI systems.\n\n10.1.1. Identify and document which key stakeholder groups may be impacted by the organisation’s use of AI in line with your AI strategy.85"
-  },
-  {
-    "depth": 3,
-    "section_id": "10.1.2",
-    "section_name": "Identify and document the needs of these key stakeholder groups in relation to your AI strategy.86",
-    "id_kind": "numbered",
-    "parent_id": "10.1",
-    "body": "10.1.3. Identify and document which of the stakeholder needs your organisational-level AI policies and procedures will address.87\n\n10.1.4. Create processes to support ongoing engagement with stakeholders about their experience of AI systems. Make sure you identify any marginalised groups and support them appropriately. Equip stakeholders with the skills and tools necessary to give meaningful feedback."
+    "body": "Commit to engaging with stakeholders – people and groups – potentially impacted by AI systems.\n\n10.1.1. Identify and document which key stakeholder groups may be impacted by the organisation’s use of AI in line with your AI strategy.85\n\n10.1.2. Identify and document the needs of these key stakeholder groups in relation to your AI strategy.86\n\n10.1.3. Identify and document which of the stakeholder needs your organisational-level AI policies and procedures will address.87\n\n10.1.4. Create processes to support ongoing engagement with stakeholders about their experience of AI systems. Make sure you identify any marginalised groups and support them appropriately. Equip stakeholders with the skills and tools necessary to give meaningful feedback."
   },
   {
     "depth": 3,
@@ -445,23 +429,7 @@
     "section_name": "System-level stakeholders, points of human interaction and impact of",
     "id_kind": "numbered",
     "parent_id": "10",
-    "body": "potential-harm\n\nCommit to system-level stakeholder engagement and evaluation of potential harm.\n\nKey concept: Stakeholder engagement is effective in responsible AI system deployment, particularly when carried out at the earliest possible stages in the AI lifecycle and embedded throughout the end-to-end lifecycle."
-  },
-  {
-    "depth": 3,
-    "section_id": "10.3.1",
-    "section_name": "Identify and document where expected users interact with each AI system, including:",
-    "id_kind": "numbered",
-    "parent_id": "10.3",
-    "body": "• user interactions with the system or AI system-generated content\n\n• when the system processes an individual’s personal data\n\n• when the system makes or influences a decision about a person or group of people."
-  },
-  {
-    "depth": 3,
-    "section_id": "10.3.2",
-    "section_name": "Identify and document the stakeholder groups for each system.88",
-    "id_kind": "numbered",
-    "parent_id": "10.3",
-    "body": "10.3.3. For each identified interaction with a human, evaluate and document if the interaction has the potential to cause harm to an individual, group or society at large.89\n\n10.3.4. When this evaluation indicates that an AI system could harm people or groups, or pose a material risk to the organisation, perform and document an appropriate impact assessment.90"
+    "body": "potential-harm\n\nCommit to system-level stakeholder engagement and evaluation of potential harm.\n\nKey concept: Stakeholder engagement is effective in responsible AI system deployment, particularly when carried out at the earliest possible stages in the AI lifecycle and embedded throughout the end-to-end lifecycle.\n\n10.3.1. Identify and document where expected users interact with each AI system, including:\n\n• user interactions with the system or AI system-generated content\n\n• when the system processes an individual’s personal data\n\n• when the system makes or influences a decision about a person or group of people.\n\n10.3.2. Identify and document the stakeholder groups for each system.88\n\n10.3.3. For each identified interaction with a human, evaluate and document if the interaction has the potential to cause harm to an individual, group or society at large.89\n\n10.3.4. When this evaluation indicates that an AI system could harm people or groups, or pose a material risk to the organisation, perform and document an appropriate impact assessment.90"
   },
   {
     "depth": 3,

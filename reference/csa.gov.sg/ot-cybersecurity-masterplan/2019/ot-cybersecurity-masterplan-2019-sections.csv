@@ -127,8 +127,7 @@ Today, the extensive linkages among
 enterprise IT and OT networks, businesses, operators, vendors, and other third party systems have greatly increased the operational footprint of
 
 Robert M. Lee CEO and Founder, Dragos, Inc., American ICS cybersecurity company"
-"3","","“As a community we have moved beyond the","","","land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise"
-"3","","OT cybersecurity and it is a winnable battle.”","","",""
+"3","","“As a community we have moved beyond the","","","land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise OT cybersecurity and it is a winnable battle.”"
 "2","","OT CYBER THREAT","","",""
 "2","","LANDSCAPE","","",""
 "3","","In the past, malicious cyber activities were limited","","","to website defacement, data theft and cyber-fraud."
@@ -148,8 +147,9 @@ out these cyber-attacks adopt vastly different modus operandi from the run-of-th
 
 campaigns to steal information or disrupt operations. Furthermore, the proliferation of smart technologies and the increased digitalisation of industrial system environments introduce a wider attack surface for APT groups to conduct their cyber campaigns."
 "2","","HOW THESE GLOBAL OT CYBER TRENDS AFFECT SINGAPORE","","","Shinichi Yokohama Chief Information Security Officer, NTT Corporation, Japanese telecommunications company"
-"3","","“World-wide, attacks that aim service","","","sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes"
-"3","","top-down action taking is critically important.”","","","APT groups that carry out cyber-
+"3","","“World-wide, attacks that aim service","","","sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes top-down action taking is critically important.”
+
+APT groups that carry out cyber-
 
 attacks are of grave concern globally. Singapore is not immune to this threat. As Singapore transforms itself into a Smart Nation – a hyper-connected country that deploys smart technologies to enhance the quality of life for every citizen – our livelihood and economy will increasingly depend upon and be impacted by the digital domain.
 
@@ -166,8 +166,7 @@ these systems toward ensuring a robust and resilient Smart Nation."
 "3","","(‘Masterplan’), as part of its","","",""
 "3","","continuous efforts to enhance the","","",""
 "3","","security and resilience of Singapore’s","","",""
-"3","","“CII sectors delivering essential services are","","","facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges"
-"3","","faced by CII sectors operating OT systems.”","","",""
+"3","","“CII sectors delivering essential services are","","","facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges faced by CII sectors operating OT systems.”"
 "3","","essential service sectors, improve","","",""
 "3","","cross-sector response to mitigate","","",""
 "3","","cyber threats in the OT environment,","","",""
@@ -312,8 +311,9 @@ trends of different cyber-attacks on ICS facilities and OT cybersecurity ethical
 Credit: Global Resilience Federation: Strengthen Your Defense Strategy.
 
 Donnie W. Wilburn IT Risk Management Manager, ExxonMobil Global Services Company, American oil and gas company"
-"3","","“Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar","","","to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and"
-"3","","complex area that it takes effective collaboration across all business areas to stay ahead of threats.”","","","GRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.
+"3","","“Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar","","","to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and complex area that it takes effective collaboration across all business areas to stay ahead of threats.”
+
+GRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.
 
 To enhance information sharing and
 
@@ -439,15 +439,13 @@ Hiroshi Tanoguchi Head of Lifecycle Service Business Division, IA Systems & Serv
 In the water and energy sectors,
 
 prototypes to detect anomalous activities and formulate mitigation responses for OT systems were developed, based on machine learning technology."
-"3","","“There is no perfect countermeasure in terms","","","of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having"
-"3","","a serious incident is our key focus now.”","","",""
+"3","","“There is no perfect countermeasure in terms","","","of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having a serious incident is our key focus now.”"
 "2","","OT CYBERSECURITY DETECTION AND MONITORING CAPABILITIES","","","Mr Ngiam Shih Chun Chief Executive, Energy Market Authority, Singapore’s energy industry regulator
 
 A critical aspect of strengthening the OT
 
 cybersecurity posture in Singapore involves constant, robust monitoring of network activities within CII, and swift and decisive responses in the event anomalous activity is detected. This requires putting in place Security Operations Centres (SOCs) at the sectoral level to oversee, monitor and coordinate cybersecurity efforts between Government agencies and CII owners."
-"3","","“The power system is a complex","","","and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and"
-"3","","resilience of our systems.”","","",""
+"3","","“The power system is a complex","","","and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and resilience of our systems.”"
 "3","","All CII sectors who operate OT systems are developing or have","","",""
 "3","","in place sectoral SOCs suited toward their respective operating","","",""
 "3","","environments, with three examples highlighted below:","","","Since 2017, the Energy

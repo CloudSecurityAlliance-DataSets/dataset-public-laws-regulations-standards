@@ -90,31 +90,7 @@ ness in the future.
 
 ## • We will further develop our existing Centres of Excellence for AI at supra-regional level, establish additional ones,
 
-and develop them into a national network of at least twelve centres and application hubs. As we do so, we will be offering working conditions and remuneration that are internationally attractive and competitive. We will launch a programme to support junior researchers and to reinforce academic teaching in the field of AI. We want to create at least 100 additional professorships for AI to ensure that AI has a strong foothold within the higher education system.
-
-## • Working with France, we will drive forward the development of a Franco-German research and development
-
-network (“virtual centre”) that is based on existing structures and the particular skills offered by each of the two countries. • We will make AI one of the priorities for the envisaged Agency for Breakthrough Innovations.
-
-## • We will form a European innovation cluster providing funding for cooperative research projects over the
-
-next five years.
-
-## • We will increase our AI-specific support for small and medium-sized companies. The Mittelstand 4.0 centres
-
-of excellence will have ‘AI trainers’ contact at least 1,000 companies per year. • The Federal Government wants to help companies establish test beds.
-
-## • The EXIST (Business Start-ups in Science) programme’s budget for 2019 will be twice as high as in the previous
-
-years.
-
-## • We are creating new funding opportunities for venture capital and venture debt and will launch a Tech Growth
-
-Fund Initiative. • We are further expanding our advisory and funding services targeted at start-ups.
-
-## • The Federal Government will improve incentives and the policy framework for the voluntary sharing of data in
-
-compliance with data protection rules, and will progress the establishment of a trustworthy data and analysis infrastructure including the building of a cloud platform with upgradable storage and computing capacity on which this infrastructure can be run.
+and develop them into a national network of at least twelve centres and application hubs. As we do so, we will be offering working conditions and remuneration that are internationally attractive and competitive. We will launch a programme to support junior researchers and to reinforce academic teaching in the field of AI. We want to create at least 100 additional professorships for AI to ensure that AI has a strong foothold within the higher education system. • Working with France, we will drive forward the development of a Franco-German research and development network (“virtual centre”) that is based on existing structures and the particular skills offered by each of the two countries. • We will make AI one of the priorities for the envisaged Agency for Breakthrough Innovations. • We will form a European innovation cluster providing funding for cooperative research projects over the next five years. • We will increase our AI-specific support for small and medium-sized companies. The Mittelstand 4.0 centres of excellence will have ‘AI trainers’ contact at least 1,000 companies per year. • The Federal Government wants to help companies establish test beds. • The EXIST (Business Start-ups in Science) programme’s budget for 2019 will be twice as high as in the previous years. • We are creating new funding opportunities for venture capital and venture debt and will launch a Tech Growth Fund Initiative. • We are further expanding our advisory and funding services targeted at start-ups. • The Federal Government will improve incentives and the policy framework for the voluntary sharing of data in compliance with data protection rules, and will progress the establishment of a trustworthy data and analysis infrastructure including the building of a cloud platform with upgradable storage and computing capacity on which this infrastructure can be run.
 
 2. We want a responsible development and use of AI which serves the good of society.
 
@@ -132,15 +108,7 @@ of instruments to foster the skills of the workforce.
 
 ## • The Federal Government will use the results of a new skills monitoring to inform and develop its
 
-Skilled Labour Strategy in the fields of digital skills and new technologies such as AI.
-
-## • The Federal Government will safeguard the possibilities for works councils to engage in co-determination
-
-when it comes to the introduction and use of AI. • We will fund in-company innovation spaces for AI applications in the world of work.
-
-## • We will fund AI applications to benefit the environment and the climate, and will develop assessment
-
-principles for this. Our goal is to initiate 50 flagship applications in this field.
+Skilled Labour Strategy in the fields of digital skills and new technologies such as AI. • The Federal Government will safeguard the possibilities for works councils to engage in co-determination when it comes to the introduction and use of AI. • We will fund in-company innovation spaces for AI applications in the world of work. • We will fund AI applications to benefit the environment and the climate, and will develop assessment principles for this. Our goal is to initiate 50 flagship applications in this field.
 
 ### 3. We will integrate AI in society in ethical, legal, cultural and institutional terms in the context of a broad societal
 
@@ -148,19 +116,7 @@ dialogue and active political measures.
 
 ## • The Federal Government will invite data protection authorities and business associations for a round table
 
-and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples.
-
-## • The Federal Government is providing funding for the development of innovative applications that support
-
-self-determination, social inclusion, cultural participation and the protection of citizens’ privacy.
-
-## • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit
-
-und Gesellschaft) to get the message out and to promote multidisciplinary social technology design.
-
-## • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence
-
-Platform that hosts a dialogue between government, science and commerce with civil society.
+and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples. • The Federal Government is providing funding for the development of innovative applications that support self-determination, social inclusion, cultural participation and the protection of citizens’ privacy. • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit und Gesellschaft) to get the message out and to promote multidisciplinary social technology design. • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence Platform that hosts a dialogue between government, science and commerce with civil society.
 
 ### 1. Goals
 
@@ -388,15 +344,7 @@ Harness the potential of AI for the environment, resources and the climate
 
 Digital technologies can make a significant contribution to the protection of our environment, our resources, our climate and biodiversity, and to cleaning up our air, soil and water. The manifold opportunities associated with AI-based innovations come with a responsibility to keep in check potential risks, such as rising demand for energy, rebound effects or a lack of resource security.
 
-For this reason, the Federal Government will step up research into AI technology and data-based applications for social and environmental change and also develop criteria for assessing the environmental impact of AI, thus paving the way for environmentally-friendly applications to be developed. To this end, we will
-
-## • support AI applications designed to protect the environment, the climate and natural resources; this support
-
-will come in the form of funding and financing schemes for the development and deployment of these applications (target: 50 flagship applications);
-
-## • build a cloud for environmental data to ensure that valid access to this data is available to scientists, businesses
-
-and society in a transparent way, and to enable the development of AI applications centred on the needs of human beings and our environment.
+For this reason, the Federal Government will step up research into AI technology and data-based applications for social and environmental change and also develop criteria for assessing the environmental impact of AI, thus paving the way for environmentally-friendly applications to be developed. To this end, we will • support AI applications designed to protect the environment, the climate and natural resources; this support will come in the form of funding and financing schemes for the development and deployment of these applications (target: 50 flagship applications); • build a cloud for environmental data to ensure that valid access to this data is available to scientists, businesses and society in a transparent way, and to enable the development of AI applications centred on the needs of human beings and our environment.
 
 ## 3.2 Innovation competitions and European innovation clusters
 

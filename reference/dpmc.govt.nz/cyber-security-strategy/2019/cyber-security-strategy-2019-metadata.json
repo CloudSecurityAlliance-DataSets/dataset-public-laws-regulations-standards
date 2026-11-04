@@ -16,7 +16,12 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "note": "Official government/institutional publication (dpmc.govt.nz) licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
+    "notes": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 17-page PDF (https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf) locally via PyMuPDF (29,212 chars). Parsed 50 sections (1 with explicit section identifiers)."
+    "notes": "Extracted 17-page PDF (https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf) locally via PyMuPDF (29,204 chars). Parsed 48 sections (1 with explicit section identifiers)."
   },
   "extraction_history": [
     {

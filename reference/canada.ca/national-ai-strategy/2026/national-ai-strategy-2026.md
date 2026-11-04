@@ -336,15 +336,11 @@ Canada’s new AI Strategy will:
 
 ## Protecting Canadians and Safeguarding our Democracy
 
-AI will only deliver on its promise if Canadians trust it. That requires modern privacy and online safety laws, strong national AI safety capabilities, and secure government systems.
-
-## Pillar 2:
+AI will only deliver on its promise if Canadians trust it. That requires modern privacy and online safety laws, strong national AI safety capabilities, and secure government systems. Pillar 2:
 
 ## Empowering Canadians
 
-Canada must become an AI skills nation, where AI creates good jobs for Canadians by giving access to AI training and education for all Canadians, and by representing and including Canadian voices, languages, and culture.
-
-## Pillar 3:
+Canada must become an AI skills nation, where AI creates good jobs for Canadians by giving access to AI training and education for all Canadians, and by representing and including Canadian voices, languages, and culture. Pillar 3:
 
 ## Powering Shared Prosperity
 
@@ -354,15 +350,11 @@ The gains of AI will come from putting it to work across the Canadian economy an
 
 ## Building the Canadian Sovereign AI Foundation
 
-AI for All will support the building of sovereign compute infrastructure at scale — resilient, sustainable, and under Canadian governance, and grow Canada’s exceptional AI researchers and talent pool.
-
-## Pillar 5:
+AI for All will support the building of sovereign compute infrastructure at scale — resilient, sustainable, and under Canadian governance, and grow Canada’s exceptional AI researchers and talent pool. Pillar 5:
 
 ## Scaling Canadian Champions
 
-To scale great AI companies in Canada, AI for All will unlock growth capital and leverage government as a strategic anchor customer.
-
-## Pillar 6:
+To scale great AI companies in Canada, AI for All will unlock growth capital and leverage government as a strategic anchor customer. Pillar 6:
 
 ## Building Trusted Partnerships and Global Alliances
 
@@ -568,11 +560,7 @@ The goal is not simply to introduce more technology into the workplace. It is to
 
 Canada will create up to 90,000 AI-related job oppor-tunities, including 45,000 through the Student Work Placement Program and Canada Summer Jobs, 35,000 through other initiatives such as the Skills for Success Program, and 10,000 through the Mitacs ADOPT and AI+X programs.
 
-Canada will assess training and upskill offerings for mid-career workers, including in skilled trades, to scale-up employer-led training nationwide with a strong
-
-### priority on AI-related skills. This will also include work
-
-with colleges, CÉGEPs and polytechnics as applied AI leaders to leverage regional reach, applied research capacity, and SME partnerships to deliver hands-on adoption and improve workforce productivity.
+Canada will assess training and upskill offerings for mid-career workers, including in skilled trades, to scale-up employer-led training nationwide with a strong priority on AI-related skills. This will also include work with colleges, CÉGEPs and polytechnics as applied AI leaders to leverage regional reach, applied research capacity, and SME partnerships to deliver hands-on adoption and improve workforce productivity.
 
 Canada will accelerate AI literacy across female-domi-nated sectors most exposed to early disruption through the existing Women’s Program — unlocking new eco-nomic opportunities, softening transition shocks, and confronting AI-fueled online abuse that disproportion-ately targets women.
 
@@ -592,15 +580,9 @@ There has been considerable evidence of the dispropor-tionate exposure and impac
 
 By supporting Indigenous leaders, researchers, and pol-icymakers from around the world to ensure Indigenous peoples have agency in shaping AI development locally and internationally, Canada can coordinate research, develop shared AI training standards for Indigenous data, support the development of community-level AI capacity and applications such as language models, land manage-ment tools, and cultural heritage systems.
 
-Canada will work with Indigenous communities to ensure AI tools designed and built here protect Indigenous cultural and linguistic expression, support Indigenous self-determination over how AI is built and used in Indige-nous contexts, and build domestic capacity to address the specific harms Indigenous Peoples face.
+Canada will work with Indigenous communities to ensure AI tools designed and built here protect Indigenous cultural and linguistic expression, support Indigenous self-determination over how AI is built and used in Indige-nous contexts, and build domestic capacity to address the specific harms Indigenous Peoples face. Key Actions
 
-## Key Actions
-
-Canada will support and amplify Indigenous-led AI
-
-### initiatives that reinforce cultural expression and linguis-
-
-tic vitality in Canada and around the world, building on existing efforts such as the Indigenous Languages Pro-gram at Canadian Heritage, the Indigenous Languages Technology Program at the National Research Council, and First Languages AI Reality at Mila.
+Canada will support and amplify Indigenous-led AI initiatives that reinforce cultural expression and linguis-tic vitality in Canada and around the world, building on existing efforts such as the Indigenous Languages Pro-gram at Canadian Heritage, the Indigenous Languages Technology Program at the National Research Council, and First Languages AI Reality at Mila.
 
 ## Ensure AI reflects Canadian Identity, Culture, and Inclusion
 
@@ -654,11 +636,7 @@ Canadian businesses are essential to turning AI innovation into real economic gr
 
 Businesses and not-for-profit organizations need to move from experimentation to impact through hands‑on support, practical advice, and sector-specific expertise and roadmaps. Access to financing will help them invest in AI tools, software, and equipment that improve productivity and competitiveness.
 
-Canada will utilize the LIFT program, a $500 million
-
-### initiative from the Business Development Bank of
-
-Canada (BDC) to help Canadian SMEs access financing to incorporate AI tools in their operations.
+Canada will utilize the LIFT program, a $500 million initiative from the Business Development Bank of Canada (BDC) to help Canadian SMEs access financing to incorporate AI tools in their operations.
 
 Canada will invest $500 million to expand and enhance the Regional Artificial Intelligence Initiative delivered through Regional Development Agencies to accelerate adoption and commercialization of AI across the country.
 

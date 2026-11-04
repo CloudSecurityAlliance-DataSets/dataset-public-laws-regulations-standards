@@ -16,7 +16,12 @@
   "license": {
     "spdx": "KOGL-Type-1",
     "Grouping": "Permissive",
-    "note": "Korea Open Government License (KOGL) Type 1: Attribution."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
+    "note": "Korea Open Government License (KOGL) Type 1: Attribution.",
+    "notes": "Korea Open Government License (KOGL) Type 1: Attribution."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 33-page PDF (https://www.korea.kr/common/download.do?fileId=190113953&tblKey=GMN) locally via PyMuPDF (14,115 chars). Parsed 23 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 33-page PDF (https://www.korea.kr/common/download.do?fileId=190113953&tblKey=GMN) locally via PyMuPDF (14,115 chars). Parsed 23 sections (4 with explicit section identifiers)."
   },
   "extraction_history": [
     {

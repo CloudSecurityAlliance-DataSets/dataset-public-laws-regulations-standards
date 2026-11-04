@@ -5654,9 +5654,7 @@ developed to significantly improve our disaster management capabilities.
 
 Global Pivotal State for Freedom, Peace, and Prosperity 147
 
-The Yoon Suk Yeol Administration’s
-
-## National Security Strategy
+The Yoon Suk Yeol Administration’s National Security Strategy
 
 Global Pivotal State for Freedom, Peace, and Prosperity
 

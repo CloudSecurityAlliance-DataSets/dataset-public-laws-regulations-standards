@@ -279,10 +279,13 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
         if sz >= body_size + 1.2:
             return 3
         if (is_bold or sz > body_size) and re.match(
-            r"^(PART|CHAPTER|SECTION|PILLAR|ANNEX|APPENDIX|STRATEGIC OBJECTIVE|OBJECTIVE|IMPLEMENTATION\s+\d|INITIATIVE|GOAL|PRIORITY|EXECUTIVE SUMMARY|INTRODUCTION|CONCLUSION|[IVX]+\.\s*\S*|[0-9]+(\.[0-9]+)+\.?$|[0-9]+(\.[0-9]+)+\.?\s+[A-Z]|[0-9]+\.\s+[A-Z])",
+            r"^(?:PART|CHAPTER|SECTION|PILLAR|ANNEX|APPENDIX|STRATEGIC OBJECTIVE|OBJECTIVE|IMPLEMENTATION\s+\d|INITIATIVE|GOAL|PRIORITY|EXECUTIVE SUMMARY|FOREWORD|INTRODUCTION|CONCLUSION|OVERVIEW|BACKGROUND|ABBREVIATIONS|DEFINITIONS|(?:[IVX]{1,4}|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ])(?:\.\s*\S*|\s+[A-Z])|[0-9]+(\.[0-9]+)+\.?$|[0-9]+(\.[0-9]+)+\.?\s+[A-Z]|[0-9]{1,2}\.\s+[A-Z]|\([0-9]{1,2}\)\s+[A-Z]|\([ivx]{1,4}\)\s+[A-Z])",
             l_text,
-            re.I,
         ):
+            if re.match(r"^(?:PART|CHAPTER|SECTION|PILLAR|(?:[IVX]{1,4}|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ])(?:\.|\s+)[A-Z])", l_text):
+                return 2
+            if re.match(r"^\((?:[0-9]{1,2}|[ivx]{1,4})\)\s+[A-Z]", l_text):
+                return 4
             return 3
         return None
 
@@ -396,15 +399,22 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
                 para_parts.append(f"**{first_txt}:**")
                 continue
 
-            # If a multi-line block is at body font size and has non-bold continuation lines, treat the entire block as body text
-            is_multiline_body_block = (
-                len(b_lines) >= 2
-                and all(sz <= body_size + 0.5 for _, sz, _ in b_lines)
-                and any(not b_bold for _, _, b_bold in b_lines[1:])
-            )
+            # Track whether we have entered non-bold body lines in a multi-line body-size block
+            seen_body_line_in_block = False
 
             for l_text, max_sz, is_bold in b_lines:
-                h_lvl = None if is_multiline_body_block else classify_line(l_text, max_sz, is_bold, on_toc_page)
+                if not is_bold and max_sz <= body_size + 0.5:
+                    seen_body_line_in_block = True
+                allow_heading = (not seen_body_line_in_block) or (
+                    is_bold
+                    and bool(
+                        re.match(
+                            r"^(?:(?:PART|CHAPTER|SECTION|PILLAR|ANNEX|APPENDIX)\s+\S+|(?:[IVX]{1,4}|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ])(?:\.|\s+)[A-Z]|\d{1,2}(?:\.\d{1,2})*\.\s+[A-Z]|\(\d{1,2}\)\s+[A-Z]|\([ivx]{1,4}\)\s+[A-Z])",
+                            l_text,
+                        )
+                    )
+                )
+                h_lvl = classify_line(l_text, max_sz, is_bold, on_toc_page) if allow_heading else None
                 if h_lvl is not None:
                     flush_para()
                     if pending_heading_lvl is not None and (
@@ -499,25 +509,33 @@ def write_metadata(
             "retiredFromActiveUse": None if active else retired_date,
             "notes": "",
         },
-        "current_extraction": {
-            "s3_timestamp": S3_TIMESTAMP,
-            "tool": tool_str,
-            "tool_version": "1.0",
-            "extraction_host": "local",
-            "flags": [],
-            "force_ocr": False,
-            "notes": extraction_notes,
-        },
-        "extraction_history": [
+        "current_extraction": (
             {
                 "s3_timestamp": S3_TIMESTAMP,
-                "status": "current",
-                "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
                 "tool": tool_str,
+                "tool_version": "1.0",
+                "extraction_host": "local",
+                "flags": [],
+                "force_ocr": False,
+                "notes": extraction_notes,
             }
-        ],
+            if tool_str
+            else None
+        ),
+        "extraction_history": (
+            [
+                {
+                    "s3_timestamp": S3_TIMESTAMP,
+                    "status": "current",
+                    "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+                    "tool": tool_str,
+                }
+            ]
+            if tool_str
+            else []
+        ),
         "scope": {},
-        "notes": "",
+        "notes": "" if tool_str else extraction_notes,
         "desired_end_state": {
             "state": end_state,
             "reason": end_reason,

@@ -254,7 +254,7 @@ address new and emerging cyber-threats.
 
 accessible, peaceful, and interoperable cyberspace.
 
-OVERVIEW
+### OVERVIEW
 
 A TRUSTED AND RESILIENT CYBERSPACE
 
@@ -262,13 +262,9 @@ A TRUSTED AND RESILIENT CYBERSPACE
 
 ## • Enable a coordinated approach to national
 
-cybersecurity with CIIs at its core
+cybersecurity with CIIs at its core • Ensure government systems are secure
 
-## • Ensure government systems are secure
-
-and resilient
-
-## • Safeguard important entities and systems
+and resilient • Safeguard important entities and systems
 
 beyond CIIs
 
@@ -278,9 +274,7 @@ beyond CIIs
 
 and applications that power our digital
 
-economy
-
-## • Safeguard our cyberspace activities • Empower our cyber-savvy population
+economy • Safeguard our cyberspace activities • Empower our cyber-savvy population
 
 for a healthy digital way of life
 
@@ -290,23 +284,19 @@ for a healthy digital way of life
 
 implementation of voluntary, non-binding
 
-norms, which sit alongside international law
-
-## • Strengthen the global cybersecurity
+norms, which sit alongside international law • Strengthen the global cybersecurity
 
 posture through capacity-building
 
 initiatives and the development of technical
 
-and interoperable cybersecurity standards
-
-## • Contribute to international efforts to
+and interoperable cybersecurity standards • Contribute to international efforts to
 
 combat cross-border cyber threats
 
 STRATEGIC
 
-### PILLARS
+## PILLARS
 
 FOUNDATIONAL
 
@@ -324,21 +314,13 @@ for economic growth and national
 
 career professionals to pursue a
 
-security
+security • Innovate to build world-class
 
-## • Innovate to build world-class
+cybersecurity career • Create an upskilling culture for a
 
-cybersecurity career
+products and services • Grow our cybersecurity market
 
-## • Create an upskilling culture for a
-
-products and services
-
-## • Grow our cybersecurity market
-
-globally competitive workforce
-
-## • Foster a dynamic sector with strong
+globally competitive workforce • Foster a dynamic sector with strong
 
 professional communities
 
@@ -694,9 +676,7 @@ Strengthen the security of CIIs by:
 
 ## • Adopting a risk-based
 
-towards cybersecurity
-
-## • Incorporating cybersecurity
+towards cybersecurity • Incorporating cybersecurity
 
 with cybersecurity skills and
 
@@ -704,25 +684,19 @@ approach towards
 
 knowledge to build secure-
 
-cybersecurity
+cybersecurity • Incorporating cybersecurity
 
 by-design software and
 
 in my enterprise’s risk
 
-hardware products
+hardware products • Applying to get my
 
-## • Applying to get my
-
-management framework
-
-## • Leveraging the CII Supply Chain
+management framework • Leveraging the CII Supply Chain
 
 in my organisation’s risk
 
-management framework
-
-## • Applying for the SG Cyber
+management framework • Applying for the SG Cyber
 
 products certified under
 
@@ -730,17 +704,13 @@ Programme to manage vendor
 
 the Cybersecurity Labelling
 
-cybersecurity risks
-
-## • Using the Operational
+cybersecurity risks • Using the Operational
 
 Safe Trustmark for my
 
 Scheme
 
-organisation
-
-## • Using the resources and
+organisation • Using the resources and
 
 Technology (OT) Cybersecurity
 
@@ -814,25 +784,19 @@ Programme to develop
 
 such as the Youth Cyber
 
-SG Cyber Safe campaigns
-
-## • Using the appropriate
+SG Cyber Safe campaigns • Using the appropriate
 
 advanced cybersecurity
 
 Exploration Programme or
 
-capabilities
-
-## • Leveraging initiatives such
+capabilities • Leveraging initiatives such
 
 the Cybersecurity Career
 
 cybersecurity solutions to
 
-Mentoring Programme
-
-## • Participating in cyber
+Mentoring Programme • Participating in cyber
 
 protect my devices
 
@@ -846,9 +810,7 @@ innovative cybersecurity
 
 the SG Cyber Olympians
 
-solutions
-
-## • Working with local industry
+solutions • Working with local industry
 
 programme
 

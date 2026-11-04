@@ -16,7 +16,12 @@
   "license": {
     "spdx": "OGL-Canada-2.0",
     "Grouping": "Permissive",
-    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
+    "notes": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 50-page PDF (https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf) locally via PyMuPDF (90,708 chars). Parsed 107 sections (17 with explicit section identifiers)."
+    "notes": "Extracted 50-page PDF (https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf) locally via PyMuPDF (90,669 chars). Parsed 99 sections (17 with explicit section identifiers)."
   },
   "extraction_history": [
     {

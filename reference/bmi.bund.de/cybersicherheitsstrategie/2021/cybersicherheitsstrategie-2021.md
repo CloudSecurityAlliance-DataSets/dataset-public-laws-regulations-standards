@@ -548,7 +548,7 @@ To assess the success of the 2021 Cyber Security Strategy, target achievement wi
 
 The 2021 Cyber Security Strategy differentiates between strategic objectives and operational measures:
 
-### Strategic objectives
+Strategic objectives
 
 The strategic objectives are SMART (specific, measurable, actionable, realistic and time-bound) objectives within an action area that are to be achieved as part of the implementation of the Cyber Security Strategy. They address the challenges in the action area and outline the state of affairs which is to be reached by implementing the strategy. Strategic objectives are formulated in a way that is specific and concrete, so that they are verifiable. In addition, indicators are defined for each strategic objective so that its achievement can be measured. Generally, it should be possible to attain the strategic objectives in a period of five years.
 

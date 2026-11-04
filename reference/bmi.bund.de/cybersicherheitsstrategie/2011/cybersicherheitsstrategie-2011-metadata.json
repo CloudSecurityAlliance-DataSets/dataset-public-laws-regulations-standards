@@ -16,7 +16,12 @@
   "license": {
     "spdx": "dl-de-by-2.0",
     "Grouping": "Permissive",
-    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.govdata.de/dl-de/by-2-0",
+    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
+    "notes": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 10-page PDF (https://www.enisa.europa.eu/sites/default/files/all_files/cyber_eng.pdf) locally via PyMuPDF (21,441 chars). Parsed 7 sections (6 with explicit section identifiers)."
+    "notes": "Extracted 10-page PDF (https://www.enisa.europa.eu/sites/default/files/all_files/cyber_eng.pdf) locally via PyMuPDF (21,172 chars). Parsed 11 sections (10 with explicit section identifiers)."
   },
   "extraction_history": [
     {

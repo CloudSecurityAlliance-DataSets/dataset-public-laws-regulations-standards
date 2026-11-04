@@ -348,7 +348,7 @@ Designed to deter a potential adversary from taking actions that would be inimic
 
 3.5 The Strategy of Denial requires a re-weighting of the three prevailing strategic defence objectives:
 
-###  Shape Australia’s strategic environment;
+ Shape Australia’s strategic environment;
 
  Deter actions against Australia’s interests; and
 

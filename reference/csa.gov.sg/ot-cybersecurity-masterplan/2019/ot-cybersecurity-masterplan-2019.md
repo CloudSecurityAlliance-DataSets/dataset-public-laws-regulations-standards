@@ -162,9 +162,7 @@ Robert M. Lee CEO and Founder, Dragos, Inc., American ICS cybersecurity company
 
 ### “As a community we have moved beyond the
 
-land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise
-
-### OT cybersecurity and it is a winnable battle.”
+land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise OT cybersecurity and it is a winnable battle.”
 
 ## OT CYBER THREAT
 
@@ -212,9 +210,7 @@ Shinichi Yokohama Chief Information Security Officer, NTT Corporation, Japanese 
 
 ### “World-wide, attacks that aim service
 
-sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes
-
-### top-down action taking is critically important.”
+sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes top-down action taking is critically important.”
 
 APT groups that carry out cyber-
 
@@ -246,9 +242,7 @@ Lim Thian Chin Director, Critical Information Infrastructure (CII), Cyber Securi
 
 ### “CII sectors delivering essential services are
 
-facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges
-
-### faced by CII sectors operating OT systems.”
+facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges faced by CII sectors operating OT systems.”
 
 ### essential service sectors, improve
 
@@ -476,9 +470,7 @@ Donnie W. Wilburn IT Risk Management Manager, ExxonMobil Global Services Company
 
 ### “Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar
 
-to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and
-
-### complex area that it takes effective collaboration across all business areas to stay ahead of threats.”
+to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and complex area that it takes effective collaboration across all business areas to stay ahead of threats.”
 
 GRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.
 
@@ -628,9 +620,7 @@ prototypes to detect anomalous activities and formulate mitigation responses for
 
 ### “There is no perfect countermeasure in terms
 
-of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having
-
-### a serious incident is our key focus now.”
+of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having a serious incident is our key focus now.”
 
 ## OT CYBERSECURITY DETECTION AND MONITORING CAPABILITIES
 
@@ -642,9 +632,7 @@ cybersecurity posture in Singapore involves constant, robust monitoring of netwo
 
 ### “The power system is a complex
 
-and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and
-
-### resilience of our systems.”
+and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and resilience of our systems.”
 
 ### All CII sectors who operate OT systems are developing or have
 

@@ -674,11 +674,7 @@ DÉVELOPPER UNE STRATÉGIE INCLUSIVE EN EUROPE ET AVEC LES ÉTATS-UNIS
 
 • après le Brexit, un dialogue constructif sur la base des traités bilatéraux doit être rapidement rétabli avec le Royaume-Uni.
 
-165) Avec les États-Unis, notre partenariat stratégique restera fondamental, et doit demeurer à la fois ambitieux, lucide et pragmatique.
-
-### 1.2
-
-CONTRIBUER À LA SÉCURITÉ EN AFRIQUE DANS LE CADRE DE PARTENARIATS ÉQUILIBRÉS
+165) Avec les États-Unis, notre partenariat stratégique restera fondamental, et doit demeurer à la fois ambitieux, lucide et pragmatique. 1.2 CONTRIBUER À LA SÉCURITÉ EN AFRIQUE DANS LE CADRE DE PARTENARIATS ÉQUILIBRÉS
 
 166) Face à l’évolution de la menace terroriste et aux influences croissantes de nos compétiteurs stratégiques sur tout le continent, la France souhaite nouer avec l’Afrique des partenariats rénovés bâtis sur la demande des partenaires africains et intégrant davantage les aspects civils de coopération selon un continuum sécurité, défense, diplomatie, développement, comme déclaré dès l’été 2017. Ceux-ci devront contribuer à une prise en compte mieux maîtrisée des
 

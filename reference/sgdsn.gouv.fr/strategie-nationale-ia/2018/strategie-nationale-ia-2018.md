@@ -34,13 +34,11 @@ Nous avons d’ailleurs l’intention de compléter ce rapport – rédigé pour
 
 C’est dans la synergie, nous en sommes convaincus, que notre nation, et notre continent, pourront se lancer avec confiance et détermination dans cette révolution naissante.
 
-### Introduction page 8
+Introduction page 8
 
 Synthèse page 14
 
-### Partie 1 –
-
-Une politique économique articulée autour de la donnée page 24
+Partie 1 – Une politique économique articulée autour de la donnée page 24
 
 Renforcer l’écosystème européen de la donnée page 26
 
@@ -112,9 +110,7 @@ Créer un pôle de compétences mutualisées en IA dans l’État page 63
 
 Intégrer l’IA dans la stratégie numé­ rique de l’État page 64
 
-### Partie 2 –
-
-Pour une recherche agile et diffu­ sante page 72
+Partie 2 – Pour une recherche agile et diffu­ sante page 72
 
 Créer un réseau d’Instituts Interdisci-plinaires d’Intelligence Artificielle
 
@@ -160,9 +156,7 @@ Encourager la création de startups par les chercheurs page 92
 
 Encourager par le co-financement la création de chaires industrielles page 92
 
-### Partie 3 –
-
-Anticiper et maîtriser les impacts sur le travail et l’emploi page 100
+Partie 3 – Anticiper et maîtriser les impacts sur le travail et l’emploi page 100
 
 Anticiper les impacts sur l’emploi et expérimenter page 107
 
@@ -200,9 +194,7 @@ Multiplier par trois le nombre de per­ sonnes formées en IA page 119
 
 Renforcer l’éducation en mathéma­ tiques et en informatique page 121
 
-### Partie 4 –
-
-L’intelligence artificielle au service d’une économie plus écologique
+Partie 4 – L’intelligence artificielle au service d’une économie plus écologique
 
 page 122
 
@@ -228,9 +220,7 @@ Libérer la donnée publique page 131
 
 Libérer la donnée privée page 131
 
-### Partie 5 –
-
-Quelle éthique de l’IA ? page 138
+Partie 5 – Quelle éthique de l’IA ? page 138
 
 Ouvrir la boîte noire page 140
 
@@ -240,7 +230,7 @@ Développer l’évaluation citoyenne des IA page 144
 
 Soutenir la recherche sur l’explica­ bilité page 145
 
-### Penser l’éthique dès la conception
+Penser l’éthique dès la conception
 
 page 146
 
@@ -266,7 +256,7 @@ Une gouvernance spécifique de l’éthique en intelligence artificielle
 
 page 155
 
-### Partie 6 –
+Partie 6 –
 
 Pour une intelligence artificielle inclusive et diverse page 162
 
@@ -2768,9 +2758,7 @@ Plus que jamais, la révolution provoquée par le développement des usages et s
 
 1. Voir le rapport Greenpeace Clicking Clean : Who is winning the race to build a green internet ?
 
-2. Voir le rapport de 2015 de l’industrie du semi conducteur américaine : rebooting the IT revolution, a call to action
-
-## D’ici 2040, l’énergie requise pour les besoins en calcul devrait également dépasser la production
+2. Voir le rapport de 2015 de l’industrie du semi conducteur américaine : rebooting the IT revolution, a call to action D’ici 2040, l’énergie requise pour les besoins en calcul devrait également dépasser la production
 
 Par ailleurs, d’ici 2040, l’énergie requise pour les besoins en calcul devrait également dépasser la production énergétique mondiale. Les progrès de
 
@@ -4530,7 +4518,7 @@ Viser simplement un objectif d’ouverture généralisée des données agricoles
 
 Cependant pour que la mutualisation produise des effets tangibles, les données mises à disposition devront servir à alimenter un guichet d’accès aux données ouvert au plus grand nombre d’acteurs (sur le modèle proposé par le rapport AgGate de l’IRSTEA). Le développement plus large des capacités suivantes s’avère ainsi clé pour l’essor d’une innovation distribuée dans l’ensemble du secteur agricole :
 
-### i. Un point d’entrée bien identifié pour l’accès aux jeux de données
+i. Un point d’entrée bien identifié pour l’accès aux jeux de données
 
 agricoles, issues de diverses sources, publiques et privées ; selon des protocoles clairs et accessibles.
 

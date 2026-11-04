@@ -50,8 +50,8 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Annex|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
     # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.")
     (re.compile(r"^((?:Pillar|Part|Chapter|Section|Annex|Appendix|Schedule|Principle|Goal|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
-    # Roman numeral section: "I. Introduction" / "II. Our Vision"
-    (re.compile(r"^([IVX]+)\.\s+(.+)$"), "roman"),
+    # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
+    (re.compile(r"^([IVX]{1,4})(?:\.\s+|\s+(?=[A-Z][a-z]))(.+)$"), "roman"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
     (re.compile(r"^(\d+(?:\.\d+){1,3})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts)
@@ -59,8 +59,15 @@ ID_PATTERNS = [
 ]
 
 
+_UNICODE_ROMAN_MAP = str.maketrans({
+    "Ⅰ": "I", "Ⅱ": "II", "Ⅲ": "III", "Ⅳ": "IV", "Ⅴ": "V",
+    "Ⅵ": "VI", "Ⅶ": "VII", "Ⅷ": "VIII", "Ⅸ": "IX", "Ⅹ": "X",
+})
+
+
 def clean_heading_text(s: str) -> str:
     """Strip markdown bold/italic + anchor tags + leading numbering punctuation."""
+    s = s.translate(_UNICODE_ROMAN_MAP)
     s = re.sub(r"<a id=\"[^\"]*\"></a>", "", s)
     s = re.sub(r"<span[^>]*>([^<]*)</span>", r"\1", s)
     s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)

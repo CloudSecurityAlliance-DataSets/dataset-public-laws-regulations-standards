@@ -14,9 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by White House / Executive Branch (whitehouse.gov) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for White House / Executive Branch (whitehouse.gov).",
   "license": {
-    "spdx": "Public Domain",
+    "spdx": "CC0-1.0",
     "Grouping": "Public Domain",
-    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,782 chars). Parsed 59 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,776 chars). Parsed 58 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

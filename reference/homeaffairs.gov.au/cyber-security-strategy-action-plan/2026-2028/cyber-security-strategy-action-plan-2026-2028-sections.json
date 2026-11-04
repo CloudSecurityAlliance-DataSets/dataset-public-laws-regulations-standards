@@ -77,31 +77,7 @@
     "section_name": "Scaling-up cyber maturity under Horizon 2",
     "id_kind": "",
     "parent_id": "",
-    "body": "In response to the worsening threat environment, for Horizon 2 of the Cyber Security Strategy, the Australian Government will reduce cyber harm by focusing effort where it matters most and moving fast when it counts.\n\n1. Australian Signals Directorate (2025), Annual Cyber Threat Report 2024-25. 2. Australian Institute of Criminology (2025), The cost of espionage. 3. IBM (2025), Cost of a Data Breach Report 2025. 4. IBM (2025), Cost of a Data Breach Report 2025. 5. Verizon (2025), 2025 Data Breach Investigations Report. 6. Verizon (2025), 2025 Data Breach Investigations Report. 7. World Economic Forum (2025), Global Cybersecurity Outlook 2025. 8. Australian Signals Directorate (2025), Annual Cyber Threat Report 2024–25.\n\nWe will focus resources and reform effort on a layered approach, which aims to stop malicious activity at our border, work with industry to secure our most sensitive digital systems in critical infrastructure and government, and uplift the cyber security baseline for small and medium business.\n\nThis puts the Australian Government’s resources where they will have maximum impact and leverages the strong foundations and new regulatory and relationship levers we have developed through Horizon 1. Partnerships with industry remain at the heart of the Cyber Security Strategy as the challenges we face over the next Horizon cannot be met by government or industry alone.\n\nThrough our work to prepare for Horizon 2 of the Cyber Security Strategy, including collaboration with our stakeholders and key industry partners, we have identified three key objectives to achieve our Horizon 2 goals."
-  },
-  {
-    "depth": 3,
-    "section_id": "Objective 1",
-    "section_name": "Enabling our workers to be our strongest defence, our ‘human firewall’",
-    "id_kind": "objective",
-    "parent_id": "",
-    "body": "We need to challenge the perception that cyber security is a technical issue, to be solely dealt with by IT professionals and software. We need to reinforce our ‘human firewall’ as our first line of cyber defence. We will focus on small and medium businesses as the highest area of risk, particularly within supply chains, and as the employer of 8.5 million Australians.\n\nKey actions to achieve Objective 1 include:\n\n• Establishing a fit-for-purpose cyber security standard framework for small and medium businesses through our new CyberSmart Program—empowering business owners and operators to make risk-based decisions within their operating contexts. (Action 1.2) • Safeguarding critical infrastructure and government by using the Security of Critical Infrastructure Act 2018 and government procurement levers to promote uptake of the CyberSmart standard to ensure the cyber security of their supply chains. (Action 1.2) • Building on the successful Act Now. Stay Secure. public awareness campaign delivered under Horizon 1 to translate awareness into action and ensure Australians develop consistent cyber secure habits and are equipped to deal with emerging cyber threats, including artificial intelligence-enabled cyber attacks. (Action 1.3) • Baselining strong cyber worker engagement and learning practices for Australian businesses and government, working with our larger businesses, the Executive Cyber Council and representative bodies to build a package of resources to assist others. (Action 1.1) • Launching a single cyber regulatory reporting interface to give businesses a ‘tell us once’ experience when they go to cyber.gov.au to report and align cyber regulation across government to support the new interface. (Action 1.6) • Delivering an international ransomware standards framework to set global benchmarks for preparation, prevention, response and recovery from a ransomware attack. (Action 6.2)"
-  },
-  {
-    "depth": 3,
-    "section_id": "Objective 2",
-    "section_name": "Protecting our critical infrastructure and government systems",
-    "id_kind": "objective",
-    "parent_id": "",
-    "body": "As digital technologies increasingly underpin essential services across government and industry, cyber incidents affecting these systems carry the potential for rapid, cascading impacts with national consequences. The Australian Government’s ability to deliver critical services and uphold national resilience depends on the security, reliability and preparedness of its own digital systems and infrastructure.\n\nHorizon 2 will focus on uplifting cyber maturity by strengthening the security, reliability and resilience of government systems and critical infrastructure, shifting beyond baseline assurance and reactive response to a proactive, investment-led approach that enhances preparedness and systemic resilience across critical assets and their supply chains.\n\nKey actions to achieve Objective 2 include:\n\n• Protecting the Australian Government’s most critical services through a robust governance model that drives prioritised security protections, elevates risk management practices, reduces legacy technology risk, and ensures readiness and resilience across our Systems of Government Significance. (Action 4.2) • Strengthening Australia’s supply chain resilience through the National Office of Cyber Security by delivering scalable exercises and targeted readiness activities to address cyber risks and economic impacts across critical infrastructure and major businesses. (Action 5.1) • Strengthening procurement arrangements to uplift cyber security across the Australian Government by embedding minimum cyber security standards and requirements for information and technology goods and services. (Action 4.2) • Elevating information sharing and partnership with critical infrastructure owners, operators and their supply chains to improve cyber security outcomes, including through enhancements to the Trusted Information Sharing Network. (Action 4.1) • Strengthening logging and monitoring standards across government and critical infrastructure to improve visibility, early detection and coordinated response to cyber threats. (Action 4.1 and 4.2) • Exploring options to amend the Directions powers in the Security of Critical Infrastructure Act 2018 to better protect critical infrastructure against contemporary threats. (Action 4.1) • Addressing the security risks posed by drones to government and critical infrastructure through whole-of-government security policy to prevent, investigate and penalise drone misuse. (Action 4.1) • Undertaking a preliminary assessment of our subsea cable security posture to prioritise future actions that will strengthen the security and resilience of Australia’s subsea cable infrastructure. (Action 4.1) • Deepening collaboration and coordination with states, territories and local government through a National Cyber Security Compact (Action 4.3)."
-  },
-  {
-    "depth": 3,
-    "section_id": "Objective 3",
-    "section_name": "Shaping, securing and embracing digital technology",
-    "id_kind": "objective",
-    "parent_id": "",
-    "body": "Australia’s future economic productivity depends on the safe and confident adoption of increasingly connected and automated technologies across government, business and households. As digital systems, data and emerging technologies such as artificial intelligence become more deeply embedded in everyday services and critical functions, the scale and complexity of cyber risk is increasing.\n\nMalicious cyber actors are exploiting insecure technologies, weak data practices and systemic dependencies. They are using artificial intelligence to increase the speed, scale and sophistication of cyber attacks. Left unaddressed, these risks threaten trust in the digital economy, undermine innovation and expose Australians to harm.\n\nIn Horizon 2, we will complement the ‘human firewall’ by reducing cyber risk at its source. We will shape the technology environment Australians rely on so that safe adoption becomes the default, such as embedding security into the design, deployment and operation of connected technologies, strengthening protections for data that matters most, and anticipating emerging technology risks.\n\nKey actions to achieve Objective 3 include:\n\n• Enhancing legislative and policy levers to support telecommunication providers and others ‘upstream’ from our digital interfaces to block at scale and speed. (Action 3.2) • Supporting industry to harden and defend Australia’s cyber networks against threats, with a focus on defining permissible cyber defence activities and vulnerability disclosure. (Actions 3.1 and 3.2) • Embedding security into connected technologies used in homes and businesses through new secure-by-design standards and requirements. This includes focusing on the most common and highest risk devices and services used in Australia like routers, connected operational technology and consumer energy resources. (Action 2.1) • Making secure technology the easy choice, by providing consumers with the right information through continued co-design of a voluntary labelling scheme for smart devices. (Action 2.1) • Preparing government and critical infrastructure to manage emerging technology risks, including artificial intelligence and quantum computing, by mandating quantum readiness and staying ahead of future threats from AI through the Australian AI Safety Institute. (Actions 2.3 and 5.3) • Protecting data that matters most by classifying and securing datasets of national significance through a risk-based framework, reducing national security risk. (Action 2.2)\n\nShield\n\n1"
+    "body": "In response to the worsening threat environment, for Horizon 2 of the Cyber Security Strategy, the Australian Government will reduce cyber harm by focusing effort where it matters most and moving fast when it counts.\n\n1. Australian Signals Directorate (2025), Annual Cyber Threat Report 2024-25. 2. Australian Institute of Criminology (2025), The cost of espionage. 3. IBM (2025), Cost of a Data Breach Report 2025. 4. IBM (2025), Cost of a Data Breach Report 2025. 5. Verizon (2025), 2025 Data Breach Investigations Report. 6. Verizon (2025), 2025 Data Breach Investigations Report. 7. World Economic Forum (2025), Global Cybersecurity Outlook 2025. 8. Australian Signals Directorate (2025), Annual Cyber Threat Report 2024–25.\n\nWe will focus resources and reform effort on a layered approach, which aims to stop malicious activity at our border, work with industry to secure our most sensitive digital systems in critical infrastructure and government, and uplift the cyber security baseline for small and medium business.\n\nThis puts the Australian Government’s resources where they will have maximum impact and leverages the strong foundations and new regulatory and relationship levers we have developed through Horizon 1. Partnerships with industry remain at the heart of the Cyber Security Strategy as the challenges we face over the next Horizon cannot be met by government or industry alone.\n\nThrough our work to prepare for Horizon 2 of the Cyber Security Strategy, including collaboration with our stakeholders and key industry partners, we have identified three key objectives to achieve our Horizon 2 goals.\n\nObjective 1: Enabling our workers to be our strongest defence, our ‘human firewall’\n\nWe need to challenge the perception that cyber security is a technical issue, to be solely dealt with by IT professionals and software. We need to reinforce our ‘human firewall’ as our first line of cyber defence. We will focus on small and medium businesses as the highest area of risk, particularly within supply chains, and as the employer of 8.5 million Australians.\n\nKey actions to achieve Objective 1 include:\n\n• Establishing a fit-for-purpose cyber security standard framework for small and medium businesses through our new CyberSmart Program—empowering business owners and operators to make risk-based decisions within their operating contexts. (Action 1.2) • Safeguarding critical infrastructure and government by using the Security of Critical Infrastructure Act 2018 and government procurement levers to promote uptake of the CyberSmart standard to ensure the cyber security of their supply chains. (Action 1.2) • Building on the successful Act Now. Stay Secure. public awareness campaign delivered under Horizon 1 to translate awareness into action and ensure Australians develop consistent cyber secure habits and are equipped to deal with emerging cyber threats, including artificial intelligence-enabled cyber attacks. (Action 1.3) • Baselining strong cyber worker engagement and learning practices for Australian businesses and government, working with our larger businesses, the Executive Cyber Council and representative bodies to build a package of resources to assist others. (Action 1.1) • Launching a single cyber regulatory reporting interface to give businesses a ‘tell us once’ experience when they go to cyber.gov.au to report and align cyber regulation across government to support the new interface. (Action 1.6) • Delivering an international ransomware standards framework to set global benchmarks for preparation, prevention, response and recovery from a ransomware attack. (Action 6.2)\n\nObjective 2: Protecting our critical infrastructure and government systems\n\nAs digital technologies increasingly underpin essential services across government and industry, cyber incidents affecting these systems carry the potential for rapid, cascading impacts with national consequences. The Australian Government’s ability to deliver critical services and uphold national resilience depends on the security, reliability and preparedness of its own digital systems and infrastructure.\n\nHorizon 2 will focus on uplifting cyber maturity by strengthening the security, reliability and resilience of government systems and critical infrastructure, shifting beyond baseline assurance and reactive response to a proactive, investment-led approach that enhances preparedness and systemic resilience across critical assets and their supply chains.\n\nKey actions to achieve Objective 2 include:\n\n• Protecting the Australian Government’s most critical services through a robust governance model that drives prioritised security protections, elevates risk management practices, reduces legacy technology risk, and ensures readiness and resilience across our Systems of Government Significance. (Action 4.2) • Strengthening Australia’s supply chain resilience through the National Office of Cyber Security by delivering scalable exercises and targeted readiness activities to address cyber risks and economic impacts across critical infrastructure and major businesses. (Action 5.1) • Strengthening procurement arrangements to uplift cyber security across the Australian Government by embedding minimum cyber security standards and requirements for information and technology goods and services. (Action 4.2) • Elevating information sharing and partnership with critical infrastructure owners, operators and their supply chains to improve cyber security outcomes, including through enhancements to the Trusted Information Sharing Network. (Action 4.1) • Strengthening logging and monitoring standards across government and critical infrastructure to improve visibility, early detection and coordinated response to cyber threats. (Action 4.1 and 4.2) • Exploring options to amend the Directions powers in the Security of Critical Infrastructure Act 2018 to better protect critical infrastructure against contemporary threats. (Action 4.1) • Addressing the security risks posed by drones to government and critical infrastructure through whole-of-government security policy to prevent, investigate and penalise drone misuse. (Action 4.1) • Undertaking a preliminary assessment of our subsea cable security posture to prioritise future actions that will strengthen the security and resilience of Australia’s subsea cable infrastructure. (Action 4.1) • Deepening collaboration and coordination with states, territories and local government through a National Cyber Security Compact (Action 4.3).\n\nObjective 3: Shaping, securing and embracing digital technology\n\nAustralia’s future economic productivity depends on the safe and confident adoption of increasingly connected and automated technologies across government, business and households. As digital systems, data and emerging technologies such as artificial intelligence become more deeply embedded in everyday services and critical functions, the scale and complexity of cyber risk is increasing.\n\nMalicious cyber actors are exploiting insecure technologies, weak data practices and systemic dependencies. They are using artificial intelligence to increase the speed, scale and sophistication of cyber attacks. Left unaddressed, these risks threaten trust in the digital economy, undermine innovation and expose Australians to harm.\n\nIn Horizon 2, we will complement the ‘human firewall’ by reducing cyber risk at its source. We will shape the technology environment Australians rely on so that safe adoption becomes the default, such as embedding security into the design, deployment and operation of connected technologies, strengthening protections for data that matters most, and anticipating emerging technology risks.\n\nKey actions to achieve Objective 3 include:\n\n• Enhancing legislative and policy levers to support telecommunication providers and others ‘upstream’ from our digital interfaces to block at scale and speed. (Action 3.2) • Supporting industry to harden and defend Australia’s cyber networks against threats, with a focus on defining permissible cyber defence activities and vulnerability disclosure. (Actions 3.1 and 3.2) • Embedding security into connected technologies used in homes and businesses through new secure-by-design standards and requirements. This includes focusing on the most common and highest risk devices and services used in Australia like routers, connected operational technology and consumer energy resources. (Action 2.1) • Making secure technology the easy choice, by providing consumers with the right information through continued co-design of a voluntary labelling scheme for smart devices. (Action 2.1) • Preparing government and critical infrastructure to manage emerging technology risks, including artificial intelligence and quantum computing, by mandating quantum readiness and staying ahead of future threats from AI through the Australian AI Safety Institute. (Actions 2.3 and 5.3) • Protecting data that matters most by classifying and securing datasets of national significance through a risk-based framework, reducing national security risk. (Action 2.2)\n\nShield\n\n1"
   },
   {
     "depth": 2,
@@ -121,50 +97,50 @@
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.1 (1)",
+    "section_id": "Six key actions under Horizon 2:: 1.1 (1)",
     "section_name": "Empower our workers as our first line of cyber defence, our ‘human firewall’",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "a. Build cyber awareness within Australia’s workforce and supply chains.\n\n1.2 Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security\n\na. Simplify cyber security for small and medium businesses and provide targeted\n\nand actionable support through a new CyberSmart program. b. Drive cyber uplift and maturity for the not-for-profit sector. c. Offer tailored advice to support small and medium businesses, not-for-profits\n\nand individuals"
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.3 (1)",
+    "section_id": "Six key actions under Horizon 2:: 1.3 (1)",
     "section_name": "Strengthen community cyber resilience",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "a. Extend the reach and accessibility of our public cyber awareness messaging. b. Empower diverse communities to grow their cyber awareness and build\n\ncyber confidence. c. Uplift cyber security of our day-to-day digital activities by testing ways to make\n\nonline security behaviours easier."
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.4 (1)",
+    "section_id": "Six key actions under Horizon 2:: 1.4 (1)",
     "section_name": "Disrupt and deter cyber threat actors to protect Australians from cybercrime",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "a. Build our law enforcement and offensive capabilities. b. Shape international frameworks and cooperation on cybercrime. c. Strengthen national ransomware information sharing and preparedness."
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.5 (1)",
+    "section_id": "Six key actions under Horizon 2:: 1.5 (1)",
     "section_name": "Secure our identities and provide better support to victims of cybercrime",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "a. Expand the adoption of Digital ID across government (the Australian Government,\n\nstates and territories) and private sector services."
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.6 (1)",
+    "section_id": "Six key actions under Horizon 2:: 1.6 (1)",
     "section_name": "Drive productivity for Australian businesses",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "a. Harmonise and align cyber security regulation to reduce the compliance burden.\n\nAction agency"
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.1 (2)",
+    "section_id": "Six key actions under Horizon 2:: 1.1 (2)",
     "section_name": "Empower our workers as our first line of cyber defence, our ‘human firewall’",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Build cyber awareness within Australia’s workforce and supply chains\n\nLead agency: • Home Affairs\n\nBaseline strong cyber awareness practices for the Australian workforce and through supply chains leveraging the public-private partnerships already in place, including the Executive Cyber Council established under Horizon 1.\n\nContributing agencies: • AGD • ASD • DEWR • Education • Treasury\n\nPublic resources will be developed through this process, including guidance about common terminology and concepts to be used when developing in-house cyber training resources, to provide a simple, coherent message on cyber awareness and hygiene for our workforce.\n\nLead agency: • ASD\n\nIntroduce a minimum standard of cyber security training in ASD standards. ASD will develop standards that require and guide the training of an organisation’s people through the proposed ASD Essential Series for Enterprise IT. The standards will ensure an appropriate level of governance awareness and training for all staff that access an organisation’s systems.\n\nContributing agency: • Home Affairs\n\nAction agency"
   },
   {
@@ -172,39 +148,39 @@
     "section_id": "1.2",
     "section_name": "Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Simplify cyber security for small and medium businesses and provide targeted and actionable support through a new CyberSmart program\n\nLead agency: • Home Affairs\n\nDevelop a tailored cyber security standard and certification regime for small and medium businesses —CyberSmart—that supports a simple, adaptable standard to help them increase their cyber resilience.\n\nContributing agencies: • ASD • Treasury\n\nThis initiative will be delivered through a Conformity Assessment Scheme, developed with the Joint Accreditation System of Australia and New Zealand, to provide a structured governance mechanism to verify whether an entity meets the standard required to be certified. Once certified, entities will be able to display a ‘trust mark’ in their communications with customers and suppliers.\n\nSafeguard critical infrastructure and government by using the Security of Critical Infrastructure Act 2018 and government procurement levers to promote uptake of the CyberSmart standard to ensure the cyber security of their supply chains.\n\nLead agency: • Home Affairs\n\nCreate a dedicated, centralised CyberSmart Hub as a repository of resources for smaller entities, including:\n\n• resources about CyberSmart certification • consolidated guidance from government • service-specific and product-specific guidance to assist small businesses to choose the most suitable cyber products and services for their needs and skill profile. Specific guidance on products and services for small businesses will be developed in close collaboration with technology vendors and service providers. This will enable ready comparison between products and services so that businesses can make informed decisions relevant to their operations.\n\nContributing agencies: • ASD • Treasury\n\nAction agency\n\nDrive cyber uplift and maturity for the not-for-profit sector\n\nLead agencies: • Home Affairs • ACNC Contributing agencies: • ASD • DSS\n\nFacilitate greater sharing of cyber knowledge and resources across the not-for-profit sector through establishing a collaborative not-for-profit community of practice.\n\nLead agencies: • Home Affairs • ACNC Contributing agencies: • ASD • DSS\n\nDeliver a program of services to support not-for-profit cyber uplift. We will engage with the sector to build a capability assessment of current services and apply these findings to enhance existing cyber resources.\n\nOffer tailored advice to support small and medium businesses, not for-profits and individuals\n\nLead agency: • Home Affairs Contributing agencies: • ASD • Treasury\n\nEnhance the Cyber Health Check Tool for small and medium businesses and not-for-profits to provide targeted cyber security guidance."
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.3 (2)",
+    "section_id": "Six key actions under Horizon 2:: 1.3 (2)",
     "section_name": "Strengthen community cyber resilience",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Extend the reach and accessibility of our public cyber awareness messaging\n\nLead agency: • Home Affairs\n\nEnhance the Act Now. Stay Secure. public education campaign, by building on the achievements of this campaign under Horizon 1 to further translate awareness into action and ensure Australians develop consistent cyber secure habits that they use every day.\n\nContributing agencies: • AGD • Finance\n\nAction agency\n\nEmpower diverse communities to grow their cyber awareness and build cyber confidence\n\nLead agency: • Home Affairs\n\nDeliver tailored cyber education programs to support diverse cohorts and further engage priority communities by continuing the Cyber Awareness Support for Vulnerable Groups grants program under Horizon 1.\n\nUplift cyber security of our day-to-day digital activities by testing ways to make online security behaviours easier\n\nContributing agency: • DSS Grants Hub\n\nLead agency: • Home Affairs\n\nDevelop new ways to encourage and enable safer online behaviours through research to understand the real-world barriers that prevent Australians from taking effective security actions online, then design and test solutions that make cyber resilience easier in practice.\n\nContributing agency: • PM&C (BETA)"
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.4 (2)",
+    "section_id": "Six key actions under Horizon 2:: 1.4 (2)",
     "section_name": "Disrupt and deter cyber threat actors to protect Australians from cybercrime",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Build our law enforcement and offensive capabilities\n\nLead agency: • AFP Contributing agencies: • ASD • State and territory law enforcement agencies\n\nUphold our offensive cyber capabilities to investigate and disrupt cybercrime, and ensure coordination of national responses to cybercrime, through Operation Aquila and the Joint Policing Cybercrime Coordination Centre.\n\nAction agency\n\nShape international frameworks and cooperation on cybercrime\n\nLead agency: • DFAT Contributing agencies: • AGD • Home Affairs • AFP\n\nConsider ratifying the United Nations Convention against Cybercrime through prioritising multi-stakeholder participation modalities in the rules of procedure for the Conference of the States Parties and developing likeminded positions to shape the supplementary protocol negotiations.\n\nLead agency: • AGD Contributing agency: • DFAT\n\nProvide practical support to our regional partners to uplift cybercrime prevention capacity and capability in the Pacific, including through the finalisation of the Cybercrime Legislation Implementation Handbook being developed by the Pacific Islands Law Officers’ Network Cybercrime Working Group.\n\nStrengthen national ransomware information sharing and preparedness\n\nLead agency: • Home Affairs Contributing agencies: • AFP • AGD • ASD • Treasury\n\nDeliver public, annual ransomware threat reports and share actionable intelligence with government and industry to enable the development of tailored tools, services and guidance that enhance our national ransomware response, including to support effective recovery from ransomware and cyber-extortion incidents."
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.5 (2)",
+    "section_id": "Six key actions under Horizon 2:: 1.5 (2)",
     "section_name": "Secure our identities and provide better support to victims of cybercrime",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Expand the adoption of Digital ID across government (the Australian government, states and territories) and private sector services\n\nLead agency: • Finance\n\nContinue to grow the use of Digital ID to reduce the need for people to share sensitive personal information when verifying identity, and the risks and impact of identity theft and fraud.\n\nThe government will continue to enable Digital ID as an option for more government services and efforts to incentivise use of Digital ID in the private sector to increase productivity, security and consumer protection.\n\nAction agency"
   },
   {
     "depth": 3,
-    "section_id": "Six key actions under Horizon 2:: Objective 1 1.6 (2)",
+    "section_id": "Six key actions under Horizon 2:: 1.6 (2)",
     "section_name": "Drive productivity for Australian businesses",
     "id_kind": "numbered",
-    "parent_id": "Objective 1",
+    "parent_id": "",
     "body": "Harmonise and align cyber security regulation to reduce the compliance burden\n\nLead agency: • Home Affairs Contributing agencies: • Finance • Treasury\n\nReview the cyber security regulatory environment to establish a clear picture of the regulatory pressure points impacting industry and work across government, in partnership with industry, to identify opportunities to centralise cyber incident reporting, which may include harmonising and aligning key definitions, timeframes, reporting thresholds, information requirements and other mechanisms to reduce regulatory burden.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • Finance • Treasury • Regulatory portfolios and agencies\n\nCreate a Single Cyber Incident Reporting Interface in line with the Department of Finance’s ‘Tell Us Once’ initiative to consolidate cyber incident reporting obligations into one user-friendly webform. This will be informed by the outcomes from the review of regulatory pressure points impacting industry.\n\nShield\n\n2"
   },
   {
@@ -225,50 +201,50 @@
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.1 (1)",
+    "section_id": "Three key actions under Horizon 2:: 2.1 (1)",
     "section_name": "Ensure Australians can trust their digital products and platforms",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "a. Adopt a suitable regulatory posture to ensure the security of our digital technology. b. Support Australians to make informed, secure choices about the technology they use. c. Manage the national security risks associated with digital technology."
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.2 (1)",
+    "section_id": "Three key actions under Horizon 2:: 2.2 (1)",
     "section_name": "Protect our most valuable assets",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "a. Support best-practice data governance and security across the economy. b. Protect our data sets of national significance."
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.3 (1)",
+    "section_id": "Three key actions under Horizon 2:: 2.3 (1)",
     "section_name": "Prepare Australia to harness the benefits of emerging technology",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "a. Position Australia as a world-leading manager of cyber security risks associated with\n\nemerging technologies. b. Prepare government to respond to emerging technology risks.\n\nc. Collaborate with industry on securing emerging technology.\n\nAction agency"
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.1 (2)",
+    "section_id": "Three key actions under Horizon 2:: 2.1 (2)",
     "section_name": "Ensure Australians can trust their digital products and platforms",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "Adopt a suitable regulatory posture to ensure the security of our digital technology\n\nLead agency: • Home Affairs Contributing agency: • ASD\n\nCo-design with industry a security standard for consumer-grade edge devices (routers and modems) used in households and small businesses, in line with international partners and standards, under the Cyber Security Act 2024.\n\nLead agency: • Home Affairs Contributing agency: • ASD\n\nExplore options to uplift the cyber security of internet-connected operational technology used in industrial settings in Australia.\n\nLead agency: • DITRDCSA Contributing agencies: • Home Affairs • AGD • OAIC • ASD\n\nIntroduce new national road vehicle cyber security standards consistent with obligations to harmonise with international vehicle regulations.\n\nConsider cyber security and privacy treatment of connected vehicles, road infrastructure and associated data storage systems.\n\nLead agency: • DCCEEW Contributing agencies: • Home Affairs • ASD\n\nDevelop a national approach to designing cyber security for consumer energy resources through the work being undertaken through the Consumer Energy Resources Roadmap.\n\nLead agency: • Home Affairs Contributing agency: • ASD\n\nTrack actions by international counterparts on security standards for consumer-grade smart devices to ensure that Australian regulation aligns with international best practice and is fit-for-purpose.\n\nSupport Australians to make informed, secure choices about the technology they use\n\nLead agency: • Home Affairs\n\nContinue to develop a national voluntary labelling scheme for the cyber security of smart devices, aligned with international exemplars through the Global Cybersecurity Labelling Initiative and lessons learned from the pilot program established under Horizon 1.\n\nLead agency: • Home Affairs Contributing agency: • ASD\n\nEstablish a voluntary Code of Practice for internet service providers about the cyber security of edge devices they provide or recommend to their customers as an interim measure whilst formal regulation of these devices is being co-designed with industry.\n\nAction agency\n\nManage the national security risks associated with digital technology\n\nLead agency: • Home Affairs\n\nLeverage Technology Vendor Risk Framework outcomes to inform regulation and advice across government, critical infrastructure and industry."
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.2 (2)",
+    "section_id": "Three key actions under Horizon 2:: 2.2 (2)",
     "section_name": "Protect our most valuable assets",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "Support best-practice data governance and security across the economy\n\nLead agency: • Home Affairs Contributing agencies: • OAIC • AGD • ASD • DISR • Finance • Treasury\n\nUplift data security across the Australian economy through:\n\n• finalising and promoting uptake of the Industry Data Classification Framework, and • developing a Code of Practice for commercial data transactions with industry, as an outcome of the Data Brokerage Review delivered under Horizon 1.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • Finance • OAIC\n\nDrive whole-of-government adoption of the recommendations from the Data Retention Review, communicating consistent application of data retention principles to legislation and improved industry guidance material.\n\nProtect our data sets of national significance\n\nLead agency: • Home Affairs Contributing agencies: • AGD • ASIO • Defence • DISR • Finance • Health\n\nPartner with industry, universities and state and territory governments to pilot a risk assessment framework for managing human genomic and clinical trial data. This pilot will shape the production of practical guidance and promote voluntary, best-practice protections.\n\nAction agency"
   },
   {
     "depth": 3,
-    "section_id": "Three key actions under Horizon 2:: Objective 2 2.3 (2)",
+    "section_id": "Three key actions under Horizon 2:: 2.3 (2)",
     "section_name": "Prepare Australia to harness the benefits of emerging technology",
     "id_kind": "numbered",
-    "parent_id": "Objective 2",
+    "parent_id": "",
     "body": "Position Australia as a world-leading manager of cyber security risks associated with emerging technologies\n\nLead agency: • Home Affairs Contributing agencies: • ASD • DISR • DAFF • Health • Defence • DFAT • National Intelligence Community agencies\n\nCollaborate with trusted public and private partners on artificial intelligence threats to identify and understand the national security risks of emerging technology. This includes leading the Five Country Ministerial Artificial Intelligence Working Group.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • National Intelligence Community agencies\n\nMeet the national security challenges posed by quantum computing by providing actionable guidance for both government and industry.\n\nAction agency\n\nPrepare government to respond to emerging technology risks\n\nLead agency: • Home Affairs Contributing agencies: • ASD • DISR • DTA • NEMA • PM&C • Treasury • Defence • National Intelligence Community agencies\n\nAssess the suitability of existing crisis management frameworks in responding to major artificial intelligence incidents, including the Australian Government Crisis Management Framework and supporting legislation.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • DTA • Treasury • Defence • National Intelligence Community agencies\n\nPrepare critical Australian systems for post-quantum cryptography by:\n\n• mandating transition planning through the Protective Security Policy Framework for Australian Government agencies, and • strengthening critical infrastructure systems, including through regulatory levers under the Security of Critical Infrastructure Act 2018.\n\nLead agency: • DTA Contributing agency: • Home Affairs\n\nRequire cyber security planning in Digital Investment Plans to set standards and timeframes for all Commonwealth agencies to build national resilience.\n\nCollaborate with industry on securing emerging technology\n\nLead agency: • Home Affairs Contributing agencies: • ASD • DISR\n\nBuild the Australian Government’s visibility of artificial intelligence incidents in critical infrastructure by working with regulators and industry to increase information sharing, leveraging existing forums and structures, such as the Trusted Information Sharing Network.\n\nShield"
   },
   {
@@ -289,34 +265,34 @@
   },
   {
     "depth": 3,
-    "section_id": "Two key actions under Horizon 2:: Objective 3 3.1 (1)",
+    "section_id": "Two key actions under Horizon 2:: 3.1 (1)",
     "section_name": "Create a whole-of-economy threat intelligence network",
     "id_kind": "numbered",
-    "parent_id": "Objective 3",
+    "parent_id": "",
     "body": "a. Expand tactical and operational threat intelligence sharing."
   },
   {
     "depth": 3,
-    "section_id": "Two key actions under Horizon 2:: Objective 3 3.2 (1)",
+    "section_id": "Two key actions under Horizon 2:: 3.2 (1)",
     "section_name": "Scale threat blocking capabilities to stop cyber attacks",
     "id_kind": "numbered",
-    "parent_id": "Objective 3",
+    "parent_id": "",
     "body": "a. Enable greater uptake of threat blocking activities across the economy. b. Empower industry to harden and defend networks against threats to better protect\n\nend users\n\nAction Accountable agency"
   },
   {
     "depth": 3,
-    "section_id": "Two key actions under Horizon 2:: Objective 3 3.1 (2)",
+    "section_id": "Two key actions under Horizon 2:: 3.1 (2)",
     "section_name": "Create a whole-of-economy threat intelligence network",
     "id_kind": "numbered",
-    "parent_id": "Objective 3",
+    "parent_id": "",
     "body": "Expand tactical and operational threat intelligence sharing\n\nLead agency: • Home Affairs\n\nEvaluate the Health Cyber Sharing Network launched in Horizon 1 and identify further sectors of the economy that would benefit from Information Sharing and Analysis Centres.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • AFP\n\nPublish a Vulnerability Disclosure Policy Toolkit to support the hardening of systems before vulnerabilities are exploited and to lessen the burden of large organisations developing a policy from scratch."
   },
   {
     "depth": 3,
-    "section_id": "Two key actions under Horizon 2:: Objective 3 3.2 (2)",
+    "section_id": "Two key actions under Horizon 2:: 3.2 (2)",
     "section_name": "Scale threat blocking capabilities to stop cyber attacks",
     "id_kind": "numbered",
-    "parent_id": "Objective 3",
+    "parent_id": "",
     "body": "Enable greater uptake of threat blocking activities across the economy\n\nLead agency: • Home Affairs Contributing agencies: • AFP • AGD • ASD • DITRDCSA\n\nEnhance legislative and policy levers to ensure entities, such as telecommunication providers and others ‘upstream’ from our digital interfaces, can block at scale and speed to better defend those who cannot defend themselves.\n\nTo increase the update of threat blocking activities across the ecosystem, identify a national opt in threat blocking pilot, including whether legislation is required to enact.\n\nAction agency\n\nEmpower industry to harden and defend networks against threats to better protect end users\n\nLead agency: • Home Affairs Contributing agencies: • ASD • AFP\n\nPublish a public statement clarifying the permissible cyber defence activities industry can undertake in Australia. This will provide a framework for industry to harden systems as business-as-usual, and to react and defend their own networks effectively and with confidence.\n\nLead agency: • Home Affairs Contributing agencies: • ASD • AFP\n\nAssess legislation and policy to ensure industry and the Australian Government can collaborate at speed on defensive cyber measures (including threat blocking) and address impediments.\n\nShield"
   },
   {
