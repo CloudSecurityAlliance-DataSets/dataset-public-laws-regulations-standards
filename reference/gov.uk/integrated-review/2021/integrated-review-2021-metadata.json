@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/integrated-review@2021",
+  "name": "Global Britain in a Competitive Age: The Integrated Review of Security, Defence, Development and Foreign Policy (2021)",
+  "acronym": "IR21",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "integrated-review-2021",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom 2021 Integrated Review of Security, Defence, Development and Foreign Policy (CP 403), establishing the Strategic Framework including Sustaining Strategic Advantage through Science and Technology and Cyber Power.",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/global-britain-in-a-competitive-age-the-integrated-review-of-security-defence-development-and-foreign-policy",
+    "textUsed": "https://www.gov.uk/government/publications/global-britain-in-a-competitive-age-the-integrated-review-of-security-defence-development-and-foreign-policy/global-britain-in-a-competitive-age-the-integrated-review-of-security-defence-development-and-foreign-policy",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-03-16",
+    "active": false,
+    "supersedes": "secid:reference/gov.uk/national-security-strategy@2015",
+    "supersededBy": "secid:reference/gov.uk/integrated-review@2023",
+    "retiredFromActiveUse": "2023-03-13",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/global-britain-in-a-competitive-age-the-integrated-review-of-security-defence-development-and-foreign-policy/global-britain-in-a-competitive-age-the-integrated-review-of-security-defence-development-and-foreign-policy) to Markdown (289,456 chars) and parsed 83 sections (3 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

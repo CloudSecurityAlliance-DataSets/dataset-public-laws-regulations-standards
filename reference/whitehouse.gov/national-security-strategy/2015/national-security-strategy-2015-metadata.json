@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/whitehouse.gov/national-security-strategy@2015",
+  "name": "National Security Strategy of the United States of America (2015)",
+  "acronym": "NSS",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "national-security-strategy-2015",
+  "owner": "Executive Office of the President (The White House)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "2015 Obama Administration National Security Strategy of the United States of America.",
+  "relationToCloudSecurity": "Establishes U.S. federal cybersecurity and national security strategic priorities affecting cloud service providers, critical infrastructure, and federal IT modernization.",
+  "relationToAISecurity": "Addresses strategic competition and security in critical and emerging technologies including artificial intelligence and quantum computing.",
+  "license": {
+    "spdx": "LicenseRef-US-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "notes": "Work of the U.S. Federal Government; in the public domain in the United States under 17 U.S.C. § 105."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://obamawhitehouse.archives.gov/sites/default/files/docs/2015_national_security_strategy_2.pdf",
+    "textUsed": "https://obamawhitehouse.archives.gov/sites/default/files/docs/2015_national_security_strategy_2.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-02-06",
+    "active": false,
+    "supersedes": "secid:reference/whitehouse.gov/national-security-strategy@2010",
+    "supersededBy": "secid:reference/whitehouse.gov/national-security-strategy@2017",
+    "retiredFromActiveUse": "2017-12-18",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 32-page born-digital White House PDF (https://obamawhitehouse.archives.gov/sites/default/files/docs/2015_national_security_strategy_2.pdf) locally via column-aware PyMuPDF layout analysis (101,164 chars) and parsed 34 sections (6 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

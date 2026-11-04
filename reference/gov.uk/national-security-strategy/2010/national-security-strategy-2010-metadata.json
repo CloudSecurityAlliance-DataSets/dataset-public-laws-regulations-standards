@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/national-security-strategy@2010",
+  "name": "A Strong Britain in an Age of Uncertainty: The National Security Strategy (2010)",
+  "acronym": "NSS",
+  "alternate_names": [],
+  "version": "2010",
+  "publication_id": "national-security-strategy-2010",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom 2010 National Security Strategy (Cm 7953), elevating hostile cyber attacks to a Tier One risk to UK national security.",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/the-national-security-strategy-a-strong-britain-in-an-age-of-uncertainty",
+    "textUsed": "https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2010-10-18",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gov.uk/national-security-strategy@2015",
+    "retiredFromActiveUse": "2015-11-23",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 39-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf) locally via column-aware PyMuPDF layout analysis (93,413 chars) and parsed 73 sections (5 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

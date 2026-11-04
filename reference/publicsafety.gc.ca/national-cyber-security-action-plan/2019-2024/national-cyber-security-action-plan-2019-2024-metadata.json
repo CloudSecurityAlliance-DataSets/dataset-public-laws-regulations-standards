@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/publicsafety.gc.ca/national-cyber-security-action-plan@2019-2024",
+  "name": "National Cyber Security Action Plan (2019-2024)",
+  "acronym": "NCSAP",
+  "alternate_names": [],
+  "version": "2019-2024",
+  "publication_id": "national-cyber-security-action-plan-2019-2024",
+  "owner": "Public Safety Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Five-year implementation roadmap (2019-2024) for the 2018 National Cyber Security Strategy, detailing funded federal initiatives across Public Safety Canada, CSE, RCMP, ISED, and partner departments.",
+  "relationToCloudSecurity": "Defines national cyber resilience, critical infrastructure protection, and government-wide incident coordination relevant to cloud service providers operating in Canada.",
+  "relationToAISecurity": "Addresses emerging digital technology threats, supply-chain security, and national security governance applicable to AI systems.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/index-en.aspx",
+    "textUsed": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/index-en.aspx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-26",
+    "active": true,
+    "supersedes": "secid:reference/publicsafety.gc.ca/national-cyber-security-action-plan@2010-2015",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (33,749 chars) and parsed 27 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

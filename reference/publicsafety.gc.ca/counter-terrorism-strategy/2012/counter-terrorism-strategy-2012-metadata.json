@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/publicsafety.gc.ca/counter-terrorism-strategy@2012",
+  "name": "Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy (2012)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2012",
+  "publication_id": "counter-terrorism-strategy-2012",
+  "owner": "Public Safety Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Canada's Counter-terrorism Strategy (2012), organized around four mutually reinforcing elements: Prevent, Detect, Deny, and Respond.",
+  "relationToCloudSecurity": "Defines national cyber resilience, critical infrastructure protection, and government-wide incident coordination relevant to cloud service providers operating in Canada.",
+  "relationToAISecurity": "Addresses emerging digital technology threats, supply-chain security, and national security governance applicable to AI systems.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx",
+    "textUsed": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2012-02-09",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (123,603 chars) and parsed 61 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

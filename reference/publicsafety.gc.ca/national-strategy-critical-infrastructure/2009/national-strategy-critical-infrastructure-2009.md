@@ -1,0 +1,191 @@
+# National Strategy for Critical Infrastructure
+
+[National Strategy for Critical Infrastructure - PDF Version (222 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/srtg-crtcl-nfrstrctr-eng.pdf)
+
+ISBN: 978-1-100-11248-0
+
+##### Table of contents
+
+- [Executive summary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s0)
+- [1. Purpose](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s1)
+- [2. Strategic objective](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s2)
+- [3. Context](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s3)
+- [4. The Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4)
+  - [4.1 Build partnerships](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_1)
+  - [4.2 Implement all-hazards risk management approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_2)
+  - [4.3 Share and protect information](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_3)
+- [5. Review](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s5)
+
+\* The Strategy is to be read in conjunction with the [Action Plan for Critical Infrastructure.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2021-ctn-pln-crtcl-nfrstrctr/index-en.aspx)
+
+## Executive summary
+
+The goal of the National Strategy for Critical Infrastructure is to build a safer, more secure and more resilient Canada. To this end, the National Strategy advances more coherent and complementary actions among federal, provincial and territorial initiatives and among the ten critical infrastructure sectors listed below:
+
+- Energy and utilities
+- Finance
+- Food
+- Transportation
+- Government
+- Information and communication technology
+- Health
+- Water
+- Safety
+- Manufacturing
+
+The fundamental concepts and principles outlined in this National Strategy flow from the *Emergency Management Framework for Canada*,which sets out a collaborative approach for federal, provincial and territorial emergency management initiatives. Consistent with this Framework, and recognizing the interconnected nature of critical infrastructure, the National Strategy fosters the development of partnerships among federal, provincial and territorial governments and critical infrastructure sectors, advances an all-hazards risk management approach, and sets out measures to improve information sharing and protection.
+
+Critical infrastructure refers to processes, systems, facilities, technologies, networks, assets and services essential to the health, safety, security or economic well-being of Canadians and the effective functioning of government. Critical infrastructure can be stand-alone or interconnected and interdependent within and across provinces, territories and national borders. Disruptions of critical infrastructure could result in catastrophic loss of life, adverse economic effects, and significant harm to public confidence.
+
+The National Strategy supports the principle that critical infrastructure roles and activities should be carried out in a responsible manner at all levels of society in Canada. Responsibilities for critical infrastructure in Canada are shared by federal, provincial and territorial governments, local authorities and critical infrastructure owners and operators – who bear the primary responsibility for protecting their assets and services. Individual Canadians also have a responsibility to be prepared for a disruption and to ensure that they and their families are ready to cope for at least the first 72 hours of an emergency.
+
+Given that disasters most often occur locally, the National Strategy recognizes that, in an emergency, the first response is almost always by the owners and operators, the municipality or at the provincial/territorial level. The federal government fulfils national leadership responsibilities relating to emergency management, respecting existing federal, provincial and territorial jurisdiction and legislation. The federal government is also responsible for providing assistance to provinces/territories if the province/territory has requested the assistance.
+
+The National Strategy is based on the recognition that enhancing the resiliency of critical infrastructure can be achieved through the appropriate combination of security measures to address intentional and accidental incidents, business continuity practices to deal with disruptions and ensure the continuation of essential services, and emergency management planning to ensure adequate response procedures are in place to deal with unforeseen disruptions and natural disasters.
+
+To be effective, the National Strategy must be implemented in partnership among all levels of government and critical infrastructure sectors. Critical infrastructure owners and operators have the expertise and information that governments need to develop comprehensive emergency management plans. In turn, governments will share relevant information in a timely manner, respecting existing federal, provincial and territorial legislation and policies, to help owners and operators assess risk and identify best practices. This partnership approach recognizes that more resilient critical infrastructure helps foster an environment that stimulates economic growth, attracts and retains business, and creates employment opportunities. Governments bring value to the partnership through activities such as:
+
+- providing owners and operators with timely, accurate, and useful information on risks and threats;
+- ensuring industry is engaged as early as possible in the development of risk management activities and emergency management plans; and
+- working with industry to develop and prioritize key activities for each sector.
+
+The *National Strategy for Critical Infrastructure* represents the first milestone in the road ahead. It identifies a clear set of goals and objectives and outlines the guiding principles that will underpin our efforts to strengthen the resiliency of critical infrastructure. The National Strategy establishes a framework for cooperation in which governments and owners and operators can work together to prevent, mitigate, prepare for, respond to, and recover from disruptions of critical infrastructure and thereby safeguard the foundations of our country and way of life.
+
+## 1. Purpose
+
+The purpose of the *National Strategy for Critical Infrastructure* (the Strategy) is to strengthen the resiliency of critical infrastructure in Canada. The Strategy works toward this goal by setting the direction for enhancing the resiliency of critical infrastructure against current and emerging hazards.
+
+## 2. Strategic objectives
+
+With a view to enhancing the resiliency of critical infrastructure in Canada, the objectives of the Strategy are to:
+
+- build partnerships;
+- implement an all-hazards risk management approach; and
+- advance the timely sharing and protection of information among partners.
+
+## 3. Context
+
+The *Emergency Management Framework for Canada* defines a collaborative approach to emergency management and establishes a federal, provincial and territorial partnership for enhancing the public safety of Canadians. The Framework identifies principles of cooperation (i.e. responsibility, comprehensiveness, partnerships, coherency of action, risk-based, all-hazards, resilience, clear communications, and continuous improvement) and it recognizes that emergency management is comprised of interdependent risk-based functions: prevention, mitigation, preparedness, response and recovery.
+
+Based on the principles of the *Emergency Management Framework for Canada*, the Strategy presents a collaborative approach to strengthening the resiliency of critical infrastructure in Canada, ensuring that federal, provincial and territorial critical infrastructure activities are complementary and respect the laws of each jurisdiction. Consistent with the principles established in the *Emergency Management Framework for Canada*, the Strategy will be interpreted in full respect of each government's jurisdiction.
+
+Critical infrastructure refers to processes, systems, facilities, technologies, networks, assets and services essential to the health, safety, security or economic well-being of Canadians and the effective functioning of government. Critical infrastructure can be stand-alone or interconnected and interdependent within and across provinces, territories and national borders. Disruptions of critical infrastructure could result in catastrophic loss of life and adverse economic effects.
+
+The *Emergency Management Framework for Canada* defines resilience as the capacity of a system,community or society potentially exposed to hazards to adapt, by resisting or changing in order to reach and maintain an acceptable level of functioning and structure. The Strategy recognizes that defining 'acceptable levels' and the concept of 'criticality' is a matter of relativity. Therefore, the Strategy aims to support a collective approach to managing risks and interdependencies, and establishes a collaborative approach to strengthening the resiliency of critical infrastructure in Canada.
+
+The Strategy is also based on the recognition that enhancing the resiliency of critical infrastructure can be achieved through the appropriate combination of security measures to address intentional and accidental incidents, business continuity practices to deal with disruptions and ensure the continuation of essential services, and emergency management planning to ensure adequate response procedures are in place to deal with unforeseen disruptions and natural disasters.
+
+### What are the risks to critical infrastructure in Canada?
+
+The risks are increasingly complex and frequent. They include natural, intentional and accidental hazards. Recent events illustrate the importance of protecting critical infrastructure from all types of hazards: the 1996 Saguenay Flood, the 1997 Red River Flood, the 1998 Ice Storm, the terrorist attacks of September 2001, the 2003 Power Blackout, the 2003 Severe Acute Respiratory Syndrome outbreak, the 2005 London Bombings and Hurricane Katrina.
+
+As the rate and severity of natural disasters increases, so does the possibility that disruptions of critical infrastructure could result in prolonged loss of essential services. The risks and vulnerabilities are heightened by the complex system of interdependencies among critical infrastructure,which can lead to cascading effects expanding across borders and sectors. The implications of these interdependencies are compounded by society's increasing reliance on information technologies.
+
+### Why develop a National Strategy for Critical Infrastructure?
+
+As the risks to critical infrastructure cut across jurisdictions and sectors, the Strategy will provide a comprehensive and collaborative federal, provincial and territorial approach to enhancing the resiliency of critical infrastructure. This common approach will enable partners to respond collectively to risks and target resources to the most vulnerable areas of critical infrastructure.
+
+### How will the Strategy address international issues relating to critical infrastructure?
+
+Canada will work with the United States and other international governments and organizations to promote a collaborative approach to strengthening the resiliency of critical infrastructure. The Strategy also recognizes that at the regional level, provinces, territories and neighbouring American states have cooperative emergency management arrangements in place. Together, federal, provincial and territorial governments and critical infrastructure sectors will identify and address international dependencies and risks.
+
+## 4. The Strategy
+
+The Strategy proposes that federal, provincial and territorial governments and critical infrastructure sectors collaborate to strengthen the resiliency of critical infrastructure in Canada. This collaboration will require the development of partnerships that respect jurisdictions and build upon existing mandates and responsibilities. To foster these partnerships, the Strategy outlines mechanisms for enhanced information sharing and information protection and it identifies the importance of a risk management approach to strengthen the resiliency of critical infrastructure in Canada.
+
+The Strategy recognizes that primary responsibility for strengthening the resiliency of critical infrastructure rests with the owners and operators. Federal, provincial and territorial levels of government are also working to protect their own critical infrastructure and to support owners and operators in addressing this challenge.
+
+Enhancing the resiliency of critical infrastructure can be achieved through the appropriate combination of security measures to address intentional and accidental incidents, business continuity practices to deal with disruptions and ensure the continuation of essential services, and emergency management planning to ensure adequate response procedures are in place to deal with unforeseen disruptions and natural disasters.
+
+As the approach to strengthening critical infrastructure resiliency varies across jurisdictions, so too does the classification of critical infrastructure by sector. While recognizing that each province and territory structures its critical infrastructure program as it deems appropriate, at the national level, the Strategy classifies critical infrastructure within the 10 sectors listed below:
+
+- Energy and utilities
+- Finance
+- Food
+- Transportation
+- Government
+- Information and communication technology
+- Health
+- Water
+- Safety
+- Manufacturing
+
+### 4.1 Build partnerships
+
+**Strategic objective:**  Build partnerships to support and enhance critical infrastructure resiliency.
+
+Consistent with the Emergency Management Framework for Canada, strengthening the resiliency of critical infrastructure requires complementary and coherent action by all partners to promote the most effective use of resources and execution of activities. Complementary approaches to strengthening the resiliency of critical infrastructure at all levels will enable concerted efforts to facilitate timely and effective prevention, mitigation, preparedness, response and recovery measures to deal effectively with disruptions. In the event of an emergency or disruption of critical infrastructure, the first point of contact is the government of jurisdiction. Should a provincial or territorial government require resources beyond its own in an emergency or response to a disruption, the federal government will respond rapidly to requests for assistance.
+
+The Strategy recognizes that each responsible jurisdiction, department and agency, as well as critical infrastructure owners and operators, will exercise their responsibilities as they deem appropriate for strengthening the resiliency of critical infrastructure in Canada. To be effective, however, the implementation of this Strategy will require the collaboration of federal, provincial, territorial and critical infrastructure sector partners and the establishment of mechanisms to facilitate this collaboration.
+
+#### Sector networks
+
+The Strategy proposes to establish sector networks, at the national level, for each of the critical infrastructure sectors. This approach will build to the fullest extent possible upon existing coordination and consultation mechanisms. In recognition of the unique characteristics of each sector, the Strategy does not prescribe the structure of each sector network. The sector networks reflect a partnership model that will enable governments and critical infrastructure sectors to undertake the range of activities (e.g. risk assessments, plans to address risks, exercises) unique to each sector.Working with these critical infrastructure partners, each sector-specific federal department and agency will facilitate the development of sector networks to suit the needs of their stakeholders. The Strategy provides a framework for the functions of the sector networks, including:
+
+- promotion of timely information sharing;
+- identification of issues of national, regional or sectoral concern;
+- use of subject-matter expertise from critical infrastructure sectors to provide guidance on current and future challenges; and
+- development of tools and best practices for strengthening the resiliency of critical infrastructure across the full spectrum of prevention, mitigation, preparedness, response and recovery.
+
+The sector networks will be composed of relevant federal departments and agencies, provinces, territories, national associations and key members of the critical infrastructure sectors. Participation in these networks is voluntary. To facilitate the exchange of information, partners will collaborate to develop a protocol to safeguard information shared through these networks.
+
+To maintain a comprehensive and collaborative Canadian approach to enhancing the resiliency of critical infrastructure, a National Cross-Sector Forum will be established to promote information sharing across the sector networks and address cross-jurisdictional and cross-sectoral interdependencies. Specific membership will be drawn from the ten sector networks and will be representative of a broad base of owners and operators, associations, and federal, provincial and territorial governments. Partnership through the National Cross-Sector Forum will form the basis for the implementation of the national approach to critical infrastructure resiliency.
+
+Image Description
+
+#### National Cross-Sector Forum
+
+Membership: private sector, governments
+(federal, provincial, territorial)
+
+- Energy and utilities
+- Finance
+- Food
+- Transportation
+- Government
+- Information and communication technology
+- Health
+- Water
+- Safety
+- Manufacturing
+
+### 4.2 Implement all-hazards risk management approach
+
+**Strategic objective:**  Implement an all-hazards approach to risk management.
+
+The Strategy promotes the application of risk management and sound business continuity planning. While there are many acceptable approaches to the discipline of risk management, in the context of this Strategy, risk management refers to the continuous, proactive and systematic process to understand,manage and communicate risks, threats, vulnerabilities and interdependencies across the critical infrastructure community.
+
+Having a strong situational awareness of the risks and interdependencies that confront critical infrastructure in Canada is the first step towards a comprehensive risk management process. As part of the development of emergency management plans and programs, sector-specific federal departments and agencies are expected to work with provinces and territories and critical infrastructure sectors to acquire a greater understanding of these risks and interdependencies.
+
+To move forward with this comprehensive risk management process, federal, provincial and territorial governments will collaborate with their critical infrastructure partners to develop allhazards risk analyses that take into account accidental, intentional and natural hazards. While governments will promote a common approach to strengthening the resiliency of critical infrastructure, and will share tools, lessons learned and best practices, stakeholders are ultimately responsible for implementing a risk management approach appropriate to their situation.
+
+As part of the implementation of the Strategy, federal, provincial and territorial governments intend to conduct exercises and assist in the coordination of regional exercise planning across jurisdictions and with critical infrastructure sectors. The goal is to support a common approach to strengthening the resiliency of critical infrastructure. These exercises will assist partners to assess and recommend improvements to their plans,which will help assure Canadians of a swift and effective response and recovery in the face of a critical infrastructure disruption.
+
+### 4.3 Share and protect information
+
+**Strategic objective:**  Advance the timely sharing and protection of information among partners and key stakeholders.
+
+Information sharing and information protection are complementary elements of a strong foundation for collaborative efforts to strengthen the resiliency of critical infrastructure. Improved information sharing, in full respect of existing federal, provincial and territorial legislation and policies, will enhance the timely exchange of actionable information on risks as well as information about the overall status of critical assets so that owners and operators, governments, and others can assess risks and take appropriate action.
+
+Timely information sharing across governments and critical infrastructure sectors is needed to promote effective risk management and to understand and address critical infrastructure interdependencies. As requested by critical infrastructure stakeholders, improvements in information sharing will include:
+
+- a wider range of information products (e.g. risk assessments, incident reports, best practices, lessons learned, assessment tools);
+- improved delivery mechanisms (e.g.web-based critical infrastructure information);
+- improved protection of shared information from unauthorized disclosure; and
+- expanded production of all-hazards risk information products.
+
+Consistent with the principles of the *Emergency Management Framework for Canada*, federal, provincial and territorial governments will aim to be as open as possible about the work each level of government does in emergency management, security and business continuity planning. Information exchange is part of a crucial and continuous process before, during and after a disruption or emergency – it enables a common operating picture among all levels of government and the critical infrastructure sectors. In turn, this leads to improved coherency of action and facilitates a comprehensive approach across the spectrum of prevention, mitigation, preparedness, response and recovery.
+
+To improve the quality and usefulness of the information products, members of the sector networks will identify areas of emerging concern and identify priority areas for information products. It is expected that these information products will be used by critical infrastructure partners to improve the resiliency of their key assets and services.
+
+#### Information Protection
+
+In light of the many interdependencies in Canadian critical infrastructure, the inappropriate release of sensitive information that poses a risk for a province or local authority would often also constitute a risk for Canada. Exemptions from disclosure for reasons of national security and public safety already exist under federal, provincial and territorial access to and freedom of information legislation. At the federal level, the Government of Canada's *Emergency Management Act*,which came into force in 2007, included a consequential amendment to the Access to Information Act to give clear protection to sensitive information provided by critical infrastructure sectors.
+
+Governments will work towards providing an appropriate level of protection to emergency management and critical infrastructure information based on sensitivity.A common informationsharing protocol to support the sharing of information provided in confidence will be developed through a collaborative approach, including all levels of government. In addition, federal, provincial and territorial governments are encouraged to collaborate to share best practices on information protection. The end result of these efforts will be the development of a more coherent approach to information sharing and information protection in Canada.
+
+## 5. Review
+
+Federal, provincial and territorial governments will work together to monitor the implementation of the Strategy and support the assessment of programs and activities targeted at enhancing the resiliency of critical infrastructure in Canada. It is expected that the collaborative approach established in the Strategy will remain evergreen and strengthen coherency of action among all levels of government and critical infrastructure sectors.
+
+The Strategy is to be read in conjunction with the *Action Plan for Critical Infrastructure*,which will be reviewed three years after launch and every five years thereafter.
