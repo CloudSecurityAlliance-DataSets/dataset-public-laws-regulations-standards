@@ -2,23 +2,23 @@
 
 ## Table of contents
 
-- [**Forward**](#s1)
-- [**Executive Summary**](#s2)
-  - [Introduction and Background](#s2.1)
-  - [Findings of the Review](#s2.2)
-  - [Conclusion](#s2.3)
-- [**Introduction**](#s3)
-  - [Canada's Place in the Digital World](#s3.1)
-  - [The National Cyber Security Strategy](#s3.2)
-  - [Mid-Term Review of the National Cyber Security Strategy](#s3.3)
-- [**Performance Achievements**](#s4)
-  - [Goal 1: Secure and Resilient Canadian Systems](#s4.1)
-  - [Goal 2: An Innovative and Adaptive Cyber Ecosystem](#s4.2)
-  - [Goal 3: Effective Leadership, Governance and Collaboration](#s4.3)
-- [**Challenges and Lessons Learned**](#s5)
-- [**Conclusion**](#s6)
-- [**Annex A: Glossary**](#sA)
-- [**Annex B: The Cyber Threat Landscape**](#sB)
+- [**Forward**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s1)
+- [**Executive Summary**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s2)
+  - [Introduction and Background](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s2.1)
+  - [Findings of the Review](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s2.2)
+  - [Conclusion](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s2.3)
+- [**Introduction**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s3)
+  - [Canada's Place in the Digital World](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s3.1)
+  - [The National Cyber Security Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s3.2)
+  - [Mid-Term Review of the National Cyber Security Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s3.3)
+- [**Performance Achievements**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s4)
+  - [Goal 1: Secure and Resilient Canadian Systems](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s4.1)
+  - [Goal 2: An Innovative and Adaptive Cyber Ecosystem](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s4.2)
+  - [Goal 3: Effective Leadership, Governance and Collaboration](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s4.3)
+- [**Challenges and Lessons Learned**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s5)
+- [**Conclusion**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#s6)
+- [**Annex A: Glossary**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#sA)
+- [**Annex B: The Cyber Threat Landscape**](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#sB)
 
 ## Forward
 
@@ -41,7 +41,7 @@ Minister of Public Safety Canada
 
 ### Introduction and Background
 
-In June 2018, the Government of Canada (Government of Canada, the Government) released the [National Cyber Security Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx) (NCSS, the Strategy). The Strategy outlined Canada's vision for security and prosperity in the digital age, and outlined three goals in response to evolving threats, emerging opportunities, and the need for collaborative action. Under the Strategy's supporting [5-Year Action Plan (2019-2024)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/index-en.aspx), 14 horizontal initiatives are led by eight federal organizations[Footnote 1](#fn1). Funded through Budget 2018 ($507.7M over five years, and $108.8M ongoing), these initiatives represent an incremental first step to achieving this vision. As the Strategy was designed to be flexible, it was anticipated that additional initiatives could be identified as the cyber landscape continues to evolve.
+In June 2018, the Government of Canada (Government of Canada, the Government) released the [National Cyber Security Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx) (NCSS, the Strategy). The Strategy outlined Canada's vision for security and prosperity in the digital age, and outlined three goals in response to evolving threats, emerging opportunities, and the need for collaborative action. Under the Strategy's supporting [5-Year Action Plan (2019-2024)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/index-en.aspx), 14 horizontal initiatives are led by eight federal organizations[Footnote 1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn1). Funded through Budget 2018 ($507.7M over five years, and $108.8M ongoing), these initiatives represent an incremental first step to achieving this vision. As the Strategy was designed to be flexible, it was anticipated that additional initiatives could be identified as the cyber landscape continues to evolve.
 
 In 2021, Public Safety Canada launched a Mid-Term Review (the Review) of the Strategy with support from federal partners. The objectives of the Review were to:
 
@@ -70,7 +70,7 @@ Canada's plan for security and prosperity in the digital age relies on federal l
 
 The cyber landscape has been deeply altered by the COVID-19 pandemic that emerged in early 2020. As more Canadians work, shop, and socialize remotely, threat actors increasingly take advantage of the growing importance of the Internet and Internet-connected technologies.
 
-Every day, Canadians and Canadian systems are the targets of malicious cyber activities. Recent cyber activities have targeted COVID-19 vaccine research,[Footnote 2](#fn2) shut down critical infrastructure (e.g., Newfoundland and Labrador health sector,[Footnote 3](#fn3) Northwest Territories Power Corporation[Footnote 4](#fn4)), and cost Canadians and Canadian businesses hundreds of millions of dollars in both direct and collateral costs.[Footnote 5](#fn5) Globally, recent cyber events include the Colonial Pipeline ransomware incident,[Footnote 6](#fn6) the SolarWinds Orion hack,[Footnote 7](#fn7) and the JBS Foods incident,[Footnote 8](#fn8) which disrupted fuel supplies in the United States, compromised sensitive data around the world, and delayed food production respectively. Disruptions caused by malicious cyber activity have real-world consequences for Canadians as they impact essential services, cause significant financial and reputational damage to organizations, and adversely affect trust in institutions. They also highlight the vulnerabilities of Canada's systems, critical infrastructure and supply chains, and the fabric of its democratic systems.
+Every day, Canadians and Canadian systems are the targets of malicious cyber activities. Recent cyber activities have targeted COVID-19 vaccine research,[Footnote 2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn2) shut down critical infrastructure (e.g., Newfoundland and Labrador health sector,[Footnote 3](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn3) Northwest Territories Power Corporation[Footnote 4](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn4)), and cost Canadians and Canadian businesses hundreds of millions of dollars in both direct and collateral costs.[Footnote 5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn5) Globally, recent cyber events include the Colonial Pipeline ransomware incident,[Footnote 6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn6) the SolarWinds Orion hack,[Footnote 7](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn7) and the JBS Foods incident,[Footnote 8](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn8) which disrupted fuel supplies in the United States, compromised sensitive data around the world, and delayed food production respectively. Disruptions caused by malicious cyber activity have real-world consequences for Canadians as they impact essential services, cause significant financial and reputational damage to organizations, and adversely affect trust in institutions. They also highlight the vulnerabilities of Canada's systems, critical infrastructure and supply chains, and the fabric of its democratic systems.
 
 ### The National Cyber Security Strategy
 
@@ -266,7 +266,7 @@ Leadership, Governance and Collaboration:
 
 Initial investments through the National Cyber Security Strategy were foundational to the Government of Canada's efforts to protect Canada and Canadians against cybercrime, cyber-espionage, the disruption of critical infrastructure, and other cyber-enabled threats such as foreign interference and economic threats to national security. However, since the Strategy was released in 2018, the global cyber landscape has changed. An expanding threat landscape and the accelerated pace at which threats are evolving now requires a much more comprehensive and agile national and international response.
 
-In the wake of recent cyber incidents, including the one that disrupted critical healthcare systems across Newfoundland and Labrador in October 2021[Footnote 9](#fn9), the Government of Canada will continue to build on Canada's foundation of cyber resilience to secure the safety of Canadians, our economy, and national security.
+In the wake of recent cyber incidents, including the one that disrupted critical healthcare systems across Newfoundland and Labrador in October 2021[Footnote 9](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn9), the Government of Canada will continue to build on Canada's foundation of cyber resilience to secure the safety of Canadians, our economy, and national security.
 
 The cyber security workforce shortage remains one of the most critical and pressing challenges for Canada. The Government of Canada will continue to support workforce development on the national stage to prepare for the next generation of cyber security professionals.
 
@@ -332,129 +332,129 @@ Threats to the Security of Canada
 
 ## Annex B: The Cyber Threat Landscape
 
-The global cyber security threat landscape is rapidly evolving. Cyber incidents, including significant critical infrastructure incidents, are increasing in number and sophistication.[Footnote 10](#fn10) As more important day-to-day activities such as banking, government services, health services, commerce, and education move online, they also become susceptible to threat activity. In today's COVID-19 pandemic context, this trend has accelerated as Canadians increasingly work and socialize remotely.
+The global cyber security threat landscape is rapidly evolving. Cyber incidents, including significant critical infrastructure incidents, are increasing in number and sophistication.[Footnote 10](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn10) As more important day-to-day activities such as banking, government services, health services, commerce, and education move online, they also become susceptible to threat activity. In today's COVID-19 pandemic context, this trend has accelerated as Canadians increasingly work and socialize remotely.
 
 Cyber threat actors continue to adapt their activities to find valuable information and attempt to obtain it, hold it for ransom, and/or destroy it. These incidents disproportionally threaten the health, prosperity, and privacy of the most vulnerable in Canadian society, including senior citizens and individuals in remote communities.
 
-The Cyber Centre has identified five trends driving the evolution of the cyber landscape and threat activity.[Footnote 11](#fn11)
+The Cyber Centre has identified five trends driving the evolution of the cyber landscape and threat activity.[Footnote 11](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn11)
 
 ### 1. The physical safety of Canadians is increasingly being put at risk
 
-The safety of Canadians depends on critical infrastructure, as well as consumer and medical goods, many of which are controlled by computers embedded within them. Increasingly, these computers are being connected to the Internet by their manufacturers to enable new features or provide data to a third party. Once connected, these systems and goods are susceptible to cyber threat activity, and maintaining their security requires investments over time from manufacturers and owners. As much of the critical infrastructure in Canada is owned and operated by the private sector,[Footnote 12](#fn12) these security investments, although essential, can be difficult to sustain.
+The safety of Canadians depends on critical infrastructure, as well as consumer and medical goods, many of which are controlled by computers embedded within them. Increasingly, these computers are being connected to the Internet by their manufacturers to enable new features or provide data to a third party. Once connected, these systems and goods are susceptible to cyber threat activity, and maintaining their security requires investments over time from manufacturers and owners. As much of the critical infrastructure in Canada is owned and operated by the private sector,[Footnote 12](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn12) these security investments, although essential, can be difficult to sustain.
 
-The Cyber Centre assesses that, almost certainly, the most pressing cyber threat to the physical safety of Canadians are to operational technology[Footnote 13](#fn13) and critical infrastructure. In 2021, Canadians experienced significant cyber events involving critical infrastructure, including the October 2021 compromise of critical information technology systems supporting healthcare providers in Newfoundland and Labrador and the temporary removal of the websites and services of the Canada Revenue Agency, Government of Quebec, and Metrolinx-GO Transit in response to a critical vulnerability identified in December 2021.
+The Cyber Centre assesses that, almost certainly, the most pressing cyber threat to the physical safety of Canadians are to operational technology[Footnote 13](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn13) and critical infrastructure. In 2021, Canadians experienced significant cyber events involving critical infrastructure, including the October 2021 compromise of critical information technology systems supporting healthcare providers in Newfoundland and Labrador and the temporary removal of the websites and services of the Canada Revenue Agency, Government of Quebec, and Metrolinx-GO Transit in response to a critical vulnerability identified in December 2021.
 
 ### 2. More economic value is being put at risk
 
-State-sponsored cyber threat actors and cyber criminals continue to exact costs from Canadian individuals and businesses and damage the economy. Cyber criminals defraud individuals and companies and extort money from them through ransomware, and state-sponsored threat actors steal intellectual property and proprietary business information.[Footnote 14](#fn14) In Canada, the estimated average cost of a data breach (a compromise that includes, but is not limited to ransomware), is C$6.35M.[Footnote 15](#fn15) In 2021-22, the NC3 also received over 380 reports of ransomware with a nexus to Canadian victims, infrastructure and/or suspects, which represents a fraction of the actual level of victimization given underreporting challenges. The Canadian Anti-Fraud Centre (CAFC) also received $379 million in reported losses in 2021, more than double the previous record losses from 2020, and 70% were cyber-enabled.
+State-sponsored cyber threat actors and cyber criminals continue to exact costs from Canadian individuals and businesses and damage the economy. Cyber criminals defraud individuals and companies and extort money from them through ransomware, and state-sponsored threat actors steal intellectual property and proprietary business information.[Footnote 14](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn14) In Canada, the estimated average cost of a data breach (a compromise that includes, but is not limited to ransomware), is C$6.35M.[Footnote 15](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn15) In 2021-22, the NC3 also received over 380 reports of ransomware with a nexus to Canadian victims, infrastructure and/or suspects, which represents a fraction of the actual level of victimization given underreporting challenges. The Canadian Anti-Fraud Centre (CAFC) also received $379 million in reported losses in 2021, more than double the previous record losses from 2020, and 70% were cyber-enabled.
 
 The protection of intellectual property is crucial to the productivity and competitiveness of Canadian companies, and vital for Canada's economic growth and national defence. Certain countries continue to use advanced cyber espionage programs to obtain unfair advantages in the global marketplace and to improve their military technology. Commercial cyber espionage against Canadian companies is ongoing across a range of fields including aviation, technology and artificial intelligence, energy, and biopharmaceuticals.
 
 ### 3. More collected data increases privacy risk
 
-Canadians generate an incredible amount of data about their locations, shopping habits, pattern of life, personal health, and more when they use their Internet-connected devices. As Canadians generate, store, and share more personal information online, this data becomes vulnerable to cyber threat actors via breaches or misuse by the companies or foreign governments that collect it. For example, the Office of the Privacy Commissioner of Canada (OPC) recorded 680 data breaches impacting 28 million Canadians in the year ending November 1, 2019.[Footnote 16](#fn16) These large data breaches reveal personal information that can be used in follow-on crimes. Meanwhile, advances in data science make it more difficult to maintain data anonymity and privacy protections.
+Canadians generate an incredible amount of data about their locations, shopping habits, pattern of life, personal health, and more when they use their Internet-connected devices. As Canadians generate, store, and share more personal information online, this data becomes vulnerable to cyber threat actors via breaches or misuse by the companies or foreign governments that collect it. For example, the Office of the Privacy Commissioner of Canada (OPC) recorded 680 data breaches impacting 28 million Canadians in the year ending November 1, 2019.[Footnote 16](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn16) These large data breaches reveal personal information that can be used in follow-on crimes. Meanwhile, advances in data science make it more difficult to maintain data anonymity and privacy protections.
 
 ### 4. Advanced cyber tools and skills accessible to more threat actors
 
-The commercial sale of cyber tools – in both legitimate and illegal markets – coupled with a global pool of talent, has resulted in more threat actors and more sophisticated threat activity. Purchasing tools and services greatly reduces the start-up time for cyber criminals and enables them to use better tools. State-sponsored threat actors are also recruiting skilled expatriates with lucrative salaries to rapidly develop their national cyber programs.[Footnote 17](#fn17) These trends make it more challenging to identify, attribute, and defend against cyber threat activity. To illustrate the scale and scope of this challenge, on any given day, CSE's defensive cyber systems can block anywhere from 3 to 5 billion actions targeting Government of Canada networks. As noted above, cyber incidents may result in the denial of critical services, the theft of sensitive information, and disruptions to government supply chains.
+The commercial sale of cyber tools – in both legitimate and illegal markets – coupled with a global pool of talent, has resulted in more threat actors and more sophisticated threat activity. Purchasing tools and services greatly reduces the start-up time for cyber criminals and enables them to use better tools. State-sponsored threat actors are also recruiting skilled expatriates with lucrative salaries to rapidly develop their national cyber programs.[Footnote 17](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn17) These trends make it more challenging to identify, attribute, and defend against cyber threat activity. To illustrate the scale and scope of this challenge, on any given day, CSE's defensive cyber systems can block anywhere from 3 to 5 billion actions targeting Government of Canada networks. As noted above, cyber incidents may result in the denial of critical services, the theft of sensitive information, and disruptions to government supply chains.
 
 ### 5. Internet at a crossroads
 
-Adversaries also use online influence to further their core interests, which include national security, economic prosperity, and ideological goals.[Footnote 18](#fn18) Online foreign influence activities have become a new normal, and adversaries seek to influence both domestic events, like elections, as well as international discourse related to current events.[Footnote 19](#fn19) In addition, many states are pushing hard to change the accepted approach to Internet governance from the existing, multi-stakeholder approach, to one of state sovereignty that will allow them to track their citizens and censor information.
+Adversaries also use online influence to further their core interests, which include national security, economic prosperity, and ideological goals.[Footnote 18](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn18) Online foreign influence activities have become a new normal, and adversaries seek to influence both domestic events, like elections, as well as international discourse related to current events.[Footnote 19](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn19) In addition, many states are pushing hard to change the accepted approach to Internet governance from the existing, multi-stakeholder approach, to one of state sovereignty that will allow them to track their citizens and censor information.
 
 ## Footnotes
 
 Footnote 1
 :   Canadian Security Intelligence Service (CSIS); Communications Security Establishment (CSE); Employment and Social Development Canada (ESDC); Global Affairs Canada (GAC); Innovation, Science and Economic Development Canada (ISED); Natural Resources Canada (NRCan); Public Safety Canada (PS); and Royal Canadian Mounted Police (RCMP).
 
-    [Return to first footnote 1 referrer](#fn1-1-rf)
+    [Return to first footnote 1 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn1-1-rf)
 
 Footnote 2
 :   Communications Security Establishment, *CSE Statement on Threat Activity Targeting COVID-19 Vaccine Development*, 2020. [CSE Statement on Threat Activity Targeting COVID-19 Vaccine Development - Communications Security Establishment (cse-cst.gc.ca)](https://cse-cst.gc.ca/en/information-and-resources/news/cse-statement-threat-activity-targeting-covid-19-vaccine-development).
 
-    [Return to first footnote 2 referrer](#fn2-1-rf)
+    [Return to first footnote 2 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn2-1-rf)
 
 Footnote 3
 :   "N.L. health-care cyberattack is worst in Canadian history, says cybersecurity expert", CBC News. November 14, 2021. <https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210>.
 
-    [Return to first footnote 3 referrer](#fn3-1-rf)
+    [Return to first footnote 3 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn3-1-rf)
 
 Footnote 4
 :   Walter Strong. "NTPC confirms 'cyber attack' from unknown source on Thursday, RCMP investigating", CBC News. April 30, 2020. [NTPC confirms 'cyber attack' from unknown source on Thursday, RCMP investigating | CBC News](https://www.cbc.ca/news/canada/north/ntpc-apparent-ransomware-attack-1.5551603#:~:text=CBC%20News%20Loaded-,NTPC%20confirms%20%27cyber%20attack%27%20from%20unknown%20source%20on%20Thursday%2C,attack%20from%20an%20unknown%20source.%22).
 
-    [Return to first footnote 4 referrer](#fn4-1-rf)
+    [Return to first footnote 4 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn4-1-rf)
 
 Footnote 5
 :   CCCS, *Cyber Threat bulletin: The ransomware threat in 2021*, 2021. [Cyber threat bulletin: The ransomware threat in 2021 - Canadian Centre for Cyber Security](https://cyber.gc.ca/en/guidance/cyber-threat-bulletin-ransomware-threat-2021#fn2).
 
-    [Return to first footnote 5 referrer](#fn5-1-rf)
+    [Return to first footnote 5 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn5-1-rf)
 
 Footnote 6
 :   William Turton and Kartikay Mehrotra. "Hackers Breached Colonial Pipeline Using Compromised Password", Bloomberg. June 4, 2021. <https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password>.
 
-    [Return to first footnote 6 referrer](#fn6-1-rf)
+    [Return to first footnote 6 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn6-1-rf)
 
 Footnote 7
 :   "SolarWinds hack was 'largest and most sophisticated attack' ever: Microsoft president", Reuters. February 14, 2021. <https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R>.
 
-    [Return to first footnote 7 referrer](#fn7-1-rf)
+    [Return to first footnote 7 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn7-1-rf)
 
 Footnote 8
 :   "JBS: Cyber-attack hits world's largest meat supplier", BBC News. June 2, 2021. <https://www.bbc.com/news/world-us-canada-57318965>.
 
-    [Return to first footnote 8 referrer](#fn8-1-rf)
+    [Return to first footnote 8 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn8-1-rf)
 
 Footnote 9
 :   Government of Newfoundland and Labrador, *Information and Updates on Cyber Incident*, 2022. [Information and Updates on Cyber Incident - Health and Community Services (gov.nl.ca)](https://www.gov.nl.ca/hcs/information-and-updates-on-cyber-incident/).
 
-    [Return to first footnote 9 referrer](#fn9-1-rf)
+    [Return to first footnote 9 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn9-1-rf)
 
 Footnote 10
 :   CCCS, *National Cyber Threat Assessment 2020*, 2020, p. 5. <https://cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2020>.
 
-    [Return to first footnote 10 referrer](#fn10-1-rf)
+    [Return to first footnote 10 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn10-1-rf)
 
 Footnote 11
 :   Ibid.
 
-    [Return to first footnote 11 referrer](#fn11-1-rf)
+    [Return to first footnote 11 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn11-1-rf)
 
 Footnote 12
 :   Government of Canada, *Let's Talk Critical Infrastructure - Frequently Asked Questions*, 2022. <https://www.letstalkcriticalinfrastructure.ca/frequently-asked-questions>.
 
-    [Return to first footnote 12 referrer](#fn12-1-rf)
+    [Return to first footnote 12 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn12-1-rf)
 
 Footnote 13
 :   Operational technology (OT) is a broad term that refers to technology used to control physical processes such as dam openings, broiler activities, electricity conduction, and pipeline operations.
 
-    [Return to first footnote 13 referrer](#fn13-1-rf)
+    [Return to first footnote 13 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn13-1-rf)
 
 Footnote 14
 :   CCCS, *National Cyber Threat Assessment 2020*, 2020. [ncta-2020-e-web.pdf (cyber.gc.ca)](https://cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2020).
 
-    [Return to first footnote 14 referrer](#fn14-1-rf)
+    [Return to first footnote 14 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn14-1-rf)
 
 Footnote 15
 :   IBM, The Cost of a Data Breach Report 2021, July 28, 2021. <https://www.ibm.com/downloads/cas/OJDVQGRY>.
 
-    [Return to first footnote 15 referrer](#fn15-1-rf)
+    [Return to first footnote 15 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn15-1-rf)
 
 Footnote 16
 :   CCCS, National Cyber Threat Assessment 2020, 2020. [ncta-2020-e-web.pdf (cyber.gc.ca)](https://cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2020).
 
-    [Return to first footnote 16 referrer](#fn16-1-rf)
+    [Return to first footnote 16 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn16-1-rf)
 
 Footnote 17
 :   Ibid.
 
-    [Return to first footnote 17 referrer](#fn17-1-rf)
+    [Return to first footnote 17 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn17-1-rf)
 
 Footnote 18
 :   CCCS, Cyber threats to Canada's democratic process: July 2021 update, 2021. <https://cyber.gc.ca/en/cyber-threats-canadas-democratic-process-july-2021-update>.
 
-    [Return to first footnote 18 referrer](#fn18-1-rf)
+    [Return to first footnote 18 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn18-1-rf)
 
 Footnote 19
 :   CCCS, National Cyber Threat Assessment 2020, 2020. [ncta-2020-e-web.pdf (cyber.gc.ca)](https://cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2020).
 
-    [Return to first footnote 19 referrer](#fn19-1-rf)
+    [Return to first footnote 19 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019-md-trm/index-en.aspx#fn19-1-rf)

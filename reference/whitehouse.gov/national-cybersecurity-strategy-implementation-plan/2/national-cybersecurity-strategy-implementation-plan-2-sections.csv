@@ -35,9 +35,11 @@ Nothing in this plan shall be construed to impair or otherwise affect the implem
 
 Pillar – The Pillar under which the initiative falls.
 
-Strategic Objective – The Strategic Objective associated with the initiative."
-"3","","Initiative Number – A unique number associated with the specific initiative in the form of","","","<Pillar>.<Strategic Objective>.<Initiative Number>."
-"3","","Initiative Title – The title of an action that will support the overall outcome of the Strategic","","","Objective.
+Strategic Objective – The Strategic Objective associated with the initiative.
+
+Initiative Number – A unique number associated with the specific initiative in the form of <Pillar>.<Strategic Objective>.<Initiative Number>.
+
+Initiative Title – The title of an action that will support the overall outcome of the Strategic Objective.
 
 Initiative Description – An explanation of the activities associated with the action.
 
@@ -122,7 +124,7 @@ Responsible Agency: ONCD
 Contributing Entities: CISA, OMB
 
 Completion Date: 2Q FY25"
-"3","Strategic Objective 1.2","Scale Public-Private Collaboration","objective","",""
+"3","Strategic Objective 1.2","Scale Public-Private Collaboration","objective","Strategic Objective 1.1",""
 "4","Initiative 1.2.1","Scale public-private partnerships to drive development and adoption of secure-by-design and secure-by-default technology","initiative","Strategic Objective 1.2","**Initiative Description:** The Cybersecurity and Infrastructure Security Agency will lead public-private partnerships with technology manufacturers, educators, non-profit organizations, academia, the open-source software community, and others to drive the development and adoption of software and hardware that is secure-by-design and secure-by-default. CISA, working with NIST, other federal agencies, including SRMAs, as appropriate, and the private sector will develop secure-by-design and secure-by-default principles and practices that first leverage existing and relevant international, industry, and government standards and practices. CISA will identify barriers to adoption for such principles and best practices, and will work to drive collective action to adopt these principles across the private sector. In the case that gaps between secure-by-design and secure-by-default principles and existing standards and practices are identified, CISA, NIST, NSF, and other federal agencies, including SRMAs, as appropriate, will lead open and transparent public-private partnerships to fill those gaps.
 
 **NCS Reference:** The Federal Government will also deepen operational and strategic collaboration with software, hardware, and managed service providers with the capability to reshape the cyber landscape in favor of greater security and resilience.
@@ -237,7 +239,7 @@ Responsible Agency: ONCD
 Contributing Entities: FEMA
 
 Completion Date: 2Q FY25"
-"3","Strategic Objective 1.5","Modernize Federal Defenses","objective","",""
+"3","Strategic Objective 1.5","Modernize Federal Defenses","objective","Strategic Objective 1.4",""
 "4","Initiative 1.5.1","Secure unclassified Federal Civilian Executive Branch (FCEB) systems","initiative","Strategic Objective 1.5","**Initiative Description:** The Office of Management and Budget, in coordination with CISA, will develop a plan of action to secure unclassified FCEB systems through collective operational defense and to foster expanded use of centralized shared services, enterprise license agreements, and software supply chain risk mitigation.
 
 **NCS Reference:** OMB, in coordination with CISA, will develop a plan of action to secure FCEB systems through collective operational defense, expanded availability of centralized shared services, and software supply chain risk mitigation.
@@ -493,7 +495,7 @@ Responsible Agency: DOJ
 Completion Date: 4Q FY25"
 "2","Strategic Objective 3.6","Explore a Federal Cyber Insurance Backstop","objective","",""
 "4","Initiative 3.6.1","Assess the need for a Federal insurance response to a catastrophic cyber event","initiative","Strategic Objective 3.6",""
-"3","Pillar Four","Invest in a Resilient Future","pillar","",""
+"3","Pillar Four","Invest in a Resilient Future","pillar","Strategic Objective 3.6",""
 "2","Strategic Objective 4.1","Secure the Technical Foundation of the Internet","objective","",""
 "4","Initiative 4.1.1","Lead the adoption of network security best practices","initiative","Strategic Objective 4.1",""
 "4","Initiative 4.1.2","Promote open-source software security and the adoption of memory-safe programming languages","initiative","Strategic Objective 4.1",""
@@ -569,7 +571,7 @@ Completion Date: 3Q FY25"
 Responsible Agency: NIST
 
 Completion Date: 1Q FY25"
-"3","Strategic Objective 4.4","Secure Our Clean Energy Future","objective","",""
+"3","Strategic Objective 4.4","Secure Our Clean Energy Future","objective","Strategic Objective 4.3",""
 "4","Initiative 4.4.1","Drive adoption of cyber secure-by-design principles by incorporating them into Federal projects","initiative","Strategic Objective 4.4",""
 "4","Initiative 4.4.2","Develop a plan to ensure the digital ecosystem can support and deliver the U.S. Government's decarbonization goals","initiative","Strategic Objective 4.4",""
 "4","Initiative 4.4.3","Build and refine training, tools, and support for engineers and technicians using cyber-informed engineering principles","initiative","Strategic Objective 4.4","**Initiative Description:** The Department of Energy will work with stakeholders to build on the National Cyber-Informed Engineering Strategy to advance the training, tools, and support for engineers and technicians to enable them to design, build, and operate operational technology and control systems that are secure-and resilient-by-design.
@@ -715,7 +717,7 @@ Contributing Entities: DHS, DoD, ODNI, NIST, FCC
 
 Completion Date: 3Q FY24"
 "3","","Implementation-wide Initiatives","","",""
-"3","Implementation 6.1","Assessing Effectiveness","objective","",""
+"3","Implementation 6.1","Assessing Effectiveness","objective","Strategic Objective 5.5",""
 "4","Initiative 6.1.1","Report progress and effectiveness on implementing the National Cybersecurity Strategy","initiative","Implementation 6.1","**Initiative Description:** The Office of the National Cyber Director will assess the effectiveness of this strategy, associated policy, and follow-on actions and provide the first annual report to the President, the Assistant to the President for National Security Affairs, and Congress.
 
 **NCS Reference:** ONCD, in coordination with NSC staff, OMB, and departments and agencies, will assess the effectiveness of this strategy and report annually to the President, the Assistant to the President for National Security Affairs, and Congress on the effectiveness of this strategy, associated policy, and follow-on actions in achieving its goals.

@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 57-page born-digital White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf) locally via column-aware PyMuPDF layout analysis (82,066 chars) and parsed 112 sections (100 with ID)."
+    "notes": "Extracted 57-page born-digital White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf) locally via column-aware PyMuPDF layout analysis (82,056 chars) and parsed 110 sections (100 with ID)."
   },
   "extraction_history": [
     {

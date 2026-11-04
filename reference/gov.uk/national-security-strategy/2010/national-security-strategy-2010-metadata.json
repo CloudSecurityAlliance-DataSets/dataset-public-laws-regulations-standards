@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 39-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf) locally via column-aware PyMuPDF layout analysis (93,646 chars) and parsed 81 sections (6 with ID)."
+    "notes": "Extracted 39-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf) locally via column-aware PyMuPDF layout analysis (93,413 chars) and parsed 73 sections (5 with ID)."
   },
   "extraction_history": [
     {

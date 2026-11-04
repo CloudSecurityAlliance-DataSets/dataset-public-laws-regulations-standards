@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [About the National Security Transparency Commitment](#s1)
-- [The Six Principles of National Security Transparency](#s2)
-- [Transparency at Departments and Agencies](#s3)
+- [About the National Security Transparency Commitment](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html#s1)
+- [The Six Principles of National Security Transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html#s2)
+- [Transparency at Departments and Agencies](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html#s3)
 - [The National Security Transparency Advisory Group (NS-TAG)](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html)
   - [About](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s1)
   - [Mandate](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2)
@@ -140,13 +140,13 @@ The Government is also fulfilling its  [commitment to transparency](https://www.
 
 ## On this page
 
-- [About](#s1)
-- [Mandate](#s2)
-- [Advice to the Deputy Minister of Public Safety Canada](#s2a)
-- [Meetings and Accountability](#s3)
-- [Meeting Summaries](#s4)
-- [Membership](#s5)
-- [Current NS-TAG Members](#s6)
+- [About](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s1)
+- [Mandate](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2)
+- [Advice to the Deputy Minister of Public Safety Canada](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2a)
+- [Meetings and Accountability](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s3)
+- [Meeting Summaries](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s4)
+- [Membership](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s5)
+- [Current NS-TAG Members](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s6)
 
 ## About
 
@@ -229,17 +229,17 @@ Members accept their appointment on a voluntary basis, and are not paid or remun
 
 The current members of the NS-TAG can be found below, in alphabetical order.
 
-- [John Ariyo](#m1)
-- [Chantal Bernier](#m2)
-- [Patrick Boucher](#m3) (serving as government Co-Chair)
-- [Amira Elghawaby](#m4)
-- [Mary Francoli](#m5) (serving as non-government Co-Chair)
-- [Daniel Jean](#m6)
-- [Stéphane Leman-Langlois](#m7)
-- [Rizwan Mohammad](#m8)
-- [Jeffrey Roy](#m9)
-- [Jillian Stirk](#m10)
-- [Lorelei Williams](#m11)
+- [John Ariyo](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m1)
+- [Chantal Bernier](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m2)
+- [Patrick Boucher](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m3) (serving as government Co-Chair)
+- [Amira Elghawaby](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m4)
+- [Mary Francoli](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m5) (serving as non-government Co-Chair)
+- [Daniel Jean](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m6)
+- [Stéphane Leman-Langlois](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m7)
+- [Rizwan Mohammad](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m8)
+- [Jeffrey Roy](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m9)
+- [Jillian Stirk](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m10)
+- [Lorelei Williams](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#m11)
 
 John Ariyo
 :   John Ariyo is the Executive Director, Equity and Engagement for the Province of Nova Scotia, at the Department of Health and Wellness. He also worked for the City of Mississauga and City of Hamilton, and as a Returning Officer for Elections Ontario. John has extensive leadership experience leading initiatives that build public trust, democratic involvement, and community engagement with various racialized and underrepresented populations in Ontario and Nova Scotia. He played leadership roles on many community organizations serving newcomers and marginalized residents, such as at the Hamilton Immigrants Working Centre (Chair of the Board of Directors) and the Hamilton Community Legal Clinic (Director and Treasurer). John is a member of the Halifax Regional Municipality's Electoral Boundary Resident Review Panel.

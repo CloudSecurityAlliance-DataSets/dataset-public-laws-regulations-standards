@@ -6,16 +6,16 @@ Securing Canada's Digital Future
 
 ##### Table of contents
 
-- [Minister of Public Safety Message](#s1)
-- [Introduction](#s2)
-- [The Challenge: Cyber Threats Affecting Canadians Evolve Constantly](#s3)
-- [Addressing the Challenge: A New Approach to National Cyber Security that Engages All Canadians](#s4)
-- [Pillar 1: Work with Partners to Protect Canadians and Canadian Businesses from Cyber Threats](#s5)
-- [Pillar 2: Make Canada a Global Cyber Security Industry Leader](#s6)
-- [Pillar 3: Detect and Disrupt Cyber Threat Actors](#s7)
-- [Conclusion](#s8)
-- [Cyber Security Roles and Responsibilities in the Government of Canada](#s9)
-- [Glossary](#s10)
+- [Minister of Public Safety Message](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s1)
+- [Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s2)
+- [The Challenge: Cyber Threats Affecting Canadians Evolve Constantly](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s3)
+- [Addressing the Challenge: A New Approach to National Cyber Security that Engages All Canadians](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s4)
+- [Pillar 1: Work with Partners to Protect Canadians and Canadian Businesses from Cyber Threats](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s5)
+- [Pillar 2: Make Canada a Global Cyber Security Industry Leader](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s6)
+- [Pillar 3: Detect and Disrupt Cyber Threat Actors](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s7)
+- [Conclusion](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s8)
+- [Cyber Security Roles and Responsibilities in the Government of Canada](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s9)
+- [Glossary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s10)
 
 ## Minister of Public Safety Message
 

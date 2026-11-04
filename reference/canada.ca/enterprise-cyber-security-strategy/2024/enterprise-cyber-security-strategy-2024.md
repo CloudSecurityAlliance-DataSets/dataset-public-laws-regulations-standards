@@ -2,13 +2,13 @@
 
 ## On this page
 
-- [Message from the President](#msg)
-- [1. Introduction](#toc-1)
-- [2. Whole-of-government approach for cyber security of government operations](#toc-2)
-- [3. Implementation approach](#toc-3)
-- [4. Conclusion](#toc-4)
-- [Appendix A: key performance indicators](#app-a)
-- [Appendix B: glossary](#app-b)
+- [Message from the President](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#msg)
+- [1. Introduction](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-1)
+- [2. Whole-of-government approach for cyber security of government operations](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-2)
+- [3. Implementation approach](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-3)
+- [4. Conclusion](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-4)
+- [Appendix A: key performance indicators](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#app-a)
+- [Appendix B: glossary](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#app-b)
 
 ## Message from the President
 
@@ -37,9 +37,9 @@ President of the Treasury Board
 
 In this section
 
-- [1.1 Context](#toc-1.1)
-- [1.2 Purpose and scope](#toc-1.2)
-- [1.3 Current environment](#toc-1.3)
+- [1.1 Context](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-1.1)
+- [1.2 Purpose and scope](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-1.2)
+- [1.3 Current environment](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-1.3)
 
 ### 1.1 Context
 
@@ -90,7 +90,7 @@ As outlined in [*Canada’s Digital Ambition 2022*](https://www.canada.ca/en/go
 - **Cyber security events and cyber security incidents continue to affect government**
   - Each year, there is an increase in the number of zero-day vulnerabilities that require immediate action from the GC.
   - Compromises within the supply chain (for example, SolarWinds) have an impact on the GC, and introduce operational risks when third-party services are used. There is a need for critical infrastructure institutions (that is, natural resources, financial, health, telecommunications) to be at the forefront of cyber security and resilience discussions during vulnerability analysis. The GC needs to ensure that all cyber security activities are conducted in conjunction with these critical infrastructure institutions to ensure a cohesive and collective approach to cyber security and resilience.
-  - Sophisticated cyber incidents[Footnote 1](#fn1) affecting departments and agencies demonstrate that the GC continues to be a target, which drives the need to promptly address any architecture weaknesses in GC information systems.
+  - Sophisticated cyber incidents[Footnote 1](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#fn1) affecting departments and agencies demonstrate that the GC continues to be a target, which drives the need to promptly address any architecture weaknesses in GC information systems.
   - Cyber attacks and data breaches also provide opportunities for fraudsters to exploit vulnerabilities and carry out fraudulent activities using techniques, such as social engineering, phishing, or enumeration of stolen credentials, to gain unauthorized access to systems that can potentially lead to identity theft or financial fraud.
 
 #### Progress to date
@@ -150,10 +150,10 @@ Addressing this ever-evolving cyber security risk landscape will require the GC 
 
 In this section
 
-- [2.1 Vision](#toc-2.1)
-- [2.2 Key stakeholders](#toc-2.2)
-- [2.3 Strategic objectives](#toc-2.3)
-- [2.4 Logic model](#toc-2.4)
+- [2.1 Vision](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-2.1)
+- [2.2 Key stakeholders](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-2.2)
+- [2.3 Strategic objectives](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-2.3)
+- [2.4 Logic model](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#toc-2.4)
 
 ### 2.1 Vision
 
@@ -446,4 +446,4 @@ Table A.1: strategic objectives, key actions and key performance indicators
 Footnote 1
 :   [Canada’s foreign affairs department targeted in “significant” cyber attack](https://nationalpost.com/news/politics/canadas-foreign-affairs-department-targetted-in-significant-cyber-attack), *National Post*, January 24, 2022; [Canada’s National Research Council hit by “cyber incident”](https://www.theglobeandmail.com/canada/article-canadas-national-research-council-hit-by-cyber-incident/), *Globe and Mail*, March 21, 2022; [DDoS attacks block PM Trudeau’s web site](https://www.itworldcanada.com/article/breaking-news-ddos-attacks-block-pm-trudeaus-web-site/536110), *IT World Canada*, April 11, 2023
 
-    [Return to footnote 1 referrer](#fn2-rf)
+    [Return to footnote 1 referrer](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html#fn2-rf)

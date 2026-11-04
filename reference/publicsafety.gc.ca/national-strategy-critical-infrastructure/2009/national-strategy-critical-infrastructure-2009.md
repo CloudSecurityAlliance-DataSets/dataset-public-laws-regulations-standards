@@ -6,15 +6,15 @@ ISBN: 978-1-100-11248-0
 
 ##### Table of contents
 
-- [Executive summary](#s0)
-- [1. Purpose](#s1)
-- [2. Strategic objective](#s2)
-- [3. Context](#s3)
-- [4. The Strategy](#s4)
-  - [4.1 Build partnerships](#s4_1)
-  - [4.2 Implement all-hazards risk management approach](#s4_2)
-  - [4.3 Share and protect information](#s4_3)
-- [5. Review](#s5)
+- [Executive summary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s0)
+- [1. Purpose](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s1)
+- [2. Strategic objective](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s2)
+- [3. Context](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s3)
+- [4. The Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4)
+  - [4.1 Build partnerships](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_1)
+  - [4.2 Implement all-hazards risk management approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_2)
+  - [4.3 Share and protect information](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s4_3)
+- [5. Review](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx#s5)
 
 \* The Strategy is to be read in conjunction with the [Action Plan for Critical Infrastructure.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2021-ctn-pln-crtcl-nfrstrctr/index-en.aspx)
 

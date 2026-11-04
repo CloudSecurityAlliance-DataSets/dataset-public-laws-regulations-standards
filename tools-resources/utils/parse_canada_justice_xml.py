@@ -152,8 +152,22 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
     root = ET.fromstring(xml_bytes)
     rows: list[dict] = []
     md_lines: list[str] = [f"# {doc_title}", ""]
+    header_line_by_row: dict[int, int] = {}
     current_part = ""
     current_heading = ""
+
+    def collect_and_strip_nested_amended(el: ET.Element, ctx_lbl: str = "") -> list[tuple[str, ET.Element]]:
+        found: list[tuple[str, ET.Element]] = []
+        for child in list(el):
+            tag = strip_ns(child.tag)
+            if tag == "AmendedText" and (child.find(".//Section") is not None or child.find(".//Heading") is not None):
+                found.append((ctx_lbl, copy.deepcopy(child)))
+                el.remove(child)
+            elif tag != "Section":
+                sub_l = text_of(child.find("Label")) if tag in ("Subsection", "Paragraph", "Subparagraph") else ""
+                next_lbl = f"{ctx_lbl}{sub_l}" if sub_l else ctx_lbl
+                found.extend(collect_and_strip_nested_amended(child, next_lbl))
+        return found
 
     def emit_section(sec_el, part_ctx: str, heading_ctx: str, id_prefix: str = ""):
         nonlocal current_part, current_heading
@@ -161,18 +175,19 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
         marginal = text_of(sec_el.find("MarginalNote"))
         full_sec_id = f"{id_prefix}:{sec_label}" if (id_prefix and sec_label) else (sec_label or id_prefix)
 
-        amended = sec_el.find("AmendedText")
-        has_nested_sections = amended is not None and (
-            amended.find(".//Section") is not None or amended.find(".//Heading") is not None
-        )
+        all_amended: list[tuple[str, ET.Element]] = []
 
         sec_header = f"Section {full_sec_id}: {marginal}" if marginal else f"Section {full_sec_id}"
+        hdr_line_idx = len(md_lines)
         md_lines.append(f"#### {sec_header}")
         md_lines.append("")
 
         paras: list[str] = []
         subsecs = sec_el.findall("Subsection")
         if subsecs:
+            for direct_am in sec_el.findall("AmendedText"):
+                if direct_am.find(".//Section") is not None or direct_am.find(".//Heading") is not None:
+                    all_amended.append(("", direct_am))
             for sub in subsecs:
                 sub_lbl = text_of(sub.find("Label"))
                 sub_mn = text_of(sub.find("MarginalNote"))
@@ -180,6 +195,7 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
                 for rm_tag in ("MarginalNote", "Label"):
                     for rm in list(sub_copy.findall(rm_tag)):
                         sub_copy.remove(rm)
+                all_amended.extend(collect_and_strip_nested_amended(sub_copy, sub_lbl))
                 sub_body = text_of(sub_copy)
                 prefix = f"{sub_lbl} " if sub_lbl else ""
                 if sub_mn:
@@ -194,9 +210,7 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
             for rm_tag in ("MarginalNote", "Label"):
                 for rm in list(sec_copy.findall(rm_tag)):
                     sec_copy.remove(rm)
-            if has_nested_sections:
-                for rm in list(sec_copy.findall("AmendedText")):
-                    sec_copy.remove(rm)
+            all_amended.extend(collect_and_strip_nested_amended(sec_copy, ""))
             sec_body = text_of(sec_copy)
             if sec_body:
                 paras.append(sec_body)
@@ -213,13 +227,15 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
                 "body": "\n\n".join(paras),
             }
         )
+        header_line_by_row[len(rows) - 1] = hdr_line_idx
 
-        if has_nested_sections and amended is not None:
+        for sub_lbl, amended in all_amended:
             bill_internal = amended.find("BillInternal")
             saved_part, saved_heading = current_part, current_heading
+            clause_ref = f"{sec_label}{sub_lbl}" if sub_lbl else sec_label
             if bill_internal is not None:
-                act_name, act_acr = extract_enacted_act_info(bill_internal, sec_label)
-                base_part = f"{part_ctx} — {act_name} (Clause {sec_label})" if part_ctx else f"{act_name} (Clause {sec_label})"
+                act_name, act_acr = extract_enacted_act_info(bill_internal, clause_ref)
+                base_part = f"{part_ctx} — {act_name} (Clause {clause_ref})" if part_ctx else f"{act_name} (Clause {clause_ref})"
                 current_part = base_part
                 current_heading = ""
                 long_title = text_of(bill_internal.find("LongTitle"))
@@ -246,8 +262,8 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
                 if bi_body is not None:
                     walk_container(bi_body, part_prefix=base_part, id_prefix=act_acr)
             else:
-                nested_part = f"{part_ctx} (Clause {sec_label})" if part_ctx else f"Clause {sec_label}"
-                nested_id_prefix = f"{id_prefix}.s{sec_label}" if id_prefix else f"s{sec_label}"
+                nested_part = f"{part_ctx} (Clause {clause_ref})" if part_ctx else f"Clause {clause_ref}"
+                nested_id_prefix = f"{id_prefix}.s{clause_ref}" if id_prefix else f"s{clause_ref}"
                 current_part = nested_part
                 walk_container(amended, part_prefix=nested_part, id_prefix=nested_id_prefix)
             current_part, current_heading = saved_part, saved_heading
@@ -355,6 +371,31 @@ def parse_canadian_xml_statute(xml_bytes: bytes, doc_title: str) -> tuple[str, l
 
     for sched in root.findall("Schedule"):
         walk_schedule(sched)
+
+    # Disambiguate any source-label collisions (e.g., NSIRA Act s. 15.1 or Bill C-59 PART 5 s. 2)
+    id_counts: dict[str, int] = {}
+    for r in rows:
+        sid = r["section_id"]
+        id_counts[sid] = id_counts.get(sid, 0) + 1
+    dup_ids = {sid for sid, cnt in id_counts.items() if cnt > 1}
+    if dup_ids:
+        used_ids = {r["section_id"] for r in rows if r["section_id"] not in dup_ids}
+        occ_counter: dict[str, int] = {}
+        for idx, r in enumerate(rows):
+            sid = r["section_id"]
+            if sid not in dup_ids:
+                continue
+            occ_counter[sid] = occ_counter.get(sid, 0) + 1
+            part_short = r["part"].split(" — ")[0].strip() if r["part"] else ""
+            ctx = part_short or r["heading"] or r["marginal_note"] or f"#{occ_counter[sid]}"
+            candidate = f"{sid} ({ctx})"
+            if candidate in used_ids:
+                candidate = f"{sid} ({ctx} #{occ_counter[sid]})"
+            used_ids.add(candidate)
+            r["section_id"] = candidate
+            if idx in header_line_by_row:
+                mn = r["marginal_note"]
+                md_lines[header_line_by_row[idx]] = f"#### Section {candidate}: {mn}" if mn else f"#### Section {candidate}"
 
     return "\n".join(md_lines).strip() + "\n", rows
 

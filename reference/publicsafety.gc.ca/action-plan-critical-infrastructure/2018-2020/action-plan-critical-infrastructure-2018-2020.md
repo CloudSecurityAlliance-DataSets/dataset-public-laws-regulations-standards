@@ -6,27 +6,27 @@ Information identified as archived is provided for reference, research or record
 
 ## Archived
 
-[This page has been archived on the Web.](#archived)
+[This page has been archived on the Web.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#archived)
 
 [PDF Version (293 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/pln-crtcl-nfrstrctr-2018-20-en.pdf)
 
 ##### Table of contents
 
-- [Introduction](#a01)
-- [2010-2017 Accomplishments](#a02)
-- [The Risk Landscape: What has changed](#a03)
-- [Community Engagement: How we work together](#a04)
-- [2018-2020 Action Items](#a05)
-- [Building Partnerships](#a06)
-- [Sharing and Protecting Information](#a07)
-- [Implementing an All-Hazards Risk Management Approach](#a08)
-- [Conclusion](#a09)
-- [Annex A: Role and Responsibilities](#a10)
-- [Annex B: Critical Infrastructure Sectors and Lead Federal Departments/Agencies](#a11)
-- [Annex C: Sector Networks and the National Cross Sector Forum](#a12)
-- [Annex D: Achievements under the Action Plan for Critical Infrastructure (2014-2017)](#a13)
-- [Annex E: 2018-2020 Action Plan: Summary Table](#a14)
-- [Annex F: Resources](#a15)
+- [Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a01)
+- [2010-2017 Accomplishments](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a02)
+- [The Risk Landscape: What has changed](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a03)
+- [Community Engagement: How we work together](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a04)
+- [2018-2020 Action Items](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a05)
+- [Building Partnerships](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a06)
+- [Sharing and Protecting Information](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a07)
+- [Implementing an All-Hazards Risk Management Approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a08)
+- [Conclusion](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a09)
+- [Annex A: Role and Responsibilities](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a10)
+- [Annex B: Critical Infrastructure Sectors and Lead Federal Departments/Agencies](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a11)
+- [Annex C: Sector Networks and the National Cross Sector Forum](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a12)
+- [Annex D: Achievements under the Action Plan for Critical Infrastructure (2014-2017)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a13)
+- [Annex E: 2018-2020 Action Plan: Summary Table](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a14)
+- [Annex F: Resources](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a15)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ The Action Plan is a blueprint to implement Canada’s *National Strategy for Cr
 
 The National Strategy is based on the principles outlined under the *Emergency Management Framework for Canada*, which recognizes the roles that various stakeholders must play in Canada’s emergency management system to enhance the safety of Canadians.  Similarly, the National Strategy highlights that the responsibility for protecting critical infrastructure in Canada is shared by federal, provincial and territorial governments, local authorities, and critical infrastructure owners and operators – who bear the primary responsibility for protecting their assets and services. The relationship is mutually beneficial: the National Strategy recognizes that critical infrastructure owners and operators have the expertise and information that governments need to develop meaningful plans/policies and implement effective programs/initiatives. In turn, governments play a key role in providing information on risks relevant to owners and operators to assist them in carrying out risk management activities.
 
-Along with the National Strategy, the first Action Plan for Critical Infrastructure *(2010-2013)* defined areas of collaborative work for the federal government, provincial/territorial governments, and critical infrastructure owners and operators. It also established national-level sector networks for each of the ten critical infrastructure sectors, with a lead federal department/agency (LFD) responsible for each network (see [Annex B](#a11)). In addition, the National Strategy established the National Cross Sector Forum (NCSF) to promote collaboration across sector networks. The NCSF is a national-level consultation and outreach entity that brings together leaders from Canada’s ten critical infrastructure sectors to identify priorities, and discuss cross-sector issues and initiatives to enhance the resilience of Canada’s vital assets and systems (see [Annex C](#a12)).
+Along with the National Strategy, the first Action Plan for Critical Infrastructure *(2010-2013)* defined areas of collaborative work for the federal government, provincial/territorial governments, and critical infrastructure owners and operators. It also established national-level sector networks for each of the ten critical infrastructure sectors, with a lead federal department/agency (LFD) responsible for each network (see [Annex B](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a11)). In addition, the National Strategy established the National Cross Sector Forum (NCSF) to promote collaboration across sector networks. The NCSF is a national-level consultation and outreach entity that brings together leaders from Canada’s ten critical infrastructure sectors to identify priorities, and discuss cross-sector issues and initiatives to enhance the resilience of Canada’s vital assets and systems (see [Annex C](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a12)).
 
 Under the second Action Plan for Critical Infrastructure (2014-2017), further progress was made to strengthen critical infrastructure and make it more resilient.  For example, Public Safety Canada’s Regional Resilience Assessment Program (RRAP) was implemented across Canada and expanded to include a cyber security assessment tool.  At the same time, exercises were conducted and multisector network meetings were delivered to identify interdependencies and address cross-sector issues.
 
@@ -64,7 +64,7 @@ In addition, as part of ongoing efforts to provide critical infrastructure secto
 
 Finally, recognizing that critical infrastructure is interconnected not only within Canada but across borders, Public Safety Canada has also worked to promote a coordinated, global approach to critical infrastructure. For example, Canada and the United States have made great strides towards meeting shared objectives of enhancing the resilience of critical infrastructure of mutual interest, working across sectors and jurisdictions. Canada has also worked closely with the broader international community, including Five Eyes partners (United States; United Kingdom; Australia; New Zealand), to ensure that its approach to strengthening critical infrastructure resilience considers the global context and leverages best practices from trusted allies.
 
-A summary of all completed activities under the Action Plan for Critical Infrastructure (2014-2017) is available in [Annex D](#a13).
+A summary of all completed activities under the Action Plan for Critical Infrastructure (2014-2017) is available in [Annex D](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a13).
 
 ## The Risk Landscape: What has changed
 
@@ -88,7 +88,7 @@ Under the 2014-2017 Action Plan, Public Safety Canada renewed its emphasis on co
 
 ## 2018-2020 Action Items
 
-This Action Plan supports the risk management principles outlined in the National Strategy. The following section outlines action items across each of the National Strategy’s strategic objectives, which build on past achievements and lessons learned. The activities are intended to strengthen Canada’s critical infrastructure resilience by helping to prevent, mitigate, prepare for, respond to, and recover from disruptions. It is designed to help foster collaboration and information sharing among all levels of government and private sector partners, with a focus on delivering tangible risk management initiatives. A table summarizing the action items and associated implementation timelines can be found in [Annex E](#a14).
+This Action Plan supports the risk management principles outlined in the National Strategy. The following section outlines action items across each of the National Strategy’s strategic objectives, which build on past achievements and lessons learned. The activities are intended to strengthen Canada’s critical infrastructure resilience by helping to prevent, mitigate, prepare for, respond to, and recover from disruptions. It is designed to help foster collaboration and information sharing among all levels of government and private sector partners, with a focus on delivering tangible risk management initiatives. A table summarizing the action items and associated implementation timelines can be found in [Annex E](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx#a14).
 
 ## Building Partnerships
 

@@ -53,7 +53,9 @@ ID_PATTERNS = [
     # Roman numeral section: "I. Introduction" / "II. Our Vision"
     (re.compile(r"^([IVX]+)\.\s+(.+)$"), "roman"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
-    (re.compile(r"^(\d+(?:\.\d+){0,3})\s*[:\.\-–—]?\s+(.+)$"), "numbered"),
+    (re.compile(r"^(\d+(?:\.\d+){1,3})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
+    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts)
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
 ]
 
 
@@ -126,11 +128,41 @@ def main():
     headings = list(HEADING_RE.finditer(md))
     rows = []
     seen_ids: set[str] = set()
+    latest_row_by_id: dict[str, int] = {}
+    ancestor_row_by_depth: dict[int, int] = {}
+    ancestor_id_row_by_depth: dict[int, int] = {}
+
     for i, m in enumerate(headings):
         depth = len(m.group(1))
+        for d in [k for k in list(ancestor_row_by_depth) if k >= depth]:
+            del ancestor_row_by_depth[d]
+        for d in [k for k in list(ancestor_id_row_by_depth) if k >= depth]:
+            del ancestor_id_row_by_depth[d]
+
         section_id, section_name, id_kind = parse_heading(m.group(2))
+        derived_parent = derive_parent_id(section_id, seen_ids) if section_id else ""
+        parent_row_idx = None
+        parent_id = ""
+        if derived_parent:
+            parent_id = derived_parent
+            parent_row_idx = latest_row_by_id.get(derived_parent)
+        elif section_id:
+            for d in range(depth - 1, 0, -1):
+                if d in ancestor_id_row_by_depth:
+                    cand_idx = ancestor_id_row_by_depth[d]
+                    parent_row_idx = cand_idx
+                    parent_id = rows[cand_idx]["section_id"]
+                    break
+
+        enclosing_any_idx = next(
+            (ancestor_row_by_depth[d] for d in range(depth - 1, 0, -1) if d in ancestor_row_by_depth),
+            None,
+        )
+
         if section_id:
             seen_ids.add(section_id)
+            latest_row_by_id[section_id] = i
+
         body_start = m.end()
         body_end = headings[i + 1].start() if i + 1 < len(headings) else len(md)
         body = normalize_body(md[body_start:body_end])
@@ -139,9 +171,74 @@ def main():
             "section_id": section_id,
             "section_name": section_name,
             "id_kind": id_kind,
-            "parent_id": derive_parent_id(section_id, seen_ids) if section_id else "",
+            "parent_id": parent_id,
             "body": body,
+            "_parent_row_idx": parent_row_idx,
+            "_enclosing_any_idx": enclosing_any_idx,
         })
+        ancestor_row_by_depth[depth] = i
+        if section_id:
+            ancestor_id_row_by_depth[depth] = i
+
+    # Disambiguate duplicate section_ids top-down by depth so child parent_ids stay synchronized
+    from collections import Counter
+    max_depth = max((r["depth"] for r in rows), default=0)
+    for d in range(1, max_depth + 1):
+        # First refresh parent_id from _parent_row_idx in case parent's section_id was disambiguated
+        for r in rows:
+            if r["depth"] == d and r["_parent_row_idx"] is not None:
+                r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
+
+        # Check global duplicates involving rows at or above depth d
+        id_counts = Counter(r["section_id"] for r in rows if r["section_id"])
+        dup_ids = {sid for sid, cnt in id_counts.items() if cnt > 1}
+        if not dup_ids:
+            continue
+
+        for idx, r in enumerate(rows):
+            if r["depth"] != d or not r["section_id"] or r["section_id"] not in dup_ids:
+                continue
+            sid = r["section_id"]
+            pid = r["parent_id"]
+            if pid and pid != sid:
+                if re.match(r"^(?:[IVX]+|\d+(?:\.\d+)*)$", pid) and re.match(r"^\d+(?:\.\d+)*$", sid):
+                    r["section_id"] = f"{pid}.{sid}"
+                else:
+                    r["section_id"] = f"{pid} {sid}"
+            elif pid == sid and r["section_name"]:
+                r["section_id"] = f"{sid} ({r['section_name']})"
+
+    # Final pass if any section_ids remain duplicated (e.g. repeated top-level sections across stitched reports or unnumbered themes)
+    id_counts = Counter(r["section_id"] for r in rows if r["section_id"])
+    still_dup = {sid for sid, cnt in id_counts.items() if cnt > 1}
+    if still_dup:
+        for r in rows:
+            sid = r["section_id"]
+            if sid in still_dup:
+                enc_idx = r["_enclosing_any_idx"]
+                enc_name = rows[enc_idx]["section_name"] if enc_idx is not None else ""
+                if enc_name and len(enc_name) <= 48 and not enc_name.lower().startswith("national security transparency advisory group"):
+                    r["section_id"] = f"{enc_name}: {sid}"
+        # Refresh child parent_ids and ensure 100% uniqueness if any collide
+        for r in rows:
+            if r["_parent_row_idx"] is not None:
+                r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
+        id_counts2 = Counter(r["section_id"] for r in rows if r["section_id"])
+        still_dup2 = {sid for sid, cnt in id_counts2.items() if cnt > 1}
+        if still_dup2:
+            seen_occ: dict[str, int] = {}
+            for r in rows:
+                sid = r["section_id"]
+                if sid in still_dup2:
+                    seen_occ[sid] = seen_occ.get(sid, 0) + 1
+                    r["section_id"] = f"{sid} ({seen_occ[sid]})"
+            for r in rows:
+                if r["_parent_row_idx"] is not None:
+                    r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
+
+    for r in rows:
+        r.pop("_parent_row_idx", None)
+        r.pop("_enclosing_any_idx", None)
 
     stem = args.out_stem or doc_dir.name
     csv_path = doc_dir / f"{stem}-sections.csv"

@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/421/Government/C-59/C-59_4/C-59_E.xml) as national-security-act-2017.xml and extracted 399 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into national-security-act-2017.md, national-security-act-2017-sections.csv, and national-security-act-2017-sections.json."
+    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/421/Government/C-59/C-59_4/C-59_E.xml) as national-security-act-2017.xml and extracted 415 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into national-security-act-2017.md, national-security-act-2017-sections.csv, and national-security-act-2017-sections.json."
   },
   "extraction_history": [
     {

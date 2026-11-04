@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 60-page born-digital White House PDF (https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf) locally via column-aware PyMuPDF layout analysis (183,496 chars) and parsed 51 sections (8 with ID)."
+    "notes": "Extracted 60-page born-digital White House PDF (https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf) locally via column-aware PyMuPDF layout analysis (183,346 chars) and parsed 47 sections (4 with ID)."
   },
   "extraction_history": [
     {

@@ -142,8 +142,6 @@ Especially in a changing global environment, these national interests will conti
 
 We will seize strategic opportunities to shape the economic order and cultivate new relationships with emerging economic powers and countries newly committed to peaceful democratic change. We will also capitalize on the potential to end extreme poverty and build upon our comparative advantages in innovation, science and technology, entrepreneurship, and greater energy security.
 
-### I. Introduction
-
 We will lead with strength. After a difficult decade, America is growing stronger every day. The U.S. economy remains the most dynamic and resilient on Earth. We have rebounded from a global reces­ sion by creating more jobs in the United States than in all other advanced economies combined. Our military might is unrivaled. Yet, American exceptionalism is not rooted solely in the strength of our arms or economy. Above all, it is the product of our founding values, including the rule of law and universal rights, as well as the grit, talent, and diversity of the American people.
 
 In the last 6 years alone, we arrested the worst financial crisis since the Great Depression and catalyzed a new era of economic growth. We increased our competitive edge and leadership in education, energy, science and technology, research and development, and healthcare. We achieved an energy transforma­ tion in North America. We are fortifying our critical infrastructure against all hazards, especially cyber espionage and attack. And we are working hard to safeguard our civil liberties while advancing our security.
@@ -163,8 +161,6 @@ First, power among states is more dynamic. The increasing use of the G-20 on glo
 Second, power is shifting below and beyond the nation-state. Governments once able to operate with few checks and balances are increasingly expected to be more accountable to sub-state and non-state actors—from mayors of mega-cities and leaders in private industry to a more empowered civil society. They are also contending with citizens enabled by technology, youth as a majority in many societies, and a growing global middle class with higher expectations for governance and economic opportunity. While largely positive, these trends can foster violent non-state actors and foment instability—especially in fragile states where governance is weak or has broken down—or invite backlash by authoritarian regimes determined to preserve the power of the state.
 
 Third, the increasing interdependence of the global economy and rapid pace of technological change are linking individuals, groups, and governments in unprecedented ways. This enables and incentivizes new forms of cooperation to establish dynamic security networks, expand international trade and invest­ ment, and transform global communications. It also creates shared vulnerabilities, as interconnected systems and sectors are susceptible to the threats of climate change, malicious cyber activity, pandemic diseases, and transnational terrorism and crime.
-
-### I. Introduction
 
 Fourth, a struggle for power is underway among and within many states of the Middle East and North Africa. This is a generational struggle in the aftermath of the 2003 Iraq war and 2011 Arab uprisings, which will redefine the region as well as relationships among communities and between citizens and their governments. This process will continue to be combustible, especially in societies where religious extremists take root, or rulers reject democratic reforms, exploit their economies, and crush civil society.
 
@@ -292,8 +288,6 @@ Scientific discovery and technological innovation empower American leadership wi
 
 We have recovered from the global economic crisis, but much remains to be done to shape the emerg­ ing economic order to avoid future crises. We have responsibilities at home to continue to improve our banking practices and forge ahead with regulatory reform, even as we press others to align with our robust standards. In addition to securing our immediate economic interests, we must drive the inclu­
 
-### III. Prosperity
-
 sive economic growth that creates demand for American exports. We will protect the free movement of information and work to prevent the risky behavior that led to the recent crisis, while addressing resurgent economic forces, from state capitalism to market-distorting free-riding.
 
 American leadership is central to strengthening global finance rules and making sure they are consistent and transparent. We will work through the G-20 to reinforce the core architecture of the international financial and economic system, including the World Trade Organization, to ensure it is positioned to foster both stability and growth. We remain committed to governance reforms for these same institu­ tions, including the World Bank and the International Monetary Fund, to make them more effective and representative. In so doing, we seek to ensure institutions reinforce, rather than undermine, an effective global financial system.
@@ -344,8 +338,6 @@ The United States will concentrate attention and resources to help countries con
 
 The road from demanding rights in the square to building institutions that guarantee them is long and hard. In the last quarter century, parts of Eastern Europe, Latin America, Africa, and East Asia have consolidated transitions to democracy, but not without setbacks. The popular uprisings that began in the Arab world took place in a region with weaker democratic traditions, powerful authoritarian elites, sectarian tensions, and active violent extremist elements, so it is not surprising setbacks have thus far outnumbered triumphs. Yet, change is inevitable in the Middle East and North Africa, as it is in all places where the illusion of stability is artificially maintained by silencing dissent.
 
-### IV. Values
-
 But the direction of that change is not predetermined. We will therefore continue to look for ways to support the success and ease the difficulties of democratic transitions through responsible assistance, investment and trade, and by supporting political, economic, and security reforms. We will continue to push for reforms in authoritarian countries not currently undergoing wholesale transitions. Good governance is also predicated on strengthening the state-society relationship. When citizens have a voice in the decisionmaking that affects them, governments make better decisions and citizens are better able to participate, innovate, and contribute.
 
 The corrosive effects of corruption must be overcome. While information sharing allows us to identify corrupt officials more easily, globalization has also made it easier for corrupt officials to hide the proceeds of corruption abroad, increasing the need for strong and consistent implementation of the international standards on combating illicit finance. The United States is leading the way in promoting adherence to standards of accountable and transparent governance, including through initiatives like the Open Government Partnership. We will utilize a broad range of tools to recover assets stolen by corrupt offi­ cials and make it harder for criminals to hide, launder, and benefit from illegal proceeds. Our leadership toward governance that is more open, responsible, and accountable makes clear that democracy can deliver better government and development for ordinary people.
@@ -390,8 +382,6 @@ The United States welcomes the rise of a stable, peaceful, and prosperous China.
 
 In South Asia, we continue to strengthen our strategic and economic partnership with India. As the world’s largest democracies, we share inherent values and mutual interests that form the cornerstone
 
-### V. International Order
-
 of our cooperation, particularly in the areas of security, energy, and the environment. We support India’s role as a regional provider of security and its expanded participation in critical regional institutions. We see a strategic convergence with India’s Act East policy and our continued implementation of the rebal­ ance to Asia and the Pacific. At the same time, we will continue to work with both India and Pakistan to promote strategic stability, combat terrorism, and advance regional economic integration in South and Central Asia.
 
 ### Strengthen Our Enduring Alliance with Europe
@@ -415,8 +405,6 @@ Stability and peace in the Middle East and North Africa also requires reducing t
 ### Invest in Africa’s Future
 
 Africa is rising. Many countries in Africa are making steady progress in growing their economies, improving democratic governance and rule of law, and supporting human rights and basic freedoms. Urbanization and a burgeoning youth population are changing the region’s demographics, and young people are increasingly making their voices heard. But there are still many countries where the transi­ tion to democracy is uneven and slow with some leaders clinging to power. Corruption is endemic and public health systems are broken in too many places. And too many governments are responding to the expansion of civil society and free press by passing laws and adopting policies that erode that progress. Ongoing conflicts in Sudan, South Sudan, the Democratic Republic of the Congo, and the Central African
-
-### V. International Order
 
 Republic, as well as violent extremists fighting governments in Somalia, Nigeria, and across the Sahel all pose threats to innocent civilians, regional stability, and our national security.
 

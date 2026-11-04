@@ -112,7 +112,7 @@ The Review Agency and each review body are to take all reasonable steps to coope
 
 [Exception] (2) The Review Agency must not provide to the review body information that is referred to in subsection 45.42(1) of the Royal Canadian Mounted Police Act.
 
-#### Section 15.1: National Security and Intelligence Committee of Parliamentarians
+#### Section 15.1 (Review Body): National Security and Intelligence Committee of Parliamentarians
 
 (1) The Review Agency may provide to the National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under section 8 of the National Security and Intelligence Committee of Parliamentarians Act.
 
@@ -120,7 +120,7 @@ The Review Agency and each review body are to take all reasonable steps to coope
 
 ## Coordination
 
-#### Section 15.1: Coordination with Privacy Commissioner
+#### Section 15.1 (Coordination): Coordination with Privacy Commissioner
 
 (1) When fulfilling its mandate under any of paragraphs 8(1)(a) to (c), the Review Agency may coordinate its activities with those of the Privacy Commissioner under subsection 37(1) of the Privacy Act to avoid any unnecessary duplication of work.
 

@@ -6,7 +6,7 @@ Information identified as archived is provided for reference, research or record
 
 ## Archived
 
-[This page has been archived on the Web.](#archived)
+[This page has been archived on the Web.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#archived)
 
 [Archive - Action Plan for Critical Infrastructure (2014-2017) PDF Version (195 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/pln-crtcl-nfrstrctr-2014-17-eng.pdf)
 
@@ -15,19 +15,19 @@ ISBN: 978-1-100-23291-1
 
 ##### Table of contents
 
-- [1. Introduction](#s1)
-  - [What we have learned and what has changed](#s11)
-- [2. A Renewed Action Plan (2014-2017)](#s2)
-  - [2.1 Sustain and Enhance Partnerships](#s21)
-  - [2.2 Share and Protect Information](#s22)
-  - [2.3 Implement an All-Hazards Risk Management Approach](#s23)
-- [3. Strengthening Critical Infrastructure Resilience Efforts Across Canada](#s3)
-- [Annex A: Roles and Responsibilities](#a)
-- [Annex B: Sector Networks and Federal Departments/Agencies](#b)
-- [Annex C: Sector Networks and the National Cross Sector Forum](#c)
-- [Annex D: Achievements under Phase One of the Action Plan for Critical Infrastructure (2010-2013)](#d)
-- [Annex E: Action Plan (2014-2017) Summary Table](#e)
-- [Annex F: Resources](#f)
+- [1. Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s1)
+  - [What we have learned and what has changed](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s11)
+- [2. A Renewed Action Plan (2014-2017)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s2)
+  - [2.1 Sustain and Enhance Partnerships](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s21)
+  - [2.2 Share and Protect Information](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s22)
+  - [2.3 Implement an All-Hazards Risk Management Approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s23)
+- [3. Strengthening Critical Infrastructure Resilience Efforts Across Canada](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#s3)
+- [Annex A: Roles and Responsibilities](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#a)
+- [Annex B: Sector Networks and Federal Departments/Agencies](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#b)
+- [Annex C: Sector Networks and the National Cross Sector Forum](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#c)
+- [Annex D: Achievements under Phase One of the Action Plan for Critical Infrastructure (2010-2013)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#d)
+- [Annex E: Action Plan (2014-2017) Summary Table](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#e)
+- [Annex F: Resources](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx#f)
 
 \* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx).
 

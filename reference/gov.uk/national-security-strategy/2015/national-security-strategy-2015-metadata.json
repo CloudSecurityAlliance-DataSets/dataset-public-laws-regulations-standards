@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 96-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74c796ed915d502d6caefc/52309_Cm_9161_NSS_SD_Review_web_only.pdf) locally via column-aware PyMuPDF layout analysis (260,610 chars) and parsed 77 sections (32 with ID)."
+    "notes": "Extracted 96-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74c796ed915d502d6caefc/52309_Cm_9161_NSS_SD_Review_web_only.pdf) locally via column-aware PyMuPDF layout analysis (260,494 chars) and parsed 54 sections (9 with ID)."
   },
   "extraction_history": [
     {

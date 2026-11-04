@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 40-page born-digital White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf) locally via column-aware PyMuPDF layout analysis (61,078 chars) and parsed 45 sections (4 with ID)."
+    "notes": "Extracted 40-page born-digital White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf) locally via column-aware PyMuPDF layout analysis (60,904 chars) and parsed 38 sections (4 with ID)."
   },
   "extraction_history": [
     {

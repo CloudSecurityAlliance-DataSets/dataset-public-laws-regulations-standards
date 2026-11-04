@@ -6,20 +6,20 @@ ISBN: 978-1-100-22422-0
 
 ##### Table of contents
 
-- [Executive Summary](#s1)
-- [Introduction](#s2)
-- [The Terrorist Threat 2011](#s3)
-- [Aim and Fundamental Principles](#s4)
-- [The Strategy: *Prevent, Detect, Deny* and *Respond*](#s5)
-  - [*Prevent*](#s6)
-  - [*Detect*](#s7)
-  - [*Deny*](#s8)
-  - [*Respond*](#s9)
-- [Way Forward](#s10)
-- [Annex A: Roles and Responsibilities Relating to Counter-terrorism](#s11)
-- [Annex B: Counter-terrorism Legal Framework](#s12)
-- [Annex C: Implementation Approach](#s13)
-- [Annex D: List of Acronyms and Glossary](#s14)
+- [Executive Summary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s1)
+- [Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s2)
+- [The Terrorist Threat 2011](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s3)
+- [Aim and Fundamental Principles](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s4)
+- [The Strategy: *Prevent, Detect, Deny* and *Respond*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s5)
+  - [*Prevent*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s6)
+  - [*Detect*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s7)
+  - [*Deny*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s8)
+  - [*Respond*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s9)
+- [Way Forward](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s10)
+- [Annex A: Roles and Responsibilities Relating to Counter-terrorism](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s11)
+- [Annex B: Counter-terrorism Legal Framework](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s12)
+- [Annex C: Implementation Approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s13)
+- [Annex D: List of Acronyms and Glossary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rslnc-gnst-trrrsm/index-en.aspx#s14)
 
 ## Foreword
 

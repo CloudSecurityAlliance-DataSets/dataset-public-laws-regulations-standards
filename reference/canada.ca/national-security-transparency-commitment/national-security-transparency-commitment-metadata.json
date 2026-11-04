@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted main commitment page and 4 official subpages (Information, Executive, Policy Transparency, and NS-TAG) from canada.ca (39,059 chars) and parsed 23 sections (6 with ID)."
+    "notes": "Extracted main commitment page and 4 official subpages (Information, Executive, Policy Transparency, and NS-TAG) from canada.ca (42,092 chars) and parsed 23 sections (6 with ID)."
   },
   "extraction_history": [
     {

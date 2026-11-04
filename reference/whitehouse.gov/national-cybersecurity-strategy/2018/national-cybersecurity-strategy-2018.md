@@ -328,9 +328,7 @@ well as detection of, resilience against, response to, and recovery from inciden
 
 The articulation of the National Cyber Strategy is organized according to the pillars of the National Security Strategy. The National Security Council staff will coordinate with departments, agencies, and the Office of Management and Budget (OMB) on an appropriate resource plan to implement this Strategy. Depart-ments and agencies will execute their missions informed by the following strategic guidance.
 
-### PILLAR I
-
-## Protect the American People,
+## PILLAR I: Protect the American People,
 
 ## the Homeland, and the
 
@@ -340,9 +338,7 @@ P
 
 rotecting the American people, the American way of life, and American interests is at the forefront of the National Security Strategy. Protecting American infor-mation networks, whether government or private, is vital to fulfilling this objective. It will require a series of coordinated actions focused on protecting government networks, protecting critical infrastructure, and combating cybercrime. The United States Government, private industry, and the public must each take immediate and decisive actions to strengthen cybersecurity, with each working on securing the networks under their control and supporting each other as appropriate.
 
-### OBJECTIVE: Manage cybersecurity risks to
-
-increase the security and resilience of the Nation’s information and information systems.
+OBJECTIVE: Manage cybersecurity risks to increase the security and resilience of the Nation’s information and information systems.
 
 ## Secure Federal Networks and Information
 
@@ -462,17 +458,13 @@ CYBER ACTIVITY: The United States should also aid willing partner nations to bui
 
 The United States will strive to improve inter-national cooperation in investigating malicious cyber activity, including developing solutions to potential barriers to gathering and sharing evidence. The United States will also lead in developing interoperable and mutually beneficial systems to encourage efficient cross-border information exchange for law enforcement purposes and reduce barriers to coordination. The Administration will urge effective use of existing international tools like the United Nations Convention Against Trans-national Organized Crime and the G7 24/7 Network Points of Contact. Finally, we will work to expand the international consensus favoring the Convention on Cybercrime of the Council of Europe (Budapest Convention), including by supporting greater adoption of the convention.
 
-### PILLAR II
-
-## Promote American Prosperity
+## PILLAR II: Promote American Prosperity
 
 T
 
 he Internet has generated tremendous benefits domestically and abroad, and it helps to advance American values of freedom, security, and prosperity. Along with its expansion have come challenges that threaten our national security. The United States will demonstrate a coherent and compre-hensive approach to address these and other challenges to defend American national interests in this increasingly digitized world.
 
-### OBJECTIVE: Preserve United States influence
-
-in the technological ecosystem and the devel-opment of cyberspace as an open engine of
+OBJECTIVE: Preserve United States influence in the technological ecosystem and the devel-opment of cyberspace as an open engine of
 
 economic growth, innovation, and efficiency.
 
@@ -487,8 +479,6 @@ INCENTIVIZE AN ADAPTABLE AND SECURE
 TECHNOLOGY MARKETPLACE: To enhance the resil-ience of cyberspace, the Administration expects the technology marketplace to support and reward the continuous development, adoption, and evolution of innovative security technologies and processes. The Administration will work across stakeholder groups, including the private sector and civil society, to promote best practices and develop strategies to overcome market barriers to the adoption of secure technologies. The Administration will improve awareness and transparency of cybersecurity practices to build market demand for more secure products and services. Finally, the Administration will collab-orate with international partners to promote open, industry-driven standards with government support, as appropriate, and risk-based approaches to address cybersecurity challenges to include platform and managed service approaches that lower barriers to secure practice adoption across the breadth of the ecosystem.
 
 PRIORITIZE INNOVATION: The United States Government will promote implementation and
-
-P I L L A R I I : P R O M O T E A M E R I C A N P R O S P E R I T Y
 
 continuous updating of standards and best practices that deter and prevent current and evolving threats and hazards in all domains of the cyber ecosystem. These standards and practices should be outcome-oriented and based on sound technological principles rather than point-in-time company specifica-tions. The Administration will eliminate policy barriers that inhibit a robust cybersecurity industry from developing, sharing, and building innovative capabilities to reduce cyber threats.
 
@@ -544,8 +534,6 @@ PROTECT THE CONFIDENTIALITY AND INTEGRITY
 
 OF AMERICAN IDEAS: For more than a decade, malicious actors have conducted cyber intru-sions into United States commercial networks, targeting confidential business information held by American firms. Malicious cyber actors from other nations have stolen troves of trade secrets, technical data, and sensitive proprietary internal communications. The United States Government will work against the illicit appro-
 
-P I L L A R I I : P R O M O T E A M E R I C A N P R O S P E R I T Y
-
 priation of public and private sector technology and technical knowledge by foreign competitors, while maintaining an investor-friendly climate.
 
 ## Develop a Superior Cybersecurity Workforce
@@ -572,9 +560,7 @@ AND REWARD TALENT: The United States Government will promote and magnify excel-
 
 lence by highlighting cybersecurity educators and cybersecurity professionals. The United States Government will also leverage public-private collaboration to develop and circulate the NICE Framework, which provides a standardized approach for identifying cyber-security workforce gaps, while also imple-menting actions to prepare, grow, and sustain a workforce that can defend and bolster America’s critical infrastructure and innovation base.
 
-### PILLAR III
-
-## Preserve Peace through Strength
+## PILLAR III: Preserve Peace through Strength
 
 C
 
@@ -620,9 +606,7 @@ COUNTER MALIGN CYBER INFLUENCE AND INFOR-
 
 MATION OPERATIONS: The United States will use all appropriate tools of national power to expose and counter the flood of online malign influence and information campaigns and non-state propa-ganda and disinformation. This includes working with foreign government partners as well as the private sector, academia, and civil society to identify, counter, and prevent the use of digital platforms for malign foreign influence opera-tions while respecting civil rights and liberties.
 
-### PILLAR IV
-
-## Advance American
+## PILLAR IV: Advance American
 
 ## Influence
 
@@ -677,7 +661,5 @@ partners to implement policies and practices which allow them to be effective pa
 ### Priority Action
 
 ENHANCE CYBER CAPACITY BUILDING EFFORTS: Many United States allies and partners possess unique cyber capabilities that can complement our own. The United States will work to strengthen the capacity and interoperability of those allies and partners to improve our ability to optimize our combined skills, resources, capabil-ities, and perspectives against shared threats. Partners can also help detect, deter, and defeat those shared threats in cyberspace. In order for international partners to effectively protect their digital infrastructure and combat shared threats, while realizing the economic and social gains derived from the Internet and ICTs, the United States will continue to address the building blocks for organizing national efforts on cyber-security. We will also aggressively expand efforts to share automated and actionable cyber threat information, enhance cybersecurity coordi-nation, and promote analytical and technical exchanges. In addition, the United States will work to reduce the impact and influence of transnational cybercrime and terrorist activ-ities by partnering with and strengthening the security and law enforcement capabilities of our partners to build their cyber capacity.
-
-## Notes
 
 ## Notes

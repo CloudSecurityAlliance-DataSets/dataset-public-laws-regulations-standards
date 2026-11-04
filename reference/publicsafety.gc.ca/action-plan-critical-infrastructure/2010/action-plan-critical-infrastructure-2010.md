@@ -6,7 +6,7 @@ Information identified as archived is provided for reference, research or record
 
 ## Archived
 
-[This page has been archived on the Web.](#archived)
+[This page has been archived on the Web.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#archived)
 
 [Action Plan for Critical Infrastructure PDF Version (250 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/pln-crtcl-nfrstrctr-eng.pdf)
 
@@ -14,17 +14,17 @@ ISBN: 978-1-100-11249-7
 
 ##### Table of contents
 
-- [1. Introduction](#s1)
-- [2. Action Plan](#s2)
-  - [2.1 Build partnerships](#s2_1)
-  - [2.2 Share and protect information](#s2_2)
-  - [2.3 Implement all-hazards risk management approach](#s2_3)
-- [3. Review](#s3)
-- [Annex A – Sector networks](#aA)
-- [Annex B – National Cross-Sector Forum](#aB)
-- [Annex C – Federal-Provincial-Territorial Critical Infrastructure Working Group](#aC)
-- [Annex D – Information sharing framework](#aD)
-- [Annex E – Risk management](#aE)
+- [1. Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s1)
+- [2. Action Plan](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s2)
+  - [2.1 Build partnerships](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s2_1)
+  - [2.2 Share and protect information](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s2_2)
+  - [2.3 Implement all-hazards risk management approach](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s2_3)
+- [3. Review](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#s3)
+- [Annex A – Sector networks](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aA)
+- [Annex B – National Cross-Sector Forum](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aB)
+- [Annex C – Federal-Provincial-Territorial Critical Infrastructure Working Group](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aC)
+- [Annex D – Information sharing framework](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aD)
+- [Annex E – Risk management](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aE)
 
 \* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
 
@@ -77,7 +77,7 @@ Recognizing the interconnected nature of critical infrastructure, all critical i
 
 In collaboration with federal, provincial and territorial governments, each sector network will also establish an approach to identifying and addressing international critical infrastructure issues. To support these efforts, each sector network will be provided with a methodology and template incorporating international factors into their sector risk profile.
 
-**Key action:** Sector networks will be established for each of the critical infrastructure sectors. Members of the sector network (e.g., private sector, federal government, provincial and territorial governments) will set priorities and direct sector-specific work plans. Development of the sector networks will build on existing consultation mechanisms. Additional details are provided in [Annex A](#aA).
+**Key action:** Sector networks will be established for each of the critical infrastructure sectors. Members of the sector network (e.g., private sector, federal government, provincial and territorial governments) will set priorities and direct sector-specific work plans. Development of the sector networks will build on existing consultation mechanisms. Additional details are provided in [Annex A](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aA).
 
 **Timeline:** Sector networks for each critical infrastructure sector will be established in Year 1.
 
@@ -111,7 +111,7 @@ To support a collaborative approach to critical infrastructure, a National Cross
 
 The National Cross-Sector Forum will also identify high priority and emerging issues and make relevant recommendations to the Federal-Provincial-Territorial Senior Officials Responsible for Emergency Management to address these issues.
 
-**Key action:** The Federal-Provincial-Territorial Senior Officials Responsible for Emergency Management will develop the National Cross-Sector Forum, drawing membership from the chairs of each sector network. Additional details are available in [Annex B](#aB).
+**Key action:** The Federal-Provincial-Territorial Senior Officials Responsible for Emergency Management will develop the National Cross-Sector Forum, drawing membership from the chairs of each sector network. Additional details are available in [Annex B](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aB).
 
 **Timeline:** The National Cross-Sector Forum will be established in Year 1.
 
@@ -126,7 +126,7 @@ As the primary conduit for federal, provincial and territorial government collab
 - advancing a common understanding of risks and interdependencies; and
 - identifying linkages among federal, provincial and territorial programs and initiatives and facilitating an exchange of information and best practices.
 
-**Key action:** Renewal of the Federal-Provincial-Territorial Critical Infrastructure Working Group. Additional details are available in [Annex C](#aC).
+**Key action:** Renewal of the Federal-Provincial-Territorial Critical Infrastructure Working Group. Additional details are available in [Annex C](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aC).
 
 **Timeline:** January 2010.
 
@@ -158,7 +158,7 @@ To facilitate the responsible sharing of sensitive information, the Federal-Prov
 
 A single framework is needed to enable quick exchange of information among key points of contact across the critical infrastructure sectors, taking into account the communication protocols and policies already established by the governments. Federal, provincial and territorial governments and critical infrastructure sectors will develop this process to enable timely information exchange to deal with real or potential disruptions that threaten the integrity of critical infrastructure in Canada.
 
-**Key action:** Federal, provincial and territorial governments will collaborate to develop an information sharing framework. Additional detail is available in [Annex D](#aD).
+**Key action:** Federal, provincial and territorial governments will collaborate to develop an information sharing framework. Additional detail is available in [Annex D](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aD).
 
 **Timelines:** An information sharing framework will be completed in Year 2.
 
@@ -460,7 +460,7 @@ The Strategy does not impose a single risk assessment methodology on critical in
 
 Undertaking risk assessments is the responsibility of the owner/operator. To support the assessment process, and as part of improving information development and sharing, sector-specific risk information will be provided to each sector network for distribution to its members. It is expected that most owners/operators will have already undertaken risk assessments to some degree. As part of the sector risk profile development process, each sector network will assess the degree to which its critical infrastructure has been subject to a risk assessment by its owners/operators.
 
-Risk assessments for assets, sites or systems will neither be shared broadly across the sector network nor used to create a central inventory of critical infrastructure.A trusted information sharing environment, supported by the Information Protection Protocol, will be created (see [Annex D](#aD)). It is expected that owners/operators will share risk-related information with relevant government officials and other owners/operators to support broader risk assessment and emergency planning activities.
+Risk assessments for assets, sites or systems will neither be shared broadly across the sector network nor used to create a central inventory of critical infrastructure.A trusted information sharing environment, supported by the Information Protection Protocol, will be created (see [Annex D](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aD)). It is expected that owners/operators will share risk-related information with relevant government officials and other owners/operators to support broader risk assessment and emergency planning activities.
 
 #### *Timelines*
 
@@ -474,7 +474,7 @@ It is expected that these tools will include a common lexicon of risk management
 
 The development of the risk management 'tool box' will begin with a survey of available materials. Where no suitable materials have been found to address an identified need, new tools will be developed in priority order.
 
-It is expected that these tools will be distributed through each sector network and via the webbased critical infrastructure information sharing portal (see [Annex D](#aD)).
+It is expected that these tools will be distributed through each sector network and via the webbased critical infrastructure information sharing portal (see [Annex D](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/index-en.aspx#aD)).
 
 #### *Timelines*
 

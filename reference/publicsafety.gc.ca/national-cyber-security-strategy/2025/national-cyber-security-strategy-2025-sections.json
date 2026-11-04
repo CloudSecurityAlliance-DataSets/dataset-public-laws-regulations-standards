@@ -13,7 +13,7 @@
     "section_name": "Table of contents",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [Minister of Public Safety Message](#s1)\n- [Introduction](#s2)\n- [The Challenge: Cyber Threats Affecting Canadians Evolve Constantly](#s3)\n- [Addressing the Challenge: A New Approach to National Cyber Security that Engages All Canadians](#s4)\n- [Pillar 1: Work with Partners to Protect Canadians and Canadian Businesses from Cyber Threats](#s5)\n- [Pillar 2: Make Canada a Global Cyber Security Industry Leader](#s6)\n- [Pillar 3: Detect and Disrupt Cyber Threat Actors](#s7)\n- [Conclusion](#s8)\n- [Cyber Security Roles and Responsibilities in the Government of Canada](#s9)\n- [Glossary](#s10)"
+    "body": "- [Minister of Public Safety Message](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s1)\n- [Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s2)\n- [The Challenge: Cyber Threats Affecting Canadians Evolve Constantly](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s3)\n- [Addressing the Challenge: A New Approach to National Cyber Security that Engages All Canadians](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s4)\n- [Pillar 1: Work with Partners to Protect Canadians and Canadian Businesses from Cyber Threats](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s5)\n- [Pillar 2: Make Canada a Global Cyber Security Industry Leader](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s6)\n- [Pillar 3: Detect and Disrupt Cyber Threat Actors](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s7)\n- [Conclusion](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s8)\n- [Cyber Security Roles and Responsibilities in the Government of Canada](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s9)\n- [Glossary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2025/index-en.aspx#s10)"
   },
   {
     "depth": 2,
@@ -89,7 +89,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Pillar 1",
+    "section_id": "Canada's National Cyber Security Strategy: Pillar 1",
     "section_name": "Work with Partners to Protect Canadians and Canadian Businesses from Cyber Threats",
     "id_kind": "pillar",
     "parent_id": "",
@@ -100,7 +100,7 @@
     "section_id": "Objective 1.1",
     "section_name": "Forge Whole-of-Society Partnerships",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 1",
     "body": ""
   },
   {
@@ -116,7 +116,7 @@
     "section_id": "Objective 1.2",
     "section_name": "Defend and Advocate for Canadian Interests and Values Internationally",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 1",
     "body": ""
   },
   {
@@ -132,7 +132,7 @@
     "section_id": "Objective 1.3",
     "section_name": "Advance National Cyber Awareness and Hygiene",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 1",
     "body": ""
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Pillar 2",
+    "section_id": "Canada's National Cyber Security Strategy: Pillar 2",
     "section_name": "Make Canada a Global Cyber Security Industry Leader",
     "id_kind": "pillar",
     "parent_id": "",
@@ -156,7 +156,7 @@
     "section_id": "Objective 2.1",
     "section_name": "Make Canada a Trusted Innovator that Prioritizes Cyber Security",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 2",
     "body": ""
   },
   {
@@ -172,7 +172,7 @@
     "section_id": "Objective 2.2",
     "section_name": "Grow the Foundational Workforce of the Future",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 2",
     "body": ""
   },
   {
@@ -188,7 +188,7 @@
     "section_id": "Objective 2.3",
     "section_name": "Identify and Support Targeted Areas of Research to Meet Canadian Needs",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 2",
     "body": ""
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Pillar 3",
+    "section_id": "Canada's National Cyber Security Strategy: Pillar 3",
     "section_name": "Detect and Disrupt Cyber Threat Actors",
     "id_kind": "pillar",
     "parent_id": "",
@@ -212,7 +212,7 @@
     "section_id": "Objective 3.1",
     "section_name": "Identify, Deter, and Defend Against Cyber Threats",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 3",
     "body": ""
   },
   {
@@ -228,7 +228,7 @@
     "section_id": "Objective 3.2",
     "section_name": "Improve Capacity to Combat Cybercrime",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 3",
     "body": ""
   },
   {
@@ -244,7 +244,7 @@
     "section_id": "Objective 3.3",
     "section_name": "Make Critical Systems More Resilient",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Canada's National Cyber Security Strategy: Pillar 3",
     "body": ""
   },
   {

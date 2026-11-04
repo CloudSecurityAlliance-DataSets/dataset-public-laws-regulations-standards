@@ -46,13 +46,9 @@ Pillar – The Pillar under which the initiative falls.
 
 Strategic Objective – The Strategic Objective associated with the initiative.
 
-### Initiative Number – A unique number associated with the specific initiative in the form of
+Initiative Number – A unique number associated with the specific initiative in the form of <Pillar>.<Strategic Objective>.<Initiative Number>.
 
-<Pillar>.<Strategic Objective>.<Initiative Number>.
-
-### Initiative Title – The title of an action that will support the overall outcome of the Strategic
-
-Objective.
+Initiative Title – The title of an action that will support the overall outcome of the Strategic Objective.
 
 Initiative Description – An explanation of the activities associated with the action.
 

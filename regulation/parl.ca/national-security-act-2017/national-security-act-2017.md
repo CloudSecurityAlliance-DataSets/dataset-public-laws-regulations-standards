@@ -10,7 +10,7 @@ This Act may be cited as the National Security Act, 2017.
 
 ### National Security and Intelligence Review Agency Act
 
-#### Section 2: Enactment of Act
+#### Section 2 (PART 1): Enactment of Act
 
 The National Security and Intelligence Review Agency Act is enacted as follows:
 
@@ -484,9 +484,13 @@ The Act is amended by replacing “Committee” with “Agency” in the followi
 
 #### Section 24
 
-(1) Subsection 19(1) of the Citizenship Act is replaced by the following: Definitions 19 (1) The following definitions apply in this section and sections 19.1, 19.2 and 20. Review Agency means the National Security and Intelligence Review Agency. (Office de surveillance) threats to the security of Canada has the same meaning as in section 2 of the Canadian Security Intelligence Service Act. (menaces envers la sécurité du Canada)
+(1) Subsection 19(1) of the Citizenship Act is replaced by the following:
 
 (2) Subsection 19(4) of the Act is replaced by the following: Application of the National Security and Intelligence Review Agency Act (4) Where a report is made to the Review Agency pursuant to subsection (2), the Review Agency shall investigate the grounds on which it is based and for that purpose sections 10 to 12, 20, 25 to 28 and 30 of the National Security and Intelligence Review Agency Act apply, with any necessary modifications, to the investigation as if the investigation were conducted in relation to a complaint made under subsection 18(3) of that Act, except that a reference in any of those provisions to “deputy head” shall be read as a reference to the Minister.
+
+#### Section s24(1):19: Definitions
+
+(1) The following definitions apply in this section and sections 19.1, 19.2 and 20. Review Agency means the National Security and Intelligence Review Agency. (Office de surveillance) threats to the security of Canada has the same meaning as in section 2 of the Canadian Security Intelligence Service Act. (menaces envers la sécurité du Canada)
 
 #### Section 25: Replacement of “Committee”
 
@@ -526,13 +530,17 @@ Part III of Schedule VI to the Act is amended by adding, in alphabetical order i
 
 #### Section 33
 
-(1) Subsection 45(1) of the Canadian Human Rights Act is replaced by the following: Definition of Review Agency 45 (1) In this section and section 46, Review Agency means the National Security and Intelligence Review Agency.
+(1) Subsection 45(1) of the Canadian Human Rights Act is replaced by the following:
 
 (2) The Act is amended by replacing “Committee” with “Agency” in subsections 45(2) and (4).
 
 (3) Subsection 45(5) of the Act is replaced by the following: National Security and Intelligence Review Agency Act (5) If a matter is referred to the Review Agency under paragraph (2)(b), sections 10 to 12, 20, 24 to 28 and 30 of the National Security and Intelligence Review Agency Act apply, with any necessary modifications, to the matter as if the referral were a complaint made under subsection 18(3) of that Act, except that a reference in any of those provisions to “deputy head” is to be read as a reference to the minister referred to in subsection (2).
 
 (4) The Act is amended by replacing “Committee” with “Agency” in subsection 45(6).
+
+#### Section s33(1):45: Definition of Review Agency
+
+(1) In this section and section 46, Review Agency means the National Security and Intelligence Review Agency.
 
 #### Section 34
 
@@ -644,7 +652,7 @@ On the first day on which both sections 2 and 76 of this Act are in force, subse
 
 (2) Subsections (3) to (11) apply if the other Act receives royal assent.
 
-(3) On the first day on which both section 4 of the other Act and section 2 of this Act are in force (a) the definition review body in section 2 of the other Act is amended by adding “or” at the end of paragraph (a) and by replacing paragraphs (b) and (c) with the following: (b) the National Security and Intelligence Review Agency. (organisme de surveillance) (b) section 13 of the other Act is amended by adding the following after subsection (2): For greater certainty (2.1) For greater certainty, the disclosure to the Committee under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy. (c) subsection 16(3) of the other Act is replaced by the following: Review bodies informed of decision (3) The appropriate Minister must provide the decision and reasons to the National Security and Intelligence Review Agency and, in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police. (d) section 23 of the other Act is amended by adding “or” at the end of paragraph (a) and by replacing paragraphs (b) and (c) with the following: (b) to the National Security and Intelligence Review Agency, information that is related to the fulfilment of that review body’s mandate under paragraphs 8(1)(a) to (c) of the National Security and Intelligence Review Agency Act. (e) the definition review body in section 2 of the new Act is replaced by the following: review body means (a) the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act; or (b) the National Security and Intelligence Committee of Parliamentarians. (organisme de surveillance) (f) paragraph 10(d) of the new Act is replaced by the following: (d) in relation to a complaint referred to it under subsection 45.53(4.1) or 45.67(2.1) of the Royal Canadian Mounted Police Act, any information that relates to the complaint and that is in the possession or under the control of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act, the Royal Canadian Mounted Police, the Canadian Security Intelligence Service or the Communications Security Establishment. (g) section 13 of the new Act is replaced by the following: Cooperation 13 The Review Agency and each review body are to take all reasonable steps to cooperate with each other to avoid any unnecessary duplication of work by the Review Agency and that review body in relation to the fulfilment of their respective mandates. (h) subsection 14(1) of the English version of the new Act is replaced by the following: Provision of information to Review Agency 14 (1) Despite any provision of any other Act of Parliament — including section 45.47 of the Royal Canadian Mounted Police Act — and subject to subsection (2), a review body may provide to the Review Agency information that is in its possession or under its control and that is related, in the review body’s opinion, to the fulfilment of the Agency’s mandate under paragraphs 8(1)(a) to (c). (i) subsection 15(1) of the new Act is replaced by the following: Civilian Review and Complaints Commission 15 (1) The Review Agency may provide to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police information that is obtained from — or that is created by the Agency from information obtained from — the Royal Canadian Mounted Police and that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under subsection 45.34(1) of the Royal Canadian Mounted Police Act. (j) the new Act is amended by adding the following after section 15: National Security and Intelligence Committee of Parliamentarians 15.1 (1) The Review Agency may provide to the National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under section 8 of the National Security and Intelligence Committee of Parliamentarians Act. Exception (2) The Review Agency must not provide to the review body (a) information that is referred to in section 14 of the National Security and Intelligence Committee of Parliamentarians Act; or (b) information that is the subject of a decision that has been provided to the Review Agency under subsection 16(3) of that Act.
+(3) On the first day on which both section 4 of the other Act and section 2 of this Act are in force (a) the definition review body in section 2 of the other Act is amended by adding “or” at the end of paragraph (a) and by replacing paragraphs (b) and (c) with the following: (b) the National Security and Intelligence Review Agency. (organisme de surveillance) (b) section 13 of the other Act is amended by adding the following after subsection (2): For greater certainty (2.1) For greater certainty, the disclosure to the Committee under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy. (c) subsection 16(3) of the other Act is replaced by the following: Review bodies informed of decision (3) The appropriate Minister must provide the decision and reasons to the National Security and Intelligence Review Agency and, in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police. (d) section 23 of the other Act is amended by adding “or” at the end of paragraph (a) and by replacing paragraphs (b) and (c) with the following: (b) to the National Security and Intelligence Review Agency, information that is related to the fulfilment of that review body’s mandate under paragraphs 8(1)(a) to (c) of the National Security and Intelligence Review Agency Act. (e) the definition review body in section 2 of the new Act is replaced by the following: review body means (a) the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act; or (b) the National Security and Intelligence Committee of Parliamentarians. (organisme de surveillance) (f) paragraph 10(d) of the new Act is replaced by the following: (d) in relation to a complaint referred to it under subsection 45.53(4.1) or 45.67(2.1) of the Royal Canadian Mounted Police Act, any information that relates to the complaint and that is in the possession or under the control of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act, the Royal Canadian Mounted Police, the Canadian Security Intelligence Service or the Communications Security Establishment. (g) section 13 of the new Act is replaced by the following: (h) subsection 14(1) of the English version of the new Act is replaced by the following: (i) subsection 15(1) of the new Act is replaced by the following: (j) the new Act is amended by adding the following after section 15:
 
 (4) If subsection 40(1) of the other Act comes into force before subsection 35(1) of this Act, then that subsection 35(1) is repealed.
 
@@ -660,7 +668,29 @@ On the first day on which both sections 2 and 76 of this Act are in force, subse
 
 (10) If subsection 40(3) of the other Act comes into force on the same day as subsection 35(3) of this Act, then that subsection 35(3) is deemed never to have come into force and is repealed.
 
-(11) On the first day on which both section 47 of the other Act and section 46 of this Act are in force, (a) section 53.4 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, as enacted by section 47 of the other Act, is renumbered as section 53.5 and is repositioned accordingly if required; and (b) the portion of subsection 55(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act before paragraph (a) is replaced by the following: Disclosure by Centre prohibited 55 (1) Subject to subsections (3) and (6.1), sections 52, 53.4, 53.5, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the Privacy Act, the Centre shall not disclose the following:
+(11) On the first day on which both section 47 of the other Act and section 46 of this Act are in force, (a) section 53.4 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, as enacted by section 47 of the other Act, is renumbered as section 53.5 and is repositioned accordingly if required; and (b) the portion of subsection 55(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act before paragraph (a) is replaced by the following:
+
+#### Section s49(3)(g):13: Cooperation
+
+The Review Agency and each review body are to take all reasonable steps to cooperate with each other to avoid any unnecessary duplication of work by the Review Agency and that review body in relation to the fulfilment of their respective mandates.
+
+#### Section s49(3)(h):14: Provision of information to Review Agency
+
+(1) Despite any provision of any other Act of Parliament — including section 45.47 of the Royal Canadian Mounted Police Act — and subject to subsection (2), a review body may provide to the Review Agency information that is in its possession or under its control and that is related, in the review body’s opinion, to the fulfilment of the Agency’s mandate under paragraphs 8(1)(a) to (c).
+
+#### Section s49(3)(i):15: Civilian Review and Complaints Commission
+
+(1) The Review Agency may provide to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police information that is obtained from — or that is created by the Agency from information obtained from — the Royal Canadian Mounted Police and that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under subsection 45.34(1) of the Royal Canadian Mounted Police Act.
+
+#### Section s49(3)(j):15.1: National Security and Intelligence Committee of Parliamentarians
+
+(1) The Review Agency may provide to the National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under section 8 of the National Security and Intelligence Committee of Parliamentarians Act.
+
+[Exception] (2) The Review Agency must not provide to the review body (a) information that is referred to in section 14 of the National Security and Intelligence Committee of Parliamentarians Act; or (b) information that is the subject of a decision that has been provided to the Review Agency under subsection 16(3) of that Act.
+
+#### Section s49(11)(b):55: Disclosure by Centre prohibited
+
+(1) Subject to subsections (3) and (6.1), sections 52, 53.4, 53.5, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the Privacy Act, the Centre shall not disclose the following:
 
 ## PART 1.1 — Avoiding Complicity in Mistreatment by Foreign Entities
 
@@ -742,7 +772,17 @@ Every deputy head to whom directions have been issued under section 3 must, as s
 
 #### Section 49.2: Part 1.1 of this Act
 
-On the first day on which both sections 2 and 49.1 of this Act are in force, (a) section 8 of the National Security and Intelligence Review Agency Act is amended by adding the following after subsection (2.1): Avoiding Complicity in Mistreatment by Foreign Entities Act (2.2) In the course of its review of activities carried out by departments, the Review Agency must, each calendar year, review the implementation of all directions issued under the Avoiding Complicity in Mistreatment by Foreign Entities Act. (b) the definition review body in section 2 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is repealed; (c) section 6 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is replaced by the following: Copy to be provided 6 Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police. (d) section 8 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is replaced by the following: Obligation to provide copy 8 (1) As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police. Restriction (2) The copy must not contain any information that the Committee, the Agency or the Commission is not entitled to receive.
+On the first day on which both sections 2 and 49.1 of this Act are in force, (a) section 8 of the National Security and Intelligence Review Agency Act is amended by adding the following after subsection (2.1): Avoiding Complicity in Mistreatment by Foreign Entities Act (2.2) In the course of its review of activities carried out by departments, the Review Agency must, each calendar year, review the implementation of all directions issued under the Avoiding Complicity in Mistreatment by Foreign Entities Act. (b) the definition review body in section 2 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is repealed; (c) section 6 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is replaced by the following: (d) section 8 of the Avoiding Complicity in Mistreatment by Foreign Entities Act is replaced by the following:
+
+#### Section s49.2(c):6: Copy to be provided
+
+Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+
+#### Section s49.2(d):8: Obligation to provide copy
+
+(1) As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+
+[Restriction] (2) The copy must not contain any information that the Committee, the Agency or the Commission is not entitled to receive.
 
 ## PART 2 — Intelligence Commissioner
 
@@ -1044,7 +1084,11 @@ Schedule 2 to the Security of Canada Information Disclosure Act is amended by de
 
 (2) On the first day on which both section 2 of the other Act and section 50 of this Act are in force, the definition department in that section 2 is replaced by the following: department means, except in subsection 25(2), a department named in Schedule I to the Financial Administration Act, a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (ministère)
 
-(3) On the first day on which both section 21 of the other Act and section 50 of this Act are in force, section 24 of the Intelligence Commissioner Act is replaced by the following: Entitlement to reports 24 The Commissioner is entitled to receive a copy of the following reports, or of a part of the reports, if the report or part in question relates to the Commissioner’s powers, duties or functions: (a) a special report submitted by the National Security and Intelligence Committee of Parliamentarians under subsection 21(2) of the National Security and Intelligence Committee of Parliamentarians Act; and (b) a report submitted by the National Security and Intelligence Review Agency under subsection 32(1) or 33(1) or section 34 or 35 of the National Security and Intelligence Review Agency Act.
+(3) On the first day on which both section 21 of the other Act and section 50 of this Act are in force, section 24 of the Intelligence Commissioner Act is replaced by the following:
+
+#### Section s75(3):24: Entitlement to reports
+
+The Commissioner is entitled to receive a copy of the following reports, or of a part of the reports, if the report or part in question relates to the Commissioner’s powers, duties or functions: (a) a special report submitted by the National Security and Intelligence Committee of Parliamentarians under subsection 21(2) of the National Security and Intelligence Committee of Parliamentarians Act; and (b) a report submitted by the National Security and Intelligence Review Agency under subsection 32(1) or 33(1) or section 34 or 35 of the National Security and Intelligence Review Agency Act.
 
 ## PART 3 — Communications Security Establishment
 
@@ -1890,9 +1934,15 @@ The Act is amended by adding the following after section 20:
 
 #### Section 103
 
-(1) Subsection 21.1(1) of the Act is replaced by the following: Application for warrant — measures to reduce threats to security of Canada 21.1 (1) If the Director or any employee who is designated by the Minister for the purpose believes on reasonable grounds that a warrant under this section is required to enable the Service to take measures referred to in subsection (1.1), within or outside Canada, to reduce a threat to the security of Canada, the Director or employee may, after having obtained the Minister’s approval, make an application in accordance with subsection (2) to a judge for a warrant under this section. Measures (1.1) For the purpose of subsection (1), the measures are the following: (a) altering, removing, replacing, destroying, disrupting or degrading a communication or means of communication; (b) altering, removing, replacing, destroying, degrading or providing — or interfering with the use or delivery of — any thing or part of a thing, including records, documents, goods, components and equipment; (c) fabricating or disseminating any information, record or document; (d) making or attempting to make, directly or indirectly, any financial transaction that involves or purports to involve currency or a monetary instrument; (e) interrupting or redirecting, directly or indirectly, any financial transaction that involves currency or a monetary instrument; (f) interfering with the movement of any person, excluding the detention of an individual; and (g) personating a person, other than a police officer, in order to take a measure referred to in any of paragraphs (a) to (f).
+(1) Subsection 21.1(1) of the Act is replaced by the following:
 
 (2) Paragraph 21.1(2)(c) of the Act is replaced by the following: (c) the reasonableness and proportionality, in the circumstances, of the proposed measures, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy;
+
+#### Section s103(1):21.1: Application for warrant — measures to reduce threats to security of Canada
+
+(1) If the Director or any employee who is designated by the Minister for the purpose believes on reasonable grounds that a warrant under this section is required to enable the Service to take measures referred to in subsection (1.1), within or outside Canada, to reduce a threat to the security of Canada, the Director or employee may, after having obtained the Minister’s approval, make an application in accordance with subsection (2) to a judge for a warrant under this section.
+
+[Measures] (1.1) For the purpose of subsection (1), the measures are the following: (a) altering, removing, replacing, destroying, disrupting or degrading a communication or means of communication; (b) altering, removing, replacing, destroying, degrading or providing — or interfering with the use or delivery of — any thing or part of a thing, including records, documents, goods, components and equipment; (c) fabricating or disseminating any information, record or document; (d) making or attempting to make, directly or indirectly, any financial transaction that involves or purports to involve currency or a monetary instrument; (e) interrupting or redirecting, directly or indirectly, any financial transaction that involves currency or a monetary instrument; (f) interfering with the movement of any person, excluding the detention of an individual; and (g) personating a person, other than a police officer, in order to take a measure referred to in any of paragraphs (a) to (f).
 
 #### Section 104
 
@@ -2004,11 +2054,15 @@ The purpose of this Act is to encourage and facilitate the disclosure of informa
 
 #### Section 117
 
-(1) The portion of section 4 of the English version of the Act before paragraph (c) is replaced by the following: Guiding principles 4 The disclosure of information under this Act is to be guided by the following principles: (a) effective and responsible disclosure of information protects Canada and Canadians; (b) respect for caveats on and originator control over disclosed information is consistent with effective and responsible disclosure of information;
+(1) The portion of section 4 of the English version of the Act before paragraph (c) is replaced by the following:
 
 (2) Paragraph 4(c) of the Act is replaced by the following: (c) entry into an information-sharing arrangement is appropriate when a Government of Canada institution regularly discloses information to the same Government of Canada institution;
 
 (3) Paragraph 4(d) of the English version of the Act is replaced by the following: (d) the provision of feedback as to how disclosed information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information disclosure; and
+
+#### Section s117(1):4: Guiding principles
+
+The disclosure of information under this Act is to be guided by the following principles: (a) effective and responsible disclosure of information protects Canada and Canadians; (b) respect for caveats on and originator control over disclosed information is consistent with effective and responsible disclosure of information;
 
 #### Section 118
 
@@ -2042,9 +2096,17 @@ For greater certainty, for the purpose of paragraph 8(2)(b) of the Privacy Act, 
 
 #### Section 119
 
-(1) Section 9 of the Act and the heading before it are replaced by the following: Record Keeping Obligation — disclosing institution 9 (1) Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out (a) a description of the information; (b) the name of the individual who authorized its disclosure; (c) the name of the recipient Government of Canada institution; (d) the date on which it was disclosed; (e) a description of the information that was relied on to satisfy the disclosing institution that the disclosure was authorized under this Act; and (f) any other information specified by the regulations. Obligation — recipient institution (2) Every Government of Canada institution that receives information under this Act must prepare and keep records that set out (a) a description of the information; (b) the name of the institution that disclosed it; (c) the name or position of the head of the recipient institution — or of the person designated by the head — who received the information; (d) the date on which it was received by the recipient institution; (e) whether the information has been destroyed or returned under subsection 5.1(1); (f) if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed; (g) if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and (h) any other information specified by the regulations.
+(1) Section 9 of the Act and the heading before it are replaced by the following:
 
-#### Section 2
+## PART 5 — Security of Canada Information Sharing Act (Clause 119(1)) — Record Keeping
+
+#### Section s119(1):9: Obligation — disclosing institution
+
+(1) Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out (a) a description of the information; (b) the name of the individual who authorized its disclosure; (c) the name of the recipient Government of Canada institution; (d) the date on which it was disclosed; (e) a description of the information that was relied on to satisfy the disclosing institution that the disclosure was authorized under this Act; and (f) any other information specified by the regulations.
+
+[Obligation — recipient institution] (2) Every Government of Canada institution that receives information under this Act must prepare and keep records that set out (a) a description of the information; (b) the name of the institution that disclosed it; (c) the name or position of the head of the recipient institution — or of the person designated by the head — who received the information; (d) the date on which it was received by the recipient institution; (e) whether the information has been destroyed or returned under subsection 5.1(1); (f) if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed; (g) if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and (h) any other information specified by the regulations.
+
+#### Section 2 (PART 5)
 
 Section 9 of the Act is amended by adding the following after subsection (2): Copy to National Security and Intelligence Review Agency (3) Within 30 days after the end of each calendar year, every Government of Canada institution that disclosed information under section 5 during the year and every Government of Canada institution that received such information must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) or (2), as the case may be, with respect to the information.
 
@@ -2116,9 +2178,13 @@ The Minister may, by order, for any period and on any terms that may be specifie
 
 #### Section 129
 
-(1) The portion of subsection 8(1) of the Act before paragraph (a) is replaced by the following: List 8 (1) The Minister may establish a list on which is placed the surname, first name and middle names, any alias, the date of birth and the gender of any person, and any other information that is prescribed by regulation that serves to identify the person, if the Minister has reasonable grounds to suspect that the person will
+(1) The portion of subsection 8(1) of the Act before paragraph (a) is replaced by the following:
 
 (2) Section 8 of the Act is amended by adding the following after subsection (3): Exemption from Statutory Instruments Act (4) The list is exempt from the application of the Statutory Instruments Act.
+
+#### Section s129(1):8: List
+
+(1) The Minister may establish a list on which is placed the surname, first name and middle names, any alias, the date of birth and the gender of any person, and any other information that is prescribed by regulation that serves to identify the person, if the Minister has reasonable grounds to suspect that the person will
 
 #### Section 130
 
@@ -2192,7 +2258,7 @@ For greater certainty, nothing in this Act limits or prohibits the collection, u
 
 #### Section 137
 
-(1) Subsection 20(1) of the Act is replaced by the following: Prohibition — list 20 (1) It is prohibited to disclose the list, except as required for the purposes of sections 10, 11, 12 and 13.
+(1) Subsection 20(1) of the Act is replaced by the following:
 
 (2) The portion of subsection 20(2) of the French version of the Act before paragraph (a) is replaced by the following: Interdiction — général (2) Il est interdit de communiquer le fait qu’une personne est, a été, n’est pas ou n’a pas été une personne inscrite, sauf :
 
@@ -2205,6 +2271,10 @@ For greater certainty, nothing in this Act limits or prohibits the collection, u
 (6) Paragraph 20(3)(a) of the Act is replaced by the following: (a) for the purposes of sections 6 and 30;
 
 (7) Subsection 20(3) of the Act is amended by adding “or” at the end of paragraph (b) and by adding the following after that paragraph: (c) if the Minister has disclosed under section 12.1 that the individual is not a listed person, in the case where anyone further discloses that information.
+
+#### Section s137(1):20: Prohibition — list
+
+(1) It is prohibited to disclose the list, except as required for the purposes of sections 10, 11, 12 and 13.
 
 #### Section 138
 
@@ -2276,9 +2346,19 @@ Subsections 83.31(1) and (1.1) of the Act are repealed.
 
 #### Section 148
 
-(1) Subsections 83.32(1) to (2) of the Act are replaced by the following: Sunset provision 83.32 (1) Section 83.3 ceases to have effect at the end of the fifth anniversary of the day on which the National Security Act, 2017 receives royal assent unless, before the end of that fifth anniversary, the operation of that section is extended by resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3). Review (1.1) A comprehensive review of section 83.3 and its operation shall be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose. Report (1.2) The committee shall, no later than one year before the fifth anniversary referred to subsection (1), submit a report on the review to the appropriate House of Parliament, or to both Houses, as the case may be, including its recommendation with respect to extending the operation of section 83.3. Order in council (2) The Governor in Council may, by order, establish the text of a resolution that provides for the extension of the operation of section 83.3 and that specifies the period of the extension, which may not exceed five years from the first day on which the resolution has been passed by both Houses of Parliament.
+(1) Subsections 83.32(1) to (2) of the Act are replaced by the following:
 
 (2) Subsections 83.32(4) and (5) of the Act are replaced by the following: Subsequent extensions (4) The operation of section 83.3 may be further extended in accordance with this section, but (a) the reference to “at the end of the fifth anniversary of the day on which the National Security Act, 2017 receives royal assent unless, before the end of that fifth anniversary” in subsection (1) is to be read as a reference to “on the expiry of the most recent extension under this section unless, before that extension expires”; and (b) the reference to “the fifth anniversary referred to subsection (1)” in subsection (1.2) is to be read as a reference to “the expiry of the most recent extension under this section”.
+
+#### Section s148(1):83.32: Sunset provision
+
+(1) Section 83.3 ceases to have effect at the end of the fifth anniversary of the day on which the National Security Act, 2017 receives royal assent unless, before the end of that fifth anniversary, the operation of that section is extended by resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
+
+[Review] (1.1) A comprehensive review of section 83.3 and its operation shall be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
+
+[Report] (1.2) The committee shall, no later than one year before the fifth anniversary referred to subsection (1), submit a report on the review to the appropriate House of Parliament, or to both Houses, as the case may be, including its recommendation with respect to extending the operation of section 83.3.
+
+[Order in council] (2) The Governor in Council may, by order, establish the text of a resolution that provides for the extension of the operation of section 83.3 and that specifies the period of the extension, which may not exceed five years from the first day on which the resolution has been passed by both Houses of Parliament.
 
 #### Section 149
 

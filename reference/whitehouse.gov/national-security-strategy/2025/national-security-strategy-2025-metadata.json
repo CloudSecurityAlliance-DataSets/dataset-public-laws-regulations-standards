@@ -28,7 +28,7 @@
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2025-12-01",
+    "published": "2025-12-04",
     "active": true,
     "supersedes": "secid:reference/whitehouse.gov/national-security-strategy@2022",
     "supersededBy": null,
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 33-page born-digital White House PDF (https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf) locally via column-aware PyMuPDF layout analysis (64,197 chars) and parsed 25 sections (11 with ID)."
+    "notes": "Extracted 33-page born-digital White House PDF (https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf) locally via column-aware PyMuPDF layout analysis (64,173 chars) and parsed 21 sections (11 with ID)."
   },
   "extraction_history": [
     {

@@ -4,34 +4,34 @@
 
 ##### Table of contents
 
-- [Executive Summary](#s1)
-  - [Canada's Place in a Digital World](#s11)
-  - [The Importance of Cyber Security](#s12)
-  - [The Vision of the National Cyber Security Strategy: Security and prosperity in the digital age](#s13)
-  - [Scope of the Strategy](#s14)
-  - [Implementing the Strategy](#s15)
-- [Introduction](#s2)
-  - [Building on Canada's Accomplishments in a Dynamic Cyber Landscape](#s21)
-- [Security and Resilience](#s3)
-  - [Strategic Context: The Evolution of the Cyber Threat](#s31)
-  - [Cybercrime and Advanced Cyber Threats](#s32)
-  - [The Growing Impact](#s33)
-  - [Public Consultation on Cyber Security](#s34)
-  - [Secure and Resilient Canadian Systems](#s35)
-- [Cyber Innovation](#s4)
-  - [Strategic Context: Expanding Frontiers of Cyber Security](#s41)
-  - [New Horizons of Technology and Business Development](#s42)
-  - [Building on the Benefits of Digital Technology](#s43)
-  - [Advancing 21st Century Skills and Knowledge](#s44)
-  - [Public Consultation on Cyber Security](#s45)
-  - [An Innovative and Adaptive Cyber Ecosystem](#s46)
-- [Leadership and Collaboration](#s5)
-  - [Strategic Context: Collaborating to Realize the Benefits of Digital Life](#s51)
-  - [Raising Baseline Cyber Security in Canada](#s52)
-  - [Federal Cyber Security Leadership in a Dynamic Environment](#s53)
-  - [Public Consultation on Cyber Security](#s54)
-  - [Effective Leadership, Governance, and Collaboration](#s55)
-- [Workbook Glossary](#s6)
+- [Executive Summary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s1)
+  - [Canada's Place in a Digital World](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s11)
+  - [The Importance of Cyber Security](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s12)
+  - [The Vision of the National Cyber Security Strategy: Security and prosperity in the digital age](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s13)
+  - [Scope of the Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s14)
+  - [Implementing the Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s15)
+- [Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s2)
+  - [Building on Canada's Accomplishments in a Dynamic Cyber Landscape](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s21)
+- [Security and Resilience](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s3)
+  - [Strategic Context: The Evolution of the Cyber Threat](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s31)
+  - [Cybercrime and Advanced Cyber Threats](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s32)
+  - [The Growing Impact](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s33)
+  - [Public Consultation on Cyber Security](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s34)
+  - [Secure and Resilient Canadian Systems](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s35)
+- [Cyber Innovation](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s4)
+  - [Strategic Context: Expanding Frontiers of Cyber Security](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s41)
+  - [New Horizons of Technology and Business Development](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s42)
+  - [Building on the Benefits of Digital Technology](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s43)
+  - [Advancing 21st Century Skills and Knowledge](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s44)
+  - [Public Consultation on Cyber Security](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s45)
+  - [An Innovative and Adaptive Cyber Ecosystem](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s46)
+- [Leadership and Collaboration](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s5)
+  - [Strategic Context: Collaborating to Realize the Benefits of Digital Life](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s51)
+  - [Raising Baseline Cyber Security in Canada](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s52)
+  - [Federal Cyber Security Leadership in a Dynamic Environment](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s53)
+  - [Public Consultation on Cyber Security](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s54)
+  - [Effective Leadership, Governance, and Collaboration](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s55)
+- [Workbook Glossary](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#s6)
 
 ## Foreword
 
@@ -273,7 +273,7 @@ Digital innovation has become the engine of economic growth in the 21st century.
 
 ### New Horizons of Technology and Business Development
 
-Cyber security is increasingly driving innovation and economic activity in Canada. It already contributes $1.7 billion to Canada's GDP and consists of over 11,000 well-paying jobs[Note 1](#fn01). With the global cyber security industry forecasted to grow by 66% by 2021, thousands of additional jobs could be created for Canadians in the years ahead[Note 2](#fn02). Governments, academia, and members of the private sector can work together to create new opportunities, drive investment, and foster leading-edge research and development.
+Cyber security is increasingly driving innovation and economic activity in Canada. It already contributes $1.7 billion to Canada's GDP and consists of over 11,000 well-paying jobs[Note 1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#fn01). With the global cyber security industry forecasted to grow by 66% by 2021, thousands of additional jobs could be created for Canadians in the years ahead[Note 2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#fn02). Governments, academia, and members of the private sector can work together to create new opportunities, drive investment, and foster leading-edge research and development.
 
 Canada is already a leader in cyber security research and development. Breakthroughs in cyber security research are not only beneficial for Canadian cyber security firms, but for the economy as a whole. Government has a role to play to support advanced research and to help innovative companies scale up to bring cyber security technologies and services to the global marketplace.
 
@@ -463,11 +463,11 @@ Spear Phishing, Phishing
 
 ## Footnotes
 
-1. [1](#fn01-rf)
+1. [1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#fn01-rf)
 
    International Data Corporation (IDC) Canada, "2016 Canadian ICT Predictions and Forecast: Digital Transformation and Disruption," December 2015
 
    Information and Communications Technology Council (ICTC), "Critical Infrastructure in a Hyperconnected Economy," August 2016.
-2. [2](#fn02-rf)
+2. [2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx#fn02-rf)
 
    Research and Markets, "Cyber Security Market – Global Forecast to 2021," August 2016.

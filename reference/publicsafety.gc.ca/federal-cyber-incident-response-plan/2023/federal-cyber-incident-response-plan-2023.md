@@ -2,41 +2,41 @@
 
 ## Table of contents
 
-- [1. Preamble](#s1)
-  - [1.1 About this document](#s1.1)
-  - [1.2 Effective Date](#s1.2)
-  - [1.3 Authorities](#s1.3)
-  - [1.4 Definitions](#s1.4)
-- [2. Introduction](#s2)
-  - [2.1 Context](#s2.1)
-  - [2.2 Purpose](#s2.2)
-  - [2.3 Scope](#s2.3)
-  - [2.4 Objectives](#s2.4)
-  - [2.5 Assumptions](#s2.5)
-- [3. Management Process for Cyber Security Incidents Affecting Non-GC cyber systems](#s3)
-  - [3.1 Stakeholders](#s3.1)
-  - [3.2 Process Overview](#s3.2)
-  - [3.3 GC Response Levels](#s3.3)
-  - [3.4 Governance](#s3.4)
-- [4. Reporting and Information Sharing](#s4)
-  - [4.1 Reporting Events to the GC](#s4.1)
-  - [4.2 Reporting Examples](#s4.2)
-  - [4.3 Internal GC Information Sharing](#s4.3)
-- [5. External Communications](#s5)
-- [6. Management Process for Cyber Security Incidents that Affect both GC and non-GC Cyber Systems](#s6)
-  - [6.1 Process overview](#s6.1)
-  - [6.2 Governance](#s6.2)
-  - [6.3 Internal GC Information Sharing](#s6.3)
-  - [6.4 External Communications](#s6.4)
-- [Appendix A: Glossary of acronyms and abbreviations](#sA)
-- [Appendix B: Roles and Responsibilities](#sB)
-  - [1. Core Stakeholders](#sB1)
-  - [2. Secondary stakeholders](#sB2)
-- [Appendix C: GC Response Levels](#sC)
-- [Appendix D: Event Impact Assessment](#sD)
-- [Appendix E: FCIRP Governance](#sE)
-- [Appendix F: FCIRP Information Sharing Flow](#sF)
-- [Appendix G: FCIRP and GC CSEMP Information Sharing Flow](#sG)
+- [1. Preamble](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s1)
+  - [1.1 About this document](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s1.1)
+  - [1.2 Effective Date](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s1.2)
+  - [1.3 Authorities](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s1.3)
+  - [1.4 Definitions](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s1.4)
+- [2. Introduction](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2)
+  - [2.1 Context](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2.1)
+  - [2.2 Purpose](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2.2)
+  - [2.3 Scope](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2.3)
+  - [2.4 Objectives](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2.4)
+  - [2.5 Assumptions](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s2.5)
+- [3. Management Process for Cyber Security Incidents Affecting Non-GC cyber systems](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s3)
+  - [3.1 Stakeholders](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s3.1)
+  - [3.2 Process Overview](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s3.2)
+  - [3.3 GC Response Levels](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s3.3)
+  - [3.4 Governance](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s3.4)
+- [4. Reporting and Information Sharing](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s4)
+  - [4.1 Reporting Events to the GC](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s4.1)
+  - [4.2 Reporting Examples](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s4.2)
+  - [4.3 Internal GC Information Sharing](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s4.3)
+- [5. External Communications](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s5)
+- [6. Management Process for Cyber Security Incidents that Affect both GC and non-GC Cyber Systems](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s6)
+  - [6.1 Process overview](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s6.1)
+  - [6.2 Governance](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s6.2)
+  - [6.3 Internal GC Information Sharing](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s6.3)
+  - [6.4 External Communications](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#s6.4)
+- [Appendix A: Glossary of acronyms and abbreviations](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sA)
+- [Appendix B: Roles and Responsibilities](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sB)
+  - [1. Core Stakeholders](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sB1)
+  - [2. Secondary stakeholders](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sB2)
+- [Appendix C: GC Response Levels](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sC)
+- [Appendix D: Event Impact Assessment](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sD)
+- [Appendix E: FCIRP Governance](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sE)
+- [Appendix F: FCIRP Information Sharing Flow](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sF)
+- [Appendix G: FCIRP and GC CSEMP Information Sharing Flow](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#sG)
 
 ## 1. Preamble
 
@@ -54,7 +54,7 @@ This plan takes effect on May 12, 2023.
 
 ### 1.3 Authorities
 
-This plan is prepared in the exercise of the responsibilities conferred to the Minister of Public Safety and Emergency Preparedness under the [*Emergency Management Act*](https://laws-lois.justice.gc.ca/eng/acts/e-4.56/), the [*Department of Public Safety and Emergency Preparedness Act*](https://laws-lois.justice.gc.ca/eng/acts/P-31.55/), the Minister of National Defence under the [*CSE Act*](https://laws-lois.justice.gc.ca/eng/acts/C-35.3/page-1.html)[Footnote 1](#fn1), and in line with the goals of [*Canada's National Cyber Security Strategy*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx).
+This plan is prepared in the exercise of the responsibilities conferred to the Minister of Public Safety and Emergency Preparedness under the [*Emergency Management Act*](https://laws-lois.justice.gc.ca/eng/acts/e-4.56/), the [*Department of Public Safety and Emergency Preparedness Act*](https://laws-lois.justice.gc.ca/eng/acts/P-31.55/), the Minister of National Defence under the [*CSE Act*](https://laws-lois.justice.gc.ca/eng/acts/C-35.3/page-1.html)[Footnote 1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn1), and in line with the goals of [*Canada's National Cyber Security Strategy*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/index-en.aspx).
 
 ### 1.4 Definitions
 
@@ -90,13 +90,13 @@ Cyber security incident
 
     A cyber security incident can result in a compromise or a privacy breach if it involves the inappropriate creation, collection, use, disclosure, retention or disposition of personal information.
 
-    Throughout this document, for ease of reading, the term cyber security incident will be used[Footnote 2](#fn2).
+    Throughout this document, for ease of reading, the term cyber security incident will be used[Footnote 2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn2).
 
 Threat
 :   Any potential event or act, deliberate or unintentional, or natural hazard that could result in a compromise.
 
 Cyber Threat
-:   Any potential event or act, deliberate, accidental or natural hazard, that could compromise IT assets[Footnote 3](#fn3).
+:   Any potential event or act, deliberate, accidental or natural hazard, that could compromise IT assets[Footnote 3](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn3).
 
 Vulnerability
 :   Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
@@ -111,7 +111,7 @@ Cyber systems increasingly underpin every component of our daily lives. A cyber 
 
 The purpose of this document is to provide a framework for the GC's management of cyber incidents that affect assets that are not owned or operated by the GC and are essential to the health, safety, security, defence, or economic well-being of Canadians.
 
-This document will be both complementary to, and separate from, existing response mechanisms, such as the [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html) (GC CSEMP) and the [Federal Emergency Response Plan](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/mrgnc-rspns-pln/index-en.aspx) (FERP)[Footnote 4](#fn4).
+This document will be both complementary to, and separate from, existing response mechanisms, such as the [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html) (GC CSEMP) and the [Federal Emergency Response Plan](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/mrgnc-rspns-pln/index-en.aspx) (FERP)[Footnote 4](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn4).
 
 ### 2.3 Scope
 
@@ -251,7 +251,7 @@ Response levels dictate the level of coordination required for any given cyber s
 
 **Level 2** indicates that heightened attention is required, and is set by co-decision at the Director level (the Cyber Centre, PS-NCSD). This level will trigger the invocation of the **Event Coordination Team** (ECT) (as outlined in section 3.4) for all confirmed events and implies that some limited GC-wide coordination is required to share information, where appropriate, and inform decision makers. At this level, core and, as required, secondary FCIRP stakeholders at the working / Director-level will formally convene in person or virtually. The impacted entity may be invited to participate in the FCIRP response process. The ECT will be co-chaired at the Director-level by the Cyber Centre and PS-NCSD. Frequency of ECT meetings will be determined by the co-chairs, in consultation with participating stakeholders. ECT members will ensure situational awareness is maintained by briefing their respective management chain. A robust public communications plan may be required for cyber security incidents at this level. PS-Comms will lead, in close collaboration with CSE Comms, the GC communications approach (see section 5 and Appendix B for additional details).
 
-**Level 3** indicates that immediate focus and action is required at the GC-level, and is set by decision at the Director-General level (the Cyber Centre, PS-NCSD). The ECT continues to meet, and level 3 triggers the invocation of the **Executive Management Team** (EMT) (as outlined in section 3.4) for all confirmed events. The EMT is scalable in scope but, at its base, consists of the Director-General Cyber Operations (DG Cyber Ops)[Footnote 5](#fn5) community, with additional secondary stakeholder representation as required. In addition to DG-level meetings, ad hoc meetings with relevant members of the Assistant Deputy Minister and/or Deputy Minister Cyber Security Committees (ADMCS/DMCS) may occur. At this level, information will be coordinated and shared between the ECT and EMT committees to inform and support decision makers. A robust public communications plan will be required for most cyber security incidents at this level. PS-Comms will lead, in close collaboration with CSE Comms and PCO Comms, the GC communications approach (see section 5 and Appendix B for additional details).
+**Level 3** indicates that immediate focus and action is required at the GC-level, and is set by decision at the Director-General level (the Cyber Centre, PS-NCSD). The ECT continues to meet, and level 3 triggers the invocation of the **Executive Management Team** (EMT) (as outlined in section 3.4) for all confirmed events. The EMT is scalable in scope but, at its base, consists of the Director-General Cyber Operations (DG Cyber Ops)[Footnote 5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn5) community, with additional secondary stakeholder representation as required. In addition to DG-level meetings, ad hoc meetings with relevant members of the Assistant Deputy Minister and/or Deputy Minister Cyber Security Committees (ADMCS/DMCS) may occur. At this level, information will be coordinated and shared between the ECT and EMT committees to inform and support decision makers. A robust public communications plan will be required for most cyber security incidents at this level. PS-Comms will lead, in close collaboration with CSE Comms and PCO Comms, the GC communications approach (see section 5 and Appendix B for additional details).
 
 **Level 4** is reserved for severe or catastrophic events affecting non-GC cyber systems. Cyber security incidents that reach this level will shift to the FERP governance structure and will be coordinated by the PS-GOC in order to ensure the harmonization of federal response efforts. ECT and EMT meetings will continue to occur and focus on operational coordination while feeding necessary operational outputs into the FERP-level response.
 
@@ -346,7 +346,7 @@ To facilitate coordination within the communications community, PS-Comms will ho
   - media requests; and
   - the development of a communications strategy and/or media relations protocol. Further details can be found in Appendix C.
 - **LFDAs** will develop their own stakeholder, client and public communications products. This will be done in consultation with PS-Comms, CSE-Comms and PCO-SC.
-- **GAC**, when appropriate, will be responsible for coordinating and communicating with international partners and multilateral organizations at a state-to-state level on matters pertaining to cybercrime and malicious cyber security incidents taking place in Canada.[Footnote 6](#fn6)
+- **GAC**, when appropriate, will be responsible for coordinating and communicating with international partners and multilateral organizations at a state-to-state level on matters pertaining to cybercrime and malicious cyber security incidents taking place in Canada.[Footnote 6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn6)
 
 ## 6. Management Process for Cyber Security Incidents that Affect both GC and non-GC Cyber Systems
 
@@ -951,34 +951,34 @@ At Level 3, which requires immediate focus and action by the FCIRP stakeholders:
 Footnote 1
 :   As per the *CSE Act*, CSE has been given Ministerial authority to respond to incidents impacting systems of importance to the GC as per SC2019, c 13, s 76. CSE's response to cyber security incidents affecting non-GC entities that are designated by the Minister have specific policies and procedures in place. However CSE's Cyber Centre may not be able to respond in the same way to entities that are covered by the FCIRP but that have not been designated as a system of importance by the Minister.
 
-    [Return to first footnote 1 referrer](#fn1-1-rf)
+    [Return to first footnote 1 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn1-1-rf)
 
 Footnote 2
 :   Every cyber security incident is a cyber security event, but not every cyber security event is a cyber security incident.
 
-    [Return to first footnote 2 referrer](#fn2-1-rf)
+    [Return to first footnote 2 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn2-1-rf)
 
 Footnote 3
 :   The GC CSEMP further defines a cyber threat as a threat actor, using the internet, who takes advantage of a known vulnerability in a product for the purposes of exploiting a network and the information the network carries.
 
-    [Return to first footnote 3 referrer](#fn3-1-rf)
+    [Return to first footnote 3 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn3-1-rf)
 
 Footnote 4
 :   Cyber incidents affecting GC cyber systems are currently covered by the GC CSEMP, and cyber incidents that have, or escalate to a point of having severe or catastrophic effects on GC and non-GC cyber systems are currently covered by the FERP.
 
-    [Return to first footnote 4 referrer](#fn4-1-rf)
+    [Return to first footnote 4 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn4-1-rf)
 
 Footnote 5
 :   DG Cyber Ops consists of the following departments: CSE (Chair); PS-NCSD; RCMP; CSIS; DND/CAF; GAC; and TBS. DMCS consists of the following departments: CSE; PS-NCSD; RCMP; CSIS; PCO; DND/CAF; the Department of Finance; GAC; Health Canada; Innovation, Science and Economic Development (ISED); Justice Canada; the Department of Natural Resources Canada (NRCAN); TBS; and Transport Canada (TC).
 
-    [Return to first footnote 5 referrer](#fn5-1-rf)
+    [Return to first footnote 5 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn5-1-rf)
 
 Footnote 6
 :   Other government departments may also engage with their international counterparts, in line with their departmental mandate, as required to facilitate operational information sharing.
 
-    [Return to first footnote 6 referrer](#fn6-1-rf)
+    [Return to first footnote 6 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn6-1-rf)
 
 Footnote 7
 :   Other government departments may also engage with their international counterparts, in line with their departmental mandate, as required to facilitate operational information sharing.
 
-    [Return to first footnote 7 referrer](#fn7-1-rf)
+    [Return to first footnote 7 referrer](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/fdrl-cbr-ncdnt-rspns-pln-2023/index-en.aspx#fn7-1-rf)

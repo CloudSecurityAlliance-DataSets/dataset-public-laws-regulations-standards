@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world) to Markdown (158,127 chars) and parsed 26 sections (7 with ID)."
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world) to Markdown (158,331 chars) and parsed 26 sections (7 with ID)."
   },
   "extraction_history": [
     {

@@ -8,15 +8,11 @@
 
 ## United Kingdom
 
-Cm 9161
-
 ## National Security Strategy and Strategic Defence and
 
 ## Security Review 2015
 
 ## A Secure and Prosperous
-
-Cm 9161
 
 ## United Kingdom
 
@@ -618,75 +614,63 @@ Joint Cyber Group
 
 MARITIME – Delivery of the Deterrent and a Maritime Task Group from:
 
-### 4 x SSBN
+4 x SSBN (Nuclear Deterrent)
 
-(Nuclear Deterrent)
+3 Commando Brigade 2 x Landing Platform Dock 3 x Landing Ship Dock
 
-### 3 Commando Brigade 2 x Landing Platform Dock 3 x Landing Ship Dock
+19 x Destroyers and Frigates
 
-### 19 x Destroyers and Frigates
+7 x SSN (Hunter Killer Submarines)
 
-### 7 x SSN
-
-(Hunter Killer Submarines)
-
-### 6 x Fleet Tankers 3 x Fleet Solid Support Ships
+6 x Fleet Tankers 3 x Fleet Solid Support Ships
 
 Up to 6 x Patrol Vessels
 
-### 12 x Mine Hunters 3 x Survey Vessels 1 x Ice Patrol Ship
+12 x Mine Hunters 3 x Survey Vessels 1 x Ice Patrol Ship
 
-### 2 x Aircraft Carriers
+2 x Aircraft Carriers
 
-### 4 x Merlin Mk2 Squadrons 2 x Wildcat Squadrons
+4 x Merlin Mk2 Squadrons 2 x Wildcat Squadrons
 
 LAND – A war-ﬁghting Division from:
 
-### 4 x Apache Squadrons 4 x Wildcat Squadrons 3 x Watchkeeper Batteries
+4 x Apache Squadrons 4 x Wildcat Squadrons 3 x Watchkeeper Batteries
 
-### 6 x Infantry Brigades (also
+6 x Infantry Brigades (also conduct overseas engagement and UK resilience tasks)
 
-conduct overseas engagement and UK resilience tasks)
+2 x Armoured Infantry Brigades
 
-### 2 x Armoured
+2 x Puma Squadrons 3 x Chinook Squadrons 2 x Merlin Mk4 Squadrons
 
-Infantry Brigades
+77 Brigade (counter hybrid warfare)
 
-### 2 x Puma Squadrons 3 x Chinook Squadrons 2 x Merlin Mk4 Squadrons
-
-### 77 Brigade (counter hybrid
-
-warfare)
-
-### 2 x Strike Brigades
+2 x Strike Brigades
 
 Enabling capabilities (Artillery, Engineers and Logistics)
 
 1 ISR Brigade (Intelligence, Surveillance and Reconnaissance)
 
-### 16 Air Assault Brigade
+16 Air Assault Brigade
 
 AIR – An Air Group from:
 
-### 2 x F35 Lightning Squadrons
+2 x F35 Lightning Squadrons
 
 >20 x Protector
 
-### 9 x P8 Maritime Patrol
+9 x P8 Maritime Patrol Aircraft
 
-Aircraft
+14 x Voyager
 
-### 14 x Voyager
+8 x C17
 
-### 8 x C17
+7 x Typhoon Squadrons
 
-### 7 x Typhoon Squadrons
+3 x Rivet Joint 6 x E-3D Sentry 8 x Shadow
 
-### 3 x Rivet Joint 6 x E-3D Sentry 8 x Shadow
+22 x A400M Atlas 14 x C130J Hercules
 
-### 22 x A400M Atlas 14 x C130J Hercules
-
-### 6 x Force Protection Wings
+6 x Force Protection Wings
 
 STRATEGIC BASE – Ministry of Defence & Permanent Operating Bases
 

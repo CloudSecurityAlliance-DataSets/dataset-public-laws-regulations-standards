@@ -53,23 +53,7 @@
     "section_name": "Implementation Plan Reading Guide",
     "id_kind": "",
     "parent_id": "",
-    "body": "The Implementation Plan is structured by pillar and strategic objective to align with the National Cybersecurity Strategy, which has five pillars and 27 strategic objectives. The fields presented for each initiative are:\n\nPillar – The Pillar under which the initiative falls.\n\nStrategic Objective – The Strategic Objective associated with the initiative."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Initiative Number – A unique number associated with the specific initiative in the form of",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "<Pillar>.<Strategic Objective>.<Initiative Number>."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Initiative Title – The title of an action that will support the overall outcome of the Strategic",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Objective.\n\nInitiative Description – An explanation of the activities associated with the action.\n\nNational Cybersecurity Strategy (NCS) Reference – The specific language from the Strategy tied to the initiative.\n\nResponsible Agency – The Federal agency responsible for leading the initiative with other stakeholders. Responsible Agencies are responsible for coordinating with Contributing Entities under their initiative and working with ONCD to resolve any differences.\n\nContributing Entities – Where applicable, Federal departments or agencies that have a significant role in the development and execution of the initiative, including by contributing expertise or resources, engaging in complementary efforts, or coordinating on elements of a program. This is not intended to be a comprehensive list of all agencies with equities in an initiative.\n\nCompletion Date – Estimated completion date by quarter within the United States Government fiscal year.\n\nNew Initiatives: Initiatives set in blue boxes are new to NCSIP version 2.\n\nCarryover Initiatives: Initiatives set in gray boxes continue from NCSIP version 1.\n\nCompleted Initiatives: Initiatives set in green boxes and italicized font are NCSIP version 1 initiatives with a completion date of 2Q FY24 or earlier. These are included in NCSIP version 2 to reflect the ongoing and continued progress against each initiative and to show the whole-of-government efforts intended to meet their respective Strategic Objective in the NCS."
+    "body": "The Implementation Plan is structured by pillar and strategic objective to align with the National Cybersecurity Strategy, which has five pillars and 27 strategic objectives. The fields presented for each initiative are:\n\nPillar – The Pillar under which the initiative falls.\n\nStrategic Objective – The Strategic Objective associated with the initiative.\n\nInitiative Number – A unique number associated with the specific initiative in the form of <Pillar>.<Strategic Objective>.<Initiative Number>.\n\nInitiative Title – The title of an action that will support the overall outcome of the Strategic Objective.\n\nInitiative Description – An explanation of the activities associated with the action.\n\nNational Cybersecurity Strategy (NCS) Reference – The specific language from the Strategy tied to the initiative.\n\nResponsible Agency – The Federal agency responsible for leading the initiative with other stakeholders. Responsible Agencies are responsible for coordinating with Contributing Entities under their initiative and working with ONCD to resolve any differences.\n\nContributing Entities – Where applicable, Federal departments or agencies that have a significant role in the development and execution of the initiative, including by contributing expertise or resources, engaging in complementary efforts, or coordinating on elements of a program. This is not intended to be a comprehensive list of all agencies with equities in an initiative.\n\nCompletion Date – Estimated completion date by quarter within the United States Government fiscal year.\n\nNew Initiatives: Initiatives set in blue boxes are new to NCSIP version 2.\n\nCarryover Initiatives: Initiatives set in gray boxes continue from NCSIP version 1.\n\nCompleted Initiatives: Initiatives set in green boxes and italicized font are NCSIP version 1 initiatives with a completion date of 2Q FY24 or earlier. These are included in NCSIP version 2 to reflect the ongoing and continued progress against each initiative and to show the whole-of-government efforts intended to meet their respective Strategic Objective in the NCS."
   },
   {
     "depth": 2,
@@ -140,7 +124,7 @@
     "section_id": "Strategic Objective 1.2",
     "section_name": "Scale Public-Private Collaboration",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Strategic Objective 1.1",
     "body": ""
   },
   {
@@ -292,7 +276,7 @@
     "section_id": "Strategic Objective 1.5",
     "section_name": "Modernize Federal Defenses",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Strategic Objective 1.4",
     "body": ""
   },
   {
@@ -724,7 +708,7 @@
     "section_id": "Pillar Four",
     "section_name": "Invest in a Resilient Future",
     "id_kind": "pillar",
-    "parent_id": "",
+    "parent_id": "Strategic Objective 3.6",
     "body": ""
   },
   {
@@ -852,7 +836,7 @@
     "section_id": "Strategic Objective 4.4",
     "section_name": "Secure Our Clean Energy Future",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Strategic Objective 4.3",
     "body": ""
   },
   {
@@ -1124,7 +1108,7 @@
     "section_id": "Implementation 6.1",
     "section_name": "Assessing Effectiveness",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Strategic Objective 5.5",
     "body": ""
   },
   {

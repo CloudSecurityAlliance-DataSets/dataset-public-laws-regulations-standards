@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (54,673 chars) and parsed 21 sections (1 with explicit section identifiers)."
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (56,041 chars) and parsed 21 sections (1 with explicit section identifiers)."
   },
   "extraction_history": [
     {

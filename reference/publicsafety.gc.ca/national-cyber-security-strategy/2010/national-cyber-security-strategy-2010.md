@@ -6,7 +6,7 @@ Information identified as archived is provided for reference, research or record
 
 ## Archived
 
-[This page has been archived on the Web.](#archived)
+[This page has been archived on the Web.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#archived)
 
 [Canada's Cyber Security Strategy PDF Version (331 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-cbr-scrt-strtgy-eng.pdf)
 
@@ -20,11 +20,11 @@ ISBN: 978-1-100-16934-7
 
 **Canadians are embracing cyberspace:**
 
-- 74% of Canadian households had paid Internet service in 2008;[Footnote 2](#fn02)
-- 59% of personal tax filings were electronic in 2008;[Footnote 3](#fn03)
-- 67% of Canadians banked online in 2009.[Footnote 4](#fn04)
+- 74% of Canadian households had paid Internet service in 2008;[Footnote 2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn02)
+- 59% of personal tax filings were electronic in 2008;[Footnote 3](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn03)
+- 67% of Canadians banked online in 2009.[Footnote 4](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn04)
 
-**The Canadian economy relies heavily on the Internet:**[Footnote 1](#fn01)
+**The Canadian economy relies heavily on the Internet:**[Footnote 1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn01)
 
 - Canadian online sales in 2007 were estimated at $62.7 billion; and
 - In 2007, 87% of Canadian businesses used the Internet.
@@ -49,9 +49,9 @@ These are important initiatives, but they are no longer sufficient. The threat i
 
 There are various ways to gain access to information in cyberspace. Attackers can exploit vulnerabilities in software and hardware. They can exploit security vulnerabilities by tricking people into opening infected emails or visiting corrupted websites that infect their computers with malicious software. They can take advantage of people who fail to follow basic cyber security practices, such as changing their passwords frequently, updating their antivirus protection on a regular basis, and using only protected wireless networks.
 
-Once they have access to a computer, attackers can steal or distort the information stored on it, corrupt its operations and program it to attack other computers and the systems to which they are connected. In many cases, victims suffer a theft of their identity and/or their personal assets. According to a study by McMaster University,[Footnote 5](#fn05) 1.7 million Canadians were victims of identity theft in 2008. The annual cost of identity theft in Canada has been estimated at nearly $1.9 billion. For this reason the Government has amended the *Criminal Code* to better protect Canadians from identity theft.
+Once they have access to a computer, attackers can steal or distort the information stored on it, corrupt its operations and program it to attack other computers and the systems to which they are connected. In many cases, victims suffer a theft of their identity and/or their personal assets. According to a study by McMaster University,[Footnote 5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn05) 1.7 million Canadians were victims of identity theft in 2008. The annual cost of identity theft in Canada has been estimated at nearly $1.9 billion. For this reason the Government has amended the *Criminal Code* to better protect Canadians from identity theft.
 
-Canadian companies can lose the race to bring a product to market, or experience other harm without ever realizing that their losses were caused by a cyber attack. It has been estimated that in a recent one year period, 86% of large Canadian organizations had suffered a cyber attack. The loss of intellectual property as a result of these attacks doubled between 2006 and 2008.[Footnote 6](#fn06)
+Canadian companies can lose the race to bring a product to market, or experience other harm without ever realizing that their losses were caused by a cyber attack. It has been estimated that in a recent one year period, 86% of large Canadian organizations had suffered a cyber attack. The loss of intellectual property as a result of these attacks doubled between 2006 and 2008.[Footnote 6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn06)
 
 Though certain attack tools and techniques are more costly and sophisticated than others, most cyber attacks share four characteristics that, in part, account for their growing popularity. Cyber attacks are often:
 
@@ -91,7 +91,7 @@ Some criminal organizations are now developing customized attack software. They 
 
 ### The Threat is Evolving
 
-Much like bacteria developing drug resistance to antibiotics, cyber viruses and malicious code are continually evolvingto evade our defences and antivirus software. The evolution of cyber attack tools and techniques has accelerated dangerously in the recent past. Statistics compiled by two well known Internet security companies, Akamai and Symantec, together show that malicious computer programs now originate in more than 190 countries.[Footnote 7](#fn07) More than 60% of all the malicious code ever detected was introduced into cyberspace in 2008[Footnote 8](#fn08) alone.
+Much like bacteria developing drug resistance to antibiotics, cyber viruses and malicious code are continually evolvingto evade our defences and antivirus software. The evolution of cyber attack tools and techniques has accelerated dangerously in the recent past. Statistics compiled by two well known Internet security companies, Akamai and Symantec, together show that malicious computer programs now originate in more than 190 countries.[Footnote 7](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn07) More than 60% of all the malicious code ever detected was introduced into cyberspace in 2008[Footnote 8](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn08) alone.
 
 There is no doubt that the frequency and severity of the cyber threat is accelerating. Protecting Canadians in cyberspace will be a constantly evolving challenge. To effectively address this challenge will require a range of actions and responses, accompanied by continuing investment and vigilance over the long term.
 
@@ -193,7 +193,7 @@ The economic success of Canada's private sector depends in large measure on its 
 
 In much the same way, our personal wellbeing depends on access to secure and reliable services from our transportation systems, communication networks and financial institutions. It is increasingly important to protect two of the primary contributors to our quality of life – private companies that drive our economic prosperity and the infrastructure systems that support our daily activities – against cyber threats. Failure to do so will have adverse economic impacts and undermine consumer confidence.
 
-A 2008 study by McMaster University[Footnote 9](#fn09) on identity theft in Canada found that 20% of consumers have eliminated or reduced the amount of shopping they do online, and that 9% have eliminated or reduced online banking activities due to the risks they perceive in doing business online. By building a secure and trusted business environment, we will help foster the productivity and innovation that drive our economic prosperity.
+A 2008 study by McMaster University[Footnote 9](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn09) on identity theft in Canada found that 20% of consumers have eliminated or reduced the amount of shopping they do online, and that 9% have eliminated or reduced online banking activities due to the risks they perceive in doing business online. By building a secure and trusted business environment, we will help foster the productivity and innovation that drive our economic prosperity.
 
 The public needs to be more aware of the vulnerabilities inherent in the cyber systems that these industries use to deliver their services. Increased awareness will equip Canadians to avoid identity theft and potential financial loss. The Government will partner with the provinces, territories and private sector to improve the cyber security posture of Canada and Canadians.
 
@@ -223,9 +223,9 @@ Our success in harnessing cyberspace has helped us achieve unprecedented persona
 
 #### Combatting Cybercrime
 
-Criminals are learning quickly that cybercrime can be inexpensive, low risk and profitable. In one well known incident uncovered in 2007,[Footnote 10](#fn10) over 45 million customer records were stolen from a well known North American retailer. The breach occurred over a three year period, during which criminals monitored wireless signals from point of sale credit card terminals. These attacks cost the retailer over $130 million and inflicted unknown financial harm on individual victims.
+Criminals are learning quickly that cybercrime can be inexpensive, low risk and profitable. In one well known incident uncovered in 2007,[Footnote 10](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn10) over 45 million customer records were stolen from a well known North American retailer. The breach occurred over a three year period, during which criminals monitored wireless signals from point of sale credit card terminals. These attacks cost the retailer over $130 million and inflicted unknown financial harm on individual victims.
 
-Also in 2008, 11 people operating in five different countries were charged[Footnote 11](#fn11) with breaking into the databases of nine major North American retailers, stealing some 40 million credit and debit card numbers from their databases, and selling the numbers (via the Internet) to other criminals.
+Also in 2008, 11 people operating in five different countries were charged[Footnote 11](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn11) with breaking into the databases of nine major North American retailers, stealing some 40 million credit and debit card numbers from their databases, and selling the numbers (via the Internet) to other criminals.
 
 Canada's law enforcement agencies cannot combat trans-national cybercrimes with outdated investigative powers and tools. Equipping our police to protect us in cyberspace requires that we provide them with new legislative authorities and supporting financial resources.
 
@@ -240,7 +240,7 @@ The Government has already passed legislation to combat identity theft. Other le
 
 #### Protecting Canadians Online
 
-Canadian families want their privacy, identities and physical wellbeing protected from cyber predators. And Canadians know that risks exist. According to a Decima Research study:[Footnote 12](#fn12)
+Canadian families want their privacy, identities and physical wellbeing protected from cyber predators. And Canadians know that risks exist. According to a Decima Research study:[Footnote 12](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn12)
 
 Only 35% of Canadians believe their computer is very safe against online threats; and
 
@@ -287,15 +287,15 @@ Minister of Public Safety
 
 ## Footnotes
 
-1. [1](#fn01-rf) Statistics Canada, "The Daily," April 24, 2008
-2. [2](#fn02-rf) Canadian Radio-television and Telecommunications Commission, "Communications Monitoring Report," August 2009
-3. [3](#fn03-rf) Canada Revenue Agency, "National Processing Status Report," September 2009
-4. [4](#fn04-rf) Statistics Canada, "Canadian Internet Use Survey," 2009
-5. [5](#fn05-rf) McMaster University, *Measuring Identity Theft in Canada: 2008 Consumer Survey*
-6. [6](#fn06-rf) CA Technologies, "Canada 2008 Security and Privacy Survey"
-7. [7](#fn07-rf) Akamai, "State of the Internet Report," March 20098
-8. [8](#fn08-rf) Symantec, "Global Internet Security Threat Report," April 2009
-9. [9](#fn09-rf) McMaster University, *Measuring Identity Theft in Canada: 2008 Consumer Survey*
-10. [10](#fn10-rf) *SC Magazine*, "FTC Settles with TJX Over Breach," March 2008
-11. [11](#fn11-rf) *Wired Magazine*, "Feds Charge 11 in Breaches at TJ Maxx, OfficeMax, DSW, Others," August 2008
-12. [12](#fn12-rf) Decima Research, *Cyber Security Practices in Canada*, Final Report, February 2008
+1. [1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn01-rf) Statistics Canada, "The Daily," April 24, 2008
+2. [2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn02-rf) Canadian Radio-television and Telecommunications Commission, "Communications Monitoring Report," August 2009
+3. [3](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn03-rf) Canada Revenue Agency, "National Processing Status Report," September 2009
+4. [4](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn04-rf) Statistics Canada, "Canadian Internet Use Survey," 2009
+5. [5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn05-rf) McMaster University, *Measuring Identity Theft in Canada: 2008 Consumer Survey*
+6. [6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn06-rf) CA Technologies, "Canada 2008 Security and Privacy Survey"
+7. [7](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn07-rf) Akamai, "State of the Internet Report," March 20098
+8. [8](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn08-rf) Symantec, "Global Internet Security Threat Report," April 2009
+9. [9](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn09-rf) McMaster University, *Measuring Identity Theft in Canada: 2008 Consumer Survey*
+10. [10](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn10-rf) *SC Magazine*, "FTC Settles with TJX Over Breach," March 2008
+11. [11](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn11-rf) *Wired Magazine*, "Feds Charge 11 in Breaches at TJ Maxx, OfficeMax, DSW, Others," August 2008
+12. [12](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-index-en.aspx#fn12-rf) Decima Research, *Cyber Security Practices in Canada*, Final Report, February 2008

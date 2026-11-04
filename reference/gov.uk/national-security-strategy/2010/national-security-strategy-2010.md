@@ -32,8 +32,6 @@ Printed on paper containing 75% recycled fibre content minimum.
 
 ## Contents
 
-## Contents
-
 Foreword ........................................................................................................... 3
 
 Introduction ....................................................................................................... 9
@@ -50,11 +48,7 @@ Annex A ........................................................................
 
 ## Foreword.
 
-## Foreword
-
 ### A Strong Britain in an Age of Uncertainty
-
-## Foreword
 
 In a world of startling change, the first duty of the Government remains: the security of our country.
 
@@ -88,8 +82,6 @@ In an age of uncertainty, we are continually facing new and unforeseen threats t
 
 The last Government took little account of this fact. Twelve years elapsed while the world changed almost beyond recognition. Abroad, our forces were sent into action without the equipment they needed, and on the basis of lamentable planning, and in more simultaneous conflicts than the Defence Review in 1998 had planned for. At home, the machinery of Government failed to adapt to the new circumstances – lacking both the urgency and the integration needed to cope with the new situation.
 
-## Foreword
-
 As a Government, we have inherited a defence and security structure that is woefully unsuitable for the world we live in today. We are determined to learn from those mistakes, and make the changes needed.
 
 In an age of uncertainty, we need to be able to act quickly and effectively to address new and evolving threats to our security. That means having access to the best possible advice, and crucially, the right people around the table when decisions are made. It means considering national security issues in the round, recognising that when it comes to national security, foreign and domestic policy are not separate issues, but two halves of one picture.
@@ -122,8 +114,6 @@ Nick Clegg Deputy Prime Minister
 
 ## Introduction.
 
-## Introduction
-
 ## The security of our nation is the first duty of government. It is the foundation of our freedom and
 
 our prosperity.
@@ -133,8 +123,6 @@ our prosperity.
 0.2 The National Security Council has been responsible for the collective development of this National Security Strategy and for the associated Strategic Defence and Security Review which builds on it. This work is historic: no government has previously carried out a detailed review of all its security and defence capabilities. Nor has there been a full Strategic Defence Review since the world-changing events of 11 September 2001. We need to take full account of our experience of the previous decade, both at home and abroad and be prepared for the security needs of the future.
 
 0.3 For the first time, the Government has produced a full strategy for national security alongside clear decisions about our country’s priorities, the capabilities we need to achieve them and the resources we will allocate.
-
-## Introduction
 
 0.4 In order to make sensible decisions about the defence and security capabilities the UK will need for the decades ahead, it is essential to start with a hard-headed reappraisal of our foreign policy and security objectives and the role we wish our country to play, as well as the risks we face in a fast-changing world.
 
@@ -193,8 +181,6 @@ organised crime and terrorists
 ## • international military crises and
 
 • major accidents or natural hazards.
-
-## Introduction
 
 0.19 Part Four of this National Security Strategy outlines the ways in which we will achieve our ends, both in terms of policy priorities and the tasks we will undertake across government to deliver them.
 
@@ -294,13 +280,9 @@ to technological developments, social networking and twenty four hour news media
 
 1.33 Since the events of 11 September 2001 we have become used to focusing on non-state actors as the main national security threat we face. That remains true for now. International terrorism is still our principal current national security threat. But over the next 20 years, we may face security threats from a range of sources: rather than having one clear type of threat around which to organise our planning. Our ability to remain adaptable for the future will be fundamental, as will our ability to identify risks and opportunities at the earliest possible stage. It will also be essential to maintain highly capable and flexible armed forces so that we can exercise military power when necessary.
 
-1.34 The specific opportunities offered by the UK’s distinctive place in the world are discussed in
-
-## Part Two.
+1.34 The specific opportunities offered by the UK’s distinctive place in the world are discussed in Part Two.
 
 ## Part two.
-
-Part Two: Britain’s Distinctive Role
 
 ### Britain’s Distinctive Role
 
@@ -361,8 +343,6 @@ our people, economy, infrastructure, territory and way of life from all major ri
 the likelihood of risks affecting the UK or our interests overseas. We do this by applying all our instruments of power and influence to shape the global environment and tackle potential risks at source. We must address trends that contribute to instability, as well as tackling risks directly.
 
 2.17 All of our national security effort will be directed towards delivering against these objectives. Nevertheless, whilst we will focus on early identification and mitigation of risks, we recognise that we cannot expect to eliminate risks altogether. Part Three sets out our analysis of the risks involved and our priorities for responding to them.
-
-Part Two: Britain’s Distinctive Role
 
 National Security and British values The UK has a proud tradition of protecting its citizens, promoting civil liberties and upholding the rule of law. For 800 years, the UK has been at the forefront of shaping the relationship between the rights of individuals and the powers and obligations of the state.
 
@@ -578,8 +558,6 @@ In December 2005, the largest peacetime fire in Europe occurred at the Buncefiel
 
 4.02 The Strategic Defence and Security Review provides detailed information about the policies we will pursue and the resources we will allocate over the course of this parliament in order to
 
-Part Four: Our Response
-
 achieve our two core objectives: ensuring a secure and resilient United Kingdom; and shaping a stable world.
 
 4.03 It identifies, for the first time, eight cross-cutting National Security Tasks, supported by more detailed planning guidelines. In terms of our National Security Strategy, these are the ways in which we will act to achieve our objectives.
@@ -641,8 +619,6 @@ defence and other capabilities on preventing the threat of international militar
 and to identify areas of concern. This Board will provide regular updates to the Prime Minister and National Security Council.
 
 4.13 We will publish an annual report of progress in implementation, for scrutiny by the Joint Parliamentary Committee on the National Security Strategy, and we commit to producing a new National Security Strategy and Strategic Defence and Security Review every five years.
-
-Part Four: Our Response
 
 Based on our assessment of the context, our national interests, the objectives we have outlined and the resources at our disposal, the National Security Council has overseen a full Strategic Defence and Security Review to implement this strategy. This will outline how we will achieve our objectives, and the balance of resources and capabilities we need to deliver them.
 
