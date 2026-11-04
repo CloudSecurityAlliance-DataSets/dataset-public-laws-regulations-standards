@@ -52,10 +52,12 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Pillar|Part|Chapter|Section|Annex|Appendix|Schedule|Principle|Goal|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
     (re.compile(r"^([IVX]{1,4})(?:\.\s+|\s+(?=[A-Z][a-z]))(.+)$"), "roman"),
+    # Capital-letter section: "A. Innovative Europe" / "B. Making the EU..."
+    (re.compile(r"^([A-Z])\.\s+([A-Z].+)$"), "letter"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
-    (re.compile(r"^(\d+(?:\.\d+){1,3})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
-    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts)
-    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
+    (re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s*[:\-–—]?\s+(?!(?:M€|B€|€|\$|£|%|million|billion|trillion)\b)(.+)$", re.IGNORECASE), "numbered"),
+    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts and "30 June 2018" dates)
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
 ]
 
 
@@ -156,8 +158,10 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
         return True
     if pkind == child_kind:
         return False
-    if child_kind in ("pillar", "part", "chapter", "annex", "roman"):
+    if child_kind == "annex":
         return pkind in ("part", "chapter", "roman")
+    if child_kind in ("pillar", "part", "chapter", "roman", "letter"):
+        return pkind in ("part", "chapter", "roman", "annex")
     if child_kind in ("objective", "section_word"):
         if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
             return False
@@ -169,7 +173,7 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
     if child_kind == "numbered":
         if "." in child_id:
             return False
-        return pkind in ("roman", "part", "chapter", "pillar", "annex")
+        return pkind in ("roman", "part", "chapter", "pillar", "annex", "section_word", "letter")
     return False
 
 

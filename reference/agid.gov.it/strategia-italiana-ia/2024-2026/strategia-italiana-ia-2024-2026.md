@@ -1,10 +1,8 @@
 # Italian Strategy for Artificial Intelligence 2024-2026
 
-### Agenzia per l’Italia Digitale
+Agenzia per l’Italia Digitale
 
-## AGID
-
-## ITALIAN STRATEGY FOR ARTIFICIAL INTELLIGENCE 2024-2026
+## AGID — ITALIAN STRATEGY FOR ARTIFICIAL INTELLIGENCE 2024-2026
 
 INDEX
 
@@ -162,23 +160,7 @@ The overall vision of the strategy outlined thus far is very ambitious. Achievin
 
 between academia, enterprises, and Public Administra­ tion), a defining element of the strategy is the setup of an “enabling” strategic actions context, which defi­ nes the framework within which the specific initiatives must be deployed across the different macro-areas. These enabling strategic actions are grouped into two different types (infrastructural and for the implemen­ tation, coordination, and monitoring of the strategy) as synthetically represented in the following diagram.
 
-### IMPLEMENTATION, COORDINATION, AND MONITORING
-
-### Strategy for
-
-### Strategy for
-
-### PUBLIC ADMINISTRATION
-
-### RESEARCH
-
-### Strategy for ENTERPRISES
-
-### Strategy for
-
-### TRAINING
-
-### INFRASTRUCTURES
+### IMPLEMENTATION, COORDINATION, AND MONITORING — Strategy for — PUBLIC ADMINISTRATION — RESEARCH — Strategy for ENTERPRISES — Strategy for — TRAINING — INFRASTRUCTURES
 
 The necessity for actions linked to infrastructure enhancement is quite evident in an application con­ text that heavily depends on the availability of sub­ stantial computing resources dedicated to analyzing vast amounts of data. Indeed, from one perspective, the infrastructural domain involves the need to conti­ nue investing in “physical” infrastructures that enable the development of increasingly advanced Artificial In­ telligence solutions, maintaining and improving com­ petitiveness on an international level. Moreover, it is essential today to recognize that data and information repositories on which AI systems can be trained them­ selves represent an indispensable infrastructure in the development of these new technologies, a new infra­ structural dimension that we must increasingly focus on. To materialize its ambitious strategic vision, Italy must therefore invest in promoting a major initiative of sharing and reusing datasets (and also models) ac­ quired in specific projects and application contexts, not only within the scope of foundational research initiati­
 
@@ -188,21 +170,13 @@ Building on the enabling infrastructural actions, the possibility of achieving t
 
 responsibility not only for managing this fund but also for implementing the various strategic actions, with the aim of promoting synergies among the different actors of the innovation ecosystem that revolves around Arti­ ficial Intelligence. This entity will also need to oversee
 
-### Map of Strategic Actions
-
-the infrastructural elements outlined above, naturally serve as the reference for monitoring the progress of the strategy implementation, aimed at continuous im­ provement, and manage the budget for the enabling actions.
+Map of Strategic Actions the infrastructural elements outlined above, naturally serve as the reference for monitoring the progress of the strategy implementation, aimed at continuous im­ provement, and manage the budget for the enabling actions.
 
 ### IMPLEMENTATION, COORDINATION, AND MONITORING
 
 A.3 | FOUNDATION FOR ARTIFICIAL INTELLIGENCE
 
-### TRAINING Strategy for
-
-### Strategy for
-
-### RESEARCH
-
-### PUBLIC ADMINISTRATION
+### TRAINING Strategy for — Strategy for — RESEARCH — PUBLIC ADMINISTRATION
 
 R.1 | Consolidation of
 
@@ -252,11 +226,7 @@ R.6 | Strengthening
 
 of international collaborations
 
-### Strategy for ENTERPRISES
-
-### Strategy for
-
-I.1 | Facilitators for AI in
+### Strategy for ENTERPRISES — Strategy for I.1 | Facilitators for AI in
 
 F.1 | Pathways to AI
 
@@ -374,7 +344,7 @@ This last area is particularly relevant considering the risk that Italy could lo
 
 creation of synergies should be favored both with en­ terprises using technologies and with those operating in the ICT world enabling new AI solutions, in order to create a strong national ecosystem that is also fertile ground for the development of innovative startups.
 
-### Objectives
+Objectives
 
 ## • Invest in foundational scientific research on
 
@@ -382,13 +352,9 @@ AI, consolidating existing initiatives such as the Ex­ tended Partnership on AI
 
 nal context.
 
-## • Enhance applied AI research through initiatives
+• Enhance applied AI research through initiatives co-designed by public-private partnerships, inclu­ ding dedicated laboratories involving enterprises, universities, and research centers, focusing on con­ texts of greatest economic and social value for Italy and the greatest impact on citizen welfare.
 
-co-designed by public-private partnerships, inclu­ ding dedicated laboratories involving enterprises, universities, and research centers, focusing on con­ texts of greatest economic and social value for Italy and the greatest impact on citizen welfare.
-
-### Strategic Actions
-
-### R.1 | CONSOLIDATION OF THE ITALIAN RESEARCH ECOSYSTEM
+### Strategic Actions — R.1 | CONSOLIDATION OF THE ITALIAN RESEARCH ECOSYSTEM
 
 The Italian AI research ecosystem is extremely vibrant, dynamic, and of recognized international value, but also widely distributed across many universities and national research centers. Funding from the PNRR has allowed the creation of the FAIR Foundation, which has developed a multi-choral ecosystem starting from a core group of 15 universities, accredited AI research entities (CNR, IIT, FBK), centers of significant scientific importance (INFN), and large local enterprises, extended through the presence of the National Inter-University Consortium for Computer Science (through the AIIS Lab) to more than 50 research centers covering the entire national territory. The ecosystem will also strengthen over the years through cascading funding, with the aim of maximum inclusivity of Italian excellences and enterprises. This represents an investment in an important ecosystem, which needs to be supported and further enhanced, also by carefully analyzing any issues and potentially remodeling or redesigning the current organization. It will therefore be essential for the development of research to further invest in promoting the initiative, also considering the extension of the partnership. It will be particularly essential to involve the productive and entrepreneurial fabric in the partnership, characterizing the initiative as a public-private ecosystem, a place of meeting and natural exchange of skills and knowledge between universities, research centers, ICT companies developing AI systems, and those that in their specific activities can benefit from technological innovations. Additionally, there may be a focus on developing territorial or thematic verticalizations and creating stable synergies with the Public Administration through targeted research activities “on public commission,” activities of benchmarking, and validation of solutions, both from a technological and ethical-legal standpoint.
 
@@ -460,13 +426,9 @@ and risks. Artificial Intelligence is increasingly showing us its enormous poten
 
 ### Objectives
 
-## • Support administrative processes through AI te­
+• Support administrative processes through AI te­ chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards. • Facilitate the utilization of Public Administra­ tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
 
-chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards. • Facilitate the utilization of Public Administra­ tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
-
-### Strategic Actions
-
-### PA.1 | GUIDELINES FOR PROMOTING THE ADOPTION OF AI IN PUBLIC ADMINISTRATION
+### Strategic Actions — PA.1 | GUIDELINES FOR PROMOTING THE ADOPTION OF AI IN PUBLIC ADMINISTRATION
 
 Public Administration, which manages information and services for citizens and communities, can greatly benefit from the innovations brought by AI. However, for this transformative lever to be truly deployed, it is necessary that not only adequate competencies are widely disseminated, but also a full awareness of the technological potential of Artificial Intelligence, with particular attention to the possible risks arising from its use and the significant opportunities it can provide. A crucial first step will involve systematically guiding the Public Administration in navigating through a complex landscape, via guidelines that highlight the potential and use of AI platforms, also through specific case studies on the use of Artificial Intelligence, while promoting knowledge of “best practices.”
 
@@ -540,13 +502,9 @@ In this sense, the design of an AI strategy in Italy must be strongly anchored t
 
 ### Objectives
 
-## • Capture the innovation needs of Italian enter­
+• Capture the innovation needs of Italian enter­ prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits. • Support the Italian ICT sector, promoting its enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
 
-prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits. • Support the Italian ICT sector, promoting its enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
-
-### Strategic Actions
-
-### I.1 | AI FACILITATORS FOR SMES
+### Strategic Actions — I.1 | AI FACILITATORS FOR SMES
 
 To fully leverage the enormous potential of Artificial Intelligence within the productive and entrepreneurial context, a pervasive activity of promoting solutions and developing applications that are concretely usable in specific verticals such as automation, agri-food, furniture, clothing, tourism, chemical and pharmaceutical sectors, and aerospace will be necessary. To this end, an ecosystem of facilitators will be defined, rooted in the territory, under the direct control of the Foundation for Artificial Intelligence which manages the implementation, coordination, and monitoring, and in strong synergy with all the current actors of the innovation ecosystem, and other relevant foundations in the sector, such as FAIR, Chips.IT, and AI4Industry. Each facilitator will be able to collaborate with universities and research centers and will cover one or more productive supply chains, becoming a natural meeting point between ICT companies that offer solutions for innovation and the enterprises that benefit from such technologies.
 
@@ -616,15 +574,11 @@ The implementation of effective reskilling and upskil­ ling programs across the
 
 ### Objectives
 
-## • Promote widespread university education on AI
-
-in response to the increasingly urgent demands for new skills in society and the workforce, adop­ ting a transversal and interdisciplinary approach; consolidate specialized AI training in pathways ai­ med at technical profiles and researchers, such as the National PhD Program on Artificial Intelligence.
+• Promote widespread university education on AI in response to the increasingly urgent demands for new skills in society and the workforce, adop­ ting a transversal and interdisciplinary approach; consolidate specialized AI training in pathways ai­ med at technical profiles and researchers, such as the National PhD Program on Artificial Intelligence.
 
 ### Strategic Actions
 
-## • Implement educational pathways on AI in scho­
-
-ols to prepare new generations for careful and con­ scious use of new technologies; develop targeted dissemination initiatives to raise awareness and engage the Italian society in the AI revolution; fund and support reskilling and upskilling initiatives in all productive contexts.
+• Implement educational pathways on AI in scho­ ols to prepare new generations for careful and con­ scious use of new technologies; develop targeted dissemination initiatives to raise awareness and engage the Italian society in the AI revolution; fund and support reskilling and upskilling initiatives in all productive contexts.
 
 ### F.1 | PATHWAYS FOR INTRODUCING AI IN SCHOOLS – STUDENTS AND TEACHERS
 
@@ -716,17 +670,13 @@ Regarding the strategic area of EDUCATION, the panel of experts will take care t
 
 (not limited to computer science or computer en­ gineering) that include AI teachings;
 
-## • The number of students enrolled in doctoral pro­
-
-grams related to AI; • AI competence/awareness in citizenship, to be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
+• The number of students enrolled in doctoral pro­ grams related to AI; • AI competence/awareness in citizenship, to be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
 
 19 Parmenter D. (2019) Key Performance Indicators: Developing, Implementing, and Using Winning KPIs, John Wiley & Sons Inc. 20 Blokdyk G. (2023) Delphi Method. A Complete Guide, The Art of Service. 21 Niederberger M., Renn O. (Eds, 2023) Delphi Methods in the Social and Health Sciences: Concepts, Applications and Case Studies, Springer Nature. 22 Un campione di 1.000 persone sul totale dei cittadini italiani può fornire risultati con un margine di errore del 3%.
 
 Regarding RESEARCH, both KPIs and flagship projects will be evaluated. Specifically:
 
-## • Data on scientific production in Artificial Intelligen­
-
-ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23. • The progress and quality of initiatives on strategic actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
+• Data on scientific production in Artificial Intelligen­ ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23. • The progress and quality of initiatives on strategic actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
 
 As for PUBLIC ADMINISTRATION, interesting information, also with respect to comparisons among EU countries, is provided by the DESI report; however, this report, besides having a lag of about a year, offers a general view of the digitalization process and is not particularly focused on AI. On the other hand, a specific measure for all sectors would be difficult and especially costly, so the growth of the Public Administration system will be evaluated by accurately monitoring two important flagship projects: • The impact of initiatives on strategic action PA.5. In this regard, it is considered important to evaluate the improvement in access to and use of citizen services, also measuring their le­ vel of digitalization. Monitoring could be perfor­ med by allowing citizens who access a service platform to leave their feedback, as is often the case with services offered by the private sec­ tor; alternatively, surveys could be employed at predetermined intervals on a sample drawn from those who have made at least one access. • The impact of initiatives on strategic action PA.6. In this area, the involvement of experts well-versed in Public Administration is considered essential to assess the actual streamlining of administrative procedures. • Data on AI adoption in SMEs. In this regard, it is ob­ served that some interesting data are provided by the ISTAT survey on information and communica­ tion technologies in businesses, containing a specific section on AI. This section provides interesting insi­ ghts into the state of adoption of these technologies; however, it lacks a view on businesses that develop technology and provide services and/or products with a strong AI content. Thus, an extension of the questionnaire in the specified direction is proposed. • Impact of initiatives on strategic action I.2, characte­ rizing in particular the SMEs involved in facilitators
 
@@ -754,4 +704,4 @@ Indeed, the AI Act affects numerous legal areas alre­ ady regulated and in whic
 
 The Agency will also need to establish protocols and maintain close collaboration with the National Cy­ bersecurity Agency (ACN), given the crucial role that AI plays in the sector and the implications for regula­ tory compliance (consider, for example, the emerging issues of attributing responsibility for cyber-attacks using AI tools). On the other hand, the supervisory agency and the ACN must necessarily be differentiated and independent: firstly, because they implement two different regulatory apparatuses, but primarily they must be independent due to the high specialization and complexity of the distinct functions assigned by the European legislator, defining precise and close ties of collaboration so that AI systems can always guaran­ tee the highest levels of reliability, integrity, availability, and security of the implemented national technology.
 
-## Agenzia per l’Italia Digitale AGID
+Agenzia per l’Italia Digitale AGID

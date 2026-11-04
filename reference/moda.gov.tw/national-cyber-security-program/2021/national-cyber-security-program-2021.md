@@ -1,16 +1,12 @@
 # National Cyber Security Program of Taiwan (國家資通安全發展方案) (2021)
 
-## National Cyber Security Program of Taiwan
-
 ## (2021 to 2024)
 
-### National Information and Communication Security
-
-### Taskforce, Executive Yuan, Republic of China (Taiwan)
+### National Information and Communication Security — Taskforce, Executive Yuan, Republic of China (Taiwan)
 
 February, 2021
 
-## Table of Contents
+Table of Contents
 
 I. Background .............................................................................................. 1
 
@@ -48,7 +44,7 @@ VI. The Promoting Organization, Demand of Resources and Planning
 
 Management .............................................................................................. 77
 
-### I. Background
+## I. Background
 
 In the current digital age, information and communication technology has
 
@@ -124,7 +120,7 @@ Executive Yuan proposed the "National Cyber Security Program of Taiwan (2021-
 
 cyber security protection strategy and plan.
 
-### II. Global Cyber Security Threats and International Policy Trends
+## II. Global Cyber Security Threats and International Policy Trends
 
 A. Trend of Global Cyber Security Threats
 
@@ -1074,7 +1070,7 @@ assisted in seeking partners or promoting matchmaking, and subsidized
 
 investment plans for companies with the potential of development.
 
-### III. The Current State of Promotion of Cyber Security in Taiwan
+## III. The Current State of Promotion of Cyber Security in Taiwan
 
 A. Organizational Structure
 
@@ -2006,7 +2002,7 @@ SO MAXI-MAXI Strategies WO MINI-MAXI Strategies
 
 Figure 5: TOWS Analysis Matrix
 
-### IV Development Blueprint
+## IV. Development Blueprint
 
 Figure 6: The sixth phase of the national cyber security program
 
@@ -2234,11 +2230,9 @@ an iconic high-level talent and technological innovation base in the Asian
 
 region.
 
-### 1. Expand the quota of cyber security educators and teaching resources
+1. Expand the quota of cyber security educators and teaching resources in higher education
 
-in higher education
-
-### 1.1 The project increases the quota of teachers
+#### 1.1 The project increases the quota of teachers
 
 Invite first-rate cyber security competition teams, teachers in the
 
@@ -2256,9 +2250,7 @@ security talents to facilitate the cultivation of cyber security professionals
 
 and the quality of teaching.
 
-### 1.2 Open academic area network centers, government networks and
-
-other fields for internships and actual drills
+#### 1.2 Open academic area network centers, government networks and other fields for internships and actual drills
 
 (1) Through the university area network center and university cyber
 
@@ -2282,9 +2274,9 @@ field of cyber security teaching practice; and improve the facility and
 
 environment of cyber security teaching.
 
-### 2. Shift resources to high-level cyber security scientific research
+2. Shift resources to high-level cyber security scientific research
 
-### 2.1 Develop a national mission-oriented and key (core) cyber security
+#### 2.1 Develop a national mission-oriented and key (core) cyber security
 
 prospective research
 
@@ -2302,7 +2294,7 @@ strengthen the autonomy of cyber security prospective research in our
 
 country.
 
-### 2.2 Deeply cultivate academic cyber security research
+#### 2.2 Deeply cultivate academic cyber security research
 
 Intensive research and development of software and hardware-
 
@@ -2314,7 +2306,7 @@ development capabilities of industry, government and academia, and
 
 activate the cyber security research ecosystem.
 
-### 2.3 Transnational talent exchange and research cooperation
+#### 2.3 Transnational talent exchange and research cooperation
 
 (1) Participate in the formulation of international cyber security standards
 
@@ -2334,11 +2326,9 @@ technology; and operate interntaitonal partnerships for the cultivation
 
 of multinational talents.
 
-### 3. Cultivate top practical and cross-regional cyber security talents
+3. Cultivate top practical and cross-regional cyber security talents
 
-### 3.1 Cultivation of cyber security talents in schools, on the jobs and
-
-governmental agencies
+#### 3.1 Cultivation of cyber security talents in schools, on the jobs and governmental agencies
 
 (1) Cyber security talents in schools: Constructing demand-oriented
 
@@ -2372,7 +2362,7 @@ and technical capabilities of the government agencies, and training
 
 the full-time manpower for government agencies.
 
-### 3.2 Cultivation of top cyber security talents with practical experience
+#### 3.2 Cultivation of top cyber security talents with practical experience
 
 The initial training targets focus on the elites with cyber security
 
@@ -2434,7 +2424,7 @@ the CI frontline personnel.
 
 Operational Mechanism in various fields
 
-### 1.1 Continue to promote the implementation of the cyber security
+#### 1.1 Continue to promote the implementation of the cyber security
 
 management law, and review it in due course to respond to the
 
@@ -2448,7 +2438,7 @@ expand the assessment of the maturity of cyber security governance to
 
 accelerate the construction of our national cyber security environment.
 
-### 1.2 Promote the implementation of cyber security protection baseline
+#### 1.2 Promote the implementation of cyber security protection baseline
 
 of critical infrastructure
 
@@ -2466,9 +2456,7 @@ cyber security protection standards), and strengthen the integrity and
 
 effectiveness of the cyber security protection work.
 
-### 1.3 Establish the maturity of cyber security governance in the
-
-industrial control field
+#### 1.3 Establish the maturity of cyber security governance in the industrial control field
 
 Industrial control systems provide management and control for
 
@@ -2486,7 +2474,7 @@ implementation status of CI providers and improve the readiness of cyber
 
 security protection.
 
-### 1.4 Promote national-level cyber security risk assessment
+#### 1.4 Promote national-level cyber security risk assessment
 
 Identify the core information and communication systems and their
 
@@ -2494,11 +2482,9 @@ cyber security threats in various CI sectors, and effectively control the
 
 threats of overall cyber security in our country.
 
-### 2. The enhancement of personnel’ cyber security awareness and
+2. The enhancement of personnel’ cyber security awareness and reinforcement of cyber security capacity construction
 
-reinforcement of cyber security capacity construction
-
-### 2.1 Set up Chief Information Security Officer (CISO) and strengthen
+#### 2.1 Set up Chief Information Security Officer (CISO) and strengthen
 
 personnel’s cyber security professional capabilities
 
@@ -2532,11 +2518,9 @@ and support education and training, large-scale offensive and defensive
 
 drills, and international cyber security offensive and defense competitions.
 
-### 3. Public-private partnership cooperation to deepen the exchange of
+3. Public-private partnership cooperation to deepen the exchange of information and implementation of response drills in normal times
 
-information and implementation of response drills in normal times
-
-### 3.1 Improve the cyber security united defense mechanism (information
+#### 3.1 Improve the cyber security united defense mechanism (information
 
 sharing, response notification, cyber security monitoring) of the
 
@@ -2560,7 +2544,7 @@ the operation of cyber security united defense and enhance its
 
 qualitative and quantitative benefits.
 
-### 3.2 Regularly conduct public-private united offensive and defense drills
+#### 3.2 Regularly conduct public-private united offensive and defense drills
 
 The competent authorities in the CI sector regularly implement
 
@@ -2570,7 +2554,7 @@ alertness to events of cyber security attacks, shorten the incident response
 
 time and reduce losses.
 
-### 3.3 Handle cross-regional (or transnational) offensive and defensive
+#### 3.3 Handle cross-regional (or transnational) offensive and defensive
 
 drills for critical infrastructure
 
@@ -2628,11 +2612,9 @@ traceability and tracking capabilities, and strengthening cross-border
 
 cybercrime detection.
 
-### 1. Continue to promote centralized sharing of government information
+1. Continue to promote centralized sharing of government information (cyber) security
 
-(cyber) security
-
-### 1.1 Connect with the independent needs of national defense and develop
+#### 1.1 Connect with the independent needs of national defense and develop
 
 the ecosystem of the domestic cyber security industry
 
@@ -2652,9 +2634,7 @@ agency to higher-level agencies.
 
 and block malicious attacks in time.
 
-### 1.2 Establish the mechanism to actively discover, report and repair the
-
-vulnerabilities of the information and communication system
+#### 1.2 Establish the mechanism to actively discover, report and repair the vulnerabilities of the information and communication system
 
 Through an automated notification mechanism, shorten the window
 
@@ -2662,11 +2642,9 @@ period between the release and repair of the agency’s cyber security
 
 vulnerabilities and reduce the risk of the system being hacked.
 
-### 2. Expand international participation and deepen cross-border
+2. Expand international participation and deepen cross-border intelligence and capital sharing
 
-intelligence and capital sharing
-
-### 2.1 Development of forward-looking research and technology
+#### 2.1 Development of forward-looking research and technology
 
 application of active defense
 
@@ -2678,7 +2656,7 @@ ability to quickly detect and respond to cyber attacks; and build a cyber
 
 security R&D ecosystem.
 
-### 2.2 Integrate domestic and foreign sources of information, and deepen
+#### 2.2 Integrate domestic and foreign sources of information, and deepen
 
 international cooperation
 
@@ -2692,11 +2670,9 @@ detection capabilities; and promote standard intelligence and information
 
 exchange formats to interface with the world.
 
-### 3. Defend in Advance to Block the Attack at Borders
+3. Defend in Advance to Block the Attack at Borders
 
-### 3.1 Apply emerging technologies to quench effective intelligence and
-
-develop proactive defense technologies
+#### 3.1 Apply emerging technologies to quench effective intelligence and develop proactive defense technologies
 
 With proactive defensive thinking, strengthen the research and
 
@@ -2708,9 +2684,7 @@ aspects of research and analysis, defense-in-depth, active prevention,
 
 source tracing and blocking, etc.
 
-### 3.2 Improve the comprehensiveness of the defense-in-depth of the
-
-government service network
+#### 3.2 Improve the comprehensiveness of the defense-in-depth of the government service network
 
 (1) Evaluate and introduce the Zero Trust Network and gradually try to
 
@@ -2728,11 +2702,9 @@ name system (DNS) against attacks to ensure the "confidentiality" and
 
 "integrity" of DNS data and the continuous “availability" of DNS.
 
-### 4. Enhancing the power of technological investigations to prevent
+4. Enhancing the power of technological investigations to prevent emerging cybercrimes
 
-emerging cybercrimes
-
-### 4.1 Strengthen the detection capabilities of emerging cybercrimes
+#### 4.1 Strengthen the detection capabilities of emerging cybercrimes
 
 Analyze the attack patterns and defense mechanisms of hacker
 
@@ -2744,7 +2716,7 @@ investigation of cyber security incidents to strengthen the overall
 
 investigation and actual combat power.
 
-### 4.2 Improve the source tracing and tracking capabilities of cyber
+#### 4.2 Improve the source tracing and tracking capabilities of cyber
 
 security events
 
@@ -2758,7 +2730,7 @@ the sources of countermeasures and hacker organizations for the purpose
 
 of traceability.
 
-### 4.3 Strengthen the investigation mechanism of cross-border cybercrime
+#### 4.3 Strengthen the investigation mechanism of cross-border cybercrime
 
 (1) Actively participate in various judicial and international cyber security
 
@@ -2816,11 +2788,9 @@ refer to international standards to promote internationally competitive cyber
 
 security solutions, with the hope of exporting to the international market.
 
-### 1. Counseling companies to strengthen cyber security protection
+1. Counseling companies to strengthen cyber security protection capabilities during digital transformation
 
-capabilities during digital transformation
-
-### 1.1 Integrate private resources to establish a public-private partnership
+#### 1.1 Integrate private resources to establish a public-private partnership
 
 collaboration mechanism to assist companies in enhancing their
 
@@ -2840,7 +2810,7 @@ protection of private sectors.
 
 online retailers, and reduce the risk of personal information leakage.
 
-### 1.2 Raise citizen’s awareness of cyber security
+#### 1.2 Raise citizen’s awareness of cyber security
 
 The government should work with the private sector to raise the
 
@@ -2852,9 +2822,9 @@ to facilitate the development of advanced cyber security technology,
 
 software and hardware, and professional talents.
 
-### 2. Strengthening the Supply Chain Security Management
+2. Strengthening the Supply Chain Security Management
 
-### 2.1 Strengthen the supply chain risk management of outsourcing
+#### 2.1 Strengthen the supply chain risk management of outsourcing
 
 We assist and counsel various agencies to handle outsourcing
 
@@ -2864,7 +2834,7 @@ communication services to strengthen the cyber security management of
 
 the outsourcing manufacturers.
 
-### 2.2 Focus on the security of telecommunications chip products
+#### 2.2 Focus on the security of telecommunications chip products
 
 (1) Research and develop chip circuit cyber security testing tools to solve
 
@@ -2878,9 +2848,9 @@ and the ecosystem of the testing environments and reduce the cyber
 
 security compliance barriers for exporting domestic products.
 
-### 3. Build the IoT Security
+3. Build the IoT Security
 
-### 3.1 Build a safe and smart mobile technological network of new
+#### 3.1 Build a safe and smart mobile technological network of new
 
 generation
 
@@ -2908,7 +2878,7 @@ parties, and adjust laws and regulations to promote the development
 
 of 5G vertical applications.
 
-### 3.2 Formulate IoT cyber security compliance certification and field
+#### 3.2 Formulate IoT cyber security compliance certification and field
 
 demonstration
 
@@ -3522,7 +3492,7 @@ Standards
 
 Standards
 
-### V. Expected Benefits
+## V. Expected Benefits
 
 A. In order to develop the digital application of cyber security ecosystem, complete
 
@@ -3586,9 +3556,7 @@ competitiveness, and ultimately consumers can obtain safe products to become
 
 the biggest beneficiaries, and to develop a sustainable IoT ecosystem.
 
-### VI. The Promoting Organization, Demand of Resources and
-
-### Planning Management
+## VI. The Promoting Organization, Demand of Resources and Planning Management
 
 A. The Promoting Organization
 

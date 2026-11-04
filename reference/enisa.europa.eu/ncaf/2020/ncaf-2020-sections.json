@@ -10,14 +10,6 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
     "section_name": "ABOUT ENISA",
     "id_kind": "",
     "parent_id": "",
@@ -53,15 +45,7 @@
     "section_name": "LEGAL NOTICE",
     "id_kind": "",
     "parent_id": "",
-    "body": "Notice must be taken that this publication represents the views and interpretations of ENISA, unless stated otherwise. This publication should not be construed to be a legal action of ENISA or the ENISA bodies unless adopted pursuant to the Regulation (EU) No 2019/881. This publication does not necessarily represent state-of the-art and ENISA may update it from time to time. Third-party sources are quoted as appropriate. ENISA is not responsible for the content of the external sources including external websites referenced in this publication.\n\nThis publication is intended for information purposes only. It must be accessible free of charge. Neither ENISA nor any person acting on its behalf is responsible for the use that might be made of the information contained in this publication."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "COPYRIGHT NOTICE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "© European Union Agency for Cybersecurity (ENISA), 2020 Reproduction is authorised provided the source is acknowledged.\n\nFor any use or reproduction of photos or other material that is not under the ENISA copyright, permission must be sought directly from the copyright holders.\n\nISBN: 978-92-9204-443-5\n\nDOI: 10.2824/590072\n\nCATALOGUE: TP-06-20-047-EN-N\n\n1. TABLE OF CONTENTS\n\nABOUT ENISA 1\n\nCONTACT 1\n\nAUTHORS 1\n\nACKNOWLEDGEMENTS 1\n\nLEGAL NOTICE 2\n\nCOPYRIGHT NOTICE 2\n\n1. TABLE OF CONTENTS 3\n\nGLOSSARY OF TERMS 5\n\nEXECUTIVE SUMMARY 7\n\n1. INTRODUCTION 9\n\n1.1 STUDY SCOPE AND OBJECTIVES 9\n\n1.2 METHODOLOGICAL APPROACH 9\n\n1.3 TARGET AUDIENCE 10\n\n2. BACKGROUND 11\n\n2.1 PREVIOUS WORK ON NCSS LIFECYCLE 11\n\n2.2 COMMON OBJECTIVES IDENTIFIED WITHIN THE EUROPEAN NCSS 11\n\n2.3 KEY TAKEAWAYS FROM THE BENCHMARK EXERCISE 15\n\n2.4 CHALLENGES OF NCSS EVALUATION 17\n\n2.5 BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT 18\n\n3. METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK 19\n\n3.1 GENERAL PURPOSE 19\n\n3.2 MATURITY LEVELS 19\n\n3.3 CLUSTERS & OVERARCHING STRUCTURE OF THE SELF-ASSESSMENT FRAMEWORK 20\n\n3.4 SCORING MECHANISM 21\n\n3.5 REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK 24\n\n4. NCAF INDICATORS 25\n\n4.1 FRAMEWORK INDICATORS 25\n\n4.2 GUIDELINES TO USE THE FRAMEWORK 52\n\n5. NEXT STEPS 54\n\n5.1 FUTURE IMPROVEMENTS 54\n\nANNEX A – DESK RESEARCH RESULTS OVERVIEW 55\n\nANNEX B – DESK RESEARCH BIBLIOGRAPHY 79\n\nANNEX C – OTHER OBJECTIVES STUDIED 85"
+    "body": "Notice must be taken that this publication represents the views and interpretations of ENISA, unless stated otherwise. This publication should not be construed to be a legal action of ENISA or the ENISA bodies unless adopted pursuant to the Regulation (EU) No 2019/881. This publication does not necessarily represent state-of the-art and ENISA may update it from time to time. Third-party sources are quoted as appropriate. ENISA is not responsible for the content of the external sources including external websites referenced in this publication.\n\nThis publication is intended for information purposes only. It must be accessible free of charge. Neither ENISA nor any person acting on its behalf is responsible for the use that might be made of the information contained in this publication.\n\nCOPYRIGHT NOTICE\n\n© European Union Agency for Cybersecurity (ENISA), 2020 Reproduction is authorised provided the source is acknowledged.\n\nFor any use or reproduction of photos or other material that is not under the ENISA copyright, permission must be sought directly from the copyright holders.\n\nISBN: 978-92-9204-443-5\n\nDOI: 10.2824/590072\n\nCATALOGUE: TP-06-20-047-EN-N\n\n1. TABLE OF CONTENTS\n\nABOUT ENISA 1\n\nCONTACT 1\n\nAUTHORS 1\n\nACKNOWLEDGEMENTS 1\n\nLEGAL NOTICE 2\n\nCOPYRIGHT NOTICE 2\n\n1. TABLE OF CONTENTS 3\n\nGLOSSARY OF TERMS 5\n\nEXECUTIVE SUMMARY 7\n\n1. INTRODUCTION 9\n\n1.1 STUDY SCOPE AND OBJECTIVES 9\n\n1.2 METHODOLOGICAL APPROACH 9\n\n1.3 TARGET AUDIENCE 10\n\n2. BACKGROUND 11\n\n2.1 PREVIOUS WORK ON NCSS LIFECYCLE 11\n\n2.2 COMMON OBJECTIVES IDENTIFIED WITHIN THE EUROPEAN NCSS 11\n\n2.3 KEY TAKEAWAYS FROM THE BENCHMARK EXERCISE 15\n\n2.4 CHALLENGES OF NCSS EVALUATION 17\n\n2.5 BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT 18\n\n3. METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK 19\n\n3.1 GENERAL PURPOSE 19\n\n3.2 MATURITY LEVELS 19\n\n3.3 CLUSTERS & OVERARCHING STRUCTURE OF THE SELF-ASSESSMENT FRAMEWORK 20\n\n3.4 SCORING MECHANISM 21\n\n3.5 REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK 24\n\n4. NCAF INDICATORS 25\n\n4.1 FRAMEWORK INDICATORS 25\n\n4.2 GUIDELINES TO USE THE FRAMEWORK 52\n\n5. NEXT STEPS 54\n\n5.1 FUTURE IMPROVEMENTS 54\n\nANNEX A – DESK RESEARCH RESULTS OVERVIEW 55\n\nANNEX B – DESK RESEARCH BIBLIOGRAPHY 79\n\nANNEX C – OTHER OBJECTIVES STUDIED 85"
   },
   {
     "depth": 2,
@@ -168,17 +152,9 @@
     "body": "The desktop research on existing maturity models related to cybersecurity was carried out with the aim of collecting information and evidence to support the design of the national capabilities’ self-assessment framework in the area of NCSS. In this context, an extensive literature review of existing models was conducted to complement the findings from the initial scoping research on cybersecurity maturity models and existing NCSS, developed in sections 2.1 and 2.2. This systematic review supports the selection and justification of the maturity levels of the assessment framework and the definition of the different dimensions and indicators.\n\nIn the scope of the systematic review of maturity models, 10 models were considered and analysed on the basis of their key features. The global overview of the key features for each model reviewed in the scope of this study is available in Table 2: Overview of analysed maturity models and a more detailed analysis can be found in ANNEX A.\n\nTable 2: Overview of analysed maturity models"
   },
   {
-    "depth": 1,
+    "depth": 2,
     "section_id": "",
-    "section_name": "of Levels of",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 1,
-    "section_id": "",
-    "section_name": "of Attributes Assessment Method Results’ Representation",
+    "section_name": "of Levels of — of Attributes Assessment Method Results’ Representation",
     "id_kind": "",
     "parent_id": "",
     "body": "Model Name\n\nMaturity\n\nCybersecurity Capacity Maturity Model for Nations (CMM)\n\n5 5 main dimensions\n\nCybersecurity Capability Maturity Model (C2M2) 4 10 main domains\n\nFramework for Improving Critical Infrastructure Cybersecurity\n\nCollaboration with a local organisation to fine-tune the model before applying it to the national context\n\n5-section radar\n\nSelf-evaluation methodology and toolkit\n\nScorecard with pie\n\ncharts\n\n5 core functions Self-assessment n/a\n\nn/a (4 Tiers)\n\nQatar Cybersecurity Capability Maturity Model (Q-C2M2)\n\n5 5 main domains n/a n/a\n\nCybersecurity Maturity Model Certification (CMMC) 5 17 main domains\n\nThe Community Cybersecurity Maturity Model (CCSMM)\n\n5 6 main dimensions\n\nInformation Security Maturity Model for NIST Cybersecurity Framework (ISMM)\n\nAssessment by third party auditors n/a\n\nAssessment within communities with input from state and federal law enforcement agencies\n\nn/a\n\n5 23 assessed areas n/a n/a\n\nInternal Audit Capability Model (IA-CM) for the Public Sector\n\n5\n\n6 elements Self-assessment n/a\n\nThe Global Cybersecurity Index (GCI) N/A 5 pillars Self-assessment Ranking table\n\nThe Cyber Power Index (CPI) N/A 4 categories Benchmarking by the Economist Intelligence Unit Ranking table\n\nThis systematic review made it possible to draw conclusions on best practices adopted in existing models in order to support the development of the conceptual model for the current maturity model. In particular, the benchmark exercise supported the definition of the maturity levels, the creation of dimension clusters and the selection of indicators, as well as an appropriate visualisation methodology for the results of the model. The most relevant findings for each of these elements is detailed in Table 3.\n\nTable 3: Key takeaways from the benchmark exercise\n\nFeature Key takeaway\n\n▶ A five-level maturity scale for assessment frameworks on cybersecurity\n\ncapabilities is commonly accepted and able to provide granular assessment results (see Table 6 Comparison of Maturity Levels for an exhaustive view of the definition of the levels of maturity for each model); ▶ All models provide a high-level definition of each maturity level that is then\n\nLevels of Maturity\n\nadapted to the different dimensions or clusters of dimensions; ▶ Two main aspects are typically assessed when measuring the maturity of\n\ncybersecurity capabilities: the maturity of strategies and the maturity of processes put in place to implement strategies.\n\n▶ The comparative analysis of the attributes of the existing maturity models\n\nshows heterogeneous results with an average number of attributes per model between four and five; ▶ A model relying on around four or five attributes provides countries with the\n\nAttributes\n\nright level of data granularity by grouping relevant dimensions together and ensuring the readability of results (see Table 7: Comparison of Attributes/ Dimensions for a description of the attributes for each model);\n\n▶ The key principle adopted by all models when defining the clusters is\n\nbased in the consistency of element grouped within each cluster.\n\n▶ The assessment methods used in the different models analysed vary from\n\nAssessment method\n\none to another; ▶ The most common assessment method is based on self-evaluation.\n\n▶ It is important to present the results at different level of granularity; ▶ The visualisation methodology should be self-explanatory and easy-to-\n\nResults representation\n\nread.\n\nThe conceptual model was built based on the benchmarking exercise of the different maturity models as well as on previous work from ENISA. Also, it was decided to build upon the ENISA online interactive tool to develop maturity indicators used for each attribute."
@@ -346,15 +322,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "A.7 Information Security Maturity Model for NIST Cyber Security",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Framework (ISMM)",
+    "section_name": "A.7 Information Security Maturity Model for NIST Cyber Security — Framework (ISMM)",
     "id_kind": "",
     "parent_id": "",
     "body": "The Information Security Maturity Model (ISMM) has been developed within the College of Computer Sciences and Engineering of the King Fahd University of Petroleum and Minerals in Saudi Arabia. It proposes a new capability maturity model to measure the implementation of cybersecurity measures. The goal of the ISMM is to enable organisations to measure their implementation progress over time by using the same measuring tool on a regular basis to ensure that the desired security posture is maintained. The ISMM was developed in 2017.\n\nAttributes/ Dimensions The ISMM builds on the existing assessed areas of the NIST framework and adds a dimension on compliance assessment. This brings the model to 23 assessed areas to for an organisation’s security posture. The 23 assessed areas are:\n\ni Asset Management; ii Business Environment; iii Governance; iv Risk Assessment; v Risk Management Strategy; vi Compliance Assessment; vii Access Control; viii Awareness and Training; ix Data Security; x Information Protection Processes and Procedures; xi Maintenance; xii Protective Technology; xiii Anomalies and Events; xiv Security Continuous Monitoring; xv Detection Processes; xvi Response Planning; xvii Response Communications; xviii Response Analysis; xix Response Mitigation; xx Response Improvements; xxi Recovery Planning; xxii Recovery Improvements; and xxiii Recovery Communications.\n\nLevels of Maturity The ISMM relies on 5 levels of maturity, which, unfortunately are not detailed in the available documentation.\n\n▶ Level 1: Performed Process;\n\n▶ Level 2: Managed Process;\n\n▶ Level 3: Established Process;\n\n▶ Level 4: Predictable Process; and\n\n▶ Level 5: Optimizing Process.\n\nAssessment Method The ISMM does not propose any specific methodology to conduct the assessment for organisations."

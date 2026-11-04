@@ -2,9 +2,7 @@
 
 (Provisional Translation)
 
-## National Security Strategy
-
-## December 17, 2013
+December 17, 2013
 
 ## I. Purpose
 
@@ -290,9 +288,7 @@ As Japan strengthens its efforts in security as elaborated above, the U.S., base
 
 In order to ensure the security of Japan and to maintain and enhance peace, stability, and prosperity in the Asia-Pacific region and the international community, Japan must further elevate the effectiveness of the Japan-U.S. security arrangements and realize a more multifaceted Japan-U.S. Alliance. Based on this recognition, Japan will undertake the following initiatives:
 
-#### (1) Further Strengthening of Japan-U.S. Security and Defense Cooperation in a
-
-Wide Range of Areas
+#### (1) Further Strengthening of Japan-U.S. Security and Defense Cooperation in a Wide Range of Areas
 
 Japan ensures its national security by enhancing deterrence through the strengthening of its own defense capability, as well as by the deterrence of the Japan-U.S. Alliance, including the extended deterrence provided by the U.S.
 

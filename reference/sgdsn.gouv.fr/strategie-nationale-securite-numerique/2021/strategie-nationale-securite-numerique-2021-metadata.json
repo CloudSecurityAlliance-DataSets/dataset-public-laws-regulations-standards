@@ -16,8 +16,8 @@
   "license": {
     "spdx": "etalab-2.0",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
     "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16) to Markdown (7,570 chars). Parsed 14 sections (0 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16) to Markdown (7,570 chars). Parsed 10 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 28-page PDF (https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) locally via PyMuPDF (68,426 chars). Parsed 42 sections (3 with explicit section identifiers)."
+    "notes": "Extracted 28-page PDF (https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) locally via PyMuPDF (68,426 chars). Parsed 36 sections (3 with explicit section identifiers)."
   },
   "extraction_history": [
     {

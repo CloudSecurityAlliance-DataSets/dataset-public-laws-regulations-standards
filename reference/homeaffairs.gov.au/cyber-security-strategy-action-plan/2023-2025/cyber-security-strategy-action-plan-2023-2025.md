@@ -24,63 +24,63 @@ P - 23-02503-b
 
 ## Contents
 
-Executive summary 4
+Executive summary  4
 
-Action plan 5
+Action plan  5
 
-Shield 1: Strong businesses and citizens 6
+Shield 1: Strong businesses and citizens  6
 
-1. Support small and medium businesses to strengthen their cyber security 6
+1. Support small and medium businesses to strengthen their cyber security  6
 
-2. Help Australians defend themselves from cyber threats 6
+2. Help Australians defend themselves from cyber threats  6
 
-3. Disrupt and deter cyber threat actors from attacking Australia 7
+3. Disrupt and deter cyber threat actors from attacking Australia  7
 
-4. Work with industry to break the ransomware business model 7
+4. Work with industry to break the ransomware business model  7
 
-5. Provide clear cyber guidance for businesses 8
+5. Provide clear cyber guidance for businesses  8
 
-6. Make it easier for Australian businesses to access advice and support after a cyber incident 9
+6. Make it easier for Australian businesses to access advice and support after a cyber incident  9
 
-7. Secure our identities and provide better support to victims of identity theft 10
+7. Secure our identities and provide better support to victims of identity theft  10
 
-Shield 2: Safe technology  11
+Shield 2: Safe technology   11
 
-8. Ensure Australians can trust their digital products and software 11
+8. Ensure Australians can trust their digital products and software  11
 
-9. Protect our most valuable datasets 12
+9. Protect our most valuable datasets  12
 
-10. Promote the safe use of emerging technology 13
+10. Promote the safe use of emerging technology  13
 
-Shield 3: World-class threat sharing and blocking 14
+Shield 3: World-class threat sharing and blocking  14
 
-11. Create a whole-of-economy threat intelligence network 14
+11. Create a whole-of-economy threat intelligence network  14
 
-12. Scale threat blocking capabilities to stop cyber attacks 15
+12. Scale threat blocking capabilities to stop cyber attacks  15
 
-Shield 4: Protected critical infrastructure 16
+Shield 4: Protected critical infrastructure  16
 
-13. Clarify the scope of critical infrastructure regulation 16
+13. Clarify the scope of critical infrastructure regulation  16
 
-14. Strengthen cyber security obligations and compliance for critical infrastructure 17
+14. Strengthen cyber security obligations and compliance for critical infrastructure  17
 
-15. Uplift cyber security of the Commonwealth Government 18
+15. Uplift cyber security of the Commonwealth Government  18
 
-16. Pressure-test our critical infrastructure to identify vulnerabilities  19
+16. Pressure-test our critical infrastructure to identify vulnerabilities   19
 
-Shield 5: Sovereign capabilities 20
+Shield 5: Sovereign capabilities  20
 
-17. Grow and professionalise our national cyber workforce 20
+17. Grow and professionalise our national cyber workforce  20
 
-18. Accelerate our local cyber industry, research and innovation 20
+18. Accelerate our local cyber industry, research and innovation  20
 
-Shield 6: Resilient region and global leadership 21
+Shield 6: Resilient region and global leadership  21
 
-19. Support a cyber-resilient region as the partner of choice 21
+19. Support a cyber-resilient region as the partner of choice  21
 
-20. Shape, uphold and defend international cyber rules, norms and standards 22
+20. Shape, uphold and defend international cyber rules, norms and standards  22
 
-Appendix A: Lead and contributing agency abbreviations 23
+Appendix A: Lead and contributing agency abbreviations  23
 
 ## Executive summary
 
@@ -112,15 +112,13 @@ The Government’s new Executive Cyber Council will play an important role in fa
 
 A flexible approach to achieving the Strategy’s vision will enable us to remain adaptive to emerging technological, economic and geopolitical trends. Some actions will commence immediately with the release of the Strategy, while some will be implemented over a longer period. To remain current and relevant through to 2030, the Action Plan will be reviewed every two years, with actions being updated, added and removed as required.
 
-## Action plan
-
 ## Strong businesses and citizens
 
 ### Shield
 
 1
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 1. Support small and medium businesses to strengthen their cyber security
 
@@ -156,7 +154,7 @@ Fund grants to community organisations to deliver tailored cyber awareness progr
 
 Contributing agency: • DSS (Grants Hub)
 
-### Action agency
+Action agency
 
 ## 3. Disrupt and deter cyber threat actors from attacking Australia
 
@@ -234,7 +232,7 @@ Co-design with industry options to establish a Cyber Incident Review Board to co
 
 Contributing agencies: • AFP • AGD • ASD • Defence • PM&C • Other agencies as appropriate
 
-### Action agency
+Action agency
 
 ## 6. Make it easier for Australian businesses to access advice and support after a cyber incident
 
@@ -284,13 +282,13 @@ Continue support for victims of identity crime. This support will identify and g
 
 The support will also educate on identifying danger signs that the compromised identity is continuing to be misused.
 
-### Shield
+Shield
 
 ## Safe technology
 
 2
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 8. Ensure Australians can trust their digital products and software
 
@@ -392,7 +390,7 @@ Contributing agencies: • CSIRO • DISR
 
 3
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 11. Create a whole-of-economy threat intelligence network
 
@@ -424,7 +422,7 @@ Encourage and incentivise industry to participate in threat sharing platforms, w
 
 Contributing agencies: • ACMA • AGD • ASD • DITRDCA
 
-### Action agency
+Action agency
 
 ## 12. Scale threat blocking capabilities to stop cyber attacks
 
@@ -444,13 +442,13 @@ Encourage and incentivise threat blocking across the economy, focusing on the en
 
 Contributing agencies: • ACMA • AGD • ASD • DITRDCA
 
-### Shield
+Shield
 
 ## Protected critical infrastructure
 
 4
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 13. Clarify the scope of critical infrastructure regulation
 
@@ -488,7 +486,7 @@ Protect the critical data held, used and processed by critical infrastructure in
 
 Contributing agencies: • AGD • OAIC
 
-### Action agency
+Action agency
 
 ## 14. Strengthen cyber security obligations and compliance for critical infrastructure
 
@@ -516,7 +514,7 @@ Expand crisis response arrangements to ensure they capture secondary consequence
 
 Contributing agencies: • ASD • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate
 
-### Action agency
+Action agency
 
 ## 15. Uplift cyber security of the Commonwealth Government
 
@@ -556,7 +554,7 @@ Developing the cyber skills of the APS, harnessing the Digital Profession and AP
 
 Contributing agencies: • ASD • Defence • Home Affairs
 
-### Action agency
+Action agency
 
 ## 16. Pressure-test our critical infrastructure to identify vulnerabilities
 
@@ -576,13 +574,13 @@ Develop incident response playbooks to help coordinate national incident respons
 
 Contributing agencies: • AGD • Defence • NEMA
 
-### Shield
+Shield
 
 ## Sovereign capabilities
 
 5
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 17. Grow and professionalise our national cyber workforce
 
@@ -624,7 +622,7 @@ Contributing agency: • DISR
 
 6
 
-### Action Accountable agency
+Action Accountable agency
 
 ## 19. Support a cyber-resilient region as the partner of choice
 
@@ -650,7 +648,7 @@ Pilot options to use technology to protect the region at scale by partnering wit
 
 Contributing agency: • ASD
 
-### Action agency
+Action agency
 
 ## 20. Shape, uphold and defend international cyber rules, norms and standards
 

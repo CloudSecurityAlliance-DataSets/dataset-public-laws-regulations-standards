@@ -10,22 +10,6 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Artificial Intelligence Strategy of the German Federal Government",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "2020 Update",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
     "section_name": "Status: December 2020",
     "id_kind": "",
     "parent_id": "",
@@ -122,15 +106,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Annex",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Next steps in the implementation of the AI Strategy",
+    "section_name": "Annex — Next steps in the implementation of the AI Strategy",
     "id_kind": "",
     "parent_id": "",
     "body": "The Federal Government will take the following measures in the coming years to continue to implement the AI Strategy:"

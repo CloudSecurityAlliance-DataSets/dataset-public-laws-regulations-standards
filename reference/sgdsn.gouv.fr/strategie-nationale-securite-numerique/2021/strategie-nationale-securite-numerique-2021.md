@@ -5,7 +5,7 @@
 - [Cybersécurité](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B575%5D=575)
 - [Numérique](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_secteurs_agrege%5B281%5D=281)
 
-# France 2030 : stratégie d'accélération cybersécurité
+## France 2030 : stratégie d'accélération cybersécurité
 
 L'État a pour ambition de développer la filière nationale de la cybersécurité et de renforcer la souveraineté et l’innovation française en la matière.
 
@@ -60,7 +60,7 @@ Benjamin Morin
 
 benjamin.morin@pm.gouv.fr
 
-## [En savoir plus sur les stratégies d’accélération de France 2030](https://www.info.gouv.fr/organisation/secretariat-general-pour-l-investissement-sgpi/strategies-d-acceleration-pour-l-innovation "Lien externe - En savoir plus sur les stratégies d’accélération de France 2030 - Dans un nouvel onglet")
+[En savoir plus sur les stratégies d’accélération de France 2030](https://www.info.gouv.fr/organisation/secretariat-general-pour-l-investissement-sgpi/strategies-d-acceleration-pour-l-innovation "Lien externe - En savoir plus sur les stratégies d’accélération de France 2030 - Dans un nouvel onglet")
 
 ## Aller plus loin
 
@@ -70,7 +70,7 @@ benjamin.morin@pm.gouv.fr
 
 ## Ceci pourrait vous intéresser
 
-### [Start-up deeptech : un accompagnement pour lever vos blocages réglementaires](https://www.entreprises.gouv.fr/la-dge/actualites/start-deeptech-un-accompagnement-pour-lever-vos-blocages-reglementaires "Start-up deeptech : un accompagnement pour lever vos blocages réglementaires")
+[Start-up deeptech : un accompagnement pour lever vos blocages réglementaires](https://www.entreprises.gouv.fr/la-dge/actualites/start-deeptech-un-accompagnement-pour-lever-vos-blocages-reglementaires "Start-up deeptech : un accompagnement pour lever vos blocages réglementaires")
 
 Une règle bloque votre innovation ? La Direction générale des Entreprises lance le dispositif Guichet Deeptech en partenariat avec France Expérimentation, pour vous aider.
 
@@ -81,7 +81,7 @@ Une règle bloque votre innovation ? La Direction générale des Entreprises lan
 octobre
 2026
 
-### [France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises](https://www.entreprises.gouv.fr/la-dge/publications/france-2030-des-effets-positifs-sur-lemploi-et-le-capital-productif-des "France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises")
+[France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises](https://www.entreprises.gouv.fr/la-dge/publications/france-2030-des-effets-positifs-sur-lemploi-et-le-capital-productif-des "France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises")
 
 Le plan France 2030 soutient l’innovation et la réindustrialisation. Ses aides ont un effet positif sur les entreprises bénéficiaires, avec une hausse de 9 % de l’emploi et de 11 % de l’emploi en R&D ...
 
@@ -96,7 +96,7 @@ Les Thémas de la DGE
 octobre
 2026
 
-### [DECARB FLASH ARTISANAT](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/decarb-flash-artisanat "DECARB FLASH ARTISANAT")
+[DECARB FLASH ARTISANAT](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/decarb-flash-artisanat "DECARB FLASH ARTISANAT")
 
 Dans le cadre du plan d’électrification de la France, un nouvel appel à projets est lancé pour accompagner les entreprises artisanales dans le remplacement de leurs équipements fonctionnant aux énergies fossiles par des équipements électriques.
 

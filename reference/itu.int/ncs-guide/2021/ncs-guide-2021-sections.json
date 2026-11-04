@@ -10,39 +10,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Strategic Engagement in Cybersecurity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Guide to Developing a National Cybersecurity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Strategy",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "2nd Edition 2021",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Partners",
+    "section_name": "Strategic Engagement in Cybersecurity — Guide to Developing a National Cybersecurity — 2nd Edition 2021 — Partners",
     "id_kind": "",
     "parent_id": "",
     "body": "C\n\nI\n\nN\n\nA\n\nS\n\nM\n\nT\n\nI\n\nO\n\nT\n\nT\n\nU\n\nB\n\nO\n\nT\n\nE\n\nP\n\nS\n\nF\n\nG\n\nO\n\nE\n\nI\n\nR\n\nD\n\nU\n\nP\n\nT\n\nO\n\nS\n\nL\n\nI\n\nY\n\nC"
@@ -50,15 +18,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Observers",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Some Rights Reserved",
+    "section_name": "Observers — Some Rights Reserved",
     "id_kind": "",
     "parent_id": "",
     "body": "© 2021 International Telecommunication Union (ITU) Place des Nations 1211, Geneva 20 Switzerland\n\nThis Guide was developed by twenty partners from Intergovernmental and International Organisations, private sector, as well as academia and civil society and included the following organisations: Council of Europe (CoE), Commonwealth Secretariat (ComSec), Commonwealth Telecommunications Organisation (CTO), Geneva Centre for Security Sector Governance (DCAF), Deloitte, Forum of Incident Response and Security Teams (FIRST), Global Cyber Security Capacity Centre (GCSCC), Geneva Centre for Security Policy (GCSP), Global Partners Digital (GPD), International Criminal Police Organization (INTERPOL), International Telecommunication Union (ITU), Microsoft, NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE), Potomac Institute for Policy Studies (PIPS), RAND Europe, World Bank, United Nations Institute for Disarmament Research (UNIDIR), United Nations Office of Counter-Terrorism (UNOCT), United Nations University (UNU). Axon Partners Group (Axon), the Cyber Readiness Institute (CRI), the Global Forum on Cyber Expertise (GFCE), the Organization of American States (OAS), and the World Economic Forum (WEF) contributed to the Guide as observers. All the above-mentioned entities are hereinafter collectively referred to as “Contributors”."
@@ -157,15 +117,7 @@
     "section_name": "Introduction",
     "id_kind": "section_word",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "economy as a whole.\n\nAs a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.\n\nWhile the reliance of our societies on the digital infrastructure is growing, technology remains inherently vulnerable. The confidentiality, integrity and availability of ICT infrastructure are challenged by rapidly evolving risks, including electronic fraud, theft of intellectual property and personal identifiable information, disruption of service, and damage or destruction of property. The transformational power of ICTs and the Internet as catalysts for economic growth and social development are at a critical point where citizens’ and national trust and confidence in the use of ICTs are being eroded by cyber-insecurity.\n\nTo fully realise the potential of technology, states must align their national economic visions with their national security priorities. If the security risks associated with the proliferation of ICT-enabled infrastructure and Internet applications are not appropriately balanced with comprehensive national cybersecurity strategies and resilience plans, countries will be unable to achieve the economic growth and the national security goals they are seeking. In response, nations are developing both offensive and defensive capabilities to defend themselves from illicit and illegal activities in cyberspace and to pre-empt incidents before they can cause harm to their nations. This document will look specifically at defensive responses, particularly in the form of national cybersecurity strategies."
+    "body": "Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global\n\neconomy as a whole.\n\nAs a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.\n\nWhile the reliance of our societies on the digital infrastructure is growing, technology remains inherently vulnerable. The confidentiality, integrity and availability of ICT infrastructure are challenged by rapidly evolving risks, including electronic fraud, theft of intellectual property and personal identifiable information, disruption of service, and damage or destruction of property. The transformational power of ICTs and the Internet as catalysts for economic growth and social development are at a critical point where citizens’ and national trust and confidence in the use of ICTs are being eroded by cyber-insecurity.\n\nTo fully realise the potential of technology, states must align their national economic visions with their national security priorities. If the security risks associated with the proliferation of ICT-enabled infrastructure and Internet applications are not appropriately balanced with comprehensive national cybersecurity strategies and resilience plans, countries will be unable to achieve the economic growth and the national security goals they are seeking. In response, nations are developing both offensive and defensive capabilities to defend themselves from illicit and illegal activities in cyberspace and to pre-empt incidents before they can cause harm to their nations. This document will look specifically at defensive responses, particularly in the form of national cybersecurity strategies."
   },
   {
     "depth": 3,
@@ -186,50 +138,10 @@
   {
     "depth": 2,
     "section_id": "Section 3",
-    "section_name": "Lifecycle of a National Cybersecurity Strategy",
+    "section_name": "Lifecycle of a National Cybersecurity Strategy This Section provides an overview of the various phases in the development of a Strategy, which include:",
     "id_kind": "section_word",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "This Section provides an overview of the various phases in the development of a Strategy, which include:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "•"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Phase I – Initiation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "•"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Phase II – Stocktaking and analysis",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "•"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Phase III – Production",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "•"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Phase IV – Implementation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "•"
+    "body": "•\n\nPhase I – Initiation\n\n•\n\nPhase II – Stocktaking and analysis\n\n•\n\nPhase III – Production\n\n•\n\nPhase IV – Implementation\n\n•"
   },
   {
     "depth": 3,
@@ -309,15 +221,7 @@
     "section_name": "Overarching Principles",
     "id_kind": "section_word",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Cybersecurity Strategy.\n\nThese principles are applicable to all key focus areas identified in this document. They should be considered in all steps of a National Strategy development process, from the drafting of the National Strategy document to its implementation.\n\nThe order of these principles reflects a logical narrative rather than an order of importance."
+    "body": "This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National\n\nCybersecurity Strategy.\n\nThese principles are applicable to all key focus areas identified in this document. They should be considered in all steps of a National Strategy development process, from the drafting of the National Strategy document to its implementation.\n\nThe order of these principles reflects a logical narrative rather than an order of importance."
   },
   {
     "depth": 3,
@@ -397,15 +301,7 @@
     "section_name": "National Cybersecurity Strategy Good Practice",
     "id_kind": "section_word",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Cybersecurity affects many areas of socio-economic development and is influenced by several factors",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "within the national context.\n\nTherefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.\n\nThese good-practice elements are grouped into distinct focus areas – effectively overarching themes for a National Cybersecurity Strategy. While both the focus areas and the good-practice elements have been put forward here as examples of good practice, it is particularly important that the latter are viewed in the national context, as some may not be relevant to a country’s specific situation. Countries should identify and follow the good-practice elements that support their own objectives and priorities in line with the vision defined in their Strategy (Section 4). The order of the individual elements or focus areas below should not be seen as indicating a level of importance or priority."
+    "body": "Cybersecurity affects many areas of socio-economic development and is influenced by several factors within the national context.\n\nTherefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.\n\nThese good-practice elements are grouped into distinct focus areas – effectively overarching themes for a National Cybersecurity Strategy. While both the focus areas and the good-practice elements have been put forward here as examples of good practice, it is particularly important that the latter are viewed in the national context, as some may not be relevant to a country’s specific situation. Countries should identify and follow the good-practice elements that support their own objectives and priorities in line with the vision defined in their Strategy (Section 4). The order of the individual elements or focus areas below should not be seen as indicating a level of importance or priority."
   },
   {
     "depth": 3,
@@ -442,10 +338,10 @@
   {
     "depth": 3,
     "section_id": "5.6.7",
-    "section_name": "Support international cooperation to combat cyber threats and",
+    "section_name": "Support international cooperation to combat cyber threats and cybercrime",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "cybercrime\n\nThe Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition.\n\nAlso, the Strategy should recognize the importance of building informal mechanisms that enable trusted cooperation and cross-border exchange of information, intelligence, and technical support between cybersecurity actors in both public and private sector.\n\nIn particular, international law enforcement cooperation plays a vital role in combating cybercrime through the exchange of information, cross-border investigations, operations, and arrests. For example, INTERPOL provides a secure global police communications system for countries to facilitate police-to-police requests and formal mutual legal assistance requests from one central authority to another. These channels can assist in the investigation and prosecution of cybercrime beyond a nation’s borders. Law enforcement cooperation can also help improve cross-jurisdictional interoperability and ensure timely and coordinated joint police actions. Other organizations like AFRIPOL, AMERIPOL, ASEANAPOL, GCCPOL, ECOPOL, and Europol are likewise fostering law enforcement cooperation at the regional level.\n\nThese elements should take into consideration focus area 7 on international cooperation (Section 5.7).\n\nFurther references available on page 69."
+    "body": "The Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition.\n\nAlso, the Strategy should recognize the importance of building informal mechanisms that enable trusted cooperation and cross-border exchange of information, intelligence, and technical support between cybersecurity actors in both public and private sector.\n\nIn particular, international law enforcement cooperation plays a vital role in combating cybercrime through the exchange of information, cross-border investigations, operations, and arrests. For example, INTERPOL provides a secure global police communications system for countries to facilitate police-to-police requests and formal mutual legal assistance requests from one central authority to another. These channels can assist in the investigation and prosecution of cybercrime beyond a nation’s borders. Law enforcement cooperation can also help improve cross-jurisdictional interoperability and ensure timely and coordinated joint police actions. Other organizations like AFRIPOL, AMERIPOL, ASEANAPOL, GCCPOL, ECOPOL, and Europol are likewise fostering law enforcement cooperation at the regional level.\n\nThese elements should take into consideration focus area 7 on international cooperation (Section 5.7).\n\nFurther references available on page 69."
   },
   {
     "depth": 3,
@@ -477,15 +373,7 @@
     "section_name": "Reference Materials",
     "id_kind": "section_word",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "In the process of developing this Guide, a stocktaking of existing guides and best practices",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "was conducted.\n\nThis allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links."
+    "body": "In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.\n\nThis allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links."
   },
   {
     "depth": 2,

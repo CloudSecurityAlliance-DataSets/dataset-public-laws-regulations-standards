@@ -12,9 +12,7 @@ ISBN: 978-1-925890-66-2
 
 This work is copyright. Apart from any use as permitted under the Copyright Act 1968 (Cwth), no part may be reproduced by any process without prior written permission from the Department of Defence.
 
-### NATIONAL DEFENCE
-
-## DEFENCE STRATEGIC REVIEW
+NATIONAL DEFENCE
 
 ## Contents
 
@@ -94,15 +92,15 @@ The defence of Australia’s national interests lies in the protection of our ec
 
 Accordingly, the Australian Defence Force (ADF) must have the capacity to:
 
- defend Australia and our immediate region;
+defend Australia and our immediate region;
 
- deter through denial any adversary’s attempt to project power against Australia through our northern approaches;
+deter through denial any adversary’s attempt to project power against Australia through our northern approaches;
 
- protect Australia’s economic connection to our region and the world;
+protect Australia’s economic connection to our region and the world;
 
- contribute with our partners to the collective security of the Indo-Pacific; and
+contribute with our partners to the collective security of the Indo-Pacific; and
 
- contribute with our partners to the maintenance of the global rules-based order.
+contribute with our partners to the maintenance of the global rules-based order.
 
 As most of these objectives lie well beyond our borders, the ADF must have the capacity to engage in impactful projection across the full spectrum of proportionate response. The ADF must be able to hold an adversary at risk further from our shores.
 
@@ -124,17 +122,17 @@ Defence must also continue to develop its cyber and space capabilities.
 
 The Government’s immediate actions to reprioritise Defence’s capabilities in line with the Review’s recommendations include:
 
- investing in conventionally-armed, nuclear-powered submarines through the AUKUS partnership;
+investing in conventionally-armed, nuclear-powered submarines through the AUKUS partnership;
 
- developing the ADF’s ability to precisely strike targets at longer range and manufacture munitions in Australia;
+developing the ADF’s ability to precisely strike targets at longer range and manufacture munitions in Australia;
 
- improving the ADF’s ability to operate from Australia’s northern bases;
+improving the ADF’s ability to operate from Australia’s northern bases;
 
- lifting our capacity to rapidly translate disruptive new technologies into ADF capability, in close partnership with Australian industry;
+lifting our capacity to rapidly translate disruptive new technologies into ADF capability, in close partnership with Australian industry;
 
- investing in the growth and retention of a highly-skilled Defence workforce; and
+investing in the growth and retention of a highly-skilled Defence workforce; and
 
- deepening our diplomatic and defence partnerships with key partners in the Indo-Pacific.
+deepening our diplomatic and defence partnerships with key partners in the Indo-Pacific.
 
 Defence must have the funding it needs to deliver this enhanced capability. To this end, Defence funding will increase over the next decade above its current trajectory to implement the Review, including the delivery of the conventionally-armed, nuclear-powered submarine program through AUKUS.
 
@@ -144,11 +142,11 @@ The Review calls for genuine whole-of-government coordination of Defence policy 
 
 Indeed, the recommendations of the Review work in concert with other Government policy priorities which enhance our security and build our economic resilience. These include:
 
- our efforts to recruit, train and skill more Australians for jobs in defence and related industries;
+our efforts to recruit, train and skill more Australians for jobs in defence and related industries;
 
- our investments in research and development, manufacturing, and supply chains; and
+our investments in research and development, manufacturing, and supply chains; and
 
- our commitments to increasing output of domestically produced renewable energy, improving our domestic fuel reserves, and establishing a civil maritime strategic fleet.
+our commitments to increasing output of domestically produced renewable energy, improving our domestic fuel reserves, and establishing a civil maritime strategic fleet.
 
 The Government is deploying all of these elements of national power to make Australia more stable, confident and secure.
 
@@ -171,8 +169,6 @@ These actions will set the course for the defence of Australia over the coming d
 The Hon Richard Marles MP Deputy Prime Minister Minister for Defence
 
 B
-
-## Defence Strategic Review
 
 ## Foreword
 
@@ -334,25 +330,25 @@ To maximise the deterrence, denial and response options for the Government, the 
 
 The ADF’s operational success will depend on the ability of the Integrated Force to apply the following critical capabilities:
 
- undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance (ISR) and strike;
+undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance (ISR) and strike;
 
- an enhanced integrated targeting capability;
+an enhanced integrated targeting capability;
 
- an enhanced long-range strike capability in all domains;
+an enhanced long-range strike capability in all domains;
 
- a fully enabled, integrated amphibious-capable combined-arms land system;
+a fully enabled, integrated amphibious-capable combined-arms land system;
 
- enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
+enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
 
- a networked expeditionary air operations capability;
+a networked expeditionary air operations capability;
 
- an enhanced, all-domain, integrated air and missile defence capability;
+an enhanced, all-domain, integrated air and missile defence capability;
 
- a joint, expeditionary theatre logistics system with strategic depth and mobility;
+a joint, expeditionary theatre logistics system with strategic depth and mobility;
 
- a theatre command and control framework that enables an enhanced Integrated Force; and
+a theatre command and control framework that enables an enhanced Integrated Force; and
 
- a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
+a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
 
 We strongly support the acquisition of a conventionally-armed, nuclear-powered submarine capability, including the establishment of an Australian Submarine Agency. We also recommend the Government reaffirm its commitment to continuous naval shipbuilding.
 
@@ -446,11 +442,11 @@ It will be challenging to effect.
 
 1.19 Instead of a 10-year warning time, the Review has identified three distinct time periods for Defence planning:
 
- the three-year period 2023-2025 (for those matters which must be prioritised and addressed urgently);
+the three-year period 2023-2025 (for those matters which must be prioritised and addressed urgently);
 
- the five-year period 2026-2030; and
+the five-year period 2026-2030; and
 
- the period 2031 and beyond.
+the period 2031 and beyond.
 
 ## Our Defence Strategic Environment
 
@@ -466,17 +462,17 @@ It will be challenging to effect.
 
 2.5 Australia’s contemporary regional security situation is now characterised by:
 
- strategic competition between the major powers;
+strategic competition between the major powers;
 
- the use of coercive tactics;
+the use of coercive tactics;
 
- the acceleration and expansion of military capabilities without necessary transparency;
+the acceleration and expansion of military capabilities without necessary transparency;
 
- the rapid translation of emerging and disruptive technologies into military capability;
+the rapid translation of emerging and disruptive technologies into military capability;
 
- nuclear weapons proliferation; and
+nuclear weapons proliferation; and
 
- the increased risk of miscalculation or misjudgement.
+the increased risk of miscalculation or misjudgement.
 
 2.6 For military planning, in terms of our strategic geography, the primary area of military interest for Australia’s National Defence is the immediate region encompassing the north-eastern Indian Ocean through maritime Southeast Asia into the Pacific. This region includes our northern approaches.
 
@@ -484,9 +480,7 @@ It will be challenging to effect.
 
 • Australia’s immediate region encompassing the north-eastern Indian Ocean through maritime Southeast Asia into the Pacific, including our northern approaches, should be the primary area of military interest for Australia’s National Defence.
 
-### A Whole-of-Government Approach
-
-### National Defence
+### A Whole-of-Government Approach — National Defence
 
 3.1 The circumstances described in the 2020 Defence Strategic Update and subsequent comprehensive assessments of our regional security environment require a coherent national strategic response.
 
@@ -512,35 +506,35 @@ It will be challenging to effect.
 
 3.10 National Defence includes:
 
- Defence strategy and policy supporting whole-of-nation strategies;
+Defence strategy and policy supporting whole-of-nation strategies;
 
- an enhanced and expanded Alliance with the United States, including key force posture initiatives in Australia;
+an enhanced and expanded Alliance with the United States, including key force posture initiatives in Australia;
 
- a new, more focused approach to defence planning based on net assessment;
+a new, more focused approach to defence planning based on net assessment;
 
- a focus on deterrence through denial, including the ability to hold any adversary at risk;
+a focus on deterrence through denial, including the ability to hold any adversary at risk;
 
- a new approach to critical Defence capabilities that drives force structure;
+a new approach to critical Defence capabilities that drives force structure;
 
- a new approach to force posture for the ADF;
+a new approach to force posture for the ADF;
 
- a whole-of-nation effort to develop strategic resilience;
+a whole-of-nation effort to develop strategic resilience;
 
- accelerated military preparedness;
+accelerated military preparedness;
 
- a more capable ADF;
+a more capable ADF;
 
- the development of a fully joined-up and Integrated Force;
+the development of a fully joined-up and Integrated Force;
 
- a new approach to the management of risk across government;
+a new approach to the management of risk across government;
 
- fundamental changes to Defence recruitment and workforce management;
+fundamental changes to Defence recruitment and workforce management;
 
- enhanced sovereign defence industrial capacity in key areas;
+enhanced sovereign defence industrial capacity in key areas;
 
- a new approach to developing advanced military technology; and
+a new approach to developing advanced military technology; and
 
- a renewed focus on national planning for Defence preparedness.
+a renewed focus on national planning for Defence preparedness.
 
 3.11 Adopting the National Defence concept will be the most substantial and ambitious approach to Defence recommended to any Australian Government since the Second World War.
 
@@ -606,29 +600,29 @@ being pursued through AUKUS; enhancing regional military exercises; and a substa
 
 4.12 Resilience requires the ability to withstand, endure and recover from disruption. Resilience makes Australia a harder target and less susceptible to coercion. Critical requirements include:
 
- an informed public;
+an informed public;
 
- national unity and cohesion;
+national unity and cohesion;
 
- democratic assuredness;
+democratic assuredness;
 
- robust cyber security, data networks and space capabilities;
+robust cyber security, data networks and space capabilities;
 
- supply chain diversity;
+supply chain diversity;
 
- economic security;
+economic security;
 
- environmental security;
+environmental security;
 
- fuel and energy security;
+fuel and energy security;
 
- enhanced military preparedness;
+enhanced military preparedness;
 
- advanced munitions manufacturing (especially in long-range guided weapons);
+advanced munitions manufacturing (especially in long-range guided weapons);
 
- robust national logistics; and
+robust national logistics; and
 
- a national industrial base with a capacity to scale.
+a national industrial base with a capacity to scale.
 
 4.13 A high level of resilience would signal to an adversary the extent of Australia’s resolve to defend itself. This would contribute to deterrence.
 
@@ -672,17 +666,17 @@ being pursued through AUKUS; enhancing regional military exercises; and a substa
 
 6.5 This change will require a shift to:
 
- more active Australian statecraft using all elements of national power;
+more active Australian statecraft using all elements of national power;
 
- greater advanced scientific, technological and industrial cooperation in the Alliance;
+greater advanced scientific, technological and industrial cooperation in the Alliance;
 
- increased bilateral military planning;
+increased bilateral military planning;
 
- increased United States rotational force posture in Australia, including submarines;
+increased United States rotational force posture in Australia, including submarines;
 
- engagement with the United States on deterrence, including through joint exercises and patrols; and
+engagement with the United States on deterrence, including through joint exercises and patrols; and
 
- strengthening Australia’s sovereign military and industrial capabilities.
+strengthening Australia’s sovereign military and industrial capabilities.
 
 ### Regional defence partnerships
 
@@ -790,25 +784,25 @@ The capabilities required to address identified threats will also provide latent
 
 8.8 In effecting our strategy of denial in Australia’s northern approaches, the ADF’s operational success will depend on the ability of the Integrated Force to apply the following critical capabilities:
 
- undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance and strike;
+undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance and strike;
 
- an enhanced, integrated targeting capability;
+an enhanced, integrated targeting capability;
 
- an enhanced long-range strike capability in all domains;
+an enhanced long-range strike capability in all domains;
 
- a fully enabled, integrated amphibious-capable combined-arms land system;
+a fully enabled, integrated amphibious-capable combined-arms land system;
 
- enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
+enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
 
- a networked expeditionary air operations capability;
+a networked expeditionary air operations capability;
 
- an enhanced, all-domain, integrated air and missile defence capability;
+an enhanced, all-domain, integrated air and missile defence capability;
 
- a joint, expeditionary theatre logistics system with strategic depth and mobility;
+a joint, expeditionary theatre logistics system with strategic depth and mobility;
 
- a theatre command and control framework that enables an enhanced Integrated Force; and
+a theatre command and control framework that enables an enhanced Integrated Force; and
 
- a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
+a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
 
 ### Force structure design priorities
 
@@ -874,13 +868,13 @@ The capabilities required to address identified threats will also provide latent
 
 8.29 As a priority it must be able to provide:
 
- a littoral manoeuvre capability by sea, land and air;
+a littoral manoeuvre capability by sea, land and air;
 
- long-range fires, including land-based maritime strike;
+long-range fires, including land-based maritime strike;
 
- air and missile defence; and
+air and missile defence; and
 
- close-combat capabilities, including a single armoured combined-arms brigade, able to meet the most demanding land challenges in our region.
+close-combat capabilities, including a single armoured combined-arms brigade, able to meet the most demanding land challenges in our region.
 
 8.30 Enhanced domestic security and response Army Reserve brigades will be required to provide area security to the northern base network and other critical infrastructure, as well as providing an expansion base and follow-on forces.
 
@@ -926,21 +920,21 @@ servicing UH-60M Black Hawk and Navy’s MH-60R Sea Hawk). This has been a recom
 
 8.41 Air Force must be able to maintain:
 
- a network of northern air bases with appropriate hardening and dispersal;
+a network of northern air bases with appropriate hardening and dispersal;
 
- crewed and autonomous systems capable of air defence;
+crewed and autonomous systems capable of air defence;
 
- strike capability (maritime and land);
+strike capability (maritime and land);
 
- intelligence, surveillance and reconnaissance;
+intelligence, surveillance and reconnaissance;
 
- anti-submarine warfare;
+anti-submarine warfare;
 
- command and control for integrated air and missile defence;
+command and control for integrated air and missile defence;
 
- air-to-air refuelling; and
+air-to-air refuelling; and
 
- heavy and medium air mobility.
+heavy and medium air mobility.
 
 8.42 Air Force must increase the numbers of critical positions and implement a scalable aircrew training system to meet aircrew requirements across the force, commensurate with operational requirements.
 
@@ -1032,11 +1026,11 @@ Architectures provide the technical guidelines and standards on which Defence’
 
 8.63 To provide focus and coherence for force structure priorities, we recommend changes to force structure occur over three periods:
 
- 2023-2025 – Enhanced Force-In-Being (for those matters which must be addressed urgently and as an immediate priority);
+2023-2025 – Enhanced Force-In-Being (for those matters which must be addressed urgently and as an immediate priority);
 
- 2026-2030 – accelerated acquisition to the Objective Integrated Force; and
+2026-2030 – accelerated acquisition to the Objective Integrated Force; and
 
- 2031 and beyond – delivery of the Future Integrated Force.
+2031 and beyond – delivery of the Future Integrated Force.
 
 ### Enhanced Force-In-Being
 
@@ -1060,11 +1054,11 @@ Future Integrated Force refers to the force that is under design consideration. 
 
 8.67 The Review strongly supports the acquisition of conventionally-armed, nuclear-powered submarines. This requires a whole-of-nation commitment. To support this effort the Review strongly supports the establishment of:
 
- the Australian Submarine Agency as a non-corporate Commonwealth entity;
+the Australian Submarine Agency as a non-corporate Commonwealth entity;
 
- the Australian Defence Nuclear Regulator as an element within the Defence portfolio; and
+the Australian Defence Nuclear Regulator as an element within the Defence portfolio; and
 
- an east coast nuclear-powered submarine facility.
+an east coast nuclear-powered submarine facility.
 
 ### National Naval Shipbuilding Enterprise
 
@@ -1180,21 +1174,21 @@ In relation to cost imposition or denial, asymmetric refers to the application o
 
 10.11 There must be immediate and comprehensive work on these air bases undertaken in the following areas:
 
- hardening and dispersal;
+hardening and dispersal;
 
- runway and apron capacity;
+runway and apron capacity;
 
- fuel storage and supply;
+fuel storage and supply;
 
- aviation fuel supply and storage;
+aviation fuel supply and storage;
 
- GWEO storage;
+GWEO storage;
 
- connectivity required to enable essential mission planning activities;
+connectivity required to enable essential mission planning activities;
 
- accommodation and life support; and
+accommodation and life support; and
 
- security.
+security.
 
 10.12 To achieve dispersal, redundancy and resilience in our defence posture there are clear opportunities in leveraging the capabilities offered by civil minerals and petroleum resources infrastructure, including those being considered for decommission by the parent company/organisation.
 
@@ -1210,11 +1204,11 @@ In relation to cost imposition or denial, asymmetric refers to the application o
 
 10.14 Defence must be cognisant of the capabilities of the fuel industry and what it can deliver in a range of circumstances. The fuel industry must understand Defence requirements in a range of contingencies concurrent with civil demands, including:
 
- the advantages and vulnerabilities of various international sources of supply and shipping routes;
+the advantages and vulnerabilities of various international sources of supply and shipping routes;
 
- domestic storage and distribution options on sea and land; and
+domestic storage and distribution options on sea and land; and
 
- Defence’s capability to address vulnerabilities.
+Defence’s capability to address vulnerabilities.
 
 10.15 A whole-of-government and industry Fuel Council should progress these critical issues.
 
@@ -1290,15 +1284,15 @@ In relation to cost imposition or denial, asymmetric refers to the application o
 
 10.39 In order to support Accelerated Preparedness in GWEO, Defence must:
 
- establish the required levels of GWEO stocks;
+establish the required levels of GWEO stocks;
 
- rapidly acquire additional GWEO stocks from existing suppliers and contractors;
+rapidly acquire additional GWEO stocks from existing suppliers and contractors;
 
- explore options of other sources of supply or contracting for priority guided weapons;
+explore options of other sources of supply or contracting for priority guided weapons;
 
- rapidly establish a domestic GWEO manufacturing capability; and
+rapidly establish a domestic GWEO manufacturing capability; and
 
- increase our GWEO production capacity to support our ongoing needs and increase the total production capacity of our partners.
+increase our GWEO production capacity to support our ongoing needs and increase the total production capacity of our partners.
 
 ### Recommendations:
 
@@ -1430,19 +1424,19 @@ must rebalance priorities for our current strategic circumstances.
 
 13.3 Since the 2016 Defence White Paper, Defence funding over the planning decade from 2022-2023 to 2031-2032 was reduced. This includes:
 
- $3.6 billion for REDSPICE (to 2025-2026);
+$3.6 billion for REDSPICE (to 2025-2026);
 
- $2.7 billion transferred to other agencies; and
+$2.7 billion transferred to other agencies; and
 
- $12.2 billion through a strategic reserve adjustment ($9 billion) and efficiency dividends ($3.2 billion).
+$12.2 billion through a strategic reserve adjustment ($9 billion) and efficiency dividends ($3.2 billion).
 
 13.4 Between the 2020 Defence Strategic Update and 2020 Force Structure Plan and the establishment of the Review, measures were announced which resulted in excess of $42 billion in additional Defence spending over the planning decade to 2032-2033, without the provision of any additional allocation in the Commonwealth Budget. This includes:
 
- $7.9 billion further funding for REDSPICE beyond 2025-2026;
+$7.9 billion further funding for REDSPICE beyond 2025-2026;
 
- $32.2 billion for the establishment of the GWEO Enterprise; and
+$32.2 billion for the establishment of the GWEO Enterprise; and
 
- $1.9 billion to achieve AUKUS Pillar II Advanced Capabilities.
+$1.9 billion to achieve AUKUS Pillar II Advanced Capabilities.
 
 13.5 New capability requirements coupled with sustainment demand for existing capabilities and the need to address severe workforce pressures will require difficult decisions and trade-offs to manage the Defence Budget over the immediate period.
 
@@ -1482,11 +1476,11 @@ must rebalance priorities for our current strategic circumstances.
 
 14.8 We propose a three-tier system is adopted to oversee the implementation of the Review. This consists of:
 
- Tier 1. Cabinet-level Oversight to ensure the highest levels of strategic direction.
+Tier 1. Cabinet-level Oversight to ensure the highest levels of strategic direction.
 
- Tier 2. External Oversight Advisers to ensure that Defence actions are implemented in accordance with the intent of the Review recommendations and accompanying Government direction.
+Tier 2. External Oversight Advisers to ensure that Defence actions are implemented in accordance with the intent of the Review recommendations and accompanying Government direction.
 
- Tier 3. Defence Strategic Review Management Board, internal to Defence, to provide direct oversight and leadership of the implementation of the Review.
+Tier 3. Defence Strategic Review Management Board, internal to Defence, to provide direct oversight and leadership of the implementation of the Review.
 
 ### Recommendation:
 

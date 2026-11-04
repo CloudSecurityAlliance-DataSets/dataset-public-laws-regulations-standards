@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de).",
   "license": {
-    "spdx": "dl-de-by-2.0",
+    "spdx": "LicenseRef-German-Government-Official-Work",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
     "publicly_redistributable": true,
-    "license_text_url": "https://www.govdata.de/dl-de/by-2-0",
-    "note": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
-    "notes": "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0)."
+    "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "note": "Official German Federal Government publication (§ 5 UrhG public official work).",
+    "notes": "Official German Federal Government publication (§ 5 UrhG public official work)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 76-page PDF (https://www.nationalesicherheitsstrategie.de/Sicherheitsstrategie-DE.pdf) locally via PyMuPDF (153,010 chars). Parsed 30 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 76-page PDF (https://www.nationalesicherheitsstrategie.de/Sicherheitsstrategie-DE.pdf) locally via PyMuPDF (153,010 chars). Parsed 23 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -1,10 +1,10 @@
 # Australia's Cyber Security Strategy 2020
 
-#### AUSTRALIA’S CYBER SECURITY
+AUSTRALIA’S CYBER SECURITY
 
 ## STRATEGY 2020
 
-#### © Commonwealth of Australia 2020
+© Commonwealth of Australia 2020
 
 With the exception of the Commonwealth Coat of Arms, all material presented in this publication is provided under a Creative Commons Attribution 4.0 International license at:
 
@@ -24,31 +24,31 @@ cybersecuritystrategy@homeaffairs.gov.au
 
 P - 20-02344
 
-#### AUSTRALIA’S CYBER SECURITY
+AUSTRALIA’S CYBER SECURITY
 
 ## Table of Contents
 
-Minister’s foreword 4
+Minister’s foreword  4
 
-Australia’s Cyber Security Strategy 2020: At a glance 6
+Australia’s Cyber Security Strategy 2020: At a glance  6
 
-Overview 7
+Overview  7
 
-The threat environment 10
+The threat environment  10
 
-Consultation 15
+Consultation  15
 
-Our strategy 18
+Our strategy  18
 
-Our response 21
+Our response  21
 
-Action plan 39
+Action plan  39
 
-Implementation and measuring progress 44
+Implementation and measuring progress  44
 
-Appendix A: Cyber Security Strategy 2020 Funding Commitments 47
+Appendix A: Cyber Security Strategy 2020 Funding Commitments  47
 
-#### Minister’s foreword
+Minister’s foreword
 
 Ensuring Australians are secure online is a shared responsibility – everyone has a role to play. This Strategy sets out our plan to protect Australians online.
 
@@ -158,13 +158,13 @@ Feedback from businesses and the community showed that the 2016 Strategy strengt
 
 This Strategy will build on initiatives that began in 2016, including the ACSC and JCSCs.
 
-## “Australia’s landmark 2016 Cyber Security Strategy has been a catalyst for change, launching a series of government and private sector activities and responses to cyber security and cyber crime challenges.”
+“Australia’s landmark 2016 Cyber Security Strategy has been a catalyst for change, launching a series of government and private sector activities and responses to cyber security and cyber crime challenges.”
 
 Palo Alto Networks Public submission to the Cyber Security Strategy 2020
 
 #### The threat environment
 
-## “The consequence of attacks are increasing in severity, as information systems become more central to business and society.”
+“The consequence of attacks are increasing in severity, as information systems become more central to business and society.”
 
 Sapien Cyber Public submission to the Cyber Security Strategy 2020
 
@@ -184,7 +184,7 @@ The COVID-19 pandemic highlighted the evolving nature of cyber threats. Opportun
 
 A single event or a series of events that threatens the integrity, availability or confidentiality of digital information.
 
-## “Affordable and low-tech attacks such as ransomware, phishing and malware will continue to rise and a great emphasis from Government on supporting small to medium businesses and corporate Australia from cyber criminals is required.”
+“Affordable and low-tech attacks such as ransomware, phishing and malware will continue to rise and a great emphasis from Government on supporting small to medium businesses and corporate Australia from cyber criminals is required.”
 
 AUCloud Public Submission to the Cyber Security Strategy 2020
 
@@ -294,15 +294,15 @@ The use of anonymising technologies has made it easier to commit serious crimes 
 
 — There are economic opportunities for Australia.
 
-## “ACCAN is concerned about the disproportionate impact that scams and other cybercrimes have on vulnerable consumers, such as those not confident in using the internet, older people and people who have less familiarity with the English language.”
+“ACCAN is concerned about the disproportionate impact that scams and other cybercrimes have on vulnerable consumers, such as those not confident in using the internet, older people and people who have less familiarity with the English language.”
 
 Australian Communications Consumer Action Network Public submission to the Cyber Security Strategy 2020
 
-## “Just as there are vulnerable populations for public health concerns, we see this mirrored in vulnerable targets for cyber security attacks.”
+“Just as there are vulnerable populations for public health concerns, we see this mirrored in vulnerable targets for cyber security attacks.”
 
 Accenture Public submission to the Cyber Security Strategy 2020
 
-## “Government should be responsible for ensuring telecommunications operators, and operators of critical services take measures to safeguard networks and services.”
+“Government should be responsible for ensuring telecommunications operators, and operators of critical services take measures to safeguard networks and services.”
 
 Optus Public submission to the Cyber Security Strategy 2020
 
@@ -328,7 +328,7 @@ Optus Public submission to the Cyber Security Strategy 2020
 
 24 Building on the success of the Panel, a standing Industry Advisory Committee will be established to ensure industry plays a continuing role in shaping the delivery of short and longer-term actions set out in this Strategy.
 
-## “Australia will prosper as a digital economy if we continue to invest in cyber defences. If we move to comprehensively protect ourselves from cyber-crime our businesses will remain competitive, our national infrastructure will be protected, the security of our institutions – including our democratic electoral processes, which have been the subject of malicious cyber-attack in other parts of
+“Australia will prosper as a digital economy if we continue to invest in cyber defences. If we move to comprehensively protect ourselves from cyber-crime our businesses will remain competitive, our national infrastructure will be protected, the security of our institutions – including our democratic electoral processes, which have been the subject of malicious cyber-attack in other parts of
 
 the world – protected and the well-being of Australians improved.
 
@@ -342,21 +342,9 @@ Andrew Penn Chair of the Industry Advisory Panel and CEO of Telstra, August 2020
 
 #### Figure 2: Our Strategy Illustrated
 
-#### Vision A more secure online world for Australians, their businesses and the
+Vision A more secure online world for Australians, their businesses and the essential services upon which we all depend.
 
-#### essential services upon which we all depend.
-
-#### Actions by businesses
-
-#### Actions by governments
-
-#### Key themes:
-
-#### Key themes:
-
-#### Actions by the community
-
-#### Key themes:
+#### Actions by businesses — Actions by governments — Key themes: — Actions by the community — Key themes:
 
 — Improve baseline security
 
@@ -464,11 +452,9 @@ The community will always have a role to play in cyber security. Even with the b
 
 30 Every part of government, business and the community has a role to play in implementing this Strategy. Although this Strategy is an Australian Government initiative, the Australian Government recognises the essential role of state and territory governments, businesses, academia, international partners and the broader community in realising our vision: to create a more secure online world for Australians, their businesses and the essential services upon which we all depend. Successful implementation of this Strategy relies on individual and collaborative effort and actions by governments, businesses and the community.
 
-#### Our response
+#### Our response — Actions by governments
 
-#### Actions by governments
-
-## “Government has an important leadership role to play, which includes assisting organisations and the community to be fully cyber aware.”
+“Government has an important leadership role to play, which includes assisting organisations and the community to be fully cyber aware.”
 
 Ai Group Public submission to the Cyber Security Strategy 2020
 
@@ -664,7 +650,7 @@ The Australian Government will prioritise support for SMEs through a number of k
 
 Law enforcement will have strengthened capabilities to identify and disrupt cyber criminals targeting Australian businesses.
 
-## “Today, cyberattacks from increasingly sophisticated actors threaten organisations across every sector, and whether a large ASX 100 company or a local bakery, organisations of all sizes need to take steps to limit the dangers posed by these threats.”
+“Today, cyberattacks from increasingly sophisticated actors threaten organisations across every sector, and whether a large ASX 100 company or a local bakery, organisations of all sizes need to take steps to limit the dangers posed by these threats.”
 
 Microsoft Public submission to the Cyber Security Strategy 2020
 
@@ -714,7 +700,7 @@ skills, training, mentoring and coaching programs, including specialised program
 
 70 Businesses and the community need to have confidence in the cyber security industry. The Australian Government will continue to work with businesses on the best way to promote the cyber security profession and ensure there are clear professional standards for practitioners, and more consistency in the market for consumers. In the medium to longer term, this could involve exploring whether there is a need for cyber security accreditation frameworks, including how these would map against other existing licensing and professional accreditation frameworks. To provide consistency across the cyber security sector, this could be accompanied by professional competency requirements for maintaining accreditation. The Australian Government will work with businesses and international partners to understand if this would be valuable, and the best way for the cyber security sector to deliver and maintain these frameworks, including through close engagement with international partners.
 
-## “A globally competitive Australian cyber security sector will ultimately underpin the future success of every industry in the national economy.”
+“A globally competitive Australian cyber security sector will ultimately underpin the future success of every industry in the national economy.”
 
 AustCyber Public submission to the Cyber Security Strategy 2020
 
@@ -760,7 +746,7 @@ Further information is available at www.asd.gov.au/careers
 
 #### Actions by the community
 
-## “An informed and educated consumer about the cyber threat landscape could be the most efficacious program that government could initiate.”
+“An informed and educated consumer about the cyber threat landscape could be the most efficacious program that government could initiate.”
 
 Cisco Public submission to the Cyber Security Strategy 2020
 
@@ -826,63 +812,7 @@ The standing Industry Advisory Committee (see ‘Implementation and measuring pr
 
 The Minister will periodically update this Strategy’s Action Plan (on the following pages) and report to the Australian Government and the community on measures to continually enhance Australia’s cyber security.
 
-#### How do I stay secure online?
-
-#### PRIVACY
-
-#### Be wary of what is shared
-
-#### and with whom
-
-#### SUSPICIOUS MESSAGING
-
-#### Treat any unexpected messages with caution
-
-#### ONLINE FINANCE
-
-#### AND PAYMENTS
-
-#### Keep financial details from
-
-#### prying eyes
-
-#### BACKUPS AND PROTECTION
-
-#### Backup and update
-
-#### for safety
-
-#### PASSWORDS
-
-#### Create strong passwords
-
-#### to be secure
-
-#### SURFING SAFELY
-
-#### Avoid malware—keep to
-
-#### trusted websites
-
-#### TABLETS AND
-
-#### MOBILES
-
-#### Be mindful when
-
-#### using free Wi-Fi
-
-#### REPORTING
-
-#### Keep everyone safe by
-
-#### reporting scams
-
-#### Action plan
-
-#### Initiative Description Who benefits?
-
-#### Actions by governments
+#### How do I stay secure online? — PRIVACY — Be wary of what is shared — and with whom — SUSPICIOUS MESSAGING — Treat any unexpected messages with caution — ONLINE FINANCE — AND PAYMENTS — Keep financial details from — prying eyes — BACKUPS AND PROTECTION — Backup and update — for safety — PASSWORDS — Create strong passwords — to be secure — SURFING SAFELY — Avoid malware—keep to — trusted websites — TABLETS AND — MOBILES — Be mindful when — using free Wi-Fi — REPORTING — Keep everyone safe by — reporting scams — Action plan — Initiative Description Who benefits? — Actions by governments
 
 — Australia’s critical
 
@@ -1128,9 +1058,7 @@ In the longer-term, the Australian Government will consider whether additional s
 
 78 An Industry Advisory Committee will also be established to guide the implementation of this Strategy. The Industry Advisory Committee will provide ongoing advice about the best ways to address Australia’s cyber security challenges, and will report directly to the Minister for Home Affairs. The Industry Advisory Committee will make public reports about the progress of this Strategy. This builds on the success of the Industry Advisory Panel that assisted in developing this Strategy.
 
-#### Initiative How the Australian Government will measure success
-
-#### Actions by governments
+#### Initiative How the Australian Government will measure success — Actions by governments
 
 — Arrangements are in place for the Australian Government to respond to a
 
@@ -1272,11 +1200,7 @@ Report cyber crime — Increased understanding of the impacts of cyber crime on
 
 the community.
 
-#### Appendix A: Cyber Security Strategy 2020 Funding Commitments
-
-#### Measure Expenditure
-
-#### Cyber Enhanced Situational Awareness and Response
+#### Appendix A: Cyber Security Strategy 2020 Funding Commitments Measure Expenditure Cyber Enhanced Situational Awareness and Response
 
 — Assistance to critical infrastructure providers
 
@@ -1368,9 +1292,7 @@ $14.9 million
 
 $40.0 million
 
-#### Support to small and medium enterprises and vulnerable Australians
-
-#### $63.4 million
+#### Support to small and medium enterprises and vulnerable Australians — $63.4 million
 
 — Expansion of Australian Cyber Security Centre’s support to small and medium enterprises
 
@@ -1396,15 +1318,13 @@ $10.0 million
 
 $6.1 million
 
-#### Enhance the cyber security of universities $1.6 million
-
-#### Total $1,670.0 million
+#### Enhance the cyber security of universities $1.6 million — Total $1,670.0 million
 
 Totals may vary due to rounding
 
 #### Where can I go for more cyber security information?
 
-#### If there is a threat to life or risk of harm, please call 000.
+If there is a threat to life or risk of harm, please call 000.
 
 For non-emergencies, cyber.gov.au is the Australian Government’s one stop shop for up-to-date cyber security advice, cyber security resources and incident reporting. At cyber.gov.au you can report:
 

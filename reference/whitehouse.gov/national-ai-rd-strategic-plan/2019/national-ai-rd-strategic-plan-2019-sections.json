@@ -18,42 +18,10 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "A Report by the",
+    "section_name": "A Report by the — SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE — of the — NATIONAL SCIENCE & TECHNOLOGY COUNCIL",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "of the",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "NATIONAL SCIENCE & TECHNOLOGY COUNCIL",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "JUNE 2019",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Dear Colleagues,\n\nIn his State of the Union address on February 5, 2019, President Trump stressed the importance of ensuring American leadership in the development of emerging technologies, including artificial intelligence (AI), that make up the Industries of the Future. Reflecting this importance, on February 11, 2019, President Trump signed Executive Order 13859, which established the American Artificial Intelligence Initiative. This Initiative is a whole-of-government approach for maintaining American leadership in AI and ensuring that AI benefits the American people and reflects our Nation’s values. The first directive in this Executive Order is for Federal agencies to prioritize AI research and development (R&D) in their annual budgeting and planning process. The attached National AI R&D Strategic Plan: 2019 Update highlights the key priorities for Federal investment in AI R&D.\n\nArtificial intelligence presents tremendous opportunities that are leading to breakthroughs in improved healthcare, safer and more efficient transportation, personalized education, significant scientific discoveries, improved manufacturing, increased agricultural crop yields, better weather forecasting, and much more. These benefits are largely due to decades of long-term Federal investments in fundamental AI R&D, which have led to new theories and approaches for AI systems, as well as applied research that allows the translation of AI into practical applications.\n\nThe landscape for AI R&D is becoming increasingly complex, due to the significant investments that are being made by industry, academia, and nonprofit organizations. Additionally, AI advancements are progressing rapidly. The Federal Government must therefore continually reevaluate its priorities for AI R&D investments, to ensure that investments continue to advance the cutting edge of the field and are not unnecessarily duplicative of industry investments.\n\nIn August of 2018, the Administration directed the Select Committee on AI to refresh the 2016 National AI R&D Strategic Plan. This process began with the issuance of a Request for Information to solicit public input on ways that the strategy should be revised or improved. The responses to this RFI, as well as an independent agency review, informed this update to the Strategic Plan.\n\nIn this Strategic Plan, eight strategic priorities have been identified. The first seven strategies continue from the 2016 Plan, reflecting the reaffirmation of the importance of these strategies by multiple respondents from the public and government, with no calls to remove any of the strategies. The eighth strategy is new and focuses on the increasing importance of effective partnerships between the Federal Government and academia, industry, other non-Federal entities, and international allies to generate technological breakthroughs in AI and to rapidly transition those breakthroughs into capabilities.\n\nWhile this Plan does not define specific research agendas for Federal agency investments, it does provide an expectation for the overall portfolio for Federal AI R&D investments. This coordinated Federal strategy for AI R&D will help the United States continue to lead the world in cutting-edge advances in AI that will grow our economy, increase our national security, and improve quality of life.\n\nSincerely,\n\nMichael Kratsios Deputy Assistant to the President for Technology Policy June 21, 2019"
+    "body": "JUNE 2019\n\nDear Colleagues,\n\nIn his State of the Union address on February 5, 2019, President Trump stressed the importance of ensuring American leadership in the development of emerging technologies, including artificial intelligence (AI), that make up the Industries of the Future. Reflecting this importance, on February 11, 2019, President Trump signed Executive Order 13859, which established the American Artificial Intelligence Initiative. This Initiative is a whole-of-government approach for maintaining American leadership in AI and ensuring that AI benefits the American people and reflects our Nation’s values. The first directive in this Executive Order is for Federal agencies to prioritize AI research and development (R&D) in their annual budgeting and planning process. The attached National AI R&D Strategic Plan: 2019 Update highlights the key priorities for Federal investment in AI R&D.\n\nArtificial intelligence presents tremendous opportunities that are leading to breakthroughs in improved healthcare, safer and more efficient transportation, personalized education, significant scientific discoveries, improved manufacturing, increased agricultural crop yields, better weather forecasting, and much more. These benefits are largely due to decades of long-term Federal investments in fundamental AI R&D, which have led to new theories and approaches for AI systems, as well as applied research that allows the translation of AI into practical applications.\n\nThe landscape for AI R&D is becoming increasingly complex, due to the significant investments that are being made by industry, academia, and nonprofit organizations. Additionally, AI advancements are progressing rapidly. The Federal Government must therefore continually reevaluate its priorities for AI R&D investments, to ensure that investments continue to advance the cutting edge of the field and are not unnecessarily duplicative of industry investments.\n\nIn August of 2018, the Administration directed the Select Committee on AI to refresh the 2016 National AI R&D Strategic Plan. This process began with the issuance of a Request for Information to solicit public input on ways that the strategy should be revised or improved. The responses to this RFI, as well as an independent agency review, informed this update to the Strategic Plan.\n\nIn this Strategic Plan, eight strategic priorities have been identified. The first seven strategies continue from the 2016 Plan, reflecting the reaffirmation of the importance of these strategies by multiple respondents from the public and government, with no calls to remove any of the strategies. The eighth strategy is new and focuses on the increasing importance of effective partnerships between the Federal Government and academia, industry, other non-Federal entities, and international allies to generate technological breakthroughs in AI and to rapidly transition those breakthroughs into capabilities.\n\nWhile this Plan does not define specific research agendas for Federal agency investments, it does provide an expectation for the overall portfolio for Federal AI R&D investments. This coordinated Federal strategy for AI R&D will help the United States continue to lead the world in cutting-edge advances in AI that will grow our economy, increase our national security, and improve quality of life.\n\nSincerely,\n\nMichael Kratsios Deputy Assistant to the President for Technology Policy June 21, 2019"
   },
   {
     "depth": 2,
@@ -101,63 +69,7 @@
     "section_name": "An Overview of the 2019 Update to the 2016 National AI R&D Strategic Plan",
     "id_kind": "",
     "parent_id": "",
-    "body": "Together, the Select Committee on AI, the NSTC Subcommittee on Machine Learning and AI, and the AI R&D Interagency Working Group of NITRD reviewed the input regarding the National AI R&D Strategic Plan. Each of the original seven focus areas or strategies of the 2016 Plan was reaffirmed by multiple respondents from the public and government, with no calls to remove any one strategy. These strategies, updated in this 2019 Update to the Strategic Plan to reflect the current state of the art, are:"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 1: Make long-term investments in AI research;",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 2: Develop effective methods for human-AI collaboration;",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 3: Understand and address the ethical, legal, and societal implications of AI;",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 4: Ensure the safety and security of AI systems;",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 5: Develop shared public datasets and environments for AI training and testing;",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Strategy 6: Measure and evaluate AI technologies through standards and benchmarks; and"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 7: Better understand the national AI R&D workforce needs.",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "8 https://www.whitehouse.gov/wp-content/uploads/2018/05/Summary-Report-of-White-House-AI-Summit.pdf\n\n– 3 –\n\nMany responses to the RFI called for greater Federal Government R&D engagement with the private sector, given the fast rise of privately funded AI R&D, and the rapid adoption of AI by industry. As a result, the 2019 Update incorporates a new, eighth strategy:"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Strategy 8: Expand public-private partnerships to accelerate advances in AI.",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Feedback from the public and Federal agencies identified a number of specific challenges to further AI development and adoption. These challenges, many of which cut across multiple agencies, provide enhanced insight into ways that this National AI R&D Strategic Plan can guide the course of AI R&D in America, and many closely relate to the themes addressed in the 2019 Executive Order on Maintaining American Leadership in Artificial Intelligence. Examples include the following:\n\n• Research at the frontiers. Even though machine learning has brought phenomenal new capabilities in the past several years, continued research is needed to further push the frontiers of ML, as well as to develop additional approaches to the tough technical challenges of AI (Strategy 1). • Positive impact. As AI capabilities grow, the United States must place increased emphasis on developing new methods to ensure that AI’s impacts are robustly positive into the future (Strategies 1, 3, and 4). • Trust and explainability. Truly trustworthy AI requires explainable AI, especially as AI systems grow in scale and complexity; this requires a comprehensive understanding of the AI system by the human user and the human designer (Strategies 1, 2, 3, 4, and 6). • Safety and security. Researchers must devise methods to keep AI systems and the data they use secure so that the Nation can leverage the opportunities afforded by this technology while also maintaining confidentiality and safety (Strategies 4, 5, and 6). • Technical standards. As the Nation develops techniques to expand both AI abilities and assurance, it must test and benchmark them; when the techniques are ready, they should be turned into technical standards for the world (Strategy 6). • Workforce capability. Accomplishing these goals will require growing a skilled AI R&D workforce that is currently limited and in high demand; the United States must be creative and bold in training and acquiring the skilled workforce it needs to lead the world in AI research and applications (Strategy 7). • Partnerships. Advances in AI R&D increasingly require effective partnerships between the Federal Government and academia, industry, and other non-Federal entities to generate technological breakthroughs in AI and to rapidly transition those breakthroughs into capabilities (Strategy 8). • Cooperation with allies. Additionally, the Plan recognizes the importance of international cooperation for successful implementation of these goals, while protecting the American AI R&D enterprise from strategic competitors and adversarial nations."
+    "body": "Together, the Select Committee on AI, the NSTC Subcommittee on Machine Learning and AI, and the AI R&D Interagency Working Group of NITRD reviewed the input regarding the National AI R&D Strategic Plan. Each of the original seven focus areas or strategies of the 2016 Plan was reaffirmed by multiple respondents from the public and government, with no calls to remove any one strategy. These strategies, updated in this 2019 Update to the Strategic Plan to reflect the current state of the art, are:\n\nStrategy 1: Make long-term investments in AI research;\n\nStrategy 2: Develop effective methods for human-AI collaboration;\n\nStrategy 3: Understand and address the ethical, legal, and societal implications of AI;\n\nStrategy 4: Ensure the safety and security of AI systems;\n\nStrategy 5: Develop shared public datasets and environments for AI training and testing;\n\nStrategy 6: Measure and evaluate AI technologies through standards and benchmarks; and\n\nStrategy 7: Better understand the national AI R&D workforce needs.\n\n8 https://www.whitehouse.gov/wp-content/uploads/2018/05/Summary-Report-of-White-House-AI-Summit.pdf\n\n– 3 –\n\nMany responses to the RFI called for greater Federal Government R&D engagement with the private sector, given the fast rise of privately funded AI R&D, and the rapid adoption of AI by industry. As a result, the 2019 Update incorporates a new, eighth strategy:\n\nStrategy 8: Expand public-private partnerships to accelerate advances in AI.\n\nFeedback from the public and Federal agencies identified a number of specific challenges to further AI development and adoption. These challenges, many of which cut across multiple agencies, provide enhanced insight into ways that this National AI R&D Strategic Plan can guide the course of AI R&D in America, and many closely relate to the themes addressed in the 2019 Executive Order on Maintaining American Leadership in Artificial Intelligence. Examples include the following:\n\n• Research at the frontiers. Even though machine learning has brought phenomenal new capabilities in the past several years, continued research is needed to further push the frontiers of ML, as well as to develop additional approaches to the tough technical challenges of AI (Strategy 1). • Positive impact. As AI capabilities grow, the United States must place increased emphasis on developing new methods to ensure that AI’s impacts are robustly positive into the future (Strategies 1, 3, and 4). • Trust and explainability. Truly trustworthy AI requires explainable AI, especially as AI systems grow in scale and complexity; this requires a comprehensive understanding of the AI system by the human user and the human designer (Strategies 1, 2, 3, 4, and 6). • Safety and security. Researchers must devise methods to keep AI systems and the data they use secure so that the Nation can leverage the opportunities afforded by this technology while also maintaining confidentiality and safety (Strategies 4, 5, and 6). • Technical standards. As the Nation develops techniques to expand both AI abilities and assurance, it must test and benchmark them; when the techniques are ready, they should be turned into technical standards for the world (Strategy 6). • Workforce capability. Accomplishing these goals will require growing a skilled AI R&D workforce that is currently limited and in high demand; the United States must be creative and bold in training and acquiring the skilled workforce it needs to lead the world in AI research and applications (Strategy 7). • Partnerships. Advances in AI R&D increasingly require effective partnerships between the Federal Government and academia, industry, and other non-Federal entities to generate technological breakthroughs in AI and to rapidly transition those breakthroughs into capabilities (Strategy 8). • Cooperation with allies. Additionally, the Plan recognizes the importance of international cooperation for successful implementation of these goals, while protecting the American AI R&D enterprise from strategic competitors and adversarial nations."
   },
   {
     "depth": 3,

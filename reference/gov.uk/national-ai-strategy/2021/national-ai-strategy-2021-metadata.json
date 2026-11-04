@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 35-page PDF (https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf) locally via PyMuPDF (135,850 chars). Parsed 73 sections (4 with explicit section identifiers)."
+    "notes": "Extracted 35-page PDF (https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf) locally via PyMuPDF (135,850 chars). Parsed 32 sections (4 with explicit section identifiers)."
   },
   "extraction_history": [
     {

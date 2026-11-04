@@ -306,7 +306,7 @@ how nation states can use cybercriminal tools, and
 
 vice versa.
 
-* NotPetya malware: a particular piece of malicious software that spread across the internet and encrypted (locked up) files on an infected computer system. A number of states have attributed this malware to Russian state actors.
+* NotPetya malware:  a particular piece of malicious software that spread across the internet and encrypted (locked up) files on an infected computer system. A number of states have attributed this malware to Russian state actors.
 
 Cyber risks are growing in an increasingly contested
 
@@ -476,9 +476,7 @@ But the world has shifted since 2015 and our
 
 response has to adapt to these changes.
 
-### Social engineering is one of the most commonly used techniques
-
-among cyber criminals.
+Social engineering is one of the most commonly used techniques among cyber criminals.
 
 For example, in a recent case, an employee of
 
@@ -536,37 +534,29 @@ public and private sector organisations
 
 protect themselves 3445
 
-### incidents reported in 2018
-
-### OVER
+incidents reported in 2018 — OVER
 
 ## 347
 
-### incidents recorded from 1 July 2017 to
+incidents recorded from 1 July 2017 to
 
 ## $14.1m
 
-### in total financial loss
+in total financial loss — Most reported incidents: phishing and credential harvesting (stealing people’s IDs and passwords)
 
-### Most reported incidents: phishing and credential harvesting (stealing people’s IDs and passwords)
-
-### 30 June 2018
+30 June 2018
 
 ## 39%
 
-### of those incidents linked to state-sponsored actors
+of those incidents linked to state-sponsored actors
 
 ## What does this mean for New Zealand?
 
-### New Zealanders and their businesses are losing
+New Zealanders and their businesses are losing money every day.
 
-money every day.
+People’s accounts and personal data are being compromised.
 
-### People’s accounts and personal data are being
-
-compromised.
-
-### State-sponsored actors are targeting organisations that are significant to
+State-sponsored actors are targeting organisations that are significant to
 
 New Zealand.
 
@@ -776,11 +766,7 @@ so our ability and willingness to adapt to change and
 
 collaborate is critical.
 
-### Cyber security aware and active citizens
-
-### Strong and capable cyber security workforce and ecosystem
-
-### Internationally active
+### Cyber security aware and active citizens — Strong and capable cyber security workforce and ecosystem — Internationally active
 
 An annual work programme will accompany the
 
@@ -792,9 +778,7 @@ The responsible Minister will release a public annual
 
 report on progress under each of the priority areas.
 
-### Resilient and responsive New Zealand
-
-### Proactively tackle cybercrime
+Resilient and responsive New Zealand — Proactively tackle cybercrime
 
 ## Cyber security aware and active citizens
 
@@ -956,45 +940,45 @@ before it affects our communities
 
 ## Glossary
 
-5G technology 5G is the 5th generation of mobile technology. It is likely to bring higher rates of data transmission, reliability, and connectivity.
+5G technology  5G is the 5th generation of mobile technology. It is likely to bring higher rates of data transmission, reliability, and connectivity.
 
-Artificial intelligence A computerised system capable of simulating human decision making and learning, including performing cognitive functions associated with the human mind including learning and language.
+Artificial intelligence  A computerised system capable of simulating human decision making and learning, including performing cognitive functions associated with the human mind including learning and language.
 
-Credential harvesting Collecting legitimate users’ usernames and passwords to gain access to target systems, for malicious purposes.
+Credential harvesting  Collecting legitimate users’ usernames and passwords to gain access to target systems, for malicious purposes.
 
-Critical infrastructure/critical national infrastructure Physical and digital assets, services, and supply chains, the disruption (loss, compromise) of which would severely impact the maintenance of national security, public safety, fundamental rights, and well-being of all New Zealanders.
+Critical infrastructure/critical national infrastructure  Physical and digital assets, services, and supply chains, the disruption (loss, compromise) of which would severely impact the maintenance of national security, public safety, fundamental rights, and well-being of all New Zealanders.
 
 Cyber attack Deliberate exploitation of information systems to cause harm.
 
-Cyber incident An event, whether intentional or not, that causes adverse consequences to an information system or its data.
+Cyber incident  An event, whether intentional or not, that causes adverse consequences to an information system or its data.
 
-Cyber security Protecting people and their computers, networks, programs and data from unauthorised access, exploitation, or modification.
+Cyber security  Protecting people and their computers, networks, programs and data from unauthorised access, exploitation, or modification.
 
 Cyber terrorism The use of computer systems in committing a terrorist act.
 
-Cybercrime Crimes that are committed through the use of computer systems, and are directed at computer systems. Examples include producing malicious software, denial of service attacks, and phishing.
+Cybercrime  Crimes that are committed through the use of computer systems, and are directed at computer systems. Examples include producing malicious software, denial of service attacks, and phishing.
 
-Cyber-enabled crime Crimes that are assisted, facilitated or escalated in scale by the use of technology. Examples are cyber-enabled fraud and the online distribution of child exploitation material.
+Cyber-enabled crime  Crimes that are assisted, facilitated or escalated in scale by the use of technology. Examples are cyber-enabled fraud and the online distribution of child exploitation material.
 
-Cyberspace The internet and everything connected to it – the global network of interdependent information systems, telecommunications networks and information technology infrastructures.
+Cyberspace  The internet and everything connected to it – the global network of interdependent information systems, telecommunications networks and information technology infrastructures.
 
-Distributed Denial of Service Attack (DDoS) A cyber attack that stops users from accessing a service or resource, by overloading that service with requests.
+Distributed Denial of Service Attack (DDoS)  A cyber attack that stops users from accessing a service or resource, by overloading that service with requests.
 
-Encryption The transformation of otherwise readable data into a form that conceals its original meaning, to prevent it from being known or used. Strong encryption is a fundamental element of good cyber security, which is increasingly critical to New Zealand’s national security and economic prosperity.
+Encryption  The transformation of otherwise readable data into a form that conceals its original meaning, to prevent it from being known or used. Strong encryption is a fundamental element of good cyber security, which is increasingly critical to New Zealand’s national security and economic prosperity.
 
-Information system/computer system A computer system for the collection, organization, storage and communication of information.
+Information system/computer system  A computer system for the collection, organization, storage and communication of information.
 
-Internet of Things Computing devices connected to the internet and embedded into everyday objects, enabling them to send and receive data.
+Internet of Things  Computing devices connected to the internet and embedded into everyday objects, enabling them to send and receive data.
 
-Malicious software/ malware Software designed to infiltrate or damage a computer system. Examples include computer viruses, worms, Trojans, spyware, and adware.
+Malicious software/ malware  Software designed to infiltrate or damage a computer system. Examples include computer viruses, worms, Trojans, spyware, and adware.
 
-Phishing Using fraudulent emails to persuade people to reveal confidential information, such as login or banking information.
+Phishing  Using fraudulent emails to persuade people to reveal confidential information, such as login or banking information.
 
-Quantum Computing Whereas a classical computer works with ones and zeros, quantum computers have the advantage of using ones, zeros and “superpositions” of ones and zeros. This means they can perform calculations at a far greater rate than classical computers.
+Quantum Computing  Whereas a classical computer works with ones and zeros, quantum computers have the advantage of using ones, zeros and “superpositions” of ones and zeros. This means they can perform calculations at a far greater rate than classical computers.
 
-Ransomware A type of malicious software that locks up the files on an information system until a ransom is paid.
+Ransomware  A type of malicious software that locks up the files on an information system until a ransom is paid.
 
-Software The programs used by a computer, as well as other information that it relies on to operate.
+Software  The programs used by a computer, as well as other information that it relies on to operate.
 
 2019 © Crown Copyright
 

@@ -1,7 +1,7 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"1","","Australia's Artificial Intelligence Action Plan (2021)","","",""
-"2","","AUSTRALIA’S AI ACTION PLAN","","",""
-"2","","JUNE 2021","","",""
+"1","","Australia's Artificial Intelligence Action Plan (2021)","","","AUSTRALIA’S AI ACTION PLAN
+
+JUNE 2021"
 "2","","industry.gov.au/ai-action-plan","","","© Commonwealth of Australia 2021
 
 Ownership of intellectual property rights
@@ -82,8 +82,9 @@ This suite of policies provide support for business adoption of emerging technol
 The new measures announced in the 2021–22 Budget and outlined in this Action Plan build on these existing policies by providing targeted assistance to specifically support the adoption and development of AI in Australia, to drive a range of desired outcomes.
 
 The time for further action is now. We are not alone in recognising the enormous economic, scientific, social, and environmental benefits AI provides, with global investment in AI continuing to increase, and the pace of AI product development accelerating. To capture these benefits, the AI Action Plan will coordinate the efforts and focus of government, businesses, researchers and the community."
-"2","","What is artificial intelligence (AI)?","","",""
-"3","","AI is a collection of interrelated technologies that can be used to solve problems autonomously and perform tasks to achieve defined objectives. In some cases, it can do this without explicit guidance from a human being (Hajkowicz et al. 2019:15). AI is more than just the mathematical algorithms that enable a computer to learn from text, images or sounds. It is the ability for a computational system to sense its environment, learn, predict and take independent action to control virtual","","","or physical infrastructure.
+"2","","What is artificial intelligence (AI)?","","","AI is a collection of interrelated technologies that can be used to solve problems autonomously and perform tasks to achieve defined objectives. In some cases, it can do this without explicit guidance from a human being (Hajkowicz et al. 2019:15). AI is more than just the mathematical algorithms that enable a computer to learn from text, images or sounds. It is the ability for a computational system to sense its environment, learn, predict and take independent action to control virtual
+
+or physical infrastructure.
 
 Farmers use AI solutions to inform how to tend to their crops. Image credit: Getty
 
@@ -232,31 +233,25 @@ Digital Atlas of Australia will allow us to draw unique insights into the Austra
 Australian Data Strategy to set out how the Australian Government will enhance the effective, safe and secure use of data and provide greater understanding of the government’s policy settings
 
 The Consumer Data Right gives consumers more choice and control about how their data is used and shared"
-"2","","HOW AI IS TRANSFORMING AUSTRALIA","","",""
-"2","","Logistics","","",""
-"2","","Seeing Machines","","","Truck drivers and logistic companies are safer on our roads thanks to Canberra-based Seeing Machines. By using computer vision to detect fatigue and provide alerts to reduce accidents, they have kept drivers safe for over 6.5 billion kilometres and created over 100 direct jobs since 2015.
+"2","","HOW AI IS TRANSFORMING AUSTRALIA — Logistics — Seeing Machines","","","Truck drivers and logistic companies are safer on our roads thanks to Canberra-based Seeing Machines. By using computer vision to detect fatigue and provide alerts to reduce accidents, they have kept drivers safe for over 6.5 billion kilometres and created over 100 direct jobs since 2015.
 
 IMPACT:  reduced fatigue events by more than 90%
 
 Driving monitoring system technology developed in Australia. Image courtesy of Seeing Machines."
-"2","","Utilities","","",""
-"2","","VAPAR","","","Sydney-based VAPAR is revolutionising how water and sewage pipes are maintained. Its technology solution analyses video footage from pipe inspections to detect cracks and blockages, an error-prone task that takes hours when done manually.
+"2","","Utilities — VAPAR","","","Sydney-based VAPAR is revolutionising how water and sewage pipes are maintained. Its technology solution analyses video footage from pipe inspections to detect cracks and blockages, an error-prone task that takes hours when done manually.
 
 IMPACT:  identified 15% more defects
 
 VAPAR’s AI models process pipe inspection video footage to detect various issues in pipes. The issues found are then used to grade the pipe’s health on a 1-5 scale. Image courtesy of VAPAR."
-"2","","Construction","","",""
-"2","","Voltin","","","Brisbane-based Voltin is bringing a 21st century solution to building façade inspections. Using machine learning and high-resolution cameras, its solution is automating inspections whilst keeping workers safer, reducing costs and speeding up accurate assessments.
+"2","","Construction — Voltin","","","Brisbane-based Voltin is bringing a 21st century solution to building façade inspections. Using machine learning and high-resolution cameras, its solution is automating inspections whilst keeping workers safer, reducing costs and speeding up accurate assessments.
 
 IMPACT:  reduced costs by 30%
 
 AI algorithm assigned defect identification. Image courtesy of Voltin."
-"2","","Food and beverage","","",""
-"2","","Green Atlas","","","Green Atlas is dedicated to assisting tree-crop growers in managing the life-cycle of each and every fruit on every tree in their orchards. Its product, Cartographer, uses an innovative combination of hardware and AI software that allows buds, flowers, fruitlet and fruit counts to be quickly and accurately mapped over entire orchards. Growers and agronomists can access an unprecedented level of detail, unmatched by manual methods, allowing crop management to be tailored to every tree.
+"2","","Food and beverage — Green Atlas","","","Green Atlas is dedicated to assisting tree-crop growers in managing the life-cycle of each and every fruit on every tree in their orchards. Its product, Cartographer, uses an innovative combination of hardware and AI software that allows buds, flowers, fruitlet and fruit counts to be quickly and accurately mapped over entire orchards. Growers and agronomists can access an unprecedented level of detail, unmatched by manual methods, allowing crop management to be tailored to every tree.
 
 IMPACT:  6000x faster A team of 5 Cartographers map 15,000 hectares of almonds in 3 weeks. Image courtesy of Green Atlas."
-"2","","Emergency services","","",""
-"2","","Spark by CSIRO’s Data61","","","Spark is a toolkit for the end-to-end processing, simulation and analysis of bushfires. The need for a flexible and customisable bushfire prediction tool motivated its development.
+"2","","Emergency services — Spark by CSIRO’s Data61","","","Spark is a toolkit for the end-to-end processing, simulation and analysis of bushfires. The need for a flexible and customisable bushfire prediction tool motivated its development.
 
 Spark uses a hybrid modelling approach to predict how and where bushfires might spread. AI plays a key role in this modelling process, deriving fuel and vegetation information from remotely sensed data sources. It then integrates this with weather data from the Bureau of Metrology and physics-based modelling to develop a range of simulations.
 
@@ -265,32 +260,27 @@ It was piloted in the 2019–20 bushfire season to help firefighters on the grou
 IMPACT:  fighting bushfires
 
 A simulated bushfire in Spark informing users of the spread of a fire if a wind change was to occur and the growth and speed at which it would burn. Image courtesy of the CSIRO’s Data 61."
-"2","","Medical products","","",""
-"2","","Coviu PhysioROM","","","Brisbane-based digital health business, Coviu, is currently in clinical trials for an AI-powered tool that measures a patient’s range of motion over video telehealth systems. The tool supports physiotherapists to free up hospital beds.
+"2","","Medical products — Coviu PhysioROM","","","Brisbane-based digital health business, Coviu, is currently in clinical trials for an AI-powered tool that measures a patient’s range of motion over video telehealth systems. The tool supports physiotherapists to free up hospital beds.
 
 IMPACT:  freeing up hospital beds
 
 Recording of a patient for range-of-motion analysis using a Webcam and a 3D motion capture system to validate algorithm accuracy. Image courtesy of Coviu."
-"2","","Human resources","","",""
-"2","","SafetyCulture","","","SafetyCulture is the operational heartbeat of working teams around the world. Its mobile-first operations platform leverages the power of human observation to identify issues and opportunities for businesses to improve every day. More than 28,000 organisations use its flagship products, iAuditor and EdApp, to perform checks, train staff, report issues, automate tasks and communicate fluidly. SafetyCulture powers over 600 million checks per year, approximately 50,000 lessons per day and millions of corrective actions. It gives leaders visibility and workers a voice in driving safety, quality and efficiency improvements.
+"2","","Human resources — SafetyCulture","","","SafetyCulture is the operational heartbeat of working teams around the world. Its mobile-first operations platform leverages the power of human observation to identify issues and opportunities for businesses to improve every day. More than 28,000 organisations use its flagship products, iAuditor and EdApp, to perform checks, train staff, report issues, automate tasks and communicate fluidly. SafetyCulture powers over 600 million checks per year, approximately 50,000 lessons per day and millions of corrective actions. It gives leaders visibility and workers a voice in driving safety, quality and efficiency improvements.
 
 IMPACT:  more than 600 checks per year
 
 SafetyCulture iAuditor product in use. Image courtesy of SafetyCulture."
-"2","","Clean energy","","",""
-"2","","Synengco","","","Brisbane-based engineering business, Synengco, built a ‘digital twin’ of an infrastructure, which serves as a real-time digital counterpart of the physical infrastructure. This digital twin allows the business to model and evaluate the impact of major business decisions. It has deployed this solution to one of Australia’s largest power generator to reduce costs and extend asset life.
+"2","","Clean energy — Synengco","","","Brisbane-based engineering business, Synengco, built a ‘digital twin’ of an infrastructure, which serves as a real-time digital counterpart of the physical infrastructure. This digital twin allows the business to model and evaluate the impact of major business decisions. It has deployed this solution to one of Australia’s largest power generator to reduce costs and extend asset life.
 
 IMPACT:  $8 million fuel savings per year"
-"2","","Recycling","","",""
-"2","","Advanced Circular Polymers","","","A digital twin is an exact virtual representation, or a virtual clone, of a physical asset (such as a building or power station). It is designed with advanced modelling and analytics capabilities, self-learning from the actual operation. The digital twin monitors the physical asset across its lifecycle. It provides real-time data to predict and prevent issues or costly downtimes and help optimise the lifespan of the asset. Image courtesy of Synengco.
+"2","","Recycling — Advanced Circular Polymers","","","A digital twin is an exact virtual representation, or a virtual clone, of a physical asset (such as a building or power station). It is designed with advanced modelling and analytics capabilities, self-learning from the actual operation. The digital twin monitors the physical asset across its lifecycle. It provides real-time data to predict and prevent issues or costly downtimes and help optimise the lifespan of the asset. Image courtesy of Synengco.
 
 Advanced Circular Polymers (ACP) runs Australia’s largest plastic recycling facility with a massive capacity of 70,000 tonnes per year. The recycling facility sorts the waste plastics using advanced AI-enabled robots. ACP is also developing advanced AI-enabled autonomous technologies needed for waste sorting, with financial support from the Cooperative Research Centres Projects initiative, ACP and the University of Melbourne.
 
 IMPACT:  AI-enabled autonomous sorting for plastic recycling
 
 A robotic unit that helps identify individual polymers and colour. Image courtesy of ACP."
-"2","","Environment","","",""
-"2","","Healthy Country AI Partnership","","","The Healthy Country AI partnership in Kakadu National Park is a pioneering program that is mixing responsible AI and science with Indigenous knowledge to solve complex environmental management problems and care for animal species and habitats. The partnership is part of the Australian Government’s National Environmental Science Program through its Northern Australia Environmental Resources Hub. It brings together Indigenous Traditional Owners and rangers, CSIRO, Microsoft, Parks Australia, the University of Western Australia and Charles Darwin University.
+"2","","Environment — Healthy Country AI Partnership","","","The Healthy Country AI partnership in Kakadu National Park is a pioneering program that is mixing responsible AI and science with Indigenous knowledge to solve complex environmental management problems and care for animal species and habitats. The partnership is part of the Australian Government’s National Environmental Science Program through its Northern Australia Environmental Resources Hub. It brings together Indigenous Traditional Owners and rangers, CSIRO, Microsoft, Parks Australia, the University of Western Australia and Charles Darwin University.
 
 Under the direction of Indigenous Traditional Owners and rangers, drones capture video footage in dual World Heritage-listed Kakadu National Park. The data is collected, labelled and interpreted using a combination of Indigenous knowledge, Microsoft AI, data visualisation and scientific research. The models allow rangers to regularly survey large areas that are difficult to access and removes the need for people to review thousands of hours of video to count animals and identify para grass in its different states (burnt, wet, growing, dead). Rangers can now rapidly assess the impact of reducing para grass weed spread on the abundance of culturally-important magpie geese on Kakadu’s Nardab floodplain. In 2018, only 50 magpie geese were counted. Nine months later, more than 1,800 have returned to the wetlands.
 
@@ -299,14 +289,12 @@ The Healthy Country AI partnership represents an end-to-end solution to support 
 IMPACT:  using AI to monitor precious habitats
 
 Magpie geese are ‘specialised feeders’ – they eat wild rice, spike rush and two other aquatic plants. But when para grass takes over a wetland, it out-competes these plants, leaving less food and less space for the male bird to build the nest. Image credit Rita Willaert via Flickr."
-"2","","Healthcare","","",""
-"2","","Project Sagasu","","","Fujitsu Australia, GE Healthcare, Macquarie University and Radian Network are collaborating to develop an AI solution to detect and monitor brain aneurysms on scans faster and more efficiently. The collaboration brings together their individual strengths and expertise. The project is refining the technology to create a fully commercialised solution. It aims to better equip radiologists to make early, potentially life-saving diagnoses and improve the quality of life for patients with aneurysms around the world.
+"2","","Healthcare — Project Sagasu","","","Fujitsu Australia, GE Healthcare, Macquarie University and Radian Network are collaborating to develop an AI solution to detect and monitor brain aneurysms on scans faster and more efficiently. The collaboration brings together their individual strengths and expertise. The project is refining the technology to create a fully commercialised solution. It aims to better equip radiologists to make early, potentially life-saving diagnoses and improve the quality of life for patients with aneurysms around the world.
 
 IMPACT:  working to detect brain aneurysms with AI
 
 CT scan of the brain showing the circle of Willis. Image courtesy of Fujistsu Australia Limited."
-"2","","FOCUS ONE: DEVELOPING AND ADOPTING AI TO TRANSFORM AUSTRALIAN BUSINESSES","","",""
-"2","","Creating jobs and increasing the productivity and competitiveness of Australian businesses","","","We use AI every day in products and services that help us manage businesses, make office work productive and increase efficiencies on factory floors and farms. It enables us to introduce incremental efficiencies into our routine tasks. But AI can do much more – AI can transform the way we do business and lock in our future competitiveness.
+"2","","FOCUS ONE: DEVELOPING AND ADOPTING AI TO TRANSFORM AUSTRALIAN BUSINESSES — Creating jobs and increasing the productivity and competitiveness of Australian businesses","","","We use AI every day in products and services that help us manage businesses, make office work productive and increase efficiencies on factory floors and farms. It enables us to introduce incremental efficiencies into our routine tasks. But AI can do much more – AI can transform the way we do business and lock in our future competitiveness.
 
 AI technologies are facilitating data-driven business models (Seagate 2018) that enable businesses – from local cafés to advanced manufacturers to:
 
@@ -345,8 +333,7 @@ The Tax incentives for early stage investors provide tax concessions to investor
 The Early Stage Venture Capital Limited Partnerships (ESVCLP) and Venture Capital Limited Partnerships (VCLP) programs are designed to increase venture capital investment in Australia. The ESVCLP program aims to increase investment in startups through Australian early stage venture capital funds by providing tax offsets and capital gains tax exemptions on eligible investments. The VCLP program is also aimed at increasing investment through Australia’s venture capital sector by providing tax concessions to eligible foreign investors.
 
 The Australian Government is also allowing taxpayers to self-assess the effective life of depreciating intangible assets such as patents, registered designs, copyright and in-house software for tax purposes. This change reduces the cost of investment for business and aligns the tax treatment of these intangible assets with the treatment of tangible assets."
-"2","","FOCUS TWO: CREATING AN ENVIRONMENT TO GROW AND ATTRACT THE WORLD’S BEST AI TALENT","","",""
-"2","","Ensuring that Australian businesses have access to world-class talent","","","Australia has produced some of the world’s finest AI minds and is an attractive destination for global AI talent. To remain competitive and realise the benefits of an AI-economy, our workforce must constantly retool and reskill (RMIT 2021).
+"2","","FOCUS TWO: CREATING AN ENVIRONMENT TO GROW AND ATTRACT THE WORLD’S BEST AI TALENT — Ensuring that Australian businesses have access to world-class talent","","","Australia has produced some of the world’s finest AI minds and is an attractive destination for global AI talent. To remain competitive and realise the benefits of an AI-economy, our workforce must constantly retool and reskill (RMIT 2021).
 
 Technological change is creating new types of job opportunities. From 2014 to 2019, emerging professions associated with data and AI grew faster than other types of professions in 20 major economies, including Australia (Figure 1). Shortage of high-end AI talent is one of the most pressing challenges for businesses looking to deploy AI technologies (Silverpond 2019). The CSIRO’s Data61 estimates that industry will need up to 161,000 additional AI specialist workers by 2030 (Hajkowicz et al. 2019:iv).
 
@@ -415,8 +402,7 @@ The Global Business and Talent Attraction Taskforce is actively targeting except
 The government’s demand-driven skills system is supporting Australians to acquire the skills and training they need to meet the needs of the modern Australian workplace. The Job Ready Graduates package and JobTrainer Fund are ensuring Australians can skill up for their future. They are also ensuring we build the right mix of skills needed to enable business to adopt and develop emerging technologies. The Job-Ready Graduates package is delivering more job-ready graduates in the disciplines and regions where they are needed most. The package is helping to drive the nation’s economic recovery from the COVID-19 pandemic. The JobTrainer Fund is providing additional training places in areas of identified skills need such as health, aged and disability care, IT and trades for job seekers and young people, including school leavers.
 
 The Boosting Apprenticeship Commencements wage subsidy is supporting businesses and Group Training Organisations to take on new apprentices and trainees to build a pipeline of skilled workers to support sustained economic recovery. As part of this measure, the Australian Apprenticeship Support Network will deliver additional Gateway Service places and enhanced In-Training Support for women interested in, or starting, an apprenticeship in a non-traditional trade occupation."
-"2","","FOCUS THREE: USING CUTTING EDGE AI TECHNOLOGIES TO SOLVE AUSTRALIA’S NATIONAL CHALLENGES","","",""
-"2","","Delivering the benefits of AI to all Australians","","","AI-powered solutions can help overcome some of our nation’s greatest challenges. The CSIRO’s Data61 outlined how AI can help lower energy costs, improve health outcomes and protect our environment (Hajkowicz et al. 2019). New measures in this action plan will help to unlock these opportunities.
+"2","","FOCUS THREE: USING CUTTING EDGE AI TECHNOLOGIES TO SOLVE AUSTRALIA’S NATIONAL CHALLENGES — Delivering the benefits of AI to all Australians","","","AI-powered solutions can help overcome some of our nation’s greatest challenges. The CSIRO’s Data61 outlined how AI can help lower energy costs, improve health outcomes and protect our environment (Hajkowicz et al. 2019). New measures in this action plan will help to unlock these opportunities.
 
 We have strong foundations to support our AI ambition. Australia possesses world-leading capabilities in AI research. As shown on Figure 3, Australian AI publications are being cited more than the world average. We can leverage our world-leading capabilities to build competitive advantage. The CSIRO’s Data61 enables collaboration between a global network of partners in government, industry and academia with an applied R&D focus in data science and engineering.
 
@@ -488,8 +474,7 @@ Invest in Defence AI – The Department of Defence is coordinating research and 
 
 The Business Research and Innovation Initiative (BRII) aims to drive innovation that addresses Australian Government policy and service delivery challenges, with the help of startups and SMEs. The BRII challenges are set by different government agencies and have covered topics ranging across biosecurity, child protection, water markets and policy design."
 "2","","FOUNDATIONAL POLICY SETTINGS","","","The Digital Atlas of Australia will bring together crucial datasets, allowing us to draw unique insights into the Australian economy. By combining a range of sources including infrastructure, environment, health and employment datasets, this national platform will facilitate new, detailed analyses of Australia’s demographics."
-"2","","FOCUS FOUR: MAKING AUSTRALIA A GLOBAL LEADER IN RESPONSIBLE AND INCLUSIVE AI","","",""
-"2","","AI needs to be built to reflect the values of the Australian community","","","The Australian Government recognises that to reap the benefits of AI it is vital that all Australians, from businesses to consumers, have trust in the technology. Australians need to be able to trust that the technology will be used responsibly and safely, and that AI promotes and improves inclusivity. As shown in Figure 3, while public acceptance of AI is trending positively, there is still a significant proportion of Australians who are hesitant about these new technologies (Lockey et al. 2020). Unless negative outcomes are minimised, lack of trust in AI technology will continue to be a major barrier to adopting and applying AI.
+"2","","FOCUS FOUR: MAKING AUSTRALIA A GLOBAL LEADER IN RESPONSIBLE AND INCLUSIVE AI — AI needs to be built to reflect the values of the Australian community","","","The Australian Government recognises that to reap the benefits of AI it is vital that all Australians, from businesses to consumers, have trust in the technology. Australians need to be able to trust that the technology will be used responsibly and safely, and that AI promotes and improves inclusivity. As shown in Figure 3, while public acceptance of AI is trending positively, there is still a significant proportion of Australians who are hesitant about these new technologies (Lockey et al. 2020). Unless negative outcomes are minimised, lack of trust in AI technology will continue to be a major barrier to adopting and applying AI.
 
 The Australian Government released the AI Ethics Framework in 2019 to guide businesses and governments developing and implementing AI in Australia. The framework includes 8 AI ethics principles to:
 
@@ -574,8 +559,7 @@ te’ or eve
 ile over 40% of people surveyed accept AI, t
 
 Source: Lockey et al. (2020), used with permission."
-"2","","Actions","","",""
-"2","","AI DIRECT MEASURES","","","Progress the implementation of Australia’s AI Ethics Principles – Some Australian Public Service (APS) agencies are already considering the AI ethics principles when applying AI. In addition, the Australian Government will publish case studies from its pilot of the principles with industry. The case studies will share lessons learnt to help other businesses to apply the principles and to inspire more businesses to do this. The businesses that participated in the pilot were Commonwealth Bank of Australia, Flamingo AI, Insurance Australia Group, Microsoft, the National Australia Bank and Telstra.
+"2","","Actions — AI DIRECT MEASURES","","","Progress the implementation of Australia’s AI Ethics Principles – Some Australian Public Service (APS) agencies are already considering the AI ethics principles when applying AI. In addition, the Australian Government will publish case studies from its pilot of the principles with industry. The case studies will share lessons learnt to help other businesses to apply the principles and to inspire more businesses to do this. The businesses that participated in the pilot were Commonwealth Bank of Australia, Flamingo AI, Insurance Australia Group, Microsoft, the National Australia Bank and Telstra.
 
 Continue to support Australia’s AI values internationally – The Australian Government will continue to ensure that Australia is represented internationally in multilateral and multi-stakeholder forums and processes. This includes:
 
@@ -645,7 +629,6 @@ The program will be open for applications in coming months."
 
  Four Capability Centres launched"
 "2","","Signs of success","","",""
-"3","","Action","","",""
 "3","","Action","",""," National Artificial Intelligence Centre"
 "3","","Focus Area","",""," AI and Digital Capability Centres"
 "3","","Focus Area","",""," Developing and adopting AI to transform Australian businesses
@@ -750,5 +733,6 @@ UNESCO (United Nations Educational, Scientific and Cultural Organization) (2020)
 
 World Economic Forum (2020) Jobs of Tomorrow: Mapping Opportunity in the New Economy, World Economic Forum, accessed 27 April 2021.
 
-Zhang D, Mishra S, Brynjolfsson E, Etchemendy J, Ganguli, D, Grosz B, Lyons T, Manyika J, Niebles J Sellitto M, Shoham Y, Clark J and Perrault R. (March 2021). The AI Index 2021 Annual Report, AI Index Steering Committee, Human-Centered AI Institute, Stanford University, Stanford, CA."
-"2","","industry.gov.au/ai-action-plan","","",""
+Zhang D, Mishra S, Brynjolfsson E, Etchemendy J, Ganguli, D, Grosz B, Lyons T, Manyika J, Niebles J Sellitto M, Shoham Y, Clark J and Perrault R. (March 2021). The AI Index 2021 Annual Report, AI Index Steering Committee, Human-Centered AI Institute, Stanford University, Stanford, CA.
+
+industry.gov.au/ai-action-plan"

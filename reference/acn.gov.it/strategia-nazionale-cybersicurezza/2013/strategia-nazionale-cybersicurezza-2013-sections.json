@@ -5,23 +5,7 @@
     "section_name": "Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (2013)",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Presidenza del Consiglio dei Ministri",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "QUADRO STRATEGICO NAZIONALE PER LA SICUREZZA DELLO SPAZIO CIBERNETICO",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Presidenza del Consiglio dei Ministri"
   },
   {
     "depth": 2,
@@ -29,44 +13,12 @@
     "section_name": "Dicembre 2013",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Presidenza del Consiglio dei Ministri",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Presidenza del Consiglio dei Ministri"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "QUADRO STRATEGICO NAZIONALE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "PER LA SICUREZZA DELLO SPAZIO CIBERNETICO",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Dicembre 2013",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Lista delle sigle e delle abbreviazioni",
+    "section_name": "Dicembre 2013 — Lista delle sigle e delle abbreviazioni",
     "id_kind": "",
     "parent_id": "",
     "body": "AG – Autorità Giudiziaria AGCOM – Autorità per le Garanzie nelle Comu­\n\nnicazioni AgID – Agenzia per l'Italia Digitale APT – Advanced Persistent Threat BYOD – Bring Your Own Device ccTLD – Country Code Top Level Domain CERT – Computer Emergency Response Team CERT-SPC – Computer Emergency Response\n\nTeam - Sistema Pubblico di Connettività CISR – Comitato Interministeriale per la Sicurez­\n\nza della Repubblica CLUSIT – Associazione Italiana per la Sicurezza\n\nInformatica CNA – Computer Network Attacks CNAIPIC – Centro Nazionale Anticrimine Infor­\n\nmatico per la Protezione delle Infrastrutture Critiche CND – Computer Network Defence CNE – Computer Network Exploitation CNO – Computer Network Operations CSBM – Confidence and Security Building Mea­\n\nsures CSDP – Common Security and Defence Policy DAG – Dipartimento dell’Amministrazione Gene­\n\nrale e del Personale e dei Servizi DDoS – Distributed Denial of Service DF – Digital Forensics DIS – Dipartimento Informazioni per la Sicurezza DNS – Domain Name System DPCM – Decreto del Presidente del Consiglio dei\n\nMinistri DSII – Direzione dei Sistemi Informativi e dell’In­\n\nnovazione EMEA – European, Middle East and Africa\n\nENISA – European Network and Information Se­\n\ncurity Agency F.A. – Forze Armate FF.PP. – Forze di Polizia IC – Infrastrutture Critiche ICE – Infrastrutture Critiche Europee ICT – Information & Communication Technolo­\n\ngies IoT – Internet of Things ISCOM – Istituto Superiore delle Comunicazioni\n\ne delle Tecnologie dell’Informazione ISP – Internet Service Provider IT – Information Technologies MEF – Ministero dell’Economia e delle Finanze NATO – North Atlantic Treaty Organization NCIRC – NATO Computer Incident Response Ca­\n\npability NSC – Nucleo per la Sicurezza Cibernetica ONU – Organizzazione delle Nazioni Unite OSCE – Organizzazione per la Sicurezza e la Coo­\n\nperazione in Europa PA – Pubblica Amministrazione PMI – Piccole e Medie Imprese R&S – Ricerca & Sviluppo SCADA – Supervisory Control and Data Acqui­\n\nsition SMS – Short Message Service SOC – Security Operations Center SPC – Sistema Pubblico di Connettività TCP/IP – Transmission Control Protocol/Internet\n\nProtocol QSN – Quadro Strategico Nazionale UE – Unione Europea ULS – Unità Locali di Sicurezza UTM – Unified Threat Management\n\nINDICE\n\nPrefazione........................................................................... 4\n\nExecutive Summary.............................................................. 8\n\nCapitolo 1 – Profili e tendenze evolutive delle minacce e delle vulnerabilità dei sistemi e delle reti di interesse nazionale........................................................................... 10\n\nCapitolo 2 – Strumenti e procedure per potenziare le capacità cibernetiche del Paese....................................... 18\n\nAllegato 1 – Ruoli e compiti dei soggetti pubblici................. 26\n\nAllegato 2 – Glossario........................................................ 39"
@@ -90,15 +42,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "CAPITOLO 1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "PROFILI E TENDENZE EVOLUTIVE DELLE MINACCE E DELLE VULNERABILITÀ DEI SISTEMI E DELLE RETI DI INTERESSE NAZIONALE",
+    "section_name": "CAPITOLO 1 — PROFILI E TENDENZE EVOLUTIVE DELLE MINACCE E DELLE VULNERABILITÀ DEI SISTEMI E DELLE RETI DI INTERESSE NAZIONALE",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -106,15 +50,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Introduzione",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Definizione",
+    "section_name": "Introduzione — Definizione",
     "id_kind": "",
     "parent_id": "",
     "body": "Lo spazio cibernetico è l’insieme delle infrastrutture informatiche interconnesse, comprensivo di hardware, software, dati ed utenti, nonché delle relazioni logiche, comunque stabilite, tra di essi. Esso dun­ que comprende internet, le reti di comu­ nicazione, i sistemi su cui poggiano i pro­ cessi informatici di elaborazione dati e le apparecchiature mobili dotate di connes­ sione di rete."
@@ -138,15 +74,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "La minaccia cibernetica ed i suoi attori",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Definizione",
+    "section_name": "La minaccia cibernetica ed i suoi attori — Definizione",
     "id_kind": "",
     "parent_id": "",
     "body": "Con minaccia cibernetica intendiamo l’insieme delle condotte controindicate che possono essere realizzate nel e tramite lo spazio cibernetico ovvero in danno di quest’ultimo e dei suoi elementi costitu­\n\ntivi. La minaccia si sostanzia nei c.d. at­ tacchi cibernetici: azioni più o meno au­ tomatizzate sulle reti da parte di singoli individui o organizzazioni, statuali e non, finalizzate a distruggere, danneggiare o ostacolare il regolare funzionamento dei sistemi, delle reti o dei sistemi attuatori di processo da essi controllati ovvero a compromettere l’autenticità, l’integrità, la disponibilità e la riservatezza dei dati ivi custoditi o che vi transitano.\n\nAttualmente gli attacchi più sofisticati possono essere realizzati attraverso l’uso di c.d. “armi cibernetiche” – ossia software malevoli appositamente sviluppati (defi­ niti “malware”), o un insieme di istruzioni informatiche – posti in essere con lo spe­ cifico intento di danneggiare o alterare un sistema informatico anche al fine di pro­ durre danni fisici."
@@ -189,15 +117,7 @@
     "section_name": "Il ruolo degli Stati",
     "id_kind": "",
     "parent_id": "",
-    "body": "Benché lo spazio cibernetico sia una realtà che trascende, sotto molti punti di vista, le frontiere nazionali, gli Stati ne sono, certamente, gli attori più rilevanti nella misura in cui hanno la primaria re­ sponsabilità per la protezione di reti ed infrastrutture collocate sul proprio terri­ torio, pur se detenute ed operate in massi­ ma parte dal settore privato.\n\nGli Stati, infatti, dispongono di ade­ guate risorse umane e finanziarie, oltre che della capacità di organizzare e gestire per lungo tempo organizzazioni comples­ se. In quanto tali, quindi, essi sono gli at­ tori maggiormente in grado di sviluppare una robusta capacità operativa nello spa­ zio cibernetico.\n\nSe l’assicurare la protezione, la resi­ lienza e la piena operatività delle proprie reti di comunicazione e controllo militari è, da sempre, un’esigenza vitale per ogni Stato, la creazione dello spazio ciberneti­ co (che supporta oggigiorno il funziona­ mento di pressoché ogni infrastruttura critica nazionale, oltre che dei processi produttivi dell’industria e della fornitura di servizi al cittadino) ha imposto la ne­ cessità d’ampliare tale capacità alla difesa delle reti critiche nazionali.\n\nGli attacchi cibernetici più sofistica­ ti, infatti, non solo sono potenzialmente in grado di danneggiare o paralizzare il funzionamento di gangli vitali dell’ap­ parato statale e la fornitura di servizi essenziali ai cittadini, ma possono avere anche effetti potenzialmente distruttivi (soprattutto in prospettiva) se impiega­ ti per indurre il malfunzionamento delle infrastrutture critiche (ad esempio reti di controllo del traffico aereo, dighe, impianti energetici, ecc.), generando danni materiali ingenti e la potenziale perdita di vite umane.\n\nIl vantaggio strategico derivante dalla possibilità d’infliggere un rilevan­ te danno ad assetti nazionali critici del nemico operando a distanza fa ritenere probabile che i futuri conflitti interna­ zionali comprenderanno anche lo spa­ zio cibernetico. Non sorprende, dunque, che la pianificazione delle forze, presso­ ché ovunque nel mondo, prenda in con­\n\nsiderazione la necessità d’assicurare un adeguato livello di cyber-defence agli as­ setti critici nazionali."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Spionaggio, sabotaggio, guerra, supply",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "chain threat\n\nLa difesa delle proprie reti implica lo sviluppo di un’efficiente e continua ca­ pacità di monitoraggio e di analisi degli attacchi. Si tratta di strumenti che alcu­ ni Stati stanno sviluppando, attraverso proprie strutture o mediante il ricorso a strutture para-statali, con intenti anche offensivi. Attualmente, diversi Governi si sono dotati delle necessarie capabilities per penetrare le reti nazionali degli altri Stati (in uso sia alle autorità pubbliche che ai privati) a fini di spionaggio o per mappa­ re i sistemi potenzialmente oggetto di un futuro attacco.\n\nIn tal senso è necessario segnalare come appaia concreto il rischio che al­ cuni Paesi mobilitino la propria industria nazionale al fine di alterare componen­ ti hardware da essa prodotte acquisendo così la capacità di superare in maniera pressoché irrilevabile ogni difesa posta in essere dall’utilizzatore dell’assetto finito."
+    "body": "Benché lo spazio cibernetico sia una realtà che trascende, sotto molti punti di vista, le frontiere nazionali, gli Stati ne sono, certamente, gli attori più rilevanti nella misura in cui hanno la primaria re­ sponsabilità per la protezione di reti ed infrastrutture collocate sul proprio terri­ torio, pur se detenute ed operate in massi­ ma parte dal settore privato.\n\nGli Stati, infatti, dispongono di ade­ guate risorse umane e finanziarie, oltre che della capacità di organizzare e gestire per lungo tempo organizzazioni comples­ se. In quanto tali, quindi, essi sono gli at­ tori maggiormente in grado di sviluppare una robusta capacità operativa nello spa­ zio cibernetico.\n\nSe l’assicurare la protezione, la resi­ lienza e la piena operatività delle proprie reti di comunicazione e controllo militari è, da sempre, un’esigenza vitale per ogni Stato, la creazione dello spazio ciberneti­ co (che supporta oggigiorno il funziona­ mento di pressoché ogni infrastruttura critica nazionale, oltre che dei processi produttivi dell’industria e della fornitura di servizi al cittadino) ha imposto la ne­ cessità d’ampliare tale capacità alla difesa delle reti critiche nazionali.\n\nGli attacchi cibernetici più sofistica­ ti, infatti, non solo sono potenzialmente in grado di danneggiare o paralizzare il funzionamento di gangli vitali dell’ap­ parato statale e la fornitura di servizi essenziali ai cittadini, ma possono avere anche effetti potenzialmente distruttivi (soprattutto in prospettiva) se impiega­ ti per indurre il malfunzionamento delle infrastrutture critiche (ad esempio reti di controllo del traffico aereo, dighe, impianti energetici, ecc.), generando danni materiali ingenti e la potenziale perdita di vite umane.\n\nIl vantaggio strategico derivante dalla possibilità d’infliggere un rilevan­ te danno ad assetti nazionali critici del nemico operando a distanza fa ritenere probabile che i futuri conflitti interna­ zionali comprenderanno anche lo spa­ zio cibernetico. Non sorprende, dunque, che la pianificazione delle forze, presso­ ché ovunque nel mondo, prenda in con­\n\nsiderazione la necessità d’assicurare un adeguato livello di cyber-defence agli as­ setti critici nazionali.\n\nSpionaggio, sabotaggio, guerra, supply chain threat\n\nLa difesa delle proprie reti implica lo sviluppo di un’efficiente e continua ca­ pacità di monitoraggio e di analisi degli attacchi. Si tratta di strumenti che alcu­ ni Stati stanno sviluppando, attraverso proprie strutture o mediante il ricorso a strutture para-statali, con intenti anche offensivi. Attualmente, diversi Governi si sono dotati delle necessarie capabilities per penetrare le reti nazionali degli altri Stati (in uso sia alle autorità pubbliche che ai privati) a fini di spionaggio o per mappa­ re i sistemi potenzialmente oggetto di un futuro attacco.\n\nIn tal senso è necessario segnalare come appaia concreto il rischio che al­ cuni Paesi mobilitino la propria industria nazionale al fine di alterare componen­ ti hardware da essa prodotte acquisendo così la capacità di superare in maniera pressoché irrilevabile ogni difesa posta in essere dall’utilizzatore dell’assetto finito."
   },
   {
     "depth": 3,
@@ -245,36 +165,12 @@
     "section_name": "CYBER SECURITY",
     "id_kind": "",
     "parent_id": "",
-    "body": "FISICHE\n\nLOGICHE\n\nPROCEDURALI\n\nANALISI\n\nGESTIONE\n\nMITIGAZIONE\n\nFORMAZIONE, SENSIBILIZZAZIONE\n\nE RESPONSABILIZZAZIONE\n\nDEGLI UTENTI"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "MISURE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "RISCHIO",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "FISICHE\n\nLOGICHE\n\nPROCEDURALI\n\nANALISI\n\nGESTIONE\n\nMITIGAZIONE\n\nFORMAZIONE, SENSIBILIZZAZIONE\n\nE RESPONSABILIZZAZIONE\n\nDEGLI UTENTI\n\nMISURE — RISCHIO"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "CAPITOLO 2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "STRUMENTI E PROCEDURE PER POTENZIARE LE CAPACITÀ CIBERNETICHE DEL PAESE",
+    "section_name": "CAPITOLO 2 — STRUMENTI E PROCEDURE PER POTENZIARE LE CAPACITÀ CIBERNETICHE DEL PAESE",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -306,15 +202,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "ALLEGATO 1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "RUOLI E COMPITI DEI SOGGETTI PUBBLICI",
+    "section_name": "ALLEGATO 1 — RUOLI E COMPITI DEI SOGGETTI PUBBLICI",
     "id_kind": "",
     "parent_id": "",
     "body": "Il DPCM del 24 gennaio 2013 ha de­ lineato un assetto istituzionale preposto alla protezione cibernetica ed alla sicurez­ za informatica, nel quale i diversi attori in­ teressati, sia pubblici sia privati, agiscono in maniera integrata allo scopo di ridurre le vulnerabilità dello spazio cibernetico, identificare le minacce, prevenire i rischi ed accrescere le capacità di risposta a si­ tuazioni di crisi.\n\nAl vertice dell’architettura si colloca il Presidente del Consiglio dei Ministri, che adotta il Quadro Strategico ed il Piano Nazionale per la sicurezza dello spazio cibernetico, per la cui attuazione emana apposite direttive, supportato in ciò dal Comitato Interministeriale per la Sicurezza della Repubblica (CISR), il qua­ le, oltre a elaborare proposte di intervento normativo, approva le linee di indirizzo di­ rette a favorire la collaborazione pubbli­ co-privati nonché una politica di condivi­ sione delle informazioni e per l’adozione di best practices e di misure per la sicurez­ za cibernetica. La verifica dell’attuazione\n\ndelle misure previste dal Piano Nazionale per la sicurezza dello spazio cibernetico, quale emanazione del presente Quadro Strategico Nazionale, spetta ad un appo­ sito “organismo collegiale di coordina­ mento” (cd. CISR tecnico).\n\nA supporto del vertice politico ope­ ra il Comparto intelligence, che conduce attività di ricerca informativa, nonché provvede alla formulazione di analisi, va­ lutazioni e previsioni sulla minaccia ciber­ netica, alla promozione della cultura della sicurezza cibernetica, ed alla trasmissione di informazioni rilevanti al Nucleo per la Sicurezza Cibernetica, oltre che ad altri soggetti – pubblici e privati – interessati all’acquisizione di informazioni.\n\nIl Nucleo per la Sicurezza Cibernetica (NSC), istituito nell’ambito dell’Ufficio del Consigliere Militare presso la Presidenza del Consiglio dei Ministri, coordinando, nel rispetto delle rispettive competenze, i diversi attori che compongono l’architet­ tura istituzionale, provvede alla prevenzio­ ne e preparazione ad eventuali situazioni\n\ndi crisi ed all’attivazione delle procedure di allertamento. Ai fini della prevenzione e della preparazione ad eventuali situazioni di crisi, ferma restando, in capo alle distinte Amministrazioni, la responsabilità, la tito­ larità, la custodia, tutela ed elaborazione dei dati e delle informazioni contenute nelle singole basi di dati e/o archivi tele­ matici, il Nucleo:\n\n• promuove la programmazione e la pia­ nificazione operativa della risposta a situazioni di crisi cibernetica da parte dei soggetti pubblici e degli operatori privati interessati, e l’elaborazione delle procedure di coordinamento intermi­ nisteriale per la gestione delle crisi; • mantiene attiva (24/7) un’unità di al­ lertamento e risposta;\n\n• valuta e promuove procedure di con­ divisione delle informazioni per la diffusione di allarmi e per la gestione delle crisi; • acquisisce informazioni – anche da operatori privati che forniscono reti pubbliche di comunicazione o ser­ vizi di comunicazione elettronica accessibili al pubblico, o che gesti­ scono infrastrutture critiche di rilie­ vo nazionale ed europeo – in merito ad incidenti significativi concernen­ ti violazioni di sicurezza o perdita dell’integrità. I soggetti privati col­ laborano attivamente alla gestione delle crisi e contribuiscono al ripri­ stino della funzionalità dei sistemi e delle reti da essi gestiti;\n\n• promuove e coordina lo svolgimento di esercitazioni interministeriali e la partecipazione a quelle internazionali; • costituisce punto di riferimento na­ zionale per i rapporti con l’ONU, la NATO, la UE, altre organizzazioni in­ ternazionali ed altri Stati. Ai fini dell’attivazione delle azioni di ri­ sposta e ripristino, invece, il Nucleo riceve le segnalazioni di evento cibernetico e di­ rama i relativi allarmi. Laddove l’evento assuma dimensioni, intensità o natura tali da incidere sulla sicurezza naziona­ le o non possa essere fronteggiato dalle\n\nsingole amministrazioni competenti, ma richieda l’assunzione di decisioni coor­ dinate in sede interministeriale, dichiara la situazione di crisi cibernetica e attiva il Nucelo Interministeriale Situazione e Pianificazione (NISP), quale “Tavolo in­ terministeriale di crisi cibernetica”. Esso assicura che le attività di reazione e sta­ bilizzazione di competenza delle diverse Amministrazioni ed enti vengano esple­ tate in maniera coordinata, avvalendosi del Computer Emergency Response Team (CERT) nazionale, istituito presso il Ministero dello Sviluppo Economico."
@@ -386,15 +274,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "ALLEGATO 2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "GLOSSARIO",
+    "section_name": "ALLEGATO 2 — GLOSSARIO",
     "id_kind": "",
     "parent_id": "",
     "body": "AGCOM – Autorità per le Garanzie\n\nnelle Comunicazioni Autorità indipendente istituita dalla legge 249 del 1997, avente il duplice compito di assicurare, da un lato, la corretta competizione degli operatori sul mercato e, dall’altro, di tutelare i consumi e le liberta fondamentali dei cittadini.\n\nAPT – Advanced Persistent Threat\n\nMinaccia consistente in un attacco mirato, volto ad installare una serie di malware all’interno delle reti del bersaglio al fine di riuscire a mantene­ re attivi dei canali che servono a far uscire informazioni di valore dalle reti dell’ente obiettivo.\n\nBYOD – Bring Your Own Device\n\nPolitica che permette ai dipendenti di un’azienda di portare i propri dispo­ sitivi mobili (pc portatili, smartphone e tablet) sul posto di lavoro e di im­ piegarli per accedere ad informazioni e ad applicazioni aziendali come, ad esempio, la posta elettronica.\n\nccTLD – Country Code Top Level Do­\n\nmain Ultima parte del nome di dominio In­ ternet usato da uno Stato. È costituito da due lettere: “.it” per l’Italia.\n\nCERT – Computer Emergency Re­\n\nsponse Team Organizzazione con compiti di pre­ venzione e di coordinamento della risposta ad eventi cibernetici. Diversi CERT svolgono anche funzioni di for­ mazione ed informazione nei confron­ ti degli utenti.\n\nCERT-PA – Computer Emergency Re­\n\nsponse Team – Pubblica Ammini­ strazione Evoluzione del CERT-SPC (cfr. voce successiva) con competenza estesa ai sistemi informativi della Pubblica Amministrazione ed ai servizi erogati per il loro tramite, oltre che alla rete di interconnessione. Esso ha il compito di supportare e coordinare la PA nella prevenzione, risposta e rientro dagli incidenti.\n\nCERT-SPC – Computer Emergency\n\nResponse Team - Sistema Pubbli­ co di Connettività Struttura responsabile, a livello nazio­ nale, per la prevenzione, il monitorag­ gio, il coordinamento informativo e l’analisi degli incidenti di sicurezza in ambito SPC. Essa ha anche il compi­ to di assicurare l’applicazione di me­ todologie coerenti ed uniformi per la gestione degli incidenti informatici. Il CERT-SPC è referente delle Unità Locali di Sicurezza (ULS) istituite per ogni dominio connesso al SPC.\n\nCNA – Computer Network Attack\n\nAttività condotte nel e attraverso il cyber-spazio allo scopo di manipola­ re, interrompere il flusso, negare, de­ gradare o distruggere le informazioni presenti nei computer o nelle reti di computer, ovvero gli stessi computer o reti di computer.\n\nCNAIPIC – Centro Nazionale Anticri­\n\nmine Informatico per la Protezio­ ne delle Infrastrutture Critiche Il CNAIPIC, previsto dalla legge 155 del 2005 ed istituito con Decreto del Ministro dell’Interno del 9 febbraio 2008, è costituito in seno al Servizio di Polizia Postale e delle Comunica­ zioni, organo per la sicurezza e per l’integrità dei servizi di telecomunica­ zione del Ministero dell’Interno, Au­ torità Nazionale di Pubblica Sicurez­ za. Il centro, per espressa previsione normativa, ha il compito di garantire la prevenzione e la repressione dei crimini informatici rivolti verso le infrastrutture critiche o di rilevanza nazionale, anche attraverso rappor­ ti di partnership definiti in apposite\n\nconvenzioni con i responsabili delle strutture interessate.\n\nCND – Computer Network Defence\n\nAzioni intraprese con l’uso di reti di computer per proteggere, monitorare, analizzare, rilevare e contrastare le at­ tività non autorizzate condotte verso sistemi informatici e reti di computer.\n\nCNE – Computer Network Exploita­\n\ntion Operazioni condotte nel cyber-spazio al fine di acquisire informazioni da si­ stemi informatici o reti target o avver­ sarie. Trattasi di attività di intelligence o di attività prodromica ad un attacco cyber.\n\nCNO – Computer Network Operations\n\nCon tale termine si identificano ge­ nericamente attività di Computer Network Attack (CNA), Computer Network Defence (CND) e Computer Network Exploitation (CNE).\n\nCPS – Cyber Physical System\n\nSistema informatico che gestisce e controlla entità fisiche in settori quali le infrastrutture civili, il settore aero­ spaziale, dei trasporti, sanitario, ener­ getico e dei processi produttivi.\n\nCSBM – Confidence and Security\n\nBuilding Measures Misure volte a prevenire o a risolvere ostilità fra Stati e ad evitare un loro inasprimento, tramite lo sviluppo del­ la fiducia reciproca. Tali misure posso­ no avere natura formale o informale, unilaterale, bilaterale o multilaterale, militare o politica.\n\nDoS – Denial of Service\n\nAttacco volto a rendere un sistema informatico o una risorsa non dispo­ nibile ai legittimi utenti attraverso la saturazione delle risorse ed il sovrac­ carico delle connessioni di rete dei si­ stemi server.\n\nDDoS – Distributed Denial of Service\n\nAttacco DoS lanciato da un gran nu­ mero di sistemi compromessi ed infet­ ti (BotNet).\n\nDF – Digital Forensics\n\nDisciplina – anche detta computer forensics o informatica forense – che si occupa dell’identificazione, della conservazione, dell’analisi e della do­ cumentazione dei reperti informatici al fine di presentare valide prove digi­ tali in sede processuale sia civile che penale.\n\nDNS – Domain Name System\n\nSistema di denominazione del domi­ nio consistente in un database distri­ buito che converte in automatico un indirizzo web in un codice numerico di protocollo Internet (indirizzo IP) che identifica il server web che ospita il sito.\n\nENISA – European Network and In­\n\nformation Security Agency Agenzia dell’Unione Europea volta a garantire un elevato livello di sicurezza delle reti e dell’informazione attraverso pareri tecnici alle autorità nazionali e alle istituzioni dell’UE, lo scambio di buone pratiche, lo sviluppo dei contat­ ti tra le istituzioni comunitarie, le au­ torità nazionali e le imprese, e la pro­ mozione di una cultura della sicurezza.\n\nExploit\n\nCodice che sfrutta un bug o una vul­ nerabilità di un sistema informatico.\n\nIC – Infrastrutture Critiche\n\nInfrastruttura, ubicata in uno Stato membro dell’Unione Europea, che è essenziale per il mantenimento delle funzioni vitali della società, della salu­ te, della sicurezza e del benessere eco­ nomico e sociale della popolazione ed il cui danneggiamento o la cui distru­ zione avrebbe un impatto significativo in quello Stato, a causa dell’impossi­ bilità di mantenere tali funzioni (art. 2 lit. b) Direttiva 2008/114/CE);\n\nICE – Infrastrutture Critiche Europee\n\nInfrastruttura critica ubicata negli Stati membri dell’UE il cui danneg­ giamento o la cui distruzione avrebbe un significativo impatto su almeno due Stati membri. La rilevanza di tale impatto è valutata in termini interset­ toriali. Sono compresi gli effetti deri­ vanti da dipendenze intersettoriali in relazione ad altri tipi di infrastrutture (art. 2 lit. e) Direttiva 2008/114/CE).\n\nIngegneria sociale\n\nArte di manipolare psicologicamente le persone affinché compiano deter­ minate azioni o rivelino informazioni confidenziali, come le credenziali di accesso a sistemi informatici.\n\nIoE – Internet of Everything\n\nRete in cui persone, oggetti, dati e processi sono connessi tra loro attra­ verso Internet, e nella quale le infor­ mazioni vengono trasformate in tem­ po reale in azioni, creando così nuove e ad oggi inimmaginabili opportunità di business.\n\nIoT – Internet of Things\n\nNeologismo riferito all’estensione di Internet al mondo degli oggetti, i quali si rendono riconoscibili e acquisisco­ no intelligenza grazie al fatto di poter comunicare dati su se stessi e accede­ re ad informazioni aggregate da par­ te di altri. L’obiettivo è di far sì che il mondo elettronico tracci una mappa di quello reale, dando un’identità elet­ tronica alle cose e ai luoghi dell’am­ biente fisico. I campi di applicabilità sono molteplici: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’ef­ ficienza energetica, all’assistenza re­ mota e alla tutela ambientale.\n\nISP – Internet Service Provider\n\nSocietà che offre connessione e servi­ zi Internet a pagamento tramite linea telefonica quali connessioni Dialup e ISDN oppure a banda larga come fi­ bre ottiche o DSL.\n\nMalware\n\nContrazione di malicious software. Pro­ gramma inserito in un sistema in­ formatico, generalmente in modo clandestino, con l’intenzione di com­ promettere la riservatezza, l’integrità o la disponibilità dei dati, delle applica­ zioni o dei sistemi operativi dell’obiet­ tivo. A tale categoria generica appar­ tengono in via esemplificativa: virus, worm, trojan horse, backdoor, spywa­ re, dialer, hijacker, rootkit, scareware, rabbit, keylogger, bombe logiche, ecc.\n\nPhishing\n\nAttacco informatico avente, general­ mente, l’obiettivo di carpire informa­ zioni sensibili (userid, password, nu­\n\nmeri di carte di credito, PIN) con l’invio di false e-mail generiche a un gran nu­ mero di indirizzi. Le e-mail sono con­ gegnate per convincere i destinatari ad aprire un allegato o ad accedere a siti web falsi. Il phisher utilizza i dati ac­ quisiti per acquistare beni, trasferire somme di denaro o anche solo come “ponte” per ulteriori attacchi.\n\nReverse engineering\n\nAnalisi volta a comprendere il funzio­ namento di prodotti hardware e softwa­ re al fine di reingegnerizzarli, ad esem­ pio, per migliorarne il funzionamento o per impiegarli per fini diversi e ulte­ riori rispetto a quelli originari.\n\nSCADA – Supervisory Control and\n\nData Acquisition Sistemi impiegati per il monitoraggio ed il controllo di impianti e dispositivi in settori quali il controllo del traffico (aereo, ferroviario, automobilistico), della gestione dei sistemi di traspor­ to dei fluidi (acquedotti, gasdotti, oleodotti, ecc.), della distribuzione dell’energia elettrica, della gestione delle linee di produzione che realizza­ no i processi industriali, e del telerile­ vamento ambientale.\n\nSOC – Security Operations Center\n\nCentro che fornisce servizi finalizzati alla sicurezza dei sistemi informativi di un’azienda (SOC interno) o di clien­ ti esterni. Un SOC può anche fornire servizi di incident response: in questo caso svolge la funzione di Computer Security Incident Response Team (CSIRT), anche se spesso tale funzione fa capo ad un organo separato dell’azienda.\n\nTCP/IP – Transmission Control Pro­\n\ntocol/Internet Protocol Insieme di standard di protocolli svilup­ pato nella seconda metà degli anni ’70 dalla Defence Advanced Research Project Agency (DARPA), al fine di consentire la comunicazione tra diversi tipi di com­ puter e reti di computer. Il TCP/IP è, infatti, impiegato da Internet.\n\nUTM – Unified Threat Management\n\nProdotto di sicurezza integrato a pro­\n\ntezione da minacce multiple, compo­ sto da un firewall, software antivirus, e sistemi di filtraggio spam e dei conte­ nuti.\n\nWeb defacement\n\nAttacco condotto contro un sito web e consistente nel modificare i conte­ nuti dello stesso limitatamente alla home-page ovvero includendo anche le sottopagine del sito."

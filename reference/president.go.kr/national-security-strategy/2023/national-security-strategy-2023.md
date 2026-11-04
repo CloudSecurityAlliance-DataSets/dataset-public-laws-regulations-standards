@@ -1,8 +1,6 @@
 # The Yoon Suk Yeol Administration's National Security Strategy: Global Pivotal State for Freedom, Peace, and Prosperity (2023)
 
-## The Yoon Suk Yeol Administration’s National Security
-
-## Strategy
+## The Yoon Suk Yeol Administration’s National Security — Strategy
 
 Global Pivotal State for Freedom, Peace, and Prosperity
 
@@ -206,9 +204,7 @@ Global Economic Security
 
 Ⅰ
 
-## Overview of the National
-
-## Security Strategy
+## Overview of the National — Security Strategy
 
 1 ｜ Basic Direction of the National Security Strategy
 
@@ -1182,9 +1178,7 @@ Global Pivotal State for Freedom, Peace, and Prosperity 33
 
 Ⅲ
 
-## Conducting Diplomatic Cooperation Grounded in
-
-## Freedom and Solidarity
+## Conducting Diplomatic Cooperation Grounded in — Freedom and Solidarity
 
 “Those countries that share the universal values of freedom,
 
@@ -2478,11 +2472,7 @@ Global Pivotal State for Freedom, Peace, and Prosperity 63
 
 Ⅳ
 
-## Defending Liberal
-
-## Democracy and Contributing to Global
-
-## Prosperity
+## Defending Liberal — Democracy and Contributing to Global — Prosperity
 
 “As a responsible member of the international community,
 
@@ -2968,11 +2958,7 @@ Global Pivotal State for Freedom, Peace, and Prosperity 75
 
 Ⅴ
 
-## Developing a Powerful
-
-## and Technologically
-
-## Advanced Military
+## Developing a Powerful — and Technologically — Advanced Military
 
 “Through Defense Innovation 4.0, our Armed Forces must
 
@@ -3516,11 +3502,7 @@ Global Pivotal State for Freedom, Peace, and Prosperity 89
 
 Ⅵ
 
-## Building Peace on the
-
-## Korean Peninsula and Normalizing Inter-Korean
-
-## Relations
+## Building Peace on the — Korean Peninsula and Normalizing Inter-Korean — Relations
 
 “Peace on the Korean Peninsula and in Northeast Asia is
 
@@ -5060,11 +5042,7 @@ Global Pivotal State for Freedom, Peace, and Prosperity 131
 
 Ⅷ
 
-## Proactively Responding
-
-## to Emerging Security
-
-## Issues
+## Proactively Responding — to Emerging Security — Issues
 
 “The crisis brought by climate change and the health and
 

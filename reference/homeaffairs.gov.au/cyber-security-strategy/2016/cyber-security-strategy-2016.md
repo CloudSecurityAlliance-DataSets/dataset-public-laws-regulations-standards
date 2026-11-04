@@ -1,8 +1,6 @@
 # Australia's Cyber Security Strategy 2016
 
-## AUSTRALIA’S CYBER SECURITY STRATEGY
-
-## Enabling innovation, growth & prosperity
+## AUSTRALIA’S CYBER SECURITY STRATEGY — Enabling innovation, growth & prosperity
 
 Australia’s Cyber Security Strategy © Commonwealth of Australia 2016
 
@@ -30,25 +28,25 @@ Enquiries regarding this licence and any other use of this document are welcome 
 
 ## TABLE OF CONTENTS
 
-PRIME MINISTER’S FOREWORD 2
+PRIME MINISTER’S FOREWORD  2
 
-EXECUTIVE SUMMARY 4
+EXECUTIVE SUMMARY  4
 
-AUSTRALIA’S CYBER SECURITY STRATEGY AT A GLANCE 10
+AUSTRALIA’S CYBER SECURITY STRATEGY AT A GLANCE  10
 
-THE CYBER LANDSCAPE 13
+THE CYBER LANDSCAPE  13
 
-A NATIONAL CYBER PARTNERSHIP 21
+A NATIONAL CYBER PARTNERSHIP  21
 
-STRONG CYBER DEFENCES 27
+STRONG CYBER DEFENCES  27
 
-GLOBAL RESPONSIBILITY AND INFLUENCE 39
+GLOBAL RESPONSIBILITY AND INFLUENCE  39
 
-GROWTH AND INNOVATION 45
+GROWTH AND INNOVATION  45
 
-A CYBER SMART NATION 51
+A CYBER SMART NATION  51
 
-ACTION PLAN  57
+ACTION PLAN   57
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 1
 
@@ -102,13 +100,9 @@ AUSTRALIA’S CYBER SECURITY STRATEGY | 3
 
 ## EXECUTIVE SUMMARY
 
-### Strong cyber security is a fundamental element of our growth and
+Strong cyber security is a fundamental element of our growth and prosperity in a global economy. It is also vital for our national security.
 
-prosperity in a global economy. It is also vital for our national security.
-
-### It requires partnership involving governments, the private sector and
-
-the community.
+It requires partnership involving governments, the private sector and the community.
 
 Being connected is now essential, creating new opportunities for innovation and growth for all Australians. To be competitive, businesses need to be online. But this also brings risks. Australia is increasingly a target for cybercrime and espionage. All of us— governments, businesses and individuals— need to work together to build resilience to cyber security threats and to make the most of opportunities online.
 
@@ -228,23 +222,11 @@ Co-leadership: The Government and business leaders take the lead on co-designed,
 
 Governments, businesses and the research community together advance Australia’s cyber security.
 
-## AUSTRALIA’S CYBER SECURITY
+## AUSTRALIA’S CYBER SECURITY — STRATEGY AT A GLANCE
 
-## STRATEGY AT A GLANCE
+A NATIONAL CYBER PARTNERSHIP holding annual cyber security meetings with business leaders.
 
-## A NATIONAL CYBER PARTNERSHIP
-
-holding annual cyber security meetings with business leaders.
-
-### through cyber security
-
-### Australian businesses
-
-### grow and prosper
-
-### GROWTH AND
-
-### INNOVATION
+### through cyber security — Australian businesses — grow and prosper — GROWTH AND — INNOVATION
 
 Build stronger partnerships: The Government clearly identifies lead responsibilities and relocates the Australian Cyber Security Centre to engage with business
 
@@ -252,33 +234,13 @@ innovation.
 
 Understand costs and effectiveness: The Government sponsors research to better understand the cost of malicious cyber activities to the economy.
 
-### promotes an open, free
+promotes an open, free and secure cyberspace.
 
-and secure cyberspace.
+### RESPONSIBILITY — AND INFLUENCE — Australia actively — GLOBAL — hard to compromise — Australia’s networks — STRONG CYBER — and systems are
 
-### RESPONSIBILITY
+and resilient to cyber attacks.
 
-### AND INFLUENCE
-
-### Australia actively
-
-### GLOBAL
-
-### hard to compromise
-
-### Australia’s networks
-
-### STRONG CYBER
-
-### and systems are
-
-### and resilient to
-
-cyber attacks.
-
-### DEFENCES
-
-more effectively.
+DEFENCES more effectively.
 
 the Cyber Security Growth Centre and innovation
 
@@ -322,9 +284,7 @@ Build capacity: Help build capacity in our
 
 to shut down safe havens and prevent
 
-### Priority actions
-
-activities.
+Priority actions activities.
 
 Raise the bar: Co-design voluntary cyber security
 
@@ -354,25 +314,21 @@ Raise national cyber security awareness: Lift all Australians’ awareness of cy
 
 Develop the right skills and expertise: Address cyber security skills shortages to develop a highly-skilled cyber security workforce, starting with academic centres of cyber
 
-Australians have the cyber security skills and knowledge to thrive in the digital age.
+Australians have the cyber security skills and knowledge to thrive in the digital age.
 
-## A CYBER SMART NATION
-
-security excellence and increasing diversity.
+A CYBER SMART NATION security excellence and increasing diversity.
 
 initiatives.
 
-## “The Cyber Security Strategy underscores the powerful potential sparked by the cyber phenomenon. That potential revolves not just around Australia’s national security, but equally around its economic wellbeing: it is unlocked by tackling these issues square on; by getting to grips with them in partnership across government, industry, academia and society; and in mastering their complexities and seizing their inherent possibilities.”
+“The Cyber Security Strategy underscores the powerful potential sparked by the cyber phenomenon. That potential revolves not just around Australia’s national security, but equally around its economic wellbeing: it is unlocked by tackling these issues square on; by getting to grips with them in partnership across government, industry, academia and society; and in mastering their complexities and seizing their inherent possibilities.”
 
-### Sir Iain Lobban, a member of the Cyber Security
-
-### Review’s Independent Panel of Experts
+Sir Iain Lobban, a member of the Cyber Security — Review’s Independent Panel of Experts
 
 ## THE CYBER LANDSCAPE
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 13
 
-### CYBERSPACE IS A WORLD OF OPPORTUNITY...
+CYBERSPACE IS A WORLD OF OPPORTUNITY...
 
 The Internet based economy is growing twice as fast as the rest of the global economy. This is driven by a combination of surging business innovation and increased connectivity. Eight in ten Australians access the Internet daily. If poor cyber security erodes trust and confidence in cyberspace, the economic opportunity of a connected Australian
 
@@ -394,13 +350,9 @@ Australians have social media accounts
 
 Most Australians spend almost 1 day online per week
 
-## 84%
+84% of Australian small and medium businesses are online
 
-of Australian small and medium businesses are online
-
-## 90%
-
-of Australians will be online by 2017
+90% of Australians will be online by 2017
 
 ## 1 in 2
 
@@ -476,9 +428,7 @@ AUSTRALIA’S CYBER SECURITY STRATEGY | 17
 
 In combination, many ‘disruptive’ technologies have significant potential to drive economic growth. In Southeast Asia alone, McKinsey has estimated that between mobile Internet, big data, the Internet of Things, automation of knowledge work and cloud technology, there is the potential to unleash some US$220
 
-## INTERNET OF EVERYTHING
-
-billion to US$625 billion in annual economic impact by 2030. But to fully realise these and other opportunities, these technologies and the infrastructure on which they operate must be trusted. Strong cyber security will enable this.
+INTERNET OF EVERYTHING billion to US$625 billion in annual economic impact by 2030. But to fully realise these and other opportunities, these technologies and the infrastructure on which they operate must be trusted. Strong cyber security will enable this.
 
 It is estimated that by 2020 there will be at least 50 billion devices connected to the Internet globally. This explosion of connectivity will accelerate innovation in products and services, providing new business opportunities and new jobs.
 
@@ -498,13 +448,11 @@ The Australian Cyber Security Centre has also provided guidance on secure cloud 
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 19
 
-## “Cyber security cannot be left to the Government alone to solve. Organisations and individuals play an essential role in effectively reducing cyber security risk.”
+“Cyber security cannot be left to the Government alone to solve. Organisations and individuals play an essential role in effectively reducing cyber security risk.”
 
-### Opinion article by Mike Burgess, Chief Information Security Officer, Telstra and member of the Cyber Security Review’s Independent Panel of Experts
+Opinion article by Mike Burgess, Chief Information Security Officer, Telstra and member of the Cyber Security Review’s Independent Panel of Experts
 
-## A NATIONAL CYBER PARTNERSHIP
-
-## GOVERNMENTS, BUSINESSES AND THE RESEARCH COMMUNITY TOGETHER ADVANCE AUSTRALIA’S CYBER SECURITY
+## A NATIONAL CYBER PARTNERSHIP — GOVERNMENTS, BUSINESSES AND THE RESEARCH COMMUNITY TOGETHER ADVANCE AUSTRALIA’S CYBER SECURITY
 
 ### To achieve our goal, the Government will:
 
@@ -522,9 +470,7 @@ Cyber security needs to be driven from the top. Economic and national security i
 
 between public and private sector leaders will focus on practical outcomes and elevate
 
-## ACTIONS SO FAR:
-
-cyber security, both as a business risk and as a strategic opportunity rather than just as an operational matter.
+ACTIONS SO FAR: cyber security, both as a business risk and as a strategic opportunity rather than just as an operational matter.
 
 Government and business leaders can do more to raise cyber security’s prominence within their organisations, teams and peer groups. Including cyber security as a priority for corporate boards and international leaders will demonstrate that cyber security is a
 
@@ -612,19 +558,11 @@ To help organisations better understand the impacts of malicious cyber activitie
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 25
 
-## “Fighting cyber threats needs shared action so decision- makers in governments, businesses and the community broadly have the information they need to protect themselves and our country.”
+“Fighting cyber threats needs shared action so decision- makers in governments, businesses and the community broadly have the information they need to protect themselves and our country.”
 
-### Opinion article by Jennifer Westacott, Chief Executive
+Opinion article by Jennifer Westacott, Chief Executive — of the Business Council of Australia and member of — the Cyber Security Review’s Independent Panel — of Experts
 
-### of the Business Council of Australia and member of
-
-### the Cyber Security Review’s Independent Panel
-
-### of Experts
-
-## STRONG CYBER DEFENCES
-
-## AUSTRALIA’S NETWORKS AND SYSTEMS ARE HARD TO COMPROMISE AND RESILIENT TO CYBER ATTACK
+## STRONG CYBER DEFENCES — AUSTRALIA’S NETWORKS AND SYSTEMS ARE HARD TO COMPROMISE AND RESILIENT TO CYBER ATTACK
 
 ### To achieve our goal, the Government will:
 
@@ -680,9 +618,7 @@ Strong cyber security ensures organisations can better detect malicious cyber ac
 
 Businesses own and operate most of the infrastructure in cyberspace. They have information about malicious cyber activities on their networks and systems that is not readily available to Government agencies. On the other hand, the Government has access to
 
-## AUSCERT
-
-intelligence and other restricted information about cyber security threats that is not readily available to businesses. Equally, businesses want to share information with each other using the Government as the honest broker.
+AUSCERT intelligence and other restricted information about cyber security threats that is not readily available to businesses. Equally, businesses want to share information with each other using the Government as the honest broker.
 
 Organisations, public and private, must work together to build a collective understanding
 
@@ -758,9 +694,7 @@ Businesses are encouraged to contact the Computer Emergency Response Team (CERT)
 
 The Government must also be ready to respond to incidents when they occur. Cyber incidents do not necessarily need a cyber response and the Government can draw on a range of options, including law enforcement, diplomatic, economic or even—as a last resort—military responses to a cyber attack. In order to ensure we are prepared to respond
 
-## CYBERSTORM EXERCISE
-
-to a significant cyber security event and to improve our existing exercise practices, the Government will work with other governments, businesses and international partners to expand our existing cyber incident management arrangements and exercise program to ensure we can operate together in a crisis.
+CYBERSTORM EXERCISE to a significant cyber security event and to improve our existing exercise practices, the Government will work with other governments, businesses and international partners to expand our existing cyber incident management arrangements and exercise program to ensure we can operate together in a crisis.
 
 CyberStorm is an international cyber security exercise program led by the United States. Each successive CyberStorm has grown in size and complexity, with over 1000 players participating globally in CyberStorm V in 2016. Participating in CyberStorm allows Australia to assess its own capabilities using real world scenarios. It also strengthens our relations with international peers and tests these operational relationships in real time. Cyber security exercises are one of the most effective tools businesses can employ to demonstrate potential whole-of-business impacts of a cyber attack,
 
@@ -808,19 +742,15 @@ The Government will develop guidance for its agencies to consistently manage sup
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 37
 
-## “The openness of the Internet lies at the heart of its role as an economic driver, as well as the basis for its contribution to social
+“The openness of the Internet lies at the heart of its role as an economic driver, as well as the basis for its contribution to social
 
 life. It connects people and ideas;
 
 ## it eliminates distance and time. It is a libertarian force for good.”
 
-### Minister for Foreign Affairs, The Hon Julie Bishop MP, at the
+Minister for Foreign Affairs, The Hon Julie Bishop MP, at the — 2013 Global Conference on CyberSpace in Seoul
 
-### 2013 Global Conference on CyberSpace in Seoul
-
-## GLOBAL RESPONSIBILITY AND INFLUENCE
-
-## AUSTRALIA ACTIVELY PROMOTES AN OPEN, FREE AND SECURE CYBERSPACE
+## GLOBAL RESPONSIBILITY AND INFLUENCE — AUSTRALIA ACTIVELY PROMOTES AN OPEN, FREE AND SECURE CYBERSPACE
 
 ### To achieve our goal, the Government will:
 
@@ -926,13 +856,11 @@ In 2015 at the Global Conference on CyberSpace in The Hague, Australia became a 
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 43
 
-## “A strong cyber security capability is crucial for Australia to be a global leader as the world economy enters the next wave of digital enablement.”
+“A strong cyber security capability is crucial for Australia to be a global leader as the world economy enters the next wave of digital enablement.”
 
-### John N. Stewart, Senior Vice President and Chief Security and Trust Officer, Cisco and member of the Cyber Security Review’s Independent Panel of Experts
+John N. Stewart, Senior Vice President and Chief Security and Trust Officer, Cisco and member of the Cyber Security Review’s Independent Panel of Experts
 
-## GROWTH AND INNOVATION
-
-## AUSTRALIAN BUSINESSES GROW AND PROSPER THROUGH CYBER SECURITY INNOVATION
+## GROWTH AND INNOVATION — AUSTRALIAN BUSINESSES GROW AND PROSPER THROUGH CYBER SECURITY INNOVATION
 
 ### To achieve our goal, the Government will:
 
@@ -1036,19 +964,11 @@ Data61’s mission is to help Australia create new technology-based industries. 
 
 AUSTRALIA’S CYBER SECURITY STRATEGY | 49
 
-## “The current shortfall in the workforce—and the research and development base which complements it—can only be fixed through investment in sound policy and a long-term education plan that targets high schools and universities to promote careers in the cyber security profession”
+“The current shortfall in the workforce—and the research and development base which complements it—can only be fixed through investment in sound policy and a long-term education plan that targets high schools and universities to promote careers in the cyber security profession”
 
-### Dr Tobias Feakin, Director, International Cyber Policy
+Dr Tobias Feakin, Director, International Cyber Policy — Centre at the Australian Strategic Policy Institute — and member of the Cyber Security Review’s — Independent Panel of Experts
 
-### Centre at the Australian Strategic Policy Institute
-
-### and member of the Cyber Security Review’s
-
-### Independent Panel of Experts
-
-## A CYBER SMART NATION
-
-## AUSTRALIANS HAVE THE CYBER SECURITY SKILLS AND KNOWLEDGE TO THRIVE IN THE DIGITAL AGE
+## A CYBER SMART NATION — AUSTRALIANS HAVE THE CYBER SECURITY SKILLS AND KNOWLEDGE TO THRIVE IN THE DIGITAL AGE
 
 ### To achieve our goal, the Government will:
 
@@ -1122,7 +1042,7 @@ AUSTRALIA’S CYBER SECURITY STRATEGY | 55
 
 ## ACTION PLAN
 
-## THIS ACTION PLAN COMPLEMENTS THE STRATEGY BY OUTLINING THE ACTIONS THE GOVERNMENT WILL TAKE TO ACHIEVE AUSTRALIA’S CYBER SECURITY GOALS BY 2020
+THIS ACTION PLAN COMPLEMENTS THE STRATEGY BY OUTLINING THE ACTIONS THE GOVERNMENT WILL TAKE TO ACHIEVE AUSTRALIA’S CYBER SECURITY GOALS BY 2020
 
 1. Governments, business and the research community together advance Australia’s cyber security through a national cyber partnership.
 

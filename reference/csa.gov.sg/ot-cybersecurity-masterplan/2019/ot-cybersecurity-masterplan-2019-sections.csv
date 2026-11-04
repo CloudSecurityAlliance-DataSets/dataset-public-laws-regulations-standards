@@ -100,17 +100,12 @@ CSA will continue to work with our OT
 
 cybersecurity stakeholders, guided by the OT Cybersecurity Masterplan, to achieve a more resilient and secure OT environment to better serve Singapore."
 "2","","What is Operational Technology?","","",""
-"3","","Operational Technology (OT) refers to technologies","","",""
-"3","","involving interconnected devices and computers for the","","",""
-"3","","monitoring and control of physical processes. Today, OT","","",""
-"3","","is deployed in industrial sectors such as manufacturing,","","","transportation, energy and water, among others."
-"3","","OT is integral to our everyday lives. For example, the","","",""
-"3","","traffic lights controlling the flow of traffic, the signalling","","",""
-"3","","systems that regulates train deployment, the sensors","","",""
-"3","","detecting the chemical content in our drinking water, and","","",""
-"3","","the electricity grid that powers up our appliances, are all","","",""
-"3","","managed by OT systems. These systems effectively and","","","seamlessly drive our modern way of life today."
-"2","","EVOLUTION OF OPERATIONAL TECHNOLOGY IN THE AGE OF DIGITALISATION","","","protocols using specialised hardware and software, and were often isolated from business networks and the Internet. This allowed OT systems to be “secure
+"3","","Operational Technology (OT) refers to technologies — involving interconnected devices and computers for the","","","monitoring and control of physical processes. Today, OT is deployed in industrial sectors such as manufacturing,
+
+transportation, energy and water, among others."
+"3","","OT is integral to our everyday lives. For example, the — traffic lights controlling the flow of traffic, the signalling — systems that regulates train deployment, the sensors — detecting the chemical content in our drinking water, and — the electricity grid that powers up our appliances, are all","","","managed by OT systems. These systems effectively and seamlessly drive our modern way of life today.
+
+EVOLUTION OF OPERATIONAL TECHNOLOGY IN THE AGE OF DIGITALISATION protocols using specialised hardware and software, and were often isolated from business networks and the Internet. This allowed OT systems to be “secure
 
 Operational Technology has had a long evolutionary history. The control of industrial processes used to be managed by a complicated series of hard-wired relays, timers and sequencers, coupled with manual processes. OT systems arose out of a need to automate and digitalise these manual processes in order to enhance productivity and meet rising market demands for goods and services.
 
@@ -126,28 +121,24 @@ Today, the extensive linkages among
 
 enterprise IT and OT networks, businesses, operators, vendors, and other third party systems have greatly increased the operational footprint of
 
-Robert M. Lee CEO and Founder, Dragos, Inc., American ICS cybersecurity company"
-"3","","“As a community we have moved beyond the","","","land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise OT cybersecurity and it is a winnable battle.”"
-"2","","OT CYBER THREAT","","",""
-"2","","LANDSCAPE","","",""
-"3","","In the past, malicious cyber activities were limited","","","to website defacement, data theft and cyber-fraud."
-"3","","Cyber criminals also relied on social engineering","","",""
-"3","","tactics – for example, through phishing emails that","","",""
-"3","","entice individuals to click on malicious links that will","","","compromise their accounts or online credentials."
-"3","","A more worrying threat has developed with","","",""
-"3","","the increased connectivity between IT and OT","","",""
-"3","","systems. Adversaries are now able to compromise","","",""
-"3","","IT systems connected to the Internet, secure their","","",""
-"3","","footholds, and move to the OT systems to disrupt","","","industrial processes."
-"2","","OVERVIEW OF CYBER-ATTACKS AGAINST OT SYSTEMS","","",""
-"2","","Cyber-attacks against OT systems are increasing in number and having long-","","",""
-"2","","lasting and real impact","","","The malicious actors carrying
+Robert M. Lee CEO and Founder, Dragos, Inc., American ICS cybersecurity company
+
+“As a community we have moved beyond the
+
+land of theoretical cyber-attacks on industrial operations to a world where these attacks are a reality for denying power, disrupting operations, and even specifically targeting human life as was the case in the TRISIS cyber-attack in 2017. The threat is worse than we realise but not as bad as we want to imagine. It is a worthy cause to invest in and prioritise OT cybersecurity and it is a winnable battle.”"
+"2","","OT CYBER THREAT — LANDSCAPE","","","In the past, malicious cyber activities were limited to website defacement, data theft and cyber-fraud."
+"3","","Cyber criminals also relied on social engineering — tactics – for example, through phishing emails that","","","entice individuals to click on malicious links that will compromise their accounts or online credentials."
+"3","","A more worrying threat has developed with — the increased connectivity between IT and OT — systems. Adversaries are now able to compromise — IT systems connected to the Internet, secure their","","","footholds, and move to the OT systems to disrupt industrial processes."
+"2","","OVERVIEW OF CYBER-ATTACKS AGAINST OT SYSTEMS — Cyber-attacks against OT systems are increasing in number and having long- — lasting and real impact","","","The malicious actors carrying
 
 out these cyber-attacks adopt vastly different modus operandi from the run-of-the-mill hacktivists or cybercrime groups. They are often sophisticated Advanced Persistent Threat (APT) groups, which are a class of cyber-attackers, typically state-linked, who can compromise systems and remain undetected for an extended period of time. They aim to conduct cyber
 
 campaigns to steal information or disrupt operations. Furthermore, the proliferation of smart technologies and the increased digitalisation of industrial system environments introduce a wider attack surface for APT groups to conduct their cyber campaigns."
-"2","","HOW THESE GLOBAL OT CYBER TRENDS AFFECT SINGAPORE","","","Shinichi Yokohama Chief Information Security Officer, NTT Corporation, Japanese telecommunications company"
-"3","","“World-wide, attacks that aim service","","","sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes top-down action taking is critically important.”
+"2","","HOW THESE GLOBAL OT CYBER TRENDS AFFECT SINGAPORE","","","Shinichi Yokohama Chief Information Security Officer, NTT Corporation, Japanese telecommunications company
+
+“World-wide, attacks that aim service
+
+sabotage at critical infrastructure such as a petroleum plant, an electricity utility, a nuclear power plant, are real. NTT estimates OT cyber threats will spread from critical infrastructure industries to other industries such as manufacturing. Awareness among business executives is just emerging, and NTT believes top-down action taking is critically important.”
 
 APT groups that carry out cyber-
 
@@ -158,27 +149,20 @@ The underlying OT infrastructure
 systems, including those in the energy, water and transport sectors, are vital to support our Digital Economy and deliver essential services to Singapore. We need vigilance in safeguarding
 
 these systems toward ensuring a robust and resilient Smart Nation."
-"2","","THE NEED FOR AN OT","","",""
-"2","","CYBERSECURITY MASTERPLAN","","",""
-"3","","The Cyber Security Agency of","","",""
-"3","","Singapore (CSA) has developed","","",""
-"3","","the OT Cybersecurity Masterplan","","","Lim Thian Chin Director, Critical Information Infrastructure (CII), Cyber Security Agency of Singapore"
-"3","","(‘Masterplan’), as part of its","","",""
-"3","","continuous efforts to enhance the","","",""
-"3","","security and resilience of Singapore’s","","",""
-"3","","“CII sectors delivering essential services are","","","facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges faced by CII sectors operating OT systems.”"
-"3","","essential service sectors, improve","","",""
-"3","","cross-sector response to mitigate","","",""
-"3","","cyber threats in the OT environment,","","",""
-"3","","and strengthen partnerships with","","","industry and stakeholders."
+"2","","THE NEED FOR AN OT — CYBERSECURITY MASTERPLAN","","",""
+"3","","The Cyber Security Agency of — Singapore (CSA) has developed — the OT Cybersecurity Masterplan","","","Lim Thian Chin Director, Critical Information Infrastructure (CII), Cyber Security Agency of Singapore"
+"3","","(‘Masterplan’), as part of its — continuous efforts to enhance the — security and resilience of Singapore’s","","","“CII sectors delivering essential services are
+
+facing greater cyber threats today. There is a need to focus efforts on safeguarding CII sectors provisioning essential services. We hope that with the timely publication of the OT Cybersecurity Masterplan, it can drive efforts to address some of the people, process and technology challenges faced by CII sectors operating OT systems.”"
+"3","","essential service sectors, improve","","","cross-sector response to mitigate cyber threats in the OT environment,
+
+and strengthen partnerships with industry and stakeholders."
 "3","","The Masterplan has the following objectives:","","","• Guide the development of key OT cybersecurity initiatives and build capabilities and competencies in securing the OT environment, in partnership with industry and stakeholders.
 
 • Align the efforts of multiple OT cybersecurity initiatives to address emerging cyber threats in the OT environment to better prevent, detect, respond and recover from cyber-attacks.
 
 • Create awareness on the challenges faced by the OT stakeholders and promulgate cybersecurity solutions developed through Public-Private Partnerships."
-"2","","WHO THE MASTERPLAN IS FOR","","","The Masterplan is primarily relevant to
-
-pharmaceutical companies, among others. Enterprises can leverage the capacity building mechanisms in the Masterplan to strengthen overall cyber resilience in their businesses.
+"2","","WHO THE MASTERPLAN IS FOR The Masterplan is primarily relevant to","","","pharmaceutical companies, among others. Enterprises can leverage the capacity building mechanisms in the Masterplan to strengthen overall cyber resilience in their businesses.
 
 the Critical Information Infrastructure (CII) owners who operate OT systems. The Masterplan underscores the
 
@@ -188,35 +172,19 @@ In addition, the Masterplan will be useful for members of the OT cybersecurity i
 
 Notwithstanding, the Masterplan also applies to other enterprises running OT systems, which face the same OT threats and possess the same vulnerabilities. These include manufacturing plants in the oil and gas sector, semiconductor factories, and"
 "2","","FOCUS AREA: INDUSTRIAL CONTROL SYSTEMS","","",""
-"3","","The focus of this Masterplan is on Industrial Control Systems","","",""
-"3","","(ICS), as ICS makes up a majority of OT systems. ICS are","","",""
-"3","","industrial automation systems responsible for data acquisition,","","",""
-"3","","visualisation and control of industrial processes. They are","","",""
-"3","","deployed using different protocols configured to operate in","","","various industries based on their specific operational needs."
-"3","","ICS communicate with field devices, such as electrical sensors","","",""
-"3","","and actuators that work together to monitor, control and achieve","","",""
-"3","","an industrial process objective. For example, Distributed Control","","",""
-"3","","Systems (DCS) are used in power stations to monitor and control","","",""
-"3","","turbine generators to generate electricity. DCSs are also used","","",""
-"3","","in water treatment plants to monitor and control the pumps","","","and valves involved in the treatment of used water."
+"3","","The focus of this Masterplan is on Industrial Control Systems","","","(ICS), as ICS makes up a majority of OT systems. ICS are industrial automation systems responsible for data acquisition,"
+"3","","visualisation and control of industrial processes. They are","","","deployed using different protocols configured to operate in various industries based on their specific operational needs."
+"3","","ICS communicate with field devices, such as electrical sensors — and actuators that work together to monitor, control and achieve — an industrial process objective. For example, Distributed Control — Systems (DCS) are used in power stations to monitor and control — turbine generators to generate electricity. DCSs are also used","","","in water treatment plants to monitor and control the pumps and valves involved in the treatment of used water."
 "3","","ICS include:","","","• Supervisory Control and Data Acquisition (SCADA) systems, which are typically geographically dispersed systems with long-range communications to monitor data and control industrial functions in remote locations.
 
 • DCS, which are process oriented, closed-loop control systems with multiple controllers and integrated applications typically used within a single location, such as a manufacturing plant.
 
 • Programmable Logic Controllers (PLC), which are singular controllers with discrete applications also functioning on closed-loop communication within a localised plant."
 "2","","CHALLENGES TO SECURE ICS","","",""
-"3","","ICS have become increasingly attractive","","",""
-"3","","targets for cyber-attacks primarily","","",""
-"3","","because successful attacks in the","","",""
-"3","","ICS environment can have significant","","","consequences in the physical world."
-"3","","A notable example of an attack on ICS","","",""
-"3","","is the 2017 Triton malware attack in Saudi","","",""
-"3","","Arabia, where a critical infrastructure’s","","",""
-"3","","Safety Instrumented System (SIS) was","","",""
-"3","","compromised by the malware, causing","","",""
-"3","","the safety controllers to enter ‘fail safe’","","",""
-"3","","mode and shut down the industrial","","",""
-"3","","process. As a result, operations in nuclear,","","","oil and gas plants were interrupted.
+"3","","ICS have become increasingly attractive — targets for cyber-attacks primarily — because successful attacks in the","","","ICS environment can have significant consequences in the physical world."
+"3","","A notable example of an attack on ICS — is the 2017 Triton malware attack in Saudi — Arabia, where a critical infrastructure’s — Safety Instrumented System (SIS) was — compromised by the malware, causing — the safety controllers to enter ‘fail safe’","","","mode and shut down the industrial process. As a result, operations in nuclear,
+
+oil and gas plants were interrupted.
 
 Trifecta of People, Process, and Technology SANS 2019 State of OT/ICS Cybersecurity Survey reported a general growth of ICS incidents in 2019 compared to 2017 – for example, there was a 200% increase in the number of organisations that reported between 6 to 10 ICS incidents within this time period. Among ICS components, SCADA and PLC were highlighted as having the highest impact to manufacturing and production processes. The survey also found that 62% of respondents considered people as the greatest risk for compromise to ICS, compared to 22% technology and 14% process. Organisations are encouraged to develop action plans on how their OT systems will operate with IT systems, as well as invest in external third-party cybersecurity assessments and establish a detailed inventory of assets.
 
@@ -235,8 +203,11 @@ Therefore, the process engineers should work with IT engineers to understand tha
 
 In order to effectively manage OT cybersecurity, the team of skilled defenders must comprise both engineers and IT analysts, covering the entire system cycle of cyber protection, threat detection, incident response and system recovery. This requires niche and targeted training for engineers and IT analysts to attain the necessary skillsets. There is therefore a compelling need to increase the numbers and skill levels of our OT cyber defenders.
 
-David Foo Senior Director, Operations Technology, Maritime and Port Authority of Singapore"
-"3","","“Building a Smart Port will require us to","","","progressively integrate and unify IT and OT systems in order to exploit the benefits of digitalisation. Inadvertently, this provides new opportunities for cyber-attackers given that OT systems tend to be more vulnerable as they have traditionally been designed to be separated from IT systems. Any successful attack on individual OT or integrated IT-OT systems can cause major disruptions to port operations. Therefore, the integration of IT and OT cybersecurity strategies is critical to address such risks. As the maritime sector regulator for cybersecurity, MPA will partner CSA closely in implementing the OT Cybersecurity Masterplan to ensure that Singapore remains a safe, efficient and sustainable global hub port.”"
+David Foo Senior Director, Operations Technology, Maritime and Port Authority of Singapore
+
+“Building a Smart Port will require us to
+
+progressively integrate and unify IT and OT systems in order to exploit the benefits of digitalisation. Inadvertently, this provides new opportunities for cyber-attackers given that OT systems tend to be more vulnerable as they have traditionally been designed to be separated from IT systems. Any successful attack on individual OT or integrated IT-OT systems can cause major disruptions to port operations. Therefore, the integration of IT and OT cybersecurity strategies is critical to address such risks. As the maritime sector regulator for cybersecurity, MPA will partner CSA closely in implementing the OT Cybersecurity Masterplan to ensure that Singapore remains a safe, efficient and sustainable global hub port.”"
 "2","","PROCESS","","","In order to bring people together in a coordinated manner and have a common understanding, organisations must have governing processes in the form of policies, standards, guidelines and procedures in place. At the top tier of formalised governance are policies, which provide a generalised overview of the organisation’s security needs and direction. This is followed by mandatory codes and standards for compliance, as well as recommended guidelines for best practice. Finally, all of the above are distilled into
 
 procedures for detailed steps on the exact actions necessary to implement a specific mechanism, control or solution. Only through such formal documentation can organisations produce a robust and reliable security infrastructure by reducing uncertainty and simplifying complexity.
@@ -275,16 +246,9 @@ When designing defences, it
 is also important to note the inherent differences between IT and OT, which traditionally serves different purposes. IT environments are more dynamic and data centric while OT systems are more process centric and concerned with availability and safety. Therefore, designers of security
 
 systems must appreciate these priorities when building in cyber defences for ICS."
-"2","","KEY THRUSTS","","",""
-"3","","The OT Cybersecurity Masterplan outlines the key thrusts","","",""
-"3","","to uplift the cybersecurity posture of people, process","","",""
-"3","","and technology of OT stakeholders. Key thrusts include:","","",""
-"3","","KEY THRUST 1: OT Cybersecurity Training","","",""
-"3","","KEY THRUST 2: OT Cybersecurity Information Sharing","","",""
-"3","","and Analysis Center (OT-ISAC)","","",""
-"3","","KEY THRUST 3: Strengthening Policies and Processes","","",""
-"3","","KEY THRUST 4: Adopting Technologies for Cyber Resilience","","",""
-"3","","KEY THRUST 1","","",""
+"2","","KEY THRUSTS","","","The OT Cybersecurity Masterplan outlines the key thrusts — to uplift the cybersecurity posture of people, process — and technology of OT stakeholders. Key thrusts include: — KEY THRUST 1: OT Cybersecurity Training — KEY THRUST 2: OT Cybersecurity Information Sharing — and Analysis Center (OT-ISAC) — KEY THRUST 3: Strengthening Policies and Processes — KEY THRUST 4: Adopting Technologies for Cyber Resilience
+
+KEY THRUST 1"
 "2","","OT CYBERSECURITY TRAINING","","","NSHC instructor explaining attack scenario with trainees.
 
 Trainees performing
@@ -301,17 +265,24 @@ As part of the effort to build a more secure
 
 and resilient OT community, CSA Academy is rolling out OT cybersecurity courses to train between 70 to 100 OT cybersecurity professionals annually. The first OT cybersecurity course which focused on OT ethical hacking was launched in September 2019 in collaboration with NSHC Singapore, a security service company. The course equips participants with recent
 
-Ng Joo Hee Chief Executive, Public Utilities Board, Singapore’s national water agency"
-"3","","“A properly functioning water system","","","makes everyday life in Singapore possible, and is a basis of our continued prosperity. The threat of cyber-attacks on the water system has to be one of most serious. In this respect, the expertise that CSA provides is crucial to safeguarding cybersecurity in the water sector. PUB is fully supportive of CSA’s effort in training and developing a cadre of cybersecurity practitioners to protect Singapore’s OT ecosystem.”
+Ng Joo Hee Chief Executive, Public Utilities Board, Singapore’s national water agency
 
-trends of different cyber-attacks on ICS facilities and OT cybersecurity ethical hacking skills, followed by measures to defend against these cyber-attacks. Due to the overwhelming demand, CSA Academy will be conducting another two runs in 2019."
-"3","","KEY THRUST 2","","",""
+“A properly functioning water system
+
+makes everyday life in Singapore possible, and is a basis of our continued prosperity. The threat of cyber-attacks on the water system has to be one of most serious. In this respect, the expertise that CSA provides is crucial to safeguarding cybersecurity in the water sector. PUB is fully supportive of CSA’s effort in training and developing a cadre of cybersecurity practitioners to protect Singapore’s OT ecosystem.”
+
+trends of different cyber-attacks on ICS facilities and OT cybersecurity ethical hacking skills, followed by measures to defend against these cyber-attacks. Due to the overwhelming demand, CSA Academy will be conducting another two runs in 2019.
+
+KEY THRUST 2"
 "2","","OT CYBERSECURITY INFORMATION SHARING AND ANALYSIS CENTER (OT-ISAC)","","","Typical process in OT-ISAC
 
 Credit: Global Resilience Federation: Strengthen Your Defense Strategy.
 
-Donnie W. Wilburn IT Risk Management Manager, ExxonMobil Global Services Company, American oil and gas company"
-"3","","“Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar","","","to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and complex area that it takes effective collaboration across all business areas to stay ahead of threats.”
+Donnie W. Wilburn IT Risk Management Manager, ExxonMobil Global Services Company, American oil and gas company
+
+“Cybersecurity incidents continue to grow in volume, complexity and impact across all industries. Similar
+
+to safety sharing, we believe cybersecurity information sharing is a key component to improving our industry’s overall cybersecurity resilience. Industry partners can leverage this information and apply learnings across the business and the industrial control environment. Cybersecurity is such a broad and complex area that it takes effective collaboration across all business areas to stay ahead of threats.”
 
 GRF APAC, a subsidiary of GRF, assists in the creation of member-driven information sharing and analysis centers (ISACs) for Asia Pacific regions or industries in need of a cyber, physical and geopolitical sharing community. GRF also provides support that augments analysis, technology, and operational capabilities for a community and its constituent members.
 
@@ -349,8 +320,9 @@ grow and deepen cybersecurity competencies of OT cybersecurity
 
 to enhance collective cybersecurity.
 
-analysts for the local ecosystem."
-"3","","KEY THRUST 3","","",""
+analysts for the local ecosystem.
+
+KEY THRUST 3"
 "2","","STRENGTHENING POLICIES AND PROCESSES","","","As part of the Cybersecurity Act that
 
 came into force in 2018, a Cybersecurity Code of Practice (CCoP) was issued by the Commissioner for Cybersecurity. The CCoP prescribes measures that
@@ -366,8 +338,7 @@ actors exploiting software vulnerabilities and securing their footholds in OT sy
 The measures included in the CCoP are
 
 modelled upon the ICS Cybersecurity Guidelines that CSA co-developed with the local ICS community, including OT CII owners. For businesses that own OT systems but which are not CII, these measures serve as best practices that they may wish to consider implementing."
-"2","","ADOPTING TECHNOLOGIES","","",""
-"2","","FOR CYBER RESILIENCE","","","Mr David Koh (Chief
+"2","","ADOPTING TECHNOLOGIES — FOR CYBER RESILIENCE","","","Mr David Koh (Chief
 
 Executive, CSA) second from left,
 
@@ -390,10 +361,13 @@ Nathalie Marcotte SVP, Cybersecurity and Industry Services, Schneider Electric, 
 
 → Helping CII owners and participating
 
-user organisations improve their cybersecurity posture by tackling the cyber vulnerabilities faced;"
-"3","","“CSA’s Co-innovation and Development","","",""
-"3","","Proof of Concept (POC) Funding Scheme","","",""
-"3","","is another example of co-operation to leverage cybersecurity skills and technologies to develop innovative solutions that address key business priorities. Effective cybersecurity protection is only as strong as the weakest link. Schneider Electric believes in looking at cybersecurity across the operation and implementing solutions that consider the existing systems, as well as the potential value from future IIoT applications.”","","","→ Providing opportunities for
+user organisations improve their cybersecurity posture by tackling the cyber vulnerabilities faced;
+
+“CSA’s Co-innovation and Development
+
+Proof of Concept (POC) Funding Scheme is another example of co-operation to leverage cybersecurity skills and technologies to develop innovative solutions that address key business priorities. Effective cybersecurity protection is only as strong as the weakest link. Schneider Electric believes in looking at cybersecurity across the operation and implementing solutions that consider the existing systems, as well as the potential value from future IIoT applications.”
+
+→ Providing opportunities for
 
 cybersecurity companies to develop new and innovative products and services; and
 
@@ -438,17 +412,21 @@ Hiroshi Tanoguchi Head of Lifecycle Service Business Division, IA Systems & Serv
 
 In the water and energy sectors,
 
-prototypes to detect anomalous activities and formulate mitigation responses for OT systems were developed, based on machine learning technology."
-"3","","“There is no perfect countermeasure in terms","","","of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having a serious incident is our key focus now.”"
+prototypes to detect anomalous activities and formulate mitigation responses for OT systems were developed, based on machine learning technology.
+
+“There is no perfect countermeasure in terms
+
+of cybersecurity protection, the cybersecurity managed service to monitor the ICS, to detect a malware or a malicious attack, to notify it to the customer and to take a quick action before having a serious incident is our key focus now.”"
 "2","","OT CYBERSECURITY DETECTION AND MONITORING CAPABILITIES","","","Mr Ngiam Shih Chun Chief Executive, Energy Market Authority, Singapore’s energy industry regulator
 
 A critical aspect of strengthening the OT
 
-cybersecurity posture in Singapore involves constant, robust monitoring of network activities within CII, and swift and decisive responses in the event anomalous activity is detected. This requires putting in place Security Operations Centres (SOCs) at the sectoral level to oversee, monitor and coordinate cybersecurity efforts between Government agencies and CII owners."
-"3","","“The power system is a complex","","","and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and resilience of our systems.”"
-"3","","All CII sectors who operate OT systems are developing or have","","",""
-"3","","in place sectoral SOCs suited toward their respective operating","","",""
-"3","","environments, with three examples highlighted below:","","","Since 2017, the Energy
+cybersecurity posture in Singapore involves constant, robust monitoring of network activities within CII, and swift and decisive responses in the event anomalous activity is detected. This requires putting in place Security Operations Centres (SOCs) at the sectoral level to oversee, monitor and coordinate cybersecurity efforts between Government agencies and CII owners.
+
+“The power system is a complex
+
+and critical network. With digitalisation and the rising trend of cyber threats, the Energy Market Authority will need to work closely with CSA to strengthen the reliability and resilience of our systems.”"
+"3","","All CII sectors who operate OT systems are developing or have — in place sectoral SOCs suited toward their respective operating — environments, with three examples highlighted below:","","","Since 2017, the Energy
 
 The Maritime and Port
 
@@ -527,11 +505,7 @@ Virtual Private Network (VPN)
 A data network that enables two or more parties to communicate securely across a public network by creating a private connection through authentication and encryption techniques.
 
 Website Defacement A malicious attack on a website that changes its visual appearance or content."
-"2","","CONTACT INFORMATION","","",""
-"2","","Cyber Security Agency of Singapore","","",""
-"2","","Website: www.csa.gov.sg","","",""
-"2","","General enquiries/feedback:","","",""
-"2","","contact@csa.gov.sg","","","Singapore’s Operational Technology Cybersecurity Masterplan 2019
+"2","","CONTACT INFORMATION — Cyber Security Agency of Singapore — Website: www.csa.gov.sg — General enquiries/feedback: — contact@csa.gov.sg","","","Singapore’s Operational Technology Cybersecurity Masterplan 2019
 
 Copyright © 2019
 

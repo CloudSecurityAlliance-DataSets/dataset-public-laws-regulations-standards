@@ -2,13 +2,9 @@
 
 ## AI Strategy 2019
 
-### AI for Everyone: People, Industries, Regions and Governments
+AI for Everyone: People, Industries, Regions and Governments
 
-## （ tentative translation ）
-
-## June 11, 2019 Integrated Innovation Strategy Promotion Council Decision
-
-## Contents
+## （ tentative translation ） — June 11, 2019 Integrated Innovation Strategy Promotion Council Decision — Contents
 
 Introduction···································································································· 1
 
@@ -356,9 +352,7 @@ creating the future, the private sector must actively contribute to future econo
 
 with the awareness of their core role in undertaking a major challenge.
 
-### II. Building a Foundation for the Future: Education Reform and Reconstruction of the
-
-Research and Development System
+II. Building a Foundation for the Future: Education Reform and Reconstruction of the Research and Development System
 
 ## II-1 Education Reform
 
@@ -1580,9 +1574,7 @@ Type AI
 
 Figure: Overall Structure of AI R&D
 
-## III. Establishing a Foundation for Industry and Society
-
-## III - 1 Social Implementation
+## III. Establishing a Foundation for Industry and Society III - 1 Social Implementation
 
 As already emphasized, by combining Japan’s technology strengths with AI technology, we must aim
 

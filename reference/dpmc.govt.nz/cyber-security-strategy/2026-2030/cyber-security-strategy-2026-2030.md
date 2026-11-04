@@ -1,12 +1,8 @@
 # New Zealand's Cyber Security Strategy 2026–2030
 
-## New Zealand’s Cyber Security Strategy
+## New Zealand’s Cyber Security Strategy — 2026–2030
 
-## 2026–2030
-
-## Embracing cyber security to enable innovation, drive a
-
-prosperous economy and protect our digital way of life.
+Embracing cyber security to enable innovation, drive a prosperous economy and protect our digital way of life.
 
 FEBRUARY 2026 | CYBERSTRATEGY@DPMC.GOVT.NZ
 
@@ -44,7 +40,7 @@ New Zealand’s cyber security strategy 2026-2030 | Page 3 of 15
 
 ## Ministerial foreword
 
-### Digital technologies underpin nearly every aspect of our lives and have provided our society and economy with unprecedented opportunities for connection and growth. This connectivity, however, exposes New Zealand
+Digital technologies underpin nearly every aspect of our lives and have provided our society and economy with unprecedented opportunities for connection and growth. This connectivity, however, exposes New Zealand
 
 to an ever-rising tide of malicious cyber activity.
 
@@ -152,15 +148,11 @@ New Zealand’s cyber security strategy 2026-2030 | Page 9 of 15
 
 ## Our vision
 
-### New Zealanders embrace cyber security to enable innovation,
+New Zealanders embrace cyber security to enable innovation,
 
 drive a prosperous economy and protect our digital way of life.
 
-### Our objectives on the path to 2030 are to:
-
-### UNDERSTAND
-
-### PREVENT & PREPARE
+### Our objectives on the path to 2030 are to: — UNDERSTAND — PREVENT & PREPARE
 
 We are well aware of cyber risks and know how to protect ourselves
 
@@ -186,9 +178,7 @@ By 2030 the outcomes we want to achieve are:
 
 • Good cyber security is built into the digital supply chain.
 
-### RESPOND
-
-### PARTNER
+### RESPOND — PARTNER
 
 We react effectively and decisively to adverse cyber incidents
 
@@ -232,9 +222,7 @@ New Zealand’s cyber security strategy 2026-2030 | Page 11 of 15
 
 ## Objective 2: Prevent and prepare
 
-### We manage cyber risks to prevent harm and are well-prepared
-
-when incidents occur.
+We manage cyber risks to prevent harm and are well-prepared when incidents occur.
 
 ### We need to take action
 
@@ -278,9 +266,7 @@ New Zealand’s cyber security strategy 2026-2030 | Page 13 of 15
 
 ## Objective 4: Partner
 
-### Our resilience to cyber threats is bolstered by strategic and
-
-targeted cooperation.
+Our resilience to cyber threats is bolstered by strategic and targeted cooperation.
 
 ### We need to take action
 

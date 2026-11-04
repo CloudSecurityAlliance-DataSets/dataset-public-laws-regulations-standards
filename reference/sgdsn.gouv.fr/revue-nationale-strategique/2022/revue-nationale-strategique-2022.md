@@ -84,9 +84,7 @@ Décider et commander ..........................................................
 
 Liste des acronymes, noms d’opérations et abréviations ..................... 53
 
-## Première partie Analyse stratégique
-
-## Appréciation de l’environnement stratégique
+## Première partie Analyse stratégique — Appréciation de l’environnement stratégique
 
 1) L’invasion de l’Ukraine par la Russie, le 24 février 2022, représente un glissement stratégique. D’une part, conjuguée à d’autres évolutions structurantes, elle valide le constat de l’évolution de la menace qui résultait de la revue stratégique de défense et de sécurité nationale de 2017, actualisée en 2021. D’autre part, elle incite à une adaptation de notre réponse stratégique visant à renforcer nos forces morales et notre résilience, à consolider nos alliances et à accélérer la modernisation de notre outil de défense.
 
@@ -242,9 +240,7 @@ NOS PARTENARIATS À RÉINVENTER
 
 52) La capacité de certains compétiteurs à proposer des modèles alternatifs le plus souvent dans une logique transactionnelle, moins encadrés par des préoccupations normatives, pèse aussi, notamment vis-à-vis d’États sous pression politique, économique ou alimentaire.
 
-## Deuxième partie Défis à relever
-
-## Rappel des intérêts nationaux de sécurité et confirmation des fonctions stratégiques
+## Deuxième partie Défis à relever — Rappel des intérêts nationaux de sécurité et confirmation des fonctions stratégiques
 
 53) Les intérêts de la France recouvrent tous les facteurs qui concourent à sa sécurité, à sa prospérité et à son influence. Il convient d’y distinguer en particulier :
 
@@ -446,11 +442,7 @@ INFLUENCE
 
 intensité en autonomie ou en coalition, dans tous les champs.
 
-## Troisième partie Dix objectifs stratégiques
-
-## Objectif stratégique n° 1
-
-## Une dissuasion nucléaire robuste et crédible
+## Troisième partie Dix objectifs stratégiques — Objectif stratégique n° 1 — Une dissuasion nucléaire robuste et crédible
 
 103) L’efficacité de la politique de dissuasion française repose sur sa crédibilité politique, opérationnelle et technique. Cela se traduit notamment par une posture exigeante et des engagements capacitaires s’inscrivant dans le temps long, mais également par l’aptitude, largement démontrée depuis ses débuts, à adapter tant la doctrine que les moyens au contexte stratégique et à ses évolutions potentielles.
 
@@ -474,15 +466,11 @@ d’escalade. En outre, le renforcement de la résilience nationale face à l’
 
 110) Enfin, l’indépendance de la dissuasion française doit être pérennisée grâce à un suivi renforcé des équipes de recherche fondamentale et appliquée, du tissu industriel national lié à la dissuasion et à une consolidation des savoir-faire technique, industriel et opérationnel lui étant indispensables.
 
-## Objectif stratégique n° 2
-
-## Une France unie et résiliente
+## Objectif stratégique n° 2: Une France unie et résiliente
 
 111) La France doit renforcer sa résilience face à l’ensemble des défis sécuritaires auxquels elle est susceptible d’être confrontée, qu’ils soient militaires ou non-traditionnels (manipulations de l’information, changement climatique, prédation des ressources, pandémies, etc.). Cet effort doit s’appliquer en métropole et Outre-mer, notamment par la promotion de l’esprit de défense et en assurant la cohésion nationale.
 
-## 1. RENFORCER LA CAPACITÉ DE LA FRANCE À TENIR, COLLECTIVEMENT ET EN
-
-PROFONDEUR
+## 1. RENFORCER LA CAPACITÉ DE LA FRANCE À TENIR, COLLECTIVEMENT ET EN PROFONDEUR
 
 112) La France met en œuvre sa stratégie nationale de résilience (SNR). Celle-ci vise à conforter son aptitude à supporter les atteintes de toute nature à la vie normale du pays. Elle permet une articulation précise et efficace avec plusieurs dispositifs poursuivant des objectifs similaires, adoptés tant par l’UE que par l’OTAN.
 
@@ -496,9 +484,7 @@ PROFONDEUR
 
 116) La singularité militaire, essentielle pour permettre aux armées de préparer et d’assurer la défense de la patrie et des intérêts supérieurs de la Nation, devra être préservée, notamment de la pression normative croissante.
 
-## 3. DÉVELOPPER LA SYNERGIE ENTRE LE MINISTÈRE DES ARMÉES ET L’ENSEMBLE DES
-
-## SERVICES DE L’ÉTAT
+## 3. DÉVELOPPER LA SYNERGIE ENTRE LE MINISTÈRE DES ARMÉES ET L’ENSEMBLE DES SERVICES DE L’ÉTAT
 
 117) La perspective d’une crise majeure voire d’un affrontement de haute intensité impliquant la France impose de rehausser le niveau d’ambition en matière de résilience nationale, en développant en particulier une résilience mutuelle armées-Nation mieux appréhendée.
 
@@ -508,15 +494,11 @@ PROFONDEUR
 
 120) Cette synergie entre une population imprégnée de l’esprit de défense et des acteurs publics rompus à la planification et à la gestion de crise permettra de renforcer la résilience nationale dans les domaines de la sécurité, de l’économie, de l’emploi et de la cohésion sociale.
 
-## Objectif stratégique n° 3
-
-## Une économie concourant à l’esprit de défense
+## Objectif stratégique n° 3: Une économie concourant à l’esprit de défense
 
 121) Mettre en place une économie concourant à l’esprit de défense nécessite de savoir mobiliser toutes les ressources de la Nation, pour passer en économie de guerre, c’est-à-dire de s’organiser pour que l’industrie française puisse soutenir un effort de guerre dans la durée, en cas de nécessité pour les forces armées ou au profit d’un partenaire.
 
-## 1. SÉCURISER LES APPROVISIONNEMENTS CRITIQUES ET METTRE EN ADÉQUATION LES
-
-STOCKS ET LES CAPACITÉS DE PRODUCTION
+## 1. SÉCURISER LES APPROVISIONNEMENTS CRITIQUES ET METTRE EN ADÉQUATION LES STOCKS ET LES CAPACITÉS DE PRODUCTION
 
 122) Pour soutenir un effort de guerre dans la durée (forte consommation de munitions, attrition, etc.) le meilleur compromis est à rechercher en agissant sur trois leviers principaux : la constitution de stocks stratégiques (matériels complets mais aussi matières premières et composants critiques) ; la relocalisation des chaînes de production les plus sensibles ; et la diversification des approvisionnements.
 
@@ -538,25 +520,17 @@ EN ÉCONOMIE DE GUERRE
 
 129) La prise en compte de ces contextes géopolitiques doit aussi trouver un écho dans les outils capacitaires de défense de l’UE et de l’OTAN.
 
-## 3. METTRE EN ŒUVRE LES ALLÉGEMENTS NORMATIFS, RÉGLEMENTAIRES ET DES
-
-## PROCESSUS D’ACQUISITION ET DE SOUTIEN DANS UNE LOGIQUE DE GESTION DE
-
-RISQUE
+## 3. METTRE EN ŒUVRE LES ALLÉGEMENTS NORMATIFS, RÉGLEMENTAIRES ET DES PROCESSUS D’ACQUISITION ET DE SOUTIEN DANS UNE LOGIQUE DE GESTION DE RISQUE
 
 130) Le recours croissant et volontariste à l’innovation et à l’analyse de la valeur dans les travaux entre la DGA et les armées doit permettre d’équiper les forces des solutions les plus adéquates dans une prise de risque acceptable dans l’emploi et le meilleur équilibre entre gains opérationnels, gains financiers et gains calendaires.
 
-## Objectif stratégique n°4
-
-## Une résilience cyber de premier rang
+## Objectif stratégique n°4 — Une résilience cyber de premier rang
 
 131) Face aux évolutions stratégiques, l’effort doit porter sur l’amélioration de notre résilience cyber. Aucun moyen ne suffit pour envisager un bouclier cyber qui mettrait en échec toute cyberattaque menée contre la France, mais renforcer son niveau de cybersécurité est essentiel pour préparer le pays à davantage de menaces. De même, l’application d’une logique dissuasive dans le cyberespace qui forcerait tout attaquant à la retenue contre la France est illusoire mais adopter des stratégies de réponses mobilisant l’ensemble des leviers de l’État, européens et internationaux permet de rendre les cyberattaques particulièrement coûteuses pour les attaquants.
 
 132) Cette résilience cyber consiste à disposer de capacités adaptées et organisées, permettant de prévenir ou, le cas échéant, de réduire l’impact et la durée des cyberattaques menées à l’encontre de la France, a minima pour les fonctions les plus critiques.
 
-## 1. AMÉLIORER LA RÉSILIENCE CYBER DE LA FRANCE, CONDITION DE LA
-
-SOUVERAINETÉ
+## 1. AMÉLIORER LA RÉSILIENCE CYBER DE LA FRANCE, CONDITION DE LA SOUVERAINETÉ
 
 133) Les efforts entrepris dans les secteurs public et privé doivent être amplifiés. Nonobstant les importants travaux déjà engagés, la cybersécurité de l’État dispose d’importantes marges de progrès. Dans certains secteurs critiques, des attaques d’ampleur sont encore plausibles, même si les investissements consentis dans le cadre du plan France Relance ont considérablement amélioré le niveau de cybersécurité. Quant au rôle systémique de certains acteurs du numérique, il reste encore insuffisamment pris en compte.
 
@@ -576,9 +550,7 @@ CYBER
 
 138) La résilience de la France dépend enfin de celle de ses partenaires européens et internationaux ainsi que de la sécurité et de la stabilité du cyberespace dans son ensemble. Il faut donc contribuer à la montée du niveau de résilience des institutions européennes, internationales et des partenaires de la France, ainsi que poursuivre la structuration d’un marché européen des produits et des services de cybersécurité. Sur la scène internationale, la France doit porter des propositions permettant d’encadrer le commerce et de lutter contre la prolifération des armes cyber, grâce notamment à une meilleure utilisation des outils de contrôle des exportations des biens et technologies. En complément, un référentiel commun de gestion de crise cyber, tout comme des mécanismes de coopération et d’entraide permettraient aux États d’éviter les risques d’incompréhension et d’escalade incontrôlée.
 
-## Objectif stratégique n° 5
-
-## La France, allié exemplaire dans l’espace euro-atlantique
+## Objectif stratégique n° 5: La France, allié exemplaire dans l’espace euro-atlantique
 
 139) L’OTAN est une alliance politique et militaire qui joue un rôle incontournable pour la sécurité européenne à travers sa mission principale de défense collective et, en particulier, la clause d’assistance inscrite à l’article 5 du traité de 1949. Le lien transatlantique reste essentiel pour la sécurité de l’espace euro-atlantique et par conséquent celle de la France.
 
@@ -606,9 +578,7 @@ provoquée par la guerre en Ukraine et des capacités nécessaires aux alliés e
 
 147) La France soutient une modernisation, un élargissement et un approfondissement du partenariat UE-OTAN, pour prendre en compte les nouveaux défis de sécurité qui pèsent sur l’Europe ainsi que l’adhésion prochaine de la Finlande et de la Suède.
 
-## Objectif stratégique n° 6
-
-## La France, un des moteurs de l’autonomie stratégique européenne
+## Objectif stratégique n° 6: La France, un des moteurs de l’autonomie stratégique européenne
 
 148) La France et l’ensemble des pays européens partagent les mêmes enjeux de sécurité. L’adoption d’une boussole stratégique ambitieuse en mars 2022 comme le rôle majeur tenu par l’UE depuis le début de la guerre en Ukraine démontrent à la fois la puissance des leviers qui sont les nôtres et le chemin restant à parcourir. Il est en effet nécessaire de faire émerger une Europe souveraine, dotée d’une culture stratégique commune, disposant d’une capacité d’évaluation et d’action autonome au service des intérêts partagés des Européens.
 
@@ -648,9 +618,7 @@ l’acquisition en commun de matériels critiques et innovants. Le rôle central
 
 162) Enfin, l’initiative européenne d’intervention (IEI) est le creuset d’une culture stratégique commune et d’une coopération renforcée entre ses membres. Lancé en 2018, le format garde aujourd’hui toute sa pertinence pour accompagner une prise de responsabilité croissante des Européens dans leur propre sécurité, se traduisant par des engagements opérationnels au sein desquels la France pourra jouer le rôle de nation-cadre.
 
-## Objectif stratégique n° 7
-
-## La France, partenaire de souveraineté fiable et pourvoyeuse de sécurité crédible
+## Objectif stratégique n° 7: La France, partenaire de souveraineté fiable et pourvoyeuse de sécurité crédible
 
 163) La France défend une offre stratégique ambitieuse qui se traduit par des liens de solidarité lucides, équilibrés et priorisés avec ses partenaires. Dans un contexte de polarisation et de concurrence exacerbées, l’offre de la France à ses partenaires doit continuer de se distinguer par sa haute valeur ajoutée et lui permettre de ne pas être contrainte à l’alignement ou à la marginalisation.
 
@@ -698,9 +666,7 @@ ACCROÎTRE NOTRE CAPACITÉ À CONCOURIR AU MAINTIEN DE LA STABILITÉ STRATÉGIQU
 
 169) Le rôle de la France comme puissance d’équilibres en Indopacifique doit être réaffirmé. Pour cela, la France s’attache à bâtir des partenariats avec des pays de la zone indopacifique, notamment l’Inde, l’Australie, et le Japon, ainsi que l’Indonésie et Singapour. Elle développe ses capacités d’anticipation et de signalement stratégique, vis-à-vis de ses compétiteurs, réaffirme et renforce sa position dans le multilatéralisme politico-militaire de la région, en accroissant sa capacité d’entrainement et, si besoin, en favorisant l’émergence de structures ad hoc. La France veillera également à favoriser la concrétisation de la stratégie de l’UE pour la région et son partenariat avec l’association des nations de l’Asie du sud-est (ASEAN).
 
-## 2. PRÉVENIR LA COURSE AUX ARMEMENTS, LA PROLIFÉRATION DES ARMES DE
-
-DESTRUCTION MASSIVE ET LA DISSÉMINATION DES ARMES CONVENTIONNELLES
+## 2. PRÉVENIR LA COURSE AUX ARMEMENTS, LA PROLIFÉRATION DES ARMES DE DESTRUCTION MASSIVE ET LA DISSÉMINATION DES ARMES CONVENTIONNELLES
 
 170) La France défend la centralité et la crédibilité du traité de non-prolifération (TNP) et la pérennité des quatre régimes multilatéraux de contrôle des exportations qui couvrent les domaines chimique et biologique, nucléaire, balistique ainsi que celui des armes conventionnelles.
 
@@ -708,9 +674,7 @@ DESTRUCTION MASSIVE ET LA DISSÉMINATION DES ARMES CONVENTIONNELLES
 
 résilience face à des éventuelles attaques dirigées contre ses forces, ses intérêts ou son territoire. Elle conforte en outre ses capacités d’action pour contrecarrer ces flux illicites ou déstabilisants.
 
-## Objectif stratégique n° 8
-
-## Une autonomie d’appréciation et une souveraineté décisionnelle garanties
+## Objectif stratégique n° 8: Une autonomie d’appréciation et une souveraineté décisionnelle garanties
 
 172) Dans un contexte international toujours plus compétitif et complexe, la France doit concentrer ses efforts pour élever son niveau de connaissance, de compréhension des compétiteurs ou adversaires, et d’anticipation de leurs intentions. Cette exigence de performance nécessite de développer l’orientation agile des services de renseignement et en préservant l’universalité et l’efficacité du réseau diplomatique et consulaire. Elle impose aussi de poursuivre l’investissement dans les capacités technologiques qui permettront d’exploiter un volume de données en perpétuelle augmentation, afin de partager à temps l’information pertinente avec les échelons de décision et d’action.
 
@@ -726,9 +690,7 @@ résilience face à des éventuelles attaques dirigées contre ses forces, ses i
 
 176) Les nouveaux outils techniques devront utiliser le potentiel du calcul quantique et de l’intelligence artificielle.
 
-## Objectif stratégique n° 9
-
-## Une capacité à se défendre et à agir dans les champs hybrides
+## Objectif stratégique n° 9: Une capacité à se défendre et à agir dans les champs hybrides
 
 177) Les principaux compétiteurs stratégiques de la France ont recours à des stratégies hybrides, combinaisons volontairement ambigües de modes d’actions directs et indirects, militaires ou non, légaux ou non, et souvent difficilement attribuables. Ces stratégies peuvent avoir des conséquences importantes pour les démocraties car elles visent à les délégitimer, affaiblir leurs forces morales et leur cohésion ou réduire leur potentiel économique et de défense nationale.
 
@@ -750,7 +712,7 @@ résilience face à des éventuelles attaques dirigées contre ses forces, ses i
 
 ## Objectif stratégique n° 10
 
-## Une liberté d’action et une capacité à conduire des opérations militaires y compris de haute intensité dans tous les champs (multimilieux et multichamps)
+Une liberté d’action et une capacité à conduire des opérations militaires y compris de haute intensité dans tous les champs (multimilieux et multichamps)
 
 183) La liberté d’action des forces repose sur la capacité à anticiper, détecter et comprendre les intentions des adversaires de la France. Elle fonde la capacité nationale à marquer sa détermination, à décourager toute action hostile ou empêcher l’imposition d’un fait accompli, et à aller à l’affrontement si nécessaire. Elle permet l’épaulement robuste des forces nucléaires.
 

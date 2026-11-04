@@ -8,28 +8,12 @@
     "body": "- [Go to content](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#container)\n- [Go to main menu](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#gnb)\n\nThis website is the official e-government website of Korea."
   },
   {
-    "depth": 1,
+    "depth": 2,
     "section_id": "",
     "section_name": "[Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)\n- Language\n\n  - [한국어](https://www.msit.go.kr/index.do)\n  - [English](https://www.msit.go.kr/eng/index.do)\n\nIntegrated search\n\n검색 초기화\n\nSERCH\n\n- [News & Notice](javascript:fn_menulast_go('eng', '1', '2', '#');)\n\n  ## News & Notice\n\n  Global science and technology powerhouse!\n\n  - [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n    ');)\n  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n    ');)\n  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n    ');)\n  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n    ');)\n  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n    ');)\n- [Laws & Statistics](javascript:fn_menulast_go('eng', '1', '13', '#');)\n\n  ## Laws & Statistics\n\n  Global science and technology powerhouse!\n\n  - [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)\n  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do\n    ');)\n  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 \"Opens new window\")\n- [About MSIT](javascript:fn_menulast_go('eng', '1', '19', '#');)\n\n  ## About MSIT\n\n  Global science and technology powerhouse!\n\n  - [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do\n    ');)\n  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do\n    ');)\n  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do\n    ');)\n  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do\n    ');)\n  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do\n    ');)\n  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do\n    ');)\n  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do\n    ');)\n  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do\n    ');)\n\nThis website is the official e-government website of Korea."
-  },
-  {
-    "depth": 1,
-    "section_id": "",
-    "section_name": "[Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Open Search Area\n\nSearch Area\nIntegrated search\n\nSEARCH\n\nsearch reset\n\nclose Search Area\n\nOpen All Menus"
-  },
-  {
-    "depth": 1,
-    "section_id": "",
-    "section_name": "[Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Close all menus\n\n- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)\n- Language\n\n  - [한국어](https://www.msit.go.kr/index.do)\n  - [English](https://www.msit.go.kr/eng/index.do)\n\n- [News & Notice](javascript:void(0);)\n\n  ## News & Notice\n\n  - [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n    ');)\n  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n    ');)\n  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n    ');)\n  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n    ');)\n  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n    ');)\n- [Laws & Statistics](javascript:void(0);)\n\n  ## Laws & Statistics\n\n  - [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)\n  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do\n    ');)\n  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 \"Opens new window\")\n- [About MSIT](javascript:void(0);)\n\n  ## About MSIT\n\n  - [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do\n    ');)\n  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do\n    ');)\n  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do\n    ');)\n  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do\n    ');)\n  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do\n    ');)\n  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do\n    ');)\n  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do\n    ');)\n  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do\n    ');)"
+    "body": "- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)\n- Language\n\n- [한국어](https://www.msit.go.kr/index.do)\n  - [English](https://www.msit.go.kr/eng/index.do)\n\nIntegrated search\n\n검색 초기화\n\nSERCH\n\n- [News & Notice](javascript:fn_menulast_go('eng', '1', '2', '#');)"
   },
   {
     "depth": 2,
@@ -37,15 +21,79 @@
     "section_name": "News & Notice",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n  ');)\n- [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n  ');)\n- [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n  ');)\n- [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n  ');)\n- [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n  ');)"
+    "body": "Global science and technology powerhouse!\n\n- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n    ');)\n  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n    ');)\n  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n    ');)\n  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n    ');)\n  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n    ');)\n- [Laws & Statistics](javascript:fn_menulast_go('eng', '1', '13', '#');)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Laws & Statistics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Global science and technology powerhouse!\n\n- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)\n  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do\n    ');)\n  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 \"Opens new window\")\n- [About MSIT](javascript:fn_menulast_go('eng', '1', '19', '#');)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "About MSIT",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Global science and technology powerhouse!\n\n- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do\n    ');)\n  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do\n    ');)\n  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do\n    ');)\n  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do\n    ');)\n  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do\n    ');)\n  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do\n    ');)\n  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do\n    ');)\n  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do\n    ');)\n\nThis website is the official e-government website of Korea."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "[Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Open Search Area\n\nSearch Area\nIntegrated search\n\nSEARCH\n\nsearch reset\n\nclose Search Area\n\nOpen All Menus"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "[Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Close all menus\n\n- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)\n- Language\n\n- [한국어](https://www.msit.go.kr/index.do)\n  - [English](https://www.msit.go.kr/eng/index.do)\n\n- [News & Notice](javascript:void(0);)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "News & Notice",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n    ');)\n  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n    ');)\n  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n    ');)\n  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n    ');)\n  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n    ');)\n- [Laws & Statistics](javascript:void(0);)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Laws & Statistics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)\n  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do\n    ');)\n  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 \"Opens new window\")\n- [About MSIT](javascript:void(0);)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "About MSIT",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do\n    ');)\n  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do\n    ');)\n  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do\n    ');)\n  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do\n    ');)\n  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do\n    ');)\n  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do\n    ');)\n  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do\n    ');)\n  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do\n    ');)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "News & Notice",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do\n  ');)\n- [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do\n  ');)\n- [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do\n  ');)\n- [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do\n  ');)\n- [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do\n  ');)\n\nPress Releases\n\n- [SNS Share](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#shareBox)"
   },
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Press Releases",
+    "section_name": "SNS Share",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [SNS Share](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#shareBox)\n\n  ### SNS Share\n\n  - [FaceBook](javascript:sendSns('facebook', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"새창열림\")\n  - [Twitter](javascript:sendSns('twitter', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"새창열림\")\n  - [URL Copy](javascript:sendSns('url', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"URL복사하기\")Close\n- [Print](javascript:printView();)"
+    "body": "- [FaceBook](javascript:sendSns('facebook', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"새창열림\")\n  - [Twitter](javascript:sendSns('twitter', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"새창열림\")\n  - [URL Copy](javascript:sendSns('url', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); \"URL복사하기\")Close\n- [Print](javascript:printView();)"
   },
   {
     "depth": 2,
@@ -61,6 +109,6 @@
     "section_name": "File",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [AI 3대 강국 도약을 위한 대한민국 AI 혁신 청사진 제시.pdf](javascript:void(0); \"PDF file download\")\n\n  [DOWNLOAD](javascript:void(0); \"file download\")\n  [PREVIEW](javascript:void(0); \"새창 열림\")\n- [Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse.docx](javascript:void(0); \"Word file download\")\n\n  [DOWNLOAD](javascript:void(0); \"file download\")\n  [PREVIEW](javascript:void(0); \"새창 열림\")\n\n**Type 1 : Source Indication** The works of the Ministry of Science and ICT can be used under the terms of \"KOGL Type 1\".\n\n- [PREV\n  MSIT, in collaboration with the Ministry of Foreign Affairs, promotes the training of specialized S&T diplomacy personnel.](javascript:void(0); \"prev\")\n- [NEXT\n  Global Cooperation Initiated to Address Global Challenges Using Biotechnology](javascript:void(0); \"next\")\n\n[LIST](javascript:void(0); \"LIST\")\n\n[TOP](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#wrap)"
+    "body": "- [AI 3대 강국 도약을 위한 대한민국 AI 혁신 청사진 제시.pdf](javascript:void(0); \"PDF file download\")\n\n[DOWNLOAD](javascript:void(0); \"file download\")\n  [PREVIEW](javascript:void(0); \"새창 열림\")\n- [Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse.docx](javascript:void(0); \"Word file download\")\n\n[DOWNLOAD](javascript:void(0); \"file download\")\n  [PREVIEW](javascript:void(0); \"새창 열림\")\n\n**Type 1 : Source Indication** The works of the Ministry of Science and ICT can be used under the terms of \"KOGL Type 1\".\n\n- [PREV\n  MSIT, in collaboration with the Ministry of Foreign Affairs, promotes the training of specialized S&T diplomacy personnel.](javascript:void(0); \"prev\")\n- [NEXT\n  Global Cooperation Initiated to Address Global Challenges Using Biotechnology](javascript:void(0); \"next\")\n\n[LIST](javascript:void(0); \"LIST\")\n\n[TOP](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#wrap)"
   }
 ]

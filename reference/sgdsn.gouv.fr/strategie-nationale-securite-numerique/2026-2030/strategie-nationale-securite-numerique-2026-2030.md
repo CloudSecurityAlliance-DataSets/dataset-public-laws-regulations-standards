@@ -1,12 +1,6 @@
 # Stratégie nationale de cybersécurité 2026-2030
 
-## NATIONAL CYBERSECURITY
-
-## STRATEGY
-
-## 2026 — 2030
-
-## PREFACE
+## NATIONAL CYBERSECURITY — STRATEGY — 2026 — 2030 — PREFACE
 
 There are silent upheavals that disrupt world order more surely than the crashes of history. The digital revolution is one of them.
 
@@ -38,9 +32,7 @@ PILLAR 1
 
 Making France the largest pool
 
-## CONTENTS
-
-of cyber talent in Europe -p.7
+CONTENTS of cyber talent in Europe -p.7
 
 PILLAR 2
 
@@ -94,23 +86,15 @@ However, developments in cyber threats make it necessary to develop a new nation
 
 The national cybersecurity strategy is part of the National Strategic Review, which sets France the goal of achieving world-class cyber resilience. It develops a structured approach based on five pillars to achieve this goal by 2030:
 
-## PILLAR 1 | MAKING FRANCE THE LARGEST POOL OF CYBER TALENT IN EUROPE
+PILLAR 1 | MAKING FRANCE THE LARGEST POOL OF CYBER TALENT IN EUROPE
 
-## PILLAR 2 | STRENGTHENING THE NATION'S CYBER RESILIENCE
+PILLAR 2 | STRENGTHENING THE NATION'S CYBER RESILIENCE
 
-## PILLAR 3 | HALTING THE EXPANSION OF CYBER THREATS
+PILLAR 3 | HALTING THE EXPANSION OF CYBER THREATS
 
-## PILLAR 4 | MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
+PILLAR 4 | MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
 
-## PILLAR 5 | SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND
-
-INTERNATIONALLY
-
-## 01
-
-## PILLAR
-
-## MAKING FRANCE A MAJOR POOL OF CYBER TALENT
+## PILLAR 5 | SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY 01 PILLAR — MAKING FRANCE A MAJOR POOL OF CYBER TALENT
 
 France's ability to develop and attract talent in the field of cybersecurity is essential to achieving world-class cyber resilience. That is why this ambition is the priority focus of this strategy.
 
@@ -118,9 +102,7 @@ The digital sector in general, and cybersecurity in particular, are experiencing
 
 In response to this shortage, this pillar aims to invest heavily in guiding young people towards these professions from an early age and supporting training and attractiveness plans in this field. In close collaboration with the private sector, France will implement an ambitious human resources policy aimed at making France a major breeding ground for cyber talent.
 
-### OBJECTIVE 1: Develop an inclusive culture of cybersecurity
-
-### from an early age
+### OBJECTIVE 1: Develop an inclusive culture of cybersecurity from an early age
 
 Young people are the future of the nation and therefore the foundation of the country's collective resilience. This objective therefore responds to a twofold challenge: to spread a culture of cybersecurity from an early age and to create a pool of talent for tomorrow.
 
@@ -138,35 +120,25 @@ In addition, to reach all sectors of society, the development of self-training t
 
 Finally, to ensure that cybersecurity remains central to the French and European scientific and technological landscape, France will implement “bridge strategies” between different cyber and non-cyber scientific and technological disciplines. These bridges will promote the cross-fertilisation of expertise, thereby strengthening the position of France and the European Union (EU) in this strategic field. Career paths within the public sector and between the public and private sectors will also be encouraged.
 
-### OBJECTIVE 3: Support the development of cyber human resources
-
-### at European level
+### OBJECTIVE 3: Support the development of cyber human resources at European level
 
 France will support the emergence of a common set of cybersecurity skills at European level to bolster European cybersecurity capabilities and promote collaboration between Member States.
 
 To this end, it will encourage the creation of harmonised and recognised training courses in all EU countries, as well as the mobility of professionals within European institutions and between Member States.
 
-## PILLAR
-
-## 02
-
-## STRENGTHENING THE NATION'S CYBER RESILIENCE
+### PILLAR — 02 — STRENGTHENING THE NATION'S CYBER RESILIENCE
 
 Since the White Paper on Defence and National Security, resilience has been defined as the willingness and ability of a country, society and public authorities to withstand the consequences of an attack or major disaster and then quickly restore their ability to function normally, or at least in a socially acceptable way. Russia's war of aggression in Ukraine demonstrates the vital need for a country to be collectively prepared for large-scale attacks, including in the field of cybersecurity. The nature of the cyberattacks likely to affect France in the coming years calls for the strengthening of the nation's cyber resilience.
 
 Faced with a threat that now affects all sectors of the economy and society, France will roll out an ambitious plan to raise the overall level of cybersecurity across the entire economic and social fabric, including the state's IT infrastructure, and train the nation to respond to crises caused by cyberattacks. This plan will be based on enhanced synergy between the State, local authorities, businesses, research stakeholders and civil society.
 
-### OBJECTIVE 4: Prepare the nation for crises
-
-### caused by cyberattacks
+### OBJECTIVE 4: Prepare the nation for crises caused by cyberattacks
 
 To achieve collective resilience, awareness of the threats and risks involved must be shared and maintained over time. To this end, France will step up its policy of prevention and awareness-raising on cybersecurity risks. This policy will be based in particular on a national digital risk prevention brand to promote awareness campaigns, modelled on road safety campaigns.
 
 France will also strengthen its preparedness and response capacity in the face of multiple cyberattacks and the resulting systemic crisis. In particular, it will promote a culture of cyber crisis management that is accessible to all across all sections of the economy and society. A programme of crisis exercises will be developed to test the coordination and efficiency of all of France's response capabilities. This approach will be implemented at the territorial, sectoral, national, European and international levels. France will place capacity-building at the heart of its planning and investments, with the option of drawing on new public and private response capabilities.
 
-### OBJECTIVE 5: Raise the overall level of cyber protection
-
-### for the nation
+### OBJECTIVE 5: Raise the overall level of cyber protection for the nation
 
 Raising the level of cyber protection will be based on a proportionate approach. The nation's most vital services and infrastructure, starting with those of the State and its critical operators, will continue to be brought up to a very high level of security, capable of withstanding the most sophisticated threats. This will involve consolidating the State's shared digital infrastructure and focusing significant cybersecurity efforts on it.
 
@@ -184,11 +156,7 @@ Finally, France will establish a smooth support process tailored to the status o
 
 1 European Directive on the security of network and information systems.
 
-## PILLAR
-
-## 03
-
-## HALTING THE EXPANSION OF CYBER THREATS
+### PILLAR — 03 — HALTING THE EXPANSION OF CYBER THREATS
 
 France is facing a growing threat of cyber attacks that is undermining its interests. On the one hand, it has seen the emergence, in sectors that had previously been spared, of increasingly intense methods of attack by perpetrators who no longer hesitate, often for criminal purposes, to paralyse critical national infrastructure, such as hospitals. On the other hand, it has observed an increase in the pressure and sophistication of espionage, destabilisation and sabotage operations targeting the nation's fundamental interests.
 
@@ -212,11 +180,7 @@ France will also deploy a cybersecurity filter for the general public, aimed at 
 
 France will also strengthen the sharing of technical information on threats between government services and private actors. This networking will be based in particular on the development of InterCERT France, the leading community of incident response centres in France, in its coordinating role. France will also take action to strengthen this sharing at European and international level in order to amplify its effect.
 
-## PILLAR
-
-## 04
-
-## MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
+### PILLAR — 04 — MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
 
 The functioning of the economy and society relies on a set of essential digital technologies, such as communication networks, operating systems, the cloud and software applications. These technologies are the target of cyberattacks and their vulnerability can have serious and lasting consequences for the nation's digital infrastructure.
 
@@ -224,11 +188,9 @@ France has set itself the clear ambition of controlling its technological depend
 
 This effort will be based on continued government investment in innovation as part of the France 2030 plan, and on enhanced dialogue between stakeholders – research and innovation players, economic sectors, financing players and industrial public policy leaders – in order to mobilise all industrial policy levers and best direct financial investments.
 
-### OBJECTIVE 9: Invest in the security
+OBJECTIVE 9: Invest in the security
 
-### OBJECTIVE 10: Support the structuring of a European market
-
-### for cybersecurity products and services
+### OBJECTIVE 10: Support the structuring of a European market for cybersecurity products and services
 
 The European Union has adopted an ambitious strategy to strengthen its cybersecurity capabilities by harmonising standards and promoting cooperation between Member States.
 
@@ -238,9 +200,7 @@ France will thus support the emergence of leading European industrial cybersecur
 
 This momentum will be supported by the deployment of the European certification framework for cybersecurity products and services, to which France will actively contribute.
 
-### OBJECTIVE 11: Control technological dependencies
-
-### in the field of digital security
+### OBJECTIVE 11: Control technological dependencies in the field of digital security
 
 Encryption is an essential component of the security foundation that ensures the confidentiality and integrity of communications and data storage. France will invest heavily to maintain its mastery of critical technologies in the field of cryptography. It will also support work on data protection technologies throughout their life cycle.
 
@@ -248,9 +208,7 @@ In addition, France will continue to invest in order to acquire a wider range of
 
 Finally, France will support the development of its security evaluation sector, which is internationally recognised for its excellence. It will also promote the emergence of an autonomous security evaluation capability within the European Union.
 
-## PILLAR SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY
-
-## 05
+### PILLAR SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY — 05
 
 A key factor in the resilience of nations and the stability of cyberspace, international cooperation today faces many challenges: growing conflict, including in the context of hybrid strategies2, the questioning of multilateralism and UN mechanisms, the promotion of an authoritarian vision of digital technology, the proliferation of cyber-intrusive tools, technological breakthroughs facilitating access to offensive capabilities, and the increased role of non-state actors. In this context, France will seek to maximise the impact of its international action by relying on several fundamental principles:
 
@@ -316,7 +274,7 @@ With this in mind, France will take action in two areas:
 
 10 Operational by 2026, the EU Cybersecurity Reserve will consist of incident response services provided by trusted private service providers, which can be deployed to help deal with cybersecurity incidents faced by EU Member States, EU institutions, bodies and agencies and, where appropriate, third countries associated with the Digital Europe Programme.
 
-## MULTI-STAKEHOLDER GOVERNANCE IN THE SERVICE OF NATIONAL RESILIENCE
+### MULTI-STAKEHOLDER GOVERNANCE IN THE SERVICE OF NATIONAL RESILIENCE
 
 The cybersecurity organisational model adopted by France guarantees respect for civil liberties and separates defensive and offensive missions and capabilities. However, the governance system in place ensures effective coordination between these areas, guaranteeing the effectiveness of France's cyber defence.
 
@@ -332,25 +290,21 @@ Cyber threats now affect all areas of society, the economy and the national terr
 
 France's cyber governance framework11
 
-### The State defends the
+The State defends the
 
-## MISSION
+MISSION
 
 ### Nation
 
 Coordinate the State's
 
-## OBJECTIVES
-
-interdepartmental
+OBJECTIVES interdepartmental
 
 response to cyber
 
 attacks
 
-## STRATEGIC
-
-## LEVEL
+### STRATEGIC — LEVEL
 
 (coordinated by
 
@@ -358,9 +312,7 @@ C4 STRAT
 
 SGDSN)
 
-## OPERATIONAL
-
-## LEVEL
+### OPERATIONAL — LEVEL
 
 (coordinated by
 
@@ -368,15 +320,9 @@ C4 TECHOPS
 
 ANSSI)
 
-## CDSN CYBER
+CDSN CYBER — RIM CYBER
 
-## RIM CYBER
-
-### The State strengthens its
-
-### The Nation grows stronger
-
-### own security
+### The State strengthens its — The Nation grows stronger — own security
 
 Oversee the cybersecurity
 

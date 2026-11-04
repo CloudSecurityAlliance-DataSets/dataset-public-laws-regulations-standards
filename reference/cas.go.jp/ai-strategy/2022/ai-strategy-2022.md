@@ -2,7 +2,7 @@
 
 ## AI Strategy 2022
 
-### (tentative translation)
+(tentative translation)
 
 ### April 22, 2022
 

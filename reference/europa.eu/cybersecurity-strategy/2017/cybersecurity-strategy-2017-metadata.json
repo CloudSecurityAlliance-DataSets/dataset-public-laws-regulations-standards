@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
   "license": {
-    "spdx": "CC-BY-4.0",
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
-    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
-    "note": "European Union official publication (europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0).",
-    "notes": "European Union official publication (europa.eu); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0)."
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
   },
   "links": {
     "wikipedia": "",

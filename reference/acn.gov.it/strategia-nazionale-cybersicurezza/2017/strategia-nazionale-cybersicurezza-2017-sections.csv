@@ -1,10 +1,9 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"1","","Piano Nazionale per la Protezione Cibernetica e la Sicurezza Informatica (2017)","","",""
-"3","","Presidenza del Consiglio dei Ministri","","",""
-"2","","PIANO NAZIONALE PER LA PROTEZIONE CIBERNETICA","","",""
-"2","","E LA SICUREZZA INFORMATICA","","",""
-"3","","Marzo 2017","","",""
-"2","","PIANO NAZIONALE PER LA PROTEZIONE CIBERNETICA","","",""
+"1","","Piano Nazionale per la Protezione Cibernetica e la Sicurezza Informatica (2017)","","","Presidenza del Consiglio dei Ministri
+
+E LA SICUREZZA INFORMATICA
+
+Marzo 2017"
 "2","","E LA SICUREZZA INFORMATICA","","",""
 "3","","Marzo 2017","","","INDICE
 
@@ -47,8 +46,7 @@ Esso non costituisce un mero ag­ giornamento del precedente Piano, ma si pone l
 mediato impulso all’ulteriore fase di svi­ luppo dell’architettura nazionale cyber.
 
 In continuità con l’attività svolta nel biennio 2014-2015, il Piano preve­ de undici indirizzi operativi (IIOO), con obiettivi specifici e conseguenti linee d’azione, così come esplicitato all’arti­ colo 3, comma 1, lit. c), del Decreto del"
-"3","","QUADRO STRATEGICO NAZIONALE (QSN)","","",""
-"3","","Indirizzi strategici","","","1. Potenziamento delle capacità di difesa del­ le Infrastrutture Critiche nazionali e degli attori di rilevanza strategica per il sistema- Paese 2. Miglioramento, secondo un approccio in­ tegrato, delle capacità tecnologiche, ope­ rative e di analisi degli attori istituzionali interessati 3. Incentivazione della cooperazione tra isti­ tuzioni ed imprese nazionali
+"3","","QUADRO STRATEGICO NAZIONALE (QSN) — Indirizzi strategici","","","1. Potenziamento delle capacità di difesa del­ le Infrastrutture Critiche nazionali e degli attori di rilevanza strategica per il sistema- Paese 2. Miglioramento, secondo un approccio in­ tegrato, delle capacità tecnologiche, ope­ rative e di analisi degli attori istituzionali interessati 3. Incentivazione della cooperazione tra isti­ tuzioni ed imprese nazionali
 
 4. Promozione e diffusione della cultura della sicurezza cibernetica 5. Rafforzamento della cooperazione interna­ zionale in materia di sicurezza cibernetica 6. Rafforzamento delle capacità di contrasto alle attività e contenuti illegali on-line
 
@@ -63,8 +61,7 @@ nuale al Parlamento ed aggiornato an­ nualmente ai sensi dell’art. 38, co. 1-
 Il Piano Nazionale è stato rivisitato dai punti di contatto cyber dei Dicasteri CISR (Affari Esteri, Interno, Difesa, Giustizia, Economia e Finanze, Sviluppo Economico), dell’Agenzia per l’Italia Digitale e del Nucleo per la Sicurezza Cibernetica (operante all’epoca pres­ so l’Ufficio del Consigliere Militare del Presidente del Consiglio).
 
 Le principali direttrici dell’intervento di revisione hanno interessato: • l’indirizzo operativo 5 (Operatività delle strutture nazionali di incident pre­ vention, response e remediation), in cui sono state considerate le esigenze di potenziamento degli attuali CERT, la necessità di costituire le strutture pre­ viste dalla Direttiva NIS (CSIRT, punto"
-"3","","PIANO NAZIONALE (PN)","","",""
-"3","","Indirizzi operativi","","","1. Potenziamento capacità di intelligence, di poli­ zia e di difesa civile e militare 2. Potenziamento dell’organizzazione e delle mo­ dalità di coordinamento e di interazione a livel­ lo nazionale tra soggetti pubblici e privati 3. Promozione e diffusione della cultura della si­ curezza informatica. Formazione ed addestra­ mento 4. Cooperazione internazionale ed esercitazioni 5. Operatività delle strutture nazionali di incident prevention, response e remediation
+"3","","PIANO NAZIONALE (PN) — Indirizzi operativi","","","1. Potenziamento capacità di intelligence, di poli­ zia e di difesa civile e militare 2. Potenziamento dell’organizzazione e delle mo­ dalità di coordinamento e di interazione a livel­ lo nazionale tra soggetti pubblici e privati 3. Promozione e diffusione della cultura della si­ curezza informatica. Formazione ed addestra­ mento 4. Cooperazione internazionale ed esercitazioni 5. Operatività delle strutture nazionali di incident prevention, response e remediation
 
 6. Interventi legislativi e compliance con obblighi internazionali
 
@@ -102,8 +99,9 @@ che hanno ispirato il nucleo delle iniziative inserite nel presente piano d’az
 
 • semplificazione delle procedure ordi­ narie e straordinarie di gestione delle attività di mantenimento e di imple­ mentazione dell’architettura naziona­ le (vds. IIOO 1, 2 e 5); • rimodulazione degli Organi che fan­ no parte del sistema di protezione ci­
 
-bernetica nazionale (soppressione nel NISP “cyber”, revisione del ruolo del NSC, etc.) (vds. IO 1); • complessiva contrazione della “catena di comando” deputata alla gestione delle crisi, al fine di rendere tempe­ stiva ed efficace l’azione degli organi"
-"3","","ARCHITETTURA NAZIONALE CYBER","","","chiamati a svolgere compiti di response e remediation in caso di eventi ciberne­ tici di rilievo (vds. IO 5). In particolare, in base al piano d’azio ne attuativo del presente PN: • sarà attribuito al Direttore Genera­ le del DIS un ruolo attivo e centrale nell’ambito degli organi deputati alla gestione ordinaria e straordinaria del­ la sicurezza cibernetica nazionale; • sarà ridotta la complessità dell’ar­ chitettura con l’abolizione del NISP “cyber” e il riposizionamento presso il DIS del NSC, organo, quest’ultimo, cui sarà demandato il coordinamen­
+bernetica nazionale (soppressione nel NISP “cyber”, revisione del ruolo del NSC, etc.) (vds. IO 1); • complessiva contrazione della “catena di comando” deputata alla gestione delle crisi, al fine di rendere tempe­ stiva ed efficace l’azione degli organi
+
+ARCHITETTURA NAZIONALE CYBER chiamati a svolgere compiti di response e remediation in caso di eventi ciberne­ tici di rilievo (vds. IO 5). In particolare, in base al piano d’azio ne attuativo del presente PN: • sarà attribuito al Direttore Genera­ le del DIS un ruolo attivo e centrale nell’ambito degli organi deputati alla gestione ordinaria e straordinaria del­ la sicurezza cibernetica nazionale; • sarà ridotta la complessità dell’ar­ chitettura con l’abolizione del NISP “cyber” e il riposizionamento presso il DIS del NSC, organo, quest’ultimo, cui sarà demandato il coordinamen­
 
 to della gestione delle crisi ciberne­ tiche e che sarà guidato da un Vice Direttore Generale del medesimo Di­ partimento; • sarà garantita una stretta ed efficace interazione dei due CERT (Nazionale e della Pubblica Amministrazione), così da consentire il necessario alline­ amento operativo degli stessi, riveden­ do regole e responsabilità per la PA (Agenda digitale e AgID) ed i privati (MiSE), al fine di assicurare una capa­ cità unitaria di rilevazione, allarme e prima analisi degli incidenti ciberneti­ ci (vds. IIOO 5, 6 e 7);
 
@@ -111,8 +109,9 @@ to della gestione delle crisi ciberne­ tiche e che sarà guidato da un Vice Dir
 
 Piano d’azione
 
-dei soggetti che operano nei settori d’interesse per la sicurezza nazionale (operatori di servizi essenziali e forni­ tori di servizi digitali), per i quali sarà previsto un obbligo di notifica – al superamento di determinate soglie di gravità – degli incidenti informatici"
-"3","","NUOVO SISTEMA DI GESTIONE DELLE CRISI","","","di rilievo, con conseguenti sanzioni in caso di omissioni (vds. IIOO 2, 5 e 6). Un effettivo cambio di passo nel setto­ re in parola non può prescindere dal con­ tributo delle varie componenti pubbliche, private e della ricerca, che costituiscono la struttura portante del tessuto cyber nazio­ nale. Motivo, questo, per il quale è necessa­ rio lo sviluppo di iniziative che coinvolgano le principali imprese nazionali impegnate nel settore, il tessuto accademico e la ricer­ ca scientifica (vds. IO 8).
+dei soggetti che operano nei settori d’interesse per la sicurezza nazionale (operatori di servizi essenziali e forni­ tori di servizi digitali), per i quali sarà previsto un obbligo di notifica – al superamento di determinate soglie di gravità – degli incidenti informatici
+
+NUOVO SISTEMA DI GESTIONE DELLE CRISI di rilievo, con conseguenti sanzioni in caso di omissioni (vds. IIOO 2, 5 e 6). Un effettivo cambio di passo nel setto­ re in parola non può prescindere dal con­ tributo delle varie componenti pubbliche, private e della ricerca, che costituiscono la struttura portante del tessuto cyber nazio­ nale. Motivo, questo, per il quale è necessa­ rio lo sviluppo di iniziative che coinvolgano le principali imprese nazionali impegnate nel settore, il tessuto accademico e la ricer­ ca scientifica (vds. IO 8).
 
 A tal fine, la componente legata al mondo accademico e della ricerca do­ vrà trovare adeguato impulso attraverso
 
@@ -178,8 +177,7 @@ Controllo in grado di pianificare e condurre operazioni militari nello spazio ci
 1.5 Processo delle lezioni apprese a. Creare un insieme di procedure e stru­
 
 menti che permettano, possibilmente in modo automatizzato, di registrare, analizzare, valorizzare e condividere le lezioni apprese nella gestione di inci­ denti informatici tra tutti i vari attori, anche privati, in funzione del need to know e del need to share"
-"2","","INDIRIZZO OPERATIVO 2","","",""
-"2","","POTENZIAMENTO DELL’ORGANIZZAZIONE E DELLE MODALITÀ DI COORDINAMENTO E DI INTERAZIONE A LIVELLO NAZIONALE TRA SOGGETTI PUBBLICI E PRIVATI","","","Tale indirizzo si pone l’obiettivo di potenziare il coordinamento e la cooperazione non solo tra i diversi soggetti pubblici, ma anche tra questi e i soggetti privati, considerato che questi ultimi gestiscono le infrastrutture critiche nazionali. Da qui discende l’esigenza di assicurare l’interope­ rabilità tra i vari attori, anche a livello internazionale.
+"2","","INDIRIZZO OPERATIVO 2 — POTENZIAMENTO DELL’ORGANIZZAZIONE E DELLE MODALITÀ DI COORDINAMENTO E DI INTERAZIONE A LIVELLO NAZIONALE TRA SOGGETTI PUBBLICI E PRIVATI","","","Tale indirizzo si pone l’obiettivo di potenziare il coordinamento e la cooperazione non solo tra i diversi soggetti pubblici, ma anche tra questi e i soggetti privati, considerato che questi ultimi gestiscono le infrastrutture critiche nazionali. Da qui discende l’esigenza di assicurare l’interope­ rabilità tra i vari attori, anche a livello internazionale.
 
 2.1 Integrazione a. Favorire l’operatività dei già esistenti
 
@@ -207,9 +205,11 @@ a. Consolidare gli specifici canali di dia­
 
 logo e consultazione tra le istituzioni ed il settore privato, nell’ottica dell’ap­ proccio “Sistema Paese” b. Favorire la partecipazione del settore
 
-privato ad esercitazioni internazionali sulle tematiche della protezione delle in­ frastrutture critiche informatizzate"
-"2","","INDIRIZZO OPERATIVO 3","","",""
-"2","","PROMOZIONE E DIFFUSIONE DELLA CULTURA DELLA SICUREZZA","","","INFORMATICA."
+privato ad esercitazioni internazionali sulle tematiche della protezione delle in­ frastrutture critiche informatizzate
+
+INDIRIZZO OPERATIVO 3 — PROMOZIONE E DIFFUSIONE DELLA CULTURA DELLA SICUREZZA
+
+INFORMATICA."
 "2","","FORMAZIONE E ADDESTRAMENTO","","","La formazione e l’addestramento nel settore della sicurezza informatica sono stati, fino ad oggi, orientati prevalentemente al personale specialistico che opera o che è destinato ad operare nel settore. Si pone, pertanto, l’esigenza di un’attività di promozione della cultura della sicurezza informatica diretta ad un ampio pubblico, che includa privati cittadini e personale, sia delle im­ prese che della Pubblica Amministrazione.
 
 3.1 Sviluppo concetti e dottrina a. Analizzare l’evoluzione del quadro
@@ -243,8 +243,7 @@ rizzando quelli esistenti, le funzioni di formazione ed addestramento nel set­ 
 ri e di ricerca nella definizione di per­ corsi formativi ad hoc a favore di perso­ nale della Pubblica Amministrazione e delle imprese g. Mappare i centri di eccellenza in ma­
 
 teria"
-"2","","INDIRIZZO OPERATIVO 4","","",""
-"2","","COOPERAZIONE INTERNAZIONALE ED ESERCITAZIONI","","","Il carattere per definizione transnazionale della minaccia cibernetica e la sua pervasività richiedono un approccio internazionale alla tematica, posto che i singoli Stati devono necessa­ riamente agire sinergicamente per far fronte alla stessa. Ciò presuppone, necessariamente, un comune livello di preparazione e di interoperabilità.
+"2","","INDIRIZZO OPERATIVO 4 — COOPERAZIONE INTERNAZIONALE ED ESERCITAZIONI","","","Il carattere per definizione transnazionale della minaccia cibernetica e la sua pervasività richiedono un approccio internazionale alla tematica, posto che i singoli Stati devono necessa­ riamente agire sinergicamente per far fronte alla stessa. Ciò presuppone, necessariamente, un comune livello di preparazione e di interoperabilità.
 
 4.1 Rafforzamento della cooperazio­ ne bilaterale e multilaterale
 
@@ -273,8 +272,7 @@ a. Promuovere e diffondere, anche a be­
 neficio del settore privato, l’informa­ zione relativa alle iniziative ed alle mo­ dalità di partecipazione ai fondi resi disponibili dall’Unione Europea b. Ottimizzare l’accesso ai fondi dell’Unione Europea c. Partecipare a progetti finanziati dall’Unione Europea d. Partecipare a progetti NATO e di altre
 
 organizzazioni internazionali"
-"2","","INDIRIZZO OPERATIVO 5","","",""
-"2","","OPERATIVITÀ DELLE STRUTTURE NAZIONALI DI INCIDENT PREVENTION, RESPONSE E REMEDIATION","","","L’approntamento di capacità di prevenzione e reazione ad eventi cibernetici richiede lo svi­ luppo di Computer Emergency Response Team (CERT) quali soggetti erogatori di servizi di assi­ stenza tecnica, ricerca e sviluppo, formazione e informazione per i rispettivi utenti, pubblici e/o privati. La Direttiva NIS prevede, quantomeno a favore dei gestori di servizi essenziali, la costitu­ zione dei Computer Security Incident Response Team (CSIRT), una nuova tipologia di organismo intesa quale evoluzione dei CERT in grado di assicurare una effettiva capacità di assistenza e sup­ porto attivo alla propria constituency in caso di evento cibernetico. Nel contesto del recepimento delle novità introdotte dalla Direttiva NIS, occorre ridefinire il ruolo rivestito dagli attori presenti nell’attuale architettura nazionale (i vari CERT) e quelli che vi faranno ingresso (oltre a CSIRT, Autorità nazionale/i e punto unico di contatto). Nelle more del recepimento della direttiva NIS, sarà avviato un processo di progressiva unificazione dei CERT pubblici per sancire, nei settori di interesse strategico, la competenza esclusiva di un CERT nazionale unico, ovvero per creare una rete nazionale di CERT individuando un soggetto con poteri di coordinamento.
+"2","","INDIRIZZO OPERATIVO 5 — OPERATIVITÀ DELLE STRUTTURE NAZIONALI DI INCIDENT PREVENTION, RESPONSE E REMEDIATION","","","L’approntamento di capacità di prevenzione e reazione ad eventi cibernetici richiede lo svi­ luppo di Computer Emergency Response Team (CERT) quali soggetti erogatori di servizi di assi­ stenza tecnica, ricerca e sviluppo, formazione e informazione per i rispettivi utenti, pubblici e/o privati. La Direttiva NIS prevede, quantomeno a favore dei gestori di servizi essenziali, la costitu­ zione dei Computer Security Incident Response Team (CSIRT), una nuova tipologia di organismo intesa quale evoluzione dei CERT in grado di assicurare una effettiva capacità di assistenza e sup­ porto attivo alla propria constituency in caso di evento cibernetico. Nel contesto del recepimento delle novità introdotte dalla Direttiva NIS, occorre ridefinire il ruolo rivestito dagli attori presenti nell’attuale architettura nazionale (i vari CERT) e quelli che vi faranno ingresso (oltre a CSIRT, Autorità nazionale/i e punto unico di contatto). Nelle more del recepimento della direttiva NIS, sarà avviato un processo di progressiva unificazione dei CERT pubblici per sancire, nei settori di interesse strategico, la competenza esclusiva di un CERT nazionale unico, ovvero per creare una rete nazionale di CERT individuando un soggetto con poteri di coordinamento.
 
 5.1 Sviluppo di una capacità nazio­ nale integrata di incident pre­ vention, response e remediation
 
@@ -317,8 +315,7 @@ a. Definire modalità ordinarie di acqui­
 sizione di beni e servizi da parte delle P.A., anche mediante l’utilizzo delle cen­ trali d’acquisto pubbliche (CONSIP), per approntare adeguate misure di sicu­ rezza a protezione dei rispettivi assetti cibernetici b. Individuare, a cura degli attori pubbli­
 
 ci coinvolti nel relativo processo (AgID, ANAC, Corte dei Conti, Consip, ecc.), strumenti idonei per l’acquisizione dei beni e servizi da parte della P.A. necessari a fronteggiare le emergenze cibernetiche"
-"2","","INDIRIZZO OPERATIVO 6","","",""
-"2","","INTERVENTI LEGISLATIVI E COMPLIANCE CON OBBLIGHI INTERNAZIONALI","","","La rapida evoluzione tecnologico-informatica comporta un’altrettanto veloce obsolescenza delle norme che disciplinano materie correlate alle tecnologie dell’informazione e della comunica­ zione. Pertanto, esse necessitano di periodiche revisioni e aggiornamenti, oltre che di integrazioni, anche per creare un substrato giuridico alle attività condotte ai fini della protezione cibernetica e della sicurezza informatica e per responsabilizzare gli amministratori e gli utenti delle operazioni da questi compiute sui sistemi loro assegnati.
+"2","","INDIRIZZO OPERATIVO 6 — INTERVENTI LEGISLATIVI E COMPLIANCE CON OBBLIGHI INTERNAZIONALI","","","La rapida evoluzione tecnologico-informatica comporta un’altrettanto veloce obsolescenza delle norme che disciplinano materie correlate alle tecnologie dell’informazione e della comunica­ zione. Pertanto, esse necessitano di periodiche revisioni e aggiornamenti, oltre che di integrazioni, anche per creare un substrato giuridico alle attività condotte ai fini della protezione cibernetica e della sicurezza informatica e per responsabilizzare gli amministratori e gli utenti delle operazioni da questi compiute sui sistemi loro assegnati.
 
 6.1 Revisione e consolidamento della legislazione in materia di sicurez­ za informatica
 
@@ -361,8 +358,7 @@ ni e settore privato al fine di elaborare proposte per il recepimento della Di­
 chitettura nazionale per la sicurezza del­ lo spazio cibernetico per eventuali revi­ sioni dell’attuale assetto normativo c. Recepire la Direttiva nell’ordinamento
 
 nazionale e definire i relativi provvedi­ menti attuativi, armonizzando le nuove disposizioni con quelle relative alle infra­ strutture critiche e strategiche (Direttiva 2008/114/CE e D.Lgs. n. 61/2011)"
-"2","","INDIRIZZO OPERATIVO 7","","",""
-"2","","COMPLIANCE A STANDARD E PROTOCOLLI DI SICUREZZA","","","La compliance a standard e protocolli di sicurezza, elaborati sia a livello nazionale che in­ ternazionale, consente di garantire un comune ed elevato livello qualitativo nell’assicurare la protezione cibernetica e la sicurezza informatica dei sistemi e delle reti.
+"2","","INDIRIZZO OPERATIVO 7 — COMPLIANCE A STANDARD E PROTOCOLLI DI SICUREZZA","","","La compliance a standard e protocolli di sicurezza, elaborati sia a livello nazionale che in­ ternazionale, consente di garantire un comune ed elevato livello qualitativo nell’assicurare la protezione cibernetica e la sicurezza informatica dei sistemi e delle reti.
 
 7.1 Standardizzazione e compliance a. Aggiornare il quadro nazionale di rife­
 
@@ -403,8 +399,7 @@ a. Effettuare test periodici dei sistemi di
 protezione attraverso verifiche tecni­ che e procedurali b. Definire un sistema di verifica indipen­
 
 dente (es. audit esterno)"
-"2","","INDIRIZZO OPERATIVO 8","","",""
-"2","","SUPPORTO ALLO SVILUPPO INDUSTRIALE E TECNOLOGICO","","","La garanzia dell’affidabilità e della sicurezza di componenti hardware e software prodotte nell’Unione Europea e nei Paesi terzi, specie di quelle impiegate da infrastrutture critiche e da soggetti che svolgono attività di rilevanza strategica per il Paese, rappresenta un obiettivo conse­ guibile solo se tutti gli attori della catena del valore (produttori di componenti hardware, svilup­ patori di software, fornitori di servizi della società dell’informazione) faranno della sicurezza una priorità.
+"2","","INDIRIZZO OPERATIVO 8 — SUPPORTO ALLO SVILUPPO INDUSTRIALE E TECNOLOGICO","","","La garanzia dell’affidabilità e della sicurezza di componenti hardware e software prodotte nell’Unione Europea e nei Paesi terzi, specie di quelle impiegate da infrastrutture critiche e da soggetti che svolgono attività di rilevanza strategica per il Paese, rappresenta un obiettivo conse­ guibile solo se tutti gli attori della catena del valore (produttori di componenti hardware, svilup­ patori di software, fornitori di servizi della società dell’informazione) faranno della sicurezza una priorità.
 
 8.1 Produzione, Innovazione e Cooperazione Tecnologica
 
@@ -421,16 +416,14 @@ multilaterali e bilaterali per favorire le funzioni di ricerca e sviluppo nazion
 a. Favorire la costituzione di un labora­
 
 torio governativo di verifica che sotto­ ponga ad analisi comparativa i sistemi ICT di interesse delle Amministrazioni e delle Infrastrutture Critiche di inte­ resse nazionale"
-"2","","INDIRIZZO OPERATIVO 9","","",""
-"2","","COMUNICAZIONE STRATEGICA","","","La comunicazione circa un evento cibernetico occorso e le relative conseguenze assume un’im­ portanza strategica, in quanto le singole Amministrazioni interessate ed i soggetti privati gestori di servizi essenziali devono essere in grado di fornire, ove necessario o opportuno, un’informazio­ ne completa, corretta, veritiera e trasparente, senza con ciò creare inutili allarmismi che verreb­ bero ad amplificare l’impatto economico e sociale dell’evento stesso.
+"2","","INDIRIZZO OPERATIVO 9 — COMUNICAZIONE STRATEGICA","","","La comunicazione circa un evento cibernetico occorso e le relative conseguenze assume un’im­ portanza strategica, in quanto le singole Amministrazioni interessate ed i soggetti privati gestori di servizi essenziali devono essere in grado di fornire, ove necessario o opportuno, un’informazio­ ne completa, corretta, veritiera e trasparente, senza con ciò creare inutili allarmismi che verreb­ bero ad amplificare l’impatto economico e sociale dell’evento stesso.
 
 9.1 Comunicazione strategica e operativa
 
 a. Sviluppare un coordinamento sulla
 
 Situation Awareness dei contenuti e delle informazioni, allo scopo di rendere efficaci i flussi comunicativi anche in funzione delle relative azioni di risposta e ripristino, individuando le circostanze in cui può rendersi necessaria la diffusione al pubblico delle informazioni e relativi canali di comunicazione"
-"2","","INDIRIZZO OPERATIVO 10","","",""
-"2","","RISORSE","","","Punto di partenza per un’oculata pianificazione finanziaria e per la ripartizione delle risorse è l’analisi dei costi di eventi cibernetici occorsi o potenziali, in quanto la rilevanza del rischio è direttamente proporzionale alla probabilità ed all’entità del danno. Parimenti, l’opportunità e la priorità d’intervento su una specifica vulnerabilità potrebbero essere meglio supportate a livello decisionale qualora corredate degli opportuni elementi di valutazione economica. Quest’ultima potrebbe meglio bilanciare l’analisi dei costi correlata alle esigenze di investimento nel settore pubblico quanto in quello privato.
+"2","","INDIRIZZO OPERATIVO 10 — RISORSE","","","Punto di partenza per un’oculata pianificazione finanziaria e per la ripartizione delle risorse è l’analisi dei costi di eventi cibernetici occorsi o potenziali, in quanto la rilevanza del rischio è direttamente proporzionale alla probabilità ed all’entità del danno. Parimenti, l’opportunità e la priorità d’intervento su una specifica vulnerabilità potrebbero essere meglio supportate a livello decisionale qualora corredate degli opportuni elementi di valutazione economica. Quest’ultima potrebbe meglio bilanciare l’analisi dei costi correlata alle esigenze di investimento nel settore pubblico quanto in quello privato.
 
 10.1 Pianificazione finanziaria e aspetti economici
 
@@ -457,8 +450,7 @@ nanziari per l’ottimizzazione e l’even­ tuale condivisione delle spese, col
 10.4 Personale a. Agevolare la condivisione intermini­
 
 steriale al fine di favorire approcci in­ tegrati per il reclutamento di persona­ le specializzato, tenendo anche conto delle best practices internazionali"
-"2","","INDIRIZZO OPERATIVO 11","","",""
-"2","","IMPLEMENTAZIONE DI UN SISTEMA DI CYBER RISK MANAGEMENT NAZIONALE","","","La protezione dei dati da minacce che ne pregiudicano l’autenticità, l’integrità, la riservatez­ za e la disponibilità è parte integrante del presente Piano Nazionale in quanto le informazioni costituiscono un valore intrinseco all’organizzazione, pubblica o privata, e imprescindibile obiet­ tivo di ogni attacco cibernetico.
+"2","","INDIRIZZO OPERATIVO 11 — IMPLEMENTAZIONE DI UN SISTEMA DI CYBER RISK MANAGEMENT NAZIONALE","","","La protezione dei dati da minacce che ne pregiudicano l’autenticità, l’integrità, la riservatez­ za e la disponibilità è parte integrante del presente Piano Nazionale in quanto le informazioni costituiscono un valore intrinseco all’organizzazione, pubblica o privata, e imprescindibile obiet­ tivo di ogni attacco cibernetico.
 
 11.1 Metodologia a. Adottare il piano di valutazione dei
 

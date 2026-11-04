@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg).",
   "license": {
-    "spdx": "LicenseRef-SG-Government-Copyright",
-    "Grouping": "Government-Open-Access",
-    "redistribution": "yes",
+    "spdx": "LicenseRef-SG-Government-NonCommercial-NoDerivatives",
+    "Grouping": "Non-Commercial-No-Derivatives",
+    "redistribution": "permitted_non_commercial_verbatim",
     "derivatives": "prohibited",
     "publicly_redistributable": true,
-    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
-    "note": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
-    "notes": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use."
+    "license_text_url": "https://www.smartnation.gov.sg/terms-of-use/",
+    "note": "Copyright Government of Singapore (MDDI / Smart Nation). Document explicitly permits reproduction without modification for non-commercial use only.",
+    "notes": "Copyright Government of Singapore (MDDI / Smart Nation). Document explicitly permits reproduction without modification for non-commercial use only."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 68-page PDF (https://file.go.gov.sg/nais2023.pdf) locally via PyMuPDF (66,492 chars). Parsed 83 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 68-page PDF (https://file.go.gov.sg/nais2023.pdf) locally via PyMuPDF (66,492 chars). Parsed 51 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

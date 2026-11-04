@@ -44,7 +44,7 @@ National Artificial Intelligence Strategy 5
 
 ## Foreword by Mr Lee Hsien Loong, Prime Minister of Singapore FOREWORD
 
-## The National AI Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy, going beyond just adopting technology, to fundamentally rethinking business models and making deep changes to reap productivity gains
+The National AI Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy, going beyond just adopting technology, to fundamentally rethinking business models and making deep changes to reap productivity gains
 
 and create new areas of growth.
 
@@ -290,17 +290,17 @@ ideas and contributions from individuals and companies to help deliver our AI vi
 
 National Artificial Intelligence Strategy 11
 
-## WHY A NATIONAL AI STRATEGY?
+WHY A NATIONAL AI STRATEGY?
 
 1
 
 •
 
-## What AI has to offer
+What AI has to offer
 
 •
 
-## What we hope to achieve from a National Strategy
+What we hope to achieve from a National Strategy
 
 •
 
@@ -416,13 +416,9 @@ National Artificial Intelligence Strategy 15
 
 National Artificial Intelligence Strategy 17
 
-## VISION
+## VISION — By 2030, Singapore will be a leader in developing and deploying
 
-## By 2030, Singapore will be a leader in developing and deploying
-
-## scalable, impactful AI solutions, in key sectors of high value and
-
-relevance to our citizens and businesses.
+scalable, impactful AI solutions, in key sectors of high value and relevance to our citizens and businesses.
 
 Singaporeans will trust the use of AI in their lives. This confidence is borne out of a clear awareness
 
@@ -474,7 +470,7 @@ industry and society, for which
 
 AI can be put to good use.
 
-### 3. Scaling
+3. Scaling
 
 ### 2. Development and Testing
 
@@ -570,8 +566,6 @@ norms) and human intentions.
 
 National Artificial Intelligence Strategy 21
 
-## STRATEGY
-
 ## The National AI Strategy consists of two components:
 
 ### National AI Projects
@@ -606,27 +600,25 @@ Environment, and International Collaboration.
 
 National Artificial Intelligence Strategy 23
 
-## NATIONAL AI PROJECTS
+NATIONAL AI PROJECTS
 
 3
 
 •
 
-## Intelligent Freight Planning
+Intelligent Freight Planning
 
 •
 
-## Seamless and Efficient Municipal Services
+Seamless and Efficient Municipal Services
 
 •
 
-## Chronic Disease Prediction and Management
+Chronic Disease Prediction and Management
 
 •
 
-## Personalised Education through Adaptive Learning
-
-## and Assessment
+Personalised Education through Adaptive Learning — and Assessment
 
 •
 
@@ -634,17 +626,9 @@ National Artificial Intelligence Strategy 23
 
 National Artificial Intelligence Strategy 25
 
-## CREATING IMPACT THROUGH NATIONAL AI PROJECTS
+## CREATING IMPACT THROUGH NATIONAL AI PROJECTS — The 5 National AI Projects address key national challenges for Singapore in transport and logistics, smart cities and estates, — healthcare, education, and safety and security. Implementing them
 
-## The 5 National AI Projects address key national challenges for
-
-## Singapore in transport and logistics, smart cities and estates,
-
-## healthcare, education, and safety and security. Implementing them
-
-## will require our research institutes, industry, and Government to
-
-work collectively to develop and deploy AI solutions.
+will require our research institutes, industry, and Government to work collectively to develop and deploy AI solutions.
 
 National Artificial Intelligence Strategy 27
 
@@ -810,9 +794,7 @@ efficiency of Singapore’s logistics ecosystem.
 
 National Artificial Intelligence Strategy 29
 
-## 2. SEAMLESS AND EFFICIENT MUNICIPAL SERVICES
-
-## Challenge
+## 2. SEAMLESS AND EFFICIENT MUNICIPAL SERVICES Challenge
 
 ### How can municipal services be delivered to residents in a more responsive, reliable and timely manner?
 
@@ -842,13 +824,9 @@ and 16 Town Councils work tirelessly to ensure
 
 that Singapore residents enjoy a high¹ standard
 
-## Objective
+Objective of municipal services.
 
-of municipal services.
-
-### More responsive, reliable, and timely
-
-neighbourhood services.
+More responsive, reliable, and timely neighbourhood services.
 
 Several of these services are high-volume and
 
@@ -906,9 +884,7 @@ AI algorithms can be deployed in the
 
 neighbourhood, such as in lifts, to alert us to
 
-## Our First Steps
-
-would-be faults before they occur, and help
+Our First Steps would-be faults before they occur, and help
 
 us pre-emptively address issues to minimise
 
@@ -1122,17 +1098,11 @@ their medication and report for check-ups.
 
 National Artificial Intelligence Strategy 33
 
-## 4. PERSONALISED EDUCATION THROUGH ADAPTIVE LEARNING AND ASSESSMENT
+## 4. PERSONALISED EDUCATION THROUGH ADAPTIVE LEARNING AND ASSESSMENT Challenge Objective
 
-## Challenge
+How can we help teachers to better customise and improve the learning experience for every student, particularly those with learning difficulties?
 
-## Objective
-
-### How can we help teachers to better customise and improve the learning experience for every student, particularly those with learning difficulties?
-
-### More personalised learning and
-
-assessment for every student.
+More personalised learning and assessment for every student.
 
 We will leverage AI through the Singapore
 
@@ -1208,9 +1178,7 @@ The automated marking system will be able to
 
 assess open-ended student responses such as
 
-## Our First Steps
-
-short-answer response questions and essays,
+Our First Steps short-answer response questions and essays,
 
 and provide quick feedback to students’ work.
 
@@ -1244,17 +1212,11 @@ and recommend further learning activities.
 
 National Artificial Intelligence Strategy 35
 
-## 5. BORDER CLEARANCE OPERATIONS
-
-## Challenge
-
-## Objective
+## 5. BORDER CLEARANCE OPERATIONS Challenge Objective
 
 ### How do we continue to strengthen border security while improving traveller experience?
 
-### 100% automated immigration
-
-clearance for all travellers.
+100% automated immigration clearance for all travellers.
 
 The demand for secure and efficient immigration
 
@@ -1366,27 +1328,25 @@ National Artificial Intelligence Strategy 37
 
 National Artificial Intelligence Strategy 39
 
-## BUILDING THE AI ECOSYSTEM
+BUILDING THE AI ECOSYSTEM
 
 4
 
 •
 
-## Triple Helix Partnership between the Research
-
-## Community, Industry and Government
+Triple Helix Partnership between the Research — Community, Industry and Government
 
 •
 
-## AI Talent and Education
+AI Talent and Education
 
 •
 
-## Data Architecture
+Data Architecture
 
 •
 
-## Progressive and Trusted Environment
+Progressive and Trusted Environment
 
 •
 
@@ -1394,23 +1354,15 @@ National Artificial Intelligence Strategy 39
 
 National Artificial Intelligence Strategy 41
 
-## Even as Singapore embarks on National AI Projects,
+Even as Singapore embarks on National AI Projects,
 
-## we must build a vibrant and sustainable AI ecosystem
+we must build a vibrant and sustainable AI ecosystem to anchor AI innovation and adoption across the economy.
 
-to anchor AI innovation and adoption across the economy.
-
-## We have identified five ecosystem enablers:
-
-## THE ECOSYSTEM ENABLERS
+## We have identified five ecosystem enablers: — THE ECOSYSTEM ENABLERS
 
 National Artificial Intelligence Strategy 43
 
-## ECOSYSTEM ENABLER 1
-
-## TRIPLE HELIX PARTNERSHIP
-
-## – Research Community, Industry and Government
+## ECOSYSTEM ENABLER 1 — TRIPLE HELIX PARTNERSHIP — – Research Community, Industry and Government
 
 The research community, industry, and Government play important, interconnected roles to enable the
 
@@ -1918,9 +1870,7 @@ Artist’s impression of PDD
 
 National Artificial Intelligence Strategy 55
 
-## ECOSYSTEM ENABLER 2
-
-## AI TALENT AND EDUCATION
+## ECOSYSTEM ENABLER 2 — AI TALENT AND EDUCATION
 
 Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need
 
@@ -2168,9 +2118,7 @@ companies tap on skilled global talent to strengthen their tech capabilities and
 
 National Artificial Intelligence Strategy 61
 
-## ECOSYSTEM ENABLER 3
-
-## DATA ARCHITECTURE
+## ECOSYSTEM ENABLER 3 — DATA ARCHITECTURE
 
 Data is the foundation that anchors AI collaboration between Government, industry, and research.
 
@@ -2324,9 +2272,7 @@ and to apply digital technologies such as AI to enrich the value of our data ass
 
 National Artificial Intelligence Strategy 65
 
-## ECOSYSTEM ENABLER 4
-
-## PROGRESSIVE AND TRUSTED ENVIRONMENT
+## ECOSYSTEM ENABLER 4 — PROGRESSIVE AND TRUSTED ENVIRONMENT
 
 Singapore’s governance and regulatory regime must strike the right balance between fostering
 
@@ -2486,9 +2432,7 @@ Mr Yeong Zee Kin
 
 National Artificial Intelligence Strategy 69
 
-### Live with AI, SUTD Lee Kuan Yew Centre for Innovative Cities and DataRobot’s joint research on AI and work
-
-### INTRODUCTION TO LIVE WITH AI
+### Live with AI, SUTD Lee Kuan Yew Centre for Innovative Cities and DataRobot’s joint research on AI and work — INTRODUCTION TO LIVE WITH AI
 
 Live with AI is a non-profit foundation based in Singapore, which believes that AI will impact
 
@@ -2612,9 +2556,7 @@ IPOS presents the patent grant certificate to Dr Benjamin Bai, Vice President an
 
 Chief IP Counsel, Ant Financial, Alibaba.
 
-## ECOSYSTEM ENABLER 5
-
-## INTERNATIONAL COLLABORATION
+## ECOSYSTEM ENABLER 5 — INTERNATIONAL COLLABORATION
 
 International collaboration is essential for driving sustainable development of AI. Singapore has
 
@@ -3090,9 +3032,7 @@ and global collaborations. I am excited by the opportunities ahead and am confid
 
 will be a leading player in AI.
 
-## BROUGHT TO YOU BY
-
-## PARTNERING AGENCIES
+## BROUGHT TO YOU BY — PARTNERING AGENCIES
 
 Published November 2019
 

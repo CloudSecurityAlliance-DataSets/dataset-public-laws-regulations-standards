@@ -82,9 +82,7 @@ OS 3 Une économie qui se prépare à la guerre 45 OS 4 Une résilience cyber de
 
 18. Cette ambition se décline en onze objectifs stratégiques, qui seront mis en œuvre simultanément, et déclinés au moyen d’éléments concrets présentés dans la troisième partie du document.
 
-## ÉVOLUTION DU CONTEXTE STRATÉGIQUE DEPUIS 2022
-
-## Appréciation de l’évolution de l’environnement stratégique
+## ÉVOLUTION DU CONTEXTE STRATÉGIQUE DEPUIS 2022 — Appréciation de l’évolution de l’environnement stratégique
 
 ### 1. Une dégradation accélérée de l’environnement sécuritaire mondial
 
@@ -498,9 +496,7 @@ chercher à se coordonner, au cas par cas, et à saisir l'opportunité de la rem
 
 154. L’évolution de l’environnement stratégique oblige la France à s’adapter, de manière simultanée, à l’urgence immédiate en accélérant son réarmement global, à se préparer à l’hypothèse d’un engagement majeur de haute intensité dans le voisinage de l’Europe à horizon 2027-2030, parallèle à une hausse massive des attaques hybrides sur son territoire, et à engager la préparation de l’avenir pour rester pleinement maître de son destin national et européen à l’horizon 2040-2050.
 
-## UNE AMBITION 2030 ACTUALISÉE, APPUYÉE PAR DES MOYENS ADAPTÉS
-
-## Ambition 2030 actualisée
+## UNE AMBITION 2030 ACTUALISÉE, APPUYÉE PAR DES MOYENS ADAPTÉS — Ambition 2030 actualisée
 
 155. En 2030, la France est réarmée, matériellement et moralement, pour prévenir, faire face et gagner avec ses alliés et partenaires une guerre majeure de haute intensité dans le voisinage de l’Europe tout en prévenant et en gérant les conséquences d’actions déstabilisatrices concomitantes sur le territoire national.
 
@@ -1350,9 +1346,7 @@ OBJECTIF STRATÉGIQUE
 
 409. Il conviendra également de poursuivre la lutte contre les éléments narratifs anti-occidentaux véhiculés par certains compétiteurs stratégiques. À cette fin, la France coordonnera son action avec ses alliés et ses partenaires afin de contrer les influences là où elles menacent ses intérêts et les intérêts convergents de ses alliés et partenaires.
 
-## La capacité d’emporter la décision dans les opérations militaires
-
-## 10
+## La capacité d’emporter la décision dans les opérations militaires — 10
 
 OBJECTIF STRATÉGIQUE
 
@@ -1432,9 +1426,7 @@ particulièrement en matière de frappes dans la profondeur conventionnelles et 
 
 438. Les armées s’appuieront sur des soutiens robustes capables de régénérer le potentiel des unités, de reconstituer les stocks de munitions et de pièces de rechange, de soutenir les forces au quotidien, à l’entraînement et en opération. Un maillage adapté de prestataires de services, fournisseurs et industriels sur le territoire national contribuera à cet objectif.
 
-## Une excellence académique, scientifique et technologique au service de la souveraineté française et européenne
-
-## 11
+## Une excellence académique, scientifique et technologique au service de la souveraineté française et européenne — 11
 
 OBJECTIF STRATÉGIQUE
 

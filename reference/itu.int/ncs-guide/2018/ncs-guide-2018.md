@@ -1,11 +1,5 @@
 # Guide to Developing a National Cybersecurity Strategy (1st Edition, 2018)
 
-## GUIDE TO DEVELOPING
-
-## A NATIONAL CYBERSECURITY
-
-## STRATEGY
-
 ## STRATEGIC ENGAGEMENT IN CYBERSECURITY
 
 A
@@ -304,7 +298,7 @@ This Guide is first and foremost targeted at policy-makers responsible for devel
 
 ## Introduction
 
-## Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic
+Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic
 
 and social opportunities.
 
@@ -346,9 +340,7 @@ Finally, a National Cybersecurity Strategy development process should translate 
 
 3
 
-## Lifecycle of a National Cybersecurity Strategy
-
-## This Section provides an overview of the various phases in the development of a Strategy, which include:
+## Lifecycle of a National Cybersecurity Strategy — This Section provides an overview of the various phases in the development of a Strategy, which include:
 
 • Phase I – Initiation
 
@@ -672,11 +664,7 @@ Further references available on page 55.
 
 4
 
-## Overarching principles
-
-## This Section presents nine cross-cutting
-
-## principles, which taken together can help in the development of a forward-looking and holistic
+## Overarching principles — This Section presents nine cross-cutting — principles, which taken together can help in the development of a forward-looking and holistic
 
 National Cybersecurity Strategy.
 
@@ -786,13 +774,9 @@ Further references available on page 59.
 
 5
 
-## National Cybersecurity Strategy Good Practice
+## National Cybersecurity Strategy Good Practice — Cybersecurity affects many areas of socio-
 
-## Cybersecurity affects many areas of socio-
-
-## economic development and is influenced by
-
-several factors within the national context.
+economic development and is influenced by several factors within the national context.
 
 Therefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.
 
@@ -1136,9 +1120,7 @@ Further references available on page 66.
 
 ## Reference materials
 
-## In the process of developing this Guide, a stocktaking of existing guides and best
-
-practices was conducted.
+In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.
 
 This allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links.
 

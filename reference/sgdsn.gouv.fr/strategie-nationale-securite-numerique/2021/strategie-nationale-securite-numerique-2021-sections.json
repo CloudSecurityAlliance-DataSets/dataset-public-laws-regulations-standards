@@ -8,7 +8,7 @@
     "body": "- [France 2030](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B679%5D=679)\n- [Innovation](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B585%5D=585)\n- [Cybersécurité](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B575%5D=575)\n- [Numérique](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_secteurs_agrege%5B281%5D=281)"
   },
   {
-    "depth": 1,
+    "depth": 2,
     "section_id": "",
     "section_name": "France 2030 : stratégie d'accélération cybersécurité",
     "id_kind": "",
@@ -53,15 +53,7 @@
     "section_name": "[Coordinateur national cybersécurité](mailto:benjamin.morin@pm.gouv.fr \"Coordinateur national cybersécurité - Dans un nouvel onglet\")",
     "id_kind": "",
     "parent_id": "",
-    "body": "Benjamin Morin\n\nbenjamin.morin@pm.gouv.fr"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "[En savoir plus sur les stratégies d’accélération de France 2030](https://www.info.gouv.fr/organisation/secretariat-general-pour-l-investissement-sgpi/strategies-d-acceleration-pour-l-innovation \"Lien externe - En savoir plus sur les stratégies d’accélération de France 2030 - Dans un nouvel onglet\")",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Benjamin Morin\n\nbenjamin.morin@pm.gouv.fr\n\n[En savoir plus sur les stratégies d’accélération de France 2030](https://www.info.gouv.fr/organisation/secretariat-general-pour-l-investissement-sgpi/strategies-d-acceleration-pour-l-innovation \"Lien externe - En savoir plus sur les stratégies d’accélération de France 2030 - Dans un nouvel onglet\")"
   },
   {
     "depth": 2,
@@ -77,31 +69,7 @@
     "section_name": "Ceci pourrait vous intéresser",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "[Start-up deeptech : un accompagnement pour lever vos blocages réglementaires](https://www.entreprises.gouv.fr/la-dge/actualites/start-deeptech-un-accompagnement-pour-lever-vos-blocages-reglementaires \"Start-up deeptech : un accompagnement pour lever vos blocages réglementaires\")",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Une règle bloque votre innovation ? La Direction générale des Entreprises lance le dispositif Guichet Deeptech en partenariat avec France Expérimentation, pour vous aider.\n\n- Innovation\n- La French Tech\n\n14\noctobre\n2026"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "[France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises](https://www.entreprises.gouv.fr/la-dge/publications/france-2030-des-effets-positifs-sur-lemploi-et-le-capital-productif-des \"France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises\")",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Le plan France 2030 soutient l’innovation et la réindustrialisation. Ses aides ont un effet positif sur les entreprises bénéficiaires, avec une hausse de 9 % de l’emploi et de 11 % de l’emploi en R&D ...\n\n- Industrie\n- France 2030\n- Innovation\n- TPE-PME\n\nLes Thémas de la DGE\n\n12\noctobre\n2026"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "[DECARB FLASH ARTISANAT](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/decarb-flash-artisanat \"DECARB FLASH ARTISANAT\")",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Dans le cadre du plan d’électrification de la France, un nouvel appel à projets est lancé pour accompagner les entreprises artisanales dans le remplacement de leurs équipements fonctionnant aux énergies fossiles par des équipements électriques.\n\n- En cours\n- Commerce, artisanat et restauration\n- Accompagnement des entreprises\n- France 2030\n- Décarbonation\n- Transition écologique\n\nAppel à projets\n\nDu 30 septembre 2026\nau 15 juin 2027\n\n[Haut de page](https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16#haut-de-page)"
+    "body": "[Start-up deeptech : un accompagnement pour lever vos blocages réglementaires](https://www.entreprises.gouv.fr/la-dge/actualites/start-deeptech-un-accompagnement-pour-lever-vos-blocages-reglementaires \"Start-up deeptech : un accompagnement pour lever vos blocages réglementaires\")\n\nUne règle bloque votre innovation ? La Direction générale des Entreprises lance le dispositif Guichet Deeptech en partenariat avec France Expérimentation, pour vous aider.\n\n- Innovation\n- La French Tech\n\n14\noctobre\n2026\n\n[France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises](https://www.entreprises.gouv.fr/la-dge/publications/france-2030-des-effets-positifs-sur-lemploi-et-le-capital-productif-des \"France 2030 : des effets positifs sur l’emploi et le capital productif des entreprises\")\n\nLe plan France 2030 soutient l’innovation et la réindustrialisation. Ses aides ont un effet positif sur les entreprises bénéficiaires, avec une hausse de 9 % de l’emploi et de 11 % de l’emploi en R&D ...\n\n- Industrie\n- France 2030\n- Innovation\n- TPE-PME\n\nLes Thémas de la DGE\n\n12\noctobre\n2026\n\n[DECARB FLASH ARTISANAT](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/decarb-flash-artisanat \"DECARB FLASH ARTISANAT\")\n\nDans le cadre du plan d’électrification de la France, un nouvel appel à projets est lancé pour accompagner les entreprises artisanales dans le remplacement de leurs équipements fonctionnant aux énergies fossiles par des équipements électriques.\n\n- En cours\n- Commerce, artisanat et restauration\n- Accompagnement des entreprises\n- France 2030\n- Décarbonation\n- Transition écologique\n\nAppel à projets\n\nDu 30 septembre 2026\nau 15 juin 2027\n\n[Haut de page](https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16#haut-de-page)"
   },
   {
     "depth": 2,

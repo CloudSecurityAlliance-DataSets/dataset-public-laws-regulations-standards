@@ -36,9 +36,7 @@ Section 2 Revisions to the AI Basic Plan
 
 Section 3 Coordination with Other Plans
 
-### Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the
-
-### world” —
+### Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the world” —
 
 (A world transformed by AI and Japan’s current situation) Artificial intelligence (hereinafter “AI”) is undergoing rapid technological advancement, led by generative AI. Entering 2025, new AI-related technologies have been advancing, such as “AI agents” that can autonomously execute business operations, and “physical AI” that moves robots and other devices in the real world. AI is becoming indispensable for sustainable global development, as it greatly improves efficiency and convenience across diverse fields, enables new scientific discoveries, and amplifies human creativity.
 
@@ -72,9 +70,7 @@ In doing so, it is essential for the government and private sector to unite in b
 
 As the strategy toward national goals, the government will establish this “Artificial Intelligence Basic Plan” under Article 18, paragraph (1) of the Act on Promotion of Research and Development, and deployment of Artificial Intelligence-related Technology (Act No. 53 of 2025; hereinafter the “AI Act”), and steadily advance the contents included in the AI Basic Plan.
 
-### Chapter 2 Basic Policies on Measures for Promoting Research and Development, and
-
-### Deployment of AI-related Technology
+### Chapter 2 Basic Policies on Measures for Promoting Research and Development, and Deployment of AI-related Technology
 
 This Chapter sets forth the “three principles” and “four basic policies” on measures for promoting research and development, and deployment of AI-related technology, based on the basic principles provided in Article 3 of the AI Act.
 
@@ -108,9 +104,7 @@ To realize a society where humans and AI collaborate, we will proactively and co
 
 Beyond cultivating and securing AI talent who both deploy and create AI, we will build an environment that enhances the people skills and humanness needed to thrive in an AI society, while exploring the division of roles between humans and AI.
 
-### Chapter 3 Measures that the Government Should Comprehensively and
-
-### Systematically Implement to Promote Research and Development, and Utilization of AI-related Technology
+### Chapter 3 Measures that the Government Should Comprehensively and Systematically Implement to Promote Research and Development, and Utilization of AI-related Technology
 
 This chapter establishes “measures that the Government should comprehensively and systematically implement to promote research and development, and utilization of AI-related technology,” based on the three principles and four basic policies outlined in the previous chapter.
 
@@ -350,11 +344,9 @@ the foundation of society, implement reskilling support according to occupation 
 
 (iii) As the very nature of working styles greatly changes with the advancement of AI, examine directions of working styles appropriate for the AI era. [Cabinet Office, Ministry of Health, Labour and Welfare (◎)]
 
-### Chapter 4 Matters Necessary for the Government to Comprehensively and
+### Chapter 4 Matters Necessary for the Government to Comprehensively and Systematically Advance Measures for Promoting Research and Development, and Utilization of AI-related Technology
 
-### Systematically Advance Measures for Promoting Research and Development, and Utilization of AI-related Technology
-
-### Section 1 Implementation Structure and Follow-up for the AI Basic Plan
+#### Section 1 Implementation Structure and Follow-up for the AI Basic Plan
 
 To make the AI Basic Plan practical and realize the measures included, it is important to prepare the promotion foundation, share progress information appropriately, and strengthen or enhance adjustments and coordination as needed.
 

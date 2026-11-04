@@ -24,79 +24,77 @@ P - 23-02503-a
 
 ## Contents
 
-Minister’s foreword 4
+Minister’s foreword  4
 
-Executive summary: Our 2030 Vision 6
+Executive summary: Our 2030 Vision  6
 
-Strategic context 11
+Strategic context  11
 
-Why we must act now 12
+Why we must act now  12
 
-Why Australia has an opportunity to lead 13
+Why Australia has an opportunity to lead  13
 
-Our Strategy 15
+Our Strategy  15
 
-Shield 1: Strong businesses and citizens 16
+Shield 1: Strong businesses and citizens  16
 
-1. Support small and medium businesses to strengthen their cyber security 18
+1. Support small and medium businesses to strengthen their cyber security  18
 
-2. Help Australians defend themselves from cyber threats 19
+2. Help Australians defend themselves from cyber threats  19
 
-3. Disrupt and deter cyber threat actors from attacking Australia 20
+3. Disrupt and deter cyber threat actors from attacking Australia  20
 
-4. Work with industry to break the ransomware business model 22
+4. Work with industry to break the ransomware business model  22
 
-5. Provide clear cyber guidance for businesses  23
+5. Provide clear cyber guidance for businesses   23
 
-6. Make it easier for Australian businesses to access advice and support after a cyber incident 25
+6. Make it easier for Australian businesses to access advice and support after a cyber incident  25
 
-7. Secure our identities and provide better support to victims of identity theft 26
+7. Secure our identities and provide better support to victims of identity theft  26
 
-Shield 2: Safe technology 28
+Shield 2: Safe technology  28
 
-8. Ensure Australians can trust their digital products and software 29
+8. Ensure Australians can trust their digital products and software  29
 
-9. Protect our most valuable datasets 31
+9. Protect our most valuable datasets  31
 
-10. Promote the safe use of emerging technology 32
+10. Promote the safe use of emerging technology  32
 
-Shield 3: World-class threat sharing and blocking 34
+Shield 3: World-class threat sharing and blocking  34
 
-11. Create a whole-of-economy threat intelligence network 35
+11. Create a whole-of-economy threat intelligence network  35
 
-12. Scale threat blocking capabilities to stop cyber attacks 37
+12. Scale threat blocking capabilities to stop cyber attacks  37
 
-Shield 4: Protected critical infrastructure 38
+Shield 4: Protected critical infrastructure  38
 
-13. Clarify the scope of critical infrastructure regulation 40
+13. Clarify the scope of critical infrastructure regulation  40
 
-14. Strengthen cyber security obligations and compliance for critical infrastructure 41
+14. Strengthen cyber security obligations and compliance for critical infrastructure  41
 
-15. Uplift cyber security of the Commonwealth Government 42
+15. Uplift cyber security of the Commonwealth Government  42
 
-16. Pressure-test our critical infrastructure to identify vulnerabilities 44
+16. Pressure-test our critical infrastructure to identify vulnerabilities  44
 
-Shield 5: Sovereign capabilities 46
+Shield 5: Sovereign capabilities  46
 
-17. Grow and professionalise our national cyber workforce 47
+17. Grow and professionalise our national cyber workforce  47
 
-18. Accelerate our local cyber industry, research and innovation 50
+18. Accelerate our local cyber industry, research and innovation  50
 
-Shield 6: Resilient region and global leadership 52
+Shield 6: Resilient region and global leadership  52
 
-19. Support a cyber resilient region as the partner of choice 53
+19. Support a cyber resilient region as the partner of choice  53
 
-20. Shape, uphold and defend international cyber rules, norms and standards 55
+20. Shape, uphold and defend international cyber rules, norms and standards  55
 
-Next steps: Implementation and evaluation 57
+Next steps: Implementation and evaluation  57
 
-How we will ensure we are on track to deliver 57
+How we will ensure we are on track to deliver  57
 
-Appendix A: List of acronyms
+Appendix A: List of acronyms
 
-## Minister’s foreword
-
-## The Hon Clare O’Neil MP Minister for Home Affairs | Minister for Cyber Security
+## Minister’s foreword — The Hon Clare O’Neil MP Minister for Home Affairs | Minister for Cyber Security
 
 Cyber security is an urgent national problem, and we need to act now. After a decade of malaise, Australia has fallen behind. For too long, Australian citizens and businesses have been left to fend for themselves against global cyber threats.
 
@@ -404,9 +402,7 @@ Australians deserve gold-standard cyber defences and access to the vast economic
 
 ## Strategic context
 
-## The cyber landscape is evolving quickly, but Australia has a
-
-unique opportunity to lead.
+The cyber landscape is evolving quickly, but Australia has a unique opportunity to lead.
 
 Today, Australia faces a complex cyber security landscape. Australia’s economy is digital, and the continued adoption of safe and secure digital platforms, technologies and online services is critical for our nation’s productivity and future prosperity. However, cyber attacks are growing in number, speed and sophistication. The stakes are higher than ever before, with our most sensitive data and most vulnerable members of the community at risk. But we also have a unique opportunity to become a global leader in cyber security.
 
@@ -436,15 +432,13 @@ Globally, Australia is a leading voice on cyber security. Through multilateral f
 
 These strengths are the backbone of our Strategy, and they fuel our vision for a more secure future. By building on our strategic advantages and capturing new opportunities, Australia can become a world leader in cyber security by 2030.
 
-## Our Strategy
+Our Strategy
 
 1
 
 ## Strong businesses and citizens
 
-## Our citizens and businesses are better protected from cyber
-
-threats, and can bounce back quickly following a cyber attack.
+Our citizens and businesses are better protected from cyber threats, and can bounce back quickly following a cyber attack.
 
 ## What success looks like
 
@@ -474,9 +468,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 • secure our identities and provide better support to victims of identity theft.
 
-## Support small and medium businesses
-
-## to strengthen their cyber security
+## Support small and medium businesses — to strengthen their cyber security
 
 ### The problem we face
 
@@ -508,9 +500,7 @@ The Government’s new Small Business Cyber Security Resilience Service will pro
 
 2
 
-## Help Australians defend
-
-## themselves from cyber threats
+## Help Australians defend — themselves from cyber threats
 
 ### The problem we face
 
@@ -534,9 +524,7 @@ The Government will empower community organisations to deliver tailored cyber aw
 
 3
 
-## Disrupt and deter cyber threat actors
-
-## from attacking Australia
+## Disrupt and deter cyber threat actors — from attacking Australia
 
 ### The problem we face
 
@@ -570,9 +558,7 @@ In collaboration with our global partners, we will seek to hold criminal groups 
 
 We will also build regional capabilities to fight cybercrime in the Pacific and Southeast Asia, through forums such as the Pacific Islands Law Officers’ Network and ASEAN Senior Officials Meeting on Transnational Crime. To protect our shared interests, Government will continue to support more countries within our region to shape the development of new and emerging international legal frameworks on cybercrime.
 
-## Work with industry to break the
-
-## ransomware business model
+## Work with industry to break the — ransomware business model
 
 ### The problem we face
 
@@ -610,9 +596,7 @@ The Government will also continue its efforts to regulate the use of cryptocurre
 
 5
 
-## Provide clear cyber
-
-## guidance for businesses
+## Provide clear cyber — guidance for businesses
 
 ### The problem we face
 
@@ -640,9 +624,7 @@ Following major cyber incidents, this no-fault post-incident review mechanism wi
 
 Lessons learned from these reviews will be shared with the business community and the wider public. Insights on cyber best-practice will be fed into our national threat intelligence sharing and blocking networks, our cyber awareness programs, national cyber exercises and other initiatives to continue to improve our national cyber resilience.
 
-## Make it easier for Australian businesses to access
-
-## advice and support after a cyber incident
+## Make it easier for Australian businesses to access — advice and support after a cyber incident
 
 ### The problem we face
 
@@ -674,9 +656,7 @@ The Government also seeks to provide business and community leaders with greater
 
 7
 
-## Secure our identities and provide better
-
-## support to victims of identity theft
+## Secure our identities and provide better — support to victims of identity theft
 
 ### The problem we face
 
@@ -708,9 +688,7 @@ This funding will enable case management services to allow individual victims of
 
 2
 
-## Australians can trust that their digital products and services
-
-are safe, secure and fit for purpose.
+Australians can trust that their digital products and services are safe, secure and fit for purpose.
 
 ## What success looks like
 
@@ -736,9 +714,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 8
 
-## Ensure Australians can trust their
-
-## digital products and software
+## Ensure Australians can trust their — digital products and software
 
 ### The problem we face
 
@@ -772,9 +748,7 @@ On the international stage, we will work with Quad partners to harmonise softwar
 
 The Government will develop a framework for assessing the national security risks presented by vendor products and services operating within and entering the Australian economy. Using this framework, the Government will help industry manage supply chain risks and make informed procurement decisions about the security of products and services. We will also consult industry on further options to limit the availability of non-secure products in the domestic market.
 
-## Protect our most
-
-## valuable datasets
+## Protect our most — valuable datasets
 
 ### The problem we face
 
@@ -804,9 +778,7 @@ The Government will review the data brokerage ecosystem to assess whether furthe
 
 The Government will also develop a voluntary data classification model, offering guidance to help industry identify, assess and communicate the relative value of their data holdings in a consistent and unified way. This will enable businesses to segment information and implement proportionate operational controls, reducing enterprise risk.
 
-## 10 Promote the safe use of
-
-## emerging technology
+## 10 Promote the safe use of emerging technology
 
 ### The problem we face
 
@@ -836,7 +808,7 @@ We will continue to monitor developments in quantum computing and set standards 
 
 ## World-class threat sharing and blocking
 
-## Australia has access to real-time threat data,
+Australia has access to real-time threat data,
 
 and we can block threats at scale.
 
@@ -858,9 +830,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 As recently announced by the Prime Minister and Microsoft on 24 October 2023, Microsoft will be investing $5 billion into the Australian technology and cyber security industry. A key element of this investment will be the co-led Microsoft-ASD Cyber Shield (MACS) which will further enhance existing efforts to increase national threat intelligence capabilities with a focus on detecting, analysing and defending Australia from sophisticated nation-state cyber threats. Other key elements of this investment include investing in digital infrastructure to support the growing demand for cloud computing services, investment to seize the opportunity AI offers, partnering with TAFE NSW to deliver a Microsoft Datacentre Academy to support this digital infrastructure and AI investment. These initiatives demonstrate how industry and government can work together to deliver a beneficial outcome for all Australians.
 
-## 11 Create a whole-of-economy threat
-
-## intelligence network
+## 11 Create a whole-of-economy threat intelligence network
 
 ### The problem we face
 
@@ -892,9 +862,7 @@ By facilitating threat sharing between health providers, a Health ISAC will help
 
 To promote uptake of threat sharing, the Government will encourage and incentivise industry to participate in threat sharing – with a particular focus on organisations most capable of collecting and sharing threat information at scale, such as critical infrastructure.
 
-## Scale threat blocking capabilities
-
-## to stop cyber attacks
+## Scale threat blocking capabilities — to stop cyber attacks
 
 ### The problem we face
 
@@ -924,9 +892,7 @@ Drawing on the work of the Steering Group, the Government will also seek to enco
 
 4
 
-## Our critical infrastructure and essential government systems
-
-can withstand and bounce back from cyber attacks.
+Our critical infrastructure and essential government systems can withstand and bounce back from cyber attacks.
 
 ## What success looks like
 
@@ -1156,9 +1122,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 • pressure-test our critical infrastructure to identify vulnerabilities.
 
-## 13 Clarify the scope of critical
-
-## infrastructure regulation
+## 13 Clarify the scope of critical infrastructure regulation
 
 ### The problem we face
 
@@ -1184,9 +1148,7 @@ The Government will explore options to incorporate cyber security regulation int
 
 Government will also consult with industry to clarify the application of the SOCI Act to ensure critical infrastructure entities are adequately protecting their data storage systems. This consultation will focus on ‘business-critical’ data storage systems where vulnerabilities could impact the availability, integrity, reliability or confidentiality of critical infrastructure assets.
 
-## 14 Strengthen cyber security obligations and
-
-## compliance for critical infrastructure
+## 14 Strengthen cyber security obligations and compliance for critical infrastructure
 
 ### The problem we face
 
@@ -1214,9 +1176,7 @@ The Government will ensure regulated entities are appropriately informed of thei
 
 The Government will consult with industry on how it can help entities better manage the consequences of cyber incidents. This includes the proposal to introduce a last resort all-hazards consequence management power to help industry deal with secondary consequences stemming from significant incidents, where no other Commonwealth, state or territory legislative levers are available to provide an effective response. Under this proposed power, Government would be able to authorise specific actions to manage consequences of a nationally significant incident, including cyber attacks or other hazards. Such powers reflect calls from critical infrastructure for enhanced government support when managing the ongoing impacts of an incident.
 
-## 15 Uplift cyber security of the
-
-## Commonwealth Government
+## 15 Uplift cyber security of the Commonwealth Government
 
 ### The problem we face
 
@@ -1248,9 +1208,7 @@ Government investments in cyber security must be focused on the systems that are
 
 The APS play a critical role in driving the cyber security posture across government. The Government will invest in developing the cyber skills of the APS, establishing a federated approach to growing and managing our in-house cyber capabilities.
 
-## 16 Pressure-test our critical infrastructure
-
-## to identify vulnerabilities
+## 16 Pressure-test our critical infrastructure to identify vulnerabilities
 
 ### The problem we face
 
@@ -1278,9 +1236,7 @@ Running national exercises also presents a valuable opportunity to share cyber b
 
 5
 
-## Australia has a flourishing cyber industry, enabled by a diverse
-
-and professional cyber workforce.
+Australia has a flourishing cyber industry, enabled by a diverse and professional cyber workforce.
 
 ## What success looks like
 
@@ -1300,9 +1256,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 • accelerate our local cyber industry, research and innovation.
 
-## 17 Grow and professionalise our
-
-## national cyber workforce
+## 17 Grow and professionalise our national cyber workforce
 
 ### The problem we face
 
@@ -1344,7 +1298,7 @@ The Government’s reforms to the vocational education and training (VET) system
 
 The Government has also asked the Australian Universities Accord to examine ways that tertiary qualifications can better align with skills needs – now and in the future. By connecting employers and tertiary institutions, we will promote a dynamic approach to shaping cyber qualifications to ensure graduates and apprentices are job ready and competitive in the workplace.
 
-## Accelerate our local cyber industry,
+Accelerate our local cyber industry,
 
 ## research and innovation
 
@@ -1380,7 +1334,7 @@ We will continue to support growth of the cyber security sector through measures
 
 ## Resilient region and global leadership
 
-## Australia’s region is more cyber resilient, and is prospering from the digital economy. We continue to uphold international laws and norms and shape global rules and
+Australia’s region is more cyber resilient, and is prospering from the digital economy. We continue to uphold international laws and norms and shape global rules and
 
 standards in line with our shared interests.
 
@@ -1402,9 +1356,7 @@ To achieve our 2030 vision, the Australian Government will:
 
 • shape, uphold and defend international cyber rules, norms and standards.
 
-## 19 Support a cyber resilient region
-
-## as the partner of choice
+## 19 Support a cyber resilient region as the partner of choice
 
 ### The problem we face
 
@@ -1416,9 +1368,7 @@ The Australian Government will support cyber uplift among our neighbours. Austra
 
 Under this initiative, the Government will:
 
-### 1. Strengthen collective cyber resilience with neighbours in the
-
-Pacific and Southeast Asia
+### 1. Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia
 
 Australia will continue to work with our neighbours in the Pacific and Southeast Asia to build a more cyber resilient region. Our cooperation and assistance will continue to be coordinated by Australia’s Ambassador for Cyber Affairs and Critical Technology.
 
@@ -1434,9 +1384,7 @@ Stronger connectivity will help businesses in our region securely access new opp
 
 The private sector also has an important role to play in building security into all products. In line with our work on Safe Technology in Shield 2, Australia will work with manufacturers and technology providers to ensure countries in the region can access more secure products and services, so that they do not have to compromise between digital development and security.
 
-## Shape, uphold and defend international
-
-## cyber rules, norms and standards
+## Shape, uphold and defend international — cyber rules, norms and standards
 
 ### The problem we face
 
@@ -1484,9 +1432,7 @@ Australia will deploy all arms of statecraft to deter and respond to malicious c
 
 In all its actions, Australia will uphold existing international law and the agreed voluntary norms of responsible state behaviour in cyberspace.
 
-## Next steps: Implementation and evaluation
-
-## How we will ensure we are on track to deliver
+## Next steps: Implementation and evaluation — How we will ensure we are on track to deliver
 
 Implementation is central to achieving our vision. The Australian Government has developed the Cyber Security Strategy Action Plan (the Action Plan), which translates the commitments and initiatives in this Strategy into immediate actions to deliver concrete outcomes.
 

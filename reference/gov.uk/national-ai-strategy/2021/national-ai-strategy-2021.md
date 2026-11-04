@@ -4,15 +4,15 @@
 
 Version 1.2
 
-## Presented to Parliament
+Presented to Parliament
 
-## by the Secretary of State for Digital, Culture, Media and Sport
+by the Secretary of State for Digital, Culture, Media and Sport
 
-## by Command of Her Majesty
+by Command of Her Majesty
 
-## September 2021
+September 2021
 
-## Command Paper 525
+Command Paper 525
 
 ## Contents
 
@@ -96,67 +96,49 @@ Next steps 62
 
 ## Our ten-year plan to make Britain a global AI superpower
 
-### Over the next ten years, the impact of AI on businesses across the UK and the wider world will be profound - and UK universities and startups are already leading the world in building
+Over the next ten years, the impact of AI on businesses across the UK and the wider world will be profound - and UK universities and startups are already leading the world in building
 
 the tools for the new economy.
 
-### New discoveries and methods for harnessing the capacity of machines to learn, aid and assist us in new ways emerge every day from our universities
+New discoveries and methods for harnessing the capacity of machines to learn, aid and assist us in new ways emerge every day from our universities
 
 and businesses.
 
-### AI gives us new opportunities to grow and transform businesses of all sizes, and capture the benefits of innovation
+AI gives us new opportunities to grow and transform businesses of all sizes, and capture the benefits of innovation right across the UK.
 
-right across the UK.
-
-### As we build back better from the challenges of the global pandemic, and prepare for new challenges ahead, we are presented with the opportunity to supercharge our already admirable starting position on AI and to make these technologies central to our development as a global science and innovation
+As we build back better from the challenges of the global pandemic, and prepare for new challenges ahead, we are presented with the opportunity to supercharge our already admirable starting position on AI and to make these technologies central to our development as a global science and innovation
 
 superpower.
 
-## KWASI KWARTENG
+## KWASI KWARTENG — SECRETARY OF STATE FOR — BUSINESS, ENERGY AND — INDUSTRIAL STRATEGY
 
-## SECRETARY OF STATE FOR
-
-## BUSINESS, ENERGY AND
-
-## INDUSTRIAL STRATEGY
-
-### With the help of our thriving AI ecosystem and world leading R&D system, this National AI Strategy will translate the tremendous potential of AI into better growth, prosperity and social benefits for the UK, and to lead the charge in applying AI to the greatest
+With the help of our thriving AI ecosystem and world leading R&D system, this National AI Strategy will translate the tremendous potential of AI into better growth, prosperity and social benefits for the UK, and to lead the charge in applying AI to the greatest
 
 challenges of the 21st Century.
 
 This is the age of artificial intelligence.
 
-### Whether we know it or not, we all interact with AI every day - whether it’s in our social media feeds and smart speakers, or on our online banking. AI, and the data that fuels our algorithms, help protect us from
+Whether we know it or not, we all interact with AI every day - whether it’s in our social media feeds and smart speakers, or on our online banking. AI, and the data that fuels our algorithms, help protect us from
 
 fraud and diagnose serious illness.
 
-### And this technology is evolving every
+And this technology is evolving every day.
 
-day.
-
-### We’ve got to make sure we keep up with the pace of change. The UK is already a world leader in AI, as the home of trailblazing pioneers like Alan Turing and Ada Lovelace and with our strong history of research excellence. This Strategy outlines our vision for how the UK can maintain and build on its position as other countries also race to deliver their own economic and technological
+We’ve got to make sure we keep up with the pace of change. The UK is already a world leader in AI, as the home of trailblazing pioneers like Alan Turing and Ada Lovelace and with our strong history of research excellence. This Strategy outlines our vision for how the UK can maintain and build on its position as other countries also race to deliver their own economic and technological
 
 transformations.
 
-### The challenge now for the UK is to fully unlock the power of AI and data-driven technologies, to build on our early leadership and legacy, and to look forward to the opportunities of this
+The challenge now for the UK is to fully unlock the power of AI and data-driven technologies, to build on our early leadership and legacy, and to look forward to the opportunities of this
 
 coming decade.
 
-## NADINE DORRIES
+## NADINE DORRIES — SECRETARY OF STATE FOR — DIGITAL, CULTURE, MEDIA — AND SPORT
 
-## SECRETARY OF STATE FOR
-
-## DIGITAL, CULTURE, MEDIA
-
-## AND SPORT
-
-### This National AI Strategy will signal to the world our intention to build the most pro-innovation regulatory environment in the world; to drive prosperity across the UK and ensure everyone can benefit from AI; and to apply AI to help solve
+This National AI Strategy will signal to the world our intention to build the most pro-innovation regulatory environment in the world; to drive prosperity across the UK and ensure everyone can benefit from AI; and to apply AI to help solve
 
 global challenges like climate change.
 
-### AI will be central to how we drive growth and enrich lives, and the vision set out in our strategy will help us achieve both of
-
-those vital goals.
+AI will be central to how we drive growth and enrich lives, and the vision set out in our strategy will help us achieve both of those vital goals.
 
 ## Executive summary
 
@@ -492,9 +474,7 @@ Many of the themes in AI policy are similar to tech and digital policy more wide
 
 AI makes predictions and decisions, and fulfils tasks normally undertaken by humans. While diverse opinions, skills, backgrounds and experience are hugely important in designing any service – digital or otherwise – it is particularly important in AI because of the executive function of the systems. As AI increasingly becomes an enabler for transforming the economy and our personal
 
-### The longer term
-
-lives, there are at least three reasons we should care about diversity in our AI ecosystem:
+The longer term lives, there are at least three reasons we should care about diversity in our AI ecosystem:
 
 Making specific predictions about the future impact of a technology – as opposed to the needs of those developing and using it today – has a long history in AI. Since the 1950s various hype cycles have given way to so-called ‘AI winters’ as the promises made have perpetually remained ‘about 20 years away’.
 
@@ -720,9 +700,7 @@ The National AI Research and Innovation (R&I) Programme has five main aims:
 
 • innovation activities in the private sector, both in terms of supporting the development of the UK’s burgeoning AI sector and the adoption of AI across sectors.
 
-### International collaboration on Research & Innovation
-
-### Access to data
+### International collaboration on Research & Innovation — Access to data
 
 The National Data Strategy sets out the government's approach to unlocking the power of data. Access to good quality, representative data from which AI can learn is critical to the development and application of robust and effective AI systems.
 
@@ -874,7 +852,7 @@ sector. Given commercial and innovation priorities in AI, further support for th
 
 ## Pillar 2: Ensuring AI benefits all sectors and regions
 
-### Supporting the transition to an AI-enabled economy, capturing the benefits of AI innovation in the UK, and ensuring AI technologies benefit all sectors and regions
+Supporting the transition to an AI-enabled economy, capturing the benefits of AI innovation in the UK, and ensuring AI technologies benefit all sectors and regions
 
 To ensure that all sectors and regions of the UK economy can benefit from the positive transformation that AI will bring, the government will back the domestic design and development of the next generation of AI systems, and support British business to adopt them, grow and become more productive. The UK has historically been excellent at developing new technologies but less so at commercialising them into products and services.
 
@@ -1054,7 +1032,7 @@ Actions:
 
 ## Pillar 3: Governing AI effectively
 
-### Ensuring that national governance of AI technologies encourages innovation, investment, protects the public and safeguards our fundamental values, while working with global partners to promote the responsible development of AI internationally
+Ensuring that national governance of AI technologies encourages innovation, investment, protects the public and safeguards our fundamental values, while working with global partners to promote the responsible development of AI internationally
 
 Government’s aim is to build the most trusted and pro-innovation system for AI governance in the world.
 
@@ -1080,9 +1058,7 @@ We will collaborate with key actors and partners on the global stage to promote 
 
 • Working with our partners around the world to promote international agreements and standards that deliver for our prosperity and security, and promote innovation that harnesses the benefits of AI as we embed our values such as fairness, openness, liberty, security, democracy, rule of law and respect for human rights.
 
-### Supporting innovation and adoption while protecting the public and building trust
-
-undermine privacy and human agency; and physical, economic and financial harms being enabled or exacerbated by AI technologies. For example, cyber security should be considered early in the development and deployment of AI systems to prevent such harms from arising, by adopting a ‘secure by design’ approach to mitigate against cyber security becoming an afterthought.
+Supporting innovation and adoption while protecting the public and building trust undermine privacy and human agency; and physical, economic and financial harms being enabled or exacerbated by AI technologies. For example, cyber security should be considered early in the development and deployment of AI systems to prevent such harms from arising, by adopting a ‘secure by design’ approach to mitigate against cyber security becoming an afterthought.
 
 The UK has a strong international reputation for the rule of law and technological breakthroughs. To build on this the government set out its pro-innovation approach through its Plan for Digital Regulation. The Plan recognises that well-designed regulation can have a powerful effect on driving growth and shaping a thriving digital economy and society, whereas poorly-designed or restrictive regulation can dampen innovation. The Plan also acknowledges that digital businesses, which include those developing and using AI technologies, are currently operating in some instances without appropriate guardrails. The existing rules and norms, which have so far guided business activity, were in many cases not designed for these modern technologies and business models. In addition, these technologies are themselves disrupting these established rules and norms.
 
@@ -1254,9 +1230,7 @@ In these areas, mature ecosystems of assurance products and services enable peop
 
 To support the development of a mature AI assurance ecosystem, the CDEI is publishing an AI assurance roadmap. This roadmap clarifies the set of activities needed to build a mature assurance ecosystem and identifies the roles and responsibilities of different stakeholders across these activities.
 
-### Public sector as an exemplar
-
-decisions affecting individuals, highlighting the importance of stewarding AI systems in a responsible manner to increase overall trust in their use.
+Public sector as an exemplar decisions affecting individuals, highlighting the importance of stewarding AI systems in a responsible manner to increase overall trust in their use.
 
 The government must lead from the front and set an example in the safe and ethical deployment of AI. The Office for AI and the Government Digital Service worked with The Alan Turing Institute to produce guidance on AI ethics and safety in the public sector in 2019. This guidance identifies the potential harms caused by AI systems and proposes measures to counteract them. The government is working with The Alan Turing Institute to update this guidance in order to provide public servants with the most current information about the state of the art in responsible AI innovation. This update incorporates the delivery of interactive workbooks aimed to equip public sector stakeholders with the practical tools and skills needed to bring the content of the original guidance to life.56
 
@@ -1268,9 +1242,7 @@ The Ministry of Defence is moving quickly against a fast-evolving threat picture
 
 As the CDEI conducts its ongoing work to address bias in algorithmic decision-making, the Commission on Race and Ethnic Disparities recommended that a mandatory transparency obligation be placed on all public sector organisations applying algorithms that have an impact on significant
 
-### AI risk, safety, and long-term development
-
-well as using powers through the National Security & Investment Act to mitigate risks arising from a small number of potentially concerning actors. At a strategic level, the National Resilience Strategy will review our approach to emerging technologies; the Ministry of Defence will set out the details of the approaches by which Defence AI is developed and used; the National AI R&I Programme’s emphasis on AI theory will support safety; and central government will work with the national security apparatus to consider narrow and more general AI as a top-level security issue.
+AI risk, safety, and long-term development well as using powers through the National Security & Investment Act to mitigate risks arising from a small number of potentially concerning actors. At a strategic level, the National Resilience Strategy will review our approach to emerging technologies; the Ministry of Defence will set out the details of the approaches by which Defence AI is developed and used; the National AI R&I Programme’s emphasis on AI theory will support safety; and central government will work with the national security apparatus to consider narrow and more general AI as a top-level security issue.
 
 The government takes the long term risk of non-aligned Artificial General Intelligence, and the unforeseeable changes that it would mean for the UK and the world, seriously.
 
@@ -1304,7 +1276,7 @@ Actions:
 
 10. Work with national security, defence, and leading researchers to understand how to anticipate and prevent catastrophic risks.
 
-## Next steps
+### Next steps
 
 The National AI Strategy proposes three core pillars which, taken together, are areas the UK can make the biggest impact to set the country on its way to being an AI and science superpower fit for the coming decade.
 
@@ -1316,28 +1288,28 @@ We will publish a set of quantitative indicators, given the far-ranging and hard
 
 We will also continue talking with the wider community to get their feedback on AI in the UK. Taken together, this quantitative analysis and qualitative intelligence will enable us to track progress and course-correct if we are at risk of falling short in any particular area.
 
-### Published in September 2021 by the Office for Artificial Intelligence
+Published in September 2021 by the Office for Artificial Intelligence
 
-### © Crown copyright 2021
+© Crown copyright 2021
 
-### This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit: nationalarchives.gov.uk/doc/open-government-licence/version/3
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit: nationalarchives.gov.uk/doc/open-government-licence/version/3
 
-### Where we have identified any third party copyright information you will need to
+Where we have identified any third party copyright information you will need to
 
 obtain permission from the copyright holders concerned.
 
-### ISBN 978-1-5286-2894-5
+ISBN 978-1-5286-2894-5
 
-### E02674508 09/21
+E02674508 09/21
 
-### This publication is available at www.gov.uk/official-documents Any enquiries regarding this publication should be sent to: enquiries@dcms.gov.uk
+This publication is available at www.gov.uk/official-documents Any enquiries regarding this publication should be sent to: enquiries@dcms.gov.uk
 
-### Any enquiries regarding this publication should be sent to: enquiries@dcms.gov.uk
+Any enquiries regarding this publication should be sent to: enquiries@dcms.gov.uk
 
-### ISBN 978-1-5286-2894-5
+ISBN 978-1-5286-2894-5
 
-### E02674508 09/21
+E02674508 09/21
 
-### Published in September 2021 by the Office for Artificial Intelligence
+Published in September 2021 by the Office for Artificial Intelligence
 
-## © Crown copyright 2021
+© Crown copyright 2021

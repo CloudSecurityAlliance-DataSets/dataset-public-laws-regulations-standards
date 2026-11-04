@@ -16,8 +16,8 @@
   "license": {
     "spdx": "etalab-2.0",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
     "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 104-page PDF (https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf) locally via PyMuPDF (291,202 chars). Parsed 46 sections (24 with explicit section identifiers)."
+    "notes": "Extracted 104-page PDF (https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf) locally via PyMuPDF (291,202 chars). Parsed 42 sections (24 with explicit section identifiers)."
   },
   "extraction_history": [
     {

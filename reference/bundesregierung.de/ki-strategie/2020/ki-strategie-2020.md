@@ -1,9 +1,5 @@
 # Artificial Intelligence Strategy of the German Federal Government — 2020 Update
 
-## Artificial Intelligence Strategy of the German Federal Government
-
-## 2020 Update
-
 ## Status: December 2020
 
 Content
@@ -380,9 +376,7 @@ Every citizen in Germany should be well informed about the importance of AI and 
 
 To limit the energy and resources AI systems need, a Sustainable AI brand is being developed in a participatory process and requirements and incentives developed. The prerequisites for this are expanding the database on energy and resource needs, improving the transparency of energy and resource needs and ecological requirements for the use of AI including the AI infrastructure. The Sustainable AI brand makes it possible to pool German solutions around the principles of “Sustainability by Design” and “Ethics by Design” and share them internationally -for instance for resource-efficient AI as well as economically more sustainable and socially more balanced AI.
 
-## Annex
-
-## Next steps in the implementation of the AI Strategy
+## Annex — Next steps in the implementation of the AI Strategy
 
 The Federal Government will take the following measures in the coming years to continue to implement the AI Strategy:
 

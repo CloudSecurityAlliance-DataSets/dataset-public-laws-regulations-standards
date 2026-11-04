@@ -1,7 +1,6 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Cybersicherheitsstrategie für Deutschland 2021","","",""
-"2","","Cyber Security Strategy for Germany 2021","","",""
-"2","","Publication data","","","Published by Federal Ministry of the Interior, Building and Community Contact information Federal Ministry of the Interior, Building and Community Alt-Moabit 140 10557 Berlin, Germany Telephone: +49 (0)30 18 681-0 Email: CSS2021@bmi.bund.de Last updated August 2021
+"2","","Cyber Security Strategy for Germany 2021 — Publication data","","","Published by Federal Ministry of the Interior, Building and Community Contact information Federal Ministry of the Interior, Building and Community Alt-Moabit 140 10557 Berlin, Germany Telephone: +49 (0)30 18 681-0 Email: CSS2021@bmi.bund.de Last updated August 2021
 
 1
 
@@ -1864,9 +1863,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • A strategy has been agreed and put in place for defence in cyberspace in defensive cases and cases of tension and is practised regularly. • The networks and systems of the Federal Government are sufficiently protected to ensure that cyber attacks cannot substantially impact their availability. • The Bundeswehr is geared up to provide available resources for incident response in particular, in accordance with the legal provisions for administrative assistance. Regular exercises to practise this are carried out by the Incident Response Teams.
 
 103"
-"3","8.3.14","Adapting telecommunications and telemedia law and other specialist legislation to","numbered","8.3","technological progress
-
-Why is the objective relevant?
+"3","8.3.14","Adapting telecommunications and telemedia law and other specialist legislation to technological progress","numbered","8.3","Why is the objective relevant?
 
 The legal powers for the security authorities to carry out their duties according to specialist legislation and telecommunications law must be continually adapted to keep pace with technological development. Rapid development in the networking and communication of the future is bringing about major changes, particularly in the fields of mobile communication, IoT and automotive IT. The transition to the fifth generation of mobile communication (5G) implies technological evolution that will be disruptive in nature. The number of connected mobile objects will increase greatly, with devices such as drones, robots, communication terminals, smart glasses, holographic displays, and a wide range of sensors making all kinds of everyday objects digital.
 

@@ -1,10 +1,6 @@
 # Cybersecurity Strategy of Japan (September 2021)
 
-## CYBERSECURITY STRATEGY
-
-## The Government of Japan
-
-## September 28, 2021
+## The Government of Japan — September 28, 2021
 
 (Provisional translation as of September 28, 2021)
 
@@ -342,9 +338,7 @@ In addition, Japan will counter efforts intended to prevent the healthy developm
 
 in cooperation with its ally, like-minded countries, and private organizations, and play an active role to ensure “a free, fair and secure cyberspace” globally, in a way that contributes to Japan’s national security.
 
-### 4.1 Enhancing socio-economic vitality and sustainable development
-
-### —Advancing DX with Cybersecurity
+### 4.1 Enhancing socio-economic vitality and sustainable development —Advancing DX with Cybersecurity
 
 Japan’s society and economy must achieve digital transformation accompanied by various innovative changes in order to achieve the vision of creating “a society where people can choose services that suit their needs and realize diverse forms of happiness through the use of digital technology.”
 
@@ -720,9 +714,7 @@ large-scale international events, such as the EXPO 2025 Osaka, Kansai, Japan. Th
 
 The national government will enhance and strengthen existing efforts for information sharing, including CEPTOAR and ISAC45, and help to establish and facilitate new mechanisms for information sharing under close collaboration with stakeholders in order to establish a multi-layered cyber defense system through coordinated collaboration between stakeholders in cyberspace.
 
-#### (2) Establishing an information sharing and collaboration system that contributes to
-
-comprehensive cyber defense To enable comprehensive response as the whole of nation against cyberattacks, the national government will strengthen collaboration between information sharing systems, including the Cybersecurity Council, Cybersecurity Response and Coordination Center, and specialized agencies that have sufficient technical capabilities and expertise in communication and coordination with stakeholders in and outside Japan, as part of efforts to improve a national CERT/CSIRT framework, and discuss the details of how to collaborate and coordinate with external parties.
+(2) Establishing an information sharing and collaboration system that contributes to comprehensive cyber defense To enable comprehensive response as the whole of nation against cyberattacks, the national government will strengthen collaboration between information sharing systems, including the Cybersecurity Council, Cybersecurity Response and Coordination Center, and specialized agencies that have sufficient technical capabilities and expertise in communication and coordination with stakeholders in and outside Japan, as part of efforts to improve a national CERT/CSIRT framework, and discuss the details of how to collaborate and coordinate with external parties.
 
 The national government will actively make use of the findings and know-how obtained through efforts for preparation and operation for response capabilities and efforts for risk management for
 
@@ -766,9 +758,7 @@ issues in diplomatic and national security agenda. At the same time, Japan will 
 
 To ensure “a free, fair and secure cyberspace” on a global scale, Japan will promote its basic principles in the international arena. Japan will continue to play active roles to advance the rule of law in cyberspace and establish international rules in line with Japan’s basic principles, in collaboration with its ally and like-minded countries.
 
-#### (1) Promoting the rule of law in cyberspace (formulating rules that contribute to Japan’s
-
-national security)
+(1) Promoting the rule of law in cyberspace (formulating rules that contribute to Japan’s national security)
 
 The promotion of the rule of law in cyberspace is important for the peace and stability of the international community and Japan’s national security.
 
@@ -910,9 +900,7 @@ Cybersecurity research is extremely important in this field to pursue R&D with a
 
 As it is also important to consider the progress of digital technologies, the government will advance R&D taking medium-to long-term technological trends into account.
 
-#### (1) Strengthening international competitiveness in R&D and building an industry-academia-
-
-government ecosystem
+(1) Strengthening international competitiveness in R&D and building an industry-academia- government ecosystem
 
 The field of cybersecurity research is new and growing, with researchers flowing in from various fields and the number of papers submitted growing rapidly around the world. This is a field where active collaboration is seen, such as international co-authorship and papers written for government-industry-academia projects. Together with the field of digital technology, this has become an important field of research as the use of digital technology becomes an integral part of cybersecurity measures.
 

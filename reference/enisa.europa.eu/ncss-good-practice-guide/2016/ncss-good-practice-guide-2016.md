@@ -2,7 +2,7 @@
 
 ## NCSS Good Practice Guide Designing and Implementing National Cyber Security Strategies
 
-## NOVEMBER 2016
+NOVEMBER 2016
 
 www.enisa.europa.eu European Union Agency For Network And Information Security
 

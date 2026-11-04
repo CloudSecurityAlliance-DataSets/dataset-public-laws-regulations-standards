@@ -89,8 +89,7 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
         "https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf",
     ],
     ("homeaffairs.gov.au", "cyber-security-strategy", "2009"): [
-        "https://web.archive.org/web/2id_/https://apo.org.au/node/19945",
-        "https://www.enisa.europa.eu/topics/national-cyber-security-strategies/ncss-map/national-cyber-security-strategies-interactive-map/strategies/cyber-security-strategy",
+        "https://web.archive.org/web/2023id_/https://apo.org.au/sites/default/files/resource-files/2009-12/apo-nid19945.pdf",
     ],
     ("homeaffairs.gov.au", "cyber-security-strategy-action-plan", "2023-2025"): [
         "https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf",
@@ -161,7 +160,7 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
         "https://www.vie-publique.fr/files/rapport/pdf/287163.pdf",
     ],
     ("sgdsn.gouv.fr", "revue-nationale-strategique", "2017"): [
-        "https://www.vie-publique.fr/files/rapport/pdf/174000727.pdf",
+        "https://web.archive.org/web/2id_/https://www.diplomatie.gouv.fr/IMG/pdf/2017-revue_strategique_dsn_cle4b3beb.pdf",
     ],
     ("sgdsn.gouv.fr", "strategie-nationale-securite-numerique", "2026-2030"): [
         "https://www.sgdsn.gouv.fr/files/files/National%20cybersecurity%20strategy_ENG.pdf",
@@ -291,8 +290,8 @@ def _make_license(
     }
 
 
-def license_for_tld(tld: str, namespace: str) -> dict:
-    """Return complete schema-aligned government/public-sector license metadata."""
+def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
+    """Return complete schema-aligned government/public-sector license metadata verified against document text."""
     if tld == "gov":
         return _make_license(
             "CC0-1.0",
@@ -315,11 +314,28 @@ def license_for_tld(tld: str, namespace: str) -> dict:
             "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         )
     if tld == "au":
+        if (
+            "without prior written permission" in md_text.lower()
+            or namespace == "defence.gov.au"
+            or secid.endswith("@2009")
+        ):
+            return _make_license(
+                "LicenseRef-AU-Crown-Copyright-Reserved",
+                "Crown-Copyright-Reserved",
+                "Commonwealth of Australia copyright; all rights reserved apart from fair dealing under the Copyright Act 1968, no part may be reproduced without prior written permission.",
+                "https://www.defence.gov.au/copyright",
+                redistribution="requires_prior_written_permission_except_fair_dealing",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
         return _make_license(
             "CC-BY-4.0",
             "Permissive",
             f"Commonwealth of Australia copyright ({namespace}); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
             "https://creativecommons.org/licenses/by/4.0/",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "nz":
         return _make_license(
@@ -327,13 +343,19 @@ def license_for_tld(tld: str, namespace: str) -> dict:
             "Permissive",
             f"Crown copyright New Zealand ({namespace}); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
             "https://creativecommons.org/licenses/by/4.0/",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "eu":
         return _make_license(
-            "CC-BY-4.0",
+            "LicenseRef-EU-Reuse-Decision-2011-833",
             "Permissive",
-            f"European Union official publication ({namespace}); reuse authorized under Commission Decision 2011/833/EU (CC BY 4.0).",
-            "https://creativecommons.org/licenses/by/4.0/",
+            f"European Union official publication ({namespace}); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+            "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "fr":
         return _make_license(
@@ -341,13 +363,19 @@ def license_for_tld(tld: str, namespace: str) -> dict:
             "Permissive",
             "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
             "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "de":
         return _make_license(
-            "dl-de-by-2.0",
+            "LicenseRef-German-Government-Official-Work",
             "Permissive",
-            "Official German Federal Government publication (§ 5 UrhG / Datenlizenz Deutschland – Namensnennung – Version 2.0).",
-            "https://www.govdata.de/dl-de/by-2-0",
+            "Official German Federal Government publication (§ 5 UrhG public official work).",
+            "https://www.gesetze-im-internet.de/urhg/__5.html",
+            redistribution="permitted_for_reference",
+            derivatives="varies_by_jurisdiction",
+            publicly_redistributable=True,
         )
     if tld == "it":
         return _make_license(
@@ -355,44 +383,125 @@ def license_for_tld(tld: str, namespace: str) -> dict:
             "Permissive",
             f"Italian Government open publication ({namespace}); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
             "https://creativecommons.org/licenses/by/4.0/",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "sg":
+        if (
+            "reproduce this document without modification, but only for non-commercial use" in md_text.lower()
+            or secid == "secid:reference/smartnation.gov.sg/national-ai-strategy@2023"
+        ):
+            return _make_license(
+                "LicenseRef-SG-Government-NonCommercial-NoDerivatives",
+                "Non-Commercial-No-Derivatives",
+                "Copyright Government of Singapore (MDDI / Smart Nation). Document explicitly permits reproduction without modification for non-commercial use only.",
+                "https://www.smartnation.gov.sg/terms-of-use/",
+                redistribution="permitted_non_commercial_verbatim",
+                derivatives="prohibited",
+                publicly_redistributable=True,
+            )
         return _make_license(
-            "LicenseRef-SG-Government-Copyright",
-            "Government-Open-Access",
-            "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
+            "LicenseRef-SG-Government-Copyright-Reserved",
+            "Government-Copyright-Reserved",
+            "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use.",
             "https://www.csa.gov.sg/terms-of-use",
-            redistribution="yes",
+            redistribution="requires_prior_written_permission",
             derivatives="prohibited",
-            publicly_redistributable=True,
+            publicly_redistributable=False,
         )
     if tld == "jp":
         return _make_license(
-            "CC-BY-4.0",
+            "LicenseRef-Japan-Government-Notification-Likely-Excluded",
             "Permissive",
-            "Government of Japan Standard Terms of Use (Public Data License 1.0 / CC BY 4.0 compatible).",
+            "Official Government of Japan strategy/cabinet publication; public government notifications and policy documents under Japanese Copyright Act Article 13 / Government of Japan Standard Terms of Use (Public Data License 1.0).",
             "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+            redistribution="likely_permitted",
+            derivatives="likely_permitted",
+            publicly_redistributable=True,
         )
     if tld == "kr":
         return _make_license(
-            "KOGL-Type-1",
+            "LicenseRef-KR-Government-Official-Work",
             "Permissive",
-            "Korea Open Government License (KOGL) Type 1: Attribution.",
+            "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work).",
             "https://www.kogl.or.kr/info/licenseType.do",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "tw":
+        if (
+            "不得為商業目的之使用，亦不得修改該著作" in md_text
+            or ("mnd.gov.tw/national-defense-report" in secid and secid.endswith(("@2023", "@2025")))
+        ):
+            return _make_license(
+                "LicenseRef-TW-MND-NonCommercial-NoDerivatives",
+                "Non-Commercial-No-Derivatives",
+                "Copyright Ministry of National Defense, R.O.C. (Taiwan). Explicit copyright notice permits verbatim reproduction with attribution for non-commercial use only; commercial use and modifications are prohibited.",
+                "https://www.mnd.gov.tw/",
+                redistribution="permitted_non_commercial_verbatim_with_attribution",
+                derivatives="prohibited",
+                publicly_redistributable=True,
+            )
+        if "reprints without permission will be prosecuted" in md_text.lower() or namespace == "mnd.gov.tw":
+            return _make_license(
+                "LicenseRef-TW-MND-Copyright-Reserved",
+                "Government-Copyright-Reserved",
+                "Copyright Ministry of National Defense, R.O.C. (Taiwan); all rights reserved, reprints without permission prohibited.",
+                "https://www.mnd.gov.tw/",
+                redistribution="requires_prior_permission",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
         return _make_license(
             "OGDL-Taiwan-1.0",
             "Permissive",
             "Open Government Data License, version 1.0 (Taiwan).",
             "https://data.gov.tw/license",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     if tld == "int":
+        if namespace == "itu.int":
+            if "by-nc 3.0 igo" in md_text.lower() or secid.endswith(("@2021", "@2025")):
+                return _make_license(
+                    "CC-BY-NC-3.0-IGO",
+                    "Non-Commercial",
+                    "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO / CC BY-NC 3.0 IGO) as stated in the publication copyright notice.",
+                    "https://creativecommons.org/licenses/by-nc/3.0/igo/deed.en",
+                    redistribution="permitted_with_attribution_non_commercial",
+                    derivatives="permitted_with_attribution_non_commercial",
+                    publicly_redistributable=True,
+                )
+            return _make_license(
+                "CC-BY-3.0-IGO",
+                "Permissive",
+                "Licensed under Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO) as stated in the publication copyright notice.",
+                "http://creativecommons.org/licenses/by/3.0/igo",
+                redistribution="permitted_with_attribution",
+                derivatives="permitted_with_attribution",
+                publicly_redistributable=True,
+            )
+        if namespace == "au.int":
+            return _make_license(
+                "LicenseRef-African-Union-Open-Access",
+                "Government-Open-Access",
+                "African Union official strategy publication; publicly released by the African Union Commission for reference and policy implementation.",
+                "https://au.int/en/legal-disclaimer",
+                redistribution="permitted_for_reference",
+                derivatives="requires_permission",
+                publicly_redistributable=True,
+            )
         return _make_license(
-            "CC-BY-4.0",
+            "CC-BY-3.0-IGO",
             "Permissive",
             f"International intergovernmental organization publication ({namespace}); open access for public policy and research reference.",
-            "https://creativecommons.org/licenses/by/4.0/",
+            "http://creativecommons.org/licenses/by/3.0/igo",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
         )
     return _make_license(
         "Government-Open-Access",
@@ -572,17 +681,24 @@ def find_embedded_pdf_urls(
     scored: list[tuple[int, str]] = []
     seen: set[str] = set()
     yr = version[:4] if len(version) >= 4 and version[:4].isdigit() else ""
+    target_years = set(re.findall(r"(?:199\d|20[0-3]\d)", version))
     keywords = [
         w
         for w in re.split(r"[^a-z0-9]+", doc_name.lower())
         if len(w) >= 2 and w not in ("the", "and", "for", "of", "in", "to", "on", "strategy", "national", "policy", "report", "plan", "program")
     ]
 
+    wayback_prefix_m = re.match(r"^(https?://web\.archive\.org/web/[^/]+/https?://[^/]+)", effective_base)
+    wayback_origin_prefix = wayback_prefix_m.group(1) if wayback_prefix_m else ""
+
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if not href or href.startswith(("javascript:", "mailto:", "#")):
             continue
-        full = urllib.parse.urljoin(effective_base, href)
+        if wayback_origin_prefix and href.startswith("/") and not href.startswith("//") and not href.startswith("/web/"):
+            full = wayback_origin_prefix + href
+        else:
+            full = urllib.parse.urljoin(effective_base, href)
         low_href = full.lower()
         link_txt = a.get_text(" ", strip=True).lower()
         is_pdf_candidate = (
@@ -596,30 +712,43 @@ def find_embedded_pdf_urls(
             continue
         if namespace and not _is_trusted_pdf_target(base_url, full, namespace):
             continue
+        cand_tail = urllib.parse.unquote(low_href.rsplit("/", 1)[-1])
+        cand_years = set(re.findall(r"(?:199\d|20[0-3]\d)", f"{cand_tail} {link_txt}"))
+        if target_years and cand_years and target_years.isdisjoint(cand_years):
+            continue
         seen.add(full)
         score = 0
         if yr and (yr in low_href or yr in link_txt):
             score += 10
+        kw_matches = 0
         for kw in keywords:
             if kw in low_href or kw in link_txt:
                 score += 4
+                kw_matches += 1
         if "strategy" in low_href or "strategy" in link_txt or "qdr" in low_href:
             score += 3
         if "english" in low_href or "_en" in low_href or "-en" in low_href or "eng" in low_href:
             score += 4
         if "summary" in low_href or "leaflet" in low_href or "brochure" in low_href or "pamphlet" in low_href:
             score -= 5
-        if score >= 3:
+        if score >= 6 and (
+            kw_matches >= 1
+            or "strategy" in low_href
+            or "strategy" in link_txt
+            or "qdr" in low_href
+            or "apo-nid" in low_href
+        ):
             scored.append((score, full))
 
     scored.sort(key=lambda x: x[0], reverse=True)
     return [u for _, u in scored[:4]]
 
 
-def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str) -> str:
+def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_annex: bool = False) -> str:
     """Promote legitimate unformatted section/chapter headings in plain/CJK/European PDFs and XHTML
     without inventing arbitrary artificial chunk headings.
     """
+    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]+", " ", md)
     raw_lines = md.splitlines()
     # Pre-pass: join standalone section number lines (e.g. `1.` or `2.2.`) with the immediately following title line
     lines: list[str] = []
@@ -628,41 +757,94 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str) -> str:
         cur = raw_lines[idx].strip()
         if re.match(r"^\d{1,2}(?:\.\d{1,2})*\.$", cur) and idx + 1 < len(raw_lines):
             nxt = raw_lines[idx + 1].strip()
-            if nxt and not nxt.startswith(("#", "[")) and 3 <= len(nxt) <= 120 and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt):
+            if nxt and not nxt.startswith(("#", "[")) and 3 <= len(nxt) <= 220 and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt):
                 lines.append(f"{cur} {nxt}")
                 idx += 2
                 continue
         lines.append(raw_lines[idx])
         idx += 1
 
+    # Detect Table of Contents block (e.g. `Contents` followed by lines that repeat when body starts)
+    toc_skip_indices: set[int] = set()
+    for i, l in enumerate(lines[:50]):
+        if l.strip().lower() in ("contents", "table of contents"):
+            first_entry = ""
+            first_idx = -1
+            for j in range(i + 1, min(i + 15, len(lines))):
+                cand_e = lines[j].strip()
+                if len(cand_e) >= 10 and not cand_e.startswith("["):
+                    first_entry = cand_e
+                    first_idx = j
+                    break
+            if first_entry:
+                for k in range(first_idx + 2, min(first_idx + 160, len(lines))):
+                    if lines[k].strip() == first_entry:
+                        toc_skip_indices.update(range(i, k))
+                        break
+            break
+
     h2_plus = [l for l in lines if re.match(r"^#{2,6}\s+\S+", l)]
-    if len(h2_plus) >= 3:
+    if len(h2_plus) >= 3 and not is_annex:
         return "\n".join(lines) + "\n"
 
     promoted_lines: list[str] = []
     promoted_count = 0
+    in_appendix = False
+    has_roman_parts = any(
+        re.match(r"^[IVX]{1,4}\.\s*[A-Za-z]", l.strip())
+        for idx_l, l in enumerate(lines)
+        if idx_l not in toc_skip_indices
+    )
     heading_pat = re.compile(
         r"^(?:"
         r"(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|PARTE)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
-        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,110}"
+        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
+        r"|[A-H]\.\s*[A-Z][A-Za-z0-9\s,\-–—'’\(\)/:;]{2,220}"
         r"|[IVX]{1,4}\s+[A-Z][A-Za-z0-9\s,\-–—'’\(\)/]{2,90}"
         r"|第[一二三四五六七八九十百0-9０-９]+[章節編部]\s*.{1,80}"
         r"|[一二三四五六七八九十]+[、．\.]\s*.{2,80}"
         r"|[壹貳參肆伍陸柒捌玖拾]+[、．\.]\s*.{2,80}"
         r"|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[\.\s、．]\s*.{2,80}"
         r"|제\s*\d+\s*[장절편]\s*.{1,80}"
-        r"|Executive Summary|Foreword|Preface|Introduction|Conclusion|Overview|Background|Strategic Context|Vision|Implementation|Governance|Abbreviations|Definitions"
+        r"|Executive Summary|Foreword|Preface|Introduction|Conclusion|Conclusions:?|Overview|Background|Strategic Context|Vision|Implementation|Governance|Abbreviations|Definitions"
+        r"|Introduction:\s+.{5,140}"
         r"|IT threat assessment|Framework conditions|Basic principles.*|Strategic objectives and measures|Sustainable implementation"
         r")$"
     )
-    for line in lines:
+    for idx_l, line in enumerate(lines):
+        if idx_l in toc_skip_indices:
+            promoted_lines.append(line)
+            continue
         s = line.strip()
-        if not s.startswith("#") and 3 <= len(s) <= 120 and not s.endswith((".", ";", "。", "；")) and heading_pat.match(s):
-            # Ensure a space after leading number/Roman dot (e.g., `1.Introduction` -> `1. Introduction`)
-            s_norm = re.sub(r"^(\d{1,2}(?:\.\d{1,2})*\.)([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ])", r"\1 \2", s)
+        if (
+            not s.startswith("#")
+            and 3 <= len(s) <= 230
+            and not s.endswith((".", ";", "。", "；"))
+            and heading_pat.match(s)
+        ):
+            # Ensure a space after leading number/Roman/letter dot (e.g., `1.Introduction` -> `1. Introduction`)
+            s_norm = re.sub(
+                r"^((?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])\.)([A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ])",
+                r"\1 \2",
+                s,
+            )
+            if re.match(r"^Appendix\s+\d+\b", s_norm, re.IGNORECASE):
+                in_appendix = True
             m_sub = re.match(r"^(\d{1,2}(?:\.\d{1,2})+)\.", s_norm)
-            prefix = "###" if m_sub else "##"
-            promoted_lines.append(f"{prefix} {s_norm}")
+            m_single_num = re.match(r"^(\d{1,2})\.\s+(.+)$", s_norm)
+            if is_annex:
+                if m_single_num and in_appendix:
+                    # Inside an Appendix of an Annex, emit unnumbered subsection heading to avoid colliding with main doc section numbers
+                    promoted_lines.append(f"#### {m_single_num.group(2)}")
+                elif m_single_num and has_roman_parts:
+                    promoted_lines.append(f"#### Chapter {m_single_num.group(1)}: {m_single_num.group(2)}")
+                elif m_sub:
+                    promoted_lines.append(f"#### {s_norm}")
+                else:
+                    promoted_lines.append(f"### {s_norm}")
+            else:
+                prefix = "###" if m_sub else "##"
+                promoted_lines.append(f"{prefix} {s_norm}")
             promoted_count += 1
         else:
             promoted_lines.append(line)
@@ -670,6 +852,344 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str) -> str:
     if promoted_count >= 1:
         return "\n".join(promoted_lines) + "\n"
     return "\n".join(lines) + "\n"
+
+
+_COLOPHON_HEADING_RE = re.compile(
+    r"^(?:"
+    r"Published\s+(?:in|by)\b"
+    r"|©"
+    r"|Copyright\b"
+    r"|ISBN\b"
+    r"|ISSN\b"
+    r"|Command\s+Paper\b"
+    r"|CP\s+\d+"
+    r"|Presented\s+to\s+Parliament\b"
+    r"|by\s+Command\s+of\b"
+    r"|by\s+the\s+Secretary\s+of\s+State\b"
+    r"|This\s+publication\s+is\s+(?:licensed|available)\b"
+    r"|Where\s+we\s+have\s+identified\b"
+    r"|Any\s+enquiries\s+regarding\b"
+    r"|Printed\s+(?:in|on|by)\b"
+    r"|\(?(?:Provisional|Tentative)\s+translation\)?"
+    r"|E\d{6,}\b"
+    r"|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}$"
+    r"|\d{4}$"
+    r"|https?://"
+    r"|[“\"«»'‘]"
+    r")",
+    re.IGNORECASE,
+)
+
+_DANGLING_PREP_RE = re.compile(
+    r"\b(?:an|a|the|of|for|to|in|on|by|with|and|or|from|into|at|as|through|between|under|over|towards|toward"
+    r"|de|du|des|la|le|les|et|en|dans|pour|sur|par|au|aux"
+    r"|und|der|die|das|für|von|mit|im|in|zu|zur|zum)$",
+    re.IGNORECASE,
+)
+
+_BARE_CONTAINER_HEADING_RE = re.compile(
+    r"^(?:"
+    r"(?:Handlungsfeld|Chapitre|Partie|Objectif\s+stratégique\s+n°|Action|SYSTEM|Pillar|Part|Chapter|Section|Annex|Appendix|Goal|Priority|Principle|Objective)\s+(?:[IVXLCDM]+|\d+[a-z]?|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)\s*[\-–—:\.]?"
+    r"|#\d+"
+    r")$",
+    re.IGNORECASE,
+)
+
+
+def postprocess_markdown_structure(md: str, doc_title: str) -> str:
+    """Clean up PDF/XHTML heading artifacts so every heading represents a genuine section with body prose
+    or child sections, without colophon headings, split sentences, or reversed banner titles.
+    """
+    from parse_regulatory_sections import parse_heading
+
+    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]+", " ", md)
+    raw_blocks = [b.strip() for b in re.split(r"\n\s*\n", md.strip()) if b.strip()]
+    blocks: list[str] = []
+    for b in raw_blocks:
+        # Split any block that contains multiple lines where at least one line is a `#` heading
+        if "\n" in b and any(l.strip().startswith("#") for l in b.splitlines()):
+            cur_buf: list[str] = []
+            for l in b.splitlines():
+                if l.strip().startswith("#"):
+                    if cur_buf:
+                        blocks.append("\n".join(cur_buf))
+                        cur_buf = []
+                    blocks.append(l.strip())
+                else:
+                    cur_buf.append(l)
+            if cur_buf:
+                blocks.append("\n".join(cur_buf))
+        else:
+            blocks.append(b)
+
+    # Pass 1: Normalize interior `# ` headings to `## ` and demote colophon/imprint/copyright/quote/date lines
+    for i, b in enumerate(blocks):
+        if i > 0 and re.match(r"^#\s+\S", b):
+            b = "#" + b
+            blocks[i] = b
+        m = re.match(r"^(#{2,6})\s+(.+?)\s*$", b)
+        if not m:
+            continue
+        hashes = m.group(1)
+        txt = m.group(2).strip()
+        txt = re.sub(r"\bS\s+E\s+C\s+T\s+I\s+O\s+N\s+(\d+)\b", r"Section \1", txt, flags=re.IGNORECASE)
+        blocks[i] = f"{hashes} {txt}"
+        sec_id, _, _ = parse_heading(txt)
+        if _COLOPHON_HEADING_RE.search(txt) or re.match(r"^(?:Table\s+of\s+Contents|Contents)\s*$", txt, re.I):
+            blocks[i] = txt
+            continue
+        if not sec_id and (len(txt) > 140 or txt.endswith((",", ";"))):
+            blocks[i] = txt
+            continue
+        if not sec_id and txt.endswith(".") and not re.search(r"\b(?:U\.S|U\.K|E\.U|Inc|Ltd|Co|Dr|Mr|Ms|St|etc)\.$", txt):
+            blocks[i] = txt
+
+    # Pass 2: Merge split headings (dangling prepositions) and demote unnumbered headings followed by lowercase continuation
+    merged: list[str] = []
+    i = 0
+    while i < len(blocks):
+        b = blocks[i]
+        m = re.match(r"^(#{2,6})\s+(.+?)\s*$", b)
+        if m and i + 1 < len(blocks):
+            hashes, txt = m.group(1), m.group(2).strip()
+            nxt = blocks[i + 1].strip()
+            sec_id, _, _ = parse_heading(txt)
+            # Unnumbered heading followed immediately by a plain block starting with a lowercase letter -> sentence wrap!
+            if not sec_id and not nxt.startswith("#") and re.match(r"^[a-z]", nxt):
+                merged.append(f"{txt} {nxt}")
+                i += 2
+                continue
+            # Heading ending with a dangling preposition/article followed by a short title phrase -> join into heading
+            if (
+                _DANGLING_PREP_RE.search(txt)
+                and not nxt.startswith("#")
+                and "\n" not in nxt
+                and len(nxt) <= 85
+                and not nxt.endswith((".", ";", ":"))
+                and re.match(r"^[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+            ):
+                merged.append(f"{hashes} {txt} {nxt}")
+                i += 2
+                continue
+            # Heading followed by a short <=5-word lowercase wrapped title tail immediately before another heading -> join into heading
+            if (
+                i + 2 < len(blocks)
+                and re.match(r"^#{2,6}\s+", blocks[i + 2])
+                and not nxt.startswith("#")
+                and "\n" not in nxt
+                and len(nxt.split()) <= 5
+                and not nxt.endswith((".", ";", ":"))
+                and re.match(r"^[a-z(]", nxt)
+            ):
+                merged.append(f"{hashes} {txt} {nxt}")
+                i += 2
+                continue
+        merged.append(b)
+        i += 1
+    blocks = merged
+
+    # Pass 3: Fix reversed `<Title>` + `## Section N` pairs (e.g., Taiwan QDR 2025)
+    fixed_rev: list[str] = []
+    i = 0
+    has_reversed_sections = False
+    while i < len(blocks):
+        m1 = re.match(r"^(#{2,6})\s+(.+?)\s*$", blocks[i])
+        if m1 and i + 1 < len(blocks):
+            m2 = re.match(r"^(#{2,6})\s+(Section\s+\d+)\s*$", blocks[i + 1], re.IGNORECASE)
+            if m2 and parse_heading(m1.group(2))[0] == "":
+                fixed_rev.append(f"### {m2.group(2)}: {m1.group(2).strip()}")
+                has_reversed_sections = True
+                i += 2
+                continue
+        fixed_rev.append(blocks[i])
+        i += 1
+    if has_reversed_sections:
+        # Shift child `### 1. ...` headings under `### Section N: ...` to `#### 1. ...`
+        in_sec = False
+        for idx_b, b in enumerate(fixed_rev):
+            if re.match(r"^###\s+Section\s+\d+:", b, re.IGNORECASE):
+                in_sec = True
+            elif re.match(r"^##\s+", b):
+                in_sec = False
+            elif in_sec and re.match(r"^###\s+\d{1,2}\.\s+", b):
+                fixed_rev[idx_b] = "#" + b
+    blocks = fixed_rev
+
+    # Pass 4: Merge or resolve consecutive headings that have NO intervening body prose
+    changed = True
+    while changed:
+        changed = False
+        new_blocks: list[str] = []
+        i = 0
+        while i < len(blocks):
+            m1 = re.match(r"^(#{2,6})\s+(.+?)\s*$", blocks[i])
+            if m1 and i + 1 < len(blocks):
+                m2 = re.match(r"^(#{2,6})\s+(.+?)\s*$", blocks[i + 1])
+                if m2:
+                    h1_hashes, h1_txt = m1.group(1), m1.group(2).strip()
+                    h2_hashes, h2_txt = m2.group(1), m2.group(2).strip()
+                    id1, _, kind1 = parse_heading(h1_txt)
+                    id2, _, kind2 = parse_heading(h2_txt)
+                    if kind1 == "standalone_id" or _BARE_CONTAINER_HEADING_RE.match(h1_txt):
+                        clean_h1 = h1_txt.rstrip(" -–—:.")
+                        new_blocks.append(f"{h1_hashes} {clean_h1}: {h2_txt}")
+                        i += 2
+                        changed = True
+                        continue
+                    if id1 and not id2 and (len(h1_hashes) == len(h2_hashes) or _DANGLING_PREP_RE.search(h1_txt)):
+                        new_blocks.append(f"{h1_hashes} {h1_txt} {h2_txt}")
+                        i += 2
+                        changed = True
+                        continue
+                    if not id1 and not id2 and len(h1_hashes) == len(h2_hashes):
+                        if (
+                            h1_txt.lower() == h2_txt.lower()
+                            or h1_txt.lower() == doc_title.lower()
+                            or h1_txt.lower() in doc_title.lower()
+                        ):
+                            i += 1
+                            changed = True
+                            continue
+                        new_blocks.append(f"{h1_hashes} {h1_txt} — {h2_txt}")
+                        i += 2
+                        changed = True
+                        continue
+                    if not id1 and len(h1_hashes) >= len(h2_hashes):
+                        blocks[i] = h1_txt
+                        changed = True
+                    elif id1 and id2 and len(h1_hashes) >= len(h2_hashes):
+                        if (
+                            kind1 in ("pillar", "part", "chapter", "roman", "annex", "section_word")
+                            and kind2 != kind1
+                            and len(h1_hashes) == len(h2_hashes)
+                            and len(h2_hashes) < 6
+                        ):
+                            blocks[i + 1] = "#" + blocks[i + 1]
+                            changed = True
+                        else:
+                            blocks[i] = h1_txt
+                            changed = True
+            new_blocks.append(blocks[i])
+            i += 1
+        blocks = new_blocks
+
+    # Pass 5: Normalize depth when Roman `### I.`, single-number `### 1.`, and multi-dot `### 1.1` share depth 3 with no numbered `##` parent
+    has_numbered_h2 = any(b.startswith("## ") and parse_heading(b[3:].strip())[0] != "" for b in blocks)
+    has_h3_roman = any(re.match(r"^###\s+[IVX]{1,4}(?:\.|\s)\s*[A-Z]", b) for b in blocks)
+    has_h3_single = any(re.match(r"^###\s+\d{1,2}\.\s+\S", b) for b in blocks)
+    has_h3_multi = any(re.match(r"^###\s+\d{1,2}\.\d{1,2}\b", b) for b in blocks)
+    if not has_numbered_h2 and has_h3_roman and has_h3_single and has_h3_multi:
+        for i, b in enumerate(blocks):
+            m_rom = re.match(r"^###\s+([IVX]{1,4})\.?\s+([A-Z].*)$", b)
+            if m_rom:
+                blocks[i] = f"## {m_rom.group(1)}. {m_rom.group(2)}"
+            elif re.match(r"^###\s+\d{1,2}\.\d{1,2}\b", b):
+                blocks[i] = "#" + b  # `### 1.1` -> `#### 1.1`
+    elif not has_numbered_h2 and has_h3_single and has_h3_multi:
+        for i, b in enumerate(blocks):
+            if re.match(r"^###\s+\d{1,2}\.\s+\S", b):
+                blocks[i] = b[1:]  # `### 1.` -> `## 1.`
+
+    # Pass 5b: Keep unnumbered subsections nested at `###` inside `## Chapter` / `## Part` / `## Pillar` containers
+
+    in_h2_container = False
+    for i, b in enumerate(blocks):
+        m_h2 = re.match(r"^##\s+(.+?)\s*$", b)
+        if not m_h2:
+            continue
+        h2_txt = m_h2.group(1).strip()
+        h2_id, _, h2_kind = parse_heading(h2_txt)
+        if h2_kind in ("chapter", "part", "pillar", "annex"):
+            in_h2_container = True
+        elif h2_id:
+            in_h2_container = False
+        elif in_h2_container:
+            if re.match(r"^(?:Conclusion|Conclusions|Glossary|Abbreviations|Acknowledgements|References|Bibliography)\b", h2_txt, re.I):
+                in_h2_container = False
+            else:
+                blocks[i] = "#" + b  # `## <unnumbered>` -> `### <unnumbered>` under active `## Chapter/Part/Pillar`
+
+    # Pass 6: Demote any remaining leaf heading with empty body or trivial <=3-word page-number/date/bullet body
+    changed_leaf = True
+    while changed_leaf:
+        changed_leaf = False
+        heading_indices = [idx_b for idx_b, b in enumerate(blocks) if re.match(r"^#{1,6}\s+", b)]
+        for pos, h_idx in enumerate(heading_indices):
+            m_h = re.match(r"^(#{2,6})\s+(.+?)\s*$", blocks[h_idx])
+            if not m_h:
+                continue
+            cur_depth = len(m_h.group(1))
+            cur_txt = m_h.group(2).strip()
+            cur_id, _, _ = parse_heading(cur_txt)
+            next_h_idx = heading_indices[pos + 1] if pos + 1 < len(heading_indices) else len(blocks)
+            next_depth = 0
+            if next_h_idx < len(blocks):
+                m_nh = re.match(r"^(#{1,6})\s+", blocks[next_h_idx])
+                next_depth = len(m_nh.group(1)) if m_nh else 0
+            has_child = next_depth > cur_depth
+            body_blocks = blocks[h_idx + 1 : next_h_idx]
+            body_str = "\n\n".join(body_blocks).strip()
+            if not body_str and not has_child:
+                blocks[h_idx] = cur_txt
+                changed_leaf = True
+                break
+            if not cur_id and not has_child and body_str:
+                cjk_chars = re.findall(r"[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]", body_str)
+                latin_words = re.findall(r"[A-Za-z0-9]+", body_str)
+                is_trivial_body = (
+                    (len(cjk_chars) == 0 and len(latin_words) <= 3)
+                    or (len(cjk_chars) <= 3 and len(latin_words) == 0)
+                    or bool(re.match(r"^(?:\d{1,3}\s*\|\s*.+|- \[SNS Share\].+)$", body_str))
+                )
+                if is_trivial_body:
+                    blocks[h_idx] = cur_txt
+                    changed_leaf = True
+                    break
+
+    return "\n\n".join(blocks) + "\n"
+
+
+def _append_eurlex_cellar_annexes(best_md: str, final_url: str, title: str, desc: str) -> str:
+    """If `final_url` is an EUR-Lex Cellar `DOC_1` resource, probe `DOC_2` and `DOC_3` for companion Annexes."""
+    m = re.match(r"^(https?://publications\.europa\.eu/resource/cellar/[^/]+)/DOC_1$", final_url)
+    if not m:
+        return best_md
+    base_cellar = m.group(1)
+    for doc_idx in (2, 3):
+        annex_url = f"{base_cellar}/DOC_{doc_idx}"
+        adata, afinal = fetch_url_bytes(annex_url)
+        if not adata:
+            continue
+        is_pdf = adata[:5] == b"%PDF-" or b"%PDF-1." in adata[:1024]
+        annex_md = ""
+        if is_pdf:
+            idx = adata.find(b"%PDF-")
+            if idx > 0:
+                adata = adata[idx:]
+            try:
+                amd, _ = pdf_bytes_to_markdown(adata, "Annex")
+                # Strip top `# Annex` and repeated `### ANNEX` page headers
+                alines = [
+                    l
+                    for l in amd.splitlines()
+                    if not re.match(r"^#\s+Annex\s*$", l.strip(), re.I)
+                    and not re.match(r"^#{2,4}\s+ANNEX\s*$", l.strip(), re.I)
+                ]
+                annex_md = ensure_hierarchical_headings("\n".join(alines), "Annex", desc, is_annex=True)
+            except Exception:
+                annex_md = ""
+        else:
+            ahtml = adata.decode("utf-8", errors="ignore")
+            if "<html" in ahtml[:1000].lower() or "<?xml" in ahtml[:1000].lower():
+                try:
+                    amd = html_to_clean_markdown(ahtml, afinal, "Annex")
+                    alines = [l for l in amd.splitlines() if not re.match(r"^#\s+Annex\s*$", l.strip(), re.I)]
+                    annex_md = ensure_hierarchical_headings("\n".join(alines), "Annex", desc, is_annex=True)
+                except Exception:
+                    annex_md = ""
+        if len(annex_md.strip()) >= 1500:
+            best_md = best_md.rstrip() + f"\n\n## Annex I: Coordinated Plan / Action Plan Annex\n\n{annex_md.strip()}\n"
+    return best_md
 
 
 def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
@@ -689,6 +1209,7 @@ def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
         "csa.gov.sg/resources/publications/",
         "moda.gov.tw/acs/press/",
         "dpmc.govt.nz/our-programmes/",
+        "apo.org.au/node/",
     )
     if any(b in low_url for b in blocked_substrings):
         return False
@@ -858,7 +1379,7 @@ def extract_edition(item: dict) -> dict:
                 f"Addresses strategic emerging technology governance, AI security/capability priorities, and "
                 f"national resilience policy for {item['issuer']} ({ns})."
             ),
-            license_obj=license_for_tld(item["tld"], ns),
+            license_obj=license_for_tld(item["tld"], ns, md_text="", secid=item["secid"]),
             source_url=orig_url,
             text_used_url="",
             published=item["published"],
@@ -881,6 +1402,8 @@ def extract_edition(item: dict) -> dict:
             "url_used": "",
         }
 
+    best_md = _append_eurlex_cellar_annexes(best_md, best_url, title, desc)
+    best_md = postprocess_markdown_structure(best_md, title)
     md_path.write_text(best_md, encoding="utf-8")
 
     n_sec, n_id = run_parse_sections(doc_dir, stem)
@@ -903,7 +1426,7 @@ def extract_edition(item: dict) -> dict:
             f"Addresses strategic emerging technology governance, AI security/capability priorities, and "
             f"national resilience policy for {item['issuer']} ({ns})."
         ),
-        license_obj=license_for_tld(item["tld"], ns),
+        license_obj=license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"]),
         source_url=orig_url,
         text_used_url=best_url,
         published=item["published"],

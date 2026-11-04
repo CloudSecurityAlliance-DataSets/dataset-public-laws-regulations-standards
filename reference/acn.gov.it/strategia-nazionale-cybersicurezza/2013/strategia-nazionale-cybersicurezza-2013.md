@@ -1,20 +1,12 @@
 # Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (2013)
 
-### Presidenza del Consiglio dei Ministri
-
-## QUADRO STRATEGICO NAZIONALE PER LA SICUREZZA DELLO SPAZIO CIBERNETICO
+Presidenza del Consiglio dei Ministri
 
 ## Dicembre 2013
 
-### Presidenza del Consiglio dei Ministri
+Presidenza del Consiglio dei Ministri
 
-## QUADRO STRATEGICO NAZIONALE
-
-## PER LA SICUREZZA DELLO SPAZIO CIBERNETICO
-
-## Dicembre 2013
-
-## Lista delle sigle e delle abbreviazioni
+## Dicembre 2013 — Lista delle sigle e delle abbreviazioni
 
 AG – Autorità Giudiziaria AGCOM – Autorità per le Garanzie nelle Comu­
 
@@ -108,13 +100,9 @@ forzamento della cooperazione nazionale in materia di sicurezza cibernetica.
 
 A corollario di quanto sopra, in Allegato 1 sono elencati i “Ruoli e compiti dei soggetti pubblici”, mentre in Allegato 2 è possibile consultare un breve “Glossario” dei termini tecnici impiegati, al fine di age­ volare la lettura del documento anche da parte dei “non addetti ai lavori”.
 
-## CAPITOLO 1
+## CAPITOLO 1 — PROFILI E TENDENZE EVOLUTIVE DELLE MINACCE E DELLE VULNERABILITÀ DEI SISTEMI E DELLE RETI DI INTERESSE NAZIONALE
 
-## PROFILI E TENDENZE EVOLUTIVE DELLE MINACCE E DELLE VULNERABILITÀ DEI SISTEMI E DELLE RETI DI INTERESSE NAZIONALE
-
-### Introduzione
-
-### Definizione
+### Introduzione — Definizione
 
 Lo spazio cibernetico è l’insieme delle infrastrutture informatiche interconnesse, comprensivo di hardware, software, dati ed utenti, nonché delle relazioni logiche, comunque stabilite, tra di essi. Esso dun­ que comprende internet, le reti di comu­ nicazione, i sistemi su cui poggiano i pro­ cessi informatici di elaborazione dati e le apparecchiature mobili dotate di connes­ sione di rete.
 
@@ -138,9 +126,7 @@ alla privacy e dell’integrità dei sistemi op­ pure, sempre a titolo di esemp
 
 Il Quadro Strategico Nazionale ed il Piano Nazionale previsti dal DPCM del 24 gennaio 2013 mirano ad accre­ scere la capacità di risposta del Paese alle presenti e future sfide riguardanti il cyber-space, indirizzando gli sforzi nazio­ nali verso obiettivi comuni e soluzioni condivise, nella consapevolezza che la protezione dello spazio cibernetico è un processo più che un fine, che la continua innovazione tecnologica introduce ine­ vitabilmente nuove vulnerabilità, e che le caratteristiche stesse della minaccia cibernetica rendono la difesa, per ora, di tipo prevalentemente – anche se non esclusivamente – reattivo.
 
-### La minaccia cibernetica ed i suoi attori
-
-### Definizione
+### La minaccia cibernetica ed i suoi attori — Definizione
 
 Con minaccia cibernetica intendiamo l’insieme delle condotte controindicate che possono essere realizzate nel e tramite lo spazio cibernetico ovvero in danno di quest’ultimo e dei suoi elementi costitu­
 
@@ -192,9 +178,7 @@ Il vantaggio strategico derivante dalla possibilità d’infliggere un rilevan­
 
 siderazione la necessità d’assicurare un adeguato livello di cyber-defence agli as­ setti critici nazionali.
 
-### Spionaggio, sabotaggio, guerra, supply
-
-chain threat
+Spionaggio, sabotaggio, guerra, supply chain threat
 
 La difesa delle proprie reti implica lo sviluppo di un’efficiente e continua ca­ pacità di monitoraggio e di analisi degli attacchi. Si tratta di strumenti che alcu­ ni Stati stanno sviluppando, attraverso proprie strutture o mediante il ricorso a strutture para-statali, con intenti anche offensivi. Attualmente, diversi Governi si sono dotati delle necessarie capabilities per penetrare le reti nazionali degli altri Stati (in uso sia alle autorità pubbliche che ai privati) a fini di spionaggio o per mappa­ re i sistemi potenzialmente oggetto di un futuro attacco.
 
@@ -262,13 +246,9 @@ E RESPONSABILIZZAZIONE
 
 DEGLI UTENTI
 
-### MISURE
+MISURE — RISCHIO
 
-### RISCHIO
-
-## CAPITOLO 2
-
-## STRUMENTI E PROCEDURE PER POTENZIARE LE CAPACITÀ CIBERNETICHE DEL PAESE
+## CAPITOLO 2 — STRUMENTI E PROCEDURE PER POTENZIARE LE CAPACITÀ CIBERNETICHE DEL PAESE
 
 ### Indirizzi strategici
 
@@ -392,9 +372,7 @@ Ai sensi del citato provvedimento, tali soggetti sono tenuti a:
 
 • collaborare alla gestione delle crisi ci­ bernetiche contribuendo al ripristino della funzionalità dei sistemi e delle reti da essi gestiti. Il partenariato pubblico-privato co­ stituisce, pertanto, un principio impre­ scindibile per il successo di ogni strate­ gia di sicurezza cibernetica. Nei sistemi economico-istituzionali moderni, infatti, gran parte delle infrastrutture che gesti­ scono servizi pubblici essenziali e quelle di rilevanza strategica per il sistema-Paese, sono affidate all’iniziativa di operatori economici privati. La necessaria colla­ borazione con questi ultimi ha dato vita ad appositi accordi finalizzati a rendere ancor più strutturata la cooperazione in tale ambito. Nell’ottica di un suo ulteriore rafforzamento, da conseguire attraverso un processo incrementale, le sinergie da sviluppare dovranno interessare, accanto ai soggetti menzionati, anche altre realtà nazionali che, al di là delle dimensioni, rappresentano segmenti di punta per lo sviluppo scientifico, tecnologico, indu­ striale ed economico del Paese.
 
-## ALLEGATO 1
-
-## RUOLI E COMPITI DEI SOGGETTI PUBBLICI
+## ALLEGATO 1 — RUOLI E COMPITI DEI SOGGETTI PUBBLICI
 
 Il DPCM del 24 gennaio 2013 ha de­ lineato un assetto istituzionale preposto alla protezione cibernetica ed alla sicurez­ za informatica, nel quale i diversi attori in­ teressati, sia pubblici sia privati, agiscono in maniera integrata allo scopo di ridurre le vulnerabilità dello spazio cibernetico, identificare le minacce, prevenire i rischi ed accrescere le capacità di risposta a si­ tuazioni di crisi.
 
@@ -546,9 +524,7 @@ nell’ambito della Agenzia europea per la sicurezza delle reti e dell’in­ fo
 
 del repertorio delle prestazioni obbli­ gatorie che gli Internet Service Providers (ISPs) devono mettere a disposizione dell’AG, la promozione dell’accesso ad Internet, ecc.
 
-## ALLEGATO 2
-
-## GLOSSARIO
+## ALLEGATO 2 — GLOSSARIO
 
 AGCOM – Autorità per le Garanzie
 

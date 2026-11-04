@@ -2,11 +2,11 @@
 
 ## Voluntary AI Safety Standard
 
-## August 2024
+August 2024
 
 | industry.gov.au/NAIC
 
-## Copyright
+Copyright
 
 © Commonwealth of Australia 2024
 
@@ -250,7 +250,7 @@ We designed Australia’s first voluntary AI safety standard to help organisatio
 
 The standard offers a set of voluntary guardrails to establish consistent practices for organisations to adopt AI in a safe and responsible way. This is in line with current and evolving legal and regulatory obligations and public expectations. While this standard applies to all organisations across the AI supply chain, this first version of the standard focuses more closely on organisations that deploy AI systems. The next version will expand on technical practices and guidance for AI developers.
 
-## Definitions
+### Definitions
 
 Safe and responsible AI: AI should be designed, developed, deployed and used in a way that is safe. Its use should be human-centred, trustworthy and responsible. AI systems should be developed and used in a way that provides benefits while minimising the risk of negative impact to people, groups, and wider society.
 
@@ -292,7 +292,7 @@ The standard is designed to guide organisations to:
 
 This will lead to the longer-term benefits of improved safety, quality and reliability of AI in Australia. It will support broader use of AI products and services, increased market competition and opportunities for technological innovation.
 
-## A human-centred standard
+### A human-centred standard
 
 This standard adopts a human-centred approach to AI development and deployment. This is in line with Australia’s AI Ethics Principles2 and Australia’s commitment to international declarations such as the Bletchley Declaration.3 A human-centred approach helps make sure technologies are fit-for -purpose while serving humans, respecting individual rights and protecting marginalised groups.
 
@@ -326,7 +326,7 @@ Bias becomes problematic or ‘unwanted’ when it results in unfavourable treat
 
 • sexual orientation, gender identity or intersex status.
 
-## An internationally consistent standard
+### An internationally consistent standard
 
 Recognising that Australia is an open, trading economy, the standard’s recommended processes and practices are consistent with current international standards and best practice. This supports Australian organisations who operate internationally by aligning Australian practices with other jurisdictions’ expectations. It also aims to avoid creating barriers to international organisations operating in Australia compared to other markets.
 
@@ -334,9 +334,7 @@ The standard draws on and is aligned with a range of international standards. Mo
 
 Future versions will reflect changes in the international landscape.
 
-## Part 2: Foundational concepts for the standard: risks, harms and legal context
-
-## AI systems have specific characteristics that amplify risks
+## Part 2: Foundational concepts for the standard: risks, harms and legal context AI systems have specific characteristics that amplify risks
 
 AI systems span a wide range of technical approaches. Organisations can use them for many tasks, such as helping with prediction, classification, optimisation or content generation. At their core, AI systems are software-based tools.
 
@@ -354,7 +352,7 @@ In contrast, developers of AI systems take a different approach. This often invo
 
 The specific characteristics of general AI systems can amplify risks and harms or pose new risks and harms to an organisation. General AI systems are more prone to unexpected and unwanted behaviour or misuse. This is because of their increased flexibility of interactions, the reduced predictability of their capabilities and behaviour and their reliance on large and diverse training data. For example, large language models can deliberately or inadvertently manipulate or misinform consumers. They can also pose novel intellectual property challenges for both training data and the outputs generated.
 
-## The standard supports a risk-based approach to AI harm prevention
+### The standard supports a risk-based approach to AI harm prevention
 
 As with all software, AI systems vary in the level of risk and the type of harm they pose. Some, like an algorithm on a website that suggests reordering based on stock levels, tend to be lower risk. The potential harms are confined to a customer taking longer to receive a product. Others, like a tool that prioritises job applicants for an interview process or makes financial lending decisions, have far greater potential to create harm. For instance, they may deny a suitable applicant the opportunity of a job or bank loan, or even systematically and unlawfully discriminate against a group of people.
 
@@ -382,7 +380,7 @@ Reputational – Damage to reputation and loss of trust due to harmful or unlawf
 
 Regulatory – Breach of legal obligations that may result in fines, restrictions and require management focus.
 
-## System factors and attributes that amplify risks and harms
+### System factors and attributes that amplify risks and harms
 
 Several factors impact the likelihood of both narrow and general AI systems amplifying existing risks. These include why, when, where and how an AI system is deployed, as outlined in Table 1.
 
@@ -450,7 +448,7 @@ A construction site deploys autonomous forklifts to move pallets in a warehouse.
 
 Does the system make decisions without any meaningful human oversight or validation?
 
-## The legal landscape for AI in Australia
+### The legal landscape for AI in Australia
 
 This standard and the guardrails described in part 3 are voluntary. The standard does not seek to create new legal obligations for Australian organisations. It is designed to help organisations deploy and use AI systems in the bounds of existing Australian laws, emerging regulatory guidance and community expectations.
 
@@ -574,7 +572,7 @@ Guardrails
 
 10. Engage your stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion and fairness.
 
-## Using the guardrails
+### Using the guardrails
 
 Create trust with users. Give people, society and other organisations confidence that you are using AI safely and responsibly. Disclose when you use AI, its role and when you are generating content using AI. Disclosure can occur in many ways. It is up to the organisation to identify the most appropriate mechanism based on the use case, stakeholders and technology used.
 
@@ -616,7 +614,7 @@ Being voluntary, the standard does not create new legal duties about AI systems 
 
 These activities will help organisations understand regulatory obligations and community expectations around AI use. For example, if an organisation deploys an AI system that uses data from or about First Nations communities, the organisation should respect Indigenous Data Sovereignty Principles. These principles draw on Article 32(2) of the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP). They affirm the inherent rights of First Nations peoples to govern the collection, ownership and use of their data. The principles require organisations to use this data in a way that respects the values and laws of First Nations communities. They also require that organisations secure free, prior and informed consent from relevant First Nations communities before starting AI projects that will engage First Nations data or impact First Nations communities. First Nations communities must have the capacity to withdraw consent should AI system data usage deviate from the initially agreed purposes.
 
-## Guide to icons
+### Guide to icons
 
 The icons in Figure 4 are designed to guide in mapping actions under each guardrail to Australia’s AI Ethics principles.
 
@@ -718,7 +716,7 @@ Key concept: Training requirements will depend on the nature of the role in rela
 
 AI impact and risk management processes need to consider how the AI system is used. Begin assessments with the full range of potential harms with information from the stakeholder impact assessment (guardrail 10). The impact and risk assessments must align with organisational risk appetite and tolerance levels. You must complete the risk assessments throughout the lifecycle of the AI system and on an ongoing basis to ensure the risk mitigations are effective. These assessments may be required to input into any future conformity assessments mandated for use in high-risk settings.
 
-### 2.1.
+2.1.
 
 AI risk and impact management processes
 
@@ -740,7 +738,7 @@ Key concept: Do not use the potential benefits to an organisation of deploying a
 
 2.1.7. Evaluate and document the high-level risks and liabilities related to the organisation’s existing or planned use of third party-provided systems and components (including open-source software).
 
-### 2.2.
+2.2.
 
 System risk and impact assessment
 
@@ -768,7 +766,7 @@ and provenance.
 
 You must have appropriate data governance, privacy and cybersecurity measures in place to appropriately protect and manage AI systems. These will differ depending on use case and risk profile. Organisations must account for the unique characteristics of AI systems such as data quality, data provenance and cyber vulnerabilities.
 
-### 3.1.
+3.1.
 
 Data governance, privacy and cybersecurity
 
@@ -788,7 +786,7 @@ Commit to fit-for-purpose approaches to data governance, privacy and cybersecuri
 
 3.1.7. Document how the Essential Eight Maturity Model for cybersecurity risks has been applied to each AI system in use, including those developed or provided by third parties. 45
 
-### 3.2.
+3.2.
 
 Data governance measures to manage data quality and provenance
 
@@ -818,7 +816,7 @@ once deployed.
 
 Thoroughly test AI systems and AI models before you deploy them, and then monitor for potential behaviour changes or unintended consequences. Perform these tests according to the clearly defined acceptance criteria that considers the prior risk and impact assessment.
 
-### 4.1.
+4.1.
 
 Organisational-level reporting, evaluation and continual improvement
 
@@ -832,7 +830,7 @@ Commit to a robust process for timely and regular monitoring, evaluation and rep
 
 4.1.4. Create a process for determining whether an AI system requires regular auditing, appropriate to the level of risk identified by its risk assessment.
 
-### 4.2.
+4.2.
 
 AI system acceptance criteria
 
@@ -844,7 +842,7 @@ Commit to specifying, justifying and documenting acceptance criteria your organi
 
 4.2.3. Regularly review and update the acceptance criteria to reflect any changes in the system, the identified harms or the broader context in which the system operates. Record any findings or changes in the acceptance criteria registry.56
 
-### 4.3.
+4.3.
 
 Testing of AI systems or models to determine performance and mitigate any risks
 
@@ -878,7 +876,7 @@ Key concept: AI model testing verifies and validates an AI system’s underlying
 
 4.3.3. Apply the organisational process for reviewing and approving the testing results to ensure the system meets all acceptance criteria before you deploy it.58 The system deployment authorisation must come from the person or people accountable for the AI system.
 
-### 4.4.
+4.4.
 
 Ongoing system evaluation and monitoring
 
@@ -892,7 +890,7 @@ Commit to implementing robust AI system performance monitoring and evaluation, a
 
 4.4.4. Ensure that people who review individual-level feedback can trigger recourse and redress processes where there is an obligation to do so. High-impact decisions may warrant direct human oversight.61
 
-### 4.5.
+4.5.
 
 Regular system audit or assessments
 
@@ -916,7 +914,7 @@ achieve meaningful human oversight.
 
 It is critical to ensure human control or intervention mechanisms are in place as needed across the AI system lifecycle. AI systems are generally made up of multiple components supplied by different parties in the supply chain. Meaningful human oversight will result in appropriate intervention and reduce the potential for unintended consequences and harms.
 
-### 5.1.
+5.1.
 
 Accountability and human control to achieve meaningful human oversight.
 
@@ -946,7 +944,7 @@ content.
 
 Create trust with users. Provide people, society and other organisations with confidence that you are using AI safely and responsibly. Disclose when you use AI, its role and when content is AI-generated. Disclosure can occur in many ways. It is up to the organisation to identify the most appropriate mechanism based on the use case, stakeholders and technology used.
 
-### 6.1.
+6.1.
 
 Transparency and contestability
 
@@ -964,7 +962,7 @@ Key concept: Technologies such as watermarking and labelling can help create tra
 
 6.1.5. Create and document a process to evaluate any specific reporting and disclosure obligations under the Online Safety Act relevant to AI systems usage.
 
-### 6.2.
+6.2.
 
 Transparency for AI systems
 
@@ -994,7 +992,7 @@ challenge use or outcomes.
 
 Organisations must provide processes for users, organisations, people and society impacted by AI systems to challenge how AI is used, contest decisions, outcomes or interactions that involve AI.
 
-### 7.1.
+7.1.
 
 Contestability and related risk controls
 
@@ -1018,7 +1016,7 @@ address risks.
 
 Organisations must provide information to organisations downstream in the AI supply chain for them to understand the components of the AI system, how it was built and to understand and manage the risk of the use of the AI system.
 
-### 8.1.
+8.1.
 
 Transparency between developers and deployers
 
@@ -1074,7 +1072,7 @@ assess compliance with guardrails.
 
 Organisations must maintain records to demonstrate that they have implemented and are complying with the guardrails, this includes maintaining an AI inventory and consistent AI system documentation. These records may be required to input into any future conformity assessments mandated for use in high-risk settings.
 
-### 9.1.
+9.1.
 
 AI inventory and consistent documentation
 
@@ -1104,7 +1102,7 @@ Commit to adopting an inventory of the AI systems you use and deploy. Define and
 
 • dates of review.
 
-### 9.2.
+9.2.
 
 Critical system documentation
 
@@ -1156,9 +1154,7 @@ Commit to creating and documenting a process so any use of AI contributes to saf
 
 10.2.4. Document and operationalise a responsibility to prevent unwanted bias, discrimination and other risk factors that could impact diversity, inclusion and fairness in leadership responsibilities and the organisation’s AI strategy.
 
-### 10.3. System-level stakeholders, points of human interaction and impact of
-
-potential-harm
+### 10.3. System-level stakeholders, points of human interaction and impact of potential-harm
 
 Commit to system-level stakeholder engagement and evaluation of potential harm.
 
@@ -1204,25 +1200,23 @@ We’ve chosen 4 examples to show how individual guardrails might be apply in di
 
 These examples are not intended to represent a comprehensive application of all relevant guardrails, responsibilities or other legal obligations that may be relevant for the specified use cases. They are to provide examples of how the guardrails can be applied in a selection of fictional examples.
 
-## Example 1: General-purpose AI chatbot
+### Example 1: General-purpose AI chatbot
 
 A detailed example representing a common use case for organisations of all sizes, across all sectors. Due to the growing ubiquity of this technology, we’ve provided extra detail on how an organisation could adopt a range of guardrails. As a point of contrast, this example includes potential outcomes where safe and responsible AI methodologies are not followed.
 
-## Example 2: Facial recognition technology
+### Example 2: Facial recognition technology
 
 A simplified example on the use of facial recognition technology. It illustrates the use of the guardrails to decide that non-AI-based solutions will better achieve strategic and operational goals.
 
-## Example 3: Recommender engine
+### Example 3: Recommender engine
 
 A simplified example of a common use case in which a recommender engine is used to improve customer experience and meet organisational goals. It includes reference to a court case in which a business using this kind of technology was ordered to pay a substantial financial penalty for not meeting legal obligations.
 
-## Example 4: Warehouse accident detection
+### Example 4: Warehouse accident detection
 
 A detailed example to outline obligations for testing of AI systems. In this example, we offer guidance on linking areas of concern with acceptance criteria. It covers testing at different stages during the AI system and governance lifecycle, due to the specific and technical nature of meeting relevant guardrails.
 
-## Example 1: General-purpose AI Chatbot
-
-## NewCo background
+### Example 1: General-purpose AI Chatbot — NewCo background
 
 NewCo is a fast-growing B2C company with 50 employees, selling a range of products in a niche market. It has an annual turnover of $3.5 million.
 
@@ -1232,7 +1226,7 @@ The new chatbot is meant to reduce the amount of time customers wait for a phone
 
 The head of sales suggests that a chatbot based on general-purpose AI would help the company respond to and resolve customer queries faster, leading to improved customer satisfaction scores (CSAT). CSAT scores are considered lead indicators for revenue growth goals, so NewCo hopes that a suitable customer query chatbot would also support growth in sales.
 
-## Case study: Moffatt v Air Canada 2024 BCCRT 149
+### Case study: Moffatt v Air Canada 2024 BCCRT 149
 
 Air Canada deployed a chatbot on its website which made statements to a customer about the airline’s bereavement fares. These statements were inconsistent with Air Canada’s policy, to which the chatbot had provided a link.
 
@@ -1242,7 +1236,7 @@ The tribunal rejected these arguments and found Air Canada responsible for all i
 
 There are similar protections in Australia for interactions with chatbots as part of an organisation’s customer service offering. 93
 
-## NewCo’s use of the standard: a comparison
+### NewCo’s use of the standard: a comparison
 
 NewCo wants to procure a generative AI chatbot with the promise of:
 
@@ -1328,9 +1322,7 @@ Potential breach of privacy laws for the collection of personal information that
 
 Potential complaints made to relevant regulatory bodies for unlawful discrimination based on a protected attribute (gender).
 
-## Example 2: Facial recognition technology
-
-## EcoRetail background
+### Example 2: Facial recognition technology — EcoRetail background
 
 EcoRetail has 20 permanent employees and over 100 casual workers across its nationwide chain of 15 stores.
 
@@ -1348,7 +1340,7 @@ Facial recognition technology (FRT) is a type of AI that remotely captures sensi
 
 While there is currently no specific Australian law governing the use of this technology, the Australian Government is considering the need for new guardrails for FRT as part of its broader Privacy Act reform process.
 
-## How EcoRetail uses the standard
+### How EcoRetail uses the standard
 
 EcoRetail wants to procure FRT to:
 
@@ -1362,7 +1354,7 @@ Guardrails Actions
 
 EcoRetail holds discussions with FRTCo Ltd (AI system vendor) to ensure that FRT aligns with business objectives (minimising loss from shoplifting) and strategic goals (act in accordance with Australia’s AI Ethics Principles and Australian legislation).
 
-## Guardrail 1:
+### Guardrail 1:
 
 Establish, implement and publish an accountability process including governance, internal capability and a strategy for regulatory compliance.
 
@@ -1380,7 +1372,7 @@ To understand how the use of FRT aligns with EcoRetail’s organisational strate
 
 Senior leaders at EcoRetail held consultations with permanent and casual staff to understand how the use of FRTCo Ltd’s FRT system might impact them and their customers.
 
-## Guardrail 10:
+### Guardrail 10:
 
 Engage your stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion and fairness.
 
@@ -1398,9 +1390,7 @@ Collecting sensitive biometric information posed too great a risk to the organis
 
 The possibility of reputational damage, exacerbated by potential regulatory activity for discrimination, was likely to have negative commercial outcomes.
 
-## Example 3: Recommender engine
-
-## TravelCo.com background
+### Example 3: Recommender engine — TravelCo.com background
 
 TravelCo.com is a global hotel booking app that is paid by commission. Hotels will pay TravelCo.com a fee every time a user clicks on the offer for their hotel.
 
@@ -1424,7 +1414,7 @@ Consumers were frequently not shown the cheapest price for a hotel in their top 
 
 Trivago was ordered to pay $44.7 million in penalties because of the Federal Court finding it had misled consumers.94
 
-## How TravelCo.com uses the standard
+### How TravelCo.com uses the standard
 
 TravelCo.com wants to procure a recommender engine to:
 
@@ -1438,7 +1428,7 @@ Guardrails Actions
 
 XYZ notifies TravelCo.com of the challenge in providing a real-time ‘cheapest price’ because of the large and dynamic dataset of hotel pricing.
 
-## Guardrail 2:
+### Guardrail 2:
 
 Establish and implement a risk management process to identify and mitigate risks.
 
@@ -1450,7 +1440,7 @@ As a B2C organisation, TravelCo.com identifies the regulatory risk related to co
 
 The recommender engine uses several factors to create rankings of search results, including alignment to TravelCo.com’s business model.
 
-## Guardrail 6:
+### Guardrail 6:
 
 Inform end-users regarding AI-enabled decisions, interactions with AI and AI-generated content.
 
@@ -1464,21 +1454,19 @@ TravelCo.com decided to change its advertising materials from ‘cheapest’ or 
 
 TravelCo.com also decided to include a clear and prominent notice with every search that reflects its commercial arrangements with hotels.
 
-## Example 4: Warehouse accident detection
-
-## ManufaxCo background
+### Example 4: Warehouse accident detection — ManufaxCo background
 
 ManufaxCo is a manufacturing company that has built an AI system in house called Safe Zone. SafeZone monitors high-risk factory environments for potential safety hazards and alerts staff to hazards in real-time to prevent accidents and keep workers and assets safe.
 
 SafeZone combines computer vision and Natural Language Processing (NLP) technologies. Cameras installed throughout the factory capture real-time video feeds, which AI analyses to detect safety hazards like spills, obstructions, or people entering unsafe zones. The NLP component allows the system to understand and process verbal commands or alerts from workers, creating a more interactive and complete safety monitoring approach.
 
-## How ManufaxCo uses the standard
+### How ManufaxCo uses the standard
 
 Guardrails Actions
 
 ManufaxCo has carried out a risk assessment and found a set of concerns. The concerns (effectiveness and reliability, fairness, and privacy) are not an exhaustive list for this AI system. For example, they do not cover concerns about accountability or potential misuse.
 
-## Guardrail 2:
+### Guardrail 2:
 
 Establish and implement a risk management process to identify and mitigate risks.
 

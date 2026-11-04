@@ -9,7 +9,7 @@
 
 - 공유*열기*
 
-  **공유**
+**공유**
   - *페이스북*
   - *X*
   - *밴드*
@@ -21,7 +21,7 @@
 - 댓글수(클릭시 댓글로 이동)
 - [뉴스레터 구독신청(클릭시 페이지로 이동)](https://www.korea.kr/etc/newsLetterMain.do?pWise=sub&pWiseSub=K1)
 
-# 인공지능(AI)
+## 인공지능(AI)
 
 최종수정일 : 2021.11.05
 
@@ -137,25 +137,25 @@ IT강국을 넘어 AI 강국으로
 
 - **01 세계를 선도하는 인공지능 생태계 구축**
 
-  AI인프라 - 공공·민간 데이터 개방, ‘AI혁신 클라스터’ 확산 창업단지+기업+학교+연구소 ‘광주 AI 집적단지’
+AI인프라 - 공공·민간 데이터 개방, ‘AI혁신 클라스터’ 확산 창업단지+기업+학교+연구소 ‘광주 AI 집적단지’
 
-  AI 기술 경쟁력 - AI 반도체 핵심기술 개발(1조원), 차세대 AI 연구 선제 투자
+AI 기술 경쟁력 - AI 반도체 핵심기술 개발(1조원), 차세대 AI 연구 선제 투자
 
-  과감한 규제혁시 - 포괄적 네거티브 규제('20) 선허용, 후규제, AI시대 대비 ‘법제정비단’ 발족('20)
+과감한 규제혁시 - 포괄적 네거티브 규제('20) 선허용, 후규제, AI시대 대비 ‘법제정비단’ 발족('20)
 
-  AI 스타트업 - AI 올림픽 개최('20), AI 스트트업 투자·지원,AI펀드조성, 미래기술육성자금, 사업하 바우처
+AI 스타트업 - AI 올림픽 개최('20), AI 스트트업 투자·지원,AI펀드조성, 미래기술육성자금, 사업하 바우처
 - **02 인공지능을 가장 잘 활용하는 나라**
 
-  AI 인재양성 및 전 국민 교육 - 고급,전문 AI관련학과 신증선, AI교원 기업겸직 허용, 실무, AI 융합전공 개설 직구별 AI 역량 함양, 일반 초중등 SW 필수 교육 전 국민 AI 평생교육
+AI 인재양성 및 전 국민 교육 - 고급,전문 AI관련학과 신증선, AI교원 기업겸직 허용, 실무, AI 융합전공 개설 직구별 AI 역량 함양, 일반 초중등 SW 필수 교육 전 국민 AI 평생교육
 
-  전 산업 AI 활용전면화 - 대형 AI 웅합 프로젝트(AI+X)
+전 산업 AI 활용전면화 - 대형 AI 웅합 프로젝트(AI+X)
 
-  최고의 디지털 정부 - 차세대 지능형정부 구현, AI 기반공공서비스 혁식, 국민 맞춤형 복지, 국민생활 서비스
+최고의 디지털 정부 - 차세대 지능형정부 구현, AI 기반공공서비스 혁식, 국민 맞춤형 복지, 국민생활 서비스
 - **사람중심의 인공지능 구현**
 
-  포용적 일자리 안전말 구축 - 국민취업지원제도, 사회보험적용확대, 일자리정보 플랫폼
+포용적 일자리 안전말 구축 - 국민취업지원제도, 사회보험적용확대, 일자리정보 플랫폼
 
-  AI역기능 대응 및 AI 윤리 확립 - AI기반 사이버침해대응체계 고도화, 글로벌 수준의 AI 윤리체계 정립
+AI역기능 대응 및 AI 윤리 확립 - AI기반 사이버침해대응체계 고도화, 글로벌 수준의 AI 윤리체계 정립
 
 (출처=인공지능 국가전략, 붙임자료 / 2019.12. 관계부처 합동)
 
@@ -317,42 +317,40 @@ IT강국을 넘어 AI 강국으로
 
 [뉴스레터 구독](https://www.korea.kr/etc/newsLetterMain.do?pWise=sub&pWiseSub=L1)
 
-## 정책 NOW
-
-## 실시간 인기뉴스 *11.05. 04:22 기준*
+## 정책 NOW — 실시간 인기뉴스 *11.05. 04:22 기준*
 
 1. [한글 점자 100주년, 국내 첫 점자 교원 20명 배출
 
-   *단계상승*
+*단계상승*
    5](https://www.korea.kr/news/policyNewsView.do?newsId=148975017&pWise=sub&pWiseSub=R1)
 2. [이 대통령 "2027년 예산안은 성장확산 예산…'모두의 성장' 대전환"
 
-   *NEW*](https://www.korea.kr/news/policyNewsView.do?newsId=148974746&pWise=sub&pWiseSub=R2)
+*NEW*](https://www.korea.kr/news/policyNewsView.do?newsId=148974746&pWise=sub&pWiseSub=R2)
 3. [연체 걱정·월세 부담 없는 '전월세 안심신탁' 첫 임대인 모집
 
-   *단계하락*
+*단계하락*
    2](https://www.korea.kr/news/policyNewsView.do?newsId=148974991&pWise=sub&pWiseSub=R3)
 4. [역대 최대 20억 달러 투자 유치…'인베스트 코리아 서밋' 개막
 
-   *순위동일*](https://www.korea.kr/news/policyNewsView.do?newsId=148975007&pWise=sub&pWiseSub=R4)
+*순위동일*](https://www.korea.kr/news/policyNewsView.do?newsId=148975007&pWise=sub&pWiseSub=R4)
 5. [분양가 25%로 입주…고양창릉에 '지분적립형 주택' 첫 공급
 
-   *NEW*](https://www.korea.kr/news/policyNewsView.do?newsId=148975005&pWise=sub&pWiseSub=R5)
+*NEW*](https://www.korea.kr/news/policyNewsView.do?newsId=148975005&pWise=sub&pWiseSub=R5)
 6. [희귀·중증난치질환자 건강보험 본인부담률 10%→7% 인하
 
-   *단계하락*
+*단계하락*
    3](https://www.korea.kr/news/policyNewsView.do?newsId=148974989&pWise=sub&pWiseSub=R6)
 
 - 인기뉴스
 
-  - [수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진](https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=mostViewNewsSub&pWiseSub=B1)
+- [수도권에 신규택지 7만 6700호 추가…2030년까지 착공 추진](https://www.korea.kr/news/policyNewsView.do?newsId=148974548&pWise=mostViewNewsSub&pWiseSub=B1)
   - [한국 첫 북극항로 왕복 성공에 세계 주목…"물류허브 도약 기대"](https://www.korea.kr/news/policyNewsView.do?newsId=148974590&pWise=mostViewNewsSub&pWiseSub=B2)
   - [이 대통령 "2027년 예산안은 성장확산 예산…'모두의 성장' 대전환"](https://www.korea.kr/news/policyNewsView.do?newsId=148974746&pWise=mostViewNewsSub&pWiseSub=B3)
   - [고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대](https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=mostViewNewsSub&pWiseSub=B4)
   - [한·독 '강화된 전략적 동반자 관계' 수립…첨단산업·안보 협력 확대](https://www.korea.kr/news/policyNewsView.do?newsId=148974588&pWise=mostViewNewsSub&pWiseSub=B5)
 - 최신뉴스
 
-  - [내년도 공직적격성평가·국가공무원 시험 일정 발표](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787998&pWise=sub&pWiseSub=C1)
+- [내년도 공직적격성평가·국가공무원 시험 일정 발표](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787998&pWise=sub&pWiseSub=C1)
   - [[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련](https://www.korea.kr/briefing/actuallyView.do?newsId=148975052&pWise=sub&pWiseSub=C2)
   - [2026년 메콩 지역 공관장회의 개최](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787997&pWise=sub&pWiseSub=C3)
   - [이재명 대통령, 공공재개발 현장시찰 및 정비사업 현장간담회 관련 안귀령 부대변인 서면브리핑](https://www.korea.kr/briefing/presidentView.do?newsId=148975048&pWise=sub&pWiseSub=C4)
@@ -365,9 +363,7 @@ IT강국을 넘어 AI 강국으로
 - [장시간 노동, 공짜야근 근절합니다](https://www.korea.kr/multi/visualNewsView.do?newsId=148974987&cateId=graphic_news&pWise=sub&pWiseSub=D3)
 - [한·튀르키예 공동언론발표](https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74124&pWise=sub&pWiseSub=D4)
 
-## 정책포커스
-
-## 이전다음기사 영역
+## 정책포커스 — 이전다음기사 영역
 
 [이전기사**1월 23일 오늘의 바로잡는 언론보도**](javascript:;)
 [다음기사**신종 코로나바이러스 국내 두 번째 확진환자 관련 중간경과 발표**](javascript:;)
@@ -387,9 +383,7 @@ IT강국을 넘어 AI 강국으로
 **[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련**
 2026.11.04](https://www.korea.kr/news/actuallyView.do?newsId=148975052&pWise=sub&pWiseMain=F1)
 
-## 지금 이 뉴스
-
-## 추천 뉴스
+## 지금 이 뉴스 — 추천 뉴스
 
 - [**한미 외교장관 통화…“한국 민주주의·한미동맹 흔들림 없는 지지 재확인”**](https://www.korea.kr/news/policyNewsView.do?newsId=148937116&pWise=sub&pWiseMain=H1)
 - [**한강 작가 노벨문학상 기념, 베트남 ‘한국 문학 번역의 날’ 행사 개최**](https://www.korea.kr/news/policyNewsView.do?newsId=148937126&pWise=sub&pWiseMain=H2)

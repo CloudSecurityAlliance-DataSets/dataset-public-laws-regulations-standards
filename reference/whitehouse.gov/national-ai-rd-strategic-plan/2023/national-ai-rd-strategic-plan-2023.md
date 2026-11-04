@@ -1,22 +1,14 @@
 # National Artificial Intelligence Research and Development Strategic Plan: 2023 Update
 
-## NATIONAL ARTIFICIAL INTELLIGENCE
-
-## RESEARCH AND DEVELOPMENT
-
-## STRATEGIC PLAN
-
 ## 2023 UPDATE
 
-### A Report by the
+A Report by the — SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE
 
-### SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE
+of the
 
-### of the
+NATIONAL SCIENCE AND TECHNOLOGY COUNCIL
 
-## NATIONAL SCIENCE AND TECHNOLOGY COUNCIL
-
-### May 2023
+May 2023
 
 ## About the Office of Science and Technology Policy
 
@@ -46,7 +38,7 @@ The AI R&D Interagency Working Group (IWG) coordinates federal AI R&D and suppor
 
 This document includes relevant text from the 2016 and 2019 national AI R&D strategic plans, along with updates prepared in 2023 based on Administration and interagency evaluation of the National AI R&D Strategic Plan: 2019 Update as well as community responses to a Request for Information on updating the Plan. The 2019 strategies were broadly determined to be valid going forward. The 2023 update adds a new Strategy 9, which establishes a principled and coordinated approach to international collaboration in AI research.
 
-## Copyright
+Copyright
 
 This document is a work of the United States government and is in the public domain (see 17 U.S.C. §105). As a courtesy, we ask that copies and distributions include an acknowledgment to OSTP. Published in the United States of America, 2023.
 

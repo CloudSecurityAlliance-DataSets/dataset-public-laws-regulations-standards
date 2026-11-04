@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
   "license": {
-    "spdx": "LicenseRef-SG-Government-Copyright",
-    "Grouping": "Government-Open-Access",
-    "redistribution": "yes",
+    "spdx": "LicenseRef-SG-Government-Copyright-Reserved",
+    "Grouping": "Government-Copyright-Reserved",
+    "redistribution": "requires_prior_written_permission",
     "derivatives": "prohibited",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "https://www.csa.gov.sg/terms-of-use",
-    "note": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use.",
-    "notes": "Government of Singapore official strategy publication; verbatim reproduction and reference permitted with attribution under Singapore Government Terms of Use."
+    "note": "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use.",
+    "notes": "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 35-page PDF (https://isomer-user-content.by.gov.sg/36/6318c1f5-3257-4c99-80e5-27339cf41883/The-Singapore-Cybersecurity-Strategy-2021.pdf) locally via PyMuPDF (75,900 chars). Parsed 307 sections (5 with explicit section identifiers)."
+    "notes": "Extracted 35-page PDF (https://isomer-user-content.by.gov.sg/36/6318c1f5-3257-4c99-80e5-27339cf41883/The-Singapore-Cybersecurity-Strategy-2021.pdf) locally via PyMuPDF (75,900 chars). Parsed 99 sections (5 with explicit section identifiers)."
   },
   "extraction_history": [
     {

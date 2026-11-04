@@ -1,14 +1,6 @@
 # Guide to Developing a National Cybersecurity Strategy (2nd Edition, 2021)
 
-## Strategic Engagement in Cybersecurity
-
-## Guide to Developing a National Cybersecurity
-
-## Strategy
-
-## 2nd Edition 2021
-
-## Partners
+## Strategic Engagement in Cybersecurity — Guide to Developing a National Cybersecurity — 2nd Edition 2021 — Partners
 
 C
 
@@ -78,9 +70,7 @@ Y
 
 C
 
-## Observers
-
-## Some Rights Reserved
+## Observers — Some Rights Reserved
 
 © 2021 International Telecommunication Union (ITU) Place des Nations 1211, Geneva 20 Switzerland
 
@@ -282,7 +272,7 @@ This Guide is first and foremost targeted at policy-makers responsible for devel
 
 ## Section 2: Introduction
 
-## Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global
+Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global
 
 economy as a whole.
 
@@ -312,25 +302,23 @@ A National Cybersecurity Strategy also provides the opportunity to align cyberse
 
 Finally, a National Cybersecurity Strategy development process should translate a government’s vision into coherent and implementable policies that will help it achieve its objectives. This includes not only the steps, programmes and initiatives that should be put in place, but also the resources allocated for those efforts and how these resources should be used. Similarly, the process should identify the metrics that will be used to help ensure that desired outcomes are achieved within set budgets and timelines.
 
-## Section 3: Lifecycle of a National Cybersecurity Strategy
-
-## This Section provides an overview of the various phases in the development of a Strategy, which include:
+## Section 3: Lifecycle of a National Cybersecurity Strategy This Section provides an overview of the various phases in the development of a Strategy, which include:
 
 •
 
-### Phase I – Initiation
+Phase I – Initiation
 
 •
 
-### Phase II – Stocktaking and analysis
+Phase II – Stocktaking and analysis
 
 •
 
-### Phase III – Production
+Phase III – Production
 
 •
 
-### Phase IV – Implementation
+Phase IV – Implementation
 
 •
 
@@ -616,7 +604,7 @@ Further references available on page 57.
 
 ## Section 4: Overarching Principles
 
-## This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National
+This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National
 
 Cybersecurity Strategy.
 
@@ -720,9 +708,7 @@ Further references available on page 63.
 
 ## Section 5: National Cybersecurity Strategy Good Practice
 
-## Cybersecurity affects many areas of socio-economic development and is influenced by several factors
-
-within the national context.
+Cybersecurity affects many areas of socio-economic development and is influenced by several factors within the national context.
 
 Therefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.
 
@@ -1026,9 +1012,7 @@ The Strategy should identify and recognise the mandates of domestic agencies wit
 
 responsible for ensuring that all international cybercrime requirements are being met (e.g., ensure that national laws comply with international treaty obligations) and across judicial lines (e.g., cross-border cooperation) (see also Section 5.1.3 and 5.1.4; and Section 5.6.6).
 
-### 5.6.7 Support international cooperation to combat cyber threats and
-
-cybercrime
+### 5.6.7 Support international cooperation to combat cyber threats and cybercrime
 
 The Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition.
 
@@ -1090,9 +1074,7 @@ Further references available on page 71.
 
 ## Section 6: Reference Materials
 
-## In the process of developing this Guide, a stocktaking of existing guides and best practices
-
-was conducted.
+In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.
 
 This allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links.
 

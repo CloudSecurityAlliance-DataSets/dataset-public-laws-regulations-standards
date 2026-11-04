@@ -16,8 +16,8 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
     "note": "Italian Government open publication (agid.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 38-page PDF (https://www.agid.gov.it/sites/agid/files/2024-07/Italian_strategy_for_artificial_intelligence_2024-2026.pdf) locally via PyMuPDF (128,180 chars). Parsed 94 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 38-page PDF (https://www.agid.gov.it/sites/agid/files/2024-07/Italian_strategy_for_artificial_intelligence_2024-2026.pdf) locally via PyMuPDF (128,180 chars). Parsed 67 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

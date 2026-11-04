@@ -1,10 +1,7 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","AI Strategy 2019 (AI戦略2019)","","",""
-"2","","AI Strategy 2019","","",""
-"3","","AI for Everyone: People, Industries, Regions and Governments","","",""
-"2","","（ tentative translation ）","","",""
-"2","","June 11, 2019 Integrated Innovation Strategy Promotion Council Decision","","",""
-"2","","Contents","","","Introduction···································································································· 1
+"2","","AI Strategy 2019","","","AI for Everyone: People, Industries, Regions and Governments"
+"2","","（ tentative translation ） — June 11, 2019 Integrated Innovation Strategy Promotion Council Decision — Contents","","","Introduction···································································································· 1
 
 I. Basic Concept ······························································································ 2 (A) Scope of the Strategy ························································································· 2 (B) Purpose of the Strategy ······················································································ 3 (C) Principles behind the Strategy ············································································· 3 (D) Basic Concept for Strategy Promotion ··································································· 3 (E) Strategic Objectives ························································································· 4 (F) Role Sharing Between Public and Private Sectors ····················································· 7 II. Building a Foundation for the Future: Education Reform and Reconstruction of the Research and Development System ········································································ 9
 
@@ -326,8 +323,9 @@ competitive compensation system for talented human resources. Furthermore, for t
 
 creating the future, the private sector must actively contribute to future economic and social development
 
-with the awareness of their core role in undertaking a major challenge."
-"3","II","Building a Foundation for the Future: Education Reform and Reconstruction of the","roman","","Research and Development System"
+with the awareness of their core role in undertaking a major challenge.
+
+II. Building a Foundation for the Future: Education Reform and Reconstruction of the Research and Development System"
 "2","","II-1 Education Reform","","","Currently, our society is undergoing a major transition through digital transformation. One of the
 
 major driving forces of this change is AI, and there is the increasing demand for human resources
@@ -1521,8 +1519,7 @@ Other
 Type AI
 
 Figure: Overall Structure of AI R&D"
-"2","III","Establishing a Foundation for Industry and Society","roman","",""
-"2","","III - 1 Social Implementation","","","As already emphasized, by combining Japan’s technology strengths with AI technology, we must aim
+"2","III","Establishing a Foundation for Industry and Society III - 1 Social Implementation","roman","","As already emphasized, by combining Japan’s technology strengths with AI technology, we must aim
 
 to realize a ""sustainable society that incorporates diversity"" while contributing to the solution of global
 

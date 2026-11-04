@@ -308,8 +308,6 @@ we shall use AI to be a force for good, generating new economic opportunities
 
 and improving societies everywhere.
 
-## National AI Strategy 2.0
-
 ## Our Vision and Goals
 
 Developed through extensive engagements, NAIS 2.0 starts with the conviction
@@ -384,9 +382,7 @@ will continually review these Actions to respond to fast-moving developments in
 
 AI, across domains.
 
-## SYSTEM 1
-
-## Activity Drivers
+## SYSTEM 1: Activity Drivers
 
 Industry, Government, and Research drive AI activity, from basic science to product
 
@@ -402,9 +398,7 @@ greater experimentation and collaboration, focusing on interesting and impactful
 
 challenges, to reap greater benefits from AI.
 
-### AI Trailblazers
-
-### Feature Story
+### AI Trailblazers — Feature Story
 
 In July 2023, the Ministry of Communications and Information (MCI), Digital Industry
 
@@ -546,7 +540,7 @@ and product mandates.
 
 ## Action 1
 
-## Anchor new AI Centres of Excellence (CoEs) across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors
+Anchor new AI Centres of Excellence (CoEs) across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors
 
 We will attract and anchor new AI CoEs in Singapore-based companies that are
 
@@ -576,9 +570,7 @@ a broader base of researchers and companies in the sector.
 
 spin-offs for the broader sector ecosystem.
 
-### American Express Decision Science CoE
-
-### Feature Story
+### American Express Decision Science CoE — Feature Story
 
 In December 2022, American Express set up a Decision
 
@@ -604,9 +596,7 @@ AI R&D practice focused on new AI applications for
 
 servicing, risk, and technology.
 
-## Action 2
-
-## Strengthen our AI start-up ecosystem, including attracting AI-focused accelerator programmes to spur rapid AI experimentation
+## Action 2: Strengthen our AI start-up ecosystem, including attracting AI-focused accelerator programmes to spur rapid AI experimentation
 
 In concert with private sector partners, we will strengthen the AI start-up
 
@@ -634,9 +624,7 @@ delivery for our people and businesses. We will harness AI to serve the public i
 
 more impactful ways.
 
-### OneService Chatbot
-
-### Feature Story
+### OneService Chatbot — Feature Story
 
 The Municipal Services Office and the Government Technology Agency (GovTech) launched
 
@@ -690,9 +678,7 @@ pain points using AI. This can be done through well-structured ideathons,
 
 hackathons, and incubator programmes.
 
-### Pair
-
-### Feature Story
+### Pair — Feature Story
 
 Pair is a Large Language Model (LLM)-powered suite of tools for Government officers
 
@@ -710,9 +696,7 @@ question-and-answer format, powered by the same LLMs underlying ChatGPT. Thousan
 
 of public servants regularly access Pair Chat to increase their productivity at work.
 
-## Action 3
-
-## Improve Public Service productivity, with new value propositions for our citizens
+## Action 3: Improve Public Service productivity, with new value propositions for our citizens
 
 The Government will accelerate public sector adoption of AI to unlock new value
 
@@ -788,9 +772,7 @@ Singapore will take a pragmatic yet bold approach to building up and sustaining
 
 our leadership in select areas of AI research.
 
-## Action 4
-
-## Update national AI R&D plans to sustain leadership in select research areas
+## Action 4: Update national AI R&D plans to sustain leadership in select research areas
 
 We intend to update our national AI R&D plans in five ways: Research Priorities,
 
@@ -808,9 +790,7 @@ academia and industry, capitalising on the growing porosity of talent and
 
 innovation activities across the two spheres.
 
-### AISG’s 100 Experiments programme
-
-### Feature Story
+### AISG’s 100 Experiments programme — Feature Story
 
 100 Experiments (100E) is AISG’s flagship programme, aimed at solving AI problem
 
@@ -866,9 +846,7 @@ level up our current capabilities by working with the best in the world and
 
 make a meaningful contribution to global AI development.
 
-### Feature Story
-
-### Singapore-Republic of Korea Joint Grant Call for AI Research
+### Feature Story — Singapore-Republic of Korea Joint Grant Call for AI Research
 
 In February 2023, AISG and the Republic of Korea (ROK)’s Institute for Information &
 
@@ -884,9 +862,7 @@ to enhance the energy efficiency of Heating, Ventilation, and Air Conditioning (
 
 systems. The project also drew in industry partners from both countries.
 
-### Singapore Conference on AI
-
-### Feature Story
+### Singapore Conference on AI — Feature Story
 
 In December 2023, MCI and Smart Nation Group convened the inaugural Singapore
 
@@ -900,9 +876,7 @@ Over 40 local and overseas experts from academia, non-profit, industry and gover
 
 SCAI participants identifying a list of critical questions that need to be addressed to realise AI’s full potential.
 
-## SYSTEM 2
-
-## People & Communities
+## SYSTEM 2: People & Communities
 
 Tight-knit knowledge communities are critical for AI innovation, driving the
 
@@ -952,9 +926,7 @@ supporting top-tier AI activity, translating innovation into products and
 
 services, and transforming our industries.
 
-## Action 5
-
-## Attract world’s top AI Creators to work from and with Singapore
+## Action 5: Attract world’s top AI Creators to work from and with Singapore
 
 Singapore will engage and attract world-class AI Creators, from both the public
 
@@ -978,9 +950,7 @@ arrangements, part-time appointments across industry and academia, and
 
 partnerships with international research institutions or companies.
 
-## Action 6
-
-## Boost AI Practitioner pool to 15,000
+## Action 6: Boost AI Practitioner pool to 15,000
 
 Singapore will boost the pool of AI Practitioners to support growing AI demand,
 
@@ -1010,9 +980,7 @@ talent to work and live in Singapore, and contribute to our national efforts.
 
 real business problems.
 
-### TechSkills Accelerator
-
-### Feature Story
+### TechSkills Accelerator — Feature Story
 
 Driven by IMDA, in collaboration with industry, SkillsFuture Singapore (SSG), Workforce
 
@@ -1062,9 +1030,7 @@ toolkits, schemes, and training programmes, to empower enterprises and workers
 
 to adopt AI and stay ahead of the curve.
 
-## Action 7
-
-## Intensify enterprise AI adoption for industry transformation
+## Action 7: Intensify enterprise AI adoption for industry transformation
 
 Singapore will intensify the promotion of AI adoption across all enterprises.
 
@@ -1106,9 +1072,7 @@ build in-house digital capabilities, as well as the scoping of impactful AI
 
 projects in partnership with AI solution providers.
 
-## Action 8
-
-## Upskill workforce through sector-specific AI training programmes
+## Action 8: Upskill workforce through sector-specific AI training programmes
 
 To help workers acquire the necessary skillsets to work with AI, Industry
 
@@ -1130,9 +1094,7 @@ upskilling and reskilling.
 
 transformation. ITMs will be refined over time to ensure relevance.
 
-### Jobs Transformation Maps
-
-### Feature Story
+### Jobs Transformation Maps — Feature Story
 
 JTMs provide detailed insights on the impact of technology and automation on sectors
 
@@ -1198,9 +1160,7 @@ identity and fraternity, and build up a broader Singapore AI community that can
 
 attest to the support and inspiration that this network provides.
 
-## Action 9
-
-## Establish an iconic AI site to co-locate AI creators and practitioners, and nurture the AI community in Singapore
+## Action 9: Establish an iconic AI site to co-locate AI creators and practitioners, and nurture the AI community in Singapore
 
 Singapore will establish a dedicated physical place for AI in Singapore. This will
 
@@ -1274,9 +1234,7 @@ as arrange engagements with prominent foreign-based AI experts and practitioners
 
 visit Singapore.
 
-## SYSTEM 3
-
-## Infrastructure & Environment
+## SYSTEM 3: Infrastructure & Environment
 
 Successful AI value creation requires robust and conducive infrastructure and a
 
@@ -1334,9 +1292,7 @@ We will also work with sustainability leaders in this space, to help Singapore
 
 achieve our AI ambitions while meeting our sustainability goals.
 
-## Action 10
-
-## Significantly increase high-performance compute available in Singapore
+## Action 10: Significantly increase high-performance compute available in Singapore
 
 We will actively crowd in a significant amount of compute to Singapore to support
 
@@ -1428,9 +1384,7 @@ national priorities but are not commercially attractive. This will ensure that
 
 such projects do not fall through the cracks.
 
-## Action 11
-
-## Build capabilities in data services and Privacy- Enhancing Technologies
+## Action 11: Build capabilities in data services and Privacy- Enhancing Technologies
 
 Singapore will build up our data management capabilities so that more of us
 
@@ -1456,9 +1410,7 @@ encryption, and expand practical measures like regulatory sandboxes and
 
 guidelines to promote experimentation with PETs.
 
-### PET Sandbox
-
-### Feature Story
+### PET Sandbox — Feature Story
 
 To facilitate industry experimentation with PETs, IMDA launched Singapore’s first PET
 
@@ -1476,9 +1428,7 @@ provides regulatory support to ensure that the deployment of PETs meets complian
 
 guidelines.
 
-## Action 12
-
-## Unlock Government data for use cases that serve the Public Good
+## Action 12: Unlock Government data for use cases that serve the Public Good
 
 Singapore will selectively unlock more public sector data for AI development
 
@@ -1602,9 +1552,7 @@ what benchmarks to use, and what testing is appropriate, and we look forward to
 
 developing these perspectives together with other stakeholders.
 
-## Action 13
-
-## Ensure fit-for-purpose regulatory environment for AI
+## Action 13: Ensure fit-for-purpose regulatory environment for AI
 
 The Government will continue to maintain a regulatory environment for AI that is
 
@@ -1624,9 +1572,7 @@ baseline guidance will give clarity to AI developers and users on how to be
 
 responsible in the design and use of AI.
 
-### AI Verify
-
-### Feature Story
+### AI Verify — Feature Story
 
 AI Verify is an AI governance testing framework and software toolkit developed by IMDA.
 
@@ -1690,9 +1636,7 @@ capacity, share best practices, and shape rules around AI, together with the
 
 international community.
 
-### UN High-Level Advisory Body on AI
-
-### Feature Story
+### UN High-Level Advisory Body on AI — Feature Story
 
 In October 2023, the UN Secretary-General announced the creation of a new multi-
 
@@ -1706,9 +1650,7 @@ Officer and Deputy Chief Digital Technology Officer of the Government of Singapo
 
 been selected as one of the members of the HLAB.
 
-## Action 14
-
-## Raise security and resilience baseline for AI
+## Action 14: Raise security and resilience baseline for AI
 
 The Government will also elevate the security and resilience baseline for all
 
@@ -1800,9 +1742,7 @@ valuable contributions to the broader conversation on how to govern AI
 
 models better. We look forward to learning together with them.
 
-## Action 15
-
-## Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance
+## Action 15: Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance
 
 Singapore is committed to being a serious and reliable international partner on
 
@@ -1868,9 +1808,7 @@ the 108 members of FOSS.
 
 FOSS.
 
-### Asia Tech x Singapore
-
-### Feature Story
+### Asia Tech x Singapore — Feature Story
 
 Asia Tech x Singapore (ATxSG) is a platform to empower the technology community to
 

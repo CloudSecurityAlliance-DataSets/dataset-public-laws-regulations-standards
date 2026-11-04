@@ -136,9 +136,7 @@ and use of the material lies with the reader. In no event shall the Internationa
 
 World Bank or any of the Contributors be liable for damages arising from its use.
 
-## OBSERVER
-
-## Joint Foreword
+## OBSERVER — Joint Foreword
 
 Technology and connectivity are powerful enablers of inclusive and sustainable development. Technological
 
@@ -688,11 +686,9 @@ process. It aims to help countries develop, implement, and sustain an effective 
 
 evolving risks, emerging technologies, and international good practices.
 
-### S E C T I O N 1
+### Section 1: Document Overview
 
-## Document Overview
-
-### 1.1 PURPOSE
+#### 1.1 PURPOSE
 
 The purpose of this document is to guide national leaders and policymakers in the development,
 
@@ -808,9 +804,7 @@ in the international development community that provide assistance in cybersecur
 
 development, implementation, and revision of an NCS.
 
-### S E C T I O N 2
-
-## Introduction
+### Section 2: Introduction
 
 Since their emergence, information and communication technologies (ICTs) and digital services have evolved
 
@@ -938,9 +932,7 @@ should be used. Similarly, the process should identify the metrics and performan
 
 desired outcomes are achieved within set budgets and timelines.
 
-### S E C T I O N 3
-
-## Lifecycle
+### Section 3: Lifecycle
 
 This Section provides an overview of the phases in the development of a National Cybersecurity Strategy,
 
@@ -1256,9 +1248,7 @@ meet the national needs, and highlight where they fall short.
 
 It should also identify specific issues (e.g., educational
 
-### KEY ELEMENTS TO BE MAPPED
-
-and workforce gaps) and define desired outcomes for the
+KEY ELEMENTS TO BE MAPPED and workforce gaps) and define desired outcomes for the
 
 Strategy, along with the means available and required to
 
@@ -1922,9 +1912,7 @@ changing conditions. These reviews should feed directly into the next cycle of N
 
 again with initiation and stocktaking.
 
-### S E C T I O N 4
-
-## Overarching Principles
+### Section 4: Overarching Principles
 
 This section presents ten cross-cutting principles, which, when taken together, can help in the development of
 
@@ -1940,45 +1928,45 @@ The order of these principles reflects a logical narrative rather than an order 
 
 Figure 4 - Overarching Principles
 
-### 1.
+1.
 
 Vision
 
 Comprehensive approach and tailored priorities
 
-### 2.
+2.
 
-### 3.
+3.
 
 Inclusiveness
 
 Economic and social prosperity
 
-### 4.
+4.
 
 Risk management and resilience
 
-### 6.
+6.
 
 Appropriate set of policy instruments
 
-### 7.
+7.
 
 Clear leadership, roles, and resource allocation
 
-### 8.
+8.
 
-### 9.
+9.
 
 Trust environment
 
 Technological foresight and adaptability Fundamental human rights
 
-### 5.
+5.
 
 ### 4.1 VISION
 
-### 10.
+10.
 
 The Strategy should set a clear whole-of-government and whole-of-society vision.
 
@@ -2192,9 +2180,7 @@ while supporting resilience, security, and digital innovation. Reviews and mid-t
 
 3 - Lifecycle) are critical to ensure adaptability is built into the NCS lifecycle.
 
-### S E C T I O N 5
-
-## National Cybersecurity Strategy Good Practice
+### Section 5: National Cybersecurity Strategy Good Practice
 
 Cybersecurity affects many areas of socio-economic development and is influenced by several factors within
 
@@ -3940,9 +3926,7 @@ and emphasize participation in international cybersecurity exercises and cross-b
 
 drills as both capacity-building and trust-building measures.
 
-### S E C T I O N 6
-
-## Reference Materials
+### Section 6: Reference Materials
 
 To prepare this Guide, we reviewed existing guides, frameworks, and good practices from around the world. This process allowed us to identify a wide range of resources that can support countries in designing, implementing, and sustaining their national cybersecurity strategies.
 
@@ -3952,9 +3936,7 @@ In this version of the Guide the Reference Section is available on its website (
 
 Reference section available at www.ncsguide.org.
 
-### S E C T I O N 7
-
-## Acronyms
+### Section 7: Acronyms
 
 Acronym Definition
 

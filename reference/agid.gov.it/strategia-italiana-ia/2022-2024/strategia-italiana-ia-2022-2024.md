@@ -1,12 +1,10 @@
 # Strategic Program on Artificial Intelligence 2022-2024
 
-## Strategic Programme on Artificial Intelligence
+Strategic Programme on Artificial Intelligence
 
-### 2022-2024
+2022-2024
 
 ## Rome 24.11.2021
-
-### Strategic Program on Artificial Intelligence 2022-2024
 
 ### Italian Government
 
@@ -122,7 +120,7 @@ E.6 Introducing cross-authority case processing
 
 Introducing AI-based technologies to automate the sorting and preparation of inquiries for processing
 
-## 1. Context: Italy’s competitive position and challenges ahead
+1. Context: Italy’s competitive position and challenges ahead
 
 ## 1.1 The Italian Ecosystem
 
@@ -218,9 +216,7 @@ Figure 1: Italian companies offering AI products, by sector
 
 system integrators and consulting companies 15%
 
-### generalists 25% 55% vertical solution providers
-
-### others 5%
+### generalists 25% 55% vertical solution providers — others 5%
 
 In addition, several large corporations are creating in-house AI research labs to create solutions and products that may cater to their business, their clients or both. Companies are most active in the energy, security, aerospace, telecommunications, insurance, banking, cloud and household and personal care (HPC) sectors.
 
@@ -526,7 +522,7 @@ Data presented by McKinsey during the event “The Future Is Now” held in Mila
 
 https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx
 
-## 2. The strategic programme on artificial intelligence: anchoring, principles and goals
+2. The strategic programme on artificial intelligence: anchoring, principles and goals
 
 ## 2.1 The anchoring: an EU centred AI
 
@@ -694,11 +690,7 @@ There are three key areas of policy intervention:
 
 3
 
-### Research
-
-### Talent and Skills
-
-### Applications
+### Research — Talent and Skills — Applications
 
 Research initiatives focused on both fundamental and challen-ge-driven AI.
 
@@ -834,7 +826,7 @@ Rita Levi Montalcini programme 5M€/year granted on a competitive basis (bottom
 
 National Recovery and Resilience Plan
 
-### https://italiadomani.gov.it/it/home.html
+https://italiadomani.gov.it/it/home.html
 
 ### A.3 Strengthening AI skills in the Public Administration
 
@@ -982,9 +974,7 @@ Possible source of investments
 
 NRRP M4C2 Investment 1.5: Establishing and strengthening of "innovation ecosystems for sustainabili-ty", building "territorial leaders of R&D". 1,300M€ for up to 12 innovation ecosystems selected on a com-petitive basis (bottom-up approach).
 
-### C. Horizontal aspects
-
-### C.1 Funding projects for Creative AI for creative Italy
+### C. Horizontal aspects C.1 Funding projects for Creative AI for creative Italy
 
 Objective To create scientific excellence in research applications in specific sectors, such as creative manufacturing.
 
@@ -1092,9 +1082,7 @@ It is recommended to begin the implementation (Y1-Y2) through a couple of priori
 
 For instance the 2nd level Specializing Master’s programme in "Artificial Intelligence & Cloud: Hands-on innovation" offered by Politecnico di Torino or the initiative “Advanced School in AI” funded by Regione Emilia Romagna with the contribution of all regional universities.
 
-### D.2 Supporting the growth of innovative spin-off and start-ups
-
-### Objective
+### D.2 Supporting the growth of innovative spin-off and start-ups — Objective
 
 To increase the number of AI start-ups by 30% with respect to 2021; to improve the average revenues of AI start-ups by 50% in the domestic market and 30% in export; to improve the number of scale-ups; to detect and support scale-ups and unicorns.
 

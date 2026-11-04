@@ -1,9 +1,8 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"1","","Strategic Program on Artificial Intelligence 2022-2024","","",""
-"2","","Strategic Programme on Artificial Intelligence","","",""
-"3","","2022-2024","","",""
+"1","","Strategic Program on Artificial Intelligence 2022-2024","","","Strategic Programme on Artificial Intelligence
+
+2022-2024"
 "2","","Rome 24.11.2021","","",""
-"3","","Strategic Program on Artificial Intelligence 2022-2024","","",""
 "3","","Italian Government","","","Jointly developed by the The Ministry of Education, University and Research, the Ministry of Economic Development,
 
 and the Minister of Technological Innovation and Digital Transition
@@ -105,10 +104,11 @@ E.5 Creating datasets for service improvement in PA Creating a very large annota
 
 E.6 Introducing cross-authority case processing
 
-Introducing AI-based technologies to automate the sorting and preparation of inquiries for processing"
-"2","1","Context: Italy’s competitive position and challenges ahead","numbered","",""
-"2","1.1","The Italian Ecosystem","numbered","1","The Italian AI ecosystem is composed of four categories of actors: 1) research communities 2) knowledge-transfer centres 3) technology and solution providers, and 4) private and public user organisations. This section reviews each category’s relative strengths and weaknesses."
-"3","","A. Research Communities","","","Italy has a vibrant AI research community, which contributes to the Italian AI ecosystem in four ways:
+Introducing AI-based technologies to automate the sorting and preparation of inquiries for processing
+
+1. Context: Italy’s competitive position and challenges ahead"
+"2","1.1","The Italian Ecosystem","numbered","","The Italian AI ecosystem is composed of four categories of actors: 1) research communities 2) knowledge-transfer centres 3) technology and solution providers, and 4) private and public user organisations. This section reviews each category’s relative strengths and weaknesses."
+"3","A","Research Communities","letter","","Italy has a vibrant AI research community, which contributes to the Italian AI ecosystem in four ways:
 
 Research: Italian researchers are active in both fundamental and applied research, thus covering all fields of AI. In particular, Italian research is clustered around the following topics: Machine/Deep Learning, Computer Vision, Natural Language Processing (NLP), Data Mining, Big Data analytics, Embedded AI, Human aspects in AI, Knowledge Representation and Symbolic Learning, Decision Support Systems, Agent-based systems and Trustworthy AI. Research in AI is mainly carried out in research labs of universities and public research centres as in the National Research Council (CNR) -and in research foundations such as Fondazione Bruno Kessler and the Italian Institute of Technology. As we shall see later, this community has a widely recognized international standing in terms of quality and quantity of its research output. Education and training: Italian universities offer more than 200 AI curricula spread over roughly 50 universi-ties. To further boost this ecosystem, Italy launched in 2021 the National “Artificial Intelligence” PhD Programme (PhD-AI.it), one of the largest and most ambitious PhD programmes in artificial intelligence worldwide. The programme involves over 50 universities, three public research bodies and three research orga-nisations with a view to train researchers, innovators and professionals. The PhD-AI.it is composed of five federated PhD courses, which share a common core curriculum in AI foundations and developments. Each course has an area of specialisation related to a strategic sector for AI application: health and life sciences, agrifood and environment, security and cybersec, industry 4.0, and society. To date, the programme has issued 200 PhD scholarships with a budget of €16 million.
 
@@ -175,7 +175,7 @@ https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza
 European Commission, European Digital Innovation Hubs
 
 https://digital-strategy.ec.europa.eu/en/activities/edihs"
-"3","","C. Technology and solution providers","","","The Italian ecosystem is characterised by a variety of technology providers which specialise in a variety of AI solu-tions. As of February 2021, the Observatory on AI registered 260 Italian companies offering AI products and services (See Figure 1):
+"3","The Italian Ecosystem: C","Technology and solution providers","letter","","The Italian ecosystem is characterised by a variety of technology providers which specialise in a variety of AI solu-tions. As of February 2021, the Observatory on AI registered 260 Italian companies offering AI products and services (See Figure 1):
 
 9
 
@@ -192,8 +192,7 @@ Few of them are cloud providers offering AI solutions and companies offering sen
 Figure 1: Italian companies offering AI products, by sector
 
 system integrators and consulting companies 15%"
-"3","","generalists 25% 55% vertical solution providers","","",""
-"3","","others 5%","","","In addition, several large corporations are creating in-house AI research labs to create solutions and products that may cater to their business, their clients or both. Companies are most active in the energy, security, aerospace, telecommunications, insurance, banking, cloud and household and personal care (HPC) sectors.
+"3","","generalists 25% 55% vertical solution providers — others 5%","","","In addition, several large corporations are creating in-house AI research labs to create solutions and products that may cater to their business, their clients or both. Companies are most active in the energy, security, aerospace, telecommunications, insurance, banking, cloud and household and personal care (HPC) sectors.
 
 Lastly, the Italian entrepreneurial ecosystem registers a growing number of start-ups with AI expertise; CINI Lab AIIS in 2020 surveyed 110 university spin-offs or start-ups connected with research centres, focusing on machine or deep learning, big data analytics and human-AI interaction. This figure is particularly relevant as AI is one of the sectors where startups concentrate the most, showing a national proclivity for the sector.
 
@@ -204,7 +203,7 @@ https://www.osservatori.net/it/home
 Registered in the innovative startups section of the Business Register of the Chamber of Commerce
 
 Despite the considerable number of players / start-ups, the AI market in Italy is still very limited in size and this is negatively affecting the growth of our companies and their investment capability. Considering the fast develop-ment rate of AI, this represents a weakness that should be addressed."
-"3","","D. Private and public user organisations","","","Lastly, the Italian ecosystem is composed of private and public users organisations. As for private organisations, in 2020 according to a research conducted by the School of Management of Politecnico di Milano, 53% of medium-large Italian companies declare that they have started at least one AI project. The sectors that show the greatest diffusion of fully operational projects are manufacturing (22% of total projects started), banking-finance (16%) and insurance (10%).
+"3","The Italian Ecosystem: D","Private and public user organisations","letter","","Lastly, the Italian ecosystem is composed of private and public users organisations. As for private organisations, in 2020 according to a research conducted by the School of Management of Politecnico di Milano, 53% of medium-large Italian companies declare that they have started at least one AI project. The sectors that show the greatest diffusion of fully operational projects are manufacturing (22% of total projects started), banking-finance (16%) and insurance (10%).
 
 Table 2: AI projects within Italian medium-large companies, by sector"
 "3","","Value Category","","","Manufacturing 22%
@@ -489,9 +488,10 @@ More than 50% of interviewed companies declared that the one of the major obstac
 
 Data presented by McKinsey during the event “The Future Is Now” held in Milan in 2019
 
-https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx"
-"2","2","The strategic programme on artificial intelligence: anchoring, principles and goals","numbered","",""
-"2","2.1","The anchoring: an EU centred AI","numbered","2","Over the last decade, industry and society have been radically changed by the ongoing digital revolution. In this context, the EU has recognized AI as an area of strategic importance with the potential of becoming a key driver of economic development.
+https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx
+
+2. The strategic programme on artificial intelligence: anchoring, principles and goals"
+"2","2.1","The anchoring: an EU centred AI","numbered","","Over the last decade, industry and society have been radically changed by the ongoing digital revolution. In this context, the EU has recognized AI as an area of strategic importance with the potential of becoming a key driver of economic development.
 
 In April 2018, the European Commission put forward a European strategy on AI in its Communication ‘Artificial Intelli-gence for Europe’ COM(2018)237 as part of its Digital Single Market Strategy. This strategy delineates the following aims:
 
@@ -578,7 +578,7 @@ https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-se
 European Commission, Artificial Intelligence in Public services
 
 These Guiding Principles are not separate pillars. They offer an ambitious vision of the future of AI in Italy and an integrated approach that aims at stimulating all those factors that can contribute to the development of a favourable ecosystem. Industrial changes will lead to societal ones and both of these, in turn, will stimulate fundamental and challenge-driven research. The Strategic Programme is set to support all of these aspects."
-"2","2.3","Objectives and Priority Sectors","numbered","2","Given the challenges laid out in the prior chapter, as well as Italy’s competitive position in the field of AI, this strategic programme lays out six objectives with a view to boosting Italy’s strengths while mitigating its weaknesses. These objectives are:
+"2","2.3","Objectives and Priority Sectors","numbered","","Given the challenges laid out in the prior chapter, as well as Italy’s competitive position in the field of AI, this strategic programme lays out six objectives with a view to boosting Italy’s strengths while mitigating its weaknesses. These objectives are:
 
 Objectives
 
@@ -648,9 +648,7 @@ There are three key areas of policy intervention:
 2
 
 3"
-"3","","Research","","",""
-"3","","Talent and Skills","","",""
-"3","","Applications","","","Research initiatives focused on both fundamental and challen-ge-driven AI.
+"3","","Research — Talent and Skills — Applications","","","Research initiatives focused on both fundamental and challen-ge-driven AI.
 
 Development of human resour-ces with AI skills.
 
@@ -773,8 +771,9 @@ Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 
 
 Rita Levi Montalcini programme 5M€/year granted on a competitive basis (bottom-up approach).
 
-National Recovery and Resilience Plan"
-"3","","https://italiadomani.gov.it/it/home.html","","",""
+National Recovery and Resilience Plan
+
+https://italiadomani.gov.it/it/home.html"
 "3","","A.3 Strengthening AI skills in the Public Administration","","","A major weakness of the Public Administration in Italy is the limited share of workers with a STEM degree, particularly in AI and in the digital technologies required to properly handle the huge and increasing amount of PA data.
 
 Objective To increase the effectiveness of the Italian Public Administration and increase the share of PA workers knowledgeable of the opportunities and risks associated with AI.
@@ -817,7 +816,7 @@ According to the Worldwide Governance Indicators of the World Bank, the effectiv
 Research programme initiatives are divided into two classes:
 
 B. Building the Italian AI research ecosystem: fundamental and applied research. C. Horizontal aspects."
-"3","","B. Building the Italian AI research ecosystem: fundamental and applied research","","","These initiatives have been designed to connect existing excellence and territorial activities in a single national coordi-nation plan. They are conceived to achieve both low-TRL (Technology Readiness Level) and close-to-market results."
+"3","B","Building the Italian AI research ecosystem: fundamental and applied research","letter","","These initiatives have been designed to connect existing excellence and territorial activities in a single national coordi-nation plan. They are conceived to achieve both low-TRL (Technology Readiness Level) and close-to-market results."
 "3","","B.1 Building on the Italian AI research ecosystem","","","A structured ecosystem is necessary to define a large critical mass, strengthen synergies among smaller and larger centres and emphasize “vertical” excellence in some foundational aspects.
 
 Objective To increase Italian competitiveness for grand AI challenges, in line with similar European and international initiatives by creating a structural connection of existing and new AI research centres in Italy.
@@ -888,8 +887,7 @@ Large projects on priority sectors but with free initiative proposals (similar t
 Possible source of investments
 
 NRRP M4C2 Investment 1.5: Establishing and strengthening of ""innovation ecosystems for sustainabili-ty"", building ""territorial leaders of R&D"". 1,300M€ for up to 12 innovation ecosystems selected on a com-petitive basis (bottom-up approach)."
-"3","","C. Horizontal aspects","","",""
-"3","","C.1 Funding projects for Creative AI for creative Italy","","","Objective To create scientific excellence in research applications in specific sectors, such as creative manufacturing.
+"3","Research: C","Horizontal aspects C.1 Funding projects for Creative AI for creative Italy","letter","","Objective To create scientific excellence in research applications in specific sectors, such as creative manufacturing.
 
 Initiative
 
@@ -932,7 +930,7 @@ To align all AI policies related to data processing, aggregation, sharing and ex
 To that end, this strategy identifies two areas of intervention that we deem to be of highest impact as well as most strategic.
 
 D. AI for more modern enterprises. E. AI for a more modern public administration."
-"3","","D. AI for more modern enterprises","","","The impact of AI on businesses will be of enormous relevance and should concern all enterprises. In fact, AI implies a real revolution in their modus operandi, from internal processes and customer relations to the development of new AI-based products and services. In turn, AI implies that Italian corporates would need to transform their workforce as well as processes, hiring new talent, upskilling the existing workforce and making sure such transition is carried out with the most effective and responsible use of AI solutions.
+"3","Applications: D","AI for more modern enterprises","letter","","The impact of AI on businesses will be of enormous relevance and should concern all enterprises. In fact, AI implies a real revolution in their modus operandi, from internal processes and customer relations to the development of new AI-based products and services. In turn, AI implies that Italian corporates would need to transform their workforce as well as processes, hiring new talent, upskilling the existing workforce and making sure such transition is carried out with the most effective and responsible use of AI solutions.
 
 Overall, the proposed initiatives aim at:
 
@@ -985,8 +983,7 @@ It is recommended to begin the implementation (Y1-Y2) through a couple of priori
 44 These assets should include for instance (the list is just explicative and not exhaustive). For tangible assets: computing hardware such as HPC based on GPU or CPU units, GPU computers, data storage and management, etc. Devices equipped with on board/edge computing facilities and/or digital sensors, with various degrees of autonomy such as: drones, robot arms, wearable devices, etc. For non tangible assets: AI software licenses, subscription to editorial resources and participation to high-ranked, international AI academic conferences and events.
 
 For instance the 2nd level Specializing Master’s programme in ""Artificial Intelligence & Cloud: Hands-on innovation"" offered by Politecnico di Torino or the initiative “Advanced School in AI” funded by Regione Emilia Romagna with the contribution of all regional universities."
-"3","","D.2 Supporting the growth of innovative spin-off and start-ups","","",""
-"3","","Objective","","","To increase the number of AI start-ups by 30% with respect to 2021; to improve the average revenues of AI start-ups by 50% in the domestic market and 30% in export; to improve the number of scale-ups; to detect and support scale-ups and unicorns.
+"3","","D.2 Supporting the growth of innovative spin-off and start-ups — Objective","","","To increase the number of AI start-ups by 30% with respect to 2021; to improve the average revenues of AI start-ups by 50% in the domestic market and 30% in export; to improve the number of scale-ups; to detect and support scale-ups and unicorns.
 
 Initiative
 

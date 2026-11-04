@@ -21,7 +21,7 @@
     "section_name": "Contents",
     "id_kind": "",
     "parent_id": "",
-    "body": "MESSAGE FROM THE MINISTER\b 4\n\nTHE GOVERNMENT’S VISION: AI FOR ALL\b 6\n\nTHE STATE OF AI IN CANADA\b 8\n\nKEY PILLARS OF THE STRATEGY\b 12\n\nPRIORITY SECTORS\b 13\n\nPILLAR 1: PROTECTING CANADIANS AND SAFEGUARDING OUR DEMOCRACY\b 14\n\nPILLAR 2: EMPOWERING CANADIANS \b 17\n\nPILLAR 3: POWERING SHARED PROSPERITY\b 25\n\nPILLAR 4: BUILDING THE CANADIAN SOVEREIGN AI FOUNDATION\b 31\n\nPILLAR 5: SCALING CANADIAN AI CHAMPIONS \b 39\n\nPILLAR 6: BUILDING TRUSTED PARTNERSHIPS AND GLOBAL ALLIANCES \b 45\n\nCONCLUSION\b 50"
+    "body": "MESSAGE FROM THE MINISTER  4\n\nTHE GOVERNMENT’S VISION: AI FOR ALL  6\n\nTHE STATE OF AI IN CANADA  8\n\nKEY PILLARS OF THE STRATEGY  12\n\nPRIORITY SECTORS  13\n\nPILLAR 1: PROTECTING CANADIANS AND SAFEGUARDING OUR DEMOCRACY  14\n\nPILLAR 2: EMPOWERING CANADIANS   17\n\nPILLAR 3: POWERING SHARED PROSPERITY  25\n\nPILLAR 4: BUILDING THE CANADIAN SOVEREIGN AI FOUNDATION  31\n\nPILLAR 5: SCALING CANADIAN AI CHAMPIONS   39\n\nPILLAR 6: BUILDING TRUSTED PARTNERSHIPS AND GLOBAL ALLIANCES   45\n\nCONCLUSION  50"
   },
   {
     "depth": 2,
@@ -29,23 +29,7 @@
     "section_name": "Message from the Minister",
     "id_kind": "",
     "parent_id": "",
-    "body": "An innovative Canada is a stronger Canada. And AI is the major driver of innovation in Canada and around the world. But to understand the potential of Canadian AI, you have to see how it is already working to improve the lives of people.\n\nHow a Canadian pediatric cardiologist in Halifax named Dr. Robert Chen is using the AI application he built to diagnose heart murmurs in newborns. His technology could cut down wait times by many months for anxious parents to see a specialist, saving our health care system tens of millions of dollars.\n\nYou have to see how a Canadian AI company called Croptimistic is helping farmers precisely map their soil. This technology allows them to use less fertilizer, while increasing crop yield, making our food system more resilient and more affordable.\n\nYou have to see how Canadian AI is helping businesses in advanced manufacturing, auto parts, and mining stay competitive even through global trade disruptions.\n\nThese aren’t isolated stories. Over 150,000 Canadian innovators employed by more than 3,500 Canadian companies are developing AI solutions that will build a stronger, more resilient economy, solve problems, serve people, and create good, high paying jobs.\n\nCanada’s new AI strategy will build on this momentum to develop a responsible, safe, and sovereign AI industry and research community — one that ensures AI will serve all Canadians, not the other way around.\n\nCanada must be open to the enormous opportunities in AI, but we must also be candid about the real concerns. AI raises hard questions about job security, privacy, sus-tainability, sovereignty, and trust. Responding to these concerns and building responsible Canadian AI will not be easy, but it must be done. We will face these challenges head on.\n\nThis is exactly the pragmatic and prudent approach Canadians told us they wanted. Through our national consultation, we received more than 11,000 submissions from workers, entrepreneurs, researchers, students, and community leaders across the country. We also received insights from our 28-member expert AI Strategy Task Force. We heard from First Nations, Métis and Inuit leaders, arts and culture organizations, labour and environmental groups, and many others concerned about economic growth, AI safety, and the welfare of children. This strategy reflects their voices, their concerns, and their ambitions for our country.\n\nWe will strengthen Canadian sovereignty at a time when it is being deeply challenged. We will build a robust, advanced economy for all, where our workers and SMEs are adopting AI at a wide scale and competing globally. We will build resilience with new alliances among like-minded countries to ensure that Canadians have choices in the AI tools they use. And we will build this on a foundation of trust and safety. We will protect our children and our citizens, our culture and languages, and our democracy."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Canadians want safe, reliable, and sovereign AI. They want the best tools to build a",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "prosperous future guided by our values."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "That is our plan. This is Canada’s AI for All",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "moment. Let’s seize it."
+    "body": "An innovative Canada is a stronger Canada. And AI is the major driver of innovation in Canada and around the world. But to understand the potential of Canadian AI, you have to see how it is already working to improve the lives of people.\n\nHow a Canadian pediatric cardiologist in Halifax named Dr. Robert Chen is using the AI application he built to diagnose heart murmurs in newborns. His technology could cut down wait times by many months for anxious parents to see a specialist, saving our health care system tens of millions of dollars.\n\nYou have to see how a Canadian AI company called Croptimistic is helping farmers precisely map their soil. This technology allows them to use less fertilizer, while increasing crop yield, making our food system more resilient and more affordable.\n\nYou have to see how Canadian AI is helping businesses in advanced manufacturing, auto parts, and mining stay competitive even through global trade disruptions.\n\nThese aren’t isolated stories. Over 150,000 Canadian innovators employed by more than 3,500 Canadian companies are developing AI solutions that will build a stronger, more resilient economy, solve problems, serve people, and create good, high paying jobs.\n\nCanada’s new AI strategy will build on this momentum to develop a responsible, safe, and sovereign AI industry and research community — one that ensures AI will serve all Canadians, not the other way around.\n\nCanada must be open to the enormous opportunities in AI, but we must also be candid about the real concerns. AI raises hard questions about job security, privacy, sus-tainability, sovereignty, and trust. Responding to these concerns and building responsible Canadian AI will not be easy, but it must be done. We will face these challenges head on.\n\nThis is exactly the pragmatic and prudent approach Canadians told us they wanted. Through our national consultation, we received more than 11,000 submissions from workers, entrepreneurs, researchers, students, and community leaders across the country. We also received insights from our 28-member expert AI Strategy Task Force. We heard from First Nations, Métis and Inuit leaders, arts and culture organizations, labour and environmental groups, and many others concerned about economic growth, AI safety, and the welfare of children. This strategy reflects their voices, their concerns, and their ambitions for our country.\n\nWe will strengthen Canadian sovereignty at a time when it is being deeply challenged. We will build a robust, advanced economy for all, where our workers and SMEs are adopting AI at a wide scale and competing globally. We will build resilience with new alliances among like-minded countries to ensure that Canadians have choices in the AI tools they use. And we will build this on a foundation of trust and safety. We will protect our children and our citizens, our culture and languages, and our democracy.\n\nCanadians want safe, reliable, and sovereign AI. They want the best tools to build a prosperous future guided by our values.\n\nThat is our plan. This is Canada’s AI for All moment. Let’s seize it."
   },
   {
     "depth": 2,
@@ -61,36 +45,12 @@
     "section_name": "The Government’s Vision: AI for All",
     "id_kind": "",
     "parent_id": "",
-    "body": "Artificial intelligence is quickly becoming part of daily lives — at work, at school, at home, and in the businesses, organizations, and governments that shape our communi-ties. What we are seeing today is only the beginning. The speed and scale of this transformation bring both promise and uncertainty about how AI will affect our jobs, privacy, security, and the institutions we rely on. For Canada to thrive in the era of AI, Canadians need to trust in its prom-ise. Trust that they will share in its benefits and that it will be developed, adopted, and governed in ways that reflect our shared values. Trust is the north star of this strategy. Prosperity and sovereignty in this era belong to nations that can leverage trust to adopt, build, and govern AI on their own terms.\n\nAI must also work for all Canadians, not the other way around. It must be put to work to grow our prosperity, secure our wellbeing, promote our culture and strengthen our communities. We envision a Canada where AI is not a threat, but a critical piece of technology which enhances everyday life for Canadians. Done right, AI can be a pow-erful force – harnessed with innovation and deployed with intention for the betterment of society.\n\nWe must implement this vision with urgency: this moment carries both extraordinary opportunity and pro-found strategic risk for Canada. AI is rapidly becoming a foundational driver of economic growth, productivity, industrial capability, and geopolitical influence. Nations that lead in AI will increasingly shape global markets, technological standards, supply chains, and the broader balance of economic and political power. This transfor-mation is already underway.\n\nThis strategy asserts that adoption will drive AI’s ben-efits for Canadians. For Canadians to benefit from AI, they must first learn to use it. To use it, they need to trust it. And for AI to benefit Canadians, it needs to present them with new opportunities grounded in technological infrastructure over which they have a meaningful degree of sovereign control."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Trust makes adoption possible. Opportunity and sovereignty ensure adoption creates benefits for Canadians now and in the future. To realize this vision, this strategy sets out six pillars:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Artificial intelligence is quickly becoming part of daily lives — at work, at school, at home, and in the businesses, organizations, and governments that shape our communi-ties. What we are seeing today is only the beginning. The speed and scale of this transformation bring both promise and uncertainty about how AI will affect our jobs, privacy, security, and the institutions we rely on. For Canada to thrive in the era of AI, Canadians need to trust in its prom-ise. Trust that they will share in its benefits and that it will be developed, adopted, and governed in ways that reflect our shared values. Trust is the north star of this strategy. Prosperity and sovereignty in this era belong to nations that can leverage trust to adopt, build, and govern AI on their own terms.\n\nAI must also work for all Canadians, not the other way around. It must be put to work to grow our prosperity, secure our wellbeing, promote our culture and strengthen our communities. We envision a Canada where AI is not a threat, but a critical piece of technology which enhances everyday life for Canadians. Done right, AI can be a pow-erful force – harnessed with innovation and deployed with intention for the betterment of society.\n\nWe must implement this vision with urgency: this moment carries both extraordinary opportunity and pro-found strategic risk for Canada. AI is rapidly becoming a foundational driver of economic growth, productivity, industrial capability, and geopolitical influence. Nations that lead in AI will increasingly shape global markets, technological standards, supply chains, and the broader balance of economic and political power. This transfor-mation is already underway.\n\nThis strategy asserts that adoption will drive AI’s ben-efits for Canadians. For Canadians to benefit from AI, they must first learn to use it. To use it, they need to trust it. And for AI to benefit Canadians, it needs to present them with new opportunities grounded in technological infrastructure over which they have a meaningful degree of sovereign control.\n\nTrust makes adoption possible. Opportunity and sovereignty ensure adoption creates benefits for Canadians now and in the future. To realize this vision, this strategy sets out six pillars:"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "To provide opportunity, we will:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "To foster trust, we will:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "To safeguard sovereignty, we will:",
+    "section_name": "To provide opportunity, we will: — To foster trust, we will: — To safeguard sovereignty, we will:",
     "id_kind": "",
     "parent_id": "",
     "body": "• power shared prosperity through Canadian institutions and companies, channeling adoption into the quality work, economic activity, and public services that benefit Canadians broadly; and\n\n• protect Canadians from the risks and harms of AI, creating rules and safeguards that build and maintain trust; and\n\n• strengthen multinational partnerships with trusted allies, shaping an international AI community and global standards that reflect values of mutual respect and cooperation.\n\n• support globally competitive Canadian champions, giving Canadian AI companies the resources and reach they need to project Canadian strength outward; and\n\n• build sovereign Canadian AI foundations in compute, data, talent, and infrastructure, ensur-ing Canadians can trust that the systems they adopt are built and governed on Canadian terms.\n\n• empower Canadians to par-ticipate in and benefit from AI, building the understanding and access that enables Canadians to shape how we use AI in Canada and pursue the opportunities AI adoption creates.\n\nNotably, while these pillars form an enduring foundation for Canada’s approach to AI, our implementation of them must adapt as the world changes. Technological, social, and geopolitical forces are driving change in unexpected ways and at staggering speeds. As a result, a commitment to dynamism is part of this strategy.\n\nTogether, these pillars, combined with a commitment to clear-eyed agility, form a coordinated national strategy for Canadian prosperity, resilience, and sovereignty in the AI era.\n\nPillar 1 Protecting Canadians\n\nPillar 2 Empowering\n\nand Safeguarding\n\nCanadians\n\nDemocracy\n\nO\n\nP\n\nP\n\nT\n\nO\n\nP\n\nP\n\nT\n\nT\n\nO\n\nO\n\nS\n\nI\n\nI\n\nO\n\nO\n\nD\n\nD\n\nR\n\nN\n\nN\n\nA\n\nA\n\nU\n\nT\n\nR\n\nU\n\nT\n\nN\n\nI\n\nAI for All\n\nT\n\nN\n\nA\n\nPillar 6 Building Trusted Partnerships and Global\n\nPillar 3 Powering Shared\n\nY\n\nD\n\nO\n\nO\n\nI\n\nT\n\nP\n\nP\n\nT\n\nProsperity\n\nO\n\nI\n\nO\n\nD\n\nAlliances\n\nN\n\nA\n\nS\n\nY\n\nO\n\nT\n\nN\n\nV\n\nG\n\nE\n\nR\n\nI\n\nE\n\nPillar 4 Building the Canadian Sovereign\n\nPillar 5 Scaling Canadian\n\nChampions\n\nAI Foundation"
@@ -101,15 +61,7 @@
     "section_name": "The State of AI in Canada An Important Contributor to Canada’s Economy",
     "id_kind": "",
     "parent_id": "",
-    "body": "The Canadian AI ecosystem has demonstrated strengths in AI research, but it is also a significant contributor to Canada’s economic performance. Canada’s strong digital sector employs approximately 800,000 workers and contributes over $140 billion to GDP, with 150,000 jobs directly associated with AI.\n\nOver 3,500 Canadian firms are actively developing advanced AI models, tools, and applications, collectively raising more than CAD$37 billion in venture capital funding. Continued growth is expected to further expand this contribution. AI is also a key element of productivity growth across the broader economy, particularly small and medium-sized enterprises (SMEs) and government services. There are significant benefits of broader AI adoption and commercialization, which are forecasted to generate a 0.3 percent to 1.1 percent annual labour productivity increase even before the Strategy’s impacts. Some estimates for generative AI alone add $187 billion annually to the Canadian economy by 2030 and create hundreds of new Canadian firms."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "In addition to economic vitality, Canada’s AI ecosystem reflects a high degree of maturity and integration across the full technological value chain. The key elements of the AI ecosystem include:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "The Canadian AI ecosystem has demonstrated strengths in AI research, but it is also a significant contributor to Canada’s economic performance. Canada’s strong digital sector employs approximately 800,000 workers and contributes over $140 billion to GDP, with 150,000 jobs directly associated with AI.\n\nOver 3,500 Canadian firms are actively developing advanced AI models, tools, and applications, collectively raising more than CAD$37 billion in venture capital funding. Continued growth is expected to further expand this contribution. AI is also a key element of productivity growth across the broader economy, particularly small and medium-sized enterprises (SMEs) and government services. There are significant benefits of broader AI adoption and commercialization, which are forecasted to generate a 0.3 percent to 1.1 percent annual labour productivity increase even before the Strategy’s impacts. Some estimates for generative AI alone add $187 billion annually to the Canadian economy by 2030 and create hundreds of new Canadian firms.\n\nIn addition to economic vitality, Canada’s AI ecosystem reflects a high degree of maturity and integration across the full technological value chain. The key elements of the AI ecosystem include:"
   },
   {
     "depth": 2,
@@ -157,15 +109,7 @@
     "section_name": "Research and development:",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "World-class research institutes advancing new AI meth-ods and safety approaches, including CIFAR, the three National AI Institutes (Amii, Mila, and Vector), and the Global Innovation Clusters that translate Canadian research into AI-enabled technologies for core sectors. Canada’s research leadership is globally competitive, but requires further effort to drive commercialization."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "The Government will leverage this whole value chain to accelerate its transformation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and improve services to citizens."
+    "body": "World-class research institutes advancing new AI meth-ods and safety approaches, including CIFAR, the three National AI Institutes (Amii, Mila, and Vector), and the Global Innovation Clusters that translate Canadian research into AI-enabled technologies for core sectors. Canada’s research leadership is globally competitive, but requires further effort to drive commercialization.\n\nThe Government will leverage this whole value chain to accelerate its transformation and improve services to citizens."
   },
   {
     "depth": 2,
@@ -186,23 +130,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Key Pillars of the Strategy",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 1:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Protecting Canadians and Safeguarding our Democracy",
+    "section_name": "Key Pillars of the Strategy — Pillar 1: — Protecting Canadians and Safeguarding our Democracy",
     "id_kind": "",
     "parent_id": "",
     "body": "AI will only deliver on its promise if Canadians trust it. That requires modern privacy and online safety laws, strong national AI safety capabilities, and secure government systems. Pillar 2:"
@@ -225,22 +153,14 @@
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Pillar 4:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
+    "section_id": "Pillar 4",
     "section_name": "Building the Canadian Sovereign AI Foundation",
-    "id_kind": "",
+    "id_kind": "pillar",
     "parent_id": "",
     "body": "AI for All will support the building of sovereign compute infrastructure at scale — resilient, sustainable, and under Canadian governance, and grow Canada’s exceptional AI researchers and talent pool. Pillar 5:"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Scaling Canadian Champions",
     "id_kind": "",
@@ -248,7 +168,7 @@
     "body": "To scale great AI companies in Canada, AI for All will unlock growth capital and leverage government as a strategic anchor customer. Pillar 6:"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Building Trusted Partnerships and Global Alliances",
     "id_kind": "",
@@ -256,7 +176,7 @@
     "body": "Canada will work with a variety of trusted partners to align standards, co-invest in innovation, and help Canadian companies access global markets — while shaping an AI ecosystem anchored in democratic values."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Priority Sectors",
     "id_kind": "",
@@ -309,18 +229,10 @@
     "section_name": "Protecting Canadians and Safeguarding our Democracy",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "Canada’s ability to harness AI begins with safety – the most fundamental form of trust and a key component of creating healthy adoption opportunities. Citizens, workers, and institutions will not adopt technologies they consider dangerous or harmful to themselves, their families, and their communities. Trust is not a brake on innovation; it is the foundation that makes broad, confident adoption possible. A Canada that protects its people, its democracy, and its sovereign capabilities is a Canada that can move faster, not slower, in the AI era.\n\nThe risks of AI are real. Adoption means that AI systems will make consequential decisions about Canadians’ lives in hiring, lending, healthcare, and public services. Already, deepfakes, synthetic media, and AI-generated disinforma-tion are reshaping the information environment in which people live and in which democratic debate takes place. This has direct implications for elections, public discourse, and trust in institutions.\n\nFurthermore, the data that fuels AI, including the most sensitive personal, health, and financial information about Canadians, is more valuable, more exposed, and more contested than ever. As a result, AI protections extend beyond AI itself to the digital systems on which government services, critical infrastructure, and national security depend."
+    "body": "Canada’s ability to harness AI begins with safety – the most fundamental form of trust and a key component of creating healthy adoption opportunities. Citizens, workers, and institutions will not adopt technologies they consider dangerous or harmful to themselves, their families, and their communities. Trust is not a brake on innovation; it is the foundation that makes broad, confident adoption possible. A Canada that protects its people, its democracy, and its sovereign capabilities is a Canada that can move faster, not slower, in the AI era.\n\nThe risks of AI are real. Adoption means that AI systems will make consequential decisions about Canadians’ lives in hiring, lending, healthcare, and public services. Already, deepfakes, synthetic media, and AI-generated disinforma-tion are reshaping the information environment in which people live and in which democratic debate takes place. This has direct implications for elections, public discourse, and trust in institutions.\n\nFurthermore, the data that fuels AI, including the most sensitive personal, health, and financial information about Canadians, is more valuable, more exposed, and more contested than ever. As a result, AI protections extend beyond AI itself to the digital systems on which government services, critical infrastructure, and national security depend.\n\nMeeting these challenges requires more than caution. It requires that Canada actively safeguard the rights of citizens, strengthen institutions charged with our safety, and establish key sovereign capabilities that allow citizens and government alike to engage with AI on trusted terms. Canada will ground its AI future in responsible governance, a country where technological progress and human dignity advance together, and where the trust between citizens and their government is strengthened by AI,\n\nnot strained by it."
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Meeting these challenges requires more than caution. It requires that Canada actively safeguard the rights of citizens, strengthen institutions charged with our safety, and establish key sovereign capabilities that allow citizens and government alike to engage with AI on trusted terms. Canada will ground its AI future in responsible governance, a country where technological progress and human dignity advance together, and where the trust between citizens and their government is strengthened by AI,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "not strained by it."
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Strengthen Canadian Democracy, Safety, and Privacy in the AI Era",
     "id_kind": "",
@@ -328,7 +240,7 @@
     "body": "Building trustworthy and reliable AI needs a safety-first approach grounded in law. Many Canadians are concerned about how AI may affect their privacy, fairness, and safety. Deepfakes are already used as a form of sexual violence, particularly against women and children, and can amplify misinformation during electoral cycles, creating real risks to democratic integrity. Biases built into algo-rithms can also cause harm to vulnerable communities.\n\nCanada will update the laws and standards that protect Canadians’ fundamental privacy rights, safeguard chil-dren’s online activities and protect vulnerable groups from online violence and algorithmic biases. This will include providing Canadians with the legal tools to combat deep-fakes, ensure that interactions with chatbots are safe, and hold those responsible for online harms accountable. Canada will also strengthen its privacy laws to ensure that Canadians’ personal information is not used inappropri-ately, including for surveillance pricing."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -336,7 +248,7 @@
     "body": "Canada will modernize consumer privacy legislation to enshrine a fundamental right to privacy, safeguard children’s information from exploitation and harm, and strengthen people’s control over their personal data.\n\nCanada will introduce online safety laws to protect Canadians in the digital age, ensuring citizens, children, and customers are safeguarded.\n\nCanada will protect elections and democratic institutions from AI‑enabled misinformation and foreign interference.\n\nFor the Government’s own use of personal information, the Government will continue its review of the Privacy Act to meet the needs of Canadians in the digital age. This will include considerations around transparency, privacy, and alignment with international standards."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Ensure Canadian AI Infrastructure is Safe and Trustworthy",
     "id_kind": "",
@@ -349,58 +261,18 @@
     "section_name": "Empowering Canadians",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "A nation prospers in the AI era only if its people feel equipped and empowered to use it. Benefits flow from adoption: better work, stronger services, new ideas, broader prosperity and greater wellbeing. However, they do not flow automatically from the technology itself; they flow through the citizens who understand it, use it, and shape it. AI for All is not a slogan about access to tools. It is a commitment that every Canadian, in every region and at every stage of life can engage with AI from a position of strength.\n\nThat commitment rests on three dimensions of empow-erment. The first is literacy: the understanding that lets Canadians recognize AI, judge its outputs, and decide for themselves where it belongs in their lives. Canada has a substantial gap in AI training and literacy, and closing it – from classrooms to workplaces to seniors’ centres – is the foundation on which everything else depends.\n\nThe second is opportunity: the conviction that AI should expand Canadians’ personal and working lives rather than diminish them. As roles evolve, governments, employers, educators, and unions must work together to expand learning, support mid-career transitions, and open path-ways into the jobs AI is creating. AI adoption should mean better work and more good jobs, not fewer options.\n\nThe third is participation: the principle that Canadians should actively shape how AI is used in their lives, their workplaces, and their communities. That means individu-als deciding when and how AI belongs in their daily lives. It means workers and professionals helping shape how AI is adopted in their workplaces. It means Canadians of every background, regardless of region, ethnicity, or first language having a meaningful voice in the public debates that will define AI’s role in Canadian society."
+    "body": "A nation prospers in the AI era only if its people feel equipped and empowered to use it. Benefits flow from adoption: better work, stronger services, new ideas, broader prosperity and greater wellbeing. However, they do not flow automatically from the technology itself; they flow through the citizens who understand it, use it, and shape it. AI for All is not a slogan about access to tools. It is a commitment that every Canadian, in every region and at every stage of life can engage with AI from a position of strength.\n\nThat commitment rests on three dimensions of empow-erment. The first is literacy: the understanding that lets Canadians recognize AI, judge its outputs, and decide for themselves where it belongs in their lives. Canada has a substantial gap in AI training and literacy, and closing it – from classrooms to workplaces to seniors’ centres – is the foundation on which everything else depends.\n\nThe second is opportunity: the conviction that AI should expand Canadians’ personal and working lives rather than diminish them. As roles evolve, governments, employers, educators, and unions must work together to expand learning, support mid-career transitions, and open path-ways into the jobs AI is creating. AI adoption should mean better work and more good jobs, not fewer options.\n\nThe third is participation: the principle that Canadians should actively shape how AI is used in their lives, their workplaces, and their communities. That means individu-als deciding when and how AI belongs in their daily lives. It means workers and professionals helping shape how AI is adopted in their workplaces. It means Canadians of every background, regardless of region, ethnicity, or first language having a meaningful voice in the public debates that will define AI’s role in Canadian society.\n\nUltimately, empowered citizens – whether students, artists, community leaders, workers, or parents – know what responsible adoption looks like and are ready to participate.\n\nTheir energy and vision make Canadian prosperity possible. Canada will build the literacy that lets Canadians engage with AI from a position of strength, create the opportunities that let them benefit from it,\n\nand open the pathways that let them shape it."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
-    "section_name": "Ultimately, empowered citizens – whether students, artists, community leaders, workers, or parents – know what responsible adoption",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "looks like and are ready to participate."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Their energy and vision make Canadian prosperity possible. Canada will build the literacy that lets Canadians engage with AI from a position of strength, create the opportunities that let them benefit from it,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and open the pathways that let them shape it."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Progression of AI Literacy and Positive Impacts on Canada",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "RELATIONSHIP",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "BARRIER SOLUTION IMPACT",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "TO AI",
+    "section_name": "Progression of AI Literacy and Positive Impacts on Canada — RELATIONSHIP — BARRIER SOLUTION IMPACT — TO AI",
     "id_kind": "",
     "parent_id": "",
     "body": "Low AI literacy; uneven access across\n\nUNDERSTANDING AI\n\nthe country\n\nWorkers face reskilling\n\nUSING AI\n\npressure; entry-level\n\nroles shrinking\n\nIntense global competition\n\nBUILDING AI\n\nfor technical talent\n\nFree AI literacy programs;\n\nCanadians who can engage with AI confidently\n\nlibraries and civic groups\n\nand safely\n\nas partners\n\nJob placements, mid-career\n\nCompetitive SMEs and\n\nreskilling, college and polytechnic pathways\n\nthriving workers in\n\nAI-enabled jobs\n\nWorld-class chairs, global talent attraction, re-\n\nCanadian AI breakthroughs\n\nand competitive firms\n\nsearch fellowships"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "EACH RELATIONSHIP CANADIANS HAVE WITH AI",
     "id_kind": "",
@@ -408,7 +280,7 @@
     "body": "PRODUCES SOMETHING THE COUNTRY NEEDS."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Foundational Literacy to Build an AI-Skills Nation",
     "id_kind": "",
@@ -416,7 +288,7 @@
     "body": "To realize AI’s potential, Canadians need to understand what AI is, how it works, where it can help, and where its risks and limitations lie. Foundational AI literacy is essen-tial to safe and confident use, whether at school, at work, at home, or in the community.\n\nCanada is working with provinces and territories, employ-ers, unions, educators, Indigenous partners, and com-munity organizations to expand access to practical AI learning — spanning schools, post-secondary institutions, adult learning, workforce training, and public awareness initiatives. The aim of these literacy efforts is three-fold: helping Canadians understand AI, use AI, and build AI. Crucially, this means that Canadians need experience with AI tools, which is something Canada will prioritize for post-secondary students who are preparing to join the workforce.\n\nThe ultimate goal is to ensure Canadians are not passive users of AI, but informed participants in an AI-enabled society. That means providing Canadians with a range of practical skills including identifying bias, misinformation, privacy risks, and unsafe uses. It also means giving them the confidence to use AI tools to learn, solve problems, start businesses, improve services, participate in the econ-omy, and improve quality of work.\n\nCanada will create a National AI Literacy Initiative that will offer entry-level AI training accessible to all Canadians.\n\nAI literacy content will reach 1 million entry level post-secondary students and train more than 3,000 educators with AI learning kits in their classrooms. Free, accessible AI learning will include practical courses and sector-relevant modules.\n\nCanada will ensure all post-secondary students have access to trusted AI agents, putting capable, personal AI tools in the hands of the next generation of Canadian workers, researchers, and innovators.\n\nThrough the National AI Literacy initiative, Canada will empower public libraries and community organizations — long trusted as hubs for learning — as natural partners to bring AI literacy initiatives into every community, especially those in rural, remote, and northern regions.\n\nCanada is investing $50 million over five years through Budget 2025 to modernize the Job Bank with AI-pow-ered job matching that automatically aligns people with opportunities matching their skills profiles and has launched a national online training platform connecting adults to free and low-cost short-duration courses, including sector-specific AI literacy skills.\n\nCanada will invest $30 million in CanCode to fund not-for-profit organizations to deliver free digital skills training — including coding, AI, and emerging technologies — to youth from kindergarten to grade 12 and their educators, with emphasis on reaching underrepresented groups."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "BUILDING THE AI GENERATION: From Classrooms to Careers",
     "id_kind": "",
@@ -424,7 +296,7 @@
     "body": "Canada’s AI advantage will only hold if the next generation knows how to use it, build with it, and think critically about it. That means investing across the full continuum of AI learning: foundational literacy in classrooms, deeper tech-nical and applied skills in post-secondary programs, and upskilling through workforce development initiatives.\n\nStrengthening workers’ ability to understand and use AI was of particular importance for Kelsey Shay Regnier, Chair of Early Childhood Education at RRC Polytech in Winnipeg, who partnered in October 2025 with Amii to create an AI competency curriculum for early childhood educators.\n\nThis is part of the Institute’s work to support general AI literacy, but also specialized programs in key sectors and verticals. The Alberta Machine Intelligence Institute (Amii) already trains 125,000 students annually in AI knowledge and skills. The AI Strategy will allow this platform to be expanded, leveraging all the AI Institutes to support broad-based and sector-specific literacy.\n\nAmii also equips K-12 teachers with training and resources to help students critically evaluate AI through ethical reasoning. To date, Amii has reached over 1,000 K-12 teachers across more than 400 schools, supporting AI literacy education for over 60,000 students.\n\nAmii is also strengthening Canada’s industrial capacity. Backed by a $9 million federal investment in September 2025, its AI Pathways program will train nearly 5,000 Canadian energy workers with the AI skills needed to thrive in an evolving sector and maintain Canada’s leadership in a transforming global energy market.\n\nTogether, these initiatives create clear learning trajec-tories that help students, graduates and mid-career workers build confidence and become skills‑ready for an increasingly AI‑enabled economy. The strategy can leverage these early efforts at scale such that all students and Canadians have access to AI literacy tools, and that targeted skills approaches reach those workers most likely to be affected."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "AI as an Opportunity: Applied Workforce Skills Driving AI Adoption",
     "id_kind": "",
@@ -432,7 +304,7 @@
     "body": "AI is changing how work gets done. Used well, it can reduce repetitive tasks, improve safety, support better decision-making, and help workers focus on higher-value work. With the right actions -equipping Canadians with the skills to fill emerging roles and supporting employers to put AI to work productively - Canada projects that over 250,000 new AI-relevant jobs will be created across the Canadian economy by 2031.\n\nIn order to achieve this, Canada will support workers at every stage of their careers. Young Canadians need mean-ingful, career-relevant experience with AI so they can enter the workforce with confidence. Mid-career workers need clear pathways to reskill and adapt as roles evolve. Front-line workers, tradespeople, technicians, operators, professionals, and managers need practical training that reflects how AI is being used in real workplaces.\n\nThis work will require close collaboration with employ-ers, unions, colleges, CÉGEPs, polytechnics, universities, Indigenous partners, and training providers. Canada will expand work-integrated learning, sector-specific training, and applied AI supports so businesses and organizations can adopt AI responsibly while workers share in the benefits.\n\nThe goal is not simply to introduce more technology into the workplace. It is to make AI adoption pro-worker, practical, and productivity-enhancing, helping Canadian businesses compete while giving workers the tools, voice, and opportunities they need to thrive in an AI-enabled economy."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -440,7 +312,7 @@
     "body": "Canada will create up to 90,000 AI-related job oppor-tunities, including 45,000 through the Student Work Placement Program and Canada Summer Jobs, 35,000 through other initiatives such as the Skills for Success Program, and 10,000 through the Mitacs ADOPT and AI+X programs.\n\nCanada will assess training and upskill offerings for mid-career workers, including in skilled trades, to scale-up employer-led training nationwide with a strong priority on AI-related skills. This will also include work with colleges, CÉGEPs and polytechnics as applied AI leaders to leverage regional reach, applied research capacity, and SME partnerships to deliver hands-on adoption and improve workforce productivity.\n\nCanada will accelerate AI literacy across female-domi-nated sectors most exposed to early disruption through the existing Women’s Program — unlocking new eco-nomic opportunities, softening transition shocks, and confronting AI-fueled online abuse that disproportion-ately targets women.\n\nCanada will track and assess the societal, labour market, and economic impacts of AI to guide policy and maxi-mize benefits, leveraging Statistics Canada’s Artificial Intelligence and Technology Measurement Program."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Developing Pro-worker, Industrial AI Technologies",
     "id_kind": "",
@@ -448,7 +320,7 @@
     "body": "When AI is built around workers rather than against them, the results are striking. In an OECD survey of manufacturing and finance workers across seven coun-tries — including Canada — 80 percent said AI improved their performance, and AI users were four times more likely to report gains in job satisfaction, physical and mental health, and fair management.\n\nCanada is pursuing a pro-worker approach to industrial AI. This means technology is designed to augment human expertise rather than displace it, helping workers move into higher-value roles while delivering the productivity gains that strengthen Canadian competitiveness. Quebec’s Maya HTT offers an early proof point: over 200 industrial and physical AI deployments increasing production line throughput by an average of 17 percent, with more than 1,000 jobs created and maintained.\n\nBy centering technological adoption on human potential, Canada is positioned to be a global leader in the develop-ment and deployment of human-centric industrial tech-nology. Scaling the proactive integration of pro-worker AI not only addresses structural productivity challenges but also safeguards the long-term prosperity of the Canadian workforce, ensuring a future of shared economic growth and competitive advantage."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Supporting Indigenous Leadership in AI",
     "id_kind": "",
@@ -456,7 +328,7 @@
     "body": "There has been considerable evidence of the dispropor-tionate exposure and impacts of AI harms to equity-seeking groups, including Indigenous Peoples. This is a global phenomenon, but one in which Canada can work with Indigenous communities and nations to build world-leading capacity to address them.\n\nBy supporting Indigenous leaders, researchers, and pol-icymakers from around the world to ensure Indigenous peoples have agency in shaping AI development locally and internationally, Canada can coordinate research, develop shared AI training standards for Indigenous data, support the development of community-level AI capacity and applications such as language models, land manage-ment tools, and cultural heritage systems.\n\nCanada will work with Indigenous communities to ensure AI tools designed and built here protect Indigenous cultural and linguistic expression, support Indigenous self-determination over how AI is built and used in Indige-nous contexts, and build domestic capacity to address the specific harms Indigenous Peoples face. Key Actions\n\nCanada will support and amplify Indigenous-led AI initiatives that reinforce cultural expression and linguis-tic vitality in Canada and around the world, building on existing efforts such as the Indigenous Languages Pro-gram at Canadian Heritage, the Indigenous Languages Technology Program at the National Research Council, and First Languages AI Reality at Mila."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Ensure AI reflects Canadian Identity, Culture, and Inclusion",
     "id_kind": "",
@@ -464,7 +336,7 @@
     "body": "Canadian AI must support, reflect, and project Canadian culture, which includes our customs, our history, and our heritage. Canadian voices, languages, communities, and knowledge must also be represented in how AI systems are designed, built, and used.\n\nGiven our diverse and multicultural society, our approach to AI must acknowledge and support this rich diversity, including strengthening the French language by capturing and projecting its idioms, expressions, and cultural contexts.\n\nCanada is already moving on this ground. In 2025, Canada published the world’s first standard on accessible and equitable AI to help ensure barriers in AI are recog-nized and addressed before they impact users. By aligning research with Canadian values and economic needs, we ensure AI innovation serves the public interest and delivers lasting cultural benefit.\n\nThere has likewise been considerable evidence of the disproportionate exposure and impacts of AI harms to equity-seeking groups. Canada will ensure that AI devel-opment addresses the systemic barriers experienced by racialized communities, persons living with disabilities, and others who too often fall on the wrong side of the digital divide."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -477,26 +349,10 @@
     "section_name": "Powering Shared Prosperity",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "Shared prosperity means an economy that works for the many, not the few. It means productivity gains that flow into paychecks, not just profits. It means every region of the country and every Canadian community is experi-encing the benefits of AI. This requires businesses and organizations of all sizes to confidently put AI to produc-tive use. The opportunity is enormous, but the adoption gap is real.\n\nMicro, small and medium-sized enterprises represent 99 percent of Canadian businesses and employ 14.3 million workers. Yet only one in eight Canadian businesses has formally integrated AI into its operations, even as nearly half of SME owners have experimented with generative AI tools. This gap between experimentation and deployment is where Canada’s adoption challenge lives. According to Statistics Canada, 78 percent of non-adopting firms report that they don’t see how AI benefits the goods or services they provide. That is not resistance; it is a translation problem. Canadian businesses are waiting for practical, sector-specific applications that solve their real problems, with proven value and an adoption path smooth enough to justify the leap. One powerful response to a transla-tion problem is a shared challenge: concrete, ambitious national missions in areas like health, energy, productivity, and public services that rally researchers, industry, gov-ernments, and communities around solving real problems together — turning Canada’s hardest challenges into the engine of its AI adoption."
+    "body": "Shared prosperity means an economy that works for the many, not the few. It means productivity gains that flow into paychecks, not just profits. It means every region of the country and every Canadian community is experi-encing the benefits of AI. This requires businesses and organizations of all sizes to confidently put AI to produc-tive use. The opportunity is enormous, but the adoption gap is real.\n\nMicro, small and medium-sized enterprises represent 99 percent of Canadian businesses and employ 14.3 million workers. Yet only one in eight Canadian businesses has formally integrated AI into its operations, even as nearly half of SME owners have experimented with generative AI tools. This gap between experimentation and deployment is where Canada’s adoption challenge lives. According to Statistics Canada, 78 percent of non-adopting firms report that they don’t see how AI benefits the goods or services they provide. That is not resistance; it is a translation problem. Canadian businesses are waiting for practical, sector-specific applications that solve their real problems, with proven value and an adoption path smooth enough to justify the leap. One powerful response to a transla-tion problem is a shared challenge: concrete, ambitious national missions in areas like health, energy, productivity, and public services that rally researchers, industry, gov-ernments, and communities around solving real problems together — turning Canada’s hardest challenges into the engine of its AI adoption.\n\nCanada will pursue these missions alongside direct support for SMEs moving from experimentation to integration, and will use government itself as an anchor adopter of trusted Canadian AI, leading by example\n\nand creating demand for Canadian solutions.\n\nThe ambition is concrete: by 2034, 60 percent of Canadian businesses, particularly SMEs,\n\nwill have adopted AI tools."
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Canada will pursue these missions alongside direct support for SMEs moving from experimentation to integration, and will use government itself as an anchor adopter of trusted Canadian AI, leading by example",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and creating demand for Canadian solutions."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "The ambition is concrete: by 2034, 60 percent of Canadian businesses, particularly SMEs,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "will have adopted AI tools."
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "AI ON THE FARM: Securing the Future of Food",
     "id_kind": "",
@@ -504,7 +360,7 @@
     "body": "Canada remains a global leader in agricultural exports, but the industry is under new pressure. Shifting weather, water stress, and rising input costs are making it harder for producers across the country. A new generation of Canadian AI companies is helping farmers turn data into yield and sustainability.\n\nOn a grain farm outside Yorkton, Saskatchewan, Jonathan Adams no longer treats his fields as a single uniform block. Jonathan farms with his mom, dad, and brother, and for a decade now a data-driven soil map has broken his land into ten zones based on soil, water, and topography — sending more fertilizer to the productive zones and less to the saline patches that used to waste it. “We’ve been trying new things and pushing yields every year,” Jonathan says, “and every year it seems like we hit our goal.” The map was built by Saskatoon-based Croptimistic, whose technology is now used on farms across Canada, the United States, Australia, and South Africa.\n\nHe isn’t alone. In Ontario, apple and cherry growers are using advanced cameras and machine learning from Vivid Machines to forecast orchard yields months before harvest. By 2025, more than 80 percent of Canada’s largest farms and three-quarters of mid-sized operations were already using at least one digital agriculture tool, or planning to adopt one.\n\nAI tools are also used to combat invasive species which cost Canadian agriculture an estimated $2.2 billion annually. Canada’s AI Global Innovation Cluster Scale AI partnered with Vancouver-based company EarthDaily to develop an AI-powered platform to help farmers detect, monitor, and treat invasive threats using satellite imag-ery and precision drone interventions. When deployed at scale, this solution can increase crop yield and quality by up to 50 percent and mitigate long-term ecological and economic damage.\n\nFor a nation that feeds hundreds of millions of people worldwide, scaling these tools is both an economic and food security imperative: lower costs at the grocery store, stronger export competitiveness, and a lighter footprint on the land that feeds us all."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Accelerating AI Adoption Across Canadian SMEs",
     "id_kind": "",
@@ -512,7 +368,7 @@
     "body": "Canadian businesses are essential to turning AI innovation into real economic growth. While many companies see the potential of AI, they often face barriers such as cost, access to expertise, and uncertainty about where to start. This is especially true for small and medium‑sized enterprises who are facing greater productivity and resource challenges.\n\nBusinesses and not-for-profit organizations need to move from experimentation to impact through hands‑on support, practical advice, and sector-specific expertise and roadmaps. Access to financing will help them invest in AI tools, software, and equipment that improve productivity and competitiveness.\n\nCanada will utilize the LIFT program, a $500 million initiative from the Business Development Bank of Canada (BDC) to help Canadian SMEs access financing to incorporate AI tools in their operations.\n\nCanada will invest $500 million to expand and enhance the Regional Artificial Intelligence Initiative delivered through Regional Development Agencies to accelerate adoption and commercialization of AI across the country.\n\nCanada will support the development of an AI Literacy and Adoption Assessment tool and other online resources that help SMEs and entrepreneurs assess their AI read-iness, identify practical use cases, understand potential business impacts in a low-risk environment, and connect with critical programs and development agencies.\n\nCanada will provide targeted support to strengthen AI adoption among Canadian entrepreneurs through the Small Business and Entrepreneurship Development Program.\n\nCanada will leverage the SR&ED tax credit and the Productivity Super-Deduction announced in Budget 2025 to catalyze private sector investment and make innovation more affordable."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "AI IN THE EMERGENCY ROOM: Predicting Patient Deterioration Before It Happens",
     "id_kind": "",
@@ -520,7 +376,7 @@
     "body": "Every year in Canada, thousands of hospital patients suddenly get a lot sicker when nobody expected it — and sometimes that leads to serious harm or even death, even though it could have been caught earlier.\n\nAt St. Michael’s Hospital in Toronto, the CHARTWatch AI system continuously monitors patient data, including blood pressure and heart rate, and warns nurses and doctors hours before a patient’s condition is about to take a dangerous turn.\n\nThis allows the medical team to step in right away, start treatment earlier, or move patients to intensive care before things spiral out of control. A study published in the Canadian Medical Association Journal found that after CHARTWatch was turned on, unexpected deaths on the ward dropped by 26 percent.\n\nThe system demonstrates what outcome-based AI invest-ment can deliver at scale: better results for patients, lower costs for the system, and a made-in-Canada model that can be deployed in hospitals across the country."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Solving National Challenges Through AI Missions",
     "id_kind": "",
@@ -528,7 +384,7 @@
     "body": "Canada has every element of a thriving AI ecosystem — world-class research, leading Canadian AI companies, deep sectoral expertise, and rich data assets across health, energy, agriculture, and beyond. These pieces don’t yet move together as smoothly as they could. Too often, the path from AI breakthrough to real-world deployment stalls, not because the technology isn’t ready, but because no single force connects innovators, industries, and institutions around the problems that matter most.\n\nA mission-driven approach closes that gap. By setting clear, measurable targets and aligning capital, talent, and partnerships behind them, missions make AI tan-gible — Canadians see it as a tool improving their lives, not an abstraction or threat. They build sectoral adoption capability that outlasts any one project. And they knit the ecosystem together, moving researchers, Canadian AI companies, governments, and frontline practitioners in the same direction around a shared goal.\n\nCanada’s first mission will be in healthcare, where the conditions are uniquely strong: a universal public sys-tem generating data at a scale most countries cannot match, world-class clinical and research institutions, and a population whose daily lives are touched by the system’s pressures. AI deployed well can expand access to primary care, reduce ER wait times, prevent avoid-able visits through better upstream care, and lighten the administrative burden on physicians. Subsequent missions will expand to other priority sectors with targets and sequencing refined as implementation develops. Each mission will unite researchers, Canadian AI com-panies, and governments to draw on shared infrastruc-ture, catalyze public and private investment, and create commercialization opportunities for Canadian innovators alongside the public benefits they deliver."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -536,7 +392,7 @@
     "body": "Canada will launch a new AI Missions Program to advance targeted, high-impact projects that deliver significant public good and demonstrate meaningful improvements in Canadians’ lives. The first mission will commit $200 million to improving health outcomes for Canadians. More missions will follow in other priority sectors.\n\nCanada will launch sector-specific Workforce Alliances across six priority sectors to bring together govern-ments, employers, unions, post-secondary institu-tions, and Indigenous partners to identify skills gaps, coordinate talent pipelines, and align public-private investment with workforce transformation needs across essential economic sectors."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Transforming Public Service Delivery with AI",
     "id_kind": "",
@@ -549,18 +405,10 @@
     "section_name": "Building the Canadian Sovereign AI Foundation",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "Canada is where modern AI began. Geoffrey Hinton, Yoshua Bengio, and Richard Sutton did groundbreaking work here, and today, researchers and entrepreneurs across the country are building on that legacy. However, world-class research alone will not secure Canada’s future in AI. Sovereignty in the AI era depends on three founda-tions: the compute, cloud, and connectivity that turn ideas into systems; the data that fuels them; and the talent that creates and governs them.\n\nToday, much of that foundation sits beyond our borders. Canadian researchers train models on foreign cloud platforms. Canadian companies store sensitive data in foreign jurisdictions. Government operations rely on infra-structure Canada does not own. And the country’s best AI talent faces constant recruitment pressure from abroad. The risks are not abstract. Sensitive Canadian data can be subject to decisions, rules, and legal regimes beyond Canada’s direct control. AI products built and governed elsewhere can shape Canadian lives without fully reflect-ing Canadian values, languages, laws, or priorities. More-over, Canadian firms can find themselves competing on infrastructure they do not own, govern, or meaningfully influence. Together, these dependencies are a strategic exposure Canada cannot afford to leave in place.\n\nTo mitigate these dependencies, Canada will adopt a “build-partner-buy” approach to building its AI infrastruc-ture. That means building its key sovereign capabilities domestically whenever possible, while partnering with trusted allies or buying existing market solutions when appropriate."
+    "body": "Canada is where modern AI began. Geoffrey Hinton, Yoshua Bengio, and Richard Sutton did groundbreaking work here, and today, researchers and entrepreneurs across the country are building on that legacy. However, world-class research alone will not secure Canada’s future in AI. Sovereignty in the AI era depends on three founda-tions: the compute, cloud, and connectivity that turn ideas into systems; the data that fuels them; and the talent that creates and governs them.\n\nToday, much of that foundation sits beyond our borders. Canadian researchers train models on foreign cloud platforms. Canadian companies store sensitive data in foreign jurisdictions. Government operations rely on infra-structure Canada does not own. And the country’s best AI talent faces constant recruitment pressure from abroad. The risks are not abstract. Sensitive Canadian data can be subject to decisions, rules, and legal regimes beyond Canada’s direct control. AI products built and governed elsewhere can shape Canadian lives without fully reflect-ing Canadian values, languages, laws, or priorities. More-over, Canadian firms can find themselves competing on infrastructure they do not own, govern, or meaningfully influence. Together, these dependencies are a strategic exposure Canada cannot afford to leave in place.\n\nTo mitigate these dependencies, Canada will adopt a “build-partner-buy” approach to building its AI infrastruc-ture. That means building its key sovereign capabilities domestically whenever possible, while partnering with trusted allies or buying existing market solutions when appropriate.\n\nThe good news is that Canada starts from real strength. Canada is already well equipped to build its AI infrastructure using made-in-Canada solutions. A cold climate dramatically reduces the cost of running data centres at scale. One of the cleanest electricity grids in the world makes Canadian compute among the most sustainable on the planet. And our universities and national AI institutes — Mila, Amii, and the Vector Institute — are recognized globally as leaders in AI training and research. The task is to convert these advantages into infrastructure, data, and talent anchored here — under Canadian control, on Canadian terms,\n\nbuilding Canadian advantage."
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "The good news is that Canada starts from real strength. Canada is already well equipped to build its AI infrastructure using made-in-Canada solutions. A cold climate dramatically reduces the cost of running data centres at scale. One of the cleanest electricity grids in the world makes Canadian compute among the most sustainable on the planet. And our universities and national AI institutes — Mila, Amii, and the Vector Institute — are recognized globally as leaders in AI training and research. The task is to convert these advantages into infrastructure, data, and talent anchored here — under Canadian control, on Canadian terms,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "building Canadian advantage."
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "POWERING AI: Canada’s Sustainable Data Centre Push",
     "id_kind": "",
@@ -568,7 +416,7 @@
     "body": "The intense processing demands placed on these data centres generate significant heat, making cooling systems a necessity. These cooling systems contribute to overall energy consumption and in certain cases, increase water usage. With global data centre electricity consumption expected to more than double by 2030, where and how this infrastructure is built matters enormously.\n\nCanada is uniquely positioned to lead in building this infrastructure responsibly and sustainably. More than 83 percent of the country’s electricity grid comes from renewable and low-emission sources, primarily hydro, nuclear, and wind – enabling our data centres to operate on some of the cleanest power in the world. Data centres that rely on renewable and low-emissions sources reduce their total operating emissions by up to 90 percent.\n\nAs demand for AI compute grows, Canada’s approach will be to link new data centre development with clean energy expansion, robust environmental standards, and tangible benefits for local communities, ensuring that Canada remains at the forefront of sustainable high-performance computing infrastructure.\n\nCanada will double the electricity grid, largely with clean power, hydro, nuclear and renewables, and leverage its cold climate to give itself a built-in cost advantage that competitors are spending billions to replicate artificially while minimizing carbon footprint and water usage."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Sovereign Compute, Cloud, and Connectivity",
     "id_kind": "",
@@ -576,7 +424,7 @@
     "body": "Sovereign AI starts with sovereign infrastructure. Canada needs domestic data centre capacity and cloud services — not only to power research and commerce, but to accelerate homegrown innovation, incentivize collaboration, and create a magnet for talent, intellectual property, and investment using leading-edge technology.\n\nEstimates vary, but analysis suggests Canada will require 5.5 gigawatts (GW) worth of AI compute for its commercial players by 2030. Much of this will be delivered through large-scale operations by hyperscalers serving both the domestic and foreign markets — and Canada will continue to welcome that foreign investment where it delivers clear benefits for Canadians. Even so, growing a sovereign alterna-tive is critical to overcoming Canada’s technological vulnerabilities.\n\nWhile Canada’s current AI data centre and cloud offerings are largely foreign-owned and controlled, recent investments by Canadian players are adding domestic sovereign AI compute capacity, building out the Canadian supply chain, and maturing the market typically occupied by dominant players."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -584,7 +432,7 @@
     "body": "Canada will build a world-leading public supercom-puter, giving Canadian researchers and SMEs access to secure, sovereign, high-performance compute for cutting-edge public and industry-driven innovation.\n\nCanada will leverage government and industrial AI workloads and crowd-in private capital to significantly expand sovereign compute and cloud infrastructure. This will support the construction of large‑scale AI data centres that can scale to at least 100 megawatts (MW), and that are designed to serve a broad spectrum of Canadian clients. These partnerships are being final-ized, and have proposed providing 850MW of compute capacity by 2030, with scaling capacity of up to 2.3GW with corresponding investments in the tens of billions.\n\nCanada will expand diverse high-capacity fibre lines and satellite connectivity, resulting in resilient network infrastructure with sovereign capabilities.\n\nTo complement existing large-scale private sector projects already underway across the country, the Government will continue delivering on more than $2 billion in existing investments in Canadian AI compute capacity, including through the AI Compute Challenge, to support bringing large-scale commercial sovereign compute online.\n\nThe underlying infrastructure must be operated under Canadian control and Canadian law — not dependent on platforms that can be restricted or withdrawn at the discretion of a foreign government. Diverse, high-capacity fibre and satellite connectivity to link these systems from coast to coast to coast is also required to support growing data traffic and so that Canadian infrastructure is resilient and secure against disruption.\n\nCanada will further enhance and secure its chip design and fabrication capabilities, building on the recent announcement to spin off the National Research Council’s Photonics Fabrication Centre.\n\nCanada will invest to build and reinforce secure digital systems used for Government operations, including sovereign cloud, AI, cyber and quantum initiatives."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Unlocking the Power of Data",
     "id_kind": "",
@@ -592,7 +440,7 @@
     "body": "AI is only as powerful as the data it can access. Canada generates enormous volumes of valuable data across health, energy, transportation, agriculture, natural resources, and other critical sectors — much of it held by governments themselves. Federal, provincial, and territorial institutions sit on data assets of exceptional depth and sectoral specificity, built up over decades of public service delivery, research funding, and regulatory oversight. These are precisely the kinds of assets that AI capabilities increasingly depend on. Yet today, this data remains largely siloed and inaccessible to the innovators who could turn it into world-class products and services.\n\nGiven the transformative capacity of AI, data must be treated as a strategic national asset — responsibly stew-arded and mobilized to fuel innovation, productivity, and adoption across the economy. Canada needs secure data platforms, built on common standards and strong privacy protections, to unlock that potential and accelerate entire ecosystems in priority sectors.\n\nThe first focus will be healthcare, where the opportunity is immediate and the need is universal — every Canadian relies on the system, and every Canadian stands to benefit. A universal public system generates clinical and admin-istrative data at scale, and mobilizing it responsibly can reduce wait times, enable personalized medicine, support more equitable access to care, and create commercializa-tion opportunities for Canadian innovators. Other sectors will follow, with sequencing refined as implementation develops and data governance matures."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -600,7 +448,7 @@
     "body": "Canada will invest $100 million to launch the Health Sector Data Space, in partnership with the Canadian Institute for Health Information (CIHI), to link secure, private and standardized datasets to strengthen clinical trials, health services research and performance measurements.\n\nCanada will also invest $100 million to expand VITAL in five additional provinces, supporting its ability to leverage clinical data from hospitals and enable health data innovation that reduces mortality rates and accelerates critical care for Canadians."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "VITAL: Unlocking Canada’s Health Data to Power AI Innovation",
     "id_kind": "",
@@ -608,7 +456,7 @@
     "body": "Canada’s universal healthcare system is one of the richest sources of clinical data in the world. Every hospital encounter generates hundreds of thousands of data points — imaging, medication records, patient vitals, clinical outcomes — that could fuel breakthroughs in how we predict, prevent, and treat disease. But that data has been locked away in institutional silos, inaccessible to the researchers and entrepreneurs who could put it to work for Canadians.\n\nVITAL is building the infrastructure to change that. As a pan-Canadian health data platform designed to connect clinical data from hospitals across multiple provinces, it is enabling AI-driven discovery: supporting research that can generate leads for novel therapies, attracting new clinical trials, and identifying genetic risk factors with greater precision.\n\nThe early results are promising. AI applications are already running across multiple provinces, from predict-ing heart disease to detecting sepsis. And more than 80 Canadian companies are working with health data and AI to improve triaging, remote monitoring, and diagnostics. VITAL gives them a national platform to build on and a model that countries around the world are watching closely."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Anchoring World-Class Research Talent in Canada",
     "id_kind": "",
@@ -616,7 +464,7 @@
     "body": "Canada’s AI leadership was built by people — researchers who chose to work here, students who trained here, and entrepreneurs who turned Canadian ideas into globally recognized companies and institutions. That talent base remains one of Canada’s most important strategic assets.\n\nBut competition is intensifying. Every major economy is courting the same researchers, engineers, and technical experts with faster immigration, higher compensation, advanced compute, and deeper pools of capital. Canada cannot only be a user of AI systems built elsewhere; to shape the future of AI, it needs the people who can build advanced models, evaluate their safety, commercialize new applications, and train the next generation here at home.\n\nCanada will double down on the programs and institu-tions that anchor world-class researchers, while making it faster and easier for global AI talent to come here, work here, and build their careers here. These efforts will complement the Government’s broader $1.7 billion talent attraction strategy announced in Budget 2025."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -624,7 +472,7 @@
     "body": "Canada will strengthen our network of national AI institutes and increase the Canada CIFAR AI Chairs program from 130 to nearly 200 researchers. This means more world-class AI talent working in Canada, more ideas moving from research labs into businesses and public services, and more support to help Canadians understand and use AI.\n\nCanada will expand the Global Talent Stream to accel-erate entry and onboarding of highly-skilled AI workers, and align measures for permanent residency to retain the talent Canada recruits."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "EXPANDING CANADA’S NATIONAL AI INSTITUTES: From Research to Real-World Impact",
     "id_kind": "",
@@ -637,18 +485,10 @@
     "section_name": "Scaling Canadian Champions",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "Canada is home to some of the world’s most talented AI entrepreneurs and founders, anchored by research institutions and talent pipelines that are the envy of much larger economies. From that foundation has emerged a small but globally significant cohort of Canadian AI champions — including one of only a handful of frontier model companies in the world, alongside leading enter-prise integrators and applied AI firms with global reach. The early proof is real: Canadian companies can compete at the highest tier. The question is whether they will do so from Canada, and whether more will follow.\n\nThe uncomfortable reality is that too many promising Canadian companies grow elsewhere. Proximity to the world’s largest technology market has historically been an advantage, but it has also made it easy — and often rational — for Canadian firms to move operations south to capture customers and capital. Canadian research leads the world, but the companies built on it too often scale under other flags."
+    "body": "Canada is home to some of the world’s most talented AI entrepreneurs and founders, anchored by research institutions and talent pipelines that are the envy of much larger economies. From that foundation has emerged a small but globally significant cohort of Canadian AI champions — including one of only a handful of frontier model companies in the world, alongside leading enter-prise integrators and applied AI firms with global reach. The early proof is real: Canadian companies can compete at the highest tier. The question is whether they will do so from Canada, and whether more will follow.\n\nThe uncomfortable reality is that too many promising Canadian companies grow elsewhere. Proximity to the world’s largest technology market has historically been an advantage, but it has also made it easy — and often rational — for Canadian firms to move operations south to capture customers and capital. Canadian research leads the world, but the companies built on it too often scale under other flags.\n\nBuilding Canadian champions means changing the conditions that have pushed them elsewhere. Canada will rebuild the investment flywheel that rewards Canadian risk-taking, give Canadian companies the infrastructure and demand they need to scale at home, and back Canadian ambition at the frontier of AI itself. When champions grow here and compete globally from here, Canada gains more than an industry — it gains the agency to shape how AI is built, the leverage to protect Canadian interests, and the prosperity that comes from owning\n\nwhat it invents."
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Building Canadian champions means changing the conditions that have pushed them elsewhere. Canada will rebuild the investment flywheel that rewards Canadian risk-taking, give Canadian companies the infrastructure and demand they need to scale at home, and back Canadian ambition at the frontier of AI itself. When champions grow here and compete globally from here, Canada gains more than an industry — it gains the agency to shape how AI is built, the leverage to protect Canadian interests, and the prosperity that comes from owning",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "what it invents."
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Creating an Investment Flywheel that Rewards Responsible Risk-Taking",
     "id_kind": "",
@@ -656,7 +496,7 @@
     "body": "A healthy angel investor and venture capital community is critical to ensure that startups have access to capital and opportunities to grow locally. Canada now ranks 5th globally in AI venture capital with $3.1B invested in 2025, and according to BDC, over half of all VC investments in Canada (57%) went towards the information and communication technology (ICT) sector last year.\n\nNevertheless, due to global trade uncertainty, those investments are concentrated in a limited number of deals. Challenges in the current investment and fundrais-ing environment could lead to increased funding gaps at all investment stages and additional pressures for companies to relocate. Sufficient investment capital is the key to retaining critical talent and intellectual property, and to re-attract top Canadian entrepreneurs from Silicon Valley.\n\nTo ensure that Canada retains its most successful entre-preneurs, companies and valuable intellectual property and propel global growth anchored in Canada, it must build the most competitive investment landscape in the world, protect upside for early-stage investors, and help Canadian startups compete on a level playing field to attract global venture capital.\n\nCanada must also ensure that its leading technology companies are market-shaping rather than market-follow-ing. Canada must adopt policies similar to those of France, Japan, and now the United States, and take equity stakes in its best technology companies to cultivate and sustain their growth in Canada and around the world, to secure its AI supply chain, and to ensure that Canadians also share the dividends of successful Canadian champions."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -664,7 +504,7 @@
     "body": "Canada will establish a $500 million Canadian Tech Growth Fund to help close the scale-up capital gap facing Canada’s most promising AI companies. The Fund will provide flexible growth capital and investment support, and enable the federal government, at times, to take equity stakes in the most promising Canadian AI firms. This will help them attract private capital, compete globally, retain talent and intellectual property, and remain anchored in Canada. Where appropriate, Canada will leverage its recently announced Sovereign Wealth Fund to further support emerging national champions.\n\nBy Budget 2026, the Department of Finance will work with experts to explore mechanisms that encourage Canadians to reinvest gains earned from successful tech companies into new Canadian AI startups.\n\nCanada will also leverage $1.75 billion of federal investments and commitments announced in Budget 2025 to stimulate private sector investment in venture capital and address access to capital gaps for innovative companies, including those in AI.\n\nCanada will establish the federal government as a stra-tegic anchor customer and leverage the Buy Canadian policy to provide domestic scale-ups with the revenue and validation they need to successfully export their solutions globally."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Accelerating SME Commercialization on Canadian Infrastructure",
     "id_kind": "",
@@ -672,7 +512,7 @@
     "body": "Canada’s global leadership in AI research must create economic benefits here at home. Translating Canadian IP into products, services, and globally competitive companies requires a commercialization ecosystem built for the speed and cross-sectoral nature of AI.\n\nTo do so, National AI Institutes must convert more of their scientific breakthroughs into homegrown companies through collaboration with venture capital, industry, and Global Innovation Clusters. They will need to develop sector-specific deployment playbooks and provide tech-nical expertise to industry to deliver AI implementation.\n\nBuilding AI products also takes serious computing power and right now, most Canadian SMEs have no affordable domestic option. They train, test, and deploy their mod-els on foreign cloud platforms, sending Canadian dollars offshore and placing their most sensitive data and intel-lectual property outside Canadian jurisdiction. We must enable them to bring products to market on Canadian infrastructure, compete globally, and keep the value chain at home."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -680,7 +520,7 @@
     "body": "Canada will provide Canadian SMEs with an additional $700 million in affordable sovereign compute through an expansion of the Compute Access Fund.\n\nCanada will invest $130 million for commercialization programs across the National AI Institutes, including for Founders-in-Residence, to cultivate a new generation of AI entrepreneurs.\n\nCanada will assess the full continuum of innovation pro-grams to better align existing innovation instruments so that the path from research to market is shorter, clearer, and built around the needs of Canadian entrepreneurs.\n\nCanada will leverage $159 million invested in Budget 2025 through the Elevate IP and IP Assist programs to protect Canadian intellectual property and support SMEs to commercialize their intangible assets in the global marketplace."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "BRIDGING RESEARCH AND CAPITAL: The Venture Scientist Fund",
     "id_kind": "",
@@ -688,7 +528,7 @@
     "body": "Canada punches above its weight in research, but commercial outcomes are too often not being anchored here, with nearly 70 percent of Canadian-led startups ending up headquartered outside the country.\n\nIn January 2026, Mila – Quebec Artificial Intelligence Institute and Inovia Capital launched the Venture Scientist Fund, a US$100 million early-stage venture capital fund designed to close that gap, creating a structured path-way to take frontier research to company creation.\n\nThe fund will invest in over 55 AI-native companies emerg-ing from Canada’s leading research universities, with a focus on domains where scientific depth is a competitive advantage: foundational AI, deep tech, and next-generation computational and physical infrastructure.\n\nThe goal is straightforward: keep Canada’s best AI talent and intellectual property here, and turn world-class research into world-class companies headquartered in Canada."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Championing Our Foundation Models",
     "id_kind": "",
@@ -696,7 +536,7 @@
     "body": "Foundation models are one of the key pieces of strategic infrastructure of the AI economy as they are the base layer for AI applications. Unlike traditional software, a single foundation model can be adapted to thousands of down-stream tasks: translation, code generation, legal analysis, medical triage, and scientific research. Dependence on foreign models can create potential points of leverage, especially in sensitive government or defence applications.\n\nCanada’s AI ecosystem also supports safe-by-design fron-tier AI research. These efforts, if developed appropriately and scaled commercially, have the potential to become world-leading solutions to AI safety.\n\nCanada will treat these capabilities as strategic assets, with the potential to scale globally while remaining anchored in Canadian soil.\n\nCanada will anchor its homegrown foundation model capabilities at home, and support their international growth by exporting them to a growing global market actively seeking trusted alternatives.\n\nCanada will support research in Canadian foundation models built with safety at their core, drawing on the country’s deep bench of AI safety research to make trustworthiness a defining feature of Canadian models."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "CANADA AT THE FRONTIER: Cohere and LawZero",
     "id_kind": "",
@@ -709,18 +549,10 @@
     "section_name": "Building Trusted Partnerships and Global Alliances",
     "id_kind": "pillar",
     "parent_id": "",
-    "body": "Currently, AI is a game of scale that is dominated by hegemons and hyperscalers. This poses a significant security and economic challenge as countries around the globe risk becoming subordinate or reliant on them.\n\nCanada must establish its strategic autonomy and work purposefully with key allies to build out AI capabilities and supply chains that will offer resilience and choice to citizens, companies, and customers.\n\nCanada has led the world on AI governance before — through efforts like the Montreal Declaration on Respon-sible AI and the formation of the Global Partnership on AI — and will continue to lead. Canada has a responsibility and strategic opportunity to work with trusted partners to help shape a global AI ecosystem that is open, secure, and aligned with democratic principles."
+    "body": "Currently, AI is a game of scale that is dominated by hegemons and hyperscalers. This poses a significant security and economic challenge as countries around the globe risk becoming subordinate or reliant on them.\n\nCanada must establish its strategic autonomy and work purposefully with key allies to build out AI capabilities and supply chains that will offer resilience and choice to citizens, companies, and customers.\n\nCanada has led the world on AI governance before — through efforts like the Montreal Declaration on Respon-sible AI and the formation of the Global Partnership on AI — and will continue to lead. Canada has a responsibility and strategic opportunity to work with trusted partners to help shape a global AI ecosystem that is open, secure, and aligned with democratic principles.\n\nBy exporting Canadian AI products and principles, we can provide credible alternatives to closed, monopolized, or values‑agnostic systems that dominate\n\ntoday’s global AI landscape."
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "By exporting Canadian AI products and principles, we can provide credible alternatives to closed, monopolized, or values‑agnostic systems that dominate",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "today’s global AI landscape."
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Spearheading a Multinational Sovereign Technology Alliance",
     "id_kind": "",
@@ -728,7 +560,7 @@
     "body": "A coalition of aligned democracies, who pool research, talent, compute, and procurement power, would offer a credible alternative to the dominant market actors that increasingly define the global AI landscape. Canada is uniquely positioned to lead such an alliance – with proven and emerging capabilities that complement and reinforce those of key middle powers.\n\nIn February 2026, Canada and Germany launched the Sovereign Technology Alliance, an initiative that will deepen collaboration with trusted allies to use common AI models, share digital infrastructure, access capital, and participate in joint research. It will also ensure similar approaches to safety and security, and establish shared AI evaluation standards and benchmarks, to provide options to companies and citizens on everything from foundation models to applications and drive adoption across industries.\n\nFurthermore, with a long-standing reputation for responsible innovation, inclusive governance, and multilateral cooperation, Canada can shape global AI norms that balance technological progress with public trust."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -736,7 +568,7 @@
     "body": "Canada will expand the newly formed Sovereign Technology Alliance to enable secure and interoperable AI capabilities and open procurement opportunities for domestic champions. This will accelerate responsible AI adoption, de-risk private-sector investment and cross-border deployment, reduce strategic dependence on dominant technology ecosystems while safeguarding rights and data, and expand joint research, talent, and investment opportunities.\n\nCanada will leverage the Trade Commissioner Service and diplomatic networks to attract foreign investment in AI, showcase Canadian champions abroad, and enable new markets for Canadian firms."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Canada’s AI Industry on Display",
     "id_kind": "",
@@ -744,7 +576,7 @@
     "body": "Canada takes a leading role in technology and start up trade shows and coordinates successful trade missions to increase Canadian presence during international events.\n\nDelegations, such as those led by Scale AI at VivaTech 2025 in France, where Canada was the country of honour, included 230 Canadian organizations. In Paris, Montréal’s Hypertec announced a $5 billion initiative to build one of Europe’s largest sovereign AI infrastructure networks, with over 2 GW of data centre capacity and nearly 100,000 GPUs planned. Hypertec has since been designated as the first Canadian NVIDIA OEM Partner manufacturing systems in Canada.\n\nIn 2025, when Canada was the partner country at the Hannover Messe trade fair in Germany, Canadian exhibi-tors generated over $260 million in business impacts.\n\nCanada also hosts international large-scale AI events. The ALL IN conference, Canada’s largest AI and tech-nology event, provides a national platform that builds on this momentum domestically. The 2025 edition featured 6,500 participants from 2,500 companies and over 40 countries, showcasing the strength and dynamism of Canada’s AI ecosystem.\n\nTaken together, these efforts will strengthen market access for Canadian companies, driving the worldwide adoption of Canadian AI solutions and AI-enabled technologies."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Advancing Open-Source AI for Resilience and Choice",
     "id_kind": "",
@@ -752,7 +584,7 @@
     "body": "The global AI market is rapidly consolidating around a small number of proprietary systems. For countries that depend on these closed platforms, the risks are significant: structural dependency, vendor lock-in, diminished transparency, and a limited ability to adapt critical technologies to local needs, cultures, and values.\n\nOpen-source AI is a powerful alternative, as it offers transparent tools that are cheaper to deploy and easier to fine-tune and adapt to specific use-cases, lowering barriers to discovery and adoption, particularly for not-for-profit organizations and SMEs.\n\nOpen-source AI can also support external evaluation and accountability, accelerate research and innovation, and encourage greater competition in the marketplace. It can be a way to broaden global access, expand capabilities beyond dominant markets, and provide a foundation for more inclusive AI systems.\n\nOpen-source AI is already a major driver of AI adoption across the technology stack, including data, models, and tools. For Canadian organizations, this matters because open-source AI can reduce costs, increase flexibility, and allow solutions to be tailored to local requirements, including on-premises deployment where privacy, security, or sensitive data considerations are paramount.\n\nBy advancing open-source AI, Canada can accelerate adoption, strengthen resilience, support competition, and ensure more Canadians can shape AI systems to reflect their needs, languages, communities, and values."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Key Actions",
     "id_kind": "",
@@ -760,7 +592,7 @@
     "body": "Canada will lead a global, multi-stakeholder effort to invest in and sustain open-source AI development in the public interest, working with like-minded countries, Canadian AI institutes, researchers, civil society, industry, and global open-source organizations.\n\nCanada will support the responsible adoption of open-source AI by Canadian researchers, SMEs, not-for-profit organizations, and public-interest innovators, working to create an inventory and shared library of access tools that are transparent, adaptable, secure, and aligned with Canadian needs."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Expanding International Partnerships and AI Collaboration",
     "id_kind": "",
@@ -768,7 +600,7 @@
     "body": "Building on Canada’s international partnerships will open new markets for Canadian businesses, attract transformative investment into nation-building projects, and create high-paying careers for Canadian workers.\n\nIn the past year, Canada has signed 20 new economic and defence partnerships, securing nearly $100 billion in foreign investment commitments. Canada is actively negotiating free trade agreements with India, ASEAN, and beyond. Of those 20 partnerships, 11 explicitly advance cooperation on artificial intelligence — spanning four continents and topics from AI safety standards and sovereign AI infrastructure to industrial deployment and business-to-business matchmaking.\n\nThese agreements will position Canada as a trusted global partner in how AI is governed, built and deployed, ensuring that Canadian values of openness, democratic accountability, and rules-based cooperation shape the AI systems of the future."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Measures Taken:",
     "id_kind": "",
@@ -781,14 +613,6 @@
     "section_name": "Conclusion",
     "id_kind": "",
     "parent_id": "",
-    "body": "Canada’s AI for All strategy represents a significant new investment in our future. It is a plan to build trust in the systems that shape Canadians’ lives, protect Canadians’ rights and safety, and create opportunities for every Canadian to participate in a stronger economy.\n\nThe strategy accelerates the current work building sovereign AI, strengthens international partnerships to enhance resilience, and builds in the flexibility to continue to adjust to the opportunities and challenges as this technology evolves in the years ahead.\n\nThis National AI Strategy gives Canada the direction, tools, and ambition to act with purpose, adapt with confidence, and build an AI future that truly serves all Canadians.\n\nWe recognize that AI is moving faster than any strategy can anticipate. Consequently, the Government of Canada will continue to review and update this plan to address the evolving opportunities and challenges presented by AI."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "While this plan is intended to be dynamic, it is also deliberately built around principles like trust, opportunity, and sovereignty, as well as the central importance of wide- spread adoption. This strategic approach will ensure that Canadians have the foundation, tools and opportunity they",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "need to thrive in the AI era."
+    "body": "Canada’s AI for All strategy represents a significant new investment in our future. It is a plan to build trust in the systems that shape Canadians’ lives, protect Canadians’ rights and safety, and create opportunities for every Canadian to participate in a stronger economy.\n\nThe strategy accelerates the current work building sovereign AI, strengthens international partnerships to enhance resilience, and builds in the flexibility to continue to adjust to the opportunities and challenges as this technology evolves in the years ahead.\n\nThis National AI Strategy gives Canada the direction, tools, and ambition to act with purpose, adapt with confidence, and build an AI future that truly serves all Canadians.\n\nWe recognize that AI is moving faster than any strategy can anticipate. Consequently, the Government of Canada will continue to review and update this plan to address the evolving opportunities and challenges presented by AI.\n\nWhile this plan is intended to be dynamic, it is also deliberately built around principles like trust, opportunity, and sovereignty, as well as the central importance of wide- spread adoption. This strategic approach will ensure that Canadians have the foundation, tools and opportunity they\n\nneed to thrive in the AI era."
   }
 ]

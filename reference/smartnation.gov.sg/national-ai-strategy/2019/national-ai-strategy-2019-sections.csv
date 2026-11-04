@@ -36,8 +36,9 @@ Section 5: Working Together
 Section 6: What the Experts Say
 
 National Artificial Intelligence Strategy 5"
-"2","","Foreword by Mr Lee Hsien Loong, Prime Minister of Singapore FOREWORD","","",""
-"2","","The National AI Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy, going beyond just adopting technology, to fundamentally rethinking business models and making deep changes to reap productivity gains","","","and create new areas of growth.
+"2","","Foreword by Mr Lee Hsien Loong, Prime Minister of Singapore FOREWORD","","","The National AI Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy, going beyond just adopting technology, to fundamentally rethinking business models and making deep changes to reap productivity gains
+
+and create new areas of growth.
 
 Technological innovation has powered economic
 
@@ -264,12 +265,21 @@ National AI Strategy. The National AI Strategy requires a whole-of-nation effort
 
 ideas and contributions from individuals and companies to help deliver our AI vision for Singapore.
 
-National Artificial Intelligence Strategy 11"
-"2","","WHY A NATIONAL AI STRATEGY?","","","1
+National Artificial Intelligence Strategy 11
+
+WHY A NATIONAL AI STRATEGY?
+
+1
+
+•
+
+What AI has to offer
+
+•
+
+What we hope to achieve from a National Strategy
 
 •"
-"2","","What AI has to offer","","","•"
-"2","","What we hope to achieve from a National Strategy","","","•"
 "2","","Why we can succeed","","","National Artificial Intelligence Strategy 13"
 "3","","What AI has to offer","","","Artificial Intelligence (AI) is the capability to simulate intelligent, human-like behaviour in computers.
 
@@ -370,9 +380,7 @@ National Artificial Intelligence Strategy 15"
 "2","","VISION AND APPROACH","","","2
 
 National Artificial Intelligence Strategy 17"
-"2","","VISION","","",""
-"2","","By 2030, Singapore will be a leader in developing and deploying","","",""
-"2","","scalable, impactful AI solutions, in key sectors of high value and","","","relevance to our citizens and businesses.
+"2","","VISION — By 2030, Singapore will be a leader in developing and deploying","","","scalable, impactful AI solutions, in key sectors of high value and relevance to our citizens and businesses.
 
 Singaporeans will trust the use of AI in their lives. This confidence is borne out of a clear awareness
 
@@ -408,8 +416,9 @@ scope problems in Government,
 
 industry and society, for which
 
-AI can be put to good use."
-"3","AI Deployment Loop: 3","Scaling","numbered","",""
+AI can be put to good use.
+
+3. Scaling"
 "3","AI Deployment Loop: 2","Development and Testing","numbered","","How well we can
 
 How fast we can design, test,
@@ -492,7 +501,6 @@ allow AI systems to better understand culture and social norms (especially Asian
 
 norms) and human intentions."
 "2","","Human-Centric AI Programme","","","National Artificial Intelligence Strategy 21"
-"2","","STRATEGY","","",""
 "2","","The National AI Strategy consists of two components:","","",""
 "3","","National AI Projects","","","We will progressively identify National AI Projects in key sectors of high social and/or economic impact,
 
@@ -519,21 +527,31 @@ enablers: Triple Helix Partnership, AI Talent and Education, Data Architecture, 
 
 Environment, and International Collaboration.
 
-National Artificial Intelligence Strategy 23"
-"2","","NATIONAL AI PROJECTS","","","3
+National Artificial Intelligence Strategy 23
+
+NATIONAL AI PROJECTS
+
+3
+
+•
+
+Intelligent Freight Planning
+
+•
+
+Seamless and Efficient Municipal Services
+
+•
+
+Chronic Disease Prediction and Management
+
+•
+
+Personalised Education through Adaptive Learning — and Assessment
 
 •"
-"2","","Intelligent Freight Planning","","","•"
-"2","","Seamless and Efficient Municipal Services","","","•"
-"2","","Chronic Disease Prediction and Management","","","•"
-"2","","Personalised Education through Adaptive Learning","","",""
-"2","","and Assessment","","","•"
 "2","","Border Clearance Operations","","","National Artificial Intelligence Strategy 25"
-"2","","CREATING IMPACT THROUGH NATIONAL AI PROJECTS","","",""
-"2","","The 5 National AI Projects address key national challenges for","","",""
-"2","","Singapore in transport and logistics, smart cities and estates,","","",""
-"2","","healthcare, education, and safety and security. Implementing them","","",""
-"2","","will require our research institutes, industry, and Government to","","","work collectively to develop and deploy AI solutions.
+"2","","CREATING IMPACT THROUGH NATIONAL AI PROJECTS — The 5 National AI Projects address key national challenges for Singapore in transport and logistics, smart cities and estates, — healthcare, education, and safety and security. Implementing them","","","will require our research institutes, industry, and Government to work collectively to develop and deploy AI solutions.
 
 National Artificial Intelligence Strategy 27
 
@@ -698,8 +716,7 @@ better urban planning to improve the overall
 efficiency of Singapore’s logistics ecosystem.
 
 National Artificial Intelligence Strategy 29"
-"2","2","SEAMLESS AND EFFICIENT MUNICIPAL SERVICES","numbered","",""
-"2","","Challenge","","",""
+"2","2 (1)","SEAMLESS AND EFFICIENT MUNICIPAL SERVICES Challenge","numbered","",""
 "3","","How can municipal services be delivered to residents in a more responsive, reliable and timely manner?","","","At times, residents might find it challenging to
 
 provide agencies with sufficient information to
@@ -724,9 +741,11 @@ shorten case resolution time.
 
 and 16 Town Councils work tirelessly to ensure
 
-that Singapore residents enjoy a high¹ standard"
-"2","","Objective","","","of municipal services."
-"3","","More responsive, reliable, and timely","","","neighbourhood services.
+that Singapore residents enjoy a high¹ standard
+
+Objective of municipal services.
+
+More responsive, reliable, and timely neighbourhood services.
 
 Several of these services are high-volume and
 
@@ -779,8 +798,9 @@ Better-maintained estates. Sensors and
 
 AI algorithms can be deployed in the
 
-neighbourhood, such as in lifts, to alert us to"
-"2","","Our First Steps","","","would-be faults before they occur, and help
+neighbourhood, such as in lifts, to alert us to
+
+Our First Steps would-be faults before they occur, and help
 
 us pre-emptively address issues to minimise
 
@@ -993,11 +1013,9 @@ assessment model for cardiovascular disease.
 their medication and report for check-ups.
 
 National Artificial Intelligence Strategy 33"
-"2","4","PERSONALISED EDUCATION THROUGH ADAPTIVE LEARNING AND ASSESSMENT","numbered","",""
-"2","","Challenge","","",""
-"2","","Objective","","",""
-"3","","How can we help teachers to better customise and improve the learning experience for every student, particularly those with learning difficulties?","","",""
-"3","","More personalised learning and","","","assessment for every student.
+"2","4","PERSONALISED EDUCATION THROUGH ADAPTIVE LEARNING AND ASSESSMENT Challenge Objective","numbered","","How can we help teachers to better customise and improve the learning experience for every student, particularly those with learning difficulties?
+
+More personalised learning and assessment for every student.
 
 We will leverage AI through the Singapore
 
@@ -1068,8 +1086,9 @@ achievement level.
 
 The automated marking system will be able to
 
-assess open-ended student responses such as"
-"2","","Our First Steps","","","short-answer response questions and essays,
+assess open-ended student responses such as
+
+Our First Steps short-answer response questions and essays,
 
 and provide quick feedback to students’ work.
 
@@ -1102,11 +1121,8 @@ student reflect on her learning experience,
 and recommend further learning activities.
 
 National Artificial Intelligence Strategy 35"
-"2","5","BORDER CLEARANCE OPERATIONS","numbered","",""
-"2","","Challenge","","",""
-"2","","Objective","","",""
-"3","","How do we continue to strengthen border security while improving traveller experience?","","",""
-"3","","100% automated immigration","","","clearance for all travellers.
+"2","5","BORDER CLEARANCE OPERATIONS Challenge Objective","numbered","",""
+"3","","How do we continue to strengthen border security while improving traveller experience?","","","100% automated immigration clearance for all travellers.
 
 The demand for secure and efficient immigration
 
@@ -1210,23 +1226,36 @@ gains and can focus on higher value work.
 
 National Artificial Intelligence Strategy 37
 
-National Artificial Intelligence Strategy 39"
-"2","","BUILDING THE AI ECOSYSTEM","","","4
+National Artificial Intelligence Strategy 39
+
+BUILDING THE AI ECOSYSTEM
+
+4
+
+•
+
+Triple Helix Partnership between the Research — Community, Industry and Government
+
+•
+
+AI Talent and Education
+
+•
+
+Data Architecture
+
+•
+
+Progressive and Trusted Environment
 
 •"
-"2","","Triple Helix Partnership between the Research","","",""
-"2","","Community, Industry and Government","","","•"
-"2","","AI Talent and Education","","","•"
-"2","","Data Architecture","","","•"
-"2","","Progressive and Trusted Environment","","","•"
-"2","","International Collaboration","","","National Artificial Intelligence Strategy 41"
-"2","","Even as Singapore embarks on National AI Projects,","","",""
-"2","","we must build a vibrant and sustainable AI ecosystem","","","to anchor AI innovation and adoption across the economy."
-"2","","We have identified five ecosystem enablers:","","",""
-"2","","THE ECOSYSTEM ENABLERS","","","National Artificial Intelligence Strategy 43"
-"2","","ECOSYSTEM ENABLER 1","","",""
-"2","","TRIPLE HELIX PARTNERSHIP","","",""
-"2","","– Research Community, Industry and Government","","","The research community, industry, and Government play important, interconnected roles to enable the
+"2","","International Collaboration","","","National Artificial Intelligence Strategy 41
+
+Even as Singapore embarks on National AI Projects,
+
+we must build a vibrant and sustainable AI ecosystem to anchor AI innovation and adoption across the economy."
+"2","","We have identified five ecosystem enablers: — THE ECOSYSTEM ENABLERS","","","National Artificial Intelligence Strategy 43"
+"2","","ECOSYSTEM ENABLER 1 — TRIPLE HELIX PARTNERSHIP — – Research Community, Industry and Government","","","The research community, industry, and Government play important, interconnected roles to enable the
 
 development and deployment of AI solutions. It is critical for Singapore to enhance partnerships across
 
@@ -1304,7 +1333,7 @@ Artificial Intelligence Research Centre (DSAIR) at NTU. Prof Ong also establishe
 Lab for Enterprises (SCALE@NTU), where he currently serves as Director.
 
 We interviewed him to find out more about his life as an AI researcher:"
-"3","– Research Community, Industry and Government: 1","What made you decide to become an AI researcher?","numbered","","I did my postgraduate study at the University of Southampton under the BAE-Rolls Royce
+"3","1 (1)","What made you decide to become an AI researcher?","numbered","","I did my postgraduate study at the University of Southampton under the BAE-Rolls Royce
 
 University Technology Partnership research scholar programme. There, I became really
 
@@ -1315,7 +1344,7 @@ different forms of aircraft wing structures. This led to my PhD topic on “Arti
 Technologies in Complex Engineering Design”, which explored and investigated state-of the-
 
 art AI techniques to uncover new insights about optimisation solvers."
-"3","– Research Community, Industry and Government: 2","What is something exciting that you are researching now?","numbered","","One of my coolest work has been developing IntelliK, an AI platform that enables creative
+"3","2 (2)","What is something exciting that you are researching now?","numbered","","One of my coolest work has been developing IntelliK, an AI platform that enables creative
 
 people to develop AI-powered digital games and gamified Apps without any programming
 
@@ -1344,7 +1373,7 @@ iii) Reproducibility – to enable others to reproduce the same output from AI m
 iv) Realism – to introduce a human element into AI.
 
 v) Responsibility – to build ethics and ethnics into AI and AI for benefiting society."
-"3","– Research Community, Industry and Government: 3","What is your favourite part about conducting AI research in Singapore?","numbered","","First, there are many existing digital systems in Singapore that generate significant amounts
+"3","3","What is your favourite part about conducting AI research in Singapore?","numbered","","First, there are many existing digital systems in Singapore that generate significant amounts
 
 of data. This provides opportunities for researchers to customise AI algorithms to analyse
 
@@ -1686,8 +1715,7 @@ facilitate close collaboration between the digital industry and academia.
 Artist’s impression of PDD
 
 National Artificial Intelligence Strategy 55"
-"2","","ECOSYSTEM ENABLER 2","","",""
-"2","","AI TALENT AND EDUCATION","","","Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need
+"2","","ECOSYSTEM ENABLER 2 — AI TALENT AND EDUCATION","","","Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need
 
 a range of multidisciplinary talent (AI, digital, business domain) to develop and deploy AI solutions
 
@@ -1784,12 +1812,12 @@ and Institute of Data Science.
 Goh Yong Liang joined Grab in 2019 under the post-graduate scholarship programme.
 
 We interviewed him to find out why he chose to pursue an AI PhD."
-"3","AI TALENT AND EDUCATION: 1","Why are you interested in AI?","numbered","","With the increased footfall of digital services, companies are starting to collect more high-
+"3","ECOSYSTEM ENABLER 2 — AI TALENT AND EDUCATION: 1","Why are you interested in AI?","numbered","","With the increased footfall of digital services, companies are starting to collect more high-
 
 quality data. AI, to me, is a tool to create standalone digital products, and I hope to acquire
 
 the knowledge to build them."
-"3","AI TALENT AND EDUCATION: 2","What made you decide to pursue a PhD in AI, and how does this link to your career","numbered","","aspirations?
+"3","ECOSYSTEM ENABLER 2 — AI TALENT AND EDUCATION: 2","What made you decide to pursue a PhD in AI, and how does this link to your career","numbered","","aspirations?
 
 While working as a data scientist for three and a half years, I was constantly looking for
 
@@ -1800,7 +1828,7 @@ came up and this felt like a great opportunity to invest my time in work that co
 major impact. I felt that to effectively lead a technical team, I first have to establish a strong
 
 foundation in the field, and a PhD offers that opportunity."
-"3","AI TALENT AND EDUCATION: 3","Why did you choose an industry post-graduate","numbered","","programme instead of an academic PhD programme?
+"3","ECOSYSTEM ENABLER 2 — AI TALENT AND EDUCATION: 3","Why did you choose an industry post-graduate","numbered","","programme instead of an academic PhD programme?
 
 I chose the industry post-graduate scholarship as it
 
@@ -1905,8 +1933,7 @@ professionals equipped with deep technical skills in frontier areas such as AI. 
 companies tap on skilled global talent to strengthen their tech capabilities and scale quickly.
 
 National Artificial Intelligence Strategy 61"
-"2","","ECOSYSTEM ENABLER 3","","",""
-"2","","DATA ARCHITECTURE","","","Data is the foundation that anchors AI collaboration between Government, industry, and research.
+"2","","ECOSYSTEM ENABLER 3 — DATA ARCHITECTURE","","","Data is the foundation that anchors AI collaboration between Government, industry, and research.
 
 Despite Singapore’s small size, we have natural comparative advantages in data. We can leverage our
 
@@ -2042,8 +2069,7 @@ also preparing for the future, to extend the use of data as a strategic asset at
 
 and to apply digital technologies such as AI to enrich the value of our data assets."
 "2","","Overview of Government Data Architecture","","","National Artificial Intelligence Strategy 65"
-"2","","ECOSYSTEM ENABLER 4","","",""
-"2","","PROGRESSIVE AND TRUSTED ENVIRONMENT","","","Singapore’s governance and regulatory regime must strike the right balance between fostering
+"2","","ECOSYSTEM ENABLER 4 — PROGRESSIVE AND TRUSTED ENVIRONMENT","","","Singapore’s governance and regulatory regime must strike the right balance between fostering
 
 technology and business innovation, while safeguarding citizens’ interests."
 "3","","Key Thrust 4.1 Establish citizens’ trust on the responsible use of AI","","","Singapore has established an industry-led Advisory Council on the Ethical Use of AI and Data.
@@ -2191,8 +2217,7 @@ Data Governance (CAIDG). Front L-R: Prof Goh Yihan, Prof Lily Kong, SMS Janil Pu
 Mr Yeong Zee Kin
 
 National Artificial Intelligence Strategy 69"
-"3","","Live with AI, SUTD Lee Kuan Yew Centre for Innovative Cities and DataRobot’s joint research on AI and work","","",""
-"3","","INTRODUCTION TO LIVE WITH AI","","","Live with AI is a non-profit foundation based in Singapore, which believes that AI will impact
+"3","","Live with AI, SUTD Lee Kuan Yew Centre for Innovative Cities and DataRobot’s joint research on AI and work — INTRODUCTION TO LIVE WITH AI","","","Live with AI is a non-profit foundation based in Singapore, which believes that AI will impact
 
 our society positively and contribute to accelerating human development. The foundation
 
@@ -2211,10 +2236,10 @@ Cities and DataRobot, researched the impact AI has on multiple tasks within jobs
 better understand the workforce disruption and potential scenarios which may happen
 
 in different industries. The findings were as follows:"
-"3","PROGRESSIVE AND TRUSTED ENVIRONMENT: 1","AI won’t simply replace Humans","numbered","","The AI revolution will not only create jobs for computer specialists. Thanks to the principle
+"3","1 (2)","AI won’t simply replace Humans","numbered","","The AI revolution will not only create jobs for computer specialists. Thanks to the principle
 
 of comparative advantage, AI-enhanced human roles will emerge as well."
-"3","PROGRESSIVE AND TRUSTED ENVIRONMENT: 2","AI and Work: Equal to the Task","numbered","","AI disrupts jobs task by task and not job by job. All workers can take advantage of this
+"3","2 (3)","AI and Work: Equal to the Task","numbered","","AI disrupts jobs task by task and not job by job. All workers can take advantage of this
 
 to disrupt disruption. We can use tasks to better track technology impact, chart clearer
 
@@ -2294,8 +2319,7 @@ Ms Sharmaine Wu, Director, Registries of Patents, Designs and Plant Varieties,
 IPOS presents the patent grant certificate to Dr Benjamin Bai, Vice President and
 
 Chief IP Counsel, Ant Financial, Alibaba."
-"2","","ECOSYSTEM ENABLER 5","","",""
-"2","","INTERNATIONAL COLLABORATION","","","International collaboration is essential for driving sustainable development of AI. Singapore has
+"2","","ECOSYSTEM ENABLER 5 — INTERNATIONAL COLLABORATION","","","International collaboration is essential for driving sustainable development of AI. Singapore has
 
 a meaningful role to play to support this global effort. We will continue to be an open and neutral
 
@@ -2714,8 +2738,7 @@ in building the different key AI ecosystem enablers, including talents, data, bu
 and global collaborations. I am excited by the opportunities ahead and am confident that Singapore
 
 will be a leading player in AI."
-"2","","BROUGHT TO YOU BY","","",""
-"2","","PARTNERING AGENCIES","","","Published November 2019
+"2","","BROUGHT TO YOU BY — PARTNERING AGENCIES","","","Published November 2019
 
 Copyright © 2019 by Smart Nation Digital Government Office. Not to
 

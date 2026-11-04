@@ -11,7 +11,9 @@ The Republic of China
 =
 001 — Minister’s Foreword
 003—
+
 ## Introduction
+
 007 —
 |Regional Situation
 Monitoring Emerging Security Challenges
@@ -53,8 +55,8 @@ Elaborating Geostrategic Advantages
 Expanding Defense Exchange and Cooperation
 Propelling Non-traditional Security Cooperation
 068—
-## Conclusion
-aoe
+
+Conclusion aoe
 
 ee
 Minister’s Foreword
@@ -127,6 +129,7 @@ March
 2021
 
 ## Introduction
+
 Overviewing the current strategic situations, mainland China, aspiring to become
 an international superpower, is eager to undermine the international order and regional
 stability. It has been particularly imposing coercive means of verbal intimidation and
@@ -141,7 +144,9 @@ The QDR is a guiding document that directs the future development of the ROC
 Armed Forces. “Striving Forward and Creating
 a New Prospect” is the motive of the 2021
 QDR. The 7 chapters are summarized as follows.
+
 ## 1. Regional Situation: Monitoring Emerging Security Challenges
+
 -
 To ensure the security of the Indo-Pacific region, the United States continues to
 strengthen cooperation with regional allies. The PRC is trying to grasp the regional
@@ -156,7 +161,9 @@ aerial and maritime assets and manipulating tactics of cognitive warfare.
 Non-traditional security challenges, such as pandemics and composite disasters,
 continue impacting on global and our national security and can only be tackled
 through international cooperation.
+
 ## 2. Strategic Guidance: To Ensure Security with Fortified Defense
+
 +
 Following the President’s national security guidance and evaluating the overall
 strategic environment, we centered the national strategy on “fortifying national
@@ -167,6 +174,7 @@ Considering the threats and challenges posed by the enemy, the military strategy
 aims at building “Resolute Defense and Multi-Domain Deterrence.”
 
 ## 3. Reinforcing Military Strength: Constructing an Unbreakable Force
+
 +
 Guided by the military strategy and defense requirements, the ROC Armed Forces
 implements force buildup and training programs.
@@ -216,7 +224,9 @@ enemy.
 + Emergency response capacities of the ROC Armed Forces continue to support
 epidemic prevention, humanitarian assistance and disaster relief (HA/DR), and
 protection of our maritime rights and interests.
+
 ## 5. Sustainable Roadmap: Developing Self-reliant Defense
+
 + Budget for research and development (R&D) is to be steadily increased, and R&D
 capacities in all sectors are to be integrated to develop advanced technologies and
 weapons, and cultivate professionals in dual-use technologies.
@@ -232,7 +242,9 @@ industries.
 Offset resources are to be combined with local capacities to form a supply chain of
 defense industries, so as to motivate domestic industries to upgrade and enhance the
 self-reliant defense.
+
 ## 6. Consolidating Security: Addressing Gray Zone Conflict
+
 - Facing threats of the PRC cognitive warfare, the ROC Armed Forces will follow the
 guidance of inter-agency reaction mechanism and make use of diversified media to
 counter effectively.
@@ -247,6 +259,7 @@ further improve the capacity to cope with contingencies and unexpected condition
 cautiously.
 
 ## 7. Strategic Cooperation: Creating Strategic Value of Taiwan
+
 +
 Continue to elaborate the geostrategic value of our nation and cooperate with like-
 minded countries to contribute collectively to regional peace and stability.
@@ -319,13 +332,17 @@ allies to fortify regional security, while the PRC keeps expanding its military 
 and conducting gray zone operations that cause serious impact on the regional peace and
 stability. Furthermore, there are destabilizing factors arising from the Korean Peninsula,
 the ECS, and the SCS.
+
 ## 1. The U.S. Cooperate with Allies to Fortify the Security of the Indo-Pacific Region
+
 The U.S. continues to cooperate with allies in the Indo-Pacific region and partner
 countries to address regional security issues, and help them to improve their defense
 capabilities. The U.S. continues holding combined exercises and assigning aircraft and
 vessels to conduct freedom of navigation operations (FONOPs) to maintain peace and
 stability in the Indo-Pacific region through its military presence and substantive actions.
+
 ## 2. The Rise of the PRC Challenges Regional Balance
+
 The PRC is exploiting its “Belt and Road Initiative” (BRI),
 a comprehensive strategic
 framework, to enhance its external political and economic leverages. It is promoting
@@ -333,14 +350,18 @@ framework, to enhance its external political and economic leverages. It is promo
 and long-range precision strike capabilities. In addition, it applies political, economic, and
 diplomatic clouts and cognitive warfare tactics to shape a strategic environment favorable
 to its rise, so as to help it attain the reginal dominance.
+
 ## 3. Increasing Security Risks Across the Taiwan Strait
+
 The PRC is actively fostered the military modernization, and strengthening its
 capabilities to invade Taiwan. Moreover, the various drills and exercises in which its aerial
 and maritime assets are assigned to frequently intrude our southwest airspace, meanwhile
 conducting long-distance training over the sea, posing increasing hostility and threats,
 further escalating the risk of accidents and clashes, and destabilizing the current peaceful
 condition across the Taiwan Strait.
+
 ## 4. The SCS Becomes a Hotspot Between the U.S. and the PRC
+
 As a vital maritime passage in the Indo-Pacific region, the SCS is of high
 geostrategic importance. The PRC has been militarizing the islands and reefs in the SCS,
 causing anxiety among neighboring counties. To maintain the freedom of navigation in
@@ -350,14 +371,18 @@ the SCS persist and are prone to cause conflict.
 
 PA
 é
+
 ## 5. Denuclearization of the Korean Peninsula Reached a Stalemate
+
 Even though the U.S. and North Korea held two summits, denuclearization progress
 of the Korean Peninsula is showing signs of stagnating due to the disagreement between
 both countries. North Korea has persisted in its nuclear weapon programs, conducted
 missile test launches and exhibited new intercontinental and submarine-launched ballistic
 missiles, and unilaterally halted communication with South Korea. These actions have
 caused regional anxiety for future development in Northeast Asia.
+
 ## 6. Intractable Territorial and Sovereignty Disputes
+
 Territorial and sovereignty disputes continue to affect the interactions among reginal
 countries. Japan unilaterally renamed an administrative area of Diaoyu Islands, whose
 surrounding waters have been routinely entered by public vessels of the PRC, resulted
@@ -376,7 +401,9 @@ reform in 2015, the PRC has strengthened its military power, conducted exercise,
 simulations and drills to rehearse its operations against Taiwan, and initiated gray zone
 tactics, posing greater security threats to our country. According to its recent military
 power development, PRC’s operational capabilities against Taiwan include:
+
 ## 1. Joint Intelligence, Surveillance, and Reconnaissance (ISR) Capabilities
+
 The People’s Liberation Army (PLA) has been regularly assigning air and naval
 assets, and occasionally anti-submarine reconnaissance, aircrafts, spy ships, and unmanned
 aerial vehicles (UAVs), to our neighboring waters and airspace to conduct surveillance
@@ -385,13 +412,17 @@ of photo-reconnaissance and electronic surveillance, the PLA can exploit multipl
 from land, maritime, air, space, electronic, and cyber domains to improve its target
 acquisition capabilities, so as to monitor military activities in the surrounding of the
 Taiwan Strait in full-time.
+
 ## 2. ICE Capabilities
+
 All major warplanes of the PLA are able to carry precision guided munitions to
 attack our command and control (C2) nodes and ISR assets. Its electronic warfare (EW)
 platforms can coordinate with UAVs to inflict soft-kill and hard-kill. Currently, the PLA
 is capable of undermining our air defense and sea control C2 systems, and continues to
 sharpen its capabilities of electromagnetic dominance.
+
 ## 3. Military Coercive Capabilities
+
 When conducting live drills and exercises targeted at Taiwan and intrusion and
 provocation by air and naval assets, the PRC intentionally uses the media and the internet
 to conduct propaganda of those activities as a form of psychological warfare to intimidate
@@ -402,6 +433,7 @@ its capabilities of Anti-Access and Area Denial (A2/AD) to deter foreign militar
 intervening in Taiwan Strait issues.
 
 ## 4. Joint Blockade Capabilities
+
 As part of the military reform, the PLA has been improving its air defense, sea
 control, and land-strike capabilities, refining aircraft carrier training, upgrading precision
 strike capabilities of the PLA Rocket Force (PLARF), and rapidly deploying newly-
@@ -409,13 +441,17 @@ developed missiles. It is now capable of initiating a local blockade over our vi
 transportation routes and severing our sea lines of communication (SLOC). Consequently,
 our armament and logistical supplies will be impaired to degrade our operational
 sustainability.
+
 ## 5. Joint Strike Capabilities
+
 The PRC continues to improve capabilities of its ballistic missiles, cruise missiles,
 air-to-surface missiles, and long-range multi-launch rockets. All of its ballistic missiles can
 reach the entire main island of Taiwan, and can work in tandem with its joint firepower of
 air and naval assets to strike our political, economic, and military high-value targets and
 critical infrastructure.
+
 ## 6. Joint Landing Operations Capabilities
+
 The PLA Ground Force (PLAGF) continues to refine its training of amphibious
 combined arms brigade and airborne assault brigade, participates in joint landing drills and
 exercises with the PLA Navy (PLAN), and improve its strategic airborne and maritime
@@ -425,7 +461,9 @@ developing offensive capabilities that can “shorten early warning time, blocka
 nodes, inflict massive firepower of paralyzing effect, and conduct multi-dimensional
 landings at multiple locations,” so as to quickly occupy our vital ports and airports to
 support its unloading of troops and supplies.
+
 ## 7. Strategic Support Capabilities
+
 The PRC has been actively developing operational platforms in the air and space
 domains to strengthen its information advantage on the battlefield. It currently has
 established the Beidou Navigation Satellite System and related C2 datalinks, capable
@@ -433,6 +471,7 @@ of supporting cross-theater joint operational C2, target surveillance, air and m
 blockade, and precision strike operations.
 
 ## 8. Joint Logistic Support Capabilities
+
 In order to unify all individual logistic services, the PLA Logistic Support Force
 (PLALSF) integrated logistic channels among all PLA forces and coordinated with local
 governments to strengthen logistic and support capacities. Furthermore, it has established
@@ -443,7 +482,9 @@ invasion scenario and improve the speed of force projection.
 
 B,
 Non-traditional Security Challenges
+
 ## 1. Non-traditional Security Challenges Raised Awareness
+
 °
 On the current trends of globalization, emerging security issues, such as composite
 disaster caused by extreme weather, spread of infectious diseases, and terrorism activities,
@@ -452,7 +493,9 @@ international cooperation. Owing to the close interaction between our nation and
 international community, as the world entered the post-pandemic period, various types of
 non-traditional challenges will continue to have an impact on the security of the world and
 our nation.
+
 ## 2. Global Pandemic Spread Should be Contained Promptly
+
 The outbreak of COVID-19 from early 2020 has greatly impact on all militaries,
 including training and operations. They have to consider both the epidemic prevention
 and all backup measures to preserve the operational readiness, while a proper amount of
@@ -521,7 +564,9 @@ resolve and robust military strength. Based on the guidance of “no fear of con
 the ROC Armed Forces do not compete with the enemy in an arms race, we have been committing
 ourselves in force buildup and operational preparedness, so as to prevent war, protect our national
 interests, ensure the national security, and play a major role in defending democracy.
+
 ## 1. Fundamental Concept of National Defense
+
 (1) Safeguarding national sovereignty and the value of democracy and freedom
 The ROC Armed Forces will safeguard the integrity of our national sovereignty and the
 democratic institutions with a solid defense, to demonstrate our determination of “Absolutely
@@ -540,6 +585,7 @@ Taiwan Strait. We will collaborate with like-minded countries to share more resp
 and make more contributions to regional peace and stability.
 
 ## 2. Goals of the Defense Strategy
+
 (1) Fortifying national security
 g
 In response to severe military challenges directly from the PRC, the ROC Armed
@@ -577,14 +623,18 @@ The military strategy of the ROC Armed Forces is “Resolute Defense and Multi-d
 Deterrence” that aim at developing joint capabilities with all-out defense and make use of long-
 range and multi-domain deterrence measures to create advantages to discourage enemy’s aggression
 and ensure homeland security.
+
 ## 1. Secure Territory with Resolute Defense
+
 The ROC Armed Forces continues to enhance ICE capabilities to ensure the security of our
 C2 nodes, critical assets, and critical information infrastructure, and improve our force protection
 and preservation, so as to enhance our joint countermeasures and defensive capabilities. The all-
 out defense strength and the natural barrier of the Taiwan Strait shall also be exploited to achieve
 a multi-layered defense in depth. Our operational sustainability shall be strengthened to achieve a
 strategic endurance.
+
 ## 2. Multi-domain Deterrence by Joint Capabilities
+
 With the concept of the asymmetric warfare, multi-domain deterrence measures shall be used
 to perform joint capabilities to deter the enemy’s aggression in multiple domains. If the enemy
 launched attack to invade Taiwan, Our guiding principles were to “resist the enemy on the opposite
@@ -687,7 +737,9 @@ the ROC Armed Forces has orientated the development ofjoint capabilities toward
 building fundamental and asymmetric capabilities. We continue to review the acquisition
 and priority of weapons and equipment, bring the results into force buildup plans, fortify
 combat readiness, enhance the quality of realistic training, and upgrade joint capabilities.
+
 ## 1. Force Buildup Goals
+
 Following the military strategy and the force buildup direction towards “technology
 oriented, [W/EW superiorities, | joint interdiction and homeland defense,” the ROC
 Armed Forces continues to establish fundamental as well as asymmetric capabilities
@@ -736,7 +788,9 @@ All Coast Guard Administration (CGA) ISR assets, such as vessels, radar sites,
 UAVs, and electronic surveillance platforms, are integrated with the ROC Armed
 Forces to seamlessly monitor adversarial activities, obtain early warning information
 in airspace and maritime region to react to contingencies in-time.
+
 ## 2. Combat Training and Preparations
+
 (1) Establishing a realistic combat training regime
 > Current threats of the enemy and settings of our defense operations are incorporated
 into realistic combat training scenarios, which will be strictly rehearsed and
@@ -786,7 +840,9 @@ combined with flexible application of basic and asymmetric capabilities and accu
 to a new battlefield environment. The purpose is to make the PRC to face unacceptable
 consequences if it were to initiate a military conflict and thus deter its intention to wage a
 war.
+
 ## 1. Actively Developing Asymmetric Capabilities
+
 (1) Asymmetric warfare is about “evading enemy’s strengths and exploiting their
 z
 weaknesses.” The ROC Armed Forces continues to construct asymmetric
@@ -813,6 +869,7 @@ asymmetric tactics and skills, and reach training benchmarks. Han Kuang series
 exercises continue to be held to validate and re fine the asymmetric capabilities.
 
 ## 2. Creating synergy between Asymmetric and Fundamental Capabilities
+
 (1) Fundamental capabilities can be effective in peacetime air and maritime patrols,
 guarding the homeland, and responding to contingencies. During wartime, they
 can be applied to conduct operations of long-distance interdiction, joint counter air,
@@ -834,7 +891,9 @@ assets into a resilient and intelligent interlinked system for ICE warfare and c
 strengthen the cyberwarfare and EW capabilities, so as to enable real-time battlefield
 information, effective battlefield management, and improved effectiveness of joint
 operations.
+
 ## 1. Improving ISR Systems
+
 (1) The ROC Armed Forces continues to improve and integrate major ISR assets and
 a
 its datalinks, so as to expand the surveillance range, optimize
@@ -856,7 +915,9 @@ assets.
 surveillance and reconnaissance that are more survivable, highly efficient and easily
 deployable to monitor target activities in the battlefield and create an asymmetric
 operational advantage.
+
 ## 2. Introducing Intelligent C2 Systems
+
 (1) The ROC Armed Forces continues to integrate surveillance assets, C2 nodes, and
 weapon platforms of the services, to obtain real-time battlefield intelligence and
 improve the C2 effectiveness to unify the comprehensive power.
@@ -866,6 +927,7 @@ to provide automated operational evaluation and smart decision-making advice,
 speed up operational responses, and strengthen C2 effectiveness ofjoint operations.
 
 ## 3. Sharpening [W and EW Capabilities
+
 (1) Cyberwarfare, electronic, surveillance and countermeasure, and secured C2
 capabilities continue to be strengthened to support military operations.
 (2) Intelligent cyberwarfare capabilities continue to be sharpened and applied in the
@@ -887,7 +949,9 @@ reliant defense and policy of outsourcing to the private sector, the ROC Armed F
 is outsourcing the maintenance of operational assets and using civilian resources for
 force preservation, so as to reduce the cost of logistic support and maintain the major
 operational assets effectively.
+
 ## 1. Enhancing the Precision-Driven Logistic Capacities
+
 (1) Integrating maintenance resources
 a
 » According to the general cycle of maintenance, we divide it into long-term, mid-
@@ -919,7 +983,9 @@ that weapons and equipment are readily available for joint operation missions.
 operation of all military units in real-time, so as to provide active and forward
 maintenance support and supplies, streamline logistic processes, and offer fast and
 efficient logistic support.
+
 ## 2. Establishing Civ-Mil Logistic Cooperation System
+
 (1) Outsourcing maintenance activities
 Under the precondition of retaining core maintenance capabilities in the military,
 the ROC Armed Forces has been established outsourcing pathways for commercial
@@ -939,7 +1005,9 @@ reforming the reserve system and review and refine the organization, force struc
 training, and equipping of the reserve force. The objective is “being ready to fight when
 mobilized” and a close cooperation with the regular force to effectively exert all-out
 defense and the potential of the total force.
+
 ## 1. Merging Individual Mobilization Units
+
 Following the guidance of “unity of regular and reserve forces,” individual
 mobilization offices in charge are merged to plan, implement, and oversee the
 =
@@ -951,21 +1019,27 @@ operations. Mobilization offices are set up in each service and theater of opera
 &
 coordinate between the regular and reserve force in defensive operations.
 -
+
 ## 2. Strengthening the Reserve Force
+
 According to operational requirements of the ROC Armed Forces, reservists are
 categorized into three mission types: garrisoned in beachhead, operational depth and urban
 terrain, and HVT protection. All theaters of operations and air/naval bases are assigned
 with reserve units for HVT protection. The reserve force,
 the Special Police forces and
 civil defense units will execute the joint missions to secure critical infrastructures.
+
 ## 3. Reinforcing Recall Training
+
 To preserve a fair and just military service system, achieve purposeful and adequate
 manning, and follow the requirements for homeland defense operations, practical training
 courses of beachhead garrisoning, urban warfare, anti-airborne, and HVT protection
 are provided to recalled reservists, whose allowances, benefits, insurances, and rewards
 for their employees continue to be raised and upgraded, so as to protect their rights and
 benefits and inspire their morale.
+
 ## 4. Improving Equipping
+
 Based on the TO&E, the reserve force are equipped by supplies from balancing
 out with horizontal units, warehouse stocks, refurbished items, items transferred from
 the regular force, commandeered items, and acquisition programs. The equipping is
@@ -1124,7 +1198,9 @@ honor, efficiency, and execution of orders. To inherit and magnify these virtues
 to push for various reform initiatives and efforts to optimize our force management system,
 strengthen the functions of defense organizations, better solidify internal unity, to improve
 the entire quality of the military troops.
+
 ## 1. Enhancing Quality of Leadership
+
 (1) All leadership courses provided in military educational institutions continue to be
 refined across the board with curriculums for new knowledge and skills to improve
 leadership for attendees, enhance the efficiency of force management, so as to shape a
@@ -1139,7 +1215,9 @@ leadership and maintain military discipline.
 an adaptive leadership with the core idea of using “humanity as its essence and
 knowledge as its leverage” to become an “innovative and responsive, caring and
 enlightened, professional and efficient” modern military force.
+
 ## 2. Rectify the Organizational Climate
+
 (1) We continue to enhance our supervision and on-site inspection activities to find
 potential problems, carefully deal with cases of complaints, bring the cases of
 misconduct and negligence to light, and exert punishments on the basis of “criminal
@@ -1158,7 +1236,9 @@ probity, loyalty, and legality for all units.
 study and assist in corruption risk surveys. By promoting civ-mil dialogue and
 cooperation, the ROC Armed Forces will keep pursuing the incorruption and
 transparency of military force.
+
 ## 3. Maintaining Discipline
+
 (1) The goals of current recruitment have been reached, and the ROC Armed Forces
 continues to keep a personnel system stressing high discipline and law-abiding, to
 exert the functions based ona principle of “rigid evaluation and weeding-out,” to
@@ -1191,7 +1271,9 @@ defense force. Under the full support of the government, our voluntary force has
 the goal of 90% manning ratio, and the transformation of the military service system has
 been accomplished. We continue to strengthen the personnel quality and retain an elite and
 competent military power.
+
 ## 1. Maintaining a Sustainable Recruitment and Stable Retention Mechanism
+
 (1) The ROC Armed Forces is attempting to expand more diversified recruiting
 channels, continue to sponsor “reserve officers training corps” (ROTC), “defense-
 specific courses for bachelor’s degree,” and “defense-specific primary courses”
@@ -1206,7 +1288,9 @@ ranks, so as to provide more promising career tracks and retain quality personne
 (3) Complementary measures for recruitment continue to be refined. Occupational and
 retention bonuses remain to be offered to give sufficient incentives to retain young
 personnel to serve and ensure the manning capacities ofall units.
+
 ## 2. Cultivating Modern and Quality Personnel
+
 (1) A personnel appraisal system is established to choose qualified ones for advanced
 studies and occupational courses, and retain competent ones and weed out those
 unfit. Before commissioning, cadets are to be strictly evaluated, so as to provide
@@ -1222,7 +1306,9 @@ excellence.
 research fellows in domestic and foreign think tanks to broaden global views and
 strategic knowledge and expand the talent pool of international affairs and policy
 analysis
+
 ## 3. Connecting with Civil Occupations
+
 (1) Service members are encouraged to off-duty learning
 to acquire diversified
 professions and skills. Retiring members are to be assisted to enroll in occupational
@@ -1244,7 +1330,9 @@ support them with warmth and
 comfort. The MND continues to offer thoughtful caring
 services to improve the quality of living and working for service members, allow them to
 fully concentrate on their duties.
+
 ## 1. Protecting Rights and Well-Being of Service Members
+
 (1) Protecting rights and privileges of service members
 Rights protection Legal cases concerning rights of service members remain to
 be handled properly and justly with the participation of scholars and experts as
@@ -1281,7 +1369,9 @@ The MND continues to provide medical preferential measures for service members
 and their dependents; improve medical services in rural areas, upgrade medical
 technology and equipment of military hospitals, which will gradually reach the level
 of advanced medical centers, and optimize healthcare and medical services.
+
 ## 2. Refining Caring Services for Dependents
+
 (1) Childcare service
 Following the policy of the government to promote public childcare services, the
 MND continues to work with civilian childcare providers to offer better services
@@ -1303,7 +1393,9 @@ operations, and support force buildup and operational preparedness, it is necess
 maintain a steady growth of defense budget, so as to invest sufficient resources in defense
 development to strengthen the comprehensive power of the ROC Armed Forces, and
 demonstrate our self-defense determination.
+
 ## 1. Allocating Defense Finances
+
 (1) Under the principle of “adequate budgeting, effective allocation and application,”
 the MND continues to draft up budgetary plans with thorough considerations of its
 future operational requirements, fiscal conditions, priorities of ongoing programs,
@@ -1332,6 +1424,7 @@ equipment.
 4]
 
 ## 2. Scientifically Assessing Cost-Effectiveness
+
 (1) Cost-effectiveness assessments of military investment programs continue to be
 implemented via scientific and quantified methods of analysis with perspective of
 joint operation planning, so as to maximize the effectiveness of defense resources.
@@ -1352,7 +1445,9 @@ to deepened all-out defense education, release defense-related information, and 
 periodical drills and exercises, so as to strengthen citizen’s consciousness of national
 security. Then let them realize that everyone has reponsibility for national security, and
 give further support to our national defense.
+
 ## 1. All-out Defense Education
+
 (1) The MND continues to coordinate governmental agencies, local governments,
 schools, and civil groups to integrate related resources and strengthen civil-military
 interaction, so as to expand the effectiveness ofall-out defense education.
@@ -1365,7 +1460,9 @@ appreciation from the people.
 diversified means, such as producing topic-specific TV programs, image-building
 video clips, and conducting effective media marketing, which can also elaborate the
 defense policy and enhance all-out defense consensus.
+
 ## 2. All-out Defense Exercises
+
 (1) Defense mobilization exercise
 Min An exercises continue to be held to validate the preparation of mobilization
 and cooperative and coordinating mechanism of civil-government-military, and
@@ -1397,7 +1494,9 @@ to reinforce its capabilities to tackle with non-traditional security challenges
 in HA/DR, anti-epidemic, emergency medical evacuation (MEDEVAC) missions, and
 protection of maritime rights, so as to safeguard the lives, properties, and well-being of the
 people.
+
 ## 1. Disaster Prevention and Response
+
 (1) As stipulated in the Disaster Prevention and Response Act and the Regulation of the
 ROC Armed Forces to Assist in Disaster Prevention and Response, the ROC Armed
 Forces are prepared to conduct HA/DR missions on the basis of having “forward
@@ -1409,7 +1508,9 @@ hazardous potentials in the affected
 region and organize HA/DR resources in normal condition. Once the alarmed is
 triggered, we will provide immediate support to local governments to conduct the
 HA/DR mission and reduce the damage.
+
 ## 2. Anti-Epidemic Responses
+
 (1) The Military Epidemic Command Center (MECC) was established to be a
 coordination and cooperation platform with the central government, so as to improve
 epidemic control and prevention of various diseases and ensure the health condition
@@ -1422,6 +1523,7 @@ services. The ROC Armed Forces is committed to supporting the entire anti-
 epidemic operations, maintaining health and safety ofthe people.
 
 ## 3. Emergence Rescue Support
+
 (1) Without interference with regular mission, the MND directs all forces and military
 medical personnel to assist in urgent MEDEVAC, and continues to enhance
 proficiency training and provide proper equipment, so as to strengthen MEDEVAC
@@ -1430,7 +1532,9 @@ expertise of theROC Armed Forces.
 off, or major festive events, the MND continues to care about the people and provide
 urgent transportation support, coordinated with the Ministry of Transportation, and
 timely assign military transport planes or vehicles to fulfill the urgent needs.
+
 ## 4. Protection of Maritime Rights
+
 (1) Following the assigned responsibilities of ocean management stipulated in the
 National Ocean Policy White Paper, the MND works with associated governmental
 agencies to protect the sovereignty of the offshore islands and the rights of our
@@ -1470,7 +1574,9 @@ goals for R&D efforts of expected weapon systems. Domestic capacities shall be e
 to develop advanced technologies and make critical technological breakthroughs. The
 ROC Armed Forces remains committed to pursuing self-development of weapons and
 equipment, so as to demonstrate the determination for self-defense.
+
 ## 1. Promoting Development of Advanced Technologies
+
 (1) With trends of advanced technological development and demands of defensive
 operations in mind, the MND has planned the short, medium, and long-term
 R&D goals for new weapon systems, and drafted up the guidelines for defense
@@ -1484,7 +1590,9 @@ Ministry of Science and Technology (MOST), to solicit project proposals from
 academic circles in order to tap their expertise to develop advanced technologies
 and make technological breakthroughs, and long-lastingly cultivate talented
 professionals for civ-mil dual-use technologies.
+
 ## 2. Strengthening the connection of Civ-Mil Technologies
+
 (1) As instructed by the Development of Defense Technological Industries Review
 Commission of the EY, the MND continues to unite resources from the MOST,
 the Ministry of Economic Affairs (MOEA), etc., to solidify the connection with
@@ -1506,19 +1614,25 @@ In line with EY’s instruction to foster “5+2 innovative industries,” shipb
 aerospace, and cybersecurity among defense sectors have made phased achievement. With
 its existing foundation, the MND continues to strive for making breakthroughs on key
 technologies and developing next-gen weapons and equipment.
+
 ## 1. Strategy to Push for Domestic Production
+
 According to the force buildup concept, the ROC Armed Forces shall conceive
 short, medium, and long-term goals in terms of domestic production from the top down.
 Evaluation of domestic production capacities shall be conducted to prioritize domestic
 acquisitions, which is beneficial to establish self-reliant defense and meet the future
 operation requirements.
+
 ## 2. Speeding up R&D and Production for New Weapons and Equipmen
+
 Following the force buildup plan, the ROC Armed Forces reviews defense
 technological levels, combine with superior industrial technological capacities, and
 expedite the R&D and production progress of developing new advanced trainer aircrafts,
 main and subsidiary naval vessels, wheeled armored vehicles, missiles, rockets, UAVs,
 radars, ICE assets, and individual combat weapons.
+
 ## 3. Developing Future Weapons and Equipment Sustainably
+
 According to the plan for joint capabilities, the ROC Armed Forces continues
 >
 to develop advanced weapons and equipment, concurrently push for R&D efforts for
@@ -1539,18 +1653,24 @@ industries, the MND continues to optimize favorable conditions for developing de
 industries, expedite the processes of R&D and self-production of weapons, and take the
 lead of technological upgrades, so as to achieve a win-win result of fulfilling the demands
 for national defense and generating economic benefits.
+
 ## 1. Accomplishing Regulations on Defense Industry Development
+
 Abiding by the Defense Industry Development Act and associated regulations, the
 MND conducts level reviews of regulated military materials, and incorporate defense
 companies as potential suppliers, so as to create a supply chain of defense articles and
 expand their market scale.
+
 ## 2. Encouraging Participation of Civil Industries
+
 Civilian companies are encouraged to participate in R&D and production of
 weapons and equipment, and supply chain of defense supplies. The MND attempts to
 expand the defense market scale, raises its self-production rate, exploits superior civilian
 technological capacities, and strengthens its R&D and production efforts for a wide range
 of weapons and equipment.
+
 ## 3. Expanding Defense Industry Scale
+
 The MND continues to release defense resources to domestic suppliers, and actively
 provide assistances aiming to raise their technical level to overcome the gaps, and
 ultimately construct a self-reliant national defense.
@@ -1561,20 +1681,26 @@ cooperation (offset) and local superior industrial technologies into establishme
 the supply chain for defense industry. Throughout the efforts of gradually improving
 self-production rate for critical modular components, local supply and self-sufficient
 maintenance abilities could be constructed.
+
 ## 1. Realizing Offset Mechanism
+
 As instructed by the President to “effectively exploit offset resources to stimulate
 industrial development,” the MND employs the offset mechanism to strive for transfer
 of key technologies, promotes cooperation between domestic and foreign suppliers, and
 assists to join the OEM (original equipment manufacturers) supply chain, so as to establish
 maintenance for depot level and production capacities, upgrade our domestic industries,
 and boost the strength of self-reliant defense.
+
 ## 2. Establishing Maintenance Capacities for Military Aircraft
+
 The Aerospace Industrial Development Corporation (AIDC), being the lead
 contractor of F-16 Maintenance Center, integrates domestic industrial capacities and
 shortens maintenance schedule, so as to satisfy our demands for self-reliant maintenance
 capacity, improve readiness for all assets, ensure air defense capabilities, and expand
 growth drivers for defense industry.
+
 ## 3. Integrating Local Industrial Technologies
+
 Through development programs for new aircraft, vessels, and armored vehicles,
 z
 the MND constructs a system for domestic design, production, and maintenance, so as
@@ -1638,7 +1764,9 @@ using diversified media channels to clarify false information, clear doubts or a
 in the society and solidify mental defense of the people and service members. Meanwhile,
 strategic communication is also conducted to make timely clarification and win the
 understanding and support from the international community.
+
 ## 1. Cognitive Warfare Conducted by the PRC
+
 (1) The purposes of PRC’s cognitive warfare
 Politically, it is used to suppress Taiwan’s international space, and compel to accept
 PRC’s political demands. Economically, it is used to make the most of commerce
@@ -1658,6 +1786,7 @@ and mixed with real information to be believable, and funneled through diversifi
 circulation channels.
 
 ## 2. Building Countermeasures
+
 (1) Making the best of technological toolkits
 The MND makes use of new technological toolkits such as big data systems to
 predict the patterns of PRC threats and possible means of cognitive warfare, filter
@@ -1692,7 +1821,9 @@ challenges to cybersecurity. The enemy can manipulate applicable !W means to inf
 and sabotage major networking systems and influence daily routines and social orders.
 The ROC Armed Forces operates all cybersecurity management mechanisms in place, and
 strengthens protection capacities and raises a secure barrier against I W threats.
+
 ## 1. IW of the PRC
+
 (1) Over the years, the PRC has completed military reorganization and has been
 aggressively improving its capability for cyber operations. At this stage, the PRC
 has placed its IW focus on gathering intelligence through its cyber force, grabbing
@@ -1703,7 +1834,9 @@ operations.
 information infrastructure and military-related information systems to disrupt
 Taiwan governmental operations, cause disabilities towards military and police
 force, and severely impact national security and social stability.
+
 ## 2. Optimizing Cybersecurity and Information Protection
+
 (1) The ROC Armed Forces Cybersecurity and Information Protection Center is in
 charge of monitoring military networking activities in full-time, and continues
 to enhance system efficiency. The Center, with redundant backups, has been
@@ -1740,7 +1873,9 @@ using various military intrusion and provocation activities to probe our early w
 capabilities and reactions and continues with its military coercive actions. With a rock-
 solid preparedness, the ROC Armed Forces integrates comprehensive capabilities and
 maintains constant vigilance to deal with any possible contingencies.
+
 ## 1. PRC’s Harassment Means
+
 The PRC imposes gray zone harassments and coercive effects across the Taiwan
 Strait via various activities such as repeatedly assigning aircraft and vessels, conduct drills
 and exercises. These activities are categorized as follows:
@@ -1773,7 +1908,9 @@ By building tactical training bases with facilities mocking Taiwan targets and
 demarcating no-fly zones to conduct joint landing exercises and various simulated
 drills of invasion against Taiwan, the PLA has been increasing the intensity of
 practical operational training and coercion against Taiwan.
+
 ## 2. Enhancing Responses
+
 Facing various intrusions and provocations initiated by the PRC, the ROC Armed
 Forces follows the guidance of “Absolutely No Concession on Sovereignty; No Backing
 Away from Democracy and Freedom” to steadfastly demonstrate our determination and
@@ -1923,25 +2060,33 @@ geostrategic significance where restrain PRC’s watercourses through the island
 Facing PRC’s growing ambition to expand its external influence, Taiwan continues to act
 as a key partner for regional security and demonstrate its indispensable role in strategic
 perspectives.
+
 ## 1. Protecting the Value of Democracy and Freedom
+
 As a model of democracy and freedom in the Indo-Pacific region, Taiwan is a
 trustworthy partner in the international community, and will continue to seek alliance
 of common values and strive for international security cooperation and dialogue, so as
 to jointly curb the damages on the values of democracy and freedom caused by PRC’s
 military expansion and cognitive warfare, and maintain security, peace, and stability in the
 region.
+
 ## 2. Ensuring Security Around the Taiwan Strait
+
 A firm existence of Taiwan represents the first line of defense against the expansion
 and invasion of totalitarian regimes. The ROC Armed Forces is dedicated to force
 buildup and combat readiness to raise defense capabilities, applying to ensure the security
 around the Taiwan Strait, maintain smooth air and maritime transportation, and push for
 sustainable prosperity for the Indo-Pacific region.
+
 ## 3. Sharing Strategic Intelligence and Early Warning
+
 Taiwan, located at a strategic position on the first island chain in the Western Pacific,
 maintains full time vigilance to seamlessly monitor movements and signs of PLA forces. A
 mechanism of mutual security recognition and strategic early warning will be constructed
 through cooperation with allies.
+
 ## 4. Maintaining Regional Maritime Security
+
 Taiwan is surrounded by sea, so shares maritime security interests with countries
 in the Indo-Pacific region. The ROC Armed Forces, following the International Law of
 the Sea and governmental policies, work with related governmental agencies to secure
@@ -1949,6 +2094,7 @@ our rights of territorial waters and exclusive economic zones (EEZ), and have jo
 maintenance with all countries for the maritime security in the region.
 
 ## 5. Constructing a Joint Digital Defense for Cybersecurity
+
 Taiwan has advanced capabilities of information technologies and practical
 experiences in cyber defense. The MND follows the instruction by the government and
 seizes the opportunities when the global supply chain of high-tech products is under
@@ -1966,7 +2112,9 @@ Taiwan continues to strive for the participation of security framework and dialo
 mechanism among the Indo-Pacific region, deepen military exchanges with the U.S. and
 other friendly countries, and establish the strategic partnership to collectively maintain
 regional security.
+
 ## 1. Military Exchanges
+
 (1) Taiwan-U.S. military exchange and cooperation
 The U.S. is our most important strategic partner. The defense and military exchange
 and cooperation with the U.S. are vital to the security around the Taiwan Strait.
@@ -1984,7 +2132,9 @@ friendly countries through mutual visits, topic-specific seminars, observation o
 exercises and drills, cybersecurity, military medicine, and striving for assigning
 military representatives, to expand bilateral and multilateral cooperation and solidify
 the bond with friendly countries around the world.
+
 ## 2. International Strategic Communication
+
 (1) Promoting exchange with think tanks
 The MND and the Institute for National Defense and Security Research (INDSR)
 continue to promote international think tank exchange and strengthen dialogue
@@ -1999,6 +2149,7 @@ and contribution to regional security through international participation, such 
 earning good performance under the Government Defense Integrity Index (GDI)
 surveys. It demonstrates a modern and clean image of the ROC Armed Forces to
 bind the defense policies with internationally recognized standards.
+
 #
 
 Propelling Non-traditional Security Cooperation
@@ -2008,24 +2159,32 @@ taken the responsibility to deal with sudden and non-traditional threats. As a c
 world, the ROC Armed Forces are willing to share experiences and build up new military
 capabilities through international exchanges, so as to collectively decrease the damages
 caused by these threats and pursue the security and well-being for the humanity.
+
 ## 1. Cross-border Epidemic Prevention
+
 Taiwan is recognized by many countries for its exceptional anti-pandemic
 achievements upon the rage of COVID-19. The MND will give impetus to establishment
 of communication mechanisms with other countries on the topics of preventive medicine,
 biosafety, and epidemic control, etc., in attempt to expand the cooperation on cross-border
 prevention of infectious diseases.
+
 ## 2. HA/DR
+
 The MND continues to promote HA/DR exchanges and establish cooperation models
 with the international community to share capacities and experiences of the ROC Armed
 Forces.
+
 ## 3. International Counterterrorism
+
 Throughout participation of training programs provided by friendly nations and the
 annual conference of International Special Operations Forces, and establishment of a task
 force for exchanges on special operations, Taiwan enhances international cooperation on
 counterterrorism to maintain border security.
 
 e
+
 ## Conclusion
+
 Facing the upcoming complex security situations in Taiwan Strait and the region,
 Taiwan must to persistently fortify its comprehensive national power. In addition to
 managing diplomatic and Cross-Strait relations cautiously, maintaining a solid and
@@ -2058,8 +2217,11 @@ Republic of China, Quadrennial Defense Review Editing Committee.
 : Ministry of National Defense, March 2021
 21.0X29.7cm
 ISBN 978-986-5446-71-0 (Paperback)
-## 1. National Defense
+
+1. National Defense
+
 ## 2. Republic of China
+
 2021 Quadrennial Defense Review Editorial Committee
 Chairperson
 : Chiu, Kuo-Cheng

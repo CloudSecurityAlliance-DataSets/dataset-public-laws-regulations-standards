@@ -1,8 +1,5 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Guide to Developing a National Cybersecurity Strategy (1st Edition, 2018)","","",""
-"2","","GUIDE TO DEVELOPING","","",""
-"2","","A NATIONAL CYBERSECURITY","","",""
-"2","","STRATEGY","","",""
 "2","","STRATEGIC ENGAGEMENT IN CYBERSECURITY","","","A
 
 N
@@ -265,8 +262,9 @@ In particular, Section 3 addresses the process and aspects related to the develo
 "3","1.4","Target audience","numbered","","This Guide is first and foremost targeted at policy-makers responsible for developing a National Cybersecurity Strategy. The secondary audience are all the other public and private stakeholders involved in the development and implementation of a Strategy, such as responsible government staff, regulatory authorities, law enforcement, ICT providers, critical infrastructure operators, civil society, academia and research institutions. The Guide could also prove useful to the different stakeholders in the international development community, who provide assistance in cybersecurity.
 
 2"
-"2","","Introduction","","",""
-"2","","Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic","","","and social opportunities.
+"2","","Introduction","","","Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic
+
+and social opportunities.
 
 Since its creation, the Internet has evolved from an information-exchange platform to become the backbone of modern business, critical services and infrastructure, social networks, and the global economy as a whole. As a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.
 
@@ -299,8 +297,7 @@ A National Cybersecurity Strategy also provides the opportunity to align cyberse
 Finally, a National Cybersecurity Strategy development process should translate a government’s vision into coherent and implementable policies that will help it achieve its objectives. This includes not only the steps, programmes and initiatives that should be put in place, but also the resources allocated for those efforts and how these resources should be used. Similarly, the process should identify the metrics that will be used to help ensure that desired outcomes are achieved within set budgets and timelines.
 
 3"
-"2","","Lifecycle of a National Cybersecurity Strategy","","",""
-"2","","This Section provides an overview of the various phases in the development of a Strategy, which include:","","","• Phase I – Initiation
+"2","","Lifecycle of a National Cybersecurity Strategy — This Section provides an overview of the various phases in the development of a Strategy, which include:","","","• Phase I – Initiation
 
 • Phase II – Stocktaking and analysis
 
@@ -555,9 +552,7 @@ Ultimately, the reports produced over the lifecycle of the Strategy should also 
 Further references available on page 55.
 
 4"
-"2","","Overarching principles","","",""
-"2","","This Section presents nine cross-cutting","","",""
-"2","","principles, which taken together can help in the development of a forward-looking and holistic","","","National Cybersecurity Strategy.
+"2","","Overarching principles — This Section presents nine cross-cutting — principles, which taken together can help in the development of a forward-looking and holistic","","","National Cybersecurity Strategy.
 
 These principles are applicable to all key focus areas identified in this document. They should be considered in all steps of a National Strategy development process, from the drafting of the National Strategy document to its implementation.
 
@@ -637,9 +632,7 @@ Building trust in the national digital ecosystem, in which users’ rights and i
 Further references available on page 59.
 
 5"
-"2","","National Cybersecurity Strategy Good Practice","","",""
-"2","","Cybersecurity affects many areas of socio-","","",""
-"2","","economic development and is influenced by","","","several factors within the national context.
+"2","","National Cybersecurity Strategy Good Practice — Cybersecurity affects many areas of socio-","","","economic development and is influenced by several factors within the national context.
 
 Therefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.
 
@@ -860,8 +853,7 @@ Notable examples of existing international efforts that could be considered as p
 Further references available on page 66.
 
 6"
-"2","","Reference materials","","",""
-"2","","In the process of developing this Guide, a stocktaking of existing guides and best","","","practices was conducted.
+"2","","Reference materials","","","In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.
 
 This allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links.
 

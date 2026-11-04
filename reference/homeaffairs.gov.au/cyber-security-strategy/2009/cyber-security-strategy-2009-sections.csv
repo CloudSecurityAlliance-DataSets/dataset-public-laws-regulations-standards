@@ -1,6 +1,5 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Australian Government Cyber Security Strategy 2009","","",""
-"2","","Cyber Security Strategy","","",""
 "2","","MINISTER’S FOREWORD","","","Australians have been quick to embrace the Internet in their lives and businesses. For most of us it is now part of our daily routine for talking to our friends and family, studying, shopping and paying bills. Equally, business has adopted the Internet and other information technology to improve efficiency, improve the quality of service and gain access to new markets.
 
 Unfortunately our use of the Internet has also created new opportunities for criminals who seek to access our personal and corporate secrets, steal our resources and intimidate Internet dependent businesses. The Prime Minister in his 2008 National Security Statement to Parliament acknowledged that online threats now form one of our top tier national security priorities.
@@ -362,9 +361,7 @@ The Australian Government is working with control systems owners and operators t
 The Australian Government, through CERT Australia, operates trusted information exchanges with the owners and operators of control systems. This enables government and business to share sensitive and detailed technical security information, thereby building a greater understanding of the control systems environment and its threats.
 
 CERT Australia is also partnering with Australian academic organisations, such as Edith Cowan University, on vulnerability and mitigation research programs looking at initiatives such as smartgrids and smart metering technologies and their security implications."
-"3","","OBJECTIVE THREE: THE AUSTRALIAN GOVERNMENT ENSURES ITS INFORMATION AND","","","COMMUNICATIONS TECHNOLOGIES ARE SECURE AND RESILIENT
-
-The ICT systems of government and the information contained within them are a strategic national asset. The Australian Government therefore has a clear responsibility for ensuring the security and resilience of its own ICT, including protecting the information it holds about Australian people and organisations.
+"3","","OBJECTIVE THREE: THE AUSTRALIAN GOVERNMENT ENSURES ITS INFORMATION AND COMMUNICATIONS TECHNOLOGIES ARE SECURE AND RESILIENT","","","The ICT systems of government and the information contained within them are a strategic national asset. The Australian Government therefore has a clear responsibility for ensuring the security and resilience of its own ICT, including protecting the information it holds about Australian people and organisations.
 
 The Australian Government can only protect its information and ICT from threats and vulnerabilities that it has identified. It is critical that the Australian Government is proactive in identifying and understanding these threats and vulnerabilities to ensure the development of appropriate mitigation strategies.
 
@@ -402,9 +399,7 @@ The United States Department of Homeland Security sponsors a series of large sca
 In March 2008, 56 Australian organisations from across government and the private sector participated in the second large-scale international cyber exercise, Cyber Storm II, along with a broad range of government and non-government organisations from the United States, Canada, New Zealand and the United Kingdom. This exercise provided an opportunity for stakeholders across the spectrum of cyber security and critical infrastructure in Australia to test their disaster recovery, communications and technical response processes to a cyber security event.
 
 Australia will participate in Cyber Storm III to be held in late September 2010."
-"3","","PRIORITY: CULTURAL CHANGE – EDUCATE AND EMPOWER ALL AUSTRALIANS WITH THE","","","INFORMATION, CONFIDENCE AND PRACTICAL TOOLS TO PROTECT THEMSELVES ONLINE
-
-Australians use ICT for a wide variety of purposes and at an ever-increasing rate. In order to ensure their personal and financial information and their identity and privacy are protected, it is essential that they maintain an awareness and understanding of the cyber environment and its risks.
+"3","","PRIORITY: CULTURAL CHANGE – EDUCATE AND EMPOWER ALL AUSTRALIANS WITH THE INFORMATION, CONFIDENCE AND PRACTICAL TOOLS TO PROTECT THEMSELVES ONLINE","","","Australians use ICT for a wide variety of purposes and at an ever-increasing rate. In order to ensure their personal and financial information and their identity and privacy are protected, it is essential that they maintain an awareness and understanding of the cyber environment and its risks.
 
 This priority covers initiatives to conduct education and awareness raising activities to promote a culture of cyber security amongst all Australian ICT users.
 
@@ -441,9 +436,7 @@ The AISI collects data from various sources on computers exhibiting ‘bot’ be
 There are 71 ISPs that participate in the program (as at October 2009). ACMA intends to progressively increase the number of ISPs participating in the AISI to ensure that more compromised hosts on the Australian Internet are identified and their owners notified of the compromise.
 
 More information on the AISI can be found at www.acma.gov.au"
-"3","","PRIORITY: BUSINESS-GOVERNMENT PARTNERSHIPS – PARTNER WITH BUSINESS TO","","","PROMOTE SECURITY AND RESILIENCE IN INFRASTRUCTURE, NETWORKS, PRODUCTS AND SERVICES
-
-The Australian Government recognises that the economic and social wellbeing, national security and defence of Australia is often dependent upon systems that are owned and operated outside the Australian Government.
+"3","","PRIORITY: BUSINESS-GOVERNMENT PARTNERSHIPS – PARTNER WITH BUSINESS TO PROMOTE SECURITY AND RESILIENCE IN INFRASTRUCTURE, NETWORKS, PRODUCTS AND SERVICES","","","The Australian Government recognises that the economic and social wellbeing, national security and defence of Australia is often dependent upon systems that are owned and operated outside the Australian Government.
 
 This priority therefore recognises that government and business must work together to provide more secure products and services and maintain their ICT systems in ways that ensure the privacy and security of customer information. It recognises that ISPs, in particular, occupy a unique position at the gateway to Australians’ access to the Internet and therefore need to be a key partner in the Australian Government’s efforts to maximise the cyber security of all Australians.
 
@@ -706,5 +699,6 @@ The Cyber Security Policy and Coordination (CSPC) Committee is the Australian Go
 
 • coordinates the response to cyber security events, noting that its coordination and policy functions do not extend to the oversight of operations, and
 
-• coordinates Australian Government cyber security policy internationally."
-"2","","www.ag.gov.au/cybersecurity","","",""
+• coordinates Australian Government cyber security policy internationally.
+
+www.ag.gov.au/cybersecurity"

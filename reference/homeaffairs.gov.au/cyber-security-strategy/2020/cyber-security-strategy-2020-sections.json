@@ -5,15 +5,7 @@
     "section_name": "Australia's Cyber Security Strategy 2020",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "AUSTRALIA’S CYBER SECURITY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "AUSTRALIA’S CYBER SECURITY"
   },
   {
     "depth": 2,
@@ -21,15 +13,7 @@
     "section_name": "STRATEGY 2020",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "© Commonwealth of Australia 2020",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "With the exception of the Commonwealth Coat of Arms, all material presented in this publication is provided under a Creative Commons Attribution 4.0 International license at:\n\nhttps://creativecommons.org/licenses/by/4.0/legalcode.\n\nThis means this license only applies to material as set out in this document.\n\nThe details of the relevant license conditions are available on the Creative Commons website at:\n\nhttps://creativecommons.org/ as is the full legal code for the CC BY 4.0 license at https://creativecommons.org/licenses/by/4.0/legalcode."
+    "body": "© Commonwealth of Australia 2020\n\nWith the exception of the Commonwealth Coat of Arms, all material presented in this publication is provided under a Creative Commons Attribution 4.0 International license at:\n\nhttps://creativecommons.org/licenses/by/4.0/legalcode.\n\nThis means this license only applies to material as set out in this document.\n\nThe details of the relevant license conditions are available on the Creative Commons website at:\n\nhttps://creativecommons.org/ as is the full legal code for the CC BY 4.0 license at https://creativecommons.org/licenses/by/4.0/legalcode."
   },
   {
     "depth": 4,
@@ -37,15 +21,7 @@
     "section_name": "Contact us",
     "id_kind": "",
     "parent_id": "",
-    "body": "Enquiries regarding the licence and any use of this document are welcome at: Cyber, Digital and Technology Policy Division Department of Home Affairs 4 National Circuit Barton ACT 2600\n\ncybersecuritystrategy@homeaffairs.gov.au\n\nP - 20-02344"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "AUSTRALIA’S CYBER SECURITY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Enquiries regarding the licence and any use of this document are welcome at: Cyber, Digital and Technology Policy Division Department of Home Affairs 4 National Circuit Barton ACT 2600\n\ncybersecuritystrategy@homeaffairs.gov.au\n\nP - 20-02344\n\nAUSTRALIA’S CYBER SECURITY"
   },
   {
     "depth": 2,
@@ -53,15 +29,7 @@
     "section_name": "Table of Contents",
     "id_kind": "",
     "parent_id": "",
-    "body": "Minister’s foreword\b 4\n\nAustralia’s Cyber Security Strategy 2020: At a glance\b 6\n\nOverview\b 7\n\nThe threat environment\b 10\n\nConsultation\b 15\n\nOur strategy\b 18\n\nOur response\b 21\n\nAction plan\b 39\n\nImplementation and measuring progress\b 44\n\nAppendix A: Cyber Security Strategy 2020 Funding Commitments\b 47"
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Minister’s foreword",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Ensuring Australians are secure online is a shared responsibility – everyone has a role to play. This Strategy sets out our plan to protect Australians online.\n\nThe world has never been more interconnected; our reliance on the internet for our prosperity and way of life never greater. Australia’s response to the COVID-19 pandemic has shown the importance of secure online connectivity. It has also shown Australians’ resilience and resolve to work together for a common goal. That same whole-of-nation partnership between government, businesses and the community must also be applied to ensuring Australia is cyber secure.\n\nAustralians are rightfully seizing the opportunities of our digital world. However, as the opportunities have increased, so too have cyber threats. Well-equipped and persistent state-sponsored actors are targeting critical infrastructure and stealing our intellectual property.\n\nCyber criminals are also doing great harm, infiltrating systems from anywhere in the world, stealing money, identities and data from unsuspecting Australians. They are taking advantage of COVID-19 to target families and businesses, including health and medical research facilities. And they are hiding on the dark web to traffic drugs and other illicit goods, and share abhorrent images of child abuse. Our response must be bold to meet this threat head on.\n\nThis Strategy positions us to meet these evolving threats. Our vision is a more secure online world for Australians, their businesses and the essential services upon which we all depend. We will deliver this vision together, through complementary action by governments, businesses and the community. Through this Strategy the Coalition Government will invest $1.67 billion over ten years in cyber security – the largest ever financial commitment to cyber security. We will develop new Government capabilities, incentivise industry to protect themselves and their customers, build trust in the digital economy, and support the community to be secure online.\n\nThis Strategy will benefit all Australians. Families and businesses will have increased access to reliable cyber security advice and assistance. The Coalition Government will boost law enforcement’s capacity to combat cyber criminals, improve threat information sharing with industry and support initiatives to grow a skilled cyber workforce. Working in partnership with owners of critical infrastructure, the Government will bolster protecting the critical systems on which all Australians depend.\n\nOur work on ensuring Australia is cyber secure does not end here. This Strategy takes into account that effective cyber security will require an ongoing effort by all of us. The Coalition Government will continue to engage industry, state and territory governments and the public to ensure that initiatives under this Strategy support economic recovery through strong cyber resilience.\n\nThis Strategy was developed with the assistance and input of the many Australians who participated in the public consultation. I would like to thank them and the Industry Advisory Panel chaired by Telstra Chief Executive Officer Andy Penn for their commitment, enthusiasm and sound advice, which has been fundamental to developing this Strategy.\n\nThe Hon Peter Dutton MP Minister for Home Affairs 6 August 2020"
+    "body": "Minister’s foreword  4\n\nAustralia’s Cyber Security Strategy 2020: At a glance  6\n\nOverview  7\n\nThe threat environment  10\n\nConsultation  15\n\nOur strategy  18\n\nOur response  21\n\nAction plan  39\n\nImplementation and measuring progress  44\n\nAppendix A: Cyber Security Strategy 2020 Funding Commitments  47\n\nMinister’s foreword\n\nEnsuring Australians are secure online is a shared responsibility – everyone has a role to play. This Strategy sets out our plan to protect Australians online.\n\nThe world has never been more interconnected; our reliance on the internet for our prosperity and way of life never greater. Australia’s response to the COVID-19 pandemic has shown the importance of secure online connectivity. It has also shown Australians’ resilience and resolve to work together for a common goal. That same whole-of-nation partnership between government, businesses and the community must also be applied to ensuring Australia is cyber secure.\n\nAustralians are rightfully seizing the opportunities of our digital world. However, as the opportunities have increased, so too have cyber threats. Well-equipped and persistent state-sponsored actors are targeting critical infrastructure and stealing our intellectual property.\n\nCyber criminals are also doing great harm, infiltrating systems from anywhere in the world, stealing money, identities and data from unsuspecting Australians. They are taking advantage of COVID-19 to target families and businesses, including health and medical research facilities. And they are hiding on the dark web to traffic drugs and other illicit goods, and share abhorrent images of child abuse. Our response must be bold to meet this threat head on.\n\nThis Strategy positions us to meet these evolving threats. Our vision is a more secure online world for Australians, their businesses and the essential services upon which we all depend. We will deliver this vision together, through complementary action by governments, businesses and the community. Through this Strategy the Coalition Government will invest $1.67 billion over ten years in cyber security – the largest ever financial commitment to cyber security. We will develop new Government capabilities, incentivise industry to protect themselves and their customers, build trust in the digital economy, and support the community to be secure online.\n\nThis Strategy will benefit all Australians. Families and businesses will have increased access to reliable cyber security advice and assistance. The Coalition Government will boost law enforcement’s capacity to combat cyber criminals, improve threat information sharing with industry and support initiatives to grow a skilled cyber workforce. Working in partnership with owners of critical infrastructure, the Government will bolster protecting the critical systems on which all Australians depend.\n\nOur work on ensuring Australia is cyber secure does not end here. This Strategy takes into account that effective cyber security will require an ongoing effort by all of us. The Coalition Government will continue to engage industry, state and territory governments and the public to ensure that initiatives under this Strategy support economic recovery through strong cyber resilience.\n\nThis Strategy was developed with the assistance and input of the many Australians who participated in the public consultation. I would like to thank them and the Industry Advisory Panel chaired by Telstra Chief Executive Officer Andy Penn for their commitment, enthusiasm and sound advice, which has been fundamental to developing this Strategy.\n\nThe Hon Peter Dutton MP Minister for Home Affairs 6 August 2020"
   },
   {
     "depth": 2,
@@ -117,15 +85,7 @@
     "section_name": "Strong foundations",
     "id_kind": "",
     "parent_id": "",
-    "body": "The 2016 Cyber Security Strategy set out the Australian Government’s plan to meet the dual challenges of the digital age – advancing and protecting Australia’s interests online. The Australian Government backed the 2016 Strategy with a $230 million investment.\n\nFeedback from businesses and the community showed that the 2016 Strategy strengthened Australia’s cyber security foundations, stimulated private sector investment in the domestic cyber security industry, and positioned Australia as a regional cyber security leader. Key achievements include:\n\n— Opening the Australian Cyber Security Centre (ACSC)\n\n— Establishing Joint Cyber Security Centres (JCSCs) to engage state and territory governments and industry\n\n— Increasing cyber skills and education investments\n\n— Establishing the 24/7 Global Watch\n\n— Appointing the Ambassador for Cyber Affairs\n\n— Establishing AustCyber, the Australian Cyber Security Growth Network, and the Cyber Security Cooperative Research Centre.\n\nThis Strategy will build on initiatives that began in 2016, including the ACSC and JCSCs."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Australia’s landmark 2016 Cyber Security Strategy has been a catalyst for change, launching a series of government and private sector activities and responses to cyber security and cyber crime challenges.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Palo Alto Networks Public submission to the Cyber Security Strategy 2020"
+    "body": "The 2016 Cyber Security Strategy set out the Australian Government’s plan to meet the dual challenges of the digital age – advancing and protecting Australia’s interests online. The Australian Government backed the 2016 Strategy with a $230 million investment.\n\nFeedback from businesses and the community showed that the 2016 Strategy strengthened Australia’s cyber security foundations, stimulated private sector investment in the domestic cyber security industry, and positioned Australia as a regional cyber security leader. Key achievements include:\n\n— Opening the Australian Cyber Security Centre (ACSC)\n\n— Establishing Joint Cyber Security Centres (JCSCs) to engage state and territory governments and industry\n\n— Increasing cyber skills and education investments\n\n— Establishing the 24/7 Global Watch\n\n— Appointing the Ambassador for Cyber Affairs\n\n— Establishing AustCyber, the Australian Cyber Security Growth Network, and the Cyber Security Cooperative Research Centre.\n\nThis Strategy will build on initiatives that began in 2016, including the ACSC and JCSCs.\n\n“Australia’s landmark 2016 Cyber Security Strategy has been a catalyst for change, launching a series of government and private sector activities and responses to cyber security and cyber crime challenges.”\n\nPalo Alto Networks Public submission to the Cyber Security Strategy 2020"
   },
   {
     "depth": 4,
@@ -133,15 +93,7 @@
     "section_name": "The threat environment",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“The consequence of attacks are increasing in severity, as information systems become more central to business and society.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Sapien Cyber Public submission to the Cyber Security Strategy 2020\n\n11 Cyber security is at the heart of the transition to a digital society. Cyber security is a key pillar in ensuring a trusted and secure digital economy, giving confidence to all participants and allowing businesses to prosper and thrive. The rapid and widespread uptake of digital technology by households and businesses following the COVID-19 pandemic underscores the importance of digital technology as an economic enabler. Millions of Australians are working from home, staying connected through apps and using essential digital services such as telehealth. Many bricks and mortar businesses are moving online for the first time – exemplified by revenue for the online shopping industry surging by 21.8% in March 2020 when viewed in year-on-year terms.1\n\n12 To maximise the benefits of digital transformation, Australians must understand and address the threats that it can bring. Malicious cyber activity is one of the most significant threats impacting Australians. Between 1 July 2019 and 30 June 2020, the ACSC responded to 2,266 cyber security incidents at a rate of almost six per day. This does not include other incidents referred to the police and support organisations. The true volume of malicious activity in Australia is likely to be much higher. According to one expert analysis, cyber incidents targeting small, medium and large Australian businesses can cost the economy up to $29 billion per year, or 1.9% of Australia’s gross domestic product (GDP).2 Further, it is estimated that a four week interruption to digital infrastructures resulting from a significant cyber incident would cost the economy $30 billion (1.5% of Australia’s Gross Domestic Product) and around 163,000 jobs.3\n\n1 National Australia Bank (2020), NAB Online Retail Sales Index March 2020, available at https://business.nab.com.au/wp-content/ uploads/2020/05/NAB-Online-Retail-Sales-Index-MAR20.pdf\n\n2 Microsoft and Frost & Sullivan (2018), Understanding the Cybersecurity Threat Landscape in Asia Pacific: Securing the Modern Enterprise in a Digital World\n\n3 AustCyber (2020), Australia’s Digital Trust Report 2020, available at https://www.austcyber.com/resource/digitaltrustreport2020\n\nThe COVID-19 pandemic highlighted the evolving nature of cyber threats. Opportunistic cyber criminals quickly adapted their methods to take advantage of more Australians working, studying and connecting online. Between 10 and 26 March 2020, the ACSC received over 45 pandemic themed cybercrime and cyber security incident reports, with the Australian Competition and Consumer Commission’s (ACCC) Scamwatch receiving over 100 reports of COVID-19 themed scams. Campaigns were designed to distribute malicious software (malware) or harvest personal and financial information from unsuspecting Australians."
+    "body": "“The consequence of attacks are increasing in severity, as information systems become more central to business and society.”\n\nSapien Cyber Public submission to the Cyber Security Strategy 2020\n\n11 Cyber security is at the heart of the transition to a digital society. Cyber security is a key pillar in ensuring a trusted and secure digital economy, giving confidence to all participants and allowing businesses to prosper and thrive. The rapid and widespread uptake of digital technology by households and businesses following the COVID-19 pandemic underscores the importance of digital technology as an economic enabler. Millions of Australians are working from home, staying connected through apps and using essential digital services such as telehealth. Many bricks and mortar businesses are moving online for the first time – exemplified by revenue for the online shopping industry surging by 21.8% in March 2020 when viewed in year-on-year terms.1\n\n12 To maximise the benefits of digital transformation, Australians must understand and address the threats that it can bring. Malicious cyber activity is one of the most significant threats impacting Australians. Between 1 July 2019 and 30 June 2020, the ACSC responded to 2,266 cyber security incidents at a rate of almost six per day. This does not include other incidents referred to the police and support organisations. The true volume of malicious activity in Australia is likely to be much higher. According to one expert analysis, cyber incidents targeting small, medium and large Australian businesses can cost the economy up to $29 billion per year, or 1.9% of Australia’s gross domestic product (GDP).2 Further, it is estimated that a four week interruption to digital infrastructures resulting from a significant cyber incident would cost the economy $30 billion (1.5% of Australia’s Gross Domestic Product) and around 163,000 jobs.3\n\n1 National Australia Bank (2020), NAB Online Retail Sales Index March 2020, available at https://business.nab.com.au/wp-content/ uploads/2020/05/NAB-Online-Retail-Sales-Index-MAR20.pdf\n\n2 Microsoft and Frost & Sullivan (2018), Understanding the Cybersecurity Threat Landscape in Asia Pacific: Securing the Modern Enterprise in a Digital World\n\n3 AustCyber (2020), Australia’s Digital Trust Report 2020, available at https://www.austcyber.com/resource/digitaltrustreport2020\n\nThe COVID-19 pandemic highlighted the evolving nature of cyber threats. Opportunistic cyber criminals quickly adapted their methods to take advantage of more Australians working, studying and connecting online. Between 10 and 26 March 2020, the ACSC received over 45 pandemic themed cybercrime and cyber security incident reports, with the Australian Competition and Consumer Commission’s (ACCC) Scamwatch receiving over 100 reports of COVID-19 themed scams. Campaigns were designed to distribute malicious software (malware) or harvest personal and financial information from unsuspecting Australians."
   },
   {
     "depth": 4,
@@ -149,15 +101,7 @@
     "section_name": "Cyber incident",
     "id_kind": "",
     "parent_id": "",
-    "body": "A single event or a series of events that threatens the integrity, availability or confidentiality of digital information."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Affordable and low-tech attacks such as ransomware, phishing and malware will continue to rise and a great emphasis from Government on supporting small to medium businesses and corporate Australia from cyber criminals is required.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "AUCloud Public Submission to the Cyber Security Strategy 2020\n\nFigure 1: Cyber security incidents, by sector (1 July 2019 to 30 June 2020)\n\nAustralian Government\n\nGovernment (state/terrority)\n\nOther\n\nIndividuals\n\nEducation and research\n\nBanking and financial services\n\nInformation technology\n\nHealth\n\nRetail\n\nLegal and professional services\n\nWater\n\nCommunications\n\nTransport\n\nMining and resources\n\nAll other affected sectors\n\n0 100 200 300 400 500\n\nMalicious cyber actors\n\n14 Australians are being targeted by a range of different groups, varying in their intent and the sophistication of their tradecraft.\n\n— Nation states and state-sponsored actors seek to compromise networks to obtain economic, policy, legal, defence and security information for their advantage. Nation states and state-sponsored actors may also seek to achieve disruptive or destructive effects against their targets during peacetime or in a conflict setting. These actors tend to be sophisticated, well-resourced and patient adversaries, whose actions could impact Australia’s national security and economic prosperity.\n\nSource: Australian Cyber Security Centre\n\n— Financially motivated criminals exploit and access systems for financial gain, posing a substantial threat to the economic interests of Australia and the region. Of particular concern are transnational cyber crime syndicates, which develop, share, sell and use sophisticated cyber tools and techniques. Criminals are also using the dark web to buy and sell stolen identities, illicit commodities and child exploitation material, as well as to commit other crimes.\n\nIssue-motivated groups and individuals are primarily concerned with drawing attention to their causes. They are generally less capable and less sophisticated, but still able to cause significant disruption to industry and governments.\n\n— Terrorist groups and extremists are effective at using the internet to communicate and generate attention, but generally employ very basic cyber techniques and capabilities such as distributed denial of service (DDoS) activities, hijacking social media accounts and defacing websites. These groups currently pose a relatively low cyber threat.\n\n15 Highly sophisticated nation states and state-sponsored actors continue to target governments and critical infrastructure providers. Australian Government or state and territory government entities were targeted in 35.4% of the incidents the ACSC responded to in the year to 30 June 2020 (see Figure 1). Around 35% of incidents impacted critical infrastructure providers that deliver essential services including healthcare, education, banking, water, communications, transport and energy. A successful cyber attack against one of these services could have significant ramifications for the broader economy and Australian way of life. This is occurring overseas, as seen in the 2015 disruptions of power facilities in Ukraine, the 2017 Triton attacks on Saudi petrochemical facilities, and the NotPetya and WannaCry attacks in 2017 that impacted financial, transport and healthcare services across the globe.\n\nIn 2019, one in three Australian adults were impacted by cyber crime.4 On average, the ACSC’s ReportCyber tool receives a cyber crime report every 10 minutes. The barrier for entry into cyber criminal activity is very low. Underground online marketplaces offer cyber crime-as-a-service or access to high-end hacking tools that were once only available to nation states. Malicious actors with minimal technical expertise can purchase illicit tools and services to generate alternative income streams, launder the proceeds of traditional crimes or intrude into networks on behalf of more sophisticated adversaries.\n\n4 NortonLifeLock (2020), 2019 Cyber Safety Insights Report Global Results, available at now.symassets.com/content/dam/norton/campaign/ NortonReport/2020/2019_NortonLifeLock_Cyber_Safety_Insights_Report_Global_Results.pdf?"
+    "body": "A single event or a series of events that threatens the integrity, availability or confidentiality of digital information.\n\n“Affordable and low-tech attacks such as ransomware, phishing and malware will continue to rise and a great emphasis from Government on supporting small to medium businesses and corporate Australia from cyber criminals is required.”\n\nAUCloud Public Submission to the Cyber Security Strategy 2020\n\nFigure 1: Cyber security incidents, by sector (1 July 2019 to 30 June 2020)\n\nAustralian Government\n\nGovernment (state/terrority)\n\nOther\n\nIndividuals\n\nEducation and research\n\nBanking and financial services\n\nInformation technology\n\nHealth\n\nRetail\n\nLegal and professional services\n\nWater\n\nCommunications\n\nTransport\n\nMining and resources\n\nAll other affected sectors\n\n0 100 200 300 400 500\n\nMalicious cyber actors\n\n14 Australians are being targeted by a range of different groups, varying in their intent and the sophistication of their tradecraft.\n\n— Nation states and state-sponsored actors seek to compromise networks to obtain economic, policy, legal, defence and security information for their advantage. Nation states and state-sponsored actors may also seek to achieve disruptive or destructive effects against their targets during peacetime or in a conflict setting. These actors tend to be sophisticated, well-resourced and patient adversaries, whose actions could impact Australia’s national security and economic prosperity.\n\nSource: Australian Cyber Security Centre\n\n— Financially motivated criminals exploit and access systems for financial gain, posing a substantial threat to the economic interests of Australia and the region. Of particular concern are transnational cyber crime syndicates, which develop, share, sell and use sophisticated cyber tools and techniques. Criminals are also using the dark web to buy and sell stolen identities, illicit commodities and child exploitation material, as well as to commit other crimes.\n\nIssue-motivated groups and individuals are primarily concerned with drawing attention to their causes. They are generally less capable and less sophisticated, but still able to cause significant disruption to industry and governments.\n\n— Terrorist groups and extremists are effective at using the internet to communicate and generate attention, but generally employ very basic cyber techniques and capabilities such as distributed denial of service (DDoS) activities, hijacking social media accounts and defacing websites. These groups currently pose a relatively low cyber threat.\n\n15 Highly sophisticated nation states and state-sponsored actors continue to target governments and critical infrastructure providers. Australian Government or state and territory government entities were targeted in 35.4% of the incidents the ACSC responded to in the year to 30 June 2020 (see Figure 1). Around 35% of incidents impacted critical infrastructure providers that deliver essential services including healthcare, education, banking, water, communications, transport and energy. A successful cyber attack against one of these services could have significant ramifications for the broader economy and Australian way of life. This is occurring overseas, as seen in the 2015 disruptions of power facilities in Ukraine, the 2017 Triton attacks on Saudi petrochemical facilities, and the NotPetya and WannaCry attacks in 2017 that impacted financial, transport and healthcare services across the globe.\n\nIn 2019, one in three Australian adults were impacted by cyber crime.4 On average, the ACSC’s ReportCyber tool receives a cyber crime report every 10 minutes. The barrier for entry into cyber criminal activity is very low. Underground online marketplaces offer cyber crime-as-a-service or access to high-end hacking tools that were once only available to nation states. Malicious actors with minimal technical expertise can purchase illicit tools and services to generate alternative income streams, launder the proceeds of traditional crimes or intrude into networks on behalf of more sophisticated adversaries.\n\n4 NortonLifeLock (2020), 2019 Cyber Safety Insights Report Global Results, available at now.symassets.com/content/dam/norton/campaign/ NortonReport/2020/2019_NortonLifeLock_Cyber_Safety_Insights_Report_Global_Results.pdf?"
   },
   {
     "depth": 4,
@@ -181,31 +125,7 @@
     "section_name": "Consultation",
     "id_kind": "",
     "parent_id": "",
-    "body": "17 On 6 September 2019 the Australian Government released a public discussion paper, ‘A call for views’, to give every Australian a say in the development of this Strategy.\n\n18 The Australian Government received 215 submissions from individuals and organisations, 156 of which are available at homeaffairs.gov.au/cybersecurity.\n\n19 The Australian Government also met with more than 1,400 people from across the country in face-to-face consultations, including workshops, roundtables and bilateral meetings. There were also dedicated forums attended by representatives from large technology companies, academia, state and territory agencies, local governments and defence industry.\n\n20 The following key themes were raised during the consultation process:\n\n— The threat environment is worsening.\n\n— Roles and responsibilities need clarification.\n\n— Government and industry partnerships should be strengthened.\n\n— Improved two-way information sharing is essential.\n\n— Standards and regulation are necessary to get the basics right.\n\n— Growth of cyber crime is outstripping our ability to respond.\n\n— Many threats can be addressed at scale.\n\n— Human behaviour is almost always part of the problem.\n\n— Australia needs more trusted and skilled cyber security professionals.\n\n— Small businesses are particularly vulnerable.\n\n— Australia needs to be better prepared, especially for a national-scale incident.\n\n— There are economic opportunities for Australia."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“ACCAN is concerned about the disproportionate impact that scams and other cybercrimes have on vulnerable consumers, such as those not confident in using the internet, older people and people who have less familiarity with the English language.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Australian Communications Consumer Action Network Public submission to the Cyber Security Strategy 2020"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Just as there are vulnerable populations for public health concerns, we see this mirrored in vulnerable targets for cyber security attacks.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Accenture Public submission to the Cyber Security Strategy 2020"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Government should be responsible for ensuring telecommunications operators, and operators of critical services take measures to safeguard networks and services.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Optus Public submission to the Cyber Security Strategy 2020"
+    "body": "17 On 6 September 2019 the Australian Government released a public discussion paper, ‘A call for views’, to give every Australian a say in the development of this Strategy.\n\n18 The Australian Government received 215 submissions from individuals and organisations, 156 of which are available at homeaffairs.gov.au/cybersecurity.\n\n19 The Australian Government also met with more than 1,400 people from across the country in face-to-face consultations, including workshops, roundtables and bilateral meetings. There were also dedicated forums attended by representatives from large technology companies, academia, state and territory agencies, local governments and defence industry.\n\n20 The following key themes were raised during the consultation process:\n\n— The threat environment is worsening.\n\n— Roles and responsibilities need clarification.\n\n— Government and industry partnerships should be strengthened.\n\n— Improved two-way information sharing is essential.\n\n— Standards and regulation are necessary to get the basics right.\n\n— Growth of cyber crime is outstripping our ability to respond.\n\n— Many threats can be addressed at scale.\n\n— Human behaviour is almost always part of the problem.\n\n— Australia needs more trusted and skilled cyber security professionals.\n\n— Small businesses are particularly vulnerable.\n\n— Australia needs to be better prepared, especially for a national-scale incident.\n\n— There are economic opportunities for Australia.\n\n“ACCAN is concerned about the disproportionate impact that scams and other cybercrimes have on vulnerable consumers, such as those not confident in using the internet, older people and people who have less familiarity with the English language.”\n\nAustralian Communications Consumer Action Network Public submission to the Cyber Security Strategy 2020\n\n“Just as there are vulnerable populations for public health concerns, we see this mirrored in vulnerable targets for cyber security attacks.”\n\nAccenture Public submission to the Cyber Security Strategy 2020\n\n“Government should be responsible for ensuring telecommunications operators, and operators of critical services take measures to safeguard networks and services.”\n\nOptus Public submission to the Cyber Security Strategy 2020"
   },
   {
     "depth": 2,
@@ -213,15 +133,7 @@
     "section_name": "Our Industry Advisory Panel",
     "id_kind": "",
     "parent_id": "",
-    "body": "21 The Minister for Home Affairs (the Minister) also established an Industry Advisory Panel (the Panel) to provide strategic advice to support the development of Australia’s Cyber Security Strategy 2020. The members of the Panel were:\n\n— Mr Andrew Penn, CEO and Managing Director, Telstra (Chair)\n\n— Ms Kirstjen Nielsen, former United States Secretary of Homeland Security\n\n— Mr Robert Mansfield AO, Chair, Vocus Group\n\n— Ms Robyn Denholm, Chair, Tesla\n\n— Mr Chris Deeble AO CSC, Chief Executive, Northrop Grumman Australia\n\n— Mr Darren Kane, Chief Security Officer, NBN Co.\n\n22 The Panel met 13 times between November 2019 and July 2020, which included meetings with the Minister. The Panel structured its deliberations around 12 problem statements based on the key themes of feedback raised during the public consultation process. The Panel’s final report provided recommendations covering seven key areas and is available at homeaffairs.gov.au/cybersecurity.\n\n23 In line with the Panel’s advice, this Strategy seeks to clearly set out the cyber security roles and responsibilities across government, businesses and the community as outlined in the next section.\n\n24 Building on the success of the Panel, a standing Industry Advisory Committee will be established to ensure industry plays a continuing role in shaping the delivery of short and longer-term actions set out in this Strategy."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Australia will prosper as a digital economy if we continue to invest in cyber defences. If we move to comprehensively protect ourselves from cyber-crime our businesses will remain competitive, our national infrastructure will be protected, the security of our institutions – including our democratic electoral processes, which have been the subject of malicious cyber-attack in other parts of",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "the world – protected and the well-being of Australians improved."
+    "body": "21 The Minister for Home Affairs (the Minister) also established an Industry Advisory Panel (the Panel) to provide strategic advice to support the development of Australia’s Cyber Security Strategy 2020. The members of the Panel were:\n\n— Mr Andrew Penn, CEO and Managing Director, Telstra (Chair)\n\n— Ms Kirstjen Nielsen, former United States Secretary of Homeland Security\n\n— Mr Robert Mansfield AO, Chair, Vocus Group\n\n— Ms Robyn Denholm, Chair, Tesla\n\n— Mr Chris Deeble AO CSC, Chief Executive, Northrop Grumman Australia\n\n— Mr Darren Kane, Chief Security Officer, NBN Co.\n\n22 The Panel met 13 times between November 2019 and July 2020, which included meetings with the Minister. The Panel structured its deliberations around 12 problem statements based on the key themes of feedback raised during the public consultation process. The Panel’s final report provided recommendations covering seven key areas and is available at homeaffairs.gov.au/cybersecurity.\n\n23 In line with the Panel’s advice, this Strategy seeks to clearly set out the cyber security roles and responsibilities across government, businesses and the community as outlined in the next section.\n\n24 Building on the success of the Panel, a standing Industry Advisory Committee will be established to ensure industry plays a continuing role in shaping the delivery of short and longer-term actions set out in this Strategy.\n\n“Australia will prosper as a digital economy if we continue to invest in cyber defences. If we move to comprehensively protect ourselves from cyber-crime our businesses will remain competitive, our national infrastructure will be protected, the security of our institutions – including our democratic electoral processes, which have been the subject of malicious cyber-attack in other parts of\n\nthe world – protected and the well-being of Australians improved."
   },
   {
     "depth": 2,
@@ -245,68 +157,12 @@
     "section_name": "Figure 2: Our Strategy Illustrated",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
+    "body": "Vision A more secure online world for Australians, their businesses and the essential services upon which we all depend."
   },
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "Vision A more secure online world for Australians, their businesses and the",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "essential services upon which we all depend.",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by businesses",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by governments",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Key themes:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Key themes:",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by the community",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Key themes:",
+    "section_name": "Actions by businesses — Actions by governments — Key themes: — Actions by the community — Key themes:",
     "id_kind": "",
     "parent_id": "",
     "body": "— Improve baseline security\n\n— Protect critical\n\n— Access and apply\n\nfor critical infrastructure\n\ninfrastructure, essential services and households\n\nguidance and information on cyber security\n\n— Uplift the cyber security\n\n— Combat cyber crime,\n\nof SMEs\n\nincluding on the dark web\n\n— Make informed\n\n— Provide secure products\n\n— Protect Australian\n\nand services\n\nGovernment data and networks\n\npurchasing decisions\n\n— Report cyber crime\n\n— Grow a skilled workforce\n\n— Access help and support\n\n— Take steps to block\n\n— Share threat information\n\nwhen needed\n\nmalicious activity at scale\n\n— Strengthen cyber security\n\npartnerships\n\n— Support business to meet\n\ncyber security standards\n\n— Enhance cyber security\n\ncapabilities\n\nThis vision will be delivered through action by governments, businesses and the community, as illustrated in Figure 3.\n\n— The Australian Government will strengthen the protection of Australians, businesses and critical infrastructure from the most sophisticated threats. State and territory and local governments have a role in protecting their systems from cyber attacks."
@@ -346,26 +202,10 @@
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "Our response",
+    "section_name": "Our response — Actions by governments",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by governments",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Government has an important leadership role to play, which includes assisting organisations and the community to be fully cyber aware.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Ai Group Public submission to the Cyber Security Strategy 2020\n\n31 The Australian Government is investing in its capabilities to respond to the growing cyber security threat. On 30 June 2020, the Australian Government announced the $1.35 billion Cyber Enhanced Situational Awareness and Response (CESAR) package. CESAR will ensure that ASD, as Australia’s lead operational cyber security agency, can identify more cyber threats, disrupt more foreign cyber criminals, build more partnerships with industry and government, and protect more Australians. This section explains in detail the full suite of tools the Australian Government will use to address cyber security threats – from voluntary action and collaboration to legislation and classified capabilities."
+    "body": "“Government has an important leadership role to play, which includes assisting organisations and the community to be fully cyber aware.”\n\nAi Group Public submission to the Cyber Security Strategy 2020\n\n31 The Australian Government is investing in its capabilities to respond to the growing cyber security threat. On 30 June 2020, the Australian Government announced the $1.35 billion Cyber Enhanced Situational Awareness and Response (CESAR) package. CESAR will ensure that ASD, as Australia’s lead operational cyber security agency, can identify more cyber threats, disrupt more foreign cyber criminals, build more partnerships with industry and government, and protect more Australians. This section explains in detail the full suite of tools the Australian Government will use to address cyber security threats – from voluntary action and collaboration to legislation and classified capabilities."
   },
   {
     "depth": 2,
@@ -501,15 +341,7 @@
     "section_name": "Supporting SMEs",
     "id_kind": "",
     "parent_id": "",
-    "body": "The Australian Government will also provide online training and a 24/7 helpdesk for SMEs that needs cyber security advice or assistance. Government and large businesses will assist small businesses to upgrade their cyber security and grow their cyber security awareness. The Australian Government will encourage large businesses and services providers to provide small businesses with cyber security information and tools as part of ‘bundles’ of secure services, such as threat-blocking, antivirus and cyber security awareness training. Integrating cyber security products into other service offerings will help protect SMEs at scale and recognises that many businesses cannot employ dedicated cyber security staff. All of these programs will continue to be brought together on cyber.gov.au, so that SMEs can quickly find the Australian Government assistance that best meets their needs.\n\nThe Australian Government will prioritise support for SMEs through a number of key initiatives:\n\n— A $12.3 million expansion to the ACSC’s 24/7 cyber security hotline will enhance the provision of cyber security advice and technical assistance.\n\n— The $8.3 million Cyber Security Connect and Protect Program will equip trusted organisations to raise the cyber security of SMEs in their local area.\n\n— The placement of outreach officers in Joint Cyber Security Centres will support SMEs.\n\n— Supporting the roll-out of threat-blocking technology will prevent known malicious cyber threats from reaching Australian consumers and businesses.\n\n— The ACSC Small Business Cyber Security Guide provides tailored advice to protect against the most common cyber security incidents.\n\n— ACSC-produced Step-by-Step and Quick Wins Guides provide practical instructions with visual aids outlining actions SMEs can take to protect themselves.\n\n— The ACSC Stay Smart Online Program promotes best practice cyber security advice and encourages businesses to protect themselves online.\n\n— Toolkits published on cyber.gov.au will help SMEs raise cyber security awareness among their staff members.\n\n— A dedicated online cyber security training program hosted on cyber.gov.au will help upskill SMEs and their staff members.\n\nLaw enforcement will have strengthened capabilities to identify and disrupt cyber criminals targeting Australian businesses."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“Today, cyberattacks from increasingly sophisticated actors threaten organisations across every sector, and whether a large ASX 100 company or a local bakery, organisations of all sizes need to take steps to limit the dangers posed by these threats.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Microsoft Public submission to the Cyber Security Strategy 2020\n\n62 Certain businesses can reduce the number of threats entering Australia by automatically blocking known malicious content. This solution that will protect Australians and Australian businesses at speed and scale. Over the life of this Strategy, the Australian Government will support businesses to implement threat-blocking technology that can automatically protect citizens and businesses from known malware and trojans. The Australian Government will also consider how it can provide legislative and any other assistance to telecommunications providers implementing this technology. As part of this initiative, the Australian Government will invest $12.5 million for the ACSC to provide Australia’s major telecommunications providers with information about known malicious websites, malware, phishing campaigns and online scams to boost providers’ ability to block threats at scale. This funding will support industry partnership, research and development of new capabilities to detect and block threats at scale, reducing the volume of cyber threats impacting Australians so they can focus on running their businesses and building the economy."
+    "body": "The Australian Government will also provide online training and a 24/7 helpdesk for SMEs that needs cyber security advice or assistance. Government and large businesses will assist small businesses to upgrade their cyber security and grow their cyber security awareness. The Australian Government will encourage large businesses and services providers to provide small businesses with cyber security information and tools as part of ‘bundles’ of secure services, such as threat-blocking, antivirus and cyber security awareness training. Integrating cyber security products into other service offerings will help protect SMEs at scale and recognises that many businesses cannot employ dedicated cyber security staff. All of these programs will continue to be brought together on cyber.gov.au, so that SMEs can quickly find the Australian Government assistance that best meets their needs.\n\nThe Australian Government will prioritise support for SMEs through a number of key initiatives:\n\n— A $12.3 million expansion to the ACSC’s 24/7 cyber security hotline will enhance the provision of cyber security advice and technical assistance.\n\n— The $8.3 million Cyber Security Connect and Protect Program will equip trusted organisations to raise the cyber security of SMEs in their local area.\n\n— The placement of outreach officers in Joint Cyber Security Centres will support SMEs.\n\n— Supporting the roll-out of threat-blocking technology will prevent known malicious cyber threats from reaching Australian consumers and businesses.\n\n— The ACSC Small Business Cyber Security Guide provides tailored advice to protect against the most common cyber security incidents.\n\n— ACSC-produced Step-by-Step and Quick Wins Guides provide practical instructions with visual aids outlining actions SMEs can take to protect themselves.\n\n— The ACSC Stay Smart Online Program promotes best practice cyber security advice and encourages businesses to protect themselves online.\n\n— Toolkits published on cyber.gov.au will help SMEs raise cyber security awareness among their staff members.\n\n— A dedicated online cyber security training program hosted on cyber.gov.au will help upskill SMEs and their staff members.\n\nLaw enforcement will have strengthened capabilities to identify and disrupt cyber criminals targeting Australian businesses.\n\n“Today, cyberattacks from increasingly sophisticated actors threaten organisations across every sector, and whether a large ASX 100 company or a local bakery, organisations of all sizes need to take steps to limit the dangers posed by these threats.”\n\nMicrosoft Public submission to the Cyber Security Strategy 2020\n\n62 Certain businesses can reduce the number of threats entering Australia by automatically blocking known malicious content. This solution that will protect Australians and Australian businesses at speed and scale. Over the life of this Strategy, the Australian Government will support businesses to implement threat-blocking technology that can automatically protect citizens and businesses from known malware and trojans. The Australian Government will also consider how it can provide legislative and any other assistance to telecommunications providers implementing this technology. As part of this initiative, the Australian Government will invest $12.5 million for the ACSC to provide Australia’s major telecommunications providers with information about known malicious websites, malware, phishing campaigns and online scams to boost providers’ ability to block threats at scale. This funding will support industry partnership, research and development of new capabilities to detect and block threats at scale, reducing the volume of cyber threats impacting Australians so they can focus on running their businesses and building the economy."
   },
   {
     "depth": 4,
@@ -533,15 +365,7 @@
     "section_name": "Growing a cyber skilled workforce",
     "id_kind": "",
     "parent_id": "",
-    "body": "67 A strong workforce of skilled cyber security professionals is a key enabler of Australia’s digital economy and security. To support businesses in undertaking these actions, this Strategy includes a Cyber Security National Workforce Growth Program that will assist businesses and academia to grow the cyber skilled workforce of the future. Growing the cyber security skills pipeline will ensure all critical infrastructure owners and operators and businesses have greater access to skilled cyber security professionals with the right skills to meet demand. This complements the steps the Australian Government has already taken to invest in the growth of the Defence cyber workforce.\n\nGreater opportunities will be provided to Australians seeking to train for a world-class career in cyber security. The Cyber Security National Workforce Growth Program will be underpinned by a $26.5 million Cyber Skills Partnerships Innovation Fund, which will encourage businesses and academia to partner together to find innovative new ways to improve cyber security skills. Activities that will be eligible under the Fund include:\n\n— scholarships\n\n— apprenticeships, or apprenticeship-style courses in higher education\n\n— development and delivery of specialist cyber security courses for professionals\n\n— retraining initiatives, to help existing professionals in other disciplines transition to cyber security roles\n\n— training or professional development for teachers and board executives, including through practical partnerships or exchanges with industry\n\n— internships, cadetships, work experience and staff exchanges\n\n— digital training platforms and student delivered cyber security services\n\n— any other innovative idea to meet the needs of businesses.\n\n69 The Cyber Security National Workforce Growth Program seeks to grow cyber security skills at all stages of education, including primary, secondary and tertiary. It will inspire the next generation of cyber security experts and equip teachers to include cyber security in their classroom lessons. The ACSC will grow its education,\n\nskills, training, mentoring and coaching programs, including specialised programs for women who are still underrepresented in the sector. The Australian Government also intends to work with businesses and academia on the best way to ensure university courses meet employer needs, building on international examples. This includes considering how cyber security can be more consistently embedded in other disciplines, such as engineering and data science. Strengthening the links between government, businesses and the education sector is particularly important because of the speed of change in cyber security. Cyber security evolves much faster than other sectors, as technology changes and malicious actors adapt their tactics accordingly.\n\n70 Businesses and the community need to have confidence in the cyber security industry. The Australian Government will continue to work with businesses on the best way to promote the cyber security profession and ensure there are clear professional standards for practitioners, and more consistency in the market for consumers. In the medium to longer term, this could involve exploring whether there is a need for cyber security accreditation frameworks, including how these would map against other existing licensing and professional accreditation frameworks. To provide consistency across the cyber security sector, this could be accompanied by professional competency requirements for maintaining accreditation. The Australian Government will work with businesses and international partners to understand if this would be valuable, and the best way for the cyber security sector to deliver and maintain these frameworks, including through close engagement with international partners."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“A globally competitive Australian cyber security sector will ultimately underpin the future success of every industry in the national economy.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "AustCyber Public submission to the Cyber Security Strategy 2020"
+    "body": "67 A strong workforce of skilled cyber security professionals is a key enabler of Australia’s digital economy and security. To support businesses in undertaking these actions, this Strategy includes a Cyber Security National Workforce Growth Program that will assist businesses and academia to grow the cyber skilled workforce of the future. Growing the cyber security skills pipeline will ensure all critical infrastructure owners and operators and businesses have greater access to skilled cyber security professionals with the right skills to meet demand. This complements the steps the Australian Government has already taken to invest in the growth of the Defence cyber workforce.\n\nGreater opportunities will be provided to Australians seeking to train for a world-class career in cyber security. The Cyber Security National Workforce Growth Program will be underpinned by a $26.5 million Cyber Skills Partnerships Innovation Fund, which will encourage businesses and academia to partner together to find innovative new ways to improve cyber security skills. Activities that will be eligible under the Fund include:\n\n— scholarships\n\n— apprenticeships, or apprenticeship-style courses in higher education\n\n— development and delivery of specialist cyber security courses for professionals\n\n— retraining initiatives, to help existing professionals in other disciplines transition to cyber security roles\n\n— training or professional development for teachers and board executives, including through practical partnerships or exchanges with industry\n\n— internships, cadetships, work experience and staff exchanges\n\n— digital training platforms and student delivered cyber security services\n\n— any other innovative idea to meet the needs of businesses.\n\n69 The Cyber Security National Workforce Growth Program seeks to grow cyber security skills at all stages of education, including primary, secondary and tertiary. It will inspire the next generation of cyber security experts and equip teachers to include cyber security in their classroom lessons. The ACSC will grow its education,\n\nskills, training, mentoring and coaching programs, including specialised programs for women who are still underrepresented in the sector. The Australian Government also intends to work with businesses and academia on the best way to ensure university courses meet employer needs, building on international examples. This includes considering how cyber security can be more consistently embedded in other disciplines, such as engineering and data science. Strengthening the links between government, businesses and the education sector is particularly important because of the speed of change in cyber security. Cyber security evolves much faster than other sectors, as technology changes and malicious actors adapt their tactics accordingly.\n\n70 Businesses and the community need to have confidence in the cyber security industry. The Australian Government will continue to work with businesses on the best way to promote the cyber security profession and ensure there are clear professional standards for practitioners, and more consistency in the market for consumers. In the medium to longer term, this could involve exploring whether there is a need for cyber security accreditation frameworks, including how these would map against other existing licensing and professional accreditation frameworks. To provide consistency across the cyber security sector, this could be accompanied by professional competency requirements for maintaining accreditation. The Australian Government will work with businesses and international partners to understand if this would be valuable, and the best way for the cyber security sector to deliver and maintain these frameworks, including through close engagement with international partners.\n\n“A globally competitive Australian cyber security sector will ultimately underpin the future success of every industry in the national economy.”\n\nAustCyber Public submission to the Cyber Security Strategy 2020"
   },
   {
     "depth": 4,
@@ -605,15 +429,7 @@
     "section_name": "Actions by the community",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "“An informed and educated consumer about the cyber threat landscape could be the most efficacious program that government could initiate.”",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Cisco Public submission to the Cyber Security Strategy 2020\n\n71 Most cyber security incidents have an element of human error. This means it is critical that all Australians know how to stay secure online, especially as using new technology does not come naturally to everyone. This Strategy will empower Australians by providing the tools to do so in a secure way.\n\n72 There are several things that Australians can, and should, do to be secure online. The ACSC will continue to provide best practice cyber security advice and assistance through the one-stop-shop cyber.gov.au. Cyber.gov.au provides all the information individuals need to know about being cyber secure and serves as an excellent foundation for further initiatives to build cyber security resilience within the community. Accessing and implementing this information are actions the community can take to increase their cyber security. In addition, there is growing private sector cyber security expertise that can assist in staying secure online across a range of services, such as the provision of anti-virus software to in-depth cyber security advice and response.\n\n73 Through this Strategy, the Australian Government will build on existing advice to make sure messages about cyber security reach more Australians more often. The Australian Government will invest in a new public awareness raising campaign, delivered in coordination with campaigns about online safety (see the case study below). The Australian Government will also provide a comprehensive online cyber security training program for small businesses, older Australians and Australian families, delivered through cyber.gov.au."
+    "body": "“An informed and educated consumer about the cyber threat landscape could be the most efficacious program that government could initiate.”\n\nCisco Public submission to the Cyber Security Strategy 2020\n\n71 Most cyber security incidents have an element of human error. This means it is critical that all Australians know how to stay secure online, especially as using new technology does not come naturally to everyone. This Strategy will empower Australians by providing the tools to do so in a secure way.\n\n72 There are several things that Australians can, and should, do to be secure online. The ACSC will continue to provide best practice cyber security advice and assistance through the one-stop-shop cyber.gov.au. Cyber.gov.au provides all the information individuals need to know about being cyber secure and serves as an excellent foundation for further initiatives to build cyber security resilience within the community. Accessing and implementing this information are actions the community can take to increase their cyber security. In addition, there is growing private sector cyber security expertise that can assist in staying secure online across a range of services, such as the provision of anti-virus software to in-depth cyber security advice and response.\n\n73 Through this Strategy, the Australian Government will build on existing advice to make sure messages about cyber security reach more Australians more often. The Australian Government will invest in a new public awareness raising campaign, delivered in coordination with campaigns about online safety (see the case study below). The Australian Government will also provide a comprehensive online cyber security training program for small businesses, older Australians and Australian families, delivered through cyber.gov.au."
   },
   {
     "depth": 2,
@@ -666,231 +482,7 @@
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "How do I stay secure online?",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "PRIVACY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Be wary of what is shared",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "and with whom",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "SUSPICIOUS MESSAGING",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Treat any unexpected messages with caution",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "ONLINE FINANCE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "AND PAYMENTS",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Keep financial details from",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "prying eyes",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "BACKUPS AND PROTECTION",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Backup and update",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "for safety",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "PASSWORDS",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Create strong passwords",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "to be secure",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "SURFING SAFELY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Avoid malware—keep to",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "trusted websites",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "TABLETS AND",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "MOBILES",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Be mindful when",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "using free Wi-Fi",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "REPORTING",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Keep everyone safe by",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "reporting scams",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Action plan",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Initiative Description Who benefits?",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by governments",
+    "section_name": "How do I stay secure online? — PRIVACY — Be wary of what is shared — and with whom — SUSPICIOUS MESSAGING — Treat any unexpected messages with caution — ONLINE FINANCE — AND PAYMENTS — Keep financial details from — prying eyes — BACKUPS AND PROTECTION — Backup and update — for safety — PASSWORDS — Create strong passwords — to be secure — SURFING SAFELY — Avoid malware—keep to — trusted websites — TABLETS AND — MOBILES — Be mindful when — using free Wi-Fi — REPORTING — Keep everyone safe by — reporting scams — Action plan — Initiative Description Who benefits? — Actions by governments",
     "id_kind": "",
     "parent_id": "",
     "body": "— Australia’s critical\n\nThe Australian Government will introduce new laws to make sure Australia can recover quickly from a cyber security emergency. This will include providing reasonable and proportionate directions to businesses to minimise the impact of an incident and taking direct action to protect systems during an emergency.\n\nProtect critical infrastructure in a national emergency\n\ninfrastructure and systems of national significance will be able to quickly recover in the event of a significant cyber incident.\n\n— All businesses and citizens\n\nwill benefit from essential services being protected or restored as quickly as possible\n\n— Australia’s critical\n\nThe Australian Government will invest $10.0 million for an expanded National Exercise Program that will bring Commonwealth, state and territory government agencies together with private sector organisations to plan and prepare for cyber security incidents.\n\nEnhance incident response procedures\n\ninfrastructure and businesses will be involved in national incident response procedures, improving their ability to recover.\n\nThe Australian Government will also work with states and territories to expand standard cyber security incident procedures to formally recognise and plan for business contributions in responding to a major incident.\n\n— The essential services that\n\nAustralians rely on every day will be quickly restored in the event of a significant cyber incident.\n\n— Cyber criminals will be\n\nThe Australian Government will invest $124.9 million to strengthen law enforcement’s counter cyber crime capabilities. This includes an investment of $89.9 million in the AFP to set up target development teams and bolster its ability to go after cyber criminals. This will be complemented by the use of the Australian Transaction Reports and Analysis Centre’s specialist financial intelligence expertise to target the profits of cyber criminals.\n\nBolster law enforcement capabilities, including on the dark web\n\ndeterred from targeting Australians, reducing the cost of cyber crime and strengthening the Australian economy.\n\n— Australians will be better\n\nprotected from cyber crime.\n\nThe Australian Government will ensure it has fit-for-purpose powers and capabilities to discover, target, investigate and disrupt cyber crime, including on the dark web.\n\nThe Australian Government will invest over $31.6 million to extend and expand the ACSC’s ability to counter cyber crime actors offshore and provide technical advice and assistance to Commonwealth, state and territory law enforcement agencies in identifying and disrupting cyber criminals. This builds on the Australian Government’s $40.0 million countering foreign cyber criminals election commitment.\n\nCombined, these initiatives will enable government to take the fight to foreign actors that seek to target Australians.\n\n— Government IT systems,\n\nThe Australian Government will strengthen defences of its networks by centralising their management and operation, including considering secure hubs. This centralisation seeks to reduce opportunities for malicious actors to target smaller agencies with less secure IT, and will increase opportunities to focus the Australian Government’s cyber security investment.\n\nHarden Australian Government IT\n\nas systems of national significance, will be more secure.\n\n— Businesses and citizens will\n\nbe confident that their data is more secure.\n\nStandard cyber security clauses will be in government IT contracts.\n\nAustralian government agencies will also put a renewed focus on policies and procedures to manage cyber security risks.\n\n— Australia’s critical\n\nThe Australian Government will invest $35.3 million through the ACSC to deliver a new partner portal coupled with a multi-directional threat-sharing platform.\n\nImprove threat information sharing\n\ninfrastructure and businesses will have increased access to threat information, allowing them to better prepare for and defend against cyber threats.\n\nThe Australian Government has also invested $1.6 million to enhance the cyber security of Australian universities. This will fund a threat intelligence-sharing network, sector-wide threat modelling and a national cyber security forum that will meet three times a year.\n\n— Less sophisticated malicious\n\ncyber activity will be stopped before it reaches businesses and households.\n\n— Malicious nation states\n\nThe Australian Government will deter malicious activity by imposing stronger consequences for those who act contrary to existing international law and agreed norms when it is in Australia’s national interest to do so.\n\nUphold existing international law and norms of resposibility state behaviour in cyberspace\n\nand state-sponsored actors will be deterred from targeting Australia’s critical infrastructure and systems of national significance.\n\n— Australia as a whole will\n\nbecome a less desirable target for malicious state-based cyber activity, reducing the cost on our economy, and upholding our security and sovereignty.\n\n— Australia’s critical\n\nThe Australian Government will invest $67.9 million to expand the JCSC program. A broader range of ACSC staff and capabilities will be available to enhance collaboration with and support for state, territory and local governments, industry partners and academia across the country. The Australian Government will invest $8.2 million to establish a Department of Home Affairs presence at each JCSC to provide a whole-of-government approach to cyber security engagement.\n\nStrengthen cyber security partnerships\n\ninfrastructure, businesses and government agencies will have access to a collaborative forum to improve their cyber security practices.\n\n— Australian businesses will have\n\nIn line with advice from the Industry Advisory Panel and stakeholder feedback, the Australian Government will work with businesses on possible legislative changes that clarify the obligations for businesses that are not critical infrastructure to protect themselves and their customers from cyber security threats. This consultation will consider multiple reform options, including the role of privacy and consumer protection laws, and duties for company directors.\n\nClarify cyber security obligations for Australian businesses\n\nclarity about what they have to do to protect themselves and their customers.\n\n— Consumers will have\n\nincreased confidence in the security of products and services.\n\n— Staying ahead of the\n\nThe Australian Government will invest $118.0 million to expand its data science capabilities, ensuring Australia remains at the forefront of the technological advancements in cyber security.\n\nStay ahead of the technology curve\n\ntechnological curve will ensure Australia is able to adapt to emerging cyber security threats, improving national resilience and creating economic opportunities for Australia cyber security businesses.\n\nThe Australian Government will also invest $20.2 million to establish cutting-edge research laboratories to better understand threats to emerging technology.\n\nFive hundred additional intelligence and cyber security personnel will be recruited at a cost of $469.7 million over 10 years.\n\nThe Australian Government will invest $385.4 million to enable and enhance intelligence capabilities."
@@ -930,15 +522,7 @@
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "Initiative How the Australian Government will measure success",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Actions by governments",
+    "section_name": "Initiative How the Australian Government will measure success — Actions by governments",
     "id_kind": "",
     "parent_id": "",
     "body": "— Arrangements are in place for the Australian Government to respond to a\n\nProtect critical infrastructure in a national emergency\n\ncyber security emergency in a timely and effective manner.\n\n— There is increased visibility of threats to critical infrastructure and systems\n\nof national significance, with information available in near-real-time for those who need it to actively defend networks.\n\n— Updated Cyber Incident Management Arrangements outline how\n\nEnhance incident response procedures\n\ngovernments and businesses will increase their readiness to respond collectively to a significant national incident.\n\n— More government agencies and private sector organisations have\n\nstrengthened their readiness and resilience.\n\n— Through enhanced capabilities and coordination, the Australian Federal\n\nBolster law enforcement capabilities, including on the dark web\n\nPolice, Australian Criminal Intelligence Commission and the ACSC identify and disrupt more cyber crime targets.\n\n— Agencies have the authorities they need to discover, target, investigate\n\nand disrupt cyber crime and cyber-enabled crime.\n\n— More responses to online crimes are coordinated between the Australian\n\nGovernment, states and territories.\n\nHarden Australian Government IT — Centralisation of Australian Government IT networks makes it easier to\n\ndefend against malicious activity.\n\nImprove threat information sharing — Government and businesses have increased visibility of cyber threats in\n\nnear real-time.\n\n— There is increased two-way flow of cyber security information.\n\n— Australia’s response to unacceptable behaviour in cyberspace aligns\n\nUphold existing international law and norms of responsible state behaviour in cyberspace\n\nwith international law and norms of responsible state behaviour in cyberspace.\n\n— A new Cyber and Critical Technology International Engagement Strategy\n\nis implemented.\n\n— Customer experience survey data indicates effective partnerships\n\nStrengthen cyber security partnerships\n\nbetween businesses and government.\n\n— Consultation is undertaken on possible future reforms to clarify cyber\n\nClarify cyber security obligations for Australian businesses\n\nsecurity obligations for Australian businesses.\n\nStay ahead of the technology curve — The Australian Government has sovereign research capability to assess\n\nvulnerabilities in emerging technology."
@@ -962,24 +546,8 @@
   {
     "depth": 4,
     "section_id": "Appendix A",
-    "section_name": "Cyber Security Strategy 2020 Funding Commitments",
+    "section_name": "Cyber Security Strategy 2020 Funding Commitments Measure Expenditure Cyber Enhanced Situational Awareness and Response",
     "id_kind": "annex",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Measure Expenditure",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Cyber Enhanced Situational Awareness and Response",
-    "id_kind": "",
     "parent_id": "",
     "body": "— Assistance to critical infrastructure providers\n\n— Expanded national exercise program\n\n— Transformed Joint Cyber Security Centres\n\n— Enhanced customer engagement"
   },
@@ -1026,15 +594,7 @@
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "Support to small and medium enterprises and vulnerable Australians",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "$63.4 million",
+    "section_name": "Support to small and medium enterprises and vulnerable Australians — $63.4 million",
     "id_kind": "",
     "parent_id": "",
     "body": "— Expansion of Australian Cyber Security Centre’s support to small and medium enterprises\n\n$26.0 million\n\n— Connect and Protect Program to assist SMEs with advice and assistance from trusted sources\n\n$8.3 million\n\n— Enhancing industry outreach and national capability collaboration\n\n$8.2 million\n\n— Cyber security awareness for Australian families households and small businesses\n\n— Boost eSafety’s investigations and support teams\n\n— Support to victims of cyber crime\n\n$4.9 million\n\n$10.0 million\n\n$6.1 million"
@@ -1042,15 +602,7 @@
   {
     "depth": 4,
     "section_id": "",
-    "section_name": "Enhance the cyber security of universities $1.6 million",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "Total $1,670.0 million",
+    "section_name": "Enhance the cyber security of universities $1.6 million — Total $1,670.0 million",
     "id_kind": "",
     "parent_id": "",
     "body": "Totals may vary due to rounding"
@@ -1061,14 +613,6 @@
     "section_name": "Where can I go for more cyber security information?",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 4,
-    "section_id": "",
-    "section_name": "If there is a threat to life or risk of harm, please call 000.",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "For non-emergencies, cyber.gov.au is the Australian Government’s one stop shop for up-to-date cyber security advice, cyber security resources and incident reporting. At cyber.gov.au you can report:\n\n— cyber abuse – if someone is bullying, harassing or stalking you online.\n\n— online image abuse – if someone has shared or is threatening to share intimate images or videos of you online.\n\n— online shopping fraud or romance fraud – if you have been deceived into sending money or goods to someone online.\n\n— identity theft – if someone has used your personal or business identity information and accessed your online accounts.\n\n— email compromise – if you received an email containing fraudulent information that deceived you to send money.\n\n— internet fraud – if you have clicked on a phishing link or given someone remote access to a computer or device, and money may been taken from your accounts.\n\n— ransomware or malware – if your system or devices have been compromised and someone may be demanding money.\n\nAfter you have made a report, the ACSC will make sure your report reaches all the relevant government agencies and the police."
+    "body": "If there is a threat to life or risk of harm, please call 000.\n\nFor non-emergencies, cyber.gov.au is the Australian Government’s one stop shop for up-to-date cyber security advice, cyber security resources and incident reporting. At cyber.gov.au you can report:\n\n— cyber abuse – if someone is bullying, harassing or stalking you online.\n\n— online image abuse – if someone has shared or is threatening to share intimate images or videos of you online.\n\n— online shopping fraud or romance fraud – if you have been deceived into sending money or goods to someone online.\n\n— identity theft – if someone has used your personal or business identity information and accessed your online accounts.\n\n— email compromise – if you received an email containing fraudulent information that deceived you to send money.\n\n— internet fraud – if you have clicked on a phishing link or given someone remote access to a computer or device, and money may been taken from your accounts.\n\n— ransomware or malware – if your system or devices have been compromised and someone may be demanding money.\n\nAfter you have made a report, the ACSC will make sure your report reaches all the relevant government agencies and the police."
   }
 ]

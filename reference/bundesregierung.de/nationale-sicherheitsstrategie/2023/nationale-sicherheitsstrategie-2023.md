@@ -2,17 +2,13 @@
 
 Wehrhaft. Resilient. Nachhaltig.
 
-## Integrierte Sicherheit für Deutschland
-
-## Nationale Sicherheitsstrategie
+Nationale Sicherheitsstrategie
 
 Wehrhaft. Resilient. Nachhaltig.
 
-## Integrierte Sicherheit für Deutschland
-
 ## Nationale Sicherheitsstrategie
 
-## Sehr geehrte Leserinnen und Leser,
+Sehr geehrte Leserinnen und Leser,
 
 es ist die wichtigste Aufgabe eines jeden Staates, einer jeden Gesellschaft, für die Sicherheit ihrer Bürgerinnen und Bürger zu sorgen. Ohne Sicherheit gibt es keine Freiheit, keine Stabilität, keinen Wohlstand.
 
@@ -68,43 +64,39 @@ Nachhaltig: Die Sicherheit
 
 Deutschland in Europa und der Welt.
 
-## 18
-
-## 46
+## 18 — 46
 
 Resilient: Die Sicherung unserer Werte durch innere Stärke
 
 Inhalt
 
-VORWORTE  5
+VORWORTE   5
 
-Bundeskanzler Olaf Scholz  5
+Bundeskanzler Olaf Scholz   5
 
-Bundesministerin Annalena Baerbock  6
+Bundesministerin Annalena Baerbock   6
 
-ZUSAMMENFASSUNG  10
+ZUSAMMENFASSUNG   10
 
-DEUTSCHLAND IN EUROPA UND DER WELT  18
+DEUTSCHLAND IN EUROPA UND DER WELT   18
 
-Unsere sicherheitspolitische Identität  19
+Unsere sicherheitspolitische Identität   19
 
-Unsere Werte und Interessen  20
+Unsere Werte und Interessen   20
 
-Unser sicherheitspolitisches Umfeld  22
+Unser sicherheitspolitisches Umfeld   22
 
-INTEGRIERTE SICHERHEIT FÜR DEUTSCHLAND  28
+INTEGRIERTE SICHERHEIT FÜR DEUTSCHLAND   28
 
-Wehrhaft: Frieden in Freiheit  30
+Wehrhaft: Frieden in Freiheit   30
 
-Resilient: Die Sicherung unserer Werte durch innere Stärke  46
+Resilient: Die Sicherung unserer Werte durch innere Stärke   46
 
-Nachhaltig: Die Sicherheit unserer Lebensgrundlagen  64
+Nachhaltig: Die Sicherheit unserer Lebensgrundlagen   64
 
-INTEGRIERTE SICHERHEIT GEMEINSAM GESTALTEN  73
+INTEGRIERTE SICHERHEIT GEMEINSAM GESTALTEN   73
 
-## Zusammen­ fassung
-
-## „In einem vereinten Europa dem Frieden der Welt zu dienen“
+## Zusammen­ fassung — „In einem vereinten Europa dem Frieden der Welt zu dienen“
 
 – auf der Grundlage dieses Auftrags aus dem Grundgesetz wollen wir eine freie internationale Ordnung mitgestalten, die dem Völkerrecht, der Charta der Vereinten Nationen, der souveränen Gleichheit der Staaten, der Gewaltfreiheit, dem Selbstbestimmungsrecht der Völker und den universellen Menschenrechten verpflichtet ist.
 
@@ -218,9 +210,7 @@ Sicherheit geht alle Menschen in unserem Land etwas an, alle tragen dafür Veran
 
 Mit der Politik der Integrierten Sicherheit wollen wir zusammen mit unseren Verbündeten, Nach­ barn und Partnern zur Sicherheit in Europa und der Welt beitragen. Gemeinsam wollen wir unsere Zukunft gestalten – im Bewusstsein der Risiken, aber mit Zuversicht und im vollen Ver­ trauen auf unsere Stärken.
 
-## Deutschland in Europa und der Welt
-
-## „In einem vereinten Europa dem Frieden der Welt zu dienen“:
+## Deutschland in Europa und der Welt — „In einem vereinten Europa dem Frieden der Welt zu dienen“:
 
 Dieses Ziel deutscher Außen-und Sicherheitspolitik gibt das Grundgesetz in seiner Präambel vor. Auf dieser Grundlage wollen wir eine freie internationale Ordnung mitgestalten, die dem Völkerrecht und der Charta der Vereinten Nationen, der souveränen Gleichheit der Staaten und der Gewaltfreiheit, dem Selbstbestimmungsrecht der Völker und den universellen Menschenrechten verpflichtet ist – für ein nachhaltiges Leben in Sicherheit und Freiheit.
 

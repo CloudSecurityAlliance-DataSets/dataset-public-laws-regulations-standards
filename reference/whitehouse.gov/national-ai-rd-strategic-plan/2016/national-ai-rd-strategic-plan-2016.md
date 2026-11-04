@@ -1,14 +1,8 @@
 # The National Artificial Intelligence Research and Development Strategic Plan (2016)
 
-## THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT
+## National Science and Technology Council — Networking and Information Technology Research and Development Subcommittee
 
-## STRATEGIC PLAN
-
-## National Science and Technology Council
-
-## Networking and Information Technology Research and Development Subcommittee
-
-## October 2016
+October 2016
 
 About the National Science and Technology Council
 

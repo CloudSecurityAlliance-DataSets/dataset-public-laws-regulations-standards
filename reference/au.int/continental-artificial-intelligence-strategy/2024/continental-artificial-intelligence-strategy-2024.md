@@ -2,17 +2,13 @@
 
 ## CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY
 
-### Harnessing AI for Africa’s Development and Prosperity
-
-## Continental Artificial Intelligence
+Harnessing AI for Africa’s Development and Prosperity
 
 ## Strategy
 
-### Harnessing AI for Africa’s Development
+Harnessing AI for Africa’s Development — and Prosperity
 
-### and Prosperity
-
-## July 2024
+July 2024
 
 ## FOREWORD
 
@@ -30,21 +26,19 @@ With the Continental AI Strategy, Africa is laying the necessary foundations to 
 
 The timely adoption of this Strategy illustrates the African Union and its Member States' resolve to harness AI’s immense potential for socioeconomic transformation and place the continent on an innovative growth trajectory. I urge African countries to accelerate the domestication of the strategy and implement its imperatives for the greater good of our continent and of our people.
 
-### H.E. Dr. Amani Abou-Zeid
-
-### AU Commissioner for Infrastructure and Energy
+H.E. Dr. Amani Abou-Zeid — AU Commissioner for Infrastructure and Energy
 
 ## ACKNOWLEDGMENT
 
-### The African Union Strategy on Artificial Intelligence (AI) was prepared under the leadership and guidance of H.E Dr. Amani Abou-Zeid Commissioner for Infrastructure and Energy, AU Commission as well as Director of Infrastructure and Energy Dr. Kamugisha Kazaura and Mr. Waleed Hamdi Head of Information Society Division within the department. Ms. Souhila Amazouz, Senior Digital Policy Officer oversaw the coordination of AU technical team. The document also benefited from substantive contributions and inputs from: Brian Mureverwi (AUC-ETTIM) ; Gamal Eldin Ahmed A. Karrar (AUC-ICD); Meshack Kinyua Ndiritu (AUC-ESTI) ; Taye Abdulkadir (AUC-PAPS) ; Jelagat Kimosop (AUC- ODG); Lukovi Seke, Kudakwashe Dandajena and Mercy Fomundam ( AUDA- NEPAD); Zwelithini Eugene Xaba(ACHPR) ; Mohamed Chakour (AFRIPOL); Francis Bokilo, Linda Vukani Gumede (AU Mission Brussels); Richard Apau ( ACSRT); Kundai Ngwena and Swaraj Ram (ECOSOC) ; Meriem Slimani (ATU) Marie Nde Sene (ECOWAS); Guichard Tsangou-Wanvoukissa (ECCAS); Daniel Murenzi (EAC); Willis Osemo (COMESA); Dr George Ah-Thew and Chisepo Lungu (SADC); Abdulai Sankoh, Abiyot Sinamo, Bertrand Kisito Nga, Amr Safwat, Rachid Idriss, Eric Armel N’Doumba, Gaspar Datondji, Venuste Nimbona , NGBWA Arsene Chanel , Noha Habib , KANTIZA Marius ( AU WG on AI) ; Gashami Jean Pierre Guy (AfDB) ;Olivier Gakwaya (Smart Africa); Mactar Seck and Dereje Ashenafi (UNECA); Rita Bissoonauth, Lydia Gachungi , Sibal Prateek , Khodeli Irakli, Salifou, Abdoulaye (
+The African Union Strategy on Artificial Intelligence (AI) was prepared under the leadership and guidance of H.E Dr. Amani Abou-Zeid Commissioner for Infrastructure and Energy, AU Commission as well as Director of Infrastructure and Energy Dr. Kamugisha Kazaura and Mr. Waleed Hamdi Head of Information Society Division within the department. Ms. Souhila Amazouz, Senior Digital Policy Officer oversaw the coordination of AU technical team. The document also benefited from substantive contributions and inputs from: Brian Mureverwi (AUC-ETTIM) ; Gamal Eldin Ahmed A. Karrar (AUC-ICD); Meshack Kinyua Ndiritu (AUC-ESTI) ; Taye Abdulkadir (AUC-PAPS) ; Jelagat Kimosop (AUC- ODG); Lukovi Seke, Kudakwashe Dandajena and Mercy Fomundam ( AUDA- NEPAD); Zwelithini Eugene Xaba(ACHPR) ; Mohamed Chakour (AFRIPOL); Francis Bokilo, Linda Vukani Gumede (AU Mission Brussels); Richard Apau ( ACSRT); Kundai Ngwena and Swaraj Ram (ECOSOC) ; Meriem Slimani (ATU) Marie Nde Sene (ECOWAS); Guichard Tsangou-Wanvoukissa (ECCAS); Daniel Murenzi (EAC); Willis Osemo (COMESA); Dr George Ah-Thew and Chisepo Lungu (SADC); Abdulai Sankoh, Abiyot Sinamo, Bertrand Kisito Nga, Amr Safwat, Rachid Idriss, Eric Armel N’Doumba, Gaspar Datondji, Venuste Nimbona , NGBWA Arsene Chanel , Noha Habib , KANTIZA Marius ( AU WG on AI) ; Gashami Jean Pierre Guy (AfDB) ;Olivier Gakwaya (Smart Africa); Mactar Seck and Dereje Ashenafi (UNECA); Rita Bissoonauth, Lydia Gachungi , Sibal Prateek , Khodeli Irakli, Salifou, Abdoulaye (
 
 UNESCO) ; Lishan Adam ;Linda Bonyo and Rachel Adams.
 
-### The AU Commission is grateful for the technical support provided by United Nations Educational, Scientific and Cultural Organization (UNESCO). Moreover, contributions were received from African experts from AU Member States, Regional Economic Communities and AU Specialised Institutions to enrich the
+The AU Commission is grateful for the technical support provided by United Nations Educational, Scientific and Cultural Organization (UNESCO). Moreover, contributions were received from African experts from AU Member States, Regional Economic Communities and AU Specialised Institutions to enrich the
 
 Strategy.
 
-### The AU Strategy on Artificial Intelligence (AI) was adopted by the AU Executive Council during its 45th Ordinary Session held on to 18th – 19th July 2024, in
+The AU Strategy on Artificial Intelligence (AI) was adopted by the AU Executive Council during its 45th Ordinary Session held on to 18th – 19th July 2024, in
 
 Accra, The Republic of Ghana.
 
@@ -306,7 +300,7 @@ UNESCO United Nations Educational, Scientific and Cultural Organisation
 
 WEF World Economic Forum
 
-## 1. Introduction and Context
+1. Introduction and Context
 
 ## 1.1 Introduction
 
@@ -606,7 +600,7 @@ Investment in digital technologies in general and AI in particular remains low w
 
 Due to limited infrastructure and skills, Africa’s AI ecosystem is still in its infancy in most countries. The ingredients for a successful startups’ ecosystem include the availability of capital and Digital Innovation Hubs (DIHs), government support and incentives, strong universities that produce breakthrough ideas and tools that can be readily commercialised and scaled, and an educated population that produces entrepreneurs and engages in debates about AI.
 
-## 2. Continental AI Strategy
+2. Continental AI Strategy
 
 ## 2.1 Vision and Mission
 
@@ -830,9 +824,7 @@ Associated Actions
 
 • Support AU Member States’ efforts to formulate and implement national policies on AI in education • Support AU Member States to develop validation mechanisms to verify AI systems to be adopted in education • Develop AI competency frameworks and appropriate training programmes in alignment with digital and/or general competency frameworks for teachers. • Develop AI competency frameworks for students and enhance government-sanctioned curriculum or education programmes on AI. • Assess skills requirements at basic, secondary and tertiary education levels to identify key challenges that Member States face in building AI skills. • Support AU Member States to develop national AI competencies for teachers and students. • Designate centres of excellence in Africa to conduct analysis on AI in education and build a knowledge base of policies, frameworks, indigenous educational AI tools, and use cases in the continent. • Continuously review the trends of AI development and the long-term impact of AI on education, teaching and learning to provide a valid and robust evidence-based foundation for policy-making. • Build national and institutional pre-emptive validation mechanisms for AI systems to be deployed in education and educational tools incorporating AI technology.
 
-### iv. Expanding AI Adoption for Climate Change Adaptation and
-
-### Building Resilience in Africa
+### iv. Expanding AI Adoption for Climate Change Adaptation and — Building Resilience in Africa
 
 The use of AI can help address the adverse effects of climate change. Existing AI systems include tools that predict the weather, track heat waves and cyclones, and identify pollution. AI, satellite imagery and ecological expertise are often used to map the impact of deforestation on the climate crisis. According to the World Meteorological Organisations’ State of the Climate in Africa 2022, more than 110 million people on the continent were directly affected by weather, climate and water-related hazards, causing more than US$ 8.5 billion in economic damage.26
 
@@ -1216,9 +1208,7 @@ However, it is worth noting that AI is being discussed in different forums hoste
 
 Initiatives that build the capacity of diplomats, Political leadership of AU organs and decision-makers will also contribute towards increasing Africa’s participation in global governance. The AU will also endeavour that African institutions are represented in all forms of discussion on AI issues affecting the lives of people.
 
-### High-Level Recommendations
-
-o The AU Commission to coordinate and lead Africa’s participation in multilateral
+High-Level Recommendations o The AU Commission to coordinate and lead Africa’s participation in multilateral
 
 engagements and global debates around AI governance and future planetary and existential risks of AI,
 
@@ -1242,7 +1232,7 @@ towards bridging the technological and AI gap between Africa and other regions. 
 
 • Ensure AU Member States bid for hosting global AI events to facilitate knowledge sharing and increased participation of African experts.
 
-## 3. Implementation of AI Strategy
+3. Implementation of AI Strategy
 
 ## 3.1 Building Capacity
 

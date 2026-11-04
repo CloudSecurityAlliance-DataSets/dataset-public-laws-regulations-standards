@@ -16,8 +16,8 @@
   "license": {
     "spdx": "CC-BY-4.0",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
     "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
@@ -26,7 +26,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
-    "textUsed": "",
+    "textUsed": "https://web.archive.org/web/20261006141330id_/https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -37,12 +37,27 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": null,
-  "extraction_history": [],
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://web.archive.org/web/20261006141330id_/https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) to Markdown (10,489 chars). Parsed 11 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
   "scope": {},
-  "notes": "Official primary full-text document for secid:reference/homeaffairs.gov.au/national-ai-plan@2025 (https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "notes": "",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "source-unavailable"
+    "state": "extracted",
+    "reason": "policy-doc"
   }
 }

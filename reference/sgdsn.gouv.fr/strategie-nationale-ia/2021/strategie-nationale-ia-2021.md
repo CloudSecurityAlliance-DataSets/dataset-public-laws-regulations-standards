@@ -1,10 +1,6 @@
 # Stratégie nationale pour l'intelligence artificielle — 2e phase (2021)
 
-## STRATÉGIE NATIONALE POUR L’INTELLIGENCE ARTIFICIELLE – 2e phase
-
-## Conquérir les talents et transformer notre potentiel scientifique en succès économiques
-
-## Dossier de presse 8 novembre 2021
+## STRATÉGIE NATIONALE POUR L’INTELLIGENCE ARTIFICIELLE – 2e phase — Conquérir les talents et transformer notre potentiel scientifique en succès économiques — Dossier de presse 8 novembre 2021
 
 Sommaire
 
@@ -184,9 +180,7 @@ Le 4e Programme d’investissements d’avenir contribuera à l’investissement
 
 France 2030 contribuera à l’investissement dans la formation à l’IA à hauteur de 700 M€ à l’horizon 2025.
 
-## Stratégie nationale pour l’IA : la France aux avant-postes européens
-
-## L’IA, paradigme technologique toujours en plein essor
+## Stratégie nationale pour l’IA : la France aux avant-postes européens — L’IA, paradigme technologique toujours en plein essor
 
 La science des données, l’IA et la robotique sont devenues un terrain d’affrontement dans la compétition économique. Maîtriser leurs technologies constitue un atout indispensable pour la puissance industrielle de l’avenir.
 
@@ -324,9 +318,7 @@ Par ailleurs, elles attirent de plus en plus d’investisseurs : elles ont déj�
 
 Enfin, ces acteurs créent de l’emploi aujourd’hui en France : 13 459 personnes travaillent dans les start-ups de l’IA en 2021 (pour 70 000 emplois indirects générés), c’est-à-dire une augmentation de 35% par rapport à 2020 (10 008 employés), et ces entreprises prévoient de recruter plus 9 000 personnes sur l’année 2022 selon le recensement de France Digitale.
 
-## Capitaliser et accélérer dans les 5 prochaines années
-
-## Un nouvel élan ambitieux pour l’IA (2021-2025)
+## Capitaliser et accélérer dans les 5 prochaines années — Un nouvel élan ambitieux pour l’IA (2021-2025)
 
 Depuis 2018, la compétition internationale s’est fortement accrue dans les domaines de l’IA: des progrès très nets du traitement automatisé du langage naturel aux résultats prédictifs des modèles d’apprentissage profonds en matière de biologie moléculaire structurale, par exemple.
 
@@ -518,9 +510,7 @@ Mesure : Soutenir le développement d’une IA de confiance pour accélérer son
 
 11 Rapport intermédiaire d’EY “Sans confiance, quel avenir pour l’Intelligence Artificielle dans l’industrie ? »
 
-### Accélérer la diffusion des systèmes d’IA responsables pour moderniser l’économie
-
-### Faciliter l’industrialisation de l’IA et l’accès aux données par des services
+### Accélérer la diffusion des systèmes d’IA responsables pour moderniser l’économie — Faciliter l’industrialisation de l’IA et l’accès aux données par des services
 
 Comme les autres vagues de technologies numériques avant elle, l’IA connaît un vaste mouvement de création de services destinés à accélérer et simplifier son déploiement dans les entreprises dans de bonnes conditions de sécurité. Il comporte plusieurs dimensions :
 

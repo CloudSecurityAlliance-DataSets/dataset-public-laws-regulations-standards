@@ -307,3 +307,251 @@ International engagement is an integral part of the strategy, which aims to stre
 54 The AI Act has entered into force on 1 August 2024. It progressively enters into application until 2 August 2027. The general provisions and prohibitions started to apply on 2 February 2026, the rules related to governance and general-purpose AI models will apply on 2 August 2025, the general application, which covers the rules for high-risk AI systems, transparency and measures in support of innovation, takes effect on 2 August 2026 and the rules for high-risk AI systems covered by existing product legislation will apply on 2 August 2027.
 
 The AI Continent Action Plan brings together a set of initiatives aimed at accelerating policy action that is needed to positionEurope at the forefront of innovation in tech sectors. By investing in key areas like AI, quantum computing, and chip design, Europe can enhance its productivity and competitiveness, ensure its tech sovereignty, and provide high-quality public services to its citizens. This is a unique opportunity for Europe to act swiftly to shape the future of AI and create a better tomorrow for all Europeans, ultimately becoming a leading AI Continent.
+
+## Annex I: Coordinated Plan / Action Plan Annex
+
+EUROPEAN COMMISSION
+
+to the
+
+Brussels, 9.4.2025 COM(2025) 165 final
+
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+
+COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+AI Continent Action Plan
+
+Summary of the 13 selected EuroHPC AI Factories
+
+LUMI AI Factory CSC - IT Center for Science
+
+Consortium AI supercomputer Key sectors
+
+LUMI-AI (New AI-
+
+FI, CZ, DK, EE, NO, PL
+
+optimised supercomputer)
+
+Manufacturing; health; life science;
+
+communication technologies
+
+The LUMI AI Factory (LAIF) aims to be a pioneering, open AI ecosystem that seamlessly integrates world-class computing power, high-value data, and top-tier AI talent. It is built on the experience of supporting high-impact AI use cases on the LUMI supercomputer. Leveraging a comprehensive and accessible service infrastructure serving a state-of-the-art expert support center and ecosystem hub LAIF will empower AI startups, SMEs, researchers, and other public and private users to develop innovative European AI models and applications and AI tools and solutions. Services will cater to diverse users, from HPC beginners to experienced AI developers, making a significant investment in talent and competence development.
+
+LAIF will feature its services around a new AI-focused supercomputer leveraging a large, accelerated partition utilising the latest generation GPUs and CPUs. The innovative concept of software-defined partitions offers flexibility in supporting a wide range of compute workloads, from training to inference and classical simulations.
+
+IT4LIA CINECA Consorzio Interuniversitario
+
+Consortium AI supercomputer Key sectors
+
+IT, AT, SI New AI-optimised
+
+supercomputer
+
+Agri-tech; agri-food; cybersecurity; Earth sciences; healthcare; art; education; Finance
+
+The Italian AI Factory, IT4LIA, is a pioneering initiative aimed at accelerating Italy’s and Europe’s AI landscape through a new AI optimised computing infrastructure and a comprehensive portfolio of services addressed to a broad ecosystem of current and future AI users. This initiative will provide AI researchers, startups, SMEs, industry leaders, and public institutions with the resources necessary to develop, deploy, and scale AI enabled innovations.
+
+The AI factory will leverage a continuum of computing facilities able to cover all the AI workload needs from data preparation and processing, to model training and inference services. IT4LIA benefits from the EuroHPC Leonardo supercomputer, its AI-enhanced LISA system, the GAIA cloud, and the upcoming AI-optimized AI Factory system.
+
+BSC AI Factory Barcelona Supercomputing Center
+
+Consortium AI supercomputer Key sectors
+
+MareNostrum 5 (to be
+
+ES, PT, RO, TR
+
+upgraded with AI
+
+capabilities)
+
+Health; climate; agriculture, finance; legal;
+
+energy; communications; media; public
+
+sector
+
+The BSC AI Factory will be built around the Mare Nostrum 5 supercomputer and will provide users with the development and operation of a comprehensive set of high-value AI-oriented computing and other services with specialised support.
+
+The MareNostrum 5 supercomputer will be upgraded to incorporate the most recent AI-oriented computing architectures, specially designed for AI workflows like LLM training and inference, including a storage system designed for AI workloads, connected to the massive storage of MareNostrum 5. It will include advanced AI computing capabilities with a dedicated and specialised AI software and extensive data repository.
+
+The BSC AI Factory will be complemented by the establishment of a unique advanced experimental AI-optimised platform for testing new computing technologies as they come to market.
+
+Luxembourg AI Factory
+
+LuxProvide
+
+Consortium AI supercomputer Key sectors
+
+MeluXina-AI (New AI-
+
+LU
+
+optimised supercomputer)
+
+Finance; space; cybersecurity; green
+
+economy
+
+The Luxembourg AI Factory, LuxProvide, addresses the challenges of integrating AI into businesses and empowering companies of all sizes to fully capitalise on AI's potential, develop cutting-edge, trustworthy, and safe AI solutions. It will support all organisations and actively lead and grow early-stage start-ups, scale-ups, and SMEs.
+
+At the core of LuxProvide is MeluXina-AI, a new sovereign AI-optimised supercomputer, hosted in two leading data centres, providing secure, hyperconnected and scalable computing power for AI development and deployment. With an innovative cloud-native, dynamic, multi-tenant and multi-site approach, MeluXina-AI goes beyond the pursuit of extraordinary AI performance. It implements highly secure processing environments for private AI and supports an end-to-end computing continuum through compute and data bridges that allow easy integration with data lakes and services from cloud service providers and AI Factories.
+
+MIMER National Academic Infrastructure of Supercomputing
+
+Consortium AI supercomputer Key sectors
+
+SE New AI-optimised
+
+supercomputer
+
+Life science; material sciences; autonomous
+
+systems; gaming industry; climate;
+
+agriculture
+
+The Swedish AI Factory, MIMER, is built on two pillars: a new AI-dedicated supercomputer and a team of AI specialists providing hands-on assistance. MIMER will focus on AI users and AI workloads, comprising both hardware, training and support. It will provide a dedicated hub for AI research, development, and applications supporting both academia and industry. MIMER will lower barriers to AI adoption and help users harness AI to tackle complex challenges through project-focused onboarding, data stewarding, AI training, and final model delivery.
+
+MIMER services will be based on a supercomputer that is designed for large-scale model training, generative AI, and real-time inference, integrating high-performance GPUs with cloud-style access to facilitate both interactive exploratory research and production-level AI deployment.
+
+HammerHAI High-Performance Computing Center Stuttgart
+
+Consortium AI supercomputer Key sectors
+
+DE New AI-optimised
+
+supercomputer Engineering; manufacturing
+
+The HammerHAI (Hybrid and Advanced Machine Learning Platform for Manufacturing, Engineering, and Research) AI Factory aims to provide European businesses and researchers with secure, scalable, and easily accessible AI resources for training and inference, covering key aspects of the entire AI lifecycle. The primary objective of HammerHAI is to lower the barriers for start-ups, SMEs, large enterprises, and scientific institutions that need powerful computing capabilities to create and deploy AI-driven solutions. By blending state-of-the-art supercomputing know-how with modern “cloud-like” features, HammerHAI will speed up innovation, help train an AI-ready workforce and foster a robust and secure AI ecosystem in Germany and across Europe.
+
+At the heart of HammerHAI will be a new AI-optimised supercomputer that will offer accelerated nodes that cater to medium to large-scale AI model training and inference workloads, cloud-like usability that lets users migrate existing solutions to HammerHAI’s infrastructure, access compute resources on an as-needed basis, and robust security standards.
+
+Pharos National Infrastructures for Research and Technology
+
+Consortium AI supercomputer Key sectors
+
+DAEDALUS (Existing AI optimised
+
+EL
+
+Supercomputer)
+
+Health; culture; language; sustainability
+
+Pharos, the Greek AI Factory, will serve as a hub connecting the academic and research community with both public and private sectors. Pharos is designed to stimulate the creation of new AI-driven services and will play a crucial role in nurturing a vibrant and competitive ecosystem of startups and SMEs specializing in AI. Pharos will enable seamless data and compute sharing with other European infrastructures and provide access to cloud services.
+
+Pharos will exploit DAEDALUS, the EuroHPC supercomputer currently under deployment in Greece. DAEDALUS will support large-scale AI applications through its high-speed data processing, liquid cooling for efficiency, and extensive storage solutions. HPC-demanding services will interact with DAEDALUS infrastructure to enable computational-heavy resources, storage resources, job scheduling, high-speed network connectivity, and ready-to-use software stacks.
+
+JUPITER AI Factory Jülich Supercomputing Centre
+
+Consortium AI supercomputer Key sectors
+
+JUPITER (Existing AI-optimised
+
+DE
+
+exascale supercomputer)
+
+Healthcare; energy; climate; environment;
+
+education; culture; media; public sector;
+
+finance; insurance; manufacturing
+
+The JUPITER AI Factory (JAIF) is establishing a world-class AI ecosystem targeting for European startups, SMEs, industry and cutting-edge research with the most powerful European supercomputer, JUPITER, at its core, combining exascale supercomputing, data and support structures, excellence in science and in methodological research on AI, including largest foundation models, closest links to industry and SMEs, and community building.
+
+JUPITER, the first European exascale supercomputer, will be available from mid-2025. The GPU-accelerated JUPITER module, catering for AI applications, features very energy efficient and extremely powerful superchips. JUPITER is complemented by the inference module JARVIS, which is optimized for cloud-like operation with a focus on applying and improving AI models creating a unique world-class modular supercomputer environment for AI applications.
+
+AI Factory France Grand équipement national de calcul intensif
+
+Consortium AI supercomputer Key sectors
+
+Alice Recoque (AI-optimised exascale
+
+FR
+
+supercomputer)
+
+Robotics; health; Earth science; materials
+
+science; security; energy; sustainability;
+
+digital continuum; aerospace; edtech;
+
+agriculture; finance; humanities
+
+With the primary goal of fostering the use of AI for research, innovation and public services in Europe, the AI factory France will setup a unique AI one-stop shop that will act as a front-end to the whole AI French ecosystem, while also serving the European one. AI Factory France aims to federate a strong and decentralized AI ecosystem, involving startups, SMEs, large companies research organizations, data centres, universities, business and engineering schools, at the leading edge in AI software, models and training.
+
+AI Factory France relies on Alice Recoque, the second EuroHPC exascale AI-ready supercomputer. This system now under procurement is meant as a converged supercomputer to address both the needs of numerical simulation, processing of large datasets and artificial intelligence. AI Factory France proposes to open its services at the very beginning of the project by providing access to supercomputers and user support services in HPC/AI using operational GENCI’s national systems.
+
+Slovenian AI Factory Institute of Information Science
+
+Consortium AI supercomputer Key sectors
+
+SI New AI-optimised
+
+supercomputer
+
+Agriculture; environment; energy;
+
+manufacturing; upcycling; health;
+
+biotechnology; digital society
+
+The Slovenian AI Factory (SLAIF) will enhance Slovenia's AI capabilities by integrating a cutting-edge AI-optimized supercomputer with a dynamic AI ecosystem, supporting industry, research, and public institutions. SLAIF will provide a comprehensive support framework, including sector-specific AI-development and deployment guidance and support services, access to pre-trained AI models, data, and tailored cloud-based AI services.
+
+At the heart of SLAIF will be a new AI-optimised supercomputer, which will replace the current Vega EuroHPC system, ensuring continued excellence in computing and storage infrastructure for industry and science. Designed with sustainability in mind, it will be powered by renewable hydroelectric energy, while ensuring that Slovenia remains at the forefront of AI-driven scientific discovery and innovation. Additionally, the supercomputer’s cloud infrastructure will allow companies to integrate AI capabilities seamlessly into their operations.
+
+PIAST AIF Poznań Supercomputing and Networking Center
+
+Consortium AI supercomputer Key sectors
+
+PL New AI-optimised
+
+supercomputer
+
+Health; life science; IT; cybersecurity; space;
+
+robotics; sustainability; public sector
+
+The Polish PIAST AI Factory is designed as a leading AI innovation hub integrating HPC, cloud-based AI services, and cutting-edge research infrastructure in Poland. By fostering innovation, encouraging industry adoption – particularly by SMEs, spin-offs, and startup companies – and leveraging key EU initiatives. AI developers will gain access to high-quality, federated datasets via national and EU open data repositories, supporting explainable AI frameworks and real-time AI analytics. SMEs and start-ups will be supported with dedicated resources for AI model development, training programs, and secure data handling.
+
+To support AI research and deployment, a new AI tailored supercomputer will be acquired for heavy AI workloads, generative AI, AI-cloud-HPC integration, and AI-quantum simulations. Overall, the PIAST AI Factory will help to position Poland as a relevant contributor to Europe’s AI landscape.
+
+AI Factory Austria Advanced Computing Austria
+
+Consortium AI supercomputer Key sectors
+
+AT New AI-optimised
+
+supercomputer
+
+Biotechnology; agriculture; manufacturing;
+
+public administration; physics; industry
+
+The AI Factory Austria (AI:AT) is a new, large-scale initiative designed to elevate Austria’s AI capabilities and accelerate the development and adoption of trustworthy AI solutions in Austria’s major industry sectors. As an innovation center and one-stop-shop for AI, AI:AT will provide access to cutting-edge supercomputing resources, expert guidance, and collaborative spaces for businesses, researchers, government organizations and innovators. By providing cost-effective, high-capacity resources on shared platforms, AI:AT will enable researchers, SMEs, public organizations and large enterprises to collaborate seamlessly, fostering innovation and accelerating AI-driven breakthroughs.
+
+At the heart of AI:AT will be a new Austrian AI supercomputer, which will be equipped with advanced GPUs, direct water cooling, and high-speed interconnects to deliver scalable, high-performance computing for AI-intensive applications across diverse fields, from life sciences and manufacturing to materials science.
+
+Bulgarian Robotics & AI Nexus
+
+Sofia Tech Park
+
+Consortium AI supercomputer Key sectors
+
+BG New AI-optimised
+
+supercomputer
+
+Language; robotics; space; Earth; product
+
+development
+
+The Bulgarian Robotics & AI Nexus (BRAIN++) AI Factory is designed to establish advanced AI ecosystem and deploy the Discoverer++, aiming to create a robust ecosystem for AI research, development, and application, fostering innovation and collaboration across academia, industry, and public institutions. BRAIN++ will promote trustworthy AI compliance tools, federated AI data lakes, and cloud-based collaborative workspaces.
+
+Discoverer++ is the new supercomputer, which will be housed alongside the EuroHPC supercomputer Discoverer+. It will feature a new AI optimise system with heterogeneous GPU/CPU partitions optimized for generative AI workloads, cutting-edge cooling systems ensuring energy efficiency, and specialised sectorial partitions.

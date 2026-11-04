@@ -21,20 +21,12 @@
     "section_name": "Contents",
     "id_kind": "",
     "parent_id": "",
-    "body": "Minister’s foreword\b 4\n\nExecutive summary: Our 2030 Vision\b 6\n\nStrategic context\b 11\n\nWhy we must act now\b 12\n\nWhy Australia has an opportunity to lead\b 13\n\nOur Strategy\b 15\n\nShield 1: Strong businesses and citizens\b 16\n\n1. Support small and medium businesses to strengthen their cyber security\b 18\n\n2. Help Australians defend themselves from cyber threats\b 19\n\n3. Disrupt and deter cyber threat actors from attacking Australia\b 20\n\n4. Work with industry to break the ransomware business model\b 22\n\n5. Provide clear cyber guidance for businesses \b 23\n\n6. Make it easier for Australian businesses to access advice and support after a cyber incident\b 25\n\n7. Secure our identities and provide better support to victims of identity theft\b 26\n\nShield 2: Safe technology\b 28\n\n8. Ensure Australians can trust their digital products and software\b 29\n\n9. Protect our most valuable datasets\b 31\n\n10. Promote the safe use of emerging technology\b 32\n\nShield 3: World-class threat sharing and blocking\b 34\n\n11. Create a whole-of-economy threat intelligence network\b 35\n\n12. Scale threat blocking capabilities to stop cyber attacks\b 37\n\nShield 4: Protected critical infrastructure\b 38\n\n13. Clarify the scope of critical infrastructure regulation\b 40\n\n14. Strengthen cyber security obligations and compliance for critical infrastructure\b 41\n\n15. Uplift cyber security of the Commonwealth Government\b 42\n\n16. Pressure-test our critical infrastructure to identify vulnerabilities\b 44\n\nShield 5: Sovereign capabilities\b 46\n\n17. Grow and professionalise our national cyber workforce\b 47\n\n18. Accelerate our local cyber industry, research and innovation\b 50\n\nShield 6: Resilient region and global leadership\b 52\n\n19. Support a cyber resilient region as the partner of choice\b 53\n\n20. Shape, uphold and defend international cyber rules, norms and standards\b 55\n\nNext steps: Implementation and evaluation\b 57\n\nHow we will ensure we are on track to deliver\b 57\n\nAppendix A: List of acronyms\b"
+    "body": "Minister’s foreword  4\n\nExecutive summary: Our 2030 Vision  6\n\nStrategic context  11\n\nWhy we must act now  12\n\nWhy Australia has an opportunity to lead  13\n\nOur Strategy  15\n\nShield 1: Strong businesses and citizens  16\n\n1. Support small and medium businesses to strengthen their cyber security  18\n\n2. Help Australians defend themselves from cyber threats  19\n\n3. Disrupt and deter cyber threat actors from attacking Australia  20\n\n4. Work with industry to break the ransomware business model  22\n\n5. Provide clear cyber guidance for businesses   23\n\n6. Make it easier for Australian businesses to access advice and support after a cyber incident  25\n\n7. Secure our identities and provide better support to victims of identity theft  26\n\nShield 2: Safe technology  28\n\n8. Ensure Australians can trust their digital products and software  29\n\n9. Protect our most valuable datasets  31\n\n10. Promote the safe use of emerging technology  32\n\nShield 3: World-class threat sharing and blocking  34\n\n11. Create a whole-of-economy threat intelligence network  35\n\n12. Scale threat blocking capabilities to stop cyber attacks  37\n\nShield 4: Protected critical infrastructure  38\n\n13. Clarify the scope of critical infrastructure regulation  40\n\n14. Strengthen cyber security obligations and compliance for critical infrastructure  41\n\n15. Uplift cyber security of the Commonwealth Government  42\n\n16. Pressure-test our critical infrastructure to identify vulnerabilities  44\n\nShield 5: Sovereign capabilities  46\n\n17. Grow and professionalise our national cyber workforce  47\n\n18. Accelerate our local cyber industry, research and innovation  50\n\nShield 6: Resilient region and global leadership  52\n\n19. Support a cyber resilient region as the partner of choice  53\n\n20. Shape, uphold and defend international cyber rules, norms and standards  55\n\nNext steps: Implementation and evaluation  57\n\nHow we will ensure we are on track to deliver  57\n\nAppendix A: List of acronyms"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Minister’s foreword",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "The Hon Clare O’Neil MP Minister for Home Affairs | Minister for Cyber Security",
+    "section_name": "Minister’s foreword — The Hon Clare O’Neil MP Minister for Home Affairs | Minister for Cyber Security",
     "id_kind": "",
     "parent_id": "",
     "body": "Cyber security is an urgent national problem, and we need to act now. After a decade of malaise, Australia has fallen behind. For too long, Australian citizens and businesses have been left to fend for themselves against global cyber threats.\n\nCyber security touches the lives of every Australian. Over the past 18 months, millions of Australians have been affected by devastating cyber incidents. On average, one cybercrime is reported every 6 minutes, with ransomware alone causing up to $3 billion in damages to the Australian economy every year1.\n\nAnd, we have good reasons to believe that the threat is going to continue to grow. Artificial intelligence and machine learning will bring new kinds of risk. The Internet of Things will lead to billions of additional devices being connected to the Internet, opening new scope for cyberattack. And, our geopolitical environment is the most challenging we have faced since the Second World War.\n\nWe must not forget that cyber security is also a big opportunity for our country. The global cyber industry is massive and it is growing rapidly, and it is here to stay. If we play it right, Australia is uniquely placed to create well-paid jobs for Australians and products that we can export all over the world.\n\nOver the last 12 months, I have engaged hundreds of business leaders, community representatives and cyber experts within Australia and from around the world. I have stepped into the security operations centres of some of the biggest Australian companies. I have spoken with small business owners, universities, not-for-profits, and community leaders.\n\nThe one thing I have heard consistently is that Australians are demanding action on cyber. It is time for real and meaningful change. That’s why the Albanese Labor Government is launching the 2023-2030 Australian Cyber Security Strategy. This Strategy sets out our bold vision for Australia to be a world leader in cyber security by 2030.\n\nOur Strategy will change the game for Australia’s cyber security. Under the Strategy, we are building six ‘cyber shields’ to help defend our citizens and businesses from cyber threats. Each shield provides an additional layer of defence, making Australia a harder target.\n\nBut we’re not only reinforcing our defences. We’re also investing in national cyber resilience, so we can bounce back when we get hit. And we’re fighting back, deploying Australia’s leading cyber capabilities to put malicious actors on notice. We are rallying our international network of cyber guns to help break the business model of ransomware and cybercrime.\n\n1. ASD (2023). ASD Cyber Threat Report 2022–2023.\n\nOur Strategy calls for a new era of collaboration on cyber in Australia. We’re leading by example, producing a strategy that defines a clear vision for both domestic and international cyber security for the first time.\n\nWe want to remain the security partner of choice for nations in the Pacific family. We’ve consulted closely with our regional partners to understand their unique cyber challenges. We’ve heard from Pacific Islands that digitisation and connectivity are key parts of their economic development strategies, but also increase the cyber risks they face as nations.\n\nConsultation is at the heart of this Strategy. Input from thousands of experts, businesses and citizens across nearly every sector of the economy have contributed to this plan.\n\nIn December 2022, I appointed an Expert Advisory Board to guide the development of the Strategy – chaired by Andrew Penn AO, former CEO of Telstra, with Rachael Falk, CEO of the Cyber Security Cooperative Research Centre, and Mel Hupfeld AO DSC. The Board authored a Discussion Paper which received over 330 written responses. I am deeply grateful for the stewardship of the Board, and for their immense contribution to the Strategy.\n\nCyber security requires government and big business to lead. From today, we are shifting more of the cyber risk to those who are most capable. We are holding industry to higher standards to protect our devices, our data, and our critical infrastructure. For the first time, Government will hold itself to the same standard it expects of industry.\n\nThe strategy is bold and ambitious – and it has to be. Because one thing is abundantly clear from what’s happened to our cyber environment in the last five years: we simply can’t continue as we are. We need to push harder, we need to get in front of this problem, and for the first time, Australia’s Cyber Security Strategy will help our country do just that.\n\nThe Hon Clare O’Neil MP Minister for Home Affairs and Cyber Security\n\nExecutive summary: Our 2030 Vision\n\nBy 2030, Australia will be a world leader in cyber security.\n\nWe envisage a future where stronger cyber defences enable our citizens and businesses to prosper, and to bounce back quickly following a cyber attack.\n\nTo achieve our vision, we need to protect Australians. We will do this with six cyber shields.\n\nEach shield provides an additional layer of defence against cyber threats and places Australian citizens and businesses at its core. Throughout the period covered by the 2023–2030 Australian Cyber Security Strategy (the Strategy), the Australian Government will work with industry to reinforce these shields and build our national cyber resilience.\n\nFigure 1: Cyber shields\n\n6\n\nnd\n\ngl\n\na\n\non\n\ngi\n\nre\n\nnt\n\nie\n\nsil\n\n5\n\nRe\n\nn c\n\nap\n\nig\n\nre\n\nve\n\nSo\n\n4\n\nic\n\nal\n\ni\n\nit\n\nnf\n\ncr\n\nd\n\ne\n\nct\n\ne\n\not\n\n3\n\nPr\n\nh\n\ns\n\nt\n\na\n\na\n\nri\n\ne\n\nr\n\nh\n\nt\n\ns\n\ns\n\na\n\n2\n\nl\n\nc\n\n-\n\nd\n\nl\n\nr\n\nh\n\nc\n\ne\n\nn\n\nt\n\no\n\no\n\ne\n\nl\n\nf\n\na\n\nW\n\nS\n\n1\n\nob\n\nal\n\nle\n\nad\n\ners\n\nhi\n\np\n\nab\n\nili\n\nti\n\nes\n\nra\n\nst\n\nru\n\nc\n\ntu\n\nre\n\nn\n\ng\n\na\n\nn\n\nd\n\nb\n\nl\n\no\n\nc\n\nk\n\ni\n\no\n\nn\n\ng\n\ny\n\ng\n\nStrong businesses and citizens\n\nOur cyber shields\n\nOur citizens and businesses are better protected from cyber threats, and can recover quickly following a cyber attack. 1\n\nStrong businesses and citizens\n\nAustralians can trust that their digital products and services are safe, secure and fit for purpose. 2\n\nSafe technology\n\nAustralia has access to real-time threat data, and we can block threats at scale. 3\n\nWorld-class threat sharing and blocking\n\nOur critical infrastructure and essential government systems can withstand and bounce back from cyber attacks. 4\n\nProtected critical infrastructure\n\nAustralia has a flourishing cyber industry, enabled by a diverse and professional cyber workforce. 5\n\nSovereign capabilities\n\nResilient region and global leadership\n\nAustralia’s region is more cyber resilient, and will prosper from the digital economy. We will continue to uphold international law and norms and shape global rules and standards in line with our shared interests. 6\n\nWe need to act now.\n\nCyber security touches the lives of every person in the country. Australia is an attractive target for cyber criminals; over the past year, millions of Australians have had their personal data stolen and released online. Emerging technology is changing our digital landscape, with the rise of artificial intelligence (AI) and quantum computing creating new opportunities and challenges for cyber security. The stakes in protecting our people and businesses have never been higher.\n\nCyber security presents rich opportunities for Australia.\n\nCyber security is not just about defending ourselves against threats – it’s critical to support the rapid adoption of new technologies, boosting productivity and growing the digital economy. Cyber security presents a thriving and growing business opportunity for our country. An investment in our cyber security is an investment in our economic security. If we act quickly, Australia can take advantage of the opportunity to turbocharge our tech sector and create prosperity for our citizens. We can become a global leader in cyber technologies and be recognised as a top destination of choice for cyber talent. Our strategy will put Australia in the fast lane for cyber research, innovation, and entrepreneurship. By 2030, Australia can lead the cyber frontier.\n\nAustralia is uniquely placed to capture this opportunity.\n\nAlthough there’s a lot of work to do, we are starting from a position of strength. Australia has an extensive track record of trailblazing legislative reform. From our workplace health and safety reforms to our tobacco plain packaging laws, Australia has continuously set global standards for public safety. But regulation is not the only solution – we’ve also got strong cyber offensive capabilities, led by the Australian Signals Directorate (ASD) and the Australian Federal Police (AFP). Our world-class research and education institutions will allow Australia to become a global leader in cyber innovation. Our tech sector is growing rapidly, enabled by the Government’s once-in-a-generation reform of the migration system. We’re supported by our deep and trusted partnerships across the globe, including strong relationships with our regional neighbours, Quad and Five Eyes partners.\n\nWe will deliver our strategy across three horizons.\n\nThe journey to achieve our 2030 vision requires multiple phases of work and ongoing collaboration between the Government and industry to uplift our cyber maturity. We will deliver our strategy in three phases:\n\n• In Horizon 1 (2023–25): we will strengthen our foundations. We will address critical gaps in our cyber shields, build better protections for our most vulnerable citizens and businesses, and support improved cyber maturity uplift across our region.\n\n• In Horizon 2 (2026–28): we will scale cyber maturity across the whole economy. We will make further investments in the broader cyber ecosystem, continuing to scale up our cyber industry and grow a diverse cyber workforce.\n\n• In Horizon 3 (2029–30): we will advance the global frontier of cyber security. We will lead the development of emerging cyber technologies capable of adapting to new risks and opportunities across the cyber landscape.\n\nWe have a clear roadmap for delivery.\n\nAlongside the Strategy, we are releasing an Action Plan that outlines the initiatives that we will deliver in Horizon 1. The Action Plan details immediate actions that we will take as our first steps on the journey towards our 2030 vision. It defines clear accountabilities for each initiative, identifying lead and supporting agencies. To ensure that we remain on track, the Government will continue to evaluate our progress and adjust our plan in response to new threats or emerging technologies.\n\nWe will continue to engage with industry at every step.\n\nAs part of Horizon 1, Government will work with industry to co-design a suite of landmark legislative reforms that will help us strengthen our cyber shields. This will include options for new cyber obligations, streamlined reporting processes, improved incident response and better sharing of lessons learned after a cyber incident. This package will be designed with careful consideration to minimise regulatory burden. As we want our laws to reflect expert advice and consider the needs of all Australians, we are kicking off a targeted co-design process before these changes are made.\n\nOur vision is bold and ambitious, but we have a plan to get there.\n\nAustralians deserve gold-standard cyber defences and access to the vast economic opportunities that a strong cyber posture presents. This Strategy marks a significant shift in Australia’s approach to protecting our people and businesses from cyber threats. By building and strengthening our cyber shields, Australians will work together to secure a safe and prosperous digital future. This Strategy charts our course to get there."
@@ -45,15 +37,7 @@
     "section_name": "Strategic context",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "The cyber landscape is evolving quickly, but Australia has a",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "unique opportunity to lead.\n\nToday, Australia faces a complex cyber security landscape. Australia’s economy is digital, and the continued adoption of safe and secure digital platforms, technologies and online services is critical for our nation’s productivity and future prosperity. However, cyber attacks are growing in number, speed and sophistication. The stakes are higher than ever before, with our most sensitive data and most vulnerable members of the community at risk. But we also have a unique opportunity to become a global leader in cyber security."
+    "body": "The cyber landscape is evolving quickly, but Australia has a unique opportunity to lead.\n\nToday, Australia faces a complex cyber security landscape. Australia’s economy is digital, and the continued adoption of safe and secure digital platforms, technologies and online services is critical for our nation’s productivity and future prosperity. However, cyber attacks are growing in number, speed and sophistication. The stakes are higher than ever before, with our most sensitive data and most vulnerable members of the community at risk. But we also have a unique opportunity to become a global leader in cyber security."
   },
   {
     "depth": 2,
@@ -69,15 +53,7 @@
     "section_name": "Why Australia has an opportunity to lead",
     "id_kind": "",
     "parent_id": "",
-    "body": "Australia is not starting from scratch. We have a solid foundation on which to become a world leader in cyber security. It is on this foundation that we have built our Strategy.\n\nOne of Australia’s core strengths is our robust legislative system. Our strong legislative and regulatory frameworks will help enforce new cyber security standards, while our ability to quickly change these laws will help us adapt to meet our evolving cyber security needs. From regulation of critical infrastructure under the Security of Critical Infrastructure Act 2018 (the SOCI Act) to the protection of people, information and assets in the Australian Government under the Protective Security Policy Framework and associated state and territory arrangements, the Australian Government can access a suite of levers to enhance our national cyber security. We are well placed to enact further legislative reform to achieve real whole-of-society changes.\n\nNot only do we have strong laws, we also have strong defences. Australia has a wide range of intelligence, defensive and offensive cyber capabilities to respond to serious cyber attacks. The ASD works across the full spectrum of cyber operations to defend Australia from global threats and advance our national interests. ASD acquires signals intelligence, provides proactive cyber risk advice and assistance, and may deploy offensive cyber operations. These operations are designed to deter, disrupt, degrade and deny adversaries where consistent with ASD’s existing legislative and oversight framework, in addition to domestic and international law. The AFP leads the investigation of serious and organised cybercrime activity impacting government, systems of national significance, or the wider Australian economy.\n\nThe capabilities of ASD and AFP are also enabled by many other government agencies, industry leaders and community groups. This includes our world-class research, education and tech sectors, which are driving major technological advancements in cyber security and adjacent fields. Australia has many globally successful technology companies and strong research capabilities in critical technologies, including quantum, robotics and AI. Deep partnerships between academia, industry and government mean that we can afford to raise our aspirations about what Australia can achieve.\n\nIn our region, Australia is a trusted partner of choice. We place great value on a strong region and collective capacity building. We have strengthened cyber resilience in our region by supporting the establishment of national computer emergency response teams, assisting in the development of new or strengthened national cyber strategies and legislation, delivering awareness-raising campaigns promoting online safety, and advocating for global tech companies to take security and safety more seriously.\n\nGlobally, Australia is a leading voice on cyber security. Through multilateral forums, we have demonstrated a long-standing commitment to upholding the rules-based international order. We have stood up for responsible state behaviour in cyberspace and called out instances of malicious cyber activity by nation states. As a trusted voice on the international stage, Australia has an opportunity to uplift global standards for cyber security.\n\nThese strengths are the backbone of our Strategy, and they fuel our vision for a more secure future. By building on our strategic advantages and capturing new opportunities, Australia can become a world leader in cyber security by 2030."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Our Strategy",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "1"
+    "body": "Australia is not starting from scratch. We have a solid foundation on which to become a world leader in cyber security. It is on this foundation that we have built our Strategy.\n\nOne of Australia’s core strengths is our robust legislative system. Our strong legislative and regulatory frameworks will help enforce new cyber security standards, while our ability to quickly change these laws will help us adapt to meet our evolving cyber security needs. From regulation of critical infrastructure under the Security of Critical Infrastructure Act 2018 (the SOCI Act) to the protection of people, information and assets in the Australian Government under the Protective Security Policy Framework and associated state and territory arrangements, the Australian Government can access a suite of levers to enhance our national cyber security. We are well placed to enact further legislative reform to achieve real whole-of-society changes.\n\nNot only do we have strong laws, we also have strong defences. Australia has a wide range of intelligence, defensive and offensive cyber capabilities to respond to serious cyber attacks. The ASD works across the full spectrum of cyber operations to defend Australia from global threats and advance our national interests. ASD acquires signals intelligence, provides proactive cyber risk advice and assistance, and may deploy offensive cyber operations. These operations are designed to deter, disrupt, degrade and deny adversaries where consistent with ASD’s existing legislative and oversight framework, in addition to domestic and international law. The AFP leads the investigation of serious and organised cybercrime activity impacting government, systems of national significance, or the wider Australian economy.\n\nThe capabilities of ASD and AFP are also enabled by many other government agencies, industry leaders and community groups. This includes our world-class research, education and tech sectors, which are driving major technological advancements in cyber security and adjacent fields. Australia has many globally successful technology companies and strong research capabilities in critical technologies, including quantum, robotics and AI. Deep partnerships between academia, industry and government mean that we can afford to raise our aspirations about what Australia can achieve.\n\nIn our region, Australia is a trusted partner of choice. We place great value on a strong region and collective capacity building. We have strengthened cyber resilience in our region by supporting the establishment of national computer emergency response teams, assisting in the development of new or strengthened national cyber strategies and legislation, delivering awareness-raising campaigns promoting online safety, and advocating for global tech companies to take security and safety more seriously.\n\nGlobally, Australia is a leading voice on cyber security. Through multilateral forums, we have demonstrated a long-standing commitment to upholding the rules-based international order. We have stood up for responsible state behaviour in cyberspace and called out instances of malicious cyber activity by nation states. As a trusted voice on the international stage, Australia has an opportunity to uplift global standards for cyber security.\n\nThese strengths are the backbone of our Strategy, and they fuel our vision for a more secure future. By building on our strategic advantages and capturing new opportunities, Australia can become a world leader in cyber security by 2030.\n\nOur Strategy\n\n1"
   },
   {
     "depth": 2,
@@ -85,15 +61,7 @@
     "section_name": "Strong businesses and citizens",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Our citizens and businesses are better protected from cyber",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "threats, and can bounce back quickly following a cyber attack."
+    "body": "Our citizens and businesses are better protected from cyber threats, and can bounce back quickly following a cyber attack."
   },
   {
     "depth": 2,
@@ -114,15 +82,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Support small and medium businesses",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "to strengthen their cyber security",
+    "section_name": "Support small and medium businesses — to strengthen their cyber security",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -145,7 +105,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to strengthen their cyber security: 1",
+    "section_id": "1 (1)",
     "section_name": "Offer advice and guidance to support small and medium businesses",
     "id_kind": "numbered",
     "parent_id": "",
@@ -153,7 +113,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to strengthen their cyber security: 2",
+    "section_id": "2 (1)",
     "section_name": "Build cyber resilience and provide support when an incident occurs",
     "id_kind": "numbered",
     "parent_id": "",
@@ -162,15 +122,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Help Australians defend",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "themselves from cyber threats",
+    "section_name": "Help Australians defend — themselves from cyber threats",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -193,7 +145,7 @@
   },
   {
     "depth": 3,
-    "section_id": "themselves from cyber threats: 1",
+    "section_id": "1 (2)",
     "section_name": "Extend the reach and accessibility of cyber awareness programs",
     "id_kind": "numbered",
     "parent_id": "",
@@ -201,7 +153,7 @@
   },
   {
     "depth": 3,
-    "section_id": "themselves from cyber threats: 2",
+    "section_id": "2 (2)",
     "section_name": "Empower vulnerable communities to grow their cyber literacy",
     "id_kind": "numbered",
     "parent_id": "",
@@ -210,15 +162,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Disrupt and deter cyber threat actors",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "from attacking Australia",
+    "section_name": "Disrupt and deter cyber threat actors — from attacking Australia",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -241,7 +185,7 @@
   },
   {
     "depth": 3,
-    "section_id": "from attacking Australia: 1",
+    "section_id": "1 (3)",
     "section_name": "Build our law enforcement and offensive capabilities",
     "id_kind": "numbered",
     "parent_id": "",
@@ -249,7 +193,7 @@
   },
   {
     "depth": 3,
-    "section_id": "from attacking Australia: 2",
+    "section_id": "2 (3)",
     "section_name": "Shape international legal frameworks and cooperation on cybercrime",
     "id_kind": "numbered",
     "parent_id": "",
@@ -258,15 +202,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Work with industry to break the",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "ransomware business model",
+    "section_name": "Work with industry to break the — ransomware business model",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -289,7 +225,7 @@
   },
   {
     "depth": 3,
-    "section_id": "ransomware business model: 1",
+    "section_id": "1 (4)",
     "section_name": "Enhance visibility of the ransomware threat",
     "id_kind": "numbered",
     "parent_id": "",
@@ -297,7 +233,7 @@
   },
   {
     "depth": 3,
-    "section_id": "ransomware business model: 2",
+    "section_id": "2 (4)",
     "section_name": "Provide clear guidance on how to respond to ransomware",
     "id_kind": "numbered",
     "parent_id": "",
@@ -305,7 +241,7 @@
   },
   {
     "depth": 3,
-    "section_id": "ransomware business model: 3",
+    "section_id": "3 (1)",
     "section_name": "Drive global counter-ransomware operations",
     "id_kind": "numbered",
     "parent_id": "",
@@ -314,15 +250,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Provide clear cyber",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "guidance for businesses",
+    "section_name": "Provide clear cyber — guidance for businesses",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -337,7 +265,7 @@
   },
   {
     "depth": 3,
-    "section_id": "guidance for businesses: 1",
+    "section_id": "Provide clear cyber — guidance for businesses: 1",
     "section_name": "Clarify business expectations of cyber governance",
     "id_kind": "numbered",
     "parent_id": "",
@@ -345,7 +273,7 @@
   },
   {
     "depth": 3,
-    "section_id": "guidance for businesses: 2",
+    "section_id": "Provide clear cyber — guidance for businesses: 2",
     "section_name": "Share lessons learned from cyber incidents",
     "id_kind": "numbered",
     "parent_id": "",
@@ -354,15 +282,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Make it easier for Australian businesses to access",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "advice and support after a cyber incident",
+    "section_name": "Make it easier for Australian businesses to access — advice and support after a cyber incident",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -385,7 +305,7 @@
   },
   {
     "depth": 3,
-    "section_id": "advice and support after a cyber incident: 1",
+    "section_id": "1 (5)",
     "section_name": "Simplify incident reporting",
     "id_kind": "numbered",
     "parent_id": "",
@@ -393,7 +313,7 @@
   },
   {
     "depth": 3,
-    "section_id": "advice and support after a cyber incident: 2",
+    "section_id": "2 (5)",
     "section_name": "Promote access to trusted support after an incident",
     "id_kind": "numbered",
     "parent_id": "",
@@ -402,15 +322,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Secure our identities and provide better",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "support to victims of identity theft",
+    "section_name": "Secure our identities and provide better — support to victims of identity theft",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -425,7 +337,7 @@
   },
   {
     "depth": 3,
-    "section_id": "support to victims of identity theft: 1",
+    "section_id": "1 (6)",
     "section_name": "Expand the Digital ID program to help keep Australians’ identities safe",
     "id_kind": "numbered",
     "parent_id": "",
@@ -433,7 +345,7 @@
   },
   {
     "depth": 3,
-    "section_id": "support to victims of identity theft: 2",
+    "section_id": "2 (6)",
     "section_name": "Expand support services for victims of identity theft",
     "id_kind": "numbered",
     "parent_id": "",
@@ -445,15 +357,7 @@
     "section_name": "Safe technology",
     "id_kind": "",
     "parent_id": "",
-    "body": "2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Australians can trust that their digital products and services",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "are safe, secure and fit for purpose."
+    "body": "2\n\nAustralians can trust that their digital products and services are safe, secure and fit for purpose."
   },
   {
     "depth": 2,
@@ -474,15 +378,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Ensure Australians can trust their",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "digital products and software",
+    "section_name": "Ensure Australians can trust their — digital products and software",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -497,7 +393,7 @@
   },
   {
     "depth": 3,
-    "section_id": "digital products and software: 1",
+    "section_id": "1 (7)",
     "section_name": "Adopt international security standards for digital technologies",
     "id_kind": "numbered",
     "parent_id": "",
@@ -505,7 +401,7 @@
   },
   {
     "depth": 3,
-    "section_id": "digital products and software: 2",
+    "section_id": "2 (7)",
     "section_name": "Embed cyber security into software development practices",
     "id_kind": "numbered",
     "parent_id": "",
@@ -513,7 +409,7 @@
   },
   {
     "depth": 3,
-    "section_id": "digital products and software: 3",
+    "section_id": "3 (2)",
     "section_name": "Manage the national security risks of digital technology",
     "id_kind": "numbered",
     "parent_id": "",
@@ -522,15 +418,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Protect our most",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "valuable datasets",
+    "section_name": "Protect our most — valuable datasets",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -553,7 +441,7 @@
   },
   {
     "depth": 3,
-    "section_id": "valuable datasets: 1",
+    "section_id": "Protect our most — valuable datasets: 1",
     "section_name": "Protect our datasets of national significance",
     "id_kind": "numbered",
     "parent_id": "",
@@ -561,7 +449,7 @@
   },
   {
     "depth": 3,
-    "section_id": "valuable datasets: 2",
+    "section_id": "Protect our most — valuable datasets: 2",
     "section_name": "Support data governance and security uplift across the economy",
     "id_kind": "numbered",
     "parent_id": "",
@@ -570,16 +458,8 @@
   {
     "depth": 2,
     "section_id": "10",
-    "section_name": "Promote the safe use of",
+    "section_name": "Promote the safe use of emerging technology",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "emerging technology",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -593,7 +473,7 @@
   },
   {
     "depth": 3,
-    "section_id": "emerging technology: 1",
+    "section_id": "Promote the safe use of emerging technology: 1",
     "section_name": "Support safe and responsible use of AI",
     "id_kind": "numbered",
     "parent_id": "",
@@ -601,7 +481,7 @@
   },
   {
     "depth": 3,
-    "section_id": "emerging technology: 2",
+    "section_id": "Promote the safe use of emerging technology: 2",
     "section_name": "Prepare for a post-quantum world",
     "id_kind": "numbered",
     "parent_id": "",
@@ -613,15 +493,7 @@
     "section_name": "World-class threat sharing and blocking",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Australia has access to real-time threat data,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and we can block threats at scale."
+    "body": "Australia has access to real-time threat data,\n\nand we can block threats at scale."
   },
   {
     "depth": 2,
@@ -650,16 +522,8 @@
   {
     "depth": 2,
     "section_id": "11",
-    "section_name": "Create a whole-of-economy threat",
+    "section_name": "Create a whole-of-economy threat intelligence network",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "intelligence network",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -681,7 +545,7 @@
   },
   {
     "depth": 3,
-    "section_id": "intelligence network: 1",
+    "section_id": "1 (8)",
     "section_name": "Share strategic threat intelligence with industry",
     "id_kind": "numbered",
     "parent_id": "",
@@ -689,7 +553,7 @@
   },
   {
     "depth": 3,
-    "section_id": "intelligence network: 2",
+    "section_id": "2 (8)",
     "section_name": "Expand tactical and operational threat intelligence sharing",
     "id_kind": "numbered",
     "parent_id": "",
@@ -698,15 +562,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Scale threat blocking capabilities",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "to stop cyber attacks",
+    "section_name": "Scale threat blocking capabilities — to stop cyber attacks",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -729,7 +585,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to stop cyber attacks: 1",
+    "section_id": "1 (9)",
     "section_name": "Develop next-generation threat blocking capabilities",
     "id_kind": "numbered",
     "parent_id": "",
@@ -737,7 +593,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to stop cyber attacks: 2",
+    "section_id": "2 (9)",
     "section_name": "Expand the reach of threat blocking capabilities",
     "id_kind": "numbered",
     "parent_id": "",
@@ -749,15 +605,7 @@
     "section_name": "Protected critical infrastructure",
     "id_kind": "",
     "parent_id": "",
-    "body": "4"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Our critical infrastructure and essential government systems",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "can withstand and bounce back from cyber attacks."
+    "body": "4\n\nOur critical infrastructure and essential government systems can withstand and bounce back from cyber attacks."
   },
   {
     "depth": 2,
@@ -778,16 +626,8 @@
   {
     "depth": 2,
     "section_id": "13",
-    "section_name": "Clarify the scope of critical",
+    "section_name": "Clarify the scope of critical infrastructure regulation",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "infrastructure regulation",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -809,7 +649,7 @@
   },
   {
     "depth": 3,
-    "section_id": "infrastructure regulation: 1",
+    "section_id": "1 (10)",
     "section_name": "Ensure we are protecting the right entities",
     "id_kind": "numbered",
     "parent_id": "",
@@ -817,7 +657,7 @@
   },
   {
     "depth": 3,
-    "section_id": "infrastructure regulation: 2",
+    "section_id": "2 (10)",
     "section_name": "Ensure we are protecting the right assets",
     "id_kind": "numbered",
     "parent_id": "",
@@ -826,16 +666,8 @@
   {
     "depth": 2,
     "section_id": "14",
-    "section_name": "Strengthen cyber security obligations and",
+    "section_name": "Strengthen cyber security obligations and compliance for critical infrastructure",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "compliance for critical infrastructure",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -849,7 +681,7 @@
   },
   {
     "depth": 3,
-    "section_id": "compliance for critical infrastructure: 1",
+    "section_id": "1 (11)",
     "section_name": "Enhance cyber security obligations for Systems of National Significance",
     "id_kind": "numbered",
     "parent_id": "",
@@ -857,7 +689,7 @@
   },
   {
     "depth": 3,
-    "section_id": "compliance for critical infrastructure: 2",
+    "section_id": "2 (11)",
     "section_name": "Ensure critical infrastructure is compliant with cyber security obligations",
     "id_kind": "numbered",
     "parent_id": "",
@@ -865,7 +697,7 @@
   },
   {
     "depth": 3,
-    "section_id": "compliance for critical infrastructure: 3",
+    "section_id": "3 (3)",
     "section_name": "Help critical infrastructure manage the consequences of cyber incidents",
     "id_kind": "numbered",
     "parent_id": "",
@@ -874,16 +706,8 @@
   {
     "depth": 2,
     "section_id": "15",
-    "section_name": "Uplift cyber security of the",
+    "section_name": "Uplift cyber security of the Commonwealth Government",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Commonwealth Government",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -905,7 +729,7 @@
   },
   {
     "depth": 3,
-    "section_id": "Commonwealth Government: 1",
+    "section_id": "1 (12)",
     "section_name": "Strengthen the cyber maturity of government departments and agencies",
     "id_kind": "numbered",
     "parent_id": "",
@@ -913,7 +737,7 @@
   },
   {
     "depth": 3,
-    "section_id": "Commonwealth Government: 2",
+    "section_id": "2 (12)",
     "section_name": "Identify and protect critical systems across government",
     "id_kind": "numbered",
     "parent_id": "",
@@ -921,7 +745,7 @@
   },
   {
     "depth": 3,
-    "section_id": "Commonwealth Government: 3",
+    "section_id": "3 (4)",
     "section_name": "Uplift the cyber skills of the Australian Public Service (APS)",
     "id_kind": "numbered",
     "parent_id": "",
@@ -930,16 +754,8 @@
   {
     "depth": 2,
     "section_id": "16",
-    "section_name": "Pressure-test our critical infrastructure",
+    "section_name": "Pressure-test our critical infrastructure to identify vulnerabilities",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "to identify vulnerabilities",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -961,7 +777,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to identify vulnerabilities: 1",
+    "section_id": "1 (13)",
     "section_name": "Conduct national cyber security exercises across the economy",
     "id_kind": "numbered",
     "parent_id": "",
@@ -969,7 +785,7 @@
   },
   {
     "depth": 3,
-    "section_id": "to identify vulnerabilities: 2",
+    "section_id": "2 (13)",
     "section_name": "Build playbooks for incident response",
     "id_kind": "numbered",
     "parent_id": "",
@@ -981,15 +797,7 @@
     "section_name": "Sovereign capabilities",
     "id_kind": "",
     "parent_id": "",
-    "body": "5"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Australia has a flourishing cyber industry, enabled by a diverse",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and professional cyber workforce."
+    "body": "5\n\nAustralia has a flourishing cyber industry, enabled by a diverse and professional cyber workforce."
   },
   {
     "depth": 2,
@@ -1010,16 +818,8 @@
   {
     "depth": 2,
     "section_id": "17",
-    "section_name": "Grow and professionalise our",
+    "section_name": "Grow and professionalise our national cyber workforce",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "national cyber workforce",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -1041,7 +841,7 @@
   },
   {
     "depth": 3,
-    "section_id": "national cyber workforce: 1",
+    "section_id": "1 (14)",
     "section_name": "Grow and expand Australia’s skills pipeline",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1049,7 +849,7 @@
   },
   {
     "depth": 3,
-    "section_id": "national cyber workforce: 2",
+    "section_id": "2 (14)",
     "section_name": "Improve the diversity of the cyber workforce",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1057,19 +857,11 @@
   },
   {
     "depth": 3,
-    "section_id": "national cyber workforce: 3",
+    "section_id": "3 (5)",
     "section_name": "Professionalise the domestic cyber workforce",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "To support a thriving ecosystem, we will also work with industry to enhance efforts to professionalise the cyber security workforce. This will create clear pathways into cyber security roles, reduce barriers to entry and build greater consistency across the cyber workforce. A clear cyber skills framework will provide assurance to employers that the cyber workforce is appropriately skilled, and will give workers confidence that their qualifications and relevant experience are recognised and fit for purpose.\n\nThe Government’s reforms to the vocational education and training (VET) system will provide training relevant to Australia’s labour market and keep pace with emerging skills needs, including in critical areas like cyber security. This will be bolstered by a new five-year National Skills Agreement that will ensure a responsive VET sector provides the right training for critical and emerging industries. The Government will further invest in Australia’s cyber security skills by offering ASD’s cyber expertise to leading vocational training pathways and rolling out ASD’s Essential Eight Assessment Course to TAFE’s cyber consortium.\n\nThe Government has also asked the Australian Universities Accord to examine ways that tertiary qualifications can better align with skills needs – now and in the future. By connecting employers and tertiary institutions, we will promote a dynamic approach to shaping cyber qualifications to ensure graduates and apprentices are job ready and competitive in the workplace."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Accelerate our local cyber industry,",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "To support a thriving ecosystem, we will also work with industry to enhance efforts to professionalise the cyber security workforce. This will create clear pathways into cyber security roles, reduce barriers to entry and build greater consistency across the cyber workforce. A clear cyber skills framework will provide assurance to employers that the cyber workforce is appropriately skilled, and will give workers confidence that their qualifications and relevant experience are recognised and fit for purpose.\n\nThe Government’s reforms to the vocational education and training (VET) system will provide training relevant to Australia’s labour market and keep pace with emerging skills needs, including in critical areas like cyber security. This will be bolstered by a new five-year National Skills Agreement that will ensure a responsive VET sector provides the right training for critical and emerging industries. The Government will further invest in Australia’s cyber security skills by offering ASD’s cyber expertise to leading vocational training pathways and rolling out ASD’s Essential Eight Assessment Course to TAFE’s cyber consortium.\n\nThe Government has also asked the Australian Universities Accord to examine ways that tertiary qualifications can better align with skills needs – now and in the future. By connecting employers and tertiary institutions, we will promote a dynamic approach to shaping cyber qualifications to ensure graduates and apprentices are job ready and competitive in the workplace.\n\nAccelerate our local cyber industry,"
   },
   {
     "depth": 2,
@@ -1117,15 +909,7 @@
     "section_name": "Resilient region and global leadership",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Australia’s region is more cyber resilient, and is prospering from the digital economy. We continue to uphold international laws and norms and shape global rules and",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "standards in line with our shared interests."
+    "body": "Australia’s region is more cyber resilient, and is prospering from the digital economy. We continue to uphold international laws and norms and shape global rules and\n\nstandards in line with our shared interests."
   },
   {
     "depth": 2,
@@ -1146,16 +930,8 @@
   {
     "depth": 2,
     "section_id": "19",
-    "section_name": "Support a cyber resilient region",
+    "section_name": "Support a cyber resilient region as the partner of choice",
     "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "as the partner of choice",
-    "id_kind": "",
     "parent_id": "",
     "body": ""
   },
@@ -1169,15 +945,15 @@
   },
   {
     "depth": 3,
-    "section_id": "as the partner of choice: 1",
-    "section_name": "Strengthen collective cyber resilience with neighbours in the",
+    "section_id": "1 (15)",
+    "section_name": "Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Pacific and Southeast Asia\n\nAustralia will continue to work with our neighbours in the Pacific and Southeast Asia to build a more cyber resilient region. Our cooperation and assistance will continue to be coordinated by Australia’s Ambassador for Cyber Affairs and Critical Technology.\n\nWe will refocus Australia’s cyber cooperation and capacity building efforts to be more targeted, impactful and sustainable and to enable our neighbours to better prevent cyber incidents and recover quickly when they occur. Recognising that people engage with cyber security issues in different ways, our efforts will continue to consider gender equality, disability and social inclusion. This includes continuing support for the United Nations Women, Peace and Security agenda, as well as Australia’s National Action Plan on Women, Peace and Security 2021–2031.\n\nWhen severe cyber incidents occur in our region, Australia will be better positioned to respond to requests for assistance. Australia will establish a regional cyber crisis response team in the Department of Foreign Affairs and Trade, drawing on expertise from government, industry, and the technical community. In response to partner government requests following a significant cyber incident in the region, the team will help contain the spread and impact of cyber incidents and restore critical services and infrastructure."
+    "body": "Australia will continue to work with our neighbours in the Pacific and Southeast Asia to build a more cyber resilient region. Our cooperation and assistance will continue to be coordinated by Australia’s Ambassador for Cyber Affairs and Critical Technology.\n\nWe will refocus Australia’s cyber cooperation and capacity building efforts to be more targeted, impactful and sustainable and to enable our neighbours to better prevent cyber incidents and recover quickly when they occur. Recognising that people engage with cyber security issues in different ways, our efforts will continue to consider gender equality, disability and social inclusion. This includes continuing support for the United Nations Women, Peace and Security agenda, as well as Australia’s National Action Plan on Women, Peace and Security 2021–2031.\n\nWhen severe cyber incidents occur in our region, Australia will be better positioned to respond to requests for assistance. Australia will establish a regional cyber crisis response team in the Department of Foreign Affairs and Trade, drawing on expertise from government, industry, and the technical community. In response to partner government requests following a significant cyber incident in the region, the team will help contain the spread and impact of cyber incidents and restore critical services and infrastructure."
   },
   {
     "depth": 3,
-    "section_id": "as the partner of choice: 2",
+    "section_id": "2 (15)",
     "section_name": "Harness private sector innovation and expertise in the region",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1186,15 +962,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Shape, uphold and defend international",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "cyber rules, norms and standards",
+    "section_name": "Shape, uphold and defend international — cyber rules, norms and standards",
     "id_kind": "",
     "parent_id": "",
     "body": ""
@@ -1217,7 +985,7 @@
   },
   {
     "depth": 3,
-    "section_id": "cyber rules, norms and standards: 1",
+    "section_id": "1 (16)",
     "section_name": "Support international standards for transparent and secure",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1225,7 +993,7 @@
   },
   {
     "depth": 3,
-    "section_id": "cyber rules, norms and standards: 2",
+    "section_id": "2 (16)",
     "section_name": "Advocate for high-quality digital trade rules",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1233,7 +1001,7 @@
   },
   {
     "depth": 3,
-    "section_id": "cyber rules, norms and standards: 3",
+    "section_id": "3 (6)",
     "section_name": "Defend an open, free, secure and interoperable internet in international forums",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1241,7 +1009,7 @@
   },
   {
     "depth": 3,
-    "section_id": "cyber rules, norms and standards: 4",
+    "section_id": "4",
     "section_name": "Uphold international law and norms of responsible state behaviour",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1249,7 +1017,7 @@
   },
   {
     "depth": 3,
-    "section_id": "cyber rules, norms and standards: 5",
+    "section_id": "5",
     "section_name": "Deploy all arms of statecraft to deter and respond to malicious actors",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1258,22 +1026,14 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Next steps: Implementation and evaluation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "How we will ensure we are on track to deliver",
+    "section_name": "Next steps: Implementation and evaluation — How we will ensure we are on track to deliver",
     "id_kind": "",
     "parent_id": "",
     "body": "Implementation is central to achieving our vision. The Australian Government has developed the Cyber Security Strategy Action Plan (the Action Plan), which translates the commitments and initiatives in this Strategy into immediate actions to deliver concrete outcomes.\n\nTo ensure we deliver our initiatives, the Australian Government will:"
   },
   {
     "depth": 3,
-    "section_id": "How we will ensure we are on track to deliver: 1",
+    "section_id": "Next steps: 1",
     "section_name": "Allocate resources to strategy implementation and governance",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1281,7 +1041,7 @@
   },
   {
     "depth": 3,
-    "section_id": "How we will ensure we are on track to deliver: 2",
+    "section_id": "Next steps: 2",
     "section_name": "Define clear accountabilities for delivery",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1289,7 +1049,7 @@
   },
   {
     "depth": 3,
-    "section_id": "How we will ensure we are on track to deliver: 3",
+    "section_id": "Next steps: 3",
     "section_name": "Continue close consultation with industry and the community",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1297,7 +1057,7 @@
   },
   {
     "depth": 3,
-    "section_id": "How we will ensure we are on track to deliver: 4",
+    "section_id": "Next steps: 4",
     "section_name": "Conduct robust evaluation of our progress",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1305,7 +1065,7 @@
   },
   {
     "depth": 3,
-    "section_id": "How we will ensure we are on track to deliver: 5",
+    "section_id": "Next steps: 5",
     "section_name": "Adapt our plan in response to changes in the cyber landscape",
     "id_kind": "numbered",
     "parent_id": "",

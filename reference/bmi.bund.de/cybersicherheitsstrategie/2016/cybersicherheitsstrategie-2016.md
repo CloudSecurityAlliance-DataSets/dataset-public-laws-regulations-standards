@@ -148,7 +148,7 @@ Cyber-Sicherheitsstrategie | 7
 
 ## Leitlinien der Cyber-Sicherheitsstrategie
 
-### Die Handlungsfähigkeit und Souveränität Deutsch lands müssen auch im Zeitalter der Digitalisierung gewährleistet sein. Eine zukunftsgerichtete Cyber Sicherheitspolitik ermöglicht, dass unser Land die enormen Chancen und Potenziale der Digitalisie rung im gesamtgesellschaftlichen Interesse voll ausschöpfen kann, indem die damit verbundenen
+Die Handlungsfähigkeit und Souveränität Deutsch lands müssen auch im Zeitalter der Digitalisierung gewährleistet sein. Eine zukunftsgerichtete Cyber Sicherheitspolitik ermöglicht, dass unser Land die enormen Chancen und Potenziale der Digitalisie rung im gesamtgesellschaftlichen Interesse voll ausschöpfen kann, indem die damit verbundenen
 
 Risiken beherrschbar werden.
 
@@ -194,15 +194,15 @@ Als Konsequenz wird die Bundesregierung die Schwer punkte ihrer Cyber-Sicherheit
 
 -
 
-1. Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
+1.  Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
 
-2. Gemeinsamer Auftrag Cyber-Sicherheit von Staat und Wirtschaft
+2.  Gemeinsamer Auftrag Cyber-Sicherheit von Staat und Wirtschaft
 
-3. Leistungsfähige und nachhaltige gesamt staatliche Cyber-Sicherheitsarchitektur
+3.  Leistungsfähige und nachhaltige gesamt staatliche Cyber-Sicherheitsarchitektur
 
 -
 
-4. Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
+4.  Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
 
 Die Maßnahmen in den jeweiligen Handlungsfeldern haben Querschnittscharakter und betreffen – in unter schiedlicher Ausprägung – alle gesellschaftlichen Bereiche.
 
@@ -244,21 +244,7 @@ Informationsaustausch schaffen
 
 10 | Cyber-Sicherheitsstrategie
 
-## Handlungsfeld 1 –
-
-## Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
-
-## Handlungsfeld 2 –
-
-## Gemeinsamer Auftrag von Staat und Wirtschaft
-
-## Handlungsfeld 3 –
-
-## Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
-
-## Handlungsfeld 4 –
-
-## Aktive Positionierung Deutschlands in der europäischen und inter nationalen Cyber-Sicherheitspolitik
+## Handlungsfeld 1: Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung — Handlungsfeld 2: Gemeinsamer Auftrag von Staat und Wirtschaft — Handlungsfeld 3: Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur — Handlungsfeld 4: Aktive Positionierung Deutschlands in der europäischen und inter nationalen Cyber-Sicherheitspolitik
 
 -
 
@@ -340,13 +326,13 @@ IT-Sicherheitsforschung vorantreiben
 
 IT-Sicherheitsforschung vorantreiben
 
-## Gesellschaft – Staat – Wirtschaft
+Gesellschaft – Staat – Wirtschaft
 
 12 | Cyber-Sicherheitsstrategie
 
 ## Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
 
-### In einer digitalisierten Umgebung sicher und selbst bestimmt handeln zu können ist ein wesentlicher Eckpfeiler von Cyber-Sicherheit. Die Bürgerinnen und Bürger müssen – ebenso wie Unternehmen, Staat und sonstige Akteure in Deutschland – in der Lage sein, die Chancen und Risiken beim Einsatz von Informationstechnik zu erfassen, zu bewerten und ihr Handeln daran auszurichten (Beurteilungs kompetenz). Hierfür müssen die entsprechenden vertrauenswürdigen Technologien und Rahmen
+In einer digitalisierten Umgebung sicher und selbst bestimmt handeln zu können ist ein wesentlicher Eckpfeiler von Cyber-Sicherheit. Die Bürgerinnen und Bürger müssen – ebenso wie Unternehmen, Staat und sonstige Akteure in Deutschland – in der Lage sein, die Chancen und Risiken beim Einsatz von Informationstechnik zu erfassen, zu bewerten und ihr Handeln daran auszurichten (Beurteilungs kompetenz). Hierfür müssen die entsprechenden vertrauenswürdigen Technologien und Rahmen
 
 bedingungen vorliegen.
 
@@ -376,11 +362,9 @@ Um die Chancen der Digitalisierung zu nutzen, muss für alle Anwendergruppen die
 
 Cyber-Sicherheitsstrategie | 13
 
-### Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
+Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
 
-## Strategische Ziele und Maßnahmen
-
-## Digitale Kompetenz bei allen Anwendern fördern
+## Strategische Ziele und Maßnahmen — Digitale Kompetenz bei allen Anwendern fördern
 
 Verantwortungsvolles Verhalten im Cyber-Raum und das Bewusstsein für die Chancen und spezifischen Risiken beim Einsatz von IT-Systemen sind integraler Bestandteil digitaler Kompetenz. Digitale Bildung muss daher künftig zu einem festen Bestandteil des Bildungskanons werden, von der Schule über die duale Ausbildung, die Hochschule bis hin zur beruflichen Weiterbildung und allgemeinen Erwachsenenbildung. Dies ist im schulischen und univer sitären Bereich vorrangig Aufgabe der Länder. Jede Schul abgängerin und jeder Schulabgänger sollte ein techni sches Grundverständnis und grundlegende Kenntnisse im sicheren Umgang mit Informations-und Kommunika tionstechnik haben. Bund und Länder müssen hier noch enger als bisher zusammenarbeiten. Die Bundesregierung wird insbesondere die duale Berufsausbildung konsequent auf die Erfordernisse einer digitalen Gesellschaft ausrich ten und die Ausbildungsordnungen entsprechend anpas sen. Überbetriebliche Bildungsstätten werden für das Zeitalter der Digitalisierung gerüstet. Diese müssen in der Lage sein, Weiterbildungen zur Digitalisierung auf hohem Niveau anzubieten. Die dafür erforderlichen Ausstattungs investitionen werden prioritär gefördert. Darüber hinaus wird sich die Bundesregierung bei Gewerkschaften und Arbeitgebern dafür einsetzen, Wege für eine flexiblere und individuellere digitale Weiterbildung zu schaffen.
 
@@ -452,11 +436,9 @@ höchstem Niveau schützen können. Gleichzeitig sind die deutschen Strafverfolg
 
 Cyber-Sicherheitsstrategie | 15
 
-### Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
+Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
 
-## Strategische Ziele und Maßnahmen
-
-## Sichere elektronische Identitäten
+## Strategische Ziele und Maßnahmen — Sichere elektronische Identitäten
 
 Parallel zu der Förderung einer sicheren elektronischen Kommunikation sind die Konzepte für eine sichere Identi fikation von Personen und Dingen zu erweitern. Die An-wender müssen in die Lage versetzt werden, im Internet sichere, benutzerfreundliche und moderne Authentifizie rungsmittel nutzen zu können. Das derzeit verbreitete, aber nicht sichere Benutzername/Passwort-Verfahren ist als Standard zu ergänzen und nach Möglichkeit abzulö sen. Einen Kernpunkt stellen die Ausweisdokumente mit Online-Ausweisfunktion dar, mit dem die Bundesregie rung bereits eine hochsichere und datensparsame Iden tifikationsmöglichkeit im Netz bereitstellt. Ziel ist es, die Onlineausweisfunktion – und davon abgeleitete sichere Identitäten – als Standard-Identifizierungsmittel für sen sible Dienste zu etablieren, fortzuentwickeln und vergleich bar sichere Lösungen auch in der Wirtschaft zu fördern.
 
@@ -508,11 +490,9 @@ Die Kennzeichnung von IT-Sicherheitseigenschaften von Produkten und Dienstleistu
 
 Cyber-Sicherheitsstrategie | 17
 
-### Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
+Handlungsfeld 1 Sicheres und selbstbestimmtes Handeln in einer digitalisierten Umgebung
 
-## Strategische Ziele und Maßnahmen
-
-## Digitalisierung sicher gestalten
+## Strategische Ziele und Maßnahmen — Digitalisierung sicher gestalten
 
 Die Bürgerinnen und Bürger sowie die Unternehmen er warten, dass die durch die Digitalisierung erfolgenden Ver änderungen vom Staat bewertet und aktiv gestaltet w erden. Beispiele hierfür sind das E-Health-Gesetz sowie das IT- Sicherheitsgesetz. Dieser Weg muss konsequent weiter beschritten werden. Hierbei werden neue Technologien, neue Geschäftsmodelle und ein sich wandelndes Anwen derverhalten ebenso zu berücksichtigen sein wie neue Bedrohungen sowie neue europäische und internationale Vorgaben, zum Beispiel durch die EU-Richtlinie zur Netz-
 
@@ -612,11 +592,9 @@ Informationsaustausch schaffen
 
 20 | Cyber-Sicherheitsstrategie
 
-## Staat – Wirtschaft
+## Staat – Wirtschaft — Gemeinsamer Auftrag von Staat und Wirtschaft
 
-## Gemeinsamer Auftrag von Staat und Wirtschaft
-
-### Eine vertrauensvolle Zusammenarbeit und ein enger Austausch zwischen Staat und Wirtschaft sind unab dingbar, um Cyber-Sicherheit in Deutschland dauer haft auf einem hohen Niveau gewährleisten zu kön nen. Dabei sind im Sinne eines kooperativen Ansatzes auch neue Wege zu beschreiten, um die jeweiligen
+Eine vertrauensvolle Zusammenarbeit und ein enger Austausch zwischen Staat und Wirtschaft sind unab dingbar, um Cyber-Sicherheit in Deutschland dauer haft auf einem hohen Niveau gewährleisten zu kön nen. Dabei sind im Sinne eines kooperativen Ansatzes auch neue Wege zu beschreiten, um die jeweiligen
 
 Kompetenzen zu bündeln und zu nutzen.
 
@@ -638,11 +616,9 @@ Die Unternehmen in Deutschland müssen in der Lage sein, sich selbst und ihre Ku
 
 Cyber-Sicherheitsstrategie | 21
 
-### Handlungsfeld 2 Gemeinsamer Auftrag von Staat und Wirtschaft
+Handlungsfeld 2 Gemeinsamer Auftrag von Staat und Wirtschaft
 
-## Strategische Ziele und Maßnahmen
-
-## Kritische Infrastrukturen sichern
+## Strategische Ziele und Maßnahmen — Kritische Infrastrukturen sichern
 
 Der Schutz Kritischer Infrastrukturen steht im Zentrum der gemeinsamen Aktivitäten von Staat und Wirtschaft. Angesichts der Vernetzung der Systeme kommt dabei dem
 
@@ -704,11 +680,9 @@ Es bedarf darüber hinaus eines breiteren Portfolios qua lifizierter, vertrauens
 
 Cyber-Sicherheitsstrategie | 23
 
-### Handlungsfeld 2 Gemeinsamer Auftrag von Staat und Wirtschaft
+Handlungsfeld 2 Gemeinsamer Auftrag von Staat und Wirtschaft
 
-## Strategische Ziele und Maßnahmen
-
-## Mit den Providern zusammenarbeiten
+## Strategische Ziele und Maßnahmen — Mit den Providern zusammenarbeiten
 
 Eine Schlüsselrolle kommt der Zusammenarbeit mit den Providern zu. Dies gilt im Rahmen des geltenden Rechts insbesondere für Maßnahmen der Provider zur Erkennung von Cyber-Bedrohungen, zum Umgang mit erkannten Vor fällen/Infektionen und zur Abschwächung laufender An griffe. Der Ausbau datenschutzkonformer Sensorik zur Anomalieerkennung im Netz ist hierbei ein wirksames Mittel, um die Datensicherheit im Netz generell zu erhö hen. Um die Rechte der Betroffenen zu schützen, sollen die Erkenntnisse anonymisiert bzw. pseudonymisiert werden.
 
@@ -742,9 +716,7 @@ Der kooperative Ansatz umfasst auch den intensiven gegenseitigen Informationsaus
 
 Cyber-Sicherheitsstrategie | 25
 
-### Handlungsfeld 3
-
-### Handlungsfeld 3
+### Handlungsfeld 3: Handlungsfeld 3
 
 Das Nationale Cyber-Abwehrzentrum
 
@@ -816,13 +788,13 @@ gewinnen und entwickeln
 
 gewinnen und entwickeln
 
-## Bund – Länder – Kommunen
+Bund – Länder – Kommunen
 
 26 | Cyber-Sicherheitsstrategie
 
 ## Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-### Der Staat muss Sicherheit, Recht und Freiheit in unserem Land auch im Cyber-Raum gewährleis ten. Hierzu bedarf es einer zeitgemäßen Cyber- Sicherheitsarchitektur, die die verschiedenen Akteure auf Bundesebene wirksam verzahnt und daneben die Länder, Kommunen und die Wirt
+Der Staat muss Sicherheit, Recht und Freiheit in unserem Land auch im Cyber-Raum gewährleis ten. Hierzu bedarf es einer zeitgemäßen Cyber- Sicherheitsarchitektur, die die verschiedenen Akteure auf Bundesebene wirksam verzahnt und daneben die Länder, Kommunen und die Wirt
 
 schaft im Blick behält.
 
@@ -858,11 +830,9 @@ Eine moderne Cyber-Sicherheitsarchitektur begreift Cyber- Sicherheit vor diesem 
 
 Cyber-Sicherheitsstrategie | 27
 
-### Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
+Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-## Strategische Ziele und Maßnahmen
-
-## Das Nationale Cyber-Abwehrzentrum weiterentwickeln
+## Strategische Ziele und Maßnahmen — Das Nationale Cyber-Abwehrzentrum weiterentwickeln
 
 Im Rahmen der Umsetzung der Cyber-Sicherheitsstrategie 2011 wurde mit Gründung des Nationalen Cyber-Abwehr zentrums (Cyber-AZ) unter Federführung des Bundesmini steriums des Innern der Informationsaustausch zwischen den relevanten Bundesbehörden gestärkt. Derzeit tauschen die für Cyber-Sicherheitsfragen zuständigen Bundesbehör den im Cyber-AZ Informationen zu Cyber-Vorfällen aus und teilen ihre Bewertungen und Analysen.
 
@@ -948,11 +918,9 @@ Darüber hinaus sind schwerwiegende Cyber-Angriffe vor stellbar, gegen die mit d
 
 Cyber-Sicherheitsstrategie | 29
 
-### Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
+Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-## Strategische Ziele und Maßnahmen
-
-## Strafverfolgung im Cyber-Raum intensivieren
+## Strategische Ziele und Maßnahmen — Strafverfolgung im Cyber-Raum intensivieren
 
 Die Bundesregierung wird ihre Anstrengungen zur Be kämpfung von Cyber-Kriminalität in den kommenden Jahren weiter intensivieren. Hierzu ist ein enger Informa tionsaustausch und Wissenstransfer auf nationaler und internationaler Ebene zu gewährleisten.
 
@@ -1002,11 +970,9 @@ fachliche Analyse sowie Bewertung der gegen Bundes behörden und sonstige Ziele 
 
 Cyber-Sicherheitsstrategie | 31
 
-### Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
+Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-## Strategische Ziele und Maßnahmen
-
-## Ein Frühwarnsystem gegen Cyber-Angriffe aus dem Ausland
+## Strategische Ziele und Maßnahmen — Ein Frühwarnsystem gegen Cyber-Angriffe aus dem Ausland
 
 Der BND erfasst gemäß seinem gesetzlichen Auftrag im Ausland Cyber-Spionage-und sonstige Cyber-Angriffe, die sich gegen staatliche und/oder Kritische Infrastrukturen in Deutschland richten. Diesen kann der BND frühzeitig Warnhinweise zur Einleitung von Abwehrmaßnahmen geben (Signals Intelligence Support to Cyber Defense (SSCD)). Der BND baut so mit IT-Spezialisten und erfah renen Analysten ein Frühwarnsystem gegen Cyber- Angriffe auf. Die erkannten Angriffe werden qualitativ und quantitativ bewertet, um darüber ein aktuelles Lage bild der Bedrohungslage zu entwickeln.
 
@@ -1066,11 +1032,9 @@ zen – auch anderen staatlichen Akteuren nutzbar gemacht werden können. Sie ka
 
 Cyber-Sicherheitsstrategie | 33
 
-### Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
+Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-## Strategische Ziele und Maßnahmen
-
-## CERT-Strukturen in Deutschland stärken
+## Strategische Ziele und Maßnahmen — CERT-Strukturen in Deutschland stärken
 
 Staatliche und nichtstaatliche „Computer Emergency Response Teams“, kurz „CERTs“, sind als zentrale Anlauf stellen für präventive und reaktive technische Maßnah men im IT-Sicherheitsbereich ein wichtiger Baustein jeder nachhaltigen Cyber-Sicherheitsarchitektur. Durch sie wird weltweit der Notwendigkeit von Informationsaustausch und Koordination auf der informationstechnischen Fach ebene Rechnung getragen. In Deutschland nimmt das BSI mit dem CERT-Bund für die Verwaltung sowie seinen An geboten für Betreiber Kritischer Infrastrukturen, die Wirt schaft und Bürgerinnen und Bürger sowie als zentrale Ansprechstelle für ausländische und internationale CERTs die Rolle des nationalen CERTs wahr. Weitere eigenstän dige CERTs existieren zudem bei anderen Bundesbehör den sowie in den Länderverwaltungen, in einzelnen Unter nehmen und in wissenschaftlichen Einrichtungen. Diese Strukturen müssen im Interesse gesamtgesellschaftlicher Cyber-Sicherheit weiter ausgebaut und vernetzt werden. Das BSI wird die Zusammenarbeit im Verwaltungs-CERT- Verbund (Bund-Länder) sowie mit Unternehmens-und Wissenschafts-CERTs weiter intensivieren und alle wesent lichen Akteure an einen Tisch bringen. Die bestehenden CERT-Strukturen in Deutschland sollen so unter Wahrung des Erreichten in einem gemeinsamen Prozess vervoll ständigt und verbessert werden. Dabei ist die Entwicklung des Cyber-AZ zu berücksichtigen.
 
@@ -1108,11 +1072,9 @@ Die Bundesregierung hat darüber hinaus ein Programm zur Förderung der sicheren
 
 Cyber-Sicherheitsstrategie | 35
 
-### Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
+Handlungsfeld 3 Leistungsfähige und nachhaltige gesamtstaatliche Cyber-Sicherheitsarchitektur
 
-## Strategische Ziele und Maßnahmen
-
-## Zwischen Bund und Ländern eng zusammenarbeiten
+## Strategische Ziele und Maßnahmen — Zwischen Bund und Ländern eng zusammenarbeiten
 
 Für die Bereiche Cyber-Kriminalität, Cyber-Spionage und präventive Eigensicherung der Verwaltungen bestehen im Bund-Länder-Verhältnis bewährte Gremienstrukturen. Um die Bund-Länder-Zusammenarbeit zusätzlich zu stär ken, soll dem BSI die Unterstützung von Landesbehörden als neue Aufgabe übertragen werden, soweit diese mit der Bewältigung von Cyber-Sicherheitsvorfällen befasst sind. Bisher gilt dies nur für die Unterstützung von Polizeien und Strafverfolgungsbehörden.
 
@@ -1178,9 +1140,7 @@ Der in der Bundeswehr betriebene Aufbau einer Cyber- Reserve kann auch für bish
 
 Cyber-Sicherheitsstrategie | 37
 
-### Handlungsfeld 4
-
-### Handlungsfeld 4
+Handlungsfeld 4: Handlungsfeld 4
 
 ## Internationales Handeln
 
@@ -1208,7 +1168,7 @@ Internationale Strafverfolgung stärken
 
 ## Aktive Positionierung Deutschlands in der europäischen und internatio nalen Cyber-Sicherheitspolitik
 
-### Ein hohes Niveau an Cyber-Sicherheit ist angesichts der transnationalen Vernetzung in einer digitalisier ten Welt nur durch Einbettung und Verstärkung der nationalen Maßnahmen in die entsprechenden euro päischen, regionalen und internationalen Prozesse erreichbar. Deutschland wird sich hierfür auch weiterhin aktiv in die europäische und internatio nale Cyber-Sicherheitspolitik einbringen. Ein klarer Rechtsrahmen, Vertrauensbildung sowie größere Resilienz in Europa und weltweit bedeuten auch
+Ein hohes Niveau an Cyber-Sicherheit ist angesichts der transnationalen Vernetzung in einer digitalisier ten Welt nur durch Einbettung und Verstärkung der nationalen Maßnahmen in die entsprechenden euro päischen, regionalen und internationalen Prozesse erreichbar. Deutschland wird sich hierfür auch weiterhin aktiv in die europäische und internatio nale Cyber-Sicherheitspolitik einbringen. Ein klarer Rechtsrahmen, Vertrauensbildung sowie größere Resilienz in Europa und weltweit bedeuten auch
 
 mehr Schutz für Deutschland.
 
@@ -1244,11 +1204,9 @@ Bei Cyber-Angriffen unter Ausnutzung ausländischer Systeme sind regelmäßig au
 
 Cyber-Sicherheitsstrategie | 39
 
-### Handlungsfeld 4 Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
+Handlungsfeld 4 Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
 
-## Strategische Ziele und Maßnahmen
-
-## Eine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten
+## Strategische Ziele und Maßnahmen — Eine wirksame europäische Cyber-Sicherheitspolitik aktiv gestalten
 
 Sicherheit ist für den gemeinsamen digitalen Binnen markt ein Grundpfeiler. Deutschland wird sich dafür ein setzen, dass IT-Sicherheit bei allen Digitalisierungspro zessen angemessen berücksichtigt wird, unter anderem durch eine auf Datensicherheit beruhende europäische Daten-Standortpolitik und durch Berücksichtigung von Datenschutz bei europäischen Regeln für den internatio nalen Datenaustausch.
 
@@ -1318,11 +1276,9 @@ Die Bundesregierung wird zudem die Gründung eines deutschen Instituts für inte
 
 Cyber-Sicherheitsstrategie | 41
 
-### Handlungsfeld 4 Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
+Handlungsfeld 4 Aktive Positionierung Deutschlands in der europäischen und internationalen Cyber-Sicherheitspolitik
 
-## Strategische Ziele und Maßnahmen
-
-## Bilaterale und regionale Unterstützung und Kooperation zum Auf- und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)
+## Strategische Ziele und Maßnahmen — Bilaterale und regionale Unterstützung und Kooperation zum Auf- und Ausbau von Cyber-Fähigkeiten (Cyber Capacity Building)
 
 Wo Ressourcen, Infrastruktur und Kapazitäten für Cyber- Sicherheit fehlen, entstehen besondere Bedarfe. Cyber- Bedrohungen und -Angriffe können bestimmte Staaten und Bevölkerungsgruppen in ihrer wirtschaftlichen, sozi alen und politischen Entwicklung stark einschränken oder zurückwerfen. Deutschland wird ausgewählte Part nerstaaten und -regionen beim Auf-und Ausbau ihrer präventiven und reaktiven Cyber-Sicherheitsfähigkeiten (Netzrobustheit und Netzresilienz) unterstützen. Dazu zählt auch die Ermutigung anderer Regionen, vertrauens-und sicherheitsbildende Maßnahmen zu vereinbaren. In ihrer Entwicklungspolitik setzt sich die Bundesregierung dafür ein, die Potenziale der Digitalisierung weltweit zu ermöglichen und damit verbundenen Risiken entgegen zuwirken. Beim Aufbau und der Unterstützung digitaler Infrastrukturen in Partnerstaaten der deutschen Entwick lungszusammenarbeit spielen auch Aspekte der Sicherheit eine besondere Rolle.
 
@@ -1406,7 +1362,7 @@ In Handlungsfeld 1 soll der Nationale Cyber-Sicherheitsrat auf Basis aktueller t
 
 Cyber-Sicherheitsstrategie | 45
 
-### Glossar
+Glossar
 
 ## Begriffsbestimmungen
 

@@ -4,15 +4,11 @@ T H E W H I T E H O U S E
 
 ## Winning the Race AMERICA’S AI ACTION PLAN
 
-## JULY 2025
+JULY 2025
 
-## “Today, a new frontier of scientific discovery lies before us, defined by transformative technologies such as artificial intelligence… Breakthroughs in these fields have the potential to reshape the global balance of power, spark entirely new industries, and revolutionize the way we live and work. As our global competitors race to exploit these technologies, it is a national security imperative for the United States to achieve and maintain unquestioned and unchallenged global technological dominance. To secure our future, we must harness the full power of American innovation.”
+“Today, a new frontier of scientific discovery lies before us, defined by transformative technologies such as artificial intelligence… Breakthroughs in these fields have the potential to reshape the global balance of power, spark entirely new industries, and revolutionize the way we live and work. As our global competitors race to exploit these technologies, it is a national security imperative for the United States to achieve and maintain unquestioned and unchallenged global technological dominance. To secure our future, we must harness the full power of American innovation.”
 
-## Donald J. Trump
-
-## 45th and 47th President of the United States
-
-## Table of Contents
+## Donald J. Trump — 45th and 47th President of the United States — Table of Contents
 
 Introduction .............................................................................................................................. 1
 
@@ -310,7 +306,7 @@ Recommended Policy Actions
 
 AI is the first digital service in modern life that challenges America to build vastly greater energy generation than we have today. American energy capacity has stagnated since the 1970s while China has rapidly built out their grid. America’s path to AI dominance depends on changing this troubling trend.
 
-## Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security
+Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security
 
 Like most general-purpose technologies of the past, AI will require new infrastructure— factories to produce chips, data centers to run those chips, and new sources of energy to power it all. America’s environmental permitting system and other regulations make it almost impossible to build this infrastructure in the United States with the speed that is required. Additionally, this infrastructure must also not be built with any adversarial technology that could undermine U.S. AI dominance.
 
@@ -430,9 +426,7 @@ Recommended Policy Actions
 
 30 Executive Order 14306 of June 6, 2025, “Sustaining Select Efforts To Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” Federal Register 90 (111) 24723, www.govinfo.gov/content/pkg/FR- 2025-06-11/pdf/2025-10804.pdf.
 
-## Pillar III: Lead in International AI Diplomacy and
-
-## Security
+## Pillar III: Lead in International AI Diplomacy and Security
 
 To succeed in the global AI competition, America must do more than promote AI within its own borders. The United States must also drive adoption of American AI systems, computing hardware, and standards throughout the world. America currently is the global leader on data center construction, computing hardware performance, and models. It is imperative that the United States leverage this advantage into an enduring global alliance, while preventing our adversaries from free-riding on our innovation and investment.
 
@@ -486,7 +480,7 @@ concerning entities. This work should build on existing efforts underway at DOS 
 
 • Led by DOC and DOD, coordinate with allies to ensure that they adopt U.S. export controls, work together with the U.S to develop new controls, and prohibit U.S. adversaries from supplying their defense-industrial base or acquiring controlling stakes in defense suppliers.
 
-## Ensure that the U.S. Government is at the Forefront of Evaluating National Security Risks in Frontier Models
+### Ensure that the U.S. Government is at the Forefront of Evaluating National Security Risks in Frontier Models
 
 The most powerful AI systems may pose novel national security risks in the near future in areas such as cyberattacks and the development of chemical, biological, radiological, nuclear, or explosives (CBRNE) weapons, as well as novel security vulnerabilities. Because America currently leads on AI capabilities, the risks present in American frontier models are likely to be a preview for what foreign adversaries will possess in the near future. Understanding the nature of these risks as they emerge is vital for national defense and homeland security.
 

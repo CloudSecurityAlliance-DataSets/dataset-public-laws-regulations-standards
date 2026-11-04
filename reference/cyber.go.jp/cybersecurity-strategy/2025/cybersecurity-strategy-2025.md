@@ -1,8 +1,6 @@
 # Cybersecurity Strategy of Japan (December 2025)
 
-### tentative translation
-
-## CYBERSECURITY STRATEGY
+tentative translation
 
 ## December 23, 2025
 
@@ -128,9 +126,7 @@ Accordingly, while continuing to uphold the “Five Principles” as the basic p
 
 Given the current environment surrounding Japan’s cyberspace, as outlined below, such proactive responses by the government will contribute to safeguarding “a free, fair and secure cyberspace” and the “Five Principles” (including “the rule of law”), which are currently threatened by severe cyberattacks. They will also support and strengthen efforts by a wide range of stakeholders to ensure cybersecurity based on principles such as “autonomy” and “collaboration among multi-stakeholders.”
 
-### ２. Assessment of the environment surrounding cyberspace and future
-
-### outlook
+### ２. Assessment of the environment surrounding cyberspace and future outlook
 
 (1) An increasingly severe international environment and the rise of state-sponsored cyber threats As Japan faces its most severe and complex security environment since the end of World War II, the landscape surrounding cyberspace, reflecting geopolitical tensions, has become increasingly challenging in recent years and carries the risk of rapidly developing into a grave crisis. In Japan as well, the number of cyberattack-related communications observed by the National Institute of Information and Communications Technology (NICT) has been increasing, and organized and sophisticated cyberattacks suspected of foreign state involvement have become apparent. As a result, the threat of cyberattacks has increased in both scale and sophistication, and the risk of serious and potentially catastrophic damage to the foundations of people’s daily lives and economic activities, and ultimately to the security of the nation and its people, has become real.
 
@@ -254,9 +250,7 @@ The government will promptly establish and strengthen the implementation framewo
 
 At the same time, Japan will promptly and comprehensively develop and operate the necessary systems, infrastructure, and human resources required to implement these initiatives effectively, drawing on examples from other countries.
 
-#### (i) Preventing the expansion and escalation of damage through advanced
-
-incident response The ability to respond promptly and effectively to incidents caused by cyberattacks, including initial response, investigation, and root cause analysis, is essential to preventing the expansion and escalation of damage. Such responses must be further strengthened by leveraging the new framework established under the Cyber Response Capability Strengthening Act.
+(i) Preventing the expansion and escalation of damage through advanced incident response The ability to respond promptly and effectively to incidents caused by cyberattacks, including initial response, investigation, and root cause analysis, is essential to preventing the expansion and escalation of damage. Such responses must be further strengthened by leveraging the new framework established under the Cyber Response Capability Strengthening Act.
 
 The National Cybersecurity Office, performing functions as the national CERTs/CSIRTs, conducts prompt and appropriate identification, analysis, and evaluation of incidents. In the event of an incident, the Office coordinates with relevant ministries, agencies, and specialized organizations to issue timely and appropriate alerts and disseminate information to organizations in Japan and the public, with the aim of preventing damage.
 
@@ -270,9 +264,7 @@ of system and software vulnerabilities by organizations suspected of being state
 
 Additionally, in the case of large-scale incidents, a unified, response of government agencies and related agencies will be necessary to prevent the expansion and escalation of damage, in addition to responses by individual government agencies. Accordingly, the government will develop frameworks to enable swift and appropriate initial response and also conduct practical exercises to enhance incident response capabilities in cooperation not only with government agencies and related agencies, but also with critical infrastructure operators, local governments, and other relevant organizations.
 
-#### (ii) Aggregation, effective analysis, and utilization of cybersecurity-related
-
-information, including communications data To effectively counter cyberattacks, it is necessary to detect them at an early stage and analyze their patterns, including the characteristics of the adversaries.
+(ii) Aggregation, effective analysis, and utilization of cybersecurity-related information, including communications data To effectively counter cyberattacks, it is necessary to detect them at an early stage and analyze their patterns, including the characteristics of the adversaries.
 
 Under current circumstances, however, even when an attack is detected, only fragmented data/information can be obtained, making it difficult in many cases to conduct analyses that contribute to the prevention of damage. Accordingly, in addition to publicly available information on cyberattacks, the government will consolidate at the National Cybersecurity Office all data/information useful for analysis, including damage reports, such as incident reports submitted by essential infrastructure service providers and other entities pursuant to the Cyber Response Capability Strengthening Act; data/information shared through cooperation with its ally and like-minded countries; data/information obtained through the monitoring and analysis of government agencies and related agencies' terminals; and data/information acquired through observation of cyberspace21. Each ministry and agency is required, in collaboration with the National Cybersecurity Office, to collect data/information on incidents occurring within its respective remit, giving due consideration to the response status of affected organizations. Such information will then be shared with the Office for use in the analysis of cyber threats. Relevant organizations, such as the Information-technology Promotion Agency, Japan (IPA), will also continue, with the consent of affected organizations, to share all incident and analysis data/information they collect with the Office.
 
@@ -334,9 +326,7 @@ Utilizing such information provided by the government, private-sector companies 
 
 In addition to establishing this cycle of information sharing and response measures, Japan will further enhance cross-cutting measures across the public and private sectors, including risk assessments aimed at strengthening private-sector response measures, more expanded implementation of threat hunting by both the government and the private sector, and continuous improvement through the systematic conduct of exercises, thereby enhancing cybersecurity capabilities across both sectors and strengthening overall national resilience.
 
-#### (i) Formation of a public–private collaboration ecosystem and strengthening of
-
-cross-sectoral measures In order to foster the shared understanding and relationship of trust that underpin public–private collaboration, it is necessary for the public and private sectors to engage
+(i) Formation of a public–private collaboration ecosystem and strengthening of cross-sectoral measures In order to foster the shared understanding and relationship of trust that underpin public–private collaboration, it is necessary for the public and private sectors to engage
 
 continuously in multilayered dialogue. Such dialogue will be pursued from multiple perspectives, involving participants from operational staff to senior management, and conducted at different levels, either individually or on a cross-sectoral basis, as necessary.
 
@@ -390,9 +380,7 @@ In addition, Japan will contribute to the maintenance and development of the int
 
 By promoting these efforts in an integrated and comprehensive manner, Japan will play a responsible and leading role in the international community and realize “a free, fair and secure cyberspace.”
 
-#### (i) Cooperation with allies, like-minded countries and others in information and
-
-operational domains In response to intensifying cyberattacks, it is important to promote multi-layered cooperation and collaboration at various levels, including governments of various countries and the private sector, encompassing both information and operational aspects.
+(i) Cooperation with allies, like-minded countries and others in information and operational domains In response to intensifying cyberattacks, it is important to promote multi-layered cooperation and collaboration at various levels, including governments of various countries and the private sector, encompassing both information and operational aspects.
 
 Japan will maintain continuous dialogue with relevant institutions in its ally and like-minded countries. In addition to policy best practices, Japan will promote information cooperation that contributes to enhancing its cyber analysis and response capabilities by appropriately sharing technical information related to cyberattacks, such as vulnerability information, Indicator of Compromise (IoC 30 ) information, and attack methods, as well as information on the background and objectives of cyberattacks. In doing so, necessary information security measures will be thoroughly implemented.
 
@@ -406,9 +394,7 @@ Furthermore, to deter malicious cyber activities, Japan will develop the capabil
 
 identification and public disclosure of threat actors, as well as the publication of international technical documents compiling technical information on malicious cyber activities. These efforts will be promoted in close coordination with its ally and like-minded countries, including through diplomatic responses. In addition, with regard to the consideration and implementation of various measures related to active defense and deterrence, Japan will appropriately coordinate with its ally and like-minded countries and enhance cooperation with relevant agencies at the operational level.
 
-#### (ii) Support and promotion of enhanced cybersecurity response capabilities in
-
-the Indo-Pacific region As cyberattacks transcend borders, the national security environments of other countries, including those in the Indo-Pacific region, are directly linked to policy of Japan’s national security in cyberspace. Therefore, by supporting and promoting the enhancement of response capabilities in the field of national security in cyberspace, Japan will lead the creation of a security environment in cyberspace with “no weak links” in the region. This will also contribute to ensuring the safety of the daily lives of Japanese nationals residing overseas and the business activities of Japanese companies that depend on critical infrastructure in the partner countries.
+(ii) Support and promotion of enhanced cybersecurity response capabilities in the Indo-Pacific region As cyberattacks transcend borders, the national security environments of other countries, including those in the Indo-Pacific region, are directly linked to policy of Japan’s national security in cyberspace. Therefore, by supporting and promoting the enhancement of response capabilities in the field of national security in cyberspace, Japan will lead the creation of a security environment in cyberspace with “no weak links” in the region. This will also contribute to ensuring the safety of the daily lives of Japanese nationals residing overseas and the business activities of Japanese companies that depend on critical infrastructure in the partner countries.
 
 With regard to capacity-building support, Japan will strategically and efficiently implement such support in an “All-Japan” manner, through multilayered cooperation with diverse stakeholders, including its ally and like-minded countries, international organizations, industry, and academia. In doing so, with regard to the Indo-Pacific region, including ASEAN, and in light of the region’s geopolitical importance, Japan will deepen cooperation in cyber diplomacy and national security by strengthening capacity-building support through the utilization of the ASEAN-Japan Cybersecurity Capacity Building Centre (AJCCBC), as well as through cooperation with its ally and like-minded countries and international organizations.
 
@@ -426,9 +412,7 @@ International rule-making is progressing within frameworks such as the United Na
 
 Furthermore, taking into account the impact of advanced technologies such as AI and quantum technologies on cyberspace, Japan will promptly advance efforts on international rule-making from the perspective of defense and deterrence against cyber threats.
 
-### ２. Enhancement of Cybersecurity and Resilience Across Society by
-
-### Broad Participation
+### ２. Enhancement of Cybersecurity and Resilience Across Society by Broad Participation
 
 Any stakeholder participating in cyberspace may become a target of cyberattacks. Furthermore, in the event of a cyberattack, there is a risk that damage may extend to third parties through the leakage of third-party information assets held by the affected entity, or through the use of its devices or systems as footholds for further attacks.
 
@@ -454,9 +438,7 @@ Furthermore, while the government is promoting digital reform aimed at realizing
 
 Additionally, the government is set to further enhance development of human resources, with a view to build staff including those who are responsible for strengthening analytical capabilities and promoting public–private collaboration.
 
-#### (i) Improving the level of cybersecurity and regularly reviewing common
-
-cybersecurity standards Based on the Common Standards Group for Cybersecurity Measures for Government Agencies and Related Agencies (hereinafter referred to as the common cybersecurity standards 33 ), each government agency and related agency must, under its own responsibility, conduct risk analysis and evaluation taking into account the characteristics of its operations, the information it handles, and the information systems it possesses; determine the priorities of measures to be implemented and the required level of cybersecurity measures; and implement appropriate measures. At the same time, the
+(i) Improving the level of cybersecurity and regularly reviewing common cybersecurity standards Based on the Common Standards Group for Cybersecurity Measures for Government Agencies and Related Agencies (hereinafter referred to as the common cybersecurity standards 33 ), each government agency and related agency must, under its own responsibility, conduct risk analysis and evaluation taking into account the characteristics of its operations, the information it handles, and the information systems it possesses; determine the priorities of measures to be implemented and the required level of cybersecurity measures; and implement appropriate measures. At the same time, the
 
 33 This constitutes a unified framework for improving the information security level of national administrative agencies and incorporated administrative agencies and sets forth the information security baseline for such agencies as well as the measures required to ensure a higher level of information security.
 
@@ -486,9 +468,7 @@ d. Reducing supply chain risks in IT procurement by government agencies and
 
 related agencies In IT procurement and related activities by government agencies and related agencies, the equipment and services procured are expected to change in response to evolving circumstances and technological advances. At the same time, against the backdrop of the expansion and increasing complexity of supply chains, concerns have arisen regarding the latent emergence of risks. To sufficiently reduce supply chain risks36 amid such changing environmental conditions, the government will ensure effectiveness by continuously reviewing relevant frameworks and systems, including the establishment of technical verification methods, while maintaining consistency with related systems.
 
-#### (ii) Further strengthening and advancing government agencies and related
-
-agencies monitoring systems and incident response capabilities Under the Basic Act on Cybersecurity as amended in 2025 (hereinafter referred to as the “Amended Basic Act”), as part of the evaluation of the status of cybersecurity assurance at government agencies and related agencies newly added to the functions of the Headquarters, existing initiatives, such as the GSOC’s cross-government monitoring of malicious communications will be strengthened and advanced in cooperation with public-sector organizations (NICT and IPA).
+(ii) Further strengthening and advancing government agencies and related agencies monitoring systems and incident response capabilities Under the Basic Act on Cybersecurity as amended in 2025 (hereinafter referred to as the “Amended Basic Act”), as part of the evaluation of the status of cybersecurity assurance at government agencies and related agencies newly added to the functions of the Headquarters, existing initiatives, such as the GSOC’s cross-government monitoring of malicious communications will be strengthened and advanced in cooperation with public-sector organizations (NICT and IPA).
 
 The National Cybersecurity Office will advance enhancements to GSOC sensors to expand detection capabilities and conduct studies to further collect and aggregate
 
@@ -512,9 +492,7 @@ In addition, the Digital Agency will ensure the resilience of, and strengthen th
 
 Furthermore, each government agencies and related agencies will conduct risk analysis and evaluation based on the characteristics of its own operations and information systems, while taking into account the common cybersecurity standards and the Standard Guidelines for the Promotion of Digital Society. They will thoroughly implement the concept of ensuring cybersecurity consistently from planning through operation (Security by Design) in order to build information systems with appropriate levels of cybersecurity. At the same time, they will promote appropriate operation through the accurate management of information assets and vulnerabilities, as well as by ensuring early recovery in the event of an incident.
 
-#### (iv) Development and retention of cybersecurity personnel and strengthening of
-
-organizational structures in government agencies and related agencies In order to respond cyber threats appropriately, it is necessary to enhance the development of human resources such as strengthening analytical capabilities and promoting public–private collaboration. For this purpose, based on the concept of the cybersecurity human resources framework, the government will clarify the definitions of cybersecurity personnel required in each organization, formulate and implement training measures such as advanced training and exercises that incorporate cybersecurity
+(iv) Development and retention of cybersecurity personnel and strengthening of organizational structures in government agencies and related agencies In order to respond cyber threats appropriately, it is necessary to enhance the development of human resources such as strengthening analytical capabilities and promoting public–private collaboration. For this purpose, based on the concept of the cybersecurity human resources framework, the government will clarify the definitions of cybersecurity personnel required in each organization, formulate and implement training measures such as advanced training and exercises that incorporate cybersecurity
 
 39 COSMOS is an abbreviation for Comprehensive Operation and Monitoring System (commonly referred to as “COSMOS”). 40 CRSA is an abbreviation for Continuous Risk Scoring and Action (commonly referred to as “CRSA”).
 
@@ -592,9 +570,7 @@ Furthermore, the government will continue to support the initiatives of local go
 
 With regard to My Number, which is closely linked to people’s daily lives and personal information, the government will continue to strengthen measures while maintaining an appropriate balance between convenience and cybersecurity, thereby promoting its safe and secure use.
 
-#### (iii) Strengthening
-
-cybersecurity measures for universities and related institutions Universities and related institutions, are composed of diverse members and possess a wide variety of information assets. Moreover, rooted in the spirit of academic freedom, they have a culture in which the independence of each constituent entity is respected, making it difficult to apply uniform information security measures across the entire organization. Under these circumstances, for universities and related institutions, to fulfill their roles in education, research, and social contribution while ensuring a safe and secure education and research environment, it is important to deepen further recognition that cybersecurity measures have become a major management issue. Taking into account their organizational characteristics, the heads of these corporations must exercise leadership to continuously maintain and enhance cybersecurity levels in response to changes in the situation.
+(iii) Strengthening cybersecurity measures for universities and related institutions Universities and related institutions, are composed of diverse members and possess a wide variety of information assets. Moreover, rooted in the spirit of academic freedom, they have a culture in which the independence of each constituent entity is respected, making it difficult to apply uniform information security measures across the entire organization. Under these circumstances, for universities and related institutions, to fulfill their roles in education, research, and social contribution while ensuring a safe and secure education and research environment, it is important to deepen further recognition that cybersecurity measures have become a major management issue. Taking into account their organizational characteristics, the heads of these corporations must exercise leadership to continuously maintain and enhance cybersecurity levels in response to changes in the situation.
 
 Therefore, to support autonomous initiatives by universities and related institutions, the government will provide support such as advice and information sharing regarding cybersecurity measures and structure development, organizational arrangements, as well as the conduct of training and exercises and the provision of advice when incidents occur. Furthermore, in order to ensure research security for universities and related institutions, that implement research and development programs for which the prevention of technology leakage is particularly necessary from the perspective of economic security, the government will provide support from a cybersecurity perspective as needed to ensure research security. (3) Ensuring cybersecurity and resilience across the entire supply chain, including vendors and SMEs Traditionally, cybersecurity has been regarded as a matter to be ensured by each company. However, with the widespread adoption of digital transformation (DX) across society, cyberattacks targeting a specific company can now affect the entire supply chain, including its contractors and business partners. Against this backdrop, and in light of
 
@@ -602,9 +578,7 @@ international trends such as the principles of Secure by Design and Secure by De
 
 In doing so, it is also important to identify challenges in existing systems that could become impediments, and to work toward their resolution. Accordingly, the National Cybersecurity Office will work in coordination with relevant ministries and agencies to promote initiatives such as the dissemination of the Secure by Design and Secure by Default principles and the enhancement of security governance. These initiatives will include identifying practical cybersecurity challenges in operational and field settings, comprehensively coordinating with relevant ministries, agencies, and private-sector companies toward their resolution, engaging in rule-making from a society-wide perspective, and awareness-raising activities and understanding of laws and regulations related to cybersecurity.
 
-#### (i) Promoting responsible cybersecurity practices among vendors based on
-
-secure-by-design principles ,etc. To promote the secure design, development and maintenance of information systems, the responsibilities that the suppliers of information systems, etc. should fulfil in relation to users will be clearly defined. Additionally, systems will be developed to ensure that the responsibilities of suppliers are embedded throughout society, such that it becomes a matter of course for users to access secure services and products and to easily ensure their own cybersecurity.
+(i) Promoting responsible cybersecurity practices among vendors based on secure-by-design principles ,etc. To promote the secure design, development and maintenance of information systems, the responsibilities that the suppliers of information systems, etc. should fulfil in relation to users will be clearly defined. Additionally, systems will be developed to ensure that the responsibilities of suppliers are embedded throughout society, such that it becomes a matter of course for users to access secure services and products and to easily ensure their own cybersecurity.
 
 With regard to the “JC-STAR” scheme, which certifies IoT products that meet a certain level of cybersecurity, further institutional development will be advanced. In combination with various measures such as guidelines and subsidies, its use will be promoted across society, including government agencies, local governments, critical infrastructure operators, and industry, while at the same time promoting interoperability with similar schemes in other countries. Similarly, the use of tools that enhance software transparency, including SBOM (software bill of materials), as well as the practice of secure software development, will be promoted across society. At the same time, Japan will work in a leading role to advance efforts toward institutional harmonization with other countries.
 
@@ -670,9 +644,7 @@ For the purpose of dealing with crime where advanced information and communicati
 
 In addition to these efforts, in order to appropriately address cyber incidents carried out across national borders, the government will promote necessary measures, such as cooperation with relevant businesses and international collaboration with foreign authorities, while drawing on the status of initiatives in other countries.
 
-### ３. Formation of an Ecosystem for Human Resources and Technologies
-
-### Supporting Japan’s Cyber Response Capabilities
+### ３. Formation of an Ecosystem for Human Resources and Technologies Supporting Japan’s Cyber Response Capabilities
 
 In order to give concrete form to defense and deterrence against increasingly severe cyber threats through diverse means, as well as to the enhancement of cybersecurity and resilience across society through the participation of a wide range of stakeholders, and to elevate Japan’s cybersecurity level to one of the highest in the world, it is necessary for Japan to secure the human resources and technologies that underpin these efforts.
 
@@ -704,9 +676,7 @@ It will strengthen the linkage between education and training provided by variou
 
 These initiatives will enable diverse personnel to demonstrate their abilities in areas where they are needed in society, and will facilitate the organic circulation of knowledge and experience gained across various settings through human resources, thereby contributing to the sustained strengthening of cybersecurity levels across society as a whole.
 
-#### (ii) Further enhancement of education, exercises, and training for developing
-
-cybersecurity personnel In Japan, insufficiency of cybersecurity personnel who has specialized knowledge and practical skills continues to be pointed out. Meanwhile, efforts in both the public and private sectors, such as qualification systems, training and exercises, and opportunities for reskilling, are progressing. It is important to accelerate this momentum and advance the securing and development of cybersecurity personnel in terms of both quality and quantity.
+(ii) Further enhancement of education, exercises, and training for developing cybersecurity personnel In Japan, insufficiency of cybersecurity personnel who has specialized knowledge and practical skills continues to be pointed out. Meanwhile, efforts in both the public and private sectors, such as qualification systems, training and exercises, and opportunities for reskilling, are progressing. It is important to accelerate this momentum and advance the securing and development of cybersecurity personnel in terms of both quality and quantity.
 
 From elementary and secondary education through higher education, vocational training, workforce development, and the cultivation of highly specialized personnel, there is a need to establish a systematic and continuous learning environment. Opportunities will be created for the step-by-step acquisition of skills ranging from foundational literacy (information literacy) to advanced expertise, while strengthening industry, academia and government collaboration to ensure access to practical skills training and the latest knowledge.
 
@@ -738,9 +708,7 @@ In tandem with promoting the technological development efforts in the cybersecur
 
 However, recognizing that new technological innovations with significant impacts on cybersecurity may emerge unpredictably in the future, necessary responses will be implemented flexibly, even for the technologies not specifically cited in this Strategy, by closely monitoring such developments.
 
-#### (i) Response and initiatives accompanying the advancement and spread of AI
-
-technology The advancement and adoption of AI technologies are significantly impacting the field
+(i) Response and initiatives accompanying the advancement and spread of AI technology The advancement and adoption of AI technologies are significantly impacting the field
 
 of cybersecurity. Specifically, three perspectives can be identified: ensuring security to protect AI itself (Security for AI), ensuring cybersecurity by using AI (AI for Security), and addressing cyberattacks that exploit AI.
 
@@ -762,9 +730,7 @@ secure AI development resources, and to implement supply chain risk measures, al
 
 These AI-related initiatives will be promoted based on the Basic AI Plan formulated by the AI Strategy Headquarters, in accordance with the Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology (Act No. 53 of 2025)
 
-#### (ii) Response and initiatives accompanying the advancement of quantum
-
-technology Regarding quantum computing technology, concerns have been raised that its advancement may lead to the deterioration of safety and potential compromise of currently widely used public-key cryptography. In this context, countries such as the United States and the European Union (EU) have announced their respective policies for transitioning to post-quantum cryptography (PQC), many of which aim for the transition by 2035. The safety and reliability of cyberspace are built on the foundation of cryptographic technologies used to ensure information confidentiality, prevent tampering, and enable authentication. From the perspective of international collaboration, delays in Japan’s transition could give rise to concerns regarding cybersecurity and national security. To ensure Japan’s cybersecurity, government agencies and related agencies aim for the transition to PQC by 2035, in principle55. Taking into account the current use of cryptographic and other technologies at government agencies and related agencies, a roadmap will be formulated in FY2026 under collaboration with relevant ministries and agencies to promote smooth nationwide transition.
+(ii) Response and initiatives accompanying the advancement of quantum technology Regarding quantum computing technology, concerns have been raised that its advancement may lead to the deterioration of safety and potential compromise of currently widely used public-key cryptography. In this context, countries such as the United States and the European Union (EU) have announced their respective policies for transitioning to post-quantum cryptography (PQC), many of which aim for the transition by 2035. The safety and reliability of cyberspace are built on the foundation of cryptographic technologies used to ensure information confidentiality, prevent tampering, and enable authentication. From the perspective of international collaboration, delays in Japan’s transition could give rise to concerns regarding cybersecurity and national security. To ensure Japan’s cybersecurity, government agencies and related agencies aim for the transition to PQC by 2035, in principle55. Taking into account the current use of cryptographic and other technologies at government agencies and related agencies, a roadmap will be formulated in FY2026 under collaboration with relevant ministries and agencies to promote smooth nationwide transition.
 
 Furthermore, the transition to PQC is not limited to government agencies and related agencies; it is also an issue that must be considered by critical infrastructure operators and private-sector entities. Accordingly, under the collaboration with relevant ministries and agencies, examinations of necessary measures will be advanced to support a smooth transition.
 

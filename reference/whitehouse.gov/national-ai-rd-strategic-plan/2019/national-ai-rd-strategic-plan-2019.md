@@ -2,15 +2,9 @@
 
 ## THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN: 2019 UPDATE
 
-### A Report by the
+### A Report by the — SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE — of the — NATIONAL SCIENCE & TECHNOLOGY COUNCIL
 
-### SELECT COMMITTEE ON ARTIFICIAL INTELLIGENCE
-
-### of the
-
-### NATIONAL SCIENCE & TECHNOLOGY COUNCIL
-
-## JUNE 2019
+JUNE 2019
 
 Dear Colleagues,
 
@@ -130,19 +124,19 @@ In September 2018, the Select Committee initiated an update to the 2016 Strategi
 
 Together, the Select Committee on AI, the NSTC Subcommittee on Machine Learning and AI, and the AI R&D Interagency Working Group of NITRD reviewed the input regarding the National AI R&D Strategic Plan. Each of the original seven focus areas or strategies of the 2016 Plan was reaffirmed by multiple respondents from the public and government, with no calls to remove any one strategy. These strategies, updated in this 2019 Update to the Strategic Plan to reflect the current state of the art, are:
 
-### Strategy 1: Make long-term investments in AI research;
+Strategy 1: Make long-term investments in AI research;
 
-### Strategy 2: Develop effective methods for human-AI collaboration;
+Strategy 2: Develop effective methods for human-AI collaboration;
 
-### Strategy 3: Understand and address the ethical, legal, and societal implications of AI;
+Strategy 3: Understand and address the ethical, legal, and societal implications of AI;
 
-### Strategy 4: Ensure the safety and security of AI systems;
+Strategy 4: Ensure the safety and security of AI systems;
 
-### Strategy 5: Develop shared public datasets and environments for AI training and testing;
+Strategy 5: Develop shared public datasets and environments for AI training and testing;
 
 Strategy 6: Measure and evaluate AI technologies through standards and benchmarks; and
 
-### Strategy 7: Better understand the national AI R&D workforce needs.
+Strategy 7: Better understand the national AI R&D workforce needs.
 
 8 https://www.whitehouse.gov/wp-content/uploads/2018/05/Summary-Report-of-White-House-AI-Summit.pdf
 
@@ -150,7 +144,7 @@ Strategy 6: Measure and evaluate AI technologies through standards and benchmark
 
 Many responses to the RFI called for greater Federal Government R&D engagement with the private sector, given the fast rise of privately funded AI R&D, and the rapid adoption of AI by industry. As a result, the 2019 Update incorporates a new, eighth strategy:
 
-### Strategy 8: Expand public-private partnerships to accelerate advances in AI.
+Strategy 8: Expand public-private partnerships to accelerate advances in AI.
 
 Feedback from the public and Federal agencies identified a number of specific challenges to further AI development and adoption. These challenges, many of which cut across multiple agencies, provide enhanced insight into ways that this National AI R&D Strategic Plan can guide the course of AI R&D in America, and many closely relate to the themes addressed in the 2019 Executive Order on Maintaining American Leadership in Artificial Intelligence. Examples include the following:
 

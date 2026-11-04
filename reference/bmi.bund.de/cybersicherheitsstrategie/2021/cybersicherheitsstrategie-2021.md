@@ -1,8 +1,6 @@
 # Cybersicherheitsstrategie für Deutschland 2021
 
-## Cyber Security Strategy for Germany 2021
-
-## Publication data
+## Cyber Security Strategy for Germany 2021 — Publication data
 
 Published by Federal Ministry of the Interior, Building and Community Contact information Federal Ministry of the Interior, Building and Community Alt-Moabit 140 10557 Berlin, Germany Telephone: +49 (0)30 18 681-0 Email: CSS2021@bmi.bund.de Last updated August 2021
 
@@ -2060,9 +2058,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 103
 
-### 8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to
-
-technological progress
+### 8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to technological progress
 
 Why is the objective relevant?
 

@@ -1,14 +1,12 @@
 # New Zealand's Cyber Security Strategy 2011
 
-## Appendix 1: NEW ZEALAND’S
+## Appendix 1: NEW ZEALAND’S CYBER SECURITY STRATEGY
 
-## CYBER SECURITY STRATEGY
-
-## June 2011
+June 2011
 
 © New Zealand Government 7 June 2011 ISBN: 978-0-478-38200-6 www.med.govt.nz/cyberstrategy
 
-## Foreword from the Minister
+### Foreword from the Minister
 
 The Internet and digital technologies are transforming the
 
@@ -66,7 +64,7 @@ changing environment. I am confident we can work together to meet this challenge
 
 Hon Steven Joyce Minister for Communications and Information Technology
 
-## Introduction
+### Introduction
 
 A well-functioning cyber space provides important
 
@@ -144,7 +142,7 @@ despite increasing coordinated efforts to shut down botnet activity.6
 
 sources to give a veneer of authenticity, grew in prevalence in 2010.7
 
-## The Role of Government
+### The Role of Government
 
 New Zealand is not immune from cyber attacks. A successful targeted cyber attack could
 
@@ -190,7 +188,7 @@ growing issue of international cyber crime.
 
 4 PandaLabs Annual Security Report – 2010. 5 IBM X-Force Trend and Risk Report – 2010. 6 As above. 7 As above.
 
-## Cyber Security Threats
+### Cyber Security Threats
 
 The threat to New Zealanders and the New Zealand
 
@@ -248,7 +246,7 @@ and regularly changing, a password or PIN.13
 
 8 Norton Cybercrime Report 2010: The Human Impact. 9 New Zealand Police – 2011. 10 Ministry of Consumer Affairs – 2010. 11 Department of Internal Affairs – 2010. 12 AVG/NetSafe Survey – March 2011. 13 Unisys Security Index – 2010.
 
-## Cyber crime
+### Cyber crime
 
 Criminals operating in cyber space are often well-organised and well-funded. They are
 
@@ -278,7 +276,7 @@ attempt to push malware or launch an attack on the victim’s computer.15
 
 phone numbers, employment details and other information) to mount targeted attacks.16
 
-## Cyber Espionage
+### Cyber Espionage
 
 Some of the most advanced and persistent cyber attacks on governments and critical
 
@@ -290,7 +288,7 @@ government systems, national infrastructure and businesses that have resulted in
 
 commercially sensitive information, intellectual property and state or trade secrets.
 
-## Hacktivism
+### Hacktivism
 
 There has also been a global increase in ‘hactivism’. Hacktivists seek to gain control over
 
@@ -300,7 +298,7 @@ statement or disrupt services, for example, by overloading websites with botnet 
 
 can deny or prevent the legitimate use of the service.
 
-## Terrorist use of the Internet
+### Terrorist use of the Internet
 
 Terrorists recognise the growing worldwide dependence on cyber systems and may seek to
 
@@ -310,7 +308,7 @@ their cyber capability and use of the Internet to support recruitment and fundra
 
 14 Sophos Security Treat Report – 2010. 15 Symantec Internet Security Threat Report: Trends for 2010. 16 As above.
 
-## New Zealand’s Response
+### New Zealand’s Response
 
 New Zealand’s Cyber Security Strategy outlines the Government’s response to the growing
 
@@ -320,13 +318,13 @@ strengthen New Zealand’s cyber security position.
 
 The key objectives of the Strategy are to:
 
- raise the cyber security awareness and understanding of individuals and small
+raise the cyber security awareness and understanding of individuals and small
 
 businesses;
 
- improve the level of cyber security across government; and
+improve the level of cyber security across government; and
 
- build strategic relationships to improve cyber security for critical national infrastructure
+build strategic relationships to improve cyber security for critical national infrastructure
 
 and other businesses.
 
@@ -334,7 +332,7 @@ The Government has appointed the Ministry of Economic Development as the lead po
 
 agency responsible for coordinating cyber security policy and implementing this Strategy.
 
-## A Partnership Approach
+### A Partnership Approach
 
 Improving cyber security is a shared responsibility. In developing this Strategy, the Government
 
@@ -352,13 +350,13 @@ Internationally, the Government will continue to collaborate with security and t
 
 ensure New Zealand contributes effectively to global cyber security initiatives.
 
-## Priority Areas and Key Initiatives
+### Priority Areas and Key Initiatives
 
 New Zealand’s Cyber Security Strategy has three priority areas:
 
-### 1. Increasing Awareness and Online Security
+1. Increasing Awareness and Online Security
 
-### 2. Protecting Government Systems and Information
+2. Protecting Government Systems and Information
 
 ### 3. Incident Response and Planning
 
@@ -406,7 +404,7 @@ measures to address problems such as infected computers and botnets.
 
 ### Key initiatives:
 
- Partner with industry and non-government organisations, such as NetSafe, to:
+Partner with industry and non-government organisations, such as NetSafe, to:
 
 – centralise cyber security information and resources for ease of access; and
 
@@ -414,7 +412,7 @@ measures to address problems such as infected computers and botnets.
 
 ### Longer-term initiative:
 
- Progress work with Internet Service Providers to develop appropriate solutions to
+Progress work with Internet Service Providers to develop appropriate solutions to
 
 address cyber security issues, such as infected computers and botnets.
 
@@ -450,11 +448,11 @@ agencies.
 
 ### Key initiatives:
 
- Establish a National Cyber Security Centre within the Government Communications
+Establish a National Cyber Security Centre within the Government Communications
 
 Security Bureau.
 
- Implement steps to improve cyber security practices in government agencies.
+Implement steps to improve cyber security practices in government agencies.
 
 ## Priority 3 – Incident Response and Planning
 
@@ -502,19 +500,19 @@ the need for a New Zealand Computer Emergency Response Team (CERT).
 
 ### Key initiatives:
 
- Establish a National Cyber Security Centre, which will absorb the functions of the
+Establish a National Cyber Security Centre, which will absorb the functions of the
 
 CCIP.
 
- Revise the Government’s national cyber incident response plan.
+Revise the Government’s national cyber incident response plan.
 
- Expand work with industry, including critical national infrastructure providers and
+Expand work with industry, including critical national infrastructure providers and
 
 businesses to support them to review their cyber security responses.
 
 ### Longer-term initiatives:
 
- Work with interested parties to determine the need for a New Zealand CERT.
+Work with interested parties to determine the need for a New Zealand CERT.
 
 ## Other Initiatives
 
@@ -566,11 +564,11 @@ on Cybercrime.
 
 ### Longer-term initiatives:
 
- Work with educational and training institutions to determine an appropriate solution to
+Work with educational and training institutions to determine an appropriate solution to
 
 meet the need for cyber security professionals in New Zealand.
 
- Work with international partners on initiatives to combat cyber crime and determine
+Work with international partners on initiatives to combat cyber crime and determine
 
 New Zealand’s alignment with the Council of Europe Convention on Cybercrime.
 
@@ -714,4 +712,4 @@ Microsoft Security Intelligence Report – January to June 2009.
 
 Ministry of Consumer Affairs – 2010.
 
-## www.med.govt.nz/cyberstrategy
+www.med.govt.nz/cyberstrategy

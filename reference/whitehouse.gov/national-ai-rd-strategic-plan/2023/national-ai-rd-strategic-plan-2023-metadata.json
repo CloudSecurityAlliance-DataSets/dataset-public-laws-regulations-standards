@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 56-page PDF (https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf) locally via PyMuPDF (190,094 chars). Parsed 74 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 56-page PDF (https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf) locally via PyMuPDF (190,094 chars). Parsed 65 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

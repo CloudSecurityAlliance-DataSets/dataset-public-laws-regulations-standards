@@ -22,13 +22,7 @@ European Union that protects its citizens, values and interests and contributes 
 
 and security, as approved by the Council at its meeting held on 21 March 2022.
 
-### A Strategic Compass for Security and Defence
-
-### For a European Union that protects its citizens, values and interests and
-
-### contributes to international peace and security
-
-### EXECUTIVE SUMMARY
+### For a European Union that protects its citizens, values and interests and — contributes to international peace and security — EXECUTIVE SUMMARY
 
 The return of war in Europe, with Russia’s unjustified and unprovoked aggression against Ukraine, as well as major geopolitical shifts are challenging our ability to promote our vision and defend our interests. We live in an era of strategic competition and complex security threats. We see conflicts, military build-ups and aggressions, and sources of instability increasing in our neighbourhood and beyond, leading to severe humanitarian suffering and displacement. Hybrid threats grow both in frequency and impact. Interdependence is increasingly conflictual and soft power weaponised: vaccines, data and technology standards are all instruments of political competition. Access to the high seas, outer space and the digital sphere is increasingly contested. We are facing increasing attempts of economic and energy coercion. Moreover, conflicts and instability are often compounded by the threat-multiplier effect of climate change.
 

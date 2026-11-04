@@ -16,8 +16,8 @@
   "license": {
     "spdx": "etalab-2.0",
     "Grouping": "Permissive",
-    "redistribution": "yes",
-    "derivatives": "yes",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
     "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
@@ -26,7 +26,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.sgdsn.gouv.fr",
-    "textUsed": "https://www.vie-publique.fr/files/rapport/pdf/174000727.pdf",
+    "textUsed": "https://web.archive.org/web/20251231160420id_/https://www.diplomatie.gouv.fr/IMG/pdf/2017-revue_strategique_dsn_cle4b3beb.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 137-page PDF (https://www.vie-publique.fr/files/rapport/pdf/174000727.pdf) locally via PyMuPDF (290,247 chars). Parsed 80 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 111-page PDF (https://web.archive.org/web/20251231160420id_/https://www.diplomatie.gouv.fr/IMG/pdf/2017-revue_strategique_dsn_cle4b3beb.pdf) locally via PyMuPDF (232,879 chars). Parsed 44 sections (33 with explicit section identifiers)."
   },
   "extraction_history": [
     {

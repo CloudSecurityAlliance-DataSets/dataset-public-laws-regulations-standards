@@ -2,11 +2,9 @@
 
 Provisional Translation CYBERSECURITY STRATEGY
 
-### September 4, 2015
+### September 4, 2015 — Cabinet Decision
 
-### Cabinet Decision
-
-### The Government of Japan
+The Government of Japan
 
 ## Contents
 
@@ -174,15 +172,15 @@ Building the state of a world soundly governed by the rule of law – it is a wa
 
 The following are the goals and directions of the policies scheduled to be implemented in the coming three years, for delivering results of the strategy. They are based on the five basic principles previously described and illustrated with respect to each policy area where the strategy contributes. Each policy is expected to be consistent with the following three approaches, to the maximum extent feasible.
 
-### (1) Being Proactive, not Reactive.
+(1) Being Proactive, not Reactive.
 
 Perpetrators in cyberspace are always advancing their methods of cyber attacks. Given the reality that cyberspace has vulnerabilities inherent to itself because of its digital-based structure, Japan will not wait until some damage would be done; instead, Japan will take necessary measures proactively, by conducting analyses on future social changes and potential risks.
 
-### (2) Acting as a Catalyst, not Just a Passive Player.
+(2) Acting as a Catalyst, not Just a Passive Player.
 
 For achieving the goal set in (1), with recognition that cyberspace is a space built and operated by actors of the private sector as the main driving forces, Japan will implement policies to catalyze their self-motivated activities and their own initiatives. At the same time, Japan will undertake a leading role as a responsible member of the international community and proactively contribute to peace and stability in cyberspace that is global by nature.
 
-### (3) Envisaging Cyber-Physical Space, not Cyberspace Alone.
+(3) Envisaging Cyber-Physical Space, not Cyberspace Alone.
 
 All kinds of physical objects and people have been interconnected by ICTs in a more multidimensional way, and the integration of physical space and cyberspace has become more intertwined. Attention should be paid to the fact that any event in cyberspace may affect society as a whole, producing a synergy effect with various events including those in physical space. Recognizing the transformational process leading to the unprecedented interconnected and converged information society, Japan will implement policies by precisely capturing such social transformation.
 
@@ -584,7 +582,7 @@ European countries which share basic values and principles, e.g. market economy,
 
 Regarding the Latin America and the Caribbean region as well as the Middle East and Africa region, Japan will build and strengthen its partnerships with countries that share common values with Japan, and consider the possibility of cooperation and partnerships with other countries on capacity building and other measures.
 
-#### (4) Latin America and the Caribbean, Middle East and Africa
+(4) Latin America and the Caribbean, Middle East and Africa
 
 ### 5.4. Cross-Cutting Approaches to Cybersecurity
 

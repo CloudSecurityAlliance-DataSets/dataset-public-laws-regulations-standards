@@ -1,10 +1,8 @@
 # Artificial Intelligence Strategy of the German Federal Government (2018)
 
-## Artificial Intelligence Strategy
-
 ## Status: November 2018
 
-## The Federal Government’s Artificial Intelligence (AI) strategy was jointly developed by the Federal Ministry of Education and Research, the Federal Ministry for Economic Affairs and Energy, and the Federal Ministry of Labour and Social Affairs based on suggestions taken from an nationwide
+The Federal Government’s Artificial Intelligence (AI) strategy was jointly developed by the Federal Ministry of Education and Research, the Federal Ministry for Economic Affairs and Energy, and the Federal Ministry of Labour and Social Affairs based on suggestions taken from an nationwide
 
 online consultation.
 
@@ -88,23 +86,17 @@ In the 2019 federal budget, the Federation has taken a first step, allocating a 
 
 ness in the future.
 
-## • We will further develop our existing Centres of Excellence for AI at supra-regional level, establish additional ones,
+• We will further develop our existing Centres of Excellence for AI at supra-regional level, establish additional ones,
 
 and develop them into a national network of at least twelve centres and application hubs. As we do so, we will be offering working conditions and remuneration that are internationally attractive and competitive. We will launch a programme to support junior researchers and to reinforce academic teaching in the field of AI. We want to create at least 100 additional professorships for AI to ensure that AI has a strong foothold within the higher education system. • Working with France, we will drive forward the development of a Franco-German research and development network (“virtual centre”) that is based on existing structures and the particular skills offered by each of the two countries. • We will make AI one of the priorities for the envisaged Agency for Breakthrough Innovations. • We will form a European innovation cluster providing funding for cooperative research projects over the next five years. • We will increase our AI-specific support for small and medium-sized companies. The Mittelstand 4.0 centres of excellence will have ‘AI trainers’ contact at least 1,000 companies per year. • The Federal Government wants to help companies establish test beds. • The EXIST (Business Start-ups in Science) programme’s budget for 2019 will be twice as high as in the previous years. • We are creating new funding opportunities for venture capital and venture debt and will launch a Tech Growth Fund Initiative. • We are further expanding our advisory and funding services targeted at start-ups. • The Federal Government will improve incentives and the policy framework for the voluntary sharing of data in compliance with data protection rules, and will progress the establishment of a trustworthy data and analysis infrastructure including the building of a cloud platform with upgradable storage and computing capacity on which this infrastructure can be run.
 
 2. We want a responsible development and use of AI which serves the good of society.
 
-## • The Federal Government will establish a German observatory for artificial intelligence and will support
+• The Federal Government will establish a German observatory for artificial intelligence and will support the establishment of similar observatories at European and international level.
 
-the establishment of similar observatories at European and international level.
+• The Federal Government is initiating a European and transatlantic dialogue on the human-centric use of AI in the world of work.
 
-## • The Federal Government is initiating a European and transatlantic dialogue on the human-centric use
-
-of AI in the world of work.
-
-## • As part of a National Further Training Strategy, the Federal Government will develop a broad-based set
-
-of instruments to foster the skills of the workforce.
+• As part of a National Further Training Strategy, the Federal Government will develop a broad-based set of instruments to foster the skills of the workforce.
 
 ## • The Federal Government will use the results of a new skills monitoring to inform and develop its
 
@@ -114,17 +106,15 @@ Skilled Labour Strategy in the fields of digital skills and new technologies suc
 
 dialogue and active political measures.
 
-## • The Federal Government will invite data protection authorities and business associations for a round table
-
-and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples. • The Federal Government is providing funding for the development of innovative applications that support self-determination, social inclusion, cultural participation and the protection of citizens’ privacy. • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit und Gesellschaft) to get the message out and to promote multidisciplinary social technology design. • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence Platform that hosts a dialogue between government, science and commerce with civil society.
+• The Federal Government will invite data protection authorities and business associations for a round table and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples. • The Federal Government is providing funding for the development of innovative applications that support self-determination, social inclusion, cultural participation and the protection of citizens’ privacy. • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit und Gesellschaft) to get the message out and to promote multidisciplinary social technology design. • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence Platform that hosts a dialogue between government, science and commerce with civil society.
 
 ### 1. Goals
 
 The comments received during the consultation were broadly in line with the goals outlined in the Key Points Paper for an artificial intelligence strategy. In view of this, and of the similarly holistic approach taken by the European Union in the European Strategy on Artificial Intelligence, the Federal Government sets itself the following goals, each of which is of equal ranking:
 
-### I.
+I.
 
-We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitive­ ness in the future.
+We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitive­ ness in the future.
 
 a. The Federal Government is committed to achieving and maintaining leading global excellence in the research,
 
@@ -168,7 +158,7 @@ j. We want to raise awareness on the part of the relevant stakeholders – from 
 
 regarding ethical and legal limits of the use of artificial intelligence and to examine whether the regulatory framework needs to be further developed in order for it to guarantee a high level of legal certainty. We want to demand and foster compliance with ethical and legal principles throughout the process of developing and using AI.
 
-### III. We will integrate AI in society in ethical, legal, cultural and institutional terms in the context of a broad
+### III.  We will integrate AI in society in ethical, legal, cultural and institutional terms in the context of a broad
 
 societal dialogue and active political measures.
 
@@ -778,7 +768,7 @@ As modern technologies and AI continue to develop, relieving human beings of cer
 
 (based on the recommendations of the Data Ethics Commission)
 
-## 3.12 Engaging in dialogue with society and continuing the development of the frame­ work for policy action
+## 3.12  Engaging in dialogue with society and continuing the development of the frame­ work for policy action
 
 At present, AI is the subject of a contentious debate in wide sections of the populace. If we are to make Germany a world leader in terms of research, development and the application of AI, AI needs to be viewed, desired and shaped as an opportunity. This requires intensive societal dialogue, participatory processes and possibilities to help shape the future. The aim is to anchor AI in society in cultural, ethical, legal and institutional terms. The opportunities afforded by AI to each individual and to society in general must be flagged up just as prominently and credibly as the possibil­ ities for social and inclusive technology and measures to analyse and safeguard against any potential risks. We will place the societal dialogue on AI in the context of a comprehensive and longer-term campaign on digital informa­ tion, education and participation which embraces new technologies like AI. In this process, we will involve all groups in society and pay particular attention to those, such as the elderly, who manifestly still make less than average use of digital services.
 

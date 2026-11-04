@@ -1,9 +1,5 @@
 # Stratégie nationale pour la sécurité du numérique (2015)
 
-## stratégie nationale
-
-## pour la sécurité
-
 ## du numérique
 
 La France est pleinement engagée dans la transition numérique. Forte d’une population très largement connectée et portée par une économie numérique en croissance soutenue, la France dispose de talents et d’atouts à la pointe de l’innovation européenne et mondiale.
@@ -18,35 +14,19 @@ Répondre aux enjeux de sécurité du monde numérique est un facteur clé de su
 
 Manuel Valls Premier ministre
 
-## stratégie nationale
-
-## pour la sécurité
-
 ## du numérique
 
-## La numérisation de la société française s’accélère : la part du numérique dans les services, les
+La numérisation de la société française s’accélère : la part du numérique dans les services, les produits, les métiers ne cesse de croître. Réussir la transition numérique est devenu un enjeu national. Vecteur d’innovation et de croissance, la numérisation présente
 
-## produits, les métiers ne cesse de croître. Réussir la transition numérique est devenu un enjeu national. Vecteur d’innovation et de croissance, la numérisation présente
+aussi des risques pour l’état, les acteurs économiques et les citoyens.
 
-## aussi des risques pour l’état, les
+Cybercriminalité, espionnage,
 
-acteurs économiques et les citoyens.
+## propagande, sabotage ou exploitation excessive de données personnelles menacent la confiance — et la sécurité dans le numérique et — appellent une réponse collective
 
-## Cybercriminalité, espionnage,
+et coordonnée selon cinq objectifs stratégiques.
 
-## propagande, sabotage ou exploitation excessive de données personnelles menacent la confiance
-
-## et la sécurité dans le numérique et
-
-## appellent une réponse collective
-
-## et coordonnée selon cinq
-
-objectifs stratégiques.
-
-## # Intérêts fondamentaux, défense et sécurité des
-
-systèmes d’information de l’État et des infrastruc-tures critiques, crise informatique majeure.
+# Intérêts fondamentaux, défense et sécurité des systèmes d’information de l’État et des infrastruc-tures critiques, crise informatique majeure.
 
 En développant une pensée stratégique autonome, soutenue par une expertise technique de premier plan, la France se donnera les moyens de défendre ses intérêts fondamentaux dans le cyberespace de demain. Parallè-lement, elle continuera à renforcer la sécurité de ses ré-seaux critiques et sa résilience en cas d’attaque majeure en développant des coopérations tant à l’échelle natio-nale avec les acteurs privés qu’internationale. # Confiance numérique, vie privée, données per-sonnelles, cybermalveillance.
 
@@ -54,7 +34,7 @@ Afin que le cyberespace reste un espace de confiance pour les entreprises de tou
 
 La prise de conscience individuelle des risques liés à la numérisation de la société reste insuffisante. Face à ce constat, la sensibilisation des écoliers et des étu-diants sera renforcée. En outre, afin de répondre aux demandes croissantes des entreprises et des adminis-trations en matière de cybersécurité, la formation d’ex-perts dans ce domaine sera développée.
 
-## # Environnement des entreprises du numérique,
+# Environnement des entreprises du numérique,
 
 politique industrielle, export et internationalisa-tion.
 
@@ -166,17 +146,11 @@ Ce sont ces engagements synallagmatiques pris par chacun des acteurs qui permett
 
 L’État a pour rôle dans le cyberespace de garantir la liberté d’expression et d’action de la France et d’assurer la sécurité de ses infrastructures critiques en cas d’at-taque informatique majeure (objectif 1), de protéger la vie numérique des citoyens et des entreprises, de lutter contre la cybercriminalité (objectif 2), d’assurer la sen-sibilisation et la formation nécessaires à la sécurité du numérique (objectif 3), de favoriser le développement d’un écosystème favorable à la confiance dans le nu-mérique (objectif 4) et de promouvoir la coopération entre états-membres de l’Union dans un sens favorable à l’émergence d’une autonomie stratégique numérique européenne, garante sur le long terme d’un cyberes-pace plus sûr et respectueux de nos valeurs (objectif 5).
 
-## CINQ
-
-## OBJECTIFS
-
-## Stratégiques
+CINQ — OBJECTIFS — Stratégiques
 
 1
 
-## Intérêts FONDAMENTAUX, Défense et Sécurité des Systèmes D’INFORMATION DE L’état ET DES INFRASTRUCTURES CRITIQUES, CRISE INFORMATIQUE MAJEURE
-
-## ENJEUX
+## Intérêts FONDAMENTAUX, Défense et Sécurité des Systèmes D’INFORMATION DE L’état ET DES INFRASTRUCTURES CRITIQUES, CRISE INFORMATIQUE MAJEURE — ENJEUX
 
 L
 
@@ -188,13 +162,11 @@ Depuis plusieurs années, plusieurs États ont mis en œuvre leur volonté polit
 
 Qu’elles soient connues par des documents pu-bliquement révélés ou mis en évidence lors du traitement d’attaques informatiques, les excès de telles pratiques entament la crédibilité de certains
 
-## « Les excès de telles pratiques entament la crédibilité de certains de ces États sur la scène internationale et ruinent la confiance qu’il serait naturel
+« Les excès de telles pratiques entament la crédibilité de certains de ces États sur la scène internationale et ruinent la confiance qu’il serait naturel
 
 ## d’attribuer aux produits et services
 
-## numériques de leurs entreprises. »
-
-de ces États sur la scène internationale et ruinent la confiance qu’il serait naturel d’attribuer aux pro-duits et services numériques de leurs entreprises.
+numériques de leurs entreprises. » de ces États sur la scène internationale et ruinent la confiance qu’il serait naturel d’attribuer aux pro-duits et services numériques de leurs entreprises.
 
 Ainsi, le risque cybernétique, placé en troisième position des menaces majeures pour la France par le Livre blanc sur la défense et la sécurité nationale de 2013, est aujourd’hui renforcé et constitue un défi majeur posé à la France.
 
@@ -202,9 +174,7 @@ Ainsi, le risque cybernétique, placé en troisième position des menaces majeur
 
 La France se donnera les moyens de défendre ses intérêts fondamentaux dans le cyberespace. Elle consolidera la sécurité numérique de ses infrastruc-tures critiques et œuvrera pour celle de ses opéra-teurs essentiels à l’économie.
 
-## ORIENTATIONS > Détenir les capacités scientifiques, techniques
-
-et industrielles nécessaires à la protection de l’in-formation de souveraineté, à la cybersécurité et au développement d’une économie numérique de confiance.
+ORIENTATIONS > Détenir les capacités scientifiques, techniques et industrielles nécessaires à la protection de l’in-formation de souveraineté, à la cybersécurité et au développement d’une économie numérique de confiance.
 
 Un groupe d’experts pour la confiance numérique sera créé, sous l’égide du secrétariat d’État au numé-rique et de l’autorité nationale de sécurité des systèmes d’information.
 
@@ -220,17 +190,13 @@ Une commission du groupe d’experts réunira les coordinateurs ministériels de
 
 Ce groupe d’experts rendra compte annuellement de ses activités au Premier ministre.
 
-## > Assurer au profit de l’État, des entreprises et des
-
-citoyens une veille active en matière de sécurité des technologies et des usages.
+> Assurer au profit de l’État, des entreprises et des citoyens une veille active en matière de sécurité des technologies et des usages.
 
 Dans la perspective d’évolutions technologiques ma-jeures, comme les télécommunications mobiles de 5e génération (5G) ou les « réseaux définis par le logiciel », la France restera vigilante sur la nature et les capacités des équipements matériels et logiciels installés au cœur de ses réseaux de communications électroniques, pour protéger le secret des correspondances, la vie privée de ses citoyens et la résilience de ces infrastructures, et poursuivra l’adaptation de son cadre réglementaire aux nouvelles technologies émergentes.
 
 L’autorité nationale de sécurité des systèmes d’in-formation informera régulièrement les ministères, les entreprises, les collectivités territoriales et les citoyens, par des moyens adaptés au public visé, des éléments susceptibles de présenter un danger dans leur utilisa-tion du numérique. Le cas échéant, ces informations auront au préalable été consolidées avec les administra-tions compétentes.
 
-## > Accélérer le renforcement de la sécurité des sys-
-
-tèmes d’information de l’État.
+> Accélérer le renforcement de la sécurité des sys- tèmes d’information de l’État.
 
 Depuis 2010, plusieurs actions destinées à élever le niveau de sécurité des systèmes d’information de l’État ont été conduites. Une politique de sécurité des systèmes d’information de l’État (PSSIE) a été élaborée, un réseau interministériel de communications électroniques est en essor, le déploiement de terminaux mobiles sécurisés a été initié. Ces actions, comme celles destinées à pro-duire les équipements de sécurité destinés à protéger l’information de souveraineté, mobilisent des ressources humaines et budgétaires. Elles seront poursuivies afin d’offrir au gouvernement et à nos capacités militaires le niveau de sécurité adapté à une préservation à long terme de l’autonomie de décision et d’action de la France.
 
@@ -238,9 +204,7 @@ L’application de la politique de sécurité des systèmes d’information de l
 
 Dans le même objectif d’informer le Parlement, les projets de loi comporteront dans leur étude d’impact dès 2016 un volet consacré au numérique et, au sein de ce volet, à la cybersécurité, établi sous l’égide des hauts fonctionnaires chargés de la qualité de la réglementa-tion. Plus largement, les hauts fonctionnaires chargés de la qualité de la réglementation veilleront à prendre en compte les questions liées au renforcement de la sécurité des systèmes d’information de l’État dans le cadre du pi-lotage de l’activité normative.
 
-## > Préparer la France et les organisations multila-
-
-térales dont elle est membre à faire face à une crise informatique majeure.
+> Préparer la France et les organisations multila- térales dont elle est membre à faire face à une crise informatique majeure.
 
 Annoncé par le Livre blanc sur la défense et la sécu-rité nationale de 2013, le renforcement de la sécurité des systèmes d’information les plus sensibles des opérateurs d’importance vitale a fait l’objet de mesures législatives (articles 21 et 22 de la loi no 2013-1168 du 18 décembre 2013). Les travaux engagés avec ces opérateurs se pour-suivront durablement, notamment par la mise à jour régulière des textes réglementaires. Ces travaux seront progressivement étendus, comme le précise la loi, aux opérateurs publics ou privés qui participent à ces sys-tèmes d’information sensibles.
 
@@ -266,9 +230,7 @@ Si le numérique modifie en profondeur nos sociétés, il reste à mesurer son i
 
 2
 
-## Confiance numérique, Vie privée, Données personnelles, CYBERMALVEILLANCE
-
-## ENJEUX
+## Confiance numérique, Vie privée, Données personnelles, CYBERMALVEILLANCE — ENJEUX
 
 S
 
@@ -290,21 +252,15 @@ Plus insidieusement, les plates-formes numé-riques et notamment les réseaux so
 
 Dans un registre différent, les développements récents et simultanés de nouveaux usages et de nou-velles techniques de stockage et de traitement des données favorisent l’émergence de risques de désé-quilibre économique et d’atteinte à la sécurité indi-viduelle des personnes ainsi qu’à celle des nations. Le souhait de voir instaurer, par exemple au travers de traités commerciaux, la libre circulation des don-nées, dont les données personnelles collectées par
 
-## « Les plates-formes numériques et notamment les réseaux sociaux peuvent façonner l’opinion et parfois
+« Les plates-formes numériques et notamment les réseaux sociaux peuvent façonner l’opinion et parfois
 
-## être vecteurs de valeurs qui ne sont
+## être vecteurs de valeurs qui ne sont — pas celles de la République »
 
-## pas celles de la République »
+« Le développement numérique ne peut être durable dans un cyberespace où les États ne respectent pas les bonnes
 
-## « Le développement numérique ne peut être durable dans un cyberespace où les États ne respectent pas les bonnes
+## pratiques nécessaires à une transition — numérique équilibrée et profitable
 
-## pratiques nécessaires à une transition
-
-## numérique équilibrée et profitable
-
-## à toutes les nations »
-
-des objets connectés, masque difficilement la volon-té de captation de ces données par des oligopoles dont les valeurs et les pratiques ne correspondent ni à la conception de la vie privée française ou eu-ropéenne ni à son encadrement juridique. La capta-tion massive et illicite de certains types de données personnelles, comme par exemple les données de santé, peut en effet entraîner des atteintes à la sé-curité individuelle et collective, ou plus simplement une exploitation commerciale abusive (revente à des compagnies d’assurance, par exemple).
+à toutes les nations » des objets connectés, masque difficilement la volon-té de captation de ces données par des oligopoles dont les valeurs et les pratiques ne correspondent ni à la conception de la vie privée française ou eu-ropéenne ni à son encadrement juridique. La capta-tion massive et illicite de certains types de données personnelles, comme par exemple les données de santé, peut en effet entraîner des atteintes à la sé-curité individuelle et collective, ou plus simplement une exploitation commerciale abusive (revente à des compagnies d’assurance, par exemple).
 
 Le développement numérique ne peut être du-rable dans un cyberespace où les États ne respectent pas les bonnes pratiques nécessaires à une transi-tion numérique équilibrée et profitable à toutes les nations et où quelques acteurs économiques s’acca-parent la richesse que constituent les données nu-mériques, notamment les données personnelles, véritables ressources des générations futures.
 
@@ -312,17 +268,13 @@ Le développement numérique ne peut être du-rable dans un cyberespace où les 
 
 La France développera un usage du cyberespace conforme à ses valeurs et y protègera la vie numé-rique de ses citoyens. Elle accroîtra sa lutte contre la cybercriminalité et l’assistance aux victimes d’actes de cybermalveillance.
 
-## ORIENTATIONS > Promouvoir et défendre nos valeurs sur les ré-
-
-seaux de communications électroniques et dans les instances internationales.
+ORIENTATIONS > Promouvoir et défendre nos valeurs sur les ré- seaux de communications électroniques et dans les instances internationales.
 
 Les droits des personnes s’appliquent de la même manière « en ligne » et « hors ligne ». Le cyberespace doit ainsi rester un lieu de libre expression pour tous les citoyens, où les abus ne peuvent être prévenus que dans la mesure des limites fixées par la loi et en conformité avec nos engagements internationaux. La France pro-meut cette approche destinée à préserver un cyberes-pace libre et ouvert dans les instances internationales.
 
 Il appartient à l’état d’informer les citoyens sur les risques de manipulation et les techniques de propa-gande utilisées par des acteurs malveillants sur Inter-net. Après les attentats perpétrés contre la France en janvier 2015, le gouvernement a mis en place une plate-forme d’information sur les risques liés à la radicalisa-tion islamiste via les réseaux de communications élec-troniques. « Stop-djihadisme.gouv.fr ». Cette approche pourrait être étendue pour répondre à d’autres phéno-mènes de propagande ou de déstabilisation. Il appar-tient aux services compétents en matière de défense et de sécurité de détecter ces phénomènes et de proposer au gouvernement la mise en œuvre de ces moyens.
 
-## > Apporter une assistance de proximité aux vic-
-
-times d’actes de cybermalveillance.
+> Apporter une assistance de proximité aux vic- times d’actes de cybermalveillance.
 
 Copiloté par le ministère de l’Intérieur et l’agence nationale de sécurité des systèmes d’information, avec l’appui des ministères de la Justice, des Finances et des comptes publics, de la Défense, de l’économie, de l’In-dustrie et du numérique, un dispositif national sera mis en place dès 2016 destinés à porter assistance aux vic-times d’acte de cybermalveillance.
 
@@ -338,9 +290,7 @@ Les travaux interministériels menés à l’initiative du ministère de l’Int
 
 L’absence de telles statistiques est préjudiciable à la conception par les pouvoirs publics de politiques constamment réévaluées et à la mise en place des moyens adaptés. C’est pourquoi le ministère de l’In-térieur mettra en œuvre de nouveaux instruments de suivi de l’évolution de la cybercriminalité afin d’éclai-rer l’action publique. L’Observatoire national de la dé-linquance et des réponses pénales y contribuera égale-ment en consacrant un volet de ses travaux à l’examen statistique de la cybercriminalité. Ce volet intégrera les données transmises par l’autorité nationale de sécurité des systèmes d’information et le dispositif d’assistance aux victimes d’actes de cybermalveillance, qui auront participé à son élaboration.
 
-## > Protéger la vie numérique, la vie privée et les
-
-données personnelles des Français.
+> Protéger la vie numérique, la vie privée et les données personnelles des Français.
 
 À la faveur du règlement européen en matière d’identité électronique (eIDAS), la France se dotera d’une feuille de route claire en matière d’identité nu-mérique délivrée par l’État. Cette feuille de route sera élaborée avant la fin de l’année 2015 sous l’égide du mi-
 
@@ -354,9 +304,7 @@ La France protègera la vie privée et les données per-sonnelles de ses ressort
 
 Pour informer les Français sur l’utilisation faite des données confiées aux services numériques, une signalé-tique adaptée et partagée avec les États volontaires et en cohérence avec les travaux européens effectués dans le cadre du règlement européen relatif à la protection des données à caractère personnel sera mise en place courant 2016. Cette signalétique permettra de visuali-ser les caractéristiques essentielles des conditions d’uti-lisation des plates-formes et services numériques ou des moyens de paiement utilisés.
 
-## > Proposer des solutions techniques destinées à
-
-sécuriser la vie numérique, accessibles à toutes les entreprises et au grand public.
+> Proposer des solutions techniques destinées à sécuriser la vie numérique, accessibles à toutes les entreprises et au grand public.
 
 Les services de l’État labelliseront des solutions de sécurisation des terminaux personnels. Une signalé-tique cohérente avec celle proposée ci-dessus permettra aux utilisateurs d’être informés d’éventuelles transmis-sions d’informations à un tiers dans le cadre de cette protection. Une fois créé, le dispositif d’assistance aux victimes d’actes de cybermalveillance évoqué ci-dessus fera, au titre de sa mission de prévention, la promotion de ces dispositifs auprès des publics concernés.
 
@@ -364,9 +312,7 @@ Par ailleurs, et comme cela a pu être engagé par le pro-gramme des investissem
 
 Un soutien au développement de solutions fran- çaises sera apporté ainsi qu’aux communautés du logi-ciel libre développant des solutions de sécurité.
 
-## > Renforcer les mécanismes opérationnels d’en-
-
-traide judiciaire internationale et universaliser les principes de la Convention de Budapest sur la lutte contre la cybercriminalité.
+> Renforcer les mécanismes opérationnels d’en- traide judiciaire internationale et universaliser les principes de la Convention de Budapest sur la lutte contre la cybercriminalité.
 
 Adoptée en 2001 dans le cadre du Conseil de l’Eu-rope, la Convention de Budapest est devenue un ins-trument de référence qui permet la coopération dans la lutte contre la cybercriminalité entre États des cinq continents. Ratifié par 46 États, dont 7 non membres du Conseil de l’Europe, cet instrument rassemble d’ores et déjà 125 États à un titre ou à un autre (signataires, États invités à adhérer, États recevant de l’assistance tech-nique en vue d’une future adhésion, États ayant adopté leur loi interne sur le modèle de la Convention).
 
@@ -376,9 +322,7 @@ Par ailleurs, la France fera la promotion au sein de l’Union européenne de la
 
 3
 
-## SENSIBILISATION, FORMATIONS INITIALES, FORMATIONS CONTINUES
-
-## ENJEUX
+## SENSIBILISATION, FORMATIONS INITIALES, FORMATIONS CONTINUES — ENJEUX
 
 L
 
@@ -416,9 +360,7 @@ pour tous » de la Commission nationale informatiques et libertés (CNIL) sera r
 
 Les associations seront invitées à élaborer des pro-jets de campagnes de communication visant à renfor-cer la confiance dans le numérique susceptibles de ren-trer dans le cadre d’une « grande cause nationale ».
 
-## > Intégrer la sensibilisation à la cybersécurité dans
-
-toute formation supérieure et dans les formations continues.
+> Intégrer la sensibilisation à la cybersécurité dans toute formation supérieure et dans les formations continues.
 
 Le ministère de l’Éducation nationale, de l’ensei-gnement supérieur et de la recherche, avec l’aide de la Conférence des présidents d’université, de la conférence des grandes écoles et des administrations compétentes, incitera à ce que, dès la rentrée 2016, des sensibilisations à la cybersécurité correspondant à la filière de forma-tion soient mises en place dans toute formation initiale supérieure.
 
@@ -426,9 +368,7 @@ Le ministère du travail, de l’emploi, de la formation professionnelle et du d
 
 Enfin, sous la coordination du secrétariat d’État chargé du numérique, avec les ministères concernés et l’appui de l’ANSSI, la sensibilisation de catégories professionnelles pour lesquelles une imprégnation des questions de cybersécurité est particulièrement néces-saire au regard de leurs responsabilités sociétales sera engagée. Ces catégories seront précisées par le comité stratégique pour la confiance numérique.
 
-## > Intégrer la formation à la cybersécurité dans
-
-toute formation supérieure intégrant une part d’in-formatique.
+> Intégrer la formation à la cybersécurité dans toute formation supérieure intégrant une part d’in-formatique.
 
 L’initiative « CyberÉdu » lancée en 2013 a permis de confirmer l’intérêt des enseignants intervenants dans les cursus de formations supérieures aux métiers de l’informatique pour les sujets de sécurité des systèmes
 
@@ -440,9 +380,7 @@ Le ministère de la Décentralisation et de la Fonction publique s’attachera �
 
 Face à une demande croissante de nos partenaires, il conviendra, dans la mesure du possible, d’adapter une partie de l’offre de formation et de sensibilisation à un public international, en proposant notamment des pro-grammes en langue anglaise.
 
-## > Recenser et anticiper les besoins en formations
-
-initiales et continues.
+> Recenser et anticiper les besoins en formations initiales et continues.
 
 Sous l’égide du groupe d’experts pour la confiance numérique, les besoins en formations initiales à court, moyen et long terme seront établis, en lien avec l’en-semble des acteurs concernés de l’administration et du secteur privé.
 
@@ -450,9 +388,7 @@ Les syndicats professionnels seront sollicités pour l’élaboration et la mise
 
 4
 
-## ENVIRONNEMENT DES ENTREPRISES DU numérique, POLITIQUE INDUSTRIELLE, EXPORT ET INTERNATIONALISATION
-
-## ENJEUX
+## ENVIRONNEMENT DES ENTREPRISES DU numérique, POLITIQUE INDUSTRIELLE, EXPORT ET INTERNATIONALISATION — ENJEUX
 
 L
 
@@ -464,13 +400,11 @@ Les évolutions en cours tant au niveau des tech-nologies que dans les modèles 
 
 La réponse à cet enjeu de souveraineté néces-site en premier lieu le maintien d’une industrie nationale et européenne forte et compétitive dans le domaine spécialisé des produits et services de cybersécurité. Plus généralement, elle passe par le développement, en France et en Europe, d’une offre d’équipements et de services numériques qui ap-portent à leurs clients les garanties de sécurité et de
 
-## « Le développement, par les entreprises nationales du secteur numérique, d’une offre de produits et de services sécurisés doit également
+« Le développement, par les entreprises nationales du secteur numérique, d’une offre de produits et de services sécurisés doit également
 
 ## être vu comme un facteur essentiel de
 
-## compétitivité pour ces entreprises. »
-
-confiance adaptées aux enjeux et aux usages.
+compétitivité pour ces entreprises. » confiance adaptées aux enjeux et aux usages.
 
 Les utilisateurs n’ont pas le moyen de s’assurer eux-mêmes du niveau de sécurité des objets et ser-vices numériques. La promotion de la sécurité dans le discours commercial des fournisseurs se généra-lise sans toutefois permettre une évaluation objec-tive du niveau de sécurité réellement atteint. Le dé-veloppement d’une plus grande lisibilité sur le plan de la sécurité de l’offre numérique, fondée sur des éléments objectifs et vérifiables par un tiers, consti-tue un défi majeur pour assurer la confiance dans l’économie numérique.
 
@@ -488,15 +422,11 @@ La plupart des équipements, objets et services numériques disponibles aujourd�
 
 Par ailleurs, si la contrefaçon ne relève pas direc-tement de la sécurité des systèmes d’information, des produits de sécurité informatique contrefaits peuvent mettre en danger l’activité des organisa-tions qui les acquièrent.
 
-## « Pour les entreprises françaises l’ergonomie, la protection des données
+« Pour les entreprises françaises l’ergonomie, la protection des données
 
-## personnelles, le niveau de sécurité des produits et services numériques
+personnelles, le niveau de sécurité des produits et services numériques qu’elles développent et produisent,
 
-## qu’elles développent et produisent,
-
-## doivent devenir à court terme un différenciateur, un avantage concurrentiel pour ces entreprises
-
-## et en retour pour la nation. »
+## doivent devenir à court terme un différenciateur, un avantage concurrentiel pour ces entreprises — et en retour pour la nation. »
 
 En matière d’internationalisation des entre-prises et d’export, face à une concurrence inter-nationale exacerbée où nos partenaires accordent un soutien appuyé et structuré à leur industrie, les services de l’État doivent s’organiser de manière pé-renne pour soutenir les entreprises françaises de la cybersécurité.
 
@@ -506,9 +436,7 @@ La mobilisation et la coordination de toutes les ressources publiques et privée
 
 La France développera un écosystème favorable à la recherche et à l’innovation et fera de la sécurité du numérique un facteur de compétitivité. Elle ac-compagnera le développement de l’économie et la promotion internationale de ses produits et services numériques. Elle s’assurera de la disponibilité pour ses citoyens, ses entreprises et ses administrations, de produits et services numériques présentant des niveaux d’ergonomie, de confiance et de sécurité adaptés aux usages et aux cybermenaces.
 
-## ORIENTATIONS > Développer et valoriser l’offre nationale et euro-
-
-péenne de produits et services de sécurité.
+ORIENTATIONS > Développer et valoriser l’offre nationale et euro- péenne de produits et services de sécurité.
 
 En lien avec les administrations compétentes du mi-nistère de l’Économie, de l’Industrie et du numérique et du ministère de la Défense, l’agence nationale de la sé-curité des systèmes d’information a engagé en 2012 une politique industrielle afin de développer le tissu natio-nal des entreprises développant des produits et services de sécurité informatique.
 
@@ -520,9 +448,7 @@ Par ailleurs, les services de l’État chercheront à dif-fuser les résultats 
 
 Enfin, la France s’attachera à tirer pleinement parti des leviers offerts par l’Union européenne afin de sou-tenir, promouvoir et défendre les compétences scienti-fiques, technologiques et industrielles françaises dans les domaines de la cybersécurité. Elle encouragera par ailleurs l’UE à ne pas se limiter à un rôle de consomma-teur, mais à s’imposer comme un acteur global incon-tournable de l’offre dans ce secteur.
 
-## > Transférer les savoir-faire acquis vers le secteur
-
-privé pour favoriser la prise en charge de sa sécurité informatique.
+> Transférer les savoir-faire acquis vers le secteur privé pour favoriser la prise en charge de sa sécurité informatique.
 
 La France s’est dotée depuis cinq ans d’une capaci-té de détection et de traitement des attaques informa-tiques, comme l’annonçait le Livre blanc sur la défense et la sécurité nationale de 2008. Si cet effort doit être poursuivi, notamment par l’ANSSI, il appartient au sec-
 
@@ -530,9 +456,7 @@ teur privé d’assurer sa propre sécurité dans le domaine informatique comme 
 
 Appuyée par le transfert de savoir-faire acquis par les administrations vers le secteur privé, la labellisation de prestataires compétents et de confiance devrait per-mettre de détecter et de traiter l’inévitable croissance du nombre d’attaques informatiques subies par les en-treprises.
 
-## > Préparer un monde numérique plus sûr par une
-
-meilleure anticipation des usages, un accompagne-ment adapté et une information des acteurs.
+> Préparer un monde numérique plus sûr par une meilleure anticipation des usages, un accompagne-ment adapté et une information des acteurs.
 
 Pour les cinq ans à venir, la priorité des administra-tions compétentes en matière de sécurité des systèmes d’information doit être l’anticipation et la prévention.
 
@@ -546,13 +470,9 @@ Pour d’autres types de produits ou services, une si-gnalétique adaptée devra
 
 La France cherchera à associer d’autres États membres de l’Union européenne à la mise en œuvre de ces pratiques afin de créer une zone de confiance et de sécurité numériques. Les travaux engagés avec l’Allemagne en matière d’informatique en nuage ou de messageries sécurisés vont en ce sens.
 
-## > Intégrer l’exigence de cybersécurité dans la com-
+> Intégrer l’exigence de cybersécurité dans la com- mande et le soutien publics. Pour la protection de sa souveraineté et notamment la protection de ses informations relevant du secret de la défense nationale, la France conservera sa capacité fi-nancière et industrielle à développer des solutions attei-gnant les plus hauts niveaux de sécurité. Plus généralement, l’ensemble de l’administration de-vra démontrer son exemplarité dans le cadre de la com-mande publique, en intégrant des critères de sécurité au juste niveau dans ses choix des produits et services numériques. Enfin, dès 2016, tout produit ou service embarquant ou s’appuyant sur un système d’information et sou-haitant répondre à un appel d’offres, à un appel à pro-jets publics, ou accéder à des fonds publics bénéficiera d’un facteur de bonification s’il est accompagné d’une analyse de risque en matière de cybersécurité corres-pondant à l’usage prévu du produit ou service et de la réponse technique apportée.
 
-mande et le soutien publics. Pour la protection de sa souveraineté et notamment la protection de ses informations relevant du secret de la défense nationale, la France conservera sa capacité fi-nancière et industrielle à développer des solutions attei-gnant les plus hauts niveaux de sécurité. Plus généralement, l’ensemble de l’administration de-vra démontrer son exemplarité dans le cadre de la com-mande publique, en intégrant des critères de sécurité au juste niveau dans ses choix des produits et services numériques. Enfin, dès 2016, tout produit ou service embarquant ou s’appuyant sur un système d’information et sou-haitant répondre à un appel d’offres, à un appel à pro-jets publics, ou accéder à des fonds publics bénéficiera d’un facteur de bonification s’il est accompagné d’une analyse de risque en matière de cybersécurité corres-pondant à l’usage prévu du produit ou service et de la réponse technique apportée.
-
-## > Soutenir l’export et l’internationalisation des en-
-
-treprises du secteur.
+> Soutenir l’export et l’internationalisation des en- treprises du secteur.
 
 Afin de soutenir le développement économique de la filière industrielle de cybersécurité, la France s’atta-chera donc à renforcer la visibilité et la compétitivité de l’offre française à l’international et à faciliter l’accès des PME et des start-ups notamment aux marchés interna-tionaux.
 
@@ -564,9 +484,7 @@ Par ailleurs, à l’image des réalisations de « French Tech », les initiativ
 
 5
 
-## EUROPE, SOUVERAINETÉ NUMÉRIQUE, STABILITÉ DU CYBERESPACE
-
-## ENJEUX
+## EUROPE, SOUVERAINETÉ NUMÉRIQUE, STABILITÉ DU CYBERESPACE — ENJEUX
 
 L
 
@@ -580,13 +498,11 @@ Parallèlement, des groupes d’individus aux mo-tivations et soutiens divers, m
 
 Sur le plan économique, la tendance du début de la décennie se confirme. Un petit nombre d’entre-prises, portées par les États qui ont permis leur dé-
 
-## « S’il porte la croissance du monde, le cyberespace est devenu un lieu de
+« S’il porte la croissance du monde, le cyberespace est devenu un lieu de
 
 ## compétition souvent déloyale
 
-## et de conflits »
-
-veloppement, utilisent leur avance technologique, leur domination sur le marché et leurs capacités fi-nancières pour préempter l’innovation numérique. Cette privatisation du cyberespace au profit de quelques monopoles condamne les autres acteurs du numérique à la dépendance et capte une part trop importante de la valeur ajoutée du numérique pour que cette situation soit supportable par les économies des autres pays.
+et de conflits » veloppement, utilisent leur avance technologique, leur domination sur le marché et leurs capacités fi-nancières pour préempter l’innovation numérique. Cette privatisation du cyberespace au profit de quelques monopoles condamne les autres acteurs du numérique à la dépendance et capte une part trop importante de la valeur ajoutée du numérique pour que cette situation soit supportable par les économies des autres pays.
 
 S’il porte la croissance du monde, le cyberespace est devenu un lieu de compétition souvent déloyale et de conflits, jusqu’à présent de basse intensité in-formatique, de déstabilisation politique et d’hégé-monie économique.
 
@@ -600,9 +516,7 @@ La France veut participer à la transformation numérique de l’Europe par des 
 
 La France sera, avec les États membres volon-taires, le moteur d’une autonomie stratégique nu-mérique européenne. Elle jouera un rôle actif dans la promotion d’un cyberespace sûr, stable et ouvert.
 
-## ORIENTATIONS > Établir avec les États-membres volontaires une
-
-feuille de route pour l’autonomie stratégique numé-rique de l’Europe.
+ORIENTATIONS > Établir avec les États-membres volontaires une feuille de route pour l’autonomie stratégique numé-rique de l’Europe.
 
 Ouverte aux États membres de l’Union européenne, cette feuille de route déterminera les facteurs-clés de succès de la mise en place à court terme des politiques propices à l’émergence d’une autonomie stratégique numérique européenne, notamment en matière de ré-glementation, de normalisation et de certification, de recherche et développement, de confiance dans le nu-mérique, — en veillant au respect de la souveraineté des États membres, de protection de la vie privée et des données personnelles conçues comme un bien d’intérêt public.
 
@@ -610,9 +524,7 @@ De la même manière, la France veillera à ce que les traités internationaux n
 
 Il s’agira de faire de l’Europe le territoire numérique le plus respectueux des droits fondamentaux et indivi-duels et de mettre en place, dans le sens des travaux pré-curseurs entre la France et l’Allemagne relativement à l’informatique en nuage ou à l’échange chiffré de cour-riels entre les deux pays, une zone de confiance et de prospérité économique.
 
-## > Renforcer la présence et l’influence française
-
-dans les discussions internationales sur la cybersé-curité.
+> Renforcer la présence et l’influence française dans les discussions internationales sur la cybersé-curité.
 
 Afin de renforcer la confiance à l’échelle internatio-nale et d’explorer de nouveaux mécanismes de régula-tion visant à prévenir les conflits dans le cyberespace, la France renforcera ses contacts avec toutes les parties prenantes disposées à engager le dialogue sur les en-jeux de cybersécurité.
 
@@ -622,9 +534,7 @@ Les contacts bilatéraux seront renforcés, dans le cadre notamment des dialogue
 
 Enfin, dans une logique d’influence, la France in-vestira davantage les forums internationaux plus infor-mels dans lesquels les communautés techniques et aca-démiques et les décideurs politiques pensent ensemble les équilibres à venir.
 
-## > Contribuer à la stabilité globale du cyberespace
-
-en soutenant les pays volontaires dans la mise en place de capacités de cybersécurité .
+> Contribuer à la stabilité globale du cyberespace en soutenant les pays volontaires dans la mise en place de capacités de cybersécurité .
 
 La transition numérique, porteuse d’opportunités politiques, sociales et économiques, est loin d’être maî-trisée de manière homogène dans tous les pays. Cela porte préjudice à la sécurité et au développement des États les moins protégés, et fragilise à l’échelle interna-tionale, l’ensemble de l’écosystème numérique.
 

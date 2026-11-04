@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 50-page PDF (https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf) locally via PyMuPDF (90,669 chars). Parsed 99 sections (17 with explicit section identifiers)."
+    "notes": "Extracted 50-page PDF (https://ised-isde.canada.ca/site/ised/sites/default/files/documents/ai-strategy-en.pdf) locally via PyMuPDF (90,669 chars). Parsed 77 sections (18 with explicit section identifiers)."
   },
   "extraction_history": [
     {

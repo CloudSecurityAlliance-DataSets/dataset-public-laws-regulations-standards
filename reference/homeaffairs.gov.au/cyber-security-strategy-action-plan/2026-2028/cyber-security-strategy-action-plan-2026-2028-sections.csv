@@ -1,6 +1,5 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","2023–2030 Australian Cyber Security Strategy: Horizon 2 Action Plan (2026–2028)","","",""
-"2","","2023–2030 Australian Cyber Security Strategy","","",""
 "2","","HORIZON 2 ACTION PLAN","","","© Commonwealth of Australia 2026
 
 With the exception of the Commonwealth Coat of Arms, all material presented in this publication is provided under a Creative Commons Attribution 4.0 International license at https://creativecommons.org/licenses/by/4.0/legalcode.
@@ -20,8 +19,6 @@ Enquiries regarding the licence and any use of this document are welcome at:
 Department of Home Affairs PO Box 25 BELCONNEN ACT 2616
 
 P - 26-02629"
-"2","","2023–2030 Australian Cyber Security Strategy","","",""
-"2","","HORIZON 2 ACTION PLAN","","",""
 "2","","Contents","","","Executive summary .....................................................................................................2
 
 Shield 1: Strong businesses, communities and citizens ........................................... 7
@@ -109,9 +106,8 @@ Key actions to achieve Objective 3 include:
 Shield
 
 1"
-"2","","Strong businesses, communities and citizens","","",""
-"2","","Six key actions under Horizon 2:","","",""
-"3","Six key actions under Horizon 2:: 1.1 (1)","Empower our workers as our first line of cyber defence, our ‘human firewall’","numbered","","a. Build cyber awareness within Australia’s workforce and supply chains.
+"2","","Strong businesses, communities and citizens — Six key actions under Horizon 2:","","",""
+"3","1.1 (1)","Empower our workers as our first line of cyber defence, our ‘human firewall’","numbered","","a. Build cyber awareness within Australia’s workforce and supply chains.
 
 1.2 Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security
 
@@ -120,19 +116,19 @@ a. Simplify cyber security for small and medium businesses and provide targeted
 and actionable support through a new CyberSmart program. b. Drive cyber uplift and maturity for the not-for-profit sector. c. Offer tailored advice to support small and medium businesses, not-for-profits
 
 and individuals"
-"3","Six key actions under Horizon 2:: 1.3 (1)","Strengthen community cyber resilience","numbered","","a. Extend the reach and accessibility of our public cyber awareness messaging. b. Empower diverse communities to grow their cyber awareness and build
+"3","1.3 (1)","Strengthen community cyber resilience","numbered","","a. Extend the reach and accessibility of our public cyber awareness messaging. b. Empower diverse communities to grow their cyber awareness and build
 
 cyber confidence. c. Uplift cyber security of our day-to-day digital activities by testing ways to make
 
 online security behaviours easier."
-"3","Six key actions under Horizon 2:: 1.4 (1)","Disrupt and deter cyber threat actors to protect Australians from cybercrime","numbered","","a. Build our law enforcement and offensive capabilities. b. Shape international frameworks and cooperation on cybercrime. c. Strengthen national ransomware information sharing and preparedness."
-"3","Six key actions under Horizon 2:: 1.5 (1)","Secure our identities and provide better support to victims of cybercrime","numbered","","a. Expand the adoption of Digital ID across government (the Australian Government,
+"3","1.4 (1)","Disrupt and deter cyber threat actors to protect Australians from cybercrime","numbered","","a. Build our law enforcement and offensive capabilities. b. Shape international frameworks and cooperation on cybercrime. c. Strengthen national ransomware information sharing and preparedness."
+"3","1.5 (1)","Secure our identities and provide better support to victims of cybercrime","numbered","","a. Expand the adoption of Digital ID across government (the Australian Government,
 
 states and territories) and private sector services."
-"3","Six key actions under Horizon 2:: 1.6 (1)","Drive productivity for Australian businesses","numbered","","a. Harmonise and align cyber security regulation to reduce the compliance burden.
+"3","1.6 (1)","Drive productivity for Australian businesses","numbered","","a. Harmonise and align cyber security regulation to reduce the compliance burden.
 
 Action agency"
-"3","Six key actions under Horizon 2:: 1.1 (2)","Empower our workers as our first line of cyber defence, our ‘human firewall’","numbered","","Build cyber awareness within Australia’s workforce and supply chains
+"3","1.1 (2)","Empower our workers as our first line of cyber defence, our ‘human firewall’","numbered","","Build cyber awareness within Australia’s workforce and supply chains
 
 Lead agency: • Home Affairs
 
@@ -186,7 +182,7 @@ Offer tailored advice to support small and medium businesses, not for-profits an
 Lead agency: • Home Affairs Contributing agencies: • ASD • Treasury
 
 Enhance the Cyber Health Check Tool for small and medium businesses and not-for-profits to provide targeted cyber security guidance."
-"3","Six key actions under Horizon 2:: 1.3 (2)","Strengthen community cyber resilience","numbered","","Extend the reach and accessibility of our public cyber awareness messaging
+"3","1.3 (2)","Strengthen community cyber resilience","numbered","","Extend the reach and accessibility of our public cyber awareness messaging
 
 Lead agency: • Home Affairs
 
@@ -211,7 +207,7 @@ Lead agency: • Home Affairs
 Develop new ways to encourage and enable safer online behaviours through research to understand the real-world barriers that prevent Australians from taking effective security actions online, then design and test solutions that make cyber resilience easier in practice.
 
 Contributing agency: • PM&C (BETA)"
-"3","Six key actions under Horizon 2:: 1.4 (2)","Disrupt and deter cyber threat actors to protect Australians from cybercrime","numbered","","Build our law enforcement and offensive capabilities
+"3","1.4 (2)","Disrupt and deter cyber threat actors to protect Australians from cybercrime","numbered","","Build our law enforcement and offensive capabilities
 
 Lead agency: • AFP Contributing agencies: • ASD • State and territory law enforcement agencies
 
@@ -234,7 +230,7 @@ Strengthen national ransomware information sharing and preparedness
 Lead agency: • Home Affairs Contributing agencies: • AFP • AGD • ASD • Treasury
 
 Deliver public, annual ransomware threat reports and share actionable intelligence with government and industry to enable the development of tailored tools, services and guidance that enhance our national ransomware response, including to support effective recovery from ransomware and cyber-extortion incidents."
-"3","Six key actions under Horizon 2:: 1.5 (2)","Secure our identities and provide better support to victims of cybercrime","numbered","","Expand the adoption of Digital ID across government (the Australian government, states and territories) and private sector services
+"3","1.5 (2)","Secure our identities and provide better support to victims of cybercrime","numbered","","Expand the adoption of Digital ID across government (the Australian government, states and territories) and private sector services
 
 Lead agency: • Finance
 
@@ -243,7 +239,7 @@ Continue to grow the use of Digital ID to reduce the need for people to share se
 The government will continue to enable Digital ID as an option for more government services and efforts to incentivise use of Digital ID in the private sector to increase productivity, security and consumer protection.
 
 Action agency"
-"3","Six key actions under Horizon 2:: 1.6 (2)","Drive productivity for Australian businesses","numbered","","Harmonise and align cyber security regulation to reduce the compliance burden
+"3","1.6 (2)","Drive productivity for Australian businesses","numbered","","Harmonise and align cyber security regulation to reduce the compliance burden
 
 Lead agency: • Home Affairs Contributing agencies: • Finance • Treasury
 
@@ -256,18 +252,17 @@ Create a Single Cyber Incident Reporting Interface in line with the Department o
 Shield
 
 2"
-"2","","Secure technology","","",""
-"2","","Three key actions under Horizon 2:","","",""
-"3","Three key actions under Horizon 2:: 2.1 (1)","Ensure Australians can trust their digital products and platforms","numbered","","a. Adopt a suitable regulatory posture to ensure the security of our digital technology. b. Support Australians to make informed, secure choices about the technology they use. c. Manage the national security risks associated with digital technology."
-"3","Three key actions under Horizon 2:: 2.2 (1)","Protect our most valuable assets","numbered","","a. Support best-practice data governance and security across the economy. b. Protect our data sets of national significance."
-"3","Three key actions under Horizon 2:: 2.3 (1)","Prepare Australia to harness the benefits of emerging technology","numbered","","a. Position Australia as a world-leading manager of cyber security risks associated with
+"2","","Secure technology — Three key actions under Horizon 2:","","",""
+"3","2.1 (1)","Ensure Australians can trust their digital products and platforms","numbered","","a. Adopt a suitable regulatory posture to ensure the security of our digital technology. b. Support Australians to make informed, secure choices about the technology they use. c. Manage the national security risks associated with digital technology."
+"3","2.2 (1)","Protect our most valuable assets","numbered","","a. Support best-practice data governance and security across the economy. b. Protect our data sets of national significance."
+"3","2.3 (1)","Prepare Australia to harness the benefits of emerging technology","numbered","","a. Position Australia as a world-leading manager of cyber security risks associated with
 
 emerging technologies. b. Prepare government to respond to emerging technology risks.
 
 c. Collaborate with industry on securing emerging technology.
 
 Action agency"
-"3","Three key actions under Horizon 2:: 2.1 (2)","Ensure Australians can trust their digital products and platforms","numbered","","Adopt a suitable regulatory posture to ensure the security of our digital technology
+"3","2.1 (2)","Ensure Australians can trust their digital products and platforms","numbered","","Adopt a suitable regulatory posture to ensure the security of our digital technology
 
 Lead agency: • Home Affairs Contributing agency: • ASD
 
@@ -308,7 +303,7 @@ Manage the national security risks associated with digital technology
 Lead agency: • Home Affairs
 
 Leverage Technology Vendor Risk Framework outcomes to inform regulation and advice across government, critical infrastructure and industry."
-"3","Three key actions under Horizon 2:: 2.2 (2)","Protect our most valuable assets","numbered","","Support best-practice data governance and security across the economy
+"3","2.2 (2)","Protect our most valuable assets","numbered","","Support best-practice data governance and security across the economy
 
 Lead agency: • Home Affairs Contributing agencies: • OAIC • AGD • ASD • DISR • Finance • Treasury
 
@@ -327,7 +322,7 @@ Lead agency: • Home Affairs Contributing agencies: • AGD • ASIO • Defenc
 Partner with industry, universities and state and territory governments to pilot a risk assessment framework for managing human genomic and clinical trial data. This pilot will shape the production of practical guidance and promote voluntary, best-practice protections.
 
 Action agency"
-"3","Three key actions under Horizon 2:: 2.3 (2)","Prepare Australia to harness the benefits of emerging technology","numbered","","Position Australia as a world-leading manager of cyber security risks associated with emerging technologies
+"3","2.3 (2)","Prepare Australia to harness the benefits of emerging technology","numbered","","Position Australia as a world-leading manager of cyber security risks associated with emerging technologies
 
 Lead agency: • Home Affairs Contributing agencies: • ASD • DISR • DAFF • Health • Defence • DFAT • National Intelligence Community agencies
 
@@ -361,8 +356,11 @@ Lead agency: • Home Affairs Contributing agencies: • ASD • DISR
 
 Build the Australian Government’s visibility of artificial intelligence incidents in critical infrastructure by working with regulators and industry to increase information sharing, leveraging existing forums and structures, such as the Trusted Information Sharing Network.
 
-Shield"
-"2","","World-class threat sharing and blocking","","","3"
+Shield
+
+World-class threat sharing and blocking
+
+3"
 "2","","Two key actions under Horizon 2:","","",""
 "3","Two key actions under Horizon 2:: 3.1 (1)","Create a whole-of-economy threat intelligence network","numbered","","a. Expand tactical and operational threat intelligence sharing."
 "3","Two key actions under Horizon 2:: 3.2 (1)","Scale threat blocking capabilities to stop cyber attacks","numbered","","a. Enable greater uptake of threat blocking activities across the economy. b. Empower industry to harden and defend networks against threats to better protect
@@ -399,8 +397,11 @@ Lead agency: • Home Affairs Contributing agencies: • ASD • AFP
 
 Assess legislation and policy to ensure industry and the Australian Government can collaborate at speed on defensive cyber measures (including threat blocking) and address impediments.
 
-Shield"
-"2","","Protected critical infrastructure","","","4"
+Shield
+
+Protected critical infrastructure
+
+4"
 "2","","Three key actions under Horizon 2:","","",""
 "3","Three key actions under Horizon 2:: 4.1 (1)","Harden Australia’s critical infrastructure","numbered","","a. Uplift the cyber security of Australia’s critical infrastructure. b. Protect Australia’s foundational cyber infrastructure."
 "3","Three key actions under Horizon 2:: 4.2 (1)","Uplift cyber security of the Australian Government","numbered","","a. Mature the government’s cyber security baseline. b. Prioritise the protection of our most critical digital services. c. Strengthen cyber resilience through more targeted government investment."
@@ -471,8 +472,11 @@ Lead agency: • Home Affairs Contributing agency: • ASD
 
 Design a National Cyber Security Compact to enable all levels of government in Australia to collaborate on cyber security initiatives and escalate key issues at a national level.
 
-Shield"
-"2","","Sovereign capabilities","","","5"
+Shield
+
+Sovereign capabilities
+
+5"
 "2","","Three key actions under Horizon 2:","","",""
 "3","Three key actions under Horizon 2:: 5.1 (1)","Enhance our proactive cyber security posture at a national level","numbered","","a. Conduct national cyber security exercises across the economy."
 "3","Three key actions under Horizon 2:: 5.2 (1)","Grow and professionalise our national cyber workforce","numbered","","a. Foster cyber security as a national security profession."
@@ -509,8 +513,11 @@ Following the National Artificial Intelligence Plan launched in December 2025, e
 
 This initiative will be delivered by the Australian AI Safety Institute.
 
-Shield"
-"2","","Resilient region and global leadership","","","6"
+Shield
+
+Resilient region and global leadership
+
+6"
 "2","","Two key actions under Horizon 2:","","",""
 "3","Two key actions under Horizon 2:: 6.1 (1)","Support a cyber-resilient region as the partner of choice","numbered","","a. Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia. b. Harness private sector innovation and expertise in the region."
 "3","Two key actions under Horizon 2:: 6.2 (1)","Shape, uphold and defend international cyber rules, norms and standards","numbered","","a. Enhance collaboration on counter-ransomware activities globally. b. Advocate for high-quality digital trade rules. c. Defend an open, free, secure and interoperable internet in international forums. d. Uphold international laws and norms of responsible state behaviour in cyberspace. e. Deploy all arms of statecraft to deter and respond to malicious actors.

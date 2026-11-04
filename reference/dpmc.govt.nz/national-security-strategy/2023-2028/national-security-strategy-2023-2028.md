@@ -1,14 +1,10 @@
 # Secure Together: Tō Tātou Korowai Manaaki — Aotearoa New Zealand's First National Security Strategy 2023–2028
 
-## Secure Together
-
 ## Tō Tātou Korowai Manaaki
 
 NEW ZEALAND’S NATIONAL SECURITY STRATEGY 2023-2028 TE RAUTAKI WHAKAMARU Ā-MOTU O AOTEAROA 2023-2028
 
-## Everyone is welcomed to gather under our korowai
-
-manaaki of national security.
+Everyone is welcomed to gather under our korowai manaaki of national security.
 
 It is a cloak of protection that uplifts the mana of us all. The harakeke fibre threads that weave together our korowai represent a desire for us all to work together to protect and offer shelter to each other, now and into the future.
 
@@ -200,9 +196,7 @@ What is in this Strategy
 
 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 2 1 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND
 
-## Wāhanga I Part I
-
-## Tirohanga Rautaki Security Outlook
+## Wāhanga I Part I — Tirohanga Rautaki Security Outlook
 
 20. New Zealand faces a fundamentally more challenging security outlook.
 
@@ -346,9 +340,7 @@ sustain strong foundations, we need a clear sense of what we want to protect at 
 
 PRINCIPLES
 
-### National security is about protecting New Zealand from
-
-threats that would do us harm.
+National security is about protecting New Zealand from threats that would do us harm.
 
 Whakapai Fostering improvement
 
@@ -412,7 +404,7 @@ A robust network of partnerships within and beyond New Zealand Safeguarding and 
 
 NATIONAL SECURITY OUTCOMES AND PRIORITIES
 
-### A secure and resilient Aotearoa New Zealand
+A secure and resilient Aotearoa New Zealand
 
 ### PRIORITY 1: Acting early to prevent
 
@@ -634,7 +626,7 @@ Central and Local Government Private Sector
 
 Academia
 
-### To be effective, each element requires the right capabilities,
+To be effective, each element requires the right capabilities,
 
 legislation and regulation, structures, and partnerships.
 
@@ -670,9 +662,7 @@ and planning activities, and having clear escalation pathways to Watch Groups an
 
 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 18 17 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND
 
-## Ngā Take Whakamaru ā-Motu Matua Core National Security Issues
-
-## Tātāwhāinga ā-Rautaki me te Pūnaha i Poua ki ngā Ture ā-Ao Strategic Competition and the Rules-based International System
+## Ngā Take Whakamaru ā-Motu Matua Core National Security Issues — Tātāwhāinga ā-Rautaki me te Pūnaha i Poua ki ngā Ture ā-Ao Strategic Competition and the Rules-based International System
 
 For decades, New Zealand has benefitted from a rules-based system that reflects our values and supports our interests. Over recent years, strategic competition has intensified, impacting international cooperation and challenging the effectiveness of the rules-based system. China’s growing economic, political, and military power and more assertive pursuit of its interests abroad is a key driver of this competition. Other countries that do not view the existing rules-based system as in their interests, such as Russia, Iran, and North Korea, are exacerbating this dynamic. Strategic competition affects the full spectrum of New Zealand’s national security interests, both at home and offshore.
 
@@ -808,7 +798,7 @@ Strategy 2020-2025 provides the framework for a coordinated response to prevent 
 
 97. The Strategy coordinates a range of initiatives aimed at bringing stakeholders together, increasing our understanding and awareness of TNOC, and aligning priorities to disrupt TNOC threats impacting New Zealand. Activities include: • Strengthening our understanding of TNOC through research projects in collaboration with academia and building our insights through the implementation of a strategic intelligence fusion centre. • Delivering training and education material to government, private sector and community partners so TNOC can be recognised and reported appropriately. • Aligning our policy and legislative settings to make it harder for TNOC groups to operate in New Zealand. • Supporting agencies to disrupt TNOC networks through coordinated operational action.
 
-### Transnational organised crime spans a wide range of illicit activities, including illicit drug trafficking, financial crime, wildlife trafficking, cybercrime, and exploitation of people
+Transnational organised crime spans a wide range of illicit activities, including illicit drug trafficking, financial crime, wildlife trafficking, cybercrime, and exploitation of people
 
 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND 24 23 NATIONAL SECURITY STRATEGY FOR AOTEAROA NEW ZEALAND
 
@@ -914,7 +904,7 @@ New Zealand’s border is one of our key interfaces with the world. It includes 
 
 115. Border agencies seek, where possible, to manage or neutralise risk offshore before it gets to New Zealand. This is achieved through close cooperation with international partners. Collaboration and information sharing about threats improves collective understanding of the challenges New Zealand faces.
 
-### Effective border security is about safeguarding New Zealand and our people from threats, including transnational criminals, people smugglers, human traffickers, espionage agents, illicit drug and firearm smugglers, terrorists and violent extremists
+Effective border security is about safeguarding New Zealand and our people from threats, including transnational criminals, people smugglers, human traffickers, espionage agents, illicit drug and firearm smugglers, terrorists and violent extremists
 
 ## Whakamaru ā-Ipurangi Cyber Security
 

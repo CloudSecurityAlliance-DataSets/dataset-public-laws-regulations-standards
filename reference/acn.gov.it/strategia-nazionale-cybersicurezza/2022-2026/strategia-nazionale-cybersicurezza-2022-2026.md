@@ -1,10 +1,6 @@
 # Strategia Nazionale di Cybersicurezza 2022–2026
 
-## NATIONAL CYBERSECURITY STRATEGY
-
-## 2022 – 2026
-
-## Contents
+## NATIONAL CYBERSECURITY STRATEGY — 2022 – 2026 — Contents
 
 Foreword
 
@@ -234,7 +230,7 @@ ists, to the point of sometimes endangering their safety.
 
 Four essential considerations arise from this scenario:
 
-### 1.
+1.
 
 one of the duties of the State is the definition of adequate cybersecurity strategies aimed at planning, coor-
 
@@ -244,7 +240,7 @@ domain, while ensuring citizens' trust in the possibility of exploiting its comp
 
 tion of fundamental rights and freedoms;
 
-### 2.
+2.
 
 cybersecurity, which has become a matter of strategic importance, must be the foundation of the Country's
 
@@ -252,7 +248,7 @@ digitalization process, as an essential element of digital transformation, also 
 
 gic national autonomy in the sector;
 
-### 3.
+3.
 
 cybersecurity must then be perceived not as a cost, but as an investment and an enabling factor for the
 
@@ -260,7 +256,7 @@ development of the national economy and industry, to increase the competitivenes
 
 global level;
 
-### 4.
+4.
 
 cultural advance at every level of society, towards a "security-oriented" approach, must go in parallel with
 
@@ -454,13 +450,7 @@ contribution of all components of the social fabric, none excluded.
 
 ¹ A description of the national cybersecurity ecosystem can be found in the section "National Governance" of the Strategy’s Implementation Plan.
 
-## #1
-
-## New challenges to face
-
-## #1
-
-## New challenges to face
+## #1: New challenges to face
 
 The ongoing evolution of technology that has shaped our current society keeps raising new risks as it contin-
 
@@ -626,9 +616,7 @@ NATIONAL CYBERSECURITY SERVICES
 
 ## 03
 
-### 301.7 M€
-
-### 147.3 M€
+### 301.7 M€ — 147.3 M€
 
 CYBERSECURITY SCREENING AND TECHNOLOGICAL CERTIFICATION LABORATORIES
 
@@ -638,13 +626,7 @@ By contributing to ACN activa-tion and full operation, the networks and services
 
 the achievement of a national technological autonomy neces-sarily involves the strengthen-ing of national technological screening and certification capacities, in close collaboration with industry and academia.
 
-## #2
-
-## Our vision: the goals to reach
-
-## #2
-
-## Our vision: the goals to reach
+## #2: Our vision: the goals to reach
 
 To better face the above challenges for the Country, three fundamental goals have been identified -
 

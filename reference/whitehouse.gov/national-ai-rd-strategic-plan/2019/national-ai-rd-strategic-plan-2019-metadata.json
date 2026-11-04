@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,776 chars). Parsed 58 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,776 chars). Parsed 47 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

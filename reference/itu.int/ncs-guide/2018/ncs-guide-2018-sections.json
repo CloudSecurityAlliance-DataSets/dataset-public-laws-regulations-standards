@@ -10,30 +10,6 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "GUIDE TO DEVELOPING",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "A NATIONAL CYBERSECURITY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "STRATEGY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
     "section_name": "STRATEGIC ENGAGEMENT IN CYBERSECURITY",
     "id_kind": "",
     "parent_id": "",
@@ -133,15 +109,7 @@
     "section_name": "Introduction",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "and social opportunities.\n\nSince its creation, the Internet has evolved from an information-exchange platform to become the backbone of modern business, critical services and infrastructure, social networks, and the global economy as a whole. As a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.\n\nWhile the reliance of our societies on the digital infrastructure is growing, technology remains inherently vulnerable. The confidentiality, integrity and availability of ICT infrastructure are challenged by rapidly evolving cyber-threats, including electronic fraud, theft of intellectual property and personal identifiable information, disruption of service, and damage or destruction of property. The transformational power of ICTs and the Internet as catalysts for economic growth and social development are at a critical point where citizens’ and national trust and confidence in the use of ICTs are being eroded by cyber-insecurity.\n\nTo fully realise the potential of technology, states must align their national economic visions with their national security priorities. If the security risks associated with the proliferation of ICT-enabled infrastructure and Internet applications are not appropriately balanced with comprehensive national cybersecurity strategies and resilience plans, countries will be unable to achieve the economic growth and the national security goals they are seeking.\n\nIn response, nations are developing both offensive and defensive capabilities to defend themselves from illicit and illegal activities in cyberspace and to pre-empt incidents before they can cause harm to their nations. This document will look specifically at defensive responses, particularly in the form of national cybersecurity strategies.\n\nBy developing and implementing a National Cybersecurity Strategy, a nation can improve the security of its digital infrastructure and ultimately contribute to its broader socio-economic aspirations. National leaders need to be strategic about the opportunities offered and the risks posed to their countries by the digital environment; they also need to establish a clear vision of the digital future they wish to create."
+    "body": "Over the last two decades, billions of people around the world have benefited from the exponential growth and rapid adoption of information and communications technologies, and the associated economic\n\nand social opportunities.\n\nSince its creation, the Internet has evolved from an information-exchange platform to become the backbone of modern business, critical services and infrastructure, social networks, and the global economy as a whole. As a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.\n\nWhile the reliance of our societies on the digital infrastructure is growing, technology remains inherently vulnerable. The confidentiality, integrity and availability of ICT infrastructure are challenged by rapidly evolving cyber-threats, including electronic fraud, theft of intellectual property and personal identifiable information, disruption of service, and damage or destruction of property. The transformational power of ICTs and the Internet as catalysts for economic growth and social development are at a critical point where citizens’ and national trust and confidence in the use of ICTs are being eroded by cyber-insecurity.\n\nTo fully realise the potential of technology, states must align their national economic visions with their national security priorities. If the security risks associated with the proliferation of ICT-enabled infrastructure and Internet applications are not appropriately balanced with comprehensive national cybersecurity strategies and resilience plans, countries will be unable to achieve the economic growth and the national security goals they are seeking.\n\nIn response, nations are developing both offensive and defensive capabilities to defend themselves from illicit and illegal activities in cyberspace and to pre-empt incidents before they can cause harm to their nations. This document will look specifically at defensive responses, particularly in the form of national cybersecurity strategies.\n\nBy developing and implementing a National Cybersecurity Strategy, a nation can improve the security of its digital infrastructure and ultimately contribute to its broader socio-economic aspirations. National leaders need to be strategic about the opportunities offered and the risks posed to their countries by the digital environment; they also need to establish a clear vision of the digital future they wish to create."
   },
   {
     "depth": 3,
@@ -162,15 +130,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Lifecycle of a National Cybersecurity Strategy",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "This Section provides an overview of the various phases in the development of a Strategy, which include:",
+    "section_name": "Lifecycle of a National Cybersecurity Strategy — This Section provides an overview of the various phases in the development of a Strategy, which include:",
     "id_kind": "",
     "parent_id": "",
     "body": "• Phase I – Initiation\n\n• Phase II – Stocktaking and analysis\n\n• Phase III – Production\n\n• Phase IV – Implementation\n\n• Phase V – Monitoring and evaluation\n\nThis Section also introduces the key entities that should be involved in the development of the Strategy and highlights other relevant stakeholders that could contribute to the process.\n\nThis Section ultimately aims to provide the reader with an understanding of the steps to be taken by a nation in order to draft a National Strategy and the possible mechanisms for its implementation according to the nation’s specific needs and requirements, integrating the overarching principles (described in Section 4) and good practice (described in Section 5).\n\nThis lifecycle, as illustrated in Figure 1, guides users of this document in focusing on strategic thinking about cybersecurity at the national level.\n\nFigure 1 - Lifecycle of a National Cybersecurity Strategy\n\nPHASE 1: INITIATION\n\n- Identifying the Lead Project Authority - Establishing a Steering Committee - Identifying stakeholders to be\n\ninvolved in the development of the Strategy - Planning the development of\n\nthe Strategy\n\nDecision to\n\nissue new\n\nStrategy\n\nPHASE 5: MONITORING & EVALUATION\n\n- Establishing a formal process - Monitoring the progress of the\n\nimplementation of the Strategy - Evaluating the outcome of\n\nthe Strategy\n\nAdjustments to Action Plan\n\nAction Plan\n\nPHASE 4: IMPLEMENTATION\n\n- Developing the Action Plan - Determining initiatives to\n\nbe implemented - Allocating human and financial\n\nresources for the implementation - Setting timeframes and metrics\n\nStrategy Development\n\nPlan\n\nPHASE 2: STOCKTAKING AND ANALYSIS\n\n- Assessing the national\n\ncybersecurity landscape - Assessing the cyber-risk landscape\n\nReport and Consolidated\n\nRepository\n\nPHASE 3: PRODUCTION OF THE NATIONAL STRATEGY\n\n- Drafting the National\n\nCybersecurity Strategy - Consulting with a broad range\n\nof stakeholders - Seeking formal approval - Publishing the Strategy\n\nNational Cybersecurity\n\nStrategy"
@@ -354,23 +314,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Overarching principles",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "This Section presents nine cross-cutting",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "principles, which taken together can help in the development of a forward-looking and holistic",
+    "section_name": "Overarching principles — This Section presents nine cross-cutting — principles, which taken together can help in the development of a forward-looking and holistic",
     "id_kind": "",
     "parent_id": "",
     "body": "National Cybersecurity Strategy.\n\nThese principles are applicable to all key focus areas identified in this document. They should be considered in all steps of a National Strategy development process, from the drafting of the National Strategy document to its implementation.\n\nThe order of these principles reflects a logical narrative rather than an order of importance."
@@ -450,26 +394,10 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "National Cybersecurity Strategy Good Practice",
+    "section_name": "National Cybersecurity Strategy Good Practice — Cybersecurity affects many areas of socio-",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Cybersecurity affects many areas of socio-",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "economic development and is influenced by",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "several factors within the national context.\n\nTherefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.\n\nThese good-practice elements are grouped into distinct focus areas – effectively overarching themes for a National Cybersecurity Strategy. While both the focus areas and the elements have been put forward here as examples of good practice, it is particularly important that the latter are viewed in the national context, as some may not be relevant to a country’s specific situation. Countries should identify and follow the good-practice elements that support their own objectives and priorities in line with the vision defined in their Strategy (Section 4). The order of the individual elements or focus areas below should not be seen as indicating a level of importance or priority."
+    "body": "economic development and is influenced by several factors within the national context.\n\nTherefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.\n\nThese good-practice elements are grouped into distinct focus areas – effectively overarching themes for a National Cybersecurity Strategy. While both the focus areas and the elements have been put forward here as examples of good practice, it is particularly important that the latter are viewed in the national context, as some may not be relevant to a country’s specific situation. Countries should identify and follow the good-practice elements that support their own objectives and priorities in line with the vision defined in their Strategy (Section 4). The order of the individual elements or focus areas below should not be seen as indicating a level of importance or priority."
   },
   {
     "depth": 3,
@@ -797,15 +725,7 @@
     "section_name": "Reference materials",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "In the process of developing this Guide, a stocktaking of existing guides and best",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "practices was conducted.\n\nThis allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links.\n\nCCI (2017), Harare Scheme on Mutual Legal Assistance in Criminal Matters\n\nCarnegie Mellon (2003), Handbook for Computer Security Incident Response Teams (CSIRTs)\n\nCommonwealth (2018), Commonwealth Cyber Declaration\n\nCTO (2015), Commonwealth Approach for Developing National Cyber Security Strategies\n\nCouncil of Europe (2001), Budapest Convention on Cybercrime\n\nCouncil of the European Union (2017), Cyber Diplomacy toolbox\n\nENISA (2014), An Evaluation Framework For National Cyber Security Strategies\n\nENISA (2011), CERT Operational Gaps and Overlaps\n\nENISA (2011), Good Practice Guide for Incident Management\n\nENISA (2015), Methodologies for the Identification of Critical Information Infrastructure Assets and Services\n\nENISA (2016), National Cyber Security Strategy Good Practice Guide – Designing and Implementing National Cyber Security Strategies\n\nENISA (2012), National Cyber Security Strategies: Practical Guide on Development and Execution\n\nENISA (2012), National Cyber Security Strategy, Setting the Course for National Efforts to Strengthen Security in Cyberspace\n\nENISA (2016), National Cyber Security Strategies: Training Tool\n\nENISA (2016), Stocktaking, Analysis and Recommendations on the Protection of CIIs\n\nENISA (2016), Strategies for Incident Response and Cyber Crisis Cooperation\n\nGlobal Cyber Security Capacity Centre, University of Oxford (2016), Cybersecurity Capacity Maturity Model for Nations\n\nITU (2017), Securing Information and Communication Networks. Best Practices for Developing a Culture of Cybersecurity\n\nITU (2017), Global Cybersecurity Index\n\nITU (2011), National Cybersecurity Strategy Guide\n\nITU (2010), UNDERSTANDING CYBERCRIME: Phenomena, Challenges and Legal Response\n\nITU (2009), Cybersecurity Guide for Developing Countries\n\nMicrosoft (2013), Developing a National Strategy for Cybersecurity\n\nMicrosoft (2014), Critical Infrastructure Protection: Concepts and Continuum\n\nMicrosoft (2014), Critical Connections: Protecting Infrastructures\n\nMicrosoft (2014), Hierarchy of Cybersecurity Needs\n\nMicrosoft (2018), Building an effective national cybersecurity agency\n\nMicrosoft (2018), Cybersecurity Policy Framework\n\nMicrosoft (2015), Information Sharing Framework for Cybersecurity\n\nMicrosoft (2017), Risk Management for Cybersecurity: Security Baselines\n\nNATO CCD COE (2012), National Cyber Security Framework Manual\n\nNATO CCD COE (2013), National Cyber Security Strategy Guidelines\n\nNIST (2014), Framework for Improving Critical Infrastructure Cybersecurity\n\nOAS (2015), Best Practice for Establishing a National CSIRT\n\nOAS (2004), Comprehensive Inter-American Cybersecurity Strategy: A Multidimensional and Multidisciplinary Approach to Creating a Culture of Cybersecurity\n\nOAS (2015), Cyber Security Awareness Campaign Toolkit\n\nOAS (2015), Report Cybersecurity and Critical Infrastructure in the Americas\n\nOECD (2015), Companion Document to the Recommendation on Digital Security Risk Management for Economic and Social Prosperity\n\nOECD (2012), Cybersecurity Policy Making at a Turning Point\n\nOECD (2015), Recommendation of the Council on Digital Security Risk Management for Economic and Social Prosperity\n\nOECD (2013), Recommendation of the Council Concerning Guidelines for the Protection of Privacy and Transborder Flows of Personal Data (Privacy Guidelines)\n\nOECD (2008), Recommendation of the Council on the Protection of Critical Information Infrastructures\n\nOECD (2007), Report on the Development of Policies for the Protection of Critical Information Infrastructures\n\nPotomac Institute for Policy Studies (2015), Cyber Readiness Index 2.0 – A Plan for Cyber Readiness: A Baseline and An Index\n\nUnited Nations (2015), Sustainable Development Goals\n\nUnited Nations (1976), International Covenant on Economic, Social and Cultural Rights, International Covenant on Civil and Political Rights and Optional Protocol to the International Covenant on Civil and Political Rights, Resolution 2200 (XXI)\n\nUnited Nations (2014), The Right to Privacy in the Digital Age, Res A/RES/68/167\n\nUnited Nations (1948), Universal Declaration of Human Rights\n\nUNCTAD (2014), A Framework for Information and Communications Technology Policy Reviews\n\nUNCTAD, Developing E-Commerce Legislation\n\nUNCTAD (2016), Study on Data Protection Regulations and International Data Flows\n\nUNHR (1976), International Covenant on Civil and Political Rights\n\nWorld Bank et al (2017), Combatting Cybercrime: Tools and Capacity Building for Emerging Economies\n\nA detailed breakdown of references to the individual principles and good practice can be found below."
+    "body": "In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.\n\nThis allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links.\n\nCCI (2017), Harare Scheme on Mutual Legal Assistance in Criminal Matters\n\nCarnegie Mellon (2003), Handbook for Computer Security Incident Response Teams (CSIRTs)\n\nCommonwealth (2018), Commonwealth Cyber Declaration\n\nCTO (2015), Commonwealth Approach for Developing National Cyber Security Strategies\n\nCouncil of Europe (2001), Budapest Convention on Cybercrime\n\nCouncil of the European Union (2017), Cyber Diplomacy toolbox\n\nENISA (2014), An Evaluation Framework For National Cyber Security Strategies\n\nENISA (2011), CERT Operational Gaps and Overlaps\n\nENISA (2011), Good Practice Guide for Incident Management\n\nENISA (2015), Methodologies for the Identification of Critical Information Infrastructure Assets and Services\n\nENISA (2016), National Cyber Security Strategy Good Practice Guide – Designing and Implementing National Cyber Security Strategies\n\nENISA (2012), National Cyber Security Strategies: Practical Guide on Development and Execution\n\nENISA (2012), National Cyber Security Strategy, Setting the Course for National Efforts to Strengthen Security in Cyberspace\n\nENISA (2016), National Cyber Security Strategies: Training Tool\n\nENISA (2016), Stocktaking, Analysis and Recommendations on the Protection of CIIs\n\nENISA (2016), Strategies for Incident Response and Cyber Crisis Cooperation\n\nGlobal Cyber Security Capacity Centre, University of Oxford (2016), Cybersecurity Capacity Maturity Model for Nations\n\nITU (2017), Securing Information and Communication Networks. Best Practices for Developing a Culture of Cybersecurity\n\nITU (2017), Global Cybersecurity Index\n\nITU (2011), National Cybersecurity Strategy Guide\n\nITU (2010), UNDERSTANDING CYBERCRIME: Phenomena, Challenges and Legal Response\n\nITU (2009), Cybersecurity Guide for Developing Countries\n\nMicrosoft (2013), Developing a National Strategy for Cybersecurity\n\nMicrosoft (2014), Critical Infrastructure Protection: Concepts and Continuum\n\nMicrosoft (2014), Critical Connections: Protecting Infrastructures\n\nMicrosoft (2014), Hierarchy of Cybersecurity Needs\n\nMicrosoft (2018), Building an effective national cybersecurity agency\n\nMicrosoft (2018), Cybersecurity Policy Framework\n\nMicrosoft (2015), Information Sharing Framework for Cybersecurity\n\nMicrosoft (2017), Risk Management for Cybersecurity: Security Baselines\n\nNATO CCD COE (2012), National Cyber Security Framework Manual\n\nNATO CCD COE (2013), National Cyber Security Strategy Guidelines\n\nNIST (2014), Framework for Improving Critical Infrastructure Cybersecurity\n\nOAS (2015), Best Practice for Establishing a National CSIRT\n\nOAS (2004), Comprehensive Inter-American Cybersecurity Strategy: A Multidimensional and Multidisciplinary Approach to Creating a Culture of Cybersecurity\n\nOAS (2015), Cyber Security Awareness Campaign Toolkit\n\nOAS (2015), Report Cybersecurity and Critical Infrastructure in the Americas\n\nOECD (2015), Companion Document to the Recommendation on Digital Security Risk Management for Economic and Social Prosperity\n\nOECD (2012), Cybersecurity Policy Making at a Turning Point\n\nOECD (2015), Recommendation of the Council on Digital Security Risk Management for Economic and Social Prosperity\n\nOECD (2013), Recommendation of the Council Concerning Guidelines for the Protection of Privacy and Transborder Flows of Personal Data (Privacy Guidelines)\n\nOECD (2008), Recommendation of the Council on the Protection of Critical Information Infrastructures\n\nOECD (2007), Report on the Development of Policies for the Protection of Critical Information Infrastructures\n\nPotomac Institute for Policy Studies (2015), Cyber Readiness Index 2.0 – A Plan for Cyber Readiness: A Baseline and An Index\n\nUnited Nations (2015), Sustainable Development Goals\n\nUnited Nations (1976), International Covenant on Economic, Social and Cultural Rights, International Covenant on Civil and Political Rights and Optional Protocol to the International Covenant on Civil and Political Rights, Resolution 2200 (XXI)\n\nUnited Nations (2014), The Right to Privacy in the Digital Age, Res A/RES/68/167\n\nUnited Nations (1948), Universal Declaration of Human Rights\n\nUNCTAD (2014), A Framework for Information and Communications Technology Policy Reviews\n\nUNCTAD, Developing E-Commerce Legislation\n\nUNCTAD (2016), Study on Data Protection Regulations and International Data Flows\n\nUNHR (1976), International Covenant on Civil and Political Rights\n\nWorld Bank et al (2017), Combatting Cybercrime: Tools and Capacity Building for Emerging Economies\n\nA detailed breakdown of references to the individual principles and good practice can be found below."
   },
   {
     "depth": 3,

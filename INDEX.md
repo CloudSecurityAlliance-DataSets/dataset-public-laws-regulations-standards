@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 168 | 122 | 150 | 4 | 6 | **450** |
-| **Total** | **299** | **179** | **194** | **4** | **6** | **682** |
+| `reference/` | 169 | 122 | 149 | 4 | 6 | **450** |
+| **Total** | **300** | **179** | **193** | **4** | **6** | **682** |
 
 ## control/
 
@@ -500,7 +500,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/homeaffairs.gov.au/cyber-security-strategy-action-plan/2026-2028/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2026-2028` |
 | `reference/homeaffairs.gov.au/national-ai-plan/2021/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2021` |
 | `reference/homeaffairs.gov.au/national-ai-plan/2024/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2024` |
-| `reference/homeaffairs.gov.au/national-ai-plan/2025/` | metadata-only | 1 | `M······` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2025` |
+| `reference/homeaffairs.gov.au/national-ai-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/national-ai-plan@2025` |
 | `reference/huntresslabs.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/huntresslabs.com/cybersecurity-101-glossary` |
 | `reference/hypr.com/security-encyclopedia/` | metadata-only | 1 | `M······` | `secid:reference/hypr.com/security-encyclopedia` |
 | `reference/iapp.org/privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iapp.org/privacy-glossary` |

@@ -5,12 +5,12 @@
 
 This website is the official e-government website of Korea.
 
-# [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
 
 - [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)
 - Language
 
-  - [한국어](https://www.msit.go.kr/index.do)
+- [한국어](https://www.msit.go.kr/index.do)
   - [English](https://www.msit.go.kr/eng/index.do)
 
 Integrated search
@@ -21,11 +21,11 @@ SERCH
 
 - [News & Notice](javascript:fn_menulast_go('eng', '1', '2', '#');)
 
-  ## News & Notice
+## News & Notice
 
-  Global science and technology powerhouse!
+Global science and technology powerhouse!
 
-  - [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
+- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
     ');)
   - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do
     ');)
@@ -37,21 +37,21 @@ SERCH
     ');)
 - [Laws & Statistics](javascript:fn_menulast_go('eng', '1', '13', '#');)
 
-  ## Laws & Statistics
+## Laws & Statistics
 
-  Global science and technology powerhouse!
+Global science and technology powerhouse!
 
-  - [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
+- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
   - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do
     ');)
   - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 "Opens new window")
 - [About MSIT](javascript:fn_menulast_go('eng', '1', '19', '#');)
 
-  ## About MSIT
+## About MSIT
 
-  Global science and technology powerhouse!
+Global science and technology powerhouse!
 
-  - [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
+- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
     ');)
   - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do
     ');)
@@ -70,7 +70,7 @@ SERCH
 
 This website is the official e-government website of Korea.
 
-# [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
 
 Open Search Area
 
@@ -85,21 +85,21 @@ close Search Area
 
 Open All Menus
 
-# [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
 
 Close all menus
 
 - [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)
 - Language
 
-  - [한국어](https://www.msit.go.kr/index.do)
+- [한국어](https://www.msit.go.kr/index.do)
   - [English](https://www.msit.go.kr/eng/index.do)
 
 - [News & Notice](javascript:void(0);)
 
-  ## News & Notice
+## News & Notice
 
-  - [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
+- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
     ');)
   - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do
     ');)
@@ -111,17 +111,17 @@ Close all menus
     ');)
 - [Laws & Statistics](javascript:void(0);)
 
-  ## Laws & Statistics
+## Laws & Statistics
 
-  - [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
+- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
   - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do
     ');)
   - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 "Opens new window")
 - [About MSIT](javascript:void(0);)
 
-  ## About MSIT
+## About MSIT
 
-  - [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
+- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
     ');)
   - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do
     ');)
@@ -151,13 +151,13 @@ Close all menus
 - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do
   ');)
 
-### Press Releases
+Press Releases
 
 - [SNS Share](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#shareBox)
 
-  ### SNS Share
+### SNS Share
 
-  - [FaceBook](javascript:sendSns('facebook', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "새창열림")
+- [FaceBook](javascript:sendSns('facebook', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "새창열림")
   - [Twitter](javascript:sendSns('twitter', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "새창열림")
   - [URL Copy](javascript:sendSns('url', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "URL복사하기")Close
 - [Print](javascript:printView();)
@@ -275,11 +275,11 @@ Please refer to the attached PDF.
 
 - [AI 3대 강국 도약을 위한 대한민국 AI 혁신 청사진 제시.pdf](javascript:void(0); "PDF file download")
 
-  [DOWNLOAD](javascript:void(0); "file download")
+[DOWNLOAD](javascript:void(0); "file download")
   [PREVIEW](javascript:void(0); "새창 열림")
 - [Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse.docx](javascript:void(0); "Word file download")
 
-  [DOWNLOAD](javascript:void(0); "file download")
+[DOWNLOAD](javascript:void(0); "file download")
   [PREVIEW](javascript:void(0); "새창 열림")
 
 **Type 1 : Source Indication** The works of the Ministry of Science and ICT can be used under the terms of "KOGL Type 1".

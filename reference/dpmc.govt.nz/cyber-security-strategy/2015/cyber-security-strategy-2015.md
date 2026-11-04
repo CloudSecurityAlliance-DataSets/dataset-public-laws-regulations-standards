@@ -1,14 +1,10 @@
 # New Zealand's Cyber Security Strategy 2015
 
-## NEW ZEALAND’S Cyber Security Strategy
+NEW ZEALAND’S Cyber Security Strategy
 
-## 2015
+2015
 
-## A secure, resilient and prosperous
-
-## online New Zealand
-
-## Ministerial Foreword
+## A secure, resilient and prosperous — online New Zealand — Ministerial Foreword
 
 The internet and technology have become a fundamental element in our lives.
 
@@ -74,63 +70,43 @@ The impacts of cyber attacks can range from a minor inconvenience through to a m
 
 It is difficult to obtain adequate information on either the incidence or the cost of cyber incidents. Victims, including businesses, often do not report incidents to law enforcement or disclose them publicly.
 
-1 http://newsroom.cisco.com/press-release-content?articleId=1644203: last accessed 28/10/2015.
+1  http://newsroom.cisco.com/press-release-content?articleId=1644203: last accessed 28/10/2015.
 
 HOW DO NEW ZEALANDERS BEHAVE ONLINE?
 
 Connect Smart research on New Zealander’s cyber security practices (2014):
 
-## 83%
+83% of New Zealanders have experienced a cyber breach – 22% had their email accounts hacked for example.
 
-of New Zealanders have experienced a cyber breach – 22% had their email accounts hacked for example.
-
-## 61%
-
-have not changed their
+61% have not changed their
 
 behaviour as a result.
 
-## 34%
-
-of New Zealanders do not have passwords
+34% of New Zealanders do not have passwords
 
 on their personal smartphones.
 
-## 48%
-
-do not have passwords on their
+48% do not have passwords on their
 
 work smartphones.
 
-## 18%
-
-of New Zealanders are overwhelmed
+18% of New Zealanders are overwhelmed
 
 by cyber security.
 
-## 73%
+73% want more advice.
 
-want more advice.
-
-## 83%
-
-of New Zealanders rarely
+83% of New Zealanders rarely
 
 change their passwords.
 
-## 28%
-
-use more complex passwords for
+28% use more complex passwords for
 
 certain sites, such as banking.
 
-## 67%
+67% of New Zealanders check a website is secure before using it for payments.
 
-of New Zealanders check a website is secure before using it for payments.
-
-## 26%
-
-of New Zealanders believe they are not personally
+26% of New Zealanders believe they are not personally
 
 at risk of a cyber attack.
 
@@ -228,9 +204,7 @@ New Zealand protects and advances its interests on cyberspace issues internation
 
 To deliver the vision, the government has developed a plan of action to bring each of the four goals to life. The Action Plan will be reviewed and reported on annually, and changes made to keep the Strategy alive and current. The National Cyber Policy Office will also work with government agencies and Connect Smart partners to produce a public annual report on the Cyber Security Action Plan.
 
-## The Strategy is underpinned by four principles:
-
-## PARTNERSHIPS ARE ESSENTIAL
+## The Strategy is underpinned by four principles: — PARTNERSHIPS ARE ESSENTIAL
 
 The government has a role to play in cyber security – but not on its own. Close partnerships with the private sector and non-government organisations are required. Businesses drive the New Zealand economy and depend on the Internet and networked technology. They must protect the information that is critical to their commercial success. The private sector owns and operates the telecommunications systems. The private sector and technical community also have considerable cyber security expertise.
 

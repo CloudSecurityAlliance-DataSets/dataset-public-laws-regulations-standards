@@ -19,63 +19,63 @@ Enquiries regarding the licence and any use of this document are welcome at:
 Department of Home Affairs PO Box 25 BELCONNEN ACT 2616
 
 P - 23-02503-b"
-"2","","Contents","","","Executive summary 4
+"2","","Contents","","","Executive summary  4
 
-Action plan 5
+Action plan  5
 
-Shield 1: Strong businesses and citizens 6
+Shield 1: Strong businesses and citizens  6
 
-1. Support small and medium businesses to strengthen their cyber security 6
+1. Support small and medium businesses to strengthen their cyber security  6
 
-2. Help Australians defend themselves from cyber threats 6
+2. Help Australians defend themselves from cyber threats  6
 
-3. Disrupt and deter cyber threat actors from attacking Australia 7
+3. Disrupt and deter cyber threat actors from attacking Australia  7
 
-4. Work with industry to break the ransomware business model 7
+4. Work with industry to break the ransomware business model  7
 
-5. Provide clear cyber guidance for businesses 8
+5. Provide clear cyber guidance for businesses  8
 
-6. Make it easier for Australian businesses to access advice and support after a cyber incident 9
+6. Make it easier for Australian businesses to access advice and support after a cyber incident  9
 
-7. Secure our identities and provide better support to victims of identity theft 10
+7. Secure our identities and provide better support to victims of identity theft  10
 
-Shield 2: Safe technology  11
+Shield 2: Safe technology   11
 
-8. Ensure Australians can trust their digital products and software 11
+8. Ensure Australians can trust their digital products and software  11
 
-9. Protect our most valuable datasets 12
+9. Protect our most valuable datasets  12
 
-10. Promote the safe use of emerging technology 13
+10. Promote the safe use of emerging technology  13
 
-Shield 3: World-class threat sharing and blocking 14
+Shield 3: World-class threat sharing and blocking  14
 
-11. Create a whole-of-economy threat intelligence network 14
+11. Create a whole-of-economy threat intelligence network  14
 
-12. Scale threat blocking capabilities to stop cyber attacks 15
+12. Scale threat blocking capabilities to stop cyber attacks  15
 
-Shield 4: Protected critical infrastructure 16
+Shield 4: Protected critical infrastructure  16
 
-13. Clarify the scope of critical infrastructure regulation 16
+13. Clarify the scope of critical infrastructure regulation  16
 
-14. Strengthen cyber security obligations and compliance for critical infrastructure 17
+14. Strengthen cyber security obligations and compliance for critical infrastructure  17
 
-15. Uplift cyber security of the Commonwealth Government 18
+15. Uplift cyber security of the Commonwealth Government  18
 
-16. Pressure-test our critical infrastructure to identify vulnerabilities  19
+16. Pressure-test our critical infrastructure to identify vulnerabilities   19
 
-Shield 5: Sovereign capabilities 20
+Shield 5: Sovereign capabilities  20
 
-17. Grow and professionalise our national cyber workforce 20
+17. Grow and professionalise our national cyber workforce  20
 
-18. Accelerate our local cyber industry, research and innovation 20
+18. Accelerate our local cyber industry, research and innovation  20
 
-Shield 6: Resilient region and global leadership 21
+Shield 6: Resilient region and global leadership  21
 
-19. Support a cyber-resilient region as the partner of choice 21
+19. Support a cyber-resilient region as the partner of choice  21
 
-20. Shape, uphold and defend international cyber rules, norms and standards 22
+20. Shape, uphold and defend international cyber rules, norms and standards  22
 
-Appendix A: Lead and contributing agency abbreviations 23"
+Appendix A: Lead and contributing agency abbreviations  23"
 "2","","Executive summary","","","The Australian Government is committed to its vision of positioning Australia as a world leader in cyber security by 2030. The strength of the 2023–2030 Australian Cyber Security Strategy (the Strategy) can only be measured by the success of its actions. To achieve success, the Australian Government has developed this Horizon 1 Action Plan, which supplements the Strategy and details the key initiatives that will commence over the next two years to put us on a path to achieving our vision.
 
 In order to become a world leader in cyber security by 2030, the Australian Government will foster genuine partnerships to generate enduring solutions through ongoing collaboration with industry. We will deliver our Strategy across three horizons:
@@ -103,10 +103,10 @@ This approach has been crafted with careful consideration to minimise regulatory
 The Government’s new Executive Cyber Council will play an important role in facilitating genuine and transparent co-leadership on key cyber security issues. The Council will support the delivery of national cyber security priorities, including initiatives under this Action Plan.
 
 A flexible approach to achieving the Strategy’s vision will enable us to remain adaptive to emerging technological, economic and geopolitical trends. Some actions will commence immediately with the release of the Strategy, while some will be implemented over a longer period. To remain current and relevant through to 2030, the Action Plan will be reviewed every two years, with actions being updated, added and removed as required."
-"2","","Action plan","","",""
 "2","","Strong businesses and citizens","","",""
-"3","","Shield","","","1"
-"3","","Action Accountable agency","","",""
+"3","","Shield","","","1
+
+Action Accountable agency"
 "2","1","Support small and medium businesses to strengthen their cyber security","numbered","","Offer advice and guidance to support small and medium businesses
 
 Lead agency: • Home Affairs
@@ -134,8 +134,9 @@ Lead agency: • Home Affairs
 
 Fund grants to community organisations to deliver tailored cyber awareness programs to support diverse cohorts – such as remote and regional communities, culturally and linguistically diverse groups, First Nations communities, young people, seniors, people with disability and neuro-diverse people.
 
-Contributing agency: • DSS (Grants Hub)"
-"3","","Action agency","","",""
+Contributing agency: • DSS (Grants Hub)
+
+Action agency"
 "2","3","Disrupt and deter cyber threat actors from attacking Australia","numbered","","Build our law enforcement and offensive capabilities
 
 Lead agency: • AFP
@@ -199,8 +200,9 @@ Lead agency: • Home Affairs
 
 Co-design with industry options to establish a Cyber Incident Review Board to conduct no-fault incident reviews to improve our cyber security. Lessons learned from these reviews will be shared with the public to strengthen our national cyber resilience and help prevent similar incidents from occurring.
 
-Contributing agencies: • AFP • AGD • ASD • Defence • PM&C • Other agencies as appropriate"
-"3","","Action agency","","",""
+Contributing agencies: • AFP • AGD • ASD • Defence • PM&C • Other agencies as appropriate
+
+Action agency"
 "2","6","Make it easier for Australian businesses to access advice and support after a cyber incident","numbered","","Simplify incident reporting
 
 Lead agency: • Home Affairs
@@ -239,10 +241,12 @@ Continue support for victims of identity crime. This support will identify and g
 
 • AGD
 
-The support will also educate on identifying danger signs that the compromised identity is continuing to be misused."
-"3","","Shield","","",""
-"2","","Safe technology","","","2"
-"3","","Action Accountable agency","","",""
+The support will also educate on identifying danger signs that the compromised identity is continuing to be misused.
+
+Shield"
+"2","","Safe technology","","","2
+
+Action Accountable agency"
 "2","8","Ensure Australians can trust their digital products and software","numbered","","Adopt international security standards for digital technologies
 
 Lead agency: • Home Affairs
@@ -323,8 +327,9 @@ Set standards for post-quantum cryptography by updating guidance within the Info
 
 Contributing agencies: • CSIRO • DISR"
 "2","","World-class threat sharing and blocking","","",""
-"3","","Shield","","","3"
-"3","","Action Accountable agency","","",""
+"3","","Shield","","","3
+
+Action Accountable agency"
 "2","11","Create a whole-of-economy threat intelligence network","numbered","","Share strategic threat intelligence with industry
 
 Lead agency: • Home Affairs
@@ -351,8 +356,9 @@ Lead agency: • Home Affairs
 
 Encourage and incentivise industry to participate in threat sharing platforms, with a focus on organisations that are most capable of collecting and sharing threat intelligence at scale across the economy.
 
-Contributing agencies: • ACMA • AGD • ASD • DITRDCA"
-"3","","Action agency","","",""
+Contributing agencies: • ACMA • AGD • ASD • DITRDCA
+
+Action agency"
 "2","12","Scale threat blocking capabilities to stop cyber attacks","numbered","","Develop next-generation threat blocking capabilities
 
 Lead agency: • Home Affairs
@@ -367,10 +373,12 @@ Lead agency: • Home Affairs
 
 Encourage and incentivise threat blocking across the economy, focusing on the entities that are most capable of blocking threats – including telecommunication providers, ISPs and financial services.
 
-Contributing agencies: • ACMA • AGD • ASD • DITRDCA"
-"3","","Shield","","",""
-"2","","Protected critical infrastructure","","","4"
-"3","","Action Accountable agency","","",""
+Contributing agencies: • ACMA • AGD • ASD • DITRDCA
+
+Shield"
+"2","","Protected critical infrastructure","","","4
+
+Action Accountable agency"
 "2","13","Clarify the scope of critical infrastructure regulation","numbered","","Ensure we are protecting the right entities
 
 Lead agency: • Home Affairs
@@ -403,8 +411,9 @@ Lead agency: • Home Affairs
 
 Protect the critical data held, used and processed by critical infrastructure in ‘business-critical’ data storage systems. Government, in consultation with industry, will consider clarifying the application of the SOCI Act to ensure critical infrastructure entities are protecting their data storage systems where vulnerabilities to those systems could impact the availability, integrity, reliability or confidentiality of critical infrastructure.
 
-Contributing agencies: • AGD • OAIC"
-"3","","Action agency","","",""
+Contributing agencies: • AGD • OAIC
+
+Action agency"
 "2","14","Strengthen cyber security obligations and compliance for critical infrastructure","numbered","","Enhance cyber security obligations for Systems of National Significance
 
 Lead agency: • Home Affairs
@@ -427,8 +436,9 @@ Lead agency: • Home Affairs
 
 Expand crisis response arrangements to ensure they capture secondary consequences from significant incidents. Government will consult with industry on introducing an all-hazards consequence management power that will allow it to direct an entity to take specific actions to manage the consequences of a nationally significant incident. This is a last-resort power, used where no other powers are available and where it does not interfere with or impede a law enforcement action or regulatory action.
 
-Contributing agencies: • ASD • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate"
-"3","","Action agency","","",""
+Contributing agencies: • ASD • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate
+
+Action agency"
 "2","15","Uplift cyber security of the Commonwealth Government","numbered","","Strengthen the cyber maturity of government departments and agencies
 
 Lead agency: • Home Affairs
@@ -463,8 +473,9 @@ Lead agency: • APSC
 
 Developing the cyber skills of the APS, harnessing the Digital Profession and APS Academy to provide a whole-of-government approach to addressing cyber skills shortages in the APS, as well as through the establishment of the Defence Cyber College.
 
-Contributing agencies: • ASD • Defence • Home Affairs"
-"3","","Action agency","","",""
+Contributing agencies: • ASD • Defence • Home Affairs
+
+Action agency"
 "2","16","Pressure-test our critical infrastructure to identify vulnerabilities","numbered","","Conduct national cyber security exercises across the economy
 
 Lead agency: • Home Affairs
@@ -479,10 +490,12 @@ Lead agency: • Home Affairs
 
 Develop incident response playbooks to help coordinate national incident response across Commonwealth, state, territory and industry stakeholders. Developed by the Cyber Coordinator, these playbooks will be informed by the insights gathered from national exercises.
 
-Contributing agencies: • AGD • Defence • NEMA"
-"3","","Shield","","",""
-"2","","Sovereign capabilities","","","5"
-"3","","Action Accountable agency","","",""
+Contributing agencies: • AGD • Defence • NEMA
+
+Shield"
+"2","","Sovereign capabilities","","","5
+
+Action Accountable agency"
 "2","17","Grow and professionalise our national cyber workforce","numbered","","Grow and expand Australia’s cyber skills pipeline
 
 Lead agency: • Home Affairs
@@ -512,8 +525,9 @@ Provide cyber start-ups and small-to-medium enterprises with funding to develop 
 
 Contributing agency: • DISR"
 "2","","Resilient region and global leadership","","",""
-"3","","Shield","","","6"
-"3","","Action Accountable agency","","",""
+"3","","Shield","","","6
+
+Action Accountable agency"
 "2","19","Support a cyber-resilient region as the partner of choice","numbered","","Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia
 
 Lead agency: • DFAT
@@ -534,8 +548,9 @@ Lead agency: • DFAT
 
 Pilot options to use technology to protect the region at scale by partnering with our regional neighbours and the private sector to leverage industry solutions to protect more people, systems and data from cyber threats. This includes proactively identifying vulnerabilities – such as end-of-life hardware and software – and providing scalable solutions that are fit-for-purpose, including security features that mitigate avoidable cyber incidents.
 
-Contributing agency: • ASD"
-"3","","Action agency","","",""
+Contributing agency: • ASD
+
+Action agency"
 "2","20","Shape, uphold and defend international cyber rules, norms and standards","numbered","","Support international standards for transparent and secure development of technology
 
 Lead agency: • DISR

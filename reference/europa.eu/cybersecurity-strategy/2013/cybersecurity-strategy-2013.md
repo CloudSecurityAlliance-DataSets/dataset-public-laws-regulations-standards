@@ -36,7 +36,7 @@ An Open, Safe and Secure Cyberspace
 
 ### INTRODUCTION
 
-### 1.1.
+1.1.
 
 Context
 
@@ -60,7 +60,7 @@ In countries outside the EU, governments may also misuse cyberspace for surveill
 
 All these factors explain why governments across the world have started to develop cyber-security strategies and to consider cyberspace as an increasingly important international issue. The time has come for the EU to step up its actions in this area. This proposal for a Cybersecurity strategy of the European Union, put forward by the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (High Representative), outlines the EU's vision in this domain, clarifies roles and responsibilities and sets out the actions required based on strong and effective protection and promotion of citizens' rights to make the EU's online environment the safest in the world.
 
-### 1.2.
+1.2.
 
 Principles for cybersecurity
 
@@ -178,7 +178,7 @@ The Commission invites industry to:
 
 the interface with customers. In particular, industry should reflect on ways to make CEOs and Boards more accountable for ensuring cybersecurity.
 
-### 2.2.
+2.2.
 
 Drastically reducing cybercrime
 
@@ -248,7 +248,7 @@ The Commission asks Eurojust and Europol (EC3) to:
 
 •
 
-### 2.3.
+2.3.
 
 Developing cyberdefence policy and capabilities related to the framework of the Common Security and Defence Policy (CSDP)
 
@@ -268,7 +268,7 @@ and information sharing. Improve Cyber Defence Training & Exercise Opportunities
 
 • Ensure dialogue with international partners, including NATO, other international organisations and multinational Centres of Excellence, to ensure effective defence capabilities, identify areas for cooperation and avoid duplication of efforts.
 
-### 2.4.
+2.4.
 
 Develop industrial and technological resources for cybersecurity
 
@@ -332,7 +332,7 @@ The Commission invites public and private stakeholders to:
 
 • Develop, in cooperation with the insurance sector, harmonised metrics for calculating risk premiums, that would enable companies that have made investments in security to benefit from lower risk premiums.
 
-### 2.5.
+2.5.
 
 Establish a coherent international cyberspace policy for the European Union and promote EU core values
 
@@ -416,7 +416,7 @@ NATIONAL
 
 • National defence and security authorities
 
-### 3.1.
+3.1.
 
 Coordination between NIS competent authorities/CERTs, law enforcement and defence
 
@@ -438,7 +438,7 @@ International
 
 The Commission and the High Representative ensure, together with the Member States, coordinated international action in the field of cybersecurity. In so doing, the Commission and the High Representative will uphold EU core values and promote a peaceful, open and transparent use of cyber technologies. The Commission, the High Representative and the Member States engage in policy dialogue with international partners and with international organisations such as Council of Europe, OECD, OSCE, NATO and UN.
 
-### 3.2.
+3.2.
 
 EU support in case of a major cyber incident or attack
 

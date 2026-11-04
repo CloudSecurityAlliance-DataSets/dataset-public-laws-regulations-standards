@@ -2,7 +2,7 @@
 
 ## DEFENCE STRATEGIC UPDATE
 
-## 2020
+2020
 
 © Commonwealth of Australia 2020
 
@@ -50,9 +50,7 @@ As a nation – and as an important regional leader in the global community – 
 
 The Hon Scott Morrison MP Senator the Hon Linda Reynolds CSC Prime Minister Minister for Defence
 
-## ` Executive Summary
-
-i Australia is at the centre of a dynamic strategic environment. In response, Australia’s defence policy must be agile and adaptive. In line with the Government’s intent that defence strategy be subject to regular review, the Department of Defence commenced a Strategic Policy Review in 2019 to re-assess the strategic underpinnings of the 2016 Defence White Paper.
+` Executive Summary i Australia is at the centre of a dynamic strategic environment. In response, Australia’s defence policy must be agile and adaptive. In line with the Government’s intent that defence strategy be subject to regular review, the Department of Defence commenced a Strategic Policy Review in 2019 to re-assess the strategic underpinnings of the 2016 Defence White Paper.
 
 ii While the drivers shaping the development of Australia’s future strategic environment identified in that white paper remain relevant, some have accelerated in ways that were not anticipated in 2016.
 
@@ -80,13 +78,11 @@ xiii The Government’s plans for future ADF capability are also underpinned by 
 
 xiv Continuous transformational reform within Defence is essential to implement the strategy set out in this document and to build Defence’s capacity to respond to a more uncertain external environment. Reform cannot be a one-off process – improvement is continual – and it must be purposeful. Defence will continue to evolve and adapt to meet Australia’s changing strategic environment and maintain alignment of strategy, capability and resources.
 
-## Intentionally blank
+Intentionally blank
 
 1
 
-## ` Chapter One: Australia’s
-
-## changing strategic environment
+## ` Chapter One: Australia’s — changing strategic environment
 
 1.1 The 2016 Defence White Paper set out six drivers that would shape Australia’s strategic environment: the roles of the United States and China; challenges to the stability of the rules-based global order; the enduring threat of terrorism; state fragility; the pace of military modernisation in our region; and the emergence of new, complex non-geographic threats. These drivers will remain relevant over the next two decades. However, several have accelerated since 2016, and in some cases their impacts are posing new challenges. Additional factors that will shape Australia’s environment and impact defence planning have also emerged, in particular the economic and strategic consequences of the COVID-19 pandemic.
 
@@ -378,9 +374,7 @@ for Defence projected over the following six to ten years will also likely inclu
 
 4
 
-## ` Chapter Four: Industry and
-
-## Innovation
+## ` Chapter Four: Industry and — Innovation
 
 4.1 The Government remains committed to developing a strong, sustainable and secure Australian defence industry and supporting leading edge national innovation. Both are vital to the ADF’s ability to act with greater independence in an increasingly contested strategic environment.
 
@@ -428,7 +422,7 @@ Science and Technology Group, will play a stronger role in enabling, coordinatin
 
 4.16 Effectively leveraging Australia’s defence industry and innovation capabilities will depend on ongoing reform of the Defence organisation, as set out in Chapter Six.
 
-## Intentionally blank
+Intentionally blank
 
 5
 

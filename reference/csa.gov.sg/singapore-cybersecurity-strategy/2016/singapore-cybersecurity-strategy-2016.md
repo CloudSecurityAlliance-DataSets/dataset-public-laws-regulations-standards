@@ -6,9 +6,7 @@ Cyber Security Agency of Singapore www.csa.gov.sg
 
 Design and layout by: APT811 Design & Innovation Agency www.apt811.com
 
-## PRIME MINISTER'S
-
-## FOREWORD
+## PRIME MINISTER'S — FOREWORD
 
 Singapore is an international centre of exchange and commerce. We must always be open to new technologies and know-how, in order to connect ideas, economies and cultures across the world.
 
@@ -106,8 +104,6 @@ Facilitate International and Regional Exchanges on Cyber Norms and Legislation
 
 47
 
-## SINGAPORE'S CYBERSECURITY
-
 ## STRATEGY AT A GLANCE
 
 We will develop a vibrant cybersecurity ecosystem comprising a skilled workforce, technologically-advanced companies and strong research collaborations, so that it can support Singapore’s cybersecurity needs and be a source of new economic growth. Finally, given that cyber threats do not respect sovereign boundaries, we will step up efforts to forge strong international partnerships.
@@ -116,27 +112,21 @@ Singapore’s Cybersecurity Strategy aims to create a resilient and trusted cybe
 
 Four pillars underpin our strategy. We will strengthen the resilience of Critical Information Infrastructures (CIIs). We will mobilise businesses and the community to make cyberspace safer, by countering cyber threats, combating cybercrime and protecting personal data.
 
-## Building a Resilient Infrastructure
+## Building a Resilient Infrastructure — Creating a Safer Cyberspace
 
-## Creating a Safer Cyberspace
+“Cybersecurity is a team effort, everyone has a part to play, and everyone
 
-### “Cybersecurity is a team effort, everyone has a part to play, and everyone
-
-### has to play their part. The Government will take the lead to spearhead initiatives to enhance Singapore’s cybersecurity stance, and we will need
+has to play their part. The Government will take the lead to spearhead initiatives to enhance Singapore’s cybersecurity stance, and we will need
 
 everyone’s cooperation to reap long term benefits for the cyber ecosystem.
 
-### We aim to build a Smart Nation – one that will be enabled by trustworthy
-
-### infrastructure and technology.”
+### We aim to build a Smart Nation – one that will be enabled by trustworthy — infrastructure and technology.”
 
 Minister-in-charge of Cybersecurity, Dr Yaacob Ibrahim,
 
 GovernmentWare 2015
 
-## Developing a Vibrant Cybersecurity Ecosystem
-
-## Strengthening International Partnerships
+## Developing a Vibrant Cybersecurity Ecosystem — Strengthening International Partnerships
 
 OUR STRATEGY: OUR STRATEGY: OUR STRATEGY: OUR STRATEGY:
 
@@ -152,15 +142,9 @@ First, the Government will collaborate with industry partners and Institutes of 
 
 ## INTRODUCTION
 
-### “Cybersecurity is important for Singapore given our high dependence
+“Cybersecurity is important for Singapore given our high dependence
 
-### on information technology and the Internet, and cybercrime is also
-
-### growing. Cyber-attacks can take many forms and come from many
-
-### sources. They range from defacements of website and data theft, often by persons who hide behind the anonymity of cyberspace [and]
-
-### can also include systemic threats”
+### on information technology and the Internet, and cybercrime is also — growing. Cyber-attacks can take many forms and come from many — sources. They range from defacements of website and data theft, often by persons who hide behind the anonymity of cyberspace [and] — can also include systemic threats”
 
 Deputy Prime Minister Teo Chee Hean,
 
@@ -176,9 +160,7 @@ Singapore is transforming to become a Smart Nation, where Singaporeans are empow
 
 Smart Nation is a whole-of-nation rallying call for citizens, companies, and government agencies to work hand-in-hand to seize the many possibilities of digital technology. We are putting in place the necessary infrastructure and policies to build capabilities, and to create a conducive ecosystem where people and companies co-create innovative solutions to enhance the lives of our citizens.
 
-## OUR CYBERSECURITY
-
-## JOURNEY SO FAR
+## OUR CYBERSECURITY — JOURNEY SO FAR
 
 2005 Infocomm Security Masterplan (ISMP) (2005-2007) The Info-communications Development Authority (IDA) launched Singapore’s first Infocomm Security Masterplan to coordinate cybersecurity efforts across the Government. A key priority was building basic capabilities within the public sector to mitigate and respond to cyber threats.
 
@@ -294,17 +276,11 @@ The implementation of Security-by-Design has to be complemented with highly skil
 
 Why is Security-by-Design important?
 
-## “The first priority
+“The first priority
 
 Security-by-design is a best practice to ensure that system is developed with security consideration upfront and throughout its lifecycle. By integrating risk assessment into the system development lifecycle, trade-offs between security, cost and functionality are deliberated. The trade-off decisions should be made by well-informed management at the appropriate level of decision making. This ensures that the system is optimised for the conditions in which it is to be used. Subscribing to Security-by-Design will reduce piecemeal implementation and the need for costly and often ineffective retrofitting. Cybersecurity, when thoughtfully considered and incorporated at the design stage of a system will result in an organically robust system design that can better withstand cyber threats.
 
-## on our journey
-
-## towards a Smart Financial Centre is therefore
-
-## to continually
-
-## strengthen the industry’s cybersecurity.”
+## on our journey — towards a Smart Financial Centre is therefore — to continually — strengthen the industry’s cybersecurity.”
 
 Mr Ravi Menon, Managing Director, Monetary Authority of Singapore (MAS), Global Technology Law Conference,
 
@@ -328,9 +304,7 @@ Providing financial support through the Financial Sector Technology & Innovation
 
 3
 
-## RESPOND DECISIVELY
-
-## TO CYBER THREATS
+## RESPOND DECISIVELY — TO CYBER THREATS
 
 The national response to a cyber-attack will be led by an inter-agency Cybersecurity Crisis Management Group, or CMG (Cyber). It is led by the Permanent Secretary of the Ministry of Communications & Information, supported by CSA, and comprises senior policy decision-makers from government agencies overseeing the different critical sectors. CMG (Cyber) serves dual functions: (a) it is responsible for the development of cybersecurity policies and standards, and oversees the implementation of cybersecurity protection measures in the critical sectors; and (b) in a cyber crisis, it mobilises the necessary resources and directs the operational responses to provide a coordinated response to the threat.
 
@@ -362,19 +336,15 @@ National Cyber Incident Response Teams (NCIRT) are currently drawn from the inci
 
 Resilience in essential services is especially applicable to CIIs, as a cyber-breach realistically cannot be prevented all the time. A resilient system will need to put in place prevention activities that must be integrated with an expedient incident response plan and a comprehensive recovery strategy to mitigate the effects of cyber incidents. As such, an important aspect following a cyber-attack is to be able to return affected CIIs to normal operations as soon as possible, or to facilitate their continued operations in sub-optimal conditions through a prolonged attack. The Government will work with the sectors to ensure that robust Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP) are built into their CII protection plans.
 
-## “We will develop a standalone
+“We will develop a standalone
 
-## Cybersecurity Act that provides for stronger and
-
-## more proactive powers.”
+## Cybersecurity Act that provides for stronger and — more proactive powers.”
 
 Minister-in-charge of Cybersecurity,
 
 Dr Yaacob Ibrahim, 2015
 
-## STRENGTHEN GOVERNANCE
-
-## AND LEGISLATIVE FRAMEWORK
+## STRENGTHEN GOVERNANCE — AND LEGISLATIVE FRAMEWORK
 
 The Cybersecurity Act
 
@@ -404,9 +374,7 @@ Hence, the Government will spare no effort in safeguarding its systems and netwo
 
 The Government sector is already identified as one of the eleven CII sectors in the national cyber response plan.
 
-## Reducing Attack Surface
-
-## Enhancing Situational Awareness through Technology
+## Reducing Attack Surface — Enhancing Situational Awareness through Technology
 
 The Monitoring and Operations Control Centre (MOCC), Cyber-Watch Centre (CWC), and Threat Analysis Centre (TAC) provide the Government with cyber situational awareness of its networks. We will continue to invest in technologies such as analytics, automation, artificial intelligence, and other state-of-the-art security technologies. This will maintain the centres’ operational excellence, to enable timely detection and response to a cyber incident.
 
@@ -474,9 +442,7 @@ Malware enabled heist
 
 In February 2016, US$81 million was stolen from Bangladeshi Bank in a carefully coordinated hack. After using stolen credentials to initiate fraudulent bank transfers, the hackers used malware to hide the traces of the transactions, hindering remediation actions.
 
-## COMBAT CYBERCRIME
-
-## National Cybercrime Action Plan (NCAP)
+## COMBAT CYBERCRIME — National Cybercrime Action Plan (NCAP)
 
 The Internet has afforded criminal elements the opportunity to commit cybercrimes quickly, easily and on a large scale. Criminals have also exploited the anonymity provided by the Internet and the transnational nature of cybercrime to escape detection and prosecution. These characteristics of cybercrime pose significant challenges for law enforcement agencies around the world.
 
@@ -492,13 +458,9 @@ A
 
 ### Educating and empowering the public to stay safe in cyberspace
 
-#### (ii) Engagement of vulnerable
+(ii) Engagement of vulnerable groups in society
 
-groups in society
-
-#### (i) Conducting outreach to the
-
-general public
+(i) Conducting outreach to the general public
 
 SPF has also tailored its cybercrime prevention outreach programmes to match the profile of different vulnerable groups in society, thereby ensuring that the message of cybercrime prevention is effectively communicated to all segments of society. Through its Collaborative Social Programme (CoSP), SPF will work with schools and Non- Governmental Organisations (NGOs) to raise cybercrime prevention awareness among vulnerable groups.
 
@@ -506,17 +468,13 @@ In order to educate and empower the public to stay safe in cyberspace, the Singa
 
 Prevention is the best way to combat cybercrime; the majority of cybercrimes can be prevented if businesses and individuals are educated on the risks of cybercrime and adopt simple cybercrime prevention measures to protect themselves online.
 
-#### (iii) Providing a one-stop self-
-
-help portal against scams
+(iii) Providing a one-stop self- help portal against scams
 
 SPF has worked with the National Crime Prevention Council (NCPC) to transform the Scam Alert website (www.scamalert.sg) into a one-stop self-help portal against scams. The portal will provide information to the public on the different types of scams, and empower the public to take steps to guard against them.
 
 B
 
-### Enhancing the Government’s capacity and capability to combat cybercrime
-
-cybercrime. To achieve this, a Cyber Security Lab (CSL) has been set up in the CCSS as a modern hands-on facility for familiarising trainees on approaches to mitigate cyber threats and investigate cyber incidents. CCSS will expand its curriculum to offer a variety of skills-based courses, ranging from cybersecurity fundamentals and cyber defence, to incident response, digital forensics and malware analysis. These courses are tailored to the needs of officers, depending on their professional roles and competency requirements.
+Enhancing the Government’s capacity and capability to combat cybercrime cybercrime. To achieve this, a Cyber Security Lab (CSL) has been set up in the CCSS as a modern hands-on facility for familiarising trainees on approaches to mitigate cyber threats and investigate cyber incidents. CCSS will expand its curriculum to offer a variety of skills-based courses, ranging from cybersecurity fundamentals and cyber defence, to incident response, digital forensics and malware analysis. These courses are tailored to the needs of officers, depending on their professional roles and competency requirements.
 
 #### (i) Establishing the SPF
 
@@ -526,15 +484,11 @@ The SPF Cybercrime Command was established in December 2015 to increase the agil
 
 The transnational nature of cybercrimes, coupled with the speed and scale at which such crimes are perpetrated, presents formidable challenges for traditional law enforcement approaches. In order to effectively combat cybercrime, the Government will (i) establish the SPF Cybercrime Command, (ii) boost cybercrime investigation capabilities, (iii) equip public officers with the relevant skills to combat cybercrime, and (iv) enhance coordination between SPF and government agencies.
 
-#### (ii) Boosting cybercrime
-
-investigation capabilities
+(ii) Boosting cybercrime investigation capabilities
 
 SPF has also embarked on several technology initiatives to improve its cybercrime investigation capabilities. These efforts will enable SPF to effectively investigate the rising number of cybercrime cases and quickly process large volumes of digital information in order to sieve out necessary evidence for a successful prosecution.
 
-#### (iv) Strengthening coordination
-
-between SPF and government agencies
+(iv) Strengthening coordination between SPF and government agencies
 
 SPF also works closely with its partner agencies to ensure a coordinated response to cybercrimes. In recent years, AGC and SPF have worked closely together on sensitive and high-profile cybercrime cases, coming together right from the start of the investigations. AGC’s expertise has helped SPF to ensure that crucial evidence is secured at an early stage and that police investigations are watertight.
 
@@ -542,21 +496,15 @@ One such initiative is the DIGital Evidence Search Tool (DIGEST) that will autom
 
 Given the closely-related nature of cybersecurity and cybercrime, SPF and CSA will work together to ensure an effective response to cyber-related incidents and conduct exercises to stress-test existing workflows, coordination arrangements and procedures.
 
-#### (iii) Equipping public officers
-
-handling sensitive data with the relevant skills to combat cybercrime
+(iii) Equipping public officers handling sensitive data with the relevant skills to combat cybercrime
 
 In recognition of growing cybersecurity and cybercrime threats, the Centre for Cyber Security Studies (CCSS) was established in 2014 within the Home Team Academy (HTA). The CCSS facilitates the capability and capacity development of Home Team Departments and key stakeholders responsible for the protection and operations of infocomm systems across the public sector. One of CCSS’ core functions is to equip Home Team officers with the necessary skills to deal with
 
 ### Strengthening legislation and the criminal justice framework
 
-#### (i) Amending the Computer Misuse
+(i) Amending the Computer Misuse and Cybersecurity Act
 
-and Cybersecurity Act
-
-#### (iii) Strengthening regulatory
-
-frameworks
+(iii) Strengthening regulatory frameworks
 
 MHA intends to amend the Computer Misuse and Cybersecurity Act (CMCA), to ensure that the Act continues to be effective in dealing with the transnational nature of cybercrimes, as well as the evolving tactics of cybercriminals.
 
@@ -572,13 +520,9 @@ D
 
 ### Stepping up partnerships and international engagement
 
-#### (i) Increasing cybercrime awareness
+(i) Increasing cybercrime awareness in the private sector
 
-in the private sector
-
-#### (ii) Developing capabilities
-
-to combat cybercrime
+(ii) Developing capabilities to combat cybercrime
 
 MHA has partnered industry and IHLs to increase awareness of cybercrimes in the private sector. SPF regularly engages key private sector stakeholders, such as those from the Infocomm Technology and banking industries to enhance cybercrime prevention efforts, raise awareness of cybercrimes and encourage the adoption of good cyber hygiene practices.
 
@@ -596,13 +540,9 @@ and empowering the public to be safe in cyberspace. Through the various initiati
 
 International engagement
 
-#### (i) Fostering regional
+(i) Fostering regional and global cooperation
 
-and global cooperation
-
-#### (ii) Building capacities and capabilities
-
-through collaboration at the regional and global levels
+(ii) Building capacities and capabilities through collaboration at the regional and global levels
 
 Strong international partnerships enable countries to deal with cybercrime more effectively. Singapore will actively foster regional and global cooperation, partner INTERPOL and other countries in capacity building initiatives, and bring global experts and thought leaders together to discuss the latest threats, trends and solutions in the cyber domain, and share best practices and solutions.
 
@@ -610,15 +550,11 @@ Singapore is at the forefront of working with foreign countries to enhance our o
 
 Singapore has rolled out several programmes with partner countries and INTERPOL. This includes the two-year (2016 – 2018) ASEAN Cyber Capacity Development Project funded by Japan and implemented by INTERPOL, the Singapore-United States Third Country Training Programme, and the ASEAN Plus Three Cybercrime Workshop, involving the People’s Republic of China, Japan and the Republic of Korea. The involvement of key Asian partners, AMS and INTERPOL facilitates a conducive environment for collaboration on cybercrime issues and sharing of best practices, and forging of effective operational links between countries and across the regions.
 
-#### (iii) Bringing global experts
-
-and thought leaders together
+(iii) Bringing global experts and thought leaders together
 
 Since 2013, Singapore has been supporting thought leadership platforms that bring together public sector and industry partners on cybercrime. One such example is the RSA Conference Asia Pacific and Japan (RSAC APJ). Held annually in Singapore, the RSAC APJ is Asia Pacific’s leading conference on information security.
 
-## ENHANCE SINGAPORE'S STANDING AS A TRUSTED HUB
-
-## Build a trustworthy data ecosystem
+## ENHANCE SINGAPORE'S STANDING AS A TRUSTED HUB — Build a trustworthy data ecosystem
 
 The compromise of personal data can cause adverse disruptions to the affected individuals and businesses. With increasing amounts of data migrating to computer systems and electronic devices, there is a need to secure these systems and safeguard individuals’ data against theft and misuse. At the same time, organisations can leverage good personal data management to gain a better understanding of their customers, increase business efficiency and effectiveness, and boost customer confidence.
 
@@ -664,9 +600,7 @@ Singapore will join the global community to measure and improve the health state
 
 Another focus area is the facilitation of cross-border data flows. PDPC will identify areas of collaborations and cooperation with well-established foreign Data Protection Authorities. It will participate in global multilateral networks to mutually recognise the adequacy of each economy’s data protection laws, thus enabling transfers of data across jurisdictions.
 
-## PROMOTE COLLECTIVE
-
-## RESPONSIBILITY
+## PROMOTE COLLECTIVE — RESPONSIBILITY
 
 The prevalence of ICT and the Internet has transformed the way we work, play, live, learn and connect with one another. Just as we lock our doors and keep our keys safe in the physical world, we have a similar responsibility to stay safe in the cyber world. Individuals now keep more of their friends’ and families’ personal data than ever before on personal devices. The stakes are higher for businesses as they are custodians of computerised data that are vital to operations and impact customers’ lives. Cybersecurity is a collective responsibility and a way of putting Total Defence into action to keep Singapore safe. Everyone, whether individuals or businesses, has a role in creating a safer cyberspace.
 
@@ -682,13 +616,9 @@ CSA will keep the public updated on new cybersecurity measures to keep pace with
 
 ¹ The Singapore Government introduced Total Defence in 1984 as a concept to involve every Singaporean in playing a part, individually and collectively, to build a strong, secure and cohesive nation. It involves all Singaporeans in the following five aspects: military defence, civil defence, economic defence, psychological defence and social defence. ² Infocomm Development Authority (IDA) Infocomm Usage by Households and Individuals Survey 2014 ³ Ministry of Education (MOE) Press Release on 7th Call for Proposals on Cyber Wellness Projects
 
-## "Having strong security technology
+"Having strong security technology
 
-## is not enough […] training employees
-
-## in cybersecurity
-
-## is critical. "
+## is not enough […] training employees — in cybersecurity — is critical. "
 
 Mr Teo Siong Seng, Singapore Business Federation
 
@@ -710,9 +640,7 @@ information with the business community, while ensuring that sensitive corporate
 
 Businesses may find it challenging to keep pace with new cyber threats. SingCERT, which was set up in 1997 to facilitate the detection, resolution and prevention of cybersecurity related incidents, will deepen its threat discovery and analysis capabilities to deal with the evolving local cyber threat environment. SingCERT will expand its capacity to facilitate the sharing of cybersecurity
 
-## VIBRANT CYBERSECURITY
-
-## ECOSYSTEM
+## VIBRANT CYBERSECURITY — ECOSYSTEM
 
 With its advanced infrastructure and tech-savvy workforce, Singapore is well-positioned to develop a vibrant cybersecurity ecosystem comprising highly skilled professionals, companies with deep cybersecurity capabilities and strong translational research and development (R&D).
 
@@ -730,9 +658,7 @@ Innovate to accelerate the industry’s growth. The National Cybersecurity R&D P
 
 ## ESTABLISH A PROFESSIONAL CYBERSECURITY
 
-## WORKFORCE
-
-the workforce. We will offer cybersecurity scholarships and sponsorships to attract promising students. We will also offer up-skilling and re-skilling opportunities to cross-train mid-career professionals in cybersecurity for better job prospects.
+WORKFORCE the workforce. We will offer cybersecurity scholarships and sponsorships to attract promising students. We will also offer up-skilling and re-skilling opportunities to cross-train mid-career professionals in cybersecurity for better job prospects.
 
 Good security requires highly-skilled practitioners with deep expertise. Today, there is a shortage of cybersecurity manpower around the world. Qualified professionals are in great demand as businesses pay more attention to cyber risks. This demand will only increase as the frequency and consequences of cyber threats continue to grow. To ensure that Singapore has an adequate and well-trained cybersecurity workforce, Singapore will:
 
@@ -886,9 +812,7 @@ Through consensus, agreement, and cooperation, cyberspace can be a safer and mor
 
 To achieve this, Singapore will: Forge international and ASEAN cooperation to counter cyber threats and cybercrime. We will continue working closely with the international community and ASEAN partners to strengthen platforms and procedures for cyber incident reporting and response. We will work with ASEAN Member States to coordinate the regional approach to cybercrime. We will also leverage INTERPOL’s resources to tap the global operational networks and capabilities to tackle cybercrime. Champion international and ASEAN cyber capacity building initiatives in operational, technical, legislative, cyber policy and diplomatic areas. We will partner the international community, Dialogue Partners and ASEAN Member States to organise workshops, seminars and conference that seek to advance cooperation and build capabilities in these aspects . Facilitate exchanges on cyber norms and legislation. We will continue to participate in global and regional discussions on cyber norms, cyber policy and legislation, cyber deterrence, and cybercrime cooperation. We will host an annual Singapore International Cyber Week (SICW) – with the inaugural session in October 2016 – to catalyse, stimulate and promote exchanges on cybersecurity and cybercrime issues.
 
-## FORGE INTERNATIONAL AND ASEAN COOPERATION TO COUNTER CYBER THREATS
-
-## AND CYBERCRIME
+## FORGE INTERNATIONAL AND ASEAN COOPERATION TO COUNTER CYBER THREATS — AND CYBERCRIME
 
 ASEAN Regional Forum Seminar, 2015: “Operationalising Cyber Confidence Building Measures”
 
@@ -912,9 +836,7 @@ The ASEAN CERT Incident Drill (ACID) is an annual exercise aimed at strengthenin
 
 ⁵ Further details on Singapore’s international engagement efforts in dealing with cybercrime are found in the National Cybercrime Action Plan (NCAP), launched by the Ministry of Home Affairs in July 2016. The NCAP is available at www.mha.gov.sg.
 
-## CHAMPION INTERNATIONAL AND ASEAN CYBER CAPACITY
-
-## BUILDING INITIATIVES
+## CHAMPION INTERNATIONAL AND ASEAN CYBER CAPACITY — BUILDING INITIATIVES
 
 Cyber threats are borderless and no country can deal with the rapidly evolving threat landscape alone. Singapore stays committed to build cybersecurity capacity within ASEAN in operational, technical, legislative, cyber policy and diplomatic areas. Singapore will focus on building understanding and raising awareness in these areas, as well as conducting training and exercises to raise capacity.
 
@@ -926,11 +848,7 @@ To do so, Singapore will partner the international community, Dialogue Partners 
 
 15th ASEAN Telecommunications and Information Technology Ministers Meeting and Related Meetings
 
-## FACILITATE INTERNATIONAL
-
-## AND REGIONAL EXCHANGES
-
-## ON CYBER NORMS AND LEGISLATION
+## FACILITATE INTERNATIONAL — AND REGIONAL EXCHANGES — ON CYBER NORMS AND LEGISLATION
 
 GovernmentWare 2015 Conference
 

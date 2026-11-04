@@ -1,8 +1,6 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","New Zealand's Cyber Security Strategy 2026–2030","","",""
-"2","","New Zealand’s Cyber Security Strategy","","",""
-"2","","2026–2030","","",""
-"2","","Embracing cyber security to enable innovation, drive a","","","prosperous economy and protect our digital way of life.
+"2","","New Zealand’s Cyber Security Strategy — 2026–2030","","","Embracing cyber security to enable innovation, drive a prosperous economy and protect our digital way of life.
 
 FEBRUARY 2026 | CYBERSTRATEGY@DPMC.GOVT.NZ
 
@@ -34,8 +32,9 @@ Objective 4: Partner 14
 Glossary 15
 
 New Zealand’s cyber security strategy 2026-2030 | Page 3 of 15"
-"2","","Ministerial foreword","","",""
-"3","","Digital technologies underpin nearly every aspect of our lives and have provided our society and economy with unprecedented opportunities for connection and growth. This connectivity, however, exposes New Zealand","","","to an ever-rising tide of malicious cyber activity.
+"2","","Ministerial foreword","","","Digital technologies underpin nearly every aspect of our lives and have provided our society and economy with unprecedented opportunities for connection and growth. This connectivity, however, exposes New Zealand
+
+to an ever-rising tide of malicious cyber activity.
 
 All New Zealanders need to be able to engage with digital services knowing their data and privacy are protected. New Zealand businesses need to be able to innovate and trade with confidence and our critical infrastructure needs to be resilient.
 
@@ -119,11 +118,10 @@ In April 2023, New Zealand became one of the first countries in the world to imp
 New Zealand’s cyber security strategy 2026-2030 | Page 8 of 15
 
 New Zealand’s cyber security strategy 2026-2030 | Page 9 of 15"
-"2","","Our vision","","",""
-"3","","New Zealanders embrace cyber security to enable innovation,","","","drive a prosperous economy and protect our digital way of life."
-"3","","Our objectives on the path to 2030 are to:","","",""
-"3","","UNDERSTAND","","",""
-"3","","PREVENT & PREPARE","","","We are well aware of cyber risks and know how to protect ourselves
+"2","","Our vision","","","New Zealanders embrace cyber security to enable innovation,
+
+drive a prosperous economy and protect our digital way of life."
+"3","","Our objectives on the path to 2030 are to: — UNDERSTAND — PREVENT & PREPARE","","","We are well aware of cyber risks and know how to protect ourselves
 
 We manage cyber risks to prevent harm and are well-prepared when incidents occur
 
@@ -146,8 +144,7 @@ By 2030 the outcomes we want to achieve are:
 • The development and use of emerging technologies is safe and secure.
 
 • Good cyber security is built into the digital supply chain."
-"3","","RESPOND","","",""
-"3","","PARTNER","","","We react effectively and decisively to adverse cyber incidents
+"3","","RESPOND — PARTNER","","","We react effectively and decisively to adverse cyber incidents
 
 Our resilience to cyber threats is bolstered by strategic and targeted cooperation
 
@@ -177,8 +174,7 @@ Alongside improved reporting, the government will continue information exchanges
 The government will also support critical infrastructure owners and operators by providing tailored guidance on cyber risk. It is imperative that the entities responsible for our essential services have the most comprehensive and practical advice at their disposal to protect against digital disruption. This focused guidance will include assessments, strategies for risk management, and guidance to implement technical controls to protect IT and OT networks. This guidance and best practice information will closely align the New Zealand market with international partners, including Australia, and foster business connections between nations.
 
 New Zealand’s cyber security strategy 2026-2030 | Page 11 of 15"
-"2","Objective 2","Prevent and prepare","objective","",""
-"3","","We manage cyber risks to prevent harm and are well-prepared","","","when incidents occur."
+"2","Objective 2","Prevent and prepare","objective","","We manage cyber risks to prevent harm and are well-prepared when incidents occur."
 "3","","We need to take action","","","Malicious actors are constantly seeking to take advantage of any vulnerability in our networks and systems. While it is critical that we seek to prevent malicious cyber activity, we must also prepare for when things go wrong, to minimise the impact. Often, we will be affected by incidents that we cannot control.
 
 Disruptions to critical infrastructure assets, systems, and networks have a debilitating effect on national security, economic performance, public health, and safety. While the higher risk profile of critical infrastructure is well known, many entities have not consistently managed cyber risk to align with leading practice. Many countries have taken a regulatory approach, with approximately 120 countries globally having some form of critical infrastructure regulation. Improving the cyber resilience of our critical infrastructure will not only protect existing assets and the services they provide but also act as a strategic investment in the country's future resilience, investment attractiveness and economic growth.
@@ -204,8 +200,7 @@ New Zealand’s role as a globally engaged democratic country, with niche streng
 The Government will continue to evolve its capability to detect and disrupt high impact threats, including cybercrime. Immediate steps include our response to the review of the Intelligence and Security Act 2017, which will consider the powers and capabilities of our intelligence and security agencies to proactively disrupt a broader range of cyber threats. These reforms will ensure that our agencies have the legislative powers to respond to adversaries and protect our national interests. The New Zealand Government will continue to work closely with likeminded international partners to respond to and deter malicious state-sponsored cyber activity. When it is in our national interest, this will include public attribution of significant cyber incidents and calling out activity that runs counter to the internationally agreed framework for responsible state behaviour in cyberspace.
 
 New Zealand’s cyber security strategy 2026-2030 | Page 13 of 15"
-"2","Objective 4","Partner","objective","",""
-"3","","Our resilience to cyber threats is bolstered by strategic and","","","targeted cooperation."
+"2","Objective 4","Partner","objective","","Our resilience to cyber threats is bolstered by strategic and targeted cooperation."
 "3","","We need to take action","","","Geostrategic competition is continuing to make New Zealand less safe and secure, including in the cyber domain. Cyber threats are inherently cross-border, meaning all countries are vulnerable to the risks posed by the increasing pace, scale, and impact of cyber attacks. Industry partners, working across a global digital economy and multiple jurisdictions, face the same challenge.
 
 Cooperation with our international partners and industry community is a critical enabler of domestic cyber resilience and a means of promoting New Zealand’s interests in a free, open, secure and global internet. Through our partnerships, we can share best practice, disrupt and deter malicious cyber activity such as cybercrime, and promote our values and interests online. For example, our membership of the international Counter Ransomware Initiative helps collectively build resilience against ransomware attacks. There are, however, several barriers to partnership that need to be resolved to ensure that we can share information freely and quickly enough to take action against cyber threats."

@@ -1,10 +1,6 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Guide to Developing a National Cybersecurity Strategy (2nd Edition, 2021)","","",""
-"2","","Strategic Engagement in Cybersecurity","","",""
-"2","","Guide to Developing a National Cybersecurity","","",""
-"2","","Strategy","","",""
-"2","","2nd Edition 2021","","",""
-"2","","Partners","","","C
+"2","","Strategic Engagement in Cybersecurity — Guide to Developing a National Cybersecurity — 2nd Edition 2021 — Partners","","","C
 
 I
 
@@ -71,8 +67,7 @@ I
 Y
 
 C"
-"2","","Observers","","",""
-"2","","Some Rights Reserved","","","© 2021 International Telecommunication Union (ITU) Place des Nations 1211, Geneva 20 Switzerland
+"2","","Observers — Some Rights Reserved","","","© 2021 International Telecommunication Union (ITU) Place des Nations 1211, Geneva 20 Switzerland
 
 This Guide was developed by twenty partners from Intergovernmental and International Organisations, private sector, as well as academia and civil society and included the following organisations: Council of Europe (CoE), Commonwealth Secretariat (ComSec), Commonwealth Telecommunications Organisation (CTO), Geneva Centre for Security Sector Governance (DCAF), Deloitte, Forum of Incident Response and Security Teams (FIRST), Global Cyber Security Capacity Centre (GCSCC), Geneva Centre for Security Policy (GCSP), Global Partners Digital (GPD), International Criminal Police Organization (INTERPOL), International Telecommunication Union (ITU), Microsoft, NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE), Potomac Institute for Policy Studies (PIPS), RAND Europe, World Bank, United Nations Institute for Disarmament Research (UNIDIR), United Nations Office of Counter-Terrorism (UNOCT), United Nations University (UNU). Axon Partners Group (Axon), the Cyber Readiness Institute (CRI), the Global Forum on Cyber Expertise (GFCE), the Organization of American States (OAS), and the World Economic Forum (WEF) contributed to the Guide as observers. All the above-mentioned entities are hereinafter collectively referred to as “Contributors”."
 "2","","Rights & Permissions","","","This work is available under the Creative Commons Attribution-NonCommercial 3.0 IGO license (CC BY-NC 3.0 IGO) https://creativecommons.org/licenses/by-nc/3.0/igo/. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt this work, for non-commercial purposes, under the following conditions:
@@ -238,8 +233,9 @@ Finally, this Guide offers policy-makers a holistic, high-level overview of exis
 
 In particular, Section 3 addresses the process and aspects related to the development of a National Cybersecurity Strategy (such as preparation, drafting, implementation and long-term sustainability), while Sections 4 and 5 are more focused on the content of a National Cybersecurity Strategy, as they highlight concepts and elements that the document should contain."
 "3","1.4","Target audience","numbered","Section 1","This Guide is first and foremost targeted at policy-makers responsible for developing a National Cybersecurity Strategy. The secondary audience are all other public and private stakeholders involved in the development and implementation of a Strategy, such as responsible government staff, regulatory authorities, law enforcement, ICT providers, critical infrastructure operators, civil society, academia, and research institutions. The Guide could also prove useful to the different stakeholders in the international development community that provide assistance in cybersecurity."
-"2","Section 2","Introduction","section_word","",""
-"2","","Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global","","","economy as a whole.
+"2","Section 2","Introduction","section_word","","Since its creation, Information and Communication Technology has evolved to become the backbone of modern business, critical services and infrastructure, social networks, and the global
+
+economy as a whole.
 
 As a result, national leaders have started to launch digital strategies and to fund projects that increase Internet connectivity and leverage the benefits stemming from the use of ICTs, to stimulate economic growth, to increase productivity and efficiency, to improve service delivery and capacity, to provide access to business and information, to enable e-learning, to enhance workforce skills and to promote good governance. Countries cannot ignore the opportunities associated with becoming connected and participating in the Internet economy.
 
@@ -260,12 +256,23 @@ The need to identify and subsequently prioritise investments and resources is cr
 A National Cybersecurity Strategy also provides the opportunity to align cybersecurity priorities with other ICT-related objectives. Cybersecurity is central to achieving socio-economic objectives of modern economies and the Strategy should reflect how those are supported. This can be done by referencing existing policies that seek to implement a country’s digital or developmental agendas or by assessing how cybersecurity can be incorporated into them.
 
 Finally, a National Cybersecurity Strategy development process should translate a government’s vision into coherent and implementable policies that will help it achieve its objectives. This includes not only the steps, programmes and initiatives that should be put in place, but also the resources allocated for those efforts and how these resources should be used. Similarly, the process should identify the metrics that will be used to help ensure that desired outcomes are achieved within set budgets and timelines."
-"2","Section 3","Lifecycle of a National Cybersecurity Strategy","section_word","",""
-"2","","This Section provides an overview of the various phases in the development of a Strategy, which include:","","","•"
-"3","","Phase I – Initiation","","","•"
-"3","","Phase II – Stocktaking and analysis","","","•"
-"3","","Phase III – Production","","","•"
-"3","","Phase IV – Implementation","","","•"
+"2","Section 3","Lifecycle of a National Cybersecurity Strategy This Section provides an overview of the various phases in the development of a Strategy, which include:","section_word","","•
+
+Phase I – Initiation
+
+•
+
+Phase II – Stocktaking and analysis
+
+•
+
+Phase III – Production
+
+•
+
+Phase IV – Implementation
+
+•"
 "3","","Phase V – Monitoring and evaluation","","","This Section also introduces the key entities that should be involved in the development of the Strategy and highlights other relevant stakeholders that could contribute to the process.
 
 This Section ultimately aims to provide the reader with an understanding of the steps to be taken by a nation in order to draft a National Strategy and the possible mechanisms for its implementation according to the nation’s specific needs and requirements, integrating the overarching principles (described in Section 4) and good practice (described in Section 5).
@@ -519,8 +526,9 @@ The assessment, together with associated recommendations, should be compiled int
 Ultimately, the reports produced over the lifecycle of the Strategy should also form the basis for the overall review of the National Cybersecurity Strategy, in accordance with the timeline set during the initiation phase. This overarching review should not only consider the progress made and the changes in the external environment, but also re-assess the government’s own priorities and objectives.
 
 Further references available on page 57."
-"2","Section 4","Overarching Principles","section_word","",""
-"2","","This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National","","","Cybersecurity Strategy.
+"2","Section 4","Overarching Principles","section_word","","This Section presents nine cross-cutting principles, which taken together can help in the development of a forward-looking and holistic National
+
+Cybersecurity Strategy.
 
 These principles are applicable to all key focus areas identified in this document. They should be considered in all steps of a National Strategy development process, from the drafting of the National Strategy document to its implementation.
 
@@ -592,8 +600,7 @@ The Strategy should help build a digital environment that citizens and organisat
 "3","4.9","Trust environment","numbered","Section 4","Building trust in the national digital ecosystem, in which users’ rights and interests are protected and security of data and systems is assured, is essential to realise the full potential of the social, political, and economic opportunities offered by the use of ICTs. The Strategy must enable policies, processes, and actions at the national level in order to render secure critical services (including e-governance, e-commerce, digital financial transactions, tele-medicine, among others) supported by ICTs and utilised by citizens. Such course of actions would inculcate the principle of trust not only among the general population but also within those public and private organisations that will offer their ICT-related services to citizens.
 
 Further references available on page 63."
-"2","Section 5","National Cybersecurity Strategy Good Practice","section_word","",""
-"2","","Cybersecurity affects many areas of socio-economic development and is influenced by several factors","","","within the national context.
+"2","Section 5","National Cybersecurity Strategy Good Practice","section_word","","Cybersecurity affects many areas of socio-economic development and is influenced by several factors within the national context.
 
 Therefore, this Section introduces a set of good-practice elements that can make the Strategy comprehensive and effective, while allowing for tailoring to the national context.
 
@@ -884,9 +891,7 @@ The Strategy should encourage the development of cyber-law-enforcement capacity,
 The Strategy should identify and recognise the mandates of domestic agencies with the primary authority to ensure compliance with cybercrime legislation (primarily criminal justice authorities and forensic services), those responsible for prevention of and response to cyber incidents that raise to the national level (including protection of critical information infrastructures), and those
 
 responsible for ensuring that all international cybercrime requirements are being met (e.g., ensure that national laws comply with international treaty obligations) and across judicial lines (e.g., cross-border cooperation) (see also Section 5.1.3 and 5.1.4; and Section 5.6.6)."
-"3","5.6.7","Support international cooperation to combat cyber threats and","numbered","","cybercrime
-
-The Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition.
+"3","5.6.7","Support international cooperation to combat cyber threats and cybercrime","numbered","","The Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition.
 
 Also, the Strategy should recognize the importance of building informal mechanisms that enable trusted cooperation and cross-border exchange of information, intelligence, and technical support between cybersecurity actors in both public and private sector.
 
@@ -934,8 +939,7 @@ The Strategy should consider existing regional and international cybersecurity i
 The Strategy should encourage peer-learning and the transfer of cybersecurity knowledge and skills with international partners. Furthermore, participation in international events and cybersecurity exercises can provide both means for cybersecurity capacity building and for building trust and fostering international cooperation.
 
 Further references available on page 71."
-"2","Section 6","Reference Materials","section_word","",""
-"2","","In the process of developing this Guide, a stocktaking of existing guides and best practices","","","was conducted.
+"2","Section 6","Reference Materials","section_word","","In the process of developing this Guide, a stocktaking of existing guides and best practices was conducted.
 
 This allowed us to identify materials already available to support countries in developing their National Cybersecurity Strategy. The list below provides a comprehensive catalogue of the abovementioned materials, including web links."
 "2","","NCS Lifecycle","","","Initiation

@@ -42,14 +42,6 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "National AI Strategy 2.0",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
     "section_name": "Our Vision and Goals",
     "id_kind": "",
     "parent_id": "",
@@ -66,15 +58,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "SYSTEM 1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Activity Drivers",
+    "section_name": "SYSTEM 1: Activity Drivers",
     "id_kind": "",
     "parent_id": "",
     "body": "Industry, Government, and Research drive AI activity, from basic science to product\n\nR&D and adoption. Together, they help Singapore leverage the rapid innovation\n\ncycles in AI for the economy and our society.\n\nSingapore has built up a strong and promising base of AI capabilities, which we\n\nshould harness to significantly uplift the broader ecosystem. We will encourage\n\ngreater experimentation and collaboration, focusing on interesting and impactful\n\nchallenges, to reap greater benefits from AI."
@@ -82,15 +66,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "AI Trailblazers",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "AI Trailblazers — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "In July 2023, the Ministry of Communications and Information (MCI), Digital Industry\n\nSingapore (DISG), Smart Nation and Digital Government Office (SNDGO), together with\n\nGoogle Cloud, launched AI Trailblazers. This rapid prototyping initiative was a world’s\n\nfirst, giving businesses and government agencies free access to Google Cloud’s AI toolsets\n\nfor up to three months, with the aim of generating 100 Generative AI use cases in 100\n\ndays, across the private and public sectors.\n\nBy working with the best-in-class to provide\n\nan innovation sandbox for AI development,\n\nSingapore was not only able to spark more\n\nexperimentation, but also gave many more\n\nbusiness owners the confidence to invest\n\nfurther resources once they were able to see\n\nthe potential of AI in delivering their business\n\nobjectives.\n\nMrs. Josephine Teo, Minister for Communications and Information, at the launch event for the AI Trailblazers initiative at the Google Asia Pacific campus.\n\nWe shall steer AI toward developing select peaks of excellence, which can deliver\n\noutsized impact to Singapore and the lives of Singaporeans.\n\n▶ AI in Domains. We will encourage AI innovation and adoption in key domains,\n\nincluding:\n\n◼ Leading Economic Sectors, which form a sizeable share of Singapore’s real\n\nGross Domestic Product (GDP) and for which AI innovation could catalyse\n\nthe next bound of economic growth. Examples include Manufacturing,\n\nFinancial Services, Transport & Logistics, and Biomedical Sciences.\n\n◼ Smart Nation Priorities, where AI assists our national development,\n\nand unlocks new value propositions for social impact. These include\n\nHealthcare, Education & Manpower, Trust & Safety, and Public Service\n\nDelivery.\n\n▶ Cross-cutting Capabilities. We will invest in cross-cutting areas that can\n\naccelerate the development and deployment of AI solutions across all\n\ndomains, including:\n\n◼ AI for Business Operations, where AI can optimise and transform business\n\nfunctions (e.g. customer relationship management, finance, human\n\nresources, legal, sales and marketing, and supply chain management).\n\n◼ AI for Science, where the use of AI can accelerate research productivity\n\nacross scientific domains (e.g. drug discovery).\n\n◼ Foundational AI, where scientific advancements are still needed to\n\nimprove AI’s abilities. For a start, we will double down on three specific\n\nthemes – Reasoning AI, Resource-Efficient AI, and Responsible AI3 – with\n\na view to making AI less costly, more widely-used, and most importantly,\n\ntrusted.\n\n3 Reasoning AI improves AI systems’ ability to understand logical and physical concepts, and explain their output; Resource-efficient AI can help reduce AI’s growing reliance on data and compute, while still ensuring performance gains; Responsible AI is critical to mitigate the risks of\n\nAI and ensure that AI is trustworthy, safe, and secure.\n\n* E.g. customer relationship management, finance, human resources, legal, sales and marketing, and supply chain."
@@ -109,28 +85,12 @@
     "section_name": "Action 1",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Anchor new AI Centres of Excellence (CoEs) across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "We will attract and anchor new AI CoEs in Singapore-based companies that are\n\nleading-edge producers (e.g. technology companies, start-ups) and sophisticated\n\nend-users, in order to conduct value creation activities across the AI stack. These\n\nAI CoEs will (a) concentrate and deepen companies’ innovation capabilities across\n\nthe AI stack; (b) own core AI product charters and functions; and (c) align with\n\nthe peaks of excellence that Singapore aims to build. Their roles could include\n\ncreating new intellectual property, products, and services, beyond optimising\n\nbusiness processes.\n\nIn addition, we will explore establishing a new model of Sectoral AI CoEs to\n\nintensify sophisticated AI value creation and usage in selected economic sectors.\n\nWe will work with Industry Champions4 to identify sector use cases and crowd in\n\na broader base of researchers and companies in the sector.\n\n4 Industry Champions refer to enterprise leaders that can form lead demand for AI solutions, boost their sector’s competitiveness, uplift the capabilities of their supply chains, and generate\n\nspin-offs for the broader sector ecosystem."
+    "body": "Anchor new AI Centres of Excellence (CoEs) across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors\n\nWe will attract and anchor new AI CoEs in Singapore-based companies that are\n\nleading-edge producers (e.g. technology companies, start-ups) and sophisticated\n\nend-users, in order to conduct value creation activities across the AI stack. These\n\nAI CoEs will (a) concentrate and deepen companies’ innovation capabilities across\n\nthe AI stack; (b) own core AI product charters and functions; and (c) align with\n\nthe peaks of excellence that Singapore aims to build. Their roles could include\n\ncreating new intellectual property, products, and services, beyond optimising\n\nbusiness processes.\n\nIn addition, we will explore establishing a new model of Sectoral AI CoEs to\n\nintensify sophisticated AI value creation and usage in selected economic sectors.\n\nWe will work with Industry Champions4 to identify sector use cases and crowd in\n\na broader base of researchers and companies in the sector.\n\n4 Industry Champions refer to enterprise leaders that can form lead demand for AI solutions, boost their sector’s competitiveness, uplift the capabilities of their supply chains, and generate\n\nspin-offs for the broader sector ecosystem."
   },
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "American Express Decision Science CoE",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "American Express Decision Science CoE — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "In December 2022, American Express set up a Decision\n\nScience CoE in Singapore focusing on data science\n\napplications in the areas of credit and fraud risk model\n\ndevelopment using AI, Machine Learning (ML), and\n\nnatural language processing (NLP). American Express\n\nexpanded the CoE in November 2023 to also use AI and\n\nML to optimise its customer marketing and service, and\n\ncreate personalised and relevant experiences across\n\nJacqueline Poh, Managing Director, Economic Development Board (EDB) and Anna Marrs, Group President, Global Commercial Services and Credit & Fraud Risk, American Express at the official opening of the American Express Decision Science Center of Excellence. (Photo credit: American Express)\n\ndigital channels. The CoE will also create a Generative\n\nAI R&D practice focused on new AI applications for\n\nservicing, risk, and technology."
@@ -138,15 +98,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Strengthen our AI start-up ecosystem, including attracting AI-focused accelerator programmes to spur rapid AI experimentation",
+    "section_name": "Action 2: Strengthen our AI start-up ecosystem, including attracting AI-focused accelerator programmes to spur rapid AI experimentation",
     "id_kind": "",
     "parent_id": "",
     "body": "In concert with private sector partners, we will strengthen the AI start-up\n\necosystem along several pillars. This includes attracting more venture builders\n\nand developing more accelerator programmes. We want to speed up AI value\n\ndiscovery across industry, and nurture a pipeline of disruptive, AI-native start-ups.\n\nThese accelerator programmes could be led by a mix of big technology companies\n\nand venture capital firms. They will provide the capital, business and technical\n\nexpertise, infrastructure, and market networks to spur rapid AI experimentation.\n\nWe will nurture globally-oriented AI innovators to create intellectual property\n\nand scale to more markets."
@@ -162,15 +114,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "OneService Chatbot",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "OneService Chatbot — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "The Municipal Services Office and the Government Technology Agency (GovTech) launched\n\nthe OneService chatbot to enable citizens to lodge complaints and provide information\n\non them via commonly used social messaging apps (i.e. WhatsApp and Telegram).\n\nPowered by AI, the chatbot can (a) automatically identify and classify complaints into the\n\nappropriate category (e.g. litter, illegal parking), (b) extract the relevant details of the\n\nincident that need attention, and (c) identify and inform the relevant Government agency\n\nto follow up on the case.\n\nWith this, citizens can easily provide municipal feedback without having to figure out\n\nwhich agency they should contact. Agencies can also attend to cases more quickly.\n\nWe also recognise the positive spin-offs from such efforts. These include providing\n\nlead demand for commercial AI tools, demonstrating AI-led transformation for\n\nthe rest of the economy and society, spurring private sector investment in AI, and\n\nmainstreaming AI adoption.\n\nFor the Government to better harness AI, we need to:\n\n▶ Develop, deploy, and integrate more useful and powerful AI-enabled products.\n\nThese include customised or commercial off-the-shelf solutions. They can\n\nsupport the Government’s needs, both general (e.g. smart transcription\n\ntools for citizen support services) and specialised (e.g. detecting anomalies\n\nin financial statements and transactions to assist anti-money laundering\n\nefforts).\n\n▶ Drive mass awareness and adoption of AI across the Public Service. This\n\nwill encourage public officers to use AI-enabled products and services\n\nconfidently, for more efficient and effective public service delivery.\n\n▶ Work with industry and the public to better identify use cases and address\n\npain points using AI. This can be done through well-structured ideathons,\n\nhackathons, and incubator programmes."
@@ -178,15 +122,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Pair",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "Pair — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "Pair is a Large Language Model (LLM)-powered suite of tools for Government officers\n\nthat allows the safe and secure use of LLMs within the Government’s IT systems. Its base\n\ncapabilities include ideation, drafting, text and natural language processing, coding, and\n\ndata analysis, making it a versatile tool for various tasks that public officers commonly\n\nundertake.\n\nPair Chat is the first application to be developed within the suite. It functions on a\n\nquestion-and-answer format, powered by the same LLMs underlying ChatGPT. Thousands\n\nof public servants regularly access Pair Chat to increase their productivity at work."
@@ -194,15 +130,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 3",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Improve Public Service productivity, with new value propositions for our citizens",
+    "section_name": "Action 3: Improve Public Service productivity, with new value propositions for our citizens",
     "id_kind": "",
     "parent_id": "",
     "body": "The Government will accelerate public sector adoption of AI to unlock new value\n\npropositions for our people and businesses. This will take place at two levels:\n\n▶ Smart Nation Priorities. Government agencies equipped with the specialised\n\nknowledge, technical capabilities, and regulatory tools for these domains\n\n(e.g. Healthcare and Education) will develop and lead sector-specific AI\n\nstrategies, to address the needs and challenges of these domains.\n\n▶ Whole-of-Government functional domains. These include Finance, Human\n\nResources, and Service Delivery, which are key to transforming government\n\nprocesses and services for the better. All Government agencies that lead\n\nsuch functions will identify and optimise specific business lines with AI, and\n\nbuild internal capabilities to deliver business outcomes.\n\nThe Government will coordinate the resources needed to support public sector AI\n\nadoption. For example, through central funding to support or scale-up novel and\n\nimpactful use cases, facilitating cross-agency data sharing, providing access to\n\nhigh-performance compute and associated engineering capabilities (e.g. through\n\nAI Trailblazers), and issuing facilitative policy guidelines.\n\nWe will also uplift the AI literacy baseline and sharpen the AI proficiency of all\n\npublic officers. We will develop and roll out targeted courses to impart AI skills,\n\nfor different public sector workforce segments (e.g. senior management, policy,\n\nand operational roles)."
@@ -218,15 +146,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 4",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Update national AI R&D plans to sustain leadership in select research areas",
+    "section_name": "Action 4: Update national AI R&D plans to sustain leadership in select research areas",
     "id_kind": "",
     "parent_id": "",
     "body": "We intend to update our national AI R&D plans in five ways: Research Priorities,\n\nIndustry-Academia Nexus, Talent, Compute, and International Collaborations.\n\n▶ Research Priorities. To optimise our limited resources for impact, we will\n\nbe selective in our AI research priorities, and align them to the peaks of\n\nexcellence that Singapore hopes to build.\n\n▶ Industry-Academia Nexus. We will foster more R&D collaboration between\n\nacademia and industry, capitalising on the growing porosity of talent and\n\ninnovation activities across the two spheres."
@@ -234,15 +154,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "AISG’s 100 Experiments programme",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "AISG’s 100 Experiments programme — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "100 Experiments (100E) is AISG’s flagship programme, aimed at solving AI problem\n\nstatements proposed by industry where no commercial off-the-shelf AI solutions exist.\n\nAs part of this, AISG helps pair companies with public researchers to develop AI solutions\n\nthat address the former’s problem statement, and provides co-funding of up to S$330,000\n\nper project.\n\nSeveral companies, from a range of sectors, have participated in the 100E programme.\n\nOne example is Q&M Dental Group’s EM2AI, which worked with AISG to create an AI model\n\nthat helps dentists review X-ray images to detect disease, present findings as dental\n\ncharts, and recommend appropriate treatment plans. Q&M Dental Group has deployed\n\nthis model across more than 150 clinics in Singapore and Malaysia.\n\nAnother example is Tencent’s Lightspeed Studios, a globally-leading game developer that\n\npublished games like PUBG Mobile. Under the project, Lightspeed Studios partnered AISG\n\nto develop a text-to-speech system to support the narration of game storylines, so that\n\ngamers who speak Malay can experience the games in their native language.\n\nThrough 100E, Q&M Dental Group’s EM2AI has developed an AI model that helps dentists, and has deployed this across its clinics in Singapore and Malaysia. (Photo credit: Q&M Dental Group)\n\nThrough 100E, LightSpeed Studios is partnering with AISG to develop a new text-to-speech system for gamers.\n\n▶ Talent. We will strengthen efforts to recruit top AI researchers to work from\n\nand with Singapore (see Action 5).\n\n▶ Compute. We will secure access, and operate Graphics Processing Units (GPUs)\n\nfor Singapore’s research community. This will also build up Singapore’s\n\ninfrastructure engineering expertise.\n\n▶ International Collaboration. We will expand international research\n\ncollaboration in areas aligned with our research priorities. This could take\n\nthe form of joint grant calls or PhD training programmes with other countries,\n\nor involvement in international conferences. This will allow Singapore to\n\nlevel up our current capabilities by working with the best in the world and\n\nmake a meaningful contribution to global AI development."
@@ -250,15 +162,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Feature Story",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Singapore-Republic of Korea Joint Grant Call for AI Research",
+    "section_name": "Feature Story — Singapore-Republic of Korea Joint Grant Call for AI Research",
     "id_kind": "",
     "parent_id": "",
     "body": "In February 2023, AISG and the Republic of Korea (ROK)’s Institute for Information &\n\nCommunication Technology Planning and Evaluation (IITP) launched a joint grant call to\n\nfund research on AI-based net-zero energy building management optimisation systems.\n\nThis grant call supported a research project between Nanyang Technological University\n\nand Korea University, to study AI-based energy management and optimisation frameworks,\n\nto enhance the energy efficiency of Heating, Ventilation, and Air Conditioning (HVAC)\n\nsystems. The project also drew in industry partners from both countries."
@@ -266,15 +170,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Singapore Conference on AI",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "Singapore Conference on AI — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "In December 2023, MCI and Smart Nation Group convened the inaugural Singapore\n\nConference on AI (SCAI), to bring together a select group of top AI researchers to discuss\n\nand articulate the top research problems of AI research, development, and deployment\n\nthat, if solved, would allow humans and society to flourish.\n\nOver 40 local and overseas experts from academia, non-profit, industry and government gathered in Singapore for SCAI.\n\nSCAI participants identifying a list of critical questions that need to be addressed to realise AI’s full potential."
@@ -282,15 +178,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "SYSTEM 2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "People & Communities",
+    "section_name": "SYSTEM 2: People & Communities",
     "id_kind": "",
     "parent_id": "",
     "body": "Tight-knit knowledge communities are critical for AI innovation, driving the\n\nexchange of ideas and expertise for research, product development, and\n\nthe impactful use of AI. Singapore must be home to exemplary AI Creators,\n\nPractitioners, and Users. We must:\n\n▶ Attract, anchor, and develop more AI Creators (top-tier AI talent) from industry\n\nand academia to work with and from Singapore, to generate cutting-edge AI\n\nresearch and drive novel use cases.\n\n▶ Increase the number of AI Practitioners (tech workers) with the skillsets\n\nto create, implement and deploy AI systems, models, and algorithms in\n\norganisations, at scale.\n\n▶ Build up a base of confident AI Users (enterprises and general workforce)\n\nthat are equipped to use AI-powered products and services to increase\n\nproductivity, and pursue better jobs and more impactful work.\n\n▶ Accelerate the exchange of ideas, both within our local AI community of\n\nCreators, Practitioners, and Users, and across global networks."
@@ -306,15 +194,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 5",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Attract world’s top AI Creators to work from and with Singapore",
+    "section_name": "Action 5: Attract world’s top AI Creators to work from and with Singapore",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will engage and attract world-class AI Creators, from both the public\n\nresearch and industry spheres, to deepen their innovation activities here. We will:\n\n▶ Set up a dedicated team to identify, engage, and anchor AI Creators. This team\n\nwill be the primary interface to facilitate the integration of AI Creators into\n\nthe Singapore ecosystem, including through bespoke support mechanisms.\n\n▶ Create novel value propositions to attract AI Creators. We will intensify\n\nlocal AI development activities and induct international experts into our\n\nAI ecosystem to create the building blocks for success. We will explore\n\npossible modalities for doing so, such as hybrid Singapore-overseas working\n\narrangements, part-time appointments across industry and academia, and\n\npartnerships with international research institutions or companies."
@@ -322,15 +202,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 6",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Boost AI Practitioner pool to 15,000",
+    "section_name": "Action 6: Boost AI Practitioner pool to 15,000",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will boost the pool of AI Practitioners to support growing AI demand,\n\nby:\n\n▶ Scaling up AI-specific training programmes. We will re-design the AI\n\nApprenticeship Programme (AIAP)5 to significantly increase the number of\n\napprentices we can train annually. We will also work with industry AI product\n\ndevelopment teams to expand the number of company attachments for our\n\nContinuing Education and Training programmes.\n\n▶ Scaling up technology and AI talent pipelines, through Pre-Employment\n\nTraining and by reskilling and upskilling workers through Continuing\n\nEducation and Training.\n\n▶ Remaining open to global tech talent. We will continue to welcome global AI\n\ntalent to work and live in Singapore, and contribute to our national efforts.\n\n5 The AIAP is currently designed as a 9-month, full-time, deep-skilling company-led training programme, that helps trainees acquire AI capabilities by working alongside industry teams on\n\nreal business problems."
@@ -338,15 +210,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "TechSkills Accelerator",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "TechSkills Accelerator — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "Driven by IMDA, in collaboration with industry, SkillsFuture Singapore (SSG), Workforce\n\nSingapore (WSG), and the National Trades Union Congress (NTUC), the TechSkills Accelerator\n\n(TeSA) aims to build and develop a skilled Information and Communications Technology\n\nworkforce, which includes AI talent. Through Company-Led Training Programmes and\n\nCareer Conversion Programmes, amongst others, TeSA has partnered industry to train\n\nindividuals in AI and Data Analytics, with more than 2,700 individuals placed in good jobs\n\nthus far."
@@ -362,15 +226,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 7",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Intensify enterprise AI adoption for industry transformation",
+    "section_name": "Action 7: Intensify enterprise AI adoption for industry transformation",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will intensify the promotion of AI adoption across all enterprises.\n\n▶ We have made available tools that enterprises can use to evaluate their\n\nreadiness to adopt AI. For example, self-assessment tools like AISG’s AI\n\nReadiness Index (AIRI) are useful in helping companies identify and map out\n\nthe capabilities and infrastructure they need for using AI.\n\n▶ We will promote baseline digital adoption for our enterprises and enhance\n\nthe enterprise digitalisation toolkit, to support more sophisticated AI\n\nadoption. Businesses’ first interactions with AI often happen through their\n\nexisting enterprise solutions. Only after they have had the foundational\n\ncapabilities in place, and are convinced of AI’s benefits, do they then turn\n\nto more advanced or bespoke AI business solutions. Through programmes\n\nlike SMEs Go Digital and CTO-as-a-Service (CTOaaS), the Government has\n\nhelped businesses gain awareness of suitable AI-enabled solutions. We have\n\nalso encouraged the adoption of sector-relevant AI solutions, through our\n\nrefreshed Industry Digital Plans (IDPs).\n\n▶ For more digitally mature enterprises, we will provide tailored support for\n\nAI-enabled business transformation. This includes leveraging IMDA and\n\nEnterpriseSG’s Digital Leaders Programme (DLP), which helps companies\n\nbuild in-house digital capabilities, as well as the scoping of impactful AI\n\nprojects in partnership with AI solution providers."
@@ -378,15 +234,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 8",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Upskill workforce through sector-specific AI training programmes",
+    "section_name": "Action 8: Upskill workforce through sector-specific AI training programmes",
     "id_kind": "",
     "parent_id": "",
     "body": "To help workers acquire the necessary skillsets to work with AI, Industry\n\nTransformation Map (ITM)6 Sector Leads will develop targeted interventions\n\nfor their sectoral workforce. AI has multiple applications in different contexts,\n\nand ITM Sector Leads are best placed to size the potential impact of AI on their\n\nrespective industries, and by extension their workforce. Sector Leads can ride\n\non existing frameworks like the Jobs Transformation Maps (JTMs) to identify the\n\nrelevant skillsets needed, and develop appropriate training programmes for AI\n\nupskilling and reskilling.\n\n6 ITMs are roadmaps developed for 23 industries under six clusters to systematically raise productivity, develop skills, drive innovation, and promote internationalisation, so as to catalyse\n\ntransformation. ITMs will be refined over time to ensure relevance."
@@ -394,15 +242,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Jobs Transformation Maps",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "Jobs Transformation Maps — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "JTMs provide detailed insights on the impact of technology and automation on sectors\n\nand their workforce. They identify key technologies that are driving change, and their\n\nimpact on individual job roles. As existing job roles evolve and new job roles emerge, JTMs\n\nalso identify the pathways for employers to transform jobs and for workers to acquire\n\nrequisite skills. JTMs serve as a useful compass for employers and workers to prepare\n\nthemselves for the future of work as technology becomes more pervasive in their sectors.\n\nOne example is the Financial Services JTM, which studied the impact of AI, advanced\n\nanalytics, and automation on jobs and skills in the Financial Services sector in 2019. The\n\nJTM helped prioritise the industry’s efforts to reskill and redeploy employees in segments\n\nthat were identified as likely to experience significant changes, such as consumer banking,\n\ninsurance, and operations.\n\nMAS and the Institute of Banking & Finance, with support from WSG, will be studying how\n\nGenerative AI will transform the financial sector, including where Generative AI might be\n\ndeployed, and by when. This will further inform our understanding of how Generative AI\n\nwill impact jobs in the sector, and provide advice on how the workforce should upskill and\n\nreskill to perform new and augmented roles."
@@ -418,15 +258,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 9",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Establish an iconic AI site to co-locate AI creators and practitioners, and nurture the AI community in Singapore",
+    "section_name": "Action 9: Establish an iconic AI site to co-locate AI creators and practitioners, and nurture the AI community in Singapore",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will establish a dedicated physical place for AI in Singapore. This will\n\nbe a focal point for our community of AI Creators and Practitioners to form new\n\nconnections and spark new ideas:\n\n▶ This place will serve as an intellectual home for both Singapore-based\n\nindividuals and visiting colleagues. We will welcome entrepreneurs,\n\nresearchers, engineers, apprentices, and students, who are passionate about\n\nAI and share our mission orientation, to this place. There, we will include a\n\nvariety of purpose-built spaces aimed at building up a sense of community\n\nand accelerating the exchange of ideas. We will co-create this place in close\n\nconsultation with AI ecosystem representatives."
@@ -450,15 +282,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "SYSTEM 3",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Infrastructure & Environment",
+    "section_name": "SYSTEM 3: Infrastructure & Environment",
     "id_kind": "",
     "parent_id": "",
     "body": "Successful AI value creation requires robust and conducive infrastructure and a\n\nfacilitative environment, where all stages of the AI life cycle are well supported,\n\nand everything works the way it should.\n\nFor Singapore, this will involve:\n\n▶ Availing compute and data for AI innovation. These are important building\n\nblocks to serve our AI ambitions.\n\n▶ A trusted environment where AI-enabled innovations and systems are robust\n\nand safe, so that our people can engage with AI with confidence.\n\n▶ Safeguarding Singapore’s AI interests in the international arena. We hope to\n\nparticipate in shaping the international rules of the road that are emerging\n\naround AI."
@@ -474,15 +298,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 10",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Significantly increase high-performance compute available in Singapore",
+    "section_name": "Action 10: Significantly increase high-performance compute available in Singapore",
     "id_kind": "",
     "parent_id": "",
     "body": "We will actively crowd in a significant amount of compute to Singapore to support\n\nour growing AI needs, especially in areas of national interest. To this end, we will:\n\n▶ Deepen our substantive partnerships with major compute players, ranging\n\nfrom chipmakers to Cloud Service Providers (CSPs), to secure local access to\n\ncompute capacity.\n\n▶ Support Singapore-based compute with the required resource envelope.\n\nWe will ensure that there is sufficient carbon budget and power allocated\n\nto support data centres, that house GPUs or their equivalents, to process\n\nAI workloads in the near term. In the medium to longer term, we will chart\n\na roadmap towards the growth of net-zero, green data centres that are\n\npowered by renewable energy. This includes continued collaborations with\n\nindustry on innovative proposals to push the sustainability envelope.\n\n▶ Manage a small subset of Singapore-based GPUs or their equivalent, to\n\nsupport meritorious use cases for capability building, innovation, and the\n\nPublic Good."
@@ -498,15 +314,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 11",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Build capabilities in data services and Privacy- Enhancing Technologies",
+    "section_name": "Action 11: Build capabilities in data services and Privacy- Enhancing Technologies",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will build up our data management capabilities so that more of us\n\ncan store, manage, share, and govern the data that we have, enabling us to draw\n\nnew insights and uncover more value. To do so, we will need to harness new\n\ntechnologies that will enable safe and trusted data sharing, and grow more\n\ncapabilities to do so at scale.\n\n▶ We will develop capabilities in PETs. PETs enable businesses to access other\n\ndatasets in a privacy-preserving manner, hence extending the pool of data\n\nfrom which they can derive insights. The Government will support research\n\nand development for PETs, especially in targeted areas like synthetic\n\ndata generation, data annotation, federated learning, and homomorphic\n\nencryption, and expand practical measures like regulatory sandboxes and\n\nguidelines to promote experimentation with PETs."
@@ -514,15 +322,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "PET Sandbox",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "PET Sandbox — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "To facilitate industry experimentation with PETs, IMDA launched Singapore’s first PET\n\nSandbox in July 2022, to provide opportunities for companies to work with trusted PET\n\nsolution providers to develop use cases and pilot PETs. This recognises that PETs are still\n\nin their infancy, and there is much to learn about using them in a real-world environment.\n\nThe PET Sandbox matchmakes use case owners to a panel of PET digital solution providers,\n\nprovides grant support to user companies to scope and implement pilot projects, and\n\nprovides regulatory support to ensure that the deployment of PETs meets compliance\n\nguidelines."
@@ -530,15 +330,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 12",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Unlock Government data for use cases that serve the Public Good",
+    "section_name": "Action 12: Unlock Government data for use cases that serve the Public Good",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore will selectively unlock more public sector data for AI development\n\nthat serves the Public Good. We will assess the feasibility of setting up a “data\n\nconcierge” within the Government, to engage AI Activity Drivers and Creators,\n\nand identify and facilitate access to the datasets that they require for their AI\n\ndevelopment activities.\n\n▶ For public sector datasets, the data concierge will help AI Activity Drivers and\n\nCreators discover and obtain access to appropriate public sector datasets.\n\nWhere these are not already open-access, the data concierge will help unlock\n\nclosed datasets through brokering data sharing agreements. It could also\n\nwork upstream with agencies to collect data based on the client’s needs.\n\nThis will be underpinned by a data-sharing evaluation framework that takes\n\nthe “Public Good” dimension into account.\n\n▶ For private sector datasets, the Government can consider stepping in for\n\nselected high-value use cases where we can play a catalytic role. In such\n\ncases, the data concierge can explore facilitating handshakes between\n\nprivate industry entities as a trusted intermediary, to aggregate and produce\n\ndata derivatives.\n\nWe will continue our thought leadership around the progressive use of data\n\nfor AI development, such as advocating for trusted cross-border data flows and\n\nproviding guidelines to businesses to educate and facilitate greater data use."
@@ -554,15 +346,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 13",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Ensure fit-for-purpose regulatory environment for AI",
+    "section_name": "Action 13: Ensure fit-for-purpose regulatory environment for AI",
     "id_kind": "",
     "parent_id": "",
     "body": "The Government will continue to maintain a regulatory environment for AI that is\n\npro-innovation while ensuring appropriate guardrails. We will:\n\n▶ Update AI governance frameworks to address novel risks. We will regularly\n\nreview and adjust frameworks like the Model AI Governance Framework\n\nand AI Verify to reflect emerging principles, concerns, and technological\n\ndevelopments (e.g. Generative AI). As part of this, it will be important to\n\nestablish clear responsibilities for actors across the AI supply chain. This\n\nbaseline guidance will give clarity to AI developers and users on how to be\n\nresponsible in the design and use of AI."
@@ -570,15 +354,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "AI Verify",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "AI Verify — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "AI Verify is an AI governance testing framework and software toolkit developed by IMDA.\n\nThe testing framework consists of 11 AI ethics principles which are consistent with\n\ninternationally recognised frameworks around the world. AI Verify helps organisations\n\nvalidate the performance of their AI systems against these principles through standardised\n\ntests. IMDA first released AI Verify in May 2022 for an international pilot.\n\nIn June 2023, IMDA also set up the AI Verify Foundation to harness the collective power\n\nand contributions of the global open-source community, in developing AI Verify testing\n\ntools. The not-for-profit Foundation will boost AI testing capabilities and assurance to\n\nmeet the needs of companies and regulators globally.\n\nSince its launch in June 2023, the AI Verify Foundation has grown to have over 90 corporate members, who work to de­ velop AI testing tools to enable responsible AI.\n\n▶ Continue working with partners on R&D, particularly around alignment\n\nand evaluations. We will work with partners to translate guidelines into\n\nappropriate technical standards, tools, and services that can be practically\n\napplied. These will also be supported by policy measures including regulatory\n\nsandboxes, pilots for solutions such as watermarking and model cards,\n\nand capability development to nurture a domestic Testing, Inspection, and\n\nCertification (TIC) sector.\n\n▶ Design interventions that are risk-based, tiered, and adapted for specific\n\nvertical sectors and horizontal applications. This recognises that every use\n\ncase carries a different set of considerations and risks, and would therefore\n\nrequire different risk thresholds and context-specific risk management\n\napproaches. For instance, using AI to improve the user experience for video\n\ngames would differ considerably from a use case where AI assists hiring\n\nmanagers in selecting potential candidates. To ensure coherence with our\n\nnational position on AI governance, the Government will also establish a\n\ncommon platform for regulatory agencies to coordinate on AI developments\n\nin their sectors, and share best practices when governing AI.\n\n▶ Consider updates to broader standards and laws to support effective AI use.\n\n▶ Contribute actively to international discourse on AI governance, to raise\n\ncapacity, share best practices, and shape rules around AI, together with the\n\ninternational community."
@@ -586,15 +362,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "UN High-Level Advisory Body on AI",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "UN High-Level Advisory Body on AI — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "In October 2023, the UN Secretary-General announced the creation of a new multi-\n\nstakeholder High-Level Advisory Body (HLAB) on the risks, opportunities, and international\n\ngovernance of AI. The HLAB comprises 39 experts from across UN Member States, and it\n\nwill support the international community’s efforts to govern AI. Dr He Ruimin, the Chief AI\n\nOfficer and Deputy Chief Digital Technology Officer of the Government of Singapore, has\n\nbeen selected as one of the members of the HLAB."
@@ -602,15 +370,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 14",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Raise security and resilience baseline for AI",
+    "section_name": "Action 14: Raise security and resilience baseline for AI",
     "id_kind": "",
     "parent_id": "",
     "body": "The Government will also elevate the security and resilience baseline for all\n\nsystem owners using AI.\n\n▶ In the short term, we will work with partners to update cybersecurity\n\ntoolkits for enterprises and individual users, to address AI-related risks.\n\nThese include advisories and actionable guidelines on how system owners\n\ncan augment their cybersecurity foundations to enable secure AI adoption.\n\n▶ In the longer term, we will also coordinate efforts to share best practices and\n\nensure alignment to improve AI security, including through the development\n\nof standards and solutions for AI security. This will involve working with the\n\nprivate sector to co-create technical guidelines and solutions to secure AI use\n\ncases, and to leverage crowdsourcing initiatives to evaluate risks to AI (e.g.\n\njoint red teams to test AI systems). Such close partnerships with the private\n\nsector, including on capacity building and public education programmes,\n\nwill raise baseline AI security capabilities across the ecosystem."
@@ -626,15 +386,7 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Action 15",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance",
+    "section_name": "Action 15: Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance",
     "id_kind": "",
     "parent_id": "",
     "body": "Singapore is committed to being a serious and reliable international partner on\n\nAI. This is important for sustaining our international position as a trusted hub.\n\nWe will:\n\n▶ Continue to grow Singapore’s international networks with key partner\n\ncountries and leading AI companies.\n\n▶ Increase international mindshare in practical and risk-based approaches to\n\nAI. Singapore has gained global attention because of early efforts to integrate\n\nAI in key sectors such as finance, trade, and healthcare, as well as pragmatic\n\nGovernment tools such as Pair. We have developed governance frameworks\n\nand open-source testing toolkits such as AI Verify. These demonstrate\n\nSingapore’s commitment to developing and deploying AI well, and we will\n\nleverage these gains to be a global pace-setter at the forefront of AI.\n\nWe will contribute to international AI developments by:\n\n▶ Anchoring key bilateral relationships with selected partners from government\n\nand industry, through substantive initiatives and technical cooperation.\n\nThese will allow Singapore to “start small and move quickly”, to establish\n\ncommon ground with like-minded partners, as pathfinders to broad-based\n\nmultilateral cooperation.\n\n▶ Demonstrating alignment with key international fora and supporting\n\nworthwhile platforms. Singapore will support and actively participate in\n\nsubstantive multilateral, multi-stakeholder, or plurilateral initiatives, that\n\nseek to achieve an inclusive, practical, and rules-based global environment\n\nfor AI.\n\n▶ Sharing Singapore’s experience and curating meaningful partnerships for\n\ncapacity building. We will actively profile Singapore’s approaches to AI\n\nthrough public engagements and conferences such as Asia Tech x Singapore\n\nand SCAI. We are the convenor of the Forum of Small States (FOSS)7, which now\n\nhas a digital pillar of engagement. Together with government and industry\n\npartners, we will develop AI-related capacity building initiatives to benefit\n\nthe 108 members of FOSS.\n\n7 Singapore established FOSS as an informal and non-ideological grouping of small states in 1992, and has served as its Chair since. FOSS now comprises 108 countries across all geographical regions and at all levels of development, and meets several times a year to discuss issues of concern to small states. In 2022, we introduced Digital FOSS as a new pillar of engagement within\n\nFOSS."
@@ -642,15 +394,7 @@
   {
     "depth": 3,
     "section_id": "",
-    "section_name": "Asia Tech x Singapore",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Feature Story",
+    "section_name": "Asia Tech x Singapore — Feature Story",
     "id_kind": "",
     "parent_id": "",
     "body": "Asia Tech x Singapore (ATxSG) is a platform to empower the technology community to\n\ndiscuss the latest trends and explore the critical intersections of technology, economy,\n\nand society. The third edition of ATxSG, organised by IMDA, was held in June 2023, and\n\nbrought together over 17,000 global leaders and industry decision-makers across the\n\nglobal technology ecosystem.\n\nA key track of ATxSG is the ATxAI Conference, where thought leaders, industry experts,\n\nand policy makers from leading AI countries convene and discuss strategic values of AI\n\ngovernance and technology trends, as well as showcase real-life implementations of AI.\n\n64 speakers and over 2,900 attendees from around the world have participated in ATxAI\n\nover the past three years.\n\nATxSG brings together leaders and industry decision-mak­ ers across the global technology ecosystem to discuss the latest trends in technologies including AI.\n\nA WHOLE-OF-NATION MOVEMENT |"

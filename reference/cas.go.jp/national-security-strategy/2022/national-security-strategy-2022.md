@@ -170,9 +170,7 @@ environment, the collection and analysis of high-quality and timely information 
 
 ### 2. Strategic Approaches and Major Ways and Means
 
-#### (1) Develop Efforts Centered on Diplomacy to Prevent Crises, Proactively Create
-
-a Peaceful and Stable International Environment, and Strengthen a Free and Open International Order
+(1) Develop Efforts Centered on Diplomacy to Prevent Crises, Proactively Create a Peaceful and Stable International Environment, and Strengthen a Free and Open International Order
 
 #### (i) Strengthen the Japan-U.S. Alliance
 
@@ -192,9 +190,7 @@ Japan will also further enhance diplomatic engagement with developing countries,
 
 Furthermore, Japan will build a multilayered network among its ally and like-minded countries, expand it, and strengthen deterrence. Thus, while utilizing frameworks such as the Japan-U.S.-ROK, and Japan-U.S.-Australia, Japan will enhance security cooperation with Australia, India, the ROK, European countries, ASEAN countries, Canada, NATO, EU, and others. Specifically, Japan will promote enhanced engagement with like-minded countries and others in the Indo-Pacific region through bilateral and multilateral dialogues, bilateral training and exercises, conclusions of information protection agreements, Acquisition and Cross-Servicing Agreement (ACSA), Reciprocal Access Agreement (RAA), joint development of defense equipment, transfer of defense equipment and technology, capacity building support, strategic communication, and Flexible Deterrent Options (FDO).
 
-#### (iii) Strengthen Diplomacy with Japan's Neighboring Countries and Regions as
-
-well as Efforts toward Resolution of Various Issues of Concern, including Territorial Issues
+(iii) Strengthen Diplomacy with Japan's Neighboring Countries and Regions as well as Efforts toward Resolution of Various Issues of Concern, including Territorial Issues
 
 Both Japan and China have important responsibilities for the peace and prosperity of the region and the international community. Japan will build a “constructive and stable relationship” with China through communication at various levels, in which Japan
 
@@ -262,11 +258,7 @@ The promotion of mutual understanding among people and countries is the foundati
 
 and regions around the world, student exchanges, youth exchanges, sports exchanges, and others. In addition, Japan will support those programs intended to introduce the rich culture of Japan and to spread the Japanese language overseas.
 
-#### (2) Strengthening Japan's Defense Architecture
-
-#### (i) Fundamentally Reinforcing Defense Capabilities as the Last Guarantee of
-
-National Security
+#### (2) Strengthening Japan's Defense Architecture — (i) Fundamentally Reinforcing Defense Capabilities as the Last Guarantee of National Security
 
 Across the globe, unilateral attempts to change the status quo by force are constantly taking place, and military buildups in the vicinity of Japan are rapidly expanding. The possibilities are not precluded that serious situations shaking the foundation of the international order, such as Russia's aggression against Ukraine, may occur especially in East Asia in the future. In order to respond to this security environment, Japan will fundamentally reinforce its defense capabilities.
 
@@ -332,9 +324,7 @@ Transfer of defense equipment and technology overseas is a key policy instrument
 
 In addition, Japan will carry forward with the transfer of defense equipment and technology in the joint public and private efforts by implementing measures including providing various forms of assistance to smoothly promote such transfers.
 
-#### (v) Strengthening the Foundation for SDF Personnel to Fulfill Abilities as Core of
-
-Defense Capabilities
+#### (v) Strengthening the Foundation for SDF Personnel to Fulfill Abilities as Core of Defense Capabilities
 
 Japan will solidify the human resource base for the SDF personnel, the core of its defense capabilities, in order for the personnel to further fulfill their abilities. To this end, Japan will work to secure diverse and talented SDF personnel from diverse backgrounds. On top of this, Japan will set in place an organizational environment of zero tolerance for harassment, and foster an environment so that female members can play more active roles. Japan will also improve treatment of SDF personnel, and drive efforts to foster an environment in which all SDF personnel can maintain high morale and fully fulfill their abilities.
 
@@ -396,9 +386,7 @@ Furthermore, Japan will utilize its civilian space technology in its national de
 
 In order to put the agenda and policies in the field of space security into practice, Japan will put together the Government's concept and reflect it in the Basic Plan on Space Policy and other relevant documents.
 
-#### (iv) Enhancing Public-private Partnerships for Improving Technical Capabilities
-
-and Proactively Capitalizing on Outcomes of Research and Development in the Security Field
+(iv) Enhancing Public-private Partnerships for Improving Technical Capabilities and Proactively Capitalizing on Outcomes of Research and Development in the Security Field
 
 25
 

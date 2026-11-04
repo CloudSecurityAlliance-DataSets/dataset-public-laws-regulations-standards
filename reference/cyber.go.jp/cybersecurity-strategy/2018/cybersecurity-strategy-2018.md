@@ -1,6 +1,6 @@
 # Cybersecurity Strategy of Japan (July 2018)
 
-## (Provisional Translation)
+(Provisional Translation)
 
 ## CYBERSECURITY STRATEGY
 

@@ -1,7 +1,5 @@
 # 2023–2030 Australian Cyber Security Strategy: Horizon 2 Action Plan (2026–2028)
 
-## 2023–2030 Australian Cyber Security Strategy
-
 ## HORIZON 2 ACTION PLAN
 
 © Commonwealth of Australia 2026
@@ -23,10 +21,6 @@ Enquiries regarding the licence and any use of this document are welcome at:
 Department of Home Affairs PO Box 25 BELCONNEN ACT 2616
 
 P - 26-02629
-
-## 2023–2030 Australian Cyber Security Strategy
-
-## HORIZON 2 ACTION PLAN
 
 ## Contents
 
@@ -130,9 +124,7 @@ Shield
 
 1
 
-## Strong businesses, communities and citizens
-
-## Six key actions under Horizon 2:
+## Strong businesses, communities and citizens — Six key actions under Horizon 2:
 
 ### 1.1 Empower our workers as our first line of cyber defence, our ‘human firewall’
 
@@ -312,9 +304,7 @@ Shield
 
 2
 
-## Secure technology
-
-## Three key actions under Horizon 2:
+## Secure technology — Three key actions under Horizon 2:
 
 ### 2.1 Ensure Australians can trust their digital products and platforms
 
@@ -438,7 +428,7 @@ Build the Australian Government’s visibility of artificial intelligence incide
 
 Shield
 
-## World-class threat sharing and blocking
+World-class threat sharing and blocking
 
 3
 
@@ -492,7 +482,7 @@ Assess legislation and policy to ensure industry and the Australian Government c
 
 Shield
 
-## Protected critical infrastructure
+Protected critical infrastructure
 
 4
 
@@ -586,7 +576,7 @@ Design a National Cyber Security Compact to enable all levels of government in A
 
 Shield
 
-## Sovereign capabilities
+Sovereign capabilities
 
 5
 
@@ -646,7 +636,7 @@ This initiative will be delivered by the Australian AI Safety Institute.
 
 Shield
 
-## Resilient region and global leadership
+Resilient region and global leadership
 
 6
 

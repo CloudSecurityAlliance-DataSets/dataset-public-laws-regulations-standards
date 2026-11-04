@@ -22,9 +22,7 @@ COUNCIL
 
 The EU's Cybersecurity Strategy for the Digital Decade
 
-### I. INTRODUCTION: A CYBERSECURE DIGITAL TRANSFORMATION IN
-
-A COMPLEX THREAT ENVIRONMENT
+### I. INTRODUCTION: A CYBERSECURE DIGITAL TRANSFORMATION IN A COMPLEX THREAT ENVIRONMENT
 
 Cybersecurity is an integral part of Europeans’ security. Whether it is connected devices, electricity grids, or banks, aircraft, public administrations or hospitals they use or frequent, people deserve to do so within the assurance that they will be shielded from cyber threats. The EU’s economy, democracy and society depend more than ever on secure and reliable digital tools and connectivity. Cybersecurity is therefore essential for building a resilient, green and digital Europe.
 
@@ -56,7 +54,7 @@ Improving cybersecurity is therefore essential for people to trust, use, and ben
 
 The EU’s new Cybersecurity Strategy for the Digital Decade forms a key component of Shaping Europe’s Digital Future27, the Commission’s Recovery Plan for Europe28, the Security Union Strategy 2020-202529, the Global Strategy for the EU’s Foreign and Security Policy30, and the European Council Strategic Agenda 2019-202431. It sets out how the EU will shield its people, businesses and institutions from cyber threats, and how it will advance international cooperation and lead in securing a global and open Internet.
 
-### II.
+II.
 
 THINKING GLOBAL, ACTING EUROPEAN
 
@@ -202,9 +200,7 @@ citizens, businesses and public administration to access the Internet; and
 
 Annex).
 
-### 2. BUILDING OPERATIONAL CAPACITY TO PREVENT, DETER AND
-
-RESPOND
+### 2. BUILDING OPERATIONAL CAPACITY TO PREVENT, DETER AND RESPOND
 
 Cyber incidents, whether accidental or the deliberate action of criminals, state and other non-state actors, can cause enormous damage. Their scale and complexity, often involving the exploitation of third-party services, hardware, and software to compromise a final target, make the EU’s collective threat environment hard to counter without systematic and comprehensive information sharing and cooperation on a common response. The EU aims, through the full implementation of regulatory tools, mobilisation and cooperation, to support Member States in defending their citizens, as well as their economic and national security interests, in full respect of fundamental rights and freedoms and the rule of law. Several communities, composed of networks, EU institutions, bodies and agencies, as well as Member State authorities, are responsible for preventing, discouraging, deterring and responding to cyber threat, using their respective instruments and initiatives74. These communities include: (i) NIS authorities, such as CSIRTs, and disaster response; (ii) law enforcement and judicial authorities; (iii) cyber diplomacy; and (iv) cyber defence.
 
@@ -330,9 +326,7 @@ The EU should continue to work with international partners to promote a politica
 
 99 Such as Horizon Europe, Digital Europe and the EDF. 100 https://pesco.europa.eu/
 
-#### 3.1. EU leadership on standards, norms and frameworks in cyberspace
-
-#### Stepping up on international standardisation
+#### 3.1. EU leadership on standards, norms and frameworks in cyberspace Stepping up on international standardisation
 
 To promote and defend its vision of cyberspace at the international level, the EU needs to step up its engagement in, and leadership on international standardisation processes, and enhance its representation in international and European standardisation bodies as well as other standard development organisations101. As digital technologies are developing at a fast pace, international standards are of increasing importance in complementing traditional regulatory efforts in areas such as AI, cloud, quantum computing and quantum communication. International standardisation is increasingly used by third countries to advance their political and ideological agenda, which often does not correspond with the values of the EU. In addition, there is a growing risk of competing frameworks for international standardisation, leading to fragmentation.
 
@@ -416,7 +410,7 @@ Building Board.
 
 117 https://data.consilium.europa.eu/doc/document/ST-14611-2019-INIT/en/pdf
 
-### III.
+III.
 
 CYBERSECURITY IN THE EU INSTITUTIONS, BODIES AND AGENCIES
 

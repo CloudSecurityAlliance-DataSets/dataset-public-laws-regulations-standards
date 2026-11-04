@@ -1,11 +1,9 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Winning the Race: America's AI Action Plan (2025)","","","T H E W H I T E H O U S E"
-"2","","Winning the Race AMERICA’S AI ACTION PLAN","","",""
-"2","","JULY 2025","","",""
-"2","","“Today, a new frontier of scientific discovery lies before us, defined by transformative technologies such as artificial intelligence… Breakthroughs in these fields have the potential to reshape the global balance of power, spark entirely new industries, and revolutionize the way we live and work. As our global competitors race to exploit these technologies, it is a national security imperative for the United States to achieve and maintain unquestioned and unchallenged global technological dominance. To secure our future, we must harness the full power of American innovation.”","","",""
-"2","","Donald J. Trump","","",""
-"2","","45th and 47th President of the United States","","",""
-"2","","Table of Contents","","","Introduction .............................................................................................................................. 1
+"2","","Winning the Race AMERICA’S AI ACTION PLAN","","","JULY 2025
+
+“Today, a new frontier of scientific discovery lies before us, defined by transformative technologies such as artificial intelligence… Breakthroughs in these fields have the potential to reshape the global balance of power, spark entirely new industries, and revolutionize the way we live and work. As our global competitors race to exploit these technologies, it is a national security imperative for the United States to achieve and maintain unquestioned and unchallenged global technological dominance. To secure our future, we must harness the full power of American innovation.”"
+"2","","Donald J. Trump — 45th and 47th President of the United States — Table of Contents","","","Introduction .............................................................................................................................. 1
 
 Pillar I: Accelerate AI Innovation .............................................................................................. 3
 
@@ -245,8 +243,11 @@ Recommended Policy Actions
 • Led by DOJ’s Office of Legal Policy, file formal comments on any proposed deepfake-related additions to the Federal Rules of Evidence.
 
 20 Haiying Guan, James Horan, and Andrew Zhang, “Guardians of Forensic Evidence: Evaluating Analytic Systems Against AI- Generated Deepfakes,” (Gaithersburg, MD: National Institute of Standards and Technology, January 27, 2025), www.nist.gov/publications/guardians-forensic-evidence-evaluating-analytic-systems-against-ai-generated-deepfakes."
-"2","Pillar II","Build American AI Infrastructure","pillar","","AI is the first digital service in modern life that challenges America to build vastly greater energy generation than we have today. American energy capacity has stagnated since the 1970s while China has rapidly built out their grid. America’s path to AI dominance depends on changing this troubling trend."
-"2","","Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security","","","Like most general-purpose technologies of the past, AI will require new infrastructure— factories to produce chips, data centers to run those chips, and new sources of energy to power it all. America’s environmental permitting system and other regulations make it almost impossible to build this infrastructure in the United States with the speed that is required. Additionally, this infrastructure must also not be built with any adversarial technology that could undermine U.S. AI dominance.
+"2","Pillar II","Build American AI Infrastructure","pillar","","AI is the first digital service in modern life that challenges America to build vastly greater energy generation than we have today. American energy capacity has stagnated since the 1970s while China has rapidly built out their grid. America’s path to AI dominance depends on changing this troubling trend.
+
+Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security
+
+Like most general-purpose technologies of the past, AI will require new infrastructure— factories to produce chips, data centers to run those chips, and new sources of energy to power it all. America’s environmental permitting system and other regulations make it almost impossible to build this infrastructure in the United States with the speed that is required. Additionally, this infrastructure must also not be built with any adversarial technology that could undermine U.S. AI dominance.
 
 Fortunately, the Trump Administration has made unprecedented progress in reforming this system. Since taking office, President Trump has already reformed National Environmental Policy Act (NEPA) regulations across almost every relevant Federal agency, jumpstarted a permitting technology modernization program, created the National Energy Dominance Council (NEDC), and launched the United States Investment Accelerator.21, 22, 23, 24 Now is the time to build on that momentum.
 
@@ -342,8 +343,7 @@ Recommended Policy Actions
 • Led by DOD, DHS, and ODNI, in coordination with OSTP, NSC, OMB, and the Office of the National Cyber Director, encourage the responsible sharing of AI vulnerability information as part of ongoing efforts to implement Executive Order 14306, “Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144.”30
 
 30 Executive Order 14306 of June 6, 2025, “Sustaining Select Efforts To Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” Federal Register 90 (111) 24723, www.govinfo.gov/content/pkg/FR- 2025-06-11/pdf/2025-10804.pdf."
-"2","Pillar III","Lead in International AI Diplomacy and","pillar","",""
-"2","","Security","","","To succeed in the global AI competition, America must do more than promote AI within its own borders. The United States must also drive adoption of American AI systems, computing hardware, and standards throughout the world. America currently is the global leader on data center construction, computing hardware performance, and models. It is imperative that the United States leverage this advantage into an enduring global alliance, while preventing our adversaries from free-riding on our innovation and investment."
+"2","Pillar III","Lead in International AI Diplomacy and Security","pillar","","To succeed in the global AI competition, America must do more than promote AI within its own borders. The United States must also drive adoption of American AI systems, computing hardware, and standards throughout the world. America currently is the global leader on data center construction, computing hardware performance, and models. It is imperative that the United States leverage this advantage into an enduring global alliance, while preventing our adversaries from free-riding on our innovation and investment."
 "3","","Export American AI to Allies and Partners","","","The United States must meet global demand for AI by exporting its full AI technology stack— hardware, models, software, applications, and standards—to all countries willing to join America’s AI alliance. A failure to meet this demand would be an unforced error, causing these countries to turn to our rivals. The distribution and diffusion of American technology will stop our strategic rivals from making our allies dependent on foreign adversary technology.
 
 Recommended Policy Actions
@@ -379,7 +379,7 @@ concerning entities. This work should build on existing efforts underway at DOS 
 • Expand new initiatives for promoting plurilateral controls for the AI tech stack, avoiding the sole reliance on multilateral treaty bodies to accomplish this objective, while also encompassing existing U.S. controls and all future controls to level the playing field between U.S. and allied controls.
 
 • Led by DOC and DOD, coordinate with allies to ensure that they adopt U.S. export controls, work together with the U.S to develop new controls, and prohibit U.S. adversaries from supplying their defense-industrial base or acquiring controlling stakes in defense suppliers."
-"2","","Ensure that the U.S. Government is at the Forefront of Evaluating National Security Risks in Frontier Models","","","The most powerful AI systems may pose novel national security risks in the near future in areas such as cyberattacks and the development of chemical, biological, radiological, nuclear, or explosives (CBRNE) weapons, as well as novel security vulnerabilities. Because America currently leads on AI capabilities, the risks present in American frontier models are likely to be a preview for what foreign adversaries will possess in the near future. Understanding the nature of these risks as they emerge is vital for national defense and homeland security.
+"3","","Ensure that the U.S. Government is at the Forefront of Evaluating National Security Risks in Frontier Models","","","The most powerful AI systems may pose novel national security risks in the near future in areas such as cyberattacks and the development of chemical, biological, radiological, nuclear, or explosives (CBRNE) weapons, as well as novel security vulnerabilities. Because America currently leads on AI capabilities, the risks present in American frontier models are likely to be a preview for what foreign adversaries will possess in the near future. Understanding the nature of these risks as they emerge is vital for national defense and homeland security.
 
 Recommended Policy Actions
 

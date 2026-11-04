@@ -8,9 +8,7 @@ Composition de la mission
 
 Marc Schoenauer Directeur de recherche INRIA • Yann Bonnet Secrétaire général du Conseil national du numérique • Charly Berthet Responsable juridique et institutionnel du Conseil national du numérique • Anne-Charlotte Cornut Rapporteur au Conseil national du numérique • François Levin Responsable des affaires économiques et sociales du Conseil national du numérique • Bertrand Rondepierre Ingénieur de l’armement, Direction générale de l’armement.
 
-### Mission confiée par le Premier Ministre Édouard Philippe
-
-### Mission parlementaire du 8 septembre 2017 au 8 mars 2018
+### Mission confiée par le Premier Ministre Édouard Philippe — Mission parlementaire du 8 septembre 2017 au 8 mars 2018
 
 Avec l’appui de Anne-Lise Meurier, Zineb Ghafoor, Candice Foehrenbach, Stella Biabiany-Rosier, Camille Hartmann, Judith Herzog, Marylou Le Roy, Jan Krewer, Lofred Madzou et Ruben Narzul.
 
@@ -432,7 +430,7 @@ C’est pourquoi le rôle de l’État doit être réaffirmé : le jeu du march�
 
 Donner un sens, c’est tout d’abord donner un cap. C’est l’objectif de la structu­ ration proposée pour la politique industrielle : quatre secteurs prioritaires sont définis, la santé, l’écologie, les transports-mobilités et la défense-sécurité. Ces secteurs présentent plusieurs caractéristiques : ils sont au service de l’intérêt général et des grands défis de notre époque, ils peuvent constituer un avantage comparatif de la France et de l’Europe et ils ont besoin d’une interven­ tion de l’État pour se structurer. Le développement de ces secteurs se fera via des concours d’innovation spécifiques et précis, qui fixeront les objectifs prioritaires, mais également grâce une politique offensive de la donnée. Les données, au cœur du développement de l’IA, bénéficient aujourd’hui souvent à une poignée de très grands acteurs, qui tendent à enfermer les capacités d’innovation dans les limites de leurs entreprises toujours plus puissantes. Ce n’est qu’au prix d’une plus grande circulation de ces données, pour en faire bénéficier les pouvoirs publics, mais aussi les acteurs économiques les plus petits, qu’il sera possible de rééquilibrer les rapports de forces.
 
-## Donner un sens, c’est-à-dire donner un cap,
+Donner un sens, c’est-à-dire donner un cap,
 
 une signification et des explications.
 
@@ -670,9 +668,7 @@ Pour que chacun puisse véritablement bénéficier des avancées de l’IA, nos 
 
 Enfin, il est important que la puissance publique soutienne le développement d’initiatives basées sur l’IA dans les champs sociaux. À l’heure actuelle, les capacités d’innovation par l’IA restent très concentrées au sein d’un petit nombre d’entreprises. À l’excep­ tion de la santé, les champs sociaux reçoivent une part minoritaire des investissements privés. Cette struc­ turation de l’écosystème d’innova­ tion en IA a des conséquences sur la vitesse des progrès réalisés dans les champs sociaux. Afin de redistri­ buer ces capacités d’innovation, la puissance publique pourrait lancer des programmes spécifiques pour accompagner l’innovation d’IA en matière sociale, et outiller les acteurs sociaux afin qu’ils puissent bénéficier des avancées liées à l’IA.
 
-## Partie 1 –
-
-## Une politique économique articulée autour de la donnée
+## Partie 1: Une politique économique articulée autour de la donnée
 
 La course à l’intelligence artificielle s’est intensifiée sur la scène mondiale au cours des dernières années. En juillet 2017, la Chine a dévoilé sa feuille de route1 pour créer une industrie d’une valeur de 150 milliards de dollars pour son économie d’ici 2030. Une façon de répondre à son principal rival, les États-Unis, qui investissent massivement dans l’IA depuis plusieurs années2. Face à ce duopole, quel espace pour la France et l’Europe ?
 
@@ -682,7 +678,7 @@ La course à l’intelligence artificielle s’est intensifiée sur la scène mo
 
 Celles-ci disposent d’atouts considérables pour peser sur la scène mondiale. S’agissant de la France, elle peut notamment s’appuyer sur l’excellence de sa recherche et de sa formation, un vivier de startups spécialisées, des bases de données très importantes et un tissu industriel d’envergure mondiale. L’Europe peut quant à elle mettre en avant un marché de près de 500 millions de consommateurs, une recherche de pointe, des leaders économiques mondiaux et une puissance financière, qui même si elle est naturellement fragmentée, n’a rien à envier aux géants de la discipline. Elle est également organisée autour d’un système de valeurs communes et d’un cadre juridique en voie d’harmonisation. De ce point de vue, c’est l’échelle pertinente pour espérer rivaliser avec les champions actuels.
 
-## D’abord, une politique offensive visant à favoriser l’accès aux données, la circulation de celles-ci et leur partage. Les données sont la matière première de l’IA contemporaine et d’elles dépend l’émergence de nombreux usages et applications
+D’abord, une politique offensive visant à favoriser l’accès aux données, la circulation de celles-ci et leur partage. Les données sont la matière première de l’IA contemporaine et d’elles dépend l’émergence de nombreux usages et applications
 
 Il est important de rappeler que les mastodontes actuels de l’intel­ ligence artificielle – États-Unis et Chine – et les pays émergents de la discipline – Israël, Canada et Royaume-Uni notamment – se développent ou se sont développés sur des modèles parfois radicalement différents. Ce n’est pas forcément grâce à un « Google européen » que la France et l’Europe pourront se faire une place sur la scène mondiale.
 
@@ -700,11 +696,7 @@ Il s’agit ensuite de concentrer les efforts de la politique industrielle dans 
 
 mutualisation sectorielles et à mettre en place des espaces d’expérimentations. Le rôle de l’État consiste ici à poser les briques élémen­ taires de l’innovation, à donner les moyens, les ressources aux acteurs pour innover, sans pour autant piloter ce mouvement.
 
-## Le point de départ de toute
-
-## stratégie en intelligence
-
-## artificielle tient ainsi en la constitution de larges
+## Le point de départ de toute — stratégie en intelligence — artificielle tient ainsi en la constitution de larges
 
 Enfin, il est question d’amorcer une mutation profonde de l’État, qui doit être un moteur de ces transformations. La puissance publique doit se donner les moyens matériels et humains d’intégrer l’IA à la conduite de ses politiques publiques, autant dans une perspective de modernisation que d’exemplarité. Cela suppose d’avancer sur plusieurs plans, qui vont de la commande publique à la politique de l’État en matière de ressources humaines et de compétences ; mais aussi de son approche même de l’innovation.
 
@@ -802,15 +794,9 @@ La société Uber s’est récemment lancée dans une vaste entreprise d’ouver
 
 Waze avant lui, le géant améri­ cain, dont les chauffeurs VTC parcourent près d’un milliard de kilomètres dans le monde chaque mois, est assis sur l’une des bases de données les plus importantes et précise sur le trafic urbain mondial. Bien davantage que nombre d’agences spécialisées ou de services municipaux. Si Uber conservait jusqu’ici la main sur ses données pour optimiser son service, aujourd’hui, elle en livre une partie en open data à travers Uber Movement, une initiative qui concerne depuis octobre 2017 la ville de Paris : ces données permettent de dresser un état des lieux très fin et dynamique de la fluidité de la circulation en Île-de-France. De nouvelles
 
-## La puissance publique doit donc porter
+## La puissance publique doit donc porter — un autre modèle de production et de — gouvernance des données, qui met
 
-## un autre modèle de production et de
-
-## gouvernance des données, qui met
-
-## l’accent sur la réciprocité, la collaboration et le partage
-
-données pourraient également faire l’objet d’une ouverture volontaire : par exemple la vitesse enregistrée sur les grands axes de circulation ou encore la localisation de croisements où les chauffeurs sont amenés à freiner brusquement. Dans le même souci de séduire les collectivités territoriales, la plateforme de location de logements entre particuliers Airbnb a également lancé un portail DataVille pour donner accès à certaines statistiques sur l’utilisation de son service. Si ces initiatives sont évidemment stratégiques pour les entreprises considérées – en termes d’image, bien sûr, mais aussi car elles conservent la main sur les données mises à disposition –, elles n’en sont pas moins révélatrices du mouvement à l’œuvre.
+l’accent sur la réciprocité, la collaboration et le partage données pourraient également faire l’objet d’une ouverture volontaire : par exemple la vitesse enregistrée sur les grands axes de circulation ou encore la localisation de croisements où les chauffeurs sont amenés à freiner brusquement. Dans le même souci de séduire les collectivités territoriales, la plateforme de location de logements entre particuliers Airbnb a également lancé un portail DataVille pour donner accès à certaines statistiques sur l’utilisation de son service. Si ces initiatives sont évidemment stratégiques pour les entreprises considérées – en termes d’image, bien sûr, mais aussi car elles conservent la main sur les données mises à disposition –, elles n’en sont pas moins révélatrices du mouvement à l’œuvre.
 
 L’ouverture et le partage de données provenant du secteur privé peuvent ainsi contribuer à alimenter la masse de données disponibles et ainsi contribuer au développement de l’intelligence artificielle. Le premier acte de la « bataille de l’IA » portait sur les données à caractère personnel. Cette bataille a été remportée par les grandes plateformes. Le second acte va porter sur les données sectorielles : c’est sur celles-ci que la France et l’Europe peuvent se différencier. L’objectif est d’abord stratégique pour les acteurs français et européens, car c’est un moyen pour les entreprises d’un même secteur de rivaliser avec les géants mondiaux de la discipline.
 
@@ -1034,9 +1020,7 @@ Les solutions d’IA correspondent à un composant singulier qui a vocation à s
 
 Ce second cas de figure impose de disposer d’intégrateurs industriels de briques élémentaires capables d’adresser les différents marchés spécialisés et leurs spécificités. L’hétérogénéité du paysage industriel européen de l’IA amène un constat : le seul moyen d’exister sur une part assez large des verticaux métiers semble être d’organiser des écosystèmes comprenant des acteurs de taille et d’impli­ cation variable, de la startup à l’intégrateur.
 
-## L’achat public reste insuffisamment
-
-## orienté vers l’achat innovant
+## L’achat public reste insuffisamment — orienté vers l’achat innovant
 
 Il faudra inciter à la constitution d’écosystèmes centrés sur les filières utilisa­ trices d’IA, animées par de grands groupes et intégrateurs du domaine au travers de partenariats d’entreprises. En pratique, trois leviers peuvent être mobilisés : le dialogue des filières utilisatrices présenté plus haut ; l’incitation dans le cadre de la commande publique à la constitution de groupements d’entreprises ; la création d’un dispositif d’information pour aider les entre­ prises à trouver des partenaires dans le cadre de réponses à des appels d’offres publics ou privés.
 
@@ -1100,9 +1084,7 @@ L’exception concernant les intérêts essentiels de l’État soulève quant �
 
 miner avec précision les éléments qui en relèvent ou non. Dans le domaine de la santé par exemple, on peut aisément considérer que la constitution et la maîtrise d’un entrepôt de données de santé des citoyens auraient vocation à s’inscrire dans le cadre de cette exception. En tout état de cause, il apparaît nécessaire d’en préciser la portée.
 
-## Il nous faut tirer parti des avantages
-
-## comparatifs et des niches d’excellence de notre économie
+## Il nous faut tirer parti des avantages — comparatifs et des niches d’excellence de notre économie
 
 ### Un choix clair : mettre l’accent sur quatre secteurs stratégiques
 
@@ -1162,7 +1144,7 @@ Un soutien à l’innovation pensé de bout en bout, d’abord. Le développemen
 
 Une mobilisation et une structuration des écosystèmes autour de grands enjeux et défis sectoriels, ensuite. Il n’est pas question de développer de l’IA pour elle-même, comme une fin en soi, mais justement de canaliser cette précieuse énergie pour le développement d’applica­ tions, d’usages qui contri­ buent à améliorer notre performance économique ainsi que le bien commun. Donner un sens au dévelop­ pement de l’IA, en somme.
 
-## Il n’est pas question de développer de l’IA pour elle-même, comme une fin en soi, mais justement de canaliser cette précieuse énergie pour le développement d’applications, d’usages qui contribuent à améliorer notre performance économique ainsi que le bien commun
+Il n’est pas question de développer de l’IA pour elle-même, comme une fin en soi, mais justement de canaliser cette précieuse énergie pour le développement d’applications, d’usages qui contribuent à améliorer notre performance économique ainsi que le bien commun
 
 Les organisations doivent enfin se rendre accueil­ lantes à l’innovation, qu’elle soit technologique, d’usage ou de modèle d’affaires. Le développement de l’IA nécessite de repenser les méthodes traditionnelles de la conduite de projets pour être en mesure de développer, d’expérimenter et, le cas échéant, d’échouer dans des cycles courts et dynamiques. Ces exigences – propres au numérique en général et à l’IA en particulier – contrastent bien souvent avec les méthodes classiques de la gestion de projet, qui reposent généralement sur des logiques beaucoup moins agiles, sans doute parce que les objets à réaliser sont mieux définis et les besoins, plus clairs.
 
@@ -1306,7 +1288,7 @@ C’est pourquoi notre mission recommande de mettre en place des bacs à sable d
 
 S’agissant des obligations réglementaires, chaque secteur a des probléma­ tiques qui lui sont propres. Il en est ainsi, par exemple, de l’essai de drones dans l’espace aérien, strictement réglementé par l’aviation civile. Du côté technique, l’expérimentation de nouvelles applications peut être soumise à des contraintes opérationnelles diverses : utilisation de techniques de cryptographie, cloisonnement de bases de données, contraintes d’interconnexion et d’interopérabi­ lité, durcissement de dispositifs de collecte…
 
-## Pour accélérer le développement de l’IA dans les secteurs prioritaires, il est nécessaire d’offrir aux acteurs des terrains d’expérimentation en « conditions réelles »
+Pour accélérer le développement de l’IA dans les secteurs prioritaires, il est nécessaire d’offrir aux acteurs des terrains d’expérimentation en « conditions réelles »
 
 Pour accélérer le développement de l’IA dans les secteurs prioritaires, il est nécessaire d’offrir aux acteurs des terrains d’expérimentation en « conditions réelles ». Cela constitue un facteur d’attractivité majeur pour l’écosystème de l’innovation et est surtout un avantage singulier que seule la puissance publique est en mesure d’offrir. C’est également une opportunité pour celle-ci d’expérimenter en conditions réelles de nouveaux cadres réglementaires et techniques mieux adaptés aux problématiques de l’IA.
 
@@ -1444,9 +1426,7 @@ Dans une logique profondément interministérielle, il lui reviendrait d’anime
 
 administrations afin d’accélérer la mise en œuvre de ces transfor­ mations. Ce coordinateur pourrait s’appuyer sur l’expertise technique de la direction interministérielle du numérique et du système d’infor­ mation et de communication de l’État (DINSIC) pour accompagner les administrations dans leur appréhension de l’IA.
 
-## L’État doit également se transformer
-
-## afin d’être en mesure d’intégrer l’IA à la conduite des politiques publiques
+## L’État doit également se transformer — afin d’être en mesure d’intégrer l’IA à la conduite des politiques publiques
 
 S’inspirer de : l’Office for AI britannique
 
@@ -1524,11 +1504,7 @@ Si l’IA permet de faire émerger de nouvelles opportunités, elle fait égale�
 
 réseaux de neurones, ce qui pose un problème de sécurité majeur dans le cas d’applications critiques. L’exemple du véhicule autonome est significatif à ce titre : l’existence de moyens pour fausser sa perception de l’environne­ ment (causer délibérément la mauvaise interprétation d’un panneau Stop par exemple) pourrait provoquer de graves incidents. Le sujet de la sécurité est donc d’importance majeure, en particulier dans le cas des systèmes critiques et des systèmes ayant une composante physique capable de causer des dégâts en cas d’attaque.
 
-## Si l’IA permet de faire émerger
-
-## de nouvelles opportunités, elle fait également apparaître
-
-## de nouvelles menaces
+## Si l’IA permet de faire émerger — de nouvelles opportunités, elle fait également apparaître — de nouvelles menaces
 
 Parmi les problématiques soulevées, on évoquera notamment les possibilités de :
 
@@ -1648,9 +1624,7 @@ Timéo est devenue une loque. Il laisse tomber le téléphone que Kim ramasse.
 
 Kim ne répond rien. À ce moment, son bonheur est en train de se noyer dans des eaux glauques.
 
-## Partie 2 –
-
-## Pour une recherche agile et diffusante
+## Partie 2: Pour une recherche agile et diffusante
 
 La première partie de ce rapport s’intéressait notamment à la compétition mondiale qui est en cours autour des données – compétition dans laquelle les géants ont pour l’instant remporté les premières batailles. Mais une autre compétition se joue sur le front de l’IA : elle concerne les ressources humaines (RH). D’une part, les avancées scientifiques et technologiques sont bien souvent le fait de chercheurs1 de haut niveau ; d’autre part, l’économie mondiale manque déjà de spécialistes bien formés, phénomène qui va s’accentuer dans les prochaines années (voir plus bas) et pour former ces spécialistes, il faut des enseignants du meilleur niveau. La captation, par une politique RH de premier plan, de nos meilleurs cerveaux par les géants de l’IA nuit donc à la fois à la recherche publique et à la formation des scienti­ fiques en intelligence artificielle (chercheurs, ingénieurs) de demain.
 
@@ -1830,9 +1804,7 @@ apporter l’IA.
 
 ambitieux en collaboration avec des chercheurs, jusqu’à des laboratoires communs ou le lancement de startups communes.
 
-## Le besoin des entreprises de pouvoir
-
-## attirer, retenir des ingénieurs bien formés et de disposer d’un circuit court d’interaction avec la recherche de pointe,
+Le besoin des entreprises de pouvoir attirer, retenir des ingénieurs bien formés et de disposer d’un circuit court d’interaction avec la recherche de pointe,
 
 L’interaction directe entre recherche publique et entre­ prises innovantes, startups, PME ou grands groupes « institutionnels » souffre présentement de lourdeurs administratives, même en cas d’accord entre tous les partenaires techniques. Des accords-cadres feront partie des réponses à l’appel d’offres lancé pour la création des instituts 3IA. Ils pourront également s’intégrer dans les facilités administratives offertes par la coordination nationale des instituts 3IA. L’objectif est d’obtenir des circuits de décision et les formalités associées (allant des Memorandum of Understanding aux accords sur la propriété intellectuelle) très réduites (par exemple, à l’échelle de la semaine).
 
@@ -1872,15 +1844,7 @@ L’axe administratif est essentiel : tout chercheur attiré en France puis rebu
 
 pression administrative. Les facilités permises par des fondations ou des associa­ tions loi 1901 par exemple, doivent devenir la règle au sein des instituts 3IA, notamment en ce qui concerne les embauches et les achats. Les grilles de salaire de la fonction publique sont dissuasives, nous espérons l’avoir montré, compte tenu de deux faits : 1. La productivité varie de plusieurs ordres de grandeur entre les chercheurs dans ce domaine ; 2. Il existe des concurrents nombreux et capables de verser des salaires royaux après un circuit de décision court.
 
-## Tout chercheur attiré en France puis rebuté
-
-## par les délais de réponse et les arguties incompréhensibles de l’administration fera
-
-## une contre-publicité durable à l’ensemble
-
-## de notre système. Il faut relâcher
-
-## la pression administrative
+## Tout chercheur attiré en France puis rebuté — par les délais de réponse et les arguties incompréhensibles de l’administration fera — une contre-publicité durable à l’ensemble — de notre système. Il faut relâcher — la pression administrative
 
 Outre les embauches, en ce qui concerne les achats et les missions, il faut renverser la charge de la preuve, en autorisant systématiquement les achats par carte achat, et en effectuant des contrôles a posteriori sur les missions.
 
@@ -2008,13 +1972,7 @@ Le statut de chercheur permanent est l’un des derniers atouts de la recherche 
 
 sente une marche très haute financièrement parlant (rachat des cotisations sur une longue période) qui pourrait être en partie franchie avec une aide ad hoc, ce qui semble quasi­ ment impossible aujourd’hui.
 
-## Un minimum de doublement des salaires
-
-## de début de carrière est indispensable sous peine de voir se tarir définitivement
-
-## le flux de jeunes prêts à s’investir
-
-## dans l’enseignement supérieur
+## Un minimum de doublement des salaires — de début de carrière est indispensable sous peine de voir se tarir définitivement — le flux de jeunes prêts à s’investir — dans l’enseignement supérieur
 
 D’autres mesures d’aides ponctuelles pourront être également envisagées, à prévoir au cas par cas (voir les préconisations dans le cadre des instituts 3IA qui n’ont pas vocation à être limités au RN3IA). Des aides similaires devraient également être proposées pour des mobilités nationales, afin de ne pas défavoriser en creux les chercheurs déjà titulaires en France, créant ainsi paradoxalement des incitations à émigrer, même si c’est pour mieux revenir. Une fois de plus, cette mesure n’est pas propre à l’IA, mais est rendue plus nécessaire que jamais face à la concurrence des GAFAM.
 
@@ -2256,9 +2214,7 @@ Il la suivit quand même dans l’ascen­ seur. Sur le palier du cinquième éta
 
 Pas de réponse, juste un éclat violet dans les yeux et pas du tout son bleu habituel. La machine ouvrit la gueule et le bruit de la mer en sortit, un son ample de vagues douces, quelque chose qui n’avait pas la vigueur de la Manche, ni le clapotis de la Méditerranée. Un appel vers la côte, vers l’horizon, une urgence à ne pas rentrer chez soi, à partir tout de suite, sans aucun bagage, comme sous l’effet d’une impulsion naturelle.
 
-## Partie 3 –
-
-## Anticiper et maîtriser les impacts sur le travail et l’emploi
+## Partie 3: Anticiper et maîtriser les impacts sur le travail et l’emploi
 
 Le monde du travail est à l’aube de grandes transformations et n’y est encore que peu préparé. S’il n’est pas établi que le développement de l’intelligence artificielle constitue à proprement parler une quatrième révolution industrielle, il apparaît néanmoins de plus en plus certain qu’elle va modifier la majorité des métiers et des organisations. Ce développement va en effet permettre l’automatisation d’un grand nombre de tâches. Nous entrons donc dans une période de transition technologique importante, ce qui n’est pas sans créer des inquiétudes majeures : l’histoire nous enseigne que les précédentes transitions ne se sont pas faites sans encombre et que les processus de réajustement politiques ont parfois été violents, souvent au détriment des populations déjà les plus fragiles.
 
@@ -2282,9 +2238,7 @@ Prendre le problème à bras le corps c’est d’abord reconnaître que nous al
 
 production de la valeur. Et en premier lieu qu’un grand nombre de tâches vont être automatisables, quelle que soit la rapidité de cette automatisation. Face à ce qui peut désormais apparaître comme une forme de certitude, il est néces­ saire, à moyen terme, de poursuivre les réflexions sur des modes alternatifs de production et de redistribution de la valeur. Mais la priorité doit être de développer les moyens d’une complémentarité riche entre le travail humain et l’activité de la machine.
 
-## Il n’est pas forcément plus avantageux d’automatiser une tâche, même d’un point
-
-## de vue purement économique
+## Il n’est pas forcément plus avantageux d’automatiser une tâche, même d’un point — de vue purement économique
 
 Quelles sont les tâches automatisables ?
 
@@ -2440,17 +2394,11 @@ Préparer la transition
 
 Se fixer des objectifs politiques doit aller de pair avec une augmentation de nos capacités de prévision et de compréhension des phénomènes qui sont à l’œuvre. S’il est en effet possible d’estimer les grands effets macro-économiques que produira l’introduction de technologies d’intelligence artificielle, il est toutefois évident que beaucoup d’incertitudes demeurent, que les périmètres évoluent continuellement et que les prévisions doivent être constamment précisées. Prendre le problème à bras le corps c’est donc d’abord affiner notre compréhension de ces phénomènes : il faut se donner les moyens de mieux comprendre ce qui est à l’œuvre, d’entretenir nos capacités prospectives
 
-## Les formations actuelles, qu’il s’agisse de la formation
-
-dans le temps et de sortir de la logique d’à-coups qui guide aujourd’hui notre appréhension de ce qui peut advenir.
+Les formations actuelles, qu’il s’agisse de la formation dans le temps et de sortir de la logique d’à-coups qui guide aujourd’hui notre appréhension de ce qui peut advenir.
 
 À partir de là, il est nécessaire de préparer les transitions, au niveau collectif et indivi­ duel. Parvenir à identifier les risques majeurs et les compétences qu’il s’agit de développer pour travailler avec la machine n’est que la première étape. La deuxième étape, et la plus complexe, est de favoriser la transition massive des compétences et des capacités des individus. Ceux qui sont déjà en poste, évidemment, mais également ceux qui arrivent sur le marché du travail.
 
-## professionnelle ou de la formation initiale sont loin
-
-## d’être adaptées pour assurer
-
-## cette transition
+## professionnelle ou de la formation initiale sont loin — d’être adaptées pour assurer — cette transition
 
 Deux domaines principaux doivent donc être adaptés. Les formations, tout d’abord : les formations actuelles, qu’il s’agisse de la formation profession­ nelle ou de la formation initiale sont loin d’être adaptées pour assurer cette transition. La prise en compte des compétences transversales, l’apprentissage de la créativité, les formes nouvelles de pédagogie, tout cela manque encore souvent cruellement dans les cursus de formation. Nous sommes à l’orée d’une transformation majeure de l’enseignement et de la formation sans laquelle nous ne pourrons aborder le développement et la diffusion de l’intelligence artificielle. Cette transformation se fera d’abord par l’expérimentation, par la création de structures qui soient autant de « têtes chercheuses » ou de postes avancés, conçues pour faire différemment et pour tester.
 
@@ -2562,9 +2510,7 @@ Développer un indice de bonne complémentarité à destination des entreprises
 
 Pour ce faire, il faut tout d’abord la définir, par exemple en envisageant de développer un indice de bonne complémentarité, avec l’ensemble des parties prenantes (syndicats, État, monde de la recherche…) et en produi­ sant des informations et de la documentation, à l’intention des entreprises et des partenaires sociaux. La structure évoquée ci-dessus pourrait avoir notamment ce rôle.
 
-### Développer la complémentarité au sein des organisations
-
-### et encadrer les conditions de travail
+### Développer la complémentarité au sein des organisations — et encadrer les conditions de travail
 
 Ensuite, les manières de rendre effectif le choix collectif de la bonne complé­ mentarité, la complémentarité capacitante, doivent également être définies. Ils peuvent être de plusieurs ordres.
 
@@ -2598,13 +2544,7 @@ La législation concernant les conditions de travail est principalement adaptée
 
 logies numériques dans l’entreprise, ne soient que difficilement pris en compte. Ainsi pour un grand nombre d’entreprises et d’individus l’encadrement des conditions de travail est trop rigide, voire inadapté aux nouvelles modalités du travail (mobilité, flexibilité…) tout en ne prenant pas en compte les risques spécifiques nouveaux. Le compte pénibi­ lité est ainsi construit autour de la pénibilité industrielle. Il ne s’agit pas de remettre en cause cette approche, qui trouve à s’appliquer à un grand nombre de situations.
 
-## La question de la complémentarité
-
-## pose la question de l’encadrement
-
-## des conditions de travail à l’heure
-
-## du numérique
+## La question de la complémentarité — pose la question de l’encadrement — des conditions de travail à l’heure — du numérique
 
 Néanmoins la nécessité d’encadrer des nouvelles situations de travail appelle l’ouverture d’un chantier législatif spécifique : obéissance exclusive aux instructions d’une machine, impossibilité de discuter avec ses collègues sans passer par une interface machine… L’enjeu de la complémentarité devra être au cœur de cette redéfinition de l’encadrement des conditions de travail.
 
@@ -2618,9 +2558,7 @@ L’apprentissage des compétences cognitives transversales forme le cœur des o
 
 ### Amorcer une transformation de la formation initiale et continue
 
-### pour favoriser l’apprentissage de la créativité
-
-qui a parfois prévalu dans les discours publics et qui consisterait à construire des cursus éducatifs strictement indexés aux besoins d’un bassin d’emplois – et qui formeraient aujourd’hui des personnes dont l’emploi pourra être automatisé à peine quelques années plus tard. Ainsi une « adaptation » trop précise d’une formation à des postes vacants conduirait très probablement à une « inadaptation » plus globale des individus à un marché de l’emploi en constante évolution.
+pour favoriser l’apprentissage de la créativité qui a parfois prévalu dans les discours publics et qui consisterait à construire des cursus éducatifs strictement indexés aux besoins d’un bassin d’emplois – et qui formeraient aujourd’hui des personnes dont l’emploi pourra être automatisé à peine quelques années plus tard. Ainsi une « adaptation » trop précise d’une formation à des postes vacants conduirait très probablement à une « inadaptation » plus globale des individus à un marché de l’emploi en constante évolution.
 
 Néanmoins la seule focalisation sur les compétences cognitives générales a souvent conduit à sacrifier l’apprentissage d’une autre qualité qui devient encore plus essentielle aujourd’hui et qui peut même figurer comme la compétence matricielle dans un monde en perpétuelle évolution : la créativité. C’est pour cette raison qu’il ne sera pas possible de faire l’économie d’une transformation du système éducatif français qui mette en avant l’exigence de l’apprentissage de la créativité.
 
@@ -2636,13 +2574,9 @@ Favoriser la créativité et les pédagogies innovantes
 
 Il s’agit de lancer un ensemble d’actions visant à favoriser la créativité et les pédagogies innovantes dans le secteur de la formation professionnelle (ministère du Travail), l’éducation nationale et l’enseignement supérieur et la recherche afin de mettre en place des dispositifs de mutualisation et des
 
-## Le développement de l’IA renforce
+## Le développement de l’IA renforce — la mutation des chaînes de valeur et entraîne une décorrélation entre les acteurs qui financent la formation
 
-## la mutation des chaînes de valeur et entraîne une décorrélation entre les acteurs qui financent la formation
-
-## professionnelle et ceux qui captent
-
-outils de financement communs aux trois secteurs. Cela vise à développer des expérimentations pédagogiques nouvelles à différents niveaux (pédagogie par projet, transdisci­ plinaire, pair-à-pair…).
+professionnelle et ceux qui captent outils de financement communs aux trois secteurs. Cela vise à développer des expérimentations pédagogiques nouvelles à différents niveaux (pédagogie par projet, transdisci­ plinaire, pair-à-pair…).
 
 Ces actions n’auront pas pour objectif de créer de nouvelles injonctions ou de nouvelles obligations pour les enseignants, mais, avant toute chose, de mettre en valeur et en réseau ceux qui mettent en place des pratiques pédagogiques innovantes.
 
@@ -2670,9 +2604,7 @@ diffuser les pratiques innovantes.
 
 Le pilotage de cette plateforme devra être assuré de manière interministérielle (éducation nationale, recherche, travail).
 
-### Expérimenter de nouveaux modes de financement de la formation
-
-### professionnelle pour tenir compte des transferts de valeur
+### Expérimenter de nouveaux modes de financement de la formation — professionnelle pour tenir compte des transferts de valeur
 
 S’inspirer : Technion en Israël
 
@@ -2748,11 +2680,7 @@ Les besoins de formation en IA ne pourront être remplis qu’à l’aide d’un
 
 Pour ce qui est de l’informatique, ce même rapport recommande la mise en place d’un enseignement d’algorithmique dès le cours préparatoire, d’abord « débranché » puis de mieux en mieux identifié jusqu’à être une pleine spécialité au niveau du baccalauréat. La nouvelle option informatique et la nouvelle discipline « humanités numériques », au lycée, viendront utilement permettre à la fois de renforcer la compétence en algorithmique des élèves les plus motivés, et la culture numérique qui dans notre société numérique doit maintenant faire partie du bagage de tous et toutes.
 
-## Partie 4 –
-
-## L’intelligence artificielle au service d’une économie plus écologique
-
-## Partie 4 – L’intelligence artificielle au service d’une économie plus écologique
+## Partie 4: L’intelligence artificielle au service d’une économie plus écologique — Partie 4 – L’intelligence artificielle au service d’une économie plus écologique
 
 Plus que jamais, la révolution provoquée par le développement des usages et services numériques tend à occulter leur réalité industrielle et leurs impacts environnementaux1. Et pourtant, il est urgent de les prendre en compte. Il y a déjà deux ans, l’association américaine des industriels du semi-conducteur prévoyait qu’en 2040, les besoins en espace de stockage au niveau mondial, fondamentalement corrélés au développement du numérique et de l’IA, excéderaient la production disponible globale de silicium2.
 
@@ -2780,11 +2708,7 @@ Si l’IA porte en germe des risques environnementaux, elle est également porte
 
 et l’évolution des écosystèmes en se basant sur la réalité de leur complexité biologique, d’optimiser la gestion de nos ressources, notamment énergétiques, de préserver notre environnement et d’encourager la biodiver­ sité. Le développement de l’IA peut faire émerger de nouvelles formes d’entretien des espaces naturels à protéger, terrestres et marins. Des robots autonomes permettant de chasser les étoiles de mer invasives aux barrières intelligentes permettant de dévier la faune afin de la préserver, les possibilités sont nombreuses pour développer des nouvelles modalités d’interaction avec la nature, plus adaptatives, plus respectueuses.
 
-## La France et l’Europe peuvent
-
-## devenir le fer de lance
-
-## de cette transition écologique intelligente
+## La France et l’Europe peuvent — devenir le fer de lance — de cette transition écologique intelligente
 
 Néanmoins c’est là un paradoxe bien connu de l’optimisation : en permettant des gains énergétiques, de nouvelles possibilités de consommations, l’IA peut entraîner de nombreux effets rebonds (voir encadré). Ainsi, l’IA peut nous éviter de repenser nos modes de croissance, de consommation et de mesure des richesses produites, et nous amener à consommer tout autant, voire plus qu’auparavant.
 
@@ -2794,11 +2718,7 @@ L’effet rebond est un phénomène par lequel les économies d’énergie ou de
 
 Une vision réellement ambitieuse de l’IA devra donc aller au-delà d’un simple discours sur l’optimisation de l’utilisation de nos ressources : elle devra intégrer un paradigme de croissance plus économe et collectif, inspiré de la compréhension de la dynamique des écosystèmes, dont elle sera un outil clé. L’IA peut, doit nous permettre de penser de nouvelles formes d’usages, de partage et de collaboration, qui permettront de concevoir des modèles techniques et économiques plus sobres. L’IA, en permettant de modéliser la dynamique et le devenir des écosystèmes biologiques, peut contribuer à une véritable transition écologique. Et la France et l’Europe peuvent devenir le fer de lance de cette transition écologique intelligente. Quels sont les atouts de la France pour devenir championne de l’intelligence artificielle soutenable et écologique ? Ils sont nombreux : écosystèmes académiques, recherche importante sur les nanotechnologies, une manne incroyable de données énergétiques, agricoles, marines, de fourniture d’eau, de transport…
 
-### Favoriser la convergence de la transition écologique
-
-### Inscrire le sujet à l’agenda international
-
-### et du développement de l’IA
+### Favoriser la convergence de la transition écologique — Inscrire le sujet à l’agenda international — et du développement de l’IA
 
 Sur le plan international, la France a donc les moyens de prendre ce leader­ ship. Elle pourrait premièrement proposer d’étudier les impacts de l’IA sur la réalisation des objectifs onusiens de développement durable (ODD) : en quoi l’IA en met certains sous contraintes, comment elle peut à l’inverse permettre d’en accélérer d’autres ? La France pourrait être à l’avant-garde sur ce type d’étude, qui n’a pas encore été initiée par d’autre pays. Elle pourrait être coordonnée à des impulsions dans le cadre de l’Accord climat et du Pacte mondial pour l’environnement. La France pourrait proposer la mise en place d’un événement de grande envergure, sur le modèle de la COP 21, pour mettre en avant des initiatives exemplaires et à fort impact. Elle pourrait également porter de manière plus systématique la convergence des deux transitions, écologique et numérique, au sein des instances internationales, notamment au sein du G7, où les discussions sur l’IA ont été entamées et dont la France s’apprête à prendre la présidence.
 
@@ -2860,13 +2780,7 @@ Les GPU apparaissent aujourd’hui comme clés pour le développement de l’IA.
 
 ces domaines également, pour des raisons de souveraineté, mais également pour des raisons environnementales (voir les développements de la première partie). En effet, les innovations qui peuvent être développées à court terme en la matière ont le potentiel d’être plus économes en énergie. Il est donc urgent de fédérer l’industrie et les chercheurs français et européens du semi-conducteur autour de ces enjeux de recherche et d’expérimentation, comme développé en première partie Innover dans l’industrie du composant adapté à l’IA.
 
-## Il est essentiel d’accompagner
-
-## l’industrie du cloud européen
-
-## dans le sens de sa transition
-
-## écologique
+## Il est essentiel d’accompagner — l’industrie du cloud européen — dans le sens de sa transition — écologique
 
 Agir pour le verdissement de la chaîne de valeur des centres de données
 
@@ -2982,9 +2896,7 @@ mer du CGEDD
 
 Cette démarche devrait aller de pair avec la formation des acteurs publics de l’écologie aux potentiels de l’IA. Il s’agit notamment d’identifier les missions et programmes en cours du ministère, qui pourraient être mieux accomplis à l’aide de l’IA, à l’instar de la police de l’environnement ou de l’actualisation de certaines bases via de nouvelles techniques de reconnaissance d’image. Afin d’amorcer ce mouvement, il pourrait être initié au niveau national et dans
 
-### Libérer la donnée écologique
-
-chaque territoire une « revue intelligente » des politiques environnementales : plans climat, agendas 21, programmes de prévention des déchets, plans de déplacements, SNTEDD (stratégie nationale de transition écologique vers un développement durable)… à l’aune des solutions d’IA qui pourraient les optimiser. La revue aurait pour objectif de s’assurer que ces stratégies exploitent le potentiel de l’IA. Par ailleurs, des acteurs spécialistes de l’IA devraient être associés à la définition de toute nouvelle stratégie publique environnementale.
+Libérer la donnée écologique chaque territoire une « revue intelligente » des politiques environnementales : plans climat, agendas 21, programmes de prévention des déchets, plans de déplacements, SNTEDD (stratégie nationale de transition écologique vers un développement durable)… à l’aune des solutions d’IA qui pourraient les optimiser. La revue aurait pour objectif de s’assurer que ces stratégies exploitent le potentiel de l’IA. Par ailleurs, des acteurs spécialistes de l’IA devraient être associés à la définition de toute nouvelle stratégie publique environnementale.
 
 Libérer la donnée publique
 
@@ -3028,9 +2940,7 @@ Charlie déplie son long corps et fronce les sourcils. Ce n’est pas son jour d
 
 Charlie soupire. La vieille radotait tranquille et voilà qu’elle pose la
 
-## Dimanche en pente zébrée – Anne-Caroline Paucot
-
-question qui tue. Il ne va tout de même pas lui dire qu’il apprécie les vieux parce qu’ils ressemblent plus à des vaches qu’à des zèbres. Ils passent leurs journées à brouter dans un fauteuil, leur consomma­ tion énergétique est faible et ils s’ennuient. Il suffit donc de deux sourires pour les délester de leurs bons de transport.
+Dimanche en pente zébrée – Anne-Caroline Paucot question qui tue. Il ne va tout de même pas lui dire qu’il apprécie les vieux parce qu’ils ressemblent plus à des vaches qu’à des zèbres. Ils passent leurs journées à brouter dans un fauteuil, leur consomma­ tion énergétique est faible et ils s’ennuient. Il suffit donc de deux sourires pour les délester de leurs bons de transport.
 
 – J’aime les vieux parce qu’ils ne sont plus jeunes, finit-il par dire.
 
@@ -3228,9 +3138,7 @@ Un mois plus tard, Paulus reçoit un message de Gunter qui dit : « Tu as raison
 
 Les enfants de Paulus ont su convaincre leur père de répondre à l’invitation. Depuis, chaque mois, les deux familles partent ensemble en voyage. Loin des ultratrips, ils prennent le temps de découvrir un lieu et d’échanger avec la population locale.
 
-## Partie 5 –
-
-## Quelle éthique de l’IA ?
+## Partie 5: Quelle éthique de l’IA ?
 
 L’intelligence artificielle affecte désormais tous les aspects de nos vies sociales. Sans toujours le savoir, nous interagissons quotidiennement avec des systèmes intelligents qui optimisent nos déplacements, créent nos playlists favorites ou protègent nos boîtes électroniques des courriels indésirables. Ils nous servent de manière invisible. C’est du moins l’objectif qu’on leur assigne : rendre nos vies meilleures, tâche par tâche.
 
@@ -3242,7 +3150,7 @@ Placées sous la nécessité d’articuler les potentialités offertes par ces t
 
 En outre, loin des considérations purement spéculatives sur les menaces existentielles de l’IA pour l’humanité, les réflexions se sont cristallisées autour des algorithmes du « quoti­ dien » : ceux qui organisent nos fils d’actualité, guident nos décisions d’achats ou déterminent nos programmes d’entraînement sportif. En 2017, Kate Crawford, Cathy O’Neil et bien d’autres n’ont eu de cesse de rappeler que nous ne sommes pas tous égaux devant ces algorithmes et que leur partialité a des réelles conséquences sur nos vies. Chaque jour, dans une grande opacité, ils affectent notre accès à l’information, à la culture, à l’emploi ou encore au crédit.
 
-## Loin des considérations purement spéculatives sur les menaces existentielles de l’IA pour l’humanité, les réflexions se sont cristallisées autour des algorithmes du « quotidien »
+Loin des considérations purement spéculatives sur les menaces existentielles de l’IA pour l’humanité, les réflexions se sont cristallisées autour des algorithmes du « quotidien »
 
 Par conséquent, si nous souhaitons faire émerger des technologies d’IA conformes à nos valeurs et normes sociales, il faut agir dès à présent en mobilisant la communauté scientifique, les pouvoirs publics, les industriels, les entrepreneurs et les organisations de la société civile. Notre mission a cherché, modestement, à proposer quelques pistes permettant de poser les bases d’un cadre éthique pour le développement de l’IA et à faire vivre ce débat dans la société. Elles reposent sur cinq piliers :
 
@@ -3252,9 +3160,7 @@ Ensuite, il faut adapter la protection des droits et des libertés au regard des
 
 n’est pas en phase avec la logique introduite par ces systèmes – c’est-à-dire l’analyse d’une masse considérable d’information afin d’identifier des tendances et des comportements masqués – et leurs effets sur des groupes d’individus. Pour combler ce décalage, il est nécessaire d’agir en créant des droits collectifs sur les données.
 
-## La loi ne peut pas tout, entre autres car le temps du droit est bien plus long
-
-## que celui du code
+## La loi ne peut pas tout, entre autres car le temps du droit est bien plus long — que celui du code
 
 Parallèlement, il faut s’assurer que les organisations qui déploient et utilisent ces systèmes demeurent responsables devant la loi des éventuels dommages causés par ceux-ci. Si les modalités de ce régime de responsabilité restent à définir, la loi informatique et libertés (1978) et le RGPD (2018) en posent déjà les principes.
 
@@ -3304,7 +3210,7 @@ lois et normes sociales. Il est donc essentiel que le droit et l’éthique rég
 
 Développer l’audit des IA
 
-## À mesure que les systèmes intégrant des technologies d’IA envahissent notre quotidien, nous attendons légitimement qu’ils agissent conformément à nos lois et normes sociales
+À mesure que les systèmes intégrant des technologies d’IA envahissent notre quotidien, nous attendons légitimement qu’ils agissent conformément à nos lois et normes sociales
 
 Constituer une fonction assermentée d’audit des algorithmes
 
@@ -3322,13 +3228,9 @@ La capacité d’évaluation et d’audit des IA ne peut être réservée à un 
 
 aux organes de défense d’intérêts civils et au journalisme de continuer à jouer effica­ cement leur rôle de vigie dans une époque numérisée. À titre indicatif, Propublica, média d’investigation de référence en matière de libertés numériques, et financé à hauteur de 20 millions de dollars par la fondation Soros, dispose de cinq experts de haut niveau à temps plein, développeurs issus d’entreprises technologiques et/ou post docs des meilleures universités, d’équipes de développement support, et de nombreux soutiens académiques. Il est difficile d’identifier pareils moyens dans le paysage français associatif ou du journalisme, a fortiori en matière d’apprentissage automatique.
 
-## La capacité d’évaluation et d’audit des IA ne peut être
+La capacité d’évaluation et d’audit des IA ne peut être réservée à un organe public,
 
-## réservée à un organe public,
-
-## mais doit aussi provenir
-
-## de la société civile
+## mais doit aussi provenir — de la société civile
 
 Dès lors, il s’agit a minima de rendre les courroies de transmission plus fluides entre les autorités, la recherche, et la société civile, en pérennisant des fonctions de médiation dédiées à l’accompagnement de projets qui visent à mobiliser l’IA pour la compréhension des discriminations.
 
@@ -3364,17 +3266,9 @@ Il est important d’expliciter l’ambition et la portée d’un tel enseigneme
 
 qu’il s’agit d’imposer aux étudiants pour en faire de « bonnes personnes ». Il ne s’agit pas non plus de donner des cours de conformité qui concer­ nerait exclusivement le respect de toutes les dispositions législatives et réglementaires au sein des politiques d’entre­ prises. On attend déjà des informaticiens qu’ils respectent la loi. L’enseignement de l’éthique vise plutôt à transmettre aux futurs architectes de la société numérique les outils conceptuels pour identifier et confronter de manière responsable les problèmes éthiques et moraux rencontrés dans le cadre de leur activité professionnelle. En outre, compte tenu des implications concrètes des enjeux soulevés en matière de protection de la vie privée, de discrimination ou de propriété intellectuelle, ils doivent recevoir un enseignement pratique à même de faire le lien entre des théories normatives (déontologie) et leurs applica­ tions à des circonstances particulières. Cette exigence s’avère d’autant plus
 
-## L’enseignement de l’éthique vise à transmettre aux futurs architectes
+## L’enseignement de l’éthique vise à transmettre aux futurs architectes — de la société numérique les outils conceptuels pour identifier et confronter — de manière responsable les problèmes — éthiques et moraux rencontrés dans le cadre de leur activité professionnelle
 
-## de la société numérique les outils conceptuels pour identifier et confronter
-
-## de manière responsable les problèmes
-
-## éthiques et moraux rencontrés dans le cadre de leur activité professionnelle
-
-### Penser l’éthique dès la conception
-
-nécessaire qu’une part conséquente des problématiques identifiées ne sont pas immédiatement appréhendables par le droit. En effet, que faire lorsque tel algorithme de recommandation enferme les utilisateurs dans de confortables bulles filtrantes, masquant la réalité d’un monde plus vaste et complexe ? Le programmeur doit-il œuvrer pour le pluralisme ? Dans un autre registre, le choix du meilleur candidat pour une offre d’embauche est-il réductible aux compétences certifiées par les établissements scolaires ou universitaires ? Dans ces cas où la norme est inexistante, muette ou insuffisante, la respon­ sabilité morale du développeur est accrue. Loin d’apporter des réponses immédiates, l’enseignement de l’éthique est susceptible de déclencher un cercle vertueux où la formation de professionnels plus responsables conduit au développement de technologies plus responsables.
+Penser l’éthique dès la conception nécessaire qu’une part conséquente des problématiques identifiées ne sont pas immédiatement appréhendables par le droit. En effet, que faire lorsque tel algorithme de recommandation enferme les utilisateurs dans de confortables bulles filtrantes, masquant la réalité d’un monde plus vaste et complexe ? Le programmeur doit-il œuvrer pour le pluralisme ? Dans un autre registre, le choix du meilleur candidat pour une offre d’embauche est-il réductible aux compétences certifiées par les établissements scolaires ou universitaires ? Dans ces cas où la norme est inexistante, muette ou insuffisante, la respon­ sabilité morale du développeur est accrue. Loin d’apporter des réponses immédiates, l’enseignement de l’éthique est susceptible de déclencher un cercle vertueux où la formation de professionnels plus responsables conduit au développement de technologies plus responsables.
 
 Quelle formation ? Pour parvenir à former des professionnels plus respon­ sables, l’enseignement de l’éthique et plus largement des sciences sociales doit irriguer l’ensemble de la formation des ingénieurs et informaticiens. À terme, l’objectif est de produire des diplômés qui disposent des compé­ tences techniques nécessaires pour développer des systèmes efficaces et des compétences en sciences sociales pour comprendre l’impact de leurs développements sur la société et ses citoyens. À partir de cette exigence, on peut concevoir différentes maquettes de formation. On peut mettre en place un système de majeure/mineure dans les établissements d’enseignement supérieur, qui permet aux étudiants de choisir une discipline principale, par exemple l’informatique (majeure) et une discipline secondaire telle que le droit (mineure).
 
@@ -3394,9 +3288,7 @@ Le développement de l’IA fait apparaître un certain nombre d’angles morts 
 
 tion des individus. Ceux-ci découlent du fait que la loi Informatique et Libertés, comme le RGPD, ne traitent que des données à caractère personnel. Or, si la portée des protections offertes par ces textes est potentiellement très large, l’intelligence artificielle ne mobilise pas uniquement des données person­ nelles. Loin s’en faut : beaucoup de ces enjeux soulevés par les algorithmes constituent aujourd’hui un angle mort du droit.
 
-## Beaucoup de ces enjeux soulevés
-
-## par les algorithmes constituent aujourd’hui un angle mort du droit
+## Beaucoup de ces enjeux soulevés — par les algorithmes constituent aujourd’hui un angle mort du droit
 
 En effet, la législation sur la protection des données n’encadre les algorithmes d’intelligence artificielle que dans la mesure où ils se fondent sur des données à caractère personnel et où leurs résultats s’appliquent directement à des personnes. C’est le cas d’un bon nombre d’entre eux : offres personnalisées, recommandations de contenus,… mais, de fait, beaucoup d’usages échappent à cette législation, bien qu’ils recèlent des effets significatifs sur des groupes d’individus, et donc sur les personnes. Il a par exemple pu être démontré que les agrégats statistiques qui ont pu motiver d’envoyer des patrouilles de police ou des livreurs Amazon plus souvent dans tel ou tel quartier peuvent alimenter des effets discriminants sur certaines catégories de population, par un mécanisme de reproduction des phénomènes sociaux.
 
@@ -3512,7 +3404,7 @@ Avec l’essor de l’IA, les questionnements éthiques sont aujourd’hui sur t
 
 La place de l’éthique dans le débat sur l’IA a pris aujourd’hui une importance telle qu’il paraît nécessaire d’instaurer, dans un cadre institutionnel, un Comité consultatif national d’éthique pour les technologies numériques et l’intelli­ gence artificielle. Une telle instance pourrait être créée sur le modèle du Comité consultatif national d’éthique (CCNE), qui existe depuis 1983 pour la science de la vie et de santé. Distinctes, ces deux institu­ tions pourraient néanmoins être amenées à étudier et rendre un avis conjoint sur les problématiques qui émergent au croisement de leurs champs d’expertise, pour ce qui touche au transhumanisme, au biohacking ou au traitement par l’IA des données de santé, par exemple. Les deux comités pourraient d’ail­ leurs avoir un ou quelques membres en commun, étant entendu par ailleurs qu’il ne faut pas contraindre leur composition par des règles trop strictes.
 
-## Il paraît nécessaire d’instaurer, dans un cadre institutionnel, un Comité consultatif national d’éthique pour les technologies numériques et l’intelligence artificielle
+Il paraît nécessaire d’instaurer, dans un cadre institutionnel, un Comité consultatif national d’éthique pour les technologies numériques et l’intelligence artificielle
 
 Ce comité d’éthique des technologies numériques et de l’IA serait chargé d’organiser le débat public, de façon lisible, construite et encadrée par la
 
@@ -3668,9 +3560,7 @@ Nolwy referme l’écran-table en sou­ pirant. Elle connaît sa compagne. Quand
 
 Sarah n’entend pas sa compagne. Cette inadaptée technologique a investi dans un brouilleur de radotages.
 
-## Partie 6 –
-
-## Pour une intelligence artificielle inclusive et diverse
+## Partie 6: Pour une intelligence artificielle inclusive et diverse
 
 L’intelligence artificielle ne peut pas être une nouvelle machine à exclure. C’est une exigence démocratique dans un contexte où ces technologies sont en passe de devenir une des clés du monde à venir. Elle ouvre de formidables opportunités de création de valeur et de développement de nos sociétés et des individus. Ces opportunités doivent bénéficier à tous.
 
@@ -3884,7 +3774,7 @@ Créer un système automatisé d’aide à la gestion des démarches administrat
 
 Le manque d’information (difficulté d’accéder à l’information, de contacter quelqu’un, ou la simple méconnaissance des recours possibles), l’expérience de frictions dans les procédures en ligne (demande répétée de pièces justifi­ catives, multiplicité des guichets et interlocuteurs…), le non-traitement des demandes (que ce soit par omission, erreur, retard ou insuf­ fisances de moyens) et le senti­ ment d’inutilité de la démarche expliquent en grande partie les phénomènes d’abandon ou de non-recours aux droits. Pour y remédier, la puissance publique doit repenser le design des démarches administratives pour faire en sorte que les citoyens se sentent davantage destinataires de l’offre de services publics. À cette fin, elle peut mobiliser l’intelligence artificielle pour absorber
 
-## Pour que chacun puisse véritablement bénéficier des avancées de l’IA, nos procédures d’accès aux droits doivent évoluer, et nos capacités de médiation considérablement se renforcer
+Pour que chacun puisse véritablement bénéficier des avancées de l’IA, nos procédures d’accès aux droits doivent évoluer, et nos capacités de médiation considérablement se renforcer
 
 la complexité administrative, fluidifier et personnaliser l’expérience d’utilisation des services publics (accès à une information de qualité et contextualisée transversale à plusieurs administrations, délégation de certaines tâches administratives répétitives…). Un challenge ouvert pourrait être lancé pour développer une plateforme d’aide à la gestion et à la réalisation des démarches administratives basée sur l’intelligence artificielle :
 
@@ -3928,7 +3818,7 @@ Former massivement les agents publics à la médiation numérique
 
 La dématérialisation – et a fortiori l’automatisation – des services publics va aller de pair avec un besoin croissant de dialogue et de médiation humaine de proximité, notamment envers les personnes les plus vulnérables. Le rôle d’accompagnement des publics des agents administratifs en sera d’autant plus central.
 
-## Le développement de l’intelligence artificielle au sein de la fonction publique ne sera bénéfique que s’il améliore les conditions de travail des agents publics au bénéfice des usagers
+Le développement de l’intelligence artificielle au sein de la fonction publique ne sera bénéfique que s’il améliore les conditions de travail des agents publics au bénéfice des usagers
 
 Le développement de l’intel­ ligence artificielle au sein de la fonction publique ne sera bénéfique que s’il améliore les conditions de travail des agents publics au bénéfice des usagers. L’optimisation des processus administratifs doit poursuivre l’objectif d’encapacitation des agents (aide à la recherche d’infor­ mations sur des exceptions de procédures ou ne relevant pas directement de leurs champs de compétence, saisie et transmission automatique d’informa­ tions…) et de recentrage de leurs fonctions sur l’accompagnement humain des personnes en difficulté et la recherche d’une meilleure coordination
 
@@ -4102,11 +3992,7 @@ Zoya descend de la voiture et reste sur le trottoir à la regarder s’éloigner
 
 Le lendemain Bierstein ne fait pas la une de l’actualité pour ses har­ cèlements et agressions sexuels, mais pour son saut fatal en voiture depuis les falaises d’Étretat. Dans tous les médias, l’intelligence artifi­ cielle de sa voiture est responsable de l’accident. Pour les uns, elle a mal évalué les distances. Ce genre de problèmes est fréquent même dans les voitures de luxe. D’autres pensent qu’elle a été hackée. Des pirates l’ont trafiquée pour réagir à la dernière déclaration de Bierstein où il affirmait que les femmes jouissent encore plus lorsqu’elles sont violées. Les AI ont si mauvaise presse ces derniers temps, que pas un n’ima­ gine que l’accident puisse être un meurtre.
 
-## Focus sectoriels
-
-## Focus 1 –
-
-## Transformer l’éducation
+## Focus sectoriels — Focus 1 – — Transformer l’éducation
 
 Notre première fiche concerne l’éducation, dans laquelle l’IA est attendue pour de grands bénéfices potentiels qui s’accompagnent de grandes incer­ titudes. Notre choix de mettre cette action en première place ne traduit pas une volonté de précipiter cette mise en œuvre ; elle traduit plutôt l’urgence à développer des expérimentations.
 
@@ -4134,7 +4020,7 @@ Les évolutions à venir du travail sont telles que la formation ne peut plus se
 
 mations en cours de notre société et s’adapter dans un monde en constante évolution. Et donc de nous accompagner dans la construction d’une complémen­ tarité capacitante avec les machines. En effet toutes les formes d’interactions ne sont pas souhaitables : obéir aux ordres d’une intelligence artificielle, perdre le contrôle sur les processus, déléguer les décisions à la machine sont autant de modes de complémentarité, qui, au niveau individuel et collectif, seront susceptibles de créer de la souffrance au travail. Il faut donc arriver à affirmer que toute complémentarité n’est pas souhaitable et qu’une forme de complémentarité capacitante doit être donc développée. Cela implique d’identifier au préalable les compétences néces­ saires pour encapaciter les individus dans leurs rapports avec les machines, en s’appuyant sur les experts des sciences de l’apprentissage et sciences cognitives, les équipes pédagogiques, les chercheurs en IA. Cela signifie de donner à tous une culture générale sur l’intelligence artificielle et sur l’algorith­ mique, sur les rôles de producteur et de consommateur et les modes de travail spécifiques au développement de ce type de technologie (mode projet…).
 
-## Les compétences créatives,
+Les compétences créatives,
 
 ## sociales et situationnelles seront de plus en plus sollicitées
 
@@ -4144,9 +4030,7 @@ De plus, si l’acquisition des savoirs fondamentaux et des capacités cognitive
 
 créativité des élèves. L’objectif est de donner aux enseignants de nouvelles capacités d’action, dans une logique de volontariat et de valorisation des
 
-#### Enseigner à l’heure à l’IA
-
-collectifs. Il pourrait se décliner par des financements dédiés, la mise à disposition de ressources clés en main, ainsi que la libération de temps de travail pour permettre aux enseignants de documenter et partager leurs pratiques ; – élaborer des indicateurs de bien-être et de créativité, sans rechercher
+Enseigner à l’heure à l’IA collectifs. Il pourrait se décliner par des financements dédiés, la mise à disposition de ressources clés en main, ainsi que la libération de temps de travail pour permettre aux enseignants de documenter et partager leurs pratiques ; – élaborer des indicateurs de bien-être et de créativité, sans rechercher
 
 une précision trop forte qui serait un leurre, et sans que cela soit utilisé à des fins qui puissent être stressantes ou dévalorisantes ; – tester de nouveaux dispositifs de formation des enseignants, axés sur
 
@@ -4176,13 +4060,7 @@ Le développement de l’intelligence artificielle modifie en profondeur le quot
 
 plus facilement ou à déléguer certaines actions, et donc à libérer du temps pour le suivi de ses élèves. Certaines IA permettent aux enseignants de se repérer dans les programmes, d’accéder à des ressources ouvertes ou à des bibliothèques de projets, de faciliter la gestion administrative d’une classe ou encore d’apporter une assistance à la correction. D’autre part, l’IA révèle de nouvelles informations sur les parcours d’apprentissage des apprenants, et donc engage les enseignants à réinventer leurs pratiques pédagogiques.
 
-## Les progrès récents en matière
-
-## d’IA ouvrent des perspectives
-
-## intéressantes pour repenser les politiques éducatives mises
-
-## en œuvre par le ministère
+## Les progrès récents en matière — d’IA ouvrent des perspectives — intéressantes pour repenser les politiques éducatives mises — en œuvre par le ministère
 
 Si les métiers de l’enseignement ont toujours fait preuve d’une grande capacité d’adaptation au changement, l’IA soulève de nombreuses inquié­ tudes sur l’ampleur des transformations pédagogiques à venir. S’il n’est pas question de remplacer les professeurs par des machines, la disponibilité d’informations fines et en temps réel sur l’apprentissage des élèves implique de transformer le design du cours (choix des exercices, gestion des temps collectifs, appariement des élèves) et progressivement de déplacer la valeur de leur enseignement vers la scénarisation de l’expérience d’apprentissage, et l’accompagnement personnalisé des élèves.
 
@@ -4274,9 +4152,7 @@ l’IA et d’acculturer à leur enjeux pour l’Éducation ; – de permettre l
 
 qués : enseignants, personnels du Ministère, équipes pédagogiques, chercheurs, entrepreneurs et associations de la société civile, etc.
 
-## Focus 2 –
-
-## La santé à l’heure de l’IA
+## Focus 2 – — La santé à l’heure de l’IA
 
 L’intelligence artificielle en santé ouvre des perspectives très prometteuses pour améliorer la qualité des soins au bénéfice du patient et réduire leur coût – à travers une prise en charge plus personnalisée et prédictive – mais également leur sécurité – grâce à un appui renforcé à la décision médicale et une meilleure traçabilité. Elle peut également contribuer à améliorer l’accès aux soins des citoyens, grâce à des dispositifs de prédiagnostic médical ou d’aide à l’orientation dans le parcours de soin.
 
@@ -4302,17 +4178,11 @@ L’intelligence artificielle ouvre la voie d’une médecine où le suivi en te
 
 plus seulement lors de la consultation du patient avec son médecin, mais à travers un ensemble de capteurs intégrés à l’individu (objets de quantified self, apps de santé sur le smartphone, véritable « laboratoire d’analyses médicales distribuées ») ou à son environ­ nement (objets de mesure de la pollution, du stress sonore) qui permettent d’agréger une grande quantité de données puis de les analyser de manière automatisée. L’exploitation de ces informations permet de retracer une image précise du patient (Deep Patient), de prédire l’apparition et/ou l’évolution d’une maladie, ainsi que d’adapter sa prise en charge par le réseau de soin.
 
-## La portabilité et la possibilité pour l’individu de communiquer des « données pertinentes
-
-## pour la santé » doivent être repensées
-
-## à l’heure de l’IA
+## La portabilité et la possibilité pour l’individu de communiquer des « données pertinentes — pour la santé » doivent être repensées — à l’heure de l’IA
 
 La portabilité et la possibilité pour l’individu de communiquer des « données pertinentes pour la santé » doivent être repensées à l’heure de l’IA. L’enjeu est d’impliquer, d’encapaciter les individus dans la production de ces infor­ mations tout en veillant à limiter les risques d’intrusion dans la vie privée et l’augmentation. En effet, l’émergence d’une médecine prédictive implique de facto qu’on surveille et analyse en permanence notre état physiologique à la
 
-#### L’IA au service de la médecine
-
-recherche d’un pré-symptôme ou d’une prédisposition à une maladie. Il est donc indispensable de penser des dispositifs humains et techniques adaptés pour accompagner les patients dans la collecte, l’annotation, le décryptage de ces informations. Il est donc proposé de :
+L’IA au service de la médecine recherche d’un pré-symptôme ou d’une prédisposition à une maladie. Il est donc indispensable de penser des dispositifs humains et techniques adaptés pour accompagner les patients dans la collecte, l’annotation, le décryptage de ces informations. Il est donc proposé de :
 
 – lancer un nouveau chantier spécifique accompagnant le Dossier Médical
 
@@ -4338,9 +4208,7 @@ Les professionnels de santé vont jouer un rôle fondamental dans l’expéri­ 
 
 ## Les professionnels de santé vont jouer un rôle fondamental
 
-## dans l’expérimentation et l’entraînement des IA à des fins médicales dans
-
-manière à les rendre lisibles et réutilisables par la machine. Le développement du chantier sur la production de données de santé et du Dossier Médical Partagé et de la télémédecine peuvent accélérer le déploiement de ces usages.
+dans l’expérimentation et l’entraînement des IA à des fins médicales dans manière à les rendre lisibles et réutilisables par la machine. Le développement du chantier sur la production de données de santé et du Dossier Médical Partagé et de la télémédecine peuvent accélérer le déploiement de ces usages.
 
 La production des informations cliniques est en mesure d’améliorer la traçabi­ lité des décisions, notamment les plus complexes, ainsi que la détermination des responsabilités. En effet, les étapes du diagnostic et du traitement pourront être davantage tracées, argumentées et décrites. Avant d’envisager le déploiement massif des programmes d’intelligence artificielle dans un contexte médical, il sera nécessaire de clarifier le régime de responsabilité médicale en cas d’erreur.
 
@@ -4362,7 +4230,7 @@ Fluidifier les expérimentations en temps réel avec les patients et professionn
 
 Afin de bénéficier des avancées de l’IA en médecin, il est important de faciliter les expérimentations de technologie IA en santé en temps réel et au plus près des usagers, en créant les conditions réglementaires et organisationnelles nécessaires (« un bac à sable »). Ce bac à sable aurait pour objectif de faciliter les démarches d’expérimentation, de conception itérative et à terme de déploiement des technologies d’IA en santé avec les usagers (hôpitaux, professionnels de santé, patients, etc.). En effet, l’expérimentation « en condition réelle » est indispensable pour tester l’efficacité du système et l’améliorer en se fondant sur les retours d’expérience et les données produites en situation par les usagers. Elle permet non seulement d’améliorer la pertinence du système et son adéquation avec les besoins de terrain, mais aussi de faciliter son appropriation et à terme de sécuriser sa mise sur le marché, notamment grâce à la capacité de déploie­ ment offerte par la plateforme. Il faudra ainsi :
 
-## L’intelligence artificielle peut être mobilisée par la puissance publique pour conduire des politiques de prévention sanitaire prédictives, plus ciblées et individualisées
+L’intelligence artificielle peut être mobilisée par la puissance publique pour conduire des politiques de prévention sanitaire prédictives, plus ciblées et individualisées
 
 – permettre les expérimentations en conditions réelles pour les techno­
 
@@ -4446,11 +4314,9 @@ Source : https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ ucm577480.h
 
 La régulation de l’intelligence artificielle en santé est un enjeu de souveraineté nationale dans un contexte de course technologique internationale. En effet, un environnement réglementaire trop contraignant aurait pour avantage de conserver à court-terme un certain statu-quo, mais reviendrait à abandonner aux États ayant un cadre plus souple la capacité de construire une philosophie propre sur les usages de l’intelligence artificielle en santé. Il est donc important que la France soit force de proposition à l’échelle internationale, et s’investisse pleinement dans les négociations sur les futurs standards technologiques.
 
-## La régulation de l’intelligence artificielle en santé est un enjeu de souveraineté nationale dans un contexte de course technologique internationale
+La régulation de l’intelligence artificielle en santé est un enjeu de souveraineté nationale dans un contexte de course technologique internationale
 
-## Focus 3 –
-
-## Faire de la France un leader de l’agriculture augmentée
+## Focus 3 – — Faire de la France un leader de l’agriculture augmentée
 
 À l’heure du réchauffement climatique, l’agriculture a, plus que jamais, besoin de sources nouvelles d’intelligence pour continuer à nourrir l’humanité tout en préservant l’environnement. Elle devra être productive en tenant compte des impératifs de préservation de la biodiversité. Moteur de l’économie et de l’amélioration du niveau de vie, l’agriculture est donc appelée à faire face à des défis de plus en plus importants, alors même que nous devons garantir au plus grand nombre une alimentation saine, abordable et respectueuse de l’environnement. Les États généraux de l’alimentation ont montré la sensibilité des consommateurs et des citoyens à ces questions. Ces défis se posent à l’échelle planétaire, quels que soient les niveaux de développement économique.
 
@@ -4486,9 +4352,7 @@ Garantir la couverture réseau nécessaire à une agriculture connectée
 
 Comme l’ont souligné de nombreux rapports, l’inégale couverture des terri­ toires peut pénaliser certaines exploitations agricoles. Au-delà de l’obstacle majeur que cela peut représenter pour les agriculteurs eux-mêmes, ce manque de couverture constitue un frein au développement d’un marché domestique pour d’éventuelles solutions françaises de robotiques et d’IA agricoles. Il apparaît donc urgent de garantir une couverture du réseau homogène en haut et très haut débit, les exploitations agricoles pourraient être considérées comme prioritaires dans l’atteinte des objectifs du plan France très haut débit. Cette couverture pourrait ainsi avoir un objectif plus rapproché que 2022.
 
-### À court terme : préserver nos capacités stratégiques
-
-### et soutenir l’innovation agricole
+### À court terme : préserver nos capacités stratégiques — et soutenir l’innovation agricole
 
 Intensifier les efforts sur la standardisation et l’interopérabilité
 
@@ -4518,23 +4382,21 @@ Viser simplement un objectif d’ouverture généralisée des données agricoles
 
 Cependant pour que la mutualisation produise des effets tangibles, les données mises à disposition devront servir à alimenter un guichet d’accès aux données ouvert au plus grand nombre d’acteurs (sur le modèle proposé par le rapport AgGate de l’IRSTEA). Le développement plus large des capacités suivantes s’avère ainsi clé pour l’essor d’une innovation distribuée dans l’ensemble du secteur agricole :
 
-i. Un point d’entrée bien identifié pour l’accès aux jeux de données
+i.  Un point d’entrée bien identifié pour l’accès aux jeux de données
 
 agricoles, issues de diverses sources, publiques et privées ; selon des protocoles clairs et accessibles.
 
-ii. Un magasin de services numériques mettant à disposition des outils de
+ii.  Un magasin de services numériques mettant à disposition des outils de
 
 traitement des données accessible à la profession, incluant une vitrine d’outils d’aide à la décision, assortie d’une évaluation participative.
 
-iii. Un service de Cloud Agriculteurs pour héberger les données profes­
+iii.  Un service de Cloud Agriculteurs pour héberger les données profes­
 
 sionnelles des agriculteurs et des coopératives, et en gérer facilement les différents régimes d’accès. Les travaux partenariaux initiés suite à
 
 ### À moyen terme : distribuer plus largement les capacités
 
-### d’exploitation des données
-
-l’Appel à Projet Casdar Multipass pour faire émerger des services intégrés de gestion des consentements pourront par exemple œuvrer dans ce sens4.
+d’exploitation des données l’Appel à Projet Casdar Multipass pour faire émerger des services intégrés de gestion des consentements pourront par exemple œuvrer dans ce sens4.
 
 4. Groupe de travail conduit par Arvalis, l’Acta, l’Irstea, Orange et le SMAG : faire émerger de nouveaux services dans une chaîne de confiance.
 
@@ -4552,9 +4414,7 @@ L’État et l’Europe pourraient faciliter ces démarches en complétant le so
 
 5. Le groupe de travail numérique de l’Acta préconise par exemple un système d’identifiant unique similaire à France Connect, regroupant les identifiants MSA – mutualité sociale agricole, PAC, comptables, etc.
 
-## Focus 4 –
-
-## Une politique d’innovation de rupture dans le secteur du transport au niveau européen
+## Focus 4 – — Une politique d’innovation de rupture dans le secteur du transport au niveau européen
 
 Le secteur des transports est un secteur clé de l’Union européenne, qui génère en Europe une valeur ajoutée brute de 548 milliards d’euros et 11 millions d’emplois. Au niveau mondial, c’est un secteur en croissance, notamment du fait de la croissance des populations et de leur concentration dans les villes. Il comprend le transport de personnes et de marchandises, et inclut à la fois le transport routier, ferroviaire, aérien et maritime.
 
@@ -4600,9 +4460,7 @@ Le soutien à la recherche dans l’intelligence artificielle, notamment dans le
 
 L’objectif des plateformes de coordination sera de travailler avec les métiers et les acteurs qui opèrent au quotidien dans les secteurs, collectent les données
 
-#### Des plateformes de mutualisation européennes autour des mobilités
-
-pertinentes et maîtrisent les enjeux opérationnels. Elles pourront être alimen­ tées par les bases déjà publiées sur la plateforme « transport.data.gouv.fr » et les « points d’accès nationaux » prévus par le récent règlement européen sur les « services d’informations sur les déplacements multimodaux » et assurer la cohérence globale entre les données ainsi agrégées. Elles permettront ainsi d’organiser des expérimentations, basées sur des cas d’usage concrets, qui nécessitent un partage de données large entre acteurs. Elles faciliteront également les travaux de recherche des instituts et laboratoires de recherche sur les différents domaines.
+Des plateformes de mutualisation européennes autour des mobilités pertinentes et maîtrisent les enjeux opérationnels. Elles pourront être alimen­ tées par les bases déjà publiées sur la plateforme « transport.data.gouv.fr » et les « points d’accès nationaux » prévus par le récent règlement européen sur les « services d’informations sur les déplacements multimodaux » et assurer la cohérence globale entre les données ainsi agrégées. Elles permettront ainsi d’organiser des expérimentations, basées sur des cas d’usage concrets, qui nécessitent un partage de données large entre acteurs. Elles faciliteront également les travaux de recherche des instituts et laboratoires de recherche sur les différents domaines.
 
 Dans le cas du véhicule autonome, elle pourrait regrouper les équipementiers et les constructeurs automobiles, les gestionnaires des infrastructures routières, les opérateurs de réseaux Internet et mobiles, les entreprises innovantes du domaine de l’IA et des acteurs publics. En fonction des intérêts suscités par le projet, elle pourrait par exemple regrouper des acteurs issus de l’Italie, de la France et de l’Allemagne, du fait de leur importance historique dans le domaine de l’automobile et de la robotique.
 
@@ -4636,9 +4494,7 @@ L’exemple de la région Île-de-France
 
 Il convient de rappeler en premier lieu que le cadre général établi par le RGPD ne s’oppose pas au développement de ce secteur et qu’il n’a aucune
 
-#### Une politique de la donnée offensive
-
-raison d’être sur transposé autour de la problématique du transport et des mobilités qui est génératrice de données à caractère personnel.
+Une politique de la donnée offensive raison d’être sur transposé autour de la problématique du transport et des mobilités qui est génératrice de données à caractère personnel.
 
 Au-delà des enjeux du véhicule autonome, une politique de l’ouverture de la donnée de transport et de mobilité doit être encouragée. Les États-Unis ont par exemple lancé des politiques d’ouverture des données ambitieuses pour soutenir le développement d’acteurs dans les domaines de la planification ou de l’exploitation des transports (Urban Engines, Sidewalk Labs…). La Chine a également affiché sa volonté de soutenir l’accès aux données par les services publics et ses champions nationaux.
 
@@ -4654,9 +4510,7 @@ conditions climatiques. Par ailleurs, les référentiels de scénarios ne sont v
 
 Enfin, en lien avec les recommandations générales du rapport, il est néces­ saire de cartographier l’ensemble des jeux de données détenus par des entités privées et nécessaires au développement de l’IA. Un exemple régulièrement avancé concerne les vidéos de caméras de surveillance en bord d’autoroute, dont certains tronçons dépendent directement des pouvoirs publics. Une réflexion devra être menée concernant ces données particulièrement intéressantes du point de vue de l’entraînement des modèles de conduite autonome.
 
-## Focus 5 –
-
-## L’IA au service de la défense et de la sécurité
+## Focus 5 – — L’IA au service de la défense et de la sécurité
 
 Le domaine de la défense et de la sécurité s’intéresse depuis longtemps aux techniques d’intelligence artificielle sous leurs nombreuses formes : interfaces humain-machine, traitement de l’information, robotique, etc. Pourtant, ce n’est que récemment avec l’essor et la maturité croissante des technologies civiles que de nouvelles perspectives d’application s’ouvrent, aussi bien pour les besoins des phases opérationnelles dans le cadre de l’exercice des missions régaliennes que pour la transformation des activités internes au sein de l’État (par exemple pour les outils mis à dispositions des personnels des ministères). Dans les prochaines années, l’utilisation de l’intelligence artificielle sera une nécessité pour assurer les missions de sécurité, conserver l’ascendant face à nos adversaires potentiels, tenir notre rang par rapport aux alliés (aussi bien au sein de coalitions que dans une perspective d’export) et maintenir un niveau de qualité élevé concernant les services dispensés à l’ensemble des personnels des ministères.
 
@@ -4664,7 +4518,7 @@ La défense et la sécurité sont traitées ici de concert malgré les différen
 
 On constate en l’occurrence que les caractéristiques et les besoins liés aux missions régaliennes sont souvent méconnus des acteurs du numérique (entre­ preneurs ou chercheurs), qui en ignorent les enjeux, les problématiques et les opportunités. Si les ministères concernés jouent un rôle de premier ordre au regard de leurs données et de leurs usages opération­ nels, les ressources humaines et financières dont ils disposent sont limitées. Ainsi, la collabo­ ration entre le public et le privé est impérative et nécessite de voir émerger des écosys­ tèmes de qualité. Le domaine est pourtant très mature et extrêmement riche en cas d’usage et données à haute valeur ajoutée pour des usages d’IA : imagerie (notamment satelli­ taire, drones, hyperspectrale), vidéos, signaux électromagnétiques (radars), systèmes de combat, renseignement, cybersécurité, robotique (aéronau­ tique, marine, terrestre), données de maintenance, etc. Toutefois, pour des raisons légitimes de sécurité, de confidentialité et de faisabilité technique, il n’est pas toujours concevable de faire sortir complètement ces données du contrôle de l’État bien que le développement des technologies d’IA repose souvent sur l’alignement d’un triptyque connu : données, algorithmes et connaissances métiers.
 
-## Accompagner l’écosystème dans la prise en main des problématiques du domaine, en particulier au travers de marchés publics relève d’un véritable enjeu de souveraineté
+Accompagner l’écosystème dans la prise en main des problématiques du domaine, en particulier au travers de marchés publics relève d’un véritable enjeu de souveraineté
 
 Accompagner l’écosystème dans la prise en main des problématiques du domaine, en particulier au travers de marchés publics relève d’un véritable enjeu de souveraineté afin que, demain, nous ne soyons pas contraints de confier, comme cela a pu l’être par le passé, la réalisation de systèmes d’IA pour des besoins régaliens à des acteurs extra européens (exemple de Palantir). Le seul marché de la défense et de la sécurité n’étant pas toujours suffisamment large pour permettre aux entreprises du domaine de passer à l’échelle, il faudra garder à l’esprit que les technologies développées dans ce domaine ont vocation à être transférées à, ou depuis, des domaines civils connexes en tenant compte des intérêts essentiels de l’État. Les objectifs sont donc d’une part, de permettre à l’écosystème de recherche et d’inno­ vation réunissant industriels de la Défense, communautés de recherche et entrepreneurs de travailler sur le domaine ; et d’autre part s’assurer que les innovations produites sont rapidement intégrées aux systèmes opérationnels.
 
@@ -4676,9 +4530,7 @@ L’IA crée avant tout une opportunité pour améliorer le quotidien de l’ens
 
 Le développement et la mise en œuvre de techniques d’IA au sein des systèmes opérationnels sont de plus en plus cruciaux et concernent un spectre d’application large. Pour le traitement de l’information, le volume de données produites croît exponentiellement, la précision et la granularité des données produites par les capteurs augmentent et cette tendance ne va que s’accentuer avec le temps. Avec les ressources humaines dispo­ nibles, quand aujourd’hui on parvient à traiter une quantité de données qui avoisine au mieux les 20 %, à terme ce sera probablement moins de 2 %. Pour endiguer ce phénomène, il est donc nécessaire que les investissements réalisés dans le domaine des capteurs aillent de pair avec ceux dans l’IA permettant d’en exploiter la production. Cependant, bien loin de systèmes visant à automatiser les prises de décision, il s’agit avant tout de permettre à des opérateurs d’appréhender, de naviguer dans et d’exploiter la masse de données qu’ils ont à disposition. L’IA offre ici de nouvelles perspectives, car elle permet non seulement de mieux exploiter les données produites en
 
-#### La nécessité d’une IA régalienne et ses spécificités
-
-continu par les systèmes, mais également de mieux exploiter le patrimoine amassé efficacement. À titre d’exemple dans la recherche de contenu dans un ensemble de vidéos, quand il aurait précédemment fallu faire visualiser ces vidéos minute par minute par un ensemble d’opérateurs humains, il est aujourd’hui envisageable d’utiliser des techniques d’IA pour faire ce travail de façon automatique et beaucoup plus rapide.
+La nécessité d’une IA régalienne et ses spécificités continu par les systèmes, mais également de mieux exploiter le patrimoine amassé efficacement. À titre d’exemple dans la recherche de contenu dans un ensemble de vidéos, quand il aurait précédemment fallu faire visualiser ces vidéos minute par minute par un ensemble d’opérateurs humains, il est aujourd’hui envisageable d’utiliser des techniques d’IA pour faire ce travail de façon automatique et beaucoup plus rapide.
 
 La cyberdéfense et la cybersécurité évoluent dans ce même contexte de tsunami informationnel et de complexification constante des menaces. Si les moyens d’analyse automatiques permettent jusqu’à présent de détecter des attaques déjà connues, la mise en œuvre de techniques d’IA permet aujourd’hui d’imaginer des capacités de détecter, parer voire répondre à des attaques qui étaient jusqu’à présent inconnues. Alors que les modes opératoires des attaquants sont de plus en plus difficilement détectables par la seule capacité d’analyse des opérateurs humains du fait des temps longs et de la subtilité des signaux d’attaque produits, l’IA semble représenter une voie vers une meilleure protection de nos intérêts.
 
@@ -4720,9 +4572,7 @@ Armées.
 
 ### La mise en place d’un environnement propice à l’expérimentation
 
-### et au développement de l’IA
-
-support à la recherche, à l’innovation et au déploiement dans les systèmes opérationnels de briques d’IA, à condition que ce développement soit assorti des infrastructures nécessaires à sa mise en œuvre ainsi qu’à une démarche globale d’expérimentation qui implique l’alimentation en jeux de données, cas d’usage et campagnes d’évaluation. Ce mode d’expérimentation souple nécessite de constituer un bac à sable afin de fluidifier la possibilité de développer et de tester des produits opérationnels. L’objectif est notamment de permettre aux acteurs économiques d’aborder le domaine en bénéficiant de l’accompagnement nécessaire et du support de développement et d’expé­ rimentation, au plus près des usagers. Ce bac à sable permettra de faciliter l’accès et l’utilisation de la plateforme mise en place pour développer de nouveaux usages s’appuyant sur des techniques d’IA, dans un cadre maîtrisé malgré la sensibilité du domaine. À cette fin, il faudra veiller à :
+et au développement de l’IA support à la recherche, à l’innovation et au déploiement dans les systèmes opérationnels de briques d’IA, à condition que ce développement soit assorti des infrastructures nécessaires à sa mise en œuvre ainsi qu’à une démarche globale d’expérimentation qui implique l’alimentation en jeux de données, cas d’usage et campagnes d’évaluation. Ce mode d’expérimentation souple nécessite de constituer un bac à sable afin de fluidifier la possibilité de développer et de tester des produits opérationnels. L’objectif est notamment de permettre aux acteurs économiques d’aborder le domaine en bénéficiant de l’accompagnement nécessaire et du support de développement et d’expé­ rimentation, au plus près des usagers. Ce bac à sable permettra de faciliter l’accès et l’utilisation de la plateforme mise en place pour développer de nouveaux usages s’appuyant sur des techniques d’IA, dans un cadre maîtrisé malgré la sensibilité du domaine. À cette fin, il faudra veiller à :
 
 – permettre l’accès à des données opérationnelles dans un cadre maîtrisé
 
@@ -4758,9 +4608,7 @@ La question des ressources humaines mérite une attention spécifique, bien que 
 
 De même que l’IA apporte une rupture technologique avec l’existant, elle impose de reconsidérer un héritage historique réglementaire et organisationnel qui pourrait freiner son développement artificiellement. Au-delà des recom­ mandations générales concernant par exemple la mise en place de budgets dédiés et pluriannuels transverses à l’ensemble des Administrations, deux points sont particulièrement saillants. Le premier concerne la classification et la déclassification des données et ainsi la possibilité de leur partage avec l’écosystème : la protection de l’information classifiée dans le numérique mérite une réflexion approfondie afin d’en simplifier l’appréhension à l’aune des nouvelles technologies. En particulier, des mécanismes de déclassification
 
-#### Une gouvernance et un cadre à consolider
-
-automatiques pourraient être étudiés afin de faciliter les développements de techniques d’IA nécessitant des données : date de péremption de la classifica­ tion, déclassification massive, transformation systématiques et préidentifiées de la donnée en réduisant le niveau de sensibilité (par exemple lorsque la classification est issue des caractéristiques techniques des capteurs), etc. Le second porte sur la réglementation concernant la sécurité des systèmes d’information en vigueur. Si l’esprit n’est pas remis en cause, il faudra examiner certaines pratiques et déclinaisons qui pourraient être revues pour repenser des contraintes de sécurité adaptées au contexte IA et big data.
+Une gouvernance et un cadre à consolider automatiques pourraient être étudiés afin de faciliter les développements de techniques d’IA nécessitant des données : date de péremption de la classifica­ tion, déclassification massive, transformation systématiques et préidentifiées de la donnée en réduisant le niveau de sensibilité (par exemple lorsque la classification est issue des caractéristiques techniques des capteurs), etc. Le second porte sur la réglementation concernant la sécurité des systèmes d’information en vigueur. Si l’esprit n’est pas remis en cause, il faudra examiner certaines pratiques et déclinaisons qui pourraient être revues pour repenser des contraintes de sécurité adaptées au contexte IA et big data.
 
 Nathanaël Ackerman Hub France IA • Patrice Aknin IRT SystemX • Patrick Albert Hub France IA • Ghizlaine Amrani Qwantcube • Jean-Patrice Anciaux BPI France • Benjamin André CozyCloud • Xavier Apolinarski SATT Paris Saclay / ou SATT Aquitaine • Georges Asseraf Commission nationale des certifica­ tions professionnelle • Jamal Atif CNRS • Pascal Auscher CNRS • Chloe-Agathe Azencott Mines ParisTech • Gilles Babinet Entrepreneur • Francis Bach INRIA • Emmanuel Bacry Polytechnique • Eric Baissus Kalray • Jérôme Balmes Fédération Française de l’Assurance • Philippe Baptiste MESRI • Franck Bardol Meetups Intelligence artifi­ cielle • Guillaume Barrat Nvidia • Adrien Basdevant Lysias • Cyrille Bataller Accenture • Nathalie Beaudemoulin ACPR • Michel Beaudouin-Lafon Université Paris- Saclay • Raphaël Beaufret APHP • Catherine Beauvois CNEFOP • Ugo Bellagamba Université Nice Sophia Antipolis • Michael Benesty Editions Lefebvre Sarrut • Alexandra Bensamoun Université de Rennes 1 • Alain Bensoussan Cabinet Bensoussan • Alain Beretz MESRI • Alain Berger Ardans • Benoit Bergeret Vinci • Philippe Berna Médiation des entreprises • Claudine Bernfeld Anadavi • Geoffroy Berson Ifé • Thierry Berthier Hub France IA • Jean Bertin BPI France • Raphaëlle Bertolon CFE-CGC • Jean-Michel Besnier Professeur à Paris IV • Barbara Bessermann Fédération Française de l’Assurance • Pierre Bessière ISIR • Michel Bidoit CNRS • Pierre Bienvenu ACPR • Isabelle Bloch Télécom ParisTech • Patrick Blouet STMicroelectronics • Isabelle Bonnelie SGMAP • Antoine Bordes Facebook • Nozha Boujemaa INRIA • Jean-Philippe Bourgoin MESRI • Olivier Bousquet Google •
 

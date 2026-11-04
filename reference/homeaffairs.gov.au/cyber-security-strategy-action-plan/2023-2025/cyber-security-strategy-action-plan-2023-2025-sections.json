@@ -21,7 +21,7 @@
     "section_name": "Contents",
     "id_kind": "",
     "parent_id": "",
-    "body": "Executive summary\b 4\n\nAction plan\b 5\n\nShield 1: Strong businesses and citizens\b 6\n\n1. Support small and medium businesses to strengthen their cyber security\b 6\n\n2. Help Australians defend themselves from cyber threats\b 6\n\n3. Disrupt and deter cyber threat actors from attacking Australia\b 7\n\n4. Work with industry to break the ransomware business model\b 7\n\n5. Provide clear cyber guidance for businesses\b 8\n\n6. Make it easier for Australian businesses to access advice and support after a cyber incident\b 9\n\n7. Secure our identities and provide better support to victims of identity theft\b 10\n\nShield 2: Safe technology \b 11\n\n8. Ensure Australians can trust their digital products and software\b 11\n\n9. Protect our most valuable datasets\b 12\n\n10. Promote the safe use of emerging technology\b 13\n\nShield 3: World-class threat sharing and blocking\b 14\n\n11. Create a whole-of-economy threat intelligence network\b 14\n\n12. Scale threat blocking capabilities to stop cyber attacks\b 15\n\nShield 4: Protected critical infrastructure\b 16\n\n13. Clarify the scope of critical infrastructure regulation\b 16\n\n14. Strengthen cyber security obligations and compliance for critical infrastructure\b 17\n\n15. Uplift cyber security of the Commonwealth Government\b 18\n\n16. Pressure-test our critical infrastructure to identify vulnerabilities \b 19\n\nShield 5: Sovereign capabilities\b 20\n\n17. Grow and professionalise our national cyber workforce\b 20\n\n18. Accelerate our local cyber industry, research and innovation\b 20\n\nShield 6: Resilient region and global leadership\b 21\n\n19. Support a cyber-resilient region as the partner of choice\b 21\n\n20. Shape, uphold and defend international cyber rules, norms and standards\b 22\n\nAppendix A: Lead and contributing agency abbreviations\b 23"
+    "body": "Executive summary  4\n\nAction plan  5\n\nShield 1: Strong businesses and citizens  6\n\n1. Support small and medium businesses to strengthen their cyber security  6\n\n2. Help Australians defend themselves from cyber threats  6\n\n3. Disrupt and deter cyber threat actors from attacking Australia  7\n\n4. Work with industry to break the ransomware business model  7\n\n5. Provide clear cyber guidance for businesses  8\n\n6. Make it easier for Australian businesses to access advice and support after a cyber incident  9\n\n7. Secure our identities and provide better support to victims of identity theft  10\n\nShield 2: Safe technology   11\n\n8. Ensure Australians can trust their digital products and software  11\n\n9. Protect our most valuable datasets  12\n\n10. Promote the safe use of emerging technology  13\n\nShield 3: World-class threat sharing and blocking  14\n\n11. Create a whole-of-economy threat intelligence network  14\n\n12. Scale threat blocking capabilities to stop cyber attacks  15\n\nShield 4: Protected critical infrastructure  16\n\n13. Clarify the scope of critical infrastructure regulation  16\n\n14. Strengthen cyber security obligations and compliance for critical infrastructure  17\n\n15. Uplift cyber security of the Commonwealth Government  18\n\n16. Pressure-test our critical infrastructure to identify vulnerabilities   19\n\nShield 5: Sovereign capabilities  20\n\n17. Grow and professionalise our national cyber workforce  20\n\n18. Accelerate our local cyber industry, research and innovation  20\n\nShield 6: Resilient region and global leadership  21\n\n19. Support a cyber-resilient region as the partner of choice  21\n\n20. Shape, uphold and defend international cyber rules, norms and standards  22\n\nAppendix A: Lead and contributing agency abbreviations  23"
   },
   {
     "depth": 2,
@@ -30,14 +30,6 @@
     "id_kind": "",
     "parent_id": "",
     "body": "The Australian Government is committed to its vision of positioning Australia as a world leader in cyber security by 2030. The strength of the 2023–2030 Australian Cyber Security Strategy (the Strategy) can only be measured by the success of its actions. To achieve success, the Australian Government has developed this Horizon 1 Action Plan, which supplements the Strategy and details the key initiatives that will commence over the next two years to put us on a path to achieving our vision.\n\nIn order to become a world leader in cyber security by 2030, the Australian Government will foster genuine partnerships to generate enduring solutions through ongoing collaboration with industry. We will deliver our Strategy across three horizons:\n\nHorizon 3 2029–2030\n\nHorizon 2 2026–2028\n\nHorizon 1 2023–2025\n\nLead the frontier\n\nExpand our reach\n\nStrenghthen our foundations\n\n• In Horizon 1: we will strengthen our foundations. We will address critical gaps in our cyber shields, build better protections for our most vulnerable citizens and businesses, and support initial cyber maturity uplift across our region.\n\n• In Horizon 2: we will scale cyber maturity across the whole economy. We will make further investments in the broader cyber ecosystem, continuing to scale up our cyber industry and grow a diverse cyber workforce.\n\n• In Horizon 3: we will advance the global frontier of cyber security. We will lead the development of emerging cyber technologies adapt to new risks and opportunities across the cyber landscape.\n\nThis approach has been crafted with careful consideration to minimise regulatory burden, promote innovation and maximise participation. The Government recognises the importance of periodic reviews of the Action Plan to ensure that it remains current.\n\nThe Government’s new Executive Cyber Council will play an important role in facilitating genuine and transparent co-leadership on key cyber security issues. The Council will support the delivery of national cyber security priorities, including initiatives under this Action Plan.\n\nA flexible approach to achieving the Strategy’s vision will enable us to remain adaptive to emerging technological, economic and geopolitical trends. Some actions will commence immediately with the release of the Strategy, while some will be implemented over a longer period. To remain current and relevant through to 2030, the Action Plan will be reviewed every two years, with actions being updated, added and removed as required."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Action plan",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
   },
   {
     "depth": 2,
@@ -53,15 +45,7 @@
     "section_name": "Shield",
     "id_kind": "",
     "parent_id": "",
-    "body": "1"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "1\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -77,15 +61,7 @@
     "section_name": "Help Australians defend themselves from cyber threats",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Extend the reach and accessibility of cyber awareness programs\n\nLead agency: • Home Affairs\n\nExpand the national cyber security awareness campaign to uplift cyber security outreach and literacy among the Australian community.\n\nEmpower diverse communities to grow their cyber awareness\n\nLead agency: • Home Affairs\n\nFund grants to community organisations to deliver tailored cyber awareness programs to support diverse cohorts – such as remote and regional communities, culturally and linguistically diverse groups, First Nations communities, young people, seniors, people with disability and neuro-diverse people.\n\nContributing agency: • DSS (Grants Hub)"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Extend the reach and accessibility of cyber awareness programs\n\nLead agency: • Home Affairs\n\nExpand the national cyber security awareness campaign to uplift cyber security outreach and literacy among the Australian community.\n\nEmpower diverse communities to grow their cyber awareness\n\nLead agency: • Home Affairs\n\nFund grants to community organisations to deliver tailored cyber awareness programs to support diverse cohorts – such as remote and regional communities, culturally and linguistically diverse groups, First Nations communities, young people, seniors, people with disability and neuro-diverse people.\n\nContributing agency: • DSS (Grants Hub)\n\nAction agency"
   },
   {
     "depth": 2,
@@ -117,15 +93,7 @@
     "section_name": "Provide clear cyber guidance for businesses",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Clarify expectations of corporate cyber governance\n\nLead agencies: • Home Affairs • Treasury\n\nProvide industry with additional information on cyber governance obligations under current regulation.\n\nGovernment will assist businesses to navigate important obligations and requirements that should be considered when developing cyber security frameworks.\n\nShare lessons learned from cyber incidents\n\nContributing agencies: • AGD • ASIC • Other departments and regulators\n\nLead agency: • Home Affairs\n\nCo-design with industry options to establish a Cyber Incident Review Board to conduct no-fault incident reviews to improve our cyber security. Lessons learned from these reviews will be shared with the public to strengthen our national cyber resilience and help prevent similar incidents from occurring.\n\nContributing agencies: • AFP • AGD • ASD • Defence • PM&C • Other agencies as appropriate"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Clarify expectations of corporate cyber governance\n\nLead agencies: • Home Affairs • Treasury\n\nProvide industry with additional information on cyber governance obligations under current regulation.\n\nGovernment will assist businesses to navigate important obligations and requirements that should be considered when developing cyber security frameworks.\n\nShare lessons learned from cyber incidents\n\nContributing agencies: • AGD • ASIC • Other departments and regulators\n\nLead agency: • Home Affairs\n\nCo-design with industry options to establish a Cyber Incident Review Board to conduct no-fault incident reviews to improve our cyber security. Lessons learned from these reviews will be shared with the public to strengthen our national cyber resilience and help prevent similar incidents from occurring.\n\nContributing agencies: • AFP • AGD • ASD • Defence • PM&C • Other agencies as appropriate\n\nAction agency"
   },
   {
     "depth": 2,
@@ -149,15 +117,7 @@
     "section_name": "Secure our identities and provide better support to victims of identity theft",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Expand the Digital ID program to help keep Australians’ identities safe\n\nLead agency: • Finance\n\nExpand the Digital ID program to reduce the need for people to share sensitive personal information with government and businesses to access services online.\n\nExpand support services for victims of identity theft\n\nContributing agencies: • AGD • ATO • Services Australia • ACCC\n\nLead agency:\n\nContinue support for victims of identity crime. This support will identify and guide individuals on recovering identity, how to mitigate damage, review and where necessary advise on how to replace identity credentials.\n\n• AGD\n\nThe support will also educate on identifying danger signs that the compromised identity is continuing to be misused."
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Shield",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Expand the Digital ID program to help keep Australians’ identities safe\n\nLead agency: • Finance\n\nExpand the Digital ID program to reduce the need for people to share sensitive personal information with government and businesses to access services online.\n\nExpand support services for victims of identity theft\n\nContributing agencies: • AGD • ATO • Services Australia • ACCC\n\nLead agency:\n\nContinue support for victims of identity crime. This support will identify and guide individuals on recovering identity, how to mitigate damage, review and where necessary advise on how to replace identity credentials.\n\n• AGD\n\nThe support will also educate on identifying danger signs that the compromised identity is continuing to be misused.\n\nShield"
   },
   {
     "depth": 2,
@@ -165,15 +125,7 @@
     "section_name": "Safe technology",
     "id_kind": "",
     "parent_id": "",
-    "body": "2"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "2\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -229,15 +181,7 @@
     "section_name": "Shield",
     "id_kind": "",
     "parent_id": "",
-    "body": "3"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "3\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -245,15 +189,7 @@
     "section_name": "Create a whole-of-economy threat intelligence network",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Share strategic threat intelligence with industry\n\nLead agency: • Home Affairs\n\nEstablish the Executive Cyber Council as a coalition of government and industry leaders to improve sharing of threat information across the whole economy, and drive public-private collaboration on other priority initiatives under the Strategy.\n\nExpand tactical and operational threat intelligence sharing\n\nContributing agency: • ASD\n\nLead agency: • ASD\n\nContinue to enhance ASD’s existing threat sharing platforms to enable machine-to-machine exchange of cyber threat intelligence at increased volumes and speeds. These platforms will enable a framework within which industry-to-industry and government-to-industry cyber threat intelligence can be exchanged.\n\nContributing agencies: • ACMA • AGD • DITRDCA\n\nLead agency: • Home Affairs\n\nLaunch a threat sharing acceleration fund to provide seed funding to establish or scale-up Information Sharing and Analysis Centres (ISACs) in low maturity sectors. This program will start with an initial pilot in the health sector to enable the sharing of actionable threat intelligence and cyber best-practice.\n\nContributing agencies: • ACMA • ADHA • AGD • ASD • DITRDCA • Health\n\nLead agency: • Home Affairs\n\nEncourage and incentivise industry to participate in threat sharing platforms, with a focus on organisations that are most capable of collecting and sharing threat intelligence at scale across the economy.\n\nContributing agencies: • ACMA • AGD • ASD • DITRDCA"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Share strategic threat intelligence with industry\n\nLead agency: • Home Affairs\n\nEstablish the Executive Cyber Council as a coalition of government and industry leaders to improve sharing of threat information across the whole economy, and drive public-private collaboration on other priority initiatives under the Strategy.\n\nExpand tactical and operational threat intelligence sharing\n\nContributing agency: • ASD\n\nLead agency: • ASD\n\nContinue to enhance ASD’s existing threat sharing platforms to enable machine-to-machine exchange of cyber threat intelligence at increased volumes and speeds. These platforms will enable a framework within which industry-to-industry and government-to-industry cyber threat intelligence can be exchanged.\n\nContributing agencies: • ACMA • AGD • DITRDCA\n\nLead agency: • Home Affairs\n\nLaunch a threat sharing acceleration fund to provide seed funding to establish or scale-up Information Sharing and Analysis Centres (ISACs) in low maturity sectors. This program will start with an initial pilot in the health sector to enable the sharing of actionable threat intelligence and cyber best-practice.\n\nContributing agencies: • ACMA • ADHA • AGD • ASD • DITRDCA • Health\n\nLead agency: • Home Affairs\n\nEncourage and incentivise industry to participate in threat sharing platforms, with a focus on organisations that are most capable of collecting and sharing threat intelligence at scale across the economy.\n\nContributing agencies: • ACMA • AGD • ASD • DITRDCA\n\nAction agency"
   },
   {
     "depth": 2,
@@ -261,15 +197,7 @@
     "section_name": "Scale threat blocking capabilities to stop cyber attacks",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Develop next-generation threat blocking capabilities\n\nLead agency: • Home Affairs\n\nWork with industry to pilot next-generation threat blocking capabilities across Australian networks by establishing a National Cyber Intel Partnership with industry partners and cyber experts from academia and civil society. This partnership will pilot an automated, near-real-time threat blocking capability, building on – and integrated with – existing government and industry platforms.\n\nExpand the reach of threat blocking capabilities\n\nContributing agencies: • AFP • AGD\n\nLead agency: • Home Affairs\n\nEncourage and incentivise threat blocking across the economy, focusing on the entities that are most capable of blocking threats – including telecommunication providers, ISPs and financial services.\n\nContributing agencies: • ACMA • AGD • ASD • DITRDCA"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Shield",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Develop next-generation threat blocking capabilities\n\nLead agency: • Home Affairs\n\nWork with industry to pilot next-generation threat blocking capabilities across Australian networks by establishing a National Cyber Intel Partnership with industry partners and cyber experts from academia and civil society. This partnership will pilot an automated, near-real-time threat blocking capability, building on – and integrated with – existing government and industry platforms.\n\nExpand the reach of threat blocking capabilities\n\nContributing agencies: • AFP • AGD\n\nLead agency: • Home Affairs\n\nEncourage and incentivise threat blocking across the economy, focusing on the entities that are most capable of blocking threats – including telecommunication providers, ISPs and financial services.\n\nContributing agencies: • ACMA • AGD • ASD • DITRDCA\n\nShield"
   },
   {
     "depth": 2,
@@ -277,15 +205,7 @@
     "section_name": "Protected critical infrastructure",
     "id_kind": "",
     "parent_id": "",
-    "body": "4"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "4\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -293,15 +213,7 @@
     "section_name": "Clarify the scope of critical infrastructure regulation",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Ensure we are protecting the right entities\n\nLead agency: • Home Affairs\n\nAlign telecommunication providers to the same standards as other critical infrastructure entities, commensurate with the criticality and risk profile of the sector by moving security regulation of the telecommunications sector from the Telecommunications Sector Security Reforms (TSSR) in the Telecommunications Act 1997 to the SOCI Act.\n\nContributing agencies:\n\n• ACMA • AGD\n\n• DITRDCA\n\nLead agency: • Home Affairs\n\nClarify the regulation of managed service providers under the SOCI Act and delegated legislation. The proposed clarification of obligations through industry consultation will contribute to a wider security uplift within the data storage and processing sector and provide certainty to affected entities regarding their obligations under the Act.\n\nContributing agency:\n\n• DTA\n\nLead agency: • Home Affairs\n\nExplore options to incorporate cyber security regulation as part of expanded ‘all hazards’ requirements for the aviation and maritime sectors. Government will consider the development of a reform agenda to strengthen Australia’s aviation, maritime and offshore facility security settings, including positive obligations to proactively manage cyber-related risks under existing legislation.\n\nEnsure we are protecting the right assets\n\nContributing agencies: • ACIC • AFP • AGD • AMSA • ASD • CASA • DCCEEW • Defence • DEWR • DFAT • DITRDCA • PM&C\n\nLead agency: • Home Affairs\n\nProtect the critical data held, used and processed by critical infrastructure in ‘business-critical’ data storage systems. Government, in consultation with industry, will consider clarifying the application of the SOCI Act to ensure critical infrastructure entities are protecting their data storage systems where vulnerabilities to those systems could impact the availability, integrity, reliability or confidentiality of critical infrastructure.\n\nContributing agencies: • AGD • OAIC"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Ensure we are protecting the right entities\n\nLead agency: • Home Affairs\n\nAlign telecommunication providers to the same standards as other critical infrastructure entities, commensurate with the criticality and risk profile of the sector by moving security regulation of the telecommunications sector from the Telecommunications Sector Security Reforms (TSSR) in the Telecommunications Act 1997 to the SOCI Act.\n\nContributing agencies:\n\n• ACMA • AGD\n\n• DITRDCA\n\nLead agency: • Home Affairs\n\nClarify the regulation of managed service providers under the SOCI Act and delegated legislation. The proposed clarification of obligations through industry consultation will contribute to a wider security uplift within the data storage and processing sector and provide certainty to affected entities regarding their obligations under the Act.\n\nContributing agency:\n\n• DTA\n\nLead agency: • Home Affairs\n\nExplore options to incorporate cyber security regulation as part of expanded ‘all hazards’ requirements for the aviation and maritime sectors. Government will consider the development of a reform agenda to strengthen Australia’s aviation, maritime and offshore facility security settings, including positive obligations to proactively manage cyber-related risks under existing legislation.\n\nEnsure we are protecting the right assets\n\nContributing agencies: • ACIC • AFP • AGD • AMSA • ASD • CASA • DCCEEW • Defence • DEWR • DFAT • DITRDCA • PM&C\n\nLead agency: • Home Affairs\n\nProtect the critical data held, used and processed by critical infrastructure in ‘business-critical’ data storage systems. Government, in consultation with industry, will consider clarifying the application of the SOCI Act to ensure critical infrastructure entities are protecting their data storage systems where vulnerabilities to those systems could impact the availability, integrity, reliability or confidentiality of critical infrastructure.\n\nContributing agencies: • AGD • OAIC\n\nAction agency"
   },
   {
     "depth": 2,
@@ -309,15 +221,7 @@
     "section_name": "Strengthen cyber security obligations and compliance for critical infrastructure",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Enhance cyber security obligations for Systems of National Significance\n\nLead agency: • Home Affairs\n\nActivate enhanced cyber security obligations for Systems of National Significance -including requirements to develop cyber incident response plans, undertake cyber security exercises, conduct vulnerability assessments, and provide system information to develop and maintain a near real-time threat picture.\n\nEnsure critical infrastructure is compliant with cyber security obligations\n\nContributing agencies: • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate\n\nLead agency: • Home Affairs\n\nFinalise a compliance monitoring and evaluation framework for critical infrastructure entities. This framework will have an initial focus on tracking obligations designated sectors to develop, maintain and comply with a critical infrastructure risk management program. This will include consultation with industry on options for enhanced review and remedy powers to address deficient risk management plans.\n\nHelp critical infrastructure manage the consequences of cyber incidents\n\nContributing agencies: • Commonwealth, state and territory agencies and regulators, as appropriate\n\nLead agency: • Home Affairs\n\nExpand crisis response arrangements to ensure they capture secondary consequences from significant incidents. Government will consult with industry on introducing an all-hazards consequence management power that will allow it to direct an entity to take specific actions to manage the consequences of a nationally significant incident. This is a last-resort power, used where no other powers are available and where it does not interfere with or impede a law enforcement action or regulatory action.\n\nContributing agencies: • ASD • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Enhance cyber security obligations for Systems of National Significance\n\nLead agency: • Home Affairs\n\nActivate enhanced cyber security obligations for Systems of National Significance -including requirements to develop cyber incident response plans, undertake cyber security exercises, conduct vulnerability assessments, and provide system information to develop and maintain a near real-time threat picture.\n\nEnsure critical infrastructure is compliant with cyber security obligations\n\nContributing agencies: • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate\n\nLead agency: • Home Affairs\n\nFinalise a compliance monitoring and evaluation framework for critical infrastructure entities. This framework will have an initial focus on tracking obligations designated sectors to develop, maintain and comply with a critical infrastructure risk management program. This will include consultation with industry on options for enhanced review and remedy powers to address deficient risk management plans.\n\nHelp critical infrastructure manage the consequences of cyber incidents\n\nContributing agencies: • Commonwealth, state and territory agencies and regulators, as appropriate\n\nLead agency: • Home Affairs\n\nExpand crisis response arrangements to ensure they capture secondary consequences from significant incidents. Government will consult with industry on introducing an all-hazards consequence management power that will allow it to direct an entity to take specific actions to manage the consequences of a nationally significant incident. This is a last-resort power, used where no other powers are available and where it does not interfere with or impede a law enforcement action or regulatory action.\n\nContributing agencies: • ASD • Commonwealth agencies and regulators, and state and territory agencies and regulators, as appropriate\n\nAction agency"
   },
   {
     "depth": 2,
@@ -325,15 +229,7 @@
     "section_name": "Uplift cyber security of the Commonwealth Government",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Strengthen the cyber maturity of government departments and agencies\n\nLead agency: • Home Affairs\n\nEnable the National Cyber Security Coordinator to oversee the implementation and reporting of cyber security uplift across the whole government. The Coordinator will oversee implementation of the Commonwealth Cyber Security Uplift Plan, assisted by a central cyber program, policy and assurance function within Home Affairs.\n\nContributing agencies: • ASD • DTA\n\nLead agency: • Home Affairs\n\nDevelop a whole-of-government zero trust culture to protect government data and digital estate. Government will implement defined controls across our networks that draw from internationally-recognised approaches to zero trust. This builds on the best-practice principles established within ASD’s Essential Eight strategies to mitigate cyber security incidents.\n\nContributing agencies: • ASD • DTA • Whole of government\n\nLead agency: • Home Affairs\n\nConduct regular reviews of the cyber maturity of Commonwealth entities as part of the Investment Oversight Framework, administered by the Digital Transformation Agency. Home Affairs and ASD will provide cyber expertise and advice to support the evaluation of the cyber maturity of Commonwealth entities.\n\nIdentify and protect critical systems across government\n\nContributing agencies: • ASD • DTA\n\nLead agency: • Home Affairs\n\nDesignate ‘Systems of Government Significance’ that need to be protected with a higher level of cyber security by identifying and mapping the Australian Government’s most important digital infrastructure. This will include an evaluation of the centrality of systems to digital government functions or services, the scale of their interdependencies, and potential for cascading and significant consequences to Australia’s national interests, economic prosperity and social cohesion if disrupted.\n\nUplift the cyber skills of the Australian Public Service (APS)\n\nContributing agencies: • ASD • Defence • DTA\n\nLead agency: • APSC\n\nDeveloping the cyber skills of the APS, harnessing the Digital Profession and APS Academy to provide a whole-of-government approach to addressing cyber skills shortages in the APS, as well as through the establishment of the Defence Cyber College.\n\nContributing agencies: • ASD • Defence • Home Affairs"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Strengthen the cyber maturity of government departments and agencies\n\nLead agency: • Home Affairs\n\nEnable the National Cyber Security Coordinator to oversee the implementation and reporting of cyber security uplift across the whole government. The Coordinator will oversee implementation of the Commonwealth Cyber Security Uplift Plan, assisted by a central cyber program, policy and assurance function within Home Affairs.\n\nContributing agencies: • ASD • DTA\n\nLead agency: • Home Affairs\n\nDevelop a whole-of-government zero trust culture to protect government data and digital estate. Government will implement defined controls across our networks that draw from internationally-recognised approaches to zero trust. This builds on the best-practice principles established within ASD’s Essential Eight strategies to mitigate cyber security incidents.\n\nContributing agencies: • ASD • DTA • Whole of government\n\nLead agency: • Home Affairs\n\nConduct regular reviews of the cyber maturity of Commonwealth entities as part of the Investment Oversight Framework, administered by the Digital Transformation Agency. Home Affairs and ASD will provide cyber expertise and advice to support the evaluation of the cyber maturity of Commonwealth entities.\n\nIdentify and protect critical systems across government\n\nContributing agencies: • ASD • DTA\n\nLead agency: • Home Affairs\n\nDesignate ‘Systems of Government Significance’ that need to be protected with a higher level of cyber security by identifying and mapping the Australian Government’s most important digital infrastructure. This will include an evaluation of the centrality of systems to digital government functions or services, the scale of their interdependencies, and potential for cascading and significant consequences to Australia’s national interests, economic prosperity and social cohesion if disrupted.\n\nUplift the cyber skills of the Australian Public Service (APS)\n\nContributing agencies: • ASD • Defence • DTA\n\nLead agency: • APSC\n\nDeveloping the cyber skills of the APS, harnessing the Digital Profession and APS Academy to provide a whole-of-government approach to addressing cyber skills shortages in the APS, as well as through the establishment of the Defence Cyber College.\n\nContributing agencies: • ASD • Defence • Home Affairs\n\nAction agency"
   },
   {
     "depth": 2,
@@ -341,15 +237,7 @@
     "section_name": "Pressure-test our critical infrastructure to identify vulnerabilities",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Conduct national cyber security exercises across the economy\n\nLead agency: • Home Affairs\n\nExpand our National Cyber Exercise Program to proactively evaluate consequence management capabilities, identify gaps in coordination and test the effectiveness of incident response plans. Led by the Cyber Coordinator, these exercises will include participation from states and territories, as well as industry leaders, and will incorporate simulation of systemic cyber incidents.\n\nBuild playbooks for incident response\n\nContributing agencies: • AGD • Defence • NEMA\n\nLead agency: • Home Affairs\n\nDevelop incident response playbooks to help coordinate national incident response across Commonwealth, state, territory and industry stakeholders. Developed by the Cyber Coordinator, these playbooks will be informed by the insights gathered from national exercises.\n\nContributing agencies: • AGD • Defence • NEMA"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Shield",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Conduct national cyber security exercises across the economy\n\nLead agency: • Home Affairs\n\nExpand our National Cyber Exercise Program to proactively evaluate consequence management capabilities, identify gaps in coordination and test the effectiveness of incident response plans. Led by the Cyber Coordinator, these exercises will include participation from states and territories, as well as industry leaders, and will incorporate simulation of systemic cyber incidents.\n\nBuild playbooks for incident response\n\nContributing agencies: • AGD • Defence • NEMA\n\nLead agency: • Home Affairs\n\nDevelop incident response playbooks to help coordinate national incident response across Commonwealth, state, territory and industry stakeholders. Developed by the Cyber Coordinator, these playbooks will be informed by the insights gathered from national exercises.\n\nContributing agencies: • AGD • Defence • NEMA\n\nShield"
   },
   {
     "depth": 2,
@@ -357,15 +245,7 @@
     "section_name": "Sovereign capabilities",
     "id_kind": "",
     "parent_id": "",
-    "body": "5"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "5\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -397,15 +277,7 @@
     "section_name": "Shield",
     "id_kind": "",
     "parent_id": "",
-    "body": "6"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action Accountable agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "6\n\nAction Accountable agency"
   },
   {
     "depth": 2,
@@ -413,15 +285,7 @@
     "section_name": "Support a cyber-resilient region as the partner of choice",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia\n\nLead agency: • DFAT\n\nRefocus Australia’s cyber cooperation efforts under the Cyber and Critical Technology Cooperation Program to support enduring cyber resilience and technology security and better position regional governments to prevent cyber incidents. Through the Program’s redesign, a new strategy for gender equality, disability and social inclusion will be developed.\n\nContributing agencies: • AFP • AGD • ASD • Defence • DISR • DITRDCA • eSafety • Home Affairs\n\nLead agency: • DFAT\n\nBuild a regional cyber crisis response team, drawing on specialist industry and government expertise. Government will develop a framework to identify when and how to deploy our limited resources across the region.\n\nHarness private sector innovation and expertise in the region\n\nContributing agencies: • A range of agencies, including ASD\n\nLead agency: • DFAT\n\nPilot options to use technology to protect the region at scale by partnering with our regional neighbours and the private sector to leverage industry solutions to protect more people, systems and data from cyber threats. This includes proactively identifying vulnerabilities – such as end-of-life hardware and software – and providing scalable solutions that are fit-for-purpose, including security features that mitigate avoidable cyber incidents.\n\nContributing agency: • ASD"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "Action agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Strengthen collective cyber resilience with neighbours in the Pacific and Southeast Asia\n\nLead agency: • DFAT\n\nRefocus Australia’s cyber cooperation efforts under the Cyber and Critical Technology Cooperation Program to support enduring cyber resilience and technology security and better position regional governments to prevent cyber incidents. Through the Program’s redesign, a new strategy for gender equality, disability and social inclusion will be developed.\n\nContributing agencies: • AFP • AGD • ASD • Defence • DISR • DITRDCA • eSafety • Home Affairs\n\nLead agency: • DFAT\n\nBuild a regional cyber crisis response team, drawing on specialist industry and government expertise. Government will develop a framework to identify when and how to deploy our limited resources across the region.\n\nHarness private sector innovation and expertise in the region\n\nContributing agencies: • A range of agencies, including ASD\n\nLead agency: • DFAT\n\nPilot options to use technology to protect the region at scale by partnering with our regional neighbours and the private sector to leverage industry solutions to protect more people, systems and data from cyber threats. This includes proactively identifying vulnerabilities – such as end-of-life hardware and software – and providing scalable solutions that are fit-for-purpose, including security features that mitigate avoidable cyber incidents.\n\nContributing agency: • ASD\n\nAction agency"
   },
   {
     "depth": 2,

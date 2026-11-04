@@ -10,29 +10,13 @@
   {
     "depth": 2,
     "section_id": "Appendix 1",
-    "section_name": "NEW ZEALAND’S",
+    "section_name": "NEW ZEALAND’S CYBER SECURITY STRATEGY",
     "id_kind": "annex",
     "parent_id": "",
-    "body": ""
+    "body": "June 2011\n\n© New Zealand Government 7 June 2011 ISBN: 978-0-478-38200-6 www.med.govt.nz/cyberstrategy"
   },
   {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "CYBER SECURITY STRATEGY",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "June 2011",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "© New Zealand Government 7 June 2011 ISBN: 978-0-478-38200-6 www.med.govt.nz/cyberstrategy"
-  },
-  {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Foreword from the Minister",
     "id_kind": "",
@@ -40,7 +24,7 @@
     "body": "The Internet and digital technologies are transforming the\n\nglobal economy and connecting people as never before. New\n\nZealand citizens, businesses and the Government are readily\n\nembracing the many advantages that these technologies offer.\n\nEveryday activities such as banking, shopping and accessing\n\ngovernment services are increasingly being carried out online\n\nwhenever and wherever it is convenient for people to do so.\n\nNew Zealand businesses are using the Internet and other\n\ndigital technologies to access new markets, drive process\n\nefficiencies and improve their service delivery.\n\nThe Government’s Ultra-Fast Broadband and Rural Broadband initiatives will help New\n\nZealanders maximise the benefits of the Internet by providing significantly faster broadband.\n\nAt the same time, our increasing use of the Internet and other digital technologies increases our\n\nvulnerability to cyber threats. Criminals are increasingly using cyber space to gain access to\n\npersonal information, steal businesses’ intellectual property, and gain knowledge of sensitive\n\ngovernment-held information for financial or political gain or other malicious purposes. National\n\nborders present no barrier.\n\nNew Zealand’s Cyber Security Strategy is the Government’s response to the growing cyber\n\nthreat. The Strategy builds on existing government and non-government efforts to improve New\n\nZealand’s cyber security. It brings forward targeted initiatives aimed at improving cyber security\n\nfor individuals, businesses, critical national infrastructure and government.\n\nThe Strategy reflects the fact that an improved New Zealand cyber security response is a\n\nshared responsibility. Government will continue to partner with industry and non-government\n\norganisations to ensure the initiatives outlined in the Strategy are delivered in the most effective\n\nand efficient way.\n\nMeeting the evolving cyber threat requires ongoing vigilance and flexibility to respond to the\n\nchanging environment. I am confident we can work together to meet this challenge.\n\nHon Steven Joyce Minister for Communications and Information Technology"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Introduction",
     "id_kind": "",
@@ -48,7 +32,7 @@
     "body": "A well-functioning cyber space provides important\n\nbenefits for New Zealanders. The Internet and digital\n\ntechnologies enable New Zealanders to have global\n\naccess to products and services and reduce our\n\ngeographical isolation by connecting us with the rest of\n\nthe world.\n\nAccess to greater internet bandwidth and wireless\n\ntechnology – in particular mobile devices such as\n\nsmart phones – is transforming how New Zealanders\n\naccess the Internet and how business is transacted in\n\nNew Zealand. Convenient, high-speed access to\n\ninformation and services is increasingly in demand.\n\nOur critical national infrastructure providers, including the banking and finance,\n\ntelecommunications, transportation and energy sectors, and other businesses, are more and\n\nmore reliant on digital systems.\n\nGovernment agencies utilise the Internet, digital document management systems and shared\n\nonline platforms in their day-to-day business. Increasingly, New Zealanders are accessing\n\ngovernment services online, to complete tasks such as submitting tax returns and making\n\napplications for passport renewals and student loans.\n\nInternet Usage\n\n• At least 75% of New Zealanders have access to the Internet at home.1\n\n• Over 70% of New Zealand Internet subscribers have access to broadband.2\n\n• 77% of New Zealand businesses use Internet banking and 50% of rural businesses buy goods\n\nand services online.3\n\nWith our ever-increasing use of, and reliance on, the Internet and digital technologies comes\n\nincreased exposure, and vulnerability, to cyber threats.\n\nCyber attacks are becoming more advanced and sophisticated. Incidents reported\n\ninternationally suggest that attacks are increasingly targeted at intellectual property and other\n\nproprietary information held by businesses, as well as at individuals. Many attackers are\n\ncoordinated, well-funded, and investing heavily in new ways to exploit the digital environment. 1 Statistics New Zealand Household Use of ICT Survey – 2009. 2 As above. 3 MYOB Business Monitor Internet survey – 2011.\n\nAn Increasing and Evolving Global Threat\n\n• In 2010 alone, one third of all malware in existence was developed.4\n\n• 2010 has been marked by some of the most high-profile, targeted attacks that the cyber\n\nindustry has ever witnessed.5\n\n• There was an upward trend in Trojan botnet activity during 2010, which has gained momentum\n\ndespite increasing coordinated efforts to shut down botnet activity.6\n\n• “Spear phishing”, a more targeted phishing technique using information gained from other\n\nsources to give a veneer of authenticity, grew in prevalence in 2010.7"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "The Role of Government",
     "id_kind": "",
@@ -56,7 +40,7 @@
     "body": "New Zealand is not immune from cyber attacks. A successful targeted cyber attack could\n\ndisrupt our critical services, negatively impact our economy and, potentially, threaten our\n\nnational security. Cyber attacks can interfere with the production and delivery of essential\n\ngoods and services or result in the theft of intellectual property or personal information.\n\nNew Zealand’s cyber security response must meet the challenging nature of the increasing and\n\nevolving cyber security threat. New Zealand needs to ensure its cyber security activities are as\n\ncoordinated and effective as possible to be able to identify and mitigate emerging cyber threats.\n\nThe Government has a responsibility to protect its own systems and assist critical national\n\ninfrastructure providers to ensure New Zealanders and New Zealand businesses can access\n\ngovernment and other essential services.\n\nThe Government also has a role in helping to provide a safe digital environment for businesses\n\nand individuals to operate in. This includes helping New Zealanders and businesses to be more\n\naware of cyber threats, and how to take measures to protect themselves, and establishing\n\nappropriate organisational and legal frameworks.\n\nGovernment units have already been established to tackle issues such as scams, spam, identity\n\ntheft, electronic crime and critical national infrastructure protection. The Government also\n\nprovides support to NetSafe, an independent non-profit organisation, to deliver cyber safety\n\neducation and awareness programmes in schools.\n\nThe Government is actively working with New Zealand’s international security partners on cyber\n\nsecurity issues and is currently reviewing New Zealand’s legal framework in relation to the\n\ngrowing issue of international cyber crime.\n\n4 PandaLabs Annual Security Report – 2010. 5 IBM X-Force Trend and Risk Report – 2010. 6 As above. 7 As above."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Cyber Security Threats",
     "id_kind": "",
@@ -64,7 +48,7 @@
     "body": "The threat to New Zealanders and the New Zealand\n\neconomy from cyber intrusions is real and growing.\n\nNew Zealanders are already targets of common cyber\n\nthreats, such as malware, scams and identity theft.\n\nAttackers exploit vulnerabilities in software, hardware\n\nand user behaviour. They take advantage of people who\n\nfail to follow basic cyber security practices, such as\n\nregularly updating their passwords, updating their\n\nantivirus software and using protected wireless networks.\n\nOnce attackers have access to a computer or network, they can steal or distort the information\n\nstored on it, corrupt its operations or program it to attack other computers and systems.\n\nUnprotected home computers that are infected with malware can be used as a resource to build\n\nbotnets. Botnets harness the computing power of thousands or even millions of individual\n\ncomputers to launch remote attacks on information and communications networks, commercial\n\nsystems and government websites with the aim of denying the legitimate use of the service.\n\nThe Threat to New Zealand\n\n• 70% of New Zealand adults have been the targets of some form of cyber crime8, with the most\n\ncommon complaints being computer scams, fraud and viruses/malware.9\n\n• New Zealanders are frequently the targets of international scams and fraud attempts, losing up\n\nto $500 million due to scams annually.10\n\n• International data suggests 133,000 New Zealanders per annum are victims of identity fraud\n\n(the majority of cases having a cyber element), with around one third falling victim to identity\n\ntheft and two thirds falling victim to credit or bank card fraud.11\n\n• A recent survey showed that 54% of New Zealanders feel they know little or nothing at all about\n\ncomputer security risks and solutions.12\n\n• 59% of New Zealanders do not secure their mobile phones, PDAs or smart phones by using,\n\nand regularly changing, a password or PIN.13\n\n8 Norton Cybercrime Report 2010: The Human Impact. 9 New Zealand Police – 2011. 10 Ministry of Consumer Affairs – 2010. 11 Department of Internal Affairs – 2010. 12 AVG/NetSafe Survey – March 2011. 13 Unisys Security Index – 2010."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Cyber crime",
     "id_kind": "",
@@ -72,7 +56,7 @@
     "body": "Criminals operating in cyber space are often well-organised and well-funded. They are\n\nconstantly targeting home users, businesses and government systems. Organised criminals\n\nare involved in activities such as identity theft, selling fake goods and services and trading\n\ninformation with other criminals such as stolen credit card details, passwords and malware.\n\nCriminals are finding increasingly sophisticated ways to gain access to information online. For\n\nexample, as the popularity of social networking sites increases, criminals are exploiting\n\nopportunities to use these sites to access individuals’ personal information14. In addition to\n\nobtaining personal information, cyber criminals also seek to obtain intellectual property and\n\ngovernment-held information for financial gain.\n\nSocial Networking Targets\n\n• Cyber criminals are increasingly using social networking sites to lure victims to websites that\n\nattempt to push malware or launch an attack on the victim’s computer.15\n\n• Attackers exploit the profile information available on social networking sites (e.g. birth dates,\n\nphone numbers, employment details and other information) to mount targeted attacks.16"
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Cyber Espionage",
     "id_kind": "",
@@ -80,7 +64,7 @@
     "body": "Some of the most advanced and persistent cyber attacks on governments and critical\n\ninfrastructure worldwide are thought to originate from foreign military and intelligence services\n\nor organised criminal groups. Media organisations around the world are reporting attacks on\n\ngovernment systems, national infrastructure and businesses that have resulted in access to\n\ncommercially sensitive information, intellectual property and state or trade secrets."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Hacktivism",
     "id_kind": "",
@@ -88,7 +72,7 @@
     "body": "There has also been a global increase in ‘hactivism’. Hacktivists seek to gain control over\n\ncomputer systems or websites to manipulate them to promote a cause, make a political\n\nstatement or disrupt services, for example, by overloading websites with botnet attacks, which\n\ncan deny or prevent the legitimate use of the service."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Terrorist use of the Internet",
     "id_kind": "",
@@ -96,15 +80,15 @@
     "body": "Terrorists recognise the growing worldwide dependence on cyber systems and may seek to\n\ntake advantage of the vulnerabilities that exist. It is likely that terrorists will continue to develop\n\ntheir cyber capability and use of the Internet to support recruitment and fundraising activities.\n\n14 Sophos Security Treat Report – 2010. 15 Symantec Internet Security Threat Report: Trends for 2010. 16 As above."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "New Zealand’s Response",
     "id_kind": "",
     "parent_id": "",
-    "body": "New Zealand’s Cyber Security Strategy outlines the Government’s response to the growing\n\ncyber threat. The Strategy highlights initiatives for individuals, businesses and government to\n\nstrengthen New Zealand’s cyber security position.\n\nThe key objectives of the Strategy are to:\n\n\u0001 raise the cyber security awareness and understanding of individuals and small\n\nbusinesses;\n\n\u0001 improve the level of cyber security across government; and\n\n\u0001 build strategic relationships to improve cyber security for critical national infrastructure\n\nand other businesses.\n\nThe Government has appointed the Ministry of Economic Development as the lead policy\n\nagency responsible for coordinating cyber security policy and implementing this Strategy."
+    "body": "New Zealand’s Cyber Security Strategy outlines the Government’s response to the growing\n\ncyber threat. The Strategy highlights initiatives for individuals, businesses and government to\n\nstrengthen New Zealand’s cyber security position.\n\nThe key objectives of the Strategy are to:\n\nraise the cyber security awareness and understanding of individuals and small\n\nbusinesses;\n\nimprove the level of cyber security across government; and\n\nbuild strategic relationships to improve cyber security for critical national infrastructure\n\nand other businesses.\n\nThe Government has appointed the Ministry of Economic Development as the lead policy\n\nagency responsible for coordinating cyber security policy and implementing this Strategy."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "A Partnership Approach",
     "id_kind": "",
@@ -112,35 +96,19 @@
     "body": "Improving cyber security is a shared responsibility. In developing this Strategy, the Government\n\nhas sought input from a wide range of stakeholders across government, industry, non-\n\ngovernment organisations and academia.\n\nThe Government will continue to build partnerships and work with these stakeholders to\n\nimplement the initiatives outlined in the Strategy and to explore further opportunities to enhance\n\nNew Zealand’s cyber security response.\n\nInternationally, the Government will continue to collaborate with security and trade partners to\n\nensure New Zealand contributes effectively to global cyber security initiatives."
   },
   {
-    "depth": 2,
+    "depth": 3,
     "section_id": "",
     "section_name": "Priority Areas and Key Initiatives",
     "id_kind": "",
     "parent_id": "",
-    "body": "New Zealand’s Cyber Security Strategy has three priority areas:"
-  },
-  {
-    "depth": 3,
-    "section_id": "1",
-    "section_name": "Increasing Awareness and Online Security",
-    "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "2",
-    "section_name": "Protecting Government Systems and Information",
-    "id_kind": "numbered",
-    "parent_id": "",
-    "body": ""
+    "body": "New Zealand’s Cyber Security Strategy has three priority areas:\n\n1. Increasing Awareness and Online Security\n\n2. Protecting Government Systems and Information"
   },
   {
     "depth": 3,
     "section_id": "3",
     "section_name": "Incident Response and Planning",
     "id_kind": "numbered",
-    "parent_id": "",
+    "parent_id": "Appendix 1",
     "body": "The Strategy identifies key initiatives, and longer-term initiatives, under these priority areas.\n\nImplementation of the key initiatives will begin in 2011."
   },
   {
@@ -157,7 +125,7 @@
     "section_name": "Key initiatives:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Partner with industry and non-government organisations, such as NetSafe, to:\n\n– centralise cyber security information and resources for ease of access; and\n\n– deliver a coordinated cyber safety awareness-raising programme."
+    "body": "Partner with industry and non-government organisations, such as NetSafe, to:\n\n– centralise cyber security information and resources for ease of access; and\n\n– deliver a coordinated cyber safety awareness-raising programme."
   },
   {
     "depth": 3,
@@ -165,7 +133,7 @@
     "section_name": "Longer-term initiative:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Progress work with Internet Service Providers to develop appropriate solutions to\n\naddress cyber security issues, such as infected computers and botnets."
+    "body": "Progress work with Internet Service Providers to develop appropriate solutions to\n\naddress cyber security issues, such as infected computers and botnets."
   },
   {
     "depth": 2,
@@ -181,7 +149,7 @@
     "section_name": "Key initiatives:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Establish a National Cyber Security Centre within the Government Communications\n\nSecurity Bureau.\n\n\u0001 Implement steps to improve cyber security practices in government agencies."
+    "body": "Establish a National Cyber Security Centre within the Government Communications\n\nSecurity Bureau.\n\nImplement steps to improve cyber security practices in government agencies."
   },
   {
     "depth": 2,
@@ -197,7 +165,7 @@
     "section_name": "Key initiatives:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Establish a National Cyber Security Centre, which will absorb the functions of the\n\nCCIP.\n\n\u0001 Revise the Government’s national cyber incident response plan.\n\n\u0001 Expand work with industry, including critical national infrastructure providers and\n\nbusinesses to support them to review their cyber security responses."
+    "body": "Establish a National Cyber Security Centre, which will absorb the functions of the\n\nCCIP.\n\nRevise the Government’s national cyber incident response plan.\n\nExpand work with industry, including critical national infrastructure providers and\n\nbusinesses to support them to review their cyber security responses."
   },
   {
     "depth": 3,
@@ -205,7 +173,7 @@
     "section_name": "Longer-term initiatives:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Work with interested parties to determine the need for a New Zealand CERT."
+    "body": "Work with interested parties to determine the need for a New Zealand CERT."
   },
   {
     "depth": 2,
@@ -221,7 +189,7 @@
     "section_name": "Longer-term initiatives:",
     "id_kind": "",
     "parent_id": "",
-    "body": "\u0001 Work with educational and training institutions to determine an appropriate solution to\n\nmeet the need for cyber security professionals in New Zealand.\n\n\u0001 Work with international partners on initiatives to combat cyber crime and determine\n\nNew Zealand’s alignment with the Council of Europe Convention on Cybercrime."
+    "body": "Work with educational and training institutions to determine an appropriate solution to\n\nmeet the need for cyber security professionals in New Zealand.\n\nWork with international partners on initiatives to combat cyber crime and determine\n\nNew Zealand’s alignment with the Council of Europe Convention on Cybercrime."
   },
   {
     "depth": 2,
@@ -389,14 +357,6 @@
     "section_name": "Glossary Sources:",
     "id_kind": "",
     "parent_id": "",
-    "body": "Centre for Critical Infrastructure Protection.\n\nIntellectual Property Office of New Zealand.\n\nNew Zealand Police Electronic Crime Strategy to 2010.\n\nMicrosoft Security Intelligence Report – January to June 2009.\n\nMinistry of Consumer Affairs – 2010."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "www.med.govt.nz/cyberstrategy",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "Centre for Critical Infrastructure Protection.\n\nIntellectual Property Office of New Zealand.\n\nNew Zealand Police Electronic Crime Strategy to 2010.\n\nMicrosoft Security Intelligence Report – January to June 2009.\n\nMinistry of Consumer Affairs – 2010.\n\nwww.med.govt.nz/cyberstrategy"
   }
 ]

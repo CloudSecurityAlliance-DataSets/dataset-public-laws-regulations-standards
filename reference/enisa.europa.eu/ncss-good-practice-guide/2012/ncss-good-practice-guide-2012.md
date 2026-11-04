@@ -1,10 +1,8 @@
 # National Cyber Security Strategies: Practical Guide on Development and Execution (2012)
 
-## National Cyber Security Strategies
-
 ## Practical Guide on Development and Execution
 
-## December 2012
+December 2012
 
 ### About ENISA
 
