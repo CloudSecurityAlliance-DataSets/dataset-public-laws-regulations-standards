@@ -33,7 +33,7 @@
   },
   {
     "depth": 2,
-    "section_id": "1 (1)",
+    "section_id": "The Digitization of National Security: 1",
     "section_name": "Introduction",
     "id_kind": "numbered",
     "parent_id": "",
@@ -44,7 +44,7 @@
     "section_id": "1.1",
     "section_name": "Public trust and government response",
     "id_kind": "numbered",
-    "parent_id": "1 (1)",
+    "parent_id": "The Digitization of National Security: 1",
     "body": "According to the 2023 Edelman Trust Barometer, the average percent trust in NGOs, business, government and media has gone down from 54% in 2022 to 52% in 2023.[Footnote 5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn5) With respect to the police and the Federal Parliament, Statistics Canada's 2023 survey shows Canadians have a high level of confidence in the police (67%), with racialized communities having significantly less confidence, and a generally low level of confidence in Parliament (36%).[Footnote 6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn6) On emerging technologies such as artificial intelligence, one global study of trust levels from 2023 conducted by KPMG and the University of Queensland found most citizens divided as to whether the prospect benefits outweigh the likely risks, while just 40% of respondents across all countries believe current regulations, laws and safeguards are sufficient to make AI use safe.[Footnote 7](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn7) A 2022 Ipsos survey of familiarity with and trust in AI found Canadians more skeptical about AI than the global average. Only a third (34%) of respondents agreed that they trust companies that use AI as much as they trust other companies.[Footnote 8](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn8)\n\nAt the very least, it is encouraging that many governments recognize the need for a more open and outward mindset in terms of internal cyber-readiness and digital resilience. As a case in point, on October 30, 2023, President Biden issued an Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence.[Footnote 9](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn9) It includes measures for \"Ensuring Responsible and Effective Government Use of AI.\" Canada is mentioned as one of the countries the U.S. consulted on AI governance frameworks. Addressing the specific need for transparency in Government use of technology, the May 12, 2021 Executive Order on Improving the Nation's Cybersecurity observes \"In the end, the trust we place in our digital infrastructure should be proportional to how trustworthy and transparent that infrastructure is, and the consequences we will incur if that trust is misplaced.\"[Footnote 10](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn10)\n\nThe Government of Canada has adopted its own internal tools, governing its development of applications of artificial intelligence. They include the Treasury Board Secretariat *Directive on Automated Decision-Making*[Footnote 11](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn11), a suite of policies on the use of artificial intelligence under the guidance on Responsible use of AI.[Footnote 12](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn12) It includes the Algorithmic Impact Assessment tool, addressing, among other concerns, the need for \"planned transparency measures to communicate information about the initiative to clients and the public\".[Footnote 13](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn13) As fair and transparent government use of artificial intelligence cannot be dissociated from its ethical development in the private sector, in June 2022, the Government of Canada introduced Bill C-27, proposing, among other legislative amendments, the *Artificial Intelligence and Data Act*, still before the House of Commons.\n\nDespite such laudable sentiments, and initiatives, the Canadian Government has also acknowledged limited progress and systemic challenges – and that much more must be done. As governments therefore seek to expand their digital capabilities (as many entities such as CSE, CBSA and the RCMP have explicitly committed to doing so), such efforts give rise to important questions of means and consequences (intended or otherwise) that determine effectiveness and accountability. And it is here where openness and transparency are critically important.\n\nIn addition to profound consequences for individual privacy (a key theme of our prior reports and this one as well), there are many ways in which digitization and government's increasingly data-driven processes challenge transparency. As just a few important examples:\n\n- Covertness: transparency may be stunted as digital tools are deployed covertly;\n- Complexity: digital technologies and algorithmic configurations are beyond the comprehension of most citizens and stakeholders;\n- Opacity: many digital technologies, perhaps most notably AI systems, rely on elements that are often opaque even to many experts;\n- Unpredictability: digital technology, such as the use of AI for automated decision systems, often produces unintended consequences, further complicating transparency and accountability."
   },
   {
@@ -52,12 +52,12 @@
     "section_id": "1.2",
     "section_name": "Openness on digitization",
     "id_kind": "numbered",
-    "parent_id": "1 (1)",
+    "parent_id": "The Digitization of National Security: 1",
     "body": "In addressing such challenges, while also seeking to recognize the critically important opportunities afforded by digital and data-driven innovation, transparency matters - and it must be viewed as central to the pursuit of digital governance and national security reforms. The new internal and outward partnerships called for by Governments themselves necessitate a commitment to both systemic openness and public engagement in order to reverse the erosion of trust that can greatly impede government's abilities to innovate and adapt, particularly given the accelerating pace of technological change.\n\nOpenness and engagement are also essential to mitigating potential biases inherent in digital systems that carry heightened risks for the most vulnerable and stigmatized communities (a key theme of our prior report). Within the public sector as well, a diverse and inclusive workforce is an essential enabler of digital innovation, as Canada's national security agencies have themselves recognized, yet struggle to fully address.\n\nBuilding on this first introductory section, this report is organized in the following manner:\n\n- Part two seeks to explain some of the main risks, challenges and opportunities stemming from national security's expanding digital landscape. It should be noted early on that this section constitutes a sampling of risks, challenges and opportunities; it is not exhaustive in breadth or depth.\n- Part three provides specific recommendations for national security agencies to consider for adoption. These relate to governance principles and safeguards to balance digital innovation and public accountability going forward.\n\nOur recommendations are formulated with the Government of Canada's own transparency principles in mind - as these principles were devised to underpin the National Security Transparency Commitment.[Footnote 14](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn14) Accordingly, it is our hope and intent that this report's discussion and guidance can help strengthen the Government's national security readiness and digital prowess by better leveraging transparency as a basis for continuous innovation, systemic accountability, and public trust."
   },
   {
     "depth": 2,
-    "section_id": "2 (1)",
+    "section_id": "The Digitization of National Security: 2",
     "section_name": "National landscape and the expanding digital landscape",
     "id_kind": "numbered",
     "parent_id": "",
@@ -68,7 +68,7 @@
     "section_id": "2.2.1",
     "section_name": "Cyber-security and privacy",
     "id_kind": "numbered",
-    "parent_id": "2 (1)",
+    "parent_id": "The Digitization of National Security: 2",
     "body": "As the world grows more reliant on digital infrastructure, cyber-security is a growing concern across all sectors. Cyber-attacks become national security concerns when they are directed to our critical infrastructure. For the Government of Canada, the twofold challenge is to ensure cyber-defences are in place without intruding upon privacy in cyber-space. Risks to privacy are heightened as offensive cyber-capabilities are expanding and becoming more pronounced as tools of national security and intelligence operations that often enjoin Canadian authorities and its allies in facing shared external threats.\n\nWith respect to the governance of cyber-security, and the importance of transparency in addressing some of the key challenges and opportunities facing the public sector, three specific sub-themes will be examined here: i) digital infrastructure and data capacities; ii) external collaboration and engagement in forging collective resilience across sectors; and iii) electoral interference and democratic stability."
   },
   {
@@ -100,7 +100,7 @@
     "section_id": "2.2.2",
     "section_name": "Online safety/hate and ideologically motivated violent extremism",
     "id_kind": "numbered",
-    "parent_id": "2 (1)",
+    "parent_id": "The Digitization of National Security: 2",
     "body": "While social media and other online platforms offer myriad opportunities by breaking the barriers of scale, space, and time for people to connect, to acquire and share knowledge, and to cooperate on common causes, these opportunities can be overshadowed by disinformation, efforts to radicalize and recruit vulnerable people along extreme ideological or religious worldviews, and even incite violence within groups or in lone actors.\n\nNot all these undesirable behaviours are addressed by existing legal frameworks. As such, the concept of \"online safety\" is often used to identify issues at the margins of, or entirely outside of traditional cybersecurity. It is also meant to convey that many areas where issues of safety, or vulnerability arise are found lay outside the reach of most types of explicit regulation. At its minimum, safety is simply a matter of personal awareness and circumspection while browsing and interacting online."
   },
   {
@@ -124,7 +124,7 @@
     "section_id": "2.2.3",
     "section_name": "Artificial intelligence",
     "id_kind": "numbered",
-    "parent_id": "2 (1)",
+    "parent_id": "The Digitization of National Security: 2",
     "body": "In its 2022 report, NS-TAG adopted a wide definition of the term \"artificial intelligence,\" based on OECD guidelines, which includes any machine-based process used to produce or help produce organizational or individual decisions. Such processes are currently used in the production of intelligence in multiple agencies related to national security. This potentially includes surveillance in massive datasets (e.g. individual surveillance, pattern recognition, network analysis, geographic analysis), identification and authentication of individuals and objects (e.g. biometric and behavioural recognition, parcel and luggage scanners), space-time prediction based on multiple data sources (e.g. predictive policing) and data de-anonymization and database reconciliation (open source data analysis).\n\nSince then, *An Act to enact the Consumer Privacy Protection Act*, the *Personal Information and Data Protection Tribunal Act* and the *Artificial Intelligence and Data Act* and to make consequential and related amendments to other Acts (Bill C-27) was tabled, introducing the *Artificial Intelligence and Data Act* to regulate the use of artificial intelligence (AI) in international and interprovincial trade and commerce. The Bill defines an AI system as \"a technological system that, autonomously or partly autonomously, processes data related to human activities through the use of a genetic algorithm, a neural network, machine learning or another technique in order to generate content or make decisions, recommendations or predictions.\"[Footnote 26](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn26)\n\nAs explained in the NS-TAG's 2022 third report (Section four on AI), there are three types of harm that can potentially stem from the design and deployment of AI systems: intended, unintended, and systemic. Intended harm can reflect militaristic endeavours, or a range of cyber-intrusions or even intelligence gathering exercises with disruptive or offensive objectives. Unintended harm often reflects algorithmic design flaws (often not foreseen in advance) that can have perverse impacts on individuals or groups of individuals; one frequently cited example is a financial institution that deploys an AI program that inadvertently excludes more individuals from a racialized minority. Systemic harm is often closely related to unintended harm, but the scale is often wider and the problems more deep-rooted and difficult to rectify. As the national security community seeks to expand its reliance on AI systems across a range of programs and services (with both security and service objectives in mind), recognizing all three types of harm is important. AI transparency brings a new, discrete, challenge in transparency and accountability of national security operations.\n\nWithin the context of this report's wider and more direct focus on digitization, our focus here is better understanding the emerging contours between national security and AI, as well as some key tensions between transparency and secrecy shaping this evolution. We then examine and situate these tensions with respect to specific Government of Canada responses – including existing national security entities and proposed policies and mechanisms currently under development."
   },
   {
@@ -172,7 +172,7 @@
     "section_id": "2.4",
     "section_name": "Surveillance and encryption",
     "id_kind": "numbered",
-    "parent_id": "2 (1)",
+    "parent_id": "The Digitization of National Security: 2",
     "body": "AI-based and other constantly evolving techniques for data analysis logically call for several other practices that require a closer look. One that has been in the public eye is the collection of increasingly numerous, and increasingly wide data sources, which is both encouraged and made easier by the massive digitization of daily life that has occurred in the last decade. Another is indefinite data retention. Having met with CBSA, CSE and CSIS over the last few months, NS-TAG has found it difficult to obtain information on either of these practices, especially the latter. Greater transparency regarding data retention schedules is required.\n\nThe Government of Canada has seen fit to broaden the power of security institutions to collect and retain data through *An Act Respecting National Security Matters*, in force since 2019, which in turn increases the size of the space in need of transparency. That said, the 2019 legislative changes did impose some guardrails on CSIS in particular. This coupled with the introduction of NSICOP (through Bill C-22), the creation of National Security and Intelligence Review Agency, and the establishment of the Intelligence Commissioner has demonstrated some commitment to transparency and accountability."
   },
   {
@@ -212,7 +212,7 @@
     "section_id": "2.5",
     "section_name": "Equity, diversity, and inclusion",
     "id_kind": "numbered",
-    "parent_id": "2 (1)",
+    "parent_id": "The Digitization of National Security: 2",
     "body": "In our previous three reports, we have stressed the importance for national security organizations to embrace equity, diversity and inclusion (EDI) in their culture and embed it in an ongoing and transparent way in their activities to improve trust, particularly with the underrepresented groups like women, black, racialized, marginalized, and other minority communities.\n\nFor example, in our 2020 report, the NS-TAG stated that \"National security agencies must acknowledge that systemic racism and unconscious biases exist within them, and that these biases are manifested in their interactions toward certain members of the public. If national security agencies do not recognize and vigorously address these existing biases, they risk individually or collectively failing to detect, and act upon, actual dangers posed to society.\"[Footnote 43](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn43)\n\nIn our 2021 report, we recommended that in their pursuit of more transparency, national security departments and agencies should develop specific indicators to measure progress toward achieving greater transparency. These should be relevant to the mandate of each specific agency, though some indicators could also be common across the community. The regular publication of disaggregated data on diversity, including on race was one of the suggested indicators.[Footnote 44](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn44)"
   },
   {
@@ -233,7 +233,7 @@
   },
   {
     "depth": 2,
-    "section_id": "3 (1)",
+    "section_id": "The Digitization of National Security: 3",
     "section_name": "Conclusions and recommendations",
     "id_kind": "numbered",
     "parent_id": "",
@@ -252,7 +252,7 @@
     "section_id": "Recommendation 1",
     "section_name": "Implementation of recommendations from mid-term evaluation of the National Cyber Security Strategy",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "In light of the rising prominence of cyber-security threats and challenges, and given the Government of Canada's own 2022 midterm evaluation of its National Cyber-Security Strategy (NCSS), more transparency is required in terms of how the four recommendations made to the Senior Assistant Deputy Minister, National and Cyber Security Branch are being acted upon, namely:\n\n- Enhance leadership and coordination efforts by prioritizing work on the forward policy agenda, including addressing information sharing challenges and forming relationships with other levels of government, particularly provinces and territories;\n- Develop and implement follow-up processes to collect information regarding the implementation of mitigation measures by participants as a result of activities for CI sectors;\n- Develop an approach to utilize CSCP project findings to inform the NCSS policy agenda and decision-making;\n- Increase awareness of how aspects of diversity and inclusion inherent to GBA Plus apply to cybersecurity.[Footnote 63](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn63)"
   },
   {
@@ -260,7 +260,7 @@
     "section_id": "Recommendation 2",
     "section_name": "Transparency of plans for use of AI",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We recommend that all national security entities publish detailed plans outlining their current and intended uses of AI systems and software applications, as well as safeguard and review mechanisms to mitigate risks such as ethnic, gender and other biases, algorithmic opacity, and other unintended consequences."
   },
   {
@@ -268,7 +268,7 @@
     "section_id": "Recommendation 3",
     "section_name": "Transparency of Technology Onboarding Program",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We also recommend the RCMP be much more forthcoming with regards to the specific contours, usage, and findings of its Technology Onboarding Program. This includes providing specific and detailed guidance explaining how its own Technology Onboarding Program (created in large part to address AI concerns) aligns with Canadian values, including those expressed by the Charter."
   },
   {
@@ -276,7 +276,7 @@
     "section_id": "Recommendation 4",
     "section_name": "Transparency on diversity and inclusion in staffing",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We recommend that Public Safety Canada provide more detailed information and analysis of its workforce development challenges (including skills shortages, recruitment efforts, and DEI milestones), while also addressing one of the recommendations of the 2022 NCSS Midterm Review which calls on the Department to 'increase awareness of how aspects of diversity and inclusion inherent to GBA Plus apply to cybersecurity.'[Footnote 64](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn64)"
   },
   {
@@ -284,7 +284,7 @@
     "section_id": "Recommendation 5",
     "section_name": "Transparency of threat assessments",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "Canadians understand that not all information related to national security can be shared. However, recent events, for example in the area of foreign interference, raise questions about what policies and practices are in place for addressing threats and informing Canadians. The Government could increase proactive sharing of policies governing threat assessment in the digital world and beyond, including the legal and regulatory frameworks governing the tools or means being used both to identify threats and to address them."
   },
   {
@@ -300,7 +300,7 @@
     "section_id": "Recommendation 6",
     "section_name": "Transparency of the Strategic Coordination Centre on Information Sharing",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "With both perceived and real tensions between data-driven national security efforts and individual privacy, we recommend that Public Safety Canada be more open and transparent with regards to the objectives, conduct and impact of its Strategic Coordination Centre on Information Sharing."
   },
   {
@@ -308,7 +308,7 @@
     "section_id": "Recommendation 7",
     "section_name": "Consultation on AI privacy impact assessments",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "In terms of the privacy impacts of AI usage and applications, we recommend that Public Safety Canada work the Privacy Commissioner and other stakeholders in order to establish mechanisms for open and verifiable standards of algorithmic design and deployment as well as independent review."
   },
   {
@@ -316,7 +316,7 @@
     "section_id": "Recommendation 8",
     "section_name": "Openness on encryption and lawful access",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We recommend greater openness, outreach, and engagement as Public Safety Canada undertakes internal policy development focused on digital encryption and seeks to meet its own pledges made in adopting the '*International Statement: End to End Encryption and Public Safety* (notably to 'engage in consultation with governments and other stakeholders to facilitate legal access in a way that is substantive and genuinely influences design decisions' and 'working with industry to develop reasonable proposals that will allow technology companies and governments to protect the public and their privacy, defend cyber security and human rights and support technological innovation'[Footnote 65](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn65))."
   },
   {
@@ -324,7 +324,7 @@
     "section_id": "Recommendation 9",
     "section_name": "Engagement and transparency to mitigate systemic racism",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We recommend that Public Safety Canada mitigate against systemic racism, which can lead to the over securitization of specific ethnic communities and biased use of digital tools, through ongoing engagement and transparency with impacted communities."
   },
   {
@@ -332,7 +332,7 @@
     "section_id": "Recommendation 10",
     "section_name": "Engagement to combat online misinformation and hate",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We recommend that Public Safety Canada realize the commitment it made in the 2022- 2024 Open Government Action plan[Footnote 66](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn66), and deepen public outreach and engagement efforts, particularly with vulnerable communities, in devising innovative and meaningful ways to combat online misinformation and hate. In doing so, and as one area of particular concern and urgency, we urge all national security entities to review and respond to the findings of the recent Senate report on Islamophobia and its focus on rising levels of online hate and abuse[Footnote 67](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/nstag-gctsn-dgtztn-ntnl-scrt-2024/index-en.aspx#fn67), as well as monitoring and responding to growing trends of antisemitism, anti-feminist, and anti-2SLGBTQSI hate."
   },
   {
@@ -340,7 +340,7 @@
     "section_id": "Recommendation 11",
     "section_name": "Oversight of Government use of AI",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "The *Artificial Intelligence and Data Act* (AIDA) proposed in Bill C-27 excludes government institutions from its scope and the proposed AI Commissioner would not have jurisdiction over government institutions. We recommend the Government of Canada examine the possibility of extending AIDA to government institutions including transparency obligations."
   },
   {
@@ -356,7 +356,7 @@
     "section_id": "Recommendation 12",
     "section_name": "Transparency of cyber-security threats",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "Building on the efforts of the Canadian Centre for Cyber-Security (CCSE) and its August 2023 reporting in particular, we recommend that CCSE develop a regular monitoring and public reporting mechanism to both catalogue and categorize cyber-security threats, and to better explain and continually update the Government of Canada's own efforts to improve cyber-resilience for the public sector and for the country as a whole."
   },
   {
@@ -364,7 +364,7 @@
     "section_id": "Recommendation 13",
     "section_name": "Engagement around critical infrastructure",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "In keeping with the mandate of the Canadian Centre for Cyber Security the findings and recommendations of Public Safety Canada's own 2022 Midterm Review of the National Cyber Security Strategy, as well as our own prior report, we further recommend more openness and engagement with Canada's critical infrastructure owners as well as all levels of government, academia, and private industry to increase readiness and resiliency to combat cyber threats that may affect technologies, networks, assets, and services essential to the health, safety, security, and economic well-being of Canadians."
   },
   {
@@ -372,7 +372,7 @@
     "section_id": "Recommendation 14",
     "section_name": "Promoting national security transparency internationally",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "In collaboration with other democracies and building upon the NATO's 2021 Artificial Intelligence Strategy (including Principles of Responsible Use), we recommend that Public Safety Canada seek to devise anticipatory capacities for better understanding the growing inter-linkages between AI and national security governance, and to enhance transparency of strategies and safeguards on an international scale."
   },
   {
@@ -380,7 +380,7 @@
     "section_id": "Recommendation 15",
     "section_name": "Review and reporting on the National Security Transparency Commitment",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "With the exception of our own NS-TAG reports, and CSIS's public response to our 3rd report, we note that more than five years into Public Safety Canada's T2017 National Security Transparency Commitment, with no public reporting on progress, achievements, assessment, or evaluation tied to this Commitment. Accordingly, we recommend that in 2024 a formal review of the Transparency Commitment be undertaken with public reporting of initiatives undertaken, impacts to date, and activities to come."
   },
   {
@@ -388,12 +388,12 @@
     "section_id": "Recommendation 16",
     "section_name": "Publication of bi-annual plan for reporting on the National Security Transparency Commitment",
     "id_kind": "goal",
-    "parent_id": "3 (1)",
+    "parent_id": "The Digitization of National Security: 3",
     "body": "We further recommend that Public Safety Canada commit to the formulation of a published, bi-annual plan for the Transparency Commitment, modeled on the Open Government Action Plans of recent years. Where appropriate, alignment and cross- pollination of these action plans should be pursued (building on the inclusion of two national security initiatives tied to misinformation included in the current Open Government Action Plan).Our next report in 2024 will complement this review effort by taking stock of NS-TAG's own activities and impacts, and the willingness of the national security entities to have responded to our own past and current recommendations over the course of the past five years."
   },
   {
     "depth": 2,
-    "section_id": "Annex A (1)",
+    "section_id": "The Digitization of National Security: Annex A",
     "section_name": "Charts on Diversity and Inclusion in the National Security Community",
     "id_kind": "annex",
     "parent_id": "",
@@ -513,7 +513,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Annex B (1)",
+    "section_id": "The Digitization of National Security: Annex B",
     "section_name": "CBSA's response to the NS-TAG's second report, \"How National Security and Intelligence Institutions Engage with Racialized Communities\"",
     "id_kind": "annex",
     "parent_id": "",
@@ -745,7 +745,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Annex C (1)",
+    "section_id": "The Digitization of National Security: Annex C",
     "section_name": "Overview of NS-TAG meetings from October 2022 to May 2023",
     "id_kind": "annex",
     "parent_id": "",
@@ -1017,7 +1017,7 @@
   },
   {
     "depth": 2,
-    "section_id": "1 (2)",
+    "section_id": "1",
     "section_name": "Introduction",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1025,7 +1025,7 @@
   },
   {
     "depth": 2,
-    "section_id": "2 (2)",
+    "section_id": "2",
     "section_name": "Relations with Racialized Communities",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1036,7 +1036,7 @@
     "section_id": "Relations with Racialized Communities: 2.2.1",
     "section_name": "What is community engagement?",
     "id_kind": "numbered",
-    "parent_id": "2 (2)",
+    "parent_id": "2",
     "body": "Engagement can take different forms depending on the desired goal. At its simplest, engagement can consist of the sharing of information with communities or stakeholders to help them understand an issue and potential solutions. Other models involve more collaboration and direct outreach to communities or other stakeholders, offering a forum in which information can be exchanged and trust can be built. At its most complex, communities and stakeholders are empowered to contribute to the pursuit of solutions to policy issues.\n\nEngagement plays an essential role in helping to share knowledge between national security and intelligence institutions and various communities; without effective engagement, building trust is impossible. Engagement programs provide a bridging function: these programs engage on behalf of multiple parts of the government, exchanging information with external stakeholders and bringing it back inside the government to – ideally – feed into policy and operational processes. Engagement can help government understand specific needs, identify local voices, open and build dialogue with them, and build trust and a shared understanding of common challenges.\n\nNational security and intelligence institutions in Canada have established a range of engagement programs, including the Academic Outreach and Stakeholder Engagement branch within the Canadian Security Intelligence Service (CSIS), the Canada Centre for Community Engagement and Prevention of Violence within Public Safety Canada, and the Canada Centre for Cyber Security within the Communications Security Establishment (CSE; see annex for more detail). Most of these programs are relatively recent. Their emergence represents some progress, but we believe that more still needs to be done.\n\nWe recommend that national security institutions (especially CSIS, the RCMP and the Canadian Border Services Agency, or CBSA) develop and publicly release their engagement strategies.\n\nAs many of our speakers – from government and civil society – emphasized, the purposes of engagement are not transparent: who is engaged, why, with what objectives? What safeguards or firewalls exist to separate engagement from intelligence collection? How many groups receive invitations, how many reply positively? What is achieved with these sessions, and how is success defined and measured? How frequent is follow-up? What have been the main lessons learned from these engagement efforts, and how have they been implemented? Have policies changed as a result? Who does the engagement from within national security institutions (how are they hired and trained, what skills do they possess, are they diverse)? How do they engage with stakeholders from racialized communities (e.g., do they contact them by phone, email, or personal visits)?\n\nSimply put, national security and intelligence institutions need to stop perceiving engagement as an end goal but rather as a valuable means towards the broader objective of building mutual trust. By participating in such engagement activities, racialized communities can also themselves gain a better understanding of the mission and objectives of national security and intelligence institutions.\n\nWe recommend that — to take engagement seriously — individual national security and intelligence departments and agencies include in their engagement strategies greater effort to recruit and foster the skills appropriate for meaningful engagement.\n\nTo be effective, engagement needs to start at the top and to be embedded into the culture of an organization. Engagement starts by building relationships; we heard during our consultations about the importance for national security and intelligence institutions to develop the right skills to conduct meaningful engagement. For what are traditionally secretive organizations, this has not been a priority. Managing engagement activities requires, among other skills, an open mindset, effective communications skills, empathy, and the ability to learn about other cultures.\n\nWe recommend that national security agencies should support more research of the type conducted by the Canada Centre for Community Engagement and Prevention of Violence (CCCEPV), which is part of Public Safety Canada.\n\nBuilding effective engagement programs is complex and cannot follow a one-size-fits-all model. It calls for acquiring a detailed understanding of the needs of specific communities and of their dynamics, past experiences, and concerns. Without a clear understanding of the key drivers of the mistrust that is prevalent in communities, of their perceptions of the government, engagement activities cannot succeed. National security agencies often do not have this knowledge internally; by supporting external research, they can acquire the necessary knowledge while, at the same time, building bridges with the research community. Building such knowledge is especially important to know who to reach out to: engagement activities must be able to identify local leaders who have the credibility and networks necessary to help draw their constituents into productive conversations.\n\nWe recommend that community engagement programs avoid the trap of reaching out to communities only when there is a crisis.\n\nTo be successful, engagement needs to be sustained over time; it needs to be pro-active, not reactive. Otherwise, short term, reactive engagement will not only fail to build trust, but might even be counter-productive: it will reinforce negative perceptions and prevent national security institutions to take accountability for mistakes of the past. Proactive, sustained engagement, on the other hand, will better support the building of mutual trust and the demystification of the role of these institutions.\n\nThe CSIS Public Report for 2020 mentions that the Service has invested significant effort in building relationships with individuals, communities, and community leaders to establish and sustain trust.[Footnote 1](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn1) The report further mentions that CSIS’s ongoing offer of support and commitment to work in partnership with these communities is not only good practice but serves to protect individuals from intimidation or other hostile activities by foreign state actors. While this is true in theory, in practice the community engagement examples in this report are with the Iranian-Canadian community after the of the tragic downing of flight PS752 in January 2020 and with the Muslim community following the tragic Toronto mosque attack. Such engagement was important, but it was prompted by specific incidents. In our view, CSIS will not succeed in building long-term trust with racialized communities as long as its engagement is primarily reactive.\n\nSimilarly, engagement with racialized communities needs to involve a two-way conversation. As we heard in our consultations, too often engagement efforts involve, in practice, government officials offloading a prepared message and failing to listen to the concerns of stakeholders. Constructive engagement should instead be based on dialogue; government officials should be attuned to the questions and concerns of stakeholders, listen to them, and be prepared and willing to respond. These cannot be scripted conversations with talking points and standard responses.\n\nIn pursuing more sustained engagement with racialized communities; we recommend that Canada’s national security and intelligence institutions ensure that they reach out not only at the level of community leaders, but also at the grassroots level.\n\nThis is essential to better understand and meet the needs of Canada’s diverse racialized communities. Grassroots initiatives provide a distinctive approach to establish a strong foundation of trust with diverse communities. These are the initiatives that bring sustainability to community engagement and help build relationships that can be maintained and strengthened over time. Implementing grassroots efforts is labour intensive; there is, as such, a need to invest time and human resources. A model such as the one proposed by the IAP2 (the International Association for Public Participation) can be useful to help connect national security and intelligence agencies with communities that have never or rarely reached out to in the past.[Footnote 2](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn2) National security agencies must ensure that they create a safe place for these communities to come forward and discuss their concerns.\n\nWe strongly recommend that the outcome of engagement activities be actively and consistently integrated into policy making and operational processes.\n\nA common perception among racialized communities is that engagement is largely viewed as a “box to tick” exercise inside national security institutions, and that reports based on the conversations in those activities are shelved afterwards. The onus here is on national security institutions to be transparent and to convince stakeholders that this is not the case.\n\nNational security and intelligence institutions need to clearly inform racialized communities on how their engagement feeds into their decision-making processes.\n\nThis improves ownership of the process and reduces tokenization. Moreover, many racialized communities may originate from countries where interactions with national security and intelligence services can result in dire consequences; approaching these communities requires customized care.\n\nIn sum, engagement initiatives with racialized communities come with a certain level of unavoidable risk: they can backfire, in particular, if they are poorly designed or implemented. Fortunately, these risks can be mitigated if a proper approach is adopted and efforts are genuine rather than performative. National security and intelligence institutions will make significant strides when they approach community engagement with a clear understanding that racialized communities are often the targets of hate crime, that the fear of foreign interference is frequently strong, and that there might be ongoing intra-community conflicts related to national security."
   },
   {
@@ -1044,7 +1044,7 @@
     "section_id": "Relations with Racialized Communities: 2.2.2",
     "section_name": "The impact of operations on engagement",
     "id_kind": "numbered",
-    "parent_id": "2 (2)",
+    "parent_id": "2",
     "body": "It is essential that there be a strong firewall between the engagement activities and intelligence collection efforts.\n\nIt is also essential that those being engaged be confident about this. When groups perceive (and this is a common perception) that engagement efforts in fact disguise surveillance or collection activities, they will refuse to fully engage; in the long term, this hinders the development of a relationship based on trust. The onus is on national security institutions to be transparent on this.\n\nIt can be difficult for members of the public to distinguish between engagement activities by national security institutions and intelligence-gathering operations. The use of firewalls between these two functions is therefore critical. A good example of this confusion is illustrated by the practice of street checks: while the RCMP has acknowledged the disproportionate harm that this practice has had on marginalized communities, RCMP Commissioner Brenda Lucki has validated the practice as a valuable tool to gather information. This approach, which privileges information-gathering through a practice that alienates racialized communities, presents a significant challenge to establishing meaningful trust.\n\nAnother example of operational practices that can undermine relations between racialized communities and national security agencies are those of CSIS. Nader Hasan, a criminal and constitutional lawyer and adjunct professor, told us of his experience assisting Muslim students who were approached by CSIS, and we find it disturbing to hear that in some cases CSIS officers have discouraged the people they approach from obtaining legal counsel. As a result, he and another professor at the University of Toronto established a hotline to provide pro bono legal advice to students approached by CSIS. When we asked CSIS Director David Vigneault about those allegations, he indicated that this is against policy and that there are “additional safeguards” in place.[Footnote 3](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn3) Regrettably, however, these perceptions remain common.\n\nTo reduce the mistrust that results from such practices, we recommend that national security and intelligence institutions provide accessible information about how they conduct engagement activities.\n\nThis way, members of racialized communities have a clear understanding of how they might be approached by officers and agents, their legal rights in those circumstances, and how they can report misconduct."
   },
   {
@@ -1052,12 +1052,12 @@
     "section_id": "Relations with Racialized Communities: 2.2.3",
     "section_name": "Localized engagement and learning through inter-jurisdictional partnerships",
     "id_kind": "numbered",
-    "parent_id": "2 (2)",
+    "parent_id": "2",
     "body": "Through our consultations, we have learned about the importance of localized engagement with communities and stakeholders – be they civic associations, faith-based organizations, volunteer groups, or others. At the same time, there are inherent challenges for federal organizations to undertake effective outreach. We note, however, that federal entities such as the RCMP and CSIS are investing into community outreach across both policing and security realms.\n\nTo increase the legitimacy and effectiveness of such efforts, we recommend that national security and intelligence institutions aim to be more visible and proactive in developing engagement mechanisms with local stakeholders.\n\nThis includes engagement with municipal government entities that are on the frontline of anti-racism initiatives.\n\nThe City of Toronto’s Police Services Board, for example, has sought to expand its community engagement efforts through both in-person and online mechanisms, while Toronto’s Municipal Council has overseen the development of an extensive anti-racism strategy specifically aimed at the Black Community. One of the important recommendations of this strategy, endorsed by the mayor, is to “mandate the collection and public reporting of race-based data for greater transparency.”[Footnote 4](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn4) This recommendation is aligned with the Government of Canada’s anti-racism strategy released in 2019, as well as our own recommendations in this report in terms of making race an important lens for national security data collection, analysis, and reporting.\n\nOther cities are making similar investments. The City of London, Ontario, for example, has undertaken efforts to strengthen relations with the Muslim Community, creating a Muslim Community Liaison Advisor. This effort, derived from the City’s response to the 2021 attack on a Muslim family which killed four and injured one, also has national security ramifications, as we learned from the dark web activities of the accused as well as the inter-jurisdictional partnerships enjoining municipal, provincial, and federal entities that ensued during the investigation.\n\nThe importance of cultivating more proactive local partnerships has also been a priority for the New Zealand government in terms of its own Muslim community outreach in the aftermath of the 2019 Christchurch tragic attack on a mosque that led to 51 deaths. The subsequent public inquiry led to an effort to better integrate multicultural policies and relations-building within the national security apparatus. To quote from the New Zealand government’s Department of the Prime Minister and Cabinet:[Footnote 5](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn5)\n\n> Enduring partnerships between government and communities, Māori, civil society, academia, local government, and the private sector are essential to effectively counter terrorism and violent extremism, strengthen national security and foster social inclusion.\n\nGiven that local governments and other local bodies such as police services and immigration settlement agencies are on the front line of community relations (especially in urbanized environments):\n\nWe recommend that national security and intelligence institutions invest more time into learning from these sorts of initiatives and devise inter-governmental partnerships to improve federal outreach capacities within cities.\n\nThis partnership mentality could also be deployed in a more proactive sense with racialized communities who not only harbor high levels of mistrust toward governments but also may not distinguish between various elements of public sector policing and national security institutions that often encompass different jurisdictions. Seeking efforts to improve the engagement interface between racialized communities and national security and intelligence institutions through partnerships with local governmental organizations that have already invested significantly into developing such relationships could provide a basis for improved dialogue."
   },
   {
     "depth": 2,
-    "section_id": "3 (2)",
+    "section_id": "3",
     "section_name": "Governance",
     "id_kind": "numbered",
     "parent_id": "",
@@ -1068,7 +1068,7 @@
     "section_id": "3.1",
     "section_name": "Diversity and inclusion",
     "id_kind": "numbered",
-    "parent_id": "3 (2)",
+    "parent_id": "3",
     "body": "Despite recent improvements, racialized Canadians are still underrepresented in national security and intelligence institutions, especially at senior levels.[Footnote 6](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/index-en.aspx#fn6) This has important consequences: it impedes cultural awareness, for example, damaging relations with communities, and hurts innovation. Representation at all levels matters. It matters to the racialized communities institutions engage with, and it matters to the learning culture of the institutions themselves.\n\nWe recommend that national security organizations not only continue and intensify their efforts to diversify their human resources, but also that they be more transparent on issues such as data about employment and existing barriers for racialized individuals.\n\nDisaggregated data allows these institutions to make decisions on where they need to improve hiring and recruitment. National security institutions should reflect the demographic makeup of Canadian society; while we are not calling for quotas, there needs to be more clarity on who is hired. We also recommend that institutions include the demographics of applicant pools, which can be indicative of where more work needs to be done. Importantly, such data should also include reporting on retention. Exit interviews with racialized individuals, notably, can be revealing of where challenges still exist.\n\nChanging the culture of large organizations is complex and faces natural resistance. It calls for a systemic approach along a broad continuum including recruitment, training, promotions and rewards, how to deal with inappropriate behavior, and how to create a safe environment for difficult in-house discussions. Efforts by national security and intelligence institutions to embrace diversity and inclusion should be value and outcome-driven, and not a discrete project. This means hardwiring a diverse and inclusive culture starting on the first day after employees are hired, including how they are trained, how they work, and how they are promoted and rewarded."
   },
   {
@@ -1076,7 +1076,7 @@
     "section_id": "3.2",
     "section_name": "Complaints mechanisms",
     "id_kind": "numbered",
-    "parent_id": "3 (2)",
+    "parent_id": "3",
     "body": "During our eight sessions working on this report, we frequently heard about the need for greater transparency, clarity, ease of access, and simplicity for existing complaints mechanisms. Individuals from racialized communities who wish to complain about actions by national security agencies, in particular, face complex and obscure processes which they may struggle to navigate. Too often, they do not know what the proper mechanisms for recourse are, and even when they do, these are often complex. This is especially unfair for members of historically disadvantaged groups. For newcomer Canadians, there may, moreover, be language barriers. It is not an even playing field when marginalized groups try to hold the government to account.\n\nThe access to information (ATI) process provides an apt illustration here. The ATI process should offer one recourse, among others, for Canadians to hold national security and intelligence institutions to account. Yet the process is excessively slow, and it can be particularly difficult to navigate for marginalized groups who may lack the necessary resources. This prevents them from using this recourse, and further erodes trust.\n\nWe recommend that national security and intelligence institutions add a link to their complaints processes on their main webpage.\n\nThis link needs, crucially, to be clear and visible. The look and feel of this link should also be standardized across websites.\n\nWe recommend that the government consider setting up a simple, one-stop shop to explain how to initiate a complaint.\n\nThis site could also include the expected time of response and the recourse for those unsatisfied with the response."
   },
   {
@@ -1129,7 +1129,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Annex A (2)",
+    "section_id": "Annex A",
     "section_name": "Summary of our recommendations",
     "id_kind": "annex",
     "parent_id": "",
@@ -1233,7 +1233,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Annex B (2)",
+    "section_id": "Annex B",
     "section_name": "Overview of NS-TAG Meetings from May 2021 to February 2022",
     "id_kind": "annex",
     "parent_id": "",
@@ -1393,7 +1393,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Annex C (2)",
+    "section_id": "Annex C",
     "section_name": "Canadian and International National Security Engagement Activities and Best Practices",
     "id_kind": "annex",
     "parent_id": "",

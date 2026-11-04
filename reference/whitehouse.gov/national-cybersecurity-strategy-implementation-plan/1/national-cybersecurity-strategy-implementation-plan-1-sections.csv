@@ -73,7 +73,7 @@ Implementation-wide Initiatives
 
 6.1 Assessing Effectiveness 6.1.1 Report progress and effectiveness on implementing the National Cybersecurity Strategy 6.1.2 Apply lessons learned to the National Cybersecurity Strategy implementation 6.1.3 Align budgetary guidance with National Cybersecurity Strategy implementation"
 "3","Pillar One","Defend Critical Infrastructure","pillar","",""
-"2","Strategic Objective 1.1","Establish Cybersecurity Requirements to Support National Security and Public Safety","objective","",""
+"2","Strategic Objective 1.1","Establish Cybersecurity Requirements to Support National Security and Public Safety","objective","Pillar One",""
 "4","Initiative 1.1.1","Establish an initiative on cyber regulatory harmonization","initiative","Strategic Objective 1.1","**Initiative Description:** The Office of the National Cyber Director (ONCD), in coordination with OMB, will work with independent and executive branch regulators, including through the Cybersecurity Forum for Independent and Executive Branch Regulators, to identify opportunities to harmonize baseline cybersecurity requirements for critical infrastructure. Through a request for information, ONCD will also engage non-governmental stakeholders to understand existing challenges with regulatory overlap and explore a framework for reciprocity for baseline requirements.
 
 **NCS Reference:** ONCD, in coordination with the Office of Management and Budget (OMB), will lead the Administration’s efforts on cybersecurity regulatory harmonization. The Cyber Incident Reporting Council will coordinate, deconflict, and harmonize Federal incident reporting requirements.
@@ -101,7 +101,7 @@ Responsible Agency: NIST
 Contributing Entities: CISA, SRMAs
 
 Completion Date: 1Q FY25"
-"3","Strategic Objective 1.2","Scale Public-Private Collaboration","objective","Strategic Objective 1.1",""
+"3","Strategic Objective 1.2","Scale Public-Private Collaboration","objective","Pillar One",""
 "4","Initiative 1.2.1","Scale public-private partnerships to drive development and adoption of secure-by-design and secure-by-default technology","initiative","Strategic Objective 1.2","**Initiative Description:** The Cybersecurity and Infrastructure Security Agency (CISA) will lead public-private partnerships with technology manufacturers, educators, non-profit organizations, academia, the open-source software community, and others to drive the development and adoption of software and hardware that is secure-by-design and secure-by-default. CISA, working with NIST, other Federal agencies, including SRMAs, as appropriate, and the private sector will develop secure-by-design and secure-by-default principles and practices that first leverage existing and relevant international, industry, and government standards and practices. CISA will identify barriers to adoption for such principles and best practices, and will work to drive collective action to adopt these principles across the private sector. In the case that gaps between secure-by-design and secure-by-default principles and existing standards and practices are identified, CISA, NIST, NSF, and other Federal agencies, including SRMAs, as appropriate, will lead open and transparent public-private partnerships to fill those gaps.
 
 **NCS Reference:** The Federal Government will also deepen operational and strategic collaboration with software, hardware, and managed service providers with the capability to reshape the cyber landscape in favor of greater security and resilience.
@@ -147,7 +147,7 @@ Responsible Agency: CISA
 Contributing Entities: SRMAs, NSC
 
 Completion Date: 2Q FY25"
-"2","Strategic Objective 1.3","Integrate Federal Cybersecurity Centers","objective","",""
+"2","Strategic Objective 1.3","Integrate Federal Cybersecurity Centers","objective","Pillar One",""
 "4","Initiative 1.3.1","Assess and improve Federal Cybersecurity Centers' and related cyber centers' capabilities and plans necessary for collaboration at speed and scale","initiative","Strategic Objective 1.3","**Initiative Description:** The Office of the National Cyber Director will conduct a review of Federal Cybersecurity Centers and related cyber centers to identify gaps in capabilities and other key findings.
 
 **NCS Reference:** ONCD will lead the Administration’s efforts to enhance the integration of centers such as these, identify gaps in capabilities, and develop an implementation plan to enable collaboration at speed and scale.
@@ -157,7 +157,7 @@ Responsible Agency: ONCD
 Contributing Entities: OMB
 
 Completion Date: 4Q FY23"
-"2","Strategic Objective 1.4","Update Federal Incident Response Plans and Processes","objective","",""
+"2","Strategic Objective 1.4","Update Federal Incident Response Plans and Processes","objective","Pillar One",""
 "4","Initiative 1.4.1","Update the National Cyber Incident Response Plan (NCIRP)","initiative","Strategic Objective 1.4","**Initiative Description:** The Cybersecurity and Infrastructure Security Agency, in coordination with ONCD, will lead a process to update the National Cyber Incident Response Plan (NCIRP) – which is subordinate to Presidential Policy Directive 41 – to strengthen processes, procedures, and systems to more fully realize the policy that “a call to one is a call to all.” The NCIRP update will also include clear guidance to external partners on the roles and capabilities of Federal agencies in incident response and recovery.
 
 **NCS Reference:** CISA will lead a process to update the National Cyber Incident Response Plan (NCIRP)…
@@ -194,7 +194,7 @@ Responsible Agency: DHS
 Contributing Entities: DOD, DOJ, CISA, FBI, NSA, OMB, ONCD
 
 Completion Date: 2Q FY23"
-"3","Strategic Objective 1.5","Modernize Federal Defenses","objective","Strategic Objective 1.4",""
+"3","Strategic Objective 1.5","Modernize Federal Defenses","objective","Pillar One",""
 "4","Initiative 1.5.1","Secure unclassified Federal Civilian Executive Branch (FCEB) systems","initiative","Strategic Objective 1.5","**Initiative Description:** The Office of Management and Budget, in coordination with CISA, will develop a plan of action to secure unclassified FCEB systems through collective operational defense and to foster expanded use of centralized shared services, enterprise license agreements, and software supply chain risk mitigation.
 
 **NCS Reference:** OMB, in coordination with CISA, will develop a plan of action to secure FCEB systems through collective operational defense, expanded availability of centralized shared services, and software supply chain risk mitigation.
@@ -223,7 +223,7 @@ Contributing Entities: OMB, ONCD
 
 Completion Date: 4Q FY24"
 "2","Pillar Two","Disrupt and Dismantle Threat Actors","pillar","",""
-"2","Strategic Objective 2.1","Integrate Federal Disruption Activities","objective","",""
+"2","Strategic Objective 2.1","Integrate Federal Disruption Activities","objective","Pillar Two",""
 "4","Initiative 2.1.1","Publish an updated DOD Cyber Strategy","initiative","Strategic Objective 2.1","**Initiative Description:** The Department of Defense will develop an updated Cyber Strategy aligned with the National Security Strategy, National Defense Strategy, and National Cybersecurity Strategy to focus on challenges posed by nation-states and other malicious actors whose capabilities or campaigns pose a strategic-level threat to the United States and its interests.
 
 **NCS Reference:** …DOD will develop an updated departmental cyber strategy aligned with the National Security Strategy, National Defense Strategy, and this National Cybersecurity Strategy.
@@ -263,7 +263,7 @@ Completion Date: 4Q FY23"
 Responsible Agency: FBI
 
 Completion Date: 2Q FY24"
-"2","Strategic Objective 2.2","Enhance Public-Private Operational Collaboration to Disrupt Adversaries","objective","",""
+"2","Strategic Objective 2.2","Enhance Public-Private Operational Collaboration to Disrupt Adversaries","objective","Pillar Two",""
 "4","Initiative 2.2.1","Identify mechanisms for increased adversarial disruption through public-private operational collaboration","initiative","Strategic Objective 2.2","**Initiative Description:** The Office of the National Cyber Director, in collaboration with the interagency and private sector partners, will identify opportunities to leverage existing mechanisms to improve operational collaboration with the goal of increasing disruption of malicious cyber actors.
 
 **NCS Reference:** Threat-specific collaboration should take the form of nimble, temporary cells, comprised of a small number of trusted operators, hosted and supported by a relevant hub. Using virtual collaboration platforms, members of the cell would share information bidirectionally and work rapidly to disrupt adversaries. The Federal Government will rapidly overcome barriers to supporting and leveraging this collaboration model, such as security requirements and records management policy.
@@ -273,7 +273,7 @@ Responsible Agency: ONCD
 Contributing Entities: DOJ, CISA, FBI, NSA, USSS
 
 Completion Date: 2Q FY24"
-"2","Strategic Objective 2.3","Increase the Speed and Scale of Intelligence Sharing and Victim Notification","objective","",""
+"2","Strategic Objective 2.3","Increase the Speed and Scale of Intelligence Sharing and Victim Notification","objective","Pillar Two",""
 "4","Initiative 2.3.1","Identify and operationalize sector-specific intelligence needs and priorities","initiative","Strategic Objective 2.3","**Initiative Description:** Consistent with the requirement set forth in the Fiscal Year 2021 National Defense Authorization Act Section 9002(c)(1), the National Security Council will lead a policymaking process to establish an agreed-upon approach for SRMAs to identify sector-specific intelligence needs and priorities.
 
 **NCS Reference:** SRMAs, in coordination with CISA, law enforcement agencies, and the Cyber Threat Intelligence Integration Center (CTIIC), will identify intelligence needs and priorities within their sector and develop processes to share warnings, technical indicators…
@@ -292,7 +292,7 @@ Responsible Agency: ODNI
 Contributing Entities: DOD, DHS, DOJ, FBI, NSA, NSC, ONCD
 
 Completion Date: 3Q FY24"
-"2","Strategic Objective 2.4","Prevent Abuse of U.S.-Based Infrastructure","objective","",""
+"2","Strategic Objective 2.4","Prevent Abuse of U.S.-Based Infrastructure","objective","Pillar Two",""
 "4","Initiative 2.4.1","Publish a Notice of Proposed Rulemaking on requirements, standards, and procedures for Infrastructure-as-a-Service (IaaS) providers and resellers","initiative","Strategic Objective 2.4","**Initiative Description:** The Department of Commerce will publish a Notice of Proposed Rulemaking implementing EO 13984 that lays out requirements for IaaS providers and resellers as well as standards and procedures for determining what risk-based prevention approach is sufficient to qualify for an exemption.
 
 **NCS Reference:** The Administration will prioritize adoption and enforcement of a risk-based approach to cybersecurity across Infrastructure-as-a-Service providers that addresses known methods and indicators of malicious activity including through implementation of EO 13984, “Taking Additional Steps to Address the National Emergency with Respect to Significant Malicious Cyber-Enabled Activities.”
@@ -302,7 +302,7 @@ Responsible Agency: Commerce
 Contributing Entities: DHS, DOJ, ODNI, FBI
 
 Completion Date: 4Q FY23"
-"2","Strategic Objective 2.5","Counter Cybercrime, Defeat Ransomware","objective","",""
+"2","Strategic Objective 2.5","Counter Cybercrime, Defeat Ransomware","objective","Pillar Two",""
 "4","Initiative 2.5.1","Disincentivize safe havens for ransomware criminals","initiative","Strategic Objective 2.5","**Initiative Description:** The Department of State, in coordination with the Joint Ransomware Task Force (JRTF) (co-chaired by FBI and CISA), will work with DOJ and other stakeholders to develop an international engagement plan to discourage nations from acting as safe havens for ransomware criminals and strengthen international cooperation in countering transnational cybercrime.
 
 **NCS Reference:** Given ransomware’s impact on key critical infrastructure services, the United States will employ all elements of national power to counter the threat along four lines of effort: (1) leveraging international cooperation to…isolate those countries that provide safe havens for criminals…
@@ -351,7 +351,7 @@ Contributing Entities: DOJ, State, USSS, NSC
 
 Completion Date: 4Q FY24"
 "2","Pillar Three","Shape Market Forces to Drive Security and Resilience","pillar","",""
-"2","Strategic Objective 3.2","Drive the Development of Secure IoT Devices","objective","",""
+"2","Strategic Objective 3.2","Drive the Development of Secure IoT Devices","objective","Pillar Three",""
 "4","Initiative 3.2.1","Implement Federal Acquisition Regulation (FAR) requirements per the Internet of Things (IoT) Cybersecurity Improvement Act of 2020","initiative","Strategic Objective 3.2","**Initiative Description:** The Office of Management and Budget, through the Office of Federal Procurement Policy, will work with the Federal Acquisition Regulatory Council to propose FAR changes in line with the Internet of Things Cybersecurity Improvement Act of 2020.
 
 **NCS Reference:** The Administration will continue to improve IoT cybersecurity through Federal research and development (R&D), procurement, and risk management efforts, as directed in the IoT Cybersecurity Improvement Act of 2020.
@@ -366,7 +366,7 @@ Completion Date: 4Q FY23"
 Responsible Agency: NSC
 
 Completion Date: 4Q FY23"
-"2","Strategic Objective 3.3","Shift Liability for Insecure Software Products and Services","objective","",""
+"2","Strategic Objective 3.3","Shift Liability for Insecure Software Products and Services","objective","Pillar Three",""
 "4","Initiative 3.3.1","Explore approaches to develop a long-term, flexible, and enduring software liability framework","initiative","Strategic Objective 3.3","**Initiative Description:** The Office of the National Cyber Director, working with stakeholders in academia and civil society, will host a legal symposium to explore different approaches to a software liability framework that draw from different areas of regulatory law and reflect inputs from computer scientists as to the extent that software liability may or may not be like these other regimes.
 
 **NCS Reference:** To begin to shape standards of care for secure software development, the Administration will drive the development of an adaptable safe harbor framework to shield from liability companies that securely develop and maintain their software products and services... The Administration will work with Congress and the private sector to develop legislation establishing a liability regime for software products and services.
@@ -390,7 +390,7 @@ Responsible Agency: CISA
 Contributing Entities: State
 
 Completion Date: 4Q FY25"
-"2","Strategic Objective 3.4","Use Federal Grants and Other Incentives to Build in Security","objective","",""
+"2","Strategic Objective 3.4","Use Federal Grants and Other Incentives to Build in Security","objective","Pillar Three",""
 "4","Initiative 3.4.1","Leverage Federal grants to improve infrastructure cybersecurity","initiative","Strategic Objective 3.4","**Initiative Description:** The Office of the National Cyber Director will develop materials to clarify, facilitate, and encourage incorporation of cybersecurity equities into Federal grant projects.
 
 **NCS Reference:** Through programs funded by the Bipartisan Infrastructure Law…, the United States is making once-in-a-generation investments in our infrastructure and the digital ecosystem that supports it. This Administration is committed to making investments in a manner that increases our collective systemic resilience.
@@ -416,7 +416,7 @@ Completion Date: 4Q FY23"
 Responsible Agency: NSF
 
 Completion Date: 4Q FY24"
-"2","Strategic Objective 3.5","Leverage Federal Procurement to Improve Accountability","objective","",""
+"2","Strategic Objective 3.5","Leverage Federal Procurement to Improve Accountability","objective","Pillar Three",""
 "4","Initiative 3.5.1","Implement Federal Acquisition Regulation (FAR) changes required under EO 14028","initiative","Strategic Objective 3.5","**Initiative Description:** The Office of Management and Budget, acting through the Office of Federal Procurement Policy, will work with the Federal Acquisition Regulatory Council to propose changes to the FAR required under EO 14028. Through the release of draft rules (cybersecurity incident reporting, standardizing cybersecurity contract requirements, and secure software) public comment will be considered before the changes are finalized.
 
 **NCS Reference:** EO 14028, ""Improving the Nation's Cybersecurity,"" expands upon this approach, ensuring that contract requirements for cybersecurity are strengthened and standardized across Federal agencies.
@@ -431,7 +431,7 @@ Completion Date: 1Q FY24"
 Responsible Agency: DOJ
 
 Completion Date: 4Q FY25"
-"2","Strategic Objective 3.6","Explore a Federal Cyber Insurance Backstop","objective","",""
+"2","Strategic Objective 3.6","Explore a Federal Cyber Insurance Backstop","objective","Pillar Three",""
 "4","Initiative 3.6.1","Assess the need for a Federal insurance response to a catastrophic cyber event","initiative","Strategic Objective 3.6","**Initiative Description:** The Department of the Treasury’s Federal Insurance Office, in coordination with CISA and ONCD, will assess the need for a Federal insurance response to catastrophic cyber events that would support the existing cyber insurance market.
 
 **NCS Reference:** The Administration will assess the need for and possible structures of a federal insurance response to catastrophic cyber events that would support the existing cyber insurance market.
@@ -441,8 +441,8 @@ Responsible Agency: Treasury
 Contributing Entities: CISA, ONCD
 
 Completion Date: 1Q FY24"
-"3","Pillar Four","Invest in a Resilient Future","pillar","Strategic Objective 3.6",""
-"2","Strategic Objective 4.1","Secure the Technical Foundation of the Internet","objective","",""
+"3","Pillar Four","Invest in a Resilient Future","pillar","",""
+"2","Strategic Objective 4.1","Secure the Technical Foundation of the Internet","objective","Pillar Four",""
 "4","Initiative 4.1.1","Lead the adoption of network security best practices","initiative","Strategic Objective 4.1","**Initiative Description:** The Office of Management and Budget, in coordination with CISA will work with Federal agencies to prioritize encryption of Domain Name System requests, as aligned with the zero trust strategy and maturity model (M-22-09).
 
 **NCS Reference:** We must take steps to mitigate the most urgent of these pervasive concerns such as Border Gateway Protocol vulnerabilities, unencrypted Domain Name System requests, and the slow adoption of IPv6... The Federal Government will lead by ensuring that its networks have implemented these and other security measures while partnering with stakeholders to develop and drive adoption of solutions that will improve the security of the Internet ecosystem and support research to understand and address reasons for slow adoption.
@@ -484,7 +484,7 @@ Responsible Agency: ONCD
 Contributing Entities: DOJ, CISA, FCC, NIST, NSA, NTIA, OSTP
 
 Completion Date: 3Q FY24"
-"2","Strategic Objective 4.2","Reinvigorate Federal Research and Development for Cybersecurity","objective","",""
+"2","Strategic Objective 4.2","Reinvigorate Federal Research and Development for Cybersecurity","objective","Pillar Four",""
 "4","Initiative 4.2.1","Accelerate maturity, adoption, and security of memory safe programming languages","initiative","Strategic Objective 4.2","**Initiative Description:** Through the Federal Cybersecurity R&D Strategic Plan, the Office of Science and Technology Policy will work with NSF, NIST, grant-making agencies, OS3I, and other relevant Federal partners to prioritize investments to accelerate the maturity, adoption, and security of memory safe programming languages in applications, operating systems, and critical infrastructure.
 
 **NCS Reference:** As part of the update to the Federal Cybersecurity Research and Development Strategic Plan, the Federal Government will identify, prioritize, and catalyze the research, development, and demonstration (RD&D) community to proactively prevent and mitigate cybersecurity risks in existing and next generation technologies... It will also support a larger modern industrial and innovation strategy to promote coordinated and strategic innovation and create markets for trustworthy products and services by comprehensively leveraging Federal investment vehicles, Federal purchasing power, and Federal regulations.
@@ -494,7 +494,7 @@ Responsible Agency: OSTP
 Contributing Entities: DHS, CISA, NIST, NSF
 
 Completion Date: 1Q FY24"
-"2","Strategic Objective 4.3","Prepare for Our Post-Quantum Future","objective","",""
+"2","Strategic Objective 4.3","Prepare for Our Post-Quantum Future","objective","Pillar Four",""
 "4","Initiative 4.3.1","Implement National Security Memorandum-10","initiative","Strategic Objective 4.3","**Initiative Description:** The Office of Management and Budget and the National Manager for National Security Systems, in coordination with ONCD, will continue to prioritize implementation of National Security Memorandum-10 and transitioning vulnerable public networks and systems to quantum-resistant cryptography-based environments, focusing first on Federal information systems and NSS. OMB will work with NIST to develop complementary mitigation strategies to provide cryptographic agility in the face of unknown future risks.
 
 **NCS Reference:** The Federal Government will prioritize the transition of vulnerable public networks and systems to quantum-resistant cryptography-based environments and develop complementary mitigation strategies to provide cryptographic agility in the face of unknown future risks.
@@ -520,7 +520,7 @@ Completion Date: 3Q FY25"
 Responsible Agency: NIST
 
 Completion Date: 1Q FY25"
-"3","Strategic Objective 4.4","Secure Our Clean Energy Future","objective","Strategic Objective 4.3",""
+"3","Strategic Objective 4.4","Secure Our Clean Energy Future","objective","Pillar Four",""
 "4","Initiative 4.4.1","Drive adoption of cyber secure-by-design principles by incorporating them into Federal projects","initiative","Strategic Objective 4.4","**Initiative Description:** The Department of Energy, working with ONCD and CISA, will work with stakeholders to identify and implement cyber secure-by-design pilot projects, identify economic incentives for cyber secure-by-design, identify needed technology vehicles to apply cyber secure-by-design principles, and measure progress on national implementation of cyber secure-by-design efforts for critical infrastructure.
 
 **NCS Reference:** DOE, through efforts such as the Clean Energy Cybersecurity Accelerator (CECA) and the Bipartisan Infrastructure Law-directed Energy Cyber Sense program, and the National Labs are leading the government's effort to secure the clean energy grid of the future and generating security best practices that extend to other critical infrastructure sectors. DOE will also continue to promote cybersecurity for electric distribution and distributed energy resources in partnership with industry, States, Federal regulators, Congress, and other agencies.
@@ -548,7 +548,7 @@ Responsible Agency: DOE
 Contributing Entities: NIST
 
 Completion Date: 4Q FY25"
-"2","Strategic Objective 4.6","Develop a National Strategy to Strengthen Our Cyber Workforce","objective","",""
+"2","Strategic Objective 4.6","Develop a National Strategy to Strengthen Our Cyber Workforce","objective","Pillar Four",""
 "4","Initiative 4.6.1","Publish a National Cyber Workforce and Education Strategy and track its implementation","initiative","Strategic Objective 4.6","**Initiative Description:** The Office of the National Cyber Director will lead the development of the National Cyber Workforce and Education Strategy and will drive, coordinate, and report on initial stages of implementation of the strategy. ONCD will act as the central coordinator for nationally prioritized workforce and education initiatives.
 
 **NCS Reference:** To address this challenge, ONCD will lead the development and oversee implementation of a National Cyber Workforce and Education Strategy.
@@ -557,7 +557,7 @@ Responsible Agency: ONCD
 
 Completion Date: 2Q FY24"
 "2","Pillar Five","Forge International Partnerships to Pursue Shared Goals","pillar","",""
-"2","Strategic Objective 5.1","Build Coalitions to Counter Threats to Our Digital Ecosystem","objective","",""
+"2","Strategic Objective 5.1","Build Coalitions to Counter Threats to Our Digital Ecosystem","objective","Pillar Five",""
 "4","Initiative 5.1.1","Create interagency teams for regional cyber collaboration and coordination","initiative","Strategic Objective 5.1","**Initiative Description:** The Department of State will develop department staff knowledge and skills related to cyberspace and digital policy that can be used to establish and strengthen country and regional interagency cyber teams to facilitate coordination with partner nations.
 
 **NCS Reference:** The United States and international counterparts can advance common cybersecurity interests by sharing cyber threat information, exchanging model cybersecurity practices, comparing sector-specific expertise, driving secure-by-design principles, and coordinating policy and incident response activities.
@@ -594,7 +594,7 @@ Responsible Agency: ONCD
 Contributing Entities: DOJ, State, FBI
 
 Completion Date: 4Q FY24"
-"2","Strategic Objective 5.2","Strengthen International Partner Capacity","objective","",""
+"2","Strategic Objective 5.2","Strengthen International Partner Capacity","objective","Pillar Five",""
 "4","Initiative 5.2.1","Strengthen international partners' cyber capacity","initiative","Strategic Objective 5.2","**Initiative Description:** The Department of State and other relevant interagency stakeholders will leverage the existing Interagency Cyber Capacity Building Working Group to assess the current global and policy trends in cyberspace; review the progress and investments made to date with the community of U.S. government implementers to achieve U.S. cyber goals, to include the six lines of effort in Strategic Objective 5.2; and prioritize future international capacity building assistance.
 
 **NCS Reference:** We must enable our allies and partners to secure critical infrastructure networks, build effective incident detection and response capabilities, share cyber threat information, pursue diplomatic collaboration, build law enforcement capacity…and support our shared interests in cyberspace by adhering to international law and reinforcing norms of responsible state behavior.
@@ -613,7 +613,7 @@ Responsible Agency: DOJ
 Contributing Entities: State, FBI, HSI, USSS
 
 Completion Date: 4Q FY26"
-"2","Strategic Objective 5.3","Expand U.S. Ability to Assist Allies and Partners","objective","",""
+"2","Strategic Objective 5.3","Expand U.S. Ability to Assist Allies and Partners","objective","Pillar Five",""
 "4","Initiative 5.3.1","Establish flexible foreign assistance mechanisms to provide cyber incident response support quickly","initiative","Strategic Objective 5.3","**Initiative Description:** The Department of State will identify or develop a flexible and rapid foreign assistance mechanism to provide cyber incident response support.
 
 **NCS Reference:** The Administration will establish policies for determining when it is in the national interest to provide such support, develop mechanisms for identifying and deploying department and agency resources in such efforts, and, where needed, rapidly seek to remove existing financial and procedural barriers to provide such operational support.
@@ -623,7 +623,7 @@ Responsible Agency: State
 Contributing Entities: DHS, DOD, FBI, USAID
 
 Completion Date: 1Q FY24"
-"2","Strategic Objective 5.4","Build Coalitions to Reinforce Global Norms of Responsible State Behavior","objective","",""
+"2","Strategic Objective 5.4","Build Coalitions to Reinforce Global Norms of Responsible State Behavior","objective","Pillar Five",""
 "4","Initiative 5.4.1","Hold irresponsible states accountable when they fail to uphold their commitments","initiative","Strategic Objective 5.4","**Initiative Description:** The Department of State will work through the Open-Ended Working Group to advance the framework of responsible state behavior in cyberspace and strengthen the coalition of states willing to hold malign actors responsible.
 
 **NCS Reference:** The United States, as a core part of its renewed, active diplomacy, will hold irresponsible states accountable when they fail to uphold their commitments. To effectively constrain our adversaries and counter malicious activities below the threshold of armed conflict, we will work with our allies and partners to pair statements of condemnation with the imposition of meaningful consequences.
@@ -633,7 +633,7 @@ Responsible Agency: State
 Contributing Entities: DOD, DOJ, FBI
 
 Completion Date: 4Q FY25"
-"2","Strategic Objective 5.5","Secure Global Supply Chains for Information, Communications, and Operational Technology Products and Services","objective","",""
+"2","Strategic Objective 5.5","Secure Global Supply Chains for Information, Communications, and Operational Technology Products and Services","objective","Pillar Five",""
 "4","Initiative 5.5.1","Promote the development of secure and trustworthy information and communication technology (ICT) networks and services","initiative","Strategic Objective 5.5","**Initiative Description:** The Department of State will work with allies and partners through International Technology Security and Innovation funding to advance international adoption of policies and regulatory frameworks for secure ICT ecosystems.
 
 **NCS Reference:** The United States will work with our allies and partners, including through regional partnerships like IPEF, the Quad Critical and Emerging Technology Working Group, and the TTC, to identify and implement best practices in cross-border supply chain risk management and work to shift supply chains to flow through partner countries and trusted vendors.
@@ -669,7 +669,7 @@ Responsible Agency: NIST
 
 Completion Date: 2Q FY25"
 "3","","Implementation-wide Initiatives","","",""
-"3","Implementation 6.1","Assessing Effectiveness","objective","Strategic Objective 5.5",""
+"3","Implementation 6.1","Assessing Effectiveness","objective","",""
 "4","Initiative 6.1.1","Report progress and effectiveness on implementing the National Cybersecurity Strategy","initiative","Implementation 6.1","**Initiative Description:** The Office of the National Cyber Director will assess the effectiveness of this strategy, associated policy, and follow-on actions and provide the first annual report to the President, the Assistant to the President for National Security Affairs, and Congress.
 
 **NCS Reference:** ONCD, in coordination with NSC staff, OMB, and departments and agencies, will assess the effectiveness of this strategy and report annually to the President, the Assistant to the President for National Security Affairs, and Congress on the effectiveness of this strategy, associated policy, and follow-on actions in achieving its goals.

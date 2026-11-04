@@ -68,7 +68,7 @@
     "section_id": "Strategic Objective 1.1",
     "section_name": "Establish Cybersecurity Requirements to Support National Security and Public Safety",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar One",
     "body": ""
   },
   {
@@ -100,7 +100,7 @@
     "section_id": "Strategic Objective 1.2",
     "section_name": "Scale Public-Private Collaboration",
     "id_kind": "objective",
-    "parent_id": "Strategic Objective 1.1",
+    "parent_id": "Pillar One",
     "body": ""
   },
   {
@@ -148,7 +148,7 @@
     "section_id": "Strategic Objective 1.3",
     "section_name": "Integrate Federal Cybersecurity Centers",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar One",
     "body": ""
   },
   {
@@ -164,7 +164,7 @@
     "section_id": "Strategic Objective 1.4",
     "section_name": "Update Federal Incident Response Plans and Processes",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar One",
     "body": ""
   },
   {
@@ -204,7 +204,7 @@
     "section_id": "Strategic Objective 1.5",
     "section_name": "Modernize Federal Defenses",
     "id_kind": "objective",
-    "parent_id": "Strategic Objective 1.4",
+    "parent_id": "Pillar One",
     "body": ""
   },
   {
@@ -244,7 +244,7 @@
     "section_id": "Strategic Objective 2.1",
     "section_name": "Integrate Federal Disruption Activities",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Two",
     "body": ""
   },
   {
@@ -292,7 +292,7 @@
     "section_id": "Strategic Objective 2.2",
     "section_name": "Enhance Public-Private Operational Collaboration to Disrupt Adversaries",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Two",
     "body": ""
   },
   {
@@ -308,7 +308,7 @@
     "section_id": "Strategic Objective 2.3",
     "section_name": "Increase the Speed and Scale of Intelligence Sharing and Victim Notification",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Two",
     "body": ""
   },
   {
@@ -332,7 +332,7 @@
     "section_id": "Strategic Objective 2.4",
     "section_name": "Prevent Abuse of U.S.-Based Infrastructure",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Two",
     "body": ""
   },
   {
@@ -348,7 +348,7 @@
     "section_id": "Strategic Objective 2.5",
     "section_name": "Counter Cybercrime, Defeat Ransomware",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Two",
     "body": ""
   },
   {
@@ -404,7 +404,7 @@
     "section_id": "Strategic Objective 3.2",
     "section_name": "Drive the Development of Secure IoT Devices",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Three",
     "body": ""
   },
   {
@@ -428,7 +428,7 @@
     "section_id": "Strategic Objective 3.3",
     "section_name": "Shift Liability for Insecure Software Products and Services",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Three",
     "body": ""
   },
   {
@@ -460,7 +460,7 @@
     "section_id": "Strategic Objective 3.4",
     "section_name": "Use Federal Grants and Other Incentives to Build in Security",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Three",
     "body": ""
   },
   {
@@ -492,7 +492,7 @@
     "section_id": "Strategic Objective 3.5",
     "section_name": "Leverage Federal Procurement to Improve Accountability",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Three",
     "body": ""
   },
   {
@@ -516,7 +516,7 @@
     "section_id": "Strategic Objective 3.6",
     "section_name": "Explore a Federal Cyber Insurance Backstop",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Three",
     "body": ""
   },
   {
@@ -532,7 +532,7 @@
     "section_id": "Pillar Four",
     "section_name": "Invest in a Resilient Future",
     "id_kind": "pillar",
-    "parent_id": "Strategic Objective 3.6",
+    "parent_id": "",
     "body": ""
   },
   {
@@ -540,7 +540,7 @@
     "section_id": "Strategic Objective 4.1",
     "section_name": "Secure the Technical Foundation of the Internet",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Four",
     "body": ""
   },
   {
@@ -588,7 +588,7 @@
     "section_id": "Strategic Objective 4.2",
     "section_name": "Reinvigorate Federal Research and Development for Cybersecurity",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Four",
     "body": ""
   },
   {
@@ -604,7 +604,7 @@
     "section_id": "Strategic Objective 4.3",
     "section_name": "Prepare for Our Post-Quantum Future",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Four",
     "body": ""
   },
   {
@@ -636,7 +636,7 @@
     "section_id": "Strategic Objective 4.4",
     "section_name": "Secure Our Clean Energy Future",
     "id_kind": "objective",
-    "parent_id": "Strategic Objective 4.3",
+    "parent_id": "Pillar Four",
     "body": ""
   },
   {
@@ -668,7 +668,7 @@
     "section_id": "Strategic Objective 4.6",
     "section_name": "Develop a National Strategy to Strengthen Our Cyber Workforce",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Four",
     "body": ""
   },
   {
@@ -692,7 +692,7 @@
     "section_id": "Strategic Objective 5.1",
     "section_name": "Build Coalitions to Counter Threats to Our Digital Ecosystem",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Five",
     "body": ""
   },
   {
@@ -732,7 +732,7 @@
     "section_id": "Strategic Objective 5.2",
     "section_name": "Strengthen International Partner Capacity",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Five",
     "body": ""
   },
   {
@@ -756,7 +756,7 @@
     "section_id": "Strategic Objective 5.3",
     "section_name": "Expand U.S. Ability to Assist Allies and Partners",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Five",
     "body": ""
   },
   {
@@ -772,7 +772,7 @@
     "section_id": "Strategic Objective 5.4",
     "section_name": "Build Coalitions to Reinforce Global Norms of Responsible State Behavior",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Five",
     "body": ""
   },
   {
@@ -788,7 +788,7 @@
     "section_id": "Strategic Objective 5.5",
     "section_name": "Secure Global Supply Chains for Information, Communications, and Operational Technology Products and Services",
     "id_kind": "objective",
-    "parent_id": "",
+    "parent_id": "Pillar Five",
     "body": ""
   },
   {
@@ -836,7 +836,7 @@
     "section_id": "Implementation 6.1",
     "section_name": "Assessing Effectiveness",
     "id_kind": "objective",
-    "parent_id": "Strategic Objective 5.5",
+    "parent_id": "",
     "body": ""
   },
   {

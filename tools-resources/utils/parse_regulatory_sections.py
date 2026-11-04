@@ -82,10 +82,21 @@ def parse_heading(text: str):
     return "", cleaned, ""
 
 
+_NUM_TO_WORD = {
+    "1": "One", "2": "Two", "3": "Three", "4": "Four", "5": "Five",
+    "6": "Six", "7": "Seven", "8": "Eight", "9": "Nine", "10": "Ten",
+}
+_NUM_TO_ROMAN = {
+    "1": "I", "2": "II", "3": "III", "4": "IV", "5": "V",
+    "6": "VI", "7": "VII", "8": "VIII", "9": "IX", "10": "X",
+}
+
+
 def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> str:
     """For numeric ids like '1.2.3' or '22757.10', return the parent ('1.2',
     '22757'). For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
-    'Implementation X.Y' if present)."""
+    'Implementation X.Y' if present). For '(Strategic )?Objective X.Y' return
+    the matching 'Pillar <X>' if present in existing_ids."""
     parts = section_id.split(".")
     if len(parts) > 1 and all(re.match(r"^\d+$", p) for p in parts):
         return ".".join(parts[:-1])
@@ -95,7 +106,48 @@ def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> s
         if existing_ids and f"Implementation {xy}" in existing_ids:
             return f"Implementation {xy}"
         return f"Strategic Objective {xy}"
+    m_obj = re.match(r"^(?:Strategic\s+)?Objective\s+(\d+)\.\d+[a-z]?$", section_id, re.IGNORECASE)
+    if m_obj and existing_ids:
+        p_num = m_obj.group(1)
+        candidates = [
+            f"Pillar {_NUM_TO_WORD.get(p_num, '')}",
+            f"Pillar {_NUM_TO_ROMAN.get(p_num, '')}",
+            f"Pillar {p_num}",
+            f"PILLAR {_NUM_TO_WORD.get(p_num, '').upper()}",
+            f"PILLAR {_NUM_TO_ROMAN.get(p_num, '')}",
+            f"PILLAR {p_num}",
+        ]
+        for cand in candidates:
+            if cand.strip() in existing_ids:
+                return cand.strip()
     return ""
+
+
+def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool:
+    """Return True if parent_row is a valid semantic container for (child_kind, child_id)."""
+    pid = parent_row.get("section_id", "")
+    pkind = parent_row.get("id_kind", "")
+    if not pid or not child_id:
+        return False
+    if pid == child_id:
+        return True
+    if pkind == child_kind:
+        return False
+    if child_kind in ("pillar", "part", "chapter", "annex", "roman"):
+        return pkind in ("part", "chapter", "roman")
+    if child_kind in ("objective", "section_word"):
+        if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
+            return False
+        return pkind in ("pillar", "part", "chapter", "roman", "annex")
+    if child_kind == "goal":
+        return pkind in ("pillar", "part", "chapter", "roman", "annex", "section_word") or (
+            pkind == "numbered" and "." not in pid
+        )
+    if child_kind == "numbered":
+        if "." in child_id:
+            return False
+        return pkind in ("roman", "part", "chapter", "pillar", "annex")
+    return False
 
 
 def normalize_body(s: str) -> str:
@@ -126,6 +178,7 @@ def main():
     md = md_files[0].read_text(encoding="utf-8")
 
     headings = list(HEADING_RE.finditer(md))
+    min_enc_depth = 1 if sum(1 for h in headings if len(h.group(1)) == 1) > 1 else 2
     rows = []
     seen_ids: set[str] = set()
     latest_row_by_id: dict[str, int] = {}
@@ -150,12 +203,13 @@ def main():
             for d in range(depth - 1, 0, -1):
                 if d in ancestor_id_row_by_depth:
                     cand_idx = ancestor_id_row_by_depth[d]
-                    parent_row_idx = cand_idx
-                    parent_id = rows[cand_idx]["section_id"]
-                    break
+                    if is_valid_container(rows[cand_idx], id_kind, section_id):
+                        parent_row_idx = cand_idx
+                        parent_id = rows[cand_idx]["section_id"]
+                        break
 
         enclosing_any_idx = next(
-            (ancestor_row_by_depth[d] for d in range(depth - 1, 0, -1) if d in ancestor_row_by_depth),
+            (ancestor_row_by_depth[d] for d in range(depth - 1, min_enc_depth - 1, -1) if d in ancestor_row_by_depth),
             None,
         )
 
@@ -217,8 +271,9 @@ def main():
             if sid in still_dup:
                 enc_idx = r["_enclosing_any_idx"]
                 enc_name = rows[enc_idx]["section_name"] if enc_idx is not None else ""
-                if enc_name and len(enc_name) <= 48 and not enc_name.lower().startswith("national security transparency advisory group"):
-                    r["section_id"] = f"{enc_name}: {sid}"
+                enc_short = enc_name.split(":")[0].strip() if len(enc_name) > 48 and ":" in enc_name else enc_name
+                if enc_short and len(enc_short) <= 48 and not enc_short.lower().startswith("national security transparency advisory group"):
+                    r["section_id"] = f"{enc_short}: {sid}"
         # Refresh child parent_ids and ensure 100% uniqueness if any collide
         for r in rows:
             if r["_parent_row_idx"] is not None:

@@ -309,7 +309,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
 | `reference/ca.gov/sam-5300-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/ca.gov/sam-5300-definitions` |
 | `reference/canada.ca/enterprise-cyber-security-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/enterprise-cyber-security-strategy@2024` |
-| `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
+| `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
 | `reference/canada.ca/national-security-policy/2004/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy@2004` |
 | `reference/canada.ca/national-security-policy-progress-report/2005/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy-progress-report@2005` |
 | `reference/canada.ca/national-security-transparency-commitment/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-transparency-commitment` |
@@ -437,7 +437,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/gov.uk/national-security-strategy/2010/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2010` |
 | `reference/gov.uk/national-security-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2015` |
 | `reference/gov.uk/national-security-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2025` |
-| `reference/gov.uk/ncsc-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
+| `reference/gov.uk/ncsc-glossary/` | structured | 8 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
 | `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
