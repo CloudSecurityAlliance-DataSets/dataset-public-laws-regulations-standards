@@ -24,7 +24,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://laws-lois.justice.gc.ca/eng/acts/N-16.62/FullText.html",
-    "textUsed": "https://laws-lois.justice.gc.ca/eng/acts/N-16.62/FullText.html",
+    "textUsed": "https://laws-lois.justice.gc.ca/eng/XML/N-16.62.xml",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -37,19 +37,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Committed authoritative legislative XML (https://laws-lois.justice.gc.ca/eng/XML/N-16.62.xml) as nsira-act.xml and extracted 59 statutory sections into nsira-act.md, nsira-act-sections.csv, and nsira-act-sections.json."
+    "notes": "Committed authoritative legislative XML (https://laws-lois.justice.gc.ca/eng/XML/N-16.62.xml) as nsira-act.xml and extracted 85 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into nsira-act.md, nsira-act-sections.csv, and nsira-act-sections.json."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)"
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
     }
   ],
   "scope": {},

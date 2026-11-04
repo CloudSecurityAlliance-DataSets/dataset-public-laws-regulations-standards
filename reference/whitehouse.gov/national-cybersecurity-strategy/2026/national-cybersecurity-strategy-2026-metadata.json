@@ -24,7 +24,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.whitehouse.gov/releases/2026/03/white-house-unveils-president-trumps-cyber-strategy-for-america/",
-    "textUsed": "https://www.whitehouse.gov/releases/2026/03/white-house-unveils-president-trumps-cyber-strategy-for-america/",
+    "textUsed": "https://www.whitehouse.gov/wp-content/uploads/2026/03/President-Trumps-Cyber-Strategy-for-America.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 7-page official White House PDF (https://www.whitehouse.gov/wp-content/uploads/2026/03/President-Trumps-Cyber-Strategy-for-America.pdf) to Markdown (11,575 chars) and parsed 13 sections (6 with ID)."
+    "notes": "Extracted 7-page born-digital White House PDF (https://www.whitehouse.gov/wp-content/uploads/2026/03/President-Trumps-Cyber-Strategy-for-America.pdf) locally via column-aware PyMuPDF layout analysis (11,575 chars) and parsed 13 sections (6 with ID)."
   },
   "extraction_history": [
     {

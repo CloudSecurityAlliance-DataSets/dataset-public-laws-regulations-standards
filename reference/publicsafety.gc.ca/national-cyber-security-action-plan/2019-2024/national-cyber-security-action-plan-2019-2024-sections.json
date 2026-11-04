@@ -13,7 +13,7 @@
     "section_name": "Budget 2018 Investments",
     "id_kind": "",
     "parent_id": "",
-    "body": "[National Cyber Security Action Plan (2019-2024) PDF Version (530 KB)](ntnl-cbr-scrt-strtg-2019-en.pdf)"
+    "body": "[National Cyber Security Action Plan (2019-2024) PDF Version (530 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/ntnl-cbr-scrt-strtg-2019-en.pdf)"
   },
   {
     "depth": 5,
@@ -49,9 +49,9 @@
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Goal 1: Secure and Resilient Systems",
-    "id_kind": "",
+    "section_id": "Goal 1",
+    "section_name": "Secure and Resilient Systems",
+    "id_kind": "goal",
     "parent_id": "",
     "body": "Through collaborative action with partners and enhanced cyber security capabilities, we will better protect Canadians from cybercrime, respond to evolving threats, and defend critical government and private sector systems.\n\n*“The threats we face in cyberspace are complex and rapidly evolving. Governments, businesses, organizations, and Canadians are vulnerable. With more of our economy and essential services moving online every year, the stakes could not be higher.” (The Strategy)*\n\nAs malicious cyber tools become increasingly accessible, and as rates of cybercrime continue to rise, there is a real threat to Canada’s economic well-being. As more of Canada’s critical infrastructure can be controlled remotely and essential services are managed online, cyber incidents have the potential to compromise national security and public safety. To address these risks, the Government of Canada will expand its efforts to support Critical Infrastructure (CI) owners and operators in reducing their cyber security risks. It will do so by providing CI owners and operators with enhanced awareness of cyber risks and vulnerabilities, and of the mitigation measures available to enhance the resilience of vital infrastructure systems. The Government of Canada will also enhance law enforcement capacity to respond to cybercrime by supporting coordination across law enforcement agencies and with federal, provincial, territorial, and international partners. The Government will enhance cybercrime investigative capacity and make it easier for Canadians to report cybercrime."
   },
@@ -121,9 +121,9 @@
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Goal 2: An Innovative and Adaptive Cyber Ecosystem",
-    "id_kind": "",
+    "section_id": "Goal 2",
+    "section_name": "An Innovative and Adaptive Cyber Ecosystem",
+    "id_kind": "goal",
     "parent_id": "",
     "body": "By supporting advanced research, fostering digital innovation, and developing cyber skills and knowledge, the federal government will position Canada as a global leader in cyber security.\n\n*“Digital innovation has become the engine of economic growth in the 21st century. Cyber security is not only essential for protecting the sources of Canada’s digital innovation – it has become a source of innovation in its own right.” (The Strategy)*\n\nCyber security is increasingly driving innovation and economic activity in Canada. Governments, academia, and members of the private sector can work together to create new opportunities, drive investment, and foster leading-edge research and development. Moreover, the demand for qualified cyber security professionals represents an immediate and growing opportunity for Canada’s highly educated workforce.\n\nThe Government of Canada will play a leadership role in supporting advanced research and helping innovative companies scale up to bring cyber security technologies and services to the global marketplace. It will work with partners to drive investment and foster cyber research and development. It will also invest in initiatives that support digital skills development to address the cyber skills gap, with aims of building the labour force for the future."
   },
@@ -153,9 +153,9 @@
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Goal 3: Effective Leadership, Governance and Collaboration",
-    "id_kind": "",
+    "section_id": "Goal 3",
+    "section_name": "Effective Leadership, Governance and Collaboration",
+    "id_kind": "goal",
     "parent_id": "",
     "body": "The federal government, in close collaboration with provinces, territories, and the private sector, will take a leadership role to advance cyber security in Canada and will, in coordination with allies, work to shape the international cyber security environment in Canada’s favour.\n\nThe Government of Canada will demonstrate leadership in advancing Canada’s cyber security interests both domestically and abroad, by ensuring the enhanced collaboration and coordination of strategic cyber security and cybercrime issues amongst stakeholders, and by advocating for an open, free and secure internet. Establishing a clear focal point for cyber security within the federal government, through the newly established Canadian Centre for Cyber Security, will demonstrate leadership, while ensuring that partners receive unified advice and guidance on cyber security and cybercrime issues. The Government of Canada will work to increase information sharing amongst domestic and international partners, and to collect relevant data and metrics in support of evidence-based decision-making."
   },

@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": "secid:reference/whitehouse.gov/national-security-strategy@2017",
     "supersededBy": "secid:reference/whitehouse.gov/national-security-strategy@2025",
-    "retiredFromActiveUse": "2022-10-12",
+    "retiredFromActiveUse": "2025-12-01",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 48-page official White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf) to Markdown (155,199 chars) and parsed 46 sections (5 with ID)."
+    "notes": "Extracted 48-page born-digital White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf) locally via column-aware PyMuPDF layout analysis (155,186 chars) and parsed 46 sections (5 with ID)."
   },
   "extraction_history": [
     {

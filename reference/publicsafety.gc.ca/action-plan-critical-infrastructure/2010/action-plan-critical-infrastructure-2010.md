@@ -8,7 +8,7 @@ Information identified as archived is provided for reference, research or record
 
 [This page has been archived on the Web.](#archived)
 
-[Action Plan for Critical Infrastructure PDF Version (250 KB)](pln-crtcl-nfrstrctr-eng.pdf)
+[Action Plan for Critical Infrastructure PDF Version (250 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr/pln-crtcl-nfrstrctr-eng.pdf)
 
 ISBN: 978-1-100-11249-7
 
@@ -26,7 +26,7 @@ ISBN: 978-1-100-11249-7
 - [Annex D – Information sharing framework](#aD)
 - [Annex E – Risk management](#aE)
 
-\* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure.](/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
+\* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
 
 ## 1. Introduction
 

@@ -24,7 +24,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.uk/government/publications/the-national-security-strategy-a-strong-britain-in-an-age-of-uncertainty",
-    "textUsed": "https://www.gov.uk/government/publications/the-national-security-strategy-a-strong-britain-in-an-age-of-uncertainty",
+    "textUsed": "https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/gov.uk/national-security-strategy@2015",
-    "retiredFromActiveUse": "2010-10-18",
+    "retiredFromActiveUse": "2015-11-23",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 39-page official GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf) to Markdown (93,632 chars) and parsed 77 sections (0 with ID)."
+    "notes": "Extracted 39-page born-digital GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74cb2de5274a3cb286738d/national-security-strategy.pdf) locally via column-aware PyMuPDF layout analysis (93,646 chars) and parsed 81 sections (6 with ID)."
   },
   "extraction_history": [
     {

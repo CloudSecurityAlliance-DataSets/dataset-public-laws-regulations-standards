@@ -2,7 +2,7 @@
 
 Library and Archives Canada Cataloguing in Publication
 
-Securing an open society - one year later : progress report on the implementation of Canada’s national security policy
+Securing an open society -one year later : progress report on the implementation of Canada’s national security policy
 
 Text in English and French on inverted pages. Title on added t.p.: Protéger une société ouverte – un an après : rapport d’étape sur la mise en œuvre de la politique canadienne de sécurité nationale
 
@@ -94,7 +94,7 @@ serves to better inform policy makers by providing insights into how national se
 
 • The Government has recently released details of a proposed model for a National Security Committee of Parliamentarians, initially put forward by the Prime Minister on December 12, 2003, and included in the Government’s Action Plan on Democratic Reform.
 
-• Improvements have been made to Canada’s watch list system, to ensure that watch lists are better integrated and updated on a real- time basis and that appropriate safeguards are in place to respect the privacy rights of Canadians.
+• Improvements have been made to Canada’s watch list system, to ensure that watch lists are better integrated and updated on a real-time basis and that appropriate safeguards are in place to respect the privacy rights of Canadians.
 
 Intelligence
 
@@ -298,7 +298,7 @@ Of particular importance is the need to address gaps and inconsistencies in Cana
 
 • Lost and stolen Canadian passports list. Information on lost, stolen or fraudulent passports is now available electronically to officers at our ports of entry and other enforcement personnel across Canada, including at airports, bus lanes at border crossings and selected commercial highway, rail, ferry and cruise ship locations. Electronic access to this information will be extended to other ports in the near future.
 
-• Terrorist watch list. The National Risk Assessment Centre was established in January 2004 to increase the ability of Canada and the U.S. to detect and prevent the illegal movement of people and goods and, through information sharing, to identify risks posed by persons arriving in either country. Canada and the U.S. are now exchanging risk- scored advanced passenger information and passenger name record data to identify potential risks posed by travellers on international flights destined for either country. As well, enforcement immigration indexes for terrorism and organized crime have been reviewed and updated to ensure accuracy and reliability. Quality control measures have also
+• Terrorist watch list. The National Risk Assessment Centre was established in January 2004 to increase the ability of Canada and the U.S. to detect and prevent the illegal movement of people and goods and, through information sharing, to identify risks posed by persons arriving in either country. Canada and the U.S. are now exchanging risk-scored advanced passenger information and passenger name record data to identify potential risks posed by travellers on international flights destined for either country. As well, enforcement immigration indexes for terrorism and organized crime have been reviewed and updated to ensure accuracy and reliability. Quality control measures have also
 
 been implemented to ensure the reliability of terrorist watch lists.
 
@@ -528,9 +528,9 @@ identified priority groups in the event of an influenza pandemic. Budget 2005 in
 
 Replenishment of the National Emergency Stockpile System is also proceeding with the acquisition of pharmaceuticals, medical devices and other necessary supplies for portable hospitals and mini-clinics. The refurbishment of existing emergency hospitals is ongoing, and a Strategic Review Working Group was established to undertake an in-depth review of the content and functionality of the system.
 
-PHAC is implementing the National Security Policy commitment to enhance laboratory capacity at the National Microbiology Laboratory in Winnipeg and the Laboratory for Foodborne Zoonoses in Guelph. A state- of-the-art emergency operations centre was established by PHAC at the National Microbiology Laboratory and is a part of the PHAC Emergency Operations Centre System consisting of the Winnipeg and Ottawa centres. The laboratory’s capacity in biosystematics for the rapid diagnosis and detection of biologic threats has been expanded, and electronic networks have been established to link federal, provincial, territorial and international laboratories for the fingerprinting of micro-organisms. Efforts are ongoing to establish a Canadian capacity for rapid vaccine development for emerging infectious diseases and to expand testing capacity to include new micro-organisms, such as C. Difficile and influenza.
+PHAC is implementing the National Security Policy commitment to enhance laboratory capacity at the National Microbiology Laboratory in Winnipeg and the Laboratory for Foodborne Zoonoses in Guelph. A state-of-the-art emergency operations centre was established by PHAC at the National Microbiology Laboratory and is a part of the PHAC Emergency Operations Centre System consisting of the Winnipeg and Ottawa centres. The laboratory’s capacity in biosystematics for the rapid diagnosis and detection of biologic threats has been expanded, and electronic networks have been established to link federal, provincial, territorial and international laboratories for the fingerprinting of micro-organisms. Efforts are ongoing to establish a Canadian capacity for rapid vaccine development for emerging infectious diseases and to expand testing capacity to include new micro-organisms, such as C. Difficile and influenza.
 
-To help address the issue of human resource shortages in the field of public health, the National Security Policy announced plans to expand the Canadian Field Epidemiology Program (CFEP). CFEP is a 30-year-old federal program that enables physicians, nurses, veterinarians and other public health professionals to obtain expertise through two-year, field- based assignments in epidemiology, surveillance and emergency health response. A plan has now been developed to double the program’s intake to 10 positions per year beginning in September 2005. The number of placements will also increase to provide additional support for emergency and outbreak response.
+To help address the issue of human resource shortages in the field of public health, the National Security Policy announced plans to expand the Canadian Field Epidemiology Program (CFEP). CFEP is a 30-year-old federal program that enables physicians, nurses, veterinarians and other public health professionals to obtain expertise through two-year, field-based assignments in epidemiology, surveillance and emergency health response. A plan has now been developed to double the program’s intake to 10 positions per year beginning in September 2005. The number of placements will also increase to provide additional support for emergency and outbreak response.
 
 The Government will also address human resource shortages by providing additional funding for scholarships, fellowships, bursaries and public health chairs. A program and mechanisms are now being developed for disbursing these new funds to individual students, university departments and local public health organizations.
 
@@ -698,7 +698,7 @@ Building a Stronger Border
 
 The fifth status report on implementation of the Smart Border Action Plan was released on December 17, 2004, at a meeting between Canada’s Deputy Prime Minister and the U.S. Secretary of Homeland Security. The status report indicated that significant progress has been made on many elements of the 32-point Action Plan. The Deputy Prime Minister and the U.S. Secretary of Homeland Security also made the following announcements.
 
-• A framework has been issued to implement land pre- clearance pilot projects at the Buffalo–Fort Erie Peace Bridge and at one other Canada-U.S. border crossing. The pilot at the Peace Bridge will involve re-locating all U.S. primary and secondary border operations for both commercial and passenger traffic from Buffalo to Fort Erie.
+• A framework has been issued to implement land pre-clearance pilot projects at the Buffalo–Fort Erie Peace Bridge and at one other Canada-U.S. border crossing. The pilot at the Peace Bridge will involve re-locating all U.S. primary and secondary border operations for both commercial and passenger traffic from Buffalo to Fort Erie.
 
 At the second pilot site, which has yet to be determined, Canadian border functions will be moved to the U.S. side of the border.
 
@@ -732,7 +732,7 @@ Key Achievements
 
 Context
 
-Since September 11, 2001, the Government has engaged internationally on several fronts to address threats to Canada’s national security, focusing on the priorities of countering international terrorism, preventing the proliferation of weapons of mass destruction, assisting failed and failing states, and defusing intra- and interstate conflicts. Through words and actions, the Government has also reaffirmed Canada’s commitment to both the North Atlantic Treaty Organization (NATO) and the United Nations.
+Since September 11, 2001, the Government has engaged internationally on several fronts to address threats to Canada’s national security, focusing on the priorities of countering international terrorism, preventing the proliferation of weapons of mass destruction, assisting failed and failing states, and defusing intra-and interstate conflicts. Through words and actions, the Government has also reaffirmed Canada’s commitment to both the North Atlantic Treaty Organization (NATO) and the United Nations.
 
 On April 19, 2005, the Government issued Canada’s International Policy Statement—A Role of Pride and Influence in the World, the country’s first integrated plan designed to strengthen Canada’s role in the world. The Statement assesses the need for Canada to invest in its defence and security, international commitments and foreign aid in order to support a strong international role. It outlines a targeted approach, based on Canadian strengths and values, that will enable Canada to focus its efforts in order to be more effective and influential.
 
@@ -782,7 +782,7 @@ To this end, Canada, the U.S. and Mexico will work together to establish a commo
 
 Minister-led working groups have been created that will consult with stakeholders in the respective countries. These working groups will respond to the priorities of Canadians and the private sector and will set specific, measurable and achievable goals. They will also identify concrete steps that the three governments can take to meet these goals.
 
-Within 90 days, ministers will report back to the three leaders with their initial report. Following this, the working groups will report on a semi- annual basis. Because the Partnership will be an ongoing process of cooperation, new items will be added to the work agenda by mutual agreement as circumstances warrant.
+Within 90 days, ministers will report back to the three leaders with their initial report. Following this, the working groups will report on a semi-annual basis. Because the Partnership will be an ongoing process of cooperation, new items will be added to the work agenda by mutual agreement as circumstances warrant.
 
 Through this Partnership, the three countries will ensure that North America remains the most economically dynamic region of the world and a secure home for its people in this and future generations.
 
@@ -810,7 +810,7 @@ Canada is continuing its leadership in the fight against money laundering and te
 
 other regional bodies, such as the Asia-Pacific Group on Money Laundering and the Caribbean Financial Action Task Force. Budget 2005 allocates $3 million over five years to support these activities.
 
-As part of its commitment to protect the strong reputation of Canada’s anti-money laundering and anti-terrorist financing regime, the Government will shortly release a consultation paper proposing the legislative and regulatory changes required to implement recent revisions to the Financial Action Task Force standards. The Government is committed to ensuring that Canada’s anti-money laundering and anti- terrorist financing regime remains world class and that the Financial Transactions Reports Analysis Centre of Canada and other government agencies continue to operate effectively and efficiently in this important area.
+As part of its commitment to protect the strong reputation of Canada’s anti-money laundering and anti-terrorist financing regime, the Government will shortly release a consultation paper proposing the legislative and regulatory changes required to implement recent revisions to the Financial Action Task Force standards. The Government is committed to ensuring that Canada’s anti-money laundering and anti-terrorist financing regime remains world class and that the Financial Transactions Reports Analysis Centre of Canada and other government agencies continue to operate effectively and efficiently in this important area.
 
 Engaging the International Community
 

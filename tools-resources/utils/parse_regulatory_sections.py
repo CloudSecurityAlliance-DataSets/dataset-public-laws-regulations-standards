@@ -32,18 +32,24 @@ HEADING_RE = re.compile(r"^(#+)\s+(.+?)\s*$", re.MULTILINE)
 ID_PATTERNS = [
     # SB-53 style: "22757.10. Short Title" or "22757.10 Short Title"
     (re.compile(r"^(\d{4,5}\.\d+(?:\.\d+)?)\.?\s+(.+)$"), "statute"),
-    # SECTION 1 / SECTION 2: "SECTION 1. Legislative Findings and Declarations"
-    (re.compile(r"^(SECTION\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
-    # Pillar I / Pillar 1 / Pillar One: "Pillar I: AI Use Restrictions ..."
-    (re.compile(r"^(Pillar\s+(?:[IVX]+|\d+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
-    # Part I / Part 1 / Part One: "Part I: ..."
-    (re.compile(r"^(Part\s+(?:[IVX]+|\d+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
+    # SECTION 1 / SECTION 2 / Section (1): "SECTION 1. Legislative Findings and Declarations"
+    (re.compile(r"^(SECTION\s+(?:\d+(?:\.\d+)*|\(\d+\)|\([ivxlcdm]+\)|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    # Pillar I / Pillar 1 / Pillar (i) / Pillar One: "Pillar I: AI Use Restrictions ..."
+    (re.compile(r"^(Pillar\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
+    # Part I / Part 1 / Part (1) / Part One: "Part I: ..."
+    (re.compile(r"^(Part\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
     # CHAPTER 25.1 / Chapter 1 / Chapter One: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^(CHAPTER\s+(?:\d+(?:\.\d+)?|[IVX]+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
-    # Strategic Objective 1.1 / Objective 1.1
-    (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
-    # Annex / Appendix A / Annex 1
-    (re.compile(r"^((?:Annex|Appendix)\s+(?:[A-Z]|\d+|[IVX]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
+    (re.compile(r"^(CHAPTER\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
+    # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1
+    (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
+    # Initiative 1.1.1: Title
+    (re.compile(r"^(Initiative\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
+    # Goal 1 / Priority 1 / Principle 1 / Recommendation 1 / Finding 1: Title
+    (re.compile(r"^((?:Goal|Priority|Principle|Recommendation|Finding)\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
+    # Annex / Appendix / Schedule A / 1 / I: Title
+    (re.compile(r"^((?:Annex|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
+    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.")
+    (re.compile(r"^((?:Pillar|Part|Chapter|Section|Annex|Appendix|Schedule|Principle|Goal|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision"
     (re.compile(r"^([IVX]+)\.\s+(.+)$"), "roman"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
@@ -68,16 +74,25 @@ def parse_heading(text: str):
     for pat, kind in ID_PATTERNS:
         m = pat.match(cleaned)
         if m:
-            return m.group(1), m.group(2).strip(), kind
+            if m.lastindex and m.lastindex >= 2:
+                return m.group(1).rstrip("."), m.group(2).strip(), kind
+            return m.group(1).rstrip("."), m.group(1).rstrip("."), kind
     return "", cleaned, ""
 
 
-def derive_parent_id(section_id: str) -> str:
+def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> str:
     """For numeric ids like '1.2.3' or '22757.10', return the parent ('1.2',
-    '22757'). For non-numeric ids return empty."""
+    '22757'). For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
+    'Implementation X.Y' if present)."""
     parts = section_id.split(".")
     if len(parts) > 1 and all(re.match(r"^\d+$", p) for p in parts):
         return ".".join(parts[:-1])
+    m = re.match(r"^Initiative\s+(\d+\.\d+)\.\d+$", section_id, re.IGNORECASE)
+    if m:
+        xy = m.group(1)
+        if existing_ids and f"Implementation {xy}" in existing_ids:
+            return f"Implementation {xy}"
+        return f"Strategic Objective {xy}"
     return ""
 
 
@@ -110,9 +125,12 @@ def main():
 
     headings = list(HEADING_RE.finditer(md))
     rows = []
+    seen_ids: set[str] = set()
     for i, m in enumerate(headings):
         depth = len(m.group(1))
         section_id, section_name, id_kind = parse_heading(m.group(2))
+        if section_id:
+            seen_ids.add(section_id)
         body_start = m.end()
         body_end = headings[i + 1].start() if i + 1 < len(headings) else len(md)
         body = normalize_body(md[body_start:body_end])
@@ -121,7 +139,7 @@ def main():
             "section_id": section_id,
             "section_name": section_name,
             "id_kind": id_kind,
-            "parent_id": derive_parent_id(section_id) if section_id else "",
+            "parent_id": derive_parent_id(section_id, seen_ids) if section_id else "",
             "body": body,
         })
 

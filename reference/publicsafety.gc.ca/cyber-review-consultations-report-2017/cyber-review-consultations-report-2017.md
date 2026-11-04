@@ -1,6 +1,6 @@
 # Cyber Review Consultations Report
 
-[Cyber Review Consultations Report PDF Version (711 Kb)](2017-cybr-rvw-cnslttns-rprt-en.pdf)
+[Cyber Review Consultations Report PDF Version (711 Kb)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2017-cybr-rvw-cnslttns-rprt/2017-cybr-rvw-cnslttns-rprt-en.pdf)
 
 ##### Table of contents
 

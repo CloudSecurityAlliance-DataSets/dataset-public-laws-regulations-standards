@@ -5,7 +5,7 @@
     "section_name": "National Cyber Strategy 2022: Pioneering a Cyber Future with the Whole of the UK",
     "id_kind": "",
     "parent_id": "",
-    "body": "- [Cabinet Office](/government/organisations/cabinet-office)\n\nPolicy paper"
+    "body": "- [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office)\n\nPolicy paper"
   },
   {
     "depth": 1,
@@ -377,9 +377,9 @@
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "Objective 2a: Preserve a robust and resilient national Crypt-Key enterprise which meets the needs of HMG customers, our partners and allies, and has appropriately mitigated our most significant risks including the threat from our most capable of adversaries",
-    "id_kind": "",
+    "section_id": "Objective 2a",
+    "section_name": "Preserve a robust and resilient national Crypt-Key enterprise which meets the needs of HMG customers, our partners and allies, and has appropriately mitigated our most significant risks including the threat from our most capable of adversaries",
+    "id_kind": "objective",
     "parent_id": "",
     "body": "Crypt-Key is the term used to describe the UK’s use of cryptography to protect the critical information and services on which the UK government, military and national security community rely, including from attack by our most capable adversaries. It underpins our ability to choose how we deploy our national security and defence capabilities. To be a world-leading Crypt-Key nation we need the right skills and technologies both in government and in the private sector.\n\nWe will continue to invest in our capabilities in government and work with our domestic Crypt-Key industry to ensure the UK remains one of a handful of nations able to develop sovereign Crypt-Key into the future. We will also continue to provide global leadership in Crypt-Key, including supporting NATO as a supplier of key material. This leadership will bring second order benefits in sustaining a highly skilled industry in the UK and preserving our strength in highly resilient engineering, with the potential to enable new robust capabilities for other high assurance contexts such as critical national infrastructure. **We will achieve the following outcomes by 2025:**\n\n**A more resilient and secure UK Crypt-Key enterprise with a more sustainable, world-leading industrial base**, supplying the full range of solutions that the UK needs and exporting to chosen partners and allies. We will combine the capabilities and expertise of government and industry more effectively, and take a more rigorous, national approach to managing the enterprise. This will ensure that we grow the distinct, specialist skills that we need.\n\n**The UK has stronger Crypt-Key capabilities and services in government**, able to meet the evolving needs of the UK and our allies and ensuring we remain at the forefront of Crypt-Key development. We will provide strong technical leadership to understand user requirements and improve our core services, including provision of key material and assurance of products and systems. We will also transform Crypt-Key services, harnessing new technologies so that they become more flexible and invisible.\n\n**The UK has advanced its global leadership in Crypt-Key and increased exports to our partners and allies**. We will maintain our leadership role in the Five Eyes, NATO and other international partnerships and shape the development of internationally recognised standards to enable UK Crypt-Key solutions to be interoperable. And we will work with the industry to maximise export opportunities."
   },
@@ -549,7 +549,7 @@
     "section_name": "Next steps",
     "id_kind": "",
     "parent_id": "",
-    "body": "This strategy is intended as a guide for action, not only for those in government who have responsibility for cyber and the wide range of other related policies (see Annex A) but also for every person and organisation across the whole of our society with an interest in and responsibility for our national cyber effort. It is also the beginning of a conversation that we want to continue, to ensure our objectives and priorities remain relevant over the next five to ten years. We will use the publication of this strategy as a platform for further engagement with the public, private and third sectors across the UK and invite direct feedback to <ukcyberstrategy@cabinetoffice.gov.uk>. We will report back annually on the progress we are making to implement this strategy."
+    "body": "This strategy is intended as a guide for action, not only for those in government who have responsibility for cyber and the wide range of other related policies (see Annex A) but also for every person and organisation across the whole of our society with an interest in and responsibility for our national cyber effort. It is also the beginning of a conversation that we want to continue, to ensure our objectives and priorities remain relevant over the next five to ten years. We will use the publication of this strategy as a platform for further engagement with the public, private and third sectors across the UK and invite direct feedback to [ukcyberstrategy@cabinetoffice.gov.uk](https://www.gov.uk/government/publications/national-cyber-strategy-2022/ukcyberstrategy@cabinetoffice.gov.uk). We will report back annually on the progress we are making to implement this strategy."
   },
   {
     "depth": 2,

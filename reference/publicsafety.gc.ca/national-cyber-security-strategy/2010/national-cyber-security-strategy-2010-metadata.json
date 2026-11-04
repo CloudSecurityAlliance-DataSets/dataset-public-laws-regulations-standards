@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/publicsafety.gc.ca/national-cyber-security-strategy@2018",
-    "retiredFromActiveUse": "2010-10-03",
+    "retiredFromActiveUse": "2018-06-12",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (38,166 chars) and parsed 26 sections (0 with explicit section identifiers)."
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (38,239 chars) and parsed 26 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

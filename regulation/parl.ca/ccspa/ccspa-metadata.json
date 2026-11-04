@@ -24,11 +24,11 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.parl.ca/legisinfo/en/bill/45-1/c-8",
-    "textUsed": "https://www.parl.ca/legisinfo/en/bill/45-1/c-8",
+    "textUsed": "https://www.parl.ca/Content/Bills/451/Government/C-8/C-8_4/C-8_E.xml",
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2026-03-26",
+    "published": "2026-06-15",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -37,19 +37,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/451/Government/C-8/C-8_4/C-8_E.xml) as ccspa.xml and extracted 51 statutory sections into ccspa.md, ccspa-sections.csv, and ccspa-sections.json."
+    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/451/Government/C-8/C-8_4/C-8_E.xml) as ccspa.xml and extracted 207 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into ccspa.md, ccspa-sections.csv, and ccspa-sections.json."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)"
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
     }
   ],
   "scope": {},

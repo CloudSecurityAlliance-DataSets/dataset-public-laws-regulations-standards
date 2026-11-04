@@ -8,7 +8,7 @@ Information identified as archived is provided for reference, research or record
 
 [This page has been archived on the Web.](#archived)
 
-[Canada's Cyber Security Strategy PDF Version (331 KB)](archive-cbr-scrt-strtgy-eng.pdf)
+[Canada's Cyber Security Strategy PDF Version (331 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-cbr-scrt-strtgy/archive-cbr-scrt-strtgy-eng.pdf)
 
 ISBN: 978-1-100-16934-7
 

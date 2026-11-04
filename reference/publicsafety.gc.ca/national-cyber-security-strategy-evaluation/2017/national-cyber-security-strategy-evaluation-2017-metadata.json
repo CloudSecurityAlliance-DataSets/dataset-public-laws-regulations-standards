@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/publicsafety.gc.ca/national-cyber-security-strategy-evaluation@2022",
-    "retiredFromActiveUse": "2017-09-29",
+    "retiredFromActiveUse": "2022-05-19",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (97,263 chars) and parsed 37 sections (24 with explicit section identifiers)."
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (97,332 chars) and parsed 37 sections (24 with explicit section identifiers)."
   },
   "extraction_history": [
     {

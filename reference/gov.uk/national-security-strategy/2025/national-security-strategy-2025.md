@@ -1,6 +1,6 @@
 # National Security Strategy 2025: Security for the British People in a Dangerous World
 
-- [Cabinet Office](/government/organisations/cabinet-office)
+- [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office)
 
 Policy paper
 

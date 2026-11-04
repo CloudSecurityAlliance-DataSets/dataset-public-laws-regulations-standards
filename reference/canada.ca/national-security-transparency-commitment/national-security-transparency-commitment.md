@@ -5,14 +5,14 @@
 - [About the National Security Transparency Commitment](#s1)
 - [The Six Principles of National Security Transparency](#s2)
 - [Transparency at Departments and Agencies](#s3)
-- [The National Security Transparency Advisory Group (NS-TAG)](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html)
-  - [About](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s1)
-  - [Mandate](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2)
-  - [Advice to the Deputy Minister of Public Safety Canada](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2a)
-  - [Meetings and Accountability](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s3)
-  - [Meeting Summaries](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s4)
-  - [Membership](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s5)
-  - [Current NS-TAG Members](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s6)
+- [The National Security Transparency Advisory Group (NS-TAG)](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html)
+  - [About](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s1)
+  - [Mandate](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2)
+  - [Advice to the Deputy Minister of Public Safety Canada](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s2a)
+  - [Meetings and Accountability](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s3)
+  - [Meeting Summaries](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s4)
+  - [Membership](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s5)
+  - [Current NS-TAG Members](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group.html#s6)
 
 ## About the National Security Transparency Commitment
 
@@ -24,20 +24,20 @@ The field of national security presents a unique challenge to this imperative. T
 
 This initiative outlines how the Government is fulfilling its commitment to transparency through the application of six principles, which have been categorized into three different action areas. To read more about the six principles, click on one of the three action areas below.
 
-- [Information transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html): to show what departments and agencies are doing to protect national security.
+- [Information transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html): to show what departments and agencies are doing to protect national security.
 
-- [Principle 1](/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html#a01)
-- [Principle 2](/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html#a02)
+- [Principle 1](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html#a01)
+- [Principle 2](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html#a02)
 
-- [Executive transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html): to explain the legal structure for protecting national security, and how choices are made within that structure.
+- [Executive transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html): to explain the legal structure for protecting national security, and how choices are made within that structure.
 
-- [Principle 3](/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html#a03)
-- [Principle 4](/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html#a04)
+- [Principle 3](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html#a03)
+- [Principle 4](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html#a04)
 
-- [Policy transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html): to engage Canadians in a dialogue about the strategic issues impacting national security.
+- [Policy transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html): to engage Canadians in a dialogue about the strategic issues impacting national security.
 
-- [Principle 5](/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html#a05)
-- [Principle 6](/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html#a06)
+- [Principle 5](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html#a05)
+- [Principle 6](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html#a06)
 
 ## Transparency at Departments and Agencies
 
@@ -62,7 +62,7 @@ The national security and intelligence community is made up of federal departmen
 - [Public Safety Canada](https://www.publicsafety.gc.ca/cnt/trnsprnc/index-en.aspx)
 - [Royal Canadian Mounted Police](https://www.rcmp-grc.gc.ca/en/transparency)
 - [Transport Canada](https://www.tc.gc.ca/en/transport-canada/corporate/transparency.html)
-- [Treasury Board of Canada Secretariat](/en/treasury-board-secretariat/corporate/transparency.html)
+- [Treasury Board of Canada Secretariat](https://www.canada.ca/en/treasury-board-secretariat/corporate/transparency.html)
 
 ***National Security Act*, 2017**
 In 2016, the Government completed public consultations on a range of national security issues including accountability, information sharing, and a review of national security organizations. The [results of the Government’s consultation](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2017-nsc-wwlr/index-en.aspx) demonstrated a demand from the public for more transparency on national security. The responses to these consultations led to the announcement of the National Security Transparency Commitment alongside a number of legislative changes made within the National Security Act, 2017, which will [strengthen security and protect rights](https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/strengthening-security-protecting-rights.html).
@@ -85,10 +85,10 @@ This principle calls on Government institutions to examine their holdings and re
 
 This principle calls on officials to plan for the potential release of information. For example, information should be managed in such a way that it is clear which information is sensitive, and why it is sensitive. Information should only be treated as sensitive when Canada’s interests are at stake—where disclosure could harm national security or our relations—or personal information is included. Information is not to be protected to prevent embarrassment or to conceal inefficiency, errors, or problems.
 
-The Government is also fulfilling its [commitment to transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
+The Government is also fulfilling its [commitment to transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
 
-- [Executive transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html), to explain the legal structure for protecting national security, and how choices are made within that structure
-- [Policy transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html), to engage Canadians in a dialogue about the strategic issues impacting national security
+- [Executive transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html), to explain the legal structure for protecting national security, and how choices are made within that structure
+- [Policy transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html), to engage Canadians in a dialogue about the strategic issues impacting national security
 
 ---
 
@@ -108,10 +108,10 @@ All legislation is subject to Canada’s constitutional documents, such as the *
 
 While the law identifies what the Government may to do to protect national security, it provides the Government with room to choose when to use its authorities. The Government will be transparent with Canadians in how it determines when to use its authorities, and how it does so in a way that is consistent with Canadian values.
 
-The Government is also fulfilling its [commitment to transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
+The Government is also fulfilling its [commitment to transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
 
-- [Information transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html), to show what departments and agencies are doing to protect national security.
-- [Policy transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html), to engage Canadians in a dialogue about the strategic issues impacting national security
+- [Information transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html), to show what departments and agencies are doing to protect national security.
+- [Policy transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/policytransparency.html), to engage Canadians in a dialogue about the strategic issues impacting national security
 
 ---
 
@@ -129,10 +129,10 @@ The global security environment is constantly evolving, and Canada’s own situa
 
 This principle will see Canadians put the information provided through other principles to use. Before moving forward with substantive policy proposals, such as changes to what national security institutions are able to do, the Government will seek Canadians’ input. Exceptions will be made for emergency situations, such as to respond to a crisis, or where the changes are more technical, such as to implement the recommendations of the courts.
 
-The Government is also fulfilling its  [commitment to transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
+The Government is also fulfilling its  [commitment to transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html) through action in two other areas:
 
-- [Information transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html), to show what departments and agencies are doing to protect national security.
-- [Executive transparency](/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html), to explain the legal structure for protecting national security, and how choices are made within that structure
+- [Information transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/informationtransparency.html), to show what departments and agencies are doing to protect national security.
+- [Executive transparency](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/executivetransparency.html), to explain the legal structure for protecting national security, and how choices are made within that structure
 
 ---
 
@@ -162,7 +162,7 @@ The NS-TAG will accomplish this by advising on how to:
 - Increase public awareness, engagement, and access to national security and related intelligence information;
 - Promote transparency while ensuring the safety and security of Canadians.
 
-Details on the Group's mandate and scope, meetings and membership are included in the [NS-TAG's Terms of Reference](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/terms-reference.html).
+Details on the Group's mandate and scope, meetings and membership are included in the [NS-TAG's Terms of Reference](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/terms-reference.html).
 
 ## Advice to the Deputy Minister of Public Safety Canada
 
@@ -187,35 +187,35 @@ The NS-TAG's advice will be included in meeting summaries, which will be posted 
 
 Following NS-TAG meetings, meeting summaries will be made publicly available here.
 
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) August 22-23, 2019](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2019.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) December 1-2, 2019](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-december-2019.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) February 2-3, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-february-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) June 10, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-june-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) July 10, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-july-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) July 22, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-july-22-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) October 7, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-october-7-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) November 4, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-november-4-2020.html)
-- [Summary Report of the Special Meeting of the National Security Transparency Advisory Group (NS-TAG) December 14, 2020](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-december-14-2020.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) January 20, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-january-20-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) February 17, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-february-17-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) March 17, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-march-17-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) April 21, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-april-21-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) May 12, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-may-12-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) June 9, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-june-09-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) August 30, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – September 29, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-september-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) October 27, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-meeting-october-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – November 10, 2021](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-nov-10-2021.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – January 26, 2022](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-january-2022.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – February 23, 2022](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-feb-23-2022.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – March 30, 2022](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-mar-30-2022.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – August 31, 2022](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2022.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – October 23-24, 2022](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-october-23-24-2022.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – January 19, 2023](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-january-19-2023.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – March 10, 2023](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-march-10-2023.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – April 4, 2023](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-april-4-2023.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – May 26-27, 2023](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-may-26-2023.html)
-- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – December 6-7, 2024](/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-december-6-7-2024.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) August 22-23, 2019](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2019.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) December 1-2, 2019](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-december-2019.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) February 2-3, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-february-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) June 10, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-june-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) July 10, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-july-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) July 22, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-july-22-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) October 7, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-october-7-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) November 4, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-november-4-2020.html)
+- [Summary Report of the Special Meeting of the National Security Transparency Advisory Group (NS-TAG) December 14, 2020](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-december-14-2020.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) January 20, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-january-20-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) February 17, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-february-17-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) March 17, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-march-17-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) April 21, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-april-21-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) May 12, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-may-12-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) June 9, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-june-09-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) August 30, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – September 29, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-september-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) October 27, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-meeting-october-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – November 10, 2021](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-nov-10-2021.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – January 26, 2022](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-january-2022.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – February 23, 2022](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-feb-23-2022.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – March 30, 2022](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-mar-30-2022.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – August 31, 2022](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-august-2022.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – October 23-24, 2022](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-october-23-24-2022.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – January 19, 2023](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-january-19-2023.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – March 10, 2023](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-march-10-2023.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – April 4, 2023](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-april-4-2023.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – May 26-27, 2023](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-may-26-2023.html)
+- [Summary Report of the Meeting of the National Security Transparency Advisory Group (NS-TAG) – December 6-7, 2024](https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment/national-security-transparency-advisory-group/summary-report-meeting-national-security-transparency-advisory-group-december-6-7-2024.html)
 
 ## Membership
 

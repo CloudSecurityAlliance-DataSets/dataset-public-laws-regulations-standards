@@ -111,7 +111,7 @@ Cyber systems increasingly underpin every component of our daily lives. A cyber 
 
 The purpose of this document is to provide a framework for the GC's management of cyber incidents that affect assets that are not owned or operated by the GC and are essential to the health, safety, security, defence, or economic well-being of Canadians.
 
-This document will be both complementary to, and separate from, existing response mechanisms, such as the [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html) (GC CSEMP) and the [Federal Emergency Response Plan](/cnt/rsrcs/pblctns/mrgnc-rspns-pln/index-en.aspx) (FERP)[Footnote 4](#fn4).
+This document will be both complementary to, and separate from, existing response mechanisms, such as the [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html) (GC CSEMP) and the [Federal Emergency Response Plan](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/mrgnc-rspns-pln/index-en.aspx) (FERP)[Footnote 4](#fn4).
 
 ### 2.3 Scope
 

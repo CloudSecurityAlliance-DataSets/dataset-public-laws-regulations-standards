@@ -10,7 +10,7 @@ This Act may be cited as the National Security and Intelligence Committee of Par
 
 #### Section 2: Definitions
 
-The following definitions apply in this Act.appropriate Minister means(a)with respect to a department named in Schedule I to the Financial Administration Act, the Minister presiding over the department;(b)with respect to a division or branch of the federal public administration set out in column I of Schedule I.1 to the Financial Administration Act, the Minister set out in column II of that Schedule;(c)with respect to a corporation named in Schedule II to the Financial Administration Act, the Minister designated as the appropriate Minister by order of the Governor in Council made under that Act;(c.1)with respect to a parent Crown corporation as defined in subsection 83(1) of the Financial Administration Act, the appropriate Minister as defined in that subsection;(d)with respect to the Canadian Forces, the Minister of National Defence; or(e)with respect to the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the Foreign Influence Transparency and Accountability Act, the Minister of Public Safety and Emergency Preparedness. (ministre compétent)Committee means the National Security and Intelligence Committee of Parliamentarians established by section 4. (Comité)department means, except in subsection 25(2), a department named in Schedule I to the Financial Administration Act, a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the Foreign Influence Transparency and Accountability Act. (ministère)review body means(a)the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act; or(b)the National Security and Intelligence Review Agency. (organisme de surveillance)(c)[Repealed, 2019, c. 13, s. 49]Secretariat means the Secretariat of the National Security and Intelligence Committee of Parliamentarians established by subsection 24(1). (Secrétariat)2017, c. 15, s. 22019, c. 13, s. 492019, c. 13, s. 752024, c. 16, s. 115
+The following definitions apply in this Act. appropriate Minister means (a) with respect to a department named in Schedule I to the Financial Administration Act, the Minister presiding over the department; (b) with respect to a division or branch of the federal public administration set out in column I of Schedule I.1 to the Financial Administration Act, the Minister set out in column II of that Schedule; (c) with respect to a corporation named in Schedule II to the Financial Administration Act, the Minister designated as the appropriate Minister by order of the Governor in Council made under that Act; (c.1) with respect to a parent Crown corporation as defined in subsection 83(1) of the Financial Administration Act, the appropriate Minister as defined in that subsection; (d) with respect to the Canadian Forces, the Minister of National Defence; or (e) with respect to the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the Foreign Influence Transparency and Accountability Act, the Minister of Public Safety and Emergency Preparedness. (ministre compétent) Committee means the National Security and Intelligence Committee of Parliamentarians established by section 4. (Comité) department means, except in subsection 25(2), a department named in Schedule I to the Financial Administration Act, a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the Foreign Influence Transparency and Accountability Act. (ministère) review body means (a) the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the Royal Canadian Mounted Police Act; or (b) the National Security and Intelligence Review Agency. (organisme de surveillance) (c) [Repealed, 2019, c. 13, s. 49] Secretariat means the Secretariat of the National Security and Intelligence Committee of Parliamentarians established by subsection 24(1). (Secrétariat) 2017, c. 15, s. 2 2019, c. 13, s. 49 2019, c. 13, s. 75 2024, c. 16, s. 115
 
 ## Designation of Minister
 
@@ -56,7 +56,7 @@ Each member of the Committee is entitled to be paid, in accordance with Treasury
 
 #### Section 8: Review of national security matters
 
-(1) The mandate of the Committee is to review(a)the legislative, regulatory, policy, administrative and financial framework for national security and intelligence;(b)any activity carried out by a department that relates to national security or intelligence, unless the activity is an ongoing operation and the appropriate Minister determines that the review would be injurious to national security; and(c)any matter relating to national security or intelligence that a minister of the Crown refers to the Committee.
+(1) The mandate of the Committee is to review (a) the legislative, regulatory, policy, administrative and financial framework for national security and intelligence; (b) any activity carried out by a department that relates to national security or intelligence, unless the activity is an ongoing operation and the appropriate Minister determines that the review would be injurious to national security; and (c) any matter relating to national security or intelligence that a minister of the Crown refers to the Committee.
 
 [Review injurious to national security] (2) If the appropriate Minister determines that a review would be injurious to national security, he or she must inform the Committee of his or her determination and the reasons for it.
 
@@ -70,7 +70,7 @@ The Committee and each review body are to take all reasonable steps to cooperate
 
 #### Section 10: Compliance with security requirements
 
-Each member of the Committee must(a)obtain and maintain the necessary security clearance from the Government of Canada;(b)take the oath or solemn affirmation set out in the schedule; and(c)comply with the procedures and practices set out in the regulations.
+Each member of the Committee must (a) obtain and maintain the necessary security clearance from the Government of Canada; (b) take the oath or solemn affirmation set out in the schedule; and (c) comply with the procedures and practices set out in the regulations.
 
 #### Section 11: Disclosure prohibited
 
@@ -98,7 +98,7 @@ Each member of the Committee must(a)obtain and maintain the necessary security c
 
 #### Section 14: Exceptions
 
-The Committee is not entitled to have access to any of the following information:(a)a confidence of the Queen’s Privy Council for Canada, as defined in subsection 39(2) of the Canada Evidence Act;(b)information the disclosure of which is described in subsection 11(1) of the Witness Protection Program Act;(c)the identity of a person who was, is or is intended to be, has been approached to be, or has offered or agreed to be, a confidential source of information, intelligence or assistance to the Government of Canada, or the government of a province or of any state allied with Canada, or information from which the person’s identity could be inferred;(d)information relating directly to an ongoing investigation carried out by a law enforcement agency that may lead to a prosecution.
+The Committee is not entitled to have access to any of the following information: (a) a confidence of the Queen’s Privy Council for Canada, as defined in subsection 39(2) of the Canada Evidence Act; (b) information the disclosure of which is described in subsection 11(1) of the Witness Protection Program Act; (c) the identity of a person who was, is or is intended to be, has been approached to be, or has offered or agreed to be, a confidential source of information, intelligence or assistance to the Government of Canada, or the government of a province or of any state allied with Canada, or information from which the person’s identity could be inferred; (d) information relating directly to an ongoing investigation carried out by a law enforcement agency that may lead to a prosecution.
 
 #### Section 15: Request for information
 
@@ -116,7 +116,7 @@ The Committee is not entitled to have access to any of the following information
 
 #### Section 16: Refusal of information
 
-(1) The appropriate Minister for a department may refuse to provide information to which the Committee would, but for this section, otherwise be entitled to have access and that is under the control of that department, but only if he or she is of the opinion that(a)the information constitutes special operational information, as defined in subsection 8(1) of the Foreign Interference and Security of Information Act; and(b)provision of the information would be injurious to national security.
+(1) The appropriate Minister for a department may refuse to provide information to which the Committee would, but for this section, otherwise be entitled to have access and that is under the control of that department, but only if he or she is of the opinion that (a) the information constitutes special operational information, as defined in subsection 8(1) of the Foreign Interference and Security of Information Act; and (b) provision of the information would be injurious to national security.
 
 [Reasons] (2) If the appropriate Minister refuses to provide information under subsection (1), he or she must inform the Committee of his or her decision and the reasons for the decision.
 
@@ -144,7 +144,7 @@ Subject to the provisions of this Act and the regulations, the Committee may det
 
 #### Section 21: Annual report
 
-(1) Each year the Committee must submit to the Prime Minister a report of the reviews it conducted during the preceding year. The report must contain(a)the Committee’s findings;(b)its recommendations, if any;(c)any summary referred to in subsection (3); and(d)the number of times in the preceding year that an appropriate Minister(i)determined that a review referred to in paragraph 8(1)(b) would be injurious to national security, and(ii)decided to refuse to provide information under subsection 16(1).
+(1) Each year the Committee must submit to the Prime Minister a report of the reviews it conducted during the preceding year. The report must contain (a) the Committee’s findings; (b) its recommendations, if any; (c) any summary referred to in subsection (3); and (d) the number of times in the preceding year that an appropriate Minister (i) determined that a review referred to in paragraph 8(1)(b) would be injurious to national security, and (ii) decided to refuse to provide information under subsection 16(1).
 
 [Special report] (2) If, in the Committee’s opinion, a special report on any matter related to its mandate is necessary, it may, at any time, submit such a report to the Prime Minister and the minister concerned.
 
@@ -158,7 +158,7 @@ Subject to the provisions of this Act and the regulations, the Committee may det
 
 [Tabling] (6) Subject to subsection (4), the Prime Minister must cause to be laid before each House of Parliament, on any of the first 30 days on which that House is sitting after a report is submitted under subsection (1) or (2), a copy of the report or, if the Committee was directed to submit a revised version, a copy of the revised version.
 
-[Referral] (7) After it is tabled, the annual or special report stands referred to(a)the Standing Committee on National Security and Defence of the Senate or, if there is not a Standing Committee on National Security and Defence, the appropriate committee of the Senate, as determined by its rules; and(b)the Standing Committee on Public Safety and National Security of the House of Commons or, if there is not a Standing Committee on Public Safety and National Security, the appropriate committee of the House of Commons, as determined by its rules.
+[Referral] (7) After it is tabled, the annual or special report stands referred to (a) the Standing Committee on National Security and Defence of the Senate or, if there is not a Standing Committee on National Security and Defence, the appropriate committee of the Senate, as determined by its rules; and (b) the Standing Committee on Public Safety and National Security of the House of Commons or, if there is not a Standing Committee on Public Safety and National Security, the appropriate committee of the House of Commons, as determined by its rules.
 
 ## Review Bodies
 
@@ -166,11 +166,11 @@ Subject to the provisions of this Act and the regulations, the Committee may det
 
 (1) Despite any provision of any other Act of Parliament — including section 45.47 of the Royal Canadian Mounted Police Act — but subject to subsection (2), a review body may provide to the Committee information that is under its control and that is related to the fulfilment of the Committee’s mandate.
 
-[Exceptions] (2) The review body must not provide to the Committee(a)information that is referred to in section 14; or(b)information that is the subject of a decision that has been provided to the review body under subsection 16(3).
+[Exceptions] (2) The review body must not provide to the Committee (a) information that is referred to in section 14; or (b) information that is the subject of a decision that has been provided to the review body under subsection 16(3).
 
 #### Section 23: Provision of information to review bodies
 
-The Committee may provide,(a)to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police and that is related to the fulfilment of that review body’s mandate; or(b)to the National Security and Intelligence Review Agency, information that is related to the fulfilment of that review body’s mandate under paragraphs 8(1)(a) to (c) of the National Security and Intelligence Review Agency Act.(c)[Repealed, 2019, c. 13, s. 49]2017, c. 15, s. 232019, c. 13, s. 49
+The Committee may provide, (a) to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police and that is related to the fulfilment of that review body’s mandate; or (b) to the National Security and Intelligence Review Agency, information that is related to the fulfilment of that review body’s mandate under paragraphs 8(1)(a) to (c) of the National Security and Intelligence Review Agency Act. (c) [Repealed, 2019, c. 13, s. 49] 2017, c. 15, s. 23 2019, c. 13, s. 49
 
 ## Secretariat
 
@@ -228,7 +228,7 @@ Subject to the regulations, a person is entitled to be paid reasonable travel an
 
 #### Section 33: Regulations
 
-The Governor in Council may make regulations(a)respecting the procedures and practices for the secure handling, storage, transportation, transmission and destruction of information or documents provided to or created by the Committee;(b)respecting the procedure to be followed by the Committee in the exercise of any of its powers or the performance of any of its duties or functions;(c)respecting the expenses referred to in section 32; and(d)generally for carrying out the purposes and provisions of this Act.
+The Governor in Council may make regulations (a) respecting the procedures and practices for the secure handling, storage, transportation, transmission and destruction of information or documents provided to or created by the Committee; (b) respecting the procedure to be followed by the Committee in the exercise of any of its powers or the performance of any of its duties or functions; (c) respecting the expenses referred to in section 32; and (d) generally for carrying out the purposes and provisions of this Act.
 
 #### Section 34: Review of Act after five years
 
@@ -310,4 +310,38 @@ Five years after the day on which this Act comes into force, a comprehensive rev
 
 #### Section *49: Order in council
 
-This Act comes into force on a day to be fixed by order of the Governor in Council.*[Note: Act in force October 6, 2017, see SI/2017-63.]
+This Act comes into force on a day to be fixed by order of the Governor in Council. * [Note: Act in force October 6, 2017, see SI/2017-63.]
+
+## SCHEDULE: Oath or Solemn Affirmation (Paragraph 10(b))
+
+I, ... , swear (solemnly affirm) that I will be faithful and bear true loyalty to Canada and to its people, whose democratic beliefs I share, whose rights and freedoms I respect and whose laws I will uphold and obey. I further swear (solemnly affirm) that I will, to the best of my ability, discharge my responsibilities as a member of the National Security and Intelligence Committee of Parliamentarians and will not communicate or use without due authority any information obtained in confidence by me in that capacity.
+
+## AMENDMENTS NOT IN FORCE
+
+### — 2024, c. 25, s. 132
+
+#### Section AMENDMENTS_NOT_IN_FORCE:132
+
+Paragraph (a) of the definition review body in section 2 of the National Security and Intelligence Committee of Parliamentarians Act is replaced by the following: (a) the Public Complaints and Review Commission established by subsection 3(1) of the Public Complaints and Review Commission Act; or
+
+### — 2024, c. 25, s. 133
+
+#### Section AMENDMENTS_NOT_IN_FORCE:133
+
+Subsection 16(3) of the Act is replaced by the following: Review bodies informed of decision (3) The appropriate Minister must provide the decision and reasons to the National Security and Intelligence Review Agency and, in the case of information under the control of the Royal Canadian Mounted Police or the Canada Border Services Agency, to the Public Complaints and Review Commission.
+
+### — 2024, c. 25, s. 134
+
+#### Section AMENDMENTS_NOT_IN_FORCE:134
+
+Subsection 22(1) of the Act is replaced by the following:
+
+#### Section AMENDMENTS_NOT_IN_FORCE.s134:22: Provision of information to Committee
+
+(1) Despite any provision of any other Act of Parliament — including section 25 of the Public Complaints and Review Commission Act — but subject to subsection (2), a review body may provide to the Committee information that is under its control and that is related to the fulfilment of the Committee’s mandate.
+
+### — 2024, c. 25, s. 135
+
+#### Section AMENDMENTS_NOT_IN_FORCE:135
+
+Paragraph 23(a) of the Act is replaced by the following: (a) to the Public Complaints and Review Commission, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police or the Canada Border Services Agency and that is related to the fulfilment of that Commission’s mandate; or

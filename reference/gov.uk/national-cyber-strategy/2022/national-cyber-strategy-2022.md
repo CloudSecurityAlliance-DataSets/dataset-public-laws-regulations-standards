@@ -1,6 +1,6 @@
 # National Cyber Strategy 2022: Pioneering a Cyber Future with the Whole of the UK
 
-- [Cabinet Office](/government/organisations/cabinet-office)
+- [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office)
 
 Policy paper
 
@@ -1013,7 +1013,7 @@ This performance framework will:
 
 #### Next steps
 
-This strategy is intended as a guide for action, not only for those in government who have responsibility for cyber and the wide range of other related policies (see Annex A) but also for every person and organisation across the whole of our society with an interest in and responsibility for our national cyber effort. It is also the beginning of a conversation that we want to continue, to ensure our objectives and priorities remain relevant over the next five to ten years. We will use the publication of this strategy as a platform for further engagement with the public, private and third sectors across the UK and invite direct feedback to <ukcyberstrategy@cabinetoffice.gov.uk>. We will report back annually on the progress we are making to implement this strategy.
+This strategy is intended as a guide for action, not only for those in government who have responsibility for cyber and the wide range of other related policies (see Annex A) but also for every person and organisation across the whole of our society with an interest in and responsibility for our national cyber effort. It is also the beginning of a conversation that we want to continue, to ensure our objectives and priorities remain relevant over the next five to ten years. We will use the publication of this strategy as a platform for further engagement with the public, private and third sectors across the UK and invite direct feedback to [ukcyberstrategy@cabinetoffice.gov.uk](https://www.gov.uk/government/publications/national-cyber-strategy-2022/ukcyberstrategy@cabinetoffice.gov.uk). We will report back annually on the progress we are making to implement this strategy.
 
 ## Annex A: Cyber as part of the government’s wider agenda
 

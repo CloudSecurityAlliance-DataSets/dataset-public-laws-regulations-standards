@@ -1,6 +1,6 @@
 # Renewing Canada's Approach to Critical Infrastructure Resilience: What We Heard Report
 
-[Renewing Canada's Approach to Critical Infrastructure Resilience: What We Heard Report PDF Version (359 KB)](rnwng-cnd-pprch-crtcl-nfrstrctr-rslnc-2022-en.pdf)
+[Renewing Canada's Approach to Critical Infrastructure Resilience: What We Heard Report PDF Version (359 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rnwng-cnd-pprch-crtcl-nfrstrctr-rslnc-2022/rnwng-cnd-pprch-crtcl-nfrstrctr-rslnc-2022-en.pdf)
 
 ## Table of contents
 
@@ -55,9 +55,9 @@ Given the increasingly complex landscape of emerging threats and the interdepend
 
 ## Context
 
-Canada's [National Strategy for Critical Infrastructure](/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx) (National Strategy) was published in 2009, and was endorsed by Federal, Provincial and Territorial Ministers responsible for emergency management. The purpose of the National Strategy is to strengthen the resiliency of critical infrastructure (CI) in Canada. It establishes a framework for cooperation in which governments and owners and operators can work together to prevent, mitigate, prepare for, respond to, and recover from CI disruptions and thereby safeguard the foundations of our country and way of life.
+Canada's [National Strategy for Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-en.aspx) (National Strategy) was published in 2009, and was endorsed by Federal, Provincial and Territorial Ministers responsible for emergency management. The purpose of the National Strategy is to strengthen the resiliency of critical infrastructure (CI) in Canada. It establishes a framework for cooperation in which governments and owners and operators can work together to prevent, mitigate, prepare for, respond to, and recover from CI disruptions and thereby safeguard the foundations of our country and way of life.
 
-As part of a commitment set out in the [National Cross Sector Forum 2018-2020 Action Plan for Critical Infrastructure](/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx), Public Safety Canada (PS) undertook an examination of the National Strategy. This examination found the strategy was outdated and should be renewed in collaboration with the private sector, provinces and territories, federal partners, and other stakeholders.
+As part of a commitment set out in the [National Cross Sector Forum 2018-2020 Action Plan for Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/index-en.aspx), Public Safety Canada (PS) undertook an examination of the National Strategy. This examination found the strategy was outdated and should be renewed in collaboration with the private sector, provinces and territories, federal partners, and other stakeholders.
 
 The National Strategy renewal is an opportunity to shed light on what is going well, what needs to be improved, and what our vision for the future of CI resilience should be.
 

@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted and stitched all 15 official HTML chapters of Our North, Strong and Free (2024) from canada.ca (133,745 chars) and parsed 47 sections (8 with ID)."
+    "notes": "Extracted and stitched all 15 official HTML chapter pages linked from https://www.canada.ca/en/department-national-defence/corporate/reports-publications/north-strong-free-2024.html (https://www.canada.ca/en/department-national-defence/corporate/reports-publications/north-strong-free-2024/<chapter>.html, 133,850 chars) and parsed 47 sections (8 with ID)."
   },
   "extraction_history": [
     {

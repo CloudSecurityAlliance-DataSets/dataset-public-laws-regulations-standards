@@ -2,7 +2,7 @@
 
 ## Budget 2018 Investments
 
-[National Cyber Security Action Plan (2019-2024) PDF Version (530 KB)](ntnl-cbr-scrt-strtg-2019-en.pdf)
+[National Cyber Security Action Plan (2019-2024) PDF Version (530 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg-2019/ntnl-cbr-scrt-strtg-2019-en.pdf)
 
 ##### Table of contents
 

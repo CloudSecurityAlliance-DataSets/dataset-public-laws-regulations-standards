@@ -1,6 +1,6 @@
 # Integrated Review Refresh 2023: Responding to a More Contested and Volatile World
 
-- [Cabinet Office](/government/organisations/cabinet-office)
+- [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office)
 
 Policy paper
 

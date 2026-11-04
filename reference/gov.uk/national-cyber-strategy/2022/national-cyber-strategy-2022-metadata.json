@@ -24,7 +24,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.uk/government/publications/national-cyber-strategy-2022",
-    "textUsed": "https://www.gov.uk/government/publications/national-cyber-strategy-2022",
+    "textUsed": "https://www.gov.uk/government/publications/national-cyber-strategy-2022/national-cyber-security-strategy-2022",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/national-cyber-strategy-2022/national-cyber-security-strategy-2022) to Markdown (223,650 chars) and parsed 83 sections (26 with ID)."
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/national-cyber-strategy-2022/national-cyber-security-strategy-2022) to Markdown (223,778 chars) and parsed 83 sections (27 with ID)."
   },
   "extraction_history": [
     {

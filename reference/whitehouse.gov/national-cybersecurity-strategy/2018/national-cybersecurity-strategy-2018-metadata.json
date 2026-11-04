@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/whitehouse.gov/national-cybersecurity-strategy@2023",
-    "retiredFromActiveUse": "2018-09-20",
+    "retiredFromActiveUse": "2023-03-02",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 40-page official White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf) to Markdown (61,213 chars) and parsed 49 sections (3 with ID)."
+    "notes": "Extracted 40-page born-digital White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf) locally via column-aware PyMuPDF layout analysis (61,078 chars) and parsed 45 sections (4 with ID)."
   },
   "extraction_history": [
     {

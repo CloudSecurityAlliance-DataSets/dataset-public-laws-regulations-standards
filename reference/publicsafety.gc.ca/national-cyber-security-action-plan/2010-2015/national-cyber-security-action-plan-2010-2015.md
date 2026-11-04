@@ -1,6 +1,6 @@
 # Action Plan 2010-2015 for Canada's Cyber Security Strategy
 
-[Action Plan 2010-2015 for Canada's Cyber Security Strategy PDF Version (236 KB)](ctn-pln-cbr-scrt-eng.pdf)
+[Action Plan 2010-2015 for Canada's Cyber Security Strategy PDF Version (236 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/ctn-pln-cbr-scrt-eng.pdf)
 
 ISBN: 978-1-100-21895-3
 

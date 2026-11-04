@@ -2,7 +2,7 @@
 
 **This Green Paper is intended to prompt discussion and debate about Canada's national security framework, which will inform policy changes that will be made following the consultation process.**
 
-[Our Security, Our Rights: National Security Green Paper, 2016 PDF Version (1.7 MB)](ntnl-scrt-grn-ppr-2016-en.pdf)
+[Our Security, Our Rights: National Security Green Paper, 2016 PDF Version (1.7 MB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-scrt-grn-ppr-2016/ntnl-scrt-grn-ppr-2016-en.pdf)
 
 ## Message from the Ministers
 

@@ -1,6 +1,6 @@
 # National Cross Sector Forum 2021-2023 Action Plan for Critical Infrastructure
 
-[National Cross Sector Forum 2021-2023 Action Plan for Critical Infrastructure PDF Version (821 KB)](2021-ctn-pln-crtcl-nfrstrctr-en.pdf)
+[National Cross Sector Forum 2021-2023 Action Plan for Critical Infrastructure PDF Version (821 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2021-ctn-pln-crtcl-nfrstrctr/2021-ctn-pln-crtcl-nfrstrctr-en.pdf)
 
 ## Introduction
 

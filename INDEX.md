@@ -7,7 +7,7 @@ Per-doc state glyphs (left to right):
 - **M** = `<name>-<version>-metadata.json` present (with `secid` field)
 - **X** = markdown extraction (`<name>-<version>.md`)
 - **J** = marker JSON block tree (`<name>-<version>.json` alongside markdown)
-- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories}.csv`)
+- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories,sections}.csv`)
 - **S** = structured JSON (matching CSV pattern)
 - **P** = reproducibility parser script (`parse_*.py` / `extract_*.py` / `build_*.py`)
 - **I** = page images (jpeg/png from marker)

@@ -8,7 +8,7 @@ Information identified as archived is provided for reference, research or record
 
 [This page has been archived on the Web.](#archived)
 
-[PDF Version (293 KB)](pln-crtcl-nfrstrctr-2018-20-en.pdf)
+[PDF Version (293 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2018-20/pln-crtcl-nfrstrctr-2018-20-en.pdf)
 
 ##### Table of contents
 
@@ -409,14 +409,14 @@ This chart outlines the National Cross-Sector Forum membership, which includes r
 
 The following websites contain useful information relating to the resilience of Canada’s critical infrastructure:
 
-- [National Strategy for Critical Infrastructure](/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
-- [Public Safety Canada/Critical Infrastructure](/cnt/ntnl-scrt/crtcl-nfrstrctr/index-eng.aspx)
+- [National Strategy for Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
+- [Public Safety Canada/Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/crtcl-nfrstrctr/index-eng.aspx)
 - [Canadian Critical Infrastructure Information Gateway](http://cigateway.ps.gc.ca) (CI Gateway)
 - [Royal Canadian Mounted Police](http://www.rcmp.gc.ca/en) (RCMP)
 - [Canadian Security Intelligence Service](https://csis.gc.ca/index-en.php) (CSIS)
-- [Canadian Cyber Incident Response Centre](/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx) (CCIRC)
-- [Canada’s Cyber Security Strategy](/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx)
-- [Building Resilience Against Terrorism: Canada’s Counter-terrorism Strategy](/cnt/ntnl-scrt/cntr-trrrsm/cntr-trrrsm-strtg-eng.aspx)
-- [The Canadian Disaster Database](/cnt/rsrcs/cndn-dsstr-dtbs/index-en.aspx)
-- [Cyber Review Consultations Report](/cnt/rsrcs/pblctns/2017-cybr-rvw-cnslttns-rprt/index-en.aspx)
+- [Canadian Cyber Incident Response Centre](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx) (CCIRC)
+- [Canada’s Cyber Security Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx)
+- [Building Resilience Against Terrorism: Canada’s Counter-terrorism Strategy](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/cntr-trrrsm-strtg-eng.aspx)
+- [The Canadian Disaster Database](https://www.publicsafety.gc.ca/cnt/rsrcs/cndn-dsstr-dtbs/index-en.aspx)
+- [Cyber Review Consultations Report](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2017-cybr-rvw-cnslttns-rprt/index-en.aspx)
 - [Canadian Cyber Threat Exchange](https://cctx.ca/) (CCTX)

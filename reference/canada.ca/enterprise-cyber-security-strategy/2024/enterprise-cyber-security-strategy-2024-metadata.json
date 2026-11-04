@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Treasury Board Secretariat HTML publication from canada.ca (69,303 chars) and parsed 25 sections (17 with ID)."
+    "notes": "Extracted official Treasury Board Secretariat HTML publication from canada.ca (68,504 chars) and parsed 25 sections (17 with ID)."
   },
   "extraction_history": [
     {

@@ -1,6 +1,6 @@
 # Global Britain in a Competitive Age: The Integrated Review of Security, Defence, Development and Foreign Policy (2021)
 
-- [Cabinet Office](/government/organisations/cabinet-office)
+- [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office)
 
 Policy paper
 

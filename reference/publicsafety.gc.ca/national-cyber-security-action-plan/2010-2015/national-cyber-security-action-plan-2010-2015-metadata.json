@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/publicsafety.gc.ca/national-cyber-security-action-plan@2019-2024",
-    "retiredFromActiveUse": "2013-04-01",
+    "retiredFromActiveUse": "2019-06-26",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (25,388 chars) and parsed 7 sections (3 with explicit section identifiers)."
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (25,454 chars) and parsed 7 sections (3 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -1,6 +1,6 @@
 # National Strategy for Critical Infrastructure
 
-[National Strategy for Critical Infrastructure - PDF Version (222 KB)](srtg-crtcl-nfrstrctr-eng.pdf)
+[National Strategy for Critical Infrastructure - PDF Version (222 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/srtg-crtcl-nfrstrctr-eng.pdf)
 
 ISBN: 978-1-100-11248-0
 
@@ -16,7 +16,7 @@ ISBN: 978-1-100-11248-0
   - [4.3 Share and protect information](#s4_3)
 - [5. Review](#s5)
 
-\* The Strategy is to be read in conjunction with the [Action Plan for Critical Infrastructure.](/cnt/rsrcs/pblctns/2021-ctn-pln-crtcl-nfrstrctr/index-en.aspx)
+\* The Strategy is to be read in conjunction with the [Action Plan for Critical Infrastructure.](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2021-ctn-pln-crtcl-nfrstrctr/index-en.aspx)
 
 ## Executive summary
 

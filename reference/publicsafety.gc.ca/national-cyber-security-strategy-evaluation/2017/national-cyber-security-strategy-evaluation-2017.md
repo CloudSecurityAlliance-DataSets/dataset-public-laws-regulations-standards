@@ -1,6 +1,6 @@
 # Horizontal Evaluation of Canada's Cyber Security Strategy Final Report
 
-[Horizontal Evaluation of Canada's Cyber Security Strategy PDF Version (452 KB)](vltn-cnd-scrt-strtg-en.pdf)
+[Horizontal Evaluation of Canada's Cyber Security Strategy PDF Version (452 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/vltn-cnd-scrt-strtg/vltn-cnd-scrt-strtg-en.pdf)
 
 ##### Table of contents
 

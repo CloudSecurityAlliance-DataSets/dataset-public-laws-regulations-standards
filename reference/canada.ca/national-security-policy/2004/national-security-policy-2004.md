@@ -38,7 +38,7 @@ This policy puts us on a long-term path to enhancing the security of our country
 
 Prime Minister Paul Martin
 
-### Table of Contents
+## Table of Contents
 
 Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
 
@@ -124,9 +124,9 @@ Transport Security
 
 • The Government is strengthening marine security through the implementation of a six-point plan that will:
 
-- clarify responsibilities and strengthen co-ordination of marine security efforts; - establish networked marine security operations centres;
+-clarify responsibilities and strengthen co-ordination of marine security efforts; -establish networked marine security operations centres;
 
-- increase the Canadian Forces, RCMP, and Canadian Coast Guard on-water presence and Department of Fisheries and Oceans aerial surveillance; - enhance secure fleet communications; - pursue greater marine security co-operation with the United States; and - strengthen the security of marine facilities.
+-increase the Canadian Forces, RCMP, and Canadian Coast Guard on-water presence and Department of Fisheries and Oceans aerial surveillance; -enhance secure fleet communications; -pursue greater marine security co-operation with the United States; and -strengthen the security of marine facilities.
 
 • In partnership with the private sector and our international partners, Canada will identify strategies to enhance our aviation security, including air cargo.
 
@@ -150,7 +150,7 @@ International Security
 
 • Beginning with the establishment of a dedicated capacity-building fund, Canada will leverage its experience in building peace, order and good government to help developing, failed and failing states.
 
-• Canada will continue to play an important role in countering international terrorism, preventing the proliferation of weapons of mass destruction, and defusing key intra- and interstate conflicts.
+• Canada will continue to play an important role in countering international terrorism, preventing the proliferation of weapons of mass destruction, and defusing key intra-and interstate conflicts.
 
 ## Chapter 1: Canada’s Approach to National Security
 
@@ -176,9 +176,9 @@ Our commitment to include all Canadians in the ongoing building of this country 
 
 The Government needs the help and support of all Canadians to make its approach to security effective. Therefore, it will introduce new measures to reach out to communities in Canada that may feel caught in the “front lines” of the struggle against terrorism.
 
-• Create a Cross-Cultural Roundtable on Security
-
 To this end, the Government is creating a Cross-Cultural Roundtable on Security, which will be comprised of members of ethno-cultural and religious communities from across Canada. It will engage in a long-term dialogue to improve understanding on how to manage security interests in a diverse society and will provide advice to promote the protection of civil order, mutual respect and common understanding. It will be a partnership with all communities to work to ensure that there is zero tolerance for terrorism or crimes of hate in Canada. The roundtable will work with the Minister of Public Safety and Emergency Preparedness and the Minister of Justice.
+
+• Create a Cross-Cultural Roundtable on Security
 
 Our knowledge and experience in the hard tasks of fostering democracy, pluralism and the rule of law are also a means for Canada to play a significant role in the struggle against terrorism. They provide us with a rich set of assets we can deploy in failed or failing states to assist in removing the conditions for extremists to operate and gather support. Our security interests and our international policy goals work hand in hand.
 
@@ -286,9 +286,9 @@ Threat Assessment
 
 Effective threat assessment allows the Government to objectively and continuously assess the risks to Canadians based on all available information. This assessment is grounded in intelligence and trend analysis, and evaluates both the probability and potential consequences of threats.
 
-• Create an Integrated Threat Assessment Centre
-
 Although many individual federal departments and agencies conduct threat assessments, there has been no comprehensive and timely central government assessment that brings together intelligence about potential threats from a wide range of sources to allow better and more integrated decision-making. Consequently, the Government is creating an Integrated Threat Assessment Centre to facilitate the integration of intelligence into a comprehensive threat assessment, which will be made available to those who require it. The integrated approach that the Government is taking will help to reduce the risk that information held by one part of Government will fail to be provided in a timely fashion to those who can utilize it.
+
+• Create an Integrated Threat Assessment Centre
 
 Protection and Prevention Capability
 
@@ -298,17 +298,17 @@ The Government will ensure that its own systems are structured to better share i
 
 The department will also be responsible for reviewing alert and warning systems across government to ensure that they are structured to respond effectively to threats.
 
-• Strengthen watch list system • Review response and alert systems • Enhance threat information sharing with other levels of government and critical infrastructure owners
-
 It is not, however, enough to connect activities within the federal government. We need to better connect our threat information to first line responders, law enforcement officials, critical infrastructure providers, and provincial, territorial and other governments. The department has such a system to respond to terrorism. It will expand its capacity to ensure full connectivity on a wider range of threats and respond to create a truly national system of protection and prevention.
+
+• Strengthen watch list system • Review response and alert systems • Enhance threat information sharing with other levels of government and critical infrastructure owners
 
 Consequence Management
 
 While much of our national security effort is directed at preventing events from occurring, our system needs to be able to respond to incidents and their consequences. This can range from providing emergency medical assistance to prosecuting individuals for committing security offences. The measures identified below in Chapter 4: Emergency Planning and Management help to strengthen the Government’s capacity to meet its core responsibilities and build a national emergency management system with key partners.
 
-• Co-locate federal, provincial, territorial and municipal emergency operations centres
-
 While that national strategy is being collectively developed, there are important tangible steps that can be taken immediately to enhance co-operation. To this end, the Government is working to co-locate federal, provincial, territorial and municipal emergency operations centres to ensure that officials build strong practices of collaboration and can operate seamlessly during emergencies.
+
+• Co-locate federal, provincial, territorial and municipal emergency operations centres
 
 Evaluation and Oversight
 
@@ -316,9 +316,9 @@ An effective national security framework must, of necessity, be a continual work
 
 role in reviewing our performance, we are committed to building a more systematic approach within Government to testing and improving on the effectiveness of our systems.
 
-• Evaluate emergency operations plans • Enhance use of live testing of security systems • Create the National Security Advisory Council
-
 To this end, the Minister of Public Safety and Emergency Preparedness will be given responsibility for strengthening the testing and auditing of key capabilities and conducting assessments of other departments. This will include a review of the plans of federal departments to ensure their ability to continue operating during emergencies. The Government will also enhance its live testing of federal security systems to assess their effectiveness.
+
+• Evaluate emergency operations plans • Enhance use of live testing of security systems • Create the National Security Advisory Council
 
 The Minister of Public Safety and Emergency Preparedness and the Cabinet Committee on Security, Public Health and Emergencies, supported by the National Security Advisor, will ensure the development and implementation of the security system described above. The Government also believes that it can benefit from the advice of security experts from outside the Government in evaluating and improving our system. To this end, it will create the National Security Advisory Council to advise the Government on the implementation of this policy framework.
 
@@ -446,7 +446,7 @@ The Canadian Forces have also figured prominently in the consequence management 
 
 • increasing the Canadian Forces’ holdings of nuclear, biological and chemical medical countermeasures, and improving stock maintenance;
 
-• enhancing the Disaster Assistance Response Team’s contingency- planning capacity, and providing for some additional domestic response capability when the unit is deployed overseas; and
+• enhancing the Disaster Assistance Response Team’s contingency-planning capacity, and providing for some additional domestic response capability when the unit is deployed overseas; and
 
 • ensuring that the Canadian Forces and Canadian first line responders are adequately prepared to protect Canadian interests by upgrading and consolidating the facilities required to provide training, advice and technological support to the Canadian Forces, Canadian first line responders, and other government departments.
 
@@ -474,7 +474,7 @@ cover the areas of mitigation programs, critical infrastructure protection, cybe
 
 Recent events in Canada such as SARS have called into question the effectiveness of existing disaster financial assistance arrangements to deal quickly and effectively with response and recovery. The need for consistency of application, improvement of federal-provincial-territorial co-operation, and a comprehensive federal response is driving the development of a framework for responsive disaster recovery assistance. As part of this, the Government will complete an ongoing review of the Disaster Financial Assistance Arrangements, develop guiding principles for other federal instruments to complement these arrangements for situations such as public health and animal health emergencies, and examine the inventory of existing national programs and legal tools to enhance their applicability to emergency response and recovery.
 
-Major emergencies require extremely close co-operation between the federal government, provinces and territories, communities, first line responders and the private sector. National emergency co-ordination currently suffers from the absence of both an effective federal-provincial- territorial governance regime, and from the absence of commonly agreed standards and priorities for the national emergency management system.
+Major emergencies require extremely close co-operation between the federal government, provinces and territories, communities, first line responders and the private sector. National emergency co-ordination currently suffers from the absence of both an effective federal-provincial-territorial governance regime, and from the absence of commonly agreed standards and priorities for the national emergency management system.
 
 The Government will therefore invite provinces and territories to establish a permanent, high-level forum on emergencies in order to allow for regular strategic discussion of emergency management issues among key national players. The Government is also committed to moving ahead on the co-location of federal, provincial and territorial emergency operations centres. To this end, it will work with its provincial and territorial partners to put this in place where practical.
 
@@ -534,7 +534,7 @@ A number of key accomplishments should be noted as the Government works with key
 
 • The National Microbiology Laboratory, located in the Canadian Science Centre for Human and Animal Health in Winnipeg, houses Canada’s Biological Safety Level 4 containment laboratory, one of just 15 such laboratories in the world equipped to handle some of the most virulent pathogens.
 
-• Canada has developed a Federal Nuclear Emergency Plan to co- ordinate the federal response to an uncontrolled release of radioactive materials.
+• Canada has developed a Federal Nuclear Emergency Plan to co-ordinate the federal response to an uncontrolled release of radioactive materials.
 
 • Canada’s ability to track and detect bioterrorist events has been enhanced through the purchase of more advanced equipment for our laboratories and the provision of timely information sharing on disease incidents and the development of the Global Public Health Intelligence Network.
 
@@ -596,7 +596,7 @@ The Government is also working, and will continue to work, with the provinces an
 
 Highlights
 
-• Strengthen our marine security through a six-point plan that includes: - clarifying responsibilities and strengthening co-ordination - establishing marine security operations centres - increasing the Canadian Forces, RCMP, and Canadian Coast Guard on-water presence as well as the Department of Fisheries and Oceans aerial surveillance - securing fleet communications - pursuing greater marine security co-operation with the United States - strengthening the security of marine ports and facilities • Enhance security in aviation, including air cargo • Improve and extend security background check requirements for transportation workers
+• Strengthen our marine security through a six-point plan that includes: -clarifying responsibilities and strengthening co-ordination -establishing marine security operations centres -increasing the Canadian Forces, RCMP, and Canadian Coast Guard on-water presence as well as the Department of Fisheries and Oceans aerial surveillance -securing fleet communications -pursuing greater marine security co-operation with the United States -strengthening the security of marine ports and facilities • Enhance security in aviation, including air cargo • Improve and extend security background check requirements for transportation workers
 
 Context
 
@@ -768,7 +768,7 @@ Finally, building on Canada’s history of international co-operation, we have t
 
 Highlights
 
-• National security will be one of the top priorities in our International Policy Review. • Leverage Canada’s experience in building peace, order and good government to help developing, failed and failing states, beginning with the establishment of a dedicated capacity-building fund • Continue to play an important role in countering international terrorism, preventing the proliferation of weapons of mass destruction, and defusing intra- and interstate conflicts • Engage in new forums for dialogue that will broaden international consensus around our security priorities
+• National security will be one of the top priorities in our International Policy Review. • Leverage Canada’s experience in building peace, order and good government to help developing, failed and failing states, beginning with the establishment of a dedicated capacity-building fund • Continue to play an important role in countering international terrorism, preventing the proliferation of weapons of mass destruction, and defusing intra-and interstate conflicts • Engage in new forums for dialogue that will broaden international consensus around our security priorities
 
 Context
 
@@ -782,7 +782,7 @@ The International Policy Review will make important recommendations regarding th
 
 Progress to Date
 
-Since September 11, the Government has reaffirmed Canada’s commitment to both NATO and the United Nations and has engaged on several fronts to counter threats to our national security. Based on the current threat environment, we have placed the highest priority on countering international terrorism, preventing the proliferation of weapons of mass destruction, assisting failed and failing states, and defusing intra- and interstate conflicts that threaten our national security.
+Since September 11, the Government has reaffirmed Canada’s commitment to both NATO and the United Nations and has engaged on several fronts to counter threats to our national security. Based on the current threat environment, we have placed the highest priority on countering international terrorism, preventing the proliferation of weapons of mass destruction, assisting failed and failing states, and defusing intra-and interstate conflicts that threaten our national security.
 
 International Terrorism
 
@@ -806,7 +806,7 @@ Budget 2001 funded the creation of a dedicated nuclear, biological, and chemical
 
 Finally, Canada is discussing the possibility of participating in the U.S. ballistic missile defence system to increase the security of North America. Our final decision on participation will be consistent with our long-standing opposition to the weaponization of space.
 
-Failed and Failing States and Intra- and Interstate Conflicts
+Failed and Failing States and Intra-and Interstate Conflicts
 
 Canada has also been actively engaged in international efforts to prevent conflict, as well as to keep and build the peace in failed, failing and post-conflict states. Our diplomats, aid workers and armed forces are currently deployed around the globe in a variety of peace efforts. On the peacebuilding front alone, Canada is involved in Haiti, Afghanistan, and the Balkans.
 
@@ -850,7 +850,7 @@ As part of the fight against international terrorism, Canada will maintain its m
 
 We will continue to play an important role in efforts to halt the proliferation of weapons of mass destruction. In September 2004, for example, Canada is expected to chair the board of the International Atomic Energy Agency. During our one-year term, we will seek to strengthen nuclear safeguards and to build international consensus for responding to the dangerous nuclear activities of Iran and North Korea.
 
-Finally, we will do our part in defusing intra- and interstate conflicts that threaten our national security. In consultation with our allies, we will determine where Canada can best make a difference in the advancement of peace.
+Finally, we will do our part in defusing intra-and interstate conflicts that threaten our national security. In consultation with our allies, we will determine where Canada can best make a difference in the advancement of peace.
 
 Engaging the International Community
 

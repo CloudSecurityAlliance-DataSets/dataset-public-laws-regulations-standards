@@ -1,6 +1,6 @@
 # National Cyber Security Strategy Canada's Vision for Security and Prosperity in the Digital Age
 
-[National Cyber Security Strategy - PDF Version (565 KB)](ntnl-cbr-scrt-strtg-en.pdf)
+[National Cyber Security Strategy - PDF Version (565 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/ntnl-cbr-scrt-strtg-en.pdf)
 
 ##### Table of contents
 

@@ -8,7 +8,7 @@ Information identified as archived is provided for reference, research or record
 
 [This page has been archived on the Web.](#archived)
 
-[Archive - Action Plan for Critical Infrastructure (2014-2017) PDF Version (195 KB)](pln-crtcl-nfrstrctr-2014-17-eng.pdf)
+[Archive - Action Plan for Critical Infrastructure (2014-2017) PDF Version (195 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/pln-crtcl-nfrstrctr-2014-17-eng.pdf)
 
 Cat. No.: PS4-66/2014E-PDF
 ISBN: 978-1-100-23291-1
@@ -29,13 +29,13 @@ ISBN: 978-1-100-23291-1
 - [Annex E: Action Plan (2014-2017) Summary Table](#e)
 - [Annex F: Resources](#f)
 
-\* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure](/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx).
+\* The Action Plan is to be read in conjunction with the [National Strategy for Critical Infrastructure](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx).
 
 ## Renewing Canada's Action Plan for Critical Infrastructure
 
 ### 1. Introduction
 
-The [*National Strategy for Critical Infrastructure*](/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx) and the supporting [*Action Plan for Critical Infrastructure*](/cnt/rsrcs/pblctns/pln-crtcl-nfrstrctr/index-eng.aspx) were announced on May 28, 2010. Together, they established a collaborative federal, provincial, territorial and critical infrastructure sector approach to strengthening critical infrastructure resilience.
+The [*National Strategy for Critical Infrastructure*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx) and the supporting [*Action Plan for Critical Infrastructure*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/pln-crtcl-nfrstrctr/index-eng.aspx) were announced on May 28, 2010. Together, they established a collaborative federal, provincial, territorial and critical infrastructure sector approach to strengthening critical infrastructure resilience.
 
 The National Strategy recognized that responsibilities for critical infrastructure in Canada are shared by federal, provincial and territorial governments, local authorities, and critical infrastructure owners and operators – who bear the primary responsibility for protecting their assets and services.  It also recognized that critical infrastructure owners and operators have the expertise and information that governments need to develop comprehensive emergency management plans and, in turn, that governments have information on risks and threats relevant to owners and operators in carrying out their risk management activities.
 
@@ -233,10 +233,10 @@ Annex E: Action Plan (2014-2017) Summary Table
 The following websites contain useful information relating to the resilience of Canada's critical infrastructure:
 
 *National Strategy for Critical Infrastructure*:
-</cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx>
+[/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/srtg-crtcl-nfrstrctr/index-eng.aspx)
 
 Public Safety Canada/Critical Infrastructure:
-</cnt/ntnl-scrt/crtcl-nfrstrctr/index-eng.aspx>
+[/cnt/ntnl-scrt/crtcl-nfrstrctr/index-eng.aspx](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/crtcl-nfrstrctr/index-eng.aspx)
 
 Canadian Critical Infrastructure Gateway (CI Gateway):
 <http://cigateway.ps.gc.ca>
@@ -248,16 +248,16 @@ Canadian Security Intelligence Service (CSIS):
 [https://www.canada.ca/en/security-intelligence-service.htmlindex-eng.asp](https://www.canada.ca/en/security-intelligence-service.html)
 
 Canadian Cyber Incident Response Centre (CCIRC):
-</cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx>
+[/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ccirc-ccric-eng.aspx)
 
 *Canada's Cyber Security Strategy*:
-</cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx>
+[/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/cbr-scrt-strtgy/index-eng.aspx)
 
 *Action Plan 2010-2015 for Canada's Cyber Security Strategy:*
-</cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx>
+[/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ctn-pln-cbr-scrt/index-eng.aspx)
 
 *Building Resilience Against Terrorism: Canada's Counter-terrorism Strategy*:
-</cnt/ntnl-scrt/cntr-trrrsm/cntr-trrrsm-strtg-eng.aspx>
+[/cnt/ntnl-scrt/cntr-trrrsm/cntr-trrrsm-strtg-eng.aspx](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/cntr-trrrsm-strtg-eng.aspx)
 
 The Canadian Disaster Database:
-</prg/em/cdd/index-eng.aspx>
+[/prg/em/cdd/index-eng.aspx](https://www.publicsafety.gc.ca/prg/em/cdd/index-eng.aspx)

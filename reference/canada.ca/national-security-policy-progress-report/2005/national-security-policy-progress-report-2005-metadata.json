@@ -23,7 +23,7 @@
   },
   "links": {
     "wikipedia": "",
-    "source": "https://publications.gc.ca/collections/Collection/CP22-77-2005E.pdf",
+    "source": "https://publications.gc.ca/site/eng/272094/publication.html",
     "textUsed": "https://publications.gc.ca/collections/Collection/CP22-77-2005E.pdf",
     "csaLocation": ""
   },
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 61-page official Government of Canada Publications PDF (https://publications.gc.ca/collections/Collection/CP22-77-2005E.pdf) to Markdown (120,812 chars) and parsed 15 sections (0 with ID)."
+    "notes": "Extracted 61-page born-digital Government of Canada Publications PDF (https://publications.gc.ca/collections/Collection/CP22-77-2005E.pdf) locally via column-aware PyMuPDF layout analysis (120,803 chars) and parsed 15 sections (0 with ID)."
   },
   "extraction_history": [
     {

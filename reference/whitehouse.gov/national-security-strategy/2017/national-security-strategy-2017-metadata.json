@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": "secid:reference/whitehouse.gov/national-security-strategy@2015",
     "supersededBy": "secid:reference/whitehouse.gov/national-security-strategy@2022",
-    "retiredFromActiveUse": "2017-12-18",
+    "retiredFromActiveUse": "2022-10-12",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 68-page official White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf) to Markdown (164,775 chars) and parsed 102 sections (0 with ID)."
+    "notes": "Extracted 68-page born-digital White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf) locally via column-aware PyMuPDF layout analysis (164,231 chars) and parsed 105 sections (0 with ID)."
   },
   "extraction_history": [
     {

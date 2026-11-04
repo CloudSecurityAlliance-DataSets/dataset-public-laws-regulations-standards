@@ -944,7 +944,7 @@ The Office of Science and Technology says that the protections outlined in the d
 ## Footnotes
 
 Footnote 1
-:   Canada, The National Security Transparency Advisory Group, [*Initial Report: What We Heard in Our First Year*](/cnt/rsrcs/pblctns/2020-nstag-irwwh/index-%20en.aspx#a05.), November 25, 2023
+:   Canada, The National Security Transparency Advisory Group, [*Initial Report: What We Heard in Our First Year*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2020-nstag-irwwh/index-%20en.aspx#a05.), November 25, 2023
 
     [Return to first footnote 1 referrer](#fn1-1-rf)
 
@@ -1094,7 +1094,7 @@ Footnote 30
     [Return to first footnote 30 referrer](#fn30-1-rf)
 
 Footnote 31
-:   Canada, National Security Transparency Advisory Group, [*How National Security and Intelligence Institutions Engage with Racialized Communities*](/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/2022-nstag-nsiirc-isnrccr-en.pdf), May 31, 2022, pg. 16.
+:   Canada, National Security Transparency Advisory Group, [*How National Security and Intelligence Institutions Engage with Racialized Communities*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/2022-nstag-nsiirc-isnrccr-en.pdf), May 31, 2022, pg. 16.
 
     [Return to first footnote 31 referrer](#fn31-1-rf)
 
@@ -1149,17 +1149,17 @@ Footnote 41
     [Return to first footnote 41 referrer](#fn41-1-rf)
 
 Footnote 42
-:   Canada, Public Safety Canada[, *International Statement: End-To-End Encryption And Public Safety*](/cnt/rsrcs/pblctns/2020-jnt-sttmnt-ncrptn-pblc-sfty/index-en.aspx), December 23, 2022.
+:   Canada, Public Safety Canada[, *International Statement: End-To-End Encryption And Public Safety*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2020-jnt-sttmnt-ncrptn-pblc-sfty/index-en.aspx), December 23, 2022.
 
     [Return to first footnote 42 referrer](#fn42-1-rf)
 
 Footnote 43
-:   Canada, National Security Transparency Advisory Group, [*Initial Report: What We Heard In Our First Year*](/cnt/rsrcs/pblctns/2020-nstag-irwwh/2020-nstag-irwwh-en.pdf), November 25, 2020, pg. 9.
+:   Canada, National Security Transparency Advisory Group, [*Initial Report: What We Heard In Our First Year*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2020-nstag-irwwh/2020-nstag-irwwh-en.pdf), November 25, 2020, pg. 9.
 
     [Return to first footnote 43 referrer](#fn43-1-rf)
 
 Footnote 44
-:   Canada, National Security Transparency Advisory Group, [*The Definition, Measurement, and Institutionalization of Transparency in National Security*](/cnt/rsrcs/pblctns/2021-dntn-msrmnt-trsprncy-ns/index-en.aspx), July 22, 2022, pg. 7.
+:   Canada, National Security Transparency Advisory Group, [*The Definition, Measurement, and Institutionalization of Transparency in National Security*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2021-dntn-msrmnt-trsprncy-ns/index-en.aspx), July 22, 2022, pg. 7.
 
     [Return to first footnote 44 referrer](#fn44-1-rf)
 
@@ -1209,7 +1209,7 @@ Footnote 53
     [Return to first footnote 53 referrer](#fn53-1-rf)
 
 Footnote 54
-:   Canada, National Security Transparency Advisory Group, [*How National Security and Intelligence Institutions Engage with Racialized Communities*](/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/2022-nstag-nsiirc-isnrccr-en.pdf), May 31, 2022.
+:   Canada, National Security Transparency Advisory Group, [*How National Security and Intelligence Institutions Engage with Racialized Communities*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/2022-nstag-nsiirc-isnrccr-en.pdf), May 31, 2022.
 
     [Return to first footnote 54 referrer](#fn54-1-rf)
 
@@ -1254,7 +1254,7 @@ Footnote 62
     [Return to first footnote 62 referrer](#fn62-1-rf)
 
 Footnote 63
-:   Canada, Public Safety Canada, [*Mid-Term Evaluation of the National Cyber Security Strategy – Public Safety Canada's Initiatives – Evaluation Report*](/cnt/rsrcs/pblctns/2022-vtn-ntnl-cbr-strtgy/index-en.aspx#b05), June 27, 2022.
+:   Canada, Public Safety Canada, [*Mid-Term Evaluation of the National Cyber Security Strategy – Public Safety Canada's Initiatives – Evaluation Report*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-vtn-ntnl-cbr-strtgy/index-en.aspx#b05), June 27, 2022.
 
     [Return to first footnote 63 referrer](#fn63-1-rf)
 
@@ -1264,7 +1264,7 @@ Footnote 64
     [Return to first footnote 64 referrer](#fn64-1-rf)
 
 Footnote 65
-:   Canada, Public Safety Canada, [*International Statement: End-T0-End Encryption and Public Safety*](/cnt/rsrcs/pblctns/2020-jnt-sttmnt-ncrptn-pblc-%20sfty/index-en.aspx), December 23, 2022.
+:   Canada, Public Safety Canada, [*International Statement: End-T0-End Encryption and Public Safety*](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2020-jnt-sttmnt-ncrptn-pblc-%20sfty/index-en.aspx), December 23, 2022.
 
     [Return to first footnote 65 referrer](#fn65-1-rf)
 
@@ -1402,7 +1402,7 @@ Footnote 91
 
 # How National Security and Intelligence Institutions Engage with Racialized Communities
 
-[How National Security and Intelligence Institutions Engage with Racialized Communities PDF Version 865 KB)](2022-nstag-nsiirc-isnrccr-en.pdf)
+[How National Security and Intelligence Institutions Engage with Racialized Communities PDF Version 865 KB)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2022-nstag-nsiirc-isnrccr/2022-nstag-nsiirc-isnrccr-en.pdf)
 
 ##### Table of contents
 

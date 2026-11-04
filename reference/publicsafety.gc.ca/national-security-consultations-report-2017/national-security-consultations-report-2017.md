@@ -1,6 +1,6 @@
 # National Security Consultations: What We Learned Report
 
-[National Security Consultations: What We Learned Report PDF Version (164 Kb)](2017-nsc-wwlr-en.pdf)
+[National Security Consultations: What We Learned Report PDF Version (164 Kb)](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2017-nsc-wwlr/2017-nsc-wwlr-en.pdf)
 
 ##### Table of contents
 

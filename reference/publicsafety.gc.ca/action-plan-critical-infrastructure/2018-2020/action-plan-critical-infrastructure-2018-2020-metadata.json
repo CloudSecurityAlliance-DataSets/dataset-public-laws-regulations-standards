@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": "secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2014-2017",
     "supersededBy": "secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2021-2023",
-    "retiredFromActiveUse": "2018-05-01",
+    "retiredFromActiveUse": "2021-07-01",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (42,984 chars) and parsed 36 sections (23 with explicit section identifiers)."
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (43,279 chars) and parsed 36 sections (23 with explicit section identifiers)."
   },
   "extraction_history": [
     {

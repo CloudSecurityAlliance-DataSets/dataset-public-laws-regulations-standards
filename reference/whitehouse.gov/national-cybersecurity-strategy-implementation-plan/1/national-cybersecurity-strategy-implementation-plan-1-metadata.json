@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": null,
     "supersededBy": "secid:reference/whitehouse.gov/national-cybersecurity-strategy-implementation-plan@2",
-    "retiredFromActiveUse": "2023-07-13",
+    "retiredFromActiveUse": "2024-05-07",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 57-page official White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf) to Markdown (84,272 chars) and parsed 324 sections (36 with ID)."
+    "notes": "Extracted 57-page born-digital White House PDF (https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf) locally via column-aware PyMuPDF layout analysis (82,066 chars) and parsed 112 sections (100 with ID)."
   },
   "extraction_history": [
     {

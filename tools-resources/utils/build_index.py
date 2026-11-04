@@ -247,7 +247,7 @@ def render(tree: dict) -> str:
     lines.append("- **M** = `<name>-<version>-metadata.json` present (with `secid` field)")
     lines.append("- **X** = markdown extraction (`<name>-<version>.md`)")
     lines.append("- **J** = marker JSON block tree (`<name>-<version>.json` alongside markdown)")
-    lines.append("- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories}.csv`)")
+    lines.append("- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories,sections}.csv`)")
     lines.append("- **S** = structured JSON (matching CSV pattern)")
     lines.append("- **P** = reproducibility parser script (`parse_*.py` / `extract_*.py` / `build_*.py`)")
     lines.append("- **I** = page images (jpeg/png from marker)")

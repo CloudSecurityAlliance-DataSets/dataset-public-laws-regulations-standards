@@ -24,7 +24,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world",
-    "textUsed": "https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world",
+    "textUsed": "https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -32,7 +32,7 @@
     "active": false,
     "supersedes": "secid:reference/gov.uk/integrated-review@2021",
     "supersededBy": "secid:reference/gov.uk/national-security-strategy@2025",
-    "retiredFromActiveUse": "2023-03-13",
+    "retiredFromActiveUse": "2025-06-24",
     "notes": ""
   },
   "current_extraction": {
@@ -42,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world) to Markdown (158,109 chars) and parsed 26 sections (7 with ID)."
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world/integrated-review-refresh-2023-responding-to-a-more-contested-and-volatile-world) to Markdown (158,127 chars) and parsed 26 sections (7 with ID)."
   },
   "extraction_history": [
     {
