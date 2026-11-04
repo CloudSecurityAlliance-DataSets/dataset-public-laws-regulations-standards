@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/canada.ca/enterprise-cyber-security-strategy@2024",
+  "name": "Government of Canada Enterprise Cyber Security Strategy (2024)",
+  "acronym": "GCECSS",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "enterprise-cyber-security-strategy-2024",
+  "owner": "Treasury Board of Canada Secretariat (Office of the Chief Information Officer)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Internal enterprise cyber security strategy for the Government of Canada (TBS, Shared Services Canada, CSE), establishing an enterprise-wide model for protecting federal cloud workloads, networks, and digital services.",
+  "relationToCloudSecurity": "Directly governs how Government of Canada departments and Shared Services Canada secure federal cloud environments, identity, and enterprise telemetry.",
+  "relationToAISecurity": "Addresses modernizing security controls and automation across federal digital infrastructure.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html",
+    "textUsed": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-03-04",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official Treasury Board Secretariat HTML publication from canada.ca (70,504 chars) and parsed 25 sections (17 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/whitehouse.gov/national-security-strategy@2017",
+  "name": "National Security Strategy of the United States of America (2017)",
+  "acronym": "NSS",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "national-security-strategy-2017",
+  "owner": "Executive Office of the President (The White House)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "2017 National Security Strategy of the United States of America structured around four vital national interests (Pillars I–IV).",
+  "relationToCloudSecurity": "Establishes U.S. federal cybersecurity and national security strategic priorities affecting cloud service providers, critical infrastructure, and federal IT modernization.",
+  "relationToAISecurity": "Addresses strategic competition and security in critical and emerging technologies including artificial intelligence and quantum computing.",
+  "license": {
+    "spdx": "LicenseRef-US-Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "notes": "Work of the U.S. Federal Government; in the public domain in the United States under 17 U.S.C. § 105."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf",
+    "textUsed": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-12-18",
+    "active": false,
+    "supersedes": "secid:reference/whitehouse.gov/national-security-strategy@2015",
+    "supersededBy": "secid:reference/whitehouse.gov/national-security-strategy@2022",
+    "retiredFromActiveUse": "2022-10-12",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 68-page born-digital White House PDF (https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf) locally via column-aware PyMuPDF layout analysis (164,092 chars) and parsed 104 sections (0 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

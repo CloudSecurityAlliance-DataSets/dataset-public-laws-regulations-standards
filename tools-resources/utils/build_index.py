@@ -35,6 +35,7 @@ _VERSION_PATTERNS = [
     re.compile(r"^v?\d+(\.\d+)*$", re.I),     # 1, 1.0, v4.0.1
     re.compile(r"^r\d+$", re.I),                # r5, r2
     re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$"),   # 2023, 2024-02, 2024-02-26
+    re.compile(r"^\d{4}-\d{4}$"),               # 2019-2024, 2016-2021 (multi-year strategy spans)
     re.compile(r"^e\d{4}$", re.I),              # e2023 (NIST AI 100-2 e2023)
     re.compile(r"^[A-Z]$"),                      # E (FDIS edition), A (annex)
     re.compile(r"^ipd$", re.I),                 # initial public draft (NIST)
@@ -86,9 +87,9 @@ def classify_files(p: Path) -> dict:
                 pass
         elif name.endswith("_meta.json"):
             state["has_marker_meta"] = True
-        elif re.search(r"-(requirements|controls|criteria|subcategories)\.csv$", name):
+        elif re.search(r"-(requirements|controls|criteria|subcategories|sections)\.csv$", name):
             state["has_structured_csv"] = True
-        elif re.search(r"-(requirements|controls|criteria|subcategories)\.json$", name):
+        elif re.search(r"-(requirements|controls|criteria|subcategories|sections)\.json$", name):
             state["has_structured_json"] = True
         elif name.startswith("readme"):
             state["has_readme"] = True
@@ -246,7 +247,7 @@ def render(tree: dict) -> str:
     lines.append("- **M** = `<name>-<version>-metadata.json` present (with `secid` field)")
     lines.append("- **X** = markdown extraction (`<name>-<version>.md`)")
     lines.append("- **J** = marker JSON block tree (`<name>-<version>.json` alongside markdown)")
-    lines.append("- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories}.csv`)")
+    lines.append("- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories,sections}.csv`)")
     lines.append("- **S** = structured JSON (matching CSV pattern)")
     lines.append("- **P** = reproducibility parser script (`parse_*.py` / `extract_*.py` / `build_*.py`)")
     lines.append("- **I** = page images (jpeg/png from marker)")

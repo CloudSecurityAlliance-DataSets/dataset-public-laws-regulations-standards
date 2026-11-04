@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/parl.ca/ccspa",
+  "name": "An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts (Critical Cyber Systems Protection Act, Bill C-8 / S.C. 2026, c. 9)",
+  "acronym": "CCSPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ccspa",
+  "owner": "Parliament of Canada",
+  "type": "Regulation",
+  "subtype": [
+    "legislation"
+  ],
+  "description": "Federal cyber security statute (Bill C-8, 45th Parliament, formerly Bill C-26; Royal Assent S.C. 2026, c. 9) amending the Telecommunications Act to secure Canadian telecommunications networks and enacting the Critical Cyber Systems Protection Act (CCSPA) mandating cyber security programs, supply-chain/third-party risk mitigation, and mandatory incident reporting to CSE for designated operators across federal critical infrastructure sectors.",
+  "relationToCloudSecurity": "Governs federal cyber security, intelligence review, and critical cyber system protection obligations affecting cloud and telecommunications infrastructure in Canada.",
+  "relationToAISecurity": "Applies to automated and AI-enabled systems within federally regulated critical infrastructure and national security operations.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.parl.ca/legisinfo/en/bill/45-1/c-8",
+    "textUsed": "https://www.parl.ca/Content/Bills/451/Government/C-8/C-8_4/C-8_E.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-15",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/451/Government/C-8/C-8_4/C-8_E.xml) as ccspa.xml and extracted 207 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into ccspa.md, ccspa-sections.csv, and ccspa-sections.json."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
+}

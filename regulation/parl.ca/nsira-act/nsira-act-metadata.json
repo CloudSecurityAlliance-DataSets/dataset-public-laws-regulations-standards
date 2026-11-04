@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/parl.ca/nsira-act",
+  "name": "National Security and Intelligence Review Agency Act (S.C. 2019, c. 13, s. 2)",
+  "acronym": "NSIRA Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "nsira-act",
+  "owner": "Parliament of Canada",
+  "type": "Regulation",
+  "subtype": [
+    "legislation"
+  ],
+  "description": "Federal statute establishing the National Security and Intelligence Review Agency (NSIRA) with statutory authority to review any national security or intelligence activity across all Government of Canada departments and agencies (including CSIS, CSE, RCMP, DND/CAF, CBSA, and Global Affairs Canada).",
+  "relationToCloudSecurity": "Governs federal cyber security, intelligence review, and critical cyber system protection obligations affecting cloud and telecommunications infrastructure in Canada.",
+  "relationToAISecurity": "Applies to automated and AI-enabled systems within federally regulated critical infrastructure and national security operations.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://laws-lois.justice.gc.ca/eng/acts/N-16.62/FullText.html",
+    "textUsed": "https://laws-lois.justice.gc.ca/eng/XML/N-16.62.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Committed authoritative legislative XML (https://laws-lois.justice.gc.ca/eng/XML/N-16.62.xml) as nsira-act.xml and extracted 85 statutory sections and schedules via tools-resources/utils/parse_canada_justice_xml.py into nsira-act.md, nsira-act-sections.csv, and nsira-act-sections.json."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
+}
