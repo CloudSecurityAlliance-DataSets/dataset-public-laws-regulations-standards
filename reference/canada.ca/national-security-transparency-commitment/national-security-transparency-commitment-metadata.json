@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/canada.ca/national-security-transparency-commitment",
+  "name": "National Security Transparency Commitment",
+  "acronym": "NSTC",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "national-security-transparency-commitment",
+  "owner": "Government of Canada (Public Safety Canada)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Government-wide commitment to six national security transparency principles (Information, Executive, and Policy Transparency) across federal departments and agencies with national security responsibilities.",
+  "relationToCloudSecurity": "Governs transparency and reporting expectations across federal security and intelligence agencies.",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html",
+    "textUsed": "https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-06-20",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted main commitment page and 4 official subpages (Information, Executive, Policy Transparency, and NS-TAG) from canada.ca (37,862 chars) and parsed 23 sections (0 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

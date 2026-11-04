@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 542
+**Total documents indexed:** 588
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
 | `control/` | 71 | 32 | 33 | — | — | **136** |
-| `regulation/` | 45 | 25 | 6 | — | — | **76** |
+| `regulation/` | 49 | 25 | 6 | — | — | **80** |
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 45 | 122 | 137 | 4 | 6 | **314** |
-| **Total** | **172** | **179** | **181** | **4** | **6** | **542** |
+| `reference/` | 87 | 122 | 137 | 4 | 6 | **356** |
+| **Total** | **218** | **179** | **181** | **4** | **6** | **588** |
 
 ## control/
 
@@ -235,6 +235,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ontario.ca/phipa/` | structured | 5 | `M··CSP·` | `secid:regulation/ontario.ca/phipa` |
 | `regulation/oregon.gov/ocpa/` | extracted | 4 | `MX·····` | `secid:regulation/oregon.gov/ocpa` |
 | `regulation/parl.ca/aida/` | extracted | 5 | `MX·····` | `secid:regulation/parl.ca/aida` |
+| `regulation/parl.ca/ccspa/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/ccspa` |
+| `regulation/parl.ca/national-security-act-2017/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/national-security-act-2017` |
+| `regulation/parl.ca/nsicop-act/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/nsicop-act` |
+| `regulation/parl.ca/nsira-act/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/nsira-act` |
 | `regulation/pdpc.gov.sg/pdpa/` | structured | 7 | `M··CSP·` | `secid:regulation/pdpc.gov.sg/pdpa` |
 | `regulation/pipc.go.kr/pipa/` | metadata-only | 2 | `M······` | `secid:regulation/pipc.go.kr/pipa` |
 | `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
@@ -304,7 +308,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
 | `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
 | `reference/ca.gov/sam-5300-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/ca.gov/sam-5300-definitions` |
+| `reference/canada.ca/enterprise-cyber-security-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/enterprise-cyber-security-strategy@2024` |
 | `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
+| `reference/canada.ca/national-security-policy/2004/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy@2004` |
+| `reference/canada.ca/national-security-policy-progress-report/2005/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-policy-progress-report@2005` |
+| `reference/canada.ca/national-security-transparency-commitment/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/national-security-transparency-commitment` |
+| `reference/canada.ca/our-north-strong-and-free/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/our-north-strong-and-free@2024` |
 | `reference/catonetworks.com/it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/catonetworks.com/it-security-glossary` |
 | `reference/ccdcoe.org/glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/ccdcoe.org/glossary` |
 | `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
@@ -421,6 +430,13 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/google.com/security-operations-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/google.com/security-operations-glossary` |
 | `reference/gov.bc.ca/infosec-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.bc.ca/infosec-glossary` |
 | `reference/gov.br/glossario-seguranca-informacao/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.br/glossario-seguranca-informacao` |
+| `reference/gov.uk/integrated-review/2021/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/integrated-review@2021` |
+| `reference/gov.uk/integrated-review/2023/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/integrated-review@2023` |
+| `reference/gov.uk/national-cyber-strategy/2016-2021/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-cyber-strategy@2016-2021` |
+| `reference/gov.uk/national-cyber-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-cyber-strategy@2022` |
+| `reference/gov.uk/national-security-strategy/2010/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2010` |
+| `reference/gov.uk/national-security-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2015` |
+| `reference/gov.uk/national-security-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2025` |
 | `reference/gov.uk/ncsc-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
@@ -569,6 +585,26 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/progress.com/data-protection-privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/progress.com/data-protection-privacy-glossary` |
 | `reference/proofpoint.com/threat-reference/` | metadata-only | 1 | `M······` | `secid:reference/proofpoint.com/threat-reference` |
 | `reference/proton.me/encryption-glossary/` | metadata-only | 1 | `M······` | `secid:reference/proton.me/encryption-glossary` |
+| `reference/publicsafety.gc.ca/action-plan-critical-infrastructure/2010/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2010` |
+| `reference/publicsafety.gc.ca/action-plan-critical-infrastructure/2014-2017/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2014-2017` |
+| `reference/publicsafety.gc.ca/action-plan-critical-infrastructure/2018-2020/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2018-2020` |
+| `reference/publicsafety.gc.ca/action-plan-critical-infrastructure/2021-2023/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2021-2023` |
+| `reference/publicsafety.gc.ca/counter-terrorism-strategy/2012/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/counter-terrorism-strategy@2012` |
+| `reference/publicsafety.gc.ca/critical-infrastructure-consultation-report-2022/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/critical-infrastructure-consultation-report-2022` |
+| `reference/publicsafety.gc.ca/cyber-review-consultations-report-2017/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/cyber-review-consultations-report-2017` |
+| `reference/publicsafety.gc.ca/federal-cyber-incident-response-plan/2023/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/federal-cyber-incident-response-plan@2023` |
+| `reference/publicsafety.gc.ca/national-cyber-security-action-plan/2010-2015/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-action-plan@2010-2015` |
+| `reference/publicsafety.gc.ca/national-cyber-security-action-plan/2019-2024/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-action-plan@2019-2024` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy/2010/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy@2010` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy@2018` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy@2025` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy-evaluation/2017/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy-evaluation@2017` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy-evaluation/2022/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy-evaluation@2022` |
+| `reference/publicsafety.gc.ca/national-cyber-security-strategy-mid-term-review/2022/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-cyber-security-strategy-mid-term-review@2022` |
+| `reference/publicsafety.gc.ca/national-security-consultations-report-2017/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-security-consultations-report-2017` |
+| `reference/publicsafety.gc.ca/national-security-green-paper-2016/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-security-green-paper-2016` |
+| `reference/publicsafety.gc.ca/national-strategy-critical-infrastructure/2009/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/national-strategy-critical-infrastructure@2009` |
+| `reference/publicsafety.gc.ca/nstag-reports/` | structured | 4 | `MX·CS··` | `secid:reference/publicsafety.gc.ca/nstag-reports` |
 | `reference/rapid7.com/cloud-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/rapid7.com/cloud-security-glossary` |
 | `reference/redhat.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/redhat.com/security-glossary` |
 | `reference/sailpoint.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sailpoint.com/identity-security-glossary` |
@@ -594,6 +630,16 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
 | `reference/wa.gov/data-breach-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/wa.gov/data-breach-glossary` |
 | `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
+| `reference/whitehouse.gov/national-cybersecurity-strategy/2018/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2018` |
+| `reference/whitehouse.gov/national-cybersecurity-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2023` |
+| `reference/whitehouse.gov/national-cybersecurity-strategy/2026/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy@2026` |
+| `reference/whitehouse.gov/national-cybersecurity-strategy-implementation-plan/1/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy-implementation-plan@1` |
+| `reference/whitehouse.gov/national-cybersecurity-strategy-implementation-plan/2/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-cybersecurity-strategy-implementation-plan@2` |
+| `reference/whitehouse.gov/national-security-strategy/2010/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-security-strategy@2010` |
+| `reference/whitehouse.gov/national-security-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-security-strategy@2015` |
+| `reference/whitehouse.gov/national-security-strategy/2017/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-security-strategy@2017` |
+| `reference/whitehouse.gov/national-security-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-security-strategy@2022` |
+| `reference/whitehouse.gov/national-security-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/national-security-strategy@2025` |
 | `reference/wikimedia.org/security-team-definitions/` | structured | 6 | `MX·CSP·` | `secid:reference/wikimedia.org/security-team-definitions` |
 | `reference/wpscan.com/wpscan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/wpscan.com/wpscan-glossary` |
 | `reference/xonasystems.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/xonasystems.com/cybersecurity-glossary` |

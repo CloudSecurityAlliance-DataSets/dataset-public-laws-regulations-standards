@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/national-cyber-strategy@2016-2021",
+  "name": "National Cyber Security Strategy 2016 to 2021",
+  "acronym": "NCSS",
+  "alternate_names": [],
+  "version": "2016-2021",
+  "publication_id": "national-cyber-strategy-2016-2021",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom National Cyber Security Strategy 2016 to 2021 (HM Government), organized around Defend, Deter, and Develop.",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/national-cyber-security-strategy-2016-to-2021",
+    "textUsed": "https://www.gov.uk/government/publications/national-cyber-security-strategy-2016-to-2021",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2016-11-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gov.uk/national-cyber-strategy@2022",
+    "retiredFromActiveUse": "2016-11-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 80-page official GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a81914de5274a2e8ab54ae9/national_cyber_security_strategy_2016.pdf) to Markdown (164,029 chars) and parsed 284 sections (152 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/parl.ca/national-security-act-2017",
+  "name": "An Act respecting national security matters (National Security Act, 2017, S.C. 2019, c. 13)",
+  "acronym": "NSA 2017",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "national-security-act-2017",
+  "owner": "Parliament of Canada",
+  "type": "Regulation",
+  "subtype": [
+    "legislation"
+  ],
+  "description": "Comprehensive national security reform statute (Bill C-59, S.C. 2019, c. 13) enacting the NSIRA Act, the Communications Security Establishment Act (CSE Act, establishing statutory active and defensive cyber operations powers), the Avoiding Complicity in Mistreatment by Foreign Entities Act, and the Security of Canada Information Disclosure Act.",
+  "relationToCloudSecurity": "Governs federal cyber security, intelligence review, and critical cyber system protection obligations affecting cloud and telecommunications infrastructure in Canada.",
+  "relationToAISecurity": "Applies to automated and AI-enabled systems within federally regulated critical infrastructure and national security operations.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://laws-lois.justice.gc.ca/eng/annualstatutes/2019_13/",
+    "textUsed": "https://laws-lois.justice.gc.ca/eng/annualstatutes/2019_13/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Committed authoritative legislative XML (https://www.parl.ca/Content/Bills/421/Government/C-59/C-59_4/C-59_E.xml) as national-security-act-2017.xml and extracted 242 statutory sections into national-security-act-2017.md, national-security-act-2017-sections.csv, and national-security-act-2017-sections.json."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "xml.etree.ElementTree (Justice Canada / Parliament of Canada legislative XML)"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
+}

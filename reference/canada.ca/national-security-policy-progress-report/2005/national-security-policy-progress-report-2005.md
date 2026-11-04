@@ -1,0 +1,829 @@
+# Securing an Open Society: One Year Later — Progress Report on the Implementation of Canada's National Security Policy (2005)
+
+Library and Archives Canada Cataloguing in Publication
+
+Securing an open society - one year later : progress report on the implementation of Canada’s national security policy
+
+Text in English and French on inverted pages. Title on added t.p.: Protéger une société ouverte – un an après : rapport d’étape sur la mise en œuvre de la politique canadienne de sécurité nationale
+
+Available also on the Internet: www.pco-bcp.gc.ca
+
+ISBN 0-662-68980-1 Cat. no. CP22-77/2005
+
+1. National security – Canada. 2. Internal security – Canada. 3. Civil defence – Canada. 4. Emergency management – Canada – Planning. 5. Security – International. I. Canada. Privy Council Office.
+
+UA600.S42 2005 355’.033071 C2005-980116-6E
+
+To obtain print copies: Phone: (613) 957-5153 TTY/TDD (613) 957-5741 Fax: (613) 957-5043 E-mail: info@pco-bcp.gc.ca
+
+8 Her Majesty the Queen in Right of Canada, 2005.
+
+## Message from the Deputy Prime Minister
+
+Canadians live in an increasingly complex and uncertain world. Terrorist organizations continue to disrupt societies and claim innocent lives each year. The threat of a devastating global flu epidemic is growing. The Indian Ocean tsunami last December is a striking reminder that Canada is not immune from natural disasters.
+
+On April 27, 2004, the Government of Canada released Securing an Open Society: Canada’s National Security Policy. The policy articulates Canada’s core national security interests and provides a framework within which the Government will work with others—provinces, territories, first line responders, communities, the private sector and allies—to address current and future threats to our country. The key Canadian values of democracy, human rights, respect for the rule of law, and pluralism are embodied throughout the policy.
+
+Building the dynamic, responsive and integrated security system described in Securing an Open Society: Canada’s National Security Policy requires a sustained effort over time. In fact, the job of promoting national security will never be completely finished. Nevertheless, in the months since the National Security Policy was released, significant progress has been made in addressing gaps in our system, in further strengthening Canada’s threat assessment, prevention and response capabilities, and in implementing a number of initiatives identified in the policy, as well as several other national security enhancements.
+
+The Cross-Cultural Roundtable on Security was created to engage Canadians and the Government of Canada in a long-term dialogue on matters related to national security as they impact a diverse and pluralistic society. The Government is also in the process of setting up an Advisory Council on National Security. The Government has established the Integrated Threat Assessment Centre, which provides comprehensive threat assessments to key partners in the security and intelligence community. Parliament passed legislation in March 2005, which came into force in early April 2005, that provides the legal foundation for the new department, Public Safety and Emergency Preparedness Canada.
+
+A new Government Operations Centre has been established to provide stable, around-the-clock coordination and support across government and to key national players in the event of a national emergency. Canada’s capacity to prepare for and respond to health emergencies has also been strengthened with the creation of the new Public Health Agency of Canada and the appointment of our first Chief Public Health Officer.
+
+Improvements continue to be made in transportation security. The on-water presence of the Canadian Forces and Canadian Coast Guard has been increased, and Canada-U.S. cooperation on marine security has been strengthened. Additional measures have also been implemented to further strengthen aviation security and to secure Canada’s land border.
+
+Our relationships within North America are of the utmost importance in ensuring a stronger, more secure and more prosperous Canada. At their meeting on March 23, 2005, Prime Minister Martin, U.S. President Bush and Mexican President Fox launched the Security and Prosperity Partnership of North America to develop new avenues of cooperation that will make North American open societies safer and more secure, businesses more competitive and economies more resilient. The three leaders committed to establishing a common approach to security to protect North America from external threats, to prevent and respond to threats within North America, and to further streamline the secure and efficient movement of legitimate, low-risk traffic across shared borders.
+
+On April 19, 2005, the Government issued Canada’s International Policy Statement—A Role of Pride and Influence in the World, the country’s first integrated plan designed to strengthen Canada’s role in the world. The Statement assesses the need for Canada to invest in its defence and security, international commitments and foreign aid in order to support a strong international role. It outlines a targeted approach, based on Canadian strengths and values, that will enable Canada to focus its efforts in order to be more effective and influential.
+
+The National Security Policy put Canada on a long-term path to enhancing the security of our country. While progress has been made in implementing the policy, much remains to be done.
+
+To this end, Budget 2005 commits an additional $1 billion over five years (on an accrual basis) for key national security initiatives. This brings to more than $9.5 billion the additional investments made by the Government of Canada in national security initiatives since the terrorist attacks of September 11, 2001.
+
+As well, Budget 2005 provides Canada’s military with $7 billion in new budgetary funding over the next five years, which will support $12.8 billion in additional expenditures by the Canadian Forces in that period—the largest increase in defence funding in the past 20 years. Canada will also invest $34 million over five years to improve pandemic influenza preparedness.
+
+Working with our many partners at home and abroad, the Government will continue to take steps to build a more integrated security system to better protect Canada and Canadians and to contribute to a safer world. We will fulfill this core responsibility of government in a way that ensures that ours remains an open and welcoming society, where cultural and religious differences are respected and fundamental human rights and freedoms are enjoyed by all citizens.
+
+A. Anne McLellan Deputy Prime Minister and Minister of Public Safety and Emergency Preparedness
+
+## Table of Contents
+
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Canada’s Approach to National Security:
+
+Building an Integrated Security System . . . . . . . . . . . . . . . . . . . . 5
+
+Intelligence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Emergency Planning and Management . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+Public Health Emergencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Transportation Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+Border Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+International Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+## Executive Summary
+
+Securing an Open Society: Canada’s National Security Policy was released by the Government of Canada on April 27, 2004. The first-ever policy of its kind in Canada, it sets out a strategic framework and action plan designed to ensure that the Government of Canada can prepare for and respond to a range of security threats, including terrorist attacks, outbreaks of infectious diseases, natural disasters, cyber attacks on critical infrastructure and domestic extremism.
+
+The Policy focuses on three core national security interests:
+
+1. protecting Canada and the safety and security of Canadians at home and abroad; 2. ensuring Canada is not a base for threats to our allies; and 3. contributing to international security.
+
+The National Security Policy focuses attention and actions on building a more integrated security system and sets out specific actions in six key areas: intelligence, emergency planning and management, public health emergencies, transportation security, border security, and international security.
+
+Over the last year, significant progress has been made in implementing a number of initiatives identified in the National Security Policy, as well as several other national security enhancements.
+
+### Highlights of Key Achievements
+
+Integrated Security System
+
+• Separate reviews of the Anti-Terrorism Act are now underway by the House of Commons and the Senate. In the House of Commons, the review is being undertaken by the Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness. The Senate has created a special committee specifically to undertake the review of the Anti-Terrorism Act.
+
+• The Cross-Cultural Roundtable on Security has been created to provide a forum for men and women from diverse ethnocultural backgrounds to discuss emerging trends and developments emanating from national security matters. It facilitates a broad exchange of information between the Government and diverse communities on the impact of national security issues, consistent with Canadians’ rights and responsibilities. The Roundtable also
+
+serves to better inform policy makers by providing insights into how national security measures may impact Canada’s diverse communities and promoting the protection of civil order, mutual respect and common understanding.
+
+• The Government is in the process of establishing an Advisory Council on National Security; this will allow the Government to receive advice from security experts external to government on issues related to national security and on strategies, mechanisms and activities required to develop, implement, evaluate and improve a fully integrated security system.
+
+• The Government has recently released details of a proposed model for a National Security Committee of Parliamentarians, initially put forward by the Prime Minister on December 12, 2003, and included in the Government’s Action Plan on Democratic Reform.
+
+• Improvements have been made to Canada’s watch list system, to ensure that watch lists are better integrated and updated on a real- time basis and that appropriate safeguards are in place to respect the privacy rights of Canadians.
+
+Intelligence
+
+• The Integrated Threat Assessment Centre (ITAC), comprising staff from across the federal security and intelligence community, began operations in October 2004. To date, ITAC has prepared and distributed over 40 comprehensive threat assessments to key partners in the intelligence community, other government departments and first line responders.
+
+• The Communications Security Establishment has significantly enhanced its security intelligence focus and collection capabilities.
+
+• The Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar has issued a call for proposals to assist in formulating recommendations on a review mechanism for the national security activities of the Royal Canadian Mounted Police (RCMP).
+
+Emergency Planning and Management
+
+• The new Government Operations Centre is providing stable, around-the-clock coordination and support across government and to key national players in response to situations and events affecting the national interest.
+
+• The Canadian Cyber Incident Response Centre was established in February 2005. The centre has a mandate to deal with threats and attacks to Canada’s cyber critical infrastructure and operates 24/7.
+
+• Federal, provincial and territorial ministers responsible for emergency management have established a permanent, high-level forum on emergencies and approved a detailed work plan to improve emergency preparedness throughout the country.
+
+• Federal, provincial and territorial ministers responsible for emergency management met for the first time in 11 years in January 2005.
+
+• The Government released a position paper on a National Critical Infrastructure Protection Strategy for Canada. The paper will inform a national dialogue leading to the development of a forward-looking, resilient Canadian strategy.
+
+• In January 2005, the Communications Security Establishment held a Cyber Security Forum, which brought together government decision makers, information technology (IT) security professionals and industry to more effectively align IT security efforts within the Government of Canada with the National Security Policy.
+
+• Canada participated with the United States and the United Kingdom in Exercise TRIPLE PLAY / TOPOFF 3 / ATLANTIC BLUE, a major counterterrorism exercise to assess Canada’s ability to collaborate effectively with international partners in the event of a terrorist attack or other emergency.
+
+• On March 31, 2005, the Government issued the Chemical, Biological, Radiological and Nuclear Strategy of the Government of Canada.
+
+• Development and implementation of the National Emergency Response System is ongoing under the leadership of Public Safety and Emergency Preparedness Canada.
+
+Public Health Emergencies
+
+• The Government strengthened Canada’s public health and emergency response capacities through the creation in September 2004 of the Public Health Agency of Canada. On September 24, 2004, Dr. David Butler-Jones was appointed Canada’s first Chief Public Health Officer.
+
+• A national office was established to facilitate the creation and operation of health emergency response teams, made up of volunteer health professionals who will be trained and equipped to assist local authorities in emergency situations.
+
+• The Government established a state-of-the-art emergency operations centre at the National Microbiology Laboratory.
+
+• The Government has deployed key elements of the Canadian Integrated Outbreak Surveillance Centre.
+
+• The Government has provided $300 million to the provinces and territories for the National Immunization Strategy.
+
+• The Government has provided $100 million to the provinces and territories to relieve stress on the front lines of their public health systems and to address immediate gaps in capacity.
+
+• The Government announced a federal contribution of $24 million toward the creation of a national antiviral stockpile for use against an influenza pandemic.
+
+Transportation Security
+
+• The Government is establishing Marine Security Operations Centres on the east and west coasts to bring together civilian and military resources necessary to detect, assess and respond to a marine security threat.
+
+• The Canadian Forces, RCMP and Canadian Coast Guard have increased their on-water presence, and the Department of Fisheries and Oceans has increased its aerial surveillance activities.
+
+• Canada is strengthening marine defence and security cooperation with the U.S. For example, Transport Canada and the U.S. Coast Guard have finalized a bilateral agreement to implement the International Ship and Port Facility Security Code.
+
+• The Marine Facility Security Contribution Program came into effect on December 1, 2004, and will assist ports and port facilities with security enhancement. Additional funds are also being made available to improve security at Transport Canada’s public ports and public port facilities.
+
+• Transport Canada’s Transportation Security Clearance program, which currently only applies to aviation workers, is being expanded to include marine workers as well. Options are also being considered for extending the requirements for security background checks to other transportation workers, with particular attention to issues of access to restricted areas and the transportation of dangerous goods.
+
+• Application of the Airport Restricted Area Access Clearance Program has been strengthened and the Non-Passenger Screening Program was launched to enhance airport security.
+
+• Canada continues to work with the U.S. and other international partners to enhance security throughout the intermodal transportation system. One example of this work is the Canada-U.S. Cargo Security Project, which will test container security technology.
+
+• Transport Canada has launched the development of a national Transportation Security Strategy.
+
+Border Security
+
+• A new Canadian passport that uses a biometric chip for facial recognition is being developed and tested. The new passport will be issued to Canadians beginning in August 2006.
+
+• Implementation of the RCMP’s Real Time Identification project is proceeding.
+
+• Canada and the U.S. implemented the Safe Third Country Agreement at the land border in December 2004.
+
+• Progress continues to be made in implementing the Canada-U.S. Smart Border Declaration. The fifth status report was released in December 2004, indicating significant progress made on many elements of the 32-point Action Plan.
+
+• A framework has been issued to implement land pre-clearance pilot projects at the Buffalo–Fort Erie Peace Bridge and at one other Canada-U.S. border crossing.
+
+• The Free and Secure Trade (FAST) program has been expanded to seven new high-volume commercial crossings along the Canada- U.S. land border.
+
+• The NEXUS-Air pilot project for pre-approved, low-risk air travellers, which uses iris scan biometric technology, was initiated at the Vancouver International Airport in November 2004.
+
+International Security
+
+• On April 19, 2005, the Government issued Canada’s International Policy Statement—A Role of Pride and Influence in the World, the country’s first integrated plan designed to strengthen Canada’s role in the world.
+
+• The Security and Prosperity Partnership of North America was launched by the leaders of Canada, the U.S. and Mexico on March 23, 2005.
+
+• Canada is creating a Counterterrorism Capacity Building Program that will contribute to the security of Canadians and the inhabitants of vulnerable states by providing those states with training, funding, equipment and technical and legal assistance to enable them to prevent and respond to terrorist activity.
+
+• Canada continues to play an important role in preventing the proliferation of weapons of mass destruction. A Canadian resolution establishing an expert panel on verification measures for non-proliferation and disarmament was adopted by the United Nations General Assembly in December 2004.
+
+• The Government is establishing a special fund for global peace and security initiatives.
+
+### Budget 2005 Commitments
+
+Although significant progress has been achieved on many aspects of the National Security Policy, implementation of the policy and further enhancements to national security will require ongoing work and investment of resources.
+
+Budget 2005 allocates $1 billion over five years (on an accrual basis) for key national security initiatives, including improvements to marine transportation security, cargo security, border security, emergency management initiatives, and security at Canadian diplomatic missions abroad. This brings to more than $9.5 billion the Government of Canada’s additional investments in national security initiatives since the terrorist attacks of September 11, 2001.
+
+Additionally, Budget 2005 provides Canada’s military with $7 billion in new budgetary funding over the next five years, which will support $12.8 billion in additional expenditures by the Canadian Forces in that period—the largest increase in defence funding in the past 20 years. Budget 2005 also includes $34 million over five years to improve pandemic influenza preparedness as well as $100 million to fund global peace and security initiatives.
+
+## Introduction
+
+There is no such thing as a risk-free society. Canadians, like others around the world, face an increasingly complex, volatile and ever-changing threat environment. Terrorist attacks often top the list of potential security threats, but Canadians’ health, safety and economic stability can be threatened by many events, including outbreaks of infectious diseases such as severe acute respiratory syndrome (SARS), natural disasters, cyber attacks on critical infrastructure and domestic extremism.
+
+Ensuring the security of Canadians is a core responsibility of government. Since the terrorist attacks of September 11, 2001, the Government of Canada has invested more than an additional $9.5 billion to improve Canada’s own security and to contribute to international security. Improvements have been made in relation to intelligence, emergency planning and management, public health emergencies, transportation security, border security and international security.
+
+On April 27, 2004, the Government released Securing an Open Society: Canada’s National Security Policy, which sets out a strategic framework and action plan designed to ensure that the Government of Canada can prepare for and respond to current and future threats. The policy adopts an integrated approach to addressing security issues across government, employs a flexible model that can adapt to changing circumstances, and reflects Canadian values of democracy, human rights, respect for the rule of law and pluralism.
+
+The policy focuses on three core national security interests:
+
+1. protecting Canada and the safety and security of Canadians at home and abroad; 2. ensuring Canada is not a base for threats to our allies; and 3. contributing to international security.
+
+The National Security Policy commits to building an integrated security system and sets out specific actions in six key areas: intelligence, emergency planning and management, public health emergencies, transportation security, border security and international security. As well, it includes measures to improve collaboration with key partners, such as the provinces and territories, first line responders, the private sector, communities and allies.
+
+The recent investments of $1 billion over five years (on an accrual basis) with Budget 2005, include the following:
+
+• $59 million to address the most pressing security needs at Canadian diplomatic missions abroad;
+
+• $56 million for emergency management initiatives, including disaster preparedness drills, a new communications system linking government agencies to allow better communication of classified information and refinement of plans to handle a large-scale power outage;
+
+• $16 million for science and technology collaboration activities;
+
+• $222 million to further enhance the security of Canada’s marine transportation system;
+
+• $88 million for Canada to work with the U.S. to develop better intelligence, share critical information and verify inspections of cargo containers destined for North America;
+
+• $16 million for the development and assessment of systems to collect information about air travellers for national security purposes;
+
+• $433 million to strengthen Canada’s capacity to deliver secure and efficient border services; and
+
+• $120 million to fight money laundering and terrorist financing.
+
+Budget 2005 provides Canada’s military with $7 billion in new budgetary funding over the next five years, which will support $12.8 billion in additional expenditures by the Canadian Forces (CF) in that period. It delivers on the Government’s commitment in the October 2004 Speech from the Throne to expand the CF by 5,000 Regulars and 3,000 Reserves. Building on the Pandemic Influenza Plan announced in February 2004 and the $24 million recently announced to purchase antivirals, a further $34 million will be invested over five years to improve pandemic influenza preparedness. Budget 2005 allocates $78 million to continue to ensure that Canada is not a safe haven for war criminals. As well, $100 million over five years will fund global peace and security initiatives as part of a $3.4-billion increase in international assistance.
+
+Securing an Open Society: One Year Later describes progress in implementing a number of initiatives identified in the National Security Policy, as well as several other national security enhancements. Although significant progress has been achieved on many aspects of the policy, its
+
+ongoing implementation will require additional work and the ongoing investment of resources. In fact, the job of promoting national security will never be completely finished. Building on the many measures taken to date, the Government will continue to implement strategies and initiatives to meet the evolving threat environment, enhance the security of Canadians, and contribute to international security in the 21st century.
+
+Securing an Open Society: Canada’s National Security Policy is available on-line at www.pco-bcp.gc.ca/docs/Publications/NatSecurnat/natsecurnat_e.pdf.
+
+## Canada’s Approach to National Security:
+
+## Building an Integrated Security System
+
+Key Achievements
+
+• The Cross-Cultural Roundtable on Security has been created and has held its first meeting. • The Government is in the process of establishing the Advisory Council on National Security. • The Government has recently released details of a proposed model for a National Security Committee of Parliamentarians. • Canada’s watch list system has been strengthened.
+
+Context
+
+The Canadian way of life is based on an openness to ideas and innovations, and to people from every part of the world. It is also based on a deep commitment to democracy, the rule of law, respect for human rights and pluralism, and the rejection of intolerance, extremism and violence. Canada’s National Security Policy was devised to support and adhere to these core values while allowing us to counteract and respond to those who would seek to abuse our openness.
+
+Canada is building an integrated security system to ensure that all necessary government resources are brought to bear in a coordinated way to protect the security of Canadians. This “whole-of-government” approach to national security enables us to do more with the resources committed to security, and to do it better.
+
+As described in the National Security Policy and illustrated in the following diagram, this integrated security system begins with a comprehensive threat assessment that provides tactical and strategic information about risks to Canada (intentional and unintentional threats). Threat information is then used to structure and activate proportionate, integrated responses to prevent or mitigate the effects of potential threats. When an event occurs, an integrated system for managing its consequences is triggered, including the deployment of expertise related to the response and identification, investigation and prosecution of those who have committed criminal or terrorist acts. Finally, effective evaluations and reviews are conducted to learn from past experiences and ensure the system continues to improve.
+
+INTEGRATED SECURITY SYSTEM
+
+Progress in Implementing the National Security Policy
+
+Review of the Anti-Terrorism Act
+
+The Anti-Terrorism Act was enacted in December 2001 in the wake of the September 11, 2001, terrorist attacks. The Act is part of the Government of Canada’s overall anti-terrorism strategy.
+
+The Anti-Terrorism Act was carefully crafted by parliamentarians to give ministers of the Crown, government departments and law enforcement agencies the tools and authorities to combat terrorists and terrorist organizations while also respecting Canada’s Charter of Rights and Freedoms and the core values of Canadians. Among its safeguards is a requirement for a comprehensive parliamentary review of the Act after three years of operation to ensure that an appropriate balance has been struck.
+
+Separate reviews of the Anti-Terrorism Act are now underway by the House of Commons and the Senate. In the House of Commons, the review is being undertaken by the Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness. The Senate has created a special committee specifically to undertake the review of the Anti-Terrorism Act.
+
+Both committees began public hearings in February 2005 and have heard from a number of witnesses, including the Deputy Prime Minister and Minister of Public Safety and Emergency Preparedness and the Minister of Justice and Attorney General of Canada. The Anti-Terrorism Act requires that the committees submit a report to Parliament within one year of the commencement of the review, unless their mandates are extended.
+
+Cross-Cultural Roundtable on Security
+
+The Government of Canada needs the help and support of all Canadians to make its approach to security effective. To this end, the Government of Canada has created the Cross-Cultural Roundtable on Security.
+
+The Roundtable provides a forum for men and women from diverse ethnocultural backgrounds to discuss emerging trends and developments emanating from national security matters. It facilitates a broad exchange of information between the Government and diverse communities on the impact of national security issues, consistent with Canadians’ rights and responsibilities. The Roundtable also serves to better inform policy makers by providing insights into how national security measures may impact
+
+Canada’s diverse communities and promoting the protection of civil order, mutual respect and common understanding.
+
+The Roundtable membership was announced in February 2005 and the first meeting was held on March 7 and 8, 2005. Members met with the Deputy Prime Minister and Minister of Public Safety and Emergency Preparedness, the Minister of Justice and Attorney General of Canada, the Minister of State for Multiculturalism, and senior officials from government departments and agencies with national security responsibilities. Participants came away with an enhanced understanding of the National Security Policy, the security threat environment, the expectations, role and responsibilities of the Roundtable, and priorities for future meetings. The Roundtable will meet up to four times a year.
+
+Advisory Council on National Security
+
+In September 2004, the Government issued a call for expression of interest in serving on the Advisory Council on National Security. The Council will give the Government of Canada the benefit of advice from security experts outside government. The Council will advise the Government through the National Security Advisor to the Prime Minister on issues related to national security and on strategies, mechanisms and activities required to develop, implement, evaluate and improve a fully integrated security system. The National Security Advisor will report regularly on the work of the Council to the Cabinet Committee on Security, Public Health and Emergencies and to the Prime Minister.
+
+The Council will include individuals with expertise and experience relevant to national security issues in such areas as intelligence, law and policy, human rights and civil liberties, emergency planning and management, public health emergencies, public safety, transportation security, border security and international security. Members will serve, however, in their individual capacities and not as representatives of specific entities or interest groups.
+
+National Security Committee of Parliamentarians
+
+Work has progressed toward the establishment of a National Security Committee of Parliamentarians, initially proposed by the Prime Minister on December 12, 2003, and included in the Government’s Action Plan on Democratic Reform.
+
+In March 2004, the Deputy Prime Minister tabled in Parliament a consultation paper to help inform the creation of such a committee. The Interim Committee of Parliamentarians on National Security, comprising representatives from all parties from the House of Commons and the
+
+Senate, was subsequently established to make recommendations on the composition and mandate of such a committee. After receiving input from federal officials and other stakeholders in Canada, the U.S., Australia and the U.K., the Interim Committee submitted its report and recommendations to the Deputy Prime Minister in October 2004.
+
+On April 4, 2005, the Government tabled in Parliament the report of the Interim Committee on National Security and released details of a proposed National Security Committee of Parliamentarians. Legislation is expected to be introduced later this year.
+
+Strengthened Protection and Prevention Capacity
+
+The National Security Policy provides for better threat assessment capabilities (see section on Intelligence) that will allow the Government to more effectively coordinate activities in response to threat information. At the same time, the Government must ensure that its own systems are structured to better share such information.
+
+Of particular importance is the need to address gaps and inconsistencies in Canada’s watch list system, as noted by the Auditor General of Canada and others, to ensure that it is fully integrated and updated on a regular basis. As well, steps must be taken to ensure that appropriate safeguards are in place to respect the privacy rights of Canadians. Significant work has been undertaken to address gaps and inconsistencies in four types of watch lists.
+
+• Lost and stolen Canadian passports list. Information on lost, stolen or fraudulent passports is now available electronically to officers at our ports of entry and other enforcement personnel across Canada, including at airports, bus lanes at border crossings and selected commercial highway, rail, ferry and cruise ship locations. Electronic access to this information will be extended to other ports in the near future.
+
+• Terrorist watch list. The National Risk Assessment Centre was established in January 2004 to increase the ability of Canada and the U.S. to detect and prevent the illegal movement of people and goods and, through information sharing, to identify risks posed by persons arriving in either country. Canada and the U.S. are now exchanging risk- scored advanced passenger information and passenger name record data to identify potential risks posed by travellers on international flights destined for either country. As well, enforcement immigration indexes for terrorism and organized crime have been reviewed and updated to ensure accuracy and reliability. Quality control measures have also
+
+been implemented to ensure the reliability of terrorist watch lists.
+
+• Interpol Red Notices. The Canada Border Services Agency (CBSA) and the Royal Canadian Mounted Police (RCMP) are working together to examine an electronic interface to transfer Interpol Red Notices to CBSA’s lookout system. This would replace the current manual, paper-based process and improve the timeliness, reliability and management of lookout. The RCMP is also proposing to provide a link on the Canadian Police Information Centre (CPIC) Web site to allow direct access to the Interpol Electronic Automated Search Facility, thus permitting real-time access to the Red Notice and other Interpol databases.
+
+• Outstanding Canada-wide arrest warrants list. It is expected that CBSA officials will have access through their operational data systems to information on outstanding “wants” (persons wanted for questioning) and arrest warrants contained in the CPIC system by the fall of 2005.
+
+Work is also proceeding to improve the ability of public safety personnel to more easily and quickly share secret information, including threat information. Public Safety and Emergency Preparedness Canada (PSEPC) is currently developing plans to test an expansion of the federal computer network to handle secret information. A technical solution has been developed and detailed project planning is underway, supported by Budget 2005 funding, with implementation across key security agencies expected over the next three years.
+
+Related Initiatives
+
+PSEPC is leading the development of a comprehensive plan to improve the ability of public safety personnel to share information easily and quickly. The Public Safety and Security Information Sharing and Interoperability Initiative was launched in April 2004. The project is developing a Government of Canada approach for ensuring that information required for the safety and security of Canadians is available to the right people, at the right time and for the right reasons, while respecting privacy, transparency and accountability mechanisms such as the Charter of Rights and Freedoms, the Privacy Act and Treasury Board policies. This is a complex undertaking that involves many layers of work and will evolve over time. Specific strategies to address key interoperability gaps are currently being developed. For example, a national strategy for radio communications interoperability is being developed for the fall of 2005. The current marine security initiative
+
+providing Secure Radio for On-Water Response Teams will be a pathfinder in developing this strategy.
+
+Complementing PSEPC’s Public Safety and Security Information Sharing and Interoperability Initiative is the Maritime Information Management Data Exchange program, under the leadership of the Department of National Defence (DND). This program will provide federal agencies with an essential collaborative tool to improve awareness of activities within the maritime domain.
+
+The Government is also developing legislation to modernize Canadian laws that define the rules for lawful access (the lawful interception of communications and the search and seizure of information by law enforcement and security officials). Rapidly evolving technologies, such as the Internet and cellular phones, are challenging the ability of police and intelligence officials to lawfully access information needed to ensure public safety. To address the problem, new legislation will be proposed to compel telephone and Internet companies to make their systems intercept capable and to ensure, when required by law, timely access to basic customer name and address information. As well, the Government is developing amendments to the Criminal Code and other federal acts to address new technology and permit ratification of the Council of Europe Convention on Cybercrime. Officials from PSEPC, Justice Canada and Industry Canada have undertaken follow-up consultations with key stakeholders based on detailed proposals.
+
+Money laundering and terrorist financing activities often involve intricate networks of financial transactions. As a result of its ability to trace such networks, the Financial Transactions Reports Analysis Centre of Canada (FINTRAC) made almost 200 disclosures to law enforcement and intelligence agencies of suspected money laundering and terrorist financing activities last year. More than 40 of these were related to suspected terrorist financing activities.
+
+Through the Integrated Proceeds of Crime initiative, RCMP investigators and the Department of Justice Canada legal counsel—as well as investigators from several federal departments and agencies—work with municipal, provincial and international partners in integrated teams across the country. These teams help to seize profits and assets from criminal organizations and are an important tool in the federal government’s efforts to combat organized crime. Budget 2005 renews the Integrated Proceeds of Crime initiative on an ongoing basis and provides funding of $117 million over the next five years for this purpose.
+
+## Intelligence
+
+Key Achievements
+
+• The Integrated Threat Assessment Centre has been established and is operational. • Canada’s capabilities for intelligence collection and assessment have been increased; the focus on security has been enhanced. • The Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar has issued a call for proposals to assist in formulating recommendations on a review mechanism for the national security activities of the RCMP.
+
+Context
+
+Accurate, up-to-date and reliable intelligence about the threats facing Canada and Canadians is crucial to effective decision making on issues of national security, as well as international, military and economic policy.
+
+The Government of Canada has made significant investments to enhance its intelligence collection and assessment capabilities since the tragic events of September 11, 2001. These include increases in the budgets for the Canadian Security Intelligence Service (CSIS) and the Communications Security Establishment (CSE), as well as increased funding for intelligence activities within the CBSA, Transport Canada and the Privy Council Office. Legislative changes have also been implemented to strengthen Canada’s ability to respond to evolving threats. Since 9/11, CSE and CSIS have continued to collaborate more closely, with both organizations maintaining a much stronger shared focus on terrorism and other security challenges.
+
+The National Security Policy includes additional measures to enhance Canada’s intelligence collection and assessment capabilities and strengthen mechanisms for accountability and review.
+
+Progress in Implementing the National Security Policy
+
+Integrated Threat Assessment Centre
+
+Canada’s new Integrated Threat Assessment Centre (ITAC) began operations in October 2004. ITAC is housed within CSIS and works in conjunction with the National Security Advisor to the Prime Minister.
+
+In addition to staff from CSIS, ITAC includes representatives of PSEPC, the RCMP, CSE, DND, Foreign Affairs, Transport Canada, CBSA and the Privy Council Office.
+
+ITAC’s primary objective is to produce comprehensive threat assessments, which are distributed within the intelligence community, to policy makers and to relevant first line responders on a timely basis. Such assessments allow the Government to more effectively coordinate activities in response to potential threats in order to prevent or mitigate risks to public safety.
+
+Depending on the level of security classification, threat assessments produced by ITAC may be shared with other levels of government in Canada, private sector partners and allied agencies in other countries. ITAC liaises with the National Counterterrorism Center in the U.S. and similar centres in the U.K., Australia and New Zealand. Over 40 assessments have already been prepared and made available to key partners as appropriate.
+
+Increase Intelligence Capabilities and Focus
+
+Over the past year, CSE has significantly enhanced its security intelligence focus and collection capabilities.
+
+For example, CSE’s Office of Counterterrorism now operates seven days a week. New analysts have been hired, and counterterrorism and security requirements have been elevated to the top tiers of CSE’s signal intelligence (SIGINT) priorities. Given the security threats facing Canada and its allies, CSE is devoting a greater proportion of its efforts to security intelligence.
+
+A multi-year implementation plan and performance measurement framework has been developed for the SIGINT program, with the goal of strengthening CSE’s leading edge intelligence collection capabilities. CSE’s enhancements in collection have allowed for closer technical integration with the signals intelligence activities of Canada’s allies.
+
+SIGINT representatives from CSE have been placed in ITAC. CSE has also hired additional personnel to enhance its support to CF operations, and has taken steps to strengthen its overall recruitment and hiring practices. In 2005-06, CSE will continue to integrate personnel into key Canadian and allied agencies to promote awareness of its foreign signals intelligence capabilities and improve information sharing.
+
+The international nature of the threat posed by terrorist groups and networks, whose aims and intentions directly affect Canadian interests and the security of Canadians, demands that CSIS continues to increase its collection efforts abroad and to report to Government on imminent, ongoing and future threats to Canadians at home and abroad. Enhanced capabilities have been supported by Budget 2004 and Budget 2005 funding.
+
+Review Mechanism for the National Security Activities of the RCMP
+
+Many security intelligence activities, by their very nature, take place outside the purview of public scrutiny. Canada has a number of effective mechanisms in place to ensure that security agencies exercise their authorities and undertake activities in an appropriate manner that complies with Canadian law and policy. These include the Security Intelligence Review Committee and the Inspector General for CSIS, the Commissioner of CSE, and the Commission for Public Complaints Against the RCMP.
+
+The Government has proposed the establishment of a new arm’s length review mechanism for the RCMP’s activities relating to national security. Mr. Justice Dennis O’Connor, as part of his mandate for the Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar, has been asked to provide recommendations for such a mechanism.
+
+Working with an advisory panel, Justice O’Connor developed a consultation paper and related background papers for public review and comment, with a deadline for submissions of February 21, 2005. As of April 1, 2005, 18 submissions had been forwarded to the Commission. Justice O’Connor will hold public and private consultations in 2005 before submitting a final report and recommendations.
+
+## Emergency Planning and Management
+
+Key Achievements
+
+• The new Government Operations Centre is operational 24/7. • The Canadian Cyber Incident Response Centre was established in February 2005. The centre has a mandate to deal with threats and attacks to Canada’s cyber critical infrastructure and operates 24/7. • Federal, provincial and territorial governments have established a permanent, high-level forum on emergencies. • Federal, provincial, and territorial ministers responsible for emergency management met for the first time in 11 years in January 2005. • The Government released a position paper on a National Critical Infrastructure Protection (CIP) Strategy for Canada. • In January 2005, CSE held a Cyber Security Forum, which brought together government decision makers, information technology (IT) security professionals and industry to more effectively align IT security efforts within the Government of Canada with the National Security Policy. • Canada participated with the U.S. and U.K. in a major counterterrorism exercise. • On March 31, 2005, the Government issued The Chemical, Biological, Radiological and Nuclear (CBRN) Strategy of the Government of Canada. • Development and implementation of the National Emergency Response System (NERS) is ongoing under the leadership of PSEPC. • Budget 2005 allocates $56 million over five years for emergency management initiatives such as a system for secret communications, support to the Cross-Cultural Roundtable and the federal-provincial-territorial forum on emergencies, federal department business continuity plans, and support to critical energy infrastructure.
+
+Context
+
+The Indian Ocean earthquake and resulting tsunamis that hit many parts of Asia and east Africa in December 2004 provide stark evidence of the power of nature to destroy lives and livelihoods, demolish infrastructure, disrupt economies, wreak havoc over large geographic areas, and wipe out hard-won development gains made possible with support from the international community. Canada’s response to the crisis included deployment of the CF Disaster Assistance Response Team
+
+(DART) and ongoing contributions to the rehabilitation and reconstruction efforts in affected countries. Canadians showed their generosity of spirit through unprecedented private donations of almost $200 million to international aid agencies.
+
+Canada has experienced its own array of natural emergencies in recent years. Although not on the scale of the crisis in Southeast Asia, the challenges of ice storms, blackouts, floods, forest fires and medical emergencies such as SARS have demonstrated the need for quick and appropriate response mechanisms at the local, provincial and federal levels. Combined with events like those of 9/11 and the possibility of a terrorist attack on Canadian soil, these emergencies have brought home the need to modernize and transform our national emergency management system.
+
+The National Security Policy includes a number of commitments to help Canada move to a more modern, integrated national support system for first line responders, who lie at the heart of our emergency management system. Building on the measures taken to date—and acknowledging that it will often play only a supporting role in emergency management to provinces and territories, communities and the private sector—the Government is focusing on:
+
+• putting its own house in order by addressing the highest priority gaps; and
+
+• launching a collaborative process to determine how to collectively modernize the national system of emergency management.
+
+Budget 2005 provides $56 million in funding over five years for emergency management initiatives.
+
+Progress in Implementing the National Security Policy
+
+Strategic Coordination
+
+Fulfilling a key commitment in the National Security Policy, the Government of Canada has established a new Government Operations Centre (GOC) within PSEPC. Located in Ottawa, the GOC is now able to provide stable, around-the-clock coordination and support across government and to key national players in response to emerging or occurring events affecting the national interest. It also receives and issues information dealing with potential threats to the safety and security of Canadians and Canada’s critical infrastructure.
+
+If necessary, the GOC can quickly augment its resources and serve as the focal point for emergency government operations. It can help officials from other departments and agencies analyse and respond to emergency situations as they evolve and it can assist provincial or territorial governments in supporting local authorities and first line responders. Work is ongoing to strengthen the GOC’s capacity and further modernize the Government of Canada’s emergency operations systems.
+
+PSEPC was also given responsibility under the National Security Policy for strengthening the testing and auditing of key security capabilities and conducting assessments of other departments. Work is ongoing to establish the capacity and tools within PSEPC to audit the business continuity plans other departments and agencies have put in place to ensure they are able to continue operating during emergencies. The Office of the Auditor General, the Canadian Human Rights Commission and the Centre of Excellence for Internal Audit have been consulted on various audit and review strategies. Audits of business continuity plans are expected to begin in 2005-06 (Budget 2005 includes funding of $1.5 million over two years to expedite this work). As well, strategies will be developed in 2005-06 to ensure that all federal departments and agencies have emergency operations plans in place and conduct regular reviews and tests of those plans.
+
+As part of its commitment to provide stable coordination and support across government and to national players in an emergency, the Government announced the creation of the Canadian Cyber Incident Response Centre (CCIRC) in February 2005. Established as part of the GOC, the CCIRC serves as a national focal point for cyber security readiness and response. It has a mandate to deal with threats and attacks to Canada’s cyber critical infrastructure 24 hours a day, seven days a week and provides the following services to critical infrastructure owners and operators:
+
+• coordination and support for incident response efforts;
+
+• monitoring and analysis of the cyber threat environment (“watch and warning”);
+
+• IT security-related technical advice; and
+
+• national capacity building (standards, best practices, awareness, education).
+
+Work is progressing on the Government’s commitment to modernize the Emergency Preparedness Act, which dates from the Cold War era and does not take into account the current threat environment or new emergency management concepts. The legislation must be
+
+broadened in scope and intent to support a seamless national emergency management system that includes mitigation programs, critical infrastructure protection, cyber security, information sharing between federal departments and agencies, agreements with international and private sector partners, and protection of sensitive private sector information. To this end, a review of similar international reforms has been completed and a discussion paper is being developed that will serve as the basis for broad consultations with Canadians, beginning in the spring of 2005. The Government intends to present options for modernizing the Emergency Preparedness Act by the fall of 2005.
+
+A review of the Disaster Financial Assistance Arrangements (DFAA) is also ongoing, in collaboration with the provinces and territories, to ensure consistency of application, improve federal-provincial-territorial cooperation, and ensure a comprehensive federal response. As part of this work, the Government is developing guiding principles for other federal instruments to complement these arrangements for situations such as public health and animal health emergencies, and is examining the inventory of existing national programs and legal tools to enhance their applicability to emergency response and recovery.
+
+Preliminary proposals for changes to the DFAA and for the establishment of complementary instruments were presented to federal, provincial and territorial ministers responsible for emergency management at a meeting in Ottawa on January 24, 2005. The first such gathering in more than a decade, the meeting was an opportunity for governments to reaffirm their collective commitment to better assess, manage and mitigate risks to Canadians, and ensure better emergency preparedness throughout the country.
+
+As proposed in the National Security Policy, ministers agreed to establish a permanent, high-level forum on emergencies and to meet annually to collaborate on improving emergency management. A similar forum has been established for federal, provincial and territorial deputy ministers responsible for emergency management. Supported by funding from Budget 2005, these fora will provide advice, guidance and recommendations on strategies to prepare for and manage the broad range of hazards and threats that could result in emergency situations in Canada.
+
+Ministers also agreed to an eight-point work plan that includes:
+
+• working collaboratively to improve and enhance the emergency response framework in order to harmonize the federal system so that it complements each provincial and territorial system by the fall of 2005;
+
+• continuing ongoing discussions aimed at reinforcing Canada’s current disaster financial assistance arrangements and developing options for disaster financial assistance options outside of the DFAA;
+
+• continuing work to create a national inventory of disaster financial assistance programs and to link provincial and territorial programs with the existing federal inventory to help applicants claiming assistance (Ontario will be the first province to link its listing of provincial programs with the federal inventory);
+
+• preparing options for the development of a National Disaster Mitigation Strategy that would aim to reduce the risks, impacts and costs associated with natural disasters such as hurricanes, ice storms and floods;
+
+• reviewing and updating the Training Strategy Action Plan for 2005 to 2010 to ensure progressive and sustainable emergency management training in Canada;
+
+• developing a calendar of joint federal-provincial-territorial emergency response exercises;
+
+• expediting the development and implementation of the National Public Alerting Strategy led by Industry Canada; and
+
+• developing the work plan for a National Critical Infrastructure Protection Strategy.
+
+The National Security Policy reiterates the Government’s commitment to co-locate federal, provincial, territorial and municipal emergency measures centres, where practical, to ensure that officials build strong practices of collaboration and can operate seamlessly during emergencies. Varying degrees of co-location have been achieved. For example, federal and provincial emergency measures centres are co-located in Prince Edward Island; federal, provincial and municipal centres are co-located in Nova Scotia; and PSEPC, the RCMP and the Government of the Northwest Territories have announced plans to establish a common integrated emergency operations centre in Yellowknife. Discussions are continuing with other potential co-location partners in Ontario, British Columbia, Manitoba and the Northwest Territories.
+
+Critical Infrastructure and Cyber Security
+
+As previously noted, federal, provincial and territorial ministers responsible for emergency management agreed at their meeting in Ottawa in January 2005 to develop the work plan for a National Critical Infrastructure Protection Strategy. In fact, significant work has already been undertaken with provinces and territories to ensure that the health, safety, security and economic well-being of Canadians, as well as the effective functioning of governments, are not seriously impacted by disruption or destruction of critical infrastructure in Canada.
+
+On November 10, 2004, PSEPC released the Government of Canada Position Paper on a National CIP Strategy. This paper states the Government’s positions on essential elements of a CIP strategy and will inform a national dialogue leading to the development of a forward-looking, resilient Canadian strategy. To encourage a useful and productive dialogue, focused regional town hall meetings are being held with senior officials from the provinces, territories and private sector. Key international partners such as the U.S. are also being consulted on the strategy, which should be finalized by the fall of 2005.
+
+Budget 2005 provides funding to continue work with the U.S. on a joint action plan for assessing the vulnerability of critical cross-border energy facilities and to implement the recommendations of the Canada- U.S. Task Force on the 2003 Power Outage. As well, Budget 2005 provides $16 million over five years to support increased collaboration among researchers in the government, and the academic and private sectors on science and technology as it relates to critical infrastructure vulnerability and protection against chemical, biological, radiological or nuclear and explosives threats. These efforts are part of a wider initiative—the Public Security Technical Program (PSTP)—currently being developed. The PSTP will seek to address public safety and security science and technology gaps in the all-hazards domain. It will provide the science and technology foundation to enhance Canada’s emergency management system and our ability to mitigate, prepare for, respond to and recover from a complex emergency.
+
+As a key element of its commitment to improve CIP in Canada, the Government has undertaken to strengthen its capacity to predict and prevent cyber attacks from both inside and outside the country (much of Canada’s critical infrastructure is connected to international networks). CSE, Canada’s lead technical agency on IT security, has taken a number of steps to better protect Canada’s information infrastructure through building capacity, raising awareness and enhancing collaboration, both within government and with our international and industry partners.
+
+Since the release of the National Security Policy, CSE has focused on realigning its programs and developing creative ways to strengthen its ability to predict cyber events that could affect Canada’s critical infrastructure or that of our allies. These include early indications and warning, advanced cyber defence capabilities, trends analysis and forecasts.
+
+CSE has enhanced its predictive and preventative analysis capabilities to better ensure the security of the systems of greatest importance to the Government of Canada, and to provide a better understanding of the threat environment to senior decision makers. To that end, CSE is now producing all-source threat and vulnerability reports in support of key government departments. It is also conducting security posture assessments of federal government departments to assess and enhance their security postures.
+
+In support of the Government’s efforts to improve interoperability, CSE is providing technical advice, guidance and architecture solutions for a proposed network for secret communication. It also supports the Government’s objective for common and shared IT service delivery in order to better respond to cyber incidents. CSE is also the Government of Canada lead for the Canadian Crypto Modernization Program, a major Crown project to replace Canada’s aging classified systems to ensure secure Government of Canada communications and interoperability with our allies.
+
+CSE has also focused on building its internal capacity, as well as that of the federal government as a whole, by leveraging industry to expand significantly the range of IT security professional services available to government departments and agencies, and through the inclusion of IT security modules in the Government’s management training. In January 2005, CSE held a Cyber Security Forum, which brought together government decision makers, IT security professionals and industry to more effectively align IT security efforts within the Government of Canada with the National Security Policy.
+
+The Government is committed to developing and implementing a National Cyber Security Strategy to reduce Canada’s vulnerability to cyber attacks and cyber accidents. Consultations are ongoing with key critical infrastructure sectors on the composition of a task force that will examine the current state of cyber security in Canada, evaluate the nature and scope of the threat to Canada’s cyberspace, encourage a broad exchange of information and collaboration between the public and private sectors, and develop Canada’s National Cyber Security Strategy.
+
+Bringing Key Players to the Table
+
+The January 2005 meeting of federal, provincial and territorial ministers responsible for emergency management was an important step in the process of bringing together key emergency management partners from across the country. Issues of security and emergency management were also discussed at other meetings of federal, provincial and territorial officials and at meetings between the Government and the private sector throughout the year.
+
+Canada also continues to work closely with allies, particularly the U.S., to continuously improve continent-wide and international emergency management. PSEPC has established a strong working relationship with the U.S. Department of Homeland Security to strengthen the protection of North America and to ensure a strong, secure and open border.
+
+Canada collaborated with the U.S. and U.K. in Exercise TRIPLE PLAY / TOPOFF 3 / ATLANTIC BLUE, a major counterterrorism exercise in April 2005. The Canadian part of the exercise, called TRIPLE PLAY, assessed Canada’s ability to act quickly, decisively and effectively in concert with international partners in the event of a terrorist attack or other emergency.
+
+National Emergency Response System
+
+The National Security Policy commits the Government to implementing a National Emergency Response System (NERS), including a notification, warning and public alerting system. The NERS is envisioned as an all-hazards response structure designed to coordinate the federal response to emergencies of national importance. The response structure can be partially or fully activated, using escalating operational levels, to respond to emerging, imminent or occurring emergencies. National responses within the NERS may also include the dissemination of a notification, warning and/or public alerting message.
+
+Development and implementation of the NERS is ongoing under the leadership of PSEPC. For example, a notification system has been implemented to inform senior officials about national emergencies, and a warning system is being developed for government departments and agencies and private sector organizations with the capacity to respond to emergency situations. Options for a public alerting strategy for Canada are also under consideration, led by Industry Canada. Work is underway to enhance the emergency response framework in order to harmonize the federal system so that it complements those of the provinces and territories by the fall of 2005.
+
+Additional work on the National Emergency Response System will be undertaken in the coming months, including the development of key processes and strategic tools, such as the National Emergency Transportation System.
+
+The Chemical, Biological, Radiological and Nuclear Strategy of the Government of Canada
+
+On March 31, 2005, the Deputy Prime Minister and Minister of Public Safety and Emergency Preparedness issued The Chemical, Biological, Radiological and Nuclear (CBRN) Strategy of the Government of Canada. The aim of the CBRN Strategy is to protect Canada and Canadians by taking all possible measures to prevent, mitigate and respond effectively to a CBRN terrorist incident. The strategy is a comprehensive, high-level framework that provides direction for current activities and future plans, policies and funding initiatives.
+
+In developing the CBRN Strategy, PSEPC consulted with other federal departments and agencies, provinces and territories, and the first line responder community. Additional involvement and feedback from stakeholders will be sought as PSEPC continues to lead the implementation of the strategy.
+
+## Public Health Emergencies
+
+Key Achievements
+
+• The Government created the Public Health Agency of Canada (PHAC) and appointed Canada’s first Chief Public Health Officer. • The Government established the National Office of Health Emergency Response Teams. • The Government established a state-of-the-art emergency operations centre at the National Microbiology Laboratory. • The Government deployed key elements of the Canadian Integrated Outbreak Surveillance Centre. • The Government has provided $300 million to the provinces and territories for the National Immunization Strategy. • The Government has provided $100 million to the provinces and territories to relieve stress on public health systems at the front line. • The Government has contributed $24 million toward a national antiviral stockpile for use against an influenza pandemic. • Budget 2005 allocates $34 million over five years to improve pandemic influenza preparedness.
+
+Context
+
+Issues of public health must be front and centre in the ongoing national security debate. Canadians look to their governments for protection from health risks associated with natural events and disasters, such as floods, earthquakes, fires and highly dangerous infectious diseases, as well as from accidents and criminal or terrorist acts involving explosives, chemicals, radioactive substances or biological threats.
+
+Such threats—and their responses—typically involve many jurisdictions in Canada and may also require collaboration with international partners. The SARS outbreak in 2003 highlighted some key challenges that need to be addressed to ensure a resilient public health architecture in Canada, specifically:
+
+• a lack of clarity in leadership, legislative authority and roles and responsibilities among jurisdictions;
+
+• uneven capacity and coordination within and between jurisdictions, particularly in relation to research and development, surveillance and emergency response; and • a shortage of public health human resources.
+
+The National Security Policy includes measures to fill priority gaps in Canada’s public health emergency readiness and reaffirms the multi-party process already laid out to modernize our public health emergencies system.
+
+Progress in Implementing the National Security Policy
+
+Strategic Coordination
+
+The creation of the Public Health Agency of Canada (PHAC) was announced by the Prime Minister on December 12, 2003. It was affirmed as a Government priority in the National Security Policy and came into being in September 2004. Established to strengthen Canada’s public health and emergency response capacity and to develop national strategies for managing infectious and chronic diseases, PHAC is led by Canada’s first Chief Public Health Officer, Dr. David Butler-Jones, appointed on September 24, 2004.
+
+PHAC will act as a hub for health surveillance, threat identification and disease prevention and control programs to create a more effective, coordinated Canadian public health system. Among other responsibilities, it works with the provinces, territories and other federal departments and agencies on a wide range of issues, including emergency planning, preparedness and response to national public health emergencies.
+
+PHAC has offices in Winnipeg and Ottawa, and also maintains management, staff and expertise in regional offices in Vancouver, Edmonton, Winnipeg, Toronto, Guelph, Montreal and Halifax. PHAC will work closely with a set of national collaborating centres now under development. These centres will serve as focal points for knowledge development and dissemination activities that will strengthen Canada’s capacity for public health policy development and support the roles of public health practitioners at all levels of the system.
+
+On the international stage, PHAC serves as a centre for sharing Canada’s expertise with the rest of the world and for applying international research and development to Canadian public health programs and policies. It plays a leadership and technical advisory role in public health with global partners, such as the World Health Organization, the U.S. Centers for Disease Control and Prevention, and the new European Centre for Disease Prevention and Control.
+
+PHAC was created through Order-in-Council. Legislation is now being developed to provide PHAC with a legislated mandate and to address such issues as the role of the Chief Public Health Officer, the mandate, powers and authorities associated with PHAC, and financial mechanisms.
+
+Building National Capacity
+
+Strengthening Canada’s health emergency response capacity is a priority. A key element of this work was the establishment by PHAC of the National Health Emergency Management Framework (NHEMF). PHAC used this framework to engage the Provincial/Territorial Council of Health Emergency Management Directors and Council of Emergency Social Services Directors, and received national agreement on the National Health Emergency Management System (NHEMS). This is consistent with and supportive of PSEPC’s National Emergency Response System.
+
+The Government created a national office to establish Health Emergency Response Teams (HERTs), made up of volunteer health professionals from across the country. As noted in the National Security Policy, these professionals will continue to work in various health care settings, but will be trained and equipped to come together and assist local authorities in an emergency situation. Discussions are ongoing with provincial and territorial partners on the makeup of the teams, operational plans and procedures, checklists for deployment, equipment and pharmaceutical needs, and other issues. Rapid Response Teams of four to eight personnel have been established within PHAC, with a mandate to liaise with provincial and territorial counterparts, and provide on-site assessment of emergency situations and early coordination of health emergency response teams once these are operational.
+
+PHAC has begun to purchase supplies and equipment for the health emergency response teams, including tents, stretchers, defibrillators and clinical analysers for one field hospital. Work is also proceeding to develop a professional resource database. Selection and training of team members will begin in late 2005, and the teams should be fully operational by the spring of 2006.
+
+In February 2005, the Government of Canada announced a federal contribution of $24 million toward the creation of a national antiviral stockpile for use against an influenza pandemic. The federal investment, along with additional contributions from provincial and territorial partners, will go toward the purchase of the antiviral oseltamivir (Tamiflu®), which is used for the prevention and early treatment of influenza. The combined federal, provincial and territorial contributions are expected to bring the national stockpile of oseltamivir to 16 million doses, the target recommended by a national expert advisory committee for treatment of
+
+identified priority groups in the event of an influenza pandemic. Budget 2005 includes a further commitment of $34 million over five years to improve pandemic influenza preparedness.
+
+Replenishment of the National Emergency Stockpile System is also proceeding with the acquisition of pharmaceuticals, medical devices and other necessary supplies for portable hospitals and mini-clinics. The refurbishment of existing emergency hospitals is ongoing, and a Strategic Review Working Group was established to undertake an in-depth review of the content and functionality of the system.
+
+PHAC is implementing the National Security Policy commitment to enhance laboratory capacity at the National Microbiology Laboratory in Winnipeg and the Laboratory for Foodborne Zoonoses in Guelph. A state- of-the-art emergency operations centre was established by PHAC at the National Microbiology Laboratory and is a part of the PHAC Emergency Operations Centre System consisting of the Winnipeg and Ottawa centres. The laboratory’s capacity in biosystematics for the rapid diagnosis and detection of biologic threats has been expanded, and electronic networks have been established to link federal, provincial, territorial and international laboratories for the fingerprinting of micro-organisms. Efforts are ongoing to establish a Canadian capacity for rapid vaccine development for emerging infectious diseases and to expand testing capacity to include new micro-organisms, such as C. Difficile and influenza.
+
+To help address the issue of human resource shortages in the field of public health, the National Security Policy announced plans to expand the Canadian Field Epidemiology Program (CFEP). CFEP is a 30-year-old federal program that enables physicians, nurses, veterinarians and other public health professionals to obtain expertise through two-year, field- based assignments in epidemiology, surveillance and emergency health response. A plan has now been developed to double the program’s intake to 10 positions per year beginning in September 2005. The number of placements will also increase to provide additional support for emergency and outbreak response.
+
+The Government will also address human resource shortages by providing additional funding for scholarships, fellowships, bursaries and public health chairs. A program and mechanisms are now being developed for disbursing these new funds to individual students, university departments and local public health organizations.
+
+Public health surveillance is being enhanced through the implementation of improved data collection standards that are facilitating the national sharing of public health information. An Internet technology public health information surveillance system (iPHIS) has been developed
+
+and deployment is completed or underway in seven of the 13 provinces and territories. Discussions on use of the iPHIS are proceeding with the remaining provinces and territories and First Nations. As well, an investment strategy has been approved for Health Infoway, a $100-million pan-Canadian public health surveillance system, with additional work to be undertaken in 2005-06.
+
+PHAC has also made progress in implementing the Canadian Integrated Outbreak Surveillance Centre (CIOSC), a real-time disease alert system. As of December 2004, CIOSC components for enteric (foodborne) and respiratory disease had been deployed nationally, and an enhanced Web-based influenza surveillance system (FluWatch) had been deployed in the Atlantic provinces. Efforts will continue in 2005-06 to establish the CIOSC as part of the Canadian Network for Public Health Intelligence initiative in order to facilitate inter-jurisdictional infectious disease alert and response activities. Work is also ongoing to develop surveillance systems for anti-microbial resistant and enteric pathogens, non-enteric zoonoses and emerging diseases such as avian flu, and waterborne diseases.
+
+Fulfilling a commitment made in Budget 2004 and reiterated in the National Security Policy, the Government has provided $300 million to the provinces and territories for the National Immunization Strategy. These monies will support the introduction over three years of publicly funded immunization programs for new and recommended childhood and adolescent vaccines. Several provinces have announced plans for new immunization programs, and implementation has begun in some jurisdictions.
+
+Similarly, the Budget 2004 commitment to make $100 million available to the provinces and territories to relieve stress on the front lines of their public health systems and to address immediate gaps in capacity has been met.
+
+Engaging Stakeholders
+
+The Government of Canada is committed to working with the provinces, territories and other governments to address vulnerabilities, build on existing strengths and improve collaboration on matters of public health. This spirit of partnership and inclusiveness was exemplified in the broad-based consultations undertaken on the mandate of PHAC and the role of the Chief Public Health Officer.
+
+More than 20 roundtable discussions were held with some 450 public health stakeholders and experts from all provinces and territories, including Aboriginal leaders and representatives of the Canadian Coalition for Public Health in the 21st Century. Input was also received from the general public through PHAC’s Web site and correspondence to the Minister of State (Public Health).
+
+The Minister of State (Public Health), Canada’s Chief Public Health Officer, representatives of Atlanta’s Center for Disease Control and Prevention and key Canadian stakeholders also participated in a PHAC roundtable discussion on strategies for citizen engagement.
+
+Information and advice gleaned from these various consultations have helped to guide the transition to PHAC. Consultation with stakeholders in Canada and abroad will continue to be a central feature of PHAC as it fulfills its mandate in the years ahead.
+
+## Transportation Security
+
+Key Achievements
+
+• The CF, RCMP and Canadian Coast Guard have increased their on-water presence; as well, the Department of Fisheries and Oceans has increased its aerial surveillance activities. • Canada and the U.S. have strengthened cooperation on marine security issues. • The Marine Facility Security Contribution Program came into effect on December 1, 2004, and will assist ports and port facilities with security enhancement. • Transport Canada’s Transportation Security Clearance program, which currently only applies to aviation workers, is being expanded to include marine workers as well. • Application of the Airport Restricted Area Access Clearance Program has been strengthened and the Non-Passenger Screening Program was launched to enhance airport security. • Canada continues to work with the U.S. and other international partners to enhance security throughout the intermodal transportation system. • Transport Canada has launched the development of a national Transportation Security Strategy. • Budget 2005 earmarks $222 million over five years to further strengthen marine security; $16 million for air security; and $88 million for the Container Security Initiative.
+
+Context
+
+Transportation is the backbone of the Canadian economy—our network of roads, railways, shipping and airlines keeps people and goods moving across the country and around the world. In some parts of the world, however, transportation infrastructure has become a primary target—and even a tool—for terrorist organizations. The bombing of Air India flight 182 in 1985, with the tragic loss of 329 lives, including 278 Canadians, reminds us that Canada is not immune to such attacks. In addition, the March 11, 2004, bombings in Madrid, Spain, have caused Canada to focus more closely on transportation security in the domestic rail industry.
+
+Canada must continue to contribute to the security of both the North American and international transportation systems. Since the events of September 11, 2001, the Government has invested close to an additional $3 billion in measures designed to strengthen the security of our skies, our surface routes and our waters. These measures have included the creation of the Canadian Air Transport Security Authority (CATSA), installation of explosives detection systems at Canadian airports, the fortification of aircraft cockpit doors, enhanced background checks for airport workers, increased cooperation with the U.S. on North American security, better tracking of marine vessels and strengthened security at marine facilities, and the testing of leading-edge technologies to screen intermodal cargo.
+
+The National Security Policy affirms that Canada will continue to work with the U.S. and other international partners to enhance the security of our transportation systems. Significant new initiatives are being implemented in all modes of transportation.
+
+Progress in Implementing the National Security Policy
+
+Marine Security
+
+The National Security Policy sets out a six-point plan to strengthen Canada’s marine security.
+
+First, work is ongoing between Transport Canada, PSEPC, DND and the Canadian Coast Guard (CCG)—all of which have a role to play in securing Canada’s waters—to strengthen policy and operational coordination to ensure a smooth continuum of security management from regulatory enforcement to armed ship boarding. As well, the Interdepartmental Marine Security Working Group, created under the leadership of Transport Canada, is developing procedures to continuously review marine security in Canada and to address identified gaps.
+
+Second, the Government is establishing Marine Security Operations Centres (MSOCs) on the east and west coasts (Halifax and Esquimalt). The MSOCs will be headed by CF Maritime Command and include staff from CBSA, Transport Canada, the RCMP and the CCG. This multi-agency approach will ensure that the MSOCs can use all the civilian and military resources necessary to detect, assess and respond to a marine security threat.
+
+Establishing the MSOCs requires significant operational planning and staffing work, as well as the construction of new facilities on both coasts. When fully operational, the two MSOCs will be staffed 24 hours a day, seven days a week, and will be networked with the CCG’s marine
+
+communications and traffic services systems and with the new GOC in Ottawa. In the meantime, inter-agency partners have provided an interim capability within existing DND facilities.
+
+The Government also recently approved funding for a design team that will make recommendations on the creation of a permanent Great Lakes-St. Lawrence Seaway MSOC. In the interim, a temporary MSOC will be established in 2005, providing an initial analytical capability and integrating federal intelligence and awareness activities.
+
+Third, on-water patrols by the CCG, RCMP and CF will be increased, as well as aerial surveillance by the Department of Fisheries and Oceans (DFO), thus improving their ability to intervene, interdict and board ships that may pose threats to Canada.
+
+The focus of these activities to date has been on Canada’s east and west coasts. DND and DFO received funding for additional maritime patrol days. This has resulted in 100 additional sea days for the CF and 700 additional flying hours for DFO. In addition, funding for maritime security activities resulted in 1,382 sea days for the CCG for 2004-05. RCMP Emergency Response Teams have been established in Toronto and Montreal to increase surveillance of the Great Lakes and St. Lawrence Seaway.
+
+Fourth, Canada will create and operate a deployable inter-agency tool to enhance situational awareness, improve informed decision making, and facilitate coordinated action. This capability will be installed on the CF Kingston class of ships, on sea-going vessels of the CCG, and at the MSOCs in Esquimalt and Halifax. The goal of the project is to achieve an initial operating capability in 2007 and full operating capability in 2009.
+
+Fifth, Canada is also pursuing closer cooperation with the U.S. to enhance our collective marine defence and security. Work is proceeding on a number of fronts. For example, Transport Canada and the U.S. Coast Guard have finalized a bilateral agreement to implement the International Ship and Port Facility Security Code, with reciprocal recognition of approved security plans. These two organizations are also conducting a joint pilot project on the verification of vessels entering the St. Lawrence Seaway. This is the first step in a broad effort to expand joint approaches to vessel targeting, verification, enforcement and communications. DND and the U.S. Coast Guard are examining opportunities to enhance the level of coordination between the MSOCs and U.S. Coast Guard operations centres. Other opportunities for collaboration with U.S. defence and security agencies are also being investigated, including enhancing binational cooperation in maritime security. The Security and Prosperity Partnership of North America, announced on March 23, 2005, by the Canadian Prime Minister and the Presidents of the United States and
+
+Mexico, committed the three countries to developing and implementing a strategy to enhance North American maritime transportation and port security.
+
+Sixth, security at ports and other marine facilities is being strengthened. To this end, Transport Canada is moving forward with key initiatives to support security enhancements at Canada’s public and privately operated marine facilities. The Government has also recently approved funding to strengthen the RCMP’s existing National Port Enforcement Teams and to develop a national waterside coordination program enabling the RCMP to provide a specialized point of contact to coordinate local police forces on waterside security issues.
+
+The new Marine Transportation Security Regulations came into effect on July 1, 2004, to implement in Canada the requirements of the International Ship and Port Facility Security Code. As well, the Marine Facility Security Contribution Program, a three-year, $115-million commitment to assist ports and port facilities with security enhancements, came into effect on December 1, 2004. The first round of funding, announced in March 2005, awarded up to $23.5 million for 69 projects. Additional funds are being made available to help ensure that Transport Canada’s public ports and public port facilities comply with the new security requirements under the Marine Transportation Security Regulations.
+
+Budget 2005 provides $222 million over five years to further strengthen Canada’s marine security and continue implementation of the National Security Policy’s six-point plan.
+
+Aviation Security
+
+The Government of Canada has implemented many measures to enhance aviation security since September 11, 2001, and continues to work with the private sector, international partners and other stakeholders to identify and implement strategies to further strengthen security throughout the air transportation system. The Security and Prosperity Partnership of North America also committed Canada, the U.S. and Mexico to developing and implementing a strategy to establish common approaches to aviation security for North America.
+
+During 2004, Canada chaired the International Civil Aviation Organization’s (ICAO) Aviation Security Panel and contributed to the development of the G8 Secure and Facilitated Travel Initiative, which identified 28 action items to enhance international counterterrorism cooperation among G8 nations. As well, work was initiated on options to develop and implement systems to receive and assess passenger
+
+information for aviation and national security purposes, as provided for under the Public Safety Act. This will be supported by a Budget 2005 commitment of $16 million over five years.
+
+Strategies are also being developed to enhance the security of air cargo. For example, Transport Canada has initiated a comprehensive review of air cargo and airmail security with a view to developing recommendations for regulatory and non-regulatory action in 2005. The department has also consulted with industry stakeholders, other government departments and foreign governments, including the U.S. and U.K., to analyse developments in air cargo security.
+
+In the fall of 2004, Canadian air carriers implemented a revised Cargo Screening Training Program and Transport Canada launched a campaign to raise awareness about air cargo security issues.
+
+ICAO has designated January 1, 2006, as the deadline for countries to have in place checked baggage screening for international flights. Canada is well on its way to meeting this target. Transport Canada, with CATSA, has accelerated the deployment through additional interim measures that can be taken to allow for some form of explosives detection screening prior to the final permanent installations.
+
+Restricted Area Access and Background Checks for Transportation Workers
+
+The National Security Policy includes a commitment to improve and extend security background check requirements for transportation workers. Progress has been made on several initiatives.
+
+Transport Canada’s Transportation Security Clearance program, which currently only applies to aviation workers, is being expanded to include marine workers as well. Options are also being considered for extending the requirements for security background checks to other transportation workers, with particular attention to issues of access to restricted areas and the transportation of dangerous goods.
+
+Application of the Airport Restricted Area Access Clearance Program has been strengthened in response to stakeholder recommendations. Pilot projects were launched for a new restricted area pass system at airports, using biometrics. The Non-Passenger Screening Program, which includes random screening of employees entering restricted areas, was launched to enhance airport security.
+
+Public consultations were completed on the Marine Facilities Restricted Area Access Clearance Program, which will be introduced in 2005 through amendments to the Marine Transportation Security Regulations. Phased implementation of the program will begin at Canada’s three largest ports: Vancouver, Montreal and Halifax.
+
+Transportation and border officials in Canada and the U.S. are also discussing use of the Free and Secure Trade (FAST) Card as an interim background security check, if necessary, for Canadian drivers carrying dangerous goods wishing to enter the United States. Equivalency of background checks for transportation security clearances is also being considered as part of a longer-term solution.
+
+Intermodal Cargo
+
+Canada is working with the U.S. and other international partners to enhance security throughout the intermodal transportation system, with the primary goal of preventing terrorists from exploiting containerized cargo.
+
+Measures to identify and screen high-risk intermodal cargo have already been implemented under the Smart Border Declaration, signed with the U.S. in December 2001, including positioning joint targeting teams at key North American seaports, and implementing advance notice requirements on shipments to North America. Budget 2005 provides $88 million over five years for Canada to partner with the U.S. in the Container Security Initiative, positioning CBSA officers overseas to work with their counterparts in other countries to develop intelligence, share critical information and verify inspections on containers bound for North America. This new funding will also enable Canada to make our systems for automated targeting and sharing of information on high-risk cargo destined for North America more compatible.
+
+The Government is working with the provinces of Quebec and Nova Scotia and other Canadian and U.S. stakeholders to develop the Canada- U.S. Cargo Security Project. The project will test container security technology in three back-to-back intermodal cargo demonstrations from foreign origin to U.S. destinations via the ports of Halifax and Montreal. Work is also continuing on security initiatives outlined in the Security and Prosperity Partnership of North America.
+
+Threat and Vulnerability Assessment
+
+Canada is working with the U.S. and other G8 partners to develop further transportation security measures, including cooperative initiatives on threat and vulnerability assessments.
+
+For example, in 2004 Transport Canada and the U.S. Transportation Security Administration conducted joint Man Portable Air Defence Systems (MANPADS) vulnerability assessments at major airports. Canada conducted solo assessments at other domestic airports, with further assessments planned for 2005 at airports selected on the basis of risk.
+
+Through the Secure and Facilitated International Travel Initiative (SAFTI), Canada and other G8 members are evaluating vulnerability assessment methodologies and developing ways to mitigate a MANPADS threat. As well, Canada and China co-sponsored a workshop on airport security for member countries of the Asia-Pacific Economic Cooperation (APEC) forum.
+
+Following release of the National Security Policy, Transport Canada launched the development of a national Transportation Security Strategy to help ensure the continued secure and effective flow of goods and people. The strategy will adopt a risk management approach to identify critical vulnerabilities in the transportation system and determine key security priorities for the coming years. Best practices from other countries will also be examined to enhance transportation security. Other government departments, industry and other stakeholders will be broadly consulted on the proposed strategy.
+
+## Border Security
+
+Key Achievements
+
+• A new Canadian passport that uses a biometric chip for facial recognition is being developed and tested. The new passport will be issued to Canadians beginning in August 2006. • Implementation of the RCMP’s Real Time Identification project is proceeding. • The Canada-U.S. Safe Third Country Agreement was implemented at the land border in December 2004. • Progress continues to be made in implementing the Canada-U.S. Smart Border Declaration. The fifth status report was released in December 2004, indicating significant progress made in many elements of the 32-point Action Plan. • A framework has been issued to implement land pre-clearance pilot projects at the Buffalo–Fort Erie Peace Bridge and at one other Canada-U.S. border crossing. • The Free and Secure Trade program (FAST) has been expanded to include seven new high-volume commercial crossings along the Canada-U.S. land border. • The NEXUS-Air pilot project for pre-approved, low-risk air travellers, which uses iris scan biometric technology, was implemented at the Vancouver International Airport in November 2004.
+
+Context
+
+The Government of Canada is committed to protecting Canada’s social and economic well-being, as well as the rights and freedoms we enjoy as citizens of a democratic society. Meeting this fundamental obligation requires ongoing work with the U.S. and other countries to ensure that Canada’s borders remain open to legitimate trade and travel but closed to criminal and terrorist entities.
+
+Effective border management has long been a priority for government, but the terrorist attacks of September 11, 2001, have heightened the need to ensure that Canada’s air, land and marine borders are safe and efficient. Immediately following the attacks, numerous initiatives were implemented to improve border security, and the Government of Canada has continued to build on these efforts in the intervening years.
+
+Much of this work has been accomplished under the umbrella of the Smart Border Declaration signed by Canada and the U.S. in December 2001. The Smart Border Declaration and 32-point Action Plan have enabled Canada and the U.S. to enhance security and the legitimate flow of goods and people. It has become a model of cooperation that has been studied closely by the Organization of American States (OAS), APEC and others.
+
+Progress in Implementing the National Security Policy
+
+Strengthening Document Integrity
+
+In May 2003, ICAO announced that facial recognition will be the international standard for biometrically enabled travel documents, thus providing a tool against terrorism while respecting civil liberties. These standards are being adopted by a number of Western countries. In the U.K., for example, the government recently began handing out national identity cards that record biometric data, including facial scans. The U.S. has also instituted a new requirement, effective October 2005, for countries that currently enjoy visa waiver access to the U.S. to issue tamper-resistant passports that incorporate a biometric feature. Although not bound by these new U.S. requirements, Canada is adopting the new international standard for travel documents to better support national and international security and remain a world leader in passport technology.
+
+Research and development of an electronic chip-enabled passport is well underway in Canada. Prototype passport books have been tested for interoperability with other nations and to ensure that the biometric chip is durable for the five-year validity period of Canadian passports. The Government has also amended the Passport Order to allow for introduction of facial recognition technology to eliminate duplicate passport applicants. Once testing is completed, Canada will start phasing in biometrically enabled passports by the end of 2005, beginning with diplomatic passports. The new passport will be issued to Canadians beginning in August 2006.
+
+Passport Canada will also be ensuring that Canadians everywhere in the world receive the same high-quality travel document. By the fall of 2005, all overseas Canadian passports will be printed domestically; thus, passports will be produced to the same standard no matter where Canadians reside. Canada’s consular missions abroad will issue a new security-enhanced, limited-validity temporary passport on site for those Canadian citizens who urgently require a travel document.
+
+Passport Canada is laying the groundwork to refocus its applicant verification practices. In order to place the greatest scrutiny where it is most needed, Passport Canada will distinguish between new applicants being admitted into the system and those who are already in the system and are seeking to renew existing or expired travel documents. To this end, policies will be adjusted and processes re-engineered. Canada will eventually move toward a two-stream model: first-time applicants and renewal applicants will be processed separately and differently.
+
+As part of its ongoing efforts to strengthen identity verification, Passport Canada is part of a multi-departmental effort called the National Routing System (NRS). The NRS is conceived as a national network that will make it possible to validate vital-events information needed to authenticate citizenship and identity. One element of the NRS—the query functionality—would allow users, including Passport Canada, to query provincial and territorial vital statistics databases to validate information related to citizenship or identity. Implementation of a pilot project is planned for June to November 2005, with the results to be evaluated in late 2005 or early 2006.
+
+Citizenship and Immigration Canada (CIC) is currently examining how biometrics can support the facilitation of legitimate travellers and strengthen identity management for travellers.
+
+Also, with regard to document integrity, CBSA has struck an interdepartmental working group to facilitate cooperation and consistency on document integrity issues across the federal government. The working group is preparing a comprehensive report that will identify gaps in the integrity of federal documents and recommend best practices related to minimum document security features, photographic specifications, consistent procedures for lost and stolen documents, and minimum audit trails for identity verification.
+
+Real Time Identification Project
+
+Implementation of the RCMP’s Real Time Identification project is proceeding. The project will establish an automated process to allow electronic fingerprints to be instantly verified against criminal records databases maintained by the RCMP. It will also permit the RCMP to avoid future backlogs in fingerprint processing and to modernize criminal record and fingerprint identification processes.
+
+A Request for Proposals (RFP) for the Real Time Identification project’s new Automated Fingerprint Identification System was issued in January 2005, with a closing date of March 16, 2005. A contract will be issued in the fall of 2005, with project implementation to begin one year
+
+later. An RFP for the second phase of work—replacement and upgrading of the criminal history records systems and the development of workflow management solutions—is targeted for the fall of 2005.
+
+Reforming the Refugee Determination System
+
+Reform of Canada’s refugee determination system is also identified as a priority in the National Security Policy. A variety of administrative reforms, such as the imposition of more than 11 new visa requirements, a combination of interdiction and enforcement measures, and the streamlining of various processes at the Immigration and Refugee Board, have generated positive results.
+
+CIC and its partners continue to pursue incremental measures that can enhance protection and prevent abuse of the refugee determination system. A review is ongoing that will lead to proposals for additional steps that could be taken in the future.
+
+Advanced Passenger Processing
+
+Canada is also examining the possibility of implementing an advanced passenger processing program that would allow passengers to be screened at the time of ticket purchase or check-in abroad. Such programs are currently in place in Australia and New Zealand. To position Canada for future developments in this area, a feasibility study on the use of advanced passenger processing by Canada was completed in early 2004. As well, the CBSA continues to monitor developments in other jurisdictions.
+
+Building a Stronger Border
+
+The fifth status report on implementation of the Smart Border Action Plan was released on December 17, 2004, at a meeting between Canada’s Deputy Prime Minister and the U.S. Secretary of Homeland Security. The status report indicated that significant progress has been made on many elements of the 32-point Action Plan. The Deputy Prime Minister and the U.S. Secretary of Homeland Security also made the following announcements.
+
+• A framework has been issued to implement land pre- clearance pilot projects at the Buffalo–Fort Erie Peace Bridge and at one other Canada-U.S. border crossing. The pilot at the Peace Bridge will involve re-locating all U.S. primary and secondary border operations for both commercial and passenger traffic from Buffalo to Fort Erie.
+
+At the second pilot site, which has yet to be determined, Canadian border functions will be moved to the U.S. side of the border.
+
+• U.S. pre-clearance facilities will be expanded to the Halifax International Airport as soon as the construction of the necessary infrastructure is completed.
+
+• The FAST program has been expanded to seven new, high-volume commercial crossings along the Canada-U.S. land border.
+
+A formal agreement on land pre-clearance is now being negotiated with the U.S. The target date for implementing the pilot projects is March 2007, assuming construction of facilities can be completed.
+
+The Safe Third Country Agreement was implemented by Canada and the U.S. at the land border on December 29, 2004. Preliminary results suggest that this new tool will be effective in ensuring access to protection while managing refugee flows between the two countries more efficiently.
+
+The NEXUS-Air pilot project for pre-approved, low-risk air travellers, which uses iris scan biometric technology, was initiated at the Vancouver International Airport in November 2004. The pilot is expected to last 18 months, after which Canada and the U.S. will determine the feasibility of expanding the program to other Canadian airports with U.S. air pre-clearance facilities.
+
+To continue building a stronger border for the 21st century, Budget 2005 provides $433 million over five years to strengthen the Government’s capacity to deliver secure and efficient border services.
+
+Applying Smart Border Principles Internationally
+
+Canada and the U.S. are committed to contributing to the security of the international system of trade and travel. To this end, Canada and the U.S. continue to advance our Smart Border principles internationally through various multilateral institutions, such as the G8, the International Maritime Organization (IMO), the OAS and APEC.
+
+For example, Canada and the U.S. provided leadership at the IMO in establishing the International Ship and Port Security Code, now in force worldwide. Similarly, Canada and the U.S. were global leaders in working with ICAO to have internationally recognized standards adopted for the use of biometrics in travel documents. Migration Integrity Officers from our two countries have been placed in key locations overseas to combat
+
+irregular migration, and Canada-U.S. border cooperation has been highlighted at various symposia.
+
+Significant opportunities remain to internationalize our Smart Border programs. Canada and the U.S. will continue to work together to identify gaps and requirements in border management internationally, and to provide the capacity building assistance and training other countries require.
+
+## International Security
+
+Key Achievements
+
+• On April 19, 2005, the Government issued Canada’s International Policy Statement—A Role of Pride and Influence in the World, the country’s first integrated plan designed to strengthen Canada’s role in the world. • The Security and Prosperity Partnership of North America was launched by the leaders of Canada, the United States and Mexico on March 23, 2005. • Canada is creating a Counterterrorism Capacity Building Program. • Canada continues to play an important role in preventing the proliferation of weapons of mass destruction. • Budget 2005 earmarks $100 million over five years to international peace and security initiatives; $59 million over five years to address the most pressing security needs at missions abroad; and $7 billion in new budgetary funding over the next five years, which will support $12.8 billion in additional expenditures by the CF.
+
+Context
+
+Since September 11, 2001, the Government has engaged internationally on several fronts to address threats to Canada’s national security, focusing on the priorities of countering international terrorism, preventing the proliferation of weapons of mass destruction, assisting failed and failing states, and defusing intra- and interstate conflicts. Through words and actions, the Government has also reaffirmed Canada’s commitment to both the North Atlantic Treaty Organization (NATO) and the United Nations.
+
+On April 19, 2005, the Government issued Canada’s International Policy Statement—A Role of Pride and Influence in the World, the country’s first integrated plan designed to strengthen Canada’s role in the world. The Statement assesses the need for Canada to invest in its defence and security, international commitments and foreign aid in order to support a strong international role. It outlines a targeted approach, based on Canadian strengths and values, that will enable Canada to focus its efforts in order to be more effective and influential.
+
+The International Policy Statement outlines a multi-year strategic approach focused on five interrelated priorities:
+
+• revitalizing Canada’s North American partnership with the U.S. and Mexico by enhancing security and promoting prosperity;
+
+• building a more secure world by countering terrorism, stabilizing failed and fragile states, and combating the proliferation of weapons of mass destruction;
+
+• increasing domestic and global prosperity by strengthening Canada’s competitiveness, enhancing international commercial engagement with key partners, and providing targeted services and support for Canadian businesses;
+
+• promoting good governance by sharing Canadian expertise to reform global governance and enhance local capacity; and
+
+• crafting a new flexible diplomacy to deal with global developments.
+
+Strengthening National Defence
+
+Canada’s military has a proud tradition and history of responding to international and domestic crises. By answering this call, it has ensured safety, stability and security in times of international political unrest or unpredictable natural disasters. In such situations, the CF reinforce Canadian values and interests with action wherever it is needed in the world.
+
+As the world changes, however, the role of Canada’s military continues to change with it. Over the past several years, the Government has increased funding for the Department of National Defence. This funding has helped to improve pay and benefits for the military and to respond to the increased operational demands of recent years. It has also allowed DND to begin the process of transformation by initiating the acquisition of new mobile gun systems, joint support ships and maritime helicopters.
+
+The defence section of the International Policy Statement is consistent with the principles and priorities outlined in both the National Security Policy and the Overview of the International Policy Statement. It includes a vision for the renewal of the Canadian Forces and for their adaptation to the evolving security environment.
+
+Budget 2005 provides Canada’s military with $7 billion in new budgetary funding over the next five years, which will support $12.8 billion in additional expenditures by the CF in that period—the largest increase in defence funding in the past 20 years. This funding will allow DND to:
+
+• expand the CF by 5,000 Regulars and 3,000 Reserves, as announced in the October 2004 Speech from the Throne;
+
+• increase operating budgets for improved training and operational readiness, enhance military medical care, address critical supply and repair shortages and repair infrastructure; and
+
+• acquire new medium-capacity helicopters, logistics trucks, multi-role support ships, utility aircraft and specialized facilities for Joint Task Force 2, Canada’s elite anti-terrorist troops.
+
+In the meantime, DND continues its work to enhance continental defence cooperation and improve CF command and control. This includes following up on the work of the Binational Planning Group on bi-national maritime domain awareness, defence support to civil authorities, improvements in command and control and sensor systems, domain intelligence and information sharing, particularly in the context of binational contingency planning and exercises.
+
+Security and Prosperity Partnership of North America— the Security Agenda
+
+At their meeting on March 23, 2005, Prime Minister Martin, U.S. President Bush and Mexican President Fox launched the Security and Prosperity Partnership of North America to enhance the security, prosperity and quality of life of North American citizens.
+
+To this end, Canada, the U.S. and Mexico will work together to establish a common approach to security to protect North America from external threats, prevent and respond to threats within North America, and further streamline the secure and efficient movement of legitimate, low-risk traffic across our shared borders. As part of our efforts, we will:
+
+• implement common border security and bioprotection strategies;
+
+• enhance critical infrastructure protection, and implement a common approach to emergency response;
+
+• implement improvements in aviation and maritime security, combat transnational threats, and enhance intelligence partnerships; and
+
+• implement a border facilitation strategy to build capacity and improve the legitimate flow of people and cargo at our shared borders.
+
+Minister-led working groups have been created that will consult with stakeholders in the respective countries. These working groups will respond to the priorities of Canadians and the private sector and will set specific, measurable and achievable goals. They will also identify concrete steps that the three governments can take to meet these goals.
+
+Within 90 days, ministers will report back to the three leaders with their initial report. Following this, the working groups will report on a semi- annual basis. Because the Partnership will be an ongoing process of cooperation, new items will be added to the work agenda by mutual agreement as circumstances warrant.
+
+Through this Partnership, the three countries will ensure that North America remains the most economically dynamic region of the world and a secure home for its people in this and future generations.
+
+Peace, Order and Good Government
+
+The National Security Policy includes a commitment to enhance Canada’s capacity for helping to restore peace, order and good government in failed and failing states. Budget 2005 allocates $100 million over five years to international peace and security initiatives. These additional funds will support the renewal of the Human Security Program and provide security assistance to failed and failing states, as well as resources for post-conflict stabilization and recovery.
+
+Canada is also creating a Counterterrorism Capacity Building Program that will be led by Foreign Affairs and begin operating in the spring of 2005. The Program will contribute to the security of Canadians and the inhabitants of vulnerable states by providing those states with training, funding, equipment and technical and legal assistance to enable them to prevent and respond to terrorist activity. Assistance will be provided in such areas as border security; transportation security; training of law enforcement, security, military and intelligence personnel; preventing and responding to chemical, biological, radiological and nuclear incidents; cyber security; critical infrastructure protection; health security initiatives with a counterterrorism application; legislative drafting and legal policy development; and human rights and counterterrorism training.
+
+In response to the new threat environment, the RCMP’s International Operations program was realigned and international operations posts were opened in such countries as Brazil, Jordan, Morocco, South Africa, and the United Arab Emirates (Dubai).
+
+Through the RCMP’s Civilian Police Peacekeeping program, 148 Canadian peace officers have been deployed to a number of countries, including Jordan and Afghanistan, in support of Canada’s peace missions.
+
+Weapons of Mass Destruction
+
+Canada continues to play an important role in preventing the proliferation of weapons of mass destruction. For example, Canada is active in the Global Partnership Program, which aims to prevent the acquisition of materials and expertise associated with weapons of mass destruction, as well as international treaties and arrangements to control the export of sensitive materials. As well, Canada has complied with UN Security Council Resolution 1540, which requires effective domestic laws that prohibit the acquisition and transfer of weapons of mass destruction.
+
+Canada is also working with other G8 nations to advance an action plan on non-proliferation endorsed at the Sea Island G8 Summit in June 2004. In September 2004, Canada began a one-year term as chair of the board of the International Atomic Energy Agency. Key Canadian goals during this period include strengthening nuclear safeguards and building international consensus for responding to the dangerous nuclear activities of Iran and North Korea. A Canadian resolution establishing an expert panel on verification measures for non-proliferation and disarmament was adopted by the UN General Assembly in December 2004.
+
+Canada will play an active role at the May 2005 Review Conference for the Treaty on the Non-Proliferation of Nuclear Weapons. Canada is also active in the International Maritime Organization’s work to amend the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, to address the carriage or use of dangerous substances for illegal purposes.
+
+Terrorist Financing
+
+Canada is continuing its leadership in the fight against money laundering and terrorist financing. In this regard, Canada intends to seek the presidency of the Financial Action Task Force, the key international standard-setting body in this area. Canada will also actively participate in
+
+other regional bodies, such as the Asia-Pacific Group on Money Laundering and the Caribbean Financial Action Task Force. Budget 2005 allocates $3 million over five years to support these activities.
+
+As part of its commitment to protect the strong reputation of Canada’s anti-money laundering and anti-terrorist financing regime, the Government will shortly release a consultation paper proposing the legislative and regulatory changes required to implement recent revisions to the Financial Action Task Force standards. The Government is committed to ensuring that Canada’s anti-money laundering and anti- terrorist financing regime remains world class and that the Financial Transactions Reports Analysis Centre of Canada and other government agencies continue to operate effectively and efficiently in this important area.
+
+Engaging the International Community
+
+Canada recognizes the importance of broadening international consensus on dealing with security threats. To this end, the John Holmes Fund promotes public dialogue on Canada’s international policy, supports evidence-based analysis and research to inform international policy choices, and builds capacity for international policy. Since 2001, the fund has supported 21 conferences, public dialogues and policy papers on security, and a further 29 on peace and conflict prevention.
+
+Additional projects currently underway include five conferences on peacekeeping and a policy analysis and research project on migration and security. As well, public dialogue is planned on a range of security and defence issues, including Canada-U.S. bilateral relations focusing on security, water, energy and economic integration. The John Holmes Fund is also contributing to the development of an e-course on transitions to democracy.
+
+In a separate initiative to broaden engagement on international policy issues, Foreign Affairs has established a Policy eDiscussion forum on its international policy Web site. The Web site received 22,000 visits during the first eDiscussion on the topic of renewing multilateral institutions (a departmental reply was posted on the site). An eDiscussion on security was also completed in early 2005, and an eDiscussion was initiated on the subject of Canada-U.S. relations.
+
+Enhancing the Security of Missions and Staff Abroad
+
+The dangers confronting Canadian missions abroad have grown significantly due to mounting unrest in many parts of the world and the now pervasive threat of terrorism. More than 1,700 Canada-based employees from 15 federal departments and agencies work at missions
+
+abroad, where threat levels are dramatically different from those encountered in Canada.
+
+The Government is committed to ensuring the security of Canadians whether at home or abroad. New security threats in the post- 9/11 world call for enhanced security measures at Canada’s foreign embassies and consulates. To this end, Budget 2005 provides for an investment of $59 million over five years to address the most pressing security needs at missions abroad.

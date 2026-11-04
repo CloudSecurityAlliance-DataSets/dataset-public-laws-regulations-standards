@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/national-cyber-strategy@2022",
+  "name": "National Cyber Strategy 2022: Pioneering a Cyber Future with the Whole of the UK",
+  "acronym": "NCS",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-cyber-strategy-2022",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom National Cyber Strategy 2022, organized around five pillars: Strengthening the UK cyber ecosystem; Building a resilient and prosperous digital UK; Taking the lead in the technologies vital to cyber power; Advancing UK global leadership and influence; and Detecting, disrupting and deterring our adversaries.",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/national-cyber-strategy-2022",
+    "textUsed": "https://www.gov.uk/government/publications/national-cyber-strategy-2022",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-12-15",
+    "active": true,
+    "supersedes": "secid:reference/gov.uk/national-cyber-strategy@2016-2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/national-cyber-strategy-2022/national-cyber-security-strategy-2022) to Markdown (223,650 chars) and parsed 83 sections (26 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

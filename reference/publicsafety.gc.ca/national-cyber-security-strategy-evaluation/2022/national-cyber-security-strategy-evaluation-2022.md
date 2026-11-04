@@ -1,0 +1,515 @@
+# Mid-Term Evaluation of the National Cyber Security Strategy – Public Safety Canada’s Initiatives - Evaluation Report
+
+##### Table of contents
+
+- [Executive Summary](#b01)
+  - [About the Program](#b02)
+  - [What we examined](#b03)
+  - [Evaluation Findings](#b04)
+  - [Recommendations](#b05)
+  - [Management Action Plan](#b06)
+- [1. Background](#b07)
+  - [1.1 PS NCSS Initiatives](#b08)
+- [2. Evaluation Purpose and Methodology](#b09)
+  - [2.1 Lines of Evidence](#b10)
+  - [2.2 Limitations](#b11)
+- [3. Findings](#b12)
+  - [3.1 Relevance](#b13)
+    - [3.1.1 Continued Need](#b14)
+  - [3.2 Performance](#b15)
+    - [3.2.1 Strategic Policy Capacity in Cyber Security and Cybercrime](#b16)
+    - [3.2.2 Supporting Canadian Critical Infrastructure Owners and Operators](#b17)
+      - [3.2.2.1 ICS Program](#b18)
+      - [3.2.2.2 CI Cyber Assessment Program](#b19)
+      - [3.2.2.3 CI Cyber Exercise Program](#b20)
+    - [3.2.3 Cyber Security Cooperation Program](#b21)
+    - [3.2.4 Gender Based Analysis Plus (GBA Plus)](#b22)
+  - [3.3 Lessons Learned](#b23)
+    - [3.3.1 COVID-19](#b24)
+- [4. Conclusions](#b25)
+- [5. Recommendations](#b26)
+- [6. Management Action Plan](#b27)
+- [Annex A – Cyber Security Governance Committees](#b28)
+- [Annex B – NCSS Initiatives](#b29)
+
+### March 28, 2022
+
+## Executive Summary
+
+### About the Program
+
+As digital technologies become a greater part of Canadian business, public services, and individual lives, so do the associated risks and threats.
+
+The National Cyber Security Strategy (NCSS) was launched in 2018. Public Safety (PS) is responsible for three initiatives under the NCSS, which result in outputs such as research and recommendations, training and exercises for members of critical infrastructure (CI) sectors, and funding for projects contributing to the federal government’s leadership role in advancing cyber security in Canada.
+
+The total allocated funding for the three PS initiatives from 2019-20 to 2023-24 is $33.2 million, which includes $24.6 million from the NCSS.
+
+### What we examined
+
+The purpose of the evaluation was to examine the progress made by PS’s NCSS initiatives in achieving their outcomes to improve cyber security in Canada. The evaluation covered the activities from fiscal year 2018-19 to mid-2021-22.
+
+### Evaluation Findings
+
+- There is a continued need for the PS NCSS initiatives due to ongoing and emerging cyber security threats such as ransomware, attacks on critical infrastructure and cyber attacks. The design of the initiatives allows for flexibility to respond to malicious actors and constantly evolving threats.
+- The Strategic Policy Capacity initiative has been successful in increasing inter-departmental coordination and the awareness of cyber security issues. However, there have been challenges advancing the policy agenda which is a concern given the growing number of cyber security issues and complexity of the cyber landscape.
+- Since the launch of the NCSS, PS has reached all 10 CI sectors through its programs and activities. Participation in some activities increased after the transition to online delivery. There is no consistent collection of information related to mitigation actions as a result of these activities.
+- Stakeholders are aware of the Cyber Security Cooperation Program (CSCP) and projects are currently underway. While it was originally intended that project results and findings would be used to inform the broader policy agenda and decision-making, there does not currently appear to be a mechanism or a plan to do so.
+- Funding recipients reported mixed reviews of the support received from PS for the CSCP initiative. Some of these issues may stem from the challenges faced by the program as a result of administration occurring in one branch/directorate and policy direction taking place in another.
+- Gender-Based Analysis Plus (GBA Plus) is a priority for PS. While diversity and inclusion were factors emphasized in the 2020 CSCP call for applications, the full scope of GBA Plus was not consistently considered for most PS NCSS initiatives. However, there is evidence that efforts are being made to address these gaps.
+- The COVID-19 pandemic led to unintended outcomes for the PS NCSS initiatives. The initiatives were largely able to adapt and moved to a more virtual environment.
+
+### Recommendations
+
+The Senior Assistant Deputy Minister, National and Cyber Security Branch, should:
+
+1. Enhance leadership and coordination efforts by prioritizing work on the forward policy agenda, including addressing information sharing challenges and forming relationships with other levels of government, particularly provinces and territories;
+2. Develop and implement follow-up processes to collect information regarding the implementation of mitigation measures by participants as a result of activities for CI sectors;
+3. Develop an approach to utilize CSCP project findings to inform the NCSS policy agenda and decision-making;
+4. Increase awareness of how aspects of diversity and inclusion inherent to GBA Plus apply to cybersecurity.
+
+### Management Action Plan
+
+Program Management accepts all recommendations and will implement an action plan.
+
+## 1. Background
+
+As digital technologies become a greater part of Canadian business, public services, and individual lives so do the associated risks and threats. The NCSS was launched in 2018 in response to the Cyber Review (2017), which began in 2016 in response to the Minister of Public Safety’s mandate commitment to lead “a review of existing measures to protect Canadians and our critical infrastructure from cyber threats”. The Cyber Review identified key areas for joint actions, as well as the need for an updated strategy due to the rapid evolution in cyber security and technology since Canada’s first Cyber Security Strategy was prepared in 2010.
+
+Individual Government of Canada departments and agencies had already been working on elements of cyber security prior to the launch of the NCSS. The Strategy, however, allowed for increased collaboration and avoidance of the duplication of efforts due, in part, to the governance role of the Strategic Policy Capacity in Cyber Security and Cybercrime initiative.
+
+The NCSS is a multi-governmental agency approach with three key goals (Annex B), and the five-year National Cyber Security Action Plan describes the initiatives supporting these goals.
+
+**Secure and resilient Canadian systems**
+
+With enhanced capabilities and in collaboration with partners, the Government of Canada will better protect Canadians from cybercrime, respond to evolving threats, and help defend critical government and private sector systems.
+
+**An innovative and adaptive cyber ecosystem**
+
+The Government of Canada will support advanced research, foster digital innovation, and develop cyber skills and knowledge to position Canada as a global leader in cyber security.
+
+**Effective leadership, governance and collaboration**
+
+In collaboration with provinces, territories, and the private sector, the federal government will take a leadership role to advance cyber security in Canada, and will, in coordination with allies, work to shape the international cyber security environment in Canada’s favour.
+
+### 1.1 PS NCSS Initiatives
+
+While the Strategy was launched in 2018, PS officially launched its NCSS initiatives in 2019-20. PS is responsible for three initiatives under the NCSS which provide stakeholders, including senior government officials, provincial and territorial counterparts, private sector organizations, and academia opportunities to improve their cyber security posture. The work carried out through these initiatives results in outputs such as: research and recommendations; training and exercises; and, funding for projects that help the program in achieving its intended outcomes. The total allocated funding for the three PS initiatives from 2019-20 to 2023-24 is $33.2 million, including $24.6 million from the NCSS.
+
+**Strategic Policy Capacity in Cyber Security and Cybercrime:** Responsible for the coordination of cyber security and cybercrime policy issues among NCSS stakeholders.
+
+- Managed by the National Cyber Security Directorate
+- Allocated $5.4M over 5 years in Budget 2018, with $1.1M ongoing
+- Received five full-time employees through NCSS
+
+**Supporting Canadian Critical Infrastructure Owners and Operators:** Develops and delivers activities to assist members of critical infrastructure sectors to better secure their systems and information.
+
+- Managed by the Critical Infrastructure Directorate.
+- Allocated $8.9M over 5 years in Budget 2018, with $1.7M ongoing
+- Received seven full-time employees through NCSS.
+
+**Cyber Security Cooperation Program:** Provides funding to cyber security-related projects which contribute to the federal government’s leadership role in advancing cyber security in Canada.
+
+- Managed by the National Cyber Security Directorate.
+- Allocated $10.3M over 5 years in Budget 2018
+- Received two full-time employees through NCSS.
+
+## 2. Evaluation Purpose and Methodology
+
+The purpose of the evaluation was to examine the progress made by PS’s NCSS initiatives in achieving their outcomes to improve cyber security in Canada. The evaluation covered the activities from fiscal year 2018-19 to mid-2021-22.
+
+### 2.1 Lines of Evidence
+
+**Interviews and Questionnaire:** Twenty-seven interviews were conducted with NCSS stakeholders across each of the PS initiatives, as well as members of NCSS departments and agencies. As part of a separate internal program review related to the NCSS, a questionnaire was completed by departments and agencies involved in the NCSS. Questions relevant to the evaluation were analyzed.
+
+**Literature and Program Document Review:** Literature (e.g. media, reports) and corporate documents (e.g. policy and program documents) were reviewed.
+
+**Performance and Financial Data:** Available performance data from the program was reviewed. Program financial data was analyzed. In addition, web data for selected PS NCSS initiative webpages was examined for trends, from 2018-19 to the first half of 2021-22.
+
+### 2.2 Limitations
+
+There was limited performance data available for some activities within the PS initiatives. To mitigate this challenge, the evaluation team made use of other program documents and publicly available information, as well as supplemented with evidence provided during interviews with program staff and partners.
+
+## 3. Findings
+
+### 3.1 Relevance
+
+#### 3.1.1 Continued Need
+
+### Finding
+
+There is a continued need for the PS NCSS initiatives due to ongoing and emerging cyber security threats such as ransomware, attacks on critical infrastructure and cyber attacks. The design of the initiatives allows for flexibility to respond to malicious actors and constantly evolving threats.
+
+There is a continued need for the NCSS initiatives as there is evidence of ongoing and worsening cyber security threats to Canadian organizations and individuals. While threats can come from anywhere, foreign state-sponsored programs pose the greatest threat. As the landscape is dynamic, threats are evolving, and new ones are emerging, the PS NCSS initiatives are increasingly integral to Canadian security and prosperity in the digital age.
+
+Rapidly evolving technologies can make it easier for malicious actors to enter and disrupt Canadian critical infrastructure (CI) organizations’ IT networks. The increase in operational technology which links physical processes to the internet can put CI operations (e.g. electricity conduction, pipeline operations, medical equipment) at risk if cyber security is not sufficiently addressed.
+
+***Canadians used Internet for online voice or video calls***
+
+- 2020: 64%
+- 2018: 47%
+
+***Canadians shopped online***
+
+- 2020: 82%
+- 2018: 73%
+
+***Canadians reported cyber security incidents***
+
+- 2020: 58%
+- 2018: 52%
+
+In addition, and as evidenced in the statistics above, cyber risk associated with online activity increased dramatically as Canadian organizations and individuals began using the internet more often and for a wider variety of daily activities in response to the COVID-19 pandemic. For example, the increase in people required to work from home during the pandemic created challenges in protecting the security of cyber and telecommunications infrastructure. PS was aware of the challenges and risks caused by this shift in the professional lives of Canadians, and some Industrial Control System activities, such as the virtual symposiums, included a focus on this subject.
+
+There are a range of cyber security threats to Canadian individuals and organizations, such as the exploitation of human or network vulnerabilities in security to install malicious software, or the theft of personal and business data for fraudulent or extortion purposes.
+
+**Ransomware** has received increased attention in Canada because of the significant increase in attacks and because they pose significant risk to CI sectors and individuals. This type of cyber security threat is a form of malware which encrypts files on a device, which will often disrupt IT activities. The threat actors then demand payment in exchange for decryption of the files. Some of the PS NCSS initiatives have conducted activities focusing on ransomware as this risk is expected to continue, causing significant damage, including financial costs and loss of productivity.
+
+***Toronto Transit Commission (TTC):*** A ransomware attack on the TTC computer systems in October 2021, resulted in a data breach that impacted TTC operations, including the “Vision System” used to communicate with vehicle operators, online booking for accessible transit, the TTC website, platform display screens, and internal email. The TTC announced the hackers may have stolen the personal information of 25,000 current and former employees. It took more than two weeks until systems were largely restored.
+
+***Newfoundland and Labrador (NL) Healthcare System***: On October 30, 2021, the NL electronic health networks and their backup system were hacked. While not confirmed by the NL government, sources have said it was a ransomware attack.
+
+The event had a significant impact on staff and patients. Thousands of medical appointments were cancelled, including chemotherapy treatments and non-emergency surgeries. Staff and patient personal information was compromised, including Social Insurance Numbers, and personal health information.
+
+“Health Care is an enticing target for hackers because organizations have big budgets, but don’t spend much on securing their data.”
+
+### 3.2 Performance
+
+#### 3.2.1 Strategic Policy Capacity in Cyber Security and Cybercrime
+
+### Finding
+
+The Strategic Policy Capacity initiative has been successful in increasing inter-departmental coordination and the awareness of cyber security issues. However, there have been challenges advancing the policy agenda which is a concern given the growing number of cyber security issues and complexity of the cyber landscape.
+
+Under the overall key goal “Effective Leadership, Governance and Collaboration”, PS provides leadership and coordination to support the governance of the NCSS with the objective of increasing awareness of cyber security issues among partner departments and agencies.
+
+Work to coordinate among Government of Canada NCSS partner departments is conducted through and facilitated by various governance committees.
+
+More specifically, PS co-chairs and provides secretariat support for the DM-, ADM-, and DG-Cyber Security committees, as well as playing a role in more than 10 working groups that support these committees (Annex A).
+
+Furthermore, PS has established and coordinated partnerships with international stakeholders on matters related to cyber security, including coordinating Government of Canada responses on international cyber security issues. In particular, PS:
+
+- Participates in the Ottawa Five Cyber Policy Group (the O5), a Five Eyes cybersecurity policy group, as well as other sub-groups to the O5 that collaborate on particular cybersecurity issues;
+- Contributes to numerous international forums, such as the G7, the United Nations, and NATO; and,
+- Builds partnerships with likeminded countries to increase information sharing and capacity building.
+
+The various levels of governance have created a cyber security community which has enhanced information sharing both formally and informally. The committee structure encourages engagement among committee members and participants (Annex A), which facilitates information sharing. In 2020, the Communications Security Establishment (CSE) was added as a co-chair to the DM-Cyber Security committee to provide additional operational balance and address all facets of the NCSS.
+
+Another positive aspect of the NCSS Cyber Security Governance Committees was the expansion of the committees to include members who did not receive NCSS funding. This was seen to increase the level of engagement and allowed for greater information sharing across the federal government.
+
+The focus of the committees has evolved over time. While previously engaged on PS informational presentations, the focus has shifted to include more items presented by other agencies and agenda items for discussion or endorsement.
+
+Some challenges were raised with regards to advancing particular policy issues. Key informants indicated that the capacity of this initiative has been focused mainly on administrative processes to keep the community engaged and abreast of NCSS program performance.
+
+With effort focused largely on governance processes, there has been limited ability to advance strategic issues. For example, since the NCSS is a national strategy, one would expect the involvement of and coordination with other levels of government, particularly provinces and territories; however, there has been limited engagement to date.
+
+Additionally, the forward policy agenda has been progressing slower than desired. While aspects of cyber security among federal departments are coordinated through the NCSS gaps remain, particularly related to information coordination and sharing. To address these gaps, PS has proposed that a Government of Canada Cyber Data Strategy be developed. This strategy has been identified on the forward policy plan and preliminary work has begun, however, due to the demands of administrative processes, there have been delays in moving this work forward.
+
+In order to address a cyber data gap, the NCSS and PS have supported the **Canadian Survey of Cyber Security and Cybercrime**. This survey provides information on the impacts of cybercrime on Canadians and Canadian businesses.
+
+In 2021, the survey received ongoing funding and will now be conducted by Statistics Canada every two years. Data from the 2017 and 2019 surveys have been used in program analysis, policy development, and planning and research in the areas of cyber security and cybercrime.
+
+#### 3.2.2 Supporting Canadian Critical Infrastructure Owners and Operators
+
+### Finding
+
+Since the launch of the NCSS, PS has reached all 10 CI sectors through its programs and activities. Participation in some activities increased after the transition to online delivery. There is no consistent collection of information related to mitigation actions as a result of these activities.
+
+Under the NCSS key goal “Secure and Resilient Systems”, PS is responsible for three programs which assist members of the 10 CI sectors in Canada to better secure their systems and information:
+
+- Industrial Control Systems (ICS) Program
+- CI Cyber Assessment Program
+- CI Cyber Exercise Program.
+
+These programs, or their activities, were in place prior to the 2018 launch of the NCSS, but have developed and evolved as technology and threats to cyber security changed. They have worked to meet Government of Canada and PS priorities of protecting Canadians and Canada’s critical infrastructure.
+
+The COVID-19 pandemic posed many challenges to the ICS and CI programs, including staff being away from their usual positions for several months as they worked on the COVID-19 response. Despite this and other challenges, the programs were able to make changes to how some activities were run, implement others earlier than planned, and able to reach members of all CI sectors.
+
+### CI Sectors
+
+- Energy and Utilities
+- Finance
+- Food
+- Government
+- Health
+- Information and Communication Technology
+- Manufacturing
+- Safety
+- Transportation
+- Water
+
+#### 3.2.2.1 ICS Program
+
+PS undertakes a variety of activities for members of CI sectors to increase their knowledge of how to manage ICS risks. The ICS program conducts conferences, webinars, and workshops for members of CI sectors in Canada, as well as internationally with the goal of better preparing participants to manage ICS risks.
+
+Prior to COVID-19, in-person workshops and symposiums were held in different locations, while webinars provided viewers with presentations on a variety of topics by experts and industry leaders. Restrictions on travel and in-person gatherings due to COVID-19 led to the cancellation of some activities, while others were moved entirely online in 2020-21. There was a significant increase in participants when learning activities moved online, which may be due to the lower financial and time costs for attending virtual events, especially for small and medium-sized enterprises. ICS events reached members of all 10 CI sectors, although very few attendees at in-person and virtual events reported being from the finance, food, health, or safety sectors.
+
+Workshops and Symposiums
+
+|  | | **2019-20** | **2020-21** | **2021-22 (as of Dec 31, 2021)** | **Total** |
+| **Symposiums** | Events | 1 | 2 (virtual) | 2 (virtual) | **5** |
+| Participants | 176 | 1,218 | 782 | **2,176** |
+| **Workshops** | Events | 4 | 1 (virtual) | 0 | **5** |
+| Participants | 200 | 63 | 0 | **263** |
+| **Webinars\*** | Events | 4 | 2 (virtual) | 0 | **6** |
+| Participants\* | 800 | 400 | 0 | **1,200** |
+| **TOTAL** | **Events** | **9** | **5** | **2** | **16** |
+| **Participants** | **1,176** | **1,681** | **782** | **3,639** |
+
+\*The total number of webinar participants is unknown, but unique Webex logins were capped at 200, so actual numbers may be higher
+
+Post-event surveys were provided to participants of in-person and virtual symposium and workshop activities, and while the response rate varied, overall responses were positive. However, these surveys are session-specific, and response rates appeared to be significantly lower for virtual events than for those completed for in-person events. Feedback forms received gave mostly positive feedback about the events, including an increased knowledge of ICS security risks and mitigation measures, and being better prepared to manage ICS security risks. Despite this, there is no mechanism in place to follow-up with participants later on to discover what, if any, mitigation measures they have incorporated into their workplace as a result of what they learned during the ICS events.
+
+However, as of early 2022, the program was in the process of developing a survey to be sent to stakeholders, that would look at the ICS Program’s impact as a whole, instead of individual sessions.
+
+#### 3.2.2.2 CI Cyber Assessment Program
+
+PS provides three virtual, no cost, network assessment tools for owners and operators of CI facilities and organizations:
+
+**Network Security Resilience Analysis (NSRA**) - Conducts a technical analysis to inform organizations of critical attack risk pathways, areas of non-compliance with standards, and ways to improve resilience.
+
+**Canadian Cyber Resilience Review (CCRR)** - Measures the cyber security posture of the organization.
+
+**Canadian Cyber Security Tool (CCST)** - Measures technical and program cyber security resilience.
+
+The NSRA and CCRR were on-site assessment tools as part of the Regional Resilience Assessment Program (RRAP) but were changed to online tools during the COVID-19 pandemic.
+
+The CCST was launched in 2021, and unlike the NSRA and CCRR, it is a self-assessment tool which takes less time to complete but does not provide organizations with the same personalized detail of the NSRA and CCRR.
+
+To date there have not been many NSRA or CCRR assessments completed, in part because of the work involved in moving these tools online, and because a number of staff were away from their usual positions to work on the COVID-19 response.
+
+NSRA or CCRR Assessments
+
+|  | **2019-20** | **2020-21** | **2021-22 (as of Dec 31, 2021)** | **Total** |
+| **NSRA** | 2 | 1 | 5 | **8** |
+| **CCRR** | 26 | 6 | 5 | **37** |
+| **CCST** | - | - | 190 | **190** |
+| **Total** | **28** | **7** | **200** | **235** |
+
+CCRR assessments were completed for members of eight of the ten CI sectors in eight provinces from fiscal year 2019-20 to 2021-22 (December 31, 2021). Three-quarters (76%) of the assessments were for members of the energy and utilities, government, transportation, and water sectors, while over 40% of the CCRR were done for members in Ontario.
+
+According to the program, the response to the online assessment tools has been positive, and many CI owners/operators have signed up for upcoming assessments, however, there is a lack of built-in follow-up surveys to gauge the impact the tools have had on clients’ cyber security operations. While the RRAP tools had built-in post-assessment surveys, the NSRA, CCRR, and CCST’s virtual assessment tools do not have the same.
+
+The Cyber Assessment Program plans to develop and conduct follow-up surveys for the NSRA, CCRR, and CCST virtual assessments, as the feedback from clients would be useful. The benefits of client feedback regarding how the assessments helped their organization will be important in measuring the impact of the tools, as well as gathering other performance measurement data for PS, and would identify areas where assessment tools could be enhanced.
+
+#### 3.2.2.3 CI Cyber Exercise Program
+
+The Cyber Exercise program designs and delivers national CI exercises testing the capabilities of CI sectors to handle cyber security threats and events. It also participates in, or assists in the delivery of, international CI exercises.
+
+PS led, or co-led, two cyber security exercises since the launch of its NCSS initiatives. One of the domestic exercises was designed by PS for stakeholders in a specific Canadian CI sector, while the other, which was held twice, was designed to better inform stakeholders from all 10 CI sectors of ransomware risks and to exercise and reinforce mitigation measures. PS was also involved in three international cyber security exercises, and the after-action review for some of these provided participants advice and reference materials to help decrease their susceptibility to cyber attacks such as ransomware.
+
+No evidence of mitigation measures taken by Canadian participants after PS-led exercises, nor participant feedback about the exercises, was found. This indicates a need for a tool to gather information regarding how participants benefited from the exercises, such as what changes they made to their organization’s cyber security processes based on what they learned, as well as gathering feedback for future exercises.
+
+Some planned exercises were cancelled due to the COVID-19 pandemic but this provided opportunities for PS to develop their online exercise capability, with significant efforts focused on the development of an online exercise development application that is anticipated to be made available to stakeholders in 2022.
+
+#### 3.2.3 Cyber Security Cooperation Program
+
+### Finding
+
+Stakeholders are aware of the Cyber Security Cooperation Program (CSCP) and projects are currently underway. While it was originally intended that project results and findings would be used to inform the broader policy agenda and decision-making, there does not currently appear to be a mechanism or a plan to do so.
+
+The CSCP is a grants and contributions program that contributes to the NCSS’s third goal, “Effective Leadership, Governance and Collaboration”. The purpose of the program is to commission research and yield comprehensive results that help position Canadian governments, businesses, and citizens to better anticipate trends, adapt to a changing environment, and remain on the leading edge of innovation in cyber security.
+
+The current CSCP is a reiteration of a pilot program that was created in 2014. Since then there have been two calls for applications, one in 2019 and one in 2020. As of August 2021, there were 15 projects being funded with others at various stages of approval. Funding for the program is fully allocated and ends in 2024. Project applications are assessed by PS regional staff and then shared with an inter-departmental advisory committee consisting of cyber security partners, both those receiving NCSS funding and those who do not. This advisory committee then recommends the top applications for approval by a DG-level committee.
+
+Web analytics indicated that stakeholders are regularly accessing the CSCP webpage, with peaks in activity during the calls for applications. The number of visits in one day more than doubled in February 2021, when the latest call for applications was due, over August 2019, when the first call for applications was due. This indicates that awareness of the program is growing. Additionally, growing awareness of the program was also demonstrated when the number of applications increased during the 2020 call for applications compared to the 2019 call for applications.
+
+The calls for applications solicited projects from three different streams.
+
+**Security and Resilience**: The goal of this stream is to incentivize research and action in the area of cyber resilience. Funding is provided to projects that aim to enhance the capacity to prevent, mitigate, and respond to advanced cyber attacks targeting Canadian systems and institutions and those that help defend critical government and private sector systems.
+
+**Cyber Innovation**: This stream aims to incentivize research and action in the area of cyber resilience. Funding is provided for projects that assist Canadian governments, businesses and citizens in anticipating trends, as well as projects that address threats to cyber security posed by disruptive and emerging technologies.
+
+**Effective Leadership:** The intention of this stream is for the Government to demonstrate leadership and promote nationally coordinated action to advance cyber security knowledge, skills and innovation in Canada. Funding will be provided to support projects that enhance stakeholders’ collaboration and coordination in increasing the body of knowledge and understanding of cyber security issues, and ensuring that Canadian values and interests are strengthened, preserved, and defended.
+
+Applications to the CSCP by stream
+
+|  | **2019** | | **2020** | | **Total** | |
+|  | **Received** | **Funded** | **Received** | **Funded** | **Received** | **Funded** |
+| Security & Resilience | 41 | 7 | 69 | 4 | **110** | **11** |
+| Cyber Innovation | 35 | 8 | 27 | 5 | **62** | **13** |
+| Effective Leadership | 14 | 1 | 19 | 1 | **33** | **2** |
+| **Total** | **90** | **16** | **115** | **10** | **205** | **26** |
+
+Projects that have been funded by the CSCP cover a wide range of cyber security issues. For example, the 2019 projects are working toward: increasing the number of cyber security professionals; increasing awareness and skills for police officers who respond to cybercrime; improving the cybersecurity knowledge and awareness in CI sectors; enhancing cybersecurity for technological advances such as connected and autonomous vehicles and quantum computing; and, improving the cyber security of particular communities.
+
+**Security & Resilience**
+
+- **Cyber Security Capacity in Canadian Agriculture**: The technology being used to produce and distribute food is rapidly changing. This project seeks to enhance the protection of Canada’s critical agriculture sector from cyber threats, first, by learning about the capacity of producers to identify threats and then by engaging farm operators with awareness tools and resources.
+
+**Cyber Innovation**
+
+- **Coding for Veterans:** There is a shortage of cyber security professionals. Coding for Veterans is helping Canada’s military veterans to retrain and reskill for jobs in Canada’s tech sector, including cyber security.
+
+**Effective Leadership**
+
+- **First Nations Policing Cyber Strengthening Project:** This project is increasing law enforcement officers’ knowledge about cyber-crime and developing a toolkit to respond to cyber-crime incidents. It also includes a public awareness campaign to educate First Nations communities in Alberta about cyber safety and the importance of being alert and cautious when using cyber systems.
+
+While the funded projects cover a wide range of cyber security issues, it was found that the amount of funding for this program represented less than one eighth of what was requested. There was some concern that with only 10% of applications being funded, the program might lose momentum with applications continually being rejected based on limited funding. In addition, the funding provided for projects approved from the 2019 and 2020 calls for applications exhausted the total funding from the 2018 Budget.
+
+“We might be losing momentum when people apply over and over and don’t get funding.”
+
+## Figure 1: Size of the funds requested compared to the funds approved in 2019 and 2020
+
+Image Description
+
+Pie chart illustrating the size of the Funds requested compared to the Funds approved.
+Of the $85.5 million dollars requested through 205 applications in 2019 and 2020, 26 funded projects received $10.4 million.
+
+The National Cyber Security Action Plan indicated that the CSCP funded projects should be used to inform future-oriented work, develop proactive policy solutions to emerging issues, and help position the Government to anticipate trends and developments.
+
+The National Cyber Security Action Plan and other internal program documents specify that these intentions will be met through support from the Strategic Policy Capacity initiative. In particular, it was indicated that the Strategic Policy Capacity initiative should assist in the review of research findings and ensure that the results of the funded projects are taken into consideration and integrated into the broader policy agenda.
+
+While it is still too early to report on project results, there does not appear to be a mechanism or plan to roll-up findings from the CSCP projects in a way that would help to inform policy and/or decision-making, making it difficult to report on medium- and long-term outcomes. Key informants expressed concern that the focus has been on getting funding to recipients and not on how results will be used to inform policy or how they will contribute to advancing the goals of the strategy.
+
+### Finding
+
+Funding recipients reported mixed reviews of the support received from PS for the CSCP initiative. Some of these issues may stem from the challenges faced by the program as a result of administration occurring in one branch/directorate and policy direction taking place in another.
+
+There were mixed experiences among funding recipients about the support received from PS for the CSCP initiative. Some recipients reported both satisfaction and challenges.
+
+Six funding recipients reported satisfaction with aspects of support provided and with the application process and reporting forms. Support adjusting projects when the COVID-19 pandemic impacted the workplan and budget was well received.
+
+Five funding recipients reported challenges with aspects of the support provided, both with the application process and with reporting forms. Some funding recipients mentioned that delays in funding decisions and in distributing funds impacted their work.
+
+Some of the challenges faced by funding recipients may be explained by issues outlined in a recent internal examination which reviewed the impact on roles and responsibilities of grants and contributions programs, where administration occurs in one branch/directorate and policy direction takes place in another. The CSCP was the focus of this engagement, as an example of this type of program.
+
+The examination concluded that while guidance exists, roles and responsibilities are not clearly defined and understood between the two branches that manage the CSCP. Areas of consideration to improve program delivery included reviewing the Grants and Contributions (Gs&Cs) Centre of Expertise’s Business Management Model and adapting it as appropriate, as well as developing a written agreement to clearly communicate roles and responsibilities and appropriately align them with accountability and authority. Work in these areas is currently underway.
+
+#### 3.2.4 Gender Based Analysis Plus (GBA Plus)
+
+### Finding
+
+GBA Plus is a priority for PS. While diversity and inclusion were factors emphasized in the 2020 CSCP call for applications, the full scope of GBA Plus was not consistently considered for most PS NCSS initiatives. However, there is evidence that efforts are being made to address these gaps.
+
+While the importance of GBA Plus was not specifically outlined in the NCSS or the National Cyber Security Action Plan, it was included in corporate documents for the PS initiatives noting the need to consider how Canadians from different backgrounds experience cyber security issues differently. Further to this, the 2019, January 2021 (supplementary), and December 2021 Mandate Letters to the Minister of Public Safety directed PS to use GBA Plus in all decision-making.
+
+Across the PS NCSS initiatives, there is an inconsistent level of understanding of GBA Plus and how it should be considered in cyber security and technology. Indeed, in some cases there appeared to be a lack of appreciation of the importance in fully using a GBA Plus lens when developing and implementing activities. However, this was not limited to PS, as some external NCSS respondents indicated a similar need for improved understanding of GBA Plus and how it applies to cyber security and technology. Some NCSS respondents described how they were working to improve inclusion of gender in their initiatives, however, a few noted that GBA Plus does not apply to cyber security and technology. This point of view demonstrates the importance of learning to apply the GBA Plus lens to consider how people with different backgrounds and circumstances (e.g. disabilities, languages, rural, income) are impacted by technology.
+
+"We have vulnerable people as a result of the pandemic having to interact with their government wholly online to receive essential payments and health care, and we have small and medium enterprises who have no online presence that have had to shift to an e-commerce platform just to make ends meet, ... That's creating a huge threat vector and risk to these vulnerable populations.“
+
+There is evidence PS and other NCSS departments and agencies are increasing focus on GBA Plus in their initiatives. In the fall of 2021, PS co-hosted a workshop with CSE to build capacity in the NCSS community and identify the community's needs in order to make improvements on this front. Plans have been made to work with NCSS partners to move forward on GBA Plus capacity-building. This includes building bestpractices and continuing research and analysis of GBA Plus in the cyber community.  In addition, PS is working with Statistics Canada to build more GBA Plus questions into the biannual Canadian Survey of Cyber Security and Cybercrime.
+
+PS committed to the continued use of GBA Plus in Canada’s cyber and CI priorities, which included the NCSS initiatives in its 2020-21 Departmental Plan. The CSCP is an example of how GBA Plus was considered in an NCSS initiative. The 2020 CSCP call for applications was a pilot effort in PS for improved diversity and inclusion in Gs&Cs, and the call put an emphasis on projects which would benefit underrepresented and vulnerable groups. The 2019 call also included questions in the application about whether and how the project designs consider and address diversity. The majority of the 15 approved projects said yes to both questions, and described various GBA Plus problems related to cyber security, such as a lack of diversity in science, technology, engineering and mathematics, and the challenges facing Indigenous communities.
+
+### 3.3 Lessons Learned
+
+#### 3.3.1 COVID-19
+
+### Finding
+
+The COVID-19 pandemic led to unintended outcomes for the PS NCSS initiatives. The initiatives were largely able to adapt and moved to a more virtual environment.
+
+**A rise in online activities for work and personal activities increased cyber risks.**
+
+ICS symposiums conducted since March 2020 have included a focus on the cyber security risks associated with an increase in remote work.
+
+**COVID-19-related restrictions meant that travel and most in-person events such as meetings and training had to be put on hold or cancelled.**
+
+PS transitioned many ICS program activities to a virtual environment, temporarily or permanently. In the case of the ICS symposiums, there was a significant increase in the number of participants.
+
+PS is also working on ways to improve their online capabilities, such as for CI exercises.
+
+While not solely as a result of pandemic restrictions, strategic policy committees and working groups had to transition to a virtual-only model, which meant finding ways to promote and commit to inter-departmental collaboration.
+
+## 4. Conclusions
+
+The increasing number of cyber security threats, ongoing technological changes, and use of virtual technology emphasize the continued need for PS’s NCSS initiatives. The COVID-19 pandemic increased some of the cyber security risks as Canadian individuals and organizations increasingly relied on the internet for daily activities.
+
+During the period of time examined, the Strategic Policy Capacity initiative worked toward the NCSS goal of “Effective Leadership, Governance and Collaboration” by enhancing information sharing between NCSS-funded and non-funded departments and agencies through its DM-, ADM-, and DG-Cyber Security meetings, and associated working groups, as well as through creating a cyber-security community that also engages in informal communications. PS, with the work done through this initiative, has been able to establish and coordinate partnerships with international stakeholders. However, the initiative has focused mainly on administrative processes to engage the community rather than advancing strategic issues, and engaging other levels of government in the NCSS.
+
+The Supporting Canadian CI Owners and Operators initiative consists of three programs which have reached members of all 10 CI sectors with its activities. Participant feedback for activities has been favourable, however this is limited to post-event surveys, and does not measure the programs’ impact on organizations’ cyber security.
+
+The CSCP has funded 15 projects in three streams of activities. Projects range from increasing the number of cyber security professionals, to enhancing cybersecurity for technological advances such as connected and autonomous vehicles and quantum computing. Additional projects will begin in 2022-23. There are some concerns that the funding allocated to the program does not address the full need. Additionally, there was an intention to use results and findings from the CSCP projects to inform broader policy issues and decision-making. While it is too early for results, there does not appear to be a mechanism in place to roll-up the findings.
+
+While PS committed to the use of GBA Plus in cyber and CI priorities, it was evident that there was a lack of understanding by PS and NCSS partners of how to fully apply GBA Plus to cyber security and technology. However, recent efforts by PS and CSE indicate a willingness among NCSS partners to learn more about how to increase their focus on GBA Plus in their initiatives, and plans have been made to increase capacity-building on this front. The CSCP included a focus on GBA Plus in both calls for applications, and the majority of the approved projects described how they considered and addressed diversity.
+
+COVID-19 posed many challenges for the initiatives, including requiring the cancelling of in-person activities and assessments. However, the PS initiatives were able to adapt and move activities to a virtual environment, which appears to have been well-received by stakeholders.
+
+## 5. Recommendations
+
+The Senior Assistant Deputy Minister, National and Cyber Security Branch, should:
+
+1. Enhance leadership and coordination efforts by prioritizing work on the forward policy agenda, including addressing information sharing challenges and forming relationships with other levels of government, particularly provinces and territories.
+2. Develop and implement follow-up processes to collect information regarding the implementation of mitigation measures by participants as a result of activities for CI sectors.
+3. Develop an approach to utilize CSCP project findings to inform the NCSS policy agenda and decision-making.
+4. Increase awareness of how aspects of diversity and inclusion inherent to GBA Plus apply to cybersecurity.
+
+## 6. Management Action Plan
+
+Management Action Plan
+
+| **Recommendation** | **Action Planned** | **Planned Completion Date** |
+| 1. Enhance leadership and coordination efforts by prioritizing work on the forward policy agenda, including addressing information sharing challenges and forming relationships with other levels of government, particularly provinces and territories. | Enhance leadership and coordination by:  *Enhancing Governance:*   - Update Terms of References (ToRs) to clarify roles, responsibilities and accountabilities; - Streamline decision-making at the Cyber Security Committee Tables by eliminating DG level committee from governance framework; - Establish clear decision-making model and framework. Bring more items for decision, and encourage partners to contribute to agenda development; - Bring Foresight briefings to support decision-making.   *Improving Information-Sharing:*   - Examine information-sharing barriers/challenges through the renewal of the NCSS. Develop options to address issues.   *Strengthening Relationships:*   - Establish a forum to strengthen relationships with other levels of government, particularly Provinces and Territories (additional resources have been requested through Budget 2022 to support this work). | March 31, 2024 |
+| 2. Develop and implement follow-up processes to collect information regarding the implementation of mitigation measures by participants as a result of activities for critical infrastructure (CI) sectors. | The Critical Infrastructure Directorate will examine its current information collection processes and procedures following participation in CI activities, with a focus on Cyber Assessments, to collect additional information to identify if organizations have implemented mitigation measures following participation in a Cyber Assessment | March 31, 2023 |
+| 3. Develop an approach to utilize Cyber Security Cooperation Program (CSCP) project findings to inform the NCSS policy agenda and decision-making. | *Strengthening Evidence-Based Decision-Making*   - Develop and implement Annual Performance Reporting (APR) for the CSCP. APRs will enable:  - Review of outcomes/learnings to inform cyber policy agenda and decision-making; - Better capture program results-related data and information; - Promote awareness of program; results/outcomes at Cyber Security Committees, and discuss implications on future decision-making.  - Conduct Foresight Pilot to inform future CSCP investments and areas of need (dependent on expansion of the program through Budget 2022). | March 31, 2024 |
+| 4. Increase awareness of how aspects of diversity and inclusion inherent to Gender-Based Analysis Plus (GBA Plus) apply to cybersecurity. | Increase awareness and capacity around gender and diversity in cyber security by:   - Conducting a pilot project on the impacts of cyber security on different Canadian populations, such as newcomers and seniors; - Building on current efforts to address data gaps, work with the federal community to identify research needs and publish data to strengthen the evidence base informing policy-making; - Leverage Foresight to explore GBA Plus considerations and support evidence-based decision-making; - Ensuring future iterations of the Action Plan better incorporate gender and diversity considerations. | March 31, 2024 |
+
+## Annex A – Cyber Security Governance Committees
+
+### Members Which Received Action Plan Funding:
+
+- Canadian Security Intelligence Service
+- Communications Security Establishment
+- Employment and Social Development Canada
+- Global Affairs Canada
+- Innovation, Science, and Economic Development
+- Natural Resources Canada
+- Public Safety Canada
+- Royal Canadian Mounted Police
+
+### Other Members:
+
+- Department of National Defence
+- Department of Finance
+- Department of Justice
+- Health Canada
+- Privy Council Office
+- Public Service and Procurement Canada
+- Shared Services Canada
+- Transport Canada
+- Treasury Board of Canada Secretariat
+
+## Figure 2: Organizational chart for committees and working group on cyber security
+
+Image Description
+
+This graph represents an organizational chart for committees and working groups on cyber security.
+
+- At the top is the Deputy Ministers’ Committee on Cyber Security;
+- Below that is the Assistant Deputy Ministers’ Committee on Cyber Security; and,
+- Below that is the Director General’s Committee on Cyber Security.
+
+Under the Director General Committee on Cyber Security are nine working groups and Tiger Teams:
+
+- Hybrid Threats Working Group
+- Cyber Skills and Workforce Development Working Group
+- Data Strategy Working Group
+- Mid-Term Review Tiger Team
+- Ransomware Working Group
+- 5G Working Group
+- Critical Cyber Systems Working Group
+- Canada Five Eyes Coordination Working Group
+- Innovation Working Group
+
+## Annex B – NCSS Initiatives
+
+NCSS Initiatives
+
+| **Initiative** | **Lead Department or Agency** |
+| **Goal 1 - Secure and Resilient Canadian Systems** | |
+| Supporting Canadian Critical Infrastructure Owners and Operators | Public Safety Canada |
+| Improved Integrated Threat Assessments | Communications Security Establishment |
+| Preparing Government of Canada Communications for Advances in Quantum | Communications Security Establishment |
+| Expanding Advice and Guidance to the Finance and Energy Sectors | Communications Security Establishment |
+| Cyber Intelligence Collection and Cyber Threat Assessments | Canadian Security Intelligence Service |
+| National Cybercrime Coordination Unit | RCMP |
+| Federal Policing Cybercrime Enforcement Capacity | RCMP |
+| **Goal 2 - An Innovative and Adaptive Cyber Ecosystem** | |
+| Cyber Security Student Work Placement Program | Employment and Social Development Canada |
+| Cyber Security Assessment and Certification for Small and Medium-Sized Enterprises (SMEs) | Innovation, Science, and Economic Development, with CSE and Standards Council of Canada |
+| **Goal 3 - Effective Leadership, Governance, and Collaboration** | |
+| Strategic Policy Capacity in Cyber Security and Cybercrime | Public Safety Canada |
+| Cyber Security Cooperation Program (CSCP) | Public Safety Canada |
+| Canadian Centre for Cyber Security | Communications Security Establishment |
+| International Strategic Framework for Cyberspace | Global Affairs Canada |
+| Bilateral Collaboration on Cyber Security and Energy | Natural Resources Canada |

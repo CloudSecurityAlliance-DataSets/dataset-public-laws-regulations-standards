@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/canada.ca/national-security-policy@2004",
+  "name": "Securing an Open Society: Canada's National Security Policy (2004)",
+  "acronym": "NSP",
+  "alternate_names": [],
+  "version": "2004",
+  "publication_id": "national-security-policy-2004",
+  "owner": "Privy Council Office (Government of Canada)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Canada's inaugural 2004 National Security Policy (Privy Council Office), establishing an integrated national security framework across six key strategic areas: intelligence, emergency planning and management, public health emergencies, transport security, border security, and international security.",
+  "relationToCloudSecurity": "Foundational national security policy establishing the Government Operations Centre and federal cyber/critical-infrastructure protection mandate.",
+  "relationToAISecurity": "Provides baseline national security intelligence and threat-assessment governance.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://publications.gc.ca/collections/Collection/CP22-77-2004E.pdf",
+    "textUsed": "https://publications.gc.ca/collections/Collection/CP22-77-2004E.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2004-04-27",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 60-page official Government of Canada Publications PDF (https://publications.gc.ca/collections/Collection/CP22-77-2004E.pdf) to Markdown (115,850 chars) and parsed 13 sections (8 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

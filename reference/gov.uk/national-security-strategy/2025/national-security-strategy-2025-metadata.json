@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/national-security-strategy@2025",
+  "name": "National Security Strategy 2025: Security for the British People in a Dangerous World",
+  "acronym": "NSS",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-security-strategy-2025",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom National Security Strategy 2025 ('Security for the British People in a Dangerous World', Cabinet Office), setting out the UK's overarching national security framework.",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world",
+    "textUsed": "https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-06-24",
+    "active": true,
+    "supersedes": "secid:reference/gov.uk/integrated-review@2023",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official GOV.UK HTML publication (https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html) to Markdown (105,709 chars) and parsed 25 sections (0 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -33,13 +33,21 @@ ID_PATTERNS = [
     # SB-53 style: "22757.10. Short Title" or "22757.10 Short Title"
     (re.compile(r"^(\d{4,5}\.\d+(?:\.\d+)?)\.?\s+(.+)$"), "statute"),
     # SECTION 1 / SECTION 2: "SECTION 1. Legislative Findings and Declarations"
-    (re.compile(r"^(SECTION\s+\d+)\.?\s+(.+)$", re.IGNORECASE), "section_word"),
-    # Pillar I / Pillar II: "Pillar I: AI Use Restrictions ..."
-    (re.compile(r"^(Pillar\s+[IVX]+)[:\.]?\s+(.+)$", re.IGNORECASE), "pillar"),
-    # CHAPTER 25.1: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^(CHAPTER\s+\d+(?:\.\d+)?)\.?\s+(.+)$", re.IGNORECASE), "chapter"),
+    (re.compile(r"^(SECTION\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    # Pillar I / Pillar 1 / Pillar One: "Pillar I: AI Use Restrictions ..."
+    (re.compile(r"^(Pillar\s+(?:[IVX]+|\d+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
+    # Part I / Part 1 / Part One: "Part I: ..."
+    (re.compile(r"^(Part\s+(?:[IVX]+|\d+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
+    # CHAPTER 25.1 / Chapter 1 / Chapter One: "CHAPTER 25.1. Transparency in ..."
+    (re.compile(r"^(CHAPTER\s+(?:\d+(?:\.\d+)?|[IVX]+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
+    # Strategic Objective 1.1 / Objective 1.1
+    (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
+    # Annex / Appendix A / Annex 1
+    (re.compile(r"^((?:Annex|Appendix)\s+(?:[A-Z]|\d+|[IVX]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
+    # Roman numeral section: "I. Introduction" / "II. Our Vision"
+    (re.compile(r"^([IVX]+)\.\s+(.+)$"), "roman"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
-    (re.compile(r"^(\d+(?:\.\d+){0,3})\.?\s+(.+)$"), "numbered"),
+    (re.compile(r"^(\d+(?:\.\d+){0,3})\s*[:\.\-–—]?\s+(.+)$"), "numbered"),
 ]
 
 

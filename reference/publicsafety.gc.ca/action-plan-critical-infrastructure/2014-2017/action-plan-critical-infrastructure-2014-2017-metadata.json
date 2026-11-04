@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2014-2017",
+  "name": "Action Plan for Critical Infrastructure (2014-2017)",
+  "acronym": "APCI",
+  "alternate_names": [],
+  "version": "2014-2017",
+  "publication_id": "action-plan-critical-infrastructure-2014-2017",
+  "owner": "Public Safety Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Second Action Plan for Critical Infrastructure (2014-2017) under Canada's National Strategy for Critical Infrastructure.",
+  "relationToCloudSecurity": "Defines national cyber resilience, critical infrastructure protection, and government-wide incident coordination relevant to cloud service providers operating in Canada.",
+  "relationToAISecurity": "Addresses emerging digital technology threats, supply-chain security, and national security governance applicable to AI systems.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx",
+    "textUsed": "https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/archive-pln-crtcl-nfrstrctr-2014-17/index-en.aspx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-05-01",
+    "active": false,
+    "supersedes": "secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2010",
+    "supersededBy": "secid:reference/publicsafety.gc.ca/action-plan-critical-infrastructure@2018-2020",
+    "retiredFromActiveUse": "2014-05-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official Public Safety Canada HTML publication to Markdown (29,367 chars) and parsed 14 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

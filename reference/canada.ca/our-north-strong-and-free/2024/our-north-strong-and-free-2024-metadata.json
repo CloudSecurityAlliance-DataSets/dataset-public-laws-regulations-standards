@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/canada.ca/our-north-strong-and-free@2024",
+  "name": "Our North, Strong and Free: A Renewed Vision for Canada's Defence (2024)",
+  "acronym": "ONSF",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "our-north-strong-and-free-2024",
+  "owner": "Department of National Defence (Government of Canada)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Canada's 2024 defence policy update ('Our North, Strong and Free'), committing to a four-yearly National Security Strategy cycle and major investments in joint cyber capabilities, cloud/digital modernization, and AI/quantum defence technologies.",
+  "relationToCloudSecurity": "Commits to modernizing defence cloud infrastructure, command-and-control networks, and joint DND/CAF/CSE cyber operations.",
+  "relationToAISecurity": "Prioritizes responsible adoption and defence against AI-enabled military and cyber threats.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.canada.ca/en/department-national-defence/corporate/reports-publications/north-strong-free-2024.html",
+    "textUsed": "https://www.canada.ca/en/department-national-defence/corporate/reports-publications/north-strong-free-2024.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-04-08",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted and stitched all 15 official HTML chapters of Our North, Strong and Free (2024) from canada.ca (133,745 chars) and parsed 47 sections (8 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

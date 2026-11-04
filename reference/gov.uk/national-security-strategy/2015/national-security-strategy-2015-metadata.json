@@ -1,0 +1,61 @@
+{
+  "secid": "secid:reference/gov.uk/national-security-strategy@2015",
+  "name": "National Security Strategy and Strategic Defence and Security Review 2015: A Secure and Prosperous United Kingdom",
+  "acronym": "NSS / SDSR",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "national-security-strategy-2015",
+  "owner": "HM Government (Cabinet Office, United Kingdom)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "United Kingdom 2015 National Security Strategy and Strategic Defence and Security Review (Cm 9161), including the creation of the National Cyber Security Centre (NCSC).",
+  "relationToCloudSecurity": "Defines UK national cyber resilience, critical national infrastructure protection, and public-sector security architecture expectations.",
+  "relationToAISecurity": "Addresses UK strategic advantage in science and technology, AI security, and cyber power.",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "notes": "Open Government Licence v3.0 — Crown copyright."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.uk/government/publications/national-security-strategy-and-strategic-defence-and-security-review-2015",
+    "textUsed": "https://www.gov.uk/government/publications/national-security-strategy-and-strategic-defence-and-security-review-2015",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-11-23",
+    "active": false,
+    "supersedes": "secid:reference/gov.uk/national-security-strategy@2010",
+    "supersededBy": "secid:reference/gov.uk/integrated-review@2021",
+    "retiredFromActiveUse": "2015-11-23",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 96-page official GOV.UK Command Paper PDF (https://assets.publishing.service.gov.uk/media/5a74c796ed915d502d6caefc/52309_Cm_9161_NSS_SD_Review_web_only.pdf) to Markdown (260,721 chars) and parsed 98 sections (39 with ID)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
