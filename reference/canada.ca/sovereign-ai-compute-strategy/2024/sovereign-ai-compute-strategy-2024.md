@@ -56,10 +56,3 @@ This investment includes the following:
 The Access Fund will support the purchase of AI compute resources by Canadian innovators and businesses. Through an investment of up to $300 million, this plan aims to tackle a significant challenge highlighted during consultations: the high cost of compute resources and the limited availability of domestic capacity. The Access Fund aims to address barriers to AI development in sectors that require high-performance computing capacity and have high potential for AI adoption, such as life sciences, energy and advanced manufacturing. The program will work closely with AI ecosystem organizations.
 
 To learn more about the fund and to find out if your business is eligible, visit the [AI Compute Access Fund](https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund).
-
-## Related links
-
-- [Artificial intelligence ecosystem](https://ised-isde.canada.ca/site/ised/en/artificial-intelligence-ecosystem)
-- [What We Heard: Consultation on Artificial Intelligence (AI) Compute](https://ised-isde.canada.ca/site/ised/en/what-we-heard-report-consultations-ai-compute)
-- [Pan-Canadian AI Strategy](https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy "Pan-Canadian Artificial Intelligence Strategy")
-- [Budget 2024](https://budget.canada.ca/2024/home-accueil-en.html)

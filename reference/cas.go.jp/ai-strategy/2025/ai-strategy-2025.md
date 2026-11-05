@@ -10,7 +10,7 @@ December 23, 2025
 
 Cabinet Decision
 
-## Table of Contents
+Table of Contents
 
 Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the world” —
 

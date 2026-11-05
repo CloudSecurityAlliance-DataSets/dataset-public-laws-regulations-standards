@@ -14,7 +14,9 @@ This work is copyright. Apart from any use as permitted under the Copyright Act 
 
 Images on pages 54 and 61 courtesy of ASC Pty Ltd.
 
-## Contents
+## STRATEGY
+
+Contents
 
 Foreword.................................................................................................. 5
 

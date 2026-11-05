@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Strategic Program on Artificial Intelligence 2022-2024 (adopted November 24, 2021). Italy's national artificial intelligence strategy prepared for the Presidency of the Council of Ministers (Department for Digital Transformation) and AgID, setting national priorities across scientific research, public administration adoption, enterprise transformation, and education.",
+  "description": "Strategic Program on Artificial Intelligence 2022-2024 (adopted November 24, 2021).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per l'Italia Digitale (agid.gov.it) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per l'Italia Digitale (agid.gov.it).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 40-page PDF (https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf) locally via PyMuPDF (82,488 chars). Parsed 46 sections (13 with explicit section identifiers)."
+    "notes": "Extracted 40-page PDF (https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf) locally via PyMuPDF (82,488 chars). Parsed 45 sections (13 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Stratégie nationale d'accélération pour la cybersécurité (February 18, 2021). French national strategy for digital security and cybersecurity coordinated by SGDSN and ANSSI covering critical infrastructure protection (OIV), digital autonomy, cyber ecosystem acceleration, and European cyber cooperation.",
+  "description": "Stratégie nationale d'accélération pour la cybersécurité (February 18, 2021).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16) to Markdown (7,570 chars). Parsed 10 sections (0 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/soutenir-linnovation-dans-les-secteurs-strategiques-16) to Markdown (7,570 chars). Parsed 7 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

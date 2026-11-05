@@ -10,18 +10,18 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Artificial Intelligence Strategy of the German Federal Government (adopted November 15, 2018). National artificial intelligence strategy of the German Federal Government (jointly led by BMBF, BMWK, and BMAS), establishing Germany and Europe as a leading AI hub focused on research excellence, industrial transfer, responsible/human-centric AI governance, and compute infrastructure.",
+  "description": "Artificial Intelligence Strategy of the German Federal Government (adopted November 15, 2018).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesregierung der Bundesrepublik Deutschland (bundesregierung.de).",
   "license": {
-    "spdx": "LicenseRef-German-Government-Official-Work",
-    "Grouping": "Permissive",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
     "redistribution": "permitted_for_reference",
     "derivatives": "varies_by_jurisdiction",
     "publicly_redistributable": true,
     "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
-    "note": "Official German Federal Government publication (§ 5 UrhG public official work).",
-    "notes": "Official German Federal Government publication (§ 5 UrhG public official work)."
+    "note": "Official German Federal Government publication (bundesregierung.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
+    "notes": "Official German Federal Government publication (bundesregierung.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
   },
   "links": {
     "wikipedia": "",

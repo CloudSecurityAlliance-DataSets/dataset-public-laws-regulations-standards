@@ -10,18 +10,18 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Singapore National AI Strategy (NAIS 1.0, launched November 13, 2019). Singapore's national blueprint for artificial intelligence development, deployment, compute infrastructure, talent, and trusted AI governance.",
+  "description": "Singapore National AI Strategy (NAIS 1.0, launched November 13, 2019).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg).",
   "license": {
-    "spdx": "LicenseRef-SG-Government-Copyright-Reserved",
-    "Grouping": "Government-Copyright-Reserved",
-    "redistribution": "requires_prior_written_permission",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
     "derivatives": "prohibited",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "https://www.csa.gov.sg/terms-of-use",
-    "note": "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use.",
-    "notes": "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use."
+    "note": "Government publication; Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office) retained. Publicly released for free download, policy reference, and citation; consult Singapore Government Terms of Use before commercial redistribution or derivative works.",
+    "notes": "Government publication; Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office) retained. Publicly released for free download, policy reference, and citation; consult Singapore Government Terms of Use before commercial redistribution or derivative works."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 45-page PDF (https://file.go.gov.sg/nais2019.pdf) locally via PyMuPDF (100,712 chars). Parsed 104 sections (19 with explicit section identifiers)."
+    "notes": "Extracted 45-page PDF (https://file.go.gov.sg/nais2019.pdf) locally via PyMuPDF (100,712 chars). Parsed 103 sections (19 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Horizon 1 Action Plan (2023–2025). Two-year Horizon Action Plans detailing concrete initiatives, regulatory reforms, and deliverables across the six cyber shields of the 2023–2030 Australian Cyber Security Strategy.",
+  "description": "Horizon 1 Action Plan (2023–2025) — 2023-2025 edition of 2023–2030 Australian Cyber Security Strategy Action Plan, published by Department of Home Affairs (homeaffairs.gov.au).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 28-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf) locally via PyMuPDF (34,624 chars). Parsed 38 sections (21 with explicit section identifiers)."
+    "notes": "Extracted 28-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf) locally via PyMuPDF (34,624 chars). Parsed 37 sections (21 with explicit section identifiers)."
   },
   "extraction_history": [
     {

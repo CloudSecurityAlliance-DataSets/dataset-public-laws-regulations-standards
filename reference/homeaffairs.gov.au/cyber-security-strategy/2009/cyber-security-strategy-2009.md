@@ -20,7 +20,7 @@ ISBN: 978-1-921241-99-4
 
 This work is copyright. Apart from any use as permitted under the Copyright Act 1968, no part may be reproduced by any process without prior written permission from the Commonwealth. Requests and inquiries concerning reproduction and rights should be addressed to the Commonwealth Copyright Administration, Attorney General’s Department, National Circuit, Barton ACT 2600 or posted at http://www.ag.gov.au/cca
 
-## Table of Contents
+Table of Contents
 
 Minister’s Foreword i
 

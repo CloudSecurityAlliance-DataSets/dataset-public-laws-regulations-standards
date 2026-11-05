@@ -6,7 +6,7 @@ tentative translation
 
 This Strategy is reported to the Diet pursuant to the provisions of Article 12, paragraph (4) of The Basic Act on Cybersecurity (Act No. 104 of 2014), as applied mutatis mutandis to paragraph (5) of the same Article.
 
-## Table of Contents
+Table of Contents
 
 I. Background of Formulation ............................................................. 1 II. Fundamental Concept of the Strategy............................................. 4
 

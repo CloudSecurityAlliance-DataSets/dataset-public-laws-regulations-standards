@@ -10,18 +10,18 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Republic of China Quadrennial Defense Review (四年期國防總檢討)",
+  "description": "Official 2021 edition of Republic of China Quadrennial Defense Review (四年期國防總檢討) (Republic of China Quadrennial Defense Review (四年期國防總檢討) (2021)), published by Ministry of National Defense (Taiwan) (mnd.gov.tw).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defense (Taiwan) (mnd.gov.tw) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defense (Taiwan) (mnd.gov.tw).",
   "license": {
-    "spdx": "LicenseRef-TW-MND-Copyright-Reserved",
-    "Grouping": "Government-Copyright-Reserved",
-    "redistribution": "requires_prior_permission",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
     "derivatives": "prohibited",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "https://www.mnd.gov.tw/",
-    "note": "Copyright Ministry of National Defense, R.O.C. (Taiwan); all rights reserved, reprints without permission prohibited.",
-    "notes": "Copyright Ministry of National Defense, R.O.C. (Taiwan); all rights reserved, reprints without permission prohibited."
+    "note": "Government publication; Copyright Ministry of National Defense, R.O.C. (Taiwan) retained. Publicly released for free download, policy reference, and study; commercial reprints or derivative works without permission are prohibited.",
+    "notes": "Government publication; Copyright Ministry of National Defense, R.O.C. (Taiwan) retained. Publicly released for free download, policy reference, and study; commercial reprints or derivative works without permission are prohibited."
   },
   "links": {
     "wikipedia": "",

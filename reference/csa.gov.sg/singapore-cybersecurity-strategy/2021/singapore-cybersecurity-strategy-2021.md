@@ -168,7 +168,7 @@ our lives, sow mistrust, and deepen social
 
 October 2021
 
-## Contents
+Contents
 
 Overview of the Singapore Cybersecurity Strategy 2021 1
 

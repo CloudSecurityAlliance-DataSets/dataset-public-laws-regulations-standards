@@ -1,8 +1,6 @@
 # AI Strategy 2022 (AI戦略2022)
 
-## AI Strategy 2022
-
-(tentative translation)
+## AI Strategy 2022 (tentative translation)
 
 ### April 22, 2022
 

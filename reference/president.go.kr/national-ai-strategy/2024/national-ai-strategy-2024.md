@@ -1,294 +1,345 @@
 # National AI Strategy for Leap to AI G3 Powerhouse (2024)
 
-- [Go to content](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#container)
-- [Go to main menu](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#gnb)
+과학기술정보통신부 보도참고자료
 
-This website is the official e-government website of Korea.
+보도시점 2024. 9. 26(목) 별도 문자공지 시점 배포 2024. 9. 26(목) 12:00
 
-## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+## 인공지능 3대 강국(AI G3) 도약을 위한 — 대한민국 AI 혁신의 청사진 제시
 
-- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)
-- Language
+- 관계부처 합동, 윤석열 대통령 주재 제1차 국가인공지능위원회에서 AI G3
 
-- [한국어](https://www.msit.go.kr/index.do)
-  - [English](https://www.msit.go.kr/eng/index.do)
+도약을 견인할 국가 AI혁신 비전을 담은 「국가 AI전략 정책방향」 발표
 
-Integrated search
+- “AI G3국가 도약을 통해 글로벌 AI 중추국가 실현”을 비전으로
 
-검색 초기화
+민·관이 원팀이 되어 범국가적 ‘4대 AI 플래그십 프로젝트’ 추진
 
-SERCH
+▶ (프로젝트1) ‘국가AI컴퓨팅 센터’ 구축 등 최신GPU 15배 확충, 국산 AI반도체 상용화 지원
 
-- [News & Notice](javascript:fn_menulast_go('eng', '1', '2', '#');)
+▶ (프로젝트2) 4년간(’24~’27) 민간 총 65조원 규모 AI분야 투자, 정부는 투자 활성화 지원
 
-## News & Notice
+▶ (프로젝트3) 국가전반 AI 大전환으로 ’30년까지 AI 도입률 산업 70% + 공공 95% 달성
 
-Global science and technology powerhouse!
+▶ (프로젝트4) AI 안전·안보역량 조기확보로 글로벌 AI 거버넌스 주도
 
-- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
-    ');)
-  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do
-    ');)
-  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do
-    ');)
-  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do
-    ');)
-  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do
-    ');)
-- [Laws & Statistics](javascript:fn_menulast_go('eng', '1', '13', '#');)
+- AI 생태계의 핵심인 4대 분야(①스타트업·인재 확충, ②기술·인프라 혁신,
 
-## Laws & Statistics
+③포용·공정기반 조성, ④글로벌 리더십 확보) 정책 추진방향 제시
 
-Global science and technology powerhouse!
+과학기술정보통신부(장관 유상임, 이하 과기정통부)는 9월 26일(목)에 포시
 
-- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
-  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do
-    ');)
-  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 "Opens new window")
-- [About MSIT](javascript:fn_menulast_go('eng', '1', '19', '#');)
+즌스 호텔 서울에서 윤석열 대통령 주재로 개최된 제1차 국가인공지능
 
-## About MSIT
+위원회(이하 ‘국가AI위원회’)에서 「국가 AI전략 정책방향」을 발표했다고 밝혔다.
 
-Global science and technology powerhouse!
+< 국가AI위원회 출범식 및 1차회의 개요 >
 
-- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
-    ');)
-  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do
-    ');)
-  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do
-    ');)
-  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do
-    ');)
-  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do
-    ');)
-  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do
-    ');)
-  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do
-    ');)
-  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do
-    ');)
+∎ (일시/장소) ‘24년 9월 26일(목), 10:00~11:10 / 포시즌스 서울호텔
 
-This website is the official e-government website of Korea.
+∎ (슬로건) 인공지능 대전환, 도약하는 대한민국
 
-## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+∎ (의의) 국가 AI정책 수립의 구심점인 국가AI위원회 출범에 맞추어 국가
 
-Open Search Area
+AI 비전과 청사진, 대통령의 강력한 추진 의지 표명
 
-Search Area
-Integrated search
+∎ (참석) 정부 : 대통령(위원장), 관계부처 장관, 과기수석 등 10여명 민간 : 염재호 태재대 총장(부위원장) 등 AI분야 전문가 30명
 
-SEARCH
+- 1 -
 
-search reset
+이날 발표된 「국가 AI전략 정책방향」의 주요 내용은 다음과 같다.
 
-close Search Area
+## 1. 배경 및 의의
 
-Open All Menus
+전례없이 빠르고 광범위한 AI기술 혁명이 진행되며 全세계가 AI시대로
 
-## [Ministry of Science and ICT](https://www.msit.go.kr/eng/index.do)
+빠르게 진입하고 있다. 이제 AI가 기술을 넘어, 국가 경제‧안보를 좌우하는
 
-Close all menus
+시대적 大전환기로, 美·中·EU 등 주요국은 국가 생존과 직결된 AI 경쟁력
 
-- [Site Map](https://www.msit.go.kr/eng/contents/cont.do?sCode=eng&mPid=32&mId=33)
-- Language
+확보를 위해 AI 혁신 가속화와 글로벌 AI리더십 구축에 사활을 걸고있다.
 
-- [한국어](https://www.msit.go.kr/index.do)
-  - [English](https://www.msit.go.kr/eng/index.do)
+그간 우리도 정부 출범 이래, AI를 국정의 핵심아젠다로 두고 ‘뉴욕구상’(’22.9.),
 
-- [News & Notice](javascript:void(0);)
+‘파리이니셔티브’(’23.6.), ‘디지털권리장전’(’23.9.), ‘AI-반도체 이니셔티브’(’24.4.),
 
-## News & Notice
+‘AI 서울정상회의’(’24.5.) 등 대통령을 중심으로 AI 경쟁력 강화와 글로벌
 
-- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
-    ');)
-  - [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do
-    ');)
-  - [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do
-    ');)
-  - [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do
-    ');)
-  - [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do
-    ');)
-- [Laws & Statistics](javascript:void(0);)
+규범 주도를 위해 정책적 노력을 지속해 왔다.
 
-## Laws & Statistics
+우리나라는 자체 생성형 AI모델*을 다수 개발하는 등 AI SW 생태계를
 
-- [Laws](javascript:fn_menulast_go('eng', '13', '34', '#');)
-  - [Statistics](javascript:fn_menulast_go('eng', '13', '18', '/eng/contents/cont.do
-    ');)
-  - [National Law Information Center](http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124 "Opens new window")
-- [About MSIT](javascript:void(0);)
+구축하고, 세계 최고수준의 AI 반도체 메모리와 제조업 경쟁력을 보유하고
 
-## About MSIT
+있으나, 천문학적 자본을 앞세운 빅테크 주도의 AI 혁신경쟁이 심화되며
 
-- [Minister](javascript:fn_menulast_go('eng', '19', '20', '/eng/contents/cont.do
-    ');)
-  - [Vice Minister for Science, Technology and Innovation](javascript:fn_menulast_go('eng', '19', '21', '/eng/contents/cont.do
-    ');)
-  - [1st Vice-Minister](javascript:fn_menulast_go('eng', '19', '22', '/eng/contents/cont.do
-    ');)
-  - [2nd Vice-Minister](javascript:fn_menulast_go('eng', '19', '23', '/eng/contents/cont.do
-    ');)
-  - [About MI](javascript:fn_menulast_go('eng', '19', '24', '/eng/contents/cont.do
-    ');)
-  - [Organization](javascript:fn_menulast_go('eng', '19', '25', '/eng/contents/cont.do
-    ');)
-  - [Location Map](javascript:fn_menulast_go('eng', '19', '26', '/eng/contents/cont.do
-    ');)
-  - [Extension Agency](javascript:fn_menulast_go('eng', '19', '31', '/eng/contents/cont.do
-    ');)
+AI 정책의 패러다임 전환이 요구되고 있다.
 
-## News & Notice
+] * 1위: 美(64개) > 2위: 中(42개) > 3위: 韓(11개) 순(출처: EPOCH AI, ‘24.7.)
 
-- [Notice](javascript:fn_menulast_go('eng', '2', '3', '/eng/bbs/list.do
-  ');)
-- [Press Releases](javascript:fn_menulast_go('eng', '2', '4', '/eng/bbs/list.do
-  ');)
-- [Photo News](javascript:fn_menulast_go('eng', '2', '5', '/eng/bbs/list.do
-  ');)
-- [Science & ICT Trends](javascript:fn_menulast_go('eng', '2', '7', '/eng/bbs/list.do
-  ');)
-- [Newsletter](javascript:fn_menulast_go('eng', '2', '8', '/eng/newsLetter/list.do
-  ');)
+이에 AI가 미래 30년을 좌우할 중대한 기로에서, 과거 정보화 혁명의
 
-Press Releases
+DNA와 그간 민·관이 함께 축적해 온 AI 경험과 역량을 토대로 AI G3
 
-- [SNS Share](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#shareBox)
+강국을 실현할 청사진을 담은 「국가 AI전략 정책방향」을 수립하였다.
 
-### SNS Share
+## 2. 정책 패러다임 전환
 
-- [FaceBook](javascript:sendSns('facebook', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "새창열림")
-  - [Twitter](javascript:sendSns('twitter', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "새창열림")
-  - [URL Copy](javascript:sendSns('url', '﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)', document.location.href); "URL복사하기")Close
-- [Print](javascript:printView();)
+그간 AI정책의 성과·한계를 분석하고, 최근 글로벌 AI시장 환경과
 
-## ﻿Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse (AI G3)
+우리의 잠재력을 종합적으로 고려하여, AI혁신역량을 극대화하고,
 
-담당부서
+부족한 부분은 집중 보완하는 정책 패러다임 전환을 추진한다. 우선,
 
-작성자
+정부는 AI인프라 초기 확충 지원에서 나아가, 민간이 자체적으로 해결하기
 
-연락처
+어려운 AI인프라 대형화·집적화를 지원한다. 또한, 재정투입에 더해 민간이
 
-﻿﻿- Joint Announcement of “Policy Directions for National AI Strategies” at the 1st National AI Committee chaired by President Yoon Suk Yeol, setting the course for Korea's leap to AI G3
+적극적으로 AI분야 투자를 확대할 수 있도록 투자환경을 대폭 개선할 계획이다.
 
-- Unified Efforts Between Government and Private Sector to implement four nationwide “AI Flagship Projects” under the vision of “Establishing a Global AI Hub through the Leap to AI G3”
+그리고 AI를 국가 인프라化하여 범국가적인 AI전환을 추진하고, 민·관이
 
-(Project 1) Expand advanced GPU capacity by 15 times and support the commercialization of domestic AI semiconductors, including the establishment of the “National AI Computing Center”
+원팀이 되어 국내시장을 넘어 세계로 진출할 수 있도록 지원한다.
 
-(Project 2) Stimulate private investment of KRW 65 trillion in the AI sector over four years (2024-2027), with government initiatives to encourage this growth
+- 2 -
 
-(Project 3) Drive a nationwide AI transformation to achieve an AI adoption rate of 70% in industries and 95% in the public sector by 2030
+## 3. 비전 및 추진전략
 
-(Project 4) Establish robust AI safety and security capabilities early on to take the lead in global AI governance
+이번 「국가 AI전략 정책방향」은 “AI G3 국가 도약을 통해 글로벌 AI
 
-- Outline of Policy Directions across four key areas of the AI ecosystem: (1) Fostering Startups and Talent, (2) Innovating Technology and Infrastructure, (3) Creating an Inclusive and Fair Environment, and (4) Securing Global Leadership
+중추국가 실현”을 비전으로 하며, 범국가적으로 추진해 나갈 핵심과제인
 
-The Ministry of Science and ICT (MSIT), led by Minister Yoo Sang-im, announced that on September 26th, the “Policy Directions for National AI Strategies” was unveiled at the 1st meeting of the National AI Committee, chaired by President Yoon Suk Yeol and held at the Four Seasons Hotel in Seoul.
+‘4대 AI 플래그십 프로젝트’와 AI 생태계의 핵심인 4대 분야(①스타트업·인재 확충,
 
-Key Summary of the “Policy Directions for National AI Strategies”
+②기술·인프라 혁신, ③포용·공정기반 조성, ④글로벌 리더십 확보) 정책 추진방향을 제시하였다.
 
-1. Background and Significance
+비전 AI G3 국가 도약을 통해 글로벌 AI 중추국가 실현
 
-The world is rapidly entering the AI era, marked by an unprecedented and expansive revolution. AI is no longer just a technological advancement; it is driving a profound shift that reshapes national economies and security. Major nations like the U.S., China, and the EU are racing to accelerate AI innovation and establish global leadership, viewing AI as crucial to their national survival.
+【4대 AI 플래그십 프로젝트】
 
-Since the current government took office, Korea has placed AI at the forefront of its agenda and launched President-led initiatives such as the “New York Initiative” (Sept. 2022), “Paris Initiative” (June 2023), “Digital Bill of Rights” (Sept. 2023), “AI-Semiconductor Initiative” (April 2024), and the “AI Seoul Summit” (May 2024). These efforts aim to boost AI competitiveness and shape global standards.
+1. 국가 AI컴퓨팅 인프라 대폭 확충 2. 민간부문 AI투자 대폭 확대 3. 국가AX 전면化 4. AI안전·안보 확보
 
-Korea has developed a robust AI software ecosystem, producing several indigenous generative AI models, and boasts world-class semiconductor memory and manufacturing capabilities. However, as competition intensifies due to big tech companies with immense capital, there is a growing need for a paradigm shift in AI policies. Notably, Korea ranks third globally in generative AI models, with 11 developed domestically, following the U.S. (64) and China (42) as of July 2024 (source: EPOCH AI).
+추진전략
 
-Recognizing AI’s critical role in the next 30 years, the "Policy Directions for National AI Strategies" was created to provide a blueprint for Korea’s emergence as an AI G3 powerhouse, building on the country’s experiences from the digital revolution and the combined expertise of both public and private sectors.
+【4대 분야 정책 추진 방향】
 
-2. Shift in Policy Paradigm
+## 1. 스타트업·인재 확충2. 기술·인프라 혁신3. 포용·공정기반 조성4. 글로벌 리더십 확보
 
-By analyzing the successes and shortcomings of current AI policies, as well as considering the global AI market landscape and Korea’s potential, the policy aims to enhance AI innovation capabilities while addressing existing gaps with targeted support. The government will move beyond merely expanding the initial AI infrastructure to focus on scaling and integrating systems that private entities find difficult to build independently. In addition to direct investment, the government intends to greatly improve the landscape for private AI investments. Moreover, the government will establish AI as part of the national infrastructure, fostering transformation across all sectors and support public-private partnerships to help domestic companies venture into global markets.
+추진체계 민·관 역량을 총 결집할 국가AI위원회
 
-3. Vision and Implementation Strategy
+## 4. 주요내용
 
-The “Policy Directions for National AI Strategies” envisions establishing Korea as a "Global AI Hub through the Leap to AI G3." This vision is driven by four nationwide “AI Flagship Projects” and policy directions across four key areas of the AI ecosystem: (1) Expanding Startups and Talent, (2) Innovating Technology and Infrastructure, (3) Creating an Inclusive and Fair Environment, and (4) Securing Global Leadership.
+4대 AI 플래그십 프로젝트 추진
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Vision | Establish a Global AI Hub through the Leap to AI G3 | | | |
-| Implementation Strategies | **[Four AI Flagship Projects]** | | | |
-| 1. Significant Expansion of National AI Computing Infrastructure | | 2. Substantial Increase in Private AI Investment | |
-| 3. Comprehensive National AI Transformation (AI+X) | | 4. Securing AI Safety, Security, and Global Leadership | |
-| [Four Core Policy Directions] | | | |
-| 1. Fostering Startups and Talent | 2. Innovating Technology and Infrastructure | 3. Creating an Inclusive and Fair Environment | 4. Securing Global Leadership |
-| Implementation Framework | The National AI Committee will consolidate efforts between the government and private sector to drive these initiatives | | | |
-|  |  |  |  |  |
+첫째, 국가 AI컴퓨팅 인프라 대폭 확충 (‘30년까지 2EF 이상 : 최신GPU 보유규모 現대비 15배↑)
 
-4. Key Contents
+현재 우리 산업ㆍ연구계는 AI 경쟁력의 근간인 AI컴퓨팅 인프라가 빅테크
 
-Details of the Four AI Flagship Projects
+대비 절대적으로 부족한 상황이다. 향후 30년 AI시대에 대비, 현재 보유한
 
-Significant Expansion of National AI Computing Infrastructure(Expand to over 2 exaflops (EF) by 2030, increasing current GPU capacity 15-fold)
+최신 GPU 규모를 15배 이상 확충(~’30, 2EF 이상)하고, 국산 AI반도체 조기
 
-To bridge the current gap in AI computing infrastructure compared to major tech companies, Korea aims to expand its GPU capacity by more than 15 times by 2030, achieving over 2 exaflops. Efforts will also be made to commercialize domestic AI semiconductors. Through joint public-private investment, a “National AI Computing Center” will be established with a budget of up to KRW 2 trillion, alongside a low-interest loan program to support private sector expansion of AI computing infrastructure through 2027. This initiative aims to foster sustained private investment in AI computing infrastructure and provide world-class computing resources to companies and researchers. Furthermore, during the course of this initiative, the adoption of domestic AI semiconductors, such as NPUs (Neural Processing Units) and PIMs (Processing-In-Memory), will be promoted to nurture a specialized AI computing ecosystem in Korea, with a focus on developing and applying tailored hardware and software technologies. Moreover, efforts will be made to drive the globalization of Korea's AI computing ecosystem by supporting the export of domestic AI semiconductors through collaborations with global companies.
+상용화를 지원할 계획이다. 우선, 민ㆍ관 합작투자를 바탕으로 최대 2조원
 
-Substantial Increase in Private AI Investment
+규모의 ‘국가 AI컴퓨팅 센터’를 구축하고 저리대출 프로그램(~’27)을 통해
 
-(4-year private investment totaling KRW 65 trillion from 2024 to 2027, supported by government measures to boost investments)
+민간의 AI컴퓨팅 인프라 확충을 뒷받침한다. 이를 통해 민간의 지속적인
 
-Although private AI investment in Korea currently lags behind other major countries, a total of KRW 65 trillion in private investments will be made over the next four years (2024-2027). The government will support and incentivize these investments. As private companies expand their investments in AI technology, talent development, and computing infrastructure, the government will explore various tax benefits and expand policy finance measures, including the establishment of large-scale funds. This approach is intended to foster a virtuous investment cycle throughout the AI value chain, allowing Korea to actively engage in the growing global competition for AI dominance.
+AI컴퓨팅 인프라 투자를 촉진하고, 세계적 수준의 AI컴퓨팅 인프라를 기업·
 
-Comprehensive National AI Transformation (AI+X)
+연구자에게 제공할 계획이다. 또한, 추진과정에서 NPU, PIM 등의 국산 AI
 
-(Expand AI adoption across all sectors to achieve 70% in industries, 95% in the public sector by 2030)
+반도체를 도입, 특화된 HW·SW 기술개발 및 적용 등을 통해 국내 AI컴퓨팅
 
-Beyond limited AI applications in specific sectors, a comprehensive AI transformation will be implemented across the entire nation, covering industry, public services, society, regional development, and defense. Customized AX(AI+X) plans will be created for eight key industries—such as manufacturing, finance, and medical biotechnology—that have high potential for AI adoption but currently exhibit slow transitions. To enhance public sector capabilities, the government will establish a government-wide AI platform, which will be used to develop AI-based services in 18 public domains (e.g., safety, disaster response, healthcare, etc.), resulting in tangible AI services that citizens can experience (public sector AI+X). Additionally, proactive measures will be taken to address employment shifts caused by AI, strengthen protections for vulnerable workers, and introduce AI-based digital textbooks starting in 2025 to transform public education. AI-based innovations in the healthcare system will also be pursued. The establishment of regional AI innovation hubs and the formulation of military AI security policies, alongside the expansion of AI infrastructure in defense, will contribute to the widespread use of AI in national defense. Through this comprehensive AI adoption strategy, Korea aims to achieve AI adoption rates of 70% in industries and 95% in the public sector by 2030, ultimately reshaping the entire economic structure and generating an economic impact of approximately KRW 310 trillion by 2026.
+생태계를 육성한다. 아울러, 글로벌 기업 협업·실증을 통한 국산 AI반도체
 
-Securing AI Safety, Security, and Global Leadership
+수출 지원 등 국내 AI컴퓨팅 생태계의 글로벌화를 견인해 나갈 계획이다.
 
-(Take the lead in global AI governance by securing AI safety and security capabilities early on)
+- 3 -
 
-With the global rise of risks associated with advanced AI technologies—such as deepfake crimes and cyber threats—the importance of AI safety and security is becoming increasingly apparent. To systematically address the advanced risks of AI, Korea will establish a national AI Safety Research Center in November. Additionally, efforts will be made to achieve a balanced development of AI and ensure its safety and reliability by enacting an “AI Basic Act” within the year. The values and norms outlined in the “Seoul Declaration” will be promoted globally, and international cooperation will be expanded to encourage responsible use of AI in military and security contexts. Further efforts will be made to identify and support collaborative models between domestic and international companies, establish global AI research platforms like the AI Frontier Lab, and actively pursue AI-focused Official Development Assistance (ODA) initiatives to reinforce Korea’s position as a global AI leader.
+둘째, 민간부문 AI 투자 대폭 확대
 
-Details of the Four Core Policy Directions
+(4년간(‘24~’27) 민간 총 65조원 투자, 정부는 투자활성화 지원)
 
-Fostering AI Startups and Talent to Support AI Innovation
+주요국 대비 우리나라 민간투자는 부족한 상황이나, 올해부터 4년간(’24~’27) 민간은 AI 분야에 총 65조원 규모 투자를 단행하고, 정부는 민간 투자가 활성화될 수 있도록 지원한다. 민간이 AI 기술·인재·컴퓨팅 인프라 확보를 위한 투자를 본격화하는 한편, 정부는 관련 세제 지원을 검토하고, 대규모 펀드 조성 등 정책금융 지원을 확대한다. 이를 통해 AI 밸류체인 全영역에서 선순환 투자 생태계가 조성되어 규모의 AI 패권경쟁에 적극 대응해 나갈 수 있을 것으로 기대된다.
 
-While AI unicorn companies are emerging globally, Korea currently lacks its own AI unicorns, and there are ongoing challenges in securing AI talent. To address this, the government aims to nurture 10 AI unicorn companies by 2030 by creating a supportive environment for specialized AI startups and promoting M&A activities. Additionally, efforts will be made to simplify and globalize AI talent development, with the goal of securing 200,000 AI experts by 2030 (up from 51,000 in 2023).
+셋째, 국가 AX(AI+X) 전면화(’30년 AI도입률, 산업 70%, 공공 95% 달성)
 
-2) Advancing Core AI Technologies and Innovating AI Infrastructure
+특정분야에 한정된 AI 활용을 넘어, 산업, 공공, 사회, 지역, 국방에 이르는 국가전반의 AI 大전환도 추진한다. 먼저, 제조·금융·의료바이오 등 AI도입 효과가 높으나 AI전환이 더딘 8대 산업별 AX(AI+X) 대책을 수립· 추진하고, 범정부 AI 공통기반 구현 등을 통한 AI 활용역량 강화로 안전· 재난·보건 등 공공부문 18대 분야 국민체감 AI서비스(공공 AX)도 창출할 예정이다. 또한, AI로 인한 고용변화 대응 및 AI활용 노동약자 보호 강화, AI 디지털교과서 도입(’25~) 등을 통한 공교육 大전환, AI기반 의료시스템 혁신을 추진해 나간다. 아울러, 지역별 AI혁신거점을 구축하고, 軍 AI 보안정책 수립과 국방 AI 인프라 확충 등 국방분야 AI 활용여건을 조성·확산한다. 이러한 국가 AI 전면화로 ’30년까지 산업(70%)·공공부문(95%) AI도입률을 제고하고, 우리나라 경제 체질전반을 AI로 개선하여 총 310조원 규모의 경제효과(’26년 기준)를 창출해 나갈 계획이다.
 
-Joint research hubs focusing on AI semiconductors will be established to strengthen technological cooperation with leading countries. Efforts will also focus on securing competitiveness in emerging AI markets, such as on-device AI. Regulatory reforms concerning personal data will support AI innovation in new industries, and mechanisms for utilizing high-quality copyrighted content will be improved to create a conducive environment for generative AI. Furthermore, innovations in low-latency and low-power edge networks will be pursued, and laws such as the “Special Act on the Expansion of the National Power Grid” will be enacted to manage increased AI traffic and power demand.
+넷째, AI 안전·안보·글로벌 리더십 확보(글로벌 AI거버넌스 주도)
 
-3) Establishing a Sustainable Foundation for AI Development and Expansion
+전세계적으로 딥페이크 범죄, 사이버 위협 등 첨단 AI로 인한 위험이 확대 되며 AI 안전·안보의 중요성이 부각되고 있다. 이에 고도화된 AI 위험에 체계적으로 대응하는 국가 전담기관으로 ’AI안전연구소’를 올해 11월에 설립 하고, AI발전과 안전·신뢰를 균형 있게 달성할 「AI기본법」을 연내 제정 토록 추진한다. 또한, 「서울 선언」의 규범 가치를 전 세계에 널리 확산 시키고, 군사·안보분야 책임있는 AI 활용 확산을 위한 국제 협력도 확대해 나갈 계획이다. 아울러, 국내·외 기업간 협력모델 발굴·확산을 지원하고, 글로벌 AI 프론티어랩 등 세계적 AI 국제공동연구 플랫폼을 구축하며, 글로벌 AI ODA 사업도 적극 추진하여 글로벌 AI리더십을 강화해 나갈 예정이다.
 
-To ensure that everyone benefits from AI, the government will work towards enacting a “Digital Inclusion Act,” guaranteeing universal access to AI. Moreover, a fair competition framework will be established to support AI innovation, along with a framework to protect legitimate rights. Measures to prevent unfair discrimination and privacy violations during AI development and use will also be implemented.
+- 4 -
 
-Establishing New Norms for the AI Era and Leading Global AI Governance
+4대 분야 정책 추진방향
 
-Legal frameworks will be developed to address emerging issues in the AI era, such as the allocation of responsibility and rights for AI decisions. In addition, protections will be put in place for individuals and vulnerable groups in an era of AI-based automated decision-making. As a global AI hub, Korea will continue to expand its cooperation with leading nations and international organizations, actively taking the lead in global AI governance discussions.
+첫째, 국가 AI혁신을 뒷받침할 기초체력 확충을 위해 AI 스타트업·인재 육성
 
-5. Implementation Framework
+해외 AI유니콘 기업이 속속 등장하고 있으나, 아직 국내에는 AI유니콘
 
-The newly established National AI Committee will be responsible for establishing and implementing the “National AI Strategy” by translating the policy directions into concrete and actionable tasks. To achieve this, the committee will operate specialized subcommittees that include top private-sector experts and relevant ministries, who will work together to develop detailed initiatives and implementation plans. Additionally, dedicated support teams will provide structured support to ensure the committee’s smooth and efficient operation.
+기업이 부재하고, AI인재 수급 문제는 지속되고 있다. 이에 전문·특화분야
 
-During the meeting, President Yoon Suk Yeol, who chairs the National AI Committee, announced, "We are embarking on a national all-out effort to achieve our ambitious goal of becoming one of the top three global AI powerhouses (AI G3)." He further highlighted the committee’s role, stating, "The National AI Committee, inaugurated today, will serve as the central platform for fostering public-private cooperation, bringing together national innovation capabilities to spearhead a critical AI transformation. Together, we will design and shape the next 30 years, driven by AI."
+AI 스타트업 성장기반 조성과 M&A 활성화 환경 조성으로 ’30년까지 AI
 
-For further information, please contact the Public Relations Division (Phone: +82-44-202-4034, E-mail: msitmedia@korea.kr) of the Ministry of Science and ICT.
+유니콘 기업 10개 육성을 추진하고, AI인재 양성의 수월화·글로벌화·
 
-Please refer to the attached PDF.
+보편화를 통해 ’30년까지 20만 AI인재(’23, 5.1만명) 확보를 추진한다.
 
-### File
+둘째, AI핵심·원천기술 확충 및 AI인프라 혁신 추진
 
-- [AI 3대 강국 도약을 위한 대한민국 AI 혁신 청사진 제시.pdf](javascript:void(0); "PDF file download")
+먼저, AI-반도체 공동연구 협력거점 구축·운영 등을 통해 최고기술
 
-[DOWNLOAD](javascript:void(0); "file download")
-  [PREVIEW](javascript:void(0); "새창 열림")
-- [Blueprint for Korea’s Leap to Become One of the Top Three Global AI Powerhouse.docx](javascript:void(0); "Word file download")
+선도국과 기술협력을 확대하고, 미래 AI新시장인 온디바이스 AI 경쟁력
 
-[DOWNLOAD](javascript:void(0); "file download")
-  [PREVIEW](javascript:void(0); "새창 열림")
+확보를 추진한다. 또한, 개인정보 규제혁신을 통해 AI 신산업 혁신을
 
-**Type 1 : Source Indication** The works of the Ministry of Science and ICT can be used under the terms of "KOGL Type 1".
+뒷받침하고, 양질의 저작물 활용을 촉진하는 제도 개선으로 생성형 AI에
 
-- [PREV
-  MSIT, in collaboration with the Ministry of Foreign Affairs, promotes the training of specialized S&T diplomacy personnel.](javascript:void(0); "prev")
-- [NEXT
-  Global Cooperation Initiated to Address Global Challenges Using Biotechnology](javascript:void(0); "next")
+적합한 데이터 활용기반을 조성한다. 아울러, 저지연·저전력·Edge 네트워크
 
-[LIST](javascript:void(0); "LIST")
+혁신 등 AI 向 네트워크 고도화를 추진하고, 「국가기간전력망확충 특별법」
 
-[TOP](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037#wrap)
+제정 등을 통해 AI 트래픽·전력 수요 증가에 대응한다.
+
+셋째, 지속 가능한 AI발전·확산 기반 조성
+
+모두가 AI 혜택을 함께 누릴 수 있도록 全국민 AI접근·활용을 보장하기
+
+위해 「디지털포용법」 제정 등을 추진한다. 아울러, AI 혁신을 뒷받침할
+
+공정경쟁 질서와 정당한 권리보호 기반을 확립한다. 또한, AI 개발·활용
+
+과정에서 부당한 차별이나 프라이버시 침해방지 방안도 마련할 계획이다.
+
+넷째, AI시대의 新질서 정립 및 글로벌 AI 규범·거버넌스 주도
+
+AI시대의 새로운 쟁점인 AI 책임·권리 귀속관계 등 기본법리를 정립하고,
+
+AI 자동화 결정시대 개인·취약계층 보호 방안을 마련한다. 더 나아가,
+
+글로벌 AI 중추국가로서 선도국·국제기구와 AI협력을 지속 확대하고,
+
+글로벌 AI거버넌스 논의를 주도해 나갈 계획이다.
+
+- 5 -
+
+## 5. 추진체계
+
+이날 출범한 ‘국가AI위원회’는 「국가 AI전략 정책방향」을 집대성하여
+
+정책과제로 구체화한 「국가 AI전략」을 수립·이행해 나갈 계획이다. 특히,
+
+‘국가AI위원회’는 각 분야별 민간 최고전문가와 관계부처가 참여하는
+
+분과위원회를 운영하여 분야별 세부과제와 이행계획을 도출하고, 지원단
+
+운영을 통해 ‘국가AI위원회’ 활동을 체계적으로 지원할 예정이다.
+
+‘국가AI위원회’ 위원장으로 회의를 주재한 윤석열 대통령은 “대한민국 AI
+
+3대 강국 도약이라는 원대한 비전과 함께, 이를 실현하기 위한 ‘국가 총력전’을
+
+선포한다”고 밝히면서,
+
+“오늘 출범한 ‘국가AI위원회’가 범국가적 혁신 역량을 모으는 민관협력의
+
+구심점으로서 나라의 명운이 걸린 AI 전환을 선두에서 이끌며, AI가 주도
+
+하는 미래 30년을 함께 설계하고 실현해 나가자”고 강조하였다.
+
+* 붙임 : 「4대 AI 플래그십 프로젝트」 인포그래픽
+
+* 별첨 : AI G3 국가 도약을 위한 「국가 AI전략 정책방향」(발표자료)
+
+- 6 -
+
+< 관계부처 담당자 >
+
+책임자 과 장 남철기(044-202-6270) 담당자 사무관 유경태(044-202-6271) 담당자 사무관 이재호(044-202-6262) 과학기술정보통신부 정보통신정책총괄과
+
+과학기술정보통신부 인공지능기반정책과
+
+책임자 과 장 신상열(044-202-6120) 담당자 사무관 최문석(044-202-6112) 과학기술정보통신부
+
+총괄 담당 부처
+
+책임자 과 장 이상민(044-202-6320) 담당자 사무관 이연규(044-202-6321) 과학기술정보통신부 정보통신산업정책과
+
+소프트웨어정책과
+
+책임자 과 장 윤두희(044-202-6220) 담당자 서기관 김광년(044-202-6221) 과학기술정보통신부
+
+네트워크정책과
+
+책임자 과 장 정재훈(044-202-6420) 담당자 사무관 송창종(044-202-6421)
+
+기획재정부 책임자 과 장 박진호(044-215-2850) 신성장정책과 담당자 사무관 박홍희(044-215-4551)
+
+공동 담당 부처
+
+교육부 책임자 과 장 송선진(044-203-7046) 디지털교육전환담당관 담당자 사무관 이경민(044-203-7049)
+
+공동 담당 부처
+
+외교부 책임자 과 장 이준희(02-2100-6913) 국제과학기술규범과 담당자 사무관 최수호(02-2100-6980)
+
+공동 담당 부처
+
+법무부 책임자 과 장 유지중(02-2110-3497) 기획재정담당관 담당자 사무관 홍주영(02-2110-3496)
+
+공동 담당 부처
+
+국방부 책임자 과 장 강연경(02-748-5930) 데이터정책담당관 담당자 사무관 김경원(02-748-5933)
+
+공동 담당 부처
+
+행정안전부 책임자 과 장 고웅조(044-205-2201) 혁신기획과 담당자 사무관 허환녕(044-205-2213)
+
+공동 담당 부처
+
+문화체육관광부 책임자 과 장 김미라(044-203-2211) 기획혁신담당관 담당자 서기관 송승연(044-203-2212)
+
+공동 담당 부처
+
+산업통상자원부 책임자 과 장 남경모(044-203-4210) 산업정책과 담당자 서기관 이디도(044-203-4211)
+
+공동 담당 부처
+
+보건복지부 책임자 과 장 심은혜(044-202-2940) 보건의료데이터진흥과 담당자 사무관 이나래(044-202-2947)
+
+공동 담당 부처
+
+고용노동부 책임자 과 장 이상임(044-202-7210) 고용정책총괄과 담당자 사무관 이치훈(044-202-7397)
+
+공동 담당 부처
+
+중소벤처기업부 책임자 과 장 박승록(044-204-7250) 디지털혁신과 담당자 사무관 이상영(044-204-7704)
+
+공동 담당 부처
+
+공정거래위원회 책임자 과 장 이준헌(044-200-4327) 시장감시정책과 담당자 사무관 전혜준(044-200-4330)
+
+공동 담당 부처
+
+금융위원회 책임자 과 장 신상록(02-2100-2620) 금융데이터정책과 담당자 사무관 김하영(02-2100-2696)
+
+공동 담당 부처
+
+개인정보보호위원회 책임자 팀 장 구민주(02-2100-3071) 인공지능프라이버시팀 담당자 사무관 임수연(02-2100-3078)
+
+공동 담당 부처
+
+방송통신위원회 책임자 팀 장 백설영(02-2110-1655) 인공지능이용자보호대응팀 담당자 사무관 조홍빈(02-2110-1646)
+
+공동 담당 부처
+
+디지털플랫폼정부위원회 책임자 과 장 장은영(02-750-4721) 기획총괄과 담당자 사무관 정재윤(02-750-4722)
+
+공동 담당 부처
+
+- 7 -
+
+붙임 「4대 AI 플래그십 프로젝트」인포그래픽
+
+- 8 -

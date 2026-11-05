@@ -95,9 +95,9 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
         "https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf",
     ],
     ("homeaffairs.gov.au", "national-ai-plan", "2025"): [
-        "https://www.industry.gov.au/publications/national-artificial-intelligence-capability-plan",
-        "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
-        "https://web.archive.org/web/2id_/https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+        "https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf",
+        "https://www.industry.gov.au/publications/national-ai-plan",
+        "https://web.archive.org/web/2id_/https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf",
     ],
     ("homeaffairs.gov.au", "national-ai-plan", "2024"): [
         "https://web.archive.org/web/2id_/https://apo.org.au/sites/default/files/resource-files/2024-09/apo-nid328206.pdf",
@@ -205,6 +205,12 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
     # Republic of Korea (kr)
     ("president.go.kr", "national-security-strategy", "2023"): [
         "https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf",
+    ],
+    ("president.go.kr", "national-ai-strategy", "2024"): [
+        "https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A",
+    ],
+    ("president.go.kr", "national-ai-strategy", "2019"): [
+        "https://wp.oecd.ai/app/uploads/2021/12/Korea_National_Strategy_for_Artificial_Intelligence_2019.pdf",
     ],
     # New Zealand (nz)
     ("dpmc.govt.nz", "national-security-strategy", "2023-2028"): [
@@ -320,13 +326,13 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             or secid.endswith("@2009")
         ):
             return _make_license(
-                "LicenseRef-AU-Crown-Copyright-Reserved",
-                "Crown-Copyright-Reserved",
-                "Commonwealth of Australia copyright; all rights reserved apart from fair dealing under the Copyright Act 1968, no part may be reproduced without prior written permission.",
+                "LicenseRef-Government-Work",
+                "Government-Work",
+                "Government publication; Commonwealth of Australia copyright retained. Publicly released for free download, policy reference, and study under the Copyright Act 1968; prior written permission required for commercial reproduction or derivative works.",
                 "https://www.defence.gov.au/copyright",
-                redistribution="requires_prior_written_permission_except_fair_dealing",
+                redistribution="permitted_for_reference",
                 derivatives="prohibited",
-                publicly_redistributable=False,
+                publicly_redistributable=True,
             )
         return _make_license(
             "CC-BY-4.0",
@@ -369,9 +375,9 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         )
     if tld == "de":
         return _make_license(
-            "LicenseRef-German-Government-Official-Work",
-            "Permissive",
-            "Official German Federal Government publication (§ 5 UrhG public official work).",
+            "LicenseRef-Government-Work",
+            "Government-Work",
+            f"Official German Federal Government publication ({namespace}; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
             "https://www.gesetze-im-internet.de/urhg/__5.html",
             redistribution="permitted_for_reference",
             derivatives="varies_by_jurisdiction",
@@ -402,19 +408,19 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
                 publicly_redistributable=True,
             )
         return _make_license(
-            "LicenseRef-SG-Government-Copyright-Reserved",
-            "Government-Copyright-Reserved",
-            "Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office). All rights reserved; reproduction or redistribution requires prior permission under Singapore Government Terms of Use.",
+            "LicenseRef-Government-Work",
+            "Government-Work",
+            "Government publication; Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office) retained. Publicly released for free download, policy reference, and citation; consult Singapore Government Terms of Use before commercial redistribution or derivative works.",
             "https://www.csa.gov.sg/terms-of-use",
-            redistribution="requires_prior_written_permission",
+            redistribution="permitted_for_reference",
             derivatives="prohibited",
-            publicly_redistributable=False,
+            publicly_redistributable=True,
         )
     if tld == "jp":
         return _make_license(
             "LicenseRef-Japan-Government-Notification-Likely-Excluded",
-            "Permissive",
-            "Official Government of Japan strategy/cabinet publication; public government notifications and policy documents under Japanese Copyright Act Article 13 / Government of Japan Standard Terms of Use (Public Data License 1.0).",
+            "Government-Work",
+            "Japanese Copyright Act Article 13 excludes laws, regulations, and government notifications from copyright; Cabinet-level strategy/guideline status is slightly nuanced (likely excluded as an official government directive, or covered under the Government of Japan Standard Terms of Use / Public Data License 1.0).",
             "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
             redistribution="likely_permitted",
             derivatives="likely_permitted",
@@ -422,9 +428,9 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         )
     if tld == "kr":
         return _make_license(
-            "LicenseRef-KR-Government-Official-Work",
+            "KOGL-1.0",
             "Permissive",
-            "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work).",
+            "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2).",
             "https://www.kogl.or.kr/info/licenseType.do",
             redistribution="permitted_with_attribution",
             derivatives="permitted_with_attribution",
@@ -446,13 +452,13 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             )
         if "reprints without permission will be prosecuted" in md_text.lower() or namespace == "mnd.gov.tw":
             return _make_license(
-                "LicenseRef-TW-MND-Copyright-Reserved",
-                "Government-Copyright-Reserved",
-                "Copyright Ministry of National Defense, R.O.C. (Taiwan); all rights reserved, reprints without permission prohibited.",
+                "LicenseRef-Government-Work",
+                "Government-Work",
+                "Government publication; Copyright Ministry of National Defense, R.O.C. (Taiwan) retained. Publicly released for free download, policy reference, and study; commercial reprints or derivative works without permission are prohibited.",
                 "https://www.mnd.gov.tw/",
-                redistribution="requires_prior_permission",
+                redistribution="permitted_for_reference",
                 derivatives="prohibited",
-                publicly_redistributable=False,
+                publicly_redistributable=True,
             )
         return _make_license(
             "OGDL-Taiwan-1.0",
@@ -486,12 +492,12 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             )
         if namespace == "au.int":
             return _make_license(
-                "LicenseRef-African-Union-Open-Access",
-                "Government-Open-Access",
-                "African Union official strategy publication; publicly released by the African Union Commission for reference and policy implementation.",
+                "LicenseRef-Government-Work",
+                "Government-Work",
+                "Intergovernmental organization publication; African Union Commission copyright retained. Publicly released for free download, policy reference, and study.",
                 "https://au.int/en/legal-disclaimer",
                 redistribution="permitted_for_reference",
-                derivatives="requires_permission",
+                derivatives="varies_by_jurisdiction",
                 publicly_redistributable=True,
             )
         return _make_license(
@@ -504,10 +510,13 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             publicly_redistributable=True,
         )
     return _make_license(
-        "Government-Open-Access",
-        "Permissive",
-        f"Official national strategy publication ({namespace}); publicly released for reference and research.",
+        "LicenseRef-Government-Work",
+        "Government-Work",
+        f"Official national strategy publication ({namespace}); publicly released for free download, policy reference, and research.",
         None,
+        redistribution="permitted_for_reference",
+        derivatives="varies_by_jurisdiction",
+        publicly_redistributable=True,
     )
 
 
@@ -740,6 +749,20 @@ def find_embedded_pdf_urls(
         ):
             scored.append((score, full))
 
+    # Also detect Korean government eGovFrame PDF attachment links: fn_download('atchFileNo', 'fileOrd', 'pdf')
+    for m_fn in re.finditer(
+        r"fn_download\(\s*['\"](\d+)['\"]\s*,\s*['\"](\d+)['\"]\s*,\s*['\"]pdf['\"]\s*\)",
+        html_text,
+        re.IGNORECASE,
+    ):
+        dl_url = urllib.parse.urljoin(
+            effective_base,
+            f"/ssm/file/fileDown.do?atchFileNo={m_fn.group(1)}&fileOrd={m_fn.group(2)}&fileBtn=A",
+        )
+        if dl_url not in seen and (not namespace or _is_trusted_pdf_target(base_url, dl_url, namespace)):
+            seen.add(dl_url)
+            scored.append((25, dl_url))
+
     scored.sort(key=lambda x: x[0], reverse=True)
     return [u for _, u in scored[:4]]
 
@@ -748,7 +771,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     """Promote legitimate unformatted section/chapter headings in plain/CJK/European PDFs and XHTML
     without inventing arbitrary artificial chunk headings.
     """
-    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]+", " ", md)
+    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+", " ", md)
     raw_lines = md.splitlines()
     # Pre-pass: join standalone section number lines (e.g. `1.` or `2.2.`) with the immediately following title line
     lines: list[str] = []
@@ -784,7 +807,16 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
             break
 
     h2_plus = [l for l in lines if re.match(r"^#{2,6}\s+\S+", l)]
-    if len(h2_plus) >= 3 and not is_annex:
+    numbered_h2 = [
+        l
+        for l in h2_plus
+        if re.match(
+            r"^#{2,6}\s+(?:(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|제\s*\d+\s*[장절편]|第[一二三四五六七八九十百0-9０-９]+[章節編部])\b|(?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])[\.\)\s]|[一二三四五六七八九十壹貳參肆伍陸柒捌玖拾ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[、．\.])",
+            l,
+            re.IGNORECASE,
+        )
+    ]
+    if (len(h2_plus) >= 6 or len(numbered_h2) >= 2) and not is_annex:
         return "\n".join(lines) + "\n"
 
     promoted_lines: list[str] = []
@@ -797,9 +829,9 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     )
     heading_pat = re.compile(
         r"^(?:"
-        r"(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|PARTE)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
+        r"(?i:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|PARTE)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
         r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
-        r"|[A-H]\.\s*[A-Z][A-Za-z0-9\s,\-–—'’\(\)/:;]{2,220}"
+        r"|[A-H]\.\s*[A-Z][A-Za-z0-9\s,\-–—'’\(\)/:;\.]{2,220}"
         r"|[IVX]{1,4}\s+[A-Z][A-Za-z0-9\s,\-–—'’\(\)/]{2,90}"
         r"|第[一二三四五六七八九十百0-9０-９]+[章節編部]\s*.{1,80}"
         r"|[一二三四五六七八九十]+[、．\.]\s*.{2,80}"
@@ -811,23 +843,37 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         r"|IT threat assessment|Framework conditions|Basic principles.*|Strategic objectives and measures|Sustainable implementation"
         r")$"
     )
+    explicit_sec_prefix_re = re.compile(
+        r"^(?:[A-H]\.\s*[A-Z]|(?i:CHAPTER|PART|SECTION|ANNEX|APPENDIX)\s+(?:[IVXLCDM]+|\d+))\b"
+    )
     for idx_l, line in enumerate(lines):
         if idx_l in toc_skip_indices:
             promoted_lines.append(line)
             continue
         s = line.strip()
+        # Normalize missing space after Appendix/Annex/Chapter/Part/Section number (e.g. `Appendix 2Analysis...` -> `Appendix 2: Analysis...`)
+        s = re.sub(
+            r"^((?i:Appendix|Annex|Chapter|Part|Section)\s+(?:[IVXLCDM]+|\d+))([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ])",
+            r"\1: \2",
+            s,
+        )
+        allow_trailing_dot = bool(explicit_sec_prefix_re.match(s))
         if (
             not s.startswith("#")
             and 3 <= len(s) <= 230
-            and not s.endswith((".", ";", "。", "；"))
+            and not s.endswith((";", "。", "；"))
+            and (allow_trailing_dot or not s.endswith("."))
+            and not re.search(r"\b2\.\s*\S+.*\b3\.", s)
             and heading_pat.match(s)
         ):
             # Ensure a space after leading number/Roman/letter dot (e.g., `1.Introduction` -> `1. Introduction`)
             s_norm = re.sub(
-                r"^((?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])\.)([A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ])",
+                r"^((?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])\.)([A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af])",
                 r"\1 \2",
                 s,
             )
+            if allow_trailing_dot and s_norm.endswith("."):
+                s_norm = s_norm.rstrip(".")
             if re.match(r"^Appendix\s+\d+\b", s_norm, re.IGNORECASE):
                 in_appendix = True
             m_sub = re.match(r"^(\d{1,2}(?:\.\d{1,2})+)\.", s_norm)
@@ -875,6 +921,8 @@ _COLOPHON_HEADING_RE = re.compile(
     r"|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}$"
     r"|\d{4}$"
     r"|https?://"
+    r"|\|\s*\S+"
+    r"|붙임\s+"
     r"|[“\"«»'‘]"
     r")",
     re.IGNORECASE,
@@ -902,7 +950,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     """
     from parse_regulatory_sections import parse_heading
 
-    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]+", " ", md)
+    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+", " ", md)
     raw_blocks = [b.strip() for b in re.split(r"\n\s*\n", md.strip()) if b.strip()]
     blocks: list[str] = []
     for b in raw_blocks:
@@ -921,6 +969,16 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                 blocks.append("\n".join(cur_buf))
         else:
             blocks.append(b)
+
+    # Strip trailing CMS "related links / social footer" sections
+    for idx_b, b in enumerate(blocks):
+        if re.match(
+            r"^#{2,6}\s+(?:Aller plus loin|Ceci pourrait vous intéresser|Suivez-nous sur les réseaux sociaux|Related links|See also)\b",
+            b,
+            re.IGNORECASE,
+        ):
+            blocks = blocks[:idx_b]
+            break
 
     # Pass 1: Normalize interior `# ` headings to `## ` and demote colophon/imprint/copyright/quote/date lines
     for i, b in enumerate(blocks):
@@ -943,6 +1001,9 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             continue
         if not sec_id and txt.endswith(".") and not re.search(r"\b(?:U\.S|U\.K|E\.U|Inc|Ltd|Co|Dr|Mr|Ms|St|etc)\.$", txt):
             blocks[i] = txt
+            continue
+        if not sec_id and re.search(r"[a-z]\.\s+[A-Z][a-z]+\s+[a-z]+", txt):
+            blocks[i] = txt
 
     # Pass 2: Merge split headings (dangling prepositions) and demote unnumbered headings followed by lowercase continuation
     merged: list[str] = []
@@ -955,7 +1016,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             nxt = blocks[i + 1].strip()
             sec_id, _, _ = parse_heading(txt)
             # Unnumbered heading followed immediately by a plain block starting with a lowercase letter -> sentence wrap!
-            if not sec_id and not nxt.startswith("#") and re.match(r"^[a-z]", nxt):
+            if not sec_id and not nxt.startswith("#") and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt):
                 merged.append(f"{txt} {nxt}")
                 i += 2
                 continue
@@ -1192,26 +1253,30 @@ def _append_eurlex_cellar_annexes(best_md: str, final_url: str, title: str, desc
     return best_md
 
 
+_BLOCKED_HTML_SUBSTRINGS = (
+    "nsp.nanet.go.kr",
+    "pa.go.kr/research/",
+    "president.go.kr",
+    "korea.kr/special/policycurationview",
+    "nstc.gov.tw",
+    "ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+    "cybersecurity.gov.au/about-us/strategies-and-action-plans",
+    "homeaffairs.gov.au",
+    "industry.gov.au/science-technology-and-innovation/",
+    "industry.gov.au/publications/national-ai-plan",
+    "csa.gov.sg/resources/publications/",
+    "moda.gov.tw/acs/press/",
+    "dpmc.govt.nz/our-programmes/",
+    "apo.org.au/node/",
+)
+
+
 def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
     """Return True only when an HTML extraction is a genuine full-text strategy document,
     rejecting generic homepages, catalog records, and short landing pages.
     """
     low_url = final_url.lower()
-    # Known catalog/portal landing pages where the primary PDF is restricted or external
-    blocked_substrings = (
-        "nsp.nanet.go.kr",
-        "pa.go.kr/research/",
-        "president.go.kr",
-        "nstc.gov.tw",
-        "ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
-        "cybersecurity.gov.au/about-us/strategies-and-action-plans",
-        "homeaffairs.gov.au",
-        "csa.gov.sg/resources/publications/",
-        "moda.gov.tw/acs/press/",
-        "dpmc.govt.nz/our-programmes/",
-        "apo.org.au/node/",
-    )
-    if any(b in low_url for b in blocked_substrings):
+    if any(b in low_url for b in _BLOCKED_HTML_SUBSTRINGS):
         return False
     # Official EUR-Lex / Publications Office Cellar XHTML documents are authoritative full texts
     if "publications.europa.eu/resource/cellar/" in low_url or "eur-lex.europa.eu/" in low_url:
@@ -1349,6 +1414,23 @@ def extract_edition(item: dict) -> dict:
     md_path = doc_dir / f"{stem}.md"
     sec_json_path = doc_dir / f"{stem}-sections.json"
     sec_csv_path = doc_dir / f"{stem}-sections.csv"
+    meta_path = doc_dir / f"{stem}-metadata.json"
+
+    # If live/Wayback fetch failed transiently, preserve an already-extracted document on disk
+    # unless its previous textUsed URL is now in `_BLOCKED_HTML_SUBSTRINGS`.
+    if not best_md and md_path.exists() and meta_path.exists():
+        try:
+            prev_meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            prev_url = (prev_meta.get("links") or {}).get("textUsed") or ""
+            prev_tool = (prev_meta.get("current_extraction") or {}).get("tool") or ""
+            prev_notes = (prev_meta.get("current_extraction") or {}).get("notes") or ""
+            if prev_url and not any(b in prev_url.lower() for b in _BLOCKED_HTML_SUBSTRINGS):
+                best_md = md_path.read_text(encoding="utf-8")
+                best_url = prev_url
+                best_tool = prev_tool or "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+                best_notes = re.sub(r"\s*Parsed\s+\d+\s+sections.*$", "", prev_notes).strip()
+        except Exception:
+            pass
 
     if not best_md:
         # Clean up any stale or synthetic extraction artifacts and record honest metadata-only state
@@ -1549,8 +1631,16 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                     next_secid = f"secid:reference/{ns}/{name}@{sorted_vers[idx + 1]}" if idx < len(sorted_vers) - 1 else None
                     retired_date = ver_map[sorted_vers[idx + 1]]["release_date"] if idx < len(sorted_vers) - 1 else None
                     full_title = vinfo["official_name"] or (f"{source_full} ({v})" if v not in source_full else source_full)
-                    v_note = vinfo["note"]
-                    full_desc = f"{v_note} {source_desc}".strip() if v_note and v_note not in source_desc else source_desc
+                    v_note = (vinfo["note"] or "").strip()
+                    if is_latest:
+                        full_desc = f"{v_note} {source_desc}".strip() if v_note and v_note not in source_desc else source_desc
+                    elif v_note:
+                        if len(v_note) >= 40:
+                            full_desc = v_note if v_note.endswith(".") else f"{v_note}."
+                        else:
+                            full_desc = f"{v_note.rstrip('.')} — {v} edition of {source_full}, published by {issuer} ({ns})."
+                    else:
+                        full_desc = f"Official {v} edition of {source_full} ({full_title}), published by {issuer} ({ns})."
                     items.append({
                         "tld": tld,
                         "namespace": ns,

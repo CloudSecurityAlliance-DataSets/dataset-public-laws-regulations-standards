@@ -26,7 +26,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
-    "textUsed": "https://web.archive.org/web/20261006141330id_/https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence",
+    "textUsed": "https://web.archive.org/web/20261007020442id_/https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -39,19 +39,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://web.archive.org/web/20261006141330id_/https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) to Markdown (10,489 chars). Parsed 11 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 37-page PDF (https://web.archive.org/web/20261007020442id_/https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf) locally via PyMuPDF (83,073 chars). Parsed 30 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
     }
   ],
   "scope": {},

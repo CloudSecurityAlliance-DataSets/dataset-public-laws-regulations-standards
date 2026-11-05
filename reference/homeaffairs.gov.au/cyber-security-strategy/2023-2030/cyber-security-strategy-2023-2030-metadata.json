@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 64-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf) locally via PyMuPDF (123,100 chars). Parsed 135 sections (62 with explicit section identifiers)."
+    "notes": "Extracted 64-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf) locally via PyMuPDF (123,100 chars). Parsed 134 sections (62 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "National Cyber Security Program of Taiwan (國家資通安全發展方案)",
+  "description": "Official 2021 edition of National Cyber Security Program of Taiwan (國家資通安全發展方案) (National Cyber Security Program of Taiwan (國家資通安全發展方案) (2021)), published by Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw).",
   "license": {

@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
   "license": {
-    "spdx": "LicenseRef-KR-Government-Official-Work",
+    "spdx": "KOGL-1.0",
     "Grouping": "Permissive",
     "redistribution": "permitted_with_attribution",
     "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
-    "note": "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work).",
-    "notes": "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work)."
+    "note": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2).",
+    "notes": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 150-page PDF (https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf) locally via PyMuPDF (174,015 chars). Parsed 41 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 150-page PDF (https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf) locally via PyMuPDF (174,015 chars). Parsed 40 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

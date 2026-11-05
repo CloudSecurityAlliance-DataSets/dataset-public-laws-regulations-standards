@@ -24,7 +24,7 @@ Sincerely,
 
 Michael Kratsios Deputy Assistant to the President for Technology Policy June 21, 2019
 
-## Table of Contents
+Table of Contents
 
 Executive Summary ........................................................................................................................... iii Introduction to the 2019 National AI R&D Strategic Plan ........................................................................ 1 AI R&D Strategy .................................................................................................................................. 5
 

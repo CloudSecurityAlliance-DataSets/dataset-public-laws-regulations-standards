@@ -218,7 +218,7 @@ de puissance. Pour la France, le recours au véto implique des devoirs et une re
 
 22.  La perméabilité des sociétés européennes aux influences extérieures a enfin été illustrée, de façon tragique, par l’efficacité de la propagande jihadiste. Cette dernière est parvenue non seulement à recruter des soutiens et des terroristes au sein des populations en Europe, mais encore à fragiliser les sentiments d’appartenance, affectant ainsi la cohésion des sociétés.
 
-### 2. Une France exposée et engagée
+## 2. Une France exposée et engagée
 
 23.  La contraction de l’espace géopolitique, résultat de l’accroissement des interdépendances, facilite la propagation rapide des effets des crises, même lointaines, jusque sur le continent européen, plaçant ses pays et ses populations au contact direct des tensions de toute nature.
 
@@ -332,7 +332,7 @@ profondément les conditions de la stabilité régionale et internationale. Susc
 
 61.  En plus des crises ouvertes dans lesquelles elles sont impliquées ou susceptibles de l’être à travers les dispositifs de souveraineté et de prépositionnement, les armées sont également directement engagées sur le territoire national, outre-mer comme en métropole, dans le cadre de la posture de dissuasion, et de missions de protection (mission Sentinelle), de sauvegarde maritime et de sûreté aérienne. Ce dispositif s’appuie sur un réseau de bases, permanentes ou projetées, dont le maintien représente un investissement et un atout pour la sauvegarde de nos intérêts et l’exercice de nos responsabilités globales. Compte tenu du format actuel des armées, il en résulte un dépassement des contrats opérationnels et des difficultés lourdes en matière d’entraînement et de soutien.
 
-### 3.  Des fragilités multiples, facteurs d’aggravation des crises
+## 3.  Des fragilités multiples, facteurs d’aggravation des crises
 
 62.  L’augmentation continue des flux de biens comme de personnes, ainsi que la relativisation des distances et du temps peuvent fragiliser la capacité des Etats à garantir l’intégrité de leurs territoires et la protection de leurs citoyens. Un ensemble d’autres facteurs est susceptible de favoriser l’émergence de conflits ou de crises.
 
@@ -378,7 +378,7 @@ profondément les conditions de la stabilité régionale et internationale. Susc
 
 78.  Enfin, dans l’espace numérique, les possibilités d’anonymisation (réseau TOR) et la création de monnaies électroniques (Bitcoin notamment) présentent de nouvelles opportunités criminelles dont les perspectives de développement semblent exponentielles.
 
-### 4.  Des ruptures technologiques et numériques
+## 4.  Des ruptures technologiques et numériques
 
 79.  Les ruptures technologiques, si elles peuvent être porteuses de progrès, alimentent également l’instabilité de l’environnement stratégique : la sophistication des armements et la diffusion rapide de nombreuses technologies permettent désormais à des Etats de taille intermédiaire, mais aussi à des individus isolés ou à des groupes, de se doter ou de développer des capacités jusqu’ici maîtrisées par un nombre restreint d’Etats.
 
@@ -506,7 +506,7 @@ force et de puissance. La montée en puissance de la marine chinoise a d’abord
 
 121.  De ce fait, il est donc important d’entretenir avec Pékin un dialogue stratégique lucide et exigeant, en suivant attentivement la montée en puissance militaire chinoise et les conséquences qu’elle pourra avoir dans les nouvelles zones d’interaction en Afrique (Djibouti) et dans l’océan Indien.
 
-### 2. Des espaces contestés
+## 2. Des espaces contestés
 
 122.  Enjeu traditionnel de rivalité entre grands Etats, l’accès aux espaces stratégiques communs ou partagés (maritime, aérien, exo-atmosphérique, numérique) fait l’objet d’une compétition dont l’intensité croît, alors que les règles communes qui les gouvernent sont soit insuffisantes (spatial et cyberespace), soit fragilisées ou contestées (droit aérien ou maritime) au profit des rapports de force. Cette compétition est également caractérisée par l’augmentation rapide du nombre des acteurs, puissances établies ou émergentes, étatiques ou non étatiques, comme de leurs moyens d’action.
 
@@ -554,7 +554,7 @@ développement d’une « route de la soie numérique ». Ce faisant, elle vise 
 
 136.  Enfin, la fréquence, l’ampleur et la sophistication technologique des agressions augmentent sans cesse dans l’espace numérique, où les Etats se livrent à des affrontements constants, qui pourraient à l’avenir relever du seuil de l’emploi de la force ou de l’agression armée, avec des conséquences collatérales potentielles pour les acteurs privés. Si le principe de l’applicabilité du droit international à l’espace numérique et aux cyber opérations, défendu par la France, fait l’objet d’un consensus croissant, certains Etats continuent de s’y opposer. Par ailleurs, la question de ses modalités d’application et surtout du contrôle de leur mise en œuvre reste ouverte.
 
-### 3. De l’ambiguïté à l’escalade
+## 3. De l’ambiguïté à l’escalade
 
 137.  Le développement technologique, la dissémination des capacités militaires avancées et le développement des nouveaux domaines de confrontation posent des défis nouveaux aux systèmes de défense et de sécurité traditionnels. En élargissant la gamme des options disponibles aux acteurs de tous types, ils favorisent le développement de stratégies totales ou «intégrales», l’association de capacités militaires et non militaires et la combinaison de postures ambiguës, souvent qualifiées « d’hybrides », de pressions directes et indirectes permettant d’agir depuis le temps de paix jusqu’au conflit ouvert. Alors que le renforcement généralisé des capacités militaires, dans le haut comme dans le bas du spectre, rend les conflits armés plus durs, les risques d’incidents graves ou d’escalades non maîtrisées augmentent.
 
@@ -682,7 +682,7 @@ Dans l’espace euro-méditerranéen et en Afrique, nous sommes amenés à assum
 
 180.  Notre autonomie suppose aussi de disposer des capacités d’accompagnement et de sortie de nos opérations militaires, dans le cadre d’une approche globale : soutien de partenaires qui seront en première ligne, soutien aux opérations d’organisations régionales et aux OMP, effort diplomatique parallèle à l’engagement pour résoudre la crise, moyens financiers d’intervention rapide pour la stabilisation, l’assistance d’urgence et la reconstruction… Autrement dit, l’autonomie stratégique ne saurait se penser en termes exclusivement militaires et suppose une articulation étroite avec nos instruments civils, qu’il s’agisse de diplomatie ou de développement.
 
-### 2.  Une ambition européenne exigeante et des responsabilités globales
+## 2.  Une ambition européenne exigeante et des responsabilités globales
 
 181.  Face à la contestation des instruments de sécurité et de stabilité mondiaux, la France doit pleinement s’investir dans la refondation d’un ordre collectif et multilatéral, en lien avec ses alliés et partenaires. Cet engagement passe d’abord, dans le domaine de la défense, par l’Europe, les coopérations européennes bilatérales et le lien transatlantique. L’ensemble des partenariats bilatéraux de la France contribue également à la garantie des intérêts communs.
 
@@ -902,7 +902,7 @@ COmmuniCatiOns
 
 236.  Enfin, la France devra continuer à proposer une offre de formation au meilleur niveau afin de rester attractive et de préparer les futures générations aux défis à relever en matière de sécurité et de défense. A ce titre, l’agilité et l’innovation sont non seulement des facteurs décisifs pour assurer dans la durée notre supériorité technologique et opérationnelle, mais ont aussi un pouvoir d’attraction essentiel pour le recrutement et la fidélisation des meilleurs collaborateurs au sein du ministère des Armées comme des entreprises de la défense.
 
-### 4. Consolider les fonctions stratégiques
+## 4. Consolider les fonctions stratégiques
 
 237.  Utilisées pour décrire la mise en œuvre de la stratégie de défense et de sécurité de la France et structurer le modèle d’armée nécessaire à son ambition, les cinq fonctions stratégiques définies par le Livre blanc de 2013 conservent leur pertinence.
 

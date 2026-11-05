@@ -164,7 +164,7 @@ Mr. David van Duren Director, Global Forum on Cyber Expertise Secretariat
 
 Mr. Georges de Moura Head of Industry Solution, Center for Cybersecurity, World Economic Forum
 
-## Contents
+Contents
 
 Some Rights Reserved Rights & Permissions Disclaimers; privileges and immunities vi Joint foreword vii Preface 4 Note to readers on the update 4
 

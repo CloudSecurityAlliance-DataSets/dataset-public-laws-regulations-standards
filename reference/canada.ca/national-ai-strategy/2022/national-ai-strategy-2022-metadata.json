@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Pan-Canadian Artificial Intelligence Strategy Phase 2 (launched June 22, 2022). Government of Canada national artificial intelligence strategy issued by Innovation, Science and Economic Development Canada (ISED), originating with the 2017 Pan-Canadian AI Strategy (world's first national AI strategy, implemented with CIFAR, Mila, Vector Institute, and Amii), expanded in Phase 2 (2022), and renewed in June 2026 as 'Canada's National Artificial Intelligence Strategy: AI for All'.",
+  "description": "Pan-Canadian Artificial Intelligence Strategy Phase 2 (launched June 22, 2022).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Canada (canada.ca) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Canada (canada.ca).",
   "license": {

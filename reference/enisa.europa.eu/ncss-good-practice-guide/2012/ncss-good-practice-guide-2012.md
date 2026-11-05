@@ -32,7 +32,7 @@ Reproduction is authorised provided the source is acknowledged.
 
 Practical Guide on Development and Execution
 
-## Contents
+Contents
 
 Executive summary ....................................................................................................................... 1
 

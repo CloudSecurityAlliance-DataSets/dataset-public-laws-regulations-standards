@@ -14,7 +14,9 @@ This work is copyright. Apart from any use as permitted under the Copyright Act 
 
 NATIONAL DEFENCE
 
-## Contents
+## DEFENCE STRATEGIC REVIEW
+
+Contents
 
 National Defence Statement 2023.............................................5
 

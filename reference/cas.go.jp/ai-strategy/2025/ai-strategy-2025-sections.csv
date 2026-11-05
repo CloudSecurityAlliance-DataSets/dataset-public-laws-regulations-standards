@@ -7,8 +7,11 @@ ARTIFICIAL INTELLIGENCE BASIC PLAN
 
 December 23, 2025
 
-Cabinet Decision"
-"2","","Table of Contents","","","Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the world” —
+Cabinet Decision
+
+Table of Contents
+
+Chapter 1 Basic Concept — Aiming to Become “the most AI-friendly country in the world” —
 
 Chapter 2 Basic Policies on Measures for Promoting AI Innovation
 
@@ -147,7 +150,7 @@ To realize pervasive AI utilization and improve performance, we will strategical
 (iii) Make high-quality data in semi-public sectors such as medical care, education, agriculture, forestry and fisheries, and construction, and in industrial and research fields that are Japan’s strengths, into Japan’s winning strategy; while ensuring data security including measures addressing the risk of leakage of trade secrets, build a data linkage platform. [Cabinet Office (◎), Digital Agency, relevant ministries and agencies]
 
 (iv) Examine the regulations on obtaining data subjects’ consent for contributing to facilitating AI development, etc. which can be categorized as generating statistics, and how to ensure compliance with regulations; and aim for early submission to the Diet of a bill to amend the Act on the Protection of Personal Information (Act No. 57 of 2003). [Personal Information Protection Commission]"
-"3","Table of Contents: Section 2 (1)","Strategically Strengthening AI Development Capabilities","section_word","","To strengthen Japan’s autonomous capacity to research, develop, and operate AI, we will strategically and integratively build the domestic AI tech stack that includes data and data centers, foundation models, and applications, while gaining a comprehensive view of the entire tech stack. By actively expanding overseas to enhance international competitiveness, we aim to contribute to strengthening national power and correcting digital deficits. Taking into account state sovereignty and national security perspectives, we will ensure Japan’s autonomy and indispensability.
+"3","Section 2 (1)","Strategically Strengthening AI Development Capabilities","section_word","","To strengthen Japan’s autonomous capacity to research, develop, and operate AI, we will strategically and integratively build the domestic AI tech stack that includes data and data centers, foundation models, and applications, while gaining a comprehensive view of the entire tech stack. By actively expanding overseas to enhance international competitiveness, we aim to contribute to strengthening national power and correcting digital deficits. Taking into account state sovereignty and national security perspectives, we will ensure Japan’s autonomy and indispensability.
 
 We position AI as intellectual and execution infrastructure, and through research and development, and utilization of energy-efficient foundation models, we will realize a new “Technology-Driven Nation” and
 
@@ -208,7 +211,7 @@ To ensure the sustainable development of the AI tech stack, the public and priva
 (iii) Promote development of a new flagship system that will be the next generation of the supercomputer following “Fugaku.” [Ministry of Education, Culture, Sports, Science and Technology]
 
 (iv) Promote expansion of production capacity and supply capacity for each layer of AI infrastructure developed and manufactured domestically, and strengthen the supply chain. [Ministry of Economy, Trade and Industry]"
-"3","Table of Contents: Section 3 (1)","Leading AI Governance","section_word","","To realize a positive cycle of AI innovation and build a trustworthy AI ecosystem, we will construct PDCA cycles across development, verification, evaluation, and operation. To achieve this, we will show the Government’s basic approach to encouraging autonomous and proactive initiatives by citizens and business operators.
+"3","Section 3 (1)","Leading AI Governance","section_word","","To realize a positive cycle of AI innovation and build a trustworthy AI ecosystem, we will construct PDCA cycles across development, verification, evaluation, and operation. To achieve this, we will show the Government’s basic approach to encouraging autonomous and proactive initiatives by citizens and business operators.
 
 We will substantially strengthen the national AI safety and evaluation functions (AI Safety Institute: AISI) and appropriately evaluate AI models’ technical aspects, grasp risks, and take necessary measures. To enhance the capabilities of the AISI, we will immediately expand staffing to approximately twice the current level, benchmarking against the scale of the UK's AI Security Institute, one of the world's leading institutions. (benchmark: UK AI Security Institute—approximately 200 personnel; initial budget about £100 million (≈¥20 billion) as of September 2025)
 
@@ -320,5 +323,5 @@ Centering on the Artificial Intelligence Strategic Headquarters—headed by the 
 The Headquarters will grasp the implementation status of the AI Basic Plan and conduct follow-up. We will set appropriate benchmarks and conduct monitoring to realize Japan’s vision stated in the AI Basic Plan.
 
 We will hear expert opinions as needed through the Expert Panel on AI Strategy and establish dedicated forums for individual reviews."
-"3","Table of Contents: Section 2 (2)","Revisions to the AI Basic Plan","section_word","","Given the characteristics of AI, its trends, and social conditions – such as the extremely rapid technological progress and expansion of use -we will review and revise this Plan as needed, in principle annually. In doing so, the opinions of experts and other stakeholders will be appropriately heard through the Expert Panel on AI Strategy, and, we will actively reflect the latest technological trends into the AI Basic Plan through strong industry–academia–government collaboration."
-"3","Table of Contents: Section 3 (2)","Coordination with Other Plans","section_word","","We will coordinate and integrate measures under this Plan with other related national plans—such as the Basic Plan for Science, Technology and Innovation (under Article 12, paragraph (1) of the Basic Act on Science, Technology and Innovation (Act No. 130 of 1995)) and the Priority Plan for the Formation of a Digital Society (under Article 39, paragraph (1) of the Basic Act on the Formation of a Digital Society (Act No. 35 of 2021))."
+"3","Section 2 (2)","Revisions to the AI Basic Plan","section_word","","Given the characteristics of AI, its trends, and social conditions – such as the extremely rapid technological progress and expansion of use -we will review and revise this Plan as needed, in principle annually. In doing so, the opinions of experts and other stakeholders will be appropriately heard through the Expert Panel on AI Strategy, and, we will actively reflect the latest technological trends into the AI Basic Plan through strong industry–academia–government collaboration."
+"3","Section 3 (2)","Coordination with Other Plans","section_word","","We will coordinate and integrate measures under this Plan with other related national plans—such as the Basic Plan for Science, Technology and Innovation (under Article 12, paragraph (1) of the Basic Act on Science, Technology and Innovation (Act No. 130 of 1995)) and the Priority Plan for the Formation of a Digital Society (under Article 39, paragraph (1) of the Basic Act on the Formation of a Digital Society (Act No. 35 of 2021))."

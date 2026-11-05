@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update (June 21, 2019). Multi-year federal strategic plan for artificial intelligence research and development issued by the National Science and Technology Council (NSTC) Select Committee on Artificial Intelligence and the Networking and Information Technology Research and Development (NITRD) Program.",
+  "description": "The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update (June 21, 2019).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by White House / Executive Branch (whitehouse.gov) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for White House / Executive Branch (whitehouse.gov).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,776 chars). Parsed 47 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 50-page PDF (https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf) locally via PyMuPDF (166,776 chars). Parsed 46 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

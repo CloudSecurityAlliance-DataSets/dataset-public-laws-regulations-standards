@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 68-page PDF (https://file.go.gov.sg/nais2023.pdf) locally via PyMuPDF (66,492 chars). Parsed 51 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 68-page PDF (https://file.go.gov.sg/nais2023.pdf) locally via PyMuPDF (66,492 chars). Parsed 50 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {

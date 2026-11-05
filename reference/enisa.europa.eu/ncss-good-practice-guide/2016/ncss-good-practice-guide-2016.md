@@ -16,7 +16,7 @@ For contacting the authors please use resilience@enisa.europa.eu For media enqui
 
 Legal notice Notice must be taken that this publication represents the views and interpretations of the authors and editors, unless stated otherwise. This publication should not be construed to be a legal action of ENISA or the ENISA bodies unless adopted pursuant to the Regulation (EU) No 526/2013. This publication does not necessarily represent state-of the-art and ENISA may update it from time to time. Third-party sources are quoted as appropriate. ENISA is not responsible for the content of the external sources including external websites referenced in this publication. This publication is intended for information purposes only. It must be accessible free of charge. Neither ENISA nor any person acting on its behalf is responsible for the use that might be made of the information contained in this publication. Copyright Notice © European Union Agency for Network and Information Security (ENISA), 2016 Reproduction is authorised provided the source is acknowledged. ISBN: 978-92-9204-179-3 DOI: 10.2824/48036
 
-## Table of Contents
+Table of Contents
 
 Executive Summary 5
 

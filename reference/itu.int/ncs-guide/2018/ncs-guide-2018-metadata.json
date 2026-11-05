@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "First edition (2018) — Guide to Developing a National Cybersecurity Strategy. Multi-stakeholder international reference guide coordinated by the ITU (with World Bank, Commonwealth Secretariat, NATO CCDCOE, ENISA, OAS, GFCE, Microsoft, et al.) for initiating, drafting, implementing, monitoring, and evaluating National Cybersecurity Strategies across five lifecycle phases.",
+  "description": "First edition (2018) — Guide to Developing a National Cybersecurity Strategy.",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by International Telecommunication Union (itu.int) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for International Telecommunication Union (itu.int).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf) locally via PyMuPDF (125,003 chars). Parsed 95 sections (27 with explicit section identifiers)."
+    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf) locally via PyMuPDF (125,003 chars). Parsed 94 sections (27 with explicit section identifiers)."
   },
   "extraction_history": [
     {

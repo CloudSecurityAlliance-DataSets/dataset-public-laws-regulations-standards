@@ -24,7 +24,7 @@ Printed on paper containing 40% recycled fibre content minimum.
 
 Printed in the UK by HH Associates Ltd. on behalf of the Controller of His Majesty’s Stationery Office.
 
-## Contents
+Contents
 
 Contents __________________________________________________________________ 3
 

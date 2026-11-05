@@ -12,7 +12,7 @@ Foreword by the Prime Minister
 
 Executive Summary
 
-## CONTENTS
+CONTENTS
 
 NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY
 

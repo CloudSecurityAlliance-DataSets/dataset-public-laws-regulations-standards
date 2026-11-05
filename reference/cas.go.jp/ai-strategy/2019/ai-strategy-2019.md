@@ -4,7 +4,9 @@
 
 AI for Everyone: People, Industries, Regions and Governments
 
-## （ tentative translation ） — June 11, 2019 Integrated Innovation Strategy Promotion Council Decision — Contents
+## （ tentative translation ） — June 11, 2019 Integrated Innovation Strategy Promotion Council Decision
+
+Contents
 
 Introduction···································································································· 1
 

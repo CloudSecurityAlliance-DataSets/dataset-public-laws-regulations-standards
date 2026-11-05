@@ -128,7 +128,7 @@ Aaron Mannes, DHS Nikunj Oza, NASA Richard Paladino, MDA Pavel Piliptchak, NIST 
 
 Ann Stapleton, USDA Elham Tabassi, NIST Mary Theofanos, NIST Steven Thomson, USDA Jay Vietas, NIOSH James Warren, NIST Megan Zimmerman, NIST
 
-## Table of Contents
+Table of Contents
 
 Executive Summary ............................................................................................................................................. vii Introduction to the National AI R&D Strategic Plan: 2023 Update ......................................................................... 1
 

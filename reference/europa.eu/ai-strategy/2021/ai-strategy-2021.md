@@ -1868,7 +1868,7 @@ The review of the Coordinated Plan and the feedback received from stakeholders s
 
 In conclusion, this 2021 review builds on the strong collaboration between the EU and the Member States and the lessons learned from the first 2 years of implementation of the Coordinated Plan. It puts forward key actions whereby collaboration between the Member States and the EU can be reinforced further. The revised plan therefore provides a valuable opportunity to strengthen competitiveness, the capacity for innovation and the responsible use of AI in the EU. The fast development and uptake of innovative AI in the EU can contribute to solving key societal challenges and accelerate the digital and green transitions at a time when the global AI landscape is evolving fast.
 
-Appendix 1 - Timeline – key actions
+### Appendix 1 - Timeline – key actions
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1935,9 +1935,10 @@ Appendix 1 - Timeline – key actions
 |  | | No foreseen action |  | | | | | | |
 
 [271](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote272)
-Appendix 2Analysis of national strategies and investments in AI
 
-#### Chapter 1: Overview of the national strategies
+### Appendix 2: Analysis of national strategies and investments in AI
+
+#### Overview of the national strategies
 
 Table 1
 
@@ -1963,7 +1964,7 @@ Some Member States have included measures to support the development and deploym
 
 National policies also differ in terms of priority sectors for action. Some Member States (e.g. Malta and Slovakia) took a horizontal approach and did not identify specific priority sectors. Others focused on the economic sectors that have a high growth potential or provide a competitive advantage, e.g. France and Italy list measures across a wide range of well-elaborated sectors of importance for their economies. The most commonly covered in the national AI strategies sectors are manufacturing, healthcare, agriculture, public administration, transportation, logistics, education and energy. In addition to the mainstream sectors of application of AI, a number of Member States have planned actions, for example, in the maritime sector (Cyprus), weather forecasting (Germany), art and culture (Italy), biodiversity (Portugal), justice (Latvia), and fashion (Spain). Some have a very specific focus for implementation of AI by prioritising a particular sector, e.g. energy (Lithuania) or water (Netherlands).
 
-#### Chapter 2: Outlook – forthcoming national actions
+#### Outlook – forthcoming national actions
 
 Austria expects to publish its strategy by the end of Q2 2021, subject to the final political coordination. The strategy defines the framework conditions for a prosperous, responsible and safe use of AI in all areas of life in accordance with European requirements for trustworthy AI. The objectives of the Austrian strategy are formulated in close coordination and comprehensive agreement with the AI foundations, objectives and joint action of the European Union. Key focus areas will include regulatory framework (ethics, legal), safety and security of AI, defining standards, AI infrastructure, data use and sharing, conditions for R&D&I, transfer and uptake of AI, cooperation between education, research and business societal dialogue and creating awareness, and AI in the public sector.
 
@@ -2015,7 +2016,7 @@ Norway published its strategy in January 2020. The strategy addresses important 
 
 Switzerland does not have a dedicated strategy on AI. However, some aspects in the application of AI are addressed in the new strategy ‘Digital Switzerland’ of September 2020. In addition, the Swiss government adopted specific guidelines for AI in November 2020, which are intended to provide the federal administration and the agencies entrusted with administrative tasks with a general orientation framework and ensure a coherent AI policy. Regular evaluation of the application and further development of these guidelines is planned.
 
-#### Chapter 3: Member States’ investments in AI
+#### Member States’ investments in AI
 
 Many national AI strategies provide estimates of necessary investments or allocate an itemised budget for concrete actions. Numbers vary greatly and are difficult to compare, as they are presented according to different timeframes and coverage. The following gives some indications of the order of magnitude of allocated funding:
 

@@ -24,9 +24,9 @@ cybersecuritystrategy@homeaffairs.gov.au
 
 P - 20-02344
 
-AUSTRALIA’S CYBER SECURITY
+#### AUSTRALIA’S CYBER SECURITY
 
-## Table of Contents
+Table of Contents
 
 Minister’s foreword  4
 
@@ -48,7 +48,7 @@ Implementation and measuring progress  44
 
 Appendix A: Cyber Security Strategy 2020 Funding Commitments  47
 
-Minister’s foreword
+#### Minister’s foreword
 
 Ensuring Australians are secure online is a shared responsibility – everyone has a role to play. This Strategy sets out our plan to protect Australians online.
 

@@ -22,7 +22,7 @@ Department of Home Affairs PO Box 25 BELCONNEN ACT 2616
 
 P - 23-02503-a
 
-## Contents
+Contents
 
 Minister’s foreword  4
 

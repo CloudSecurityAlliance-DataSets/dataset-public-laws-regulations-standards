@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Stratégie nationale pour l'intelligence artificielle — 1re phase / Rapport Villani (March 29, 2018). France's national artificial intelligence strategy launched in March 2018 following the Villani mission ('Donner un sens à l'intelligence artificielle') and expanded in November 2021 under France 2030 to train AI talent, develop sovereign foundational models and embedded/frugal AI, and build national compute infrastructure.",
+  "description": "Stratégie nationale pour l'intelligence artificielle — 1re phase / Rapport Villani (March 29, 2018).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
   "license": {

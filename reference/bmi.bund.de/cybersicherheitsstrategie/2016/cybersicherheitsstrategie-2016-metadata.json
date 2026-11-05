@@ -10,18 +10,18 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Cyber-Sicherheitsstrategie für Deutschland 2016 (adopted November 9, 2016). Whole-of-government Cyber Security Strategy for Germany adopted by the Federal Cabinet on a five-year cycle (2011, 2016, 2021) defining strategic action areas across digital sovereignty, critical infrastructure protection, BSI empowerment, active cyber defence, and European/international cyber policy.",
+  "description": "Cyber-Sicherheitsstrategie für Deutschland 2016 (adopted November 9, 2016).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesministerium des Innern und für Heimat (bmi.bund.de) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesministerium des Innern und für Heimat (bmi.bund.de).",
   "license": {
-    "spdx": "LicenseRef-German-Government-Official-Work",
-    "Grouping": "Permissive",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
     "redistribution": "permitted_for_reference",
     "derivatives": "varies_by_jurisdiction",
     "publicly_redistributable": true,
     "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
-    "note": "Official German Federal Government publication (§ 5 UrhG public official work).",
-    "notes": "Official German Federal Government publication (§ 5 UrhG public official work)."
+    "note": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
+    "notes": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
   },
   "links": {
     "wikipedia": "",

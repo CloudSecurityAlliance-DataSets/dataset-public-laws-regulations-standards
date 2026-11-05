@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace (JOIN(2013) 1 final, CELEX:52013JC0001). Joint Communications of the European Commission and the High Representative of the Union for Foreign Affairs and Security Policy defining the European Union's strategic framework for cyber resilience, operational capacity, NIS2/CRA regulatory reform, and global cyber diplomacy.",
+  "description": "Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace (JOIN(2013) 1 final, CELEX:52013JC0001).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
   "license": {

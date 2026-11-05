@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "New Zealand's Cyber Security Strategy 2019 (published July 2, 2019). National cyber security strategy of New Zealand enabling New Zealanders to thrive online across cyber-resilient individuals/businesses, cyber-capable workforce, resilient critical infrastructure, and active international partnerships.",
+  "description": "New Zealand's Cyber Security Strategy 2019 (published July 2, 2019).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz).",
   "license": {

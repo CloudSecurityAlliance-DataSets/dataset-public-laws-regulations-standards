@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (December 2013). National cybersecurity strategy of the Italian Republic adopted by the President of the Council of Ministers and prepared by the National Cybersecurity Agency (ACN), defining 82 measures across protection, response, and development of sovereign digital technologies.",
+  "description": "Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (December 2013).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per la Cybersicurezza Nazionale (acn.gov.it) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per la Cybersicurezza Nazionale (acn.gov.it).",
   "license": {

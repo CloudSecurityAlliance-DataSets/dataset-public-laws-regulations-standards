@@ -20,7 +20,7 @@ Barbara Caputo, Isabella Castiglioni, Marco Conti, Rita Cucchiara, Juan Carlos d
 
 Magnifico, Michela Milano, Giovanni Miragliotta.
 
-## Table of contents
+Table of contents
 
 Executive Summary 2
 

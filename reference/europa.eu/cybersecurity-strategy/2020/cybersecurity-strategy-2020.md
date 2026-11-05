@@ -22,7 +22,7 @@ COUNCIL
 
 The EU's Cybersecurity Strategy for the Digital Decade
 
-### I. INTRODUCTION: A CYBERSECURE DIGITAL TRANSFORMATION IN A COMPLEX THREAT ENVIRONMENT
+## I. INTRODUCTION: A CYBERSECURE DIGITAL TRANSFORMATION IN A COMPLEX THREAT ENVIRONMENT
 
 Cybersecurity is an integral part of Europeans’ security. Whether it is connected devices, electricity grids, or banks, aircraft, public administrations or hospitals they use or frequent, people deserve to do so within the assurance that they will be shielded from cyber threats. The EU’s economy, democracy and society depend more than ever on secure and reliable digital tools and connectivity. Cybersecurity is therefore essential for building a resilient, green and digital Europe.
 
@@ -70,7 +70,7 @@ Cybersecurity must be integrated into all these digital investments, particularl
 
 The EU’s critical infrastructure and essential services are increasingly interdependent and digitised. All Internet-connected things in the EU, whether automated cars, industrial control systems or home appliances, and the whole supply chains which make them available, need to be secure-by-design, resilient to cyber incidents, and quickly patched when vulnerabilities are discovered. This is fundamental to provide the EU’s private and public sector with the possibility to choose from the most secure infrastructures and services. The upcoming decade is the EU’s opportunity to lead in the development of secure technologies across the whole supply chain. Ensuring resilience and stronger industrial and technology capacities in cybersecurity should mobilise all necessary regulatory, investment and policy instruments. Cybersecurity by design for industrial processes, operations and devices can mitigate risks, potentially reduce costs to companies as well as to wider society, and thereby increase resilience.
 
-### 1.1
+#### 1.1
 
 Resilient infrastructure and critical services
 
@@ -126,7 +126,7 @@ The Commission will continue to work closely with Member States to fulfil these 
 
 The EU’s 5G Toolbox approach has, moreover, raised interest in non-EU countries currently developing their approaches securing their communications networks. The Commission services together with the European External Action Service and the network of EU delegations, stands ready to provide additional information if requested on its comprehensive, objective and risk-based approach to authorities around the world.
 
-### 1.5
+#### 1.5
 
 An Internet of Secure Things
 
@@ -138,7 +138,7 @@ The Commission will consider a comprehensive approach, including possible new ho
 
 act under the Radio Equipment Directive55), and the objective to implement cybersecurity rules for motor vehicles for all new vehicle types as from July 202256. They would, moreover, build on the proposed revision of general product safety rules, which do not directly address cybersecurity aspects57.
 
-### 1.6
+#### 1.6
 
 Greater global Internet security
 
@@ -154,7 +154,7 @@ the latest security, data protection and privacy by design and by default standa
 
 The Commission will also, in liaison with Member States and industry, accelerate the uptake of key internet standards including IPv664 and well-established internet security standards and good practices for DNS, routing, and email security65, not excluding regulatory measures like a European sunset clause for IPv4 to steer the market if there is insufficient progress towards their adoption. The EU should promote (as for example under the EU-Africa Strategy66) the implementation of these standards in partner countries as a way to support the development of the global and open Internet and to counteract closed and control-based models of the Internet. Finally, the Commission will consider the need for a mechanism for more systematic monitoring and gathering of aggregated data on Internet traffic and for advising on potential disruptions67.
 
-### 1.7
+#### 1.7
 
 A reinforced presence on the technology supply chain
 
@@ -204,7 +204,7 @@ Annex).
 
 Cyber incidents, whether accidental or the deliberate action of criminals, state and other non-state actors, can cause enormous damage. Their scale and complexity, often involving the exploitation of third-party services, hardware, and software to compromise a final target, make the EU’s collective threat environment hard to counter without systematic and comprehensive information sharing and cooperation on a common response. The EU aims, through the full implementation of regulatory tools, mobilisation and cooperation, to support Member States in defending their citizens, as well as their economic and national security interests, in full respect of fundamental rights and freedoms and the rule of law. Several communities, composed of networks, EU institutions, bodies and agencies, as well as Member State authorities, are responsible for preventing, discouraging, deterring and responding to cyber threat, using their respective instruments and initiatives74. These communities include: (i) NIS authorities, such as CSIRTs, and disaster response; (ii) law enforcement and judicial authorities; (iii) cyber diplomacy; and (iv) cyber defence.
 
-### 2.1
+#### 2.1
 
 A Joint Cyber Unit
 
@@ -240,7 +240,7 @@ partners.
 
 Building on the outcome of the consultation with Member States, EU institutions, bodies and agencies77, the Commission, with the involvement of the High Representative, in line with his competences, will by February 2021 present the process, milestones and timeline for defining, preparing, deploying and expanding the Joint Cyber Unit.
 
-### 2.2
+#### 2.2
 
 Tackling cybercrime
 
@@ -258,7 +258,7 @@ content, and pursue the availability of accurate registration data by continuing
 
 The Commission will also continue to work to provide appropriate channels and clarify rules to obtain cross-border access to electronic evidence for criminal investigations (needed in 85% of investigations, with 65% of the total requests going to providers based in another jurisdiction), by facilitating the adoption and subsequent implementation of the ‘e-evidence package’ and practical measures80. The swift adoption by the European Parliament and Council of the e-evidence proposals is key to provide practitioners with an efficient tool. Electronic evidence must be readable, thus the Commission will further work on the support to law enforcement capacity in the area of digital investigations, including dealing with encryption when encountered in criminal investigations while fully preserving its function to protect fundamental rights and cybersecurity.
 
-### 2.3
+#### 2.3
 
 EU cyber diplomacy toolbox
 
@@ -274,7 +274,7 @@ The High Representative, with the involvement of the Commission, will as well pr
 
 85 Such as the EU Single Intelligence Analysis Capacity (SIAC), and, where necessary, the relevant projects established under PESCO, as well as the 2018 Rapid Alert System (RAS) that has been set up to support the EU’s overall approach to tackling disinformation. 86 Notably by seeking synergies with the initiatives under the European Democracy Action Plan. 87 13007/17 88 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016JC0018&from=EN 89Respectively the mutual defence clause, solidarity clause.
 
-### 2.4
+#### 2.4
 
 Boosting cyber defence capabilities
 
@@ -346,7 +346,7 @@ Increased global connectivity should not lead to censorship, mass surveillance, 
 
 The EU continues to support third countries that wish to accede to the Council of Europe Budapest Convention on Cybercrime, and work to finalise the Second Additional Protocol to the Budapest Convention that includes measures and safeguards to improve international cooperation between law enforcement and judicial authorities, as well as between authorities and service providers in other countries, and for which the Commission participates in the negotiations on behalf of the EU109. The current initiative for a new legal instrument on cybercrime at UN level risks to amplify divisions and slow down much needed national reforms and related capacity building efforts, potentially hindering effective international cooperation against cybercrime: the EU does not see a need for any new legal instrument on cybercrime at UN level. The EU continues to engage in the multilateral exchanges on cybercrime to ensure the respect of human rights and fundamental freedoms, through inclusiveness, transparency, and taking into account available expertise, with the goal of delivering added value for all.
 
-### 3.2
+#### 3.2
 
 Cooperation with partners and the multi-stakeholder community
 
@@ -436,7 +436,7 @@ Strategic initiatives
 
 3. A new legal base for CERT-EU to reinforce its mandate and funding.
 
-### IV. CONCLUSIONS
+## IV. CONCLUSIONS
 
 The concerted implementation of this strategy will contribute to a cybersecure digital decade for the EU, to the achievement of a Security Union, and to the strengthening of the EU’s position globally.
 

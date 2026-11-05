@@ -2,11 +2,9 @@
 
 Provisional Translation CYBERSECURITY STRATEGY
 
-### September 4, 2015 — Cabinet Decision
+### September 4, 2015 — Cabinet Decision — The Government of Japan
 
-The Government of Japan
-
-## Contents
+Contents
 
 1. Introduction ........................................................................................................................................... 1
 

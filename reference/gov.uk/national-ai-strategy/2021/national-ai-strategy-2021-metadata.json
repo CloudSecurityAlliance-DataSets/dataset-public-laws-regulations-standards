@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "National AI Strategy (Command Paper CP 525, September 22, 2021). United Kingdom national artificial intelligence strategy publications, comprising the January 2025 AI Opportunities Action Plan (CP 1241, 50 recommendations adopted by HM Government via CP 1242) and the September 2021 National AI Strategy (CP 525).",
+  "description": "National AI Strategy (Command Paper CP 525, September 22, 2021).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by UK Government (gov.uk) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for UK Government (gov.uk).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 35-page PDF (https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf) locally via PyMuPDF (135,850 chars). Parsed 32 sections (4 with explicit section identifiers)."
+    "notes": "Extracted 35-page PDF (https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf) locally via PyMuPDF (135,850 chars). Parsed 31 sections (4 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -1,6 +1,8 @@
 # Strategia Nazionale di Cybersicurezza 2022–2026
 
-## NATIONAL CYBERSECURITY STRATEGY — 2022 – 2026 — Contents
+## NATIONAL CYBERSECURITY STRATEGY — 2022 – 2026
+
+Contents
 
 Foreword
 

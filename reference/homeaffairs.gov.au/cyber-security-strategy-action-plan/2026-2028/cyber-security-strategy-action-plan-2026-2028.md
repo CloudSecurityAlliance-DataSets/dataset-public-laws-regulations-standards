@@ -22,7 +22,9 @@ Department of Home Affairs PO Box 25 BELCONNEN ACT 2616
 
 P - 26-02629
 
-## Contents
+## HORIZON 2 ACTION PLAN
+
+Contents
 
 Executive summary .....................................................................................................2
 

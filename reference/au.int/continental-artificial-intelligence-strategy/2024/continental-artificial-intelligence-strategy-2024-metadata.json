@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by African Union (AU) (au.int) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for African Union (AU) (au.int).",
   "license": {
-    "spdx": "LicenseRef-African-Union-Open-Access",
-    "Grouping": "Government-Open-Access",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
     "redistribution": "permitted_for_reference",
-    "derivatives": "requires_permission",
+    "derivatives": "varies_by_jurisdiction",
     "publicly_redistributable": true,
     "license_text_url": "https://au.int/en/legal-disclaimer",
-    "note": "African Union official strategy publication; publicly released by the African Union Commission for reference and policy implementation.",
-    "notes": "African Union official strategy publication; publicly released by the African Union Commission for reference and policy implementation."
+    "note": "Intergovernmental organization publication; African Union Commission copyright retained. Publicly released for free download, policy reference, and study.",
+    "notes": "Intergovernmental organization publication; African Union Commission copyright retained. Publicly released for free download, policy reference, and study."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 66-page PDF (https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) locally via PyMuPDF (161,228 chars). Parsed 46 sections (28 with explicit section identifiers)."
+    "notes": "Extracted 66-page PDF (https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) locally via PyMuPDF (161,228 chars). Parsed 45 sections (28 with explicit section identifiers)."
   },
   "extraction_history": [
     {

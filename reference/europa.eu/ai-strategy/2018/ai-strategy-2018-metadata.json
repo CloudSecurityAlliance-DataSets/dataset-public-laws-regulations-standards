@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Coordinated Plan on Artificial Intelligence (COM(2018) 795 final, December 7, 2018). European Commission strategic action plans for artificial intelligence across the European Union, coordinating compute infrastructure (AI Factories and Gigafactories), data ecosystems, talent, trustworthy AI adoption, and regulatory alignment with the EU AI Act.",
+  "description": "Coordinated Plan on Artificial Intelligence (COM(2018) 795 final, December 7, 2018).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
   "license": {

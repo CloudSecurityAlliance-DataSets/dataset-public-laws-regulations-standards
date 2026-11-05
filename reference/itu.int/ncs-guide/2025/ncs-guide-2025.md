@@ -414,7 +414,7 @@ Head of Strategy and Growth, Centre for
 
 Cybersecurity, World Economic Forum
 
-## Contents
+Contents
 
 1 DOCUMENT OVERVIEW........................................................................................................................2
 

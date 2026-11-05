@@ -14,19 +14,19 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
   "license": {
-    "spdx": "LicenseRef-KR-Government-Official-Work",
+    "spdx": "KOGL-1.0",
     "Grouping": "Permissive",
     "redistribution": "permitted_with_attribution",
     "derivatives": "permitted_with_attribution",
     "publicly_redistributable": true,
     "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
-    "note": "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work).",
-    "notes": "Republic of Korea official government publication (Copyright Act Article 24-2 public domain / open government work)."
+    "note": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2).",
+    "notes": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037",
-    "textUsed": "https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037",
+    "textUsed": "https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -39,19 +39,19 @@
   },
   "current_extraction": {
     "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
     "tool_version": "1.0",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037) to Markdown (21,076 chars). Parsed 14 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 8-page PDF (https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A) locally via PyMuPDF (7,719 chars). Parsed 8 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-11-04T05-00-00Z",
       "status": "current",
       "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
     }
   ],
   "scope": {},

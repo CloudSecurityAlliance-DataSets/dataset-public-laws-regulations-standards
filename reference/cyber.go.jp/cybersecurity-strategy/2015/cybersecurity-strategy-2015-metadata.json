@@ -10,18 +10,18 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Cybersecurity Strategy (Cabinet decision, September 4, 2015). Statutorily mandated national Cybersecurity Strategy of Japan drafted by the Cybersecurity Strategic Headquarters and approved by the Cabinet under Article 12 of the Basic Act on Cybersecurity (Act No. 104 of 2014).",
+  "description": "Cybersecurity Strategy (Cabinet decision, September 4, 2015).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp).",
   "license": {
     "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
-    "Grouping": "Permissive",
+    "Grouping": "Government-Work",
     "redistribution": "likely_permitted",
     "derivatives": "likely_permitted",
     "publicly_redistributable": true,
     "license_text_url": "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
-    "note": "Official Government of Japan strategy/cabinet publication; public government notifications and policy documents under Japanese Copyright Act Article 13 / Government of Japan Standard Terms of Use (Public Data License 1.0).",
-    "notes": "Official Government of Japan strategy/cabinet publication; public government notifications and policy documents under Japanese Copyright Act Article 13 / Government of Japan Standard Terms of Use (Public Data License 1.0)."
+    "note": "Japanese Copyright Act Article 13 excludes laws, regulations, and government notifications from copyright; Cabinet-level strategy/guideline status is slightly nuanced (likely excluded as an official government directive, or covered under the Government of Japan Standard Terms of Use / Public Data License 1.0).",
+    "notes": "Japanese Copyright Act Article 13 excludes laws, regulations, and government notifications from copyright; Cabinet-level strategy/guideline status is slightly nuanced (likely excluded as an official government directive, or covered under the Government of Japan Standard Terms of Use / Public Data License 1.0)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 58-page PDF (https://www.cyber.go.jp/eng/pdf/cs-strategy-en.pdf) locally via PyMuPDF (136,773 chars). Parsed 76 sections (29 with explicit section identifiers)."
+    "notes": "Extracted 58-page PDF (https://www.cyber.go.jp/eng/pdf/cs-strategy-en.pdf) locally via PyMuPDF (136,773 chars). Parsed 75 sections (29 with explicit section identifiers)."
   },
   "extraction_history": [
     {

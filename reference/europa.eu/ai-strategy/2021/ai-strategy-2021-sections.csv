@@ -424,10 +424,10 @@ Foster critical computing capacity
 Tap into the potential of data
 
 Acquire, pool and share policy insights"
-"4","I Chapter 1","Acquire, pool and share policy insights","chapter","I","Knowledge is key. Sharing knowledge and policy insights, and coordinating policy actions and investments in a rapidly developing area such as AI can add an important competitive advantage. For this reason, in the 2018 Coordinated Plan the Member States and the Commission agreed on a governance mechanism for joint work and proposed two sets of actions to build policy insights and develop synergies. Member States were encouraged to put into place national AI strategies or programmes (or add an AI dimension to other relevant national strategies and programmes) and share these with each other and the Commission
+"4","Chapter 1","Acquire, pool and share policy insights","chapter","I","Knowledge is key. Sharing knowledge and policy insights, and coordinating policy actions and investments in a rapidly developing area such as AI can add an important competitive advantage. For this reason, in the 2018 Coordinated Plan the Member States and the Commission agreed on a governance mechanism for joint work and proposed two sets of actions to build policy insights and develop synergies. Member States were encouraged to put into place national AI strategies or programmes (or add an AI dimension to other relevant national strategies and programmes) and share these with each other and the Commission
 [14](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote15)
 ; and the Commission pledged to monitor developments and mobilise expertise."
-"4","1.1","Maximise the advantages from national strategies and accelerate the proposed actions","numbered","1","Overview of actions taken
+"4","1.1","Maximise the advantages from national strategies and accelerate the proposed actions","numbered","Chapter 1","Overview of actions taken
 
 All Member States made substantial efforts to develop national strategies on AI or to include an AI dimension in their existing strategies and programmes
 [15](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote16)
@@ -458,7 +458,7 @@ Member States are strongly encouraged to:
 -reinforce support for and investment in joint actions identified in the Coordinated Plan; and
 
 -share, develop and implement actions on national/regional level that proved to be successful in other Member States, for example, successful national initiatives to develop and promote a virtual warehouse of data."
-"4","1.2","Reap the full benefit of the technical expertise of expert groups on AI facilitated by the European Commission","numbered","1","Technological and socioeconomic developments relating to AI are very dynamic and often require specialised expertise. Accordingly, to monitor the advancement and uptake of AI technologies and facilitate evidence-based policy on AI, the Commission has put considerable effort into mobilising expertise, collecting data, monitoring developments and collecting and analysing stakeholder opinions related to AI.
+"4","1.2","Reap the full benefit of the technical expertise of expert groups on AI facilitated by the European Commission","numbered","Chapter 1","Technological and socioeconomic developments relating to AI are very dynamic and often require specialised expertise. Accordingly, to monitor the advancement and uptake of AI technologies and facilitate evidence-based policy on AI, the Commission has put considerable effort into mobilising expertise, collecting data, monitoring developments and collecting and analysing stakeholder opinions related to AI.
 
 Overview of actions taken
 
@@ -558,7 +558,7 @@ In consultation with Member States, the Commission will
  or international monitoring activities; and
 
 -regularly monitor the implementation of the Coordinated Plan to ensure it remains up to date. On the basis of feedback from Member States on the 2021 review and in consultation with other EU institutions and bodies, the Commission will propose in 2022 a timeline, a matrix and a methodology for the next review of the Coordinated Plan."
-"4","1.3","Strengthen exchanges and collaboration through the Member States’ Group on AI and Digitising European Industry","numbered","1","The action to facilitate cooperation among Member States and between Member States and the Commission is further supported by governance mechanisms that facilitate the exchange of information and help to set the strategic direction for collaboration on AI policy.
+"4","1.3","Strengthen exchanges and collaboration through the Member States’ Group on AI and Digitising European Industry","numbered","Chapter 1","The action to facilitate cooperation among Member States and between Member States and the Commission is further supported by governance mechanisms that facilitate the exchange of information and help to set the strategic direction for collaboration on AI policy.
 
 Overview of actions taken
 
@@ -589,7 +589,7 @@ Member States are encouraged to:
 -facilitate discussions on setting up national coalitions and facilitate best practice exchange among Member States and stakeholders on existing national AI coalitions
 [49](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote50)
  by bringing together public- and private-sector stakeholders, e.g. in joint workshops on thematic areas of common interest. In cooperation with the co-programmed partnership on AI, Data and Robotics, this action will assist cross-border cooperation and draw in more stakeholders."
-"4","I Chapter 2","Tap into the potential of data","chapter","I","The availability of high-quality data, among other things, in respect of diversity, non-discrimination, and the possibility to use, combine and re-use data from various sources in a GDPR compliant way are essential prerequisites and a precondition for the development and deployment of certain AI systems
+"4","Chapter 2","Tap into the potential of data","chapter","I","The availability of high-quality data, among other things, in respect of diversity, non-discrimination, and the possibility to use, combine and re-use data from various sources in a GDPR compliant way are essential prerequisites and a precondition for the development and deployment of certain AI systems
 [50](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote51)
 . However, data-sharing, especially between companies, has not taken off at sufficient scale, due to a lack of economic incentives, a lack of trust and a lack of legal clarity
 [51](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote52)
@@ -654,7 +654,7 @@ The Member States are encouraged to:
 -invest in strengthening Europe’s position in next-generation cloud and edge technologies and foster cloud uptake through their national recovery and resilience plans and in line with the example component for the RRF ‘Scale-up’ flagship
 [64](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote65)
  and including through multi-country projects."
-"4","I Chapter 3","Foster critical computing capacity","chapter","I","Without computing infrastructure, the availability of data will not generate added value
+"4","Chapter 3","Foster critical computing capacity","chapter","I","Without computing infrastructure, the availability of data will not generate added value
 [65](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote66)
 . Therefore, the Commission takes measures to support the development of the technological systems and the next-generation of data processing infrastructures as a key for enabling the use of data for AI
 [66](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote67)
@@ -1766,11 +1766,8 @@ Specifically, the Commission will, in collaboration with the Member States, clos
 
 The review of the Coordinated Plan and the feedback received from stakeholders suggest that there is further potential for action to foster closer cooperation and coordinating common priorities and initiatives within AI. Accordingly, the Coordinated Plan proposed actions to reduce the fragmentation between the different funding instruments, between actions taken on national and EU level, between research communities themselves and between research communities and industry. Among other things, such fragmentation results in unnecessary information and transaction costs, a lower return on investments, a waste of resources and finally in lost opportunities for EU businesses. In consultation with the general public, social partners, non-governmental organisations, industry, the academic community and national/regional authorities, the Commission will continuously assess how fragmentation may be further reduced.
 
-In conclusion, this 2021 review builds on the strong collaboration between the EU and the Member States and the lessons learned from the first 2 years of implementation of the Coordinated Plan. It puts forward key actions whereby collaboration between the Member States and the EU can be reinforced further. The revised plan therefore provides a valuable opportunity to strengthen competitiveness, the capacity for innovation and the responsible use of AI in the EU. The fast development and uptake of innovative AI in the EU can contribute to solving key societal challenges and accelerate the digital and green transitions at a time when the global AI landscape is evolving fast.
-
-Appendix 1 - Timeline – key actions
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+In conclusion, this 2021 review builds on the strong collaboration between the EU and the Member States and the lessons learned from the first 2 years of implementation of the Coordinated Plan. It puts forward key actions whereby collaboration between the Member States and the EU can be reinforced further. The revised plan therefore provides a valuable opportunity to strengthen competitiveness, the capacity for innovation and the responsible use of AI in the EU. The fast development and uptake of innovative AI in the EU can contribute to solving key societal challenges and accelerate the digital and green transitions at a time when the global AI landscape is evolving fast."
+"3","Appendix 1","Timeline – key actions","annex","","|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021 Review of the Coordinated Plan on AI   Key Proposed Actions for   European Commission and European Commission with Member States | | | | Objectives | | | | | | | | | |
 |  | | | | Mobilise resources | | | | | | | | | |
@@ -1834,9 +1831,9 @@ Appendix 1 - Timeline – key actions
 |  | | Continuing action | DEP = Digital Europe funding programme for digital technologies | | | | | | | | | | |
 |  | | No foreseen action |  | | | | | | |
 
-[271](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote272)
-Appendix 2Analysis of national strategies and investments in AI"
-"4","Annex I Chapter 1","Overview of the national strategies","chapter","Annex I","Table 1
+[271](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote272)"
+"3","Appendix 2","Analysis of national strategies and investments in AI","annex","",""
+"4","","Overview of the national strategies","","","Table 1
 
 National AI strategies, EU Member States and Norway (by date of initial adoption)
 
@@ -1859,7 +1856,7 @@ For example, the 2020 update of the German AI strategy reacts to new development
 Some Member States have included measures to support the development and deployment of AI as part of other digitalisation strategies. For example, the Bulgarian Concept for the Development of Artificial Intelligence is based on the national strategic document ‘Digital Transformation of Bulgaria (2020-2030)’ approved in July 2020 and takes into account measures on AI development and deployment envisaged in some sectoral strategies. The forthcoming Belgian national strategy is a combination of the three regional strategies (in accordance with the intra-Belgian distribution of competencies) with their own focus and priorities and the federal focus and priorities.
 
 National policies also differ in terms of priority sectors for action. Some Member States (e.g. Malta and Slovakia) took a horizontal approach and did not identify specific priority sectors. Others focused on the economic sectors that have a high growth potential or provide a competitive advantage, e.g. France and Italy list measures across a wide range of well-elaborated sectors of importance for their economies. The most commonly covered in the national AI strategies sectors are manufacturing, healthcare, agriculture, public administration, transportation, logistics, education and energy. In addition to the mainstream sectors of application of AI, a number of Member States have planned actions, for example, in the maritime sector (Cyprus), weather forecasting (Germany), art and culture (Italy), biodiversity (Portugal), justice (Latvia), and fashion (Spain). Some have a very specific focus for implementation of AI by prioritising a particular sector, e.g. energy (Lithuania) or water (Netherlands)."
-"4","Annex I Chapter 2","Outlook – forthcoming national actions","chapter","Annex I","Austria expects to publish its strategy by the end of Q2 2021, subject to the final political coordination. The strategy defines the framework conditions for a prosperous, responsible and safe use of AI in all areas of life in accordance with European requirements for trustworthy AI. The objectives of the Austrian strategy are formulated in close coordination and comprehensive agreement with the AI foundations, objectives and joint action of the European Union. Key focus areas will include regulatory framework (ethics, legal), safety and security of AI, defining standards, AI infrastructure, data use and sharing, conditions for R&D&I, transfer and uptake of AI, cooperation between education, research and business societal dialogue and creating awareness, and AI in the public sector.
+"4","","Outlook – forthcoming national actions","","","Austria expects to publish its strategy by the end of Q2 2021, subject to the final political coordination. The strategy defines the framework conditions for a prosperous, responsible and safe use of AI in all areas of life in accordance with European requirements for trustworthy AI. The objectives of the Austrian strategy are formulated in close coordination and comprehensive agreement with the AI foundations, objectives and joint action of the European Union. Key focus areas will include regulatory framework (ethics, legal), safety and security of AI, defining standards, AI infrastructure, data use and sharing, conditions for R&D&I, transfer and uptake of AI, cooperation between education, research and business societal dialogue and creating awareness, and AI in the public sector.
 
 Belgium: three regional strategies and AI programmes have been adopted and rolled out in the period 2017 till 2019. In June, 2020 a report to define a common, national AI action plan has been approved by all Belgian entities. Given that the adoption of this plan is a priority for the federal government, discussions in this direction between all the competent authorities are forthcoming. The aim is to create a coherent political framework that can promote synergies between the different policy areas and the different competent entities.
 
@@ -1908,7 +1905,7 @@ Sweden is working on a strategy for secure access to open data and the use of da
 Norway published its strategy in January 2020. The strategy addresses important topics for AI such as data and data management, language resources, infrastructure for communications and computing, research and higher education, skills, and AI-driven innovation in both the public and private sector. The strategy establishes ethics principles for development and use of trustworthy AI in Norway. The strategy has been well received, and the government is working to follow up on the many policy initiatives of the strategy. One important milestone was the launch of a regulatory sandbox for AI with the Data Protection Authority in December 2020. Data and access to data has also been a priority, and a government white paper on the data-driven economy was presented to the parliament in March 2021.
 
 Switzerland does not have a dedicated strategy on AI. However, some aspects in the application of AI are addressed in the new strategy ‘Digital Switzerland’ of September 2020. In addition, the Swiss government adopted specific guidelines for AI in November 2020, which are intended to provide the federal administration and the agencies entrusted with administrative tasks with a general orientation framework and ensure a coherent AI policy. Regular evaluation of the application and further development of these guidelines is planned."
-"4","Annex I Chapter 3","Member States’ investments in AI","chapter","Annex I","Many national AI strategies provide estimates of necessary investments or allocate an itemised budget for concrete actions. Numbers vary greatly and are difficult to compare, as they are presented according to different timeframes and coverage. The following gives some indications of the order of magnitude of allocated funding:
+"4","","Member States’ investments in AI","","","Many national AI strategies provide estimates of necessary investments or allocate an itemised budget for concrete actions. Numbers vary greatly and are difficult to compare, as they are presented according to different timeframes and coverage. The following gives some indications of the order of magnitude of allocated funding:
 
 -The German government initially earmarked EUR 3 billion for the implementation of the German strategy in 2019-2025; it has now increased this to EUR 5 billion.
 

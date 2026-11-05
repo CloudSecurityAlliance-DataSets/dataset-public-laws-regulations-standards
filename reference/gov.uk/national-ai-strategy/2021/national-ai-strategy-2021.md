@@ -14,7 +14,7 @@ September 2021
 
 Command Paper 525
 
-## Contents
+Contents
 
 Our ten-year plan to make Britain a global AI superpower 4
 

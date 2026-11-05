@@ -26,7 +26,7 @@ Other uses
 
 Enquiries regarding this licence and any other use of this document are welcome at: The Department of the Prime Minister and Cabinet at www.pmc.gov.au
 
-## TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 PRIME MINISTER’S FOREWORD  2
 
@@ -746,7 +746,7 @@ AUSTRALIA’S CYBER SECURITY STRATEGY | 37
 
 life. It connects people and ideas;
 
-## it eliminates distance and time. It is a libertarian force for good.”
+it eliminates distance and time. It is a libertarian force for good.”
 
 Minister for Foreign Affairs, The Hon Julie Bishop MP, at the — 2013 Global Conference on CyberSpace in Seoul
 

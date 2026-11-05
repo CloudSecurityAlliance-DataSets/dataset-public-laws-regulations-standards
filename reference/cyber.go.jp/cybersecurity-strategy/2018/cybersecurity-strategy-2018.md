@@ -10,7 +10,7 @@ This strategy will be reported to the Diet according to Article 12 Paragraph 4 o
 
 Cybersecurity that is applicable mutatis mutandis in Article 12 Paragraph 5 (Act No. 104 of 2014).
 
-## Contents
+Contents
 
 1. INTRODUCTION ····································································· 1
 

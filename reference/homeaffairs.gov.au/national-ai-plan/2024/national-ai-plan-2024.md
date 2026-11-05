@@ -168,7 +168,7 @@ Organisations must maintain records to show that they have adopted and are compl
 
 It is critical for organisations to identify and engage with stakeholders over the life of the AI system. This helps organisations to identify potential harms and understand if there are any potential or real unintended consequences from the use of AI. Deployers must identify potential bias, minimise negative effects of unwanted bias, ensure accessibility and remove ethical prejudices from the AI solution or component.
 
-## Contents
+Contents
 
 The guardrails on a page .......................................................................................................... vi
 

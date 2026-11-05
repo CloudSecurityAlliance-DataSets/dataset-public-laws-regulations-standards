@@ -26,7 +26,7 @@ Together, we will build a resilient and trusted cyber environment for Singapore 
 
 Lee Hsien Loong
 
-## CONTENTS
+CONTENTS
 
 SINGAPORE'S CYBERSECURITY STRATEGY AT A GLANCE
 

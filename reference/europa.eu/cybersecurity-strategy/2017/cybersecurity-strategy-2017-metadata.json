@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Resilience, Deterrence and Defence: Building strong cybersecurity for the EU (JOIN(2017) 450 final, CELEX:52017JC0450). Joint Communications of the European Commission and the High Representative of the Union for Foreign Affairs and Security Policy defining the European Union's strategic framework for cyber resilience, operational capacity, NIS2/CRA regulatory reform, and global cyber diplomacy.",
+  "description": "Resilience, Deterrence and Defence: Building strong cybersecurity for the EU (JOIN(2017) 450 final, CELEX:52017JC0450).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
   "license": {

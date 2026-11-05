@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Coordinated Plan on Artificial Intelligence 2021 Review (COM(2021) 205 final, April 21, 2021). European Commission strategic action plans for artificial intelligence across the European Union, coordinating compute infrastructure (AI Factories and Gigafactories), data ecosystems, talent, trustworthy AI adoption, and regulatory alignment with the EU AI Act.",
+  "description": "Coordinated Plan on Artificial Intelligence 2021 Review (COM(2021) 205 final, April 21, 2021).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_1) to Markdown (36,802 chars). Parsed 37 sections (34 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_1) to Markdown (36,802 chars). Parsed 39 sections (33 with explicit section identifiers)."
   },
   "extraction_history": [
     {

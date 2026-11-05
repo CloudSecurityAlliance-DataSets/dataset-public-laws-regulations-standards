@@ -68,7 +68,7 @@ Faisal D’Souza Technical Coordinator National Coordination Office for Networki
 
 John Launchbury Defense Advanced Research Projects Agency
 
-## Contents
+Contents
 
 About the National Science and Technology Council .......................................................................................... iii
 

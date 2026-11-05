@@ -4,7 +4,7 @@
 
 (Provisional translation as of September 28, 2021)
 
-## Contents
+Contents
 
 1. Introduction ............................................................................................................. 1 1. 1 Japan in the 2020s: Era of the “new normal” and the digital society ...............................1 1. 2 Meaning of the strategy .................................................................................................3 2. Concept of the strategy ........................................................................................... 4 2. 1 Cyberspace to be ensured ..............................................................................................4 2. 2 Basic principles .............................................................................................................4 3. Issues surrounding cyberspace .............................................................................. 7 3. 1 Risks from the perspective of environmental changes .....................................................8 3. 2 Risks from the perspective of international affairs .........................................................9 3. 3 Recent trends of threats in cyberspace ......................................................................... 10 4. Policy approaches toward achieving the objectives—Cybersecurity for All... 12 4.1 Enhancing socio-economic vitality and sustainable development ................................... 16 —Advancing DX with Cybersecurity ................................................................................. 16
 

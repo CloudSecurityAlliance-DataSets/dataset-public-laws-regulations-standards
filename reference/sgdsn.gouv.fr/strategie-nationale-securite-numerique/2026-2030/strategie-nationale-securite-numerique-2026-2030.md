@@ -32,7 +32,9 @@ PILLAR 1
 
 Making France the largest pool
 
-CONTENTS of cyber talent in Europe -p.7
+CONTENTS
+
+of cyber talent in Europe -p.7
 
 PILLAR 2
 

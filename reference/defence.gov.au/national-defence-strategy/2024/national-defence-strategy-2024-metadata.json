@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Defence (Australia) (defence.gov.au) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Defence (Australia) (defence.gov.au).",
   "license": {
-    "spdx": "LicenseRef-AU-Crown-Copyright-Reserved",
-    "Grouping": "Crown-Copyright-Reserved",
-    "redistribution": "requires_prior_written_permission_except_fair_dealing",
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
     "derivatives": "prohibited",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "https://www.defence.gov.au/copyright",
-    "note": "Commonwealth of Australia copyright; all rights reserved apart from fair dealing under the Copyright Act 1968, no part may be reproduced without prior written permission.",
-    "notes": "Commonwealth of Australia copyright; all rights reserved apart from fair dealing under the Copyright Act 1968, no part may be reproduced without prior written permission."
+    "note": "Government publication; Commonwealth of Australia copyright retained. Publicly released for free download, policy reference, and study under the Copyright Act 1968; prior written permission required for commercial reproduction or derivative works.",
+    "notes": "Government publication; Commonwealth of Australia copyright retained. Publicly released for free download, policy reference, and study under the Copyright Act 1968; prior written permission required for commercial reproduction or derivative works."
   },
   "links": {
     "wikipedia": "",

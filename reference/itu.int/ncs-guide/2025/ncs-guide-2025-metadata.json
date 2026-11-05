@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.03-2025-PDF-E.pdf) locally via PyMuPDF (166,031 chars). Parsed 40 sections (31 with explicit section identifiers)."
+    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.03-2025-PDF-E.pdf) locally via PyMuPDF (166,031 chars). Parsed 39 sections (31 with explicit section identifiers)."
   },
   "extraction_history": [
     {

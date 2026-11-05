@@ -20,7 +20,7 @@ Weave from above Weave from below Weave from within Weave from the surrounding e
 
 Ngā ihirangi
 
-## Contents
+Contents
 
 Kupu Takamua nā te Pirimia | Foreword from the Prime Minister i
 

@@ -102,7 +102,7 @@ Development Partners:
 
 The successful implementation of the above actions will require prioritisation, coordination, resource mobilisation and knowledge sharing at the level of the AU, Regional Economic Communities (RECs) and Member States. The African Union will, therefore, endeavour to equip itself, its Member States and regional organisations with the necessary capacities and tools to optimise AI's benefits for African people.
 
-## Contents
+Contents
 
 Executive Summary ............................................................................................................... 3
 

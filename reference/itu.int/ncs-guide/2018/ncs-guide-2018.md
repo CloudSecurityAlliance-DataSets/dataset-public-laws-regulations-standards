@@ -64,7 +64,7 @@ Brahima Sanou Director, ITU Telecommunication Development Bureau
 
 1 From the ITU Global Cybersecurity Index (GCI) 2017
 
-## Table of contents
+Table of contents
 
 Preface 5
 

@@ -24,7 +24,7 @@ We would like to thank the OT community for their valuable input and support ove
 
 • Mr. Shinichi Yokohama, Chief Information Security Officer, NTT Corporation
 
-## TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 FOREWORD 1
 

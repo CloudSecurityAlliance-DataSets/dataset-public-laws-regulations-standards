@@ -10,7 +10,7 @@
   "subtype": [
     "strategy"
   ],
-  "description": "Republic of China National Defense Report (中華民國國防報告書)",
+  "description": "Official 2023 edition of Republic of China National Defense Report (中華民國國防報告書) (Republic of China National Defense Report (中華民國國防報告書) (2023)), published by Ministry of National Defense (Taiwan) (mnd.gov.tw).",
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defense (Taiwan) (mnd.gov.tw) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defense (Taiwan) (mnd.gov.tw).",
   "license": {

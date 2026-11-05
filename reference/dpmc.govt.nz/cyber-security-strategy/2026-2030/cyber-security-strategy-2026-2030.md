@@ -16,7 +16,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International l
 
 Please note – you can’t use any departmental or governmental emblem, logo or coat of arms in any way that infringes provisions of the Flags, Emblems, and Names Protection Act 1981.
 
-## Contents
+Contents
 
 New Zealand’s Cyber Security Strategy 1
 

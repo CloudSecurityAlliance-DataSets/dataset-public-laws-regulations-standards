@@ -220,6 +220,12 @@ def main():
             del ancestor_id_row_by_depth[d]
 
         section_id, section_name, id_kind = parse_heading(m.group(2))
+        if id_kind == "annex":
+            seen_ids = {
+                rows[ancestor_id_row_by_depth[d]]["section_id"]
+                for d in ancestor_id_row_by_depth
+                if rows[ancestor_id_row_by_depth[d]]["section_id"]
+            }
         derived_parent = derive_parent_id(section_id, seen_ids) if section_id else ""
         parent_row_idx = None
         parent_id = ""
