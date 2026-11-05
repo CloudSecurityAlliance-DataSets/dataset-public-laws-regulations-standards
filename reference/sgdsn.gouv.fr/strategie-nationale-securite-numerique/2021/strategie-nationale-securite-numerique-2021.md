@@ -1,0 +1,63 @@
+# Stratégie nationale d'accélération pour la cybersécurité (2021)
+
+- [France 2030](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B679%5D=679)
+- [Innovation](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B585%5D=585)
+- [Cybersécurité](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_sujet_agrege%5B575%5D=575)
+- [Numérique](https://www.entreprises.gouv.fr/recherche?search_api_fulltext=&field_secteurs_agrege%5B281%5D=281)
+
+## France 2030 : stratégie d'accélération cybersécurité
+
+L'État a pour ambition de développer la filière nationale de la cybersécurité et de renforcer la souveraineté et l’innovation française en la matière.
+
+Publié le : 19 Nov 2024
+Mis à jour le : 30 Jan 2026
+
+Le numérique est aujourd’hui présent dans tous les pans de la vie des Français. Support de nombreuses innovations qui bénéficient à chacun, il induit aussi des risques en matière de sécurité et de souveraineté économique. En outre, le développement du télétravail a contribué à rendre plus ténue la frontière entre les outils informatiques professionnels et personnels, renforçant d’autant la vulnérabilité des systèmes.
+
+Dans ce cadre, l'État a souhaité, avec la stratégie d’accélération cyber, accompagner le développement de la filière française de la cybersécurité. Cette stratégie vise à faire émerger des champions français de la cybersécurité, tant pour accompagner le développement d’une filière au potentiel économique important, que pour garantir à notre pays la maitrise des technologies essentielles à la garantie de sa souveraineté.
+
+## [La cybersécurité](https://www.entreprises.gouv.fr/secteurs-dactivite/le-secteur-du-numerique-en-france/la-cybersecurite "La cybersécurité")
+
+La cybersécurité est la capacité à protéger les données et les services proposés dans l’espace numérique contre des attaques susceptibles d’en compromettre la disponibilité, l’intégrité et/ou la confidentialité.
+
+## La stratégie d'accélération cybersécurité en cinq priorités
+
+La stratégie d’accélération cyber a été construite en pleine collaboration entre les administrations compétentes sur les sujets cyber et les acteurs de l’écosystème (industriels, organismes de recherche, collectivités, etc.). Elle se décline selon cinq axes :
+
+- développer des solutions souveraines et innovantes de cybersécurité ;
+- renforcer les liens et synergies entre les acteurs de la filière ;
+- soutenir la demande (individus, entreprises, collectivités et État), notamment en sensibilisant mieux tout en faisant la promotion des offres nationales ;
+- former plus de jeunes et professionnels aux métiers de la cybersécurité, fortement en déséquilibre (doubler le nombre de personnes formées d'ici 2025 : de 37 000 en 2019 à 75 000 en 2025) ;
+- soutenir le développement des entreprises de la filière via un abondement en fonds propres.
+
+## Premiers éléments de bilan de la stratégie d'accélération en cybersécurité
+
+Plus de 50
+
+Consortiums formés, renforçant ainsi la filière française.
+
+6
+
+Entreprises de la filière dans le programme ETIncelles de la DGE.
+
+104
+
+Publications du Programme équipement prioritaire de recherche (PEPR) cyber.
+
+73
+
+Doctorants, post-doctorants et ingénieurs recrutés au sein du PEPR cyber.
+
+## La stratégie nationale de cybersécurité 2026-2030
+
+Complémentaire de la stratégie d'accélération, la stratégie nationale pour la période 2026-2030 vise à **faire de la France une puissance cyber de premier plan** capable de protéger ses citoyens, ses institutions, son économie et ses infrastructures critiques face aux cyberattaques.
+
+[En savoir plus (site du SGDSN)](https://www.sgdsn.gouv.fr/publications/strategie-nationale-de-cybersecurite-2026-2030 "Lien externe - En savoir plus (site du SGDSN) - Dans un nouvel onglet")
+
+## [Coordinateur national cybersécurité](mailto:benjamin.morin@pm.gouv.fr "Coordinateur national cybersécurité - Dans un nouvel onglet")
+
+Benjamin Morin
+
+benjamin.morin@pm.gouv.fr
+
+[En savoir plus sur les stratégies d’accélération de France 2030](https://www.info.gouv.fr/organisation/secretariat-general-pour-l-investissement-sgpi/strategies-d-acceleration-pour-l-innovation "Lien externe - En savoir plus sur les stratégies d’accélération de France 2030 - Dans un nouvel onglet")

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2017",
+  "name": "Piano Nazionale per la Protezione Cibernetica e la Sicurezza Informatica (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "strategia-nazionale-cybersicurezza-2017",
+  "owner": "Agenzia per la Cybersicurezza Nazionale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Piano Nazionale per la Protezione Cibernetica e la Sicurezza Informatica (March 31, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per la Cybersicurezza Nazionale (acn.gov.it) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per la Cybersicurezza Nazionale (acn.gov.it).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Italian Government open publication (acn.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
+    "notes": "Italian Government open publication (acn.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.governo.it/sites/governo.it/files/piano-nazionale-cyber-2017.pdf",
+    "textUsed": "https://www.governo.it/sites/governo.it/files/piano-nazionale-cyber-2017.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-03-31",
+    "active": false,
+    "supersedes": "secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2013",
+    "supersededBy": "secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2022-2026",
+    "retiredFromActiveUse": "2022-05-17",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 40-page PDF (https://www.governo.it/sites/governo.it/files/piano-nazionale-cyber-2017.pdf) locally via PyMuPDF (46,887 chars). Parsed 38 sections (18 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

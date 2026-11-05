@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/president.go.kr/national-cybersecurity-basic-plan@2019",
+  "name": "National Cybersecurity Basic Plan (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-cybersecurity-basic-plan-2019",
+  "owner": "Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Basic Plan (September 2019).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Office of the President of the Republic of Korea / National Security Office (대통령실 국가안보실) (president.go.kr).",
+  "license": {
+    "spdx": "KOGL-1.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.kogl.or.kr/info/licenseType.do",
+    "note": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2).",
+    "notes": "Republic of Korea official government publication (Korea Open Government License Type 1: Source Indication / Copyright Act Article 24-2)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.korea.kr/common/download.do?fileId=190113953&tblKey=GMN",
+    "textUsed": "https://www.korea.kr/common/download.do?fileId=190113953&tblKey=GMN",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-09-03",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/president.go.kr/national-cybersecurity-basic-plan@2024",
+    "retiredFromActiveUse": "2024-09-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 33-page PDF (https://www.korea.kr/common/download.do?fileId=190113953&tblKey=GMN) locally via PyMuPDF (14,115 chars). Parsed 16 sections (4 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

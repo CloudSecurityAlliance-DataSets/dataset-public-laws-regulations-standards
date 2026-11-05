@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/bmi.bund.de/cybersicherheitsstrategie@2011",
+  "name": "Cyber-Sicherheitsstrategie für Deutschland 2011",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2011",
+  "publication_id": "cybersicherheitsstrategie-2011",
+  "owner": "Bundesministerium des Innern und für Heimat",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cyber-Sicherheitsstrategie für Deutschland 2011 (adopted February 23, 2011).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Bundesministerium des Innern und für Heimat (bmi.bund.de) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Bundesministerium des Innern und für Heimat (bmi.bund.de).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "note": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
+    "notes": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bmi.bund.de/DE/themen/it-und-digitalpolitik/it-und-cybersicherheit/cybersicherheitsstrategie/cybersicherheitsstrategie-node.html",
+    "textUsed": "https://www.enisa.europa.eu/sites/default/files/all_files/cyber_eng.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2011-02-23",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/bmi.bund.de/cybersicherheitsstrategie@2016",
+    "retiredFromActiveUse": "2016-11-09",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 10-page PDF (https://www.enisa.europa.eu/sites/default/files/all_files/cyber_eng.pdf) locally via PyMuPDF (21,172 chars). Parsed 11 sections (10 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

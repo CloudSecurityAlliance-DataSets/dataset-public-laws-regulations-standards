@@ -50,17 +50,26 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Annex|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
     # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.")
     (re.compile(r"^((?:Pillar|Part|Chapter|Section|Annex|Appendix|Schedule|Principle|Goal|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
-    # Roman numeral section: "I. Introduction" / "II. Our Vision"
-    (re.compile(r"^([IVX]+)\.\s+(.+)$"), "roman"),
+    # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
+    (re.compile(r"^([IVX]{1,4})(?:\.\s+|\s+(?=[A-Z][a-z]))(.+)$"), "roman"),
+    # Capital-letter section: "A. Innovative Europe" / "B. Making the EU..."
+    (re.compile(r"^([A-Z])\.\s+([A-Z].+)$"), "letter"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
-    (re.compile(r"^(\d+(?:\.\d+){1,3})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
-    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts)
-    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
+    (re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s*[:\-–—]?\s+(?!(?:M€|B€|€|\$|£|%|million|billion|trillion)\b)(.+)$", re.IGNORECASE), "numbered"),
+    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts and "30 June 2018" dates)
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
 ]
+
+
+_UNICODE_ROMAN_MAP = str.maketrans({
+    "Ⅰ": "I", "Ⅱ": "II", "Ⅲ": "III", "Ⅳ": "IV", "Ⅴ": "V",
+    "Ⅵ": "VI", "Ⅶ": "VII", "Ⅷ": "VIII", "Ⅸ": "IX", "Ⅹ": "X",
+})
 
 
 def clean_heading_text(s: str) -> str:
     """Strip markdown bold/italic + anchor tags + leading numbering punctuation."""
+    s = s.translate(_UNICODE_ROMAN_MAP)
     s = re.sub(r"<a id=\"[^\"]*\"></a>", "", s)
     s = re.sub(r"<span[^>]*>([^<]*)</span>", r"\1", s)
     s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
@@ -94,18 +103,34 @@ _NUM_TO_ROMAN = {
 
 def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> str:
     """For numeric ids like '1.2.3' or '22757.10', return the parent ('1.2',
-    '22757'). For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
+    '22757') if present in existing_ids (or matching Chapter/Part/Section/Pillar).
+    For 'Initiative X.Y.Z' return 'Strategic Objective X.Y' (or
     'Implementation X.Y' if present). For '(Strategic )?Objective X.Y' return
     the matching 'Pillar <X>' if present in existing_ids."""
     parts = section_id.split(".")
     if len(parts) > 1 and all(re.match(r"^\d+$", p) for p in parts):
-        return ".".join(parts[:-1])
+        cand_parent = ".".join(parts[:-1])
+        if existing_ids is None or cand_parent in existing_ids:
+            return cand_parent
+        if len(parts) == 2:
+            p_num = parts[0]
+            for prefix in ("Chapter", "CHAPTER", "Part", "PART", "Section", "SECTION", "Pillar", "PILLAR", "Goal", "Objective"):
+                for suffix in (p_num, _NUM_TO_ROMAN.get(p_num, ""), _NUM_TO_WORD.get(p_num, ""), _NUM_TO_WORD.get(p_num, "").upper()):
+                    if suffix and f"{prefix} {suffix}" in existing_ids:
+                        return f"{prefix} {suffix}"
+            if _NUM_TO_ROMAN.get(p_num, "") and _NUM_TO_ROMAN[p_num] in existing_ids:
+                return _NUM_TO_ROMAN[p_num]
+        return ""
     m = re.match(r"^Initiative\s+(\d+\.\d+)\.\d+$", section_id, re.IGNORECASE)
     if m:
         xy = m.group(1)
         if existing_ids and f"Implementation {xy}" in existing_ids:
             return f"Implementation {xy}"
-        return f"Strategic Objective {xy}"
+        if existing_ids is None or f"Strategic Objective {xy}" in existing_ids:
+            return f"Strategic Objective {xy}"
+        if existing_ids and f"Objective {xy}" in existing_ids:
+            return f"Objective {xy}"
+        return ""
     m_obj = re.match(r"^(?:Strategic\s+)?Objective\s+(\d+)\.\d+[a-z]?$", section_id, re.IGNORECASE)
     if m_obj and existing_ids:
         p_num = m_obj.group(1)
@@ -133,8 +158,10 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
         return True
     if pkind == child_kind:
         return False
-    if child_kind in ("pillar", "part", "chapter", "annex", "roman"):
+    if child_kind == "annex":
         return pkind in ("part", "chapter", "roman")
+    if child_kind in ("pillar", "part", "chapter", "roman", "letter"):
+        return pkind in ("part", "chapter", "roman", "annex")
     if child_kind in ("objective", "section_word"):
         if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
             return False
@@ -146,7 +173,7 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
     if child_kind == "numbered":
         if "." in child_id:
             return False
-        return pkind in ("roman", "part", "chapter", "pillar", "annex")
+        return pkind in ("roman", "part", "chapter", "pillar", "annex", "section_word", "letter")
     return False
 
 
@@ -193,6 +220,12 @@ def main():
             del ancestor_id_row_by_depth[d]
 
         section_id, section_name, id_kind = parse_heading(m.group(2))
+        if id_kind == "annex":
+            seen_ids = {
+                rows[ancestor_id_row_by_depth[d]]["section_id"]
+                for d in ancestor_id_row_by_depth
+                if rows[ancestor_id_row_by_depth[d]]["section_id"]
+            }
         derived_parent = derive_parent_id(section_id, seen_ids) if section_id else ""
         parent_row_idx = None
         parent_id = ""
@@ -233,6 +266,16 @@ def main():
         ancestor_row_by_depth[depth] = i
         if section_id:
             ancestor_id_row_by_depth[depth] = i
+
+    # Ensure child section depth is always strictly greater than its parent's depth
+    changed_depth = True
+    while changed_depth:
+        changed_depth = False
+        for r in rows:
+            pidx = r.get("_parent_row_idx")
+            if pidx is not None and rows[pidx]["depth"] >= r["depth"]:
+                r["depth"] = rows[pidx]["depth"] + 1
+                changed_depth = True
 
     # Disambiguate duplicate section_ids top-down by depth so child parent_ids stay synchronized
     from collections import Counter
@@ -292,6 +335,12 @@ def main():
                     r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
 
     for r in rows:
+        if r["_parent_row_idx"] is not None:
+            r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]
+    final_ids = {r["section_id"] for r in rows if r["section_id"]}
+    for r in rows:
+        if r["parent_id"] and (r["parent_id"] not in final_ids or r["parent_id"] == r["section_id"]):
+            r["parent_id"] = ""
         r.pop("_parent_row_idx", None)
         r.pop("_enclosing_any_idx", None)
 

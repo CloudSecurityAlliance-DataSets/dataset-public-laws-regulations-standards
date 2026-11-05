@@ -1,0 +1,5643 @@
+# The Yoon Suk Yeol Administration's National Security Strategy: Global Pivotal State for Freedom, Peace, and Prosperity (2023)
+
+## The Yoon Suk Yeol Administration’s National Security — Strategy
+
+Global Pivotal State for Freedom, Peace, and Prosperity
+
+## Preface
+
+We find ourselves at a critical inflection point in history once again.
+
+Over the past half century, much of the world has experienced stability
+
+and prosperity under the fair winds of globalization, informatization,
+
+and democratization. However, we are now facing an unprecedentedly
+
+turbulent future.
+
+Clashes of values, ideas, and interests around the globe are shaking
+
+the existing world order anchored in rules and principles. Also on the
+
+rise are transnational threats, such as infectious diseases, climate
+
+change, and food and energy crises, which individual countries cannot
+
+address alone. Moreover, the advent of artificial intelligence and big
+
+data will likely introduce unparalleled changes with significant national
+
+security ramifications.
+
+In light of these challenges, the concept of national security can no
+
+longer be limited to the prevention of external threats and invasions.
+
+The key to the country’s future lies in developing a national security
+
+strategy that anticipates approaching changes and maximizes the
+
+interests of the nation and its people.
+
+In order to vigorously safeguard the nation’s security and interests,
+
+it is imperative for the Republic of Korea to adopt a proactive and
+
+comprehensive strategy to shape its future and prepare for the present.
+
+As a global pivotal state grounded in the spirit of freedom and
+
+solidarity, the Republic of Korea endeavors to actively address the
+
+rapidly evolving security environment. Throughout the past seven
+
+decades, Korea has accomplished unparalleled growth and prosperity
+
+by advocating liberal democracy and cooperating closely with the
+
+international community.
+
+Undoubtedly, pursuing freedom will continue to present us with
+
+even more opportunities, while maintaining solidarity will pave the
+
+way for an even greater future. Therefore, we commit to joining hands
+
+with the international community to safeguard universal values, such
+
+as freedom, human rights, and the rule of law, and to uphold the
+
+international order based on rules and principles.
+
+We will continue to develop our military into a strong and technologically
+
+advanced force, thereby creating a solid foundation of security. Our
+
+goal is to foster a sustainable peace that guarantees freedom and
+
+prosperity on the Korean Peninsula and in Northeast Asia, as opposed
+
+to a fragile and short-lived peace that merely postpones war.
+
+Furthermore, we will spearhead efforts to overcome global challenges,
+
+such as disease, famine, poverty, illiteracy, the digital divide, and
+
+environmental pollution, and strive to expand our contribution to the
+
+international community.
+
+The Yoon Suk Yeol administration presents this National Security
+
+Strategy to articulate its perspectives on the national security of the
+
+Republic of Korea and share its vision for the future of the country.
+
+This booklet aims to outline the administration’s national security
+
+strategy to the Korean people and the international community. We
+
+hope it will serve as a catalyst for uniting the nation in pursuit of
+
+peace and prosperity for the Republic of Korea, while also earning the
+
+trust and support of the global community.
+
+Together with our fellow Koreans, my administration will employ
+
+the National Security Strategy as a guiding compass to steer the proud
+
+Republic of Korea on the path of freedom, peace, and prosperity.
+
+June 2023
+
+Yoon Suk Yeol
+
+President of the Republic of Korea
+
+Contents
+
+ⅠOverview of the National Security Strategy
+
+1. Basic Direction of the National Security Strategy 10
+
+2. National Security Objectives 14
+
+3. Core Tenets of the National Security Strategy 16
+
+4. National Security Strategy Framework 19
+
+ⅡAssessment of the Security Environment
+
+1. Global Security Environment 22
+
+2. Indo-Pacific Security Environment 26
+
+3. Korean Peninsula Security Environment 30
+
+ⅢConducting Diplomatic Cooperation Grounded in
+
+Freedom and Solidarity
+
+1. Strengthening the ROK-U.S. Comprehensive Global Strategic Alliance 36
+
+2. Enhancing ROK–U.S.–Japan Cooperation to a New Level 44
+
+3. East Asian Diplomacy Based on Universal Values and Shared Interests 47
+
+4. Building Regional Cooperation Networks 55
+
+ⅣDefending Liberal Democracy and Contributing to
+
+Global Prosperity
+
+1. Strengthening Responsible Roles in the International Community 66
+
+2. Building a Korean Network That Contributes to Global Prosperity 71
+
+3. Enhancing Intelligence Capabilities to Safeguard Liberal Democracy 74
+
+ⅤDeveloping a Powerful and Technologically Advanced Military
+
+1. Innovating Defense Capabilities through Advanced Technology 78
+
+2. Developing Cutting-Edge Forces and Expanding Defense Exports 84
+
+3. Enhancing Service Members’ Combat Mindset and Service Conditions 87
+
+ⅥBuilding Peace on the Korean Peninsula and
+
+Normalizing Inter-Korean Relations
+
+1. Reinforcing Capabilities to Counter North Korean Nuclear/WMD Threats 92
+
+2. Advancing North Korea’s Denuclearization and Peace on the Peninsula 96
+
+3. Pursuing the Normalization of Inter-Korean Relations 101
+
+4. Addressing Inter-Korean Humanitarian Issues 105
+
+5. Preparing for Unification with Citizens and the Global Community 110
+
+ⅦEstablishing a Response System for
+
+Global Economic Security
+
+1. Proactively Advancing Economic Security Diplomacy 116
+
+2. Securing Capabilities to Respond to Critical Supply Chain Crises 120
+
+3. Enhancing Protection and Cooperation for Critical/Emerging Technologies 123
+
+4. Accelerating Climate Action and the Low-Carbon Economy Transition 127
+
+ⅧProactively Responding to Emerging Security Issues
+
+1. Strengthening National Cybersecurity Capabilities 134
+
+2. Improving Health Security Systems 139
+
+3. Reinforcing National Counter-Terrorism Capabilities 141
+
+4. Enhancing National Disaster Emergency Management Systems 144
+
+Ⅰ
+
+## Overview of the National — Security Strategy
+
+1 ｜ Basic Direction of the National Security Strategy
+
+2 ｜ National Security Objectives
+
+3 ｜ Core Tenets of the National Security Strategy
+
+4 ｜ National Security Strategy Framework
+
+### Basic Direction of the National Security Strategy
+
+1
+
+The Yoon Suk Yeol administration was launched with the people’s
+
+aspirations to defend and promote freedom, democracy, and prosperity
+
+on the Korean Peninsula amid the rapidly changing global environment.
+
+In particular, as security threats continue to intensify, the people
+
+have tasked the Yoon Suk Yeol administration with accurately reading
+
+the currents of change and proactively preparing for the future.
+
+The Republic of Korea is currently facing several significant
+
+security challenges.
+
+The most pressing is North Korea’s continued advancement of its
+
+nuclear and other weapons of mass destruction (WMD) capabilities.
+
+In particular, North Korea has recently threatened the operational
+
+deployment of tactical nuclear weapons and even the possibility of
+
+preemptive nuclear strikes. As a result, it is more critical than ever to
+
+strengthen our military’s defense capabilities and reinforce a robust
+
+ROK-U.S. combined defense posture. Furthermore, as trilateral security
+
+cooperation among Korea, Japan, and the United States grows
+
+increasingly important to counter North Korean nuclear and missile
+
+threats, there is a compelling need to transform the deteriorated Korea-
+
+Japan relationship into a forward-looking, cooperative partnership.
+
+Second, the intensifying competition between the United States and
+
+10 The Yoon Suk Yeol Administration’s National Security Strategy
+
+the People’s Republic of China is increasing the fluidity of the
+
+international order. China, leveraging its economic growth, continues
+
+to expand its military capabilities and extend its political and economic
+
+influence on the global stage. In response, the United States has
+
+characterized the current global landscape as an “inflection point” in
+
+the “confrontation between democracy and authoritarianism,” and is
+
+bolstering its alliances and partnerships with like-minded countries.
+
+Third, the strengthening connection between economy and security
+
+is intensifying the competition for economic security among nations.
+
+The multilateral trade order established in the era of globalization is
+
+being challenged amid disputes over political and economic governance.
+
+Tensions over economic security among major countries have led to
+
+the weaponization of industries and resources and the fragmentation
+
+of global supply chains. The supply chain crisis, triggered by the
+
+COVID-19 pandemic, has been further exacerbated by the war in
+
+Ukraine, causing disruptions in the supply of energy, food, and raw
+
+material, and undermining the global economy.
+
+Fourth, new security threats, such as infectious diseases, climate
+
+change, and cyber attacks, are negatively affecting various aspects of
+
+human life. Due to their complex and multilayered structure, these
+
+challenges are impossible to resolve solely through individual national
+
+responses. At the same time, however, the international community is
+
+witnessing the prioritization of national interests and heightened
+
+competition for self-preservation rather than cooperation for problem-
+
+solving.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 11
+
+Major Security Challenges
+
+New Security
+
+Threats North Korean WMD Threats
+
+Supply Chain Crisis U.S.-China Competition
+
+The Yoon Suk Yeol administration has presented its national security
+
+and foreign policy vision of becoming a “Global Pivotal State
+
+Contributing to Freedom, Peace, and Prosperity” and aims to
+
+address current and future security challenges based on the
+
+following fundamental principles of its National Security Strategy.
+
+We will substantially strengthen our independent defense capabilities
+
+and closely cooperate with our ally, the United States, and other
+
+partners to create sustainable peace on the Korean Peninsula.
+
+We will respect the generally accepted principles and rules of the
+
+international community, actively defend them, and speak up against
+
+any violations of fundamental universal values such as freedom,
+
+human rights, and the rule of law.
+
+We will promote national interests and pragmatism, while emphasizing
+
+mutual respect and shared benefits through cooperation with the
+
+international community.
+
+We will proactively identify and actively respond to new security
+
+threats in the economic, social, and environmental sectors.
+
+12 The Yoon Suk Yeol Administration’s National Security Strategy
+
+We will closely communicate with the public for a shared understanding
+
+of our security environment and strive to rally national consensus to
+
+overcome crises during emergencies.
+
+Based on our security environment and the fundamental principles
+
+of the National Security Strategy outlined above, the Yoon Suk Yeol
+
+administration has identified the national security objectives, core
+
+strategic tenets, and strategic tasks.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 13
+
+### National Security Objectives
+
+2
+
+Honoring the demands of the people and incorporating the calling
+
+of the times, the Yoon Suk Yeol administration has presented its
+
+national security and foreign policy vision of becoming a “Global
+
+Pivotal State Contributing to Freedom, Peace, and Prosperity” and
+
+established the following three national security objectives.
+
+National Security Objectives
+
+1
+
+2
+
+3
+
+Establish peace
+
+Defend national sovereignty
+
+Lay the foundation
+
+on the Korean
+
+for East Asia’s prosperity and expand the nation’s
+
+Peninsula and prepare for future
+
+and territory, and
+
+enhance the safety of citizens
+
+unification
+
+global roles
+
+Defend national sovereignty and territory, and enhance the safety
+
+of citizens
+
+The Yoon Suk Yeol administration will staunchly defend our
+
+sovereignty and territory from all forces that threaten the interests of
+
+our nation and people. In particular, we will proactively deter North
+
+Korea’s provocations, including nuclear and missile threats, and
+
+forcefully repel and retaliate against any provocations carried out by
+
+North Korea. Furthermore, we will thoroughly protect the lives and
+
+14 The Yoon Suk Yeol Administration’s National Security Strategy
+
+property of citizens from a wide range of security threats that may
+
+arise in various fields, such as economy, society, and environment.
+
+Establish peace on the Korean Peninsula and prepare for future
+
+unification
+
+The Yoon Suk Yeol administration will foster sustainable peace on
+
+the Korean Peninsula through a principled and consistent approach to
+
+North Korean issues. While simultaneously inducing North Korea to
+
+make the right choice for the future, we will work with the international
+
+community to achieve a peaceful resolution to the North Korean
+
+nuclear issue. Furthermore, we will consolidate the will and capabilities
+
+of the nation for reunification to create the foundation, both domestic
+
+and international, of a reunified Korea grounded in freedom, democracy,
+
+and peace.
+
+Lay the foundation for East Asia’s prosperity and expand the
+
+nation’s global roles
+
+We will strengthen solidarity with countries that share our core values
+
+such as freedom, democracy, and human rights for the sake of global
+
+peace and prosperity. We will also pursue rules-based and fair international
+
+cooperation. Furthermore, by leveraging our advanced scientific and
+
+technological capabilities, we will actively contribute to solving various
+
+global issues for the betterment of humanity.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 15
+
+### Core Tenets of the National Security Strategy
+
+3
+
+To fulfill the three national security objectives, the Yoon Suk Yeol
+
+administration has determined the core strategic tenets in the
+
+following areas: diplomacy, national defense, inter-Korean relations,
+
+economic security, and new security threats.
+
+Core Tenets of the National Security Strategy
+
+Implement both value-based diplomacy and pragmatic diplomacy advancing national interests
+
+Diplomacy
+
+Reinforce national security through enhanced military power
+
+Defense
+
+Establish inter-Korean relations based on principles and reciprocity
+
+Inter-Korean
+
+Relations
+
+Economic
+
+Proactively secure economic security interests
+
+Security
+
+Proactively respond to new security threats
+
+New Security
+
+Implement both value-based diplomacy and pragmatic diplomacy
+
+advancing national interests
+
+Broaden the scope of shared interests and thereby expand the
+
+foundation for international cooperation
+
+16 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Enhance solidarity in the international community based on the values
+
+of freedom and democracy
+
+Pursue specialized cooperation programs tailored to regional and
+
+national situations
+
+Increase our roles in and contributions to resolving the major issues
+
+facing the international community
+
+Reinforce national security through enhanced military power
+
+Develop a future-ready military backed by advanced science and
+
+technology
+
+Establish a comprehensive defense posture grounded in the solid
+
+ROK-U.S. alliance
+
+Maximize intangible combat power through realistic training and a
+
+clear perception of the enemy
+
+Establish inter-Korean relations based on principles and reciprocity
+
+Pursue the complete denuclearization of North Korea in cooperation
+
+with the international community
+
+Establish a principled inter-Korean relationship through dialogue
+
+and cooperation based on reciprocity
+
+Strive to improve the human rights and humanitarian situation of
+
+the North Korean people
+
+Global Pivotal State for Freedom, Peace, and Prosperity 17
+
+Proactively secure economic security interests
+
+Establish an integrated and multilayered response system through
+
+public-private collaboration
+
+Take the lead in shaping international norms in cooperation with
+
+other major countries
+
+Play a more active role in setting agendas and solving problems in
+
+international economic cooperation organizations
+
+Proactively respond to new security threats
+
+Operate a robust crisis prevention system for non-traditional security
+
+challenges
+
+Establish effective early warning and public-private collaboration
+
+systems for crisis response
+
+Strengthen cooperation with the international community against
+
+new security threats, such as cybersecurity, climate change, and
+
+infectious diseases
+
+18 The Yoon Suk Yeol Administration’s National Security Strategy
+
+National Security Strategy Framework 4
+
+National Vision National Vision
+
+Global Pivotal State Contributing to Freedom, Peace, and Prosperity
+
+National Security Objectives National Security Objectives
+
+1
+
+2
+
+Defend national sovereignty and territory,
+
+3
+
+Build peace on the Korean Peninsula and
+
+and enhance the safety
+
+Lay the foundation for
+
+East Asia’s prosperity
+
+prepare for future
+
+of citizens
+
+and expand the nation’s global roles
+
+unification
+
+Core Strategic Tenets Core Strategic Tenets
+
+● Implement value-based diplomacy and pragmatic diplomacy advancing national interests
+
+● Reinforce national security through enhanced military power
+
+● Establish inter-Korean relations based on principles and reciprocity
+
+● Proactively secure economic security interests
+
+● Proactively respond to new security threats
+
+Strategic Tasks Strategic Tasks
+
+Conducting Diplomatic Cooperation Grounded in Freedom and Solidarity 1 Defending Liberal Democracy and Contributing to Global Prosperity 2
+
+Developing a Powerful and Technologically Advanced Military 3 Building Peace on the Korean Peninsula and Normalizing Inter-Korean Relations 4
+
+Establishing a Response System for Global Economic Security 5 Proactively Responding to Emerging Security Issues 6
+
+Global Pivotal State for Freedom, Peace, and Prosperity 19
+
+Ⅱ
+
+## Assessment of the Security Environment
+
+“The international community is currently facing a variety
+
+of challenges: Conflicts and human rights abuses continue
+
+unabated around the world, while the food and energy security
+
+crises caused by climate change are further exacerbated by
+
+the prolonged war.”
+
+President Yoon Suk Yeol
+
+ASEAN+3 Summit (November 12, 2022)
+
+1 ｜ Global Security Environment
+
+2 ｜ Indo-Pacific Security Environment
+
+3 ｜ Korean Peninsula Security Environment
+
+### Global Security Environment
+
+1
+
+At present, crises that would typically occur over the course of
+
+centuries are unfolding simultaneously and at an accelerated pace
+
+around the world. While technological innovation and the information
+
+revolution have enriched human life, they have also given rise to new
+
+security threats, such as climate change, pandemics, nuclear proliferation,
+
+and cyber attacks. Moreover, traditional geopolitical security threats,
+
+including armed invasions and conflicts over resources, are resurging
+
+as major power struggles intensify. As these political and security
+
+threats contribute to global economic instability, the crises are
+
+developing in a complex manner, making it challenging to foresee
+
+the future of international affairs.
+
+Global Security Environment
+
+Intensifying U.S.-China competition in the diplomatic, economic, and military spheres
+
+Increasing geopolitical instability and diversifying new security threats
+
+Deepening protectionist tendencies amid escalating economic security risks
+
+Intensification of U.S.-China strategic competition
+
+China's rapid rise in economic power, military strength, and advanced
+
+22 The Yoon Suk Yeol Administration’s National Security Strategy
+
+technology and the consequent U.S. efforts to stay ahead has fueled
+
+intensified competition between the two countries across various
+
+domains, including diplomatic, economic, and military affairs.
+
+The U.S. National Security Strategy, published in 2022, describes
+
+China as the only competitor with the intent and capacity to reshape
+
+the international order. Thus, the U.S. regards its relationship with
+
+China as transcending bilateral rivalry and representing a clash of
+
+values and systems—namely, “democracy versus authoritarianism.” In
+
+response to China’s rise, the U.S. is forming multilateral economic and
+
+technological consultative bodies, leveraging its extensive alliance
+
+network and diplomatic influence.
+
+China is striving to secure its leadership in reshaping the international
+
+order by announcing its economic assistance plans and security
+
+initiatives.1 Since President Xi Jinping’s recent reappointment, China
+
+has been accelerating its efforts to secure partners through active
+
+summit diplomacy and large-scale support based on its Belt and Road
+
+Initiative (BRI).2 In particular, China is strengthening its strategic
+
+partnership with Russia, which continues to face international sanctions
+
+and pressure due to its invasion of Ukraine, to jointly counter pressures
+
+from the U.S. and the West.
+
+1 China announced its Global Development Initiative (GDI) in June 2022 and Global Security Initiative (GSI) in September 2022.
+
+2 Proposed by President Xi Jinping in September 2013, the Belt and Road Initiative refers to the “Silk Road Economic Belt” and “Maritime Silk Road,” aiming to strengthen connectivity among cooperating countries in Asia and Africa.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 23
+
+Geopolitical instability and diversification of new security threats
+
+The intensification of competition between the United States and
+
+China, the withdrawal of U.S. troops from Afghanistan, and the war in
+
+Ukraine have exacerbated the security concerns of European and
+
+Indo-Pacific countries. For instance, Germany has significantly revised
+
+its security policy, increasing its defense budget to 2% of GDP. Finland,
+
+a hitherto neutral country, joined the North Atlantic Treaty Organization
+
+(NATO) on April 4 this year, and Sweden is also pursuing NATO
+
+membership.
+
+The diversification of emerging security threats is also becoming
+
+evident. From a health security perspective, the recurrence of COVID-19
+
+variants and outbreaks is ongoing. Climate change and environmental
+
+destruction, causing natural disasters and food shortages, are also
+
+threatening human survival. However, as some countries are increasing
+
+their consumption and importation of coal due to energy and economic
+
+crises, the international community’s cohesion in addressing global
+
+climate change is weakening.
+
+In the wake of the war in Ukraine, cyber warfare, including hacking
+
+and the spread of fake news, has emerged as a critical form of attack
+
+on the battlefield, highlighting the importance of cybersecurity.
+
+Additionally, large-scale refugee crises resulting from civil wars in
+
+various regions are not only leading to humanitarian crises but also
+
+contributing to the ongoing spread of terrorism and hate crimes.
+
+24 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Escalation of economic security risks and deepening protectionist
+
+tendencies
+
+Due to border closures caused by COVID-19 and the outbreak of the
+
+war in Ukraine, international trade has contracted, and commodity
+
+prices have skyrocketed, leading to the rapid deterioration of the
+
+economic security environment. Russia’s weaponization of energy
+
+resources has contributed significantly to rising international oil prices,
+
+while major grain-producing countries have implemented export controls,
+
+thus exacerbating the global food crisis.
+
+Countries experiencing supply chain disruptions are pursuing self-
+
+reliance through the formation of economic blocs. In particular, policies
+
+for “reshoring” (relocating production facilities back to the domestic
+
+market) or “friendshoring” (transferring production facilities to ally
+
+countries) are being actively implemented to regain control over
+
+production. As countries shift toward protectionist tendencies, it is
+
+expected that the global value chains based on the free trade paradigm
+
+will continue to experience fractures.
+
+Meanwhile, as advanced technology has become a matter of national
+
+security, there is a growing emphasis on protecting against technology
+
+theft and the outflow of skilled talent. Amid the escalating competition
+
+between the United States and China for technological supremacy, a
+
+restructuring of the global semiconductor and battery-related industries
+
+appears to be inevitable in the future.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 25
+
+### Indo-Pacific Security Environment
+
+2
+
+As of July 2020, Source: Journal of Economic Structures
+
+Strategic Significance of the Indo-Pacific
+
+65%
+
+62%
+
+Population GDP
+
+46%
+
+Trade
+
+Indo-Pacific region Others
+
+The Indo-Pacific region occupies a critical position, encompassing
+
+vital maritime logistics routes and representing 65% of the global
+
+population, 62% of global GDP, and 46% of global trade. Furthermore,
+
+it is an economically and technologically dynamic region with many
+
+of our key partners for collaboration in semiconductors and other
+
+strategic industries. Acknowledging the strategic importance of the
+
+Indo-Pacific and aiming to engage more actively with it, major countries
+
+both within and outside the region have unveiled their individual
+
+Indo-Pacific strategies.
+
+Indo-Pacific Security Environment
+
+Growing geopolitical significance of the Indo-Pacific as the central arena of the escalating U.S.-China rivalry
+
+Indo-Pacific countries’ pursuit of pragmatic diplomacy amid U.S.-China strategic competition
+
+Diminished cooperation incentives and intensified economic security competition in Northeast Asia
+
+26 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Growing geopolitical significance of the Indo-Pacific amid the
+
+intensifying U.S.-China rivalry
+
+The Indo-Pacific region has emerged as the central arena for
+
+competition between the United States and China. China is seeking to
+
+expand its relationship with ASEAN and accelerating its efforts to
+
+integrate the regional economy around its interests through the
+
+Regional Comprehensive Economic Partnership (RCEP). In response,
+
+the U.S. has announced its Indo-Pacific Strategy and launched the
+
+Indo-Pacific Economic Framework for Prosperity (IPEF)3 to strengthen
+
+economic and security cooperation with its regional allies and countries
+
+sharing democratic values.
+
+Escalating tensions, especially in the maritime domain, have resulted
+
+in heightened military risks. China is adjusting its maritime security
+
+strategy, shifting its focus from defending against and deterring U.S.
+
+involvement in the region to adopting a more offensive approach. In
+
+response, the U.S. is conducting naval exercises with its regional allies
+
+and partners and promoting minilateral cooperation through QUAD4
+
+and AUKUS.5
+
+3 IPEF, a multilateral economic forum for the Indo-Pacific region initiated by U.S. President Biden in May 2022, focuses on joint responses to new trade agendas, such as digital, supply chain, and clean energy.
+
+4 QUAD refers to the Quadrilateral Security Dialogue among the U.S., Japan, India, and Australia.
+
+5 AUKUS is a security cooperation framework among the U.S., United Kingdom, and Australia.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 27
+
+Indo-Pacific countries’ pursuit of pragmatic diplomacy amid
+
+U.S.-China competition
+
+ASEAN nations, positioned between the United States and China,
+
+are adopting pragmatic approaches that involve selective solidarity
+
+and cooperation based on each country’s interests. At the same time,
+
+these countries are seeking to maintain “ASEAN Centrality”6 in order
+
+to secure regional autonomy, even amid the competing influence of
+
+the U.S. and China.
+
+India is pursuing selective economic cooperation with China and
+
+Russia, while also participating in the U.S.-led QUAD and IPEF, thereby
+
+strengthening its connections with major global powers. Australia is
+
+participating in QUAD and AUKUS, enhancing its security cooperation
+
+with the U.S. and simultaneously expanding its ties with countries that
+
+share democratic values among ASEAN and Pacific Island nations.
+
+Japan also announced its Joint Declaration on Security Cooperation
+
+with Australia and has formulated a new defense strategy aimed at
+
+reinforcing alliances with like-minded countries, such as NATO members.
+
+Diminished cooperation incentives and intensified economic
+
+security competition in Northeast Asia
+
+In Northeast Asia, the growing alignment among China, Russia, and
+
+North Korea has led to weakened cooperative momentum for addressing
+
+regional security issues, such as the North Korean nuclear problem.
+
+6 “ASEAN Centrality” refers to the notion that the Association of Southeast Asian Nations (ASEAN) should play the central role in the process of constructing the regional multilateral cooperation system.
+
+28 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Notably, various current issues, including historical disputes, maritime
+
+jurisdiction, and marine and atmospheric pollution, are affecting the
+
+development of mutual relations among Korea, China, and Japan.
+
+Meanwhile, economic and technological competition is expected to
+
+accelerate among Northeast Asian countries. China and Japan are
+
+competing to establish their leadership in the regional trade order by
+
+expanding the number of countries participating in the respective
+
+multilateral FTAs in which they play a significant role.7 As countries
+
+are vying to secure leadership in advanced technologies such as
+
+artificial intelligence (AI) and quantum computing, the ROK government
+
+is exploring cooperation in semiconductor production and development
+
+with the United States and Japan. As the link between security and
+
+technology intensifies economic security competition, Korea is facing
+
+a growing need to strengthen economic and technological cooperation
+
+among friendly nations, centered around the ROK-U.S. alliance.
+
+7 China plays a significant role in the Regional Comprehensive Economic Partnership (RCEP), while Japan has been a driving force behind the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).
+
+Global Pivotal State for Freedom, Peace, and Prosperity 29
+
+### Korean Peninsula Security Environment
+
+3
+
+North Korea has remained unresponsive to the international
+
+community’s persistent calls for dialogue, focusing solely on enhancing
+
+its nuclear and missile capabilities. Even as the global efforts to
+
+denuclearize North Korea continue to make little progress, neighboring
+
+countries are seeking to expand their influence on the Korean
+
+Peninsula.
+
+Korean Peninsula Security Environment
+
+Escalating North Korean nuclear threat to our security
+
+North Korea’s intensifying economic hardship
+
+Surrounding countries seeking to expand their influence amid the inter-Korean stalemate
+
+North Korea’s increasing nuclear, missile, and other threats
+
+North Korea continues to develop various strategic and tactical
+
+weapons, including new missiles, under the pretext of strengthening
+
+its self-defense capabilities, thereby posing a substantial threat to
+
+neighboring countries. In 2022, North Korea launched a record number
+
+of ballistic missiles (over 70 launches), including ICBMs and hypersonic
+
+missiles. North Korea also legislated its nuclear weapons policy on
+
+30 The Yoon Suk Yeol Administration’s National Security Strategy
+
+September 8, 2022, which contains provisions suggesting the possibility
+
+of preemptive nuclear strikes and the operational deployment of
+
+tactical nuclear weapons. Using our legitimate military exercises as its
+
+excuse, North Korea has repeatedly violated the Inter-Korean Military
+
+Agreement by launching missiles south of the Northern Limit Line,
+
+conducting artillery fire within the East Sea and West Sea buffer zones,
+
+and infiltrating our airspace with drones. Currently, North Korea is
+
+disregarding all efforts for peace on the Korean Peninsula while eagerly
+
+seeking opportunities to provoke and disrupt our society.
+
+North Korea’s economic hardship exacerbated by its pandemic
+
+control
+
+Amid prolonged sanctions and its containment measures for the
+
+pandemic, North Korea is facing its worst economic crisis since Kim
+
+Jong Un’s rise to power. Specifically, the chronic food shortage,
+
+compounded by the public health crisis, has led to a steady decline in
+
+the living conditions of North Korean residents.
+
+North Korean authorities have partially eased pandemic control
+
+measures and resumed international train services, but these efforts
+
+have been insufficient to fundamentally improve the economic
+
+situation. Although the North ostensibly promotes the people-first
+
+principle and introduces livelihood policies, unrealistic policies and
+
+frequent forced mobilizations have only intensified residents’
+
+dissatisfaction. In response, Kim Jong Un has been highlighting
+
+achievements in the defense sector as his accomplishments, shifting
+
+Global Pivotal State for Freedom, Peace, and Prosperity 31
+
+the blame for economic failures onto officials, and focusing solely on
+
+regime stability.
+
+North Korea’s Triple Distress
+
+Deepening isolation due to its provocations
+
+Economic hardship due to
+
+strengthened sanctions
+
+Intensifying dissatisfaction
+
+of destitute
+
+citizens
+
+Major powers’ efforts to expand their influence amid the deadlock
+
+in inter-Korean relations
+
+Despite the international community’s ongoing offers for dialogue,
+
+North Korea has consistently maintained a hard-line stance and
+
+distanced itself from the South.
+
+The four major powers surrounding the Korean Peninsula are closely
+
+monitoring the changing political landscape while seeking to expand
+
+their influence. The United States is pursuing a broader scope of the
+
+ROK-U.S. alliance and focusing on denuclearizing North Korea through
+
+a combination of sanctions and diplomatic engagement. Japan regards
+
+North Korea as a major regional challenge and is actively participating
+
+32 The Yoon Suk Yeol Administration’s National Security Strategy
+
+in trilateral security cooperation with Korea and the U.S. Conversely,
+
+China and Russia are emphasizing the political resolution of the
+
+Korean Peninsula issue and expressing their opposition to the
+
+international community’s movements to strengthen sanctions against
+
+the North in response to its unprecedented provocations.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 33
+
+Ⅲ
+
+## Conducting Diplomatic Cooperation Grounded in — Freedom and Solidarity
+
+“Those countries that share the universal values of freedom,
+
+human rights, and the rule of law are banding together through
+
+their economies and industries. This solidarity based on these
+
+universal values is the most strategic choice in the current
+
+diplomatic landscape.”
+
+President Yoon Suk Yeol
+
+New Year Address to the Nation (January 1, 2023)
+
+1 ｜ Strengthening the ROK-U.S. Comprehensive Global Strategic Alliance
+
+2 ｜ Enhancing ROK-U.S.-Japan Cooperation to a New Level
+
+3 ｜ East Asian Diplomacy Based on Universal Values and Shared Interests
+
+4 ｜ Building Regional Cooperation Networks
+
+Strengthening the ROK‒U.S.
+
+### Comprehensive Global Strategic Alliance
+
+1
+
+Over the past 70 years, the ROK-U.S. alliance has served as the
+
+central pillar of peace and prosperity in the region, safeguarding the
+
+peace and stability of the Korean Peninsula and contributing to the
+
+improved quality of life of citizens in both countries. Now, the two
+
+nations are facing new shared challenges, such as supply-chain
+
+restructuring, competition in critical technologies, and pandemics,
+
+in addition to significant changes in the security environment
+
+exemplified by North Korea’s nuclear threat and intensifying global
+
+strategic competition.
+
+The ROK-U.S. alliance must further evolve to respond to these
+
+changes. Therefore, the ROK-U.S. alliance must expand in its scope
+
+and range of collaboration to a global level, while continuing to focus
+
+on the core tasks of establishing peace on the Korean Peninsula and
+
+achieving unification rooted in freedom and democracy.
+
+Comprehensive ROK-U.S. global strategic alliance based on shared
+
+values
+
+The ROK-U.S. alliance has continuously developed and evolved,
+
+grounded in shared universal values such as freedom, democracy, and
+
+human rights. On May 21, 2022, President Yoon Suk Yeol agreed on
+
+the goal of further advancing the ROK-U.S. alliance into a comprehensive
+
+global strategic alliance during his first summit with U.S. President
+
+36 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Joseph Biden, who visited Korea just over ten days after the inauguration
+
+of the Yoon Suk Yeol administration. In April 2023, marking the 70th
+
+anniversary of the ROK-U.S. alliance, President Yoon Suk Yeol made
+
+a state visit to the United States (April 24-29) as the first President of
+
+the Republic of Korea to do so in 12 years. After the ROK-U.S. summit
+
+on April 26, the two leaders issued a joint statement highlighting the
+
+two nations’ deepening of the comprehensive global strategic alliance
+
+and their expansion of cooperation within the Indo-Pacific. This ROK-
+
+U.S. summit has upgraded the ROK-U.S. alliance to a new paradigm
+
+based on nuclear deterrence. The two countries’ value-based alliance,
+
+built on the foundation of universal values, such as freedom, rule of
+
+law, and human rights, will be further fortified through five pillars
+
+upholding the alliance-security, industry, science and technology,
+
+culture, and information.
+
+The pivotal role that the ROK-U.S. alliance has played in ensuring
+
+peace and prosperity on the Korean Peninsula will continue to expand
+
+globally. The scope of bilateral cooperation will also extend beyond
+
+the traditional focus on security and foreign policy to encompass a
+
+comprehensive range of areas, including economic security, advanced
+
+technology, human exchanges, culture, and information. The Yoon
+
+Suk Yeol administration will work with the U.S. and other partners to
+
+establish an open, inclusive, and rules-based international order in the
+
+Indo-Pacific based on the solidarity of freedom.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 37
+
+Key Points of President Yoon’s Speech to the Joint Session of the U.S. Congress in Commemoration of the 70th Anniversary of the ROK-U.S. Alliance (April 23, 2023)
+
+Alliance of Freedom, Alliance in Action
+
+U.S. Leadership in the Establishment of the Liberal International Order During the Second World War, the United States chose righteous intervention to safeguard freedom and established the post-war order of the free world.
+
+Inception of the Alliance Through the heroic sacrifices of the Korean War veterans, we were able to preserve the freedom of the Republic of Korea and open a new era of alliance through the signing of the ROK–U.S. Mutual Defense Treaty.
+
+Evolution of the Alliance The ROK–U.S. alliance has enabled the “Miracle on the Han River” and continued to evolve through peacekeeping efforts contributing to global peace, the expansion of mutual investment and trade through the free trade agreement (FTA), and people-to-people exchanges and solidarity.
+
+ROK as the “Compass of Freedom” The free world must courageously stand together against false propaganda and fake news to protect democracy and the rule of law.
+
+Principled Approach to North Korea Through robust ROK–U.S. cooperation, we must deter and prevent North Korea’s military provocations and raise international awareness on the dire human rights situation faced by North Korean residents.
+
+Indo-Pacific Strategy We will actively reinforce the rules-based regional order while expanding public development assistance and providing tailored development cooperation programs.
+
+Conclusion The ROK and the U.S. will embark on a new journey toward a future of justice, peace, and prosperity.
+
+38 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Major Outcomes of the ROK-U.S. Summit
+
+Area Major Outcomes
+
+Enhancing extended deterrence execution through the “Korea-Style Extended Deterrence”
+
+Solidifying the highest level of commitment by documenting the extended deterrence enhancement plan in a separate declaration between the leaders (“Washington Declaration”)
+
+Security
+
+Elevating the ROK–U.S. alliance to a mutual defense concept that includes nuclear capabilities
+
+Enhancing the ROK–U.S. strategic economic security partnership qualitatively
+
+Boosting mutual investments in advanced technology sectors, including semiconductors and electric vehicles
+
+Industry
+
+Mitigating uncertainty for Korean companies during the implementation of the Inflation Reduction Act and the CHIPS and Science Act
+
+Establishing the Next Generation Critical and Emerging Technologies Dialogue to lead advanced technology cooperation
+
+Adopting the Joint Statement on ROK–U.S. Cooperation in Quantum Information Science and Technology
+
+Science & Technology
+
+Signing the Joint Statement of Intent for Cooperation on Space Exploration and Science
+
+Expanding the Cultural Partnership Program to promote people-to-people exchanges and cultural content cooperation
+
+Launching the ROK–U.S. Youth Special Exchange Initiative Culture
+
+Enhancing cooperation in information collection, sharing, and analysis
+
+Adopting the Strategic Cybersecurity Cooperation Framework
+
+Information
+
+Expanding the scope of the ROK–U.S. Mutual Defense Treaty to include cyberspace and outer space cooperation
+
+Global Pivotal State for Freedom, Peace, and Prosperity 39
+
+Strengthening the ROK-U.S. combined defense posture and U.S.
+
+extended deterrence8
+
+The Yoon Suk Yeol administration is resuming and expanding the
+
+ROK-U.S. combined exercises and training, which were all but completely
+
+halted during the previous administration, in order to establish a
+
+strengthened deterrent against North Korea. Furthermore, the ROK
+
+and U.S. governments are working on broadening their scope of
+
+cooperation under the ROK–U.S. Mutual Defense Treaty to include the
+
+space and cyber domains. We will engage in strategic communication
+
+and policy coordination through various diplomatic and security
+
+consultative bodies, including the strategic consultations between the
+
+two countries’ National Security Councils (NSCs), the foreign and
+
+defense ministers’ meeting (2+2), and the Extended Deterrence Strategy
+
+and Consultation Group (EDSCG).
+
+In particular, on April 26, 2023, during the ROK–U.S. summit
+
+commemorating the 70th anniversary of the signing of the Mutual
+
+Defense Treaty, the ROK and U.S. leaders adopted the Washington
+
+Declaration to significantly enhance the effectiveness of extended
+
+deterrence. The Washington Declaration, as the first-ever agreement
+
+at the highest level of ROK–U.S. leadership on the operation of
+
+extended deterrence, demonstrates both countries’ strong commitment
+
+to extended deterrence and represents a turning point for improving
+
+the execution capabilities of extended deterrence. As a result, the
+
+8 Extended deterrence is a U.S. policy whereby the United States provides a deterrent for allied nations with the full range of its military capabilities, including its nuclear, conventional, missile defense, and advanced non-nuclear capabilities.
+
+40 The Yoon Suk Yeol Administration’s National Security Strategy
+
+ROK–U.S. military alliance has evolved into a new paradigm of military
+
+alliance that includes nuclear capabilities.
+
+Major Points of the Washington Declaration
+
+Category Major Points
+
+Confirming robust mutual defense and a solid combined defense posture through extended deterrence
+
+Commitment to
+
+Extended Deterrence
+
+Emphasizing the importance of extended deterrence utilizing the total military capabilities of the U.S., including its nuclear capabilities
+
+Nuclear Consultative Group (NCG) to discuss extended deterrence reinforcement, nuclear and strategic planning, and North Korean threat management in the context of the nonproliferation regime
+
+Establishment of the Nuclear
+
+Consultative
+
+Introducing interagency table-top simulations (TTS) for a swift and decisive joint response to nuclear contingencies
+
+Group
+
+Promoting conventional ROK support in contingencies requiring U.S. nuclear operations Expansion of the
+
+ROK’s Role
+
+Deployment of
+
+Increasing the visibility of strategic assets, such as periodic Korean port visits by strategic nuclear submarines
+
+U.S. Strategic
+
+Assets
+
+The ROK–U.S. Nuclear Consultative Group (NCG), established in
+
+accordance with the Washington Declaration, will enhance the execution
+
+capabilities of extended deterrence in response to North Korean
+
+nuclear and missile threats by further advancing information sharing,
+
+joint planning and execution systems, and consultative mechanisms.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 41
+
+We will expand the scope of information shared on North Korean
+
+nuclear issues and customize deterrence strategies to address all
+
+potential scenarios of North Korean nuclear threats. Furthermore, we
+
+will regularly conduct table-top exercises (TTX) for operating the
+
+means of extended deterrence as well as table-top simulations (TTS)
+
+for the nuclear contingency response. We will also increase the frequency
+
+and intensity of strategic asset deployment around the Korean
+
+Peninsula to achieve effects equivalent to permanent deployment.
+
+Strengthening ROK‒U.S. cooperation in economic security and
+
+advanced technology
+
+In an era when the economy and security are tightly intertwined,
+
+market changes and competition in advanced technology directly
+
+affect national security. Therefore, at the ROK–U.S. summit in April
+
+2023, the Yoon Suk Yeol administration agreed to establish the Next
+
+Generation Critical and Emerging Technologies Dialogue between the
+
+national security councils (NSCs) of the two nations to further
+
+strengthen cooperation in economic security and advanced technology.
+
+Based on this advanced technology alliance, the Republic of Korea
+
+and the United States will aim to build a supply chain alliance in the
+
+advanced industries sector.
+
+A stable and resilient supply chain and an orderly functioning foreign
+
+exchange market are essential elements for the sustainable growth
+
+and financial stability of both countries. Furthermore, the expansion
+
+42 The Yoon Suk Yeol Administration’s National Security Strategy
+
+of mutual investments between Korean and U.S. companies in key
+
+industries such as semiconductors and batteries will bring mutual
+
+benefits and economic prosperity to the citizens of both nations.
+
+Additionally, collaboration will be consolidated in advanced and critical
+
+technology fields, such as AI, quantum technology, biotechnology,
+
+aerospace, nuclear energy, renewable energy, environmental solutions,
+
+and healthcare.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 43
+
+### Enhancing ROK–U.S.–Japan Cooperation to a New Level
+
+2
+
+As countries that share such universal values as democracy, market
+
+economy, human rights, and the rule of law, the Republic of Korea,
+
+the United States, and Japan recognize the increasing threat of North
+
+Korea’s nuclear and missile capabilities and the growing instability
+
+of global supply chains. These and other emerging challenges make
+
+the nations’ trilateral cooperation more critical than ever.
+
+Enhancing ROK–U.S.–Japan security cooperation in response to
+
+North Korean provocations
+
+The leaders of the Republic of Korea, the United States, and Japan
+
+met during the NATO Summit in June 2022 and concurred on the
+
+need to strengthen security cooperation in response to North Korea’s
+
+nuclear and missile threats. In November of the same year, they held
+
+their second trilateral summit in Phnom Penh, Cambodia, where they
+
+agreed to the real-time sharing of North Korean missile warning
+
+information among the three countries. During the trilateral summit
+
+meeting held in May 2023 on the occasion of the G7 Summit, the
+
+leaders decided to elevate ROK–U.S.–Japan cooperation to a new level.
+
+The Yoon Suk Yeol administration will work toward establishing a
+
+robust trilateral security cooperation framework to effectively deter
+
+North Korean nuclear and missile threats and contribute to peace and
+
+stability in the region.
+
+44 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Promoting the ROK–U.S.–Japan economic security dialogue
+
+In November 22, the leaders of the Republic of Korea, the United
+
+States, and Japan agreed to establish a trilateral economic security
+
+dialogue mechanism in recognition of the importance of cooperation
+
+in ensuring supply chain stability and collaboration in the advanced
+
+technology and energy sectors.
+
+In line with this agreement, the three countries’ National Security
+
+Councils (NSCs) held the inaugural trilateral economic security
+
+dialogue in Honolulu, Hawaii, in February 2023. The three nations will
+
+enhance their crisis response capabilities against supply chain instability
+
+through the economic security dialogue and strengthen cooperation
+
+in the development and protection of critical and emerging technologies.
+
+Expanding ROK–U.S.–Japan cooperation on global issues
+
+The Yoon Suk Yeol administration will closely cooperate and
+
+communicate with the United States and Japan based on a shared
+
+understanding of the strategic significance of the Indo-Pacific region
+
+in pursuit of its “Indo-Pacific Strategy for Freedom, Peace, and
+
+Prosperity.”
+
+Building on our shared values, we will expand our cooperation with
+
+the U.S. and Japan to include not only security cooperation but also
+
+collaboration in the economic, supply chain, and sociocultural domains.
+
+To achieve this, the three countries will maintain close dialogue
+
+among their leaders and officials while promoting active exchanges in
+
+various fields, including youth and sociocultural exchanges, to solidify
+
+the foundation of future cooperation.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 45
+
+Key Points of the Phnom Penh Joint Statement (November 13, 2022)
+
+Reaffirmation of the ROK–U.S.–Japan partnership and appreciation of the unprecedented progress of trilateral cooperation
+
+Confirmation of the U.S. commitment to strengthening extended deterrence in response to North Korean nuclear and missile threats
+
+North Korean
+
+nuclear issue
+
+Real-time sharing of information on North Korean missiles among the three countries
+
+Establishment of a trilateral dialogue mechanism on economic security
+
+Economic
+
+security
+
+Strengthening trilateral solidarity to address economic coercion
+
+Confirmation of support from the U.S. and Japan for our Indo-Pacific strategy Indo-Pacific
+
+strategy
+
+Strong condemnation of Russia’s invasion of Ukraine International
+
+issues
+
+46 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### East Asian Diplomacy Based on Universal Values and Shared Interests
+
+3
+
+Strategic Tenets for Diplomacy with Japan, China, and Russia
+
+China Russia Japan
+
+Cultivate a healthier
+
+Strengthen
+
+Maintain a
+
+and more mature
+
+collaboration on
+
+stable bilateral
+
+relationship built on
+
+regional and global
+
+relationship guided
+
+mutual respect and
+
+issues as partners
+
+by international
+
+reciprocity
+
+sharing universal values
+
+rules
+
+We aim to enhance our collaboration with
+
+Japan on regional and global matters,
+
+Japan
+
+as well as on the Korean Peninsula, rooted
+
+in our shared universal values, such as freedom,
+
+democracy, and human rights.
+
+Korea and Japan are close and essential neighbors, working together
+
+in diverse fields, including security and economy, and upholding the
+
+principles of liberal democracy and market economy. Although
+
+historical disputes have strained their relationship, the pressing
+
+security landscape has amplified the necessity for both countries to
+
+jointly address regional security and other concerns in a manner
+
+consistent with their mutual interests and values.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 47
+
+Promoting high-level exchanges and expediting discussions on
+
+key issues
+
+Since its inauguration, the Yoon Suk Yeol administration has actively
+
+pursued various diplomatic efforts to seek practical solutions to issues
+
+between Korea and Japan and to enhance their relationship. The
+
+leaders of Korea and Japan met in September and November 2022 and
+
+agreed on the necessity of improving their nations’ relations and
+
+promptly addressing current issues to expand cooperation. Building
+
+on the momentum of improving Korea-Japan relations, President
+
+Yoon Suk Yeol visited Japan on March 16-17, 2023, marking the first
+
+bilateral summit meeting in 12 years since December 2011. In a
+
+reciprocal visit, Prime Minister Kishida visited Korea on May 7-8, 2023,
+
+a mere 52 days after President Yoon’s visit to Japan. These visits have
+
+restored shuttle diplomacy between the leaders of Korea and Japan
+
+and set the course for the improvement of bilateral relations. During
+
+the Korea-Japan summit in May 2023, in-depth discussions were held
+
+on cooperation in a wide range of areas, including economy, industry,
+
+science, culture, and people-to-people exchanges.
+
+The government has actively listened to the voices of various sectors
+
+and levels through public-private consultations on forced labor, public
+
+debates, and visits with victims. At the same time, the government has
+
+held consultations with Japan to discuss its constructive responses. As
+
+a result, the government announced on March 6, 2023, its position on
+
+the Supreme Court ruling regarding forced labor mobilization. The
+
+government’s solution is to provide compensation to the victims of
+
+48 The Yoon Suk Yeol Administration’s National Security Strategy
+
+forced labor mobilization who were plaintiffs in the ruling through the
+
+Foundation for Victims of Forced Mobilization by Imperial Japan,
+
+which was established by the Korean government. This landmark
+
+decision simultaneously satisfies the 1965 Claims Settlement Agreement
+
+between Korea and Japan and the 2018 Supreme Court ruling. This
+
+initiative by Korea represents the nation’s magnanimous and proactive
+
+will to normalize the deteriorated Korea-Japan relations. The government
+
+will take responsibility and actively address our citizens’ pain caused
+
+by past history. As of May 2023, 10 of the 15 plaintiffs in the Supreme
+
+Court ruling have received compensation, and the government will
+
+continue to communicate to ensure that all plaintiffs eventually receive
+
+compensation.
+
+On the same day our government announced its position on the
+
+forced labor issue, Japan announced that it would inherit the positions
+
+of previous cabinets, including the “Kim Dae-jung-Obuchi Joint
+
+Declaration”9 in which Japan expressed its “deep remorse and heartfelt
+
+apology” for its colonial rule. Moreover, during his visit to Korea in
+
+May 2023, Prime Minister Kishida stated, “I personally feel my heart
+
+ache at the thought of countless people having gone through very
+
+challenging and sad times under extreme conditions.” Furthermore,
+
+as the Japanese government expressed its non-opposition to voluntary
+
+9 The Kim Dae-jung‒Obuchi Declaration (also known as the “Joint Declaration for a New ROK‒Japan Partnership towards the 21st Century”) emphasizes the importance of building a friendly and cooperative relationship between the two countries. The declaration includes Japan’s “deep remorse and heartfelt apology” for its colonial rule and an action plan to develop balanced, higher-level bilateral relations in areas such as politics, security, economy, human and cultural exchanges, and global issues.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 49
+
+contributions from Japanese companies, the possibility of contributions
+
+from Japanese companies remains open.
+
+Now that the goal of normalizing Korea–Japan relations has been
+
+visibly achieved through the announcement of the solution to the
+
+Supreme Court ruling on forced labor and the presidential visit to
+
+Japan, the government will continue its efforts to expand the momentum
+
+for improving Korea-Japan relations to economic and security cooperation
+
+as well as cultural and human exchanges.
+
+If Korea and Japan confront their dark historical past with genuine
+
+sincerity, they will be able to overcome the current challenges and
+
+embark on a path toward a new future. Moreover, as the two nations
+
+that share liberal democratic values build trust while engaging in
+
+mutual exchanges and cooperation, they will not only surpass the
+
+peak of past relations but also pioneer a new era, opening up new
+
+possibilities for the future of Korea-Japan relations.
+
+Promoting active human exchanges and mutual understanding
+
+We will build upon the comprehensive vision for the future of both
+
+nations outlined in the 1998 Kim Dae-jung-Obuchi Declaration as we
+
+confront the past of the bilateral relationship and work toward creating
+
+a new future.
+
+Korea and Japan should build mutual understanding and trust as the
+
+foundation for cultivating a forward-looking bilateral relationship with
+
+a mid-to-long-term perspective. To achieve this, the government will
+
+50 The Yoon Suk Yeol Administration’s National Security Strategy
+
+strive to expand private exchanges and advance diverse public-private
+
+initiatives, with a particular emphasis on augmenting communication
+
+opportunities for future generations through public diplomacy and
+
+other related endeavors. Notably, on the occasion of President Yoon
+
+Suk Yeol’s official visit to Japan in March 2023, the Federation of
+
+Korean Industries (FKI) and the Japan Business Federation (Keidanren)
+
+agreed to jointly establish the Korea–Japan Future Partnership Fund to
+
+promote exchanges and mutual understanding among future generations.
+
+The two governments will continue to make joint efforts to ensure
+
+ongoing exchanges and cooperation in various fields, including political
+
+and economic cooperation as well as social, cultural, and human
+
+exchanges.
+
+We aim to foster a healthier and
+
+mutual respect and reciprocity. China
+
+more mature relationship with China built on
+
+Since the establishment of diplomatic relations in 1992, the ROK-
+
+China relationship has experienced remarkable progress in various
+
+fields over the past 30 years. Korea and China should now move
+
+beyond quantitative growth and make qualitative strides, collaborating
+
+closely on a global scale in accordance with their international
+
+standings.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 51
+
+Enhancing strategic communication and expanding tangible
+
+cooperation with a public impact
+
+Diverse communication between Korea and China is essential to
+
+further develop a mature and healthy bilateral relationship. To achieve
+
+this, we intend to actively promote exchanges and communication at
+
+various levels, including mutual visits and regular communication
+
+between top leaders and foreign ministers, strategic dialogues between
+
+vice ministers of foreign affairs, and vice-minister-level diplomatic
+
+and security dialogues.
+
+Additionally, the government will strive to achieve visible results in
+
+areas where the public can directly feel the impact of cooperation,
+
+such as supply chain management, FTA follow-up negotiations, fine
+
+dust, and climate change. We will also actively seek to enhance people-
+
+to-people and cultural content exchanges to strengthen our relationship.
+
+Safeguarding national interests with confident diplomacy
+
+anchored in principles
+
+The government is committed to addressing matters related to our
+
+sovereignty, rights, and interests in a consistent and resolute manner
+
+based on national interests and principles. At the same time, we will
+
+reinforce a continuous communication system for effectively managing
+
+current issues. Specifically, we will make it clear that the THAAD
+
+deployment is a matter of our security sovereignty.
+
+52 The Yoon Suk Yeol Administration’s National Security Strategy
+
+We aim to manage the ROK‒Russia relationship in a
+
+stable manner guided by international norms. Russia
+
+In February 2022, Russia launched a military invasion of Ukraine.
+
+Major countries around the world unanimously condemned Russia’s
+
+armed invasion, which violated the UN Charter and international law,
+
+and actively cooperated in imposing sanctions on Russia and supporting
+
+Ukraine to resolve the crisis. In light of Russia’s unprecedented
+
+invasion of Ukraine, there is an increasing necessity for the government
+
+to conduct a thorough reevaluation of our diplomatic policy toward
+
+Russia.
+
+Joining international efforts to end the war in Ukraine and restore
+
+peace, while also stabilizing relations with Russia
+
+In accordance with international rules and universal values, the
+
+ROK government resolutely condemns Russia’s military invasion. In
+
+response, the government will continue to engage in international
+
+cooperation efforts, including the imposition of sanctions on Russia
+
+and the provision of humanitarian assistance to Ukraine.
+
+The government will also make efforts to maintain stable relations
+
+with Russia. We will continue diplomatic communication on major
+
+issues requiring cooperation with Russia while working to minimize
+
+the damage to our economy and companies operating in Russia due
+
+to sanctions.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 53
+
+We will closely monitor external conditions, such as the situation in
+
+Ukraine, and continually review our government’s diplomatic policy
+
+direction toward Russia.
+
+54 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Building Regional Cooperation Networks
+
+4
+
+Today, as a top ten global economic power and a leading democratic
+
+nation, the Republic of Korea will fulfill its roles and responsibilities
+
+in line with its international standing. In particular, in anticipation of
+
+the potential ongoing weaponization of resources and supply chain
+
+crises, it is necessary to establish a multilayered economic cooperation
+
+network.
+
+Systematic implementation of the Indo-Pacific strategy
+
+The Yoon Suk Yeol administration will assume a responsible role in
+
+ensuring stability and shared prosperity in the Indo-Pacific, which is
+
+directly linked to our own survival and prosperity. Our involvement
+
+will not be limited to the Korean Peninsula and Northeast Asia but will
+
+be expanded to key areas within the Indo-Pacific, such as the North
+
+Pacific, Southeast Asia, ASEAN, South Asia, Oceania, and the African
+
+coastal countries along the Indian Ocean. Additionally, we will strengthen
+
+customized strategic cooperation networks tailored to each region
+
+and broaden our diplomatic horizons by actively collaborating with
+
+countries within and beyond the region.
+
+The ROK government will implement the following nine priority tasks
+
+based on the three principles of inclusion, trust, and mutual benefit to
+
+build an Indo-Pacific regional order founded on norms and rules.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 55
+
+Nine Priority Tasks for the Indo-Pacific Strategy
+
+1 2 3
+
+Collaborate to promote
+
+Establish an Indo-Pacific order based on norms and
+
+Strengthen cooperation in non-proliferation and
+
+the rule of law and
+
+human rights
+
+rules
+
+counter-terrorism
+
+4 5 6
+
+Expand comprehensive security cooperation
+
+Enhance economic security
+
+networks
+
+Promote science and technology
+
+cooperation and contribute to
+
+the digital divide mitigation
+
+7 8 9
+
+Lead regional cooperation
+
+Foster mutual understanding and increased exchanges
+
+Enhance contributive diplomacy through customized
+
+in climate change and
+
+energy security
+
+development partnerships
+
+Advancing the Korea-ASEAN Solidarity Initiative (KASI)
+
+ASEAN, a cooperative organization consisting of countries strategically
+
+situated at the crossroads of the Pacific and Indian Oceans, hosts
+
+annual ASEAN-related summits and serves as a key player in regional
+
+cooperation. Combined to boast the world’s third-largest population
+
+(about 660 million) and fifth-largest economy (approximately $3.35
+
+trillion), ASEAN is drawing attention as a new driver of global economic
+
+growth and a key partner for economic security cooperation. For the
+
+Republic of Korea, ASEAN is not only its second-largest trade (around
+
+$176.6 billion in 2021) and investment (about $29 billion cumulatively
+
+from 2019-2021) partner but also the top travel destination for Koreans
+
+(nearly 10 million visitors in 2019).
+
+56 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Strategic Significance of ASEAN
+
+660 million Third-largest population Fifth-largest economy $3.35 trillion
+
+Korea’s second-largest trade
+
+Koreans’ top travel destination
+
+Korea’s investment
+
+partner
+
+$176 billion in 2021
+
+partner
+
+10 million in 2019
+
+$29 billion for 2019-2021
+
+The ROK government views ASEAN as a critical partner for
+
+promoting regional peace and shared prosperity, and thus established
+
+the Korea-ASEAN Solidarity Initiative to enhance ASEAN-specific
+
+collaboration within the Indo-Pacific strategy framework. This initiative
+
+aims to expand upon traditional cooperation in trade and human
+
+exchanges by promoting comprehensive and strategic partnerships,
+
+including security and defense-industry cooperation. We will nurture
+
+the ROK–ASEAN relationship into a mutually beneficial and specialized
+
+partnership based on a win–win approach, while also supporting
+
+“ASEAN Centrality” and the “ASEAN Outlook on the Indo-Pacific
+
+(AOIP).”10
+
+The government aims to harmonize areas where ASEAN needs
+
+support with Korea’s strengths to achieve substantial and mutually
+
+beneficial cooperation, focusing on digital technology, climate change
+
+and environment, and healthcare. To this end, plans are in place to
+
+10 ASEAN has articulated its determination to lead the coordination of various regional cooperation initiatives competing in the Indo-Pacific region, by adhering to the principle of “ASEAN Centrality.”
+
+Global Pivotal State for Freedom, Peace, and Prosperity 57
+
+continuously increase cooperation resources for ROK-ASEAN, ROK-
+
+Mekong, and ROK-Maritime Southeast Asia initiatives. In particular,
+
+considering the changing security environment, strategic communication
+
+and cooperation will be strengthened not only in maritime security
+
+matters, such as around the Korean Peninsula and the South China
+
+Sea, but also in emerging security issues, including economic security
+
+and health security.
+
+Overview of the Korea-ASEAN Solidarity Initiative
+
+Objective
+
+Strengthen the reciprocal, substantial, and strategic partnership with ASEAN to contribute to the realization of freedom,
+
+peace, and prosperity in the region and build forward-looking
+
+relationships with ASEAN
+
+Promote comprehensive cooperation with ASEAN, encompassing the security, political, economic, social, and cultural sectors
+
+Direction
+
+1
+
+Advance ROK-ASEAN cooperation in line with the three visions (freedom, peace, prosperity) of the Indo-Pacific strategy
+
+2
+
+Secure resources for the practical implementation of the Korea-ASEAN Solidarity Initiative
+
+3
+
+Work toward elevating this initiative into a partnership for the future-oriented development of ROK-ASEAN relations
+
+58 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Deepening relations with regional strategic partners
+
+The ROK government aims to deepen its special strategic partnership
+
+with India, a powerhouse in the IT and space sectors with a large
+
+population (1.47 billion). In particular, by improving the ROK-India
+
+Comprehensive Economic Partnership Agreement, we will not only
+
+enhance cooperation in trade and investment but also promote
+
+forward-looking collaboration utilizing the strengths of both countries
+
+in the fields of defense, science and technology, and infrastructure.
+
+We elevated our relationship with Australia into a “comprehensive
+
+strategic partnership” in 2021 on the occasion of the 60th anniversary
+
+of our two nations’ diplomatic ties. Since the subsequent summit in
+
+June 2022, various areas of cooperation have continued to develop. In
+
+particular, following the export of the K9 self-propelled artillery,
+
+defense and security cooperation will be strengthened. Cooperation in
+
+future strategic areas such as energy and digital technologies will also
+
+be bolstered to contribute to supply chain stabilization.
+
+Meanwhile, amid the restructuring of global supply chains, we are
+
+strengthening substantive cooperation with Canada to promote trade
+
+and secure critical minerals and energy sources. We are also promoting
+
+technological cooperation, including joint research in key industries
+
+such as artificial intelligence and electric vehicles.
+
+Strengthening cooperation with the Middle East and Africa
+
+In view of the Middle Eastern countries’ top-down decision-making
+
+process, the Yoon Suk Yeol administration aims to invigorate high-
+
+Global Pivotal State for Freedom, Peace, and Prosperity 59
+
+level exchanges with key Middle Eastern countries. Furthermore, we
+
+are working to establish ourselves as a core cooperation partner in
+
+their national development process, not only in traditional areas such
+
+as energy and infrastructure but also in future-oriented and new
+
+growth fields like nuclear power, hydrogen, space, public health, and
+
+smart farming.
+
+During the official visit of Saudi Arabia’s Crown Prince and Prime
+
+Minister Mohammed bin Salman to Korea (November 17, 2022) on the
+
+occasion of the 60th anniversary of the two nations’ diplomatic
+
+relations, we established a forward-looking strategic partnership and
+
+created a strategic partnership committee. As a key cooperation
+
+partner for “Saudi Vision 2030,”11 the Republic of Korea will expand
+
+collaboration in Saudi’s NEOM project and various future industries,
+
+such as hydrogen, manufacturing, and entertainment.
+
+During the first-ever state visit by the ROK President to the United
+
+Arab Emirates (January 14-17, 2023) since the establishment of
+
+diplomatic ties in 1980, the two leaders agreed to elevate the special
+
+strategic partnership between the two countries to the highest level.
+
+We will deepen joint cooperation in the four strategic areas of nuclear
+
+power, energy, investment, and defense as well as in space, smart
+
+farming, and healthcare.
+
+Meanwhile, the ROK government aims to build a mutually beneficial
+
+and forward-looking partnership with Africa, a region with high
+
+11 In April 2016, Saudi Arabia presented a blueprint for diversifying its economy beyond oil by focusing on tourism, logistics, entertainment, and new industries to prepare for the post-oil era.
+
+60 The Yoon Suk Yeol Administration’s National Security Strategy
+
+growth potential. As part of this effort, we will significantly increase
+
+Official Development Assistance (ODA) to strengthen our diplomatic
+
+contributions to Africa. We plan to host the first-ever ROK-Africa
+
+Summit in 2024, inviting leaders from various African countries to
+
+further elevate our cooperative relationships.
+
+Finally, the government will closely monitor conflict trends in the
+
+Middle East and Africa, making every effort to ensure the safety of our
+
+citizens and businesses.
+
+Strengthening value-based diplomacy and economic security
+
+cooperation with the European Union and European countries
+
+The European Union (EU) and European countries share universal
+
+values with the Republic of Korea, such as liberal democracy, market
+
+economy, rule of law, and human rights. Based on these universal
+
+values, the Yoon Suk Yeol administration seeks to strengthen solidarity
+
+and cooperation with Europe on global issues and build a value-based
+
+diplomatic partnership.
+
+The EU is at the forefront of shaping international rules on emerging
+
+issues such as climate change response and digital transformation. It
+
+is also pursuing legislation related to economic security, including on
+
+strengthening and diversifying supply chains for critical materials and
+
+semiconductors. Active collaboration with Europe in economic security
+
+is critical for the Republic of Korea’s national interests.
+
+We will also bolster cooperation with European countries in the
+
+areas of nuclear power, defense, and infrastructure. Building on the
+
+Global Pivotal State for Freedom, Peace, and Prosperity 61
+
+large-scale defense export contract with Poland in 2022, we aim to
+
+extend defense cooperation to other European nations. We will also
+
+strive to establish Europe as our new market for nuclear power plant
+
+exports by forging close partnerships with interested countries such
+
+as Poland and the Czech Republic. Furthermore, we will intensify joint
+
+cooperation in infrastructure projects with Central and Eastern
+
+European countries and the Republic of Türkiye.
+
+Building strategic partnerships with Central Asia
+
+Situated at the intersection of Asia and Europe, Central Asia
+
+represents an important emerging market and is home to energy-
+
+and resource-rich partners for Korea. Central Asian countries hold
+
+Korea’s development model in high regard and actively seek
+
+cooperation with us in their pursuit of economic development and
+
+industrial diversification.
+
+We will continue our existing cooperation in energy and infrastructure
+
+while building a customized cooperation network tailored to the
+
+unique characteristics of each Central Asian country across all areas,
+
+such as education, tourism, public health, digital technology, and
+
+labor.
+
+Promoting tailored cooperation with Central and South America
+
+The importance of Central and South America, which have
+
+complementary economic structures to our own, continues to grow
+
+amid the global supply chain crisis and rapidly changing economic
+
+62 The Yoon Suk Yeol Administration’s National Security Strategy
+
+and trade environment. We intend to promote trade and strengthen
+
+substantive cooperation with Central and South American countries
+
+while making efforts to secure strategic resources and energy sources.
+
+We will also faithfully fulfill our commitment to increasing Official
+
+Development Assistance (ODA) for the countries in the Northern
+
+Central America region, laying the groundwork for expanding
+
+cooperation in the region.12
+
+Exploring dialogue and cooperation among Korea, Japan, and China
+
+for peace and prosperity in Northeast Asia
+
+Korea, Japan, and China collectively account for 25% of the world’s
+
+GDP (approximately $24.5 trillion in 2021) and 20% of the global
+
+population (approximately 1.59 billion in 2021). Recognizing the vital
+
+role that cooperation among these three nations plays in fostering
+
+peace, stability, and prosperity in the region, the ROK government will
+
+strive to encourage dialogue through trilateral summit meetings and
+
+intergovernmental consultative bodies. Moreover, we will pursue the
+
+expansion of trilateral cooperation to address transnational challenges,
+
+including the environment, climate change, and digital transformation.
+
+Additionally, we will promote people-to-people and cultural exchanges
+
+among the three nations to reinforce the foundation for a forward-
+
+looking and amicable cooperative relationship.
+
+12 The ROK government has increased its ODA commitment to the three North Central American countries (Guatemala, Honduras, and El Salvador) to $220 million for the 2021‒2024 period.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 63
+
+Ⅳ
+
+## Defending Liberal — Democracy and Contributing to Global — Prosperity
+
+“As a responsible member of the international community,
+
+Korea is committed to fulfilling its due responsibility and
+
+role for the freedom of global citizens and prosperity of the
+
+global community.”
+
+President Yoon Suk Yeol
+
+77th Session of the United Nations General Assembly (September 20, 2022)
+
+1 ｜ Strengthening Responsible Roles in the International Community
+
+2 ｜ Building a Korean Network That Contributes to Global Prosperity
+
+3 ｜ Enhancing Intelligence Capabilities to Safeguard Liberal Democracy
+
+### Strengthening Responsible Roles in the International Community
+
+1
+
+Today, the world is confronting emerging security challenges in
+
+various areas, such as climate change, environment, and public health.
+
+However, multilateral cooperation to tackle these global issues has
+
+been hindered by strategic rivalries and ideological divisions among
+
+major nations. Amid these circumstances, the international community’s
+
+expectations for the Republic of Korea’s role continue to rise.
+
+Strengthening Responsible and Contributive Diplomacy
+
+Strengthen leadership in multilateral diplomacy to uphold a
+
+rules-based international order
+
+Pursue advanced and problem-solving international
+
+development cooperation
+
+Actively participate in international cooperation to address
+
+new security threats
+
+Foster favorable international public opinion through accurate
+
+policy information
+
+Advancing leadership in multilateral diplomacy to uphold a rules-
+
+based international order
+
+The Yoon Suk Yeol administration will uphold the universal values
+
+of humanity in solidarity with the international community that
+
+supports the international order based on principles and rules. In line
+
+66 The Yoon Suk Yeol Administration’s National Security Strategy
+
+with the Republic of Korea’s status and stature, we aspire to take a
+
+leading role on the global stage of multilateral diplomacy in shaping
+
+global agendas and providing innovative solutions.
+
+While attending the NATO Summit in June 2022 as the first Korean
+
+president to be invited, President Yoon Suk Yeol seized the opportunity
+
+to strengthen solidarity with nations sharing universal values and
+
+establish a global network for comprehensive security cooperation in
+
+areas such as the economy, climate change, and emerging technologies.
+
+In September of the same year, President Yoon Suk Yeol attended
+
+the 77th United Nations General Assembly and emphasized the need
+
+for the international community, at an inflection point amid global
+
+crises, to unite around the United Nations. In his address to the
+
+General Assembly, President Yoon expressed Korea’s commitment to
+
+significantly increase its official development assistance (ODA) budget,
+
+stating that support to vulnerable countries will contribute to the
+
+sustainability of freedom and peace worldwide.
+
+When he attended the G7 Summit in May 2023 as an invited leader,
+
+President Yoon emphasized the responsibility of advanced nations
+
+sharing the values of freedom to contribute to strengthening the
+
+capacity of vulnerable countries in the so-called “Global South” in
+
+terms of food and health and pledged specific measures that Korea
+
+will undertake to fulfill this commitment.
+
+The Yoon Suk Yeol administration will continue to strengthen our
+
+role in promoting international peace and security, human rights, and
+
+economic development. Alongside this, we will expand our international
+
+Global Pivotal State for Freedom, Peace, and Prosperity 67
+
+peacekeeping operations (PKO) to contribute to the establishment of
+
+sustainable peace in conflict areas. Through these efforts, Korea will
+
+fulfill its responsible role in the international community befitting its
+
+status as a mature liberal democratic nation.
+
+Pursuing advanced and problem-solving international
+
+development cooperation
+
+In line with the Republic of Korea’s international status, the Yoon
+
+Suk Yeol administration aims to actively engage in contributive
+
+diplomacy by expanding the scale of our Official Development
+
+Assistance (ODA).
+
+To maximize the effectiveness of development assistance, we will
+
+offer needs-based, customized support while strengthening the
+
+connections between projects, fostering private-sector cooperation,
+
+and enhancing performance management for substantive improvements.
+
+Specifically, we will concentrate on leading collaboration in areas
+
+where Korea excels, such as digital transformation, public health and
+
+healthcare, and climate and environment.
+
+Throughout this process, we will expand strategic partnerships with
+
+major donor countries, building on our Indo-Pacific Strategy and
+
+Korea-ASEAN Solidarity Initiative.
+
+68 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Global Contributive Diplomacy Based on Cooperation and Solidarity
+
+Expand humanitarian assistance, including overseas emergency relief
+
+Supporting the
+
+Realization of Humanitarian
+
+Continue providing humanitarian support to war-stricken Ukrainians
+
+Values
+
+Increase support to African and other countries experiencing food crises
+
+Supporting Food
+
+Security Efforts
+
+in Vulnerable
+
+Expand the “K-Rice Belt” initiative, sharing our agricultural know-how
+
+Countries
+
+Increase financial contributions to health organizations to address global health disparities
+
+Strengthening
+
+Global Health Capacity
+
+Support efforts to introduce universal healthcare coverage in Global South countries
+
+Promote digital education and technology transfer for developing countries to bridge the digital divide
+
+Supporting Digital
+
+Transformation
+
+Provide tailored support for basic infrastructure, such as communications networks, based on individual country capacities and needs
+
+for Developing
+
+Countries
+
+Expand Green ODA (Official Development Assistance), support the low-carbon energy transition, and share innovative green technologies with developing countries
+
+Leading Climate Change Response
+
+for Global Coexistence
+
+Establish a “Hydrogen Cooperation Platform” within the Indo-Pacific
+
+Contributing to establishing international rules to address
+
+emerging security threats
+
+Addressing climate change and public health challenges requires
+
+particularly close collaboration within the international community.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 69
+
+In order to spearhead global discussions on new security threats, we
+
+will host the World Emerging Security Forum (WESF),13 a comprehensive
+
+platform for dialogue that brings together the public, private, and
+
+academic sectors. Furthermore, we will actively participate in global
+
+health governance improvement efforts led by the World Health
+
+Organization to prevent post-COVID-19 future pandemics as well as
+
+in international environmental discussions such as UN climate change
+
+negotiations and the Plastic Treaty.14
+
+Fostering favorable international public opinion by providing
+
+accurate policy information
+
+The Republic of Korea boasts not only economic strength but also
+
+significant soft power in diverse areas of art and culture, including
+
+K-pop and the Korean Wave. The ROK government will strive to
+
+ensure that global interest in and goodwill toward Korea translate into
+
+support and favorable public opinion for our policies.
+
+In line with the elevation of the ROK-U.S. alliance to a comprehensive
+
+global strategic alliance, we will expand the scope of public diplomacy
+
+on the occasion of the 70th anniversary of the alliance. Meanwhile, to
+
+build forward-looking relationships with Japan and China, we will
+
+strengthen cultural and human interactions, including youth exchanges.
+
+13 The World Emerging Security Forum is a conference assembling domestic and international government, business, and academic experts to deliberate on emerging security challenges. Following its inaugural event in 2021, the forum successfully convened its second meeting in 2022.
+
+14 In March 2022, the UN Environment Assembly agreed to establish a new international treaty on plastic pollution, with plans to finalize the agreement by 2025.
+
+70 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Building a Korean Network That Contributes to Global Prosperity
+
+2
+
+Since the enactment of the Emigration Act in 1962, the population
+
+of overseas Koreans has continued to grow, currently reaching
+
+approximately 7.5 million people across more than 180 countries. As
+
+the composition of Korean communities around the world diversifies
+
+due to generational shifts and an increase in new immigrants, a
+
+comprehensive and systematic policy is necessary to address the
+
+changing needs of the Korean diaspora.
+
+Meanwhile, as countries relax their COVID-19 restrictions, the
+
+number of people traveling abroad has increased, leading to a rise in
+
+accidents and incidents. Furthermore, in the face of various and
+
+complex crises and dangers occurring around the world, the ROK
+
+government’s role in protecting overseas citizens has become
+
+increasingly important.
+
+Growth of the Overseas Korean Population
+
+Enforcement of Emigration
+
+Act in 1962
+
+2.12 million
+
+0.56 million
+
+1952
+
+1988
+
+180 countries
+
+7.50 million
+
+5.54 million
+
+1997
+
+2021
+
+Global Pivotal State for Freedom, Peace, and Prosperity 71
+
+Establishing an institutional framework for consolidating policies
+
+on overseas Koreans
+
+The Yoon Suk Yeol administration seeks to enact a Framework Act
+
+on Overseas Koreans to provide a systematic and comprehensive
+
+direction for policies on overseas Koreans in line with the quantitative
+
+and qualitative growth of the overseas Korean community. This will
+
+establish the legal foundation for consolidating the overall policies on
+
+overseas Koreans and serve as the driving force for implementing
+
+these policies across the government. The newly established Overseas
+
+Koreans Office, set to be inaugurated this June, will spearhead the
+
+systematic implementation of policies on overseas Koreans.
+
+Overview of the Overseas Koreans Office
+
+June 5, 2023 Inauguration Date
+
+Established under the Government Organization Act as an external agency within the Ministry of Foreign Affairs Legal Basis and
+
+Status
+
+Formulation and implementation of policies on overseas Koreans
+
+1
+
+Responsibilities
+
+Support for overseas Koreans and their organizations
+
+2
+
+Provision of civil administration services for overseas Koreans
+
+3
+
+72 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Establishing a foundation for providing remote, one-stop
+
+consular services
+
+The government plans to introduce an identity verification service
+
+for overseas Koreans, utilizing physical passports and overseas residence
+
+information, to bridge the digital divide for our citizens worldwide.
+
+The availability of identity verification methods accessible overseas is
+
+expected to facilitate not only online civil administration services but
+
+also various private-sector services. Furthermore, the government
+
+will make preparations to enable our citizens to safely and conveniently
+
+access remote, one-stop consular services without the need to visit
+
+overseas diplomatic missions.
+
+Strengthening response and prevention measures for overseas
+
+emergencies and accidents
+
+The government operates a 24-hour monitoring system operated
+
+through the Overseas Safety Protection Center to ensure a swift
+
+response to emergencies and accidents abroad.
+
+Proactive prevention activities will also be carried out to ensure the
+
+safety of our citizens abroad. The travel warning system will provide
+
+timely safety information based on the up-to-date risk levels of each
+
+country and region. To help our citizens enjoy safe travel experiences,
+
+overseas travel safety information will be provided through various
+
+platforms such as mass media, websites, social media, and offline
+
+channels.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 73
+
+### Enhancing Intelligence Capabilities to Safeguard Liberal Democracy
+
+3
+
+Focusing on the strategic value of the Korean Peninsula, nations
+
+worldwide are engaging in aggressive intelligence operations. At the
+
+same time, North Korea continues to pursue activities that jeopardize
+
+the Republic of Korea’s liberal democratic system.
+
+Establishing a response system to counter foreign intelligence
+
+activities
+
+The Yoon Suk Yeol administration will bolster intelligence cooperation
+
+with our partners, such as the United States and the United Kingdom,
+
+to proactively address issues that endanger the liberal democratic
+
+system. Furthermore, the government will develop a close collaboration
+
+framework among relevant agencies to detect and prevent covert
+
+foreign intelligence activities in advance.
+
+At present, the domestic legal system for prosecuting foreign spies
+
+and associated forces falls short compared to advanced countries. In
+
+response, the government will examine and amend relevant laws and
+
+regulations as needed to establish a solid and legitimate foundation
+
+for countering external security threats.
+
+74 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Proactively responding to North Korea’s activities targeting social
+
+disruption
+
+North Korea persistently engages in various activities aimed at
+
+achieving its goal of unification through subversion, such as establishing
+
+underground organizations within the Republic of Korea and inciting
+
+internal conflicts in our society. Moreover, acts of terrorism and cyber
+
+attacks against critical national facilities and infrastructure networks
+
+represent ongoing threats.
+
+To counter these attempts at social disruption by North Korea, a
+
+close collaboration system will be established, with the National
+
+Intelligence Service as the focal point, to facilitate information sharing
+
+and prompt coordination among relevant agencies.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 75
+
+Ⅴ
+
+## Developing a Powerful — and Technologically — Advanced Military
+
+“Through Defense Innovation 4.0, our Armed Forces must
+
+enhance their defense posture and capabilities to ensure
+
+that they remain a powerful military armed with advanced
+
+technologies, optimized for a constantly evolving security
+
+landscape.”
+
+President Yoon Suk Yeol
+
+74th Armed Forces Day (October 1, 2022)
+
+1 ｜ Innovating Defense Capabilities through Advanced Technology
+
+2 ｜ Developing Cutting-Edge Forces and Expanding Defense Exports
+
+3 ｜ Enhancing Service Members’ Combat Mindset and Service Conditions
+
+### Innovating Defense Capabilities through Advanced Technologies
+
+1
+
+Overview of the Defense Innovation
+
+Definition
+
+A strategy to develop a powerful and technologically
+
+advanced military with a competitive edge by integrating 4IR
+
+technologies (AI, unmanned systems, robotics, etc.)
+
+into critical defense areas
+
+Five Priority Tasks
+
+Objective
+
+Develop a powerful and technologically advanced military Develop a powerful and technologically advanced military
+
+Enhance ability to counter North Korean nuclear and missile threats
+
+Develop proactive strategies and operational
+
+Restructure defense
+
+R&D and force enhancement systems Defense Innovation
+
+concepts
+
+Build AI-based advanced combat
+
+capabilities
+
+Innovate military
+
+structure and training systems
+
+※ QR code for an introductory video
+
+on the Defense Innovation
+
+78 The Yoon Suk Yeol Administration’s National Security Strategy
+
+The rapid advancement of science and technology, including artificial
+
+intelligence (AI) and big data analytics, is expected to reshape the
+
+landscape of future warfare. Therefore, the ROK military must
+
+innovate its structure and capabilities by incorporating cutting-edge
+
+technologies in defense operations to ensure readiness to prevail in
+
+any situation.
+
+The Yoon Suk Yeol administration aims to implement a defense
+
+innovation plan to develop a powerful military through the application
+
+of advanced science and technology across all areas of the defense
+
+sector. The plan includes five priority tasks, which the government
+
+will carry out in a results-oriented manner.
+
+Gradually introducing AI-based, manned–unmanned teaming
+
+systems
+
+The Fourth Industrial Revolution (4IR) is predicted to fundamentally
+
+alter the aspects of future warfare. Based on 4IR technologies, the
+
+manned-unmanned teaming (MUM-T)15 system is anticipated to
+
+minimize the risk of casualties while maximizing combat capabilities.
+
+The government plans to introduce the MUM-T system on a step-
+
+by-step basis in line with the pace of technological development.
+
+Initially, pilot project units will be operated in each military branch,
+
+and based on their performance evaluations, the number of units
+
+adopting MUM-T will gradually increase. Additionally, we will work to
+
+15 “MUM-T” refers to a weapon system that maximizes combat efficiency through seamless interaction between human-controlled (“manned”) and AI-based (“unmanned”) systems.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 79
+
+enhance civil-military cooperation to promptly apply cutting-edge
+
+technologies from the private sector.
+
+Furthermore, we will work toward strengthening the capacity to
+
+monitor and counter the growing threat posed by North Korean
+
+unmanned aerial vehicles. Such efforts will include the early
+
+establishment of the Drone Operation Command capable of conducting
+
+multi-purpose missions, such as reconnaissance and electronic warfare.
+
+Establishing operational execution systems for the space, cyber,
+
+and electromagnetic spectrum domains
+
+To conduct joint space operations effectively and contribute to the
+
+nation’s development in the space sector as a whole, the government
+
+will secure a range of space capabilities, including reconnaissance and
+
+communication satellites, space launch vehicles, and space surveillance
+
+systems.
+
+In addition, we will work toward amending relevant laws and
+
+regulations to grant authorization for our military to engage in cyber
+
+operations during critical situations, while also pursuing ROK-U.S.
+
+combined training and exercises to combat cyber threats.
+
+Furthermore, we will ensure that our military is equipped with
+
+advanced capabilities in electromagnetic spectrum operations (EMSOs)16
+
+to achieve dominance across all domains of warfare.
+
+16 The electromagnetic spectrum is a collective term for all frequencies of electromagnetic radiation. “EMSO” refers to a military action taken to analyze, attack, defend, and manage the electromagnetic operational environment.
+
+80 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Creating an innovative, open, and convergent defense R&D system
+
+The government will prioritize investing in “strategic defense
+
+technologies,”17 such as AI, space, and quantum technologies, to
+
+enhance the efficiency of investments in defense research and
+
+development (R&D). Furthermore, a process-oriented evaluation
+
+system will be introduced to create an environment where researchers
+
+can perform their R&D activities with autonomy and creativity.
+
+Additionally, we will build a “convergent” R&D system through which
+
+the private sector can propose ideas and technologies applicable to
+
+future warfare. We will also strengthen the channels for consultation
+
+with civilian experts. Through these measures, we will ensure that the
+
+nation’s R&D outcomes are actively utilized in the defense sector.
+
+10 Priority Areas of Strategic Defense Technologies
+
+1 2 3 4 5
+
+AI
+
+Quantum
+
+High-tech
+
+materials Energy Space
+
+6 7 8 9
+
+10
+
+Sensors/ EM warfare
+
+Cyber/Network Propellants MUM-T
+
+WMD response
+
+17 “Strategic defense technologies” refer to critical technologies that are required to be developed for the integration of the nation’s science and technology capabilities into the defense sector. The technologies were selected on the basis of strategic importance, development need, innovativeness, and availability.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 81
+
+Establishing a force enhancement process tailored to our military
+
+The Fourth Industrial Revolution, characterized by advanced
+
+technologies, such as AI, drones, and robotics, is expected to bring
+
+about rapid changes in the defense sector. However, the current
+
+weapon acquisition process takes more than 10 years to complete,
+
+making it difficult to keep up with the pace of technological change.
+
+Therefore, the government will introduce the Rapid Acquisition
+
+System for the timely introduction of new weapon systems.
+
+Rapid Acquisition System
+
+Definition
+
+A mechanism to expedite the introduction of new weapon systems by streamlining the process for improving an existing system with proven technology or integrating different types of weapon systems
+
+Process Overview
+
+Determination of requirements
+
+Project plan setup
+
+R&D/Prototype
+
+Testing Evaluation
+
+Budgeting *Pre-budgeted in previous FY
+
+Introduction
+
+Required Period:
+
+3-5 Years Required Period:
+
+3-5 Years
+
+82 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Building science-based training systems to enhance combat
+
+readiness
+
+The government aims to develop future-oriented training systems
+
+within our military that leverage advanced technologies, including
+
+extended reality, such as augmented and virtual reality, metaverse,
+
+and digital twinning,18 to cultivate combat proficiency in a virtual
+
+environment.
+
+Concurrently, we will establish the Defense Training and Exercise
+
+Complex to maximize the effectiveness of training while minimizing
+
+the inconvenience to local residents.
+
+18 “Digital twinning” refers to the process in which a replica (twin) of a physical object is created to be used for various simulation tests and result verification.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 83
+
+### Developing Cutting-Edge Forces and Expanding Defense Exports
+
+2
+
+Korea has become a defense industry powerhouse by independently
+
+developing and exporting advanced weapon systems. In 2022, it
+
+achieved its highest performance in defense exports to date, recording
+
+total exports of $17.3 billion, which is five times the average annual
+
+exports of the past five years.
+
+The Yoon Suk Yeol administration is committed to fostering the
+
+defense industry as a strategic export platform that will drive national
+
+security and the economy. Additionally, we will strengthen the
+
+government-wide support system to create a virtuous cycle of
+
+developing cutting-edge forces and expanding defense exports.
+
+Annual Defense Exports over the Past Five Years Unit: USD billion
+
+3.12
+
+2.77
+
+2.47
+
+2017
+
+2018
+
+2019
+
+17.3
+
+7.25
+
+2.97
+
+2020
+
+2021
+
+2022
+
+84 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Establishing a government-wide support system for defense
+
+exports
+
+Defense exports are closely related to security, diplomacy, and
+
+politics with other nations and depend on mutual trust between
+
+countries. Therefore, a systematic and government-wide support
+
+policy is critical for expanding exports in the defense sector.
+
+Building on the defense industry’s record-breaking performance in
+
+2022, the government aims to pursue a robust support policy to further
+
+expand defense exports. The policy will strengthen the underlying
+
+conditions of the defense industry and serve as a solid foundation for
+
+developing cutting-edge forces and driving further growth in defense
+
+exports. We will strive to create such a mutually reinforcing structure.
+
+A Virtuous Cycle: Developing Cutting-Edge Forces and Expanding Defense Exports
+
+Defense industrial base (DIB) Accumulated technology
+
+Robust government support Robust government support
+
+Expand defense exports
+
+Strengthen the DIB
+
+Develop cutting-edge
+
+forces
+
+Global Pivotal State for Freedom, Peace, and Prosperity 85
+
+Diversifying defense export methods
+
+With the growth of the domestic defense industry, the number of
+
+export partners has increased. As a result, the demand requirements
+
+of purchasing countries have become more diverse, and the range of
+
+export items is expanding. To accommodate this trend, the government
+
+plans to develop various export methods, including joint R&D with
+
+purchasing countries, local production, and collaboration with other
+
+industries.
+
+Furthermore, we will strengthen post-sales support by providing
+
+equipment operation expertise and training to purchasing countries,
+
+as well as follow-up logistics support, under the aim of driving future
+
+purchases.
+
+Providing customized support to enhance export competitiveness
+
+The government will provide customized support to promising small
+
+and medium-sized enterprises (SMEs) and startups with excellent
+
+technologies to enhance their global competitiveness. This will include
+
+consulting, funding, and R&D assistance that is tailored to their specific
+
+growth stages.
+
+In addition, we will actively support efforts to improve the parts and
+
+performance of export weapon systems, as well as the domestic
+
+development and production of weapon parts. We will also strengthen
+
+civil-military technological cooperation to ensure that defense
+
+technologies drive growth in the country’s high-tech industries.
+
+86 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Enhancing Service Members’ Combat Mindset and Service Conditions
+
+3
+
+The combat mindset and morale of ROK service members play a
+
+critical role in maintaining a powerful military. In the situation where
+
+a decrease in defense manpower is inevitable due to the steep
+
+population decline, it is essential to provide systematic education
+
+on the combat mindset and improved service conditions to boost
+
+service members’ morale and maximize their combat capabilities.
+
+Enhancing Service Members’ Combat Mindset and Service Conditions
+
+Improving Service Conditions
+
+Strengthening the
+
+Combat Mindset
+
+Educate soldiers to perceive the North
+
+Honoring and Respecting Veterans
+
+Improve the living conditions of soldiers
+
+Korean regime and military as adversaries
+
+Promote a culture of
+
+respect for veterans
+
+and strengthen post-conscription
+
+threatening citizens’
+
+lives and national
+
+security
+
+and support their
+
+employment and entrepreneurship
+
+support
+
+Strengthening the combat mindset of service members
+
+The government aims to enhance its education programs for service
+
+members to ensure that they clearly perceive the North Korean regime
+
+and military as adversaries posing a threat to our citizens’ lives and
+
+national security with their nuclear and missile programs.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 87
+
+To this end, we will continue to develop educational content for our
+
+soldiers to foster a steadfast perspective toward our homeland, a clear
+
+perception of the enemy, and a proper military spirit. Additionally,
+
+tailored education and training will be expanded to effectively engage
+
+with new-generation soldiers.
+
+Improving the service conditions and welfare of service members
+
+The government is committed to consistently improving the service
+
+conditions of ROK soldiers. This will be achieved by providing them
+
+with high-quality uniforms and a diet that considers their preferences
+
+and health, as well as an improved barracks environment and living
+
+facilities.
+
+Furthermore, we will strengthen our support for those who have
+
+completed their conscription duty by ensuring that they receive fair
+
+and just treatment in society after discharge commensurate with their
+
+contribution to the nation. We will also improve the benefits and living
+
+conditions for career military personnel to increase their job satisfaction
+
+in consideration of the unique nature of their work environment and
+
+responsibilities.
+
+Promoting a culture of respect for veterans
+
+The government will promote a culture of respect for ROK veterans
+
+who have devoted themselves to national defense on behalf of all
+
+citizens. Additionally, we will actively support veterans in employment
+
+and entrepreneurship opportunities so that our military personnel can
+
+88 The Yoon Suk Yeol Administration’s National Security Strategy
+
+focus on their service without worrying about their post-discharge
+
+needs. Specifically, we will take measures to strengthen our support
+
+for mid-term career officers and non-commissioned officers (NCOs)
+
+after their discharge and ensure sufficient self-development opportunities
+
+for conscripted soldiers.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 89
+
+Ⅵ
+
+## Building Peace on the — Korean Peninsula and Normalizing Inter-Korean — Relations
+
+“Peace on the Korean Peninsula and in Northeast Asia is
+
+a critical prerequisite for global peace, serving as the
+
+foundation for protecting and expanding our freedom and
+
+that of global citizens. Achieving the denuclearization of
+
+North Korea is imperative for sustainable peace on the
+
+Korean Peninsula, in Northeast Asia, and around the globe.”
+
+President Yoon Suk Yeol
+
+Korea’s 77th Liberation Day (August 15, 2022)
+
+1 ｜ Reinforcing Capabilities to Counter North Korean Nuclear/WMD Threats
+
+2 ｜ Advancing North Korea’s Denuclearization and Peace on the Peninsula
+
+3 ｜ Pursuing the Normalization of Inter-Korean Relations
+
+4 ｜ Addressing Inter-Korean Humanitarian Issues
+
+5 ｜ Preparing for Unification with Citizens and the Global Community
+
+### Reinforcing Capabilities to Counter North Korean Nuclear/WMD Threats
+
+1
+
+North Korea’s nuclear and other weapons of mass destruction
+
+(WMD) pose a critical threat to our national security. Recently, North
+
+Korea has explicitly revealed its offensive nuclear strategy while
+
+diversifying, miniaturizing, and lightening its nuclear weapons. As
+
+real peace is only possible when supported by strong security, it
+
+is necessary to build considerable capacity to respond to North
+
+Korea’s threats in order to create sustainable peace on the Korean
+
+Peninsula. Therefore, the Yoon Suk Yeol administration is committed
+
+to significantly reinforcing our capabilities to counter North Korea’s
+
+nuclear and missile threats.
+
+Securing overwhelming capabilities through the Korean Three-
+
+Axis System
+
+“Kill Chain” is designed to preemptively destroy North Korea’s
+
+nuclear and other missiles before they can be launched in the event
+
+of clear indications of their use. To implement this plan, surveillance
+
+and reconnaissance assets and precision strike capabilities will be
+
+acquired.
+
+“Korea Air and Missile Defense” (KAMD) is a complex, multi-layered
+
+defense system that is designed to detect and intercept various types
+
+of missiles. The system’s detection and interception capabilities will
+
+continue to be enhanced.
+
+92 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Finally, “Korea Massive Punishment and Retaliation” (KMPR) is
+
+aimed at executing strong punitive measures against North Korea
+
+with an overwhelming strike force in response to its use of nuclear
+
+weapons or other WMDs. This system reinforces the message to
+
+North Korea that the consequences of its provocations far outweigh
+
+any perceived benefits. The government will continue to enhance its
+
+high-yield retaliatory capabilities against North Korea’s military
+
+leadership and core facilities.
+
+Korean Three-Axis System
+
+1 2 3
+
+Kill Chain KAMD KMPR
+
+Attack system that can destroy nuclear and other missiles before they
+
+Punitive/retaliatory
+
+Complex, multi-layered
+
+system to counter
+
+defense system designed to detect and intercept various types
+
+are launched
+
+North Korea’s nuclear/WMD attacks with an overwhelming
+
+of incoming missiles
+
+strategic strike force
+
+Global Pivotal State for Freedom, Peace, and Prosperity 93
+
+Establishing the Strategic Command to strengthen deterrence
+
+and response capabilities
+
+The government will establish the Strategic Command within our
+
+military to improve our capacity to deter and counter North Korean
+
+nuclear and missile threats.
+
+The proposed Strategic Command is set to integrate and operate our
+
+military’s capabilities in domains such as ultra-precision high yield
+
+missiles, space, cyber, and electromagnetic (EM) spectrum.
+
+Overview of the Strategic Command
+
+Achieve strategic deterrence against North Korean nuclear and missile threats by integrating and operating combat capabilities across various domains Purpose
+
+Operate missile and cyber capabilities, expanding to EM spectrum and space capabilities in line with military capacity-building progress Responsibilities
+
+Enhancing intelligence, surveillance, and reconnaissance
+
+capabilities
+
+As the North Korean nuclear and missile threats continue to escalate,
+
+it is critical to detect early indications of nuclear activity. Accordingly,
+
+the government will prioritize expanding the ROK military’s
+
+reconnaissance assets, such as reconnaissance satellites, micro-
+
+satellite systems, and Medium-altitude Unmanned Aerial Vehicles
+
+(MUAVs), to allow for the independent and continuous monitoring of
+
+all of North Korea.
+
+94 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Effectively striking a major moving target requires the ability to
+
+identify it quickly and accurately. We will work to develop our military’s
+
+capacity to integrate, analyze, and disseminate various image data
+
+rapidly and accurately by leveraging AI technologies.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 95
+
+### Advancing North Korea’ Denuclearization and Peace on the Peninsula
+
+2
+
+North Korea refuses to engage in denuclearization negotiations
+
+and continues to focus on enhancing its nuclear and missile
+
+capabilities. Given its refusal of any dialogue, it is necessary to take
+
+a comprehensive approach to encourage North Korea to voluntarily
+
+return to negotiations.
+
+Pursuing consistent and principle-based negotiations for
+
+denuclearization
+
+The Yoon Suk Yeol administration recognizes that dialogue and
+
+negotiations for denuclearization can only produce significant results
+
+when conducted on the basis of mutual respect and trust. Therefore,
+
+the government is committed to pursuing denuclearization negotiations
+
+based on consistency and adherence to principles. Though challenging,
+
+we will follow this path to establish a foundation for mutual trust and
+
+dialogue.
+
+North Korea’s return to the negotiating table is essential for constructive
+
+discussions on the denuclearization of the Korean Peninsula. We will
+
+strive to create a strategic environment that encourages North Korea
+
+to engage in denuclearization negotiations. To achieve this goal, we
+
+will actively promote a comprehensive approach that focuses on the
+
+“deterrence” of North Korea’s nuclear threats, “dissuasion” of its
+
+nuclear development, and “dialogue” for denuclearization.
+
+96 The Yoon Suk Yeol Administration’s National Security Strategy
+
+ROK Government’s “3D Approach”
+
+Deterrence Counter provocations decisively
+
+Encourage the return to negotiations Dissuasion Tighten sanctions and close loopholes
+
+Dialogue
+
+The government aims to establish the Korean Three-Axis System
+
+to develop overwhelming response capabilities against North Korean
+
+nuclear and missile threats. We will enhance the effectiveness of
+
+extended deterrence based on the ROK-U.S. combined defense
+
+posture to counter any threat from North Korea immediately and
+
+strongly. We will also take measures to tighten sanctions and
+
+proactively block North Korea’s use of new methods for acquiring
+
+foreign currency, such as cryptocurrency theft through hacking.
+
+This will help create an environment where North Korea has no
+
+alternative but to abandon its nuclear and missile development.
+
+Simultaneously, we will pursue diplomatic solutions to North
+
+Korean nuclear issues through dialogue with the North without
+
+preconditions, maintaining a flexible and open stance.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 97
+
+Driving denuclearization through the “Audacious Initiative”
+
+In 2022, President Yoon proposed the “Audacious Initiative” during
+
+his congratulatory speech marking Korea’s 77th Liberation Day. This
+
+initiative serves as a comprehensive action plan for the government,
+
+as a stakeholder in North Korean nuclear issues, to achieve the
+
+complete denuclearization of North Korea and promote sustainable
+
+peace and prosperity on the Korean Peninsula.
+
+The Audacious Initiative includes the following measures: First, if
+
+North Korea genuinely returns to negotiations for denuclearization,
+
+the government will lead the discussions by implementing initial
+
+measures to improve the living conditions of North Koreans; second,
+
+once a roadmap for denuclearization is agreed upon, comprehensive
+
+measures covering the economic, political, and military sectors will be
+
+implemented simultaneously and gradually in line with the progress
+
+made in denuclearization.
+
+At the economic level, the government aims to establish an “Inter-
+
+Korean Joint Economic Development Committee” (tentative name) to
+
+discuss economic cooperation plans for the two Koreas, focusing on
+
+five major projects19 in three areas: (1)infrastructure-building,
+
+(2)improvement of living conditions, and (3)economic development.
+
+At the political and military levels, measures will be taken to reduce
+
+military tensions and establish substantive peace on the Korean
+
+Peninsula.
+
+19 (i) Assistance for power generation, transmission, and distribution infrastructure; (ii) modernization of ports and airports; (iii) support for agricultural technology; (iv) modernization of hospitals and medical infrastructure; and (v) assistance for international investment and finance
+
+98 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Key Elements of the Initial Measures of the Audacious Initiative
+
+Resources–Food Exchange Program
+
+Export of North Korea’s sanctioned mineral resources will be allowed at a limited level, enabling North Korea to use the revenue to purchase humanitarian goods such as food, fertilizer, and medicine.
+
+Pilot projects to improve the living conditions of North Koreans
+
+Cooperative projects will be piloted in areas such as healthcare, drinking water, sanitation, forestry, and agriculture. These projects will be expanded gradually in accordance with the progress made in North Korea’s denuclearization.
+
+Global cooperation to encourage a positive
+
+change in North Korea’s attitude Global cooperation to encourage a positive
+
+change in North Korea’s attitude
+
+Cooperating with the international community to encourage a
+
+positive change in North Korea’s attitude
+
+The government will work with partner countries and international
+
+organizations until North Korea achieves complete denuclearization.
+
+We will maintain a strong and effective sanctions regime against
+
+North Korea, and if North Korea engages in military provocations, we
+
+will seek a strong and united response from the international
+
+community.
+
+In the event of a major provocation, such as a nuclear test, we will
+
+call for a new sanctions resolution by the United Nations Security
+
+Global Pivotal State for Freedom, Peace, and Prosperity 99
+
+Council and implement individual sanctions in coordination with
+
+partner countries. Additionally, diplomatic efforts will be made to
+
+encourage China and Russia to play a constructive role in this process.
+
+Furthermore, we will strengthen international cooperation to eliminate
+
+North Korea’s illegal activities to finance its leader’s slush fund and
+
+the development of its nuclear and missile programs. These activities
+
+include the smuggling of goods into and out of North Korea, acquisition
+
+of foreign currency abroad by its IT workforce, and illegal cyber
+
+activities such as cryptocurrency theft.
+
+100 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Pursuing the Normalization of Inter-Korean Relations
+
+3
+
+Upon its inauguration, the Yoon Suk Yeol administration announced
+
+its commitment to “principled North Korea policies” as one of its
+
+key policy tenets, meaning that the government will uphold the
+
+national standing and core values of the Republic of Korea, while
+
+also maintaining a pragmatic and flexible approach to pursuing the
+
+normalization of inter-Korean relations. Despite North Korea’s
+
+current refusal to engage in dialogue, it is essential for us to remain
+
+calm and adhere to consistent principles, thereby establishing a
+
+solid foundation for positive inter-Korean relations.
+
+Pursuing the Normalization of Inter-Korean Relations
+
+Create a basis for trust and mutual respect between the two Koreas
+
+Establish order and discipline in
+
+inter-Korean exchanges and cooperation
+
+Strive to establish inter-Korean relations
+
+that are reciprocal and pragmatic
+
+Restore national unity through mutual openness and communication
+
+Creating a basis for trust and mutual respect between the two
+
+Koreas
+
+The government aims to establish inter-Korean relations based on
+
+mutual respect by upholding a principle of zero tolerance against
+
+Global Pivotal State for Freedom, Peace, and Prosperity 101
+
+North Korea’s military provocations and ensuring that North Korea
+
+faces consequences for any wrongdoing. In the event of the resumption
+
+of inter-Korean dialogue, we will prioritize establishing the practice
+
+that inter-Korean promises are always kept.
+
+Striving to establish inter-Korean relations that are reciprocal
+
+and pragmatic
+
+Based on the principle of flexible reciprocity, the government is
+
+committed to establishing reciprocal and cooperative relations that
+
+are mutually beneficial for the two Koreas. In any inter-Korean dialogue,
+
+we will not only discuss the issues of exchanges, cooperation, and
+
+humanitarian aid but also address our proposed agenda items,
+
+including denuclearization; separated families; and Korean War
+
+prisoners, abductees, and detainees in North Korea, in a balanced and
+
+proportionate manner.
+
+If North Korea demonstrates concrete steps toward denuclearization,
+
+we will initiate the “Inter-Korean Joint Economic Development Plan.”
+
+This plan will focus on developing industries that can create mutually
+
+beneficial effects for both Koreas and building supportive infrastructure.
+
+Furthermore, we will promote an inter-Korean “Green Détente” to
+
+collectively address climate change and environmental challenges. This
+
+cooperative initiative will address various climate and environmental
+
+issues, ranging from forestry, drinking water, and sanitation to fine
+
+dust and natural disasters.
+
+102 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Establishing order and discipline in inter-Korean exchanges and
+
+cooperation
+
+The government acknowledges that there have been instances of
+
+illegal and deviant behavior by certain organizations and businesses
+
+in engaging in inter-Korean exchange and cooperation projects. These
+
+entities contacted their North Korean counterparts without reporting
+
+it to the government or prepared and submitted reports on the results
+
+of such contact as a mere formality. To prevent such occurrences,
+
+relevant laws and systems will be reviewed and amended, and strict
+
+fines will be applied to ensure that private exchanges and cooperation
+
+are conducted in a well-organized and disciplined manner.
+
+Additionally, we will create “Inter-Korean Social and Cultural
+
+Governance,” a consultative platform engaging the country’s private
+
+exchange organizations. Through this platform, we will strengthen
+
+public-private communication with private organizations in social and
+
+cultural fields, such as religion, academia, and history, in order to
+
+establish order and discipline in inter-Korean exchanges and cooperation.
+
+Restoring national unity through mutual openness and
+
+communication
+
+The government will consistently support people-to-people
+
+exchanges and cooperation between the two Koreas in social and
+
+cultural fields, such as history, art, culture, religion, and sports.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 103
+
+Moreover, we will gradually allow public access to North Korean
+
+broadcasts, media, publications, and other information sources to
+
+enhance communication between the two Koreas. This will help
+
+citizens from both sides understand and compare each other’s lived
+
+realities.
+
+104 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Addressing Inter-Korean Humanitarian Issues
+
+4
+
+In terms of realizing universal human values, the highest priority
+
+should be placed on addressing inter-Korean humanitarian issues.
+
+The Yoon Suk Yeol administration is committed to resolving these
+
+issues in close cooperation with the international community.
+
+Promoting North Korean human rights by supporting related
+
+activities and enhancing domestic and international cooperation
+
+The Yoon Suk Yeol administration’s approach to addressing human
+
+rights issues in North Korea is based on universal human values and
+
+fraternity, with a vision for future unification where freedom and
+
+human rights are guaranteed for all. In this regard, the primary goal
+
+of promoting North Korean human rights is to ensure that the
+
+fundamental rights enshrined in our Constitution are upheld for the
+
+people of both Koreas.
+
+The government aims to gain a thorough understanding of the
+
+human rights situation in North Korea and, based on factual evidence,
+
+disseminate this information to promote domestic and international
+
+consensus on the seriousness of the issue. Additionally, we will work
+
+in partnership with the international community to consistently urge
+
+the North Korean authorities to improve their human rights record.
+
+We will also enhance our efforts to hold those responsible for human
+
+Global Pivotal State for Freedom, Peace, and Prosperity 105
+
+rights abuses accountable. At the same time, we will work toward
+
+enabling North Korean residents to access more external information
+
+and gain a clear understanding of their human rights situation.
+
+In addition, we will actively support voluntary advocacy initiatives
+
+for human rights in North Korea undertaken by domestic and
+
+international non-governmental organizations (NGOs). We will also
+
+strive to expand consensus within and outside our borders regarding
+
+North Korean human rights issues. Furthermore, we will work with
+
+the international community to develop various measures to promote
+
+human rights in North Korea.
+
+ROK Government’s Actions to Improve North Korean Human Rights
+
+Efforts to normalize the implementation of the North Korean Human Rights Act
+
+July 19, 2022 Appointed Lee Shin Wha as Ambassador-at-Large on North Korean Human Rights
+
+August 25, 2022 Reactivated the Council on North Korean Human Rights
+
+Made progress toward creating the North Korean Human Rights Foundation and appointed directors recommended by the Unification Minister
+
+September 19, 2022
+
+Co-sponsored a United Nations resolution on North Korean human rights during the 77th session of the UN General Assembly
+
+November 2022
+
+March 3, 2023 Launched the North Korean Human Rights Promotion Committee
+
+March 2023 Published an annual report on the human rights situation in North Korea
+
+106 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Collaborations with domestic and international NGOs and the international community
+
+October 31, 2022 Further developed cooperation with NGOs focused on North Korean human rights through a public-private workshop
+
+Supported the activities of the UN Special Rapporteur on North Korean human rights and the UN Human Rights Seoul Office
+
+December 14, 2022 Hosted the 2022 International Dialogue on North Korean Human Rights
+
+Launched a KRW 2 billion (approx. $1.5 million) project to support NGOs promoting North Korean human rights
+
+Addressing the issues of separated families and Korean War
+
+prisoners, abductees, and detainees in North Korea
+
+As separated families and Korean War prisoners continue to age, the
+
+urgency to resolve these issues is increasing. To address this, the
+
+government aims to initiate a comprehensive process to confirm the
+
+status of all separated family members and facilitate regular face-to-
+
+face and video reunion meetings. Additionally, for those separated
+
+family members who wish to participate, we plan to record video
+
+letters to be sent to their North Korean relatives and conduct DNA
+
+testing to verify family relationships in preparation for future exchanges.
+
+Furthermore, we will work toward identifying the fate and
+
+whereabouts of the Korean War prisoners, abductees, and detainees in
+
+Global Pivotal State for Freedom, Peace, and Prosperity 107
+
+North Korea and promoting their repatriation based on their free will.
+
+We will also work closely with the international community, including
+
+the United Nations, other global organizations, and relevant countries,
+
+to establish the conditions conducive to resolving these issues.
+
+Pursuing humanitarian assistance to North Korea irrespective of
+
+the political and military situation
+
+Guided by the principles of humanitarianism and fraternity, the
+
+government will consistently pursue humanitarian assistance to North
+
+Korean residents. Specifically, we will promptly provide emergency
+
+relief to North Korea in the event of a food shortage or natural disaster.
+
+Such assistance will be conducted within the sanctions framework of
+
+the United Nations Security Council, and issues requiring sanctions
+
+exemption will be addressed in full consultation with the international
+
+community, including the UN North Korea Sanctions Committee.
+
+Providing support for the stable resettlement of North Korean
+
+defectors
+
+The government recognizes that the policy needs of North Korean
+
+defectors who face difficulties adapting to our society are growing. To
+
+ensure their stable resettlement, we will work to develop an optimal
+
+support system that is tailored to each area of support and establish
+
+an institutional mechanism to prevent gaps in the support system.
+
+108 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Specifically, we will initiate various projects to help children and
+
+youth adapt to their school life in the South and provide educational
+
+support to prepare them as future leaders for unification. In addition,
+
+customized job-creation projects will be implemented to help North
+
+Korean defectors realize their dreams in our society. Furthermore, we
+
+plan to establish a crisis management system to protect North Korean
+
+defectors who are marginalized or facing crisis situations, while also
+
+expanding the social safety net to ensure their welfare.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 109
+
+### Preparing for Unification with Citizens and the Global Community
+
+5
+
+With the Korean Peninsula having been divided for more than 70
+
+years, many citizens perceive the division as a natural reality and
+
+have grown accustomed to it. However, tasks for unification remain
+
+significant in that they are related to all citizens in the divided nation.
+
+Nevertheless, due to the prolonged division between the two Koreas,
+
+the issue of unification has been losing public interest.
+
+Establishing a new vision for future unification with a blueprint
+
+and action plan
+
+The Yoon Suk Yeol administration will develop the “New Vision for
+
+Future Unification” (tentative name) as a mid-to-long-term initiative
+
+to raise public awareness on unification and realize universal values
+
+such as freedom, human rights, communication, and openness. This
+
+initiative aims to present a vision and direction to establish the
+
+foundation for peaceful unification based on the principles of freedom
+
+and democracy. To achieve this goal, the government has established
+
+the Future Unification Planning Committee, a public-private cooperation
+
+platform, to listen to diverse opinions from all levels of society and
+
+promote consensus among the public. Additionally, efforts will be
+
+made to secure support from the international community for our
+
+unification vision.
+
+110 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Moreover, we plan to further develop the Korean National Community
+
+Unification Formula20 as it approaches its 30th anniversary in 2024.
+
+Changes in the unification environment, including international
+
+situations and inter-Korean dynamics, will be taken into account
+
+during this process. To ensure comprehensive input for this task, we
+
+will proactively collect feedback from all levels of society using various
+
+methods such as social dialogue on unification.
+
+Overview of the Future Unification Planning Committee
+
+30 members including the chair (private advisory body under the Unification Minister)
+
+Composition Five sub-committees (△ Politics & Military Affairs △ Economy △ Society & Culture △ Humanitarian Affairs & Human Rights △ International Cooperation)
+
+△ Propose future unification policies
+
+△ Promote domestic/international discussions on unification Functions
+
+△ Quarterly committee meetings
+
+△ Monthly sub-committee meetings Operation
+
+※ △ Established on February 28, 2023 △ First committee meeting held on March 15, 2023
+
+20 The Korean National Community Unification Formula, announced by the Kim Young Sam administration on August 15, 1994, is a step-by-step unification plan that progresses through the stages of (1) reconciliation and cooperation, (2) a Korean commonwealth, and (3) a unified nation, guided by the principles of independence, peace, and democracy. To date, the Formula remains the official unification plan of the ROK government.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 111
+
+Objectively informing citizens and the international community
+
+about the reality of North Korea
+
+To promote a balanced and healthy perspective on unification, it is
+
+essential to have a proper understanding of the actual situation faced
+
+by North Korean residents. Therefore, the government will actively
+
+share with our citizens and the international community the objective
+
+and detailed reality experienced by North Korean defectors, rather
+
+than the image of North Korea propagated by its authorities. Specifically,
+
+we will provide various information and materials tailored to target
+
+audiences and topics regarding the reality of North Korea as well as
+
+develop customized, user-friendly content that is more approachable
+
+for the public.
+
+Securing domestic and international consensus to create a basis
+
+for unification based on freedom and democracy
+
+The government aims to increase public awareness and strengthen
+
+unification capabilities by providing more opportunities for citizens to
+
+engage in discussions related to unification. In pursuit of this goal,
+
+social dialogue will be expanded nationwide, enabling citizens from
+
+all levels of society, including youth, to participate directly in the
+
+formulation of unification and North Korea policies.
+
+In addition, unification diplomacy is also critical to garner support
+
+and cooperation from major countries and secure consensus from the
+
+international community regarding the unification of the Korean
+
+112 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Peninsula. Therefore, we will strive to gain consensus and support
+
+from the international community on the vision of unification and our
+
+North Korea policies, which are based on the principles of freedom,
+
+democracy, and human rights.
+
+Raising younger generations’ awareness of unification by
+
+strengthening unification education based on liberal democracy
+
+“Unification education” refers to education aimed at promoting
+
+consensus on unification which is based on a strong belief in liberal
+
+democracy, a sense of national community, and a healthy perspective
+
+on national security. The government will provide education programs
+
+for younger generations to cultivate a balanced and desirable
+
+perspective on national security and unification, rooted in universal
+
+values, such as freedom, human rights, rule of law, welfare, and
+
+democracy.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 113
+
+Ⅶ
+
+## Establishing a Response System for Global Economic Security
+
+“We are living in an era where economy and security are
+
+inextricably linked. The government will take the lead in
+
+creating a global environment that is more open and freer
+
+in terms of economic security matters.”
+
+President Yoon Suk Yeol
+
+Presidential Inauguration Dinner (May 10, 2022)
+
+1 ｜ Proactively Advancing Economic Security Diplomacy
+
+2 ｜ Securing Capabilities to Respond to Critical Supply Chain Crises
+
+3 ｜ Enhancing Protection and Cooperation for Critical/Emerging Technologies
+
+4 ｜ Accelerating Climate Action and the Low-Carbon Economy Transition
+
+### Proactively Advancing Economic Security Diplomacy
+
+1
+
+Concept of Economic Security
+
+“A state in which national security is maintained and economic activities are unhindered by ensuring the smooth inflow of essential items for the nation’s economic activities and preventing inappropriate outflow, regardless of domestic and international variables”
+
+※ Source: Framework Act on Supporting Supply Chain Stabilization for Economic Security (legislative bill)
+
+The world is facing complex challenges, such as climate change,
+
+pandemics, energy transition, and digital transformation, which no
+
+individual country can address alone. Despite this, many countries
+
+are using their economic policies as a means of promoting their
+
+foreign and security policies, resulting in competition rather than
+
+cooperation to solve problems. As a result, we are now witnessing
+
+an era of economic security in which economy and security are
+
+inseparably linked and economic issues have a significant impact on
+
+national security.
+
+As an open economy with a high degree of external dependence,
+
+Korea is susceptible to external variables. For instance, the COVID-19
+
+pandemic and the conflict in Ukraine have disrupted global supply
+
+chains, leading to a significant impact on our economy and the daily
+
+lives of our citizens, including shortages of critical materials and
+
+inflation. In this situation, the importance of advancing economic
+
+security diplomacy in a proactive manner has become more apparent
+
+116 The Yoon Suk Yeol Administration’s National Security Strategy
+
+than ever to mitigate economic uncertainty, enhance responsiveness
+
+and resilience to external risks, and create opportunities for an
+
+economic leap forward.
+
+Strengthening economic security cooperation with major
+
+countries and driving a new economic order
+
+The Yoon Suk Yeol administration’s primary focus in proactive
+
+diplomacy for economic security is to establish a cooperative network
+
+with our strategic partners. To achieve this goal, the government will
+
+enhance strategic communication and information cooperation with
+
+the United States, Japan, the EU, and Australia regarding overall economic
+
+security matters.
+
+Furthermore, we will actively participate in emerging economic
+
+cooperation platforms, such as the Indo-Pacific Economic Framework
+
+for Prosperity (IPEF), to help establish regional norms and an economic
+
+order that align with our national stance and interests. We will also
+
+proactively advocate for our agenda items and perspectives at
+
+leadership-and ministerial-level multilateral economic organizations
+
+and forums, including the Group of 20 (G20), Asia Pacific Economic
+
+Cooperation (APEC), Organization for Economic Co-operation and
+
+Development (OECD), and World Trade Organization (WTO).
+
+Global Pivotal State for Freedom, Peace, and Prosperity 117
+
+Enhancing the resilience of supply chains against external shocks
+
+Another major government priority is to strengthen the responsiveness
+
+to external risks, ensuring that supply chains can quickly recover from
+
+crises.
+
+Overview of the CESFA
+
+Support the government’s response to major economic security issues and the establishment of foreign policies for economic security Purpose
+
+May 30, 2022 Inauguration
+
+Date
+
+One director, ten domestic professional officers, local professional officers at overseas diplomatic missions, etc. Composition
+
+Monitor and analyze major economic security issues such as supply chains, advanced technologies, and sanctions
+
+1
+
+Strengthen internal/external policy communication, cooperation, and networking, including through 1.5-track dialogue platforms with like-minded countries and public-private forums
+
+2
+
+Key Responsibilities
+
+Provide expert advisory services and organize diplomatic forums on economic security
+
+3
+
+In line with the above, we have launched a cross-sectoral task force
+
+to build an early warning system across government ministries,
+
+agencies, and overseas diplomatic missions. We have also established
+
+organizations, such as the Korea Center for Global Value Chain and
+
+118 The Yoon Suk Yeol Administration’s National Security Strategy
+
+the Center for Economic Security and Foreign Affairs (CESFA), to
+
+identify factors of supply chain disruptions at an early stage and respond
+
+to them promptly.
+
+Moving forward, we will work to prevent any disruptions in the
+
+supply of resources by strengthening supply chain cooperation with
+
+countries rich in key resources, such as critical minerals. Additionally,
+
+we will promote cooperation with major energy-producing countries
+
+and actively participate in international energy organizations to ensure
+
+a stable supply of energy.
+
+Driving the energy transition and digital transformation
+
+The government is committed to strengthening global cooperation
+
+on low-carbon clean energy, such as nuclear power and hydrogen.
+
+In line with the recent trend of many countries considering the
+
+introduction of nuclear power plants for their decarbonized energy
+
+transition, we will actively provide support for the overseas expansion
+
+of Korean businesses that specialize in large nuclear power plants,
+
+advanced nuclear reactors, and small modular nuclear power plants.
+
+In addition, we plan to actively participate in discussions on
+
+international digital norms to establish a new economic and social
+
+order for the digital era. We will also work toward developing advanced
+
+systems for personal data protection. Furthermore, we will proactively
+
+engage in establishing a digital economic order in the international
+
+community by expanding cooperation on technical standards.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 119
+
+### Securing Capabilities to Respond to Critical Supply Chain Crises
+
+2
+
+Korea is an open economy with a high degree of external dependence,
+
+relying heavily on global supply chains. However, a major vulnerability
+
+is that supply sources for key resources, including critical minerals,
+
+are concentrated in a limited number of countries.
+
+Establishing critical supply chains through proactive bilateral
+
+and multilateral diplomacy
+
+The Yoon Suk Yeol administration aims to build collaborative
+
+networks for stable supply chains by expanding external cooperation
+
+in economic security areas. Specifically, the government will strengthen
+
+bilateral cooperation with countries that produce critical minerals,
+
+including Australia and Indonesia, to improve the supply structure
+
+and prevent excessive reliance on certain countries for critical minerals.
+
+We will also promote supply chain cooperation with countries for
+
+strategic technological collaboration in the fields of semiconductors
+
+and batteries.
+
+Furthermore, we will actively participate in multilateral cooperation
+
+initiatives such as the Minerals Security Partnership (MSP)21 to diversify
+
+21 The MSP is an international partnership launched in June 2022 on the initiative of the U.S. and under the aim of stabilizing and diversifying critical mineral supply chains. Key cooperative areas of the partnership include (1) investment networking; (2) improvement of environmental, social, and governance (ESG) standards; and (3) facilitation of recycling.
+
+120 The Yoon Suk Yeol Administration’s National Security Strategy
+
+supply chains. We will also cooperate with major countries, including
+
+the United States, to share information, promote investment, and
+
+establish common standards regarding the supply of critical minerals
+
+and raw materials.
+
+Pursuing stable supply chain cooperation with China, which is Korea’s
+
+largest trade partner, is essential for our sustainable economic growth.
+
+Therefore, we will actively promote bilateral cooperation to maintain
+
+stable supply chains between the two countries. We will also continue
+
+our long-term efforts to diversify our supply chains for critical items.
+
+Enhancing energy security and contributing to global energy
+
+market stabilization
+
+The government will prioritize advancing energy cooperation with
+
+various countries to ensure a stable supply of oil and gas. We will also
+
+actively collaborate with international energy organizations, such as
+
+the International Energy Agency (IEA), to promote global energy
+
+market stabilization. Furthermore, we will closely monitor global
+
+energy trends by leveraging the Global Energy Cooperation Center
+
+established under the Ministry of Foreign Affairs and the energy
+
+departments of our overseas diplomatic missions designed primarily
+
+to focus on energy projects.
+
+Promoting international cooperation to enhance food security
+
+The government is committed to promoting international cooperation
+
+on food security by actively participating in initiatives such as the
+
+Global Pivotal State for Freedom, Peace, and Prosperity 121
+
+Roadmap for Global Food Security led by the United Nations, Food
+
+and Agriculture Organization (FAO), World Food Programme (WFP),
+
+and the U.S. We also aim to contribute to the alleviation of global
+
+hunger by consistently providing customized humanitarian assistance
+
+to countries vulnerable to food crises.
+
+Identifying global supply chain disruptions early on in close liaison
+
+with overseas diplomatic missions
+
+The government has implemented early warning systems (EWS) at
+
+overseas diplomatic missions to detect potential global supply chain
+
+disruptions for critical items related to economic security in order to
+
+prevent any adverse impact on domestic industries and citizens’
+
+livelihoods, as was seen during the recent urea solution shortage
+
+crisis.
+
+The EWS systems allow for comprehensive monitoring of the
+
+international situations and government policies of other countries
+
+that can affect supply chains. The gathered information is shared with
+
+relevant ministries and agencies to prepare countermeasures in a
+
+timely manner.
+
+122 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Enhancing Protection and Cooperation for Critical/Emerging Technologies
+
+3
+
+As global competition has expanded into the high-tech field, critical
+
+and emerging technologies have become important factors significantly
+
+affecting national security. The United States is currently pursuing
+
+technological partnerships with countries that share its values.
+
+Other major countries including Japan are also seeking international
+
+cooperation to enhance their technological capabilities.
+
+Amid this global trend, the Yoon Suk Yeol administration has further
+
+strengthened the ROK-U.S. partnership on critical and emerging
+
+technologies through the bilateral summit held in April 2023. Notably,
+
+the Next Generation Critical and Emerging Technologies Dialogue
+
+will be established to advance cooperation on biotechnology, batteries,
+
+semiconductors, digital technologies, and quantum technologies.
+
+Moving forward, the government aims to promote friendshoring22
+
+with partner countries and actively participate in international technical
+
+standard-setting to build stable and resilient global supply chains as
+
+well as contribute to the development of global innovation ecosystems.
+
+Improving conditions for protecting and cooperating on critical
+
+and emerging technologies
+
+The government plans to improve the institutional foundation for
+
+protecting critical and emerging technologies by reviewing and
+
+22 “Friendshoring” refers to the sharing of critical technologies and establishing supply chain networks among allied and partner countries.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 123
+
+amending three major laws on technological security: the Foreign
+
+Trade Act, the Act on Prevention of Divulgence and Protection of
+
+Industrial Technology (also known as the “Industrial Technology
+
+Protection Act”), and the Foreign Investment Promotion Act.
+
+Furthermore, we will increase funding to foster critical technology
+
+industries, such as semiconductors and batteries, and support the
+
+development of science and technology experts. Additionally, we will
+
+promote human exchanges with other countries to support critical
+
+and emerging technology companies in their overseas expansion
+
+efforts, while also improving the visa system to make it easier for
+
+outstanding foreign talent to come and work in Korea.
+
+Modernizing Technological Security Systems to Protect Critical Assets
+
+Review and amend the three major laws on technological security to
+
+develop advanced response systems
+
+Foreign Trade Act (Export Control)
+
+Enhance control over strategic military and dual-use goods under existing multilateral systems as well as non-strategic goods such as sensitive items
+
+Industrial Technology Protection Act (Prevention of Critical Technology Leakage)
+
+Protect national critical technologies by enhancing export approval/reporting systems and control over M&As that are aimed at technology leakage
+
+Foreign Investment Promotion Act (Foreign Investment Screening)
+
+Strengthen foreign investment monitoring by improving the security screening process and expanding the scope of screening targets
+
+124 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Enhancing strategic partnerships on critical and emerging
+
+technologies
+
+The government aims to strengthen public-private cooperation to
+
+protect and promote critical and emerging technologies. Simultaneously,
+
+we will enhance strategic partnerships on emerging technologies with
+
+partner countries.
+
+In the aerospace sector, we will strengthen collaboration on space
+
+exploration and the development of Korean satellite navigation systems
+
+by leveraging bilateral forums such as the ROK-U.S. Civil Space
+
+Dialogue. Furthermore, building on the Joint Statement of Intent for
+
+Cooperation on Space Exploration and Space Science23 signed on April
+
+25, 2023, we will take active measures to identify joint R&D programs
+
+in the space sector and enhance personnel, information, and knowledge
+
+exchanges between Korea and the U.S.
+
+In the digital and R&D domains, we will establish digital partnerships
+
+with Europe and participate in the EU’s Horizon Europe24 program as
+
+an associated member. We will also promote human exchanges and
+
+R&D cooperation with leading countries in high-tech areas such as AI
+
+and biotechnology.
+
+23 Under the Joint Statement, the ROK Ministry of Science and ICT (MSIT) and the U.S. National Aeronautics and Space Administration (NASA) will undertake a concept study to identify joint projects in areas such as deep space communications and navigation, science and technology research at or on the Moon, the development of robotics and mobility systems for lunar settlement activities, and space medicine research, among others.
+
+24 Horizon Europe is an R&D support project in which the EU will invest a total of 95.5 billion euros (approximately KRW 129 trillion) from 2021 to 2027 to enhance basic science capabilities, climate transition, and digital transformation, among other areas.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 125
+
+Driving the formation of international rules and standards for
+
+critical and emerging technologies
+
+The government is committed to proactively engaging in close
+
+cooperation with major technology countries from the early stages of
+
+discussions on the formation of international rules for critical and
+
+emerging technologies to ensure that our stance and national interests
+
+are taken into account and reflected in such norms.
+
+Furthermore, we will drive standard-setting for critical and emerging
+
+technologies by actively participating in technology-related international
+
+organizations, including the International Telecommunication Union
+
+(ITU), International Organization for Standardization (ISO), and Global
+
+Partnership on Artificial Intelligence (GPAI). Concurrently, we will
+
+promote international public-private cooperation by facilitating the
+
+participation of our talented workforce in international organizations
+
+and building a system for organic collaboration between our diplomatic
+
+missions designated as overseas bases for science and technology
+
+projects and domestic specialized institutions.
+
+126 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Accelerating Climate Action and the Low-Carbon Economy Transition
+
+4
+
+The Yoon Suk Yeol administration is committed to achieving the
+
+national target of reducing greenhouse gas (GHG) emissions by
+
+40% compared to 2018 levels by 2030 and realizing carbon
+
+neutrality by 2050. Currently, Korea is facing growing demands
+
+from the international community to join global cooperative
+
+initiatives on climate change, including those for methane reduction,
+
+the increased deployment of electric vehicles, and the facilitation of
+
+the development of climate technology. Moreover, we need to
+
+thoroughly analyze climate policies affecting international trade,
+
+such as the EU’s Carbon Border Adjustment Mechanism (CBAM),25
+
+and develop strategies to respond to them.
+
+Participating in global discussions on climate action and the
+
+low-carbon green economy
+
+As the impact of global climate change becomes more severe, major
+
+international consultative bodies, including the United Nations, OECD,
+
+and G20, have intensified their discussions on addressing climate
+
+change. Korea, as the world’s tenth-largest GHG emitter and sixth-
+
+25 CBAM is a system designed for the EU to impose a carbon price on imported goods in proportion to the carbon emissions generated during the production of those goods under the aim of preventing carbon leakage. “Carbon leakage” refers to a situation where carbon emissions are transferred from countries with strict carbon emission regulations to those with less strict regulations due to the relocation of production facilities.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 127
+
+largest trading country, is committed to playing an active role in
+
+important discussions on issues such as GHG reduction, climate
+
+finance, and the operation of international carbon markets, while also
+
+establishing its comprehensive response strategy.
+
+The government has raised the 2030 national GHG reduction target
+
+twice (in December 2020 and December 2021) to meet the 1.5°C goal
+
+of the Paris Agreement.26 Other countries with significant GHG
+
+emissions are also expected to increase their reduction targets and
+
+introduce various reduction policies to ensure the fair implementation
+
+of the Agreement. We will proactively engage in bilateral climate
+
+arrangements with other governments to establish a collaborative
+
+foundation for conducting emissions reduction projects abroad.
+
+Additionally, we will seek measures to achieve an efficient energy
+
+mix while establishing a low-carbon energy development plan that
+
+reflects advancements in nuclear and renewable energy technologies.
+
+Proactively responding to the climate policies of the United
+
+States and the EU
+
+The government will develop a plan to contribute to the establishment
+
+of common goals by sector, including methane reduction, the deployment
+
+of zero-emission vehicles, and decarbonization in the shipping sector,
+
+which will be addressed at the Major Economies Forum on Energy
+
+and Climate (MEF)27 led by the U.S. In addition, we will actively
+
+26 The Paris Agreement stipulates that efforts must be made to prevent the global average temperature from rising more than 1.5°C above pre-industrial levels.
+
+128 The Yoon Suk Yeol Administration’s National Security Strategy
+
+participate in clean economy discussions of the Indo-Pacific Economic
+
+Framework for Prosperity (IPEF) to ensure that decarbonization efforts
+
+are made evenly and the results are fairly distributed among regional
+
+countries.
+
+Furthermore, we will proactively respond to trade measures based
+
+on carbon pricing, such as the EU’s CBAM, and strive to create a
+
+favorable external economic environment for Korean companies.
+
+Engaging in global cooperation for environmental conservation
+
+and sustainable development
+
+The government aims to enhance global cooperation and contribute
+
+to the creation of relevant international rules to address climate
+
+change, biodiversity loss, and pollution, which are regarded as three
+
+major environmental threats that are impeding humanity’s sustainable
+
+existence.
+
+Specifically, we will implement the Kunming-Montreal Global
+
+Biodiversity Framework (GBF)28 and strengthen cooperation with
+
+other participating countries. We will also engage with domestic
+
+stakeholders, including NGOs and businesses, to develop a strategy
+
+for our participation in the Plastic Treaty of the United Nations to
+
+combat plastic pollution.
+
+27 Established in March 2009, MEF is a consultative body of major countries with the goal of increasing the use of clean energy and reducing GHG emissions. MEF members include G20 member states and major developing countries.
+
+28 Adopted at the 15th Meeting of the Conference of the Parties to the Convention on Biological Diversity in December 2022, GBF emphasizes transformative actions across all sectors of society and economy to achieve the vision of “living in harmony with nature” by 2050.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 129
+
+Supporting developing countries in their transition to a low-
+
+carbon green economy
+
+The government is committed to supporting developing countries
+
+in effectively responding to extreme weather events and disasters
+
+in solidarity with the international community. As the host country
+
+of the headquarters, a council member, and the largest donor to
+
+the Global Green Growth Institute (GGGI), Korea will strengthen
+
+the status of GGGI and support the green transition of developing
+
+countries. Additionally, we will cooperate with international climate
+
+organizations stationed in Korea, such as the Green Climate Fund
+
+(GCF) and Partnership and Liaison Office of the Climate Technology
+
+Center and Network (CTCN), while also cooperating with like-
+
+minded countries through consultative bodies such as Partnering for
+
+Green Growth and the Global Goals 2030 (P4G).29
+
+29 P4G is a cooperative body that aims to promote public‒private cooperation in the five key areas related to the green economy (i.e., food, water, energy, cities, and circular economy) and accelerate the achievement of the Sustainable Development Goals (SDGs) and the implementation of the Paris Agreement.
+
+130 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Overview of the Global Green Growth Institute (GGGI)
+
+GGGI was established in June 2010 in Seoul to support the low-carbon growth of developing countries. It was recognized as an international organization at the UN Sustainable Development Summit on June 20, 2012.
+
+Overview
+
+Provide advisory services and share Korea’s development experience and green growth model with developing countries to help them achieve environmentally sustainable economic development
+
+Purpose
+
+18 countries including Denmark, Australia, Cambodia, the UK, the UAE, and Vietnam Founding Members
+
+Global Pivotal State for Freedom, Peace, and Prosperity 131
+
+Ⅷ
+
+## Proactively Responding — to Emerging Security — Issues
+
+“The crisis brought by climate change and the health and
+
+digital divides are threatening the freedom of citizens
+
+worldwide and the peace and prosperity of the international
+
+community. To overcome these challenges, we must
+
+strengthen our cooperation and stand in solidarity.”
+
+President Yoon Suk Yeol
+
+World Economic Forum Annual Meeting (January 20, 2023)
+
+1 ｜ Strengthening National Cybersecurity Capabilities
+
+2 ｜ Improving Health Security Systems
+
+3 ｜ Reinforcing National Counter-Terrorism Capabilities
+
+4 ｜ Enhancing National Disaster Emergency Management Systems
+
+### Strengthening National Cybersecurity Capabilities
+
+1
+
+With the acceleration of digital transformation, attacks from hacker
+
+groups targeting advanced technologies and critical information
+
+have become increasingly frequent. Notably, North Korea is known
+
+for disseminating ransomware to acquire virtual assets and deploying
+
+its IT workforce overseas to generate foreign currency. The proceeds
+
+from these activities are then used to fund the development of
+
+nuclear weapons and other weapons of mass destruction. In light of
+
+this, it is critical to enhance our national cyber response capabilities
+
+for national security and the safety of our citizens.
+
+Establishing a unified national cybersecurity response system
+
+To address cybersecurity threats across all domains, the Yoon Suk Yeol
+
+administration aims to establish responsibilities and a collaboration
+
+structure for government agencies at various levels, centered around
+
+the Office of National Security, and enact the National Cybersecurity
+
+Act to reflect this initiative.
+
+Additionally, the National Cybersecurity Committee will be created
+
+to articulate the vision and policy direction for national cybersecurity,
+
+with the participation of private sector experts who will evaluate
+
+national cybersecurity policies and advise the President.
+
+Furthermore, a public-private integrated response organization will
+
+134 The Yoon Suk Yeol Administration’s National Security Strategy
+
+be established to enhance our cyber crisis management capabilities
+
+by anticipating national-level cybersecurity threats and promptly
+
+responding to crisis situations.
+
+Overview of the National Cybersecurity Act
+
+Establish a national response system to systematically and effectively counter cyber threats that undermine national security Legislative
+
+Intent
+
+Verify domestic/foreign digital information to monitor hacker groups’ activities and prevent security threats to supply chains
+
+1
+
+Establish the National Cybersecurity Committee and the Basic Plan for Cybersecurity
+
+2
+
+Key Points
+
+Issue a cyber crisis alert and promote public-private collaboration and international cooperation with global organizations, foreign governments, etc.
+
+3
+
+Strengthening response capabilities against global cybersecurity
+
+threats
+
+The government recognizes the urgency and importance of
+
+addressing cybersecurity threats from state-sponsored hacker groups.
+
+As a priority task, we will take measures to prevent the illegal funding
+
+of the North Korean regime by responding proactively to its theft of
+
+virtual assets and the fraudulent employment of its IT workforce
+
+overseas. Additionally, we will mobilize all available resources to
+
+actively counter severe and malicious cyber attacks. We will also
+
+cooperate with like-minded countries to monitor the activities of
+
+state-sponsored hacker groups. With the United States, for instance,
+
+Global Pivotal State for Freedom, Peace, and Prosperity 135
+
+the government is committed to taking all necessary actions to jointly
+
+respond to global cyber attacks, including North Korea’s illicit cyber
+
+activities.
+
+Furthermore, we will increase our number of personnel with expertise
+
+in cyber warfare and develop advanced critical technologies to
+
+systematically prepare for the risk of cyber attacks.
+
+Enhancing cybersecurity cooperation with the international
+
+community
+
+The government aims to join the Convention on Cybercrime30 to
+
+help build a framework for international cooperation on cybercrime
+
+investigation, while also actively participating in the United Nations’
+
+discussions on the establishment of cyber norms.
+
+In April 2023, during a bilateral summit, the ROK and the United
+
+States adopted the Strategic Cybersecurity Cooperation Framework to
+
+jointly address the surge in cyber threats. Through the Framework, the
+
+two parties agreed to expand the scope of their bilateral security
+
+alliance beyond the traditional domains of land, sea, and air to include
+
+cyberspace. The Framework is expected to enhance cooperation in
+
+cybersecurity technology, policy, and strategy to effectively counter
+
+various threats in the cyberspace of both countries. Moving forward,
+
+Korea and the U.S. will continue to deepen bilateral cooperation on
+
+international security issues in cyberspace.
+
+30 The Convention on Cybercrime, also called the Budapest Convention, is the first international treaty to combat cybercrime. As of March 2023, 67 countries have acceded to the Convention.
+
+136 The Yoon Suk Yeol Administration’s National Security Strategy
+
+ROK-U.S. Cooperation Against Cyber Threats
+
+Noteworthy actions
+
+Counter Ransomware Initiative meetings (36 participating countries including the ROK and the U.S.)
+
+October 2021
+
+● Developed strategies to address issues such as North Korea’s ransomware attacks and illegal use of virtual assets
+
+ROK-U.S. Working Group on North Korea’s Cyber Threats
+
+● Discussed measures against North Korea’s foreign currency acquisition through its IT workforce and theft of virtual assets
+
+August 2022
+
+February 3, 2023 Implemented joint measures to freeze crypto wallets stolen and held by a North Korean hacker group
+
+February 9, 2023 Jointly issued security recommendations to inform the public about and prevent North Korea’s cyber attacks
+
+Overview of the Strategic Cybersecurity Cooperation Framework
+
+Preamble Areas of Cooperation
+
+Elevate national cybersecurity to a high policy/strategic priority
+
+Discuss how the Mutual Defense Treaty would apply and under what circumstances
+
+Share intelligence and cooperate on cybersecurity technology/policy/strategy
+
+Deny and deter malicious actors operating in cyberspace
+
+Strategic Cybersecurity
+
+Cooperation
+
+Principles of Cooperation Mechanisms of Cooperation
+
+Framework
+
+Use all available capabilities to combat cyber threats
+
+Jointly respond to significant cyber incidents affecting national interests or infrastructure
+
+Run policy forums at various levels, including diplomacy, defense, and justice
+
+Enhance technical/operational cooperation between specialized
+
+institutions
+
+Global Pivotal State for Freedom, Peace, and Prosperity 137
+
+Additionally, the government plans to regularly hold cyber policy
+
+consultations with major countries and conduct combined training
+
+and exercises with like-minded countries to collaboratively address
+
+cyber threats. We will also proactively engage in the international
+
+community’s efforts to counteract malicious cyber activities and work
+
+toward maintaining order in cyberspace.
+
+Furthermore, we are committed to fulfilling our country’s role as a
+
+responsible advanced nation by providing assistance to developing
+
+countries in cybersecurity education and training efforts and expanding
+
+information exchanges on cyber threats with these nations.
+
+Reinforcing the basis for national cybersecurity capabilities
+
+The government will develop robust cybersecurity measures and
+
+damage recovery plans to ensure the timely detection of unexpected
+
+incidents and a swift return to normal operations.
+
+Our top priority is to manage the cybersecurity of critical infrastructure,
+
+with a special focus on digital government and cloud services that are
+
+critical to the daily lives of our citizens. Furthermore, we will proactively
+
+engage with institutions, businesses, and organizations possessing
+
+critical and/or defense technologies to provide them with necessary
+
+protection.
+
+Moving forward, we will continuously improve our national
+
+cybersecurity ecosystem by developing necessary technologies and
+
+policies as well as fostering a talented workforce through industry–
+
+academia cooperation.
+
+138 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Improving Health Security Systems
+
+2
+
+As the COVID-19 pandemic persists, the risk of novel infectious
+
+diseases continues to increase due to climate change. In this regard,
+
+it is imperative to establish new international rules and governance
+
+systems to address global health crises, and Korea’s role as a leader
+
+in the public health sector is becoming increasingly important.
+
+Enhancing our response capabilities and public-private cooperation
+
+to address health security crises
+
+The Yoon Suk Yeol administration is committed to enhancing response
+
+systems to address novel and variant infectious diseases, including
+
+those related to bioterrorism. Priority will also be given to the
+
+systematic management of supplies for the prevention of infectious
+
+disease. In addition, the government will strengthen cooperation
+
+with the private sector in the R&D and production of vaccines and
+
+biopharmaceuticals to strengthen the capabilities to respond to infectious
+
+diseases. Furthermore, we will expand strategic cooperation with major
+
+countries and international organizations in sharing information on
+
+regional infectious diseases to promptly identify the sources of such
+
+diseases and respond effectively.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 139
+
+Advancing health security diplomacy to enhance the global health
+
+framework
+
+The government aims to contribute to the international community’s
+
+efforts to enhance the global health framework, which has become a
+
+pressing issue in the process of overcoming the COVID-19 crisis.
+
+We will actively participate in international discussions at the World
+
+Health Organization (WHO) and the G20, among others. Through these
+
+forums, we will work toward enhancing cooperation among countries,
+
+international organizations, and the private sector in addressing infectious
+
+diseases. Specifically, we will engage in discussions on measures to
+
+strengthen international rules on infectious diseases, such as the revision
+
+of the International Health Regulations (IHR)31 and negotiations to
+
+develop the Global Pandemic Treaty.32
+
+Furthermore, we will provide active support to developing countries
+
+to strengthen their capacity to respond to infectious diseases, thereby
+
+playing a part in the global efforts to combat hunger and disease.
+
+31 IHR is an international legal instrument established by WHO to govern international cooperation for preventing the spread of infectious diseases. The Regulations were initially adopted at the World Health Assembly in 1969 and underwent a comprehensive revision in 2005.
+
+32 In December 2021, WHO decided to establish an intergovernmental negotiating body to develop a new international instrument for pandemic prevention, preparedness, and response, drawing on the lessons learned from the COVID-19 crisis. Member states are currently engaged in negotiations, with the goal of presenting a final draft of the Global Pandemic Treaty at the World Health Assembly in May 2024.
+
+140 The Yoon Suk Yeol Administration’s National Security Strategy
+
+### Reinforcing National Counter-Terrorism Capabilities
+
+3
+
+Our citizens abroad are at constant risk of harm caused by pirate
+
+activities and terrorist networks such as Al-Qa’ida, while there have
+
+also been instances within our country of individuals expressing
+
+support for terrorist groups or attempting to finance foreign terrorist
+
+organizations.
+
+Terrorist attacks utilizing new technologies, such as drones and
+
+3D-printed firearms, are also emerging. These situations highlight
+
+the growing need for effective policy measures and legal reforms to
+
+respond to the rapidly evolving terrorism landscape.
+
+Countering terrorist-linked activities and blocking terrorist financing
+
+The Yoon Suk Yeol administration will enhance international
+
+cooperation to gather information about potential terrorists and
+
+develop big data-and AI-based technologies to track them. Leveraging
+
+these measures, the government will proactively prevent the entry of
+
+individuals directly or indirectly linked to terrorist networks.
+
+Additionally, as a member of the Financial Action Task Force (FATF),33
+
+we will intensify our monitoring of financial transactions suspected of
+
+being related to terrorist financing. We will also focus on implementing
+
+33 Established by the G7 countries in 1989, FATF aims to promote the implementation of measures to combat money laundering and terrorist financing.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 141
+
+international standards on virtual assets and strengthening information
+
+sharing with financial intelligence agencies of major countries.
+
+Strengthening our capabilities to proactively address evolving
+
+terrorist threats
+
+In recent years, the potential for terrorists to exploit 4IR technologies,
+
+such as drones, autonomous vehicles, urban air mobility, and 3D
+
+printing, has steadily increased. For instance, a terrorist group has
+
+used drones in its attacks, and blueprints for creating firearms with
+
+3D printers are readily available on the Internet. The government is
+
+committed to continuously strengthening government-wide preventive
+
+measures against terrorist threats in response to changes in terrorism
+
+methods. In addition, we will work toward amending the current Act
+
+on Counter-Terrorism for the Protection of Citizens and Public Safety
+
+to reflect the evolving terrorism landscape and situation in Korea.
+
+Furthermore, we will conduct customized joint drills for counter-
+
+terrorism agencies based on new types of scenarios of terrorist attacks
+
+and integrate the lessons learned into our counter-terrorism policy.
+
+Enhancing global counter-terrorism cooperation and diversifying
+
+collaboration channels
+
+In alignment with the United Nations Global Counter-Terrorism
+
+Strategy,34 the government is committed to fully implementing relevant
+
+34 Adopted by the UN General Assembly in September 2006, the UN Global Counter-Terrorism Strategy consolidates counter-terrorism strategies previously addressed in various resolutions and conventions. It also outlines measures to be implemented by individual member states to prevent and combat terrorism.
+
+142 The Yoon Suk Yeol Administration’s National Security Strategy
+
+resolutions of the UN General Assembly and Security Council. We will
+
+also actively participate in multilateral meetings aimed at preventing
+
+terrorism, including the Global Coalition to Defeat Daesh/ISIS.
+
+Additionally, we will diversify our channels for obtaining terrorism-
+
+related information by expanding our engagement with international
+
+organizations, including the UN Office of Counter-Terrorism (UNOCT)
+
+and European Counter Terrorism Centre (ECTC), and cooperating with
+
+the counter-terrorism agencies of partner countries. In particular, we
+
+aim to enhance information sharing with countries located in piracy
+
+hotspot areas and relevant international organizations to prevent
+
+incidents such as the hostage-taking of our citizens and ships.
+
+Enhancing the response capabilities of our counter-terrorism units
+
+In order to protect our citizens from pirate activities and international
+
+terrorist groups, it is critical to establish a response system that can
+
+effectively combat threats on site. In this regard, the government will
+
+continue to conduct counter-terrorism drills in remote locations,
+
+simulating scenarios of overseas terrorist attacks against our citizens.
+
+We will also establish a close cooperative system through conducting
+
+combined training and exercises with the counter-terrorism units of
+
+countries in or near areas with a high risk of hostage-taking.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 143
+
+### Enhancing National Disaster Emergency Management Systems
+
+4
+
+As society advances, the impact of disasters is becoming increasingly
+
+complex and larger in scale. Given the importance of a rapid and
+
+effective response in the event of a disaster, it is essential to establish
+
+comprehensive disaster emergency management systems at the
+
+national level. Developments in advanced technologies, such as AI
+
+and big data analytics, offer new possibilities to innovate such
+
+systems.
+
+Improving the cooperative mechanism for national security and
+
+disaster emergency management
+
+Currently, the responsibilities for managing national security and
+
+disaster emergencies are distributed among various government
+
+ministries and agencies, which highlights the need for an integrated
+
+and cohesive interagency cooperation system.
+
+As an initial effort, the Yoon Suk Yeol administration aims to define
+
+clear roles and responsibilities for the involved agencies. Based on
+
+this, the government plans to establish a mechanism for real-time
+
+interagency information sharing and situation notification to facilitate
+
+swift decision-making. This will lead to the creation of an integrated
+
+response system capable of mobilizing all available resources at the
+
+government-wide level during a national security or disaster emergency.
+
+144 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Establishing an integrated disaster management system based
+
+on public-private cooperation
+
+With more frequent occurrences of highly damaging typhoons, heavy
+
+rains, dry spells, and other extreme weather events due to climate
+
+change, the risk of large-scale disasters is increasing, which is further
+
+exacerbated by the aging of urban infrastructure. Given this situation,
+
+it is critical to actively engage the private sector in disaster management
+
+to address the issue of limited government workforce and resources.
+
+The government will prioritize establishing a cooperative relationship
+
+for effective consultation and communication among government
+
+bodies at various levels, public institutions, and the private sector,
+
+including NGOs. We will also encourage public-private cooperation to
+
+analyze issues and shortcomings identified in the process of post-
+
+incident recovery activities and to develop effective measures to
+
+prevent similar incidents from occurring again.
+
+Enhancing proactive disaster response capabilities by leveraging
+
+digital platforms
+
+The application of emerging digital technologies, such as AI, Internet
+
+of Things, and big data analytics, has recently become increasingly
+
+feasible in the field of disaster and safety management. These
+
+technologies have the potential to resolve the need to integrate and
+
+manage fragmented disaster and safety data from various agencies
+
+and institutions for their effective use.
+
+Global Pivotal State for Freedom, Peace, and Prosperity 145
+
+The government aims to leverage such advanced technologies to
+
+build disaster management systems capable of effectively responding
+
+to emerging risks. Additionally, disaster response equipment based on
+
+4IR technologies, such as drones, robots, and search cameras, will be
+
+developed to significantly improve our disaster management capabilities.
+
+146 The Yoon Suk Yeol Administration’s National Security Strategy
+
+Global Pivotal State for Freedom, Peace, and Prosperity 147
+
+The Yoon Suk Yeol Administration’s National Security Strategy
+
+Global Pivotal State for Freedom, Peace, and Prosperity
+
+Published in June 2023
+
+Published by the Office of National Security, Republic of Korea
+
+DISCLAIMER: This English translation of the original Korean document is provided for reference only. In the case of any discrepancy, the Korean text shall prevail.

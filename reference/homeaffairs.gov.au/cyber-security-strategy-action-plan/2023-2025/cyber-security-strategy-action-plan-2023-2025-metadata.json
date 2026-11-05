@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2023-2025",
+  "name": "2023–2030 Australian Cyber Security Strategy: Horizon 1 Action Plan (2023–2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023-2025",
+  "publication_id": "cyber-security-strategy-action-plan-2023-2025",
+  "owner": "Department of Home Affairs",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Horizon 1 Action Plan (2023–2025) — 2023-2025 edition of 2023–2030 Australian Cyber Security Strategy Action Plan, published by Department of Home Affairs (homeaffairs.gov.au).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/strategy/2023-2030-australian-cyber-security-strategy",
+    "textUsed": "https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-11-22",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/homeaffairs.gov.au/cyber-security-strategy-action-plan@2026-2028",
+    "retiredFromActiveUse": "2026-01-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 28-page PDF (https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy-action-plan.pdf) locally via PyMuPDF (34,624 chars). Parsed 37 sections (21 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

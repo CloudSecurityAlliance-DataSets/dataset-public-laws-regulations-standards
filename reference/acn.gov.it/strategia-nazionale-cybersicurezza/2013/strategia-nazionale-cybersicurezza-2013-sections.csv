@@ -1,0 +1,572 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico (2013)","","","Presidenza del Consiglio dei Ministri"
+"2","","Dicembre 2013","","","Presidenza del Consiglio dei Ministri"
+"2","","Dicembre 2013 — Lista delle sigle e delle abbreviazioni","","","AG – Autorità Giudiziaria AGCOM – Autorità per le Garanzie nelle Comu­
+
+nicazioni AgID – Agenzia per l'Italia Digitale APT – Advanced Persistent Threat BYOD – Bring Your Own Device ccTLD – Country Code Top Level Domain CERT – Computer Emergency Response Team CERT-SPC – Computer Emergency Response
+
+Team - Sistema Pubblico di Connettività CISR – Comitato Interministeriale per la Sicurez­
+
+za della Repubblica CLUSIT – Associazione Italiana per la Sicurezza
+
+Informatica CNA – Computer Network Attacks CNAIPIC – Centro Nazionale Anticrimine Infor­
+
+matico per la Protezione delle Infrastrutture Critiche CND – Computer Network Defence CNE – Computer Network Exploitation CNO – Computer Network Operations CSBM – Confidence and Security Building Mea­
+
+sures CSDP – Common Security and Defence Policy DAG – Dipartimento dell’Amministrazione Gene­
+
+rale e del Personale e dei Servizi DDoS – Distributed Denial of Service DF – Digital Forensics DIS – Dipartimento Informazioni per la Sicurezza DNS – Domain Name System DPCM – Decreto del Presidente del Consiglio dei
+
+Ministri DSII – Direzione dei Sistemi Informativi e dell’In­
+
+novazione EMEA – European, Middle East and Africa
+
+ENISA – European Network and Information Se­
+
+curity Agency F.A. – Forze Armate FF.PP. – Forze di Polizia IC – Infrastrutture Critiche ICE – Infrastrutture Critiche Europee ICT – Information & Communication Technolo­
+
+gies IoT – Internet of Things ISCOM – Istituto Superiore delle Comunicazioni
+
+e delle Tecnologie dell’Informazione ISP – Internet Service Provider IT – Information Technologies MEF – Ministero dell’Economia e delle Finanze NATO – North Atlantic Treaty Organization NCIRC – NATO Computer Incident Response Ca­
+
+pability NSC – Nucleo per la Sicurezza Cibernetica ONU – Organizzazione delle Nazioni Unite OSCE – Organizzazione per la Sicurezza e la Coo­
+
+perazione in Europa PA – Pubblica Amministrazione PMI – Piccole e Medie Imprese R&S – Ricerca & Sviluppo SCADA – Supervisory Control and Data Acqui­
+
+sition SMS – Short Message Service SOC – Security Operations Center SPC – Sistema Pubblico di Connettività TCP/IP – Transmission Control Protocol/Internet
+
+Protocol QSN – Quadro Strategico Nazionale UE – Unione Europea ULS – Unità Locali di Sicurezza UTM – Unified Threat Management
+
+INDICE
+
+Prefazione........................................................................... 4
+
+Executive Summary.............................................................. 8
+
+Capitolo 1 – Profili e tendenze evolutive delle minacce e delle vulnerabilità dei sistemi e delle reti di interesse nazionale........................................................................... 10
+
+Capitolo 2 – Strumenti e procedure per potenziare le capacità cibernetiche del Paese....................................... 18
+
+Allegato 1 – Ruoli e compiti dei soggetti pubblici................. 26
+
+Allegato 2 – Glossario........................................................ 39"
+"2","","PREFAZIONE","","","Lo sviluppo di Internet caratterizza la nostra era. È attraverso lo spazio cibernetico che sempre più si realizzano le fondamentali libertà di informa­ zione, di espressione e di associazione del cittadino, viene perseguita la traspa­ renza della politica e l’efficienza dei servizi della Pubblica Amministrazione, si promuove la crescita e l’innovazione delle nostre aziende. Lo spazio virtua­ le rappresenta un’arena in cui ogni giorno si stabiliscono attraverso le fron­ tiere geografiche miliardi di interconnessioni e si scambia conoscenza a livello globale, ridisegnando il mondo ad una velocità senza precedenti.
+
+Il risiedere all’interno delle reti di una mole ogni giorno maggiore di sape­ ri essenziali ai fini della sicurezza e della prosperità del sistema-Paese rende sempre più pressante l’esigenza di garantire, anche nello spazio cibernetico, il rispetto dei diritti e dei doveri, che già vigono nella società civile, nel tessuto eco­ nomico e nella Comunità internazionale. L’arena digitale non è uno spazio al di fuori delle leggi, ed è nostra responsabilità lavorare affinché vi si affermino compiutamente i valori ed i princìpi democratici, oltre che le norme di rispetto dell’individuo, di eguaglianza e di libertà nelle quali crediamo. È peraltro solo in un ambiente contrassegnato da fiducia e rispetto reciproco che sarà possibile cogliere appieno le opportunità di crescita offerte dalle piattaforme digitali, as­ sicurando lo sviluppo di uno spazio cibernetico aperto, affidabile e sicuro per il sistema finanziario, per le aziende e per i consumatori.
+
+La crescente dipendenza delle società moderne dallo spazio cibernetico ren­ de sempre più grave il danno che può giungere dalla compromissione delle reti o
+
+da mirati attacchi attraverso di esse. Le minacce possono originare da qualsiasi punto della rete globale e spesso colpiscono gli anelli più deboli della catena, ossia i soggetti più fragili, o i sistemi meno protetti. Attraverso le reti possono com­ piersi crimini odiosi come lo scambio online di materiale pedopornografico, o realizzarsi furti e truffe che, oltre a danneggiare gravemente gli interessi privati, impediscono che si affermi il necessario livello di fiducia nella comunità digitale.
+
+Il crimine informatico è una piaga che può decretare il fallimento delle aziende, la sottrazione del loro patrimonio tecnologico e che depaupera la ric­ chezza delle nazioni. Con sempre maggiore preoccupazione assistiamo inoltre al crescere di una minaccia ancora più insidiosa, che sfrutta le vulnerabilità dei sistemi informatici per sottrarre, spesso senza che ve ne sia nemmeno la co­ gnizione, il frutto del nostro lavoro di ricerca e sviluppo nel campo delle nuove tecnologie e dei prodotti. Per un Paese come l’Italia, che fa dell’innovazione la pietra angolare della sua crescita e della sua competitività, il danno potenziale è incalcolabile. La sofisticazione degli attacchi informatici e la connessione in rete delle nostre infrastrutture crescono ad un ritmo tale che la stessa stabilità e sicurezza del Paese possono essere gravemente pregiudicate, ed è dunque indispensabile assicurare la migliore protezione degli assetti critici nazionali da attacchi che possono produrre enormi danni fisici e materiali, ad esempio attraverso la paralisi o l’alterazione d’interi sistemi che regolano il trasporto civile e le reti energetiche, o ancora i sistemi di comando e controllo militari. Ciò implica dunque la necessità di un concetto di difesa innovativo e compar­
+
+tecipato con il mondo del privato, che in molti casi è al contempo proprietario e gestore degli assetti critici da tutelare, oltre che l’urgenza d’incorporare la dimensione informatica dei moderni conflitti nella dottrina strategica e nella pianificazione delle forze.
+
+L’interdipendenza delle reti, l’asimmetricità della minaccia e la perva­ sività dello spazio cibernetico nella vita di ogni giorno rendono impossibile assicurare un accettabile livello di sicurezza online in assenza di un ap­ proccio olistico e di una forte unitarietà d’intenti. L’obiettivo non può che essere quello di potenziare a livello sistemico le nostre capacità di prevedere e prevenire un attacco, individuarlo nel momento in cui accade, reagire ad esso e mitigarne gli effetti, risalire ai responsabili, oltre che di ristabilire rapidamente la funzionalità originaria ed apprendere le lezioni del caso. A livello internazionale, l’Italia è impegnata tanto nei maggiori consessi multilaterali, in primis l’Unione Europea e la NATO, quanto a livello bi­ laterale, con i nostri principali partner, per favorire l’affermazione ed il rispetto di regole di comportamento nell’arena digitale coerenti con i nostri valori, oltre che per facilitare l’emergere di una governance condivisa a li­ vello globale, indispensabile per far fronte alle grandi sfide della rivoluzione digitale in atto. A livello nazionale, è imperativo sviluppare un approccio coordinato e multi-dimensionale, che garantisca la più ampia convergenza dell’azione delle diverse Amministrazioni dello Stato attorno ad obiettivi pienamente condivisi e ampiamente partecipati con il mondo del privato, accademico e della ricerca scientifica.
+
+In un clima economico-finanziario contrassegnato dalle ben note difficoltà di bilancio non possiamo permetterci alcuna duplicazione degli sforzi ed occorre saper ricercare ogni utile sinergia, tenendo a mente che gli stanziamenti che si renderanno – da parte di tutti – necessari rappresentano non solo un significa­ tivo risparmio rispetto al danno potenziale cui siamo soggetti, ma anche una straordinaria opportunità di crescita culturale, sociale ed economica.
+
+In linea con quanto previsto dal DPCM del 24 gennaio 2013, il presente Quadro Strategico Nazionale per la sicurezza dello spazio cibernetico individua i profili e le tendenze evolutive delle minacce e delle vulnerabilità dei sistemi e delle reti d’interesse nazionale, specifica i ruoli ed i compiti dei diversi soggetti pubblici e privati ed individua gli strumenti e le procedure con cui perseguire l’accrescimento delle capacità del Paese di prevenire e rispondere in maniera compartecipata alle sfide poste dallo spazio cibernetico. Con l’allegato Piano Nazionale vengono inoltre individuate le priorità, gli obiettivi specifici e le linee d’azione per dare concreta attuazione a quanto descritto nel Quadro Strategico.
+
+Con questi due documenti l’Italia si dota di una strategia attorno alla quale coordinare gli sforzi per rafforzare la nostra capacità di fare squadra per guardare con fiducia alle sfide di sicurezza dello spazio cibernetico e per fare avanzare l’in­ teresse nazionale laddove sempre più si realizza la ricchezza delle nazioni."
+"2","","EXECUTIVE SUMMARY","","","Il presente Quadro Strategico Nazionale è stato elaborato dal Tavolo Tecnico Cyber (TTC) che – istituito il 3 aprile 2013 in seno all’organismo colle­ giale permanente (c.d. CISR “tecnico”) dopo l’entrata in vigore del DPCM 24 gen­ naio 2013 – opera presso il Dipartimento Informazioni per la Sicurezza. Ai lavo­ ri del TTC partecipano i rappresentan­ ti cyber dei Dicasteri CISR (Affari Esteri, Interno, Difesa, Giustizia, Economia e Finanze, Sviluppo Economico) dell’Agen­ zia per l’Italia Digitale e del Nucleo per la Sicurezza Cibernetica.
+
+La definizione di un Quadro Strategico Nazionale per la sicurezza dello spazio cibernetico non può prescindere da un inquadramento della minaccia che, in considerazione della sempre maggiore dif­ fusione dell’impiego delle tecnologie ICT nella vita quotidiana – dal semplice paga­ mento di beni e servizi per via telematica alla gestione di infrastrutture critiche e strategiche nazionali – diverrà anch’essa più pervasiva e subdola, col rischio di ve­ nire ignorata o sottovalutata dai fruitori di tali tecnologie.
+
+Nel Capitolo 1, “Profili e tendenze evolu­ tive delle minacce e delle vulnerabilità dei siste­ mi e delle reti di interesse nazionale”, si inten­ de fornire una panoramica delle principali minacce – dalla criminalità informatica allo sfruttamento delle tecnologie ICT per fini terroristici, dall’“hacktivismo” allo spionaggio cibernetico, dal sabotaggio per via informatica ai conflitti nella 5a di­ mensione – e delle vulnerabilità sfruttate per la conduzione di attacchi nello spazio cibernetico, sia di tipo tecnico che di tipo organizzativo e di processo.
+
+Lo spazio cibernetico, tuttavia, è, in prima battuta, un insieme di nodi (i siste­ mi) e di collegamenti (le reti) che, attra­ verso la gestione di una mole sempre mag­ giore di dati, costituiscono una risorsa cruciale per gli Stati, le aziende, i cittadini e tutti gli attori che curano interessi politi­ ci, militari, economici e sociali affidandosi alle nuove tecnologie.
+
+Al fine, quindi, di garantire al Paese la tutela di tali istanze, sono stati identifica­ ti, nel Capitolo 2 “Strumenti e Procedure per potenziare le capacità cibernetiche del Paese”, gli indirizzi strategici che includono il mi­
+
+Executive summary
+
+glioramento, secondo un approccio inte­ grato, delle capacità tecnologiche, ope­ rative e di analisi degli attori istituzionali; il potenziamento delle capacità di difesa delle Infrastrutture Critiche nazionali e de­ gli attori di rilevanza strategica per il siste­ ma-Paese; l’incentivazione della coopera­ zione tra istituzioni e imprese nazionali; la promozione e diffusione della cultura del­ la sicurezza cibernetica; il rafforzamento delle capacità di contrasto alla diffusione di attività e contenuti illegali on-line; il raf­
+
+forzamento della cooperazione nazionale in materia di sicurezza cibernetica.
+
+A corollario di quanto sopra, in Allegato 1 sono elencati i “Ruoli e compiti dei soggetti pubblici”, mentre in Allegato 2 è possibile consultare un breve “Glossario” dei termini tecnici impiegati, al fine di age­ volare la lettura del documento anche da parte dei “non addetti ai lavori”."
+"2","","CAPITOLO 1 — PROFILI E TENDENZE EVOLUTIVE DELLE MINACCE E DELLE VULNERABILITÀ DEI SISTEMI E DELLE RETI DI INTERESSE NAZIONALE","","",""
+"3","","Introduzione — Definizione","","","Lo spazio cibernetico è l’insieme delle infrastrutture informatiche interconnesse, comprensivo di hardware, software, dati ed utenti, nonché delle relazioni logiche, comunque stabilite, tra di essi. Esso dun­ que comprende internet, le reti di comu­ nicazione, i sistemi su cui poggiano i pro­ cessi informatici di elaborazione dati e le apparecchiature mobili dotate di connes­ sione di rete."
+"3","","Una sfida complessa","","","La natura stessa dello spazio ciberne­ tico e dell’informatizzazione, importan­ ti fattori di trasformazione delle società contemporanee, fa emergere problemi culturali, sociali e politici inediti ed in re­ lazione ai quali occorre elaborare e con­ cordare soluzioni efficaci, coerenti e, in molti casi, innovative.
+
+In una Comunità Internazionale anco­ ra caratterizzata da significative divergen­ ze circa le categorie tassonomiche utilizza­ te per definire la realtà politico-strategica
+
+e tecnologica dello spazio cibernetico e circa i valori ed i princìpi che debbono in­ formare l’arena digitale, la ricerca di tali soluzioni, anche all’interno degli Stati più avanzati, non è semplice e richiede un atti­ vo coinvolgimento del settore privato.
+
+L’onere di trovare risposte alle nuove e complesse sfide che emergono dal cyber-spazio non può ricadere sulle sole istituzio­ ni pubbliche, anche in considerazione del fatto che le reti sono in larghissima parte possedute ed operate da soggetti privati i quali devono, quindi, sapere e potere con­ dividere aspettative e responsabilità per la protezione dello spazio cibernetico.
+
+Esso costituisce un dominio virtuale di importanza strategica per lo sviluppo eco­ nomico, sociale e culturale delle nazioni e proprio per questo è necessario equili­ brare con attenzione il rapporto tra Stato ed individuo, tra esigenze di sicurezza na­ zionale e di ordine pubblico, da un lato, e libertà individuali, dall’altro.
+
+Si pensi, ad esempio, come l’ininter­ rotto monitoraggio tecnico della funzio­ nalità delle reti e la protezione dei dati che vi transitano siano essenziale presup­ posto per il pieno godimento del diritto
+
+alla privacy e dell’integrità dei sistemi op­ pure, sempre a titolo di esempio, come possa essere complesso ricercare il giu­ sto equilibrio tra il diritto alla privacy e la necessaria azione di contrasto a crimini come l’uso della rete per lo scambio di materiale pedopornografico, lo spaccio di stupefacenti, l’incitamento all’odio o la pianificazione di atti di terrorismo. Reati che, oltre a ledere specifici diritti, rappresentano un attacco all’idea stessa di un dominio cibernetico libero, demo­ cratico ed aperto."
+"3","","Finalità","","","Il Quadro Strategico Nazionale ed il Piano Nazionale previsti dal DPCM del 24 gennaio 2013 mirano ad accre­ scere la capacità di risposta del Paese alle presenti e future sfide riguardanti il cyber-space, indirizzando gli sforzi nazio­ nali verso obiettivi comuni e soluzioni condivise, nella consapevolezza che la protezione dello spazio cibernetico è un processo più che un fine, che la continua innovazione tecnologica introduce ine­ vitabilmente nuove vulnerabilità, e che le caratteristiche stesse della minaccia cibernetica rendono la difesa, per ora, di tipo prevalentemente – anche se non esclusivamente – reattivo."
+"3","","La minaccia cibernetica ed i suoi attori — Definizione","","","Con minaccia cibernetica intendiamo l’insieme delle condotte controindicate che possono essere realizzate nel e tramite lo spazio cibernetico ovvero in danno di quest’ultimo e dei suoi elementi costitu­
+
+tivi. La minaccia si sostanzia nei c.d. at­ tacchi cibernetici: azioni più o meno au­ tomatizzate sulle reti da parte di singoli individui o organizzazioni, statuali e non, finalizzate a distruggere, danneggiare o ostacolare il regolare funzionamento dei sistemi, delle reti o dei sistemi attuatori di processo da essi controllati ovvero a compromettere l’autenticità, l’integrità, la disponibilità e la riservatezza dei dati ivi custoditi o che vi transitano.
+
+Attualmente gli attacchi più sofisticati possono essere realizzati attraverso l’uso di c.d. “armi cibernetiche” – ossia software malevoli appositamente sviluppati (defi­ niti “malware”), o un insieme di istruzioni informatiche – posti in essere con lo spe­ cifico intento di danneggiare o alterare un sistema informatico anche al fine di pro­ durre danni fisici."
+"3","","Una minaccia insidiosa","","","Una caratteristica saliente della mi­ naccia cibernetica è la sua asimmetricità. L’attaccante infatti:
+
+• può colpire a grandissima distanza, da dovunque nel mondo esista un ac­ cesso alla rete; • potenzialmente può attaccare siste­ mi particolarmente sofisticati e pro­ tetti sfruttandone anche una sola vul­ nerabilità; • può agire con tempi tali da non con­ sentire un’efficace reazione difensiva; • può rimanere anonimo o comunque non facilmente individuabile renden­ do in tal modo estremamente com­ plessa e difficile una corretta risposta da parte dell’attaccato. La natura stessa della minaccia ci­ bernetica, quindi, limita la deterrenza, fa prevalere tendenzialmente l’attacco sul­
+
+la difesa e rende indispensabile, da par­ te dei soggetti principali che operano nel cyber-spazio (Governi ed aziende), l’im­ plementazione di un continuo processo di analisi che permetta loro di adeguare gli standard e le procedure di sicurezza al contesto operativo e tecnologico in veloce cambiamento."
+"3","","Tipi di minaccia","","","A seconda degli attori e delle finalità si usa distinguere la minaccia cibernetica in quattro macro-categorie. Si parla in tal caso di:
+
+• criminalità cibernetica (cyber-crime): complesso delle attività con finalità cri­ minali (quali, per esempio, la truffa o frode telematica, il furto d’identità, la
+
+sottrazione indebita di informazioni o di creazioni e proprietà intellettuali); • spionaggio cibernetico (cyber-espio­ nage): acquisizione indebita di dati/ informazioni sensibili, proprietarie o classificate; • terrorismo cibernetico (cyber-terrorism): insieme delle azioni ideologicamente motivate, volte a condizionare uno sta­ to o un’organizzazione internazionale; • guerra cibernetica (cyber-warfare): in­ sieme delle attività e delle operazio­ ni militari pianificate e condotte allo scopo di conseguire effetti nel predet­ to ambiente."
+"3","","L’impatto economico del cyber-crime","","","Il risiedere sulle reti di una mole sem­ pre crescente di dati aziendali o relativi allo status patrimoniale degli individui grazie ai servizi di cloud computing, assieme al sempre maggiore utilizzo dello spazio cibernetico per attività finanziarie, econo­ miche e commerciali, rendono gli attacchi cibernetici potenzialmente assai lucrativi esponendo l’attaccante, per giunta, ad un rischio relativamente basso.
+
+I danni economici generati dal crimi­ ne informatico sono elevati. In partico­ lar modo nei Sistemi-Paese come l’Italia, per i quali il furto del know-how scientifi­ co, tecnologico ed aziendale comporta un danno diretto e grave alla capacità di rimanere innovativi e dunque di essere competitivi nei mercati internazionali. Inoltre, una parte dell’ingente quantità di capitali illecitamente ottenuti trami­ te i crimini informatici viene reinvestita nella ricerca di nuove vulnerabilità dei sistemi da attaccare e nello sviluppo di strumenti più sofisticati ed efficien­ ti, rendendo il crimine cibernetico una
+
+minaccia sempre più seria e di primaria rilevanza per la stabilità, il benessere e la sicurezza del Paese."
+"3","","Il mercato del computer crime","","","Il computer crime market rappresenta dunque un settore appetibile e redditi­ zio sia per singoli hackers che per orga­ nizzazioni criminali che alimentano un mercato nero in cui è possibile commer­ ciare contenuti illegali (ad esempio stu­ pefacenti, materiale pedopornografico o protetto da copyright) e strumenti per rea­ lizzare, in proprio o con il supporto tec­ nico delle organizzazioni criminali stesse, reati contro il patrimonio (truffe, ricatti, estorsioni, furti, ecc.), sottrazione di dati sensibili e d’identità (ad esempio ai fini di riscatto o per perpetrare altri reati), riciclaggio di capitali illeciti, giochi d’az­ zardo e scommesse illegali.
+
+Si registra, inoltre, un crescente coin­ volgimento dei gruppi criminali che opera­ no nel cyber-space in attività di spionaggio industriale nell’ambito delle quali, anche su mandato di imprese concorrenti, sot­ traggono (o concorrono a sottrarre) bre­ vetti industriali, piani aziendali, studi e ri­ cerche di mercato, analisi e descrizioni dei processi produttivi, ecc."
+"3","","Il ruolo degli Stati","","","Benché lo spazio cibernetico sia una realtà che trascende, sotto molti punti di vista, le frontiere nazionali, gli Stati ne sono, certamente, gli attori più rilevanti nella misura in cui hanno la primaria re­ sponsabilità per la protezione di reti ed infrastrutture collocate sul proprio terri­ torio, pur se detenute ed operate in massi­ ma parte dal settore privato.
+
+Gli Stati, infatti, dispongono di ade­ guate risorse umane e finanziarie, oltre che della capacità di organizzare e gestire per lungo tempo organizzazioni comples­ se. In quanto tali, quindi, essi sono gli at­ tori maggiormente in grado di sviluppare una robusta capacità operativa nello spa­ zio cibernetico.
+
+Se l’assicurare la protezione, la resi­ lienza e la piena operatività delle proprie reti di comunicazione e controllo militari è, da sempre, un’esigenza vitale per ogni Stato, la creazione dello spazio ciberneti­ co (che supporta oggigiorno il funziona­ mento di pressoché ogni infrastruttura critica nazionale, oltre che dei processi produttivi dell’industria e della fornitura di servizi al cittadino) ha imposto la ne­ cessità d’ampliare tale capacità alla difesa delle reti critiche nazionali.
+
+Gli attacchi cibernetici più sofistica­ ti, infatti, non solo sono potenzialmente in grado di danneggiare o paralizzare il funzionamento di gangli vitali dell’ap­ parato statale e la fornitura di servizi essenziali ai cittadini, ma possono avere anche effetti potenzialmente distruttivi (soprattutto in prospettiva) se impiega­ ti per indurre il malfunzionamento delle infrastrutture critiche (ad esempio reti di controllo del traffico aereo, dighe, impianti energetici, ecc.), generando danni materiali ingenti e la potenziale perdita di vite umane.
+
+Il vantaggio strategico derivante dalla possibilità d’infliggere un rilevan­ te danno ad assetti nazionali critici del nemico operando a distanza fa ritenere probabile che i futuri conflitti interna­ zionali comprenderanno anche lo spa­ zio cibernetico. Non sorprende, dunque, che la pianificazione delle forze, presso­ ché ovunque nel mondo, prenda in con­
+
+siderazione la necessità d’assicurare un adeguato livello di cyber-defence agli as­ setti critici nazionali.
+
+Spionaggio, sabotaggio, guerra, supply chain threat
+
+La difesa delle proprie reti implica lo sviluppo di un’efficiente e continua ca­ pacità di monitoraggio e di analisi degli attacchi. Si tratta di strumenti che alcu­ ni Stati stanno sviluppando, attraverso proprie strutture o mediante il ricorso a strutture para-statali, con intenti anche offensivi. Attualmente, diversi Governi si sono dotati delle necessarie capabilities per penetrare le reti nazionali degli altri Stati (in uso sia alle autorità pubbliche che ai privati) a fini di spionaggio o per mappa­ re i sistemi potenzialmente oggetto di un futuro attacco.
+
+In tal senso è necessario segnalare come appaia concreto il rischio che al­ cuni Paesi mobilitino la propria industria nazionale al fine di alterare componen­ ti hardware da essa prodotte acquisendo così la capacità di superare in maniera pressoché irrilevabile ogni difesa posta in essere dall’utilizzatore dell’assetto finito."
+"3","","Hacktivism","","","Vi sono diverse tipologie di attacco motivate ideologicamente, con intento sostanzialmente dimostrativo, che mirano principalmente a creare un danno d’imma­ gine e/o alla funzionalità temporanea di sistemi e reti: si tratta di attacchi, come i Distributed Denial of Service (DDoS), che, at­ traverso il coordinato utilizzo in remoto di reti di computer inconsapevoli (botnets), causano l’intenzionale sovraccarico dei ser­ ver che ospitano un determinato servizio, o i Web Defacements, che alterano i dati di
+
+un determinato sito internet per disinfor­ mazione, calunnia o semplice dileggio. In altri casi, attivisti fanno uso di malware non dissimili da quelli utilizzati da hackers e cri­ minali informatici per sottrarre surrettizia­ mente dati di proprietà dei Governi, delle aziende o degli individui al fine di esporli pubblicamente, o anche solo per dimostra­ re le proprie capacità informatiche."
+"3","","Uso illegale della rete","","","L’arena digitale è uno straordinario strumento per mettere in contatto tra loro, a livello globale, le persone. Esiste però anche il concreto rischio che que­ sta piattaforma e l’ampio anonimato da essa consentito siano sfruttati da chi vuole utilizzare la rete per diffondere odio
+
+razziale, scambiare materiale illegale (ad esempio pedopornografico) o pianificare crimini, atti eversivi ed attentati terrori­ stici. Benché non si possa dire che si sia in presenza di una minaccia cibernetica secondo la definizione sopra abbozzata, in quanto in questo caso la rete digitale viene utilizzata solo quale strumento di comunicazione, è evidente che la natu­ ra stessa dello spazio cibernetico rende la minaccia particolarmente insidiosa. Occorre pertanto affermare chiaramente che nel dominio cibernetico valgono le regole della convivenza civile e del rispet­ to reciproco che già vigono nella società. La sfida che si pone è dunque quella di preservare la libertà di espressione all’in­ terno della rete, assicurando, al pari di
+
+quanto avviene nei domini classici, che essa non venga utilizzata per attività che sarebbero illegali al di fuori della stessa."
+"3","","Terrorismo","","","È possibile ipotizzare che nel pros­ simo futuro gruppi terroristici o singoli individui possano impiegare strumenti cibernetici offensivi ed utilizzarli contro obiettivi militari e civili. I malware potreb­ bero essere loro venduti già “pronti per l’uso” dalle organizzazioni criminali che operano nel computer crime market o esse­ re sviluppati autonomamente, magari a partire dall’analisi di quelli già immessi nello spazio cibernetico (processi di re­ verse engineering). Si tratta di una minac­ cia per ora solo ipotetica, ma occorre vigilare affinché tali strumenti distruttivi rimangano fuori dalla portata di poten­ ziali utilizzatori."
+"3","","Evento inatteso, incidente","","","Il resoconto delle minacce che proma­ nano dallo spazio cibernetico non sareb­ be completo se non tenesse in considera­ zione che, in un dominio caratterizzato da una continua evoluzione tecnologica, non si possono escludere eventi inattesi che pongono sfide tecnologiche o di governan­ ce e che richiedono uno sforzo collettivo mirato e sistemico.
+
+È necessario sottolineare come lo spazio cibernetico sia un dominio creato dall’uomo e, in quanto tale, potenzial­ mente fallibile. Occorre, quindi, svilup­ pare capacità per anticipare e prevenire eventi rari e inattesi assicurando la conti­ nuità di reti e sistemi per quei servizi che sono essenziali alla sicurezza ed alla stabi­ lità del Paese."
+"3","","Analisi delle vulnerabilità","","","Gli attacchi cyber minano la fiducia degli internauti nelle tecnologie ICT e la business continuity sfruttando vulnerabilità sia organizzative, sia di processo, sia tec­ niche, spesso in combinazione tra loro.
+
+Le vulnerabilità organizzative e di processo sono riconducibili non solo alla mancata implementazione di misure per garantire la protezione da malware – attra­ verso, ad esempio, l’adozione di best-prac­ tices e di applicativi anti-virus e anti-spam aggiornati – ma anche all’assenza o alla non corretta attuazione di misure di sicu­ rezza fisica che contemplino, ad esempio, la continuità del servizio e minimizzino l’impatto di eventi, anche naturali, dan­ nosi sull’infrastruttura fisica.
+
+Le vulnerabilità tecniche, invece, sono dovute a falle di sicurezza del sof­ tware applicativo, ovvero dei protocolli di comunicazione. Tra queste ultime, parti­ colare rilievo assumono quelle che inte­ ressano il Domain Name System (DNS), il cui sfruttamento può avere ripercussioni sia sugli utenti che usufruiscono dei ser­ vizi di comunicazione elettronica sia sui gestori di infrastrutture critiche informa­ tizzate. Tali vulnerabilità possono por­ tare ad una indisponibilità del servizio ovvero possono avere effetti sull’integri­ tà delle informazioni restituite dal server dei nomi di dominio. In entrambi i casi lo sfruttamento di tali vulnerabilità può determinare conseguenze estremamente serie in quanto l’impatto determinato dall’impossibilità di raggiungere un fon­ damentale nodo di controllo dell’infra­ struttura potrebbe determinare un grave malfunzionamento della stessa.
+
+Ne deriva, quindi, l’esigenza di limita­ re le sunnotate vulnerabilità, innanzitutto
+
+attraverso un adeguato piano di preven­ zione che faccia dell’analisi del rischio e della gestione e mitigazione del medesi­ mo le fondamenta di una serie di misure di sicurezza fisica, logica e procedurale, che non possono prescindere da un’adeguata formazione, sensibilizzazione e responsa­ bilizzazione del personale nell’adozione e nell’osservanza di tali misure.
+
+Tali misure, funzionali ad una politica di sicurezza delle informazioni, si basano, in linea di principio, su:
+
+• controllo degli accessi al fine di circo­ scrivere gli stessi al solo personale auto­ rizzato e tracciabilità degli spostamenti dello stesso all’interno dell’ambiente di lavoro in modo da proteggere gli appa­ rati da danneggiamenti, manomissioni o furti (misure di tipo fisico); • impiego di prodotti certificati per ov­
+
+viare al problema degli approvvigiona­ menti di prodotti e servizi tecnologici da fornitori esteri “a rischio”, software antivirus aggiornato, sistemi di cifra­ tura e di firma digitale, identificazione e autenticazione degli utenti, moni­ toraggio e tracciabilità degli accessi e delle funzioni svolte in rete da ciascun utente (misure di tipo logico); • norme e procedure dirette a discipli­ nare gli aspetti organizzativi del pro­ cesso della sicurezza, definizione di ruoli, compiti e responsabilità per la gestione di tutte le fasi del processo di sicurezza, adozione di specifiche pro­ cedure che completino e rafforzino le contromisure tecnologiche adottate, controlli sulla consistenza e sull’affi­ dabilità degli apparati (misure di tipo procedurale)."
+"2","","CYBER SECURITY","","","FISICHE
+
+LOGICHE
+
+PROCEDURALI
+
+ANALISI
+
+GESTIONE
+
+MITIGAZIONE
+
+FORMAZIONE, SENSIBILIZZAZIONE
+
+E RESPONSABILIZZAZIONE
+
+DEGLI UTENTI
+
+MISURE — RISCHIO"
+"2","","CAPITOLO 2 — STRUMENTI E PROCEDURE PER POTENZIARE LE CAPACITÀ CIBERNETICHE DEL PAESE","","",""
+"3","","Indirizzi strategici","","","Al fine di garantire al Paese i benefi­ ci sociali ed economici derivanti da uno spazio cibernetico sicuro ed allo scopo di rafforzare le capacità nazionali di pre­ venzione, reazione e ripristino, il presente Quadro Strategico fissa gli indirizzi stra­ tegici che dovranno essere conseguiti at­
+
+traverso uno sforzo nazionale che veda agire, in maniera sinergica e nell’ambito delle rispettive competenze, tutti gli attori che il DPCM 24 gennaio 2013 individua come nodi primari dell’architettura nazio­ nale cyber, con un ruolo di raccordo e im­ pulso del CISR. Essi sono così riassumibili:
+
+miglioramento, secondo un ap­ proccio integrato, delle capaci­ tà tecnologiche, operative e di analisi degli attori istituzionali interessati per consentire agli stessi la messa a punto di azioni idonee ad analizzare, prevenire, mitigare e con­ trastare efficacemente i rischi di una minaccia multi-dimensionale;
+
+potenziamento delle capacità di difesa delle Infrastrutture Critiche nazionali e degli atto­ ri di rilevanza strategica per il sistema-Paese assicurando la business continuity e, al contempo, la compliance con standard e protocolli di sicurezza internazionali;
+
+incentivazione della coopera­ zione tra istituzioni ed impre­ se nazionali al fine di tutelare la proprietà intellettuale e di preservare le capacità di innovazione tecnologica del Paese;
+
+promozione e diffusione della cultura della sicurezza ciber­ netica sia tra i cittadini che all’interno delle istituzioni, an­ che attraverso un sempre maggiore coinvolgimento del mondo della ri­ cerca e delle università, al fine di ac­ crescere il livello di consapevolezza e di conoscenza della minaccia e dei relativi rischi;
+
+rafforzamento delle capacità di contrasto alla diffusione di attività e contenuti illegali on-line affinché siano rispettate le normative nazionali e internazionali;
+
+rafforzamento della coopera­ zione internazionale in materia di sicurezza cibernetica nell’am­ bito delle Organizzazioni di cui l’Italia è membro e con i Paesi alleati;
+
+Al fine di conseguire tali sei indirizzi strategici sono stati identificati 11 indirizzi operativi."
+"3","","Indirizzi operativi","","","Sviluppo delle capacità del Siste­ ma di informazione per la sicurezza della Repubblica, delle Forze di Poli­ zia, delle Forze Armate e delle Auto­ rità preposte alla Protezione ed alla Difesa Civile ai fini di una efficace prevenzione, identificazione, repres­ sione, reazione, contrasto, neutra­ lizzazione e mitigazione degli eventi nello spazio cibernetico, delle cause e degli effetti che questi hanno in particolare sui sistemi di comunica­
+
+Identificazione di un’Autorità nazionale NIS (Network and Infor­ mation Security) che cooperi con le omologhe Autorità degli altri Pae­ si membri della UE e con la Com­ missione Europea, anche tramite la condivisione di informazioni, per contrastare rischi e incidenti relativi a reti e sistemi.
+
+Potenziamento delle partnership pubblico-privato anche per realizza­ re un continuo, affidabile e sicuro scambio di informazioni tramite il quale gli operatori privati possano fornire informazioni sugli attacchi subìti e su anomalie registrate e rice­ vere, a loro volta, assessment sui rischi e sulle vulnerabilità sulla cui base, poi, adeguare i livelli di sicurezza.
+
+La partnership pubblico-privato dovrà essere agevolata anche attra­ verso: • la creazione di tavoli istituzio­ nali congiunti con operatori del settore, nell’ambito dei quali la
+
+zione ed informazione e, di conse­ guenza, sulla società civile e sui beni e servizi a questa forniti.
+
+Incremento delle capacità di monitoraggio e analisi preventiva al fine di anticipare le potenzialità e i rischi connessi alle innovazioni tecnologiche.
+
+Sviluppo delle capacità di piani­ ficazione e condotta delle operazio­ ni militari nello spazio cibernetico.
+
+sicurezza dei sistemi informativi e delle reti di comunicazione do­ vrà prescindere da logiche con­ correnziali; • l’organizzazione di periodiche esercitazioni a livello naziona­ le che coinvolgano, accanto ai diversi attori pubblici, specifici operatori privati; • l’obbligatorietà della segnala­ zione di incidenti informatici nei settori strategici alle Autorità competenti; • la definizione di procedure ope­ rative e template per lo scambio informativo. Scambio di esperienze tra privato e pubblico, allo scopo di implemen­ tare la reciproca conoscenza, anche attraverso l’istituzione di periodi formativi del personale interessato presso singole strutture aziendali o presso le Amministrazioni chiamate a tutelarne la sicurezza.
+
+Definizione di un linguaggio di riferimento unico, chiaro e condivi­ so – da impiegare nei vari ambiti di applicazione – al fine di potenziare l’interoperabilità interministeriale e internazionale.
+
+cibernetiche di competenza dei vari attori con strumenti di simulazio­ ne, addestramento e training on the job, accentrando tali funzioni nei poli formativi e specialistici esistenti all’interno della Pubblica Ammini­ strazione (quali, ad esempio, quel­ li delle F.A.), per evitare fenomeni come quello degli ""insider inconsa­ pevoli"" e mitigare fattori di vulne­ rabilità come quelli legati a modelli organizzativi BYOD.
+
+Predisposizione di questionari atti ad individuare il livello di com­ petenza e consapevolezza (security awareness) di tutti gli attori coinvolti nella sicurezza cibernetica naziona­ le, al fine di individuare punti di for­ za e di debolezza e di predisporre, laddove necessario, adeguati inter­ venti formativi e di sensibilizzazione.
+
+Introduzione di moduli di forma­ zione nelle scuole di ogni grado per promuovere una cultura della sicu­ rezza cibernetica.
+
+Realizzazione di campagne di formazione, addestramento, infor­ mazione e sensibilizzazione a bene­ ficio del personale della Pubblica Amministrazione, di quello delle imprese e della cittadinanza sulla minaccia, attuale e potenziale, sui rischi ad essa connessi e sull’impie­ go responsabile delle ICT.
+
+Predisposizione, con il contri­ buto della comunità accademico-scientifica, di ipotesi di intervento volte a migliorare gli standard ed i livelli di sicurezza dei sistemi e delle reti, identificando anche i necessari supporti di simulazione tecnica di­ stribuita utili allo sviluppo di una capacità di formazione e addestra­ mento collettiva.
+
+Miglioramento e sperimenta­ zione di attività formative e adde­ strative al fine di validare le attività
+
+Rafforzamento dei rapporti di cooperazione e collaborazione con le Organizzazioni internazionali delle quali l’Italia è parte, con i Pa­ esi alleati e con le Nazioni amiche; partecipazione attiva del Paese alle iniziative e ai fora internazionali di trattazione della materia al fine di perseguire: • a livello globale, la definizione di regole comuni e di un quadro di
+
+legittimità internazionale; • a livello europeo, la tutela de­ gli interessi vitali, strategici e contingenti dell’UE, dei flussi e degli scambi informatici le­ gati al Mercato Unico; il rag­ giungimento di una capacità di resilienza cibernetica comu­ ne; una drastica riduzione del cyber crime; lo sviluppo di una politica di difesa cibernetica e
+
+delle relative capacità operati­ ve in armonia con la Common Security and Defence Policy; lo svi­ luppo delle risorse tecnologiche e industriali per la sicurezza ci­ bernetica e la condivisione dei princìpi di cui alla Strategia di sicurezza cibernetica dell’UE, nonché nel rispetto degli impe­ gni assunti in sede di Consiglio d’Europa e OSCE; • a livello atlantico, per preservare l’efficienza e l’interoperabilità dei dispositivi di difesa comune al fine soprattutto di incorpora­ re nel processo di pianificazione della difesa in ambito NATO un’efficace postura contro at­ tacchi cibernetici, a tutela de­ gli interessi vitali, strategici e/o
+
+Realizzazione della piena opera­ tività del CERT nazionale (già indi­ viduato nell’ambito del Ministero dello Sviluppo Economico ai sensi dell’art. 16 bis del Decreto Legislati­ vo 1 agosto 2003, n. 259) al fine di potenziare gli strumenti di rilevazione e contrasto delle minacce ed i mec­ canismi di risposta agli incidenti, tra­ mite un sistema sicuro e riservato di condivisione delle informazioni.
+
+Tale struttura definisce un mo­ dello di comunicazione condiviso con gli altri CERT ed uno schema di accreditamento al fine di indivi­ duare ruoli, domini di competenza e punti di contatto supportando la costruzione di un’adeguata commu­ nity per la sicurezza nazionale.
+
+contingenti dello Stato e della NATO; • a livello bilaterale, con quei Paesi di interesse strategico o poten­ ziali destinatari di iniziative mul­ tilaterali di assistenza tecnica o capacity-building. Partecipazione alle esercitazioni di cyber security organizzate dall’ENI­ SA e dalla NATO al fine di verificare e migliorare l’efficacia degli asset­ ti nazionali anche nell’ambito dei rapporti di cooperazione con altri Paesi.
+
+La partecipazione al dibattito in­ ternazionale deve essere proiettata anche ad un efficace posizionamen­ to strategico del relativo comparto industriale italiano.
+
+Sviluppo del CERT nazionale sul­ la base di un modello cooperativo pubblico-privato finalizzato a sup­ portare cittadini e imprese tramite azioni di sensibilizzazione, di pre­ venzione e di coordinamento della risposta ad eventi cibernetici su va­ sta scala.
+
+Attivazione di meccanismi di co­ operazione in ambito nazionale e in­ ternazionale, individuando nel CERT nazionale le funzioni di collegamen­ to con altri CERT pubblici e privati operanti sul territorio e di interfaccia verso il CERT europeo e verso i CERT di altri Stati.
+
+Sviluppo di una piattaforma di coordinamento tecnico e funzionale tra tutti i CERT esistenti che permet­
+
+rie. Esso collabora con i CERT della pubblica amministrazione a livello europeo ed internazionale, attraver­ so scambi informativi e procedure concordate.
+
+ta il flusso informativo necessario all’attività di prevenzione e risposta.
+
+Sviluppo e piena operatività del CERT-PA, quale evoluzione del CERT-SPC previsto dal DPCM re­ cante regole tecniche e di sicurezza SPC dell’1 aprile 2008. Il CERT-PA è il punto di riferimento delle pub­ bliche amministrazioni attivando l’escalation verso il CERT Nazionale secondo modelli e procedure unita­
+
+Il CERT della Difesa segue le evoluzioni tecnico-funzionali e pro­ cedurali del NCIRC e il suo impiego dovrà essere previsto nei piani di operazione.
+
+Garantire, attraverso proposte di intervento normativo ed orga­ nizzativo, la continua efficacia del­ le misure di sicurezza cibernetica
+
+adattando la legislazione all’evo­ luzione della tecnologia e dei suoi nuovi utilizzi.
+
+Individuazione di standard per la sicurezza di prodotti e sistemi che implementano protocolli di sicu­ rezza. Introduzione di processi di certificazione di conformità a tali standard e, ove necessario, imple­ mentazione di nuovi processi di approvvigionamento dei prodotti IT in ambito nazionale garantendo l’interoperabilità internazionale so­ prattutto con gli alleati della NATO e dell’UE.
+
+Elaborazione ed adozione di norme tecniche che garantiscano la sicurezza delle informazioni (in­ tegrità, disponibilità e riservatezza) attraverso l’introduzione di meto­ dologie di progettazione sicura dei prodotti e dei sistemi.
+
+Miglioramento del supporto agli utenti, anche attraverso l’introdu­ zione di opportuni incentivi di mer­ cato al fine di promuovere la sicu­ rezza dei prodotti disponibili.
+
+Cooperazione con il comparto industriale per la definizione di pia­ ni per la sicurezza di reti e sistemi nonché per la tutela delle alte tec­ nologie.
+
+Predisposizione di servizi pubbli­ ci di assistenza e collaborazione a supporto, in particolare, delle pic­ cole e medie imprese (PMI).
+
+Creazione di una supply chain vir­ tuosa attraverso una metodologia predefinita e con il ricorso a mec­ canismi di audit sui sistemi e sui for­ nitori per incentivarne la verifica di affidabilità.
+
+Sviluppo, all’interno della Pubbli­ ca Amministrazione, di un processo flessibile e celere di acquisizione, va­ lidazione, verifica e certificazione dei prodotti in armonia con la rapida evoluzione tecnologica del settore.
+
+Mantenimento di una stretta coe­ renza tra le comunicazioni strategiche e le attività condotte nell’ambiente cibernetico (che è nel contempo sog­ getto e oggetto di comunicazioni stra­ tegiche) affinché il sistema-Paese ab­ bia maggiori strumenti di prevenzione e risposta agli eventi di tale natura.
+
+Attribuzione, ai settori strate­ gici della P.A. di adeguate risorse umane, finanziarie, tecnologiche e logistiche per il conseguimento de­ gli obiettivi programmatici, a breve e medio termine e, di conseguenza,
+
+Implementazione di un sistema integrato di Information Risk Manage­ ment nazionale in grado di: • realizzare una struttura efficace per la prevenzione e la gestione del rischio nazionale;
+
+Previsione di incentivi volti a stimolare la competitività indu­ striale nazionale e tecnologica in particolare: potenziando le atti­ vità di R&S da destinare a settori strategici delle F.A. ed ai centri di eccellenza nazionale per la realiz­ zazione di strumenti ed applicazio­ ni maggiormente resilienti e sicuri, nonché atti a garantire efficaci ca­ pacità operative.
+
+Una strategia di dissuasione nei confronti di potenziali avversari o criminali può trovare supporto in una oculata comunicazione istitu­ zionale sulle capacità nazionali di dissuasione e deterrenza nello spa­ zio cibernetico.
+
+per un effettivo ed efficace perse­ guimento degli obiettivi indicati nel Quadro Strategico.
+
+• identificare ed individuare po­ tenziali rischi di carattere nazio­ nale; • produrre politiche di riferimento per la gestione del rischio."
+"3","","La centralità della partnership pubblico-privato (PPP)","","","Il DPCM 24 gennaio 2013 include tra gli attori dell’architettura nazionale pre­ posta a garantire la protezione cibernetica e la sicurezza informatica nazionale, oltre ai soggetti pubblici, anche gli operatori privati che “forniscono reti pubbliche di comunicazione o servizi di comunicazione elettronica accessibili al pubblico, quelli che gestiscono infrastrutture critiche di rilievo nazionale ed europeo, il cui funzio­ namento è condizionato dall’operatività di sistemi informatici e telematici”.
+
+Ai sensi del citato provvedimento, tali soggetti sono tenuti a:
+
+• comunicare al Nucleo per la Sicurezza Cibernetica (NSC) ogni significativa violazione della sicurezza o dell’inte­ grità dei propri sistemi informatici; • adottare le best practices e le misure finalizzate a conseguire la sicurezza ci­ bernetica; • fornire informazioni agli organismi di informazione per la sicurezza, consen­ tendo anche l’accesso alle banche dati d’interesse ai fini della sicurezza ciber­ netica;
+
+• collaborare alla gestione delle crisi ci­ bernetiche contribuendo al ripristino della funzionalità dei sistemi e delle reti da essi gestiti. Il partenariato pubblico-privato co­ stituisce, pertanto, un principio impre­ scindibile per il successo di ogni strate­ gia di sicurezza cibernetica. Nei sistemi economico-istituzionali moderni, infatti, gran parte delle infrastrutture che gesti­ scono servizi pubblici essenziali e quelle di rilevanza strategica per il sistema-Paese, sono affidate all’iniziativa di operatori economici privati. La necessaria colla­ borazione con questi ultimi ha dato vita ad appositi accordi finalizzati a rendere ancor più strutturata la cooperazione in tale ambito. Nell’ottica di un suo ulteriore rafforzamento, da conseguire attraverso un processo incrementale, le sinergie da sviluppare dovranno interessare, accanto ai soggetti menzionati, anche altre realtà nazionali che, al di là delle dimensioni, rappresentano segmenti di punta per lo sviluppo scientifico, tecnologico, indu­ striale ed economico del Paese."
+"2","","ALLEGATO 1 — RUOLI E COMPITI DEI SOGGETTI PUBBLICI","","","Il DPCM del 24 gennaio 2013 ha de­ lineato un assetto istituzionale preposto alla protezione cibernetica ed alla sicurez­ za informatica, nel quale i diversi attori in­ teressati, sia pubblici sia privati, agiscono in maniera integrata allo scopo di ridurre le vulnerabilità dello spazio cibernetico, identificare le minacce, prevenire i rischi ed accrescere le capacità di risposta a si­ tuazioni di crisi.
+
+Al vertice dell’architettura si colloca il Presidente del Consiglio dei Ministri, che adotta il Quadro Strategico ed il Piano Nazionale per la sicurezza dello spazio cibernetico, per la cui attuazione emana apposite direttive, supportato in ciò dal Comitato Interministeriale per la Sicurezza della Repubblica (CISR), il qua­ le, oltre a elaborare proposte di intervento normativo, approva le linee di indirizzo di­ rette a favorire la collaborazione pubbli­ co-privati nonché una politica di condivi­ sione delle informazioni e per l’adozione di best practices e di misure per la sicurez­ za cibernetica. La verifica dell’attuazione
+
+delle misure previste dal Piano Nazionale per la sicurezza dello spazio cibernetico, quale emanazione del presente Quadro Strategico Nazionale, spetta ad un appo­ sito “organismo collegiale di coordina­ mento” (cd. CISR tecnico).
+
+A supporto del vertice politico ope­ ra il Comparto intelligence, che conduce attività di ricerca informativa, nonché provvede alla formulazione di analisi, va­ lutazioni e previsioni sulla minaccia ciber­ netica, alla promozione della cultura della sicurezza cibernetica, ed alla trasmissione di informazioni rilevanti al Nucleo per la Sicurezza Cibernetica, oltre che ad altri soggetti – pubblici e privati – interessati all’acquisizione di informazioni.
+
+Il Nucleo per la Sicurezza Cibernetica (NSC), istituito nell’ambito dell’Ufficio del Consigliere Militare presso la Presidenza del Consiglio dei Ministri, coordinando, nel rispetto delle rispettive competenze, i diversi attori che compongono l’architet­ tura istituzionale, provvede alla prevenzio­ ne e preparazione ad eventuali situazioni
+
+di crisi ed all’attivazione delle procedure di allertamento. Ai fini della prevenzione e della preparazione ad eventuali situazioni di crisi, ferma restando, in capo alle distinte Amministrazioni, la responsabilità, la tito­ larità, la custodia, tutela ed elaborazione dei dati e delle informazioni contenute nelle singole basi di dati e/o archivi tele­ matici, il Nucleo:
+
+• promuove la programmazione e la pia­ nificazione operativa della risposta a situazioni di crisi cibernetica da parte dei soggetti pubblici e degli operatori privati interessati, e l’elaborazione delle procedure di coordinamento intermi­ nisteriale per la gestione delle crisi; • mantiene attiva (24/7) un’unità di al­ lertamento e risposta;
+
+• valuta e promuove procedure di con­ divisione delle informazioni per la diffusione di allarmi e per la gestione delle crisi; • acquisisce informazioni – anche da operatori privati che forniscono reti pubbliche di comunicazione o ser­ vizi di comunicazione elettronica accessibili al pubblico, o che gesti­ scono infrastrutture critiche di rilie­ vo nazionale ed europeo – in merito ad incidenti significativi concernen­ ti violazioni di sicurezza o perdita dell’integrità. I soggetti privati col­ laborano attivamente alla gestione delle crisi e contribuiscono al ripri­ stino della funzionalità dei sistemi e delle reti da essi gestiti;
+
+• promuove e coordina lo svolgimento di esercitazioni interministeriali e la partecipazione a quelle internazionali; • costituisce punto di riferimento na­ zionale per i rapporti con l’ONU, la NATO, la UE, altre organizzazioni in­ ternazionali ed altri Stati. Ai fini dell’attivazione delle azioni di ri­ sposta e ripristino, invece, il Nucleo riceve le segnalazioni di evento cibernetico e di­ rama i relativi allarmi. Laddove l’evento assuma dimensioni, intensità o natura tali da incidere sulla sicurezza naziona­ le o non possa essere fronteggiato dalle
+
+singole amministrazioni competenti, ma richieda l’assunzione di decisioni coor­ dinate in sede interministeriale, dichiara la situazione di crisi cibernetica e attiva il Nucelo Interministeriale Situazione e Pianificazione (NISP), quale “Tavolo in­ terministeriale di crisi cibernetica”. Esso assicura che le attività di reazione e sta­ bilizzazione di competenza delle diverse Amministrazioni ed enti vengano esple­ tate in maniera coordinata, avvalendosi del Computer Emergency Response Team (CERT) nazionale, istituito presso il Ministero dello Sviluppo Economico."
+"2","","RUOLI E COMPITI DEI DIVERSI SOGGETTI PUBBLICI","","",""
+"3","","AGENZIA PER L’ITALIA DIGITALE","","","Perseguimento degli obiettivi definiti dall’Agenda Digitale Italiana attraverso il mo­ nitoraggio dei piani di ICT delle pubbliche amministrazioni e la promozione annuale di nuovi, in linea con l’Agenda digitale europea.
+
+• Svolge attività di progettazione e co­ ordinamento delle iniziative strategi­ che per la più efficace erogazione di servizi in rete della P.A. a cittadini ed imprese;
+
+• detta indirizzi, regole tecniche e linee guida in materia di sicurezza infor­ matica e di omogeneità dei linguaggi, delle procedure e degli standard, anche di tipo aperto, in modo da assicurare, tra l’altro, la piena interoperabilità e cooperazione applicativa tra i sistemi informatici della P.A. e tra questi e i sistemi dell’Unione Europea (D.L. 22 giugno 2012, n. 83, art. 20 co. 3 lit b);
+
+• assicura la qualità tecnica e la sicu­ rezza dei sistemi informativi pubblici e della loro rete di interconnessione per salvaguardare il patrimonio in­ formativo della PA e garantire inte­ grità, disponibilità e riservatezza dei
+
+servizi erogati ai cittadini, con livelli di servizio omogenei sul territorio na­ zionale, provvedendo anche alla loro piena integrazione a livello europeo. In particolare l’attività è riferita alle basi di dati di interesse nazionale, se­ gnatamente a quelle identificate come critiche (art. 2-bis del D.L. 179/2012 come modificato dalla legge di conver­ sione L. 221/2012);
+
+• opera il CERT-SPC, CERT del Sistema Pubblico di Connettività, attuandone la trasformazione in CERT-PA, CERT della Pubblica Amministrazione, che garantisce la sicurezza cibernetica dei sistemi informativi della P.A., oltre che della loro rete di interconnessione, provvedendo al coordinamento delle strutture di gestione della sicurezza ICT – ULS, SOC e CERT, operanti ne­ gli ambiti di competenza. Il CERT-PA coopera con il CERT Nazionale e con
+
+il CERT Difesa per il raggiungimento degli obiettivi di sicurezza nazionale;
+
+• funge da snodo per incrementare la partecipazione italiana ai programmi europei e nazionali finalizzati allo svi­ luppo della società dell’informazione;
+
+• segue i processi di informatizzazione dei documenti amministrativi, vigila sulla qualità dei servizi e sulla razio­ nalizzazione della spesa in materia in­ formatica, contribuisce alla diffusione dell’utilizzo delle tecnologie dell’infor­
+
+mazione e della comunicazione allo scopo di favorire l’innovazione e la crescita economica, anche mediante l’accelerazione della diffusione delle Reti di nuova generazione;
+
+• cura la promozione e diffusione delle iniziative di alfabetizzazione informa­ tica mediante tecnologie didattiche innovative rivolte ai cittadini, ai dipen­ denti pubblici, anche mediante intese con la Scuola Superiore della P.A. e il Formez."
+"3","","PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIS, AISE, AISI","","","Attività informativa finalizzata a rafforzare la protezione cibernetica e la sicurezza informatica nazionali.
+
+• Il DIS e le Agenzie svolgono la propria attività nel campo della sicurezza ci­ bernetica avvalendosi degli strumenti e secondo le modalità e le procedu­ re stabilite dalla legge n. 124/2007, così come modificata dalla legge 133/2012. A tal fine, il Direttore Ge­ nerale del DIS, sulla base delle diretti­ ve adottate dal Presidente del Consi­ glio dei Ministri – volte a rafforzare le attività di informazione per la prote­ zione delle infrastrutture critiche (ma­ teriali e immateriali), con particolare riguardo alla protezione cibernetica e alla sicurezza informatica nazionali – e alla luce degli indirizzi generali e degli obiettivi fondamentali individuati dal CISR, cura il coordinamento delle at­ tività di ricerca informativa finalizzate a rafforzare la protezione cibernetica e la sicurezza informatica nazionali;
+
+• il DIS, attraverso i propri uffici: – assicura il supporto al Direttore generale per l’espletamento delle attività di coordinamento; – provvede, sulla base delle infor­ mazioni, analisi e rapporti prove­ nienti dai servizi di informazione
+
+per la sicurezza, dalle F.A. e FF.PP., dalle amministrazioni dello Stato e da enti di ricerca anche privati, e alla luce delle acquisizioni prove­ nienti dallo scambio informativo tra l’AISE, l’AISI e le FF.PP., e dei dati acquisiti da pubbliche ammi­ nistrazioni e dai soggetti erogatori di servizi di pubblica utilità, alla formulazione di analisi, valuta­ zioni e previsioni sulla minaccia cibernetica; – provvede, in base a quanto di­ sposto dal DPCM 24 gennaio 2013, alla trasmissione di infor­ mazioni rilevanti ai fini della si­ curezza cibernetica al Nucleo per la sicurezza cibernetica, alle pub­ bliche amministrazioni e agli altri soggetti, anche privati, interessa­ ti all’acquisizione di informazioni per la sicurezza; – definisce, in base a quanto dispo­ sto dal DPCM 22 luglio 2011, le misure di sicurezza cibernetica che devono essere adottate a prote­ zione dei sistemi e delle infrastrut­ ture informatiche che trattano informazioni classificate o coperte
+
+dal segreto di Stato, provvedendo alle relative omologazioni tecni­ che e valutando le eventuali vio­ lazioni di sicurezza o compromis­ sioni di informazioni classificate conseguenti ad eventi accidentali o intenzionali;
+
+• le Agenzie, ciascuna nell’ambito delle rispettive attribuzioni, svolgono, se­ condo gli indirizzi definiti dalle diretti­ ve del Presidente del Consiglio dei Mi­ nistri e le linee di coordinamento delle attività di ricerca informativa stabili­ te dal Direttore Generale del DIS, le attività di ricerca e di elaborazione informativa rivolte alla protezione ci­ bernetica e alla sicurezza informatica nazionali;
+
+• il DIS e le Agenzie corrispondono con le pubbliche amministrazioni, i sog­ getti erogatori di servizi di pubblica utilità, le università e con gli enti di ricerca, stipulando a tal fine apposite convenzioni. Per le stesse finalità, le
+
+pubbliche amministrazioni ed i sog­ getti erogatori di servizi di pubbli­ ca utilità consentono l’accesso del DIS e delle Agenzie ai propri archivi informatici secondo le modalità e con le procedure previste dal DPCM n. 4/2009;
+
+• il DIS pone in essere ogni iniziativa volta a promuovere e diffondere la co­ noscenza e la consapevolezza in me­ rito ai rischi derivanti dalla minaccia cibernetica e sulle misure necessarie a prevenirli, anche sulla base delle indi­ cazioni del comitato scientifico;
+
+• il DIS redige il documento di sicurezza nazionale concernente le attività rela­ tive alla protezione delle infrastrut­ ture critiche, materiali e immateriali, nonché alla protezione cibernetica e alla sicurezza informatica, da allegare alla relazione annuale al Parlamento sulla politica dell’informazione per la sicurezza."
+"3","","MINISTERO DEGLI AFFARI ESTERI","","","Rappresenta nei massimi consessi politici multilaterali e internazionali la posizione nazionale.
+
+• Assicura coerenza alla promozione e tutela degli interessi italiani in materia nelle sedi e ai vari livelli internazionali di trattazione;
+
+• coordina la partecipazione e l’impe­ gno italiano, ivi incluso il contributo del settore privato e dell’accademia, presso i diversi fora multilaterali di trattazione della materia;
+
+• negozia, in concorso con gli altri or­ gani nazionali competenti, le intese e gli accordi internazionali di disciplina della materia, verificandone la com­ patibilità e l’opportunità rispetto alle linee strategiche di proiezione interna­ zionale del Paese negli specifici volet di declinazione (politiche di sicurezza, tutela dei diritti umani e della libertà fondamentali, contrasto alle minacce transnazionali, salvaguardia e svilup­
+
+po dei flussi finanziari, economici e commerciali, ecc.);
+
+• collabora al recepimento interno degli obblighi internazionalmente assunti e dei nuovi orientamenti di disciplina della materia in ambito internazionale (soft law, CSBM);
+
+• coordina e assicura i servizi e le attivi­ tà, ivi inclusa l’adeguata sensibilizza­ zione e formazione del personale, per garantire la protezione, la resilienza e l’efficienza dei sistemi informativi e di comunicazione sicura presso la Farne­ sina e la Rete diplomatico-consolare;
+
+• partecipa alle community di sicurezza del Sistema Pubblico di Connettività (SPC), attraverso la c.d. Unità Loca­ le di Sicurezza (CERT-MAE), ufficial­ mente accreditata presso il CERT- SPC."
+"3","","MINISTERO DELL’INTERNO Autorità nazionale di pubblica sicurezza","","","Tutela dell’ordine e della sicurezza pubblica, di soccorso pubblico e difesa civile anche a fronte delle minacce che interessano lo spazio cibernetico o da questo proma­ nano con impatto sulla popolazione, sulle istituzioni, sulle imprese e sulla continuità dell’attività del governo.
+
+• Assicura, attraverso il Dipartimento della Pubblica Sicurezza, la preven­ zione ed il contrasto dei crimini in­ formatici;
+
+• garantisce, attraverso la Polizia Posta­ le e delle Comunicazioni, l’integrità e la funzionalità della rete informa­ tica, ivi compresa la protezione delle infrastrutture critiche informatizzate (attraverso il Centro Nazionale Anti­ crimine Informatico per la Protezione delle Infrastrutture Critiche - CNAI­ PIC), la prevenzione ed il contrasto degli attacchi informatici alle struttu­ re di livello strategico per il Paese, la sicurezza e la regolarità dei servizi di telecomunicazione, il contrasto del­ la pedopornografia online, nonché il contrasto degli illeciti concernenti i
+
+mezzi di pagamento e il diritto d’auto­ re in tutti i casi in cui l’utilizzo distorto dello strumento informatico o delle tecnologie di rete rappresenti il modo esclusivo o assolutamente prevalente di perpetrazione degli stessi;
+
+• concorre alla prevenzione e al contra­ sto delle attività terroristiche e di age­ volazione del terrorismo condotte con mezzi informatici;
+
+• assicura attività di prevenzione e con­ trasto a fronte dell’ampia tipologia di crimini informatici;
+
+• opera in proiezione preventiva rispet­ to al crimine informatico attraverso costanti iniziative di sensibilizzazione dei cittadini al tema della sicurezza informatica."
+"3","","MINISTERO DELLA DIFESA","","","Difesa dello Stato, missioni per la realizzazione della pace e sicurezza e concorso alla salvaguardia delle libere istituzioni.
+
+• Definisce e coordina la politica milita­ re, la governance e le capacità militari nell’ambiente cibernetico;
+
+• pianifica, conduce e sostiene opera­ zioni (Computer Network Operations – CNO) nello spazio cibernetico atte a prevenire, localizzare, difendere (atti­ vamente e in profondità), contrastare e neutralizzare ogni possibile minaccia e/o azione avversaria cibernetica, por­ tata alla reti, ai sistemi ed ai servizi della Difesa sul territorio nazionale o nei teatri operativi fuori dai confini nazionali, nel quadro della propria missione istituzionale. In tale quadro, la Difesa negozia le intese e gli accordi internazionali di disciplina della ma­ teria, coordina le proprie attività nel settore cyber-militare con NATO, EU e le Difese di altri Paesi amici e alleati;
+
+• contribuisce al flusso informativo a supporto delle operazioni ciberneti­ che delle F.A. oltre i confini naziona­ li ai sensi della legge 3 agosto 2007, n.124 e successive modifiche;
+
+• concorre alla prevenzione e al con­ trasto delle attività terroristiche e di
+
+agevolazione al terrorismo condotte con mezzi informatici contro le F.A. in campo nazionale o in operazioni fuori dai confini nazionali ai sensi della leg­ ge 3 agosto 2007, n. 124 e successive modifiche;
+
+• assicura tutti quei servizi e quelle at­ tività necessari a garantire la prote­ zione, la resilienza e l’efficienza del Si­ stema Militare e concorre alle attività di reazione e stabilizzazione rispetto a situazioni di crisi di natura ciberneti­ ca nazionale attraverso collegamenti funzionali e tecnici del CERT Difesa con il CERT Nazionale ed il CIRC della NATO;
+
+• concorre alla prevenzione e al contra­ sto degli attacchi ai sistemi di comu­ nicazione e informazione di rilevanza strategica per gli interessi nazionali;
+
+• assicura la formazione e l’addestra­ mento del proprio personale e mette a disposizione i propri centri di formazio­ ne in favore delle altre Amministrazioni."
+"3","","MINISTERO DELL’ECONOMIA E DELLE FINANZE","","","Tutela il risparmio nazionale nella sua accezione più ampia (dalle regolamentazione dei mercati finanziari alle società partecipate), essa gestisce inoltre l'accertamento e riscossione dei tributi, ed in questo ambito l'Anagrafe tributaria.
+
+• Il MEF, nel suo complesso e per il tra­ mite dei propri Dipartimenti, Agenzie Fiscali e della Guardia di Finanza, è re­ sponsabile di numerose Infrastrutture Critiche Informatizzate Nazionali ed è dotato di una complessa organizza­ zione di sicurezza;
+
+• partecipa attivamente alle community di sicurezza del Sistema Pubblico di Connettività (SPC), attraverso le c.d. Unità Locali di Sicurezza, ULS MEF/ Sogei e ULS DF/Sogei, ufficialmente accreditate presso il CERT-SPC, che
+
+curano il coordinamento delle attività di prevenzione e gestione degli inci­ denti nell’ambito del SPC;
+
+• in ambito MEF sono operativi enti e strutture organizzative all’interno del­ le quali operano unità preposte a ga­ rantire la sicurezza informatica delle proprie reti e sistemi, ovvero a svolge­ re compiti di prevenzione e repressio­ ne delle frodi di carattere economico/ finanziario realizzate attraverso le reti telematiche e le tecnologie informati­ che (Guardia di Finanza)."
+"3","","MINISTERO DELLO SVILUPPO ECONOMICO Dipartimento per le Comunicazioni","","","Promuove, sviluppa e disciplina il settore delle comunicazioni elettroniche.
+
+• È l’Autorità nazionale di regolamen­ tazione in materia di sicurezza ed in­ tegrità delle reti di comunicazione elettronica, ai sensi dell’art. 16 bis del d.lvo n. 259 del 2003, relazionandosi su tali materie con organismi naziona­ li ed internazionali;
+
+• ai sensi del predetto decreto: – individua le misure di natura tec­ nico-organizzativa di sicurezza e integrità delle reti e verifica il ri­ spetto delle stesse da parte degli operatori di rete e fornitori di ser­ vizi di comunicazioni elettroniche; – riceve dagli operatori di reti e fornitori di servizi le segnalazioni relative ad incidenti con impatto significativo per il successivo inol­ tro alla Commissione Europea e all’Agenzia ENISA; – svolge le funzioni di CERT nazio­ nale; – rappresenta, per il tramite del Direttore dell’Istituto Superiore delle Comunicazioni e delle tec­ nologie dell’informazione, il Paese
+
+nell’ambito della Agenzia europea per la sicurezza delle reti e dell’in­ formazione (ENISA);
+
+• l’ISCOM: – è l’Organismo di Certificazione del­ la Sicurezza Informatica (OCSI); – partecipa alle iniziative coordina­ te dall’Agenzia ENISA in materia di protezione delle infrastrutture critiche informatizzate; – partecipa ai lavori in diversi con­ testi internazionali ed europei in materia di Internet Governance; – effettua la vigilanza nell’ambito del Registro Italiano ccTLD“it”; – è coinvolto nel programma comu­ nitario safer internet; – svolge attività di ricerca in colla­ borazione con Enti di ricerca ed Università nei diversi settori del­ le comunicazioni elettroniche al fine di individuare azioni concre­ te per l’attuazione degli obiettivi perseguiti dall’Agenda Digitale Europea;
+
+• l’Osservatorio Permanente per la Si­ curezza e la Tutela delle Reti e del­ le Comunicazioni – presieduto dal Capo del Dipartimento per le Comu­ nicazioni – cura la formazione della cultura della sicurezza, la redazione
+
+del repertorio delle prestazioni obbli­ gatorie che gli Internet Service Providers (ISPs) devono mettere a disposizione dell’AG, la promozione dell’accesso ad Internet, ecc."
+"2","","ALLEGATO 2 — GLOSSARIO","","","AGCOM – Autorità per le Garanzie
+
+nelle Comunicazioni Autorità indipendente istituita dalla legge 249 del 1997, avente il duplice compito di assicurare, da un lato, la corretta competizione degli operatori sul mercato e, dall’altro, di tutelare i consumi e le liberta fondamentali dei cittadini.
+
+APT – Advanced Persistent Threat
+
+Minaccia consistente in un attacco mirato, volto ad installare una serie di malware all’interno delle reti del bersaglio al fine di riuscire a mantene­ re attivi dei canali che servono a far uscire informazioni di valore dalle reti dell’ente obiettivo.
+
+BYOD – Bring Your Own Device
+
+Politica che permette ai dipendenti di un’azienda di portare i propri dispo­ sitivi mobili (pc portatili, smartphone e tablet) sul posto di lavoro e di im­ piegarli per accedere ad informazioni e ad applicazioni aziendali come, ad esempio, la posta elettronica.
+
+ccTLD – Country Code Top Level Do­
+
+main Ultima parte del nome di dominio In­ ternet usato da uno Stato. È costituito da due lettere: “.it” per l’Italia.
+
+CERT – Computer Emergency Re­
+
+sponse Team Organizzazione con compiti di pre­ venzione e di coordinamento della risposta ad eventi cibernetici. Diversi CERT svolgono anche funzioni di for­ mazione ed informazione nei confron­ ti degli utenti.
+
+CERT-PA – Computer Emergency Re­
+
+sponse Team – Pubblica Ammini­ strazione Evoluzione del CERT-SPC (cfr. voce successiva) con competenza estesa ai sistemi informativi della Pubblica Amministrazione ed ai servizi erogati per il loro tramite, oltre che alla rete di interconnessione. Esso ha il compito di supportare e coordinare la PA nella prevenzione, risposta e rientro dagli incidenti.
+
+CERT-SPC – Computer Emergency
+
+Response Team - Sistema Pubbli­ co di Connettività Struttura responsabile, a livello nazio­ nale, per la prevenzione, il monitorag­ gio, il coordinamento informativo e l’analisi degli incidenti di sicurezza in ambito SPC. Essa ha anche il compi­ to di assicurare l’applicazione di me­ todologie coerenti ed uniformi per la gestione degli incidenti informatici. Il CERT-SPC è referente delle Unità Locali di Sicurezza (ULS) istituite per ogni dominio connesso al SPC.
+
+CNA – Computer Network Attack
+
+Attività condotte nel e attraverso il cyber-spazio allo scopo di manipola­ re, interrompere il flusso, negare, de­ gradare o distruggere le informazioni presenti nei computer o nelle reti di computer, ovvero gli stessi computer o reti di computer.
+
+CNAIPIC – Centro Nazionale Anticri­
+
+mine Informatico per la Protezio­ ne delle Infrastrutture Critiche Il CNAIPIC, previsto dalla legge 155 del 2005 ed istituito con Decreto del Ministro dell’Interno del 9 febbraio 2008, è costituito in seno al Servizio di Polizia Postale e delle Comunica­ zioni, organo per la sicurezza e per l’integrità dei servizi di telecomunica­ zione del Ministero dell’Interno, Au­ torità Nazionale di Pubblica Sicurez­ za. Il centro, per espressa previsione normativa, ha il compito di garantire la prevenzione e la repressione dei crimini informatici rivolti verso le infrastrutture critiche o di rilevanza nazionale, anche attraverso rappor­ ti di partnership definiti in apposite
+
+convenzioni con i responsabili delle strutture interessate.
+
+CND – Computer Network Defence
+
+Azioni intraprese con l’uso di reti di computer per proteggere, monitorare, analizzare, rilevare e contrastare le at­ tività non autorizzate condotte verso sistemi informatici e reti di computer.
+
+CNE – Computer Network Exploita­
+
+tion Operazioni condotte nel cyber-spazio al fine di acquisire informazioni da si­ stemi informatici o reti target o avver­ sarie. Trattasi di attività di intelligence o di attività prodromica ad un attacco cyber.
+
+CNO – Computer Network Operations
+
+Con tale termine si identificano ge­ nericamente attività di Computer Network Attack (CNA), Computer Network Defence (CND) e Computer Network Exploitation (CNE).
+
+CPS – Cyber Physical System
+
+Sistema informatico che gestisce e controlla entità fisiche in settori quali le infrastrutture civili, il settore aero­ spaziale, dei trasporti, sanitario, ener­ getico e dei processi produttivi.
+
+CSBM – Confidence and Security
+
+Building Measures Misure volte a prevenire o a risolvere ostilità fra Stati e ad evitare un loro inasprimento, tramite lo sviluppo del­ la fiducia reciproca. Tali misure posso­ no avere natura formale o informale, unilaterale, bilaterale o multilaterale, militare o politica.
+
+DoS – Denial of Service
+
+Attacco volto a rendere un sistema informatico o una risorsa non dispo­ nibile ai legittimi utenti attraverso la saturazione delle risorse ed il sovrac­ carico delle connessioni di rete dei si­ stemi server.
+
+DDoS – Distributed Denial of Service
+
+Attacco DoS lanciato da un gran nu­ mero di sistemi compromessi ed infet­ ti (BotNet).
+
+DF – Digital Forensics
+
+Disciplina – anche detta computer forensics o informatica forense – che si occupa dell’identificazione, della conservazione, dell’analisi e della do­ cumentazione dei reperti informatici al fine di presentare valide prove digi­ tali in sede processuale sia civile che penale.
+
+DNS – Domain Name System
+
+Sistema di denominazione del domi­ nio consistente in un database distri­ buito che converte in automatico un indirizzo web in un codice numerico di protocollo Internet (indirizzo IP) che identifica il server web che ospita il sito.
+
+ENISA – European Network and In­
+
+formation Security Agency Agenzia dell’Unione Europea volta a garantire un elevato livello di sicurezza delle reti e dell’informazione attraverso pareri tecnici alle autorità nazionali e alle istituzioni dell’UE, lo scambio di buone pratiche, lo sviluppo dei contat­ ti tra le istituzioni comunitarie, le au­ torità nazionali e le imprese, e la pro­ mozione di una cultura della sicurezza.
+
+Exploit
+
+Codice che sfrutta un bug o una vul­ nerabilità di un sistema informatico.
+
+IC – Infrastrutture Critiche
+
+Infrastruttura, ubicata in uno Stato membro dell’Unione Europea, che è essenziale per il mantenimento delle funzioni vitali della società, della salu­ te, della sicurezza e del benessere eco­ nomico e sociale della popolazione ed il cui danneggiamento o la cui distru­ zione avrebbe un impatto significativo in quello Stato, a causa dell’impossi­ bilità di mantenere tali funzioni (art. 2 lit. b) Direttiva 2008/114/CE);
+
+ICE – Infrastrutture Critiche Europee
+
+Infrastruttura critica ubicata negli Stati membri dell’UE il cui danneg­ giamento o la cui distruzione avrebbe un significativo impatto su almeno due Stati membri. La rilevanza di tale impatto è valutata in termini interset­ toriali. Sono compresi gli effetti deri­ vanti da dipendenze intersettoriali in relazione ad altri tipi di infrastrutture (art. 2 lit. e) Direttiva 2008/114/CE).
+
+Ingegneria sociale
+
+Arte di manipolare psicologicamente le persone affinché compiano deter­ minate azioni o rivelino informazioni confidenziali, come le credenziali di accesso a sistemi informatici.
+
+IoE – Internet of Everything
+
+Rete in cui persone, oggetti, dati e processi sono connessi tra loro attra­ verso Internet, e nella quale le infor­ mazioni vengono trasformate in tem­ po reale in azioni, creando così nuove e ad oggi inimmaginabili opportunità di business.
+
+IoT – Internet of Things
+
+Neologismo riferito all’estensione di Internet al mondo degli oggetti, i quali si rendono riconoscibili e acquisisco­ no intelligenza grazie al fatto di poter comunicare dati su se stessi e accede­ re ad informazioni aggregate da par­ te di altri. L’obiettivo è di far sì che il mondo elettronico tracci una mappa di quello reale, dando un’identità elet­ tronica alle cose e ai luoghi dell’am­ biente fisico. I campi di applicabilità sono molteplici: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’ef­ ficienza energetica, all’assistenza re­ mota e alla tutela ambientale.
+
+ISP – Internet Service Provider
+
+Società che offre connessione e servi­ zi Internet a pagamento tramite linea telefonica quali connessioni Dialup e ISDN oppure a banda larga come fi­ bre ottiche o DSL.
+
+Malware
+
+Contrazione di malicious software. Pro­ gramma inserito in un sistema in­ formatico, generalmente in modo clandestino, con l’intenzione di com­ promettere la riservatezza, l’integrità o la disponibilità dei dati, delle applica­ zioni o dei sistemi operativi dell’obiet­ tivo. A tale categoria generica appar­ tengono in via esemplificativa: virus, worm, trojan horse, backdoor, spywa­ re, dialer, hijacker, rootkit, scareware, rabbit, keylogger, bombe logiche, ecc.
+
+Phishing
+
+Attacco informatico avente, general­ mente, l’obiettivo di carpire informa­ zioni sensibili (userid, password, nu­
+
+meri di carte di credito, PIN) con l’invio di false e-mail generiche a un gran nu­ mero di indirizzi. Le e-mail sono con­ gegnate per convincere i destinatari ad aprire un allegato o ad accedere a siti web falsi. Il phisher utilizza i dati ac­ quisiti per acquistare beni, trasferire somme di denaro o anche solo come “ponte” per ulteriori attacchi.
+
+Reverse engineering
+
+Analisi volta a comprendere il funzio­ namento di prodotti hardware e softwa­ re al fine di reingegnerizzarli, ad esem­ pio, per migliorarne il funzionamento o per impiegarli per fini diversi e ulte­ riori rispetto a quelli originari.
+
+SCADA – Supervisory Control and
+
+Data Acquisition Sistemi impiegati per il monitoraggio ed il controllo di impianti e dispositivi in settori quali il controllo del traffico (aereo, ferroviario, automobilistico), della gestione dei sistemi di traspor­ to dei fluidi (acquedotti, gasdotti, oleodotti, ecc.), della distribuzione dell’energia elettrica, della gestione delle linee di produzione che realizza­ no i processi industriali, e del telerile­ vamento ambientale.
+
+SOC – Security Operations Center
+
+Centro che fornisce servizi finalizzati alla sicurezza dei sistemi informativi di un’azienda (SOC interno) o di clien­ ti esterni. Un SOC può anche fornire servizi di incident response: in questo caso svolge la funzione di Computer Security Incident Response Team (CSIRT), anche se spesso tale funzione fa capo ad un organo separato dell’azienda.
+
+TCP/IP – Transmission Control Pro­
+
+tocol/Internet Protocol Insieme di standard di protocolli svilup­ pato nella seconda metà degli anni ’70 dalla Defence Advanced Research Project Agency (DARPA), al fine di consentire la comunicazione tra diversi tipi di com­ puter e reti di computer. Il TCP/IP è, infatti, impiegato da Internet.
+
+UTM – Unified Threat Management
+
+Prodotto di sicurezza integrato a pro­
+
+tezione da minacce multiple, compo­ sto da un firewall, software antivirus, e sistemi di filtraggio spam e dei conte­ nuti.
+
+Web defacement
+
+Attacco condotto contro un sito web e consistente nel modificare i conte­ nuti dello stesso limitatamente alla home-page ovvero includendo anche le sottopagine del sito."

@@ -1,0 +1,511 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","AI Continent Action Plan (COM(2025) 165 final)","","","EUROPEAN COMMISSION
+
+Brussels, 9.4.2025 COM(2025) 165 final
+
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+
+COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+AI Continent Action Plan
+
+AI Continent Action Plan
+
+The European Union is committed and determined to become a global leader in Artificial Intelligence, a leading AI continent. This Communication outlines a set of bold actions to achieve that goal. AI has just begun to be adopted in the key sectors of our economy, helping to tackle some of the most pressing challenges of our times. While the full impact of this transformational shift is still unfolding, Europe must act with ambition, speed and foresight to shape the future of AI in a way that enhances our competitiveness, safeguards and advances our democratic values and protects our cultural diversity. A trustworthy and human centric AI is both pivotal for economic growth and crucial for preserving the fundamental rights and principles that underpin our societies. Swift policy action is of highest priority.
+
+The global race for leadership in AI is far from over. Breakthroughs continue to redefine the boundaries of what is possible. From cutting-edge foundation models to specialised AI applications, the AI landscape in the EU remains dynamic, driven by research, emerging technologies, and a thriving startups and scaleups ecosystem.
+
+Achieving our ambitions in AI will require leadership both in developing and using AI. It entails sustained investment in infrastructure (including computing power and networks), alongside advances in model development, and broad adoption across the economy. Only by working together at EU, national and local level will we succeed in this endeavour. Both the private and the public sectors have a role to play. Businesses must scale up their investments and embrace AI in their domains, while the public sector must enhance its capabilities. Public procurement should promote European preference for critical sectors and technologies, as proposed in the Competitiveness Compass1.
+
+The EU must maintain its own distinctive approach to AI by capitalising on its strengths and what it does best. This includes: first, a large single market with one single set of safety rules across the EU, including the recently adopted AI Act, ensuring AI is trustworthy and aligned with EU values; second, making the most of its high-quality research, and science, a substantial pool of scientists and skilled professionals; third, a thriving startup and scaleup scene, industrial knowhow and expertise: and, last but not least, a solid foundation in world-class computational power with data spaces accessible to all.
+
+Indeed, the European brand of open innovation is showing results. Computing power in the EU is publicly accessible through the European network of cutting-edge supercomputers deployed by the European High-Performance Computing Joint Undertaking (EuroHPC2). The network provides AI innovators and research organisations with an open environment to
+
+1 COM(2025) 30 final 2 The European High-Performance Computing Joint Undertaking (EuroHPC) was launched in 2018 and co-funded by the EU, Member States, and private actors. Notable examples of EuroHPC supercomputers include LUMI (ranked #8 globally), Leonardo (#9), and MareNostrum 5 (#11), which collectively enhance Europe's computational capabilities. The procurement contract for the first EuroHPC exascale supercomputer JUPITER was signed.
+
+access computing resources to train and finetune models, linking to high-quality data spaces and enabling broad participation in cutting-edge model development. AI model development in the EU benefits from advances in open-source approaches. It encourages knowledge sharing, enables collaboration, facilitates integration into specific applications and increases transparency.
+
+In this context, it is no surprise that the EU’s AI startup and scaleup scene is booming. This is reflected in the increased investments and the growing number of unicorns in this field in recent years. The EU is home to more than 6800 AI startups3. This vibrant community of innovative AI startups and innovators is advancing the frontier of AI models as well as applying them to industry-specific applications. But more still needs to be done. The EU needs to ensure that its startups, industry, public sector, and scientists at large have what they need to harness the prospects of AI. This includes ensuring secure value chains, their resilience and that of the EU’s Single Market, which is of particular importance for EU’s competitiveness and its future innovation in the current geopolitical context.
+
+For the EU to become an AI Continent, efforts must accelerate and intensify in five key domains:
+
+First, computing infrastructure: The EU’s public AI infrastructure needs to be scaled up so that innovators and researchers can train and finetune AI frontier models. This includes both strengthening the network of AI Factories – which are being launched to offer greater computing capacity for AI and related services – and establishing resource-efficient Gigafactories, integrating massive computing power into data centres. The inspiration for these gigafactories comes from the ambition that underlies CERN; these Gigafactories will foster scientific collaboration around powerful and unique infrastructures, bringing together researchers, entrepreneurs and investors to tackle ambitious and forward-looking projects – ""moonshots"" – in areas like healthcare, biotechnology, industry, robotics and scientific discovery. In this spirit the European AI Research Council (Resource for AI Science in Europe – RAISE) could pool resources for AI scientists and domain scientists applying AI across the EU. Concurrently, private-sector investment in cloud capacity and sustainable data centres must be facilitated and scaled up.
+
+Second, we need to take further action to ensure more access to high-quality data for AI innovators. With this objective, the EU will work towards a dedicated Data Union strategy and will, among other measures, explore the development of Data Labs as integral components of the AI Factories, to enable the provision, pooling, and secure sharing of high-quality data.
+
+Third, we need to stimulate the further development of AI algorithms and leverage their adoption in the EU’s strategic sectors. The forthcoming Apply AI Strategy will launch concrete actions to boost new industrial and scientific uses of AI and improve public services. European Digital Innovation Hubs will refocus in order to support the adoption of AI by SMEs,
+
+3 https://www.appliedaiinstitute.de/en/hub/2024-generative-ai-study
+
+mid-caps and public administrations, and further technological advances in strategic sectors will be supported by European funding programmes over the next three years.
+
+Fourth, the EU’s strong AI talent base is a major asset. We need to reinforce AI skills, including basic AI literacy and diverse talent, throughout the EU by closing existing gaps, by further developing excellence in AI education, training, and research, by attracting more women to AI, by raising awareness of AI among the wider society and public administration, as well as by attracting and retaining AI talent from outside the EU. As a global leader in free scientific research, the EU is an attractive destination and must remain open to global talent.
+
+Fifth, the EU’s large single market is a significant asset, with one set of clear rules, including the AI Act, preventing market fragmentation and enhancing trust and security in the use of AI technologies. Nevertheless, there is a need to facilitate compliance with the AI Act, particularly for smaller innovators.
+
+These are the necessary pillars for Europe to become the AI Continent. The Commission President set out this vision at the AI Action Summit in Paris4 in February 2025 when she announced InvestAI, an initiative to mobilise EUR 200 billion for investment in AI in line with the political priorities of the Competitiveness Compass.
+
+4 https://ec.europa.eu/commission/presscorner/detail/en/speech_25_471"
+"3","1","Build large-scale AI data and computing infrastructures across Europe for the AI","numbered","","ecosystem
+
+Infrastructure – particularly computing power – is fundamental to AI model development all throughout the AI lifecycle. From training, where the model learns from vast amounts of data and requires massive computational resources, often relying on high-performance advanced AI processors; finetuning, where it is optimised for specific applications; testing, where, once the model is trained and validated, it is tested to assess its performance; to inference and deployment, where the model output is integrated into real world applications. The availability of powerful computing resources is an important element for attracting academic, technical, and industrial talent and is essential for enhancing the AI ecosystem. It is therefore vital for the EU and the Member States to work together in ensuring an adequate supply of computational power across the AI continent, including also in cooperation with EU candidate and potential candidate countries."
+"4","1.1","Deploy and scale AI Factories","numbered","1","The EU has most recently been strengthening the EuroHPC network of supercomputers through the AI Factories initiative, as announced in the 2024 AI Innovation Package5. AI Factories are dynamic ecosystems that foster innovation, collaboration, and development in the field of AI. They integrate AI-optimised supercomputers, large data resources, programming and training facilities, and human capital to create cutting-edge AI models and applications. By connecting supercomputing centres, universities, startups, industry, the public sector and financial stakeholders, AI Factories will enhance collaboration in AI across Europe. They will drive advances in AI applications across multiple domains. Moreover, AI Factories will enhance access to high-quality data by linking to large national data repositories, EU Data Spaces, and dedicated data labs (see section 2).
+
+The AI Factories initiative has been a huge success, demonstrating the strong commitment and support of Member States. Following the first AI Factories’ call deadline on 1 November 2024, seven consortia – spanning 15 Member States6 and two associated EuroHPC Participating States7 – were selected to host the first AI Factories. Building on this momentum, six additional AI Factories were selected in March 20258. With a total of 13 AI Factories across 17 Member States and two EuroHPC Participating States, overall investments in supercomputing infrastructures and AI Factories in the EU will reach EUR 10 billion over the 2021-2027 period. In this context, nine new AI optimised supercomputers will be procured and deployed across the EU in 2025/26, and an existing supercomputer will be upgraded with AI capabilities9. This will more than triple the current EuroHPC AI computing capacity.
+
+5 AI Innovation Package 6https://ec.europa.eu/commission/presscorner/detail/en/ip_24_6302 7Non-EU Member States participating in the EuroHPC Joint Undertaking, i.e., Iceland, Israel, Montenegro, North Macedonia, Norway, Serbia, Türkiye, United Kingdom and soon Switzerland: Discover EuroHPC JU - EuroHPC JU 8 https://digital-strategy.ec.europa.eu/en/news/second-wave-ai-factories-set-drive-eu-wide-innovation#:~:text=This%20follows%20the%20first%20selection,of%20around%20%E2%82%AC485%20mill ion. 9 See details in annex I.
+
+AI Factories bring unique strengths and specialised focus areas, playing a pivotal role in advancing AI applications across strategic sectors as follows:
+
+A summary of the 13 selected EuroHPC AI Factories is included in Annex I.
+
+The interest and confidence from Member States continues to grow, with further countries signalling their willingness to participate in the ongoing third call closing in Q2 2025, underlining the success of the initiative and its strategic importance for Europe's AI future.
+
+Additionally, Participating States can establish AI Factory Antennas to support services to their national AI/HPC ecosystem without the need for dedicated supercomputer infrastructure. AI Factory Antennas will provide remote access to AI-optimised supercomputing resources of the linked AI Factory located in another Member State.
+
+By end 2025, all selected AI Factories and AI Factories Antennas will be fully operational, networked together, and connected to other major AI support initiatives, such as the Testing and Experimentation facilities for AI10, offering dedicated resources for testing AI solutions, and the network of European Digital Innovation Hubs.
+
+The EuroHPC Joint Undertaking will serve as the single-entry point for users across the EU, providing access to computing time and support services offered by any EuroHPC AI Factory. The AI Factories are open to European11 users from various sectors, including industry, research, academia, and public authorities. New tailored access modes will prioritise AI innovators – startups, scaleups, SMEs – and selected EU-funded research projects, ensuring streamlined fast access to computing resources with minimal administrative overhead. The Governing Board of the EuroHPC Joint Undertaking plans to adopt this Access Policy together with the publication of this Communication. In line with our Preparedness Union and Internal Security Strategies, provisions are included for the direct allocation of access time to strategic Union projects12 as well as for emergency and crisis management situations.
+
+10 https://digital-strategy.ec.europa.eu/en/policies/testing-and-experimentation-facilities 11 Established or located in an EU Member State or in a Participating State or in a third country associated to the Digital Europe Programme or to Horizon Europe. 12 Destination Earth, Human Brain Flagship Initiative, the centres of excellence in high performance computing or 1+ Million Genomes Initiative.
+
+Key Commission / EuroHPC Actions:
+
+- Set up and deploy selected AI Factories and their services (Q2 2025); - Set up a single-entry point for all users across Europe for access to AI Factories and their services (Q2 2025); - Launch procurement of the first AI-optimised Factory supercomputers (Q2/Q3 2025); - Launch the Call for Proposals to establish AI Factories Antennas (Q2 2025); - Launch a Call for networking all the AI Factories and AI Factories Antennas activities (Q2 2025)."
+"4","1.2","Invest in AI Gigafactories","numbered","1","While recent advances in training techniques and architectural optimisation have made AI models more efficient, the pursuit of frontier AI models still requires vast amounts of computing and data capacity.
+
+Over the last two years, AI models have become increasingly complex, evolving from text processing to reasoning, multimodal capabilities and agentic behaviour. This trend will continue, with the next generation of frontier AI models expected to unlock a leap in capabilities, towards Artificial General Intelligence (AGI) capable of tackling highly complex and diverse tasks, matching human capabilities.
+
+Currently, the most performant AI Factories' supercomputers, equipped with up to 25,000 advanced AI processors, play an essential role in developing and training the current generation of AI models. Leading the next wave of advanced AI models requires significantly greater computing power, and data. As announced in the Competitiveness Compass, the EU will invest in AI Gigafactories.
+
+AI Gigafactories will be large-scale facilities that develop and train complex AI models at an unprecedented scale, with hundreds of trillions of parameters. They will integrate massive computing power, exceeding 100,000 advanced AI processors, while taking into account power capacity, as well as energy, water efficiency and circularity. These facilities are essential for Europe to compete globally and maintain its strategic autonomy in scientific progress and critical industrial sectors. They will be federated with the EuroHPC network of AI Factories, ensuring seamless integration and knowledge sharing across the European AI ecosystem. This should also stimulate the design – and in due course the manufacturing – of AI processors in Europe. The COVID crisis and the latest geopolitical developments13 have shown how important it is for Europe to be able to count on secure and resilient value chains and on a strong single market. The EU is determined to avoid the fragmenation of its single market and to enhance its capabilities to reduce dependencies on critical technologies and strengthen sovereignty in cutting edge semiconductors14. While activities in this area have already started under the Chips and EuroHPC Joint Undertakings, this should be a key priority for the review of the Chips Act, which will aim at ensuring strategic autonomy in the design and production of AI semiconductors. The Commission will accelerate preparatory work in view of revising the Chips Act in 2026. High energy efficiency and security should feature among the key requirements for European AI chips.
+
+13 Joint Statement by Executive Vice-President Henna Virkkunen and Commissioner Maroš Šefčovič https://ec.europa.eu/commission/presscorner/detail/en/statement_25_255 14 EuroHPC has launched the DARE initiative with a budget of EUR 240 million to develop a full HPC ecosystem based on open RISC-V processors (general purpose and accelerators, including AI-specific chips) and their integration into exascale and post-exascale European supercomputers, This initiative will strengthen the EU’s strategic technological sovereignty, producing competitive HPC technology to power the future European supercomputers, with a critical impact in other areas like AI, cloud and data centres or automotive.
+
+The establishment of a single AI Gigafactory is estimated to require significant investments, encompassing both capital expenditures and operational expenses. Given the magnitude of the necessary investment, these AI Gigafactories will be implemented through public-private partnerships and innovative funding mechanisms. In this regard, Commission President von der Leyen announced at the AI Action Summit in Paris15 the launch of the InvestAI Facility, with a view to mobilise EUR 20 billion investment for AI infrastructure, notably targeting up to 5 AI Gigafactories across the Union. The facility, to be developed in collaboration with the European Investment Bank group, aims at facilitating and crowding in private investment, in combination with grants and guarantees provided by the Union budget and Member States. The Commission also urged Member States and regions to enhance support to digital capacities such as AI, cloud and giga-factories, in the context of its mid-term review of Cohesion policy16.
+
+For example, in the framework of such a public-private partnership, the EU and Member States would contribute direct grants, in line with applicable State aid rules, while private proponents would be responsible for financing the remaining amount – with the possibility of derisking investment through the InvestAI Facility. These AI gigafactories may also become the platform for attracting the participation of large international financial investors.
+
+The establishment of the first-ever AI gigafactories on European soil will require a significant effort of investment and policy coordination, with clear added value to EU competitiveness. Therefore, the AI gigafactories will serve as one of the pilot cases of the Competitiveness Coordination Tool announced in the Competitiveness Compass.
+
+In line with this vision:
+
+-a call for expression of interest for consortia interested in setting up AI Gigafactories is launched together with the adoption of this Action Plan. The aim is to enter in a dialogue with individual proponents. The dialogue will include the partnership, the proposed budget, the geographical location, computing performance, technical specifications and sustainability considerations as well as feasibility analysis of their AI Gigafactory.
+
+- Following the outcome of the discussions in the preliminary calls of interest with interested parties, including Member States, industry, and financial institutions, the official call for the establishment of AI Gigafactories will be published in Q4 2025 by the EuroHPC Joint Undertaking.
+
+Further advancing the frontier of AI models, including towards Artificial General Intelligence (AGI), also requires facilitating the scale-up of companies. To crowd in substantial capital investment for the development of new AI models, investment funds could step in, for example those supported through the European Innovation Council Fund, the planned TechEU Scale-up Fund17, the EIB Group’s European Tech Champions Initiative or by the InvestEU guarantee. What is more, EU public procurement, accounting for over 15%18 of our GDP, could
+
+15 https://ec.europa.eu/commission/presscorner/detail/en/speech_25_471 16 Communication on a modernised Cohesion policy: the mid-term review [ref to 1.4.2025 (COM(2025) 163] 17 From the Competitiveness Compass: “to help bridge the financing gap to support disruptive innovation, strengthen Europe’s industrial capacity and scale-up companies” 18 Access to public procurement | Single Market and Competitiveness Scoreboard
+
+create an enormous market for innovative products and services. In that context, the Competitiveness Compass announced the promotion of European preference in public procurement for critical sectors and technologies in the context of the forthcoming review of the EU rules.
+
+Dedicated solutions aimed at facilitating innovative startups’ and scaleups’ access to finance, public procurement, markets, services and talents, will be explored by the EU Startup and Scale Up Strategy announced by the European Commission in the Competitiveness Compass.
+
+Key Commission / EuroHPC actions:
+
+- Issue a call for expression of interest to invest in AI Gigafactories (9 April 2025); - Define the InvestAI Facility with EIBG (Q3/Q4 2025); - Launch the official call on AI Gigafactories under the EuroHPC Joint Undertaking (Q4 2025); - Address the financing gap of startups and scaleups and facilitate their access to markets, public procurement, services and talent in the EU Startup and Scaleup Strategy (Q2 2025)."
+"4","1.3","Establish the support framework for boosting EU cloud and data centre capacity","numbered","1","The EU also needs further instruments to enable the private sector to close other capacity gaps along the computing continuum that affect all phases of an AI model’s lifecycle, from development and fine-tuning to deployment and real-time use. These gaps notably include: general cloud capacity, which is typically delivered from large data centres; and edge capacity that delivers similar services but with significantly lower response time (latency), such as in a telecom environment (telco edge)19. In relation to AI, cloud and edge computing are key enablers of smaller fine-tuning operations, particularly those that adapt pre-trained AI models to specific tasks using smaller datasets, and of inference, the execution of trained AI models to generate outputs from new data.
+
+The EU currently lags behind the US and China in terms of available data centre capacity, relying heavily on infrastructure installed in and controlled by other regions of the world, that EU users access via the cloud. While access to innovative and affordable cloud services is vital for EU competitiveness, an excessive dependence on non-EU infrastructure may bring economic security risks and is a concern for European industry, key economic sectors and public administrations. To adequately serve the AI and general computing needs of businesses and public administrations across the entire EU, and to ensure competitiveness and sovereignty, it is essential for the EU to increase its current cloud and data centre capacity in a geographically balanced manner.
+
+19 The term telco edge describes edge computing environments offered by telecom operators as a service to third parties. These are today's most prominent edge computing offerings. For more details, see: https://digital-strategy.ec.europa.eu/en/library/white-paper-how-master-europes-digital-infrastructure-needs.
+
+The Cloud and AI Development Act will create the right conditions for the EU to incentivise large investments in cloud and edge capacity. Today, the average time to obtain a permit and the related environmental authorisations for building a data centre in Europe often lies upwards of 48 months. The data centre industry struggles to identify suitable sites, and to obtain access to sufficient energy to power their facilities. The Cloud and AI Development Act will address these obstacles, with a view to at least tripling the EU’s data centre capacity within the next five to seven years and bringing it to a level that meets the needs of EU businesses and public administrations by 2035. To this end, the Commission envisages that data centre projects that meet requirements related to resource efficiency, including in energy and water efficiency, circularity and requirements related to innovation will benefit from simplified permitting, while maintaining environmental safeguards and protecting human health, and from other public support measures, in line with applicable State aid rules.
+
+Adding new data centres to the grid presents important challenges, notably in terms of potential impacts on consumption, other energy consumers, networks and decarbonisation. The strategic roadmap for digitalisation and AI in the energy sector will propose measures to facilitate the sustainable integration of data centres into the energy system and address other energy-related issues resulting from the large-scale deployment of data centres in the EU such as electricity grid optimisation, energy efficiency in buildings and industry and demand-side flexibility. In the same vein, the upcoming Water Resilience Strategy will look at reducing the water footprint of these installations and at increasing their circularity through water reuse, efficiency and dry cooling.
+
+For highly critical use cases, including AI applications, sovereignty and operational autonomy require highly secure EU-based cloud capacity. The Cloud and AI Development Act will ensure that the public and private sector in the EU can rely on such capacity for these use cases, thus laying the basis for the public sector to adopt AI in an environment of trust. More generally, leveraging the existing Data Act provisions on cloud switching, the Cloud and AI Development Act will look into establishing a common EU marketplace for cloud capacity and services to enable the entry into the market of a more diverse set of cloud service providers.
+
+The Commission invites stakeholders to share their views on the Cloud and AI Development Act as part of a public consultation, which accompanies this Action Plan.
+
+The Commission’s actions in this area will complement efforts from Member States, which are currently designing two possible new Important Projects of Common European Interest (IPCEI) in this area. One initiative focuses on advancing beyond-the-state-of-the-art research and first industrial deployment of solutions in a continuum of federated and distributed AI services. Another initiative focuses on the infrastructure deployment of large-scale computing infrastructure and services.
+
+Key Commission actions:
+
+- Adopt a proposal for the Cloud and AI Development Act (Q4 2025 - Q1 2026), preceded by the launch of a public consultation (9 April 2025); - Adopt a Strategic roadmap for digitalisation and AI in the energy sector (2026); - Support Member States in their work on designing possible future IPCEIs in the field of AI and data processing infrastructure."
+"3","2","Data for AI","numbered","","Access to reliable and well-organised data is essential if the EU is to unlock the full potential of AI. The Commission will address this in the second half of 2025 with a new Data Union Strategy to make more data available in support of AI development and innovation.
+
+The Data Union Strategy will focus on strengthening the EU’s data ecosystem by enhancing interoperability and data availability across sectors, to respond to the scarcity of robust and high-quality data for the training and validation of AI models. It will aim to better align data policies with the needs of businesses, the public sector and society, while fostering a trustworthy environment for data sharing. To achieve this, necessary safeguards will be put in place to ensure the confidentiality, integrity, and security of shared data, thereby promoting a culture of trust and cooperation. Particular attention will be given to streamlining existing data legislation to reduce complexity and administrative burden and to ensure that data governance structures are efficient and effective, based on an inclusive process that takes into account applicable copyright legislation.
+
+One important tool in this context will be the Data Labs, which will be set up as part of the AI Factories initiative. These Data Labs will bring together and federate data from different AI Factories covering the same sectors. In addition, they will link to the corresponding Common European Data Spaces and will make this data available to AI developers under appropriate conditions. The Data Labs will thus ensure that AI developers will have access to large volumes of high-quality data in health, energy or other sectors (always in compliance with the rules that apply to each data space).
+
+Data Labs will not only ensure access to Common European Data Spaces but could also offer a range of other services. These could include cleaning and enriching datasets, providing technical tools (e.g. standardised formats, synthetic data, shared technical building blocks) and fostering interoperability across sectors and borders. Data Labs could also offer data-pooling services that would help companies to share data while adhering to antitrust rules, drawing on the Data Governance Act framework for trusted data intermediaries. They would, in short, turn fragmented data sources into a trusted and accessible resource for AI development.
+
+The Commission is supporting these efforts by developing Simpl, a shared cloud software to make it easier to manage and connect data spaces 20. This software acts as a common layer
+
+20 https://simpl-programme.ec.europa.eu/
+
+and helps participants in a data space to work together more smoothly. It offers ready-to-use tools – such as secure ways to exchange data, manage access and verify identities – and thus reduce technical complexity and costs. This will in turn help more organisations to join and expand data spaces across the EU.
+
+The area of language data is a clear example of how pooling data from different Member States can deliver tangible results. Language data are the basis for large language models. Their availability is essential for breaking down language barriers in the single market, potentially boosting intra-EU trade by up to EUR 360 billion21. The Alliance for Language Technologies (ALT-EDIC) is a large-scale effort to pool EU language data that was launched in March 2025. It will bring together 17 Member States to build a comprehensive repository of high-quality language resources to bridge the gap in multilingual data and preserve Europe's linguistic and cultural diversity, fostering technological excellence and leadership.
+
+Another example is in the area of health, where the European Health Data Space regulation sets out a common framework to make health data from different Member States securely available for secondary use across the EU. By ensuring access to high-quality datasets that reflect the diversity of Europe’s population, this will contribute to reducing bias and enhancing fairness and effectiveness in the development of AI applications for healthcare.
+
+In addition, the European Open Science Cloud, Europe’s Data Space for research and innovation, is gathering vast amounts of high-quality research data from research institutes to make them available for innovative applications. The EU itself, through Copernicus, provides freely accessible geospatial data for the development of AI technologies.
+
+Beyond making more data available, the Data Union Strategy will also investigate ways to reduce unnecessary bureaucracy. It aims to simplify how businesses can comply with EU data rules, so that they can more easily share and use data for AI. The strategy will also look at how the EU can attract more valuable data – while ensuring that sensitive EU data are protected when shared internationally.
+
+To shape the Strategy, the Commission will launch a public consultation to gather input from businesses, the public sector, researchers and other stakeholders. This will help in identifying specific data needs, fine-tuning proposed actions and making sure that the Strategy supports a strong, competitive and innovative AI ecosystem in the EU.
+
+Key Commission actions: · Launch a public consultation on the Data Union Strategy in order to better understand industry’s data needs (Q2 2025) before presenting the Data Union Strategy (Communication, Q3 2025); · Set up Data Labs associated with the AI factories (Q3-Q4 2025); · Continue supporting the deployment of Common European Data Spaces (including the use of common software and use of shared technical building blocks to ensure
+
+21 Language Technology Solutions study (CNECT/LUX/2022/OP/0030)
+
+interoperability) and fostering their links with AI factories (Digital Europe Programme 2025-2027)."
+"3","3","Foster innovation and accelerate AI adoption in strategic EU sectors","numbered","","Today many European companies, especially midcaps and SMEs, struggle with AI adoption. As of 2024, only 13.5% of companies in the EU had adopted AI22. Accelerating the uptake of AI across all sectors, including the public administration, fosters innovation and is essential to enhance competitiveness and economic growth as well as to reduce administrative burden.
+
+This is the objective of the upcoming Apply AI Strategy, the EU approach to accelerate AI adoption and drive innovation while leveraging AI solutions “made in Europe”. It will focus on industry sectors where EU know-how could contribute to further increasing productivity and competitiveness gains. It will also address adoption by the public sector, where AI in areas like healthcare can bring transformative benefits to wellbeing. To complement, a dedicated European Strategy for AI in Science will target the use of AI across scientific disciplines, boosting productivity and unlocking scientific breakthroughs."
+"4","3.1","A use-case based approach in key European industry sectors and the public sector","numbered","3","In line with the Draghi report, the Apply AI Strategy will target the key European industrial sectors where the EU has a strong leadership. These sectors hold the largest untapped potential regarding AI adoption and include, amongst others, advanced manufacturing; aerospace; security and defence23; agri-food; energy and fusion research; environment and climate; mobility and automotive; pharmaceutical; biotechnology; advanced materials design; robotics; electronic communications; cultural and creative industries24 and science. Furthermore, the public sector will be a leading strategic driver of the Apply AI Strategy. The Strategy will ensure that AI is used to improve the quality and the efficiency of public services, in areas such as healthcare, justice, education and public administration. In this context, AI has the potential to be a powerful tool for preventing and combatting discrimination and ensuring equal opportunities for all, including by generating accessible solutions and removing barriers for persons with disabilities. At the same time, it is crucial to ensure that further integration and use of AI in these sectors does not undermine the EU’s economic security interests. For that, the EU’s economic security toolbox will play a central role.
+
+22 https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?lang=en 23 In line with the White Paper for European Defence Readiness 2030, foundational technologies like AI, are key inputs for both long term economic growth, and military pre-eminence. 24 For creative industries, an AI strategy for cultural and creative sectors and industries will be developed in parallel to the forthcoming Apply AI Strategy. It will focus on ensuring that AI enables and reinforces human creativity rather than replace humans, and that it contributes to safeguarding European cultural and linguistic diversity.
+
+The Strategy will propose actions to address sector-specific challenges, including access to data, talent, skills development and upgrade, automated contracting and testing opportunities. The approach ultimately seeks to determine the most effective policy instruments to facilitate the adoption of AI solutions within and across sectors. This includes the strategic positioning of appropriate support instruments, such as AI Factories/Gigafactories, European Digital Innovation Hubs, Testing and Experimentation Facilities, the Data Union Strategy and the AI Skills Academy (see section 4). Additionally, the strategy will propose that the EU AI Office, as the EU centre of AI expertise, sets up an observatory to monitor developments and implementation.
+
+To gather a wide range of views and contributions, identify stakeholder priorities and challenges, and assess the relevance of potential solutions, the European Commission invites stakeholders to share their views on the Apply AI Strategy, as part of the public consultation which accompanies this Communication.
+
+The Commission is also initiating structured dialogues with industry representatives (including SMEs, startup and scaleup communities) as well as the public sector. Building on existing stakeholders consultation platforms, these dialogues aim to identify relevant examples of untapped potential regarding the adoption of AI technologies in specific sectors, the current integration in business and production processes, as well as the potential for their scale-up in the sector and the wider economy."
+"4","3.2","European Digital Innovation Hubs as the key drivers for advancing AI deployment","numbered","3","A key role to support effective AI integration will be carried out by the network of European Digital Innovation Hubs present in all EU Member States and ten other European countries, including candidate countries, covering 85% of European regions. European Digital Innovation Hubs aim to ensure a successful digital transformation of SMEs, mid-caps and public sector organisations. In their second phase, as of December 2025, European Digital Innovation Hubs will become Experience Centres for AI. Their focus on AI uptake will be strengthened to ensure that they can effectively support the adoption of sector-specific AI solutions, while continuing to provide flanking services such as funding advice, networking and training.
+
+The Network of European Digital Innovation Hubs will work in close synergy with the AI Factories ecosystem. Among others, it will facilitate companies’ access to the computing and data resources of the AI Factories as well as to other AI initiatives such as regulatory sandboxes and Testing and Experimentation Facilities.
+
+The latter provide large-scale, real-world environments to test and refine AI, ensuring the AI model is validated, optimised, and prepared for deployment. Testing and Experimentation Facilities operate in particular in the areas of health, manufacturing, smart cities (including transport and mobility), agriculture and energy25. A new such facility will be launched in 2026.
+
+For instance, a company willing to implement an AI-driven energy-consumption forecasting model within an existing manufacturing system might need specific staff training and upskilling. European Digital Innovation Hubs can provide such trainings, and they will also support the company by providing clear training paths depending on the needs of employees.
+
+The following examples showcase how European Digital Innovation Hubs have been assisting SMEs already in applying AI solutions:
+
+AI Algorithms and Sensor Integration for Robotic Vessels (Estonia)26
+
+Mindchip OÜ, a micro-sized maritime technology startup in Estonia, faced challenges in developing an effective AI-based machine vision system for autonomous ships. Collaborating with the AI & Robotics Estonia EDIH, which provided assistance through the ‘test before invest’ initiative and helped in finding funding, they integrated a cutting-edge AI-based machine vision system that significantly enhanced their autonomous navigation capabilities. This system significantly reduced costs and environmental impact, while improving safety and operational efficiency. ARACNE - Machine Vision for needles and sinkers control for zero defect manufacturing: From Proof of Concept to Spin-off company (Spain)27
+
+CANMARTEX, a small enterprise in Spain, targeted inefficiencies in textile production due to fabric defects. By partnering with Eurecat through the DIH4CAT European Digital Innovation Hub, they developed the ARACNE solution, incorporating advanced AI and machine vision technologies. This predictive quality control system detects and addresses potential defects in knitting machinery in real time, significantly reducing waste and increasing productivity. The innovative approach led to the creation of a spin-off company and earned CANMARTEX several prestigious awards, including the “Best AI solution applied to industrial manufacturing” at the Factories of the Future event in 2023. Supporting Gas Grün GmbH's success in AI, marketing and prototyping using 3D printing (Germany)28 Gas Grün GmbH, a small biogas startup in Germany, was struggling to optimise the energy yield of its biogas plants. With the help of a Digital Innovation Hub, which provided the opportunity to test
+
+25 https://digital-strategy.ec.europa.eu/en/policies/testing-and-experimentation-facilities 26 https://european-digital-innovation-hubs.ec.europa.eu/knowledge-hub/success-stories/ai-algorithms-and-sensor-integration-robotic-vessels 27 https://european-digital-innovation-hubs.ec.europa.eu/knowledge-hub/success-stories/aracne-machine-vision-needles-and-sinkers-control-zero-defect 28 https://european-digital-innovation-hubs.ec.europa.eu/knowledge-hub/success-stories/supporting-gas-grun-gmbhs-success-ai-marketing-and-prototyping-using
+
+technologies such as 3D printing before investing in them and connected Gas Grün with specialised partners, the company developed an AI-based control system that maximised energy production and minimised waste. This helped them grow their business and showcase their work at industry events. ArtCentrica: online platform revolutionizing the learning of art and humanities (Italy)
+
+ArtCentrica offers access to over 8,000 high-resolution artworks from global museums, and introduces a unique educational tool where human and artificial intelligence converge to create interactive multimedia narratives centered around works of art: AI ArtCentrica Stories. This innovative tool transforms art pieces into dynamic elements, serving both as the object of the narrative and a vehicle to illustrate diverse concepts. The R&D for this project is conducted thanks to the support of a Digital Innovation Hub."
+"4","3.3","AI “made in Europe” from research to the market","numbered","3","With the goal of deploying AI solutions, it is essential to ensure a continuous process that spans across the technology’s development cycle, from research to the market. Fostering R&I efforts is hence vital. The Commission already initiated efforts in this direction with the AI Innovation package launched in January 2024, financially supporting research and innovation in generative AI under the GenAI4EU initiative, which supports applied research and sets the cornerstones for a strong European AI ecosystem.
+
+The GenAI4EU initiative takes a sectorial approach and has thus far allocated close to EUR 700 million in planned Horizon Europe and Digital Europe Programme calls29 for the development of advanced AI models and solutions in a wide range of sectors. Among others, projects will develop generative AI for the optimisation of production lines in manufacturing, to improve robot autonomy and human-robot collaboration in complex tasks, as well as to enhance our cyber-defence and medical imaging capabilities.
+
+Furthermore, within the public sector, up to four pilot projects will aim at accelerating the deployment of European generative AI solutions in public administrations. These pilots will focus on enhancing decision-making, streamlining internal administrative processes, and improving citizen interactions by making public services more accessible. By leveraging public purchasing power, the call drives innovation procurement, fostering the development and deployment of novel solutions, accelerating adoption and improving public services. Building on the GenAI4EU initiative, the Commission will continue to support the European AI R&I and solution development in 2026 and 2027 as an integral part of the Apply AI Strategy. Emphasis will be put on the most promising use cases identified by the Strategy. In addition, the GovTech Incubator initiative will, over the period 2025-2029, support 21 GovTech actors from 16 countries to co-pilot and develop, as a first step, AI solutions for public procurement, evidence processing and accessibility assistants.
+
+To complement and enhance the initiatives above, substantial investment in foundational research is crucial. This is essential to sustain Europe’s AI excellence, leveraging on world-
+
+29 Amount for current and planned calls: for the period 2024-2025 under the Horizon Europe Programme and for the period 2024-2027 under the Digital Europe Programme.
+
+class expertise in Member States, joining forces at European level to stimulate collaboration, retain and attract the best research talents, and accelerate the next generation of technology and scientific breakthroughs that support both industry and society. The European AI Research Council, announced in the Political Guidelines for 2024-2029, in the form of a Resource for AI Science in Europe (RAISE), will pool resources that push the technological boundaries of AI and tap into its potential to facilitate scientific breakthroughs. It will support both “Science for AI”, driving the development of next-generation AI technologies, and “AI in Science”, fostering the use of AI for discovery and exploration across a range of scientific disciplines, unlocking cross-pollinations between AI and domain sciences. Based on the inputs received during the open public consultations on both Apply AI and AI in Science, the Commission will further develop the concept, including its governance, and launch a pilot phase of the Resource for AI Science in Europe (RAISE) of AI by 2026.
+
+The upcoming Apply AI Strategy will therefore include science as a vertical sector and link to the AI in Science Strategy (to be adopted together with the Apply AI Strategy). This Strategy will aim to facilitate responsible and swift adoption of AI by scientists, supported by the RAISE. It will introduce an action plan to overcome identified barriers for scientists, empowering the scientific community, and encourage collaboration and scientific excellence. It will link to the computing power of Gigafactories and provide an open environment for scientific collaboration to take place.
+
+Key Commission actions:
+
+- Launch a public consultation and Call for Evidence to identify stakeholders’ priorities and inform the Apply AI Strategy (9 April 2025); - Launch a Call for Evidence and targeted consultation activities with the scientific community to inform the AI in Science Strategy (Q2 2025); - Organise structured dialogues with industry and public sector representatives to identify sector-specific AI-related deliverables and KPIs and inform the Apply AI Strategy (Q2-Q3 2025); - Adapt the mission of European Digital Innovation Hubs to ensure they fully support the adoption of relevant AI solutions in strategic sectors (Q2-Q3 2025); - Adopt the Apply AI Strategy jointly with the AI in Science Strategy (Q3 2025); - Adopt R&I work programme Horizon Europe 2026-2027, further boosting development and deployment of AI/generative AI in strategic sectors (Q4 2025); - As part of the GenAI4EU initiative, launch calls from Horizon Europe and Digital Europe Programme – in health, cybersecurity, energy, pharma/drug, electronic communications, aerospace, robotics, manufacturing, public sector, science etc. – reaching close to EUR 700 M investment (Q1 2026); - Launch a pilot phase of the RAISE, the European AI Research Council (2026)."
+"3","4","Strengthen AI skills and talent","numbered","","As highlighted in the Union of Skills30, Europe’s competitive strength lies in its people. A skilled population is essential to respond to today’s rapid technological transformations and ensure the EU’s future prosperity and competitiveness. AI is increasingly affecting the job profiles and skillsets of workers and citizens. The EU therefore needs to address any talent shortages and cross-sectoral skill mismatches, in accordance with the goal of the Apply AI Strategy. In this context and in line with the work strands31 of the Union of Skills32, the AI Continent will focus on measures to enlarge the EU’s pool of AI specialists and to adequately upskill and reskill EU workers and citizens in the use of AI.
+
+Developing a broad-based AI-savvy workforce starts with high-quality and inclusive initial education and training. The 2030 Roadmap on the future of digital education and skills and its AI in Education initiative33, will support the development of AI literacy for primary and secondary education and foster the strategic and ethical uptake of AI in education, including through support and capacity building for teachers and education institutions. Building on this, and contributing to the four work strands34 of the Union of Skills and in particular the STEM Education Strategic Plan35, the AI Continent will focus on measures to enlarge the EU’s pool of AI specialists and to adequately upskill and reskill EU workers and citizens in the use of AI."
+"4","4.1","Enlarging the EU’s pool of AI specialists","numbered","4","The EU needs to enlarge its AI talent pool in order to keep up with the increasing demand for AI-related expertise, especially in relation to AI application development and industry-specific skills36. The Commission will do so by focusing on:
+
+ educating and training the next generation of AI experts based in the EU;  incentivising European AI talent to stay and to return to the EU; and  attracting and retaining skilled AI talent from non-EU countries, including researchers. To complement existing educational programmes37 and prepare the next generation of AI experts in Europe, the Commission will support the increase in the overall provision of EU bachelors and masters degrees and PhD programmes in key technologies, including AI38,
+
+30 Union of Skills - European Commission 31 (1) building skills for life through a solid education foundation; (2) upskill and reskill to ensure future-oriented skills; (3) circulate and allocate skills to unlock the full potential of the single market; (4) attract and retain skills from third countries to address skills shortages and develop top talent in Europe. 32 and associated policy strategies, such as the STEM Education Strategic Plan (COM/2025/89 final). 33 As announced in the Union on Skills. 34 (1) Building skills for life through a solid education foundation; (2) upskill and reskill to ensure future-oriented skills; (3) circulate and allocate skills to unlock the full potential of the single market; (4) attract and retain skills from third countries to address skills shortages and develop top talent in Europe. 35 COM/2025/89 final 36 LeADS, D1.3 Final ADS demand and forecast report, 2023. 37 Including initiatives such as the Erasmus+ European Universities alliances, MSCA Dcotoral Networks and those of the European Institute of Innovation and Technology (EIT) and its Knowledge and Innovation Communities (KICs). 38 Please see actions in the Digital Europe Work Programme 2025-2027: Work Programme 2025-2027 of the Digital Europe Programme (DIGITAL) | Shaping Europe’s digital future
+
+as well as organise virtual study fairs and scholarship schemes to promote such programmes. A pivotal action in this context will be the launch of the AI Skills Academy39, a one-stop shop providing education and training on skills related to the development and deployment of AI, and in particular generative AI. Through the Academy, the Commission will also pilot an AI apprenticeship programme to prepare a pipeline of AI specialists trained on real-world projects and ready to (re-)enter the EU labour market. To this end, returnship schemes40 for female professionals are planned. Moreover, to create further virtuous circles between academia and industry, the Commission will develop European Advanced Digital Skills Competitions, which will involve young people in the co-creation of AI-driven solutions to key societal and industrial challenges and foster creative and innovative thinking.
+
+Together with AI Factories, the AI Skills Academy41 will be also important in leveraging excellence in AI education and research42. The Academy will support AI fellowship schemes, allowing highly skilled EU and non-EU PhD candidates as well as young professionals living outside the EU to work in EU-based entities. AI fellowships will ensure that top-level experts in generative AI can educate and train the AI Skills Academy’s students, while also advancing their own research in the field. The AI Skills Academy will therefore develop a pilot generative AI-focused degree43. AI Factories, on the other hand, will be pivotal in creating a highly dynamic environment for top-level researchers and will foster innovation and collaboration in the development and deployment of AI solutions for strategic sectors.
+
+To further support the arrival of top PhD candidates and researchers, the Commission will focus on actions to attract top students and researchers (including in the AI sector) from non-EU countries. To this end, the Commission will set out measures in the forthcoming Visa Strategy to improve the implementation of the Students and Researchers Directive and the BlueCard Directive, as well as by piloting the Marie Skłodowska-Curie action ‘MSCA Choose Europe’ scheme. As with other MSCA initiatives, this pilot will be open to all research fields, allowing research institutions such as universities and research infrastructures to attract, develop and retain excellent international AI researchers. The pilot co-funds recruitment programmes, enabling them to link their MSCA grants to long-term prospects within the insitution including, for example, competitions for permanent positions. It aims to tackle precarity in research careers, making the European R&I ecosystem more attractive and strengthening European research capacity in the long term.
+
+39 EU Funding & Tenders Portal | EU Funding & Tenders Portal 40 Returnship programmes support the re-entering to the workforce after an extended career break, such as for maternity leave. These schemes complement further EU initiatives to attract more women and girls to education and training on AI, including the STEM Education Strategic Plan. 41 The AI Skills Academy will look into cooperating with other relevant initiatives, e.g. the European Artificial Intelligence Skills Alliance. 42 Ensuring complementarity and synergies with other relevant initiatives, such as the European Artificial Intelligence Skills Alliance (ARISA). 43 This will well complement efforts of the Erasmus+ programme to support innovative approaches in the use of generative AI tools in education (EdTech) and will take into consideration relevant actions of the Union of Skills, such as the European degree/label.
+
+Finally, building upon the existing EU legal framework, the Commission will take actions to support Member States and employers to attract and retain more highly skilled nationals from non-EU countries, including AI experts. A key tool for this will be the future EU Talent Pool, which should be adopted as soon as possible by the co-legislators. By 2026, the Commission will furthermore launch the first Multipurpose Legal Gateway Offices in key partner countries to boost international labour mobility and skills development between the EU, Member States and partner countries including on ICT. The Commission will also continue to strengthen Talent Partnerships to maximise labour mobility and skills development in sectors relevant for AI, such as ICT, a priority sector of four of the five current Talent Partnerships."
+"4","4.2","Upskilling and reskilling the EU workforce and population","numbered","4","To support effective AI diffusion across the EU and ensure a human-centric digital transition at the workplace and in the broader society, the Commission, in cooperation with Member States, needs to support the upskilling and reskilling of professionals in all fields and the wider population in the use of AI44. In this context, social dialogue is key to anticipate and address skills needs in the labour market and facilitate the adoption of digital technologies in Europe’s workplace in a fair and inclusive way.
+
+With the aim of ensuring the continuous learning of workers (in SMEs, mid-caps, startups, as well as public-sector organisations), the Commission will rely on the network of the European Digital Innovation Hubs, which will increase their skills and training services, offering hands-on courses on AI for different technical and non-technical profiles and for specific sectors. The Commission will also raise awareness on AI literacy45 and foster dialogue on AI for all46, notably by promoting dissemination activities and by maintaining a repository of AI literacy initiatives implemented by private and public-sector organisations47.
+
+Key Commission actions:
+
+- Support the increase in provision of EU bachelors and masters degrees as well as PhDs focusing on key technologies, including AI (Q2 2025); - Launch the AI Skills Academy (Q2 2025), including:
+
+o AI fellowship schemes to attract EU and non-EU PhD candidates, researchers
+
+and young professionals living abroad; o (together with AI Factories) a pilot certified generative AI-focused degree to
+
+facilitate top-level teaching and research of AI fellows;
+
+44 In the coming years, 61% of adult workers will need new skills to deal with the impact of AI on their work, but only 15% have already so far received training in using AI tools (Cedefop, AI skills survey, 2025). 45 This will be done in alignment with parallel activities, such as the 2030 Roadmap on the future of digital education and skills, its AI in education initiative and the update of the Digital Competence Framework for citizens (DigComp 3.0), all announced in the Union of Skills. 46 In line with the AI Act, the European Declaration of Digital Rights and Principles and in particular the concept of leaving no one behind. 47 The repository was launched in the context of the work to support the implementation of article 4 of the AI Act and contains so far practices collected among AI Pact organisation: Living repository to foster learning and exchange on AI literacy | Shaping Europe’s digital future.
+
+o a pilot AI apprenticeship programme with industry; o scholarship and returnship schemes for female professionals; - Organise Advanced Digital Skills Competitions in key technologies, including AI (Q2 2025); - Contribute to attracting and retaining skilled AI talent from non-EU countries, including via the ‘MSCA Choose Europe’ scheme for researchers (Q4 2025-2026); - Support continuous learning by workers in SMEs, mid-caps, startups and public-sector organisations with the European Digital Innovation Hubs (Q2 2025); - Promote AI literacy via dissemination activities and a repository of AI literacy initiatives (Q2 2025); - Launch a pilot, leveraging existing Talent Partnerships and the Multipurpose Legal Gateway Offices to promote the mobility of highly skilled non-EU workers in the AI sector (Q4/2025)."
+"3","5","Fostering regulatory compliance and simplification","numbered","","A workable and robust regulatory framework is crucial to creating a positive and competitive environment for EU AI companies to strive and for the EU’s AI ecosystem to innovate. The EU has adopted the AI Act to create the conditions for a well-functioning single market for AI, ensuring free circulation across borders and harmonised conditions for access to the EU’s market. It also ensures that AI developed and used in Europe is safe, respects fundamental rights and is of the highest quality – a selling point for European providers – and drives the uptake of AI. The AI Act follows a targeted and risk-based approach, imposing requirements only on high-risk AI applications. It entered into force on 1 August 2024 and is being phased in gradually with full application by 2 August 2027.
+
+The AI Act’s success will primarily depend on how workable its rules are in practice. The current preparatory phase is crucial to achieving a successful implementation. The Member States and the Commission, including its AI Office, must step up their efforts to facilitate a smooth and predictable application of the AI Act. As a first step, the Commission is launching the AI Act Service Desk, which will be a central information hub on the AI Act, allowing stakeholders to ask for help and receive tailor-made answers. This initiative will provide straightforward and free access to information and guidance on the applicable regulatory framework, which will particularly serve the needs of smaller AI solution providers and deployers. The answers will consist of practical advice that will help to understand and comply with the AI Act. The AI Act Service Desk will be provided by a dedicated team in the AI Office. It will offer an interactive platform where businesses and other stakeholders, including public authorities, will be able to ask questions, get answers and have access to technical tools to help them apply the AI Act, e.g. decision trees and other self-assessment tools.
+
+The AI Act Service Desk will complete the EU’s ecosystem of support for stakeholders which also includes initial information through the European Digital Innovation Hubs, and the
+
+possibility of cooperating during the development of a high-risk AI system in a national AI regulatory sandbox. The AI regulatory sandboxes are currently being set up in the Member States and will be operational by August 2026. Stakeholders can also already directly engage with the AI Office by participating in the AI Pact48, which encourages and supports them – by sharing experiences and knowledge – in planning the implementation of AI Act measures. Furthermore, the Commission will continue to provide guidance on the AI Act’s application in support of compliance. This includes preparing implementing delegated acts and guidelines, facilitating, for example, the consistent application of the AI Act with sectoral product legislation, e.g. the Medical Device Regulation49, and its interplay with that of other related legislation50. In addition, the Commission facilitates compliance by steering co-regulatory instruments like the development of standards in support of the AI Act and the Code of Practice on general-purpose AI51. In view of the important role played by standards to reduce compliance costs and advance effective, practical and widely adopted solutions, the Commission will step up action together with responsible organisations to accelerate their development. The Commission will continue to work with the AI Board 52 of Member States, which assists in providing guidance on the application of the AI Act, including within the context of sectoral legislation.
+
+As a next step, the Commission will build on the lessons learned during the current implementation phase and identify further measures that are needed to facilitate a smooth, streamlined and simple application of the AI Act, particularly for smaller companies. The Apply AI Strategy public consultation that is launched together with this Communication therefore also includes specific questions on the challenges in the AI Act implementation process, to identify where regulatory uncertainty is hindering the development and adoption of AI and ascertain how the Commission and Member States can support stakeholders better in the implementation of the AI Act. The Commission will take the results from the stakeholder consultation into account and provide templates, guidance, webinars and training courses to streamline procedures and facilitate compliance. The results of this public consultation will also feed the broader assessment during the first year of the mandate, of whether the expanded digital acquis, including the AI Act, adequately reflects the needs and constraints of businesses such as SMEs and small midcaps, going beyond necessary guidance and standards that facilitate compliance53.
+
+The AI Act is a horizontal legislation which creates a single market for safe and trustworthy AI across sectors and domains, including law enforcement, health, machinery, radio equipment, motor vehicles, financial services and employment. The AI Act will deploy its full effect as it
+
+48 https://digital-strategy.ec.europa.eu/en/policies/ai-pact 49 Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1–175). 50 E.g. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1–88). 51 https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice 52 https://digital-strategy.ec.europa.eu/en/policies/ai-board 53 COM(2025)47 – Simpler and faster Europe: Communication on implementation and simplification
+
+progressively enters into application over the next 2 years54. As clarity is key to innovation, the Commission will ensure that implementing measures will be in place in time for the entry into application of the respective provisions of the AI Act. For it to create a truly single market in which AI can thrive under common, predictable regulatory conditions, it is crucial that both the Member States and the EU focus on its effective implementation. In principle, we should first gain experience in applying these new horizontal rules and evaluate their effect before any possible new legislation on AI can be considered.
+
+Key Commission actions:
+
+- Launch an AI Act Service Desk in the EU AI Office (July 2025); - Launch, as part of Apply AI Strategy’s public consultation, a process to identify stakeholders’ regulatory challenges and inform possible further measures to facilitate compliance and possible simplification of the AI Act (April 2025)."
+"3","6","Conclusion","numbered","","The AI Continent Action Plan aims to boost and accelerate EU AI policies by investing in large-scale AI computing infrastructures, improving access to data, accelerating AI adoption in strategic EU sectors, strengthening AI skills and talent, and fostering regulatory compliance and simplification. To achieve this goal, EU institutions, governments, companies, researchers, and developers must work together, committing to a joint endeavour that takes cooperation to a new level. In particular, the EU AI Office will work in close collaboration with the Member States through the AI Board to ensure a consistent policy approach, taking into account the dynamic technological developments.
+
+International engagement is an integral part of the strategy, which aims to strengthen the EU’s position and influence in AI. The EU seeks – through proactive bilateral and multilateral engagement with partner countries – to lead global efforts on AI by supporting innovation, ensuring trust through guardrails, and developing the global governance on AI. It is crucial for the EU to join efforts with like-minded partners, candidate and potential candidate countries, to promote a safe, trustworthy and human-centric AI development in multilateral fora. The EU will further explore the potential of its digital partnerships and international digital cooperation to promote an approach to AI that enhances human well-being and societal progress. The upcoming Communication on International Strategy for Digital Sovereignty, Security and Democracy (Q2 2025) will outline the EU international approach further.
+
+54 The AI Act has entered into force on 1 August 2024. It progressively enters into application until 2 August 2027. The general provisions and prohibitions started to apply on 2 February 2026, the rules related to governance and general-purpose AI models will apply on 2 August 2025, the general application, which covers the rules for high-risk AI systems, transparency and measures in support of innovation, takes effect on 2 August 2026 and the rules for high-risk AI systems covered by existing product legislation will apply on 2 August 2027.
+
+The AI Continent Action Plan brings together a set of initiatives aimed at accelerating policy action that is needed to positionEurope at the forefront of innovation in tech sectors. By investing in key areas like AI, quantum computing, and chip design, Europe can enhance its productivity and competitiveness, ensure its tech sovereignty, and provide high-quality public services to its citizens. This is a unique opportunity for Europe to act swiftly to shape the future of AI and create a better tomorrow for all Europeans, ultimately becoming a leading AI Continent."
+"2","Annex I","Coordinated Plan / Action Plan Annex","annex","","EUROPEAN COMMISSION
+
+to the
+
+Brussels, 9.4.2025 COM(2025) 165 final
+
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+
+COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+AI Continent Action Plan
+
+Summary of the 13 selected EuroHPC AI Factories
+
+LUMI AI Factory CSC - IT Center for Science
+
+Consortium AI supercomputer Key sectors
+
+LUMI-AI (New AI-
+
+FI, CZ, DK, EE, NO, PL
+
+optimised supercomputer)
+
+Manufacturing; health; life science;
+
+communication technologies
+
+The LUMI AI Factory (LAIF) aims to be a pioneering, open AI ecosystem that seamlessly integrates world-class computing power, high-value data, and top-tier AI talent. It is built on the experience of supporting high-impact AI use cases on the LUMI supercomputer. Leveraging a comprehensive and accessible service infrastructure serving a state-of-the-art expert support center and ecosystem hub LAIF will empower AI startups, SMEs, researchers, and other public and private users to develop innovative European AI models and applications and AI tools and solutions. Services will cater to diverse users, from HPC beginners to experienced AI developers, making a significant investment in talent and competence development.
+
+LAIF will feature its services around a new AI-focused supercomputer leveraging a large, accelerated partition utilising the latest generation GPUs and CPUs. The innovative concept of software-defined partitions offers flexibility in supporting a wide range of compute workloads, from training to inference and classical simulations.
+
+IT4LIA CINECA Consorzio Interuniversitario
+
+Consortium AI supercomputer Key sectors
+
+IT, AT, SI New AI-optimised
+
+supercomputer
+
+Agri-tech; agri-food; cybersecurity; Earth sciences; healthcare; art; education; Finance
+
+The Italian AI Factory, IT4LIA, is a pioneering initiative aimed at accelerating Italy’s and Europe’s AI landscape through a new AI optimised computing infrastructure and a comprehensive portfolio of services addressed to a broad ecosystem of current and future AI users. This initiative will provide AI researchers, startups, SMEs, industry leaders, and public institutions with the resources necessary to develop, deploy, and scale AI enabled innovations.
+
+The AI factory will leverage a continuum of computing facilities able to cover all the AI workload needs from data preparation and processing, to model training and inference services. IT4LIA benefits from the EuroHPC Leonardo supercomputer, its AI-enhanced LISA system, the GAIA cloud, and the upcoming AI-optimized AI Factory system.
+
+BSC AI Factory Barcelona Supercomputing Center
+
+Consortium AI supercomputer Key sectors
+
+MareNostrum 5 (to be
+
+ES, PT, RO, TR
+
+upgraded with AI
+
+capabilities)
+
+Health; climate; agriculture, finance; legal;
+
+energy; communications; media; public
+
+sector
+
+The BSC AI Factory will be built around the Mare Nostrum 5 supercomputer and will provide users with the development and operation of a comprehensive set of high-value AI-oriented computing and other services with specialised support.
+
+The MareNostrum 5 supercomputer will be upgraded to incorporate the most recent AI-oriented computing architectures, specially designed for AI workflows like LLM training and inference, including a storage system designed for AI workloads, connected to the massive storage of MareNostrum 5. It will include advanced AI computing capabilities with a dedicated and specialised AI software and extensive data repository.
+
+The BSC AI Factory will be complemented by the establishment of a unique advanced experimental AI-optimised platform for testing new computing technologies as they come to market.
+
+Luxembourg AI Factory
+
+LuxProvide
+
+Consortium AI supercomputer Key sectors
+
+MeluXina-AI (New AI-
+
+LU
+
+optimised supercomputer)
+
+Finance; space; cybersecurity; green
+
+economy
+
+The Luxembourg AI Factory, LuxProvide, addresses the challenges of integrating AI into businesses and empowering companies of all sizes to fully capitalise on AI's potential, develop cutting-edge, trustworthy, and safe AI solutions. It will support all organisations and actively lead and grow early-stage start-ups, scale-ups, and SMEs.
+
+At the core of LuxProvide is MeluXina-AI, a new sovereign AI-optimised supercomputer, hosted in two leading data centres, providing secure, hyperconnected and scalable computing power for AI development and deployment. With an innovative cloud-native, dynamic, multi-tenant and multi-site approach, MeluXina-AI goes beyond the pursuit of extraordinary AI performance. It implements highly secure processing environments for private AI and supports an end-to-end computing continuum through compute and data bridges that allow easy integration with data lakes and services from cloud service providers and AI Factories.
+
+MIMER National Academic Infrastructure of Supercomputing
+
+Consortium AI supercomputer Key sectors
+
+SE New AI-optimised
+
+supercomputer
+
+Life science; material sciences; autonomous
+
+systems; gaming industry; climate;
+
+agriculture
+
+The Swedish AI Factory, MIMER, is built on two pillars: a new AI-dedicated supercomputer and a team of AI specialists providing hands-on assistance. MIMER will focus on AI users and AI workloads, comprising both hardware, training and support. It will provide a dedicated hub for AI research, development, and applications supporting both academia and industry. MIMER will lower barriers to AI adoption and help users harness AI to tackle complex challenges through project-focused onboarding, data stewarding, AI training, and final model delivery.
+
+MIMER services will be based on a supercomputer that is designed for large-scale model training, generative AI, and real-time inference, integrating high-performance GPUs with cloud-style access to facilitate both interactive exploratory research and production-level AI deployment.
+
+HammerHAI High-Performance Computing Center Stuttgart
+
+Consortium AI supercomputer Key sectors
+
+DE New AI-optimised
+
+supercomputer Engineering; manufacturing
+
+The HammerHAI (Hybrid and Advanced Machine Learning Platform for Manufacturing, Engineering, and Research) AI Factory aims to provide European businesses and researchers with secure, scalable, and easily accessible AI resources for training and inference, covering key aspects of the entire AI lifecycle. The primary objective of HammerHAI is to lower the barriers for start-ups, SMEs, large enterprises, and scientific institutions that need powerful computing capabilities to create and deploy AI-driven solutions. By blending state-of-the-art supercomputing know-how with modern “cloud-like” features, HammerHAI will speed up innovation, help train an AI-ready workforce and foster a robust and secure AI ecosystem in Germany and across Europe.
+
+At the heart of HammerHAI will be a new AI-optimised supercomputer that will offer accelerated nodes that cater to medium to large-scale AI model training and inference workloads, cloud-like usability that lets users migrate existing solutions to HammerHAI’s infrastructure, access compute resources on an as-needed basis, and robust security standards.
+
+Pharos National Infrastructures for Research and Technology
+
+Consortium AI supercomputer Key sectors
+
+DAEDALUS (Existing AI optimised
+
+EL
+
+Supercomputer)
+
+Health; culture; language; sustainability
+
+Pharos, the Greek AI Factory, will serve as a hub connecting the academic and research community with both public and private sectors. Pharos is designed to stimulate the creation of new AI-driven services and will play a crucial role in nurturing a vibrant and competitive ecosystem of startups and SMEs specializing in AI. Pharos will enable seamless data and compute sharing with other European infrastructures and provide access to cloud services.
+
+Pharos will exploit DAEDALUS, the EuroHPC supercomputer currently under deployment in Greece. DAEDALUS will support large-scale AI applications through its high-speed data processing, liquid cooling for efficiency, and extensive storage solutions. HPC-demanding services will interact with DAEDALUS infrastructure to enable computational-heavy resources, storage resources, job scheduling, high-speed network connectivity, and ready-to-use software stacks.
+
+JUPITER AI Factory Jülich Supercomputing Centre
+
+Consortium AI supercomputer Key sectors
+
+JUPITER (Existing AI-optimised
+
+DE
+
+exascale supercomputer)
+
+Healthcare; energy; climate; environment;
+
+education; culture; media; public sector;
+
+finance; insurance; manufacturing
+
+The JUPITER AI Factory (JAIF) is establishing a world-class AI ecosystem targeting for European startups, SMEs, industry and cutting-edge research with the most powerful European supercomputer, JUPITER, at its core, combining exascale supercomputing, data and support structures, excellence in science and in methodological research on AI, including largest foundation models, closest links to industry and SMEs, and community building.
+
+JUPITER, the first European exascale supercomputer, will be available from mid-2025. The GPU-accelerated JUPITER module, catering for AI applications, features very energy efficient and extremely powerful superchips. JUPITER is complemented by the inference module JARVIS, which is optimized for cloud-like operation with a focus on applying and improving AI models creating a unique world-class modular supercomputer environment for AI applications.
+
+AI Factory France Grand équipement national de calcul intensif
+
+Consortium AI supercomputer Key sectors
+
+Alice Recoque (AI-optimised exascale
+
+FR
+
+supercomputer)
+
+Robotics; health; Earth science; materials
+
+science; security; energy; sustainability;
+
+digital continuum; aerospace; edtech;
+
+agriculture; finance; humanities
+
+With the primary goal of fostering the use of AI for research, innovation and public services in Europe, the AI factory France will setup a unique AI one-stop shop that will act as a front-end to the whole AI French ecosystem, while also serving the European one. AI Factory France aims to federate a strong and decentralized AI ecosystem, involving startups, SMEs, large companies research organizations, data centres, universities, business and engineering schools, at the leading edge in AI software, models and training.
+
+AI Factory France relies on Alice Recoque, the second EuroHPC exascale AI-ready supercomputer. This system now under procurement is meant as a converged supercomputer to address both the needs of numerical simulation, processing of large datasets and artificial intelligence. AI Factory France proposes to open its services at the very beginning of the project by providing access to supercomputers and user support services in HPC/AI using operational GENCI’s national systems.
+
+Slovenian AI Factory Institute of Information Science
+
+Consortium AI supercomputer Key sectors
+
+SI New AI-optimised
+
+supercomputer
+
+Agriculture; environment; energy;
+
+manufacturing; upcycling; health;
+
+biotechnology; digital society
+
+The Slovenian AI Factory (SLAIF) will enhance Slovenia's AI capabilities by integrating a cutting-edge AI-optimized supercomputer with a dynamic AI ecosystem, supporting industry, research, and public institutions. SLAIF will provide a comprehensive support framework, including sector-specific AI-development and deployment guidance and support services, access to pre-trained AI models, data, and tailored cloud-based AI services.
+
+At the heart of SLAIF will be a new AI-optimised supercomputer, which will replace the current Vega EuroHPC system, ensuring continued excellence in computing and storage infrastructure for industry and science. Designed with sustainability in mind, it will be powered by renewable hydroelectric energy, while ensuring that Slovenia remains at the forefront of AI-driven scientific discovery and innovation. Additionally, the supercomputer’s cloud infrastructure will allow companies to integrate AI capabilities seamlessly into their operations.
+
+PIAST AIF Poznań Supercomputing and Networking Center
+
+Consortium AI supercomputer Key sectors
+
+PL New AI-optimised
+
+supercomputer
+
+Health; life science; IT; cybersecurity; space;
+
+robotics; sustainability; public sector
+
+The Polish PIAST AI Factory is designed as a leading AI innovation hub integrating HPC, cloud-based AI services, and cutting-edge research infrastructure in Poland. By fostering innovation, encouraging industry adoption – particularly by SMEs, spin-offs, and startup companies – and leveraging key EU initiatives. AI developers will gain access to high-quality, federated datasets via national and EU open data repositories, supporting explainable AI frameworks and real-time AI analytics. SMEs and start-ups will be supported with dedicated resources for AI model development, training programs, and secure data handling.
+
+To support AI research and deployment, a new AI tailored supercomputer will be acquired for heavy AI workloads, generative AI, AI-cloud-HPC integration, and AI-quantum simulations. Overall, the PIAST AI Factory will help to position Poland as a relevant contributor to Europe’s AI landscape.
+
+AI Factory Austria Advanced Computing Austria
+
+Consortium AI supercomputer Key sectors
+
+AT New AI-optimised
+
+supercomputer
+
+Biotechnology; agriculture; manufacturing;
+
+public administration; physics; industry
+
+The AI Factory Austria (AI:AT) is a new, large-scale initiative designed to elevate Austria’s AI capabilities and accelerate the development and adoption of trustworthy AI solutions in Austria’s major industry sectors. As an innovation center and one-stop-shop for AI, AI:AT will provide access to cutting-edge supercomputing resources, expert guidance, and collaborative spaces for businesses, researchers, government organizations and innovators. By providing cost-effective, high-capacity resources on shared platforms, AI:AT will enable researchers, SMEs, public organizations and large enterprises to collaborate seamlessly, fostering innovation and accelerating AI-driven breakthroughs.
+
+At the heart of AI:AT will be a new Austrian AI supercomputer, which will be equipped with advanced GPUs, direct water cooling, and high-speed interconnects to deliver scalable, high-performance computing for AI-intensive applications across diverse fields, from life sciences and manufacturing to materials science.
+
+Bulgarian Robotics & AI Nexus
+
+Sofia Tech Park
+
+Consortium AI supercomputer Key sectors
+
+BG New AI-optimised
+
+supercomputer
+
+Language; robotics; space; Earth; product
+
+development
+
+The Bulgarian Robotics & AI Nexus (BRAIN++) AI Factory is designed to establish advanced AI ecosystem and deploy the Discoverer++, aiming to create a robust ecosystem for AI research, development, and application, fostering innovation and collaboration across academia, industry, and public institutions. BRAIN++ will promote trustworthy AI compliance tools, federated AI data lakes, and cloud-based collaborative workspaces.
+
+Discoverer++ is the new supercomputer, which will be housed alongside the EuroHPC supercomputer Discoverer+. It will feature a new AI optimise system with heterogeneous GPU/CPU partitions optimized for generative AI workloads, cutting-edge cooling systems ensuring energy efficiency, and specialised sectorial partitions."

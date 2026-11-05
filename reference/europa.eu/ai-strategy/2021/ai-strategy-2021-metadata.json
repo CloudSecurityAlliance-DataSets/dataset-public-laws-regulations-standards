@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/europa.eu/ai-strategy@2021",
+  "name": "Coordinated Plan on Artificial Intelligence 2021 Review (COM(2021) 205 final)",
+  "acronym": "EU AI Strategy",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "ai-strategy-2021",
+  "owner": "European Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Coordinated Plan on Artificial Intelligence 2021 Review (COM(2021) 205 final, April 21, 2021).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence-2021-review",
+    "textUsed": "https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-04-21",
+    "active": false,
+    "supersedes": "secid:reference/europa.eu/ai-strategy@2018",
+    "supersededBy": "secid:reference/europa.eu/ai-strategy@2025",
+    "retiredFromActiveUse": "2025-04-09",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_1) to Markdown (36,802 chars). Parsed 39 sections (33 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
