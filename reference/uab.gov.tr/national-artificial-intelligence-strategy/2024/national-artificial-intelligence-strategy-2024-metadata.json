@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/uab.gov.tr/national-artificial-intelligence-strategy@2024",
+  "name": "National Artificial Intelligence Strategy of Türkiye (Ulusal Yapay Zekâ Stratejisi 2021–2025 & 2024–2025 Update)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-artificial-intelligence-strategy-2024",
+  "owner": "Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Artificial Intelligence Strategy of Türkiye (Ulusal Yapay Zekâ Stratejisi 2021–2025 & 2024–2025 Update)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (uab.gov.tr); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (uab.gov.tr); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://cbddo.gov.tr/uyzs",
+    "textUsed": "https://web.archive.org/web/20240731011831id_/https://cbddo.gov.tr/SharedFolderServer/Genel/File/UlusalYapayZekaStratejisi2024-2025EylemPlani.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-01",
+    "active": true,
+    "supersedes": "secid:reference/uab.gov.tr/national-artificial-intelligence-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://web.archive.org/web/20240731011831id_/https://cbddo.gov.tr/SharedFolderServer/Genel/File/UlusalYapayZekaStratejisi2024-2025EylemPlani.pdf) from landing page (https://web.archive.org/web/20250306121646id_/https://cbddo.gov.tr/uyzs); extracted 14-page PDF via PyMuPDF (25,275 chars). Parsed 58 sections (57 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -34,30 +34,32 @@ ID_PATTERNS = [
     (re.compile(r"^(\d{4,5}\.\d+(?:\.\d+)?)\.?\s+(.+)$"), "statute"),
     # SECTION 1 / SECTION 2 / Section (1): "SECTION 1. Legislative Findings and Declarations"
     (re.compile(r"^(SECTION\s+(?:\d+(?:\.\d+)*|\(\d+\)|\([ivxlcdm]+\)|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
-    # Pillar I / Pillar 1 / Pillar (i) / Pillar One: "Pillar I: AI Use Restrictions ..."
-    (re.compile(r"^(Pillar\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
-    # Part I / Part 1 / Part (1) / Part One: "Part I: ..."
-    (re.compile(r"^(Part\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
-    # CHAPTER 25.1 / Chapter 1 / Chapter One: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^(CHAPTER\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
+    # Pillar I / Pillar 1 / Pillar (i) / Pillar One / Eje Estratégico 1 / Handlungsfeld 1: "Pillar I: AI Use Restrictions ..."
+    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Eje\s+Estrat[eé]gico|Handlungsfeld)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
+    # Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
+    (re.compile(r"^((?:Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
+    # CHAPTER 25.1 / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
+    (re.compile(r"^((?:CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава)\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
     # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1
     (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
-    # Initiative 1.1.1: Title
-    (re.compile(r"^(Initiative\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
-    # Goal 1 / Priority 1 / Principle 1 / Recommendation 1 / Finding 1: Title
-    (re.compile(r"^((?:Goal|Priority|Principle|Recommendation|Finding)\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
+    # Initiative 1.1.1 / Eylem 1.1: Title
+    (re.compile(r"^((?:Initiative|Eylem)\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
+    # Goal 1 / Priority 1 / Strategic Priority 1 / Principle 1 / Recommendation 1 / Finding 1: Title
+    (re.compile(r"^((?:Goal|(?:Strategic\s+)?Priority|Principle|Recommendation|Finding)\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
     # Annex / Appendix / Schedule A / 1 / I: Title
-    (re.compile(r"^((?:Annex|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
+    (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
     # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.")
-    (re.compile(r"^((?:Pillar|Part|Chapter|Section|Annex|Appendix|Schedule|Principle|Goal|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
+    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Annex|Appendix|Schedule|Principle|Goal|(?:Strategic\s+)?Priority|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
+    # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
+    (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
-    (re.compile(r"^([IVX]{1,4})(?:\.\s+|\s+(?=[A-Z][a-z]))(.+)$"), "roman"),
+    (re.compile(r"^([IVX]{1,4})(?:\.\s+|\s+(?=[A-Z\u00c0-\u024f\u0400-\u04ff][a-z\u00df-\u024f\u0430-\u044f]))(.+)$"), "roman"),
     # Capital-letter section: "A. Innovative Europe" / "B. Making the EU..."
-    (re.compile(r"^([A-Z])\.\s+([A-Z].+)$"), "letter"),
+    (re.compile(r"^([A-Z])\.\s+([A-Z\u00c0-\u024f\u0400-\u04ff].+)$"), "letter"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
     (re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s*[:\-–—]?\s+(?!(?:M€|B€|€|\$|£|%|million|billion|trillion)\b)(.+)$", re.IGNORECASE), "numbered"),
     # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts and "30 June 2018" dates)
-    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z].+)$"), "numbered"),
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z\u00c0-\u024f\u0400-\u04ff].+)$"), "numbered"),
 ]
 
 
@@ -86,7 +88,10 @@ def parse_heading(text: str):
         m = pat.match(cleaned)
         if m:
             if m.lastindex and m.lastindex >= 2:
-                return m.group(1).rstrip("."), m.group(2).strip(), kind
+                title_part = m.group(2).strip()
+                if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not title_part[0].isupper():
+                    continue
+                return m.group(1).rstrip("."), title_part, kind
             return m.group(1).rstrip("."), m.group(1).rstrip("."), kind
     return "", cleaned, ""
 
@@ -141,10 +146,17 @@ def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> s
             f"PILLAR {_NUM_TO_WORD.get(p_num, '').upper()}",
             f"PILLAR {_NUM_TO_ROMAN.get(p_num, '')}",
             f"PILLAR {p_num}",
+            f"Strategic Priority {p_num}",
+            f"Priority {p_num}",
         ]
         for cand in candidates:
             if cand.strip() in existing_ids:
                 return cand.strip()
+    m_rsub = re.match(r"^([IVX]{1,4})\.\d+$", section_id)
+    if m_rsub and existing_ids:
+        r_tok = m_rsub.group(1)
+        if r_tok in existing_ids:
+            return r_tok
     return ""
 
 

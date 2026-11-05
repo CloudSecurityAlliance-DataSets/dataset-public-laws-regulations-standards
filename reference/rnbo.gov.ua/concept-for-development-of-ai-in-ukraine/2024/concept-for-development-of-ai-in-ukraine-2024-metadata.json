@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/rnbo.gov.ua/concept-for-development-of-ai-in-ukraine@2024",
+  "name": "Concept for the Development of Artificial Intelligence in Ukraine (CMU Ordinance No. 1556-r) & White Paper on AI Regulation (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "concept-for-development-of-ai-in-ukraine-2024",
+  "owner": "National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Concept for the Development of Artificial Intelligence in Ukraine (CMU Ordinance No. 1556-r) & White Paper on AI Regulation",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://thedigital.gov.ua/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-06-26",
+    "active": true,
+    "supersedes": "secid:reference/rnbo.gov.ua/concept-for-development-of-ai-in-ukraine@2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/rnbo.gov.ua/concept-for-development-of-ai-in-ukraine@2024 (https://thedigital.gov.ua/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

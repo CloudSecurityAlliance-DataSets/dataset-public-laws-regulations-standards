@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/valitsus.ee/national-security-concept@2017",
+  "name": "National Security Concept of Estonia (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "national-security-concept-2017",
+  "owner": "Vabariigi Valitsus (Government of the Republic of Estonia)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Concept of Estonia 2017 (approved May 31, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Vabariigi Valitsus (Government of the Republic of Estonia) (valitsus.ee) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Vabariigi Valitsus (Government of the Republic of Estonia) (valitsus.ee).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (valitsus.ee); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (valitsus.ee); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://riigikantselei.ee/en/supporting-government-and-prime-minister/organisation-and-planning-work-government/national",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-05-31",
+    "active": false,
+    "supersedes": "secid:reference/valitsus.ee/national-security-concept@2010",
+    "supersededBy": "secid:reference/valitsus.ee/national-security-concept@2023",
+    "retiredFromActiveUse": "2023-02-22",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/valitsus.ee/national-security-concept@2017 (https://riigikantselei.ee/en/supporting-government-and-prime-minister/organisation-and-planning-work-government/national) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/nukib.gov.cz/national-cyber-security-strategy@2021",
+  "name": "National Cyber Security Strategy of the Czech Republic (Národní strategie kybernetické bezpečnosti) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-cyber-security-strategy-2021",
+  "owner": "National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2021 edition of National Cyber Security Strategy of the Czech Republic (Národní strategie kybernetické bezpečnosti) (National Cyber Security Strategy of the Czech Republic (Národní strategie kybernetické bezpečnosti) (2021)), published by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nukib.gov.cz/en/cyber-security/strategy-action-plan/",
+    "textUsed": "https://nukib.gov.cz/download/publications_en/strategy_action_plan/NSCS_2021_2025_ENG.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-01-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/nukib.gov.cz/national-cyber-security-strategy@2025",
+    "retiredFromActiveUse": "2025-09-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 24-page PDF (https://nukib.gov.cz/download/publications_en/strategy_action_plan/NSCS_2021_2025_ENG.pdf) locally via PyMuPDF (48,615 chars). Parsed 25 sections (15 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

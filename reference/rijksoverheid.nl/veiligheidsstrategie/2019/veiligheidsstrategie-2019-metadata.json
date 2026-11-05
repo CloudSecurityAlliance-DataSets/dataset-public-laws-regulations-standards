@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/rijksoverheid.nl/veiligheidsstrategie@2019",
+  "name": "Nationale Veiligheidsstrategie 2019",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "veiligheidsstrategie-2019",
+  "owner": "Rijksoverheid (Government of the Netherlands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nationale Veiligheidsstrategie 2019 (superseded).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.rijksoverheid.nl/documenten/rapporten/2019/06/07/nationale-veiligheidsstrategie-2019",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-07",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/rijksoverheid.nl/veiligheidsstrategie@2023-2029",
+    "retiredFromActiveUse": "2023-04-03",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/rijksoverheid.nl/veiligheidsstrategie@2019 (https://www.rijksoverheid.nl/documenten/rapporten/2019/06/07/nationale-veiligheidsstrategie-2019) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

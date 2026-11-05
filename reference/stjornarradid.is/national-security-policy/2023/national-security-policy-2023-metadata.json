@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/stjornarradid.is/national-security-policy@2023",
+  "name": "Parliamentary Resolution on a National Security Policy for Iceland (Þjóðaröryggisstefna fyrir Ísland) (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-security-policy-2023",
+  "owner": "Government of Iceland (Stjórnarráð Íslands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Parliamentary Resolution on a National Security Policy for Iceland (Þjóðaröryggisstefna fyrir Ísland)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (stjornarradid.is); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (stjornarradid.is); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.stjornarradid.is/verkefni/almannavarnir-og-oryggismal/thjodaroryggi/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-06-01",
+    "active": true,
+    "supersedes": "secid:reference/stjornarradid.is/national-security-policy@2016",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/stjornarradid.is/national-security-policy@2023 (https://www.stjornarradid.is/verkefni/almannavarnir-og-oryggismal/thjodaroryggi/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,466 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "National Artificial Intelligence Strategy of Türkiye (Ulusal Yapay Zekâ Stratejisi 2021–2025 & 2024–2025 Update)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ULUSAL YAPAY ZEKÂ STRATEJİSİ 2024-2025 EYLEM PLANI\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Dışişleri Bakanlığı CB İnsan Kaynakları Ofisi Yurtdışı Türkler ve Akraba\n\n1 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nSanayi ve Teknoloji\n\nBakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.1",
+    "section_name": "TechVisa Programı kapsamında YZ alanındaki yeteneklerin ülkemize çekilmesine yönelik mekanizmalar hayata geçirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Topluluklar Başkanlığı\n\nÇalışma ve Sosyal Güvenlik"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.2",
+    "section_name": "Yapay zekâ alanındaki yetkin işgücünün arttırılması amacıyla Uluslararası Lider/Genç Araştırmacılar ve Sanayi Doktora Programı destek miktarları ve bu programlardan yararlanan araştırmacı sayısı arttırılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n2 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nTÜBİTAK\n\nCB İnsan Kaynakları Ofisi Yurtdışı Türkler ve Akraba\n\nTopluluklar Başkanlığı\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Sanayi ve Teknoloji Bakanlığı\n\n3 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.3",
+    "section_name": "YZ alanı haricindeki bilim alanlarında eğitim programlarının müfredatına, veri bilimi ve YZ konularının dahil edilmesi hususunda koordinasyon yürütülecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi\n\nYükseköğretim Kurulu\n\nTÜBİTAK Üniversiteler\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Sanayi ve Teknoloji Bakanlığı\n\n4 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.4",
+    "section_name": "Orta ve uzun vadeli iş gücü analiz ve projeksiyonları dikkate alınarak YZ alanında ön lisans, lisans ve lisansüstü düzeyde programlar açılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi\n\nYükseköğretim Kurulu\n\nTÜBİTAK Üniversiteler\n\n1/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Sanayi ve Teknoloji Bakanlığı\n\n5 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nEylem 1.5_Orta ve uzun vadeli iş gücü analiz ve projeksiyonları dikkate alınarak YZ alanında gerekli akademik insan kaynağı ve bilgi birikiminin (tez, proje, yayın, etkinlik) oluşturulması ve geliştirilmesine yönelik yükseköğretim kurumlarıyla koordinasyon yürütülecektir.\n\nCB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi\n\nYükseköğretim Kurulu\n\nTÜBİTAK Üniversiteler\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı CB İnsan Kaynakları Ofisi\n\n6 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nSanayi ve Teknoloji\n\nBakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.6",
+    "section_name": "Yükseköğretim dönemi sırasında veya sonrasında istihdam öncesi sektörel uygulamalara dayalı temel ve ileri düzeyde YZ uzmanı yetiştirilmesine yönelik eğitimler verilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Yükseköğretim Kurulu\n\nÜniversiteler\n\n7 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nSanayi ve Teknoloji"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.7",
+    "section_name": "Yapay zekâ alanında sertifika eğitimi veren özel eğitim kurumları için YZ alanında eğitim programı standartları belirlenecek ve uygulanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Bakanlığı Milli Eğitim Bakanlığı\n\n8 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nCB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi\n\nİlgili Bakanlıklar"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.8",
+    "section_name": "Kamu kurumlarında yetkin personel sayısının arttırılması amacıyla ileri analitik ve YZ ile ilgili eğitim programları yürütülecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi Mesleki Yeterlilik Kurumu\n\nTürkiye İş Kurumu Milli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n9 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMesleki Yeterlilik Kurumu"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.9",
+    "section_name": "YZ alanında ulusal meslek standartları ve ulusal yeterlilikler hazırlanacak ve bu kapsamda ölçme değerlendirme altyapısı kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türk Standardları Enstitüsü\n\nYükseköğretim Kurulu Hazine ve Maliye Bakanlığı\n\nTürkiye İstatistik Kurumu\n\n2/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nCB İnsan Kaynakları Ofisi Mesleki Yeterlilik Kurumu\n\nTürkiye İş Kurumu Milli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n10 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nTürkiye İş Kurumu"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.10",
+    "section_name": "YZ alanındaki mesleklerin beceri setleri ve beceri haritaları çıkarılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türk Standardları Enstitüsü\n\nYükseköğretim Kurulu Hazine ve Maliye Bakanlığı\n\nTürkiye İstatistik Kurumu\n\nCB İnsan Kaynakları Ofisi\n\n11 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nTÜBİTAK Üniversiteler Yükseköğretim Kurulu\n\nMilli Eğitim Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.11",
+    "section_name": "YZ alanında devlet burslarıyla yurt dışında lisansüstü öğrenim için kontenjanlar artırılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi Çalışma ve Sosyal Güvenlik\n\n12 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.12",
+    "section_name": "Mevcut ilgili derslerin müfredatları algoritmik düşünme, YZ teknolojileri ve etik ilkeler ekseninde iyileştirilecek ve ilgili öğretim programları çerçevesinde dijital içerikler hazırlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\nCB İnsan Kaynakları Ofisi Sanayi ve Teknoloji Bakanlığı\n\n13 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.13",
+    "section_name": "Ortaöğretim seviyesinde YZ öğretim programı hazırlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Çalışma ve Sosyal Güvenlik\n\nBakanlığı\n\n14 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.14",
+    "section_name": "Mesleki ve teknik ortaöğretim kurumlarına yönelik YZ öğretim programı ve dijital içerik hazırlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Hazine ve Maliye Bakanlığı\n\n3/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\n15 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı Hazine ve Maliye Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n16 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.15",
+    "section_name": "Öğretmenlerin YZ alanında hizmet içi eğitimlerle farkındalıkları ve kapasiteleri artırılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Milli Eğitim Bakanlığı DOGM Bağlı Okullar Eylem 1.16_ HİSAR Projesi kapsamında eğitici eğitimi tamamlanacaktır.\n\n17 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.17",
+    "section_name": "Öğrenmenin geliştirilmesi için ekosistemin iyileştirilmesine yönelik olarak öğrenme analitiği platformu oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Milli Eğitim Bakanlığı CB Dijital Dönüşüm Ofisi\n\nBilgi Teknolojileri ve İletişim\n\nKurumu CB İnsan Kaynakları Ofisi Sanayi ve Teknoloji Bakanlığı\n\n18 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nTÜBİTAK Ulaştırma ve Altyapı Bakanlığı\n\nMilli Eğitim Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.18",
+    "section_name": "HİSAR Projesi kapsamında öğrenci eğitimi tamamlanacak ve sosyal etkinlikler düzenlenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Çalışma ve Sosyal Güvenlik\n\nBakanlığı Üniversiteler\n\nİlgili STK'ler\n\nCB İnsan Kaynakları Ofisi Ulaştırma ve Altyapı Bakanlığı\n\n19 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı\n\nİlgili STK'ler"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.19",
+    "section_name": "Algoritmik düşünme, kodlama ve YZ uygulamalı eğitim konularında dijital becerileri geliştirmeye yönelik eğitimler ve içerikler hazırlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "4/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nBilgi Teknolojileri ve İletişim\n\nKurumu CB İnsan Kaynakları Ofisi Sanayi ve Teknoloji Bakanlığı\n\n20 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak\n\nMilli Eğitim Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 1.20",
+    "section_name": "Dijital Teknolojilerin yaygınlaştırılmasına yönelik farkındalık artırıcı yarışmalar düzenlenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "TÜBİTAK Çalışma ve Sosyal Güvenlik\n\nBakanlığı Üniversiteler\n\nİlgili Bakanlıklar CB Dijital Dönüşüm Ofisi\n\nTürk Dil Kurumu Türk Tarih Kurumu Türkiye Yazma Eserler Kurumu\n\n21 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nSanayi ve Teknoloji\n\nBakanlığı\n\nTÜBİTAK"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.1",
+    "section_name": "Yerli olarak geliştirilecek üretken yapay zekâ modellerine (LLM, LAM vb.) ilişkin teknik ve etik standartları belirlemek ve bu süreci yönetmek üzere uzman bir komite kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Yunus Emre Enstitüsü\n\nÜniversiteler\n\nSTK'ler"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.2",
+    "section_name": "Türkçe büyük dil modeli geliştirilecek ve bu modelin geliştirilmesinde gönüllü katılımcıların da yer alacağı tüm ekosistemin katkısını almak amacıyla Türkçe Büyük Dil Modeli Topluluğu oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Dijital Dönüşüm Ofisi\n\n22 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nSanayi ve Teknoloji\n\nBakanlığı\n\nÜniversiteler\n\nTÜBİTAK\n\nSTK'ler\n\nSanayi ve Teknoloji\n\nKamu Kurumları\n\n23 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nBakanlığı TÜBİTAK CB Dijital Dönüşüm Ofisi\n\nÜniversiteler\n\nSTK'ler Özel Sektör\n\n24 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nEylem 2.3: Yapay zekâ ekosisteminin geliştirilmesi amacıyla yerli üretken yapay zekâ uygulamalarına yönelik ulusal yarışmalar düzenlenecektir"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.4",
+    "section_name": "Yurt içinde yapılan AR-GE çalışmaları sonucunda ortaya çıkan YZ ürün ve çözümlerinin KOBİ'ler tarafından kullanılmasını teşvik edecek destek programı hayata geçirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "KOSGEB Sanayi ve Teknoloji Bakanlığı\n\nTicaret Bakanlığı\n\n5/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.5",
+    "section_name": "Yapay zekâ tarafından oluşturulan içeriğin fikri mülkiyet haklarının açıklığa kavuşturulmasına yönelik rehber hazırlanacak ve YZ ürünlerinin patentlenebilmesine ilişkin standartlaştırma çalışmaları yapılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Adalet Bakanlığı Kültür ve Turizm Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n25 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nTürk Patent ve Marka\n\nKurumu\n\nEylem 2.6_Yapay zekâ alanında Türkiye'de faaliyet gösteren ulusal ve uluslararası firmalara ve ürünlere yönelik envanter oluşturulacak ve deneyimli girişimler ile kurumsal firmaların ve yatırımcıların bir araya getirildiği etkinlikler düzenlenecektir.\n\nDevlet Malzeme Ofisi\n\n26 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nSanayi ve Teknoloji\n\nSTK'ler TGB'ler\n\nBakanlığı\n\nDışişleri Bakanlığı\n\n27 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nSanayi ve Teknoloji\n\nCB Yatırım Ofisi\n\nBakanlığı\n\nTÜBİTAK Özel Sektör"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.7",
+    "section_name": "Küresel teknoloji firmalarının YZ alanındaki Ar-Ge faaliyetlerini Türkiye’de yürütmesine yönelik özel bir mekanizma kurgulanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi\n\n28 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.8",
+    "section_name": "YZ alanında çalışan araştırmacılar Yurt İçi ve Yurt Dışı Doktora Sonrası Araştırma Burs Programları ile desteklenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Üniversiteler Yükseköğretim Kurulu\n\nTÜBİTAK\n\nCB Dijital Dönüşüm Ofisi CB Strateji ve Bütçe Başkanlığı\n\n29 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nTÜBİTAK\n\nİlgili STK'ler\n\n30 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.9",
+    "section_name": "1711 - Yapay Zekâ Ekosistem Çağrısına çıkılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Yatırım Ofisi CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı Eylem 2.10_Girişim sermayesi fonları ile işbirlikleri geliştirilecektir.\n\nKalkınma Ajansları\n\n31 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek\n\nÜniversiteler Yükseköğretim Kurulu\n\nSanayi ve Teknoloji\n\nBakanlığı\n\nİlgili STK'ler"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 2.11",
+    "section_name": "Sektörlere özgü tematik kümelerin ve mükemmeliyet merkezlerinin kurulması teşvik edilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "6/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nEylem 3.1_YZ ürün ve çözümleri ile üretken yapay zekâ modellerinin geliştirilmesi amacıyla YZ alanında Türkiye'yi küresel oyuncu haline getirecek işlemci altyapısına yönelik ihtiyaç analizi yapılacak ve kapasite geliştirilecektir.\n\nSanayi ve Teknoloji Bakanlığı\n\n32 Kaliteli Veriye ve Teknik Altyapıya Erişim İmkânlarını Genişletmek\n\nUlaştırma ve Altyapı\n\nCB Dijital Dönüşüm Ofisi Strateji ve Bütçe Başkanlığı\n\nBakanlığı\n\nTÜBİTAK\n\nAdalet Bakanlığı Kişisel Verileri Koruma Kurumu\n\nSanayi ve Teknoloji Bakanlığı CB Strateji ve Bütçe Başkanlığı\n\n33 Kaliteli Veriye ve Teknik Altyapıya Erişim İmkânlarını Genişletmek\n\nCB Dijital Dönüşüm Ofisi Türkiye İstatistik Kurumu\n\nEylem 3.2_Kamu kurum ve kuruluşlarının sahip olduğu verilere ilişkin envanter çıkarılarak “Merkezi Kamu Veri Alanı” kurulacak ve bu verilerin araştırmacıların ve teknoloji geliştiricilerin kullanımına sunulmasına yönelik mekanizmalar geliştirilecektir.\n\nUlaştırma ve Altyapı Bakanlığı\n\nTÜBİTAK\n\nTicaret Bakanlığı Sosyal Güvenlik Kurumu\n\nGelir İdaresi Başkanlığı\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n34 Kaliteli Veriye ve Teknik Altyapıya Erişim İmkânlarını Genişletmek\n\nTÜBİTAK"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 3.3",
+    "section_name": "YZ alanındaki gereksinimler değerlendirilerek YBH altyapıları için ortak teknik referans mimarisi oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Strateji ve Bütçe Başkanlığı\n\nÜniversiteler\n\nAdalet Bakanlığı Sanayi ve Teknoloji Bakanlığı CB Strateji ve Bütçe Başkanlığı\n\n35 Kaliteli Veriye ve Teknik Altyapıya Erişim İmkânlarını Genişletmek\n\nUlaştırma ve Altyapı Bakanlığı Kişisel Verileri Koruma Kurumu\n\nCB Dijital Dönüşüm Ofisi"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 3.4",
+    "section_name": "YZ Ekosisteminde veri yönetişimine yönelik düzenlemeler iyileştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Ticaret Bakanlığı\n\nÜniversiteler\n\nİlgili STK’ler\n\nSanayi ve Teknoloji\n\nAdalet Bakanlığı İçişleri Bakanlığı Ticaret Bakanlığı\n\n36 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nBakanlığı CB Dijital Dönüşüm Ofisi\n\nTicaret Bakanlığı\n\nAB Başkanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.1",
+    "section_name": "YZ sistemlerinin geliştirilmesini, kullanılmasını ve YZ içeren sistemlerin piyasaya arzını düzenleyen uluslararası normlar ile uyumlu ulusal düzenleme yapılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "7/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nSanayi ve Teknoloji Bakanlığı\n\nÇalışma ve Sosyal Güvenlik\n\n37 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nMilli Eğitim Bakanlığı Gençlik ve Spor Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.2",
+    "section_name": "Toplumun genç kesimlerine yapay zekâ bilinci aşılamak ve bu konuda farkındalığı arttırmak amacıyla Yapay Zekâ Okuryazarlığı Seferberliği başlatılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Bakanlığı CB Dijital Dönüşüm Ofisi\n\nYüksek Öğretim Kurulu\n\n38 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nMilli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.3",
+    "section_name": "BİLSEM’lere yapay zekâ atölyeleri kurulacak, dijital eğitsel oyun yarışması düzenlenecek ve etki analizleri yapılacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\nTürkiye Barolar Birliği Ulaştırma ve Altyapı Bakanlığı\n\n39 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nAdalet Bakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.4",
+    "section_name": "YZ Uygulamaları Hukuki Değerlendirme Rehberi hazırlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türkiye Adalet Akademisi Hakimler ve Savcılar Kurulu Kişisel Verileri Koruma Kurumu\n\n40 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\nTÜBİTAK Eylem 4.5_YZ Değer ve İlkeler Etki Analizi Çerçevesi oluşturulacaktır.\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n41 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nTÜBİTAK"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.6",
+    "section_name": "Güvenilir YZ’nin denetimi için gereken araçlar geliştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türk Standardları Enstitüsü\n\nÜniversiteler\n\nEylem 4.7_YZ yaşam döngüsündeki işlevsel operasyonları kapsayan “Algoritmik hesap verebilirlik” ile ilgili denetim rehberlerinin hazırlanması, uygulama temelli teknik denetimlerin yapılması amacıyla gerekli mekanizmalar oluşturulacaktır.\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n42 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nTÜBİTAK\n\nTürk Standardları Enstitüsü\n\n8/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nAdalet Bakanlığı CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n43 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.8",
+    "section_name": "YZ Tabanlı Sosyal ve Beşeri Bilimler Projeleri desteklenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Üniversiteler Yurtdışı Türkler ve Akraba\n\nTÜBİTAK\n\nTopluluklar Başkanlığı Yükseköğretim Kurulu\n\n44 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.9",
+    "section_name": "YZ alanında uluslararası platformlarda benimsenen istatistikler ve ulusal politikaların incelenerek gerekli görülmesi durumunda Resmî İstatistik Programı güncellenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türkiye İstatistik Kurumu CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n45 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak\n\nTÜBİTAK"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.10",
+    "section_name": "YZ'nin Sosyo-ekonomik Etki Ölçümü üzerine uluslararası çalışmalardaki göstergeleri kapsamında araştırma ve analiz çalımaları yürütülecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Türkiye İstatistik Kurumu\n\nÜniversiteler\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Türkiye İş Kurumu Milli Eğitim Bakanlığı Ölçme, Seçme ve Yerleştirme\n\n46 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 4.11",
+    "section_name": "“YZ Etki Analizi - Sektör Raporları” adlı sektörel raporların hazırlanacak ve belirli aralıklarla güncellenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Merkezi Sanayi ve Teknoloji Bakanlığı\n\nCB İnsan Kaynakları Ofisi\n\nSosyal Güvenlik Kurumu\n\nTÜBİTAK Türkiye İstatistik Kurumu\n\nYükseköğretim Kurulu\n\n9/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nAdalet Bakanlığı Bilgi Teknolojileri ve İletişim\n\nKurumu Dışişleri Bakanlığı Ulaştırma ve Altyapı Bakanlığı\n\nSanayi ve Teknoloji\n\n47 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nBakanlığı CB Dijital Dönüşüm Ofisi"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.1",
+    "section_name": "YZ alanındaki uluslararsı çalışmaların takibi, bu konudaki çalışmalara ülkemizce etkin katılım sağlanması ve katkı verilmesi amacıyla \"Uluslararası YZ Çalışmaları Takip ve Koordinasyon Komitesi\" kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Kişisel Verilerin Korunması\n\nKurumu Ticaret Bakanlığı\n\nDışişleri Bakanlığı\n\nAB Başkanlığı\n\nTÜBİTAK Türk Standardları Enstitüsü\n\nTürkiye İstatistik Kurumu\n\nİlgili STK'ler\n\nDışişleri Bakanlığı Kültür ve Turizm Bakanlığı\n\n48 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nSanayi ve Teknoloji\n\nBakanlığı CB Dijital Dönüşüm Ofisi"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.2",
+    "section_name": "Türkçe BDM'lerin geliştirilmesinde Türki Cumhuriyetlerden veri temin edilmesi ve geliştirilen modelin Türki Cumhuriyetlerde kullanımı için işbirliği mekanizmaları geliştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "TÜBİTAK Türk Devletleri Teşkilatı\n\n49 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nSanayi ve Teknoloji"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.3",
+    "section_name": "Kendi büyük dil modelini geliştiren ülkeler veya bu konudaki küresel firmalarla bilgi ve tecrübe paylaşımına yönelik işbirlikleri geliştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Dışişleri Bakanlığı\n\nBakanlığı CB Dijital Dönüşüm Ofisi\n\nTÜBİTAK\n\nBilgi Teknolojileri ve İletişim\n\nKurumu CB Strateji ve Bütçe Başkanlığı\n\nDışişleri Bakanlığı Kişisel Verileri Koruma Kurumu\n\n50 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nCB Dijital Dönüşüm Ofisi"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.4",
+    "section_name": "Verinin güven içerisinde serbest dolaşımına ilişkin çalışmalar takip edilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Sanayi ve Teknoloji Bakanlığı\n\nTicaret Bakanlığı\n\nTÜBİTAK Türk Standardları Enstitüsü\n\nİlgili STK'ler\n\n10/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Dışışleri Bakanlığı\n\n51 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nYurtdışı Türkler ve Akraba\n\nİçişleri Bakanlığı\n\nTopluluklar Başkanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.5",
+    "section_name": "Türk diasporasında YZ alanında çalışan akademisyenler ve uzmanlar ülkemiz YZ ekosistemi ile buluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "TÜBİTAK Yükseköğretim Kurulu\n\nÜniversiteler\n\nCB İnsan Kaynakları Ofisi\n\nDışişleri Bakanlığı Milli Eğitim Bakanlığı\n\n52 Uluslararası Düzeyde İş Birliklerini Güçlendirmek\n\nTÜBİTAK Üniversiteler Yurtdışı Türkler ve Akraba\n\nTürkiye Ulusal Ajansı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 5.6",
+    "section_name": "Yapay Zekâ Alanında Yükseköğretim Öğrenci ve Personel Değişim Faaliyetleri desteklenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Topluluklar Başkanlığı Yükseköğretim Kurulu\n\n53 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nTÜBİTAK Kamu Kurumları Eylem 6.1_Kamu idarelerinin ihtiyaçları sektör uzmanlığı ile eşleştirmek üzere yeni \"Kamu YZ Ekosistem Çağrıları\" açılacaktır.\n\nCB Dijital Dönüşüm Ofisi\n\n54 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nCB Dijital Dönüşüm Ofisi"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.2",
+    "section_name": "YZ ürünlerinin risk odaklı değerlendirilmesine imkân tanıyan \"YZ Risk Yönetimi Sistemi Belgelendirme Programı\" hayata geçirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Sanayi ve Teknoloji Bakanlığı\n\nTürk Standardları\n\nTÜBİTAK\n\nEnstitüsü\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\n55 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nTürk Standardları\n\nEnstitüsü\n\nTÜBİTAK\n\nİlgili STK'ler\n\n56 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.3",
+    "section_name": "YZ uygulamaları denetim ve yasal uyumu için belgelendirme mekanizması doğrultusunda “Güvenilir Yapay Zekâ Damgası\" oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "İlgili Tüm Kurumlar İlgili Tüm Kurumlar Eylem 6.4_Kamu kurum ve kuruluşları yapay zekâ uygulamalarının yaygınlaşmasına öncülük edecek projeleri hayata geçirecektir.\n\n11/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.5",
+    "section_name": "Kamuda YZ projelerine ve uzmanlıklarına yönelik dinamik bir envanter oluşturulacak, güvenilir YZ uygulamaları için kurumsal kapasite gelişimi desteklenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi\n\n57 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nCB Dijital Dönüşüm Ofisi\n\nTüm Bakanlıklar Yerel Yönetimler\n\n58 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nSanayi ve Teknoloji\n\nMilli Eğitim Bakanlığı Yükseköğretim Kurulu\n\nBakanlığı Türkiye İş Kurumu\n\n59 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nTÜBİTAK Tüm Bakanlıklar\n\n60 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nEylem 6.6: YZ alanında mevcut işgücünün dönüşümü için özelleştirilmiş YZ eğitim modeli tasarlanacaktır"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.7",
+    "section_name": "YZ Enstitüsü kurumsal kapasitesi tüm ekosistemi destekleyecek şekilde geliştirilecek ve Enstitü bünyesinde Temel Yapay Zekâ Araştırma Grubu kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Eylem 6.8_Ülkemizin siber uzaydaki varlıklarına karşı yöneltilen özellikle yapay zekâ ile güçlendirilmiş yeni nesil siber tehditlerin tespit edilmesi, önlenmesi ve etkilerinin azaltılması kapsamındaki işlerin tek elden yürütülmesi amacıyla gerekli politika ve mevzuat geliştirme çalışmaları yürütülecektir.\n\nUlaştırma ve Altyapı Bakanlığı\n\nSanayi ve Teknoloji\n\nCB Dijital Dönüşüm Ofisi\n\nBakanlığı\n\n61 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nCB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\nTÜBİTAK"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.9",
+    "section_name": "Kurumsal YZ ve İleri Analitik Proje Yönetim Rehberi oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Dijital Dönüşüm Ofisi\n\nTüm Bakanlıklar Türkiye Belediyeler Birliği\n\n62 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nCB İnsan Kaynakları Ofisi\n\nTÜBİTAK İlgili STK'ler\n\n63 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.10",
+    "section_name": "YZ’nin potansiyel etkileri ve gerektirdiği yetkinlikler doğrultusunda farkındalık artırıcı eğitim programları uygulanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi CB Dijital Dönüşüm Ofisi\n\nTüm Bakanlıklar"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.11",
+    "section_name": "YZ olgunluk modeli çerçevesinde iş gücü profilinin ortaya çıkarılarak personel yetkinlikleri geliştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "12/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\n64 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nTÜBİTAK Tüm Bakanlıklar\n\nİlgili STK'ler\n\n65 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nEylem 6.12: TÜBİTAK Bilgem Yapay Zekâ Enstitüsü yönetiminde “Türkiye Yapay Zekâ Portali” kurulacak ve idame ettirilecektir"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.13",
+    "section_name": "TÜBİTAK BİLGEM Yapay Zekâ Enstitüsü bünyesinde ortak fonlama ile kurulacak olan ve Enstitünün tematik alan yapılanmasıyla uyumlu “YZE Birlikte Geliştirme Laboratuvarlarının” kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "TÜBİTAK CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı Türkiye İş Kurumu Mesleki Yeterlilik Kurumu\n\nMilli Eğitim Bakanlığı Ölçme, Seçme ve Yerleştirme\n\n66 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.14",
+    "section_name": "Yapay zekânın mevcut meslekler ve iş gücü üzerine etkisi sektörel analizler ile tespit edilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Merkezi Sanayi ve Teknoloji Bakanlığı\n\nCB İnsan Kaynakları Ofisi\n\nSosyal Güvenlik Kurumu Türkiye İstatistik Kurumu\n\nÜniversiteler Yükseköğretim Kurulu\n\nİlgili STK'ler\n\nCB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi Çalışma ve Sosyal Güvenlik\n\n67 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.15",
+    "section_name": "YZ alanında ulusal meslek standartları ve ulusal yeterlikler hazırlanacak ve bu kapsamda ölçme değerlendirme altyapısı kurulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Bakanlığı Türkiye İş Kurumu Milli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\nMesleki Yeterlilik Kurumu\n\nİlgili STK'ler\n\n13/14\n\nNo Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı\n\nCB İnsan Kaynakları Ofisi Çalışma ve Sosyal Güvenlik\n\nBakanlığı\n\n68 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.16",
+    "section_name": "YZ alanında ortaya çıkan yeni becerilere olan ihtiyaç belirlenecek, mesleki eğitim kursu ve işbaşı eğitim programı ile iş gücünün yeni becerilere uyumu sağlanacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "KOSGEB Mesleki Yeterlilik Kurumu\n\nTürkiye İş Kurumu\n\nMilli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\nİlgili STK'ler\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı\n\nKOSGEB Milli Eğitim Bakanlığı Sanayi ve Teknoloji Bakanlığı\n\n69 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nTürkiye İş Kurumu"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.17",
+    "section_name": "Mesleki eğitim kursları ve işbaşı eğitim programları ile YZ nedeniyle istihdam olanakları daralacak işsizlere ve mevcut durumda çalışan kişilere yönelik eğitimler düzenlenecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB İnsan Kaynakları Ofisi\n\nİlgili STK'ler\n\nTürkiye İş Kurumu\n\nKOSGEB Üniversiteler Yükseköğretim Kurulu\n\n70 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nCB İnsan Kaynakları Ofisi\n\nTüm Bakanlıklar"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.18",
+    "section_name": "Alana özel uzaktan eğitim ve çevrim içi içerik kapasitesi iyileştirilecektir",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "CB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi İlgili Meslek Birlikleri ve STK'ler\n\n71 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak\n\nÇalışma ve Sosyal Güvenlik\n\nBakanlığı"
+  },
+  {
+    "depth": 3,
+    "section_id": "Eylem 6.19",
+    "section_name": "YZ’nin mesleklerin dönüşümü ve iş gücüne etkisinin değerlendirilmesi amacıyla kurum bünyesinde bir çalışma takımı oluşturulacaktır",
+    "id_kind": "initiative",
+    "parent_id": "",
+    "body": "Sanayi ve Teknoloji Bakanlığı\n\n14/14"
+  }
+]

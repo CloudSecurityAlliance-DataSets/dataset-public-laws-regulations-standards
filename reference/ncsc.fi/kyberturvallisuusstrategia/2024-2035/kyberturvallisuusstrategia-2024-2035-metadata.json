@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ncsc.fi/kyberturvallisuusstrategia@2024-2035",
+  "name": "Finland's Cyber Security Strategy 2024–2035",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024-2035",
+  "publication_id": "kyberturvallisuusstrategia-2024-2035",
+  "owner": "National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Finland's Cyber Security Strategy 2024–2035 (Government Resolution VNK/2024/135 of October 10, 2024). National cybersecurity strategy adopted by the Finnish Government under the Comprehensive Security (Kokonaisturvallisuus) model, coordinated by the Security Committee (Turvallisuuskomitea) and the Prime Minister's Office.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (ncsc.fi); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (ncsc.fi); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://urn.fi/URN:ISBN:978-952-383-425-5",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-10-10",
+    "active": true,
+    "supersedes": "secid:reference/ncsc.fi/kyberturvallisuusstrategia@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ncsc.fi/kyberturvallisuusstrategia@2024-2035 (https://urn.fi/URN:ISBN:978-952-383-425-5) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

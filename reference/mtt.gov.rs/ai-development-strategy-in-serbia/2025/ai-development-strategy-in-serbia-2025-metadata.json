@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mtt.gov.rs/ai-development-strategy-in-serbia@2025",
+  "name": "Strategy for the Development of Artificial Intelligence in the Republic of Serbia (2025–2030 / 2020–2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "ai-development-strategy-in-serbia-2025",
+  "owner": "Ministry of Information and Telecommunications & Government of the Republic of Serbia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Strategy for the Development of Artificial Intelligence in the Republic of Serbia (2025–2030 / 2020–2025)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ai.gov.rs/tekst/en/92/ai-strategy.php",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-01",
+    "active": true,
+    "supersedes": "secid:reference/mtt.gov.rs/ai-development-strategy-in-serbia@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mtt.gov.rs/ai-development-strategy-in-serbia@2025 (https://www.ai.gov.rs/tekst/en/92/ai-strategy.php) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

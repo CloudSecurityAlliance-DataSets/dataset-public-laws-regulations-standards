@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nukib.gov.cz/national-ai-strategy@2024",
+  "name": "National Artificial Intelligence Strategy of the Czech Republic 2030 (NAIS 2030) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-ai-strategy-2024",
+  "owner": "National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Artificial Intelligence Strategy of the Czech Republic 2030 (NAIS 2030)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mpo.gov.cz/en/business/digital-economy/artificial-intelligence/national-artificial-intelligence-strategy-of-the-czech-republic-2030--282389/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-24",
+    "active": true,
+    "supersedes": "secid:reference/nukib.gov.cz/national-ai-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nukib.gov.cz/national-ai-strategy@2024 (https://mpo.gov.cz/en/business/digital-economy/artificial-intelligence/national-artificial-intelligence-strategy-of-the-czech-republic-2030--282389/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

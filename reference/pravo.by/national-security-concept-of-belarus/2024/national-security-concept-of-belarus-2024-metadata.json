@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/pravo.by/national-security-concept-of-belarus@2024",
+  "name": "National Security Concept of the Republic of Belarus (Approved by Decision of the All-Belarusian People's Assembly No. 5) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-security-concept-of-belarus-2024",
+  "owner": "National Legal Internet Portal of the Republic of Belarus",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Concept of the Republic of Belarus (Approved by Decision of the All-Belarusian People's Assembly No. 5)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Legal Internet Portal of the Republic of Belarus (pravo.by) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Legal Internet Portal of the Republic of Belarus (pravo.by).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (pravo.by); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (pravo.by); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://pravo.by/document/?guid=12551&p0=P924v0005",
+    "textUsed": "https://pravo.by/upload/docs/op/P924v0005_1714078800.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-04-25",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 32-page PDF (https://pravo.by/upload/docs/op/P924v0005_1714078800.pdf) locally via PyMuPDF (105,878 chars). Parsed 35 sections (34 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

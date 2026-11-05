@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2013",
+  "name": "Estrategia de Seguridad Nacional 2013",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "estrategia-seguridad-nacional-2013",
+  "owner": "Departamento de Seguridad Nacional",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia de Seguridad Nacional 2013 (adopted May 31, 2013).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.lamoncloa.gob.es/documents/seguridad_1406connavegacionfinalaccesiblebpdf.pdf",
+    "textUsed": "https://www.lamoncloa.gob.es/documents/seguridad_1406connavegacionfinalaccesiblebpdf.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-05-31",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2017",
+    "retiredFromActiveUse": "2017-12-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 68-page PDF (https://www.lamoncloa.gob.es/documents/seguridad_1406connavegacionfinalaccesiblebpdf.pdf) locally via PyMuPDF (124,116 chars). Parsed 54 sections (49 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,1405 @@
+# Estrategia Nacional de Inteligencia Artificial (ENIA 2020)
+
+Versión 1.0
+
+0. PRÓLOGO
+
+I. INTRODUCCIÓN
+
+II. OBJETIVOS DE LA ESTRATEGIA
+
+## III. PLAN DE ACCIÓN
+
+5
+
+14
+
+17
+
+EJE ESTRATÉGICO 1. Impulsar la investigación cientíﬁca, el desarrollo tecnológico y la innovación en IA.
+
+22
+
+EJE ESTRATÉGICO 2. Promover el desarrollo de capacidades digitales, potenciar el talento nacional y atraer talento global en inteligencia artiﬁcial.
+
+30
+
+EJE ESTRATÉGICO 3. Desarrollar plataformas de datos e infraestructuras tecnológicas que den soporte a la IA
+
+40
+
+EJE ESTRATÉGICO 4. Integrar la IA en las cadenas de valor para transformar el tejido económico.
+
+48
+
+EJE ESTRATÉGICO 5. Potenciar el uso de la IA en la administración pública y en las misiones estratégicas nacionales.
+
+56
+
+EJE ESTRATÉGICO 6. Establecer un marco ético y normativo que refuerce la protección de los derechos individuales y colectivos, a efectos de garantizar la inclusión y el bienestar social.
+
+IV. RESUMEN DE MEDIDAS
+
+## V. GOBERNANZA Y PRESUPUESTOS
+
+ANEXOS
+
+64
+
+71
+
+74
+
+78
+
+ANEXO 1. MATRIZ DE RELACIÓN ENTRE OBJETIVOS Y EJES ESTRATÉGICOS
+
+81
+
+ANEXO 2. EL PAPEL DE LA INTELIGENCIA ARTIFICIAL EN LA RESPUESTA A LA PANDEMIA COVID-19
+
+ACRÓNIMOS
+
+RECONOCIMIENTOS
+
+84
+
+87
+
+NOVIEMBRE 2020
+
+## PROLOGO
+
+´
+
+E
+
+ingenio y espíritu emprendedor han empujado siempre a la Humanidad a superarse y a encontrar respuestas y soluciones a muchos de los problemas a los que se ha tenido que enfrentar. A lo largo del último siglo, la Inteligencia Humana ha logrado desarrollar tecnologías que están abriendo nuevos horizontes en nuestros sistemas económicos y sociales, propiciando avances extraordinarios en el ámbito cientíﬁco, en el ecosistema de industria y servicios, en la gestión de los recursos, en la gestión pública, la gobernanza de nuestras sociedades y el estado de bienestar.
+
+La Inteligencia Artiﬁcial (en adelante, IA) ha sido identiﬁcada a nivel mundial como una de estas tecnologías con mayor proyección e impacto en todas las áreas de actividad. La IA actúa como un catalizador de la investigación y la innovación, haciendo de la generación, almacenamiento y procesado masivo de datos (Big Data) un sector económico en sí mismo en el nuevo escenario digital y de desarrollo tecnológico. Estos fenómenos están teniendo ya un fuerte impacto transformador en múltiples sectores de actividad: medioambiente; energía; industria; turismo; transporte, movilidad y logística; alimentación, agricultura y ganadería; banca y seguros; comercio minorista; construcción; e industrias creativas y culturales.
+
+A ellos se suman sectores sensibles y estratégicos tales como la Sanidad, la Educación, o la Seguridad.
+
+Desde el Gobierno de España queremos liderar el desarrollo y la integración de la IA en el tejido productivo, la economía y la sociedad. Este liderazgo de los poderes públicos es especialmente importante en la medida en que contribuye a poner el desarrollo tecnológico al servicio de la ciudadanía, actuando como un factor de salvaguarda de nuestros valores, de nuestros derechos y del estado de bienestar social. Sanidad, Educación, Justicia, Dependencia y sistema de prestaciones públicas son pilares y marca distintiva de España como país. Partiendo de la investigación y la innovación, y pasando por la modernización de nuestro tejido productivo y de algunos ámbitos públicos claves, así como por la potenciación de la formación y cualiﬁcación en habilidades digitales, la IA puede ser un vector importante de crecimiento económico mediante un círculo virtuoso entre la tecnología y nuestro sistema político, social, económico e industrial.
+
+Teniendo en cuenta la creciente extensión de la IA en todos los ámbitos de la economía productiva, la incorporación de la mujer representa una cuestión prioritaria, en el plano formativo y en los ámbitos productivo, cientíﬁco y tecnológico.
+
+La tecnología ha de servir como herramienta para reducir y eliminar las múltiples brechas que aún persisten en nuestro país en función del género, la edad, el entorno urbano o rural de residencia, o la capacidad económica y nivel formativo.
+
+Por último, la cuestión central que subyace en el desarrollo y la extensión de la IA es la cuestión ética. El uso extendido y la gestión de los datos mediante la acción de los algoritmos y sistemas autónomos tiene múltiples implicaciones en el plano ético y moral que exige procesos y mecanismos de control que protejan nuestros valores, principios y derechos. La elaboración de una Carta de Derechos Digitales y la creación de mecanismos de observación de la Ética de la IA son dos de las iniciativas recogidas en esta Estrategia al ﬁn de consensuar un marco adecuado para este desarrollo tecnológico.
+
+Esta Estrategia Nacional no está planteada como un documento cerrado, de carácter administrativo, sino como un marco dinámico, ﬂexible y abierto a la aportación de las empresas, ciudadanos, agentes sociales y resto de administraciones públicas. Es un proyecto de país, en el que el Gobierno quiere integrar a todos, para una economía inclusiva y sostenible. Es también un compromiso compartido con nuestros socios europeos para que la UE se sitúe como líder en el despliegue de una IA inclusiva, ética, conﬁable y económicamente eﬁciente.
+
+España ha hecho grandes avances y parte de una buena posición para lograr protagonismo y ser una de las voces en Europa y el mundo en lo que se reﬁere a innovación y desarrollo tecnológico. Su tupida red de infraestructuras, la posición de liderazgo en el despliegue de la tecnología 5G, crucial para el desarrollo de los datos, la fortaleza del sistema universitario y las capacidades en determinados ámbitos clave, como la computación de alto rendimiento, la ciberseguridad, la propia IA y otras tecnologías habilitadoras digitales, proporcionan una buena base para afrontar el intenso proceso de digitalización y la disrupción tecnológica.
+
+Es una gran oportunidad poder realizar esta transición digital poniendo a las personas en el centro de la acción de los poderes públicos, para no dejar a nadie atrás y salvaguardar los derechos fundamentales y los valores sobre los que se asientan las sociedades europeas.
+
+Pedro Sánchez Castejón PRESIDENTE DEL GOBIERNO Noviembre 2020
+
+INTRODUCCION
+
+´
+
+## INTRODUCCIÓN
+
+QUÉ ES LA INTELIGENCIA ARTIFICIAL
+
+Del mismo modo que la inteligencia humana es muy compleja de deﬁnir, no existe aún una deﬁnición formal y universalmente aceptada de Inteligencia Artiﬁcial (IA). La Comisión Europea se ha referido recientemente¹ a la IA como “sistemas de software (y posiblemente también de hardware) diseñados por humanos que, ante un objetivo complejo, actúan en la dimensión física o digital: percibiendo su entorno, a través de la adquisición e interpretación de datos estructurados o no estructurados, razonando sobre el conocimiento, procesando la información derivada de estos datos y decidiendo las mejores acciones para lograr el objetivo dado. Los sistemas de IA pueden usar reglas simbólicas o aprender un modelo numérico, y también pueden adaptar su comportamiento al analizar cómo el medio ambiente se ve afectado por sus acciones previas”
+
+Aunque la IA nace como disciplina académica en 1956, ha atravesado una serie de ciclos de altas expectativas alternados con épocas de menor atención. A partir de sistemas basados en la programación humana y los esquemas de decisión predeterminados, todo indica que gracias a una serie de factores, se ha producido un salto exponencial que ha puesto en marcha un proceso irreversible de expansión de la IA dentro de nuestro sistema económico y social, sobre la base de sistemas autónomos que son capaces de aprender y establecer las propias pautas de acción sobre la base del análisis de un gran volumen de datos. Entre estos factores cabe destacar:
+
+• El enorme crecimiento en la cantidad de datos disponibles
+
+• Los avances en la potencia y capacidad de los sistemas de computación y almacenamiento
+
+• La investigación y desarrollo con éxito de nuevos algoritmos y métodos de aprendizaje automático.
+
+¹https://publications.jrc.ec.europa.eu/repository/bitstream/JRC118163/jrc118163_ai_watch._deﬁning_artiﬁcial_intelligence_1.pdf
+
+Quizá la mejor forma de entender el potencial de la IA radica en el hecho de que gran parte de estos sistemas pueden resolver problemas complejos, aplicando técnicas avanzadas de programación, sin necesidad de establecer de antemano los pasos o instrucciones a seguir, tal y como sucede en los programas informáticos convencionales. Los sistemas de IA reciben como entrada múltiples datos (casos o ejemplos) y, a partir de ellos, ajustan sus modelos internos hasta encontrar la solución a un problema.
+
+ÁREAS DE APLICACIÓN DE LA IA EN LA ACTUALIDAD
+
+Además de su incidencia en actividades cotidianas (buscadores de Internet, asistentes personales, electrodomésticos, recomendaciones de comercio electrónico, la inteligencia artiﬁcial en la robotización de procesos informáticos o físicos, etc.), así como en los ámbitos de investigación multidisciplinar, la IA tiene un alto potencial de aplicación en diferentes áreas de la actividad profesional y de servicios. En el ámbito sanitario en el diseño de nuevos fármacos y reduciendo los tiempos y costes de su producción, reduciendo errores de diagnóstico, mejorando la prevención y tratamiento personalizado de las enfermedades más frecuentes; en las industrias de materiales creando nuevos biomateriales que ofrezcan mejores aplicaciones a la ingeniería, en la productividad empresarial y de la administración, optimizando recursos y automatizando procesos, lo que permite la predicción de la demanda y la mejora de la productividad; en el ámbito ﬁnanciero, mejorando la eﬁciencia de los sistemas de gestión de riesgos; en la educación, permitiendo la adaptación del aprendizaje a las necesidades personales; en el ámbito del transporte, la movilidad y la logística, mejorando la gestión, la eﬁciencia y la seguridad; o en el impacto medioambiental, permitiendo una mejor gestión de las redes energéticas y la eﬁciencia climática de ediﬁcios, la mitigación y adaptación al cambio climático, la predicción meteorológica y climática, entre otras aplicaciones. En los últimos meses, la IA ha jugado un papel relevante en la respuesta a la pandemia del covid-19, tal y como se describe en el Anexo 2.
+
+La IA tiene, por tanto, un gran potencial de transformación desde el punto de vista tecnológico, económico, ambiental y social dada su penetración intersectorial, elevado impacto, rápido crecimiento y contribución a la mejora de la competitividad.
+
+SECTORES CON UN MAYOR IMPACTO ESPERADO DE LA IA A CORTO / MEDIO PLAZO
+
+Telecomunicaciones
+
+Servicios ﬁnancieros (seguros)
+
+Retail y Distribución
+
+Sanidad y salud
+
+Servicios ﬁnancieros (banca)
+
+Turismo
+
+Energía & Utilities
+
+Industria, fabricación y automoción
+
+Medios de comunicación
+
+4,7%
+
+Servicios
+
+3,4%
+
+Administración
+
+2,7%
+
+Construcción
+
+Fuente: Realidad y perspectivas de la IA en España, PWC & Microsoft. 2018)
+
+12,8%
+
+12,1%
+
+11,4%
+
+11,4%
+
+10,7%
+
+9,4%
+
+7,4%
+
+7,4%
+
+6,7%
+
+SITUACIÓN ACTUAL DE LA IA EN ESPAÑA
+
+España parte de una posición favorable para abordar esta revolución tecnológica y cientíﬁca, contando con infraestructuras de calidad y necesarias para poder desarrollar actividades relacionadas con la IA. Durante décadas se ha realizado una gran inversión en infraestructuras y tecnologías de la información y la comunicación, como por ejemplo las instalaciones de alto rendimiento computacional que pueden procesar cantidades masivas de datos. Además, la existencia de excelentes grupos de I+D+I públicos y privados, el avance en la digitalización de la Administración Pública, y la presencia de empresas líderes en sectores clave – como las telecomunicaciones, el retail, y la distribución, salud, movilidad, construcción, servicios ﬁnancieros, turismo, agroalimentario – que tienen un efecto tractor, ofrecen una gran oportunidad para la integración y el despliegue de la IA en nuestro país. No obstante, este proceso también plantea importantes retos, como:
+
+• Aumentar las competencias digitales de la población, en especial la de las personas en situación o riesgo de exclusión social.
+
+• Acelerar la digitalización del tejido de pequeñas y medianas empresas (PYMEs).
+
+• Promover la creación de repositorios de datos y facilitar el acceso a los mismos.
+
+• Mejorar la eﬁciencia y productividad de los servicios públicos.
+
+• Estimular la colaboración e incrementar la inversión pública y privada en I+D+I.
+
+Consolidar y ampliar el ecosistema español de IA es un requisito necesario para la correcta integración de los activos I+D+I, económicos e industriales en los nuevos desarrollos tecnológicos. También para la integración del potencial humano en las actividades económicas y para la generación de sinergias entre los sistemas productivo y social. Liderar la inclusión y el uso de la lengua española en la IA mediante el desarrollo de herramientas, la correcta aplicación e incorporación en diversas tecnologías o servicios, así como el desarrollo de buenas prácticas para el uso de la lengua española aplicado a soluciones de IA.
+
+El liderazgo de los poderes públicos es especialmente importante en este ámbito, en la medida en que contribuye a poner el desarrollo tecnológico al servicio de la sociedad y como un factor desalvaguarda de nuestro estado de bienestar social. Sanidad, Educación, Justicia, dependencia y sistema de prestaciones son pilares y marca distintiva de España como país. España busca que la IA contribuya a consolidar nuestro estado de bienestar, aportando a su vez los datos y activos necesarios para impulsar la innovación y un desarrollo tecnológico por y para la sociedad, en un círculo virtuoso entre la tecnología y nuestro sistema político, social, económico e industrial.
+
+RECURSOS DE LA IA EN EUROPA
+
+Digital Innovation Hubs - Digital Innovation Hubs Al Study Topics - Al Study Topics Human resources in science and technology (% share of economically active population)
+
+< 28 28 - 38 38 - 46 46 - 54 > 54
+
+Fuente: Comisión Europea² ² https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool
+
+¿POR QUÉ UNA ESTRATEGIA NACIONAL DE IA?
+
+Todo lo expuesto justiﬁca la conveniencia de poner en marcha una Estrategia Nacional de Inteligencia Artiﬁcial que permita vertebrar la acción de las distintas administraciones y proporcionar un marco de referencia e impulso para el sector público y privado. De hecho, el impulso a la Inteligencia Artiﬁcial constituye uno de los elementos principales de la Agenda España Digital 2025, presentada en julio de 2020, en su línea de acción 9 sobre Economía del dato e Inteligencia Artiﬁcial, sobre la base del trabajo ya iniciado en el contexto de la Agenda del Cambio 3 , presentada en febrero de 2019, de los programas de apoyo a las Tecnologías Habilitadoras Digitales 4 y de la Estrategia española de I+D+I en Inteligencia Artiﬁcial presentada en marzo de 2019. Se trata de un elemento clave de carácter transversal para transformar el modelo productivo e impulsar el crecimiento de la economía española en los próximos años.
+
+Sin embargo, la IA no es contemplada en esta estrategia únicamente como un ámbito de investigación cientíﬁca y un campo propicio para la innovación empresarial o el desarrollo industrial. Existe una gran oportunidad para aplicar la IA como un elemento de transformación de la economía y la sociedad, incluido el funcionamiento de los servicios públicos y la transparencia de las administraciones así como abordar los grandes retos sociales como la brecha de género, la brecha digital o la transición ecológica.
+
+Para dar una respuesta adecuada a los múltiples impactos que se esperan de estos cambios tecnológicos acelerados, se requiere una aproximación interdisciplinar centrada en las personas y el medio ambiente, que incorpore las distintas perspectivas de la Ingeniería en Informática, las ingenierías técnicas, las matemáticas, la biología, la neurociencia, la sociología, psicología, la economía, la física, las ciencias terrestres y ambientales, el derecho y las humanidades, con el ﬁn de impulsar el despliegue de la IA en un marco que preserve nuestros valores democráticos, y el respeto al marco de derechos individuales y colectivos.
+
+El reto se sitúa en lograr la adecuada visibilidad e impulsar los procesos de inversión privada que puede aprovechar nuestra capacidad como país para afrontar desafíos en el terreno económico, social, medioambiental, y de gestión pública o gobernanza, a partir de la aplicación de IA, reforzando también la posición de España en el plano europeo e internacional, tal y como se abordará en la futura Estrategia Nacional de Tecnología y Orden Global.
+
+³http://www.mineco.gob.es/stﬂs/mineco/ministerio/ﬁcheros/190208_agenda_del_cambio.pdf 4European Commission. Preparing for our future: Developing a common strategy for key enabling technologies in the EU. Communication of the European Commission COM (2012) 341 ﬁnal. https://eacea.ec.europa.eu/sites/eacea-site/ﬁles/information_note_on_kets_blueprint.pdf
+
+ALINEACIÓN CON LA POLÍTICA DE LA UE
+
+La elaboración de la presente Estrategia Nacional responde al compromiso compartido con nuestros socios europeos para que la UE se sitúe como líder en esta materia. Este compromiso viene recogido en la Agenda Digital para Europa 5, la Estrategia “IA para Europa 6” adoptada en 2018, el Plan Coordinado de la IA 7 2019-2027, “Cómo medir la transformación digital” de la OCDE 8, el “Libro Blanco sobre Inteligencia Artiﬁcial” publicado en Febrero de 2020 9, la política europea “Artiﬁcial Intelligence 10. Los puntos más relevantes a destacar son los siguientes:
+
+• Libro Blanco sobre Inteligencia Artiﬁcial: Destaca la necesidad de reforzar las capacidades industriales y tecnológicas, con la correspondiente adaptación normativa, de coordinación y de gobierno, que impulse este crecimiento de las capacidades de manera ética y ﬁable, alineado con la postura de la UE, así como con el correspondiente marco de seguridad y responsabilidad civil. También se destaca la necesidad de reforzar las capacidades y el talento, con el ﬁn de aumentar la adopción de la IA en el mercado, en especial en las PYMEs.
+
+• Política europea “Artiﬁcial Intelligence”: Construye un marco de desarrollo que incluye aspectos tecnológicos, de seguridad 11 , de protección 12, éticos, inclusivos, legales y socio-económicos para impulsar la investigación y capacidad industrial, con el ﬁn de poner la IA a disposición de la ciudadanía. Este marco se centra en los cambios socio-económicos que vienen derivados del uso y la implementación de la IA, en la coordinación europea de investigación e iniciativas, en la creación y el desarrollo de talento especializado y en garantizar la protección 13 y el estado de bienestar de la ciudadanía, prestando atención en la centricidad en el ciudadano y la conﬁanza en la IA 14.
+
+Adicionalmente y con el ﬁn de impulsar la IA de manera conjunta, los Estados miembros de la UE ﬁrmaron una declaración de cooperación durante el Digital Day 2018 15. Esta declaración pretende construir sobre los logros e inversiones europeas en materia de IA y sienta las bases del Plan Coordinado de IA 16.
+
+5http://www.europarl.europa.eu/factsheets/es/sheet/64/una-agenda-digital-para-europa 6http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2018/0237/com_COM(2018)0237_en.pdf 7https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artiﬁcial-intelligence 8https://doi.org/10.1787/af309cb9-es 9https://ec.europa.eu/info/ﬁles/white-paper-artiﬁcial-intelligence-european-approach-excellence-and-trust_en 10https://ec.europa.eu/digital-single-market/en/artiﬁcial-intelligence 11https://ec.europa.eu/info/ﬁles/commission-report-safety-and-liability-implications-ai-internet-things-and-robotics_en 12https://ec.europa.eu/info/ﬁles/regulation-eu-2016-679-protection-natural-persons-regard-processing-personal-data-and-free-movement-such-data_en 13https://ec.europa.eu/info/ﬁles/regulation-eu-2016-679-protection-natural-persons-regard-processing-personal-data-and-free-movement-such-data_en 14https://ec.europa.eu/digital-single-market/en/european-ai-alliance 15https://ec.europa.eu/digital-single-market/en/news/eu-member-states-sign-cooperate-artiﬁcial-intelligence 16https://ec.europa.eu/digital-single-market/en/news/coordinated-plan-artiﬁcial-intelligence
+
+En línea con este enfoque, la Comisión Europea indicó en su reunión extraordinaria del 1 y 2 de Octubre de 202017 , que el 20% de los fondos de Mecanismo de Recuperación y Resiliencia estarán disponibles para la transición digital, en particular para las PYMEs, con objetivos como el fomento de las capacidades tecnológicas, el desarrollo de capacidades en las cadenas de valor digitales estratégicas, acelerar el despliegue de infraestructuras y de muy alta capacidad (en particular la ﬁbra y la 5G) y mejorar la capacidad de la UE para protegerse contra las ciberamenazas, proporcionar entornos de comunicación seguros, especialmente mediante la encriptación cuántica y garantizar el acceso a los datos a efectos judiciales y políticos.
+
+La elaboración de la presente Estrategia Nacional responde al compromiso compartido con nuestros socios europeos para que la UE se sitúe como líder en esta materia. Este compromiso viene recogido en la Agenda Digital para Europa, la Estrategia “IA para Europa” adoptada en 2018, el Plan Coordinado de la IA 2019-2027, la Comunicación COM (2020) 65 ﬁnal “Conﬁgurar el futuro digital de Europa 18“ y el “Libro Blanco sobre Inteligencia Artiﬁcial” publicado en Febrero de 2020.
+
+La presente Estrategia también incorpora los trabajos liderados por el Ministerio de Ciencia e Innovación y el actual Ministerio de Universidades, que celebró diversas reuniones con el sector privado y los agentes sociales, analizó las posibilidades de acción de la Administración Pública en el desarrollo de la IA y otras tecnologías habilitadoras. En este contexto, se realizó un análisis DAFO de los principales activos, vulnerabilidades, oportunidades y riesgos identiﬁcados para España, y un Mapa de Capacidades de IA , que fue presentado en octubre de 2019 19. Este mapa ha sido uno de los objetivos de la Prioridad 1 de la Estrategia Española de I+D+I en IA, lanzada por el Ministerio de Ciencia, Innovación y Universidades 20 el pasado 4 de marzo de 2019. El mapa es también un compromiso de los Estados Miembros con la Unión Europea reﬂejado en el Plan Coordinado de la IA (COM (2018) 795 ﬁnal) I+D+I.
+
+Sobre la base de este trabajo, la presente Estrategia Nacional de Inteligencia Artiﬁcial se plantea como un marco de referencia para el periodo 2020-2025 que permita orientar los planes sectoriales, estatales y estrategias regionales en esta materia, en línea con las políticas desarrolladas por la UE, e impulsar la transformación de los diferentes sectores económicos mediante la cooperación público-privada.
+
+17https://www.consilium.europa.eu/media/45932/021020-euco-ﬁnal-conclusions-es.pdf 18https://mapa.estrategiaia.es/mapa 19http://www.ciencia.gob.es/stﬂs/MICINN/Ciencia/Ficheros/Estrategia_Inteligencia_Artiﬁcial_IDI.pdf 20http://www.ciencia.gob.es/stﬂs/MICINN/Ciencia/Ficheros/Estrategia_Inteligencia_Artiﬁcial_IDI.pdf
+
+## OBJETIVOS DE LA ESTRATEGIA
+
+La Estrategia Nacional de Inteligencia Artiﬁcial de España tiene siete objetivos estratégicos:
+
+• Excelencia cientíﬁca e innovación en Inteligencia Artiﬁcial. Situar a España como país comprometido a potenciar la excelencia cientíﬁca y la innovación en Inteligencia Artiﬁcial.
+
+• Proyección de la lengua española. Liderar a nivel mundial el desarrollo de herramientas, tecnologías y aplicaciones para la proyección y uso de la lengua española en los ámbitos de aplicación de la IA.
+
+• Creación de empleo cualiﬁcado. Promover la creación de empleo cualiﬁcado, impulsando la formación y educación, estimulando el talento español y atrayendo el talento global.
+
+• Transformación del tejido productivo. Incorporar la IA como factor de mejora de la productividad de la empresa española, de la eﬁcacia en la Administración Pública, y como motor del crecimiento económico sostenible e inclusivo.
+
+• Entorno de conﬁanza en relación a la Inteligencia Artiﬁcial. Generar un entorno de conﬁanza en relación a la IA, tanto en el plano de su desarrollo tecnológico, como en el regulatorio y en el de su impacto social.
+
+• Valores humanistas en la Inteligencia Artiﬁcial. Impulsar el debate a nivel global sobre el desarrollo tecnológico de valores humanistas (Human-Centered AI), centrado en velar por el bienestar de la sociedad a la hora de realizar avances o desarrollos tecnológicos, creando y participando en foros y actividades divulgativas para el desarrollo de un marco ético que garantice los derechos individuales y colectivos de la ciudadanía.
+
+• Inteligencia Artiﬁcial inlusiva y sostenible. Potenciar la IA inclusiva y sostenible, como vector transversal para afrontar los grandes desafíos de nuestra sociedad, especíﬁcamente para reducir la brecha de género, la brecha digital, apoyar la transición ecológica y la vertebración territorial.
+
+Los objetivos de esta estrategia están en línea con la Agenda 2030 21 y con la Recomendación de la OCDE 22, para que la acción pública integre las esferas económica, social y ambiental. En la misma línea incorpora la necesidad de que el diseño de estos sistemas sea robusto, seguro e imparcial, para avanzar hacia una IA ﬁable, explicable, transparente e inclusiva que asegure el cumplimiento de los derechos fundamentales y de la regulación aplicable, así como el respeto a los principios y valores fundamentales, y tenga en cuenta las aspiraciones colectivas de la ciudadanía 23.
+
+21http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/PLAN%20DE%20ACCION%20PARA%20LA%20IMPLEMENTACION %20DE%20LA%20AGENDA%202030.pdf 22https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449 En 1997 el Consejo de Europa adoptó el "Convenio de Oviedo" 23https://www.boe.es/boe/dias/1999/10/20/pdfs/A36825-36830.pdf en el que se dispuso que los derechos fundamentales son el fundamento básico para garantizar la "primacía del ser humano" en un contexto de cambio tecnológico, y es de manera similar, como se ha propuesto la “Guía de ética de AI” https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai producida por el Grupo de expertos de alto nivel sobre IA de la Comisión Europea.
+
+PLAN DE ACCION
+
+´
+
+## PLAN DE ACCIÓN
+
+Para dar cumplimiento a los objetivos de la estrategia se han deﬁnido seis ejes de actuación que agrupan a las acciones prioritarias que se llevarán a cabo a lo largo del período 2020-2025. En cada uno de los Ejes de Actuación Estratégicos se identiﬁcan Líneas de Actuación para el periodo estimado.
+
+Eje estratégico 1. Impulsar la investigación cientíﬁca, el desarrollo tecnológico y la innovación en IA.
+
+Para adelantarse estratégicamente a la evolución que viene, en un entorno de cambio tecnológico cada vez más rápido, es esencial reconocer que la generación de nuevo conocimiento y de transferencia del mismo al tejido productivo y a la Administración, que debe ser atendida de forma dual para: (i) Los intereses y demandas actuales de las empresas e instituciones que buscan procesos de implementación de tecnologías maduras del ámbito de la IA para, fundamentalmente, optimizar recursos y procedimientos a partir de la explotación de grandes bases de datos, frente a (ii) unos intereses a medio-largo plazo, reﬂejados en la estrategia, que miren más allá de lo inmediato, centrados en la generación de las técnicas novedosas y emergentes que permitirán desarrollar nuevos negocios y adentrarse en sectores no contemplados en la actualidad.
+
+Eje estratégico 2. Promover el desarrollo de capacidades digitales, potenciar el talento nacional y atraer talento global.
+
+Es necesario elevar la capacitación técnica en IA de la población activa, tanto del público usuario como del especialista, para así facilitar el acceso a los nuevos empleos de calidad y afrontar los retos del mercado de trabajo del futuro. Más allá de la formación cientíﬁco-técnica, es preciso profundizar también en la formación en ciencias sociales para abordar los diferentes aspectos relevantes en la IA, con un enfoque interdisciplinar.
+
+Eje estratégico 3. Desarrollar plataformas de datos e infraestructuras tecnológicas que den soporte a la IA.
+
+La digitalización, la disponibilidad y acceso a grandes volúmenes de datos , el desarrollo de plataformas de propósito general en Inteligencia Artiﬁcial que incluya recursos (datos, corpus, lexicones, ontologías, modelos), algoritmos y motores de inferencia, e infraestructuras de supercomputación u otras de alto rendimiento y capacidad para su procesamiento, representan elementos imprescindibles para el desarrollo de la IA, su uso e impulso desde la Administración Pública y su disponibilidad gratuita o a bajo coste para PYMES innovadoras e investigadores. Más allá de la inversión en la generación de nuevos conjuntos de datos e infraestructuras de datos, también se debe asegurar la gestión eﬁciente y la gobernanza del uso de los datos según los principios de interoperabilidad, integridad, ﬁabilidad, calidad y legalidad protegiendo los derechos de la ciudadanía, su privacidad y conﬁdencialidad, alineado con el avance de iniciativas Europeas tales como European Open Source Cloud (EOSC) y el Reglamento General de Protección de Datos.
+
+Eje estratégico 4. Integrar la IA en las cadenas de valor para transformar el tejido económico.
+
+El proceso de digitalización, innovación e incorporación de la IA dentro de las cadenas de valor supone una oportunidad fundamental para cambiar el patrón de crecimiento económico en España, incrementando el capital humano y tecnológico, reduciendo su impacto ambiental y, con ello, mejorar la productividad y la capacidad de crecer de forma intensa y sostenible para generar un mayor nivel de bienestar y empleo de calidad.
+
+Eje estratégico 5. Potenciar el uso de la IA en la Administración Pública y en las misiones estratégicas nacionales.
+
+La relación entre IA y Administración proporciona beneﬁcios mutuos. Por un lado, la Inteligencia Artiﬁcial es útil para mejorar la transparencia y comunicación de la actividad pública en los sectores de sanidad y servicios sociales, medio ambiente y energía, justicia, transporte y logística, educación, empleo y seguridad. A la vez permite conocer de manera más exacta la sociedad en la que nos encontramos y determinar las prioridades de actuación, identiﬁcando aquellos ámbitos con ventajas competitivas y aquéllos más desfavorecidos. Por otro lado, la actividad de la Administración también puede beneﬁciar a la Inteligencia Artiﬁcial, desplegando todos sus instrumentos para ﬁnanciar, promover e integrar la IA en sus procesos. Todo ello sin olvidar que el beneﬁcio ﬁnal de todo este proceso es para la ciudadanía. Es la ciudadanía quien debe monitorizar la actividad de la Administración, sentirla más cerca y poder usar aplicaciones adaptadas y personalizadas a sus necesidades.
+
+Eje estratégico 6. Establecer un marco ético y normativo que refuerce la protección de los derechos individuales y colectivos, a efectos de garantizar la inclusión y el bienestar social
+
+El potencial impacto positivo del desarrollo y despliegue de la IA genera expectativas, pero también incertidumbres debidas a las implicaciones éticas, legales, sociales y económicas. Para que España pueda ponerse en la vanguardia política y social en esta revolución tecnológica es necesario crear el marco de actuación apropiado. Debemos evaluar si nuestras normas de convivencia están adaptadas a las necesidades del momento, si es suﬁciente con el marco ético y jurídico que nos ha acompañado hasta hoy o qué ajustes y revisiones necesita para preservar los derechos de la ciudadanía en un mundo digital y anteponer objetivos éticos y democráticos al desarrollo de la IA. Este marco será complementario al correspondiente debate social y político y las correspondientes tramitaciones normativas que han de implementarse para cada caso concreto.
+
+Esta estrategia, además, es instrumental a la hora de afrontar grandes desafíos sociales para una IA inclusiva y sostenible, por ejemplo, la reducción de las brechas de género y digital, apoyar la vertebración territorial y la transición ecológica:
+
+Desafío social 1: Reducir la brecha de género del ámbito de la IA en empleo y liderazgo.
+
+Los primeros resultados del Mapa de Capacidades IA en España conﬁrman una clara brecha de género por la desigualdad entre mujeres y hombres en los estudios cientíﬁcos y sociales (conocidos por el acrónimo inglés STEAM 24) así como en el empleo y liderazgo en el ámbito de la IA. Esta brecha de género en el ámbito cientíﬁco es uno de los principales factores de vulnerabilidad de nuestra economía y sociedad. Por ello, la igualdad de género ha de ser uno de los objetivos transversales de la presente estrategia. España ya cuenta con un mayor número de mujeres investigadores, el 38,8% frente al 33,8% de la UE 25, según datos del INE y Eurostat, lo que signiﬁca una buena posición para impulsar la reducción de esta brecha de género.
+
+Desafío social 2: Favorecer a la transición ecológica y a la reducción de la huella de carbono.
+
+Asimismo, la transición ecológica debe insertarse de manera transversal en todas las políticas sectoriales, para una IA centrada en el planeta con una doble vertiente: impulsando la eﬁciencia energética de los sistemas de almacenamiento de datos y computación (tanto en el desarrollo de hardware y en procesos más eﬁcientes de diseño y entrenamiento de algoritmos, como en el análisis sistemático del consumo de energía de las aplicaciones que se ponen en marcha) a la vez que se minimiza su propia huella ambiental, y también orientando la IA y las tecnologías habilitadoras digitales para ayudar a afrontar los retos globales, respaldar la aplicación del Acuerdo de París sobre cambio climático 26 , hacer realidad los objetivos de desarrollo sostenible de las Naciones Unidas y el Pacto Verde Europeo e impulsar la transición hacia la economía circular, especialmente en agricultura, alimentación y electrónica de consumo.
+
+Desafío social 3: Favorecer a la vertebración territorial del país.
+
+La vertebración territorial hace referencia al objetivo de conseguir consistencia y estructura interna, asegurando la organización y cohesión en el territorio en la extensión, el desarrollo y la cobertura de las infraestructuras digitales, en particular las relativos a la Estrategia Nacional de Redes Ultrarrápidas 27 , incluyendo la extensión de la banda ancha. La gobernanza territorial y la coordinación entre diversas escalas de gobierno, desde lo nacional hasta lo local, se pueden beneﬁciar de la digitalización y el desarrollo de la IA que impulsa esta vertebración territorial.
+
+24de Science Technology Engineering Arts Mathematics 25https://www.ciencia.gob.es/stﬂs/MICINN/Ministerio/FICHEROS/EECTI-2021-2027.pdf 26https://www.consilium.europa.eu/es/policies/climate-change/paris-agreement/ 27https://avancedigital.gob.es/planes-TIC/agenda-digital/DescargasAgendaDigital/Planes%20espec%C3%ADﬁcos/Plan-ADpE-1_Redes-Ultrarrapidas.pdf
+
+Esta vertebración territorial tiene también como objetivo aprovechar el desarrollo de IA para apoyar en la dinamización y modernización del territorio y en reversión del comportamiento dinámico regresivo que algunas zonas vienen teniendo en los últimos años. Dicha vertebración busca facilitar la adopción de la IA aplicada a las diferentes capas del tejido productivo, a la Administración Pública y a los distintos servicios que ofrece.
+
+Desafío social 4: Favorecer a la reducción de la brecha digital.
+
+La alfabetización digital se ha deﬁnido como la capacidad para localizar, organizar, entender, evaluar y analizar información utilizando tecnología digital. Desde esta premisa, va claramente más allá del aprendizaje del empleo de las herramientas. El distinto ritmo al que países, empresas y personas desarrollan estas habilidades está creando una nueva brecha, denominada digital o tecnológica. Existen determinados colectivos en situación o riesgo de exclusión social que son especialmente vulnerables a esta brecha digital, por lo que, de no abordar su reducción urgentemente, el uso de la IA añadiría un factor más a la situación de exclusión social que sufren, alejándolos aún de la inclusión social y laboral. En el caso de España por ejemplo se destaca un buen posicionamiento en la adopción tecnológica para la población más joven y se observa una gran oportunidad de mejora en la digitalización de los puestos de trabajo y adopción de tecnologías TIC por los empleados, así como la necesidad de formación especíﬁca para el profesorado 28.
+
+La comprensión de los beneﬁcios de estas técnicas, la accesibilidad a las mismas, su uso para comunicarnos e incluso la creación de contenidos digitales forman parte de las competencias que deben adquirirse para avanzar en la reducción de esta brecha. Las organizaciones y empresas deben asumir que la transformación digital es una prioridad para incrementar su productividad y competitividad en el mundo global en el que vivimos.
+
+El anexo 1 reﬂeja la relación entre los diferentes ejes y objetivos.
+
+28https://www.oecd.org/spain/Skills-Outlook-Spain-ES.pdf
+
+EJE
+
+ESTRATEGICO 1.
+
+´
+
+´ ´
+
+IMPULSAR LA INVESTIGACioN CIENtiFICA, EL DESARROLLO TECNOloGICO Y LA INNOVACION EN IA
+
+´
+
+´
+
+## EJE ESTRATÉGICO 1. IMPULSAR LA INVESTIGACIÓN CIENTÍFICA, EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN EN IA
+
+El desarrollo de la Estrategia Nacional de IA pasa necesariamente por el impulso de la investigación en Inteligencia Artiﬁcial por parte de los sectores público y privado, mediante colaboración público-privada y público-pública, con el ﬁn de profundizar en su conocimiento y desarrollar nuevas técnicas, áreas o aplicaciones que puedan transferirse al ámbito productivo y al sector público, incentivando la innovación y el cambio tecnológico. Los planes de investigación deben ofrecer suﬁciente ﬂexibilidad como para adaptarse a un entorno que cambia a velocidad vertiginosa.
+
+Con el ﬁn de poder generar un entorno óptimo y unos mecanismos que aumenten la capacidad innovadora en materia de IA del sector público y privado, la presente Estrategia plantea la consecución de los siguientes cinco objetivos en el plano de la investigación y el desarrollo tecnológico:
+
+1.
+
+Fomentar la investigación pública de excelencia en Inteligencia Artiﬁcial para incrementar la ﬁnanciación y ampliar las tendencias de investigación y campos de aplicación, separándolas de las inercias del mercado, habilitando el desarrollo de opciones, generando un plan diversiﬁcado del portfolio de innovación en materia de IA, enfocado tanto a la investigación básica como a la aplicada, para poder asegurar la excelencia y relevancia en el corto, medio y largo plazo.
+
+2.
+
+Promover la explotación de sinergias de investigación entre las universidades y centros de investigación mediante redes de cooperación interuniversitaria, y con las empresas y la Administración del Estado en general.
+
+3.
+
+Crear plataformas de cooperación en investigación y transferencia de resultados entre los sectores público y privado, que capten y retengan alento investigador en España, reduciendo los tiempos y procesos de tramitación en la llegada de talento, que pueden evitar la consecución de este objetivo. Además, sería necesario favorecer la creación de consorcios público-privados para misiones y proyectos, en donde se facilite y promueva la participación de PYMES y startups del sector, con el ﬁn de crear un ecosistema estable y creciente de Inteligencia Artiﬁcial en el país, que esté capacitado para atraer y retener talento en el tejido productivo.
+
+4.
+
+Promover la explotación de sinergias entre la investigación en IA y la investigación en áreas estratégicas como salud, educación, energías y cambio climático, turismo y cultura, lenguaje, seguridad, agricultura etc. aprovechando los protocolos de actuación vigentes entre los diferentes ministerios y el Ministerio de Ciencia e Innovación, impulsando la colaboración entre los distintos niveles de administración a en el ámbito nacional, internacional y europeo, e impulsando programas de misiones estratégicas.
+
+5.
+
+Explorar mecanismos de inversión alternativos en la colaboración público-privada (capital semilla, capital riesgo, etc.) que garanticen un volumen de inversión óptimo para la competitividad de la investigación española y la transferencia de los resultados de la investigación a la industria y los sectores de actividad.
+
+### MARCO DE DESARROLLO DE LA INVESTIGACIÓN CIENTÍFICA EN MATERIA DE IA
+
+La investigación española dedicada a las tecnologías de IA goza de un amplio reconocimiento internacional en varias áreas, incluyendo el aprendizaje automático, la optimización heurística, la planiﬁcación, deducción automática, lógica y razonamiento, procesamiento del lenguaje natural, visión artiﬁcial, robótica, sistemas multiagente, sistemas de recomendación, cooperación entre el ser humano y la máquina, modelado basado en agentes inteligentes, y ontologías. La comunidad IA española destaca también por el desarrollo de aplicaciones innovadoras en servicios y sostenibilidad energética y del medio ambiente, en sectores estratégicos como la salud y la agricultura, además de en otros sectores con fuerte presencia como el turismo o las industrias creativas 29.
+
+La actividad de investigación cientíﬁca en España se integra en el Sistema Español de Ciencia, Tecnología e Innovación, que incluye actividad investigadora centrada especíﬁcamente en desarrollos de IA. Este engloba a las instituciones académicas y cientíﬁcas de titularidad pública y privada, a las asociaciones y organizaciones de soporte a la I+D+I y a las empresas.
+
+La política cientíﬁca en España tiene su marco de desarrollo en la Ley 14/2011, de Ciencia, Tecnología e Innovación.
+
+Esta política promueve la generación de conocimiento en todos los ámbitos, así como su difusión y su aplicación para la obtención de un beneﬁcio social o económico, con un efecto multiplicador en su impulso hacia un desarrollo sostenible en políticas sectoriales y transversales. Las mencionadas áreas de investigación de la IA abren grandes oportunidades para la generación de conocimientos, tecnologías e innovaciones de carácter multidisciplinar y disruptivo, al mismo tiempo que se valora la combinación de investigación fundamental, aplicada y desarrollo experimental.
+
+29https://www.ciencia.gob.es/stﬂs/MICINN/Ciencia/Ficheros/Estrategia_Inteligencia_Artiﬁcial_IDI.pdf
+
+La acción especíﬁca en el ámbito cientíﬁco de la IA se desarrollará en el marco de la Estrategia Nacional de I+D+I del Ministerio de Ciencia, sobre la base de los siguientes elementos:
+
+1 Las tecnologías de IA representan una gran oportunidad para el desarrollo de los sectores prioritarios de la economía y sociedad españolas de manera sostenible.
+
+2 Las humanidades y las ciencias sociales presentan un carácter transversal y se deben tener en cuenta en todos los sectores de aplicación de la IA.
+
+La aplicación de las tecnologías de la IA puede presentar diferentes velocidades a la hora de incorporarse a los distintos sectores, en función del carácter estratégico y del grado de madurez y desarrollo de los mismos. Así, es preciso potenciar el ciclo completo de la investigación-innovación mediante el impulso de la excelencia y las sinergias de red en las fases iniciales, tanto en el ámbito universitario como empresarial, el despliegue de soluciones tecnológicas ya maduras en el tejido productivo, y el impulso de las startups, spin offs y la innovación disruptiva, con resultados más a medio plazo pero absolutamente clave para participar en el diseño de los desarrollos tecnológicos, incentivar la inversión y situar España entre los países creadores de la IA del futuro.
+
+Las universidades deben jugar un papel central en el soporte universitario de una Red de Excelencia en IA, que, junto con otros centros de investigación de organismos públicos, centros de matriz europea con sede en nuestro territorio o centros de apoyo a la innovación tecnológica, se caracterizará por impulsar líneas de investigación híbridas y mixtas 30. En ese sentido, se promoverá la articulación de una red que pivote sobre un conjunto de unidades que movilicen y coordinen una masa crítica de investigadores, una cantera de futuros doctores, programas de postgrado asociados, con experiencia relevante, y que se organicen reticularmente o federen en estructuras que les permitan escalar de tamaño, para generar unidades coordinadas más grandes y competitivas. Estas unidades apostarán por la diversidad temática, constituyéndose como estructuras distribuidas, y combinando perﬁles de carácter puramente técnico con perﬁles de otras disciplinas, para crear relaciones interdisciplinares con otros ámbitos de conocimiento, como el clínico o el análisis del impacto social.
+
+Como referencia para conocer el estado actual de las distintas entidades que componen el ecosistema de IA en España se publicó en mayo de 2019 el Mapa de capacidades actuales de la IA en España por parte del Ministerio de Ciencia e Innovación.
+
+30Existen numerosas iniciativas internacionales que apuestan por esta visión mixta: "Center for Human Nature, Artiﬁcial Intelligence and Neuroscience (www.chain.hokudai.ac.jp)", “Centre for the Governance of AI(www.fhi.ox.ac.uk/govai)", el “Leverhulme Centre for the Future of Intelligence (lcﬁ.ac.uk/projects/kinds-of-intelligence)", el “Hybrid Intelligence Centre (www.hybrid-intelligence-centre.nl)", el “Stanford Institute for Human-Centered Artiﬁcial Intelligence (hai.stanford.edu)
+
+CREACIÓN Y DESARROLLO DE INSTRUMENTOS Y MECANISMOS ACELERADORES PARA LA INNOVACIÓN
+
+En los últimos años, la Inteligencia Artiﬁcial es considerada un área de innovación, motor de la digitalización y del sector público, la sociedad, las empresas, la Administración Pública y la ciencia. Los ejemplos de las contribuciones que la IA puede realizar en diferentes sectores ya son evidentes: la IA puede ayudar a diagnosticar mejor las enfermedades, reducir el consumo de energía, reducir los accidentes de tráﬁco, crear nuevos servicios, mejorar la atención asistencial y de rehabilitación, racionalizar la producción industrial, desarrollar nuevos productos farmacéuticos o reducir los tiempos de procesamiento.
+
+Para fomentar estos entornos de innovación, son necesarias políticas públicas especíﬁcas que fomenten y aceleren dicha innovación, siempre centrada en estrechar la brecha entre la teoría y los entornos de aplicación. Para dar respuesta a esas cuestiones a nivel europeo, surge la idea de los Centros de Innovación Digital (más conocidos por sus siglas en inglés: Digital Innovation Hubs - DIH). Se conciben a modo de “ventanillas únicas” a través de las cuales, las empresas (especialmente las PYMES) y las administraciones públicas puedan acceder a los servicios y las instalaciones que ofrecen los DIH y que precisan para abordar con éxito sus procesos de transformación digital. En la actualidad, España tiene inscritos un alto número de DIH 31 que incluyen la IA entre las tecnologías que desarrollan (véase la Figura 1).
+
+DIHs operativos y en progreso en Europa
+
+60 50 40 30 20 10 0
+
+49 48
+
+35 34
+
+23 20 14 13 13 12 10 8 8 8 8 7 7 6 6 5 5 5 5 4 4 4 4 4 2 2 2 1 1 1 1
+
+Netherlands
+
+Germany
+
+United Kingdom
+
+Lithuania
+
+Spain
+
+Poland
+
+Romania
+
+Portugal
+
+Czech Republic
+
+Greece
+
+Israel
+
+Albania
+
+Cyprus
+
+Latvia
+
+Hungary
+
+Serbia
+
+Ireland
+
+Bulgaria
+
+Figura 1. Fuente: JRC – Comisión Europea
+
+31https://www.apte.org/parques-cientiﬁcos-tecnologicos-participan-28-digital-innovation-hubs
+
+Recientemente, se ha hecho público el documento “European Digital Innovation Hubs in Digital Europe Programme” que describe el actual contexto de estos centros en el nuevo programa Digital Europe 2021-2027 32. En este documento se destacan las cuatro funciones principales de los denominados DIH europeos que comenzarán a ser acreditados en 2021: habilidades y formación, testeo antes de inversión, apoyo la inversión, y la creación de ecosistemas de redes e innovación. Esta nueva estrategia ﬁja las tecnologías sobre las que deben girar las diferentes propuestas, a determinar entre computación de alto rendimiento (High Performance Computing o HPC), ciberseguridad e Inteligencia Artiﬁcial junto con habilidades digitales, siendo estas las grandes áreas de desarrollo e impulso a la innovación y transformación digital en el periodo 2021-2027 en el marco del Digital Europe Programme. Los DIH europeos se refuerzan como estructuras regionales para el desarrollo de las estrategias de innovación y transferencia de las tecnologías digitales, ﬁjándose un número recomendado para su acreditación y ﬁnanciación (pág. 30, Tabla 1), que para España se ﬁja en el intervalo entre 9 y 18. En enero de 2021 está prevista la primera convocatoria de acreditación de DIH europeos, previa selección por la administración española de unos candidatos a presentar mediante un procedimiento convocado en octubre de 2020.
+
+En deﬁnitiva, los DIH constituyen elementos clave para la transferencia de conocimiento, para el apoyo a la transformación digital y una transición efectiva hacia la IA de las Administraciones Públicas, empresas, en especial PYMES, y la industria, facilitando su acceso a conocimientos, capacidades informáticas, plataformas en la nube, instalaciones de ensayo, formación y servicios. Esta red de centros también está llamada a potenciar el mejor aprovechamiento del potencial industrial de los resultados de I+D+I desarrollados desarrollados tanto a nivel regional, como nacional y europeo, lo que sin duda se verá reforzado en el marco del próximo Programa Europa Digital y Horizonte Europa de la Unión Europea en el periodo 2021-2027. La Comisión Europea ha destacado 33 sus objetivos estratégicos y acciones, que se implementarán con la colaboración de los Estados miembros, con el ﬁn de poder priorizar la inversión en I+D+I. Estas acciones incluyen el impulso a la movilidad de los investigadores, así como el desarrollo de marcos de carrera y capacidades, igualdad de género y excelencia en la investigación dentro de la UE.
+
+En este contexto, estos programas europeos se complementan con otros programas de cooperación en investigación cientíﬁca, que están ﬁnanciados por diferentes ministerios. Todos ellos son mecanismos a los que se acudirá de manera instrumental de cara a la transferencia de los resultados de la investigación cientíﬁca, y la incorporación de tecnologías de IA en aplicaciones y desarrollos.
+
+32https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=70324 33https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1749
+
+Por otra parte, este ecosistema de transferencia de la investigación a las empresas debe facilitar la creación de nuevos proyectos, startups o spin-offs, a partir de Centros de Investigación, Grupos de Investigación en Universidades, Organismos Públicos de Investigación (OPIs), institutos de investigación universitarios y no universitarios, mediante la coﬁnanciación y ayudas para su estabilización. Igualmente, se debe fomentar la cooperación entre spin-offs, PYMES, grandes empresas y centros de investigación y universidades, para favorecer la transferencia de conocimiento existente, crear nuevas líneas de investigación y productos, así como estabilizar el personal especializado en I+D+I en los diferentes entornos y sectores.
+
+En el marco ﬁscal, cabe destacar el artículo 35 de la Ley 27/2014 del 27 de noviembre, del Impuesto sobre Sociedades34, que regula una deducción por actividades de investigación y desarrollo e innovación tecnológica y el artículo 39.2 para las deducciones por actividades de I+D+I.
+
+### LÍNEAS DE ACTUACIÓN 2025 — LÍNEAS DE ACTUACIÓN 1.1. POTENCIAR LA INVESTIGACIÓN EN IA
+
+MEDIDA 1. Creación de la RED ESPAÑOLA DE EXCELENCIA EN IA que mantendrá programas de investigación y de formación en conocimientos de vanguardia en las diferentes disciplinas de la IA.
+
+MEDIDA 2. Refuerzo del sistema de contratos pre-doctorales y post-doctorales de investigación y creación de programas para atraer investigadores senior en IA de forma que contribuya a la cerrar la brecha de género.
+
+MEDIDA 3. Flexibilizar la trayectoria cientíﬁca del personal investigador en IA, para asegurar la diversidad cientíﬁca y la permeabilidad entre el sector público y el privado, así como la transferencia de conocimiento.
+
+MEDIDA 4. Promover la creación de nuevos centros nacionales de desarrollo tecnológico en ámbitos multidisciplinares, junto con otras ciencias como la neurotecnología, psicología, sociología, política, etc.
+
+34https://www.agenciatributaria.es/static_ﬁles/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Segmentos_Usuarios/Empresas_y_profesionales/Impuesto_s ociedades/Novedades_Impuesto_Sociedades_publicadas_2014/Comparativa_Sociedades_dic.pdf
+
+### LÍNEAS DE ACTUACIÓN 1.2. FACILITAR LA INNOVACIÓN Y LA TRANSFERENCIA TECNOLÓGICA EN IA
+
+MEDIDA 5. Programa de ayudas a empresas para el desarrollo de soluciones en IA y datos para impulsar la Digitalización de las empresas con el objetivo de acelerar los procesos de inclusión de la IA, fomentando la adopción de las nuevas tecnologías en sus procesos productivos y el uso intensivo de datos.
+
+### MEDIDA 6. Reforzar la red de Centros de Innovación Digital (Digital Innovation Hubs
+
+DIH) especializados a nivel de investigación en IA, proporcionando el acceso a la tecnología inteligente, datos y capacidad de cómputo.
+
+MEDIDA 7. Crear el Programa de Misiones de I+D+I en IA para abordar grandes desafíos sociales
+
+Como elemento central de este eje, cabe destacar la creación de la Red española de excelencia en IA. El objetivo de este centro es impulsar la investigación y generación de conocimiento de excelencia en IA. Para ello mantendrá programas de investigación y de formación en conocimientos de vanguardia en las diferentes disciplinas de la IA. Se debe atender a programas de investigación a corto plazo, así como a programas a largo plazo para la generación de técnicas novedosas emergentes y/o disruptivas, y adentrarse en sectores no contemplados en la actualidad. Por otra parte, incorporará la interdisciplinaridad, y debe ejercer de nexo con el sector privado.
+
+Organizativamente tendrá una estructura en red contando con los nodos de la Red de Excelencia, y formará una comunidad interdisciplinar en IA. Este proveerá de recursos para personal en formación, captación y retención de talento, apoyo al emprendimiento, programa de investigadores visitantes, y programa de proyectos siguiendo criterios de excelencia y diseñando políticas adecuadas para la investigación y transferencia de conocimiento, así como proyectos en áreas novedosas y en sectores no contemplados en la actualidad. Igualmente debe impulsar el intercambio de personal entre sector público y privado, y la incorporación temporal de investigadores seniors en el desarrollo de proyectos relevantes.
+
+Uno de los objetivos debe ser atraer a líderes intelectuales hacia desafíos cientíﬁcos abiertos en IA con el ﬁn de explorar barreras técnicas, sociales y cientíﬁcas. La red tendrá la capacidad de ofrecer respuestas a preguntas cientíﬁcas con un elevado potencial de impacto transformador. Los resultados se publicarán en abierto y se ofrecerán programas formativos y seminarios del máximo nivel. El beneﬁcio principal de este centro es el posicionamiento de liderazgo en la vanguardia del pensamiento y la investigación en IA.
+
+EJE
+
+ESTRATEGICO 2.
+
+´
+
+PROMOVER EL DESARROLLO DE CAPACIDADES DIGITALES, POTENCIAR EL TALENTO NACIONAL Y ATRAER TALENTO GLOBAL EN INTELIGENCIA ARTIFICIAL
+
+## EJE ESTRATÉGICO 2. PROMOVER DESARROLLO DE CAPACIDADES DIGITALES, POTENCIAR EL TALENTO NACIONAL Y ATRAER TALENTO GLOBAL EN INTELIGENCIA ARTIFICIAL
+
+Uno de los principales pilares sobre el que se ha de sostener la transformación digital de nuestra sociedad es la necesaria educación y la formación en competencias digitales de toda la población a lo largo de toda su vida. De manera especíﬁca, y para el éxito de la presente Estrategia Nacional de IA, es imprescindible asegurar la preparación y capacitación en IA del alumnado, profesorado, personal del empleo público, mercado laboral y sociedad, con una perspectiva ética, humanista y de género. Algunas de las medidas de políticas activas de empleo encuadradas en esta Estrategia están encuadradas en el Plan Nacional de Competencias Digitales y hacen referencia a formación para la transformación digital, consorcios Universidad-PYMEs y adquisición de capacidades digitales para personas desempleadas con el ﬁn de impulsar el emprendimiento y el desarrollo rural y reducir la brecha de género.
+
+Esto implica la necesidad de crear una ciudadanía capacitada, que pueda entender las opciones y decisiones de los sistemas “inteligentes”. La formación en materia de competencias digitales debe abordarse desde la Educación Infantil, incluyendo la formación en pensamiento computacional, con el ﬁn de crear una sociedad culta en tecnologías digitales fomentar las vocaciones STEM y reducir la brecha de género. En los niveles de Formación Profesional (FP) y la Universidad se debe realizar un mayor esfuerzo educativo en IA para garantizar que toda la ciudadanía tenga una base de pensamiento computacional.
+
+También es necesario apostar por elevar la capacitación técnica en IA de la población activa, tanto del público usuario como del especialista, para así facilitar el acceso a los nuevos empleos de calidad y afrontar los retos del mercado de trabajo del futuro.
+
+La inclusión de la IA en el entorno formativo no se puede ni debe restringir únicamente hacia áreas relacionadas con las ciencias, la tecnología, las ingenierías y las matemáticas (STEM, por sus siglas en inglés) sino que tiene que incluir componentes humanísticos y de las ciencias sociales (STEAM) para abordar los diferentes aspectos relevantes en la IA, con un enfoque interdisciplinar.
+
+Además de estos esfuerzos educativos encaminados a desarrollar talento en IA, se deben poner en marcha acciones para atraer a personal experto docente que trabaja en el extranjero, teniendo en cuenta que nos encontramos en un escenario de dura competición internacional por estos perﬁles.
+
+Además, la IA tiene un alto potencial para mejorar el aprendizaje tanto en su proceso como en sus resultados, pudiendo utilizarse como método transversal de aprendizaje en diferentes materias de perﬁl cientíﬁco, humanista, social, etc., además de tener la capacidad de modernizar los sistemas educativos y formativos en nuestro país, planteándose como una nueva oportunidad para resolver viejos retos y nuevos desafíos en Educación, impulsando el aprendizaje personalizado.
+
+La formación en esta materia debe abordarse desde varios frentes:
+
+· Impulsar la Formación Profesional y habilitar procedimientos de capacitación técnica en el ámbito privado y en la Administración Pública para acompañar las transiciones tecnológicas en el mercado laboral en el corto plazo.
+
+· Actualizar la oferta tanto en ciclos profesionales como en educación universitaria en IA y Digitalización con el objetivo de adecuarla a las nuevas necesidades y a los nuevos procesos de generación de conocimiento en diversas materias y áreas de conocimiento (salud, agronomía, aeroespacial, etc.) en el medio plazo. Las universidades españolas deben desarrollar una capacidad de liderazgo mundial para que sean la referencia en IA en habla castellana.
+
+· Introducir las bases para la comprensión del pensamiento computacional, crítico y creativo de los fundamentos y dilemas de la IA en la Educación Infantil, Primaria y Secundaria, con la adecuada formación del profesorado en el largo plazo, que permita la inclusión del alumnado con necesidades especiales en estos ámbitos digitales.
+
+El Plan de Recuperación, Transformación y Resiliencia “España Puede” recoge en su Área de política palanca: VII. Nueva economía de los ciudadanos y políticas de empleo, algunos ámbitos de formación potencialmente relevantes:
+
+· Formación para trabajadores en ERTE · Formación en el sector estratégico del turismo · Formación con fomento de la contratación en sectores estratégicos de interés general
+
+Estos programas y acciones formativas de recualiﬁcación profesional se ﬁnanciarán mediante subvenciones públicas de ámbito estatal, relacionadas con los requerimientos de productividad y competitividad de las empresas y con las necesidades de adaptación a la transformación digital, destinados preferentemente a personal ocupado.
+
+Todos estos niveles deben estar enriquecidos por objetivos transversales, como la aproximación multidisciplinar, relacionando la formación técnica con los aspectos humanísticos, legales y sociales implicados, el uso de las nuevas tecnologías inteligentes para modernizar la propia educación, o la lucha contra la brecha de género, de enorme sensibilidad, en esta materia.
+
+Finalmente, la colaboración público-privada es clave, así como las iniciativas que aumenten el nivel de comprensión del conjunto de la población sobre las tecnologías inteligentes para que la ciudadanía conozca sus desafíos y las oportunidades reales. La modernización de las titulaciones de FP cuenta con la participación directa de los principales sectores empresariales, son múltiples las iniciativas de colaboración para impulsar la recualiﬁcación de trabajadores (reskilling y upskilling). También cabe destacar la variedad de instrumentos de colaboración, consorcios europeos y proyectos contratados de forma directa del CDTI.
+
+El Gobierno ha puesto en marcha iniciativas para tratar de avanzar en este ámbito 35, se adoptará un Plan de Acción dirigido a la lucha contra la discriminación por razón de género, el fomento de la igualdad de género y la reducción de la brecha hombre-mujer en el campo de las ciencias, así como el fomento de la igualdad en materia de discapacidad, exclusión social, etc. en todos los ámbitos de formación en STEAM y en el acceso a puestos de trabajo de la IA, incluyendo instrumentos como programas de becas, doctorados industriales, Personal Técnico de Apoyo, Contratos Posdoctorales, reservas de capital semilla para startups, y apoyos a la participación de mujeres en programas internacionales de tecnologías de la IA.
+
+SITUACIÓN ACTUAL DE LA IA EN LA EDUCACIÓN INFANTIL, PRIMARIA, SECUNDARIA
+
+España cuenta con un porcentaje superior a la media europea de centros educativos altamente equipados con medios tecnológicos36. De acuerdo con el proyecto Escuelas Conectadas, más del 83% de los centros educativos cuentan ya con conexiones a internet de más de 100Mb. En cuanto a la formación STEAM, el personal docente en España se involucra en mayor porcentaje que la media de la UE en cursos sobre el uso pedagógico de las tecnologías (entre el 55% y el 75% dependiendo de los niveles), y en porcentajes similares a los europeos en lo relativo a formación sobre aplicaciones para el aprendizaje.
+
+Sin embargo, los niveles de competencia digitales son inferiores a la media, 43% de personas entre 16-74 años (media UE-28, 42%). El Índice de la Economía y la Sociedad Digitales (DESI) 2020 37 sitúa a España en el puesto 16 de la UE-28 en capital humano. Algunos estudios muestran una situación inferior a la media de la OCDE del uso de las TIC en las escuelas y la formación matemática, lo que lleva aparejado un déﬁcit en el desempeño en tareas de carácter analítico que requieren el uso de ordenador para resolver problemas 38.
+
+35Como la creación del Observatorio “Mujeres, Ciencia e Innovación”, el Libro Blanco de las mujeres en el ámbito tecnológico y las medidas adoptadas en el ámbito de la ciencia https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/080219-enlaceagendacambio.aspx http://www.mineco.gob.es/stﬂs/mineco/ministerio/ﬁcheros/libreria/LibroBlancoFINAL.pdf, elaborado por el Ministerio de Economía y Empresa 36De acuerdo con el 2nd Survey of schools: ICT in education de 2019 https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=57821 llegando al 79% y 78% en los niveles ISCED2 e ISCED 3 respectivamente 37https://administracionelectronica.gob.es/pae_Home/pae_OBSAE/Posicionamiento-Internacional/Comision_Europea_OBSAE/Indice-de-Economia-y-Sociedad-Di gital-DESI-.html https://ec.europa.eu/digital-single-market/en/scoreboard/spain 38el informe de 2015 de la OCDE “Students, Computers, and Learning: Making the Connection” https://www.oecd-ilibrary.org/education/students-computers-and-learning_9789264239555-en
+
+Por tanto, es preciso reforzar la orientación hacia las tecnologías TIC y la IA (matemáticas y lógica) desde las etapas tempranas del ciclo educativo, así como en la formación del personal docente. Así, la Sociedad Cientíﬁca Informática de España (SCIE) y la Conferencia de Directores y Decanos de Ingeniería Informática (CODDII) han elaborado un maniﬁesto sobre la necesidad de incluir en el sistema educativo español la materia” Informática” de carácter obligatorio desde Educación Primaria hasta Bachillerato 39. Asimismo, la Sociedad Cientíﬁca Informática de España (SCIE) y la Real Sociedad de Matemáticas de España han elaborado un documento conjunto, titulado “Hacia una nueva educación en matemáticas e informática en la Educación Secundaria” 40. Por su parte, el Ministerio de Educación y FP ha elaborado y publicado un estudio sobre la situación del Pensamiento Computacional en la educación en España 41. A partir de este estudio desarrolla en colaboración con las comunidades autónomas el proyecto Escuela de Pensamiento Computacional e Inteligencia Artiﬁcial 42.
+
+INCREMENTO DE IA EN LA FORMACIÓN PROFESIONAL
+
+Numerosos estudios apuntan hacia la necesidad de reforzar el contenido tecnológico de la FP a todos los niveles, en especial en el impulso de “habilidades medias” en tecnología, y adecuarlo a la realidad de los sectores productivos, mejorando las capacidades y competencias profesionales. Por este motivo, el Gobierno ha presentado el primer Plan Estratégico de Formación Profesional del Sistema Educativo 2019-2022 43, para impulsar una modernización de la Formación Profesional y Formación Profesional Dual y adecuar la oferta y la demanda de cualiﬁcaciones en coordinación y cooperación con los agentes sociales y las empresas. Ya se ha iniciado el proceso de revisión de todas las titulaciones y cualiﬁcaciones profesionales, pero queda mucho por hacer para integrar las capacidades relativas a la IA dentro de nuestro sistema formativo, tanto en carreras técnicas como no técnicas.
+
+El objetivo es fomentar la creación de más perﬁles como personal analista, de desarrollo de aplicaciones y especialistas en computación, principalmente por la importancia que tienen estas ocupaciones en el desarrollo de actividades relacionadas con la IA.
+
+39http://www.scie.es/wp-content/uploads/2018/07/informe-scie-coddii-2018.pdf 40https://www.rsme.es/wp-content/uploads/2020/06/Educacion-matematicas-e-informatica-secundaria.pdf 41http://code.intef.es/wp-content/uploads/2018/10/Ponencia-sobre-Pensamiento-Computacional.-Informe-Final.pdf 42https://intef.es/tecnologia-educativa/pensamiento-computacional/ 43https://www.lamoncloa.gob.es/consejodeministros/referencias/documents/2019/refc20191122e_3.pdf
+
+ESTUDIOS SUPERIORES Y UNIVERSIDADES EN EL DESARROLLO DE LA IA
+
+A nivel académico, la formación universitaria en IA cuenta con varios programas de grado y postgrado -Máster y Doctorado-consolidados desde hace décadas. En los últimos años se han puesto en marcha nuevos estudios de Máster y títulos de Grado especíﬁcos, centrados en la IA y las competencias especíﬁcas en IA están incluidas en todos los Grados de Informática y Computación y en los Máster de Tecnologías Informáticas44. Sin embargo, hay aspectos que exigen de las Universidades un papel más activo en este contexto. Por un lado, la escasez de titulados y perﬁles TIC, que desde el mundo empresarial e industrial se advierte, exige una adaptación de los estudios de carácter no informático a estas tecnologías 45 y medidas de coordinación entre los sistemas formativos superiores y el mundo laboral, que permita identiﬁcar los trabajos en transición y ofrecer, desde las universidades, mecanismos de recualiﬁcación de los trabajadores durante su vida laboral, como se viene haciendo en algunas titulaciones que ya combinan la IA con otras ciencias, negocios o humanidades. Sin embargo, se observa una tendencia creciente de titulaciones que combinan la IA con otras disciplinas de ciencias, humanidades, economía, etc. Por otro lado, se observa falta de diversidad tecnológica en la oferta formativa en este campo. En este aspecto, desde las universidades, se puede impulsar la diversidad de perspectivas, por ejemplo, apoyando el desarrollo de la IA en campos de aplicación diferentes en su oferta. Aunque ya existen programas de Máster (principalmente) de este tipo, que aúnan Derecho e IA, Robótica e IA, o Biología e IA, es importante fomentar estos estudios interdisciplinares para conseguir un ecosistema tecnológicamente más rico y con mayor diversidad de perspectivas.
+
+Finalmente, pero con la misma intención de apoyar la diversidad formativa, es relevante que la educación universitaria introduzca los desafíos alrededor de la IA en sus estudios de carácter social y humanístico, pues estas miradas deben estar presentes en los procesos de supervisión de diseño y en la orientación de sus desarrollos, co-deﬁniendo métodos de análisis y de intervención metodológica que incorporen nuevas perspectivas a los aspectos técnicos. Esto pasa por apoyar y adaptar la formación en IA a carreras no técnicas, con el ﬁn de que socialmente se puedan afrontar mejor las preguntas y los desafíos planteados por la IA, involucrando a diferentes fuentes de experiencia y conocimiento.
+
+44 https://www.boe.es/boe/dias/2009/08/04/pdfs/BOE-A-2009-12977.pdf 45 Según la OCDE, entre 2011 y 2017, el crecimiento de empleo TIC español sobre el total ha sido de un 2,2%; Australia, EE UU y Reino Unido, un 9%. La media europea dobla las cifras españolas (un 5,2%). En general el número de empresas españolas que contratan expertos TIC no alcanza el 20%, porcentaje que desciende hasta el 3% de las empresas con menos de 10 trabajadores (INE).
+
+Se impulsará la creación y consolidación de una comunidad inexistente en España, en torno a la ciencia cognitiva, pero con reﬂejo en los países vecinos, donde la hibridación de campos como las ciencias de la computación, la neurociencia o la biología computacional puedan permitir el desarrollo de herramientas tecnológicas que estén basadas en los fundamentos de la inteligencia humana. En este espacio mixto centrado en explorar los fundamentos de una ciencia de la cognición y la inteligencia, interactúan por igual disciplinas neurocientíﬁcas, psicológicas, computacionales, biológicas y tecnológicas. Este dominio de trabajo permite disponer de un nuevo campo – la Ciencia y la Ingeniería de la Inteligencia-. Esto requerirá promocionar estructuras de cooperación académica en este espacio frontera, con reconocimiento institucional, promoviendo redes y colaboraciones interdisciplinares e interuniversitarias, con el ﬁn de que una comunidad con este enfoque mixto pueda estructurarse y consolidarse a nivel español. Además de esta perspectiva, se fortalecerán otras que relacionen a la Inteligencia Artiﬁcial con disciplinas como la Filosofía, la Sociología, la Psicología, el Lenguaje etc. que contribuyan a enriquecer y diversiﬁcar el ecosistema español de IA.
+
+FORMACIÓN Y ATRACCIÓN DE TALENTO EN IA EN LA ADMINISTRACIÓN PÚBLICA
+
+La Administración Pública debe también sumarse a estos procesos de formación en materia de IA a lo largo de sus planes de promoción y vida profesional, a nivel del Estado, Comunidades Autónomas y corporaciones locales. Es importante que los planes de formación doten al personal de la Administración Pública de los conocimientos necesarios que les permitan incorporar soluciones basadas en IA, a todos los niveles, incluyendo las posiciones ejecutivas, para mejorar el servicio a la ciudadanía. Para ello se estudiará la oferta o colaboración con programas de masters en IA en el seno del sector público, así como el establecimiento de mecanismos para una mayor ﬂexibilidad en la atracción, retención, selección y planiﬁcación de personal y prestación del trabajo. En el ámbito del sector tecnológico legal (lawtech-legaltech) se tendrán en cuenta las posibilidades de capacitación e investigación del Centro de Estudios Jurídicos del Ministerio de Justicia, con arreglo al modelo de cogobernanza vigente.
+
+Por otro lado, es importante trabajar en la atracción de talento a la Administración Pública. Nuestra sociedad envejece y con ella nuestro sector público. Este proceso se ve agravado por el escaso atractivo que el sector público ofrece como fuente de empleo, el desconocimiento del papel que desempeñan nuestras instituciones, y el escaso valor y reconocimiento que se le da a las funciones desarrolladas por su personal. Las tecnologías de la información y, en concreto, la IA puede suponer una gran revolución para los procesos productivos y los métodos de trabajo de la Administración.
+
+Es imprescindible actuar de manera proactiva para reforzar la calidad de nuestros servicios públicos. La IA puede suponer también una oportunidad de mejora de estos procesos. Se trata de combinar una serie de actuaciones en cada una de las cuatro fases implicadas en la disposición del capital humano en las Administraciones Públicas, reforzando el plan de atracción de talento:
+
+1.
+
+Atracción de talento: El desconocimiento del papel del sector público y de su potencial empleo, frenan la orientación laboral hacia la Administración. Posibles actuaciones serían la ﬂexibilización de los contratos del personal perteneciente a universidades y centros de investigación para posibilitar su incorporación temporal a la AGE, o la creación de consorcios público-privados, que incorporen investigadores del sector público junto con personal de pymes y startups, para el desarrollo de proyectos que sigan un modelo productivo, y que sean impulsados desde AGE.
+
+2.
+
+Mejora de la imagen del empleo en la Administración: Entre los aspectos a potenciar para la mejora de la imagen, cabe destacar el papel de la Administración en la sociedad como soporte fundamental de las políticas y servicios públicos, en los que el factor humano resulta esencial. El valor añadido de la IA puede servir para mejorar la calidad y funcionamiento de los servicios públicos y la interacción con los ciudadanos, visibilizando así y dando valor al trabajo de ejecución de las políticas públicas.
+
+3.
+
+Impulso de la calidad y accesibilidad de la información sobre el empleo público: El acceso al empleo se rige por los principios de igualdad, mérito y capacidad. . Es un empleo estable, que fomenta la carrera profesional —tanto de manera horizontal vertical — y la formación constante. De forma pionera, la Administración General del Estado cuenta con acciones positivas que favorecen el acceso de las personas con capacidades diferentes y que presenten un grado de minusvalía igual o superior al 33 por ciento. En las ofertas de empleo público de todas las Administraciones Públicas se debe potenciar la captación de perﬁles que combinen las capacidades técnicas en materias como ciencias, tecnología, ingeniería y matemáticas (STEM) junto con habilidades y conocimientos en componentes humanísticos y de las ciencias sociales (STEAM) para abordar los diferentes aspectos relevantes en la IA.
+
+FORMACIÓN EN EL ÁMBITO LABORAL
+
+Más allá del sistema educativo, es fundamental impulsar la formación en el ámbito laboral para acompañar las transiciones tecnológicas. España cuenta con una tasa de paro en la segunda etapa de educación secundaria y formación profesional del 16%, frente a una tasa del 8% en egresados universitarios. Teniendo en cuenta la digitalización que se anticipa, y con mecanismos adecuados de capacitación técnica en tecnologías de IA, la formación en esta materia puede suponer una solución laboral para abordar la brecha tecnológica y mejorar la empleabilidad de nuestro país. La UE ha destacado en su Plan de Acción de Educación Digital la prioridad estratégica de mejorar las capacidades digitales de la ciudadanía en dos líneas, educación digital básica y educación digital avanzada 46.
+
+Finalmente, para garantizar que esta tecnología sea guiada por principios de beneﬁcio colectivo, deben favorecerse espacios de comunicación y debate entre los agentes implicados y la sociedad civil, con el ﬁn de aumentar el nivel de comprensión público sobre las tecnologías inteligentes para que la ciudadanía conozca los desafíos y oportunidades reales. Deberá prestarse atención especial a grupos de población como la población mayor, de procedencia extranjera, familias con escasos recursos y población de zonas rurales, que pueden encontrarse en desigualdad con el resto de la población y van a requerir una formación especial para el uso y la comprensión de estas tecnologías.
+
+GESTIÓN Y ATRACCIÓN DEL TALENTO ESPECIALIZADO EN IA
+
+España ha sido reconocida como uno de los países con mayor capacidad de atracción de talento, con dos ciudades entre el top 10 en Europa para el establecimiento de startups: Madrid y Barcelona. Además, existen proyectos en desarrollo en Aragón, Valencia, Málaga, Granada, Bilbao y A Coruña y otros puntos del país que han desarrollado notables capacidades de innovación, y que resultan atractivos para la inversión tanto de empresas nacionales como extranjeras por unas mejores condiciones en calidad de vida, y unos costes económicos menores. Además, en este momento la pandemia causada por el CoVid-19, está desplazando la población hacia zonas del país menos pobladas y entornos rurales. La Estrategia Nacional de IA persigue consolidar a España como polo de atracción de talento en IA y de creación de centros de I+D de empresas internacionales, para lo que será necesaria una adecuada vertebración del territorio, especialmente a nivel de comunicaciones.
+
+46 https://ec.europa.eu/education/education-in-the-eu/digital-education-action-plan_en
+
+### LÍNEAS DE ACTUACIÓN 2025 — LÍNEA DE ACTUACIÓN 2.1 DESARROLLAR EL TALENTO NACIONAL EN IA
+
+MEDIDA 8. Desarrollo del Plan Nacional de Competencias Digitales, introduciendo en la escuela elementos de pensamiento computacional e Inteligencia Artiﬁcial, modernizando la FP, desarrollando la formación universitaria y postuniversitaria así como la recualiﬁcación de trabajadores y la capacitación digital del conjunto de la población, fomentando las vocaciones en el ámbito de la ciencia, la tecnología, la ingeniería, las matemáticas y las humanidades (STEAM) con especial foco en reducir la brecha de género y estableciendo programas de formación y debate dirigidos a la ciudadanía.
+
+MEDIDA 9. Promover una mayor oferta formativa en Formación Profesional y universitaria orientada a la IA, con mayor número de plazas en doctorado, masters, cursos de postgrado y plazas de personal docente e investigador, así como la actualización de contenidos de los grados vigentes. Se promocionarán estructuras de cooperación académicas interdisciplinares e interuniversitarias con el ﬁn de consolidar una comunidad con un enfoque mixto a nivel nacional y promover los intercambios internacionales.
+
+### LÍNEA DE ACTUACIÓN 2.2 - ATRAER Y RETENER EL TALENTO GLOBAL EN IA
+
+MEDIDA 10. Puesta en marcha del Programa “SpAIn Talent Hub”, en coordinación con ICEX Invest in Spain, para la atracción de talento tanto académico como profesional prestando especial atención a la atracción de inversión extranjera (creación de sedes/centros de empresas en España) e inversiones de impacto social, promoviendo la incorporación de mujeres emprendedoras y talento femenino.
+
+MEDIDA 11. Lanzar un programa de ayuda a la homologación de títulos y acreditaciones internacionales con el ﬁn de atraer profesorado internacional de IA a nuestro país.
+
+EJE
+
+ESTRATEGICO 3.
+
+´
+
+DESARROLLAR PLATAFORMAS DE DATOS E INFRAESTRUCTURAS TECNOloGICAS PARA DAR SOPORTE A LA IA
+
+´
+
+## EJE ESTRATÉGICO 3. DESARROLLAR PLATAFORMAS DE DATOS E INFRAESTRUCTURAS TECNOLÓGICAS PARA DAR SOPORTE A LA IA
+
+La digitalización, la disponibilidad y el acceso a grandes volúmenes de datos, así como la existencia de infraestructuras de alto rendimiento y capacidad para su procesamiento, son elementos imprescindibles para el desarrollo de la IA. Más allá de la inversión en la generación de nuevos conjuntos de datos e infraestructuras, también se debe asegurar la gestión eﬁciente y el uso adecuado de los datos en toda su cadena de valor según los principios de integridad, ﬁabilidad y calidad, protegiendo los derechos de la ciudadanía y su privacidad según se describe en el eje 6.
+
+Los datos que compongan dichas plataformas e infraestructuras de datos deberán estar desagregados por sexo, edad, nacionalidad y territorio entre otras variables.
+
+Las acciones previstas en este eje buscan articular y desarrollar soluciones en tres áreas clave de las plataformas de datos y las infraestructuras tecnológicas de IA.
+
+1. Desarrollar el marco regulatorio de Open Data, para deﬁnir una estrategia de publicación y acceso a los datos públicos de las Administraciones, facilitar el uso y la compartición de datos multilingües entre las Administraciones Públicas y otros actores, y asegurar el uso correcto y seguro de los datos.
+
+2. Impulsar acciones en el ámbito de las plataformas de datos, modelos, algoritmos, motores de inferencia y ciberseguridad para catalizar la investigación y la innovación orientada a mejorar la seguridad, la certiﬁcación, la eﬁciencia y la gobernanza de los datos abiertos y cerrados y la IA.
+
+3. Impulsar el desarrollo especíﬁco de tecnologías IA en el ámbito del procesamiento del lenguaje natural, que representa una gran oportunidad para situar a España en una posición de liderazgo dado el auge del español en el mundo.
+
+PLATAFORMAS DE DATOS PÚBLICOS
+
+Con la tecnología IA actual, la capacidad de impacto en la cadena de valor depende principalmente de la disponibilidad de grandes volúmenes de datos y metadatos de calidad, que sean accesibles, completos, seguros, y gestionados con pleno respeto de las normas de privacidad.
+
+En primer lugar, y para asegurar una correcta gestión de los datos en el ámbito público, se plantea la creación de normativa, la Oﬁcina del Dato y la deﬁnición del rol del Chief Data Ofﬁcer. Esta oﬁcina se creará a nivel de la Administración General del Estado y coordinará a todas las administraciones con el ﬁn de garantizar el almacenamiento, acceso y tratamiento homogéneo y seguro de los datos multilingües de sectores como energía, agricultura, recursos naturales, infraestructuras, cientíﬁcos, industriales, de seguridad social, empleo, de la Administración de justicia o sanitarios. Esta Oﬁcina del Dato contribuirá a que la disponibilidad de conjuntos de datos permita su uso para mejorar
+
+procedimientos de las AAPP y para que el sector privado pueda desarrollar de forma segura soluciones, productos o servicios basados en IA 47 aplicando las mejores prácticas en materia de seguridad y calidad del dato.
+
+Gracias a las distintas iniciativas abordadas en los últimos años, España se sitúa como un referente europeo en materia de datos abiertos (Open Data)48. La Ley sobre la reutilización de la información del sector público49, ha impulsado importantes iniciativas para favorecer el acceso a los datos públicos en España.
+
+Los sucesivos Convenios de colaboración entre la Administración General del Estado 50 y la entidad pública empresarial Red.es 51 para el impulso de la apertura y reutilización de la información del sector público, ha desarrollado un conjunto de actuaciones conocidas como Iniciativa APORTA (iniciativa de datos abiertos del Gobierno de España 52),. En materia regulatoria la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales 53, establece nuevas obligaciones para el sector público, tales como la potestad de veriﬁcación de la autenticidad de los datos personales de la ciudadanía, o la designación de una Delegación de Protección de Datos.
+
+Se están promoviendo iniciativas sobre datos abiertos y reutilización de la información del sector público, tanto en el ámbito local y autonómico como en el plano comunitario, en el que se ha reformado la normativa europea54. La normativa regula lo relativo a datos de investigación ﬁnanciada con fondos públicos, metadatos, datos dinámicos, y datos de alto valor, introduciendo condiciones de reutilización de datos y medidas relativas a los acuerdos exclusivos.
+
+Todas estas actuaciones e iniciativas serán puestas en valor gracias a la articulación de un Grupo de Trabajo interdisciplinar de datos abiertos en el sector público estatal.
+
+En lo que se reﬁere al sector privado, es necesario fomentar el desarrollo de repositorios accesibles, orientando a la empresa a la compartición o apertura de datos. Esto deberá hacerse facilitando la preparación técnica necesaria; fomentando la deﬁnición de estrategias de datos abiertos o compartidos por parte de las empresas; incentivando el establecimiento de un ciclo de vida de los datos que incluya su recogida, preparación, publicación y mantenimiento; así como la deﬁnición de protocolos de monitorización y supervisión de esa compartición.
+
+47 Real Decreto-ley 14/2019, de 31 de octubre, por el que se adoptan medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones. 48 https://datos.gob.es/es/dashboard 49 Ver Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal 50 A través de la Secretaría de Estado para el Avance Digital (SEAD), y la Secretaría de Estado de Función Pública 51 https://www.red.es/redes 52 https://datos.gob.es/es 53 https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16673 54 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=uriserv:OJ.L_.2019.172.01.0056.01.SPA
+
+En términos jurídicos se contempla la previsión de políticas de capacitación con reﬂejo institucional. En este ámbito cobra importancia la puesta en valor del Centro de Estudios Jurídicos del Ministerio de Justicia como órgano cuya actividad se oriente conforme a esa línea estratégica, tanto contemplando sus posibilidades como Digital Intelligence Hub para el sector legal tecnológico (lawtech-legaltech), como a través de la genuina actividad formativa en el sector público en materia de IA.
+
+La regulación deberá reforzar los compromisos para la protección, la gestión integral, la apertura y el acceso a la información de la que dispone el sector público y para que, de manera coordinada con el sector privado, se facilite la creación de nuevos servicios de valor añadido basados en datos. En esta dirección, y en línea con lo propuesto en la nueva Estrategia Europea de Datos 55 que fomenta la creación de data pools sectoriales, es necesario investigar y desarrollar un marco de acción para instrumentar modelos de compartición de datos para incentivar la innovación y experimentación a distintos niveles:
+
+· G2B (Government to Business): compartir datos entre el Gobierno y las empresas.
+
+· G2G (Government to Government): compartir datos entre Administraciones Públicas.
+
+· G2C (Government to Citizen): compartir datos entre el Gobierno y la ciudadanía.
+
+Para instrumentar la experimentación de nuevos procesos y servicios basados en datos en el ámbito tanto público como privado, se prevé también el uso de entornos seguros, comúnmente llamados sandboxes, apoyados por la Comisión y el Parlamento. Su función clave es testear nuevas aplicaciones de IA en distintos ámbitos contra el marco regulatorio existente, a través de un proceso que involucra a las entidades participantes y al regulador. La realización de sandboxes y repositorios de datos podrá incluir a las Administraciones Públicas como usuarias y catalizadoras de IA, así como constructoras y aportadoras de los repositorios de datos, eventualmente en el marco de los Digital Innovation Hubs, y especialmente en apoyo a las PYMEs tanto a nivel regional como a nivel local. En esta línea, en España, la Secretaría General del Tesoro y Política Financiera impulsó la ley de Sandbox Financiero 56 con el objetivo de establecer un entorno jurídico adecuado para garantizar que el proceso innovador en el ámbito ﬁnanciero se desarrolla de forma eﬁcaz y segura para los/as usuarios/as.
+
+Las Administraciones Públicas podrán explorar nuevos casos de uso de manera segura, como por ejemplo la captación de información con transcendencia tributaria, como alternativa a las actuales declaraciones informativas.
+
+55 https://ec.europa.eu/info/sites/info/ﬁles/communication-european-strategy-data-19feb2020_en.pdf 56 https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/180220-enlace_ﬁnanciero.aspx
+
+Finalmente, para estimular el uso y la gobernanza de datos públicos y ciudadanos a ﬁn de generar un bien social y público, se pondrá en marcha el Proyecto Datos por el Bien Social. Tanto los datos abiertos, los Datos Generados por la Ciudadanía (CGD, por sus siglas en inglés) y las transacciones de datos G2C (Government to citizen) pueden ser utilizados para dinamizar procesos con alto impacto social y público, mejorando la cantidad y calidad de la participación pública en el gobierno. Por ejemplo, combinaciones de datos abiertos, públicos o generados por la ciudadanía pueden servir para monitorizar fenómenos medioambientales –desde la calidad del aire hasta el mapeo de especies invasoras, para estudiar aspectos de salud comunitaria o abrir nuevas líneas de investigación pública y ciudadanas-.
+
+PLATAFORMAS DE DATOS HABILITADORAS Y CIBERSEGURIDAD
+
+Para que la IA sea un conductor central de la innovación y el crecimiento económico de nuestro país, es preciso impulsar las Tecnologías Habilitadoras Digitales como las infraestructuras de conectividad, los entornos de almacenamiento masivo de datos (tecnología cloud), la ciberseguridad, la computación de alto rendimiento, el Internet de las Cosas (IoT) y la Inteligencia Artiﬁcial en el extremo “at the edge”, la automatización y control de procesos o la inteligencia embebida en sistemas para el desarrollo de servicios, productos y procesos.
+
+En el marco de tecnologías de computación en la nube o cloud computing cabe destacar la iniciativa europea Gaia-X, que surge como un ambicioso proyecto, para crear una infraestructura de datos europea eﬁciente, segura y soberana de carácter público-privado. Se trata de una plataforma que permitirá a muchos proveedores ofrecer servicios de computación en la nube siempre que cumplan unos estándares europeos de calidad y funcionamiento. En el marco de tecnologías de computación en la nube o cloud computing cabe destacar la iniciativa EOSC (European Open Science Cloud) 57, que consistirá en gestionar, analizar y reutilizar datos para propósitos de investigación, innovación y educativos. Esta infraestructura virtual contribuirá a desarrollar y apoyar la ciencia abierta y la innovación abierta en toda Europa y más allá.
+
+España cuenta con un punto de partida positivo en este sentido, dada su posición en el despliegue de la conectividad de muy alta velocidad, palanca de la transformación digital y del despliegue de tecnologías de IA. España dispone ya de la red de ﬁbra óptica más extensa de Europa que cubre más del 80% de la población 58. Contando con el plan de desarrollo del 5G, España está entre los países más avanzados en el desarrollo de redes de última generación, condiciones favorables para que la penetración de tecnologías IA, entre otras, puedan ser adoptadas por empresas y la ciudadanía con independencia de su situación geográﬁca y nivel de renta. Hay que destacar los proyectos piloto 5G ya aprobados 59 y la gran variedad de casos de uso que ofrece la tecnología (por ejemplo, en diagnóstico médico y análisis de imagen en tiempo real).
+
+57 https://www.csic.es/sites/default/ﬁles/22febrero2019%20EOSC%20Synergy_0.pdf 58 Datos según Informe de cobertura de Banda Ancha en España, a junio de 2018. https://avancedigital.gob.es/banda-ancha/cobertura/Documents/Cobertura-BA-2018.pdf 59 https://www.red.es/redes/es/que-hacemos/pilotos-5g
+
+44
+
+En cuanto a infraestructuras de supercomputación, en junio de 2019, y tras un ejercicio coordinado a nivel estatal, la Unión Europea ha acordado una fuerte inversión en infraestructura de investigación de supercomputación de pre-exascala que será realizada en el supercomputador del Centro Nacional de Supercomputación-Barcelona Supercomputing Center 60. Esta decisión sitúa a España en el mapa europeo de la supercomputación, consolidándose como referencia a nivel de la Unión Europea y polo de atracción tanto de investigación básica como de desarrollo tecnológico para el sector privado. El apoyo de EuroHPC (del inglés European High Performance Computing), garantiza a España el papel de liderazgo en un área que facilita, entre otras tecnologías, el desarrollo de la IA en la carrera internacional.
+
+Aplicaciones emergentes como las que utilizan los vehículos autónomos, las interacciones del ser humano y la máquina o la Internet de las cosas (IoT) exigen llevar las capacidades de análisis avanzado de datos a los dispositivos periféricos. Para este tipo de aplicaciones es clave actuar en entornos seguros de datos, con el ﬁn de poder gestionarlos con pleno respeto de los principios de conﬁdencialidad, integridad y disponibilidad.
+
+En materia de la seguridad del dato se requiere la concienciación de todos los agentes implicados, Administración Pública, empresa y ciudadanía, y una buena coordinación entre todos los agentes que intervienen en la protección de la red, desde los centros de ciberseguridad del Estado y las Comunidades Autónomas hasta el Instituto Nacional de Ciberseguridad de España (INCIBE), encargado de promover la ciberseguridad de las empresas, y sus correspondientes homólogos europeos y en terceros países. Este último organismo se encarga de ofrecer servicios en el ámbito de la ciberseguridad a través de mecanismos para la prevención y reacción a incidentes de seguridad de la información, y promueve el avance de la cultura de la seguridad de la información a través de la concienciación, la sensibilización y la formación. El INCIBE también se dedica a generar y compartir conocimientos provenientes de la investigación relativos a la ciberseguridad, generar y desarrollar talento en la materia y a coordinar entre organismos nacionales e internacionales 61.
+
+TECNOLOGÍAS DE PROCESAMIENTO DEL LENGUAJE NATURAL
+
+Un componente básico de la infraestructura para la IA es el tratamiento del lenguaje natural, en el que España dispone de una ventaja importante: el talento especializado en la tecnología y en el idioma español. En este ámbito, España ya cuenta con el Plan de Impulso de las Tecnologías del Lenguaje 62, para fomentar el desarrollo del procesamiento del lenguaje natural, la traducción automática y los sistemas conversacionales en lengua española y lenguas cooﬁciales, ayudando a la internacionalización de las empresas e instituciones que componen el sector, ampliando la participación española en I+D+I en TIC en el ámbito internacional, y mejorando la cooperación con la comunidad iberoamericana.
+
+60 https://www.bsc.es/es 61 https://www.incibe.es/que-es-incibe/que-hacemos 62 https://www.plantl.gob.es/tecnologias-lenguaje/PTL/Paginas/plan-impulso-tecnologias-lenguaje.aspx
+
+Por su parte, la Real Academia Española ha promovido un acuerdo de la red de academias con los principales operadores de plataformas digitales, el Proyecto LEIA63 (Lenguaje Español e Inteligencia Artiﬁcial), suscrito recientemente y que tiene por objeto la defensa, proyección y buen uso de la lengua española en el universo digital y, especialmente, en el ámbito de la Inteligencia Artiﬁcial y las tecnologías actuales.
+
+Las organizaciones adscritas han ﬁrmado un acuerdo en el que se comprometen a emplear componentes y materiales para el desarrollo y despliegue de sus asistentes conversacionales, sus máquinas de procesamiento de lenguaje mediante texto, buscadores, etc., así como a incluir el español como lengua disponible en sus productos o servicios. Estos deben seguir los criterios sobre buen uso del español aprobados por la Real Academia Española.
+
+En este ámbito se tendrá en cuenta además el peso y las especiﬁcidades del lenguaje natural en el ecosistema de las Administraciones Públicas y jurídico, tanto en la prestación del servicio a la ciudadanía como a la gestión interna.
+
+LÍNEAS DE ACTUACIÓN 2025 — LÍNEA DE ACTUACIÓN 3.1 - IMPULSAR LAS PLATAFORMAS DE DATOS
+
+### MEDIDA 12. Creación de un organismo central de gobierno del dato a nivel nacional
+
+(Oﬁcina del Dato) y nombramiento de la ﬁgura de Responsable de Datos (Chief Data Ofﬁcer). Se participará activamente en iniciativas de creación de repositorios de datos seguros en la UE y en la coordinación de las aplicaciones de IA en las Administraciones Públicas, apoyadas por sandboxes regulatorios.
+
+MEDIDA 13. Creación de espacios compartidos de datos sectoriales e industriales y repositorios descentralizados y accesibles, que faciliten la creación de servicios de valor añadido basados en infraestructuras de datos y la construcción de aplicaciones de IA seguras e innovadoras en un entorno de sandbox regulatorio.
+
+63 https://www.rae.es/noticias/la-rae-presenta-el-proyecto-lengua-espanola-e-inteligencia-artiﬁcial-leia-en-el-xvi
+
+### LÍNEA DE ACTUACIÓN 3.2 - PROVEER INFRAESTRUCTURAS TECNOLÓGICAS HABILITADORAS
+
+MEDIDA 14. Impulso al Plan Nacional de Tecnologías del Lenguaje y la creación de recursos en la iniciativa de Lengua Española en la IA (LEIA) impulsada por la Real Academia de la Lengua Española y el Plan Nacional del Lenguaje.
+
+MEDIDA 15. Refuerzo de las Capacidades Estratégicas de Supercomputación,
+
+impulsar el desarrollo de HPC (High Performance Computing) facilitando el acceso y uso de los centros de supercomputación existentes, introduciendo la Comunicación y Computación Cuántica y el Edge Computing.
+
+MEDIDA 16. Puesta en marcha del Proyecto Datos por el Bien Social, basados en el uso de datos públicos de las Administraciones y de datos generados por la Ciudadanía para generar un retorno colectivo positivo (ej. Ciencia ciudadana, contribución de evidencia para políticas públicas, etc.).
+
+EJE
+
+ESTRATEGICO 4.
+
+´
+
+INTEGRAR LA IA EN LAS CADENAS DE VALOR PARA TRANSFORMAR EL TEJIDO ECOnoMICO
+
+´
+
+## EJE ESTRATÉGICO 4. INTEGRAR LA IA EN LAS CADENAS DE VALOR PARA TRANSFORMAR EL TEJIDO ECONÓMICO
+
+Al digitalizar sociedad y empresa, hemos creado contextos en los que los datos y su análisis es la única manera para entender la realidad, crear valor estratégico, optimizar procesos, y de, en suma, prosperar. Por ello, la IA se perﬁla como un sector de actividad en sí mismo que puede llegar a generar cerca de 14 billones (millones de millones) de euros a la economía global en el año 2030 y duplicar las tasas de crecimiento económico para 2035.
+
+Artiﬁcial Intelligence Revenue, World Markets: 2016-2025
+
+$40.000
+
+$35.000
+
+$30.000
+
+$25.000
+
+($ Millions)
+
+$20.000
+
+$15.000
+
+$10.000
+
+$5.000
+
+$
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source:
+
+La empresa de investigación de mercado Tractica pronostica que los ingresos anuales generados por las tecnologías basadas en IA crecerán de 643.7 millones de dólares en 2016 a 36.800 millones para 2025.
+
+En la actualidad la mitad de las actividades de AI se centran en desarrollar:
+
+· Automatización de gestión de calidad buscando reducir márgenes de error y tiempos de procesamiento de datos a gran escala.
+
+· Diagnóstico y Procesamiento de Datos Históricos: aumentando la velocidad y precisión de ciertos diagnósticos y habilitando la detección de anomalías en etapas tempranas.
+
+· Agentes automatizados de servicio al cliente (Chatbots en inglés): Son interfaces conversacionales (voz o texto) que permiten al público usuario interactuar con los sistemas informáticos y operativos de una organización, operándose mediante lenguaje natural y con una interacción humana muy baja o totalmente inexistente.
+
+· Prevención Automática de amenazas que permiten accionar protocolos de respuesta casi inmediatamente.
+
+· Sistemas de investigación y análisis de fraude: Modelos de IA de aprendizaje supervisado o no supervisado, que mejoran el tiempo de análisis y el margen de error a la hora de detectar riesgos o fraude en grandes volúmenes de transacciones.
+
+Ejemplos de casos de uso más utilizados
+
+9,80%
+
+9,80%
+
+9%
+
+50%
+
+10,30%
+
+10%
+
+Sistemas de investigación y recomendación de gestión de calidad
+
+Diagnóstico y sistemas de tratamiento
+
+Agentes de servicio al cliente automatizados
+
+Sistemas automatizados de inteligencia y prevención de amenazas
+
+Análisis e investigación de Fraude
+
+Otros
+
+Fuente: elaboración propia en base a datos del IDC
+
+SITUACIÓN ACTUAL DE LA IA EN LAS EMPRESAS ESPAÑOLAS
+
+La IA y el Big Data están desigualmente implantados en los distintos sectores de actividad
+
+en España. En 2018, solo un 11,2% de PYMEs y grandes empresas y un 2,3% de microempresas utilizaron Big Data en sectores muy puntuales: información y comunicaciones (30,2% y 10,7%, respectivamente), transporte y almacenamiento (18,9% y 3,7%) y actividades profesionales, cientíﬁcas y técnicas (14,2% y 3,6%). Estos índices de adopción permiten gran margen de mejora en cuanto a la potencialidad y beneﬁcio de estas tecnologías a la hora de crear valor empresarial.
+
+Un mayor entendimiento de dicha potencialidad permitiría a las empresas crear los presupuestos de ﬁnanciación adecuados para actividades de I+D alrededor de la IA, y la capacitación digital, maximizando los retornos de inversión.
+
+No obstante, se han identiﬁcado sectores que presentan un gran potencial de adopción de la IA por su tamaño e importancia en el sistema productivo español. Entre estos sectores se encuentran el turismo, la salud, la agricultura y alimentación y los contenidos digitales, así como otras industrias en las que se están aplicando tecnologías complementarias a la IA como la Realidad Virtual y Aumentada, la Robótica en manufacturación, y el Internet de las Cosas (IoT por sus siglas en inglés) en entornos de Computación al Borde (Edge Computing).
+
+El impacto del emprendimiento digital en la IA Las tecnologías de disrupción en el siglo XXI han sido mayoritariamente propulsadas por empresas creadas por emprendedores, y se necesita apoyar a este segmento PYME a que cree verticales de innovación potenciadas por la IA.
+
+Hubs de startups de IA en la UE
+
+97
+
+Londres
+
+30
+
+Berlin
+
+26
+
+Paris
+
+15
+
+Madrid
+
+12
+
+Estocolmo
+
+9
+
+Moscú
+
+9
+
+Amsterdam
+
+7
+
+Barcelona
+
+7
+
+Copenhague
+
+6
+
+Dublín
+
+Elaboración propia a partir de datos de Asgard Roland Berger
+
+Siendo el cuarto mercado en IA en Europa, España contribuye junto a Reino Unido, Francia y Alemania, con hasta el 60% de startups, laboratorios y comunidades de todo el continente, destacando por su avanzado despliegue de infraestructuras de conectividad y su ecosistema de investigación e innovación, y el alto nivel de desarrollo del capital humano con estudios técnicos superiores.
+
+Si bien España cuenta con un ecosistema muy activo de empresas, que muestran importantes tasas de crecimiento, tanto en creación como en supervivencia, los fondos institucionales y privados para su ﬁnanciación no tienen el tamaño y volumen de los existentes en otros países para apoyar la escalabilidad de las mismas. A pesar del notable desarrollo de los instrumentos de ﬁnanciación y del papel de los mercados de capitales en la expansión de nuevas empresas (por ejemplo, a través del Mercado Alternativo Bursátil), un informe de la OCDE indica que la inversión de capital privado en startups centradas en IA en España durante el periodo que transcurre entre 2011 y mediados de 2018 es el 3% de la cantidad total invertida en empresas de nueva creación con sede en la UE, muy por detrás de Francia (13%), Alemania (14%) o Reino Unido (55%).
+
+Estos datos dejan de maniﬁesto que hay un amplio margen de mejora para que España logre crear el ecosistema de crecimiento e innovación que se han desarrollado en otros países del mercado único y haga palanca de sus valores de investigación en IA y del elenco empresarial que España cuenta en posiciones de liderazgo industrial.
+
+INICIATIVAS DE PROMOCIÓN DE LA IA EN LA ACTIVIDAD ECONÓMICA Y EMPRESARIAL
+
+España ya ha puesto en marcha iniciativas con anterioridad para incentivar el desarrollo de la IA a partir de la I+D+I. Es el caso de la Estrategia Española de Ciencia, Tecnología e Innovación 2021-2027 y sus Planes Estatales de I+D+I, Investigación Cientíﬁca, Técnica y de Innovación, la reciente Estrategia Española de I+D+I en IA, la Estrategia de Tecnología e Innovación para la Defensa, la futura Estrategia de Movilidad Segura, Sostenible y Conectada, el Plan Nacional Integrado de Energía y Clima así, como la Estrategia Nacional de Industria Conectada 4.0. Los planes o programas de acción especiﬁcan los instrumentos necesarios para la incorporación de tecnologías de IA en aplicaciones y desarrollos. A estos programas se une la Acción Estratégica en Economía y Sociedad Digital como el Subprograma Estatal de Impulso a las Tecnologías Habilitadoras del Plan Estatal de Investigación Cientíﬁca, Técnica y de Innovación 2017-2020, que tienen como objetivos especíﬁcos el fortalecimiento de la competitividad de las empresas. Aun así, es necesario comprobar que estos programas escalan hacia las PYMES, haciéndolas beneﬁciarias al igual que las grandes multinacionales, favoreciendo que se adquiera innovación del parque emprendedor español evitando, por tanto, que el talento español se exporte a otros países.
+
+Las Comunidades Autónomas han desarrollado estrategias locales en el ámbito de la digitalización, lo que incluye iniciativas en supercomputación, computación cuántica, Blockchain, Datos, IA o 5G.
+
+De los casos más exitosos en donde España ha liderado es en proyectos de Ciudad Inteligente o Smart City, un marco idóneo en donde la aplicación de la IA ha solucionado desafíos en el terreno económico, social, medioambiental, y de gestión pública o gobernanza. En sintonía con lo establecido en el Plan Nacional de Territorios Inteligentes, sucesor del Plan de Ciudades Inteligentes, que ha desarrollado iniciativas que han mejorado la digitalización y los servicios en el ámbito local, tal como fomenta la Smart City World Expo.
+
+España asimismo destaca en el Sector Aeroespacial a nivel mundial, una industria que se está expandiendo en el desarrollo de la IA en tareas de análisis de datos de satélite para usos que van desde las predicciones meteorológicas, la navegación, el estudio del cambio climático, y hasta el tráﬁco humano, la detección de pandemias, la planiﬁcación urbanística, la monitorización de la migración y actividades industriales. En el naciente “Nuevo Espacio” España cuenta con un liderazgo demostrado en microlanzadores de cargas comerciales, y con la mejor geografía en Europa para la comercialización del espacio, una industria en donde los datos y la IA son la base de sus operaciones logísticas.
+
+INSTRUMENTOS DE APOYO FINANCIERO AL SECTOR PRIVADO
+
+El desarrollo de la IA requiere que se apoye el emprendimiento digital como palanca de transformación, impulso y aceleración del conjunto de la economía y de la sociedad. Se trata de contribuir al cambio del modelo económico del país a través de la creación, consolidación y crecimiento de empresas, con el foco en el desarrollo tecnológico, el impulso al talento y la igualdad de oportunidades entre hombres y mujeres. Para ello se han planiﬁcado toda una serie de medidas y planes de acción a corto, medio y largo plazo en torno a los sectores estratégicos de la economía española, como son la movilidad, la industria agroalimentaria, la salud o el turismo, incluyendo una ley especíﬁca de startups y la revisión de los mecanismos públicos de apoyo ﬁnanciero.
+
+El Estado dispone de diversos programas e instrumentos adicionales, dirigidos prioritariamente a la PYME: tanto desde el Ministerio de Ciencia e Innovación (a través del programa Innvierte de CDTI que proporciona capital de riesgo y capital semilla junto con inversores privados o apoyo de subvención directa para nuevas empresas en el programa Neotec), como ENISA (con la Líneas de ﬁnanciación Jóvenes Emprendedores, Emprendedores y Crecimiento con préstamos participativos) o el propio ICO (que con el FOND-ICO Global promueve la creación de fondos de capital riesgo de gestión privada que realicen inversiones en empresas españolas en todas sus fases de desarrollo) u otras empresas más sectoriales como IDAE (que en 2019 ofrece la participación en proyectos innovadores de inversión centrados en la Transición Ecológica) o la AEMET, Agencia Española de Meteorología.
+
+Es preciso reforzar la arquitectura ﬁnanciera pública de apoyo a la iniciativa privada con el ﬁn de aumentar el impacto de los recursos destinados a subvenciones y su retorno de la inversión, créditos, capital-riesgo, capital semilla, instrumentos de propiedad industrial y otras formas de asunción del riesgo inherente a los procesos de innovación tecnológica, especialmente en proyectos con alto contenido innovador y en las etapas iniciales de las empresas.
+
+Las distintas administraciones públicas han impulsado en todo el territorio nacional Centros Tecnológicos y Centros de apoyo a la Innovación Tecnológica en los campos de la Biotecnología, la Salud, Nanociencia y Nanotecnologías, Energía y Cambio climático, y Telecomunicaciones y Sociedad de la Información. Además, desde el Estado se han desarrollado redes de apoyo y orientación, como las recientemente abiertas 27 Oﬁcinas de transformación Digital. Gestionadas por Red.es, las oﬁcinas proporcionan información y formación a las PYMES de cara a favorecer el proceso de digitalización de la empresa española y el emprendimiento digital.
+
+La incorporación de la IA en el tejido productivo exige una fuerte coordinación a nivel nacional y autonómico de todas estas políticas, impulsando las sinergias y evitando la creación de entornos tecnológicos cerrados. A tal ﬁn es fundamental contar con la colaboración de las empresas y la utilización de la tecnología como una herramienta para la reducción y eliminación de las brechas que podrían existir en nuestro país en relación con el género, la edad, el entorno urbano o rural de residencia, o la capacidad económica y nivel formativo. Además, debe facilitarse el alineamiento y homogeneización de los distintos instrumentos, así como las redes de intercambio de buenas prácticas y mecanismos de colaboración ágiles entre sectores. El SICTI (Sistema de Información de Ciencia, Tecnología e Innovación) puede jugar un papel muy destacado. El sistema está integrado por el conjunto de agentes públicos y privados de coordinación, de ﬁnanciación y de ejecución y sus relaciones, estructuras, medidas y acciones para la promoción, desarrollo y apoyo a la política de I+D+I en España.
+
+Estas acciones nacionales deben alinearse con los Programas Europeos que disponen de ﬁnanciación orientada a la IA como, por ejemplo, el Programa Marco de I+D+I H2020 o el futuro Horizonte Europa; el Programa LIFE, el Programa Europa Digital (Digital Europe) o el Programa Europeo de Desarrollo Industrial en materia de Defensa (EDIDP) o el futuro Fondo Europeo de Defensa (EDF) , así como, con un orden de magnitud menor, los proyectos desarrollados por la Agencia Europea de Defensa (EDA) o la propia OTAN. Este contexto internacional debe forzar a que España disponga de los medios suﬁcientes para ser proactiva y estar presente en estas acciones desde el sector público y participando activamente desde el Sistema Español de Ciencia y Tecnología y el Sector Privado.
+
+España debe también simpliﬁcar y fomentar la atracción de capital extranjero y mejorar el marco regulatorio para aumentar el retorno de la inversión. Para ello, es preciso apoyar las acciones de los diversos Ministerios, impulsar el programa InvestInSpain y avanzar en la eliminación de las barreras regulatorias o técnicas, ﬁscales, legales o relacionadas con la atracción de talento.
+
+Dada la importancia de los desarrollos a nivel europeo y global, es preciso establecer mecanismos que integren los aspectos políticos, sociales, económicos, de seguridad y de sostenibilidad para que España mantenga su papel activo en las iniciativas desarrolladas por la UE, la OCDE, los diversos foros privados internacionales (como el World Economic Forum) y el Centro de Naciones Unidas sobre Tecnologías de la Información y la Comunicación (UNICTF), en Valencia como centro de referencia de todo el sistema de la ONU en materia de IA. El desarrollo de la IA, desde la programación de sus algoritmos hasta su concreta aplicación deberá observar y contribuir al Pacto Verde europeo para convertir a Europa en el primer continente climáticamente neutro, asegurar para una transición justa e integradora, promoviendo un uso inteligente de los recursos para una economía circular y limpia, que reduzca las emisiones de gases efecto invernadero y la contaminación y contribuya a restaurar la biodiversidad. Garantizar que la aportación de la IA a la economía y el crecimiento no suponga, en ningún caso, una carga ecológica.
+
+### LÍNEAS DE ACTUACIÓN 2025 — LÍNEA DE ACTUACIÓN 4.1 - AYUDAR A LA INTEGRACIÓN DE LA IA EN EL TEJIDO PRODUCTIVO
+
+MEDIDA 17. Lanzamiento de programas de ayudas y apoyo a empresas para procesos de transformación digital e incorporación de IA en los procesos productivos de las cadenas de valor de la industria existente.
+
+### MEDIDA 18. Programas de impulso a la innovación en IA dentro del Plan de
+
+Recuperación, Transformación y transferencia de Resiliencia, enmarcados en la Estrategia España Nación Emprendedora y la Estrategia de Política Industrial 2030 mediante los Centros de Innovación Digital (DIH) y otros centros, los programas de emprendimiento y spin offs de universidades, la Oﬁcina Nacional de Emprendimiento y la red territorial de apoyo. Creación de un ecosistema de participación y mutuo beneﬁcio que involucre a las empresas en las actividades desarrolladas en los hubs especializados en IA. (Ej. cierre de la brecha digital de género).
+
+### MEDIDA 19. Lanzamiento del Fondo NextTech de capital riesgo público-privado para
+
+Impulsar el emprendimiento digital y el crecimiento de empresas altamente innovadoras de base tecnológica, en el ámbito de la IA y sus tecnologías habilitadoras digitales.
+
+MEDIDA 20. Desarrollo del “Programa Nacional de Algoritmos Verdes”; así como la aplicación de la IA en el ámbito de la sostenibilidad.
+
+EJE
+
+ESTRATEGICO 5.
+
+´
+
+POTENCIAR EL USO DE LA IA EN LA ADMINISTRACioN puBLICA Y EN LAS MISIONES ESTRAteGICAS NACIONALES
+
+´
+
+´
+
+´
+
+## EJE ESTRATÉGICO 5. POTENCIAR EL USO DE LA IA EN LA ADMINISTRACIÓN PÚBLICA Y EN LAS MISIONES ESTRATÉGICAS NACIONALES
+
+La importancia del sector público en esta tecnología es tal, que está presente en las Estrategias de Inteligencia Artiﬁcial de los distintos países. Prueba de esta relevancia es también el tratamiento que de la cuestión se hace en los principales foros internacionales donde se deﬁnen los marcos de desarrollo de la IA, como la OCDE, con un informe especíﬁco al respecto: Hello, World: Artiﬁcial intelligence and its use in the public sector , o el AI Watch de la Comisión Europea, que en su informe Artiﬁcial Intelligence for the Public Sector 64, analiza el uso e impacto de la IA en los servicios públicos.
+
+La digitalización de las Administraciones Públicas se apunta como una de las políticas palanca claves dentro del Plan de Recuperación, Transformación y Resiliencia. En efecto, la modernización de los procesos del sector público tiene un elevado poder tractor sobre el conjunto de la economía y de la sociedad. En primer lugar, al aumentar la productividad del sector público así como de las empresas y ciudadanos en su relación con la administración. En segundo lugar, mediante el desarrollo de nuevas soluciones tecnológicas y la innovación generado por el desarrollo de soluciones para la gestión administrativa y la propia compra pública. Finalmente, impulsando la modernización de las cualiﬁcaciones del conjunto de la sociedad.
+
+En este contexto, la integración de la Inteligencia Artiﬁcial tiene un importante impacto sobre el crecimiento potencial del país al aumentar la productividad en el funcionamiento de los servicios públicos, las interfaces de relación con los administrados, la gestión administrativa interna, los procesos de toma de decisiones, los sistemas de gestión de información y el apoyo en la deﬁnición y articulación de las políticas públicas.
+
+Esto se explica por la situación actual en la que nos encontramos, liderado por los cambios tecnológicos promovidos por la IA que afectan al sector productivo y económico, a nuestras relaciones con los demás y a nuestra forma de comprender y conocer el entorno. En medio de esta transformación, la Administración no puede quedarse atrás.
+
+En efecto, la Inteligencia Artiﬁcial es útil para mejorar la transparencia y publicidad de la actividad pública. El beneﬁcio ﬁnal de todo este proceso es para la ciudadanía. Es ella quien debe monitorizar la actividad de la Administración, sentirla más cerca y poder usar aplicaciones adaptadas y personalizadas a sus necesidades, para poder mejorar los diferentes aspectos de su vida a través de la tecnología.
+
+Es por ello que hablaremos de esta relación entre la Administración y la IA. En primer lugar, se expondrán los beneﬁcios que aportará la IA a la Administración Pública, a continuación, nos referiremos al papel de la Administración como impulsora de estas tecnologías, para ﬁnalmente referirnos a los beneﬁcios que de esta relación se extraerán para la ciudadanía.
+
+64https://www.oecd-ilibrary.org/docserver/726fd39d-en.pdf?expires=1583405945&id=id&accname=guest&checksum=925A586494022B78DD0241D09C4506BC
+
+REFORMA DE LOS SERVICIOS PÚBLICOS
+
+1
+
+Artiﬁcial — Administración — Pública
+
+2
+
+### IMPULSO DE LA IA
+
+3
+
+Mejora de los servicios a ciudadanos
+
+Figura 5. La IA en la AAPP para la mejora de los servicios a la ciudadanía
+
+IA PARA LA REFORMA DE LA ADMINISTRACIÓN
+
+La IA ofrece a las Administraciones Públicas múltiples oportunidades para mejorar su actividad y el modo en el que se relacionan con la sociedad.
+
+· Adoptar decisiones de forma transparente. Es preciso que el acceso a la información de interés público esté al alcance, fomentando el gobierno abierto y permitiendo a la ciudadanía monitorizar a la Administración en las políticas que se implementen. Para ello, se mejorará la calidad de los datos aportados y su accesibilidad, fomentando la cultura de orientación al dato, utilizando algoritmos transparentes y explicables, estrechando la relación entre la Administración y la ciudadanía.
+
+· Crear repositorios de datos públicos que permitan el acceso en condiciones óptimas de seguridad, legalidad, integridad conﬁdencialidad y protección de la privacidad de los ciudadanos para desarrollar nuevas aplicaciones y oportunidades, tanto para el sector público (sistemas en el ámbito de la gestión sanitaria, la educación, la seguridad, la transición ecológica, la gestión urbana o la movilidad sostenible) como para el sector privado.
+
+Desarrollar decisiones basadas en la evidencia y la evaluación de políticas. Para que una política pública logre su objetivo, en cualquiera de los ámbitos como justicia, sanidad, empleo, etc., es imprescindible que provenga de un conocimiento lo más real y actualizado posible de la sociedad. De este modo, la actuación pública será más efectiva e irá dirigida a los sectores idóneos; todo ello con pleno respeto a la intimidad y los datos personales y a los principios de inclusión, accesibilidad y sostenibilidad. Esto trae como ventaja una actuación más estructurada y ﬁable frente a sucesos críticos como puede ser la prevención epidemiológica o la actuación frente a fenómenos naturales.
+
+· Aumentar la eﬁciencia de los procesos, con el ﬁn de agilizar trámites, automatizar procesos mediante la implantación de robots, permitir una mejor interrelación con la ciudadanía a través de asistentes virtuales o chatbots, reforzar la seguridad, luchar contra el fraude con modelos basados en detección de patrones fraudulentos, y en general, mejorar la calidad de las políticas públicas con base analítica que permitan obtener políticas óptimas basadas en simulación. Los distintos Ministerios están poniendo en marcha programas para la integración de la IA en sus sistemas con el ﬁn de mejorar sus repositorios de datos y mejorar el servicio a la ciudadanía.
+
+· Evitar desequilibrios entre los derechos y obligaciones de los datos en la provisión y uso de los mismos.
+
+En este proceso de transformación de la Administración por medio de tecnologías IA, se identiﬁcarán potenciales áreas de complementariedad con lo dispuesto en el Plan Estratégico de Administración Digital 2021-2024 65, en el marco del Programa de Apoyo a Reformas Estructurales de la Unión Europea (SSRP)66, buscando sinergias con iniciativas surgidas en el marco de estos programas.
+
+A su vez, de forma similar al Reino Unido67, se aprobará una guía de uso de la Inteligencia Artiﬁcial en el sector público, para introducir esta tecnología de manera ordenada, interoperable, con respeto a los principios éticos y a la legalidad vigente y que sirva para desarrollar la industria y el crecimiento económico. Estas actuaciones se adoptarán en colaboración con las CCAA, y las entidades locales, a través de una Conferencia Sectorial.
+
+65https://administracionelectronica.gob.es/pae_Home/pae_Actualidad/pae_Noticias/Anio-2019/Octubre/Noticia-2019-09-30-Secretaria-General-Administracion-D igital-inicia-elaboracion-Plan-Estrategico-2021-2024.html 66https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes/structural-reform-support-programme-srsp_es 67https://www.gov.uk/government/collections/a-guide-to-using-artiﬁcial-intelligence-in-the-public-sector
+
+LA ADMINISTRACIÓN COMO IMPULSORA DEL DESARROLLO DE LA IA
+
+El sector público siempre ha desempeñado un papel catalizador para impulsar el desarrollo, la aplicación y la adopción generalizada de nuevas tecnologías y debe seguir haciéndolo durante el proceso de adopción de la IA, ﬁnanciando la investigación e innovación en las fases previas a la puesta en el mercado; promoviendo el desarrollo como usuario/a de nuevas tecnologías, para satisfacer sus necesidades y mejorar la eﬁciencia de la gestión y la articulación de políticas públicas; a la vez que impulsa el sector de forma compatible con los valores constitucionales y adopta en sus procesos soluciones innovadoras.
+
+Financia la inovación
+
+inovación Promueve la
+
+captación
+
+### Impulsa la — Adopta la inovación
+
+Figura 6. Función de la Administración Pública
+
+en el impulso del desarrollo de la IA
+
+Desde las administraciones se debe trabajar para que España no se quede al margen de este fenómeno tecnológico que puede convertirse en un motor importante en la economía. Para que las oportunidades que genera la IA lleguen a todo el mundo se proponen iniciativas de ﬁnanciación, de colaboración con el sector privado y de coordinación entre AAPP:
+
+· Beneﬁciar a la Inteligencia Artiﬁcial a través de instrumentos ﬁnancieros, como subvenciones y ayudas, tanto nacionales como europeos o supranacionales. La ﬁnanciación debe servir para poner en marcha proyectos públicos y privados que van más allá de lo que la Administración Pública puede conseguir por sí misma.
+
+Incentivar la inversión pública y privada a través de programas basados en “misiones”, que permiten innovar en sectores socialmente importantes como la sostenibilidad o la prevención sanitaria. Los programas de cooperación público-privada girarán alrededor de cinco ejes en los que, sin duda, la IA encontrará un gran campo de aplicación: energía segura, eﬁciente y limpia para el siglo XXI; movilidad sostenible e inteligente; dinamización de un gran sector agro-alimentario sostenible y saludable; impulso a la industria española del siglo XXI, y dar respuesta sostenible a las enfermedades y necesidades derivadas del envejecimiento. Los 5 ejes llevarán incluida la perspectiva de género.
+
+· Introducir mecanismos de compra pública innovadora en la Administración, se coordinará con el Programa de Compra Pública Innovadora referido en el Eje 4 como parte de los instrumentos de apoyo ﬁnanciero a empresas innovadoras, de cara a favorecer el aprovechamiento de los recursos destinados a subvenciones y créditos públicos, así como para las que las universidades transﬁeran sus tecnologías al mercado.
+
+· Actuar como demandante de soluciones tecnológicas, impulsando así el desarrollo de nuevos programas y capacidades por parte del sector privado. Las necesidades de Inteligencia Artiﬁcial son numerosas en el sector público, en ámbitos como empleo, sanidad, justicia, migraciones; y su satisfacción permitirá a su vez la innovación en Inteligencia Artiﬁcial. Para ello, se podrán utilizar instrumentos de contratación, tales como la asociación para la innovación, en virtud de la cual un órgano de la Administración Pública plantea un objetivo o problema, dejando abierta la forma en que las empresas proporcionarán soluciones y, por tanto, impulsando la innovación privada en ámbitos en que no exista un sistema o procedimiento ya probado para abordar la cuestión. Para ello se tendrán en cuenta las orientaciones del Digital Europe Programme, así como el seguimiento a la implementación del Libro Blanco sobre la Inteligencia Artiﬁcial, especialmente en lo que se reﬁere a la adopción de la IA en el sector público.
+
+· Impulsar la IA mediante otros mecanismos, como la regulación, utilizando entornos controlados y de pruebas –sandboxes-. A su vez, se usarán otros instrumentos como la presente Estrategia, que se complementará mediante programas de actuación por Ministerios o sectores. Además, se promoverá la formación en el sector público en materia de IA, se incorporarán las nuevas tecnologías a los temarios de procesos selectivos, o se promoverá una reestructuración de la organización administrativa.
+
+MEJORA DE LOS SERVICIOS A LA CIUDADANÍA
+
+Todas las actuaciones señaladas redundarán en un mayor acercamiento a la ciudadanía, mediante el uso de mecanismos como la Carpeta Ciudadana o la ventanilla única, así como una mejor prestación del servicio público dado que la IA permitirá una reducción de trámites y una automatización de tareas obteniéndose servicios más adaptados, de mayor usabilidad, accesibilidad y personalizados a la ciudadanía y empresas.
+
+Se ha comentado el papel que la IA puede jugar en la transformación de los servicios a la ciudadanía. La capacidad de los robots virtuales y de procesamiento de datos ofrece una oportunidad para optimizar el tiempo y recursos a través de la automatización de tareas rutinarias, con el objetivo de mejorar la calidad de los servicios que se ofrecen a la ciudadanía y optimizar costes. La robótica virtual tiene el potencial de "realizar tareas repetitivas” eliminando la carga del funcionariado y permitiendo reorientar su trabajo, aportando más valor. El uso de las tecnologías de procesamiento del lenguaje natural mejorará la relación con la ciudadanía, mediante la implantación de nuevas vías de comunicación tales como chatbots o sistemas conversacionales.
+
+Las aportaciones de la Inteligencia Artiﬁcial al sector público se están haciendo en numerosos ámbitos, y el enfoque orientado por misiones es aplicable también a la prestación de los servicios públicos en diferentes sectores de actividad como son: sanidad y servicios sociales, medio ambiente y energía, justicia, transporte y logística, educación, empleo, y seguridad.
+
+Entre la aportación a la Administración Pública cabe destacar la incorporación progresiva de la tecnología y las herramientas de inteligencia artiﬁcial en las Aduanas es fundamental para la facilitación del comercio y la simpliﬁcación de los procedimientos aduaneros relativos a la seguridad de la cadena logística internacional en los movimientos internacionales de mercancías, personas y medios de transporte, así como las funciones de protección y seguridad. También cabe destacar el impulso en el uso estratégico de herramientas más avanzadas para todo el análisis de los datos de planiﬁcación y seguimiento de la Ayuda Oﬁcial del Estado, implementando la herramienta Info@DS que tiene como objetivo ofrecer mayores prestaciones y ﬁabilidad en la calidad y explotación de los datos.
+
+Otro ámbito relevante de aplicación de la IA en el sector público es el ámbito sanitario. En ese sentido la aplicación de la IA en investigación en salud permitirá el impulso de proyectos estratégicos como la simpliﬁcación de algoritmos en asistencia sanitaria, como por ejemplo el triaje de pacientes, que por sí mismo puede suponer una reforma y aumento de la eﬁciencia en los sistemas de salud.
+
+El Plan de Transformación Digital de las Administraciones Públicas, de próxima publicación, recoge en detalle las diferentes acciones que se pondrán en marcha con el ﬁn de incorporar la IA en los procesos del sector público.
+
+### LÍNEAS DE ACTUACIÓN 2025 — LÍNEAS DE ACTUACIÓN 5.1. APROVECHAR LOS BENEFICIOS PARA LA ADMINISTRACIÓN DEL USO DE LA IA
+
+MEDIDA 21. Incorporar la IA en la administración pública para mejorar la eﬁciencia en la relación con los ciudadanos, industria, empresas, y la sociedad en general y eliminar cuellos de botella administrativos.
+
+MEDIDA 22. Poner en marcha un laboratorio de innovación desarrollar nuevos servicios y las aplicaciones de la IA en la Administración Pública (GobTechLab). Colaborar con los programas de IA en los distintos Ministerios y organismos públicos, para garantizar la puesta en común de los programas y la difusión de las soluciones.
+
+### MEDIDA 23. Competencias IA en la AAPP. Fomentar el uso de IA en la
+
+Administración, desde el acceso a la función pública, la formación de los/as empleados/as públicos/as, hasta la deﬁnición de puestos de trabajo.
+
+MEDIDA 24. Programa “IA para una gestión pública basada en datos”. Utilizar la IA para tener un conocimiento real de la sociedad y tomar decisiones en la previsión macroeconómica y la articulación de políticas públicas basada en datos ﬁables y actualizados, así como utilizar la IA para mejorar las políticas de empleo y de capacitación de los trabajadores.
+
+### LÍNEA DE ACTUACIÓN 5.2. LANZAR PROYECTOS ESTRATÉGICOS RELACIONADAS CON LA IA
+
+MEDIDA 25. Promover misiones estratégicas nacionales en el ámbito de la administración pública donde la IA puede tener impacto para la mejora de los servicios a los ciudadanos (áreas tales como salud, justicia, empleo, etc.).
+
+EJE
+
+ESTRAteGICO 6.
+
+´
+
+Establecer un marco ETIco y normativo que refuerce la proteccion de los derechos individuales y colectivos, a efectos de garantizar la inclusion y el bienestar social
+
+´
+
+´
+
+´
+
+## EJE ESTRATÉGICO 6. ESTABLECER UN MARCO ÉTICO Y NORMATIVO QUE REFUERCE LA PROTECCIÓN DE LOS DERECHOS INDIVIDUALES Y COLECTIVOS, A EFECTOS DE GARANTIZAR LA INCLUSIÓN Y EL BIENESTAR SOCIAL
+
+El potencial impacto positivo del desarrollo y despliegue de la IA genera expectativas, pero también incertidumbre debido a las implicaciones éticas, legales, laborales, sociales y económicas. Para que España pueda ejercer control soberano y vanguardista sobre esta revolución tecnológica es necesario crear el marco de actuación apropiado. El objetivo de la ENIA es adaptar nuestras normas de convivencia a las necesidades del momento, asegurar si es suﬁciente con el marco ético y jurídico actual o valorar qué ajustes y revisiones necesita.
+
+La sociedad democrática debe promover una IA con el bienestar social y la sostenibilidad como valores guiando su diseño, desarrollo e implementación, reclamando que los datos y las tecnologías estén más orientadas a mejorar servicios públicos y a generar beneﬁcios colectivos, en clara sintonía con los movimientos de soberanía tecnológica que promueve la UE68 .
+
+Las acciones previstas en este eje buscan articular y desarrollar servicios en tres ámbitos clave en las que incide la IA:
+
+· Jurídico. En el que deben protegerse derechos fundamentales que ya son reconocidos, identiﬁcarse reformas legales necesarias, así como lagunas jurídicas que requieran regulación adicional.
+
+· Socio-tecnológico. Creando una serie de metodologías, estándares y procesos con los que desarrollar servicios automatizados.
+
+· Ético. Que es fundamental para asegurar que el uso de la IA acompañe los valores de la sociedad y opere en beneﬁcio de la inclusión y el bienestar.
+
+68https://www.euractiv.com/topics/gaia-x/
+
+NORMATIVA LEGAL EN INTELIGENCIA ARTIFICIAL
+
+Para asegurar que la sociedad pueda beneﬁciarse del enorme potencial de esta tecnología, el desarrollo de la IA deberá hacerse en sintonía con nuestras leyes y principios constitucionales.
+
+La Unión Europea está preparando legislación especíﬁca en Inteligencia Artiﬁcial 69 para asegurar que el respeto de los derechos fundamentales, poniendo énfasis en materia de privacidad y no-discriminación. Se participará activamente en las conversaciones europeas para deﬁnir un marco normativo equilibrado que garantice la protección de los derechos fundamentales a la vez que se potencia la innovación y se aprovecha la escala del mercado interior. Este marco normativo nos permitirá ganar competitividad global además de apoyar la soberanía digital europea.
+
+Actualmente existen numerosas iniciativas y estudios a nivel europeo con el ﬁn de mejorar los aspectos de género, aspectos éticos y pensamiento computacional en IA 70.
+
+Todo sistema de Inteligencia Artiﬁcial, debe respetar los derechos fundamentales, equidad en el acceso y prevención contra la discriminación, así como también los derechos del mundo “analógico”. También se apostará por un impulso normativo de revisión y reformas legislativas para la plena habilitación y operatividad del nuevo escenario tecnológico dentro de un marco democrático. Dicho impulso adquiere en la Administración de Justicia un valor estratégico añadido, si se tiene en cuenta el modelo de co-gobernanza vigente en el sector y la importancia de la interoperabilidad e interconexión de sistemas y aplicaciones.
+
+Por último, se participará también en los foros de organismos internacionales como el Consejo de Europa o la OCDE para avanzar una visión conjunta en materia de Inteligencia Artiﬁcial que sea ﬁable, ética y respete los derechos fundamentales, de modo que se asegure el avance en calidad de vida y de trabajo, así como en bienestar social.
+
+CALIDAD E IMPLEMENTACIÓN TÉCNICA
+
+Es importante que los sistemas sean transparentes y auditables, de manera que sea posible explicar cómo funcionan, ya que llevan a cabo tareas de asistencia a la toma de decisiones que, según el ámbito de aplicación, pueden tener impacto indeseado en la vida de las personas y el funcionamiento de la sociedad. Tal es el caso, por ejemplo, de las aplicaciones médicas o los vehículos autónomos. Por ello, los equipos encargados del desarrollo de sistemas de IA deben ser conscientes del posible impacto de las decisiones de diseño que realizan, así como ser capaces de veriﬁcar la calidad de sus desarrollos y, en su caso, realizar las modiﬁcaciones oportunas para paliar los posibles efectos indeseados.
+
+69 Libro Blanco sobre Inteligencia Artiﬁcial: https://ec.europa.eu/info/sites/info/ﬁles/commission-white-paper-artiﬁcial-intelligence-feb2020_es.pdf 70 https://www.informatics-europe.org/publications.html
+
+Este Eje contempla dos acciones clave destinadas a proporcionar elementos de conﬁanza y estándares que promuevan un desarrollo justo, inclusivo y equilibrado de la IA.
+
+Una supervisión adecuada de sistemas automatizados requiere un seguimiento continuo más allá de la certiﬁcación. Además de la implementación del sello de la conﬁanza y certiﬁcación de la UE, se desarrollará un catálogo de medidas suplementarias de supervisión y evaluación de sistemas algorítmicos.
+
+El catálogo de medidas diseñado debe permitir poner en práctica los principios éticos más fundamentales acordados por la comunidad internacional71 y con la aportación de las empresas, la ciudadanía, los agentes sociales y el resto de Administraciones Públicas, para el desarrollo de sistemas justos de IA:
+
+· Supervisión humana. La IA debe estar sometida a supervisión continua, y debe ser comprensible para las personas.
+
+· Gobierno de los datos y sistemas. Los datos no se utilizarán para perjudicar a la sociedad, o violar los derechos fundamentales de los ciudadanos. Los datos tienen tanto un aspecto personal, como un carácter de bien público. Las normas éticas y jurídicas con las que establecer el equilibrio democrático entre ambas deberán ser profundizadas tanto en el comité ético de la IA como en la revisión y reforma legal pertinentes.
+
+· Transparencia (trazabilidad). Se debe garantizar la trazabilidad de los sistemas de IA. Esto signiﬁca garantizar que las decisiones ejecutadas por sistemas algorítmicos puedan ser auditadas, evaluadas y explicadas por las personas responsables.
+
+ÉTICA Y VALORES
+
+Las implicaciones éticas surgen a lo largo de todo el proceso o ciclo de desarrollo de la IA. Un elemento a considerar es el posible sesgo de los algoritmos de la IA, causado, por ejemplo, por estar entrenados con datos sesgados, es decir, datos que no son representativos del universo que desea explorar. El diseño e implementación de los algoritmos requiere equilibrar su calidad técnica y eﬁciencia con la capacidad de identiﬁcar y corregir las cuestiones éticas que de ellos se puedan derivar.
+
+Para asegurar que la IA que se desarrolla en España cumple con los más altos estándares, esta estrategia prevé la puesta en marcha de consultas dentro del Consejo Asesor de IA para elaborar las medidas adecuadas para el desarrollo de una IA guiada por principios éticos.
+
+71https://www.coe.int/en/web/freedom-expression/committee-of-ministers-adopted-texts/-/asset_publisher/aDXmrol0vvsU/content/recommendation-cm-rec-20 20-1-of-the-committee-of-ministers-to-member-states-on-the-human-rights-impacts-of-algorithmic-systems?inheritRedirect=false&redirect=https%3A%2F%2 Fwww.coe.int%2Fen%2Fweb%2Ffreedom-expression%2Fcommittee-of-ministers-adopted-texts%3Fp_p_id%3D101_INSTANCE_aDXmrol0vvsU%26p_p_lifecycle %3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D1%26p_p_col_count%3D3
+
+Inclusión. No discriminación. Los sistemas de AI deben considerar toda la gama de habilidades y requisitos humanos, y garantizar la accesibilidad.
+
+· Bienestar social. La IA debe contribuir al bien común, apoyando el bienestar y los derechos fundamentales de los seres humanos, y no disminuir, limitar o desviar la autonomía de estos.
+
+· Sostenibilidad. Los sistemas de IA deben utilizarse para mejorar la sostenibilidad y la responsabilidad ecológica.
+
+Asimismo, se ha realizado una amplia consulta y constituido un Comité de Expertos para la elaboración de una Carta de Derechos digitales, con el ﬁn de identiﬁcar un conjunto de principios fundamentales que puedan inspirar la producción normativa tanto a nivel nacional como comunitario para adaptarla a las nuevas situaciones y circunstancias del ámbito digital y, en particular, las relativas a la extensión de la IA. Esta carta servirá también para reforzar el papel de España en los diferentes foros mundiales en que se están tratando estas cuestiones relativas a la ética, la protección de valores y derechos.
+
+La digitalización y la sociedad del conocimiento pueden contribuir al desarrollo en los países socios y la implementación de la Agenda 2030 72/73 para el Desarrollo Sostenible.
+
+Impacto social y gestión del riesgo
+
+Este Eje también contempla un conjunto de acciones para aumentar la conﬁanza ciudadana en la IA y analizar el impacto del uso de los algoritmos en distintos ámbitos de la sociedad.
+
+Para que la sociedad confíe en la IA y comprenda las implicaciones de su uso debe disponer de información ﬁable y de habilidades. En general, lograr que la ciudadanía adquiera capacidades digitales básicas es necesario para el desarrollo de una sociedad digital, en la línea del Marco Europeo de competencias digitales para la ciudadanía deﬁnido por la Unión Europea (EU Science Hub). Además, dada la velocidad a la que se desarrollan las nuevas tecnologías, resulta fundamental observar y estudiar el impacto de los algoritmos a lo largo del tiempo, recogiendo información y efectuando estudios que permitan no solo identiﬁcar si no también anticipar dichos efectos. Por esta razón, esta Estrategia acercará a la ciudadanía el debate sobre los aspectos más relevantes de la IA y su gobernanza, impulsando la creación de foros de diálogo nacionales e internacionales.
+
+72 https://www.agenda2030.gob.es/ 73 https://www.agenda2030.gob.es/recursos/docs/AGENDA_ADDIS_ABEBA.pdf
+
+Dichos espacios abordarán cuestiones fundamentales, como la ética en los sistemas de IA y el impacto de esta tecnología en los Derechos Humanos y las libertades públicas. La Estrategia impulsa igualmente la participación activa de España en los principales foros internacionales de debate y deﬁnición del marco global de desarrollo y uso de la IA, con especial atención al Global Partnership on Artiﬁcial Intelligence respaldado por la OCDE.
+
+Asimismo, se pondrá en marcha con el GobTechLab un registro de sistemas automatizados en la Administración Pública que documente los sistemas automatizados ya existentes y futuros. Una de las tareas llevadas a cabo será la evaluación ética y legal de dichos sistemas cuyo objetivo será reforzar la legitimidad y conﬁanza en los sistemas automatizados de la Administración Pública. El marco ético debe considerar las especiﬁcidades en el caso del uso de la IA en la Administración Pública.
+
+Además de observar los efectos de la IA en la sociedad digital, España quiere también llamar la atención sobre la necesidad de analizar el impacto de la IA sobre la democracia, la sociedad y el individuo, participando activamente y promoviendo el debate internacional sobre el papel de una IA centrada en el bienestar y la sostenibilidad.
+
+FOROS DE PARTICIPACIÓN CIUDADANA
+
+La reﬂexión ética vive en un estado previo y paralelo a la regulación. Es un proceso donde una sociedad perﬁla su sensibilidad y ﬁja posiciones sociales que más tarde canaliza mediante sus instituciones. Hay, por esta razón, una relación clara entre el debate ético y los foros de debate colectivo. La sociedad democrática debe tomar conciencia de que su control debe alcanzar –también-al diseño de la ingeniería, promoviendo que, a la vez que se desarrollan productos comerciales, se apuesten por tecnologías orientadas a mejorar servicios públicos con beneﬁcios colectivos y sociales.
+
+El carácter de debate político, es decir, sobre la distribución de esfuerzos o cargas en los procesos de transformación social se entiende mejor si miramos la IA como una forma de infraestructura, no como un producto. Es infraestructura en forma de estándares y procesos automatizados que hacen de intermediarios en las interacciones de los ciudadanos en materia de salud, agricultura, movilidad, comunicación, bienestar social, banca, comercio electrónico, empleo, etc. estructurando las relaciones, prácticas e interacciones sociales dentro de ese contexto. Debido a este carácter de dimensión colectiva, es fundamental favorecer espacios de comunicación y debate entre los agentes implicados.
+
+Por esta razón, es fundamental potenciar los foros de diálogo, sensibilización y participación nacionales e internacionales de la IA dirigidos a fomentar el diálogo entre gobierno, ciencia, interlocutores sociales, sector privado y sociedad civil. En este sentido, el Gobierno ha reforzado la participación en los diferentes foros internacionales sobre este asunto, ha puesto en marcha en España el foro Digital Future Society, junto con el Mobile World Capital, con el ﬁn de promover el debate e intercambio cientíﬁco sobre la dimensión humanista, jurídica y ética del proceso de innovación tecnológica, garantizando la protección de derechos y valores colectivos como la inclusión, pluralidad, cohesión social, sostenibilidad o el acceso a servicios públicos.
+
+En este aspecto, la puesta en marcha de programas de promoción de cultura cientíﬁco-tecnológica, con el apoyo de las universidades, y con una aproximación interdisciplinar, es imprescindible y deben colaborar para facilitar las categorías conceptuales e interpretativas que permitan entender los cambios tecnológicos que se producen en las sociedades contemporáneas, preparando a sus ciudadanos para posicionarse críticamente frente a los cambios sociales que pueden derivarse de los nuevos desarrollos tecnológicos.
+
+### LÍNEAS DE ACTUACIÓN 2025 — LÍNEA DE ACTUACIÓN 6.1 - CREAR CONFIANZA EN LA IA
+
+MEDIDA 26. Desarrollo de un sello nacional de calidad IA y la elaboración de catálogo de medidas suplementarias a la Certiﬁcación en IA a nivel europeo.
+
+MEDIDA 27. Poner en marcha observatorios de evaluación ética y jurídica de los sistemas algorítmicos utilizados en la administración pública y su impacto social para aﬁanzar la legitimidad y fomentar la conﬁanza del ciudadano en los sistemas de automatización de la administración pública.
+
+MEDIDA 28. Desarrollar e impulsar la Carta de Derechos Digitales como marco dinámico que garantice la protección de los derechos individuales y colectivos de la ciudadanía en el ámbito digital, tanto a nivel nacional como europeo, inspirando el desarrollo de un marco humanista en el ámbito mundial, que contribuya a cerrar las brechas existentes (digital, género, etc.).
+
+### LÍNEA DE ACTUACIÓN 6.2 - GOBERNAR LA IA
+
+MEDIDA 29. Puesta en marcha de un modelo de gobernanza nacional de la ética en la IA a través del Consejo Asesor de IA, en colaboración con el Consejo Consultivo de Transformación Digital.
+
+MEDIDA 30. Se promocionarán foros de diálogo, sensibilización y participación nacionales e internacionales de la IA dirigidos a fomentar el diálogo entre gobierno, ciencia, sector privado y sociedad civil. Incluirá un plan de actividades de sensibilización y conﬁanza hacia la IA como marco de fomento de innovación tecnológica social y creación de procesos democráticos y participativos bottom-up con el uso de nuevas tecnologías.
+
+## IV. RESUMEN DE MEDIDAS
+
+EJE
+
+MEDIDA
+
+## 1. IMPULSAR LA INVESTIGACIÓN CIENTÍFICA, EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN EN IA
+
+### 1. Red Española de Excelencia en IA
+
+2. Refuerzo del sistema de contratos pre/post-doctorales de investigación en IA.
+
+3. Flexibilizar la trayectoria cientíﬁca del personal investigador en IA.
+
+4. Promover la creación de nuevos centros nacionales de desarrollo tecnológico multidisciplinar con especial foco en neurotecnologías.
+
+5. Programa de ayudas a empresas para el desarrollo de soluciones en IA y datos.
+
+### 6. Reforzar la red de Centros de Innovación Digital
+
+(Digital Innovation Hubs DIH) especializados en IA a nivel de investigación.
+
+7. Crear el Programa de Misiones de I+D+I en IA para abordar grandes desafíos sociales.
+
+## 2. PROMOVER EL DESARROLLO DE CAPACIDADES DIGITALES, POTENCIAR EL TALENTO NACIONAL Y ATRAER TALENTO GLOBAL EN IA
+
+### 8. Desarrollo del Plan Nacional de Competencias
+
+Digitales.
+
+### 9. Promover una mayor oferta formativa en Formación
+
+Profesional y universitaria orientada a la IA.
+
+10. Puesta en marcha del Programa “SpAIn Talent Hub”.
+
+11. Lanzar un programa de ayuda a la homologación de títulos y acreditaciones internacionales para la atracción de talento internacional promoviendo talento femenino.
+
+## 3. DESARROLLAR PLATAFORMAS DE DATOS E INFRAESTRUCTURAS TECNOLÓGICAS PARA DAR SOPORTE A LA IA
+
+12. Creación de la Oﬁcina del Dato y del Chief Data Ofﬁcer.
+
+### 13. Creación de espacios compartidos de datos sectoriales e industriales y repositorios descentralizados y accesibles.
+
+14. Impulso al Plan Nacional de Tecnologías del Lenguaje.
+
+### 15. Refuerzo de las Capacidades Estratégicas de
+
+Supercomputación (cloud, edge, quantum).
+
+16. Puesta en marcha del Proyecto Datos por el Bien Social.
+
+EJE MEDIDA
+
+## 4. INTEGRAR LA IA EN LAS CADENAS DE VALOR PARA TRANSFORMAR EL TEJIDO ECONÓMICO
+
+### 17. Lanzamiento de programas de ayudas para empresas
+
+para incorporación de IA en los procesos productivos de las cadenas de valor.
+
+### 18. Programas de impulso a la transferencia de
+
+innovación en IA mediante los Centros de Innovación Digital especializados en IA de carácter industrial.
+
+19. Lanzamiento del Fondo NextTech de capital riesgo público-privado para impulsar el emprendimiento digital y crecimiento de empresas en IA (scale ups).
+
+20 Desarrollo del Programa Nacional de Algoritmos Verdes.
+
+## 5. POTENCIAR EL USO DE LA IA EN LA ADMINISTRACIÓN PÚBLICA Y EN LAS MISIONES ESTRATÉGICAS NACIONALES
+
+### 21. Incorporar la IA en la administración pública para mejorar la eﬁciencia y eliminar cuellos de botella administrativos.
+
+22. Poner en marcha un laboratorio de innovación para nuevos servicios y aplicaciones de la IA en la Administración Pública (GobTechLab).
+
+23. Fomentar las competencias IA en la AAPP.
+
+24. Programa “IA para una gestión pública basada en datos”.
+
+### 25. Promover misiones estratégicas nacionales en el
+
+ámbito de la administración pública donde la IA puede tener impacto (foco en salud, justicia, empleo).
+
+## 6. ESTABLECER UN MARCO ÉTICO Y NORMATIVO QUE REFUERCE LA PROTECCIÓN DE LOS DERECHOS INDIVIDUALES Y COLECTIVOS, A EFECTOS DE GARANTIZAR LA INCLUSIÓN Y EL BIENESTAR SOCIAL
+
+26. Desarrollo de un sello nacional de calidad IA.
+
+### 27. Poner en marcha observatorios para evaluar el impacto social de los algoritmos.
+
+28. Desarrollar la Carta de Derechos Digitales.
+
+29. Puesta en marcha de un modelo de gobernanza nacional de la ética en la IA (Consejo Asesor IA).
+
+30. Promoción de foros de diálogo, sensibilización y participación nacionales e internacionales en relación a la IA.
+
+## V. GOBERNANZA Y PRESUPUESTOS
+
+### V.1. GOBERNANZA
+
+Se propone un modelo de gobernanza para el desarrollo y ejecución de la estrategia, con una aproximación inclusiva de los diferentes niveles de administración y los representantes económicos y sociales. La Secretaría de Estado de Digitalización e Inteligencia Artiﬁcial (SEDIA) coordinará, a través de los distintos instrumentos del Estado, las acciones para facilitar la introducción de la IA en el tejido productivo, teniendo en cuenta las distintas iniciativas europeas e internacionales.
+
+El impacto que las tecnologías de la IA pueden tener en un entorno complejo y pluridimensional como es el de nuestro país, exige una aproximación transversal, que integre un buen número de políticas públicas. El modelo de gobernanza incluirá también el trabajo conjunto entre los distintos departamentos de la Administración General del Estado que se llevará a cabo mediante la participación de los distintos Ministerios coordinados por la SEDIA. Además, hay que buscar mecanismos de coordinación con las Comunidades Autónomas y las corporaciones locales. Las Conferencias Sectoriales y otros foros de coordinación existentes serán potenciados para articular la puesta en marcha de la presente Estrategia en todo el territorio. Finalmente, es preciso articular la coordinación de la posición de España en los distintos foros europeos e internacionales y promover la cooperación con el sector privado, que tiene un papel clave en el proceso de transición.
+
+La presente Estrategia se integra dentro de la Agenda España Digital 2025 y del Plan de Recuperación, Transformación y Resiliencia. La colaboración público-privada, clave para el despliegue de esta Estrategia, se impulsará mediante los distintos consejos y conferencias sectoriales, y en particular mediante el Consejo Asesor para la Inteligencia Artiﬁcial y el Consejo Consultivo de Transformación Digital, con participación de los principales agentes económicos y sociales.
+
+CONSEJO ASESOR PARA LA INTELIGENCIA ARTIFICIAL
+
+Constituido como órgano consultivo de asesoramiento y apoyo al gobierno en el ámbito de la IA mediante la ORDEN ETD/670/2020, DE 8 DE JULIO, POR LA QUE SE CREA Y REGULA EL CONSEJO ASESOR DE INTELIGENCIA ARTIFICIAL, proporciona asesoramiento y recomendaciones independientes sobre las medidas que se deben adoptar para garantizar un uso seguro y ético de la IA.
+
+En cuanto a sus miembros, está compuesto por personas expertas españolas de reconocido prestigio internacional y representantes del ámbito cientíﬁco, de la economía y de la sociedad, procurando la presencia equilibrada de mujeres y hombres.
+
+Su ámbito de análisis y consulta va desde el desarrollo y seguimiento de las acciones de la estrategia hasta el análisis de las implicaciones del cambio tecnológico en el ámbito laboral, los derechos fundamentales, la lucha contra la discriminación y la equidad en el acceso y uso de estas tecnologías. Podrán crearse comités para abordar aspectos concretos relacionados con la IA como, por ejemplo: aspectos éticos de la IA, IA industrial, etc.
+
+El Consejo llevará a cabo una monitorización y evaluación independientes, estableciendo criterios ex ante de evaluación e impacto que permitan llegar a conclusiones y sentar las bases para una evaluación ex post e in itinere de los impactos sociales y económicos de la IA en los diferentes sectores de actividad, los servicios públicos esenciales, y la sociedad en general.
+
+Entre las funciones que tendrá asignadas se encuentra:
+
+· Valorar observaciones y comentarios sobre la Estrategia de Inteligencia Artiﬁcial, para extraer conclusiones que permitirán aprobar las nuevas versiones de la Estrategia.
+
+· Promocionar planes formativos y propuesta de contenidos.
+
+· Asesorar al gobierno en materia de apertura de datos.
+
+· Evaluar el impacto de la Inteligencia Artiﬁcial en la industria, Administración y sociedad.
+
+METODOLOGÍA ÁGIL PARA LA REVISIÓN PERIÓDICA DE LA ESTRATEGIA NACIONAL
+
+Esta Estrategia se ha diseñado como un documento vivo y ﬂexible, dado que se trata de una tecnología evolutiva y cambiante. Para ello, se pondrán a disposición de la ciudadanía diversos canales a través de los cuales se podrán realizar las aportaciones que se consideren oportunas.
+
+La información recogida se analizará por el Consejo Asesor de IA, y se extraerán conclusiones que servirán como referencia para publicar nuevas versiones de la Estrategia, en el plazo de dos años.
+
+### V.2. INVERSIÓN PREVISTA EN EL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y
+
+RESILIENCIA
+
+La puesta en marcha de la presente Estrategia requiere la movilización de un importante volumen de inversión, tanto pública y privada, en los próximos años. La inversión pública por parte del Estado, asciende a un total de 600 millones de euros en el periodo 2021-2023, a los que se añadiría el fondo Next Tech para impulsar el emprendimiento en tecnologías digitales habilitadoras. Este impulso, que podría movilizar una inversión privada de unos 3.300 millones de euros 74, servirá de catalizador de la acción de las universidades y empresas, orientando las prioridades, generando sinergias y cubriendo aquellas áreas en que el mayor riesgo o la falta de mercados puede suponer un retraso para la iniciativa privada.
+
+74COM(2018) 795 ﬁnal
+
+## ANEXO 1:
+
+### MATRIZ DE RELACioN ENTRE OBJETIVOS Y EJES ESTRAteGICOS
+
+´
+
+´
+
+MATRIZ DE RELACIÓN ENTRE OBJETIVOS Y EJES ESTRATÉGICOS
+
+Crítico
+
+Importante
+
+Complementario
+
+Eje. 1 Eje. 2 Eje. 3 Eje. 4 Eje. 5 Eje. 6
+
+A. España país puntero en ciencia e innovación IA
+
+B. IA en lengua española
+
+C. Empleo cualiﬁcado y talento IA
+
+D. IA factor de productividad y eﬁciencia
+
+E. Entorno de conﬁanza y regulación
+
+F. Debate ético y desarrollo tecnológico centrado en lo humano
+
+G. Vectores transversales: género, digital, medioambiental, territorial.
+
+Eje 1. Impulsar la investigación cientíﬁca, el desarrollo tecnológico y la Innovación en IA.
+
+Eje 2. Promover el desarrollo de capacidades digitales, potenciar el talento nacional y atraer talento global en inteligencia artiﬁcial.
+
+Eje 3. Desarrollar plataformas de datos e infraestructuras tecnológicas que den soporte a la IA.
+
+Eje 4. Integrar la IA en la cadena de valor para transformar el tejido productivo.
+
+Eje 5. Potenciar el uso de la IA en la Administración Pública y en las Misiones estratégicas nacionales.
+
+Eje 6. establecer un marco ético y normativo que refuerce la protección de los derechos individuales y colectivos, a efectos de garantizar la inclusión y el bienestar social
+
+MATRIZ DE RELACIÓN ENTRE EJES DE ACTUACIÓN Y DESAFÍOS SOCIALES (VECTORES TRANSVERSALES)
+
+### Crítico — Importante — Complementario
+
+Eje. 1 Eje. 2 Eje. 3 Eje. 4 Eje. 5 Eje. 6
+
+Brecha de género
+
+Transición ecológica
+
+Vertebración territorial
+
+Alfabetización digital
+
+Eje 1. Impulsar la investigación cientíﬁca, el desarrollo tecnológico y la Innovación en IA.
+
+Eje 2. Promover el desarrollo de capacidades digitales, potenciar el talento nacional y atraer talento global en inteligencia artiﬁcial.
+
+Eje 3. Desarrollar plataformas de datos e infraestructuras tecnológicas que den soporte a la IA.
+
+Eje 4. Integrar la IA en la cadena de valor para transformar el tejido productivo.
+
+Eje 5. Potenciar el uso de la IA en la Administración Pública y en las Misiones estratégicas nacionales.
+
+Eje 6. establecer un marco ético y normativo que refuerce la protección de los derechos individuales y colectivos, a efectos de garantizar la inclusión y el bienestar social
+
+## ANEXO 2:
+
+EL PAPEL DE LA INTELIGENCIA ARTIFICIAL EN LA RESPUESTA A LA PANDEMIA COVID-19
+
+## ANEXO 2: EL PAPEL DE LA INTELIGENCIA ARTIFICIAL EN LA RESPUESTA A LA PANDEMIA COVID-19
+
+E
+
+l mundo se está enfrentando a una enfermedad nueva, la COVID-19, debida a un agente infeccioso nuevo, el coronavirus SARS-COV-2, sobre los cuales el conocimiento del que se dispone es todavía muy limitado. Esto hace que el desarrollo de tratamientos y vacunas, a pesar de los esfuerzos, no sea rápido y aun se pueda demorar varios meses, al menos. Por ello, las autoridades sanitarias tienen que acudir a otros instrumentos, no farmacológicos, para gestionar la epidemia, ofreciendo información veraz a la ciudadanía, estableciendo medidas de conﬁnamiento y distancia física y tratando de reducir los contagios, a la vez que refuerzan los sistemas sanitarios.
+
+La Inteligencia Artiﬁcial está jugando un importante papel en la respuesta a la crisis. Se está aplicando para poner a punto nuevos tratamientos y vacunas, para analizar diversas versiones del genoma del virus y caracterizar la respuesta del sistema inmunitario, para modelizar el grado de severidad de la enfermedad en los y las pacientes y para la gestión de recursos sanitarios. Se han desarrollado múltiples apps para teléfonos inteligentes que pueden servir para minimizar el contacto humano, apoyar el autodiagnóstico y detectar exposiciones con riesgo de contagio. Los sistemas de modelado y simulación predictiva están apoyando a los sistemas sanitarios a la hora de tomar de decisiones basadas en datos.
+
+En los próximos meses, seguirá siendo necesario recurrir a la IA para apoyar el proceso de desescalada por fases. Aunque la tecnología ofrezca posibles soluciones a estos problemas, es necesario insistir en la necesidad de tener muy en cuenta todas las posibles consecuencias de su uso, asegurando que se respetan los derechos y valores de nuestra sociedad.
+
+Aunque la IA se ha aplicado de numerosas formas en la respuesta a esta crisis, las soluciones totalmente basadas en IA han sido limitadas. La escasez de datos disponibles sobre un virus y una enfermedad nuevas ha diﬁcultado la elaboración de modelos. La IA está colaborando de forma decisiva en avances en los ámbitos de apoyo a la investigación biomédica y clínica (vacunas, fármacos, biología del virus y de la respuesta inmune), pero con menos impacto en las áreas de gestión de pacientes y gestión epidemiológica.
+
+Por último, es muy importante que se puedan derivar lecciones sobre los principales problemas puestos de maniﬁesto en esta crisis, para tomar medidas correctoras y preparar a los sistemas sanitarios (investigación, clínica, salud pública) para que en el futuro puedan obtener aún mayor partido de la aplicación de la tecnología digital en general y de la IA en particular a gestiones de posibles, aunque no deseadas, situaciones de crisis como la actual por COVID-19. Entre estas lecciones aprendidas podríamos incluir:
+
+1. Contar con mecanismos que aseguren la recolección de datos de calidad y estandarizados.
+
+2. Tomar siempre en consideración todos los aspectos relacionados con el uso de estos sistemas (privacidad y seguridad de datos, accesibilidad, usabilidad)
+
+3. Asegurar que la IA se aplica sólo cuando es realmente necesaria y no despertar expectativas exageradas
+
+4. Establecer metodologías para la evaluación formal y medición de resultados tras la aplicación de sistemas IA.
+
+5. Incrementar la cooperación internacional y entre áreas de conocimiento (ciencias, tecnologías, humanidades, etc.) en la búsqueda de soluciones a este tipo de crisis.
+
+Desde el comienzo de la crisis por COVID-19, España ha establecido numerosos contactos con diversos agentes en el sector de la tecnología digital con el objetivo de articular una respuesta coordinada a los principales problemas planteados por esta crisis de salud pública sin precedentes, desarrollando diversas iniciativas y proyectos que utilizan tecnologías y métodos de IA. Estas iniciativas son:
+
+1. Un asistente conversacional (chatbot) en español (Hispabot-Covid19) que proporciona al público usuario información veraz extraída de fuentes oﬁciales.
+
+2. Un sistema de autodiagnóstico a disposición de la ciudadanía basado en IA, accesible tanto en formato móvil como en aplicaciones web (Covid 19 sintomático).
+
+3. Un estudio de movilidad (Datacovid-19) a partir de datos de teléfonos móviles recopilados por el Instituto Nacional de Estadística en colaboración con las principales empresas de telecomunicaciones, así como un estudio de movilidad a partir de datos de teléfonos móviles llevado a cabo por el Ministerio de Transportes, Movilidad y Agenda Urbana, ambos con enfoques complementarios.
+
+4. Un portal web para ofrecer una vista integrada y una ventanilla única para acceder a todos los recursos digitales disponibles en España para combatir la pandemia.
+
+Notiﬁcación, integración, y análisis de datos en apoyo a la gestión de los recursos y la notiﬁcación de residencias de personas ancianas de toda España.
+
+ACRONIMOS
+
+´
+
+### ACRÓNIMOS
+
+• AEI. Agencia Española de Investigación • AEMET. Agencia Española de Meteorología • AGE. Administración General del Estado • API. Application Programme Interface. • B2G. Business to Government • B2B. Business to Business • CCAA. Comunidades Autónomas • CDO. Chief Data Ofﬁcer. • CDTI. Centro para el Desarrollo Tecnológico Industrial • CGD. Citizen generated data (datos generados por los ciudadanos) • COVID-19. Enfermedad causada por el Coronavirus SARS-COV-2 (Coronavirus Disease 2019) • CPP. Compra pública precomercial • DESI. Indice de la economía y la sociedad digitales • DLTs. Tecnologías de registro distribuido (Digital Ledger Technologies) • DPD. Delegado de Protección de Datos • EDA. Agencia Europea de Defensa • EDF. Fondo Europeo de Defensa • ENIA. Estrategia Nacional de Inteligencia Artiﬁcial • ENISA. Empresa Nacional de Innovación • EuroHPC. Consorcio Europeo de High Performance Computing • FEMP. Federación Española de Municipios y Provincias • FP. Formación Profesional • G2B. Government to Business • G2C. Government to Citizen • G2G. Government to Government • IA. Inteligencia Artiﬁcial • ICO. Instituto de Crédito Oﬁcial • IDAE. Instituto para la Diversiﬁcación y Ahorro de la Energía • I+D+I. Investigación, Desarrollo Tecnológico e Innovación • IIoT. Internet de las cosas en la Industria (Industrial internet of Things) • INCIBE. Instituto Nacional de Ciberseguridad • IoT. Internet de las Cosas (Internet of Things) • JRC. Joint Research Centre de la Comisión Europea • LEIA. Lengua española e Inteligencia Artiﬁcial • OCDE. Organización para la Cooperación y el Desarrollo Económico • ONU. Organización de la Naciones Unidad • OTAN. Organización del Tratado del Atlántico Norte • PECTI. Planes Estatales de Ciencia, Tecnología e Innovación • PYMEs. Pequeñas y Medianas Empresas • RAE. Real Academia Española • SECTI, Sistema Español de Ciencia, Tecnología e Innovación • SEDIA. Secretaría de Estado de Digitalización e Inteligencia Artiﬁcial • SICTI, Sistema de Información para la Ciencia, Tecnología e Innovación • STEM. Ciencia, Tecnología, Ingeniería y Matemáticas. (del inglés Science, Technology, Engineering and Mathematics)
+
+• STEAM. Ciencia, Tecnología, Ingeniería, Artes (incluyendo estudios sociales) y Matemáticas. (del inglés Science, Technology, Engineering, Arts and Mathematics) • THD. Tecnologías Habilitadoras Digitales • TIC. Tecnologías de la Información y de la Comunicación • UE. Unión Europea • UNICTF. Centro de Naciones Unidas sobre Tecnologías de la Información y la Comunicación
+
+### RECONOCIMIENTOS
+
+Secretaría de Estado de Digitalización e Inteligencia Artiﬁcial (SEDIA)
+
+Esta Estrategia ha sido elaborada por la Secretaría de Estado de Digitalización e Inteligencia Artiﬁcial adscrito a la Vicepresidencia Tercera del Ministerio de Asuntos Económicos y Transformación Digital, con la colaboración de las entidades que se indican a continuación.
+
+Grupo de trabajo interministerial
+
+Ministerio de Asuntos Exteriores, Unión Europea y Cooperación; Ministerio de Justicia; Ministerio de Defensa; Ministerio de Hacienda; Ministerio del Interior; Ministerio de Transportes, Movilidad y Agenda Urbana; Ministerio de Educación y Formación Profesional; Ministerio de Trabajo y Economía Social; Ministerio de Industria, Comercio y Turismo; Ministerio de Agricultura, Pesca y Alimentación; Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática; Ministerio de Política Territorial y Función Pública; Ministerio para la Transición Ecológica y el Reto Demográﬁco; Ministerio de Cultura y Deporte; Ministerio de Asuntos Económicos y Transformación Digital; Ministerio de Sanidad; Ministerio de Derechos Sociales y Agenda 2030; Ministerio de Ciencia e Innovación; Ministerio de Igualdad; Ministerio de Consumo; Ministerio de Inclusión, Seguridad Social y Migraciones; Ministerio de Universidades.
+
+Órganos externos
+
+Subgrupos de trabajo del Consejo Asesor de Inteligencia Artiﬁcial.

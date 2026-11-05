@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cncs.gov.pt/national-cyberspace-security-strategy@2019",
+  "name": "Portuguese National Cyberspace Security Strategy (Estratégia Nacional de Segurança do Ciberespaço) (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-cyberspace-security-strategy-2019",
+  "owner": "National Cybersecurity Centre (CNCS) & Government of Portugal",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Portuguese National Cyberspace Security Strategy (Estratégia Nacional de Segurança do Ciberespaço)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cncs.gov.pt/pt/estrategia-nacional/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-05",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cncs.gov.pt/national-cyberspace-security-strategy@2019 (https://www.cncs.gov.pt/pt/estrategia-nacional/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

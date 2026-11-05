@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2024",
+  "name": "Austrian Security Strategy (Österreichische Sicherheitsstrategie — ÖSS) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "oesterreichische-sicherheitsstrategie-2024",
+  "owner": "Federal Chancellery of the Republic of Austria (Bundeskanzleramt)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Austrian Security Strategy (Österreichische Sicherheitsstrategie — ÖSS)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (bka.gv.at); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (bka.gv.at); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bka.gv.at/themen/sicherheit/oesterreichische-sicherheitsstrategie.html",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-08-21",
+    "active": true,
+    "supersedes": "secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2013",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2024 (https://www.bka.gv.at/themen/sicherheit/oesterreichische-sicherheitsstrategie.html) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

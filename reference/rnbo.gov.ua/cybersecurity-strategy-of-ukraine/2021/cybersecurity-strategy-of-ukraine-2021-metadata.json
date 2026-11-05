@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/rnbo.gov.ua/cybersecurity-strategy-of-ukraine@2021",
+  "name": "Cybersecurity Strategy of Ukraine (Presidential Decree No. 447/2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "cybersecurity-strategy-of-ukraine-2021",
+  "owner": "National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cybersecurity Strategy of Ukraine (Presidential Decree No. 447/2021)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.president.gov.ua/documents/4472021-40013",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-08-26",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/rnbo.gov.ua/cybersecurity-strategy-of-ukraine@2021 (https://www.president.gov.ua/documents/4472021-40013) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

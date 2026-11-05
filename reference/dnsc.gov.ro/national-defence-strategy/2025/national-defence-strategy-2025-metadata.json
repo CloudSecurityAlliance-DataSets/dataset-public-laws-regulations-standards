@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/dnsc.gov.ro/national-defence-strategy@2025",
+  "name": "National Defence Strategy of Romania (Strategia Națională de Apărare a Țării) (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-defence-strategy-2025",
+  "owner": "National Cyber Security Directorate (DNSC) & Government of Romania",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Defence Strategy of Romania (Strategia Națională de Apărare a Țării)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (dnsc.gov.ro); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (dnsc.gov.ro); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.presidency.ro/ro/presedinte/agenda-presedintelui/strategia-nationala-de-aparare-a-tarii-pentru-perioada-2020-2024",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-11-26",
+    "active": true,
+    "supersedes": "secid:reference/dnsc.gov.ro/national-defence-strategy@2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/dnsc.gov.ro/national-defence-strategy@2025 (https://www.presidency.ro/ro/presedinte/agenda-presedintelui/strategia-nationala-de-aparare-a-tarii-pentru-perioada-2020-2024) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

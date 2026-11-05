@@ -1,0 +1,1377 @@
+# De Veiligheidsstrategie voor het Koninkrijk der Nederlanden (2023–2029)
+
+De Veiligheidsstrategie voor het Koninkrijk der Nederlanden
+
+Voorwerk → Voorwoord
+
+## Voorwoord
+
+Met veiligheid is het als met zuurstof of water. Het is een eerste levensbehoefte. We kunnen niet zonder en je gaat
+
+er pas echt over nadenken als het een probleem wordt. Zonder veiligheid wordt alles bedreigd en ontwricht wat
+
+we nu belangrijk vinden en wat belangrijk is voor onze toekomst. Daarmee is veiligheid een randvoorwaarde voor
+
+een samenleving waarin mensen in vrijheid en vertrouwen vorm kunnen geven aan hun leven en aan hun relaties
+
+met elkaar.
+
+Met deze Veiligheidsstrategie voor het Koninkrijk wil het kabinet de basis leggen onder een toekomst waarin we weerbaar en voorbereid zijn. Voor het eerst doen we dat samen met alle landen in het Koninkrijk, vanuit een diepe verbondenheid met elkaar, maar ook omdat veel van de gevaren die ons bedreigen hetzelfde zijn. Voor het eerst ook worden met deze strategie binnenlandse en buitenlandse veiligheid beleidsmatig met elkaar verbonden, om recht te doen aan de verwevenheid die er nu eenmaal is en om nieuwe dwarsverbanden te kunnen leggen.
+
+We leven gelukkig in een van de veiligste landen ter wereld. Tegelijkertijd groeit het aantal dreigingen, ook in complexiteit en onderlinge verwevenheid, en we kunnen het ons niet veroorloven daar naïef over te zijn. We hebben te maken met een veelkoppig monster. Zo veranderen geopolitieke machtsverhoudingen in hoog tempo. Aan de oost-en zuidgrens van Europa heerst instabiliteit, met de Russische inval in Oekraïne als ultieme gamechanger. Cyberaanvallen nemen hand over hand toe en in onze digitale wereld staat de betrouwbaarheid van informatie steeds vaker op het spel. De grensoverschrijdende georganiseerde criminaliteit ondergraaft stabiele maatschappelijke verhoudingen. Tijdens de coronatijd hebben we gezien hoe een pandemie tot grote maatschappelijke onrust kan leiden. En ook de gevolgen van klimaatverandering hebben een grote en groeiende invloed op onze manier van leven. De onzekerheid die met al deze ontwikkelingen gepaard gaat, is een voedingsbodem voor maatschappelijk wantrouwen en polarisatie. Ook dat is een veiligheids­vraagstuk.
+
+Veiligheid is een kerntaak van de overheid en dus is het logisch en terecht dat mensen voor versterking van de nationale veiligheid naar de overheid kijken. Met een goede analyse van alle mogelijke dreigingen en een heldere strategische koers kunnen veel leed en schade worden voorkomen. Maar wat de overheid niet kan bieden, is een honderd procent garantie op veiligheid. Absolute veiligheid bestaat niet. Risico’s kun je wel beheersen, maar niet uitsluiten. Dat betekent dat deze Veiligheidsstrategie ook een beroep doet op mensen zelf, om alert en voorbereid te zijn. Want alleen samen maken we een veilige en weerbare samenleving.
+
+Mark Rutte Minister-president en voorzitter van de Rijksministerraad
+
+Voorwerk → Inhoud
+
+Inhoudsopgave
+
+Voorwerk  2
+
+Deel 2: Strategische koers  20
+
+Deel 3: Sturen op nationale veiligheid  33
+
+1. Een veilig Koninkrijk in een multipolaire wereld  22
+
+Voorwoord  2 Introductie: Koersbepalers  4 Het Koninkrijk der Nederlanden   6 De Veiligheidsstrategie in vogelvlucht  7 Leeswijzer  9
+
+Een overheid die integraal stuurt op nationale   34 veiligheid  Een aanpak waarbij de hele maatschappij betrokken is  35 Een aanpak die wordt geëvalueerd en waar nodig   35 bijgesteld
+
+Actielijn 1: Investeren in internationale partnerschappen   22 en versterking van de krijgsmacht   Actielijn 2: Bestrijden van hybride conflictvoering  23 Actielijn 3: Vergroten weerbaarheid economie en   24 beschermen van wetenschap
+
+Deel 1: Dreigingen tegen de nationale veiligheid  10
+
+Nawerk  36
+
+2. Een weerbare democratische rechtsorde  25
+
+Verantwoording en totstandkoming  37 Begrippenlijst  39 Nationale veiligheidsbelangen en impactcriteria  41 Eindnoten  42
+
+Actielijn 4: Vergroten van de sociale stabiliteit  25 Actielijn 5: Tegengaan van georganiseerde, ondermijnende   26 criminaliteit  Actielijn 6: Tegengaan van ongewenste buitenlandse   27 inmenging en spionage   Actielijn 7: Versterken van de digitale weerbaarheid  27 Actielijn 8: Voorkomen en bestrijden van terrorisme   28 en extremisme
+
+Nationale Veiligheid als begrip  11 Ontwikkeling van de dreigingen  11 Kansen voor bevordering veiligheidsbelangen  12 Samenhang en doorsnijdende thema’s  13
+
+3. Een parate en veerkrachtige samenleving  29
+
+Actielijn 9: Intensiveren klimaatmitigatie en –adaptatie  29 Actielijn 10: Beter beschermen van de vitale infrastructuur  30 Actielijn 11: Vergroten van pandemische paraatheid  31 Actielijn 12: Versterken van crisisbeheersing en vergroten   32 paraatheid samenleving
+
+## Introductie Koersbepalers
+
+Onze veiligheid is een groot goed. Immers, zonder onze veiligheid is er geen vrijheid.
+
+### 1 Deze veiligheid is niet
+
+vanzelfsprekend en niet vrijblijvend. Veel verschillende dreigingen kunnen die veiligheid schaden. De wereld
+
+verandert, de dreigingen veranderen, de samenleving verandert en daarom moeten we óók de manier waarop we
+
+het Koninkrijk der Nederlanden (hierna: het Koninkrijk) beschermen veranderen. Een weerbaar en schokbestendig
+
+Koninkrijk dat is voorbereid op een veelvoud aan dreigingen is belangrijker dan ooit.
+
+Dit zijn de uitgangspunten voor de strategie en daarmee bepalend voor de koers:
+
+Richtinggevend en all-hazard
+
+Over de grenzen heen
+
+Koninkrijksbreed maar met eigen verantwoordelijk­heden
+
+Bescherming van het Koninkrijk reikt verder dan onze grenzen. Dreigingen tegen onze nationale veiligheid houden zich namelijk niet aan de grenzen van ons Koninkrijk. Externe (Europese en internationale) en interne (nationale) veiligheidsdimensies zijn onlosmakelijk met elkaar verbonden. Het Koninkrijk is sterk gebaat bij een stabiele en veilige wereld en een goed functionerende internationale rechtsorde, waaronder het bevorderen van mensenrechten en een op regels gebaseerd inclusief en effectief multilateraal stelsel wordt verstaan.3 Dit vraagt om een integrale koers op nationale veiligheid, die zowel de interne als externe veiligheidsdimensies omvat.4
+
+De Veiligheidsstrategie voor het Koninkrijk der Neder­ landen (hierna: de strategie) zet de koers op nationale veiligheid uit voor de komende zes jaar (2023-2029).2
+
+Deze koers omvat zowel moedwillige (security) als niet-moedwillige (safety) dreigingen, waarmee de strategie ‘all-hazard’ is. Het geeft richting aan wat we gaan doen op nationale veiligheid, waarbij we dreigingen in samenhang bezien. Hoe de koers concreet wordt uitgevoerd, komt te staan in domeinspecifieke strategieën, beleids-en actie­ plannen en landelijke crisis­plannen. Dit is deels al gebeurd. Deze strategie vormt hier de kapstok voor. Deze uitwerking valt binnen de bestaande beleidsverantwoordelijkheid van ieder departement, ieder bewindspersoon en ieder land in het Konink­rijk. Deze strategie is bovendien richtinggevend voor de Europese en internationale inzet van het Koninkrijk.
+
+Deze strategie zet de koers uit op nationale veiligheid voor het gehele Koninkrijk. Vanwege de verwevenheid van dreigingen is deze koers zo integraal mogelijk. Tegelijkertijd verschillen de dreigingen, weerbaarheid en daarmee ook de benodigde aanpak binnen de delen van ons Koninkrijk. In de strategie is oog voor deze verschillen. Het koninkrijks­ brede karakter van deze strategie verandert niets aan de bestaande verantwoordelijkheidsverdeling binnen het Koninkrijk. Ieder land in het Koninkrijk is en blijft zelf verantwoordelijk voor de nationale veiligheid, tenzij het zogeheten Koninkrijks­aangelegenheden betreft zoals de verdediging van het Koninkrijk en het buitenlandbeleid.
+
+Risicobeheersing, geen risico-uitsluiting
+
+Reikwijdte van de strategie
+
+Deze strategie beschrijft de koers hoe we het Koninkrijk beschermen tegen dreigingen die de nationale veiligheid kunnen raken. Maar vanzelfsprekend staat deze aanpak niet op zichzelf. Verschillende sociaaleconomische en demografische factoren kunnen van invloed zijn op de mate waarin iedereen in de samenleving daadwerkelijk in staat is om de weerbaar te zijn en veerkracht te tonen. Denk bijvoorbeeld aan armoedeproblematiek, toegang tot-en kwaliteit van onderwijs en gezondheidszorg, bestaans-en baanzekerheid, tekorten aan (technisch) personeel, discriminatie of ongelijke behandeling (onder meer op gebied van gender), druk op de asielketen en de wereldwijde bevolkingsgroei. De strategie zelf richt zich alleen op de zogenaamde ‘eerste-orde’ effecten die op dit moment direct kunnen worden gerelateerd aan nationale veiligheid. De genoemde sociale en economische factoren hebben als tweede-orde effecten wel invloed op deze eerste-orde effecten. Om de nationale veiligheid te be­schermen, moet en zal er rekening worden gehouden met deze factoren. Ook bij de uitwerking van deze strategie. Andersom moet bij de inzet ten aanzien van deze sociaal­economische en demografische factoren ook rekening worden gehouden met nationale veiligheid en de dreigingen waar we als samenleving mee te maken kunnen krijgen.
+
+Absolute veiligheid bestaat niet; dreigingen kunnen niet volledig worden weggenomen. Wel zetten we in op het verminderen van de kans dat een dreiging zich voordoet, het verminderen van de mogelijke impact van die dreigingen en op het benutten van kansen voor het proactief bevorderen van onze nationale veiligheids­ belangen. Daarmee ligt de focus op risicobeheersing, en niet op risico-uitsluiting. Dit vraagt van ons allemaal dat we voorbereid zijn. Ook als het onverhoopt toch fout gaat.
+
+Voor de hele samenleving
+
+De regie voor versterking van de nationale veiligheid ligt bij de overheid. Maar voor een veilig en weerbare samenleving is de inzet van iedereen nodig: niet alleen van de overheid in al haar geledingen, maar ook van burgers, bedrijven en maatschappelijke organisaties. Samen zijn we verantwoordelijk om onze veiligheid te beschermen. Iedereen draagt daar een steentje aan bij. Het is daarom van belang dat publieke en private partners, maatschappelijke organisaties en burgers weerbaar zijn tegen dreigingen tegen de nationale veiligheid. Risico­ communicatie vanuit de overheid over dreigingen, wat de overheid hieraan doet, en mogelijke impact op onze manier van leven dragen hieraan bij. Ook gerichte advisering en het bieden van handelingsperspectief vanuit de overheid richting bijvoorbeeld bedrijven helpt om de weerbaarheid tegen dreigingen te vergroten. Zo gaan we dreigingen tegen, verkleinen we de impact van dreigingen en – mocht het onverhoopt toch mis gaan – zijn we paraat en tonen we veerkracht.5
+
+Voorwerk → Het Koninkrijk der Nederlanden
+
+Het Koninkrijk der Nederlanden
+
+Het Koninkrijk bestaat uit vier landen: Curaçao, Aruba, Sint Maarten
+
+(de Caribische Landen) en Nederland. Het Statuut voor het Koninkrijk
+
+der Nederlanden regelt de staatkundige relatie tussen de landen.
+
+De landen zijn autonoom en zelf verantwoordelijk voor de nationale veiligheid. Als uitzondering daarop gelden de zogeheten Koninkrijks­aangelegen­heden zoals de handhaving van de onafhankelijkheid en verdediging van het Koninkrijk (defensie), het Nederlanderschap en het buitenlandbeleid. Hiervoor zijn niet de landen zelf maar het Koninkrijk als geheel verantwoordelijk.
+
+De eilanden Bonaire, Sint Eustatius en Saba (Caribisch Nederland) hebben in 2010 de status van openbaar lichaam verkregen. Zij vallen, als bijzondere gemeente, onder directe verantwoordelijkheid van Nederland, ook op het gebied van de aanpak op nationale veiligheid.
+
+Terminologie • Koninkrijk: gehele Koninkrijk der Nederlanden • Nederland: Europees Nederland • Caribische Landen: Aruba, Curaçao en Sint Maarten • Caribisch Nederland: Bonaire, Sint Eustatius en Saba • Caribisch deel van het Koninkrijk: Caribische Landen en Caribisch Nederland
+
+1 2 3
+
+Het Koninkrijk der Nederlanden bestaat uit 4 landen
+
+Nederland Aruba Curaçao Sint Maarten
+
+En 3 bijzondere gemeenten
+
+Bonaire
+
+Sint Eustatius
+
+Saba
+
+Bonaire, Sint Eustatius, Saba hebben een aparte status binnen Nederland. Zij heten Caribisch Nederland. Met de landen Aruba, Curaçao, en Sint Maarten vormen ze het Caribisch deel van het Koninkrijk.
+
+Caribisch deel van het Koninkrijk
+
+Dominicaanse Republiek
+
+Puerto Rico
+
+4
+
+Aruba Curaçao Bonaire
+
+Sint Maarten Saba Sint Eustatius
+
+4 5 6
+
+5 6 2 3 1
+
+1.000 km
+
+Venezuela
+
+Colombia
+
+Voorwerk → De Veiligheidsstrategie in vogelvlucht
+
+## De Veiligheidsstrategie in vogelvlucht
+
+De strategische koers voor de nationale veiligheid kent drie hoofddoelstellingen:
+
+In de Veiligheidsstrategie van het Koninkrijk der Nederlanden vormen de nationale veiligheidsbelangen de kern van wat we moeten beschermen (deel 1). Er zijn verschillende dreigingen tegen de nationale veiligheid. Als een dreiging één of meer veiligheidsbelangen ernstig aantast, kan dat maatschappelijke ontwrichting veroorzaken en daarmee de nationale veiligheid schaden.
+
+Zie volgende pagina Figuur 1: De veiligheidsstrategie in vogelvlucht ↓
+
+1. Een veilig Koninkrijk in een multipolaire wereld 2. Een weerbare democratische rechtsorde 3. Een parate en veerkrachtige samenleving
+
+In twaalf actielijnen zetten we vervolgens uiteen hoe we onze weerbaarheid tegen die dreigingen gaan vergroten.
+
+Tegelijkertijd zijn deze dreigingen met elkaar verweven. De ene dreiging heeft invloed op de andere dreiging, waardoor ze elkaar kunnen versterken. De Veiligheids­ strategie legt de nadruk op deze verwevenheid en beschrijft zeven doorsnijdende thema’s die de samenhang tussen de drei­gingen laten zien (deel 1).
+
+1. Investeringen in internationale partnerschappen en versterking van de krijgsmacht 2. Bestrijden van hybride conflictvoering 3. Vergroten weerbaarheid economie en beschermen van wetenschap 4. Vergroten van de sociale stabiliteit 5. Tegengaan van georganiseerde, ondermijnende criminaliteit 6. Tegengaan van ongewenste buitenlandse inmenging en spionage 7. Versterken van de digitale weerbaarheid 8. Voorkomen en bestrijden van terrorisme en extremisme 9. Intensiveren klimaatmitigatie en –adaptatie 10. Beter beschermen van de vitale infrastructuur 11. Vergroten van pandemische paraatheid 12. Versterken van crisisbeheersing en vergroten paraatheid samenleving
+
+Dit dreigingslandschap vertaalt zich vervolgens in een integrale strategische koers (deel 2) en integrale sturing op nationale veiligheid (deel 3). Zo legt deze Veiligheids­ strategie de basis onder een toekomst waarin we weerbaar en voorbereid zijn.
+
+## Figuur 1: De Veiligheidsstrategie in vogelvlucht
+
+Technologische ontwikkelingen en
+
+Economische
+
+dreigingen
+
+digitalisering van
+
+systemen
+
+Toegenomen afankelijk-
+
+Bedreiging vitale
+
+Economische
+
+heden en gevolgen voor
+
+infrastructuur
+
+veiligheid
+
+vitale infrastructuur en
+
+economie
+
+Fysieke veiligheid
+
+Zware ongevallen
+
+Klimaatverandering
+
+Ecologische
+
+Infectieziekten
+
+veiligheid
+
+Druk op democratische
+
+Klimaat-en natuurrampen
+
+rechtsorde
+
+Veiligheidsbelangen
+
+Doorsnijdende thema's
+
+Dreigingsthema's
+
+Geopolitieke uit-dagingen en militaire
+
+Internationale militaire dreigingen
+
+dreigingen
+
+Hybride dreigingen
+
+Territoriale veiligheid
+
+Cyberdreigingen
+
+Ongewenste buiten-
+
+Internationale
+
+landse beïnvloeding
+
+rechtsorde en
+
+en inmenging
+
+stabiliteit
+
+Maatschappelijke spanningen,
+
+Sociale en politieke
+
+dalend vertrouwen, desinformatie en een radicale
+
+Extremisme en
+
+stabiliteit
+
+terrorisme
+
+onderstroom
+
+Polarisatie
+
+Georganiseerde
+
+ondermijnende
+
+criminaliteit
+
+Voorwerk → Leeswijzer
+
+## Leeswijzer
+
+De Veiligheidsstrategie bestaat uit drie delen.
+
+In het eerste deel van de strategie beschrijven we de nationale veiligheidsbelangen (hierna: veiligheidsbelangen) die we willen beschermen vanuit het oogpunt van de nationale veiligheid en de belangrijkste ontwikkelingen van de dreigingen tegen de nationale veiligheid.
+
+Het tweede deel van de strategie zet de strategische koers uit. Dit doen we aan de hand van drie hoofddoelstellingen en twaalf actielijnen die gelden voor de komende zes jaar.
+
+Tot slot geeft het derde deel van de strategie antwoord op de vraag hoe de integrale sturing en verantwoordelijkheids­ verdeling op nationale veiligheid binnen het Koninkrijk eruit ziet. Een overheidsbrede en maatschappijbrede aanpak is nodig. Hieraan dragen naast de overheid, ook publieke en private partners, maatschappelijke organisaties en burgers bij.
+
+De strategie beschrijft de strategische koers voor het gehele Koninkrijk. Wanneer geschreven wordt in de ‘we’-vorm, verwijst de tekst naar het Koninkrijk. Met de term nationale veiligheid, wordt verwezen naar de nationale veiligheid van alle landen binnen het Koninkrijk en de veiligheid van het Koninkrijk als geheel. Het begrip nationale veiligheid wordt nader uitgelegd onder deel 1.
+
+## Deel 1 Dreigingen tegen de nationale veiligheid
+
+Onze veiligheid is niet vanzelfsprekend en is kwetsbaar voor een veelheid aan dreigingen. De problemen kunnen
+
+urgenter worden wanneer verschillende dreigingen gelijktijdig optreden en elkaar versterken. De strategie
+
+benadrukt de verwevenheid tussen de dreigingen. Deze integrale benadering helpt ons te bepalen wat we samen
+
+moeten doen om de nationale veiligheid van het Koninkrijk te beschermen.
+
+•
+
+Nationale Veiligheid als begrip
+
+•
+
+Ontwikkeling van de dreigingen
+
+•
+
+Kansen voor bevordering veiligheidsbelangen
+
+•
+
+### Samenhang en doorsnijdende thema’s
+
+Onze veiligheid is niet vanzelfsprekend en is kwetsbaar voor een veelheid aan dreigingen. De problemen kunnen
+
+urgenter worden wanneer verschillende dreigingen gelijktijdig optreden en elkaar versterken. De strategie
+
+benadrukt de verwevenheid tussen de dreigingen. Deze integrale benadering helpt ons te bepalen wat we samen
+
+moeten doen om de nationale veiligheid van het Koninkrijk te beschermen.6
+
+### Nationale Veiligheid als begrip
+
+In de strategie staat de term nationale veiligheid centraal. Er bestaat geen sluitende of eenduidige definitie van nationale veiligheid.7 In deze strategie hanteren we de volgende omschrijving:
+
+### Ontwikkeling van de dreigingen
+
+Aan de basis van deze strategie ligt de Rijksbrede Risico­ analyse (RbRa)8 en een aanvullende analyse over de impact van de oorlog in Oekraïne op de nationale veiligheid van Nederland.9 Beiden analyses zijn opgesteld door het Analisten­netwerk Nationale Veiligheid (ANV).10 Deze analyses geven een overzicht van dreigingen tegen de nationale veiligheid van het Koninkrijk in relatie tot de zes nationale veiligheidsbelangen (zie Tabel 1).
+
+nationale veiligheid wordt verwezen naar de nationale veiligheid van alle landen binnen het Koninkrijk en de veiligheid van het Koninkrijk als geheel.
+
+Wanneer we spreken over nationale veiligheid staan de veiligheidsbelangen die we proactief willen beschermen en bevorderen centraal (zie Tabel 1). Deze veiligheidsbelangen kunnen geschaad worden door dreigingen, wat maatschappelijke ontwrichting kan veroorzaken. Om dat te voorkomen zetten we in op het verminderen van de kans dat een dreiging zich voordoet, het verminderen van de mogelijke impact van die dreigingen en op het benutten van kansen voor het pro­actief bevorderen van onze veiligheidsbelangen. Daarmee ligt de focus op risicobeheersing, en niet op risico­ uitsluiting. De veiligheidsheidsbelangen, dreigingen, kansen en weerbaarheid vormen de basis voor het bepalen van de strategische koers.
+
+Onder nationale veiligheid verstaan we de bescherming van onze nationale veiligheidsbelangen tegen dreigingen die deze belangen kunnen schaden en daarmee maatschappelijke ontwrichting kunnen veroorzaken. Dit doen we door dreigingen te verminderen en de weerbaarheid tegen de dreigingen te verhogen.
+
+Nationale veiligheid gaat om het nemen van autonome beslissingen in een vrije en veilige samenleving, in beginsel onafhankelijk van ongewenste buitenlandse inmenging door andere landen, maar wel binnen de internationale overeengekomen kaders. Bij het beschermen van de nationale veiligheid gaat het onder meer om het tegengaan van aantasting van soevereiniteit van het Koninkrijk, het garanderen van onze democratische processen, het gezag van de democratische instituties in onze rechtstaat en de waarden en normen die ons verbinden. Met de term
+
+Het ANV heeft de veiligheidsbelangen methodisch uitgewerkt in impactcriteria en maken daarmee inzichtelijk in welke mate de belangen geschaad kunnen worden. Samen met domein­ specifieke analyses,11 vormen deze analyses belangrijke inbreng voor de strategie en dragen daarmee bij aan een strategische koers op nationale veiligheid die zich niet alleen richt op korte termijn dreiging maar ook op (mogelijke) ontwikkelingen in de dreiging op langere termijn.
+
+Uit de analyses blijkt dat de urgentie hoog is: de kans dat er de komende jaren gebeurtenissen optreden die de nationale veiligheid raken is relatief groot.12 Ontwikkelingen zoals de
+
+### Kansen voor bevordering veiligheidsbelangen
+
+Het is noodzakelijk om het nationale veiligheidsbeleid niet uitsluitend op dreigingen te baseren, maar ook oog te hebben voor kansen waarmee we veiligheidsbelangen actief kunnen bevorderen. Het gaat dan om het identificeren van strategische kansen voor de inzet van verschillende beleidsinstrumenten (o.a. economische, diplomatieke, militaire beleids­instrumenten) die onze welvaart, welzijn en veiligheid ten goede komen. Denk bijvoorbeeld aan het verbeteren van het investerings-en vestigingsklimaat voor bedrijven in specifieke sectoren waarvoor we nu afhankelijk zijn van derde landen. Maar ook een brede benadering van early warning en early action: het signaleren en duiden van trends en ontwikkelingen die mogelijk tot een conflict kunnen leiden en daar actie op te ondernemen. Niet slechts om een potentieel conflict te voorkomen, maar om actief duurzame stabiliteit te bevorderen.
+
+oorlog in Oekraïne, de COVID-19 pandemie en orkaan Irma laten zien hoe dreigingen werkelijkheid kunnen worden en onze nationale veiligheidsbelangen (in)direct kunnen raken. Ook zijn we meer online dan ooit, en daarmee groeien de dreigingen die deze digitale aanwezigheid met zich mee brengt.13 Dit raakt onze samenleving en beïnvloedt ons dagelijks leven. Geen enkele dreiging staat bovendien op zichzelf. De verwevenheid, complexiteit en dynamische aard van dreigingen die de nationale veiligheid kunnen raken neemt toe, waarbij digitalisering en technologische ontwikkelingen belangrijke katalysatoren zijn. Dit uit zich in de dynamiek van verder oplopende geopolitieke spanningen met onder meer gebruik van hybride methoden.
+
+De te verwachten impact van een aantal dreigingen verschilt binnen het Koninkrijk. Een voorbeeld hiervan is klimaat-en natuurrampen: orkanen vormen een dreiging voor het Caribisch deel van het Koninkrijk (met name Sint Maarten, Sint Eustatius en Saba), maar niet voor Nederland, waar juist droogte en natuurbranden (naast de langer bekende uitdagingen zoals overstromingen) een groot risico vormen.14 Ook zijn er verschillen in geopolitieke invloeden of dreigingen, zoals de oorlog in Oekraïne en neveneffecten op Nederland of de migratiestromen vanuit Venezuela (het grootste buurland van het Koninkrijk) richting het Caribisch deel van het Koninkrijk (met name Curaçao en Aruba).15 De geopolitieke belangen van grootmachten als de VS, Rusland en China spelen hierbij tevens een rol wat potentieel kan leiden tot een geopolitieke krachtmeting met impact voor het Caribisch deel van het koninkrijk en daarmee gevolgen voor het Koninkrijk als geheel.
+
+Tabel 1: De zes nationale veiligheidsbelangen16
+
+Veiligheidsbelangen Toelichting
+
+Territoriale veiligheid Het ongestoord functioneren van het Koninkrijk der Nederlanden en haar EU en NAVO bondgenoten als onafhankelijke staten in brede zin, dan wel de territoriale veiligheid in enge zin.
+
+Fysieke veiligheid Het ongestoord functioneren van de mens in het Koninkrijk der Nederlanden en zijn omgeving.
+
+Economische veiligheid Het ongestoord functioneren van het Koninkrijk der Nederlanden als een effectieve en efficiënte economie.
+
+Ecologische veiligheid Het ongestoord blijven voortbestaan van de natuurlijke leefomgeving in en nabij het Koninkrijk der Nederlanden.
+
+Sociale en politieke stabiliteit Het ongestoorde voortbestaan van een maatschappelijk klimaat waarin individuen ongestoord kunnen functioneren en groepen mensen goed met elkaar kunnen samenleven binnen de verworvenheden van de democratische rechtstaat van het Koninkrijk der Nederlanden en de daarin gedeelde waarden.
+
+Het goed functioneren van het inter­nationale stelsel van normen en afspraken, gericht op het bevorderen van de internationale vrede en veiligheid, inclusief mensenrechten, en effectieve multilaterale instituties en regimes, alsmede het goed functioneren van staten grenzend aan het Koninkrijk der Nederlanden17 en in de directe omgeving van de Europese Unie.
+
+Internationale rechtsorde en stabiliteit
+
+### 1. Geopolitieke uitdagingen en militaire dreigingen Samenhang en doorsnijdende thema’s
+
+Het is belangrijk om de analyses van dreigingen en kansen voor onze nationale veiligheid in samenhang te bezien, om zo een integrale strategische koers te bepalen. Deze beschouwing vertaalt zich in zeven doorsnijdende thema’s. Hieronder lichten we deze thema’s toe.
+
+fundamentele veranderingen in de bestaande orde. Instituties als de Wereldhandelsorganisatie, de Raad van Europa en de Verenigde Naties verliezen aan invloed, en er ontstaan alternatieve bondgenootschappen. Centraal in de nieuwe geopolitieke rivaliteit staat de relatie tussen de VS en China. Deze uit zich primair op militair en economisch terrein, en door het scheppen van daaruit voortvloeiende nieuwe risicovolle strategische afhankelijkheden, bijvoorbeeld op het gebied van energie, voedsel en grondstoffen. Dit klemt in het bijzonder voor Nederland, dat zich voor zijn veiligheid en welvaart afhankelijk weet van de VS en de spelregels van de internationale rechtsorde en stabiliteit.
+
+Ons buitenlandbeleid heeft tot doel bij te dragen aan de veiligheid, de welvaart en het welzijn van het Koninkrijk en zijn burgers. Het Koninkrijk is voor zijn welvaart en veiligheid sterk afhankelijk van een stabiele en veilige wereld met een functionerende internationale rechtsorde, waaronder het bevorderen van mensenrechten en een inclusief en effectief multilateraal stelsel. We kunnen de mogelijkheid van een aanval op de soevereiniteit en territoriale integriteit van het bondgenootschappelijk grondgebied niet uitsluiten.18
+
+Voor het eerst sinds 1945 wordt Europa geconfronteerd met een grootschalig interstatelijk conflict. De relaties tussen Rusland, de EU en de NAVO zijn hierdoor ernstig verstoord. De toekomstige ontwikkeling van de oorlog laat zich moeilijk voorspellen. Het is evenwel waarschijnlijk dat er sprake zal zijn van een langdurig conflict in Europa met kenmerken van hybride conflictvoering. Naarmate de huidige situatie voort­-duurt zullen de effecten van deze oorlog op de nationale veiligheid in den breedte zwaarder wegen en langer door­ werken. Dat geldt zowel voor een scenario van escalatie als voor de-escalatie van de oorlog. De Russische inval in Oekraïne heeft geleid tot een verharding van diplomatieke betrekkingen, een ernstig verslechterde economische situatie, nieuwe ontwikkelingen in het cyber-en spionage­ domein en een grote vluchtelingenstroom naar Europa. De ontwikkelingen in het militaire domein vormen zo een katalysator voor ontwikkelingen in andere domeinen -zoals migratie, economische veiligheid en maatschappelijke spanningen -waarbij de factor tijd een belangrijke rol speelt.20
+
+Voor het verdere verloop van de oorlog in Oekraïne is het meest waarschijnlijke langere termijn scenario dat er sprake zal zijn van een voortdurende confrontatie tussen Rusland en het Westen (NAVO en EU). Hoewel het onwaarschijnlijk is dat dit zal escaleren tot een gewapend conflict, is dit wel voorstelbaar. Gezien de positie van Rusland als nucleair bewapende grootmacht, is dit zorgelijk.19 De veranderende machtsbalans in de wereld, de verscherping van strategische competitie, de nabijheid van militaire conflicten, de dreiging voor het bond­genoot­schappelijk grondgebied en de druk op demo­cratische samenlevingen betekenen dat meer diplomatieke, militaire en ontwikkelings­inzet nodig is dan voorheen om de doelstellingen van ons buitenlandsbeleid te waarborgen. Het Koninkrijk heeft namelijk groot belang bij een wereld waarin landen samenwerken op basis van heldere afspraken en elkaar kunnen aanspreken als deze afspraken worden overtreden.
+
+De wereldorde staat voor grote uitdagingen en is aan verandering onderhevig. De op regels gebaseerde inter­ nationale orde die na de Tweede Wereldoorlog ontstond, kenmerkte zich door geopolitieke rivaliteit tussen de twee grootmachten VS en Sovjet-Unie. Dit systeem is met de implosie van de Sovjet-Unie ten einde gekomen. Het daaropvolgende unipolaire stelsel met een centrale rol voor de VS wordt vervangen door een multipolair stelsel, waarin een veelheid van invloedrijke landen en regio’s inzetten op
+
+Daarnaast wordt ook het veiligheidsbelang van internationale rechtsorde en stabiliteit vanzelfsprekend hard geraakt door de oorlog in Oekraïne.21 De ontwikkelingen sinds de Russische inval in Oekraïne belichten de grotere verschuivingen die in de wereldorde plaatsvinden. Al langere tijd wordt het functioneren van de internationale rechtsorde door enkele staten ter discussie gesteld. Deze staten zien de huidige
+
+Impact van de oorlog in Oekraïne op de veiligheid van Nederland en non-proliferatie, en de huidige kaders schieten tekort om nieuwe ontwikkelingen te reguleren. Tot op zekere hoogte proberen sommige spelers, zich meer autonoom en minder kwetsbaar te maken voor derde landen door gedeeltelijke ‘ontkoppeling’ van de eigen economie en het ontwikkelen van alternatieve standaarden. In de afgelopen jaren zijn geopolitieke overwegingen een grotere rol gaan spelen in internationale standaardisatie-fora. Het risico hiervan is dat er standaarden worden vastgesteld die niet verenigbaar zijn met de normen, waarden en wet-en regelgeving van het Koninkrijk, de EU of andere gelijkgezinde landen, waardoor onze veiligheid kan worden geschaad. Dit geldt ook voor het Caribische deel van het Koninkrijk waar op slechts tientallen kilometers afstand ons grootste buurland Venezuela ligt. Het gebrek aan democratie en een functionerende rechts­ staat in combinatie met geopolitieke inmenging en de voortdurende humanitaire crisis in Venezuela blijft een onvoorspelbare factor die de stabiliteit en veiligheid van het Koninkrijk kunnen bedreigen. Hierbij spelen ook de geopolitieke belangen van de VS, Rusland en China een rol. De vervlechting van georganiseerde misdaad en de Venezolaanse strijd­krachten bij illegale handel in drugs, goud en wapens heeft een destabiliserende werking op de regio. Het is onwaarschijnlijk dat Venezuela de territoriale integriteit van het Koninkrijk zal schenden. Er bestaat wel een kans op onbedoelde escalatie door mogelijke misinterpretatie en incidenten als gevolg van de afname van de militaire professionaliteit binnen Venezuela.27
+
+internationale rechtsorde als een westers construct, bedoeld om westerse belangen te behartigen. Vooral Rusland en China tasten de bestaande internationale orde aan. Rusland ondermijnt de internationale rechtsorde en stelt zich in multilateraal verband veelal op als stoorzender. China hecht juist aan internationale stabiliteit en een functionerend multilateraal systeem, maar wil het systeem op de lange termijn naar eigen visie hervormen. De landen vinden elkaar in hun verzet tegen de in hun ogen westers georiënteerde internationale rechtsorde, hun anti-VS opstelling en geo­ strategische competitie met het Westen.22 In Afrika zal de komende decennia de bevolking naar verwachting verdubbelen. Afrika lijdt het hardst onder de schokeffecten van de geopolitieke en geo-economische crises die de wereld teisteren.23 Het demografisch en economisch zwaartepunt verschuift oostwaarts, in het bijzonder richting China en de bredere Indo-Pacific regio. Deze ontwikkelingen zullen leiden tot een meer multipolaire wereldorde.24 Het Koninkrijk zal zich moeten verhouden tot deze veranderende machts-balans.
+
+De nieuwe machtspolitiek is niet beperkt tot het klassieke veiligheidsdomein. Macht wordt steeds vaker uitgeoefend door de inzet van economische instrumenten, controle over technologieën, risicovolle strategische afhankelijkheden en andere, hybride, middelen. Bijvoorbeeld door gebruik van migratie als drukmiddel (instrumentalisering van migratie)25 maar ook (online) middelen zoals desinformatie en propaganda om de publieke opinie te beïnvloeden. De opbouw van het Russisch militair vermogen, evenals een toename in marine-activiteiten in de Noordzee gericht op spionage, verstoring en sabotage, oefent druk uit op het NAVO-bond­genoot­schap. Ook werkt een aantal landen aan nieuwe soorten massa­vernietigings­wapens en hypersonische raketten.26
+
+Deze middelen kunnen hun invloed hebben op de verschillende veiligheidsbelangen zoals territoriale veiligheid, economische veiligheid, fysieke veiligheid en sociaal en politieke stabiliteit. Landen achten zich steeds minder gebonden aan multilaterale afspraken over wapenbeheersing
+
+De Russische inval in Oekraïne op 24 februari 2022 heeft niet alleen grote en langdurige consequenties voor Oekraïne en de Oekraïense bevolking, maar ook voor het Koninkrijk en onze bondgenoten. De oorlog raakt nu al verschillende nationale veilig­heidsbelangen, zoals de internationale rechtsorde, economische veiligheid en sociale en politieke stabiliteit. Hoe langer de oorlog in Oekraïne voortduurt, des te groter zal de impact zijn.
+
+Zo tasten de geopolitieke consequenties van de oorlog de fundamenten aan van de op regels gebaseerde veiligheids­ politieke ordening, die het Westen dacht te hebben opgebouwd na het einde van de Koude Oorlog. Het vertrouwen in multi­ laterale organisaties staat onder druk, evenals de principes van non-interventie en staatssoevereiniteit.
+
+De Europese afhankelijkheid van Russische energie brengt grote risico’s met zich mee voor onze economische veiligheid. Ruwweg een jaar na de Russische inval komt er vrijwel geen Russische energie meer naar Nederland. Met het laatste sanctiepakket op Russische olieproducten zijn alle Europese energiesancties nu van kracht. Hierdoor komen er vrijwel geen Russische olie­ producten, ruwe olie en kolen Nederland meer in. Vloeibaar Russisch gas (LNG), dat niet per leiding maar per schip wordt aangevoerd, is de enige uitzondering hierop. Hoewel Nederland een sterk verminderde afhankelijkheid kent, zijn andere Europese landen nog niet zo ver. Rusland gebruikt deze afhankelijkheid van Russische energie om druk uit te oefenen op de EU-lidstaten en om de Europese cohesie te ondermijnen. Dit heeft invloed op de energieprijzen en de leveringszekerheid, wat resulteert in sterke inflatie.
+
+Door de hogere energieprijzen en oplopende inflatie komt de Westerse eenheid in toenemende mate onder druk te staan. Daar maakt Rusland gebruik van door het narratief te versterken dat de economische onzekerheden in Europa het gevolg zijn van anti-Russische besluiten van Westerse beleidsmakers. Met desinformatiecampagnes probeert Rusland niet alleen de politieke eenheid in het Westen te ondermijnen, maar ook het maatschappelijk debat verder te polariseren en het draagvlak voor de sancties tegen Rusland aan te tasten.
+
+2. Hybride dreigingen
+
+### 3. Klimaatverandering
+
+door de gevolgen van klimaatverandering het eiland gedeeltelijk onder water zal zijn verdwenen in 2050.39
+
+De potentiële impact van klimaatverandering op onze nationale veiligheid wordt steeds zichtbaarder. De gevolgen zijn steeds groter en moeilijker te beheersen. Klimaat-en natuurrampen hebben een brede impact; met uitzondering van het veiligheidsbelang ‘internationale rechtsorde’ raakt klimaatverandering alle veiligheids­-belangen.34
+
+In het huidige tijdperk van internationale en geopolitieke dreigingen maken statelijke maar ook niet-statelijke actoren steeds vaker gebruik van hybride methodes en technieken.29 Hybride dreigingen zijn dreigingen tegen de nationale veiligheid, die zich grotendeels manifesteren onder het niveau van een openlijk gewapend conflict. Daarbij is sprake van een meervoudig gebruik van middelen door statelijke en/ of niet-statelijke actoren, met als doel bepaalde strategische doelstellingen te bereiken. Voorbeelden hiervan zijn militaire intimidatie, spionage en sabotage, cyberaanvallen, desinformatie­campagnes, ongewenste buitenlandse inmenging in diasporagemeenschappen, kennisdiefstal of de inzet van economische instrumenten. Deze middelen worden al dan niet in samenhang ingezet.30 Ten aanzien van spionage geldt dat het Koninkrijk een aantrekkelijk doelwit is vanwege onder meer bepaalde specialistische kennis en technologie, hoge dichtheid van internetknooppunten, de gastlandfunctie van Nederland voor internationale organisaties (zoals de OPCW en het ICC) en de geografische ligging van het Caribisch deel van het Koninkrijk (nabijheid Venezuela en de VS).31
+
+Ook andere dreigingen kunnen door klimaatverandering versterkt worden. De verwachting is bijvoorbeeld dat in Nederland door hogere temperaturen andere infectieziekten kunnen gaan voorkomen. Infectieziekten zoals de COVID-19 pandemie kunnen resulteren in een aantasting van de fysieke veiligheid. Ook blijken vraagstukken rond klimaat­verandering gevoelig voor snel polariserende standpunten, het ontstaan van anti-overheidssentiment – onder meer over maatregelen die wel of niet worden getroffen – en de ongelijke impact op kwetsbare groepen in de samenleving. Dat kan vervolgens de sociale en politieke stabiliteit aantasten.40
+
+Zo vormt klimaatverandering een belangrijke katalysator voor verschillende dreigingen tegen de nationale veiligheid. Door klimaatverandering komt extreem weer steeds vaker voor, wat zorgt voor een grotere kans op droogte, natuurbranden, overstromingen en krachtigere orkanen.
+
+Klimaatverandering kan ook leiden tot spanningen op het geopolitieke toneel, bijvoorbeeld bij internationale onderhandelingen over consensus en acties om klimaat­ verandering te voorkomen of om de gevolgen van klimaat­ verandering aan te pakken. Verder zorgt klimaat­verandering voor ‘nieuwe’ terreinen van geopolitieke machtsstrijd.41 Denk daarbij aan smeltend poolijs waarbij toegang tot en zeggenschap over nieuwe polaire vaarroutes en grondstoffen tot conflicten kunnen leiden. Klimaatverandering kan wereldwijd resulteren in water-, energie-en voedseltekorten, met instabiliteit, toenemende competitie tussen bevolkings­ groepen en migratie tot mogelijk gevolg. Extreme weers­ omstandigheden kunnen ook leiden tot disruptie van internationale productie-en handelsketens, en vervolgens tot (tijdelijke) tekorten en prijsfluctuaties. De zeespiegel­ stijging maakt dat havens niet meer toegankelijk zijn en dat raakt de wereldhandel, met gevolgen voor onze nationale veiligheid doordat het borgen van publieke belangen in gevaar komt.
+
+Vervolgens kunnen deze verschijnselen leiden tot een verstoring van de vitale infrastructuur, zoals drinkwater-, elektriciteits-en telecomvoorzieningen. Klimaat-en natuurrampen kunnen verwoesting van grote gebieden betekenen, wat kan leiden tot fysieke slachtoffers en in extreme gevallen zelfs leiden tot een zorginfarct.35
+
+Specifiek voor Nederland vormt de kans op droogte en daarmee natuurbranden een probleem (naast de langer bekende uitdagingen zoals overstromingen): het is niet de vraag of maar wanneer er een onbeheersbare natuurbrand optreedt.36 De consequenties van deze branden kunnen al snel grote vormen aannemen in het dichtbevolkte Nederland.
+
+Hybride dreigingen zijn niet alleen direct te liëren aan statelijke actoren. Ook criminele groeperingen of zelfs private partijen kunnen (als zogenoemde proxy’s van statelijke actoren) een hybride dreiging vormen.32 Zij zijn dan onderdeel van een hybride campagne door een statelijke actor. Deze gecombineerde (hybride) inzet van middelen en actoren kan een dreiging vormen voor onze nationale veiligheid. Zo kan onze economische veiligheid worden geschaad, of onze sociale en politieke stabiliteit worden aangetast. Denk bijvoorbeeld aan bepaalde vormen van statelijke inmenging, waarbij gemeenschappen in Nederland doelwit zijn van verschillende vormen van beinvloeding door herkomst­ landen, met de inzet van uiteenlopende (online en fysieke) instrumenten, door verschillende (statelijke en niet-statelijke) actoren.33 Dit bevestigt het belang van internationale samenwerking om hybride dreigingen te voorkomen en bestrijden.
+
+Voor het Caribisch deel van het Koninkrijk vormen orkanen de belangrijkste dreiging.37 Daarbij kunnen de gevolgen nog groter zijn voor de reeds kwetsbare eilanden, wanneer de cruciale infrastructuur en processen worden geraakt. Denk daarbij aan telecommunicatie en elektriciteits-, drinkwater-en gasvoorzieningen. Op de langere termijn vormt de stijging van de zeespiegel een belangrijke dreiging: miljoenen mensen in steden in en rond het Koninkrijk worden steeds kwetsbaarder voor zeespiegelstijging. Tegen 2050 leeft twee­ derde van de wereldbevolking naar verwachting in steden, waarvan 800 miljoen mensen in steden die kwetsbaar zijn voor zeespiegelstijging.38 Specifiek voor Bonaire geldt dat
+
+Om klimaatverandering adequaat te kunnen adresseren, is een (wereldwijde) transitie naar hernieuwbare en schone energie nodig. Deze overgang legt tegelijkertijd enkele kwets­baarheden bloot. Zo is voor onze energievoorziening het Koninkrijk sterk afhankelijk van andere landen: de oorlog in Oekraïne maakt zichtbaar dat Rusland de Europese afhankelijkheid van Russische olie en gas inzet om druk uit te
+
+Maatschappelijk ongenoegen en COVID-19 pandemie52 hiernaar gaan handelen, bijvoorbeeld omdat hun wantrouwen structureel is of omdat zij niet meer geloven dat de politiek bij machte is om problemen op te lossen.48 De wijze waarop (overheids-)instituties communiceren heeft directe invloed op het toenemen of wegnemen van wantrouwen.49
+
+oefenen op de EU-lidstaten om de Europese cohesie te onder- ­mijnen.42 Om de energietransitie te realiseren én tegelijkertijd de afhankelijkheid van Russische olie en gas te verminderen, zijn meer kritieke grondstoffen nodig dan voor onze huidige economie beschikbaar zijn.43 De energietransitie leidt tot een vraagverschuiving van fossiele grondstoffen, zoals kolen, olie en gas, naar grondstoffen zoals lithium, nikkel en koper. Hier ontstaan nieuwe kwetsbaarheden omdat dergelijke metalen en mineralen nauwelijks in Europa worden gewonnen en verwerkt.44
+
+Een pandemie kan een grote impact op de nationale veiligheid hebben. De uitbraak van de COVID-19 illustreert dat een pandemie niet alleen gevolgen heeft voor de fysieke veiligheid, maar ook een brede impact heeft op de sociale en politieke stabiliteit in het Koninkrijk.
+
+Maatschappelijke spanningen zijn niet per definitie een bedreiging voor de nationale veiligheid. Binnen de protesten die een bijdrage leveren aan de democratische rechtsorde, beweegt zich echter een radicale onderstroom. Een voorbeeld hiervan zijn extremisten die zich vanuit een fundamenteel wantrouwen, woede en onrechtvaardigheids­ gevoel tegen de overheid en andere instituties richten. De bestormingen van parlementen in het buitenland door mensen die de uitkomst van het democratisch proces niet willen accepteren laten zien waartoe dit kan leiden. Ze verzetten zich tegen de manier waarop de politiek, het rechtssysteem, de media en de wetenschap worden ingevuld. Een deel van hen omarmt complottheorieën of deelt zelfs structureel desinformatie.50 Het gebruik van sociale media speelt hierbij een belangrijke rol. Complottheorieën doen afbreuk aan het publieke vertrouwen in de democratische rechtsorde. Dergelijke afbreuk is niet direct merkbaar maar manifesteert zich sluipenderwijs. Daarbij komt dat burgers meningen vormen en keuzes maken op basis van de informatie die wordt verspreid binnen het publieke debat. De verspreiding van desinformatie, uit zowel binnen-als buitenland, kan dit publieke debat verstoren en een ontwrichtend effect hebben op de samenleving en de levens van individuele mensen daarin.51
+
+### 4. Maatschappelijke spanningen, dalend vertrouwen, desinformatie en een radicale onderstroom
+
+Het ontstaan van maatschappelijke spanningen kan allerlei oorzaken hebben. Denk aan grote vluchtelingenstromen, internationale conflicten en instabiliteit die impact hebben op diasporagemeenschappen, toenemende ongelijkheid of fundamenteel verschillende zienswijzes over de aanpak van klimaatverandering en de energietransitie (zie ook door­ snijdend thema 3).45 Deze spanningen uiten zich in veruit de meeste gevallen op een wijze die past binnen een vrije en open samenleving, zoals demonstraties. Debat en protest horen bij het samenleven in een democratie. Maar het kan ook ongewenste vormen aannemen en gepaard gaan met buitensluiting, bedreigingen, ernstige verstoringen van de openbare orde en zelfs fysiek geweld in de vorm van mishandelingen of vernielingen.46 Deze processen kunnen onder andere de fysieke veiligheid en sociale en politieke stabiliteit schaden.
+
+Voldoende legitimiteit en draagvlak zijn nodig voor het goed functioneren van onze democratische rechtsorde. Veel burgers zijn kritisch op de politiek, bijvoorbeeld omdat zij van mening zijn dat de politiek onvoldoende met oplossingen komt voor de maatschappelijke problemen.47 Kritiek, debat en protest horen bij het samenleven in een democratie. Problematisch wordt het als mensen definitief afhaken en
+
+Zo resulteerde de COVID-19 pandemie, met de verstoring van het dagelijks leven en de daaropvolgende maatregelen, in manifestaties van maatschappelijk ongenoegen binnen het gehele Koninkrijk. De pandemie en het overheidsbeleid daartegen hebben een mobiliserend effect gehad op de mensen die de overheid in min of meerdere mate wantrouwen en hun actiebereidheid is toegenomen. Vaak vonden deze manifestaties op vreedzame en legitieme manier plaats, maar soms werd dit maatschappelijk ongenoegen op een aanhoudend intimiderende manier geuit, zowel in het digitale als in het fysieke domein.
+
+Zo werd in Nederland opgeroepen tot brandstichting bij een GGD-teststraat en zijn ook zendmasten in brand gestoken. Ook waren er incidenten waarbij personen bedreigingen uitten richting politici, journalisten, wetenschappers, politie, BOA’s, zorgmedewerkers en openbaar vervoers­ medewerkers. Meerdere OMT-leden ontvingen bedreigingen: deze beperkten zich niet alleen tot bedreigingen via sociale media, maar uitten zich ook in bezoeken aan huizen van verschillende OMT-leden en het achterlaten van brieven met daarin intimiderende persoonlijke teksten. Dit kan op termijn bijdragen aan de ondermijning van het vertrouwen en de legitimiteit van overheidsinstituties, politici, journalisten of wetenschappers, en in de ondermijning van de democratische rechtsorde, wanneer zulke personen niet meer vrijelijk hun beroep kunnen uitoefenen.
+
+5. Druk op de democratische rechtsorde
+
+### 6. Toegenomen risicovolle (strategische) afhankelijkheden en gevolgen voor vitale infrastructuur en economie
+
+democratische rechtsorde, met aanzienlijke maatschappelijke impact als gevolg. De georganiseerde, ondermijnende criminaliteit verhardt en is vaak digitaal en mondiaal vertakt. Enerzijds opereren internationale criminele netwerken met een Nederlandse inbreng in binnen-en buitenland, anderzijds vervult Nederland een faciliterende rol in de mondiale (illegale) handel. De dreiging voor onze democratische rechtsorde is ernstig: doden door liquidaties, intimidatie en pogingen tot infiltratie van het openbaar bestuur, geweld richting media en het ontstaan van parallelle samenlevingen buiten de controlesfeer van de overheid. Zelfs jongeren worden het criminele milieu in getrokken en ingezet voor hand-en spandiensten, soms al op vroege leeftijd, en raken op die manier verstrikt in de criminele onderwereld.55
+
+We zien verschillende fenomenen die een bedreiging kunnen vormen voor onze democratische rechtsorde en sociale cohesie. Zo kunnen spanningen in de samenleving, maatschappelijke polarisatie en de verspreiding en normalisering van complottheorieën ook samengaan met uitingen van extremisme (zie ook doorsnijdend thema 4) of terrorisme. Op dit moment is het jihadisme de voornaamste bron van terroristische dreiging in het Koninkrijk.53 Daarnaast is de dreiging voortkomend uit rechts-terroristisch gedachtegoed, met name het accelerationisme, van belang. Ook is het extremistische veld als geheel in beweging. Het extremistisch veld bestaat uit een mengelmoes van radicale denkbeelden variërend van antisemitisch tot anarchistisch, en van racisme tot een diepgewortelde afkeer van de overheid en andere instituties, of een combinatie van een aantal van deze elementen. Het is diffuus, veranderlijk en moeilijk voorspelbaar, en wordt beïnvloed door thema’s als energie, klimaat en asiel. Gebeurtenissen en ontwikkelingen buiten de landsgrenzen van het Koninkrijk kunnen gevolgen hebben voor de extremistische en terroristische dreiging in en richting het Koninkrijk. Oproepen van terroristische organisaties zoals ISIS en Al-Qaida om in het Westen aanslagen te plegen blijken succesvol. Rechtsextremisten bevinden zich vaak online in internationale groepen en laten zich inspireren door internationale voorbeelden. Digitalisering en toenemend gebruik van social media worden benut voor rekrutering en verspreiding van propaganda.54
+
+Door technologische ontwikkelingen, digitalisering en globalisering nemen de verbondenheid en complexiteit van systemen toe. Dit biedt het Koninkrijk, als stevige economische speler met een grote kennispositie, veel kansen. Zo is Nederland, als ‘poort van Europa’ een belangrijk logistiek knooppunt voor de wereldhandel en als doorvoer­ land voor militair personeel en materiaal van NAVO-bondgenoten.57 Tegelijkertijd zorgt die verbondenheid ook voor risico’s en kwetsbaarheden, onder andere door het ontstaan van risicovolle (strategische) afhankelijkheden in de vitale infrastructuur en economie. Economische beïnvloeding voor geo­politieke doeleinden neemt toe (zie ook doorsnijdend thema 1).58 Ook geeft de toegenomen afhankelijkheid van de Noordzee en de zeebodem voor vitale infrastructuur opponenten meer mogelijkheden om (delen van) onze samenleving te ontwrichten.
+
+Ongewenste buitenlandse inmenging door statelijke actoren vormt ook een bedreiging voor onze democratische rechtsorde (zie ook doorsnijdend thema 2). Dit kan leiden tot maatschappelijke ontwrichting en aantasting van de politieke en sociale stabiliteit binnen het Koninkrijk.56 Hierbij gaat het vaak om activiteiten die mogelijk worden aangestuurd door statelijke actoren richting in het Koninkrijk levende diaspora­ gemeenschappen, met als doel deze gemeen­schappen te binden aan de (inter)nationale politieke agenda van die landen. Burgers kunnen slachtoffer worden van sociale druk, intimidatie of bedreiging en daardoor belemmerd worden in de vrije uitoefening van hun grondrechten binnen het Koninkrijk. Burgers kunnen zich ook gedwongen voelen zich solidair te verklaren met de politieke agenda van een buitenlands regeringsapparaat of staatshoofd.
+
+Het Koninkrijk wordt door veranderende geopolitieke dynamiek steeds meer geconfronteerd met vraagstukken op het snijvlak van economie en veiligheid. De oorlog in Oekraïne illustreert hoe afhankelijkheden in de energiesector of in relatie tot voedselzekerheid rechtstreeks in onze economie doorwerken.59 In toenemende mate zetten grote statelijke actoren in op het creëren van eenzijdige risicovolle strategische afhankelijkheden op economisch en technologisch gebied. Zij zetten deze afhankelijkheden in als drukmiddel om hun geopolitieke positie te versterken. Daarnaast vergroot deze afhankelijkheid de mogelijkheden voor ongewenste kennisoverdracht, waaronder diefstal van kennis, zowel bij bedrijven als bij onze kennis-en onderwijs­ instellingen. Actoren uit deze landen proberen kennis te verkrijgen via zeggenschapconstructies (fusies, investeringen en overnames), via het winnen van aanbestedingen, via digitale aanvallen of via infiltratie van instellingen.
+
+Personen die in hun werk in dienst staan van de (democratische) rechtsorde (zoals zittende en staande magistratuur, advocaten, journalisten, politici en lokale bestuurders) moeten hun functie veilig en zonder vrees uit kunnen oefenen. Bescherming van deze personen, als hoeders van de rechtsstaat, is daarom een voorwaarde voor het functioneren van de democratische rechtsstaat.
+
+Een ander fenomeen dat een bedreiging kan vormen voor onze democratische rechtsorde en sociale cohesie is georganiseerde, ondermijnende criminaliteit. De open economie, goede (financiële) infrastructuur en geografische ligging brengen ons Koninkrijk welvaart, maar maken ons tegelijkertijd aantrekkelijk voor georganiseerde, ondermijnende criminaliteit. Deze worden misbruikt voor illegale activiteiten, met nadelige gevolgen voor onze
+
+Risicovolle strategische afhankelijkheden zijn ook specifiek voor het Caribische deel van het Koninkrijk een belangrijk thema. Wanneer een cyberaanval de toevoer van goederen, voedsel en energie ontregelt, heeft dit grote gevolgen en zijn er zeer beperkt alternatieven om de cruciale toevoer van goederen en voedsel te hervatten.
+
+Klimaat- en natuurrampen en de voor het Caribisch deel van het Koninkrijk cruciale infrastructuur64
+
+### 7. Technologische ontwikkelingen en digitalisering van systemen
+
+Technologische ontwikkelingen zorgen er, naast de vele voordelen die het onze samenleving biedt, ook voor dat nieuwe dreigingen ontstaan en dat dreigingen complexer en meer verweven raken. Digitalisering vergroot de onderlinge verbondenheid van systemen en daarmee de kwetsbaarheid van (vitale) processen voor onder andere cyber­dreiging (zie ook doorsnijdend thema 6). Potentiële tegenstanders investeren stevig in de versterking van hun krijgsmachten. De proliferatie van hoogwaardige technologie en wapens, zowel conventioneel als niet-conventioneel, neemt toe. Dit zet druk op bestaande multilaterale wapen­export­ controle-en non-proliferatieregelingen. Tegelijkertijd maakt het geopolitieke klimaat het lastig om tot nieuwe afspraken te komen over nieuwe technologie binnen deze ontwape­ nings­instrumenten. Ook zorgen technologische ontwikkelingen voor een toenemende ‘nabijheid’ van (militaire) dreiging, bijvoorbeeld door nieuwe wapen­ technologie (hypersonische raketten en autonome wapensystemen).
+
+De impact van klimaat-en natuurrampen op onze nationale veiligheid kunnen verstrekkend zijn. Zeker wanneer belangrijke processen zoals voedsel-en energievoorzieningen worden geschaad of zelfs geheel uitvallen. Voor het Caribisch deel van het Koninkrijk kan uitval van zulke cruciale processen extra groot zijn, gezien de geografische ligging. De eilanden zijn voor bevoorrading van voedsel en goederen aangewezen op transport via zee en lucht. Als havens of luchthavens niet toegankelijk of bruikbaar zijn, heeft dat grote gevolgen omdat alternatieve infrastructuren om op terug te vallen vaak ontbreken. Op Saba is er bijvoorbeeld slechts één elektriciteitscentrale, één haven, één tankstation en komen de telecomkabels aan één zijde van het eiland aan land.
+
+Het Koninkrijk wordt steeds kwetsbaarder voor klimaat-en natuurrampen als extreem weer, zoals hitte/droogte en orkanen. Orkaan Irma illustreert dat een natuurramp een grote impact kan hebben op het Caribisch deel van het Koninkrijk, zeker als meerdere infrastructuren tegelijk geraakt worden. Zo werd Sint Maarten in september 2017 getroffen door deze zware orkaan, met grote schade aan gebouwen en infrastructuur tot gevolg. Door de verwoesting van het vliegveld en de maritieme haven vielen de aan-en afvoerroutes van personen, voedsel en materiaal weg, zowel voor Sint Maarten als voor omliggende eilanden die hiervan afhankelijk zijn, waaronder Saba en Sint Eustatius. Door de moeizame aanvoer van hulpgoederen waren de voorraden van water en medicijnen al na een week grotendeels uitgeput. Ook was er na de orkaan vrijwel geen communicatie mogelijk binnen de regio, door de ontstane schade aan telecommasten en het uitvallen van centrales op Sint Maarten. Portofoons, radio’s, internet, mobieltjes, vaste telefoonlijnen en satelliettelefoons werkten niet of nauwelijks. Dat bemoeilijkte de hulpvraag naar andere (ei)landen.
+
+De digitalisering van de samenleving zorgt voor veel onder­ linge afhankelijkheden die niet gemakkelijk in kaart te brengen zijn. Door toenemende verwevenheid van digitale en fysieke processen kunnen de gevolgen van een verstoring van het functioneren van het internet potentieel maatschappelijk ontwrichtend zijn. Een verstoring raakt aan onze veiligheids­ belangen, zoals territoriale veiligheid. Bij territoriale veilig­ heid gaat het namelijk niet alleen om de integriteit van ons grondgebied, maar ook om de integriteit van het digitale domein en de beschikbaarheid, vertrouwelijkheid en integriteit van essentiële informatiediensten en daarvan afhankelijke infrastructuur en processen.61
+
+Voor Bonaire, Aruba en Curaçao is de kans op een tropische storm of zware orkaan, zoals Orkaan Irma, kleiner. Toch heeft ook daar klimaatverandering een impact op de nationale veiligheidsbelangen, zoals het gevaar van overstromingen. In de Caribische Zee komt het waterpeil steeds hoger te staan. Tegen 2050 dreigen zelfs de lagergelegen delen van Bonaire permanent onder water te staan door zeespiegelstijging. Daarbij is ook de voor hen cruciale infrastructuur kwetsbaar, want die bevindt zich op Bonaire vooral in het zuiden en aan de kust.
+
+De digitale dreiging is permanent en neemt eerder toe dan af, met alle mogelijke gevolgen van dien. Daar komt nog bij dat de digitale ruimte -het complexe samenspel van onderling verweven digitale processen; gebruikmakend van netwerken,
+
+### Cyberdreigingen tegen het Koninkrijk65
+
+ICT-systemen en OT (operationele technologie) -continu in beweging is en dat zorgt ook weer voor nieuwe, onverwachte afhankelijkheidsrelaties en effecten. Een dynamiek die niet zal verminderen.62 Door bijvoorbeeld de inzet van technologieën zoals artifical intelligence (AI) en quantum computing63 kunnen kwaadwillenden met grote rekenkracht geautomati­seerde aanvallen uitvoeren waarmee crypto­ grafische beveiliging gekraakt kan worden. Technologisch leiderschap en dominantie op sleutel­technologieën zullen de geopolitieke en militaire machtsverhoudingen van de toekomst bepalen (zie ook doorsnijdend thema 1).
+
+Digitale systemen raken steeds meer verweven in onze samenleving en een duidelijk onderscheid tussen het fysieke of digitale domein is inmiddels niet meer te maken. Cyberdreigingen kunnen dan ook uiteenlopende gevolgen hebben voor onze sociale en politieke stabiliteit, en onze fysieke en economische veiligheid. Zo kan de fysieke veiligheid in het geding zijn wanneer artsen door een cyberaanval op een ziekenhuis geen accurate zorg meer kunnen leveren aan patiënten. Verder zou een cyberaanval op bijvoorbeeld een bank directe financiële gevolgen kunnen hebben, en zou de sociale en politieke stabiliteit in het geding kunnen komen wanneer een cyberaanval op een elektriciteits­centrale leidt tot langdurige stroomuitval, met maatschappelijke onrust tot gevolg.
+
+In juni 2017 werd de wereld opgeschrikt door de snelle verspreiding van de malware NotPetya die bestanden leek te gijzelen. De bestanden bleken echter niet meer terug te krijgen, waardoor de malware een vernietigende uitwerking had. De aanval was gericht op gebruikers van een softwarepakket dat gebruikt werd in Oekraïne, maar had effecten tot ver buiten Oekraïne. In Nederland werd de vestiging van Maersk in de Rotterdamse haven geraakt, wat leidde tot 200 tot 300 miljoen dollar financiële schade.
+
+Tegelijkertijd bieden technologische ontwikkelingen ook kansen voor de bevordering van de nationale veiligheid. Technologieën kunnen bijdragen aan het versterken van capaciteiten om onze samenleving weerbaarder te maken tegen dreigingen.64 En daarmee ook het versterken van de weerbaarheid tegen maatschappelijke ontwrichting. Digitalisering, data science en AI bieden bijvoorbeeld de mogelijkheid om dreigingen sneller te identificeren, de afhankelijkheid van menselijke waarneming te verminderen, grote hoeveelheden data te analyseren en de communicatie tussen betrokkenen te verbeteren. Dit draagt bij aan een verbeterde inlichtingenpositie, de ondersteuning van besluitvorming en het verhogen van de efficiëntie van operaties. Quantum technologie maakt encryptie sterker waardoor de gegevens en communicatie beter beveiligd zijn. Nieuwe technologieën bieden ook mogelijkheden voor de ontwikkeling van arbeidsextensieve systemen en capaciteiten. Robotica bijvoorbeeld kan worden ingezet voor het automatiseren van repetitieve taken of in situaties waar het voor mensen gevaarlijk opereren is. Denk aan het ontmantelen van explosieven of het inspecteren van gebouwen na een aanslag. Arbeidsextensieve oplossingen bieden ook kansen voor het adresseren van de toenemende krapte op de arbeidsmarkt.
+
+Nederland werd in december 2021 geconfronteerd met een kwetsbaarheid in Log4J. Dat is een veelvuldig gebruikte softwaremodule in ICT-systemen en is breed in gebruik bij grote en kleine organisaties in binnen-en buitenland. Elk systeem dat gebruik maakte van Log4j bleek kwetsbaar te zijn: een kwaadwillende kon op afstand een willekeurige code uitvoeren. Omdat Log4j wereldwijd in zeer veel systemen wordt gebruikt, ontstond er veel onrust rondom deze kwetsbaarheid. Uiteindelijk werd er in Nederland misbruik van deze kwetsbaarheid geconstateerd door zowel statelijke actoren als cybercriminelen.
+
+Ook het Caribisch deel van het Koninkrijk kent voorbeelden van cyberaanvallen waarbij de gevolgen maatschappij-ontwrichtend kunnen zijn. Een voorbeeld hiervan is de grote ransomware aanval in 2022 op het (enige) water-en elektriciteitsbedrijf van Sint Maarten. Door de aanval verloor het bedrijf de toegang tot de financiële data, terwijl er geen recente back-up beschikbaar was. Dit vormde een bedreiging voor de bedrijfsvoering en de continuïteit van twee vitale processen: water en elektriciteit. Een andere casus is de ransomware-aanval in 2019 op een ziekenhuis op Aruba. De aanval verstoorde de bedrijfsvoering en de operationele uitvoering van werkzaamheden van het zieken­ huis, met een impact op de dienstverlening en de patiënten.
+
+## Deel 2 Strategische koers
+
+Het eerste deel van de strategie laat zien dat door de verwevenheid en opeenstapeling van dreigingen, de impact potentieel groter wordt. De regie voor versterking van de nationale veiligheid ligt bij de overheid. Maar voor een
+
+veilig en weerbare samenleving is de inzet van iedereen nodig: niet alleen van de overheid in al haar geledingen,
+
+maar ook van burgers, bedrijven en maatschappelijke organisaties. Dit maakt dat we ons allemaal moeten
+
+voorbereiden op mogelijke maatschappelijke ontwrichting. Zodat indien er toch een crisis plaatsvindt – in welke
+
+vorm dan ook – zowel de overheid als burger adequaat kan handelen om de gevolgen van de crisis te beperken.
+
+De strategische koers voor de nationale veiligheid kent de volgende drie hoofddoelstellingen:
+
+1. Een veilig Koninkrijk in een multipolaire wereld
+
+2. Een weerbare democratische rechtsorde
+
+### 3. Een parate en veerkrachtige samenleving
+
+Het eerste deel van de strategie laat zien dat door de verwevenheid en opeenstapeling van dreigingen, de impact potentieel groter wordt. De regie voor versterking van de nationale veiligheid ligt bij de overheid. Maar voor een
+
+veilig en weerbare samenleving is de inzet van iedereen nodig: niet alleen van de overheid in al haar geledingen,
+
+maar ook van burgers, bedrijven en maatschappelijke organisaties. Dit maakt dat we ons allemaal moeten
+
+voorbereiden op mogelijke maatschappelijke ontwrichting. Zodat indien er toch een crisis plaatsvindt – in welke
+
+vorm dan ook – zowel de overheid als burger adequaat kan handelen om de gevolgen van de crisis te beperken.
+
+Een integrale aanpak tegen deze dreigingen is belangrijker dan ooit. Gericht op zowel de korte termijn alsook op de langere termijn. In dit tweede deel beschrijven we de koers hoe we de nationale veiligheid nu en in de toekomst beschermen. Deze koers is gebaseerd op de dreigingen zoals geschetst in deel 1.
+
+De strategische koers voor de nationale veiligheid kent de volgende drie hoofddoelstellingen:
+
+1. Een veilig Koninkrijk in een multipolaire wereld 2. Een weerbare democratische rechtsorde 3. Een parate en veerkrachtige samenleving
+
+Bij elke hoofddoelstelling schetsen we kort de samenhang tussen dreigingen tegen onze nationale veiligheids­belangen om vervolgens met actielijnen uiteen te zetten hoe we onze weerbaarheid tegen die dreigingen gaan vergroten. Per actielijn formuleren we prioriteiten voor de inzet de komende zes jaar.
+
+## 1. Een veilig Koninkrijk in een multipolaire wereld
+
+Als Koninkrijk zijn we gebaat bij een voorspelbare, welvarende en veilige internationale omgeving. Het goed functioneren van het internationale stelsel van regels, normen en afspraken, gericht op het bevorderen van de internationale vrede en veiligheid, is daarom van groot belang, evenals het goed functioneren van de staten in de directe omgeving van het Koninkrijk en de EU. We streven naar een wereld waarin landen samenwerken op basis van heldere regels en universele mensenrechten, en landen elkaar erop kunnen aanspreken als deze regels worden overtreden of niet worden nageleefd.
+
+militair-industrieel voortzettingsvermogen, en de verbetering van de positie van onze defensie-industrie.73 Dat schrikt af en helpt bij het voorkomen van een gewapend conflict. Als een conflict toch uitbreekt, moeten we samen met onze bondgenoten in staat zijn te vechten en dit voort te zetten als dat nodig is voor de bescherming van de gezamenlijke belangen.74 Een goede civiel-militaire samen­ werking, ook ten behoeve van host nation support75, is hierbij cruciaal. Nederland is namelijk een belangrijk doorvoer­land voor militair personeel en materieel van NAVO-bondgenoten. Zo blijven we een weerbaar Koninkrijk, ook over de grenzen heen.
+
+### Actielijn 1: Investeren in internationale partner­ schappen en versterking van de krijgsmacht
+
+In een sterk gepolariseerde wereld waarin grootmachten strijden om macht en invloed en een direct conflict met Rusland voorstelbaarder is geworden,69 moeten het Koninkrijk en EU beter in staat zijn om het eigen grondgebied te verdedigen en onze gezamenlijke veiligheidsbelangen te verdedigen en te versterken.70 De kracht van Europese samenwerking zit in de gezamenlijke aanpak van en kennisdeling over grote, internationale uitdagingen. We moeten samen sterker worden om onze vrijheid, veiligheid en welvaart te kunnen beschermen. De Russische invasie in Oekraïne heeft ertoe geleid dat Europa investeert in zijn eigen veiligheid. Europese landen verhogen hun defensiebudgetten structureel en passen bestaande instrumenten zoals sancties en Europese vredesfaciliteit effectiever toe.71 Het militaire vermogen van zowel de NAVO als EU wordt versterkt door investeringen in noodzakelijke militaire capaciteiten en intensievere (Europese) defensie­ samenwerking. Meer gezamenlijk oefenen verhoogt de gereedheid en inzetbaarheid en draagt bij aan een geloofwaardige afschrikking.
+
+De veranderende machtsbalans in de wereld en de groeiende druk op democratische samenlevingen en de op regels gebaseerde multilaterale wereldorde, maken dat we als Koninkrijk een stevige positie moeten innemen. Het Koninkrijk zal zijn prioriteiten, beleidsinstrumenten en samen­werkings­verbanden strategisch moeten aanpassen dan wel aanscherpen en de hervormingsplannen van de multilaterale organisaties steunen, op basis van de voor het Koninkrijk belangrijke uitgangspunten, en tegelijkertijd mee veranderen waar nodig. Gerichte diplomatieke, civiele66, militaire en ontwikkelingsinzet is nodig om de doelstellingen van ons buitenland-en veiligheidsbeleid naderbij te brengen. Dit beleid dient tevens het belang van de internationale rechtsorde en de bevorderingen van de rechtsstaat en gaat straffeloosheid wereldwijd tegen.
+
+Het Koninkrijk is grondwettelijk verplicht zich sterk te maken voor de bevordering van de ontwikkeling van de internationale rechtsorde.67 Het is dan ook zaak om invloed op het multilaterale systeem uit te blijven oefenen, samen met gelijkgezinde landen.68 Ook om onze economie en wetenschap te beschermen of hybride dreigingen tegen te gaan, kunnen bestaande of nieuwe coalities op het gebied van economische-en cyberveiligheid en technologische ontwikkelingen (incl. standaardisatie en bestrijding van desinformatie) bijdragen aan gezamenlijke acties en daarmee een grotere weerbaarheid. Dit vraagt om de volgende actielijnen:
+
+Naast de noodzakelijke versterkingen ter verdediging van het koninkrijks-en bondgenootschappelijk grondgebied zal het Koninkrijk in staat moeten blijven om zijn fair share bij te dragen aan militaire missies en operaties ter bevordering van de internationale rechtsorde. Daarbij zal in toenemende mate de strategische competitie tussen de grootmachten een factor van invloed zijn, waar rekening mee moet worden gehouden. Daarnaast is bredere inzet nodig buiten het krimpende platform van gelijkgezinde Westerse landen. We gaan derhalve ook intensiever samenwerken met onze minder traditionele partners. Deze investering in nieuwe partnerschappen zal gepaard moeten gaan met de bereidheid – soms ongemakkelijke – compromissen te sluiten om effectief te kunnen opereren ter bevordering van nationale en collectieve belangen, zonder daarbij concessies te doen aan onze normen en waarden.
+
+### Prioriteiten 2023-2029:
+
+Het Koninkrijk zal in de relaties met derde landen door toenemende geopolitieke concurrentie scherpere afwegingen moeten maken op basis van de strategische belangen, waaronder de veiligheidsbelangen. We willen meer anticiperen op toekomstige dreigingen en blijven inzetten op het gericht verbeteren van de gevechtskracht, de gereedheid, de inzetbaarheid zowel binnen als buiten het eigen grondgebied en de wendbaarheid van de krijgsmacht.72 Ook investeren we in Europese zelfredzaamheid, het
+
+A. De NAVO is de hoeksteen van onze collectieve
+
+verdediging. Nederland investeert dan ook structureel in het NAVO-bondgenootschap en de samenwerking met NAVO-bondgenoten.76 Het NAVO Defensie­ plannings­proces (NDPP) is het belangrijkste instrument om de benodigde capaciteiten te identificeren en de ontwikkeling en uitvoering ervan onder bondgenoten te verdelen.
+
+H. Versterken van de samenwerking met strategische
+
+B. Werken in EU-verband aan de versterking van het
+
+partners zoals de VN, en de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE), Afrikaanse Unie (AU), Associatie van Zuidoost-Aziatische landen (ASEAN) en het aangaan van nieuwe, op maat gesneden (bilaterale) partnerschappen, bijvoorbeeld in Latijns- Amerika en de Cariben, zoals Cariben Community (CARICOM), Organization of American States (OAS) en Association of Caribbean States (ACS). I. Bestendiging van de extra investeringen in ontwikkelings-
+
+gemeen­schappelijk veiligheids-en defensiebeleid, zoals uiteengezet in het EU Strategisch Kompas77, ook ter versterking van het NAVO-bondgenootschap. C. Bevorderen van de steun en samenwerking met
+
+uitvoeringsorganisaties van mondiale multilaterale verdragen, waaronder onafhankelijke verificatie­ mechanismen, zoals het Internationaal Atoom en Energie Agentschap (IAEA) en de Organisatie op het Verbod van Chemische Wapens (OPCW).78
+
+### Actielijn 2: bestrijden van hybride conflictvoering
+
+De veiligheid van het Koninkrijk is nauw verweven met de internationale omgeving. Als gevolg van verschuivende geopolitieke machtsverhoudingen, toegenomen geo-politieke rivaliteit en technologische ontwikkelingen, hebben ons Koninkrijk en zijn internationale partners in toenemende mate te maken met hybride dreigingen.
+
+samenwerking met speciale aandacht voor thema’s waar Nederland goed in is. Dit draagt bij aan het aanpakken van de grondoorzaken van armoede, terrorisme, irreguliere migratie en klimaatverandering en mede daarmee aan het behalen van de duurzame ontwikkelings­doelen van de VN (de SDG’s).82 Hierbij gaat bijzondere aandacht uit naar menselijke veiligheid83 in het algemeen en de betekenisvolle deelname van vrouwen en meisjes in besluitvormingsprocessen ten behoeve van vrede en veiligheid in het bijzonder.84
+
+D. Inzetten op vooruitgang op de controle van sensitieve
+
+technologieën in internationale exportcontroleregimes, mogelijkheden onderzoeken om te komen tot wederzijdse erkenning van wapenexportvergunningen en inzet op verdere convergentie van het wapen­export-beleid. E. Inzetten op effectieve militaire samenwerking op zowel
+
+politiek-strategisch als operationeel en materieel niveau met expliciete aandacht voor interoperabiliteit, uitvoerbaarheid en betaalbaarheid, waarbij we op specifieke thema’s een voortrekkersrol vervullen, waaronder militaire mobiliteit79 en specialisatie
+
+80. We zetten de integratie van de Duits-Nederlandse landmacht voort. F. Bestendigen van de verbetering van de gereedheid,
+
+inzetbaarheid, wendbaarheid en de gevechtskracht van de krijgsmacht81, o.a. door investeringen in de inlichtingencapaciteit, capaciteiten in het cyberdomein, special operations forces en de geïntegreerde lucht-en raketverdediging, waaronder versterking van de fregatten, onderzeeboten, jachtvliegtuigen en grondgebonden luchtverdedigingssystemen. G. Intensiveren van de civiel-militaire samenwerking om
+
+met een verdere bundeling van de wederzijdse kennis en kunde (toekomstige) dreigingen beter het hoofd te kunnen bieden. Deze samenwerking vindt plaats in de context van een geïntegreerde benadering, waarbij bij de inzet van alle beschikbare instrumenten (waaronder de krijgsmacht, diplomatie en ontwikkelingssamenwerking) hand in hand gaan.
+
+Omdat hybride dreigingen vaak sluimerend van aard zijn en een mix van verschillende activiteiten of instrumenten vormen, is het nodig dergelijke dreigingen ook op een geïntegreerde manier te bestrijden, uiteenlopend van economie en handel, tot veiligheid en onderwijs. Een effectieve en integrale aanpak van hybride dreigingen vraagt om overheidsbrede en maatschappijbrede samenwerking. Dit kunnen we niet alleen als Koninkrijk maar moeten we samen doen met internationale partners, zowel bilateraal als in bondgenootschappen.
+
+### Prioriteiten 2023-2029:
+
+A. Versterken van de overheidsbrede en maatschappij­
+
+brede aanpak van hybride dreigingen, inclusief een verbeterde weerbaarheid en een proportionele respons in inter­nationaal verband. Dit Rijksbrede Responskader tegen Statelijke Dreigingen zal nauw aansluiten bij initiatieven in EU-en NAVO verband, bijvoorbeeld de EU hybride toolbox, de EU Cyber Diplomacy Toolbox of de toolbox gericht op Foreign Information Manipulation and Inter­ference (FIMI).85 Dit vergt nauwe samenwerking tussen betrokken partijen, inclusief informatie-uitwisseling, en een sterke inlichtingen­ positie van de inlichtingen-en veiligheidsdiensten van het Koninkrijk. Specifiek voor de AIVD en MIVD, met als
+
+mitigeren, maar ook in te zetten op het vergroten van de weerbaarheid door het versterken van sectoren. Ook in Europees verband. Het gaat om een balans waarbij dreigingen tegen nationale veiligheid worden gereduceerd tot een beheersbaar niveau, met zoveel mogelijk behoud van het open karakter van onze economie. We zetten in op meer diversificatie, samenhang en integraliteit tussen de maatregelen op economische veilig­heid, en het versterken van de sturing van (inter)nationaal beleid, ook ten behoeve van een stabiele wereldeconomie en een betrouwbaar internationaal handels­systeem. Een belangrijke pijler hierin is een op regels gebaseerde internationale rechtsorde die werkt voor het Koninkrijk.
+
+doel de operationele slagkracht te benutten om nieuwe en toenemende digitale dreigingen en aanvallen van met name statelijke actoren assertief te onderkennen en onderzoeken en te mitigeren, met waarborgen voor goed en effectief toezicht en digitale burgerrechten.86
+
+B. Vergroten van de weerbaarheid van de overheid,
+
+publieke en private partners, maatschappelijke organisaties en burgers, door onder andere het vergroten van bewustwording over hybride dreigingen.87 Zo versterken we bijvoorbeeld informatie-en kennisdeling tussen publieke en private partijen op het gebied van economische veiligheid. Hierbij kan gedacht worden aan het hightech bedrijfsleven en kennis­instellingen. Ook investeren we in bewust­ wording over ongewenste buitenlandse inmenging onder verschillende doelgroepen, zoals gemeen­ schappen, beleidsmedewerkers bij gemeenten, politie­ agenten en lokale politici. C. Versterken van onze internationale partnerschappen
+
+breder tegengaan van ongewenste kennis-en technologie­overdracht en spionage. D. Mitigeren van risico’s van strategische afhankelijk­
+
+heden van het Koninkrijk. In het bijzonder op het gebied van kritieke grondstoffen, (fossiele) energie, medische producten, kennis, technologie en voedselzekerheid. Europese coördinatie is daarin noodzakelijk.91 E. Inzet op technologisch leiderschap in cruciale sectoren
+
+(onder andere semicon, quantum en de ruimte). F. Versterking aanpak kennisveiligheid nationaal: voort­
+
+zetten dialoog voor en zelfregulering door kennis­ instellingen, doorontwikkeling landelijk loket en expertise­centrum kennisveiligheid, en ontwikkeling wettelijk toetsings­kader voor screening studenten en onder­zoekers op sensitieve technologieën. G. Versterking van aanpak kennisveiligheid internationaal:
+
+Ook voor onze wetenschap streven we naar die balans. Onbeschermde wetenschap vormt directe risico’s voor onze veiligheidsbelangen en strategische positie. Tegelijkertijd is wetenschap als bron van kennis, innovatie en invloed on­misbaar in het pakken van kansen voor die strategische belangen. Dit draagt bij aan het versterken van de Neder­ landse (kennis)economie, maar ook aan het oplossen van andere complexe uitdagingen en actielijnen binnen deze strategie.
+
+en coalities, waarin we informatie delen, hybride dreigingen adresseren en waarin we overgaan tot een gezamenlijke respons indien nodig. D. Nieuwe en effectieve opties voor diplomatieke respons
+
+op cyberdreigingen ontwikkelen.88
+
+Prioriteiten 2023-2029: verstevigen van de relaties met (Europese) bond­ genoten en het behoud van onze grote (internationale) kennispositie onder het motto ‘open waar het kan, beschermen waar het moet’. Een voortrekkersrol voor Nederland draagt bij aan een level playing field voor onze kennisinstellingen, en draagt bij aan het bestrijden van misbruik van kennis van bevriende landen door onbevriende statelijke actoren. Dit doen we door enerzijds het stimuleren van (internationale) wetenschappelijke samenwerking, en anderzijds het tegengaan van ongewenste kennisoverdracht en heimelijke beïnvloeding. Het Koninkrijk en de EU kunnen zo in de voorhoede van hoogtechnologische innovatieve open economieën blijven. Dit vergt zowel inzet in de EU als in bilaterale samenwerkingsrelaties die gericht zijn op weder­kerigheid. H. Verstevigen van de bijdrage die kennisinstellingen
+
+A. Investeren in het verder in kaart brengen en analyseren
+
+van de risico’s van strategische afhankelijkheden, een overkoepelend beeld van kritieke grondstoffen en techno­logieën, mogelijke beleidsinstrumenten en kosten die daarmee gepaard gaan. Dit vergt nationale en internationale inzet, samenwerking en kennis-deling.90 B. Versterking van de bewustwording van dreigingen die
+
+### Actielijn 3: Vergroten weerbaarheid economie en beschermen van wetenschap
+
+Onze economie is open waar het kan, en beschermd waar het moet.89 De afgelopen jaren is vooral ingezet op het beschermen van Nederland tegen dreigingen die zich reeds binnen het economisch domein voordoen. Het is van belang niet alleen dreigingen die nu geïdentificeerd worden te
+
+en wetenschappers inhoudelijk kunnen leveren aan noodzakelijke technologische en maatschappelijke innovaties op het gebied van nationale veiligheids­ belangen, o.a. aan actielijnen binnen deze strategie (‘Science for Policy’). I. Verstevigen van de inbedding van het Koninkrijk
+
+uitgaan van statelijke actoren voor de economische veiligheid en kennisveiligheid bij (mede-)overheden, bedrijfsleven en kennisinstellingen. C. Blijvend mitigeren van economische dreigingen
+
+middels zeggenschapsconstructies (fusies, overnames en investeringen, inkopen en aanbestedingen), en het
+
+in inter­nationale en Europese coalities, zodat
+
+## 2. Een weerbare democratische rechtsorde
+
+internationale samenwerking ten behoeve van hoogtechnologische innovatie mogelijk blijft. Nederland zal daarom ook nauw aangesloten blijven bij EU-initiatieven op dit terrein, zoals de Important Projects of Common European Interests (IPCEI’s). J. Vormgeven en versterken van het instrumentarium
+
+Het Koninkrijk kent een open en vrije democratische samenleving. Sociale en politieke stabiliteit is een belangrijk veiligheidsbelang, die ziet op het ongestoord voortbestaan van een maatschappelijk klimaat waarin individuen ongestoord kunnen functioneren en groepen mensen goed met elkaar kunnen samenleven. Onze open samenleving staat in het teken van vrijheden, mensen­rechten, democratische rechtsorde en een internationale oriëntatie. Dat is een groot goed dat we blijven beschermen.
+
+(beleid en wetgeving) op het terrein van economische veiligheid voor het Caribisch deel van het Koninkrijk. Dit betekent het vergroten van bewustwording, verbeterd zicht op de dreiging, en versterkt handelingsperspectief.
+
+### Actielijn 4: Vergroten van de sociale stabiliteit
+
+Maatschappelijke spanningen horen bij een vrije en open samenleving. Ernstige uitingsvormen van spanningen en polarisatie kunnen evenwel in het uiterste geval de sociale en politieke stabiliteit aantasten. Deze uitingsvormen vragen om een brede samenhangende inzet op sociaal-economische aspecten,95 (herstel van) vertrouwen in de democratische rechtsorde, maatschappelijk stabiliteit en aanpak van maatschappelijke spanningen en ongewenste polarisatie. Tegelijkertijd is het een grote uitdaging voor de overheid om spanningen te verminderen, zowel waar het optreden van de overheid zelf bijdraagt aan deze spanningen als wanneer deze spanningen een andere oorzaak kennen. Herstel tussen de overheid en burger vraagt om systematische zelfreflectie binnen de overheid en vaardigheden in conflicthantering. Het verbeteren van kwaliteit van beleid en wetgeving alsmede communicatie door de overheid – zowel lokaal als landelijk -zijn hiervoor essentieel. Het voelbaar maken van de democratische rechtsorde, door het zijn van een open en benaderbare overheid, zegt meer dan duizend beleids- ­documenten.
+
+Onze democratische rechtsorde is echter geen vanzelfsprekendheid. Zo staat ons Koninkrijk voor grote maatschappelijke opgaven. Het Koninkrijk en zijn democratische rechtsorde kunnen worden geraakt door een breed spectrum aan activiteiten vanuit statelijke of niet-statelijke, criminele actoren. Hybride dreigingen, extremistische en terroristische dreigingen, spionage, ongewenste buitenlandse inmenging en georganiseerde criminaliteit zijn hier voorbeelden van.92
+
+De weerbaarheid van een democratische rechtsorde staat daarnaast onder invloed van maatschappelijke spanning en polarisatie. Maatschappelijke spanningen en tegenstellingen zijn inherent aan het goed functioneren van de democratische rechtsorde, maar radicale onderstromen kunnen potentieel een groot effect hebben op het goed functioneren van de maatschappij in de brede zin.93
+
+Het is van belang om de weerbaarheid van onze democratische rechtsorde en open samenleving centraal te stellen, door democratische instituties te versterken, het vertrouwen tussen burger en overheid te herstellen en door in te zetten op het verminderen van de kans en impact van dreigingen.94 Zo blijven we een democratische rechtsorde waarin we in vrijheid en veiligheid kunnen samenleven. Dit vraagt inzet van de overheid en burgers, in samenwerking met alle partners in de samenleving, door een aanpak die zich focust op de volgende actielijnen:
+
+### Prioriteiten 2023-2029:
+
+A. Versterken van een overheidsbrede en
+
+maatschappijbrede aanpak ter bevordering van maatschappelijke stabiliteit, het herstellen van vertrouwen in de overheid en het tegengaan van maatschappelijk ongenoegen en ongewenste polarisatie. Dit gebeurt in samenwerking tussen
+
+landelijke, regionale en lokale overheden, inclusief (lokaal) advies op maat. Hierbij zetten we in op een open en benaderbare overheid, het vergroten van kennis over (online) complotconstructies en anti-overheids­sentimenten, het tegengaan van discriminatie of ongelijke behandeling door middel van brede preventie (o.a. via onder­wijs en sociaal domein), een open dialoog tussen overheid en kritische groepen en het verbeteren van kwaliteit van beleid en wetgeving en de goede uitvoering daarvan. B. Speciale inzet op het beschermen van het publieke
+
+A. Bestendigen van de brede aanpak van georganiseerde,
+
+ondermijnende criminaliteit, die voldoende adaptief is om bij verandering in de omgeving koersvast te blijven. Daarbij is niet alleen oog voor veranderingen in de werk-wijze van criminele groeperingen, maar ook in bredere zin voor maatschappelijke en geopolitieke veranderingen. Dit vraagt om ‘schokvastheid’ van de aanpak bij (gewelds)incidenten: het risico op tegenslagen is reëel, zodat behoud van vertrouwen bij politiek en samenleving voor het langetermijn­ perspectief essentieel is. B. Intensiveren van de (internationale) samenwerking op
+
+### Actielijn 5: Tegengaan van georganiseerde, ondermijnende criminaliteit
+
+De impact van georganiseerde, ondermijnende criminaliteit is een ernstige bedreiging voor onze samenleving, met name voor de sociale en politieke stabiliteit van het Koninkrijk. Criminelen misbruiken kwetsbare structuren en kwetsbare personen in de samenleving, en schuwen daarbij extreem geweld niet. Georganiseerde, ondermijnende criminaliteit staat niet op zichzelf, maar heeft een sterke link met cyber-en hybride dreigingen. In Nederland is de aanpak van georganiseerde, ondermijnende criminaliteit daarom een belangrijk speerpunt van het Kabinetsbeleid en ook met het Caribisch deel van het Koninkrijk wordt gewerkt aan een aanpak, gezien de ligging in een belangrijke maritieme drugs­ corridor richting Noord-Amerika en Europa. Deze aanpak die gericht is op het Caribisch deel van het Koninkrijk en Latijns Amerika moet worden voortgezet en uitgebouwd. De internationale samenwerking en een internationale inzet zijn essentieel om de dreiging van georganiseerde, ondermijnende criminaliteit in het Koninkrijk terug te dringen.
+
+debat tegen desinformatie door behoud van het pluriforme medialandschap, versterking van de weerbaarheid van burgers tegen desinformatie, en door de invloed van desinformatie (ongeacht inhoud, verspreider of middel van verspreiding) te verminderen.96 C. Beschermen van deelname aan het publieke debat,
+
+zowel online als offline, met specifieke aandacht voor groepen die hierbij hoog risico lopen, zoals journalisten. Inzet op ondersteuning van risicogroepen, ontwikkeling van effectieve interventies om (online) intimidatie tegen te gaan, bijdragen aan normerend gesprek over online omgangsvormen en bewustwording. D. Vergroten van het zicht op de verschillende dimensies
+
+van maatschappelijke stabiliteit en hoe deze zich ontwikkelen en tot elkaar verhouden, door de ontwikkeling van maatschappelijke beelden. E. Verbeteren van het zicht op dreigingen tegen de
+
+het snijvlak van de georganiseerde, ondermijnende criminaliteitsaanpak en de aanpak op nationale veiligheid. Het gaat dan om meer samenwerking tegen de inzet van criminele groepen door statelijke actoren en het benutten van het buitenlandse veiligheidsbeleid voor de internationale aanpak van georganiseerde, ondermijnende criminaliteit. C. Intensiveren van de inzet in het Caribisch deel van het
+
+Koninkrijk op het uitbouwen van de aanpak tegen georganiseerde, ondermijnende criminaliteit, inclusief het ontwikkelen van (wettelijk) instrumentarium tegen ongewenste investeringen en het versterken van lokale diensten in de justitieketen. D. Verbeteren van de informatie-uitwisseling binnen
+
+het Koninkrijk.
+
+Bij de aanpak van georganiseerde, ondermijnende criminaliteit is niet alleen oog voor veranderingen in de werkwijze van criminele groeperingen, maar ook in bredere zin voor maatschappelijke en geopolitieke veranderingen. De aanpak van de ondermijnende drugscriminaliteit wordt in samenwerking met publieke en private partners vormgegeven door middel van de volgende opgaven: preventie (waaronder het aanpakken van de aanwas van jongeren in de georganiseerde (drugs)criminaliteit), het internationaal offensief, de aanpak van logistieke knoop­ punten, de aanpak van criminele geldstromen, regionale versterkingen en het versterken van het stelsel bewaken en beveiligen.97
+
+nationale veiligheid door het continueren en verbreden van normbeelden met informatie over de weerbaarheid van de democratische rechtsorde en analyses van fenomenen en ontwikkelingen (binnen het geldende wettelijke kader). Ondersteuning van lokale signalering en omgaan met ondermijning van de democratische rechtsorde waar wetsovertreding/nationale veiligheid nog niet in het geding zijn (denk aan herkennen en omgaan met antidemocratische complotconstructies, desinformatie, extreme polarisatie enz.)
+
+desinformatie -waarbij online platformen zo gereguleerd worden dat desinformatiecampagnes worden tegengegaan zonder dat dit op onrechtmatige wijze de vrijheid van meningsuiting van individuele burgers inperkt – en het versterken van een effectieve Europese respons tegen desinformatie geproduceerd of verspreid door buitenlandse of daaraan gelieerde actoren. In Nederland valt dit laatste binnen het Rijksbreed Responskader tegen statelijke dreigingen.99 F. Uitbreiden van de mogelijkheden om spionage
+
+### Actielijn 6: Tegengaan van ongewenste buitenlandse inmenging en spionage
+
+Ongewenste buitenlandse inmenging door statelijke actoren vormt een serieuze dreiging voor het Koninkrijk en zijn bond­ genoten, wat kan leiden tot ontwrichting van onze maatschappij. Voor een effectieve aanpak van ongewenste buiten­landse inmenging zetten we in op een versterkte inlichtingen-en informatiepositie van de inlichtingen-en veiligheidsdiensten van het Koninkrijk, intensievere informatie-uitwisseling, het tegengaan van spionage en desinformatie, het versterken van de aanpak ter verhoging van de weerbaarheid van kwetsbare groepen, het aangaan van de diplomatieke dialoog met statelijke actoren die zich schuldig maken aan ongewenste buitenlandse inmenging en het strafrechtelijk optreden indien sprake is van strafbare feiten.
+
+Cyberincidenten stoppen niet bij landgrenzen. Daarom benut de overheid actief de kansen die samenwerking binnen en buiten de EU biedt. In de samenwerking tussen EU-lidstaten worden digitale dreigingen van grensoverschrijdende aard aangepakt en wordt een gecoördineerde reactie gegeven op grootschalige cyberincidenten en -crises binnen en buiten de EU. Daarnaast trekt het Koninkrijk in multilateraal verband nauw op met de EU en derde landen en zet zich in op het beschermen van afspraken over cybersecurity, het verantwoord gebruik van AI met wettelijke waarborgen om de burgers te beschermen tegen risicovolle toepassingen, een open, vrij, veilig en inter-operabel internet, gebaseerd op respect voor mensenrechten en democratische waarden.
+
+strafbaar te stellen, om te kunnen ingrijpen bij gedragingen die de nationale veiligheid kunnen schaden.100
+
+### Prioriteiten 2023-2029:
+
+103
+
+A. Verhogen van de digitale weerbaarheid en paraatheid
+
+van overheid, bedrijven en maatschappelijke organisaties door in te zetten op bewuste risico­ beheersing en detectie-, herstel-en responsvermogen. B. Voortzetten van inzet in multilateraal verband met EU
+
+### Actielijn 7: Versterken van de digitale weerbaarheid
+
+Digitale processen vormen het ‘zenuwstelsel’ van de maatschappij en economie en vragen continu versterking voor het ongestoord functioneren. Ondanks eerdere inspanningen om de weerbaarheid te verhogen, is er een scheefgroei tussen de toenemende en snel ontwikkelende dreiging en de opbouw van de weerbaarheid.101 Met de Nederlandse Cybersecurity­strategie102 werkt Nederland toe naar de situatie waarin de scheefgroei tussen digitale dreiging en digitale weerbaarheid zo klein mogelijk is en blijft. Specifiek voor het Caribisch deel van het Koninkrijk geldt dat het cybersecuritybeleid achterloopt en opgebouwd moet worden. Daar vormen cyberaanvallen met name een bedreiging voor cruciale infrastructuur door het ontbreken van redundantie, met mogelijke grote cascade-effecten van dien.
+
+### Prioriteiten 2023-2029:
+
+A. Voortbouwen op de drie sporen aanpak met een
+
+weerbaarheidsspoor, een diplomatiek spoor en een straf­rechtelijk/bestuursrechtelijk spoor. B. Vergroten van het zicht en anticiperen op de dreiging
+
+van ongewenste buitenlandse inmenging. C. Vergroten van bewustwording bij doelgroepen en
+
+doel­witten over deze dreiging, specifiek ten aanzien van China, Turkije, Marokko, Iran en Rusland.98 D. Verminderen van de invloed van desinformatie, door
+
+inzet op expertiseontwikkeling op het gebied van de communicatie bij desinformatie in relatie tot crisis­ communicatie en nationale veiligheid. E. Internationale inzet van het Koninkrijk voor
+
+internationaal gedeelde normen voor de aanpak van
+
+en derde landen op beschermen afspraken over cyber­ security, beperken van risico’s van nieuwe technologie bij ontwikkeling en inzet, verantwoord gebruik van AI en een open, vrij, veilig en inter-operable internet, gebaseerd op respect voor mensenrechten en democratische waarden. C. Verminderen van de risicovolle strategische
+
+afhankelijkheden op het gebied van digitale weerbaarheid. D. Toewerken naar een veilige en innovatieve digitale
+
+economie met versterkte digitale open strategische autonomie en veilige producten en diensten, o.a. door te investeren in een sterke cybersecuritykennis-en innovatieketen. E. Tegengaan van digitale dreigingen van staten en
+
+criminelen, onder meer door attributie en respons op aanvallen van staten in samenwerking met partners, met name in NAVO-en EU-verband en effectievere samenwerking op het gebied van opsporing en
+
+de overheid en andere instituties richten valt op. Het dreigingsbeeld is diffuus en veranderlijk. Ook staan de ontwikkelingen onder invloed van gebeurtenissen in het buitenland.104
+
+vervolging van cyber­criminelen. F. Stimuleren van de cybersecurity-arbeidsmarkt en
+
+richten op onderwijs en digitale weerbaarheid van burgers. G. Beperken van het ‘aanvalsoppervlak’ van het
+
+Koninkrijk voor cyberdreigingen door bewuste keuzes te maken bij het digitaliseren en het met elkaar verbinden van processen. H. Opbouwen van het cybersecuritybeleid voor het
+
+Prioriteiten 2023-2029: detentie, door internationale samenwerking op multilateraal en bilateraal niveau. Een terroristische dreiging elders kan ook zijn weerslag hebben op het Koninkrijk. Ook in de komende jaren zal hierop ingezet worden binnen de bestaande multilaterale fora, zoals de EU, VN, Anti-ISIS Coalitie, de NAVO en het Global Counterterrorism Forum en samenwerking in de Caribische regio. E. Investeren in bilaterale en multilaterale samenwerking
+
+A. Voor Nederland: voor de aanpak van gewelddadig
+
+Caribisch deel van het Koninkrijk. Wetgeving en beleidskaders zijn nodig ter bevordering van cybersecurity en tegengaan van cybercriminaliteit, waarbij ook versterkte kennisuitwisseling, samenwerking en technische bijstand tussen Nederland en het Caribisch deel van het Koninkrijk van belang is. Daarnaast is meer inzet nodig voor het vergroten van het cyberbewustzijn, uitvoering van cyber­securitybeleid, en technische expertise; zowel onder burgers, overheid, als in het bedrijfsleven.
+
+en het aanpakken van grondoorzaken van terrorisme, kan bijdragen aan de bestrijding van terrorisme en de dreiging die uitgaat richting het Koninkrijk en het Westen. F. Versterken van lokale capaciteiten in voor het
+
+extremisme en terrorisme is de aanpak van potentieel gewelddadige extremistische eenlingen, het bestrijden van terrorisme en gewelddadig extremisme online en veilige re-integratie na detentie van belang.105 Hierbij is de doorontwikkeling en borging van de uitwisseling van informatie tussen internationale partners, zorgpartners en partners in het veiligheids­domein essentieel (binnen de bestaande wettelijke kaders). Zo kunnen signalen van radicalisering of dreiging tijdig worden opgevangen en gedeeld voor vroegtijdige interventie. De uitwisseling van informatie en best practices tussen internationale partners wordt voortgezet. B. Inspelen op de belangrijke rol die social media en
+
+Koninkrijk strategische regio’s, zodat terrorisme aan de bron wordt voorkomen en bestreden en grond­ oorzaken worden weggenomen. Dit doen we de komende jaren door samenwerking te blijven zoeken met internationale partners en lokale autoriteiten in partnerregio’s, met name in fragiele staten. G. Voor Nederland: Uitwerken van een brede strategie op
+
+alle vormen van extremisme, niet-gewelddadig en gewelddadig, inclusief extra inzet op het vergroten van kennis over en de aanpak van aanjagers van extremisme. H. Voor Caribische Landen: starten met het verstevigen
+
+internetfora spelen in de verspreiding van extremistische sentimenten en ideeën online. Een uitdaging voor de komende jaren is daarbij de wijze waarop we met het internet omgaan, de grenzen van de vrijheid van menings­uiting en de mate van draagvlak voor handhaving als grenzen worden overschreden. Daarnaast versterken we de juridische kaders voor het verzamelen en delen van informatie. Ook worden aanvullende afspraken gemaakt over hoe deze informatie op de juiste tafels belandt om partners te ondersteunen bij het zicht krijgen en houden op de aard en omvang van de dreiging. C. Inzetten op het versterken van de veerkracht en de
+
+### Actielijn 8: Voorkomen en bestrijden van terrorisme en extremisme
+
+Er is onverminderd inzet nodig voor het voorkomen en tegengaan van terrorisme en extremisme in het Koninkrijk en daarbuiten. De jihadistische en de rechtsterroristische dreigingen blijven belangrijke zorgpunten. Verwacht wordt dat beide vormen van terrorisme en extremisme in de komende jaren voor dreiging zullen zorgen. Tegelijkertijd is het extremistische veld in beweging. Met name de opkomst van extremisten die zich vanuit een fundamenteel wantrouwen, woede en onrechtvaardigheidsgevoel tegen
+
+van de aanpak van terrorisme en extremisme, onder meer door extra aandacht voor het opstellen van een strategie en de samenwerking en afstemming hierop tussen de Caribische Landen. Inzet is nodig voor het verhogen van bewustwording over verschillende vormen van terrorisme en extremisme en het verhogen van de weerbaarheid van soft targets en cruciale infrastructuur.
+
+weerbaarheid binnen de samenleving, om de aantrekkingskracht van extremistische en terroristische bood­schappen te verminderen. D. Zicht houden op de internationale terroristische
+
+dreiging, waaronder veroordeelde terroristen na
+
+## 3. Een parate en veerkrachtige samenleving
+
+Dreigingen tegen onze nationale veiligheid zijn onvoorspelbaar en kunnen nooit volledig worden voorkomen. Omdat er geen absolute veiligheid bestaat, is het van belang om het effect van dreigingen zoveel mogelijk te mitigeren om crises te voorkomen. Preventief, adaptief en responsief – zowel internationaal als nationaal -beleid is nodig om de samen­leving als geheel op de dreiging aan te passen. Ook wanneer het gaat om meerdere (sluimerende) crises tegelijkertijd die elkaar versterken. Scherpe keuzes en prioritering van inzet zijn daarbij onvermijdelijk.
+
+### Prioriteiten 2023-2029:
+
+A. Klimaatmitigatie en het verkleinen van onze
+
+internationale voetafdruk. B. Vergroten van de urgentie van uitvoering van
+
+bestaande nationale en internationale klimaatplannen en –afspraken, mede door versterkte samenwerking tussen publieke en private sectoren. C. Het bereiken van een volledig circulair Nederland in
+
+### Actielijn 9: Intensiveren klimaatmitigatie en -adaptatie
+
+De uitvoering van nationaal klimaatbeleid
+
+2050.108 Door zo efficiënt mogelijk om te gaan met de beschikbare (kritieke) grondstoffen, vergroten we enerzijds de leveringszekerheid en verkleinen we tegelijkertijd de negatieve impact van winning en verwerking van kritieke grondstoffen op mens en milieu. Dat doen we door in te zetten op vier centrale circulaire strategieën: vermindering van grondstoffengebruik, substitutie van grondstoffen, levensduurverlenging en hoogwaardige verwerking. Nederland stuurt in EU verband aan op de brede toepassing van circulaire strategieën, in het bijzonder in het kader van de Critical Raw Materials Act die naar verwachting begin maart wordt gepubliceerd. D. Leveringszekerheid van kritieke materialen benodigd
+
+107 -gericht op klimaatmitigatie-en adaptie -is in volle gang. Dit vraagt onverminderd de aandacht en de urgentie groeit om de dreiging voor de nationale veiligheid te verkleinen. Het adaptief vermogen van het Koninkrijk tegen klimaat-en natuurrampen moet worden vergroot, onder meer door klimaatbestendige ruimtelijke inrichting die rekening houdt met extreem weer, overstromingsrisico’s, de verspreiding van infectieziekten en natuurbranden. Ook is meer redundantie bij uitval van vitale infrastructuur van belang. Deze aanpak vergt goede coördinatie tussen ministeries en een intensieve samenwerking tussen private en publieke partijen, naast nauwe internationale en multilaterale samenwerking.
+
+Samen -de overheid, publieke en private partners, maatschappelijke organisaties, en burgers -zijn we verantwoordelijk om onze veiligheid te beschermen. Risicocommunicatie draagt bij aan het vergroten van een parate en veerkrachtige samenleving. Dat begint met openheid over de hedendaagse risico’s, inclusief duidelijkheid over mogelijke (blijvende) impact van korte en langdurige crises op de manier van leven zoals we die gewend zijn. We maken duidelijk wat de overheid doet in voorbereiding op dreigingen en crisis én hoe burgers en bedrijven zich kunnen voorbereiden. Veranderingen in onze manier van leven kunnen immers nodig zijn om de kans en impact van de dreiging te verkleinen. De respons op klimaatverandering en pandemieën is hier een belangrijk voorbeeld van. Door aan te sluiten op specifieke omstandigheden en een concreet handelingsperspectief te bieden, kunnen organisaties en burgers geholpen worden om tot actie over te gaan en de weerbaarheid te versterken. Een betrouwbare overheid en expertorganisaties vormen hierbij een belangrijke voorwaarde.
+
+voor de energie-en digitale transities.109 Met inzet van acties binnen en buiten de EU. E. Bij ruimtelijke ordening nemen we risico’s van klimaat-
+
+Daarnaast is en blijft het een hoge prioriteit om klimaat­ verandering te voorkomen, onder andere door een veilige energietransitie naar hernieuwbare en schone energie, de landbouwtransitie naar verminderde emissies, schoon transport (inclusief maritiem en luchtvaart) en de transitie naar een circulaire economie. Nederland werkt als deel van de EU ambitieus aan internationale afspraken hierover en vraagt andere landen om dit ook te doen, omdat het van belang is om de adaptatieopgave zoveel mogelijk te beperken. Ook de Caribische Landen geven zoveel mogelijk invulling aan internationale normen en afspraken omtrent klimaat. Blijvende aandacht en versterkte inzet hierop is nodig.
+
+Een parate en veerkrachtige samenleving vraagt niet alleen iets van de overheid, maar van alle onderdelen van die samenleving.106 Daarvoor zetten we in op de volgende actielijnen:
+
+en natuurrampen voor de nationale veiligheid expliciet mee. Zeker ook waar het gaat om cascade-effecten voor de vitale infrastructuur die ook in tijden van crisis moet blijven functioneren.110 Voor Nederland wordt dit opgenomen in de te herijken Nationale Omgevingsvisie (NOVI). F. Versterken van de aanpak voor natuurbrandpreventie
+
+en –bestrijding voor Nederland, mede door het bestuurlijk akkoord natuurbranden, het delen van best practices, het vergroten van inzetbare middelen en een landelijk crisisplan natuurbranden. G. Een lange termijn aanpak voor het Caribisch deel van
+
+het Koninkrijk tegen de effecten van de klimaat­-
+
+verandering. Speerpunten zijn het overschakelen op zon-en wind­energie, een klimaatproof ruimtelijke inrichting en het vergroten van de redundantie bij uitval van vitale systemen. H. Het Koninkrijk incorporeert in het veiligheidsbeleid
+
+de gevolgen van klimaatverandering en de klimaat­ transities, en neemt klimaatrisico’s en -weerbaarheid mee in strategische contextanalyses, conflictanalyses en programmering.111 I. In concrete sectoren zoals water, landgebruik en
+
+je backupsystemen hebben die zo min mogelijk single-points-of-failure delen met productiesystemen, zoals dezelfde software of hardware. Op deze manier is het Koninkrijk zowel digitaal als fysiek bestand tegen dreigingen en in staat deze dreigingen te mitigeren en veerkrachtig te herstellen van tegenslagen.
+
+### Prioriteiten 2023-2029: — Actielijn 10: Beter beschermen van de vitale infrastructuur
+
+De territoriale veiligheid van Nederland en het ongestoord functioneren van de economie hangt sterk af van de integriteit van vitale infrastructuur en de continuïteit van vitale processen.113 Dit vraagt om een infrastructuur die beter bestand is tegen uitval, verstoring en manipulatie, zowel bewust als onbewust. Ook zullen risicovolle afhankelijkheden sterk moeten worden verminderd. Het is van belang dat vitale infrastructuur bij incidenten en in crisissituaties blijft functioneren. Bedrijven en organisaties zijn hierbij aan zet, ondersteund door de overheid. Deze verantwoordelijkheid wordt voor een groter aantal sectoren wettelijk verankerd. De overheid stuurt actief op de weerbaarheid van sectoren en diensten, door het inzicht hierin te vergroten en waar nodig – samen met vitale aanbieders – maatregelen te nemen om de weerbaarheid te vergroten.
+
+voedselzekerheid, draagt de Nederlandse kennis over klimaatverandering bij aan het versterken van klimaat­ kwetsbaarheids-en risicoanalyses. We streven ernaar multi­laterale en internationale partners en partner­ organisaties te overtuigen van het belang een conflict­ sensitieve benadering toe te passen in hun klimaat­-inspanningen. J. Bijdragen aan grotere waterzekerheid en waterveiligheid
+
+in fragiele staten.112 Hiermee wordt dreiging als gevolg van klimaatverandering verminderd en kunnen andere dreigingen worden voorkomen (zoals voedseltekort, geopolitieke spanningen, conflict, migratie).
+
+A. Een integrale, minder vrijblijvende aanpak ter
+
+bescherming van de continuïteit, integriteit en vertrouwelijkheid van vitale infrastructuur. Het versterken van fysieke, digitale en economische weerbaarheid van de vitale infrastructuur vraagt om overheidsregie, duidelijke verantwoordelijkheids­ verdeling en heldere kaders. Hiertoe wordt de zorg­ plicht van vitale aanbieders wettelijk verankerd en wordt het beleids­instrumentarium, de ondersteuning van aanbieders, informatie-uitwisseling en toezicht uitgebreid. Hierbij worden bestaande netwerken en structuren zoveel mogelijk doorontwikkeld en de ondersteuning en communicatie via overheidsloketten gestroomlijnd. B. Verbreden van de reikwijdte van de vitale
+
+infrastructuur, waarbij ook aandacht is voor het belang van een proces of dienst voor het ongestoord functioneren van de economie en maatschappij met het oog op beschermen van onze nationale veiligheid. C. Inventariseren en vervolgens verminderen van de
+
+Om risicovolle strategische afhankelijkheden te verminderen werkt de overheid aan een versterking van de open strategische autonomie (OSA) van de EU. Vaker dan voorheen zal moeten worden gewogen of afhankelijkheid van specifieke grondstoffen, toeleveranciers, diensten of specifieke landen niet leidt tot een onaanvaardbaar risico. OSA draagt op deze manier bij aan het verminderen van de risicovolle afhankelijkheden van vitale aanbieders.
+
+risicovolle afhankelijkheden voor vitale infrastructuur, waarbij afhankelijkheden in productieketens, diensten en sectoren een integraal onderdeel moeten uitmaken van risicoanalyses. Het verminderen van dergelijke risico’s wordt onder voorwaarden verplicht, voor zover zij de continuïteit, integriteit en vertrouwelijkheid van een proces of dienst kunnen raken. De overheid ondersteunt vitale aanbieders hierin op intensievere en meer integrale wijze, en kijkt samen met de sector naar eventuele (Europese) oplossingen. Dit vergt internationale inzet.
+
+Het dreigingslandschap vraagt om een robuuste vitale infrastructuur. Het vergroten van de redundantie en het verminderen van de negatieve gevolgen van de just in time economie is niet alleen een opdracht voor de overheid, maar ook voor publieke en private partners, maatschappelijke organisaties en burgers. Als vitale systemen uitvallen, moet
+
+D. Verbeteren van de voorbereiding op een brede en/of
+
+langdurige verstoring. Dit gebeurt door onder andere het uitbreiden van noodvoorzieningen en strategische (civiele en militaire) voorraden, het opstellen en beoefenen van crisisplannen en het investeren in de samenwerking en wederzijdse ondersteuning tussen overheid (inclusief Defensie) en de vitale aanbieders. E. Voor Caribisch Nederland: In beeld brengen welke
+
+A. Versterken van de pandemische paraatheid door te
+
+werken aan een versterkte publieke gezondheidszorg en infectieziektebestrijding, flexibele en opschaalbare zorg en versterkte leveringszekerheid van medische producten zoals volgt uit de recent vastgestelde beleids­agenda en -programma Pandemische paraatheid.116 Daarbinnen is ook specifieke aandacht voor de aanhoudende (personeels)tekorten en -veerkracht van de zorg tijdens crises. Ook staat de relatie tussen de lokale en regionale uitvoering en de landelijke aansturing centraal, mede gezien de decentrale en landelijke crisisstructuur. B. Intensiveren van de samenwerking tussen ziekenhuizen
+
+### Actielijn 11: Vergroten van pandemische paraatheid
+
+De COVID-19-pandemie leert ons dat we beter voorbereid moeten zijn op pandemieën. Kwetsbaarheden in de respons zijn blootgelegd. Denk hierbij aan de inrichting van initiële uitbraakbestrijding, de beschikbaarheid van specialistische zorg (zoals de IC-zorg en beademingsapparaten), de mogelijkheden voor aparte verpleging (quarantaine) die nodig kan zijn bij een nieuwe pandemie, maar ook de leveringszekerheid en beschikbaarheid van persoonlijke beschermingsmiddelen en vaccins.
+
+processen op Bonaire, Sint-Eustatius en Saba beter beschermd moeten worden om maatschappelijke ontwrichting te voorkomen, rekening houdend met de lokale context. Conform het principe ‘comply or explain’ wordt gekeken welke maatregelen er vervolgens passend zijn om de continuïteit te waarborgen. F. Versterking van de bescherming van de vitale infra­
+
+structuur tegen ongewenste buitenlandse overnames, fusies en investeringen door nieuw aangewezen vitale aanbieders onder de reikwijdte van de Wet veiligheids­ toets investeringen, fusies en overnames of andere wettelijke investeringstoetsing te brengen. G. Om de Noordzee-infrastructuur goed te beschermen
+
+in het Caribisch deel van het Koninkrijk, onder andere met het oog op crisissituaties en patiëntenspreiding.117 C. Hanteren van een cross-sectorale benadering van
+
+ruimtelijke ordening en leefbaarheid, inclusief klimaat­ verandering en pandemische dreiging. Dat betreft niet alleen de indeling van het woon-en leef­klimaat in het Koninkrijk tussen mens, natuur en dier (One Health), maar ook aanverwante aspecten zoals mobiliteit. Hier is extra oog voor zoönotische risico’s, een virus dat van dier op mens overgaat. Focus is om bij ruimtelijke plannen rekening te houden met risico’s op infectie­ ziekten en de One Health benadering. D. Inzetten op preventieprogramma’s ter bevordering van
+
+De COVID-19-pandemie heeft laten zien dat een pandemie ook kan leiden tot spanningen binnen de samenleving en dat maatregelen of vaccins een polariserende werking kunnen hebben. Buitenlandse actoren kunnen dergelijke discussies voeden. Daarbij is er een link met hybride dreigingen met het verspreiden van desinformatie als mogelijk instrument.115
+
+tegen statelijke en niet-statelijke dreigingen werken de betrokken ministeries onder coördinatie van het ministerie van Infrastructuur en Waterstaat samen met vitale partners aan het plan van aanpak ter implemen-tatie van de strategie. Hierbij wordt interna­tionaal samengewerkt met EU-lidstaten en NAVO-bondgenoten.114
+
+Structurele paraatheid tegen infectieziekten en blijvende preventieve inzet is van belang. Niet alleen voor een volgende COVID-19 golf, maar juist ook voor een volgende pandemie die volledig anders van aard kan zijn. Het internationale speelveld is daarbij onmisbaar om tot een goede integrale aanpak te komen.
+
+de publieke gezondheid, die kunnen bijdragen aan het verkleinen van de impact van een pandemie. E. Inzetten op betrouwbare informatievoorziening en het
+
+tegengaan van desinformatie om maatschappelijke onrust te voorkomen en tegen te gaan.
+
+modernisering van (staats)noodwetgeving en het crisisrecht. Realisatie en uitvoering van deze meerjarige ambities zal worden ondersteund door een te creëren landelijke ondersteunings­capaciteit voor het Rijk en de veiligheidsregio’s. F. Voor Nederland: Creëren van een wettelijke basis voor
+
+A. Introduceren en wettelijk verankeren van een
+
+structurele landelijke en integrale cyclische werkwijze van voorbereiding op en de aanpak (respons) van (mogelijke) crises tot en met nafase en herstel binnen het Koninkrijk, zowel in generieke zin als voor specifieke dreigingen en risico’s. B. Versterken van de crisisaanpak voor dreigingen uit
+
+### Actielijn 12: Versterken van crisisbeheersing en vergroten paraatheid samenleving
+
+Het Koninkrijk moet adequaat voorbereid zijn op huidige en toekomstige crises, die ingewikkeld, onvoorspelbaar, grootschalig en langdurig kunnen zijn. Dit vraagt om versterking van de crisisbeheersing (conform de contouren­ nota118) met alle partners en hogere paraatheid van de samenleving. De samenleving moet kunnen vertrouwen op een adequate aanpak van een (dreigende) crisis, maar de middelen en mogelijkheden zijn eindig. Daarom vergroten we de paraatheid van publieke en private partners, maatschappelijke organisaties en burgers, onder meer door het versterken van risicocommunicatie.
+
+en het realiseren van één gezamenlijke landelijke digitale 24/7 beschikbare informatie-infrastructuur voor de crisisprofessionals. G. Voor Caribisch Nederland: Versterken van crisis­
+
+RbRa, onder meer klimaat-gerelateerde dreigingen, de uitval van vitale processen, militaire dreigingen en pandemieën. Gezamenlijke landelijke planvorming met aandacht voor specifieke vraagstukken zoals de zorg, opvang en evacuatie van kwetsbare groepen. C. Verbeteren van de samenwerking binnen de
+
+beheersing en brandweerzorg, waarbij de contouren­ nota als vertrekpunt wordt genomen en afwijkende keuzes worden toegelicht. Ook worden de aanbevelingen uit de evaluatie van de Veiligheidswet BES meegenomen.120 H. Paraatheid van de samenleving vergroten door o.a.
+
+onderdelen van het Koninkrijk. Denk daarbij aan het versterken van informatiedeling, vergroten van zicht op crisiscapaciteit en noodvoorraden, en het maken van afspraken over hulp en bijstand en het organiseren van oefeningen. Voor het Caribisch deel van het Koninkrijk geldt dat er – met name in tijden van crisis – nadrukkelijk meer oog nodig is voor de lokale context en de autonomie, ter bevordering van eensgezindheid en samenwerking. D. Benutten van transnationale partnerschappen in de
+
+We zetten samen met medeoverheden, vitale en private partners in op zowel het voorkomen van dreigingen en het beperken van risico’s, door met robuust en crisisbestendig beleid en wetgeving de toekomstige crises zoveel mogelijk te voorkomen. Ook zetten we in op het versterken en toekomst­ bestendiger maken van de crisisbeheersing, voor wanneer crises zich toch voordoen.
+
+gerichte voorlichtingscampagnes, trainingen voor bestuurders van overheden, bedrijfsleven en maatschappelijk middenveld en (grootschalige) oefeningen.
+
+Benelux, EU, NAVO en in de Caribische regio119 op structurele wijze. Bijvoorbeeld voor het delen van informatie en expertise, het maken van afspraken over de inzet van blus-helikopters en het gezamenlijk oefenen. E. Voor Nederland: Vaststellen van meerjarige ambities
+
+in de vorm van een gezamenlijke landelijke agenda en waar nodig gezamenlijke landelijke doelstellingen. Dit gebeurt in stevige samenwerking op basis van versterkte en wettelijk te verankeren regie(rollen) van de minister van JenV (centraal), de vakministers, de besturen van de veiligheidsregio’s (decentraal) en met gemeenten en publieke en private partners. Ook wordt bij de uitwerking van de ambities aandacht besteed aan de civiel-militaire samenwerking bij militaire dreiging en lopende ontwikkelingen op het terrein van de
+
+## Deel 3 Sturen op nationale veiligheid
+
+Deze strategie zet de koers uit voor de wijze waarop we de komende zes jaren werken aan de bescherming van onze nationale veiligheid. Maar daarmee zijn we er nog niet. We moeten zorgen dat we de koers ook
+
+gaan realiseren. Dit kan de overheid niet alleen. Het vergt een overheidsbrede maar zeker ook een
+
+maatschappijbrede aanpak om effectief de nationale veiligheid te beschermen.
+
+• Een overheid die integraal stuurt op nationale veiligheid
+
+• Een aanpak waarbij de hele maatschappij betrokken is
+
+• Een aanpak die wordt geëvalueerd en waar nodig bijgesteld
+
+Deze strategie zet de koers uit voor de wijze waarop we de komende zes jaren werken aan de bescherming van onze nationale veiligheid. Maar daarmee zijn we er nog niet. We moeten zorgen dat
+
+we de koers ook gaan realiseren. Dit kan de overheid niet alleen.121 Het vergt een overheidsbrede maar
+
+zeker ook een maatschappijbrede aanpak om effectief de nationale veiligheid te beschermen.
+
+### Een overheid die integraal stuurt op nationale veiligheid
+
+Caribische Landen: • Voor de Caribische Landen loopt de regie en nadere uitwerking van de strategie op nationaal niveau binnen de geldende landelijke mechanismen.
+
+Integraal sturen op de nationale veiligheid doen we als volgt:
+
+De strategische koers op nationale veiligheid kan alleen worden gerealiseerd door meer integrale regie en sturing op de implementatie en uitvoering. Alleen zo blijft het niet bij een papieren werkelijkheid. Integrale sturing betekent dat we niet alleen op de afzonderlijke actielijnen sturen, maar juist ook op de samenhang tussen die actelijnen en onderliggende prioriteiten. Een beslissing op één beleidsthema, kan namelijk direct een risico vormen of juist een oplossing bieden voor een ander thema. Dit doen we overheidsbreed, in samen­werking tussen nationale, regionale en lokale overheden. Ook dat kenmerkt de integrale sturing.
+
+Nederland (inclusief Caribisch Nederland): • De Rijksoverheid volgt de voortgang van de uitvoering van de strategie voor Europees en Caribisch Nederland en bespreekt dit ieder half jaar met de betrokken departementen en bewindspersonen in reeds bestaande gremia.122
+
+Hele Koninkrijk: • We houden ook op Koninkrijksniveau zicht op de uitvoering van de strategie door jaarlijks de voortgang en eventuele dilemma’s in de uitvoering te bespreken.125 Dit is belangrijk om ook op Koninkrijksniveau de samenhang in de aanpak vast te houden. Dreigingen stoppen immers niet bij de grens.
+
+• De Rijksoverheid bespreekt eventuele dilemma’s in de uitvoering van de strategie in de Nationale Veiligheidsraad, evenals eventuele veranderingen in de dreiging die vragen om strategische koerswijzigingen.123 • De Rijksoverheid (eerstverantwoordelijke departementen) vertaalt de strategie in onderliggende thematische, (beleids)agenda’s, actie-en crisisplannen.124 Dit gebeurt in samenwerking met medeoverheden die bij de uitvoering een belangrijke rol spelen. Tussen nationale, regionale en lokale overheden blijven we het gesprek voeren over de implementatie van de integrale koers uit de strategie en eventuele dilemma’s die daaruit volgen.
+
+Hiermee vervangt deze overkoepelende strategie niet de bestaande mechanismen voor regie en sturing binnen een specifiek beleidsdomein, maar borgen we wel de samenhang tussen de dreigingen en de aanpak. Zonder afbreuk te doen aan de autonome (beleids)verantwoordelijkheid van ieder land in het Koninkrijk, ieder departement en iedere bewinds­persoon.
+
+Caribisch Nederland: ‘comply or explain’
+
+### Een aanpak die wordt geëvalueerd en waar nodig bijgesteld — Een aanpak waarbij de hele maatschappij betrokken is
+
+Binnen Caribisch Nederland wordt uitgegaan van het principe van ‘comply or explain’. Daarbij wordt verder geïnvesteerd in het op een gelijkwaardiger niveau brengen van de openbare lichamen.
+
+Sturen op de koers van de strategie betekent ook tijdig bezien of de uitgezette koers nog steeds de juiste is. Kennis en informatie zijn cruciaal om strategisch te kunnen anticiperen op toekomstige ontwikkelingen en om tijdig bij te sturen. Het vermogen om te kunnen anticiperen vereist een doorlopende analyse van toekomstige ontwikkelingen, geopolitiek, militair-strategisch, technologisch, maatschappelijk en sociaal. Hiervoor maken we meer gebruik van de verschillende onderzoeksagenda’s en –activiteiten van de betrokken departementen, hun academies127 en de wetenschappelijke inbreng van o.a. kennisinstituten, universiteiten en denktanks. Zo versterken we ons vermogen om te anticiperen op veranderingen in de dreiging. Naast ontwikkelingen in de dreiging worden ook ontwikkelingen in de beleving van dreigingen in de samenleving meegenomen.128
+
+Nationale veiligheid is niet te realiseren zonder de inzet van ons allemaal: van de overheid, publieke en private partners, maatschappelijke organisaties, en burgers. De integrale aanpak op nationale veiligheid betekent dus óók een maatschappijbrede aanpak. De Rijksoverheid biedt informatie over de ontwikkeling van de dreigingen en weerbaarheid waarmee ze andere overheden, maatschappelijke organisaties, bedrijfsleven en burgers in staat stelt om hun eigen verantwoordelijk te vervullen.
+
+Daarnaast helpt het netwerk dat tijdens de totstandkoming van deze strategie is ontstaan mee om de komende zes jaar de opvolging van de koers te realiseren. Om met alle partijen samen te zien: wat gaat er goed in de opvolging van de koers, wat kan er beter, is bijstelling van de koers nodig? Welke concrete handvatten hebben partijen nodig om bij te dragen aan onze nationale veiligheid? Hiervoor wordt jaarlijks een bijeenkomst georganiseerd met het netwerk. Daarnaast werken we aan een breed kennisnetwerk van professionals van bedrijven, maatschappelijke organisaties en overheden op het gebied van de nationale veiligheid die vanuit hun specifieke expertise en rol in de samenleving kunnen bijdragen aan zoveel mogelijk wegnemen van dreigingen tegen onze nationale veiligheid.126 Ook gaan we jaarlijks in gesprek met experts die reeds betrokken zijn bij de totstandkoming van de strategie. Zo blijven we met elkaar scherp op de voortgang. Burgers worden (door het versterken van risicocommunicatie) meegenomen in de onzekerheden die de dreigingen met zich meenemen, en wat zij zelf kunnen doen om zich voor te bereiden.
+
+Een van de leidende principes daarbij is het uitgangspunt dat alle Europees-Nederlandse beleidsintensiveringen en daaruit voortvloeiende wetgeving van toepassing (zullen) zijn in Caribisch Nederland tenzij er redenen zijn om dat niet te doen. Bij dit laatste wordt gedacht aan argumenten als de beperkte uitvoeringskracht, het insulaire karakter, de geografische afstand tussen Europees Nederland en Caribisch Nederland, de kleinschaligheid, klimatologische omstandigheden, geografische omstandigheden en draagkracht.
+
+Belangrijk hierbij is dat deze factoren reden kunnen zijn voor maatwerk, maar niet afdoen aan het einddoel om een gelijkwaardiger voorzieningenniveau te bereiken in Caribisch Nederland. Een zekere mate van terug­ houdendheid en wellicht temporisering is hierbij dus passend, waarbij goed overleg met lokale stakeholders essentieel is en rekening gehouden moet worden met het ‘absorptievermogen’ van Caribisch Nederland.
+
+Halverwege de looptijd van deze strategie (2026) wordt een tussentijdse evaluatie uitgevoerd. Startpunt van deze evaluatie is de actualisatie van de onderliggende Rijksbrede Risicoanalyse Nationale Veiligheid door het Analistennetwerk Nationale Veiligheid. Vervolgens kijken we naar veranderingen in de weerbaarheid tegen de dreigingen die volgen uit de geactualiseerde risicoanalyse. Indien nodig volgt een aanpassing van de strategie. Hierover informeren we de Tweede Kamer, waarbij we ook ingaan op de voortgang die we de eerste drie jaar hebben geboekt. Dit gebeurt onder coördinatie van het ministerie van Justitie en Veiligheid (Nationaal Coördinator Terrorisme en Veiligheid (NCTV)), in samenwerking met alle betrokken overheidsonderdelen van het Koninkrijk. Het bredere netwerk van publieke-en private partners wordt betrokken bij deze evaluatie, evenals de betrokken experts bij de totstandkoming van de strategie.
+
+Nawerk
+
+### Tot slot Nawerk
+
+Verantwoording en totstandkoming — Begrippenlijst — Nationale veiligheidsbelangen en impactcriteria — Eindnoten
+
+Verantwoording en totstandkoming
+
+### 1. De dreiging in beeld
+
+Deze strategie toont de nationale veiligheidsbelangen die we willen beschermen, hoe die belangen op dit moment worden bedreigd en op welke wijze we deze dreigingen het hoofd bieden. Door de dreigingen in samenhang te bezien en oog te hebben voor doorsnijdende thema’s, is er een integrale strategische koers bepaald.
+
+### 2. Weerbaarheid tegen de dreiging
+
+Aan de basis van deze strategie ligt de Rijksbrede Risico­ analyse129, een overzicht van dreigingen tegen de nationale veiligheid van het Koninkrijk, opgesteld door het Analisten­ netwerk Nationale Veiligheid (ANV). In deze analyse wordt gekeken naar dreigingen tegen de nationale veiligheid in relatie tot de waarschijnlijkheid en de impact op de zes nationale veiligheidsbelangen van concrete dreigings­ scenario’s met een tijdshorizon van ongeveer vijf jaar.
+
+Met drie hoofddoelstellingen en 12 onderliggende actielijnen geeft de strategie richting aan wat we gaan doen op nationale veiligheid, waarbij dreigingen in samenhang worden bezien om hier vervolgens integraal op te sturen. Hoe we de koers uitvoeren wordt uitgewerkt in domeinspecifieke strategieën, beleids-en actieplannen en landelijke crisisplannen voor nationale veiligheid, waarvoor deze strategie als kapstok dient. De uitvoering van de strategische koers valt binnen de bestaande autonome (beleids)verantwoordelijkheid van ieder land in het Koninkrijk, ieder departement en ieder bewindspersoon.
+
+Op basis van de dreigingen tegen de nationale veiligheid uit de Rijksbrede Risicoanalyse is vervolgens gekeken naar de mate van weerbaarheid tegen deze dreigingen. In sessies met relevante beleidsmedewerkers/coördinatoren is voor alle dreigingsthema’s uit de risicoanalyse gekeken naar de mate van weerbaarheid. De focus van deze sessies lag op de eventuele kwetsbaarheden in weerbaarheid, die belangrijke input vormen voor de strategische koers. De sessies hadden niet als doel om een 100% compleet beeld van de (gaten in) weerbaarheid te weergeven, maar wel om de meest prangende witte vlekken in de weerbaarheid ten aanzien van de dreiging bloot te leggen. Sessies hebben voor Europees Nederland (betrokkenheid vanuit rijksoverheid en veiligheids­regio’s), Caribisch Nederland en de Caribische Landen plaatsgevonden.
+
+De analyse laat ook dwarsverbanden tussen de dreigings­ thema’s zien. Daarnaast onderzoekt de analyse op kwalitatieve wijze sluimerende dreigingen en ontwikkelingen weer die vooral op de langere termijn (10-20 jaar) relevant kunnen zijn, evenals wild card scenario’s aan de randen van het voorstelbare.
+
+Door het ANV is eveneens nog een aanvullende analyse opgesteld die specifiek ingaat op de impact van de oorlog in Oekraïne op de nationale veiligheid van Nederland. In deze analyse is gekeken naar een drietal scenario’s (voortzetting huidige situatie, escalatie en de-escalatie).
+
+De totstandkoming van de strategie kenmerkt zich op hoofdlijnen in drie fases:
+
+### 3. Bepalen van de koers
+
+Op basis van de nationale veiligheidsbelangen, het dreigingsbeeld (inclusief doorsnijdende thema’s) en de mate van weerbaarheid, is de benodigde strategische inzet en prioriteiten binnen deze inzet bepaald. De strategische inzet is deels gestoeld op bestaand beleid, maar zet ook de stap voorwaarts door de dreigingsthema’s met elkaar te verbinden en de inzet daarop af te stemmen. Dit resulteert in de overkoepelende strategische koers, zoals weergeven in voorliggende strategie.
+
+Deze analyses opgesteld door het ANV vormen -samen met domeinspecifieke analyses -belangrijke inbreng voor de strategie en dragen daarmee bij aan een strategische koers op nationale veiligheid die zich niet alleen richt op korte termijn dreiging maar ook op (mogelijke) ontwikkelingen in de dreiging op langere termijn. Met als doel om het Koninkrijk zo goed mogelijk voor te bereiden op dreigingen die de nationale veiligheid van het Koninkrijk kunnen raken, nu en in de toekomst.
+
+### Betrokken partijen bij de totstandkoming
+
+Ten behoeve van de totstandkoming van de strategie is een interdepartementale en rijksbrede projectstructuur opgezet. Voor Nederland zijn alle betrokken departementen in deze structuur vertegenwoordigd, evenals vertegenwoordigers vanuit de Veiligheidsregio’s. Ook de Caribische landen en Caribisch Nederland zijn vertegenwoordigd in de project­ structuur. Gedurende de looptijd van het traject heeft afstemming plaatsgevonden over het proces en inhoud op het niveau van het Koninkrijk (o.a. Justitieel Vierpartijen­ overleg), in nationale gremia (onderraden en bewinds­ personenoverleg), en in overleggen met Nederlandse veiligheidsregio’s (o.a. Veiligheidsberaad).
+
+Daarnaast zijn ook in het gehele Koninkrijk partijen buiten de overheid geraadpleegd bij de totstandkoming van de strategie. In de vorm van een klankbordgroep zijn experts (o.a. op het gebied van wetenschap, private sectoren en (lokaal) bestuur) gevraagd scherp mee te denken op de inhoud van de strategie. In stakeholderbijeenkomsten met onder meer private partijen, kennisinstellingen en maatschappelijke organisaties is de voorziene strategische koers getoetst en is nuttige inbreng opgehaald, zowel in Nederland als ter plaatse in het Caribisch deel van het Koninkrijk. Tot slot is ook de reflectie van burgers op nationale veiligheid betrok­ken bij de totstandkoming, op basis van focusgroepen en bestaande metingen zoals de Risico-en Crisisbarometer in opdracht van de NCTV.
+
+### Begrippenlijst
+
+Democratie
+
+Accelerationisme
+
+Democratische rechtsstaat
+
+Kenmerkt zich door de aanvaarding van grondrechten (gelijkheidsrechten, vrijheidsrechten en participatie­ rechten), de scheiding der machten, de gebondenheid van de overheid aan het recht en de onafhankelijke rechts­ spraak. In een democratische rechtsstaat genieten burgers bescherming van hun (grond) rechten en vrijheden, tegen medeburgers én de overheid. We spreken van een democratische rechtsstaat wanneer de macht bij de burgers ligt én de overheid gebonden is aan het recht. In een democratische rechtsstaat zijn de democratische en rechtsstatelijke vereisten met elkaar verbonden, en vullen ze elkaar aan. Want het recht waaraan de overheid zich heeft te houden en waaraan het bevoegdheden ontleent, moet op een democratische manier tot stand zijn gekomen. De rechtsstaat waarborgt op zijn beurt dat het democratisch gelegitimeerd bestuur de rechten van minderheden respecteert en niet ontaardt in willekeur of machtsmisbruik.
+
+Een staatsvorm waarbij de macht bij het volk ligt. In een representatieve democratie betekent dit dat burgers hun macht kunnen uitoefenen door hun eigen volks­ vertegenwoordigers te kiezen die op hun beurt op gelegitimeerde wijze beslissingen nemen die bindend zijn voor iedereen; en dat politieke tegenstellingen worden gekanaliseerd en er procedures zijn gesteld om een wisseling van de macht geordend te laten verlopen; dat politieke minderheden worden gerespecteerd en te alle tijde de mogelijkheid kunnen hebben om politieke meerderheid te kunnen worden; en dat via de geëigende procedures van de democratie eerdere beslissingen herzien, gecorrigeerd en verbeterd kunnen worden. Dit laatste betekent dat een grens aan de democratie gesteld wordt: de democratie kan niet gebruikt worden om de democratie af te schaffen.
+
+Het extreemrechtse gedachtengoed waarbij het creëren of versnellen van chaos wordt nagestreefd, om zo een rassen­-oorlog en de vervanging van de democratie door een witte etnostaat te bespoedigen.
+
+Crisisbeheersing
+
+Coördinatie en besluitvorming met een spoedeisend karakter over het geheel van maatregelen, voorzieningen, voorschriften en handelingsperspectieven dat de Rijks­ overheid treft in samenwerking met betrokken publieke en private partners in situaties waarbij de nationale veiligheid in het geding is of kan zijn of bij andere situaties, die een grote uitwerking op de maatschappij (kunnen) hebben.
+
+Cruciale infrastructuur
+
+Processen en diensten die zo essentieel zijn voor samen­ levingen in het Caribisch deel van het Koninkrijk dat uitval of verstoring tot ernstige maatschappelijke ontwrichting leidt en een bedreiging vormt voor de nationale veiligheid.
+
+Democratische rechtsorde
+
+Een maatschappelijke orde die gebaseerd is op recht en democratie. De brede benadering van de democratische rechtsorde ziet deze zowel als; 1. Een politiek systeem (democratische rechtsstaat), waarin de verhouding tussen overheid en burgers georganiseerd wordt, en als 2. Een wijze van samenleven (een open samenleving), waarin verhoudingen tussen burgers onderling georga­ niseerd worden (horizontale as).
+
+Desinformatie
+
+Het doelbewust, veelal heimelijk, verspreiden van misleidende informatie, met het doel om schade toe te brengen aan het publieke debat, democratische processen, de open en kenniseconomie of volksgezondheid. Daarmee kan het de nationale veiligheid raken.
+
+Energietransitie
+
+De overgang van het gebruik van fossiele energie, zoals gas, olie en steenkolen, naar (duurzame) energie uit hernieuwbare/schone bronnen.
+
+De bescherming van de democratische rechtsorde is daardoor niet alleen een juridisch-institutioneel vraagstuk maar ook een maatschappelijk-burgerschapsvraagstuk.
+
+Maatschappelijk ongenoegen
+
+Georganiseerde, ondermijnende criminaliteit
+
+Sociale stabiliteit
+
+Houdt in dat onze samenleving bestand is tegen conflicten van binnenuit en van buitenaf. Sociale stabiliteit is een dynamisch fenomeen: het gaat om het organiseren van duurzame veerkracht in de samenleving zodat deze tegen ‘een stootje kan’. Dit maatschappelijk evenwicht vraagt om voortdurend onderhoud van netwerken waarbij iedereen in de samenleving aan zet is: burgers, gemeenschappen, organisaties, overheid en de samenleving als geheel.
+
+Een gevoel van angst, onzekerheid, onvrede, of miskenning ten gevolge van ongrijpbare fenomenen, zoals onder andere globalisering, klimaatverandering, migratie en ongelijkheid. Maatschappelijk ongenoegen komt voort uit een gevoel van pessimisme.
+
+Als groepen die primair gericht zijn op illegaal gewin systematisch misdaden plegen die ernstige, vaak onder­ mijnende gevolgen voor de samenleving, en in staat zijn om deze misdaden op betrekkelijk effectieve wijze af te schermen.
+
+Hybride conflicten
+
+Open strategische autonomie
+
+Vermogen om als mondiale speler, in samenwerking met internationale partners, op basis van eigen inzichten en keuzes haar publieke belangen te borgen en weerbaar te zijn in een onderling verbonden wereld.
+
+Een conflictvoering tussen staten, grotendeels onder het juridisch niveau van openlijk gewapend conflict, met geïntegreerd gebruik van middelen en actoren, met als doel bepaalde strategische doelstellingen te bereiken.
+
+Polarisatie
+
+Internationale rechtsorde
+
+Vitale infrastructuur
+
+Processen en diensten die zo essentieel zijn voor de Nederlandse samenleving dat uitval of verstoring tot ernstige maatschappelijke ontwrichting leidt en een bedreiging vormt voor de nationale veiligheid.
+
+Het benadrukken van tegenstellingen in de samenleving, met als gevolg dat groepen verder van elkaar verwijderd raken en spanningen toenemen.
+
+Stelsel van normen en afspraken die zijn gericht op het bevorderen van internationale vrede en veiligheid. Dit is onlosmakelijk verbonden met het bereiken van het bevorderen van mensenrechten, een op regels gebaseerd internationaal financieel-economisch bestel en effectieve multilaterale instituties en regimes.
+
+Rechtsstaat
+
+Weerbaarheid
+
+Het vermogen om tegenstand te bieden aan dreigingen, door de kans dat dreigingen zich voordoen te verkleinen, de schade te beperken mochten dreigingen zich toch manifesteren en adequaat herstel mogelijk te maken. Hiervoor treffen we maatregelen in verschillende fases; van pro-actie (wegnemen van oorzaken van onveiligheid) en preventie (voorkomen of vroegtijdig stoppen van dreigingen) tot preparatie (voorbereiden op een goede reactie bij het voordoen van dreigingen), respons (bestrijden van dreigingen die zich voordoen) en nazorg (herstellen naar de normale (nieuwe) situatie).
+
+Een staat die gegrond en gebonden wil zijn aan het recht (rule of law).
+
+Klimaatadaptatie
+
+Risicovolle strategische afhankelijkheden
+
+Het aanpassen van de ruimtelijke omgeving om voorbereid te kunnen zijn op de risico’s die het veranderende klimaat met zich meebrengt.
+
+In een wereld die zich kenmerkt door toenemende complexiteit en onvoorspelbaarheid, is er sprake van een sterke, vaak toenemende wederzijdse internationale afhankelijkheid. Vanwege het open karakter van onze samenleving en onze economie is Nederland hieraan onderworpen. Deze afhankelijkheid brengt risico’s met zich mee.
+
+Klimaatmitigatie
+
+Voorkomen van verdere klimaatverandering door onder andere de uitstoot van broeikasgassen te verminderen.
+
+Maatschappelijke onrust
+
+Sociale cohesie
+
+(Zichtbare) collectieve gedragingen in situaties die voortkomen uit maatschappelijk ongenoegen, uiteen­ lopende van vreedzame en kleinschalige demonstraties tot radicale, strafbare en grootschalige acties.
+
+Whole of government
+
+Overheidsbrede benadering.
+
+Whole of society
+
+Betrokkenheid van mensen onderling, bij maatschappelijke organisaties en andere sociale verbanden en bij de samenleving als geheel.
+
+Samenwerking tussen alle betrokken actoren, inclusief maatschappelijke organisaties, bedrijven en kennis­-instellingen.
+
+Nawerk → Veiligheidsbelangen en impactcriteria
+
+### Nationale veiligheidsbelangen en impactcriteria
+
+Nationaal Veiligheidsbelang Impactcriteria
+
+Territoriale veiligheid 1.1 Aantasting van de integriteit van het grondgebied van het Koninkrijk der Nederlanden 1.2 Aantasting van de integriteit van de internationale positie van het Koninkrijk der Nederlanden 1.3 Aantasting van de integriteit van de digitale ruimte 1.4 Aantasting van de integriteit van het bondgenootschappelijk grondgebied
+
+Fysieke veiligheid 2.1 Doden 2.2 Ernstig gewonden en chronisch zieken 2.3 Gebrek aan primaire levensbehoeften
+
+Economische veiligheid 3.1 Kosten 3.2 Aantasting van de vitaliteit van de economie van het Koninkrijk der Nederlanden
+
+Ecologische veiligheid 4.1 Langdurige aantasting van het milieu en de natuur
+
+Sociale en politieke stabiliteit 5.1 Verstoring van het dagelijkse leven 5.2 Aantasting van de democratische rechtstaat 5.3 Sociaal-maatschappelijke impact
+
+6.1 Aantasting van de normen van staatssoevereiniteit, vreedzame co-existentie en vreedzame geschillenbeslechting 6.2 Aantasting van de werking, legitimiteit dan wel naleving van de internationale verdragen en normen inzake de rechten van de mens 6.3 Aantasting van een op regels gebaseerd internationaal financieel-economisch bestel 6.4 Aantasting van de effectiviteit, legitimiteit van multilaterale instituties 6.5 Instabiliteit van staten grenzend aan het Koninkrijk der Nederlanden en in de directe omgeving van de Europese Unie
+
+Internationale rechtsorde en stabiliteit
+
+Eindnoten
+
+12 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.59. Kamerstukken II 2022/23, 30821, nr. 165.
+
+1 Artikel 5 van het Europees Verdrag van de Rechten van de Mens (EVRM)
+
+stelt het recht op vrijheid en veiligheid: Eenieder heeft recht op vrijheid en veiligheid van zijn persoon. Ook Artikel 6 Handvest van de Grondrechten van de Europese Unie stelt dit: Recht op vrijheid en veiligheid. Eenieder heeft recht op vrijheid en veiligheid van zijn persoon.
+
+26 AIVD, Jaarverslag AIVD 2021, 2022, p.25-26. Kamerstukken II 2022/23, 30977, nr. 162; Analistennetwerk Nationale Veiligheid, Rijksbrede Risico­analyse Nationale Veiligheid - Themarapportage internationale en militaire dreigingen, 2022, p.47. Kamerstukken II 2022/23, 30821, nr. 165
+
+13 NCTV, Nederlandse Cybersecuritystrategie 2022-2028: Ambities en acties voor een digitaal veilige samenleving, 2022, p.3. Kamerstukken II 2022/23, 26643, nr. 925.
+
+2 Met de term nationale veiligheid wordt verwezen naar de nationale
+
+27 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.12. Kamerstukken II 2022/23, 30821, nr. 175.
+
+14 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.21-23. Kamerstukken II 2022/23, 30821, nr. 165.
+
+veiligheid van alle landen binnen het Koninkrijk en de veiligheid van het Koninkrijk als geheel.
+
+28 Bijlage Analistennetwerk Nationale Veiligheid, Verdiepende Analyse: De Gevolgen van de Russische oorlog in Oekraïne voor de Nationale Veiligheid van het Koninkrijk der Nederlanden, 2023; AIVD en MIVD, 24/2 De Russische aanval op Oekraïne: een keerpunt in de geschiedenis, 2023, Kamerstukken II 2022/23; AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022. Kamerstukken II 2022/23, 30821, nr. 175.
+
+15 Volgens United Nations High Commissioner for Refugees (UNHCR) hebben inmiddels 7.1 miljoen Venezolanen het land verlaten waarvan 80% verblijft in Latijns Amerika inclusief Caribische delen van het Koninkrijk. Deze cijfers zijn van januari 2023.
+
+3 Analistennetwerk Nationale Veiligheid, Internationale Rechtsorde als zesde
+
+Nationaal Veiligheidsbelang, 2019, p.17. Waarbij we opmerken dat onze nationale veiligheid op onderdelen wordt ingekaderd via internationale afspraken in onder meer NAVO-en EU-kader.
+
+16 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.16. Kamerstukken II 2022/23, 30821, nr. 165. Zie ook bijlage ‘Nationale veiligheidsbelangen en impactcriteria’.
+
+4 Wetenschappelijke Raad voor het Regeringsbeleid, WRR-rapport nr. 98:
+
+Veiligheid in een wereld van verbindingen: een strategische visie op het defensie­beleid, 2017, p.177-178.
+
+29 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.42. Kamerstukken II 2022/23, 30821, nr. 165.
+
+30 Ministerie van Justitie en Veiligheid en andere departementen, Aanpak statelijke dreigingen en aanbieding dreigingsbeeld statelijke actoren 2, 2022, p.2. Kamerstukken II 2022/23, 30821, nr. 175.
+
+17 Het Caribisch deel van het Koninkrijk heeft met uitzondering van Sint Maarten geen direct aangrenzende landen. Vanuit deze context wordt met de definitie ook verwezen naar nabije staten in de regio.
+
+5 NCTV, Nationaal Handboek Crisisbeheersing, 2022. Kamerstukken II 2022/23,
+
+29517 nr. 25.
+
+6 Hoe de koers wordt uitgevoerd, wordt uitgewerkt in domeinspecifieke
+
+31 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.14, 26-27, 30. Kamerstukken II 2022/23, 30821, nr. 175.
+
+18 NAVO, NATO 2022 Strategic Concept, 2022, p.1-2.
+
+strategieën, beleids-en actieplannen en landelijke crisisplannen voor nationale veiligheid, waarvoor deze strategie als kapstok dient.
+
+19 AIVD en MIVD, 24/2 De Russische aanval op Oekraïne: een keerpunt in de geschiedenis, 2023, p.29. Kamerstukken II 2022/23, 36045, nr. 153.
+
+7 Nationale veiligheid is een begrip dat in verschillende (Europese) wet-en
+
+regelgeving – zoals de Nederlandse Grondwet en het Europees Verdrag van de Rechten van de Mens (EVRM) artikel 8, lid 2, – en door verschillende instanties wordt gebruikt, zonder dat er een eenduidige definitie van bestaat, zowel op Europees als op nationaal niveau.
+
+32 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.33. Kamerstukken II 2022/23, 30821, nr. 175; Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage cyberdreigingen, 2022, p.57. Kamerstukken II 2022/23, 30821, nr. 165; Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage ongewenste inmenging en beïnvloeding, 2022, p.13. Kamerstukken II 2022/23, 30821, nr. 165.
+
+20 Bijlage Analistennetwerk Nationale Veiligheid, Verdiepende Analyse: De Gevolgen van de Russische oorlog in Oekraïne voor de Nationale Veiligheid van het Koninkrijk der Nederlanden, 2023, p.76-77, 90-92; AIVD en MIVD, 24/2 De Russische aanval op Oekraïne: een keerpunt in de geschiedenis, 2023, p.25-29. Kamerstukken II 2022/23, 36045, nr. 153.
+
+8 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale
+
+Veiligheid, 2022. Kamerstukken II 2022/23, 30821, nr. 165.
+
+33 Ministerie van Justitie en Veiligheid en andere departementen, Aanpak statelijke dreigingen en aanbieding dreigingsbeel statelijke actoren 2, 2022, p.5. Kamerstukken II 2022/23, 30821, nr. 175.
+
+21 Bijlage Analistennetwerk Nationale Veiligheid, Verdiepende Analyse: De Gevolgen van de Russische oorlog in Oekraïne voor de Nationale Veiligheid van het Koninkrijk der Nederlanden, 2023, p.94-96.
+
+9 Bijlage Analistennetwerk Nationale Veiligheid, Verdiepende Analyse:
+
+De Gevolgen van de Russische oorlog in Oekraïne voor de Nationale Veiligheid van het Koninkrijk der Nederlanden, 2023.
+
+34 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.22. Kamerstukken II 2022/23, 30821, nr. 165.
+
+22 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.37. Kamerstukken II 2022/23, 30821, nr. 175.
+
+10 Het ANV is een multidisciplinair netwerk van kennisinstellingen (RIVM, AIVD, MIVD, TNO, Clingendael, SEO, en WODC) dat als doel heeft de continuïteit, borging van kennis en multidisciplinaire aanpak rondom analyses op het gebied van nationale veiligheid te versterken.
+
+35 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage klimaat-en natuurrampen, 2022, p.29-34, 43, 67 en 73. Kamerstukken II 2022/23, 30821, nr. 165.
+
+23 Adviesraad Internationale Vraagstukken, AIV Briefadvies 36: Urgentie van een nieuwe Nederlandse Afrikastrategie, 2022. Kamerstukken II 2022/23, 21501-02, nr. 2537.
+
+11 Denk hierbij aan het Dreigingsbeeld Terrorisme Nederland, Dreigingsbeeld Statelijke Actoren en het Cybersecuritybeeld Nederland, maar ook aan wetenschappelijke studies over bijvoorbeeld de impact van klimaat­ verandering op Bonaire. Waar van toepassing wordt naar deze analyses verwezen in de strategie.
+
+36 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.22. Kamerstukken II 2022/23, 30821, nr. 165.
+
+24 Ministerie van Buitenlandse zaken, Beleidskader Mondiaal Multilateralisme: Positionering van het koninkrijk in een veranderende mutilaterale wereldorde, 2022. Kamerstukken II 2022/23, 36200-V, nr. 72.
+
+37 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.53. Kamerstukken II 2022/23, 30821, nr. 165.
+
+25 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.19. Kamerstukken II 2022/23, 30821, nr. 175.
+
+38 World Economic Forum, The Global Risks Report 2019 14 th edition, 2019.
+
+53 NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022, p.3. Kamerstukken II
+
+39 Institute for Environmental Studies (IVM), The Impacts of Climate Change on Bonaire, 2022, p.71.
+
+NCTV, Cybersecuritybeeld Nederland 2022, 2022, p.37, 43. Kamerstukken II 2021/22, 26643, nr. 891; NCTV, Cybersecuritybeeld Nederland 2018, 2018, p.15. Kamerstukken II 2017/18, 26643, nr. 540; Ministerie van Justitie en Veiligheid, Kamerbrief Kwetsbaarheid in Apache Log4j, 2021. Kamerstukken II 2021/22, 26643, nr. 814; Maersk, Maersk Interim Report Q2 2017, 2017.
+
+54 Ministerie van Justitie en Veiligheid, Aanbiedingsbrief Nationale Contra­ terrorisme Strategie 2022-2026, 2022. Kamerstukken II 2021/22, 29754, nr. 641; NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022, p.3-5, 25-27. Kamer­ stukken II 2022/23, 29754, nr. 653.
+
+40 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.65. Kamerstukken II 2022/23, 30821, nr. 165.
+
+41 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage internationale en militaire dreigingen, 2022, p.13 en 47. Kamerstukken II 2022/23, 30821, nr. 165; Clingendael (Netherlands Institute of International Relations), Military Capabilities affected by climate change: An analysis of China, Russia and the United States, 2023; Ministerie van Buitenlandse Zaken, Nederlandse Polaire Strategie 2021-2025: Beslagen ten ijs, 2021; Ministerie van Defensie, Sterker Nederland, Veiliger Europa, Investeren in een Krachtige NAVO en EU: Defensienota 2022, 2022. Kamerstukken II 2021-22, 36124, nr 1; United Nations Climate Change Conference (UNFCC), Decisions taken at the Sharm El-Sheikh Climate Change Conference, 2022.
+
+66 Rijksoverheid, Nederlandse bijdrage aan missies en operaties, geraadpleegd januari 2023.
+
+55 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage ongewenste inmenging en beïnvloeding, 2022, p.7-64. Kamerstukken II 2022-23, 30821, nr. 165; Ministerie van Justitie en Veiligheid, Najaarsbrief Bestrijding georganiseerde criminaliteit, 2022. Kamerstukken II 2022/23, 29911, nr. 379; Nationale Politie, Veiligheid, Vertrouwen en Verbinding: Strategische agenda politie 2021-2025, 2021, p.18.
+
+67 Artikel 90 Grondwet; De regering bevordert de ontwikkeling van de internationale rechtsorde.
+
+68 Ministerie van Buitenlandse zaken, Beleidskader Mondiaal Multi­lateralisme: Positionering van het koninkrijk in een veranderende multi­laterale wereldorde, 2022. Kamerstukken II 2022/23, 36200-V, nr. 72.
+
+56 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage ongewenste inmenging en beïnvloeding demo­cratische rechtsstaat, 2022, p.44. Kamerstukken II 2022-23, 30821, nr. 165.
+
+42 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.25. Kamerstukken II 2022/23, 30821, nr. 175.
+
+69 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.10. Kamerstukken II 2022/23, 30821, nr. 175.
+
+70 De inzet van het Koninkrijk is in overeenstemming met het EU Strategisch Kompas en het NAVO Strategisch Concept.
+
+57 Host nation support is de ondersteuning en facilitering van verplaatsingen van militair materieel en personeel van NAVO-bondgenoten via Nederland. Ten behoeve van oefeningen, wisselingen van eenheden of voor daad­ werkelijke operaties. Nederland ondersteunt als gastland het transport via havens, over de weg, het spoor of door de lucht.
+
+43 Kritieke grondstoffen zijn metalen en mineralen die van groot belang zijn voor onze economie en waarvoor een leveringsrisico bestaat. De snel stijgende vraag naar kritieke grondstoffen wordt voor groot deel verklaard door de energietransitie, omdat deze grondstoffen essentieel zijn in hernieuwbare technologie. Zie bijvoorbeeld International Energy Agency (IEA), The Role of Critical Minerals in Clean Energy Transitions, revised 2022.
+
+71 European Peace Facility (EPF), instrument voor de financiering van operaties in het kader van het gemeenschappelijk buitenland en veiligheidsbeleid die gevolgen hebben op militair of defensiegebied.
+
+58 Bijlsma, M, et al. Geo-economische monitor: Strategische afhankelijkheden, economische beïnvloeding, kennispositie en investeringsstromen, 2022.
+
+44 Ministerie van Economische Zaken en Klimaat, Grondstoffen voor de grote transities, 2022. Kamerstukken II 2022/23, 32852, nr. 224.
+
+72 Ministerie van Defensie, Sterker Nederland, Veiliger Europa, Investeren in een Krachtige NAVO en EU: Defensienota 2022, 2022. Kamerstukken II 2021-22, 36124, nr 1.
+
+59 Bijlage Analistennetwerk Nationale Veiligheid, Verdiepende Analyse: De Gevolgen van de Russische oorlog in Oekraïne voor de Nationale Veiligheid van het Koninkrijk der Nederlanden, 2023, p.38-42; Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage economische dreigingen, 2022, p.31, 57. Kamerstukken II 2022/23, 30821, nr. 165.
+
+45 Zie ook het rapport Voogd, de J. & Cuperus, R. Atlas van afgehaakt Nederland. Over buitenstaanders en gevestigden. Kamerstukken II 2022/23, 36200 VII, nr. 17.
+
+46 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.66. Kamerstukken II 2022/23, 30821, nr. 165.
+
+73 Ministerie van Defensie, Defensie Industrie Strategie in een nieuwe geopolitieke context, 2022. Kamerstukken II 2022/23, 31125, nr. 123.
+
+74 De krijgsmacht heeft niet alleen tot taak om af te schrikken, maar ook om de vitale belangen van het Koninkrijk te beschermen (artikel 97 Grondwet) en de civiele autoriteiten te ondersteunen bij de handhaving van de orde binnen het Koninkrijk, bij het bestrijden van rampen en het beheersen van crises. In buitengewone omstandigheden en oorlog zal de krijgsmacht moeten kunnen fungeren als ‘last line of defence’.
+
+60 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid - Themarapportage Caribisch deel van het Koninkrijk, 2022, p.17, 19-24. Kamerstukken II 2022/23, 30821, nr. 165; Institute for Environmental Studies, The Impact of Climate Change on Bonaire, 2022, p.43.
+
+47 Ongeveer de helft van de Nederlanders geeft de politiek een onvoldoende. De tevredenheid van Nederlanders over het functioneren van de democratie als zodanig blijft daarentegen hoog. Zie Sociaal en Cultureel Planbureau (SCP), Burgerperspectieven Bericht 1 2022 en Bericht 2 2022.
+
+75 Verplaatsingen van militair materieel en personeel van NAVO-bondgenoten via Nederland. Ten behoeve van oefeningen, wisselingen van eenheden of voor daadwerkelijke operaties. Nederland ondersteunt als gastland het transport via havens, over de weg, het spoor of door de lucht.
+
+61 AIVD, MIVD en NCTV, Dreigingsbeeld Statelijke Actoren 2, 2022, p.10. Kamerstukken II 2022/23, 30821, nr. 175.
+
+48 Zie ook kabinetsreactie op het rapport van: Voogd, de J. & Cuperus, R. Atlas van afgehaakt Nederland. Over buitenstaanders en gevestigden. Kamerstukken II 2022/23, 36200 VII, nr. 17.
+
+62 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.50. Kamerstukken II 2022/23, 30821, nr. 165.
+
+49 NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022, p.43. Kamerstukken II 2022/23, 29754, nr. 653.
+
+76 NAVO, NATO 2022 Strategic Concept, 2022, p.6.
+
+63 Kwetsbare cryptografie, waardoor protocollen en gevoelige gegevens niet meer veilig zijn én meer rekenkracht voor kwaadwillenden om geautomatiseerde aanvallen uit te voeren.
+
+50 NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022, p.4, 33-37. Kamerstukken II 2022/23, 29754, nr. 653; AIVD, Jaarverslag AIVD 2021, 2022, p.8. Kamer­ stukken II 2022/23, 30977, nr. 162.
+
+77 Ministerie van Defensie, Een strategisch kompas voor veiligheid en defensie: voor een Europese Unie die haar burgers, waarden en belangen beschermt en bijdraagt aan de internationale vrede en veiligheid, 2022. Kamerstukken II 2021/22, 21501-28, nr. 240.
+
+64 Vliet van, P.j. & Mennen, M.G., Technologieverkenning Nationale Veiligheid: Een verkenning van kansen en dreigingen van technologische ontwikkelingen voor de nationale veiligheid, 2014.
+
+51 Ministerie van Binnenlandse zaken en Koninkrijksrelaties, Versterkte Gedragscode tegen Desinformatie, 2022. Kamerstukken II 2022/23, 30821, nr. 169.
+
+78 Ministerie van Buitenlandse zaken, Beleidskader Mondiaal Multilateralisme: Positionering van het koninkrijk in een veranderende multilaterale wereldorde, 2022. Kamerstukken II 2022/23, 36200-V, nr. 72.
+
+65 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid – Themarapportage cyberdreigingen, 2022, p.11, 27. Kamerstukken II 2022/23, 30821, nr. 165; Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid – Themarapportage Caribisch deel van het Koninkrijk, 2022, p.44. Kamerstukken II 2022/23, 30821, nr. 165;
+
+52 NCTV, Fenomeenanalyse: de verschillende gezichten van de coronaprotesten, 2021, p.8, 11 en 14. Kamerstukken II 2020/21, 29754, nr. 593; Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.26. Kamerstukken II 2022/23, 30821, nr. 165.
+
+79 Ministerie van Defensie, Nationaal Plan Militaire Mobiliteit, Kamerstukken II 2020/21, 35570-x, nr. 75.
+
+94 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Samenstelling en werkzaamheden adviescommissie versterken weerbaarheid democratische rechtsorde, 2022. Kamerstukken II 2022/23, 29279, nr. 753.
+
+80 Ministerie van Defensie, Europese Defensiesamenwerking en specialisatie en appreciatie van rapport ‘Specialising in European defence’ van Instituuut Clingendael, 2022. Kamerstukken II 2022/23, 33279, nr. 36.
+
+Kamerstukken II 2022/23, 31793, nr. 231; Ministerie van Infrastructuur en Waterstaat, Hoogwater­beschermings­programma (HWBP), beschikbaar via www. hwbp.nl.
+
+95 Blijvende inzet op borging van bestaanszekerheid is van belang (zie ook het implementatieplan Aanpak Geldzorgen, Armoede en Schulden). Een gebrek hieraan vormt een mogelijke voedingsbodem voor verschillende fenomenen die een bedreiging kunnen zijn voor de sociale stabiliteit zoals maatschappelijke spanningen, polarisatie en georganiseerde, ondermijnende criminaliteit.
+
+81 Ministerie van Defensie, Sterker Nederland, Veiliger Europa, Investeren in een Krachtige NAVO en EU: Defensienota 2022, 2022. Kamerstukken II 2021-22, 36124, nr 1.
+
+82 Ministerie van Buitenlandse Zaken, Beleidsnotitie 2022: Doen waar Nederland goed in is, strategie voor Buitenlandse Handel & Ontwikkelings­samenwerking, 2022. Kamerstukken II 2021/22, 36180, nr. 1.
+
+108 Ministerie van Infrastructuur en Milieu en Ministerie van Economische Zaken, Nederland Circulair in 2050, 2016. Kamerstukken II 2015/16, 32852, nr. 33; Ministerie van Infrastructuur en Waterstaat, Nationaal Programma Circulaire Economie 2023-2030 (NPCE), 2023. Kamerstukken II 2022/23, 32852, nr. 225.
+
+109 Ministerie van Economische Zaken en Klimaat, Grondstoffen voor de grote transities, 2022. Kamerstukken II 2022/23, 32852, nr. 224.
+
+96 Ministerie van Binnenlandse zaken en Koninkrijksrelaties, Versterkte Gedragscode tegen Desinformatie, 2022. Kamerstukken II 2022/23, 30821, nr. 169.
+
+83 Menselijke veiligheid is het principe dat vrede, veiligheid, mensenrechten en ontwikkeling met elkaar verbonden zijn. Zie ook Nederlandse Organisatie voor Wetenschappelijk Onderzoek, Menselijke veiligheid: een oefening in evenwicht, 2020 en United Nations Trust Fund for Human Security, What is human security?, geraadpleegd in februari 2023 via https://www. un.org/humansecurity/what-is-human-security.
+
+110 Klimaatbestendigheid van vitale infrastructuur helpt ervoor te zorgen dat deze kan blijven functioneren bij crisissituaties. Dit is o.a. van belang voor de uitvoering van militaire operaties van de NAVO en/of het reageren op crises.
+
+97 Ministerie van Justitie en Veiligheid, Bestrijding georganiseerde criminaliteit, 2022. Kamerstukken II 2021/22, 29911, nr. 348; Nationale Politie, Veiligheid, Vertrouwen en Verbinding: Strategische agenda politie 2021-2025, 2021, p.18.
+
+111 Ministerie van Buitenlandse Zaken, Internationale Klimaatstrategie: van ambitie naar transitie, 2022. Kamerstukken II 2022/23, 31793, nr. 231.
+
+98 Ministerie van Justitie en Veiligheid en andere departementen, Aanpak statelijke dreigingen en aanbieding dreigingsbeeld statelijke actoren 2, Kamerstukken II 2022/23, 30821, nr. 175.
+
+84 Ministerie van Buitenlandse zaken, Women, Peace and Security: Nederlands Nationaal Actieplan (NAP 1325-IV (2021-2025)), 2020. Kamerstukken II 2020/21, 26150, nr. 190.
+
+112 Ministerie van Infrastructuur en Waterstaat, Nederlandse Internationale Waterambitie, 2019. Kamerstukken II 2018/19, 32605, nr. 217; Ministerie van Buitenlandse Zaken, Internationale Klimaatstrategie: van ambitie naar transitie, 2022. Kamerstukken II 2022/23, 31793, nr. 231.
+
+99 De EU spreekt hier over Foreign Information Manipulation or Interference (FIMI).
+
+85 Ministerie van Justitie en Veiligheid en andere departementen, Aanpak statelijke dreigingen en aanbieding dreigingsbeeld statelijke actoren 2, 2022, p.8. Kamerstukken II 2022/23, 30821, nr. 175.
+
+100 Ministerie van Justitie en Veiligheid, Wetsvoorstel Uitbreiding Strafbaarheid Spionageactiviteiten, 2022. Kamerstukken II 2022/23, 36280, nr. 2.
+
+86 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Impact coalitieakkoord en stand van zaken wijziging Wiv 2017 (2e herdruk), 2022. Kamerstukken II 2021/22, 34588, nr. 91.
+
+113 Bepaalde processen zijn zo essentieel voor de samenleving dat uitval of verstoring tot ernstige maatschappelijke ontwrichting leidt en een bedreiging vormt voor de nationale veiligheid. Deze processen vormen de vitale infrastructuur. Elektriciteit, toegang tot internet, drinkwater en betalingsverkeer zijn voorbeelden van vitale processen.
+
+101 NCTV, Cybersecuritybeeld Nederland 2022, 2022, p.7-8. Kamerstukken II 2021/22, 26643, nr. 891.
+
+102 NCTV, Nederlandse Cybersecuritystrategie 2022-2028: Ambities en acties voor een digitaal veilige samenleving, 2022. Kamerstukken II 2022/23, 26643, nr. 925.
+
+87 Zoals staat beschreven in artikel 3 van de North Atlantic Treaty, die ten grondslag ligt aan het onstaan van de NAVO, dienen NAVO-leden zich te blijven ontwikkelen op veranderende dreigingen. Hierbij is het vergroten van bewustwording over hybride dreigingen evident.
+
+114 Ministerie van Infrastructuur en Waterstaat, Kamerbrief Strategie ter bescherming van Noordzee-infrastructuur, 2023. Kamerstukken II 2022/23, 33450, nr. 118.
+
+103 NCTV, Nederlandse Cybersecuritystrategie 2022-2028: Ambities en acties voor een digitaal veilige samenleving, 2022. Kamerstukken II 2022/23, 26643, nr. 925; Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Werkagenda ‘Waardengedreven Digitaliseren’, 2022. Kamerstukken II 2022/23, 26643, nr. 940. De Europese richtlijnen Network and Information Security 2 Directive (NIS2) en de richtlijn voor Critical Entities Resilience (CER) bepalen o.a. de prioriteiten van de inzet.
+
+88 NCTV, Nederlandse Cybersecuritystrategie 2022-2028: Ambities en acties voor een digitaal veilige samenleving, 2022. p.40. Kamerstukken II 2022/23, 26643, nr. 925.
+
+89 Ministerie van Buitenlandse Zaken, Beleidsnotitie 2022: Doen waar Nederland goed in is, strategie voor Buitenlandse Handel & Ontwikkelings­samenwerking, 2022. Kamerstukken II 2021/22, 36180, nr. 1.
+
+115 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.26. Kamerstukken II 2022/23, 30821, nr. 165.
+
+116 Ministerie van Volksgezondheid, Welzijn en Sport, Infectie­ziekten­bestrijding – Beleidsagenda pandemische paraatheid, 2022. Kamerstukken II 2021/22, 25295, nr. 1836; Ministerie van Volksgezondheid, Welzijn en Sport, Infectie­ziektenbestrijding – Beleidsprogramma pandemische paraatheid, 2022. Kamerstukken II, 2022/23, 25295, nr. 1964.
+
+104 NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022. Kamerstukken II 2022/23, 29754, nr. 653.
+
+90 Ministerie van Economische Zaken en Klimaat, Grondstoffen voor de grote transities, 2022. Kamerstukken II 2022/23, 32852, nr. 224. Op gebied van technologie zal medio 2023 voor Nederland de Nationale Technologie­ strategie worden gepubliceerd.
+
+105 NCTV, Nationale Contraterrorisme Strategie 2022-2026, 2022. Kamerstukken II 2021/22, 29754, nr. 641.
+
+117 Onder meer door regionale samenwerking tussen de zorgverzekeraars en de oprichting van the Dutch Caribbean Hospital Alliance (DCHA).
+
+106 NCTV, Nationaal Handboek Crisisbeheersing, 2022. Kamerstukken II 2022/23, 29517, nr. 225.
+
+91 Ministerie van Buitenlandse Zaken, Kamerbrief Open Strategische Autonomie, 2022. Kamerstukken II, 2022/23, 35982, nr. 9.
+
+118 Ministerie van Justitie en Veiligheid, Contourennota Versterking Crisisbeheersing en Brandweerzorg, 2022. Kamerstukken II, 2022/23, 29517 nr. 225.
+
+107 Klimaatwet, Staatsblad 2019, 253; Ministerie van Economische zaken en klimaat, Klimaatplan 2021-2030, 2019. Kamerstukken II 2019/20, 32813, nr. 406; Ministerie van Economische zaken en klimaat, Ontwerp beleids­ programma Klimaat, 2022. Kamerstukken II 2021/22, 32813, nr. 1049; Ministerie voor Infrastructuur en Waterstaat, Deltaprogramma 2023, 2022. Kamerstukken II 2022/23, 36200-J nr. 4; Ministerie van Infra­structuur en Milieu, Aanpassen met ambitie: Nationale klimaatadaptatiestrategie 2016 (NAS), 2016. Kamerstukken II 2016/17, 31793, nr. 162; Ministerie van Buitenlandse Zaken, Internationale Klimaatstrategie: van ambitie naar transitie, 2022.
+
+92 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.31-40. Kamerstukken II 2022/23, 30821, nr. 165.
+
+93 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022, p.66. Kamerstukken II 2022/23, 30821, nr. 165; NCTV, Dreigingsbeeld Terrorisme Nederland 57, 2022, p.33-34. Kamerstukken II
+
+119 Bijvoorbeeld het Framework Western Hemisphere Allied Cooperation (FWHAC).
+
+120 Ministerie van Justitie en Veiligheid, Rapportage over de evaluatie van de Veiligheidswet BES, 2022. Kamerstukken II 2021/22, 29517, nr. 221; Ministerie van Justitie en Veiligheid, Beleidsreactie op de evaluatie van de Veiligheidswet BES, 2022. Kamerstukken II 2022/23, 29517, nr. 228.
+
+121 Met overheid wordt gedoeld op zowel de overheid van Nederland als de overheden van de autonome landen binnen het Koninkrijk.
+
+122 Dit gebeurt door voortzetting van de Stuurgroep Rijksbrede Veiligheids­ strategie waarin alle betrokken partijen zijn vertegenwoordigd en via de onderradenstructuur voor de Raad Defensie, Internationale, Nationale en Economische Veiligheid (RDINEV), waarbij ook andere betrokken ministeries worden uitgenodigd (ministerie van Volksgezondheid, Welzijn en Sport, ministerie van Infrastructuur en Waterstaat, ministerie van Sociale Zaken en Werkgelegenheid en ministerie van Landbouw, Natuur en Voedselkwaliteit). Een deel verloopt ook via de Stuurgroep Missies en Operaties (SMO) en Raad Veiligheid en Inlichtingen (RVI).
+
+123 In het geval dat dit leidt tot aanpassingen in de koers voor Nederland, wordt dit geagendeerd in de RDINEV waarbij ook andere betrokken ministeries worden uitgenodigd.
+
+124 Voor een aantal terreinen is dit al gebeurd, zoals de Nationale Contraterrorisme Strategie en de Nederlandse Cybersecuritystrategie.
+
+125 Bestaande overleggen zoals het Justitieel Vierlanden Overleg, Koninkrijksoverleg Buitenlandse Betrekkingen (KOBB), Beleidsoverleg Buitenlandse Betrekkingen (BOBB), Kustwachtpresidium en de Rijksministerraad kunnen hiervoor worden ingezet.
+
+126 Er wordt in dit kader gewerkt aan het opzetten van een Masterclass Nationale Veiligheid door de Nederlandse Defensie Academie, in samenwerking met onder meer de academies van Buitenlandse Zaken, NCTV en de Nationale Politie.
+
+127 Onder meer de academies van het ministerie van Defensie, Buitenlandse Zaken en de NCTV.
+
+128 Denk hierbij onder meer aan de jaarlijkse ‘Buitenland Barometer’ van Clingendael en de halfjaarlijkse Risico-en Crisisbarometer in opdracht van de NCTV.
+
+129 Analistennetwerk Nationale Veiligheid, Rijksbrede Risicoanalyse Nationale Veiligheid, 2022. Kamerstukken II 2022/23, 30821, nr. 165.
+
+De Veiligheidsstrategie voor het Koninkrijk der Nederlanden is tot stand gekomen met een brede betrokkenheid van publieke, private en maatschappelijke organisaties in alle delen van het Koninkrijk, onder coördinatie van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV).
+
+www.rijksoverheid.nl/veiligheidsstrategie

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/regeringen.se/nationell-sakerhetsstrategi@2017",
+  "name": "Nationell säkerhetsstrategi (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "nationell-sakerhetsstrategi-2017",
+  "owner": "Regeringskansliet / Sveriges regering",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nationell säkerhetsstrategi (adopted January 8, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Regeringskansliet / Sveriges regering (regeringen.se) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Regeringskansliet / Sveriges regering (regeringen.se).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.regeringen.se/contentassets/fa7bceced8a548ada27f45b24f611714/nationell-sakerhetsstrategi.pdf",
+    "textUsed": "https://www.regeringen.se/contentassets/fa7bceced8a548ada27f45b24f611714/nationell-sakerhetsstrategi.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-01-08",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/regeringen.se/nationell-sakerhetsstrategi@2024",
+    "retiredFromActiveUse": "2024-07-02",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 48-page PDF (https://www.regeringen.se/contentassets/fa7bceced8a548ada27f45b24f611714/nationell-sakerhetsstrategi.pdf) locally via PyMuPDF (85,502 chars). Parsed 16 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

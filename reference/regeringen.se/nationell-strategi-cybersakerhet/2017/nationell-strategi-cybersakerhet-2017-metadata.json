@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/regeringen.se/nationell-strategi-cybersakerhet@2017",
+  "name": "Nationell strategi för samhällets informations- och cybersäkerhet (Skr. 2016/17:213)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "nationell-strategi-cybersakerhet-2017",
+  "owner": "Regeringskansliet / Sveriges regering",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nationell strategi för samhällets informations- och cybersäkerhet (Skr. 2016/17:213, June 29, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Regeringskansliet / Sveriges regering (regeringen.se) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Regeringskansliet / Sveriges regering (regeringen.se).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.regeringen.se/rattsliga-dokument/skrivelse/2017/06/skr.-201617213",
+    "textUsed": "https://www.regeringen.se/contentassets/3f89e3c77ad74163909c092b1beae15e/nationell-strategi-for-samhallets-informations--och-cybersakerhet-skr.-201617213",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-06-29",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/regeringen.se/nationell-strategi-cybersakerhet@2025-2029",
+    "retiredFromActiveUse": "2025-03-13",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 35-page PDF (https://www.regeringen.se/contentassets/3f89e3c77ad74163909c092b1beae15e/nationell-strategi-for-samhallets-informations--och-cybersakerhet-skr.-201617213) locally via PyMuPDF (88,117 chars). Parsed 15 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cncs.gov.pt/ai-portugal-2030@2026",
+  "name": "AI Portugal 2030 & National Artificial Intelligence Agenda (Estratégia Nacional de Inteligência Artificial) (2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026",
+  "publication_id": "ai-portugal-2030-2026",
+  "owner": "National Cybersecurity Centre (CNCS) & Government of Portugal",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "AI Portugal 2030 & National Artificial Intelligence Agenda (Estratégia Nacional de Inteligência Artificial)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.portugal.gov.pt/pt/gc21/comunicacao/documento?i=estrategia-nacional-de-inteligencia-artificial",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-01-01",
+    "active": true,
+    "supersedes": "secid:reference/cncs.gov.pt/ai-portugal-2030@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cncs.gov.pt/ai-portugal-2030@2026 (https://www.portugal.gov.pt/pt/gc21/comunicacao/documento?i=estrategia-nacional-de-inteligencia-artificial) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

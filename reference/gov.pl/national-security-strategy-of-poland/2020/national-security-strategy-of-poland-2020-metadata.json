@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gov.pl/national-security-strategy-of-poland@2020",
+  "name": "National Security Strategy of the Republic of Poland (Strategia Bezpieczeństwa Narodowego RP) (2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "national-security-strategy-of-poland-2020",
+  "owner": "Government of the Republic of Poland (Serwis Rzeczypospolitej Polskiej)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy of the Republic of Poland (Strategia Bezpieczeństwa Narodowego RP)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Republic of Poland (Serwis Rzeczypospolitej Polskiej) (gov.pl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Republic of Poland (Serwis Rzeczypospolitej Polskiej) (gov.pl).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (gov.pl); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (gov.pl); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bbn.gov.pl/pl/wydarzenia/8806,Strategia-Bezpieczenstwa-Narodowego-RP.html",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-05-12",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gov.pl/national-security-strategy-of-poland@2020 (https://www.bbn.gov.pl/pl/wydarzenia/8806,Strategia-Bezpieczenstwa-Narodowego-RP.html) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

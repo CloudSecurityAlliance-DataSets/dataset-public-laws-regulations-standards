@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2021",
+  "name": "Iceland Policy on Artificial Intelligence & AI Action Plan (2024–2026) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "policy-on-artificial-intelligence-2021",
+  "owner": "Government of Iceland (Stjórnarráð Íslands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2021 edition of Iceland Policy on Artificial Intelligence & AI Action Plan (2024–2026) (Iceland Policy on Artificial Intelligence & AI Action Plan (2024–2026) (2021)), published by Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (stjornarradid.is); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (stjornarradid.is); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021/04/20/Stefna-Islands-um-gervigreind-kynnt/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-04-20",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2024",
+    "retiredFromActiveUse": "2024-11-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2021 (https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021/04/20/Stefna-Islands-um-gervigreind-kynnt/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

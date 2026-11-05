@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/rijksoverheid.nl/nederlandse-cybersecuritystrategie@2022-2028",
+  "name": "Nederlandse Cybersecuritystrategie 2022–2028",
+  "acronym": "NLCS",
+  "alternate_names": [],
+  "version": "2022-2028",
+  "publication_id": "nederlandse-cybersecuritystrategie-2022-2028",
+  "owner": "Rijksoverheid (Government of the Netherlands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nederlandse Cybersecuritystrategie 2022–2028 (October 10, 2022). Cabinet-wide Netherlands Cybersecurity Strategy (2022–2028) structured around four pillars and accompanied by an integrated Action Plan and annual progress monitoring by the NCTV and NCSC-NL.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.rijksoverheid.nl/documenten/rapporten/2022/10/10/tk-bijlage-1-nederlandse-cybersecuritystrategie-2022-2028",
+    "textUsed": "https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-10-10",
+    "active": true,
+    "supersedes": "secid:reference/rijksoverheid.nl/nederlandse-cybersecuritystrategie@2018",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 30-page PDF (https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf) locally via PyMuPDF (136,001 chars). Parsed 54 sections (17 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

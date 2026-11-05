@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/kam.lrv.lt/national-security-strategy@2021",
+  "name": "National Security Strategy of the Republic of Lithuania (Nacionalinio saugumo strategija) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-security-strategy-2021",
+  "owner": "Ministry of National Defence of the Republic of Lithuania (KAM)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy of the Republic of Lithuania (Nacionalinio saugumo strategija)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (kam.lrv.lt); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (kam.lrv.lt); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://kam.lt/en/national-security-strategy-and-defence-policy/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-12-16",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/kam.lrv.lt/national-security-strategy@2021 (https://kam.lt/en/national-security-strategy-and-defence-policy/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

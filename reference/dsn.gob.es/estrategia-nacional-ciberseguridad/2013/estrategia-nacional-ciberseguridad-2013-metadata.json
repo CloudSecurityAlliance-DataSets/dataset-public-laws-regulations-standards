@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2013",
+  "name": "Estrategia de Ciberseguridad Nacional 2013",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "estrategia-nacional-ciberseguridad-2013",
+  "owner": "Departamento de Seguridad Nacional",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia de Ciberseguridad Nacional 2013 (approved December 5, 2013).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.lamoncloa.gob.es/documents/20131332estrategiadeciberseguridadx.pdf",
+    "textUsed": "https://www.lamoncloa.gob.es/documents/20131332estrategiadeciberseguridadx.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-12-05",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2019",
+    "retiredFromActiveUse": "2019-04-12",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 43-page PDF (https://www.lamoncloa.gob.es/documents/20131332estrategiadeciberseguridadx.pdf) locally via PyMuPDF (55,208 chars). Parsed 17 sections (6 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

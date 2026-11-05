@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2019",
+  "name": "Danish National Strategy for Artificial Intelligence (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-strategy-for-artificial-intelligence-2019",
+  "owner": "Centre for Cyber Security (CFCS) & Government of Denmark",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2019 edition of Danish National Strategy for Artificial Intelligence (Danish National Strategy for Artificial Intelligence (2019)), published by Centre for Cyber Security (CFCS) & Government of Denmark (cfcs.dk).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Centre for Cyber Security (CFCS) & Government of Denmark (cfcs.dk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Centre for Cyber Security (CFCS) & Government of Denmark (cfcs.dk).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (cfcs.dk); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (cfcs.dk); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://en.digst.dk/strategy/the-danish-national-strategy-for-artificial-intelligence/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-03-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2024",
+    "retiredFromActiveUse": "2024-06-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2019 (https://en.digst.dk/strategy/the-danish-national-strategy-for-artificial-intelligence/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

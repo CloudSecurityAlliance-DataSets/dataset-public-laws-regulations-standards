@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mod.gov.lv/cybersecurity-strategy-of-latvia@2023",
+  "name": "Cybersecurity Strategy of Latvia (2023–2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "cybersecurity-strategy-of-latvia-2023",
+  "owner": "Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cybersecurity Strategy of Latvia (2023–2026)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija) (mod.gov.lv) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija) (mod.gov.lv).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (mod.gov.lv); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (mod.gov.lv); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mod.gov.lv/en/nozares-politika/kiberdrosiba/latvijas-kiberdrosibas-strategija",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-03-28",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mod.gov.lv/cybersecurity-strategy-of-latvia@2023 (https://www.mod.gov.lv/en/nozares-politika/kiberdrosiba/latvijas-kiberdrosibas-strategija) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

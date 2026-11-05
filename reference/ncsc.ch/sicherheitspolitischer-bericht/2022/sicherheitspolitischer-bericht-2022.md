@@ -1,0 +1,669 @@
+# Supplementary Report to the Security Policy Report 2021 (2022)
+
+## Supplementary report to the report on security policy of 2021 on the consequences of the war in Ukraine
+
+Report of the Federal Council of 7 September 2022
+
+Table of contents
+
+1 Introduction ...................................................................................................................... 3
+
+2 The war in Ukraine ........................................................................................................... 4
+
+3 International reactions ...................................................................................................... 5
+
+4 Reactions of Switzerland .................................................................................................. 7
+
+4.1 Decisions and measures .................................................................................................... 7
+
+4.2 Reactions in public and politics ........................................................................................ 8
+
+5 Changed security policy environment of Switzerland .................................................... 11
+
+6 Conclusions for Swiss security policy ............................................................................ 13
+
+7 International cooperation ................................................................................................ 14
+
+7.1 Point of departure ........................................................................................................... 14
+
+7.2 Cooperation with NATO ................................................................................................ 15
+
+7.3 Cooperation with the European Union ........................................................................... 18
+
+8 Consequences for the armed forces’ orientation and capabilities .................................. 20
+
+9 Findings for other affected areas .................................................................................... 23
+
+9.1 Early detection ................................................................................................................ 23
+
+9.2 Civil protection ............................................................................................................... 23
+
+9.3 Crisis management ......................................................................................................... 24
+
+9.4 Crime, energy supply, asylum system ............................................................................ 24
+
+10 Conclusion ...................................................................................................................... 25
+
+2/29
+
+1 Introduction
+
+Point of departure
+
+On February 24, 2022, Russia launched a military attack on Ukraine. With this attack, which violates international law, Russia has destroyed the basis for a rule-based peace order in Europe. The western states reacted vehemently and united, with extensive economic, energy and financial sanctions and the supply of large quantities of war materiel to Ukraine. The war has long-term effects on Europe and beyond. These are not limited to security and defence policy, but also in-clude foreign, economic, financial, energy and environmental policy.
+
+Switzerland is committed to fundamental principles such as freedom and democracy, compliance with international law and respect for state sovereignty and integrity. She has strongly condemned Russia's war of aggression and adopted the sanctions imposed by the European Union. The war in Ukraine triggered an intensive public discussion about how Switzerland should position itself both now and in the longer term, particularly with regard to international cooperation in security policy. In this context, it is decisive which interpretation of neutrality Switzerland applies.
+
+In statements on the war (e.g. in responses to various parliamentary motions), the Federal Council has taken the position that the Report on Security Policy of November 24, 20211 remains a solid basis for Switzerland's security policy, also in view of the war in Ukraine: The report already took into account a significantly deteriorated security situation and pointed to the risk of a military escalation on Europe's eastern border. The security policy objectives and implementation measures for the next few years have already been defined accordingly. However, the war in Ukraine has made the need for action in certain areas even more urgent.
+
+The war in Ukraine will have lasting effects on security and international cooperation in Europe, the relations between western states and Russia – and hence also on Switzerland. The armed forces, Switzerland's core instrument for defence and repelling armed conflicts, are particularly affected, but other areas such as intelligence and civil protection are also concerned.
+
+Aim and content of the supplementary report
+
+In order to do justice to the significance of this war as a far-reaching event with lasting effects on security in Europe, the Federal Council held out the prospect of carrying out an analysis of the war and its consequences as quickly as possible. Based on the Report on Security Policy of 2021, the additional report analyses the war in Ukraine and its consequences. It deals with the findings from the war relevant to security policy, insofar as these can already be assessed, and focuses in particular on the new dynamics of cooperation in security and defence policy in Europe. The report explains why international cooperation has become even more urgent for Switzerland with the war in Ukraine and shows concrete ways in which this cooperation could be intensified.
+
+In addition, the DDPS commissioned the Center for Security Studies (CSS) at the Federal Institute of Technology (ETH) Zurich to carry out an analysis of Switzerland's cooperation in security and defence policy in Europe, the results of which have been incorporated in this report. The DDPS also mandated former Swiss Ambassador Jean-Jacques de Dardel to conduct an independent anal-ysis of security policy cooperation in Europe, the results of which were also taken into account in the report.
+
+1 The Security Policy of Switzerland. Report of the Federal Council of 24 November 2021.
+
+3/29
+
+2 The war in Ukraine
+
+Aggravation of the situation
+
+Ukraine and Georgia announced already in 2008 their willingness to join NATO. Mainly out of consideration for Russia, NATO did not offer either country any concrete prospects of accession, but kept the door to membership open for an indefinite future. Little later, armed conflict between Russia and Georgia broke out, after which Russia de facto annexed the breakaway Georgian re-gions of Abkhazia and South Ossetia. Subsequently, cooperation between Ukraine and NATO member countries was intensified, especially in training and exercises. After the uprising against Ukrainian President Yanukovych, Russia annexed Crimea in 2014 and supported (including mil-itarily) separatist movements in the Donetsk and Luhansk regions of eastern Ukraine. Various attempts, with the support of European states, the EU and the OSCE, to resolve the conflict po-litically were unsuccessful.
+
+In the course of 2021, the situation came to a head: Russia demanded from the USA and NATO – in contradiction to the Helsinki Final Act and numerous subsequent documents – that NATO’s military presence be restored to the level of 1997, including the withdrawal of troops and the abandonment of exercises in member states that have since joined the Alliance. Russia also de-manded that NATO should not accept any additional former parts of the Soviet Union as mem-bers. The USA and NATO rejected these demands because they would have restricted the sover-eignty of Ukraine and Georgia, reduced the security of the Central and Eastern European NATO members and established a sphere of influence for Russia against the explicit will of the states concerned.
+
+Russia began deploying substantial military forces north and east of Ukraine, including in Bela-rus, in late 2021. This troop presence was obviously intended to put pressure on Ukraine. Until February 2022, Moscow consistently denied that an attack on Ukraine was planned; it claimed that the troops were in the border areas for exercises and would be withdrawn again.
+
+Attack of Russia on Ukraine
+
+On February 24, 2022, Russia attacked Ukraine with massive use of military force. The reason given was that Russia had to take preventive action to prevent Ukraine from becoming a NATO member and subsequently one day wanting to recapture Crimea by force of arms. Ukraine, Russia claimed, was also trying to acquire nuclear weapons. It should permanently renounce NATO membership, declare its neutrality and give up all territorial claims to the Crimean Peninsula. Furthermore, Ukraine must be forced to end the “genocide" of the population of the "People's Republics" of Donetsk and Luhansk (recognized a few days before the attack by Russia). Ukraine should be "disarmed" and “denazified" so that it could no longer threaten Russia in the future. The President of Russia made it clear that the task at hand was to depose or eliminate the elected government of Ukraine. He even denied Ukraine's right to exist.
+
+The invasion across the Russian and Belarusian borders was accompanied by a naval blockade of Ukrainian Black Sea ports and campaigns in cyber, electromagnetic and information space. So far, the war has obviously not gone according to plan for Russia. Russia has significantly under-estimated Ukraine's defence readiness and overestimated its own military capabilities. Ukraine resisted more strongly than expected and received support – military materiel, reconnaissance and financial assistance – from many states. After an initial push reaching the Kyiv suburbs, which had to be aborted, Russia subsequently focused on gaining full control of the Donetsk and Luhansk regions and securing a land connection from there to the Crimean Peninsula. In addition, favourable conditions should be created for a possible later advance towards Odessa in order to control the entire Black Sea coast. The war has since developed into a war of attrition. Both sides are attempting to put themselves in the best possible military position for subsequent negotiations.
+
+4/29
+
+Aspects of international law
+
+By attacking Ukraine, Russia committed multiple serious violations of international law. With its actions, Russia is in particular violating the prohibition of violence enshrined in international law and the territorial integrity and sovereignty of Ukraine. In the 1994 Budapest Memorandum, Rus-sia undertook to respect the sovereignty and borders of Ukraine and Kazakhstan in exchange for these countries renouncing nuclear weapons. The annexation of Crimea in 2014 clashes with this obligation, as does Russia's recognition of the so-called "People's Republics" of Donetsk and Luhansk as independent states in February 2022. The demand for a binding guarantee that a state will never join NATO violates the sovereign right of states to determine their foreign relations themselves. The demand to have a say in the foreign and defence policy of another state, thus curtailing its sovereignty, is not admissible.
+
+There are many indications that the Russian army has committed war crimes in Ukraine. These include the murder of uninvolved civilians and attacks on civilian objects – according to interna-tional humanitarian law, only military objects may be attacked. Russia has repeatedly suggested that it may use nuclear weapons. This violation of international law is particularly galling given that Russia, as a permanent member of the UN Security Council, has explicit responsibility for maintaining international peace and on January 3, 2022, just weeks before the attack on Ukraine, had declared, along with the other permanent members of the Security Council, that a nuclear war could not be won and should never be fought.
+
+Global repercussions of the war
+
+The war in Ukraine has multiple, far-reaching and global implications in various policy areas. It has impacted the supply situation and supply chains worldwide. Energy prices have increased worldwide, in some cases massively, and exacerbate the already high inflation in many countries. The serious disruptions in the supply of important staple foods are particularly serious, as Ukraine is one of the world's most important grain exporters. Russia is using the blockade of food exports as a means to extract concessions, such as an easing of the sanctions imposed by Western states. Furthermore, the war and the extensive sanctions against Russia have led to increased pressure on trading and financial centres, as the trade and sale of a wide range of Russian products, and business relationships with a large number of sanctioned Russian persons have been prohibited.
+
+The war has also triggered massive flows of refugees. A total of over 15 million people have been displaced, more than 7 million inside Ukraine and around 8 million outside (as of August 2022). Migration movements, which do not directly threaten the security of Europe or Switzerland, but are a burden on the host countries, can also be used as an element of hybrid warfare to exert pressure. The war in Ukraine may also have an impact on crime, for example in the areas of human and arms trafficking, fraud (e.g., pretended charitable purposes), narcotics, money laun-dering and cyber attacks.
+
+3 International reactions
+
+Reactions of states
+
+Russia's attack on Ukraine was condemned by almost all European countries, the European Un-ion, the USA, Canada, Japan, South Korea, Singapore, Australia and New Zealand. On March 2, 2022, 141 states of the UN General Assembly approved a resolution that considers Russia's ac-tions as aggression, reaffirms Ukraine's sovereignty, independence and territorial integrity and calls on Russia to withdraw its troops immediately. Only Belarus, Eritrea, North Korea and Syria,
+
+5/29
+
+together with Russia, rejected the resolution. 35 states abstained, including China, India and South Africa; 12 were absent, including Uzbekistan and Turkmenistan.
+
+China's position is ambiguous: On the one hand it strongly advocates respect for the sovereignty and territorial integrity of states, which Russia's war against Ukraine openly contradicts, on the other hand it supports in official government statements various Russian positions. As a result, China has so far avoided clearly taking sides, concentrating on regretting the war and calling on the parties to exercise restraint and negotiate.
+
+Finland and Sweden – until the 1990s neutral and subsequently non-allied states – took an abrupt turn in security policy as a result of the war and have submitted applications to join NATO. At the Madrid summit in June 2022, the Alliance invited the two Nordic countries to become mem-bers. At the same time, Denmark decided in a referendum to give up its caveats about the common security and defence policy of the European Union – a turning point in its policy.
+
+A group of around 50 states, coordinated by the USA, is providing Ukraine with military support, both financially and with armaments, including heavy weapons such as artillery pieces.2 The USA in particular have made intelligence information available to Ukraine. In order to avoid further escalation between NATO and Russia, various states are showing a certain restraint in supporting Ukraine with war materiel.
+
+Russia's war against Ukraine has prompted many states in Europe to step up their defence readi-ness. Several countries have decided to increase their defence budgets substantially over the next few years, including Germany, Sweden and the Netherlands. The war also reinforced the ten-dency, already visible before, to re-emphasise the ability and readiness for territorial defence.
+
+Reactions of international organizations
+
+In NATO, the collective defence of the alliance's territory has again absolute priority. NATO had already increased its readiness before the war, and after the Russian attack on Ukraine it quickly took measures to protect the allies. The posture on the eastern border of the alliance was signifi-cantly increased by an increased deployment of troops to the Baltic, eastern and south-eastern European states. In addition, a sizable number of combat aircraft are on permanent high alert, and ships under NATO command have been stationed in the North Atlantic, in the North and Baltic Seas and in the Mediterranean. At the summit meeting in Madrid at the end of June 2022, NATO also adopted a new strategic concept in which Russia was identified as the main threat to Europe's security, and took further measures to strengthen the eastern flank. The US has increased its troop presence in Europe from 68,000 to over 100,000, underscoring its contribution and importance to the alliance and European security. In recent years, NATO has supported the capacity building of the Ukrainian armed forces. Rapid and effective western support is only possible because interop-erability has been brought about beforehand. However, military support for Ukraine during the war is provided outside of NATO, which wants to avoid a direct military confrontation with Rus-sia.
+
+The European Union (EU) reacted quickly to Russia's war of aggression. It has provided massive humanitarian aid and extraordinary macro-financial assistance of up to € 9 billion to stabilize Ukraine's economy. For the first time, a guideline was activated to quickly grant refugees provi-sional protection. It imposed several packages of sanctions on Russia and Belarus. These include individual sanctions against persons and organizations, including the Russian President and the Foreign Minister, as well as economic and financial measures. The aerospace industry, dual-use goods, raw materials and the energy sector, including oil imports, are also affected. In addition,
+
+2 Switzerland does not belong to this group because, as a neutral state, it is subject to obligations under international law when it comes to arms exports (namely the principle of equal treatment with regard to private exports) and, also in accordance with the War Material Act, does not supply arms to parties to an armed conflict.
+
+6/29
+
+the EU has introduced restrictions on visas, media and transport. There were also coordinated actions to expel Russian intelligence officers accredited as diplomatic staff. European non-EU countries have also joined the sanctions of the EU, including Switzerland. Outside Europe, the USA, Canada, Japan, South Korea, Singapore, Australia and New Zealand have imposed sanc-tions. In addition to the sanctions packages, the EU provided through the European Peace Facility, which was used for the first time to supply weapons systems, two and a half billion euros in support of the Ukrainian armed forces. As a result of the war, the EU is aiming for a complete termination of fossil fuel imports from Russia by 2030 at the latest. With the “strategic compass”, the EU presented an ambitious plan of action on March 21, 2022 to increase its military capacity to act and strengthen its defence capabilities. Europol has suspended police cooperation with Rus-sia.3 Eurojust provides judicial cooperation between countries that have initiated investigations into war crimes committed in Ukraine. At his meeting of June 23-24, 2022, the European Council granted Ukraine candidate status for EU membership.4
+
+The Organisation for Security and Cooperation in Europe (OSCE) would actually be predestined as a forum for dialogue between Western states and Russia, as a complement to NATO's deter-rence and defence against Russia. Since the Russian attack, however, the OSCE’s ability to act has been impaired even more than before, since Russia and Belarus can block decisions. The Ukraine conflict had been the OSCE's main area of activity since 2014, but the observer mission in Ukraine had to be terminated as Russia refused to extend its mandate.
+
+The United Nations is unable to adopt legally binding measures due to Russia's right of veto in the Security Council. The 141 states that condemned the attack on Ukraine in the General Assem-bly gave thereby a sign of political support to Ukraine.
+
+4 Reactions of Switzerland
+
+### 4.1 Decisions and measures
+
+On February 23, 2022, the Federal Council condemned Russia's recognition of the two Ukrainian regions of Donetsk and Luhansk as independent states as an act contrary to international law and a violation of the territorial integrity and sovereignty of Ukraine. Switzerland strongly condemned the subsequent Russian attack on Ukraine and called on Russia to end the military aggression immediately and withdraw its troops from Ukrainian soil.
+
+On February 28, 2022, the Federal Council decided to adopt the EU sanctions against Russia. So far, Switzerland has implemented the EU sanctions packages – with the exception of the media bans and the bans on road and water transport (which are irrelevant for Switzerland). This trig-gered a discussion on Switzerland's sanctions policy, as shown by several parliamentary motions.5 The Federal Council has also issued entry bans against various people.
+
+Referring to its neutrality and the provisions of the War Materiel Act of December 13, 1996,6 Switzerland made it clear from the outset that it cannot and will not allow arms deliveries to a party involved in an international armed conflict. It has also rejected requests from other states to pass on war materiel procured from Switzerland to Ukraine.
+
+Switzerland responded to the war in Ukraine by quickly providing humanitarian aid, namely by delivering relief supplies, deploying experts from the Swiss Humanitarian Aid Unit and providing
+
+3 The international criminal police organization Interpol refrained from excluding Russia, but tightened its control regime for Rus-sian alerts (e.g., police searches for persons) in order to prevent any abuses. 4 At the same meeting, Moldova was granted candidate status, and Georgia was given the prospect of a European perspective.
+
+5 22.3395 Motion of the Committee for Foreign Policy of the National Council «Coherent, comprehensive and autonomous sanc-tions policy», 22.3455 Motion oft he Social-Democratic Parliamentary Group «Create legal basis for the use of frozen assets for the reconstruction of Ukraine» or the current amendment of the Embargo Act (19.085). 6 Classified compilation of federal law 514.51
+
+7/29
+
+financial support to humanitarian organisations. The Swiss armed forces provided equipment for humanitarian aid, including medical equipment and civilian protective material. As usual, Swit-zerland also offered its good offices for mediation activities and was able to negotiate a protective power mandate with Ukraine, to which Russia has not yet given its consent.
+
+The war has had a massive impact on migration. To date, around 8 million people have left Ukraine and over 7 million have been internally displaced. Around 60,000 people from Ukraine have applied for protection in Switzerland (as of August 2022). With the activation of protection status S, which, based on certain criteria, allows people without an asylum procedure to be des-ignated as in need of protection, the Swiss asylum system was prevented from being overloaded. The armed forces, civil defence and alternative civil service were also deployed to support the accommodation and care of the refugees.
+
+As a result of the war in Ukraine, Switzerland suspended cooperation with Russia in international judicial assistance. Police cooperation was also limited to a few exceptions (such as child abuse, terrorism and direct threats to life and limb). The federal prosecution authorities support the ef-forts of international criminal prosecution and are preparing to support investigations into possi-ble violations of international criminal law. Possible evidence is collected from refugees entering Switzerland, so that subsequent requests for judicial assistance, e.g., of the International Criminal Court, can be met or own proceedings can be opened.
+
+Because of the obligations under international law to protect foreign authorities and buildings, the war also has an impact on internal security. The Federal Office of Police (fedpol) has in-creased the security measures for the diplomatic missions of Russia, Ukraine and Belarus. Inter-national conferences with persons protected under international law, such as the Ukraine Recov-ery Conference in Lugano in July 2022, also require security measures. The armed forces carried out subsidiary operations to protect international conferences in Switzerland and the Swiss repre-sentation in Kyiv. In the area of cyber security, monitoring for possible direct or indirect attacks on targets in Switzerland was intensified.
+
+In the field of civil protection, the Federal Office for Civil Protection has been closely monitoring the situation since the outbreak of war, particularly with regard to possible radiological hazards and any effects on the livelihoods of the population. It ensures the basic readiness of the Spiez laboratory to deal with NBC events and supports, in the framework of the federal resource man-agement system, Switzerland's contributions to international aid. In the cantons, the competent authorities update the allocation plans for shelters. Public information on emergency supplies and shelters has also been increased.
+
+The European energy markets have been characterized by nervousness and uncertainty since the beginning of the war, which is also affecting Switzerland. Switzerland is completely dependent on imports for its natural gas supply. A substantial part of the gas comes from Russia, and Swit-zerland does not have any large storage facilities of its own. A massive restriction or cessation of imports would have a major impact on industry and private households. With a view to securing the energy supply, the Federal Council has taken measures, e.g., by introducing a hydropower reserve, reserving additional gas storage capacities abroad and preparing financial support for electricity producers.
+
+### 4.2 Reactions in public and politics
+
+The war in Ukraine led to intensive public and parliamentary debates in Switzerland. These re-volve primarily around how Switzerland positions itself in relation to this war and future armed conflicts and how much solidarity with Ukraine is possible under the current understanding of neutrality. The focus is also on what the war means for Switzerland's security policy and, above all, for the armed forces, specifically what conclusions can be drawn for its orientation, its re-sources and its international cooperation.
+
+8/29
+
+Neutrality and international cooperation
+
+A discussion arose on the question of how far Switzerland can and should go as a neutral state in supporting Ukraine, and how neutrality and solidarity with an attacked state and the Western community of values should be balanced.7 The law of neutrality obliges a neutral state not to take part in any international armed conflict. Furthermore, a neutral state may not provide military support to any party in an international armed conflict. With regard to the export of armaments by private parties, a neutral state must treat all parties to the conflict equally; the export of arma-ments from state stocks is prohibited.8 In peacetime, a neutral state may not enter into any obli-gations that would violate its neutrality in the event of war. For example, it cannot join a military alliance like NATO. In the case of an armed attack on a neutral state, its obligations under the law of neutrality no longer apply, and it is free to organize its defence together with other states. Maintaining neutrality in the sense of fulfilling the obligations that result from the law of neutral-ity for Switzerland is hardly ever questioned in the public debate.
+
+On the other hand, the war triggered a debate as to whether the understanding of neutrality that Switzerland has practiced for thirty years is still adequate to take account of the balance between neutrality and solidarity with the western community of values. The public condemnation of Rus-sia's attack on Ukraine was virtually unanimous. Many are of the opinion that Switzerland, even as a neutral state, must work more closely with its partners in the event of such blatant and massive violations of international law and central Swiss values in order to defend these values. But there are also voices saying that Switzerland should adopt a strictly impartial stance, keep an equal distance from the parties to the conflict and not adopt any sanctions.
+
+In this context, the war also triggered a debate about Switzerland's future relations with NATO. This is reinforced by the forthcoming accession of Finland and Sweden to the alliance. In Swit-zerland, joining NATO is only being called for by few. On the other hand, within this debate it has been suggested that military cooperation with NATO be intensified, including the preparation of common defence. For example, there were calls to take part in NATO exercises for common defence in the future.
+
+Exports of war materiel
+
+Western countries are supporting Ukraine with war materiel. This circumstance and foreign in-quiries to Switzerland in connection with Swiss war materiel led to a public debate about the possibilities of direct or indirect exports of war materiel from Switzerland to Ukraine. The export of war materiel from Switzerland directly to Ukraine is not compatible with neutrality. The War Materiel Act also excludes this.
+
+When war materiel is exported, Switzerland requires that the state recipient (a foreign government or a company working for it) undertakes, with a so-called non-re-export declaration, not to re-export the materiel to a third country without the consent of Switzerland. Switzerland received inquiries from European states as to whether war materiel procured from Switzerland may be passed on to Ukraine. Since exports from Switzerland to Ukraine cannot be approved due to the principle of equal treatment under the law of neutrality and the War Materiel Act, approval was also refused for Swiss war materiel to be passed on by European countries to Ukraine.
+
+The War Materiel Act stipulates that Swiss companies can participate in the international value-added chains of the armaments industry. To this end, non-re-export declarations can be waived 7 See, for example, the motion of the Committee on Foreign Policy of the Council of States of April 11, 2022 (22.3385 «Clarity and orientation in the neutrality policy»). 8 Beyond the law of neutrality, Switzerland has stipulated in its war material legislation that exports of war material will not be approved if the country of destination is involved in an international armed conflict.
+
+9/29
+
+for individual parts or assemblies of war materiel if it is certain that they are incorporated into a product abroad and not re-exported unchanged and their value compared to the finished product does not exceed a certain threshold value, or if the parts are anonymous and their value is insig-nificant in relation to the finished war materiel. Such exports are compatible with the law of neu-trality, even if the war materiel manufactured abroad using supplies from Switzerland could be destined for a party to an armed conflict. The Federal Council has therefore decided to continue the existing practice and to continue to authorize deliveries of war materiel abroad in the form of assemblies and individual parts, despite the Ukraine conflict.
+
+There were also occasional foreign inquiries about the sale of surplus Swiss army material that had been decommissioned.9 In accordance with the law of neutrality and the war material act, armaments such as weapons and ammunition may not be handed over to a state involved in an armed conflict.
+
+The decisions of the Federal Council led to discussions in Parliament and in the public. Domes-tically, concerns have been raised about the future of Switzerland's security-related technology and industrial base: This could suffer if foreign governments and companies were apprehensive that their freedom of action will be restricted when procuring war materiel from Swiss production. Internationally, some incomprehension was expressed about Switzerland's refusal to consent to the re-export. It was criticized that Switzerland was thereby hampering the support of other states for Ukraine.
+
+Defence expenditure
+
+The war in Ukraine led to demands for an increase in funding for the armed forces.10 Parliament passed motions according to which the expenditure for the armed forces shall be gradually in-creased from 2023 so that by 2030 at the latest it would amount to at least 1 percent of the gross domestic product.11 In addition, in the summer session12 the Council of States decided on short-term increases in the armed forces budget to enable additional procurement.
+
+Civil protection
+
+The war in Ukraine led to discussions and additional activities in the field of civil protection. The focus was on caring for the refugees, supporting international aid and possible radiological haz-ards for Switzerland, for example as a result of a nuclear incident in contested areas of Ukraine. In addition, there were repeated hints from people in the Russian leadership about a possible use of nuclear weapons. As a result, action plans were made for the federal crisis management in case of a radiological event. In addition, there was a greater need in the public for information about security of supply and possible protective measures, in particular the readiness of shelters and allocation to them in case of nuclear events. The Federal Office of Civil Protection and the cantons subsequently intensified their information activities and mutual exchange.
+
+9 There are three options for decommissioned army material: sale or provision without payment to the country of origin, with no restrictions on further use; sale or provision without payment to countries listed in appendix 2 of the War Materiel Ordinance (including with a non-re-export declaration); storage or utilization of the materiel in Switzerland.
+
+10 Parliamentary motions also addressed the foundations, orientation and readiness of the armed forces: e.g., urgent interpellations Ip. SVP 22.3046, Switzerland urgently needs an armed forces, protection and defence strategy to protect its own population; Ip. FDP-Liberal parliamentary group 22.3047, Drawing lessons from the Ukraine conflict for Switzerland; Ip. Group Centre/EVP 22.3050, War against Ukraine. Security turning point in Europe. What are the implications for Switzerland?; Ip. Dittli 22.3040, Strengthening the defence capability of the Swiss armed forces; also postulate Binder 22.3061, Terrestrial threat and Swiss de-fence case. How is Switzerland prepared? What gaps need to be closed due to the latest events? 11 Motion 22.3367, Motion 22.3374, Incremental Increase of Armed Forces Expenditures.
+
+12 22.005 Armed Forces Message to Parliament 2022. Official Bulletin of the Swiss Parliament.
+
+10/29
+
+Conclusion
+
+The public debate, the parliamentary motions and current surveys13 show: The war has affected the Swiss population's sense of security; the position of the Federal Council has broad support; the attitude towards neutrality has become somewhat more critical, the attitude towards interna-tional cooperation more open; there is more support for a stronger focus on defence and increased funding for the armed forces. The anticipation of threats and dangers as well as civil protection, especially with regard to radiological events, have also come more into focus. In addition, the war has direct and massive effects on policy areas such as sanctions, asylum and the supply of critical goods and services, especially in the energy sector.
+
+5 Changed security policy environment of Switzerland
+
+Tendencies
+
+The war has intensified security policy tendencies that have been evident for some time. The split between Western democracies on the one hand and authoritarian states like China and Russia on the other is widening. Trade relations in technology and energy are also increasingly following the security policy logic of bloc formation. Russia is trying to expand its sphere of influence with reference to imperial models. The influence of the United States on European security has in-creased during the course of the war in Ukraine, not least because of the military support provided to Ukraine in reconnaissance, training and armaments, but also because of the significantly in-creased US military presence on NATO's eastern flank. It is evident that the US will remain cen-tral to European security and will continue to form the backbone of defence on the continent within NATO, even with a more balanced transatlantic burden-sharing. In the longer term, how-ever, the question remains whether the US will maintain its commitment to Europe unchanged despite its strategic focus on the Asia-Pacific region. With the “strategic compass”, the European Union is showing that it wants to take on more responsibility for European security.
+
+The war has also shown the greater role of technology companies. For example, Ukraine used Starlink's satellite infrastructure and received help from Microsoft to protect against cyberattacks.
+
+The war leads to a stronger focus of NATO on collective defence. The accession of Finland and Sweden to NATO will strengthen the alliance. For the foreseeable future, NATO will form the backbone of common defence, including deterrence, in Europe. That deterrence works is shown by the fact that Russia has so far not actively fought Western armaments aid to Ukraine on the territory of the neighbouring NATO states. But Western countries are also careful not to provoke an escalation. European armed forces are again adjusted more towards deterring and defending against a military attack and towards conventional warfare. Although the Ukraine conflict has been characterized by the use of hybrid means by Russia since 2014, it ultimately ended in an attack using conventional military means. This fact will be taken into account in the development of armed forces in Europe, including in armaments projects.
+
+The European Union is not an alternative to NATO when it comes to Europe's military defence. However, it can contribute to strengthening military capabilities and the defence industry in Eu-rope. As a result of the war, military peace support is likely to lose priority over the increased focus on defence, although the need for stability is increasing again, particularly in the Western Balkans. Several NATO and EU members have announced substantial increases in their defence
+
+13 See, for example, the follow-up survey to the "Security 2022" study due to the war in Ukraine. Report of July 14, 2022, Military Academy (MILAK) at ETH Zurich and Center for Security Studies (CSS), ETH Zurich.
+
+11/29
+
+budgets in response to the war. It is therefore to be assumed that in the next few years in Europe as well as in other parts of the world there will be a significant rearmament or a correction or reversal of the reduction in defence spending of the last twenty to thirty years. This will also affect global demand for armaments.
+
+Relations between Western countries and Russia will remain confrontational for a long time. Ap-parently, Russia's aim is apparently not only to annihilate Ukraine as an independent state, but also to restore a sphere of influence in Europe, similar to that of Soviet times. Paradoxically, however, Russia's war of aggression has led to additional countries, such as Finland and Sweden, wanting to join NATO, and NATO is significantly strengthening its deterrence and defence pos-ture. The same applies to the EU rapprochement of Ukraine, which is since 2022 a candidate for accession, together with Moldova.
+
+Switzerland’s threat and danger situation
+
+Europe and also Switzerland are directly affected by the effects of the war in Ukraine. In partic-ular, the war leads to an intensification of cooperation in defence policy in Europe. Thanks to its geographic location, Switzerland is less exposed. A direct armed attack by Russia on Switzerland, especially with ground troops, is also unlikely in the foreseeable future. The war in Ukraine, however, shows how the rest of the spectrum of hybrid warfare tools is employed, from disinfor-mation and influence operations, cyber attacks, pressure and blackmail to covert operations. Swit-zerland can also be affected by such threats, and these can occur practically without warning.
+
+With the war, Russian influence and disinformation activities towards Switzerland have in-creased, also because it harbours the headquarters of many international organizations. The cyber incidents in the run-up to and at the beginning of the invasion show that cyber resources are primarily used to support military actions, with a limited effect in terms of time and damage. Above all, attempts were made to limit Ukraine's military capabilities, but also to damage the economy and society in order to weaken the will to defend. Increasing international interconnect-edness means that cyber attacks can have an impact across borders and can also affect Swiss facilities. In an escalating situation, direct cyber attacks against targets in Switzerland must also be expected. Non-state cyber actors have more freedom in how they act and choose their targets, but their activities involve mostly low-threshold incidents such as attacks on website availability, stealing and publishing of data or their modification by the attackers.
+
+The threat posed by illegal intelligence activities, including against third countries, is likely to increase further in connection with the war, particularly in Geneva, which is particularly exposed to espionage in times of crisis due to the presence of international organizations, foreign missions and non-governmental organizations.
+
+In addition, as a result of the war, weapons and war materiel from Ukraine could fall into the hands of organized crime, which may affect the black market and the availability of explosives, weapons and ammunition. Criminal organisations, terrorist networks and also extremist circles can benefit from this. The war in Ukraine and the resulting migration movements can have an impact on other areas of crime such as human trafficking, fraud, narcotics and money laundering. So far, the impact on the crime situation in Switzerland has been minimal, also thanks to good national and international cooperation and the measures taken.
+
+The disruptions in Europe's energy supply caused by the war also affect Switzerland. The uncer-tainties in the supply of Russian natural gas due to impending supply disruptions, combined with longer periods of drought, which have a negative impact on hydropower, can also lead to elec-tricity and gas shortages in Switzerland, especially in winter. This affects not only private house-holds and the economy, but potentially also critical infrastructures, which play an important role in security (e.g., alarm and crisis communication systems).
+
+12/29
+
+6 Conclusions for Swiss security policy
+
+The Federal Council's Report on Security Policy of November 28, 2021 lists principles that form the framework in which Swiss security policy is shaped: neutrality and cooperation; democracy, respect for international law and the rule of law; federalism and subsidiarity; militia system and compulsory service. These principles remain valid after the Russian attack on Ukraine. However, the report also states that their interpretation must be reviewed time and again in the light of political and social developments.
+
+The security policy interests – non-use of force and rule-based international order, self-determi-nation and freedom of action, security of the population and critical infrastructure – have lost none of their importance and topicality because of the war. Russia's attack on Ukraine is a frontal violation of these interests.
+
+The overarching goal of Swiss security policy remains unchanged: to protect the ability to act, the self-determination and the integrity of Switzerland and its people as well as their livelihoods against threats and dangers and to contribute to peace and stability beyond the borders.
+
+The nine security policy objectives14 mentioned in the Report on Security Policy remain appro-priate in a security situation that has become more critical. However, the war has made the ur-gency of the need for action in the implementation of certain goals even more obvious, especially with regard to strengthening international cooperation in the interests of security and stability. This also applies to strengthening the early detection of threats, dangers and crises; the increased focus on hybrid conduct of conflict, including armed conflict; the free formation of opinion with-out disinformation and the strengthening of protection against cyber threats. Finally, strengthen-ing protection against disasters and emergencies, strengthening resilience and security of supply, and crisis management have also become more relevant.
+
+Concrete measures for the implementation of these goals are listed in the Report on Security Policy. This includes, for example, improving reconnaissance capabilities to identify and inde-pendently assess security-related developments and threats; the implementation of the new cyber strategy of the DDPS to close gaps in the defence posture and further strengthen resources in the area of cyber defence; an increased orientation of the armed forces capabilities towards hybrid threats, especially in the cyber area, or the clarification of the demand for protective structures and the updating of protection concepts for the population, e.g., in NBC protection. The improve-ment of the resilience of critical infrastructures, the reduction of dependencies on critical goods and services and the further development of the national strategy for the protection of critical infrastructures are also particularly topical since the outbreak of war.
+
+It can be assumed that as a result of the war, Switzerland's security policy environment will dete-riorate in a sustained manner and remain volatile. It is also foreseeable that international cooper-ation in security and defence policy in Europe will intensify and become even more important for Switzerland's security and stability than before. Switzerland is just as exposed to cross-border threats as other European countries with which it is highly interconnected economically, techno-logically and socially and whose values it shares.
+
+Due to its favourable geographic position, Switzerland is still in a relatively good position. How-ever, an armed attack could also be carried out from a distance. In the event of such an attack, for example through the use or threat of ballistic missiles, cruise missiles or hypersonic weapons, Switzerland could be blackmailed and would have to rely on cooperation with other countries. In 14 Strengthening the early detection of threats, dangers and crises; strengthening international cooperation, security and stability; increased focus on hybrid conduct of conflict; free formation of opinion and unadulterated information; strengthening the protec-tion against cyber threats; preventing terrorism, violent extremism, organized and other transnational crime; strengthening resili-ence and security of supply in international crises; improving protection against disasters and emergencies and the ability to regenerate; strengthening cooperation between authorities and crisis management.
+
+13/29
+
+the event of a direct terrestrial attack on Switzerland, it can be assumed that the surrounding countries would already be involved in the conflict. The war in Ukraine also makes it clear that defence against a powerful opponent is more effective with the support of other states or organi-zations. These findings illustrate the need to intensify cooperation with international security or-ganizations, especially NATO. In the event of an armed attack, a neutral state can also defend itself together with other states, because then the obligations of the law of neutrality no longer apply.15 Switzerland's defence policy strategy aims to be able to protect and defend oneself as independently as possible, but at the same time also be able to defend oneself together with other states if necessary.
+
+In view of the war in Ukraine, it is in Switzerland's interest to focus its security and defence policy more consistently than before on cooperation with partners. Military cooperation in an emergency should be prepared as far as possible and practiced with the partners, without entering into any obligations or creating factual constraints. In doing so, Switzerland must be prepared to make substantial contributions to the security of its partners. It will therefore be necessary to examine how far Switzerland can go in cooperation with partners. Partnerships are only open to those who are able to provide substantial contributions. Conversely, this means that no partner will enter into cooperation with Switzerland if it has to bear the entire burden alone. As a consequence, Switzerland must have the full range of defence capabilities at its disposal – in order to have a credible capacity for independent defence, but also to be able to make substantial contributions in favour of the partners after the necessary political decisions have been taken. In the end it is a matter of give and take – also in defence.
+
+Joining NATO, which would mean the end of neutrality, is not an option for Switzerland. Such a step would mean that Switzerland could benefit from the alliance’s collective duty to defend. But Switzerland would also be obliged to fulfil its duty if another member of the alliance were at-tacked. Switzerland would also be expected to substantially increase its defence spending. The other extreme, going it alone in security policy without international cooperation and striving for complete autonomy in defence, is not feasible.
+
+7 International cooperation
+
+### 7.1 Point of departure
+
+For decades, the Swiss Armed Forces have been cooperating with foreign armed forces and in-ternational organizations in training, armed forces development and armaments, but also in mili-tary peace support operations and disaster management. Cooperation in the cyber area has been added in recent years.
+
+The militia system imposes restrictions. For training abroad, certain characteristics of the militia system must be taken into account. Training abroad is voluntary for members of the armed forces, which makes it difficult for whole formations to participate. In addition, the dates for the refresher courses are set well in advance. For these reasons, so far mainly staff officers and members of professional formations such as the military police, special forces and air force have taken part in training courses abroad. When it comes to having interoperability and military capabilities of Swiss army units reviewed by NATO, this could also be done in Switzerland.
+
+However, the Swiss armed forces also have advantages as a cooperation partner: They have a good training infrastructure for combat troops, especially with regard to simulators. Offers for training or exercises for combat in mountainous terrain and for military medicine have met with great interest from partner countries for years. The field of cyber defence also has potential, where
+
+15 See inter alia Report on Security Policy 2021: "If Switzerland becomes the target of an armed attack and neutrality lapses, it should have both options: autonomous defence or cooperation with other states, especially neighbouring countries."
+
+14/29
+
+Switzerland can offer education and training opportunities for cyber specialists as well as part-nerships with business and science.16 Switzerland's contributions to NATO-led operations, par-ticularly the Kosovo force (KFOR), are of great interest to NATO. Finally, the procurement of the F-35A fighter aircraft and the Patriot ground-based air defence system opens up new oppor-tunities for cooperation.
+
+So far, Switzerland has only participated as an observer in NATO exercises aimed at common defence. Should full participation be sought in the future, it must be taken into account that most European armies no longer cover the entire spectrum of missions, but specialize in certain tasks in an international division of labour.17 For this reason, certain NATO states are reluctant to allow third countries to participate in such exercises, as these may possibly not make their military capabilities available for defence in case of a real attack.
+
+### 7.2 Cooperation with NATO
+
+Present state of cooperation
+
+Switzerland has participated in the Partnership for Peace since 1996. So far, the focus has been on strengthening military interoperability in peace support operations. Since October 1999, the Swiss armed forces have been involved in the NATO-led KFOR peace support operation. The current national mandate runs until the end of 2023; the Federal Council will presumably apply for an extension for 2024-2026.
+
+The interoperability is tested in exercises. Switzerland currently takes part in around seven NATO exercises per year, either actively or as an observer, in the areas of air force, special forces, com-mand support and cyber defence.
+
+To strengthen interoperability, Switzerland has been involved in the Planning and Review Process (PARP) since 1998. Within this framework, partnership goals for interoperability are agreed. So far, Switzerland has focused on preparedness and doctrine as well as special areas such as com-munications, mine clearance, reconnaissance, medical services and cyber defence. These goals reflect to some extent capabilities that Switzerland is making available for NATO-led peace sup-port missions.
+
+Since 2015, Switzerland has been part of a group that represents the interests of Australia, Austria, Finland, Ireland, New Zealand, Sweden and Switzerland vis-à-vis NATO and draws up recom-mendations for NATO on how interoperability between NATO and these partner states could be improved. However, the accession of Finland and Sweden to NATO will change the relevance of this grouping. From 2023, the newly created "Individual Partnership and Cooperation Program" (ITPP) will provide an instrument at the political level to make cooperation even more flexible.
+
+In the area of force development, Switzerland participates in a large number of working groups on different topics, covering the Swiss armed forces’ entire range of capabilities. Interoperability as a central prerequisite for cooperation plays an important role beyond the mission of peace support. It is the basis for being able to efficiently use opportunities for cooperation in doctrine, in leadership, in operations and in armaments procurement.
+
+The army uses the courses offered by the various NATO schools for the training and advanced training of civilian employees, professional military personnel and conscripts. In recent years, around 500 persons a year from Switzerland have taken part in courses, exercises, working groups
+
+16 Switzerland is already a contributing partner to the Cooperative Cyber Defence Centre of Excellence in Tallinn, which has been accredited by NATO as an international centre of excellence.
+
+17 In order to ensure that all the required capabilities are still available at the multinational level, NATO and the EU issue guidelines for the development and maintenance of corresponding capabilities (NATO Defence Planning Process, NDPP; Coordinated An-nual Review of Defence, CARD).
+
+15/29
+
+and conferences. In turn, Switzerland organizes within the framework of the Partnership for Peace every year around 30 training courses, which are open to international participants. This offer is used each year by more than 400 participants from over 90 countries. In addition, Switzerland hosts various NATO events every year. An example of this is the NATO partnership symposium that took place in Geneva in July 2022.
+
+NATO cooperates with 28 so-called Centres of Excellence. These are not part of the NATO com-mand structure, but provide the alliance with expertise. Switzerland supports the Cooperative Cyber Defence Centre of Excellence in Tallinn with two persons. An increased cooperation with other centres, for example with the NATO Centre of Excellence for Military Medicine or the Military Engineering Centre of Excellence, is currently being examined.
+
+Cooperation with NATO also includes the level of security, foreign and military policy, in par-ticular regular consultations and participation in meetings of political and military bodies.
+
+Armasuisse and the Federal Office for Civil Protection also cooperate with NATO in their areas of activity. The Federal Office for Civil Protection, together with the Geneva Centre for Security Policy, has been offering courses in the field of crisis management for several years and partici-pates in NATO working groups on civil emergency planning and resilience issues. The interests of armasuisse in the field of armaments are covered by participating in working groups and pro-jects that deal, for example, with joint tests and the elaboration of military standards. The latter are decisive for interoperability with the armed forces of NATO countries. Armasuisse maintains relationships with the NATO Supply and Procurement Agency (NSPA) and the NATO Commu-nication and Information Agency (NCIA). Switzerland also takes part in research projects and forums within the framework of NATO's Science and Technology Organization (STO).
+
+Finally, Switzerland makes staff available to various NATO offices for staff and liaison func-tions.18
+
+Options for increased cooperation
+
+Cooperation can be intensified within the existing partnership with NATO in order to further improve interoperability. For example, Switzerland can expand its participation in peace support operations and related exercises. Additional staff could also be provided and a larger number of staff functions important for Switzerland in the NATO command structure could be filled.19 It is also possible to expand participation in centres of excellence certified by NATO. The intensifi-cation of the existing cooperation goes hand in hand with a strengthening of the political dialogue both at ministerial and at specialist level.
+
+If Switzerland is striving for a new level of cooperation with NATO, the level of ambition could be raised by the Swiss armed forces taking part in NATO exercises across the entire spectrum, initially with more professional formations. Participation in exercises for common defence could be examined with NATO on a case-by-case basis. The prerequisite would be an invitation from NATO, which cannot be taken for granted: Exercises for common defence, including with partner countries, are usually based on the assumption that in a real defence operation they would fight together, even if Switzerland itself had not sustained a direct military attack. If NATO troops were invited to Switzerland for exercises, conscript troops could also practice with them. The main benefit would be to create optimal conditions for cooperation with the alliance and its mem-
+
+18 Allied Command Operations in Mons, Belgium; Comprehensive Crisis and Operations Management Centre in Mons; Federated Mission Networking Secretariat in Mons; Allied Command Transformation in Norfolk, USA; NATO International Staff in Brus-sels; NATO Defense College in Rome; NATO School in Oberammergau, Germany. 19 Supreme Headquarters Allied Powers Europe (SHAPE), Allied Joint Force Command (JFC) Naples, Italy, JFC Brunssum, Neth-erlands, Allied Air Command in Ramstein, Germany, Allied Land Command in Izmir, Turkey.
+
+16/29
+
+ber states in defence in the event of an attack on Switzerland, while respecting neutrality. In ad-dition, there would be significantly improved access to NATO's situation monitoring, command and planning processes. If the Swiss armed forces wanted to take part in NATO exercises for common defence with conscript formations, this would require a revision of the relevant laws in order to make participation in training abroad mandatory. A possible extension of refresher courses and the use of conscripts doing their entire military service in one period would also have to be provided for.
+
+To increase interoperability for defence, participation in the Operational Capabilities Concept Evaluation and Feedback Program (OCC E&F) could be sought. This programme is used by NATO to examine, with a certification process, the interoperability and military capabilities of units in its partner countries. In order to be able to cooperate on a combat and tactical level, the OCC would have to be implemented at least for the armed forces units participating in exercises. If necessary, NATO could also examine the interoperability and military capabilities of armed forces units in Switzerland.
+
+For medical cooperation, participation in the NATO Multinational Medical Coordination Centre could be considered. The focus of cooperation in force planning would be expanded to include all defence-related issues. A deepening of the partnership, e.g., as an Enhanced Opportunities Partner (EOP) or in another form, could be sought. For its part, NATO expects EOP partners inter alia to provide troops for at least one NATO operation and to take part in exercises with NATO, including those for common defence. An agreement is also required to define the partner's support services for NATO forces (e.g., for the transit of materiel and personnel or for joint exercises on the territory of the partner country). A deeper partnership would facilitate Switzerland's access to exercises and programmes to strengthen interoperability, as well as to information and lessons learned. In addition, such partner states are usually invited to consultations on security and mili-tary policy with the allies. In times of crisis, NATO involves them more closely and consults them in the preparation of missions. The political and military-political exchange would thereby gain in importance.
+
+A partial participation of the Swiss armed forces in NATO's high-readiness task forces20 could be considered. However, participation would have to be designed in a way compatible with neutral-ity, since these rapidly available units are intended for the entire spectrum of operations.
+
+NATO's recently adopted new strategic concept offers further opportunities for cooperation, for example in the areas of cyber, new technologies, innovation, climate and environment, civil pro-tection and resilience. NATO has an interest in cooperation on these new issues. For example, Switzerland could get involved in the development of normative principles for new technologies and, in doing so, include the potential of industry and science. In order to promote NATO's co-operation with international Geneva, Switzerland could work towards the establishment of a "NATO Liaison Office" in Geneva.
+
+Conclusion
+
+Cooperation with NATO is already well established. It could be further developed on this basis or raised to a qualitatively new level. In its partnerships, NATO has always sought tailor-made cooperation with individual states. In recent times, it has moved even more towards arranging individual cooperation programs depending on the interests and possibilities of the respective partner state, even if previous cooperation formats such as the Partnership for Peace are being continued. This increases the scope for a tailor-made arrangement and suits Switzerland. It can dispense with previous, self-chosen restrictions without violating neutrality. If cooperation is to 20 Very High Readiness Joint Task Force, NATO Response Force or similar units as part of the New Force Model adopted at the Madrid summit at the end of June. The NATO Response Force is to be replaced by the Allied Reaction Force and the focus is to be expanded to include the entire alliance area.
+
+17/29
+
+be extended to include participation in common defence exercises, the sensitivities and interests of NATO must also be explored and taken into account, in addition to the limitations of the militia system. So far, the partnership has been focused on cooperative security, including interoperabil-ity, and not on defence.
+
+It should also be examined how Switzerland can strengthen cooperation in the areas of cyber, civil protection and the resilience of critical infrastructure and services, where there is mutual interest.
+
+### 7.3 Cooperation with the European Union
+
+Present state of cooperation
+
+Switzerland takes part in EU civilian and military crisis management operations. Switzerland has been involved with a contingent in the military peace support operation Eufor Althea in Bosnia and Herzegovina since 2004, and with experts in the civil rule of law mission Eulex Kosovo since 2008.
+
+Participation in exercises is currently limited to individual cyber exercises that take place within the framework of cooperation with the European Defence Agency.
+
+In exceptional cases, third countries can participate in projects of the Permanent Structured Co-operation (PESCO) for military capability development if they generate significant added value. So far, third countries have only participated in the Military Mobility project. Preparations are currently being made for Switzerland to participate in the Pesco project Cyber Ranges Federation, which aims to improve exercises to protect against cyber attacks. The European Union also sup-ports Pesco projects with funds from the European Defence Fund. Eight billion euros are available in this fund for research and industrial cooperation in the security and defence sector in the current financial period 2021-2027. Under certain conditions, Swiss companies can participate in consor-tia, but they do not receive any funding.
+
+There has been cooperation with the European Defence Agency since 2012 on the basis of a Framework for Cooperation. In research and development, Switzerland is involved in seven Ca-pability Technology Areas and in further working groups and projects. In addition, there is par-ticipation in three agency training programmes (including a training program for helicopter crews). Switzerland is also involved in the Cyber Defence project team.
+
+An administrative agreement in the area of civil disaster relief has existed between Switzerland and the European Union since 2017. The agreement simplifies the exchange of information be-tween the operations centres in Switzerland and the European Union. The EU Civil Protection Mechanism improves prevention, preparedness and response to disasters, emergencies and crises (including armed conflicts, pandemics, power failures or shortages and forest fires).
+
+At the administrative level, there is an annual exchange on security policy between the Swiss Federal Department of Foreign Affairs and the Swiss Federal Department of Defence, Civil Pro-tection and Sport and the European External Action Service. However, there is no regular or institutionalized dialogue on security and defence issues at the political or military levels. The EU Security and Defence Partnerships Forum, to which the European Union intends to invite senior political representatives of its partners every two years, is likely to offer an opportunity for political exchange. A Swiss person works in the field of mediation in the European External Ac-tion Service, which includes the EU military staff. Alongside Norway, Switzerland takes part in the European Programme for Critical Infrastructure Protection and can exchange information on conceptual and methodological issues with the EU Commission and the EU member states.
+
+18/29
+
+Options for increased cooperation
+
+Within the existing cooperation, the Swiss armed forces could expand the cooperation with the European Defence Agency in training and force development, use the training opportunities more comprehensively than today and send more experts to EU bodies. In addition to the Pesco project Cyber Ranges Federation, participation in other projects could be sought. Switzerland could also take part in EU training missions and second staff officers to the EU military staff and more civilian experts to EU missions or to the European External Action Service, if the European Union so wishes. In addition, Switzerland could propose to formalize the consultations on security policy with the European Union and hold them more often, or to organize an EU partnership symposium in Switzerland. In the cyber area, Switzerland could encourage the establishment of a cyber dia-logue with the European Union and consider sending staff to the EU Agency for Cybersecurity (ENISA). It would also be possible to make a financial contribution to the European Peace Facil-ity (EPF).
+
+If Switzerland strives for more intensive cooperation with the European Union, participation in the Hub for Defense Innovation (HEDI), which is currently being set up, could also be sought. The European Union currently runs four military training missions and has repeatedly shown interest in military training personnel from Switzerland. According to Article 66 of the Law on the Armed Forces of February 3, 1995, Swiss participation in EU training missions would be possible after a case-by-case assessment if these could be derived from a UN mandate. Participa-tion of the Swiss armed forces in EU formations such as the EU Rapid Deployment Capacity could also be examined. The European Union wants to create such forces by 2025, which should include up to 5,000 troops. These forces are intended initially to be used in rescue, evacuation and stabilization operations. The European Union also wants to elaborate a concept for air oper-ations (including air support, rescue and evacuation, surveillance and disaster relief tasks) by 2023. The extent to which Switzerland would be able to participate in such multinational forces depends on the type of missions they are intended for. Participation in international crisis man-agement or evacuation operations would be compatible with neutrality. In principle, however, only professional formations of the armed forces would be suitable for this.
+
+In civil protection, Switzerland could intensify cooperation within the framework of the EU Civil Protection Mechanism in hazard and risk analysis, in research and development, training and ex-ercises and in operations. To this end, it could examine accession as a third country to the EU Civil Protection Mechanism. Cooperation in the area of protection of critical infrastructure could also be strengthened at an operational level.
+
+Conclusion
+
+Fewer instruments are available for the expansion of today's selective cooperation with the Euro-pean Union than with NATO, because the European Union has not yet established any institu-tionalized partnerships and vessels for cooperation. However, such could arise with the imple-mentation of the Strategic Compass on Security and Defence of March 2022. Until now, the EU has regulated the involvement of third countries separately for each activity (peace support, Eu-ropean Defence Agency, Pesco). Unlike with NATO, the partners are only considered as second bidders, which is why participating as a third country is more cumbersome. For example, third countries can only participate in Pesco projects under special conditions. Moreover, the Swiss armed forces have so far only identified a need with regard to a few of the 60 ongoing Pesco projects, as they are not affected by most of the projects (e.g., naval capabilities). Most likely, more staff could be seconded to EU agencies, and cooperation with the European Defence Agency strengthened. Participation in EU-led military training missions or in the EU Rapid Deployment
+
+19/29
+
+Capacity holds particular potential for expanding cooperation. Cooperation can also be expanded in the EU Civil Protection Mechanism.
+
+8 Consequences for the armed forces’ orientation and capabilities
+
+Orientation of the armed forces in recent years
+
+Over the last 30 years, the armed forces have been continuously adapted to the changing security policy environment. Essentially, the mobility of the units was increased and the size (in terms of number of personnel) were reduced. The armed forces budget has been continuously reduced. A trend reversal has only been initiated in recent years. In 2021, the budget was CHF 4.9 billion. In 1990, Switzerland spent about 1.4% of its GDP on defence; today it is around 0.7%. When the Army XXI was designed in 2004, due to the favourable development of the situation a warning period of several years was expected for a defence operation, triggering an increase of the armed forces’ defence readiness if necessary. The so-called further development of the armed forces has been implemented since 2016, with the target number of personnel being reduced and the armed forces being restructured. The focus is on supporting civil authorities. Thus, the armed forces have been geared towards the probable missions and less towards repelling an armed attack or defence capability. In the coming years, various key systems of the armed forces will reach the end of their service lives, and they are already now no longer up to the demands of modern armed conflict. The further development of the armed forces’ capabilities that has been initiated is also an opportunity to align them with security policy, military and technical circumstances and de-velopments.
+
+Planning up to now
+
+In recent years, the Swiss Federal Department of Defence, Civil Protection and Sport has drawn up three basic reports for the medium to long-term orientation of the armed forces and its capa-bilities: Air Defence of the Future (2017), Future of the Ground Forces (2019) and Comprehen-sive Concept Cyber (2022):
+
+ In order to protect Switzerland from threats from the air and to enable the deployment of
+
+ground troops, the armed forces will also in the future need powerful combat aircraft and ground-based air defence systems with different ranges. The procurements that are planned or have already been initiated are geared towards this (radar and command systems, F-35A fighter aircraft, longer-range ground-based air defence Patriot, later additionally medium and short-range ground-based air defence).
+
+ In 2019, the Federal Council decided to orient the development of the armed forces more
+
+towards a hybrid vision of conflict. The ground forces must, in a confusing environment, be able to simultaneously and in the same space help, protect and fight with small for-mations that can be deployed as autonomously as possible. To do this, they need powerful networked sensors as well as lighter, more mobile, more precise and versatile systems.
+
+ The comprehensive concept cyber shows what skills the armed forces must have in the
+
+cyber and electromagnetic spaces as well as in information and communication technology. At the same time, the concept creates the basis for the digitization of the troops
+
+The first findings from the war in Ukraine show that these concepts and in particular the acquisi-tion of modern combat aircraft and the reconstruction of longer-range ground-based air defence are correct. Based on these three basic reports, the armed forces have planned their armaments projects in recent years and have continuously refined their planning. Armed forces planning does not focus on systems that have to be replaced at a specific point in time. It is much more about
+
+20/29
+
+which military capabilities the armed forces need to fulfil their missions and how these capabili-ties have to be built from scratch or developed from existing capabilities. This capability-oriented development of the armed forces is an ongoing process, based on a permanent assessment of the security policy situation and militarily relevant developments in Switzerland's strategic environ-ment, findings from armed conflicts and an ongoing assessment of technological progress.
+
+With the Armed Forces Message to Parliament 2022, the Federal Council requested the procure-ment of the F-35A fighter aircraft and of the Patriot longer-range ground-based air defence. These major acquisitions have the effect that less funds are available for other areas in the short term. In the medium term, however, the capabilities of the ground forces shall again receive more invest-ments, namely in systems for indirect fire support and intelligence-gathering on the ground.
+
+Towards the end of the 2020s, the capabilities of ground-based air defence are to be expanded so that targets in the lower and medium airspace can also be attacked effectively. In addition, a re-placement for the Super Puma and Cougar transport helicopters is to be evaluated. It will also be examined to what extent the armed forces’ capabilities can be supplemented with novel means. The establishment of an innovation system defence shall make it possible to develop and intro-duce innovative means and methods, within the limits set by international humanitarian law, di-rectly with the users in the troops. This should enable the Swiss armed forces to proceed in certain areas in a similarly unconventional manner as Ukraine is doing with the use of commercially available drones.
+
+First insights from the war in Ukraine
+
+The Swiss armed forces are continuously reviewing the findings from the war in Ukraine as far as they are applicable to Switzerland. Various forms of operations and means can be identified at the same time. On the one hand, a multitude of conventional military means are used in a rather conventional manner. On the other hand, the Ukrainian side in particular also uses novel means, such as mini drones and satellite communication in combination with artillery, in an unconven-tional way. The ongoing implementation work, starting from the basic reports and aimed at providing the necessary capabilities to the armed forces, have been re-examined with a view to the war in Ukraine. The knowledge gained so far allows the conclusion that capability planning is on track overall. For defence, the following findings are most important:
+
+ Command and logistics: A central prerequisite for every military action is that units can
+
+exchange information in an integrated networked without delay and that they can hold out logistically for as long as possible. Robust, protected means of communication and func-tioning logistics are of existential importance.
+
+ Air defence: Air defence must be able to repel or limit attacks from the air using fighter
+
+aircraft and ground-based air defence. This enables actions by the own troops and protects infrastructure. The Ukrainian air defence uses short-to long-range systems. Air-to-surface fire is used to engage key targets, disable important sensors and stop approaching for-mations. Long-range air-to-ground assets are launched from Russia on important infra-structure and key targets in the Ukraine's hinterland.
+
+ Anti-tank defence: Modern anti-tank guided missiles are among the most important assets
+
+for defence. These weapons are easy to operate and very effective against mechanized for-mations. Especially in the early stages of the war, they served to wear down the advancing Russian mechanized formations in difficult terrain and to restrict the freedom of action of Russian armed forces.
+
+ Indirect fire support: Barrel artillery, rocket artillery, mortars and armed drones are of great
+
+importance to both parties to the war. The Russian armed forces prepare practically every
+
+21/29
+
+advance with massive barrages of fire. The Ukrainian forces are using their artillery to reclaim terrain and against distant key targets. Armed and unarmed drones play an im-portant role in employing artillery and attacking key targets.
+
+ Mobility: It has been shown that small, all-terrain combat vehicles are less well recognized
+
+and engaged than heavy vehicles in built-up and wooded terrain. Heavy vehicles are quickly recognized by both sides, especially with drones, and are successfully engaged. However, for attack operations to reclaim terrain, the degree of protection and the ability of combat vehicles to force through play a major role.
+
+ Sustainability: Sustainability is largely determined by the stockpiling of materiel and am-
+
+munition, which requires a protected decentralized infrastructure. In the best case, resupply of goods and ammunition can be obtained from partner countries.
+
+ Warfare in urban areas: Because war is increasingly conducted in urban areas, the civilian
+
+population living there and their livelihoods are massively affected for years. The means and methods of warfare (in particular those of artillery, respectively indirect fire) must therefore be able to be used at any time in accordance with international law. This requires the armed forces to be trained accordingly at strategic, operational and tactical levels.
+
+ Cyber as a means of warfare: Cyber resources are primarily used to prepare for and support
+
+military actions, with limited effects in terms of time and damage. They are used primarily to restrict the military capabilities of the other side and damage the economy and society in order to weaken the will to defend. Technology companies are playing an increasingly important role and are cooperating directly with states.
+
+These observations largely confirm the direction of development of the armed forces’ capabilities as indicated in the basic reports. The capabilities of command are enhanced not only by a com-mand network, telecommunications and data centres, but also by a cyber command. A new plan-ning and situation monitoring information system shall serve to improve action planning and sit-uation monitoring. In order to protect the population and the armed forces against attack from the air, both fighter aircraft and ground-based air defences are needed. Medium-and short-range ground-based air defence systems shall be procured in order to be able to engage low-flying fighter aircraft and attack helicopters, approaching cruise missiles and drones. The capability for indirect fire support at ranges up to a few kilometres can be retained by the Mörser 19 and Mörser 16. A new system is planned for the artillery, with which combat units can be supported with precise indirect fire at considerably greater distances than possible with the current M-109 self-propelled howitzers. Mobility is to be increased in the coming years by new protected wheeled vehicles that are more suitable for use in built-up areas than tracked vehicles.
+
+Capability gaps and immediate measures
+
+However, the findings from the course of the war in Ukraine until now also show critical gaps in the capabilities of the Swiss armed forces. This includes long-range anti-tank defence. Since the decommissioning of the Panzerjäger 90, the ground forces have no longer any means to engage moving armoured targets at a distance of several kilometres. With the procurement of a long-range ground-to-ground guided missile, this ability shall be regained.
+
+Equally critical is sustainability and in particular the stockage of ammunition. In the past, the procurement quantities have primarily been based on training needs. Expensive operational am-munition or guided missiles were only procured in small quantities. With an increase in the armed forces budget, the ammunition and guided missile stocks for operational use shall be increased as a result of the war in Ukraine. Already with the 2023 armaments programme, several hundred million francs are to be requested for such procurements.
+
+22/29
+
+Concrete investment projects and the long-term orientation of the armed forces will be presented to Parliament from 2024 onwards in the form of a capability-oriented army message. It will con-tain parameters for the orientation of the armed forces and their capabilities with a time horizon of twelve years and reflect the findings, respectively close capability gaps.
+
+9 Findings for other affected areas
+
+### 9.1 Early detection
+
+The war is affecting various security policy instruments and policy areas, not just the armed forces orientation, cooperation and resources. The war increases the need to further develop the expertise for early detection and anticipation relevant to security policy, and to perform this task even more comprehensively and systematically in a network combining various federal agencies. The events also confirm the importance of an integral situation report. In this, the interests and contributions of various governmental and non-governmental bodies in Switzerland must be taken into account and integrated. This is intended to better take into account the effects of conflicts in all areas relevant to security policy, for example in the energy sector, which can also strengthen resilience and security of supply.
+
+### 9.2 Civil protection
+
+The war bluntly shows how affected the civilian population is and thus highlights the importance of civil protection, including civil defence. Various projects have been launched in recent years, the importance of which has now become even clearer. It was already clear before the war in Ukraine that these projects should be pushed ahead as quickly as possible, but this has now been confirmed once again.
+
+The national risk analysis "Disasters and emergencies in Switzerland" has identified supply bot-tlenecks, especially in the energy sector, natural hazards such as storms, floods or heat waves, as well as the failure of mobile communications and the pandemic as the most likely risks. Accord-ingly, in recent decades civil protection has tended to move away from war scenarios towards disasters and emergencies having other causes.
+
+In the light of the lessons learned from the war in Ukraine, adjustments must now be made to some areas that have received less priority in recent years:
+
+ Network system civil protection: Today, the network system civil protection is primarily
+
+geared towards disasters and emergencies. Its tasks, organization and competencies are to be adapted with regard to an armed conflict.
+
+ Service profile of civil defence: Today, the service profile of civil defence is primarily
+
+geared towards damage management, clearance and repair, security, logistics and com-mand support. Already during the pandemic, but also with the refugees from Ukraine, it became apparent that the area of care needs to be strengthened again. This also includes care for the population in the event it is ordered to move into shelters. The performance profile of civil defence must be reviewed with a view to an armed conflict, as must training in the field of civil protection and civil defence.
+
+ Provision of shelters: In recent years, there have been discussions about the extent to which
+
+investments should still be made in shelters; their maintenance was partly neglected. The war in Ukraine has highlighted the need for shelters, in terms of shelters for the population, for command posts and for staging facilities. The shelter concept in work was revised with regard to an armed conflict and will clarify the future need for shelters.
+
+23/29
+
+ Provision of medical service shelters: The majority of the medical service shelters are out-
+
+dated and can no longer be used. In the light of an armed conflict, these facilities are again of greater importance. In cooperation with the cantons, in particular the competent health care authorities, the future need for such facilities must be clarified as quickly as possible.
+
+ Information for the population about the shelters and moving into shelters: Because the
+
+need to move into shelters seemed rather unlikely, until the beginning of this year, inform-ing the population about shelters has not been a priority in recent years. The war in Ukraine has led to a great public need for information. Information material on the shelters and the move into shelters is being developed and distributed. The allocation of the population to the shelters (allocation planning) is also communicated better and more transparently with the cantons and communes.
+
+ Further development of systems for alerting and informing the population: Switzerland has
+
+currently a well-functioning multi-channel system for alerting and informing the popula-tion, based on sirens, radio and Alertswiss channels. In addition to maintaining these chan-nels, further development of the overall system must also be ensured due to technological advances, also taking into account the scenario of an armed conflict.
+
+ Strengthening of NBC protection: With the Spiez Laboratory and the National Alarm Cen-
+
+tre, the Federal Office for Civil Protection has two central elements for NBC protection. With the project for an overview of NBC protection in Switzerland, it was determined how cooperation between the various actors and resources can be improved. The results of this overview must now be implemented as quickly as possible.
+
+ Resilience: The ability to withstand, adapt and regenerate, or the ability to survive crisis
+
+situations, is related to, among other things, the protection of critical infrastructure, internal security, cyber security, protection against disasters and humanitarian aid as well as sus-tainability. Due to the war in Ukraine, NATO and the European Union are adjusting their resilience strategies, including cooperation with partners, which offers new opportunities for Switzerland.
+
+### 9.3 Crisis management
+
+Shortly after the pandemic, the war in Ukraine and its wide-ranging effects have once again demonstrated the importance and urgency of a well-established, broadly supported and efficient crisis organization and preparation. With its resolutions of June 22, 2022, concerning the second evaluation of the federal administration's crisis management in the Covid-19 pandemic, the Fed-eral Council has already issued decisive orders in this regard: The Federal Chancellery and the Federal Department of Defence, Civil Protection and Sport will, together with the other depart-ments, until the end of March 2023 elaborate options for the organization of the crisis manage-ment of the federal administration on a strategic and operational level. Among other things, it is to be shown how a forward-looking and holistic crisis management can be ensured at the strategic level. For the operational level, it is to be shown, inter alia, how the crisis management support for the administrative units having the lead can be improved. The review of the tasks, compe-tences and responsibilities of the Federal Civil Protection Staff, which has already been initiated, also serves this purpose. Furthermore, the need for international cooperation will also have to be taken into account when considering the federal government's crisis management.
+
+### 9.4 Crime, energy supply, asylum system
+
+In order to cope with the negative effects of the war in Ukraine on crime in Switzerland, the exchange of police information, and of a comprehensive overview of the situation based on it,
+
+24/29
+
+with national and international partner authorities is essential. Cooperation in the Schengen area and the exchange of information with Europol and Interpol are indispensable for this. Switzer-land's participation in EMPACT (European Multidisciplinary Platform Against Criminal Threats) plays an important role in this.
+
+The challenges concerning the energy supply reveal the vulnerability of a supply system heavily dependent on imports. For fossil fuels, Switzerland depends completely on imports. The restruc-turing of the energy supply that has been initiated, with an increase in energy efficiency and an expansion of renewable energies within Switzerland, increases the security of supply and must be accelerated. In the short term, the creation of a winter gas reserve, the hydropower reserve and the provision of subsidiary financial aid to maintain the functionality of system-critical electricity companies are appropriate. The Federal Council submitted the necessary draft legislation to Par-liament. Some of the necessary ordinance provisions have been enacted, and some are in prepa-ration.
+
+The Swiss asylum system has also proven itself in the face of the refugee movements from Ukraine and demonstrated its flexibility. Fundamental adjustments are not necessary. Good coordination and harmonization at European level is still crucial. In this context, progress is needed in the reform of the European asylum system, which the Bundesrat supports.
+
+10 Conclusion
+
+Switzerland's security policy foundations, goals and priorities are in place. They were geared towards a significantly degraded security environment. It is now a matter of implementing the goals set out in the Report on Security Policy 2021, particularly where the war in Ukraine has made the need for action even more urgent. These are strengthening early detection, a stronger orientation towards the entire spectrum of hybrid conflict management, including armed conflict, disinformation and cyber threats, as well as strengthening resilience, the security of supply, the protection against disasters and emergencies, and crisis management.
+
+At the strategic level, the war primarily affects the core area of security policy, namely defence policy. In order for the Swiss armed forces to be able to repel an armed attack, they must be able to protect and defend Switzerland across the entire spectrum of hybrid threats. The further devel-opment and modernization of the armed forces is based on solid foundations that take armed conflict into account. Increasing the funds for the army allows specifically
+
+ to close capability gaps faster than previously planned;
+
+ to maintain existing capabilities across the entire armed forces' capability spectrum and to
+
+enhance them to defend against an armed attack, taking into account the military lessons learned from the war in Ukraine on an ongoing basis;
+
+ to increase readiness to defend against an armed attack, including improving sustainability
+
+by increasing stockpiles of operational ammunition and guided missiles.
+
+The war has triggered a new dynamic in security and defence policy cooperation in Europe. This is being intensified in view of the threat from Russia, both within the framework of NATO and the European Union, whereby NATO remains central to the security and defence of Europe. In order to strengthen its security in the middle of Europe, Switzerland must be part of this cooper-ation.
+
+As a neutral state, Switzerland must, within reasonable limits, be able to ensure the inviolability of its territory. Switzerland demands from itself to be able to defend itself independently. This is not possible without limits. Depending on how powerful an attacker is and what resources it has at its disposal, Switzerland would be dependent on cooperation with other countries for defence. For this reason, Switzerland has long been striving to have the options, in the event of an armed
+
+25/29
+
+attack, of either defending itself independently or organizing its defence together with other states. In order to improve interoperability and thus increase Switzerland's freedom of action, the armed forces must prepare for international cooperation in good time. For this purpose, the possibilities for cooperation, that would increase the Swiss armed forces’ defence capability, should be used, while maintaining neutrality.
+
+The following options exist for strengthening cooperation:
+
+ intensification of cooperation with NATO, specifically through:
+
+ the expansion of contributions to peace support operations,
+
+ an extension of interoperability to areas relevant to defence,
+
+ the filling of liaison and staff functions in the command structure of NATO,
+
+ and the expansion of Swiss participation in centres of excellence certified by NATO;
+
+ expansion of security policy cooperation with NATO, specifically through:
+
+ participation in exercises across the entire spectrum (including verifying under what
+
+conditions and by what means participation in exercises for common defence is possi-ble),
+
+ the use of the Operational Capabilities Concept Evaluation and Feedback Programme
+
+to ensure interoperability across a wide range of capabilities,
+
+ as well as soundings at NATO for an intensification of the partnership status, e.g., as
+
+enhanced opportunities partner;
+
+ intensification of cooperation with the European Union, specifically through:
+
+ formalization and intensification of security policy consultations,
+
+ cooperation with the European Defence Agency on training and force development,
+
+ cooperation in the Pesco project Cyber Ranges Federation and striving to participate in
+
+other projects,
+
+ participation in EU training missions and review of deployment of staff officers to the
+
+EU military staff;
+
+ expansion of security policy cooperation with the EU, specifically through:
+
+ a review of participation in the Hub for EU Defence Innovation,
+
+ participation by the Swiss armed forces in EU military units such as the EU Rapid De-
+
+ployment Capacity (for rescue, evacuation and stabilization operations).
+
+The lessons learned so far from the war in Ukraine also show a need for action in civil protection, so that it can fulfil its tasks of protecting the population and livelihoods in case of armed conflict. Both international cooperation and own measures can contribute to strengthening civil protection. The following options exist:
+
+ intensifying cooperation with NATO, namely by examining how and where cooperation in
+
+the areas of civil protection, NBC protection and the resilience of critical infrastructure and services could be strengthened;
+
+ intensifying cooperation with the European Union, namely by examining accession as a
+
+third country to the EU Civil Protection Mechanism;
+
+ examining to what extent civil protection should be oriented more closely to armed conflict,
+
+specifically by further developing the integral situation report;
+
+26/29
+
+ reviewing the network system of civil protection and the service profile of civil defence
+
+and the corresponding training;
+
+ elaborating a concept for the need for protective structures (shelters, command posts, stag-
+
+ing facilities and medical service facilities), including information material for the popula-tion;
+
+ further developing the systems for alerting and informing the population;
+
+ strengthening the NBC protection with regard to the protection of the population, the civil-
+
+ian emergency services and the armed forces.
+
+27/29
+
+Appendix
+
+Summary of the analysis of the Center for Security Policy (CSS)
+
+In its analysis of August 24, 2022,21 the CSS recommends that Switzerland enshrine its goals of cooperation in security and defence policy in political guidelines so that these can also be clearly communicated and represented externally at government level. It advocates that the supplemen-tary report clearly shows the reasons for even closer cooperation. The CSS itself mentions as such reasons, inter alia, the close interconnectedness of technologically and economically highly inte-grated societies, the accentuation of cross-border threats across large geographical areas (includ-ing cyber threats and long-range weapons) and the technical complexity, and associated costs, of future military capabilities. It recommends using the scope of neutrality policy to expand and deepen cooperation in security and defence policy, and not to play the various vessels of interna-tional cooperation (NATO, EU, bilateral) against each other, but to use them in a complementary way. The CSS also points out that international cooperation must always be mutually beneficial and cannot serve as a substitute for building up national capabilities.
+
+With regard to the possibilities for intensifying cooperation with NATO, the CSS is in favour of intensifying high-level contacts and creating a political framework for closer cooperation. It rec-ommends to examine whether the status of an “Enhanced Opportunity Partner” is of interest for Switzerland. The CSS also advocates ensuring interoperability across the armed forces’ entire spectrum of capabilities in order to strengthen the own defence capabilities. Special priority for increased cooperation should be given to armaments and capability development, due to the in-creasingly dynamic development of technology, digitization and spiralling costs. In this regard, the CSS regards the new Cyber Command and the Air2030 programme as promising starting points for closer cooperation. The CSS also recommends expanding Switzerland's participation in exercises, in particular examining participation in exercises for common defence. The CSS also considers the entire field of technology to have great potential for future cooperation, specifically areas such as artificial intelligence, robotics, cyber and drones.
+
+With regard to cooperation with the European Union, the CSS recommends establishing a per-manent security policy dialogue and examining participation in projects within the framework of Pesco and the European Defence Fund (EDF) from an industrial policy point of view. Further-more, Switzerland should intensify cooperation in the field of science, technology and innovation and also examine a possible participation in the Hub for European Defence Innovation.
+
+Overall, the CSS is in favour of expanded and deepened cooperation in security and defence pol-icy around the following three focal points: cooperation to strengthen defence capability; digiti-zation, science, technology and innovation; and peace support, resilience, and cooperative secu-rity. The suggestions and conclusions from the CSS analysis have been included in this supple-mentary report.
+
+Summary of the analysis by Jean-Jacques de Dardel
+
+In his analysis of August 20, 2022,22 Jean-Jacques de Dardel states that the war in Ukraine will permanently change the security situation and order in Europe and beyond. Swiss security policy
+
+21 "Switzerland's security and defense policy cooperation in Europe: Political guidelines, options for further development, focal points, coordination and control” (in original German language: "Sicherheits-und verteidigungspolitische Kooperation der Schweiz in Europa: Politische Leitlinien, Optionen der Weiterentwicklung, inhaltliche Schwerpunkte, Koordination und Steue-rung"). 22 "Report on Switzerland's Security Policy in a Changing Security Environment" (in original French language: "Rapport sur la politique de sécurité de la Suisse dans un environnement sécuritaire altéré").
+
+28/29
+
+must adjust to this fact, which requires additional investments and a paradigm shift in interna-tional cooperation. According to de Dardel, Switzerland cannot effectively deal on its own with the challenges associated with an armed attack, hybrid conduct of conflicts, cyber attacks, energy shortages and nuclear threats.
+
+De Dardel also points out that strengthening Switzerland's security also requires careful prepara-tion and close cooperation between public and private actors. At the military level, the armed forces’ resources must be rapidly modernized, and interoperability with NATO and the EU must be increased without relinquishing the status of neutrality. Switzerland should show itself as a valuable and committed partner, for example with contributions in strategic sectors such as re-search, development and innovation.
+
+In addition, Switzerland should, like Finland and Sweden have done so far, aim to participate in exercises for common defense, namely with military units. More staff officers and experts should be sent to the international staffs of NATO and the European Union, and this should carry more weight in career planning. The development of partnerships in view of missions and industrial capabilities should be encouraged. Cooperation should be promoted in the areas of cyber, intelli-gence services, supply, armaments procurement and coping with nuclear threats, as well as a po-litical dialogue with NATO and the European Union at the highest possible level. Finally, Swit-zerland's participation in the military peace supporrt activities of these organizations should be strengthened.
+
+The concrete recommendations largely correspond to the considerations and suggestions con-tained in this supplementary report with regard to intensifying cooperation. This applies, for ex-ample, to the consideration of participation in exercises for common defence, the examination of Enhanced Opportunity Partner status, the strengthening of interoperability and the armed forces’ anti-tank and air defence capabilities, as well as the development of robotics and drones. It is also proposed to send more staff to NATO and EU bodies, expand cooperation with the European Defence Agency, participate in Pesco projects and promote cooperation between industry and the European Defence Fund. It is also proposed to examine issues that are already being worked on in the Federal Department of Defence, Civil Protection and Sport, such as the consideration of foreign assignments in career planning in the armed forces, or more public information about strengthening international cooperation while maintaining neutrality. De Dardel puts particular emphasis on the role of the three Geneva centres, on initiatives such as “Geneva Science and Diplomacy Anticipator”, on strengthening Switzerland’s own capabilities as well as its coopera-tion with NATO and the European Union in the field of cyber, and on modernizing the shelters for nuclear events. Finally, he proposes facilitating the overflights of NATO troops over Switzer-land and procuring military transport aircraft. Only on this last point there are different assess-ments.
+
+Essentially, the independent analysis arrives at the same conclusions as this supplementary report. This applies to the analysis of the threat situation with regard to the war, the effects on Europe as well as the consequences and measures for Swiss security policy, especially international coop-eration.
+
+29/29

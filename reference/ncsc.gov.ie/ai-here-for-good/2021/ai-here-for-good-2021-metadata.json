@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/ncsc.gov.ie/ai-here-for-good@2021",
+  "name": "AI — Here for Good: National Artificial Intelligence Strategy for Ireland (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "ai-here-for-good-2021",
+  "owner": "National Cyber Security Centre (NCSC) & Government of Ireland",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2021 edition of AI — Here for Good: National Artificial Intelligence Strategy for Ireland (AI — Here for Good: National Artificial Intelligence Strategy for Ireland (2021)), published by National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://enterprise.gov.ie/en/publications/national-ai-strategy.html",
+    "textUsed": "https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-07-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/ncsc.gov.ie/ai-here-for-good@2024",
+    "retiredFromActiveUse": "2024-11-06",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf) from landing page (https://enterprise.gov.ie/en/publications/national-ai-strategy.html); extracted 74-page PDF via PyMuPDF (204,001 chars). Parsed 123 sections (41 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
