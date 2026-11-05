@@ -70,7 +70,7 @@ Bakanlığı Sanayi ve Teknoloji Bakanlığı
 
 5 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak
 
-Eylem 1.5_Orta ve uzun vadeli iş gücü analiz ve projeksiyonları dikkate alınarak YZ alanında gerekli akademik insan kaynağı ve bilgi birikiminin (tez, proje, yayın, etkinlik) oluşturulması ve geliştirilmesine yönelik yükseköğretim kurumlarıyla koordinasyon yürütülecektir.
+### Eylem 1.5: Orta ve uzun vadeli iş gücü analiz ve projeksiyonları dikkate alınarak YZ alanında gerekli akademik insan kaynağı ve bilgi birikiminin (tez, proje, yayın, etkinlik) oluşturulması ve geliştirilmesine yönelik yükseköğretim kurumlarıyla koordinasyon yürütülecektir
 
 CB Dijital Dönüşüm Ofisi CB İnsan Kaynakları Ofisi
 
@@ -162,7 +162,7 @@ CB İnsan Kaynakları Ofisi Çalışma ve Sosyal Güvenlik
 
 Milli Eğitim Bakanlığı
 
-### Eylem 1.12:  Mevcut ilgili derslerin müfredatları algoritmik düşünme, YZ teknolojileri ve etik ilkeler ekseninde iyileştirilecek ve ilgili öğretim programları çerçevesinde dijital içerikler hazırlanacaktır
+### Eylem 1.12: Mevcut ilgili derslerin müfredatları algoritmik düşünme, YZ teknolojileri ve etik ilkeler ekseninde iyileştirilecek ve ilgili öğretim programları çerçevesinde dijital içerikler hazırlanacaktır
 
 Bakanlığı Sanayi ve Teknoloji Bakanlığı
 
@@ -172,7 +172,7 @@ CB İnsan Kaynakları Ofisi Sanayi ve Teknoloji Bakanlığı
 
 Milli Eğitim Bakanlığı
 
-### Eylem 1.13:  Ortaöğretim seviyesinde YZ öğretim programı hazırlanacaktır
+### Eylem 1.13: Ortaöğretim seviyesinde YZ öğretim programı hazırlanacaktır
 
 Çalışma ve Sosyal Güvenlik
 
@@ -198,7 +198,9 @@ Milli Eğitim Bakanlığı Hazine ve Maliye Bakanlığı Sanayi ve Teknoloji Bak
 
 ### Eylem 1.15: Öğretmenlerin YZ alanında hizmet içi eğitimlerle farkındalıkları ve kapasiteleri artırılacaktır
 
-Milli Eğitim Bakanlığı DOGM Bağlı Okullar Eylem 1.16_ HİSAR Projesi kapsamında eğitici eğitimi tamamlanacaktır.
+Milli Eğitim Bakanlığı DOGM Bağlı Okullar
+
+### Eylem 1.16: HİSAR Projesi kapsamında eğitici eğitimi tamamlanacaktır
 
 17 Yapay Zekâ Uzmanlarını Yetiştirmek ve Alanda İstihdamı Artırmak
 
@@ -232,7 +234,7 @@ Milli Eğitim Bakanlığı
 
 İlgili STK'ler
 
-### Eylem 1.19:  Algoritmik düşünme, kodlama ve YZ uygulamalı eğitim konularında dijital becerileri geliştirmeye yönelik eğitimler ve içerikler hazırlanacaktır
+### Eylem 1.19: Algoritmik düşünme, kodlama ve YZ uygulamalı eğitim konularında dijital becerileri geliştirmeye yönelik eğitimler ve içerikler hazırlanacaktır
 
 4/14
 
@@ -302,7 +304,7 @@ STK'ler Özel Sektör
 
 24 Araştırma, Girişimcilik ve Yenilikçiliği Desteklemek
 
-Eylem 2.3: Yapay zekâ ekosisteminin geliştirilmesi amacıyla yerli üretken yapay zekâ uygulamalarına yönelik ulusal yarışmalar düzenlenecektir
+### Eylem 2.3: Yapay zekâ ekosisteminin geliştirilmesi amacıyla yerli üretken yapay zekâ uygulamalarına yönelik ulusal yarışmalar düzenlenecektir
 
 ### Eylem 2.4: Yurt içinde yapılan AR-GE çalışmaları sonucunda ortaya çıkan YZ ürün ve çözümlerinin KOBİ'ler tarafından kullanılmasını teşvik edecek destek programı hayata geçirilecektir
 
@@ -324,7 +326,7 @@ Türk Patent ve Marka
 
 Kurumu
 
-Eylem 2.6_Yapay zekâ alanında Türkiye'de faaliyet gösteren ulusal ve uluslararası firmalara ve ürünlere yönelik envanter oluşturulacak ve deneyimli girişimler ile kurumsal firmaların ve yatırımcıların bir araya getirildiği etkinlikler düzenlenecektir.
+### Eylem 2.6: Yapay zekâ alanında Türkiye'de faaliyet gösteren ulusal ve uluslararası firmalara ve ürünlere yönelik envanter oluşturulacak ve deneyimli girişimler ile kurumsal firmaların ve yatırımcıların bir araya getirildiği etkinlikler düzenlenecektir
 
 Devlet Malzeme Ofisi
 
@@ -372,7 +374,9 @@ TÜBİTAK
 
 ### Eylem 2.9: 1711 - Yapay Zekâ Ekosistem Çağrısına çıkılacaktır
 
-CB Yatırım Ofisi CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı Eylem 2.10_Girişim sermayesi fonları ile işbirlikleri geliştirilecektir.
+CB Yatırım Ofisi CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
+
+### Eylem 2.10: Girişim sermayesi fonları ile işbirlikleri geliştirilecektir
 
 Kalkınma Ajansları
 
@@ -392,7 +396,7 @@ Bakanlığı
 
 No Stratejik Öncelik Eylem Sorumlusu Kurum İlgili Kurum Eylem Adı
 
-Eylem 3.1_YZ ürün ve çözümleri ile üretken yapay zekâ modellerinin geliştirilmesi amacıyla YZ alanında Türkiye'yi küresel oyuncu haline getirecek işlemci altyapısına yönelik ihtiyaç analizi yapılacak ve kapasite geliştirilecektir.
+### Eylem 3.1: YZ ürün ve çözümleri ile üretken yapay zekâ modellerinin geliştirilmesi amacıyla YZ alanında Türkiye'yi küresel oyuncu haline getirecek işlemci altyapısına yönelik ihtiyaç analizi yapılacak ve kapasite geliştirilecektir
 
 Sanayi ve Teknoloji Bakanlığı
 
@@ -414,7 +418,7 @@ Sanayi ve Teknoloji Bakanlığı CB Strateji ve Bütçe Başkanlığı
 
 CB Dijital Dönüşüm Ofisi Türkiye İstatistik Kurumu
 
-Eylem 3.2_Kamu kurum ve kuruluşlarının sahip olduğu verilere ilişkin envanter çıkarılarak “Merkezi Kamu Veri Alanı” kurulacak ve bu verilerin araştırmacıların ve teknoloji geliştiricilerin kullanımına sunulmasına yönelik mekanizmalar geliştirilecektir.
+### Eylem 3.2: Kamu kurum ve kuruluşlarının sahip olduğu verilere ilişkin envanter çıkarılarak “Merkezi Kamu Veri Alanı” kurulacak ve bu verilerin araştırmacıların ve teknoloji geliştiricilerin kullanımına sunulmasına yönelik mekanizmalar geliştirilecektir
 
 Ulaştırma ve Altyapı Bakanlığı
 
@@ -430,7 +434,7 @@ CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
 
 TÜBİTAK
 
-### Eylem 3.3:  YZ alanındaki gereksinimler değerlendirilerek YBH altyapıları için ortak teknik referans mimarisi oluşturulacaktır
+### Eylem 3.3: YZ alanındaki gereksinimler değerlendirilerek YBH altyapıları için ortak teknik referans mimarisi oluşturulacaktır
 
 Strateji ve Bütçe Başkanlığı
 
@@ -508,7 +512,9 @@ Türkiye Adalet Akademisi Hakimler ve Savcılar Kurulu Kişisel Verileri Koruma 
 
 CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
 
-TÜBİTAK Eylem 4.5_YZ Değer ve İlkeler Etki Analizi Çerçevesi oluşturulacaktır.
+TÜBİTAK
+
+### Eylem 4.5: YZ Değer ve İlkeler Etki Analizi Çerçevesi oluşturulacaktır
 
 CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
 
@@ -522,7 +528,7 @@ Türk Standardları Enstitüsü
 
 Üniversiteler
 
-Eylem 4.7_YZ yaşam döngüsündeki işlevsel operasyonları kapsayan “Algoritmik hesap verebilirlik” ile ilgili denetim rehberlerinin hazırlanması, uygulama temelli teknik denetimlerin yapılması amacıyla gerekli mekanizmalar oluşturulacaktır.
+### Eylem 4.7: YZ yaşam döngüsündeki işlevsel operasyonları kapsayan “Algoritmik hesap verebilirlik” ile ilgili denetim rehberlerinin hazırlanması, uygulama temelli teknik denetimlerin yapılması amacıyla gerekli mekanizmalar oluşturulacaktır
 
 CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
 
@@ -550,7 +556,7 @@ Topluluklar Başkanlığı Yükseköğretim Kurulu
 
 44 Sosyoekonomik Uyumu Hızlandıracak Düzenlemeleri Yapmak
 
-### Eylem 4.9:  YZ alanında uluslararası platformlarda benimsenen istatistikler ve ulusal politikaların incelenerek gerekli görülmesi durumunda Resmî İstatistik Programı güncellenecektir
+### Eylem 4.9: YZ alanında uluslararası platformlarda benimsenen istatistikler ve ulusal politikaların incelenerek gerekli görülmesi durumunda Resmî İstatistik Programı güncellenecektir
 
 Türkiye İstatistik Kurumu CB Dijital Dönüşüm Ofisi Sanayi ve Teknoloji Bakanlığı
 
@@ -696,7 +702,9 @@ Topluluklar Başkanlığı Yükseköğretim Kurulu
 
 53 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak
 
-TÜBİTAK Kamu Kurumları Eylem 6.1_Kamu idarelerinin ihtiyaçları sektör uzmanlığı ile eşleştirmek üzere yeni "Kamu YZ Ekosistem Çağrıları" açılacaktır.
+TÜBİTAK Kamu Kurumları
+
+### Eylem 6.1: Kamu idarelerinin ihtiyaçları sektör uzmanlığı ile eşleştirmek üzere yeni "Kamu YZ Ekosistem Çağrıları" açılacaktır
 
 CB Dijital Dönüşüm Ofisi
 
@@ -730,7 +738,9 @@ TÜBİTAK
 
 ### Eylem 6.3: YZ uygulamaları denetim ve yasal uyumu için belgelendirme mekanizması doğrultusunda “Güvenilir Yapay Zekâ Damgası" oluşturulacaktır
 
-İlgili Tüm Kurumlar İlgili Tüm Kurumlar Eylem 6.4_Kamu kurum ve kuruluşları yapay zekâ uygulamalarının yaygınlaşmasına öncülük edecek projeleri hayata geçirecektir.
+İlgili Tüm Kurumlar İlgili Tüm Kurumlar
+
+### Eylem 6.4: Kamu kurum ve kuruluşları yapay zekâ uygulamalarının yaygınlaşmasına öncülük edecek projeleri hayata geçirecektir
 
 11/14
 
@@ -760,11 +770,11 @@ TÜBİTAK Tüm Bakanlıklar
 
 60 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak
 
-Eylem 6.6: YZ alanında mevcut işgücünün dönüşümü için özelleştirilmiş YZ eğitim modeli tasarlanacaktır
+### Eylem 6.6: YZ alanında mevcut işgücünün dönüşümü için özelleştirilmiş YZ eğitim modeli tasarlanacaktır
 
 ### Eylem 6.7: YZ Enstitüsü kurumsal kapasitesi tüm ekosistemi destekleyecek şekilde geliştirilecek ve Enstitü bünyesinde Temel Yapay Zekâ Araştırma Grubu kurulacaktır
 
-Eylem 6.8_Ülkemizin siber uzaydaki varlıklarına karşı yöneltilen özellikle yapay zekâ ile güçlendirilmiş yeni nesil siber tehditlerin tespit edilmesi, önlenmesi ve etkilerinin azaltılması kapsamındaki işlerin tek elden yürütülmesi amacıyla gerekli politika ve mevzuat geliştirme çalışmaları yürütülecektir.
+### Eylem 6.8: Ülkemizin siber uzaydaki varlıklarına karşı yöneltilen özellikle yapay zekâ ile güçlendirilmiş yeni nesil siber tehditlerin tespit edilmesi, önlenmesi ve etkilerinin azaltılması kapsamındaki işlerin tek elden yürütülmesi amacıyla gerekli politika ve mevzuat geliştirme çalışmaları yürütülecektir
 
 Ulaştırma ve Altyapı Bakanlığı
 
@@ -814,7 +824,7 @@ TÜBİTAK Tüm Bakanlıklar
 
 65 Yapısal ve İş Gücü Dönüşümünü Hızlandırmak
 
-Eylem 6.12: TÜBİTAK Bilgem Yapay Zekâ Enstitüsü yönetiminde “Türkiye Yapay Zekâ Portali” kurulacak ve idame ettirilecektir
+### Eylem 6.12: TÜBİTAK Bilgem Yapay Zekâ Enstitüsü yönetiminde “Türkiye Yapay Zekâ Portali” kurulacak ve idame ettirilecektir
 
 ### Eylem 6.13: TÜBİTAK BİLGEM Yapay Zekâ Enstitüsü bünyesinde ortak fonlama ile kurulacak olan ve Enstitünün tematik alan yapılanmasıyla uyumlu “YZE Birlikte Geliştirme Laboratuvarlarının” kurulacaktır
 

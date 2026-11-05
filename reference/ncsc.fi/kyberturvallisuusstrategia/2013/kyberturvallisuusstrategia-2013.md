@@ -666,9 +666,9 @@ er risks can also be associated with cyber threats. For example, terrorist strik
 
 physical destruction can also incorporate various cyber operations.
 
-3. PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS
+### 3. PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS
 
-### 3.1 Basic principles of cyber security management
+#### 3.1 Basic principles of cyber security management
 
 The Government comprises the highest level of cyber security management. The Prime
 
@@ -824,9 +824,9 @@ incident management encompasses four elements: contingency planning, compilation
 
 a situation picture, countermeasures and recovery.
 
-4. SECURING THE VITAL FUNCTIONS OF SOCIETY AGAINST CYBER THREATS
+### 4. SECURING THE VITAL FUNCTIONS OF SOCIETY AGAINST CYBER THREATS
 
-### 4.1 Cyber situation awareness and setting up the Cyber Security Centre
+#### 4.1 Cyber situation awareness and setting up the Cyber Security Centre
 
 Improve comprehensive cyber security situation awareness among the key actors that participate in securing the vital functions of society. Establish a Cyber Security Centre, supported by a cooperative network of actors.
 
@@ -1738,9 +1738,9 @@ sic rights, and to their impact on the rules on jurisdiction, for instance, when
 
 gathering powers are being expanded.
 
-6. IMPLEMENTATION OF THE CYBER SECURITY STRATEGY
+### 6. IMPLEMENTATION OF THE CYBER SECURITY STRATEGY
 
-### 6.1 Principles of implementing the Strategy
+#### 6.1 Principles of implementing the Strategy
 
 Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.
 

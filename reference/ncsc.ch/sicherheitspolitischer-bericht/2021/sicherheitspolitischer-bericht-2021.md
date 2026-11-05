@@ -64,7 +64,7 @@ The report on security policy is coordinated with the message containing the pla
 
 The security of Switzerland is mainly influenced by the following trends: increased com-petition between the great powers, globalisation (with sometimes counteracting tenden-cies towards regionalisation and nationalisation), technological progress and social polar-isation. International security policy is characterised by the struggle for spheres of influ-ence and shifting ways of the conduct of conflict. Global interconnectedness is progress-ing, although some states are trying to limit or even reduce their own integration.
 
-### 2.1.1 Increased competition between the great powers
+#### 2.1.1 Increased competition between the great powers
 
 International security is today characterised by increased competition between the great powers and emerging regional powers. This is particularly evident in the struggle for spheres of influence. Russia, China, the United States and a number of regional powers are increasingly using pressure to assert their claims through political, economic and mil-itary influence, their own interpretation of legal norms and rules of behaviour, the control of infrastructure, technologies, resources and transport routes, and the use of information as an instrument.
 
@@ -74,7 +74,7 @@ At the same time, the ability to act of international security organisations suc
 
 The end of the Cold War was the end of bipolarity in international security policy. The subsequent phase of American dominance now seems to be coming to an end, too. It is unclear whether a stable structure – for example a new bipolar order between the United States and China or a multipolar order – will re-emerge in the foreseeable future.
 
-### 2.1.2 Globalisation and regionalisation
+#### 2.1.2 Globalisation and regionalisation
 
 Overall, the economic, technological, political and social interconnectedness is rising. But there are also counter-trends: nationalism and protectionist reflexes have received a boost in many countries. In some economically advanced societies, scepticism about globalisation is growing. The fact that no single great power dominates globally fosters the emergence of regional arrangements of international order.
 
@@ -84,7 +84,7 @@ From a perspective of security policy, the sustained growth in importance of non
 
 Even if non-state actors have gained in power, states continue to play a central role in the pursuit of political, normative or economic interests. The importance of the state has also in many countries become evident in the fight against the Covid-19 pandemic. It is pos-sible that production chains will be more firmly anchored in regions in order to achieve greater reliability. States and groups of states could also turn their backs on global eco-nomic bodies, which would weaken international norms. An actual break with globalisa-tion seems unlikely, especially since this would result in massive cost consequences and could not be implemented quickly.
 
-### 2.1.3 Technological progress
+#### 2.1.3 Technological progress
 
 New technologies are being developed ever faster and used more widely. Digitisation and advances in sensor technology lead to more and better data. Modern communication tech-nologies enable the exchange of steadily growing amounts of data, which are recorded, interlinked and made available with powerful computers and algorithms. The use and interpretation of this data is a competitive advantage, but harbours potential for abuse. In the course of digitisation, software is increasingly taking over the control of previously manual processes, including such with physical effects.
 
@@ -94,13 +94,13 @@ States can become dependent on actors who are in the lead in developing these te
 
 open as possible is advantageous because it supports freedom of choice and security. However, the open exchange may be restricted or prevented for reasons of security or power politics, for example to protect one's own infrastructure, research and development or to deny competitors access to markets. This creates chains of technologies and manu-facturers whose products and systems are incompatible with those of other technology chains. This could lead to a fragmentation of technological development and even force states to opt for a certain technology chain. In any case, a restricted freedom of action in the selection and procurement of new technologies is to be expected, as the dispute over the use of Chinese technologies by western states already shows.
 
-### 2.1.4 Polarisation of society
+#### 2.1.4 Polarisation of society
 
 The ongoing change in individual and collective behaviour is also relevant to security policy. In addition to material drivers such as economic pressure or income disparities, an essential feature of this development is the strengthening of "identity" as the core of political movements. This phenomenon, also known as identity politics, emphasises char-acteristics such as gender, ethnicity, language, origin or political orientation. Identity is perceived as an individual choice and transnational. This development promotes social fragmentation and polarisation: While certain groups welcome the increase in social openness and diversity and also demand equality for themselves or other groups, others demand a closed-door policy and agitate against population groups with certain charac-teristics. These groups are increasingly irreconcilable. Linked to fragmentation and po-larisation is the risk of political radicalisation and violent extremism.
 
 Social media and search engines are increasingly shaping the information landscape. They are mainly designed as platforms for the exchange of content and remain largely without editorial supervision. The algorithmically personalised selection of content can have the result that Internet users are being exposed to almost only information that cor-responds to their existing views. This favours the formation of so-called "filter bubbles". The users’ selection pattern can also support the formation of “echo chambers” in which people with the same opinions interact and become radicalised over time. The actual ef-fect of both mechanisms is, however, less than sometimes assumed; the vast majority still turn to traditional media as a source of information and are involved in social media net-works with diverse opinions. However, echo chambers can arise on the political fringes.
 
-### 2.1.5 Evolution in the conduct of conflict
+#### 2.1.5 Evolution in the conduct of conflict
 
 The way in which conflicts are conducted is changing, reflecting political, technological and social developments of the last few years.
 
@@ -186,7 +186,7 @@ The orientation of the United States has a direct effect on the cohesion of NATO
 
 The threats to Switzerland are discussed below. It should be noted that the individual threats can impact simultaneously, in a coordinated and mutually reinforcing way on Switzerland and can put at risk Switzerland's political system, its population and its bases of existence.
 
-### 2.3.1 Threats from cyberspace
+#### 2.3.1 Threats from cyberspace
 
 Cyber-attacks can be conducted for different purposes: for espionage, sabotage, manipu-lation, disinformation or criminal purposes. Behind them are cyber criminals, hacktivists, profit-oriented hacking companies, front companies for states or state organisations. Some states are vigorously expanding their capabilities in the offensive cyber sector, be it by upgrading their own abilities or by working with non-state groups. An increase in state-ordered cyber-attacks with unclear perpetrators must therefore be expected. The threat in cyberspace is also growing because of the increasing willingness to employ cyber resources aggressively in conflicts and because of the decreasing scruples of cyber crim-inals about accepting damage.
 
@@ -200,7 +200,7 @@ could mean that Switzerland would in future have to limit itself to cooperation 
 
 The strong systemic interdependencies and dependencies on global supply chains lead to increased vulnerability and the multiplication of effects that can be triggered by cyber incidents. This increases the risk to critical infrastructures, which can be damaged even in the event of cyber incidents that do not directly aim at harming them.
 
-### 2.3.2 Influence activities and disinformation
+#### 2.3.2 Influence activities and disinformation
 
 Influence activities aim to manipulate the perception, thinking and acting of individuals, groups and societies.
 
@@ -216,7 +216,7 @@ Emphasis must be put on the threat potential posed by influence activities to Sw
 
 So far, Russia and China have been to the fore for Switzerland in connection with influ-ence activities. These states do not pursue the same goals with their influencing activities and accordingly use different means. It is to be expected that in the future other states will also be able and willing to carry out such activities against and in Switzerland.
 
-### 2.3.3 Terrorism
+#### 2.3.3 Terrorism
 
 Individuals and cells connected to the “Islamic State” were discovered in Switzerland. Some persons were convicted for participating in the planning of attacks from Swiss ter-ritory. Investigations by the Swiss authorities have shown that travellers from Switzerland with jihadist motives were involved in the planning of attacks on infrastructures on our territory . The propaganda of jihadist groups can also inspire individuals, who often live in socially precarious situations or have psychological problems, to commit acts of vio-lence in Switzerland.
 
@@ -232,7 +232,7 @@ Swiss institutions or persons abroad can at any time be the target of opportunis
 
 Despite these developments, terrorist groups with different ideological backgrounds will continue to use Switzerland's territory primarily for recruitment, propaganda and logisti-cal and financial support activities.
 
-### 2.3.4 Violent extremism
+#### 2.3.4 Violent extremism
 
 Currently, three scenes are considered violent extremist: that of the left-wing extremists, that of the right-wing extremists and that of monothematic extremism (this includes cur-rently parts of the animal rights movement and of the opponents of the governmental measures to contain the Covid-19 pandemic). So far, violence in these three milieus has remained below the threshold of terrorism.
 
@@ -242,7 +242,7 @@ Such a development from violent extremism to terrorism can be observed in variou
 
 Other movements could also in the next few years switch to pursuing their political ideas with the use of force, similar to what can currently be observed with regard to the violent Corona-extreme scene. Followers of extreme views and ideologies could become radical-ised if they come to the conclusion that their concerns are not taken into account in the normal political processes. The effects of the Covid-19 pandemic could exacerbate such tendencies.
 
-### 2.3.5 Armed conflict
+#### 2.3.5 Armed conflict
 
 Conflicts are more and more frequently conducted in a hybrid way, for example through the use of unmarked troops or cyber and disinformation. But the direct threat or use of armed force by state actors also remains a reality in Europe.
 
@@ -256,7 +256,7 @@ Due to the increasingly hybrid nature of the way conflicts are being conducted, 
 
 An armed attack on Switzerland or other European countries could also be carried out from outside Europe over great distances. Ballistic missiles, cruise missiles and hyper-sonic weapons would be particularly suitable for this. Only a few states are currently capable of such attacks, and no such intentions are apparent or to be expected from these. However, the spread of such weapon systems will continue. To be sure, an attack on Switzerland with long-range weapons is not considered likely in the next few years, but the Libya crisis of 2008-2010 has shown how a state can take drastic measures against Switzerland without much warning. If such an actor has long-range weapons, it could threaten Switzerland with military means and blackmail it.
 
-### 2.3.6 Development and proliferation of weapon systems
+#### 2.3.6 Development and proliferation of weapon systems
 
 Arms control and disarmament have been severely weakened in recent years by violations of existing agreements and, above all, by the termination of important agreements by major powers.1 It is possible, but by no means certain, that the change in government in Washington will result in a reversal of this trend.
 
@@ -272,13 +272,13 @@ Additional states will gain the ability to conduct networked warfare in far-away
 
 As an innovative location for research and industry, Switzerland is affected by the risk of the spread of technology for high-tech weapons and must continue to implement measures to prevent such proliferation. Swiss industry has know-how and skills in materials sci-ence, which are for example important for the development of hypersonic weapons. Ro-botics and civil drone development in Switzerland could assist foreign military develop-ments. Precision instruments have always been one of the core skills of the Swiss econ-omy. In order to gain access to technology, foreign states not only procure individual goods, but also buy up technology carriers or offer Swiss universities attractive coopera-tion agreements. This can be used for developments that endanger Switzerland.
 
-### 2.3.7 Prohibited intelligence activities
+#### 2.3.7 Prohibited intelligence activities
 
 As the seat of international organisations and multinational corporations, place of inter-national negotiations, financial and trading centre and location for technology and re-search, Switzerland is an attractive target for espionage. Intelligence services can also threaten Swiss interests directly by targeting members of the diplomatic corps, of the armed forces, of communal, cantonal and federal authorities, journalists, researchers, business managers and exposed persons of certain diaspora communities.
 
 Switzerland will continue to be affected by prohibited intelligence activities. All indica-tions are that the resources and capabilities of intelligence services are expanding around the world. In this context, offensive cyber tools are also continuously being refined. Dig-itisation creates new opportunities to steal sensitive information or sabotage information systems. It is to be expected that the increase in cyber-attacks for espionage purposes with state authorship that has been observed in recent years will continue.
 
-### 2.3.8 Serious and organised crime
+#### 2.3.8 Serious and organised crime
 
 Crime in Switzerland is shaped by the rapidly developing technological possibilities. The criminal world is adapting its modus operandi and exploiting these new tools. In the case of digital crime (cyber-crime), modern technologies such as internet services, social me-dia and encryption are used, especially for property crimes. These can be committed by organised criminal groups as well as by perpetrators with a lower level of organisation.
 
@@ -292,7 +292,7 @@ Significant changes in the threat situation
 
 There has been an increase especially in threats of a hybrid nature, for example from the cyber and information space for espionage, influence activities and digital crime. Tech-nological developments and the erosion of arms control increase the risk of proliferation and the potential for misuse of technologies that are researched or manufactured in Swit-zerland. The threats from terrorism and organised crime continue. The increasing polari-sation of society can exacerbate the threat of violent extremism. Switzerland does not currently face any direct threat of direct conventional military attack; however, this could arise in the course of a military confrontation between NATO and Russia. In such a case, the focus would probably be on the use of precision weapons, special operations forces and cyber-attacks on military and civil targets. However, Switzerland, its population and its bases of existence can also be affected in many ways by armed conflicts at the periph-ery of Europe.
 
-### 2.3.9 Disasters, emergencies and other major events
+#### 2.3.9 Disasters, emergencies and other major events
 
 Disasters and emergencies are events and situations that cause such great damage or dis-ruption that the personnel and material of the affected community are insufficient to cope with them. They can have natural, technological and social causes. Disasters occur sud-denly (e.g., earthquakes, power outages), while emergencies often arise over a long period of time and last longer (e.g., heat waves, power shortages or pandemics). There is also the risk of parallel disasters in the area of natural hazards (wildfires, floods, droughts, heat waves, earthquakes, etc.) and of emergencies such as a pandemic.
 
@@ -310,7 +310,7 @@ Significant changes regarding disasters, emergencies and other major events
 
 Societal dangers in particular have become more pronounced, with the Covid 19 pan-demic being an impressive example. But it is to be expected that natural disasters will also continue to become more frequent due to climate change, with extremely heavy pre-cipitation being just as possible as emergencies due to persistent drought and heat waves. Though the likelihood of technology-related disasters could tendentially be reduced in the last five years by preventive measures, the densification of agglomerations and infra-structures as well as complex supply chains and cyber risks have at the same time in-creased the vulnerabilities.
 
-### 2.3.10 Aspects of migration relevant to security policy
+#### 2.3.10 Aspects of migration relevant to security policy
 
 Migration is not in itself a security-policy threat to Switzerland, but it can entail side effects that are significant in terms of security policy, e.g., human smuggling and traf-ficking, crime, violent extremism and terrorism. Migration from crisis areas in the Middle East and North Africa in particular carries the risk that jihadist actors will be smuggled into Switzerland. Many European countries, including Switzerland, have tightened their screenings of asylum seekers with a focus on possible jihadists. In addition, many migra-tion routes are no longer as open and permeable. The transit countries on the main migra-tion routes have improved their border controls, and controls at the European Union’s external borders have also been strengthened.
 
@@ -442,7 +442,7 @@ Men who are fit to serve in the armed forces but cannot reconcile military servi
 
 The following describes how Switzerland intends to pursue and implement its security policy objectives.
 
-## 4.2.1 Strengthening the early detection of threats, dangers and crises
+#### 4.2.1 Strengthening the early detection of threats, dangers and crises
 
 The international situation has become more volatile and more difficult to predict. The advance warning time for developments in security policy has been shortened. Surprising developments and chains of events must be expected. The changed conduct of conflict makes it more difficult to identify cyber threats against critical infrastructures or foreign influence activities directed against Switzerland. Effective early detection and assessment of threats and their interrelationships is all the more important so that relevant develop-ments can be anticipated in good time and appropriate measures can be taken.
 
@@ -460,7 +460,7 @@ The following measures in particular serve to improve the early detection of thr
 
 • Strengthening the representations of Switzerland, among other things by shifting al-most three dozen post from the headquarters, as a contribution to the early detection and analysis on site of developments relevant to security policy.
 
-## 4.2.2 Strengthening international cooperation, security and stability
+#### 4.2.2 Strengthening international cooperation, security and stability
 
 The international order based on rules has contributed to security and prosperity in Swit-zerland. Switzerland will continue to support democracy and freedom, the rule of law, human rights and international law, as well as international organisations capable of act-ing and multilateral agreements. The aspired seat on the United Nations Security Council 2023–2024 will provide Switzerland with an additional instrument to stand up for its in-terests, convictions and values.
 
@@ -486,7 +486,7 @@ The following measures in particular serve to strengthen international cooperati
 
 • Commitment to the further development of arms control and disarmament in the light of new technological developments and of their effects on weapon systems (e.g., big data, artificial intelligence, autonomy and new network technologies) and elaboration of a new strategy for arms control and disarmament.
 
-## 4.2.3 Increased focus on hybrid conduct of conflict
+#### 4.2.3 Increased focus on hybrid conduct of conflict
 
 The hybrid conduct of conflict encompasses a wide range of instruments, from economic pressure, cyber, influence activities and espionage to military attack. It must be captured in its full range in order to identify and ward off threats, develop countermeasures and strengthen the resilience of the state and the society against them.
 
@@ -514,7 +514,7 @@ In view of the changed ways of conducting conflicts, an armed attack on Switzerl
 
 The answer to the question of whether the armed forces are to be used in their main role for defence or in a subsidiary role to support the civil authorities therefore depends less on where an attack comes from and by what means it is carried out, but on the extent of the threat: If the intensity and the extent of a threat are such that the territorial integrity, the entire population or the exercise of state authority are threatened, the armed forces may be used for defence in their main, non-subsidiary role. The decision as to whether the armed forces are in a given case deployed for defence (and the threshold to armed conflict has hence been crossed) or in a subsidiary role rests in each case with the Federal Council and Parliament.
 
-## 4.2.4 Free formation of opinion and unadulterated information
+#### 4.2.4 Free formation of opinion and unadulterated information
 
 The risk increases that Switzerland may become a target of influence activities and disin-formation. Efforts to disrupt or manipulate political decision-making processes could par-ticularly be undertaken in the context of elections and votes, but also in crisis situations. However, there are also some indications that Switzerland and its population are relatively robust vis-a-vis such attempts of influence and disinformation. In addition to the good education level, which is an important factor and promotes media and political compe-tence, the Swiss are used to dealing with political issues several times a year by voting. The decentralised organisation and implementation of voting and the diverse media land-scape also contribute to a better resistance to attempts of outside influence.
 
@@ -526,7 +526,7 @@ The following measures in particular serve to promote the free formation of opin
 
 • The exchange with the cantons on threats from influence activities will be continued.
 
-## 4.2.5 Strengthening the protection against cyber threats
+#### 4.2.5 Strengthening the protection against cyber threats
 
 Cyber threats will evolve rapidly with the advancement of digitisation and artificial intel-ligence. Due to the ongoing threat and technological developments, particular attention must be paid to the dependencies and vulnerabilities in the cyber area and the security of supply chains.
 
@@ -560,7 +560,7 @@ The following measures in particular serve to further strengthen the protection 
 
 • Establishment of a digitisation division in the Federal Department of Foreign Affairs and appointment of a Special Representative for Science Diplomacy in Geneva in or-der to strengthen Switzerland's ability to shape international policy in the field of dig-itisation.
 
-### 4.2.6 Preventing terrorism, violent extremism, organised and other transna-tional crime
+#### 4.2.6 Preventing terrorism, violent extremism, organised and other transna-tional crime
 
 The fight against terrorism, violent extremism and organised and other transnational crime remains a priority. Switzerland combats these threats with means of prevention and repression in close cooperation of the relevant federal and cantonal authorities and with foreign partners. Based on an assessment of the threat situation, a strategy for combating
 
@@ -600,7 +600,7 @@ The following measures in particular serve to combat terrorism, violent extremis
 
 • Transformation of the Federal Customs Administration into a Federal Office for Cus-toms and Border Security based on digital border processes and with a staff that can be used flexibly in order to cover, as part of a comprehensive control, the three areas of people, goods and means of transport that are essential to the work of the Federal Customs Administration.
 
-### 4.2.7 Strengthening resilience and security of supply
+#### 4.2.7 Strengthening resilience and security of supply
 
 In order to be prepared for the direct and indirect effects of tensions and crises, Switzer-land must further strengthen its resilience, adaptability and regeneration capacity. The
 
@@ -630,7 +630,7 @@ The following measures in particular serve to strengthen resilience and security
 
 • Elaboration of a legal basis for the control of foreign investments.
 
-### 4.2.8 Improving protection against disasters and emergencies and the ability to regenerate
+#### 4.2.8 Improving protection against disasters and emergencies and the ability to regenerate
 
 The network system civil protection is the primary instrument for coping with natural, technological and societal hazards. With the new Federal Law on Civil Protection and Civil Defence of 20 December 201911, it is even more consistently geared to dealing with disasters and emergencies.
 
@@ -658,7 +658,7 @@ The following measures in particular serve to strengthen the protection against 
 
 • Operation and further development of a comprehensive monitoring of natural hazard processes, including satellite-based radar analyses, with regard to mass movements in the mountains, as well as further development, operation and consolidation of federal warning of natural hazards by the federal specialist units represented in the Natural Hazard Intervention Steering Committee (Lenkungsausschuss Intervention Naturge-fahren, Lainat).
 
-## 4.2.9 Strengthening cooperation between authorities and crisis management
+#### 4.2.9 Strengthening cooperation between authorities and crisis management
 
 In view of the concatenation and mutual reinforcement of threats and dangers, coopera-tion between the political areas and instruments relevant to security policy is becoming more and more important. Because of the federally organised structures of Switzerland and its departmental government organisation, smooth coordination of the authorities and assets of the Confederation, the cantons and the municipalities is particularly relevant. The application of the principle of subsidiarity in the event of major incidents relevant to security requires the joint use of several instruments.
 

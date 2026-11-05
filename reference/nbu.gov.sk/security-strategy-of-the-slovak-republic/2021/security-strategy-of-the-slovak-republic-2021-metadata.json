@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre SK-CERT (nbu.gov.sk) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre SK-CERT (nbu.gov.sk).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-SK-Law185-2015-Sec5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (nbu.gov.sk); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (nbu.gov.sk); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2015/185/",
+    "note": "Official publication (nbu.gov.sk); Slovak Copyright Act No. 185/2015 Z.z. § 5(b) (official works, government strategies, and public conceptual materials are excluded from copyright protection).",
+    "notes": "Official publication (nbu.gov.sk); Slovak Copyright Act No. 185/2015 Z.z. § 5(b) (official works, government strategies, and public conceptual materials are excluded from copyright protection)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://www.mosr.sk/data/att/163409.pdf) from landing page (https://www.mosr.sk/bezpecnostna-strategia-sr/); extracted 23-page PDF via PyMuPDF (74,318 chars). Parsed 24 sections (22 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://www.mosr.sk/data/att/163409.pdf) from landing page (https://www.mosr.sk/bezpecnostna-strategia-sr/); extracted 23-page PDF via PyMuPDF (74,318 chars). Parsed 20 sections (18 with explicit section identifiers)."
   },
   "extraction_history": [
     {

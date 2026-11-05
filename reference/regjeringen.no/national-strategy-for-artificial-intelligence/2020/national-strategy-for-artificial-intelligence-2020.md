@@ -416,9 +416,9 @@ several other small-and large-scale initiatives that are discussed in the strate
 
 «Doing nothing with AI», Emanuel Gollob (AT) Photo: Ars Electronica
 
-1 What is AI?
+## 1 What is AI?
 
-## 1.1 Definition
+### 1.1 Definition
 
 Artificial intelligence systems perform actions, physically or digitally, based on interpreting and processing structured or unstructured data, to achieve a given goal.
 
@@ -480,7 +480,7 @@ public sector are rule-based. Our definition of artificial intelligence covers s
 
 these systems, depending on factors such as the complexity of the rule set.
 
-## 1.2 How does artificial intelligence work?
+### 1.2 How does artificial intelligence work?
 
 A system based on artificial intelligence can either interpret data from devices such as sensors, cameras, microphones or pressure gauges or can be fed input data from
 
@@ -590,9 +590,9 @@ The Government will facilitate world-class AI infrastructure in Norway in the fo
 
 «Data urns», Daniel Huber (AT) Photo: Ars Electronica
 
-2 A good basis for AI
+## 2 A good basis for AI
 
-## 2.1 Data and data management
+### 2.1 Data and data management
 
 Data is vital to AI. Today vast datasets are generated from many different sources. AI
 
@@ -1002,7 +1002,7 @@ for data access in connection with licences might be a suitable policy
 
 instrument in this regard
 
-## 2.2 Language data and language resources
+### 2.2 Language data and language resources
 
 Language technology in the form of, for example, speech recognition and language
 
@@ -1146,7 +1146,7 @@ friendly legal language
 
  present a white paper on Sami language, culture and society that focuses on digitalisation
 
-## 2.3 Regulations
+### 2.3 Regulations
 
 Norway has a tradition for modernising its legal framework to meet new technological
 
@@ -1704,7 +1704,7 @@ protection
 
  facilitate more active use of health data for testing the effects and safety of medicines and medical technology
 
-## 2.4 Infrastructure: networks and computing power
+### 2.4 Infrastructure: networks and computing power
 
 Deployment of the electronic communication networks
 
@@ -2038,7 +2038,7 @@ technology will be given prominence already at primary and lower secondary level
 
 population.
 
-## 3.1 Research and higher education
+### 3.1 Research and higher education
 
 Research
 
@@ -2530,7 +2530,7 @@ integrate AI into established study programmes where relevant
 
 places and candidates in AI
 
-## 3.2 Skills
+### 3.2 Skills
 
 The Government wants digital skills and technology literacy to be given more
 
@@ -2814,7 +2814,7 @@ with procurements, and innovative public procurements should be used wherever ap
 
 rather than on specific products or services.
 
-## 4.1 Industrial policy instruments
+### 4.1 Industrial policy instruments
 
 The authorities play an important role in facilitating business development, also with
 
@@ -3134,7 +3134,7 @@ particularly with regard to stimulating SMEs to participate in these activities
 
 the business sector on developing artificial intelligence
 
-## 4.2 AI-based innovation in the public sector
+### 4.2 AI-based innovation in the public sector
 
 The Government believes there is vast potential for the public sector to rationalise and
 
@@ -3366,7 +3366,7 @@ supervision are operated in accordance with the principles for responsible
 
 and trustworthy use of AI
 
-## 5.1 Issues related to artificial intelligence
+### 5.1 Issues related to artificial intelligence
 
 Developing and using artificial intelligence can create challenges and raise many
 
@@ -3476,7 +3476,7 @@ limited. The initial discussions on ethics for artificial intelligence originate
 
 autonomy.37
 
-## 5.2 Ethical principles for artificial intelligence
+### 5.2 Ethical principles for artificial intelligence
 
 In its Global Risk Report 2017, the World Economic Forum characterises artificial
 
@@ -3880,7 +3880,7 @@ consumer rights in light of digital developments
 
  stimulate public debate on the ethical use of artificial intelligence
 
-## 5.3 Security
+### 5.3 Security
 
 To ensure a well-functioning digital society, we must minimise the risk of being
 

@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (hcpn.gouvernement.lu); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (hcpn.gouvernement.lu); publicly released for free download, policy reference, and research."
+    "spdx": "CC0-1.0",
+    "Grouping": "Permissive",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://data.public.lu/en/pages/legal/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (hcpn.gouvernement.lu) is governed by Grand Duchy of Luxembourg Law of 18 April 2001 on Copyright Art. 1(2) (official acts of authority) and Luxembourg Open Data Portal (CC0 1.0 Public Domain Dedication).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (hcpn.gouvernement.lu) is governed by Grand Duchy of Luxembourg Law of 18 April 2001 on Copyright Art. 1(2) (official acts of authority) and Luxembourg Open Data Portal (CC0 1.0 Public Domain Dedication)."
   },
   "links": {
     "wikipedia": "",

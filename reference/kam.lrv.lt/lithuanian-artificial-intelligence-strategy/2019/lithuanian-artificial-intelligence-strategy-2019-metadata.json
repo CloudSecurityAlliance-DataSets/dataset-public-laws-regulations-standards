@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-LT-Copyright-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (kam.lrv.lt); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (kam.lrv.lt); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.81676/asr",
+    "note": "Official publication (kam.lrv.lt); Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright).",
+    "notes": "Official publication (kam.lrv.lt); Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright)."
   },
   "links": {
     "wikipedia": "",

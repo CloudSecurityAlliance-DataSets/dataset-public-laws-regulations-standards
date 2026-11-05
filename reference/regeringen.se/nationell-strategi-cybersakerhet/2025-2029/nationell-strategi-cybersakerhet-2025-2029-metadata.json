@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Regeringskansliet / Sveriges regering (regeringen.se) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Regeringskansliet / Sveriges regering (regeringen.se).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-SE-Upphovsratt-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (regeringen.se); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+    "note": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright).",
+    "notes": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 52-page PDF (https://www.government.se/contentassets/e15d576467c3450896bb1c0cea8f811f/a-new-era-of-cybersecurity--national-strategy-for-cybersecurity-2025-2029.pdf) locally via PyMuPDF (81,836 chars). Parsed 42 sections (2 with explicit section identifiers)."
+    "notes": "Extracted 52-page PDF (https://www.government.se/contentassets/e15d576467c3450896bb1c0cea8f811f/a-new-era-of-cybersecurity--national-strategy-for-cybersecurity-2025-2029.pdf) locally via PyMuPDF (81,833 chars). Parsed 42 sections (2 with explicit section identifiers)."
   },
   "extraction_history": [
     {

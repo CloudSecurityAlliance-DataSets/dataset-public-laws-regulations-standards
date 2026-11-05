@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
+    "spdx": "LicenseRef-PT-CDADC-Art7",
     "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (cncs.gov.pt); publicly released for free download, policy reference, and research."
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://dados.gov.pt/pt/terms/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gov.pt) is governed by Portuguese Code of Copyright and Related Rights (CDADC) Art. 7º (official public texts and Council of Ministers resolutions excluded from copyright) and Dados.gov.pt Open Licence (CC BY 4.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gov.pt) is governed by Portuguese Code of Copyright and Related Rights (CDADC) Art. 7º (official public texts and Council of Ministers resolutions excluded from copyright) and Dados.gov.pt Open Licence (CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",

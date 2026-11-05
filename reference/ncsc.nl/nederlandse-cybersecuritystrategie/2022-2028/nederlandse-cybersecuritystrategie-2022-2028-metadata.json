@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre Netherlands (NCSC-NL) (ncsc.nl) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre Netherlands (NCSC-NL) (ncsc.nl).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (ncsc.nl); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (ncsc.nl); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://wetten.overheid.nl/BWBR0001886/",
+    "note": "Official publication (ncsc.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0).",
+    "notes": "Official publication (ncsc.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 30-page PDF (https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf) locally via PyMuPDF (136,001 chars). Parsed 54 sections (17 with explicit section identifiers)."
+    "notes": "Extracted 30-page PDF (https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf) locally via PyMuPDF (136,001 chars). Parsed 46 sections (8 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -12,13 +12,15 @@ INTRODUCTION ...................................................................
 
 STRATEGIC GUIDELINES ........................................................................................................... 5
 
-## 1. DEVELOPMENT OF INTERNATIONAL COOPERATION
+1. DEVELOPMENT OF INTERNATIONAL COOPERATION
 
 – protection of the cyber environment without borders ........................................ 5
 
-2. BETTER COORDINATION OF CYBER SECURITY MANAGEMENT, planning and preparedness ............................................................................................. 6
+2. BETTER COORDINATION OF CYBER SECURITY MANAGEMENT,
 
-## 3. DEVELOPMENT OF CYBER SECURITY COMPETENCE
+planning and preparedness ............................................................................................. 6
+
+3. DEVELOPMENT OF CYBER SECURITY COMPETENCE
 
 – everyday skills and top skills as cyber security safeguards ................................ 8
 

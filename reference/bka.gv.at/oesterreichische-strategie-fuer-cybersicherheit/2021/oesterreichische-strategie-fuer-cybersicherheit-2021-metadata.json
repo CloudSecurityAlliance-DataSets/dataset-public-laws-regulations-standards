@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
+    "spdx": "LicenseRef-AT-UrhG-Sec7",
     "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (bka.gv.at); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (bka.gv.at); publicly released for free download, policy reference, and research."
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=7",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0)."
   },
   "links": {
     "wikipedia": "",

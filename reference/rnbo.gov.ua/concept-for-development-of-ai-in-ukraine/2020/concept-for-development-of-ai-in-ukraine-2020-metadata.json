@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Security and Defense Council of Ukraine (RNBO) & Ministry of Digital Transformation (rnbo.gov.ua).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (rnbo.gov.ua); publicly released for free download, policy reference, and research."
+    "spdx": "LicenseRef-UA-Law2811-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://zakon.rada.gov.ua/laws/show/2811-20",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (rnbo.gov.ua) is governed by Law of Ukraine on Copyright and Related Rights (No. 2811-IX) Art. 8(1)(3) (acts of state authorities, Presidential Decrees enacting NSDC decisions, and official documents are not objects of copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (rnbo.gov.ua) is governed by Law of Ukraine on Copyright and Related Rights (No. 2811-IX) Art. 8(1)(3) (acts of state authorities, Presidential Decrees enacting NSDC decisions, and official documents are not objects of copyright)."
   },
   "links": {
     "wikipedia": "",
@@ -33,7 +33,7 @@
     "published": "2020-12-02",
     "active": true,
     "supersedes": null,
-    "supersededBy": "secid:reference/rnbo.gov.ua/concept-for-development-of-ai-in-ukraine@2024",
+    "supersededBy": null,
     "retiredFromActiveUse": null,
     "notes": ""
   },

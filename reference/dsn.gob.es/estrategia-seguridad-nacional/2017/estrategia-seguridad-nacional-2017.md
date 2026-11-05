@@ -70,7 +70,7 @@ Resumen ejecutivo Introducción Capítulo 1: Una Seguridad Nacional para la Espa
 
 – Europa – Norte de África y Oriente Medio – África subsahariana – América Latina – América del Norte – Asia-Pacífico
 
-### Capítulo 4: Amenazas y desafíos para la Seguridad Nacional
+Capítulo 4: Amenazas y desafíos para la Seguridad Nacional
 
 – Amenazas
 
@@ -84,7 +84,7 @@ Resumen ejecutivo Introducción Capítulo 1: Una Seguridad Nacional para la Espa
 
 • Inestabilidad económica y financiera • Vulnerabilidad energética • Flujos migratorios irregulares • Emergencias y catástrofes • Epidemias y pandemias • Efectos derivados del cambio climático
 
-### Capítulo 5: Objetivos generales y líneas de acción de la Seguridad Nacional
+Capítulo 5: Objetivos generales y líneas de acción de la Seguridad Nacional
 
 – Objetivos generales
 
@@ -98,7 +98,7 @@ Núm. 309 Jueves 21 de diciembre de 2017 Sec. I. Pág. 125969
 
 • Seguridad del espacio aéreo y ultraterrestre • Protección de las infraestructuras críticas • Seguridad económica y financiera • Seguridad energética • Ordenación de flujos migratorios • Protección ante emergencias y catástrofes • Seguridad frente a pandemias y epidemias • Preservación del medio ambiente
 
-### Capítulo 6: Sistema de Seguridad Nacional Nuevas iniciativas según los objetivos generales para la Seguridad Nacional
+Capítulo 6: Sistema de Seguridad Nacional Nuevas iniciativas según los objetivos generales para la Seguridad Nacional
 
 Resumen ejecutivo
 
@@ -168,9 +168,7 @@ En consecuencia, con el fin de poder desempeñar de la forma más eficaz posible
 
 De esta manera, España estará mejor preparada como país abierto y responsable frente a las grandes tendencias y cambios de la era actual que están transformando el escenario de seguridad.
 
-### CAPÍTULO 1
-
-Una Seguridad Nacional para la España de hoy
+## CAPÍTULO 1 — Una Seguridad Nacional para la España de hoy
 
 En este capítulo se describe el perfil de la España actual desde la óptica de los valores constitucionales que propugna, su particular posición geoestratégica, vocación global y los retos derivados del nuevo entorno de seguridad.
 
@@ -218,9 +216,7 @@ Otro de los desafíos globales de este tiempo es el cambio climático. Un fenóm
 
 En este contexto, España debe fomentar una cultura de Seguridad Nacional, apoyada fundamentalmente en un sistema educativo integrador, que fortalezca la concienciación sobre las principales amenazas y desafíos actuales, y su posible impacto en la forma de vida y la prosperidad de los españoles. Una Seguridad Nacional eficaz requiere tanto la sensibilización social de los ciudadanos como la participación de sus representantes.
 
-### CAPÍTULO 2
-
-Dinámicas de transformación de la seguridad global
+## CAPÍTULO 2 — Dinámicas de transformación de la seguridad global
 
 En este capítulo se analizan los procesos de transformación en el entorno de seguridad global desde la aprobación de la Estrategia de Seguridad Nacional de 2013.
 
@@ -262,9 +258,7 @@ El cambio climático es también una pieza clave de la seguridad con importantes
 
 Es por tanto un entorno internacional de seguridad más convulso, caracterizado por la velocidad del cambio, los choques estratégicos y la proliferación de crisis. España y las principales organizaciones a las que pertenece tienen un reto fundamental: entender las causas profundas de los cambios, anticiparse a sus consecuencias y gestionar la incertidumbre, dotándose de estructuras dinámicas y flexibles.
 
-### CAPÍTULO 3
-
-España en el mundo: Un país con vocación global
+## CAPÍTULO 3 — España en el mundo: Un país con vocación global
 
 En este capítulo se analizan, desde la perspectiva de la posición geoestratégica de España, los retos y desafíos que, en materia de Seguridad Nacional, ofrecen las distintas regiones del mundo y se identifican una serie de zonas de especial interés.
 
@@ -364,9 +358,7 @@ En el ámbito de la seguridad, cuestiones como la proliferación de armas y vect
 
 En tales circunstancias, España pretende extender progresivamente su red diplomática, consular, comercial, cultural, de cooperación científica y tecnológica y de seguridad en esta región, incluido el sureste asiático, así como su presencia en los principales foros regionales. También apuesta por el refuerzo de relaciones estratégicas más estrechas con países como Australia, una democracia con elementos comunes con España en su visión de la seguridad y la paz internacional, y un país con el que España mantiene una cooperación industrial en materia de seguridad y defensa cada vez más cercana y mutuamente beneficiosa.
 
-### CAPÍTULO 4
-
-Amenazas y desafíos para la Seguridad Nacional
+## CAPÍTULO 4 — Amenazas y desafíos para la Seguridad Nacional
 
 En este capítulo se identifican las principales amenazas y desafíos para la Seguridad Nacional, los espacios comunes globales como dominios de especial vulnerabilidad, y se destaca la importancia de las infraestructuras críticas.
 
@@ -576,9 +568,7 @@ La reducción de las emisiones de gases de efecto invernadero, la lucha contra l
 
 Por otro lado, el deterioro de la calidad del medio ambiente, a través de la contaminación del aire, las aguas y el suelo, la pérdida de la biodiversidad y la degradación de los hábitats naturales afectan la calidad de vida de las personas y pueden dar lugar a movimientos migratorios de gran calado en busca de una mayor seguridad ambiental.
 
-### CAPÍTULO 5
-
-Objetivos generales y líneas de acción de la Seguridad Nacional
+## CAPÍTULO 5 — Objetivos generales y líneas de acción de la Seguridad Nacional
 
 En este capítulo se establecen cinco objetivos generales que orientan la acción del Estado y se identifican quince ámbitos a los que se asigna un objetivo específico y líneas de acción para su consecución.
 
@@ -950,9 +940,7 @@ Garantizar la conservación de un medio ambiente de calidad y la protección del
 
 • Mantener los esfuerzos en materia de planificación para la adecuada gestión de la escasez hídrica, con especial atención a los riesgos de inundación y sequía.
 
-### CAPÍTULO 6
-
-Sistema de Seguridad Nacional
+## CAPÍTULO 6 — Sistema de Seguridad Nacional
 
 En este capítulo se establecen iniciativas para reforzar el Sistema de Seguridad Nacional, mejorar la coordinación y eficacia de la acción del Estado y la participación de la sociedad.
 

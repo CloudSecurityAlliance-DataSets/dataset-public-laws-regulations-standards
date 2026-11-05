@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC0-1.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (hcpn.gouvernement.lu); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (hcpn.gouvernement.lu); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://data.public.lu/en/pages/legal/",
+    "note": "Official publication (hcpn.gouvernement.lu); Grand Duchy of Luxembourg Law of 18 April 2001 on Copyright Art. 1(2) (official acts of authority) and Luxembourg Open Data Portal (CC0 1.0 Public Domain Dedication).",
+    "notes": "Official publication (hcpn.gouvernement.lu); Grand Duchy of Luxembourg Law of 18 April 2001 on Copyright Art. 1(2) (official acts of authority) and Luxembourg Open Data Portal (CC0 1.0 Public Domain Dedication)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 52-page PDF (https://hcpn.gouvernement.lu/dam-assets/fr/publications/brochure-livre/strategie-nationale-cybersecurite-4/National-Cybersecurity-Strategy-IV.pdf) locally via PyMuPDF (105,877 chars). Parsed 66 sections (47 with explicit section identifiers)."
+    "notes": "Extracted 52-page PDF (https://hcpn.gouvernement.lu/dam-assets/fr/publications/brochure-livre/strategie-nationale-cybersecurite-4/National-Cybersecurity-Strategy-IV.pdf) locally via PyMuPDF (105,865 chars). Parsed 66 sections (47 with explicit section identifiers)."
   },
   "extraction_history": [
     {

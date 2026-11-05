@@ -1174,7 +1174,7 @@ Profesional y universitaria orientada a la IA.
 
 12. Creación de la Oﬁcina del Dato y del Chief Data Ofﬁcer.
 
-### 13. Creación de espacios compartidos de datos sectoriales e industriales y repositorios descentralizados y accesibles.
+13. Creación de espacios compartidos de datos sectoriales e industriales y repositorios descentralizados y accesibles.
 
 14. Impulso al Plan Nacional de Tecnologías del Lenguaje.
 
@@ -1188,13 +1188,9 @@ EJE MEDIDA
 
 ## 4. INTEGRAR LA IA EN LAS CADENAS DE VALOR PARA TRANSFORMAR EL TEJIDO ECONÓMICO
 
-### 17. Lanzamiento de programas de ayudas para empresas
+17. Lanzamiento de programas de ayudas para empresas para incorporación de IA en los procesos productivos de las cadenas de valor.
 
-para incorporación de IA en los procesos productivos de las cadenas de valor.
-
-### 18. Programas de impulso a la transferencia de
-
-innovación en IA mediante los Centros de Innovación Digital especializados en IA de carácter industrial.
+18. Programas de impulso a la transferencia de innovación en IA mediante los Centros de Innovación Digital especializados en IA de carácter industrial.
 
 19. Lanzamiento del Fondo NextTech de capital riesgo público-privado para impulsar el emprendimiento digital y crecimiento de empresas en IA (scale ups).
 
@@ -1202,7 +1198,7 @@ innovación en IA mediante los Centros de Innovación Digital especializados en 
 
 ## 5. POTENCIAR EL USO DE LA IA EN LA ADMINISTRACIÓN PÚBLICA Y EN LAS MISIONES ESTRATÉGICAS NACIONALES
 
-### 21. Incorporar la IA en la administración pública para mejorar la eﬁciencia y eliminar cuellos de botella administrativos.
+21. Incorporar la IA en la administración pública para mejorar la eﬁciencia y eliminar cuellos de botella administrativos.
 
 22. Poner en marcha un laboratorio de innovación para nuevos servicios y aplicaciones de la IA en la Administración Pública (GobTechLab).
 
@@ -1218,7 +1214,7 @@ innovación en IA mediante los Centros de Innovación Digital especializados en 
 
 26. Desarrollo de un sello nacional de calidad IA.
 
-### 27. Poner en marcha observatorios para evaluar el impacto social de los algoritmos.
+27. Poner en marcha observatorios para evaluar el impacto social de los algoritmos.
 
 28. Desarrollar la Carta de Derechos Digitales.
 

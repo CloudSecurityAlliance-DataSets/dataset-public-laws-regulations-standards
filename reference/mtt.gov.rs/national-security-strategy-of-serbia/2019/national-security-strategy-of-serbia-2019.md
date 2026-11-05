@@ -36,7 +36,7 @@ INTRODUCTION....................................................................
 
 5.2. Principles of functioning of the national security system..............................64
 
-### 6. IMPLEMENTATION OF THE NATIONAL
+6. IMPLEMENTATION OF THE NATIONAL
 
 SECURITY STRATEGY............................................................................67
 
@@ -566,7 +566,7 @@ The national security system is managed by the highest holders of legislative an
 
 The executive part of the national security system, through its preventive action, efficient response and elimination of the effects of threats to security, ensures preservation of national values and protection and achievement of our national interests.
 
-### 5.1.1. Governing part of the national security system
+#### 5.1.1. Governing part of the national security system
 
 The governing part of the national security system creates strategic and doctrinal, normative and legal, organisational, material and other conditions for its functioning. Also, it directs its activities relating to the protection and achievement of our national interests and countering challenges, risks and threats to security.
 
@@ -582,7 +582,7 @@ security system and ensures implementation of international treaties and agreeme
 
 The National Security Council represents a body of the Republic of Serbia which reviews the issues in the area of security, defence, internal affairs and work of security services. Also, it overviews and coordinates the mutual cooperation of bodies in charge of defence, bodies in charge of interior affairs and security services and their cooperation with other responsible public bodies, and cooperation with security bodies and agencies of other states and international organizations and it carries out other work and tasks in the field of national security.
 
-### 5.1.2. Executive part of the national security system
+#### 5.1.2. Executive part of the national security system
 
 The executive part of the national security system executes the tasks depending on the type and manner of manifestation of challenges, risks and threats to security, through the engagement of: military and police forces, security services, fire-fighting and rescue units, civil protection units, community militia, customs, security services in institutions for execution of criminal sanctions, judiciary guard, services and agencies for protection of persons and facilities, large technical and technological system, economic subjects, other legal entities, associations, entrepreneurs and citizens.
 

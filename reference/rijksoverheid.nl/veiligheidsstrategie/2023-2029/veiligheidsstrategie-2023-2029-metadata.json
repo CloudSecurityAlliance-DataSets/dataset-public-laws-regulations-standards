@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (rijksoverheid.nl); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://wetten.overheid.nl/BWBR0001886/",
+    "note": "Official publication (rijksoverheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0).",
+    "notes": "Official publication (rijksoverheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden/Veiligheidsstrategie+voor+het+Koninkrijk+der+Nederlanden.pdf) from landing page (https://www.rijksoverheid.nl/documenten/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden); extracted 46-page PDF via PyMuPDF (168,572 chars). Parsed 51 sections (16 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden/Veiligheidsstrategie+voor+het+Koninkrijk+der+Nederlanden.pdf) from landing page (https://www.rijksoverheid.nl/documenten/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden); extracted 46-page PDF via PyMuPDF (168,572 chars). Parsed 50 sections (15 with explicit section identifiers)."
   },
   "extraction_history": [
     {

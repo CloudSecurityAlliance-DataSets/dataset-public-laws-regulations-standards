@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://data.gov.ie/pages/opendatalicence",
+    "note": "Official publication (ncsc.gov.ie); Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021).",
+    "notes": "Official publication (ncsc.gov.ie); Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 60-page PDF (https://www.ncsc.gov.ie/pdfs/National_Cyber_Security_Strategy.pdf) locally via PyMuPDF (111,702 chars). Parsed 57 sections (54 with explicit section identifiers)."
+    "notes": "Extracted 60-page PDF (https://www.ncsc.gov.ie/pdfs/National_Cyber_Security_Strategy.pdf) locally via PyMuPDF (111,699 chars). Parsed 46 sections (43 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -216,8 +216,6 @@ and the preparation of the NAIS.
 
 N A T I O N A L A R T I F I C I A L
 
-
-
 ## Overview of the National Artificial Intelligence Strategy
 
 Since the end of the 1990s, various policies for the information society have been implemented in our country, and with the transition to the Presidential Government System in 2018, the importance of digital transformation has been brought to a higher level. In this context, the realization of “Digital Turkey” has begun to be strongly emphasized on both political and administrative grounds. The Digital Turkey vision aims for a globally competitive Turkey with the increase in productivity it provides by using digital technology, products and services in social, economic and public activities, and the value it generates from data. On the other hand, the effect of turmoil and structural transformations in the global economy has resulted in localization of critical technologies becoming an important political priority for both increasing social welfare and strengthening national security. In this context, policies and practices that will increase Turkey's global competitiveness, strengthen its economic and technological independence, and provide breakthroughs in critical technologies have been structured under the “National Technology Initiative” as an objection to monopolization in scientific and technological developments.
@@ -379,8 +377,6 @@ This section explains the AI values and principles adopted to shed light on the 
 regard in the coming period.
 
 N A T I O N A L A R T I F I C I A L
-
-
 
 AI ethical frameworks are published by international organizations in order to help strengthen a global policy ecosystem that protect human rights, democratic values and rule of law
 
@@ -713,8 +709,6 @@ Strategic Priority
 This section explains the governance mechanism for the implementation of the NAIS and the coordination of the process.
 
 N A T I O N A L A R T I F I C I A L
-
-
 
 For the effective implementation of the NAIS, two-layered and agile governance mechanism will be established based on the main dimensions of the Strategy, namely “Organizational Competence”, “Governance” and “Strategic Consistency”:
 

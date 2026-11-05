@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Federal Office for Cyber Security (FOCS / BACS) / National Cyber Security Centre (NCSC) (ncsc.ch) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Federal Office for Cyber Security (FOCS / BACS) / National Cyber Security Centre (NCSC) (ncsc.ch).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-CH-URG-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (ncsc.ch); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (ncsc.ch); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/en",
+    "note": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection).",
+    "notes": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection)."
   },
   "links": {
     "wikipedia": "",
@@ -33,7 +33,7 @@
     "published": "2021-11-24",
     "active": true,
     "supersedes": null,
-    "supersededBy": "secid:reference/ncsc.ch/sicherheitspolitischer-bericht@2022",
+    "supersededBy": null,
     "retiredFromActiveUse": null,
     "notes": ""
   },
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 42-page PDF (https://www.sepos.admin.ch/dam/en/sd-web/G7GudMOnqfd8/Security-Policy-Report-2021.pdf) locally via PyMuPDF (141,715 chars). Parsed 35 sections (32 with explicit section identifiers)."
+    "notes": "Extracted 42-page PDF (https://www.sepos.admin.ch/dam/en/sd-web/G7GudMOnqfd8/Security-Policy-Report-2021.pdf) locally via PyMuPDF (141,712 chars). Parsed 35 sections (32 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
+    "spdx": "LicenseRef-ES-TRLPI-Art13",
     "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (dsn.gob.es); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    "note": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
+    "notes": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 90-page PDF (https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf) locally via PyMuPDF (166,939 chars). Parsed 59 sections (30 with explicit section identifiers)."
+    "notes": "Extracted 90-page PDF (https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf) locally via PyMuPDF (166,939 chars). Parsed 54 sections (25 with explicit section identifiers)."
   },
   "extraction_history": [
     {

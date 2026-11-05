@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (ncsc.gov.ie); publicly released for free download, policy reference, and research."
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://data.gov.ie/pages/opendatalicence",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.gov.ie) is governed by Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.gov.ie) is governed by Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021)."
   },
   "links": {
     "wikipedia": "",

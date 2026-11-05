@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (dnsc.gov.ro); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (dnsc.gov.ro); publicly released for free download, policy reference, and research."
+    "spdx": "LicenseRef-RO-Law8-1996-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://legislatie.just.ro/Public/DetaliiDocument/7816",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dnsc.gov.ro) is governed by Romanian Law No. 8/1996 on Copyright and Related Rights Art. 9(b) (official texts of a political, legislative, administrative, or judicial nature are excluded from copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dnsc.gov.ro) is governed by Romanian Law No. 8/1996 on Copyright and Related Rights Art. 9(b) (official texts of a political, legislative, administrative, or judicial nature are excluded from copyright)."
   },
   "links": {
     "wikipedia": "",

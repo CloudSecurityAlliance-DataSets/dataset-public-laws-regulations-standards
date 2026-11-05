@@ -36,21 +36,25 @@ Table of contents
 
 4.2 Main goal 10
 
-### 4.3 Specific objectives 11
+4.3 Specific objectives 11
 
 5. Specific objective 1 – Development of the national cybersecurity system 12
 
-### 5.1 Implementation and evaluation of the functioning of the provisions regarding
+5.1 Implementation and evaluation of the functioning of the provisions regarding
 
 the national cybersecurity system 12 5.2 Enhancing the efficiency of the functioning of the national cybersecurity system 14
 
-5.3 Development of an information sharing system for the purpose national security management 15
+5.3 Development of an information sharing system for the purpose national
+
+security management 15
 
 5.4 Enhancing cybersecurity of essential and digital services and critical infrastructure 15
 
 5.5 Development and implementation of a risk assessment methodology at the national level 16
 
-### 5.6 Increasing capacity to counteract cybercrime, including cyberespionage and incidents of a terrorist nature 17
+5.6 Increasing capacity to counteract cybercrime, including cyberespionage and incidents
+
+of a terrorist nature 17
 
 6. Specific objective 2 – Increasing the level of resilience of information systems of the public administration and private sector, and achieving the capacity to effectively prevent and respond to incidents 18
 
@@ -58,7 +62,7 @@ the national cybersecurity system 12 5.2 Enhancing the efficiency of the functio
 
 6.2 Supply chain security 19
 
-### 6.3 Security tests and audits 21
+6.3 Security tests and audits 21
 
 7. Specific objective 3 – Increasing the national capacity in the area of cybersecurity technology 22
 
@@ -68,7 +72,7 @@ the national cybersecurity system 12 5.2 Enhancing the efficiency of the functio
 
 7.3 Stimulating research and development in the area of cybersecurity
 
-### 7.4 Gaining the capacity to perform a full spectrum of military operations in cyberspace 24
+7.4 Gaining the capacity to perform a full spectrum of military operations in cyberspace 24
 
 8. Specific objective 4 – Building public awareness and competences in the area of cybersecurity 25
 
@@ -76,13 +80,13 @@ the national cybersecurity system 12 5.2 Enhancing the efficiency of the functio
 
 8.2 Creating conditions for the safe use of cyberspace by citizens 26
 
-### 8.3 Developing public awareness towards the safe use of cyberspace 26
+8.3 Developing public awareness towards the safe use of cyberspace 26
 
 9. Specific objective 5 – Building strong international position of the Republic of Poland in the area of cybersecurity 27
 
 9.1 Active international cooperation at the strategic and political level 27
 
-### 9.2 Active international cooperation at the operational and technical level 29
+9.2 Active international cooperation at the operational and technical level 29
 
 10. Managing the Cybersecurity Strategy of the Republic of Poland 30
 
@@ -130,21 +134,21 @@ Introduced by way of a resolution of the Council of Ministers, the Cybersecurity
 
 5Article 69(2) of the Act 5 July 2018 on the national cybersecurity system.
 
-4. Vision, main goal, specific objectives
+## 4. Vision, main goal, specific objectives
 
-## 4.1 Vision
+### 4.1 Vision
 
 T
 
 he efficient and safe operation of information systems and means of electronic communication are resulted in the successful growth of the Republic of Po-land, the increasing t effectiveness of the economy and performance of institutions and entities, including also its social activity and everyday functioning of individual members of the society. Therefore, as part of actions planned in the Cybersecurity Strategy by the year 2024, the government shall systematically enhance and develop the national cybersecurity system. The said actions include systemic organisational, operational, technological and legal measures as well as shaping social attitudes and conducting research and development projects to ensure achievement of high cybersecurity standards of software, hardware and digital services. The government shall take these actions by building confidence between the private sector and the public administration while respecting the rights and freedoms of the citizens.
 
-## 4.2 Main goal
+### 4.2 Main goal
 
 Increasing the level of resilience to cyber threats6 and protection of information in the public, military and private sectors, as well as promoting knowledge and good practices to enable the citizens to better protect information.
 
 6 ”Cyber threat” means any potential circumstance, event or action that could damage, disrupt or otherwise adversely impact network and information systems, the users of such systems and other persons – in accordance with Regulation (EU) No. 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No. 526/2013 (Cybersecurity Act) (Official Journal of the EU, L 151, 07.06.2019, p. 15).
 
-## 4.3 Specific objectives
+### 4.3 Specific objectives
 
 Specific objective 1. Development of the national cybersecurity system.
 
@@ -156,9 +160,9 @@ Specific objective 4. Building public awareness and competences in the area of c
 
 Specific objective 5. Building strong international position of the Republic of Poland in the area of cybersecurity.
 
-5. Specific objective 1 – Development of the national cybersecurity system
+## 5. Specific objective 1 – Development of the national cybersecurity system
 
-## 5.1 Implementation and evaluation of the functio- ning of the provisions re- garding the national cyber- security system
+### 5.1 Implementation and evaluation of the functio- ning of the provisions re- garding the national cyber- security system
 
 T
 
@@ -176,7 +180,7 @@ The implementation of the Cybersecurity Strategy shall involve regulating the is
 
 Due to rapid pace of changes occurring in area of cybersecurity, it will be necessary to continuously monitor the phenomena taking place there and initiate possible amendments in the law. Proposed directions and plans regarding counteracting cyber threats shall be reviewed by the Advisory Commit-tee for Cybersecurity under the Council of Ministers. It is a consultative and advisory body of the Coun-cil of Ministries in cybersecurity matters. Among its remits is also evaluation of operations of CSIRT MON, CSIRT NASK, CSIRT GOV as well as sectoral cybersecurity teams and competent authorities for cybersecurity.
 
-## 5.2 Enhancing the efficiency of the functioning of the national cybersecurity system
+### 5.2 Enhancing the efficiency of the functioning of the national cybersecurity system
 
 The efficiency of the national cybersecurity system shall be enhanced by means of launching by 1 January 2021, by the minister competent for digitalisation, an ICT system supporting:
 
@@ -192,11 +196,11 @@ Sectoral and national exercises, initiated by the Government Plenipotentiary for
 
 Efficiency of the functioning of the national cybersecurity system shall also be increased by introducing standardisation of security solutions, including introduction of minimum security requirements for ICT networks and systems operated by the public administra-tion. The standardisation and cybersecurity requirements, developed and used by the public administration as part of the National Cybersecurity Standards, should also become a determinant of good practices for the priva-te sector and citizens.
 
-## 5.3 Development of an information sharing system for the pur- pose national security management
+### 5.3 Development of an information sharing system for the pur- pose national security management
 
 In order to increase the efficiency of management of national security, actions shall be taken to ensure information sharing and consultation of responses both at the strategic and operational level, in particular between the civilian and military spheres. It is necessary to set up an information sharing system for the public administration that would be resilient to cyber threats and based on state-of-the-art information sharing technologies taking into account the need for high mobility. The system shall be used in various states of exception and states of national defence readiness.
 
-## 5.4 Enhancing cybersecurity of essential and digital services and critical infrastructure
+### 5.4 Enhancing cybersecurity of essential and digital services and critical infrastructure
 
 Information technologies (IT) used by operators of essential services, digital service providers, critical infrastructure operators (including telecommunications operators) are a critical element in
 
@@ -208,7 +212,7 @@ Firstly, consistent actions shall be taken to develop criteria of identification
 
 Digital service providers shall be covered by a similar regime. Ho-wever, the government is fully aware of the international nature of these entities and of the need to ensure such a regulations that support the development of a digital market in Poland. Therefore, actions in this area shall be conducted at the European level, par-ticularly within the NIS Cooperation Group, and within the frame-work of transatlantic cooperation with British and American insti-tutions which stir improvement of cybersecurity standards among digital service providers.
 
-## 5.5 Development and implementation of a risk assessment methodology at the national level
+### 5.5 Development and implementation of a risk assessment methodology at the national level
 
 A joint static and dynamic risk assessment methodology that take into account the specificity of individual sectors, critical infrastruc-ture operators, operators of essential services and digital service providers, shall be introduced for the purpose of cybersecurity management at the national level. This shall ensure comparability
 
@@ -216,7 +220,7 @@ of assessment, also regarding risk levels, in particular for the purpose of the 
 
 The methodology and tools enabling static and dynamic risk assessment in ICT sys-tems are being developed as part of the National Cybersecurity Platform project fun-ded by the National Centre for Research and Development – the completion of work is scheduled by the end of 2020.
 
-## 5.6 Increasing capacity to counteract cybercrime, inclu- ding cyberespionage and incidents of a terrorist nature
+### 5.6 Increasing capacity to counteract cybercrime, inclu- ding cyberespionage and incidents of a terrorist nature
 
 With regard to increasing the capacity to counteract cybercrime, including cybere-spionage and events of a hybrid nature (including events of a terrorist nature), it is important to provide support to operators of essential services, digital service provi-ders and critical infrastructure operators so that they can detect and combat incidents at any stage. To this end, cooperation and coordination of actions of law enforcement agencies is required irrespective of the motives of the perpetrators, and appropriate preservation of digital evidence is particularly important.
 
@@ -232,9 +236,9 @@ Rapidly changing methods of crime require development of research in the field o
 
 7 The methodology and tools enabling static and dynamic risk assessment in ICT systems are being developed as part of the research project titled „The National Cybersecurity Platform”, carried out by the Research and Academic Computer Network (NASK) and funded by the National Centre for Research and Development as part of the CyberSecIdent Programme – Cybersecurity and e-Identity.
 
-6. Specific objective 2 – Increasing the level of resi- lience of information systems of the public administration and private sector, and achieving the capacity to effectively prevent and respond to incidents
+## 6. Specific objective 2 – Increasing the level of resi- lience of information systems of the public administration and private sector, and achieving the capacity to effectively prevent and respond to incidents
 
-## 6.1 Development and implementation of National Cybersecurity Standards and disseminate of good practices and re- commendations
+### 6.1 Development and implementation of National Cybersecurity Standards and disseminate of good practices and re- commendations
 
 B
 
@@ -246,7 +250,7 @@ In order to increase the resilience to cyber threats of informa-tion systems use
 
 In order to ensure secure and cost-effective processing in-frastructure of the public administration’s IT systems, which will soon start using new forms of processing and storage of information, including cloud computing, it will be necessary to develop recommendations and disseminate good practices which increase the resilience to potential cyber threats. Execution of public tasks, in particular, ones connected with cybersecurity, shall be supported by application of Polish Standards based on the European and international standards. References to standards should also be widely used over the entire life cycle of the ICT systems. It is also important to sup-port execution of recommendations issued by market regula-tors.
 
-## 6.2 Supply chain security
+### 6.2 Supply chain security
 
 Ensuring cybersecurity requires application of organisational and technical protections over the entire life cycle of the ICT systems. These actions comprise the so-called secure supply chain and include designing, developing, deploying, operating and disposing g. The term supply chain means a system which consists of subsystems of production, distribution, transport, storage and recycling of ICT systems components, as well as their installation, launch, ongoing maintenance, servicing and repairs.
 
@@ -258,7 +262,7 @@ Actions at the national level shall include, in particular, designation of the n
 
 These actions shall result in achieving, at the natio-nal level, the ability to support Polish manufacturers which, when holding European cybersecurity certifica-tes, will be able to compete more efficiently on the of the European Union’s Digital Single Market.
 
-## 6.3 Security tests and audits
+### 6.3 Security tests and audits
 
 Periodic audits are among measures that enable assessment of the effectiveness of the currently implemented information security management systems and the adequacy of the safeguards introduced. Audit methodologies should take into account applicable standards, good practices and specificity of respective sec-tors. The aim of such an approach is to achieve comparability of audit outcomes.
 
@@ -266,9 +270,9 @@ Periodic tests (including penetration testing), which provide for a real assessm
 
 8 Bug-bounty – search for software vulnerabilities conducted by people not associated with the software developer, usually with the general consent of the developer.
 
-7. Specific objective 3 – Increasing the national capacity in the area of cybersecurity technology
+## 7. Specific objective 3 – Increasing the national capacity in the area of cybersecurity technology
 
-## 7.1 Development of industrial and technological resources for the purposes of cybersecurity
+### 7.1 Development of industrial and technological resources for the purposes of cybersecurity
 
 T
 
@@ -280,7 +284,7 @@ In order to even the chances of Polish entre-preneurs on the global market, the 
 
 The acquisition of new technologies for de-velopment of domestic ventures shall also be realised through participation in international initiatives that emphasise innovation, and thro-ugh bilateral cooperation and within internatio-nal organisations, including the European Cy-bersecurity Industrial, Technology and Research Competence Centre planned by the European Commission and the EU’s Member States. Moreover, the government shall strive to ac-tively disseminate knowledge and trainings among Polish entrepreneurs and to implement cybersecurity technologies enabling full use of the capabilities of other state-of-the-art digital technologies, including AI-based autonomous systems, in production and service provision processes.
 
-## 7.2 Focus on developing of public-private cooperation
+### 7.2 Focus on developing of public-private cooperation
 
 Ensuring security in cyberspace requires joint efforts of the private sector, the public sector and the citizens. The government shall con-tinue to establish an effective public-private partnership system based on trust and shared responsibility for cybersecurity.
 
@@ -290,7 +294,7 @@ At the same time, public administration shall improve its capacity in initia-tin
 
 In implementing a new vision of the country’s development and suppor-ting the innovation of the Polish economy, it will be important to set up a system of support for research and development projects in the area of cybersecurity conducted in cooperation with the academia and busines-ses.
 
-## 7.3 Stimulating research and development in the area of cybersecurity
+### 7.3 Stimulating research and development in the area of cybersecurity
 
 In view of the dynamically growing IT market, especially in view of the shi-ft to IPv6 communication protocol, and in connection with development of the Internet of Things, Smart Cities, Industry 4.0 as well as Cloud Com-puting, broadband mobile communication network (5G and next genera-tions) and Big Data, it is necessary to intensify research, development and manufacturing activities in the area of cybersecurity. To this end, research programmes10 aimed at development and implementation of new me-thods of protection against cyber threats shall be continued in coopera-tion with the National Centre for Research and Development.
 
@@ -306,15 +310,15 @@ The research and development activities shall be carried out also in the area of
 
 Important tasks for ensuring cybersecurity are perfor-med by non-governmental organisations, which are very efficient organisers of educational activities for the society and providers of analyses and opinions for the public administration. It is also possible to acquire experts with unique skills through analytical centres for the purposes of solving complex cybersecurity issues.
 
-## 7.4 Gaining the capacity to perform a full spectrum of military operations in cyberspace
+### 7.4 Gaining the capacity to perform a full spectrum of military operations in cyberspace
 
 The Armed Forces of the Republic of Poland, as the fun-damental element of the state defence system, should be involved in activities in cyberspace at the same level as in the air, on the ground and at sea, in peacetime, during war and in crisis situations alike. Therefore, the ability to conduct a full spectrum of military operations in cyberspace must include the identification of threats, the protection and defence of ICT systems, and comba-ting cyber threats.
 
 Activities in cyberspace represent an integral part of planned operations to be conducted by the Armed Forces of the Republic of Poland both on their own and in co-operation within alliances and coalitions. The structure of the Armed Force of the Republic of Poland will be improved by establishing and strengthening of formations tasked with conducting tasks in cyberspace, which have capabilities to identify, prevent and combat cyber threats. Readiness to military and non-military interoperability in cyberspace at the national and inter-national level within alliances, coalitions and accords will be developed. Qualifications of the personnel conduc-ting military operations in cyberspace will be constantly improved by means of training courses. At the same time, threats will be identified on an on-going basis and the situation will be assessed – also in terms of com-pliance with international law – which will provide for selecting appropriate methods and tools to protect and defend own resources and eliminate sources of threats to ICT networks and systems, both stationary and mo-bile. Bearing in mind the rapid pace of development of technologies that make up the cyberspace environment, the Ministry of National Defence will strive to develop or acquire an innovative methods and tools to ensure operational effectiveness in this domain.
 
-8. Specific objective 4 – Building public awareness and competences in the area of cybersecurity
+## 8. Specific objective 4 – Building public awareness and competences in the area of cybersecurity
 
-## 8.1 Increasing competence of the staff of entities relevant to ensuring cybersecurity of the Republic of Poland
+### 8.1 Increasing competence of the staff of entities relevant to ensuring cybersecurity of the Republic of Poland
 
 C
 
@@ -328,7 +332,7 @@ Within the framework of the broadly under-stood expert education, in order to mo
 
 The managerial staff of local government administration units shall dynamically define responsibilities and authorisations of persons who play important roles in cybersecurity management and appropriately communicate these decisions to all stakeholders.
 
-## 8.2 Creating conditions for the safe use of cyberspace by citizens
+### 8.2 Creating conditions for the safe use of cyberspace by citizens
 
 Cybersecurity education should be available as early as possible in the process of accessing digital services by children and youth – preferably even before they enter the digital world,. In practice, it is often required at the stage of early childhood education. Having regard to the issue of safe use of cyberspace, it is assumed that teachers shall receive support in execution their respective teaching programme, specifically in updating their teaching programmes through various activities conducted in accordance with the current knowledge regarding safe use of modern technologies.
 
@@ -336,15 +340,15 @@ In addition, actions shall be taken to support continuous professional developme
 
 Higher education institutions shall be encouraged to develop interdisciplinary specialisations covering inter alia information security management, assessment and evaluation of ICT system safeguards, protection of personal data, protection of intellectual property on the Internet as well as issues related to the development of new technologies and the related challenges.
 
-## 8.3 Developing public awareness towards the safe use of cyberspace
+### 8.3 Developing public awareness towards the safe use of cyberspace
 
 In cooperation with NGOs, academia and private sector, the public administration shall continue sys-temic actions to raise public awareness of the cyber threats. Educational actions shall be taken regarding the rights and freedoms in the digital environment and the rights of cyberattack victims and individu-als who suffered losses as a result of on-line privacy breaches. Public campaigns aimed at various target groups, including children, parents and elders, shall also be continued.
 
 In the face of increasingly numerous threats aimed at exerting specific influence on the society, and having regard to consequences of intentional use of social engineering tools to carry out manipulative actions, such as disinformation campaigns and inspirational or disintegration actions, it is required to take sys-temic measures to develop public awareness in the context of verifying authenticity of information and responding to attempts to distort in. As regards de-fence against manipulative actions, which may be an element of a hybrid nature operations, it is important to build capabilities among the society to identify actions aimed at affecting awareness or converting or disintegrating specific communities.
 
-9. Specific objective 5 – Building strong international position of the Republic of Po- land in the area of cybersecurity
+## 9. Specific objective 5 – Building strong international position of the Republic of Po- land in the area of cybersecurity
 
-## 9.1 Active international cooperation at the strategic and political level
+### 9.1 Active international cooperation at the strategic and political level
 
 I
 
@@ -368,7 +372,7 @@ Achieving a strong international position of the Republic of Poland in the area 
 
 In the area of international cooperation, the Republic of Poland will actively parti-cipate in exercises conducted by national organisations, EU and NATO as well as other international agencies.
 
-## 9.2 Active international cooperation at the operational and technical level
+### 9.2 Active international cooperation at the operational and technical level
 
 International cooperation at the opera-tional and technical level shall be carried out inter alia within the CSIRT Network at European Union level, in other fora for information sharing and analysis of the IT security situation of a given sector, through other international cooperation networks, like the FIRST or TF-CSIRT, information sharing platforms, like the MISP or n6, and within bilateral and multilateral cooperation. In this context, it shall be particularly important to de-velop common operational procedures within the EU and NATO, and the Vise-grad Group. Cooperation at this level will not only serve to effectively counteract cyber threats , but will also contribute to the share of experience between tech-nical staff in joint ventures. It shall also be an opportunity to promote Polish technological solutions and Polish expert staff.
 

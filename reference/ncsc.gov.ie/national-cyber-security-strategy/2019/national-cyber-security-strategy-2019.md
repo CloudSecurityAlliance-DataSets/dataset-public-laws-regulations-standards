@@ -770,7 +770,7 @@ External Action Service to facilitate the rapid sharing of information relating 
 
 hybrid type actions affecting multiple EU Member States.
 
-## 4.3 Risks to Critical National Infrastructure and Public Sector Systems and Data
+### 4.3 Risks to Critical National Infrastructure and Public Sector Systems and Data
 
 While general risks arise for society as a consequence of developments in cyber space,
 
@@ -1258,7 +1258,7 @@ Chief Information Officer to develop and implement policies and practices relati
 
 specifically to Government and public services.
 
-### 1. The National Cyber Security Centre will be further developed, particularly with regard to expand its ability to monitor and respond to cyber security incidents
+1. The National Cyber Security Centre will be further developed, particularly with regard to expand its ability to monitor and respond to cyber security incidents
 
 and developing threats in the State.
 
@@ -1280,9 +1280,7 @@ continue to function as the national point of contact for all cyber security inc
 
 will continue to lead the response to cyber security incidents of all scales.
 
-### 2. Threat intelligence and analysis prepared by the National Cyber Security Centre
-
-will be integrated into the work of the National Security Analysis Centre.
+2. Threat intelligence and analysis prepared by the National Cyber Security Centre will be integrated into the work of the National Security Analysis Centre.
 
 The National Security Analysis Centre (NSAC) in the Department of the Taoiseach will
 
@@ -1530,9 +1528,7 @@ fully applied in Ireland, and that this application keeps pace with changes in t
 
 and best practice.
 
-### 4. The NCSC, with the assistance of the Defence Forces and An Garda Síochána will
-
-perform an updated detailed risk assessment of the current vulnerability of all
+4. The NCSC, with the assistance of the Defence Forces and An Garda Síochána will perform an updated detailed risk assessment of the current vulnerability of all
 
 Critical National Infrastructure and services to cyber attack.
 
@@ -1548,9 +1544,7 @@ these. The output from this process will inform the expanded scope of the existi
 
 security Critical National Infrastructure protection process.
 
-### 5. The existing Critical National Infrastructure protection system will be expanded
-
-and deepened over the life of the Strategy to cover a broader range of Critical
+5. The existing Critical National Infrastructure protection system will be expanded and deepened over the life of the Strategy to cover a broader range of Critical
 
 National Infrastructure, including aspects of the electoral system.
 
@@ -1578,7 +1572,7 @@ Group’ (TSG) and the ‘All Island Information Exchange’ (AIIE) will be subs
 
 developed.
 
-### 7. Government will introduce a further set of compliance standards to support the cyber security of telecommunications infrastructure in the State.
+7. Government will introduce a further set of compliance standards to support the cyber security of telecommunications infrastructure in the State.
 
 We will introduce a new and specific set of security requirements for the
 
@@ -1916,9 +1910,7 @@ significant Government Department and Agency will be monitored by the Joint SOC
 
 managed by the NCSC.
 
-### 10. A Government IT Security forum will be created, open to all Heads of IT Security
-
-across Government, to facilitate information sharing on best practice for cyber
+10. A Government IT Security forum will be created, open to all Heads of IT Security across Government, to facilitate information sharing on best practice for cyber
 
 security and to allow the NCSC support the deployment of the baseline security
 
@@ -2350,7 +2342,7 @@ Strategy Government aims to ensure that the employment market has sufficient ski
 
 trained staff to meet demands from employers.
 
-### 12. Government will continue to ensure that second and third level training in computer science and cyber security is developed and deployed, including by
+12. Government will continue to ensure that second and third level training in computer science and cyber security is developed and deployed, including by
 
 supporting the work of Skillnets Ireland in developing training programmes for all
 
@@ -2368,7 +2360,7 @@ developing initiatives which encourage women into the cyber security field and
 
 encourage participants from other disciplines to cross train.
 
-### 13. Science Foundation Ireland (SFI) will promote cyber security as a career option in schools and colleges by means of their Smart Futures Programme.
+13. Science Foundation Ireland (SFI) will promote cyber security as a career option in schools and colleges by means of their Smart Futures Programme.
 
 Smart Futures is a collaborative education programme run by Science Foundation
 
@@ -2380,7 +2372,7 @@ component, using input from industry professionals, for inclusion in Smart Futur
 
 students remain aware of the wide range of career opportunities available in the field.
 
-### 14. Science Foundation Ireland along with DBEI and DCCAE, will explore the feasibility through the SFI Research Programme, the Research Centre Spoke
+14. Science Foundation Ireland along with DBEI and DCCAE, will explore the feasibility through the SFI Research Programme, the Research Centre Spoke
 
 38
 
@@ -2578,9 +2570,7 @@ Ireland are actively involved in promoting education and skills, forums for
 
 communications, attracting foreign direct investment and research and development.
 
-### 16. Enterprise Ireland will develop a cyber security programme to facilitate
-
-collaborative links between enterprise and the research community that lead to
+16. Enterprise Ireland will develop a cyber security programme to facilitate collaborative links between enterprise and the research community that lead to
 
 the practical application of research in business.
 
@@ -2968,9 +2958,7 @@ secure society. Awareness of cyber risks is of particular importance in vulnerab
 
 population.
 
-### 20. Government will develop a national cyber security information campaign which
-
-will use information provided by the NCSC and the Garda National Cyber Crime
+20. Government will develop a national cyber security information campaign which will use information provided by the NCSC and the Garda National Cyber Crime
 
 Bureau and be delivered by entities which are directly engaged in information
 

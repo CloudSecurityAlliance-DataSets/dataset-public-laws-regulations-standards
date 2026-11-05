@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research."
+    "spdx": "LicenseRef-RS-Copyright-Art6",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.pravno-informacioni-sistem.rs/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtt.gov.rs) is governed by Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtt.gov.rs) is governed by Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright)."
   },
   "links": {
     "wikipedia": "",

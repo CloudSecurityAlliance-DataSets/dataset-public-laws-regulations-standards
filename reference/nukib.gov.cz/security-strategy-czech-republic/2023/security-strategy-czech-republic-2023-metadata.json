@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-CZ-Copyright-Sec3a",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (nukib.gov.cz); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.zakonyprolidi.cz/cs/2000-121#p3",
+    "note": "Official publication (nukib.gov.cz); Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection).",
+    "notes": "Official publication (nukib.gov.cz); Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection)."
   },
   "links": {
     "wikipedia": "",

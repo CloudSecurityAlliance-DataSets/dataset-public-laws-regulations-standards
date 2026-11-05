@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-TR-Law5846-Art31",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (uab.gov.tr); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (uab.gov.tr); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5846&MevzuatTur=1&MevzuatTertip=3",
+    "note": "Official publication (uab.gov.tr); Republic of Türkiye Law No. 5846 on Intellectual and Artistic Works Art. 31 (laws, regulations, Presidential decrees/circulars, and official publications may be freely reproduced and disseminated).",
+    "notes": "Official publication (uab.gov.tr); Republic of Türkiye Law No. 5846 on Intellectual and Artistic Works Art. 31 (laws, regulations, Presidential decrees/circulars, and official publications may be freely reproduced and disseminated)."
   },
   "links": {
     "wikipedia": "",

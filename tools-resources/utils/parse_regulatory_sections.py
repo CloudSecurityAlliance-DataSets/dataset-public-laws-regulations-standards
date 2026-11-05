@@ -44,12 +44,12 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
     # Initiative 1.1.1 / Eylem 1.1: Title
     (re.compile(r"^((?:Initiative|Eylem)\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
-    # Goal 1 / Priority 1 / Strategic Priority 1 / Principle 1 / Recommendation 1 / Finding 1: Title
-    (re.compile(r"^((?:Goal|(?:Strategic\s+)?Priority|Principle|Recommendation|Finding)\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
+    # Goal 1 / Priority 1 / Strategic Priority 1 / Línea de acción 1 / Line of action 1 / Principle 1 / Recommendation 1 / Finding 1: Title
+    (re.compile(r"^((?:Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Principle|Recommendation|Finding)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
     # Annex / Appendix / Schedule A / 1 / I: Title
     (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
-    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.")
-    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Annex|Appendix|Schedule|Principle|Goal|(?:Strategic\s+)?Priority|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
+    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.", "Goal I", "Objetivo I", "LÍNEA DE ACCIÓN 1")
+    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
     # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
     (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
@@ -92,7 +92,24 @@ def parse_heading(text: str):
                 if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not title_part[0].isupper():
                     continue
                 return m.group(1).rstrip("."), title_part, kind
-            return m.group(1).rstrip("."), m.group(1).rstrip("."), kind
+            sid_val = m.group(1).rstrip(".")
+            if kind == "standalone_id":
+                low_sid = sid_val.lower()
+                if re.match(r"^(?:chapter|chapitre|cap[ií]tulo|kapitel|глава)\b", low_sid):
+                    kind = "chapter"
+                elif re.match(r"^(?:part|partie|parte|teil|раздел|розділ)\b", low_sid):
+                    kind = "part"
+                elif re.match(r"^(?:pillar|pilier|pilar|pijler)\b", low_sid):
+                    kind = "pillar"
+                elif re.match(r"^(?:annex|appendix|schedule)\b", low_sid):
+                    kind = "annex"
+                elif low_sid.startswith("section"):
+                    kind = "section_word"
+                elif low_sid.startswith("objective"):
+                    kind = "objective"
+                else:
+                    kind = "goal"
+            return sid_val, sid_val, kind
     return "", cleaned, ""
 
 
@@ -173,13 +190,15 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
     if child_kind == "annex":
         return pkind in ("part", "chapter", "roman")
     if child_kind in ("pillar", "part", "chapter", "roman", "letter"):
-        return pkind in ("part", "chapter", "roman", "annex")
+        return pkind in ("part", "chapter", "roman", "annex") or (
+            child_kind == "pillar" and pkind == "numbered" and "." not in pid
+        )
     if child_kind in ("objective", "section_word"):
         if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
             return False
         return pkind in ("pillar", "part", "chapter", "roman", "annex")
-    if child_kind == "goal":
-        return pkind in ("pillar", "part", "chapter", "roman", "annex", "section_word") or (
+    if child_kind in ("goal", "standalone_id", "initiative"):
+        return pkind in ("pillar", "part", "chapter", "roman", "annex", "section_word", "goal") or (
             pkind == "numbered" and "." not in pid
         )
     if child_kind == "numbered":
@@ -226,12 +245,11 @@ def main():
 
     for i, m in enumerate(headings):
         depth = len(m.group(1))
+        section_id, section_name, id_kind = parse_heading(m.group(2))
         for d in [k for k in list(ancestor_row_by_depth) if k >= depth]:
             del ancestor_row_by_depth[d]
-        for d in [k for k in list(ancestor_id_row_by_depth) if k >= depth]:
+        for d in [k for k in list(ancestor_id_row_by_depth) if (k >= depth if section_id else k > depth)]:
             del ancestor_id_row_by_depth[d]
-
-        section_id, section_name, id_kind = parse_heading(m.group(2))
         if id_kind == "annex":
             seen_ids = {
                 rows[ancestor_id_row_by_depth[d]]["section_id"]

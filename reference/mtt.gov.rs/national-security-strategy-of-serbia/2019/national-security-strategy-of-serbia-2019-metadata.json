@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "LicenseRef-RS-Copyright-Art6",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (mtt.gov.rs); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://www.pravno-informacioni-sistem.rs/",
+    "note": "Official publication (mtt.gov.rs); Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+    "notes": "Official publication (mtt.gov.rs); Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://www.mod.gov.rs/multimedia/dodaci/prilog2_strategijanacionalnebezbednostirs_eng_1731678276.pdf) from landing page (https://www.mod.gov.rs/eng/4350/strategije-4350); extracted 61-page PDF via PyMuPDF (120,226 chars). Parsed 22 sections (18 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://www.mod.gov.rs/multimedia/dodaci/prilog2_strategijanacionalnebezbednostirs_eng_1731678276.pdf) from landing page (https://www.mod.gov.rs/eng/4350/strategije-4350); extracted 61-page PDF via PyMuPDF (120,219 chars). Parsed 21 sections (17 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -270,9 +270,7 @@ Ett starkt totalförsvar är en grundläggande förutsättning för att skydda o
 
 och säkerhetstjänsternas arbete, är av central betydelse. Lika viktig är vår förmåga att skydda oss mot främmande makts underrättelseinhämtning och påverkansförsök.
 
-### 8.1.1 Nato
-
-#### Sverige ska vara en solidarisk allierad
+#### 8.1.1 Nato Sverige ska vara en solidarisk allierad
 
 Nato är den yttersta garanten för europeisk och transatlantisk säkerhet. Full integration i Nato, politiskt, civilt och militärt, är den enskilt viktigaste och mest brådskande åtgärden för att stärka Sveriges säkerhet och av stor betydelse för våra allierade. Medlemskapet ökar förutsägbarheten, stärker avskräckningen mot angrepp mot Sverige och våra allierade och gör därmed vårt närområde säkrare.
 
@@ -280,9 +278,7 @@ Som allierad utgör Sverige del av Natos kollektiva försvar. Sveriges geografis
 
 Sveriges medlemskap i en försvarsallians med bindande ömsesidiga försvarsåtaganden innebär ett paradigmskifte i svensk säkerhets-och försvarspolitik och för samtliga delar av det svenska totalförsvaret. Med Natomedlemskapet får vi ytterligare en plattform i säkerhetspolitiska frågor. Det gör oss som land starkare med nya möjligheter och verktyg i vår säkerhetspolitik avseende Ryssland, Ukraina, Asien och västra Balkan, men också i tematiska frågor som terrorism, desinformation och skydd av kritisk infrastruktur. Sammanhållningen inom Nato är grunden för alliansens styrka. Sverige bidrar till att värna den, bland annat genom att verka för en rättvis bördefördelning och leva upp till de gemensamma mål som överenskoms inom Nato.
 
-### 8.1.2 Europeiska unionen
-
-#### Sverige ska bidra till att stärka EU
+#### 8.1.2 Europeiska unionen Sverige ska bidra till att stärka EU
 
 EU är inte bara Sveriges viktigaste utrikespolitiska arena utan också en värdegemenskap och en betydelsefull säkerhetspolitisk aktör för att värna fred och frihet på vår kontinent. EU-samarbetet spänner över stora delar av det ekonomiska och politiska samhällsspektrat. Den lagstiftning och de gemensamma åtgärder som bestäms inom EU har stor betydelse för svensk säkerhet i bred bemärkelse, exempelvis när det gäller samarbete mot terrorism och organiserad brottslighet och för att möta hälso-och
 
@@ -292,9 +288,7 @@ Svenskt agerande i EU vägleds av insikten att Europa måste ta ett större ansv
 
 EU:s utvidgning är en investering i fred, demokrati, säkerhet, stabilitet och välstånd. En av de viktigaste uppgifterna för EU är därför att fullfölja inlemmandet av Ukraina, Moldavien och Georgien samt länderna på västra Balkan i unionen, när dessa länder uppfyller kraven. Sverige är, bland annat genom strategiskt bistånd till dessa länder, drivande för utvidgningen, och bidrar också till arbetet med att stärka relationerna till länderna i EU:s södra grannskap.
 
-### 8.1.3 Totalförsvaret
-
-#### Upprustningen ska genomföras snabbt och effektivt
+#### 8.1.3 Totalförsvaret Upprustningen ska genomföras snabbt och effektivt
 
 Sverige genomför en omfattande upprustning av vårt totalförsvar. Totalförsvar består av militär verksamhet (militärt försvar) och civil verksamhet (civilt försvar). I fredstid är totalförsvar den verksamhet som behövs för att förbereda Sverige för krig. Under högsta beredskap omfattar totalförsvar all samhällsverksamhet som då ska bedrivas. Totalförsvar är således inte en myndighet eller en enskild organisation.
 
@@ -302,31 +296,25 @@ Upprustningen av totalförsvaret är en komplex uppgift som innebär en stor ans
 
 Upprustning och förstärkningen av totalförsvarsförmågan måste präglas av en målinriktad och handlingskraftig inställning hos alla aktörer och på alla nivåer. Regeringen har inlett en översyn av regelverk som kan försvåra eller fördröja uppbyggnaden av totalförsvaret. Resultatet av översynen kan till exempel leda till nya myndighetsuppdrag och ändringar i regleringsbrev.
 
-### 8.1.4 Hybridhot
-
-#### Förmågan att möta hybridhot från statsaktörer ska stärkas
+#### 8.1.4 Hybridhot Förmågan att möta hybridhot från statsaktörer ska stärkas
 
 Sverige och våra allierade utsätts i allt högre grad för hot och angrepp från statsaktörer under tröskeln för väpnat angrepp. Detta sker med både civila
 
 militära medel genom till exempel cyberangrepp, påverkansoperationer, desinformation, försök att påverka kritiska flöden och kritisk infrastruktur, strategiska investeringar, infiltration av exempelvis lärosäten samt stöld av teknik och innovation. Hoten ställer krav på förmåga som delvis faller utanför totalförsvarets struktur och uppgift. Hanteringen av hoten kräver förbättrad lägesuppfattning samt lednings-och beslutsförmåga. Det förutsätter också en förbättrad samverkan mellan olika sektorer och beslutsnivåer i samhället, mellan offentlig och privat sektor samt utvecklade internationella samarbeten. Av samma skäl bör kommunikation med grupper i samhället som kan vara särskilt utsatta för exempelvis desinformationskampanjer präglas av en medvetenhet om dessa hot. Regeringen avser att stärka förmågan att identifiera, hantera och bemöta hybridhot och angrepp. Arbetet med att minska sårbarheter och stärka motståndskraften i samhället är en viktig del av detta.
 
-### 8.1.5 Ukraina
-
-#### Sverige ska bidra till försvaret av Ukraina så länge det behövs
+#### 8.1.5 Ukraina Sverige ska bidra till försvaret av Ukraina så länge det behövs
 
 Tillsammans med upprustningen av vårt totalförsvar är den viktigaste åtgärden för säkerheten i vårt närområde att säkerställa att Ryssland inte når sina mål i anfallskriget mot Ukraina. Att Ukraina ges ett starkt, samordnat och långsiktigt stöd, som också gör att det kan stå emot framtida angrepp, är av mycket stor betydelse också för Sveriges säkerhet. Stödet till Ukraina är därför regeringens främsta utrikespolitiska uppgift. Den bilaterala överenskommelse om säkerhetssamarbete som Sverige har ingått med Ukraina är ett uttryck för detta. Sverige kommer att fortsätta stödja Ukraina så länge det behövs – politiskt, militärt, ekonomiskt, rättsligt och humanitärt. Det gäller även om givarkretsen skulle komma att minska, med åtföljande behov av ökat stöd från Sverige och andra europeiska givarländer. Sverige kommer att fortsätta arbeta för att stödet till Ukraina ska stå högt på EU:s och Natos dagordningar.
 
 Under förutsättning att de demokratiska länderna ger Ukraina det stöd som landet behöver talar de fundamentala styrkeförhållandena, ekonomiska såväl som militära, i det längre tidsperspektivet till Rysslands nackdel. Detta förutsätter dock brådskande förstärkningar av bland annat förmågan till krigsmaterielproduktion. Regeringen verkar för en utvecklad samverkan mellan statliga och privata aktörer för att uppnå detta.
 
-### 8.1.6 Ryssland
-
-#### Sverige ska motverka rysk aggression och maktexpansion
+#### 8.1.6 Ryssland Sverige ska motverka rysk aggression och maktexpansion
 
 Det är av stor betydelse för svensk nationell säkerhet att motverka Rysslands inflytande, handlingsfrihet och förmåga att rikta militära och icke-militära hot mot länder i EU, Nato och dess närområde. Det kräver att Sverige, nationellt och inom EU och Nato, driver en samlad, långsiktig och strategisk politik för att hindra rysk maktexpansion. Ett starkt stöd till Ukraina är vårt bästa sätt att påverka ryskt agerande. EU:s sanktioner mot Ryssland och ansvarsutkrävande för de brott mot folkrätten som begåtts
 
 under och genom Rysslands aggression mot Ukraina är andra centrala komponenter i denna politik. Regeringen kommer att fortsätta vidta åtgärder för att säkerställa efterlevnad av sanktioner och försvåra kringgående av dem för att bland annat försvåra rysk vapenproduktion.
 
-### 8.1.7 Centrala bilaterala relationer
+#### 8.1.7 Centrala bilaterala relationer
 
 Sverige ska värna och utveckla våra bilaterala relationer med viktiga allierade och partner
 
@@ -352,7 +340,7 @@ De många och allvarliga hot som, från olika håll, riktas mot det svenska samh
 
 Sverige är och ska förbli ett tolerant samhälle. Också rörelser som motarbetar vår demokrati och de värderingar som det svenska samhället bygger på har rätt att, inom lagens ramar, använda yttrandefriheten för att framföra sina åsikter. Det finns däremot inga skäl till att de ska få ekonomiskt stöd och uppmuntran från det offentliga Sverige.
 
-### 8.2.1 Offentliga institutioner
+#### 8.2.1 Offentliga institutioner
 
 De offentliga institutionernas integritet och förtroendet för dem ska säkras
 
@@ -366,7 +354,7 @@ Det är centralt för vår demokrati att den höga tilliten till valsystemet upp
 
 Hot, våld och påtryckningar gentemot myndighetspersoner och andra i demokratibärande roller, till exempel journalister, utgör angrepp på det demokratiska samhället och måste hanteras som sådana.
 
-### 8.2.2 Systemhotande organiserad brottslighet
+#### 8.2.2 Systemhotande organiserad brottslighet
 
 Den systemhotande organiserade brottsligheten ska reduceras och bekämpas
 
@@ -378,7 +366,7 @@ Möjligheter att på ett rättssäkert och effektivt sätt dela relevant informa
 
 Åtgärder som syftar till att i grunden stärka samhällets motståndskraft mot den systemhotande organiserade brottsligheten kommer att ges särskild prioritet. Inriktningen framgår av regeringens nationella strategi mot organiserad brottslighet. Fem mål är vägledande i arbetet: stoppa kriminella karriärer, minska tillgången på vapen och explosiva varor, slå sönder den kriminella ekonomin, bygga robusthet mot otillåten och otillbörlig påverkan samt säkerställa tillförlitliga identiteter och en effektiv informationsförsörjning. I arbetet ingår att motverka arbetslivskriminalitet, som bland annat omfattar människohandel, människoexploatering, arbetsmiljöbrott och bidragsbrott. Införandet av ett nytt statligt id-kort med e-legitimation kommer att bidra till att stärka den svenska id-förvaltningen och öka möjligheterna till kontroll och korrekt verifiering av identitetsuppgifter. Därigenom motverkas brottslighet som bygger på identitetsmissbruk.
 
-### 8.2.3 Våldsbejakande extremism och terrorism
+#### 8.2.3 Våldsbejakande extremism och terrorism
 
 Våldsbejakande extremism och terrorism ska förebyggas och bekämpas
 
@@ -386,13 +374,11 @@ Att förebygga och möta hoten från våldsbejakande extremism och terrorism kr�
 
 Regeringen har lagt fast en inriktning för arbetet i sin strategi mot våldsbejakande extremism och terrorism. Där framgår att fokus ligger på fyra områden: att förebygga dessa fenomen, att förhindra terroristattentat och andra ideologiskt motiverade brott, att skydda människor och samhällets funktioner samt att hantera situationen under och efter ett attentat. Hela samhällets kraft behövs i detta arbete, och samverkan mellan myndigheter på alla nivåer, civilsamhälle, trossamfund och aktörer inom privat sektor är en förutsättning för framgång.
 
-### 8.2.4 Parallella samhällsstrukturer
-
-#### Framväxten av parallella samhällsstrukturer ska motverkas
+#### 8.2.4 Parallella samhällsstrukturer Framväxten av parallella samhällsstrukturer ska motverkas
 
 Regeringen kommer att fortsätta vidta åtgärder för att motverka framväxten av parallella samhällsstrukturer i Sverige. Bekämpandet av den organiserade brottsligheten och den kriminella ekonomin samt ordning och reda i migrationspolitiken är viktiga led i detta, men det kommer också att vidtas ytterligare åtgärder för att motverka olika former av antidemokratisk verksamhet som motarbetar demokratin och det öppna samhället. Kontrollmekanismerna för utbetalning av statsbidrag till civilsamhället kommer att stärkas. Ett förbud mot utländsk finansiering av trossamfund och andra organisationer på civilsamhällets område med kopplingar till islamism och extremism ska ses över. Organisationer som sprider antidemokratiska budskap såsom antisemitism och andra former av rasism eller hedersförtryck ska inte kunna få stöd med offentliga medel.
 
-### 8.2.5 Förebyggande åtgärder
+#### 8.2.5 Förebyggande åtgärder
 
 Breda förebyggande åtgärder ska vidtas för att stärka sammanhållningen i det svenska samhället
 
@@ -420,9 +406,7 @@ En fungerande sjukvård har avgörande betydelse för att värna befolkningens l
 
 Grunden för vår nationella säkerhet är den svenska ekonomin, som är helt beroende av finansiell stabilitet, en fungerande arbetsmarknad, konkurrenskraften hos vårt näringsliv, utbildning och forskning av hög kvalitet, regelbaserad global handel och en välfungerande inre marknad i EU. Sverige är, och ska fortsatt vara, en framstående kunskaps-, forsknings-och innovationsnation. Sverige ska ha en ändamålsenlig arbetskraftsinvandring som bidrar till Sveriges konkurrenskraft. Det stärker svenska företag och Sveriges gemensamma konkurrenskraft att ändamålsenlig kompetens kan rekryteras från andra EU-länder och från tredjeland. Som ett av världens mest innovativa länder har vi goda förutsättningar att genom en aktiv politik för forskning och innovation dra nytta av kunskaps-och teknikutvecklingen för att upprätthålla och öka vårt välstånd.
 
-### 8.3.1 Ledningsförmåga
-
-#### Den nationella ledningsförmågan vid krissituationer ska stärkas
+#### 8.3.1 Ledningsförmåga Den nationella ledningsförmågan vid krissituationer ska stärkas
 
 Regeringens uppgift är att väga samman och inrikta olika intressen genom strategisk samordning av statens olika förmågor. Vid extraordinära händelser kan det innebära att ansvar och resurser behöver omfördelas mellan myndigheter, så som exempelvis gjordes vid hanteringen av pandemin och andra kriser. Regeringen kommer att vidta ytterligare åtgärder dels för att säkerställa ledningsförmågan vid extraordinära händelser, dels för att hela det svenska förvaltningssystemet ska klara av att hantera kriser som påverkar flera samhällssektorer eller ett stort geografiskt område.
 
@@ -440,9 +424,7 @@ En tvärsektoriell, samlad lägesuppfattning som bygger på lägesinformation fr
 
 Möjligheterna att använda ny teknik, till exempel AI, ska tillvaratas för att stärka analys och lägesuppfattning. Samtidigt ska förmågan att möta hot skapade av AI stärkas. I digitaliseringen av den offentliga förvaltningen ska samverkansförmåga och informationsdelning fortsatt stå i fokus.
 
-### 8.3.2 Samhällsviktig verksamhet
-
-#### Skyddet av samhällsviktig verksamhet ska stärkas
+#### 8.3.2 Samhällsviktig verksamhet Skyddet av samhällsviktig verksamhet ska stärkas
 
 Samhällsviktiga verksamheter upprätthåller funktioner som är nödvändiga för samhällets grundläggande behov, värden och säkerhet. Det kan exempelvis handla om kritisk infrastruktur för transporter, kommunikation och energi, eller försörjning av varor och tjänster såsom läkemedel, mat och vatten som är grundläggande för samhällets funktionalitet. Vårt samhälles motståndskraft är beroende av att bland annat dessa kan upprätthållas också under mycket svåra förhållanden. De aktörer som har ansvar för någon typ av samhällsviktig verksamhet behöver planera och agera därefter.
 
@@ -454,17 +436,13 @@ Stora delar av de verksamheter, resurser och kompetenser som krävs för att upp
 
 Klimatanpassning är central för att skydda människors liv, egendom, samhällets funktion, infrastruktur och ekonomiska intressen. En omställning till fossilfrihet i Sverige och globalt, inklusive för att minska beroendet av exportörer av fossila bränslen, ligger i Sveriges intresse. Klimatanpassning kräver tekniska och fysiska åtgärder i samhället, men också bättre kunskap om klimatförändringarna och deras effekter, nya arbetssätt samt ett förtydligande av ansvarsfördelning och mandat inom klimatanpassningsarbetet. Regeringen avser att i arbetet med krisberedskap anlägga ett klimatanpassningsperspektiv och verka för samordning och stärkande av arbetet med klimatanpassning och katastrofriskreducering både nationellt och internationellt. Arbetet kommer särskilt att beakta behov kopplade till försörjningsberedskap, såsom att upprätthålla vår svenska livsmedelsproduktion, vattenförsörjning och samordnad vattenförvaltning, liksom en god samhällsplanering, ett effektivt smittskydd, beredskap för extrema skyfall, vattenbrist och torka samt en robust infrastruktur för energiförsörjning, sjukvård, telekommunikationer och transporter. Utbrott av smittsamma djursjukdomar som kan påverka tillgången till livsmedel och vår försörjningsförmåga måste förebyggas. Läkemedel, både till djur och människor, måste finnas tillgängliga i tillräckliga mängder för att klara en plötslig kris. Den svenska internationella klimatpolitiken kommer att utvecklas.
 
-### 8.3.3 Försörjningsberedskap
-
-#### Försörjningen av kritiska varor och tjänster ska tryggas
+#### 8.3.3 Försörjningsberedskap Försörjningen av kritiska varor och tjänster ska tryggas
 
 Sveriges motståndskraft, såväl under kris som under höjd beredskap och ytterst krig, förutsätter att försörjningen av kritiska varor och tjänster kan upprätthållas. Näringspolitiken är av grundläggande betydelse för det civila försvaret och för att stärka robustheten i de viktigaste värdekedjorna, samt för att minska oönskad riskexponering och oönskade strategiska beroenden, i synnerhet i relation till auktoritära stater. Förutsättningarna för att snabbt kunna ställa om försörjningsstrukturen för kritiska insatsvaror ska stärkas. Försörjningen behöver omfatta inhemsk produktionsförmåga, lagerhållning, en väldiversifierad import som sprider risker över länder och världsdelar och en fördjupad inre marknad. Detta är ett arbete som regeringen och myndigheterna bedriver nationellt och inom EU, i nära samverkan med berörda samhällsaktörer, särskilt näringslivet.
 
 Säker tillgång till kritiska råvaror och insatsvaror är av avgörande betydelse för samhällets funktionalitet. Den säkerhetspolitiska betydelsen av att ha tillgång till bland annat kritiska och strategiska metaller och mineral kommer att öka. Det innebär att även Sveriges tillgångar av bland annat metaller, mineral samt en långsiktigt ökad tillgång till hållbar skoglig biomassa är av betydelse för vår nationella säkerhet. Det är viktigt att tillståndsprocesser är utformade så att de medger effektivt utnyttjande av dessa tillgångar med hänsyn tagen till klimat och miljö.
 
-### 8.3.4 Ekonomisk säkerhet
-
-#### Sveriges ekonomiska säkerhet ska stärkas
+#### 8.3.4 Ekonomisk säkerhet Sveriges ekonomiska säkerhet ska stärkas
 
 Det svenska näringslivet, och därmed vårt samhälles funktionalitet och välstånd, är beroende av tillgång till globala marknader samt försörjnings-och värdekedjor. Näringslivet har starkt gynnats av de senaste decenniernas utveckling mot ökad globalisering. Sveriges konkurrenskraft och ekonomiska säkerhet främjas av att nödvändig kompetens kan rekryteras från andra EU-länder och tredjeland. Sammantaget innebär detta att det är ett strategiskt svenskt intresse att den pågående reverseringen av globaliseringen kan begränsas och frihandel och svenska företags marknadstillträde värnas.
 
@@ -478,9 +456,7 @@ Internationellt forskningssamarbete är avgörande för att kunna bedriva excell
 
 Forskningssäkerheten behöver därför stärkas, bland annat genom ökad kunskap och medvetenhet om risker med internationellt samarbete. Det behövs också ökad förmåga att bedöma och hantera dessa risker.
 
-### 8.3.5 Konkurrenskraft
-
-#### Sveriges konkurrenskraft ska stärkas
+#### 8.3.5 Konkurrenskraft Sveriges konkurrenskraft ska stärkas
 
 Grunden för vår framtida konkurrenskraft är ett skolsystem som rustar barn och unga med nödvändiga kunskaper och förmågor. En stark konkurrenskraft förutsätter utbildning, forskning och innovation av hög kvalitet, särskilt inom banbrytande teknik. Det behövs ett närmare samarbete mellan näringslivet och myndigheter för att identifiera, utveckla och operationalisera satsningar på teknik av betydelse för den nationella säkerheten. Synergierna mellan de civila och försvarsinriktade forsknings-och innovationssystemen ska tillvaratas.
 

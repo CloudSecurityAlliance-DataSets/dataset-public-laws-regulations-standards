@@ -392,10 +392,9 @@ several other small-and large-scale initiatives that are discussed in the strate
 
 4 Information on follow-up of the work of the Health Data Commission is available (in Norwegian) at: www.regjeringen.no/no/dokument/dep/hod/sak1/helsedatautvalget/id2595894/ and Helse-og omsorgsdepartementet (2019): Høring – tilgjengeliggjøring av helsedata (endringer i helseregisterloven m.m.). [Ministry for Health and Care Services (2019): Public hearing on making health data available and amending the Health Register Act]
 
-«Doing nothing with AI», Emanuel Gollob (AT) Photo: Ars Electronica
-
-1 What is AI?"
-"2","1.1","Definition","numbered","","Artificial intelligence systems perform actions, physically or digitally, based on interpreting and processing structured or unstructured data, to achieve a given goal.
+«Doing nothing with AI», Emanuel Gollob (AT) Photo: Ars Electronica"
+"2","1","What is AI?","numbered","",""
+"3","1.1","Definition","numbered","1","Artificial intelligence systems perform actions, physically or digitally, based on interpreting and processing structured or unstructured data, to achieve a given goal.
 
 Definitions of artificial intelligence (AI) vary considerably, and often change in line with
 
@@ -454,7 +453,7 @@ be used to model regulations, business logic or experience-based practice (exerc
 public sector are rule-based. Our definition of artificial intelligence covers some of
 
 these systems, depending on factors such as the complexity of the rule set."
-"2","1.2","How does artificial intelligence work?","numbered","","A system based on artificial intelligence can either interpret data from devices such as sensors, cameras, microphones or pressure gauges or can be fed input data from
+"3","1.2","How does artificial intelligence work?","numbered","1","A system based on artificial intelligence can either interpret data from devices such as sensors, cameras, microphones or pressure gauges or can be fed input data from
 
 other information sources. The system analyses the data, makes decisions and
 
@@ -560,10 +559,9 @@ discussed in more detail in chapter 5.
 
 The Government will facilitate world-class AI infrastructure in Norway in the form of digitalisation-friendly regulations, good language resources, fast and robust communication networks, and sufficient computing power. It will facilitate data sharing within and across industries and sectors.
 
-«Data urns», Daniel Huber (AT) Photo: Ars Electronica
-
-2 A good basis for AI"
-"2","2.1","Data and data management","numbered","","Data is vital to AI. Today vast datasets are generated from many different sources. AI
+«Data urns», Daniel Huber (AT) Photo: Ars Electronica"
+"2","2","A good basis for AI","numbered","",""
+"3","2.1","Data and data management","numbered","2","Data is vital to AI. Today vast datasets are generated from many different sources. AI
 
 and machine learning can use this data to provide important insights. Access to high-quality datasets is decisive for exploiting the potential of AI. The Government's goal is
 
@@ -970,7 +968,7 @@ the business sector be made accessible, and examine whether requirements
 for data access in connection with licences might be a suitable policy
 
 instrument in this regard"
-"2","2.2","Language data and language resources","numbered","","Language technology in the form of, for example, speech recognition and language
+"3","2.2","Language data and language resources","numbered","2","Language technology in the form of, for example, speech recognition and language
 
 comprehension, represents a key component in AI. Natural language processing (NLP)
 
@@ -1111,7 +1109,7 @@ services and other language-related services
 friendly legal language
 
  present a white paper on Sami language, culture and society that focuses on digitalisation"
-"2","2.3","Regulations","numbered","","Norway has a tradition for modernising its legal framework to meet new technological
+"3","2.3","Regulations","numbered","2","Norway has a tradition for modernising its legal framework to meet new technological
 
 developments, starting with the eRegulation project14 in 2000. The aim is to make laws
 
@@ -1666,7 +1664,7 @@ data for research and analysis and simultaneously strengthen privacy and data
 protection
 
  facilitate more active use of health data for testing the effects and safety of medicines and medical technology"
-"2","2.4","Infrastructure: networks and computing power","numbered","","Deployment of the electronic communication networks
+"3","2.4","Infrastructure: networks and computing power","numbered","2","Deployment of the electronic communication networks
 
 The electronic communication networks, and the mobile communication networks in
 

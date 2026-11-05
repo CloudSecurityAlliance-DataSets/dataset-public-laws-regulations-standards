@@ -631,10 +631,9 @@ hind them, their exact targets, goals and scope or the consequences of their eff
 
 er risks can also be associated with cyber threats. For example, terrorist strikes causing
 
-physical destruction can also incorporate various cyber operations.
-
-3. PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS"
-"3","3.1","Basic principles of cyber security management","numbered","3","The Government comprises the highest level of cyber security management. The Prime
+physical destruction can also incorporate various cyber operations."
+"3","3 (PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS)","PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS","numbered","3",""
+"4","3.1","Basic principles of cyber security management","numbered","3 (PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS)","The Government comprises the highest level of cyber security management. The Prime
 
 Minister leads the Government and is responsible for preparing and coordinating the han-
 
@@ -741,7 +740,7 @@ well-defined processes and division of duties between different actors (see the 
 Strategy for Society).
 
 FIGURE 3. Strategic agility"
-"3","3.2","Management of disturbances endangering society","numbered","3","As the vulnerability of society increases it is necessary to be able to rapidly start managing
+"4","3.2","Management of disturbances endangering society","numbered","3 (PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS)","As the vulnerability of society increases it is necessary to be able to rapidly start managing
 
 sudden disturbances in the cyber domain, aka cyber incidents. Cyber incidents typical-
 
@@ -783,10 +782,9 @@ as appropriate, and brings in the other actors needed for situation management. 
 
 incident management encompasses four elements: contingency planning, compilation of
 
-a situation picture, countermeasures and recovery.
-
-4. SECURING THE VITAL FUNCTIONS OF SOCIETY AGAINST CYBER THREATS"
-"4","4.1","Cyber situation awareness and setting up the Cyber Security Centre","numbered","4","Improve comprehensive cyber security situation awareness among the key actors that participate in securing the vital functions of society. Establish a Cyber Security Centre, supported by a cooperative network of actors.
+a situation picture, countermeasures and recovery."
+"3","FINLAND’S CYBER SECURITY STRATEGY: 4","SECURING THE VITAL FUNCTIONS OF SOCIETY AGAINST CYBER THREATS","numbered","",""
+"4","4.1","Cyber situation awareness and setting up the Cyber Security Centre","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","Improve comprehensive cyber security situation awareness among the key actors that participate in securing the vital functions of society. Establish a Cyber Security Centre, supported by a cooperative network of actors.
 
 The decision-making process of the state leadership and the authorities requires suffi-
 
@@ -927,7 +925,7 @@ members of the working group must be experts in their respective fields, with ex
 knowledge of their organisation’s preparedness, and of the state and requirements of their
 
 cyber security situation."
-"4","4.2","Guaranteeing the preconditions of the business community; security of supply","numbered","4","Maintain and improve the abilities of businesses and organisations critical to the vital functions of society as regards detecting and repelling cyber threats and disturbances that jeopardise any vital function, and their recovery capabilities as part of the business community’s continuity management.
+"4","4.2","Guaranteeing the preconditions of the business community; security of supply","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","Maintain and improve the abilities of businesses and organisations critical to the vital functions of society as regards detecting and repelling cyber threats and disturbances that jeopardise any vital function, and their recovery capabilities as part of the business community’s continuity management.
 
 The goal is to guarantee, also during ongoing cyber incidents, the continued operations
 
@@ -1038,7 +1036,7 @@ education, and intensify the internal development of its administrative agencies
 tional Communications Security Authority will become a renowned authority in provid-
 
 ing international information security certifications."
-"4","4.3","Cybercrime prevention","numbered","4","Make certain that the police have sufficient capabilities to prevent, expose and solve cybercrime.
+"4","4.3","Cybercrime prevention","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","Make certain that the police have sufficient capabilities to prevent, expose and solve cybercrime.
 
 The police must be able to identify and prevent the planning, financing and directing of
 
@@ -1119,7 +1117,7 @@ ing and analysing digital evidence in a legally certain manner. The competence o
 thorities, prosecutors and judges involved in the prevention and investigation of cyber-
 
 crime is improved by developing the pertinent education of the field."
-"4","4.4","Cyber defence capability","numbered","4","The Finnish Defence Forces will create a comprehensive cyber defence capability for their statutory tasks.
+"4","4.4","Cyber defence capability","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","The Finnish Defence Forces will create a comprehensive cyber defence capability for their statutory tasks.
 
 Cyber intelligence, cyber warfare and protection capabilities create the cyber defence ca-
 
@@ -1212,7 +1210,7 @@ Sufficient powers, competence and the right to information will be given to the 
 fence Forces for the implementation of national defence, executive assistance, territorial
 
 surveillance and crisis management tasks."
-"4","4.5","International cooperation","numbered","4","Strengthen national cyber security through active and efficient participation in the activities of international organisations and collaborative fora that are critical to cyber security.
+"4","4.5","International cooperation","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","Strengthen national cyber security through active and efficient participation in the activities of international organisations and collaborative fora that are critical to cyber security.
 
 The goal of national cyber security – integrated situation awareness, effective disturbance
 
@@ -1323,7 +1321,7 @@ supports its Member States’ decision-making in economic and social policy. The
 has issued recommendations on the security principles of IT systems and networks, and
 
 carried out comparative studies on its Member States’ national cyber security strategies."
-"4","4.6","Improving research and competence; exercises","numbered","4","Improve cyber expertise and awareness of all societal actors.
+"4","4.6","Improving research and competence; exercises","numbered","FINLAND’S CYBER SECURITY STRATEGY: 4","Improve cyber expertise and awareness of all societal actors.
 
 Regarding the importance of cyber security to society, the goal is to improve understand-
 
@@ -1670,10 +1668,9 @@ rules on jurisdiction be expanded, special consideration must be paid to human a
 
 sic rights, and to their impact on the rules on jurisdiction, for instance, when intelligence-
 
-gathering powers are being expanded.
-
-6. IMPLEMENTATION OF THE CYBER SECURITY STRATEGY"
-"3","6.1","Principles of implementing the Strategy","numbered","","Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.
+gathering powers are being expanded."
+"3","6","IMPLEMENTATION OF THE CYBER SECURITY STRATEGY","numbered","",""
+"4","6.1","Principles of implementing the Strategy","numbered","6","Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.
 
 The cyber security of society and the securing of its vital functions rely on the strategic
 
@@ -1728,7 +1725,7 @@ The future Security Committee will coordinate the joint monitoring and develop-
 ment of the implementation of the Strategy. The Committee will prepare annual reports
 
 on the state of the Strategy’s implementation."
-"3","6.2","Required measures","numbered","","Ministries will monitor the implementation and development of cyber security-related tasks and the security of supply-measures. The administrative branches will carry out the monitoring as part of their routine practices.
+"4","6.2","Required measures","numbered","6","Ministries will monitor the implementation and development of cyber security-related tasks and the security of supply-measures. The administrative branches will carry out the monitoring as part of their routine practices.
 
 The Cyber Security Centre, together with its network, will regularly prepare cyber inci-
 
@@ -1805,7 +1802,7 @@ on the basis of an analysis generated by the process. The salient points of the 
 curity Strategy will be incorporated into the Security Strategy for Society the next time
 
 it is updated."
-"3","6.3","Resource allocation","numbered","","Ministries, government agencies and establishments are to include the resources for the
+"4","6.3","Resource allocation","numbered","6","Ministries, government agencies and establishments are to include the resources for the
 
 implementation of the Cyber Security Strategy in their operating and financial plans. Par-
 
@@ -1826,7 +1823,7 @@ mined in the joint implementation plan. The Centre will be able to operate on a 
 sis which, according to preliminary plans will require the additional resources of approx-
 
 imately ten person-years and at least one million Euros."
-"3","6.4","Action Plan and assessing effectiveness","numbered","","The implementation of the Strategy and its completion will be monitored.
+"4","6.4","Action Plan and assessing effectiveness","numbered","6","The implementation of the Strategy and its completion will be monitored.
 
 Phase 1 of the Cyber Security Strategy will be put into practice during 2013-2015. De-
 

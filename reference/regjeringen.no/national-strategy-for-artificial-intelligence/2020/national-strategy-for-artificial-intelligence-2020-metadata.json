@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Norway (Regjeringen) (regjeringen.no) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Norway (Regjeringen) (regjeringen.no).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
-    "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
+    "spdx": "NLOD-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (regjeringen.no); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (regjeringen.no); publicly released for free download, policy reference, and research."
+    "license_text_url": "https://data.norge.no/nlod/en/2.0",
+    "note": "Official publication (regjeringen.no); Norwegian Copyright Act (Åndsverkloven, LOV-2018-06-15-40) § 14 (statutes, regulations, and official reports/documents issued by public authorities excluded from copyright) and Norwegian Licence for Open Government Data (NLOD 2.0).",
+    "notes": "Official publication (regjeringen.no); Norwegian Copyright Act (Åndsverkloven, LOV-2018-06-15-40) § 14 (statutes, regulations, and official reports/documents issued by public authorities excluded from copyright) and Norwegian Licence for Open Government Data (NLOD 2.0)."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 67-page PDF (https://wp.oecd.ai/app/uploads/2021/12/Norway_National_Strategy_for_Artificial_Intelligence_2020.pdf) locally via PyMuPDF (172,649 chars). Parsed 24 sections (16 with explicit section identifiers)."
+    "notes": "Extracted 67-page PDF (https://wp.oecd.ai/app/uploads/2021/12/Norway_National_Strategy_for_Artificial_Intelligence_2020.pdf) locally via PyMuPDF (172,646 chars). Parsed 26 sections (18 with explicit section identifiers)."
   },
   "extraction_history": [
     {

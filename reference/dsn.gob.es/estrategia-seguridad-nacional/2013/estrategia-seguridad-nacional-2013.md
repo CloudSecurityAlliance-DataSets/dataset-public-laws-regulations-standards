@@ -32,9 +32,7 @@ Sumario
 
 RESUMEN EJECUTIVO 1 CAPÍTULO 1 UNA VISIÓN INTEGRAL DE LA SEGURIDAD NACIONAL 5
 
-### CAPÍTULO 2
-
-L E
+## CAPÍTULO 2 — L E
 
 A SEGURIDAD DE SPAÑA EN EL MUNDO 10
 
@@ -76,7 +74,7 @@ CAPÍTULO 4 LÍNEAS DE ACCIÓN ESTRATÉGICAS 38
 
 CAPÍTULO 3 LOS RIESGOS Y AMENAZAS PARA LA SEGURIDAD NACIONAL 21
 
-### CAPÍTULO 5 UN NUEVO SISTEMA DE SEGURIDAD NACIONAL 53 ensa nacional 40
+## CAPÍTULO 5 UN NUEVO SISTEMA DE SEGURIDAD NACIONAL 53 ensa nacional 40
 
 Def
 
@@ -134,7 +132,7 @@ Vulnerabilidad de las infraestructuras críticas y servicios esenciales
 
 Protección de las infraestructuras críticas
 
-## Resumen ejecutivo
+### Resumen ejecutivo
 
 L
 
@@ -292,7 +290,7 @@ PATRIMONIO de millones de personas. CULTURAL Y POTENCIA TURÍSTICA ECONOMÍA INT
 
 SOLIDARIDAD yección exterior, España
 
-MULTILATERALISMO tiene que actuar en diver- Y PRESENCIA EN FOROS INTERNACIONALES sos frentes. Debe impul­ sar las necesarias refor­ mas de las organizaciones internacionales, para hacerlas más eficaces y adaptadas a los cambios. Igualmente ha de reforzar su influencia en los f oros e iniciativas multilaterales. Es también importante el fortalecimiento de las relaciones bilaterales, para que España sea un actor internacional más influy ente.
+MULTILATERALISMO tiene que actuar en diver- Y PRESENCIA EN FOROS INTERNACIONALES sos frentes. Debe impul  sar las necesarias refor  mas de las organizaciones internacionales, para hacerlas más eficaces y adaptadas a los cambios. Igualmente ha de reforzar su influencia en los f oros e iniciativas multilaterales. Es también importante el fortalecimiento de las relaciones bilaterales, para que España sea un actor internacional más influy ente.
 
 ### 1. La Unión Europea
 
@@ -734,7 +732,7 @@ LÍNEAS DE
 
 5. Fomento de la conciencia y cultura de defensa, pilares del apoyo de la sociedad española a la Defensa Nacional, prestando especial atención a la juventud.
 
-6. Fortalecimiento del tejido industrial español de Defensa mediante las acciones de fomento, proyec­ ción y colaboración con las capacidades nacionales que, salvaguardadas las necesidades operativas propias, se estimen necesarias. Se potenciarán los vínculos entre los actores que conforman la arqui­ tectura óptima en esta materia (Industria, Universidad y Defensa).
+6. Fortalecimiento del tejido industrial español de Defensa mediante las acciones de fomento, proyec  ción y colaboración con las capacidades nacionales que, salvaguardadas las necesidades operativas propias, se estimen necesarias. Se potenciarán los vínculos entre los actores que conforman la arqui  tectura óptima en esta materia (Industria, Universidad y Defensa).
 
 ### 2. LUCHA CONTRA EL TERRORISMO
 
@@ -746,11 +744,11 @@ Siguiendo una estructura similar a la adoptada por la Estrategia de lucha contra
 
 1. Prevención: actuar contra el terrorismo desde su origen. En el ámbito interno, se actuará sobre sus inicios, para evitar la captación de nuevos terroristas a través de procesos de radicalización, a cuyo fin se asegurará la actuación coordinada de todas las Administraciones. En el ámbito externo, se participará en el desarrollo de una política concertada y coordinada con los países democráticos -preferentemente mediante la acción común en el seno de la UE-y se cooperará en el combate de la radicalización en su origen. En el ámbito del ciberespacio, se procurará que internet no constituya un medio para la radicalización, la propagación y la consecución de sus fines.
 
-2. Protección: disminuir nuestras vulnerabilidades. Se trabajará para reducir las oportunidades de come­ ter atentados mediante la mejora y el incremento de nuestras capacidades nacionales, tanto dentro de nuestro propio país -incrementando los niveles de protección de objetivos sensibles y mejorando el control en las fronteras-, como en el exterior -donde los intereses españoles se encuentran desple­ gados-y en el espacio virtual -fortaleciendo las redes y sistemas de información nacionales-.
+2. Protección: disminuir nuestras vulnerabilidades. Se trabajará para reducir las oportunidades de come  ter atentados mediante la mejora y el incremento de nuestras capacidades nacionales, tanto dentro de nuestro propio país -incrementando los niveles de protección de objetivos sensibles y mejorando el control en las fronteras-, como en el exterior -donde los intereses españoles se encuentran desple  gados-y en el espacio virtual -fortaleciendo las redes y sistemas de información nacionales-.
 
-3. Persecución: hacer frente a la actividad terrorista. Se promoverán y mejorarán las capacidades de investigación e inteligencia sobre los terroristas y sus acciones mediante la adecuación de los ins­ trumentos nacionales precisos de coordinación, dirección y supervisión, con la finalidad de lograr el mayor grado de efectividad posible de las instituciones y los poderes públicos. Se adoptarán medidas para impedir la planificación de actos terroristas, su financiación y el acceso a los materiales necesarios para la comisión de atentados.
+3. Persecución: hacer frente a la actividad terrorista. Se promoverán y mejorarán las capacidades de investigación e inteligencia sobre los terroristas y sus acciones mediante la adecuación de los ins  trumentos nacionales precisos de coordinación, dirección y supervisión, con la finalidad de lograr el mayor grado de efectividad posible de las instituciones y los poderes públicos. Se adoptarán medidas para impedir la planificación de actos terroristas, su financiación y el acceso a los materiales necesarios para la comisión de atentados.
 
-4. Preparación de la respuesta: restablecer la normalidad. En el caso de que se materialice la amenaza terrorista, se adoptarán las medidas y planes necesarios que aseguren la sinergia y coordinación de to­ dos los organismos con responsabilidad en la materia. En particular, se minimizarán sus consecuencias, se dará apoyo inmediato y permanente a las víctimas de ataques terroristas, que recibirán una aten­ ción integral y un reconocimiento, se garantizará la rápida recuperación de los sectores de actividad esenciales y se extraerá la experiencia necesaria para futuras actuaciones.
+4. Preparación de la respuesta: restablecer la normalidad. En el caso de que se materialice la amenaza terrorista, se adoptarán las medidas y planes necesarios que aseguren la sinergia y coordinación de to  dos los organismos con responsabilidad en la materia. En particular, se minimizarán sus consecuencias, se dará apoyo inmediato y permanente a las víctimas de ataques terroristas, que recibirán una aten  ción integral y un reconocimiento, se garantizará la rápida recuperación de los sectores de actividad esenciales y se extraerá la experiencia necesaria para futuras actuaciones.
 
 ### 3. CIBERSEGURIDAD
 
@@ -766,7 +764,7 @@ AS
 
 1. Incremento de la capacidad de prevención, detección, investigación y respuesta ante las ciberamenazas
 
-con apoyo en un marco jurídico operativo y eficaz. Se mejorarán los procedimientos y se impulsarán los recursos necesarios con especial énfasis en las Administraciones Públicas, las infraestructuras críti­
+con apoyo en un marco jurídico operativo y eficaz. Se mejorarán los procedimientos y se impulsarán los recursos necesarios con especial énfasis en las Administraciones Públicas, las infraestructuras críti
 
 TÉGIC
 
@@ -774,13 +772,13 @@ cas, las capacidades militares y de defensa y todos aquellos sistemas de interé
 
 ACCIÓN ESTRA
 
-2. Garantía de la seguridad de los sistemas de información y las redes de comunicaciones e infraestructu­ ras comunes a todas las Administraciones Públicas. Se finalizar á la implantación del Esquema Nacional de Seguridad, previsto en la Ley 11/2007, de 22 de junio, mediante el refuerzo de las capacidades de detección y la mejora de la defensa de los sistemas clasificados. Se fortalecerá la seguridad de los
+2. Garantía de la seguridad de los sistemas de información y las redes de comunicaciones e infraestructu  ras comunes a todas las Administraciones Públicas. Se finalizar á la implantación del Esquema Nacional de Seguridad, previsto en la Ley 11/2007, de 22 de junio, mediante el refuerzo de las capacidades de detección y la mejora de la defensa de los sistemas clasificados. Se fortalecerá la seguridad de los
 
 LÍNEAS DE
 
-sistemas de información y las redes de comunicaciones que soportan las infraestructuras críticas. Se impulsará la normativa sobre protección de infraestructuras críticas con el desarrollo de las capacida­ des necesarias para la protección de los servicios esenciales.
+sistemas de información y las redes de comunicaciones que soportan las infraestructuras críticas. Se impulsará la normativa sobre protección de infraestructuras críticas con el desarrollo de las capacida  des necesarias para la protección de los servicios esenciales.
 
-3. Mejora de la seguridad y resiliencia de las Tecnologías de la Información y la Comunicación (TIC) en el sector privado a través del uso de las capacidades de los poderes públicos. Se im­ pulsarán y liderarán actuaciones destinadas a reforzar la colaboración público-privada y la seguri­ dad y robustez de las redes, productos y servicios de las TIC empleados por el sector industrial.
+3. Mejora de la seguridad y resiliencia de las Tecnologías de la Información y la Comunicación (TIC) en el sector privado a través del uso de las capacidades de los poderes públicos. Se im  pulsarán y liderarán actuaciones destinadas a reforzar la colaboración público-privada y la seguri  dad y robustez de las redes, productos y servicios de las TIC empleados por el sector industrial.
 
 4. Promoción de la capacitación de profesionales en ciberseguridad e impulso a la industria española a través de un Plan de I+D+i.
 
@@ -796,9 +794,9 @@ OBJETIVO LÍNEAS DE ACCIÓN ESTRATÉGICAS
 
 En tanto que el crimen organizado está íntimamente relacionado con la transnacionalidad de los grupos, de sus actividades y beneficios, las líneas de acción estratégicas se deben fundamentar en la colaboración y cooperación internacional, tanto en el ámbito público -policial, judicial y de inteligencia-como en el privado.
 
-1. Sensibilización y concienciación de la sociedad de que la lucha contra este fenómeno es global, tras­ ciende nuestras fronteras y puede precisar el despliegue de efectivos en terceros países. Esto resulta especialmente necesario en el caso de los delitos de tráfico en sus diferentes modalidades (drogas, armas, seres humanos, vehículos, etc). En este sentido, es preciso el refuerzo e incremento de los lazos de colaboración con países y zonas geográficas de interés prioritario para España, con la finalidad de crear un ambiente hostil que dificulte la implantación de estas organizaciones en nuestro país. Se deben armonizar las legislaciones con los países de referencia para España en materia de incautación de bienes de las organizaciones criminales en ellos asentadas.
+1. Sensibilización y concienciación de la sociedad de que la lucha contra este fenómeno es global, tras  ciende nuestras fronteras y puede precisar el despliegue de efectivos en terceros países. Esto resulta especialmente necesario en el caso de los delitos de tráfico en sus diferentes modalidades (drogas, armas, seres humanos, vehículos, etc). En este sentido, es preciso el refuerzo e incremento de los lazos de colaboración con países y zonas geográficas de interés prioritario para España, con la finalidad de crear un ambiente hostil que dificulte la implantación de estas organizaciones en nuestro país. Se deben armonizar las legislaciones con los países de referencia para España en materia de incautación de bienes de las organizaciones criminales en ellos asentadas.
 
-2. Potenciación y mejora de los recursos, mecanismos y procedimientos de investigación policial relacio­ nados con el tráfico de influencias en las instituciones y la corrupción en todas sus formas.
+2. Potenciación y mejora de los recursos, mecanismos y procedimientos de investigación policial relacio  nados con el tráfico de influencias en las instituciones y la corrupción en todas sus formas.
 
 3. Mejora de la eficacia policial mediante reformas normativas que fomenten y desarrollen la dirección centralizada y la coordinación en la lucha contra el crimen organizado, así como a través del refuerzo de la colaboración con los órganos judiciales y de la Fiscalía.
 
@@ -826,13 +824,13 @@ tanto públicos como privados, potencie la productividad, el tejido empresarial,
 
 TÉGIC
 
-finanzas púb licas saneadas y la estabilidad de precios a lo largo del ciclo económico, y garantice la cohesión social. 2. Establecimiento de un marco socio-laboral que contribuya a una gestión eficaz de las relaciones labo­ rales, basado en el diálogo social con vistas a la adopción de medidas consensuadas que coadyuven a reducir los niveles de confl ictividad y favorezcan la paz social, que facilite la estabilidad en el empleo, la creación de puestos de trabajo y la eficiencia del mercado de tr abajo.
+finanzas púb licas saneadas y la estabilidad de precios a lo largo del ciclo económico, y garantice la cohesión social. 2. Establecimiento de un marco socio-laboral que contribuya a una gestión eficaz de las relaciones labo  rales, basado en el diálogo social con vistas a la adopción de medidas consensuadas que coadyuven a reducir los niveles de confl ictividad y favorezcan la paz social, que facilite la estabilidad en el empleo, la creación de puestos de trabajo y la eficiencia del mercado de tr abajo.
 
 ACCIÓN ESTRA
 
 LÍNEAS DE
 
-3. Promoción de una economía internacional abierta con un sistema estable de libre comercio e in­ versión en el marco de los foros internacionales en los que está presente España. Se fomentarán los consensos internacionales para dotar de mayor transparencia al sistema financiero . Se promoverá la seguridad jurídica en los entornos de inversión de las empresas españolas con actividad en el exterior. 4. Refuerzo de los actuales mecanismos de regulación y supervisión, para conseguir que su labor sea efectiva y se eviten crisis sistémicas. Establecimiento de nuevos mecanismos de regulación y supervi­ sión que garanticen una gobernanza económica y financier a global eficaz, como los propuestos por el G20, foro en el que participa España en calidad de invitado permanente. 5. Contribución a una gobernanza económica y financier a efectiva de la UE, que asegure la sostenibilidad y el buen funcionamiento de la UEM y la fortaleza del euro. Se cooperará activamente en la construc­ ción de un gobierno económico europeo con instrumentos comunes y políticas económicas coordina­ das que incluirán igualmente el estudio de medidas de vigilancia de los paraísos fiscales. 6. Fomento de los mecanismos de coordinación adecuados que permitan el desarrollo de la seguridad económica y de sus herramientas de apoyo -como por ejemplo, el Sistema de Inteligencia Económica (SIE)-. 7. Esfuerzo estratégico de acción y comunicación permanente en favor de la reputación e imagen de España, defensa de nuestros intereses en foros e instituciones económicas y apoyo a la internacionali­ zación de empresas y emprendedores españoles con el objetivo de contribuir a construir una “marca España” sólida y positiva, tanto desde el entorno público como el privado. 8. Definición de un procedimiento de estrecha cooper ación entre las entidades privadas y las autorida­ des públicas responsables de la seguridad de las infraestructuras y los servicios financieros.
+3. Promoción de una economía internacional abierta con un sistema estable de libre comercio e in  versión en el marco de los foros internacionales en los que está presente España. Se fomentarán los consensos internacionales para dotar de mayor transparencia al sistema financiero . Se promoverá la seguridad jurídica en los entornos de inversión de las empresas españolas con actividad en el exterior. 4. Refuerzo de los actuales mecanismos de regulación y supervisión, para conseguir que su labor sea efectiva y se eviten crisis sistémicas. Establecimiento de nuevos mecanismos de regulación y supervi  sión que garanticen una gobernanza económica y financier a global eficaz, como los propuestos por el G20, foro en el que participa España en calidad de invitado permanente. 5. Contribución a una gobernanza económica y financier a efectiva de la UE, que asegure la sostenibilidad y el buen funcionamiento de la UEM y la fortaleza del euro. Se cooperará activamente en la construc  ción de un gobierno económico europeo con instrumentos comunes y políticas económicas coordina  das que incluirán igualmente el estudio de medidas de vigilancia de los paraísos fiscales. 6. Fomento de los mecanismos de coordinación adecuados que permitan el desarrollo de la seguridad económica y de sus herramientas de apoyo -como por ejemplo, el Sistema de Inteligencia Económica (SIE)-. 7. Esfuerzo estratégico de acción y comunicación permanente en favor de la reputación e imagen de España, defensa de nuestros intereses en foros e instituciones económicas y apoyo a la internacionali  zación de empresas y emprendedores españoles con el objetivo de contribuir a construir una “marca España” sólida y positiva, tanto desde el entorno público como el privado. 8. Definición de un procedimiento de estrecha cooper ación entre las entidades privadas y las autorida  des públicas responsables de la seguridad de las infraestructuras y los servicios financieros.
 
 ### 6. SEGURIDAD ENERGÉTICA
 
@@ -840,9 +838,9 @@ Diversificar las fuentes de energía, garantizar la seguridad del transporte y a
 
 OBJETIVO LÍNEAS DE ACCIÓN ESTRATÉGICAS
 
-En el abastecimiento: 1. Mix energético.Ampliación de las fuentes de energía más allá de los combustibles fósiles y de la energía nuclear.Apoyo a las energías renovables que permitan una producción regular a precios que faciliten la competitividad de nuestras empresas. Impulso a la utilización de fuentes energéticas autóctonas. 2. Impulso de una política común energética europea que potencie las interconexiones entre los Es­ tados miembros, en especial entre el territorio español y el resto de Europa. Un mercado europeo de electricidad y gas natural plenamente integrado es una garantía de abastecimiento, seguridad y calidad energética. La conectividad reduce la vulnerabilidad física, permite flexibilidad en las interrup­ ciones de suministro y favorece la competencia intermodal entre gas y electricidad. 3. Actualización de la gestión de las reservas petrolíferas. Impulso a la investigación y explotación de yacimientos de hidrocarburos y diseño de planes de viabilidad para la extracción de estos recursos en el territorio.
+En el abastecimiento: 1. Mix energético.Ampliación de las fuentes de energía más allá de los combustibles fósiles y de la energía nuclear.Apoyo a las energías renovables que permitan una producción regular a precios que faciliten la competitividad de nuestras empresas. Impulso a la utilización de fuentes energéticas autóctonas. 2. Impulso de una política común energética europea que potencie las interconexiones entre los Es  tados miembros, en especial entre el territorio español y el resto de Europa. Un mercado europeo de electricidad y gas natural plenamente integrado es una garantía de abastecimiento, seguridad y calidad energética. La conectividad reduce la vulnerabilidad física, permite flexibilidad en las interrup  ciones de suministro y favorece la competencia intermodal entre gas y electricidad. 3. Actualización de la gestión de las reservas petrolíferas. Impulso a la investigación y explotación de yacimientos de hidrocarburos y diseño de planes de viabilidad para la extracción de estos recursos en el territorio.
 
-En la distribución: 4. Potenciación de la flexibilidad operativa del sistema nacional de redes de transporte de energía. Re­ visión de los planes de canalización y priorización de la demanda en caso de interrupción o escasez en el suministro de forma coordinada con la Agencia Internacional de la Energía (AIE) y la UE. 5. Refuerzo del control de las comunicaciones, tanto marítimas como terrestres. 6. Potenciación de las diferentes formas de almacenamiento a través del aumento de la capacidad instalada de bombeo hidráulico y de almacenamiento de gas. 7. Mejora de la fiabilidad de las redes de abastecimiento del gas, del sistema de transporte y distribu­ ción de petróleo, así como del sistema eléctrico. 8. Desarrollo de la colaboración público-privada para garantizar el suministro en caso de que las in­ fraestructuras críticas se vean afectadas.
+En la distribución: 4. Potenciación de la flexibilidad operativa del sistema nacional de redes de transporte de energía. Re  visión de los planes de canalización y priorización de la demanda en caso de interrupción o escasez en el suministro de forma coordinada con la Agencia Internacional de la Energía (AIE) y la UE. 5. Refuerzo del control de las comunicaciones, tanto marítimas como terrestres. 6. Potenciación de las diferentes formas de almacenamiento a través del aumento de la capacidad instalada de bombeo hidráulico y de almacenamiento de gas. 7. Mejora de la fiabilidad de las redes de abastecimiento del gas, del sistema de transporte y distribu  ción de petróleo, así como del sistema eléctrico. 8. Desarrollo de la colaboración público-privada para garantizar el suministro en caso de que las in  fraestructuras críticas se vean afectadas.
 
 En el consumo: 9. Fomento del ahorro energético y mejora de la eficacia energética. 10. Impulso de la sostenibilidad energética a través de actuaciones que contemplen los aspectos fiscales, medioambientales y el uso eficiente de los recursos disponibles. 11. Favorecer un marco regulatorio armonizado, transparente y objetivo que incremente la seguridad jurídica y la competitividad de las empresas.
 
@@ -858,7 +856,7 @@ terroristas o criminales y proteger a la población.
 
 AS
 
-1. Multilateralismo eficaz y cooper ación activa en la lucha contra la proliferación de las armas de des­
+1. Multilateralismo eficaz y cooper ación activa en la lucha contra la proliferación de las armas de des
 
 trucción masiva. La estrecha cooperación con los Estados miembros de la UE y los aliados OTAN –así como con otros países relevantes asociados-es fundamental para el éxito mundial de la lucha contra
 
@@ -870,7 +868,7 @@ ACCIÓN ESTRA
 
 LÍNEAS DE
 
-ONU. En este sentido, destaca la Resolución 1540 de 2004, patrocinada por España. 3. Desarrollo y actualización de los planes nacionales de prevención de la proliferación y mitigación de riesgos en los ámbitos nuclear, químico y biológico, así como la puesta en marcha de un plan nacional de biocustodia. 4. Refuerzo de las políticas y prácticas de control de las exportaciones de productos y tecnologías de doble uso relacionados con las armas de destrucción masiva, en coordinación con los socios de los regímenes de control de exportaciones. Se debe intensificar la localización, el control y la intercepta­ ción del tráfico ilegal de dichos productos y tecnologías. 5. Potenciación de las medidas para combatir las transferencias intangibles de conocimiento, tecnología, bienes y equipos. Se adoptarán medidas preventivas y punitivas contra la financiación ilegal de la proliferación. Se fortalecerán los medios jurídicos nacionales, en coordinación con otros Estados, para prevenir la proliferación, fomentando igualmente la cooperación regional. 6. Profundización en la mejora de las capacidades nacionales e internacionales de prevención de la amenaza de eventuales atentados terroristas con materiales nucleares, radioactivos o de ambos tipos, en coope­ ración con nuestros socios y, especialmente, en el marco de la Iniciativa Global contra el Terrorismo Nuclear (IGTN), lanzada conjuntamente por los presidentes de Estados Unidos y Rusia en 2006 para cuyo Grupo de Aplicación y Evaluación España fue elegida en 2010 como primer país coordinador. 7. Apoyo a los esfuerzos internacionales para limitar la proliferación de misiles de largo y corto alcance, susceptibles de ser utilizados para el lanzamiento de armas de destrucción masiva. España apoya, en este sentido, la universalización del HCOC (Código Internacional de Conducta de La Haya contra la Proliferación de Misiles Balísticos). Además, se secundará el desarrollo de una capacidad autónoma de defensa antimisiles en el marco de la OTAN y su Programa de Defensa Antimisiles y la armonización del principio de la disuasión mínima con los compromisos internacionales de desarme.
+ONU. En este sentido, destaca la Resolución 1540 de 2004, patrocinada por España. 3. Desarrollo y actualización de los planes nacionales de prevención de la proliferación y mitigación de riesgos en los ámbitos nuclear, químico y biológico, así como la puesta en marcha de un plan nacional de biocustodia. 4. Refuerzo de las políticas y prácticas de control de las exportaciones de productos y tecnologías de doble uso relacionados con las armas de destrucción masiva, en coordinación con los socios de los regímenes de control de exportaciones. Se debe intensificar la localización, el control y la intercepta  ción del tráfico ilegal de dichos productos y tecnologías. 5. Potenciación de las medidas para combatir las transferencias intangibles de conocimiento, tecnología, bienes y equipos. Se adoptarán medidas preventivas y punitivas contra la financiación ilegal de la proliferación. Se fortalecerán los medios jurídicos nacionales, en coordinación con otros Estados, para prevenir la proliferación, fomentando igualmente la cooperación regional. 6. Profundización en la mejora de las capacidades nacionales e internacionales de prevención de la amenaza de eventuales atentados terroristas con materiales nucleares, radioactivos o de ambos tipos, en coope  ración con nuestros socios y, especialmente, en el marco de la Iniciativa Global contra el Terrorismo Nuclear (IGTN), lanzada conjuntamente por los presidentes de Estados Unidos y Rusia en 2006 para cuyo Grupo de Aplicación y Evaluación España fue elegida en 2010 como primer país coordinador. 7. Apoyo a los esfuerzos internacionales para limitar la proliferación de misiles de largo y corto alcance, susceptibles de ser utilizados para el lanzamiento de armas de destrucción masiva. España apoya, en este sentido, la universalización del HCOC (Código Internacional de Conducta de La Haya contra la Proliferación de Misiles Balísticos). Además, se secundará el desarrollo de una capacidad autónoma de defensa antimisiles en el marco de la OTAN y su Programa de Defensa Antimisiles y la armonización del principio de la disuasión mínima con los compromisos internacionales de desarme.
 
 ### 8. ORDENACIÓN DE FLUJOS MIGRATORIOS
 
@@ -880,7 +878,7 @@ OBJETIVO LÍNEAS DE ACCIÓN ESTRATÉGICAS
 
 1. Ordenación eficaz de los flujos migratorios.
 
-2. Vigilancia y control de los accesos a las fronteras exteriores españolas en el marco del Sistema Integra­ do de Gestión de las Fronteras Exteriores de la UE.
+2. Vigilancia y control de los accesos a las fronteras exteriores españolas en el marco del Sistema Integra  do de Gestión de las Fronteras Exteriores de la UE.
 
 3. Cooperación con los países de origen y tránsito migratorio, para favorecer su desarrollo, fomentar vías de inmigración legal y prevenir en origen la inmigración irregular.
 
@@ -888,7 +886,7 @@ OBJETIVO LÍNEAS DE ACCIÓN ESTRATÉGICAS
 
 4.1
 
-Defensa de la legalidad y preservación de la seguridad ciudadana, para facilitar la lucha contra el crimen organizado, las redes de inmigración irregular y de tráfico de seres humanos, así como impedir que determinados grupos instrumentalicen o capten a inmigrantes para activi­ dades ilícitas.
+Defensa de la legalidad y preservación de la seguridad ciudadana, para facilitar la lucha contra el crimen organizado, las redes de inmigración irregular y de tráfico de seres humanos, así como impedir que determinados grupos instrumentalicen o capten a inmigrantes para activi  dades ilícitas.
 
 4.2.
 
@@ -896,9 +894,9 @@ Lucha contra la discriminación y garantía del principio de igualdad con atenci
 
 4.3.
 
-Promoción de la integración social con espacios de convivencia y apoyo para los inmigrantes más vulnerables. En esta línea, se impulsará la responsabilidad de las comunidades de inmigran­ tes en un marco de intereses políticos y sociales compartidos.
+Promoción de la integración social con espacios de convivencia y apoyo para los inmigrantes más vulnerables. En esta línea, se impulsará la responsabilidad de las comunidades de inmigran  tes en un marco de intereses políticos y sociales compartidos.
 
-5. Estrecha colaboración entre las Administraciones Públicas y, en su caso, con las ONG y el sector pri­ vado, con el objetivo de prevenir los riesgos asociados a la inmigración irregular.
+5. Estrecha colaboración entre las Administraciones Públicas y, en su caso, con las ONG y el sector pri  vado, con el objetivo de prevenir los riesgos asociados a la inmigración irregular.
 
 ### 9. CONTRAINTELIGENCIA
 
@@ -916,7 +914,7 @@ AS
 
 TÉGIC
 
-2. Impulso y refuerzo de las capacidades de los órganos nacionales de inteligencia, con objeto de garan­
+2. Impulso y refuerzo de las capacidades de los órganos nacionales de inteligencia, con objeto de garan
 
 tizar la disposición de los medios humanos y técnicos necesarios para contrarrestar eficazmente esta amenaza.
 
@@ -926,9 +924,9 @@ ACCIÓN ESTRA
 
 LÍNEAS DE
 
-4. Potenciación de la protección y sensibilización de los ciudadanos españoles que desarrollan sus activi­ dades fuera del territorio nacional y que, por tanto, pueden ser más vulnerables a las acciones hostiles de otros Estados, grupos o individuos.
+4. Potenciación de la protección y sensibilización de los ciudadanos españoles que desarrollan sus activi  dades fuera del territorio nacional y que, por tanto, pueden ser más vulnerables a las acciones hostiles de otros Estados, grupos o individuos.
 
-5. Incremento de la cooperación internacional en materia de contrainteligencia, tanto en el ámbito bila­ teral como en los organismos multinacionales de seguridad y defensa de los que España forma parte, para proporcionar una respuesta integral en defensa de los intereses nacionales.
+5. Incremento de la cooperación internacional en materia de contrainteligencia, tanto en el ámbito bila  teral como en los organismos multinacionales de seguridad y defensa de los que España forma parte, para proporcionar una respuesta integral en defensa de los intereses nacionales.
 
 ### 10. PROTECCIÓN ANTE EMERGENCIAS Y CATÁSTROFES
 
@@ -936,7 +934,7 @@ Establecer un Sistema Nacional de Protección de los ciudadanos que garantice un
 
 OBJETIVO LÍNEAS DE ACCIÓN ESTRATÉGICAS
 
-1. Adopción de un enfoque integrador y potenciador de las actuaciones entre la Administración Gene­ ral del Estado, las Comunidades Autónomas y las Administraciones Locales -particularmente en los ámbitos de detección, planificación y desarrollo de actuaciones ante emergencias y catástrofes-para conseguir una acción preventiva, una respuesta adecuada y un uso eficiente de los recursos limitados disponibles. Estas actuaciones tendrán como referencia los principios de cautela y prevención, colabo­ ración y cooperación, coordinación, solidaridad interterritorial, subsidiariedad, eficiencia, participación e igualdad. 2. Elaboración de un marco de referencia en la materia que propicie el impulso y la coordinación de esfuerzos, establezca prioridades y optimice los recursos para alcanzar objetivos comunes. 3. Actualización y perfeccionamiento del marco jurídico de la protección ante emergencias y catástrofes, con énfasis en el enfoque de la prevención a fin de evitar o mitigar los posibles impactos adversos de estas situaciones. 4. Establecimiento de protocolos de actuación coordinada de las diferentes partes involucradas. 5. Constitución de una red de alerta nacional de riesgos naturales (incluidos los sísmicos), ambientales, epidemiológicos y tecnológicos, para mejorar la coordinación de los diferentes organismos dedicados a la detección temprana de alertas bajo un enfoque multirriesgo. El objetivo último es la creación de un sistema inteligente de planificación en red que permita identificar, evaluar, prevenir y mitigar los distintos riesgos. 6. Mantenimiento de directorios de recursos para una gestión eficiente de la respuesta asistencial en situación de emergencias y catástrofes. 7. Promoción de una cultura de prevención entre los ciudadanos, que incluirá conocimientos y actitudes de autoprotección, reforzando las capacidades de resiliencia ante emergencias súbitas e inesperadas. También se promoverán programas de educación para la prevención en centros escolares. 8. Contribución a una mayor cooperación europea e internacional. Se mantendrá y potenciará la partici­ pación de España en las diferentes redes, planes y mecanismos europeos de preparación y respuesta ante emergencias y catástrofes. 9. Adopción de planes de preparación y respuesta ante pandemias bajo el principio de coordinación entre la Administración General del Estado y las Comunidades Autónomas y con organismos inter-nacionales como la Organización Mundial de la Salud o el Centro Europeo para la Prevención y el Control de las Enfermedades de la UE. 10. Adopción de protocolos de gestión y comunicación de situaciones de crisis alimentarias en coordi­ nación con la UE y otros organismos internacionales de referencia.
+1. Adopción de un enfoque integrador y potenciador de las actuaciones entre la Administración Gene  ral del Estado, las Comunidades Autónomas y las Administraciones Locales -particularmente en los ámbitos de detección, planificación y desarrollo de actuaciones ante emergencias y catástrofes-para conseguir una acción preventiva, una respuesta adecuada y un uso eficiente de los recursos limitados disponibles. Estas actuaciones tendrán como referencia los principios de cautela y prevención, colabo  ración y cooperación, coordinación, solidaridad interterritorial, subsidiariedad, eficiencia, participación e igualdad. 2. Elaboración de un marco de referencia en la materia que propicie el impulso y la coordinación de esfuerzos, establezca prioridades y optimice los recursos para alcanzar objetivos comunes. 3. Actualización y perfeccionamiento del marco jurídico de la protección ante emergencias y catástrofes, con énfasis en el enfoque de la prevención a fin de evitar o mitigar los posibles impactos adversos de estas situaciones. 4. Establecimiento de protocolos de actuación coordinada de las diferentes partes involucradas. 5. Constitución de una red de alerta nacional de riesgos naturales (incluidos los sísmicos), ambientales, epidemiológicos y tecnológicos, para mejorar la coordinación de los diferentes organismos dedicados a la detección temprana de alertas bajo un enfoque multirriesgo. El objetivo último es la creación de un sistema inteligente de planificación en red que permita identificar, evaluar, prevenir y mitigar los distintos riesgos. 6. Mantenimiento de directorios de recursos para una gestión eficiente de la respuesta asistencial en situación de emergencias y catástrofes. 7. Promoción de una cultura de prevención entre los ciudadanos, que incluirá conocimientos y actitudes de autoprotección, reforzando las capacidades de resiliencia ante emergencias súbitas e inesperadas. También se promoverán programas de educación para la prevención en centros escolares. 8. Contribución a una mayor cooperación europea e internacional. Se mantendrá y potenciará la partici  pación de España en las diferentes redes, planes y mecanismos europeos de preparación y respuesta ante emergencias y catástrofes. 9. Adopción de planes de preparación y respuesta ante pandemias bajo el principio de coordinación entre la Administración General del Estado y las Comunidades Autónomas y con organismos inter-nacionales como la Organización Mundial de la Salud o el Centro Europeo para la Prevención y el Control de las Enfermedades de la UE. 10. Adopción de protocolos de gestión y comunicación de situaciones de crisis alimentarias en coordi  nación con la UE y otros organismos internacionales de referencia.
 
 ### 11. SEGURIDAD MARÍTIMA
 
@@ -956,13 +954,13 @@ número de departamentos, organismos y agencias de las Administraciones Pública
 
 TÉGIC
 
-2. Optimización y uso eficaz de los limitados recur sos disponibles. Se impulsará la búsqueda de sinergias y racionalización de los medios. Se integrarán las capacidades de prevención y respuesta de las Admi­ nistraciones Públicas. 3. Fomento de la cooperación internacional. Se continuará con el proceso de implementación de la nor-mativa de la UE y la Organización Marítima Internacional (OMI), donde se enmarcan las actuaciones de España. Se mantendrán e impulsarán acuerdos bilaterales con otros países para el intercambio de
+2. Optimización y uso eficaz de los limitados recur sos disponibles. Se impulsará la búsqueda de sinergias y racionalización de los medios. Se integrarán las capacidades de prevención y respuesta de las Admi  nistraciones Públicas. 3. Fomento de la cooperación internacional. Se continuará con el proceso de implementación de la nor-mativa de la UE y la Organización Marítima Internacional (OMI), donde se enmarcan las actuaciones de España. Se mantendrán e impulsarán acuerdos bilaterales con otros países para el intercambio de
 
 ACCIÓN ESTRA
 
 LÍNEAS DE
 
-información y la realización de actividades conjuntas. 4. Fomento de la colaboración con el sector privado. La implicación del sector privado es esencial en el ámbito de la seguridad marítima, por lo que se buscará la colaboración de compañías navieras, arma­ dores, astilleros, sociedades de clasificación, etc., para conseguir los objetivos fijados en la política de seguridad marítima.
+información y la realización de actividades conjuntas. 4. Fomento de la colaboración con el sector privado. La implicación del sector privado es esencial en el ámbito de la seguridad marítima, por lo que se buscará la colaboración de compañías navieras, arma  dores, astilleros, sociedades de clasificación, etc., para conseguir los objetivos fijados en la política de seguridad marítima.
 
 ### 12. PROTECCIÓN DE LAS INFRAESTRUCTURAS CRÍTICAS
 
@@ -976,7 +974,7 @@ sociedad.
 
 AS
 
-1. Responsabilidad compartida y cooperación público-privada. Es imprescindible que tanto las Admi­
+1. Responsabilidad compartida y cooperación público-privada. Es imprescindible que tanto las Admi
 
 nistraciones Públicas como los operadores privados asuman la responsabilidad correspondiente y trabajen de forma coordinada en la protección de las infraestructuras críticas en todo momento. El
 
@@ -990,17 +988,17 @@ ACCIÓN ESTRA
 
 LÍNEAS DE
 
-estratégica, hasta aquellos activos que se encuentren bajo la responsabilidad de un operador u orga­ nización. Este sistema se abordará a partir de un enfoque integral multirriesgo y homogeneizador.
+estratégica, hasta aquellos activos que se encuentren bajo la responsabilidad de un operador u orga  nización. Este sistema se abordará a partir de un enfoque integral multirriesgo y homogeneizador.
 
 3. Equilibrio y efi ciencia. El Gobierno aplicará una metodología homogénea que permitirá concentrar los esfuerzos sobre las áreas más vitales: catalogará las infraestructuras de manera priorizada y permitirá una racionalización en la asignación de recursos.
 
-4. Resiliencia. Más allá de las medidas que doten a los activos críticos de una mayor seguridad, las polí­ ticas en materia de protección de infraestructuras críticas deberán promover las acciones necesarias con el fin de logr ar un incremento de la capacidad de los sistemas que les permita seguir operando, pese a estar sometidos a un ataque o incidente, aun cuando sea en un estado degradado o debilitado. En este sentido, se debe contemplar la existencia de sistemas redundantes o aislados y la adecuada dotación de elementos de reposición.
+4. Resiliencia. Más allá de las medidas que doten a los activos críticos de una mayor seguridad, las polí  ticas en materia de protección de infraestructuras críticas deberán promover las acciones necesarias con el fin de logr ar un incremento de la capacidad de los sistemas que les permita seguir operando, pese a estar sometidos a un ataque o incidente, aun cuando sea en un estado degradado o debilitado. En este sentido, se debe contemplar la existencia de sistemas redundantes o aislados y la adecuada dotación de elementos de reposición.
 
-5. Coordinación. La gestión de crisis a nivel gubernamental organizará todas las tareas, responsabilidades y recursos existentes teniendo en cuenta las infraestructuras críticas como parte integrante en las fases de preparación, respuesta y recuperación. Resulta esencial la existencia de una adecuada coordi­ nación operativa entre las organizaciones responsables de la gestión de riesgos y la gestión de crisis.
+5. Coordinación. La gestión de crisis a nivel gubernamental organizará todas las tareas, responsabilidades y recursos existentes teniendo en cuenta las infraestructuras críticas como parte integrante en las fases de preparación, respuesta y recuperación. Resulta esencial la existencia de una adecuada coordi  nación operativa entre las organizaciones responsables de la gestión de riesgos y la gestión de crisis.
 
-6. Cooperación internacional. Se impulsará el cumplimiento del Programa Europeo de Protección de In­ fraestructuras Críticas (EPCIP) y de la Directiva Europea 2008/114/CE del Consejo, sobre la Identificación y Designación de Infraestructuras Críticas Europeas y Evaluación de la Necesidad de Mejorar su Protección. Ambos instrumentos se entienden como los mejores medios para lograr la consecución de la coope­ ración de los países europeos y la protección de nuestros intereses nacionales. De la misma manera, se favorecerá la existencia de canales internacionales de información, alerta temprana y respuesta, así como la participación activa en foros internacionales.
+6. Cooperación internacional. Se impulsará el cumplimiento del Programa Europeo de Protección de In  fraestructuras Críticas (EPCIP) y de la Directiva Europea 2008/114/CE del Consejo, sobre la Identificación y Designación de Infraestructuras Críticas Europeas y Evaluación de la Necesidad de Mejorar su Protección. Ambos instrumentos se entienden como los mejores medios para lograr la consecución de la coope  ración de los países europeos y la protección de nuestros intereses nacionales. De la misma manera, se favorecerá la existencia de canales internacionales de información, alerta temprana y respuesta, así como la participación activa en foros internacionales.
 
-7. Garantía en la seguridad de las infraestructuras críticas conforme a lo expuesto en el Plan Nacio­ nal de Protección de Infraestructuras Críticas (PNPIC). Se dotará a estas instalaciones de sistemas redundantes e independientes de otras tecnologías y operadores, dado que sobre ellas descansa el funcionamiento de los servicios esenciales.
+7. Garantía en la seguridad de las infraestructuras críticas conforme a lo expuesto en el Plan Nacio  nal de Protección de Infraestructuras Críticas (PNPIC). Se dotará a estas instalaciones de sistemas redundantes e independientes de otras tecnologías y operadores, dado que sobre ellas descansa el funcionamiento de los servicios esenciales.
 
 ## Capítulo 5 Un nuevo Sistema de Seguridad Nacional
 
@@ -1030,15 +1028,13 @@ INTEGRADO Y COORDINADO de todas las Administraciones Públicas con competencia e
 
 DE LAS ESTRUCTURAS y los procedimientos de actuación relativos a la Seguridad Nacional en las Administraciones Públicas.
 
-### 5. LA IMPLICACIÓN
-
-de la sociedad civil y el fomento de una cultura de seguridad.
+5. LA IMPLICACIÓN de la sociedad civil y el fomento de una cultura de seguridad.
 
 ### 6. LA COLABORACIÓN
 
 PÚBLICO-PRIVADA.
 
-### 7. LA GESTIÓN DE LA INFORMACIÓN y del conocimiento.
+7. LA GESTIÓN DE LA INFORMACIÓN y del conocimiento.
 
 8. LA NECESARIA TRANSPARENCIA.
 

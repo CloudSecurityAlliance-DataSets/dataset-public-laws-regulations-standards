@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Centre for Cybersecurity Belgium (CCB) & Federal Public Service Policy and Support (BOSA) (ccb.fgov.be) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Centre for Cybersecurity Belgium (CCB) & Federal Public Service Policy and Support (BOSA) (ccb.fgov.be).",
   "license": {
-    "spdx": "LicenseRef-Government-Work",
+    "spdx": "LicenseRef-BE-CDE-ArtXI172",
     "Grouping": "Government-Work",
-    "redistribution": "permitted_for_reference",
-    "derivatives": "varies_by_jurisdiction",
-    "publicly_redistributable": true,
-    "license_text_url": null,
-    "note": "Official national strategy publication (ccb.fgov.be); publicly released for free download, policy reference, and research.",
-    "notes": "Official national strategy publication (ccb.fgov.be); publicly released for free download, policy reference, and research."
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://data.gov.be/en/legal-framework",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ccb.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework.",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ccb.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework."
   },
   "links": {
     "wikipedia": "",

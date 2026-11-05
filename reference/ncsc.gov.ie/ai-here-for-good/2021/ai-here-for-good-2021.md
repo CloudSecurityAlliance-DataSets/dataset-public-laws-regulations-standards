@@ -350,13 +350,13 @@ development, adoption and use.
 
 Objective Strong public trust in AI as a force for societal good in Ireland
 
-## 1.1 Introduction
+### 1.1 Introduction
 
 This Strategy is titled “AI – Here for Good” to highlight the transformative potential of AI for addressing many societal, environmental and economic challenges. For example, AI applications can advance our objectives in areas such as climate action, public health, education, housing, urban development, preservation of cultural heritage, food security, human rights, crisis response and disaster management, amongst others. While Government will play a key role in facilitating and enabling AI for Good, this is a journey involving all of society.
 
 AI must be developed and used with trust, transparency and accountability. By making human rights and ethical principles a key focus of one of the eight strands of this Strategy, Ireland is making a commitment to ensuring that AI-based systems and solutions developed and used in this State are trustworthy, fair and inclusive.
 
-## 1.2 AI for Societal Good and Sustainability
+### 1.2 AI for Societal Good and Sustainability
 
 The State is already using AI to address important societal issues, for example in the areas of environment and climate action, health, and social inclusion.
 
@@ -390,7 +390,7 @@ AI for Societal Good is also one of the themes for the SFI Future Innovator Priz
 
 13. See Akara Robotics 14.  Irish company iDyslexic has developed a social network-based educational application using AI for people living and working with dyslexia and/or ADHD. See https://www.thinkbusiness.ie/articles/idyslexic-social-network-dyslexia-adhd-autism-neurodiverse-brendan-morrissey/ 15. https://www.sfi.ie/challenges/ai-societal-good/
 
-## 1.3 Engaging the Public on AI and Building Trust
+### 1.3 Engaging the Public on AI and Building Trust
 
 There are many assumptions and misunderstandings about AI and its short- and long-term impacts on the economy and society. Popular narratives, science fiction, and media hype tend to influence our thinking about AI but are often unrealistic and
 
@@ -426,13 +426,13 @@ v.  Include opportunities for AI in climate action as part of the development of
 
 Objective An agile and appropriate governance and regulatory environment for AI
 
-## 2.1 Introduction
+### 2.1 Introduction
 
 The use of AI-based systems brings risks such as opaque decision-making, discrimination, bias, privacy issues, or use for criminal purposes. There are also challenges in terms of ensuring explainability, accountability and fairness. Successful and smooth deployment of AI across the economy and society requires a robust governance framework to safeguard against these risks and underpin public trust in AI. Such a framework must balance the need to ensure that businesses and organisations can reap AI opportunities, with the need to protect citizens and consumers against potential risks. Government will ensure a strong governance framework for AI, based on three pillars:
 
 An agile and appropriate legal framework;   Active promotion of ethics guidance and frameworks; and   A robust system of standards and certification.
 
-## 2.2 Potential Risks of AI
+### 2.2 Potential Risks of AI
 
 POTENTIAL FOR DISCRIMINATION AND BIAS There is a risk that AI systems could lead to unfair discrimination and unequal treatment.16 The risk of discrimination can arise in many ways, for instance biased training data, biased design of algorithms, or biased use of AI systems.
 
@@ -444,7 +444,7 @@ The effects of decision-making and profiling by unfairly biased and discriminato
 
 TRANSPARENCY AND ACCOUNTABILITY Transparency in the use of AI systems is critical for building public trust. The opaque nature of many AI algorithms may also obscure the reasoning behind AI-based decisions and can cause problems from the perspective of explainability and accountability. It is therefore important to ensure that information about how AI systems make consequential decisions is public and understandable.
 
-## 2.3 Legal Framework for Trustworthy AI
+### 2.3 Legal Framework for Trustworthy AI
 
 issues of safety and respect for fundamental rights.18 The combination of the proposed Regulation and a new Coordinated Plan on AI with Member States is intended to provide for an ecosystem of trust. The proposed new rules are designed to be proportionate and flexible, following a risk-based approach to address the specific challenges posed by different categories and applications of AI systems (classified as unacceptable risk; high-risk; limited risk, and minimal risk).
 
@@ -502,7 +502,7 @@ This work to address regulatory gaps spans a wide range of legal and regulatory 
 
 of Corporate Governance, 22 December 2020.
 
-## 2.4 Ethics and International AI Governance
+### 2.4 Ethics and International AI Governance
 
 AI systems should also respect the ethical values of society. In recent years, a number of ethics frameworks for AI have been developed in order to encourage developers and deployers of AI to integrate ethical considerations throughout the AI systems entire lifecycle. Most relevant within a European context are the EU Ethics Guidelines for Trustworthy AI.
 
@@ -566,7 +566,7 @@ Ireland also participates in numerous European research initiatives in this area
 
 In 2021, the ADAPT Centre, Science Gallery Dublin and other partners engaged in an innovative multidisciplinary collaboration between artists and technologists on the theme of bias, exploring AI, Ethics, Trust and Justice.32 In a Europe-wide first, a cutting-edge law and technology module has been rolled out for undergraduate students at Maynooth University.
 
-## 2.5 Standards and Certification for Trustworthy AI
+### 2.5 Standards and Certification for Trustworthy AI
 
 STANDARDS Standardisation is key to delivering the accountability and trust needed to ensure commercial and societal acceptance of AI. Standards provide an important means to give technical effect to a principle or regulation in a way that can be evaluated, compared and certified, thereby offering a compliance pathway. To support the role of standards, assurance tools and services are also needed. Existing models of assurance – audits, certification schemes, accreditation processes and impact assessments – can all form part of an AI assurance ecosystem.
 
@@ -606,7 +606,7 @@ viii.  Consider the implications of AI as part of a planned review of equality l
 
 Objective Increased productivity through a step change in AI adoption by Irish enterprise
 
-## 3.1 Introduction
+### 3.1 Introduction
 
 AI is an area that is developing rapidly, and this presents major opportunities for Irish enterprises. Globally, it is estimated that the application of AI could double economic growth by 2035.34 PWC has forecasted that AI will boost Ireland’s GDP by 11.6 % or €48 billion in 2030.35 Businesses can use AI to improve existing products, develop new products, and increase their understanding of customer needs. AI adoption can also deliver efficiencies, process improvements and increased production quality for businesses. AI can help to foster a workforce culture of problem solving and self-
 
@@ -618,7 +618,7 @@ Under the AI Strategy, Government will drive widespread adoption of AI across th
 
 34.  See Purdy, M. & Daughery, D. (2016), Why Artificial Intelligence is the Future of Growth, Worldwide: Accenture. https://www.accenture.com/_ acnmedia/PDF-33/Accenture-Why-AI-is-the-Future-of-Growth--Country-Spotlights.pdf 35. https://www.pwc.ie/publications/2017/economic-impact-of-artificial-intelligence-ireland-economy-report.pdf
 
-## 3.2 Readiness of Irish Enterprise to Adopt AI
+### 3.2 Readiness of Irish Enterprise to Adopt AI
 
 There is a growing number of businesses in Ireland that are moving towards digitalisation and integration of AI into their business models. From a small base of companies in the early 2000s, Enterprise Ireland has seen a steady growth in the number of AI entrepreneurs and start-ups assisted by the agency -from companies that have used AI algorithms to provide data analytical services, to a range of applications including customised voice-driven customer experiences; global procurement tendering services; and educational course assessment. AI has become an important productivity driver for a wide range of sectors, including technology, financial services, agriculture, mobility, engineering and life sciences. In addition, there has been a growing number of SMEs adopting AI into their existing business models and operations to improve competitiveness and product development. Typical uses of AI by Irish businesses include optimising manufacturing practices, improving customer services, supply chain optimisation and risk management.
 
@@ -690,7 +690,7 @@ AI adoption & use
 
 Refine and develop the AI development Roadmap
 
-## 3.3 Driving Adoption of AI by Irish Enterprises
+### 3.3 Driving Adoption of AI by Irish Enterprises
 
 Many global ICT businesses with significant AI strengths have their European headquarters in Ireland, and there is also much potential for learning from SMEs that have completed the AI journey. Government sees an opportunity to benefit from this expertise and experience by partnering with Industry to drive AI adoption across the enterprise base. We will establish an Enterprise Digital Advisory Board, with membership drawn from Industry, to work with and advise Government in achieving
 
@@ -762,7 +762,7 @@ TECHNOLOGY AND INFRASTRUCTURE REQUIREMENT FOR WIDESPREAD AI ADOPTION
 
 Strand 7 of this Strategy sets out the existing and planned infrastructure to position Ireland as a leading location for cutting edge development and use of AI. There is also a need to ensure easy technical and administrative access to AI infrastructure by SMEs and larger businesses, and to remove barriers to collaboration between public bodies, academia and businesses on AI innovation. Government will consider options for an open and consistent mechanism that supports access to cloud based solutions for businesses adopting AI, and addresses inconsistencies and inefficiencies that are a barrier to AI innovation and use. This will inform the development of a national data and AI infrastructure platform to promote appropriate access to data and technology for AI across sectors.
 
-## 3.4 AI Sectoral Opportunities
+### 3.4 AI Sectoral Opportunities
 
 While AI offers opportunities for most enterprises, its deployment may take different forms across sectors, depending on the levels of their technological maturity, the availability and relevance of industry-specific applications and the desired business, operational and societal objectives for the sector.
 
@@ -772,7 +772,7 @@ A number of sectors have also been suggested for prioritisation of AI developmen
 
 AI initiatives are already being implemented by enterprises in Ireland in areas such as AgriTech, sustainable food supply chain, livestock health and safety, building construction waste reduction, sustainable farming, marine science and aquaculture, health, and in creative and design industries. This demonstrates that Ireland already has solid foundations for introducing AI innovations at the enterprise level. Government will build on this, focusing on the spread and application of AI across the wider economy, as well as in sectors of strategic interest, aiming to incentivise uptake.
 
-## 3.5 Opportunities for Enterprise Collaboration on AI
+### 3.5 Opportunities for Enterprise Collaboration on AI
 
 ENGAGEMENT BY IRISH ENTERPRISES IN EU COLLABORATION FOR AI Promoting investment, innovation and implementation of AI is a priority for the European Commission, and this means that there are many EU programmes which can provide additional funding and collaboration opportunities in the area of AI. Government will encourage Irish enterprises to participate in EU opportunities, for example, Important Projects of Common European Interest (IPCEIs) in areas such as cloud technology and cybersecurity, the AI4EU platform39 , and European Investment Bank funding for AI projects.
 
@@ -806,13 +806,13 @@ iii.  Establish an AI Innovation Hub, as part of Ireland’s planned programme o
 
 Objective Better public service outcomes through a step change in AI adoption by the Irish public sector
 
-## 4.1 Introduction
+### 4.1 Introduction
 
 Government will leverage the potential of AI to assist in achieving excellence, innovation, and improved productivity in the delivery of public services and in other key activities. For example, AI applications can contribute to better public services by improving citizen-Government interaction, enabling smarter analytical capabilities and increasing efficiency. The OECD has estimated that in just a few years, the increasing use of AI in the public sector will offer the potential to free up nearly one-third of public servants’ time, allowing them to focus on higher-value work.41
 
 The GovTech Delivery Board, which is being established to drive digital transition in the public service, will lead on AI adoption in the public service. The Board will ensure a coordinated public service-wide, strategic approach to the implementation of AI, including the establishment of common methodologies and criteria and the creation of channels to facilitate collaboration and shared learning between public service organisations. Government will also aim to facilitate and stimulate AI innovation through the regulatory and policy environment and by using public procurement as a catalyst for ethical and innovative AI. Furthermore, the Public Service will aim to act as an exemplar of responsible AI innovation, building trust through the delivery of quality public services.
 
-## 4.2 Enablers for AI in Public Services
+### 4.2 Enablers for AI in Public Services
 
 DATA AND DIGITALISATION AS A FOUNDATION FOR AI IN THE PUBLIC SERVICE
 
@@ -840,7 +840,7 @@ Over ten weeks from June to August 2019, the results highlighted the roads with 
 
 43.  Cloud computing consists of a set of technologies and service models that focus on network-based on-demand use and delivery of IT applications, processing capability, storage and memory space. 44.  The Cloud Computing Advice Note 2019 provides high-level guidance to assist public service organisations in making informed, risk-based decisions in relation to the adoption of cloud services. See Department of Public Expenditure and Reform, Cloud Computing Advice Note, October 2019. Available at: https://assets.gov.ie/37039/4468be59812f40dda7003116cf05f196.pdf
 
-## 4.3 A Coordinated Approach to AI Adoption by the Public Service
+### 4.3 A Coordinated Approach to AI Adoption by the Public Service
 
 AI is already being used across the public service, but to date its adoption has been somewhat fragmented. There are opportunities to scale the impact of AI in the public service through a coordinated approach to adoption, including the adoption of common methodologies and criteria and the creation of channels to promote
 
@@ -896,7 +896,7 @@ Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media (DTCAGSM) is cu
 
 There are also several machine translation projects ongoing with EU funding, including Irish participation in the European Language Resources Consortium and in the European Language Resource Infrastructure. One of the challenges in this area is obtaining sufficient amounts of language data within different domains, such as health, ICT and transport. Where possible, Government will promote awareness of Irish language data and resources in the public sector and co-operate on strategies to ensure that public sector language resources can be used for language technology purposes, where appropriate..
 
-## 4.4 High Impact Sectors for AI in the Public Service
+### 4.4 High Impact Sectors for AI in the Public Service
 
 Deployment of AI systems within the Public Service is still in the early stages. Under this Strategy Government will drive the use of AI by the Public Service, aiming for targeted and transformative interventions. However, this will be dependent on the availability of good quality data. There are already numerous AI pilots and projects underway across the Public Service in areas ranging from health to agriculture, environment, revenue, customer service, smart cities and regions.
 
@@ -960,7 +960,7 @@ ii.  Promote an ‘open’ environment for accelerating and testing AI applicati
 
 Objective A strong Irish ecosystem for high-quality and responsible AI research and Innovation
 
-## 5.1 Introduction
+### 5.1 Introduction
 
 Ireland has a strong innovation landscape of entrepreneurs and agile innovation businesses. Many of our academic researchers are internationally renowned for their excellence in AI and sit on influential international committees and working groups
 
@@ -972,7 +972,7 @@ Under this Strategy, these strategic advantages will be leveraged to build a lea
 
 57. In 2020, Ireland ranked twelfth in the Global AI Index. See The Global AI Index - Tortoise (tortoisemedia.com) 58. EU Digital Economy and Society Index 2020, https://ec.europa.eu/digital-single-market/en/desi 59.  AI Watch (2020), Estimating Investments in General Purpose Technologies: The case of AI Investments in Europe, European Commission Joint Research Centre p. 17
 
-## 5.2 A Strong R&I Ecosystem for AI
+### 5.2 A Strong R&I Ecosystem for AI
 
 Ireland has made successful strategic investments in AI R&I, as well as related technology areas over the past fifteen to twenty years, leading to global recognition for a number of our AI researchers and centres. With the aim of enhancing Ireland’s reputation as a leader in AI innovation, Government will continue to develop actions to
 
@@ -1006,7 +1006,7 @@ CROSS-BORDER COLLABORATION ON AI R&I There is potential to explore opportunities
 
 61.  The EurAI Fellows programme recognises researchers who have made exceptional contributions to the field of AI in Europe - Home | European Association for Artificial Intelligence (eurai.org) 62. https://www.gov.ie/en/press-release/2c97f-taoiseach-statement-on-shared-island-fund/
 
-## 5.3 Strengthening AI Ecosystem Collaboration
+### 5.3 Strengthening AI Ecosystem Collaboration
 
 Continued and increased interaction and collaboration between research and industry will be key to achieving Ireland’s ambition to build a leadership position in AI innovation. Government will build on existing incentives targeted at promoting and financing collaborations on AI innovation between large enterprises, SMEs, and research institutions to diffuse the spread of innovation and create new business opportunities. Key enablers include mechanisms for the mobility of researchers, e.g., SFI fellowships to promote industry-academia collaboration, as well as the availability of datasets for collaborative projects and for development and testing of new use cases. Some of the current mechanisms and platforms for encouraging collaboration on AI between industry and research, as well as with the public sector are outlined in Box 1.
 
@@ -1066,7 +1066,7 @@ v.  Promote Ireland as a centre for talent in AI R&I as part of Global Footprint
 
 Objective A workforce prepared for and adopting AI
 
-## 6.1 Introduction
+### 6.1 Introduction
 
 AI and other digital technologies are transforming the world of work. By some estimates, one in three jobs in Ireland is at risk of being disrupted by the adoption of digital technologies and automation. This has raised concerns about the possibility of technological unemployment, as well as a possible downwards impact on the wages of workers most at risk of being displaced. However, it is anticipated that much of the disruption caused by AI will result in changes to job roles, tasks and distribution, rather than actual job losses.64 AI can also augment and enable the work we do, creating new job opportunities that require the skills and willingness to work alongside AI-based
 
@@ -1078,7 +1078,7 @@ This Strategy sets out a roadmap to ensuring that Ireland has a future-oriented 
 
 64.  Expert Group on Future Skills Needs, Digital Transformation: Assessing the Impact of Digitalisation on Ireland’s Workforce, December 2018
 
-## 6.2 AI and the Future of Work
+### 6.2 AI and the Future of Work
 
 The growth in the capabilities and applicability of AI and other technological changes has raised public concerns about potential job losses as well as a possible downwards impact on the wages of the workers most at risk of being displaced. This is not a debate that is new; going right back to the invention of the steam engine, there have been concerns that machines would replace people. In principle, the effect of new technologies such as AI on employment reflects the outcome of two forces; one, a negative substitution effect where jobs or component tasks are displaced through automation; and a second positive complementing force that raises the demand for work elsewhere. In the past, the second effect has won out; automation has generated new work through making existing workers more productive, by raising productivity and overall incomes in the economy (often referred to as the “bigger-pie” effect) and by creating new kinds of work. As regards the latter effect, one analysis based on US data shows that in 2018, 63% of jobs in new occupational titles had not been “invented” as of 1940. 65
 
@@ -1092,7 +1092,7 @@ Given the scope of its impact, predicting the exact labour market impacts of AI 
 
 65. Cited in MIT Task Force on the Work of the Future, 2020. 66.  Acemoglu, D., Autor, D., Hazell, J., and Restrepo, P. (2021). ‘AI and Jobs: Evidence from Online Vacancies’ (NBER Working Paper No. 2857). National Bureau of Economic Research. 67.  McKinsey Global Institute, The future of work after COVID-19, February 2021. 68. Addressing Employment Vulnerability as Part of a Just Transition in Ireland No.149 March 2020, National Economic and Social Council 69. World Economic Forum (2020), Future of Jobs, http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf
 
-## 6.3 Building Digital Skills for AI as part of the Education Curriculum
+### 6.3 Building Digital Skills for AI as part of the Education Curriculum
 
 The EU Digital Education and Action Plan 2021-7 integrates specific actions for the improvement of AI-related skills into the larger context of promoting digital skills. In Ireland, our policy on embedding digital skills and technologies within school teaching, learning and assessment is outlined in the Digital Strategy for Schools 2015-2020 Enhancing Teaching, Learning and Assessment, with a follow-on to this digital strategy currently under development.
 
@@ -1112,7 +1112,7 @@ The winning students, Rachael and Margaret Akano (Sacred Heart Drogheda) and Joy
 
 70.  Irish University Association press release on 7 November 2019 accessed at: https://www.iua.ie/press-releases/iua-launches-initiative-to-enhance-digital-learning/
 
-## 6.4 Building AI Skills
+### 6.4 Building AI Skills
 
 The future of high-quality research and innovation in AI, both in academic and industry settings, depends on the availability of people with the right skills and abilities to understand and innovate in this field. Ireland’s responsive skills architecture, which includes a strong emphasis on building technology skills, will play a key role in this regard.
 
@@ -1152,11 +1152,11 @@ The six SFI CRTs is providing training for postgraduate students in the areas of
 
 Sector specific initiatives include a PhD internship programme in AI and data science run by Met Éireann to address problems of interest to the meteorological community.
 
-## 6.5 Attracting and Retaining International AI Talent
+### 6.5 Attracting and Retaining International AI Talent
 
 Government wants to leverage Ireland’s reputation as a ‘tech hub’ to become an attractive destination for AI-related employment and innovation. Ireland succeeds in attracting more AI talent than the rest of Europe, proportionate to population size, and is one of four EU member states with a higher percentage of AI workers with undergraduate degrees than the US. 73
 
-## 6.6 Women’s Participation in AI
+### 6.6 Women’s Participation in AI
 
 As careers in AI tend to be well-remunerated, they represent an area of opportunity and rapid growth potential. However, three quarters of workers in AI and data science (in Ireland and Internationally) are men. 74 The EU AI HLEG has emphasised the need to increase the proportion of women in science and technology to improve the relevance and quality of research and innovation in AI systems, as well as to fully leverage the talent pool. 75
 
@@ -1198,7 +1198,7 @@ v.  Establish an expert group to develop an action plan to increase the particip
 
 Objective A data, digital and connectivity infrastructure which provides a secure foundation for AI development and use in Ireland
 
-## 7.1 Introduction
+### 7.1 Introduction
 
 A digital infrastructure serving citizens, SMEs, the public sector and large businesses requires high performance computing, connectivity and infrastructures which facilitate the use of, and access to, high quality and trustworthy data. A strong approach to cybersecurity will be key to maximising trust in AI, particularly where it is deployed in the delivery of essential services such as healthcare and transport. Robust data governance and privacy frameworks are also prerequisites. Consistent application of EU and Council of Europe data protection principles can contribute to the success of AI applications, by generating trust and preventing risks. Finally, the
 
@@ -1406,7 +1406,7 @@ Full implementation of relevant sectoral legislation (e.g., the INSPIRE Directiv
 
 87.  Which will be set out in Implementing Acts published by the Commission 88.  European Commission (2020), ‘A European strategy for data’ (2020); Communication, “Towards a common European data space”, COM/2018/232 final. 89.  European Commission (2020), Guidance on private sector data sharing, available at https://ec.europa.eu/digital-single-market/en/guidance-private-sector-data-sharing
 
-## 7.3 Digital and Connectivity Infrastructure for AI
+### 7.3 Digital and Connectivity Infrastructure for AI
 
 Development and use of AI requires a sound and sustainable digital and technological infrastructure in terms of access to computing power, digital connectivity and network capacity. Many of the key technological infrastructures and public policies that are important prerequisites for the successful exploitation of AI, such as broadband and 5G, High Performance Computing (HPC), and Cybersecurity, are long-standing Government priorities, on which substantial progress has been made in recent years.90 For example, a National 5G Test Centre, RadioSpace, opened in Maynooth University in 2019. It is the country’s first large-scale facility for the research and testing of radio and wireless technologies needed for 5G and the future Internet of Things.
 
@@ -1420,7 +1420,7 @@ advise on how best to position Ireland and exploit opportunities in HPC relevant
 
 Another enabler for AI is Cloud-based infrastructure that provides virtualised computing resources and storage of data (for example servers, software, databases, data analytics) that can be accessed remotely. At EU level, there is a focus on developing pan-European cloud-services, with the launch of GAIA-X (the European Cloud Infrastructure initiative) in June 2020, as well as the Member States’ Joint declaration on building the next generation cloud for businesses and the public sector in the EU in October 2020,91 which has been signed by Ireland, and establishment of a European Alliance on Industrial Data and Cloud in December 2020.
 
-## 7.4 AI and Cybersecurity
+### 7.4 AI and Cybersecurity
 
 AI-based systems should be safe (performing as intended) and secure (resistant to being compromised by unauthorised parties). A strong approach to security for digital infrastructure will be key to maximising trust in AI, particularly where it is deployed in the delivery of essential services such as healthcare and transport.
 
