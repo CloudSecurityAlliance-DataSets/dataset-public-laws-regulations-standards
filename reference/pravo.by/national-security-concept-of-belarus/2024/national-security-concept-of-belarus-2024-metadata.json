@@ -14,14 +14,14 @@
   "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Legal Internet Portal of the Republic of Belarus (pravo.by) applicable to cloud service providers and operators.",
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Legal Internet Portal of the Republic of Belarus (pravo.by).",
   "license": {
-    "spdx": "LicenseRef-BY-Copyright-Art8",
+    "spdx": "LicenseRef-BY-Law262Z-Art7",
     "Grouping": "Public Domain",
     "redistribution": "permitted",
     "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": "https://pravo.by/document/?guid=3871&p0=H11100262",
-    "note": "Official publication (pravo.by); Law of the Republic of Belarus on Copyright and Related Rights Art. 8 (official documents of state bodies, laws, decrees, concepts, and resolutions excluded from copyright).",
-    "notes": "Official publication (pravo.by); Law of the Republic of Belarus on Copyright and Related Rights Art. 8 (official documents of state bodies, laws, decrees, concepts, and resolutions excluded from copyright)."
+    "license_text_url": "https://www.wipo.int/wipolex/ru/legislation/details/22302",
+    "note": "Official publication (pravo.by); Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(2) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
+    "notes": "Official publication (pravo.by); Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(2) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright)."
   },
   "links": {
     "wikipedia": "",

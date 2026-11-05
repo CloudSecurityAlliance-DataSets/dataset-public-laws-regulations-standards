@@ -356,10 +356,10 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "https://data.gov.be/en/legal-framework",
     ),
     "by": (
-        "LicenseRef-BY-Copyright-Art8",
+        "LicenseRef-BY-Law262Z-Art7",
         "Public Domain",
-        "Law of the Republic of Belarus on Copyright and Related Rights Art. 8 (official documents of state bodies, laws, decrees, concepts, and resolutions excluded from copyright).",
-        "https://pravo.by/document/?guid=3871&p0=H11100262",
+        "Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(2) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
+        "https://www.wipo.int/wipolex/ru/legislation/details/22302",
     ),
     "ch": (
         "LicenseRef-CH-URG-Art5",
@@ -401,7 +401,7 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "LicenseRef-GR-Law2121-Art2",
         "Government-Work",
         "Greek Copyright Law 2121/1993 Art. 2(5) (official texts expressive of authority excluded from copyright) and Law 4727/2020 (Digital Governance and Open Data / PSI reuse).",
-        "https://www.gov.gr/",
+        "https://www.wipo.int/wipolex/en/legislation/details/19036",
     ),
     "ie": (
         "CC-BY-4.0",
@@ -422,10 +422,10 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.81676/asr",
     ),
     "lu": (
-        "CC0-1.0",
-        "Permissive",
-        "Grand Duchy of Luxembourg Law of 18 April 2001 on Copyright Art. 1(2) (official acts of authority) and Luxembourg Open Data Portal (CC0 1.0 Public Domain Dedication).",
-        "https://data.public.lu/en/pages/legal/",
+        "LicenseRef-LU-SIP-Prior-Agreement",
+        "Proprietary / All Rights Reserved",
+        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (users may view, download, and print text documents; prior agreement from the Government Information and Press Service (SIP) is required for other uses, redistribution, or modifications).",
+        "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
     ),
     "lv": (
         "LicenseRef-LV-Autortiesibu-Sec6",
@@ -454,8 +454,8 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
     "pt": (
         "LicenseRef-PT-CDADC-Art7",
         "Government-Work",
-        "Portuguese Code of Copyright and Related Rights (CDADC) Art. 7º (official public texts and Council of Ministers resolutions excluded from copyright) and Dados.gov.pt Open Licence (CC BY 4.0).",
-        "https://dados.gov.pt/pt/terms/",
+        "Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 7.º (official public texts and Council of Ministers resolutions excluded from copyright).",
+        "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475",
     ),
     "ro": (
         "LicenseRef-RO-Law8-1996-Art9",
@@ -466,8 +466,8 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
     "rs": (
         "LicenseRef-RS-Copyright-Art6",
         "Public Domain",
-        "Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
-        "https://www.pravno-informacioni-sistem.rs/",
+        "Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+        "https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2009/104/2",
     ),
     "se": (
         "LicenseRef-SE-Upphovsratt-Sec9",
@@ -818,6 +818,16 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
     stat = _TLD_STATUTORY_LICENSES.get(tld)
     if stat:
         spdx_id, grp, basis_note, stat_url = stat
+        if grp in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives"):
+            return _make_license(
+                spdx_id,
+                grp,
+                f"Official publication ({namespace}); {basis_note}",
+                stat_url,
+                redistribution="prohibited" if "Proprietary" in grp else "permitted_non_commercial",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
         return _make_license(
             spdx_id,
             grp,
@@ -1416,6 +1426,39 @@ _BARE_CONTAINER_HEADING_RE = re.compile(
     re.IGNORECASE,
 )
 
+_LETTERSPACED_HEADING_MAP: dict[str, str] = {
+    "NATIONALCYBERSECURITYSTRATEGYIV": "NATIONAL CYBERSECURITY STRATEGY IV",
+    "TABLEOFCONTENTS": "TABLE OF CONTENTS",
+    "INTRODUCTION": "INTRODUCTION",
+    "II.NATIONALCYBERSECURITYSTRATEGYIV(2021-2025)": "II. NATIONAL CYBERSECURITY STRATEGY IV (2021-2025)",
+    "1.OBJECTIVESANDPRIORITIESOFTHENCSSIV": "1. OBJECTIVES AND PRIORITIES OF THE NCSS IV",
+    "STRATEGICOBJECTIVES:": "STRATEGIC OBJECTIVES:",
+    "1.1OBJECTIVEI:BUILDINGTRUSTINTHEDIGITALWORLDANDPROTECTIONOFHUMANRIGHTSONLINE": "1.1 OBJECTIVE I: BUILDING TRUST IN THE DIGITAL WORLD AND PROTECTION OF HUMAN RIGHTS ONLINE",
+    "1.2OBJECTIVEII:STRENGTHENINGTHESECURITYANDRESILIENCEOFDIGITALINFRASTRUCTURESINLUXEMBOURG": "1.2 OBJECTIVE II: STRENGTHENING THE SECURITY AND RESILIENCE OF DIGITAL INFRASTRUCTURES IN LUXEMBOURG",
+    "1.3OBJECTIVEIII:DEVELOPINGARELIABLE,SUSTAINABLEANDSECUREDITIGALECONOMY": "1.3 OBJECTIVE III: DEVELOPING A RELIABLE, SUSTAINABLE AND SECURE DIGITAL ECONOMY",
+    "1.3OBJECTIVEIII:DEVELOPINGARELIABLE,SUSTAINABLEANDSECUREDIGITALECONOMY": "1.3 OBJECTIVE III: DEVELOPING A RELIABLE, SUSTAINABLE AND SECURE DIGITAL ECONOMY",
+    "2.NATIONALCYBERSECURITYGOVERNANCEFRAMEWORK": "2. NATIONAL CYBERSECURITY GOVERNANCE FRAMEWORK",
+    "3.PREPAREDNESS,RESPONSEANDRECOVERYMEASURES": "3. PREPAREDNESS, RESPONSE AND RECOVERY MEASURES",
+    "4.EDUCATION,TRAININGANDAWARENESSPROGRAMMES": "4. EDUCATION, TRAINING AND AWARENESS PROGRAMMES",
+    "5.RESEARCHANDDEVELOPMENTPLANS": "5. RESEARCH AND DEVELOPMENT PLANS",
+    "5.1UNIVERSITYOFLUXEMBOURG:INTERDISCIPLINARYCENTREFORSECURITY,RELIABILITYANDTRUST(SNT)": "5.1 UNIVERSITY OF LUXEMBOURG: INTERDISCIPLINARY CENTRE FOR SECURITY, RELIABILITY AND TRUST (SNT)",
+    "KEYFIGURES": "KEY FIGURES",
+    "STRATEGICRESEARCHAREAS": "STRATEGIC RESEARCH AREAS",
+    "PARTNERSHIPPROGRAMME": "PARTNERSHIP PROGRAMME",
+    "RESEARCHGROUPS": "RESEARCH GROUPS",
+    "5.2LUXEMBOURGINSTITUTEOFSCIENCEANDTECHNOLOGY(LIST)": "5.2 LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY (LIST)",
+    "RESEARCHAREAS": "RESEARCH AREAS",
+    "RESEARCHAREASDATASECURITYANDDATAPRIVACY": "RESEARCH AREAS: DATA SECURITY AND DATA PRIVACY",
+    "DATASECURITYANDDATAPRIVACY": "DATA SECURITY AND DATA PRIVACY",
+    "CYBERSYSTEMSECURITYANDRESILIENCE": "CYBER SYSTEM SECURITY AND RESILIENCE",
+    "PROJECTSANDPARTNERS": "PROJECTS AND PARTNERS",
+    "PROJECTS:": "PROJECTS:",
+    "PARTNERS:": "PARTNERS:",
+    "III.EVALUATIONANDEXPERIENCESOFTHENCSSIII": "III. EVALUATION AND EXPERIENCES OF THE NCSS III",
+    "IV.ACTIONPLAN(NON-PUBLIC)": "IV. ACTION PLAN (NON-PUBLIC)",
+    "GLOSSARY": "GLOSSARY",
+}
+
 
 def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     """Clean up PDF/XHTML heading artifacts so every heading represents a genuine section with body prose
@@ -1481,6 +1524,20 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
         txt = m.group(2).strip()
         txt = re.sub(r"\bS\s+E\s+C\s+T\s+I\s+O\s+N\s+(\d+)\b", r"Section \1", txt, flags=re.IGNORECASE)
         txt = re.sub(r"^I\s+N\s+T\s+E\s+L\s+L\s+I\s+G\s+E\s+N\s+C\s+E\s+S\s+T\s+R\s+A\s+T\s+E\s+G\s+Y\s*(?:[—–-]\s*)?", "", txt).strip()
+        txt = re.sub(r"^(\d{1,3}(?:\.\d{1,3})*\.)([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f])", r"\1 \2", txt)
+        nospace_key = re.sub(r"\s+", "", txt)
+        if nospace_key in _LETTERSPACED_HEADING_MAP:
+            txt = _LETTERSPACED_HEADING_MAP[nospace_key]
+        if txt in (
+            "STRATEGIC OBJECTIVES:",
+            "KEY FIGURES",
+            "PROJECTS:",
+            "PARTNERS:",
+            "II. Consolidating the security and resilience of digital infrastructures in Luxembourg",
+            "III. Developing of a reliable, sustainable and secure digital economy",
+        ) or re.match(r"^(?:365\s+workforce|56\s+partners|43%\s+of\s+Doctoral)\b", txt, re.I):
+            blocks[i] = txt
+            continue
         if not txt or re.match(
             r"^(?:\d{1,3}\s+(?:National\s+(?:Cyber\s*security|Security|Defence|Defense|AI|Artificial\s+Intelligence)\s+Strategy|Estrategia\s+(?:Nacional|de\s+Seguridad))\b.*|Prime\s+Minister[’']s\s+OfficeIntroduction|DE\s+CIBERSEGURIDAD|NATIONAL\s+CYBERSECURITY\s+—\s+STRATEGY)$",
             txt,
@@ -1502,9 +1559,22 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             hashes = "##"
         elif re.match(r"^(?:Objetivo\s+[IVX]+|Goal\s+[IVX]+|L[ÍI]NEA\s+DE\s+ACCI[ÓO]N\s+\d+|LINE\s+OF\s+ACTION\s+\d+)\b", txt, re.IGNORECASE):
             hashes = "###"
+        elif txt in (
+            "1. OBJECTIVES AND PRIORITIES OF THE NCSS IV",
+            "2. NATIONAL CYBERSECURITY GOVERNANCE FRAMEWORK",
+            "3. PREPAREDNESS, RESPONSE AND RECOVERY MEASURES",
+            "4. EDUCATION, TRAINING AND AWARENESS PROGRAMMES",
+            "5. RESEARCH AND DEVELOPMENT PLANS",
+        ):
+            hashes = "###"
+        elif re.match(r"^[IVX]{1,3}\.\d{1,2}\s+[A-Z]{2,}", txt):
+            hashes = "#####"
+        elif txt in ("STRATEGIC RESEARCH AREAS", "PARTNERSHIP PROGRAMME", "RESEARCH GROUPS", "RESEARCH AREAS: DATA SECURITY AND DATA PRIVACY", "CYBER SYSTEM SECURITY AND RESILIENCE", "PROJECTS AND PARTNERS"):
+            hashes = "#####"
         sec_id, _, _ = parse_heading(txt)
         if re.match(r"^\d{1,2}(?:\.\d{1,2})+\b", sec_id):
-            min_dotted_depth = min(6, sec_id.count(".") + 2)
+            has_part_ii_container = any("II. NATIONAL CYBERSECURITY STRATEGY IV" in blk for blk in blocks[:15])
+            min_dotted_depth = min(6, sec_id.count(".") + (3 if has_part_ii_container else 2))
             if len(hashes) < min_dotted_depth:
                 hashes = "#" * min_dotted_depth
         blocks[i] = f"{hashes} {txt}"
@@ -1730,7 +1800,12 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                         i += 2
                         changed = True
                         continue
-                    if id1 and not id2 and (len(h1_hashes) == len(h2_hashes) or _DANGLING_PREP_RE.search(h1_txt)):
+                    if (
+                        id1
+                        and not id2
+                        and h2_txt.upper() not in ("GLOSSARY", "REFERENCES", "BIBLIOGRAPHY", "CONCLUSION", "CONCLUSIONS", "ABBREVIATIONS", "ACRONYMS")
+                        and (len(h1_hashes) == len(h2_hashes) or _DANGLING_PREP_RE.search(h1_txt))
+                    ):
                         new_blocks.append(f"{h1_hashes} {h1_txt} {h2_txt}")
                         i += 2
                         changed = True
@@ -1839,7 +1914,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             body_blocks = blocks[h_idx + 1 : next_h_idx]
             body_str = "\n\n".join(body_blocks).strip()
             if not body_str and not has_child:
-                if cur_id.startswith("Eylem ") and len(cur_txt) > 30:
+                if (cur_id.startswith("Eylem ") and len(cur_txt) > 30) or cur_txt == "IV. ACTION PLAN (NON-PUBLIC)":
                     continue
                 blocks[h_idx] = cur_txt
                 changed_leaf = True
@@ -1857,7 +1932,40 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                     changed_leaf = True
                     break
 
-    return "\n\n".join(blocks) + "\n"
+    # Pass 7: Strip letter-spaced TOC block before Foreword and reconnect column-wrapped paragraphs
+    fw_idx = next((idx_b for idx_b, b in enumerate(blocks) if b.startswith("· F O R E W O R D O F X AV I E R")), -1)
+    if fw_idx > 1:
+        end_fw = fw_idx + 1
+        if end_fw < len(blocks) and blocks[end_fw].endswith("M E D I A ·"):
+            end_fw += 1
+        blocks = [blocks[0], "## Foreword by Xavier Bettel, Prime Minister, Minister for Communications and Media"] + blocks[end_fw:]
+
+    merged_blocks: list[str] = []
+    idx_m = 0
+    while idx_m < len(blocks):
+        cur_b = blocks[idx_m]
+        if cur_b == "· I N T R O D U C T I O N : M A I N T R E N D S A N D T H R E AT S ·":
+            idx_m += 1
+            continue
+        if (
+            idx_m + 1 < len(blocks)
+            and not cur_b.startswith("#")
+            and not blocks[idx_m + 1].startswith(("#", "•", "- "))
+            and not cur_b.endswith((".", ":", ";", "!", "?", ")", '"', "'", "”", "’"))
+            and re.match(r"^[a-zà-öø-ÿ]", blocks[idx_m + 1])
+        ):
+            nxt_b = blocks[idx_m + 1]
+            if re.search(r"[a-zA-Z]-$", cur_b):
+                cur_b = cur_b[:-1] + nxt_b
+            else:
+                cur_b = f"{cur_b} {nxt_b}"
+            blocks[idx_m + 1] = cur_b
+            idx_m += 1
+            continue
+        merged_blocks.append(cur_b)
+        idx_m += 1
+
+    return "\n\n".join(merged_blocks) + "\n"
 
 
 def _append_eurlex_cellar_annexes(best_md: str, final_url: str, title: str, desc: str) -> str:

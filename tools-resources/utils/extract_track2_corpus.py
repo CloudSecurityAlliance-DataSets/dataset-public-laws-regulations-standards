@@ -159,7 +159,22 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
     col_items = []
     for b in text_blocks:
         x0, y0, x1, y1 = b.get("bbox", (0, 0, 0, 0))
-        if x1 <= page_w * 0.54:
+        first_l = ""
+        if b.get("lines"):
+            first_l = re.sub(r"\s+", " ", "".join(s.get("text", "") for s in b["lines"][0].get("spans", []))).strip()
+        is_band_heading = (
+            x0 <= page_w * 0.20
+            and bool(re.match(r"^(?:[IVX]{1,4}\.\d{1,2}|\d{1,2}\.\d{1,2})\s+[A-Z]{2,}", first_l))
+            and not any(
+                ob is not b
+                and ob.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.46
+                and not (ob.get("bbox", (0, 0, 0, 0))[3] < y0 - 2 or ob.get("bbox", (0, 0, 0, 0))[1] > y1 + 2)
+                for ob in text_blocks
+            )
+        )
+        if is_band_heading:
+            col = "full"
+        elif x1 <= page_w * 0.54:
             col = "left"
         elif x0 >= page_w * 0.46:
             col = "right"
@@ -317,13 +332,14 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
             nonlocal pending_heading_lvl, pending_heading_parts, active_h2_norm
             if pending_heading_parts:
                 if not force and len(pending_heading_parts) == 1 and re.match(
-                    r"^(?:(?:PILLAR|PART|CHAPTER|SECTION|STRATEGIC OBJECTIVE|OBJECTIVE|ANNEX|APPENDIX)\s+[IVX0-9A-Z()]+|\d+(?:\.\d+)+\.?|[IVX]+\.)$",
+                    r"^(?:(?:PILLAR|PART|CHAPTER|SECTION|STRATEGIC OBJECTIVE|OBJECTIVE|ANNEX|APPENDIX)\s+[IVX0-9A-Z()]+|\d+(?:\.\d+)*\.?|[IVX]+\.)$",
                     pending_heading_parts[0].strip(),
                     re.I,
                 ):
                     return
                 combined = " ".join(pending_heading_parts)
                 combined = re.sub(r"\s+", " ", combined).strip()
+                combined = re.sub(r"\b(INFOR|COMMUNI|ORGANI|OPERATIONALI|ADMINI|INFRA|VULNERA|TELECOMMUNI)-\s+([A-Z]{2,})\b", r"\1\2", combined)
                 if len(pending_heading_parts) >= 2 and re.match(
                     r"^(PILLAR|PART|CHAPTER|SECTION|STRATEGIC OBJECTIVE|OBJECTIVE|ANNEX|APPENDIX)\s+([IVX]+|\d+|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|[A-Z])$",
                     pending_heading_parts[0].strip(),
@@ -348,10 +364,19 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
         for b in ordered_blocks:
             b_lines = []
             for l in b.get("lines", []):
-                l_text = re.sub(r"\s+", " ", "".join(s.get("text", "") for s in l.get("spans", []))).strip()
+                l_text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f\u2007]+", " ", "".join(s.get("text", "") for s in l.get("spans", [])))
+                l_text = re.sub(r"\s+", " ", l_text).strip()
                 if not l_text:
                     continue
                 max_sz = max((s.get("size", body_size) for s in l.get("spans", []) if s.get("text", "").strip()), default=body_size)
+                if max_sz >= body_size + 1.5:
+                    l_text = re.sub(
+                        r"^([IVX])(?:\s+([IVX]))?(?:\s+([IVX]))?\s*\.\s*$",
+                        lambda m_r: "".join(g for g in m_r.groups() if g) + ".",
+                        l_text,
+                    )
+                    l_text = re.sub(r"^(\d)\s*\.\s*$", r"\1.", l_text)
+                    l_text = re.sub(r"^(\d)\s*\.\s*(\d)\s+", r"\1.\2 ", l_text)
                 total_chars = sum(len(s.get("text", "").strip()) for s in l.get("spans", []))
                 bold_chars = sum(
                     len(s.get("text", "").strip())
@@ -415,11 +440,19 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
                     )
                 )
                 h_lvl = classify_line(l_text, max_sz, is_bold, on_toc_page) if allow_heading else None
+                if (
+                    h_lvl is None
+                    and pending_heading_lvl is not None
+                    and not seen_body_line_in_block
+                    and (is_bold or max_sz > body_size + 0.5)
+                    and bool(re.match(r"^[A-Z\s,\-–—\(\)’']+$", l_text))
+                ):
+                    h_lvl = pending_heading_lvl
                 if h_lvl is not None:
                     flush_para()
                     if pending_heading_lvl is not None and (
                         pending_heading_lvl == h_lvl
-                        or re.match(r"^(?:(?:PILLAR|PART|CHAPTER|SECTION|STRATEGIC OBJECTIVE|OBJECTIVE|ANNEX|APPENDIX)\s+\S+|\d+(?:\.\d+)+\.?|[IVX]+\.)$", pending_heading_parts[-1].strip(), re.I)
+                        or re.match(r"^(?:(?:PILLAR|PART|CHAPTER|SECTION|STRATEGIC OBJECTIVE|OBJECTIVE|ANNEX|APPENDIX)\s+\S+|\d+(?:\.\d+)*\.?|[IVX]+\.)$", pending_heading_parts[-1].strip(), re.I)
                     ):
                         pending_heading_lvl = min(pending_heading_lvl, h_lvl)
                         pending_heading_parts.append(l_text)

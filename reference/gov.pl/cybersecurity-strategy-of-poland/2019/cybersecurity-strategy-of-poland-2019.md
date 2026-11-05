@@ -378,7 +378,7 @@ International cooperation at the opera-tional and technical level shall be carri
 
 Development of international coope-ration is also possible through partici-pation of public institutions involved in ensuring cybersecurity in international fora for information sharing on threats and vulnerabilities.
 
-## 10.Managing the Cybersecurity Strategy of the Republic of Poland
+## 10. Managing the Cybersecurity Strategy of the Republic of Poland
 
 T
 

@@ -172,8 +172,10 @@ def derive_parent_id(section_id: str, existing_ids: set[str] | None = None) -> s
     m_rsub = re.match(r"^([IVX]{1,4})\.\d+$", section_id)
     if m_rsub and existing_ids:
         r_tok = m_rsub.group(1)
-        if r_tok in existing_ids:
-            return r_tok
+        r_num = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7, "VIII": 8, "IX": 9, "X": 10}.get(r_tok, 0)
+        for cand in (f"1.{r_num}" if r_num else "", r_tok, f"Objective {r_tok}"):
+            if cand and cand in existing_ids:
+                return cand
     return ""
 
 

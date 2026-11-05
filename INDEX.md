@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 190 | 122 | 216 | 4 | 6 | **538** |
-| **Total** | **321** | **179** | **260** | **4** | **6** | **770** |
+| `reference/` | 189 | 122 | 216 | 4 | 7 | **538** |
+| **Total** | **320** | **179** | **260** | **4** | **7** | **770** |
 
 ## control/
 
@@ -516,7 +516,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
 | `reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg/2019/` | metadata-only | 1 | `M······` | `secid:reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg@2019` |
 | `reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg/2025/` | metadata-only | 1 | `M······` | `secid:reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg@2025` |
-| `reference/hcpn.gouvernement.lu/national-cybersecurity-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/hcpn.gouvernement.lu/national-cybersecurity-strategy@2021` |
+| `reference/hcpn.gouvernement.lu/national-cybersecurity-strategy/` | empty | 0 | `·······` | — |
 | `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
 | `reference/hitrustalliance.net/glossary-of-terms-and-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/hitrustalliance.net/glossary-of-terms-and-acronyms` |
 | `reference/homeaffairs.gov.au/cyber-security-strategy/2016/` | structured | 4 | `MX·CS··` | `secid:reference/homeaffairs.gov.au/cyber-security-strategy@2016` |

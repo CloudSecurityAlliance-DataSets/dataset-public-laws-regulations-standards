@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 17-page PDF (https://www.gov.pl/attachment/6a4aafc6-e339-4cd5-a8e6-cd47257f02d8) locally via PyMuPDF (57,331 chars). Parsed 35 sections (31 with explicit section identifiers)."
+    "notes": "Extracted 17-page PDF (https://www.gov.pl/attachment/6a4aafc6-e339-4cd5-a8e6-cd47257f02d8) locally via PyMuPDF (57,331 chars). Parsed 35 sections (32 with explicit section identifiers)."
   },
   "extraction_history": [
     {
