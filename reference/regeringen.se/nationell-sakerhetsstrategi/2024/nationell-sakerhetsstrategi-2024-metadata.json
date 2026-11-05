@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/regeringen.se/nationell-sakerhetsstrategi@2024",
+  "name": "Nationell säkerhetsstrategi (Skr. 2023/24:163)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "nationell-sakerhetsstrategi-2024",
+  "owner": "Regeringskansliet / Sveriges regering",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nationell säkerhetsstrategi (Skr. 2023/24:163, adopted July 2, 2024). Overarching national security strategy of the Government of Sweden defining Sweden's strategic security environment as a NATO Ally, total defense (totalförsvar), and counter-hybrid and cyber security priorities.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Regeringskansliet / Sveriges regering (regeringen.se) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Regeringskansliet / Sveriges regering (regeringen.se).",
+  "license": {
+    "spdx": "LicenseRef-SE-Upphovsratt-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+    "note": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright).",
+    "notes": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.regeringen.se/contentassets/125593e4516a49ce9b9ab942f49cca8d/232416300webb.pdf",
+    "textUsed": "https://www.regeringen.se/contentassets/125593e4516a49ce9b9ab942f49cca8d/232416300webb.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-02",
+    "active": true,
+    "supersedes": "secid:reference/regeringen.se/nationell-sakerhetsstrategi@2017",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 31-page PDF (https://www.regeringen.se/contentassets/125593e4516a49ce9b9ab942f49cca8d/232416300webb.pdf) locally via PyMuPDF (86,961 chars). Parsed 42 sections (23 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

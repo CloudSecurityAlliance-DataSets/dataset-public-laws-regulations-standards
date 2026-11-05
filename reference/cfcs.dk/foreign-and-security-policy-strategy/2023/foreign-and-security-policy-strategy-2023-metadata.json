@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cfcs.dk/foreign-and-security-policy-strategy@2023",
+  "name": "Danish Foreign and Security Policy Strategy (Udenrigs- og Sikkerhedspolitisk Strategi) (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "foreign-and-security-policy-strategy-2023",
+  "owner": "Centre for Cyber Security (CFCS) & Government of Denmark",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Danish Foreign and Security Policy Strategy (Udenrigs- og Sikkerhedspolitisk Strategi)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Centre for Cyber Security (CFCS) & Government of Denmark (cfcs.dk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Centre for Cyber Security (CFCS) & Government of Denmark (cfcs.dk).",
+  "license": {
+    "spdx": "LicenseRef-DK-Ophavsretsloven-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.retsinformation.dk/eli/lta/2014/1144",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cfcs.dk) is governed by Danish Consolidated Act on Copyright (Ophavsretsloven) § 9 (acts, administrative orders, proposals, and official public reports/documents excluded from copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cfcs.dk) is governed by Danish Consolidated Act on Copyright (Ophavsretsloven) § 9 (acts, administrative orders, proposals, and official public reports/documents excluded from copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://um.dk/en/foreign-policy/foreign-and-security-policy-strategy-2023",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-05-16",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cfcs.dk/foreign-and-security-policy-strategy@2023 (https://um.dk/en/foreign-policy/foreign-and-security-policy-strategy-2023) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

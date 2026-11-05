@@ -1,0 +1,667 @@
+# National Security Strategy of the Republic of Serbia (Стратегија националне безбедности Републике Србије) (2019)
+
+THE REPUBLIC OF SERBIA
+
+MINISTRY OF DEFENCE DEFENCE POLICY SECTOR Strategic Planning Department
+
+## STRATEGY OF THE REPUBLIC OF SERBIA
+
+Belgrade, 2021
+
+TABLE OF CONTENTS
+
+INTRODUCTION...........................................................................................11
+
+1. STRATEGIC ENVIRONMENT...............................................................13
+
+2. SECURITY CHALLENGES, RISKS AND THREATS..........................25
+
+3. NATIONAL INTERESTS...........................................................................31
+
+4. NATIONAL SECURITY POLICY............................................................35 4.1. Preservation of sovereignty, independence and territorial integrity of the Republic of Serbia................................................................36 4.2. Preservation of internal stability and security of the Republic of Serbia and its citizens.......................................................40 4.3. Preservation of existence and protection of the Serbian people, wherever they live, and of national minorities and their cultural, religious and historical identity....................................................................44
+
+4.4. Preserving peace and stability in the region and world...................................47 4.5. European integration and membership of the Republic of Serbia in the European Union................................................................................53
+
+4.6. Economic development and overall prosperity..............................................55
+
+4.7. Preservation of the environment and resources of the Republic of Serbia........59
+
+5. NATIONAL SECURITY SYSTEM...........................................................61
+
+5.1. Structure of the national security system......................................................61
+
+5.1.1. Governing part of the national security system......................................62
+
+5.1.2. Executive part of the national security system.......................................63
+
+5.2. Principles of functioning of the national security system..............................64
+
+6. IMPLEMENTATION OF THE NATIONAL
+
+SECURITY STRATEGY............................................................................67
+
+CONCLUSION.................................................................................................69
+
+## INTRODUCTION
+
+National security of the Republic of Serbia is an objective state of protectedness of its national values and interests against all forms of threats, and a subjective feeling of security of the citizens1 of the Republic of Serbia. It represents a result of the influence of the strategic environment and the measures and activities undertaken by public bodies and institutions in execution of their security functions, as well as actions of other actors in all areas of social life.
+
+The National Security Strategy of the Republic of Serbia2, hereinafter referred to as the “National Security Strategy” is the highest strategic document whose implementation protects the national values and interests of the Republic of Serbia from challenges, risks and threats to security in all areas of social life. Its starting points are: the preservation of sovereignty and territorial integrity, military neutrality, care for the Serbian people outside the borders of the Republic of Serbia, European integration and an effective rule of law.
+
+1 The terms used in this document, with meaning of gender, refer to both masculine and feminine gender. 2 Pursuant to Article 9 paragraph 2(2) of the Law on Defence (“Official Gazette of the Republic of Serbia”, No. 116/07, 88/09, 88/09 – as amended, 104/09 – as amended, 10/15 and 36/18) and Article 8(1) of the Law on National Assembly (“Official Gazette of the Republic of Serbia”, No. 9/10), the National Assembly of the Republic of Serbia, at its Tenth Sitting of the Second Regular Session in the year 2019, held on 27th December 2019, adopted the National Security Strategy of the Republic of Serbia that was published in the “Official Gazette of the Republic of Serbia”, No. 94/19. On the date of the publishing of this Strategy, the Decision on adopting the National Security Strategy of the Republic of Serbia (“Official Gazette of the Republic of Serbia”, No. 88/09) shall cease to be valid.
+
+The National Security Strategy fully reflects commitment of the Republic of Serbia to universal civilisational and moral values, respect for its state-building tradition, the rule of law, social justice, democracy, human and minority rights and freedoms, economic progress, cooperative security and comprehensive international cooperation. The orientations stated in this document express in particular the readiness of the Republic of Serbia to actively participate in cooperation processes and joint actions with other states and actors involved in international relations aimed at building and enhancing national, regional and global security.
+
+The National Security Strategy is based on the implementation of a comprehensive approach that involves the joint engagement of all entities and potentials of the society and the state in countering the security challenges, risks and threats and protecting and pursuing the national interests of the Republic of Serbia. It analyses the strategic environment of the Republic of Serbia, assesses the challenges, risks and threats to the security of the Republic of Serbia, formulates our national interests and goals, determines the national security policy, and the structure and principles of functioning of the national security system, as well as the manner of its implementation.
+
+The National Security Strategy is the starting point for the development of other strategic and doctrinal documents, public policy documents and normative-legal acts in all areas of social life and the functioning of public authorities and institutions in order to preserve and protect the security of citizens, society and the state.
+
+The positions from the National Security Strategy are operationalised in strategic and doctrinal documents, public policy documents and normative-legal acts.
+
+This public document presents to domestic and international public the fundamental strategic orientations of the Republic of Serbia in the field of national security.
+
+## 1. STRATEGIC ENVIRONMENT
+
+Political, economic, cultural and security relations in the world are being developed in a global multipolar and multilateral environment with ever more pronounced balance of power and complex interdependence of states. Modern notion of global security, which encompasses different spheres of social life, creates an opportunity to resolve conflicts in a peaceful fashion, as well as the prospects for development of policy of cooperation and understanding at global and regional levels.
+
+Integrative processes in the field of security, and ever increasing political, economic and cultural cooperation significantly reduce the risks of interstate conflicts and likelihood of occurrence of uncontrolled crisis and conflict spill-over from one area to another. However, the world is still faced with numerous, multidetermined security challenges, risks and threats which require timely and appropriate reaction. Taking into consideration the dynamic changes in international relations, the challenges, risks and threats to security are changing the character and forms of their manifestation.
+
+Circumstances conducive to the emergence of challenges, risks and threats to security at the global level are, primarily, great differences in terms of the level of economic and cultural development, which result in poverty and social vulnerability of a considerable portion of the population, causing the emergence of negative demographic and socio-psychological phenomena. Regional and local conflicts, ethnic and religious extremism, terrorism, organised crime, proliferation of weapons of mass destruction, illegal migrations, hybrid threats, cyber threats, limited availability of natural resources, including water, food, sources of energy and raw
+
+materials, as well as climate changes and environmental degradation, threaten the stability of certain states and entire regions, as well as global security.
+
+The overall state of security in the world is considerably threatened by flagrant violation of the United Nations Charter and generally accepted norms of international law, particularly by meddling in internal affairs of sovereign states, and by the concept and practice of preventive attacks and military interventionism. Especially concerning is the trend of rising tensions among great powers caused by competition in pursuit of their conflicted interests and shift of the existing spheres of influence. In such circumstances, the risk of global-scale military conflict, though significantly reduced, cannot be completely ruled out. In the long run, the greatest threats at the international level will continue to be posed by international terrorism, organised crime, intensification of political and religious extremism, migrant crisis and proxy wars.
+
+Long-lasting and devastating ethnic and religious conflicts in the Middle East and North Africa have affected other parts of the world and created new security and political problems, while the threat of terrorism has increased not only in these regions, but in the territory of Europe as well. In addition, the number of migrants whose final destination is one of the developed countries of Europe has considerably increased.
+
+The European Union and/or its Member States are faced with a necessity to solve a number of complex issues, such as the threat of terrorism, asylum policy and migration management, financial crisis and public debt crisis in the Eurozone, which requires an institutional response from the European Union and its Member States to all the challenges mentioned.
+
+The North Atlantic Treaty Organisation (NATO) strives to overcome the difficulties in terms of providing appropriate budgetary means, in order to be able to continue adapting to the changes in the strategic environment, and build necessary capacities to counter modern challenges, risks and threats.
+
+Against the backdrop of the globalised economy, the macroeconomic consequences of financial instability in the functioning of the global market
+
+have implications for the security situation in the world. The effects of the global economic crisis can in some states lead to political instability, social unrest, and intensified investments in the military industry complex, and an increase in the arms race.
+
+Slower growth in the developed economies has an adverse impact on the developing states, while the world trade and investments are in an unfavourable position. Having in mind the growing number of all-encompassing contracts on free trade and movement of capital, it is expected that the strengthening of economic interdependence will continue to result in curtailment of jurisdiction of national states.
+
+Taking into consideration the climate changes, and ever more pronounced deficit in natural resources, estimates envisage a rise in the number of conflicts in the world caused by competition to ensure the provision of energy and other natural raw materials, drinking water and food. Moreover, increased risk of attacks on energy transport infrastructure will influence the states to considerably strengthen the protection of critical energy infrastructure, including the use of military forces.
+
+At the global level, predominant use of fossil fuels, primarily oil, will continue, while significant growth in demand for natural gas is expected. Non-renewability of the most commercial and most available energy sources of the modern world, coal, oil and gas, adversely affects the prospects for sustainable development, especially because there is a slight chance that the energy obtained from renewable resources will significantly increase its portion in global consumption.
+
+In the social sphere, it will be particularly important to address the problems of the states regarding the increased inflow of migrants into developed areas, migration of rural population to cities, trend of the ageing of the population, ensuring all-encompassing health protection, increased availability and quality of education, and suitable employment of citizens. The developed states will more and more often face the difficulties in reducing migratory pressures and flows, since the number of migrants from underdeveloped, poor and armed conflict afflicted states will increase.
+
+Extremely fast scientific and technological development, diffusion of modern scientific achievements and technology and their ever growing influence on all areas of social life in the countries around the world, are increasing the complexity of the strategic environment. In this context, there will be greater potential for a positive impact on business and economic development of states through implementation of innovative technological solutions that will contribute to advancements in the use of resources and accelerated productivity growth. However, despite expectations that the level of accountability of all actors involved will increase in terms of the use of scientific achievements in the common interest and for the benefit of mankind as a whole, it is estimated that the development of science and technology will continue to be subject to different forms of abuse leading to negative security implications.
+
+The dynamics of the global development of information technologies will condition further intensification of activities in cyber space, whose security will be primarily threatened by cyber espionage, attacks on critical infrastructure, unauthorised intrusion into classified databases, and spreading fake news and misinformation via social networks.
+
+The states in the region of South East Europe are committed to democratic values, enhancement of economic and social stability, dialogue and cooperation which may reduce the potential for the outbreak of conflicts and have a positive impact on the security environment. There are certain limitations to the stabilisation process in the region, such as ethnic and religious alienation, different interpretation and attempts at revision of history. Nevertheless, regional security is increasingly founded on common and coordinated activities in the areas of security, politics and economy and other areas that are directed towards preserving stability and preventing crises in this region, and towards the common interest of the states of the region to join the European Union.
+
+The integration of the states aspiring towards membership of the European Union could be slowed down by unresolved institutional and economic problems within those states, the unwillingness to carry out the necessary reforms and harmonisation with the legislation of this organisation, mutual bilateral disputes, as well as bilateral disputes with
+
+the European Union Member States from the region of South East Europe. These disputes can often be an excuse for slowing down of the European integration process, which is contrary to the practice of “good intentions” and provisions of the European Union’s Negotiating Framework relating to bilateral dispute settlement mechanisms, so as not to burden the process of European integration.
+
+Apart from the political role of the European Union, other regional and great powers exert strong influence in the region of South East Europe. Taking into consideration the geostrategic position of South East Europe, which is intersected by important energy and communication lines, conflicting interests of countries regarding the use of transit routes and the possession of resources may lead to the emergence of regional crises and threats to security and stability of the states of the region and beyond. On the other hand, the Balkan region, as the energy transit area, might increase its overall geo-economic importance.
+
+The security situation in the South East Europe region is also characterised by the presence of non-military factors that threaten security which include separatist aspirations, ethnic, religious and political extremism, economic and social problems, migrations, organised crime, underdevelopment of state institutions and natural disasters.
+
+The regional security situation is greatly influenced by the inherited problems of the past, historical contradictions, and the consequences of clashes between the peoples and states in the area of South East Europe, especially in the Balkans in the recent history. The relations among the regional states are also burdened by the need to regulate the position of minorities, resolve the issue of missing persons and jurisdiction in the prosecution of war crimes, and the issues of the return of refugees, expelled and internally displaced persons and restitution of their property. Risks of the outbreak of wars and other armed conflicts in the region of South East Europe, although reduced, have not been eliminated.
+
+Open disagreements among the states of the South East Europe region, primarily caused by minority and territorial issues as well, hinder regional cooperation. The issue of the status of the Autonomous Province of
+
+Kosovo and Metohija, inter-ethnic tensions, and migrant crisis have a major impact on the situation in the region.
+
+Separatist aspirations in the region represent a real threat to its security. In view of its severity and complexity, as well as its negative implications for the internal stability of the regional states and their security situation, the problem of unlawfully unilaterally declared independence of the territory administratively covered by the Autonomous Province of Kosovo and Metohija by the Provisional Institutions of Self-Government in Priština is particularly pronounced. In addition, failure to implement the First Agreement of Principles governing the Normalisation of Relations (the Brussels Agreement) and slow establishment of democratic standards in Kosovo and Metohija, failure to respect the basic human rights of the Serbian and other non-Albanian population, usurpation and destruction of their property and cultural and historical heritage, and strengthening of radical Islamism, represent a source of long-term instability in the region. Recognition of independence of that part of the territory of the Republic of Serbia by some states in the neighbourhood, and by a number of states of the world, adversely affects strengthening of confidence and cooperation measures and slows down the stabilisation process in this area.
+
+Attempts at revising the General Framework Agreement for Peace in Bosnia and Herzegovina (the Dayton Agreement) have a negative impact on stability and security in the region. The Republic of Serbia, as one of the signatories, is a guarantor of the Dayton Agreement and advocates respecting and fulfilling obligations from that document in the interest of all three constituent peoples and two entities of Bosnia and Herzegovina.
+
+In some states in the region, there are aspirations and attempts to achieve the highest possible degree of national unification of ethnic territory and to realise greater state projects, especially when it comes to the creation of “Greater Albania”, which would include the revision and change of internationally defined state borders and authorities, and they pose a threat to peace and security at the regional level, and beyond. A negative effect on the situation in the region is exerted by appearance of extreme nationalist groups and manifestations of their strengthening, accompanied by destabilisation of political relations and deepening of political divisions.
+
+Moreover, religious extremism is also present and it chiefly results in strengthening of radical Islamic movements, whose activities could cause destabilisation of the region.
+
+An ever more restrictive attitude of the European Union Member States on the admission of migrants increases the chances of this region to become one of the reception zones, whereat the Republic of Serbia would find itself in a situation to take over the care of a number of migrants which overcomes its economic and organisational capacities. Illegal migration of people from the Middle East and North and Sub-Saharan Africa, in conjunction with organised crime, poses a security risk in the region.
+
+The economic situation in the countries of South East Europe is still unfavourable despite the positive effects of measures undertaken by almost all governments. General characteristic of the economy of all regional states is an underdeveloped technological and industrial base. In addition, there are evident consequences of the economic crisis that has spilled over from the related markets and economies, and a lack of investment, poor national demand and low competitive position on the markets. There are also problems relating to budget planning, difficulties in deficit elimination, and growth of poverty due to a decline in purchasing power of the population. The states of the region are exposed to a risk of long-term public debt increase, negative balance and other types of deficits, and high unemployment rate, lack of strategic projects and increasing energy dependence. Nevertheless, the states of the region are striving to reduce the public debt and unemployment through implementation of strategic projects implemented within the framework of European integration process and the Berlin Process.
+
+Different levels of economic development of certain areas of South East Europe, in conjunction with their demographic characteristics, could be a source of political, economic, social, ethnic, religious and other tensions. The economic crisis, sluggish economy and high unemployment rate are all conducive to intensification of religious extremism, primarily extreme Islamism, which results in the spread of radical Islamic movements, whose activities may destabilise the region.
+
+Scientific and technological development at the regional level will be largely conditioned by the level of economic development of the states and the level of cooperation achieved with the technologically developed European states.
+
+Due to the complex security situation in the region, the states of South East Europe are ever more dependent on their joint efforts to confront negative processes and phenomena that threaten their security. Activities in the framework of regional initiatives are of particular importance for strengthening the confidence, cooperation and joint action towards enhancing the stability and security in the region. Also, building common mechanisms for prevention of risks and threats and for crisis management creates conditions for approximation and accession of all states of that region to the European Union, and for realisation of development potentials.
+
+In modern state of affairs, no country is capable of independently solving increasingly complex problems of preserving and strengthening national security, which becomes more and more connected to the security situation in the immediate surrounding and beyond.
+
+Because of the changed geo-strategic circumstances and ever stronger influence of global developments on security of some states, the security policy of the Republic of Serbia is based on an integral and multilateral approach to security issues that promotes the concept of cooperative security.
+
+The democratic processes and the European foreign policy orientation of the Republic of Serbia are strengthening its international position and have a positive impact on creation and enhancement of the policy of cooperation and strengthening of confidence measures in the region. On these foundations, the security policy of the Republic of Serbia makes it a reliable partner in international relations and important actor of regional security cooperation.
+
+The progress made in the process of accession of the Republic of Serbia to the European Union has a positive impact on its political, economic and social stability. Development of partnership cooperation between the
+
+Republic of Serbia and NATO, based on the policy of military neutrality and through the Partnership for Peace Programme, as well as the observer status in the Collective Security Treaty Organisation (CSTO) contribute to stability of the Republic of Serbia. For the purpose of further development of democracy, stability and prosperity of the region, it is important for the Republic of Serbia to improve relations with the United States of America, the Russian Federation, the People’s Republic of China, and other traditional partners and significant factors of the international community.
+
+The Republic of Serbia is still faced with considerable challenges, risks and threats which jeopardise its security and which could cause an unfavourable development of the security situation. Key risks and threats to the security of the Republic of Serbia are separatist aspirations, ethnic and religious extremism, covert activities of foreign factors, organised crime and illegal migration.
+
+The attempt at secession of the territory of the Autonomous Province of Kosovo and Metohija threatens the national interests of the Republic of Serbia. The security situation in this province is characterised by imposing of unilateral resolution of its status, lack of the rule of law, endangering personal and property security of Serbs and other non-Albanian population, religious extremism, risk of terrorist activities and expansion of organised crime, corruption, human trafficking, illicit drug and arms trafficking.
+
+The security situation in the Autonomous Province of Kosovo and Metohija is fraught with many destabilising factors. Security problems in that area are the main source of instability in the Republic of Serbia and the region.
+
+Possible conditioning of the Republic of Serbia in the process of accession to the European Union regarding further “normalisation of relations” with the Provisional Institutions of Self-Government in Priština slows down and hinders the realisation of its full membership of the European Union, which is why it is vital that the normalisation process remains status-neutral.
+
+For the Republic of Serbia, the United Nations play a central role when it comes to the protection of its sovereignty and territorial integrity and the status of the Autonomous Province of Kosovo and Metohija. The
+
+international presence in this province (UNMIK, KFOR, OSCE, etc.) plays an important role in securing its stability, and the stability in the region. Attempts by the Provisional Institutions of Self-Government in Pristina, or any kind of initiative to reduce that presence, and the transformation of the armed formations calling themselves the “Kosovo Security Force” into the armed forces, contrary to the United Nations Security Council Resolution 1244, are a destabilising factor.
+
+The Republic of Serbia, like all other regional states, is faced with the threat of terrorism, various forms of organised crime, problems of economic and demographic development, the consequences of natural disasters, as well as with cybercrime.
+
+In some parts of the Republic of Serbia, there is a radical Islamist core which strives towards getting stronger through activities aimed at religious indoctrination, the consolidation of regional ties with like-minded people, the recruitment and sending their members to crisis hotspots all over the world for the purpose of active participation in armed conflicts.
+
+Illegal migrants who transit the territory of the Republic of Serbia on their way to the states of the European Union may have multiple adverse effects on security situation having in mind the possibility of religious radicalisation, increased tensions among migrant population, their mutual conflicts and negative reaction of the local population. Apart from that, other security risks include uncontrolled entry of migrants, possibility of hiding their identity, criminal activities in the form of illegal transport of migrants and closure of neighbouring countries’ borders for some categories of migrants.
+
+Security of the Republic of Serbia is also adversely affected by the level of its economic development, especially having in mind great regional differences in that regard. Furthermore, an increasing security risk is the situation in the demographic sphere characterised by low birth rate, intensified migration of population from rural to urban areas, and educated experts leaving the country to live abroad.
+
+The security situation is also considerably influenced by natural disasters which could, in a very short time, cause major effects and make
+
+life in certain parts or the entire country impossible. The Republic of Serbia is exposed to the risk of floods, with possibilities of droughts, fire, earthquakes, technical-technological and other accidents. Development of assessments and plans for protection and rescue, timely response, and competent and equipped protection and rescue forces could significantly mitigate the effects of natural disasters and catastrophic events caused by human factor.
+
+Energy resources in the Republic of Serbia are relatively limited, they are of unfavourable composition and they are geographically unevenly distributed. Limited capabilities of import and storage of energy commodities may adversely affect energy security. By signing the Treaty establishing Energy Community, the Republic of Serbia has opted for the establishment of a regional market of electricity, natural gas, oil and petroleum products, and its integration in the energy market of the European Union, which should contribute to a higher level of energy security.
+
+Scientific and technological development of the Republic of Serbia will depend on the dynamics of its economic development, investment in this sphere, encouraging innovations and increasing the capacity for research and development. Development of modern technologies, their presence in all spheres of society, and trend of their further expansion influence the increase in cyber threats, scope of cybercrime, and stress the importance of existence of a suitable system of countermeasures and protection in the Republic of Serbia as well.
+
+The modern world is characterised by interdependence, unpredictability, and extremely complex challenges, risks and threats to security of states and citizens. In order to predict, prevent or limit such occurrences in real time, and control their effects as much as possible, responsible institutions have to pay special attention, and continuously monitor and analyse the international environment. Accordingly, this document sets out the challenges, risks and threats to the security of the Republic of Serbia, which are subject to amendments, in line with the changes of strategic environment factors.
+
+## 2. SECURITY CHALLENGES, RISKS AND THREATS
+
+The Republic of Serbia is committed to building its security on democratic standards, cooperation policy and European foreign policy orientation.
+
+As a militarily neutral state, the Republic of Serbia seeks to continually improve its security system in order to respond as efficiently as possible to security challenges, risks and threats. Having in mind that the current challenges, risks and threats are most often manifested in a complex environment and that they depend on multiple external and internal factors, each of them has been analysed separately. According to the effects which they may have, the most significant challenges, risks and threats to the security of the Republic of Serbia have been identified.
+
+Separatist aspirations in the Republic of Serbia are fully manifested in the territory of the Autonomous Province of Kosovo and Metohija, which has had a negative impact on other areas in the south of the Republic of Serbia, but which have no greater influence on other parts of the state. Unilateral actions of the Provisional Institutions of Self-Government in Priština, attempts at obtaining membership of international organisations and requests to decrease and abolish international presence in the Autonomous Province of Kosovo and Metohija indicate continued attempts to secede that part of the territory of the Republic of Serbia, which poses a threat to our national interests that will, according to expectations, be continued in the period to come.
+
+Unlawfully unilaterally declared independence of the territory administratively covered by the Autonomous Province of Kosovo and
+
+Metohija is not founded on the Constitution of the Republic of Serbia, the Charter of the United Nations and the UN Security Council Resolution 1244, and, as such, it is unacceptable for the Republic of Serbia since it jeopardises its national values and interests.
+
+Armed rebellion can jeopardise the security of the Republic of Serbia, whereat the greatest threat is posed by extremist groups which operate in the area of the Autonomous Province of Kosovo and Metohija. Taking into consideration the orientation of the Republic of Serbia to resolve all disputes by peaceful means, and the fact that relations with neighbouring states are not burdened by open issues whose resolution could lead to the use of arms, and that there are not visible military threats to security, the probability of an outbreak of different armed incidents is greatly reduced.
+
+Terrorism represents a great risk and serious threat to security of the Republic of Serbia. Execution of terrorist acts in its territory can make politico-security situation even more complex. The Republic of Serbia and its citizens, in the country and abroad, can be targets of terrorist activities, and its territory can be misused for transit, preparation and execution of terrorist acts in other states, which is unacceptable.
+
+Proliferation of the weapons of mass destruction, along with accompanying systems, by its implications, presents potentially the greatest threat to global and regional security, therefore it can be a serious threat to security system of the Republic of Serbia. Particular danger lies in the possibility of terrorist organisations coming into possession of the weapons of mass destruction.
+
+Ethnic and religious extremism occurs in varying intensity in certain parts of the Republic of Serbia and it can destabilise the political and security situation. At the same time, this form of security threats, in some cases, can generate separatist aspirations, particularly if it is supported from abroad.
+
+Another threat to security of the Republic of Serbia comes from intelligence activity of foreign actors continuously acting against political, economic and security factors in the Republic of Serbia, through subversive propaganda activities, among other, directed towards attempts at destabilising institutions and causing tensions in society.
+
+Organised crime is one of the most significant threats to security of the Republic of Serbia, especially having in mind the intensity of its manifestation and its transnational character. The most common are the following forms of organised criminal activities: production and smuggling of psychoactive controlled substances, arms smuggling and trafficking, human smuggling and illegal migration, economic and financial crime in the form of illegal production and trade in products subject to excise duties and money laundering, corruption, and other less frequent forms. In that respect, a particular security threat is posed by activities of criminal groups in the south of the Republic of Serbia, primarily because of their connections with the perpetrators of terrorist, extremist and separatist activities.
+
+Drug addiction, as an increasingly pronounced social problem, is gaining a character of a security problem influencing the increase in the number of serious crimes.
+
+Mass illegal migrations represent a significant security challenge, mindful of the fact that the migrant crisis and illegal migrations combined with organised crime and strengthening of religious radicalism can cause occurrence of threats to security, especially if the Republic of Serbia, as a transit state, is forced to undertake, at least temporarily, taking care of the migrants whose number exceeds its economic and organisational capacities.
+
+Problems of the economic growth of the Republic of Serbia emerge as a consequence of actions taken by external and internal factors. Dynamics of economic growth of leading economies, global trade volume, the volatility of international financial and commodity markets, geopolitical tensions and similar can cause reduction in its exports and deterioration of its financial position, downsizing of direct foreign investments and new capital. Such trends can directly impact an increase in foreign and internal macroeconomic imbalance of the Republic of Serbia, and indirectly, the standard of living diminishing the feeling of security among the citizens.
+
+Problems of the demographic development of the Republic of Serbia are manifested in the form of low birth rate, unsatisfactory morbidity and mortality indicators in the population, low average life expectancy
+
+and quality of life, uncontrolled migrations, and educated, scientific and cultural potential leaving the country. Deepening of difficulties in economic growth could contribute to further decline in the birth rate, ageing of the population, and ultimate jeopardising the very foundations of biological survival of the population of the Republic of Serbia.
+
+Infectious disease epidemics and pandemics may jeopardise the population of the Republic of Serbia and bear the risk of serious economic and social consequences. Infectious diseases epidemics, apart from uncommonness in terms of number, time, place and population affected, can also cause an increase in the number of patients with complications, the occurrence of severe clinical forms of contagious diseases and death.
+
+Energy security of the Republic of Serbia may be jeopardized by disruption of a stable and regular supply of energy products from other countries. Also, disputes with the Provisional Institutions of Self-Government in Priština in the field of electricity supply may result in jeopardised electricity supply in the northern part of the Autonomous Province of Kosovo and Metohija.
+
+Incomplete demarcation process of the former SFRY states affects the security of the Republic of Serbia, primarily in terms of demarcation with some of the European Union states, which may present a significant problem in the process of its European integration.
+
+Natural disasters and technical-technological accidents, as well as endangering the environment and health of citizens due to radiological, chemical and biological contamination can significantly affect the security of the Republic of Serbia. Different types of natural disasters (floods, droughts, fire, earthquakes, extremely high temperatures, etc.), and the presence of large quantities of hazardous materials in the process of production, storage, trade and transport, directly and indirectly influence the risk level and state of safety of humans, animals, material and cultural goods and the environment. Technical and technological accidents pose a considerable risk with the effects that can be felt not only in the territory of the Republic of Serbia but in the territories of other neighbouring states, as well.
+
+Climate change, has a significant negative impact on the quality of the environment and resources of the Republic of Serbia, and thus on
+
+its security. Except in the ecological sphere, the climate change can have significant consequences in the field of economy (primarily in agriculture, water management and energy), and social changes accompanied by security risks. Risks in environmental domain are multiple because of the effects on ecosystems and biodiversity. Social risks that may arise in this context are those pertaining to public health, and demography but they are also existential. Extreme meteorological conditions, erosion, soil drainage and fire, due to high temperatures, may lead to lacks of food and water shortages, migratory movements, epidemics, increase in radicalism and crime. Climate change poses a demographic risk as well, since the quality of the environment largely influences the health of the citizens of the Republic of Serbia.
+
+The development of modern technologies and their presence in all social spheres, result in an increase of cybercrime and threats to information-communication systems. Trends in the commission of offences in these fields in the Republic of Serbia to the highest degree coincide with the trends at the global level.
+
+In addition to these, there are other security challenges, risks and threats that can have a significant impact such as: corruption, the misuse of new technologies and scientific achievements, genetic engineering, medicine, meteorology and other scientific fields. They often do not have an open influence on the security of the Republic of Serbia, so it is difficult to detect and identify the patterns of their action.
+
+## 3. NATIONAL INTERESTS
+
+National interests, as a permanent need and aspiration of the Republic of Serbia and its citizens, are based on universal and national values derived from the Constitution and the heritage of the Serbian people and all citizens living in the Republic of Serbia. Fundamental national values are: freedom, independence, peace, security, democracy, rule of law, social justice, human and minority rights and freedoms, equality of the citizens, tolerance, transparency, solidarity, patriotism and healthy environment. The pursuit of the national interests protects fundamental national values.
+
+The national interests of the Republic of Serbia are: preservation of sovereignty, independence and territorial integrity; preservation of internal stability and security; preservation of the existence and protection of the Serbian people wherever they live, as well as of national minorities and their cultural, religious and historical identity; maintaining peace and stability in the region and world; European integration and membership of the European Union; economic development and overall prosperity, and preservation of the environment and resources of the Republic of Serbia.
+
+Preservation of sovereignty, independence and territorial integrity is a precondition for the survival of the Republic of Serbia as a state. The pursuit of our national interests is based on international law, cultural and historical heritage and the fundamental national values. Protection and pursuit of the national interest ensures the right of independent exercise of legislative, executive and judicial power in the entire territory of the Republic of Serbia, and the preservation of the integrity of its territory, security of the population and continuity of economic activities in accordance with the Constitution. The Republic of Serbia pursues its aspirations in
+
+the framework of this interest in accordance with international law, and assumed and ratified international obligations. In this regard, it does not recognise illegal secession of any part of its territory.
+
+Preservation of internal stability and security is the condition for continuous development of all segments of society, rational use of available resources and satisfaction of citizens’ needs. Achievement of that interest ensures protection of the state, society, citizens and property against threats, which leads to improved quality of life of the citizens and better institutional development and efficiency. Also, it enables enhancement of economy, building confidence and cooperation, and civic responsibility, which ultimately results in the fact that the Republic of Serbia is a desirable place to live and work.
+
+Preservation of the existence and protection of the Serbian people wherever they live, as well as of national minorities and their cultural, religious and historical identity are conditions for the survival of the Republic of Serbia, the diaspora and the Serbs abroad, as well as Republika Srpska as an entity within Bosnia and Herzegovina in accordance with the Dayton Agreement. Pursuing that interest enhances demographic potential, strengthens national unity, culture and patriotism, and develops awareness of national identity, while respecting the rights and cultural heritage of other nations. This creates conditions for cohesion and development of the society, enhancement of position and protection of the rights of the Serbs wherever they live, Serbian cultural, spiritual and historical heritage in other states, promotion of cultural exchange, understanding and appreciation of cultural and other differences, and enhancement of position and rights of national minorities in the Republic of Serbia.
+
+Maintaining peace and stability in the region and world is important for the security and stability of the Republic of Serbia and its overall development. Contributing to maintenance of peace and stability in the region and world, enhances its overall capabilities and capacities of the national security system, and its international reputation. Active participation also increases the possibility of exercising its influence on the activities of actors involved in international relations and non-violent resolution of important international issues relevant to the Republic
+
+of Serbia and in accordance with internationally assumed obligations. Through direct engagement in bilateral and multilateral mechanisms of cooperation, the Republic of Serbia builds confidence and its position as a reliable partner in international relations, as well as the regional stability and good neighbourly relations.
+
+European integration and membership of the European Union lead to an overall reshaping of society and economy, achieving high standards in all spheres, strengthening democratic institutions and market economy through research and innovation, export and investment growth, employment growth, improvement of education to meet the market needs, high degree of protection of human and minority rights, an increase in the general level of safety and security of the citizens. In the first half of the 20th century, Serbian thinkers participated in building a society based on European ideas, while the Serb people suffered great sacrifices in building a free and stable Europe. By becoming a member of the European Union, the Republic of Serbia would become part of an organisation that represents one of the most important global actors and it would gain the opportunity to influence the decision-making process within that organisation. In doing so, it would also enhance its own capacity to protect and pursue other national interests and goals.
+
+Economic development and overall prosperity enable improvement of the quality of life of the citizens and certain prospects for future generations. That national interest ensures the improvement of the living standard, resilience and adaptability of the economy, rational and responsible attitude towards natural resources and the environment, balanced regional development, improvement of education, scientific and technological development, and overall security of the state and citizens. This will reduce the social stratification as well as economic differences in comparison to developed states, and improve the economic and energy security of the Republic of Serbia.
+
+Preservation of the environment and resources of the Republic of Serbia, which implies a responsible attitude towards the environment in terms of soil quality, groundwater and surface water resources and atmosphere, biodiversity, and towards the use of natural resources and management of
+
+hazardous waste, is of utmost importance for the security of the Republic of Serbia. Active monitoring of the situation and taking measures for protection against irreversible environmental changes caused by climate, geo-physical, and technological impacts, is one of the conditions for a sustainable development.
+
+A threat to our national interests is considered a threat to security of the Republic of Serbia and the Serbian people, wherever they live, and their religious, cultural and historical heritage. Goals, positions, commitments and measures for the protection and pursuit of our national interests are contained in the national security policy.
+
+## 4. NATIONAL SECURITY POLICY
+
+The national security policy is part of the overall state policy and it represents a set of positions, principles and commitments that guide the decision-making process and activities of the Republic of Serbia for the protection and pursuit of our national interests. The national security policy is implemented through taking comprehensive and harmonised measures in different areas of social life.
+
+The national security policy, which is founded on implementation of an all-encompassing approach, creates basis for a uniform, harmonised and integral response of the Republic of Serbia to security challenges, risks and threats.
+
+Implementation of the national security policy, in addition to the protection and pursuit of our national interests, creates preconditions for the political, economic, social, cultural and overall social development of the Republic of Serbia.
+
+Basic positions, principles and commitments of the national security policy, or measures taken to implement the national security policy, are grouped according to the national interests and goals of the Republic of Serbia to which they directly refer.
+
+### 4.1. Preservation of sovereignty, independence and territorial integrity of the Republic of Serbia
+
+In order to preserve the sovereignty, independence and territorial integrity, the Republic of Serbia pursues the following goals:
+
+– deterrence against armed threats and efficient defence; – preservation of the Autonomous Province of Kosovo and Metohija
+
+as part of the Republic of Serbia; – strengthening reputation and international position of the Republic
+
+of Serbia; – prevention and elimination of secessionist activities.
+
+Deterrence against armed threats and efficient defence of the Republic of Serbia is of paramount importance for the preservation of its sovereignty, independence, and territorial integrity. Maintaining required level of capabilities of the defence system and its continuous development will ensure adaptability of the defence system to the changes of security environment and changes of the challenges, risks and threats to the security of the Republic of Serbia.
+
+The development of the defence system will be based on requirements and capabilities, in accordance with strengthening of economic and demographic potentials of the country, and it will be carried out pursuant to development plans and programmes. Also, necessary conditions are to be created for integral engagement of all entities of the defence system. In that sense, the total defence concept is to be elaborated and applied while the number of citizens trained for defence of the country is to be significantly increased.
+
+For the purpose of deterrence against armed threats and efficient defence of the Republic of Serbia, the work will be continued on gathering, analysing and assessing data and information about potential and real dangers, activities, plans and intentions of actors that can threaten the sovereignty, independence and territorial integrity of the Republic of Serbia and security of its citizens.
+
+The Republic of Serbia is committed to building strong foreign policy partnerships and friendly relations with other states through an active and peace-loving foreign policy.
+
+Preservation of the Autonomous Province of Kosovo and Metohija as part of the Republic of Serbia represents an important issue for the Republic of Serbia. It is committed to protecting its own interests, as well as the interests of the Serbs and other non-Albanian population in this province, through dialogue. Acting in accordance with United Nations Security Council Resolution 1244 and fundamental norms of international law, it will continue to protect its sovereignty and territorial integrity, using all available diplomatic and legal means. The Republic of Serbia will not recognise unilaterally declared independence of its southern province, however, in the interest of regional stability and the best possible relations between Serbia and Albania, it will continue the dialogue with the Provisional Institutions of Self-Government in Priština with mediation of the European Union, until a lasting, sustainable and mutually acceptable agreement is reached.
+
+The Republic of Serbia advocates strict and consistent implementation of all the agreements reached within the framework of the Brussels Agreement with the bodies of the Provisional Institutions of Self-Government in Priština. In cooperation with other states and international organisations, it will work on sustainable return of expelled and displaced persons and the promotion of security. Through an active engagement in international organisations and bilateral cooperation, it will strive to prevent membership and affirmation of the unilaterally declared independence of the territory administratively covered by the Autonomous Province of Kosovo and Metohija in international organisations, and within the system of the United Nations Organisation in particular. By intensifying its diplomatic efforts, the Republic of Serbia will endeavour to ensure the widest possible international support for the preservation of its southern province within its borders.
+
+Defending its sovereignty and territorial integrity, the Republic of Serbia defends international law, the Charter of the United Nations, the supreme authority of the Security Council in the field of preservation of
+
+international peace and security, as well as its own national and historical identity. Its public authorities, together with international actors, will continue to contribute to the creation of preconditions for arriving at a political solution using peaceful means for the issue of the Autonomous Province of Kosovo and Metohija in conformity with United Nations Security Council Resolution 1244, international law and provisions of the Constitution of the Republic of Serbia.
+
+Serbia attaches particular importance to the activities of United Nations mission in the territory of its southern province (UNMIK). The UNMIK presence is essential for stability and creation of conditions that should lead to a lasting and sustainable resolution of the issue of the Autonomous Province of Kosovo and Metohija, on the basis of United Nations Security Council Resolution 1244. The United Nations framework, based on that Resolution, is a guarantee of the neutral status of international presence in Kosovo and Metohija. In this context, the Republic of Serbia expects that UNMIK, as well as KFOR, will continue to pursue their mandate in undiminished scope in accordance with United Nations Security Council Resolution 1244, particularly in the areas significant for survival and normal and dignified life of the Serbs and members of other non-Albanian communities.
+
+The Republic of Serbia will continue advocating a more active approach of the United Nations in relation to the Autonomous Province of Kosovo and Metohija and continued engagement of KFOR in conformity with United Nations Security Council Resolution 1244. It opposes the admission of bodies of the Provisional Institutions of Self-Government in Priština to UNESCO and INTERPOL, and the transformation of armed formations, so called “Kosovo Security Forces”, into armed forces, as well as marginalisation of these issues within the framework of the United Nations system, and Security Council in particular. It is crucial that this issue is continuously reviewed in the Security Council, with unreduced regularity and in conformity to Resolution 1244, especially having in mind the sensitivity of the situation on the ground.
+
+Strengthening reputation and international position of the Republic of Serbia contributes to the preservation of its sovereignty, independence
+
+and territorial integrity. It will pursue a proactive, clearly profiled and well-designed foreign policy for the purpose of better placement and strengthening of its international position and reputation at regional, European and wider international levels. Accordingly, particular attention will be paid to building and strengthening a comprehensive multilevel cooperation policy. This, chiefly, refers to intensive bilateral, trilateral and multilateral cooperation with all actors involved in international relations, especially in the field of economy, aimed at improving the citizens’ standard of living, accelerated integration into the European Union and preservation of sovereignty and territorial integrity. The Republic of Serbia is convinced that the stability and security of international order can be achieved through cooperation, preservation of democratic values and respect for international law.
+
+Continued cooperation with key actors involved in international relations and all permanent members of the United Nations Security Council is of strategic importance. Particularly important are the relations with the People’s Republic of China, the Russian Federation and the United States of America.
+
+Prevention and elimination of separatist activities are important for the preservation of sovereignty, independence and territorial integrity of the Republic of Serbia. In this regard, it will strive to prevent separatist activities through even regional development, the strengthening of democratic society and institutions, the rule of law and respect for human and minority rights, as well as the continuous taking of other measures in different areas of social life and create conditions to become a desirable place to live and work for all its citizens.
+
+The Republic of Serbia is committed to building a society that respects diversity through promotion of ethnic and religious tolerance, understanding and appreciation, and through universal values. In this regard, it will enhance interdepartmental cooperation and capacities, as well as the cooperation with non-governmental sector and local communities in the field of prevention and elimination of the causes of all forms of separatist activities.
+
+### 4.2. Preservation of internal stability and security of the Republic of Serbia and its citizens
+
+In order to preserve the internal stability and security of the Republic of Serbia and its citizens, the following tasks are carried out:
+
+– protection of human and minority rights and freedoms of citizens; – the rule of law and further development of democracy and
+
+democratic institutions; – improving the security of citizens, the state and society; – normalisation of the situation and relations in the Autonomous
+
+Province of Kosovo and Metohija; – efficient public administration.
+
+Protection of human and minority rights and freedoms of citizens represents a basis for internal stability and security of the Republic of Serbia and its citizens. The Republic of Serbia is one of the European states with the highest attained and applied level of protection of human and minority rights in terms of legislation. Accordingly, further strengthening of institutions and institutes for the implementation of the achieved level of protection of human and minority rights is of paramount importance. It will also promote social tolerance, understanding and appreciation, and resolute opposition to all forms of discrimination.
+
+The Republic of Serbia will continue to improve the legislative and institutional frameworks for exercising freedom of expression, a pluralistic way of informing and raising the level of objectivity of media reporting.
+
+Improving the conditions for education and equal participation of members of national minorities in all government structures will continue. The Republic of Serbia is committed to respecting the constitutional and international provisions on the protection of human and minority rights and freedoms of citizens, and intensifying cooperation with representatives of minorities and their countries of origin. Likewise, in its foreign policy, it will insist on consistent implementation of the principle of reciprocity in the protection of human and minority rights.
+
+The Republic of Serbia will continue its engagement in resolving the issue of missing persons, the return of refugees, expelled and internally displaced persons, and the protection of their human rights and freedoms.
+
+The rule of law and further development of democracy and democratic institutions is one of the basic prerequisites for preserving the internal stability and security of the Republic of Serbia and its citizens. In that respect, efficiency and transparency of work of legislative, executive and judicial powers is going to be increased. Strengthening professional ethics and preventive anti-corruption activities will enhance confidence of citizens in state institutions and the degree of their democratic development. In order to increase the efficiency of the work of courts, public prosecutors and security agencies, work procedures will be improved. In the area of public policy making and implementation, cooperation between public administration and civil society organisations will be improved.
+
+Improving the security of citizens, the state and society represents one of the most important goals, whose accomplishment contributes to preservation of internal stability and security of the Republic of Serbia and its citizens. In this regard, interdepartmental cooperation is going to be improved ensuring faster and better quality of information exchange and analysis, as well as the planning and implementation of the adopted measures.
+
+The Republic of Serbia is committed to contributing to the fight against terrorism in all its forms and to preventing all kinds of extremism and radicalism. The Organisation of United Nations is considered to be the key international forum for addressing the problem of terrorism. In this regard, in coordination with partners worldwide, it will continue to contribute to counteracting these threats at national, regional, European and global levels. It will also seek to build its legal framework and institutional capacity to fight against terrorism in compliance with strategic framework and standards of the European Union.
+
+The Republic of Serbia will improve its own capabilities and capacities to collect, analyse, evaluate, protect and transfer data and information about international terrorism, and it will take all necessary measures to
+
+prevent terrorist activities in its territory. The focus of the engagement will be on preventive measures.
+
+In cooperation with other states and international organisations, in compliance with law, it will seek to prevent encouraging, organising and participation of its citizens in wars or conflicts in foreign countries, and to contribute to curbing the rise of violent extremism in the region, especially in the territory of the Autonomous Province of Kosovo and Metohija.
+
+Just like many other states, the Republic of Serbia is faced with refugee and migrant crisis. In that regard, it advocates finding a coordinated and comprehensive response at regional and European level. In resolving the refugee and migrant crisis, it is ready to contribute to finding a common European solution, and to assume its share of obligations. Through more intensive cooperation with European Union Member States and the countries of the region, it will strive to effectively and efficiently control migrant flows ensuring a humane treatment of the migrants, in accordance with international regulations. It also supports the efforts of the United Nations, and regional organisations, directed towards fostering dialogue and calming tensions in crisis regions in the world.
+
+Capabilities and capacities for monitoring, preventing and suppressing the occurrence of national, religious and other forms of extremism, implementing zero tolerance for all forms of violence, combating illicit trafficking in psychoactive controlled substances, and fight against all forms of corruption and crime will be improved. Moreover, it will identify and protect critical infrastructure facilities and implement early warning and preventive measures in terms of protection against natural disasters, technical and technological accidents and catastrophic events.
+
+In compliance with international standards, the Republic of Serbia will establish a uniform early alert system and enhance capabilities and capacities of emergency headquarters. For the purpose of prompt, efficient and coordinated response of all emergency services and efficient management of emergency protection and rescue, a single notification system is to be established along with a public alert system.
+
+Counter-intelligence activities are going to be enhanced with a view to improving the overall security and stability.
+
+In the field of cyber security, capabilities and capacities for processing, transferring and protection of information and information-communication systems and defence against techniques of hybrid and information warfare in information and cyber space will continue to be improved. Considerable attention will be paid to further development of the general security culture of all citizens aimed at raising awareness of the need to increase the security of individuals and the society.
+
+Demining activities will continue – clearing of the land and water areas contaminated with mines, cluster ammunition, air bombs-missiles and other unexploded ordnance.
+
+Normalisation of the situation and relations in the Autonomous Province of Kosovo and Metohija to a large extent contributes to preservation of internal stability and security of the Republic of Serbia and its citizens. Accordingly, the Republic of Serbia will fully support participation of the Serbs in the work of the Provisional Institutions of Self-Government in Priština, and continuously and realistically inform the national and foreign public about the situation and relations in the Autonomous Province of Kosovo and Metohija. In order to protect Serbian and other non-Albanian population and increase the level of general security of all citizens of the province, all necessary measures will be taken in keeping with United Nations Security Council Resolution 1244.
+
+The Republic of Serbia will continue to participate in a responsible and constructive manner in the dialogue on the normalisation of relations with the Provisional Institutions of Self-Government in Priština, and contribute to implementation of the achieved results of the dialogue. In addition to protecting the interests of the Serbian people, as well as other non-Albanian population, special attention will continue to be paid to preservation of Serbian cultural and spiritual heritage, protection of state property, and property of economic entities and citizens in the Autonomous Province of Kosovo and Metohija. Also, efforts will continue to be made to ensure cohabitation of all citizens and interethnic confidence in that area, and regional peace and stability. Because of interethnic mistrust, and in order
+
+to implement the agreements reached earlier and within the framework of the dialogue, it is necessary to maintain undiminished international presence.
+
+Efficient public administration is of particular importance for preserving and building internal stability and security of the Republic of Serbia and its citizens. In this regard, necessary measures will continue to be taken to reform public administration in accordance with the principles of the European Administrative Area and undertaken obligations in the framework of the process of joining and accession to the European Union.
+
+Implementation of good governance principle is going to be promoted, while transparency of work is going to be enhanced, as well as efficiency, responsibility to the citizens, work quality check, while degree of accountability of the public administration bodies is going to be raised. Furthermore, measures are going to be taken for a uniform and even modernisation and development of national security system, and introduction and efficient operation of electronic government in the work of all public administration bodies.
+
+### 4.3. Preservation of existence and protection of the Serbian people, wherever they live, and of national minorities and their cultural, religious and historical identity
+
+The preservation of existence and protection of the Serbian people, wherever they live, and of national minorities and their cultural, religious and historical identity, as a national interest of the Republic of Serbia, is pursued by achieving the following goals:
+
+– development of demographic potential; – national unity and development of cultural, religious and historical
+
+identity; – improvement of the position of national minorities; – improvement of the position and protection of rights and interests
+
+of diaspora and the Serbs living abroad;
+
+– protection of cultural and historical property significant to the
+
+Republic of Serbia and its citizens.
+
+Development of demographic potential is of primary importance for the Republic of Serbia and all its citizens. Accordingly, it will undertake a systematic action of social subjects in all spheres of demographic development, in particular: increase in birth rate, reduction of mortality and migration of citizens (internal and international) for the purpose of increasing labour and fertile potential necessary for the reproduction of new generations, and continuation of socio-economic development and demographic growth of the society.
+
+One of the priorities will be to improve the social and health care of the population, and to provide financial support to the underdeveloped municipalities, especially in order to encourage balanced regional development, rural development and development of border areas. Encouraging young and educated citizens to stay and work in Serbia will be of particular importance.
+
+National unity and development of cultural, religious and historical identity is of great importance for the preservation of the Serbian people and national minorities. The Republic of Serbia will continuously work on strengthening national unity. Measures will be taken to strengthen culture as a cohesive and developmental factor of society, and to protect and develop the Serbian language and Cyrillic script.
+
+The Republic of Serbia is committed to promoting contemporary creativity in all artistic fields, based on traditional artistic values and high artistic standards. Special attention will be paid to continued cherishing of cultural, historical and religious identity, promotion of cultural and historical heritage, protection of cultural wealth of the Republic of Serbia and religious buildings of the Serbian people and national minorities in Serbia and abroad.
+
+Particularly important is going to be to encourage the development of patriotic consciousness, and willingness to defend and protect the fatherland in peace, emergencies and war, without ideological determinants and in keeping with the achieved civilisational values of a developed society.
+
+Improvement of the position of national minorities is one of the priorities of the Republic of Serbia. In its territory, it guarantees all individual and collective rights of national minorities. At the same time, it is committed to respecting the human and minority rights of the Serbs in other countries, by improving relations with those countries and in accordance with relevant international law documents.
+
+The Republic of Serbia will continue to take measures aimed at increasing mutual respect, understanding and cooperation among all people living in its territory, regardless of their ethnic, cultural, linguistic or religious identity. Particular attention will be paid to developing cooperation with representatives of national minorities, and countries of origin of the minorities for the purpose of improvement of their status and rights.
+
+Civil society organisations will be involved in the process of creating and implementing public policies that regulate the status of national minorities, with a view to realistically reviewing and expressing their needs.
+
+Improvement of the position and protection of rights and interests of diaspora and the Serbs living abroad is of paramount importance for their survival and preservation of cultural, religious and historical identity. Orientation of the Republic of Serbia is to constantly maintain and strengthen ties with the diaspora and the Serbs living and working in the countries of the region with their country of origin, and to promote cultural, economic and other forms of cooperation with them and to support the preservation of their national, religious and cultural identity.
+
+The Republic of Serbia will continue to strive for respect and promotion of the rights and status of the Serbs in the region, as well as members of its diaspora, both at bilateral level, with the countries in which they live, and in the framework of international organisations, insisting on respect for the principle of reciprocity.
+
+Protection of cultural and historical property significant to the Republic of Serbia and its citizens is highly important. Rich cultural and historical heritage of the Serbian people and national minorities living in the territory of the Republic of Serbia, as part of the world cultural heritage, is of exceptional value, and should be adequately presented to the public and protected in international institutions. Special attention will be paid to the
+
+protection and preservation of movable and immovable cultural property, and to the protection and preservation of intangible cultural heritage.
+
+Activities in UNESCO organisation and other international organisations will be intensified for the purpose of conservation, restoration, protection and greater visibility of the cultural heritage of the Republic of Serbia and the Serbian people beyond the territory of the Republic of Serbia. Moreover, cultural creativity will be permanently enhanced and encouraged and historically grounded national culture of remembrance will be cherished, while Serbian cultural heritage will be promoted, along with the cultural heritage of national minorities living in the territory of the Republic of Serbia.
+
+### 4.4. Preserving peace and stability in the region and world
+
+The national interest of the Republic of Serbia is to preserve the peace in the region and world, and it is going to be pursued through achievement of the following goals:
+
+– contribution to development of international relations in
+
+accordance with internationally undertaken obligations; – contribution to preservation of international peace and security; – respect for international law and the promotion of mutual
+
+confidence; – contribution to strengthening regional stability and improvement
+
+of good neighbourly relations; – strengthening comprehensive bilateral relations with all countries,
+
+while respecting mutual interests; – strengthening active participation in the work of international
+
+organisations.
+
+Contribution of the Republic of Serbia to development of international relations in accordance with internationally undertaken obligations represents a lasting orientation and goal. The Republic of Serbia is
+
+determined to take an active part in the work of international organisations, consistently fulfilling its international obligations stemming from the ratified international treaties, conventions and agreements. Fulfilment of internationally assumed obligations will positively influence the reputation of the Republic of Serbia as a factor of stability in the region.
+
+Contribution to preservation of international peace and security is in the best interest of the Republic of Serbia and its citizens. The Republic of Serbia will have responsible and active relations within the United Nations and with other international organisations in terms of the preservation of international peace and security. It is committed to the non-violent resolution of open issues in international relations and it opposes all forms of threats to international peace and security, for the purpose of creating a stable and peaceful environment that enables unhindered economic and political development of society.
+
+Through the participation of military and civilian capacities in multinational operations and missions led by the United Nations, European Union and the Organisation for Security and Co-operation in Europe, the Republic of Serbia will improve its position as a reliable partner in international relations, and the interoperability of national security and defence system with other states and establish new partnerships. It will also develop capabilities for an integrated approach to resolving international conflicts including participation in civilian crisis management missions.
+
+Respect for international law and the promotion of mutual confidence is of particular interest for the Republic of Serbia and its interests. It will strive for an active affirmation of respect for international law, including the issue of conditions for membership of international organisations. Its orientation is to actively participate in international multilateral fora in the field of arms control, and to continue with consistent implementation of norms in the field of non-proliferation of weapons of mass destruction, and to work on further strengthening of its national capacities and enhancement of regulations in that area. It also advocates transparent security policy, non-interference with the internal affairs of sovereign states, as well as strengthening and sustainability of international legal order.
+
+Particular attention will be paid to the transport of arms, military equipment and dual-use goods. Relative to that, it will permanently monitor and evaluate the trade in such type of items in context of new technological developments, development of international standards and best practices, and new security challenges and risks.
+
+The Republic of Serbia will continue its active participation in international export control arrangements, which it has already signed, and further engagement for the purpose of regulating its status in other arrangements, which is significant for its international reputation and in the interest of its defence industry.
+
+Contribution to strengthening regional stability and improvement of good neighbourly relations is a permanent orientation of the Republic of Serbia. This implies an all-encompassing improvement of cooperation and stability in the region through infrastructural, trade and investment connections, both with European Union members, and with potential candidates and candidates for the membership of this organisation.
+
+Regional stability and responsible actions within the region are the primary and lasting interest of the Republic of Serbia whose achievement is going to be continued through building confidence and strengthening economic and other forms of cooperation with the states of the region on partner basis. Economic and infrastructural connectedness of the region is of a first-rate importance, since it reinforces regional capacities and strengthens competitiveness at international plane. That goal is achieved through numerous bilateral and multilateral forms of cooperation on the regional plane, which is going to be done with undiminished intensity, contributing to the preservation of regional stability.
+
+The Republic of Serbia is going to continue its active participation in a range of regional initiatives which contribute to accelerated progress of all participants in these initiatives towards the membership of the European Union. Accordingly, it considers as particularly important the regional initiatives and processes that can yield concrete results in the areas of greatest priority for the region in terms of development and connectedness such as: economy, infrastructure, energy, cooperation of the young, which are being implemented through the so called Berlin Process and CEFTA organisation.
+
+The Agreement on Sub-Regional Arms Control/Florence Agreement 1996 (Article IV of Annex 1-B of Dayton Agreement) has been actively implemented, which has played a key role in peace stabilisation, confidence building and cooperation enhancement. It is extremely important that the parties to this Agreement continue to apply it consistently after the transfer of ownership in December 2015 is completed.
+
+Activities to combat the illicit trade and accumulation of SALW surplus are a continuous orientation of the Republic of Serbia which is vitally interested in eliminating the consequences of recent conflicts at its borders, and the conflicts with terrorist and separatist forces in the territory of the Autonomous Province of Kosovo and Metohija during the 1990s of the last century.
+
+In order to resolve the issue of refugees and missing persons in the region of former SFRY, it is highly important to intensify bilateral cooperation with the countries of the region and internationally with relevant international organisations. In this regard, Serbia will strive to improve the status of the Serbian people in neighbouring states through bilateral cooperation and activities in international organisations.
+
+Preservation of Republika Srpska is one of the foreign policy priorities of the Republic of Serbia. Accordingly, the orientation of the Republic of Serbia is to continue developing special parallel relations with Republika Srpska, while respecting the territorial integrity and sovereignty of Bosnia and Herzegovina in accordance with the Dayton Agreement. Also, the Republic of Serbia is oriented towards establishing better quality and more meaningful relations with the regional states, along with strengthening regional approach to security.
+
+Strengthening comprehensive bilateral relations with all countries, while respecting mutual interests is a priority of the Republic of Serbia. In this respect, a permanent political dialogue is to be maintained and regular visits organised at high and the highest level, bilateral contacts at working level in all areas, and legal regulation of all forms of bilateral relations is going to be sought.
+
+Cooperation with key international actors is to be continued, chiefly with permanent members of the United Nations Security Council.
+
+The Republic of Serbia is oriented towards strengthening dialogue and many-sided cooperation with traditional partners, emerging economies, and developed countries with which we have a range of joint projects in the field of economy, culture, education, science and sport. In the framework of bilateral and multilateral cooperation with these states, the focus will be placed on maintenance of their principled position of non-recognition of the unilaterally declared independence of the territory administratively covered by the Autonomous Province of Kosovo and Metohija.
+
+Strengthening of active participation of the Republic of Serbia in the work of international organisations is of special importance. In this regard, comprehensive preparations will be made to create conditions for more active participation in the work of international organisations. It will also strengthen cooperation with other member states of international organisations regarding achievement of concrete goals of certain international organisations.
+
+Through the development of capabilities for multilateral action and more efficient contribution to multilateral engagement of the Republic of Serbia, the international reputation and recognisability of Serbian diplomacy is enhanced which indirectly increases possibilities for exerting influence on the development and activities of international organisations, in conformity with generally accepted goals and principles.
+
+To make contribution to global, European and regional stability, the Republic of Serbia cooperates with NATO by means of Partnership for Peace Programme, pursuing military neutrality which implies the absence of membership of any military-political alliance. Participation in Partnership for Peace Programme is an optimal form of cooperation of the Republic of Serbia with NATO. The military neutrality of the Republic of Serbia does not present an obstacle for development of partner cooperation within the Partnership for Peace Programme which is in the interest of strengthening global and European, and especially regional security. The Republic of Serbia does not have any intention of becoming a member of NATO, or any other military-political alliance, but it desires to advance mutual confidence and achieve common goals with all partners in the world.
+
+Cooperation with NATO through the Partnership for Peace is complementary to the activities undertaken in the framework of accession process of the Republic of Serbia to the European Union and bilateral relations with NATO members and partner states. At regional plane, the cooperation with NATO through the Partnership for Peace contributes to bilateral relations with regional states which are NATO members or candidates for membership, all for the purpose of preserving regional peace and the enhancement of stability.
+
+Cooperation with NATO and KFOR and other international presence is highly significant for the protection of Serbian populations, Serbian cultural and religious heritage, and the peace and security in the Autonomous Province of Kosovo and Metohija. The only legal military force in this province, in keeping with UN Security Council Resolution 1244, are the KFOR forces, which play a key part in security guarantees for the implementation of the Brussels Agreement and maintaining dialogue with the Provisional Institutions of Self-Government in Priština. Because of that, the Republic of Serbia advocates undiminished presence of KFOR and opposes the change of mandate and transformation of armed formations named “Kosovo Security Forces” into the armed forces, since it would lead to destabilisation of the situation in the Autonomous Province of Kosovo and Metohija and undermine the security in the region.
+
+The Republic of Serbia expands and deepens the existing level of its cooperation with the CSTO in order to contribute to global stability and security in accordance with the policy of military neutrality. The Republic of Serbia will bolster mutual confidence with the CSTO for the purpose of achievement of common objectives.
+
+As one of the founders of the Non-Aligned Movement, the Republic of Serbia will continue developing relations with its members. In line with its foreign policy priorities, it has no intention of changing its observer’s status in the Non-Aligned Movement, but it endeavours, while achieving its national interests, to pragmatically ensure its presence within it, which it perceives as a complementary dimension of its overall foreign policy engagement.
+
+### 4.5. European integration and membership of the Republic of Serbia in the European Union
+
+The European integration and membership of the European Union are a national interest and strategic orientation of the Republic of Serbia. This national interest is pursued by achieving the following goals:
+
+– shaping a modern and developed society based on common
+
+European values which are a part of Serbian national identity and historical heritage; – achieving internal preparedness for the membership of the
+
+European Union; – improvement of national security and defence through the process
+
+of European integration.
+
+Shaping a modern and developed society based on common European values which are a part of Serbian national identity and historical heritage is a significant precondition for the process of European integration and membership of the Republic of Serbia in the European Union. European integration and the membership of the European Union represent an all-encompassing process which implies reshaping of society in harmony with common values and criteria for the accession to the European Union, with due regard for specificities and distinctness of Serbian national identity and cultural, historical and nation-building heritage of the Serbian people and citizens of Serbia. Thus, through membership of the European Union, Serbia builds its authentic values and differences in common values.
+
+The Republic of Serbia fully respects constitutional and legal provisions that relate to democracy, the rule of law and protection of human and minority rights, and it is ready to further advance them. To fulfil agreed and undertaken obligations in the framework of accession negotiations for the membership of the European Union, it implements reforms in the field of legislation and fundamental rights, and political and economic system in line with positive law and standards of the European Union.
+
+Achieving internal preparedness for the membership of the European Union is an issue of special importance for the European integration.
+
+In connection to that, the Republic of Serbia will continue accession negotiations and take all required measures to create conditions for opening and successful closure of all negotiation chapters. In that process, it will harmonise its regulations with acquis communautaire of the European Union and implement required reforms in line with defined national strategies and action plans passed on the basis of harmonised laws, and for the purpose of achieving a high degree of democratisation of society and open market economies. In the scope of those processes, it will continue cooperation with all relevant subjects of society, citizens and civil society organisations, and the public will be informed on planned and undertaken reform activities.
+
+In conformity with its orientation to fulfil high European standards in areas of the rule of law and security of citizens, in the upcoming period, the Republic of Serbia will strive to fulfil as quickly and as successfully as possible the standards identified in the process of negotiation with the European Union within the chapters referring to judiciary and fundamental rights, and freedom, justice and security. Meeting the high standards in those areas will, among other things, enable unhindered continuation of the process of negotiations with the European Union in other chapters as well.
+
+Improvement of national security and defence through the process of European integration contributes to full membership of the Republic of Serbia in the European Union. In the process of the accession process, it is firmly determined to make contribution to Common foreign, security and defence policy of the European Union, and to integrate itself in the concepts of that European policy.
+
+The Republic of Serbia supports European values and foreign policy goals contained in fundamental documents of the European Union, and the main guidelines of its foreign policy actions based on those values. The Republic of Serbia recognises as its own the main goals of foreign political activities of the European Union, such as respect for international law and multilateralism in resolving security challenges and threats with the United Nations in its centre, and it uses them as guidance for implementation of its own foreign and security policy. In its foreign political orientation,
+
+it will strive for the approximation of its policy to proclaimed goals and principles expressed in the Global strategy for foreign and security policy of the European Union, such as: principled pragmatism in achieving goals, accountability for foreign political activities, integrated approach to conflicts, responsible regional activities, cooperation policy, connectedness with other international partners, coordinated fight against terrorism, cooperation in the field of cyber and energy security and conflict prevention.
+
+Participation of military and civilian capacities of the Republic of Serbia in missions and operations of the United Nations and European Union represents an important element of our foreign policy. This makes a concrete contribution to world, European and regional security and respect for international law and states the readiness to enhance mutual confidence and sharing responsibilities when facing security challenges. Pursuant to the Stabilisation and Association Agreement and Negotiation framework, in the period until the accession to the European Union, the Republic of Serbia will continue gradually harmonising its foreign policy to the positions of the European Union, so that in the moment of obtaining membership, it would be fully harmonised with its foreign policy.
+
+In order to develop more modern and efficient system of national security, the Republic of Serbia will analyse and use the good practice of the European Union member states. Also, it will take measures to increase interoperability with security and defence systems of the EU Member States, for the purpose of enhancing its own security capabilities and capacities.
+
+### 4.6. Economic development and overall prosperity
+
+Economic development and overall prosperity of the Republic of Serbia and its citizens will be achieved through accomplishing of the following goals:
+
+– improvement of citizens’ living standard; – economic progress;
+
+– enhancement of education, scientific and technological development; – enhancement of economic and energy security.
+
+Improvement of citizens’ living standard is one of the primary goals of economic growth of the Republic of Serbia. To achieve that goal, conditions will be generated for job creation to reduce unemployment rate and create conditions for reduction of drain of young and educated citizens. In relation to that, through encouraging small and middle sized enterprises and entrepreneurships, the state will strive for the increase in number of employees. To stimulate entrepreneurship and self-employment, administrative and legal procedures are to be simplified, and additional financial incentives and mentor support are to be introduced.
+
+Also, more accessible and higher quality education is to be enabled, along with the adaptation of education to labour market. Direct support for the poor will stimulate making proper efforts for overcoming the poverty, while dignified life is going to be enabled to those who are not in a position to do so. Better road infrastructure is to be provided towards rural areas for the purpose of better connectedness with urban areas.
+
+The Republic of Serbia will carry out activities aimed at increasing availability and quality of health-care, especially in the domain of reproductive health of mothers, health protection of women and support for family planning. Special attention is to be paid to prevention and suppressing contagious diseases, and their elimination and eradication. Also, the level of social protection is to be increased for affected categories of population and activities are to be carried out on the reform of providing services in the field of health and social protection in accordance with ageing trend of the population.
+
+Economic progress is essential for the overall development of the Republic of Serbia. By means of economic reforms programme, economy restructuring is to be done, along with strengthening and diversification of economic growth sources.
+
+All measures will be taken with a view to maintaining macroeconomic stability and improving competitiveness of the economy, which will ensure attraction of investments, and increase in export of goods and services.
+
+Investments in economy and infrastructure will generate conditions for foreign and national investments in economy development. Having in mind dependence on global market developments, and possibility for occurrence of major global crisis, the state will endeavour to protect and maximally reduce the efforts of such developments on national economy.
+
+Revision of industrial policy is to be conducted by adoption of new strategies for priority branches of industry with the greatest potential for development for the purpose of increasing export activity of industrial sector, particularly the branches with higher added value. The introduction of corporate governance in public companies will advance their profitability.
+
+The identification of priorities of economic development will create conditions for an even regional development and restoration of villages. To enable economic progress, the Republic of Serbia will actively cooperate with international financial institution, other states, state credit institutions and creditors, in line with its interests. Long-term economic measures and prioritisation of economic growth will enable gradual reduction of public debt. The Republic of Serbia is committed to regional and global economic integration with provision of a balanced foreign trade balance.
+
+Exceptional significance is attached to the implementation of sustainable development, starting from a position that it is the essential element of global efforts that should enable sustainability of the planet and prosperous future to the generations to come.
+
+Enhancement of education, scientific and technological development represent fundamental preconditions for economic development and overall progress of the Republic of Serbia. In this regard, introduction of dual education, and entrepreneurship modules and contents will enable the adaptability of education to development of economy and labour market. Also, encouraging scientific and research work is going to be enabled, for the purpose of mastering and implementing modern technologies, and improving the reputation and status of scientific and teaching personnel.
+
+To improve education, scientific and technological development, a quality check system is going to be introduced through the application of a uniform education information system. High quality performance evaluation and assessment systems are to be implemented, as well as for
+
+competences advancement, and students’ awarding at pre-university level of education.
+
+The requirement for the change of primary and secondary education model is going to be considered, and for the reinforcement of pedagogic function of primary school. Availability of primary and secondary education to inhabitants of rural areas is going to be increased. Moreover, the availability and quality of preschool education and pedagogy is going to be enhanced, particularly in the sphere of inclusive practice with children from sensitive social groups. In the domain of higher education, the quality and availability is to be enhanced for all population categories.
+
+Possibilities for project financing of the education system is going to be under consideration. Furthermore, a suitable model is to be developed and implemented for the training of population for defence and taking actions in emergencies. Promoting patriotism in the education of the population will increase the efforts to develop a sense of loyalty of the citizens of the Republic of Serbia and their determination to meet security requirements.
+
+Enhancement of economic and energy security is important for economic development and overall progress and security of the Republic of Serbia. The dependence of national economy is to be reduced with concurrent increase in its resilience to global economic disturbances and unpredictability of the world financial system. Economic security will be enabled through the preservation of macroeconomic balance and reduction of social stratification.
+
+The Republic of Serbia advocates for the resolution of all open issues and matters of common interest in economic relations through cooperation and negotiations. Particular attention is to be paid to the prevention of criminalisation of economic activity and protection against economic espionage.
+
+The construction of electro-energy infrastructure and infrastructure for natural gas, petroleum and petroleum derivatives, and further diversification of sources and directions of energy and energy products supply, and establishment of mandatory energy products reserves, enhancement of energy efficiency and increase in capacities for energy and energy products production will enable energy stability, and reliable, safe,
+
+efficient and quality energy and energy products supply of all consumers in the territory of the Republic of Serbia.
+
+In relation to that, the use of alternative and renewable energy resources is to be increased, while measures will be elaborated for a sustainable use of natural resources together with protection of available non-renewable energy resources, and strategic reserves. Moreover, research is going to be conducted on the energy potential of the Sun, wind and waterways to ensure energy stability in different scenarios of climate changes.
+
+To increase energy security, the Republic of Serbia advocates for regional and global energy integration, but it will intensively work with a view to decreasing energy dependence and sustainable price of electric energy. Energy market is to be developed through establishment of an open and connected energy market with regional and European market.
+
+### 4.7. Preservation of the environment and resources of the Republic of Serbia
+
+The preservation of the environment and resources of the Republic of Serbia is carried out through the achievement of the following goals:
+
+– monitoring, assessment and taking measures for mitigation of
+
+climate change effects; – flood and fire protection; – upgrading environmental quality; – efficient hazardous waste management; – enhancement of capabilities and capacities for resources management.
+
+Monitoring, assessment and taking measures for mitigation of climate change effects in the Republic of Serbia is of primary importance for a sustainable development in all the areas of social life. In connection with that, organisational capacities and technical and technological systems are to be upgraded for monitoring the weather, and the assessment of climate and hydrological effects on the territory, biodiversity and population of the Republic of Serbia. In order to mitigate effects of climate change,
+
+preventative measures will be planned and implemented, as well as the measures for elimination of climate change effects.
+
+Flood and fire protection is conditioned by the fact that, because of hydrological changes and effects, a significant increase can be expected in the number of torrential and other floods of great scale, which would result in considerable material damage and loss of human lives. On the basis of conducted analysis, and for the purpose of preventing such effects from happening, it is necessary to intensify building anti-flood constructions, the implementation of preventive measures for protection against fire, and measures for environmental protection of the territory.
+
+Upgrading environmental quality is going to be conducted primarily through enhancement of legal and institutional mechanisms which will enable improving the quality of soil, water resources, atmosphere and biodiversity. The Republic of Serbia is committed to the implementation of norms of the European Union and internationally accepted norms in the field of protection and improvement of environmental quality, and norms for an increase of subventions for the use of technologies that protect the environment.
+
+Efficient hazardous waste management will be incessantly implemented through preventive and operational protection against technical and technological accidents, first of all in reprocessing plants and plants for the production of special use matters and facilities for the storage of hazardous waste. Also, demining of surfaces on land and water contaminated by unexploded ordnance is going to be carried out. A system for complete destruction and elimination of the hazardous waste of all kinds is going to be upgraded, especially of radionuclide content remaining from the previous period, during the exploitation of assets that contained such matters.
+
+Enhancement of capabilities and capacities for resources management is in accordance with the strategic orientation of the Republic of Serbia for the implementation of internationally accepted standards in the field of protection and improvement of environmental quality. In that regard, legal and institutional mechanisms are going to be considerably improved for the protection against permanent disposal of natural resources and goods of general interest, and of the property of the Republic of Serbia, while their sustainable exploitation is to be ensured, and the use and care in conformity with law.
+
+## 5. NATIONAL SECURITY SYSTEM
+
+The national security system represents a normatively, structurally and functionally regulated system whose activity provides the protection and realisation of the national interests of the Republic of Serbia.
+
+The framework of the national security system provides an all-encompassing and harmonised management and action in the execution of work and tasks on prevention, mitigation and neutralisation of challenges, risks and threats to security and elimination of the effects of their manifestation.
+
+### 5.1. Structure of the national security system
+
+The national security system consists of the governing and executive part.
+
+The national security system is managed by the highest holders of legislative and executive power, in accordance with the Constitution, generally accepted rules of international law and ratified international treaties, law and other regulations.
+
+The executive part of the national security system, through its preventive action, efficient response and elimination of the effects of threats to security, ensures preservation of national values and protection and achievement of our national interests.
+
+#### 5.1.1. Governing part of the national security system
+
+The governing part of the national security system creates strategic and doctrinal, normative and legal, organisational, material and other conditions for its functioning. Also, it directs its activities relating to the protection and achievement of our national interests and countering challenges, risks and threats to security.
+
+The governing part of the national security system consists of the National Assembly, president of the Republic, Government and National Security Council.
+
+The National Assembly, as the highest representative body and holder of constitutional and legislative power in the Republic of Serbia, participates in the management of the national security system. It decides on war and peace, declares the state of war and emergencies, decides on the change of borders of the Republic of Serbia, adopts the National Security Strategy of the Republic of Serbia, passes laws and other general documents in the field of national security, oversees the work of the Government and other bodies that report to the National Assembly, in line with the Constitution and law, and it ratifies international agreements. Through responsible boards, it supervises and exercises democratic and civilian control in the national security system.
+
+The president of the Republic expresses the state unity in the management of the national security system, chairs the National Security Council, unifies and directs the functioning of the national security system and commands the Serbian Armed Forces in accordance with the Constitution and law. By means of decrees he promulgates laws and passes acts within his purview in the field of security and defence.
+
+The Government defines and carries out the policy of national security, implements laws and passes regulations and other general documents in the field of security. It guides and harmonises the work of public administration and local self-government, and legal entities in the field of national security in line with the Constitution and law. Also, it provides material and financial means for the requirements of the national
+
+security system and ensures implementation of international treaties and agreements in the field of national security.
+
+The National Security Council represents a body of the Republic of Serbia which reviews the issues in the area of security, defence, internal affairs and work of security services. Also, it overviews and coordinates the mutual cooperation of bodies in charge of defence, bodies in charge of interior affairs and security services and their cooperation with other responsible public bodies, and cooperation with security bodies and agencies of other states and international organizations and it carries out other work and tasks in the field of national security.
+
+#### 5.1.2. Executive part of the national security system
+
+The executive part of the national security system executes the tasks depending on the type and manner of manifestation of challenges, risks and threats to security, through the engagement of: military and police forces, security services, fire-fighting and rescue units, civil protection units, community militia, customs, security services in institutions for execution of criminal sanctions, judiciary guard, services and agencies for protection of persons and facilities, large technical and technological system, economic subjects, other legal entities, associations, entrepreneurs and citizens.
+
+The executive part of the national security system consists of: the defence system, the internal security system, the security and intelligence system and other entities relevant to national security. The structure of the executive part adapts to the nature of challenges, risks and threats.
+
+The defence system is part of the national security system, representing a uniform entity, normatively, structurally and functionally regulated, whose goal is to realise the defence interests of the Republic of Serbia.
+
+Internal security system is part of the national security system responsible for the execution of activities which ensure security of citizens and property, provide support to the rule of law, ensure human and minority rights and freedom defined by the Constitution and law, implement preventive and operational measures and execute tasks of protection and rescue of
+
+people and goods from the effects of natural disasters and other accidents, including measures for recovery from those effects. Apart from the responsible authorities of public administration, the activities of internal security are performed by legal entities, entrepreneurs and physical entities that carry out activities of private security, in line with the law.
+
+Security-Intelligence System is functionally unified segment of the national security system consisting of the Security Information Agency, Military Security Agency and Military Intelligence Agency. Their responsibilities, the purview, mandate, tasks, mutual relations and cooperation, and democratic and civilian control of their work are regulated by law. The work of operational harmonisation of security agencies’ activities is done by the Security Service Coordination Bureau.
+
+Other entities significant for the national security are the bodies of public administration and institutions in charge of foreign affairs, justice, health, demography, human and minority rights, economy, education and scientific work, industry, energy, telecommunications, traffic and transport, infrastructure, environmental protection, culture, and bodies of autonomous provinces and units of local self-government, organisations of civil society, media, legal entities and citizens who contribute to achievement of the national security goals.
+
+### 5.2. Principles of functioning of the national security system
+
+The national security system is under democratic and civilian control, implemented by the National Assembly, the president of the Republic, the Government, other public authorities and the general public, in accordance with the law.
+
+Functioning of the national security system is effected with due regard for fundamental principles: constitutionality and lawfulness, unity, prevention, cooperability, reliability, adaptability, continuity, efficiency, openness in work, professionalism, and control and supervision, in accordance with law.
+
+Constitutionality and lawfulness. Regulations and individual legal documents which regulate the functioning of security system are in accordance with the constitutional provisions, while the elements of managing and executive part of security system perform their responsibilities in accordance with the Constitution and the laws based on it.
+
+Unity. The national security system functions as a unified unit, within which all its elements cooperate, make connections and mutually adjust their actions for the purpose of reaching the common goal.
+
+Prevention. The national security system predicts and pro-actively works on preventing the challenges, risks and threats to security of the Republic of Serbia from occurring.
+
+Cooperability. The national security system is open for cooperation with other actors at national and international level, as required, for the purpose of accomplishing the identified goal.
+
+Reliability. It is certain that the national security system will function without any major problems in peace, state of emergency and war.
+
+Flexibility. The national security system harmonises its functioning with changes in strategic environment.
+
+Continuity. The national security system performs its functions in continuity, in peacetime, emergencies and war, regardless of the circumstances which may occur.
+
+Efficiency. While performing its functions, the national security system makes optimal use of the resources for the intended purpose.
+
+Openness in work. The openness in work of the national security system is enabled to the extent which does not jeopardise the protection of classified information.
+
+Professionalism. The work within the national security system is performed responsibly, conscientiously, ethically, in accordance with the rules of profession and promotion of cooperation in professional relations.
+
+Control and supervision. It has been ensured that the system operates in line with the defined national interests, within the framework of the Constitution and laws.
+
+The specificity of functioning of parts of the national security system is expressed through specific principles established in the normative and doctrinal documents.
+
+## 6. IMPLEMENTATION OF THE NATIONAL SECURITY STRATEGY
+
+A consistent and efficient implementation of the National Security Strategy protects and achieves our national interests, as permanent needs and aspirations of the Republic of Serbia and its citizens.
+
+The implementation of the National Security Strategy is carried out by: citizens, public bodies, bodies of public administration, bodies of autonomous provinces, bodies of local governments, companies and other entities and entrepreneurs, in accordance with the defined rules and obligations and prescribed responsibilities. To implement this Strategy, the Republic of Serbia cooperates with other states and international organisations, in conformity with its own interests.
+
+Positions, orientations and defined measures of the national security policy are carried out by the national security system through coordinated and uniform action of all of its parts.
+
+The ministry in charge of defence issues will produce the proposal for the action plan for the implementation of the National Security Strategy, in accordance with the law. Positions and orientations from this strategy are put into operation by producing and adopting public policy documents, on the basis of the action plan. Furthermore, this ministry will submit to the Government an annual report on the realisation of the action plan for the implementation of the Strategy. The Government of the Republic of Serbia submits a yearly report to the National Security Council and responsible committees of the National Assembly.
+
+The Government will continuously monitor the implementation of the National Security Strategy, and, as required, undertake corrective
+
+measures to ensure the protection and achievement of our national interests and goals. The Government will submit an annual report on its implementation, in accordance with the law.
+
+In order to implement the National Security Strategy, appropriate funding of the national security system will be provided, in accordance with the requirements and possibilities of the Republic of Serbia. The main source of funding for its implementation will be the revenues from the budget.
+
+The Republic of Serbia will continuously analyse, adjust and advance its action in the field of protection and realisation of our national interests and goals and countering challenges, risks and threats to security, in line with the changes in the strategic and security environment.
+
+## CONCLUSION
+
+The National Security Strategy is the highest strategic document which states the basic positions, orientations and measures to be undertaken by the Republic of Serbia in order to protect and fulfil its national interests and preserve basic national values.
+
+The Republic of Serbia protects and pursues its national interests in a complex, ever changing and hardly predictable strategic environment shaped by the activity of a great number of different but interdependent factors. The situation in its strategic environment requires fast adaptation to the emerging changes, pre-emptive and proactive action, as well as a comprehensive response of the state and the society.
+
+The Republic of Serbia faces numerous and significant challenges, risks and threats that jeopardize its security. The majority of risks and threats to its security is of non-military character.
+
+The defined national interests express permanent needs and aspirations of the Republic of Serbia and its citizens. They are based upon universal and national values arising from the Constitution, heritage of the Serbian people and all people living in the Republic of Serbia. By protecting and achieving its national interests, it protects the fundamental national values.
+
+The national security policy is defined in order to preserve national values, and protect and achieve our national interests. It sets guidelines for decision making and action taking by the Republic of Serbia, and it is implemented by undertaking comprehensive and coordinated set of measures in different areas of social life. Implementation of the national security policy, in addition to preserving the national values and protecting and fulfilling our national interests, creates preconditions for a political,
+
+economic, social, cultural and overall social development of the Republic of Serbia.
+
+The preservation of national values and protection and achievement of national interest by means of pursuing the defined national security policy, is the primary role of the national security system. The national security system is a normatively, structurally, functionally regulated system which is composed of a managing and executive part with precisely defined responsibilities.
+
+The National Security Strategy is implemented by the citizens, public authorities and public administration bodies, bodies of autonomous provinces, bodies of local governments, companies and other entities and entrepreneurs, in accordance with the defined rules and obligations and prescribed responsibilities.
+
+Consistent implementation of the National Security Strategy is a precondition for the protection and achievement of our national interests, and it represents a basis for development of other strategic documents and public policy documents. In that regard, the competent public authorities will continuously monitor the implementation of the National Security Strategy and take necessary measures to ensure that it is consistent with the situation and assessments of the security environment.

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation@2024",
+  "name": "A Blueprint for Greece's AI Transformation (National AI Strategy of Greece) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "blueprint-for-greeces-ai-transformation-2024",
+  "owner": "Ministry of Digital Governance & National Cybersecurity Authority of Greece",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "A Blueprint for Greece's AI Transformation (National AI Strategy of Greece)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Digital Governance & National Cybersecurity Authority of Greece (mindigital.gov.gr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Digital Governance & National Cybersecurity Authority of Greece (mindigital.gov.gr).",
+  "license": {
+    "spdx": "LicenseRef-GR-Law2121-Art2",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/8757",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mindigital.gov.gr) is governed by Greek Copyright Law 2121/1993 Art. 2(5) (official texts expressive of authority excluded from copyright) and Law 4727/2020 (Digital Governance and Open Data / PSI reuse).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mindigital.gov.gr) is governed by Greek Copyright Law 2121/1993 Art. 2(5) (official texts expressive of authority excluded from copyright) and Law 4727/2020 (Digital Governance and Open Data / PSI reuse)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ai.gov.gr/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-11-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation@2024 (https://ai.gov.gr/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

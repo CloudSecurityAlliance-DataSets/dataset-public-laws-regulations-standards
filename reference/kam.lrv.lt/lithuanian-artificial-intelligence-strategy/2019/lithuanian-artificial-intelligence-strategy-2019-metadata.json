@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/kam.lrv.lt/lithuanian-artificial-intelligence-strategy@2019",
+  "name": "Lithuanian Artificial Intelligence Strategy: A Vision of the Future (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "lithuanian-artificial-intelligence-strategy-2019",
+  "owner": "Ministry of National Defence of the Republic of Lithuania (KAM)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Lithuanian Artificial Intelligence Strategy: A Vision of the Future",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt).",
+  "license": {
+    "spdx": "LicenseRef-LT-Copyright-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.81676/asr",
+    "note": "Official publication (kam.lrv.lt); Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright).",
+    "notes": "Official publication (kam.lrv.lt); Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eimin.lrv.lt/en/sector-activities/digital-agenda/artificial-intelligence/",
+    "textUsed": "https://wp.oecd.ai/app/uploads/2021/12/Lithuania_Artificial_Intelligence_Strategy_2019.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-04-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 20-page PDF (https://wp.oecd.ai/app/uploads/2021/12/Lithuania_Artificial_Intelligence_Strategy_2019.pdf) locally via PyMuPDF (41,109 chars). Parsed 34 sections (10 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

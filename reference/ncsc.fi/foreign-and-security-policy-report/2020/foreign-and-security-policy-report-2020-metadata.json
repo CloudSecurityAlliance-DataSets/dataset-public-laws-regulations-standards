@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ncsc.fi/foreign-and-security-policy-report@2020",
+  "name": "Government Report on Finnish Foreign and Security Policy (2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "foreign-and-security-policy-report-2020",
+  "owner": "National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Government Report on Finnish Foreign and Security Policy (October 8, 2020, Publications of the Finnish Government 2020:32).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi).",
+  "license": {
+    "spdx": "LicenseRef-FI-Tekijanoikeuslaki-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.finlex.fi/fi/laki/ajantasa/1961/19610404#P9",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.fi) is governed by Finnish Copyright Act (Tekijänoikeuslaki 404/1961) § 9 (laws, decrees, and decisions/statements of public authorities carry no copyright) and Finnish Open Government Data Licence (CC BY 4.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.fi) is governed by Finnish Copyright Act (Tekijänoikeuslaki 404/1961) § 9 (laws, decrees, and decisions/statements of public authorities carry no copyright) and Finnish Open Government Data Licence (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://turvallisuuskomitea.fi/en/comprehensive-security-together-12-the-government-report-on-foreign-and-security-policy/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-10-08",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/ncsc.fi/foreign-and-security-policy-report@2024",
+    "retiredFromActiveUse": "2024-06-20",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ncsc.fi/foreign-and-security-policy-report@2020 (https://turvallisuuskomitea.fi/en/comprehensive-security-together-12-the-government-report-on-foreign-and-security-policy/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

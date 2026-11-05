@@ -1,0 +1,453 @@
+# Lithuanian Artificial Intelligence Strategy: A Vision of the Future (2019)
+
+## A Vision of the Future
+
+„
+
+Artificial intelligence (AI) refers to systems that display
+
+intelligent behavior by analyzing their environment and taking
+
+actions – with some degree of autonomy – to achieve specific
+
+goals.
+
+AI-based systems can be purely software-based, acting
+
+in the virtual world (e.g. voice assistants, image analysis
+
+software, search engines, speech and face recognition
+
+systems) or AI can be embedded in hardware devices (e.g.
+
+advanced robots, autonomous cars, drones, or Internet of
+
+Things applications).
+
+”
+
+4 EXECUTIVE SUMMARY CONTENT
+
+5 INTRODUCTION
+
+6
+
+SUMMARY OF THE AI LANDSCAPE IN LITHUANIA
+
+KEY SECTIONS
+
+8
+
+ETHICAL AND LEGAL CORE PRINCIPLES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE
+
+8
+
+A BREAK DOWN OF LITHUANIA’S POSITION IN THE AI ECOSYSTEM
+
+10
+
+INTEGRATION OF ARTIFICIAL INTELLIGENCE SYSTEMS ACROSS ALL ECONOMIC SECTORS
+
+11
+
+NATIONAL DEVELOPMENT OF SKILLS AND COMPETENCIES NEEDED FOR A FUTURE WITH ARTIFICIAL INTELLIGENCE
+
+14
+
+GROWTH OF ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT
+
+16
+
+A RESPONSIBLE AND EFFICIENT APPROACH TO DATA
+
+19
+
+## EXECUTIVE SUMMARY
+
+The following document constitutes an analysis of Lithuania’s prospective with artificial intelligence systems and presentation of strategic recommendations for government consideration.
+
+In the fall of 2018, a group of experts began meeting with the Ministry of Economy of the Republic of Lithuania to discuss the impact of artificial intelligence technologies. The group, whose purpose is to guide and advise on the contents of this document, consisted of expert representatives from the private sector, public sector and academia (see Appendix A). The Lithuanian Artificial Intelligence Strategy: A Vision of the Future seeks to communicate the current position and future strategic vision of the Republic of Lithuania in regard to artificial intelligence.
+
+The report first begins with an introduction that defines artificial intelligence as a field of computer science. Once the definition is established, there will be an overview of how AI is impacting the global economy, followed by an overview of the current landscape in Lithuania in regard to AI. The landscape presents the strengths and weaknesses of AI in Lithuania, and serves as a base for the establishment of the recommendations contained later in the report. After the introduction, the report moves into the key sections: [1] Ethical and legal core principles for the development and use of artificial intelligence; [2] A break down of Lithuania’s position in the AI ecosystem, [3] Integration of artificial intelligence systems across all economic sectors, [4] National development of skills and competencies needed for a future with artificial intelligence, [5] Growth of Artificial Intelligence Research and Development, [6] A responsible and efficient approach to data. Each section represents a different area the Republic of Lithuania will target in order to accomplish the strategic goal set hereby set forth: and expand
+
+“TO MODERNIZE
+
+## AND EXPAND — THE CURRENT AI — ECOSYSTEM IN — LITHUANIA AND — ENSURE THAT THE — NATION IS READY — FOR A FUTURE WITH — AI.”
+
+The results and findings of this report are represented by a series of strategic recommendations for the government of the Republic of Lithuania. The recommendations are organized in the form of mechanisms, which are specific actions, programs and initiatives. Successful execution of these recommendations will ensure Lithuania utilizes the full economic potential of artificial intelligence systems, while avoiding possible societal pitfalls. Introduction
+
+## INTRODUCTION
+
+DEFINITION
+
+Artificial intelligence (AI) is a diverse field of computer science that is constantly evolving. While any brief description will fail to capture all of the nuances and capabilities of AI, it is important that an agreed upon definition is defined before moving on to any further analysis. For the purposes of this report, we will be using the most recent definition released by the European Commission on AI:
+
+to capitalize on this potential growth. Countries looking to become forerunners in new technology have developed national strategies aimed at promoting the growth of AI.
+
+The European Union is taking initiative with a coordinated plan on AI that was released in December of 2018. The main goal of the plan is “for Europe to become the world-leading region for developing and deploying cutting-edge, ethical and secure AI, promoting a human-centric
+
+approach in the global context.” The member states taking the lead on this currently include France, Finland, Sweden and Germany. Each strategy takes a different approach when targeting AI policy with focus on scientific research, talent development, skills and education, public and private sector adoption, ethics and inclusion, standards and regulations, and data and digital infrastructure. Furthermore the EU High-Level Expert Group on Artificial Intelligence is publishing AI ethics guidance document that will include recommendations on how member states and create trustworthy AI with a human-centric approach. The draft for this document was published in December of 2018 with the finalization happening in March of 2019. Stakeholders and member states are encouraged to voluntarily endorse the guidelines and they should serve as starting point for the discussion for ethical AI.
+
+“ARTIFICIAL INTELLIGENCE (AI) REFERS TO SYSTEMS THAT DIS  PLAY INTELLIGENT BEHAVIOR BY ANALYZING THEIR ENVIRON  MENT AND TAKING ACTIONS – WITH SOME DEGREE OF AUTONO  MY – TO ACHIEVE SPECIFIC GOALS. “AI-BASED SYSTEMS CAN BE PURELY SOFTWARE-BASED, ACTING IN THE VIRTUAL WORLD (E.G. VOICE ASSISTANTS, IMAGE ANALY  SIS SOFTWARE, SEARCH ENGINES, SPEECH AND FACE RECOGNI  TION SYSTEMS) OR AI CAN BE EMBEDDED IN HARDWARE DEVIC  ES (E.G. ADVANCED ROBOTS, AUTONOMOUS CARS, DRONES, OR INTERNET OF THINGS APPLICATIONS).”
+
+This definition is not meant to be a complete representation of artificial intelligence. Rather, it will be used as a launching point to base the ideas of this report off of.
+
+GLOBAL IMPACT OF AI
+
+If current growth trends continue, artificial intelligence has the potential to become one of the main contributors to global economic growth. According to the “Artificial Intelligence is the future of growth” report done by Accenture, AI can help double annual economic growth rates, boost labor productivity, and shorten the timeline to growth with various degrees of effectiveness for most countries. Global economies are looking
+
+Lithuania is also ready to move forward with it’s own strategic plan for the future of artificial intelligence. In the fall of 2018, a group of private and public sector representatives began meeting with the Ministry of Economy and Innovation in Lithuania to discuss the current AI landscape and discuss plans for the way forward. The group consists of industry leaders, academic experts and government representatives, all with knowledge on the Lithuanian AI ecosystem. A Landscape Report released by the group in November of 2018 highlights both the key areas where Lithuania is successful in AI and where there is room for growth. The group is responsible for reviewing and approving the strategic guidelines and recommendations in this report.
+
+## SUMMARY OF THE AI LANDSCAPE IN LITHUANIA
+
+This section highlights some of the key findings of the analysis done for the Landscape Report in order to create understanding of the current situation of AI in Lithuania. The Landscape Report is separated into 4 parts: Academic Ecosystem, Industry, Financial and Community. Each part showed a set of strengths and challenges and is used as evidence for the development of the ideas.
+
+## ACADEMIC:
+
+In 2017, Information and Communications Technology (ICT) programs in universities were the fourth most popular choice for students, showing that there is significant interest from students in Lithuania to pursue technology as a field of study. The main institutions leading the charge on AI research and development are Vilnius University, Vytautas Magnus University and Kaunas University of Technology. Where AI is concerned, the areas of focus are deep learning, data mining, natural language processing, game development, computer vision and robotics. While there are no unique bachelors, masters or PhD program for artificial intelligence, relevant coursework is deeply integrated into the computer science majors. Another obstacle is the lack of the sophisticated hardware needed for students to conduct research in AI systems.
+
+## INDUSTRY:
+
+The industry portion mainly focused on the artificial intelligence industry itself. In total, there were 39 SMEs engaged in AI product research and delivery. 89% of these were engaged in B2B product delivery. There is a significant amount of companies originating in Lithuania, as well as international companies with offices in the country engaged in AI systems development. The SMEs are developing products that cover a wide range of industries: Development & IT, Internal Data and Intel, Security, Human Resources, IOT, Computer Vision, Research, Language Processing, AR/VR, Analytics and Insights, Advanced Targeting, Agriculture, Medical Imaging and Biometrics.
+
+## FINANCIAL:
+
+There are a few channels for receiving financial investment for AI projects and startups. In the period between 2015 and 2018, public sector investment in AI was more significant than private sector with a total of EUR 26.5 million and EUR 3.2 million respectively. In total 39 different AI projects received funding from Ministry of Economy and Innovation initiatives, totaling EUR 12.5 million since 2016. When combined with private capital brought in, the total value of projects for the last three years was over EUR 20 million. Almost all of the submitted projects that were approved received funding greater than or equal to 50 percent of the total value of the project. AI academic research projects also received EUR 6.5 million under the Ministry of Education and Science. Private investment came primarily from venture capital firms with varying origins including Lithuania, United States, France and Russia.
+
+## COMMUNITY:
+
+Lithuania has an active artificial intelligence community with a handful of regular events and meetups bringing together the professionals working the field. Around 1000-1500 people are attending these events, with 300-500 active working professionals.
+
+## KEY SECTIONS
+
+The focus of Lithuanian national strategic plan for artificial intelligence is split into six key sections: [1] Ethical and legal core principles for the development and use of artificial intelligence; [2] A break down of Lithuania’s position in the AI ecosystem, [3] Integration of artificial intelligence systems across all economic sectors, [4] National development of skills and competencies needed for a future with artificial intelligence, [5] Growth of Artificial Intelligence Research and Development, [6] A responsible and efficient approach to data.
+
+## [1] ETHICAL AND LEGAL CORE PRINCIPLES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE
+
+Having the capability to generate tremendous benefits for individuals and society, AI also gives rise to certain risks that should be properly managed. Given that, on the whole, AI’s benefits outweigh its risks, we must ensure to follow the road that maximizes the benefits of AI while minimizing its risks. To ensure that we stay on the right track, a human-centric approach to AI is needed. Trustworthy AI has two components: (1) ethical purpose -it should respect fundamental rights, applicable regulation and core principles and values and (2) it should be technically robust and reliable since, even with good intentions, a lack of technological mastery can cause unintentional harm.
+
+This Document therefore sets out a framework of core strategically principles and main mechanisms for further ethical and legal regulation for the development and use of Trustworthy AI in Lithuania:
+
+POLICY RECOMMENDATIONS:
+
+## 1. PRINCIPLE TO ADVICE THE PUBLIC SECTOR ON ETHICAL AI REGULATION AND
+
+IMPLEMENTATION.
+
+Mechanism: Establish AI ethics committee that reviews impact of technology on fundamental rights.
+
+The committee should include representatives from academia, government, industry and NGO sector.
+
+The committee should provide (independently created) short and long-term analysis
+
+and recommendations. These recommendations should be used to create and update existing ethical standards in Lithuania.
+
+The committee should foster the development of AI-related skills in the public administration.
+
+Mechanism: Develop feedback mechanisms for societal input on regulations created by the public administration.
+
+Mechanism: Government should recognize citizens’ “understanding of AI as a new civic skill.”
+
+## 2. PRINCIPLE TO ESTABLISH TRUST IN THE RULES, LAWS AND NORMS THAT GOVERNS
+
+AI.
+
+It should be noted that currently there still is ethical and legal vacuum in Lithuania, but there is no legal vacuum in Europe, as Europe already has some regulation in place that applies to AI.
+
+Mechanism: Lithuania needs to develop rules, standards, guidelines, norms and ethics principles in order to guide ethical and sustainable development of AI and use of AI.
+
+Mechanism: Lithuania needs to work for Lithuanian, European and international standards and regulations that promote the use of AI and prevent risks.
+
+Mechanism: As advances bring greater linkages between humans and AI systems, Lithuania needs to establish governing principles and policies for the study of best practices for design, construction, and use, including proper operator training for safe operation.
+
+Mechanism: Lithuania needs additional investments to advance AI safety and security, including explainability and transparency, trust, verification and validation, security against attacks, and long-term AI safety and value-alignment.
+
+3. PRINCIPLE TO ENCOURAGE TRANSPARENCY AND FAIRNESS IN AI APPLICATIONS.
+
+AI applications should be ethical, safe, reliable and transparent. Achieving effective interactions between humans and AI systems requires additional R&D to ensure that the system design and the use of data does not lead to excessive complexity, undertrust, or overtrust. The familiarity of citizens with the AI systems can be increased in many ways, to ensure that the human has a good understanding of the AI system’s capabilities and what the AI system can and cannot do. To address these concerns, certain human-centered mechanism should be improved.
+
+Mechanism: Support research to minimize bias in AI systems.
+
+Mechanism: Create quality marks for relevant companies that abide by standards set forth by AI ethics committee. Publish results publicly.
+
+Mechanism: Facilitate the creation of a national interdisciplinary center on AI to promote discussions surrounding the ethics of AI.
+
+Mechanism: Many algorithms, including those based on deep learning, are opaque to users; thus, Lithuania needs to establish the safeguarding mechanism that researchers would develop systems that are transparent, and intrinsically capable of explaining the reasons for their results to users.
+
+4. PRINCIPLE TO ENCOURAGE ETHICS BY DESIGN.
+
+Mechanism: Encourage schools at the high school level to discuss ethical implications of technology.
+
+Mechanism: Encourage universities to develop courses on the ethical implications of technology for as many disciplines as possible. Ethical education must constitute integral part of higher technical and non-technical education in AI and related programs of universities and colleges.
+
+Mechanism: Request University IT and engineering programs to take a course on the ethics of technology.
+
+Mechanism: Facilitate society-wide discussion of AI and its ethical implications.
+
+Mechanism: Develop mediation capabilities to support vulnerable populations.
+
+Mechanism: Actively work with the principles on data infrastructure to ensure protection of privacy and security.
+
+## [2] A BREAK DOWN OF LITHUANIA’S POSITION IN THE
+
+AI ECOSYSTEM.
+
+This section seeks to strengthen Lithuania’s national and international AI network through two different cross-sections: conception of place and division of sector.
+
+THE NATIONAL AND INTERNATIONAL AI NETWORK CAN BE CONCEPTUALIZED THROUGH 6 LEVELS OF PLACE:
+
+LITHUANIA – The innermost network consists of two central hubs: Vilnius and Kaunas. Regional cities constitute network nodes. This layer seeks to encourage the existing AI ecosystem and promote future growth. This could be done by supporting new AI applications, promote existing applications, and the sharing of knowledge (ex: AI meetups, conferences, online portal with a list of relevant companies).
+
+GLOBAL LITHUANIA – The second innermost network seeks to strengthen ties with AI experts in Lithuania’s diaspora. Global Lithuania is drawn out as a separate layer to highlight Lithuania’s relatively unique diaspora positioning (especially considering its history, size and activism in Lithuania). This layer seeks to identify AI experts in the diaspora, to create and maintain a registrar of diaspora AI expert’s contacts, and to facilitate the transfer of knowledge and competence. This transfer of knowledge and competence can occur indirectly (ex: highlighting success stories to build trust, attract new investors) and directly (ex: inviting individuals to participate as advisors on AI related committees).
+
+BALTIC REGION – The third innermost network aims to develop and maintain relationships with Lithuania’s neighbors: Latvia and Estonia. This layer highlights the countries’ shared modern history and geopolitical situation. The network could be strengthened through pan-Baltic initiatives. Such initiatives could also help promote the region’s shared values on a global stage.
+
+NORDIC-BALTIC REGION – The first outermost network positions Lithuania with its extended neighbors. This network can similarly be strengthened through more shared initiatives and transfer of knowledge.
+
+EUROPEAN UNION – The second outermost network identifies Lithuania within the European Union framework and legislation.
+
+GLOBAL – The third outermost network frames Lithuania within a global context. Lithuania seeks to take an active role in the global artificial intelligence community. This could include organizing an international AI conference, encouraging international companies to open initiatives (such as labs) in Lithuania, encouraging local AI experts to participate in international AI conferences, and so forth.
+
+THE NATIONAL AND INTERNATIONAL AI NETWORK CAN BE CONCEPTUALIZED THROUGH 5 SECTORS:
+
+• Academia • Public sector • Private sector • NGO • Independent AI enthusiasts
+
+## [3] INTEGRATION OF ARTIFICIAL INTELLIGENCE
+
+SYSTEMS ACROSS ALL ECONOMIC SECTORS.
+
+A simulation done by McKinsey Global Institute showed that AI has the potential to deliver a global economic impact of an estimated $13 trillion by 2030. The adoption of AI systems can be broken down further into sections for the private and public sector.
+
+PRIVATE SECTOR The private sector has long been the leader in the adoption of innovative technologies. The benefits of AI for business are apparent: greater work productivity, optimization of logistics, automation of routine processes, faster business decisions and more accurate consumer market prediction. By 2020 businesses that currently use or are planning to use AI systems anticipate a 39% increase in revenue, on average. This metric alone is ensures that a large percentage of businesses, both small and large, will attempt to integrate AI systems into their operational structure in part or fully.
+
+The implementation of AI systems in businesses can present unique challenges. There is a chance of high entry costs, especially for businesses that do not have the significant digital infrastructure needed as foundation for AI integration. Despite this, businesses that build toward integrating AI systems as
+
+early as possible have a unique advantage to late comers: a greater assurance that future value will outweigh initial cost. This is due to the fact that front-runners in adoption of technological innovation have historically benefited more than those who adopt later.
+
+PUBLIC SECTOR Artificial intelligence systems promise a unique set of advantages for the public sector. Creative use of AI can lift a country’s citizen’s well being. Some examples of public oriented projects include:
+
+1. Crime prediction: AI models can be used to discover high risk areas for crime in cities so law enforcement is better adept at servicing the population. 2. Better services for citizens: Intelligent virtual assistants can better serve citizens. 3. AI for public institutions: Internal government workflow can be optimized using intelligent systems.
+
+The biggest obstacles to greater implementation of AI systems in the public sectors are the barriers to innovation. Public institutions are slower to adopt new technologies due to either a lack of proper funding or a slow bureaucratic procedures. In order to ensure the best quality of life for citizens in the digital age, the public sector will need to adopt a culture of innovation, especially in regard to AI.
+
+LITHUANIA ECONOMIC BREAKDOWN In regard to artificial intelligence, Lithuania has a unique position in the global economy. According the McKinsey report, Lithuania falls within the “economies with moderate foundations” country group. This means that even though the country has a weaker starting position than countries in the higher ranked groups, the potential for AI to have economic impact is there. Therefore, in order to take full advantage of the opportunities presented by artificial intelligence, Lithuania must work off of its current foundation and strive to be a future leader.
+
+AI growth in Lithuania should be targeted in the key sectors that need it the most. These sectors are identified based off of two factors: importance to the Lithuanian economy and potential for AI to have a significant impact in the sector.
+
+## MANUFACTURING:
+
+Manufacturing is the largest sector of the Lithuanian economy, generating 20,4% of the country’s GDP. The biggest challenges faced by the Lithuanian manufacturing sector are the low levels of labor productivity. Artificial intelligence systems can mitigate these challenges by automating routine tasks. Together with intelligent robotics systems, the manufacturing sector looks to reap some of the biggest benefits from AI. Incentivizing the integration of AI systems now will help the Lithuanian manufacturing sector remain competitive in the regional and global markets.
+
+## AGRICULTURE:
+
+An area that is often slow to technological advancement, agriculture plays a vital role in the Lithuanian economy. There are many examples of AI being used successfully in agriculture including: robotic automation of crop harvesting, intelligent analysis of soil conditions and prediction of weather patterns and crop sustainability. Sector leaders in agriculture need to be made aware of the potential of AI so they can learn how it can benefit their operation and apply accordingly.
+
+## HEALTHCARE:
+
+The recent adoption of a national Electronic Health Record system has helped modernize the healthcare system in Lithuania. An aging population ensures care providers have a growing number of patients assigned to them, causing an
+
+increase in the amount of paperwork they need to do and a decrease in the amount of time they can spend with their patient. AI systems can be used to optimize visits and shorten the time needed to spend on documentation, allowing providers to have more face-to-face time with their patients. Both the adoption of currently available AI systems into healthcare processes and the creation of new ones should be promoted if Lithuania seeks to improve the wellbeing of its citizens.
+
+## TRANSPORTATION:
+
+Transportation, especially logistics, is vital to the interworking of the Lithuanian economy. AI systems can automate traffic control and reduce travel times. The widespread use of autonomous vehicles has the potential to significantly alter
+
+the logistical dynamics in the country. Lithuania should look to be an early adopter of this by participating in EU initiatives like the 5G cross-border corridors for testing automated mobility. This will allow the nation to build experience in autonomous vehicles and prepare for risk mitigation and future policy changes.
+
+## ENERGY:
+
+The energy sector should utilize AI systems to create more efficient methods for delivering power. With a more efficient approach to power distribution, Lithuania can increase sustainability and become less dependent on foreign sources of energy.
+
+## POLICY RECOMMENDATIONS:
+
+PRINCIPLE 1 TO INCREASE THE USE OF AI SYSTEMS IN THE PRIVATE SECTOR.
+
+Mechanism: Analyze the potential for AI research and development in one of the existing Digital Innovation Hubs in Lithuania.
+
+Mechanism: Incentivize companies that are forerunners of their sectors for AI implementation. Companies can be granted an AI Badge that will publically position them as leaders in the field.
+
+Mechanism: Establish a platform where industry leaders can communicate innovative uses of AI systems in their business.
+
+Mechanism: Encourage AI startups by creating a Lithuanian AI startup hub.
+
+PRINCIPLE 2 TO INCREASE THE USE OF AI SYSTEMS IN THE PUBLIC SECTOR.
+
+Mechanism: Create a culture of innovation in the public sector that promotes AI solutions to be developed and tested.
+
+Mechanism: Create a regulatory sandbox that will allow the use and testing of AI systems in the public sector for a limited time frame. This will allow the developers to test out there product in a live environment and allow the public sector to determine what solutions can be integrated.
+
+Mechanism: Assist public institutions in implementing AI systems that help benefit citizens and improve workflow.
+
+Mechanism: Establish a Lithuanian Artificial Intelligence Advisory Board that will assist government in decisions on future AI policy. The board can be split into national and international levels.
+
+Mechanism: Create public-partnerships that create better conditions for development of AI systems.
+
+## PRINCIPLE 3 TO TARGET KEY ECONOMIC SECTORS THAT WILL BENEFIT THE MOST
+
+FROM ARTIFICIAL INTELLIGENCE SYSTEMS ADOPTION.
+
+Mechanism: Develop individual approaches for AI innovation in the Manufacturing, Agriculture, Healthcare, Transportation, and Energy sectors.
+
+Mechanism: Research into other sectors of industry in which the adoption of AI systems can create the most benefit.
+
+## [4] NATIONAL DEVELOPMENT OF SKILLS AND COMPETENCIES NEEDED FOR A FUTURE WITH ARTIFICIAL INTELLIGENCE
+
+In an era where the requirements to enter the job market are constantly shifting, a greater aptitude for continuous learning is needed. Widespread application of AI systems presents a serious dilemma for the labor force: the robotization and automation of work tasks traditionally considered to require human input. As AI becomes more developed, cheaper to produce and easier to implement, more companies will have to integrate AI systems in order to remain competitive. This will undoubtedly lead to a shift in the job market and a decrease in the availability of routine non-creative job tasks. Some job markets are at greater risk than others, especially service, sales and construction. According to the Automation, skills use and training report done by OECD, in Lithuania the work tasks of the median laborer have a 57% chance of being automated. This positions Lithuania as the second most country with the highest chance of job automation, behind only the Slovak Republic. To prepare citizens, a three-point approach should be implemented to target technical skill development in school children, students in higher education and those currently employed.
+
+The adaptation to the shift in labor markets should start with reevaluating the curriculum currently being taught at schools. A greater emphasis needs to be placed on teaching the technical skills needed for a future where most work is augmented with AI. This is especially true for Lithuania’s regional districts, which need greater educational support than city centers in regard to new technologies. These are also the areas where the labor market is composed of jobs that are most susceptible to automation as the majority of the regional economy is based on manufacturing. The exploration of
+
+STEM fields should be encouraged for students to develop a positive relationship with technology.
+
+The second point to target is higher education. Rather than replacing the current academic structure, more emphasis should be made on supplemental course work that teaches AI and technologies for students in programs that do not traditionally require it. Studies in fields that have a high risk of automation and change should have classes that teach the fundamental skills needed to adapt their workflow to meet the demands of AI.
+
+The current labor force also needs to have the tools needed to succeed in a future with AI. Opportunities for vocational training need to be created, prioritizing those with jobs and occupations that have the greatest risk of automation. The focus should be on how to augment and optimize current work with AI, rather than re-training for a different occupation. This will allow the current labor force to remain relevant, as the new generation prepares for work with AI. Leadership should communicate the positives of AI and the potential for increase of productivity and time for tasks that require critical thinking, rather than the possibility of job loss.
+
+POLICY RECOMMENDATIONS:
+
+## PRINCIPLE 1 TO DEVELOP THE SKILLS NEEDED FOR A FUTURE WITH AI FROM THE
+
+BEGINNING OF EDUCATION.
+
+Mechanism: A public-private partnership where school children are taken to businesses that are creating innovative AI products to be shown the new technologies being worked on.
+
+Mechanism: Create classwork for children that will have AI basics as a learning objective.
+
+Mechanism: Focus on a development of technical skills for school children in Lithuania’s regional districts.
+
+Mechanism: Modernize the teaching of STEM subjects, especially mathematics.
+
+Mechanism: Train a new generation of teachers to both have high technical competencies themselves and the ability to instruct students on how to use new technologies.
+
+## PRINCIPLE 2 TO PROVIDE STUDENTS IN HIGHER EDUCATION LEARNING
+
+OPPORTUNITIES FOR AI.
+
+Mechanism: A semester course in university that teaches AI basics and how they can be applied in students chosen field of study.
+
+Mechanism: Identification of areas of study that lead to jobs with high risk of automation. Creation of supplemental coursework for these areas that teaches positive ways their work can be augmented with AI.
+
+## PRINCIPLE 3 TO ENSURE THE CURRENT LABOR FORCE HAS THE COMPETENCIES
+
+NEEDED FOR A SHIFTING JOB MARKET.
+
+Mechanism: Creation of vocational training programs in artificial intelligence and other emerging technologies. Prioritization should be on developing programs for occupations with the highest number of employees at risk of having job tasks automated.
+
+Mechanism: Creation of a massively accessible online training program in artificial intelligence that will teach citizens the basics of AI, as well as communicate the impact that it will have on the future.
+
+## [5] GROWTH OF ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT
+
+Sustainable growth of artificial intelligence systems requires an infrastructure of related research and development (R&D). In recent years, countries that have invested the most in AI R&D have emerged as global leaders. High levels of R&D growth can be accomplished in two distinct ways: significant private investment into AI R&D in countries that have large technology companies, such as the United States, or direct government investment, in the case of China and the European Union. In the EU, France has committed a EUR 1.5 billion plan to stimulate the AI ecosystem, with the bulk of the investment going to AI research. However, this is dwarfed by the Chinese government’s New Generation of Artificial Intelligence Development plan that looks to invest US$150 billion in the next few years. Smaller states do not have the resources to match this level of investment, which is why it is important for them to tailor individual strategies that are more focused and work for them.
+
+Research and development needs to be targeted toward artificial intelligence on a national level, if Lithuania seeks to be a leader in AI. A well-outlined and structured program will help to draw international talent, as well as help retain Lithuania’s research leaders in AI. Since 2016, the Lithuanian government financed EUR 12.5 million worth of projects in artificial intelligence systems, which were for private sector organizations creating innovative solutions. In addition, academic research projects in artificial intelligence received EUR 6.5 million. While investment is significant, it is unstructured and relies on existing initiatives for innovation financing. If Lithuania seeks to remain competitive in the global market for AI research, the government a strategically organized plan for financing AI R&D that is both direct in approach and encompassing in scope.
+
+Currently, all research done in Lithuania is linked together in the Lithuanian Roadmap for Research Infrastructures. The roadmap highlights research infrastructure in the areas of Social Sciences and Humanities, Biomedical Sciences, Environment Sciences, Energy, Materials and Analysis Centers, Physical and Technology Sciences and E-Infrastructures. While Lithuania has research centers for technically relevant areas like chemistry (Centre of Innovative Chemistry [INOCHEMAS]), high-performance computing (Lithuanian Grid Infrastructure for High-Performance Computing [LitGrid- HPC]) and mechatronics (Research Infrastructure of Mechatronics [Mechatronika]), there is no center
+
+that focuses primarily on AI. Other countries, such as Czech Republic, Demark, France, Germany, Ireland, Netherlands, Sweden, Switzerland and the United Kingdom have dedicated AI research centers working with the latest technologies. In order to remain relevant in the global AI community, Lithuania must consider the possibility of financing a center or hub for AI research.
+
+POLICY RECOMMENDATIONS:
+
+## PRINCIPLE 1 TO CREATE A LEVEL OF EXCELLENCE IN RESEARCH AND DEVELOPMENT
+
+FOR ARTIFICIAL INTELLIGENCE SYSTEMS.
+
+Mechanism: Create a dedicated artificial intelligence research-funding program that focuses on the key elements outlined in this report.
+
+Mechanism: Meet the standards set out by the European Commission of increasing funding into AI research and development projects by 70% by the end of 2020.
+
+Mechanism: Establish a national AI research center.
+
+Mechanism: Analyze the ability for one of Lithuania’s Digital Innovation Hubs (DIH) to be a leader in research of innovative AI systems.
+
+Mechanism: Integrate AI research and development funding into the Smart Specialization 2020 Investment Plan.
+
+## PRINCIPLE 2 TO CREATE A HIGH-LEVEL EDUCATIONAL ENVIRONMENT THAT WILL
+
+ENCOURAGE CONTINUED RESEARCH IN AI.
+
+Mechanism: Create an AI Fast Track online portal for prospective students that will list all of the university programs that focus on AI.
+
+Mechanism: Plan the first ever Lithuanian masters program that will focus on AI systems as the main topic of study.
+
+Mechanism: Fund academic PhD research in artificial intelligence systems.
+
+Mechanism: Increase funding for university hardware required for artificial intelligence research. Work with universities to present a cost-benefit analysis of funding the purchase of hardware in a physical space, or using cloud-based services.
+
+Mechanism: Refocus current IT programs in Lithuania’s universities. Modernize the qualifications needed to pursue an academic career in IT related subjects.
+
+Mechanism: Promote joint research in AI between private organizations and public educational institutions.
+
+## [6] A RESPONSIBLE AND EFFICIENT APPROACH TO DATA
+
+Greater accessibility to data is one of the key driving factors of the artificial intelligence expansion in recent years. AI methodologies like deep learning, natural language processing and data mining require large data sets in order to develop working products. The bigger and more complete the data set upon which an AI system is being tested, the more reliable the final product. Data serves as the foundation upon which artificial intelligence systems can be built.
+
+AI requires that data is not only accessible, but also of high quality. The higher the quality of the data set, the more precise the AI system will be. Unfortunately, it is often the case, that public data that is collected by different administrations is fragmented with limited accessibility. While the private sector has the ability to set their own individual standards based on business needs, the public sector will need to adopt a unified approach to data management that is favorable for use in AI systems. This can be accomplished by introducing the data maturity model to the public sector and ensuring that all institutions strive to better their data management.
+
+The Lithuanian government has initiatives aimed at creating an open data ecosystem in the public sector. An online portal Opendata.gov.lt exists where users may upload data; however, the lack of data literacy limits usability. 91% of data is uploaded in a closed format, and up to 64% data sets uploaded are single purpose and not regularly updated. Furthermore, the portal does not guarantee that any data will be uploaded, as it is up to administration at public organizations to determine when and what data will be uploaded. Some public institutions have their own separate open data portals, which creates a disconnect and a lack of centralization. This makes it difficult to monitor if data is being provided correctly, as well as complicating the process for accessing the data. A centralized hub for data administration in the public sector would unify Lithuania’s approach to data and promote more involvement from the public sector in the open data ecosystem. The hub will create standards for data literacy that will ensure data is managed correctly.
+
+POLICY RECOMMENDATIONS:
+
+## 1 PRINCIPLE TO CREATE A STABLE AND AI-FRIENDLY DATA ENVIRONMENT, WITH
+
+FOCUS ON THE PUBLIC SECTOR.
+
+Mechanism: Sandbox environments that will open up public sector data for the development of artificial intelligence tools. The purpose of the sandbox is to provide individuals and organizations that are seeking to develop AI systems access to public data.
+
+Mechanism: Establish funding for a public sector data team that will oversee the open data initiatives. The data team will have certain key tasks including:
+
+• Enforcing standards of data management.
+
+• Creating an environment for AI systems development.
+
+• Educating institutions with a focus on data literacy.
+
+Mechanism: Data scientists and experts need to work together with Lithuania’s current data team in order to create a model for data management. The model will serve as a basis for revisions to current data infrastructure and future updates.
+
+## 2 PRINCIPLE TO ENSURE THAT LITHUANIA’S DATA MEETS INTERNATIONAL
+
+STANDARD REQUIREMENTS.
+
+Mechanism: Ensure research data used for AI systems meets the requirements of the European Union’s FAIR Data Management in Horizon 2020 project. This will enable research data to be “findable, accessible, interoperable and reusable (FAIR)”.
+
+Mechanism: Ensure that private and public entities using data for AI development purposes comply with the European Union’s General Data Protection Regulation (GDPR).
+
+## AI THINK TANK CONTRIBUTORS
+
+Elijus Čivilis – Viceministras - Ekonomikos ir Inovacijų Ministerija
+
+Gintaras Vilda - Viceministras - Ekonomikos ir Inovacijų Ministerija
+
+Vaidas Gricius - Departamento direktorius - Ekonomikos ir Inovacijų Ministerija
+
+Paulius Vertelka – Direktorius - INFOBALT
+
+Darius Amilevičius, dr. - Intelektualių sistemų laboratorijos vadovas – Vytauto Didžiojo
+
+Universitetas, Informatikos fakultetas
+
+Gediminas Peksys – CEO - Oxipit Lt, UAB
+
+Tomas Dirvonskas – CEO – Lemon Labs Lt, UAB
+
+Tomas Krilavičius - Informatikos fakulteto profesorius - Vytauto Didžiojo Universitetas
+
+Audrius Zujus – CTO - BPTI
+
+Tomas Zalandauskas – CEO - BPTI
+
+Mindaugas Eglinskas – CEO - Pixevia Lt, UAB
+
+Vilius Kontrimas – Directorius - Advantes Technologies Lt, UAB
+
+Giedrius Karauskas - Verslo vystymo vadovas – Tilde informacinės technologijos, UAB
+
+Aleksas Pielikis - Programinės įrangos inžinierius - Neurotechnology Lt, UAB
+
+Renaldas Zioma - Programinės įrangos inžinierius - Unity Lt, UAB
+
+Saulė Petraitytė - Kurk Lietuvai
+
+Markas Mongirdas – Kurk Lietuvai
+
+Aistė Zalepugaitė – Kurk Lietuvai
+
+Arūnė Matelytė – Kurk Lietuvai

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cncs.gov.pt/ai-portugal-2030@2026",
+  "name": "AI Portugal 2030 & National Artificial Intelligence Agenda (Estratégia Nacional de Inteligência Artificial) (2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026",
+  "publication_id": "ai-portugal-2030-2026",
+  "owner": "National Cybersecurity Centre (CNCS) & Government of Portugal",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "AI Portugal 2030 & National Artificial Intelligence Agenda (Estratégia Nacional de Inteligência Artificial)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Centre (CNCS) & Government of Portugal (cncs.gov.pt).",
+  "license": {
+    "spdx": "LicenseRef-PT-CDADC-Art8-1",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gov.pt) is governed by Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 8.º(1) read with Art. 3.º(1)(c) (compiled or annotated official public texts and public speeches/reports not protected by copyright beyond the compiler's annotations).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gov.pt) is governed by Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 8.º(1) read with Art. 3.º(1)(c) (compiled or annotated official public texts and public speeches/reports not protected by copyright beyond the compiler's annotations)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.portugal.gov.pt/pt/gc21/comunicacao/documento?i=estrategia-nacional-de-inteligencia-artificial",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-01-01",
+    "active": true,
+    "supersedes": "secid:reference/cncs.gov.pt/ai-portugal-2030@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cncs.gov.pt/ai-portugal-2030@2026 (https://www.portugal.gov.pt/pt/gc21/comunicacao/documento?i=estrategia-nacional-de-inteligencia-artificial) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

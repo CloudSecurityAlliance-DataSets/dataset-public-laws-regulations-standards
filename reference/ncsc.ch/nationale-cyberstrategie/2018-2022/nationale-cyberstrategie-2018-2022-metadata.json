@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/ncsc.ch/nationale-cyberstrategie@2018-2022",
+  "name": "Nationale Strategie zum Schutz der Schweiz vor Cyber-Risiken (NCS) 2018-2022",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018-2022",
+  "publication_id": "nationale-cyberstrategie-2018-2022",
+  "owner": "Federal Office for Cyber Security (FOCS / BACS) / National Cyber Security Centre (NCSC)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Strategy for the Protection of Switzerland against Cyber Risks (NCS) 2018-2022 (adopted April 18, 2018).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Federal Office for Cyber Security (FOCS / BACS) / National Cyber Security Centre (NCSC) (ncsc.ch) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Federal Office for Cyber Security (FOCS / BACS) / National Cyber Security Centre (NCSC) (ncsc.ch).",
+  "license": {
+    "spdx": "LicenseRef-CH-URG-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/en",
+    "note": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection).",
+    "notes": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bacs.admin.ch/dam/de/sd-web/CiKJGrzXNyJ7/Nationale_Strategie_Schutz_Schweiz_vor_Cyber-Risiken_NCS_2018-22_DE.pdf",
+    "textUsed": "https://www.bacs.admin.ch/dam/de/sd-web/CiKJGrzXNyJ7/Nationale_Strategie_Schutz_Schweiz_vor_Cyber-Risiken_NCS_2018-22_DE.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-04-18",
+    "active": false,
+    "supersedes": "secid:reference/ncsc.ch/nationale-cyberstrategie@2012-2017",
+    "supersededBy": "secid:reference/ncsc.ch/nationale-cyberstrategie@2023-2027",
+    "retiredFromActiveUse": "2023-04-13",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 33-page PDF (https://www.bacs.admin.ch/dam/de/sd-web/CiKJGrzXNyJ7/Nationale_Strategie_Schutz_Schweiz_vor_Cyber-Risiken_NCS_2018-22_DE.pdf) locally via PyMuPDF (92,820 chars). Parsed 36 sections (34 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

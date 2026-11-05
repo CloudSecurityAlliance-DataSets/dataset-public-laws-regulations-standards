@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/bka.gv.at/aim-at-2030@2021",
+  "name": "Artificial Intelligence Mission Austria 2030 (AIM AT 2030) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "aim-at-2030-2021",
+  "owner": "Federal Chancellery of the Republic of Austria (Bundeskanzleramt)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Artificial Intelligence Mission Austria 2030 (AIM AT 2030)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Federal Chancellery of the Republic of Austria (Bundeskanzleramt) (bka.gv.at).",
+  "license": {
+    "spdx": "LicenseRef-AT-UrhG-Sec7",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=7",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bka.gv.at/themen/digitalisierung/kuenstliche-intelligenz.html",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-09-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/bka.gv.at/aim-at-2030@2021 (https://www.bka.gv.at/themen/digitalisierung/kuenstliche-intelligenz.html) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

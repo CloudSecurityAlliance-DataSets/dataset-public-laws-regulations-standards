@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ncsc.gov.ie/national-cyber-security-strategy@2023",
+  "name": "Irish National Cyber Security Strategy (2019–2024, Mid-Term Review 2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-cyber-security-strategy-2023",
+  "owner": "National Cyber Security Centre (NCSC) & Government of Ireland",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Irish National Cyber Security Strategy (2019–2024, Mid-Term Review 2023)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre (NCSC) & Government of Ireland (ncsc.gov.ie).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://data.gov.ie/pages/opendatalicence",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.gov.ie) is governed by Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsc.gov.ie) is governed by Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.ie/en/publication/1969d-national-cyber-security-strategy-mid-term-review-2023/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-08-01",
+    "active": true,
+    "supersedes": "secid:reference/ncsc.gov.ie/national-cyber-security-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ncsc.gov.ie/national-cyber-security-strategy@2023 (https://www.gov.ie/en/publication/1969d-national-cyber-security-strategy-mid-term-review-2023/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2024",
+  "name": "Iceland Policy on Artificial Intelligence & AI Action Plan (2024–2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "policy-on-artificial-intelligence-2024",
+  "owner": "Government of Iceland (Stjórnarráð Íslands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Iceland Policy on Artificial Intelligence & AI Action Plan (2024–2026)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Iceland (Stjórnarráð Íslands) (stjornarradid.is).",
+  "license": {
+    "spdx": "LicenseRef-IS-Hofundalog-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.althingi.is/lagas/nuna/1972073.html",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (stjornarradid.is) is governed by Icelandic Copyright Act (Höfundalög nr. 73/1972) Art. 9 (acts, regulations, administrative directives, and official public reports excluded from copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (stjornarradid.is) is governed by Icelandic Copyright Act (Höfundalög nr. 73/1972) Art. 9 (acts, regulations, administrative directives, and official public reports excluded from copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021/04/20/Stefna-Islands-um-gervigreind-kynnt/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-11-01",
+    "active": true,
+    "supersedes": "secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/stjornarradid.is/policy-on-artificial-intelligence@2024 (https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021/04/20/Stefna-Islands-um-gervigreind-kynnt/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

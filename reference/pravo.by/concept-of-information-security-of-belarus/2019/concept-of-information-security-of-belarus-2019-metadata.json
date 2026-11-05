@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/pravo.by/concept-of-information-security-of-belarus@2019",
+  "name": "Concept of Information Security of the Republic of Belarus (Security Council Resolution No. 1) (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "concept-of-information-security-of-belarus-2019",
+  "owner": "National Legal Internet Portal of the Republic of Belarus",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Concept of Information Security of the Republic of Belarus (Security Council Resolution No. 1)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Legal Internet Portal of the Republic of Belarus (pravo.by) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Legal Internet Portal of the Republic of Belarus (pravo.by).",
+  "license": {
+    "spdx": "LicenseRef-BY-Law262Z-Art7-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/ru/legislation/details/22302",
+    "note": "Official publication (pravo.by); Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(1) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
+    "notes": "Official publication (pravo.by); Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(1) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://pravo.by/document/?guid=3871&p0=P219s0001",
+    "textUsed": "https://pravo.by/document/?guid=3871&p0=P219s0001",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-03-18",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://pravo.by/document/?guid=3871&p0=P219s0001) to Markdown (66,809 chars). Parsed 35 sections (34 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nukib.gov.cz/national-ai-strategy@2019",
+  "name": "National Artificial Intelligence Strategy of the Czech Republic 2030 (NAIS 2030) (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-ai-strategy-2019",
+  "owner": "National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2019 edition of National Artificial Intelligence Strategy of the Czech Republic 2030 (NAIS 2030) (National Artificial Intelligence Strategy of the Czech Republic 2030 (NAIS 2030) (2019)), published by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber and Information Security Agency (NÚKIB) & Government of the Czech Republic (nukib.gov.cz).",
+  "license": {
+    "spdx": "LicenseRef-CZ-Copyright-Sec3a",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.zakonyprolidi.cz/cs/2000-121#p3",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nukib.gov.cz) is governed by Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nukib.gov.cz) is governed by Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mpo.gov.cz/en/business/digital-economy/artificial-intelligence/national-artificial-intelligence-strategy-of-the-czech-republic-2030--282389/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-05-06",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/nukib.gov.cz/national-ai-strategy@2024",
+    "retiredFromActiveUse": "2024-07-24",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nukib.gov.cz/national-ai-strategy@2019 (https://mpo.gov.cz/en/business/digital-economy/artificial-intelligence/national-artificial-intelligence-strategy-of-the-czech-republic-2030--282389/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

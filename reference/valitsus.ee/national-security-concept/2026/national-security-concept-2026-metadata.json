@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/valitsus.ee/national-security-concept@2026",
+  "name": "National Security Concept of Estonia (2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2026",
+  "publication_id": "national-security-concept-2026",
+  "owner": "Vabariigi Valitsus (Government of the Republic of Estonia)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Concept of Estonia 2026 (approved by the Government of Estonia on May 14, 2026). Overarching national security framework of Estonia prepared by the Government Office (Riigikantselei) and adopted by the Riigikogu (Parliament) under the National Defence Act, establishing a broad concept of security across societal cohesion, economic and energy security, internal security, cyber defence, international action, and military defence.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Vabariigi Valitsus (Government of the Republic of Estonia) (valitsus.ee) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Vabariigi Valitsus (Government of the Republic of Estonia) (valitsus.ee).",
+  "license": {
+    "spdx": "LicenseRef-EE-Autorioiguse-Sec5",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.riigiteataja.ee/en/eli/504042021003/consolide",
+    "note": "Official publication (valitsus.ee); Estonian Copyright Act (Autoriõiguse seadus) § 5 (legislation, administrative documents, and official state policies/concepts not subject to copyright).",
+    "notes": "Official publication (valitsus.ee); Estonian Copyright Act (Autoriõiguse seadus) § 5 (legislation, administrative documents, and official state policies/concepts not subject to copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://valitsus.ee/en/news/government-approved-new-national-security-concept-estonia",
+    "textUsed": "https://riigikantselei.ee/sites/default/files/documents/2026-06/2026_06_10%20Estonian_National_Security_Concept_EN.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-05-14",
+    "active": true,
+    "supersedes": "secid:reference/valitsus.ee/national-security-concept@2023",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 19-page PDF (https://riigikantselei.ee/sites/default/files/documents/2026-06/2026_06_10%20Estonian_National_Security_Concept_EN.pdf) locally via PyMuPDF (53,662 chars). Parsed 10 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

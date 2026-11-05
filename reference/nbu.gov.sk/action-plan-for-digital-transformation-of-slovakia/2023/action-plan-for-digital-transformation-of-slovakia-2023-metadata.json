@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nbu.gov.sk/action-plan-for-digital-transformation-of-slovakia@2023",
+  "name": "Action Plan for the Digital Transformation of Slovakia (AI Pillar) (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "action-plan-for-digital-transformation-of-slovakia-2023",
+  "owner": "National Cyber Security Centre SK-CERT",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Action Plan for the Digital Transformation of Slovakia (AI Pillar)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre SK-CERT (nbu.gov.sk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre SK-CERT (nbu.gov.sk).",
+  "license": {
+    "spdx": "LicenseRef-SK-Law185-2015-Sec5",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2015/185/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nbu.gov.sk) is governed by Slovak Copyright Act No. 185/2015 Z.z. § 5(b) (official works, government strategies, and public conceptual materials are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nbu.gov.sk) is governed by Slovak Copyright Act No. 185/2015 Z.z. § 5(b) (official works, government strategies, and public conceptual materials are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mirri.gov.sk/sekcie/informatizacia/strategia-digitalnej-transformacie-slovenska/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-03-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nbu.gov.sk/action-plan-for-digital-transformation-of-slovakia@2023 (https://mirri.gov.sk/sekcie/informatizacia/strategia-digitalnej-transformacie-slovenska/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

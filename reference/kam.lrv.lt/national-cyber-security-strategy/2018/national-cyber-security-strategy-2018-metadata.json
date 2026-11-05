@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/kam.lrv.lt/national-cyber-security-strategy@2018",
+  "name": "National Cyber Security Strategy of Lithuania (2018–2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "national-cyber-security-strategy-2018",
+  "owner": "Ministry of National Defence of the Republic of Lithuania (KAM)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security Strategy of Lithuania (2018–2023)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defence of the Republic of Lithuania (KAM) (kam.lrv.lt).",
+  "license": {
+    "spdx": "LicenseRef-LT-Copyright-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.81676/asr",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (kam.lrv.lt) is governed by Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (kam.lrv.lt) is governed by Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nksc.lt/en/about-us/strategy/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-08-13",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/kam.lrv.lt/national-cyber-security-strategy@2018 (https://www.nksc.lt/en/about-us/strategy/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

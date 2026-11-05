@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mod.gov.lv/national-security-concept@2023",
+  "name": "National Security Concept of Latvia (Nacionālās drošības koncepcija) (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-security-concept-2023",
+  "owner": "Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Concept of Latvia (Nacionālās drošības koncepcija)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija) (mod.gov.lv) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Defence of the Republic of Latvia (Aizsardzības ministrija) (mod.gov.lv).",
+  "license": {
+    "spdx": "LicenseRef-LV-Autortiesibu-Sec6",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://likumi.lv/ta/en/en/id/5138",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mod.gov.lv) is governed by Latvian Copyright Law (Autortiesību likums) Section 6(1) (regulatory enactments, administrative acts, and official state conceptual documents not protected by copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mod.gov.lv) is governed by Latvian Copyright Law (Autortiesību likums) Section 6(1) (regulatory enactments, administrative acts, and official state conceptual documents not protected by copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mod.gov.lv/en/about-us/policy-planning/national-security-concept",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-09-28",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mod.gov.lv/national-security-concept@2023 (https://www.mod.gov.lv/en/about-us/policy-planning/national-security-concept) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}
