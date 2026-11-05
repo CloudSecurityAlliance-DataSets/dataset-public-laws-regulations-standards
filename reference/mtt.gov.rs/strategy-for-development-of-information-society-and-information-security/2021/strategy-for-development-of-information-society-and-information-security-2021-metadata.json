@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mtt.gov.rs/strategy-for-development-of-information-society-and-information-security@2021",
+  "name": "Strategy for the Development of the Information Society and Information Security in the Republic of Serbia (2021–2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "strategy-for-development-of-information-society-and-information-security-2021",
+  "owner": "Ministry of Information and Telecommunications & Government of the Republic of Serbia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Strategy for the Development of the Information Society and Information Security in the Republic of Serbia (2021–2026)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs).",
+  "license": {
+    "spdx": "LicenseRef-RS-Copyright-Art6",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/6838",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtt.gov.rs) is governed by Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtt.gov.rs) is governed by Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mit.gov.rs/tekst/sr/553/strategije.php",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-08-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mtt.gov.rs/strategy-for-development-of-information-society-and-information-security@2021 (https://mit.gov.rs/tekst/sr/553/strategije.php) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

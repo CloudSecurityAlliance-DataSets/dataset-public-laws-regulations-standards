@@ -256,6 +256,52 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
     ("gov.uk", "national-ai-strategy", "2021"): [
         "https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf",
     ],
+    # Wave 2B: Wider Europe
+    ("pravo.by", "national-security-concept-of-belarus", "2024"): [
+        "https://pravo.by/upload/docs/op/P924v0005_1714078800.pdf",
+    ],
+    ("nukib.gov.cz", "security-strategy-czech-republic", "2023"): [
+        "https://mzv.gov.cz/file/5161068/Security_Strategy_of_the_Czech_Republic_2023.pdf",
+    ],
+    ("nukib.gov.cz", "national-cyber-security-strategy", "2021"): [
+        "https://nukib.gov.cz/download/publications_en/strategy_action_plan/NSCS_2021_2025_ENG.pdf",
+    ],
+    ("nukib.gov.cz", "national-cyber-security-strategy", "2025"): [
+        "https://nukib.gov.cz/download/publications_en/strategy_action_plan/National-Cyber-Security-Strategy-Czechia-2026.pdf",
+    ],
+    ("valitsus.ee", "national-security-concept", "2026"): [
+        "https://riigikantselei.ee/sites/default/files/documents/2026-06/2026_06_10%20Estonian_National_Security_Concept_EN.pdf",
+    ],
+    ("kam.lrv.lt", "lithuanian-artificial-intelligence-strategy", "2019"): [
+        "https://wp.oecd.ai/app/uploads/2021/12/Lithuania_Artificial_Intelligence_Strategy_2019.pdf",
+    ],
+    ("hcpn.gouvernement.lu", "national-cybersecurity-strategy", "2021"): [
+        "https://hcpn.gouvernement.lu/dam-assets/fr/publications/brochure-livre/strategie-nationale-cybersecurite-4/National-Cybersecurity-Strategy-IV.pdf",
+    ],
+    ("ncsc.nl", "nederlandse-cybersecuritystrategie", "2022-2028"): [
+        "https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf",
+    ],
+    ("rijksoverheid.nl", "nederlandse-cybersecuritystrategie", "2022-2028"): [
+        "https://www.nctv.nl/site/binaries/site-content/collections/documents/2022/10/10/nederlandse-cybersecuritystrategie-2022-2028/Nederlandse+Cybersecuritystrategie+2022-2028.pdf",
+    ],
+    ("regjeringen.no", "national-strategy-for-artificial-intelligence", "2020"): [
+        "https://wp.oecd.ai/app/uploads/2021/12/Norway_National_Strategy_for_Artificial_Intelligence_2020.pdf",
+    ],
+    ("gov.pl", "cybersecurity-strategy-of-poland", "2019"): [
+        "https://www.gov.pl/attachment/6a4aafc6-e339-4cd5-a8e6-cd47257f02d8",
+    ],
+    ("regeringen.se", "nationell-strategi-cybersakerhet", "2017"): [
+        "https://www.regeringen.se/contentassets/3f89e3c77ad74163909c092b1beae15e/nationell-strategi-for-samhallets-informations--och-cybersakerhet-skr.-201617213",
+    ],
+    ("gov.si", "cyber-security-strategy-of-slovenia", "2016"): [
+        "https://www.gov.si/assets/ministrstva/MNZJU/MDP/DDD/DID/Cyber_Security_Strategy_Slovenia.pdf",
+    ],
+    ("uab.gov.tr", "national-artificial-intelligence-strategy", "2021"): [
+        "https://wp.oecd.ai/app/uploads/2021/12/Turkey_National_Artificial_Intelligence_Strategy_2021-2025.pdf",
+    ],
+    ("dsn.gob.es", "estrategia-nacional-ciberseguridad", "2019"): [
+        "https://www.dsn.gob.es/sites/default/files/2025-04/Estrategia%20Nacional%20de%20Ciberseguridad%202019%20-%20%20Interactivo_0%20%281%29_0.pdf",
+    ],
 }
 
 _LAST_WAYBACK_TS = 0.0
@@ -296,8 +342,267 @@ def _make_license(
     }
 
 
+_TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
+    "at": (
+        "LicenseRef-AT-UrhG-Sec7",
+        "Government-Work",
+        "Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0).",
+        "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=7",
+    ),
+    "be": (
+        "LicenseRef-BE-CDE-ArtXI172",
+        "Government-Work",
+        "Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework.",
+        "https://data.gov.be/en/legal-framework",
+    ),
+    "by": (
+        "LicenseRef-BY-Law262Z-Art7-1",
+        "Public Domain",
+        "Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(1) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
+        "https://www.wipo.int/wipolex/ru/legislation/details/22302",
+    ),
+    "ch": (
+        "LicenseRef-CH-URG-Art5",
+        "Public Domain",
+        "Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection).",
+        "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/en",
+    ),
+    "cz": (
+        "LicenseRef-CZ-Copyright-Sec3a",
+        "Public Domain",
+        "Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection).",
+        "https://www.zakonyprolidi.cz/cs/2000-121#p3",
+    ),
+    "dk": (
+        "LicenseRef-DK-Ophavsretsloven-Sec9",
+        "Public Domain",
+        "Danish Consolidated Act on Copyright (Ophavsretsloven) § 9 (acts, administrative orders, proposals, and official public reports/documents excluded from copyright).",
+        "https://www.retsinformation.dk/eli/lta/2014/1144",
+    ),
+    "ee": (
+        "LicenseRef-EE-Autorioiguse-Sec5",
+        "Public Domain",
+        "Estonian Copyright Act (Autoriõiguse seadus) § 5 (legislation, administrative documents, and official state policies/concepts not subject to copyright).",
+        "https://www.riigiteataja.ee/en/eli/504042021003/consolide",
+    ),
+    "es": (
+        "LicenseRef-ES-TRLPI-Art13",
+        "Government-Work",
+        "Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    ),
+    "fi": (
+        "LicenseRef-FI-Tekijanoikeuslaki-Sec9",
+        "Public Domain",
+        "Finnish Copyright Act (Tekijänoikeuslaki 404/1961) § 9 (laws, decrees, and decisions/statements of public authorities carry no copyright) and Finnish Open Government Data Licence (CC BY 4.0).",
+        "https://www.finlex.fi/fi/laki/ajantasa/1961/19610404#P9",
+    ),
+    "gr": (
+        "LicenseRef-GR-Law2121-Art2",
+        "Government-Work",
+        "Greek Copyright Law 2121/1993 Art. 2(5) (official texts expressive of authority excluded from copyright) and Law 4727/2020 (Digital Governance and Open Data / PSI reuse).",
+        "https://www.wipo.int/wipolex/en/legislation/details/8757",
+    ),
+    "ie": (
+        "CC-BY-4.0",
+        "Permissive",
+        "Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021).",
+        "https://data.gov.ie/pages/opendatalicence",
+    ),
+    "is": (
+        "LicenseRef-IS-Hofundalog-Art9",
+        "Public Domain",
+        "Icelandic Copyright Act (Höfundalög nr. 73/1972) Art. 9 (acts, regulations, administrative directives, and official public reports excluded from copyright).",
+        "https://www.althingi.is/lagas/nuna/1972073.html",
+    ),
+    "lt": (
+        "LicenseRef-LT-Copyright-Art5",
+        "Public Domain",
+        "Republic of Lithuania Law on Copyright and Related Rights (No. VIII-1185) Art. 5 (official state and municipal legal acts and administrative documents not objects of copyright).",
+        "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.81676/asr",
+    ),
+    "lu": (
+        "LicenseRef-LU-SIP-Prior-Agreement",
+        "Proprietary / All Rights Reserved",
+        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works — stored in private internal repository, not publicly redistributed).",
+        "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
+    ),
+    "lv": (
+        "LicenseRef-LV-Autortiesibu-Sec6",
+        "Public Domain",
+        "Latvian Copyright Law (Autortiesību likums) Section 6(1) (regulatory enactments, administrative acts, and official state conceptual documents not protected by copyright).",
+        "https://likumi.lv/ta/en/en/id/5138",
+    ),
+    "nl": (
+        "CC0-1.0",
+        "Public Domain",
+        "Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0).",
+        "https://wetten.overheid.nl/BWBR0001886/",
+    ),
+    "no": (
+        "NLOD-2.0",
+        "Permissive",
+        "Norwegian Copyright Act (Åndsverkloven, LOV-2018-06-15-40) § 14 (statutes, regulations, and official reports/documents issued by public authorities excluded from copyright) and Norwegian Licence for Open Government Data (NLOD 2.0).",
+        "https://data.norge.no/nlod/en/2.0",
+    ),
+    "pl": (
+        "LicenseRef-PL-Copyright-Art4",
+        "Public Domain",
+        "Polish Act of 4 February 1994 on Copyright and Related Rights Art. 4 (normative acts, resolutions of the Council of Ministers published in Monitor Polski, and official documents/materials are not subject to copyright).",
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940240083",
+    ),
+    "pt": (
+        "LicenseRef-PT-CDADC-Art8-1",
+        "Government-Work",
+        "Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 8.º(1) read with Art. 3.º(1)(c) (compiled or annotated official public texts and public speeches/reports not protected by copyright beyond the compiler's annotations).",
+        "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475",
+    ),
+    "ro": (
+        "LicenseRef-RO-Law8-1996-Art9",
+        "Public Domain",
+        "Romanian Law No. 8/1996 on Copyright and Related Rights Art. 9(b) (official texts of a political, legislative, administrative, or judicial nature are excluded from copyright).",
+        "https://legislatie.just.ro/Public/DetaliiDocument/7816",
+    ),
+    "rs": (
+        "LicenseRef-RS-Copyright-Art6",
+        "Public Domain",
+        "Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/6838",
+    ),
+    "se": (
+        "LicenseRef-SE-Upphovsratt-Sec9",
+        "Public Domain",
+        "Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright).",
+        "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+    ),
+    "si": (
+        "LicenseRef-SI-ZASP-Art9",
+        "Public Domain",
+        "Slovenian Copyright and Related Rights Act (ZASP) Art. 9 (official legislative, administrative, and judicial texts, including Parliamentary Resolutions and government strategies, are not protected by copyright).",
+        "https://pisrs.si/pregledPredpisa?id=ZAKO403",
+    ),
+    "sk": (
+        "LicenseRef-SK-Law185-2015-Sec5",
+        "Public Domain",
+        "Slovak Copyright Act No. 185/2015 Z.z. § 5(b) (official works, government strategies, and public conceptual materials are excluded from copyright protection).",
+        "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2015/185/",
+    ),
+    "tr": (
+        "LicenseRef-TR-Law5846-Art31",
+        "Public Domain",
+        "Republic of Türkiye Law No. 5846 on Intellectual and Artistic Works Art. 31 (laws, regulations, Presidential decrees/circulars, and official publications may be freely reproduced and disseminated).",
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5846&MevzuatTur=1&MevzuatTertip=3",
+    ),
+    "ua": (
+        "LicenseRef-UA-Law2811-Art8",
+        "Public Domain",
+        "Law of Ukraine on Copyright and Related Rights (No. 2811-IX) Art. 8(1)(3) (acts of state authorities, Presidential Decrees enacting NSDC decisions, and official documents are not objects of copyright).",
+        "https://zakon.rada.gov.ua/laws/show/2811-20",
+    ),
+}
+
+
 def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
     """Return complete schema-aligned government/public-sector license metadata verified against document text."""
+    low_md = (md_text or "").lower()
+    # First check explicit copyright/redistribution restrictions in the extracted document text
+    if low_md and any(
+        kw in low_md
+        for kw in (
+            "by-nc",
+            "non-commercial use only",
+            "for non-commercial purposes only",
+            "not for commercial use",
+        )
+    ):
+        if tld == "sg":
+            return _make_license(
+                "LicenseRef-SG-Government-NonCommercial-NoDerivatives",
+                "Non-Commercial-No-Derivatives",
+                "Copyright Government of Singapore (MDDI / Smart Nation). Document permits reproduction without modification for non-commercial use only; routed to private dataset repository.",
+                "https://www.smartnation.gov.sg/terms-of-use/",
+                redistribution="permitted_non_commercial_verbatim",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
+        if tld == "int" and namespace == "itu.int":
+            return _make_license(
+                "CC-BY-NC-3.0-IGO",
+                "Non-Commercial",
+                "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO / CC BY-NC 3.0 IGO) as stated in the publication copyright notice.",
+                "https://creativecommons.org/licenses/by-nc/3.0/igo/deed.en",
+                redistribution="permitted_with_attribution_non_commercial",
+                derivatives="permitted_with_attribution_non_commercial",
+                publicly_redistributable=False,
+            )
+        return _make_license(
+            "LicenseRef-NonCommercial",
+            "Non-Commercial",
+            f"Official publication ({namespace}) with explicit non-commercial reuse restriction in document copyright notice.",
+            None,
+            redistribution="permitted_non_commercial",
+            derivatives="prohibited",
+            publicly_redistributable=False,
+        )
+    if low_md and any(
+        kw in low_md
+        for kw in (
+            "all rights reserved",
+            "copyright retained",
+            "redistribution subject to",
+            "subject to separate terms",
+            "without prior written permission",
+            "without prior permission in writing",
+            "without the prior permission",
+            "tous droits réservés",
+            "alle rechte vorbehalten",
+            "todos los derechos reservados",
+            "sin permiso previo, expreso y por escrito",
+        )
+    ):
+        if tld == "au":
+            return _make_license(
+                "LicenseRef-All-Rights-Reserved",
+                "Proprietary / All Rights Reserved",
+                "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission.",
+                "https://www.defence.gov.au/copyright",
+                redistribution="prohibited",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
+        return _make_license(
+            "LicenseRef-All-Rights-Reserved",
+            "Proprietary / All Rights Reserved",
+            f"Official publication ({namespace}) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text.",
+            None,
+            redistribution="prohibited",
+            derivatives="prohibited",
+            publicly_redistributable=False,
+        )
+    # If no full text has been acquired yet (`md_text` is empty), do not assert `publicly_redistributable: true`
+    # until the primary document is acquired and inspected for imprint/third-party restrictions (except US 17 U.S.C. § 105 / OGL-Canada / OGL-UK).
+    if not low_md.strip() and tld not in ("gov", "ca", "uk"):
+        stat = _TLD_STATUTORY_LICENSES.get(tld)
+        if stat:
+            spdx_id, grp, basis_note, stat_url = stat
+            return _make_license(
+                spdx_id,
+                grp,
+                f"Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication ({namespace}) is governed by {basis_note}",
+                stat_url,
+                redistribution="pending_verification",
+                derivatives="pending_verification",
+                publicly_redistributable=False,
+            )
+        return _make_license(
+            "LicenseRef-Government-Work",
+            "Government-Work",
+            f"Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for {namespace} is acquired and verified against jurisdiction copyright terms).",
+            f"https://{namespace}/" if namespace else None,
+            redistribution="pending_verification",
+            derivatives="pending_verification",
+            publicly_redistributable=False,
+        )
     if tld == "gov":
         return _make_license(
             "CC0-1.0",
@@ -510,11 +815,33 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             derivatives="prohibited",
             publicly_redistributable=False,
         )
+    stat = _TLD_STATUTORY_LICENSES.get(tld)
+    if stat:
+        spdx_id, grp, basis_note, stat_url = stat
+        if grp in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives"):
+            return _make_license(
+                spdx_id,
+                grp,
+                f"Official publication ({namespace}); {basis_note}",
+                stat_url,
+                redistribution="prohibited" if "Proprietary" in grp else "permitted_non_commercial",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
+        return _make_license(
+            spdx_id,
+            grp,
+            f"Official publication ({namespace}); {basis_note}",
+            stat_url,
+            redistribution="permitted",
+            derivatives="permitted",
+            publicly_redistributable=True,
+        )
     return _make_license(
         "LicenseRef-Government-Work",
         "Government-Work",
         f"Official national strategy publication ({namespace}); publicly released for free download, policy reference, and research.",
-        None,
+        f"https://{namespace}/" if namespace else None,
         redistribution="permitted_for_reference",
         derivatives="varies_by_jurisdiction",
         publicly_redistributable=True,
@@ -720,6 +1047,10 @@ def find_embedded_pdf_urls(
         )
         if not is_pdf_candidate or full in seen:
             continue
+        if any(b in low_href for b in _BLOCKED_HTML_SUBSTRINGS):
+            continue
+        if "cyber" in low_href and not any(k in doc_name.lower() for k in ("cyber", "ciber", "kyber", "siber")):
+            continue
         if namespace and not _is_trusted_pdf_target(base_url, full, namespace):
             continue
         cand_tail = urllib.parse.unquote(low_href.rsplit("/", 1)[-1])
@@ -774,13 +1105,49 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     """Promote legitimate unformatted section/chapter headings in plain/CJK/European PDFs and XHTML
     without inventing arbitrary artificial chunk headings.
     """
-    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+", " ", md)
+    md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\xad]+", " ", md)
+    # Split inline concatenated Turkish `Eylem N.M_` table cells onto their own lines
+    md = re.sub(r"([^\n#])\s+(Eylem\s+\d+\.\d+[_\s:])", r"\1\n\n\2", md)
     raw_lines = md.splitlines()
     # Pre-pass: join standalone section number lines (e.g. `1.`, `2.2.`, `### 5.2.1`) with the immediately following title line
     lines: list[str] = []
     idx = 0
     while idx < len(raw_lines):
         cur = raw_lines[idx].strip()
+        if idx > 0 and cur == "#":
+            idx += 1
+            continue
+        if cur.startswith(("[Главная](https://pravo.by/)", "[Карточка документа](https://pravo.by/")):
+            idx += 1
+            continue
+        m_cyr = re.match(
+            r"^(#{2,6}\s+)?((?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ГЛАВА|Глава|ЧАСТЬ|Часть|ЧАСТИНА|Частина|CAP[ÍI]TULO|Cap[íi]tulo)\s+(?:[IVXLCDM]+|\d+))\.?$",
+            cur,
+        )
+        if m_cyr:
+            j = idx + 1
+            while j < len(raw_lines) and not raw_lines[j].strip():
+                j += 1
+            if j < len(raw_lines) and j <= idx + 4:
+                nxt = raw_lines[j].strip()
+                if nxt and not nxt.startswith(("#", "[", "|")) and 3 <= len(nxt) <= 220 and not re.search(r"\.{4,}\s*\d+$", nxt):
+                    kw_tok = m_cyr.group(2)
+                    lvl = "###" if kw_tok.upper().startswith(("ГЛАВА", "CAP")) else "##"
+                    # Check if an uppercase continuation line immediately follows `nxt`
+                    k = j + 1
+                    while k < len(raw_lines) and not raw_lines[k].strip():
+                        k += 1
+                    if (
+                        k < len(raw_lines)
+                        and k <= j + 2
+                        and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f\s,\-–—\(\)]{3,120}$", raw_lines[k].strip())
+                        and not re.match(r"^(?:РАЗДЕЛ|РОЗДІЛ|ГЛАВА|ЧАСТЬ|ЧАСТИНА|CAP[ÍI]TULO)\b", raw_lines[k].strip(), re.I)
+                    ):
+                        nxt = f"{nxt} {raw_lines[k].strip()}"
+                        j = k
+                    lines.append(f"{lvl} {kw_tok} — {nxt.rstrip('.')}")
+                    idx = j + 1
+                    continue
         m_bare = re.match(r"^(#{2,6}\s+)?(\d{1,2}(?:\.\d{1,2})+\.?|\d{1,2}\.|[IVX]{1,4}\.|[A-H]\.)$", cur)
         if m_bare:
             j = idx + 1
@@ -803,12 +1170,19 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                     lines.append(nxt[len("Identifying the Lead Project Authority ") :].strip())
                     idx = j + 1
                     continue
+                if nxt.startswith("Handlungsfelder und Massnahmen Bei der Umsetzung "):
+                    eff_h = h_pref or "###"
+                    lines.append(f"{eff_h} {num_tok} Handlungsfelder und Massnahmen")
+                    lines.append("")
+                    lines.append(nxt[len("Handlungsfelder und Massnahmen ") :].strip())
+                    idx = j + 1
+                    continue
                 if (
                     nxt
                     and not nxt.startswith(("#", "["))
                     and 3 <= len(nxt) <= 220
                     and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", num_tok) and len(nxt) <= 120))
-                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f]", nxt)
                 ):
                     clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
                     if h_pref:
@@ -820,24 +1194,51 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         lines.append(raw_lines[idx])
         idx += 1
 
-    # Detect Table of Contents block (e.g. `Contents` followed by lines that repeat when body starts)
+    # Detect Table of Contents block (e.g. `Contents`, `Table of contents`, `Índice`, `Sumario`)
+    def _norm_toc_line(s: str) -> str:
+        s = re.sub(r"^#+\s*", "", s.strip())
+        s = re.sub(r"[\.\s]+\d{1,3}$", "", s).strip()
+        return s.lower()
+
     toc_skip_indices: set[int] = set()
-    for i, l in enumerate(lines[:50]):
-        if l.strip().lower() in ("contents", "table of contents"):
+    for i, l in enumerate(lines[:95]):
+        low_tok = re.sub(r"^#+\s*", "", l.strip()).lower().rstrip(":")
+        if low_tok in (
+            "contents",
+            "table of contents",
+            "índice",
+            "indice",
+            "sumario",
+            "summay",
+            "inhalt",
+            "inhaltsverzeichnis",
+            "sommaire",
+            "table des matières",
+        ):
             first_entry = ""
             first_idx = -1
-            for j in range(i + 1, min(i + 15, len(lines))):
-                cand_e = lines[j].strip()
-                if len(cand_e) >= 10 and not cand_e.startswith("["):
-                    first_entry = cand_e
+            for j in range(i + 1, min(i + 18, len(lines))):
+                cand_e = _norm_toc_line(lines[j])
+                if len(cand_e) >= 8 and not cand_e.startswith("[") and not cand_e.isdigit():
+                    first_entry = cand_e.split(" capítulo ")[0].strip()
                     first_idx = j
                     break
             if first_entry:
-                for k in range(first_idx + 2, min(first_idx + 160, len(lines))):
-                    if lines[k].strip() == first_entry:
+                for k in range(first_idx + 2, min(first_idx + 180, len(lines))):
+                    cand_k = _norm_toc_line(lines[k])
+                    if cand_k == first_entry or (len(first_entry) >= 12 and cand_k.startswith(first_entry[:24])):
                         toc_skip_indices.update(range(i, k))
+                        for idx_t in range(i, k):
+                            if lines[idx_t].lstrip().startswith("#"):
+                                lines[idx_t] = re.sub(r"^#+\s*", "", lines[idx_t].strip())
                         break
             break
+
+    has_part_or_chapter_structure = any(
+        re.match(r"^(?:#{2,6}\s+)?(?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ГЛАВА|Глава|CAP[ÍI]TULO|Capítulo)\s+(?:[IVXLCDM]+|\d+)\b", l.strip())
+        for idx_l, l in enumerate(lines)
+        if idx_l not in toc_skip_indices
+    )
 
     h2_plus = [l for l in lines if re.match(r"^#{2,6}\s+\S+", l)]
     numbered_h2 = [
@@ -850,19 +1251,41 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         )
     ]
     if (len(h2_plus) >= 6 or len(numbered_h2) >= 2) and not is_annex:
-        # Even when headings exist, promote unformatted all-caps major headings (`II. THINKING...`, `1. INTRODUCTION`)
-        # and explicit multi-dot subheadings (`1.1. Context`) left unformatted by XHTML/PDF converters.
+        # Even when headings exist, promote unformatted all-caps major headings (`II. THINKING...`, `1. INTRODUCTION`),
+        # explicit part/chapter headers (`РАЗДЕЛ I ...`, `ГЛАВА 1 ...`, `CAPÍTULO 1`), and explicit multi-dot subheadings (`1.1. Context`).
         patched_lines: list[str] = []
         for idx_l, l in enumerate(lines):
             s = l.strip()
+            s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
             if idx_l not in toc_skip_indices and not s.startswith("#"):
-                if re.match(
-                    r"^(?:[IVX]{1,4}|\d{1,2})\.\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]{2,}[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ0-9\s,\-–—'’\(\)/:]{2,180}$",
+                if re.match(r"^Eylem\s+\d+\.\d+:\s+\S", s):
+                    patched_lines.append(f"### {s.rstrip('.')}")
+                    continue
+                if not has_part_or_chapter_structure and re.match(
+                    r"^(?:[IVX]{1,4}|\d{1,2})\.\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f]{2,}[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f0-9\s,\-–—'’\(\)/]{2,180}$",
                     s,
                 ):
                     patched_lines.append(f"## {s}")
                     continue
-                if re.match(r"^\d{1,2}\.\d{1,2}(?:\.\d{1,2})*\.?\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ][^\n\.]{2,140}$", s):
+                if re.match(
+                    r"^(?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ЧАСТЬ|Часть|ЧАСТИНА|Частина|PART|PARTIE|PARTE|TEIL)\s+(?:[IVXLCDM]+|\d+)\b.{0,180}$",
+                    s,
+                ):
+                    patched_lines.append(f"## {s.rstrip('.')}")
+                    continue
+                if re.match(
+                    r"^(?:ГЛАВА|Глава|CAP[ÍI]TULO|CAPITOLO|CHAPTER|CHAPITRE|KAPITEL)\s+(?:[IVXLCDM]+|\d+)\b.{0,180}$",
+                    s,
+                ):
+                    patched_lines.append(f"### {s.rstrip('.')}")
+                    continue
+                if re.match(r"^(?:Strategic\s+)?Priority\s+\d+\b.{0,140}$", s):
+                    patched_lines.append(f"## {s.rstrip('.')}")
+                    continue
+                if re.match(r"^(?:Strategic\s+)?Objective\s+\d+\.\d+\.?\s+[A-Z].{2,160}$", s):
+                    patched_lines.append(f"### {s.rstrip('.')}")
+                    continue
+                if re.match(r"^\d{1,2}\.\d{1,2}(?:\.\d{1,2})*\.?\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f][^\n\.:]{2,140}$", s):
                     patched_lines.append(f"### {s}")
                     continue
             patched_lines.append(l)
@@ -878,8 +1301,9 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     )
     heading_pat = re.compile(
         r"^(?:"
-        r"(?i:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|PARTE)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
-        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
+        r"(?i:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|CAP[ÍI]TULO|PARTE|РАЗДЕЛ|РОЗДІЛ|ГЛАВА|ЧАСТЬ|ЧАСТИНА)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
+        r"|Eylem\s+\d+\.\d+[_\s:].*"
+        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u0400-\u04ff\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
         r"|[A-H]\.\s*[A-Z][A-Za-z0-9\s,\-–—'’\(\)/:;\.]{2,220}"
         r"|[IVX]{1,4}\s+[A-Z][A-Za-z0-9\s,\-–—'’\(\)/]{2,90}"
         r"|第[一二三四五六七八九十百0-9０-９]+[章節編部]\s*.{1,80}"
@@ -893,13 +1317,14 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         r")$"
     )
     explicit_sec_prefix_re = re.compile(
-        r"^(?:[A-H]\.\s*[A-Z]|(?i:CHAPTER|PART|SECTION|ANNEX|APPENDIX)\s+(?:[IVXLCDM]+|\d+))\b"
+        r"^(?:[A-H]\.\s*[A-Z]|Eylem\s+\d+\.\d+|(?i:CHAPTER|PART|SECTION|ANNEX|APPENDIX|CAP[ÍI]TULO|РАЗДЕЛ|РОЗДІЛ|ГЛАВА)\s+(?:[IVXLCDM]+|\d+))\b"
     )
     for idx_l, line in enumerate(lines):
         if idx_l in toc_skip_indices:
             promoted_lines.append(line)
             continue
         s = line.strip()
+        s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
         # Normalize missing space after Appendix/Annex/Chapter/Part/Section number (e.g. `Appendix 2Analysis...` -> `Appendix 2: Analysis...`)
         s = re.sub(
             r"^((?i:Appendix|Annex|Chapter|Part|Section)\s+(?:[IVXLCDM]+|\d+))([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ])",
@@ -907,17 +1332,22 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
             s,
         )
         allow_trailing_dot = bool(explicit_sec_prefix_re.match(s))
+        max_len = 360 if allow_trailing_dot else 230
+        if has_part_or_chapter_structure and re.match(r"^\d{1,2}\.\s+", s):
+            promoted_lines.append(line)
+            continue
         if (
             not s.startswith("#")
-            and 3 <= len(s) <= 230
-            and not s.endswith((";", "。", "；"))
+            and 3 <= len(s) <= max_len
+            and not s.endswith((";", "。", "；", "-"))
+            and (not s.endswith(":") or re.match(r"^(?:Introduction|Conclusions?):", s, re.I))
             and (allow_trailing_dot or not s.endswith("."))
             and not re.search(r"\b2\.\s*\S+.*\b3\.", s)
             and heading_pat.match(s)
         ):
             # Ensure a space after leading number/Roman/letter dot (e.g., `1.Introduction` -> `1. Introduction`)
             s_norm = re.sub(
-                r"^((?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])\.)([A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af])",
+                r"^((?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])\.)([A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u0400-\u04ff\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af])",
                 r"\1 \2",
                 s,
             )
@@ -925,7 +1355,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                 s_norm = s_norm.rstrip(".")
             if re.match(r"^Appendix\s+\d+\b", s_norm, re.IGNORECASE):
                 in_appendix = True
-            m_sub = re.match(r"^(\d{1,2}(?:\.\d{1,2})+)\.", s_norm)
+            m_sub = re.match(r"^(?:(\d{1,2}(?:\.\d{1,2})+)\.|(?i:ГЛАВА|Глава|CAP[ÍI]TULO)\s+\d+|Eylem\s+\d+\.\d+)", s_norm)
             m_single_num = re.match(r"^(\d{1,2})\.\s+(.+)$", s_norm)
             if is_annex:
                 if m_single_num and in_appendix:
@@ -996,6 +1426,39 @@ _BARE_CONTAINER_HEADING_RE = re.compile(
     re.IGNORECASE,
 )
 
+_LETTERSPACED_HEADING_MAP: dict[str, str] = {
+    "NATIONALCYBERSECURITYSTRATEGYIV": "NATIONAL CYBERSECURITY STRATEGY IV",
+    "TABLEOFCONTENTS": "TABLE OF CONTENTS",
+    "INTRODUCTION": "INTRODUCTION",
+    "II.NATIONALCYBERSECURITYSTRATEGYIV(2021-2025)": "II. NATIONAL CYBERSECURITY STRATEGY IV (2021-2025)",
+    "1.OBJECTIVESANDPRIORITIESOFTHENCSSIV": "1. OBJECTIVES AND PRIORITIES OF THE NCSS IV",
+    "STRATEGICOBJECTIVES:": "STRATEGIC OBJECTIVES:",
+    "1.1OBJECTIVEI:BUILDINGTRUSTINTHEDIGITALWORLDANDPROTECTIONOFHUMANRIGHTSONLINE": "1.1 OBJECTIVE I: BUILDING TRUST IN THE DIGITAL WORLD AND PROTECTION OF HUMAN RIGHTS ONLINE",
+    "1.2OBJECTIVEII:STRENGTHENINGTHESECURITYANDRESILIENCEOFDIGITALINFRASTRUCTURESINLUXEMBOURG": "1.2 OBJECTIVE II: STRENGTHENING THE SECURITY AND RESILIENCE OF DIGITAL INFRASTRUCTURES IN LUXEMBOURG",
+    "1.3OBJECTIVEIII:DEVELOPINGARELIABLE,SUSTAINABLEANDSECUREDITIGALECONOMY": "1.3 OBJECTIVE III: DEVELOPING A RELIABLE, SUSTAINABLE AND SECURE DIGITAL ECONOMY",
+    "1.3OBJECTIVEIII:DEVELOPINGARELIABLE,SUSTAINABLEANDSECUREDIGITALECONOMY": "1.3 OBJECTIVE III: DEVELOPING A RELIABLE, SUSTAINABLE AND SECURE DIGITAL ECONOMY",
+    "2.NATIONALCYBERSECURITYGOVERNANCEFRAMEWORK": "2. NATIONAL CYBERSECURITY GOVERNANCE FRAMEWORK",
+    "3.PREPAREDNESS,RESPONSEANDRECOVERYMEASURES": "3. PREPAREDNESS, RESPONSE AND RECOVERY MEASURES",
+    "4.EDUCATION,TRAININGANDAWARENESSPROGRAMMES": "4. EDUCATION, TRAINING AND AWARENESS PROGRAMMES",
+    "5.RESEARCHANDDEVELOPMENTPLANS": "5. RESEARCH AND DEVELOPMENT PLANS",
+    "5.1UNIVERSITYOFLUXEMBOURG:INTERDISCIPLINARYCENTREFORSECURITY,RELIABILITYANDTRUST(SNT)": "5.1 UNIVERSITY OF LUXEMBOURG: INTERDISCIPLINARY CENTRE FOR SECURITY, RELIABILITY AND TRUST (SNT)",
+    "KEYFIGURES": "KEY FIGURES",
+    "STRATEGICRESEARCHAREAS": "STRATEGIC RESEARCH AREAS",
+    "PARTNERSHIPPROGRAMME": "PARTNERSHIP PROGRAMME",
+    "RESEARCHGROUPS": "RESEARCH GROUPS",
+    "5.2LUXEMBOURGINSTITUTEOFSCIENCEANDTECHNOLOGY(LIST)": "5.2 LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY (LIST)",
+    "RESEARCHAREAS": "RESEARCH AREAS",
+    "RESEARCHAREASDATASECURITYANDDATAPRIVACY": "RESEARCH AREAS: DATA SECURITY AND DATA PRIVACY",
+    "DATASECURITYANDDATAPRIVACY": "DATA SECURITY AND DATA PRIVACY",
+    "CYBERSYSTEMSECURITYANDRESILIENCE": "CYBER SYSTEM SECURITY AND RESILIENCE",
+    "PROJECTSANDPARTNERS": "PROJECTS AND PARTNERS",
+    "PROJECTS:": "PROJECTS:",
+    "PARTNERS:": "PARTNERS:",
+    "III.EVALUATIONANDEXPERIENCESOFTHENCSSIII": "III. EVALUATION AND EXPERIENCES OF THE NCSS III",
+    "IV.ACTIONPLAN(NON-PUBLIC)": "IV. ACTION PLAN (NON-PUBLIC)",
+    "GLOSSARY": "GLOSSARY",
+}
+
 
 def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     """Clean up PDF/XHTML heading artifacts so every heading represents a genuine section with body prose
@@ -1006,7 +1469,23 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+", " ", md)
     raw_blocks = [b.strip() for b in re.split(r"\n\s*\n", md.strip()) if b.strip()]
     blocks: list[str] = []
+    has_titled_pijler = any(re.search(r"^#{2,6}\s+Pijler\s+[IVX]+:\s+\S", b, re.M) for b in raw_blocks)
     for b in raw_blocks:
+        # Split Dutch strategy chapter headings where the chapter lead paragraph was concatenated onto the heading line
+        m_nl_lead = re.match(
+            r"^(#{2,6}\s+(?:1\.\s+Maatschappelijke opgave cybersecurity|2\.\s+Visie:\s+Digitale veiligheid voor iedereen een vanzelfsprekendheid|3\.\s+Doelen|Inleiding en context))\s+((?:Dit hoofdstuk|De visie|Om de visie|Met de Nederlandse)\b[\s\S]+)$",
+            b,
+        )
+        if m_nl_lead:
+            blocks.append(m_nl_lead.group(1).strip())
+            blocks.append(m_nl_lead.group(2).strip())
+            continue
+        if has_titled_pijler and re.match(r"^#{2,6}\s+Pijler\s+[IVX]+\s*$", b):
+            blocks.append(re.sub(r"^#{2,6}\s+", "", b))
+            continue
+        if has_titled_pijler and re.match(r"^##\s+Pijler\s+[IVX]+:\s+\S", b):
+            blocks.append("#" + b)
+            continue
         # Split any block that contains multiple lines where at least one line is a `#` heading
         if "\n" in b and any(l.strip().startswith("#") for l in b.splitlines()):
             cur_buf: list[str] = []
@@ -1034,6 +1513,10 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             break
 
     # Pass 1: Normalize interior `# ` headings to `## ` and demote colophon/imprint/copyright/quote/date lines
+    has_part_ii_container = any(
+        "NATIONALCYBERSECURITYSTRATEGYIV(2021-2025)" in re.sub(r"\s+", "", blk)
+        for blk in blocks
+    )
     for i, b in enumerate(blocks):
         if i > 0 and re.match(r"^#\s+\S", b):
             b = "#" + b
@@ -1044,12 +1527,79 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
         hashes = m.group(1)
         txt = m.group(2).strip()
         txt = re.sub(r"\bS\s+E\s+C\s+T\s+I\s+O\s+N\s+(\d+)\b", r"Section \1", txt, flags=re.IGNORECASE)
-        blocks[i] = f"{hashes} {txt}"
+        txt = re.sub(r"^I\s+N\s+T\s+E\s+L\s+L\s+I\s+G\s+E\s+N\s+C\s+E\s+S\s+T\s+R\s+A\s+T\s+E\s+G\s+Y\s*(?:[—–-]\s*)?", "", txt).strip()
+        txt = re.sub(r"^(\d{1,3}(?:\.\d{1,3})*\.)([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f])", r"\1 \2", txt)
+        nospace_key = re.sub(r"\s+", "", txt)
+        if nospace_key in _LETTERSPACED_HEADING_MAP:
+            txt = _LETTERSPACED_HEADING_MAP[nospace_key]
+        if txt in (
+            "STRATEGIC OBJECTIVES:",
+            "KEY FIGURES",
+            "PROJECTS:",
+            "PARTNERS:",
+            "II. Consolidating the security and resilience of digital infrastructures in Luxembourg",
+            "III. Developing of a reliable, sustainable and secure digital economy",
+        ) or re.match(r"^(?:365\s+workforce|56\s+partners|43%\s+of\s+Doctoral)\b", txt, re.I):
+            blocks[i] = txt
+            continue
+        if not txt or re.match(
+            r"^(?:\d{1,3}\s+(?:National\s+(?:Cyber\s*security|Security|Defence|Defense|AI|Artificial\s+Intelligence)\s+Strategy|Estrategia\s+(?:Nacional|de\s+Seguridad))\b.*|Prime\s+Minister[’']s\s+OfficeIntroduction|DE\s+CIBERSEGURIDAD|NATIONAL\s+CYBERSECURITY\s+—\s+STRATEGY)$",
+            txt,
+            re.IGNORECASE,
+        ):
+            blocks[i] = ""
+            continue
+        # Deduplicate repeated `<Title> <Title>` after `Chapter N:` or `Capítulo N:`
+        m_dup_ch = re.match(r"^((?:Cap[íi]tulo|Chapter)\s+\d+:\s+)(.+)$", txt, re.IGNORECASE)
+        if m_dup_ch:
+            ch_pref, ch_rest = m_dup_ch.group(1), re.sub(r"\s+—\s+", " ", m_dup_ch.group(2).strip())
+            words_r = ch_rest.split()
+            if len(words_r) >= 4 and len(words_r) % 2 == 0:
+                half = len(words_r) // 2
+                if " ".join(words_r[:half]).lower() == " ".join(words_r[half:]).lower():
+                    txt = f"{ch_pref}{' '.join(words_r[:half])}"
+            hashes = "##"
+        elif re.match(r"^(?:Cap[íi]tulo|Chapter)\s+\d+\b", txt, re.IGNORECASE):
+            hashes = "##"
+        elif re.match(r"^(?:Objetivo\s+[IVX]+|Goal\s+[IVX]+|L[ÍI]NEA\s+DE\s+ACCI[ÓO]N\s+\d+|LINE\s+OF\s+ACTION\s+\d+)\b", txt, re.IGNORECASE):
+            hashes = "###"
+        elif txt in (
+            "1. OBJECTIVES AND PRIORITIES OF THE NCSS IV",
+            "2. NATIONAL CYBERSECURITY GOVERNANCE FRAMEWORK",
+            "3. PREPAREDNESS, RESPONSE AND RECOVERY MEASURES",
+            "4. EDUCATION, TRAINING AND AWARENESS PROGRAMMES",
+            "5. RESEARCH AND DEVELOPMENT PLANS",
+        ):
+            hashes = "###"
+        elif re.match(r"^[IVX]{1,3}\.\d{1,2}\s+[A-Z]{2,}", txt):
+            hashes = "#####"
+        elif txt in ("STRATEGIC RESEARCH AREAS", "PARTNERSHIP PROGRAMME", "RESEARCH GROUPS", "RESEARCH AREAS: DATA SECURITY AND DATA PRIVACY", "CYBER SYSTEM SECURITY AND RESILIENCE", "PROJECTS AND PARTNERS"):
+            hashes = "#####"
         sec_id, _, _ = parse_heading(txt)
+        if re.match(r"^\d{1,2}(?:\.\d{1,2})+\b", sec_id):
+            min_dotted_depth = min(6, sec_id.count(".") + (3 if has_part_ii_container else 2))
+            if len(hashes) < min_dotted_depth:
+                hashes = "#" * min_dotted_depth
+        blocks[i] = f"{hashes} {txt}"
         if _COLOPHON_HEADING_RE.search(txt) or re.match(r"^(?:Table\s+of\s+Contents|Contents)\s*$", txt, re.I):
             blocks[i] = txt
             continue
+        if re.search(r"\s{2,}\d{1,3}$", txt) or re.match(r"^\d{1,2}\.\d{1,2}\s+[A-Z].+\s+\d{1,2}$", txt):
+            blocks[i] = txt
+            continue
+        if not sec_id and re.match(r"^(?:This\s+chapter\s+|En\s+este\s+cap[íi]tulo\s+|Este\s+cap[íi]tulo\s+)", txt, re.I):
+            blocks[i] = txt
+            continue
+        if not sec_id and txt[0].islower():
+            blocks[i] = txt
+            continue
+        if not sec_id and re.match(r"^[A-ZÀ-ÖØ-ÞĀ-ŽА-ЯЁ]{1,4}\.?$", txt):
+            blocks[i] = txt
+            continue
         if not sec_id and (len(txt) > 140 or txt.endswith((",", ";"))):
+            blocks[i] = txt
+            continue
+        if re.match(r"^\d{1,2}[\.\)]\s+", txt) and txt.endswith(":"):
             blocks[i] = txt
             continue
         if not sec_id and txt.endswith(".") and not re.search(r"\b(?:U\.S|U\.K|E\.U|Inc|Ltd|Co|Dr|Mr|Ms|St|etc)\.$", txt):
@@ -1059,10 +1609,20 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             blocks[i] = txt
 
     # Pass 2: Merge split headings (dangling prepositions) and demote unnumbered headings followed by lowercase continuation
+    blocks = [b for b in blocks if b.strip()]
     merged: list[str] = []
     i = 0
     while i < len(blocks):
         b = blocks[i]
+        if b.startswith("Capítulo 5: La ciberseguridad en el") and i + 1 < len(blocks) and "Sistema de Seguridad" in blocks[i + 1]:
+            merged.append("## Capítulo 5: La ciberseguridad en el Sistema de Seguridad Nacional")
+            i += 2
+            continue
+        if b == "LÍNEA DE ACCIÓN 2" and i + 1 < len(blocks) and blocks[i + 1].startswith("### Garantizar la seguridad"):
+            merged.append("### LÍNEA DE ACCIÓN 2")
+            blocks[i + 1] = re.sub(r"^#+\s*", "", blocks[i + 1]).strip()
+            i += 1
+            continue
         if re.match(r"^\d{1,2}(?:\.\d{1,2})+\.$", b) and i + 1 < len(blocks):
             nxt = blocks[i + 1].strip()
             if (
@@ -1080,6 +1640,22 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             hashes, txt = m.group(1), m.group(2).strip()
             nxt = blocks[i + 1].strip()
             sec_id, _, _ = parse_heading(txt)
+            # Bare `## Capítulo N` / `## Chapter N` followed by a short plain-text chapter title block
+            if (
+                re.match(r"^(?:Cap[íi]tulo|Chapter)\s+\d+$", txt, re.IGNORECASE)
+                and not nxt.startswith("#")
+                and len(nxt) <= 120
+                and not re.match(r"^(?:This\s+chapter\s+|En\s+este\s+cap[íi]tulo\s+|Este\s+cap[íi]tulo\s+)", nxt, re.I)
+            ):
+                clean_title = re.sub(r"\s+", " ", nxt).strip()
+                merged.append(f"## {txt}: {clean_title}")
+                if i + 2 < len(blocks):
+                    m_dup_h = re.match(r"^#{2,6}\s+(.+?)\s*$", blocks[i + 2].strip())
+                    if m_dup_h and m_dup_h.group(1).strip().lower() == clean_title.lower():
+                        i += 3
+                        continue
+                i += 2
+                continue
             # Bare dotted/Roman/letter section identifier heading followed by its title block -> merge title into heading
             if re.match(r"^(\d{1,2}(?:\.\d{1,2})+\.?|\d{1,2}\.|[IVX]{1,4}\.|[A-H]\.)$", txt) and not nxt.startswith("#"):
                 if nxt.startswith("Identifying the Lead Project Authority In line with "):
@@ -1087,18 +1663,31 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                     blocks[i + 1] = nxt[len("Identifying the Lead Project Authority ") :].strip()
                     i += 1
                     continue
+                if nxt.startswith("Handlungsfelder und Massnahmen Bei der Umsetzung "):
+                    merged.append(f"{hashes} {txt} Handlungsfelder und Massnahmen")
+                    blocks[i + 1] = nxt[len("Handlungsfelder und Massnahmen ") :].strip()
+                    i += 1
+                    continue
                 if (
                     "\n" not in nxt
                     and len(nxt) <= 220
                     and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", txt) and len(nxt) <= 120))
-                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f]", nxt)
                 ):
                     clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
                     merged.append(f"{hashes} {txt} {clean_nxt}")
                     i += 2
                     continue
-            # Unnumbered heading followed immediately by a plain block starting with a lowercase letter -> sentence wrap!
-            if not sec_id and not nxt.startswith("#") and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt):
+            if not sec_id and re.match(r"^[\d\s./:–—-]+$", txt):
+                merged.append(txt)
+                i += 1
+                continue
+            # Heading followed immediately by a multi-word plain block starting with a lowercase letter -> sentence/word wrap!
+            if (
+                not nxt.startswith("#")
+                and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt)
+                and (not sec_id or (len(hashes) >= 3 and re.match(r"^\d{1,2}$", sec_id)))
+            ):
                 merged.append(f"{txt} {nxt}")
                 i += 2
                 continue
@@ -1206,15 +1795,20 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                 if m2:
                     h1_hashes, h1_txt = m1.group(1), m1.group(2).strip()
                     h2_hashes, h2_txt = m2.group(1), m2.group(2).strip()
-                    id1, _, kind1 = parse_heading(h1_txt)
-                    id2, _, kind2 = parse_heading(h2_txt)
-                    if kind1 == "standalone_id" or _BARE_CONTAINER_HEADING_RE.match(h1_txt):
+                    id1, name1, kind1 = parse_heading(h1_txt)
+                    id2, name2, kind2 = parse_heading(h2_txt)
+                    if not id2 and ((id1 and name1 == id1) or _BARE_CONTAINER_HEADING_RE.match(h1_txt)):
                         clean_h1 = h1_txt.rstrip(" -–—:.")
                         new_blocks.append(f"{h1_hashes} {clean_h1}: {h2_txt}")
                         i += 2
                         changed = True
                         continue
-                    if id1 and not id2 and (len(h1_hashes) == len(h2_hashes) or _DANGLING_PREP_RE.search(h1_txt)):
+                    if (
+                        id1
+                        and not id2
+                        and h2_txt.upper() not in ("GLOSSARY", "REFERENCES", "BIBLIOGRAPHY", "CONCLUSION", "CONCLUSIONS", "ABBREVIATIONS", "ACRONYMS")
+                        and (len(h1_hashes) == len(h2_hashes) or _DANGLING_PREP_RE.search(h1_txt))
+                    ):
                         new_blocks.append(f"{h1_hashes} {h1_txt} {h2_txt}")
                         i += 2
                         changed = True
@@ -1236,12 +1830,16 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                         blocks[i] = h1_txt
                         changed = True
                     elif id1 and id2 and len(h1_hashes) >= len(h2_hashes):
-                        if (
-                            kind1 in ("pillar", "part", "chapter", "roman", "annex", "section_word")
-                            and kind2 != kind1
-                            and len(h1_hashes) == len(h2_hashes)
-                            and len(h2_hashes) < 6
-                        ):
+                        if id1.startswith("Eylem ") and len(h1_txt) > 30:
+                            pass
+                        elif (
+                            (
+                                kind1 in ("pillar", "part", "chapter", "roman", "annex", "section_word")
+                                and kind2 != kind1
+                                and len(h1_hashes) == len(h2_hashes)
+                            )
+                            or id2.startswith(id1 + ".")
+                        ) and len(h2_hashes) < 6:
                             blocks[i + 1] = "#" + blocks[i + 1]
                             changed = True
                         else:
@@ -1250,6 +1848,17 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             new_blocks.append(blocks[i])
             i += 1
         blocks = new_blocks
+
+    # Deduplicate any `<Title> <Title>` inside `## Capítulo N: ...` or `## Chapter N: ...` produced by Pass 4
+    for idx_b, b in enumerate(blocks):
+        m_ch_dup = re.match(r"^(#{2,6}\s+(?:Cap[íi]tulo|Chapter)\s+\d+:\s+)(.+)$", b, re.IGNORECASE)
+        if m_ch_dup:
+            pref_c, rest_c = m_ch_dup.group(1), re.sub(r"\s+—\s+", " ", m_ch_dup.group(2).strip())
+            w_c = rest_c.split()
+            if len(w_c) >= 4 and len(w_c) % 2 == 0:
+                h_c = len(w_c) // 2
+                if " ".join(w_c[:h_c]).lower() == " ".join(w_c[h_c:]).lower():
+                    blocks[idx_b] = f"{pref_c}{' '.join(w_c[:h_c])}"
 
     # Pass 5: Normalize depth when Roman `### I.`, single-number `### 1.`, and multi-dot `### 1.1` share depth 3 with no numbered `##` parent
     has_numbered_h2 = any(b.startswith("## ") and parse_heading(b[3:].strip())[0] != "" for b in blocks)
@@ -1308,6 +1917,8 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             body_blocks = blocks[h_idx + 1 : next_h_idx]
             body_str = "\n\n".join(body_blocks).strip()
             if not body_str and not has_child:
+                if (cur_id.startswith("Eylem ") and len(cur_txt) > 30) or cur_txt == "IV. ACTION PLAN (NON-PUBLIC)":
+                    continue
                 blocks[h_idx] = cur_txt
                 changed_leaf = True
                 break
@@ -1324,7 +1935,49 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                     changed_leaf = True
                     break
 
-    return "\n\n".join(blocks) + "\n"
+    # Pass 7: Strip letter-spaced TOC block before Foreword and reconnect column-wrapped paragraphs
+    fw_idx = next((idx_b for idx_b, b in enumerate(blocks) if b.startswith("· F O R E W O R D O F X AV I E R")), -1)
+    if fw_idx > 1:
+        end_fw = fw_idx + 1
+        if end_fw < len(blocks) and blocks[end_fw].endswith("M E D I A ·"):
+            end_fw += 1
+        blocks = [blocks[0], "## Foreword by Xavier Bettel, Prime Minister, Minister for Communications and Media"] + blocks[end_fw:]
+
+    merged_blocks: list[str] = []
+    idx_m = 0
+    while idx_m < len(blocks):
+        cur_b = blocks[idx_m].replace(
+            "I n i t i a t i v e s /A s s o c i a t i o n s / N e t w o r k s",
+            "Initiatives / Associations / Networks",
+        )
+        if cur_b == "· I N T R O D U C T I O N : M A I N T R E N D S A N D T H R E AT S ·":
+            idx_m += 1
+            continue
+        if (
+            idx_m + 1 < len(blocks)
+            and not cur_b.startswith("#")
+            and not blocks[idx_m + 1].startswith(("#", "•", "- "))
+            and not cur_b.endswith((".", ":", ";", "!", "?", ")", '"', "'", "”", "’"))
+            and (
+                re.match(r"^[a-zà-öø-ÿ]", blocks[idx_m + 1])
+                or re.search(r"\b(?:the|a|an|of|in|to|for|with|by|and|or|at|from|as)$", cur_b, re.I)
+            )
+            and not re.match(r"^[A-Z0-9\s,\-–—\(\)’':;/\.]{2,80}$", blocks[idx_m + 1])
+        ):
+            nxt_b = blocks[idx_m + 1]
+            if re.search(r"[a-zA-Z]-$", cur_b):
+                cur_b = cur_b[:-1] + nxt_b
+            elif re.search(r"https?://\S*[/._-]$", cur_b):
+                cur_b = cur_b + nxt_b
+            else:
+                cur_b = f"{cur_b} {nxt_b}"
+            blocks[idx_m + 1] = cur_b
+            idx_m += 1
+            continue
+        merged_blocks.append(cur_b)
+        idx_m += 1
+
+    return "\n\n".join(merged_blocks) + "\n"
 
 
 def _append_eurlex_cellar_annexes(best_md: str, final_url: str, title: str, desc: str) -> str:
@@ -1386,6 +2039,14 @@ _BLOCKED_HTML_SUBSTRINGS = (
     "moda.gov.tw/acs/press/",
     "dpmc.govt.nz/our-programmes/",
     "apo.org.au/node/",
+    "ai.gov.gr/wp-content/uploads/2026/10/tn-gia-olous.pdf",
+    "gov.si/en/policies/defence-civil-protection-and-public-order/national-security/",
+    "samsik.dk",
+    "riigikantselei.ee/en/supporting-government",
+    "varam.gov.lv/en",
+    "gov.pl/web/cyfryzacja/",
+    "regeringen.se/rattsliga-dokument/",
+    "thedigital.gov.ua",
 )
 
 
@@ -1396,12 +2057,24 @@ def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
     low_url = final_url.lower()
     if any(b in low_url for b in _BLOCKED_HTML_SUBSTRINGS):
         return False
-    # Official EUR-Lex / Publications Office Cellar XHTML documents are authoritative full texts
-    if "publications.europa.eu/resource/cellar/" in low_url or "eur-lex.europa.eu/" in low_url:
+    parsed_u = urllib.parse.urlparse(low_url)
+    if parsed_u.path.rstrip("/") in ("", "/en", "/fr", "/de", "/es", "/ru", "/uk", "/pl"):
+        return False
+    # Official EUR-Lex / Publications Office Cellar XHTML documents and official legal gazette decrees are authoritative full texts
+    if any(
+        k in low_url
+        for k in (
+            "publications.europa.eu/resource/cellar/",
+            "eur-lex.europa.eu/",
+            "pravo.by/document/",
+            "zakon.rada.gov.ua/laws/show/",
+            "boe.es/",
+        )
+    ):
         return len(md) >= 5000
     # Require substantial prose and multiple real headings for general HTML strategy pages
     h2_count = sum(1 for l in md.splitlines() if re.match(r"^#{2,4}\s+\S+", l))
-    return len(md) >= 4500 and h2_count >= 3
+    return len(md) >= 25000 and h2_count >= 5
 
 
 def fallback_pdf_text_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
@@ -1542,7 +2215,7 @@ def extract_edition(item: dict) -> dict:
                     prev_tool = (prev_meta.get("current_extraction") or {}).get("tool") or ""
                     prev_notes = (prev_meta.get("current_extraction") or {}).get("notes") or ""
                     if prev_url and not any(b in prev_url.lower() for b in _BLOCKED_HTML_SUBSTRINGS):
-                        best_md = cand_md.read_text(encoding="utf-8")
+                        best_md = ensure_hierarchical_headings(cand_md.read_text(encoding="utf-8"), title, desc)
                         best_url = prev_url
                         best_tool = prev_tool or "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
                         best_notes = re.sub(r"\s*Parsed\s+\d+\s+sections.*$", "", prev_notes).strip()
@@ -1551,7 +2224,11 @@ def extract_edition(item: dict) -> dict:
                     pass
 
     lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
-    is_public = bool(lic_obj.get("publicly_redistributable", True))
+    # Metadata-only records (no body text redistributed) belong in the public catalog repository unless the source license is Proprietary/Non-Commercial (e.g. `sg`, `lu`)
+    if not best_md and item["tld"] not in ("sg", "lu") and lic_obj.get("Grouping") not in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives"):
+        is_public = True
+    else:
+        is_public = bool(lic_obj.get("publicly_redistributable", True))
     target_root = REPO_ROOT if is_public else PRIVATE_REPO_ROOT
     other_root = PRIVATE_REPO_ROOT if is_public else REPO_ROOT
 
@@ -1664,6 +2341,14 @@ def extract_edition(item: dict) -> dict:
         end_state="extracted",
         end_reason="policy-doc",
     )
+    if item["secid"] == "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2019" and meta_path.exists():
+        mdata = json.loads(meta_path.read_text(encoding="utf-8"))
+        mdata["lifecycle"]["notes"] = (
+            "Approved by the National Security Council on 2019-04-12; published in BOE on 2019-04-30 "
+            "(Orden PCI/487/2019, BOE-A-2019-6347); bilingual booklet edition issued June 2019. "
+            "Implemented and complemented (not superseded) by the 2022 Plan Nacional de Ciberseguridad."
+        )
+        meta_path.write_text(json.dumps(mdata, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     return {
         "secid": item["secid"],
         "rel_dir": item["rel_dir"],
@@ -1772,9 +2457,12 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                     vinfo = ver_map[v]
                     secid = f"secid:reference/{ns}/{name}@{v}"
                     is_latest = (vinfo["status"] == "current") if vinfo["status"] else (idx == len(sorted_vers) - 1)
-                    prev_secid = f"secid:reference/{ns}/{name}@{sorted_vers[idx - 1]}" if idx > 0 else None
-                    next_secid = f"secid:reference/{ns}/{name}@{sorted_vers[idx + 1]}" if idx < len(sorted_vers) - 1 else None
-                    retired_date = ver_map[sorted_vers[idx + 1]]["release_date"] if idx < len(sorted_vers) - 1 else None
+                    prev_ver = sorted_vers[idx - 1] if idx > 0 else ""
+                    prev_is_current = bool(prev_ver and ver_map[prev_ver].get("status") == "current")
+                    prev_secid = f"secid:reference/{ns}/{name}@{prev_ver}" if (idx > 0 and not prev_is_current) else None
+                    next_secid = f"secid:reference/{ns}/{name}@{sorted_vers[idx + 1]}" if (idx < len(sorted_vers) - 1 and not is_latest) else None
+                    retired_date = ver_map[sorted_vers[idx + 1]]["release_date"] if (idx < len(sorted_vers) - 1 and not is_latest) else None
+                    pub_date = "2019-04-30" if secid == "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2019" else vinfo["release_date"]
                     full_title = vinfo["official_name"] or (f"{source_full} ({v})" if v not in source_full else source_full)
                     v_note = (vinfo["note"] or "").strip()
                     if is_latest:
@@ -1801,7 +2489,7 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                         "description": full_desc,
                         "source_desc": source_desc,
                         "url": vinfo["url"] or default_url,
-                        "published": vinfo["release_date"],
+                        "published": pub_date,
                         "active": is_latest,
                         "supersedes": prev_secid,
                         "superseded_by": next_secid,

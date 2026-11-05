@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/rijksoverheid.nl/veiligheidsstrategie@2023-2029",
+  "name": "De Veiligheidsstrategie voor het Koninkrijk der Nederlanden (2023–2029)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023-2029",
+  "publication_id": "veiligheidsstrategie-2023-2029",
+  "owner": "Rijksoverheid (Government of the Netherlands)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "De Veiligheidsstrategie voor het Koninkrijk der Nederlanden 2023–2029 (April 3, 2023). Integrated internal and external National Security Strategy for the entire Kingdom of the Netherlands (2023–2029), adopting an all-hazard approach across six national security interests and three strategic pillars.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Rijksoverheid (Government of the Netherlands) (rijksoverheid.nl).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://wetten.overheid.nl/BWBR0001886/",
+    "note": "Official publication (rijksoverheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0).",
+    "notes": "Official publication (rijksoverheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.rijksoverheid.nl/documenten/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden",
+    "textUsed": "https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden/Veiligheidsstrategie+voor+het+Koninkrijk+der+Nederlanden.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-04-03",
+    "active": true,
+    "supersedes": "secid:reference/rijksoverheid.nl/veiligheidsstrategie@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden/Veiligheidsstrategie+voor+het+Koninkrijk+der+Nederlanden.pdf) from landing page (https://www.rijksoverheid.nl/documenten/2023/04/03/veiligheidsstrategie-voor-het-koninkrijk-der-nederlanden); extracted 46-page PDF via PyMuPDF (168,572 chars). Parsed 50 sections (15 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

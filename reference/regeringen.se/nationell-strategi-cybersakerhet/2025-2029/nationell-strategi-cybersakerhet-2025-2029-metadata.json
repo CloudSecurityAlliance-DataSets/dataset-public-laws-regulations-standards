@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/regeringen.se/nationell-strategi-cybersakerhet@2025-2029",
+  "name": "A new era of cybersecurity – National strategy for cybersecurity 2025–2029",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025-2029",
+  "publication_id": "nationell-strategi-cybersakerhet-2025-2029",
+  "owner": "Regeringskansliet / Sveriges regering",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "A new era of cybersecurity – National strategy for cybersecurity 2025–2029 (Skr. 2024/25:121, adopted March 13, 2025). Sweden's national cybersecurity strategy coordinated with the National Cyber Security Centre (NCSC / FRA) setting priorities across systematic security management, skills, incident resilience, and active cyber defense.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Regeringskansliet / Sveriges regering (regeringen.se) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Regeringskansliet / Sveriges regering (regeringen.se).",
+  "license": {
+    "spdx": "LicenseRef-SE-Upphovsratt-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+    "note": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright).",
+    "notes": "Official publication (regeringen.se); Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.government.se/contentassets/e15d576467c3450896bb1c0cea8f811f/a-new-era-of-cybersecurity--national-strategy-for-cybersecurity-2025-2029.pdf",
+    "textUsed": "https://www.government.se/contentassets/e15d576467c3450896bb1c0cea8f811f/a-new-era-of-cybersecurity--national-strategy-for-cybersecurity-2025-2029.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-03-13",
+    "active": true,
+    "supersedes": "secid:reference/regeringen.se/nationell-strategi-cybersakerhet@2017",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 52-page PDF (https://www.government.se/contentassets/e15d576467c3450896bb1c0cea8f811f/a-new-era-of-cybersecurity--national-strategy-for-cybersecurity-2025-2029.pdf) locally via PyMuPDF (81,833 chars). Parsed 42 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

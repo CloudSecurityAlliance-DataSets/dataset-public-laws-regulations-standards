@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/ncsc.fi/kyberturvallisuusstrategia@2013",
+  "name": "Finland's Cyber security strategy (2013)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "kyberturvallisuusstrategia-2013",
+  "owner": "National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Finland's Cyber security strategy (adopted January 24, 2013).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Centre Finland (NCSC-FI) / Security Committee (Turvallisuuskomitea) (ncsc.fi).",
+  "license": {
+    "spdx": "LicenseRef-FI-Tekijanoikeuslaki-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.finlex.fi/fi/laki/ajantasa/1961/19610404#P9",
+    "note": "Official publication (ncsc.fi); Finnish Copyright Act (Tekijänoikeuslaki 404/1961) § 9 (laws, decrees, and decisions/statements of public authorities carry no copyright) and Finnish Open Government Data Licence (CC BY 4.0).",
+    "notes": "Official publication (ncsc.fi); Finnish Copyright Act (Tekijänoikeuslaki 404/1961) § 9 (laws, decrees, and decisions/statements of public authorities carry no copyright) and Finnish Open Government Data Licence (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://turvallisuuskomitea.fi/wp-content/uploads/2018/09/Cyber-Strategy-for-Finland.pdf",
+    "textUsed": "https://turvallisuuskomitea.fi/wp-content/uploads/2018/09/Cyber-Strategy-for-Finland.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-01-24",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/ncsc.fi/kyberturvallisuusstrategia@2019",
+    "retiredFromActiveUse": "2019-10-03",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 44-page PDF (https://turvallisuuskomitea.fi/wp-content/uploads/2018/09/Cyber-Strategy-for-Finland.pdf) locally via PyMuPDF (94,865 chars). Parsed 31 sections (24 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,2107 @@
+# Estrategia de Inteligencia Artificial 2024
+
+## Estrategia de Inteligencia Artificial 2024
+
+Contenido
+
+Prólogo ............................................................................................................................................ 4
+
+6 Introducción
+
+10 EJE 1: Reforzar las palancas claves para el desarrollo de la IA
+
+Palanca 1: Impulso a la Inversión en Supercomputación ........................................ 12
+
+Iniciativa 1.1. Refuerzo de la supercomputación en IA ........................................................... 14
+
+Iniciativa 1.2. Servicios de supercomputación en la industria .............................................. 16
+
+Iniciativa 1.3. Refuerzo de las capacidades de la Red Española
+
+de Supercomputación (RES) .............................................................................................................. 16
+
+Palanca 2: Generar Capacidades de Almacenamiento en Condiciones
+
+de Sostenibilidad ..................................................................................................................... 18
+
+Iniciativa 2.1. Centros de procesamiento de datos sostenibles............................................ 19
+
+Iniciativa 2.2. Planificación y ordenación en la instalación de CPD...................................... 20
+
+Iniciativa 2.3. Sello y ecosistema en torno a la IA sostenible ................................................ 20
+
+Palanca 3: Generar Modelos y corpus para una Infraestructura Pública
+
+de modelos de lenguaje ........................................................................................................ 22
+
+Iniciativa 3.1. Desarrollo de corpus de acceso seguro y controlado .................................. 27
+
+Iniciativa 3.2. Desarrollo de modelos fundacionales en castellano
+
+y lenguas cooficiales ......................................................................................................................... 28
+
+Iniciativa 3.3. Generación de modelos especializados de lenguaje
+
+o de propósito específico ................................................................................................................. 29
+
+Iniciativa 3.4. Infraestructura y procesos para evaluación
+
+de modelos de lenguaje ..................................................................................................................... 30
+
+Palanca 4: Fomentar el Talento en la IA .......................................................................... 31
+
+Iniciativa 4.1. Institucionalización y refuerzo de los proyectos de IA en ejecución ........ 31
+
+Iniciativa 4.2. Fomento de las competencias en IA .................................................................. 34
+
+EJE 2: Facilitar la expansión de la IA en el sector público y privado, fomentando la innovación y la ciberseguridad
+
+Palanca 5: Impulsar la IA en el Sector Público .............................................................. 38
+
+Iniciativa 5.1. Incubadora de casos de uso para la AGE .......................................................................... 43
+
+Iniciativa 5.2. Servicios comunes basados en modelos de IA en la AGE ............................................ 44
+
+Iniciativa 5.3. Gobernanza común de datos de la AGE ............................................................................ 45
+
+Palanca 6: Ayudar a la Expansión de la IA en el Sector Privado, Singularmente
+
+en Pequeñas y Medianas Empresas .................................................................................. 46
+
+Iniciativa 6.1. Incorporación de la IA a los procesos de las pymes ....................................................... 47
+
+Iniciativa 6.2. Desarrollo del ecosistema de emprendimiento en IA ................................................... 47
+
+Iniciativa 6.3. Infraestructura segura de entrenamiento de modelos
+
+de propósito específico ....................................................................................................................................... 48
+
+Palanca 7: Desarrollar un Marco Integral de Ciberseguridad ................................ 50
+
+Iniciativa 7.1. Elaboración de una ley de ciberseguridad ......................................................................... 51
+
+Iniciativa 7.2. Impulso del ecosistema empresarial nacional de desarrollo
+
+de la ciberseguridad con IA ................................................................................................................................ 51
+
+52 EJE 3: Desarrollar una IA transparente, responsable y humanística
+
+Palanca 8: Desarrollar las funciones de la AESIA .................................................... 54
+
+Iniciativa 8.1. Creación de un Think & Do Tank de inteligencia de la IA .............................................. 58
+
+Iniciativa 8.2. Supervisión de un despliegue responsable e innovador de la IA .............................. 60
+
+Iniciativa 8.3. La AESIA como referente internacional en inteligencia artificial ............................... 61
+
+62 Seguimiento de la estrategia y modelo de gobernanza
+
+66 Anexos
+
+Lista de Términos y Acrónimos ........................................................................................................................... 66
+
+Relación de Ilustraciones ...................................................................................................................................... 67
+
+Relación de Tablas .................................................................................................................................................. 67
+
+Relación de Figuras ................................................................................................................................................. 67
+
+Prólogo
+
+## Prólogo a la estrategia de Inteligencia Artificial 2024
+
+La Inteligencia Artificial (IA) representa una de las revoluciones más trascendentales de los últimos tiempos, dado que por sus características tiene la capacidad de abordar los desafíos más complejos del mundo contemporáneo. Esta revolución tecnoló-gica, cuyo desarrollo y expansión se está acelerando sustancialmente en muy pocos años, promete ser el catalizador de grandes transformaciones econó-micas y sociales. Desde una perspectiva económica, genera nuevas posibilidades, que le convierten en el potencial impulsor de un aumento notable de pro-ductividad y del crecimiento, con un efecto que se extiende de manera transversal a un amplio número de sectores económicos. Junto a estos impactos, la IA tiene además la capacidad de influir en un amplio conjunto de ámbitos que van más allá de lo pura-mente tecnológico o económico, afectando también a los comportamientos y las relaciones humanas. Por ello, junto a sus beneficios evidentes, la IA plan-tea inevitablemente retos e incertidumbres sobre sus usos y sus implicaciones en todas las esferas de la economía, la sociedad y las personas, solo compa-rables a lo que ha ocurrido en las grandes revolucio-nes industriales a lo largo de la historia.
+
+Ante esta realidad dinámica y en transformación, esta Estrategia de Inteligencia Artificial 2024 per-sigue acelerar, facilitar, acompañar y promover el desarrollo y la expansión de la IA en nuestro país, dando respuesta a la velocidad que ha tomado esta transformación. Para lograrlo, es esencial asentarse en las fortalezas existentes, y potenciarlas a través de un conjunto de iniciativas respaldadas por un Gobierno firmemente comprometido con la transi-ción digital. Estas medidas están diseñadas no sólo para capitalizar los beneficios de la IA, sino también para impulsar el avance hacia una IA transparente, ética, responsable y humanista. Este enfoque cobra especial relevancia ante el compromiso de garanti-zar que esta transición se lleve a cabo respetando los derechos humanos, promoviendo la seguridad tecnológica, la inclusión social y económica, y obser-vando el cumplimiento del reglamento europeo de Inteligencia Artificial que se acordó durante la Presi-dencia Española del Consejo de la UE, en el segundo semestre de 2023.
+
+El proceso de elaboración de esta Estrategia de In-teligencia Artificial 2024 ha girado en torno a la con-vicción de que el éxito de un país en abordar una transformación digital de esta envergadura depen-de esencialmente de la continua interacción entre el avance tecnológico, la dimensión económica, las demandas sociales y los cambios normativos. Esta estrategia no sólo surge de análisis detallados y re-flexiones sobre el potencial transformador de la IA, sino que se nutre de múltiples interacciones con los diversos actores que están participando en este proceso de transformación, desde la esfera de la investigación científica, hasta la innovación prácti-ca y la aplicación efectiva, involucrando tanto a los organismos reguladores como a los expertos en los distintos ámbitos sociales. Se trata, pues, de asumir la verdadera naturaleza multidimensional de la IA, no como una fuerza externa que “impacta” en la sociedad o que necesita ser “humanizada” median-te la adición de componentes éticos, sino como un elemento íntimamente entrelazado con los demás aspectos, todos ellos alimentándose mutuamente y evolucionando en paralelo.
+
+Una de las principales conclusiones alcanzadas es que el despliegue de la IA requiere de una perma-nente colaboración público-privada a la vez que de un amplio y sólido consenso social en torno al di-seño de los procesos de decisión. Se debe dar res-puesta al reto que supone un mundo en el que las decisiones se tomarán por las personas, pero tam-bién por las máquinas, determinando el espacio que corresponde a cada una y las posibilidades de cola-boración entre ambas. El éxito de las actuaciones in-cluidas en esta Estrategia está íntimamente ligado a la capacidad de promover un debate social inclusivo y colectivo, que cuente con una amplia participación. Una verdadera transformación de nuestro país, que además de digital, ha de ser inclusiva y socialmente justa.
+
+En este marco, las iniciativas que se plantean en esta Estrategia de Inteligencia Artificial 2024 se han arti-culado en torno a tres ejes de actuación.
+
+En primer lugar, se identifica la necesidad de re-forzar las palancas necesarias para dar respuesta y acompañar al aumento de la demanda de IA que ya se está produciendo en España. Estas palancas requieren fundamentalmente potenciar la super-computación, campo en el que partimos de una excelente posición inicial, así como las capacidades de procesamiento de datos, los conjuntos de algorit-mos, datos y modelos, e, indudablemente, el capital humano. Si bien todos estos aspectos son de suma importancia, una de las principales novedades radi-ca en la decidida apuesta estratégica del gobierno de España por un modelo de lenguaje fundacional en castellano y lenguas cooficiales: el modelo ALIA. La familia de modelos de ALIA, partiendo del amplio alcance de nuestras lenguas, habladas por 600 mi-llones de personas, tiene como objetivo facilitar el desarrollo de servicios y productos avanzados en tecnologías del lenguaje, ofreciendo una infraestruc-tura de modelos marcada por la máxima transpa-rencia y apertura, bajo la supervisión y certificación de la nueva Agencia Española de Supervisión de la Inteligencia Artificial (AESIA), institución en cuya constitución nuestro país también es pionero.
+
+En segundo lugar, se busca promover que los bene-ficios de estas tecnologías lleguen a la ciudadanía, y para ello se incorporan distintas iniciativas que promueven el uso de la IA tanto en el sector públi-co, que actuará como catalizador, ejemplo y agente tractor en este proceso, como también en el sector privado, con especial énfasis en las pequeñas y me-dianas empresas, y también en los procesos de in-novación y emprendimiento.
+
+JOSÉ LUIS ESCRIVÁ Ministro para la Transfromacion Digital
+
+y de la Función Pública
+
+Finalmente, la puesta en marcha de la AESIA es un ancla fundamental de esta estrategia. La AESIA nace con el objetivo de alentar y apoyar que estos nuevos desarrollos tecnológicos se produzcan bajo un pris-ma que maximice su eficacia, su impacto social posi-tivo y compartido, la salvaguarda de los derechos y la total trasparencia. La AESIA se erige como el faro encargado de observar la evolución de la IA y de ana-lizar tendencias y perspectivas para prepararse ante sus desafíos. Se encargará de articular un diálogo entre la comunidad científica, la industria y la socie-dad civil, estableciendo un terreno común donde se concilien las preocupaciones y aspiraciones de cada sector. Además, entre sus funciones estará también la validación de modelos y el establecimiento de sus condiciones de evaluación, generando buenas prác-ticas, principios y recomendaciones que guíen su desarrollo y evolución de manera sostenible y ética.
+
+Nos encontramos, sin duda, ante un gran desafío. Queremos que esta Estrategia de Inteligencia Artifi-cial 2024 contribuya a que nuestro país dé una res-puesta ambiciosa y audaz en el proceso de desarro-llo y expansión de la inteligencia artificial. Queremos que sus usos y aplicaciones maximicen el bienestar social y económico, garantizando la inclusión, la equidad y la justicia social en esta transformación digital, a la vez que se preservan los derechos civi-les y los valores democráticos. Y queremos que esta transformación sea el fruto de un amplio y sólido consenso social, como piedra angular y garantía de su éxito.
+
+## Introducción
+
+En pocos años, la inteligencia artificial (IA) se ha convertido en la pieza clave de una revolu-ción tecnológica que nos permite vislumbrar un crecimiento y un potencial de transformación de enorme impacto, tanto en las relaciones económicas como en los hábitos de comporta-miento, a través de la explotación y el análisis de grandes volúmenes de información y de un importante grado de autonomía para su pro-cesamiento. La capacidad y capilaridad de esta tecnología está convirtiéndola en un instrumen-to transversal dentro de un amplio espectro de sectores, multiplicando la penetración y el im-pacto positivo en la productividad de la econo-mía a nivel global.
+
+Por esta capacidad de crecimiento acelerado, de amplio impacto sectorial y de mejora de la competitividad, la IA constituye una palanca de transformación técnica, económica y social, algo de lo que existe creciente evidencia empíri-ca. La IA se ha convertido en catalizador de un conjunto de cambios tecnológicos que estaban ya presentes en la economía, pero que ahora se ven potenciados e interconectados, desarrollan-do así todo su potencial. Estos cambios abarcan desde internet a la conectividad digital, particu-larmente a través del 5G, o a las capacidades de gestión de datos. Esencialmente, su fortaleza se sustenta en los avances recientes en supercom-putación y en la disponibilidad y explotación de cantidades ingentes de datos, así como en su integración en un gran número de procesos productivos y servicios. En los últimos años, des-taca el incipiente desarrollo de tecnologías in-teligentes cada vez más sofisticadas basadas en un tipo de IA con capacidades generativas.
+
+Ante la oportunidad que proporciona la IA como palanca de transformación económica, el gobierno español ha decidido reforzar y acele-rar la Estrategia Nacional de Inteligencia Artifi-cial (ENIA), que se publicó en 2020 en cumpli-miento del Hito 249 del Plan de Recuperación, Transformación y Resiliencia (PRTR), y que se ha venido desplegando en gran medida con la aportación de sus fondos. Este refuerzo preten-de aprovechar al máximo el impacto de la IA en la economía y recoger los elementos positivos de esta transformación en curso, para lo que se reorganizan ciertos aspectos de la Estrategia y acelerar algunos procesos ya iniciados, , sin re-vertir el marco de referencia aprobado en su momento, y coadyuvando al cumplimiento de los objetivos comprometidos en el PRTR, a los que se ha ido dando cumplimiento a lo largo de las medidas ya desplegadas durante los últimos años de forma generalizada, y que quedan re-forzados con la Estrategia actual.
+
+Esta necesidad de reforzar y acelerar la Estrate-gia de IA está basada en la constatación de que su evolución tecnológica en los últimos años ha sido vertiginosa. Desde la publicación de la ENIA ha habido un notable salto de la capaci-dad computacional y se vislumbra la evolución de tecnologías inteligentes cada vez más poten-tes apoyadas en los denominados grandes mo-delos fundacionales. Es preciso, por tanto, por una parte, reaccionar a este entorno en rápida evolución y, por otra, potenciar las iniciativas ya lanzadas mediante la identificación de sinergias entre los distintos proyectos puestos en mar-cha, lo que permitirá asegurar su sostenibilidad y su impacto en el tiempo.
+
+Cada vez es más evidente que las oportunida-des que proporcionarán los avances de la IA están cambiando la forma en que se generan nuevos productos y servicios. En este aspecto, es fundamental la apuesta por modelos funda-cionales de lenguaje, que constituirán potentes infraestructuras sobre las que se podrán desa-rrollar múltiples aplicaciones. Por ello, el com-promiso de España es avanzar en el desarrollo de su propio modelo fundacional de lenguaje, en castellano y lenguas cooficiales, el modelo ALIA, como infraestructura fundamental para el desarrollo de aplicaciones que puedan ser de utilidad para nuestro sector productivo.
+
+Al objeto de seguir avanzando de forma deci-dida en el aprovechamiento de los beneficios de esta revolución tecnológica es preciso, de igual modo, incorporar nuevas capacidades en supercomputación en plazos breves de tiempo y continuar desarrollando los perfiles profesio-nales necesarios que permitan dar respuesta a la creciente demanda de IA.
+
+En el marco de esta tecnología se ha generado, en paralelo, un extenso debate sobre los de-safíos y riesgos de la IA, que ha cristalizado en la necesidad de promover su uso adecuado y responsable para lograr un equilibrio entre los beneficios económicos derivados de su desplie-gue y el respeto a los derechos fundamentales de los ciudadanos. Europa, a la vanguardia de este debate, ha aprobado un marco regulato-rio sobre el uso de la IA que dará cobertura a los avances que se vayan produciendo en este dominio. Nuestro país, a través de la Agencia Española de Supervisión de la IA (AESIA) aspira a liderar el uso de una IA responsable, segura y ética, con principios de actuación construidos en base a un amplio consenso social.
+
+En este contexto, esta Estrategia de Inteligen-cia Artificial se estructura en torno a tres ele-mentos tal y como se describen a continuación.
+
+El primer elemento es la necesidad de dotar al país de las capacidades necesarias para hacer frente a una demanda creciente de productos y servicios de IA. Ante la aceleración de la de-manda que ya se está observando, nuestro país
+
+debe prepararse invirtiendo en las palancas que garanticen que no existirán limitaciones en la expansión de la IA a los distintos sectores, de forma que se puedan aprovechar al máxi-mo sus ventajas en términos de productividad, innovación y crecimiento económico. Se han identificado cuatro ámbitos en los que es ne-cesario reforzar capacidades para abordar este reto: (i) la supercomputación, (ii) las infraes-tructuras en la nube, (iii) los corpus y modelos que constituyen la infraestructura básica para el desarrollo de la IA y (iv) el talento. Sobre estas cuatro palancas de desarrollo tecnológi-co existe un espacio para un diseño adecuado de políticas públicas que aumenten la probabi-lidad de que nuestro país aborde con éxito el desafío de capitalizar los beneficios de la ex-pansión de la IA.
+
+El segundo elemento es el impulso a la adop-ción de IA, con especial foco en su aplicación al sector público y a las empresas medianas y pequeñas (pymes), dado que son las que más apoyo necesitan para abordar esta transforma-ción. El sector público debe, asimismo, ser un impulsor en la adopción de IA, no sólo porque ello supone mejorar la prestación de servicios a los ciudadanos, sino porque además servirá como catalizador y ejemplo para los avances en el sector privado.
+
+Se añaden aquí dos aspectos que son de espe-cial relevancia. Por un lado, el impulso al em-prendimiento, dado que la IA tiene un elevado componente de innovación, que exige, para las empresas en sus primeras fases de desarro-llo, formas de financiación vinculadas al capital riesgo, donde es imprescindible la colaboración público-privada. Esto es esencial para situar a nuestro país a la vanguardia en un tema tan disruptivo y novedoso como es la IA. Por otro lado, es imprescindible acompañar la transfor-mación tecnológica, especialmente en ámbitos como éste, con un reforzamiento de los niveles de ciberseguridad, que generen la suficiente confianza y seguridad a nuestras empresas y ciudadanos, mediante la inversión necesaria. La ciberseguridad constituye un elemento es-tratégico que debe acompañar intrínsecamen-te a los avances tecnológicos.
+
+Estrategia reforzada de inteligencia artificial
+
+Finalmente, el tercer elemento fundamental tiene que ver con la necesidad de alcanzar un amplio consenso sobre los usos de la IA. Ante su utilización, se generan debates que es necesa-rio abordar decididamente, definiendo el nivel de autonomía, transparencia y confiabilidad re-queridos en los procesos de desarrollo, implan-tación y uso de estas tecnologías inteligentes. Esto implica establecer, con claridad y con un elevado nivel de consenso social, los límites en los procesos de toma de decisiones y la forma de interactuar entre las personas y los desarro-llos realizados por la IA. La confiabilidad y la transparencia en el uso de la IA son elementos esenciales para su utilización y expansión.
+
+Para conseguir esa confianza ante usuarios y ciudadanos, es preciso que haya una correc-ta identificación de los beneficios de la IA, al mismo tiempo que un reconocimiento de sus riesgos y de los factores que los puedan miti-gar. Ello supone la necesidad de establecer un marco de gobernanza que asegure los máximos niveles de transparencia y confiabilidad y que garantice el cumplimiento con las normas ar-monizadas en materia de inteligencia artificial recogidas en el Reglamento europeo de IA. El Reglamento tiene como objetivo proteger los derechos fundamentales, la seguridad y la salud de los ciudadanos y la sostenibilidad medioam-biental en los desarrollos de la IA en la Unión Europea, impulsando al mismo tiempo la inno-vación responsable y el despliegue de la IA. En esta materia, la AESIA, creada en España en agosto de 2023, será un actor clave en la tarea de conducir este debate, de definir las buenas prácticas en el uso de la IA y de garantizar la evaluación de los modelos que se vayan desa-rrollando, construir esta relación de confianza.
+
+Eje 1
+
+## Eje 1: — Reforzar las palancas claves para el desarrollo de la IA
+
+Fortaleciendo los mecanismos necesarios para facilitar la expansión de la IA a toda la economía
+
+Palanca 1: Impulso a la Inversión en Supercomputación
+
+España tiene una larga tradición en el campo de la supercomputación, y lleva años realizando inversiones en este campo, que le permiten par-tir de una situación de ventaja relativa. Un hito importante fue la creación en 2004 del “Barce-lona Supercomputing Centre – Centro Nacional de Supercomputación” (BSC-CNS), con la adqui-sición e instalación del primer MareNostrum. Posteriormente, en 2007, se creó la Red Espa- ñola de Supercomputación (RES)1, una infraes-tructura distribuida que proporciona acceso a recursos de supercomputación para la comuni-dad científica y que centra sus operaciones en el supercomputador MareNostrum, junto con otros 13 nodos distribuidos por España. Su mi-sión es ofrecer recursos y servicios de supercom-putación, gestión de datos e IA necesarios para el desarrollo de proyectos científicos y tecnoló-gicos innovadores y de alta calidad, mediante convocatorias competitivas basadas en la exce-lencia científica de los proyectos a desarrollar2.
+
+En este entorno tan competitivo, España siem-pre ha jugado un papel importante a nivel eu-ropeo. Ya fue un socio fundador en 2009 de la alianza europea de computación avanzada en Europa, PRACE por sus siglas en inglés, que
+
+1https://www.res.es/https://www.res.es/
+
+coordinaba a todos los grandes supercomputa-dores europeos, incluido el MareNostrum.Y ha desempeñado un papel fundamental en la re-ciente apuesta europea por estas tecnologías: en 2017, fue uno de los primeros siete estados miembros de la Unión que firmaron la “decla-ración de Roma”, donde se comprometieron a dar un nuevo impulso a estas infraestructuras.
+
+Fruto de esta declaración, en 2019 nació la EuroHPC Joint Undertaking (EuroHPC JU) con un primer objetivo ambicioso: crear un nuevo mapa europeo de grandes infraestructuras de supercomputación que pudiera competir a nivel mundial. España apoyó desde el inicio el esta-blecimiento de una de estas grandes máquinas en nuestro territorio, y, a finales de 2023 inau-guró el nuevo MareNostrum 53, que supuso una notable mejoría sobre la versión anterior del supercomputador, situándola como una de las tres grandes máquinas que hoy en día operan en Europa, a gran distancia del resto como se ve en la Tabla 2. Destaca por la diversidad de su arquitectura con un buen balance entre CPU y GPU, y también por la gran capacidad de al-macenaje, imprescindible para el desarrollo de la IA.
+
+2Tanto BSC como RES son entidades presididas por el MICIU (Ministerio de Ciencia, Innovación y Universidades).
+
+3https://spanish-presidency.consilium.europa.eu/es/eventos/inauguracion-superordenador-marenostrum-5/
+
+Tabla 1. Supercomputadores europeos de acuerdo al 62º informe TOP 500 (Noviembre 2023)2
+
+Nombre País Petaflops CPU GPU Capacidad de almacenamiento
+
+64 núcleos AMD EPYC
+
+539
+
+Lumi Finlandia
+
+Intel Ice-lake Â Sapphire Rapids
+
+314
+
+Italia
+
+Leonardo
+
+Intel Sapphire Rapids y NVIDIA
+
+312
+
+España
+
+Marenostrum 5
+
+Grace
+
+18
+
+Luxemburgo
+
+Meluxina
+
+AMD EPYC
+
+Más de 100.000 núcleos de CPU
+
+13
+
+Chequia
+
+Karolina
+
+6
+
+Bulgaria
+
+Descubridor
+
+AMD EPYC 7H12
+
+Eslovenia
+
+Vega
+
+AMD EPYC 7H13
+
+A64FX (BRAZO)AMD
+
+Portugal
+
+Deucalion
+
+EPYC (x86)
+
+Top 500 Ranking
+
+Ranking de
+
+Green500
+
+#5 a nivel
+
+#7 a nivel
+
+Instinto de AMD
+
+117
+
+mundial
+
+mundial
+
+#6 a nivel
+
+#18 a nivel
+
+13824 GPU Da Vinci
+
+105
+
+mundial
+
+mundial
+
+NVIDIA Hopper
+
+650 (248+402 cinta)
+
+#8 a nivel
+
+#6 a nivel
+
+& Intel Rialto
+
+mundial
+
+mundial
+
+Bridge
+
+#71 a nivel
+
+#27 a nivel
+
+NVIDIA Ampere
+
+20
+
+mundial
+
+mundial
+
+A100
+
+#113 a nivel
+
+#25 a nivel
+
+NVIDIA A100
+
+Más de 1
+
+mundial
+
+mundial
+
+Tensor Core
+
+#166 a nivel
+
+#216 a nivel
+
+2
+
+Sin GPU
+
+mundial
+
+mundial
+
+#198 a nivel
+
+#253 a nivel
+
+NVIDIA A100
+
+11.03 (430TB+10,6PB)
+
+NVIDIA Ampere
+
+A nivel mundial, los gobiernos de los principales países están invirtiendo actualmente ingentes can-tidades de dinero para garantizar que su personal científico y su industria puedan tener acceso a recursos computacionales de primer nivel para el desarrollo de sus actividades de innovación en IA. Esto se produce en un entorno de incremento continuo de la capacidad de estos grandes ordenado-res, como se puede ver en la ilustración 1, en la que con eje logarítmico se representa la evolución de la capacidad del superordenador más potente del mundo, en los últimos 30 años, de acuerdo con el Linpack Benchmark.
+
+Ilustración 1. Desarrollo de la supercomputación entre 1993-2023.
+
+10 EFlop/s
+
+1 EFlop/s
+
+100 PFlop/s
+
+10 PFlop/s
+
+1 PFlop/s
+
+100 TFlop/s
+
+10 TFlop/s
+
+1 TFlop/s
+
+100GFlop/s
+
+10 GFlop/s
+
+57,7 GFlop/s
+
+1 GFlop/s
+
+1990 100 MFlop/s
+
+1,2 EFlop/s
+
+2010 2000 2020 1995 2015 2005 2025
+
+Fuente: Extraído de top500 list (www.top500.org)
+
+Esta tendencia se ha visto reforzada con las últimas generaciones de Unidades de Procesamiento Gráfico (GPU), que se han convertido en esenciales para el progreso y desarrollo eficiente de la inteligencia artificial. Las GPU, con arquitectura paralela, son aptas para manejar las operaciones de cálculo intensivo requeridas por los algoritmos de aprendizaje profundo, facilitando el análisis y procesamiento de grandes cantidades de datos a una velocidad y eficiencia inéditas. Al integrar supercomputadoras equipadas con GPU avanzadas, los investigadores pueden experimentar con modelos de IA más sofisticados, abriendo nuevas vías para la creación de aplicaciones IA que antes eran consideradas imposibles.
+
+En paralelo a mantener la potencia de cálculo a primer nivel, el segundo reto como país es promover la presencia de tecnología desarrollada en España en estas infraestructuras. El impulso para lograr-lo ha venido desde la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, con la financiación del Proyecto Zettaescala1 para prototipados basados en RISC-V con el objetivo de impulsar la generación de diseños de procesadores avanzados, que serán la base para los próximos superordenadores europeos siguiendo el paradigma de hardware open source.
+
+Para garantizar el mantenimiento de este liderazgo a nivel europeo, en esta Estrategia se consignan una serie de iniciativas que tienen como objetivo reforzar la supercomputación española y ponerla al servicio de la actividad productiva, ordenadas en las siguientes cuatro iniciativas.
+
+1https://www.bsc.es/es/research-and-development/projects/laboratorio-zettaescala-desarrollo-de-un-laboratorio-de-las
+
+2https://www.top500.org/lists/top500/2023/11/ 3 www.top500.org/project/linpack
+
+## Iniciativa 1.1 Refuerzo de la supercomputación en IA
+
+Aunque España tiene un buen punto de par-tida en supercomputación, especialmente tras la puesta en funcionamiento del MareNostrum 5, se va a reforzar su capacidad, con el obje-tivo de que este supercomputador tenga una actualización adicional en tan sólo unos meses. El objetivo es la adquisición de un nuevo clúster especializado en IA, con una inversión prevista de entre 55M€ y 90M€, que pueda entrar en funcionamiento en 2025 y que incorporará las últimas tecnologías GPU, para complementar la diversidad de arquitecturas con las que ha sido diseñado. Esta actualización permitirá alcanzar una capacidad de procesamiento superior en un 50% a la actual, esto es, por encima de los 450 petaflops por segundo, con la última tecno-logía de aceleradores disponible en el mercado y con las actualizaciones en las infraestructuras auxiliares necesarias para una máquina de este tipo, que sin duda estará en el Top10 mundial.
+
+A principios de 2024, la Comisión Europea in-formó de una nueva regulación para fortalecer la EuroHPC JU8, destacando el papel crucial de la IA y los modelos fundacionales en el avance tecnológico y social. Esta medida, motivada por la rápida evolución de la IA, busca integrar la IA con la supercomputación para contribuir a una economía más innovadora, sostenible y compe-titiva. Este impulso regulatorio pretende capi-
+
+talizar la infraestructura de supercomputación avanzada de Europa y su robusto ecosistema de investigación, superando debilidades como la dependencia de sistemas de IA de compañías no europeas y la fragmentación de iniciativas en la UE. Se centrará en incrementar las capaci-dades orientadas a la IA de los actuales super-computadores europeos, creando además las AI Factories, alrededor de las instituciones que acogen estos grandes supercomputadores.
+
+Este nuevo instrumento estará orientado a des-plegar infraestructuras de supercomputación dedicadas a la IA para el ecosistema de startups y científico. Este enfoque estratégico no solo pretende consolidar la competitividad e innova-ción europea en IA, sino también garantizar la soberanía mejorando el control sobre los datos y la seguridad, y asegurando modelos de IA dig-nos de confianza. Con una inversión estimada de 400 a 500 millones de euros del Programa Europa Digital, este esfuerzo significativo hacia la autonomía en IA refleja la urgencia de ac-tuar rápidamente para colocar a Europa en la vanguardia de la tecnología de IA globalmente. España apoya rotundamente esta iniciativa, y la presente Estrategia impulsará la candidatura del Centro Nacional de Supercomputación para ser una de las primeras AI Factories europeas, a través de la actualización del MareNostrum 5.
+
+8https://digital-strategy.ec.europa.eu/en/policies/high-performance-computing-joint-undertaking
+
+Tabla 2. Evolución de las capacidades del MareNostrum, el principal supercomputador español
+
+Nombre Arquitectura Top 500 Ranking Capacidad de almacenamiento Capacidad de procesamiento Año instalación Capex
+
+(en Pflops/s) (en Pbytes) (en M€)
+
+MareNostrum 1 2004 0,042
+
+0,128
+
+MareNostrum 2
+
+0,094
+
+0,390
+
+#4 CPU 12
+
+2006 #5 CPU 13
+
+MareNostrum 3
+
+1,10
+
+2
+
+2012 #36 CPU 18
+
+MareNostrum 4
+
+13,90
+
+14,5
+
+2017-19
+
+MareNostrum 5
+
+312 s
+
+#13 CPU
+
+34
+
+#411 GPU
+
+2023-24 #19 CPU
+
+## Iniciativa 1.2 Servicios de supercomputación en la industria
+
+Este ingente esfuerzo que España ha realizado en supercomputación ha estado centrado hasta ahora en el apoyo a la investigación. Esto ha per-mitido garantizar la competitividad de nuestro ecosistema de I+D a nivel internacional, teniendo acceso a la mejor tecnología de computación de alto rendimiento, (HPC por sus siglas en inglés), existente en cada momento. El siguiente paso es abrir estas infraestructuras a nuestra indus-tria, para ayudar a las empresas a incrementar su competitividad gracias al uso masivo de estas tecnologías. Esta nueva prioridad requiere un cambio en el paradigma de servicio aplicado has-ta ahora, incluyendo la puesta en marcha de es-pacios de datos protegidos, servicios ad-hoc para las empresas, etc.
+
+Así pues, el objetivo general de esta segunda ini-ciativa es incrementar significativamente el uso de recursos computacionales de alta capacidad e IA por parte de la industria española, aprove-chando la nueva regulación de la EuroHPC JU9, que permitirá a las empresas acceder hasta un
+
+9Euro HPC JU. Obtenido de https://eurohpc-ju.europa.eu/index_
+
+20% de las capacidades de los grandes super-computadores europeos (tanto el actual Mare- Nostrum 5, ya en operación, como su futura ac-tualización en 2025). Las actuaciones concretas que se abordarán para hacer posible y eficiente este acceso, y que movilizarán unos 10M de eu-ros, se describen en la palanca 6 de este docu-mento, e incluyen una plataforma en entorno seguro pre-comercial para que las empresas de-sarrollen sus Casos de Uso, inversión en infraes-tructuras necesarias para estos desarrollos, equi-pos de apoyo para los hubs sectoriales previstos, y una red de aceleradoras por todo el territorio para startups de Tecnologías de Lenguaje.
+
+Los resultados esperados incluyen un incremen-to en la adopción de tecnologías de HPC e IA, el desarrollo de nuevos productos y servicios ba-sados en IA, una colaboración intersectorial que fomente la transferencia de conocimientos y de ideas innovadoras, avances en investigación apli-cada en áreas estratégicas y la creación de em-pleo especializado.
+
+## Iniciativa 1.3 Refuerzo de la Red Española de Supercomputación (RES)
+
+Actualmente la Red Española de Supercomputación (RES), creada en 2007, constituye una alianza de 14 organizaciones10 que ofrecen servicios avanzados en supercomputación, gestión de datos e IA para la comunidad investigadora nacional. Como Centro Nacional de Competencia español reconocido por la EuroHPC JU, la RES juega un papel esencial en facilitar el acceso a recursos computacionales críticos para el avance de la investigación y el desarrollo tecnológico. La gobernanza de la RES se articula a través de un convenio firmado por todos sus miembros, en el que el Consejo de la RES, presidido por el Ministerio de Ciencia, Innovación y Universidades (MICIU) y coordinado por el BSC, es el máximo órgano de decisión.
+
+La RES cuenta con un plan estratégico que culmina en 2024 y, de cara a su renovación, es esencial fortalecerla como infraestructura nacional científico-tecnológica de servicios relacionados con la IA, dotándola de un nuevo plan estratégico e incluyendo una financiación para todos sus nodos y la especialización de los mismos, aprovechando la distribución geográfica de la Red y el reparto de res-ponsabilidades entre nodos. Además, se procurará expandir la red estableciendo nodos adicionales en CCAA donde todavía no existen nodos de supercomputación.
+
+10https://www.res.es/es/nodos-de-la-res
+
+Figura 1. Red española de Supercomputación (RES)
+
+Para lograr estos fines, se ha activado ya un ambicioso plan de inversiones, con una dotación global de 67,4M€ a cargo del Plan de Recuperación y Resiliencia. Además, se prevé actuar sobre el refuerzo de su gobernanza, y financiar una nueva inversión en el BSC-CNS de 5M de euros para diversificar y enriquecer la oferta de servicios de supercomputación e IA, que permita considerar a la RES como la base para actividades en supercomputación, IA o tecnologías del lenguaje. Además, se planteará un esquema de financiación para apoyar de manera sostenible los servicios a las empresas y el despliegue de las capacidades clave en tecnologías como las del lenguaje, de acuerdo con la palanca 6 (en con-creto, con la iniciativa del Plan de despliegue de proximidad, para poner a disposición de las empresas equipos de soporte, orientándoles acerca del uso de servicios en inteligencia artificial).
+
+Los resultados esperados de estas acciones incluyen un aumento en la capacidad para apoyar investi-gaciones avanzadas y proyectos de innovación en áreas críticas, facilitando así el acceso de la industria y la academia a recursos computacionales de primer nivel. Como resultado, se mejorará la competiti-vidad de España en el escenario científico y tecnológico global, promoviendo la colaboración intersec-torial y reforzando la posición de España como líder en el uso y desarrollo de tecnologías avanzadas de supercomputación e inteligencia artificial.
+
+## Palanca 2: Generar capacidades de almacenamiento en condiciones de sostenibilidad
+
+El auge de la IA impulsa la demanda de centros de datos y soluciones en la nube. El entrena-miento e inferencia de modelos de IA requie-ren una gran capacidad de almacenamiento y procesamiento computacional, lo que se tradu-ce en un aumento significativo de la demanda de centros de procesamiento de datos (CPD) e infraestructuras en la nube. Según las estimacio-nes de las principales empresas del sector, entre el 7% y el 10% de su infraestructura computa-cional se destina actualmente a aplicaciones de IA, dividiéndose este uso entre un 3% y un 4,5% para el entrenamiento y entre un 4% y un 4,5% para la inferencia de estos sistemas.
+
+Ante este panorama, surge la oportunidad para nuestro país de capitalizar los beneficios econó-micos de la IA de manera sostenible y anticipar los retos que genera. La planificación y orde-nación del crecimiento de los CPD junto con la implementación de medidas de eficiencia ener-gética en el despliegue de soluciones basadas en Inteligencia Artificial son claves para evitar que la saturación de los recursos de almacena-miento de datos se convierta en un obstáculo para el desarrollo tecnológico11. En paralelo, es
+
+esencial aprovechar las oportunidades de la IA para conseguir que su desarrollo sea sostenible y ordenado.
+
+Las inversiones en centros de datos, si bien ge-neran un impacto económico positivo, deben realizarse de forma ordenada y estratégica. En este sentido, es necesario plantear un conjunto de medidas que fomenten tanto la eficiencia energética en el despliegue de soluciones de IA, como la optimización de los recursos disponi-bles para todos los sectores productivos. Esto permitirá maximizar las repercusiones positivas de la IA en el tejido económico y social, impul-sando la innovación y el crecimiento en diversos ámbitos.
+
+Con el objetivo de situar a España en la van-guardia del uso eficiente de las infraestructuras de computación y el desarrollo de IA sostenible se plantean tres iniciativas.
+
+11Schwartz, R., Dodge, J.. Smith,N.A., y. Etzioni, O.(2020): .”Green AI”. Commun. ACM 63, 12 (December 2020), 54–63. https://doi.org/10.1145/3381831
+
+## Iniciativa 2.1 Centros de procesamiento de datos sostenibles
+
+España se posiciona como un referente en el desarrollo de centros de procesamiento de datos (CPD) gracias a sus singulares ventajas: ubicación geográfica estratégica, clima favorable y liderazgo en energías renovables.
+
+En este contexto, se promoverá un marco regulatorio que impulse la instalación sostenible de CPD.
+
+A nivel europeo se están elaborando guías para desarrollar CPD sostenibles, destacando la de Irlanda1, y la Comisión ha desarrollado el Código de Conducta para Centros de Datos a través del JRC (Joint Research Centre).
+
+El Gobierno español, a través de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y la Secretaría de Estado de Energía, está trabajando en la transposición de la Directiva (UE) 2023/1791 de eficiencia energética y su acto delegado. La directiva, con relación a los CPD, exige a aquellos de más de 500 kW la recogida y publicación de datos relevantes para el rendimiento ener-gético, el uso de energías renovables, la huella hídrica y la demanda. Además, para los CPD de más de 1.000 kW se esperan estrategias de recuperación de calor.
+
+Esta normativa, junto con el registro de centros de datos en España, permitirá disponer de infor-mación para medir la eficiencia y el consumo de los CPD en todo el territorio nacional, permitiendo desarrollar así estrategias y modelos de buenas prácticas. La potencia total acumulada que se estima para el sector de los CPD hasta 2030 es de 2500 mW.
+
+1Baringa, (2022) “Green Data: A vision for sustainable data centres in Ireland,” p. 62, https://www.ibec.ie/-/media/documents/connect-and-learn/industries/ technology-and-telecoms/cloud-infrastructure-ireland/baringa-green-data---full-report.pdf
+
+## Iniciativa 2.2 Planificación y ordenación en la instalación de CPD
+
+El objetivo es convertir a España en un país referen-te en el desarrollo de centros de datos sostenibles y eficientes, mediante el impulso de un marco regula-torio y de fomento de las inversiones para el desarro-llo de centros de procesamiento de datos (CPD) en España. Este marco, liderado por el Ministerio para la Transformación Digital y de la Función Pública, a través de la Secretaría de Estado de Telecomunica-ciones e Infraestructuras Digitales y la Secretaría de Estado de Energía, tiene como objetivos principales:
+
+•Incentivar la instalación de CPD sostenibles: Se creará un sello o certificación que garantice que los nuevos CPD sean sostenibles, eficientes energé-ticamente, utilicen energías renovables, minimicen su impacto en el consumo de agua y apliquen una gestión responsable de residuos: reduciendo la ge-neración de residuos mediante el alargamiento de su vida útil y su reutilización y, cuando ya no sea posible lo anterior, gestionándolos conforme a la normativa de residuos, en particular, la aplicable a los residuos de aparatos eléctricos y electrónicos.
+
+•Fomentar la inversión en infraestructuras clave: Se coordinará la implementación de inversiones en in-fraestructuras de conectividad, energía y otras ne-cesarias para los proyectos de instalación de nuevos CPD.
+
+•Agilizar los trámites administrativos: Los CPD que obtengan el sello se beneficiarán de
+
+mecanismos de tramitación acelerada a través de ventanilla única y tendrán acceso a un repositorio de información relevante.
+
+•Completar el registro de CPD e IXP: Se completará el desarrollo del registro de CPD e IXP (punto de intercambio de Internet) que se encuen-tran en territorio español, tal y como se establece en la Ley 11/2022, de 28 de junio, General de Teleco-municaciones.
+
+Este marco permitirá al Ministerio:
+
+•Ordenar la implantación de futuros CPD: Se establecerá una estrategia de aprovechamiento del territorio y de sus recursos, con un impacto eco-nómico distribuido y sin dejar a nadie atrás. •Fomentar la sostenibilidad y la eficiencia: Se promoverá la creación de CPD respetuosos con el medio ambiente, circulares y que utilicen de forma eficiente los recursos energéticos e hídricos. •Dinamizar la actividad económica: Se impulsará la actividad económica en el entorno de los CPD, generando empleo y oportunidades de negocio.
+
+El marco regulatorio y las medidas de fomento de la inversión impulsadas por el Gobierno atraerán a em-presas nacionales e internacionales del sector, con-tribuyendo al crecimiento económico y a la creación de empleo.
+
+## Iniciativa 2.3 Sello y ecosistema en torno a la IA sostenible
+
+El futuro Reglamento Europeo de IA establece la obligación de documentar el consumo energético de los modelos de inteligencia artificial de propósi-to general (GPAI) tanto en fase de entrenamiento como de inferencia, en un intento por reducir el uso de recursos necesarios para desarrollarlos. De hecho, la OCDE identifica la definición de estándares de me-dición como una de las principales necesidades para el desarrollo de políticas de sostenibilidad en el uso de la IA.
+
+Por ello, dentro de esta línea de acción, se busca complementar las métricas de sostenibilidad que ya existen para los centros de cálculo (como el Power Usage Effectiveness [PUE], Water Usage Effective-
+
+ness [WUE], emisiones de carbono, modelos combi-nados de energía utilizados en el CPD, etc.) con el desarrollo de estándares que contribuyan a reducir los ciclos de entrenamiento y el impacto ambiental de este tipo de modelos.
+
+España busca asegurar estándares con cobertura europea en esta materia a través de la definición de un marco de obtención voluntaria de un sello de calidad en distintos niveles de madurez respecto a la IA sostenible (en el sentido de los estándares de me-dición de consumo en el entrenamiento e inferencia de modelos IA se van a crear herramientas de autoe-valuación como los desarrollados por la Universidad de Cambridge (Lannelongue et al., 2021)1.
+
+1L. Lannelongue. L., Grealey, J. y Inouye, M. (2021): “Green Algorithms: Quantifying the Carbon Footprint of Computation”. Adv. Sci., 8, 2100707. https://doi.org/10.1002/advs.202100707
+
+Adicionalmente, con el objetivo de desarrollar un ecosistema puntero en España en torno a la IA para acelerar la transición a una economía verde, es necesario el desarrollo de una red de excelen-cia en torno a la IA sostenible que aglutine tan-to a las instituciones científicas de referencia en España como a otros actores de la sociedad civil y del ámbito empresarial y que parta de los pro-yectos que ya se están financiando a partir de la ENIA. Esta red contribuirá a conectar las líneas de investigación de las entidades adheridas, además de facilitar la colaboración público-privada para el desarrollo de la IA sostenible, convirtiendo a España en un país de referencia en esta materia.
+
+Por otro lado, la celebración de un programa de “Desafíos Green AI” será una oportunidad de po-tenciar el talento y el ecosistema empresarial me-diante la IA sostenible. Los Desafíos, diseñados en tres categorías (investigadores, start-ups/sca-le-ups y empresas consolidadas), plantearán pro-blemas en torno a la reducción de recursos en la ejecución de IA. Con este formato competitivo se busca desarrollar el talento y el embrión de pro-ductos y servicios que generen oportunidades de mercado en el campo de la IA sostenible.
+
+Figura 2. IA Sostenible.
+
+## Proyectos de IA sostenible
+
+Desde la ENIA se han financiado 18 proyectos en el ámbito de la energía, con una financiación to-tal aproximada de 25 millones de euros. Además, se han financiado un total de 25 proyectos en las áreas de medioambiente y medio rural (incluyen-do el sector agroalimentario, la protección de la biodiversidad terrestre y la protección de la biodi-versidad marina) con una financiación total de 69 millones de euros.
+
+Dentro de las áreas de aplicación del a IA al medioambiente y al medio rural destacan proyec-tos de optimización de recursos hídricos en el riego y consumos industriales, la mejora en la trazabili-dad de la cadena agroalimentaria, la optimización de producción agrícola y de masa forestal, y la con-servación de la biodiversidad terrestre y marina.
+
+La IA, de este modo, contribuye a la toma de de-cisiones más informadas, ayudando a la conser-vación del medioambiente, a la prevención de desastres naturales y al aprovechamiento de los recursos naturales de forma responsable.
+
+Energía En el campo de la energía se están desarrollando proyectos punteros de aplicación de la IA al ciclo de vida completo del sector eléctrico. Comenzan-do por la producción de energía renovable, la IA contribuye a la optimización del emplazamiento de placas solares y aerogeneradores y a su mante-nimiento preventivo. Las redes de transporte, por su parte, son altamente distribuidas, y la IA aporta decisiones para mejorar su explotación y la inte-gración de nuevos nodos.
+
+Un aspecto fundamental es el consumo respon-sable, donde la IA aporta, a través de algoritmos predictivos, una gestión más inteligente de los re-cursos energéticos, adelantándose a grandes de-mandas puntuales. Por último, la IA ayuda en la toma de decisiones referentes a los mercados fa-cilitadores.
+
+Por otro lado, se están poniendo en marcha inicia-tivas de difusión y captación de talento en perfiles de aplicación de la IA a este sector, además de la realización de actividades de prospección tecnoló-gica, incluyendo la realización de pruebas de con-cepto, generación de catálogos de datos y desarro-llo de demostradores.
+
+## Palanca 3: Generar Modelos y Corpus para una infraestructura pública de Modelos de Lenguaje
+
+El lenguaje es una de las herramientas más po-derosas creadas por la inteligencia humana, y la forma más común y versátil de transmitir y acceder a la información. Usamos el lenguaje para codificar, almacenar, transmitir y compar-tir mensajes. Apoyadas en fuentes documenta-les masivas de nuestras lenguas, actualmente las tecnologías del lenguaje (TL) son posible-mente el campo más innovador y en expansión de la IA.
+
+Los modelos de lenguaje más avanzados son normalmente de gran tamaño y muy costosos de entrenar. Su capacidad de impactar en las economías es notable, pero su desarrollo re-quiere abundante financiación, capacidades de cómputo y suficientes datos. Debido a ello, la mayoría de los modelos están diseñados alrede-dor de la lengua inglesa o son modelos multilin-gües en los que los idiomas con menos recursos suelen estar generalmente infrarrepresentados.
+
+Nuestro país dispone de un activo extraordina-rio para el desarrollo de esta nueva economía de la lengua, el castellano, con casi 600 millones de hispanohablantes en todo el mundo, al que se suma la riqueza de contar con otras cuatro lenguas cooficiales: catalán, euskera, gallego y valenciano. El desarrollo y despliegue de un modelo fundacional de lenguaje y de modelos especializados, y su puesta a disposición de la economía y la sociedad, es un reto muy sustan-tivo que requiere de la cooperación y la cola-boración entre distintos actores del ecosistema.
+
+España ya fue pionera en el desarrollo de un Plan de Impulso a las Tecnologías del Lenguaje en 2015, posteriormente reforzado a través de
+
+1https://www.rae.es/leia-lengua-espanola-e-inteligencia-artificial
+
+2 https://web.larioja.org/landing/plan-transformacion/lengua.html
+
+la ENIA con proyectos como LEIA1 en la Real Academia de la Lengua, que tiene por objeto garantizar que los modelos de IA usan el cas-tellano correctamente; la creación del Valle de la Lengua2 en La Rioja; la creación de un ob-servatorio que mida la diferencia entre el inglés y el castellano en adopción de tecnologías de lenguaje; el desarrollo de terminologías en el proyecto TeresIA (CSIC)3; la creación de un Pun-to de Acceso para recursos del lenguaje; o el origen de la red Ilenia4 a través del desarrollo de recursos para lenguas cooficiales. Esta red es un buen punto de partida para un plan más ambicioso y, con el liderazgo del BSC-CNS, se articula en torno al Centro de Inteligencia Di-gital de Alicante (CENID), el Centro Vasco de Tecnología de la Lengua (HiTZ) y el Centro Sin-gular de Investigación en Tecnologías Inteligen-tes (CiTIUS) de la Universidad de Santiago de Compostela. Todas estas iniciativas se han de-sarrollado, además, en el marco del PERTE de la Nueva Economía de la Lengua. Sin embargo, las tecnologías del lenguaje están en constante evolución, como demuestra el creciente impac-to de los modelos generativos de IA.
+
+En el presente contexto de aceleración de los modelos fundacionales, España tiene la opor-tunidad de impulsar las infraestructuras nece-sarias para el fomento de la IA, a través de una familia de modelos de lenguaje desarrollados bajo criterios de transparencia y confiabilidad, con un aumento de la participación del castella-no y las lenguas cooficiales, lo que les diferencia de los modelos dominantes centrados en el in-glés Es uno de los principales objetivos estraté-gicos de este plan. Este modelo de lenguaje se denomina ALIA.
+
+3https://pti-esciencia.csic.es/project/teresia-portal-de-acceso-a-terminologias-en-espana-y-servicios-de-inteligencia-artificial/
+
+4https://proyectoilenia.es/red-ilenia/
+
+El modelo fundacional abierto de IA generativa desarrollado en España
+
+Figura 3. Evolución de los modelos del lenguaje.
+
+## El auge de la Inteligencia Artificial
+
+Ilustración 2. Crecimiento de los grandes modelos de lenguaje (LLM).
+
+Tamaño = nº de parámetros Acceso abierto
+
+Anthropic Apple Chinese Google Meta / Facebook Microsoft OpenAI Otros
+
+Amazon (propiedad de)
+
+BlenderBot1
+
+BOTS
+
+PLATO-XL ChatGBard* BingChat*
+
+billion parameters
+
+Wu Dao 2.0
+
+PaLM
+
+PanGU-Alpha
+
+175 Billion
+
+Ernie 3.0 Titan
+
+Jurassic-1 OPT-IML
+
+GPT-3
+
+LaMDA FLAN
+
+Chinchilla
+
+xlarge
+
+GPT-NeoX
+
+GPT-2
+
+Codex GPT-J
+
+GPT Neo
+
+BERT T5
+
+Megatron-11B
+
+WeLM
+
+GPT-5*
+
+Ernie Bot 3.5
+
+GPT-4*
+
+Llama-3*
+
+Inflection-2.5 Ernie 4.0
+
+Gemini Pro 1.5
+
+Olympus*
+
+Claude 3
+
+PanGU-Sigma
+
+Minerva
+
+PaLM2
+
+Grok
+
+Mistral-Large
+
+530B
+
+Exaone Gopher
+
+Falcon 180B Sense Chat
+
+Tongyi Qianwen
+
+BLOOM
+
+175B
+
+WebGPT
+
+Claude 2.1
+
+GLM-130B
+
+Fuyu-heavy
+
+Galactica
+
+IDEFICS
+
+Qwen 1.5
+
+G3PO Mistral-small
+
+LLAMableLM Claude
+
+LlaMa2
+
+Falcon LLM
+
+Alexa TM
+
+MM1
+
+Orca 2
+
+mGPT
+
+Dolly 2.0
+
+Sail-7B
+
+Alpaca Atlas
+
+MGIE
+
+pre-2020 2020 21 22 23 2024 TBC
+
+Fuente: LifeArchitech.ai / Information is Beautiful (actualización a Marzo 2024) (*) información no publicada
+
+En los últimos años ha habido una gran evolución en los grandes modelos de lenguaje, tanto a nivel de nuevos modelos como en su tamaño, pasando de pocos modelos con menos de 100 mil millones de parámetros a la creación de modelos de LLM cada vez más frecuentes y de mayor tamaño y complejidad. Este crecimiento se debe a factores como la disponibilidad de los datos, el desarrollo de nuevos algoritmos y el aumento de la potencia de cálculo, permitiendo la creación de modelos más grandes, eficientes y efectivos. A medida que los modelos del lenguaje aumentan su envergadura, también lo hacen sus capacidades.
+
+A nivel nacional y de cara a impulsar la compleja infraestructura de modelos de lenguaje, necesaria para la inclusión del castellano y las lenguas cooficiales en las futuras aplicaciones de IA, se articularán dife-rentes medidas técnicas y organizativas, siguiendo el esquema que se muestra en la siguiente ilustración. Este esquema describe el sistema de generación de un modelo fundacional en castellano y lenguas coo-ficiales (entidades, roles y relaciones) para que el trabajo primario en los datos y los modelos tenga un recorrido estructurado hasta su adopción por parte del sector público, privado y la ciudadanía.
+
+Ilustración 3. Fases en el desarrollo y despliegue de los modelos de lenguaje.
+
+2. Fase transformación y distribución
+
+## 3. Fase de uso / consumo
+
+1.Fase de desarrollo
+
+Despliegue
+
+Modelos (textuales,
+
+Corpus
+
+(SLM, alineación, cookbooks)
+
+de voz, traductores,...)
+
+(Datos en bruto, curación,
+
+instrucciones,…
+
+Evaluación
+
+Computación
+
+Empresas
+
+Empresas orientadas a
+
+Ciudadanos
+
+diseño de aplicaciones
+
+Sector público
+
+Entorno seguro Sistemas de IA en local o en la nube
+
+MareNostrum5 Red Española de Supercomputación
+
+Transparencia, supervisión, certificación, confiabilidad (AESIA)
+
+La fase primaria incluye la obtención y generación de datos de calidad, y la elaboración de una familia de modelos pre-entrenados gracias a los recursos de supercomputación. En esta fase también se elabo-ran los datos de ajuste a tareas (o fine tuning), datos de instrucción y datos de evaluación de los mode-los. Todo ello debe hacerse para cada una de las lenguas cooficiales para obtener el mejor rendimiento de los modelos en cada una de ellas , respetando, en todo caso, los derechos de propiedad intelectual de las obras y prestaciones protegidas que se utilicen para obtener los datos de entrenamiento.
+
+A continuación, se debe ajustar la infraestructura de modelos de lenguaje generalista a las necesida-des de cada caso de uso y entorno particular. En este “entorno seguro” a medio camino entre el I+D+i y la transferencia tecnológica, se pueden realizar tareas de inferencia de modelos, ajuste a tareas, evaluación de modelos, etc. para actividades relacionadas con la innovación. Más información sobre el programa se detallará en la sección de la Palanca 6. Por último, para las administraciones se pueden usar los servicios y productos que se han desarrollado en la fase anterior e integrarlos directamente en sus entornos. En esta fase, los “nodos sectoriales” van a facilitar la colaboración entre organizaciones, reuniendo a diversos socios de la industria, el sector público y el mundo académico en pro de optimizar su uso y la compartición de datos en un ámbito determinado.
+
+Esta iniciativa es, además, una clara muestra del compromiso de España con el desarrollo tecnológico colaborativo, tanto a nivel nacional como internacional. Dentro de nuestras fronteras, el objetivo es continuar con el espíritu de la iniciativa ILENIA, y coordinar esta Estrategia con los proyectos impulsa-dos por las CCAA con lengua cooficial. Estos proyectos son fundamentales para fortalecer la diversidad lingüística del país y desarrollar aplicaciones multilingües que beneficien a todas las lenguas de España. En el panorama europeo, la participación de España en el programa de infraestructuras de lenguaje europeo, ALT-EDIC1, es estratégica para el avance de las tecnologías lingüísticas a nivel continental. Esta alianza, que se enfoca en el desarrollo de grandes modelos lingüísticos, es un pilar para la compe-titividad y la diversidad cultural y lingüística europea, sin olvidar otras infraestructuras esenciales para los modelos de lenguaje, como EuroHPC2 o Clarín3.
+
+El cúmulo de estas alianzas y la sinergia entre ellas son la clave para que la Estrategia Nacional de IA de España no solo avance en el desarrollo tecnológico, sino que también logre un impacto significativo y sostenible.
+
+En el desarrollo de las actuaciones recogidas en esta Palanca, y que constituyen el Plan Nacional de Tecnologías del Lenguaje, tal y como se recoge en el CID 251 del Componente 16 Reforma 1, la Estra-tegia Nacional de Inteligencia Artificial, y en la que participarán distintas instituciones. Se ha diseñado un modelo de gobernanza, regulado a través de un convenio, firmado por quince miembros, que son los siguientes:
+
+• la Secretaría de Estado de Digitalización e Inteli-gencia Artificial (SEDIA), que lidera la definición y coordinación de este plan, en tanto que le corres-ponden las funciones de fomento y regulación de los servicios digitales y de la economía y sociedad digitales; la interlocución con los sectores profesio-nales, industriales y académicos; el impulso de la di-gitalización del sector público; y la coordinación y cooperación interministerial en esta materia;
+
+• el BSC-CNS, que actuará como centro de coordi-nación técnica del plan, aprovechando su avanzada capacidad computacional. Se encargará también de desarrollar una familia de Modelos Fundacionales del Lenguaje enfocados en el castellano y las len-guas cooficiales, además de coordinar la creación de corpus pertinentes y la evaluación de estos modelos;
+
+• la AESIA, que se encargará de la generación de buenas prácticas en estos modelos y de garantizar su transparencia, confiabilidad y apertura, validán-dolos y supervisándolos;
+
+• el Instituto Cervantes, como impulsor de la cultura hispánica internacionalmente y como institución de referencia en la certificación de la competencia lin-güística del castellano a nivel internacional;
+
+• la Real Academia Española, que velará por la co-rrección lingüística de los modelos y que a través de la Asociación de Academias de la Lengua Española (ASALE) coordinará y centralizará los proyectos pan-hispánicos en estrecha colaboración y sintonía con el resto de academias;
+
+1https://digital-strategy.ec.europa.eu/es/policies/edic
+
+2https://eurohpc-ju.europa.eu
+
+3https://www.clarin.eu
+
+• las academias de las lenguas vasca, gallega y va-lenciana, así como el Institut d’Estudis Catalans, en tanto que colaboradores para el entrenamiento de modelos en lenguas cooficiales y garantes de la co-rrección lingüística de dichos modelos;
+
+• el Ministerio de Cultura, al que le corresponden las competencias en materia de propiedad intelectual , archivos y bibliotecas, y al que está adscrita la Bi-blioteca Nacional de España, que conserva el corpus documental más grande tanto en castellano como en lenguas cooficiales;
+
+• el Centro Nacional de Industrias del Español, del Gobierno de La Rioja, que participará junto con otros actores en el desarrollo de modelos de lengua-je, potenciando la transferencia de conocimiento y la colaboración con instituciones académicas, cultu-rales y centros de investigación;
+
+• y los centros que participan en el proyecto ILENIA, y que son el centro de investigación el Instituto HiTZ - Centro Vasco de Tecnología de la Lengua, Institu-to da Lingua Galega (ILG), en colaboración con el Centro Singular de Investigación en Tecnoloxías In-telixentes (CITIUS) y el Centro de Inteligencia Digi-tal (CENID), junto al Centro de Estudios Avanzados en Tecnologías de la Información y Comunicación (CEATIC), representados por sus universidades. Estos centros colaborarán en la construcción de modelos de bancos de datos, así como en el diseño de las metodologías y herramientas y en la difusión de los modelos.
+
+## Iniciativa 3.1 Desarrollo de corpus de elevada calidad
+
+Dentro del esquema propuesto, la base funda-mental para el entrenamiento de los modelos de lenguaje son la cantidad y calidad de los datos disponibles. Gracias en parte al trabajo hecho en el marco del anterior Plan Nacional de Tecnolo-gías del Lenguaje se cuenta actualmente con un corpus masivo multilingüe (36 lenguas euro-peas) con un total de 10 trillones (americanos) de tokens. Además, se dispone de material con más de 40 corpus anotados para afinado y evaluación de modelos. También se han creado conjuntos e instrucciones en varias lenguas para la alineación de modelos.
+
+Todo esto constituye la mayor base mundial exis-tente de datos lingüísticos en castellano y lenguas cooficiales, lo que garantiza unos modelos con mucha más calidad en nuestros idiomas como in-dica el informe del estado de los corpus elabora-dos por el Instituto Cervantes en 20231.
+
+Con el fin de mejorar la obtención y procesamien-to automático de datos de nuevas fuentes (gene-
+
+ralistas y sectoriales), se van a identificar fuentes de interés en base a dos criterios: el tamaño de los datos (sería 4 millones de millones de pala-bras) y posibilidad de utilizarlos (licencias de uso). Las tareas de obtención y procesamiento de los datos incluyen también el cumplimiento de los requisitos de transparencia y trazabilidad que im-pone el Reglamento europeo de IA a los modelos de propósito general. Se destinarán aproximada-mente 3.5M de euros para esta iniciativa2.
+
+Una vez que los datos han sido obtenidos, se lle-varán a cabo tareas como la generación de ins-trucciones, para poder hacer un uso fluido en las demandas a los modelos generativos, anotación de datos para la adaptación de modelos discri-minativos y para tareas de evaluación de mode-los generativos. También es necesario desarrollar conjuntos de datos de evaluación en castellano y lenguas cooficiales, especialmente para modelos generativos (incluyendo modelos instruidos y ali-neados) capaces de evaluar el rendimiento de los modelos y compararlos entre sí.
+
+1Instituto Cervantes. (2023): Informe del estado actual de los corpus en español, lenguas cooficiales y variantes del español. Instituto Cervantes. https://cervantes.org/es/sobre-nosotros/publicaciones/informe-estado-actual-corpus-espanol-lenguas-cooficiales-variantes
+
+2Esta cifra no incluye el precio del licenciamiento correspondiente al uso de obras protegidas por derechos de propiedad intelectual
+
+## Iniciativa 3.2 Desarrollo de modelos fundacionales en castellano y lenguas cooficiales
+
+En España ya se dispone de un abanico de mode-los de lenguaje publicados en abierto con licen-cias permisivas de pequeño tamaño, pero dentro del objetivo de desarrollar modelos fundaciona-les (lo que se conoce como large language mo-dels o LLM),que puedan tener un efecto tractor sobre el desarrollo de los modelos de lenguaje en España se persigue la creación de modelos mayo-res, de hasta al menos 70B (billones americanos) de parámetros, que se consideran modelos con capacidad de obtener resultados eficientes.
+
+El propósito es generar modelos de 7B, 22B, 40B y 70B y llegar a los 175B con la versión actualiza-da del MareNostrum 5. En estos modelos se au-mentará sustancialmente el peso del castellano y las lenguas cooficiales gracias a los datos gene-rados en la iniciativa anterior, evitando sesgos y mejorando la calidad de sus aplicaciones frente a los modelos actuales existentes en el mercado. Si el porcentaje habitual del castellano en los gran-des modelos no llega al 5%, en este caso se plan-tea superar el 20%.
+
+Los resultados de los modelos disponibles, en-trenados fundamentalmente en inglés, son muy mejorables, y no reflejan la cultura y las tradicio-nes de nuestra lengua, ni tampoco los matices de las diferentes variantes. Estos sesgos limitan su utilización en muchos campos aplicados. Por ello es preciso el desarrollo del proyecto ALIA, que generará una familia de modelos de lenguaje. La primera versión del primer modelo estará dispo-nible en el verano de 2024.
+
+La familia de modelos de lenguaje que se preten-de impulsar cubriría un amplio abanico de mode-los, desde (i) modelos de IA generativos (del tipo de MarIA1, Águila2, Flor3 o Latxa4, algunos entre-nados desde cero y otros mediante mecanismos de continual pre-training a partir de modelos abiertos como BLOOM5, Falcon6 o LLama7), (ii) modelos de IA discriminativa orientados a tareas (habitualmente en una o dos lenguas, basados
+
+en sistemas como RoBERTa8), (iii) modelos de síntesis y reconocimiento de voz y (iv) modelos de traducción automática entre el castellano, las lenguas cooficiales y otras lenguas relevantes por su volumen de hablantes o por las relaciones co-merciales y culturales.
+
+Dentro del proceso de desarrollo de los modelos fundacionales se incorporarán innovaciones en el campo de los modelos con el uso de arquitectu-ras no basadas en Transformers o mediante la generación y uso de datos sintéticos. Por otro lado, se trabajará en la mejora continua de los modelos mediante la incorporación de nuevos datos, y en su evaluación continua, tanto a ni-vel de rendimiento como de criterios de sesgos o toxicidad, apoyándose en marcos existentes de evaluación de modelos.
+
+A nivel más concreto, la previsión es desarrollar una primera familia base de modelos multilin-gües en el tercer trimestre de 2024, entrenados “en bruto” con conjuntos muy grandes de datos. Serán modelos capaces de hacer suposiciones mínimas sobre la estructura de texto que están completando a nivel generativo. Posteriormente, en el cuarto trimestre de 2024 se desarrollarán los mismos modelos instruidos, es decir, entrena-dos con pregunta-respuesta y con capacidad de asumir respuestas que obedecen a una instruc-ción determinada.
+
+Durante 2025 se desarrollarán en paralelo fa-milias de modelos “ibéricos”, es decir centrados solamente en castellano, portugués y lenguas cooficiales, así como la segunda generación de los modelos multilingües desarrollados en 2024. Estos nuevos modelos pueden llegar a los 175B una vez la actualización del MareNostrum 5 esté en producción. También se desarrollarán mode-los de los llamados discriminativos, es decir, espe-cializados en algún dominio. Para 2024 se prevén aplicaciones a sectores como el biomédico o le-gal, que se ampliarán en 2025.
+
+1https://datos.gob.es/es/blog/asi-es-maria-la-primera-inteligencia-artificial-de-la-lengua-espanola
+
+2https://huggingface.co/projecte-aina/aguila-7b
+
+3https://huggingface.co/projecte-aina/FLOR-760M
+
+4https://github.com/hitz-zentroa/latxa
+
+5https://huggingface.co/bigscience/bloom
+
+6https://falconllm.tii.ae/
+
+7https://llama.meta.com/
+
+8https://huggingface.co/FacebookAI/roberta-base
+
+En todos los casos, las licencias se adecuarán a la tipología de datos utilizados para el en-trenamiento. Así, siempre que sea posible, los modelos se distribuirán con licencia permisiva, que permitirá a las empresas un uso comercial. En todo caso, la voluntad es poner a disposición estos recursos en repositorios públicos como pueden ser HuggingFace, GitHub o Zenodo, siguiendo siempre los más altos estándares en apertura y transparencia.
+
+Será necesario, por tanto, desarrollar conjun-tos de datos de evaluación, especialmente para modelos generativos (incluyendo modelos ins-truidos y alineados) capaces de evaluar el ren-dimiento de los modelos y compararlos entre sí. Uno de los elementos más destacables de esta
+
+familia de modelos es que cumplirá con altos estándares de transparencia, evaluados por la AESIA. Los modelos actuales tienen niveles limi-tados de transparencia, frente a las exigencias del reglamento europeo de IA.
+
+El objetivo de ALIA es generar estándares de IA ética y confiable, con modelos abiertos y trans-parentes, garantizando la protección de los de-rechos fundamentales, la protección de los de-rechos de propiedad intelectual y la protección de datos personales, desarrollando un marco de mejores prácticas en este terreno. De esta forma se hará pública la información que permitirá co-nocer desde la composición de los corpus hasta los entrenamientos realizados, la estructura de los modelos y los recursos utilizados para ello.
+
+## Iniciativa 3.3 Generación de modelos especializados de lenguaje o de propósito específico
+
+A partir del desarrollo de los modelos funda-cionales cubiertos en la iniciativa anterior, el desarrollo de modelos especializados (lo que se conoce como small language models o SLM), constituyen una palanca para generar un ecosis-tema empresarial nacional robusto y diverso en este ámbito, que pueda de este modo impulsar servicios de valor añadido basados en los recur-sos tecnológicos que se apoyan en la lengua, y que favorezca una mejora sostenida de la com-petitividad a nivel nacional e internacional para las empresas.
+
+Estos modelos son un complemento eficiente a los grandes modelos fundacionales por su capa-cidad para realizar tareas específicas en domi-nios concretos con menor demanda de recursos computacionales. Debido a su tamaño reducido, se adaptan mejor a infraestructuras limitadas y dispositivos móviles, facilitando así un acceso más amplio y democrático a la tecnología de IA. Los modelos especializados se entrenan con con-juntos de datos más pequeños, lo que deriva en una implementación más económica y técnica-mente viable. Entre sus ventajas destacan una mayor explicabilidad, facilidad de despliegue y eficacia en tareas concretas. La adopción de mo-delos especializados representa un paso hacia la
+
+inclusión y la igualdad de oportunidades en el ecosistema tecnológico, alineándose con el ob-jetivo de democratizar el acceso a modelos de IA avanzados.
+
+Los modelos especializados que se van a desa-rrollar estarán disponibles a finales de 2024 e impulsarán la modernización de las administra-ciones públicas, como se describe en la Palanca 5 con aproximadamente 3M de euros para su desarrollo, además de apoyar al sector priva-do a través del acceso a recursos transversales de calidad que faciliten el cumplimiento de las regulaciones sobre IA en Europa, abaratando la producción de aplicaciones y herramientas lingüísticas y permitiendo nuevos modelos de negocio de calidad y valor añadido, como se detalla en la Palanca 6. En esta misma línea, se promoverá el incremento de la multimodalidad siguiendo las principales tendencias internacio-nales, incorporando progresivamente voz, imá-genes, datos científicos, etc.
+
+## Iniciativa 3.4 Infraestructura y procesos para evaluación de modelos de lenguaje
+
+La evaluación y benchmarking de modelos son también aquí actividades tecnológicas críticas. El castellano y las lenguas cooficiales no disponen actualmente de conjuntos de datos de evaluación suficientes y están muy lejos de la situación del inglés.
+
+Será necesario, por tanto, desarrollar conjuntos de datos de evaluación, especialmente para mo-delos generativos (incluyendo modelos instruidos y alineados) capaces de evaluar el rendimiento de los modelos y compararlos entre sí. En esta línea de actuación se va a invertir aproximadamente 1.5 millones de euros.
+
+Hasta el momento la evaluación de modelos y conjuntos de datos se realiza básicamente me-diante procesos manuales que se han ido auto-matizando. En la actualidad se dispone de un marco de evaluación de modelos y un conjunto de datos de evaluación ética para detectar ses-gos y toxicidad. En todo caso, a partir de la en-trada en vigor y aplicabilidad del Reglamento de IA, se deberá profundizar en el trabajo de los marcos de evaluación y automatización, que se pondrán a disposición de la Agencia Española de Supervisión de la Inteligencia Artificial (AESIA) como institución de referencia nacional para la acreditación y la supervisión de un despliegue responsable de los modelos de lenguaje.
+
+La operativa técnica requerirá la incorporación de estrategias de evaluación robustas que abar-quen desde la performance del modelo —con-siderando el tamaño, la precisión y el impacto medioambiental de los mismos— hasta el bench-marking comparativo con modelos de referencia sectoriales y aquellos especializados en la eva-luación de otros modelos. Este benchmarking no solo se centrará en la capacidad computacional, sino también en la eficiencia y en la huella eco-lógica de la IA1. Dada la naturaleza cambiante de los datos, los modelos y el uso de las tecnolo-gías del lenguaje, estos procesos de evaluación tendrán una caducidad inherente, requiriendo actualizaciones periódicas para adaptarse a los nuevos desarrollos y estándares emergentes, asegurando así la vigencia y relevancia de los sis-temas de IA. Tecnológicamente hablando, esta infraestructura compartirá las mismas capacida-des que la “Iniciativa 3. Infraestructura segura de entrenamiento de modelos comerciales de pro-pósito específico” de la Palanca 6.
+
+1OECD (2022), “Measuring the environmental impacts of artificial intelligence compute and applications: The AI footprint”, OECD Digital Economy Papers, No. 341, OECD Publishing, Paris, https://doi.org/10.1787/7babf571-en
+
+## Palanca 4: Fomentar el talento en la IA
+
+El desarrollo, atracción y fidelización de talento en IA es una parte esencial de esta Estrategia. Dado que la correlación entre la transformación tecnológica y el talento de un país es significativa, es preciso reforzar el plan de acción en este ámbito, tanto desde la generación de nuevas medidas que permitan desarrollar el talento, como por el refuerzo de las medidas que se han venido tomando en estos años y que se han intensificado con el Plan de Recuperación, Transformación y Resiliencia. El fomento del talento y la investigación científica ha sido uno de los principales campos objeto de impulso con el objetivo de posicionar a España como una potencia en investigación, atracción y retención de talento, potenciando la transferencia de resultados al tejido productivo. Estas funciones de impulso recaen so-bre el Ministerio de Ciencia, Innovación y Universidades, teniendo en cuenta las competencias de este ministerio en materia de formación, a quien corresponde su ejercicio.
+
+## Iniciativa 4.1 Institucionalización y refuerzo de los proyectos de IA en ejecución
+
+Durante los tres últimos años se han lanzado im-portantes iniciativas con el objetivo de posicionar a España como una potencia en investigación, atracción y retención de talento, potenciando la transferencia de resultados al tejido productivo. Entre otras actuaciones, se han lanzado cátedras universidad-empresa en IA dedicadas a potenciar la colaboración público-privada en distintas áreas de aplicación de la IA y programas dirigidos a la retención del talento científico a través de becas de consolidación investigadora en IA. También se han generado redes de excelencia en torno a pro-yectos de investigación interdisciplinar en IA en ámbitos estratégicos, y se ha desplegado un am-plio programa de becas dirigidas a la formación y la generación de talento en IA y ciberseguridad.
+
+Entre todas las inversiones cabe destacar una se-rie de iniciativas que han supuesto 600 millones de euros:
+
+• los programas de Cadenas de Valor en Inteli-gencia Artificial1 cuyo objetivo es la integración de la IA en las cadenas de valor de las empresas;
+
+• las Misiones I+D+i en inteligencia artificial2, cuyo objetivo es desarrollar proyectos estratégi-cos en las áreas de Salud, Agricultura y Energía a través de IA;
+
+1https://espanadigital.gob.es/medida/integracion-de-la-ia-en-las-cadenas-de-valor
+
+• las Redes Territoriales de Especialización Tecno-lógica (RETECH3), programa de inversión territo-rial en materia de digitalización, que cuenta con las CCAA para impulsar proyectos de carácter transregional y orientados a la especialización,
+
+• Además, se están definiendo las líneas últimas de la Estrategia Nacional de Tecnologías Cuánti-cas y se está desarrollando el Programa Nacional de Algoritmos Verdes4.
+
+A partir de estas iniciativas, el propósito es in-tensificar la transferencia de la investigación a la industria, junto con la decidida apuesta por el fo-mento del talento y la mejora de las capacidades de supercomputación, que permitan consolidar la posición española dentro del ecosistema inter-nacional de la inteligencia artificial.
+
+Para ello se van a ir creando áreas de especiali-zación en IA e integrándolas de manera que se consiga aprovechar las sinergias entre proyectos y sostenerlos en el tiempo. El programa FEDER dotará de fondos adicionales para impulsar estas iniciativas, ya que dispone de 300 millones de euros que se van a destinar a hacer sostenibles estas iniciativas más allá de la fecha de finalización de los fondos del PRTR.
+
+2https://espanadigital.gob.es/lineas-de-actuacion/misiones-de-id-en-inteligencia-artificial
+
+3https://espanadigital.gob.es/medida/retech-redes-territoriales-de-especializacion-tecnologica
+
+4https://espanadigital.gob.es/lineas-de-actuacion/programa-nacional-de-algoritmos-verdes
+
+Tabla 3. Distribución de ejecución presupuestaría en IA (abril de 2024)
+
+Descripción del proyecto Programas desplegados hasta la fecha
+
+Inversión (en millones de euros)
+
+Resolución de grandes retos de país a través de 5 proyectos en cooperación entre 78 entidades en temáticas como Salud, Agricultura o Energía.
+
+Misiones I+D+i en IA
+
+50
+
+Proyectos de investigación en cooperación a través de grupo interdisciplinares que aplican la IA en áreas estratégicas y de vanguardia.
+
+Redes Interdisciplinares de IA1
+
+32
+
+Financiación de 23 cátedras lideradas por Centros de Investigación y Universidades para investigar y formar en la aplicación de inteligencia artificial para materias concretas en sectores como Salud, Energía, Normativa, Datos o Medio Ambiente.
+
+Cátedras en IA2 y Ciberseguridad2
+
+25,8
+
+Formación y consolidación de investigadores en IA con una inversión específica de 10M€ para una línea de atracción y retención del talento investigador en IA, a través del desarrollo de proyectos de investigación.
+
+Spain Talent Hub
+
+18
+
+Desarrollo de una infraestructura sólida de computación cuántica en España, con el primer ordenador cuántico del sur de Europa.
+
+Quantum Spain2
+
+22
+
+7 proyectos de desarrollo del Plan Nacional en Tecnologías del Lenguaje para impulsar el desarrollo en lenguas cooficiales, el desarrollo de un observatorio de medición de uso del castellano en las tecnologías del lenguaje, el proyecto de Lengua Española en IA (LEIA), el Valle de la Lengua (La Rioja), el desarrollo de terminologías (TeresIA), y el desarrollo de modelos de lenguaje. Todos ellos se enmarcan dentro de las actividades del PERTE de la Nueva Economía de la Lengua.
+
+Tecnologías del Lenguaje
+
+23,85
+
+Proyectos de aplicación de la IA en las actividades diarias de las empresas, 105M€ de inversión en 217 proyectos, 69% de financiación recibida por parte de pymes.
+
+Cadenas de valor
+
+105
+
+Proyecto que impulsa una inteligencia artificial Verde por Diseño (Green by Design), a través de cuatro ejes estratégicos: impulso de la eficiencia energética en el desarrollo de modelos de inteligencia artificial, uso de infraestructuras y servicios eficientes, integración de la inteligencia artificial verde y el blockchain en el tejido productivo, y dinamización del mercado castellano a través de la inteligencia artificial verde.
+
+Algoritmos Verdes3
+
+3,24
+
+En el ámbito de la Inteligencia Artificial ética y responsable se está trabajando en el mayor entendimiento del Reglamento europeo de IA, mediante unas guías para facilitar una IA ética, alineadas con el marco europeo, la definición de una Agencia para la supervisión de IA y aplicación de la Declaración Europea sobre Derechos y Principios Digitales.
+
+Ética y Normativa4
+
+3,3
+
+Redes Territoriales de Especialización Tecnológica (RETECH) orientadas a la transformación y especialización digital, asegurando la coordinación, colaboración y complementariedad en el área de la IA. Se incluye la Compra Pública de Innovación de INCIBE.
+
+RETECH y Compra Pública de Innovación5
+
+317
+
+TOTAL
+
+600
+
+1https://www.universidades.gob.es/ayudas_cooperacion_ia/ redes interdisciplinares de IA
+
+2https://espanadigital.gob.es/lineas-de-actuacion/catedras-ia-0
+
+3https://espanadigital.gob.es/lineas-de-actuacion/programa-nacional-de-algoritmos-verdes
+
+4https://planderecuperacion.gob.es/como-acceder-a-los-fondos/convocatorias/PLC/11383932/servicios-para-el-desarrollo-de-planes-de-impacto-de-la-inteligencia-artificial-desarrollo-de-un-sello-y-servicios-de-estudio-relativos-a-entornos-de-experimentacion-de-sistemas-de-ia
+
+5https://espanadigital.gob.es/medida/retech-redes-territoriales-de-especializacion-tecnologica
+
+Tabla 4. Distribución de ejecución presupuestaría en IA por sectores (abril de 2024)
+
+Descripción de la categoría Portfolios Inversión (en millones de euros)
+
+10 proyectos de la Iniciativa Cadenas de valor para gestión y explotación empresarial en la nube, así como de desarrollo de software adaptado a actividades empresariales específicas, soluciones de procesamiento masivo de material y datos en la nube para la actividad de las empresas, o desarrollo de nuevas funcionalidades de algoritmos ya operativos. Se añaden proyectos incluidos en la iniciativa Spain Talent Hub.
+
+Capacidades de supercomputación
+
+7,9
+
+Ciberseguridad
+
+78,6
+
+20 proyectos en el ámbito de la ciberseguridad, con especialización en biometría e identidad digital, Machine Learning, Deep Learning, Blockchain y redes neuronales, con diferentes aplicaciones como soluciones de identidad digital, identificación humana, identificación forense o detección avanzada de blanqueo de capitales para agencias y autoridades nacionales.
+
+90 proyectos para el desarrollo de entornos de almacenamiento masivo de datos (tecnología cloud), tecnologías de computación en la nube o cloud computing, para la generación de servicios de computación en la nube.
+
+Cloud, Big Data y SW
+
+84
+
+18 proyectos Quantum en Universidades y Centros de investigación, así como del Consorcio Barcelona Supercomputing Centre - Centro Nacional de Supercomputación (BSC-CNS), y de los Centros de Supercomputación de Galicia, y Castilla y León, para la generación del primer ecosistema de computación cuántica y la creación de la primera infraestructura de computación cuántica de España, explorando las aplicaciones de este nuevo paradigma computacional.
+
+Cuántica
+
+24,5
+
+18 proyectos dirigidos a mejorar la eficiencia energética de la propia IA en las máquinas de supercomputación que requiere (Green Tech) como desarrollos para mejorar la eficiencia energética en la producción de energía eólica, solar, movilidad urbana, consumos de plantas industriales, etc.
+
+Energía
+
+26
+
+80 proyectos dentro del Programa RETECH Cadenas de Valor, y RETECH Colabora, ambos en el ámbito de las CCAA, junto a proyectos de investigación universitaria, aplicados a los campos de las Comunicaciones, la Industria Aeronáutica, Arquitectura, Ingeniería y Construcción, Conducción Autónoma, Logística, Transportes o Seguridad, entre otros.
+
+Industria, ciudades y digitalización
+
+125,4
+
+Inteligencia, cultura y normativa
+
+72,7
+
+38 proyectos aplicados a múltiples ámbitos como industria musical y de videojuegos, pero también a entornos jurídicos, para la generación de sistemas de decisión automatizada en la Administración de Justicia, Gestión de patrimonio histórico, Emprendimiento en el medio rural, Economía del dato, Demografía y Ética.
+
+25 proyectos dedicados tanto a proteger actividades económicas que sustentan nuestro medio rural, como son el sector agroalimentario, sector ganadero o forestal, así como proteger la biodiversidad y el medioambiente tanto terrestre como marino.
+
+Medioambiente y medio rural
+
+69
+
+106 proyectos destinados al desarrollo de aplicaciones de IA en el ámbito de la Salud, tanto en lo que se refiere a la gestión de infraestructuras sanitarias y de los servicios de consulta y atención médica, como dirigidos a la investigación médica y científica, diagnóstico clínico, tratamientos médicos, o previsión de contingencias médicas y sanitarias, entre otros.
+
+Salud
+
+63,7
+
+24 iniciativas de IA aplicada a las AAPP dentro de los proyectos Competencias digitales para la ciudadanía, Estrategia IA en AAPP, Cátedra IA y Democracia, RETECH Misiones, en las CCAA de Castilla y León, Galicia y Aragón, además de la red Knowledge Heritage Network.
+
+Sector público
+
+13,4
+
+36 iniciativas integradas en proyectos principales como la red ILENIA y el PNTL (Plan Nacional de Tecnologías del Lenguaje) para la generación de corpus y el desarrollo del procesamiento del lenguaje natural y la traducción automática en lengua castellana y lenguas cooficiales. Las iniciativas persiguen igualmente el desarrollo de las Tecnologías del Lenguaje para la generación de múltiples aplicaciones de IA.
+
+Tecnologías del lenguaje
+
+34,8
+
+TOTAL
+
+## Iniciativa 4.2 Fomento de las competencias en IA
+
+Adicionalmente, se está fomentando la formación en competencias IA a través de distintas iniciativas formativas. Se desplegarán becas de formación en IA y Tecnologías Habilitadoras Digitales, puestas en marcha en abril de 2024 por un valor de 120 millones de euros, y 30 millones de euros en pro-yectos específicos para IA de inminente puesta en marcha.
+
+Es necesario seguir asegurando inversiones para el desarrollo de la IA y para la formación especializa-da, que puede convertirse en un factor limitante. Esta formación debe incluir varios aspectos. Por un lado, aspectos científicos y académicos, mediante la promoción de programas de doctorado y becas de investigación. Esto incluye no únicamente te-máticas de infraestructuras (datos, computación, etc.) y ámbitos lingüísticos, sino también todo aquello relacionado con la adopción de la IA (p. ej., escuelas de negocio, escuelas de ingeniería, filosofía y ética en el uso de la tecnología, etc.) y su adecuada transferencia de resultados de inves-tigación a productos de mercado.
+
+Tabla 5. Distribución de inversión presupuestaria en iniciativas de capacitación en IA (abril 2024).
+
+Inversión en millones de euros Abril 2024
+
+Descripción del proyecto Programas Talento y Capacitación en IA
+
+120 €
+
+Programa de Becas en IA y Tecnologías
+
+Habilitadoras Digitales Formación específica en IA
+
+30 €
+
+10 €
+
+Convocatoria de IA Excelente
+
+### TOTAL (M€)
+
+160 €
+
+Programas de atracción y retención de talento investigador dentro de la Inversión 4 del Componente 19, dedicado a financiar proyectos de digitalización con tecnologías tales como: IA, procesamiento masivo, computación de alto rendimiento, computación en la nube, ciberseguridad, biotech, robótica, tecnologías cuánticas, biometría e identidad digital, etc.
+
+Formación en inteligencia artificial dentro de la Inversión 4 del Componente 19, dedicado a mejorar las competencias de los profesionales digitales.
+
+Desarrollo de un programa de ejecución de proyectos de I+D+i de TRL alto (6-8) que fomente la transferencia de resultados de investigación aplicada en IA a productos de mercado por parte de centros de investigación públicos de reconocida excelencia investigadora.
+
+Por otro lado, en el ámbito empresarial, tanto en relación con las startups como con las gran-des empresas, las pymes y las asociaciones secto-riales, conociendo las capacidades y limitaciones de la tecnología, así como las estrategias de uso empresarial y su integración en creación de valor (tareas, trabajos, sistemas de producción, etc.), estas medidas complementan las llevadas a cabo en España para reformar la educación y la forma-ción profesional, generando un impulso sobre el desarrollo de la formación tecnológica en nuestro país.
+
+En los últimos años, diversas universidades han apostado por la creación de nuevos cursos de formación (grados y másteres) especializada en IA. Los datos del curso 2022-23 nos muestran que 15 universidades públicas han puesto en marcha estudios de grado tanto en Inteligencia Artificial como en Ciencia e Ingeniería de Datos. En el ámbito de los estudios de máster la oferta es más amplia, puesto que los estudios pueden focalizarse y especializarse con mayor facilidad. Encontramos una oferta 2022-23 de 20 másteres (en temáticas de IA genérica o especializada en Inteligencia de negocio, Visualización, Inteligen-cia computacional). A esta oferta pública se suma una oferta privada de 5 grados y 5 másteres en las mismas materias.
+
+Respecto a las novedades desde el mundo de la formación profesional, en 2021, se crearon va-rios cursos de especialización, dentro de la fami-lia profesional de Informática y Comunicaciones, que constituyen formación específica en materias como Inteligencia Artificial, Gestión de datos o Ci-berseguridad. En concreto, la oferta actual ofrece curso de especialización en Inteligencia Artificial y Big Data, en ciberseguridad en entornos de las tecnologías de la información y en desarrollo de videojuegos y realidad virtual.
+
+Estos datos reflejan cómo el uso de la inteligen-cia artificial cobra especial relevancia en el ámbi-to de la educación, apostando tanto por la inte-gración curricular de la IA en el currículo a través del desarrollo del Pensamiento Computacional y la Competencia Digital del alumnado, como me-diante el desarrollo profesional del profesorado con programas de formación y acompañamiento en el desarrollo de la competencia digital docen-
+
+1https://www.boe.es/buscar/act.php?id=BOE-A-2023-25758
+
+te. Ejemplo de ello son programas como Códi-go Escuela 4.0 (2023-2026), desarrollado por el Ministerio de Educación, Formación Profesional y Deportes y las comunidades autónomas, que mejoran las competencias de profesorado y el alumnado en el ámbito del pensamiento compu-tacional, la programación, la robótica y la IA, y todo ello, atendiendo como no puede ser de otra forma en educación, a los aspectos éticos del uso y desarrollo de la IA.
+
+Finalmente, la Administración Pública se encuen-tra en un momento crucial en el que debe estar preparada para responder eficazmente a las de-mandas cambiantes de la sociedad. En este senti-do, la prestación de servicios públicos de calidad es fundamental para satisfacer las necesidades de los ciudadanos y garantizar su bienestar. Sin em-bargo, para lograr este objetivo, es necesario con-tar con un capital humano altamente cualificado y comprometido, capaz de anticiparse a las de-mandas emergentes y adaptarse a un entorno en constante evolución. El relevo generacional que deberán afrontar las administraciones públicas en los próximos años constituye una gran oportuni-dad para renovar sus capacidades técnicas y pro-fesionales, necesarias para poder abordar así de manera natural un cambio con la incorporación de generaciones de jóvenes que tienen los conoci-mientos y las competencias necesarias para aten-der las necesidades públicas de la administración y los ciudadanos del siglo XXI.
+
+Para ello, no obstante, ya contamos con un punto de partida sobre el que sentar las bases de la trans-formación de la función pública, el RDL 6/20231, sobre el que se construirá el nuevo modelo basa-do en: la gestión previsional de efectivos y mayor autonomía de gestión, la captación y retención de talento junior y senior, unos recursos humanos basados en competencias y carreras profesionales más atractivas.
+
+Con la implantación de este modelo se mejorará la entrada, el ejercicio y el final de la carrera de los empleados públicos, trabajando en paralelo para cumplir los compromisos del Acuerdo Marco para una Administración del siglo XXI, marco de acción para modernizar la administración pública y reco-nocer la contribución de los empleados públicos al crecimiento económico y al bienestar social.
+
+Eje 2
+
+## Eje 2: — Facilitar la expansión de la IA en el sector público y privado fomentando la innovación y la ciberseguridad
+
+Un futuro impulsado por la adopción responsable de la IA en el sector público y privado
+
+Palanca 5: Impulsar la IA en el sector público
+
+La digitalización y la IA suponen una oportuni-dad para acercar la Administración a la ciudada-nía y superar las brechas de acceso a la misma, prestando servicios públicos de calidad y asegu-rando que la ciudadanía pueda elegir el modo en que se comunica con la Administración. En paralelo, potenciar el uso de la IA en el sector público puede proporcionar a los empleados públicos las mejores herramientas de acompa- ñamiento, en la prestación de unos servicios públicos de calidad, propios de un Estado de bienestar maduro y una democracia avanzada.
+
+El desarrollo y promoción de la IA en la Adminis-tración General del Estado (AGE) es una de las piezas fundamentales del proyecto de desarro-llar una Administración abierta y moderna, en la que la Secretaría General de Administración Digital (SGAD), debe ser el principal catalizador de esta transformación, optimizando las capaci-dades y la inversión en activos tecnológicos para generar servicios públicos inclusivos y permitir el pleno aprovechamiento de la IA generativa, ga-rantizando la protección de datos y la seguridad de la información.
+
+Figura 4. Evolución de los Servicios públicos.
+
+Servicios públicos de calidad y crecimiento económico
+
+• Existe una correlación empíricamente contrastada entre el nivel de calidad de los servicios públicos y el crecimiento económico. • España ocupa posiciones intermedias cuando se hace una correlación entre países. • La incorporación de la IA ayudará a avanzar hacia posiciones similares a las de los países mejor posicionados, los nórdicos, con Dinamarca a la cabeza.
+
+Ilustración 4. Relación entre calidad de los servicios públicos y crecimiento económico.
+
+50
+
+95
+
+Índice de calidad de la administración pública
+
+Estonia
+
+90
+
+Lituania
+
+85
+
+Portugal
+
+España
+
+Letonia
+
+80
+
+Chequia
+
+75
+
+Eslovenia
+
+Eslovaquia
+
+70
+
+Polonia Rumanía
+
+65
+
+Hungría
+
+Bulgaria Grecia
+
+Croacia
+
+60
+
+R2=0,8
+
+Países Bajos Finlandia
+
+Dinamarca
+
+Reino Unido Suecia Austria
+
+Alemania
+
+Bélgica
+
+Francia
+
+Malta
+
+Chipre
+
+Italia
+
+5,0 9,6 9,8 10,0 10,2 10,4 10,6 10,8 11,0 11,2
+
+Renta per capita (InPIBpc)
+
+Fuente: Elaboración propia a partir de Eurostat y de Quality
+
+of Government Institute of Gothenburg University 2022.
+
+Las demandas de la ciudadanía requieren me-jorar la capacidad de respuesta y avanzar en la personalización de los servicios públicos, y se unen las mayores expectativas sobre el pa-pel de la Administración en la era digital. Por ello, es imprescindible avanzar hacia un sec-tor público tecnológicamente maduro, en los que la IA y el análisis de grandes volúmenes de datos son elementos de apoyo para hacer frente a estos desafíos.
+
+La Administración puede encontrar en el po-tencial de esta tecnología, usándola como herramienta para mejorar la toma de deci-siones en el desarrollo de políticas públicas,
+
+un elemento clave para mejorar la eficiencia de la operación diaria de numerosos procesos administrativos al igual que para actividades como la detección más precisa de problemas sociales, para hacer mejores predicciones so-bre el efecto de las políticas públicas, para la automatización de procesos o para mejorar la prestación de servicios públicos gracias a la introducción de servicios personalizados. En este sentido, el uso de la IA generativa pue-de ofrecer importantes ganancias potenciales de productividad para el sector público, com-plementando, además, las capacidades de IA existentes que ya se están desarrollando den-tro del mismo.
+
+Figura 5. Comparativa de los servicios públicos digitales
+
+España parte de una buena posición en gobierno electrónico y servicios públicos digitales en la UE
+
+España se encuentra ya en una posición razonable: las estadísticas muestran que se encuentra por encima del promedio de la UE (Informe sobre el estado de la Década Digital 2023) en indicadores como:
+
+• N.º de internautas que utilizan servicios de AE, 84% frente a 74%.
+
+• Servicios públicos digitales para ciudadanos, 86% frente a 77%.
+
+• Acceso a registros médicos electrónicos, 83% frente a 72%.
+
+• El 73,8% han utilizado internet, teléfono o tableta para hacer consultas con la Administración en los últimos 12 meses (XIV Estudio de Calidad de los Servicios Públicos del CIS).
+
+Ilustración 5. Relación entre calidad de los servicios públicos y crecimiento económico.
+
+98,9 98,7 97,0 96,9 95,8 95,0 90,9 90,2 89,2 88,1 85,0 84,0 81,1 81,0 81,6 81,1 81,0 80,8 80,5 78,5 77,0 76,1 74,2
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+ESPAÑA
+
+Finlandia
+
+Países Bajos
+
+Dinamarca
+
+Suecia
+
+Estonia
+
+Chipre
+
+Luxemburgo
+
+R.Checa
+
+Lituania
+
+Malta
+
+Francia
+
+Irlanda
+
+Bélgica
+
+68,7
+
+62,6
+
+55,1
+
+31,7
+
+21,6
+
+PROMEDIO UE
+
+Eslovaquia
+
+Eslovenia
+
+Hungría
+
+Portugal
+
+Grecia
+
+Austria
+
+Letonia
+
+Italia
+
+Croacia
+
+Polonia
+
+Alemania
+
+Bulgaria
+
+Rumanía
+
+Fuente: Comisión Europea. Década Digital 2023. Datos de 2022.
+
+Figura 6. Adopción de la IA en la AAPP
+
+### Ejemplos de adopción de IA por parte de las AAPP de otros países europeos en sus operaciones diarias
+
+CASOS EN EUROPA
+
+Uso de IA generativa para producir un cambio notable en el ámbito de la experiencia del cliente a través de un nuevo Modelo de Gestión del Conocimiento.
+
+Poste Italiane
+
+Simplificación del acceso a ayudas sociales con IA generativa a través de un chatbot que interactúa con el usuario para comprobar si cumple los criterios de elegibilidad.
+
+Ayto. París
+
+Asistencia ciudadana a través de AI Lumi, que utiliza la información pública disponible de la ciudad con el fin de ser capaz de proporcionar la respuesta más adaptada a cada preocupación ciudadana.
+
+Ayto. Heidelberg
+
+Creación de recursos (que implica la colaboración con OpenAI y la utilización de la tecnología de GPT-4) para la preservación de lenguas nativas.
+
+Gobierno de Islandia
+
+Mentor för hemtjänsten-Mentor para cuidados domiciliarios y residencias de ancianos, que permite al cuidador poder tener respuestas a las preguntas que le surjan en el trabajo respecto a las personas a su cargo.
+
+Ayto. Lidingö (Suecia)
+
+Grupo de asistentes virtuales para IA que brindan un servicio mucho más fluido y unificado para emprendedores interesados en llevar sus negocios a Finlandia.
+
+Gobierno de Finlandia
+
+Implementación de algoritmos de toma de decisiones que analizan diversos factores para emparejar a los niños con las escuelas.
+
+Ministerio de Educación (Polonia)
+
+Sistema algorítmico de elaboración de perfiles de solicitantes de empleo para aumentar la eficiencia y la eficacia del asesoramiento.
+
+Servicio de Empleo (Austria)
+
+Fuentes: Elaboración propia a partir del informe “Public sector and healthcare organizations in the Nordics are using conversational AI to improve quality of file for citizens” de boots.ai. 2024; del informe “Automating Society: Taking Stock of Automated Decision-Making in the EU” de Open Society Foundations. 2019; y del artículo “Auditing Risk Prediction of Long-Term Unemployment”, Seidelin, C & al. 2022.
+
+La situación de España en este ámbito es relativamente buena, situándose según estudios re-cientes, en el sexto lugar de los países de la UE que más implementan algoritmos en el ámbito público. Entre los proyectos que se han impulsado desde la AGE, y que están centralizando la introducción de la IA en las AAPP , se pueden señalar, a modo de ejemplo, (i) el proyecto GovTechLab, enfocado en acercar las soluciones de las empresas innovadoras a la adminis-tración y viceversa; (ii) los servicios lingüísticos básicos en lenguas cooficiales y transversales para utilizarlos en todas las AAPP; y (iii) la incorporación de la IA para mejorar la eficiencia y eliminar cuellos de botella administrativos, mediante el desarrollo de casos de uso centrados en los asistentes virtuales, lucha contra el fraude o medidas de ciberseguridad. En esta pa-lanca, por tanto, se promoverá la puesta en marcha de nuevas actuaciones que sirvan tanto de impulso al sector público como ejemplo de innovación y aplicabilidad de soluciones de IA, como para aprovechar la capacidad tractora del sector público para crear nuevos servicios y soluciones que permitan la generación de un ecosistema privado en torno a la IA generativa en la industria española.
+
+En este sentido, la aplicación de la iniciativa de incorporar un modelo fundacional en castella-no y lenguas cooficiales a la actividad de las AAPP será fundamental, en cuanto que permitirá aumentar la capacidad, efectividad y eficiencia de los organismos públicos como proveedores de servicios, reduciendo las cargas administrativas generales del personal.
+
+Además, la creación de modelos especializados del lenguaje, derivados del modelo fun-dacional y adaptados a distintas verticales del sector público (Sanidad, Territorio, Justicia, Medioambiente, Tributaria.…), serán capaces de apuntalar de forma más eficaz la provisión de los servicios públicos al ajustarse mejor a dominios o tareas específicas. Estos modelos cum-plirán también con los máximos estándares de transparencia y serán revisados por la AESIA.
+
+## Iniciativa 5.1 Incubadora de casos de uso para la AGE
+
+La implementación de casos de uso en la AGE que se deriven del modelo fundacional desa-rrollado se impulsará mediante la creación de un laboratorio de innovación que centralice los casos piloto de IA y el desarrollo de soluciones innovadoras para las entidades del sector públi-co estatal, por medio del proyecto GovTech de la Secretaría General de Administración Digital (SGAD), presupuestado en 21 millones de euros. De esta forma, se podrán aprovechar las siner-gias en el desarrollo de modelos y sobre todo tener un proceso de aprendizaje que vaya gene-rando capacidades y conocimiento para su desa-rrollo. Este esquema de gobernanza centraliza-do para la selección de casos de uso en la AGE se compone de los siguientes elementos:
+
+• Las entidades de la AGE enviarán sus pro-puestas de casos de uso al Ministerio para la Transformación Digital, a través de la SGAD. Los casos de uso de IA se seleccionarán y se prio-rizarán. Adicionalmente se hará una guía con información sobre ejemplos anteriores y servi-cios centralizados disponibles para desarrollar planes de impacto en IA y servicios relativos a la experimentación de sistemas de IA.
+
+• Estos casos de uso seleccionados se compar-tirán con el comité de Estrategia de los respon-sables de Tecnología de Información y Comuni-cación de forma regular. Los casos de uso, en un entorno muy dinámico, irán teniendo nuevas
+
+demandas en el tiempo y se hará un seguimien-to de los resultados de los mismos y de las posi-bles sinergias entre los distintos casos.
+
+El desarrollo de los casos de uso se llevará a cabo por parte del sector privado y organismos de investigación, contribuyendo al crecimiento del ecosistema de emprendimiento en IA defi-nido en la Palanca 6. Se pondrá en marcha por medio de la iniciativa GovTech de la SGAD y ten-drá como objetivo crear modelos especializados a partir de ajustes o fine-tuning sobre el modelo fundacional original. Se evolucionará hacia un espacio integrado de datos del sector público que servirá no solo para desarrollar modelos de IA generativa, sino también para evaluar políti-cas públicas o avanzar hacia un gobierno abier-to.
+
+• La AESIA se encargará de la revisión de con-formidad de estos modelos desarrollando un esquema de buenas prácticas en su desarrollo y despliegue, teniendo en cuenta, no obstante, lo indicado tanto en el Reglamento Europeo de Inteligencia Artificial como en las regulaciones asociadas a diferentes sectores específicos (o de alto riesgo), en coordinación con el resto de agencias. Estos modelos serán los primeros en formar parte del Sandbox regulatorio, lo que permitirá ir desarrollando guías de implementa-ción de los modelos, que servirán también de referencia al sector privado.
+
+Figura 7. Gobierno de casos de uso de la AGE.
+
+1. Propuestas de caso de uso
+
+2. Priorización de los casos
+
+de AAPP al Ministerio Trans.
+
+de uso
+
+Digital
+
+Proceso centralizado y continuado en el tiempo
+
+Informe al Comité
+
+de Estrategia TIC
+
+4. Evaluación de conformidad
+
+3. Desarrollo de los casos
+
+(alto riesgo) y Sello de calidad
+
+de uso
+
+(certificación)
+
+Inicialmente sobre la base
+
+Realizada por
+
+del proyecto GovTech
+
+AESIA
+
+Posteriormente en un medio
+
+Los modelos se integrarán al Sandbox de IA para generar
+
+propio de nueva creación, dotado de capital humano
+
+guías de implementación de la regulación en IA europea
+
+especializado
+
+## Iniciativa 5.2 Servicios comunes basados en modelos de IA en la AGE
+
+Es importante que todos los sistemas producidos por la incubadora del sector público se pongan a disposición de toda la administración pública en la plataforma de servicios comunes de la SGAD, por medio de acuerdos de nivel de servicio que permitan esta prestación, de manera que la ex-periencia y la tecnología pueda reutilizarse para objetivos similares por otros organismos o escalar algunos de los casos a un sistema de IA común de la AGE. Para ello, la SGAD creará un nodo de servi-cios tecnológicos centralizados para el resto de las entidades de la AGE. Para conseguir la adopción masiva del uso de modelos de inteligencia artifi-cial en el sector público, es fundamental incluirlos en el catálogo de productos que ofrece la SGAD para favorecer su reutilización.
+
+Uno de esos casos escalables para toda la admi-nistración es la creación de un banco de conoci-miento sobre todas las competencias de la ad-ministración del que se puede servir el personal funcionario en su labor de atención ciudadana. Para ello, será necesario la puesta en común de información del sector público, incluyendo aque-lla relativa a legislación vigente, repositorios de consultas y preguntas frecuentes, y el entrena-miento regular de los sistemas de IA según se actualicen los datos y las dudas e intereses de los ciudadanos.
+
+A partir de este banco de conocimiento se podrá generar, entre otros, un servicio común de crea-ción de chatbots que puedan entrenarse para dar servicios específicos tanto a través de la web como en consultas telefónicas. Un claro ejemplo es el número 060, un asistente inteligente por voz basado en IA generativa, que incluye el reco-nocimiento de edad y sentimiento. Este asistente virtual podrá generar contenidos personaliza-dos, por ejemplo, documentos a demanda del usuario y traducir a lenguaje claro aquella infor-mación demandada por el ciudadano.
+
+## Iniciativa 5.3 Gobernanza común de datos de la AGE
+
+Para desarrollar modelos especializados del len-guaje que permitan desarrollar aplicaciones para el despliegue en el sector público, se establecerá un modelo de gobernanza común de los datos y corpus documentales de la AGE que garanticen los estándares de seguridad, calidad, interopera-bilidad y reutilización de todos los datos.
+
+Actualmente, la arquitectura normativa que sus-tenta el tratamiento y el intercambio de informa-ción en el contexto de la AGE se articula a través de un marco legal distribuido y complejo, abarcan-do regulación europea y nacional de gran hetero-geneidad y amplitud. Resulta necesario abordar la regulación desde un enfoque legislativo integral, desarrollando un modelo de gobierno del dato. En efecto, este impulso normativo para una go-bernanza efectiva del dato en la AGE incluirá el diseño general de una estructura organizativa orientada al dato, con la nueva Dirección General del Dato de la Secretaría de Estado de Digitaliza-ción e Inteligencia Artificial como elemento verte-brador y posibilitador.
+
+La gobernanza de datos garantizará la anonimi-zación y la privacidad de la información, así como el respeto al cumplimiento de la normativa espe-cífica aplicable a cada caso a lo largo de todo el ciclo de vida. Asimismo, asegurará que el uso de los datos se realiza de forma responsable, vincula-dos a casos de uso, y cumpliendo con estándares
+
+éticos y normativos establecidos, mientras que los estándares de calidad, interoperabilidad y reutili-zación, serán estándares aplicables a cada sector específico dentro de la AGE. Se deberán definir y potenciar elementos necesarios para el desarrollo eficaz del gobierno de datos, incluyendo, entre otros, el impulso a la Plataforma de datos de la AGE, la generación de los catálogos de metadatos de los departamentos, el mapa de intercambios de datos, el fomento de la interoperabilidad, el aseguramiento de la calidad, la incorporación de principios éticos y la protección de la privacidad y la seguridad. En definitiva, el desarrollo eficaz de un gobierno del dato en la AGE facilitara el despliegue de iniciativas de IA de mayor calidad y utilidad, además de ser un elemento fundamental en otros ámbitos como la evaluación de políticas públicas.
+
+El espacio de datos de la AGE dispone de conjun-tos de datos o data sets que se pueden explotar para el entrenamiento de modelos. Estos data sets son necesariamente sectoriales para dar solución a los casos de uso específicos de cada organismo. En un entorno unificado, desarrollar soluciones basadas en IA. Las herramientas proporcionadas permiten desde la preparación de los datos, la in-tegración de diferentes fuentes, el entrenamiento de modelos y operaciones basadas en aprendiza-je automático, hasta la visualización y monitoriza-ción de los modelos desarrollados.
+
+Palanca 6: Ayudar a la expansión de la IA en el sector privado, singularmente en pequeñas y medianas empresas
+
+La expansión de la IA requiere potenciar su adopción, fundamentalmente por las pymes y los autónomos, que habitualmente tienen más dificultades para su integración, de mane-ra que se consigan capitalizar los aumentos de productividad en todos los sectores y generar nuevas oportunidades de negocio a través de servicios de valor añadido donde la IA propor-cione un valor diferencial. Cada vez más fre-cuentemente se incorporan tecnologías emer-gentes como la generación de datos sintéticos
+
+o la combinación de IA y conocimiento experto para generar la toma de decisiones estratégi-cas, y también soluciones de IA generativa. Se hace necesario, también, reforzar las acciones orientadas a potenciar el desarrollo de un eco-sistema de emprendimiento e innovación en el sector empresarial. En este sentido, el sector público puede facilitar la integración de esta tecnología en las empresas, fomentando la in-novación empresarial en un marco de uso de IA confiable y responsable.
+
+Figura 8. Crecimiento en el uso de la IA1.
+
+Ilustración 6. Evolución en el uso de IA.
+
+Adopción IA en las empresas
+
+• La adopción de la inteligencia artificial en las que se
+
+ha avanzado de forma notable en los dos últimos años.
+
+• El 11,8% de las empresas españolas de diez o más personas
+
+empleadas utiliza tecnologías de inteligencia artificial.
+
+• Cuatro de cada diez grandes empresas utilizan algún
+
+tipo de IA (41,2%).
+
+• En las medianas el porcentaje es el 20%.
+
+• Y entre las pequeñas empresas es el 9,4%.
+
+Total
+
+De 10 a 49
+
+Total micro
+
+De 50 a 249
+
+Más de 249
+
+1ONTSI (2023): “Uso de inteligencia artificial y big data en las empresas españolas”.
+
+50 .........................................................................................
+
+41,2
+
+40 ..........................................................................................
+
+33,1
+
+30 ..........................................................................................
+
+20
+
+20 ..........................................................................................
+
+13,6
+
+10 .........................................................................................
+
+9,4
+
+11,8
+
+8,3
+
+6,7
+
+4,6
+
+3,5
+
+0 ............................................................................................
+
+Fuente: Instituto Nacional de Estadística / ONTSI
+
+## Iniciativa 6.1 Incorporación de la IA a los procesos de las pymes
+
+Con el objetivo de acelerar la incorporación de soluciones y productos de IA en las pymes y de facilitar el asesoramiento en su adopción, se van a desarrollar distintas iniciativas en este sentido, mediante un presupuesto que puede alcanzar los 350 millones de euros, implementándose desde la segunda mitad de 2024. También es importante destacar la puesta en marcha del Kit Consulting, para ello se dedicarán hasta 300 millones de euros, con un impacto potencial de 15.000 empresas.
+
+Destacamos (i) la Incorporación de productos de IA al Kit Digital cuyo objetivo sea la gestión de sus clientes (enfocado en la digitalización y opti-mización de las relaciones comerciales mediante IA para optimizar procesos); (ii) análisis y visuali-zación de datos (enfocado en la explotación de datos mediante IA para la mejora del proceso de toma de decisiones o business intelligence) y (iii) gestión de procesos (con el fin de digitalizar y automatizar procesos de negocio mediante IA relacionados con aspectos operativos o produc-tivos en las empresas beneficiarias).
+
+La iniciativa Kit Consulting consiste en un nuevo servicio ofrecido a la pyme, para la contratación de asesoramiento en la adopción de IA. Se im-plementará siguiendo el modelo del kit digital, mediante Agentes Asesores Digitales Adheri-dos. Este nuevo servicio se pondrá en marcha en mayo de 2024 y se concibe como un elemento previo a la adopción de productos de IA por las empresas.
+
+Para ayudar en la instrumentalización de estos servicios y productos, se cuenta además con la plataforma Acelera pyme mediante su red de Oficinas que dan soporte a la transformación di-gital de las pymes, autónomos y emprendedores por toda España.
+
+## Iniciativa 6.2 Desarrollo del ecosistema de emprendimiento en IA
+
+El objetivo de esta iniciativa es facilitar el acceso a la financiación de las empresas españolas que desarrollan nuevas soluciones de IA, si están en fase inicial de desarrollo, startups, o se encuen-tran en una fase de crecimiento, scale-up. Para ello se utilizarán recursos del fondo Next Tech con un potencial de inversión de 4 mil millones de euros, de los que se plantea utilizar un 10% para financiar empresas (400 millones de euros) que desarrollen proyectos de IA..
+
+Este fondo está dirigido tanto a inversiones di-rectas de capital en empresas que desarrollen tecnologías innovadoras como a inversiones en fondos de inversión, que inviertan, principal-mente, en empresas en crecimiento o scale-ups y tengan un fuerte componente tecnológico. El objetivo es potenciar el crecimiento de las em-presas españolas a través del desarrollo de pro-yectos digitales de alto impacto; impulsar el em-prendimiento digital y en tecnologías digitales habilitadoras; así como consolidar el desarrollo de empresas de base tecnológica altamente in-novadoras (scale-ups). Dentro de la utilización del fondo se prevé la ampliación de su cobertu-ra a proyectos de capital semilla, a la vez que a priorizar las iniciativas ligadas a la IA.
+
+## Iniciativa 6.3 Infraestructura segura de entrenamiento de modelos de propósito específico
+
+A partir del modelo fundacional en castellano y lenguas cooficiales, se desarrollarán modelos especializados más pequeños con aplicaciones focalizadas en las necesidades del mercado. Se utilizarán partidas de fondos FEDER, por valor de 300M de euros, que también se usan en la Palanca 4. El objetivo es aprovechar el mode-lo fundacional para que el tejido empresarial español pueda desarrollar nuevos productos y servicios a través de la creación de modelos es-pecíficos y especializados en sectores o activida-des. A través de esa acción se persigue tener un impacto positivo en sectores clave como la sa-lud, el cambio climático y la industria conectada, mejorando la competitividad internacional de las empresas españolas y fomentar una mayor colaboración público-privada en la investigación y aplicación de tecnologías de vanguardia.
+
+El entrenamiento de estos modelos especializa-dos se debe hacer desde un entorno controla-do para las empresas, procurando la seguridad, además de facilitando el acceso a los servicios y recursos necesarios para su entrenamiento y descarga, y proporcionando herramientas para asegurar su calidad y confiabilidad. La platafor-ma descrita en la “Iniciativa 4. Infraestructura y procesos para evaluación de modelos de len-guaje de la Palanca 3” permitirá todo esto. A partir de esta infraestructura, se desarrollarán:
+
+1. Un Plan de despliegue de proximidad: Con la creación de una plataforma en entorno seguro pre-comercial para que las empresas puedan desarrollar pruebas de concepto que requieran de actividades como la inferencia de modelos, el ajuste de modelos a tareas, la evaluación o la ali-neación de los mismos, etc. Esta plataforma dis-pondrá de equipos de soporte a empresas y star-tups, partiendo de los puntos de la red de ILENIA o de la RES, que se encargarán de gestionar el acceso al “entorno seguro de entrenamiento de modelos de lenguaje”, orientando acerca del uso de estos servicios y constituyendo un punto de encuentro regional para el ecosistema empresa-rial. Este entorno estará disponible tanto para el sector de la investigación y academia como para el de innovación y startups. Por otro lado, se creará un “Espacio de Datos de la Lengua” como punto de acceso principal que permita garanti-zar la disponibilidad y el acceso a todos los da-tos, modelos y herramientas necesarios para el desarrollo de los modelos de lenguaje y de apli-caciones.
+
+2 Un catálogo de servicios a empresas para in-novación: Los nodos sectoriales van a facilitar la colaboración entre organizaciones, reuniendo a diversos socios de la industria, el sector público y el mundo académico para optimizar el uso de modelos de lenguaje en un ámbito determina-do. A partir de proyectos tractores ambiciosos se fomentará la colaboración reuniendo a diversos socios de la industria, el sector público y el mun-do académico. Como punto de partida se prevé la creación de nodos para: (i) GovTech, (ii) Salud/ Biomédico, (iii) Educación, (iv) Legal/Finanzas y (v) Comunicación. Se podrá promover la elabo-ración de modelos ajustados a tarea/sector que puedan ser compartidos y la creación de nuevos corpus de datos (tanto para pre-entrenamiento como para instrucción y evaluación) que puedan beneficiar al sector de manera conjunta. Final-mente, se colaborará con los proveedores más habituales de grandes servicios en la nube, con el fin de garantizar la compatibilidad y disponibili-dad de los modelos de lenguaje en los entornos a los que startups y empresas están habituados.
+
+3.Impulso a un programa de startups de mo-delos de lenguaje: Se quiere acompañar el de-sarrollo y consolidación del ecosistema nacional de startups en modelos de lenguaje mediante la puesta en marcha de mecanismos de acelera-ción y de la mejora de los instrumentos para su financiación temprana. Por una parte, se pondrá en marcha un programa de aceleración especia-lizado en modelos de lenguaje para facilitar el crecimiento de startups con capacidad de atraer inversión privada y escalar a nivel europeo y en América Latina y el Caribe. Para ello se buscará la colaboración con una o varias entidades del sector privado con experiencia en la gestión de programas de aceleración en relación con (i) oferta de servicios especializados para startups (apoyo a la creación, emprendimiento, mentoría especializada de negocio, asesoramiento legal y financiero, etc.) y (ii) gestión y dinamización de espacios. Esta iniciativa está vinculada también a la utilización del fondo Next Tech, para impulsar startups que utilicen modelos de lenguaje priori-zando la co-inversión pública en fases tempranas para facilitar su crecimiento. El objetivo de todo este abanico de actividades es poder generar un ecosistema empresarial robusto alrededor de los modelos de lenguaje que garantice la adopción e innovación a nivel nacional y la capacidad de expansión internacional.
+
+Palanca 7
+
+## Palanca 7: Desarrollar un marco de ciberseguridad
+
+Todos los países están poniendo el foco de manera creciente en la ciberseguridad, como elemento inherente a la digitalización, especial-mente ante la irrupción de transformaciones tecnológicas como la IA. La ciberseguridad es una pieza central de soberanía estratégica y es un elemento esencial en la generación de la confianza y la seguridad que deben acompañar necesariamente a la transformación tecnológica de la economía.
+
+Los sectores económicos claves son muy depen-dientes de las redes y de los sistemas de infor-mación con altos niveles de interconexión: por ello, es especialmente relevante disponer de los mayores niveles de seguridad en las infraes-tructuras críticas y los servicios esenciales, tanto en el sector público como en el sector privado. Reforzar la ciberseguridad es necesario para fo-mentar la confianza, la innovación, la conectivi-dad y la digitalización protegiendo a la vez los derechos de los ciudadanos y su privacidad. Esto es, la ciberseguridad es un componente intrín-
+
+seco de la propia digitalización y del desarrollo de nuevas tecnologías (muy especialmente de la IA), y su fortalecimiento es determinante para la soberanía estratégica de las naciones y para garantizar la transición digital. El impacto de la IA en la ciberseguridad es sig-nificativo, y abarca varias áreas tanto desde el punto de vista de la prevención como de la respuesta a los incidentes. Por una parte, los avances en la IA suponen un desafío a la ciber-seguridad, pero a la vez la IA proporciona he-rramientas que suponen una mejora de la pre-vención y detección avanzada de amenazas a través de modelos predictivos. España parte de una buena situación en ciber-seguridad: es el tercer país europeo tras Reino Unido y Estonia en el índice global de cibersegu-ridad (ICG) evaluado por las Naciones Unidas. Basándose en esta buena situación de partida, se plantean líneas de acción para seguir refor-zando la ciberseguridad en el marco del desa-rrollo de la IA, aprovechando las oportunidades que ofrece esta tecnología.
+
+## Iniciativa 7.1 Elaboración de una ley de ciberseguridad
+
+En el contexto del marco jurídico europeo de la se-guridad, así como del Esquema Nacional de Seguri-dad, la Ley de Ciberseguridad es una iniciativa del Gobierno para establecer una legislación que pro-porcione un marco claro y completo de desarrollo la ciberseguridad nacional mejorando la protec-ción de los sistemas de información, redes y datos en el país. Ante los desafíos crecientes del mundo digital en los diferentes escenarios actuales es ne-cesario disponer de una norma que contemple to-dos los elementos de la ciberseguridad, desde la formación y la inversión para reforzar la seguridad hasta la mejora de la capacidad de respuesta ante incidentes.
+
+Esta iniciativa propone un marco de gobernanza de la ciberseguridad nacional que establezca el conjunto de políticas, procesos, estructuras orga-nizativas y mecanismos de supervisión necesarios
+
+para implementar los controles de seguridad ade-cuados. La coordinación entre los diferentes acto-res públicos y privados dentro de este marco es fun-damental para garantizar una respuesta efectiva y unificada frente a los incidentes de ciberseguridad.
+
+Asimismo, en este marco se articulan las diferentes medidas necesarias para mejorar el ciclo de vida de la ciberseguridad nacional. Entre ellas, se definen las medidas específicas de prevención y protección ante los riesgos de seguridad y la propia detección y respuesta ante los ciberincidentes. Se destaca la importancia de la detección temprana y la respues-ta efectiva ante el ascendente número de inciden-tes de ciberseguridad. De esta forma, se desarro-llan los mecanismos de supervisión necesarios para fomentar la monitorización y evaluación continua de los riesgos y de la efectividad de estas medidas designadas de seguridad.
+
+## Iniciativa 7.2 Impulso del ecosistema empresarial de ciberseguridad con IA
+
+El impulso del ecosistema empresarial nacional de desarrollo de la ciberseguridad con IA es funda-mental para fortalecer la seguridad cibernética y proteger los activos digitales del país. Se propone un conjunto de acciones a desarrollar en el marco de esta iniciativa para fomentar la innovación, la colaboración y la adopción de tecnologías de IA en el ámbito de la ciberseguridad. Para las inicia-tivas vinculadas específicamente a la combinación de inteligencia artificial y ciberseguridad, INCIBE ha movilizado inversiones por aproximadamente 12M de euros. Adicionalmente, INCIBE ha dis-puesto una partida de 48M de euros en progra-mas de Ciberseguridad e Inteligencia Artificial en su cuarto programa de Compra Pública Innovado-ra, como queda reflejado en la Palanca 4.
+
+Entre estas acciones, en el marco del Plan de Re-cuperación, Transformación y Resiliencia, contri-buyendo a la transformación digital, cabe des-tacar las invitaciones públicas de INCIBE para la colaboración en la promoción de Cátedras de Inteligencia Artificial aplicada a la ciberseguri-dad y Proyectos Estratégicos de Ciberseguridad en España enfocadas al desarrollo en régimen de colaboración entre INCIBE y las universidades pú-blicas y privadas. Estos proyectos, tienen como fi-nalidad el aprovechamiento de las oportunidades que ofrece la ciberseguridad mediante medidas que la impulsen como motor de innovación y cre-cimiento económico, social, inclusivo y sostenible, así como el fortalecimiento de la competitividad a través de las actividades de I+D en el conjunto de las tecnologías vinculadas a la ciberseguridad, entre las que está la inteligencia artificial. Final-mente, es destacable como campo de acción en el marco de IA a través de INCIBE, la iniciativa es-tratégica de compra pública innovadora, la cual está utilizando la IA como tecnología integrada en desarrollo de soluciones de I+D de ciberseguri-dad enfocadas a diferentes retos.
+
+## Eje 3: — Desarrollar una IA transparente, responsable y humanística — Palanca 8: Desarrollar las funciones de la AESIA
+
+Un faro de conocimiento y co-creación de una gobernanza de la IA que asegura el progreso de nuestra sociedad y la competitividad de nuestra economía
+
+Como fuerza transformadora de los contex-tos tecnológicos y socioeconómicos, la IA supone una revolución global que permea toda la sociedad y plantea desafíos regula-torios, éticos y sociales de gran relevancia, pero que a su vez nos presenta una opor-tunidad única para mejorar nuestras vidas y construir un futuro mejor.
+
+Como consecuencia, se ha generado un debate global, donde todos los países in-tentan encontrar la manera de aprovechar todos los beneficios asociados a la IA y ge-nerar confianza en el ciudadano, mientras que se procuran mitigar sus riesgos. El paso más importante, sin duda, ha sido el con-senso internacional en foros y organismos internacionales como la OCDE, UNESCO, el G20 o las Naciones Unidas alrededor de la necesidad de desarrollar e implantar una IA responsable, ética y segura.
+
+La IA responsable implica el desarrollo y la implementación de sistemas inteligentes que se adhieren a principios normativos só-lidos, protegiendo los derechos humanos, la igualdad, la privacidad y la no discrimina-ción. La seguridad juega también un papel crucial en garantizar que los sistemas de IA no solo funcionan correctamente, sino que también están protegidos contra posibles amenazas y vulnerabilidades. La ética, por su parte, establece los principios morales que deben guiar el diseño y el uso responsa-ble de la IA, asegurando que sus aplicacio-nes benefician a la sociedad en su conjunto.
+
+En este contexto, la Agencia Española de Supervisión de la Inteligencia Artificial (AE- SIA), ubicada en A Coruña, tiene la compe-tencia de asegurar que en España se des-pliegan sistemas de inteligencia artificial seguros, responsables y éticos. Esta compe-tencia impacta de manera transversal tanto en el desarrollo de modelos fundacionales como en la tracción que éstos generen de su aplicación a modelos de lenguaje espe-cializados, y su implantación y despliegue tanto en el sector público como en las apli-caciones industriales y el sector de la ciber-seguridad1.
+
+La rápida evolución de los algoritmos y los impactos relativos o absolutos que estos pueden tener en la vida de las personas, incluso cuando no afectan directamente a derechos fundamentales, puede conducir a situaciones injustas y ampliar las brechas existentes, como la socioeconómica, o in-cluso solidificar la cada vez más presente brecha digital. Es necesario, por ello, un debate urgente, profundo e integral en el que toda la sociedad pueda participar y di-rima estos desafíos estructurales que la IA plantea para establecer límites claros y una co-gobernanza transparente que pueda guiar a la sociedad en el uso y disfrute de esta tecnología. La AESIA será la responsa-ble de conducir este debate y de alcanzar los consensos sobre el límite en la toma de decisiones de los algoritmos.
+
+1Teniendo en cuenta las exclusiones contempladas en el artículo 2.3 del Reglamento (UE) competente en la caracterización de productos de carácter crítico para la seguridad nacional.
+
+Este debate sobre la gobernanza de la IA debe concretarse en las realidades especí-ficas de cada sector productivo y social, ya que la aplicación de esta tecnología pre-senta desafíos y oportunidades únicas que requieren un enfoque cuidadoso y con-textualizado. Desde la agricultura hasta la educación, es crucial desarrollar marcos de acción, ejecución y difusión flexibles pero sólidos que promuevan la innovación mien-tras protegen los derechos y valores funda-mentales, aseguran la transparencia y per-miten el desarrollo de una sociedad cada vez más equitativa.
+
+El Gobierno de España ha formado parte de este consenso internacional desde su ini-cio, no solo con la publicación de la Carta de Derechos Digitales, sino también con el liderazgo durante su Presidencia del Conse-jo de la UE, y lo entiende como uno de los ejes vertebradores y trasversales de esta Es-trategia de IA, con una nueva orientación para convertir España en un país con una economía competitiva y un sector público eficiente y centrado en el ciudadano gracias a una IA responsable, ética y segura.
+
+La Unión Europea después del trabajo reali-zado durante la Presidencia española, insta a sus Estados miembro a montar las estruc-turas adecuadas que permitan la ejecución, vigilancia y supervisión en el mercado de los sistemas de IA de alto riesgo. Adoptar una normativa no es suficiente para asegurar que nuestra economía y sociedad aprove-chan todos los beneficios de esta tecnolo-gía a la vez que los ciudadanos, empresas, administraciones públicas y otros actores se empoderan en hacer respetar sus derechos digitales, en la utilización de la IA y en en-tender su capacidad de mitigación de sus posibles riesgos.
+
+Ilustración 7. Reglamento IA. Clasificación de los sistemas de IA según su riesgo.
+
+### Sistemas de IA de Riesgo Inaceptable
+
+Se prohibe el uso de sistemas de IA como:
+
+• Manipulación cognitivo-conductual
+
+• Explotación de vulnerabilidades de personas
+
+• Categorización biométrica para inferir datos sensibles (orientación sexual, creencias, etc.)
+
+• Puntuación y/o clasificación social
+
+• Extración no selectiva de imágenes faciales de Internet para crear o ampliar bases de datos de reconocimiento facial
+
+• Reconocimiento de emociones en el lugar del trabajo y en las instituciones educativas
+
+• Algunos casos de vigilancia policial predictiva para las personas
+
+Ejemplo: Clasificación social
+
+### Sistemas de IA de Alto Riesgo (HRAIS)
+
+Los sistemas de IA que pueden conducir a un riesgo significativo para la salud, la seguridad o los derechos fundamentales, como:
+
+• Contratación, promoción, evaluación
+
+• Acceso a créditos y seguros de vida y salud
+
+• identificación biométrica (a excepción de la mera identificación del usuario final y las prácticas prohibidas)
+
+• Infraestructuras críticas según Directiva UE 2022/2557
+
+• Otros productos ya regulados por normas armonizadas UE (dispositivos médicos, ascensores, vehículo autónomo, etc.)
+
+Ejemplo: Promoción automática de empleados
+
+### Sistemas de IA con obligaciones de transparencia específicas
+
+• La interacción con humanos
+
+• la generación de contenidos manipulados
+
+• Control migratorio: Revelar que el contenido ha sido generado por IA
+
+Obligaciones de transparencia para modelos GPAIs
+
+• Documentación técnica del modelo
+
+• Facilitar documentación a los proveedores de sistemas de IA que integren el modelo
+
+• Respeto de la legislación de derechos de autor y publicar un resumen detallado de los datos usados en el entrenamiento del modelo
+
+Ejemplo: Uso de bots
+
+### Sistemas de IA de Riesgo Inexistente o Mínimo
+
+Permitido sin restricciones
+
+Ejemplo: Mantenimiento predictivo
+
+Si bien el Reglamento Europeo de IA abor-da ciertos límites para los sistemas de IA de alto riesgo, es crucial ampliar esta dis-cusión e integrar a toda la sociedad para abarcar también los usos que no forman parte de este marco regulatorio, así como su transparencia y calidad. Por ello es pre-ciso que la AESIA se enfoque en definir altos niveles de transparencia y confiabili-dad de modelos y sistemas de IA, median-te procesos de evaluación y revisión.
+
+## Iniciativa 8.1 Creación de un Think & Do Tank de inteligencia de la IA
+
+La AESIA se convertirá en la institución que ge-nere inteligencia sobre la IA en el país y estará llamada a generar un debate sobre la gobernan-za de esta tecnología para que nuestra sociedad avance hacia un consenso por parte de todos los actores sociales y económicos de manera que po-damos establecer los límites de su uso y desplie-gue. La AESIA nace con competencias claras de cariz divulgativo sobre la IA, incluyendo la crea-ción de conocimiento, formación y difusión en relación con el carácter de una IA ética, respon-sable y segura para mostrar tanto su potencial y oportunidades para el desarrollo socioeconómi-co, la innovación y la transformación del modelo productivo, como los retos, riesgos e incertidum-bres que plantea su adopción y el futuro progre-so de esta tecnología. .
+
+Esta competencia se erige como uno de los pila-res fundamentales sobre los que se sustentará el trabajo realizado por la AESIA, con el objetivo de convertirse en un Think & Do Tank de referencia en España con capacidad para desarrollar análi-sis sobre tendencias, perspectivas, elementos in-novadores y diferenciales que puedan existir en el mercado. Estará llamada a aportar su visión y su experiencia en los debates y a las políticas públicas que lleven a cabo actores públicos y so-ciales, sirviendo, en última instancia, de faro guía para el desarrollo y el despliegue de la IA.
+
+Para ello, la AESIA tomará como referencia otros think tanks sobre IA que existen en el mundo, como el Centre for Data Ethics and Innovation del Reino Unido, el Stanford HAI o el AI Now Institute, ambos de Estados Unidos o el Future of Humanity Institute de la Universidad de Oxford, ejemplos que también inspirarán y guiarán sus acciones y cuyas conclusiones podrán servir para construir el debate nacional.
+
+Además, la AESIA contribuirá también a enrique-cer el conocimiento sobre la IA de frontera, la capacidad actual y futura de la IA que pueda ser extremadamente poderosa, éticamente preocu-pante o socialmente perjudicial. Esto requiere una supervisión continua de los avances en in-vestigación, así como la implementación de me-didas de seguridad, la creación de estándares y de sistemas de monitoreo y colaboración con los institutos de seguridad de la IA del Reino Unido y de EEUU.
+
+Para conseguir su labor de generación de debate nacional, se preparará un plan de trabajo anual con la creación de los distintos foros de debate sectoriales y especializados por temáticas clave de la IA, como pueden ser el mercado laboral, el impacto en el sistema educativo o en la medicina o incluso la actualización de la legislación vigente en materia de derechos de propiedad intelectual o de competencia, y en colaboración con los or-ganismos líderes en esas materias.
+
+De estos foros sectoriales y especializados de debate, se publicarán informes de conclusiones sectoriales y horizontales o guías que permitan analizar en profundidad las tendencias, los de-safíos, impactos sociales, económicos, éticos y legales y las oportunidades para la innovación, el crecimiento económico y la competitividad.
+
+Estos se actualizarán de manera regular reco-giendo nuevos avances e informarán las futu-ras discusiones de los diferentes Ministerios, Comunidades Autónomas u otros organismos, asociaciones o entidades, al ofrecer una visión panorámica de cómo la IA se está desarrollando y aplicando en diversos sectores, facilitando, por tanto, un diálogo más informado entre los res-ponsables de la toma de decisiones, los expertos en tecnología y el público en general.
+
+Estos foros implicarán la colaboración de cientí-ficos, especialistas de diversas materias, tecnó-logos, filósofos, legisladores y la sociedad en su conjunto de manera que las decisiones sobre el futuro de la IA se tomen de manera informada y abierta, priorizando el bienestar humano, el progreso responsable y la seguridad global.
+
+Además, la AESIA servirá como fuente de pros-pectiva que permita identificar buenas prácticas en el desarrollo de la IA, y también riesgos emer-gentes, incluidos aquellos que surjan de combi-nación de diferentes tecnologías con la IA, así
+
+como las áreas donde la regulación y las políticas podrían necesitar adaptarse para abordar nue-vos desafíos y oportunidades. Esta prospectiva también ayudará a las empresas y organizacio-nes a mantenerse a la vanguardia de las últimas tendencias en IA, promoviendo el uso de prin-cipios éticos, de responsabilidad y de seguridad en el desarrollo de productos y servicios.
+
+En conclusión, la AESIA será responsable de cons-truir un proceso de debate, que implique a toda la sociedad y en todos los sectores productivos, en el que se pueda definir un marco claro sobre la gobernanza de la IA, construyendo sobre lo logrado hasta hoy con el Reglamento de IA y fijando los límites entre lo que puede asignarse a las máquinas y lo que ha de reservarse para los seres humanos. Con ello, la AESIA acabará constituyéndose en el centro de pensamiento sobre esta tecnología de vanguardia, siendo la “Inteligencia de la Inteligencia Artificial”.
+
+## Iniciativa 8.2 Supervisión de un despliegue responsable e innovador de la IA
+
+Con la creación de la AESIA, España se ha con-vertido en el primer país europeo en tener una institución de estas características, anticipándo-se a la entrada en vigor del Reglamento Euro-peo de Inteligencia Artificial, asegurando que el desarrollo y la aplicación de la IA sean res-ponsables y beneficiosos para la sociedad en su conjunto.
+
+Por tanto, debe desarrollar la capacidad de su-pervisión de los sistemas de IA de alto riesgo para garantizar el cumplimiento, y más concre-tamente, la supervisión y, en su caso, sanción, de acuerdo con lo estipulado en la normativa europea.
+
+Dentro de sus competencias de supervisión, la AESIA será la Autoridad de Vigilancia de Merca-do y punto único de contacto responsable de la evaluación de conformidad de los sistemas de IA de alto riesgo, así como de la coordinación, sinergias y cumplimiento de la normativa euro-pea por parte de todas las autoridades de vigi-lancia de mercado sectoriales cuyos sistemas y procedimientos se verán impactados y deberán actualizarse.
+
+La AESIA colaborará activamente en la genera-ción de elevados estándares para la evaluación de los sistemas de IA a nivel europeo y nacional en los correspondientes organismos de estan-darización, teniendo en cuenta las reivindicacio-nes de las pymes y startups, así como contribui-rá de manera activa a la creación de códigos de conducta y de buenas prácticas que se negocien a nivel nacional y europeo, y que sirvan para avanzar en el cumplimiento de las obligaciones de transparencia tanto de los sistemas de IA que no sean de alto riesgo como de los mode-los de IA de propósito general. Estos códigos servirán para impulsar modelos transparentes, abiertos y confiables. En particular, la AESIA se encargará de que los modelos fundacionales en castellano y lenguas cooficiales recogidas en la palanca 3 de este plan, promuevan los máximos estándares de transparencia y confiabilidad.
+
+La AESIA también será responsable de ejecutar las medidas de fomento de la innovación, como son los sandboxes regulatorios para apoyar la innovación responsable, sobre todo en pymes y startups, o la aprobación y supervisión de los planes de testeo en condiciones reales que se realicen con sistemas de IA de alto riesgo. En línea con esta competencia, la AESIA también apoyará el desarrollo y uso de sistemas de IA de todo tipo, colaborando en iniciativas de otras entidades del sector público, así como impulsa-rá la colaboración público-privada en IA.
+
+En su ambición por el desarrollo y despliegue de una IA responsable, segura y ética, la AESIA con-tribuirá con procesos para demostrar la calidad, transparencia y seguridad de aquellos sistemas de IA que no son considerados de alto riesgo según el Reglamento. Se podrán extender tam-bién a aquellos proveedores de modelos de IA de propósito general o modelos fundacionales. Además, la AESIA será la responsable de validar la transparencia y la fiabilidad de todos los sis-temas de IA que se elaboren sobre la base del modelo grande del lenguaje, referido en el eje 1 del presente documento, así como los mode-los especializados de IA que vayan a ser usados por organismos del sector público.
+
+Finalmente, la AESIA también tendrá, en línea con el Real Decreto 729/2023, la responsabili-dad de la promoción del uso responsable, sos-tenible y confiable de la IA, en la que se recoge el establecimiento de un mecanismo de aseso-ramiento que permita analizar y verificar el de-sarrollo y la implementación segura y confiable de tecnologías basadas en IA.
+
+## Iniciativa 8.3 La AESIA como referente internacional en inteligencia artificial
+
+Gracias a su trabajo de generación de conoci-miento y consensos y sus competencias de su-pervisión y ejecución de la legislación vigente en materia de IA, la AESIA se convertirá en un referente internacional, contribuyendo a los di-ferentes procesos de reflexión internacionales y europeos sobre la gobernanza de la IA o sobre futuras líneas de colaboración, políticas públicas y relaciones internacionales en materia de IA.
+
+La AESIA será la encargada de representar a España en el Comité de IA que liderará la coor-dinación europea en materia de supervisión de la IA con el apoyo de la Comisión Europea a través de su Oficina de IA. Como representan-te español, la AESIA no solo reportará sobre sus funciones de supervisión y promoción de la innovación, sino que también contribuirá a la definición de códigos de buenas prácticas de modelos de IA de propósito general, a la gene-ración de estándares y actos de ejecución del Reglamento como por ejemplo en la definición de las características de los sandboxes regulato-rios o al intercambio de información y alertas sobre la supervisión llevada a cabo en los distin-tos Estados Miembros.
+
+La AESIA además será la encargada de parti-cipar en los foros de reflexión internacionales para apoyar el consenso internacional sobre la gobernanza de la IA como, por ejemplo, en el seno de las Naciones Unidas, apoyando la la-bor del Panel de Alto Nivel de la ONU en IA. Apoyará la generación de directrices de imple-mentación de los Principios de IA ética en el G20 de manera que España consiga posicionar un estándar responsable de ejecución de la IA, dando soporte a la Presidencia brasileña en sus prioridades anuales y también a futuras presi-dencias y aportando conocimiento y experien-cia en la revisión de la Recomendación sobre los Principios de IA ética de la OCDE, así como su posterior implementación.
+
+La AESIA tendrá especial foco en poner a dis-posición de la región latinoamericana el conoci-miento y sus activos en materia de IA, entre ellos el modelo grande del lenguaje, bajo el marco de la “Alianza Digital Unión Europea-América Latina y el Caribe (UE-LAC)” y a través de rela-ciones bilaterales con países líderes en IA en la región.
+
+Adicionalmente, la AESIA avanzará, en parti-cular, el compromiso español de conseguir una convergencia regulatoria de políticas y norma-tiva en IA, construyendo sobre la Declaración de Madrid anunciada en la 4ª Asamblea de la Alianza Europea de Inteligencia Artificial de no-viembre de 2023.
+
+Seguimiento de la estrategia y modelos de gobernanza
+
+## Seguimiento de la estrategia y modelo de gobernanza
+
+Esta Estrategia, que se concreta en resultados y objetivos espe-cíficos para los próximos dos años como se refleja en la Tabla 6, será coordinada por la Secretaría de Estado de Digitalización e inteligencia artificial. Dado el rápido avance de la Inteligencia Artificial y la necesidad de avanzar con agilidad en las diferentes líneas estratégicas se hará un seguimiento en distintas dimensio-nes con las entidades implicadas en cada una de ellas.
+
+Por un lado, para el seguimiento del despliegue de la infraes-tructura pública de modelos de lenguaje, como se ha indica-doen la palanca 3 del Eje 1, se articulará un convenio de cola-boración con las entidades mencionadas en ese apartado, por el cual se creará una Comisión de Seguimiento que guiará las distintas etapas de despliegue de la familia de modelos ALIA.
+
+Por otro lado, dado el carácter transversal de la inteligencia ar-tificial, y en particular, de la Estrategia de Inteligencia Artificial 2024, es necesario que todos los ministerios contribuyan a su desarrollo y estén informados de los avances.
+
+Para ello se ha creado recientemente la Comisión Interministe-rial para la coordinación y el seguimiento de las medidas a favor de la conectividad y la digitalización de la economía y la socie-dad en el ámbito de la Administración General del Estado, cuya presidencia corresponde a la persona titular de la Secretaría de Estado de Digitalización e Inteligencia Artificial. Será a través de esta comisión donde se informará y se hará seguimiento de las distintas fases de las medidas que componen la Estrategia.
+
+Por último, como se ha indicado en la palanca 5, la Adminis-tración General del Estado no puede quedarse al margen de la revolución que supone la inteligencia artificial y es necesario introducir esta tecnología en su funcionamiento ordinario. Por ello, con el fin de detectar, seleccionar y desplegar casos de uso en los que se vean claros beneficios para la mejora del servicio a los ciudadanos, y para disponer de una administración más eficiente y eficaz, se harán reuniones con carácter semestral, de la Comisión de Estrategia TIC, máximo órgano de gobernanza TIC en la Administración General del Estado, en el que están representados todos los Ministerios.
+
+La colaboración con las CCAAs se realizará a través de la Confe-rencia Sectorial para la Transformación Digital.
+
+Con carácter anual, se elevará un informe de estado de situa-ción de la Estrategia de Inteligencia Artificial 2024 al Consejo de Ministros.
+
+Tabla 6. Estrategia de Inteligencia Artificial 2024: Hitos y plazos
+
+Fecha objetivo Hito Iniciativas Fondos 2024-2025
+
+Palanca 1: Impulsar la inversión en supercomputación
+
+### 1.1 Refuerzo de la supercomputación en IA
+
+Aumento de capacidad del MareNostrum 5 superando los 450 Pflots de capacidad
+
+### 1.2. Servicios de supercomputación en la industria
+
+Fin de 2025
+
+55 -90 M€ (C 16 PRTR)
+
+Disponibilizar el 20% de las capacidades de supercomputación para usos industriales
+
+### 1.3. Refuerzo de la Red Española de supercomputación
+
+Refuerzo del gobierno y los recursos de la red
+
+Fin de 2025
+
+Fin de 2024
+
+5 M € (C 16 PRTR)
+
+Palanca 2: Generar capacidades de almacenamiento en condiciones de sostenibilidad
+
+### 2.1. Centros de procesamiento de datos sostenibles
+
+Transposición de Directiva e eficiencia energética y estrategia nacional
+
+### 2.2. Planificación y ordenación en la instalación de CPD
+
+Fin de 2024
+
+Desarrollo de un marco de ordenación y planificación de los centros de procesamiento de datos
+
+### 2.3. Sello y ecosistema en torno a la IA sostenible
+
+Fin de 2024
+
+Diseño de acreditación de calidad de la industria en IA sostenible
+
+Fin de 2025
+
+Palanca 3: Generar modelos y corpus que constituyan una infraestructura pública de modelos del lenguaje
+
+### 3.1. Desarrollo de corpus de elevada calidad
+
+3,4 M€ (C16 PRTR)
+
+Construir el mayor repositorio de datos (mínimo 4mil millones de palabras) para entrenamiento de modelos con presencia del castellano y lenguas cooficiales
+
+### 3.2. Desarrollo de modelos fundacionales en castellano y lenguas cooficiales
+
+Fin de 2025
+
+2,2 M € (C16 PRTR)
+
+Disponibilidad de una familia de modelos fundacionales en castellano y lenguas cooficiales
+
+### 3.3. Generación de modelos especializados o de propósito específico
+
+Primer modelo en verano 2024
+
+3 M € (C16 PRTR)
+
+Primeros modelos en sectores concretos
+
+### 3.4. Infraestructura y procesos para evaluación de modelos de lenguaje
+
+Fin de 2024
+
+1,5 M € (C16 PRTR)
+
+Diseño de plataforma pública de evaluación de modelos a disposición del público
+
+Palanca 4: Fomentar el talento en la IA
+
+### 4.1. Institucionalización y refuerzo de los proyectos de IA en ejecución
+
+Creación de una red de iniciativas de IA en distintos sectores
+
+### 4.2. Fomento de las competencias en IA
+
+Desarrollo de programa de becas para fomentar el talento en IA
+
+Fin de 2025
+
+Fin de 2025
+
+300 M€*(Fondos FEDER) Compartidos con línea 6.3
+
+Fin de 2025
+
+150 M€ (C19 PRTR)
+
+Convocatoria IA excelente
+
+10 M€ (C16 PRTR)
+
+Fecha objetivo Hito Iniciativas Fondos 2024-2025
+
+Palanca 5: Impulsar la IA en el sector público
+
+### 5.1. Incubadora de casos de uso para la AGE
+
+21 M€ (C13 PRTR)
+
+Creación de un laboratorio de innovación IA para el desarrollo de soluciones
+
+### 5.2. Servicios basados en modelos de IA en la AGE
+
+Fin de 2024
+
+Creación de un nodo de servicios tecnológicos en IA centralizados
+
+### 5.3. Gobernanza común de datos de la AGE
+
+Fin de 2025
+
+Desarrollo de un modelo común de gobernanza
+
+Fin de 2025
+
+Palanca 6: Ayudar a la expansión de la IA en el sector privado, singularmente en pymes
+
+### 6.1. Incorporación de la IA a los procesos de las pymes
+
+Programas de impulso y adopción de IA en pymes
+
+### 6.2. Desarrollo del ecosistema empresarial de IA
+
+Inversiones Next Tech focalizadas en IA
+
+### 6.3. Infraestructura segura de entrenamiento de modelos comerciales de propósito específico
+
+350 M€ del Kit digital + 300 M€ del Kit Consulting (C13 PRTR, máximo) 400 M€ (Fondo Next Tech)
+
+Fin de 2024
+
+Mediados de 2026
+
+Diseño de programa integral de soporte, servicios e impulso a startups en modelos de lenguaje
+
+Palanca 7: Desarrollar un marco de ciberseguridad
+
+### 7.1. Elaboración de una ley de ciberseguridad
+
+Aprobación de la ley
+
+### 7.2. Impulso del ecosistema empresarial de la ciberseguridad con IA
+
+Inversiones en reforzar la ciberseguridad de las empresas
+
+Palanca 8: Desarrollar las funciones de la AESIA
+
+### 8.1. Creación de un
+
+Think & Do Tank de inteligencia de la IA
+
+AESIA operativa
+
+8.2. Supervisión de un despliegue responsable e innovador de la IA
+
+### 8.3. La AESIA como referente internacional en inteligencia artificial
+
+300 M€*(Fondos FEDER, compartidos con línea 4.1)
+
+Fin de 2025
+
+Fin de 2024
+
+Fin de 2025
+
+Fin de 2024
+
+Fin de 2024
+
+Fin de 2024
+
+### Lista de términos y acrónimos
+
+AAPP
+
+Administraciones Públicas
+
+AEAT
+
+Agencia Estatal de la Administración Tributaria
+
+AESIA
+
+Agencia Española de Supervisión de la Inteligencia Artificial
+
+AGE
+
+Administración General del Estado
+
+AI Act
+
+Reglamento europeo de Inteligencia Artificial
+
+AI Office
+
+Oficina de Inteligencia Artificial
+
+ANECA
+
+Agencia Nacional de Evaluación de la Calidad y Acreditación
+
+BI
+
+Inteligencia de negocio (Business Intelligence)
+
+Barcelona Supercomputing Centre – Centro Nacional de Supercomputación
+
+BSC-CNS
+
+CCAA
+
+Comunidades Autónomas
+
+CENID
+
+Centro de Inteligencia Digital de Alicante
+
+CSIC
+
+Consejo Superior de Investigaciones Científicas
+
+CPD
+
+Centro de Procesamiento de Datos
+
+CPU
+
+Unidad de Procesamiento de Datos
+
+Edge-Computing
+
+Procesamiento en el borde
+
+ENIA
+
+Estrategia Nacional de Inteligencia Artificial
+
+EEUU
+
+Estados Unidos
+
+ES
+
+España
+
+EU
+
+Unión Europea
+
+Compromiso Común Europeo de Computación de Alto Rendimiento (European High Performance Computing Joint Undertaking)
+
+EuroHPC JU
+
+GPAI
+
+Sistemas de inteligencia artificial de propósito general
+
+GPU
+
+Unidades de Procesamiento Gráfico
+
+Computación de alto rendimiento (High Performance Computing)
+
+HPC
+
+I+D+i
+
+Investigación, desarrollo e innovación
+
+IA
+
+Inteligencia Artificial
+
+JRC
+
+Joint Research Centre
+
+IEA
+
+Agencia Internacional de la Energía
+
+LLM
+
+Modelos grandes del lenguaje (Large Language Model)
+
+OCDE
+
+Organización para la Cooperación y el Desarrollo Económico
+
+OT
+
+Tecnología Operativa
+
+Proyectos Estratégicos para la Recuperación y Transformación Económica
+
+PERTE
+
+PNTL
+
+Plan Nacional de Tecnologías del Lenguaje
+
+Asociación para la Computación Avanzada en Europa (Partnership for Advanced Computing in Europe)
+
+PRACE
+
+PRTR
+
+Plan de Recuperación, Transformación y Resiliencia
+
+PUE
+
+Eficacia en el uso de la energía (Power Usage Effectiveness)
+
+PYME
+
+Pequeña y Mediana Empresa
+
+RAE
+
+Real Academia Española
+
+RES
+
+Red Española de Supercomputación
+
+RETECH
+
+Redes Territoriales de Especialización Tecnológica
+
+SLM
+
+Modelos especializados del lenguaje (Small Language Model)
+
+TIC
+
+Tecnologías de la Información y la Comunicación
+
+TL
+
+Tecnologías del Lenguaje
+
+UE-LAC
+
+Unión Europea – América Latina y el Caribe
+
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura
+
+UNESCO
+
+WUE
+
+Eficacia en el uso del agua (Water Usage Effectiveness)
+
+Relación de ilustraciones
+
+Ilustración 1. Desarrollo de la supercomputación entre 1993-2023 ............................................................13 Ilustración 2. Crecimiento de los grandes modelos de lenguaje (LLM) ........................................................24 Ilustración 3. Fases en el desarrollo y despliegue de los modelos de lenguaje ............................................25 Ilustración 4. Relación entre calidad de los servicios públicos y crecimiento económico .............................38 Ilustración 5: Servicios públicos digitales para ciudadanos .........................................................................40 Ilustración 6. Evolución en el uso de IA .......................................................................................................46 Ilustración 7.Reglamento IA. Clasificación de los sistemas de IA según su riesgo .......................................56
+
+Relación de tablas
+
+Tabla 1. Supercomputadores europeos de acuerdo al 62º informe TOP 500 (Noviembre 2023) .................12 Tabla 2. Evolución de las capacidades del MareNostrum, el principal supercomputador español .................15 Tabla 3. Distribución de ejecución presupuestaría en IA (abril de 2024) ...................................................... 32 Tabla 4. Distribución de ejecución presupuestaría en IA por sectores (abril de 2024) ....................................33 Tabla 5. Distribución de inversión presupuestaria en iniciativas de capacitación en IA (abril 2024) ..............34 Tabla 6. Estrategia de Inteligencia Artificial 2024: Hitos y plazos .................................................................64
+
+Relación de figuras
+
+Figura 1. Red Española de Supercomputación (RES) .................................................................................17 Figura 2. IA Sostenible ...............................................................................................................................21 Figura 3. Evolución de los modelos del lenguaje ........................................................................................24 Figura 4. Evolución de los Servicios público ................................................................................................38 Figura 5. Comparativa de los Servicios públicos digitales ..........................................................................40 Figura 6. Adopción de la IA en la AAPP .....................................................................................................41 Figura 7. Gobierno de casos de uso de la AGE ...........................................................................................43 Figura 8. Crecimiento en el uso de la IA .....................................................................................................46

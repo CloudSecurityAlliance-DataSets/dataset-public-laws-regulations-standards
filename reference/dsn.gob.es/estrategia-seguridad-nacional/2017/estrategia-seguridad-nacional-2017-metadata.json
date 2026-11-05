@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2017",
+  "name": "Estrategia de Seguridad Nacional 2017 (Real Decreto 1008/2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "estrategia-seguridad-nacional-2017",
+  "owner": "Departamento de Seguridad Nacional",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia de Seguridad Nacional 2017 (Real Decreto 1008/2017 of December 1, 2017, BOE-A-2017-15181).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
+  "license": {
+    "spdx": "LicenseRef-ES-TRLPI-Art13",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    "note": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
+    "notes": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.boe.es/boe/dias/2017/12/21/pdfs/BOE-A-2017-15181.pdf",
+    "textUsed": "https://www.boe.es/boe/dias/2017/12/21/pdfs/BOE-A-2017-15181.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-12-01",
+    "active": false,
+    "supersedes": "secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2013",
+    "supersededBy": "secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2021",
+    "retiredFromActiveUse": "2021-12-28",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 39-page PDF (https://www.boe.es/boe/dias/2017/12/21/pdfs/BOE-A-2017-15181.pdf) locally via PyMuPDF (135,515 chars). Parsed 8 sections (7 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

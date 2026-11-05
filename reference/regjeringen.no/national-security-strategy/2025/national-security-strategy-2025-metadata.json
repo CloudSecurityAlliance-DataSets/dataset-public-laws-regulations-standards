@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/regjeringen.no/national-security-strategy@2025",
+  "name": "National Security Strategy for Norway (Nasjonal sikkerhetsstrategi) (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-security-strategy-2025",
+  "owner": "Government of Norway (Regjeringen)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy for Norway (Nasjonal sikkerhetsstrategi)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Norway (Regjeringen) (regjeringen.no) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Norway (Regjeringen) (regjeringen.no).",
+  "license": {
+    "spdx": "NLOD-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://data.norge.no/nlod/en/2.0",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (regjeringen.no) is governed by Norwegian Copyright Act (Åndsverkloven, LOV-2018-06-15-40) § 14 (statutes, regulations, and official reports/documents issued by public authorities excluded from copyright) and Norwegian Licence for Open Government Data (NLOD 2.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (regjeringen.no) is governed by Norwegian Copyright Act (Åndsverkloven, LOV-2018-06-15-40) § 14 (statutes, regulations, and official reports/documents issued by public authorities excluded from copyright) and Norwegian Licence for Open Government Data (NLOD 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.regjeringen.no/en/dokumenter/national-security-strategy/id3099015/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-05-08",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/regjeringen.no/national-security-strategy@2025 (https://www.regjeringen.no/en/dokumenter/national-security-strategy/id3099015/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

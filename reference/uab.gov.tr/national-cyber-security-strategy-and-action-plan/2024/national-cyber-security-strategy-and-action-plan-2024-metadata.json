@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/uab.gov.tr/national-cyber-security-strategy-and-action-plan@2024",
+  "name": "National Cyber Security Strategy and Action Plan of Türkiye (2024–2028)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-cyber-security-strategy-and-action-plan-2024",
+  "owner": "Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security Strategy and Action Plan of Türkiye (2024–2028)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Transport and Infrastructure & Presidency of the Republic of Türkiye (uab.gov.tr).",
+  "license": {
+    "spdx": "LicenseRef-TR-Law5846-Art31",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5846&MevzuatTur=1&MevzuatTertip=3",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (uab.gov.tr) is governed by Republic of Türkiye Law No. 5846 on Intellectual and Artistic Works Art. 31 (laws, regulations, Presidential decrees/circulars, and official publications may be freely reproduced and disseminated).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (uab.gov.tr) is governed by Republic of Türkiye Law No. 5846 on Intellectual and Artistic Works Art. 31 (laws, regulations, Presidential decrees/circulars, and official publications may be freely reproduced and disseminated)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.uab.gov.tr/ulusal-siber-guvenlik-stratejisi-ve-eylem-plani",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-09",
+    "active": true,
+    "supersedes": "secid:reference/uab.gov.tr/national-cyber-security-strategy-and-action-plan@2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/uab.gov.tr/national-cyber-security-strategy-and-action-plan@2024 (https://www.uab.gov.tr/ulusal-siber-guvenlik-stratejisi-ve-eylem-plani) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

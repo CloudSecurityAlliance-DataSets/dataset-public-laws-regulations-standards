@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/mtt.gov.rs/national-security-strategy-of-serbia@2019",
+  "name": "National Security Strategy of the Republic of Serbia (Стратегија националне безбедности Републике Србије) (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-security-strategy-of-serbia-2019",
+  "owner": "Ministry of Information and Telecommunications & Government of the Republic of Serbia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy of the Republic of Serbia (Стратегија националне безбедности Републике Србије)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information and Telecommunications & Government of the Republic of Serbia (mtt.gov.rs).",
+  "license": {
+    "spdx": "LicenseRef-RS-Copyright-Art6",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/6838",
+    "note": "Official publication (mtt.gov.rs); Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
+    "notes": "Official publication (mtt.gov.rs); Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mod.gov.rs/eng/4350/strategije-4350",
+    "textUsed": "https://www.mod.gov.rs/multimedia/dodaci/prilog2_strategijanacionalnebezbednostirs_eng_1731678276.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-12-27",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://www.mod.gov.rs/multimedia/dodaci/prilog2_strategijanacionalnebezbednostirs_eng_1731678276.pdf) from landing page (https://www.mod.gov.rs/eng/4350/strategije-4350); extracted 61-page PDF via PyMuPDF (120,219 chars). Parsed 21 sections (17 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

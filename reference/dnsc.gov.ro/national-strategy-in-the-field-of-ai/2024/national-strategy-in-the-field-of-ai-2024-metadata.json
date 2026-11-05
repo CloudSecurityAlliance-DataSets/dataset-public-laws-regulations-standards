@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/dnsc.gov.ro/national-strategy-in-the-field-of-ai@2024",
+  "name": "National Strategy in the Field of Artificial Intelligence 2024–2027 (GD No. 832/2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-strategy-in-the-field-of-ai-2024",
+  "owner": "National Cyber Security Directorate (DNSC) & Government of Romania",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Strategy in the Field of Artificial Intelligence 2024–2027 (GD No. 832/2024)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Directorate (DNSC) & Government of Romania (dnsc.gov.ro).",
+  "license": {
+    "spdx": "LicenseRef-RO-Law8-1996-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://legislatie.just.ro/Public/DetaliiDocument/7816",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dnsc.gov.ro) is governed by Romanian Law No. 8/1996 on Copyright and Related Rights Art. 9(b) (official texts of a political, legislative, administrative, or judicial nature are excluded from copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dnsc.gov.ro) is governed by Romanian Law No. 8/1996 on Copyright and Related Rights Art. 9(b) (official texts of a political, legislative, administrative, or judicial nature are excluded from copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.research.gov.ro/ro/articol/5813/strategia-nationala-in-domeniul-inteligentei-artificiale-2024-2027",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-11",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/dnsc.gov.ro/national-strategy-in-the-field-of-ai@2024 (https://www.research.gov.ro/ro/articol/5813/strategia-nationala-in-domeniul-inteligentei-artificiale-2024-2027) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dsn.gob.es/estrategia-nacional-ia@2020",
+  "name": "Estrategia Nacional de Inteligencia Artificial (ENIA 2020)",
+  "acronym": "ENIA Spain",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "estrategia-nacional-ia-2020",
+  "owner": "Departamento de Seguridad Nacional",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Inteligencia Artificial (ENIA, presented December 2, 2020).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
+  "license": {
+    "spdx": "LicenseRef-ES-TRLPI-Art13",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    "note": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
+    "notes": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf",
+    "textUsed": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-12-02",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/dsn.gob.es/estrategia-nacional-ia@2024",
+    "retiredFromActiveUse": "2024-05-14",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 90-page PDF (https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf) locally via PyMuPDF (166,939 chars). Parsed 54 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
