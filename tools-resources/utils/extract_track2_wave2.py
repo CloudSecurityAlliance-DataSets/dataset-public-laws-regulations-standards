@@ -1967,6 +1967,8 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             nxt_b = blocks[idx_m + 1]
             if re.search(r"[a-zA-Z]-$", cur_b):
                 cur_b = cur_b[:-1] + nxt_b
+            elif re.search(r"https?://\S*[/._-]$", cur_b):
+                cur_b = cur_b + nxt_b
             else:
                 cur_b = f"{cur_b} {nxt_b}"
             blocks[idx_m + 1] = cur_b

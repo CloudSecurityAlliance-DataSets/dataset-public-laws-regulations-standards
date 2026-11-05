@@ -364,11 +364,19 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
                         return f"{p1}-{p2}"
                     return f"{p1}{p2}"
 
-                joined = re.sub(r"([A-Za-z]+)-\s+([a-z]{2,})", _fix_wrap_hyph, joined)
-                for _ in range(2):
-                    joined = re.sub(r"\b([A-Za-z]+)-([a-z]{2,})\b", _fix_wrap_hyph, joined)
-                for _ in range(3):
-                    joined = re.sub(r"(https?://[A-Za-z0-9._/\-]*[\./\-])\s+([A-Za-z0-9._/\-]+)", r"\1\2", joined)
+                # First repair URLs wrapped across lines before de-hyphenating prose line wraps
+                for _ in range(4):
+                    joined = re.sub(r"(https?://[A-Za-z0-9._/\-]*[\./_])\s+([A-Za-z0-9._/\-]+)", r"\1\2", joined)
+                    joined = re.sub(
+                        r"(https?://[A-Za-z0-9._/\-]*?([A-Za-z]+))-\s+([a-z][A-Za-z0-9._/\-]*)",
+                        lambda m_u: m_u.group(1) + ("-" if m_u.group(2).lower() in _keep_hyph else "") + m_u.group(3),
+                        joined,
+                    )
+                joined = re.sub(r"(https?://\S+)\s+\)", r"\1)", joined)
+                # Strip second line-wrap hyphen on compound words like `high-perfor- mance` -> `high-performance`
+                joined = re.sub(r"\b([A-Za-z]+-[A-Za-z]{2,})-\s+([a-z]{2,})\b", r"\1\2", joined)
+                # De-hyphenate single line-wrap hyphens outside URLs
+                joined = re.sub(r"(?<![.\w-])([A-Za-z]+)-\s+([a-z]{2,})", _fix_wrap_hyph, joined)
                 md_lines.append(joined)
                 md_lines.append("")
                 para_parts = []
